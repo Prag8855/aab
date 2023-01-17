@@ -1,0 +1,11 @@
+---
+Title: What is Commerzbank?
+German_term: Commerzbank
+English_term: 
+Description: 
+Date_created: 2018-08-20
+Date_updated: 2020-03-06
+Related_guides: guides/an-honest-review-of-degiro.md
+---
+
+[Commerzbank](/out/commerzbank) is one of the large German banks. They offer general and business banking services to German residents.

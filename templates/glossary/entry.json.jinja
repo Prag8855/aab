@@ -1,0 +1,5 @@
+{
+    "title": {{ entry.title|tojson|safe }},
+    "englishTerm": {{ entry.english_term|tojson|safe }},
+    "definition": {% filter tojson|safe %}{{ entry.body }}{% endfilter %}
+}

@@ -1,0 +1,209 @@
+<aside class="appointment-finder collapsible {% if static|default %}static{% else %}collapsed{% endif %}" aria-label="Anmeldung appointment finder">
+    {% if not static|default %}
+        <div class="header">
+            <h2>
+              <span class="no-desktop">Appointment finder</span>
+              <span class="no-mobile">Anmeldung appointment finder</span>
+            </h2>
+        </div>
+    {% endif %}
+    {% raw %}
+        <div class="body">
+            <p>
+                <strong>
+                    Searching for Anmeldung appointments...
+                </strong>
+                <br>
+                <small v-if="!isRateLimited && secondsToNextMessage === null">Checking every 3 minutes.</small>
+                <small v-if="!isRateLimited && secondsToNextMessage > 0">Checking again in {{ secondsToNextMessage }} seconds.</small>
+                <small v-if="!isRateLimited && secondsToNextMessage <= 0 ">Looking for appointments...</small>
+                <small v-if="isRateLimited">Berlin.de is blocking requests. Pausing for a few minutes.</small>
+            </p>
+            <progress class="refresh-progress" max="180" :value="secondsToNextMessage" role="timer" aria-label="Time until next refresh"></progress>
+            <p v-if="appointments.length === 0" class="no-appointments">
+                New appointments appear here. You don't have to refresh the page.
+            </p>
+            <div v-if="appointments.length > 0" class="options">
+                <div v-for="appointment in appointments" :key="appointment.date">
+                  <div>
+                    <strong>{{ prettyDate(appointment.date) }}</strong>
+                    <br>
+                    <small>{{ relativeDate(appointment.date) }}</small>
+                  </div>
+                  <a role="button" class="button primary" href="https://allaboutberlin.com/out/appointment-anmeldung" target="_blank" title="Book this appointment">
+                    Book
+                  </a>
+                </div>
+            </div>
+            <label class="checkbox">
+                <input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound when there are {{ appointments.length > 0 ? 'better' : 'new' }} appointments
+            </label>
+        </div>
+    {% endraw %}
+</aside>
+{% include '/js/vue.js' %}
+{% js %}
+  const ding = new Audio('/js/ding.wav');
+  document.querySelectorAll(".appointment-finder").forEach((appointmentFinderWidget) => {
+    var app = new Vue({
+      el: appointmentFinderWidget,
+      data() {
+        return {
+          connected: false,
+          originalPageTitle: document.title,
+          playSoundOnNewAppointments: false,
+          reconnectInterval: null,
+          socket: null,
+          lastMessage: null,
+          secondsToNextMessage: null,
+        }
+      },
+      mounted() {
+        this.connect();
+
+        // Connect to API, check every 3 minutes
+        setInterval(() => {
+          if(this.lastChecked) {
+            const nextCheck = new Date(this.lastChecked.getTime() + 180*1000);
+            this.secondsToNextMessage = Math.round(
+              Math.max((nextCheck.getTime() - (new Date()).getTime()) / 1000, 0)
+            );
+          }
+          else {
+            this.secondsToNextMessage = null;
+          }
+        }, 500);
+      },
+      methods: {
+        connect() {
+          this.socket = new WebSocket(`wss://${window.location.hostname}/api/appointments`);
+          this.socket.addEventListener('message', this.onMessage);
+          this.socket.addEventListener('error', this.onError);
+          this.socket.addEventListener('open', this.onConnect);
+          this.socket.addEventListener('close', this.onDisonnect);
+        },
+        onConnect(event) {
+          console.log('Connected to appointments API');
+          this.connected = true;
+          if(this.reconnectInterval){ clearInterval(this.reconnectInterval) }
+          this.reconnectInterval = null;
+        },
+        onDisonnect(event) {
+          this.connected = false;
+          console.warn('Disconnected from appointments API. Reconnecting...');
+          if(!this.reconnectInterval) {
+            this.reconnectInterval = setInterval(this.connect, 5000)
+          }
+        },
+        onMessage(event) {
+          if(!event.data) return;
+          const currentMessage = JSON.parse(event.data);
+          if(currentMessage && currentMessage.status !== 200) {
+            console.error("Could not fetch appointments", event.data);
+            return;
+          }
+
+          this.lastMessage = currentMessage;
+        },
+        onError(event) {
+          console.error('WebSocket error', event);
+        },
+        prettyDate(date) {
+          const month = [
+            'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',
+          ][date.getMonth()];
+          return `${month} ${date.getDate()}`;
+        },
+        dayOfWeek(date) {
+          return ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][date.getDay()];
+        },
+        weekDiff(date1, date2) {
+          const firstDayOfWeekDate1 = new Date(date1);
+          firstDayOfWeekDate1.setDate(date1.getDate() - (date1.getDay() + 6) % 7);
+          firstDayOfWeekDate1.setHours(0,0,0,0);
+
+          const firstDayOfWeekDate2 = new Date(date2);
+          firstDayOfWeekDate2.setDate(date2.getDate() - (date2.getDay() + 6) % 7);
+          firstDayOfWeekDate2.setHours(0,0,0,0);
+
+          const firstDayOfWeekDiff = Math.floor((firstDayOfWeekDate1 - firstDayOfWeekDate2) / (24 * 60 * 60 * 1000));
+          return Math.ceil(firstDayOfWeekDiff / 7);
+        },
+        relativeDate(date) {
+          const now = new Date();
+          const daysDiff = Math.abs(Math.ceil((date - now) / (24 * 60 * 60 * 1000)));
+          const weekDiff = this.weekDiff(date, now);
+          if(daysDiff === 0) {
+            return 'Today';
+          }
+          else if(daysDiff === 1) {
+            return 'Tomorrow';
+          }
+          else if(weekDiff === 0) {
+            return `This ${this.dayOfWeek(date)}`;
+          }
+          else if(weekDiff === 1) {
+            return `Next ${this.dayOfWeek(date)}`;
+          }
+          else {
+            return `${this.dayOfWeek(date)} in ${weekDiff} weeks`;
+          }
+        },
+        updateWindowTitle() {
+          // Only control the title on the dedicated tool page
+          if(!window.location.pathname.startsWith('/tools/appointment-finder')) {
+            return;
+          }
+
+          if(!this.appointments.length) {
+            document.title = this.originalPageTitle;
+            return;
+          }
+
+          const timeToEarliestAppointment = this.appointments[0].date.getTime() - (new Date()).getTime();
+          const daysToEarliestAppointment = Math.ceil(timeToEarliestAppointment / (1000*60*60*24));
+
+          if(daysToEarliestAppointment === 0) {
+            document.title = `(${this.appointments.length}) Appointments today!`;
+          }
+          else if(daysToEarliestAppointment === 1) {
+            document.title = `(${this.appointments.length}) Appointment tomorrow!`;
+          }
+          else {
+            document.title = `(${this.appointments.length}) Appointments in ${daysToEarliestAppointment} days`;
+          }
+        }
+      },
+      computed: {
+        appointments() {
+          if(!this.lastMessage) { return []; }
+
+          return this.lastMessage.appointmentDates.sort().map(dateString => { return {
+            date: new Date(dateString),
+          }});
+        },
+        lastChecked() {
+          return this.lastMessage ? new Date(this.lastMessage.time) : new Date();
+        },
+        isRateLimited() {
+          return this.lastMessage ? this.lastMessage.status === 502 : false;
+        },
+      },
+      watch: {
+        appointments(newAppointments, oldAppointments) {
+          if(oldAppointments.length) {
+            const isBetterAppointmentFound = (
+              !oldAppointments[0]
+              || oldAppointments[0].date.getTime() > newAppointments[0].date.getTime()
+            );
+            if(isBetterAppointmentFound && this.playSoundOnNewAppointments) {
+              ding.play();
+            }
+          }
+
+          this.updateWindowTitle();
+        }
+      }
+    });
+  });
+{% endjs %}

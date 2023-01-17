@@ -1,0 +1,15 @@
+---
+Title: What does "Pflichtversichert" mean?
+German_term: Pflichtversichert
+English_term: Compulsorily insured
+Description: It means that you must get public health insurance. Private health insurance is not an option.
+Date_created: 2019-02-14
+Date_updated: 2022-10-08
+Related_guides: guides/german-health-insurance.md
+---
+
+If you are an employee, and you make under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you are compulsorily insured (*Pflichtversichert*). This means that public health insurance companies must accept you, even if you are very sick. It also means that you can't have private health insurance.
+
+When you are not *Pflichtversichert*, you are voluntarily insured ([*freiwillig versichert*](/glossary/freiwillig%20versichert)). Public health insurers do not have to accept voluntarily insured people. Students and freelancers are *freiwillig versichert*.
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**

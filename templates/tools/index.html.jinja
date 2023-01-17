@@ -1,0 +1,29 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Tools and calculators" %}
+{% set metadescription = "Useful calculators for German taxes, health insurance and other things." %}
+
+{% block postHead %}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ metatitle }}" />
+    <meta property="og:description" content="{{ metadescription }}" />
+    <meta property="og:image" content="{{ site_url }}/api/images/cover.png?text={{ metatitle|urlencode }}" />
+    <link rel="canonical" href="https://allaboutberlin.com/tools">
+    <link rel="edit" href="{{ site_url }}/admin/entries/tools">
+{% endblock %}
+
+{% block precontent %}
+    <header class="section transparent fixed-width intro centred">
+        <h1>Tools and calculators</h1>
+    </header>
+{% endblock %}
+
+{% block content %}
+    {% for tool in entries.tools.values() %}
+        <div class="document">
+            <h2>
+                <a title="{{ tool.title }}" rel="bookmark" href="{{ tool.url }}">{{ tool.short_title|default(tool.title) }}</a>
+            </h2>
+            <p>{{ tool.description }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

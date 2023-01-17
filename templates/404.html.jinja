@@ -1,0 +1,16 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Page not found" %}
+{% set metadescription = "The page you are looking for does not exist." %}
+
+{% block main %}
+    <main aria-label="Main page">
+        <div class="section fixed-width transparent intro centred">
+            <h1>Page not found</h1>
+            <p>Not what you expected? To report a problem, <a href="https://allaboutberlin.com/contact">contact me</a>.</p>
+            {% with autofocus=true %}
+                {% include "blocks/_searchForm.html" %}
+            {% endwith %}
+        </div>
+    </main>
+{% endblock %}
+

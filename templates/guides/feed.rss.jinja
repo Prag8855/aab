@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All About Berlin guides</title>
+    <link>https://allaboutberlin.com/guides</link>
+    <atom:link href="https://allaboutberlin.com/guides/feed.rss" rel="self" type="application/rss+xml" />
+    <description>All About Berlin's most recent guides</description>
+    <language>en</language>
+    <pubDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
+    <lastBuildDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</lastBuildDate>
+
+    {% for entry_uri, entry in entries.guides.items() %}
+      <item>
+        <title>{{ entry.title }}</title>
+        <link>{{ entry.url }}</link>
+        <pubDate>{{ entry.date_created.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
+        <author>Nicolas Bouliane</author>
+        <guid>{{ entry_uri }}</guid>
+        <description>
+          <![CDATA[{{ entry.description }}]]>
+        </description>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

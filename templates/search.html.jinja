@@ -1,0 +1,33 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Search" %}
+{% set metadescription = "Search results on All About Berlin" %}
+
+{% block precontent %}
+{% endblock %}
+
+{% block content %}
+	<h1>Search</h1>
+	<div class="post-meta">
+		<nav class="breadcrumb">
+			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}">
+						<span itemprop="name">Home</span>
+					</a>
+					<meta itemprop="position" content="1" />
+				</li>
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com/search">
+						<span itemprop="name">Search</span>
+					</a>
+					<meta itemprop="position" content="2" />
+				</li>
+			</ol>
+		</nav>
+	</div>
+	{% with autofocus=true %}
+	    {% include "blocks/_searchForm.html" %}
+	{% endwith %}
+	<div role="list" aria-label="Search results">
+	</div>
+{% endblock %}

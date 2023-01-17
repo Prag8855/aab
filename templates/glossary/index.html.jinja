@@ -1,0 +1,39 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Glossary" %}
+{% set metadescription = "A glossary of the terms used on All About Berlin." %}
+
+{% block postHead %}
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ metatitle }}" />
+	<meta property="og:description" content="{{ metadescription }}" />
+	<meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ metatitle|urlencode }}" />
+	<link rel="canonical" href="https://allaboutberlin.com/glossary">
+	<link rel="edit" href="{{site_url}}admin/tags/definitions">
+{% endblock %}
+
+{% block content %}
+	<h1>Glossary</h1>
+	<div class="post-meta">
+		<nav class="breadcrumb">
+			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com">
+						<span itemprop="name">Home</span>
+					</a>
+					<meta itemprop="position" content="1" />
+				</li>
+				<li class="title" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com/glossary">
+						<span itemprop="name">Glossary</span>
+					</a>
+					<meta itemprop="position" content="2" />
+				</li>
+			</ol>
+		</nav>
+	</div>
+	<nav class="glossary-links">
+		{% for entry in entries.glossary.values() %}
+			<a title="Definition of {{ entry.german_term }}" rel="tag" href="{{ entry.url }}">{{ entry.german_term }}</a>
+		{% endfor %}
+	</dl>
+{% endblock %}

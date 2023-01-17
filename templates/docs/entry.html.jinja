@@ -1,0 +1,81 @@
+{% extends "_layout.html" %}
+{% set metatitle = entry.title %}
+{% set metadescription = entry.description %}
+{% set related_entries = entry.related_guides %}
+
+{% block postHead %}
+	<meta property="og:url" content="{{ entry.url }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ entry.title }}" />
+	<meta property="og:description" content="{{ entry.description }}" />
+	<meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ entry.title|urlencode }}" />
+	<link rel="canonical" href="{{ entry.url }}" />
+	<link rel="index" href="https://allaboutberlin.com/docs">
+	<link rel="edit" href="{{ entry.cpEditUrl }}">
+{% endblock %}
+
+{% block content %}
+	<h1>{{ entry.title }}</h1>
+	<div class="post-meta">
+		<div class="post-date">
+			Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%d %B, %Y') }}</time>
+		</div>
+		<nav class="breadcrumb no-mobile hide-last">
+			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com">
+						<span itemprop="name">Home</span>
+					</a>
+					<meta itemprop="position" content="1" />
+				</li>
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com/docs">
+						<span itemprop="name">Translated documents</span>
+					</a>
+					<meta itemprop="position" content="2" />
+				</li>
+				<li class="title" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" title="{{ entry.title }}" href="{{ entry.url }}">
+						<span itemprop="name">{{ entry.title }}</span>
+					</a>
+					<meta itemprop="position" content="3" />
+				</li>
+			</ol>
+		</nav>
+	</div>
+	{% with showDateUpdated=true %}
+		{% include 'blocks/_mainContent.html' %}
+	{% endwith %}
+{% endblock %}
+
+{% block postcontent %}
+	<aside id="download-buttons" class="section fixed-width">
+		<h2>Download this document</h2>
+		<div class="download-buttons">
+			<a target="_blank" class="download-button german" title="Download the original document in German" href="{{ entry.german_document }}">
+				<h3>In German</h3>
+				<span>{{ entry.german_term }}</span>
+				<img alt="Preview of {{ entry.german_term }}" src="TODO">
+			</a>
+
+			<a target="_blank" class="download-button english" title="Download the English-translated document" href="{{ entry.english_document.url }}">
+				<h3>In English</h3>
+				<span>{{ entry.english_term }}</span>
+				<img alt="Preview of {{ entry.english_term }}" src="TODO">
+			</a>
+		</div>
+	</aside>
+	{% if related_entries|length %}
+		<aside class="section fixed-width" role="list" aria-labelledby="h-related-guides">
+			<h2 id="h-related-guides">Related guides</h2>
+			{% for entry in related_entries %}
+				{% include "blocks/_guidePreview.html" %}
+			{% endfor %}
+		</aside>
+	{% endif %}
+{% endblock %}
+
+{% block postFooter %}
+	{% include 'blocks/_tooltip.html' %}
+	{{ super() }}
+{% endblock %}

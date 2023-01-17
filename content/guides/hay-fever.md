@@ -1,0 +1,65 @@
+---
+Title: How to deal with hay fever in Germany
+Description: Tips for fighting a pollen allergy in Germany, and where to get allergy pills.
+Date_created: 2022-05-23
+Date_updated: 2022-05-23
+---
+
+Hay fever (*Heufieber* or *Heuschnupfen*) is an allergy to pollen. These are the symptoms[^0]:
+
+- Runny or stuffy nose
+- Itchy nose, eyes and ears
+- Sneezing
+
+In Germany, hay fever season (*Heuschnupfenzeit*) starts around March, and ends around September[^1]. It can be worse on certain months. It depends on the type of pollen you are allergic to.
+
+You can get hay fever in Germany, even if you did not have it before. When I [moved to Berlin](/guides/moving-to-berlin), my hay fever became really bad.
+
+## Where to buy allergy pills
+
+There are different types of pills against hay fever. **You can buy them without a prescription**. If you go to a pharmacy (*Apotheke*), they will help you choose. Just ask for *Heuschnupfentabletten*.
+
+- **Loratadin**  
+    Pill. Around 10€ for 100 pills[^2]. No prescription needed. This is what I use. It's called Claritin in many countries[^3]. It has [minor side effects](https://en.wikipedia.org/wiki/Loratadine#Adverse_effects).
+- **Cetirizine**  
+    Pill. Around 8€ for 100 pills[^4]. No prescription needed. It's called Zyrtec in many countries[^5]. It has [some side effects](https://en.wikipedia.org/wiki/Cetirizine).
+- **Levocetirizine**  
+    Pill. Around 8€ for 20 pills[^6]. No prescription needed. It's called Xyzal in many countries[^7]. It has [minor side effects](https://en.wikipedia.org/wiki/Levocetirizine#Side_effects).
+- **Mometasone**  
+    Nose spray. Around 12€ per bottle[^8]. No prescription needed. It has [some side effects](https://en.wikipedia.org/wiki/Mometasone#Side_effects).
+
+You can buy pollen allergy pills in these places:
+
+- At any pharmacy (*Apotheke*)
+- In online pharmacies like [Shop Apotheke](https://www.shop-apotheke.com/search.htm?q=heufieber)
+- On [Amazon](https://amzn.to/3wCJbR4)
+
+You can't buy allergy pills at dm or Rossmann.
+
+### Does health insurance pay for it?
+
+**No.** Public health insurance does not pay for allergy pills[^9]. Private health insurance can pay for it if it's prescribed by a doctor[^10].
+
+### Can I deduct it from my taxes?
+
+**Yes.** You can declare allergy pills when you file your taxes, but only if it's prescribed by a doctor[^11]. File it under *außergewöhnlichen Belastungen*.
+
+## Tips to deal with hay fever
+
+- Use the [pollen risk index](https://www.dwd.de/DE/leistungen/gefahrenindizespollen/gefahrenindexpollen.html) tool from the German weather service. It shows you what types of pollen are in the air. This helps you find what type of pollen you are allergic to.
+- Wash your hair before going to bed[^12].
+- Buy an air purifier and a vacuum robot to remove pollen from your apartment[^12].
+
+[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Allergic_rhinitis)
+[^1]: [allergie.hexal.de](https://allergie.hexal.de/pollenflug/pollenflugkalender/)
+[^2]: [amzn.to](https://amzn.to/3wCJbR4)
+[^3]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Loratadine)
+[^4]: [amzn.to](https://amzn.to/3akQXrv)
+[^5]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Cetirizine)
+[^6]: [amzn.to](https://amzn.to/3ySqsDK)
+[^7]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Levocetirizine#Availability)
+[^8]: [shop-apotheke.com](https://www.shop-apotheke.com/search.htm?i=1&q=Mometa&searchChannel=algolia)
+[^9]: [krankenkassenzentrale.de](https://www.krankenkassenzentrale.de/wiki/heuschnupfen#:~:text=allerdings%20mussen%20gesetzlich%20versicherte%20die%20rezeptfreien%20medikamente%20gegen%20die%20fruhjahrsallergie%20selbst%20zahlen)
+[^10]: [krankenkassenzentrale.de](https://www.krankenkassenzentrale.de/wiki/heuschnupfen#:~:text=privat%20krankenversicherte%20haben%20den%20vorteil)
+[^11]: [steuerring.de](https://www.steuerring.de/steuererklaerung-hilfe-news/news/allergien-medikamente-und-therapien-steuerlich-absetzen.html)
+[^12]: [test.de](https://www.test.de/Heuschnupfen-Diese-Medikamente-helfen-und-sind-guenstig-4685480-0/#id5583014)

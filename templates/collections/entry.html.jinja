@@ -1,0 +1,29 @@
+{% extends "_layout.html" %}
+{% set metatitle = entry.title %}
+{% set metadescription = entry.description %}
+
+{% block postHead %}
+    <link rel="canonical" href="{{ entry.url }}" />
+    <meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ entry.title|urlencode }}" />
+{% endblock %}
+
+{% block main %}
+    <main aria-label="Main page">
+        <header class="section transparent fixed-width intro centred">
+            <h1>{{ entry.title }}</h1>
+            {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
+        </header>
+        <div class="section fixed-width" role="list" aria-label="Guides in this collection"> 
+            {% with showDateUpdated=true %}
+                {% for guide in entry.related_guides %}
+                    {% with entry=guide %}
+                        {% include "blocks/_guidePreview.html" %}
+                    {% endwith %}
+                {% endfor %}
+            {% endwith %}
+        </div>
+        <nav class="fixed-width pagination">
+            <a rel="index" href="https://allaboutberlin.com/guides">◂ Back to all guides</a>
+        </nav>
+    </main>
+{% endblock %}

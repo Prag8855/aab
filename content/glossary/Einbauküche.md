@@ -1,0 +1,13 @@
+---
+Title: What does EBK or Einbauküche mean?
+German_term: Einbauküche
+English_term: Built-in kitchen
+Description: 
+Date_created: 2019-09-30
+Date_updated: 2022-04-20
+Related_guides: guides/find-a-flat-in-berlin.md
+---
+
+In Germany, apartments do not always come with a furnished kitchen. The kitchen will be completely empty. You must install your own kitchen counter and sink.
+
+*Einbauküche* or *EBK* means that the apartment comes with a furnished kitchen.

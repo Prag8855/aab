@@ -1,0 +1,15 @@
+---
+Title: What is the Berlin Ringbahn?
+German_term: Ringbahn
+English_term: Ring railroad
+Description: 
+Date_created: 2018-07-31
+Date_updated: 2022-04-20
+Related_guides: guides/visit-berlin.md, guides/find-a-flat-in-berlin.md
+---
+
+The *Ringbahn* is a railroad that runs around Berlin. The S41 train goes around the *Ringbahn* in one direction, while the S42 goes in the opposite direction. The *Ringbahn* is often used to separate what's in central Berlin, and what is not.
+
+The area inside the *Ringbahn* is an [environmental zone](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml). Only low-emission vehicles with [green stickers](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/en/fahrzeug_plakette.shtml) can drive in this area.
+
+**[Map of the Berlin *Ringbahn*](/images/2000px-S-Bahn-Ring_Berlin.svg.png)**

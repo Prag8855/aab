@@ -1,0 +1,710 @@
+<aside class="income-tax-calculator collapsible {% if static|default %}static{% else %}collapsed{% endif %}" ref="collapsible" aria-label="German tax calculator">
+{% if not static|default %}
+    <div class="header">
+        <h2>
+            <span class="no-mobile">German tax calculator</span>
+            <span class="no-desktop" aria-hidden="true">Tax calculator</span>
+        </h2>
+    </div>
+{% endif %}
+{% raw %}
+    <div class="body form">
+        <div>
+            <div class="range-input">
+                <label for="range-income-{% endraw %}{{ id }}{% raw %}">
+                    <strong v-html="eur(income)"></strong>/{{ monthOrYear }} {{ salaryOrIncome }}
+                </label>
+                <span class="range-prefix" @click="decrementIncome">€</span>
+                <input
+                    id="range-income-{% endraw %}{{ id }}{% raw %}"
+                    v-model.number="income"
+                    type="range"
+                    :step="incomeInputRange.step"
+                    :min="incomeInputRange.min"
+                    :max="incomeInputRange.max">
+                <span class="range-suffix" @click="incrementIncome">€€€</span>
+                <a :class="showExtraQuestions ? 'hide-options' : 'show-options'" @click="toggleExtraQuestions">
+                    {{ showExtraQuestions ? 'Hide options' : 'Show more options' }}
+                </a>
+            </div>
+            <div v-show="showExtraQuestions">
+                <div class="form-group">
+                    <label for="income-{% endraw %}{{ id }}{% raw %}">
+                        {{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
+                    </label>
+                    <div class="input-group">
+                        <input class="income-input"
+                            type="number"
+                            inputmode="numeric"
+                            pattern="[0-9]*"
+                            min="0"
+                            step="1"
+                            id="income-{% endraw %}{{ id }}{% raw %}" v-model.number="income">
+                        &nbsp;€
+                        <button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ monthOrYear }}</button>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="occupation-{% endraw %}{{ id }}{% raw %}">
+                        Occupation
+                    </label>
+                    <select id="occupation-{% endraw %}{{ id }}{% raw %}" v-model="occupation">
+                        <optgroup label="Employee">
+                            <option value="employee">Employee</option>
+                            <option value="azubi">Apprentice (Azubi)</option>
+                        </optgroup>
+                        <optgroup label="Student">
+                            <option value="studentEmployee">Student, with a job</option>
+                            <option value="studentSelfEmployed">Student, self-employed</option>
+                            <option value="student">Student, unemployed</option>
+                        </optgroup>
+                        <optgroup label="Other">
+                            <option value="selfEmployed">Self-employed / freelancer</option>
+                            <option value="unemployed">Unemployed</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="state-{% endraw %}{{ id }}{% raw %}">
+                        Where do you work?
+                    </label>
+                    <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
+                        <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+                    </select>
+                </div>
+                <hr>
+                <div class="form-group">
+                    <label for="age-{% endraw %}{{ id }}{% raw %}">
+                        Age
+                    </label>
+                    <div class="input-group">
+                        <input class="age-input"
+                            type="number"
+                            inputmode="numeric"
+                            pattern="[0-9]*"
+                            min="1"
+                            step="1"
+                            id="age-{% endraw %}{{ id }}{% raw %}"
+                            @focus="$event.target.select()"
+                            v-model.number="age">
+                        <span>years old</span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="church-{% endraw %}{{ id }}{% raw %}">
+                        Religion
+                    </label>
+                    <div class="input-group">
+                        <select id="church-{% endraw %}{{ id }}{% raw %}" v-model="church">
+                            <option value="ev">Evangelical Church</option>
+                            <option value="rk">Roman Catholic Church</option>
+                            <option value="jg">Jewish Community</option>
+                            <option value="ak">Old Catholic Church</option>
+                            <option value="fg">Free Religious communities</option>
+                            <option disabled>──────────</option>
+                            <option value="other">Other</option>
+                        </select>
+                        <span v-show="isPayingChurchTax" class="input-instructions">You must pay <a href="https://allaboutberlin.com/glossary/Kirchensteuer" target="_blank">church tax</a>.</span>
+                    </div>
+                </div>
+                <hr>
+                <div class="form-group">
+                    <label for="health-insurance-type-{% endraw %}{{ id }}{% raw %}">
+                        Health insurance
+                    </label>
+                    <div class="input-group">
+                        <select id="health-insurance-type-{% endraw %}{{ id }}{% raw %}" v-model="healthInsuranceType">
+                            <optgroup label="Public health insurance">
+                                <option value="public-tk">Most popular option - TK</option>
+                                <option value="public-hkk">Cheapest option - hkk</option>
+                                <option value="public-aok">Most expensive option - AOK Nordost</option>
+                                <option value="public-custom">Other public health insurance</option>
+                            </optgroup>
+                            <optgroup label="Private health insurance">
+                                <option value="private" :disabled="!availableHealthInsuranceTypes.private">Private health insurance</option>
+                            </optgroup>
+                            <optgroup label="Other">
+                                <option value="familienversicherung-parents" :disabled="!availableHealthInsuranceTypes['familienversicherung-parents']">Insured by parents</option>
+                                <option value="familienversicherung-spouse" :disabled="!availableHealthInsuranceTypes['familienversicherung-spouse']">Insured by spouse</option>
+                                <option value="ehic" :disabled="!availableHealthInsuranceTypes.ehic">Insured by another EU country</option>
+                            </optgroup>
+                            <option value="unknown">I don't know</option>
+                        </select>
+                        <span v-show="healthInsuranceType === 'unknown'" class="input-instructions">We will use an average option.</span>
+                    </div>
+                </div>
+                <div class="form-group" v-show="healthInsuranceType === 'private'">
+                    <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
+                        Health insurance cost
+                    </label>
+                    <div class="input-group">
+                        <input class="income-input"
+                            type="number"
+                            inputmode="numeric"
+                            pattern="[0-9]*"
+                            min="0"
+                            step="1"
+                            id="health-insurance-cost-{% endraw %}{{ id }}{% raw %}"
+                            v-model.number="privateHealthInsuranceCost">
+                        &nbsp;€&nbsp;per month
+                        <span class="input-instructions" v-show="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
+                    </div>
+                </div>
+                <div class="form-group" v-show="healthInsuranceType === 'public-custom'">
+                    <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
+                        <a href="https://allaboutberlin.com/glossary/Zusatzbeitrag" target="_blank">Health insurer surcharge</a>
+                    </label>
+                    <div class="input-group">
+                        <input class="percent-input"
+                            type="number"
+                            inputmode="numeric"
+                            min="0"
+                            step="any"
+                            pattern="[0-9]*\.?[0-9]+"
+                            id="zusatzbeitrag-{% endraw %}{{ id }}{% raw %}"
+                            @focus="$event.target.select()"
+                            v-model.number="customZusatzbeitrag">
+                        &nbsp;%
+                        <input type="range" :min="zusatzbeitragRange.min" :max="zusatzbeitragRange.max" step="0.1" v-model.number="customZusatzbeitrag">
+                    </div>
+                </div>
+                <hr>
+                <div class="form-group">
+                    <span class="label">
+                        Marriage
+                    </span>
+                    <div class="input-group">
+                        <label class="checkbox">
+                            <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" v-bind:value="true">
+                            Married
+                        </label>
+                        <label class="checkbox">
+                            <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" v-bind:value="false">
+                            Not married
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="children-count-{% endraw %}{{ id }}{% raw %}">
+                        Children
+                    </label>
+                    <select id="children-count-{% endraw %}{{ id }}{% raw %}" v-model="childrenCount">
+                        <option v-bind:value="0">No children</option>
+                        <option v-bind:value="1">1 child</option>
+                        <option v-bind:value="2">2 children</option>
+                        <option v-bind:value="3">3 children</option>
+                        <option v-bind:value="4">4 children</option>
+                        <option v-bind:value="5">5 children</option>
+                        <option v-bind:value="6">6 children</option>
+                        <option v-bind:value="7">7 children</option>
+                        <option v-bind:value="8">8 children</option>
+                        <option v-bind:value="9">9 children</option>
+                        <option v-bind:value="10">10+ children</option>
+                    </select>
+                </div>
+                <hr v-if="occupations.isEmployed(occupation)">
+                <div class="form-group" v-if="occupations.isEmployed(occupation)">
+                    <span class="label">
+                        <a href="https://allaboutberlin.com/glossary/Steuerklasse" target="_blank">Tax class</a>
+                    </span>
+                    <div class="radio-options">
+                        <label class="checkbox" v-if="availableTaxClasses.includes(1)">
+                            <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="1">
+                            <div>
+                                Tax class 1
+                                <br><small>If you are not married</small>
+                            </div>
+                        </label>
+                        <label class="checkbox" v-if="availableTaxClasses.includes(2)">
+                            <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="2">
+                            <div>
+                                Tax class 2
+                                <br><small>If you raise children alone</small>
+                            </div>
+                        </label>
+                        <label class="checkbox" v-if="availableTaxClasses.includes(3)">
+                            <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="3">
+                            <div>
+                                Tax class 3
+                                <br><small>If you earn more than your spouse</small>
+                            </div>
+                        </label>
+                        <label class="checkbox" v-if="availableTaxClasses.includes(4)">
+                            <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="4">
+                            <div>
+                                Tax class 4
+                                <br><small>If you earn around the same as your spouse</small>
+                            </div>
+                        </label>
+                        <label class="checkbox" v-if="availableTaxClasses.includes(5)">
+                            <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="5">
+                            <div>
+                                Tax class 5
+                                <br><small>If you earn less than your spouse</small>
+                            </div>
+                        </label>
+                        <label class="checkbox" v-if="availableTaxClasses.includes(6)">
+                            <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="6">
+                            <div>
+                                Tax class 6
+                                <br><small>If you calculate taxes for a second job</small>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+                <hr>
+            </div>
+        </div>
+        <div class="column-with-pie-chart">
+            <svg viewBox="-1 -1 2 2" class="pie-chart">
+                <circle cx="0" cy="0" r="1" :fill="colors.disposableIncome"
+                    @mouseEnter="highlightedSection = 'disposableIncome'" @mouseLeave="highlightedSection = null">
+                    <title>Disposable income</title>
+                </circle>
+                <path :d="svgPaths.healthInsurance" :fill="colors.healthInsurance"
+                    @mouseEnter="highlightedSection = 'healthInsurance'" @mouseLeave="highlightedSection = null">
+                    <title>Health insurance</title>
+                </path>
+                <path :d="svgPaths.publicPension" :fill="colors.publicPension"
+                    @mouseEnter="highlightedSection = 'publicPension'" @mouseLeave="highlightedSection = null">
+                    <title>Public pension</title>
+                </path>
+                <path :d="svgPaths.unemploymentInsurance" :fill="colors.unemploymentInsurance"
+                    @mouseEnter="highlightedSection = 'unemploymentInsurance'" @mouseLeave="highlightedSection = null">
+                    <title>Unemployment insurance</title>
+                </path>
+                <path :d="svgPaths.incomeTax" :fill="colors.incomeTax"
+                    @mouseEnter="highlightedSection = 'incomeTax'" @mouseLeave="highlightedSection = null">
+                    <title>Income tax</title>
+                </path>
+                <path :d="svgPaths.solidarityTax" :fill="colors.solidarityTax"
+                    @mouseEnter="highlightedSection = 'solidarityTax'" @mouseLeave="highlightedSection = null">
+                    <title>Solidarity surcharge</title>
+                </path>
+                <path :d="svgPaths.churchTax" :fill="colors.churchTax"
+                    @mouseEnter="highlightedSection = 'churchTax'" @mouseLeave="highlightedSection = null">
+                    <title>Church tax</title>
+                </path>
+            </svg>
+            <div>
+                <div class="collapsible collapsed" :class="{highlighted: highlightedSection === 'healthInsurance'}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="0.7" :fill="colors.healthInsurance"/></circle>
+                        </svg>
+                        Health insurance <output v-html="eur(result.healthInsurance)"></output>
+                    </div>
+                    <div class="body" v-show="healthInsuranceType === 'private'">
+                        <p>
+                            Your <a href="https://allaboutberlin.com/glossary/private%20Krankenversicherung" target="_blank">private health insurance</a> costs <span v-html="eur(privateHealthInsuranceCost)"></span> per month.
+                            <span v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">Your employer pays half of it.</span>
+                        </p>
+                    </div>
+                    <div class="body" v-show="healthInsuranceType.startsWith('public') || healthInsuranceType === 'unknown'">
+                        <p>
+                            <a href="https://allaboutberlin.com/glossary/gesetzliche%20Krankenversicherung" target="_blank">Public health insurance</a> pays for healthcare when you need it.
+                            <span v-show="isPayingMinHealthInsurancePrice">
+                                Your income is very low, so you pay the <a href="https://allaboutberlin.com/glossary/Mindestbeitrag" target="_blank">minimum price</a>.
+                            </span>
+                            <span v-show="isPayingMaxHealthInsurancePrice">
+                                You earn more than <span v-html="versicherungspflichtgrenzeDisplay"></span>, so you pay the <a href="https://allaboutberlin.com/glossary/H%C3%B6chstbeitrag" target="_blank">maximum price</a>.
+                            </span>
+                        </p>
+                        <p v-if="result.flags.has('kv-pflegeversicherung-surcharge')">
+                            You pay a bit more for <a href="https://allaboutberlin.com/glossary/Pflegeversicherung" target="_blank">nursing care insurance</a>, because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
+                        </p>
+                        <p class="price">
+                            Base cost
+                            <output class="no-mobile"
+                                v-if="isPayingNormalHealthInsurancePrice"
+                                v-html="formatPercent(result.healthInsuranceDetails.baseContribution.personalRate * 100)"></output>
+                            <output v-html="eur(result.healthInsuranceDetails.baseContribution.personalContribution * 12)"></output>
+                        </p>
+                        <p class="price">
+                            <a href="https://allaboutberlin.com/glossary/Pflegeversicherung" target="_blank">Nursing care insurance</a>
+                            <output class="no-mobile"
+                                v-if="isPayingNormalHealthInsurancePrice"
+                                v-html="formatPercent(result.healthInsuranceDetails.pflegeversicherung.personalRate * 100)"></output>
+                            <output v-html="eur(result.healthInsuranceDetails.pflegeversicherung.personalContribution * 12)"></output>
+                        </p>
+                        <p class="price">
+                            <a href="https://allaboutberlin.com/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
+                            <output class="no-mobile"
+                                v-if="isPayingNormalHealthInsurancePrice"
+                                v-html="formatPercent(result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalRate * 100)"></output>
+                            <output v-html="eur(result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalContribution * 12)"></output>
+                        </p>
+                        <p class="price" v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+                            Total
+                            <output class="no-mobile"
+                                v-if="isPayingNormalHealthInsurancePrice"
+                                v-html="formatPercent(result.healthInsuranceDetails.options.custom.total.personalRate * 100)"></output>
+                            <output v-html="eur(result.healthInsuranceDetails.options.custom.total.personalContribution * 12)"></output>
+                        </p>
+                    </div>
+                    <div class="body" v-show="hasSponsoredHealthInsurance">
+                        <p v-show="healthInsuranceType === 'familienversicherung-spouse'">You are covered by your spouse's health insurance.</p>
+                        <p v-show="healthInsuranceType === 'familienversicherung-parents'">You are covered by your parents' health insurance.</p>
+                        <p v-show="healthInsuranceType === 'ehic'">You are covered by your health insurance in another EU country.</p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed" v-show="result.publicPension > 0" :class="{highlighted: highlightedSection === 'publicPension'}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="0.7" :fill="colors.publicPension"/></circle>
+                        </svg>
+                        Public pension <output v-html="eur(result.publicPension)"></output>
+                    </div>
+                    <div class="body">
+                        <p>
+                            <a href="https://allaboutberlin.com/glossary/gesetzliche%20Rentenversicherung" target="_blank">Public pension insurance</a> pays for your pension when you retire.
+                            <span v-show="isAboveBeitragsbemessungsgrenze">
+                                You earn more than <span v-html="beitragsbemessungsgrenzeDisplay"></span>, so you pay the maximum contribution.
+                            </span>
+                            <span v-show="!isAboveBeitragsbemessungsgrenze">
+                                It costs <span v-html="formatPercent(pensions.contributionRates.currentYear)"></span> of your income.
+                            </span>
+                        </p>
+                        <p class="price">
+                            Your employer pays
+                            <output v-if="!isAboveBeitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
+                            <output v-html="eur(result.publicPension)"></output>
+                        </p>
+                        <p class="price">
+                            You pay
+                            <output v-if="!isAboveBeitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
+                            <output v-html="eur(result.publicPension)"></output>
+                        </p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed" v-show="result.unemploymentInsurance > 0" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="0.7" :fill="colors.unemploymentInsurance"/></circle>
+                        </svg>
+                        Unemployment insurance <output v-html="eur(result.unemploymentInsurance)"></output>
+                    </div>
+                    <div class="body">
+                        <p>
+                            <a href="https://allaboutberlin.com/glossary/Arbeitslosenversicherung" target="_blank">Unemployment insurance</a> pays for <a href="https://allaboutberlin.com/glossary/ALG%20I" target="_blank">unemployment benefits</a> if you lose your job.
+                            <span v-show="isAboveBeitragsbemessungsgrenze">
+                                You earn more than <span v-html="beitragsbemessungsgrenzeDisplay"></span>, so you pay the maximum contribution.
+                            </span>
+                            <span v-show="!isAboveBeitragsbemessungsgrenze">
+                                It costs {{ formatPercent(taxes.arbeitslosenversicherungRate * 2 * 100) }} of your income.
+                            </span>
+                        </p>
+                        <p class="price" v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+                            Your employer pays
+                            <output v-if="!isAboveBeitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
+                            <output v-html="eur(result.unemploymentInsurance)"></output>
+                        </p>
+                        <p class="price" v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+                            You pay
+                            <output v-if="!isAboveBeitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
+                            <output v-html="eur(result.unemploymentInsurance)"></output>
+                        </p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed" v-show="result.incomeTax > 0" :class="{highlighted: highlightedSection === 'incomeTax'}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="0.7" :fill="colors.incomeTax"/></circle>
+                        </svg>
+                        Income tax <output v-html="eur(result.incomeTax)"></output>
+                    </div>
+                    <div class="body">
+                        <p v-if="occupations.isEmployed(occupation)">
+                            This is the <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a> you pay directly from your paycheque. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <a href="https://allaboutberlin.com/glossary/Steuererkl%C3%A4rung" target="_blank">tax declaration</a>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
+                        </p>
+                        <p class="price">Taxable income <output v-html="eur(result.taxableIncome)"></output></p>
+                        <p class="price">Income tax rate <output v-html="formatPercent(Math.round(result.incomeTax / result.taxableIncome * 1000) / 10)"></output></p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed" v-show="result.solidarityTax > 0" :class="{highlighted: highlightedSection === 'solidarityTax'}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="0.7" :fill="colors.solidarityTax"/></circle>
+                        </svg>
+                        Solidarity surcharge <output v-html="eur(result.solidarityTax)"></output>
+                    </div>
+                    <div class="body">
+                        <p>If you pay more than <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>/year in income tax, you must pay a <a href="https://allaboutberlin.com/glossary/Solidarit%C3%A4tszuschlag" target="_blank">solidarity surcharge</a>. It's a percentage of your <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                        <p v-show="result.flags.has('soli-mid-rate')">Solidarity surcharge is {{ formatPercent(taxes.solidarity.milderungszoneRate * 100) }} of all <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a> above <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>.</p>
+                        <p v-show="result.flags.has('soli-max-rate')">The solidarity surcharge is {{ formatPercent(taxes.solidarity.maxRate * 100) }} of your <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed" v-show="isPayingChurchTax" :class="{highlighted: highlightedSection === 'churchTax'}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="0.7" :fill="colors.churchTax"/></circle>
+                        </svg>
+                        Church tax <output v-html="eur(result.churchTax)"></output>
+                    </div>
+                    <div class="body">
+                        <p>Your church collects a <a href="https://allaboutberlin.com/glossary/Kirchensteuer" target="_blank">church tax</a>. In {{ germanStates[germanState].englishName }}, the church tax is {{ formatPercent(result.churchTaxRate * 100) }} of your <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                        <p v-if="result.churchTax === 0 && result.incomeTax === 0">Your income is too low to pay income tax, so you don't pay church tax.</p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed total" :class="{highlighted: !highlightedSection}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
+                            <path :d="svgPaths.totalDeductions" :fill="colors.incomeTax"></path>
+                        </svg>
+                        You pay {{ formatPercent(100 - disposableIncomeRatio) }}
+                        <output v-html="eur(result.totalDeductions)"></output>
+                    </div>
+                    <div class="body">
+                        <p>This is what you pay for all taxes and social contributions. <span v-show="occupations.isEmployed(occupation)">They take this from your paycheck.</span></p>
+                    </div>
+                </div>
+                <div class="collapsible collapsed total" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">
+                    <div class="header price">
+                        <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+                            <circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
+                            <path :d="svgPaths.disposableIncome" :fill="colors.disposableIncome"></path>
+                        </svg>
+                        You keep {{ formatPercent(disposableIncomeRatio) }}
+                        <output v-html="eur(result.disposableIncome)"></output>
+                    </div>
+                    <div class="body">
+                        <p>This is your <a href="https://allaboutberlin.com/glossary/Netto income" target="_blank">net income</a>. It's how much money you keep after taxes and other deductions. It's your money. You can spend it.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</aside>
+{% endraw %}
+{% include '/js/utils.js' %}
+{% include '/js/constants.js' %}
+{% include '/js/tax-calculator.js' %}
+{% include '/js/vue.js' %}
+{% js %}
+  document.querySelectorAll('.income-tax-calculator').forEach(
+    el => new Vue({
+      el: el,
+      data() {
+        return {
+          age: getDefaultNumber('age'),
+          childrenCount: getDefaultNumber('childrenCount'),
+          church: getDefault('church'),
+          customZusatzbeitrag: getDefaultNumber('publicHealthInsuranceZusatzbeitrag'),
+          germanState: getDefault('state'),
+          healthInsuranceType: getDefault('healthInsuranceType'),
+          income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
+          isMarried: getDefaultBoolean('isMarried'),
+          occupation: getDefault('occupation'),
+          privateHealthInsuranceCost: getDefaultNumber('privateHealthInsuranceCost'), // Only for private
+          taxClass: getDefaultNumber('taxClass', 1),
+
+          // Non-tax settings
+          showExtraQuestions: false,
+          useMonthlyIncome: getDefaultBoolean('useMonthlyIncome'),
+          highlightedSection: null,
+
+          // Constants
+          colors: {
+            healthInsurance: '#FDB366',
+            publicPension: '#FEDA8B',
+            unemploymentInsurance: '#EAECCC',
+            incomeTax: '#F67E4B',
+            solidarityTax: '#C2E4EF',
+            churchTax: '#98CAE1',
+            disposableIncome: '#4A7BB7',
+            totalDeductions: '#CD683D',
+          },
+          germanStates,
+        }
+      },
+      computed: {
+        healthInsuranceZusatzbeitrag() {
+          if (this.healthInsuranceType === 'public-custom') {
+            return this.customZusatzbeitrag;
+          }
+          const insurerKey = this.healthInsuranceType.split('-')[1];
+          const insurer = healthInsurance.companies[insurerKey] || healthInsurance.companies.tk;
+          return insurer.zusatzbeitrag * 100;
+        },
+        isPayingMinHealthInsurancePrice() { return this.result.flags.has('kv-min-contribution') },
+        isPayingMaxHealthInsurancePrice() { return this.result.flags.has('kv-max-contribution') },
+        isPayingNormalHealthInsurancePrice() { return !this.isPayingMinHealthInsurancePrice && !this.isPayingMaxHealthInsurancePrice },
+        hasSponsoredHealthInsurance() { return hasSponsoredHealthInsurance(this.healthInsuranceType) },
+
+        disposableIncomeRatio() { return Math.round(Math.max(this.result.disposableIncome / this.income, 0) * 100)},
+
+        isInEastGermany() { return this.germanStates[this.germanState].isInEastGermany },
+        isPayingChurchTax() { return this.church !== 'other' },
+        monthOrYear() { return this.useMonthlyIncome ? 'month' : 'year' },
+
+        availableHealthInsuranceTypes() {
+          const healthInsuranceTypes = {
+            ehic: this.result.flags.has('kv-ehic'),
+            'familienversicherung-spouse': this.result.flags.has('kv-familienversicherung-spouse'),
+            'familienversicherung-parents': this.result.flags.has('kv-familienversicherung-parents'),
+            private: this.result.flags.has('kv-private'),
+          };
+
+          // Pick different health insurance if this one is not available.
+          if(this.healthInsuranceType in healthInsuranceTypes && !healthInsuranceTypes[this.healthInsuranceType]){
+            this.healthInsuranceType = 'public-tk';
+          }
+
+          return healthInsuranceTypes;
+        },
+        zusatzbeitragRange() {
+          return {
+            min: Math.floor(this.result.healthInsuranceDetails.options.cheapest.zusatzbeitrag.totalRate * 100 * 10) / 10,
+            max: Math.ceil(this.result.healthInsuranceDetails.options.mostExpensive.zusatzbeitrag.totalRate * 100 * 10) / 10,
+          };
+        },
+
+        beitragsbemessungsgrenzeDisplay() {
+          const bbg = taxes.beitragsbemessungsgrenze.currentYear[this.isInEastGermany ? 'east' : 'west'];
+          return `${this.eur(this.useMonthlyIncome ? bbg / 12 : bbg)}/${this.monthOrYear}`;
+        },
+        isAboveBeitragsbemessungsgrenze() {
+          return this.yearlyIncome > taxes.beitragsbemessungsgrenze.currentYear[this.isInEastGermany ? 'east' : 'west'];
+        },
+
+        versicherungspflichtgrenzeDisplay() {
+          const amount = this.useMonthlyIncome ? healthInsurance.maxMonthlyIncome : healthInsurance.maxMonthlyIncome * 12;
+          return `${this.eur(amount)}/${this.monthOrYear}`;
+        },
+
+        monthlyIncome() { return this.useMonthlyIncome ? this.income : this.income / 12 },
+        yearlyIncome() { return this.useMonthlyIncome ? this.income * 12 : this.income },
+        incomeInputRange() {
+          return {
+            min: this.useMonthlyIncome ? 250 : 5000,
+            max: this.useMonthlyIncome ? 12500 : 150000,
+            step: this.useMonthlyIncome ? 250 : 5000,
+          };
+        },
+
+        availableTaxClasses() {
+          const taxClasses = Object.entries({
+            1: !this.isMarried,
+            2: !this.isMarried && !occupations.isLowIncome(this.monthlyIncome) && this.childrenCount > 0,
+            3: this.isMarried,
+            4: this.isMarried && !occupations.isLowIncome(this.monthlyIncome),
+            5: this.isMarried,
+            6: occupations.isEmployed(this.occupation),
+          })
+            .filter(([key, value]) => value)
+            .map(([key, value]) => Number(key));
+
+          // Pick different tax class if this one is not available.
+          if(!taxClasses.includes(this.taxClass)) {
+            this.taxClass = taxClasses[0];
+          }
+
+          return taxClasses;
+        },
+        result() {
+          const calculationOptions = {
+            germanState: this.germanState,
+            isPayingChurchTax: this.isPayingChurchTax,
+            occupation: this.occupation,
+            age: this.age,
+            childrenCount: this.childrenCount,
+            taxClass: this.taxClass,
+            healthInsuranceType: this.healthInsuranceType,
+          };
+
+          // Health insurance - public or private
+          if(this.healthInsuranceType === 'private') {
+            calculationOptions.fixedHealthInsuranceCost = this.privateHealthInsuranceCost;
+          }
+          else if(this.hasSponsoredHealthInsurance) {
+            calculationOptions.fixedHealthInsuranceCost = 0;
+          }
+          else {
+            calculationOptions.zusatzbeitrag = this.healthInsuranceZusatzbeitrag/100;
+          }
+
+          const calculation = calculateTax(this.yearlyIncome, calculationOptions);
+
+          if (this.useMonthlyIncome) {
+            calculation.healthInsurance = roundCurrency(calculation.healthInsurance / 12);
+            calculation.publicPension = roundCurrency(calculation.publicPension / 12);
+            calculation.unemploymentInsurance = roundCurrency(calculation.unemploymentInsurance / 12);
+            calculation.incomeTax = roundCurrency(calculation.incomeTax / 12);
+            calculation.solidarityTax = roundCurrency(calculation.solidarityTax / 12);
+            calculation.churchTax = roundCurrency(calculation.churchTax / 12);
+            calculation.disposableIncome = roundCurrency(calculation.disposableIncome / 12);
+            calculation.totalDeductions = roundCurrency(calculation.totalDeductions / 12);
+          }
+
+          return calculation;
+        },
+
+        // UI stuff
+        salaryOrIncome() { return occupations.isEmployed(this.occupation) ? 'salary' : 'income' },
+        svgPaths() {
+          // Generate the paths for the SVG pie chart
+          let cumulativeRadians = 0;
+          return [
+            'healthInsurance', 'publicPension', 'unemploymentInsurance', 'incomeTax', 'solidarityTax', 'churchTax', 'disposableIncome',
+            'totalDeductions',  // This must stay at the end
+          ].reduce((paths, key) => {
+            const percentage = this.result[key] / this.income;
+            if(key === 'totalDeductions'){ cumulativeRadians = 0 } // The pie slice for totalDeductions starts over at 0deg 
+            const circleStartCoordinates = [Math.cos(cumulativeRadians), Math.sin(cumulativeRadians)];
+            cumulativeRadians += 2 * Math.PI * percentage;
+            const circleEndCoordinates = [Math.cos(cumulativeRadians), Math.sin(cumulativeRadians)];
+            paths[key] = `
+              M ${circleStartCoordinates[0]} ${circleStartCoordinates[1]}
+              A 1 1 0 ${percentage > 0.5 ? 1 : 0} 1 ${circleEndCoordinates[0]} ${circleEndCoordinates[1]}
+              L 0 0
+            `;
+            return paths;
+          }, {});
+        }
+      },
+      watch: {
+        useMonthlyIncome(){
+          this.income = this.useMonthlyIncome ? Math.round(this.income / 12) : Math.round(this.income * 12 / 10) * 10;
+        },
+        result() {
+          this.updateDefaultValues();
+        },
+      },
+      methods: {
+        eur(amount, includeCents=false) { return formatCurrency(amount, includeCents, '€', true) },
+        spouseTaxClass(taxClass) {
+          if(taxClass === 3) return 5;
+          else if(taxClass === 5) return 3;
+          else return 4;
+        },
+        incrementIncome() { this.income = Math.min(this.income + this.incomeInputRange.step, this.incomeInputRange.max) },
+        decrementIncome() { this.income = Math.max(this.income - this.incomeInputRange.step, this.incomeInputRange.min) },
+        toggleExtraQuestions() {
+          this.showExtraQuestions = !this.showExtraQuestions;
+          if(!this.showExtraQuestions) {
+            // When collapsing the questions, make sure that the calculator stays in the viewport
+            Vue.nextTick(() => {
+              scrollIntoViewIfNeeded(this.$refs.collapsible);
+            });
+          }
+        },
+        updateDefaultValues() {
+          setDefault('church', this.church);
+          setDefault('occupation', this.occupation);
+          setDefault('state', this.germanState);
+          setDefaultBoolean('isMarried', this.isMarried);
+          setDefaultBoolean('useMonthlyIncome', this.useMonthlyIncome);
+          setDefaultNumber('age', this.age);
+          setDefaultNumber('childrenCount', this.childrenCount);
+          setDefaultNumber('yearlyIncome', this.yearlyIncome);
+          setDefault('healthInsuranceType', this.healthInsuranceType);
+          setDefaultNumber('privateHealthInsuranceCost', this.privateHealthInsuranceCost);
+          setDefaultNumber('publicHealthInsuranceZusatzbeitrag', this.healthInsuranceZusatzbeitrag);
+          setDefaultNumber('taxClass', this.taxClass);
+        },
+      }
+      // TODO: Spouse's familienversicherung
+    })
+  );
+{% endjs %}

@@ -1,0 +1,5 @@
+---
+Title: Apartment life
+Description: Guides for the Berliner who needs a home.
+Related_guides: guides/find-a-flat-in-berlin.md, guides/free-schufa-berlin.md, guides/anmeldung-in-english-berlin.md, guides/moving-in.md, guides/mietkaution.md, guides/address-change.md, guides/moving-out.md, guides/haftpflichtversicherung.md, guides/gez-rundfunkbeitrag.md, guides/package-delivery.md, guides/lost-keys.md, guides/wenigermiete-review.md
+---

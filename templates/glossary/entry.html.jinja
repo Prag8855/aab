@@ -1,0 +1,65 @@
+{% extends "_layout.html" %}
+
+{% set title = entry.title | default("Definition of \"" + entry.german_term + "\"") %}
+{% set metatitle = title %}
+{% set metadescription = entry.description | default("A definition of the term \"" + entry.german_term + "\", in plain English.") %}
+
+{% block postHead %}
+	<meta property="og:url" content="{{ entry.url }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ title }}" />
+	<meta property="og:description" content="{{ metadescription }}" />
+	<meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ title|urlencode }}" />
+	<link rel="canonical" href="{{ entry.url }}" />
+	<link rel="index" href="{{ site_url }}glossary">
+{% endblock %}
+
+{% block content %}
+	<h1>{{ title }}</h1>
+	<div class="post-meta">
+		<div class="post-date no-mobile">
+			Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%d %B, %Y') }}</time>
+		</div>
+		<nav class="breadcrumb">
+			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com">
+						<span itemprop="name">Home</span>
+					</a>
+					<meta itemprop="position" content="1" />
+				</li>
+				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a rel="glossary" itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com/glossary">
+						<span itemprop="name">Glossary</span>
+					</a>
+					<meta itemprop="position" content="2" />
+				</li>
+				<li class="title no-mobile" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a itemtype="http://schema.org/Thing" itemprop="item" title="{{ entry.title }}" href="{{ entry.url }}">
+						<dfn itemprop="name">{{ entry.title }}</dfn>
+					</a>
+					<meta itemprop="position" content="3" />
+				</li>
+			</ol>
+		</nav>
+	</div>
+	<div class="article-body">
+		{{ entry.body|safe }}
+	</div>
+{% endblock %}
+
+{% block postcontent %}
+	{% if related_entries %}
+		<aside class="section fixed-width related" id="related" role="list" aria-labelledby="h-using-this-term">
+			<h2 id="h-using-this-term">Guides that use this term</h2>
+			{% for entry in related_entries %}
+				{% include "blocks/_guidePreview.html" %}
+			{% endfor %}
+		</aside>
+	{% endif %}
+{% endblock %}
+
+{% block postFooter %}
+	{% include 'blocks/_tooltip.html' %}
+	{{ super() }}
+{% endblock %}

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<meta charset="utf-8" />
+	<title>{% if metatitle|default %}{{ metatitle }}{% if metatitle|length < 50 %} - {% endif %}{% if metatitle|length < 50 %}All About Berlin{% endif %}{% else %}All About Berlin{% endif %}</title>
+	{% if metadescription|default %}<meta name="description" content="{{ metadescription }}">{% endif %}
+	<link rel="home" href="{{ site_url }}" />
+	<link rel="icon" type="image/png" href="/staticimages/favicon.png">
+	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss" />
+	<meta name="color-scheme" content="light dark">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{% block postHead %}{% endblock %}
+	<style>{% include 'css/_style.css' %}</style>
+
+	<script async defer data-api="{{ site_url }}/whoisthere/event" data-domain="allaboutberlin.com" src="{{ site_url }}/whoisthere.js"></script>
+
+	<meta property="og:site_name" content="All About Berlin"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:creator" content="@aboutberlin"/>
+	<meta name="twitter:site" content="@aboutberlin"/>
+
+	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d" />
+	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b" />
+
+	{% include '/js/events.js' %}
+</head>
+<body class="{% if pagePath == '/' %}homepage{% endif %} {{ bodyClass|default('') }}">
+{% block body %}
+	<header id="main-nav" class="fixed-width" role="banner" aria-label="Main menu">
+		<a class="logo" href="{{ site_url }}" rel="home" title="All About Berlin">
+			All About Berlin
+		</a>
+		<nav id="sections">
+			<a title="Guides about life in Berlin" href="{{ site_url }}/guides">Guides</a>
+			<a title="Tools and calculators" href="{{ site_url }}/tools">Tools</a>
+			<a title="Bürgeramt and Ausländerbehörde documents translated to English" href="{{ site_url }}/docs" class="no-mobile">Documents</a>
+			<a href="{{ site_url }}/contact">Contact</a>
+			<a title="Search All About Berlin" href="{{ site_url }}/search">
+				{% include 'css/icons/search.svg' %}
+			</a>
+		</nav>
+	</header>
+	{% block main %}
+		<main aria-label="Main page">
+			{% block precontent %}{% endblock %}
+			<article class="section fixed-width">
+				{% block content %}{% endblock %}
+			</article>
+			{% block postcontent %}{% endblock %}
+		</main>
+	{% endblock %}
+	<footer class="section fixed-width transparent centred" aria-label="Bottom menu">
+		© {{ now.strftime('%Y') }} • 
+		<a href="{{ site_url }}/contact" rel="nofollow">Contact me</a> • 
+		<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 
+		<a href="{{ site_url }}/terms#privacy-policy" rel="nofollow">Privacy policy</a> • 
+		<a href="{{ site_url }}/terms#terms-of-service" rel="nofollow">Terms & conditions</a>
+	</footer>
+{% endblock %}
+{% block postFooter %}
+	<script type="text/javascript">
+		{% alljs %}
+	</script>
+	<script type="application/ld+json">
+		[
+			{
+				"@context": "https://schema.org",
+				"@type": "WebSite",
+				"@id": "https://allaboutberlin.com/#site",
+				"author": {
+					"@type": "Person",
+					"@id": "https://nicolasbouliane.com"
+				},
+				"accountablePerson": {
+					"@type": "Person",
+					"@id": "https://nicolasbouliane.com"
+				},
+				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
+				"inLanguage": "en",
+				"url": "https://allaboutberlin.com",
+				"maintainer": {
+					"@type": "Person",
+					"@id": "https://nicolasbouliane.com"
+				},
+				"potentialAction": {
+					"@type": "SearchAction",
+					"target": "https://allaboutberlin.com/search?q={search_term_string}",
+					"query-input": "required name=search_term_string"
+				},
+				"publisher": {
+					"@type": "Organization",
+					"@id": "https://allaboutberlin.com/#organization"
+				},
+				"sameAs": [
+					"https://www.facebook.com/allaboutberlin",
+					"https://twitter.com/aboutberlin",
+					"https://www.linkedin.com/company/allaboutberlin/"
+				]
+			},
+			{
+				"@context": "https://schema.org",
+				"@id": "https://allaboutberlin.com/#organization",
+				"@type": "Organization",
+				"address": {
+					"@type": "PostalAddress",
+					"addressCountry": "DE",
+					"addressLocality": "Berlin",
+					"addressRegion": "Berlin",
+					"postalCode": "13127",
+					"streetAddress": "Pasewalker Straße 65"
+				},
+				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
+				"foundingDate": "2017-09-01",
+				"logo": "https://allaboutberlin.com/staticimages/logo.png",
+				"name": "All About Berlin",
+				"sameAs": [
+					"https://www.facebook.com/allaboutberlin",
+					"https://twitter.com/aboutberlin",
+					"https://www.linkedin.com/company/allaboutberlin/"
+				],
+				"url": "https://allaboutberlin.com"
+			},
+			{
+				"@context": "https://schema.org",
+				"@type": "Person",
+				"@id": "https://nicolasbouliane.com",
+				"name": "Nicolas Bouliane",
+				"email": "contact@allaboutberlin.com",
+				"url": "https://nicolasbouliane.com"
+			}
+		]
+	</script>
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,29 @@
+---
+Title: Cinemas with English movies in Berlin
+Description: This guide helps you find cinemas that play movies in English in Berlin.
+Date_created: 2017-09-28
+Date_updated: 2022-04-07
+Related_places: places/b-ware-ladenkino.md, places/babylon.md, places/il-kino.md, places/hackesche-höfe-kino.md, places/kino-central.md, places/sommerkino-kulturforum-yorck.md, places/sommerkino-schloss-charlottenburg-yorck.md, places/rollberg-yorck.md, places/passage-yorck.md, places/odeon-yorck.md, places/kino-international-yorck.md, places/neues-off-yorck.md, places/filmtheater-am-friedrichshain-yorck.md, places/kant-kino.md, places/delphi-filmpalast-yorck.md, places/cinema-paris-yorck.md, places/capitol-dahlem-yorck.md, places/blauer-stern-yorck.md, places/babylon-kreuzberg-yorck.md
+---
+
+This guide helps you find cinemas that play movies in English in Berlin.
+
+{% include "blocks/_tableOfContents.html" %}
+
+## OmU? OV? OmeU?
+
+- **OmU** means original version with subtitles (*Original mit Untertiteln*). The subtitles are usually in German.
+- **OmeU** means original version with English subtitles (*Originalversion mit englischen Untertiteln*).
+- **OmU+** means original version with English *and* German subtitles.
+- **OV** means original version. The movie is in its original language, and there are no subtitles.
+
+## English movie playtimes
+
+Use [critic.de](https://www.critic.de/ov-movies-berlin/) to find which movies are currently playing in Berlin. You can search for movies in their original language, with or without subtitles.
+
+## List of cinemas
+
+These cinemas usually screen movies in English, with or without subtitles. [Yorck Kinos](https://www.yorck.de/en) usually have movies in English.
+
+In the summer, some of these cinemas also screen open air movies. You can watch movies outdoors.
+

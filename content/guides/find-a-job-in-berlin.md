@@ -1,0 +1,232 @@
+---
+Title: How to find a job in Berlin
+Description: This guide shows you how to get a job in Germany, from the job search to your first day at work.
+Date_created: 2017-09-21
+Date_updated: 2022-12-02
+Related_reviews: reviews/find-a-job-in-berlin/greg-tomasik.md
+---
+
+This guide helps you find a job in Germany.
+
+If you want to start a business in Germany, read [this guide](/guides/become-a-freelancer-in-germany) instead.
+
+{% include "blocks/_tableOfContents.html" %}
+
+## Before your job search
+
+### Can you work in Germany?
+
+You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. Most of the time, you need a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], but there are [many other residence permit options](/guides/residence-permit#residence-permits-to-work).
+
+**[Who needs a residence permit? ➞](/guides/residence-permit)**
+
+It takes around 2 months to get a residence permit, but it can take longer. You can't work before you get your residence permit. Get your permit before you arrive in Germany. This way, you can start working as soon as you arrive. This saves you a lot of money.
+
+ Most employers know that this takes time, and they will wait for you. Some employers hire a relocation consultant to help you.
+
+### Do you need to speak German?
+
+No, but it helps a lot. You can find English-speaking jobs, but most companies want German speakers.
+
+If you don't speak German, you can still find jobs in...
+
+- [Tech companies](/guides/find-a-job-in-berlin#tech-jobs)
+- Companies with English-speaking offices
+- Delivery services like [Lieferando](https://www.lieferando.de/en/courier), [Wolt](https://wolt.com/en/jobs/search), [Flink](https://careers.smartrecruiters.com/Flink3/joinus) and [Gorillas](https://gorillas.io/en/ride-with-us)
+- Customer service and call centres
+- Restaurants and bars
+
+**[Do you need to speak German in Berlin? ➞](/guides/learn-german#do-i-need-to-speak-german-in-berlin)**
+
+### How long does it take to get hired?
+
+A few months. Even if you find a job quickly, the hiring process is very slow.
+
+### Salaries in Germany
+
+Know [how much you should earn](/guides/salaries-in-germany), and [how much taxes you should pay](/tools/tax-calculator). This helps you negotiate a better salary.
+
+**[Salaries in Germany ➞](/guides/salaries-in-germany)**
+
+## Step 1: Look for jobs
+
+### General job search
+
+- **[Indeed.com](https://de.indeed.com/jobs?l=Berlin)** - Job search engine. You can filter by language and set alerts.
+- **[LinkedIn](https://www.linkedin.com/jobs/search/?geoId=103620271&location=Berlin)** - Networking website with a big jobs section. Very popular.
+- [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the [Federal Employment Agency](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)
+- [Talent Berlin](https://www.talent-berlin.de/en/jobs/job-search) - Run by the state of Berlin. You can't filter by language.
+- [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language.
+- [Xing](https://www.xing.com/) - Similar to LinkedIn. You can't filter by language.
+- [ArbeitNow](https://arbeitnow.com/berlin-jobs) - Job listing website. Made in Berlin.
+- [Glassdoor ](https://www.glassdoor.de/)- Company reviews, salary reports and job listings. You need an account.
+
+### English-speaking jobs
+
+These websites only have English-speaking jobs, or let you filter by language:
+
+- **[Berlin Startup Jobs](http://berlinstartupjobs.com/)** - Most jobs are in English-speaking offices
+- [Expat job seeker](https://expatjobseeker.de/cat/english/#!search/job_category=english&location=berlin) - You can filter jobs by language
+- [Englishjobs.de](https://englishjobs.de/in/berlin) - Only English-speaking jobs
+- [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language
+- [JobsInBerlin.eu](http://www.jobsinberlin.eu/) - You can filter jobs by language
+- [Germany Startup Jobs](http://www.germanystartupjobs.com/) - You can filter jobs by language and salary
+- [The Local jobs](https://www.thelocal.de/jobs/) - Run by a popular English-speaking newspaper
+- [English-speaking jobs in Berlin](https://www.facebook.com/groups/jobinberlin/) - Facebook group, 89,000+ members
+- [English jobs in Berlin](https://www.facebook.com/groups/English.Jobs.Berlin/) - Facebook group, 43,000+ members
+
+### Tech jobs
+
+- **[GermanTechJobs](https://germantechjobs.de/jobs/all/Berlin)** - You can filter by language and technology.
+- [Berlin Startup Jobs](http://berlinstartupjobs.com/) - English-speaking jobs in startups and tech companies
+- [Administrator](https://www.administrator-jobs.de/in/berlin) / [Web Entickler](https://www.webentwickler-jobs.de/in/berlin) / [Entwickler](https://www.softwareentwickler-jobs.de/in/berlin) Jobs - German-speaking tech jobs
+- [Imagine Foundation](https://www.joinimagine.com/) - They help software developers from developing countries find a job and get hired
+
+### Creative jobs: media, communications, design
+
+- [dasauge](https://dasauge.de/jobs/) (in German) - Media-related jobs
+- [Mediengestalter Jobs](https://www.mediengestalter-jobs.de/) (in German) - Creative jobs
+
+### Startup jobs
+
+- **[Berlin Startup Jobs](http://berlinstartupjobs.com/)** - English-speaking jobs in startups and tech companies
+- [Gründerszene Jobbörse](https://www.gruenderszene.de/jobboerse/) (in German) - Gründerszene is a popular website for founders
+- [Startup Sucht](https://startupsucht.com/) (in German)
+- [tbd\* job board](https://www.tbd.community/de/jobs) (in German) - tbd\* is a website for entrepreneurs. You can filter by language.
+- [Angel.co](https://angel.co/) - International startup job portal
+- [Germany Startup Jobs](http://www.germanystartupjobs.com/) - You can filter jobs by language and salary
+- [Berlin Startup Jobs](https://www.facebook.com/groups/BerlinStartupJobs/?ref=group_header) - Facebook group, 56,000+ members
+- [Berlin Startup Jobs, Internships &amp; Co-founders](https://www.facebook.com/groups/StartupJobsBerlin/?ref=group_header) - Facebook group, 14,000+ members
+
+### Internships, temp work and [minijobs](/glossary/Minijob)
+
+- **[Zenjobs](https://www.zenjob.com/en/jobs/jobs-in-berlin/)**
+- [BSIG - Berlin Startup Internships](https://www.facebook.com/groups/BerlinStartupInternships/?ref=group_header) - Facebook group, 10,000+ members
+- [Foreign Young Professionals in Berlin](https://www.facebook.com/groups/1459276421005507/?ref=group_header) - Facebook group, 8,000+ members
+- [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the [Federal Employment Agency](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit). Has a filter for internships.
+- [Timeworkers](https://www.timeworkers.de/) (in German) - Temporary jobs
+- [Adecco](https://www.adecco.de/job-results/?k=english&l=berlin&xy=52.5200%2C13.4050&display=15) (in German) - Large temp work agency
+- [Manpower](https://www.manpower.de/jobsuche/jobs-suchen-und-finden/?q=english&c=normal) (in German) - Large temp work agency
+- [Randstad](https://www.randstad.de/) (in German) - Large temp work agency
+- [Craigslist](https://berlin.craigslist.org/?lang=en&cc=gb) - Most job listings are for restaurants and cafés
+
+### Freelance work
+
+- [Berlin Freelancers](https://www.facebook.com/groups/berlinfreelancers/) - Facebook group, 25,000+ members
+
+### Restaurant jobs
+
+- [Berlin Food Stories](https://berlinfoodstories.com/berlinrestaurantjobs/) - Restaurant jobs in Berlin
+- [Huntler](http://www.huntler.de/) - English-speaking restaurant jobs in Berlin
+
+## Step 2: Apply for jobs
+
+### German resumes
+
+German CVs are longer than American resumes. They include your date of birth, your citizenship and a photo of you[^0]. You should go to a photo studio and get a professional portrait for your resume. A [career coach](/guides/find-a-job-in-berlin#need-help) can help you write a better resume.
+
+**Useful links:**
+
+- [How to write a German resume](https://hallogermany.com/blog/cv-lebenslauf) - HalloGermany
+- [German resume examples](https://www.joinimagine.com/content) - Imagine foundation
+- [Resume checklist](https://medium.com/imagine-foundation/crafting-a-winning-cv-666a240314b2) - Imagine foundation
+- [Lingoking](/out/lingoking-resume) - Translate your resume to German
+
+### Cover letters
+
+Include a short cover letter (*Anschreiben*) with your application. It's a personal introduction. It explains who you are, what you do, why you apply for this job, and why they should hire you.
+
+Don't send the same cover letter to everyone. Do your research, and personalise the letter for each job offer. Keep it short and easy to read. Get feedback from other people before you send it. A [career coach](/guides/find-a-job-in-berlin#need-help) can help you write better cover letters.
+
+- [How to write a German cover letter](https://hallogermany.com/blog/cv-lebenslauf) - HalloGermany
+- [Advice for cover letters](https://news.ycombinator.com/item?id=1783915) with [examples](https://news.ycombinator.com/item?id=1784194) - Hacker News
+
+## Step 3: The job interview
+
+In Germany, the interview process is very long. It can take a few weeks, and even a few months. You might have multiple interviews with different people. It depends on the company and the job. You need a lot of time for this.
+
+### The phone screen
+
+The interview process starts with a short call. A recruiter or hiring manager will ask you a few questions. They will try to understand who you are, what you want, and how you fit the job offer. It's a simple check before they invite you for an interview.
+
+**[How to prepare](https://medium.com/imagine-foundation/dating-for-job-seekers-c23a23460656)** - Imagine Foundation
+
+### The technical interview
+
+Most tech companies have technical interviews or coding challenges. They verify that you know how to do your job.
+
+Technical interviews are different at every company. They might ask you technical questions, ask you to solve a problem during the interview, or complete a technical challenge at home. Some companies don't have technical interviews.
+
+### Meet the team
+
+Most companies have a team interview. You meet your future team to see if you work well together. This interview is more relaxed. You might just talk with the team, or have lunch together.
+
+## Step 4: The job offer
+
+After your interview, the company can make a job offer.
+
+### Salary negotiation
+
+After you get the job offer, you can negotiate a better salary. You can also ask for things like a relocation bonus or more [vacation days](/guides/vacation-days).
+
+**[Salaries in Germany ➞](/guides/salaries-in-germany)**
+
+### The job contract
+
+Put everything in writing, only sign what you agree to, send the signed contract by post.
+
+**[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
+
+## Step 5: Get a residence permit
+
+If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for the residence permit.
+
+Your employer can hire a relocation consultant to help you. This helps a lot.
+
+**[Do you need a residence permit? ➞](/guides/residence-permit)**
+
+**[How to get a work visa or Blue Card ➞](/guides/german-work-visa)**
+
+## Step 6: Start working
+
+### Things your employer needs
+
+**During your first month at a new company**, your employer needs a few things:
+
+- **A [bank account](/guides/first-bank-account-in-germany)**  
+    Your employer will pay you by bank transfer. For this, you need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Any European bank account will work.
+- **Your [tax ID](/glossary/Steueridentifikationsnummer)** (*Steueridentifikationsnummer*)  
+    You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, you can still get a tax ID. If you can't get a tax ID, you can still start working. [More information.](/guides/german-tax-id-steuernummer#the-tax-id)
+- **Your health insurance number** (*Krankenversicherungsnummer*)  
+    If you live in Germany, you must [choose health insurance](/guides/german-health-insurance). 2 to 7 days after you get health insurance, you get a *Krankenversicherungsnummer*. Your employer needs this number to take health insurance payments from your salary.
+- **Your [social insurance number](/guides/german-versicherungsnummer)** (*Sozialversicherungsnummer*)  
+    If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your employer can sometimes help you with this. More information [here](/guides/german-versicherungsnummer).
+
+### The probation period
+
+During your first 6 months at a new company, you are in your probation period (*[Probezeit](/glossary/%EF%BB%BFProbezeit)*)[^1]. During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
+
+**[How does the probation period work? ➞](/guides/probezeit)**
+
+### Things an employee must know
+
+**[How to take vacations ➞](/guides/vacation-days)**
+
+**[What to do when you are sick ➞](/guides/sick-leave)**
+
+## Need help?
+
+### Career coaching
+
+These people can help you get hired. For example, they can review your resume and cover letter. This is a tax-deductible expense.
+
+- [Imagine Foundation](https://www.joinimagine.com/) - Free career coaching for software engineer and data scientists
+- [HalloGermany](https://hallogermany.com/services-for-internationals/p/career-coaching) - Career coaching
+
+### Other services
+
+- [Working and living in Germany](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html) - Free hotline from the Office for Migration and Refugees
+- [Resume and cover letter translations](/out/lingoking-resume) - Lingoking
+
+[^0]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/21ehgp/im_looking_for_a_job_in_germany_and_have_a/)
+[^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)

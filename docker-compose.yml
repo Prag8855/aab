@@ -1,0 +1,46 @@
+version: '3.2'
+
+services:
+  api:
+    build: ./api
+    depends_on:
+      - mysql
+    environment:
+      - MAILGUN_API_KEY
+    volumes:
+      - "./api/api:/app"
+  appointments:
+    build: https://github.com/nicbou/burgeramt-appointments-websockets.git#main
+    environment:
+      - PYTHONUNBUFFERED=1
+      - BOOKING_TOOL_ID
+      - BOOKING_TOOL_EMAIL
+  proxy:
+    build:
+      context: ./proxy
+      args:
+        - "SSL_DOMAIN"
+        - "SSL_EMAIL"
+    ports:
+      - 80:80
+      - 443:443
+    depends_on:
+      - api
+      - appointments
+    volumes:
+      - "./output:/var/www/html:ro"
+      - "ssl_certs:/etc/ssl-certs"
+      - "acme_sh:/root/.acme.sh"
+      - "image_cache:/var/run/nginx-cache/imagecache"
+  mysql:
+    image: "mysql"
+    volumes:
+      - "mysql:/var/lib/mysql"
+    environment:
+      - MYSQL_DATABASE=api
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+volumes:
+  mysql:
+  ssl_certs:
+  acme_sh:
+  image_cache:

@@ -1,0 +1,153 @@
+{% extends "_layout.html" %}
+{% set metatitle = entry.title %}
+{% set metadescription = entry.description %}
+{% set reviews = entry.reviews %}
+{% set related_entries = entry.related_guides %}
+
+{% block postHead %}
+    <meta property="og:url" content="{{ entry.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ entry.title }}" />
+    <meta property="og:description" content="{{ entry.description }}" />
+    <meta property="og:image" content="{{ site_url }}/api/images/cover.png?text={{ entry.title|urlencode }}" />
+    <link rel="canonical" href="{{ entry.url }}" />
+    <link rel="glossary" href="https://allaboutberlin.com/glossary" />
+    <link rel="index" href="https://allaboutberlin.com/tools">
+    <link rel="edit" href="{{ entry.cpEditUrl }}">
+{% endblock %}
+
+{% block content %}
+    <h1>{{ entry.title }}</h1>
+    <div class="post-meta">
+        <span class="post-date">
+            Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%d %B, %Y') }}</time>
+        </span>
+        <span class="post-author">{% if reviews|length %}By {% else %}Built by {% endif %}<a rel="nofollow" href="https://allaboutberlin.com/contact">Nicolas Bouliane</a></span>{% if reviews|length > 0 %}.{% endif %}
+        {% if reviews|length == 1 %}
+            <span class="post-reviewers">Verified by <a class="reviewers-link" href="#reviewers">1 expert</a></span>
+        {% elif reviews|length > 1 %}
+            <span class="post-reviewers">Verified by <a class="reviewers-link" href="#reviewers">{{ reviews|length }} experts</a></span>
+        {% endif %}
+        {% if reviews %}
+            <ul class="hidden" id="reviewers">
+                {% for review in reviews %}
+                    {% set reviewer = review.reviewer.with('cover_image').one() %}
+                    <li class="expert">
+                        {% if reviewer.cover_image|length %}
+                            <img class="profile-picture" alt="{{ reviewer.title }}" loading="lazy" src="{{ reviewer.cover_image[0].getUrl('bio') }}" srcset="{{ reviewer.cover_image[0].getUrl('bio2x') }} 2x">
+                        {% else%}
+                            <div class="profile-picture no-picture"></div>
+                        {% endif %}
+                        <div>
+                            <p>
+                                <strong>Tested by {{ reviewer.title }}</strong>
+                                 on 
+                                <time content="{{ review.reviewDate.strftime('%F') }}" datetime="{{ review.reviewDate.strftime('%F') }}">{{ review.reviewDate.strftime('%d %B, %Y') }}</time>
+                            </p>
+                            {{ reviewer.body }}
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+    {% with entry=entry, showRelatedEntriesLink=relatedCollections|length, showSupportLink=true %}
+        {% include 'blocks/_mainContent.html' %}
+    {% endwith %}
+{% endblock %}
+
+
+{% block postcontent %}
+    {% with pageType='tool' %}
+        {% include "blocks/_donationPrompt.html" %}
+    {% endwith %}
+    <aside class="section fixed-width footer-notice">
+        <p>
+            <strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
+        </p>
+    </aside>
+
+    {% if related_entries|length %}
+        <aside class="section fixed-width related" id="related">
+            <h2>Related guides</h2>
+            {% for entry in related_entries.all() %}
+                {% include "blocks/_guidePreview.html" %}
+            {% endfor %}
+            <nav class="fixed-width pagination">
+                <a class="more" rel="index" href="{{ url('guides') }}">See all guides ▸</a>
+            </nav>
+        </aside>
+    {% endif %}
+{% endblock %}
+
+{% block postFooter %}
+    {% include 'blocks/_tooltip.html' %}
+    {{ super() }}
+    <script type="application/ld+json">
+        [
+            {
+                "@context": "http://schema.org",
+                "@type": "WebPage",
+                "name": "{{ entry.title }}",
+                "description": "{{ entry.description }}",
+                "breadcrumb": {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "item": {
+                                "@id": "https://allaboutberlin.com/",
+                                "name": "Home"
+                            }
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "item": {
+                                "@id": "https://allaboutberlin.com/tools",
+                                "name": "Tools and calculators"
+                            }
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "item": {
+                                "@id": "{{ entry.url}}",
+                                "name": "{{ entry.title }}"
+                            }
+                        }
+                    ]
+                },
+                "author": {
+                    "@type": "Person",
+                    "@id": "https://nicolasbouliane.com"
+                },
+                "reviewedBy": [
+                    {% for review in reviews %}
+                        {% set reviewer = review.reviewer.one() %}
+                        {
+                            "@context": "https://schema.org/",
+                            "@type": "Person",
+                            "jobTitle": "{{ reviewer.description }}",
+                            "name": "{{ reviewer.title }}",
+                            "email": "{{ reviewer.email }}",
+                            {% if reviewer.cover_image|length %}"image": "{{ reviewer.cover_image[0].getUrl() }}",{% endif %}
+                            "sameAs": [
+                                "{{ reviewer.website }}"
+                            ]
+                        }{% if not loop.last %},{% endif %}
+                    {% endfor %}
+                ],
+                {% if reviews|length %}
+                    "lastReviewed": "{{ reviews[0].reviewDate.strftime('%Y-%m-%d') }}",
+                {% endif %}
+                "publisher": {
+                    "@type": "Organization",
+                    "@id": "https://allaboutberlin.com/#organization"
+                }
+            }
+        ]
+    </script>
+{% endblock %}

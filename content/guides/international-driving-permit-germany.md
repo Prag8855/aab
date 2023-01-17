@@ -1,0 +1,37 @@
+---
+Title: How to get an International Driving Permit in Berlin
+Description: How to get your IDP in Berlin and the rest of Germany, both with German and foreign driver licences.​
+Date_created: 2017-11-20
+Date_updated: 2022-04-18
+---
+
+The International Driving Permit is an official translation of your driver's licence. It is recognised in 200 countries[^0]. When you drive in other countries, you should carry it with your original driver's licence.
+
+![International Driving Permit](/images/IMG_1814.jpg)
+
+This guide applies to you if:
+
+1. You live in Germany
+2. You have a German driving licence
+3. You want to drive in a country that requires an International Driving Permit
+
+## With a German driver's licence
+
+If you have a German driver's licence, you must [book a *Bürgeramt* appointment](/guides/berlin-burgeramt-appointment) for an *[Internationaler Führerschein](https://service.berlin.de/dienstleistung/121591/)*. The ADAC does not issue International Driver Permits anymore[^1].
+
+{% include "blocks/appointmentLink/_internationalDrivingPermit.html" %}
+
+You must bring 15€, a [biometric picture](/guides/biometric-pictures-in-berlin) and a valid German driver's licence. Temporary licenses issued to new drivers (*vorläufiger Nachweis der Fahrerlaubnis*) are not accepted. You must bring a valid plastic driving licence (*Kartenführerschein*).
+
+You will leave the *[[Bürgeramt]]* with a valid International Driving Permit. This permit is valid for 3 years.
+
+## With a non-German driver's licence
+
+The *[[Bürgeramt]]* only gives International Driving Permits for German driving licences. If you have a driver's licence from another country, you must follow different steps. In most cases, you must request the International Driving Permit in your country of origin.
+
+- **Canada**: From the CAA, while in Canada. No other authority can issue them. You can [convert your licence to a German one](http://nicolasbouliane.com/blog/canadian-german-driving-license), then request an International Driving Permit in Germany.
+- **United States:** The AAA can [mail International Driving Permits overseas](https://www.aaa.com/vacation/idpf.html).
+- **Great Britain:** From the [AA,](http://www.theaa.com/getaway/idp/) the [RAC](http://www.rac.co.uk/driving-abroad/international-driving-permit/) or the [Post Office](http://www.postoffice.co.uk/international-driving-permit). You can also [request a British IDP by post](http://www.theaa.com/driving-advice/driving-abroad/apply-for-an-idp-by-post).
+
+[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/International_Driving_Permit#Countries_that_recognize_IDP)
+[^1]: [adac.de](https://www.adac.de/der-adac/rechtsberatung/fuehrerschein/fahren-ausland/internationaler-fuehrerschein/)

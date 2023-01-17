@@ -1,0 +1,46 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Guides" %}
+{% set metadescription = "A collection of guides about life in Berlin" %}
+
+{% block postHead %}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="All About Berlin guides" />
+    <meta property="og:description" content="{{ metadescription }}" />
+    <meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ "All About Berlin guides"|urlencode }}" />
+	<link rel="canonical" href="https://allaboutberlin.com/guides" />
+	<link rel="edit" href="{{ site_url }}/admin/entries/guides">
+{% endblock %}
+
+{% block main %}
+<main aria-label="Main page">
+	<header class="section transparent fixed-width intro centred">
+		<h1>Guides about Germany</h1>
+		{% with autofocus=true %}
+		    {% include "blocks/_searchForm.html" %}
+		{% endwith %}
+	</header>
+	<section class="section transparent fixed-width" aria-label="Guide collections">
+		{% with currentEntry=null, collections=entries.collections %}
+			{% include "blocks/_collections.html" %}
+		{% endwith %}
+	</section>
+	<section class="section fixed-width" aria-label="Newest guides">
+		<h2>Newest guides</h2>
+		{% for entry in entries.guides.values() %}
+			{% with showDatePosted=true %}
+			    {% include "blocks/_guidePreview.html" %}
+			{% endwith %}
+		{% endfor %}
+	</section>
+	<section class="section fixed-width" aria-label="Recently updated guides">
+		<h2>Recent updates</h2>
+		{% for entry in entries.guides.values() %}
+			{% with showDateUpdated=true %}
+				{% include "blocks/_guidePreview.html" %}
+			{% endwith %}
+		{% endfor %}
+	</section>
+</main>
+{% endblock%}
+
+{% include "js/masonry.js" %}

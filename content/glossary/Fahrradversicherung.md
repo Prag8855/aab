@@ -1,0 +1,11 @@
+---
+Title: What is ﻿Fahrradversicherung﻿?
+German_term: Fahrradversicherung
+English_term: Bicycle insurance
+Description: 
+Date_created: 2020-12-01
+Date_updated: 2022-11-28
+Related_guides: guides/moving-to-berlin.md
+---
+
+Bicycle insurance (*Fahrradversicherung*) covers bike theft. If your bike is stolen, the insurance company will pay to replace it.

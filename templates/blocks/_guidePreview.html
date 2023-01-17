@@ -1,0 +1,26 @@
+<div class="preview" role="listitem" aria-label="{{ entry.title }}">
+    <h3>
+        <a href="{{ entry.url }}" rel="bookmark">
+            {% if entry.url.startswith('guides/') %}
+                {{ entry.pageTitle | default(entry.title) }}
+            {% else %}
+                {% if entry.short_title %}
+                    <span class="no-mobile">{{ entry.title }}</span>
+                    <span class="no-desktop">{{ entry.short_title }}</span>
+                {% else %}
+                    {{ entry.title }}
+                {% endif %}
+            {% endif %}
+        </a>
+    </h3>
+    {% if showDateUpdated|default or showDatePosted|default %}
+        {% if showDateUpdated|default %}
+            {% set dateToUse = entry.date_updated %}
+        {% else %}
+            {% set dateToUse = entry.date_created %}
+        {% endif %}
+        <time class="post-date" content="{{ dateToUse.strftime('%F') }}" datetime="{{ dateToUse.strftime('%F') }}">{{ dateToUse.strftime('%d %B, %Y') }}</time>
+    {% endif %}
+    <p>{{ entry.description }}</p>
+    <script type="application/ld+json">{% include "guides/_jsonld.json" %}</script>
+</div>

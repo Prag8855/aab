@@ -1,0 +1,17 @@
+---
+Title: What is a Working Holiday Visa?
+German_term: Working Holiday Visa
+English_term: 
+Description: 
+Date_created: 2019-07-13
+Date_updated: 2022-02-07
+Related_guides: guides/moving-to-berlin.md, guides/german-work-visa.md, guides/residence-permit.md
+---
+
+The Working Holiday Visa lets citizens of certain countries work in Germany for up to 1 year.
+
+Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay citizens between 18 and 30 years old can apply for a Working Holiday Visa[^0].
+
+Canadian citizens between 18 and 35 years old can apply for a [[Youth Mobility Visa]]. It's almost the same thing.
+
+[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Working_holiday_visa#Germany)

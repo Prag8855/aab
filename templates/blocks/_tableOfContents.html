@@ -1,0 +1,15 @@
+<nav class="table-of-contents" aria-label="Table of contents" {% if not showScreenReaders|default(true) %}aria-hidden="true"{% endif %}>
+	<h2>Table of contents</h2>
+	<ol>
+		{% if showScrollToTop|default %}
+			<li class="top-of-page no-desktop"><a href="#" title="Scroll to top of page">Top of page</a></li>
+		{% endif %}
+		<li>TODO: Table of contents</li>
+		{% if showSupportLink|default %}
+			<li class="donate"><a href="#support" title="Donate to All About Berlin">Support the author</a></li>
+		{% endif %}
+		{% if showRelatedEntriesLink|default %}
+			<li><a href="#related">Related guides</a></li>
+		{% endif %}
+	</ol>
+</nav>
