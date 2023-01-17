@@ -39,13 +39,13 @@ Since Brexit, UK citizens also need a freelance visa.
 - **You must have health insurance**  
     All German residents must have [health insurance](/guides/german-health-insurance). Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
 - **You must make enough money**  
-    You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME}}€ per month<sup>[2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)</sup>.
+    You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME}}€ per month[^49].
 - **You must have clients in Germany**  
     You can't get a freelance visa if all your clients are in another country. During your visa interview, you must show [letters of intent](/glossary/Absichtserkl%C3%A4rung) from German companies who want to hire you. When you renew your visa, you must prove that you had German clients.
 
 ### Are you really a freelancer?
 
-Fake self-employment ([*Scheinselbstständigkeit*](/glossary/Scheinselbstst%C3%A4ndigkeit)) is when you work like an employee, but you are treated like a freelancer. This allows companies to hire people without paying for their healthcare and other benefits. In Germany, this is illegal[^3].
+Fake self-employment (*[[Scheinselbstständigkeit]]*) is when you are hired as a freelancer, but you should be an employee. This is not legal[^3].
 
 **[More information about fake self-employment ➞](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)**
 
@@ -53,10 +53,10 @@ If you plan to work for a single client, you will rarely get a freelance visa.
 
 ### Selbständiger or Freiberufler?
 
-Before you apply, you should know if you are freelance (*[[Freiberufler]]*) or self-employed (*Selbständiger*). If you are *Selbständiger*, you must bring more documents to your interview[^4].
+Before you apply, you should know if you are freelance (*[[Freiberufler]]*) or self-employed (*[[Selbständig]]*). If you are *Selbständig*, you must bring more documents to your interview[^4].
 
 - **Freiberufler**: Artists, teachers, scientists, engineers, software developers and other independent professionals are *Freiberufler* according to [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html)[^5]. Use the [incomplete list of freelance professions](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8). When you apply as a *Freiberufler*, it's a little easier. There are not as many documents to prepare[^5].
-- **Selbständiger**: If you are not a *Freiberufler*, you are *Selbständiger*. When you apply as a *Selbständiger*, it's a little harder. You must prepare more documents[^6].
+- **Selbständiger**: If you are not a *Freiberufler*, you are *Selbständig*. When you apply as a *Selbständiger*, it's a little harder. You must prepare more documents[^6].
 
 ### For self-employed people (Selbständiger)
 
@@ -157,11 +157,11 @@ Usually, you need a [registration certificate](/glossary/Anmeldebest%C3%A4tigung
 
 **[German banks for expats ➞](/guides/first-bank-account-in-germany#german-banks-for-expats)**
 
-If you can, keep 2 bank accounts: one for you, and one for your business. It's not required, but it's a good idea. It makes accounting easier. I have a personal bank account with [N26](/out/n26), and a business account with [Kontist](/out/kontist).
+If you can, have 2 bank accounts: one for you, and one for your business. It's not required, but it's a good idea. It makes accounting easier. I have a personal bank account with [N26](/out/n26), and a business account with [Kontist](/out/kontist).
 
-You will need money in your German bank account. I used [Wise](/out/transferwise) (TransferWise) to transfer money from my Canadian bank account to my German bank account.
+You will need money in your German bank account. I used [Wise](/out/transferwise) (TransferWise) to transfer money from Canada to Germany.
 
-### Step 4: <a>Register your address</a>
+### Step 4: Register your address
 
 You don't need to [register your address](/guides/anmeldung-in-english-berlin) to get the freelance visa, but it will be useful later. You must register your address to get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need that to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*.
 
@@ -201,7 +201,7 @@ The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to fin
 
 **[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-same-day-appointment#what-happens-during-your-appointment)**
 
-You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). Your visit should take around 1 hour. Bring all your documents with you.
+You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 
 Your interview will probably be in German. Some interviewers speak English, but this is not guaranteed. If you don't speak German, bring an interpreter with you. If you can afford it, [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin). I often work with [Kathleen Parker from Red Tape Translation](https://www.redtapetranslation.com/services/take-a-translator-aab/). She is my expert on German bureaucracy. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
@@ -221,15 +221,14 @@ When you get your freelance visa, it can be valid for 6 months to 3 years[^22]. 
 
 Once you have your visa, you still have some work to do before you can run a business in Germany.
 
-1. If you are a *[Gewerbetreibende](/guides/freiberufler-or-gewerbe)*, you must [get a ](/guides/gewerbeschein)*[Gewerbeschein](/guides/gewerbeschein)*. If you are a *Freiberufler* (according to [the Finanzamt's definition](/guides/freiberufler-or-gewerbe)), you don't need one.[^23]
-2. You must [register your business at the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). This is how you get a tax number (*[[Steuernummer]]*), a VAT number ([*Umsatzsteuer-Identifikationsnummer*](/glossary/Umsatzsteuernummer)), and an entry in the trade register (*[[Handelsregister]]*).
-3. You must [make sure your website follows the German and European Union laws](/guides/website-compliance-germany).
-4. It's a good idea to get [professional liability insurance](/guides/haftpflichtversicherung) (*Gewerbehaftpflichtversicherung* or **Berufshaftpflichtverischerung**) to protect yourself against lawsuits. You can also get disability insurance (*[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)*), in case you get injured and can't keep working.
+1. If you are a *[Gewerbetreibende](/guides/freiberufler-or-gewerbe)*, you must [get a *Gewerbeschein*](/guides/gewerbeschein). If you are a *[[Freiberufler]]* (according to [the Finanzamt's definition](/guides/freiberufler-or-gewerbe)), you don't need one.[^23]
+2. You must [register your business at the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). This is how you get a tax number (*[[Steuernummer]]*), a VAT number (*[[Umsatzsteuernummer]]*), and an entry in the trade register (*[[Handelsregister]]*).
+3. Your website must follow the [German and European Union laws](/guides/website-compliance-germany).
+4. You can get [professional liability insurance](/guides/haftpflichtversicherung) (*Gewerbehaftpflichtversicherung* or **Berufshaftpflichtverischerung**) to protect yourself against lawsuits. You can also get disability insurance (*[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)*), in case you get injured and can't work.
 
 **Related guides:**
 
 - [How to start a business in Germany](/guides/start-a-business-in-germany)
-- [What is liability insurance, and what does it cover?](/guides/haftpflichtversicherung)
 - [List of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin)
 
 ## How to apply in your country
@@ -240,7 +239,7 @@ You must get an appointment at [your local German embassy or consulate](https://
 
 ### Step 2: Prepare for your visa interview
 
-Before you go to your visa interview, you must prepare the [required documents](/guides/how-to-get-a-german-freelance-visa#required-documents). You must also [find health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa) and [find a place to live in Germany](/guides/find-a-flat-in-berlin). In your case, you might need expat health insurance for a few months, until you can get public or private health insurance. [[Expat health insurance]] from [Feather](/out/popsure-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is valid. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose the correct health insurance.
+Before you go to your visa interview, prepare the [required documents](/guides/how-to-get-a-german-freelance-visa#required-documents). You also need [health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa) and [a place to live in Germany](/guides/find-a-flat-in-berlin). In your case, you might need expat health insurance for a few months, until you can get public or private health insurance. [[Expat health insurance]] from [Feather](/out/popsure-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is valid. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose the correct health insurance.
 
 The list of required documents is different in each country. Check the website of your local embassy or consulate. The list on this page is for people who apply at the *[[Ausländerbehörde]]* in Berlin.
 
@@ -281,16 +280,19 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 ### Basic documents
 
 - **Freelance visa application form, filled** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    *[Template](/docs/german-freelance-visa-form) -* [*detailed guide*](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)  
+    *[Template](/docs/german-freelance-visa-form) - [detailed guide](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)*  
     This form is available in [German, English, French and Italian](/docs/german-freelance-visa-form). For instructions on how to fill this form, see [this guide](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/). This is only required if you apply for the first time[^25].
 - **Appointment confirmation** This document shows a lot of useful information about your appointment.
-- **2 passport photos** [*Detailed guide*](/guides/biometric-pictures-in-berlin)  
+- **2 passport photos**  
+    *[Detailed guide](/guides/biometric-pictures-in-berlin)*  
     You need two 35 × 45mm biometric pictures. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin), including from the photo booth at the *Ausländerbehörde*[^26]. You do not need to cut the passport photos yourself; they have a tool for this[^27].
-- **{{NATIONAL_VISA_FEE}}€ for the visa application fees** The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard[^28]. The visa application fee is between 28€ and {{NATIONAL_VISA_FEE}}€[^25]. You only need to pay when you get your visa. If you don't get a visa, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
-- **Proof of health insurance coverage** [*Detailed guide*](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)  
+- **{{NATIONAL_VISA_FEE}}€ for the visa application fees**
+    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard[^28]. The visa application fee is between 28€ and {{NATIONAL_VISA_FEE}}€[^25]. You only need to pay when you get your visa. If you don't get a visa, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
+- **Proof of health insurance coverage**
+    **[Detailed guide](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)**  
     Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) has more details.
 - **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]]) [Detailed guide](/guides/replacement-meldebescheinigung)* - [*Wohnungsgeberbestätigung template* ](/docs/wohnungsgeberbestatigung)  
-    You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9m^2^ per person in the apartment. If you rent a room, it must be at least 6m^2^. Student residences and communal accommodations are also accepted.<sup>[2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)</sup>
+    You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9m^2^ per person in the apartment. If you rent a room, it must be at least 6m^2^. Student residences and communal accommodations are also accepted.[^50]
     - The **[[Anmeldebestätigung]]** you received during your [[Anmeldung]]. It looks [like this](/images/Meldebescheinigung_Berlin.jpg). If you lost this document, you can [ask for a replacement](/guides/replacement-meldebescheinigung). This document is not required. If you don't have it, it's okay. If you have not done your *[[Anmeldung]]* yet, bring a proof that you have a booked *Bürgeramt* appointment.
     - **and** your **rent contract**. Bring this document even if you have your *[[Anmeldebestätigung]]*. Some interviewers require it anyway[^29]. Temporary rent contracts are accepted[^30].
     - **and** the **[[Wohnungsgeberbestätigung]]** from the landlord or the [main tenant](/glossary/Hauptmieter). This is the document you get from your landlord after signing your rent contract. It confirms that you are allowed to live there. Bring this document even if you have your *[[Anmeldebestätigung]]*. Many interviewers require it anyway[^31]. You can find a template [here](/docs/wohnungsgeberbestatigung).
@@ -319,7 +321,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     This shows how much savings you have. It proves that you have enough money to support yourself while you start your business. The more money you have in your account, the better. *In general*, bank statements from foreign banks are accepted, but some interviewers want statements from a German bank[^36]. Just [open a German bank account](/guides/first-bank-account-in-germany), and transfer some savings with [Wise](/out/transferwise). According to [this poll](https://www.facebook.com/groups/berlinfreelancers/permalink/1899819730098402/?comment_id=1899832836763758), 3,000€ to 5,000€ in savings is enough[^37]. If necessary, convert the amount to Euros[^38].
 - **Revenue forecast / profit and loss statement** (*[[Ertragsvorschau]]*)  
     *[Detailed guide 1](/docs/ertragsvorschau) - [detailed guide 2](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/) - [example](/documents/Ertragsvorschau-German.pdf)*  
-    Make a spreadsheet with your *expected* monthly revenue and expenses for your business. Do not include your own rent and expenses. This helps the *[[Ausländerbehörde]]* see if you will contribute to the German economy. Don't forget to include the *[Umsatzsteuer-Identifikationsnummer](/glossary/Umsatzsteuernummer)*, health insurance and [income tax](/glossary/Einkommensteuer). Some *Ausländerbehörde* employees prefer that you use the official template, not your own.
+    Make a spreadsheet with your *expected* monthly revenue and expenses for your business. Do not include your own rent and expenses. This helps the *[[Ausländerbehörde]]* see if you will contribute to the German economy. Don't forget to include the *[[Umsatzsteuernummer]]*, health insurance and [income tax](/glossary/Einkommensteuer). Some *Ausländerbehörde* employees prefer that you use the official template, not your own.
 - **Proof of adequate pension plan**  
     If you are over 45 years old, you need to prove that you have adequate preparations for retirement. See the [section above](/guides/how-to-get-a-german-freelance-visa#the-german-freelance-visa-requirements) for more details. Proof of a pension plan is not required for these nationalities: Dominican Republic, Indonesia, Iran, Japan, Philippines, Sri Lanka, Turkey and the United States[^25].
 - **Proof of regular income** *(artists and language teachers only)*  
@@ -349,7 +351,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 
 This list contains the same documents as above. You can use it as a checklist when gathering the documents.
 
-- Address registration confirmation ([*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung))
+- Address registration confirmation (*[[Anmeldebestätigung]]*)
 - Appointment confirmation from the *Ausländerbehörde*
 - Bank statement (*[[Kontoauszug]]*)
 - Business plan (not required for *[[Freiberufler]]*)
@@ -385,11 +387,11 @@ You can leave Germany **for up to 6 months**[^47].
 
 ### What is the minimum income for the German freelance visa?
 
-In Berlin, you must earn **enough to pay for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME}}€ per month**<sup>[2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)</sup>. For example, if your rent is 800€ per month, and your health insurance 400€ per month, you must earn at least 1,649€ per month (800€ + 400€ + {{FREELANCE_VISA_MIN_INCOME}}€).
+In Berlin, you must earn **enough to pay for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME}}€ per month**.[^49] For example, if your rent is 800€ per month, and your health insurance 400€ per month, you must earn at least 1,649€ per month (800€ + 400€ + {{FREELANCE_VISA_MIN_INCOME}}€).
 
 ### Can I get a permanent residence with a freelance visa?
 
-**Yes.** You can apply for a permanent settlement permit after 3 years[^48]. You can find more information [here](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/).
+**Yes.** You can apply for a permanent settlement permit after 3 years[^48]. - [More information](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/).
 
 ## Where to get help
 
@@ -444,3 +446,5 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^46]: [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://20160624092357/2013/08/08/how-to-get-a-freelance-visa-in-germany/)
 [^47]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^48]: [berlin.de](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/)
+[^49]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^50]: [VAB, section 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
