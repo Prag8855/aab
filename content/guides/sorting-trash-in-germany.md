@@ -23,7 +23,7 @@ You find these bins in your apartment building:
     For biodegradable goods. It's used to make [biogas](https://en.wikipedia.org/wiki/Biogas) and compost[^1]. Don't use plastic or biodegradable bags, only paper bags[^2].
 - ⚫ **Grey bin** (*Restmüll*)  
     Things that you can't sell, donate or recycle.
-- ♻️ [**Glass recycling bins** (*Glasiglus*)](/glossary/Altglascontainer)  
+- ♻️ **[Glass recycling bins](/glossary/Altglascontainer)** (*Glasiglus*)
     For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers[^3]. If your building does not have glass recycling bins, [find them in your neighbourhood](https://www.berlin-recycling.de/service/standorte-glasiglus). There are 3 bin types:
     - 🟤 The *Braunglas* bin for brown glass
     - 🟢 The *Grunglas* bin for green, red and blue glass[^4]
@@ -117,16 +117,16 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 
 ### Phones, computers and electronics
 
-Electronics stores (bigger than 400 m^2^) must recycle your electronics.[^22]
+Electronics stores (bigger than 400 m^2^) must recycle your electronics.[^22] You don't have to buy something there.
 
-Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, even if they are a different kind[^22]. This includes hardware stores, supermarkets and drugstores like Rossman and dm. Some supermarkets don't know this, or don't tell you how to do it[^21].
+Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, even if they are a different kind[^22]. You don't have to buy something there. This includes hardware stores, supermarkets and drugstores like Rossman and dm. Some supermarkets don't know this, or don't tell you how to do it[^21].
+
+Recycling centres accept all electronics and appliances.
 
 - 🎁 **Sell or donate**  
     If they are still good, [sell or donate them](/guides/how-do-i-buy-and-sell-used-things-in-berlin). You can also bring them to a repair café.
-- **Electronics ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) and [supermarkets](/guides/where-to-buy-what#groceries)**  
-- **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) and [supermarkets](/guides/where-to-buy-what#groceries)**
-
-**[Where to recycle electronics in Berlin](https://www.remap-berlin.de/karte?c=Elektro&s=1)** - ReMap
+- **Electronics ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), [supermarkets](/guides/where-to-buy-what#groceries), [recycling centres](https://www.remap-berlin.de/karte?c=Elektro&s=1)**  
+- **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), [supermarkets](/guides/where-to-buy-what#groceries), [recycling centres](https://www.remap-berlin.de/karte?c=Elektro&s=1)**
 
 ### Batteries
 
@@ -137,6 +137,10 @@ Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, 
     They have a 7.50€ *[[Pfand]]*[^17]. [A.T.U](https://www.atu.de/filialen/) accepts car batteries.
 
 ![Battery recycling bin at Lidl](/images/lidl-battery-recycling-akku-entsorgung.jpg "A battery recycling bin in a Lidl supermarket")
+
+### Printer cartridges and toner
+
+Cartridges and toners do not go in the yellow bin. Recycle them [where you recycle small electronics](#phones-computers-and-electronics).
 
 ### Light bulbs
 
