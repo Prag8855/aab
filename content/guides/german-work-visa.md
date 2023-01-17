@@ -309,7 +309,7 @@ You must go to the embassy or consulate again. They will give you a temporary vi
 
 ### Step 5: Come to Germany
 
-After you get your visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).**[  ](/guides/moving-to-berlin)**
+After you get your visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
 You can start working as soon as you arrive in Germany. You will need to [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany), [get health insurance](/guides/german-health-insurance) and a few other things. You can find an apartment, open a bank account and get health insurance before you arrive in Germany. It will save you some time.
 

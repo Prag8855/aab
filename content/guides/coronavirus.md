@@ -41,14 +41,14 @@ There might be more restrictions for entering Germany.
 
 If you have coronavirus symptoms, or questions about getting tested, call one of the coronavirus hotlines.
 
-- **[Coronavirus hotline for all of Berlin](https://www.berlin.de/corona/en/hotline/)**[  
-    030 / 9028 2828](tel:+493090282828)  
+- **[Coronavirus hotline for all of Berlin](https://www.berlin.de/corona/en/hotline/)**  
+    *[030 / 9028 2828](tel:+493090282828)*  
     The phone menu is in German, but they speak English[^1]. They can only give you information. They can't give you a test or vaccine appointment.
-- **Vaccine hotline for all of Berlin**[  
-    030 / 9028 2200](tel:+493090282200)
-- **[Medical call service](https://www.116117.de/)** (*ärztliche Bereitschaftsdienst*)[  
-    116 117](tel:+49116117), or [+49 116 117](tel:+49116117)  
-    They can answer your questions, and help you get tested[^2]. They also have a [coronavirus test appointment service](https://eterminservice.de/terminservice) on their website. The phone menu is in German.s
+- **Vaccine hotline for all of Berlin**  
+    *[030 / 9028 2200](tel:+493090282200)*  
+- **[Medical call service](https://www.116117.de/)** (*ärztliche Bereitschaftsdienst*)  
+    *[116 117](tel:+49116117), or [+49 116 117](tel:+49116117)*  
+    They can answer your questions, and help you get tested[^2]. They also have a [coronavirus test appointment service](https://eterminservice.de/terminservice) on their website. The phone menu is in German.
 - **Emergency services**  
     If you have serious symptoms, and you need medical help, call the emergency number: [112](tel:112).
 

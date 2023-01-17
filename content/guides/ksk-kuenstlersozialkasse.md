@@ -24,7 +24,8 @@ When you are a KSK member, they pay half of your [health insurance](/glossary/ge
 
 - **They pay half of your health insurance**  
     Normally, freelancers pay [{{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ to {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You keep the same coverage.
-- **They pay half of your public pension insurance**[  ](/glossary/gesetzliche%20Krankenversicherung)[Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required, but the KSK pays half of it. You get a public pension for half the price.
+- **They pay half of your public pension insurance**  
+    [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required, but the KSK pays half of it. You get a public pension for half the price.
 - **It lets you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Some freelancers are stuck with [private health insurance](/glossary/private%20Krankenversicherung), or bad [expat health insurance](/glossary/Expat%20health%20insurance). When you join the KSK, you can switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's often the best option for you.
 - **It helps you get [permanent residency](/glossary/Niederlassungserlaubnis)**  
@@ -236,7 +237,7 @@ Download [the application form](/out/ksk-application-form) and fill it. This tak
 
 The application form is in German. The instructions are at the end of the form. [These English instructions](https://www.settle-in-berlin.com/wp-content/uploads/2021/01/ZineFGRG_KSK_Desktop.pdf) can help.
 
-**[KSK application form ➞](/out/ksk-application-form)[  ](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Allg._Infos_u._Anmeldeunterlagen/Ausfuellhinweise.pdf)**
+**[KSK application form ➞](/out/ksk-application-form)
 
 [**Form instructions**](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Allg._Infos_u._Anmeldeunterlagen/Ausfuellhinweise.pdf) (in German)
 

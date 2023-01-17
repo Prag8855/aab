@@ -65,7 +65,7 @@ This was a unique feature in 2016, but now most banks have it. [Kontist](/out/ko
 
 Some banks require a registration certificate ([*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung)) to open an account. You get a registration certificate when you [register your address](/guides/anmeldung-in-english-berlin). N26 does not require this document. If you just moved to Germany, and you don't have an apartment yet, you can still open an N26 account.
 
-For some passports, N26 also requires a [residence permit](/glossary/Aufenthaltstitel). If this is a problem for you, there are other options.**[  ](/guides/german-banks-no-address)**
+For some passports, N26 also requires a [residence permit](/glossary/Aufenthaltstitel). If this is a problem for you, there are other options.**
 
 **[German banks that don't require an Anmeldung ➞](/guides/german-banks-no-address)**
 
@@ -85,7 +85,7 @@ N26 is fine, but you should still look at [the other options](/guides/first-bank
 
 If I had to choose another bank, I would choose [ING](/out/ing) or [DKB](/out/dkb). If I didn't speak German, I would choose [bunq](/out/bunq).
 
-**[Comparison of German banks ➞](/guides/first-bank-account-in-germany)[  ](/guides/first-bank-account-in-germany)**
+**[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
 
 ## What do I dislike about N26?
 

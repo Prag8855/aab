@@ -34,7 +34,7 @@ There are 3 ways to buy weed in Berlin: on Telegram, from street dealers or thro
 In Berlin, two parks have the most drug dealers:
 
 - **[Görlitzer park](https://g.page/Goerli?share)** in Kreuzberg  
-    A big central park in Berlin. It's famous for drug trafficking[^0]. The drug dealers are everywhere. They are hard to miss[^1]. It's safe to spend time in the park, at least during the day. Parents go there with their children. The police often targets this park[^2].**[  ](https://goo.gl/maps/Mq2BLcn7TEYogDAE7)**
+    A big central park in Berlin. It's famous for drug trafficking[^0]. The drug dealers are everywhere. They are hard to miss[^1]. It's safe to spend time in the park, at least during the day. Parents go there with their children. The police often targets this park[^2].
 - **[Hasenheide park](https://goo.gl/maps/Mq2BLcn7TEYogDAE7)** in Neukölln  
     A bigger park with fewer drug dealers. It's a better, safer park with an open air cinema and a petting zoo. The drug dealers are hard to miss[^3].
 

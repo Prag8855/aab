@@ -188,7 +188,7 @@ If you are a freelance artist, publicist or art teacher, you can apply for the *
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)[  ](/guides/questions-about-berlin#business-questions)**
+**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 

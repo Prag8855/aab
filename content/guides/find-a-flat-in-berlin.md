@@ -171,14 +171,14 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 - **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)** - Search all state-owned apartments
 - [Adler Group](https://www.adler-group.com/suche/wohnung)
-- [Akelius](https://rent.akelius.com/en/search/germany/apartment/berlin) - Big housing company with a bad reputation[^9][  ](https://charlotte1907.de/wohnungsangebote/woechentliche-angebote)
-- [Charlottenburger Baugenossenschaft](https://charlotte1907.de/wohnungsangebote/woechentliche-angebote) - Housing cooperative[  ](https://immosuche.degewo.de/de/search)
-- [Degewo](https://immosuche.degewo.de/de/search) - State-owned company[  ](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten)
-- [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Big housing company[  ](https://www.dpfonline.de/interessenten/immobilien/)
+- [Akelius](https://rent.akelius.com/en/search/germany/apartment/berlin) - Big housing company with a bad reputation[^9]
+- [Charlottenburger Baugenossenschaft](https://charlotte1907.de/wohnungsangebote/woechentliche-angebote) - Housing cooperative
+- [Degewo](https://immosuche.degewo.de/de/search) - State-owned company
+- [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Big housing company
 - [DPF](https://www.dpfonline.de/interessenten/immobilien/)
 - [Fortuna](https://www.fortuna-eg.de/wohnungsangebote/mietwohnungen-in-berlin/)
-- [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html) - State-owned company[  ](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/)
-- [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned company[  ](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html)
+- [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html) - State-owned company
+- [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned company
 - [Howoge](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html) - State-owned company
 - [Stadt und Land](https://www.stadtundland.de/Wohnungssuche/Wohnungssuche.php) - State-owned company
 - [Vonovia](https://www.vonovia.de/en)
@@ -264,8 +264,8 @@ Most people can't choose where they live. They take what they find[^11]. You sho
 
 - **Public transportation**  
     Berlin has good public transportation. You can live far from the centre if you live close to a train or tram station. Use [Mapnificient](https://www.mapnificent.net/berlin/) to see how far you are from work.
-- **Parking**[  
-    You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car-in-berlin). If you want a car, check if there is enough parking space nearby. In central neighbourhoods, parking spaces are harder to find, and you need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have a basement garage. Basement parking costs around 120€ per month. Single garages are harder to find. You can [park your motorcycle on the sidewalk](/guides/motorcycle-parking).
+- **Parking**  
+    [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car-in-berlin). If you want a car, check if there is enough parking space nearby. In central neighbourhoods, parking spaces are harder to find, and you need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have a basement garage. Basement parking costs around 120€ per month. Single garages are harder to find. You can [park your motorcycle on the sidewalk](/guides/motorcycle-parking).
 - **Parks and nature**  
     Berlin is one of the greenest cities in Europe[^18]. There are many parks and green spaces, even in the centre. To be closer to nature, live near [[Brandenburg]] or [Grunewald](https://goo.gl/maps/7bo9CKBKtQ8ysHB46).
 

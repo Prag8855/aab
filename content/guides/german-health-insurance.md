@@ -120,7 +120,7 @@ A health insurance broker can help you choose health insurance. Their help is fr
 - [My review of Techniker Krankenkasse](/guides/techniker-krankenkasse-review)
 - [Sign up with Techniker Krankenkasse](/out/signup-tk)
 - [Sign up with AOK](/out/popsure-aok)
-- [Sign up with DAK](/out/dak)[  ](/out/barmer)
+- [Sign up with DAK](/out/dak)
 - [Sign up with Barmer](/out/barmer)
 
 ## Private health insurance

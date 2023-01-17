@@ -254,7 +254,7 @@ You must go to the embassy or consulate again. They will give you a temporary vi
 
 ### Step 5: Come to Germany
 
-After you get your visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).[  ](/guides/moving-to-berlin)
+After you get your visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
 You can start working as soon as you arrive in Germany. You will need to [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany) and a few other things. You can find an apartment, open a bank account and get health insurance before you arrive in Germany. It will save you some time.
 
@@ -331,17 +331,15 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     *[Detailed guide 1](http://www.existenzgruender.de/EN/Die-ersten-Schritte/Gruendung-planen/inhalt.html) - [detailed guide 2](https://www.make-it-in-germany.com/en/for-qualified-professionals/working/setting-up-a-business-in-germany/business-plan-startup-guideline)*  
     In order to get a German freelance visa, you must prove that there is an economic interest or a regional need for your services. In your business plan, you must highlight how you plan to find work and grow your business[^46]. This document is a summary of the company profile, capital requirement plan, business concept and financing plan. You can write your business plan in English or in German.
     - **Company profile** (not required for *[[Freiberufler]]*)  
-        [*Template*](/images/firmenprofil.pdf)  
+        *[Template](/images/firmenprofil.pdf)*  
         This document gives all the important information about your company: official proof of its existence, names of managing directors, total equity, annual turnover, official business address in your city, official function etc[^39]. The company profile can be in English or in German[^40].
-    
-    
     - **Capital requirement plan** (not required for *[[Freiberufler]]*)  
         This document details all the expenses you plan for starting your business: equipment purchases, real estate, licensing fees, vehicle fleet etc.
-    
-    
-    - **Business concept** (not required for *[[Freiberufler]]*)[  ](http://www.berlin.de/labo/_assets/zuwanderung/geschaeftskonzept.pdf)*[Template](http://www.berlin.de/labo/_assets/zuwanderung/geschaeftskonzept.pdf)*  
+    - **Business concept** (not required for *[[Freiberufler]]*)  
+        *[Template](http://www.berlin.de/labo/_assets/zuwanderung/geschaeftskonzept.pdf)*  
         This document contains the industry, the target customers, marketing and sales strategy and the market forecasts of your company.
-- **Financing plan / Capital budget** *(Finanzierungsplan) [Template](/docs/financing-plan-template) -* [*detailed guide*](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/)  
+- **Financing plan / Capital budget** *(Finanzierungsplan)  
+    *[Template](/docs/financing-plan-template) - [detailed guide](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/)*  
     This document details how you plan to finance your business. In this document, you must list your liquid funds, tangible assets, loans, venture capital etc.[^39]
 - **2 or more [letters of intent](/glossary/Absichtserkl%C3%A4rung) or contracts** (*[[Absichtserklärung]]*)  
     *[Template](/docs/german-freelance-visa-letter-of-intent) - [example](/docs/letter-of-intent-example-german-freelance-visa) - [detailed guide](/guides/freelance-visa-letter-of-intent)*  

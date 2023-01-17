@@ -5,7 +5,7 @@ Date_created: 2021-02-01
 Date_updated: 2022-12-08
 ---
 
-This is how much it costs to live in Berlin, and elsewhere in Germany. This guide helps you make a budget before you [move to Germany](/guides/moving-to-berlin), and save money every month.[  ](/guides/cost-of-living#example-budget)
+This is how much it costs to live in Berlin, and elsewhere in Germany. This guide helps you make a budget before you [move to Germany](/guides/moving-to-berlin), and save money every month.
 
 ![Cost of living berlin germany](/illustrations/cost-of-living-berlin-germany.png)
 

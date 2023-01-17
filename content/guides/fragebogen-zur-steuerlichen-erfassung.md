@@ -601,7 +601,7 @@ If you are [starting a business in Germany](/guides/start-a-business-in-germany)
 
 You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-tell-your-health-insurance-company) that you are self-employed. When you are self-employed, you pay for health insurance with automatic bank transfers. The cost of public health insurance will be based on your *estimated* income. You can also [switch to private health insurance](/guides/german-health-insurance). This is not a simple decision, but in some cases, private health insurance is a lot cheaper for freelancers. I save over 400€ per month this way. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it.
 
-**Related guides:** [  ](/guides/start-a-business-in-germany)
+**Related guides:**
 
 - [How to start a business in Germany](/guides/start-a-business-in-germany)
 - [How to choose health insurance](/guides/german-health-insurance)

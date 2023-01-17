@@ -70,7 +70,7 @@ When you move, you must also [report your address change](https://service.berlin
 
 ### How to deregister your dog
 
-If you leave Berlin, you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *[[Ordnungsamt]]*.**[  ](https://service.berlin.de/dienstleistung/326263/)**
+If you leave Berlin, you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *[[Ordnungsamt]]*.
 
 ## What's next?
 
