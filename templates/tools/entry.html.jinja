@@ -20,7 +20,7 @@
     <h1>{{ entry.title }}</h1>
     <div class="post-meta">
         <span class="post-date">
-            Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%d %B, %Y') }}</time>
+            Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
         </span>
         <span class="post-author">{% if reviews|length %}By {% else %}Built by {% endif %}<a rel="nofollow" href="https://allaboutberlin.com/contact">Nicolas Bouliane</a></span>{% if reviews|length > 0 %}.{% endif %}
         {% if reviews|length == 1 %}
@@ -42,7 +42,7 @@
                             <p>
                                 <strong>Tested by {{ reviewer.title }}</strong>
                                  on 
-                                <time content="{{ review.reviewDate.strftime('%F') }}" datetime="{{ review.reviewDate.strftime('%F') }}">{{ review.reviewDate.strftime('%d %B, %Y') }}</time>
+                                <time content="{{ review.reviewDate.strftime('%F') }}" datetime="{{ review.reviewDate.strftime('%F') }}">{{ review.reviewDate.strftime('%B %-d, %Y') }}</time>
                             </p>
                             {{ reviewer.body }}
                         </div>

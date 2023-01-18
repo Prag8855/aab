@@ -19,7 +19,7 @@
         {% else %}
             {% set dateToUse = entry.date_created %}
         {% endif %}
-        <time class="post-date" content="{{ dateToUse.strftime('%F') }}" datetime="{{ dateToUse.strftime('%F') }}">{{ dateToUse.strftime('%d %B, %Y') }}</time>
+        <time class="post-date" content="{{ dateToUse.strftime('%F') }}" datetime="{{ dateToUse.strftime('%F') }}">{{ dateToUse.strftime('%B %-d, %Y') }}</time>
     {% endif %}
     <p>{{ entry.description }}</p>
     <script type="application/ld+json">{% include "guides/_jsonld.json" %}</script>

@@ -18,7 +18,7 @@
 	<h1>{{ entry.title }}</h1>
 	<div class="post-meta">
 		<div class="post-date">
-			Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%d %B, %Y') }}</time>
+			Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
 		</div>
 		<nav class="breadcrumb no-mobile hide-last">
 			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
