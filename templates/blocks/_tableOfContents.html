@@ -4,7 +4,19 @@
 		{% if showScrollToTop|default %}
 			<li class="top-of-page no-desktop"><a href="#" title="Scroll to top of page">Top of page</a></li>
 		{% endif %}
-		<li>TODO: Table of contents</li>
+		{% for heading in entry.table_of_contents %}
+		    <li class="collapsed">
+		    	<a href="#{{ heading.id }}">{{ heading.name }}</a>
+		    	{% if heading.children %}
+	    	        <a href="#" aria-label="Expand sublist" class="expand"></a>
+	    	        <ol>
+		    	    	{% for child in heading.children %}
+							<li><a href="#{{ child.id }}">{{ child.name }}</a></li>
+		    	    	{% endfor %}
+		    	    </ol>
+		    	{% endif %}
+		    </li>
+		{% endfor %}
 		{% if showSupportLink|default %}
 			<li class="donate"><a href="#support" title="Donate to All About Berlin">Support the author</a></li>
 		{% endif %}
