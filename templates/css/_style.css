@@ -305,6 +305,8 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 		.table-of-contents ol li{margin-top:var(--spacing-list-item);margin-bottom:var(--spacing-list-item);color:var(--color-text-light);padding-left:var(--spacing-m);list-style-type:'–';margin-left:9px;}
 		.table-of-contents > ol > li:last-child{margin-bottom: 0}
 
+.footnote-ref{margin-left:2px}
+	.footnote-ref:not(:hover){color:var(--color-text-light)}
 .footnote{font-size:var(--font-size-s);line-height:var(--line-height-compact);}
 	.footnote p:first-child{margin-top:0}
 	.footnote p:last-child{margin-bottom:0}
