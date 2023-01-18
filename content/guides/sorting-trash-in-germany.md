@@ -158,8 +158,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 - **Appliances ➞ [appliance collector](http://waschmaschinen-entsorgung-berlin.de/), [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement), or recycling centre**  
     Stores that sell appliances must also recycle them for free. When you buy an appliance, they often take back your old appliance. You can also contact [Wachmachinen Entsorgung Berlin](http://waschmaschinen-entsorgung-berlin.de/).
 - **Big items ➞ recycling centre**  
-    This includes furniture, appliance and mattresses.
-    - In Berlin, [BSR can pick up big items](https://www.bsr.de/sperrmuell-21705.php) (for a fee)
+    This includes furniture, appliance and mattresses. In Berlin, [BSR can pick up big items](https://www.bsr.de/sperrmuell-21705.php) (for a fee)
 
 ## Trees, soil and grass
 
