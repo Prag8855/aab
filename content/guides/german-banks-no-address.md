@@ -53,7 +53,7 @@ If you are an immigrant, it can be hard to open a bank account in Germany:
 
 [^0]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
 [^1]: [ing.de](https://www.ing.de/suche?query=ausweis)
-[^2]: [twitter.com](https://twitter.com/baykara__/status/1425397608978210819), [twitter.com](https://twitter.com/baykara__/status/1425369761504968706)
+[^2]: [Twitter](https://twitter.com/baykara__/status/1425397608978210819), [Twitter](https://twitter.com/baykara__/status/1425369761504968706)
 [^3]: [wise.com](https://wise.com/help/articles/2932693/how-is-wise-regulated-in-each-country)
 [^4]: [Screenshot](/images/Berliner-Sparkasse-no-Anmeldung-2022-03-21.png), [Screenshot](/images/Berliner-Sparkasse-no-Anmeldung-2022-03-21-b.png)
 [^5]: [Screenshot](/images/comdirect-meldebescheinigung-2022-12-07.jpg)
