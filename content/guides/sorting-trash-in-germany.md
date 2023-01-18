@@ -2,7 +2,7 @@
 Title: How to sort trash and recycle in Germany
 Description: This guide shows you how to sort your rubbish and recycle properly in Germany.
 Date_created: 2017-09-08
-Date_updated: 2023-01-12
+Date_updated: 2023-01-18
 ---
 
 Germans take recycling seriously. It's hard to sort your trash correctly. This guide will help.
@@ -32,11 +32,11 @@ You find these bins in your apartment building:
 ### Other types of recycling bins
 
 - **Bottle return machines** (*[[Pfandautomat]]*)  
-    For [containers with a deposit](/guides/pfand-bottles) (*[[Pfand]]*). They are in most supermarkets, usually near the door.
+    For [containers with a deposit](/guides/pfand-bottles) (*[[Pfand]]*). These machines are in most supermarkets, usually near the door.
 - **Battery recycling bins**  
     For used batteries. These bins are in most [supermarkets](/guides/where-to-buy-what#groceries), [electronics stores](/guides/where-to-buy-what#electronics) and [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), usually near the door. Rossmann and dm also recycle batteries.
 - **Electronics recycling bins**  
-    For used electronics. These are in [electronics stores](/guides/where-to-buy-what#electronics)[^5], [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) and some [supermarkets](/guides/where-to-buy-what#groceries)[^21]. Sometimes you put your electronics in a bin, and sometimes you give them at the service counter.
+    For used electronics and objects with the [[WEEE logo]]. These bins are in electronics stores, hardware stores, and some supermarkets. - [More information](#electronics)
 
 ### Recycling centres
 
@@ -119,7 +119,9 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 
 Electronics stores (bigger than 400 m^2^) must recycle your electronics.[^22] You don't have to buy something there.
 
-Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, even if they are a different kind[^22]. You don't have to buy something there. This includes hardware stores, supermarkets and drugstores like Rossman and dm. Some supermarkets don't know this, or don't tell you how to do it[^21].
+Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, even if they are a different kind[^22]. You don't have to buy something there. This includes hardware stores[^5], supermarkets and drugstores.
+
+In reality, most supermarkets don't recycle electronics, even if they are required to[^21].
 
 Recycling centres accept all electronics and appliances.
 
@@ -207,5 +209,5 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 [^18]: [berlin-recycling.de](https://www.berlin-recycling.de/entsorgung/weitere-entsorgungen/auto/altoel-entsorgen)
 [^19]: [berlin-recycling.de](https://www.berlin-recycling.de/wissen/muelltrennung/was-gehoert-in-welche-tonne/restmuell)
 [^20]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/arzneimittelentsorgung-und-aufbewahrung.html)
-[^21]: [Öko-Test](https://www.oekotest.de/freizeit-technik/Kaum-genutzt-Rueckgabe-alter-Elektrogeraete-im-Supermarkt-floppt-_13417_1.html), [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/elektrogeraete-supermarkt-rueckgabe-wenig-nutzung-101.html), [SR 3](https://www.sr.de/sr/sr3/themen/panorama/elektro_schrott_supermarkt_abgeben_100.html)
+[^21]: [Deutsche Umwelthilfe](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/ruecknahmepflicht-von-elektroschrott-praxistests-belegen-zahlreiche-verstoesse-deutsche-umwelthilfe/), [Twitter](https://twitter.com/tagesschau/status/1602966772965056512)
 [^22]: [§17 ElektroG](https://www.gesetze-im-internet.de/elektrog_2015/__17.html), [chip.de](https://www.chip.de/news/Discounter-und-Supermaerkte-druecken-sich-So-geht-uns-tonnenweise-Gold-verloren_184583059.html)
