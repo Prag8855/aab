@@ -16,7 +16,7 @@ If you already did your *[[Anmeldung]]*, you don't need this form. You can wait 
 
 **[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id)**
 
-**[Download the form ↓](/docs/anmeldung#download-buttons)**
+**[Download the form ↓](#download-buttons)**
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -30,7 +30,7 @@ People who need a tax ID, but can't [register their address](/glossary/Anmeldung
 
 ## How to fill this form
 
-Use the translation [below](/docs/anmeldung#download-buttons).
+Use the translation [below](#download-buttons).
 
 In the last section, you can choose to send your tax ID to yourself, or directly to your employer.
 

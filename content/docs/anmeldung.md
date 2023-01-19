@@ -14,7 +14,7 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
 
 **[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
-**[Download the form ↓](/docs/anmeldung#download-buttons)**
+**[Download the form ↓](#download-buttons)**
 
 ## How to fill this form
 
