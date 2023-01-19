@@ -22,14 +22,45 @@ config = {
                 'templates_path': Path(__file__).parent / 'templates',
                 'output_path': Path(__file__).parent / 'output',
 
-                'output_image_sizes': {
-                    '': (1600, 2400),
-                    'content1.5x': (1200, 1800),
-                    'content1x': (800, 1200),
-                    'content0.75x': (600, 900),
-                    'content0.5x': (400, 600),
-                    'bio2x': (150, 150),
-                    'bio1x': (75, 75),
+                'image_sizes': {
+                    '': {
+                        'exclude': '*.pdf',
+                        'max_size': (1600, 2400),
+                    },
+                    'content1.5x': {
+                        'exclude': '*.pdf',
+                        'max_size': (1200, 1800),
+                    },
+                    'content1x': {
+                        'exclude': '*.pdf',
+                        'max_size': (800, 1200),
+                    },
+                    'content0.75x': {
+                        'exclude': '*.pdf',
+                        'max_size': (600, 900),
+                    },
+                    'content0.5x': {
+                        'exclude': '*.pdf',
+                        'max_size': (400, 600),
+                    },
+                    'bio2x': {
+                        'exclude': '*.pdf',
+                        'max_size': (150, 150),
+                    },
+                    'bio1x': {
+                        'exclude': '*.pdf',
+                        'max_size': (75, 75),
+                    },
+                    'previews': {
+                        'include': 'documents/*.pdf',
+                        'max_size': (300, 500),
+                        'output_types': ('.webp', '.png'),
+                    },
+                    'previews2x': {
+                        'include': 'documents/*.pdf',
+                        'max_size': (600, 1000),
+                        'output_types': ('.webp', '.png'),
+                    },
                 },
 
                 'site_url': 'https://localhost',
