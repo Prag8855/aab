@@ -44,23 +44,23 @@ config = {
 
                 'image_transforms': {
                     '': {
-                        'max_size': (content_width * 2, content_width * 2 * 1.5),
+                        'max_size': (int(content_width * 2), int(content_width * 2 * 1.5)),
                     },
                     'content1.5x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (content_width * 1.5, content_width * 1.5 * 1.5),
+                        'max_size': (int(content_width * 1.5), int(content_width * 1.5 * 1.5)),
                     },
                     'content1x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (content_width, content_width * 1.5),
+                        'max_size': (content_width, int(content_width * 1.5)),
                     },
                     'content0.75x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (content_width * 0.75, content_width * 0.75 * 1.5),
+                        'max_size': (int(content_width * 0.75), int(content_width * 0.75 * 1.5)),
                     },
                     'content0.5x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (content_width * 0.5, content_width * 0.5 * 1.5),
+                        'max_size': (int(content_width * 0.5), int(content_width * 0.5 * 1.5)),
                     },
                     'bio2x': {
                         'exclude': ('*.pdf', '*.svg'),
