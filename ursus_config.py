@@ -2,6 +2,19 @@ from pathlib import Path
 from datetime import datetime
 
 
+def to_number(value):
+    return "{:,}".format(value) if value else ''
+
+
+def to_currency(value):
+    return "{:0,.2f}".format(value).replace('.00', '') if value else ''
+
+
+content_width = 800
+
+minimum_wage = 12
+
+
 config = {
     'generators': [
         (
@@ -16,50 +29,49 @@ config = {
                 'renderers': [
                     'ursus.renderers.jinja.JinjaRenderer',
                     'ursus.renderers.static.StaticAssetRenderer',
-                    'ursus.renderers.image.ImageRenderer',
+                    'ursus.renderers.image.ImageTransformRenderer',
                 ],
                 'content_path': Path(__file__).parent / 'content',
                 'templates_path': Path(__file__).parent / 'templates',
                 'output_path': Path(__file__).parent / 'output',
 
-                'image_sizes': {
+                'image_transforms': {
                     '': {
-                        'exclude': '*.pdf',
-                        'max_size': (1600, 2400),
+                        'max_size': (content_width * 2, content_width * 2 * 1.5),
                     },
                     'content1.5x': {
-                        'exclude': '*.pdf',
-                        'max_size': (1200, 1800),
+                        'exclude': ('*.pdf', '*.svg'),
+                        'max_size': (content_width * 1.5, content_width * 1.5 * 1.5),
                     },
                     'content1x': {
-                        'exclude': '*.pdf',
-                        'max_size': (800, 1200),
+                        'exclude': ('*.pdf', '*.svg'),
+                        'max_size': (content_width, content_width * 1.5),
                     },
                     'content0.75x': {
-                        'exclude': '*.pdf',
-                        'max_size': (600, 900),
+                        'exclude': ('*.pdf', '*.svg'),
+                        'max_size': (content_width * 0.75, content_width * 0.75 * 1.5),
                     },
                     'content0.5x': {
-                        'exclude': '*.pdf',
-                        'max_size': (400, 600),
+                        'exclude': ('*.pdf', '*.svg'),
+                        'max_size': (content_width * 0.5, content_width * 0.5 * 1.5),
                     },
                     'bio2x': {
-                        'exclude': '*.pdf',
+                        'exclude': ('*.pdf', '*.svg'),
                         'max_size': (150, 150),
                     },
                     'bio1x': {
-                        'exclude': '*.pdf',
+                        'exclude': ('*.pdf', '*.svg'),
                         'max_size': (75, 75),
                     },
                     'previews': {
                         'include': 'documents/*.pdf',
                         'max_size': (300, 500),
-                        'output_types': ('.webp', '.png'),
+                        'output_types': ('webp', 'png'),
                     },
                     'previews2x': {
                         'include': 'documents/*.pdf',
                         'max_size': (600, 1000),
-                        'output_types': ('.webp', '.png'),
+                        'output_types': ('webp', 'png'),
                     },
                 },
 
@@ -67,10 +79,10 @@ config = {
                 'wikilinks_base_url': '/glossary',
                 'html_url_extension': '',
                 'jinja_filters': {
-                    'number': lambda x: "{:,}".format(x) if x else '',
-                    'currency': lambda x: "{:0,.2f}".format(x).replace('.00', '') if x else '',
-                    'num': lambda x: "{:,}".format(x) if x else '',
-                    'cur': lambda x: "{:0,.2f}".format(x).replace('.00', '') if x else '',
+                    'number': to_number,
+                    'num': to_number,
+                    'currency': to_currency,
+                    'cur': to_currency,
                 }
             }
         ),
@@ -171,13 +183,13 @@ config = {
         # ==============================================================================
 
         # German minimum wage (€/h)
-        "MINIMUM_WAGE": 12,
+        "MINIMUM_WAGE": minimum_wage,
 
         # Minimum allowance for au pairs (€/mth)
         "AU_PAIR_MIN_ALLOWANCE": 280,
 
-        # Below this income (€/mth), you have a minijob - MINIMUM_WAGE * 130 / 3, rounded - § 8 SGB IV
-        "MINIJOB_MAX_INCOME": 520,
+        # Below this income (€/mth), you have a minijob - § 8 SGB IV
+        "MINIJOB_MAX_INCOME": round(minimum_wage * 130 / 3),
 
         # Below this income (€/mth), you have a midijob - §20 SGB IV
         "MIDIJOB_MAX_INCOME": 2000,
