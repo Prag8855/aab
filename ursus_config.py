@@ -1,5 +1,12 @@
 from pathlib import Path
 from datetime import datetime
+import logging
+
+logging.addLevelName(logging.DEBUG, '⚪')
+logging.addLevelName(logging.INFO, '🟢')
+logging.addLevelName(logging.WARNING, '⚠️')
+logging.addLevelName(logging.ERROR, '❎')
+logging.addLevelName(logging.CRITICAL, '🆘')
 
 
 def to_number(value):
@@ -87,6 +94,11 @@ config = {
             }
         ),
     ],
+    'logging': {
+        'datefmt': '%H:%M:%S',
+        'fmt': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
+        'level': logging.INFO,
+    },
     'globals': {
         'now': datetime.now(),
 
