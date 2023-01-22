@@ -28,7 +28,7 @@ There are 3 ways to register your business with the *[[Finanzamt]]*:
 - **With a [tax advisor](/guides/english-speaking-steuerberater-berlin)**  
     Your tax advisor (*[[Steuerberater]]*) can register your business for you. [My tax advisor](https://stb-goeydeniz.de/english-tax-advisor-berlin/) did it in 5 minutes. This is the safest and easiest way, but it's hard to find a tax advisor. Use my [list of English-speaking tax advisors](/guides/english-speaking-steuerberater-berlin).
 
-[![](/images/sorted-fragebogen-steuerlichen-erfassung-english.png "[Sorted](/out/sorted-fragebogen)'s form is easier to fill than the official form. It's 100% in English.")](/out/sorted-fragebogen)
+[![](/images/sorted-fragebogen-steuerlichen-erfassung-english.png "Sorted's form is easier to fill than the official form. It's 100% in English.")](/out/sorted-fragebogen)
 
 ## Before you start
 

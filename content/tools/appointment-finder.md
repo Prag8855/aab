@@ -19,7 +19,7 @@ In Berlin, most government services require an appointment. If you want to [regi
 
 **Bürgeramt appointments are hard to find**. Most of the time, there are no appointments[^0]. You must refresh the page again and again until you find one. Since most appointments are added during business hours[^1], many Berliners must do this during work.
 
-![Berlin.de showing no available appointments](/images/berlin-buergeramt-termin-kalender-b.png "No appointments available. *Typisch Berlin.*")
+![Berlin.de showing no available appointments](/images/berlin-buergeramt-termin-kalender-b.png "No appointments available. Typisch Berlin.")
 
 Most of the time, **the only appointments are in 6-8 weeks**[^2]. Recent immigrants can't wait this long to register their address, because they need a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer) *right now*. If they can't wait, they can't be picky about location. They might need to go to a Bürgeramt across the city in the middle of a work day.
 
