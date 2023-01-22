@@ -1,6 +1,9 @@
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 import logging
+import secrets
+import string
+
 
 logging.addLevelName(logging.DEBUG, '⚪')
 logging.addLevelName(logging.INFO, '🟢')
@@ -15,6 +18,11 @@ def to_number(value):
 
 def to_currency(value):
     return "{:0,.2f}".format(value).replace('.00', '') if value else ''
+
+
+def random_id():
+    alphabet = string.ascii_letters + string.digits
+    return ''.join(secrets.choice(alphabet) for i in range(5))
 
 
 minimum_wage = 12
@@ -101,6 +109,7 @@ config = {
     'globals': {
         'now': datetime.now(),
         'site_url': site_url,
+        'random_id': random_id,
 
         # ==============================================================================
         # HEALTH INSURANCE

@@ -1,3 +1,4 @@
+{% set id = random_id() %}
 <aside class="pension-refund-calculator collapsible {% if static|default %}static{% else %}collapsed{% endif %}" aria-label="Pension refund calculator" ref="collapsible">
 {% if not static|default %}
     <div class="header" @click="isCollapsed=false">
