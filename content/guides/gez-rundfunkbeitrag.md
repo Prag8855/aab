@@ -17,7 +17,7 @@ The TV tax is collected by the *[ARD ZDF Deutschlandradio Beitragsservice](https
 
 ### How much is the TV tax?
 
-The German TV tax costs **{{RUNDFUNKBEITRAG_FEE}}€ per household per month**. Each *household* pays {{RUNDFUNKBEITRAG_FEE}}€/month. If you live with other people, only one person has to pay the TV tax.
+The German TV tax costs **{{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month**. Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax.
 
 ### Do I really have to pay it?
 
@@ -59,7 +59,7 @@ How to pay by bank transfer:
 
 ### If you live with other people
 
-Each *household* pays {{RUNDFUNKBEITRAG_FEE}}€/month. If you live with other people, only one person has to pay the TV tax<sup>[§3.1](https://bravors.brandenburg.de/vertraege/rbstv)</sup>. You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
+Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax<sup>[§3.1](https://bravors.brandenburg.de/vertraege/rbstv)</sup>. You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
 
 If you live in a student dorm (*Studenten­wohn­heim*), you must still pay the TV tax[^5].
 
