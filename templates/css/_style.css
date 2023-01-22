@@ -496,7 +496,7 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 	.health-insurance-options, .appointment-options {margin:var(--spacing-m) 0;display:grid;grid-gap:var(--spacing-m);grid-template-columns:1fr;}
 		.health-insurance-options > *{padding:var(--spacing-m);border:1px solid var(--color-border-input);border-radius:var(--border-radius);display:grid;grid-template-columns: 100px 1fr 180px;grid-gap:var(--spacing-l);align-items:center}
 		.health-insurance-options > *:last-child{margin:0}
-		.health-insurance-options > * img{background:transparent!important;margin:0 auto!important;object-fit:contain;height:75px;max-width:100px;object-position:center;justify-self:center}
+		.health-insurance-options > * img{border:none;background:transparent!important;margin:0 auto!important;object-fit:contain;height:75px;max-width:100px;object-position:center;justify-self:center}
 		.health-insurance-options > * svg{height:var(--size-image-category);margin:0 auto}
 		.health-insurance-options > * h3{margin:0 0 var(--spacing-s);padding:0;font-size:18px;line-height:25px;}
 		.health-insurance-options > * p{line-height:var(--line-height-compact);font-size:var(--font-size-s);margin:0}
