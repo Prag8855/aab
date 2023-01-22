@@ -5,9 +5,7 @@ Date_created: 2017-09-19
 Date_updated: 2022-10-03
 ---
 
-## Contact information
-
-**[Contact me ➞](/contact)**
+**[Contact the owner of this website ➞](/contact)**
 
 ## Content policy
 
