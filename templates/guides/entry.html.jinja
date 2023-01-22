@@ -52,7 +52,7 @@
 								 on 
 								<time content="{{ review.date_reviewed.strftime('%F') }}" datetime="{{ review.date_reviewed.strftime('%F') }}">{{ review.date_reviewed.strftime('%B %-d, %Y') }}</time>
 							</p>
-							{{ reviewer.body }}
+							{{ reviewer.body|render|safe }}
 						</div>
 					</li>
 				{% endfor %}
