@@ -1,7 +1,6 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
-{% set reviews = entry.related_reviews|default([]) %}
 {% set related_guides = entry.related_guides|default([]) %}
 
 {% block postHead %}
@@ -21,34 +20,7 @@
         <span class="post-date">
             Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
         </span>
-        <span class="post-author">{% if reviews|length %}By {% else %}Built by {% endif %}<a rel="nofollow" href="{{ site_url }}/contact">Nicolas Bouliane</a></span>{% if reviews|length > 0 %}.{% endif %}
-        {% if reviews|length == 1 %}
-            <span class="post-reviewers">Verified by <a class="reviewers-link" href="#reviewers">1 expert</a></span>
-        {% elif reviews|length > 1 %}
-            <span class="post-reviewers">Verified by <a class="reviewers-link" href="#reviewers">{{ reviews|length }} experts</a></span>
-        {% endif %}
-        {% if reviews %}
-            <ul class="hidden" id="reviewers">
-                {% for review in reviews %}
-                    {% set reviewer = review.reviewer.with('cover_image').one() %}
-                    <li class="expert">
-                        {% if reviewer.cover_image|length %}
-                            <img class="profile-picture" alt="{{ reviewer.title }}" loading="lazy" src="{{ reviewer.cover_image[0].getUrl('bio') }}" srcset="{{ reviewer.cover_image[0].getUrl('bio2x') }} 2x">
-                        {% else%}
-                            <div class="profile-picture no-picture"></div>
-                        {% endif %}
-                        <div>
-                            <p>
-                                <strong>Tested by {{ reviewer.title }}</strong>
-                                 on 
-                                <time content="{{ review.reviewDate.strftime('%F') }}" datetime="{{ review.reviewDate.strftime('%F') }}">{{ review.reviewDate.strftime('%B %-d, %Y') }}</time>
-                            </p>
-                            {{ reviewer.body }}
-                        </div>
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
+        <span class="post-author">Built by <a rel="nofollow" href="{{ site_url }}/contact">Nicolas Bouliane</a></span>
     </div>
     {% with entry=entry, showSupportLink=true %}
         {% include 'blocks/_mainContent.html' %}
@@ -123,25 +95,6 @@
                     "@type": "Person",
                     "@id": "https://nicolasbouliane.com"
                 },
-                "reviewedBy": [
-                    {% for review in entry.related_reviews|default([]) %}
-                        {% set reviewer = review.reviewer.one() %}
-                        {
-                            "@context": "https://schema.org/",
-                            "@type": "Person",
-                            "jobTitle": "{{ reviewer.description }}",
-                            "name": "{{ reviewer.title }}",
-                            "email": "{{ reviewer.email }}",
-                            {% if reviewer.cover_image|length %}"image": "{{ reviewer.cover_image[0].getUrl() }}",{% endif %}
-                            "sameAs": [
-                                "{{ reviewer.website }}"
-                            ]
-                        }{% if not loop.last %},{% endif %}
-                    {% endfor %}
-                ],
-                {% if reviews|length %}
-                    "lastReviewed": "{{ reviews[0].reviewDate.strftime('%Y-%m-%d') }}",
-                {% endif %}
                 "publisher": {
                     "@type": "Organization",
                     "@id": "{{ site_url }}/#organization"

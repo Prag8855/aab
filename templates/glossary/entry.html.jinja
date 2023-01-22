@@ -3,6 +3,7 @@
 {% set title = entry.title | default("Definition of \"" + entry.german_term + "\"") %}
 {% set metatitle = title %}
 {% set metadescription = entry.description | default("A definition of the term \"" + entry.german_term + "\", in plain English.") %}
+{% set related_entries = entry.related_guides|default([]) %}
 
 {% block postHead %}
 	<meta property="og:url" content="{{ entry.url }}" />

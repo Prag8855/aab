@@ -51,39 +51,44 @@ config = {
 
                 'image_transforms': {
                     '': {
+                        'exclude': ('experts/photos/*', ),
                         'max_size': (int(800 * 2), int(800 * 2 * 1.5)),
                     },
                     'content1.5x': {
+                        'include': ('images/*', 'illustrations/*'),
                         'exclude': ('*.pdf', '*.svg'),
                         'max_size': (int(800 * 1.5), int(800 * 1.5 * 1.5)),
                     },
                     'content1x': {
+                        'include': ('images/*', 'illustrations/*'),
                         'exclude': ('*.pdf', '*.svg'),
                         'max_size': (800, int(800 * 1.5)),
                     },
                     'content0.75x': {
+                        'include': ('images/*', 'illustrations/*'),
                         'exclude': ('*.pdf', '*.svg'),
                         'max_size': (int(800 * 0.75), int(800 * 0.75 * 1.5)),
                     },
                     'content0.5x': {
+                        'include': ('images/*', 'illustrations/*'),
                         'exclude': ('*.pdf', '*.svg'),
                         'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
                     },
                     'bio2x': {
-                        'exclude': ('*.pdf', '*.svg'),
+                        'include': 'experts/photos/*',
                         'max_size': (150, 150),
                     },
                     'bio1x': {
-                        'exclude': ('*.pdf', '*.svg'),
+                        'include': 'experts/photos/*',
                         'max_size': (75, 75),
                     },
                     'previews': {
-                        'include': 'documents/*.pdf',
+                        'include': 'documents/*',
                         'max_size': (300, 500),
                         'output_types': ('webp', 'png'),
                     },
                     'previews2x': {
-                        'include': 'documents/*.pdf',
+                        'include': 'documents/*',
                         'max_size': (600, 1000),
                         'output_types': ('webp', 'png'),
                     },

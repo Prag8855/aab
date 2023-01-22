@@ -1,7 +1,7 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
-{% set related_entries = entry.related_guides %}
+{% set related_entries = entry.related_guides|default([]) %}
 
 {% block postHead %}
 	<meta property="og:url" content="{{ entry.url }}" />

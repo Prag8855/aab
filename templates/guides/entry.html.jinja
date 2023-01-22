@@ -39,18 +39,18 @@
 		{% if reviews %}
 			<ul class="hidden" id="reviewers">
 				{% for review in reviews %}
-					{% set reviewer = review.reviewer %}
+					{% set reviewer = review.related_expert[0] %}
 					<li class="expert">
-						{% if reviewer.cover_image|length %}
-							<img class="profile-picture" alt="{{ reviewer.title }}" loading="lazy" src="{{ reviewer.cover_image }}">
+						{% if reviewer.picture|default %}
+							{% image reviewer.picture, "profile-picture" %}
 						{% else%}
 							<div class="profile-picture no-picture"></div>
 						{% endif %}
 						<div>
 							<p>
-								<strong>Fact-checked by {{ reviewer.title }}</strong>
+								<strong>Fact-checked by {{ reviewer.name }}</strong>
 								 on 
-								<time content="{{ review.reviewDate.strftime('%F') }}" datetime="{{ review.reviewDate.strftime('%F') }}">{{ review.reviewDate.strftime('%B %-d, %Y') }}</time>
+								<time content="{{ review.date_reviewed.strftime('%F') }}" datetime="{{ review.date_reviewed.strftime('%F') }}">{{ review.date_reviewed.strftime('%B %-d, %Y') }}</time>
 							</p>
 							{{ reviewer.body }}
 						</div>
@@ -134,22 +134,24 @@
 				},
 				"reviewedBy": [
 					{% for review in reviews %}
-						{% set reviewer = review.reviewer.one() %}
+						{% set reviewer = review.related_expert[0] %}
 						{
 							"@context": "https://schema.org/",
 							"@type": "Person",
-							"jobTitle": "{{ reviewer.description }}",
-							"name": "{{ reviewer.title }}",
-							"email": "{{ reviewer.email }}",
-							{% if reviewer.cover_image|length %}"image": "{{ reviewer.cover_image[0].getUrl() }}",{% endif %}
-							"sameAs": [
-								"{{ reviewer.website }}"
-							]
+							"jobTitle": "{{ reviewer.job_title }}",
+							"name": "{{ reviewer.name }}",
+							"email": "{{ reviewer.email }}"
+							{% if reviewer.picture|default %}, "image": "{{ site_url }}/{{ reviewer.picture }}"{% endif %}
+							{% if reviewer.website|default %}
+								, "sameAs": [
+									"{{ reviewer.website }}"
+								]
+							{% endif %}
 						}{% if not loop.last %},{% endif %}
 					{% endfor %}
 				],
 				{% if reviews|length %}
-					"lastReviewed": "{{ reviews[0].reviewDate.strftime('%Y-%m-%d') }}",
+					"lastReviewed": "{{ reviews[0].date_reviewed.strftime('%Y-%m-%d') }}",
 				{% endif %}
 				"publisher": {
 					"@type": "Organization",

@@ -70,7 +70,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	--max-width-column:calc(var(--max-width-column-inner) + var(--spacing-page-borders) * 2);
 
 	--size-image-category:60px;
-	--size-image-bio:70px;
+	--size-image-bio:75px;
 
 	--padding-input:var(--spacing-s) 10px;
 
