@@ -48,7 +48,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	--font-size-l:calc(30px * var(--scale));
 	--font-size-m:calc(17px * var(--scale));
 	--font-size-s:calc(15px * var(--scale));
-	--font-size-xs:calc(9px * var(--scale));
+	--font-size-xs:calc(12px * var(--scale));
 	--font-size-h2:calc(25px * var(--scale));
 	--font-size-h3:calc(22px * var(--scale));
 
@@ -211,7 +211,7 @@ li {list-style:outside;margin:var(--spacing-list-item) 0 var(--spacing-list-item
 p, ul, ol, blockquote, pre {margin:var(--spacing-text-block-m) 0}
 small {font-size:var(--font-size-s);font-weight:var(--font-weight-text);}
 strong, b{font-weight:var(--font-weight-bold-text); color:var(--color-text-header)}
-sup, sub{font-size:var(--font-size-xs);vertical-align:baseline;position:relative;line-height:0;white-space:nowrap;top:-0.9em}
+sup, sub{font-size:var(--font-size-xs);vertical-align:baseline;position:relative;line-height:0;white-space:nowrap;top:-0.6em;margin-left:0.1em}
 	sub {top:0.3em}
 figcaption{font-size:var(--font-size-s);text-align:center;font-style:italic;line-height:var(--line-height-compact);margin-top:var(--spacing-s)}
 table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
@@ -234,7 +234,7 @@ table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
 	--font-size-l:calc(30px * var(--scale));
 	--font-size-m:calc(17px * var(--scale));
 	--font-size-s:calc(15px * var(--scale));
-	--font-size-xs:calc(9px * var(--scale));
+	--font-size-xs:calc(12px * var(--scale));
 	--font-size-h2:calc(25px * var(--scale));
 	--font-size-h3:calc(22px * var(--scale));
 
