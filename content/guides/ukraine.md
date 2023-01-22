@@ -13,7 +13,7 @@ Tens of thousands of Ukrainians refugees arrived in Berlin. They need your help.
 
 ### At the train stations
 
-Use to [coordination chat](https://t.me/ukraineberlinarrivalsupport) to see if they need your help. If they don't ask for volunteers, don't go to the train station[^0]. It only creates more work for the organisers[^1].
+Use to [coordination chat](https://t.me/ukraineberlinarrivalsupport) to see if they need your help. If they don't ask for volunteers, don't go to the train station.[^0] It only creates more work for the organisers.[^1]
 
 - **[Information for volunteers](https://info.arrivalsupport.berlin)**  
     Start here.
@@ -56,7 +56,7 @@ This is the arrival centre run by the government. This is where refugees arrive,
 - **[Other ways to volunteer](https://vostel.de/en/support-ukraine)** - Vostel.de
     - [Subscribe for more opportunities](https://vostel.de/en/volunteering/projects/4783_vostel-de_standwithukraine-Get-involved-for-people-from-Ukraine)
 
-If you want to drive to Poland or Ukraine to deliver goods or transport refugees, talk to an organization first. Too many people do it, and it creates [traffic jams at the Ukrainian border](https://www.derbund.ch/zu-viele-helfer-verstopfen-die-fluchtwege-741517770363) and [other problems](https://www.rbb24.de/sport/beitrag/2022/03/ukraine-helfer-grenze-spenden-fussball-blauweiss-friedrichshain.html)[^2]. It might be better to donate money than to spend it on gas.
+If you want to drive to Poland or Ukraine to deliver goods or transport refugees, talk to an organization first. Too many people do it, and it creates [traffic jams at the Ukrainian border](https://www.derbund.ch/zu-viele-helfer-verstopfen-die-fluchtwege-741517770363) and [other problems](https://www.rbb24.de/sport/beitrag/2022/03/ukraine-helfer-grenze-spenden-fussball-blauweiss-friedrichshain.html).[^2] It might be better to donate money than to spend it on gas.
 
 ## Host refugees
 
@@ -83,7 +83,7 @@ The rules for entering with a pet are relaxed for Ukrainian refugees. More infor
 - **[Donation options](https://docs.google.com/document/d/1X7Q2MIxa6m6KSLYVd2hixUl5PMydoe0EYA0p1IwARsY/edit)**  
     This list is maintained by [Vitsche Berlin](https://vitsche.org/).
 - [Ukraine-Hilfe Berlin](https://www.ukraine-hilfe-berlin.de/spende/)  
-    Berlin-based charity that helps Ukrainians since many years. They are approved by [Vitsche Berlin](https://vitsche.org/)[^3].
+    Berlin-based charity that helps Ukrainians since many years. They are approved by [Vitsche Berlin](https://vitsche.org/).[^3]
 - [Allianz Ukrainischer Organisationen](https://ukr-alliance.de/spenden/)  
     This charity is approved by the Ukrainian embassy in Berlin, and [Vitsche Berlin](https://vitsche.org/). They accept cryptocurrency donations.
 - [More donation options](https://standforukraine.com/) - standforukraine.org

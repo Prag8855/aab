@@ -12,7 +12,7 @@ The *Wohnungsgeberbestätigung* (also called *Einzugsbestätigung des Wohnungsge
 
 The *Wohnungsgeberbestätigung* is required for your address registration (*[[Anmeldung]]*). Without it, you can't register your address.
 
-The main tenant can't sign this document without the permission of the landlord[^0]. This means that you can't register a place as your official address without the permission of the landlord. This also means that you can't use a hotel or an AirBnB as your official address.
+The main tenant can't sign this document without the permission of the landlord.[^0] This means that you can't register a place as your official address without the permission of the landlord. This also means that you can't use a hotel or an AirBnB as your official address.
 
 [English translation of the Wohnungsgeberbestätigung form](/docs/wohnungsgeberbestatigung)
 

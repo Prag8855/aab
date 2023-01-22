@@ -13,7 +13,7 @@ In Berlin, there are times when you can't make noise or disturb your neighbours.
 - On other days, the quiet hours are from 22:00 to 6:00.
 - You can't use [certain machines](https://www.gesetze-im-internet.de/bimschv_32/anhang.html) between 20:00 and 7:00.
 
-Your apartment building can have its own quiet hours. It's very common. Some house rules (*[[Hausordnung]]*) have quiet hours in the afternoon (*Mittagsruhe*)[^0].
+Your apartment building can have its own quiet hours. It's very common. Some house rules (*[[Hausordnung]]*) have quiet hours in the afternoon (*Mittagsruhe*).[^0]
 
 ## What can you do during quiet hours?
 

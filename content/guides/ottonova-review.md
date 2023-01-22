@@ -16,7 +16,7 @@ Related_reviews: reviews/ottonova-review/daniel-derosa.md
 
 ## Why does everyone recommend Ottonova?
 
-**Because they get paid to do it.** Most Ottonova reviews are sponsored. Ottonova has an affiliate program. When a blogger brings them a customer, the blogger gets money. Ottonova pays the highest commissions in the industry[^0], *by far*. Bloggers recommend Ottonova, because it's what pays the most.
+**Because they get paid to do it.** Most Ottonova reviews are sponsored. Ottonova has an affiliate program. When a blogger brings them a customer, the blogger gets money. Ottonova pays the highest commissions in the industry,[^0] *by far*. Bloggers recommend Ottonova, because it's what pays the most.
 
 It does not mean that Ottonova is bad, but it means that Ottonova recommendations are not honest. Most bloggers are not Ottonova customers, and they know nothing about German health insurance. You should not listen to their advice.
 
@@ -60,11 +60,11 @@ You can use the [Ottonova app](https://play.google.com/store/apps/details?id=de.
 - Upload invoices and documents
 - Make health insurance claims
 
-This is nice, but not unique. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/tk-app-2023650) has most of those features, and it's also available in English[^1]. You can use [Doctena](https://en.doctena.de/) to book an appointment with a doctor.
+This is nice, but not unique. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/tk-app-2023650) has most of those features, and it's also available in English.[^1] You can use [Doctena](https://en.doctena.de/) to book an appointment with a doctor.
 
 ### It's valid for a German visa application
 
-When you apply for a German [residence permit](/glossary/Aufenthaltstitel), you need valid health insurance. Ottonova's health insurance is accepted by the German embassies, consulates and *[[Ausländerbehörde]]*. Health insurance from Ottonova is valid for the [German freelance visa](/guides/how-to-get-a-german-freelance-visa), [work visa](/guides/german-work-visa)[^12] and Blue Card. Ottonova confirms this on [their home page](/out/ottonova-expats). They also have a [[BaFin]] licence[^2].
+When you apply for a German [residence permit](/glossary/Aufenthaltstitel), you need valid health insurance. Ottonova's health insurance is accepted by the German embassies, consulates and *[[Ausländerbehörde]]*. Health insurance from Ottonova is valid for the [German freelance visa](/guides/how-to-get-a-german-freelance-visa), [work visa](/guides/german-work-visa)[^12] and Blue Card. Ottonova confirms this on [their home page](/out/ottonova-expats). They also have a [[BaFin]] licence.[^2]
 
 If you [move to Germany as a freelancer](/guides/become-a-freelancer-in-germany), it's hard to get health insurance. Many private health insurers don't accept recent immigrants. In this case, Ottonova is a good option, because they accept immigrants. [Feather](/out/popsure-expats) also offers health insurance for expat freelancers. Health insurance brokers can also get you insured.
 
@@ -72,13 +72,13 @@ If you [move to Germany as a freelancer](/guides/become-a-freelancer-in-germany)
 
 ### It's a young insurance company
 
-[Ottonova](/out/ottonova) is only in business since June 2017[^3]. It's still a very small insurance company. In 2018, they had less 406 members[^4]. In 2019, they had 4,480 members, but only 860 had health insurance[^5]. In 2021, they had 14,050 members, but only 1,854 had health insurance[^6]. This is very little for a health insurer.
+[Ottonova](/out/ottonova) is only in business since June 2017.[^3] It's still a very small insurance company. In 2018, they had less 406 members.[^4] In 2019, they had 4,480 members, but only 860 had health insurance.[^5] In 2021, they had 14,050 members, but only 1,854 had health insurance.[^6] This is very little for a health insurer.
 
-On the good side, Ottonova is growing quickly. They get thousands of new members every year. Their revenue also grows every year: 262% in 2019, 158% in 2020[^7], and 61% in 2021[^8]. They could become a profitable health insurer.
+On the good side, Ottonova is growing quickly. They get thousands of new members every year. Their revenue also grows every year: 262% in 2019, 158% in 2020,[^7] and 61% in 2021.[^8] They could become a profitable health insurer.
 
-On the bad side, Ottonova is still losing a lot of money. They lost 1.5 million euros in 2018[^9], 2.4 million in 2019[^10], 3.1 million euros in 2020, and 2.1 million euros in 2021[^8].
+On the bad side, Ottonova is still losing a lot of money. They lost 1.5 million euros in 2018,[^9] 2.4 million in 2019,[^10] 3.1 million euros in 2020, and 2.1 million euros in 2021.[^8]
 
-Why is this important? Because health insurance is a long term decision. If you stay in Germany for a long time, you want stable health insurance. Small health insurers are riskier. In 2010, a private health insurer with 25,000 members almost went bankrupt because of two sick patients[^11]. [City BKK's bankruptcy](https://www.wsws.org/en/articles/2011/05/germ-m31.html) shows what happens to you if your health insurer goes bankrupt.
+Why is this important? Because health insurance is a long term decision. If you stay in Germany for a long time, you want stable health insurance. Small health insurers are riskier. In 2010, a private health insurer with 25,000 members almost went bankrupt because of two sick patients.[^11] [City BKK's bankruptcy](https://www.wsws.org/en/articles/2011/05/germ-m31.html) shows what happens to you if your health insurer goes bankrupt.
 
 If you don't plan to live in Germany for a long time, this is not a big problem. If you want to stay in Germany longer, Ottonova is a bit risky.
 

@@ -23,7 +23,7 @@ Usually, those **law firms go for the easy targets**. They will not try really h
 
 Before October 2017, if anyone pirated movies on your internet connection, you were responsible. This is why there were so few public Wi-Fi hotspots in Germany.
 
-The so called *Mitstörerhaftung* (co-perpetrator liability) was repealed[^0]. The updated law is simple: **you are not responsible for copyright violations on your network** if you don't cause or facilitate them[^2].
+The so called *Mitstörerhaftung* (co-perpetrator liability) was repealed.[^0] The updated law is simple: **you are not responsible for copyright violations on your network** if you don't cause or facilitate them.[^2]
 
 ## Is streaming movies safe in Germany?
 
@@ -75,7 +75,7 @@ However, seedboxes often require you to use private torrent trackers, which have
 
 ## Can I watch pornography in Germany?
 
-**Yes.** Watching pornography is legal in Germany[^3]. The most popular porn sites are also legal in Germany. Pirating pornographic movies is not legal.
+**Yes.** Watching pornography is legal in Germany.[^3] The most popular porn sites are also legal in Germany. Pirating pornographic movies is not legal.
 
 ## Can I use Netflix and Amazon Prime in Germany?
 
@@ -83,7 +83,7 @@ However, seedboxes often require you to use private torrent trackers, which have
 
 ## Does my insurance protect me?
 
-**No.** If you get caught, your [legal insurance](/guides/legal-insurance) will not help you[^1]. Your [liability insurance](/guides/haftpflichtversicherung) also won't help you.
+**No.** If you get caught, your [legal insurance](/guides/legal-insurance) will not help you.[^1] Your [liability insurance](/guides/haftpflichtversicherung) also won't help you.
 
 ## Disclaimer
 

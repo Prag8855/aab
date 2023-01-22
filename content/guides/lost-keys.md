@@ -13,21 +13,21 @@ Locking yourself out happens to everyone. This guide shows you how to get back i
 
 If you are locked out of your apartment, you must call a locksmith (*Schlüsseldienst*). It should cost 50€ to 150€ to open a door, depending on the the time. Locksmiths charge more at night and during the weekend.
 
-When you call a locksmith, ask for the price on the telephone. If possible, ask for a fixed price. Call multiple locksmiths if necessary. There are many dishonest locksmiths who charge special fees[^0]. After they open the door, they charge you hundreds of euros.
+When you call a locksmith, ask for the price on the telephone. If possible, ask for a fixed price. Call multiple locksmiths if necessary. There are many dishonest locksmiths who charge special fees.[^0] After they open the door, they charge you hundreds of euros.
 
-I personally recommend [Albert Schlüsseldienst](https://g.page/schluesseldienstberlinalbert?share). I have used them 3 times already. They charge 50€ to 90€ to open a door[^4]. [AS Schlüsseldienst](https://g.page/AS_Schluesseldienst?share) is often recommended too, but they charge more.
+I personally recommend [Albert Schlüsseldienst](https://g.page/schluesseldienstberlinalbert?share). I have used them 3 times already. They charge 50€ to 90€ to open a door.[^4] [AS Schlüsseldienst](https://g.page/AS_Schluesseldienst?share) is often recommended too, but they charge more.
 
-After the locksmith opens your door, you must prove that you live there. You can show your passport or your *[[Meldebescheinigung]]*. Ask for a receipt and keep it. Your household insurance (*[[Hausratversicherung]]*) might cover the cost of calling a locksmith. For example, [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths[^1], and they speak English. Liability insurance (*[[Haftpflichtversicherung]]*) does not cover this.
+After the locksmith opens your door, you must prove that you live there. You can show your passport or your *[[Meldebescheinigung]]*. Ask for a receipt and keep it. Your household insurance (*[[Hausratversicherung]]*) might cover the cost of calling a locksmith. For example, [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths,[^1] and they speak English. Liability insurance (*[[Haftpflichtversicherung]]*) does not cover this.
 
 ## Replacing lost keys in Germany
 
 Replacing your keys is cheap and easy: just go to any locksmith (*Schlüsseldienst*) and ask them for a new key. We paid around 5€ per key.
 
-The only exception is your building key (the key you use to enter the building). You need permission from your *[[Hausverwaltung]]* to replace a building key[^2]. The *Hausverwaltung* will give you a card (*Schlüsselkarte* or *Schließplan*) that you must bring to the locksmith. Building keys are more expensive to replace: around 50€ per key.
+The only exception is your building key (the key you use to enter the building). You need permission from your *[[Hausverwaltung]]* to replace a building key.[^2] The *Hausverwaltung* will give you a card (*Schlüsselkarte* or *Schließplan*) that you must bring to the locksmith. Building keys are more expensive to replace: around 50€ per key.
 
-Some locksmiths will replace your building key without permission from the *Hausverwaltung*[^5]. Your new key might look different. If you move out, you need to give your keys back. Your landlord might notice that one key looks different.
+Some locksmiths will replace your building key without permission from the *Hausverwaltung*.[^5] Your new key might look different. If you move out, you need to give your keys back. Your landlord might notice that one key looks different.
 
-Vehicle keys can be replaced at the dealership[^6].
+Vehicle keys can be replaced at the dealership.[^6]
 
 ## Do I need to pay to replace the locks?
 
@@ -37,12 +37,12 @@ When you [move out of your apartment](/guides/moving-out), you must give your ke
 
 If you lost a key, your landlord can *sometimes* charge you to change the locks for the entire building.
 
-- **If your keys were stolen**, the landlord can't charge you to change the locks, because it's not your fault[^7].
-- **If you lost your keys**, it depends. If someone finds your keys, but can't find where you live, nothing can happen. If you dropped your keys in a lake, nothing can happen. Your landlord can't charge you to change the locks, because it's not necessary[^7]. If someone can find your keys and find where you live, then the locks need to be changed, and you will have to pay for it.
+- **If your keys were stolen**, the landlord can't charge you to change the locks, because it's not your fault.[^7]
+- **If you lost your keys**, it depends. If someone finds your keys, but can't find where you live, nothing can happen. If you dropped your keys in a lake, nothing can happen. Your landlord can't charge you to change the locks, because it's not necessary.[^7] If someone can find your keys and find where you live, then the locks need to be changed, and you will have to pay for it.
 
-Your rent contract can't force you to pay to replace the locks. That clause would be invalid[^8].
+Your rent contract can't force you to pay to replace the locks. That clause would be invalid.[^8]
 
-Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks[^9]. This is why having liability insurance is important. Otherwise, it can cost you over 1000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance that covers lost keys, and they speak English.
+Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance that covers lost keys, and they speak English.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -53,9 +53,9 @@ Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtvers
 - **Give a key to a trusted friend**  
     If you lock yourself out, you can call your friend instead of a locksmith.
 - **Get [liability insurance](/glossary/Haftpflichtversicherung)**  
-    It covers the cost of replacing all the locks, and it costs less than 5€ per month. Liability insurance is the most important insurance to have - 85% of Germans have it[^3]. [This guide](/guides/haftpflichtversicherung) explains why it's so important. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance for under 5€ per month. They cover lost keys for rented apartments, and they speak English.
+    It covers the cost of replacing all the locks, and it costs less than 5€ per month. Liability insurance is the most important insurance to have - 85% of Germans have it.[^3] [This guide](/guides/haftpflichtversicherung) explains why it's so important. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance for under 5€ per month. They cover lost keys for rented apartments, and they speak English.
 - **Get [household insurance](/glossary/Hausratversicherung)**  
-    Some policies cover the cost of a locksmith. Use [Tarifcheck](/out/tarifcheck-hausrat) to find a home contents insurance that covers locksmiths. [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths[^1], and they speak English.
+    Some policies cover the cost of a locksmith. Use [Tarifcheck](/out/tarifcheck-hausrat) to find a home contents insurance that covers locksmiths. [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths,[^1] and they speak English.
 
 [^0]: [stern.de](https://www.stern.de/wirtschaft/news/schluesseldienst-betrug--rechnung-ueber-1240-euro-fuer-einmal-tuer-aufmachen-8485766.html), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hlohza/looks_like_i_got_scammed_of_400_euros_by/)
 [^1]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)

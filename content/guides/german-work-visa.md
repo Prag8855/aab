@@ -37,32 +37,32 @@ Many types of residence permit allow you to work in Germany. The work visa and t
 **University graduates** can apply for an EU Blue Card instead of a work visa. The Blue Card is better than a work visa:
 
 - **You can get it faster**  
-    You don't need permission from the [[ZAV]] if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€. This makes the application process shorter[^2].
+    You don't need permission from the [[ZAV]] if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€. This makes the application process shorter.[^2]
 - **It's easier to change jobs**  
-    After 2 years, you can work for another employer without updating your Blue Card[^3]. This saves a lot of time. With the work visa, you must reapply for a new visa every time you change jobs[^35].
+    After 2 years, you can work for another employer without updating your Blue Card.[^3] This saves a lot of time. With the work visa, you must reapply for a new visa every time you change jobs.[^35]
 - **You can get your [permanent residency](/glossary/Niederlassungserlaubnis) faster**  
-    With a Blue Card, you can get your permanent residency in 33 months[^4] instead of 60 months[^5]. If you get a B1 language certificate, you can get your permanent residency in 21 months[^4].
+    With a Blue Card, you can get your permanent residency in 33 months[^4] instead of 60 months.[^5] If you get a B1 language certificate, you can get your permanent residency in 21 months.[^4]
 - **It's easier to move to other EU countries**  
-    You can move to other EU countries (except Denmark and Ireland[^38])) more easily. If you had a Blue Card for over 18 months, you can move to another EU country, and apply for the Blue Card there[^6].
+    You can move to other EU countries (except Denmark and Ireland[^38])) more easily. If you had a Blue Card for over 18 months, you can move to another EU country, and apply for the Blue Card there.[^6]
 - **You can travel longer outside Germany**  
-    With a Blue Card, you can leave Germany for 12 months before your residence permit becomes invalid[^7]. With a work visa, you can only leave for 6 months. If you want to leave longer, you can get special permission from the *[[Ausländerbehörde]]*.
+    With a Blue Card, you can leave Germany for 12 months before your residence permit becomes invalid.[^7] With a work visa, you can only leave for 6 months. If you want to leave longer, you can get special permission from the *[[Ausländerbehörde]]*.
 
 The Blue Card has more requirements:
 
 - **You need a high income**  
-    You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes)[^8]. If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year[^9]. [This list](http://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
+    You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes).[^8] If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^9] [This list](http://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
 - **You need a university degree**  
-    Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database[^10]. In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree[^11].
+    Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database.[^10] In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree.[^11]
 
 In this guide, I show you how to get a Blue Card.
 
 ### Working Holiday Visa
 
-**Citizens of Australia, New Zealand, Israel and Japan between 18 and 30 years old** can apply for a [[Working Holiday Visa]][^2]. The Working Holiday Visa lets you work in Germany for up to 1 year. Working Holiday Visas are easier to get than work visas and Blue Cards. You can apply for the Youth Mobility Visa in Germany, or from your home country[^39].
+**Citizens of Australia, New Zealand, Israel and Japan between 18 and 30 years old** can apply for a [[Working Holiday Visa]].[^2] The Working Holiday Visa lets you work in Germany for up to 1 year. Working Holiday Visas are easier to get than work visas and Blue Cards. You can apply for the Youth Mobility Visa in Germany, or from your home country.[^39]
 
 ### Youth Mobility Visa
 
-**Canadian citizens between 18 and 35 years old** can apply for the [[Youth Mobility Visa]]. The Youth Mobility Visa is similar to the [[Working Holiday Visa]]. It lets you work in Germany for up to a year. You can apply in Canada or in Germany[^39]. Youth Mobility Visas are easier to get than work visas and Blue Cards.
+**Canadian citizens between 18 and 35 years old** can apply for the [[Youth Mobility Visa]]. The Youth Mobility Visa is similar to the [[Working Holiday Visa]]. It lets you work in Germany for up to a year. You can apply in Canada or in Germany.[^39] Youth Mobility Visas are easier to get than work visas and Blue Cards.
 
 [More information about the Youth Mobility Visa](https://canada.diplo.de/ca-en/consular-services/visa/-/1674826) - German Missions in Canada
 
@@ -78,16 +78,16 @@ In this guide, I show you how to get a Blue Card.
 
 - **You must have a job offer in Germany**. It must be a concrete job offer<sup>[§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [2](https://service.berlin.de/dienstleistung/305304/)</sup>, not just a job listing.
 - **You must have a university degree or a vocational qualification**<sup>[1](https://www.make-it-in-germany.com/en/visa-residence/quick-check), [§18a, §18b](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)</sup>  
-    Your job must be related to your education. You do not need a university degree to get a German work visa[^12]. Vocational training is enough. Your school does not need to be recognised in [Anabin](https://www.anerkennung-in-deutschland.de/tools/berater/en/).
+    Your job must be related to your education. You do not need a university degree to get a German work visa.[^12] Vocational training is enough. Your school does not need to be recognised in [Anabin](https://www.anerkennung-in-deutschland.de/tools/berater/en/).
 - **Your employer must be in Germany**  
-    For example, you can't work for an American company, unless they have an office in Germany[^12].
+    For example, you can't work for an American company, unless they have an office in Germany.[^12]
 - **You must be qualified for the job**[^13]
 - **You must be allowed to do this job in Germany**  
     If you need specific qualifications to do your job in Germany, you must prove that you have them<sup>[1](https://service.berlin.de/dienstleistung/305304/en/), [§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)</sup>. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/tools/berater/en/) to know if your profession requires specific qualifications.
 - **You must have approval from the [[ZAV]]**<sup>[1](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0058), [§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)</sup>  
     The ZAV verifies that the position can't be filled by a EU citizen. See below for details. If you apply for a Blue Card, and you make over {{BLUE_CARD_MIN_INCOME|cur}}€ per year, you don't need this.
 - **You must have German health insurance and a place to stay**  
-    You must [find a place to live](/guides/find-a-flat-in-berlin) and [get German health insurance](/guides/german-visa-health-insurance) *before* you apply for the work visa[^40].
+    You must [find a place to live](/guides/find-a-flat-in-berlin) and [get German health insurance](/guides/german-visa-health-insurance) *before* you apply for the work visa.[^40]
 
 You **do not** need to speak German to get a German work visa.
 
@@ -98,7 +98,7 @@ The Blue Card has the same requirements as the work visa. It also has these two 
 - **You must have a high income**  
     You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes)<sup>[1](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [2](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [3](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/), [§18b](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)</sup>. If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year<sup>[1](https://www.fragomen.com/insights/alerts/eu-blue-card-minimum-salary-increase), [2](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [3](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [4](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/), [§18b](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)</sup>. [This list](http://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
 - **You must have a university degree**  
-    Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database[^14]. In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree[^11].
+    Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database.[^14] In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree.[^11]
 
 You **do not** need to speak German to get a Blue Card.
 
@@ -107,16 +107,16 @@ You **do not** need to speak German to get a Blue Card.
 There are two ways to apply for the work visa and the Blue Card:
 
 1. **[Apply in Germany](/guides/german-work-visa#how-to-apply-in-germany)**  
-    Come to Germany, find a job, then apply for a work visa or Blue Card in Germany. You can't work until you have a work visa or Blue Card, but you can look for a job and prepare for your residence permit interview[^41]. It's easier to [find a job](/guides/find-a-job-in-berlin), [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You might have to wait a few months without any income. This is riskier and more expensive.[  ](/guides/german-work-visa#how-to-apply-in-your-country)
+    Come to Germany, find a job, then apply for a work visa or Blue Card in Germany. You can't work until you have a work visa or Blue Card, but you can look for a job and prepare for your residence permit interview.[^41] It's easier to [find a job](/guides/find-a-job-in-berlin), [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You might have to wait a few months without any income. This is riskier and more expensive.[  ](/guides/german-work-visa#how-to-apply-in-your-country)
 2. **[Apply in your country](/guides/german-work-visa#how-to-apply-in-your-country)**  
-    Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a work visa or Blue Card. You can start working as soon as you arrive in Germany. This is safer and cheaper. It takes around 4 months[^15].
+    Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a work visa or Blue Card. You can start working as soon as you arrive in Germany. This is safer and cheaper. It takes around 4 months.[^15]
 
 The best option depends on your citizenship:
 
-- **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa[^16]. You can come to Germany, find a job, then apply for a work visa or Blue Card in Germany[^17]. You can also apply in your home country.
+- **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^16] You can come to Germany, find a job, then apply for a work visa or Blue Card in Germany.[^17] You can also apply in your home country.
 - **If you are a citizen of any other country**, there are two ways to get a work visa or Blue Card:
     1. Apply for a work visa or Blue Card at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
-    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)[^18], come to Germany, find a job, then apply for a work visa or Blue Card.
+    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen),[^18] come to Germany, find a job, then apply for a work visa or Blue Card.
 
 ## How to apply in Germany
 
@@ -125,9 +125,9 @@ The best option depends on your citizenship:
 - **You need**: a [job seeker visa](/glossary/Job%20seeker%20visa) (except for citizens of certain countries[^16])
 - **You get**: the right to come to Germany and look for work
 
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can come to Germany without a visa, and apply for a residence permit in Germany[^19]. You can stay for 90 days before you need a residence permit.
+**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can come to Germany without a visa, and apply for a residence permit in Germany.[^19] You can stay for 90 days before you need a residence permit.
 
-**If you are a citizen of any other country**, you might need a [Job Seeker Visa](/glossary/Job%20seeker%20visa) to enter Germany. The Job Seeker Visa lets you to come to Germany and look for a job[^16]. It's valid for up to 6 months. It does not allow you to work in Germany. After you find a job, you can apply for a [residence permit](/glossary/Aufenthaltstitel) in Germany. The job. You can't do this with a tourist visa. **If you enter Germany with a tourist visa, your work visa or Blue Card application will be rejected**[^20].
+**If you are a citizen of any other country**, you might need a [Job Seeker Visa](/glossary/Job%20seeker%20visa) to enter Germany. The Job Seeker Visa lets you to come to Germany and look for a job.[^16] It's valid for up to 6 months. It does not allow you to work in Germany. After you find a job, you can apply for a [residence permit](/glossary/Aufenthaltstitel) in Germany. The job. You can't do this with a tourist visa. **If you enter Germany with a tourist visa, your work visa or Blue Card application will be rejected**.[^20]
 
 If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment.
 
@@ -136,7 +136,7 @@ If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come t
 - **You need**: nothing
 - **You get**: a job offer
 
-You need a job offer to apply for a work visa and a Blue Card[^21]. It must be a [skilled job](https://en.wikipedia.org/wiki/Skilled_worker). You can't get a work visa or Blue Card for unskilled work[^22]. For example, you can't get a work visa to be a cashier or a call centre employee.
+You need a job offer to apply for a work visa and a Blue Card.[^21] It must be a [skilled job](https://en.wikipedia.org/wiki/Skilled_worker). You can't get a work visa or Blue Card for unskilled work.[^22] For example, you can't get a work visa to be a cashier or a call centre employee.
 
 If you apply for a Blue Card, your salary must be at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes). If there is a shortage of skilled workers in your field, your salary must be at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year. [This list](http://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
 
@@ -158,14 +158,14 @@ You do not need approval from the ZAV if:
 - **or** you are a teacher, scientific assistant, guest scientist, engineer or technician in the research team of a guest scientist[^42]
 - **or** you are a teacher at a state school, state-approved private substitute school or a recognised private complementary school[^42]
 - **or** you are applying for the [*Bundesfreiwilligendienst*](https://en.wikipedia.org/wiki/Federal_volunteers_service)[^23]
-- **or** you are applying for the Blue Card[^24] and your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€ per year[^43].
+- **or** you are applying for the Blue Card[^24] and your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€ per year.[^43]
 
 There are two ways to get the ZAV approval:
 
 1. **Before you apply for your residence permit**  
-    You can get pre-approval from the ZAV before you apply for the work visa. Usually, your employer applies for you[^25]. When you have pre-approval from the ZAV, your visa is approved faster[^26]. It takes around 6 weeks to get the ZAV approval[^44], and it costs your employer around 400€[^27].
+    You can get pre-approval from the ZAV before you apply for the work visa. Usually, your employer applies for you.[^25] When you have pre-approval from the ZAV, your visa is approved faster.[^26] It takes around 6 weeks to get the ZAV approval,[^44] and it costs your employer around 400€.[^27]
 2. **While you apply for your residence permit**  
-    If you don't get pre-approval from the ZAV, it will be done when you apply for the work visa[^45]. This is the easiest way, because you don't need to do anything. It takes a little longer to get your work visa this way.
+    If you don't get pre-approval from the ZAV, it will be done when you apply for the work visa.[^45] This is the easiest way, because you don't need to do anything. It takes a little longer to get your work visa this way.
 
 ### Step 4: [Open a bank account](/guides/first-bank-account-in-germany) (optional)
 
@@ -190,13 +190,13 @@ You must find a place to live before your residence permit interview. Start look
 
 **[How to find an apartment in Berlin ➞](/guides/find-a-flat-in-berlin)**
 
-When you sign a lease, your landlord must give you a *[[Wohnungsgeberbestätigung]]*. This document confirms that you are allowed to live there. **You can't get a residence permit without this document**[^28].
+When you sign a lease, your landlord must give you a *[[Wohnungsgeberbestätigung]]*. This document confirms that you are allowed to live there. **You can't get a residence permit without this document**.[^28]
 
 - Hotels and AirBnBs will rarely give you a *[[Wohnungsgeberbestätigung]]*.
 - Apartments and rooms that are listed as "no *[[Anmeldung]]* possible" will not give you a *[[Wohnungsgeberbestätigung]]*.
 - You can live at a friend's apartment, but only with the landlord's permission. Without the landlord's permission, you can't get a *[[Wohnungsgeberbestätigung]]*.
 
-During your residence permit interview, you must prove that you live in Germany. There are two ways to do this[^12]:
+During your residence permit interview, you must prove that you live in Germany. There are two ways to do this:[^12]
 
 - Show your lease and the *[[Wohnungsgeberbestätigung]]* you received from your landlord
 - **or** show the registration certificate (*[[Anmeldebestätigung]]*) you get when you [register your address](/glossary/Anmeldung).
@@ -213,7 +213,7 @@ When you register your address, you get a [registration certificate (*Anmeldebes
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
-2 to 4 weeks after you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) in the mail. Your employer needs it to calculate your [salary tax](/glossary/Lohnsteuer). If you don't have a tax ID, they might take more income tax from your salary[^46].
+2 to 4 weeks after you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) in the mail. Your employer needs it to calculate your [salary tax](/glossary/Lohnsteuer). If you don't have a tax ID, they might take more income tax from your salary.[^46]
 
 If you can't register your address, there are [other ways to get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 
@@ -223,7 +223,7 @@ If you can't register your address, there are [other ways to get a tax ID](/guid
 - **You get**: health insurance, a proof of health insurance coverage
 - **How long it takes**: 2 to 14 days
 
-You need German health insurance to get a residence permit[^40].
+You need German health insurance to get a residence permit.[^40]
 
 **[Which health insurance do you need for your German visa? ➞](/guides/german-visa-health-insurance)**
 
@@ -241,9 +241,9 @@ Health insurance brokers help you choose the best health insurance for your need
 - **You get**: an appointment at the *[[Ausländerbehörde]]* or German consulate
 - **How long it takes**: 15 minutes to a few weeks, depending on your luck
 
-You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it's really hard to find an appointment[^47]. In Berlin, your appointment can be weeks or months in the future. The appointment is free. You only pay if you get the residence permit.
+You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it's really hard to find an appointment.[^47] In Berlin, your appointment can be weeks or months in the future. The appointment is free. You only pay if you get the residence permit.
 
-In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*[^28]. You can book your appointment [here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*[^48]. You can also [go in person](/guides/berlin-auslanderbehorde-same-day-appointment#in-person) or [send your documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can book your appointment [here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48] You can also [go in person](/guides/berlin-auslanderbehorde-same-day-appointment#in-person) or [send your documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
 
 {% include "blocks/appointmentLink/_applyResidencePermit.html" %}
 
@@ -275,7 +275,7 @@ We explain the required documents in the "[Required documents](/guides/german-wo
 
 **[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-rejected)**
 
-If you apply for a work visa, it's valid for up to 3 years[^14]. If you apply for a Blue Card, it's valid for up to 4 years.
+If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply for a Blue Card, it's valid for up to 4 years.
 
 ### Step 12: Start working in Germany
 
@@ -285,7 +285,7 @@ If you apply for a work visa, it's valid for up to 3 years[^14]. If you apply fo
 
 ### Step 1: Get your appointment at the German embassy or consulate
 
-Get an appointment at [your local German embassy or consulate](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen). It can be hard to find an appointment. You might only get an appointment 2-3 months later[^30]. Start looking as soon as possible.
+Get an appointment at [your local German embassy or consulate](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen). It can be hard to find an appointment. You might only get an appointment 2-3 months later.[^30] Start looking as soon as possible.
 
 ### Step 2: Prepare for your visa interview
 
@@ -301,7 +301,7 @@ You need a job offer *before* you go to your visa interview. If you apply for a 
 
 ### Step 3: Go to your visa interview
 
-You must go to your interview and give your documents. If you have all the required documents, the interview only takes a few minutes[^49].
+You must go to your interview and give your documents. If you have all the required documents, the interview only takes a few minutes.[^49]
 
 ### Step 4: Receive your temporary visa
 
@@ -325,33 +325,33 @@ Your temporary visa is usually valid for 6 months. You must go to the *[[Auslän
 
 ## Required documents
 
-These are the required documents **in Berlin**. If you apply elsewhere, the required documents can be different. German embassies and consulates in other countries can have special requirements. For example, in India, you must also write a cover letter[^50].
+These are the required documents **in Berlin**. If you apply elsewhere, the required documents can be different. German embassies and consulates in other countries can have special requirements. For example, in India, you must also write a cover letter.[^50]
 
 The interviewer will scan your documents page by page. Do not staple the pages together. If possible, print everything on A4 paper.
 
 - **A valid passport**  
-    Your passport must[^51]...
+    Your passport must.[^51]..
     - ...be valid for another 6 months
     - ...be issued in the last 10 years
     - ...have at least two free pages
     - ...contain your signature
 - **1 biometric photo**  
-    You need a 35 × 45mm biometric picture[^52]. You do not need to cut the passport photos yourself; they have a tool for this[^31].
+    You need a 35 × 45mm biometric picture.[^52] You do not need to cut the passport photos yourself; they have a tool for this.[^31]
 - **Your job contract** (*Arbeitsvertrag*)  
-    Bring the original, not a copy[^12].
+    Bring the original, not a copy.[^12]
 - **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
-    You can get this document from your health insurance company[^53]. If you choose public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
+    You can get this document from your health insurance company.[^53] If you choose public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
 - **Proof of residence in Germany**  
     There are two ways to prove your residence in Berlin. You can bring...<sub>l</sub>
     - Your lease and your *[[Wohnungsgeberbestätigung]]*
     - **or** your *[[Anmeldebestätigung]]*
 - **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, you must bring a proof of education. This can be[^28]...
+    If you have a degree or any relevant training, you must bring a proof of education. This can be.[^28]..
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training
 - **Occupation practice permit** (if applicable)  
-    If you need specific qualifications to do your job in Germany, you must prove that you have them[^32]. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/tools/berater/en/) to know if your profession requires specific qualifications.
+    If you need specific qualifications to do your job in Germany, you must prove that you have them.[^32] For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/tools/berater/en/) to know if your profession requires specific qualifications.
 - **All the required forms**
     - **[The "application for an employment permit" form](/documents/Antrag-auf-Erlaubnis-einer-Beschaeftigung.pdf)** (*Antrag auf Erlaubnis einer Beschäftigung*)  
         You can find the form [here](/documents/Antrag-auf-Erlaubnis-einer-Beschaeftigung.pdf), and [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50328-antrag_auf_erlaubnis_einer_besch__ftigung.pdf).
@@ -364,19 +364,19 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### Can I bring my family to Germany?
 
-**Yes**. With the work visa and the Blue Card, you can bring your family to Germany<sup>1, 2</sup>. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany[^13].
+**Yes**. With the work visa and the Blue Card, you can bring your family to Germany<sup>1, 2</sup>. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
 
 ### How much does the German work visa cost?
 
-**It costs {{NATIONAL_VISA_FEE|cur}}€**[^54]. It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
+**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
 
 ### How much does the German Blue Card cost?
 
-**It costs {{NATIONAL_VISA_FEE|cur}}€**[^54]. It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
+**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
 
 ### How long does it take to get a work visa?
 
-It takes **8 to 12 weeks** to get a work visa when you apply in Germany[^33], but it can take up to 16 weeks[^55].
+It takes **8 to 12 weeks** to get a work visa when you apply in Germany,[^33] but it can take up to 16 weeks.[^55]
 
 You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€, because you don't need approval from the [[ZAV]].
 
@@ -396,23 +396,23 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### Can I change jobs?
 
-**Yes**. Your work visa or Blue Card is for one employer only. If you want to get another job, you can apply for a new work visa or Blue Card[^35]. There are two exceptions:
+**Yes**. Your work visa or Blue Card is for one employer only. If you want to get another job, you can apply for a new work visa or Blue Card.[^35] There are two exceptions:
 
-- If you had a Blue Card for at least 2 years, and you have an unlimited work contract, you can change jobs without changing your visa[^36].
-- If you had a residence permit for at least 3 years (excluding your time as a student), and you have an unlimited work contract, you can change jobs without changing your visa[^35].
+- If you had a Blue Card for at least 2 years, and you have an unlimited work contract, you can change jobs without changing your visa.[^36]
+- If you had a residence permit for at least 3 years (excluding your time as a student), and you have an unlimited work contract, you can change jobs without changing your visa.[^35]
 
 ### What happens if I lose my job?
 
-You must inform the *Ausländerbehörde* as soon as you lose your job. Your visa is still valid, but the *Ausländerbehörde* can shorten your visa[^56]. The *Ausländerbehörde* will give you 3 to 6 months to find another job or leave Germany.
+You must inform the *Ausländerbehörde* as soon as you lose your job. Your visa is still valid, but the *Ausländerbehörde* can shorten your visa.[^56] The *Ausländerbehörde* will give you 3 to 6 months to find another job or leave Germany.
 
 ### Can I travel outside of Germany?
 
-**Yes**. With a work visa, you can leave Germany **for up to 6 months**[^37]. With a Blue Card, you can leave Germany for up to 12 months. If you   
-leave for a longer period without a special permission, your residence permit become invalid[^7]. You can ask the *Ausländerbehörde* for permission to leave longer without losing your residence permit.
+**Yes**. With a work visa, you can leave Germany **for up to 6 months**.[^37] With a Blue Card, you can leave Germany for up to 12 months. If you   
+leave for a longer period without a special permission, your residence permit become invalid.[^7] You can ask the *Ausländerbehörde* for permission to leave longer without losing your residence permit.
 
 ### Can I start my own business?
 
-**Sometimes**. If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you are allowed to freelance. You must keep your job. Freelancing can't be your main occupation[^57]. If you want to freelance as your main occupation, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-visa-to-freelance-in-germany). You must still [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need permission from your employer.
+**Sometimes**. If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you are allowed to freelance. You must keep your job. Freelancing can't be your main occupation.[^57] If you want to freelance as your main occupation, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-visa-to-freelance-in-germany). You must still [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need permission from your employer.
 
 ## Need help?
 

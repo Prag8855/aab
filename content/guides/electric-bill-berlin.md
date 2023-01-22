@@ -22,13 +22,13 @@ The warm rent (*[[Warmmiete]]*) includes heating, water, garbage disposal and ot
 
 ## How much is the electric bill?
 
-This depends on how much electricity you use, and how many people you live with. You can estimate 1,500 to 2,000 kWh per person per year[^0].
+This depends on how much electricity you use, and how many people you live with. You can estimate 1,500 to 2,000 kWh per person per year.[^0]
 
 Most electric companies charge a base price, plus a fee per kWh. We will use Vattenfall's [Easy12 Strom](https://www.vattenfall.de/de/strom-easy12.htm?consumption=1500&zip=10115&city=Berlin&street=&hno=) plan as an example. You pay 8.80€ per month, plus [0.26€ per kWh](https://www.globalpetrolprices.com/Germany/electricity_prices/). If you use 125 kWh per month, you would pay 0.26 × 125 + 8.80 = 41.30€ per month.
 
 Your electric bill is based on your *estimated* usage. You can decide how much you want to pay per month. At the end of the year, if you used more electricity than you paid for, you will get an invoice. If you used less, you will get some money back.
 
-Here's a good amount to pay if you don't know what your consumption will be[^1]:
+Here's a good amount to pay if you don't know what your consumption will be:[^1]
 
 - 1 person household: **40€ per month**
 - 2 person household: **65€ per month**
@@ -38,7 +38,7 @@ Here's a good amount to pay if you don't know what your consumption will be[^1]:
 ## How to save money on your electric bill
 
 - Use **[Verivox](/out/verivox-electricity)** or [**Check24**](/out/check24-electricity) to find the cheapest power company. Prices are very similar, but you can still save up to 100€ per year.
-- [Switch to a different power company](/guides/saving-money-germany#change-electricity-and-gas-providers-every-year) when your contract is over[^2]. New customer bonuses can save you 50 to 100€ every time you switch.
+- [Switch to a different power company](/guides/saving-money-germany#change-electricity-and-gas-providers-every-year) when your contract is over.[^2] New customer bonuses can save you 50 to 100€ every time you switch.
 
 **[How to save money in Germany ➞](/guides/saving-money-germany)**
 

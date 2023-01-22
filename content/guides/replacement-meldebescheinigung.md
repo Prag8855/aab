@@ -29,7 +29,7 @@ You can request a *Meldebescheinigung* from the *[[Bürgeramt]]* any time you wa
 
 ### Erweiterte Meldebescheinigung
 
-The extended registration certificate (*erweiterte Meldebescheinigung*) has information about your previous addresses, your spouse, and your children[^0]. You rarely need this document. You can also request it from the *[[Bürgeramt]]*.
+The extended registration certificate (*erweiterte Meldebescheinigung*) has information about your previous addresses, your spouse, and your children.[^0] You rarely need this document. You can also request it from the *[[Bürgeramt]]*.
 
 ## How to get an Anmeldebestätigung
 
@@ -39,26 +39,26 @@ You only get an *Anmeldebestätigung* during the *[[Anmeldung]]* at the *[[Bürg
 
 ## How to get a Meldebescheinigung
 
-You can request a *[[Meldebescheinigung]]* from the *[[Bürgeramt]]*. It costs 10€[^0]. You can get it online, by mail, by email or in person. You cannot get this document if your address is not registered.
+You can request a *[[Meldebescheinigung]]* from the *[[Bürgeramt]]*. It costs 10€.[^0] You can get it online, by mail, by email or in person. You cannot get this document if your address is not registered.
 
 ### Online
 
 You can [request a *Meldebescheinigung* online](https://service.berlin.de/dienstleistung/120702/). You must be [registered](/glossary/Anmeldung) in Berlin.
 
-You can't request an extended registration certificate (*erweiterte Meldebescheinigung*) online. You must request it by email, by post or in person[^0].
+You can't request an extended registration certificate (*erweiterte Meldebescheinigung*) online. You must request it by email, by post or in person.[^0]
 
 ![Meldebescheinigung online berlin](/images/meldebescheinigung-online-berlin.png "Click this button to request a Meldebescheinigung online")
 
 ### In person at the Bürgeramt
 
-You can get a *[[Meldebescheinigung]]* from any *[[Bürgeramt]]* in Berlin. It's very easy[^0]:
+You can get a *[[Meldebescheinigung]]* from any *[[Bürgeramt]]* in Berlin. It's very easy:[^0]
 
 1. [Get an appointment at any Bürgeramt](/guides/berlin-burgeramt-appointment) for "*[Meldebescheinigung beantragen](https://service.berlin.de/dienstleistung/120702/)*"
 2. When you go to your appointment, bring a personal ID (such as your passport) and 10€.
 
 ### By mail or email
 
-You can also request a *[[Meldebescheinigung]]* by post or email[^0]:
+You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
 
 1. Write to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/)
 2. Transfer 10€ to [the *Bürgeramt's* bank account](http://www.berlin.de/labo/_assets/buergerdienste/bankverbindungen-der-buergeraemter.pdf)

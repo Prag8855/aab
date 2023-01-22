@@ -13,7 +13,7 @@ While applying for freelance roles in Berlin, I had to tell my potential clients
 
 ### Expenses and taxes
 
-When you are an employee, your employer gives you an office, a desk, a computer, and many other perks. Your employer also pays half of your health insurance contribution. In total, you cost your employer around 20% more than you get paid[^0].
+When you are an employee, your employer gives you an office, a desk, a computer, and many other perks. Your employer also pays half of your health insurance contribution. In total, you cost your employer around 20% more than you get paid.[^0]
 
 When you are a freelancer, you pay everything yourself. You lose a larger part of your salary to taxes, insurance and business expenses.
 
@@ -44,7 +44,7 @@ Here are some expenses to think about:
 
 ### No paid vacations
 
-As a freelancer, you don't have paid vacations, paid holidays or sick days. When you don't work, you are not paid. If you remove the weekends, the national holidays and 30 vacation days, will only work around 210 days per year[^1]. You must take this into consideration when you calculate your salary.
+As a freelancer, you don't have paid vacations, paid holidays or sick days. When you don't work, you are not paid. If you remove the weekends, the national holidays and 30 vacation days, will only work around 210 days per year.[^1] You must take this into consideration when you calculate your salary.
 
 Your work isn't always billable either. The time you spend looking for clients, doing your taxes or updating your website isn't billable. You must also include that in your calculation.
 
@@ -54,7 +54,7 @@ Freelancers usually charge more for short gigs, and less for longer contracts. T
 
 ### VAT is not included in the price
 
-Software developer rates usually exclude the VAT. If you say that you charge 500€ per day, your client will expect to pay 500€ per day plus {{VAT_RATE}}% for the VAT[^2].
+Software developer rates usually exclude the VAT. If you say that you charge 500€ per day, your client will expect to pay 500€ per day plus {{VAT_RATE}}% for the VAT.[^2]
 
 ### Cost of living
 

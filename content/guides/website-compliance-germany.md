@@ -70,7 +70,7 @@ If you use cookies on your website, you must follow a few rules:
     Users must have a way to opt out of tracking cookies, except for cookies that are needed to make the website work. Google Analytics is not needed to make the website work.
 5. **Necessary cookies do not need consent.** You don't need the user's consent to set cookies that contain no [personally identifying information](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-personal-data_en), and that are necessary to make the website work. You don't need to allow the users to opt out of these cookies.[^0]
 6. **Your privacy policy must clearly explain what cookies you set, and what they are used for.**
-7. **Be careful with embedded content.** YouTube videos, Disqus comments, Facebook like buttons and other third-party widgets often set tracking cookies[^1]. Either disable these widgets until you get consent from your users, or don't use them at all.
+7. **Be careful with embedded content.** YouTube videos, Disqus comments, Facebook like buttons and other third-party widgets often set tracking cookies.[^1] Either disable these widgets until you get consent from your users, or don't use them at all.
 
 Here are articles that helped us understand how cookies work with the GDPR:
 
@@ -122,16 +122,16 @@ The rules regarding the tracking of users are defined by the [DSGVO](https://dsg
 
 ## Impressum
 
-The [Impressum](https://en.wikipedia.org/wiki/Impressum) is where you list your contact information. This page is mandatory for all *commercial* websites operated by a German person or organization, even if the website is hosted in another country or has a .com domain[^2]. A personal, non-commercial website does not need an Impressum[^3]. In other words, if you live in Germany and use your website to make money or promote a business, you need an Impressum.
+The [Impressum](https://en.wikipedia.org/wiki/Impressum) is where you list your contact information. This page is mandatory for all *commercial* websites operated by a German person or organization, even if the website is hosted in another country or has a .com domain.[^2] A personal, non-commercial website does not need an Impressum.[^3] In other words, if you live in Germany and use your website to make money or promote a business, you need an Impressum.
 
-An Impressum must be "easily identifiable, directly accessible and constantly available"[^4]. This usually means putting a clearly labelled "Impressum" link at the bottom of every page.
+An Impressum must be "easily identifiable, directly accessible and constantly available".[^4] This usually means putting a clearly labelled "Impressum" link at the bottom of every page.
 
 1. **An Impressum must always contain:**
-    - The full name of the website owner, or the full name of the company including its legal form[^5].
+    - The full name of the website owner, or the full name of the company including its legal form.[^5]
         - [SAP's Impressum](https://www.sap.com/germany/about/legal/impressum.html) shows the company's full legal name: SAP Deutschland SE &amp; Co. KG
-    - An email address that can be used to reach the company or website owner[^6]. You must be quickly reachable electronically, and non-electronically[^7].
-    - The full address of the company or website owner. You cannot use a PO box[^8].
-    - The telephone number and fax number of the website owner. The European Court of Justice says a phone number is not mandatory if the user has alternative options for rapid contact and direct and efficient communication[^9].
+    - An email address that can be used to reach the company or website owner.[^6] You must be quickly reachable electronically, and non-electronically.[^7]
+    - The full address of the company or website owner. You cannot use a PO box.[^8]
+    - The telephone number and fax number of the website owner. The European Court of Justice says a phone number is not mandatory if the user has alternative options for rapid contact and direct and efficient communication.[^9]
 2. **An Impressum must also contain, if applicable:**
     - Details of any supervisory authority the company is a member of.
         - [The Impressum of the Kottident dental clinic](http://www.kottident.de/impressum.html) includes information about the *Zahnärztekammer Berlin*.
@@ -145,9 +145,9 @@ An Impressum must be "easily identifiable, directly accessible and constantly av
     - The names of the managing directors and authorized representatives.
         - [Google's Impressum](https://www.google.de/contact/impressum.html) lists its Chief Executive Officer
 
-It's important to have a complete Impressum. Some lawyers aggressively scrutinise the websites of their clients' competitors, and claim damages when they find a missing or incomplete Impressum[^10]. Website owners even received cease-and-desist letters for not having an Impressum on their Facebook page.
+It's important to have a complete Impressum. Some lawyers aggressively scrutinise the websites of their clients' competitors, and claim damages when they find a missing or incomplete Impressum.[^10] Website owners even received cease-and-desist letters for not having an Impressum on their Facebook page.
 
-The Impressum must be available in the same languages as your website[^11].
+The Impressum must be available in the same languages as your website.[^11]
 
 If you can, [remove your Impressum page from Google search results](https://support.google.com/webmasters/answer/6062607?hl=en&ref_topic=4598466). Some lawyers make money by finding invalid Impressum pages. If they find yours, they might send you an *[[Abmahnung]]*.
 
@@ -155,7 +155,7 @@ If you can, [remove your Impressum page from Google search results](https://supp
 
 Any German resident or company who runs a *commercial* website. It doesn't matter if the website uses a .com domain or is hosted in another country.
 
-**Commercial Facebook, Instagram and social media pages** must also have an Impressum[^5].
+**Commercial Facebook, Instagram and social media pages** must also have an Impressum.[^5]
 
 ### Legal basis
 
@@ -179,17 +179,17 @@ The rules regarding the Impressum are defined by [§ 5 Telemediengesetz (TMG)](h
 
 ## Privacy policy (Datenschutzerklärung)
 
-Your website must have a privacy policy where you outline how you collect, process and use data about your users. If you fail to include a privacy policy on your website, you can receive an *[[Abmahnung]]*[^12].
+Your website must have a privacy policy where you outline how you collect, process and use data about your users. If you fail to include a privacy policy on your website, you can receive an *[[Abmahnung]]*.[^12]
 
 If you need help with your privacy policy, you can either [hire a lawyer](/guides/english-speaking-lawyers-berlin), or use a [privacy policy generator](https://www.iubenda.com/en/privacy-and-cookie-policy-generator).
 
 ### Who needs to do this?
 
-Any German resident or company who runs a website, even for non-commercial purposes[^12].
+Any German resident or company who runs a website, even for non-commercial purposes.[^12]
 
 ### Legal basis
 
-The privacy policy is required by Articles 13 and 14 of the DSGVO[^13].
+The privacy policy is required by Articles 13 and 14 of the DSGVO.[^13]
 
 ### Examples
 
@@ -205,11 +205,11 @@ The privacy policy is required by Articles 13 and 14 of the DSGVO[^13].
 
 Your website should have a terms and conditions ([[AGB]] or *Allgemeine Geschäftsbedingungen*) page. Usually, it's the page where you say "we are not responsible for the accuracy of our content".
 
-The terms in conditions must be available in the same languages as your website[^14].
+The terms in conditions must be available in the same languages as your website.[^14]
 
 ### Who needs to do this?
 
-It is not required unless you have customers, but it's always a good idea[^15].
+It is not required unless you have customers, but it's always a good idea.[^15]
 
 ### Legal basis
 
@@ -252,11 +252,11 @@ The correct attribution format for Creative Commons images is described [in this
 
 ## Sponsored content and affiliate links
 
-The *Telemediengestz* says that ads on a website must be clearly labelled. You can't disguise an ad as genuine content. Otherwise, it's surreptitious advertising (*Schleichwerbung*), and you can get an *[[Abmahnung]]* for "unfair competition"[^16].
+The *Telemediengestz* says that ads on a website must be clearly labelled. You can't disguise an ad as genuine content. Otherwise, it's surreptitious advertising (*Schleichwerbung*), and you can get an *[[Abmahnung]]* for "unfair competition".[^16]
 
 Here are the basic guidelines for ads and sponsored content on your website:
 
-1. **Affiliate links need to be labelled** Affiliate links are "commercial communications" according to [§ 6 TMG](http://www.gesetze-im-internet.de/tmg/__6.html), but not according to [§ 3 MDStV](http://www.internetrecht.justlaw.de/mediendienstestaatsvertrag/3-mdstv.htm), since you placed the links "independently and without financial compensation". Multiple lawyers suggest to mark affiliate links as ad[^17], even if you are not *directly* getting financial compensation for affiliate content. A footnote regarding affiliate links might be insufficient[^21].
+1. **Affiliate links need to be labelled** Affiliate links are "commercial communications" according to [§ 6 TMG](http://www.gesetze-im-internet.de/tmg/__6.html), but not according to [§ 3 MDStV](http://www.internetrecht.justlaw.de/mediendienstestaatsvertrag/3-mdstv.htm), since you placed the links "independently and without financial compensation". Multiple lawyers suggest to mark affiliate links as ad,[^17] even if you are not *directly* getting financial compensation for affiliate content. A footnote regarding affiliate links might be insufficient.[^21]
 2. **Sponsored content needs to be labeled** If you get paid to put a sponsored post on your blog, you need to clearly tell your users that this post is an ad, and tell them who is sponsoring the ad. In other words, you can't disguise an advertisement as an editorial text.
 
 [According to Kanzlei Plutte](https://www.ra-plutte.de/schleichwerbung-sponsored-hinweis-reicht-nicht-aus/), "sponsored content" is not a sufficient label, and you should use a clear word like "advertisement" to label advertising on your website. He backs his opinion with court cases, but admits that Twitter, Facebook and Instagram use the term "sponsored".
@@ -283,10 +283,10 @@ Google [marks sponsored search results as ads](/images/google-sponsored-link.png
 If your website generates income, it's a business. If it's not part of a registered business, you will need to register it with the *Gewerbeamt* and the *[[Finanzamt]]*.
 
 - **If your website qualifies as a [[Gewerbe]], you need a trade licence ([[Gewerbeschein]]).**  
-    You must apply for a trade licence at your local *Gewerbeamt*. In Berlin, you can [do it online](/guides/gewerbeschein). If your business generates more than {{GEWERBESTEUER_FREIBETRAG}}€ in profit per year, you also need to pay the [trade tax (*Gewerbesteuer*)](/glossary/Gewerbesteuer)[^18]. For more information, read my [*Gewerbesteuer* guide](/guides/gewerbesteuer).
+    You must apply for a trade licence at your local *Gewerbeamt*. In Berlin, you can [do it online](/guides/gewerbeschein). If your business generates more than {{GEWERBESTEUER_FREIBETRAG}}€ in profit per year, you also need to pay the [trade tax (*Gewerbesteuer*)](/glossary/Gewerbesteuer).[^18] For more information, read my [*Gewerbesteuer* guide](/guides/gewerbesteuer).
 - **If your website generates income, you need to register it with the [[Finanzamt]].** You register by [filling the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung). You will then receive a tax number (*[[Steuernummer]]*), which you need to put in your website's [[Impressum]].
 - **Making money from your website is considered self-employment.**  
-    If you are not allowed to be self-employed in Germany, you will also need to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa). You can get a freelance visa in addition to an existing visa[^19].
+    If you are not allowed to be self-employed in Germany, you will also need to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa). You can get a freelance visa in addition to an existing visa.[^19]
 
 **Related guides:**
 

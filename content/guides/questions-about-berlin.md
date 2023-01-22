@@ -45,7 +45,7 @@ If you speak German, these communities can also help you
 - **[Welcome Center](https://www.berlin.de/willkommenszentrum/en/)** of the Commissioner for Integration and Migration  
     They offer legal help with immigration. They speak English, and many other languages.
 - **[The Imagine Foundation](https://www.joinimagine.com/)**  
-    If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English. This is a free service[^0].
+    If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English. This is a free service.[^0]
 - **[Red Tape Translation](https://www.redtapetranslation.com/)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
 - **[Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/)**  
@@ -89,13 +89,13 @@ If you speak German, these communities can also help you
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung), they can help you find a lawyer. Your legal insurance covers the cost of talking to a lawyer. They might have a legal hotline that you can call for free.
 - **Tenant associations** (*[[Mieterverein]]*)  
-    A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 100€ per year[^1]. If you have a low income, it can be cheaper[^2]. Some unions have a waiting period before they help you, and some don't[^3]. If you don't speak German, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English and in other languages.
+    A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 100€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you, and some don't.[^3] If you don't speak German, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English and in other languages.
 - **Legaltech** (*Rechtsdienstleister*)  
     Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/saving-money-germany#lower-your-rent) and many other things. I reviewed them [here](/guides/wenigermiete-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
 - **Workers union** (*Gewerkschaft*)  
-    If you are in a union, you can usually get free legal help, but only for work-related problems[^4].
+    If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
 
-**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[^5]. You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[ALG II]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible[^6]. You will probably need to speak German.
+**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^5] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[ALG II]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^6] You will probably need to speak German.
 
 **If you have [legal insurance](/glossary/Rechtsschutzversicherung)**, it covers talking to a lawyer. They usually have a legal hotline that you can call for free.
 

@@ -19,13 +19,13 @@ This guide shows you how to do it.
 
 ### What is the dog tax?
 
-In Berlin, you must pay a dog tax (*[[Hundesteuer]]*)[^0]. **It costs {{HUNDESTEUER_FIRST_DOG|cur}}€/year** for one dog. It costs {{HUNDESTEUER_MORE_DOGS|cur}}€/year for each extra dog[^1]. You pay the tax once per year by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). They take the money automatically with a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).
+In Berlin, you must pay a dog tax (*[[Hundesteuer]]*).[^0] **It costs {{HUNDESTEUER_FIRST_DOG|cur}}€/year** for one dog. It costs {{HUNDESTEUER_MORE_DOGS|cur}}€/year for each extra dog.[^1] You pay the tax once per year by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). They take the money automatically with a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).
 
-Guide dogs are exempt from the dog tax[^0]. If you adopt a dog from an animal shelter (*Tierheim*), you pay no dog tax for one year[^1]. You must still register your adopted dog within 1 month, but it's free.
+Guide dogs are exempt from the dog tax.[^0] If you adopt a dog from an animal shelter (*Tierheim*), you pay no dog tax for one year.[^1] You must still register your adopted dog within 1 month, but it's free.
 
 ### How to register your dog
 
-To pay the dog tax, you must register your dog at the *[[Finanzamt]]*. After your dog is born, or after you move to Berlin, you have 1 month to register your dog[^0]. When you leave Berlin, you must deregister your dog to stop paying the dog tax.
+To pay the dog tax, you must register your dog at the *[[Finanzamt]]*. After your dog is born, or after you move to Berlin, you have 1 month to register your dog.[^0] When you leave Berlin, you must deregister your dog to stop paying the dog tax.
 
 1. Fill the [registration form](https://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) (*Hundesteuer - Anmeldung*) and the [direct debit authorisation](https://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php) (*[[SEPA-Lastschriftmandat]]*).
 2. Send the registration form to your local *[[Finanzamt]]* by email, by fax or by post. - [Find your local *Finanzamt*](/out/finanzamt-finder)
@@ -41,7 +41,7 @@ When you register for dog tax, you get a dog tag (*[[Hundesteuermarke]]*) by pos
 
 ### How to deregister your dog
 
-If you leave Berlin, if another person adopts your dog, or if your dog dies, you must deregister it[^2]. When you deregister your dog, you stop paying the dog tax.
+If you leave Berlin, if another person adopts your dog, or if your dog dies, you must deregister it.[^2] When you deregister your dog, you stop paying the dog tax.
 
 1. Fill the **[deregistration form](https://www.berlin.de/sen/finanzen/steuern/downloads/artikel.9740.php)** (*Hundesteuer - A**b**meldung*).
 2. Send the form and the dog tag (*[[Hundesteuermarke]]*) to your local *[[Finanzamt]]* by email, by fax or by post. - [Find your local *Finanzamt*](/out/finanzamt-finder)
@@ -50,7 +50,7 @@ You will get a confirmation letter around 4 weeks later.
 
 ## How to register in the Hunderegister
 
-In Berlin, all dogs must be in the dog registry (*[[Hunderegister]]*)<sup>[§11](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016V1P11)</sup>. You can [register your dog online](https://hunderegister.berlin.de/), by post or on the phone[^3]. It costs {{HUNDEREGISTER_FEE|cur}}€.
+In Berlin, all dogs must be in the dog registry (*[[Hunderegister]]*)<sup>[§11](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016V1P11)</sup>. You can [register your dog online](https://hunderegister.berlin.de/), by post or on the phone.[^3] It costs {{HUNDEREGISTER_FEE|cur}}€.
 
 **[Berlin dog register](https://hunderegister.berlin.de/login)** (in German) - Berlin.de
 
@@ -60,7 +60,7 @@ In Berlin, Pitbulls, American Staffordshire Terriers and Bull Terriers are consi
 
 ### How to register your dog
 
-You must [register dangerous breeds at the *Ordnungsamt*](https://service.berlin.de/dienstleistung/326263/). It costs {{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}€[^4].
+You must [register dangerous breeds at the *Ordnungsamt*](https://service.berlin.de/dienstleistung/326263/). It costs {{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}€.[^4]
 
 **[Registration of dangerous breeds](https://service.berlin.de/dienstleistung/326263/)** (in German) - Berlin.de
 

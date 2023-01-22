@@ -38,15 +38,15 @@ Your options depend on your occupation and your income:
 - **If you are an employee**, your options depend on your income. Your employer does not decide which insurance you can have. If you lose your job, you do not lose your health insurance. 
     - **If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance.
     - **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.
-    - **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance[^0].
+    - **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0]
     - **If you are a civil servant**, you can choose public or private health insurance.
-- **If you are a student**, you can choose public or private health insurance[^1][^26]. If you are over 30 years old, and you just moved to Germany, you might be forced to get private health insurance.
-- **If you are self-employed**, you can choose public or private health insurance[^1][^26]. If you have a low income, private health insurers might reject you.
-- **If you are a doctor**, you can choose public or private health insurance[^1][^26].
+- **If you are a student**, you can choose public or private health insurance[^1].[^26] If you are over 30 years old, and you just moved to Germany, you might be forced to get private health insurance.
+- **If you are self-employed**, you can choose public or private health insurance[^1].[^26] If you have a low income, private health insurers might reject you.
+- **If you are a doctor**, you can choose public or private health insurance[^1].[^26]
 
 ## Public health insurance
 
-89% of German residents have public health insurance (*[[gesetzliche Krankenversicherung]]* or *[GKV](/glossary/gesetzliche%20Krankenversicherung)*)[^2]. It's sometimes called statutory health insurance.
+89% of German residents have public health insurance (*[[gesetzliche Krankenversicherung]]* or *[GKV](/glossary/gesetzliche%20Krankenversicherung)*).[^2] It's sometimes called statutory health insurance.
 
 ### Cost of public health insurance
 
@@ -55,28 +55,28 @@ Your options depend on your occupation and your income:
 The cost depends on your occupation:
 
 - **If you are an employee**, you pay 9.2% to 10.3% of your income. Your employer takes that amount from your salary every month.
-    - **If you make more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year**[^3], you pay the [maximum price](/glossary/H%C3%B6chstbeitrag): around {{GKV_ESTIMATED_EMPLOYEE_MAX_CONTRIBUTION|cur}}€ per month[^4]. The maximum price is adjusted every year[^5], so might pay a bit more every year.
+    - **If you make more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year**,[^3] you pay the [maximum price](/glossary/H%C3%B6chstbeitrag): around {{GKV_ESTIMATED_EMPLOYEE_MAX_CONTRIBUTION|cur}}€ per month.[^4] The maximum price is adjusted every year,[^5] so might pay a bit more every year.
     - **If you make less than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year**, you pay 9.2% to 10.3% of your income.
-    - **If you have a [minijob](/glossary/Minijob)**, you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month[^27]. Your employer does not pay half of it[^6]. Your spouse's insurance can cover you for free. If you are under 25 years old, your parents' insurance can cover you for free. If you are a student, you pay the student price (see "If you are a student").
-    - **If you are a trainee** (*[[Azubi]]*), you pay the same as other employees, but there is no [minimum price](/glossary/Mindestbeitrag). If you make less than {{GKV_AZUBI_MAX_FREE_INCOME|cur}}€ per month, you pay nothing[^9]. Your parents' and your spouse's insurance can't cover you.
+    - **If you have a [minijob](/glossary/Minijob)**, you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month.[^27] Your employer does not pay half of it.[^6] Your spouse's insurance can cover you for free. If you are under 25 years old, your parents' insurance can cover you for free. If you are a student, you pay the student price (see "If you are a student").
+    - **If you are a trainee** (*[[Azubi]]*), you pay the same as other employees, but there is no [minimum price](/glossary/Mindestbeitrag). If you make less than {{GKV_AZUBI_MAX_FREE_INCOME|cur}}€ per month, you pay nothing.[^9] Your parents' and your spouse's insurance can't cover you.
 - **If you are a student,** you usually pay a lower student tariff. It depends on your age:
-    - **If you are under 25 years old**, you pay the student tariff: around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month[^7]. If you make less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, your parents' or your spouse's insurance can cover you for free[^28]. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you.
-    - **If you are between 25 and 30 years old**, you pay the student tarif: around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month[^7]. If you make less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, your spouse's insurance can cover you for free. Your parents' insurance can't cover you. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you.
+    - **If you are under 25 years old**, you pay the student tariff: around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month.[^7] If you make less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, your parents' or your spouse's insurance can cover you for free.[^28] If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you.
+    - **If you are between 25 and 30 years old**, you pay the student tarif: around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month.[^7] If you make less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, your spouse's insurance can cover you for free. Your parents' insurance can't cover you. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you.
     - **If you are over 30 years old**, you are too old for the student tariff. You pay the same price as self-employed people (see "If you are self-employed"). Your spouse's insurance can cover you for free. Your parents' insurance can't cover you.
 - **If you are self-employed**, you pay 18.3% to 20.5% of your income. It's taken from your bank account every month. The cost is based on your *estimated* income. It's adjusted every year. If you paid too much, you get money back later. If you did not pay enough, you need to pay more later.
-    - **If you make more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year**[^3], you pay the [maximum price](/glossary/H%C3%B6chstbeitrag) for the self-employed: around {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month.
-    - **If you make less than {{GKV_MIN_INCOME|cur}}€ per month**, you pay the minimum price (*[[Mindestbeitrag]]*): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month[^8].
+    - **If you make more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year**,[^3] you pay the [maximum price](/glossary/H%C3%B6chstbeitrag) for the self-employed: around {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month.
+    - **If you make less than {{GKV_MIN_INCOME|cur}}€ per month**, you pay the minimum price (*[[Mindestbeitrag]]*): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month.[^8]
     - **If you join the [[Künstlersozialkasse]]**, they pay half of your health insurance. You pay 9.2% to 10.3% of your income per month. - [More information](/guides/ksk-kuenstlersozialkasse)
-- **If you are unemployed**[^9], you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month[^0]. Your parents' or spouse's insurance can cover you for free. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you. If you get [[ALG I]] or [[ALG II]], the government pays for your health insurance[^10]. During your first month of unemployment, your health insurance is free.
+- **If you are unemployed**,[^9] you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month.[^0] Your parents' or spouse's insurance can cover you for free. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you. If you get [[ALG I]] or [[ALG II]], the government pays for your health insurance.[^10] During your first month of unemployment, your health insurance is free.
 
 ### Benefits of public health insurance
 
 - **It matches your income**  
-    Public health insurance costs a percentage of your income. If you make less money, you pay less. If you get [[ALG I]] or [[ALG II]], your health insurance is free[^11]. Private health insurance does not adjust to your income; you pay the same even if you lose your job.
+    Public health insurance costs a percentage of your income. If you make less money, you pay less. If you get [[ALG I]] or [[ALG II]], your health insurance is free.[^11] Private health insurance does not adjust to your income; you pay the same even if you lose your job.
 - **It's cheaper for students**  
-    If you are a student, you pay around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month until you are 31 years old[^0]. Public health insurance is usually the best option for students.
+    If you are a student, you pay around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month until you are 31 years old.[^0] Public health insurance is usually the best option for students.
 - **It covers your dependents for free**   
-    Public health insurance covers your children and your unemployed spouse. It's called *[[Familienversicherung]]*. Your spouse is covered if (s)he earns less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month[^12]. Your children are covered until they are 23 years old, or 25 years old if they are students. With private insurance, you pay for each person you cover. If you plan to have children, public health insurance is often the best option.
+    Public health insurance covers your children and your unemployed spouse. It's called *[[Familienversicherung]]*. Your spouse is covered if (s)he earns less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month.[^12] Your children are covered until they are 23 years old, or 25 years old if they are students. With private insurance, you pay for each person you cover. If you plan to have children, public health insurance is often the best option.
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, reimbursement or deductibles. There is no paperwork; it just works.
 - **You don't pay more for pre-existing conditions**  
@@ -87,11 +87,11 @@ The cost depends on your occupation:
 - **It's expensive for young professionals**  
     If you have a high income, you pay more. If you are young, healthy and well-paid, private health insurance is often cheaper.
 - **Doctors prefer private insurance**  
-    With public health insurance, you must wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance[^13]. With private health insurance, you can see doctors faster.
+    With public health insurance, you must wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance.[^13] With private health insurance, you can see doctors faster.
 - **Special treatments are not included**  
     Public health insurance covers *necessary* care, not luxuries. If you want special treatments, you must pay the extra cost yourself. For example, it only covers amalgam tooth fillings. If you want fancy composite fillings, you must pay for the difference. Tooth cleanings are not fully covered. Eyeglasses are rarely covered. Private insurance lets you choose better coverage.
 - **Not everyone is accepted**  
-    If you are a self-employed, and you just moved from a non-EU country, it's really hard to get public health insurance. Public insurance companies are not forced to cover self-employed people[^14]. Most expat freelancers are forced to choose private or expat health insurance.
+    If you are a self-employed, and you just moved from a non-EU country, it's really hard to get public health insurance. Public insurance companies are not forced to cover self-employed people.[^14] Most expat freelancers are forced to choose private or expat health insurance.
 
 ### What it covers
 
@@ -105,7 +105,7 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 ### Which public health insurance should I choose?
 
-**It does not really matter.** Public health insurance prices and coverage are set by law<sup>1</sup>. [Public health insurance companies](/glossary/Krankenkasse) are almost the same. The biggest difference between them is their extra contribution ([*Zusatsbeitrag*](/glossary/Zusatzbeitrag)), and their customer service[^15].
+**It does not really matter.** Public health insurance prices and coverage are set by law<sup>1</sup>. [Public health insurance companies](/glossary/Krankenkasse) are almost the same. The biggest difference between them is their extra contribution ([*Zusatsbeitrag*](/glossary/Zusatzbeitrag)), and their customer service.[^15]
 
 If you don't speak German, [Techniker Krankenkasse](/out/signup-tk) and [Barmer](/out/barmer) speak English.
 
@@ -125,7 +125,7 @@ A health insurance broker can help you choose health insurance. Their help is fr
 
 ## Private health insurance
 
-11% of German residents have private health insurance (*[[private Krankenversicherung]]* or *[PKV](/glossary/private%20Krankenversicherung)*)[^16]. Not everyone can choose private health insurance.
+11% of German residents have private health insurance (*[[private Krankenversicherung]]* or *[PKV](/glossary/private%20Krankenversicherung)*).[^16] Not everyone can choose private health insurance.
 
 ### Cost of private health insurance
 
@@ -137,13 +137,13 @@ The cost depends on 3 things:
 
 After you join, your health does not affect the cost of your insurance. You can get very sick, and still pay the same price.
 
-You can pay more and get better coverage. You can choose a higher deductible (*[[Selbstbeteiligung]]*) and pay less[^17]. Some insurers give you a discount if you don't use your insurance.
+You can pay more and get better coverage. You can choose a higher deductible (*[[Selbstbeteiligung]]*) and pay less.[^17] Some insurers give you a discount if you don't use your insurance.
 
 **[Quick price estimation](/out/feather-private-estimate)** - Feather
 
 **[Price comparison tool](/out/tarifcheck-health)** (in German) - Tarifcheck
 
-Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself[^18].
+Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself.[^18]
 
 ### Benefits of private health insurance
 
@@ -152,7 +152,7 @@ Your employer pays half of your health insurance. If you are self-employed, you 
 - **You choose your coverage**  
     Your insurance can cover dental care, travel insurance, special treatments etc. You can choose the minimum coverage to pay less.
 - **You can pay less with a deductible**  
-    For example, if you have a 3,000€ per year deductible (*[[Selbstbeteiligung]]*), you pay the first 3,000€ in medical fees yourself, after that, your insurance pays for everything[^17]. If you have a high deductible, your monthly payments are lower. If you never go to the doctor, you can save a lot of money.
+    For example, if you have a 3,000€ per year deductible (*[[Selbstbeteiligung]]*), you pay the first 3,000€ in medical fees yourself, after that, your insurance pays for everything.[^17] If you have a high deductible, your monthly payments are lower. If you never go to the doctor, you can save a lot of money.
 - **You pay less if you don't use it**  
     Many private health insurers have a no-claims bonus: if you don't use your health insurance, your insurance gets cheaper. If you never get sick, you can save a lot of money.
 
@@ -167,7 +167,7 @@ Your employer pays half of your health insurance. If you are self-employed, you 
 - **It can get expensive when you are old**  
     When you retire, you have a lower income, but your insurance does not get cheaper. After 55 years old, it's almost impossible to go back to public health insurance. You can be stuck with a very expensive health insurance. If you join the private system when you are young, your insurer saves a part of your payments for later, so your insurance won't be too expensive when you are old.
 - **Private is expensive if you have pre-existing health problems**  
-    Private health insurance often requires a health test before you join. If you have serious pre-existing health problems, they usually reject you. If they accept you, they can charge a lot more[^14]. For example, if you have a chronic disease, get psychotherapy, or need expensive medication, they will reject you. After you are accepted, the price does not change if you get sick.
+    Private health insurance often requires a health test before you join. If you have serious pre-existing health problems, they usually reject you. If they accept you, they can charge a lot more.[^14] For example, if you have a chronic disease, get psychotherapy, or need expensive medication, they will reject you. After you are accepted, the price does not change if you get sick.
 
 With private health insurance, there is no nursing care insurance (*Pflegeversicherung*) surcharge. It's included in the price of your insurance.
 
@@ -212,11 +212,11 @@ Use [Tarifcheck](/out/tarifcheck-health) to compare private health insurance pri
 
 ### Switching from private to public health insurance
 
-Switching from private to public insurance can be really hard. Sometimes, it's impossible[^19]. If you are *[[freiwillig versichert]]*, public health insurers are not forced to accept you, so you can be stuck with private health insurance.
+Switching from private to public insurance can be really hard. Sometimes, it's impossible.[^19] If you are *[[freiwillig versichert]]*, public health insurers are not forced to accept you, so you can be stuck with private health insurance.
 
-If you lower your income below {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€, you become *[[Pflichtversichert]]* again, and you are forced to use public health insurance. This is one way to switch from private to public health insurance. This does not work for self-employed people, because they are never *[[Pflichtversichert]]*[^20]. They must become employees to use this trick.
+If you lower your income below {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€, you become *[[Pflichtversichert]]* again, and you are forced to use public health insurance. This is one way to switch from private to public health insurance. This does not work for self-employed people, because they are never *[[Pflichtversichert]]*.[^20] They must become employees to use this trick.
 
-If you are over 55 years old, you can't switch to public insurance anymore, even if your income is below {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€. It's almost impossible[^21]. Otherwise, people would have private health insurance when it's cheaper, and switch to public health insurance when they are old. Public health insurance companies would go bankrupt!
+If you are over 55 years old, you can't switch to public insurance anymore, even if your income is below {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€. It's almost impossible.[^21] Otherwise, people would have private health insurance when it's cheaper, and switch to public health insurance when they are old. Public health insurance companies would go bankrupt!
 
 ## Travel insurance
 
@@ -237,11 +237,11 @@ There are **three reasons to get expat health insurance**:
 ### Compared to public and private health insurance
 
 - **It's not accepted when you renew a residence permit**  
-    Expat insurance is rarely accepted when you renew a [residence permit](/glossary/Aufenthaltstitel), or when you apply for a different residence permit[^29]. You must have real public or private health insurance.
+    Expat insurance is rarely accepted when you renew a [residence permit](/glossary/Aufenthaltstitel), or when you apply for a different residence permit.[^29] You must have real public or private health insurance.
 - **It can expire after 5 years**  
-    Some expat insurances are only valid for 5 years[^22]. Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive[^30]. If you settle in Germany, switch to real health insurance [as soon as possible](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance).
+    Some expat insurances are only valid for 5 years.[^22] Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive.[^30] If you settle in Germany, switch to real health insurance [as soon as possible](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance).
 - **It's very expensive when you are old**  
-    Health insurance gets more expensive every year. Compared to public or private health insurance, the cost of expat insurance rises really quickly[^22]. If your expat insurance does not expire, it can become really expensive when you are old.
+    Health insurance gets more expensive every year. Compared to public or private health insurance, the cost of expat insurance rises really quickly.[^22] If your expat insurance does not expire, it can become really expensive when you are old.
 - **The coverage is not as good**  
     You usually pay a deductible for basic treatments. Simple check-ups and dentist visits are rarely covered. Long term treatments (like cancer) are 100% covered, without any deductible.
 
@@ -258,8 +258,8 @@ There are **three reasons to get expat health insurance**:
 If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. If you get healthcare in Germany, your health insurance in your home country pays for it.
 
 - **If you stay in Germany temporarily**, your EHIC covers you. You do not need extra health insurance in Germany.
-- **If you are an Erasmus student from another EU country**, your EHIC covers you[^23]. You can use your EHIC card even if you study in Germany for your entire degree[^32]. You do not need extra German health insurance unless you start working.
-- **When you start working in Germany**, your EHIC does not cover you anymore. If you make more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance[^24].
+- **If you are an Erasmus student from another EU country**, your EHIC covers you.[^23] You can use your EHIC card even if you study in Germany for your entire degree.[^32] You do not need extra German health insurance unless you start working.
+- **When you start working in Germany**, your EHIC does not cover you anymore. If you make more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
 
 If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
 
@@ -270,7 +270,7 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 ### The Künstlersozialkasse (KSK)
 
-The [*Künstlersozialkasse*](/glossary/K%C3%BCnstlersozialkasse) (KSK) is a social fund for freelance artists, publicists and art teachers. It's funded by the government, and by businesses who hire freelance artists[^25]. When you are a KSK member, they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung).
+The [*Künstlersozialkasse*](/glossary/K%C3%BCnstlersozialkasse) (KSK) is a social fund for freelance artists, publicists and art teachers. It's funded by the government, and by businesses who hire freelance artists.[^25] When you are a KSK member, they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung).
 
 If you can, you should apply for the *Künstlersozialkasse*. It's a really good deal.
 

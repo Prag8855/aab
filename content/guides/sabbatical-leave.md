@@ -39,7 +39,7 @@ Talk to your HR department. They will tell you if they have such a program at yo
 
 The second best option is unpaid leave (*unbezahlter Urlaub*).
 
-You have the right to take unpaid leave in some situations[^0]:
+You have the right to take unpaid leave in some situations:[^0]
 
 - Unexpected emergencies
 - Parental leave (*Elternzeit*)
@@ -48,7 +48,7 @@ You have the right to take unpaid leave in some situations[^0]:
 - Certain volunteer activities
 - If your work contract gives you the right to unpaid leave
 
-In other situations, your employer can refuse to let you take unpaid leave[^1].
+In other situations, your employer can refuse to let you take unpaid leave.[^1]
 
 Benefits of unpaid leave:
 
@@ -58,14 +58,14 @@ Benefits of unpaid leave:
 Disadvantages:
 
 - **You lose your salary and benefits**  
-    Your employer does not pay your salary or any benefits. After 1 month, you must pay for your own health insurance[^2]. You will pay the same tariff as unemployed people. [Calculate it yourself](/tools/health-insurance-calculator). If your spouse or your parents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), they can cover you for free[^3].
+    Your employer does not pay your salary or any benefits. After 1 month, you must pay for your own health insurance.[^2] You will pay the same tariff as unemployed people. [Calculate it yourself](/tools/health-insurance-calculator). If your spouse or your parents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), they can cover you for free.[^3]
 - **You keep your job**  
     You are still employed with the same company. You can't start a competing business or work for the competition.
 
 ### How to take unpaid leave
 
 1. Read your work contract. You might have the *right* to unpaid leave.
-2. Look if other employees have taken unpaid leave. You have the right to the same treatment as your coworkers. If they took unpaid leave, you can do it too[^4].
+2. Look if other employees have taken unpaid leave. You have the right to the same treatment as your coworkers. If they took unpaid leave, you can do it too.[^4]
 3. Talk to your manager and your HR department. You must plan this together.
 
 ## Option 3: Quit your job

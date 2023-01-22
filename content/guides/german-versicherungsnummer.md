@@ -26,14 +26,14 @@ Your health insurance number is also called a *Versicherungsnummer*, but it's no
 
 ## What does the Sozialversicherungsnummer look like?
 
-The German social insurance number has this format: **12 123456 A 123**[^0].
+The German social insurance number has this format: **12 123456 A 123**.[^0]
 
-It is divided in 4 parts[^1]:
+It is divided in 4 parts:[^1]
 
-1. The area number of the office that registered you. Berlin-Brandenburg is "04"[^1].
+1. The area number of the office that registered you. Berlin-Brandenburg is "04".[^1]
 2. Your birth date. If you are born on September 23, 1992, it would be "230992".
 3. The first letter of your last name. If your name is John Smith, it would be "S".
-4. The last part is used to differentiate you from people with the same name and birth date[^2].
+4. The last part is used to differentiate you from people with the same name and birth date.[^2]
 
 ## Why do I need this number?
 
@@ -50,17 +50,17 @@ If you just moved to Germany, you don't have a *Sozialversicherungsnummer* yet.
 - **If you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     You get a *Sozialversicherungsnummer* automatically after you apply for public health insurance. You will get it later by post.
 - **If you get [private health insurance](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**  
-    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can also visit a local branch and do it in person. Your [health insurance broker](/guides/german-health-insurance#insurance-brokers) can do it for you[^3]. Your employer can sometimes do it for you[^4].
+    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can also visit a local branch and do it in person. Your [health insurance broker](/guides/german-health-insurance#insurance-brokers) can do it for you.[^3] Your employer can sometimes do it for you.[^4]
 
 You will get your *Sozialversicherungsnummer* by post to your German address. It takes 1 to 6 weeks, but most of the time, it takes less than 2 weeks. If you need it now, go to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You will get it on the same day.
 
-You will get a *Sozialversicherungsausweis* in a letter from the [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung). Here is a picture of it[^5]:
+You will get a *Sozialversicherungsausweis* in a letter from the [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung). Here is a picture of it:[^5]
 
 [![Sozialversicherungsausweis2017](/images/sozialversicherungsausweis2017.jpg "Your Sozialversicherungsausweis contains your social security number")](/images/sozialversicherungsausweis2017.jpg)
 
 ### If you have public health insurance
 
-If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), **you can get your Sozialversicherungsnummer from your health insurer**[^6]. Ask your health insurer for a membership confirmation document (*Mitgliedsbescheinigung*) or a *Sozialversicherungsausweis*. These documents have your *Sozialversicherungsnummer.* You can usually do this online. It takes a few minutes, and it's free.
+If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), **you can get your Sozialversicherungsnummer from your health insurer**.[^6] Ask your health insurer for a membership confirmation document (*Mitgliedsbescheinigung*) or a *Sozialversicherungsausweis*. These documents have your *Sozialversicherungsnummer.* You can usually do this online. It takes a few minutes, and it's free.
 
 - [How to get your *Sozialversicherungsnummer* with TK](https://www.tk.de/service/form/2060552/sozialversicherungsausweisbestellen.form) (in German)
 - [How to get your *Sozialversicherungsnummer* with Barmer](https://www.barmer.de/meine-barmer-eingeloggt/antraege-und-bescheinigungen) (in German)
@@ -69,7 +69,7 @@ If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenv
 
 ### If you have private health insurance
 
-If you have [private health insurance](/glossary/private%20Krankenversicherung), and you never had [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before, you probably don't have a *Sozialversicherungsnummer* yet[^7]. **You must [ask the Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) to give you one**[^8].
+If you have [private health insurance](/glossary/private%20Krankenversicherung), and you never had [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before, you probably don't have a *Sozialversicherungsnummer* yet.[^7] **You must [ask the Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) to give you one**.[^8]
 
 There are many ways to do this:
 
@@ -80,9 +80,9 @@ There are many ways to do this:
 - **Ask your health insurance broker**  
     If you get your health insurance from a broker, they can also help you apply for the *Sozialversicherungsnummer*.
 - **Ask your employer**  
-    Your employer can help you apply for a *Sozialversicherungsnummer*[^9]. Ask your HR department.
+    Your employer can help you apply for a *Sozialversicherungsnummer*.[^9] Ask your HR department.
 
-1 to 6 weeks later, you will get a letter with your *Sozialversicherungsnummer*[^10]. Most of the time, it takes less than 2 weeks. If you go in person, you will get it instantly.
+1 to 6 weeks later, you will get a letter with your *Sozialversicherungsnummer*.[^10] Most of the time, it takes less than 2 weeks. If you go in person, you will get it instantly.
 
 ### Other ways to find your social insurance number
 

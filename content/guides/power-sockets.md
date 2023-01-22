@@ -9,7 +9,7 @@ Before you [visit](/guides/categories/visiting-berlin) or [move to Germany](/gui
 
 ## German power socket type
 
-German houses have **Type F** power outlets[^0]. They're also called Schuko or CEE 7/3 sockets. This is the same socket as in [most European countries](https://commons.wikimedia.org/wiki/File:Map_of_current_European_mains_electricity_plug_types.png), and many Asian countries.
+German houses have **Type F** power outlets.[^0] They're also called Schuko or CEE 7/3 sockets. This is the same socket as in [most European countries](https://commons.wikimedia.org/wiki/File:Map_of_current_European_mains_electricity_plug_types.png), and many Asian countries.
 
 ![Steckdose Schuko](/images/Steckdose-Schuko.jpg "A standard German Schuko power outlet")
 

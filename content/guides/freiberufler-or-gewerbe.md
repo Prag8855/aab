@@ -24,10 +24,10 @@ If you sell products, you are not a *Freiberufler*. For example, software develo
 
 Benefits of being a *Freiberufler*:
 
-- You do not need to register in the *[[Handelsregister]]*, the German Trade Register[^0].
+- You do not need to register in the *[[Handelsregister]]*, the German Trade Register.[^0]
 - You do not need a trade licence (*[[Gewerbeschein]]*)
-- You do not need to pay the trade tax (*[[Gewerbesteuer]]*)[^1].
-- You do not need to use double entry bookkeeping[^2].
+- You do not need to pay the trade tax (*[[Gewerbesteuer]]*).[^1]
+- You do not need to use double entry bookkeeping.[^2]
 
 The *[[Finanzamt]]* decides if you are a *Freiberufler* when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).
 
@@ -47,9 +47,9 @@ Compared to freelancers, businesses have a few special obligations:
 
 ### Special rules for small businesses
 
-Small businesses (*[[Kleinunternehmer]]*) do not need to register in the *[[Handelsregister]]*, and they do not need to use double entry bookkeeping[^6]. This makes things much easier for them. However, they still need to get a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*)[^4].
+Small businesses (*[[Kleinunternehmer]]*) do not need to register in the *[[Handelsregister]]*, and they do not need to use double entry bookkeeping.[^6] This makes things much easier for them. However, they still need to get a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*).[^4]
 
-Small businesses can choose not to charge [VAT](/glossary/Umsatzsteuer)[^5]. Not charging VAT saves you a lot of work, but it prevents you from claiming VAT refunds.
+Small businesses can choose not to charge [VAT](/glossary/Umsatzsteuer).[^5] Not charging VAT saves you a lot of work, but it prevents you from claiming VAT refunds.
 
 **[How VAT works for small businesses ➞](/guides/value-added-tax#exemption-for-small-businesses)**
 
@@ -59,27 +59,27 @@ Small businesses can choose not to charge [VAT](/glossary/Umsatzsteuer)[^5]. Not
 
 All businesses except small businesses and freelancers must be listed in the *[[Handelsregister]]*, the German Trade Register.
 
-Small businesses can choose to be listed in the *Handelsregister*[^6], but they don't have to. A *Handelsregister* has benefits, but it comes with lots of fees and responsibilities[^13]. For most small businesses, it's not worth it.
+Small businesses can choose to be listed in the *Handelsregister*,[^6] but they don't have to. A *Handelsregister* has benefits, but it comes with lots of fees and responsibilities.[^13] For most small businesses, it's not worth it.
 
 You can request an entry in the *Handelsregister* when you fill the *[Fragebogen zur steuerlichen Erfassung](/guides/fragebogen-zur-steuerlichen-erfassung)*.
 
 ### The Gewerbeanmeldung (business registration)
 
-You must register your *Gewerbe* with the city's *Gewerbeamt*[^7] and obtain a *[[Gewerbeschein]]*. This process is called the *Gewerbeanmeldung*. Small businesses (*[[Kleinunternehmer]]*) are not exempt from this[^8].
+You must register your *Gewerbe* with the city's *Gewerbeamt*[^7] and obtain a *[[Gewerbeschein]]*. This process is called the *Gewerbeanmeldung*. Small businesses (*[[Kleinunternehmer]]*) are not exempt from this.[^8]
 
 In Berlin, [the *Gewerbeanmeldung* can be done online](https://service.berlin.de/dienstleistung/121921/en/). It costs 15 to 31€.
 
 ### The Gewerbesteuer (trade tax)
 
-All businesses must pay the *Gewerbesteuer*[^9][^11], unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year[^10]. See [this guide](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/) for a detailed explanation of the trade tax.
+All businesses must pay the *Gewerbesteuer*[^9],[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year.[^10] See [this guide](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/) for a detailed explanation of the trade tax.
 
-Small businesses (*Kleinunternehmer*) are not exempt from the trade tax[^11], unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year.
+Small businesses (*Kleinunternehmer*) are not exempt from the trade tax,[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year.
 
 **[What is the trade tax? ➞](/guides/gewerbesteuer)**
 
 ### Double entry bookkeeping
 
-*Gewerbe* that generate more than {{DOUBLE_ENTRY_MIN_INCOME}}€ in [profit](/glossary/Gewinn) or more than {{DOUBLE_ENTRY_MIN_REVENUE}}€ in [revenue](/glossary/Umsatz) **and** that are listed in the *[[Handelsregister]]* must use double entry bookkeeping[^12].
+*Gewerbe* that generate more than {{DOUBLE_ENTRY_MIN_INCOME}}€ in [profit](/glossary/Gewinn) or more than {{DOUBLE_ENTRY_MIN_REVENUE}}€ in [revenue](/glossary/Umsatz) **and** that are listed in the *[[Handelsregister]]* must use double entry bookkeeping.[^12]
 
 See [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalance.com/what-is-best-single-entry-or-double-entry-bookkeeping-393004) for an explanation of what double entry bookkeeping is. In essence, it's a lot more work, but it makes sense for larger businesses with a lot of customers and suppliers.
 

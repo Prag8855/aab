@@ -10,7 +10,7 @@ Related_guides: guides/haftpflichtversicherung.md, guides/insurance.md, guides/m
 
 Home contents insurance or household insurance (*Hausratversicherung*) insures your furniture, your appliances, and the other movable things in your house.
 
-For example[^0]:
+For example:[^0]
 
 - There is a fire on your building, and you lose everything you have.
 - A water leak destroys your furniture and electronics.
@@ -18,7 +18,7 @@ For example[^0]:
 
 It sometimes covers laptops and bicycles away from home. It sometimes covers calling a locksmith when you lock yourself out.
 
-Household insurance costs less than 5€ per month. 76% of Germans have it[^1].
+Household insurance costs less than 5€ per month. 76% of Germans have it.[^1]
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 

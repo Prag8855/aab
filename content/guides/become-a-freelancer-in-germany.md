@@ -13,7 +13,7 @@ This guide is for people who do not live in Germany yet. If you already live in 
 
 ## Are you really a freelancer?
 
-Some employers hire "freelancers", but treat them like employees. This way, they don't have to pay social and healthcare. This is called fake self-employment ([*Scheinselbstständigkeit*](/glossary/Scheinselbstst%C3%A4ndigkeit)), and it's illegal[^0].
+Some employers hire "freelancers", but treat them like employees. This way, they don't have to pay social and healthcare. This is called fake self-employment ([*Scheinselbstständigkeit*](/glossary/Scheinselbstst%C3%A4ndigkeit)), and it's illegal.[^0]
 
 **[What is fake self-employment?](https://www.redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)** - Red Tape Translation
 
@@ -25,7 +25,7 @@ You don't need to speak German to freelance in Germany, but it helps a lot.
 
 If you don't speak German, it's harder. Most of the bureaucracy is only in German. Most of the information online is in German. Most of the letters you get are in German. You must talk to *[[Bürgeramt]]*, *[[Ausländerbehörde]]* and *[[Finanzamt]]* employees who only speak German. Technical support is only in German.
 
-If you need a [freelance visa](/glossary/Freelance%20visa) to freelance in Germany, you *must* have some clients in Germany[^1], or you won't get the visa. It's harder to find clients in Germany if you don't speak German.
+If you need a [freelance visa](/glossary/Freelance%20visa) to freelance in Germany, you *must* have some clients in Germany,[^1] or you won't get the visa. It's harder to find clients in Germany if you don't speak German.
 
 **[How to learn German in Berlin ➞](/guides/learn-german)**
 
@@ -78,11 +78,11 @@ If you already have German health insurance, you must tell your insurance compan
 
 ### Liability insurance
 
-83% of Germans have private liability insurance (*[[Haftpflichtversicherung]]*)[^2]. If you cause an accident, and you are sued by the victim, the insurance company will pay for the legal costs and the reparations. This only costs a few euros per month, but it's really worth it.
+83% of Germans have private liability insurance (*[[Haftpflichtversicherung]]*).[^2] If you cause an accident, and you are sued by the victim, the insurance company will pay for the legal costs and the reparations. This only costs a few euros per month, but it's really worth it.
 
 **Private liability insurance does not cover your business activities**. For that, you need professional liability insurance. If you cause an accident at work, the insurance company will pay the legal costs and the reparations. Professional liability insurance is more expensive, but it's also worth it.
 
-Professional liability insurance is *required* in some professions[^3]. Freelance doctors, veterinarians, architects, civil engineers, lawyers, and tax advisors must have liability insurance. For other professions, professional liability insurance is not required.
+Professional liability insurance is *required* in some professions.[^3] Freelance doctors, veterinarians, architects, civil engineers, lawyers, and tax advisors must have liability insurance. For other professions, professional liability insurance is not required.
 
 **[What does liability insurance cover? ➞](/guides/haftpflichtversicherung)**
 
@@ -90,7 +90,7 @@ Professional liability insurance is *required* in some professions[^3]. Freelanc
 
 Disability insurance ([*Berufsunfähigkeitsversicherung*](/glossary/Berufsunfaehigkeitsversicherung)) pays you a salary if you are too sick or injured to do your job. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It can also be useful for office workers, who can burn out.[ ](/glossary/Berufsunfaehigkeitsversicherung "Berufsunfaehigkeitsversicherung")
 
-This insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance[^2]. It costs around 20€ per month for most professions. It's cheap, because accidents that prevent you from doing your job are rare.
+This insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance.[^2] It costs around 20€ per month for most professions. It's cheap, because accidents that prevent you from doing your job are rare.
 
 Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare disability insurance options.
 
@@ -122,13 +122,13 @@ A tax advisor can also help you register your business, make VAT payments, and m
 
 **If you are an employee**, you get sickness pay while you are sick. Your employer pays your full salary for the first 42 days. After 42 days, your health insurance pays you *[[Krankengeld]]*. With [TK](/glossary/Techniker%20Krankenkasse), you would get 70% of your salary, up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day.
 
-**If you are a freelancer**, you don't get any money while you are sick. If you want sickness pay (*[[Krankengeld]]*), you must pay a little more each month for your health insurance[^7]. There is a limit on how much *Krankengeld* you receive. With TK, you get up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day, for up to 78 weeks.
+**If you are a freelancer**, you don't get any money while you are sick. If you want sickness pay (*[[Krankengeld]]*), you must pay a little more each month for your health insurance.[^7] There is a limit on how much *Krankengeld* you receive. With TK, you get up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day, for up to 78 weeks.
 
 You can also get disability insurance (*[[Berufsunfaehigkeitsversicherung]]*). They will pay you if you are too sick or injured to work. Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare disability insurance options.
 
 ## Build some savings
 
-If you need to [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you need enough savings to last 3-4 months without working. You can't work until you get the visa, and it takes a few months to get it[^4]. You need enough savings to survive until you can start working.
+If you need to [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you need enough savings to last 3-4 months without working. You can't work until you get the visa, and it takes a few months to get it.[^4] You need enough savings to survive until you can start working.
 
 **[Cost of living in Germany ➞](/guides/cost-of-living)**
 
@@ -140,7 +140,7 @@ Once you start freelancing, you also need to save some of your revenue to pay [V
 
 As a freelancer, you don't get paid holidays, your employer does not pay half of your health insurance, and you must save for retirement by yourself. The time you spend managing your business and finding clients is not paid either. This is why you must charge more than regular employees.
 
-The simple rule is to multiply the hourly rate you want by two, and charge that[^5]. This rule varies a lot from industry to industry.
+The simple rule is to multiply the hourly rate you want by two, and charge that.[^5] This rule varies a lot from industry to industry.
 
 **[Income survey for solo freelancers](https://www.so-los.de/material/SO_LOS-Ergebnisse.pdf)** (in German) — over 7,000 respondents
 
@@ -166,7 +166,7 @@ If you are not a EU or EEA citizen or permanent resident, you need a [residence 
 
 Everyone else needs a visa to work in Germany. If you want to be self-employed, you must [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). This takes 1 to 4 months. You can't work until you have that visa. If you already have a Blue Card or a work visa, it might allow you to freelance.
 
-If you come from **{{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa[^6]. You can come to Germany and apply for a freelance visa there. It's easier to prepare your freelance visa application if you are already in Germany, but you will spend more time in Germany without an income.
+If you come from **{{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^6] You can come to Germany and apply for a freelance visa there. It's easier to prepare your freelance visa application if you are already in Germany, but you will spend more time in Germany without an income.
 
 If you come from another country, you need a [job seeker visa](/glossary/Job%20seeker%20visa) to come to Germany. A tourist visa is not enough. Once you are in Germany, you can apply for the freelance visa. You can also apply for a German freelance visa from your home country.
 

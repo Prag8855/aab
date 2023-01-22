@@ -14,13 +14,13 @@ Date_updated: 2022-08-03
 
 ## Steuerberater (tax advisor)
 
-Tax advisor (*[[Steuerberater]]*) is a protected title in Germany. To become a tax advisor, you must have a university degree and 3 years of work experience[^0], then you must pass the *Steuerberaterprüfung*, a 3 day long test[^1].
+Tax advisor (*[[Steuerberater]]*) is a protected title in Germany. To become a tax advisor, you must have a university degree and 3 years of work experience,[^0] then you must pass the *Steuerberaterprüfung*, a 3 day long test.[^1]
 
-Because of their qualifications, tax advisors have special powers and special responsibilities. For example, only tax advisors can submit tax declarations (*Steuererklärungen*) and financial statements (*Jahresabschluss*) for you[^2]. They can even handle all communications with the *[[Finanzamt]]* for you. They can also certify documents like the *Prüfungsbericht* or the *Gewinnermittlung*.
+Because of their qualifications, tax advisors have special powers and special responsibilities. For example, only tax advisors can submit tax declarations (*Steuererklärungen*) and financial statements (*Jahresabschluss*) for you.[^2] They can even handle all communications with the *[[Finanzamt]]* for you. They can also certify documents like the *Prüfungsbericht* or the *Gewinnermittlung*.
 
 Tax advisors are liable for their mistakes. If a tax advisor makes a mistake in your tax declaration and you get fined by the *[[Finanzamt]]*, your tax advisor must pay the fine.
 
-Tax advisors have more powers and responsibilities than bookkeepers, but they are also more expensive than bookkeepers[^2].
+Tax advisors have more powers and responsibilities than bookkeepers, but they are also more expensive than bookkeepers.[^2]
 
 **Related guide:** [How much does a *Steuerberater* cost?](/guides/english-speaking-steuerberater-berlin#how-much-does-a-steuerberater-cost)
 

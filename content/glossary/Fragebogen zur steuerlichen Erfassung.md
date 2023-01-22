@@ -16,7 +16,7 @@ When you fill this form, you get:
 - a VAT number (*[[Umsatzsteuernummer]]*)
 - an entry in the trade register (*[[Handelsregister]]*)
 
-Since 2021, there is no paper form. You must fill this form online[^0]. You can also let a [tax advisor](/glossary/Steuerberater) fill the form for you, or use Sorted's easier [business registration tool](/out/sorted-fragebogen).
+Since 2021, there is no paper form. You must fill this form online.[^0] You can also let a [tax advisor](/glossary/Steuerberater) fill the form for you, or use Sorted's easier [business registration tool](/out/sorted-fragebogen).
 
 **[How to fill this form ➞](/guides/fragebogen-zur-steuerlichen-erfassung)**
 

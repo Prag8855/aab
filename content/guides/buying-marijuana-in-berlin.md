@@ -34,9 +34,9 @@ There are 3 ways to buy weed in Berlin: on Telegram, from street dealers or thro
 In Berlin, two parks have the most drug dealers:
 
 - **[Görlitzer park](https://g.page/Goerli?share)** in Kreuzberg  
-    A big central park in Berlin. It's famous for drug trafficking[^0]. The drug dealers are everywhere. They are hard to miss[^1]. It's safe to spend time in the park, at least during the day. Parents go there with their children. The police often targets this park[^2].
+    A big central park in Berlin. It's famous for drug trafficking.[^0] The drug dealers are everywhere. They are hard to miss.[^1] It's safe to spend time in the park, at least during the day. Parents go there with their children. The police often targets this park.[^2]
 - **[Hasenheide park](https://goo.gl/maps/Mq2BLcn7TEYogDAE7)** in Neukölln  
-    A bigger park with fewer drug dealers. It's a better, safer park with an open air cinema and a petting zoo. The drug dealers are hard to miss[^3].
+    A bigger park with fewer drug dealers. It's a better, safer park with an open air cinema and a petting zoo. The drug dealers are hard to miss.[^3]
 
 **Buying weed from parks is a bad idea**. If you still want to do it, it works like this:
 
@@ -49,11 +49,11 @@ Dealers are easy to find. They are everywhere in the park. They will even approa
 
 ### Is buying weed from parks safe?
 
-**No.** The weed you buy from random dealers is not safe. Most of the time, you will get contaminated weed. Dealers and park usually sell low quality weed that is contaminated with chemicals[^4]. These chemicals irritate your throat and leave a bad taste in your mouth. You will often get [Brix](https://www.youtube.com/watch?v=nUg6xa3oysg) and grit weed in Berlin's parks.
+**No.** The weed you buy from random dealers is not safe. Most of the time, you will get contaminated weed. Dealers and park usually sell low quality weed that is contaminated with chemicals.[^4] These chemicals irritate your throat and leave a bad taste in your mouth. You will often get [Brix](https://www.youtube.com/watch?v=nUg6xa3oysg) and grit weed in Berlin's parks.
 
 **[How to know if your weed is contaminated](https://www.cannaconnection.com/blog/12393-how-to-see-weed-is-contaminated)** - Cannaconnection.com
 
-You can also get caught with the police. They sometimes stay around the park's entrance, and stop people with drugs on them. They are more active in Görlitzer park[^2].
+You can also get caught with the police. They sometimes stay around the park's entrance, and stop people with drugs on them. They are more active in Görlitzer park.[^2]
 
 ## Buying weed from Telegram
 
@@ -65,13 +65,13 @@ You will receive a message when the driver is near you. The driver will pick you
 
 ### Is buying weed from Telegram safe?
 
-**No.** Marijuana from Telegram is often better than weed from the parks in Berlin, but it can still be contaminated[^5].
+**No.** Marijuana from Telegram is often better than weed from the parks in Berlin, but it can still be contaminated.[^5]
 
-Since 2020, weed is often contaminated with synthetic cannabinoids (also called K2 or Spice). Hash can also be contaminated with synthetic cannabinoids[^6].
+Since 2020, weed is often contaminated with synthetic cannabinoids (also called K2 or Spice). Hash can also be contaminated with synthetic cannabinoids.[^6]
 
-This type of contaminated weed is bad for your mental and physical health[^7]. The high is shorter, stronger and less pleasant. It is addictive, and it can cause psychosis and withdrawal symptoms[^8].
+This type of contaminated weed is bad for your mental and physical health.[^7] The high is shorter, stronger and less pleasant. It is addictive, and it can cause psychosis and withdrawal symptoms.[^8]
 
-You *can't* see if your weed is contaminated with a synthetic cannabinoid test kit. They are not made for this[^9]. You can see synthetic cannabinoids with a microscope, or a very strong magnifying glass[^10]. If the weed is contaminated, you might see crystals on the surface.
+You *can't* see if your weed is contaminated with a synthetic cannabinoid test kit. They are not made for this.[^9] You can see synthetic cannabinoids with a microscope, or a very strong magnifying glass.[^10] If the weed is contaminated, you might see crystals on the surface.
 
 **Related links:**
 

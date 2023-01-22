@@ -12,7 +12,7 @@ A blocking account (*Sperrkonto*) is a special type of bank account. A *Sperrkon
 
 Unlike a normal bank account, a blocked account only lets you withdraw a fixed amount every month.
 
-[Fintiba](/out/fintiba), [X-patrio](https://www.x-patrio.com/blocked-account/exploration) and *some* Sparkasse branches offer blocking accounts[^0]. Deutsche Bank stopped offering them[^1].
+[Fintiba](/out/fintiba), [X-patrio](https://www.x-patrio.com/blocked-account/exploration) and *some* Sparkasse branches offer blocking accounts.[^0] Deutsche Bank stopped offering them.[^1]
 
 [^0]: [allaboutberlin.com](/guides/first-bank-account-in-germany#german-banks-for-students)
 [^1]: [Twitter](https://twitter.com/DeutscheBank/status/1547823819171061761)

@@ -21,7 +21,7 @@ If you are an employee, your employer collects taxes directly from your paycheck
 
 Income tax (*[[Einkommensteuer]]*) is a percentage of your income. It's a progressive tax: if you earn more, you pay a bigger percentage of your income.
 
-If you earn less than {{GRUNDFREIBETRAG|cur}}€ per year, you don't pay income tax. The [median income](/guides/salaries-in-germany#median-income) tax rate is around 18%. The maximum income tax rate is {{INCOME_TAX_MAX_RATE}}%[^0].
+If you earn less than {{GRUNDFREIBETRAG|cur}}€ per year, you don't pay income tax. The [median income](/guides/salaries-in-germany#median-income) tax rate is around 18%. The maximum income tax rate is {{INCOME_TAX_MAX_RATE}}%.[^0]
 
 [The income tax formula](https://www.gesetze-im-internet.de/estg/__32a.html) depends on how much you earn.
 
@@ -81,7 +81,7 @@ If you pay more than {{SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX|cur}}€ per
 
 There are 6 different tax classes. Your tax class affects how your [salary tax](/glossary/Lohnsteuer) is calculated. You can change your tax class online with [[Elster]].
 
-If you are self-employed, you might not have a tax class, because you don't need to calculate your salary tax[^1].
+If you are self-employed, you might not have a tax class, because you don't need to calculate your salary tax.[^1]
 
 ### Tax class 1
 

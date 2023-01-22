@@ -19,21 +19,21 @@ In 2021, a new coalition government was elected in Germany. This new government 
 
 ## Is medicinal marijuana legal?
 
-**Yes**. Medical marijuana is legal for seriously ill patients with a prescription[^0] since 2017. It is rarely prescribed. Only a few hundred people have a prescription[^1].
+**Yes**. Medical marijuana is legal for seriously ill patients with a prescription[^0] since 2017. It is rarely prescribed. Only a few hundred people have a prescription.[^1]
 
 ## Is CBD legal?
 
-**It depends.** CBD flowers are not legal for consumers. Processed CBD products are legal if they have less than 0.2% THC[^2]. CBD oil with less than 0.2% THC is legal[^3].
+**It depends.** CBD flowers are not legal for consumers. Processed CBD products are legal if they have less than 0.2% THC.[^2] CBD oil with less than 0.2% THC is legal.[^3]
 
-You can still find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shops[^4], even if it's illegal.
+You can still find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shops,[^4] even if it's illegal.
 
 ## Are cannabis seeds legal?
 
-**No.** Cannabis seeds are legal if "they are not intended for unauthorized cultivation"[^5], and German authorities assume that you will grow cannabis[^6].
+**No.** Cannabis seeds are legal if "they are not intended for unauthorized cultivation",[^5] and German authorities assume that you will grow cannabis.[^6]
 
-You can buy cannabis seeds on the internet. [Royal Queen Seeds](https://www.royalqueenseeds.com/) is a popular website[^7]. Websites like [Royal Queen Seeds](https://www.royalqueenseeds.com/) and [Samenwahl](https://www.samenwahl.com/) accept payment in bitcoins.
+You can buy cannabis seeds on the internet. [Royal Queen Seeds](https://www.royalqueenseeds.com/) is a popular website.[^7] Websites like [Royal Queen Seeds](https://www.royalqueenseeds.com/) and [Samenwahl](https://www.samenwahl.com/) accept payment in bitcoins.
 
-Many people order seeds without problems[^8], but it's still risky. In 2021, German customs seized cannabis seeds sent by post[^9]. [Sensi Seeds](https://sensiseeds.com/) stopped shipping seeds to Germany because of this[^10]. The people who ordered the seeds got a letter from the police. They are not in big trouble, but they might need to hire a lawyer[^11].
+Many people order seeds without problems,[^8] but it's still risky. In 2021, German customs seized cannabis seeds sent by post.[^9] [Sensi Seeds](https://sensiseeds.com/) stopped shipping seeds to Germany because of this.[^10] The people who ordered the seeds got a letter from the police. They are not in big trouble, but they might need to hire a lawyer.[^11]
 
 ## Can I grow my own weed?
 
@@ -41,7 +41,7 @@ Many people order seeds without problems[^8], but it's still risky. In 2021, Ger
 
 ## Can I bring weed from another country?
 
-**No.** For example, you can't buy weed in the Netherlands, and bring it to Germany. They sometimes check buses, trains and cars that come from the Netherlands[^13]. They sometimes use dogs to detect drugs.
+**No.** For example, you can't buy weed in the Netherlands, and bring it to Germany. They sometimes check buses, trains and cars that come from the Netherlands.[^13] They sometimes use dogs to detect drugs.
 
 It's a lot easier to buy quality weed in the Netherlands, or even in the Czech Republic, but it's risky to bring it back to Germany.
 
@@ -51,7 +51,7 @@ If you get caught with cannabis on you, the police will take you to the police s
 
 A few weeks later, you will get a receipt for your visit at the police station. You don't need to do anything yet. At this point, your case is still open. Later, you will either receive a letter with legal instructions, or a letter that says that there is no trouble.
 
-In Berlin, less than 10 to 15 grams is considered a "small amount"[^14], and the police can choose to let you go without consequences[^15]. Most of the time, that's what will happen, but it's not guaranteed. If you are caught with more than a small amount, they must do something, and you *will* get in trouble.
+In Berlin, less than 10 to 15 grams is considered a "small amount",[^14] and the police can choose to let you go without consequences.[^15] Most of the time, that's what will happen, but it's not guaranteed. If you are caught with more than a small amount, they must do something, and you *will* get in trouble.
 
 ## Where can I buy weed in Berlin?
 

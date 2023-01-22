@@ -22,11 +22,11 @@ In Germany, psychiatrists are doctors, and they can prescribe medication. Psycho
 
 It can be very hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many therapists only accept self-pay. Private health insurance usually refunds self-pay therapy, but public health insurance rarely does.
 
-With public health insurance, it can take time to find an English-speaking therapist[^0]. If you are lucky, it will take a week. If you are not lucky, it will take months.
+With public health insurance, it can take time to find an English-speaking therapist.[^0] If you are lucky, it will take a week. If you are not lucky, it will take months.
 
 ## How much does psychotherapy cost?
 
-In Berlin, it costs around 100€ per hour[^0]. Group therapy can be cheaper.
+In Berlin, it costs around 100€ per hour.[^0] Group therapy can be cheaper.
 
 **If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, find a therapist that accepts public insurance. Your insurance will cover the therapy. You don't have to pay anything.
 

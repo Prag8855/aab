@@ -10,7 +10,7 @@ Related_guides: guides/moving-to-berlin.md, guides/german-work-visa.md, guides/r
 
 The Working Holiday Visa lets citizens of certain countries work in Germany for up to 1 year.
 
-Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay citizens between 18 and 30 years old can apply for a Working Holiday Visa[^0].
+Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay citizens between 18 and 30 years old can apply for a Working Holiday Visa.[^0]
 
 Canadian citizens between 18 and 35 years old can apply for a [[Youth Mobility Visa]]. It's almost the same thing.
 

@@ -13,20 +13,20 @@ This guide shows you what you must do when you move out of your apartment in Ger
 
 ### When to end your lease
 
-Leases have a 3 month notice period (*[[Kündigungsfrist]]*). If you want to end your lease, you must tell your landlord 3 months in advance[^0]. Some leases have a shorter notice period, but the maximum notice period is 3 month[^29].
+Leases have a 3 month notice period (*[[Kündigungsfrist]]*). If you want to end your lease, you must tell your landlord 3 months in advance.[^0] Some leases have a shorter notice period, but the maximum notice period is 3 month.[^29]
 
-You must cancel before the 3rd [work day](/glossary/Werktag) of the month. For example, if you cancel on January 1, your lease will end on March 31. If you cancel on January 10, your lease will end on April 31[^1]. The cancellation period starts when the landlord gets your cancellation letter[^30], not when you send it.
+You must cancel before the 3rd [work day](/glossary/Werktag) of the month. For example, if you cancel on January 1, your lease will end on March 31. If you cancel on January 10, your lease will end on April 31.[^1] The cancellation period starts when the landlord gets your cancellation letter,[^30] not when you send it.
 
 ### How to end your lease sooner
 
-You can ask your landlord to end your lease sooner[^31]. You help them find a new tenant, and you leave when the new tenant   
-moves in. It's easier for you and for the landlord, but the landlord can refuse to do that[^32]. If they say no, you must pay the rent until your lease ends.
+You can ask your landlord to end your lease sooner.[^31] You help them find a new tenant, and you leave when the new tenant   
+moves in. It's easier for you and for the landlord, but the landlord can refuse to do that.[^32] If they say no, you must pay the rent until your lease ends.
 
 Sometimes, the landlord lets you end your lease sooner if you pay a fee. There is no standard fee, but one month of [warm rent](/glossary/Warmmiete) is common.
 
 ### How to tell your landlord
 
-You must send your landlord a termination notice ([*Kündigungsschreiben*](/glossary/K%C3%BCndigungsschreiben)). It must be signed by all tenants, and printed[^2]. **You must send the cancellation letter by [registered mail](/glossary/Einschreibebrief)**. An email is not enough[^3].
+You must send your landlord a termination notice ([*Kündigungsschreiben*](/glossary/K%C3%BCndigungsschreiben)). It must be signed by all tenants, and printed.[^2] **You must send the cancellation letter by [registered mail](/glossary/Einschreibebrief)**. An email is not enough.[^3]
 
 **[Cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html)** (in German) - ImmobilenScout24
 
@@ -38,32 +38,32 @@ After you end your lease, the landlord can show your apartment to other people.
 
 There are a few rules for apartment visits:
 
-- The apartment viewings can only start after you sent a [*Kündigungsschreiben*](/glossary/K%C3%BCndigungsschreiben)[^4].
-- The landlord can't show your apartment when you are not at home[^5].
-- The landlord must announce apartment viewings in writing[^6].
-- The landlord must announce apartment viewings at least 2 days in advance, or 3 days in advance if you have a job[^7].
-- You can refuse a scheduled visit, but you must suggest another date[^8].
+- The apartment viewings can only start after you sent a [*Kündigungsschreiben*](/glossary/K%C3%BCndigungsschreiben).[^4]
+- The landlord can't show your apartment when you are not at home.[^5]
+- The landlord must announce apartment viewings in writing.[^6]
+- The landlord must announce apartment viewings at least 2 days in advance, or 3 days in advance if you have a job.[^7]
+- You can refuse a scheduled visit, but you must suggest another date.[^8]
 - You don't have to allow more than 2-3 viewings per week.
-- You don't have to clean the apartment for viewings[^9].
+- You don't have to clean the apartment for viewings.[^9]
 - You can refuse to let visitors take photos.
 
 ## Move or cancel your contracts
 
-Most German contracts have a cancellation period (*[[Kündigungsfrist]]*). The *[[Kündigungsfrist]]* is usually 1 to 3 months. You can't cancel your contracts just because you move, but there are exceptions. You must cancel most contracts by [registered mail](/glossary/Einschreibebrief), or on the company's website[^10]. You can use websites like [aboalarm](https://www.aboalarm.de/) to write the cancellation letter.
+Most German contracts have a cancellation period (*[[Kündigungsfrist]]*). The *[[Kündigungsfrist]]* is usually 1 to 3 months. You can't cancel your contracts just because you move, but there are exceptions. You must cancel most contracts by [registered mail](/glossary/Einschreibebrief), or on the company's website.[^10] You can use websites like [aboalarm](https://www.aboalarm.de/) to write the cancellation letter.
 
 ### If you stay in Germany
 
-**Your internet contract** usually moves with you. You might pay a 20€ to 70€[^11] fee when you move your internet connection<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html)</sup>. The price and service must stay the same<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=ohne%20anderung%20der%20vereinbarten%20vertragslaufzeit%20und%20der%20sonstigen%20vertragsinhalte)</sup>. They can't extend your contract<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=ohne%20anderung%20der%20vereinbarten%20vertragslaufzeit%20und%20der%20sonstigen%20vertragsinhalte)</sup>. If your internet company can't give you the same internet connection at your new address, you can end your contract with a 1 month notice<sup>[§60.2](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)</sup>. If you move with someone who already has an internet contract, you can cancel your contract with a 1 month notice[^12].
+**Your internet contract** usually moves with you. You might pay a 20€ to 70€[^11] fee when you move your internet connection<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html)</sup>. The price and service must stay the same<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=ohne%20anderung%20der%20vereinbarten%20vertragslaufzeit%20und%20der%20sonstigen%20vertragsinhalte)</sup>. They can't extend your contract<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=ohne%20anderung%20der%20vereinbarten%20vertragslaufzeit%20und%20der%20sonstigen%20vertragsinhalte)</sup>. If your internet company can't give you the same internet connection at your new address, you can end your contract with a 1 month notice<sup>[§60.2](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)</sup>. If you move with someone who already has an internet contract, you can cancel your contract with a 1 month notice.[^12]
 
-**Your landline phone** moves with you. If you stay in the same area, you can keep the same phone number[^13]. There is no fee to keep your phone number[^14].
+**Your landline phone** moves with you. If you stay in the same area, you can keep the same phone number.[^13] There is no fee to keep your phone number.[^14]
 
-**Your mobile phone** moves with you. You can keep the same phone number. There is no fee to keep your phone number[^14].
+**Your mobile phone** moves with you. You can keep the same phone number. There is no fee to keep your phone number.[^14]
 
-**Your electricity and gas contracts** move with you. The price and service must stay the same[^15]. They can't extend your contract[^15]. If they can't provide the same service, you can cancel your contract. If you can't use their service at your new address (different heating system, no gas connection), you can cancel your contract[^16]. If you move with someone who already has an electricity/gas contract, you can cancel your contract[^17].
+**Your electricity and gas contracts** move with you. The price and service must stay the same.[^15] They can't extend your contract.[^15] If they can't provide the same service, you can cancel your contract. If you can't use their service at your new address (different heating system, no gas connection), you can cancel your contract.[^16] If you move with someone who already has an electricity/gas contract, you can cancel your contract.[^17]
 
 ### If you leave Germany
 
-If you move out of Germany, you can cancel your phone, internet and electricity contracts with a 1 month notice[^18].
+If you move out of Germany, you can cancel your phone, internet and electricity contracts with a 1 month notice.[^18]
 
 ## Stop paying the [TV tax](/glossary/Rundfunkbeitrag)
 
@@ -81,7 +81,7 @@ If you move to another address in Berlin, you must [change your address](/guides
 
 Do you need to repaint your apartment? It depends on your rent contract. Look for a clause about cosmetic repairs (*Schönheitsreparaturen*). You are usually responsible for cosmetic repairs. You must usually return the apartment in the same state as when you moved in. You might have to patch holes in the wall and repaint the walls.
 
-Cosmetic repairs include[^19]:
+Cosmetic repairs include:[^19]
 
 - Painting the walls and the ceilings
 - Repairing holes you made in the walls
@@ -89,25 +89,25 @@ Cosmetic repairs include[^19]:
 - Painting the radiators and heating pipes
 - Painting the interior doors and frames
 
-Cosmetic repairs *do not* include[^33]:
+Cosmetic repairs *do not* include:[^33]
 
 - Replacing, sanding or sealing the parquet floors
 - Replacing the carpets
 - Repairing any damage that you have not caused[^20] (cracks in the ceilings and walls, crumbling plaster, damage from the previous tenant, etc.)
 
-Your contract can't force to make unnecessary cosmetic repairs[^21]. For example, it can't force you to make unconditional repairs ("repaint after 3 years" or "repaint when you leave")[^22].
+Your contract can't force to make unnecessary cosmetic repairs.[^21] For example, it can't force you to make unconditional repairs ("repaint after 3 years" or "repaint when you leave").[^22]
 
-Your contract can force you to paint the walls in light or neutral colours, but not a specific colour (white) or paint type[^23]. This means that you don't need to repaint your apartment from light grey to pure white.
+Your contract can force you to paint the walls in light or neutral colours, but not a specific colour (white) or paint type.[^23] This means that you don't need to repaint your apartment from light grey to pure white.
 
-If there are no mentions of cosmetic repairs in your contract, you are lucky! You can clean the apartment and leave[^33].
+If there are no mentions of cosmetic repairs in your contract, you are lucky! You can clean the apartment and leave.[^33]
 
-You have the right to do the repairs yourself. You can't be forced to use a contractor[^33].
+You have the right to do the repairs yourself. You can't be forced to use a contractor.[^33]
 
 ## Return the keys and get your deposit back
 
-When you give your apartment keys back (the [*Wohnungsübergabe*](/glossary/Wohnungs%C3%BCbergabe)), you will fill a handover document (*[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*). In this document, you describe the condition of the apartment, and what must be repaired[^34].
+When you give your apartment keys back (the [*Wohnungsübergabe*](/glossary/Wohnungs%C3%BCbergabe)), you will fill a handover document (*[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*). In this document, you describe the condition of the apartment, and what must be repaired.[^34]
 
-In your *Übergabeprotokoll*, you should record *everything*. Take a lot of pictures. You can even bring a lawyer with you[^34].
+In your *Übergabeprotokoll*, you should record *everything*. Take a lot of pictures. You can even bring a lawyer with you.[^34]
 
 The landlord will take up to 6 months to return your deposit. If there is nothing to repair, you will get the whole deposit back. If something needs to be repaired, the landlord will pay for the repairs with your deposit.
 
@@ -127,13 +127,13 @@ Ask your old landlord to sign a *[[Mietschuldenfreiheitsbescheinigung]]*. This d
 
 ### Find cardboard boxes
 
-You can order cardboard boxes (*Umzugskarton*) from [Zapf](https://www.zapf.de/materialshop/kartons/), [Karton.eu](https://www.karton.eu/cardboard-boxes-and-folding-boxes) and [U-Karton](https://www.u-karton.de). Zapf makes good quality boxes[^35]. You can also buy cardboard boxes from Bauhaus, Hellweg, and [other hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement).
+You can order cardboard boxes (*Umzugskarton*) from [Zapf](https://www.zapf.de/materialshop/kartons/), [Karton.eu](https://www.karton.eu/cardboard-boxes-and-folding-boxes) and [U-Karton](https://www.u-karton.de). Zapf makes good quality boxes.[^35] You can also buy cardboard boxes from Bauhaus, Hellweg, and [other hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement).
 
 You can ask stores to give you their old boxes. You can also buy used boxes on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331). This is cheaper than buying new boxes.
 
 ### Hire a moving company
 
-If you can't move everything yourself, you can hire a moving company. [Zapf](https://www.zapf.de/) is often recommended[^25]. It's more expensive, but all your goods are insured.
+If you can't move everything yourself, you can hire a moving company. [Zapf](https://www.zapf.de/) is often recommended.[^25] It's more expensive, but all your goods are insured.
 
 If you don't have many things to move, you can hire a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](http://www.moebel-taxi.de/english/) is a popular option. You can find more on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
 
@@ -141,7 +141,7 @@ If you don't have many things to move, you can hire a "man with a van". They are
 
 [Robben und Wientjes](https://www.robben-wientjes.de/) rents moving trucks at a good price. [Miles](https://miles-mobility.com/berlin/) is a car sharing service that rents vans. Moving trucks are much cheaper than moving companies, but you must move the furniture yourself.
 
-You will need to park the truck somewhere while you load your things. You can reserve a parking spot with a sign, but you need permission from the city[^26]. You can get permission [at the Bezirksamt](https://service.berlin.de/dienstleistung/325649/) for at least 21€, or use a service like [Halteverbot Berlin 24](https://www.halteverbot-berlin24.de/) for around 60€. You must ask for permission 2-4 weeks in advance[^27]. If you have an underground garage, it's cheaper and easier to park the truck there.
+You will need to park the truck somewhere while you load your things. You can reserve a parking spot with a sign, but you need permission from the city.[^26] You can get permission [at the Bezirksamt](https://service.berlin.de/dienstleistung/325649/) for at least 21€, or use a service like [Halteverbot Berlin 24](https://www.halteverbot-berlin24.de/) for around 60€. You must ask for permission 2-4 weeks in advance.[^27] If you have an underground garage, it's cheaper and easier to park the truck there.
 
 ### Sell or donate your things
 
@@ -165,7 +165,7 @@ Tell everyone your new address, deregister your old address, and forward your ma
 
 After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [move into your new apartment](/guides/moving-in).
 
-**If you leave Germany**, you can [get a refund for your pension payments](/guides/pension-payments-refund)[^28]. You can get thousands of euros back[^36].
+**If you leave Germany**, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^28] You can get thousands of euros back.[^36]
 
 {% include 'blocks/_pensionRefundCalculator.html' %}
 

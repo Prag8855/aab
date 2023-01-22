@@ -47,7 +47,7 @@ To create an account, visit [elster.de](https://www.elster.de/), and follow thes
 
 [![](/images/elster-account-5.png)](/images/elster-account-5.png)
 
-▲ Select why you are opening an account: for you (*Für mich*), or for an organisation (*Für eine Organisation*). You can select *Für mich*, even if you are registering a business[^0].
+▲ Select why you are opening an account: for you (*Für mich*), or for an organisation (*Für eine Organisation*). You can select *Für mich*, even if you are registering a business.[^0]
 
 Click *Weiter* to continue.
 

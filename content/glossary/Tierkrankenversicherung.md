@@ -8,7 +8,7 @@ Date_updated: 2022-05-25
 Related_guides: guides/insurance.md, guides/pet-ownership.md
 ---
 
-Pet health insurance (*Tierkrankenversicherung* or *Hundekrankenversicherung*) covers the veterinary bills if your pet gets sick. Usually, it does not cover routine operations like vaccines or castration[^0]. However, it covers expensive operations. This can be important when your dog gets old.
+Pet health insurance (*Tierkrankenversicherung* or *Hundekrankenversicherung*) covers the veterinary bills if your pet gets sick. Usually, it does not cover routine operations like vaccines or castration.[^0] However, it covers expensive operations. This can be important when your dog gets old.
 
 The price of pet insurance depends on the age, race and sex of your dog. It costs around 20€ per month if your dog is still young.
 

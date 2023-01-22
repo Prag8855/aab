@@ -16,9 +16,9 @@ You might need a visa to visit Germany. It depends on your citizenship:
 - **EU and EEA citizens**  
     You can visit Germany without a visa. You can stay as long as you want. You can also live and work in Germany.
 - **Other [Schengen area](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744) residents**  
-    You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period[^0]. If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
+    You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period.[^0] If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
 - **Citizens of [other countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**  
-    People from [certain countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs {{SCHENGEN_VISA_FEE}}€[^1]. You can apply for a Schengen visa at the [German embassy or consulate in your country](https://www.embassy-worldwide.com/country/germany/).
+    People from [certain countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs {{SCHENGEN_VISA_FEE}}€.[^1] You can apply for a Schengen visa at the [German embassy or consulate in your country](https://www.embassy-worldwide.com/country/germany/).
 
 **Useful link:** [Visa requirements by country](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) - Federal Foreign Office
 
@@ -31,9 +31,9 @@ Use [Kayak](https://www.kayak.com/), [Omio](/out/omio), [Rome2Rio](https://rome2
 There are 3 ways to get from the BER airport to the city:
 
 - **Use [public transport](/guides/public-transit)**  
-    You can take a train from BER airport to Berlin, even at night. There are trains every few minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) to find directions. The train ride takes 30 to 45 minutes. Buy an [ABC ticket](/guides/public-transit#tariff-zones) at the ticket machines on the train platform. It costs {{BVG_ABC_TICKET}}€[^2]. [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. For more information, read the [Berlin public transit guide](/guides/public-transit).
+    You can take a train from BER airport to Berlin, even at night. There are trains every few minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) to find directions. The train ride takes 30 to 45 minutes. Buy an [ABC ticket](/guides/public-transit#tariff-zones) at the ticket machines on the train platform. It costs {{BVG_ABC_TICKET}}€.[^2] [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. For more information, read the [Berlin public transit guide](/guides/public-transit).
 - **Take a taxi**  
-    There are taxis waiting outside the BER airport. A taxi from the airport to the city centre costs around 50€[^3]. It's a bit faster than public transport, but it's very expensive. [Uber](https://www.uber.com/global/en/airports/ber/) and [FreeNow](https://free-now.com/de/flughafen) also give rides from the airport to the city. German taxis must accept cash and credit cards[^4].
+    There are taxis waiting outside the BER airport. A taxi from the airport to the city centre costs around 50€.[^3] It's a bit faster than public transport, but it's very expensive. [Uber](https://www.uber.com/global/en/airports/ber/) and [FreeNow](https://free-now.com/de/flughafen) also give rides from the airport to the city. German taxis must accept cash and credit cards.[^4]
 - **Rent a car**  
     You can rent a car at the airport. There are kiosks for different car rental companies. You can also use car sharing services like [Miles](https://support.miles-mobility.com/hc/en-us/articles/360021219459-Airport-rate-Berlin-Potsdam), and drive to Berlin for only 25€.
 
@@ -57,7 +57,7 @@ Use [Rome2Rio](https://rome2rio.com), [Omio](/out/omio), [Bahn.de](/out/bahn) or
 
 Driving in Berlin is easy, but free parking is hard to find.
 
-Most parking spaces in the centre cost money[^5]. They cost 1€ to 4€ per hour[^6]. Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free. It's always easy to park a motorcycle.
+Most parking spaces in the centre cost money.[^5] They cost 1€ to 4€ per hour.[^6] Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free. It's always easy to park a motorcycle.
 
 You can also park outside the city and take the train to Berlin. There are free [Park and Ride (P+R) car parks](https://www.google.com/maps/d/viewer?mid=1lfZOUDUCPL1UgzHwGptdyyfhwEk). You can park your car there for free, and take the train to Berlin. You can find them on [this map](https://www.vbb.de/en/vbb-travel-info/) (in Multi-mobility), or with [this list](https://www.visitberlin.de/en/car-parks).
 
@@ -167,9 +167,9 @@ If you have a bit more time, [**Potsdam**](https://en.wikivoyage.org/wiki/Potsda
 
 ### Clubs in Berlin
 
-Berlin is famous for its techno clubs. It can be hard to get into certain clubs. Clubs don't let everyone in. For example, they often reject tourists, big groups, drunk people, and people under 21 years old[^7]. In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in[^8]. Most clubs have a cover charge. You must pay 5€ to 15€ to get in. Clubs in Berlin stay open until the morning. The party starts late, and the busiest time is around 2AM.
+Berlin is famous for its techno clubs. It can be hard to get into certain clubs. Clubs don't let everyone in. For example, they often reject tourists, big groups, drunk people, and people under 21 years old.[^7] In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Most clubs have a cover charge. You must pay 5€ to 15€ to get in. Clubs in Berlin stay open until the morning. The party starts late, and the busiest time is around 2AM.
 
-You can buy presale tickets for club events on [Resident Advisor](https://www.residentadvisor.net/guide/de/berlin). When you have tickets, it's easier to get in[^9].
+You can buy presale tickets for club events on [Resident Advisor](https://www.residentadvisor.net/guide/de/berlin). When you have tickets, it's easier to get in.[^9]
 
 You can find club events on [Resident Advisor](https://www.residentadvisor.net/guide/de/berlin), or follow clubs on Facebook. [WikiTravel](http://wikitravel.org/en/Berlin#Clubs) also has a short guide to Berlin clubs.
 
@@ -230,12 +230,12 @@ If you don't have mobile data, you can find free Wi-Fi everywhere:
 
 - All **U-Bahn stations** have free Wi-Fi. Look for the "BVG Free WiFi" network.
 - Some **S-Bahn stations** also have free Wi-Fi. Look for the "WIFI@DB" network.
-- **REWE and Lidl supermarkets** have free Wi-Fi[^10].
+- **REWE and Lidl supermarkets** have free Wi-Fi.[^10]
 - **Hotels and hostels** have free Wi-Fi for their guests.
 
 ### Prepaid SIM cards for tourists
 
-You can buy a prepaid SIM card at the airport, and at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card<sup>1, [2](https://www.expatica.com/de/living/household/german-sim-card-244240/#can)</sup>, but store employees will just use your passport and the address of your hotel[^11].
+You can buy a prepaid SIM card at the airport, and at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card<sup>1, [2](https://www.expatica.com/de/living/household/german-sim-card-244240/#can)</sup>, but store employees will just use your passport and the address of your hotel.[^11]
 
 **[Information about SIM cards in Germany ➞](https://prepaid-data-sim-card.fandom.com/wiki/Germany)**
 

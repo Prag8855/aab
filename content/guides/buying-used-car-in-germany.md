@@ -32,13 +32,13 @@ When you see a vehicle that you like, contact the seller, and schedule a visit. 
 
 ### Dealership or private sale?
 
-**Taxes:** When you buy from a dealership (a business that sells cars), you pay a 19% [VAT](/glossary/Umsatzsteuer)[^0]. This tax is included in the price. When you buy a vehicle from a private seller, you do not pay VAT.
+**Taxes:** When you buy from a dealership (a business that sells cars), you pay a 19% [VAT](/glossary/Umsatzsteuer).[^0] This tax is included in the price. When you buy a vehicle from a private seller, you do not pay VAT.
 
-**Warranty:** At the dealership, all new vehicles come with a 2 year warranty (*Gewährleistung*), and all used vehicles come with a 1 year warranty[^1]. If you buy from a private seller, there is no warranty. If you buy the vehicle for your business, there is no warranty.
+**Warranty:** At the dealership, all new vehicles come with a 2 year warranty (*Gewährleistung*), and all used vehicles come with a 1 year warranty.[^1] If you buy from a private seller, there is no warranty. If you buy the vehicle for your business, there is no warranty.
 
-The warranty covers *current* problems with the vehicle, not future problems. In other words, if you buy a vehicle with hidden defects, the seller has to fix them[^2]. It does not cover oil changes, normal wear, or problems that are your fault[^3]. If there are too many defects, you can even give the vehicle back. Most dealerships also offer an optional warranty (*Garantie*) that costs money[^3].
+The warranty covers *current* problems with the vehicle, not future problems. In other words, if you buy a vehicle with hidden defects, the seller has to fix them.[^2] It does not cover oil changes, normal wear, or problems that are your fault.[^3] If there are too many defects, you can even give the vehicle back. Most dealerships also offer an optional warranty (*Garantie*) that costs money.[^3]
 
-If a dealership says that they are selling a car for someone else, it means that you do not pay taxes, and that you do not have any warranty[^4]. It's like buying a car from a private seller. Some dealers try to make you sign a paper that removes the warranty. Read everything before you sign.
+If a dealership says that they are selling a car for someone else, it means that you do not pay taxes, and that you do not have any warranty.[^4] It's like buying a car from a private seller. Some dealers try to make you sign a paper that removes the warranty. Read everything before you sign.
 
 ### Papers and registration
 
@@ -64,13 +64,13 @@ If you want to test drive a vehicle out of season, you must [get temporary licen
 
 ### Scooter licence plates
 
-If you have a scooter under 50cc, you don't need to register it, and you don't need to pay a vehicle tax[^5]. Instead, you must get *[[Versicherungskennzeichen]]* from your insurance company. If you are buying a scooter under 50cc, you don't need to go to the [vehicle registration office](/glossary/Kfz-Zulassungsstelle).
+If you have a scooter under 50cc, you don't need to register it, and you don't need to pay a vehicle tax.[^5] Instead, you must get *[[Versicherungskennzeichen]]* from your insurance company. If you are buying a scooter under 50cc, you don't need to go to the [vehicle registration office](/glossary/Kfz-Zulassungsstelle).
 
 Electric bicycles are treated as normal bicycles. You don't need licence plates for them.
 
 ### TÜV inspection
 
-Vehicles in Germany must be inspected every 2 years. This inspection is called the *[[Hauptuntersuchung]]*, *HU* or *TÜV*[^6]. This inspection is very thorough. They check everything. Only workshops certified by [[TÜV]], Dekra or KÜS can do this inspection. It costs around 120€[^7].
+Vehicles in Germany must be inspected every 2 years. This inspection is called the *[[Hauptuntersuchung]]*, *HU* or *TÜV*.[^6] This inspection is very thorough. They check everything. Only workshops certified by [[TÜV]], Dekra or KÜS can do this inspection. It costs around 120€.[^7]
 
 If a vehicle fails the inspection, it can't be registered, and you can't drive it. This is why old vehicles are cheaper when their   
 inspection approaches, and *much* cheaper when it's overdue (*TÜV abgelaufen*). You might need to spend a lot of money to make the vehicle pass the inspection again.
@@ -142,7 +142,7 @@ Print both of these documents and bring them to your appointment.
 
 The next step is to register the vehicle (*Kfz-Zulassung*). You can't drive the vehicle until it's registered. When you register the vehicle, you receive new registration papers (*[[Zulassungsbescheinigung]]*) with your name and address on them.
 
-If you are buying a scooter under 50cc, you can skip this step. When you get insurance for the scooter, you will receive [scooter plates](/glossary/Versicherungskennzeichen) from the insurance company[^10]. You don't need to register it.
+If you are buying a scooter under 50cc, you can skip this step. When you get insurance for the scooter, you will receive [scooter plates](/glossary/Versicherungskennzeichen) from the insurance company.[^10] You don't need to register it.
 
 There are 3 ways to register a vehicle: in person, online, or at the dealership.
 
@@ -162,7 +162,7 @@ When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these document
 - **Your [Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)**  
     If your ID does not show your address, you must bring your *[Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)*.
 - **Money for the registration fee**  
-    The registration fee is 19.60€ to 31.50€[^8]. The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash[^9][^11].
+    The registration fee is 19.60€ to 31.50€.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash[^9].[^11]
 - **Money for a new plate**  
     If necessary, bring an extra 15€ to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
 - **The filled vehicle registration form**  

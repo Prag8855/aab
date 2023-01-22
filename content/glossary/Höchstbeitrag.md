@@ -12,7 +12,7 @@ The price of [public health insurance](/glossary/gesetzliche%20Krankenversicheru
 
 The *Höchstbeitrag* is the maximum amount you can pay for health insurance. If you earn more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, you pay the *Höchstbeitrag*. It's around {{GKV_ESTIMATED_EMPLOYEE_MAX_CONTRIBUTION|cur}}€ per month.
 
-There is a different *Höchstbeitrag* for self-employed people, the *Selbstständige Höchstbeitrag*. It's around {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month[^0].
+There is a different *Höchstbeitrag* for self-employed people, the *Selbstständige Höchstbeitrag*. It's around {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month.[^0]
 
 **[Health insurance calculator ➞](/tools/health-insurance-calculator)**
 

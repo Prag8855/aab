@@ -11,31 +11,31 @@ This guide explains how vacations work for employees in Germany.
 
 ## Vacation days
 
-In Germany, all employees get paid vacation days[^0].
+In Germany, all employees get paid vacation days.[^0]
 
  <table><thead><tr><th>Work days</th><th>Minimum vacation days</th></tr></thead><tbody><tr><td>1 day per week</td><td>4 days per year</td></tr><tr><td>2 days per week</td><td>8 days per year</td></tr><tr><td>3 days per week</td><td>12 days per year</td></tr><tr><td>4 days per week</td><td>16 days per year  
 </td></tr><tr><td>**5 days per week  
 </td><td>**20 days per year**</td></tr><tr><td>6 days per week</td><td>24 days per year</td></tr></tbody></table>
 
-If you work 5 days per week, you get at least 20 vacation days per year[^1]. Most full-time employees get 25 to 30 vacation days[^2]. Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
+If you work 5 days per week, you get at least 20 vacation days per year.[^1] Most full-time employees get 25 to 30 vacation days.[^2] Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
 
 When you [get a job offer](/guides/find-a-job-in-berlin#step-4-the-job-offer), you can negotiate more vacation days.
 
-When you start a new job, your vacation days days are prorated: you unlock 1/12 of your vacation days every month[^3]. This is true even if you don't have a [probation period](/glossary/Probezeit). After 6 months, you can use all of your vacation days[^4]. [More information here.](/guides/probezeit#vacations)
+When you start a new job, your vacation days days are prorated: you unlock 1/12 of your vacation days every month.[^3] This is true even if you don't have a [probation period](/glossary/Probezeit). After 6 months, you can use all of your vacation days.[^4] [More information here.](/guides/probezeit#vacations)
 
 ### You must use your vacation days
 
-You must use all your vacation days before the end of the calendar year[^5].
+You must use all your vacation days before the end of the calendar year.[^5]
 
 Sometimes, there is an emergency at work, and that's not possible. In that case, you have until March 31 the next year to use your vacation days.
 
 Some employers let you save *some* of your vacation days for another year.
 
-Your employer must let you take at least one 2 week long vacation per year[^5]. They can't force you to only take short vacations.
+Your employer must let you take at least one 2 week long vacation per year.[^5] They can't force you to only take short vacations.
 
 ### You must ask your employer
 
-Before you go on vacation, you need permission from your employer[^6]. Don't plan your trip before your employer approves your vacation!
+Before you go on vacation, you need permission from your employer.[^6] Don't plan your trip before your employer approves your vacation!
 
 In some companies, you just ask your manager. In other companies, you request vacations on a website, and your manager approves the request. It's different for every employer.
 
@@ -46,7 +46,7 @@ Your employer can refuse to let you take vacations if...[^7]
 - **The timing causes serious problems**  
     For example, if you take vacations during the busiest period of the year.
 - **Another employee has priority**  
-    For example, parents need to take vacations at the same time as their children, so they have priority during school holidays[^8].
+    For example, parents need to take vacations at the same time as their children, so they have priority during school holidays.[^8]
 
 ## Public holidays
 
@@ -54,7 +54,7 @@ German employees also get 10 to 13 paid public holidays every year. Each state h
 
 **[Public holidays in Berlin ➞](/guides/public-holidays)**
 
-On public holidays, you don't work, but you still get paid. You celebrate the holidays of the state where you work, even if you live in a different state[^9].
+On public holidays, you don't work, but you still get paid. You celebrate the holidays of the state where you work, even if you live in a different state.[^9]
 
 ## Sabbatical leave
 

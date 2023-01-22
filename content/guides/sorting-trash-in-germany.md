@@ -16,15 +16,15 @@ Germans take recycling seriously. It's hard to sort your trash correctly. This g
 You find these bins in your apartment building:
 
 - 🔵 **Blue bin** (*blaue Tonne*)  
-    For paper and cardboard. You can't use plastic bags for the blue bin[^0]. Flatten cardboard boxes before you recycle them.
+    For paper and cardboard. You can't use plastic bags for the blue bin.[^0] Flatten cardboard boxes before you recycle them.
 - 🟡 **Yellow or orange bin** (*Wertstofftonne*)  
     For plastic and metal containers, and containers with the *[[Grüner Punkt]]* logo.
 - 🟤 **Brown bin** (*Biomüll*)  
-    For biodegradable goods. It's used to make [biogas](https://en.wikipedia.org/wiki/Biogas) and compost[^1]. Don't use plastic or biodegradable bags, only paper bags[^2].
+    For biodegradable goods. It's used to make [biogas](https://en.wikipedia.org/wiki/Biogas) and compost.[^1] Don't use plastic or biodegradable bags, only paper bags.[^2]
 - ⚫ **Grey bin** (*Restmüll*)  
     Things that you can't sell, donate or recycle.
 - ♻️ **[Glass recycling bins](/glossary/Altglascontainer)** (*Glasiglus*)
-    For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers[^3]. If your building does not have glass recycling bins, [find them in your neighbourhood](https://www.berlin-recycling.de/service/standorte-glasiglus). There are 3 bin types:
+    For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers.[^3] If your building does not have glass recycling bins, [find them in your neighbourhood](https://www.berlin-recycling.de/service/standorte-glasiglus). There are 3 bin types:
     - 🟤 The *Braunglas* bin for brown glass
     - 🟢 The *Grunglas* bin for green, red and blue glass[^4]
     - ⚪ The *Weißglas* bin for transparent glass
@@ -49,17 +49,17 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 ### Paper and cardboard
 
 - **🔵 Paper and cardboard ➞ blue bin**  
-    This includes egg cartons, bread bags, envelopes (even with plastic windows[^6]). newspapers and magazines. Flatten boxes before you put them in the bin[^7].
+    This includes egg cartons, bread bags, envelopes (even with plastic windows[^6]). newspapers and magazines. Flatten boxes before you put them in the bin.[^7]
 - **🟡 [Grüner Punkt logo](/glossary/Gr%C3%BCner%20Punkt) or [Tetra Pak logo](/glossary/Tetra%20Pak) ➞ yellow bin**
 - **🟡 Paper + plastic packaging ➞ yellow bin**  
-    This includes bread bags with plastic windows[^8], but not envelopes with plastic windows[^9].
+    This includes bread bags with plastic windows,[^8] but not envelopes with plastic windows.[^9]
 - **🟡 Milk cartons ➞ yellow bin**[^10]
 - **🟡 Tetra Pak ➞ yellow bin**
 - **🟤 Paper towels, tissues ➞ brown bin**
 - **⚫ Coated, waxed and thermal paper ➞ grey bin**  
     This includes receipts and paper coffee cups.
 - **⚫ Dirty or greasy paper ➞ grey bin**  
-    This includes pizza boxes and take-out food containers[^7].
+    This includes pizza boxes and take-out food containers.[^7]
 
 ### Plastic
 
@@ -78,7 +78,7 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 ### Glass
 
 - **Glass ➞ [glass recycling bins](/glossary/Altglascontainer)**  
-    The metal and plastic caps go in the yellow bin[^11]. In Berlin, you don't need to clean glass containers[^3].
+    The metal and plastic caps go in the yellow bin.[^11] In Berlin, you don't need to clean glass containers.[^3]
 - **[Pfand logo or label](/glossary/Pfand) ➞ [return it, get money back](/guides/pfand-bottles#where-to-return-bottles-in-germany)**  
     Most beer bottles have a *[[Pfand]]*. [More information here.](/guides/pfand-bottles)
 - ⚫ **Mirrors ➞ grey bin**[^12]
@@ -96,14 +96,14 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 ### Other
 
 - **🔵 Paper bags with plastic windows ➞ blue bin**  
-    This includes bread bags with plastic windows[^8], and envelopes with plastic windows[^9].
+    This includes bread bags with plastic windows,[^8] and envelopes with plastic windows.[^9]
 
 ## Food
 
 - 🟤 **Biodegradable food ➞ brown bin**  
     This includes leftover food, fruits, vegetables, meat, fish, bread, cheese, egg shells, tea bags, coffee grounds, paper towels and bones.
 - ⚫ **Fat and cooking oil ➞ grey bin**  
-    Don't pour the fat down the kitchen drain, because it can block the pipes[^16].
+    Don't pour the fat down the kitchen drain, because it can block the pipes.[^16]
 
 ## Clothes and shoes
 
@@ -119,9 +119,9 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 
 Electronics stores (bigger than 400 m^2^) must recycle your electronics.[^22] You don't have to buy something there.
 
-Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, even if they are a different kind[^22]. You don't have to buy something there. This includes hardware stores[^5], supermarkets and drugstores.
+Big stores (bigger than 800 m^2^) that sell electronics must also recycle them, even if they are a different kind.[^22] You don't have to buy something there. This includes hardware stores,[^5] supermarkets and drugstores.
 
-In reality, most supermarkets don't recycle electronics, even if they are required to[^21].
+In reality, most supermarkets don't recycle electronics, even if they are required to.[^21]
 
 Recycling centres accept all electronics and appliances.
 
@@ -136,7 +136,7 @@ Recycling centres accept all electronics and appliances.
 
 - **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) and [supermarkets](/guides/where-to-buy-what#groceries)**
 - **Car batteries ➞ [auto parts store](/guides/where-to-buy-what#car-and-motorcycle-parts)**  
-    They have a 7.50€ *[[Pfand]]*[^17]. [A.T.U](https://www.atu.de/filialen/) accepts car batteries.
+    They have a 7.50€ *[[Pfand]]*.[^17] [A.T.U](https://www.atu.de/filialen/) accepts car batteries.
 
 ![Battery recycling bin at Lidl](/images/lidl-battery-recycling-akku-entsorgung.jpg "A battery recycling bin in a Lidl supermarket")
 
@@ -171,7 +171,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 - **Paints, oils and lacquers ➞ [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement)**  
     [Bauhaus](https://www.bauhaus.info/entsorgungshinweise), [Hellweg](https://www.hellweg.de/service/entsorgungsservice/), [Hornbach](https://www.hornbach.de/services/entsorgungsservices/) and [OBI](https://www.obi.de/baumarkt/services/markt-services/wertstoff-ruecknahme/) will take it.
 - **Car oil ➞ garages, [car parts stores](/guides/where-to-buy-what#car-and-motorcycle-parts) and [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement)**  
-    If a business sells car oil, they must accept your old oil[^18].
+    If a business sells car oil, they must accept your old oil.[^18]
 - **⚫ Cooking oil ➞ grey bin**
 
 ## Other things
@@ -180,7 +180,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
     This includes dog poop and cat litter.
 - 🔵 Books ➞ [sell, donate](/guides/how-do-i-buy-and-sell-used-things-in-berlin) or put in the blue bin
 - ⚫ Baby diapers ➞ grey bin[^19]
-- ⚫ Medicine and drugs ➞ grey bin[^20]. [More information here.](https://arzneimittelentsorgung.de/home/)
+- ⚫ Medicine and drugs ➞ grey bin.[^20] [More information here.](https://arzneimittelentsorgung.de/home/)
 
 ## Useful links
 

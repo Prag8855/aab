@@ -13,7 +13,7 @@ I was a TK customer from 2015 to 2021. I had their health insurance as an intern
 
 ## What is TK?
 
-**Techniker Krankenkasse** (or TK) is a [public health insurance](/glossary/gesetzliche%20Krankenversicherung) company (*Krankenkasse*) in Germany. It's the largest health insurer in the country, with 10.4 million members[^0]. TK is a non-profit company, like all public health insurers in Germany. It's just a little larger than [Barmer](/out/barmer), the second largest *Krankenkasse*.
+**Techniker Krankenkasse** (or TK) is a [public health insurance](/glossary/gesetzliche%20Krankenversicherung) company (*Krankenkasse*) in Germany. It's the largest health insurer in the country, with 10.4 million members.[^0] TK is a non-profit company, like all public health insurers in Germany. It's just a little larger than [Barmer](/out/barmer), the second largest *Krankenkasse*.
 
 ## How much does TK health insurance cost?
 
@@ -27,7 +27,7 @@ Your health insurance contributions depend on your income, and your situation. A
 
 **Yes, but not officially.** You can sign up in English on TK's [English website](https://www.tk.de/en) (or use [this simple form](/out/signup-tk)), but the rest of the website is only in German. The members area (*Meine TK*) is only in German. All the letters you get are in German. If they need something from you, they ask in German. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/tk-app-2023650) is available in English. It has the same features as the TK website.
 
-TK does have English phone and chat support, so you can always get help in English. If English support is important to you, [TK](/out/signup-tk) and [Barmer](/out/barmer) are your best options. Barmer also has an English phone line[^1], but it's a little more expensive.
+TK does have English phone and chat support, so you can always get help in English. If English support is important to you, [TK](/out/signup-tk) and [Barmer](/out/barmer) are your best options. Barmer also has an English phone line,[^1] but it's a little more expensive.
 
 ## My personal experience with TK
 
@@ -39,7 +39,7 @@ In my experience, **TK covers everything without asking questions**. You go to t
 
 Glasses are rarely covered. Most of the time, [you must buy your own eyeglasses](/guides/eyeglasses#does-public-health-insurance-pay-for-glasses). It's the same with other public health insurers.
 
-At the dentist, TK only covers the least expensive treatment. For example, if you want high quality tooth fillings, you must pay for the cost difference. If you want full anaesthesia instead of local anaesthesia, you must pay the cost difference[^2]. If you want the *best* treatment, you must pay for the price difference. Tooth cleanings are not covered[^3]. It's the same with other public health insurers. This is why many people get extra dental insurance (*Zahnzusatzversicherung*).
+At the dentist, TK only covers the least expensive treatment. For example, if you want high quality tooth fillings, you must pay for the cost difference. If you want full anaesthesia instead of local anaesthesia, you must pay the cost difference.[^2] If you want the *best* treatment, you must pay for the price difference. Tooth cleanings are not covered.[^3] It's the same with other public health insurers. This is why many people get extra dental insurance (*Zahnzusatzversicherung*).
 
 **[What does public health insurance cover? ➞](/guides/german-health-insurance#what-does-public-health-insurance-cover)**
 

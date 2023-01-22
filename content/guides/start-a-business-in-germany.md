@@ -130,11 +130,11 @@ When you register your address for the first time, you get a tax ID (*[[Steuerid
 
 ## Step 2: Open a bank account
 
-You need a bank account to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung), and to pay your taxes. You don't need a *German* bank account; any bank European bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung) is okay[^0].
+You need a bank account to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung), and to pay your taxes. You don't need a *German* bank account; any bank European bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung) is okay.[^0]
 
-If you are a *[[Freiberufler]]* or a *[[Gewerbe]]*, you don't need a business bank account[^1]. You can use your personal bank account. Check your bank's terms and conditions; some banks don't let you use your personal account for your business[^2].
+If you are a *[[Freiberufler]]* or a *[[Gewerbe]]*, you don't need a business bank account.[^1] You can use your personal bank account. Check your bank's terms and conditions; some banks don't let you use your personal account for your business.[^2]
 
-If you form a corporation (GmbH, UG, AG or KGaA), you need a separate business account (*[[Geschäftskonto]]*)[^2]. It's required.
+If you form a corporation (GmbH, UG, AG or KGaA), you need a separate business account (*[[Geschäftskonto]]*).[^2] It's required.
 
 If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your bookkeeping easier. I use [Kontist](/out/kontist) since January 2022.
 
@@ -148,11 +148,11 @@ You should have two bank accounts: one for you, and one for your business. If yo
 
 ### The Finanzamt can freeze your account
 
-If you don't pay your taxes, the *[[Finanzamt]]* can freeze your bank accounts. They will freeze all of your accounts, not just your business account. They can also freeze your accounts in other EU countries[^3]. When the *Finanzamt* freezes your bank account, you can't withdraw money or make bank transfers[^4].
+If you don't pay your taxes, the *[[Finanzamt]]* can freeze your bank accounts. They will freeze all of your accounts, not just your business account. They can also freeze your accounts in other EU countries.[^3] When the *Finanzamt* freezes your bank account, you can't withdraw money or make bank transfers.[^4]
 
 Sometimes, the *Finanzamt* can freeze your accounts by mistake. It happened to me, and to other people I know. Even if it's not your fault, it can take a few days to fix. During that time, you can't withdraw money.
 
-If you get a *Pfändungsschutzkonto* (*P-Konto*), you can access some of your money, even if your bank account is frozen[^5]. It gives you enough money to buy food and pay your bills[^6]. You can switch to a *P-Konto* for free[^7], but it can affect your *[[Schufa]]* score[^8].
+If you get a *Pfändungsschutzkonto* (*P-Konto*), you can access some of your money, even if your bank account is frozen.[^5] It gives you enough money to buy food and pay your bills.[^6] You can switch to a *P-Konto* for free,[^7] but it can affect your *[[Schufa]]* score.[^8]
 
 ## Step 3: Find a tax advisor
 
@@ -182,7 +182,7 @@ In Berlin, you can [apply for a *Gewerbeschein* online](/guides/gewerbeschein). 
 
 ## Step 6: Register with the Finanzamt
 
-The next step is to declare your business to the *[[Finanzamt]]*. You must [fill the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung) online. It takes 5 to 7 weeks[^9], including 1 week to [create an ELSTER account](/guides/elster-account).
+The next step is to declare your business to the *[[Finanzamt]]*. You must [fill the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung) online. It takes 5 to 7 weeks,[^9] including 1 week to [create an ELSTER account](/guides/elster-account).
 
 Your [tax advisor](/glossary/Steuerberater) can register your business for you. If you don't speak German, use Sorted's [free tool to register your business](/out/sorted-fragebogen). I tried it; it's really good.
 
@@ -219,13 +219,13 @@ The state can help you start a business. There are many options:
 - **Training voucher** (*[AVGS](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein)* or *[[Bildungsgutschein]]*)  
     If you are unemployed, you can get free coaching or training. It's paid by the *[[Bundesagentur für Arbeit]]*. There are [hundreds of different classes](https://web.arbeitsagentur.de/coachingundaktivierung/suche?mz=SA%2004&uk=Bundesweit&pg=0&re=BE) for business owners, including German classes.
 - **Initial funding** (*Einstiegsgeld*)  
-    If you already get [[ALG II]], the *[[Bundesagentur für Arbeit]]* can give 50% more money to help you start your business[^10]. More information [here](https://redtapetranslation.com/algii-and-einstiegsgeld-a-government-grant-to-start-your-business/).
+    If you already get [[ALG II]], the *[[Bundesagentur für Arbeit]]* can give 50% more money to help you start your business.[^10] More information [here](https://redtapetranslation.com/algii-and-einstiegsgeld-a-government-grant-to-start-your-business/).
 - **Investment grant** (*Investitionszuschuss*)  
-    If you already get [[ALG II]], the *[[Bundesagentur für Arbeit]]* can give you up to 5,000€ to buy equipment for your business[^11].
+    If you already get [[ALG II]], the *[[Bundesagentur für Arbeit]]* can give you up to 5,000€ to buy equipment for your business.[^11]
 - **EXIST start-up grant**  
     If you are a student, a graduate or a scientist working in an innovative technology, you can apply for this grant. - [More information](https://www.exist.de/EXIST/Navigation/EN/Start-upFunding/EXIST-Business-Start-up-Grant/exist-business-start-up-grant.html)
 
-You can apply for a training voucher, initial funding and an investment grant at the Jobcenter. If you just moved to Germany, you can't get help from the state[^12].
+You can apply for a training voucher, initial funding and an investment grant at the Jobcenter. If you just moved to Germany, you can't get help from the state.[^12]
 
 ## Step 10: Update your website
 

@@ -14,14 +14,14 @@ This guide shows you how to convert your driving licence to a German driving lic
 You can drive in Germany with a foreign driving licence.
 
 - **With a EU or EEA driving licence**
-    - **If you visit Germany**: You can drive in Germany. You don't need an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)[^0].
-    - **If you live in Germany**: You can drive in Germany until your licence expires[^1]. You don't need a translation or an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)[^0].
+    - **If you visit Germany**: You can drive in Germany. You don't need an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein).[^0]
+    - **If you live in Germany**: You can drive in Germany until your licence expires.[^1] You don't need a translation or an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein).[^0]
 - **With a driving licence from Andorra, Hong Kong, Monaco, New Zealand, San Marino, Senegal or Switzerland
-    - **If you visit Germany**: You can drive in Germany. You don't need a translation or an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)[^0].
-    - **If you live in Germany**: You can drive in Germany for 6 months after you move there[^2]. After 6 months, you must exchange you foreign driving licence for a German one.
+    - **If you visit Germany**: You can drive in Germany. You don't need a translation or an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein).[^0]
+    - **If you live in Germany**: You can drive in Germany for 6 months after you move there.[^2] After 6 months, you must exchange you foreign driving licence for a German one.
 - **With a driving licence from any other country
-    - **If you visit Germany:** You can drive in Germany. If you have a learner's licence, it's not valid in Germany[^0].
-    - **If you live in Germany:** You can drive in Germany for 6 months after you move there[^0]. After 6 months, you must have a German driving licence. In some cases, you can exchange you foreign driving licence for a German one. In other cases, you must [take driving lessons](/guides/english-driving-schools-in-berlin) to get a German driving licence.
+    - **If you visit Germany:** You can drive in Germany. If you have a learner's licence, it's not valid in Germany.[^0]
+    - **If you live in Germany:** You can drive in Germany for 6 months after you move there.[^0] After 6 months, you must have a German driving licence. In some cases, you can exchange you foreign driving licence for a German one. In other cases, you must [take driving lessons](/guides/english-driving-schools-in-berlin) to get a German driving licence.
 
 ### Driving licence translations
 
@@ -30,8 +30,8 @@ If your driving licence is not in German, and it's not from an EU or EEA country
 There are two ways to get a driving licence translation:
 
 - **Get an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)**
-    - In the United States: from the AAA or AATA[^3]. You can apply by mail.
-    - In Canada: from a CAA Travel Centre[^4], a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate[^5].
+    - In the United States: from the AAA or AATA.[^3] You can apply by mail.
+    - In Canada: from a CAA Travel Centre,[^4] a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate.[^5]
     - In the UK: at the Post Office
 - or **get an official translation**...
     - from a certified translator like [LingoKing](/out/lingoking-drivers-licence)
@@ -48,11 +48,11 @@ You can exchange driving licences from certain countries for a German one. In so
 
 ## How to convert your licence to a German one
 
-**You must have received your original driver license before you moved to Germany**[^6]. You can't move to Germany, get a foreign driver license, then exchange it for a German one. You can't get a driver licence in another European Union country while you live in Germany.
+**You must have received your original driver license before you moved to Germany**.[^6] You can't move to Germany, get a foreign driver license, then exchange it for a German one. You can't get a driver licence in another European Union country while you live in Germany.
 
 I renewed my Canadian driver licence *after* I moved to Germany, so the date on my licence was after my [address registration](/glossary/Anmeldung) date. I needed to prove that I got my Canadian licence before moving to Germany. I showed photocopies of my old Canadian licence, and a certificate from my driving school in Canada.
 
-**You can wait more than 6 months to exchange your driver licence**[^7]. If you moved to Germany more than 6 months ago, you can still exchange your foreign licence for a German one. I applied more than 1 year after I moved to Germany, and it was not a problem.
+**You can wait more than 6 months to exchange your driver licence**.[^7] If you moved to Germany more than 6 months ago, you can still exchange your foreign licence for a German one. I applied more than 1 year after I moved to Germany, and it was not a problem.
 
 ### 1. Register your address
 
@@ -74,7 +74,7 @@ You can exchange driving licences from certain countries for a German one. In so
 
 ### 3. Take a first aid course
 
-If required, take a first aid course. This takes around 2 hours. In Berlin, you can even [do it in English](https://www.first-aid-course-english-berlin.com/dates-places?utm_source=allaboutberlin). It costs around 60€[^8].
+If required, take a first aid course. This takes around 2 hours. In Berlin, you can even [do it in English](https://www.first-aid-course-english-berlin.com/dates-places?utm_source=allaboutberlin). It costs around 60€.[^8]
 
 ### 4. Take an eye test
 
@@ -109,26 +109,26 @@ Go to your appointment, and bring all the [required documents](https://service.b
 - **Certified translation of your driving licence**  
     If your driving licence is not in English or German, you need a certified translation of it. You can get one from [Lingoking](/out/lingoking-drivers-licence) for 46€ or from [ADAC](https://www.adac.de/) for 55€. International Driving Permits are also accepted.
 - **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
-- **An EC card or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted[^9].
+- **An EC card or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
 - **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.
 
-The appointment itself only takes a few minutes, and it costs 36.30€[^13]. The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
+The appointment itself only takes a few minutes, and it costs 36.30€.[^13] The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
 
-During your appointment, you should **ask for a temporary license** while you wait for your German driving license[^14].
+During your appointment, you should **ask for a temporary license** while you wait for your German driving license.[^14]
 
 ### 8. Wait
 
-**This can take a long time**. In Berlin, you must wait around 6 weeks to exchange a driver's license. Some people wait much longer[^10][^11]. In 2016, it took me 14 weeks. In smaller cities, it takes 2 to 6 weeks[^15].
+**This can take a long time**. In Berlin, you must wait around 6 weeks to exchange a driver's license. Some people wait much longer[^10].[^11] In 2016, it took me 14 weeks. In smaller cities, it takes 2 to 6 weeks.[^15]
 
 **[Current processing times in Berlin](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php)** - This is the time it takes before they *start* working on your application. It will take a few more weeks after that.
 
-One Canadian got his license faster when the Canadian embassy told the *Fahrerlaubnisbehörde* to hurry up[^14].
+One Canadian got his license faster when the Canadian embassy told the *Fahrerlaubnisbehörde* to hurry up.[^14]
 
 ### 9. Pick up your German driving licence
 
-In a few weeks, you will get a letter. It will tell you to get your new driver license from the *Fahrerlaubnisbehörde*. Go there, take a number, wait your turn, show them your passport and get your license. It's very easy, but you might wait 30 to 60 minutes[^16].
+In a few weeks, you will get a letter. It will tell you to get your new driver license from the *Fahrerlaubnisbehörde*. Go there, take a number, wait your turn, show them your passport and get your license. It's very easy, but you might wait 30 to 60 minutes.[^16]
 
-Sometimes, your licence is ready, but they don't tell you to pick it up[^12][^17]. If you do not get any news after 8 weeks, call the *Fahrerlaubnisbehörde*, and ask about your license.
+Sometimes, your licence is ready, but they don't tell you to pick it up[^12].[^17] If you do not get any news after 8 weeks, call the *Fahrerlaubnisbehörde*, and ask about your license.
 
 ## What's next?
 

@@ -12,7 +12,7 @@ The AVGS voucher (*Aktivierungs- und Vermittlungsgutschein*) gives unemployed pe
 
 With an AVGS voucher, you can learn how to start a business, learn programming, and a lot more.
 
-The AVGS voucher is similar to the training voucher (*[[Bildungsgutschein]]*), but it's more for coaching and short courses[^0].
+The AVGS voucher is similar to the training voucher (*[[Bildungsgutschein]]*), but it's more for coaching and short courses.[^0]
 
 **[More information](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/aktivierungs-vermittlungsgutschein-avgs)** (in German) - [*Bundesagentur für Arbeit*](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)
 

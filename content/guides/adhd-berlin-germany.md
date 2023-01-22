@@ -11,7 +11,7 @@ This guide shows you how ADHD treatment usually works in Germany. It's based on 
 
 ## Health insurance coverage
 
-The ADHD diagnosis, therapy and medication are fully covered by your health insurance. There is only a 5€ deductible on each prescription[^0].
+The ADHD diagnosis, therapy and medication are fully covered by your health insurance. There is only a 5€ deductible on each prescription.[^0]
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you must find a psychiatrist that accepts public health insurance.
 
@@ -59,7 +59,7 @@ They might measure your blood pressure, and take a blood sample. This is to see 
 
 ### First week of medication
 
-During your first or second visit, you will get a prescription (*Rezept*). Bring it to a pharmacy (*Apotheke*) to get your medication. If they don't have your medication, they will order it and contact you in 1 to 3 days. The medication costs you 5€[^0]. Your [health insurance](/glossary/Krankenversicherung) pays the rest.
+During your first or second visit, you will get a prescription (*Rezept*). Bring it to a pharmacy (*Apotheke*) to get your medication. If they don't have your medication, they will order it and contact you in 1 to 3 days. The medication costs you 5€.[^0] Your [health insurance](/glossary/Krankenversicherung) pays the rest.
 
 You will probably get a low dose of Medikinet (Ritalin); usually 5 to 10 mg. Your psychiatrist will teach you how to take the medicine and explain its side effects to you.
 
@@ -79,7 +79,7 @@ If Medikinet does not work for you, tell your psychiatrist. You are not alone. T
 
 ### Long term treatment
 
-After you adjust your medication dosage, you can get prescriptions from your family doctor (*Hausarzt*)[^4]. It's easier to see a family doctor than a psychiatrist, because they have more free appointments.
+After you adjust your medication dosage, you can get prescriptions from your family doctor (*Hausarzt*).[^4] It's easier to see a family doctor than a psychiatrist, because they have more free appointments.
 
 ## ADHD medication used in Germany
 

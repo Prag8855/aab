@@ -11,22 +11,22 @@ If you use public transit without a valid ticket, the [[BVG]] can give you a {{B
 
 ## How to reduce the fine
 
-**Sometimes**. There are two conditions[^0]:
+**Sometimes**. There are two conditions:[^0]
 
 1. **You had a valid ticket**. For example, you have a BVG monthly ticket, but you forgot it at home. An unstamped ticket is not a valid ticket.
-2. **and your ticket is not transferable**. This means that no one else can use it, because your name is written on it. For example, the student card (*Schülerticket*) is not transferable[^1]. Most other tickets are transferable.
+2. **and your ticket is not transferable**. This means that no one else can use it, because your name is written on it. For example, the student card (*Schülerticket*) is not transferable.[^1] Most other tickets are transferable.
 
-If you meet both conditions, you can reduce your fine from {{BVG_FINE}}€ to {{BVG_REDUCED_FINE}}€[^0]. You must use [the BVG online self-service](https://www.bvg-ebe.de/en/selfservice/login). After you get the fine, you have 7 days to react. You can do it [online](https://www.bvg-ebe.de/en/), or at any BVG service centre. If you got a fine on the S-Bahn, you must go to a [[Deutsche Bahn]] service centre.[  ](https://www.bvg-ebe.de/en/)
+If you meet both conditions, you can reduce your fine from {{BVG_FINE}}€ to {{BVG_REDUCED_FINE}}€.[^0] You must use [the BVG online self-service](https://www.bvg-ebe.de/en/selfservice/login). After you get the fine, you have 7 days to react. You can do it [online](https://www.bvg-ebe.de/en/), or at any BVG service centre. If you got a fine on the S-Bahn, you must go to a [[Deutsche Bahn]] service centre.[  ](https://www.bvg-ebe.de/en/)
 
-Even if you don't meet those conditions, you can try to get a reduced fine[^2]. Some people get lucky.
+Even if you don't meet those conditions, you can try to get a reduced fine.[^2] Some people get lucky.
 
 **[Ask for a fine reduction](https://www.bvg-ebe.de/en/)** - BVG service portal
 
 ## Can I ignore a BVG fine?
 
-**No!** If you ignore the fine, they will give it to a collection agency. The fine get more expensive[^3]. If you still don't to pay, you can go to jail[^4].
+**No!** If you ignore the fine, they will give it to a collection agency. The fine get more expensive.[^3] If you still don't to pay, you can go to jail.[^4]
 
-Even if you live in another country, they sometimes try to collect the fine[^5].
+Even if you live in another country, they sometimes try to collect the fine.[^5]
 
 A BVG fine will not affect your visa or [residence permit](/glossary/Aufenthaltstitel) application, even if you ignore it.
 
@@ -34,13 +34,13 @@ A BVG fine will not affect your visa or [residence permit](/glossary/Aufenthalts
 
 ### Do not pay the ticket checker
 
-**If you are on a BVG bus, tram, or U-Bahn train**, don't give money to the ticket checker. BVG ticket checkers can't take your money. Some ticket checkers keep the money you give them[^6]. Some scammers pretend to be ticket checkers, and take your money. You can ask to see their BVG badge.
+**If you are on a BVG bus, tram, or U-Bahn train**, don't give money to the ticket checker. BVG ticket checkers can't take your money. Some ticket checkers keep the money you give them.[^6] Some scammers pretend to be ticket checkers, and take your money. You can ask to see their BVG badge.
 
-**If you are on the S-Bahn or the [[Deutsche Bahn]]**, you can pay the fine on the train. You can only pay by card[^7]. Don't pay with cash. Always ask for a receipt.
+**If you are on the S-Bahn or the [[Deutsche Bahn]]**, you can pay the fine on the train. You can only pay by card.[^7] Don't pay with cash. Always ask for a receipt.
 
 ### Step 1. Find your EBE number
 
-You must find your EBE number to pay your fine. It's written on your fine[^0]. It's a 13-digit number labelled *EBE-Nr*.
+You must find your EBE number to pay your fine. It's written on your fine.[^0] It's a 13-digit number labelled *EBE-Nr*.
 
 [![BVG EBE-Nr](/images/bvg-ebe-nr.jpg)](/images/bvg-ebe-nr.jpg)
 
@@ -62,7 +62,7 @@ You should still pay the fine. If you live in Europe, you can still make a [SEPA
 
 ## What if I lost the fine?
 
-If you lost the fine and you don't know how to pay it, you can write to the BVG at <info@bvg.de>, or visit a BVG service centre[^8].
+If you lost the fine and you don't know how to pay it, you can write to the BVG at <info@bvg.de>, or visit a BVG service centre.[^8]
 
 In your email, include this information:
 

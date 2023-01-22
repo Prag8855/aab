@@ -105,7 +105,7 @@ Click *Weiter* to continue.
 
 [![](/images/berlin-gewerbeanmeldung-15.png)](/images/berlin-gewerbeanmeldung-15.png)
 
-▲ Click *Ausfüllen* to fill the *Gewerbeanmeldung* form. This is a digital version of the [GewA1 form](https://www.gewerbeanmeldung.de/formular-gewerbeanmeldung)[^3]. The questions are the same. You can find a lot of help for the GewA1 form on the internet.
+▲ Click *Ausfüllen* to fill the *Gewerbeanmeldung* form. This is a digital version of the [GewA1 form](https://www.gewerbeanmeldung.de/formular-gewerbeanmeldung).[^3] The questions are the same. You can find a lot of help for the GewA1 form on the internet.
 
 [![](/images/berlin-gewerbeanmeldung-16.png)](/images/berlin-gewerbeanmeldung-16.png)
 
@@ -120,11 +120,11 @@ Click *Weiter* to continue.
 
 ▲ Enter the name of your business, and what kind of business you do.
 
-For the business description, be precise, not too precise[^0]. If this description changes, you must fill this form again. For example, don't write "sale of women's clothes", just "sale of clothes". This way, if you start to sell men's clothes, you don't need to change anything.
+For the business description, be precise, not too precise.[^0] If this description changes, you must fill this form again. For example, don't write "sale of women's clothes", just "sale of clothes". This way, if you start to sell men's clothes, you don't need to change anything.
 
 [![](/images/berlin-gewerbeanmeldung-17.png)](/images/berlin-gewerbeanmeldung-17.png)
 
-▲ Choose the nature of your business[^1].
+▲ Choose the nature of your business.[^1]
 
 1. Choose the kind of registration:
     1. *Hauptniederlassung*: this is the main location of your business; your headquarters or head office. Most people should choose this option.
@@ -137,7 +137,7 @@ For the business description, be precise, not too precise[^0]. If this descripti
     3. Commerce (*Handel*): if you sell products that other people make
     4. Other (*Sonstiges*): if you are not in the other categories, or you are not sure[^1]
 3. Choose *Ja* if you are in the craft register (*Handwerksrolle*), and have a craft card (*Handwerkskarte*). This is only needed if you are in a [regulated craft](https://www.gesetze-im-internet.de/hwo/anlage_a.html). More information [here](https://service.berlin.de/dienstleistung/329376/en/).
-4. Choose *Ja* if this is a side business (*Nebenerwerb*). Usually, this means that you will work less than 15 hours per week on this business[^2].
+4. Choose *Ja* if this is a side business (*Nebenerwerb*). Usually, this means that you will work less than 15 hours per week on this business.[^2]
 5. Enter the number of full time employees. The business owner does not count. If you have no employees, write "0".
 6. Enter the number of part time employees. The business owner does not count. If you have no employees, write "0".
 

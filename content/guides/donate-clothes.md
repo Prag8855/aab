@@ -13,14 +13,14 @@ If you must get rid of old clothes and shoes, you can [resell them](/guides/how-
 
 ![Red Cross clothes donation bin](/images/red-cross-donation-bin-berlin.jpg "A Red Cross donation bin")
 
-There are over 6000 donation bins for clothes in Berlin[^0]. They are often close to supermarkets.
+There are over 6000 donation bins for clothes in Berlin.[^0] They are often close to supermarkets.
 
 - **[Map of clothes donation bins](http://umap.openstreetmap.fr/en/map/altkleider-container_51818#11/52.5170/13.3889)** - Open Street Map
 - [Map of clothes donation bins](https://www.remap-berlin.de/karte?c=Kleidung&s=1) - ReMap Berlin
 
 ### Where will my clothes go?
 
-Some belong to for-profit businesses[^1]. Some donation bins belong to charities. Donation bins with the [FairWertung logo](/glossary/FairWertung) are run by charities. The [Red Cross donation bins](/images/red-cross-donation-bin-berlin.jpg) are also easy to recognise.
+Some belong to for-profit businesses.[^1] Some donation bins belong to charities. Donation bins with the [FairWertung logo](/glossary/FairWertung) are run by charities. The [Red Cross donation bins](/images/red-cross-donation-bin-berlin.jpg) are also easy to recognise.
 
 ### How to use the donation bins?
 
@@ -48,7 +48,7 @@ Many clothes donation bins are operated by charities. Look for donation bins wit
     They have donation bins in every neighbourhood.
 - [**Oxfam foundation**](https://www.oxfam.de/)  
     *[Map of Oxfam shops](https://shops.oxfam.de/shops)*  
-    The clothes will be resold. The profits go to the Oxfam foundation[^3].
+    The clothes will be resold. The profits go to the Oxfam foundation.[^3]
 - [**Straßenfenger**](https://strassenfeger.org/)  
     *[Storkower Str. 139d, Prenzlauer Berg](https://goo.gl/maps/2izztwVEUQ53dBaK9)*  
     The clothes are for the homeless in Berlin.

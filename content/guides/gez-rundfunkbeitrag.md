@@ -11,9 +11,9 @@ The TV tax is a public broadcasting tax in Germany. It costs {{RUNDFUNKBEITRAG_F
 
 ## What is the TV tax?
 
-The TV tax (*Rundfunkbeitrag*) is a broadcasting fee. It pays for [dozens](https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/senderfamilie/index_ger.html) of public television and radio channels. It pays for news, live sports, documentaries and entertainment. Most of the content is also on the internet[^0].
+The TV tax (*Rundfunkbeitrag*) is a broadcasting fee. It pays for [dozens](https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/senderfamilie/index_ger.html) of public television and radio channels. It pays for news, live sports, documentaries and entertainment. Most of the content is also on the internet.[^0]
 
-The TV tax is collected by the *[ARD ZDF Deutschlandradio Beitragsservice](https://en.wikipedia.org/wiki/Beitragsservice_von_ARD,_ZDF_und_Deutschlandradio)*. It was called the GEZ (*Gebühreneinzugszentrale*) until 2013[^1].
+The TV tax is collected by the *[ARD ZDF Deutschlandradio Beitragsservice](https://en.wikipedia.org/wiki/Beitragsservice_von_ARD,_ZDF_und_Deutschlandradio)*. It was called the GEZ (*Gebühreneinzugszentrale*) until 2013.[^1]
 
 ### How much is the TV tax?
 
@@ -21,13 +21,13 @@ The German TV tax costs **{{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month
 
 ### Do I really have to pay it?
 
-**Yes.** Every household must pay the TV tax. If you don't pay, the *Beitragsservice* will send a collection agency. It will be much more expensive, and it will affect your [[Schufa]] score[^8].
+**Yes.** Every household must pay the TV tax. If you don't pay, the *Beitragsservice* will send a collection agency. It will be much more expensive, and it will affect your [[Schufa]] score.[^8]
 
-Some people try not to pay, and it rarely works. Some people went to jail because they refused to pay[^2].
+Some people try not to pay, and it rarely works. Some people went to jail because they refused to pay.[^2]
 
 ## How to pay the TV tax
 
-You don't need to register for the TV tax. When you [register your address](/glossary/Anmeldung), the *[[Bürgeramt]]* tells the *Beitragsservice*, and the *Beitragsservice* collects the TV tax[^3].
+You don't need to register for the TV tax. When you [register your address](/glossary/Anmeldung), the *[[Bürgeramt]]* tells the *Beitragsservice*, and the *Beitragsservice* collects the TV tax.[^3]
 
 Every 3 months, you get an invoice from *ARD ZDF Deutschlandradio Beitragsservice*. In the envelope, there is a yellow paper with the payment information. If you choose to pay automatically, you don't get that letter.
 
@@ -54,25 +54,25 @@ Every 3 months, you will get a [letter from the *Beitragsservice*](/images/gez-r
 How to pay by bank transfer:
 
 1. Find your account number (*Beitragsnummer*). It's on the letters the *Beitragsservice* send you. It has 9 digits. You can also use the last 9 digits of the payment reference number (RF30X<u>000000000</u>).
-2. Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Each state has different payment details[^4], but you can use the central *Beitragsservice* bank account:  
+2. Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Each state has different payment details,[^4] but you can use the central *Beitragsservice* bank account:  
     > **Recipient:** Rundfunk ARD, ZD, DRadio **IBAN:** DE85 3701 0050 0123 4565 03 **BIC:** PBNKDEFFXXX **Kunden-Referenznummer / message:** RF30X_________ (the last 9 digits are your *Beitragsnummer*)
 
 ### If you live with other people
 
 Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax<sup>[§3.1](https://bravors.brandenburg.de/vertraege/rbstv)</sup>. You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
 
-If you live in a student dorm (*Studenten­wohn­heim*), you must still pay the TV tax[^5].
+If you live in a student dorm (*Studenten­wohn­heim*), you must still pay the TV tax.[^5]
 
 ### How to pay less
 
 Some people pay less, or don't pay anything:
 
 - **Students**  
-    If you get financial aid ([*BAföG*](/glossary/BAföG))[^6], you don't pay the TV tax.
+    If you get financial aid ([*BAföG*](/glossary/BAföG)),[^6] you don't pay the TV tax.
 - **Apprentices** ([*Azubis*](/glossary/Azubi))  
-    If you get financial aid (*Ausbildungs­geld*), you don't pay the TV tax. Most apprentices have to pay the TV tax[^7].
+    If you get financial aid (*Ausbildungs­geld*), you don't pay the TV tax. Most apprentices have to pay the TV tax.[^7]
 - **[[ALG II]] and Sozialgeld recipients**  
-    If you receive social benefits, you do not pay the TV tax[^6].
+    If you receive social benefits, you do not pay the TV tax.[^6]
 - **People with disabilities**   
     If you have *RF* in your disabled person's pass (*Schwerbehindertenausweis*), you pay 1/3 of the fee<sup>[1](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/menschen_mit_behinderung/index_ger.html), [§5.3](https://bravors.brandenburg.de/vertraege/rbstv)</sup>.
 - **Senior citizens**  

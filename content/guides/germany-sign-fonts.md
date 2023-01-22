@@ -7,7 +7,7 @@ Date_updated: 2022-04-20
 
 ## "The German font"
 
-When people talk about "the German font", they're often thinking about Fraktur. While it's often associated with National Socialism, it was declared "ungerman" by Adolf Hitler himself in 1941[^0]. **Tannenberg** was commonly used from 1935 to 1941.
+When people talk about "the German font", they're often thinking about Fraktur. While it's often associated with National Socialism, it was declared "ungerman" by Adolf Hitler himself in 1941.[^0] **Tannenberg** was commonly used from 1935 to 1941.
 
 ## BVG font
 
@@ -27,7 +27,7 @@ German road signs use **DIN 1451**, which is available in 3 variants, *Engschrif
 
 ## German licence plate font
 
-German licence plates use **FE-Schrift** (*Fälschungserschwerende Schrift*) since 1995[^2], which made plate numbers too easy to alter.
+German licence plates use **FE-Schrift** (*Fälschungserschwerende Schrift*) since 1995,[^2] which made plate numbers too easy to alter.
 
 ## Berlin and East German fonts
 
@@ -37,7 +37,7 @@ There are several digital releases of Erbar: [URW Erbar](https://www.fonts.com/d
 
 ## Download links
 
-Pieter Wiegel recreated many historical fonts and published them [on his website](http://www.peter-wiegel.de/Fonts/index.html). They can be used without restrictions for commercial purposes[^3].
+Pieter Wiegel recreated many historical fonts and published them [on his website](http://www.peter-wiegel.de/Fonts/index.html). They can be used without restrictions for commercial purposes.[^3]
 
 - [Musterzeichnung IV 44](http://www.peter-wiegel.de/Preussische.html)
 - [Berliner Wand](http://www.peter-wiegel.de/BerlinerWand.html)

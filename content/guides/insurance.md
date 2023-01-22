@@ -23,7 +23,7 @@ For example:
 
 If someone gets hurt because of you, you might pay thousands or even millions of euros in reparations. This is why liability insurance is so important.
 
-83% of Germans have liability insurance[^6]. It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options. If you don't speak German, [GetSafe](/out/getsafe-haftpflicht), [Feather](/out/popsure-haftpflichtversicherung) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance and speak English.
+83% of Germans have liability insurance.[^6] It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options. If you don't speak German, [GetSafe](/out/getsafe-haftpflicht), [Feather](/out/popsure-haftpflichtversicherung) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance and speak English.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -31,9 +31,9 @@ If someone gets hurt because of you, you might pay thousands or even millions of
 
 Private liability insurance does not cover you at work.
 
-If you are self-employed and you make a mistake, your clients can sue you. Professional liability insurance (*Berufs­haft­pflicht­ver­si­che­rung*) protects you against that. It's required for doctors, architects, lawyers and some other professions[^0].
+If you are self-employed and you make a mistake, your clients can sue you. Professional liability insurance (*Berufs­haft­pflicht­ver­si­che­rung*) protects you against that. It's required for doctors, architects, lawyers and some other professions.[^0]
 
-If you are an employee, you don't need professional liability insurance. Your employer's insurance covers you at work[^1].
+If you are an employee, you don't need professional liability insurance. Your employer's insurance covers you at work.[^1]
 
 ### Dog liability insurance
 
@@ -41,7 +41,7 @@ Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) pays for the damage
 
 Dog liability insurance is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. Some states only require dog liability insurance for dangerous breeds.
 
-It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/coya-dogs) offer dog liability insurance and speak English. They also cover dangerous breeds[^2]. You can sometimes save money if you combine private liability insurance and dog liability insurance.
+It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/coya-dogs) offer dog liability insurance and speak English. They also cover dangerous breeds.[^2] You can sometimes save money if you combine private liability insurance and dog liability insurance.
 
 **[Having a dog in Germany ➞](/guides/pet-ownership)**
 
@@ -49,7 +49,7 @@ It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compar
 
 Home contents insurance or household insurance (*Hausratversicherung*) insures your furniture, your appliances, and the other movable things in your house.
 
-For example[^3]:
+For example:[^3]
 
 - There is a fire on your building, and you lose everything you have.
 - A water leak destroys your furniture and electronics.
@@ -57,7 +57,7 @@ For example[^3]:
 
 It sometimes covers laptops and bicycles away from home. It sometimes covers calling a locksmith when you lock yourself out.
 
-Get this insurance if you can't afford to replace everything after a fire. 76% of Germans have it[^4].
+Get this insurance if you can't afford to replace everything after a fire. 76% of Germans have it.[^4]
 
 Household insurance costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home) and [Luko](/out/coya-hausratversicherung) offer household insurance, and they speak English. [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance covers locksmiths.
 
@@ -75,7 +75,7 @@ The best way to find health insurance is to talk to an independent broker. Their
 
 ## Pet health insurance ([[Tierkrankenversicherung]])
 
-Pet health insurance (*[[Tierkrankenversicherung]]* or *Hundekrankenversicherung*) covers the veterinary bills if your dog gets sick. Usually, it does not cover routine operations like vaccines or castration[^5]. However, it covers expensive operations. This can be important when your dog gets old.
+Pet health insurance (*[[Tierkrankenversicherung]]* or *Hundekrankenversicherung*) covers the veterinary bills if your dog gets sick. Usually, it does not cover routine operations like vaccines or castration.[^5] However, it covers expensive operations. This can be important when your dog gets old.
 
 The price of pet insurance depends on the age, race and sex of your dog. It costs around 20€ per month if your dog is still young.
 
@@ -101,7 +101,7 @@ Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare 
 
 This translates to "professional disability insurance". If you have an accident and can't do your job anymore, this insurance will help you. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It's also useful for office workers who can suffer from burnout.
 
-This insurance makes sense if you have people who depend on you, or a mortgage to pay. If you can't work, you can still take care of your family. Around 26% of Germans have disability insurance[^4].
+This insurance makes sense if you have people who depend on you, or a mortgage to pay. If you can't work, you can still take care of your family. Around 26% of Germans have disability insurance.[^4]
 
 Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare options. If you don't speak German, [GetSafe](/out/getsafe-berufunfahigkeit) offers disability insurance in English.
 
@@ -115,7 +115,7 @@ Legal insurance gives you free access to a lawyer. If you have a problem with yo
 
 There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs around 15€ per month. Professional legal insurance is more expensive. The price depends on the type of business.
 
-Around 46% of Germans have legal insurance[^4]. It's not as important as liability insurance, but it's good to have.
+Around 46% of Germans have legal insurance.[^4] It's not as important as liability insurance, but it's good to have.
 
 Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare options. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.
 

@@ -10,7 +10,7 @@ If you want a German driving license, you must take driving lessons. You need 14
 
 ## How the driving exams work
 
-You take the theoretical exam on a computer. The exam is available in 13 different languages: Arabic, English, French, German, Greek, Italian, Croatian, Polish, Portuguese, Romanian, Russian, Spanish and Turkish[^0].
+You take the theoretical exam on a computer. The exam is available in 13 different languages: Arabic, English, French, German, Greek, Italian, Croatian, Polish, Portuguese, Romanian, Russian, Spanish and Turkish.[^0]
 
 You take the practical exam in a car. You must drive around the city, and prove that you can park correctly.
 
@@ -18,7 +18,7 @@ The German driving exam is not easy. People often have to take the exam multiple
 
 ## Trade your foreign driving licence
 
-If you already had a driving license in a non-EU, you can drive for 6 months after moving to Germany. After that, your licence is not valid. You must [trade your foreign license for a German one](/guides/canadian-german-driving-license). If you have a driving licence from another EU country, it is valid until it expires[^1].
+If you already had a driving license in a non-EU, you can drive for 6 months after moving to Germany. After that, your licence is not valid. You must [trade your foreign license for a German one](/guides/canadian-german-driving-license). If you have a driving licence from another EU country, it is valid until it expires.[^1]
 
 Depending on where you got your driving licence, you might not need to take any driving classes.
 

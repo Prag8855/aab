@@ -10,7 +10,7 @@ Related_guides: guides/coronavirus.md, guides/vacation-days.md, guides/sick-leav
 
 A sick note (*Krankschreibung*, *Arbeitsunfähigkeitsbescheinigung*, *AU-Bescheinigung* or *gelber Schein*) is a document you get from a doctor. It confirms that you are sick, and that you should get sick leave.
 
-Most German employers ask for a sick note if you are sick for more than 3 days[^0].
+Most German employers ask for a sick note if you are sick for more than 3 days.[^0]
 
 You can get a sick note by visiting a doctor, with a phone call, or with a video call. The [TeleClinic](https://www.teleclinic.com/) app let you schedule a video call with a doctor. It's only in German, but some doctors speak English.
 

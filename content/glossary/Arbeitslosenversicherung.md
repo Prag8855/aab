@@ -10,7 +10,7 @@ Related_guides: guides/find-a-job-in-berlin.md, guides/cost-of-living.md, tools/
 
 *Arbeitslosenversicherung* is a tax that German employees pay. It gives you the right to claim [unemployment benefits (*ALG I*)](/glossary/ALG%20I) if you lose your job.
 
-Most employees must pay for unemployment insurance. It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your salary every month[^0]. If you are self-employed, unemployment insurance is optional[^1].
+Most employees must pay for unemployment insurance. It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your salary every month.[^0] If you are self-employed, unemployment insurance is optional.[^1]
 
 **[Unemployment insurance calculator ➞](/tools/arbeitslosenversicherung-calculator)**
 

@@ -11,7 +11,7 @@ This guide shows you how to get a car or motorcycle driving licence in Berlin.
 
 ## How much does it cost?
 
-In total, it costs **1,500€ to 2,500€** to get your driving licence[^0]. The costs include:
+In total, it costs **1,500€ to 2,500€** to get your driving licence.[^0] The costs include:
 
 - Eyesight test: [0€](https://www.fielmann.de/service/fuehrerschein-sehtest/) to 25€
 - Driving licence fees: {{DRIVING_LICENCE_FEE|cur}}€
@@ -52,7 +52,7 @@ You must take a first aid course and an eyesight test. Then you must go to the *
 
 ### First aid course
 
-[Fahrschule Oscar](http://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English[^3]. The course takes a full day, around 8 hours[^4]. There is no exam at the end[^5].
+[Fahrschule Oscar](http://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day, around 8 hours.[^4] There is no exam at the end.[^5]
 
 You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
 
@@ -60,7 +60,7 @@ You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
 
 You can get a [free eyesight test at Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/). They have [branches everywhere in Germany](https://www.fielmann.de/niederlassungen/).
 
-[Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), and [Fahrschule Oscar](http://www.fahrschule-oscar.de/) offer first aid *and* eyesight tests. You can do both at the same time[^6].
+[Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), and [Fahrschule Oscar](http://www.fahrschule-oscar.de/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
 
 Try to pass the eyesight test without wearing glasses, or you will need glasses every time you drive.
 
@@ -82,7 +82,7 @@ After your appointment, you must wait 6 to 9 weeks to get the permission paper (
 
 ### Required documents
 
-Bring these documents for your *[[Bürgeramt]]* appointment[^7]:
+Bring these documents for your *[[Bürgeramt]]* appointment:[^7]
 
 1. Passport or ID card (*Personalausweis*)
 2. First aid course certificate
@@ -101,21 +101,21 @@ The appointment takes 15 minutes. During the appointment, you must:
 
 If you can, ask them to mail you the driving licence when it's ready. It costs 5€ more, but it means you don't have to pick it up at the *Fahrerlaubnisbehörde*.
 
-6 to 9 weeks later, you will get a letter that gives you the permission to take a driving exam. Show it to your driving school, and they will give you a training certificate[^8] (*Ausbildungsbescheinigung der Fahrschule*). With this document, you have everything you need to take the theoretical exam later[^9].
+6 to 9 weeks later, you will get a letter that gives you the permission to take a driving exam. Show it to your driving school, and they will give you a training certificate[^8] (*Ausbildungsbescheinigung der Fahrschule*). With this document, you have everything you need to take the theoretical exam later.[^9]
 
-This permission is valid for 12 months[^10].
+This permission is valid for 12 months.[^10]
 
 ![Img 1312 1](/images/IMG_1312-1.jpg)
 
 ## 5. Take the theoretical exam
 
-The theoretical exam is available in 11 languages, including English[^10]. You sit at a computer and answer 30 random questions from a list of over 900 questions. If you get more than 3 or 4 questions wrong, you fail the exam.
+The theoretical exam is available in 11 languages, including English.[^10] You sit at a computer and answer 30 random questions from a list of over 900 questions. If you get more than 3 or 4 questions wrong, you fail the exam.
 
-Some questions are really hard. They are badly translated, and the translations can be confusing or misleading. **Memorisation is the only way to pass the exam**[^11].
+Some questions are really hard. They are badly translated, and the translations can be confusing or misleading. **Memorisation is the only way to pass the exam**.[^11]
 
-Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same[^12][^15]. You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
+Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same[^12].[^15] You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
 
-When you are ready to take the theoretical exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs 22.49€[^9].
+When you are ready to take the theoretical exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs 22.49€.[^9]
 
 ## 6. Take the practical exam
 
@@ -131,11 +131,11 @@ You will then drive back to the Dekra or TÜV branch. This is still part of the 
 
 ## 7. Get your driving licence
 
-When you pass your practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID[^10]. You also give back your current driving licence, so this is your only driving licence for now.
+When you pass your practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID.[^10] You also give back your current driving licence, so this is your only driving licence for now.
 
 [![Temporary driving licence in Germany](/images/IMG_1316.jpg "Temporary driving licence")](/images/IMG_1316.jpg)
 
-The Bundesdruckerei will print a plastic *Kartenführerschein* for you. This will take a few months[^13]. It may be sent to you by [registered mail](/glossary/Einschreibebrief), or you might need to pick it up at the *Fahrerlaubnisbehörde*.
+The Bundesdruckerei will print a plastic *Kartenführerschein* for you. This will take a few months.[^13] It may be sent to you by [registered mail](/glossary/Einschreibebrief), or you might need to pick it up at the *Fahrerlaubnisbehörde*.
 
 This information is in the letter you got from the Bürgeramt in step 4.
 
@@ -147,7 +147,7 @@ If you paid the 5€ fee, and your letter says you should get the plastic drivin
 
 If you didn't pay a 5€ fee, your letter should tell you to pick up your licence from the *[Fahrerlaubnisbehörde](https://www.google.com/maps/place/LABO+Fahrerlaubnisbeh%C3%B6rde/@52.5045857,13.3871626,17z/)* at least 4 weeks after passing your driving exam. **You will NOT be informed when your permanent licence is ready.** You do not need an appointment to visit the *Fahrerlaubnisbehörde*[^13] and pick it up.
 
-Just go to the *Fahrerlaubnisbehörde* with your temporary driving licence and your ID[^14], and say that you came to pick up your driving licence. You must wait until they call you. It can take an hour. You will give your temporary driving licence and get your plastic driving licence.
+Just go to the *Fahrerlaubnisbehörde* with your temporary driving licence and your ID,[^14] and say that you came to pick up your driving licence. You must wait until they call you. It can take an hour. You will give your temporary driving licence and get your plastic driving licence.
 
 ### Get an International Driving Permit
 

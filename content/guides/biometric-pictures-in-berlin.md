@@ -24,7 +24,7 @@ There are passport photo kiosks at the [*Ausländerbehörde*](/glossary/Ausl%C3%
 
 ![Fotoautomat at the Bürgeramt](/images/berlin-buergeramt-fotoautomat.png)
 
-When you get your passport pictures from a *Fotoautomat*, you will get 4 pictures printed on a single piece of paper. You do not need to cut them; they have a tool for this at the *Ausländerbehörde*, and at the *Bürgeramt*[^0].
+When you get your passport pictures from a *Fotoautomat*, you will get 4 pictures printed on a single piece of paper. You do not need to cut them; they have a tool for this at the *Ausländerbehörde*, and at the *Bürgeramt*.[^0]
 
 ## Biometric pictures for other countries
 

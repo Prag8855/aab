@@ -11,11 +11,11 @@ German job offers often show "m/w/d" in the title. It's an abbreviation for "mä
 
 ### Alternative abbreviations
 
-The abbreviation is sometimes in a different order, like "d/w/m", to avoid putting men first and diverse people last[^0]. Other letters like "a" (other), "t" (transsexual), "i" (intersexual), "gn" (gender neutral) and "x" (undefined) are sometimes used[^1].
+The abbreviation is sometimes in a different order, like "d/w/m", to avoid putting men first and diverse people last.[^0] Other letters like "a" (other), "t" (transsexual), "i" (intersexual), "gn" (gender neutral) and "x" (undefined) are sometimes used.[^1]
 
 ## Why is it everywhere?
 
-Hiring discrimination based on gender is illegal. Companies add this information in their job offers to prevent discrimination lawsuits[^2]. It does not guarantee that the employer cares about diversity.
+Hiring discrimination based on gender is illegal. Companies add this information in their job offers to prevent discrimination lawsuits.[^2] It does not guarantee that the employer cares about diversity.
 
 [^0]: [ehmers-blog.de](https://www.ehmers-blog.de/2021/m-w-d-oder-d-w-m-oder-was/)
 [^1]: [karrierebibel.de](https://karrierebibel.de/m-w-d-in-stellenanzeigen/)

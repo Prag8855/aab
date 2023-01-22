@@ -17,7 +17,7 @@ Talk the the person who makes the noise, and ask them to stop. It's sometimes en
 
 ## Contact the Ordnungsamt
 
-The *[[Ordnungsamt]]* will send a police officer to make the noise stop. Usually, they just knock at the door and ask them to stop. If they have to come multiple times, they can give a fine, or confiscate the source of the noise[^0]. For example, the police can confiscate your neighbour's sound system.
+The *[[Ordnungsamt]]* will send a police officer to make the noise stop. Usually, they just knock at the door and ask them to stop. If they have to come multiple times, they can give a fine, or confiscate the source of the noise.[^0] For example, the police can confiscate your neighbour's sound system.
 
 ### By telephone
 
@@ -59,7 +59,7 @@ If construction noises in your building or near your building disturb you, tell 
 
 ## Keep a noise log (Lärmprotokoll)
 
-If the noise makes your life hard, keep a noise log (*Lärmprotokoll*) for at least 2 weeks[^1]. It helps you **ask for a rent reduction**.
+If the noise makes your life hard, keep a noise log (*Lärmprotokoll*) for at least 2 weeks.[^1] It helps you **ask for a rent reduction**.
 
 Use a [*Lärmprotokoll* template](https://www.vebowag.de/service/formulare/laermprotokoll/) or [this Android app](https://play.google.com/store/apps/details?id=de.laermprotokoll.app). Your housing company might have its own template.
 
@@ -67,9 +67,9 @@ Use a [*Lärmprotokoll* template](https://www.vebowag.de/service/formulare/laerm
 
 If there is constant noise where you live, you can get a rent reduction for a "fault in rented property" (*Mangel an der Mietsache*).  
   
-To get a rent reduction, you must prove that the noise is a serious problem[^2]. This is why you must keep a noise log (*Lärmprotokoll*).
+To get a rent reduction, you must prove that the noise is a serious problem.[^2] This is why you must keep a noise log (*Lärmprotokoll*).
 
-There are exceptions. Church bells, children playing and car traffic are normal noises[^3]. If you move near an airport, above a busy street, or next to a bar, you know that it will be noisy. You can't get a rent reduction for these problems[^4].
+There are exceptions. Church bells, children playing and car traffic are normal noises.[^3] If you move near an airport, above a busy street, or next to a bar, you know that it will be noisy. You can't get a rent reduction for these problems.[^4]
 
 [^0]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/beschlagnahmung-der-musikanlage-nach-ruhestoerung), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig_1968/__117.html)
 [^1]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html?utm_source=pocket_reader#:~:text=mindestens%20zwei%20wochen%20lang)

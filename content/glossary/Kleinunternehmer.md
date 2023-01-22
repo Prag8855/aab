@@ -13,15 +13,15 @@ A small business (*Kleinunternehmer*) is a business that follows two conditions<
 - last year's [revenue](/glossary/Umsatz) was under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
 - and this year's *expected* revenue is less than {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
 
-> **Example 1:** You make 30,000€ one year, so you are over the limit. The next year, you are not a small business anymore[^0]. Next January, you must start charging [VAT](/glossary/Umsatzsteuer).
+> **Example 1:** You make 30,000€ one year, so you are over the limit. The next year, you are not a small business anymore.[^0] Next January, you must start charging [VAT](/glossary/Umsatzsteuer).
 
-> **Example 2:** You make 30,000€ one year, and 20,000€ the next. Your revenue is under the limit again, so you can be a small business again[^0].
+> **Example 2:** You make 30,000€ one year, and 20,000€ the next. Your revenue is under the limit again, so you can be a small business again.[^0]
 
 If it's your first year, you must make less than {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€. This amount is prorated: if you start your business in the middle of the year, the income limit is half of {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€.
 
 If you are a *Kleinunternehmer*, you can:
 
-- *Choose* not to charge [VAT](/glossary/Umsatzsteuer)[^1]. This makes accounting easier.
+- *Choose* not to charge [VAT](/glossary/Umsatzsteuer).[^1] This makes accounting easier.
 - *Choose* not to be listed in the trade register (*[[Handelsregister]]*).
 
 Both freelancers (*[[Freiberufler]]*) and tradespeople (*[[Gewerbe]]*) can be a *Kleinunternehmer*.

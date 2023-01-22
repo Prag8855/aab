@@ -5,13 +5,13 @@ Date_created: 2022-05-23
 Date_updated: 2022-05-23
 ---
 
-Hay fever (*Heufieber* or *Heuschnupfen*) is an allergy to pollen. These are the symptoms[^0]:
+Hay fever (*Heufieber* or *Heuschnupfen*) is an allergy to pollen. These are the symptoms:[^0]
 
 - Runny or stuffy nose
 - Itchy nose, eyes and ears
 - Sneezing
 
-In Germany, hay fever season (*Heuschnupfenzeit*) starts around March, and ends around September[^1]. It can be worse on certain months. It depends on the type of pollen you are allergic to.
+In Germany, hay fever season (*Heuschnupfenzeit*) starts around March, and ends around September.[^1] It can be worse on certain months. It depends on the type of pollen you are allergic to.
 
 You can get hay fever in Germany, even if you did not have it before. When I [moved to Berlin](/guides/moving-to-berlin), my hay fever became really bad.
 
@@ -20,13 +20,13 @@ You can get hay fever in Germany, even if you did not have it before. When I [mo
 There are different types of pills against hay fever. **You can buy them without a prescription**. If you go to a pharmacy (*Apotheke*), they will help you choose. Just ask for *Heuschnupfentabletten*.
 
 - **Loratadin**  
-    Pill. Around 10€ for 100 pills[^2]. No prescription needed. This is what I use. It's called Claritin in many countries[^3]. It has [minor side effects](https://en.wikipedia.org/wiki/Loratadine#Adverse_effects).
+    Pill. Around 10€ for 100 pills.[^2] No prescription needed. This is what I use. It's called Claritin in many countries.[^3] It has [minor side effects](https://en.wikipedia.org/wiki/Loratadine#Adverse_effects).
 - **Cetirizine**  
-    Pill. Around 8€ for 100 pills[^4]. No prescription needed. It's called Zyrtec in many countries[^5]. It has [some side effects](https://en.wikipedia.org/wiki/Cetirizine).
+    Pill. Around 8€ for 100 pills.[^4] No prescription needed. It's called Zyrtec in many countries.[^5] It has [some side effects](https://en.wikipedia.org/wiki/Cetirizine).
 - **Levocetirizine**  
-    Pill. Around 8€ for 20 pills[^6]. No prescription needed. It's called Xyzal in many countries[^7]. It has [minor side effects](https://en.wikipedia.org/wiki/Levocetirizine#Side_effects).
+    Pill. Around 8€ for 20 pills.[^6] No prescription needed. It's called Xyzal in many countries.[^7] It has [minor side effects](https://en.wikipedia.org/wiki/Levocetirizine#Side_effects).
 - **Mometasone**  
-    Nose spray. Around 12€ per bottle[^8]. No prescription needed. It has [some side effects](https://en.wikipedia.org/wiki/Mometasone#Side_effects).
+    Nose spray. Around 12€ per bottle.[^8] No prescription needed. It has [some side effects](https://en.wikipedia.org/wiki/Mometasone#Side_effects).
 
 You can buy pollen allergy pills in these places:
 
@@ -38,17 +38,17 @@ You can't buy allergy pills at dm or Rossmann.
 
 ### Does health insurance pay for it?
 
-**No.** Public health insurance does not pay for allergy pills[^9]. Private health insurance can pay for it if it's prescribed by a doctor[^10].
+**No.** Public health insurance does not pay for allergy pills.[^9] Private health insurance can pay for it if it's prescribed by a doctor.[^10]
 
 ### Can I deduct it from my taxes?
 
-**Yes.** You can declare allergy pills when you file your taxes, but only if it's prescribed by a doctor[^11]. File it under *außergewöhnlichen Belastungen*.
+**Yes.** You can declare allergy pills when you file your taxes, but only if it's prescribed by a doctor.[^11] File it under *außergewöhnlichen Belastungen*.
 
 ## Tips to deal with hay fever
 
 - Use the [pollen risk index](https://www.dwd.de/DE/leistungen/gefahrenindizespollen/gefahrenindexpollen.html) tool from the German weather service. It shows you what types of pollen are in the air. This helps you find what type of pollen you are allergic to.
-- Wash your hair before going to bed[^12].
-- Buy an air purifier and a vacuum robot to remove pollen from your apartment[^12].
+- Wash your hair before going to bed.[^12]
+- Buy an air purifier and a vacuum robot to remove pollen from your apartment.[^12]
 
 [^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Allergic_rhinitis)
 [^1]: [allergie.hexal.de](https://allergie.hexal.de/pollenflug/pollenflugkalender/)

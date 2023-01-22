@@ -10,7 +10,7 @@ Related_guides: guides/german-tax-id-steuernummer.md, guides/fragebogen-zur-steu
 
 Value-added tax (VAT) is called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer*, (*MwSt.*) in German.
 
-Most products and services sold in Germany have a 19% VAT[^0]. Some products and services have a reduced VAT of 7%.
+Most products and services sold in Germany have a 19% VAT.[^0] Some products and services have a reduced VAT of 7%.
 
 VAT is almost always included in the price you see. It's not added at checkout.
 

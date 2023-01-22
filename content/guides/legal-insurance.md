@@ -14,9 +14,9 @@ Legal insurance is also called legal protection insurance or legal expenses insu
 
 ## What is legal insurance?
 
-**If you need a lawyer, legal insurance pays for it**. If you go to court, your legal insurance pays for all the legal costs, even if you lose[^0].
+**If you need a lawyer, legal insurance pays for it**. If you go to court, your legal insurance pays for all the legal costs, even if you lose.[^0]
 
-For example, if you have a problem with your landlord, you can talk to a lawyer for free. The lawyer can write a letter to your landlord. If the letter doesn't solve the problem, you can sue your landlord. Your legal insurance will pay for everything[^0].
+For example, if you have a problem with your landlord, you can talk to a lawyer for free. The lawyer can write a letter to your landlord. If the letter doesn't solve the problem, you can sue your landlord. Your legal insurance will pay for everything.[^0]
 
 If you don't have legal insurance, you must decide between paying 200€ per hour[^1] for a lawyer, or giving up. In Germany, the loser pays for the winner's legal fees (except with employment law), but if you're not 100% sure of winning, it's risky. If the case is settled out of court, you still need to pay your lawyer. People often let their landlord or their employer win, because they can't afford a lawyer. With legal insurance, you can always defend yourself. When people know that you can defend yourself, they don't mess with you.
 
@@ -27,7 +27,7 @@ If you don't have legal insurance, you must decide between paying 200€ per hou
 Each insurance policy is different. Usually, you can choose what your insurance covers.
 
 - **Getting advice from a lawyer**  
-    You can call a lawyer and ask them questions. You can also meet with a lawyer for a consultation. You can always choose the lawyer[^2]. Many legal insurances also have a lawyer hotline that you can call.
+    You can call a lawyer and ask them questions. You can also meet with a lawyer for a consultation. You can always choose the lawyer.[^2] Many legal insurances also have a lawyer hotline that you can call.
 - **Sending legal letters**  
     A lawyer can write a cease-and-desist letter (*[[Abmahnung]]*) to your landlord or your employer. That often solves the problem. It shows that you can defend yourself.
 - **Suing someone**  
@@ -35,7 +35,7 @@ Each insurance policy is different. Usually, you can choose what your insurance 
 - **Mediation**  
     Mediation is when a neutral expert helps two people find a solution. Your legal insurance will pay for the mediator.
 - **Your spouse and children**  
-    Your legal insurance can cover your spouse for an extra fee. Your children under 18 years old are usually covered. If your children are studying, they are usually covered until they are 25[^3].
+    Your legal insurance can cover your spouse for an extra fee. Your children under 18 years old are usually covered. If your children are studying, they are usually covered until they are 25.[^3]
 
 Here are a few examples where your legal insurance can help:
 
@@ -50,49 +50,49 @@ Here are a few examples where your legal insurance can help:
 - **Problem with a government office**  
     For example, if you have problems with the *[[Finanzamt]]* or the *[[Bürgeramt]]*. Immigration problems are not covered.
 - **Problem with another insurance**  
-    For example, if your disability insurance won't pay, or if you had a car accident and the other person's insurance won't pay[^4]. This is very common: 25% of disability insurance claims are refused[^5].
+    For example, if your disability insurance won't pay, or if you had a car accident and the other person's insurance won't pay.[^4] This is very common: 25% of disability insurance claims are refused.[^5]
 - **You want to sue someone for damages**  
-    For example, a car hit you when you were on your bicycle[^6], or someone punched you in the face, and you want to sue them.
+    For example, a car hit you when you were on your bicycle,[^6] or someone punched you in the face, and you want to sue them.
 
 ### What is not covered
 
 - **Someone else sues you for damages**  
-    If someone sues you for damages that you have caused, your legal insurance won't help you[^7]. This is covered by [liability insurance](/guides/haftpflichtversicherung) (*[[Haftpflichtversicherung]]*). Liability insurance is a lot more important than legal insurance.
+    If someone sues you for damages that you have caused, your legal insurance won't help you.[^7] This is covered by [liability insurance](/guides/haftpflichtversicherung) (*[[Haftpflichtversicherung]]*). Liability insurance is a lot more important than legal insurance.
 - **Things that happened before you had insurance**  
-    You must get insurance *before* you have a problem. It does not cover things that happened before you got the insurance[^1].
+    You must get insurance *before* you have a problem. It does not cover things that happened before you got the insurance.[^1]
 - **Immigration problems**  
-    In general, immigration problems are not covered[^8].
+    In general, immigration problems are not covered.[^8]
 - **Divorce, inheritance problems**  
-    Usually, these are not covered by legal insurance[^9]. Your insurance usually covers the first consultation with a lawyer, nothing more[^10]. If your insurance covers divorces, there is usually a 3 year waiting period before you are covered.
+    Usually, these are not covered by legal insurance.[^9] Your insurance usually covers the first consultation with a lawyer, nothing more.[^10] If your insurance covers divorces, there is usually a 3 year waiting period before you are covered.
 - **Piracy, theft and intentional crimes**  
-    If you get caught [pirating movies](/guides/pirating-streaming-movies-in-germany), your legal insurance usually won't help you[^11]. It also won't help you with murder, fraud, tax evasion and other intentional crimes[^12].
+    If you get caught [pirating movies](/guides/pirating-streaming-movies-in-germany), your legal insurance usually won't help you.[^11] It also won't help you with murder, fraud, tax evasion and other intentional crimes.[^12]
 - **Fines**  
-    Legal insurance pays for legal costs, not fines. For example, it won't pay for your speeding ticket[^13]. If you get a [BVG fine](/guides/paying-a-bvg-fine), your insurance won't pay for it.
+    Legal insurance pays for legal costs, not fines. For example, it won't pay for your speeding ticket.[^13] If you get a [BVG fine](/guides/paying-a-bvg-fine), your insurance won't pay for it.
 - **Self-employment**  
     Private legal insurance does not cover your business activities. For that, you need professional legal insurance (*Gewerberechtsschutzversicherung*).
 - **Cases that you can't win**  
-    Your legal insurance will not pay to go to court if you have no chance of winning[^7].
+    Your legal insurance will not pay to go to court if you have no chance of winning.[^7]
 
-Sometimes, you still get a little coverage for these problems. For example, [GetSafe](/out/getsafe-rechtsschutz) covers consultation costs for online piracy[^14], but not going to court. They cover marriage and inheritance, but only for a few hundred euros. They can cover intentional crimes, but that costs more.
+Sometimes, you still get a little coverage for these problems. For example, [GetSafe](/out/getsafe-rechtsschutz) covers consultation costs for online piracy,[^14] but not going to court. They cover marriage and inheritance, but only for a few hundred euros. They can cover intentional crimes, but that costs more.
 
 ### Fair use
 
-**If you use your legal insurance too much, it can be cancelled**[^15]. If you make 2 expensive claims in less than 12 months, they will often cancel your insurance. They will still pay for those 2 claims, but after that, you are not insured. They will not cancel your insurance because you talked to a lawyer[^16], only for expensive things like going to court. They can even cancel your insurance for no reason, but this rarely happens. In any case, they will cancel the insurance after everything is over, not in the middle of a court case. This is true for all insurers.
+**If you use your legal insurance too much, it can be cancelled**.[^15] If you make 2 expensive claims in less than 12 months, they will often cancel your insurance. They will still pay for those 2 claims, but after that, you are not insured. They will not cancel your insurance because you talked to a lawyer,[^16] only for expensive things like going to court. They can even cancel your insurance for no reason, but this rarely happens. In any case, they will cancel the insurance after everything is over, not in the middle of a court case. This is true for all insurers.
 
 ## How to use your legal insurance
 
 ### The waiting period
 
-You can't use your legal insurance as soon as you get it. There is usually a 3 to 6 month waiting period (*Wartefrist*)[^17]. The waiting period is shorter for certain problems (traffic, taxes), and longer for other problems (work, divorce).
+You can't use your legal insurance as soon as you get it. There is usually a 3 to 6 month waiting period (*Wartefrist*).[^17] The waiting period is shorter for certain problems (traffic, taxes), and longer for other problems (work, divorce).
 
-You must get insurance *before* you have a problem. It does not cover things that happened before you got the insurance[^1].
+You must get insurance *before* you have a problem. It does not cover things that happened before you got the insurance.[^1]
 
 ### How to use your legal insurance
 
 1. **Contact your insurer**  
-    Ask your insurance company for a cover note (*[[Deckungszusage]]*). This confirms that the insurance will cover your legal costs. You can request it yourself, or your lawyer can do it for you. The insurance company has 2 weeks to give it to you[^18]. Your insurance might refuse to cover you if they think you can't win. This is why you should ask for a *Deckungszusage* before you see a lawyer.
+    Ask your insurance company for a cover note (*[[Deckungszusage]]*). This confirms that the insurance will cover your legal costs. You can request it yourself, or your lawyer can do it for you. The insurance company has 2 weeks to give it to you.[^18] Your insurance might refuse to cover you if they think you can't win. This is why you should ask for a *Deckungszusage* before you see a lawyer.
 2. **Choose a lawyer**  
-    You can always choose the lawyer[^2]. Your insurance can also recommend a lawyer. Sometimes, if you choose the recommended lawyer, you pay a lower deductible (*[[Selbstbeteiligung]]*)[^19].
+    You can always choose the lawyer.[^2] Your insurance can also recommend a lawyer. Sometimes, if you choose the recommended lawyer, you pay a lower deductible (*[[Selbstbeteiligung]]*).[^19]
 3. **Get a first consultation**  
     Talk to a lawyer. During the first consultation (*Erstberatung*), your lawyer will listen to you, and tell you what you can do next.
 4. **Solve the problem**  
@@ -100,7 +100,7 @@ You must get insurance *before* you have a problem. It does not cover things tha
 
 ## How much does legal insurance cost?
 
-**16€ to 24€ per month**[^20]. The cost depends on a few things[^20]:
+**16€ to 24€ per month**.[^20] The cost depends on a few things:[^20]
 
 - **What your insurance covers**  
     You can choose if your legal insurance covers traffic problems, work problems or apartment problems. If your legal insurance covers more things, it will be more expensive.
@@ -112,11 +112,11 @@ You must get insurance *before* you have a problem. It does not cover things tha
 
 ## Is legal insurance worth it?
 
-**Legal insurance is a luxury.** It's not as important as [liability insurance](/guides/haftpflichtversicherung), but it's good to have[^21]. 46% of German households have legal insurance[^22].
+**Legal insurance is a luxury.** It's not as important as [liability insurance](/guides/haftpflichtversicherung), but it's good to have.[^21] 46% of German households have legal insurance.[^22]
 
 A consultation with a lawyer costs around 200€ per hour. Simple legal cases cost less than 1,000€. Going to court usually costs thousands of euros, but if you win, the other side pays for everything. If you lose, then you pay for everything. It can be very expensive. If the case is settled out of court, you still need to pay your lawyer.
 
-With legal insurance, you can also call a lawyer just to ask a few questions[^23]. They can check a contract before you sign it. This is useful if you have a German contract, and you don't speak German. The biggest benefit of legal insurance is quick access to a lawyer. **If you talk to a lawyer once or twice per year, it's already worth it.**
+With legal insurance, you can also call a lawyer just to ask a few questions.[^23] They can check a contract before you sign it. This is useful if you have a German contract, and you don't speak German. The biggest benefit of legal insurance is quick access to a lawyer. **If you talk to a lawyer once or twice per year, it's already worth it.**
 
 If you don't need full legal insurance, look at [cheaper options](/guides/questions-about-berlin#legal-questions) like tenant associations (*[[Mieterverein]]*) or legaltech like [Conny](/out/conny).
 
@@ -129,11 +129,11 @@ When you choose legal insurance, always read the policy. Every insurance has dif
 You can choose what your legal insurance covers.
 
 - **Problems with your landlord** (*Mietrechtsschutz*)  
-    If you don't trust your landlord, this can be very useful. If you only need this protection, just join a tenant association (*[[Mieterverein]]*). It's cheaper. *Mietrechtsschutz* alone is not really worth it[^24].
+    If you don't trust your landlord, this can be very useful. If you only need this protection, just join a tenant association (*[[Mieterverein]]*). It's cheaper. *Mietrechtsschutz* alone is not really worth it.[^24]
 - **Problems with your tenants** (*Wohnrechtsschutz*)  
-    If you have an apartment, and you rent it to someone else, this can be useful. If you only need this protection, you can join a landlord association. It usually includes legal assistance[^25].
+    If you have an apartment, and you rent it to someone else, this can be useful. If you only need this protection, you can join a landlord association. It usually includes legal assistance.[^25]
 - **Traffic problems** (*Verkehrsrechtsschutz*)  
-    If you drive or cycle a lot, this can be very useful. If you have a traffic accident, your legal insurance can help you sue the person who caused the accident[^26]. It can also help you if the other person's insurance insurance won't pay. Some car insurance policies already include this protection. If *you* caused the accident, your [car insurance](/guides/car-insurance-germany) (for your car) or your [liability insurance](/guides/haftpflichtversicherung) (for your bicycle) already cover the costs[^27].
+    If you drive or cycle a lot, this can be very useful. If you have a traffic accident, your legal insurance can help you sue the person who caused the accident.[^26] It can also help you if the other person's insurance insurance won't pay. Some car insurance policies already include this protection. If *you* caused the accident, your [car insurance](/guides/car-insurance-germany) (for your car) or your [liability insurance](/guides/haftpflichtversicherung) (for your bicycle) already cover the costs.[^27]
 - **Work problems** (*Arbeitsrechtsschutz* or *Berufsrechtsschutz*)  
     If you don't trust your employer, this can be very useful. If you have a problem with your employer, your legal insurance can help you.
 - **Other problems** (*Privatrechtsschutz*)  
@@ -143,29 +143,29 @@ You can choose what your legal insurance covers.
 
 ### Coverage limit
 
-Your legal insurance should cover you for at least 300,000€[^7]. Clark recommends at least 500,000€, plus 25,000€ for problems in other countries[^28]. Some insurances have unlimited coverage.
+Your legal insurance should cover you for at least 300,000€.[^7] Clark recommends at least 500,000€, plus 25,000€ for problems in other countries.[^28] Some insurances have unlimited coverage.
 
 Remember that if you use your insurance too much, [they can cancel it](/guides/legal-insurance#fair-use).
 
 ### Waiting period
 
-Usually, you must wait 3 to 6 months before you can use your legal insurance[^29]. Some policies do not have a waiting period, but they are very expensive[^30]. Sometimes, the waiting period is different for certain things. It's usually shorter for tax problems, and longer for work and apartment problems[^31].
+Usually, you must wait 3 to 6 months before you can use your legal insurance.[^29] Some policies do not have a waiting period, but they are very expensive.[^30] Sometimes, the waiting period is different for certain things. It's usually shorter for tax problems, and longer for work and apartment problems.[^31]
 
-Your insurance does not cover existing problems, even if there is no waiting period[^32]. You must get legal insurance before you need it. If your house is on fire, it's too late to buy house insurance.
+Your insurance does not cover existing problems, even if there is no waiting period.[^32] You must get legal insurance before you need it. If your house is on fire, it's too late to buy house insurance.
 
 ### Deductible
 
-You can choose legal insurance with a deductible (*[[Selbstbeteiligung]]*). When you have a deductible, your insurance is cheaper[^33]. Usually, the deductible is less than 500€. Check24 recommends a 150€ deductible[^34].
+You can choose legal insurance with a deductible (*[[Selbstbeteiligung]]*). When you have a deductible, your insurance is cheaper.[^33] Usually, the deductible is less than 500€. Check24 recommends a 150€ deductible.[^34]
 
-Some insurance policies have no deductible for first consultations. That means that you can talk to a lawyer for free[^18], and pay no deductible. If you go to court and you win, the losing side pays for your legal costs, including your deductible[^18].
+Some insurance policies have no deductible for first consultations. That means that you can talk to a lawyer for free,[^18] and pay no deductible. If you go to court and you win, the losing side pays for your legal costs, including your deductible.[^18]
 
 ### Combined with other insurances
 
-**Do not get your legal insurance from the same company as your other insurances**[^35]. If you have a problem with your other insurances, you will sue the same company that sold you legal insurance. They might refuse to help you.
+**Do not get your legal insurance from the same company as your other insurances**.[^35] If you have a problem with your other insurances, you will sue the same company that sold you legal insurance. They might refuse to help you.
 
 ### English support
 
-If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English[^36]. Feather has an English-speaking support hotline.
+If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.[^36] Feather has an English-speaking support hotline.
 
 ### Insurance comparison websites
 
@@ -177,7 +177,7 @@ If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/o
 
 If you just need protection for apartment problems, join a tenant association (*[[Mieterverein]]*). [Conny](/out/conny-mietpreisbremse) can help you lower your rent. [Mineko](https://www.mineko.de/) can check your [utilities bill](/glossary/Betriebskostenabrechnung).
 
-**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[^37]. You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[ALG II]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible[^38]. You usually need to speak German.
+**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^37] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[ALG II]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^38] You usually need to speak German.
 
 ## Summary
 

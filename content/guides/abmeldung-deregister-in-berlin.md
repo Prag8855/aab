@@ -35,7 +35,7 @@ After you deregister, you can also cancel your electricity contract, your mobile
 
 You can do your *Abmeldung* **in person, by mail or by email**. It's free.
 
-You can deregister 7 days before you [move out](/guides/moving-out). You must do it maximum 14 days after you move out[^0]. After you deregister, you get an *[[Abmeldebescheinigung]]*. This document confirms that your address is deregistered. If you deregister by email or by post, they *sometimes* send it to your new address[^1].
+You can deregister 7 days before you [move out](/guides/moving-out). You must do it maximum 14 days after you move out.[^0] After you deregister, you get an *[[Abmeldebescheinigung]]*. This document confirms that your address is deregistered. If you deregister by email or by post, they *sometimes* send it to your new address.[^1]
 
 ### In person at the Bürgeramt
 
@@ -56,30 +56,30 @@ Send these documents by [registered mail](/glossary/Einschreibebrief) to [any *B
 - The filled and signed [*Abmeldung* form](/docs/abmeldung)
 - A copy of your passport
 
-Don't forget to write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form. You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later[^2]. It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person.
+Don't forget to write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form. You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later.[^2] It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person.
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
 ### By email
 
-You *can* deregister by email[^3], but **it's not a good idea**. You might not get a confirmation email[^2] or an *[[Abmeldebescheinigung]]*[^2]. They don't always send your *[[Abmeldebescheinigung]]* to another country. It's better if you deregister in person.
+You *can* deregister by email,[^3] but **it's not a good idea**. You might not get a confirmation email[^2] or an *[[Abmeldebescheinigung]]*.[^2] They don't always send your *[[Abmeldebescheinigung]]* to another country. It's better if you deregister in person.
 
 You can deregister by email at any *Bürgeramt*, but they all have different rules:
 
 - **Charlottenburg-Wilmersdorf** - <buergeramt@charlottenburg-wilmersdorf.de>  
-    They will send your *Abmeldebescheinigung* by post, in Germany or in another country[^4].
+    They will send your *Abmeldebescheinigung* by post, in Germany or in another country.[^4]
 - **Friedrichshain and Kreuzberg** - <buergeramt@ba-fk.berlin.de>  
-    They will send your *Abmeldebescheinigung* by post, not by email[^5].
+    They will send your *Abmeldebescheinigung* by post, not by email.[^5]
 - **Lichtenberg** - <post.buergeramt@lichtenberg.berlin.de>  
-    They will send your *Abmeldebescheinigung* by post[^6] and by email[^7].
+    They will send your *Abmeldebescheinigung* by post[^6] and by email.[^7]
 - **Mitte** - <buergeramt@ba-mitte.berlin.de>  
-    They will send your *Abmeldebescheinigung* by post to an address in Germany, and sometimes in another country[^8].
+    They will send your *Abmeldebescheinigung* by post to an address in Germany, and sometimes in another country.[^8]
 - **Neukölln** - <buergeramt@bezirksamt-neukoelln.de>  
     They will send your *Abmeldebescheinigung* by post to an address in Germany or in another country, and by email.
 - **Reinickendorf** - <buergeraemter@reinickendorf.berlin.de>  
-    They will send your *Abmeldebescheinigung* by email, or to an address in Germany[^9].
+    They will send your *Abmeldebescheinigung* by email, or to an address in Germany.[^9]
 - **Spandau** - <buergeramt@ba-spandau.berlin.de>  
-    They will send your *Abmeldebescheinigung* by post to an address in Germany, but not in another country[^10].
+    They will send your *Abmeldebescheinigung* by post to an address in Germany, but not in another country.[^10]
 - **Steglitz-Zehlendorf** - <buergeramt@ba-sz.berlin.de>  
     They will send your *Abmeldebescheinigung* by post to an address in Germany or in another country.[^11]
 - **Treptow-Köpenick** - <bued.backoffice@ba-tk.berlin.de>  
@@ -102,9 +102,9 @@ Attach this to your email:
 
 - The filled and signed [*Abmeldung* form](/docs/abmeldung)
 - A copy of your passport
-- An image of your signature, in the email message. It must look like the signature on the *Abmeldung* form[^13].
+- An image of your signature, in the email message. It must look like the signature on the *Abmeldung* form.[^13]
 
-Don't forget to write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form. You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later[^2]. It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person.
+Don't forget to write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form. You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later.[^2] It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person.
 
 ## How much does the Abmeldung cost?
 
@@ -116,27 +116,27 @@ When you deregister, you don't live in Germany anymore. This has consequences.
 
 ### Health insurance
 
-When you deregister, you could lose your German health insurance[^14]. German health insurance is only for German residents. If you want to keep your health insurance, you probably should not deregister.
+When you deregister, you could lose your German health insurance.[^14] German health insurance is only for German residents. If you want to keep your health insurance, you probably should not deregister.
 
-If you have private health insurance, you can ask for *Anwartschaftsversicherung*. You pay a little money every month while you are outside of Germany. When you return to Germany, you can get your old health insurance back[^15]. It guarantees that you will get the same health insurance for the same price.
+If you have private health insurance, you can ask for *Anwartschaftsversicherung*. You pay a little money every month while you are outside of Germany. When you return to Germany, you can get your old health insurance back.[^15] It guarantees that you will get the same health insurance for the same price.
 
 ### Social security
 
-When you deregister, you could lose access to [[ALG I]], [[ALG II]], and other social services[^16]. Those services are only for German residents.
+When you deregister, you could lose access to [[ALG I]], [[ALG II]], and other social services.[^16] Those services are only for German residents.
 
 ### Bank account
 
-You can keep your German bank account. If the bank sends you a letter, and it can't be delivered, they might freeze your bank account[^17]. If they freeze your bank account, you can't withdraw money, use your credit card, or make bank transfers.
+You can keep your German bank account. If the bank sends you a letter, and it can't be delivered, they might freeze your bank account.[^17] If they freeze your bank account, you can't withdraw money, use your credit card, or make bank transfers.
 
 ### Residence permit
 
-There is no simple answer[^18].
+There is no simple answer.[^18]
 
 You do not automatically lose your residence permit when you deregister your address<sup>[1](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)</sup>. You only lose your residence permit if you leave Germany "not temporarily". This is decided case by case.
 
-Your residence permit can also expire. If you leave Germany for more than 6 months (12 months [in some cases](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)), your residence permit expires[^19]. You can ask the *[[Ausländerbehörde]]* to leave for a longer period<sup>[1](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)</sup>.
+Your residence permit can also expire. If you leave Germany for more than 6 months (12 months [in some cases](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)), your residence permit expires.[^19] You can ask the *[[Ausländerbehörde]]* to leave for a longer period<sup>[1](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)</sup>.
 
-Without an address in Germany, you can't renew your residence permit[^20]. You must have a rent contract and a *[[Wohnungsgeberbestätigung]]* to renew your German residence permit. If you lose your health insurance, it can also be a problem[^21]. You need valid health insurance to renew a residence permit.
+Without an address in Germany, you can't renew your residence permit.[^20] You must have a rent contract and a *[[Wohnungsgeberbestätigung]]* to renew your German residence permit. If you lose your health insurance, it can also be a problem.[^21] You need valid health insurance to renew a residence permit.
 
 **Useful links:**
 
@@ -144,17 +144,17 @@ Without an address in Germany, you can't renew your residence permit[^20]. You m
 
 ### Vehicles
 
-You can't own a vehicle registered in Germany if you don't live in Germany[^14]. Some people have different experiences, so there are exceptions to this.
+You can't own a vehicle registered in Germany if you don't live in Germany.[^14] Some people have different experiences, so there are exceptions to this.
 
 ### Other services
 
-When you deregister, you can [cancel your cellphone, internet and electricity contacts](/guides/moving-out#move-or-cancel-your-contracts) without penalties[^16]. You might have to show them your *[[Abmeldebescheinigung]]* to cancel your contract.
+When you deregister, you can [cancel your cellphone, internet and electricity contacts](/guides/moving-out#move-or-cancel-your-contracts) without penalties.[^16] You might have to show them your *[[Abmeldebescheinigung]]* to cancel your contract.
 
-If you own a business in Germany, you might also need deregister it[^16], or transfer it to another person.
+If you own a business in Germany, you might also need deregister it,[^16] or transfer it to another person.
 
 ## What else do I need to do?
 
-When you leave Germany, you should also inform your health insurer, the [GEZ](/glossary/Rundfunkbeitrag), your bank, your utility company, your internet service provider and any other services you use[^23]. They will not be informed automatically.
+When you leave Germany, you should also inform your health insurer, the [GEZ](/glossary/Rundfunkbeitrag), your bank, your utility company, your internet service provider and any other services you use.[^23] They will not be informed automatically.
 
 **[How to move out of an apartment ➞](/guides/moving-out)**
 
@@ -162,7 +162,7 @@ If you are leaving Germany, you must tell the GEZ. You will not get any more *[[
 
 If you have a dog, you must [deregister it at the *Finanzamt*, and at the *Ordnungsamt*](/guides/hundesteuer#how-to-deregister-your-dog) to stop paying the [dog tax](/glossary/Hundesteuer).
 
-In 2 years, you can [get a refund for your pension payments](/guides/pension-payments-refund)[^22]. You can get thousands of euros back[^24].
+In 2 years, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^22] You can get thousands of euros back.[^24]
 
 {% include 'blocks/_pensionRefundCalculator.html' %}
 

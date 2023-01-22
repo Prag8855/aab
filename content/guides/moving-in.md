@@ -41,7 +41,7 @@ After you sign the lease, you will meet with the landlord to...
 - **Read the electricity meter**  
     When you sign an electricity contract, you need to give the electricity provider your meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*). The electricity meter is usually hidden in the basement.
 - **Get the apartment keys**  
-    You will get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*. Some landlords ask you to pay the [deposit](/glossary/Kaution) before they give you the keys, but that's not legal, even if it's written in your lease[^0].
+    You will get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*. Some landlords ask you to pay the [deposit](/glossary/Kaution) before they give you the keys, but that's not legal, even if it's written in your lease.[^0]
 
 ![Apartment keys](/illustrations/apartment-keys.png)
 
@@ -59,7 +59,7 @@ You usually pay the rent and the deposit by [SEPA transfer](/glossary/SEPA-%C3%9
 
 You must pay the rent before your lease starts. You don't have to pay immediately after you sign the lease.
 
-You only need to pay rent if you can actually live there. For example, if your leases starts on January 1, but you only get the keys on January 15, you don't pay rent from January 1 to January 15[^9].
+You only need to pay rent if you can actually live there. For example, if your leases starts on January 1, but you only get the keys on January 15, you don't pay rent from January 1 to January 15.[^9]
 
 ### Get an internet contract
 
@@ -77,9 +77,9 @@ If your current internet company can't service your new apartment, you can cance
 
 German apartments do not have apartment numbers. If your name is not on your mailbox, you will not get your mail, even if the address is correct.
 
-When you move in, the landlord or the *[[Hausverwaltung]]* will put your name on the mailbox. They must do it for free[^1].
+When you move in, the landlord or the *[[Hausverwaltung]]* will put your name on the mailbox. They must do it for free.[^1]
 
-If your name is not on the lease, the landlord can refuse to put your name on the mailbox[^2].
+If your name is not on the lease, the landlord can refuse to put your name on the mailbox.[^2]
 
 If you can't put your name on the mailbox, you must add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address. For example:
 
@@ -140,15 +140,15 @@ The address change is not automatic. When you register your new address, the *[[
 
 ### Get liability insurance
 
-Liability insurance (*[[Haftpflichtversicherung]]*) is really important in Germany. 85% of German homes have it[^3]. It costs around 5€ per month.
+Liability insurance (*[[Haftpflichtversicherung]]*) is really important in Germany. 85% of German homes have it.[^3] It costs around 5€ per month.
 
-If you cause an accident in Germany, the victim can sue you. If the victim wins, you have to pay reparations[^4]. A lawsuit like that can easily ruin you. Liability insurance protects you from such damage claims. If you cause an accident, your insurance company will pay the legal fees and the reparations. For example, if your washing machine breaks and floods your neighbour's apartment, your insurance will pay for it.
+If you cause an accident in Germany, the victim can sue you. If the victim wins, you have to pay reparations.[^4] A lawsuit like that can easily ruin you. Liability insurance protects you from such damage claims. If you cause an accident, your insurance company will pay the legal fees and the reparations. For example, if your washing machine breaks and floods your neighbour's apartment, your insurance will pay for it.
 
 If you rent a furnished apartment, choose a liability insurance that covers rented things (*geliehene Sachen*). This will also cover the rented furniture.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
-The things you have in your apartment are not covered by liability insurance. If you want to insure your furniture or your electronics, you need a household insurance (*[[Hausratversicherung]]*)[^5]. Household insurance can also cover bicycle theft.
+The things you have in your apartment are not covered by liability insurance. If you want to insure your furniture or your electronics, you need a household insurance (*[[Hausratversicherung]]*).[^5] Household insurance can also cover bicycle theft.
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
@@ -158,7 +158,7 @@ Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance opt
 
 A tenants' association (*[[Mieterverein]]*) protects tenants from their landlords. When you are in a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment.
 
-The membership costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. The Berliner Mieterverein offers help in English[^10].
+The membership costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. The Berliner Mieterverein offers help in English.[^10]
 
 You can also get free help from the [*Mieterberatung*](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). This is a free service from the city of Berlin. They might not speak English.
 
@@ -176,11 +176,11 @@ Use [this calculator](/out/conny-mietpreisbremse-calculator) (English), [this ca
 
 If your rent is above the legal limit, you can get it lowered.
 
-[Conny](/out/conny-mietpreisbremse) helps people reduce their rent. If they are successful, they keep a part of your refund. If they are not successful, you pay nothing. It can take a few months[^11], but you can save thousands of euros.
+[Conny](/out/conny-mietpreisbremse) helps people reduce their rent. If they are successful, they keep a part of your refund. If they are not successful, you pay nothing. It can take a few months,[^11] but you can save thousands of euros.
 
 **[How does Conny's rent reduction work? ➞](/guides/wenigermiete-review)**
 
-If you are in a tenants' association (*[[Mieterverein]]*), they can also help you reduce your rent[^12]. For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent.
+If you are in a tenants' association (*[[Mieterverein]]*), they can also help you reduce your rent.[^12] For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent.
 
 You can [contact a lawyer](/guides/english-speaking-lawyers-berlin), but it's more expensive. If you have [legal insurance](/guides/legal-insurance), it might cover the costs.
 
@@ -192,7 +192,7 @@ If you don't want to get junk mail, follow these steps:
 2. Put your name on [Robinson lists](https://en.wikipedia.org/wiki/Robinson_list) to unsubscribe from most mail advertising:
     1. Join the [DDV Robinson list](https://www.ichhabediewahl.de/?id=122&cid=43)
     2. Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
-3. If you still get junk mail, use the [Appmelder app](https://www.appmelder.de/) to report it. They will unsubscribe you. If you still get junk mail, they will send a [legal warning](/glossary/Abmahnung) to the spammer[^6]. It's completely free.
+3. If you still get junk mail, use the [Appmelder app](https://www.appmelder.de/) to report it. They will unsubscribe you. If you still get junk mail, they will send a [legal warning](/glossary/Abmahnung) to the spammer.[^6] It's completely free.
 
 ## First apartment in Berlin?
 
@@ -208,7 +208,7 @@ If your neighbours are too loud, you can also [make a noise complaint](/guides/n
 
 ### Hard water
 
-The tap water in Berlin is hard water[^7]. Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
+The tap water in Berlin is hard water.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
 
 - Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://amzn.to/3rAdGEU) or in any supermarket.
 - Boil the water 2 to 3 times to remove the taste. The minerals will deposit at the bottom of the kettle. You can also use a water filter.
@@ -233,7 +233,7 @@ Ventilation is sometimes required in your lease, because it helps prevents mold.
 
 Most German apartment buildings have central heating. It's turned off during the warm months.
 
-You control the heating in your apartment with the dial on your radiators. The ❄ setting prevents the pipes from freezing. The settings from 0 to 5 set the desired temperature, with 3 being around 20ºC[^8].
+You control the heating in your apartment with the dial on your radiators. The ❄ setting prevents the pipes from freezing. The settings from 0 to 5 set the desired temperature, with 3 being around 20ºC.[^8]
 
 Some newer apartments have heated floors instead of radiators. You control them with a thermostat on the wall.
 

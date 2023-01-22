@@ -11,7 +11,7 @@ After you [find an apartment you love](/guides/find-a-flat-in-berlin), you must 
 
 ## Do you have a Schufa record?
 
-You get a Schufa record when you [open a bank account](/guides/first-bank-account-in-germany) or a cellphone contract for the first time[^0].
+You get a Schufa record when you [open a bank account](/guides/first-bank-account-in-germany) or a cellphone contract for the first time.[^0]
 
 If just moved to Germany, you might not have a Schufa record. There is no information about you. Just tell the landlord that you just moved to Germany. Most landlords will understand.
 
@@ -23,7 +23,7 @@ Most furnished apartments (from [Homelike](/out/homelike), [Spotahome](/out/spot
 
 ## How to get a Schufa for free
 
-You have [the right](http://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm) to see the data Schufa Holding AG has about you. This is why you can request a free Schufa report. It looks different from the 30€ report, but it has the same information[^2]. This free Schufa report has all the information your landlord needs[^1].
+You have [the right](http://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm) to see the data Schufa Holding AG has about you. This is why you can request a free Schufa report. It looks different from the 30€ report, but it has the same information.[^2] This free Schufa report has all the information your landlord needs.[^1]
 
 This is how you get a free Schufa:
 

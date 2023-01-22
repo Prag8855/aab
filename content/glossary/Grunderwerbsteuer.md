@@ -7,7 +7,7 @@ Date_created: 2020-06-11
 Date_updated: 2022-04-20
 ---
 
-The property transfer tax (*Grunderwerbsteuer* or *GrESt*) is a tax you pay when you buy real estate in Germany. The tax is 3.5% to 6.5% of the value of the property[^0]. The exact amount varies between states. In Berlin, it's 6%[^1].
+The property transfer tax (*Grunderwerbsteuer* or *GrESt*) is a tax you pay when you buy real estate in Germany. The tax is 3.5% to 6.5% of the value of the property.[^0] The exact amount varies between states. In Berlin, it's 6%.[^1]
 
 The real estate transfer tax is not the same as the [property tax (*Grundsteuer*)](/glossary/Grundsteuer).
 

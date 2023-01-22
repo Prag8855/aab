@@ -16,7 +16,7 @@ This guide shows you different ways to save money in Germany. Most of those tric
 
 Most electricity and gas providers offer a bonus for new customers. In the first year, their service is cheaper. After one year, the price goes up. If you don't cancel your contract, it will be renewed automatically for 1 more year.
 
-If you switch to a new electricity provider every year, you always get a new customer bonus. If you do this, you will save over 100€ per year. This is not a secret; many Germans do it[^0]. It takes less than 30 minutes to switch. Use [Verivox](/out/verivox-electricity) to find a cheaper electricity provider. Verivox will automatically transfer your contract to the new electricity provider. I tried it, and it works really well. [Check24](/out/check24-electricity) has a similar service.
+If you switch to a new electricity provider every year, you always get a new customer bonus. If you do this, you will save over 100€ per year. This is not a secret; many Germans do it.[^0] It takes less than 30 minutes to switch. Use [Verivox](/out/verivox-electricity) to find a cheaper electricity provider. Verivox will automatically transfer your contract to the new electricity provider. I tried it, and it works really well. [Check24](/out/check24-electricity) has a similar service.
 
 Each electricity provider has a different cancellation period (*[[Kündigungsfrist]]*). For example, Vattenfall has a *Kündigungsfrist* of 6 weeks. You must cancel your contract at least 6 weeks before it ends. If you don't, the contract is renewed automatically for 1 year. Put a reminder in your calendar every year.
 
@@ -121,9 +121,9 @@ Moving can cost a lot of money. You might need to repaint the old apartment, ren
 - **Total savings:** varies
 - **Effort required:** varies
 
-If you get all of your insurances from the same company, you usually pay less[^1]. Some companies offer combined insurance policies that include [liability](/glossary/Haftpflichtversicherung) and [household insurance](/glossary/Hausratversicherung)[^2].
+If you get all of your insurances from the same company, you usually pay less.[^1] Some companies offer combined insurance policies that include [liability](/glossary/Haftpflichtversicherung) and [household insurance](/glossary/Hausratversicherung).[^2]
 
-There is one exception: legal insurance (*[[Rechtsschutzversicherung]]*). Do not get your legal insurance from the same company as your other insurances. If you have a problem with your other insurances, you will sue the same company that sold you legal insurance. They might refuse to help you[^3].
+There is one exception: legal insurance (*[[Rechtsschutzversicherung]]*). Do not get your legal insurance from the same company as your other insurances. If you have a problem with your other insurances, you will sue the same company that sold you legal insurance. They might refuse to help you.[^3]
 
 **[How to choose legal insurance ➞](/guides/legal-insurance)**
 
@@ -132,7 +132,7 @@ There is one exception: legal insurance (*[[Rechtsschutzversicherung]]*). Do not
 - **Total savings:** 10 to 100€ per year
 - **Effort required:** none
 
-[Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung) and most memberships are cheaper if you pay 1 year in advance, instead of every month[^4]. You get the same service, but you pay less.
+[Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung) and most memberships are cheaper if you pay 1 year in advance, instead of every month.[^4] You get the same service, but you pay less.
 
 **Related guides:**
 

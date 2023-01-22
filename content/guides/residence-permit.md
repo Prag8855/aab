@@ -14,13 +14,13 @@ If you want to move to Germany, you might need a [residence permit (*Aufenthalts
 Most people who want to live in Germany need a residence permit. It depends on your citizenship.
 
 - **European Union, Iceland, Liechtenstein or Norway**  
-    You don't need a residence permit. You can already live, work and study in Germany[^0]. If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
+    You don't need a residence permit. You can already live, work and study in Germany.[^0] If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
 - **Switzerland**  
-    You need a residence permit to live in Germany. This residence permit is very easy to get[^1]. [More information here](https://service.berlin.de/dienstleistung/324287/en/).
+    You need a residence permit to live in Germany. This residence permit is very easy to get.[^1] [More information here](https://service.berlin.de/dienstleistung/324287/en/).
 - **{{AUFENTHV_41_COUNTRIES}}**[^2]  
-    You need a residence permit to work, study, or freelance in Germany. You can visit in Germany for up to 90 days without a visa[^3]. If you want to stay longer, or if you want to work, study or freelance in Germany, you need a residence permit. You can apply for a residence permit in Germany, or in your home country.
+    You need a residence permit to work, study, or freelance in Germany. You can visit in Germany for up to 90 days without a visa.[^3] If you want to stay longer, or if you want to work, study or freelance in Germany, you need a residence permit. You can apply for a residence permit in Germany, or in your home country.
 - **Any other country**  
-    You need a residence permit to work, study, or freelance in Germany. If you want to look for work in Germany, you need a [job seeker visa](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/jobseekers)[^3]. If you want to visit Germany, you need a tourist visa. You can't convert a tourist visa to a residence permit[^4].
+    You need a residence permit to work, study, or freelance in Germany. If you want to look for work in Germany, you need a [job seeker visa](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/jobseekers).[^3] If you want to visit Germany, you need a tourist visa. You can't convert a tourist visa to a residence permit.[^4]
 
 If you are a German [permanent resident](/glossary/Niederlassungserlaubnis), you can already live and work in Germany. You do not need another residence permit.
 
@@ -31,7 +31,7 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
 ## Types of residence permits
 
 - **[Work visa](/glossary/Work%20Visa)**  
-    For skilled workers who live and work in Germany. You need a job offer from a German company to apply for this visa[^5]. [More information about the work visa](/guides/german-work-visa).
+    For skilled workers who live and work in Germany. You need a job offer from a German company to apply for this visa.[^5] [More information about the work visa](/guides/german-work-visa).
 - **[[Blue Card]]**  
     For skilled workers who live and work in Germany. It's like a work visa, but better. You need a job offer and a university degree to apply for a Blue Card. There is a minimum salary requirement. [More information about the Blue Card](/guides/german-work-visa).
 - **[Working holiday visa](/glossary/Working%20Holiday%20Visa)**  
@@ -43,7 +43,7 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
 - **[[Student visa]]**  
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies.
 - **[[Internship visa]]**  
-    For university students[^6]. This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months[^7]. More information [here](https://service.berlin.de/dienstleistung/305303/en/).
+    For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7] More information [here](https://service.berlin.de/dienstleistung/305303/en/).
 - **[[Job seeker visa]]**  
     For people who want to look for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you must [apply for a work visa or a Blue Card](/guides/german-work-visa) before you start working. [More information about the job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers).
 - **[[Au pair visa]]**  
@@ -87,7 +87,7 @@ These residence permits allow you to be self-employed in Germany:
 You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.
 
 - **At the [[Ausländerbehörde]] in Germany**  
-    If you apply in Germany, you get a residence permit. Usually, it takes 2 to 3 months to get the residence permit[^8]. During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
+    If you apply in Germany, you get a residence permit. Usually, it takes 2 to 3 months to get the residence permit.[^8] During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
     - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
     - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  

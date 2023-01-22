@@ -88,9 +88,9 @@ Some banks don't let immigrants open an account. They can ask for a [registered 
 
 ### Get a mobile phone contract
 
-If you come from another EU country, you can keep using your mobile phone contract. You can make calls, send SMS and use mobile data without any extra fees. After some time, you must switch to a German mobile plan. Your foreign plan will stop working, unless you return to that country[^0].
+If you come from another EU country, you can keep using your mobile phone contract. You can make calls, send SMS and use mobile data without any extra fees. After some time, you must switch to a German mobile plan. Your foreign plan will stop working, unless you return to that country.[^0]
 
-You can buy a SIM card at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card[^1], but some store employees will just use your temporary address[^2].
+You can buy a SIM card at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card,[^1] but some store employees will just use your temporary address.[^2]
 
 Use [Verivox](/out/verivox-cellphone) to compare cellphone plans. [Aldi Talk](/out/aldi-talk) is a cheap, popular prepaid option. [Vodafone CallYa](/out/vodafone-callya) is also a good option, because you can get help in Vodafone shops. I use Vodafone CallYa since 2015.
 
@@ -144,7 +144,7 @@ Learn how to use public transit in Berlin. You should also get a bicycle. Berlin
 
 You don't need to [buy a car](/guides/buying-used-car-in-germany) in Berlin. They are [expensive](/guides/car-cost-of-ownership-germany), and [not that useful](/guides/buying-used-car-in-germany#do-you-need-a-car-in-berlin). I have a car, and I still prefer to use my bicycle or public transit.
 
-If you have a driving licence from a non-EU country, it's only valid for 6 months after you move to Germany. If you have a driving licence from another EU or EEA country, it's valid until it expires[^3]. You can usually [exchange your foreign driving licence for a German one](/guides/canadian-german-driving-license). If you don't have a driving licence, you can [take driving lessons](/guides/english-driving-schools-in-berlin).
+If you have a driving licence from a non-EU country, it's only valid for 6 months after you move to Germany. If you have a driving licence from another EU or EEA country, it's valid until it expires.[^3] You can usually [exchange your foreign driving licence for a German one](/guides/canadian-german-driving-license). If you don't have a driving licence, you can [take driving lessons](/guides/english-driving-schools-in-berlin).
 
 ## Your first year in Berlin
 

@@ -7,7 +7,7 @@ Date_updated: 2022-10-05
 
 Delivery services in Germany are bad:
 
-- Packages are often delivered to a neighbour or a *[[Paketshop]]*, even if you are at home all day[^0].
+- Packages are often delivered to a neighbour or a *[[Paketshop]]*, even if you are at home all day.[^0]
 - If you live on the ground floor, you get everyone else's packages.
 
 This happens with all delivery services: [DHL](https://de.trustpilot.com/review/www.dhl.de?languages=en), [Hermes](https://de.trustpilot.com/review/www.hermes-europe.co.uk?languages=en), [GLS](https://de.trustpilot.com/review/gls-germany.com?languages=en), Amazon Logistics and others.
@@ -40,7 +40,7 @@ To find your package...
 
 ## Why are German delivery services so bad?
 
-Delivery drivers work too much, and are not paid enough[^1]. They save time where they can.
+Delivery drivers work too much, and are not paid enough.[^1] They save time where they can.
 
 If you never get your packages, you can complain to the delivery company. Sometimes, it helps, but it's usually a waste of time.
 
@@ -55,7 +55,7 @@ If you want to receive your packages reliably, **don't use your home address**.
 - **Get it yourself**  
     Sometimes, it's faster to pick things up from the store yourself.
 - **Be really nice to your driver**  
-    Befriending your delivery driver helps[^2]. They give a better service if you tip them or offer them a drink. This does not always work.
+    Befriending your delivery driver helps.[^2] They give a better service if you tip them or offer them a drink. This does not always work.
 
 [^0]: [reddit.com](https://old.reddit.com/r/berlin/comments/pk7c4f/dhl_delivered_package_to_neighbor_who_is_never/)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/andj0d/shitpostpng/efv25zp/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/f1tx3x/why_are_berlin_postmen_illiterate/)

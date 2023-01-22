@@ -17,7 +17,7 @@ These banks will let you open an account without a registered address in Germany
 - **[Deutsche Bank](/out/deutsche-bank)**
 - **[DKB](/out/dkb)**[^0]  
     They rarely accept people who just moved to Germany. They use WebID to verify your passport.
-- **[ING](/out/ing)**<sup>[1  ](https://www.facebook.com/groups/berlinexpats/permalink/2028670523812390/?comment_id=2028887137124062&reply_comment_id=2029507497062026&comment_tracking=%7B%22tn%22%3A%22R%22%7D)</sup>They use [PostIdent](/glossary/Postident) to verify your passport[^1]. They require a EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis)[^2].
+- **[ING](/out/ing)**<sup>[1  ](https://www.facebook.com/groups/berlinexpats/permalink/2028670523812390/?comment_id=2028887137124062&reply_comment_id=2029507497062026&comment_tracking=%7B%22tn%22%3A%22R%22%7D)</sup>They use [PostIdent](/glossary/Postident) to verify your passport.[^1] They require a EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).[^2]
 - **[Kontist](/out/kontist)**  
     Business bank for freelancers.
 - **[Monese](/out/monese)**  
@@ -28,7 +28,7 @@ These banks will let you open an account without a registered address in Germany
 - **[Vivid](/out/vivid)**  
     You have 90 days to submit a valid residence permit after you open the account.
 - **[Wise](/out/wise-account)**  
-    They are based in the UK and in Belgium[^3]. Your bank account will have a Belgian [[IBAN]].
+    They are based in the UK and in Belgium.[^3] Your bank account will have a Belgian [[IBAN]].
 
 **[How to choose a German bank ➞](/guides/first-bank-account-in-germany)**
 

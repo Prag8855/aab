@@ -12,10 +12,10 @@ In Germany, the freelancer (*Freiberufler*) is for self-employed professionals *
 
 There are a few benefits to being a freelancer:
 
-- You do not need to register in the *[[Handelsregister]]*, the German Trade Register[^0].
+- You do not need to register in the *[[Handelsregister]]*, the German Trade Register.[^0]
 - You do not need a trade licence (*[[Gewerbeschein]]*)
-- You do not need to pay the trade tax (*[[Gewerbesteuer]]*)[^1].
-- You do not need to use double entry bookkeeping[^2].
+- You do not need to pay the trade tax (*[[Gewerbesteuer]]*).[^1]
+- You do not need to use double entry bookkeeping.[^2]
 
 The *[[Finanzamt]]* decides if you are a *Freiberufler* when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). If you are not a *Freiberufler*, you are usually a *[[Gewerbe]]*.
 

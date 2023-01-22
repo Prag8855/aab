@@ -10,7 +10,7 @@ Related_guides: guides/fragebogen-zur-steuerlichen-erfassung.md, guides/freiberu
 
 The trade tax (*Gewerbesteuer*) is a tax most German businesses must pay.
 
-If your business is a *[[Gewerbe]]*, and you make more than {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year, you must pay the trade tax[^0]. *[[Freiberufler]]* do not pay the trade tax.
+If your business is a *[[Gewerbe]]*, and you make more than {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year, you must pay the trade tax.[^0] *[[Freiberufler]]* do not pay the trade tax.
 
 **[How does the Gewerbesteuer work? ➞](/guides/gewerbesteuer)**
 

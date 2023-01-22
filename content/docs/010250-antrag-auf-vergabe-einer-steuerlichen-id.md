@@ -45,7 +45,7 @@ If you fill this form because you can't register your current address:
 
 ## Where to send this form
 
-If you are an employee, send it to your employer's local *[[Finanzamt]]*. If not, send it to your local *[[Finanzamt]]*[^0].
+If you are an employee, send it to your employer's local *[[Finanzamt]]*. If not, send it to your local *[[Finanzamt]]*.[^0]
 
 Include a copy of your passport or *Personalausweis* with the form.
 

@@ -24,7 +24,7 @@ Should you hire a tax advisor (*[[Steuerberater]]*) or a bookkeeper (*[[Buchhalt
 
 **If you are self-employed**, you must pay more. If you don't charge [VAT](/glossary/Umsatzsteuer), you should pay 300€ to 800€ per year. If you charge VAT, you should pay 700€ to 2,000€ per year. *Steuerberater* costs are tax-deductible. The prices vary a lot. The best way to know is to call and ask.
 
-Tax advisor fees are tax-deductible[^0].
+Tax advisor fees are tax-deductible.[^0]
 
 ## English-language tax software for Germany
 
@@ -36,7 +36,7 @@ Tax advisors are very expensive. If you want to save money, you can use tax soft
 
 If you don't know what you are doing, you can still make very expensive mistakes. A tax advisor is better, but it's more expensive. I have tried all options, and a tax advisor is still the best option.
 
-Tax and bookkeeping software costs are tax-deductible[^0].
+Tax and bookkeeping software costs are tax-deductible.[^0]
 
 ## List of English-speaking tax advisors
 

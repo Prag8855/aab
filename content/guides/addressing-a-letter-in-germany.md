@@ -43,7 +43,7 @@ If you want to write to your friend Max Mustermann, this is how you would write 
 
 German apartments do not always have door numbers, so **if the person's name is not on the mailbox, they will not receive your letter**. You *must* include the name of the main tenant on the envelope. Use "[c/o](https://en.wiktionary.org/wiki/care_of) [name]" or "bei [name]".
 
-For example, if you want to send a letter to Max at his girlfriend's Monika's address, you must address the letter like this[^0]:
+For example, if you want to send a letter to Max at his girlfriend's Monika's address, you must address the letter like this:[^0]
 
 > Max Mustermann (the person you are writing to) **bei Monika Schmidt** (Monika has her name on the mailbox)  
 > Musterstraße 17  

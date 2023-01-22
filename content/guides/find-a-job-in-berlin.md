@@ -123,7 +123,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 
 ### German resumes
 
-German CVs are longer than American resumes. They include your date of birth, your citizenship and a photo of you[^0]. You should go to a photo studio and get a professional portrait for your resume. A [career coach](/guides/find-a-job-in-berlin#need-help) can help you write a better resume.
+German CVs are longer than American resumes. They include your date of birth, your citizenship and a photo of you.[^0] You should go to a photo studio and get a professional portrait for your resume. A [career coach](/guides/find-a-job-in-berlin#need-help) can help you write a better resume.
 
 **Useful links:**
 
@@ -204,7 +204,7 @@ Your employer can hire a relocation consultant to help you. This helps a lot.
 
 ### The probation period
 
-During your first 6 months at a new company, you are in your probation period (*[Probezeit](/glossary/%EF%BB%BFProbezeit)*)[^1]. During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
+During your first 6 months at a new company, you are in your probation period (*[Probezeit](/glossary/%EF%BB%BFProbezeit)*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
 
 **[How does the probation period work? ➞](/guides/probezeit)**
 

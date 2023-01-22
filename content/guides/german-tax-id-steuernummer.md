@@ -15,7 +15,7 @@ This is your **unique, permanent tax identification number**. Every German resid
 
 ### Why you need a tax ID
 
-Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more taxes[^0]. You only get that money back later, when you file a [tax return](/glossary/Steuererkl%C3%A4rung)[^1].
+Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more taxes.[^0] You only get that money back later, when you file a [tax return](/glossary/Steuererkl%C3%A4rung).[^1]
 
 If you have children, you need their tax ID to apply for child benefits (*[[Kindergeld]]*), and to get a *[[Kitagutschein]]*.
 
@@ -45,8 +45,8 @@ There is no way to get your tax ID faster. You can't go to the *[[Finanzamt]]* j
 
 **If you lost your tax ID**, there are 2 ways to find it:
 
-- Go to the [nearest Finanzamt](https://service.berlin.de/standorte/finanzaemter/) with your passport, and ask for your tax ID[^2]. You don't need an appointment.
-- Fill [this form](https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Steuerliche_IDNr/Mitteilung_IdNr/mitteilung_IdNr_node.html), and the *[[Finanzamt]]* will send you a letter with your tax ID. It takes up to 4 weeks[^3]. They will send it to the address you [registered](/glossary/Anmeldung), not anywhere else.
+- Go to the [nearest Finanzamt](https://service.berlin.de/standorte/finanzaemter/) with your passport, and ask for your tax ID.[^2] You don't need an appointment.
+- Fill [this form](https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Steuerliche_IDNr/Mitteilung_IdNr/mitteilung_IdNr_node.html), and the *[[Finanzamt]]* will send you a letter with your tax ID. It takes up to 4 weeks.[^3] They will send it to the address you [registered](/glossary/Anmeldung), not anywhere else.
 
 ## The tax number (Steuernummer)
 
@@ -54,15 +54,15 @@ The *Steuernummer* is **for freelancers and businesses**. It's a 10 or 11 digit 
 
 ### How to get a Steuernummer
 
-You get a *Steuernummer* when you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You get it by mail, 2 to 6 weeks later[^7]. If it takes longer, ask [your local *Finanzamt*](/out/finanzamt-finder) on the phone or in person.
+You get a *Steuernummer* when you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You get it by mail, 2 to 6 weeks later.[^7] If it takes longer, ask [your local *Finanzamt*](/out/finanzamt-finder) on the phone or in person.
 
-The *Steuernummer* is unique, but not permanent. If you move your business to another *Finanzamt*'s area, you will get a new *Steuernummer*[^5].
+The *Steuernummer* is unique, but not permanent. If you move your business to another *Finanzamt*'s area, you will get a new *Steuernummer*.[^5]
 
 When you get your *Steuernummer*, you must put it in your [[Impressum]], and on your invoices to German customers.
 
 ### Where to find a business' tax number
 
-You can usually find a business' *Steuernummer* on their website (in their [[Impressum]]), and on their invoices[^6].
+You can usually find a business' *Steuernummer* on their website (in their [[Impressum]]), and on their invoices.[^6]
 
 ## The VAT number (Umsatzsteuer-Id)
 
@@ -82,7 +82,7 @@ When you get your VAT number, you must put it in your [[Impressum]], and on your
 
 ### Where to find a business' VAT number
 
-You can usually find a business' VAT number on their website (in their [[Impressum]]), and on their invoices[^6].
+You can usually find a business' VAT number on their website (in their [[Impressum]]), and on their invoices.[^6]
 
 You can [check if a VAT number is valid](https://www.iban.com/vat-checker), but it will not give you information about the business.
 

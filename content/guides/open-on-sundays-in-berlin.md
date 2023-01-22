@@ -15,7 +15,7 @@ On Sundays, most shops in Berlin must close. Only a few shops can stay open. Tho
 
 ### Supermarkets
 
-Those train station supermarkets are open on Sundays[^0]:
+Those train station supermarkets are open on Sundays:[^0]
 
 - Friedrichstraße: [Edeka](https://goo.gl/maps/ya9LorGVAwUbLiQn9)
 - Gesundbrunnen: [Denn's Biomarkt](https://g.page/denns-s-bahnhof?share)
@@ -28,11 +28,11 @@ Those train station supermarkets are open on Sundays[^0]:
 
 These supermarkets are very busy on Sundays. There is often a queue outside the Edeka at Friedrichstraße.
 
-Grocery delivery services are closed on Sundays[^1].
+Grocery delivery services are closed on Sundays.[^1]
 
 ### Apotheke, Rossmann and dm
 
-Those train station pharmacies and drug stores are open on Sundays[^2]:
+Those train station pharmacies and drug stores are open on Sundays:[^2]
 
 - Alexanderplatz: [Rossmann](https://goo.gl/maps/tqFo8LvXyZeobC7g6)
 - Friedrichstraße: [Rossmann](https://goo.gl/maps/xCnyvAP5pVpcDwrn8)

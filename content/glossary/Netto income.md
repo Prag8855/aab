@@ -10,7 +10,7 @@ Related_guides: guides/find-a-job-in-berlin.md, guides/cost-of-living.md, tools/
 
 Your net income (*Nettoeinkommen*) is your income after taxes, [health insurance](/guides/german-health-insurance) and social security contributions. It's the part of your paycheck that you keep.
 
-On average, your *Netto* income is around 65% of your *Brutto* income[^0]. Use a tax calculator to know the exact number.
+On average, your *Netto* income is around 65% of your *Brutto* income.[^0] Use a tax calculator to know the exact number.
 
 **[German Netto income calculator ➞](/tools/tax-calculator)**
 

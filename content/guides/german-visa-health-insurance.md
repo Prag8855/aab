@@ -12,19 +12,19 @@ If you apply for a German visa or [residence permit](/glossary/Aufenthaltstitel)
 
 ## For a Schengen visa
 
-When you apply for a tourist visa ([[Schengen visa]]), **you just need travel insurance**[^0]. Your travel insurance must cover you for at least 30,000€[^1], and it must be valid for the time of your stay. It must be valid in *all* Schengen countries, not just Germany[^2].
+When you apply for a tourist visa ([[Schengen visa]]), **you just need travel insurance**.[^0] Your travel insurance must cover you for at least 30,000€,[^1] and it must be valid for the time of your stay. It must be valid in *all* Schengen countries, not just Germany.[^2]
 
 ## For a [job seeker visa](/glossary/Job%20seeker%20visa)
 
 **If you never lived in Germany before**, you can get travel insurance or [expat insurance](/glossary/Expat%20health%20insurance). If you [find a job](/guides/find-a-job-in-berlin) and move to Germany, you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
-**If you lived in Germany before**, travel insurance is not accepted[^3]. You must get [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). If you return to Germany, you will get the same type of insurance as before.
+**If you lived in Germany before**, travel insurance is not accepted.[^3] You must get [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). If you return to Germany, you will get the same type of insurance as before.
 
 ## For a work visa or Blue Card
 
 If you have job offer, you can apply for [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before you come to Germany. If your salary is over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME}}€ per year, you can also choose [private health insurance](/glossary/private%20Krankenversicherung).
 
-[[Expat health insurance]] also works, but you must switch to public or private health insurance when you start working in Germany[^0]. You can use expat health insurance as a temporary health insurance before you start working.
+[[Expat health insurance]] also works, but you must switch to public or private health insurance when you start working in Germany.[^0] You can use expat health insurance as a temporary health insurance before you start working.
 
 Travel insurance is not accepted for a work visa or Blue Card application.
 
@@ -34,7 +34,7 @@ Travel insurance is not accepted for a work visa or Blue Card application.
 
 **If this is the first time you apply for a [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Public health insurance often rejects freelancers from outside the EU, so it's not always an option. Expat health insurance works, but you should [switch to something else](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance) as soon as you can.
 
-**If you had a residence permit before**, you must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted if you already had a German residence permit[^0].
+**If you had a residence permit before**, you must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted if you already had a German residence permit.[^0]
 
 Travel insurance is not accepted for a freelance visa application.
 
@@ -42,13 +42,13 @@ Travel insurance is not accepted for a freelance visa application.
 
 ## For a Working Holiday Visa
 
-If you apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you can get expat health insurance[^0].
+If you apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you can get expat health insurance.[^0]
 
 ## For any other residence permit
 
 **If this is the first time you apply for a [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Expat health insurance works, but you should [switch to something else](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance) as soon as you can.
 
-**If you had a residence permit before**, you must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted if you already had a German residence permit[^0].
+**If you had a residence permit before**, you must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted if you already had a German residence permit.[^0]
 
 Travel insurance is not accepted when you apply for a residence permit.
 
@@ -68,20 +68,20 @@ If you just want health insurance for your visa application, try [Feather](/out/
 
 If you apply for a work visa, a Blue Card, a student visa, a freelance visa, a job seeker visa or any other [residence permit](/glossary/Aufenthaltstitel), pick one of these options:
 
-- **[Feather](/out/popsure-expats)** is accepted for all visa applications[^12]. They offer public, private and expat health insurance. They get you the documents you need in 24 hours, and let you cancel the insurance if something goes wrong. I often work with Feather, and I trust them the most. I am insured with them.
-- **[Ottonova](/out/ottonova-expats)** is a health insurance startup from Munich. They offer private and expat health insurance. They speak English. Many people have confirmed that they got their visa with their expat insurance[^4]. I reviewed their service [here](/guides/ottonova-review).
-- **[Care Concept](/out/care-concept)**, is also accepted[^5]. A relocation consultant and many freelancers confirmed this.
-- **[aLC](https://www.alchealth.com/)**[^6], **[April International](https://de.april-international.com/de)**[^7] and **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)** are usually accepted[^13].
+- **[Feather](/out/popsure-expats)** is accepted for all visa applications.[^12] They offer public, private and expat health insurance. They get you the documents you need in 24 hours, and let you cancel the insurance if something goes wrong. I often work with Feather, and I trust them the most. I am insured with them.
+- **[Ottonova](/out/ottonova-expats)** is a health insurance startup from Munich. They offer private and expat health insurance. They speak English. Many people have confirmed that they got their visa with their expat insurance.[^4] I reviewed their service [here](/guides/ottonova-review).
+- **[Care Concept](/out/care-concept)**, is also accepted.[^5] A relocation consultant and many freelancers confirmed this.
+- **[aLC](https://www.alchealth.com/)**,[^6] **[April International](https://de.april-international.com/de)**[^7] and **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)** are usually accepted.[^13]
 - **[Mawista Expatcare](/out/mawista-expats)** is sometimes accepted, sometimes refused. It's not the most reliable option.[^8]
-- **[Cigna Global](/out/cigna)** should work[^9]. There is not a lot of information about it.
+- **[Cigna Global](/out/cigna)** should work.[^9] There is not a lot of information about it.
 
 ### How long can you stay on expat health insurance?
 
-[[Expat health insurance]] sometimes stops working after 5 years. You must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) before it expires. If it doesn't expire, it gets more and more expensive[^10], much faster than public or private health insurance.
+[[Expat health insurance]] sometimes stops working after 5 years. You must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) before it expires. If it doesn't expire, it gets more and more expensive,[^10] much faster than public or private health insurance.
 
 If you have expat health insurance, switch to public or private health insurance as soon as you can. You should switch at least 6 months before your expat insurance expires. It's better if you switch sooner.
 
-If you are a freelancer, health insurers can refuse to cover you. If you get really sick while you are on expat insurance, no one will want to cover you. Any health problem that requires long term treatment can disqualify you. Even getting psychotherapy will disqualify you. Your expat insurance will expire, and you won't have any health insurance[^11]. Without health insurance, you can't renew your visa. You will have to leave Germany when your visa expires. Even if you find an insurer who wants to cover you, it could be very expensive.
+If you are a freelancer, health insurers can refuse to cover you. If you get really sick while you are on expat insurance, no one will want to cover you. Any health problem that requires long term treatment can disqualify you. Even getting psychotherapy will disqualify you. Your expat insurance will expire, and you won't have any health insurance.[^11] Without health insurance, you can't renew your visa. You will have to leave Germany when your visa expires. Even if you find an insurer who wants to cover you, it could be very expensive.
 
 If you are a student, public health insurance is very cheap. It's a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university. If you wait too long, you will be stuck with expat insurance.
 

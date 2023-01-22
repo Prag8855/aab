@@ -7,7 +7,7 @@ Date_created: 2020-09-09
 Date_updated: 2022-04-20
 ---
 
-The property tax (*Grundsteuer*, sometimes *Bodenzins*) is a tax home every home owner in Germany must pay. The property tax is 0.26% to 1% of the value of the property, every year[^0]. It varies depending on the type of property, and the state you live in.
+The property tax (*Grundsteuer*, sometimes *Bodenzins*) is a tax home every home owner in Germany must pay. The property tax is 0.26% to 1% of the value of the property, every year.[^0] It varies depending on the type of property, and the state you live in.
 
 If you are renting, you do not need to pay property tax.
 

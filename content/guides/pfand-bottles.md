@@ -15,13 +15,13 @@ The *Pfand* system is a big part of [sorting your trash in Germany](/guides/sort
 
 ## How much is the deposit?
 
-The deposit is **between 8 and 25 cents**. It depends on the type of container[^0].
+The deposit is **between 8 and 25 cents**. It depends on the type of container.[^0]
 
 ## Which bottles have a Pfand?
 
 ### Bottles with a deposit
 
-These bottles have a deposit[^0]. You can return them at any store that sells them, and you will get some money back.
+These bottles have a deposit.[^0] You can return them at any store that sells them, and you will get some money back.
 
 - Beer bottles - 0.08€ (0.15€ for [resealable bottles](https://commons.wikimedia.org/wiki/File:Wulle.jpg))
 - Aluminium cans - 0.25€
@@ -45,7 +45,7 @@ These bottles can still be recycled, but they don't have a deposit.
 
 ### Pfand symbols
 
-If you see one of these symbols on a container, it has a deposit[^3].
+If you see one of these symbols on a container, it has a deposit.[^3]
 
 ![Pfand logos germany](/images/pfand-logos-germany.png "Bottles with these logos have a deposit.")
 
@@ -72,9 +72,9 @@ There are two types of containers with a deposit:
 
 ## Where to return bottles in Germany?
 
-If a business sells *Pfand* containers, it must accept *Pfand* returns. It must not accept container types it doesn't sell. For example, Aldi and Lidl only sell single-use (*Einweg*) bottles, so they don't accept multiple use (*Mehrweg*) bottles[^4]. If a store is larger than 200 m², it must accept containers from all brands, not just the brands it sells.
+If a business sells *Pfand* containers, it must accept *Pfand* returns. It must not accept container types it doesn't sell. For example, Aldi and Lidl only sell single-use (*Einweg*) bottles, so they don't accept multiple use (*Mehrweg*) bottles.[^4] If a store is larger than 200 m², it must accept containers from all brands, not just the brands it sells.
 
-- **Supermarkets:** look for a bottle return machine (*[[Pfandautomat]]*). [They look like this](/images/pfandautomat-edeka-bottle-return-machine.jpg). They are near the entrance, or at the back of the store. The machine will print a coupon. You must bring that coupon to the cash register to get your money back. Some grocery stores like Aldi and Lidl do not accept multiple-use (*Mehrweg*) bottles[^5]. Rewe and Edeka accept most bottles.
+- **Supermarkets:** look for a bottle return machine (*[[Pfandautomat]]*). [They look like this](/images/pfandautomat-edeka-bottle-return-machine.jpg). They are near the entrance, or at the back of the store. The machine will print a coupon. You must bring that coupon to the cash register to get your money back. Some grocery stores like Aldi and Lidl do not accept multiple-use (*Mehrweg*) bottles.[^5] Rewe and Edeka accept most bottles.
 - **Liquor stores (Getränkemarkt):** if you have a lot of bottles to return, this is the right place.
 - **Spätis:** [Spätis](/glossary/Sp%C3%A4ti) will accept the bottles they sold you. They are not a good place to return a lot of bottles.
 - **Charities:** Some charities will accept bottle donations. *[Pfandgeben](https://pfandgeben.de/)* is the best way to find them.

@@ -18,7 +18,7 @@ In 2015, Berlin passed the *[[Mietpreisbremse]]* law. It's a rent control law th
 This is how the rent reduction process goes:
 
 1. **Calculate your rent reduction**  
-    Use [their rent reduction calculator](/out/conny-mietpreisbremse-calculator). You must answer a few questions about your apartment, and upload a copy of your lease. This takes around 10 minutes. You can do it in English. After you filled the form, they tell you how much you can save on rent. The average rent reduction is around 200€ per month. This is an optimistic calculation[^0]. Your rent reduction can be smaller than the estimation.
+    Use [their rent reduction calculator](/out/conny-mietpreisbremse-calculator). You must answer a few questions about your apartment, and upload a copy of your lease. This takes around 10 minutes. You can do it in English. After you filled the form, they tell you how much you can save on rent. The average rent reduction is around 200€ per month. This is an optimistic calculation.[^0] Your rent reduction can be smaller than the estimation.
 2. **Send required documents**  
     You will get an email from Conny. It will ask you to send them a signed *[[Vollmacht]]* and a copy of your lease. They need this document to represent you. The email also contains a link to your case. It allows you to check the status of your case.
 3. **Wait**  
@@ -36,17 +36,17 @@ For example, if they reduce your rent by 200€ per month, they will keep 5 × 2
 
 Most cases take months to process. If your case goes to court, you must wait around 12 months. Some cases are solved in 2 to 4 months. If you are lucky, it can be solved in 1 week. Even if it takes a long time, the refund is retroactive, so you are not losing more money while you wait.
 
-During that time, you don't get many updates. Many negative reviews mention the long wait times[^1]. This is not Conny's fault - it's just a very slow process. The landlords and the courts can delay cases for months[^2].
+During that time, you don't get many updates. Many negative reviews mention the long wait times.[^1] This is not Conny's fault - it's just a very slow process. The landlords and the courts can delay cases for months.[^2]
 
 As Conny wins more court cases, many landlords choose to cooperate, instead of going to court. Those cases get resolved faster.
 
 ## It can make your landlord angry
 
-Your landlord can't kick you out because you asked for a rent reduction[^3]. Your landlord can't refuse to renew your lease, or stop providing services to you.
+Your landlord can't kick you out because you asked for a rent reduction.[^3] Your landlord can't refuse to renew your lease, or stop providing services to you.
 
-However, your landlord can find ways to make your life more difficult[^4]. For example, one user lost their garage space and their garden access[^5]. Another user says their landlord stopped answering their calls[^6].
+However, your landlord can find ways to make your life more difficult.[^4] For example, one user lost their garage space and their garden access.[^5] Another user says their landlord stopped answering their calls.[^6]
 
-Your landlord can also find legal reasons to end your lease[^7]. For example, if you sublet your apartment without permission[^8], or keep a pet without permission, your landlord could kick you out.
+Your landlord can also find legal reasons to end your lease.[^7] For example, if you sublet your apartment without permission,[^8] or keep a pet without permission, your landlord could kick you out.
 
 You have to decide what is more important for you: the money you save, or your relationship with your landlord.
 
@@ -62,7 +62,7 @@ The Conny team speaks English. [Their website](/out/conny-mietpreisbremse) is al
 
 **Yes, you can.** [Conny](/out/conny) does what it promises. It just takes a very long time, and that you will not get many updates while you wait. You must be patient.
 
-Conny has generally positive reviews[^9]. They received many positive mentions in the press. Almost all the negative reviews mention the lack of communication[^10]. Many also complain about the slow process[^11].
+Conny has generally positive reviews.[^9] They received many positive mentions in the press. Almost all the negative reviews mention the lack of communication.[^10] Many also complain about the slow process.[^11]
 
 If you try to get your rent reduced, your landlord could be angry at you. In my opinion, it's better to save money than to be friends with your landlord. That's the only risk. If you can't get a rent reduction, you don't pay anything.
 
@@ -70,7 +70,7 @@ In general, I think using Conny is a good idea, even if their service is not per
 
 ## Alternatives to Conny
 
-A tenants' association (*[[Mieterverein]]*) can also help you pay less rent. For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent. After you join a *Mieterverein*, you must wait a few months before you use their legal services[^12].
+A tenants' association (*[[Mieterverein]]*) can also help you pay less rent. For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent. After you join a *Mieterverein*, you must wait a few months before you use their legal services.[^12]
 
 You can also [contact a lawyer](/guides/english-speaking-lawyers-berlin). You will get much better customer service, but it will cost you more, even if you don't get any rent reduction. If you have [legal insurance](/guides/legal-insurance), then a lawyer is the best option.
 

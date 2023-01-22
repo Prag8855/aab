@@ -15,15 +15,15 @@ Netto ApS &amp; Co. KG has around 350 branches in Germany. Most branches are in 
 
 ## Netto without the dog
 
-Netto Marken-Discount has around 4,000 branches in Germany[^0]. It was founded by Spar (a supermarket chain), and taken over by Edeka (another supermarket chain) in 2005[^1].
+Netto Marken-Discount has around 4,000 branches in Germany.[^0] It was founded by Spar (a supermarket chain), and taken over by Edeka (another supermarket chain) in 2005.[^1]
 
 ![Netto supermarket](/images/netto-supermarket.jpg "A Netto supermarket (without dog) in Germany")
 
 ## What is the difference?
 
-Netto (with the dog) has more types of products, including bio options[^1]. The stores are often bigger[^2].
+Netto (with the dog) has more types of products, including bio options.[^1] The stores are often bigger.[^2]
 
-Netto (without the dog) is cheaper[^3]. It's a competitor to Aldi, Lidl and Penny. The stores are often smaller[^2].
+Netto (without the dog) is cheaper.[^3] It's a competitor to Aldi, Lidl and Penny. The stores are often smaller.[^2]
 
 [^0]: [wunderweib.de](https://www.wunderweib.de/netto-mit-und-ohne-hund-im-logo-wo-ist-der-unterschied-99916.html), [supermarktblog.com](https://www.supermarktblog.com/2013/04/19/schnell-erklaert-das-doppelte-nettochen/)
 [^1]: [supermarktblog.com](https://www.supermarktblog.com/2013/04/19/schnell-erklaert-das-doppelte-nettochen/)

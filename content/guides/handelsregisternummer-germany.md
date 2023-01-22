@@ -5,7 +5,7 @@ Date_created: 2018-03-14
 Date_updated: 2022-12-19
 ---
 
-The *Handelsregisternummer* or simply *Registernummer* is the unique number given to each company listed in the German Trade Register, the *[[Handelsregister]]*. Most german companies must be listed in the Handelsregister, with the exception of freelancers, small businesses (*[[Kleinunternehmer]]*) and companies constituted under civil law (*Gesellschaft bürgerlichen Rechts*)[^0][^1].
+The *Handelsregisternummer* or simply *Registernummer* is the unique number given to each company listed in the German Trade Register, the *[[Handelsregister]]*. Most german companies must be listed in the Handelsregister, with the exception of freelancers, small businesses (*[[Kleinunternehmer]]*) and companies constituted under civil law (*Gesellschaft bürgerlichen Rechts*)[^0].[^1]
 
 ## What does the Registernummer look like?
 
@@ -21,7 +21,7 @@ Here are a few examples of *Handelsregisternummern*:
 
 You can request an entry in the *Handelsregister* when filling the *Fragebogen zur steuerlichen Erfassung*.
 
-All businesses except small businesses and freelancers must be listed in the *Handelsregister*. This has some benefits, but it comes with extra fees and responsibilities[^2], so it's better to avoid it if you can.
+All businesses except small businesses and freelancers must be listed in the *Handelsregister*. This has some benefits, but it comes with extra fees and responsibilities,[^2] so it's better to avoid it if you can.
 
 ## Where do I find a company's Registernummer?
 

@@ -50,13 +50,13 @@ On public holidays, most businesses are closed, [just like on Sundays](/guides/o
 
 On public holidays, employees get the day off, but still get paid.
 
-You celebrate the holidays of the state where you work, even if you live in a different state[^0]. For example, if you live in Brandenburg and you work in Berlin, you get a day off for International Women's Day, even if it's not a holiday in Brandenburg.
+You celebrate the holidays of the state where you work, even if you live in a different state.[^0] For example, if you live in Brandenburg and you work in Berlin, you get a day off for International Women's Day, even if it's not a holiday in Brandenburg.
 
 **[How vacation days work in Germany ➞](/guides/vacation-days#public-holidays)**
 
 ### Each state is different
 
-Each German state has [different public holidays](https://en.wikipedia.org/wiki/Public_holidays_in_Germany#List_by_state). For example, Women's Day is a public holiday in Berlin, but not Epiphany or Corpus Christi[^1]. Some states have more public holidays than other. Bavaria has 13 public holidays, but Berlin only has 10.
+Each German state has [different public holidays](https://en.wikipedia.org/wiki/Public_holidays_in_Germany#List_by_state). For example, Women's Day is a public holiday in Berlin, but not Epiphany or Corpus Christi.[^1] Some states have more public holidays than other. Bavaria has 13 public holidays, but Berlin only has 10.
 
 [^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)
 [^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Public_holidays_in_Germany#List_by_state)

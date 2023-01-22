@@ -44,7 +44,7 @@ There are cheaper tickets for certain situations:
 - **Short distances**  
     If you travel less than 4 train stops, or less than 7 bus or tram stops, you can get a [short distance (*Kurzstrecke*) ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/). It's cheaper than the regular ticket.
 - **Children**  
-    If your child is between 6 and 14 years old, they need a reduced price (*Ermäßigungstarif*) ticket. Children under 6 years old ride for free[^0].
+    If your child is between 6 and 14 years old, they need a reduced price (*Ermäßigungstarif*) ticket. Children under 6 years old ride for free.[^0]
 - **Students and [apprentices](/glossary/Azubi)**  
     Students and [apprentices](/glossary/Azubi) can get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/) (*Schülerticket* or *Ausbildungsticket*). You can apply for it [here](https://www.abo-antrag.de/de/) or [here](https://1.bvg.de/schuelerticket) (in German).
 - **Senior citizens** Senior citizens pay the regular price for tickets. If you are over 64 years old, you can get, but there a cheaper yearly subscription: the [VBB-Abo 65plus](https://www.vbb.de/tickets/abonnements/vbb-abo-65plus/).
@@ -66,9 +66,9 @@ There are many ways to buy a public transit ticket:
 - **At a ticket machine**  
     There are yellow or red ticket machines at every train station. They accept coins, bills, credit cards and EC cards. Most ticket machines accept Apple Pay and Google Pay. The machines are usually on the train platform near the exits. The machines speak many languages.
 - **In the tram**  
-    There are ticket machines in every tram. It's a big yellow box near the middle of the tram. The old machines only accept coins. The new machines only accept cards[^1].
+    There are ticket machines in every tram. It's a big yellow box near the middle of the tram. The old machines only accept coins. The new machines only accept cards.[^1]
 - **In the bus**  
-    You can buy tickets at the front of the bus, next to the driver. You must pay with a credit card, an EC Card, Android Pay or Apple Pay[^2]. You can't pay with cash[^3].
+    You can buy tickets at the front of the bus, next to the driver. You must pay with a credit card, an EC Card, Android Pay or Apple Pay.[^2] You can't pay with cash.[^3]
 - **At [[S-Bahn]] and [[BVG]] service points**  
     There are a few [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). You can buy tickets there.
 
@@ -94,7 +94,7 @@ There are *Kontrolleur* who enter the train and check everyone's tickets. They w
 
 You can validate your ticket at a stamping machine. These machines are on train platforms, and inside trams and buses. Look for a yellow or red metal box.
 
-Tickets from bus drivers and tram machines don't always need to be stamped. Monthly cards don't need to be stamped[^4].
+Tickets from bus drivers and tram machines don't always need to be stamped. Monthly cards don't need to be stamped.[^4]
 
 [![Validate german train ticket](/images/validate-german-train-ticket.jpg "Stamp your ticket to validate it")](/images/validate-german-train-ticket.jpg)
 
@@ -127,14 +127,14 @@ The display shows a train's last stop, not its direction. For example, if an S2 
 - **Trams** (*Straßenbahn*)  
     Some tram lines start with an M (M1, M2...), and others have just a number (50, 68...). Most trams are in the east. Before the [reunification](https://en.wikipedia.org/wiki/German_reunification), there were no trams in West Berlin. At night, some tram lines are replaced by night buses. Other tram lines also at night.
 - **Buses**  
-    Bus stops have an ["H" sign](https://commons.wikimedia.org/wiki/File:Bushaltestelle_S%2BU_Potsdamer_Platz_in_Berlin.jpg) or [post](https://commons.wikimedia.org/wiki/File:Berlin-Stadtrundfahrt_Bus_100.jpg). There are night buses that replace U-Bahn and tram lines[^5]. Night bus lines start with the letter N (N6, N7, ...). Their number is the same as the bus or train line they replace (U6 and N6, 50 and N50...).
+    Bus stops have an ["H" sign](https://commons.wikimedia.org/wiki/File:Bushaltestelle_S%2BU_Potsdamer_Platz_in_Berlin.jpg) or [post](https://commons.wikimedia.org/wiki/File:Berlin-Stadtrundfahrt_Bus_100.jpg). There are night buses that replace U-Bahn and tram lines.[^5] Night bus lines start with the letter N (N6, N7, ...). Their number is the same as the bus or train line they replace (U6 and N6, 50 and N50...).
 - **Ferries**  
-    There are a few ferries in Berlin[^6]. Ferry lines start with an F (F12, F24, ...).
+    There are a few ferries in Berlin.[^6] Ferry lines start with an F (F12, F24, ...).
 
 ### Outside of Berlin
 
 - **Regional trains**  
-    The Regio trains travel from Berlin to [[Brandenburg]] and other parts of Germany. The express lines start with RE (RE1, RE2...) and the other lines start with RB (RB10, RB49...). There is also the FEX line, which goes to the BER airport[^7].
+    The Regio trains travel from Berlin to [[Brandenburg]] and other parts of Germany. The express lines start with RE (RE1, RE2...) and the other lines start with RB (RB10, RB49...). There is also the FEX line, which goes to the BER airport.[^7]
 - **S-Bahn trains**  
     Most S-Bahn lines end in zone C. Zone C is outside of Berlin, in [[Brandenburg]].
 - **Long distance trains**  
@@ -162,9 +162,9 @@ You need a valid driving licence to use those services. Car sharing services don
 
 ### Call a taxi
 
-People rarely use taxis in Berlin, because they are very expensive[^8]. You can get a taxi from [BerlKönig](https://www.berlkoenig.de/), [Bolt](https://bolt.eu/en/cities/berlin/), [FreeNow](https://free-now.com/de/taxi-berlin/), [Uber](https://www.uber.com/global/en/cities/berlin/), and standard taxi services. The [Jelbi app](https://www.jelbi.de/en/home/) also lets you book a taxi.
+People rarely use taxis in Berlin, because they are very expensive.[^8] You can get a taxi from [BerlKönig](https://www.berlkoenig.de/), [Bolt](https://bolt.eu/en/cities/berlin/), [FreeNow](https://free-now.com/de/taxi-berlin/), [Uber](https://www.uber.com/global/en/cities/berlin/), and standard taxi services. The [Jelbi app](https://www.jelbi.de/en/home/) also lets you book a taxi.
 
-German taxis must accept cash and credit cards[^8]. The Jelbi app also accepts PayPal.
+German taxis must accept cash and credit cards.[^8] The Jelbi app also accepts PayPal.
 
 ### Ride sharing
 
@@ -172,7 +172,7 @@ German taxis must accept cash and credit cards[^8]. The Jelbi app also accepts P
 
 ## Bicycles on public transit
 
-You can bring your bicycle on the train (S-Bahn and U-Bahn), and on the N1 to N9 night buses[^9]. You can't bring your bicycle in the tram, or in other buses. On the U-Bahn, don't bring your bicycle in the first carriage. Some carriages also have a "no bicycles" sign near the door.[^10] On the S-Bahn, only use the carriages with a bicycle sign near the door.[^10]
+You can bring your bicycle on the train (S-Bahn and U-Bahn), and on the N1 to N9 night buses.[^9] You can't bring your bicycle in the tram, or in other buses. On the U-Bahn, don't bring your bicycle in the first carriage. Some carriages also have a "no bicycles" sign near the door.[^10] On the S-Bahn, only use the carriages with a bicycle sign near the door.[^10]
 
 Bicycle trailers, bicycles with more than two wheels, scooters and motorcycles are not allowed on the train. Electric bicycles are allowed.[^10]
 

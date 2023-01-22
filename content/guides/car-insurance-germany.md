@@ -19,7 +19,7 @@ If another driver damages your vehicle, then runs away.</td><td></td><td></td><t
 If someone vandalises your vehicle.</td><td></td><td></td><td>✓</td></tr><tr><td>**Theft and break-in attempts**  
 If someone steals your car, or damages it while trying to steal it.</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Damage from fires and natural events** If a fire, flood, hail storm or other natural event damages your vehicle.</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Broken or cracked windows**</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Collisions with wild animals**  
 If you hit a wild animal while driving, or if an animal damages your vehicle.</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Gross negligence**  
-If you cause an accident because of gross negligence. For example if you use your phone while driving, or if you run a red light[^12].</td><td></td><td>optional</td><td>optional</td></tr><tr><td>**Damage to other people and vehicles**  
+If you cause an accident because of gross negligence. For example if you use your phone while driving, or if you run a red light.[^12]</td><td></td><td>optional</td><td>optional</td></tr><tr><td>**Damage to other people and vehicles**  
 If you cause an accident, and you cause damage to other people, vehicles or property.</td><td>✓</td><td>✓</td><td>✓</td></tr></tbody></table>
 
 ### Haftpflicht
@@ -28,7 +28,7 @@ Liability (*Haftpflicht*) insurance only covers **the minimum**. It covers the *
 
 For example, if you crash into another car, your insurance will pay to repair the other car. It will not pay to repair your car. If *someone else* crashes into your parked car, *their* insurance will pay for your repairs. If someone crashes into your car, then drives away, your insurance won't pay for the repairs.
 
-*Haftpflicht* insurance does not cover theft, vandalism, or damage from fires, storms or floods[^13]. It only covers the bare minimum, and that's why it's much cheaper.
+*Haftpflicht* insurance does not cover theft, vandalism, or damage from fires, storms or floods.[^13] It only covers the bare minimum, and that's why it's much cheaper.
 
 Vehicle liability insurance (*Kfz-Haftpflichtversicherung*) is not the same as [private liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung). Private liability insurance does not cover you while you drive.
 
@@ -36,17 +36,17 @@ Vehicle liability insurance (*Kfz-Haftpflichtversicherung*) is not the same as [
 
 ### Teilkasko
 
-Partially comprehensive (*Teilkasko*) also covers **theft, fires and damage from natural catastrophes** (earthquakes, floods, hail, etc)[^13]. Usually, it does not cover vandalism[^0]. Each insurance policy is different. Some insurers let you choose what is covered.
+Partially comprehensive (*Teilkasko*) also covers **theft, fires and damage from natural catastrophes** (earthquakes, floods, hail, etc).[^13] Usually, it does not cover vandalism.[^0] Each insurance policy is different. Some insurers let you choose what is covered.
 
 *Teilkasko* is more expensive than *Haftpflicht* insurance, but cheaper than *Vollkasko*.
 
-*Teilkasko* insurance makes more sense for older vehicles[^14]. For new vehicles, *Vollkasko* makes more sense.
+*Teilkasko* insurance makes more sense for older vehicles.[^14] For new vehicles, *Vollkasko* makes more sense.
 
 ### Vollkasko
 
-Comprehensive (*Vollkasko*) insurance also covers **damage to your own vehicle, even if the accident is your fault**. It also covers vandalism, and hit-and-runs. It costs almost twice as much as *Teilkasko* insurance[^15].
+Comprehensive (*Vollkasko*) insurance also covers **damage to your own vehicle, even if the accident is your fault**. It also covers vandalism, and hit-and-runs. It costs almost twice as much as *Teilkasko* insurance.[^15]
 
-*Vollkasko* insurance makes more sense for new vehicles[^14].
+*Vollkasko* insurance makes more sense for new vehicles.[^14]
 
 ## How to pick German car insurance
 
@@ -54,7 +54,7 @@ Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare 
 
 You can also talk to an insurance broker. They can help you transfer your driving experience from another country. You will get a much better price for your car insurance. Few brokers sell car insurance, because it's not profitable.
 
-After you pick the right insurance, ask for an [eVB number](/glossary/eVB-Nummer). You will get it in less than a day[^16]. When you [buy a vehicle](/guides/buying-used-car-in-germany) and [register it](/guides/buying-used-car-in-germany#step-6-register-the-vehicle) at the *[[Kfz-Zulassungsstelle]]*, you must have that eVB number.
+After you pick the right insurance, ask for an [eVB number](/glossary/eVB-Nummer). You will get it in less than a day.[^16] When you [buy a vehicle](/guides/buying-used-car-in-germany) and [register it](/guides/buying-used-car-in-germany#step-6-register-the-vehicle) at the *[[Kfz-Zulassungsstelle]]*, you must have that eVB number.
 
 ## How to pay less for German car insurance
 
@@ -64,41 +64,41 @@ If you have multiple vehicles, it's often cheaper to insure them with the same c
 
 ### Use your parents' car insurance
 
-If your parents live in Germany, they can insure your car as their second vehicle (*Zweitwagen*), and register you as an additional driver (*Zusatz­fahrer*)[^1]. Your parents will pay less for car insurance, because they have more driving experience. If you are under 25 years old, you can save a lot of money this way[^2].
+If your parents live in Germany, they can insure your car as their second vehicle (*Zweitwagen*), and register you as an additional driver (*Zusatz­fahrer*).[^1] Your parents will pay less for car insurance, because they have more driving experience. If you are under 25 years old, you can save a lot of money this way.[^2]
 
-Some insurance companies also offer discounts for the children of existing customers[^3]. Ask for a *Familientarife*.
+Some insurance companies also offer discounts for the children of existing customers.[^3] Ask for a *Familientarife*.
 
 ### Look for cheaper insurance every year
 
-Your car insurance is renewed automatically each year on January 1. You have until November 30 to cancel it[^13]. Every year in November, you should look for cheaper car insurance. Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurance prices.
+Your car insurance is renewed automatically each year on January 1. You have until November 30 to cancel it.[^13] Every year in November, you should look for cheaper car insurance. Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurance prices.
 
-If you sell the vehicle, you can end the insurance immediately[^17].
+If you sell the vehicle, you can end the insurance immediately.[^17]
 
 ### Choose a higher deductible
 
 The deductible (*[[Selbstbeteiligung]]*) is the amount you pay yourself, before your insurance helps you. For example, if you have a 300€ deductible, and you cause 2500€ in damages, you will pay 300€, and your insurance will pay the remaining 2200€.
 
-If you choose a higher deductible, your car insurance will be cheaper[^4]. [Finanztip](https://www.finanztip.de/kfz-versicherung/tarifmerkmale/) recommends a 150€ to 300€ deductible. This would make your car insurance 18% to 25% cheaper[^4].
+If you choose a higher deductible, your car insurance will be cheaper.[^4] [Finanztip](https://www.finanztip.de/kfz-versicherung/tarifmerkmale/) recommends a 150€ to 300€ deductible. This would make your car insurance 18% to 25% cheaper.[^4]
 
 ### Pay yearly, not monthly
 
-Make yearly payments instead of monthly payments. If you make yearly payments, you will pay 4% to 9% less[^4].
+Make yearly payments instead of monthly payments. If you make yearly payments, you will pay 4% to 9% less.[^4]
 
 ### Get Saisonkennzeichen
 
-Seasonal plates (*[[Saisonkennzeichen]]*) are vehicle registration plates that only let you drive during certain months. For example, a motorcycle can have *Saisonkennzeichen* from April to October, or March to November. You don't pay insurance for the months you can't drive, so it's cheaper. Out of season, you can't drive the vehicle, and you can't park it in public spaces[^5]. You must put it in storage, or find a private parking space.
+Seasonal plates (*[[Saisonkennzeichen]]*) are vehicle registration plates that only let you drive during certain months. For example, a motorcycle can have *Saisonkennzeichen* from April to October, or March to November. You don't pay insurance for the months you can't drive, so it's cheaper. Out of season, you can't drive the vehicle, and you can't park it in public spaces.[^5] You must put it in storage, or find a private parking space.
 
 ### Get a Werkstattbindung
 
-If you agree to a *[[Werkstattbindung]]*, you can save 10% to 20% on your car insurance[^6]. If you have an accident, you must repair your car at a garage approved by your insurer. In many cases, you get better service with a *Werkstattbindung*. For example, you can get a free rental car while they repair your vehicle. Your claims might also be approved faster.
+If you agree to a *[[Werkstattbindung]]*, you can save 10% to 20% on your car insurance.[^6] If you have an accident, you must repair your car at a garage approved by your insurer. In many cases, you get better service with a *Werkstattbindung*. For example, you can get a free rental car while they repair your vehicle. Your claims might also be approved faster.
 
-This option is only available for *Teilkasko* and *Vollkasko* insurance[^18]. *Haftpflicht* insurance does not cover repairs to your own vehicle.
+This option is only available for *Teilkasko* and *Vollkasko* insurance.[^18] *Haftpflicht* insurance does not cover repairs to your own vehicle.
 
 ### Be a good driver
 
-If you are a new driver, you will pay more for insurance. If you have more driving experience, and never have accidents, your insurance gets cheaper[^7]. German insurance companies give every driver a class (*[[Schadenfreiheitsklasse]]*). If you don't make any claims, your *Schadenfreiheitsklasse* gets higher every year. A high *Schadenfreiheitsklasse* means that you are a safe driver. If you have a high *Schadenfreiheitsklasse*, you pay less for insurance.
+If you are a new driver, you will pay more for insurance. If you have more driving experience, and never have accidents, your insurance gets cheaper.[^7] German insurance companies give every driver a class (*[[Schadenfreiheitsklasse]]*). If you don't make any claims, your *Schadenfreiheitsklasse* gets higher every year. A high *Schadenfreiheitsklasse* means that you are a safe driver. If you have a high *Schadenfreiheitsklasse*, you pay less for insurance.
 
-Damages that are not your fault don't affect your *Schadenfreiheitsklasse*[^8]. For example, if your insurance pays to fix a crack in your windshield, it does not affect your *Schadenfreiheitsklasse*. Your car insurance will not get more expensive.
+Damages that are not your fault don't affect your *Schadenfreiheitsklasse*.[^8] For example, if your insurance pays to fix a crack in your windshield, it does not affect your *Schadenfreiheitsklasse*. Your car insurance will not get more expensive.
 
  <table><thead><tr><th>Years without claims</th><th>Schadenfreiheitsklasse</th><th>Discount</th></tr></thead><tbody><tr><td>2 years</td><td>SF2</td><td>~15%</td></tr><tr><td>3 years</td><td>SF3</td><td>~30%</td></tr><tr><td>4 years</td><td>SF4</td><td>~40%</td></tr><tr><td>5 to 8 years</td><td>SF5 to SF8</td><td>45 to 50%</td></tr><tr><td>9 to 15 years</td><td>SF9 to SF15</td><td>55 to 60%</td></tr><tr><td>16 to 25 years</td><td>SF16 to SF25</td><td>65 to 70%</td></tr><tr><td>26 years or more</td><td>SF26 and above</td><td>75 to 80%</td></tr></tbody></table>
 
@@ -106,25 +106,25 @@ Damages that are not your fault don't affect your *Schadenfreiheitsklasse*[^8]. 
 
 [Expat Car Insurance](https://expatcarinsurance.de/) specialises in this. They help you find car insurance that recognises your driving experience. Most insurance brokers avoid this, because it's a lot of work and it does not pay well.
 
-**If you have driving experience with car sharing**, tell your insurance company. Some insurance companies count car sharing as driving experience, so your insurance will be cheaper[^9].
+**If you have driving experience with car sharing**, tell your insurance company. Some insurance companies count car sharing as driving experience, so your insurance will be cheaper.[^9]
 
-**If you have a motorcycle**, tell your insurance company. It will make your car insurance cheaper[^10]. Insurance for a second vehicle (*Zweitwagen*) is also much cheaper.
+**If you have a motorcycle**, tell your insurance company. It will make your car insurance cheaper.[^10] Insurance for a second vehicle (*Zweitwagen*) is also much cheaper.
 
-If you switch to a different insurance company, you will not lose your *Schadenfreiheitsklasse*[^19].
+If you switch to a different insurance company, you will not lose your *Schadenfreiheitsklasse*.[^19]
 
 ### Deduct it from your taxes
 
-In some cases, you can deduct vehicle insurance in your *Steuererklärung*[^11]. If you are a permanent employee, you can deduct part of your car insurance. If you are self-employed and only use the vehicle for work, you can deduct the full amount[^20]. You can only do this if you own the vehicle and the insurance policy. [This page](https://www.allianz.de/auto/kfz-versicherung/steuererklaerung/) (in German) has more information. A [tax advisor](/guides/english-speaking-steuerberater-berlin) can also help you with this.
+In some cases, you can deduct vehicle insurance in your *Steuererklärung*.[^11] If you are a permanent employee, you can deduct part of your car insurance. If you are self-employed and only use the vehicle for work, you can deduct the full amount.[^20] You can only do this if you own the vehicle and the insurance policy. [This page](https://www.allianz.de/auto/kfz-versicherung/steuererklaerung/) (in German) has more information. A [tax advisor](/guides/english-speaking-steuerberater-berlin) can also help you with this.
 
-If you forgot to declare it, don't worry. You can do it later, retroactively[^20].
+If you forgot to declare it, don't worry. You can do it later, retroactively.[^20]
 
 ## What do I do if I get in a car accident in Germany?
 
 If someone is injured in the accident, you should call 112 (the police).
 
-You should then fill a [European accident report](http://cartraveldocs.com/) (*Europäischer Unfallbericht*). Write down the other person's name, address and plate number[^21].
+You should then fill a [European accident report](http://cartraveldocs.com/) (*Europäischer Unfallbericht*). Write down the other person's name, address and plate number.[^21]
 
-If you have questions about insurance, call the *[Zentralruf der Autoversicherer](https://www.zentralruf.de/en/)* ([+4940300330300](tel:+4940300330300) or [08002502600](tel:08002502600)). They can help you find the insurance details of the other person, even in other EU countries[^22].
+If you have questions about insurance, call the *[Zentralruf der Autoversicherer](https://www.zentralruf.de/en/)* ([+4940300330300](tel:+4940300330300) or [08002502600](tel:08002502600)). They can help you find the insurance details of the other person, even in other EU countries.[^22]
 
 ## How to cancel car insurance
 
@@ -138,7 +138,7 @@ If you sell your vehicle, you can cancel your vehicle insurance immediately. You
 
 If you want to drive outside the European Union, you will need a Green Card (*Grüne Karte*). This document lists the countries in which your car insurance is valid. [It looks like this](https://commons.wikimedia.org/wiki/File:IVK.png). When you leave the European Union, you must show your green card at the border control. [This map](https://en.wikipedia.org/wiki/International_Motor_Insurance_Card_System#/media/File:International_Motor_Insurance_Systems.png) shows which countries accept Green Cards. In other countries, you might need to buy car insurance at the border.
 
-You can request a Green Card from your car insurance company. This is usually free[^23].
+You can request a Green Card from your car insurance company. This is usually free.[^23]
 
 ## What's next?
 

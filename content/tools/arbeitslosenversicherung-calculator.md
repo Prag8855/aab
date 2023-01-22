@@ -21,15 +21,15 @@ If you work in Germany, you must pay for unemployment insurance (*[[Arbeitslosen
 
 ## How to calculate Arbeitslosenversicherung
 
-*Arbeitslosenversicherung* is **{{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your [[Brutto income]]**[^0].
+*Arbeitslosenversicherung* is **{{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your [[Brutto income]]**.[^0]
 
 ### In East Germany
 
-If you earn more than (the *[[Beitragsbemessungsgrenze]]*), you pay the maximum amount: {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of {{BEITRAGSBEMESSUNGSGRENZE_EAST}}€. You will not pay more than that, even if your income goes up[^1].
+If you earn more than (the *[[Beitragsbemessungsgrenze]]*), you pay the maximum amount: {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of {{BEITRAGSBEMESSUNGSGRENZE_EAST}}€. You will not pay more than that, even if your income goes up.[^1]
 
 ### In West Germany
 
-If you earn more than (the *[[Beitragsbemessungsgrenze]]*), you pay the maximum amount: {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of {{BEITRAGSBEMESSUNGSGRENZE_WEST}}€. You will not pay more than that, even if your income goes up[^1].
+If you earn more than (the *[[Beitragsbemessungsgrenze]]*), you pay the maximum amount: {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of {{BEITRAGSBEMESSUNGSGRENZE_WEST}}€. You will not pay more than that, even if your income goes up.[^1]
 
 [^0]: [tk.de](https://www.tk.de/firmenkunden/versicherung/beitraege-faq/beitragssaetze/beitragssatz-arbeitslosenversicherung-2033024), [tk.de](https://www.tk.de/firmenkunden/versicherung/beitraege-faq/basiswissen-beitraege/beitraege-zur-sozialversicherung-berechnen-2031348)
 [^1]: [tk.de](https://www.tk.de/firmenkunden/versicherung/beitraege-faq/basiswissen-beitraege/beitraege-zur-sozialversicherung-berechnen-2031348)

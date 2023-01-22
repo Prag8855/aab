@@ -10,7 +10,7 @@ Related_guides: guides/moving-in.md, guides/wenigermiete-review.md, guides/miete
 
 A tenant association (*Mieterverein* or *Mieterschutzverein*) protects tenants from their landlords. When you are a member of a Mieterverein, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment.
 
-After you join a *Mieterverein*, you must wait a few months before you use their legal services[^0].
+After you join a *Mieterverein*, you must wait a few months before you use their legal services.[^0]
 
 The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. The membership costs 50€ to 100€ per year.
 

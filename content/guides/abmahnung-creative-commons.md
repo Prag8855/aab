@@ -13,7 +13,7 @@ On May 5th, I received an *[[Abmahnung]]* from Kanzlei Lutz Schröder in Kiel. T
 
 In our guide, *[Steuerberater or Buchhalter: what's the difference?](/guides/steuerberater-vs-buchhalter)*, I used [a photo](https://www.flickr.com/photos/140988606@N08/30720979452) with a Creative Commons licence as the header image. Although I gave credit to Christopher Scholz for his photo, I did not do it in the correct way.
 
-Under the [CC BY-SA 2.0 licence](https://creativecommons.org/licenses/by-sa/2.0/), the attribution must include [the Title, the Author, the Source and the Licence](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#Title.2C_Author.2C_Source.2C_License) (TASL). I only included the author and a link to the source. This is a common mistake. Over 90% of Creative Commons images are not attributed properly[^0].
+Under the [CC BY-SA 2.0 licence](https://creativecommons.org/licenses/by-sa/2.0/), the attribution must include [the Title, the Author, the Source and the Licence](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#Title.2C_Author.2C_Source.2C_License) (TASL). I only included the author and a link to the source. This is a common mistake. Over 90% of Creative Commons images are not attributed properly.[^0]
 
 **This is how I attributed the image:**
 

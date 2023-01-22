@@ -15,15 +15,15 @@ This guide explains VAT for German businesses. You must understand this to [star
 
 In Germany, VAT is a {{VAT_RATE}}% tax on most goods and services. In German, it's called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer* (*MwSt.*).
 
-VAT is always included in the advertised price[^0]. If the price label says 20€, the customer pays 20€ *including* VAT.
+VAT is always included in the advertised price.[^0] If the price label says 20€, the customer pays 20€ *including* VAT.
 
 > **VAT included example:** On a restaurant menu, a meal costs 15€. You pay 12.61€ for the meal, and 2.39€ VAT; 15€ in total.
 
-Other EU countries also have a VAT; it's between 17% and 25%[^1].
+Other EU countries also have a VAT; it's between 17% and 25%.[^1]
 
 ### Reduced VAT
 
-Some goods and services have a reduced VAT or no VAT[^2].
+Some goods and services have a reduced VAT or no VAT.[^2]
 
 Reduced VAT ({{VAT_RATE_REDUCED}}%):
 
@@ -60,22 +60,22 @@ If you are a small business (*[[Kleinunternehmer]]*), you can *choose* if your b
 If you don't charge VAT, it means:
 
 - **Less paperwork**  
-    If you don't charge VAT, you don't need to submit [VAT returns](/glossary/Umsatzsteuervoranmeldung) or VAT declarations[^4]. You save a few hours per month.
+    If you don't charge VAT, you don't need to submit [VAT returns](/glossary/Umsatzsteuervoranmeldung) or VAT declarations.[^4] You save a few hours per month.
 - **Lower prices for your customers**  
     Your prices are lower without VAT. Your [private customers](/glossary/B2C) pay less, but your income is the same. Your [business customers](/glossary/B2B) get a refund on the VAT they pay, so they don't care if you charge VAT.
 - **No VAT refund on business expenses**  
-    If you charge VAT, you get a VAT refund on your business expenses[^5]. For example, if you buy a computer for your business, you get the VAT back. If you don't charge VAT, you must pay VAT on all expenses. If you have a lot of expenses, it's better to charge VAT and get VAT refunds[^6].
+    If you charge VAT, you get a VAT refund on your business expenses.[^5] For example, if you buy a computer for your business, you get the VAT back. If you don't charge VAT, you must pay VAT on all expenses. If you have a lot of expenses, it's better to charge VAT and get VAT refunds.[^6]
 - **Growing your business is more complicated**  
-    If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers[^7]. If you plan to make over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, it's easier to charge VAT from the start.
+    If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers.[^7] If you plan to make over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, it's easier to charge VAT from the start.
 
-You decide when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*. If you choose to charge VAT, you must *always* charge VAT. You can't change your mind for 5 years[^8].
+You decide when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*. If you choose to charge VAT, you must *always* charge VAT. You can't change your mind for 5 years.[^8]
 
-If you choose not to charge VAT, you must add this line to your invoices[^9]:
+If you choose not to charge VAT, you must add this line to your invoices:[^9]
 
 > **English:** “In accordance to § 19 UStG, no value added tax is charged.”  
 > **German:** “Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.”
 
-If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT in January the next year[^10].
+If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT in January the next year.[^10]
 
 ## How to charge VAT
 
@@ -83,7 +83,7 @@ If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIR
 2. Pay VAT on your business expenses.
 3. Calculate the difference between the VAT you charge and the VAT you pay.
 4. Tell the difference to *[[Finanzamt]]* with a [VAT return](/glossary/Umsatzsteuervoranmeldung).
-5. Pay the difference to the *Finanzamt* with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If the difference is negative, the *Finanzamt* pays you[^11].
+5. Pay the difference to the *Finanzamt* with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If the difference is negative, the *Finanzamt* pays you.[^11]
 
 > **Example:**  
 > You make 20,000€ in sales, including 3,193€ VAT  
@@ -103,7 +103,7 @@ When you [start your business](/guides/start-a-business-in-germany), you must [r
 
 When you fill the registration form, you can register as a [small business](/glossary/Kleinunternehmer) that does not charge VAT.
 
-During the registration, you can give the *Finanzamt* a [direct debit authorization](/glossary/SEPA-Lastschriftmandat). It lets them take VAT payments directly from your bank account. It saves time, and helps you avoid late payments[^12].
+During the registration, you can give the *Finanzamt* a [direct debit authorization](/glossary/SEPA-Lastschriftmandat). It lets them take VAT payments directly from your bank account. It saves time, and helps you avoid late payments.[^12]
 
 ### 2. Collect VAT from customers
 
@@ -111,7 +111,7 @@ You must charge VAT to all your German customers, and some of your EU customers.
 
 **[When to charge VAT ↓](/guides/value-added-tax#when-to-charge-vat)**
 
-If you forget to charge your customers VAT, you must still pay VAT to the *[[Finanzamt]]*[^13]. For example, if you make a 100€ invoice, and you forget to charge 19€ for VAT, the *Finanzamt* still collects 19€ from you. If you write incorrect invoices, you can lose money.
+If you forget to charge your customers VAT, you must still pay VAT to the *[[Finanzamt]]*.[^13] For example, if you make a 100€ invoice, and you forget to charge 19€ for VAT, the *Finanzamt* still collects 19€ from you. If you write incorrect invoices, you can lose money.
 
 ### 3. Submit VAT returns
 
@@ -128,31 +128,31 @@ There are 4 ways to make VAT returns:
 
  <table><thead><tr><th>VAT paid last year</th><th>When to submit VAT returns</th></tr></thead><tbody><tr><td>Under {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€</td><td>Never</td></tr><tr><td>{{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ to {{VAT_MIN_MONTHLY_AMOUNT|cur}}€</td><td>Every quarter</td></tr><tr><td>Over {{VAT_MIN_MONTHLY_AMOUNT|cur}}€</td><td>Every month</td></tr></tbody></table>
 
-**Due date:** You must submit your VAT return before the 10th day of the next month[^15]. If that day is a Saturday, Sunday or public holiday, you have until the next [business day](/glossary/Arbeitstag)[^16].
+**Due date:** You must submit your VAT return before the 10th day of the next month.[^15] If that day is a Saturday, Sunday or public holiday, you have until the next [business day](/glossary/Arbeitstag).[^16]
 
-If you submit your VAT returns late, you pay a fine (*Verspätungszuschlag*). The fine is up to 10% of the VAT you owe, maximum 25,000€[^17].
+If you submit your VAT returns late, you pay a fine (*Verspätungszuschlag*). The fine is up to 10% of the VAT you owe, maximum 25,000€.[^17]
 
 ### 4. Pay VAT to the Finanzamt
 
-After you submit your VAT return, you must pay the *[[Finanzamt]]* by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). They will not send you an invoice; you must simply transfer the money[^18]. If you gave the *Finanzamt* a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), they take the money automatically.
+After you submit your VAT return, you must pay the *[[Finanzamt]]* by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). They will not send you an invoice; you must simply transfer the money.[^18] If you gave the *Finanzamt* a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), they take the money automatically.
 
-If the VAT you paid is more than the VAT you charged, you get a refund from the *Finanzamt*[^19].
+If the VAT you paid is more than the VAT you charged, you get a refund from the *Finanzamt*.[^19]
 
-**Due date:** The VAT payment is due on the same day as the VAT return: before the 10th day of the next month[^18]. You have 3 more days for the bank transfer to go through[^20].
+**Due date:** The VAT payment is due on the same day as the VAT return: before the 10th day of the next month.[^18] You have 3 more days for the bank transfer to go through.[^20]
 
 > **Late submission example 1:** You pay your March VAT on April 10. The payment goes through on April 13. You don't pay a fine, because you paid your VAT on time.
 
 > **Late submission example** 2:** You pay your March VAT on April 20. You pay a fine, because you paid your VAT late.
 
-If you submit your VAT return on time, but you payment is late, you get a fine (*Säumniszuschlag*). The fine is 1% of the VAT you owe for every month you wait[^21].
+If you submit your VAT return on time, but you payment is late, you get a fine (*Säumniszuschlag*). The fine is 1% of the VAT you owe for every month you wait.[^21]
 
-> **Late payment example:** You owe the *Finanzamt* 5,300€. You pay your VAT 2 weeks late. The fine is 53€ (1% of 5,300€)[^22].
+> **Late payment example:** You owe the *Finanzamt* 5,300€. You pay your VAT 2 weeks late. The fine is 53€ (1% of 5,300€).[^22]
 
 ### 5. Submit a yearly VAT declaration
 
-You must also make a yearly VAT declaration ([*Umsatzsteuererklärung*](/glossary/Umsatzsteuererkl%C3%A4rung)). If you forgot to declare something in your VAT returns, you can make corrections in your VAT declaration[^23].
+You must also make a yearly VAT declaration ([*Umsatzsteuererklärung*](/glossary/Umsatzsteuererkl%C3%A4rung)). If you forgot to declare something in your VAT returns, you can make corrections in your VAT declaration.[^23]
 
-**Due date:** May 31 of the next year[^24]. If your [tax advisor](/glossary/Steuerberater) submits it for you, they have until September 30[^25].
+**Due date:** May 31 of the next year.[^24] If your [tax advisor](/glossary/Steuerberater) submits it for you, they have until September 30.[^25]
 
 If you submit your VAT declaration late, the fine is the same as for a late VAT return: up to 10% of the VAT you owe, maximum 25,000€.
 
@@ -172,10 +172,10 @@ Use the **[VAT helper](https://europa.eu/youreurope/business/taxation/vat/cross-
 
 ### VAT for customers in the EU
 
-**It depends.** If your customer is in another EU country, it's more complicated[^26]:
+**It depends.** If your customer is in another EU country, it's more complicated:[^26]
 
 - **If you sell to another business** ([[B2B]])  
-    You charge 0% VAT, and issue a reverse charge invoice[^27]. - [How reverse charge works](https://www.accountable.de/en/blog/reverse-charge-procedure/)
+    You charge 0% VAT, and issue a reverse charge invoice.[^27] - [How reverse charge works](https://www.accountable.de/en/blog/reverse-charge-procedure/)
 - **If you sell to a private customer** ([[B2C]])
     - **If you sell goods**  
         It depends on how much [[B2C]] [revenue](/glossary/Umsatz) you get from other EU countries:
@@ -186,15 +186,15 @@ Use the **[VAT helper](https://europa.eu/youreurope/business/taxation/vat/cross-
     - **If you sell services**  
         You usually charge the German VAT rate, {{VAT_RATE}}%, but there are exceptions:
         - **Broadcasting, telecommunication and electronically-supplied services**  
-            You charge the VAT rate in the customer's country[^28]. This includes most sales of digital services: software, films, web hosting, courses...<sup>[II](https://lexparency.org/eu/32006L0112/ANX_II/)</sup>
+            You charge the VAT rate in the customer's country.[^28] This includes most sales of digital services: software, films, web hosting, courses...<sup>[II](https://lexparency.org/eu/32006L0112/ANX_II/)</sup>
 
 If your customer is in another EU country, your invoice must contain [specific information](https://taxation-customs.ec.europa.eu/vat-invoicing-rules_en#:~:text=zero-rated%E2%80%99%20supplies).-,what%20information%20must%20an%20invoice%20contain%3F,-Full%20VAT%20invoices).
 
 ### VAT for customers outside the EU
 
-**Don't charge VAT.** If your customer is outside the European Union, you must not charge VAT[^29].
+**Don't charge VAT.** If your customer is outside the European Union, you must not charge VAT.[^29]
 
-For example, if you sell goods or services to customers in the United States, you must not charge VAT[^30].
+For example, if you sell goods or services to customers in the United States, you must not charge VAT.[^30]
 
 ## Need help?
 

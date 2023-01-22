@@ -14,6 +14,6 @@ Permanent residency is better than a [residence permit](/glossary/Aufenthaltstit
 
 Permanent residency is not as good as citizenship. It does not let you vote. You can still get deported. Your permanent residency expires if you leave Germany for more than 6 months.
 
-There are two types of permanent residencies: the German permanent residency (*Niederlassungserlaubnis*), and the EU permanent residency (*Erlaubnis zum Daueraufenthalt-EU*). They have different requirements[^0].
+There are two types of permanent residencies: the German permanent residency (*Niederlassungserlaubnis*), and the EU permanent residency (*Erlaubnis zum Daueraufenthalt-EU*). They have different requirements.[^0]
 
 [^0]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/)

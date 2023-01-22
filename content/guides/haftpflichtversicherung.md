@@ -5,7 +5,7 @@ Date_created: 2018-09-28
 Date_updated: 2022-12-19
 ---
 
-If you cause an accident in Germany, you can be sued by the victim. If the victim wins, you will have to pay reparations[^0]. This could easily ruin you.
+If you cause an accident in Germany, you can be sued by the victim. If the victim wins, you will have to pay reparations.[^0] This could easily ruin you.
 
 Liability insurance (*[[Haftpflichtversicherung]]*) protects you from such damage claims. If you cause an accident, your insurance company covers the legal fees and the reparations.
 
@@ -15,35 +15,35 @@ Liability insurance (*[[Haftpflichtversicherung]]*) protects you from such damag
 
 ### Private liability insurance
 
-Personal liability insurance (*Privathaftpflichtversicherung*) protects you from most claims against you[^1]:
+Personal liability insurance (*Privathaftpflichtversicherung*) protects you from most claims against you:[^1]
 
 - **Damage you cause to the apartment you rent** (doors, floors and walls, but not your own things)  
     For example, if your washing machine breaks, floods the apartment you rent, and destroys the wooden floor, the insurance company will pay the repairs.
 - **Damage you cause to other people's property**  
-    If you accidentally send someone a virus that breaks their computer, or scratch someone's car with your bicycle[^2], they can sue you for damages. The insurance company will pay the legal fees and the reparations.
+    If you accidentally send someone a virus that breaks their computer, or scratch someone's car with your bicycle,[^2] they can sue you for damages. The insurance company will pay the legal fees and the reparations.
 - **Damage caused by your spouse and children**  
-    Liability insurance covers your family too, except your children under 7 years old[^3]. Your children over 6 years old are covered until they finish their studies[^4].
+    Liability insurance covers your family too, except your children under 7 years old.[^3] Your children over 6 years old are covered until they finish their studies.[^4]
 - **Injuries caused to other people**  
     If you accidentally trip someone and they break their leg, they can sue you for damages. The insurance company will pay the legal fees and the reparations.
 
 Some insurance policies will cover these accidents:
 
-- **Lost keys** If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks)[^5]. This can get *really* expensive. You should get insurance that covers this. Some rent contracts require liability insurance that covers lost keys.
+- **Lost keys** If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some rent contracts require liability insurance that covers lost keys.
 - **Damage to things you rent or borrow** (*geliehene Sachen*)  
-    For example, you break the couch in your furnished apartment[^6], you damage a hotel room while you are on vacation[^7], or you borrow a neighbour's drill and you break it[^8].
+    For example, you break the couch in your furnished apartment,[^6] you damage a hotel room while you are on vacation,[^7] or you borrow a neighbour's drill and you break it.[^8]
 - **Damage while helping a friend** (*Gefäl­ligkeits­schäden*)  
-    If you help your friend to move, and you break their furniture, liability insurance will not pay for it[^9]. Some new liability insurance policies cover this[^10].
+    If you help your friend to move, and you break their furniture, liability insurance will not pay for it.[^9] Some new liability insurance policies cover this.[^10]
 - **Other people's insurances not paying you** (*Forderungsausfall*)  
     If someone else hurts you, and they cannot pay the damages, your liability insurance will pay you.
 
 Most insurance policies do not cover these accidents:
 
 - **Damage to your own things**  
-    The things you have in your apartment are not covered by the liability insurance. If you want to insure your furniture, your electronics or your bicycle, you need a household insurance (*[[Hausratversicherung]]*)[^11]. Liability insurance covers damage to a rented apartment, but not to an apartment that you own. It still covers damage to your neighbours' apartments.
+    The things you have in your apartment are not covered by the liability insurance. If you want to insure your furniture, your electronics or your bicycle, you need a household insurance (*[[Hausratversicherung]]*).[^11] Liability insurance covers damage to a rented apartment, but not to an apartment that you own. It still covers damage to your neighbours' apartments.
 - **Damage caused by your business activities**  
     If you are a freelancer or a business owner, you will need professional liability insurance (*Betriebshaftpflichtversicherung*) to cover your business activities.
 - **Damage caused by children under 7 years old**  
-    Your young children are not covered by most liability insurances[^3]. You must pay more for this. Your children over 6 years old are covered by your liability insurance until they finish their studies[^4].
+    Your young children are not covered by most liability insurances.[^3] You must pay more for this. Your children over 6 years old are covered by your liability insurance until they finish their studies.[^4]
 - **Damage or injuries caused by your pets**  
     This is covered by a separate dog liability insurance (*[[Hundehaftpflichtversicherung]]*). It's required for all dog owners in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia.
 - **Car accidents**  
@@ -51,15 +51,15 @@ Most insurance policies do not cover these accidents:
 - **Legal disputes**  
     If *you* want to sue someone, your liability insurance won't protect you. [Legal insurance](/guides/legal-insurance) (*[[Rechtsschutzversicherung]]*) can be useful.
 - **Piracy and copyright infringement**  
-    If you get in trouble for illegally downloading movies, your liability insurance will not cover you[^12].
+    If you get in trouble for illegally downloading movies, your liability insurance will not cover you.[^12]
 - **Locking yourself out**  
-    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it[^32]. Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths[^13], and they speak English.
+    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths,[^13] and they speak English.
 
 ## Do I really need it?
 
-**Yes**. Liability insurance is not mandatory, but it's a *really* good idea[^2]. There is no limit on damage claims. You can be sued for millions of euros[^14]. A tiny mistake can bankrupt you, and a cheap insurance can prevent this[^15].
+**Yes**. Liability insurance is not mandatory, but it's a *really* good idea.[^2] There is no limit on damage claims. You can be sued for millions of euros.[^14] A tiny mistake can bankrupt you, and a cheap insurance can prevent this.[^15]
 
-83% of German homes have liability insurance[^16]. It's the most important type of insurance after [health insurance](/glossary/Krankenversicherung).
+83% of German homes have liability insurance.[^16] It's the most important type of insurance after [health insurance](/glossary/Krankenversicherung).
 
 ## How much does it cost?
 
@@ -78,7 +78,7 @@ Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance pri
 3. **Check your insurance company on [Trustpilot](https://www.trustpilot.com/)**  
     See if people have problems getting paid by the insurance company.
 4. **Read your insurance policy**  
-    All EU insurance policies come with an Insurance Product Information Document ([[IPID]])[^17]. This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) have their contracts in English.
+    All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) have their contracts in English.
 
 ### The minimum coverage you need
 
@@ -86,11 +86,11 @@ Your liability insurance must cover you well. This is the minimum it should cove
 
 - **Minimum insured sum**  
     These are the minimum sums a good liability insurance should cover.
-    - At least 10 million euros[^18] in damages to other people. 50 million euros is better[^19].
-    - At least 300,000€ in damages to the apartment you rent[^20].
-    - At least 50,000€ in damages while using a computer[^20].
+    - At least 10 million euros[^18] in damages to other people. 50 million euros is better.[^19]
+    - At least 300,000€ in damages to the apartment you rent.[^20]
+    - At least 50,000€ in damages while using a computer.[^20]
 - **Worldwide coverage**  
-    It should cover you anywhere in the world, not just in Germany[^20].
+    It should cover you anywhere in the world, not just in Germany.[^20]
 - **Coverage for rented things** (*geliehene Sachen*)  
     If you rent a furnished apartment, it should cover rented things. This covers you if you break the furniture.
 
@@ -105,9 +105,9 @@ If you often rent vehicles, you can pay around 1€/month more to cover rented v
 Don't get the cheapest insurance. Pick good coverage with a good insurance company. There are other ways to pay less.
 
 - **Yearly payments** are cheaper than monthly payments[^21]
-- **Combine liability and [household insurance](/glossary/Hausratversicherung)** to get a lower price[^22].
-- **Choose a higher deductible** (*[[Selbstbeteiligung]]*). If your deductible is higher, your insurance is cheaper. The price difference is small, so it's better to pay more, and have a small deductible[^23].
-- **Declare it on your tax return**. Liability insurance is a tax-deductible expense[^24].
+- **Combine liability and [household insurance](/glossary/Hausratversicherung)** to get a lower price.[^22]
+- **Choose a higher deductible** (*[[Selbstbeteiligung]]*). If your deductible is higher, your insurance is cheaper. The price difference is small, so it's better to pay more, and have a small deductible.[^23]
+- **Declare it on your tax return**. Liability insurance is a tax-deductible expense.[^24]
 
 ### English-speaking insurers
 
@@ -133,9 +133,9 @@ I have liability insurance with [Feather](/out/popsure-haftpflichtversicherung),
 
 Professional liability insurance (*Betriebs-* and *Berufshaftpflichtversicherung*) protects freelancers, tradesmen and businesses against liability claims. Your insurance will protect you from liability claims related to your job.
 
-If you are an employee, you do not need professional liability insurance. You are already covered by your employer's insurance[^25].
+If you are an employee, you do not need professional liability insurance. You are already covered by your employer's insurance.[^25]
 
-Some professions are required to have liability insurance[^26]:
+Some professions are required to have liability insurance:[^26]
 
 - Freelance doctors and veterinarians
 - Architects
@@ -147,7 +147,7 @@ Some professions are required to have liability insurance[^26]:
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/coya-dogs) offer dog liability insurance, and they speak English. They cover dangerous breeds[^28].
+*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/coya-dogs) offer dog liability insurance, and they speak English. They cover dangerous breeds.[^28]
 
 **[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
 
@@ -161,7 +161,7 @@ When you drive a vehicle, you are covered by your car's insurance (*Kfz-Haftpfli
 
 [Legal insurance](/guides/legal-insurance) (*[[Rechtsschutzversicherung]]*) gives you free access to a lawyer. If you have a problem with your landlord, your employer, the tax office or anyone else, you can call a lawyer. You can ask them questions, they can write letters for you, and they can go to court with you. Legal insurance will pay for it.
 
-There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs 16€ to 24€ per month[^29]. Professional legal insurance is more expensive. The price depends on what type of business you run.
+There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs 16€ to 24€ per month.[^29] Professional legal insurance is more expensive. The price depends on what type of business you run.
 
 Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance options. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.
 
@@ -179,7 +179,7 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 
 ### Can the landlord force me to get liability insurance?
 
-**No.** The landlord can't force you to get liability insurance[^30]. If your lease has a clause that requires liability insurance, you can ignore it[^31].
+**No.** The landlord can't force you to get liability insurance.[^30] If your lease has a clause that requires liability insurance, you can ignore it.[^31]
 
 [^0]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^1]: [cosmosdirekt.de](https://www.cosmosdirekt.de/private-haftpflichtversicherung/haftpflichtversicherung-mietsachschaeden/)

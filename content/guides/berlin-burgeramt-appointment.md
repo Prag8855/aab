@@ -23,7 +23,7 @@ You can also use the [*Anmeldung* appointment finder](/tools/appointment-finder)
 
 {% include "blocks/_appointmentFinder.html" %}
 
-**Sometimes, there are no appointments**. This is normal. Refresh the page every few minutes, and you will find an appointment. New appointments appear [randomly](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment) during the day. There are more appointments during working hours. You don't need to check early in the morning[^0]. You won't find more appointments at 7AM than at 10AM.
+**Sometimes, there are no appointments**. This is normal. Refresh the page every few minutes, and you will find an appointment. New appointments appear [randomly](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment) during the day. There are more appointments during working hours. You don't need to check early in the morning.[^0] You won't find more appointments at 7AM than at 10AM.
 
 You should look for appointments in all *Bürgeramt* locations, not just the nearest one.
 

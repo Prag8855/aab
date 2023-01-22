@@ -21,7 +21,7 @@ I switched to N26 to save money. I didn't want to pay fees to withdraw money. Th
 
 ### There are no ATM withdrawal fees
 
-With N26, you get 3 free withdrawals every month (before, it was 5)[^4]. Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations.
+With N26, you get 3 free withdrawals every month (before, it was 5).[^4] Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations.
 
 This is my favourite feature. I really hate to pay to access my own money. I also hate to walk a kilometre to the next free ATM. With N26, I see an ATM, I use it.
 
@@ -49,7 +49,7 @@ With Commerzbank, I sometimes had to take a 45 minute train ride to sign some pa
 
 ### The exchange rates are good
 
-The N26 MasterCard is good for travelling. There are no transaction fees and no currency conversion fees. You pay the real exchange rate[^0]. You only pay a fee if you withdraw money in other currencies[^0]. I used my N26 MasterCard in over 40 countries without any problems.
+The N26 MasterCard is good for travelling. There are no transaction fees and no currency conversion fees. You pay the real exchange rate.[^0] You only pay a fee if you withdraw money in other currencies.[^0] I used my N26 MasterCard in over 40 countries without any problems.
 
 If you travel a lot, the [N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts include unlimited ATM withdrawals in all currencies, and travel insurance.
 
@@ -112,7 +112,7 @@ In 2023, [most German banks](/guides/first-bank-account-in-germany) have monthly
 
 ### Some passports are not supported
 
-When you create your account, you must start a video chat and verify your passport. [Some passport types](/out/n26-supported-passports) are not supported. If video ID doesn't work, you must print a document and bring it to the post office. The person at the post office will verify your identity, and you will get your N26 card a few days later. The post office does not support all passport types either[^1][^2].
+When you create your account, you must start a video chat and verify your passport. [Some passport types](/out/n26-supported-passports) are not supported. If video ID doesn't work, you must print a document and bring it to the post office. The person at the post office will verify your identity, and you will get your N26 card a few days later. The post office does not support all passport types either[^1].[^2]
 
 If you can't open an N26 account with your passport, [these banks](/guides/first-bank-account-in-germany#german-banks-for-expats) might accept your passport.
 

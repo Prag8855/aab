@@ -29,7 +29,7 @@ These tools help you find how much you should earn.
 
 When you negotiate your salary, you negotiate your [gross income](/glossary/Brutto%20income). The amount you keep after taxes is your [net income](/glossary/Netto%20income).
 
-In Germany, you pay [around 35% of your salary](/tools/tax-calculator) in taxes and social contributions[^0]. Your employer takes them directly from your paycheck.
+In Germany, you pay [around 35% of your salary](/tools/tax-calculator) in taxes and social contributions.[^0] Your employer takes them directly from your paycheck.
 
 {% include 'blocks/_taxCalculator.html' %}
 
@@ -45,7 +45,7 @@ You pay these taxes and contributions:
 
 ### Median income
 
-The median income in Germany is {{MEDIAN_INCOME_GERMANY|cur}}€ per year. The median income in Berlin is {{MEDIAN_INCOME_BERLIN|cur}}€ per year[^1]. Berlin salaries are lower than in other German cities[^2], but the [cost of living](/guides/cost-of-living) is also lower.
+The median income in Germany is {{MEDIAN_INCOME_GERMANY|cur}}€ per year. The median income in Berlin is {{MEDIAN_INCOME_BERLIN|cur}}€ per year.[^1] Berlin salaries are lower than in other German cities,[^2] but the [cost of living](/guides/cost-of-living) is also lower.
 
 In Germany, people sometimes mention their monthly income instead of their yearly income.
 
@@ -55,9 +55,9 @@ In Germany, people sometimes mention their monthly income instead of their yearl
 
 ### Minimum wage
 
-The minimum wage (*[[Mindestlohn]]*) in Germany is **{{MINIMUM_WAGE|cur}}€ per hour**[^3]. After October 1, it will be 12€ per hour. [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
+The minimum wage (*[[Mindestlohn]]*) in Germany is **{{MINIMUM_WAGE|cur}}€ per hour**.[^3] After October 1, it will be 12€ per hour. [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
 
-Around 4% of jobs pay the minimum wage[^4].
+Around 4% of jobs pay the minimum wage.[^4]
 
 ### Cost of living
 
@@ -71,7 +71,7 @@ Before you negotiate your salary, look at the cost of living in your area.
 
 ### Yearly bonus
 
-Some employers pay a yearly bonus (*13. Monatsgehalt*). It's usually in your work contract[^5]. You pay [income tax](/glossary/Einkommensteuer) on this bonus.
+Some employers pay a yearly bonus (*13. Monatsgehalt*). It's usually in your work contract.[^5] You pay [income tax](/glossary/Einkommensteuer) on this bonus.
 
 ### Relocation bonus
 

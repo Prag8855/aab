@@ -8,7 +8,7 @@ Date_updated: 2022-04-20
 Related_guides: guides/start-a-business-in-germany.md
 ---
 
-A *Pfändungsschutzkonto* (*P-Konto*) is a special type of bank account. It lets you access some of your money, even when the bank account is frozen[^0]. That gives you enough money to buy food and pay your bills[^1]. You can convert your bank account to a *P-Konto* for free[^1].
+A *Pfändungsschutzkonto* (*P-Konto*) is a special type of bank account. It lets you access some of your money, even when the bank account is frozen.[^0] That gives you enough money to buy food and pay your bills.[^1] You can convert your bank account to a *P-Konto* for free.[^1]
 
 [^0]: [support.n26.com](https://support.n26.com/en-de/account-and-personal-details/ganrishment-insolvency-p-account/p-account-how-to-get), [auslandsueberweisung-guenstig.de](https://www.auslandsueberweisung-guenstig.de/ist-ein-konto-im-ausland-pfaendungssicher-alle-infos/)
 [^1]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944)

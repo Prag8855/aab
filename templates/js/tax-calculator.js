@@ -193,8 +193,6 @@ function calculateTax(yearlyIncome, opts) {
   result.income = yearlyIncome;
   result.disposableIncome = yearlyIncome - result.totalDeductions;
 
-  console.log(result);
-
   return result;
 }
 

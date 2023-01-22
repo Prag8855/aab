@@ -12,6 +12,6 @@ Seasonal plates (*Saisonkennzeichen*) are vehicle registration plates that only 
 
 The main benefit of seasonal plates is that your vehicle insurance is cheaper. You only pay insurance for the months you can drive.
 
-Outside of the allowed months, you can't drive your vehicle, and you can't park it on the street[^0]. You must put it in storage, or use a private parking space.
+Outside of the allowed months, you can't drive your vehicle, and you can't park it on the street.[^0] You must put it in storage, or use a private parking space.
 
 [^0]: [mycarly.com](https://www.mycarly.com/de/blog/gebrauchtwagen-check/darf-ich-mein-auto-ohne-kennzeichen-abstellen/#Was_ist_mit_einem_abgelaufenen_Saisonkennzeichen)

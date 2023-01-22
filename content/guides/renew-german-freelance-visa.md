@@ -33,13 +33,13 @@ You can hire a [relocation consultant](/guides/relocation-agency-in-berlin). The
 When you renew your freelance visa, they check a few things:
 
 - **You must make enough money**  
-    They will check your invoices and your *Steuerbescheid* to verify your income. You must make enough money to support yourself[^0].
+    They will check your invoices and your *Steuerbescheid* to verify your income. You must make enough money to support yourself.[^0]
 - **You must have clients in Germany**  
-    You must have some invoices from clients in Germany[^0]. If all your income comes from other countries, you can't renew your freelance visa.
+    You must have some invoices from clients in Germany.[^0] If all your income comes from other countries, you can't renew your freelance visa.
 - **You must have valid health insurance**  
     This time, you can't have cheap travel insurance. You must have valid German health insurance. There is more information about this [below](/guides/renew-german-freelance-visa#get-valid-health-insurance).
 - **You have a retirement plan**  
-    If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets[^0]. This is not required if you are a citizen of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey or the United States[^1].
+    If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.[^0] This is not required if you are a citizen of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey or the United States.[^1]
 
 ### 1. Find if you are self-employed, or freelance
 
@@ -54,7 +54,7 @@ The required documents are different for self-employed people (*[Selbständiger]
 
 **When:** 3 months before your visa appointment
 
-When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted[^2]. You need a real German health insurance.
+When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted.[^2] You need a real German health insurance.
 
 Most of the time, it takes 1-2 weeks to switch to another health insurance. In some cases, it can take up to 3 months. A health insurance broker can help you choose health insurance, and fill the paperwork for you. Their help is free.
 
@@ -69,7 +69,7 @@ Most of the time, it takes 1-2 weeks to switch to another health insurance. In s
 **When:** 2-5 months before your visa appointment
 
 - If you are *[[Selbständig]]*, you must bring a *[[Prüfungsbericht]]* to your *[[Ausländerbehörde]]* appointment. It must be verified and stamped by a tax advisor.
-- If you are a *[[Freiberufler]]*, you must bring a *[[Netto-Gewinnermittlung]]*. You can prepare it yourself, but it must be verified and stamped by a [tax advisor](/glossary/Steuerberater)[^3].
+- If you are a *[[Freiberufler]]*, you must bring a *[[Netto-Gewinnermittlung]]*. You can prepare it yourself, but it must be verified and stamped by a [tax advisor](/glossary/Steuerberater).[^3]
 
 **[Are you Selbständiger or Freiberufler? ➞](/guides/how-to-get-a-german-freelance-visa#selbstandiger-or-freiberufler)**
 
@@ -105,7 +105,7 @@ Go to the **[list of required documents](/guides/renew-german-freelance-visa#req
 
 **When:** 2-4 weeks before your appointment
 
-Many *[[Ausländerbehörde]]* employees only speak German[^4]. They will ask many questions. You must speak German, or bring a translator with you. I recommend [Red Tape Translation](https://redtapetranslation.com/). I have worked with them many times. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+Many *[[Ausländerbehörde]]* employees only speak German.[^4] They will ask many questions. You must speak German, or bring a translator with you. I recommend [Red Tape Translation](https://redtapetranslation.com/). I have worked with them many times. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
 **[List of relocation consultants in Berlin ➞](/guides/relocation-agency-in-berlin)**
 
@@ -138,19 +138,19 @@ Bring these documents to your visa interview. [The official list of documents](h
 - **Current residence permit**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
 - **1 passport photo**  
-    You need a 35 × 45mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*[^5], but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this[^6].
+    You need a 35 × 45mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
 - **Proof of sufficient income**  
     You must prove that you make enough income to support yourself in Berlin.
     - **[If you are self-employed](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[Selbständiger](/glossary/Selbst%C3%A4ndig)*), you must bring those documents:
         - **Audit report form** (*[[Prüfungsbericht]]*)  
             The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor (*[[Steuerberater]]*). It can take a few days to prepare. If your finances are not organised, it can take a few weeks.
         - **AND a proof of business registration** (*aktuelle Handelsregisterauszug*)  
-            You must prove that you are registered in the *[[Handelsregister]]*. You can request it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€[^7]. If you are a *[[Kleinunternehmer]]*, this document is not required, because you don't have to be in the *Handelsregister*. It can take a few days to receive this document.
+            You must prove that you are registered in the *[[Handelsregister]]*. You can request it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] If you are a *[[Kleinunternehmer]]*, this document is not required, because you don't have to be in the *Handelsregister*. It can take a few days to receive this document.
         - **AND a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - **AND a certification of tax-related matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
-            This document proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€[^8]. It can take a few days to receive this document.
-    - **[If you are a freelancer](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Freiberufler]]*), you do not need a *[[Prüfungsbericht]]*[^9]. Bring those documents instead:
+            This document proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€.[^8] It can take a few days to receive this document.
+    - **[If you are a freelancer](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Freiberufler]]*), you do not need a *[[Prüfungsbericht]]*.[^9] Bring those documents instead:
         - **Tax assessments** (*[[Steuerbescheid]]*)  
             When you make a tax declaration, the *[[Finanzamt]]* sends you a *[[Steuerbescheid]]* by post. It looks like [this](/images/Einkommensteuer-Bescheid-Muster-Example.png). If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
         - **AND net profit determination** (*[[Netto-Gewinnermittlung]]*)  
@@ -160,7 +160,7 @@ Bring these documents to your visa interview. [The official list of documents](h
         - **AND invoices** (*Abrechnungen*)  
             Bring invoices from your clients or customers. Those show how you make money as a freelancer. Bring all invoices, not just a sample. The invoices must be sorted by date.
         - **AND contracts from your clients**  
-            Bring contracts that prove that you will have more work in the future. Contracts are not officially required, but they might ask for them[^10]. If possible, the contracts must describe the kind of work you will do. You can also bring letters of intent (*[[Absichtserklärung]]*) from future clients.
+            Bring contracts that prove that you will have more work in the future. Contracts are not officially required, but they might ask for them.[^10] If possible, the contracts must describe the kind of work you will do. You can also bring letters of intent (*[[Absichtserklärung]]*) from future clients.
 - **Proof of housing costs**  
     You must show how much you pay every month for your apartment or home. It must also prove that you live in Berlin.
     - **Rent contract** (*Mietvertrag*), if you rent a room or an apartment. Bring the original contract, not a copy. The contract must show how much rent you pay.
@@ -169,7 +169,7 @@ Bring these documents to your visa interview. [The official list of documents](h
     - **Proof of health insurance coverage**  
         You can request this from your health insurer. You can usually get it from their website.
     - **Proof of monthly payments**  
-        Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*[^11].
+        Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*.[^11]
 - **Proof of retirement savings**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.
     - If you are a citizen of the Dominican Republic, Indonesia, Japan, the Philippines, Sri Lanka, Turkey or the United States, you do not need this proof.
@@ -196,20 +196,20 @@ You must print hundreds of pages. I printed around 350 pages for my appointment.
 - **Do not bind the documents together**  
     They will ask for the documents one by one. They will also take some out to scan them.
 - **Sort your invoices**  
-    Your invoices must be sorted by date[^12].
+    Your invoices must be sorted by date.[^12]
 
 ## Frequently asked questions
 
 ### How much does it cost?
 
-A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or between 22.80€ and 37€ for Turkish citizens[^12]. If you get a *[[Fiktionsbescheinigung]]*, you must pay 13€[^13].
+A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or between 22.80€ and 37€ for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, you must pay 13€.[^13]
 
 Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:
 
-- The *aktuelle Handelsregisterauszug* costs 10€[^7].
-- The *Bescheinigung in Steuersachen* costs 17.90€[^8].
-- The *[[Gewerbeschein]]* costs 15€ to 31€[^14]. You probably have it already.
-- The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€[^11].
+- The *aktuelle Handelsregisterauszug* costs 10€.[^7]
+- The *Bescheinigung in Steuersachen* costs 17.90€.[^8]
+- The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
+- The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
 
 Keep the receipts. Those expenses are tax-deductible.

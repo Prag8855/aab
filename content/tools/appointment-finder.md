@@ -17,15 +17,15 @@ This tool helps you find an appointment to [register your address](/glossary/Anm
 
 In Berlin, most government services require an appointment. If you want to [register an address](/glossary/Anmeldung), renew a passport or get a driving licence, you must book an appointment at the [[Bürgeramt]].
 
-**Bürgeramt appointments are hard to find**. Most of the time, there are no appointments[^0]. You must refresh the page again and again until you find one. Since most appointments are added during business hours[^1], many Berliners must do this during work.
+**Bürgeramt appointments are hard to find**. Most of the time, there are no appointments.[^0] You must refresh the page again and again until you find one. Since most appointments are added during business hours,[^1] many Berliners must do this during work.
 
 ![Berlin.de showing no available appointments](/images/berlin-buergeramt-termin-kalender-b.png "No appointments available. Typisch Berlin.")
 
-Most of the time, **the only appointments are in 6-8 weeks**[^2]. Recent immigrants can't wait this long to register their address, because they need a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer) *right now*. If they can't wait, they can't be picky about location. They might need to go to a Bürgeramt across the city in the middle of a work day.
+Most of the time, **the only appointments are in 6-8 weeks**.[^2] Recent immigrants can't wait this long to register their address, because they need a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer) *right now*. If they can't wait, they can't be picky about location. They might need to go to a Bürgeramt across the city in the middle of a work day.
 
-People can't predict their schedule 6 to 8 weeks in advance, so many people miss their appointments[^3]. In some districts, 20% of people don't go to their appointments[^4].
+People can't predict their schedule 6 to 8 weeks in advance, so many people miss their appointments.[^3] In some districts, 20% of people don't go to their appointments.[^4]
 
-**The lack of appointments affects everyone**. Car buyers can't drive their vehicle, because they can't register it[^5]. Travellers can't leave Germany, because they can't renew their passport[^6]. Parents can't apply for *[[Kindergeld]]*, because they can't [register their address](/glossary/Anmeldung). Immigrants must pay the maximum income tax rate, because they don't have a [tax ID](/glossary/Steueridentifikationsnummer). These delays cause serious problems.
+**The lack of appointments affects everyone**. Car buyers can't drive their vehicle, because they can't register it.[^5] Travellers can't leave Germany, because they can't renew their passport.[^6] Parents can't apply for *[[Kindergeld]]*, because they can't [register their address](/glossary/Anmeldung). Immigrants must pay the maximum income tax rate, because they don't have a [tax ID](/glossary/Steueridentifikationsnummer). These delays cause serious problems.
 
 ## Why are there no Bürgeramt appointments?
 
@@ -33,21 +33,21 @@ This has been a problem for many years. There was some progress, but it's still 
 
 ### Personnel shortage
 
-There are not enough Bürgeramt employees to help everyone[^7]. The government promises to hire more personnel, but the situation does not improve.[^8] The population of Berlin grows quickly[^9], and more people need government services. Many employees retire and must be replaced[^10]. There are still many vacant positions, and not enough budget to hire new employees.
+There are not enough Bürgeramt employees to help everyone.[^7] The government promises to hire more personnel, but the situation does not improve.[^8] The population of Berlin grows quickly,[^9] and more people need government services. Many employees retire and must be replaced.[^10] There are still many vacant positions, and not enough budget to hire new employees.
 
-Coronavirus also had an impact[^11]. During the pandemic, only 60% of Bürgeramt employees were working[^12]. In some cases, it was only 25%[^13]. Some of the employees were also reassigned to contact tracing[^14].
+Coronavirus also had an impact.[^11] During the pandemic, only 60% of Bürgeramt employees were working.[^12] In some cases, it was only 25%.[^13] Some of the employees were also reassigned to contact tracing.[^14]
 
 ### Inefficiency
 
-Bürgeramt appointments take time. A Bürgeramt employee only handles 18 cases per day[^15]. Adding more people helps, but it does not solve this problem.
+Bürgeramt appointments take time. A Bürgeramt employee only handles 18 cases per day.[^15] Adding more people helps, but it does not solve this problem.
 
-To make things worse, a thousand Berliners miss their Bürgeramt appointment every day[^16]. In Pankow, 10% don't go to their appointments In Neukölln, it's 20%[^17]. It could be that people forget their appointments, or that their plans change and they can't go. There are no appointment reminders. An email and SMS reminder system was announced in 2018[^18], but it's still missing.
+To make things worse, a thousand Berliners miss their Bürgeramt appointment every day.[^16] In Pankow, 10% don't go to their appointments In Neukölln, it's 20%.[^17] It could be that people forget their appointments, or that their plans change and they can't go. There are no appointment reminders. An email and SMS reminder system was announced in 2018,[^18] but it's still missing.
 
 ### When will things change?
 
-Every new government promises to work on this, including the current government. More employees, more digitalisation, longer opening hours[^19].
+Every new government promises to work on this, including the current government. More employees, more digitalisation, longer opening hours.[^19]
 
-Digitisation will help, but it's happening very slowly[^20]. More and more services are available online[^21], but essential services still require a Bürgeramt visit. Some online services require a digital ID[^22], which many immigrants are still waiting for.
+Digitisation will help, but it's happening very slowly.[^20] More and more services are available online,[^21] but essential services still require a Bürgeramt visit. Some online services require a digital ID,[^22] which many immigrants are still waiting for.
 
 ## About this tool
 
@@ -75,7 +75,7 @@ This means that it cannot check for other types of appointments - only the *Anme
 
 **I'm not sure.** This tool does not create more *Bürgeramt* appointments. It makes it easier for people who use the tool, but also harder for those who don't. It does not solve the appointment problem. Only the city of Berlin can do that.
 
-Then again, anyone can use this tool. It's completely free. It does not ask for your email, it does not collect your personal data, and it does not try to sell you something. In 2015, a startup built a similar tool, and use it to sell appointments for 45€ each[^23]. Now, a similar startup sells Ausländerbehörde appointments for 50€.
+Then again, anyone can use this tool. It's completely free. It does not ask for your email, it does not collect your personal data, and it does not try to sell you something. In 2015, a startup built a similar tool, and use it to sell appointments for 45€ each.[^23] Now, a similar startup sells Ausländerbehörde appointments for 50€.
 
 This tool is different: it does not have a business model. It's meant to be free for everyone. You even can [download its source code](https://github.com/nicbou/burgeramt-appointments-websockets) and use it yourself.
 
@@ -83,7 +83,7 @@ This tool is different: it does not have a business model. It's meant to be free
 
 The tool is allowed to stay online in its current state, but this right can be revoked. It is not possible to add more types of appointments.
 
-When I launched this tool in January 2022, it stayed online for only 7 hours. I deactivated it when I learned that it broke Berlin.de's rules. In those 7 hours, it got thousands of visitors, mentions in the newspapers[^24], and a strong reaction on social media[^25].
+When I launched this tool in January 2022, it stayed online for only 7 hours. I deactivated it when I learned that it broke Berlin.de's rules. In those 7 hours, it got thousands of visitors, mentions in the newspapers,[^24] and a strong reaction on social media.[^25]
 
 I contacted the IKT-ZMS team - the people who build the official appointment booking system - and asked them if I could reactivate the tool. They said yes, if I only poll Berlin.de every 3 minutes (instead of every 30 seconds). This makes the tool less useful, but it still works.
 

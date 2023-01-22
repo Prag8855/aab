@@ -11,27 +11,27 @@ In Germany, if you are too sick or injured to work, you take a sick day. This gu
 
 ## It's okay to take sick days
 
-On average, German employees take 11 sick days per year[^0]. You can take as many sick days as you need, even during your [probation period](/glossary/Probezeit).
+On average, German employees take 11 sick days per year.[^0] You can take as many sick days as you need, even during your [probation period](/glossary/Probezeit).
 
-Your employer can't punish you because you take sick days. If you take more than 30 sick days per year, you *could* get fired[^1]. To fire you, your employer must prove that you will not get better, that it's bad for the company, and that there are no other options (like a transfer or reduced hours)[^2].
+Your employer can't punish you because you take sick days. If you take more than 30 sick days per year, you *could* get fired.[^1] To fire you, your employer must prove that you will not get better, that it's bad for the company, and that there are no other options (like a transfer or reduced hours).[^2]
 
-If you take sick days when you are not sick, you can get fired[^3]. For example, if you say that are too sick to work, but you go clubbing, you can get fired[^4].
+If you take sick days when you are not sick, you can get fired.[^3] For example, if you say that are too sick to work, but you go clubbing, you can get fired.[^4]
 
 ## What to do when you are sick
 
 ### 1. Tell your team
 
-Tell your employer and your team that you are sick as soon as you can[^5]. Each team has different rules for this. Usually, you just need to call, email or message your manager.
+Tell your employer and your team that you are sick as soon as you can.[^5] Each team has different rules for this. Usually, you just need to call, email or message your manager.
 
 ### 2. Get a sick note from a doctor
 
-Most employers ask for a [sick note](/glossary/Krankschreibung) if you are sick for 3 days or more. Some ask for a sick note on the first day that you are sick[^6]. In the first month of your [probation period](/glossary/Probezeit), get a sick note on the first day[^7].
+Most employers ask for a [sick note](/glossary/Krankschreibung) if you are sick for 3 days or more. Some ask for a sick note on the first day that you are sick.[^6] In the first month of your [probation period](/glossary/Probezeit), get a sick note on the first day.[^7]
 
 You get a sick note from a doctor. You can get it in person, with a phone call, or with a video call. You can use an app like [TeleClinic](https://www.teleclinic.com/) instead of visiting a doctor. It's faster and easier.
 
 **[English-speaking doctors in Berlin ➞](/guides/english-speaking-doctors-berlin)**
 
-You can also get a [sick note](/glossary/Krankschreibung) for stress, depression, burnout, lack of sleep, and other mental health reasons[^8].
+You can also get a [sick note](/glossary/Krankschreibung) for stress, depression, burnout, lack of sleep, and other mental health reasons.[^8]
 
 ### 3. Send the sick note to your employer
 
@@ -41,9 +41,9 @@ After January 1, 2023, this will be automatic. Your doctor will send an electron
 
 ### 4. Get better
 
-If you have a sick note, you have the right to go on sick leave[^9]. Your employer can't refuse.
+If you have a sick note, you have the right to go on sick leave.[^9] Your employer can't refuse.
 
-When you are on sick leave, you do not have to do any work. You don't have to join meetings, answer emails, or be online. Your employer must leave you alone, except if they have urgent questions[^10].
+When you are on sick leave, you do not have to do any work. You don't have to join meetings, answer emails, or be online. Your employer must leave you alone, except if they have urgent questions.[^10]
 
 The goal of sick leave is to get better, and go back to work when you are healthy.
 
@@ -53,15 +53,15 @@ The goal of sick leave is to get better, and go back to work when you are health
 
 ### The first 6 weeks
 
-For the first 42 days of your sick leave, your employer pays your full salary[^11]. You get paid for the days that you are supposed to work[^11].
+For the first 42 days of your sick leave, your employer pays your full salary.[^11] You get paid for the days that you are supposed to work.[^11]
 
-If you do something really dangerous and you get hurt, you get *unpaid* sick leave[^12]. For example, you don't get paid sick leave for kickboxing, motorcycle racing or drunk driving injuries.
+If you do something really dangerous and you get hurt, you get *unpaid* sick leave.[^12] For example, you don't get paid sick leave for kickboxing, motorcycle racing or drunk driving injuries.
 
 You don't get paid sick leave for tattoos or plastic surgery.
 
 ### The next 78 weeks
 
-After 6 weeks, your employer stops paying you. Instead, you get *[[Krankengeld]]* from your [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's 70% of your [gross salary](/glossary/Brutto%20income), up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day[^13].
+After 6 weeks, your employer stops paying you. Instead, you get *[[Krankengeld]]* from your [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's 70% of your [gross salary](/glossary/Brutto%20income), up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day.[^13]
 
 **[Krankengeld calculator](https://www.tk.de/service/app/2002892/krankengeldrechner/rechner.app)** (in German) - [[Techniker Krankenkasse]]
 
@@ -76,15 +76,15 @@ You can get *Krankengeld* for 78 weeks every 3 years. After 6 weeks of sick pay 
 Two things can happen:
 
 1. **Temporary sickness: unemployment benefits**  
-    You get unemployment benefits for the disabled (*Arbeitslosengeld bei Arbeitsunfähigkeit*) until you get better. You will get very little money - about 835€ per month[^14].
+    You get unemployment benefits for the disabled (*Arbeitslosengeld bei Arbeitsunfähigkeit*) until you get better. You will get very little money - about 835€ per month.[^14]
 2. **Permanent disability: public pension**  
-    If you can't work again, you get a pension for the disabled (*Erwerbsminderungsrente*). If you paid public pension contributions for less than 60 months, you can't get a pension[^15].
+    If you can't work again, you get a pension for the disabled (*Erwerbsminderungsrente*). If you paid public pension contributions for less than 60 months, you can't get a pension.[^15]
 
  If you have a mortgage, or if your family depends on you, you should get disability insurance.
 
 ## Things you can do on sick leave
 
-When you are on sick leave, you don't have to stay at home. You can still do things that don't hurt your recovery[^16].
+When you are on sick leave, you don't have to stay at home. You can still do things that don't hurt your recovery.[^16]
 
 If you can't work because of an injury, you can still meet friends, go shopping and travel. For example, if you can't work because of a broken arm, you can still have coffee with a friend. It does not hurt your recovery.
 
@@ -96,11 +96,11 @@ If you are self-employed, you don't get paid while you are sick.
 
 You do not have an employer who pays your salary while you are sick. For the first 6 weeks, you get nothing.
 
-After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if you pay for it[^24]. Most freelancers don't, so they get nothing.
+After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if you pay for it.[^24] Most freelancers don't, so they get nothing.
 
 ### How to protect yourself
 
-- If you have public health insurance, pay a little more to get *[[Krankengeld]]* when you are sick. Your health insurance will cost {{GKV_BASE_CONTRIBUTION}}% of your income instead of {{GKV_SELF_EMPLOYED_BASE_CONTRIBUTION}}%. You get *Krankengeld* after 6 weeks of sick leave, but you can pay more to get it faster (*Krankengeld Wahltarif*)[^17].
+- If you have public health insurance, pay a little more to get *[[Krankengeld]]* when you are sick. Your health insurance will cost {{GKV_BASE_CONTRIBUTION}}% of your income instead of {{GKV_SELF_EMPLOYED_BASE_CONTRIBUTION}}%. You get *Krankengeld* after 6 weeks of sick leave, but you can pay more to get it faster (*Krankengeld Wahltarif*).[^17]
 - If you have private health insurance, get *[[Krankentagegeld]]* insurance.
 - Get disability insurance (*[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)*). It pays your salary if you are permanently unable to do your job.
 - In your contracts, define what happens if you are too sick to finish a project in time.
@@ -109,15 +109,15 @@ After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if y
 
 ### If you are sick while on vacation
 
-If you are on vacation, you can still get sick leave. The days you are on sick leave do not count as vacations[^18]. For example, if you take a 10-day vacation, and you are sick for 4 days during the vacation, you only use 6 vacation days.
+If you are on vacation, you can still get sick leave. The days you are on sick leave do not count as vacations.[^18] For example, if you take a 10-day vacation, and you are sick for 4 days during the vacation, you only use 6 vacation days.
 
 Your vacation ends and your sick leave starts when you get a [sick note](/glossary/Krankschreibung) from the doctor. If you are sick during your vacation, get a sick note as soon as you can.
 
 ### If you have a hangover
 
-If you have a hangover, you can take an *unpaid* sick day[^19]. You don't get paid because the hangover is your fault[^20]. In reality, you rarely explain why you are sick, so you get a paid sick day[^21].
+If you have a hangover, you can take an *unpaid* sick day.[^19] You don't get paid because the hangover is your fault.[^20] In reality, you rarely explain why you are sick, so you get a paid sick day.[^21]
 
-Missing work because of a hangover looks really bad. If it happens often, you can get fired[^22]. If you go to work and you are not sober, you can get fired[^23].
+Missing work because of a hangover looks really bad. If it happens often, you can get fired.[^22] If you go to work and you are not sober, you can get fired.[^23]
 
 [^0]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Qualitaet-Arbeit/Dimension-2/krankenstand.html)
 [^1]: [wirtschaftsforum.de](https://www.wirtschaftsforum.de/tipps/welche-anzahl-an-krankentagen-ist-fuer-den-arbeitgeber-zumutbar)

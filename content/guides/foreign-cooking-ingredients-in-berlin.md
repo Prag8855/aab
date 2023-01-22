@@ -14,7 +14,7 @@ If you can't find something, ask [Found in... Berlin](https://www.facebook.com/g
 
 ### Almond flour
 
-You can find almond flour at DM and Rossman[^0].
+You can find almond flour at DM and Rossman.[^0]
 
 ### American cheese
 
@@ -30,7 +30,7 @@ Baking powder is called *Backpulver* in Germany. It's easy to find. Look for [sm
 
 ### Boneless chicken thighs
 
-This is not a common product in Germany[^1], but Metro has them, and sometimes Penny.
+This is not a common product in Germany,[^1] but Metro has them, and sometimes Penny.
 
 ### Brown sugar
 
@@ -50,7 +50,7 @@ German *Rohrzucker* or *brauner Zucker* is not the same as brown sugar. It does 
 
 ### Condensed milk
 
-Condensed milk is called *Kondensmilch*. You can find it in the coffee section[^2], next to coffee cream and H-Milch. It's sold in small cans, or in small juice boxes.
+Condensed milk is called *Kondensmilch*. You can find it in the coffee section,[^2] next to coffee cream and H-Milch. It's sold in small cans, or in small juice boxes.
 
 Condensed milk can be a false friend for people from the UK at least. If a recipe calls for condensed milk, you might want *gezuckert Kondensmilch*, also known as *Mädchenmilch*.
 
@@ -88,7 +88,7 @@ Most grocery stores have pure Canadian or American maple syrup. REWE keeps it cl
 
 ### Marmite
 
-Marmite is found at Galeria Kaufhof and Broken English. It was also spotted at [Asia Mekong](https://sites.google.com/site/asiamekongsupermarket/Home) near Hackescher Markt and in the English section at Real,- and at KaDeWe[^3].
+Marmite is found at Galeria Kaufhof and Broken English. It was also spotted at [Asia Mekong](https://sites.google.com/site/asiamekongsupermarket/Home) near Hackescher Markt and in the English section at Real,- and at KaDeWe.[^3]
 
 ### Minced lamb
 

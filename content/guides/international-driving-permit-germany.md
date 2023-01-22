@@ -5,7 +5,7 @@ Date_created: 2017-11-20
 Date_updated: 2022-04-18
 ---
 
-The International Driving Permit is an official translation of your driver's licence. It is recognised in 200 countries[^0]. When you drive in other countries, you should carry it with your original driver's licence.
+The International Driving Permit is an official translation of your driver's licence. It is recognised in 200 countries.[^0] When you drive in other countries, you should carry it with your original driver's licence.
 
 ![International Driving Permit](/images/IMG_1814.jpg)
 
@@ -17,7 +17,7 @@ This guide applies to you if:
 
 ## With a German driver's licence
 
-If you have a German driver's licence, you must [book a *Bürgeramt* appointment](/guides/berlin-burgeramt-appointment) for an *[Internationaler Führerschein](https://service.berlin.de/dienstleistung/121591/)*. The ADAC does not issue International Driver Permits anymore[^1].
+If you have a German driver's licence, you must [book a *Bürgeramt* appointment](/guides/berlin-burgeramt-appointment) for an *[Internationaler Führerschein](https://service.berlin.de/dienstleistung/121591/)*. The ADAC does not issue International Driver Permits anymore.[^1]
 
 {% include "blocks/appointmentLink/_internationalDrivingPermit.html" %}
 

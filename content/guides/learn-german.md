@@ -39,15 +39,15 @@ Some German universities have programmes in English, but most are only in German
 
 ### To get your permanent residence
 
-If you apply for a permanent residence, you must speak German at a B1 level[^1].
+If you apply for a permanent residence, you must speak German at a B1 level.[^1]
 
 ### To get the German citizenship
 
-If you speak German, you can get the German citizenship 2 years earlier[^2].
+If you speak German, you can get the German citizenship 2 years earlier.[^2]
 
 ## How long does it take to learn German?
 
-There are 6 levels of German[^3]. The levels are often divided in two. For example, B1.1, and B1.2. To know your level, take a [placement test](https://www.sprachschule-aktiv-muenchen.de/en/german-test-online/). Most language schools can do placement tests on the phone.
+There are 6 levels of German.[^3] The levels are often divided in two. For example, B1.1, and B1.2. To know your level, take a [placement test](https://www.sprachschule-aktiv-muenchen.de/en/german-test-online/). Most language schools can do placement tests on the phone.
 
 - **A1 - Beginner**  
     You know basic words and expressions. You know very simple sentences for specific situations. You can answer simple questions about yourself, or order at the restaurant.
@@ -58,15 +58,15 @@ There are 6 levels of German[^3]. The levels are often divided in two. For examp
 - **B2 - Upper intermediate**  
     You can understand complex texts, and complex discussions about topics you understand. You can express yourself, and have a conversation with native German speakers.
 - **C1 - Fluent**  
-    You can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. Many native German speakers are at this level[^4].<sub></sub>
+    You can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. Many native German speakers are at this level.[^4]<sub></sub>
 - **C2 - Master**  
     You speak and write better than many native speakers. You can read and write academic texts.
 
 **Related link:** [Description of each language level](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
-To complete one level, you need to take 50 to 100 teaching units (*Unterrichtseinheit*)[^5]. Each teaching unit is 45 minutes[^5]. When you complete a level, you get a certificate.
+To complete one level, you need to take 50 to 100 teaching units (*Unterrichtseinheit*).[^5] Each teaching unit is 45 minutes.[^5] When you complete a level, you get a certificate.
 
-If you take an intensive course, you can finish each level in 4 to 8 weeks[^6]. You can speak German in only a few months.
+If you take an intensive course, you can finish each level in 4 to 8 weeks.[^6] You can speak German in only a few months.
 
 If you only take a lesson or two per week, you will need more time. You can speak German in 2 or 3 years. It also depends on how much you practice. If you only speak English with your friends and colleagues, it will take longer.
 
@@ -85,7 +85,7 @@ You can also take an educational leave (*Bildungsurlaub*). You can take up to 5 
 ### Public language schools
 
 - **[Goethe Institut](https://www.goethe.de/ins/de/en/kur.html)**  
-    Goethe is a non-profit German cultural association[^7]. They offer online and offline classes.
+    Goethe is a non-profit German cultural association.[^7] They offer online and offline classes.
 - **[Volkshochschule (VHS)](https://www.berlin.de/vhs/service/vhs-in-english/learning-german/learning-german/learning-german-761377.en.php)**  
     The community colleges (*[[Volkshochschule]]*) have German classes. To join a class, you must take a placement test. I tried to take classes at the VHS, but found it too difficult to sign up for classes.
 - **Integration courses**  
@@ -106,9 +106,9 @@ Most private schools also offer online classes.
 - **[Expath](https://www.expath.com/for-individuals/?utm_source=referral&utm_medium=blog&utm_campaign=AAB2021&utm_content=discount_code)**  
     Regular and intensive German classes in Prenzlauer Berg and Neukölln. Private lessons are available. They also offer relocation services.
 - **[GLS Language School](https://www.gls-german-courses.de/index.html)**  
-    Regular and intensive German classes in Prenzlauer Berg. Private lessons are available. They also offer accommodation[^8], and summer camps for kids and teens.[  ](https://kapitel-zwei.de/en/)
+    Regular and intensive German classes in Prenzlauer Berg. Private lessons are available. They also offer accommodation,[^8] and summer camps for kids and teens.[  ](https://kapitel-zwei.de/en/)
 - **[Kapitel Zwei](https://kapitel-zwei.de/en/?utm_source=allaboutberlin&utm_medium=Artikel&utm_campaign=allaboutberlin&utm_content=Startseite%20EN)**  
-    Regular and intensive German classes in Mitte, near Alexanderplatz. Private lessons and exam preparation courses are available. They also offer accommodation[^9].
+    Regular and intensive German classes in Mitte, near Alexanderplatz. Private lessons and exam preparation courses are available. They also offer accommodation.[^9]
 - **[Speakeasy](https://www.speakeasysprachzeug.de/en)**  
     Regular, intensive and super intensive courses in Friedrichshain. Private lessons are available. They can also help with your language visa application. They sometimes organise workshops and events.
 - **[sprachart](https://www.sprachartberlin.de/en/)**  
@@ -148,7 +148,7 @@ There are also many language learning apps for German:
 - **[Expath](https://www.expath.com/for-individuals/online-courses/?utm_source=referral&utm_medium=blog&utm_campaign=AAB&utm_content=self_study)**  
     The teachers at Expath have recorded videos of their German lessons. You can stream them online. Use the code "AAB2021" for a 10€ discount.
 - **[Italki](https://www.italki.com/)**  
-    Private video lessons with language teachers. Each teacher charges a different price. You can talk with your teacher on the Italki website, Zoom, Facetime, Skype or another tool[^10].
+    Private video lessons with language teachers. Each teacher charges a different price. You can talk with your teacher on the Italki website, Zoom, Facetime, Skype or another tool.[^10]
 - **[Lingoda](/out/lingoda)** - 32€ per lesson  
     Lingoda lets you have video classes with a teacher. You can have 1-to-1 classes, or join a group of 3-5 people. Lingoda is not as good as Chatterbug: the platform is worse, you can't keep the same teachers, it's harder to cancel classes, and it's twice as expensive. You receive a certificate when you complete a level.
 - **[Memrise](https://www.memrise.com/)** - 5€ per month  
@@ -198,11 +198,11 @@ The German Academic Exchange Service (DAAD) offers scholarships (*Stipendium*) f
 
 You have the right to take vacations to improve your education. This is an educational leave (*[[Bildungsurlaub]]*). During your *Bildungsurlaub*, your employer keeps paying your salary.
 
-If you work full-time, you get 10 days of educational leave every two years[^11]. If you are under 26 years old, you get 10 days every year[^11]. You must be an employee for at least 6 months[^12]. You must apply at least 6 weeks before your leave[^12]. It must last at least 1 day.
+If you work full-time, you get 10 days of educational leave every two years.[^11] If you are under 26 years old, you get 10 days every year.[^11] You must be an employee for at least 6 months.[^12] You must apply at least 6 weeks before your leave.[^12] It must last at least 1 day.
 
 Educational leave is a right. Your employer must allow it, unless it conflicts with the business operations, or if over 50% of the employees already took their *Bildungsurlaub*.
 
-You must take classes in a public school, a community college (*[[Volkshochschule]]*), a public university (*Hochschule*), or a recognised private school. In Berlin, many private language schools are recognised[^13]. You can find recognised courses [here](https://www.berlin.de/sen/arbeit/weiterbildung/bildungsurlaub/suche/).
+You must take classes in a public school, a community college (*[[Volkshochschule]]*), a public university (*Hochschule*), or a recognised private school. In Berlin, many private language schools are recognised.[^13] You can find recognised courses [here](https://www.berlin.de/sen/arbeit/weiterbildung/bildungsurlaub/suche/).
 
 If your course is not recognised, you must ask for permission [here](https://www.berlin.de/sen/arbeit/weiterbildung/bildungsurlaub/veranstalter/). This is useful if you want to make a language trip in another country.
 
@@ -213,7 +213,7 @@ If your course is not recognised, you must ask for permission [here](https://www
 
 ### Are German classes tax-deductible?
 
-**No.** You can't deduct German classes from your [income tax](/glossary/Einkommensteuer)[^14]. If you are self-employed, you can still get a [VAT](/glossary/Umsatzsteuer) refund for it[^15].
+**No.** You can't deduct German classes from your [income tax](/glossary/Einkommensteuer).[^14] If you are self-employed, you can still get a [VAT](/glossary/Umsatzsteuer) refund for it.[^15]
 
 If you learn another language (like Spanish or Italian), and it's required for your work, then you can declare it as a work expense (*Werbungskosten*).
 

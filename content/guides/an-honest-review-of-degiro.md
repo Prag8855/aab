@@ -13,7 +13,7 @@ This page has no affiliate links to Degiro. It was not sponsored or approved by 
 
 ## It's only in German
 
-Degiro is available in English, but only in English-speaking countries. If you live in Germany, **you can't change the language to English**[^0]. The interface and all the documents are in German.
+Degiro is available in English, but only in English-speaking countries. If you live in Germany, **you can't change the language to English**.[^0] The interface and all the documents are in German.
 
 If you don't speak German, this can be a problem. You need to answer important questions and understand important documents, all in German.
 

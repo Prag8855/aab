@@ -13,7 +13,7 @@ When you fill this form, you get:
 - a VAT number (*[[Umsatzsteuernummer]]*)
 - an entry in the trade register (*[[Handelsregister]]*)
 
-Since 2021, there is no paper form. You must fill this form online[^0].
+Since 2021, there is no paper form. You must fill this form online.[^0]
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -64,7 +64,7 @@ You need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberw
 
 ### Create an ELSTER account
 
-You need an [[ELSTER]] account to register your business. Later, you can use your ELSTER account to file your taxes and submit VAT returns online[^16]. The ELSTER website is only in German. It takes a few days to create an account.
+You need an [[ELSTER]] account to register your business. Later, you can use your ELSTER account to file your taxes and submit VAT returns online.[^16] The ELSTER website is only in German. It takes a few days to create an account.
 
 If you don't want to create an ELSTER account, you can use Sorted's [business registration tool](/out/sorted-fragebogen).
 
@@ -74,7 +74,7 @@ If you don't want to create an ELSTER account, you can use Sorted's [business re
 
 If you register a *[[Gewerbe]]*, you must get a trade licence (*[[Gewerbeschein]]*). This is how you register for the business tax (*[[Gewerbesteuer]]*). In Berlin, you can [apply for a *Gewerbeschein* online](/guides/gewerbeschein) or at the *[[Ordnungsamt]]*. You must do this before you register your business with the *Finanzamt*.
 
-If you register as a *[[Freiberufler]]*, you don't need a *Gewerbeschein*[^17].
+If you register as a *[[Freiberufler]]*, you don't need a *Gewerbeschein*.[^17]
 
 **Related guides:**
 
@@ -87,9 +87,9 @@ If you register as a *[[Freiberufler]]*, you don't need a *Gewerbeschein*[^17].
 
 This form is easier to fill if you understand how the Value Added Tax (VAT) works.
 
-**[VAT number](/glossary/Umsatzsteuernummer):** If you want to sell goods and services in the European Union, you need a VAT number. You get a VAT number 4 to 6 weeks after you fill the *Fragebogen zur steuerlichen Erfassung*[^1].
+**[VAT number](/glossary/Umsatzsteuernummer):** If you want to sell goods and services in the European Union, you need a VAT number. You get a VAT number 4 to 6 weeks after you fill the *Fragebogen zur steuerlichen Erfassung*.[^1]
 
-**Charging VAT:** If you are a *[[Kleinunternehmer]]*, you can choose to not charge VAT[^2]. If you don't charge VAT, you can't get VAT refunds for business expenses[^3]. If you decide to charge VAT, you can't change your decision for the next 5 years[^4]. [This guide](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/) explains when it makes sense to charge VAT.
+**Charging VAT:** If you are a *[[Kleinunternehmer]]*, you can choose to not charge VAT.[^2] If you don't charge VAT, you can't get VAT refunds for business expenses.[^3] If you decide to charge VAT, you can't change your decision for the next 5 years.[^4] [This guide](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/) explains when it makes sense to charge VAT.
 
 **[How VAT works in Germany ➞](/guides/value-added-tax)**
 
@@ -143,7 +143,7 @@ In this section, you share information about you.
     - **Straße, Hausnummer, Hausnummerzusatz** - Street, house number, extra house number information  
         The *Hausnummerzusatz* gives more information about the door number. For example, the floor number, the building number, the apartment number or the room number.
     - **Adressergänzung** - Address extension  
-        For example, "bei [your name]" [if your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox)[^5].
+        For example, "bei [your name]" [if your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox).[^5]
     - **Postleitzahl, Wohnort** - [Post code](/glossary/Postleitzahl), locality  
         Your [post code](/glossary/Postleitzahl) and locality. For example, "10115" and "Berlin".
 - **Adresse im Ausland** - Address abroad  
@@ -269,8 +269,8 @@ If you paid [income tax](/glossary/Einkommensteuer) in Germany in the last three
 In this section, you share information about the business you register.
 
 - **Art der Tätigkeit** - Type of occupation  
-    A description of what you do as a freelancer or what your business does. You must write it in German, and you must be as specific as possible. If necessary, find a translator to help you. The *[[Finanzamt]]* will use this description to decide if you are a tradesperson (*[[Gewerbe]]*) or a freelancer (*[[Freiberufler]]*)[^6], so [this is very important](/guides/freiberufler-or-gewerbe).  
-    Official examples for this field[^7]:
+    A description of what you do as a freelancer or what your business does. You must write it in German, and you must be as specific as possible. If necessary, find a translator to help you. The *[[Finanzamt]]* will use this description to decide if you are a tradesperson (*[[Gewerbe]]*) or a freelancer (*[[Freiberufler]]*),[^6] so [this is very important](/guides/freiberufler-or-gewerbe).  
+    Official examples for this field:[^7]
     - *Handel mit Hilfsmitteln zum Schweißen oder Löten* - Store that sells tools for soldering and metal welding
     - *Bäckerei (Handel mit Bäckereierzeugnissen - Brötchen, Brot, Backwaren)* - Bakery (commerce with baked goods: bread, rolls, pastries)
     - *Arzt - Internist* - Doctor, internist
@@ -303,10 +303,10 @@ If you already have an entry in the trade register (*[[Handelsregister]]*), fill
 - **Eine Eintragung ist beabsichtigt** - Registration is intended  
     Select "Ja" if you want an entry in the trade register.  
     
-    - Freelancers (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) don't need to be in the *Handelsregister*[^2].
-    - Small businesses (*[[Kleinunternehmer]]*) don't need to be in the *Handelsregister*[^2], but they can choose to be.
-    - Being in the *Handelsregister* forces you to use double entry bookkeeping[^8]. This can make things really complicated for a small business or freelancer.
-    - If you are a *Gesellschaft bürgerlichen Rechts*, a company constituted under civil law, you don't need to be listed in the *Handelsregister*[^9][^18].
+    - Freelancers (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) don't need to be in the *Handelsregister*.[^2]
+    - Small businesses (*[[Kleinunternehmer]]*) don't need to be in the *Handelsregister*,[^2] but they can choose to be.
+    - Being in the *Handelsregister* forces you to use double entry bookkeeping.[^8] This can make things really complicated for a small business or freelancer.
+    - If you are a *Gesellschaft bürgerlichen Rechts*, a company constituted under civil law, you don't need to be listed in the *Handelsregister*[^9].[^18]
 - **Eine Eintragung ist erfolgt** - Registration is already done  
     Choose "Ja" if you already have an entry in the trade register. If this is a new business, choose "Nein".
 - **Der Handelsregistereintrag besteht seit** - The trade register entry exists since...  
@@ -404,14 +404,14 @@ In this section, you choose how you report your income to the *Finanzamt*.
     - **Gewinn- und Verlustrechnung** - Profit and loss statement  
         Also known as double entry bookkeeping. In some cases, you are forced to use double entry bookkeeping.  
         
-        - If you will be registered in the *[[Handelsregister]]*, you must choose this option[^2].
-        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_INCOME}}€ per year in profit, you must choose this option[^2].
-        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_REVENUE}}€ per year in revenue, you must choose this option[^2].
+        - If you will be registered in the *[[Handelsregister]]*, you must choose this option.[^2]
+        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_INCOME}}€ per year in profit, you must choose this option.[^2]
+        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_REVENUE}}€ per year in revenue, you must choose this option.[^2]
     - **Einnahmen-Überschuss-Rechnung** - Income surplus calculation  
         Also known as single entry bookkeeping or cash-basis accounting. This is simpler than double entry bookkeeping.  
         
-        - If you register as a *[[Freiberufler]]*, you do not need to use double entry bookkeeping[^2]. Single entry bookkeeping can be easier for you.
-        - If you are a small business (*[[Kleinunternehmer]]*), you do not need to use double entry bookkeeping[^2]. Single entry bookkeeping can be easier for you.
+        - If you register as a *[[Freiberufler]]*, you do not need to use double entry bookkeeping.[^2] Single entry bookkeeping can be easier for you.
+        - If you are a small business (*[[Kleinunternehmer]]*), you do not need to use double entry bookkeeping.[^2] Single entry bookkeeping can be easier for you.
     - **Betriebsvermögensvergleich** - Comparison of business assets
     - **Gewinnermittlung nach Durchschnittssätzen**  
         Report your profit based on average rates. This option is only for agricultural and silvicultural businesses.
@@ -430,7 +430,7 @@ Check this box if you want to apply for tax deductions on construction work. If 
 
 ### Section 16: Angaben zur Anmeldung und Abführung der Lohnsteuer
 
-In this section, you list your employees. This affects how much payroll tax you will pay[^6]. If you don't have employees, you can skip this section.
+In this section, you list your employees. This affects how much payroll tax you will pay.[^6] If you don't have employees, you can skip this section.
 
 **Zahl der Arbeitnehmer** - Number of employees
 
@@ -439,7 +439,7 @@ In this section, you list your employees. This affects how much payroll tax you 
 - **davon Familienangehörige** - ...that are relatives  
     Write the number of employees that are members of your family.
 - **davon geringfügig Beschäftigte** - ...that are marginally employed  
-    Write the number of [marginally employed](https://en.wikipedia.org/wiki/Marginal_employment) workers (employees with [minijobs](/glossary/Minijob))[^10].
+    Write the number of [marginally employed](https://en.wikipedia.org/wiki/Marginal_employment) workers (employees with [minijobs](/glossary/Minijob)).[^10]
 
 **Beginn der Lohnzahlungen** - Start of salary payments  
 The date when you will start paying your employees.
@@ -466,12 +466,12 @@ Your estimated revenue is used decide how you will pay your taxes. It also decid
     How much revenue you expect in your second year of business (your second *calendar* year, not your first 365 days).
 
 **Kleinunternehmer-Regelung**  
-If you are a small business (*[[Kleinunternehmer]]*), you can charge VAT, but you don't have to. You can only be a small business if your revenue is under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ in your first year of business **and** under {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ in the following years[^2]. *[[Freiberufler]]* and *[[Gewerbe]]* can both be small businesses. - [More information](/guides/value-added-tax#exemption-for-small-businesses)
+If you are a small business (*[[Kleinunternehmer]]*), you can charge VAT, but you don't have to. You can only be a small business if your revenue is under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ in your first year of business **and** under {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ in the following years.[^2] *[[Freiberufler]]* and *[[Gewerbe]]* can both be small businesses. - [More information](/guides/value-added-tax#exemption-for-small-businesses)
 
 - **[...] In Rechnungen wird keine Umsatzsteuer gesondert ausgewiesen [...]**  
-    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you don't want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will stay small, this can be better[^11]. - [More information](/guides/value-added-tax#exemption-for-small-businesses)
+    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you don't want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will stay small, this can be better.[^11] - [More information](/guides/value-added-tax#exemption-for-small-businesses)
 - **[...] Es wird auf die Anwendung der Kleinunternehmer-Regelung verzichtet. [...]**  
-    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will make over {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ per year later, this can be better[^11]. - [More information](/guides/value-added-tax#exemption-for-small-businesses)
+    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will make over {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ per year later, this can be better.[^11] - [More information](/guides/value-added-tax#exemption-for-small-businesses)
 
 **Zahllast / Überschuss (geschätzt)**  
 Enter how much VAT you will collect. This decides how you will make VAT payments to the *Finanzamt*.
@@ -480,11 +480,11 @@ Enter how much VAT you will collect. This decides how you will make VAT payments
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
 
 - **Es werden ganz oder teilweise steuerfreie Umsätze gemäß [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) ausgeführt** - There will be tax-free revenue according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html).  
-    Choose "Ja" if you want to apply for partial or total VAT exemptions according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html). [Here is a list of activities](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) that can have tax exemptions[^12]. If you are a freelancer or a small business, this probably does not apply to you.
+    Choose "Ja" if you want to apply for partial or total VAT exemptions according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html). [Here is a list of activities](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) that can have tax exemptions.[^12] If you are a freelancer or a small business, this probably does not apply to you.
 - **nach § 4 Nummer** - According to § 4 paragraph...  
     Write the number of the paragraph in [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) that qualifies you for a tax exemption. For example, "15a" (tax exemption for medical services). [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) can help you. If you chose "Nein" in the previous field, leave this field empty.
 - **Art des Umsatzes / der Tätigkeit** - Type of revenue or activity  
-    The activity for which you want a tax exemption. For example: "medizinische Dienste" (medical services)[^13]. [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) can help you. If you do not apply for a tax exemption, leave this field empty.
+    The activity for which you want a tax exemption. For example: "medizinische Dienste" (medical services).[^13] [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) can help you. If you do not apply for a tax exemption, leave this field empty.
 
 **Steuersatz** - Tax rate  
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
@@ -510,9 +510,9 @@ You can choose to calculate VAT payments based on the revenue you *should* have 
         You make VAT payments based on the amounts you have invoiced, even if you haven't received the money yet.
     - **Istversteuerung**  
         Check this box if you want to charge VAT based on the amount you *actually* have collected. You only make VAT payments once you receive money from your customers. If you are a freelancer or a small business, this is the  
-         best option for you[^12].
+         best option for you.[^12]
 - **Ich beantrage die Istversteuerung, weil der [...] Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__20.html) genannten Betrag voraussichtlich nicht übersteigen wird.**  
-    Check this box if you chose *Istversteuerung*, and you expect to make less than {{DOUBLE_ENTRY_MIN_REVENUE}}€ in revenue during your first year[^14].
+    Check this box if you chose *Istversteuerung*, and you expect to make less than {{DOUBLE_ENTRY_MIN_REVENUE}}€ in revenue during your first year.[^14]
 - **Ich beantrage die Istversteuerung, weil ich von der Verpflichtung, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, nach [§ 148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456) befreit bin**  
     Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because of [§148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456). In other words, check this box if you think double entry bookkeeping would be too hard for your business.
 - **Ich beantrage die Istversteuerung, weil ich Umsätze ausführe, für die ich als Angehöriger eines freien Berufs im Sinne von [§ 18 Abs. 1 Nr. 1 EStG](https://www.gesetze-im-internet.de/estg/__18.html) weder buchführungspflichtig bin noch freiwillig Bücher führe**  
@@ -595,7 +595,7 @@ If you have questions about this form, [ask a tax advisor](/guides/english-speak
 
 ## What happens next?
 
-**In 4 to 6 weeks**, you will receive your *[[Steuernummer]]* and [VAT number (*Umsatzsteuernummer*)](/glossary/Umsatzsteuernummer) by mail[^6]. Add these numbers to your invoices, and to your website's [[Impressum]].
+**In 4 to 6 weeks**, you will receive your *[[Steuernummer]]* and [VAT number (*Umsatzsteuernummer*)](/glossary/Umsatzsteuernummer) by mail.[^6] Add these numbers to your invoices, and to your website's [[Impressum]].
 
 If you are [starting a business in Germany](/guides/start-a-business-in-germany), you should find a [tax advisor](/guides/english-speaking-steuerberater-berlin). It's easier to run a business with a good tax advisor. You can also use tax software like [Sorted](/out/sorted-taxes) or [LexOffice](/out/lexoffice) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your accounting easier.
 

@@ -13,14 +13,14 @@ In Germany, you can't share photos and videos of other people without their perm
 
 In general, **you can take photos of people in public spaces**, but there are some exceptions.
 
-- You can't take photos of people if it shows their helplessness[^0]. For example, you can't take photos of accident victims, drunk people or nude people without their permission[^1]. This also applies to celebrities[^15].
-- You can't take photos of people if it violates their privacy. You can't take pictures of people in their home, or in a changing room[^15].
+- You can't take photos of people if it shows their helplessness.[^0] For example, you can't take photos of accident victims, drunk people or nude people without their permission.[^1] This also applies to celebrities.[^15]
+- You can't take photos of people if it violates their privacy. You can't take pictures of people in their home, or in a changing room.[^15]
 
-You can't take such pictures, even if you don't share them[^16].
+You can't take such pictures, even if you don't share them.[^16]
 
 ## Sharing photos of people
 
-**If you share a photo of someone, you need their permission first.** You need permission to share the photo on a website, on social media, in an email, in a group chat, in a newspaper, or in any other publication[^2]. There are some exceptions.
+**If you share a photo of someone, you need their permission first.** You need permission to share the photo on a website, on social media, in an email, in a group chat, in a newspaper, or in any other publication.[^2] There are some exceptions.
 
 You can share a photo of a person without their permission if:
 
@@ -34,17 +34,17 @@ You can share a photo of a person without their permission if:
 
 ![Person in a crowd](/images/person-in-a-crowd.jpg "This is not a photo of a crowd. It's a photo of a person in a crowd. In this case, you need permission.")
 
-Be careful. You can't share a photo of someone without their consent if it's against their legitimate interests[^17]:
+Be careful. You can't share a photo of someone without their consent if it's against their legitimate interests:[^17]
 
-- You can use a photo of a famous person for an article or book *about them*. You can't use a photo of them to promote an unrelated product[^7]. For example, you can't use the photo of Barack Obama to sell vacuum cleaners[^18].
-- You can't share photos of people if it severely damages their reputation[^8].
+- You can use a photo of a famous person for an article or book *about them*. You can't use a photo of them to promote an unrelated product.[^7] For example, you can't use the photo of Barack Obama to sell vacuum cleaners.[^18]
+- You can't share photos of people if it severely damages their reputation.[^8]
 - You must respect people's right to privacy, even if they are famous.
 
 ## Sharing photos of buildings and vehicles
 
-You do not need permission to take, share and sell photos of buildings and vehicles in public spaces. These are called "panorama rights"[^9]. For example, you can sell posters of a classic car parked on the street[^10]. You do not need the owner's permission.
+You do not need permission to take, share and sell photos of buildings and vehicles in public spaces. These are called "panorama rights".[^9] For example, you can sell posters of a classic car parked on the street.[^10] You do not need the owner's permission.
 
-This only applies to public spaces. You need permission to share pictures taken inside a business, a house or a museum[^11].
+This only applies to public spaces. You need permission to share pictures taken inside a business, a house or a museum.[^11]
 
 ![Music black and white architecture road white street 613839 pxhere com](/images/music-black-and-white-architecture-road-white-street-613839-pxhere.com.jpg "You can sell photos of buildings and cars without permission, if they are taken from a public street.")
 
@@ -54,32 +54,32 @@ Normally, you just need to ask the person in the photo.
 
 Sometimes, the permission is implicit:
 
-- If you pay someone to take their photo, you have their permission to share the photo[^19].
-- If everyone in the picture is smiling at the camera, you have their permission to take a photo[^20]. You still need permission to share the photo.
-- If the subject died, you must get permission from their relatives. If they died more than 10 years ago, no consent is needed[^19].
-- You can't use someone's profile photo without their permission[^21].
+- If you pay someone to take their photo, you have their permission to share the photo.[^19]
+- If everyone in the picture is smiling at the camera, you have their permission to take a photo.[^20] You still need permission to share the photo.
+- If the subject died, you must get permission from their relatives. If they died more than 10 years ago, no consent is needed.[^19]
+- You can't use someone's profile photo without their permission.[^21]
 
 ## What happens if I don't follow the rules?
 
-The punishment is a fine, or up to 2 years in prison[^12]. People rarely go to prison, but fines and lawsuits are common[^22].
+The punishment is a fine, or up to 2 years in prison.[^12] People rarely go to prison, but fines and lawsuits are common.[^22]
 
-The subject of the photo can sue for damages[^18]. You might have to pay for the victim's legal costs[^13].
+The subject of the photo can sue for damages.[^18] You might have to pay for the victim's legal costs.[^13]
 
-If you took the photo by accident, you can delete the picture without punishment. For example, if you take a drone video, and catch someone naked in their backyard[^23].
+If you took the photo by accident, you can delete the picture without punishment. For example, if you take a drone video, and catch someone naked in their backyard.[^23]
 
 ## Can I just blur people's faces?
 
-**No.** You must make sure that the person can't be recognised[^24].
+**No.** You must make sure that the person can't be recognised.[^24]
 
 ![Photo blurred still recognisable](/images/photo-blurred-still-recognisable.jpg "Tattoos and hair style can still make a person recognisable")
 
 ## Do I have to censor licence plates?
 
-**Yes**, you should also blur vehicle licence plates. This is not always required[^25].
+**Yes**, you should also blur vehicle licence plates. This is not always required.[^25]
 
 ## Can I film the police in Germany?
 
-There is no exception for police officers[^14]. The rules described above also apply to them[^26]. You can film police officers, but you can't *share* photos or videos of police officers without getting their permission or blurring their faces.
+There is no exception for police officers.[^14] The rules described above also apply to them.[^26] You can film police officers, but you can't *share* photos or videos of police officers without getting their permission or blurring their faces.
 
 ## Legal references
 

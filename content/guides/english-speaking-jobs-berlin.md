@@ -43,7 +43,7 @@ Many businesses need English speakers and copywriters to manage their website an
 
 ## Teaching English in Berlin
 
-**If you want to teach English in Berlin,** it is very hard. If you are not certified, and don't speak German, it's very hard[^0]. The local English teachers association ([ELTABB](http://www.eltabb.com/)) has more resources. You can also teach English online, but if you are self-employed, you might need to [register as a freelancer](/guides/become-a-freelancer-in-germany).
+**If you want to teach English in Berlin,** it is very hard. If you are not certified, and don't speak German, it's very hard.[^0] The local English teachers association ([ELTABB](http://www.eltabb.com/)) has more resources. You can also teach English online, but if you are self-employed, you might need to [register as a freelancer](/guides/become-a-freelancer-in-germany).
 
 You can also be an [au pair](/glossary/Au%20pair). I know many au pairs who did not speak German when they started working in Germany.
 

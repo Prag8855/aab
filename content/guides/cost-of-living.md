@@ -21,7 +21,7 @@ In Germany, a part of your [gross income (*Brutto*)](/glossary/Brutto%20income) 
 
 If you are self-employed, don't pay unemployment insurance, and pension insurance is optional. You might also pay a [trade tax (*Gewerbesteuer*)](/glossary/Gewerbesteuer).
 
-If you make money with stocks and other investments, it's taxed separately. You pay a capital gains tax (*Kapitalertragsteuer*) of 25%[^0]. Cryptocurrencies are taxed [differently](https://taxfix.de/ratgeber/pflichten/bitcoin-und-steuer/#versteuern).
+If you make money with stocks and other investments, it's taxed separately. You pay a capital gains tax (*Kapitalertragsteuer*) of 25%.[^0] Cryptocurrencies are taxed [differently](https://taxfix.de/ratgeber/pflichten/bitcoin-und-steuer/#versteuern).
 
 ### How to pay less income tax
 
@@ -78,7 +78,7 @@ If you only eat at home, you should pay around 250€ per month for groceries. I
 
 - [Get a yearly subscription](/guides/saving-money-germany#get-a-yearly-public-transit-pass). It's much cheaper than a [monthly pass](/glossary/Monatskarte).
 - In Berlin, get a [10-Uhr-Karte](/guides/bvg-10-uhr-karte) if you don't use public transportation between 3AM and 10AM on weekdays.
-- If you are a university or *Hochschule* student, your get a very cheap *Semesterticket* from your school[^1]. It's usually included in your school fees.
+- If you are a university or *Hochschule* student, your get a very cheap *Semesterticket* from your school.[^1] It's usually included in your school fees.
 
 ## Electricity
 
@@ -212,7 +212,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 ### Income
 
-3,994€ was the average German salary in 2019[^2]. I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children (*[Steuerklasse I](/glossary/Steuerklasse)*).
+3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children (*[Steuerklasse I](/glossary/Steuerklasse)*).
 
 Use my [tax calculator](/tools/tax-calculator) to calculate your [net income](/glossary/Netto%20income).
 

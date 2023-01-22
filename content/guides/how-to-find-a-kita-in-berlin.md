@@ -14,28 +14,28 @@ You must go through a few steps before your child can go to a *Kita* in Berlin.
 
 ## How much does Kita cost?
 
-**Attending Kita is free**, but food, special activities and language lessons can cost extra. The food usually costs 23€ per month[^0]. The cost of activities can cost 60 to 90€ per month, depending on the *Kita*.
+**Attending Kita is free**, but food, special activities and language lessons can cost extra. The food usually costs 23€ per month.[^0] The cost of activities can cost 60 to 90€ per month, depending on the *Kita*.
 
 Kitas can charge up to 60€ for sports, special food (such as vegan food or organic food), language lessons and activities. If the *Kita* provides special activities or regular breakfast and snacks for the children, they can charge up 90€ per month. They must itemize all costs above 60€, and they must allow parents to opt out of these costs.
 
 - **Children under 1 year old** can go to *Kita* or have a nanny (*Tagesmutter*) for a 4 to 5 hours per day. This is called half days or *halbtags* childcare. You must prove that your child requires it. You can do this by showing your work contract or freelance work commitments. Children who live in homeless shelters or collective housing can also get *halbtags* care.
-- **Children over 1 year old** get 5 to 9 free *Kita* hours per day[^1].
+- **Children over 1 year old** get 5 to 9 free *Kita* hours per day.[^1]
     - **By default**, children over 1 year old get 5 to 7 *Kita* hours per day. This is called part time or *teilzeit* childcare.
     - **If both parents are working, studying or in training**, they get 7 to 9 *Kita* hours per day. This is called full time or *ganztags* childcare. If only one parent is working, studying or in training, they only get *teilzeit* childcare.
 
 ## How hard is it to find a Kita?
 
-**It's really hard**[^2]; even harder than [finding an apartment](/guides/find-a-flat-in-berlin)[^3]. **It can take more than a year** to find a *Kita* for your child. Parents have sued the state and protested because of this[^4].
+**It's really hard**[^2]; even harder than [finding an apartment](/guides/find-a-flat-in-berlin).[^3] **It can take more than a year** to find a *Kita* for your child. Parents have sued the state and protested because of this.[^4]
 
 Most *Kitas* have **6 to 18 month waiting lists**. Some parents start searching for a *Kita* during pregnancy, or while their child is a young baby, even if their child will only need a *Kita* in a few years.
 
-Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to start searching[^5].
+Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to start searching.[^5]
 
 ## Step 1: Look for Kitas
 
-You must look for a *Kita* that has a free spot for your child. This is really hard. Most *Kitas* have 6-18 month waiting lists. You should make a list of *Kitas* while you are pregnant[^6]. Most Kitas only add you to their waiting list after your child is born.
+You must look for a *Kita* that has a free spot for your child. This is really hard. Most *Kitas* have 6-18 month waiting lists. You should make a list of *Kitas* while you are pregnant.[^6] Most Kitas only add you to their waiting list after your child is born.
 
-Start looking for *Kitas* after you [move to Berlin](/guides/moving-to-berlin), because you must visit them in person[^7].
+Start looking for *Kitas* after you [move to Berlin](/guides/moving-to-berlin), because you must visit them in person.[^7]
 
 There are many places to look for *Kitas*:
 
@@ -48,9 +48,9 @@ There are many places to look for *Kitas*:
 
 *Kitas* sometimes post a message on their windows when they have a free place. If you have time, walk around your neighbourhood, and look at the *Kita* doors and windows for notices. This notice often specifies the age of the children they are willing to accept, and whether they want a girl or a boy. *Kitas* try to keep a balance of older and younger children, and a balance of girls and boys.
 
-If you live in a very high-demand area of Berlin, you might need to search for *Kitas* further away. Your child can attend any *Kita* in the city, not just the ones close to you. Due to the lack of *Kita* places, some *Jugendamts* tell *Kitas* to only accept kids who live in the same district[^8].
+If you live in a very high-demand area of Berlin, you might need to search for *Kitas* further away. Your child can attend any *Kita* in the city, not just the ones close to you. Due to the lack of *Kita* places, some *Jugendamts* tell *Kitas* to only accept kids who live in the same district.[^8]
 
-Since it's extremely difficult to find a *Kita*, you might have to pick the first *Kita* that has a free spot[^9]. You can't be very picky, but you can always change *Kitas* later.
+Since it's extremely difficult to find a *Kita*, you might have to pick the first *Kita* that has a free spot.[^9] You can't be very picky, but you can always change *Kitas* later.
 
 ## Step 2: Get a Kitagutschein
 
@@ -62,7 +62,7 @@ You need to apply for the *Kitagutschein* from 2 to 9 months before your desired
 
 ## Step 3: Contact Kitas
 
-Once you have a list of *Kitas*, you must ask them for a spot in their waiting list. Start as soon as you are pregnant[^6]. You can look at Kitas before you have a *[[Kitagutschein]]*.
+Once you have a list of *Kitas*, you must ask them for a spot in their waiting list. Start as soon as you are pregnant.[^6] You can look at Kitas before you have a *[[Kitagutschein]]*.
 
 You will find application instructions on each *Kita*'s website. Each *Kita* has a different way of getting on the waiting list.
 
@@ -70,15 +70,15 @@ When you contact a *Kita*, you must usually speak German. There are also some En
 
 **[Kita application template](https://www.kietzee.com/en/blog/what-to-include-in-kita-application)** - Kietzee
 
-Only a few *Kitas* will answer emails. If they don't answer, call and ask to visit. Many *Kitas* also have information days or drop-in days when you can go and ask questions[^5].
+Only a few *Kitas* will answer emails. If they don't answer, call and ask to visit. Many *Kitas* also have information days or drop-in days when you can go and ask questions.[^5]
 
-If you don’t get a reply the first time you contact a *Kita*, or they say they have no place available, try contacting them again later[^10]. Sometimes, children will leave, and new places will become available.
+If you don’t get a reply the first time you contact a *Kita*, or they say they have no place available, try contacting them again later.[^10] Sometimes, children will leave, and new places will become available.
 
 **[List of Kita search services ↓](/guides/how-to-find-a-kita-in-berlin#kita-search-services)**
 
 ## Step 4: Visit Kitas
 
-Many *Kitas* have information days or visit times[^5]. This is a good time to visit a *Kita* and ask questions.
+Many *Kitas* have information days or visit times.[^5] This is a good time to visit a *Kita* and ask questions.
 
 When you visit a *Kita*, ask the following questions:
 
@@ -86,7 +86,7 @@ When you visit a *Kita*, ask the following questions:
 - Are the children split up by age, or are they in different rooms/parts of the Kita?
 - Does the Kita provide food?
 - What kind of pedagogical approach does the Kita follow?
-- What are the Kita's opening hours? If you work full time, the opening hours can be a problem[^11].
+- What are the Kita's opening hours? If you work full time, the opening hours can be a problem.[^11]
 - How do they resolve conflicts between the children?
 - Where do the children sleep?
 - Are there any additional costs?
@@ -118,9 +118,9 @@ When you choose a Kita start date and a date to begin work, factor in several we
 
 ### Kita search services
 
-- [Kietzee](https://www.kietzee.com/en) has a map of Kitas with reviews[^12], example Kita application letters, and guides for parents. You must pay to see some of their guides.
+- [Kietzee](https://www.kietzee.com/en) has a map of Kitas with reviews,[^12] example Kita application letters, and guides for parents. You must pay to see some of their guides.
 - [Kita Applications](https://www.kitaapplications.com/) automates Kita applications. You can pay to call them and ask questions.
-- [Julia Zehavi](http://www.familyrelocation.de/en/kita) offers relocation and Kita search services for parents. She also helps parents [get a *Kitagutschein*](/guides/how-to-get-a-kitagutschein)[^13].
+- [Julia Zehavi](http://www.familyrelocation.de/en/kita) offers relocation and Kita search services for parents. She also helps parents [get a *Kitagutschein*](/guides/how-to-get-a-kitagutschein).[^13]
 - [Maternita Kita](https://www.maternita-kita.de/) can find Kitas for you. They have workshops for parents. You can pay to call them and ask questions.
 - [Berlin Kita](https://berlinkita.com/) sells a list of Kitas in Microsoft Excel format
 - Some[ relocation consultants](/guides/relocation-agency-in-berlin) can find a Kita for you

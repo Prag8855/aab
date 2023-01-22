@@ -10,7 +10,7 @@ When it comes to your health, it's important to have a doctor who speaks your la
 
 ## It's hard to find a gynecologist
 
-In Berlin, most gynecologists are booked for months. Male gynecologists are sometimes easier to find[^0].
+In Berlin, most gynecologists are booked for months. Male gynecologists are sometimes easier to find.[^0]
 
 ## List of gynecologists and obstetricians
 

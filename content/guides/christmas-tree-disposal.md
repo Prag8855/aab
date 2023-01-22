@@ -13,6 +13,6 @@ Every year in January, [BSR](/glossary/Berliner%20Stadtreinigung) collects old C
 
 ## Step 2: leave your tree on the sidewalk
 
-1 or 2 days before a collection day, remove all the decorations from the tree, and bring it outside[^0]. Leave the tree on the sidewalk, close to the street. The tree must not be in the way or block the sidewalk.
+1 or 2 days before a collection day, remove all the decorations from the tree, and bring it outside.[^0] Leave the tree on the sidewalk, close to the street. The tree must not be in the way or block the sidewalk.
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/koycis/what_date_are_bsr_collecting_christmas_trees_this/)
