@@ -2,8 +2,8 @@
 Title: Fragebogen zur steuerlichen Erfassung in English
 German_term: Fragebogen zur steuerlichen Erfassung
 English_term: Questionnaire for tax collection
-German_document: /documents/fragebogen-zur-steuerlichen-erfassung-original.pdf
-English_document: /documents/fragebogen-zur-steuerlichen-erfassung-english-final.pdf
+German_document: documents/fragebogen-zur-steuerlichen-erfassung-original.pdf
+English_document: documents/fragebogen-zur-steuerlichen-erfassung-english-final.pdf
 Description: The English translation of the form all German freelancers and small businesses must fill, along with instructions on how to fill it.
 Date_created: 2018-03-11
 Date_updated: 2022-11-29

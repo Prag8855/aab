@@ -52,16 +52,16 @@
 	<aside id="download-buttons" class="section fixed-width">
 		<h2>Download this document</h2>
 		<div class="download-buttons">
-			<a target="_blank" class="download-button german" title="Download the original document in German" href="{{ entry.german_document }}">
+			<a target="_blank" class="download-button german" title="Download the original document in German" href="{{ site_url }}/{{ entry.german_document }}">
 				<h3>In German</h3>
 				<span>{{ entry.german_term }}</span>
-				<img alt="Preview of {{ entry.german_term }}" src="TODO">
+				{% image entry.german_document %}
 			</a>
 
-			<a target="_blank" class="download-button english" title="Download the English-translated document" href="{{ entry.english_document.url }}">
+			<a target="_blank" class="download-button english" title="Download the English-translated document" href="{{ site_url }}/{{ entry.english_document }}">
 				<h3>In English</h3>
 				<span>{{ entry.english_term }}</span>
-				<img alt="Preview of {{ entry.english_term }}" src="TODO">
+				{% image entry.english_document %}
 			</a>
 		</div>
 	</aside>

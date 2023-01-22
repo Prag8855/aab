@@ -2,8 +2,8 @@
 Title: German visa application form
 German_term: Antrag auf Erteilung eines Aufenthaltstitels
 English_term: Application for a Visa or Residence Permit
-German_document: /documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
-English_document: /documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
+German_document: documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
+English_document: documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
 Description: The official English translation of the German freelance visa application form
 Date_created: 2018-06-07
 Date_updated: 2022-12-01

@@ -17,8 +17,6 @@ def to_currency(value):
     return "{:0,.2f}".format(value).replace('.00', '') if value else ''
 
 
-content_width = 800
-
 minimum_wage = 12
 
 
@@ -34,9 +32,9 @@ config = {
                     'ursus.context_processors.related.RelatedEntriesProcessor',
                 ],
                 'renderers': [
-                    'ursus.renderers.jinja.JinjaRenderer',
-                    'ursus.renderers.static.StaticAssetRenderer',
                     'ursus.renderers.image.ImageTransformRenderer',
+                    'ursus.renderers.static.StaticAssetRenderer',
+                    'ursus.renderers.jinja.JinjaRenderer',
                 ],
                 'content_path': Path(__file__).parent / 'content',
                 'templates_path': Path(__file__).parent / 'templates',
@@ -44,23 +42,23 @@ config = {
 
                 'image_transforms': {
                     '': {
-                        'max_size': (int(content_width * 2), int(content_width * 2 * 1.5)),
+                        'max_size': (int(800 * 2), int(800 * 2 * 1.5)),
                     },
                     'content1.5x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (int(content_width * 1.5), int(content_width * 1.5 * 1.5)),
+                        'max_size': (int(800 * 1.5), int(800 * 1.5 * 1.5)),
                     },
                     'content1x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (content_width, int(content_width * 1.5)),
+                        'max_size': (800, int(800 * 1.5)),
                     },
                     'content0.75x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (int(content_width * 0.75), int(content_width * 0.75 * 1.5)),
+                        'max_size': (int(800 * 0.75), int(800 * 0.75 * 1.5)),
                     },
                     'content0.5x': {
                         'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (int(content_width * 0.5), int(content_width * 0.5 * 1.5)),
+                        'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
                     },
                     'bio2x': {
                         'exclude': ('*.pdf', '*.svg'),

@@ -359,7 +359,7 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 		.download-button:hover{text-decoration:none;border:var(--outline-button);outline:var(--outline-button)}
 		.download-button h3{margin:0;color:inherit;}
 		.download-button span{font-size:var(--font-size-s);line-height:var(--line-height-compact);display:inline-block}
-		.download-button img{border:var(--border-page);box-shadow:var(--box-shadow-block);max-width:calc(100% - 10px);max-height:300px;background:#fff;margin:var(--spacing-l) auto 0 auto;}
+		.download-button img{border:var(--border-page);box-shadow:var(--box-shadow-block);max-width:calc(100% - 10px);height:auto;background:#fff;margin:var(--spacing-l) auto 0 auto;}
 
 .collapsible{border:var(--border-widget);background:var(--color-background-widget);border-radius:var(--border-radius);margin-top:var(--spacing-text-block-m);margin-bottom:var(--spacing-text-block-m)}
 	.collapsible.collapsed:not(.collapsible .collapsible):hover{outline:var(--outline-button);border-color:var(--color-highlight);}
