@@ -66,7 +66,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebSite",
-				"@id": "https://allaboutberlin.com/#site",
+				"@id": "{{ site_url }}/#site",
 				"author": {
 					"@type": "Person",
 					"@id": "https://nicolasbouliane.com"
@@ -77,19 +77,19 @@
 				},
 				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
 				"inLanguage": "en",
-				"url": "https://allaboutberlin.com",
+				"url": "{{ site_url }}",
 				"maintainer": {
 					"@type": "Person",
 					"@id": "https://nicolasbouliane.com"
 				},
 				"potentialAction": {
 					"@type": "SearchAction",
-					"target": "https://allaboutberlin.com/search?q={search_term_string}",
+					"target": "{{ site_url }}/search?q={search_term_string}",
 					"query-input": "required name=search_term_string"
 				},
 				"publisher": {
 					"@type": "Organization",
-					"@id": "https://allaboutberlin.com/#organization"
+					"@id": "{{ site_url }}/#organization"
 				},
 				"sameAs": [
 					"https://www.facebook.com/allaboutberlin",
@@ -99,7 +99,7 @@
 			},
 			{
 				"@context": "https://schema.org",
-				"@id": "https://allaboutberlin.com/#organization",
+				"@id": "{{ site_url }}/#organization",
 				"@type": "Organization",
 				"address": {
 					"@type": "PostalAddress",
@@ -111,14 +111,14 @@
 				},
 				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
 				"foundingDate": "2017-09-01",
-				"logo": "https://allaboutberlin.com/staticimages/logo.png",
+				"logo": "{{ site_url }}/staticimages/logo.png",
 				"name": "All About Berlin",
 				"sameAs": [
 					"https://www.facebook.com/allaboutberlin",
 					"https://twitter.com/aboutberlin",
 					"https://www.linkedin.com/company/allaboutberlin/"
 				],
-				"url": "https://allaboutberlin.com"
+				"url": "{{ site_url }}"
 			},
 			{
 				"@context": "https://schema.org",

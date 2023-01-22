@@ -7,9 +7,8 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ entry.title }}" />
     <meta property="og:description" content="{{ entry.description }}" />
-    <meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ entry.title|urlencode }}" />
+    <meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ entry.title|urlencode }}" />
     <link rel="canonical" href="{{ entry.url }}">
-    <link rel="edit" href="{{ entry.cpEditUrl }}">
 {% endblock %}
 
 {% block precontent %}

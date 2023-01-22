@@ -6,9 +6,8 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{ metatitle }}" />
 	<meta property="og:description" content="{{ metadescription }}" />
-	<meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ metatitle|urlencode }}" />
-	<link rel="canonical" href="https://allaboutberlin.com/glossary">
-	<link rel="edit" href="{{site_url}}admin/tags/definitions">
+	<meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ metatitle|urlencode }}" />
+	<link rel="canonical" href="{{ site_url }}/glossary">
 {% endblock %}
 
 {% block content %}
@@ -17,13 +16,13 @@
 		<nav class="breadcrumb">
 			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
 				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}">
 						<span itemprop="name">Home</span>
 					</a>
 					<meta itemprop="position" content="1" />
 				</li>
 				<li class="title" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com/glossary">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}/glossary">
 						<span itemprop="name">Glossary</span>
 					</a>
 					<meta itemprop="position" content="2" />

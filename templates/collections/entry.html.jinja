@@ -4,7 +4,7 @@
 
 {% block postHead %}
     <link rel="canonical" href="{{ entry.url }}" />
-    <meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ entry.title|urlencode }}" />
+    <meta property="og:image" content="{{ site_url }}/api/images/cover.png?text={{ entry.title|urlencode }}" />
 {% endblock %}
 
 {% block main %}
@@ -23,7 +23,7 @@
             {% endwith %}
         </div>
         <nav class="fixed-width pagination">
-            <a rel="index" href="https://allaboutberlin.com/guides">◂ Back to all guides</a>
+            <a rel="index" href="{{ site_url }}/guides">◂ Back to all guides</a>
         </nav>
     </main>
 {% endblock %}

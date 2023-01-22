@@ -19,6 +19,7 @@ def to_currency(value):
 
 minimum_wage = 12
 
+site_url = 'https://localhost'
 
 config = {
     'generators': [
@@ -80,7 +81,7 @@ config = {
                     },
                 },
 
-                'site_url': 'https://localhost',
+                'site_url': site_url,
                 'wikilinks_base_url': '/glossary',
                 'html_url_extension': '',
                 'jinja_filters': {
@@ -99,6 +100,7 @@ config = {
     },
     'globals': {
         'now': datetime.now(),
+        'site_url': site_url,
 
         # ==============================================================================
         # HEALTH INSURANCE

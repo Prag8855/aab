@@ -7,7 +7,7 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{ metatitle }}" />
 	<meta property="og:description" content="{{ metadescription }}" />
-	<meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ metatitle|urlencode }}" />
+	<meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ metatitle|urlencode }}" />
 	<link rel="canonical" href="{{ site_url }}" />
 {% endblock %}
 {% block main %}
@@ -20,59 +20,59 @@
 		</div>
 		<div class="section fixed-width transparent centred">
 			<div class="options guides">
-				<a title="How to move to Berlin" href="{{site_url}}guides/moving-to-berlin">
+				<a title="How to move to Berlin" href="{{site_url}}/guides/moving-to-berlin">
 					{% include "css/icons/moving.svg" %}
 					<span>How to <strong>move to Berlin</strong></span>
 				</a>
-				<a title="What to see and do in Berlin" href="{{site_url}}guides/visit-berlin">
+				<a title="What to see and do in Berlin" href="{{site_url}}/guides/visit-berlin">
 					{% include "css/icons/visiting.svg" %}
 					<span>How to <strong>visit Berlin</strong></span>
 				</a>
-				<a title="How to start a business in Germany" href="{{site_url}}guides/start-a-business-in-germany">
+				<a title="How to start a business in Germany" href="{{site_url}}/guides/start-a-business-in-germany">
 					{% include "css/icons/business.svg" %}
 					<span>How to <strong>start a business</strong></span>
 				</a>
 			</div>
 			<div class="options guides">
-				<a title="How to find an apartment in Berlin" href="{{site_url}}guides/find-a-flat-in-berlin">
+				<a title="How to find an apartment in Berlin" href="{{site_url}}/guides/find-a-flat-in-berlin">
 					{% include "css/icons/apartment.svg" %}
 					<span>I need an <strong>apartment</strong></span>
 				</a>
-				<a title="Best bank account in Germany" href="{{site_url}}guides/first-bank-account-in-germany">
+				<a title="Best bank account in Germany" href="{{site_url}}/guides/first-bank-account-in-germany">
 					{% include "css/icons/bank.svg" %}
 					<span>I need a <strong>bank account</strong></span>
 				</a>
-				<a title="How to find a job in Berlin" href="{{site_url}}guides/find-a-job-in-berlin">
+				<a title="How to find a job in Berlin" href="{{site_url}}/guides/find-a-job-in-berlin">
 					{% include "css/icons/job.svg" %}
 					<span>I need a <strong>job</strong></span>
 				</a>
-				<a title="How to choose German health insurance" href="{{site_url}}guides/german-health-insurance">
+				<a title="How to choose German health insurance" href="{{site_url}}/guides/german-health-insurance">
 					{% include "css/icons/health.svg" %}
 					<span>I need <strong>health insurance</strong></span>
 				</a>
-				<a title="" href="{{site_url}}guides/bicycle-in-berlin">
+				<a title="" href="{{site_url}}/guides/bicycle-in-berlin">
 					{% include "css/icons/bicycle.svg" %}
 					<span>I need a <strong>bicycle</strong></span>
 				</a>
-				<a title="How to get a free Schufa" href="{{site_url}}guides/free-schufa-berlin">
+				<a title="How to get a free Schufa" href="{{site_url}}/guides/free-schufa-berlin">
 					{% include "css/icons/schufa.svg" %}
 					<span>I need a <strong>Schufa</strong></span>
 				</a>
-				<a title="What is liability insurance?" href="{{site_url}}guides/haftpflichtversicherung">
+				<a title="What is liability insurance?" href="{{site_url}}/guides/haftpflichtversicherung">
 					{% include "css/icons/liability.svg" %}
 					<span>I need <strong>liability insurance</strong></span>
 				</a>
-				<a title="" href="{{site_url}}guides/buying-used-car-in-germany">
+				<a title="" href="{{site_url}}/guides/buying-used-car-in-germany">
 					{% include "css/icons/car.svg" %}
 					<span>I need a <strong>car</strong></span>
 				</a>
-				<a title="What is liability insurance?" href="{{site_url}}guides/questions-about-berlin">
+				<a title="What is liability insurance?" href="{{site_url}}/guides/questions-about-berlin">
 					{% include "css/icons/help.svg" %}
 					<span>I need <strong>someone's help</strong></span>
 				</a>
 			</div>
 			<p>
-				<a class="button" href="https://allaboutberlin.com/guides">See all guides</a>
+				<a class="button" href="{{ site_url }}/guides">See all guides</a>
 			</p>
 		</div>
 	</main>

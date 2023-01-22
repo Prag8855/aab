@@ -8,10 +8,9 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{ entry.title }}" />
 	<meta property="og:description" content="{{ entry.description }}" />
-	<meta property="og:image" content="{{site_url}}api/images/cover.png?text={{ entry.title|urlencode }}" />
+	<meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ entry.title|urlencode }}" />
 	<link rel="canonical" href="{{ entry.url }}" />
-	<link rel="index" href="https://allaboutberlin.com/docs">
-	<link rel="edit" href="{{ entry.cpEditUrl }}">
+	<link rel="index" href="{{ site_url }}/docs">
 {% endblock %}
 
 {% block content %}
@@ -23,13 +22,13 @@
 		<nav class="breadcrumb no-mobile hide-last">
 			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
 				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}">
 						<span itemprop="name">Home</span>
 					</a>
 					<meta itemprop="position" content="1" />
 				</li>
 				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="https://allaboutberlin.com/docs">
+					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}/docs">
 						<span itemprop="name">Translated documents</span>
 					</a>
 					<meta itemprop="position" content="2" />

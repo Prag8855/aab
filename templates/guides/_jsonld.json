@@ -13,7 +13,7 @@
   "mainEntityOfPage": "{{ entry.url }}",
   "publisher": {
     "@type": "Organization",
-    "@id": "https://allaboutberlin.com/#organization"
+    "@id": "{{ site_url }}/#organization"
   }
 }
 

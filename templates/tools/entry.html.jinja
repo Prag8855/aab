@@ -11,9 +11,8 @@
     <meta property="og:description" content="{{ entry.description }}" />
     <meta property="og:image" content="{{ site_url }}/api/images/cover.png?text={{ entry.title|urlencode }}" />
     <link rel="canonical" href="{{ entry.url }}" />
-    <link rel="glossary" href="https://allaboutberlin.com/glossary" />
-    <link rel="index" href="https://allaboutberlin.com/tools">
-    <link rel="edit" href="{{ entry.cpEditUrl }}">
+    <link rel="glossary" href="{{ site_url }}/glossary" />
+    <link rel="index" href="{{ site_url }}/tools">
 {% endblock %}
 
 {% block content %}
@@ -22,7 +21,7 @@
         <span class="post-date">
             Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
         </span>
-        <span class="post-author">{% if reviews|length %}By {% else %}Built by {% endif %}<a rel="nofollow" href="https://allaboutberlin.com/contact">Nicolas Bouliane</a></span>{% if reviews|length > 0 %}.{% endif %}
+        <span class="post-author">{% if reviews|length %}By {% else %}Built by {% endif %}<a rel="nofollow" href="{{ site_url }}/contact">Nicolas Bouliane</a></span>{% if reviews|length > 0 %}.{% endif %}
         {% if reviews|length == 1 %}
             <span class="post-reviewers">Verified by <a class="reviewers-link" href="#reviewers">1 expert</a></span>
         {% elif reviews|length > 1 %}
@@ -98,7 +97,7 @@
                             "@type": "ListItem",
                             "position": 1,
                             "item": {
-                                "@id": "https://allaboutberlin.com/",
+                                "@id": "{{ site_url }}/",
                                 "name": "Home"
                             }
                         },
@@ -106,7 +105,7 @@
                             "@type": "ListItem",
                             "position": 2,
                             "item": {
-                                "@id": "https://allaboutberlin.com/tools",
+                                "@id": "{{ site_url }}/tools",
                                 "name": "Tools and calculators"
                             }
                         },
@@ -145,7 +144,7 @@
                 {% endif %}
                 "publisher": {
                     "@type": "Organization",
-                    "@id": "https://allaboutberlin.com/#organization"
+                    "@id": "{{ site_url }}/#organization"
                 }
             }
         ]
