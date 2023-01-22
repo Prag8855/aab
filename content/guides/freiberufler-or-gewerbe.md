@@ -75,7 +75,7 @@ All businesses must pay the *Gewerbesteuer*[^9][^11], unless they make less than
 
 Small businesses (*Kleinunternehmer*) are not exempt from the trade tax[^11], unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year.
 
-[**What is the trade tax? ➞**  ](http://allaboutberlin.com/guides/gewerbesteuer)
+**[What is the trade tax? ➞](/guides/gewerbesteuer)**
 
 ### Double entry bookkeeping
 

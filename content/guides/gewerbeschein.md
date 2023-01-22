@@ -181,7 +181,7 @@ Click *Weiter* to continue.
 ▲ Enter information about your residence permit. This section is for people who need a [residence permit](/glossary/Aufenthaltstitel) to start a business in Berlin.
 
 - Issued on (*Ausgestellt am*): The day you received your residence permit.
-- Issuing authority (*Ausstellende Behörde*): The embassy, consulate or *[Ausländerbehörde](http://allaboutberlin.com/glossary/Ausländerbehörde)* that gave you the residence permit.
+- Issuing authority (*Ausstellende Behörde*): The embassy, consulate or *[[Ausländerbehörde]]* that gave you the residence permit.
 - Post code of the issuing authority (*Postleitzahl*)
 - City of the issuing authority (*Ort*)
 - Choose *Ja* if your residence permit has special conditions.
