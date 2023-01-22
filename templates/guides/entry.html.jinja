@@ -1,7 +1,8 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
-{% set relatedCollections = todo %}
+{% set related_collections = [] %}
+{% set reviews = entry.related_reviews|default([]) %}
 
 {% block postHead %}
 	<meta property="og:url" content="{{ entry.url }}" />
@@ -14,10 +15,10 @@
 	<link rel="index" href="{{ site_url }}/guides">
 {% endblock %}
 
-{% set bodyClass = "with-sidebar" %}
+{% set body_class = "with-sidebar" %}
 {% block precontent %}
 	<div class="sidebar">
-		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showRelatedEntriesLink=relatedCollections|length %}
+		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showRelatedEntriesLink=related_collections|length %}
 			{% include 'blocks/_tableOfContents.html' %}
 		{% endwith %}
 	</div>
@@ -58,12 +59,12 @@
 			</ul>
 		{% endif %}
 	</div>
-	{% with entry=entry, showRelatedEntriesLink=relatedCollections|length %}
+	{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
 		{% include 'blocks/_mainContent.html' %}
 	{% endwith %}
-	{% if entry.places|length %}
-		{% with places=todo %}
-			{% include 'blocks/_places.html' %}
+	{% if entry.related_places|default([]) %}
+		{% with places=entry.related_places %}
+		    {% include 'blocks/_places.html' %}
 		{% endwith %}
 	{% endif %}
 {% endblock %}
@@ -78,7 +79,7 @@
 			<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
 		</p>
 	</aside>
-	{% if relatedCollections %}
+	{% if related_collections %}
 		<aside id="related" class="section fixed-width transparent" aria-label="Collections that include this guide">
 			{% with collections=entry.related_collections, currentEntry=entry %}
 				{% include "blocks/_collections.html" %}

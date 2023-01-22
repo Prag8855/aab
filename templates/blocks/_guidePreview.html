@@ -4,7 +4,7 @@
             {% if entry.url.startswith('guides/') %}
                 {{ entry.pageTitle | default(entry.title) }}
             {% else %}
-                {% if entry.short_title %}
+                {% if entry.short_title|default %}
                     <span class="no-mobile">{{ entry.title }}</span>
                     <span class="no-desktop">{{ entry.short_title }}</span>
                 {% else %}

@@ -1,8 +1,8 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
-{% set reviews = entry.reviews %}
-{% set related_entries = entry.related_guides %}
+{% set reviews = entry.related_reviews|default([]) %}
+{% set related_guides = entry.related_guides|default([]) %}
 
 {% block postHead %}
     <meta property="og:url" content="{{ entry.url }}" />
@@ -50,7 +50,7 @@
             </ul>
         {% endif %}
     </div>
-    {% with entry=entry, showRelatedEntriesLink=relatedCollections|length, showSupportLink=true %}
+    {% with entry=entry, showSupportLink=true %}
         {% include 'blocks/_mainContent.html' %}
     {% endwith %}
 {% endblock %}
@@ -66,10 +66,10 @@
         </p>
     </aside>
 
-    {% if related_entries|length %}
+    {% if related_guides|length %}
         <aside class="section fixed-width related" id="related">
             <h2>Related guides</h2>
-            {% for entry in related_entries.all() %}
+            {% for entry in related_guides.all() %}
                 {% include "blocks/_guidePreview.html" %}
             {% endfor %}
             <nav class="fixed-width pagination">
@@ -124,7 +124,7 @@
                     "@id": "https://nicolasbouliane.com"
                 },
                 "reviewedBy": [
-                    {% for review in reviews %}
+                    {% for review in entry.related_reviews|default([]) %}
                         {% set reviewer = review.reviewer.one() %}
                         {
                             "@context": "https://schema.org/",

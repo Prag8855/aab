@@ -24,7 +24,7 @@
 
 	{% include '/js/events.js' %}
 </head>
-<body class="{% if pagePath == '/' %}homepage{% endif %} {{ bodyClass|default('') }}">
+<body class="{{ body_class|default('') }}">
 {% block body %}
 	<header id="main-nav" class="fixed-width" role="banner" aria-label="Main menu">
 		<a class="logo" href="{{ site_url }}" rel="home" title="All About Berlin">
