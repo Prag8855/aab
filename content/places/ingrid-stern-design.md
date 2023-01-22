@@ -1,0 +1,9 @@
+---
+Name: Ingrid Stern Design
+Description: 
+Website: http://ingridstern.com/
+Email: 
+Address: Heinrich-Roller-Straße 10
+Latitude: 52.5297
+Longitude: 13.42455
+---

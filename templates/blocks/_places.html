@@ -8,12 +8,12 @@
 			<div class="title">
 				<h4>
 					{% if place.website %}
-						<a title="Website of {{ place.title }}" target="_blank" href="{{ place.website }}" target="_blank" position="{{ loop.index }}">{{ place.title }}</a>
+						<a title="Website of {{ place.name }}" target="_blank" href="{{ place.website }}" target="_blank" position="{{ loop.index }}">{{ place.name }}</a>
 					{% else %}
-						{{ place.title }}
+						{{ place.name }}
 					{% endif %}
 				</h4>
-				<address><a href="https://www.google.com/maps/search/{{ place.title|urlencode }}/@{{ place.latitude }},{{ place.longitude }}" target="_blank" title="View on Google Maps">{{ place.address }}</a></address>
+				<address><a href="https://www.google.com/maps/search/{{ place.name|urlencode }}/@{{ place.latitude }},{{ place.longitude }}" target="_blank" title="View on Google Maps">{{ place.address }}</a></address>
 			</div>
 			<p>{{ place.description }}</p>
 		</li>
@@ -37,7 +37,7 @@ function initMap() {
 		markers.push(new google.maps.Marker({
 			position: {lat: {{ place.latitude }}, lng: {{ place.longitude }} },
 			map: googleMap,
-			title: "{{ place.title }}",
+			title: "{{ place.name }}",
 			label: "{{ loop.index }}"
 		}));
 	{% endfor %}
