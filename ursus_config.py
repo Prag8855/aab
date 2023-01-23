@@ -33,10 +33,10 @@ config = {
     'generators': [
         (
             'ursus.generators.static.StaticSiteGenerator', {
-                'file_context_processors': [
+                'entry_context_processors': [
                     'ursus.context_processors.markdown.MarkdownProcessor',
                 ],
-                'context_processors': [
+                'global_context_processors': [
                     'ursus.context_processors.index.IndexProcessor',
                     'ursus.context_processors.related.RelatedEntriesProcessor',
                 ],
