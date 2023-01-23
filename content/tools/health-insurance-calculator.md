@@ -13,7 +13,7 @@ Health insurance is part of your salary deductions. Use my [income tax calculato
 
 If you need more help, you can read my German health insurance guides, or talk to a health insurance broker.
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)
+**[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
 **[Health insurance for your German visa application ➞](/guides/german-visa-health-insurance)**
 
