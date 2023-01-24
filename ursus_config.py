@@ -30,92 +30,70 @@ minimum_wage = 12
 site_url = 'https://localhost'
 
 config = {
-    'generators': [
-        (
-            'ursus.generators.static.StaticSiteGenerator', {
-                'entry_context_processors': [
-                    'ursus.context_processors.markdown.MarkdownProcessor',
-                ],
-                'global_context_processors': [
-                    'ursus.context_processors.index.IndexProcessor',
-                    'ursus.context_processors.related.RelatedEntriesProcessor',
-                ],
-                'renderers': [
-                    'ursus.renderers.image.ImageTransformRenderer',
-                    'ursus.renderers.static.StaticAssetRenderer',
-                    'ursus.renderers.jinja.JinjaRenderer',
-                ],
-                'content_path': Path(__file__).parent / 'content',
-                'templates_path': Path(__file__).parent / 'templates',
-                'output_path': Path(__file__).parent / 'output',
+    'site_url': site_url,
+    'content_path': Path(__file__).parent / 'content',
+    'templates_path': Path(__file__).parent / 'templates',
+    'output_path': Path(__file__).parent / 'output',
+    'html_url_extension': '',
 
-                'image_transforms': {
-                    '': {
-                        'exclude': ('experts/photos/*', ),
-                        'max_size': (int(800 * 2), int(800 * 2 * 1.5)),
-                        'output_types': ('original', 'webp'),
-                    },
-                    'content1.5x': {
-                        'include': ('images/*', 'illustrations/*'),
-                        'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (int(800 * 1.5), int(800 * 1.5 * 1.5)),
-                        'output_types': ('original', 'webp'),
-                    },
-                    'content1x': {
-                        'include': ('images/*', 'illustrations/*'),
-                        'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (800, int(800 * 1.5)),
-                        'output_types': ('original', 'webp'),
-                    },
-                    'content0.75x': {
-                        'include': ('images/*', 'illustrations/*'),
-                        'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (int(800 * 0.75), int(800 * 0.75 * 1.5)),
-                        'output_types': ('original', 'webp'),
-                    },
-                    'content0.5x': {
-                        'include': ('images/*', 'illustrations/*'),
-                        'exclude': ('*.pdf', '*.svg'),
-                        'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
-                        'output_types': ('original', 'webp'),
-                    },
-                    'bio2x': {
-                        'include': 'experts/photos/*',
-                        'max_size': (150, 150),
-                    },
-                    'bio1x': {
-                        'include': 'experts/photos/*',
-                        'max_size': (75, 75),
-                    },
-                    'previews': {
-                        'include': 'documents/*',
-                        'max_size': (300, 500),
-                        'output_types': ('webp', 'png'),
-                    },
-                    'previews2x': {
-                        'include': 'documents/*',
-                        'max_size': (600, 1000),
-                        'output_types': ('webp', 'png'),
-                    },
-                },
-
-                'site_url': site_url,
-                'wikilinks_base_url': '/glossary',
-                'html_url_extension': '',
-                'jinja_filters': {
-                    'number': to_number,
-                    'num': to_number,
-                    'currency': to_currency,
-                    'cur': to_currency,
-                }
-            }
-        ),
-    ],
-    'logging': {
-        'datefmt': '%H:%M:%S',
-        'fmt': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
-        'level': logging.INFO,
+    'image_transforms': {
+        '': {
+            'exclude': ('experts/photos/*', ),
+            'max_size': (int(800 * 2), int(800 * 2 * 1.5)),
+            'output_types': ('original', 'webp'),
+        },
+        'content1.5x': {
+            'include': ('images/*', 'illustrations/*'),
+            'exclude': ('*.pdf', '*.svg'),
+            'max_size': (int(800 * 1.5), int(800 * 1.5 * 1.5)),
+            'output_types': ('original', 'webp'),
+        },
+        'content1x': {
+            'include': ('images/*', 'illustrations/*'),
+            'exclude': ('*.pdf', '*.svg'),
+            'max_size': (800, int(800 * 1.5)),
+            'output_types': ('original', 'webp'),
+        },
+        'content0.75x': {
+            'include': ('images/*', 'illustrations/*'),
+            'exclude': ('*.pdf', '*.svg'),
+            'max_size': (int(800 * 0.75), int(800 * 0.75 * 1.5)),
+            'output_types': ('original', 'webp'),
+        },
+        'content0.5x': {
+            'include': ('images/*', 'illustrations/*'),
+            'exclude': ('*.pdf', '*.svg'),
+            'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
+            'output_types': ('original', 'webp'),
+        },
+        'bio2x': {
+            'include': 'experts/photos/*',
+            'max_size': (150, 150),
+        },
+        'bio1x': {
+            'include': 'experts/photos/*',
+            'max_size': (75, 75),
+        },
+        'previews': {
+            'include': 'documents/*',
+            'max_size': (300, 500),
+            'output_types': ('webp', 'png'),
+        },
+        'previews2x': {
+            'include': 'documents/*',
+            'max_size': (600, 1000),
+            'output_types': ('webp', 'png'),
+        },
     },
+
+    'wikilinks_base_url': '/glossary',
+    'jinja_filters': {
+        'number': to_number,
+        'num': to_number,
+        'currency': to_currency,
+        'cur': to_currency,
+    },
+
     'globals': {
         'now': datetime.now(),
         'site_url': site_url,
@@ -346,5 +324,11 @@ config = {
 
         # (€) - service.berlin.de/dienstleistung/121627
         "DRIVING_LICENCE_FEE": 49.80,
+    },
+
+    'logging': {
+        'datefmt': '%H:%M:%S',
+        'fmt': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
+        'level': logging.INFO,
     },
 }
