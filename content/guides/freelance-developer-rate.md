@@ -70,11 +70,11 @@ The cost of living in Berlin can be different from what you are used to. You cou
 
 "**500€ a day is really low**. It's on the border of not being worth the hassle of being a freelancer and just accept a full time position. Of course it depends on the person, so assuming an experienced software developer. For me **ideally 600-800€ depending if there's remote options**, part time, or it is 100% on site. **500€ a day would be ok for me if it had full remote possibilities and it was an amazing project**, otherwise too low and would not take it." - [/u/acid2do](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e79gwlp/), October 2018
 
-"**I was just offered up to 1200€ per day** (~250k) for a freelance consultant position with the requirement of strong knowledge of AWS. And I live here in Berlin." - [/u/forsgren123](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e77fefk/), October 2018
+"**I was just offered up to 1,200€ per day** (~250,000€) for a freelance consultant position with the requirement of strong knowledge of AWS. And I live here in Berlin." - [/u/forsgren123](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e77fefk/), October 2018
 
 "If you're a contractor with experience and clean reputation, **you can easily get 6 month contracts for 500€ brutto per day**." - [/u/GuyWithLag](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e76msde/), October 2018
 
-"Never talk about hourly rates, thats not the kind of work you want, talk about day rates and discounts for taking 20 day packages. Whether your day rate is 350 or 1200€ depends a lot of what exactly you are doing. **I pay designers 350-550€ and devs 450-1200€ per day**." - Anonymous, September 2018
+"Never talk about hourly rates, thats not the kind of work you want, talk about day rates and discounts for taking 20 day packages. Whether your day rate is 350 or 1,200€ depends a lot of what exactly you are doing. **I pay designers 350-550€ and devs 450-1,200€ per day**." - Anonymous, September 2018
 
 "I guess **500€ per day would be a middle ground** [for contractors]" - Anonymous, September 2018
 

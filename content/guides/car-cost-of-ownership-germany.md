@@ -11,7 +11,7 @@ These are the thing you must pay when you drive a car in Germany. If you are thi
 
 ## Car insurance
 
-If you drive a car, it must be insured. The cost of insurance depends on the type of car, the value of the car, your driving experience, and many other things. In general, you will pay **100€ to 1000€ per year**. There are many [ways to pay less for car insurance](/guides/car-insurance-germany#how-to-pay-less-for-german-car-insurance). Car insurance payments come directly from your bank account.
+If you drive a car, it must be insured. The cost of insurance depends on the type of car, the value of the car, your driving experience, and many other things. In general, you will pay **100€ to 1,000€ per year**. There are many [ways to pay less for car insurance](/guides/car-insurance-germany#how-to-pay-less-for-german-car-insurance). Car insurance payments come directly from your bank account.
 
 - **[How does car insurance work in Germany?](/guides/car-insurance-germany)**
 - [Car insurance comparator (in German)](/out/verivox-kfz) - Verivox

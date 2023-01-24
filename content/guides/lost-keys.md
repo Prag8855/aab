@@ -42,7 +42,7 @@ If you lost a key, your landlord can *sometimes* charge you to change the locks 
 
 Your rent contract can't force you to pay to replace the locks. That clause would be invalid.[^8]
 
-Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance that covers lost keys, and they speak English.
+Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1,000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance that covers lost keys, and they speak English.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 

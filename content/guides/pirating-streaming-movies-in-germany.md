@@ -7,13 +7,13 @@ Date_updated: 2022-09-25
 
 *This guide is written information purposes only. I do not condone piracy. I encourage you to pay for the media you consume.*
 
-Downloading movies in Germany [is risky](http://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1000€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
+Downloading movies in Germany [is risky](http://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1,000€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## How is piracy prosecuted in Germany?
 
-When you torrent movies, your IP address is visible to others. Some law firms monitor torrents of famous movies, and collect the IP addresses of people who download them. If they see your IP address, they can ask your ISP to give them your real address. They can send you an *[[Abmahnung]]*: a formal request to **pay them between 500€ and 1500€.**
+When you torrent movies, your IP address is visible to others. Some law firms monitor torrents of famous movies, and collect the IP addresses of people who download them. If they see your IP address, they can ask your ISP to give them your real address. They can send you an *[[Abmahnung]]*: a formal request to **pay them between 500€ and 1,500€.**
 
 If you don't want to pay, you can hire a lawyer who will get your fee reduced to 100-300€. You must till pay the fine *and* your lawyer. In any case, it will be expensive for you. It's better if you don't get caught.
 

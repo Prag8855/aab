@@ -76,7 +76,7 @@ Everything else goes to the [Zentrales Fundbüro](https://goo.gl/maps/AjDeA1Jy82
 If you find something in Germany, you have the right to ask for a reward.[^1] The reward depends on how much the item is worth.
 
 - **Under 500€**: 5% of the value of the item
-- **Over 500€**: 25€ + 3% of the value of the item over 500€. For example, for a 1200€ item: 25€ + 3% of 700€ = 46€
+- **Over 500€**: 25€ + 3% of the value of the item over 500€. For example, for a 1,200€ item: 25€ + 3% of 700€ = 46€
 - **Animals**: 3% of the value of the animal
 
 For objects found in the train or public transit, the rules are different:

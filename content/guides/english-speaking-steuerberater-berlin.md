@@ -20,7 +20,7 @@ Should you hire a tax advisor (*[[Steuerberater]]*) or a bookkeeper (*[[Buchhalt
 
 ## How much does a Steuerberater cost?
 
-**If you are an employee**, it depends on your income. You will pay 300€ to 1000€ for a tax declaration. The prices vary a lot. The best way to know is to call and ask them how much they charge. Use [this calculator](https://www.steuerschroeder.de/Steuerberatergebuehren.html) to estimate the costs.
+**If you are an employee**, it depends on your income. You will pay 300€ to 1,000€ for a tax declaration. The prices vary a lot. The best way to know is to call and ask them how much they charge. Use [this calculator](https://www.steuerschroeder.de/Steuerberatergebuehren.html) to estimate the costs.
 
 **If you are self-employed**, you must pay more. If you don't charge [VAT](/glossary/Umsatzsteuer), you should pay 300€ to 800€ per year. If you charge VAT, you should pay 700€ to 2,000€ per year. *Steuerberater* costs are tax-deductible. The prices vary a lot. The best way to know is to call and ask.
 

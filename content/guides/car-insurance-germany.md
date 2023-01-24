@@ -76,7 +76,7 @@ If you sell the vehicle, you can end the insurance immediately.[^17]
 
 ### Choose a higher deductible
 
-The deductible (*[[Selbstbeteiligung]]*) is the amount you pay yourself, before your insurance helps you. For example, if you have a 300€ deductible, and you cause 2500€ in damages, you will pay 300€, and your insurance will pay the remaining 2200€.
+The deductible (*[[Selbstbeteiligung]]*) is the amount you pay yourself, before your insurance helps you. For example, if you have a 300€ deductible, and you cause 2,500€ in damages, you will pay 300€, and your insurance will pay the remaining 2,200€.
 
 If you choose a higher deductible, your car insurance will be cheaper.[^4] [Finanztip](https://www.finanztip.de/kfz-versicherung/tarifmerkmale/) recommends a 150€ to 300€ deductible. This would make your car insurance 18% to 25% cheaper.[^4]
 

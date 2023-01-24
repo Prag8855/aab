@@ -14,7 +14,7 @@ You get *ALG I* when you lose your job. You only get *ALG 1* if you have paid un
 
 Most employees must pay for [unemployment insurance](/glossary/Arbeitslosenversicherung). If you are self-employed, unemployment insurance is optional.[^2] This means that most unemployed people can't get *ALG I*.
 
- *ALG I* pays 60% to 67% of your previous salary, up to ~2000€ per month.[^3] It also pays for your [health insurance](/glossary/Krankenversicherung).
+ *ALG I* pays 60% to 67% of your previous salary, up to ~2,000€ per month.[^3] It also pays for your [health insurance](/glossary/Krankenversicherung).
 
 [^0]: [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [redtapetranslation.com](https://www.redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
 [^1]: [redtapetranslation.com](https://www.redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
