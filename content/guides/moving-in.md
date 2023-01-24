@@ -49,7 +49,7 @@ After you sign the lease, you will meet with the landlord to...
 
 You must pay the deposit (*[[Kaution]]*) before your lease starts. You don't have to pay immediately after you sign the lease.
 
-You can pay the deposit in 3 instalments. If you don't have enough money, there are [other options](/guides/mietkaution#what-if-i-dont-have-enough-money).
+You can pay the deposit in 3 instalments. If you don't have enough money, there are [other options](/guides/mietkaution#if-you-dont-have-enough-money).
 
 **[How the apartment deposit works ➞](/guides/mietkaution)**
 
