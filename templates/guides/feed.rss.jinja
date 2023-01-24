@@ -9,13 +9,13 @@
     <pubDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
     <lastBuildDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</lastBuildDate>
 
-    {% for entry_uri, entry in entries.guides.items() %}
+    {% for entry in get_entries('guides', sort_by='date_created', reverse=True) %}
       <item>
         <title>{{ entry.title }}</title>
         <link>{{ entry.url }}</link>
         <pubDate>{{ entry.date_created.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
         <author>Nicolas Bouliane</author>
-        <guid>{{ entry_uri }}</guid>
+        <guid>{{ entry.url }}</guid>
         <description>
           <![CDATA[{{ entry.description }}]]>
         </description>

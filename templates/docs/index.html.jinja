@@ -18,7 +18,7 @@
 {% endblock %}
 
 {% block content %}
-	{% for document in entries.docs.values() %}
+	{% for document in get_entries('docs', sort_by='german_term') %}
 		<div class="document">
 			<h2>
 				<a title="{{ document.german_term }}" rel="bookmark" href="{{ document.url }}">{{ document.german_term }}</a>

@@ -19,13 +19,13 @@
 		{% endwith %}
 	</header>
 	<section class="section transparent fixed-width" aria-label="Guide collections">
-		{% with currentEntry=null, collections=entries.collections %}
+		{% with currentEntry=null, collections=get_entries('collections') %}
 			{% include "blocks/_collections.html" %}
 		{% endwith %}
 	</section>
 	<section class="section fixed-width" aria-label="Newest guides">
 		<h2>Newest guides</h2>
-		{% for entry in entries.guides.values() %}
+		{% for entry in get_entries('guides', sort_by='date_created', reverse=True)[0:10] %}
 			{% with showDatePosted=true %}
 			    {% include "blocks/_guidePreview.html" %}
 			{% endwith %}
@@ -33,7 +33,7 @@
 	</section>
 	<section class="section fixed-width" aria-label="Recently updated guides">
 		<h2>Recent updates</h2>
-		{% for entry in entries.guides.values() %}
+		{% for entry in get_entries('guides', sort_by='date_updated', reverse=True)[0:10] %}
 			{% with showDateUpdated=true %}
 				{% include "blocks/_guidePreview.html" %}
 			{% endwith %}

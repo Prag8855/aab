@@ -1,5 +1,6 @@
 ---
 Title: German income tax calculator
+Short_title: Income tax calculator
 Description: This tool calculates your Netto salary, after income tax, health insurance, pension insurance and other deductions.
 Date_created: 2022-01-20
 Date_updated: 2022-09-06

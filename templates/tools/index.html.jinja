@@ -17,7 +17,7 @@
 {% endblock %}
 
 {% block content %}
-    {% for tool in entries.tools.values() %}
+    {% for tool in get_entries('tools', sort_by=('short_title', 'title')) %}
         <div class="document">
             <h2>
                 <a title="{{ tool.title }}" rel="bookmark" href="{{ tool.url }}">{{ tool.short_title|default(tool.title) }}</a>

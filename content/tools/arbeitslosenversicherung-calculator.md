@@ -1,5 +1,6 @@
 ---
 Title: German unemployment insurance calculator
+Short_title: Unemployment insurance calculator
 Description: This calculator shows you how much you pay for Arbeitslosenversicherung in Germany.
 Date_created: 2022-02-14
 Date_updated: 2022-08-26

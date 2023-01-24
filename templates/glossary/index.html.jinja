@@ -31,7 +31,7 @@
 		</nav>
 	</div>
 	<nav class="glossary-links">
-		{% for entry in entries.glossary.values() %}
+		{% for entry in get_entries('glossary', sort_by='german_term') %}
 			<a title="Definition of {{ entry.german_term }}" rel="tag" href="{{ entry.url }}">{{ entry.german_term }}</a>
 		{% endfor %}
 	</dl>

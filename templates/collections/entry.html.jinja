@@ -15,7 +15,7 @@
         </header>
         <div class="section fixed-width" role="list" aria-label="Guides in this collection"> 
             {% with showDateUpdated=true %}
-                {% for guide in entry.related_guides %}
+                {% for guide in entry.related_guides|default([]) %}
                     {% with entry=guide %}
                         {% include "blocks/_guidePreview.html" %}
                     {% endwith %}

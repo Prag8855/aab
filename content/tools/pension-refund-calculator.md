@@ -1,5 +1,6 @@
 ---
 Title: German pension refund calculator
+Short_title: Pension refund calculator
 Description: This calculator shows you if you can get a German pension refund, and how much you can get back.
 Date_created: 2022-02-12
 Date_updated: 2022-08-26
