@@ -15,7 +15,7 @@ The 10-Uhr-Karte is valid on all buses, trams and trains in Berlin, just like ot
 
 ## When can I use the 10-Uhr-Karte?
 
-From **10 AM to 3 AM on weekdays**, and at any time during the weekend or public holidays.
+From **10AM to 3AM on weekdays**, and at any time during the weekend or public holidays.
 
 ## Can I bring a bicycle with the 10-Uhr-Karte?
 

@@ -40,11 +40,11 @@ If you already have an AB ticket, and you want to go to zone C, get an [extentio
 There are cheaper tickets for certain situations:
 
 - **Bring a friend for free**  
-    If you have a weekly, monthly or yearly ticket, you can [bring a friend for free](/guides/public-transit#bring-other-people-for-free) in the evening, during the weekend, and on public holidays. The *9-Uhr-Karte* and the *10-Uhr-Karte* don't let you bring a friend.
+    Most weekly, monthly or yearly ticket let you [bring a friend for free](#bring-other-people-for-free) during certain times.
 - **Short distances**  
-    If you travel less than 4 train stops, or less than 7 bus or tram stops, you can get a [short distance (*Kurzstrecke*) ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/). It's cheaper than the regular ticket.
+    If you travel less than 4 train stops, or less than 7 bus or tram stops, get a [short distance (*Kurzstrecke*) ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/). It's cheaper.
 - **Children**  
-    If your child is between 6 and 14 years old, they need a reduced price (*Ermäßigungstarif*) ticket. Children under 6 years old ride for free.[^0]
+    Children under 6 years old travel for free. Children under 15 years old need a reduced price (*Ermäßigungstarif*) ticket. [Most tickets](#bring-other-people-for-free) let you bring children under 15 years old for free.
 - **Students and [apprentices](/glossary/Azubi)**  
     Students and [apprentices](/glossary/Azubi) can get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/) (*Schülerticket* or *Ausbildungsticket*). You can apply for it [here](https://www.abo-antrag.de/de/) or [here](https://1.bvg.de/schuelerticket) (in German).
 - **Senior citizens** Senior citizens pay the regular price for tickets. If you are over 64 years old, you can get, but there a cheaper yearly subscription: the [VBB-Abo 65plus](https://www.vbb.de/tickets/abonnements/vbb-abo-65plus/).
@@ -206,13 +206,17 @@ Normally, you must buy a reduced tariff ticket for your dog, but there are excep
 
 ## Bring other people for free
 
-**If you have a weekly, monthly or yearly ticket**, you can also bring a friend for free during certain times:
+**All tickets** let you bring children under 6 years old for free.
+
+**Most weekly, monthly and yearly tickets** let you bring children under 15 years old for free. This excludes the student ticket (*Schülerticket*), the FlexTicket, the 10AM card (*10-Uhr-Karte*), and the 65 Plus ticket.[^12]
+
+**Most weekly, monthly and yearly tickets**, let you bring other people for free during certain times:[^13]
 
 - Monday to Friday from 8PM to 3AM the next day.
 - Saturday and Sunday
 - On [public holidays](/guides/public-holidays)
 
-**Children** under 6 years old can always travel for free.
+This excludes the student ticket (*Schülerticket*), the FlexTicket, the 10AM card (*10-Uhr-Karte*), and the 65 Plus ticket.[^12]
 
 [^0]: [sbahn.berlin](https://sbahn.berlin/en/tickets/the-vbb-fare-explained/passenger-regulations/?acc=a7133-t1)
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
@@ -226,3 +230,5 @@ Normally, you must buy a reduced tariff ticket for your dog, but there are excep
 [^9]: [bvg.de](https://www.bvg.de/de/Service/Service-fuer-unterwegs/Fahrrad)
 [^10]: [berlin.de](https://www.berlin.de/tourismus/fahrradtouren/2012604-1740418-mit-dem-fahrrad-s-und-ubahn-nutzen.html)
 [^11]: [bvg.de](https://www.bvg.de/de/Tickets/Tarifinformationen), [vbb.de](https://www.vbb.de/fahrpreise/mitnehmen-kinder-fahrrad-hund), [bvg.de](https://www.bvg.de/de/tickets-und-tarife/alle-abos/schuelerticket-berlin)
+[^12]: [Students and apprentices](https://sbahn.berlin/en/tickets/all-tickets/school-students-apprentice-students/monthly-subscription-ticket-for-apprentices/school-students/?tabs=tbc-tfeatures), [10-Uhr-Karte](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/10am-ticket/?tabs=tbc-tfeatures), [short trip ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/), [FlexTicket](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-flexticket/?tabs=tbc-tfeatures)
+[^13]: [Weekly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/7-day-ticket/?tabs=tbc-tfeatures) and [monthly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-umweltkarte/?tabs=tbc-tfeatures) tickets
