@@ -86,7 +86,7 @@ config = {
         },
     },
 
-    'wikilinks_base_url': '/glossary',
+    'wikilinks_base_url': '{site_url}/glossary',
     'jinja_filters': {
         'number': to_number,
         'num': to_number,
