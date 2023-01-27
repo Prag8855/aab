@@ -2,6 +2,12 @@
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
 {% set related_collections = [] %}
+{% for collection in get_entries('collections') %}
+    {% if entry in collection.related_guides %}
+    	{% do related_collections.append(collection) %}
+    {% endif %}
+{% endfor %}
+{{ server_ip|join(',') }}
 {% set reviews = entry.related_reviews|default([]) %}
 
 {% block postHead %}
@@ -81,7 +87,7 @@
 	</aside>
 	{% if related_collections %}
 		<aside id="related" class="section fixed-width transparent" aria-label="Collections that include this guide">
-			{% with collections=entry.related_collections, currentEntry=entry %}
+			{% with collections=related_collections, currentEntry=entry %}
 				{% include "blocks/_collections.html" %}
 			{% endwith %}
 		</aside>

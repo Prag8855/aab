@@ -1,11 +1,11 @@
 {% if collections|length %}
 	<nav class="collections">
-		{% for collection in get_entries('collections') %}
+		{% for collection in collections %}
 			<div class="collection">
 				<h3><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
 				<ol>
 					{% for guide in collection.related_guides %}
-						{% if currentEntry|default and guide.url == currentEntry.url %}
+						{% if currentEntry|default and currentEntry == guide %}
 							<li class="current">
 								{{ guide.short_title|default(guide.title) }}
 							</li>
