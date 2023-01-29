@@ -311,7 +311,7 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 	#footnotes summary{cursor:pointer;}
 	#footnotes ol{column-count:2;column-gap:var(--spacing-l);column-rule:var(--border-page);font-size:var(--font-size-s);line-height:var(--line-height-compact);}
 		#footnotes li{list-style:none;margin-left:0;display:flex;counter-increment:footnotes 1}
-			#footnotes li:before{content:counter(footnotes) ".";margin-right:var(--spacing-s);width:2.5ch;}
+			#footnotes li:before{content:counter(footnotes) ".";margin-right:var(--spacing-s);width:2.5ch;flex:0 0 auto}
 			#footnotes li:first-child{margin-top:0}
 			#footnotes li:last-child{margin-bottom:0}
 			#footnotes li p:first-child{margin-top:0}
