@@ -231,7 +231,7 @@ You must tell everyone about your new address. When you register your address, t
 
 When you register your address, the *Bürgeramt* tells the *[[ARD ZDF Deutschlandradio Beitragsservice]]*. They will collect the [TV tax](/glossary/Rundfunkbeitrag) at your new address.
 
-**[What is the TV tax? ➞](/guides/gez-rundfunkbeitrag)
+**[What is the TV tax? ➞](/guides/gez-rundfunkbeitrag)**
 
 You should get [liability insurance](/glossary/Haftpflichtversicherung) for your new apartment. It's not required, but it is a *really* good idea. Most Germans have it.
 
@@ -239,7 +239,7 @@ You should get [liability insurance](/glossary/Haftpflichtversicherung) for your
 
 If you just moved to Berlin, I have more advice for you.
 
-**[How to move to Berlin ➞](/guides/moving-to-berlin)
+**[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
 [^0]: [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_89919590/steuer-id-fuer-mein-kind-wo-finde-ich-sie-.html)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/i8y3k5/question_about_booking_anmeldung_in_advance/g1vx9y7/)

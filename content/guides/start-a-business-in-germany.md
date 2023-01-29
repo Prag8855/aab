@@ -49,7 +49,7 @@ This is for sole proprietors and partnerships. Corporations and limited liabilit
 
 If your business is registered as a *[[Gewerbe]]*, you must pay the trade tax (*[[Gewerbesteuer]]*). This is a tax on all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG}}€. You can credit most of it from your [income tax](/glossary/Einkommensteuer). In Berlin, you pay 1.05% more taxes on your profit with the trade tax. In other German cities, you pay 0% to 3% of your profit.
 
-**[What is the trade tax? ➞](/guides/gewerbesteuer)
+**[What is the trade tax? ➞](/guides/gewerbesteuer)**
 
 ### Health insurance
 

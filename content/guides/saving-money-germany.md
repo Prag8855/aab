@@ -63,7 +63,7 @@ If you are a freelance artist, publicist or art teacher, the *[[Künstlersozialk
 
 It takes time to get accepted, but it's really worth it.
 
-**[How to join the KSK ➞](/guides/ksk-kuenstlersozialkasse)
+**[How to join the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
 ## Lower your rent
 

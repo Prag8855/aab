@@ -238,7 +238,7 @@ Download [the application form](/out/ksk-application-form) and fill it. This tak
 
 The application form is in German. The instructions are at the end of the form. [These English instructions](https://www.settle-in-berlin.com/wp-content/uploads/2021/01/ZineFGRG_KSK_Desktop.pdf) can help.
 
-**[KSK application form ➞](/out/ksk-application-form)
+**[KSK application form ➞](/out/ksk-application-form)**
 
 [**Form instructions**](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Allg._Infos_u._Anmeldeunterlagen/Ausfuellhinweise.pdf) (in German)
 

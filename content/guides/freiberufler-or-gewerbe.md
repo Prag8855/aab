@@ -42,7 +42,7 @@ Compared to freelancers, businesses have a few special obligations:
 - They must apply for a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*).
 - They must use double entry bookkeeping.
 
-**[What is the trade tax (*Gewerbesteuer*)? ➞](/guides/gewerbesteuer)
+**[What is the trade tax (*Gewerbesteuer*)? ➞](/guides/gewerbesteuer)**
 
 **[Is a website a Gewerbe? ➞](/guides/website-freiberuf-or-gewerbe)**
 

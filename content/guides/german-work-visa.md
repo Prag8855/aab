@@ -252,7 +252,7 @@ In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^2
 
 If your current visa expires soon, there are ways to stay in Germany until you get your freelance visa.
 
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)
+**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
 
 ### Step 9: Gather the required documents
 

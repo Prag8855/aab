@@ -275,7 +275,7 @@ The [*Künstlersozialkasse*](/glossary/K%C3%BCnstlersozialkasse) (KSK) is a soci
 
 If you can, you should apply for the *Künstlersozialkasse*. It's a really good deal.
 
-**[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)
+**[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
 ## Need help?
 
