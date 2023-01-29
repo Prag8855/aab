@@ -1,6 +1,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from ursus.renderers import Renderer
+import hashlib
 import logging
 
 
@@ -92,6 +93,9 @@ class EntryImageRenderer(Renderer):
     def get_image_text(self, entry: dict) -> str:
         return entry.get('short_title') or entry.get('title')
 
+    def get_hash(self, entry: dict):
+        return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
+
     def render(self, context, changed_files=None, fast=False):
         for entry_uri, entry in context['entries'].items():
             if not self.get_image_text(entry):
@@ -106,13 +110,15 @@ class EntryImageRenderer(Renderer):
                 if image_path.exists():
                     existing_image = Image.open(image_path)
                     exif = existing_image.getexif()
-                    needs_rerender = exif.get(exif_description_field) != self.get_image_text(entry)
+                    needs_rerender = exif.get(exif_description_field) != self.get_hash(entry)
 
             if needs_rerender:
                 logger.info(f"Rendering post image {str(image_path.relative_to(self.output_path))}")
                 image = make_cover_image(self.get_image_text(entry), self.templates_path)
+
+                # Unicode strings cause problems, so a simple hash is more reliable
                 exif = image.getexif()
-                exif[exif_description_field] = self.get_image_text(entry)
+                exif[exif_description_field] = self.get_hash(entry)
                 image.save(image_path, optimize=True, quality=90, exif=exif)
             else:
                 image_path.touch()
