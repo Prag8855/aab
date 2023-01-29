@@ -1,0 +1,67 @@
+---
+Title: How to get tested for sexually transmitted diseases in Berlin
+Short_title: How to get tested for HIV and STIs
+Description: This is how you get tested for HIV, herpes, chlamydia and other STDs in Berlin.
+Date_created: 2021-11-25
+Date_updated: 2023-01-29
+---
+
+This guide shows you how to get tested for sexually transmitted diseases (*sexuell übertragbare Infektionen* or *Geschlechtskrankheiten*) in Berlin. In this guide, I use the term "STI" (for Sexually Transmitted Infections).
+
+{% include "blocks/_tableOfContents.html" %}
+
+## How hard is it to get tested
+
+**It's easy**. There are many ways to get tested. Some need an appointment, and some don't.
+
+## Where to get tested in Berlin
+
+- **At any medical clinic**  
+    Medical clinics can test for HIV and other STIs. You can ask your general practitioner ([*Hausarzt*](https://allaboutberlin.com/glossary/Hausarzt)). Urologists and gynaecologists usually offer HIV and STI tests.
+    - **[Dr. Cordes](https://www.drcordes.de/en__es/)** - English, Spanish and German
+    - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)** - English and German
+    - **[Viropraxis](https://www.viropraxis.de/)** - English, Spanish and German
+- **At home**  
+    [s.a.m. health](https://samhealth.de/?locale=en) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs 59€ the first time, then 49€[^0].
+- **[Zentrum für sexuelle Gesundheit](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)** of the Gesundheitsamt - English, German and other languages  
+    HIV tests for 10€. If you have a low income, it's free[^1]. They don't have general STI tests. There are [4 locations in Berlin](https://www.google.com/maps/search/Zentrum+für+sexuelle+Gesundheit/@52.5947073,13.3052094,11z/). They speak English[^2].
+- **[Berlin Aids-Hilfe](https://www.berlin-aidshilfe.de/angebote/test-angebote/)** - German  
+    General STI test for 25€.
+- **[Mann-o-meter](https://www.mann-o-meter.de/angebote/tests-auf-hiv-und-andere-stis)** - German   
+    HIV and other STI tests for LGBTQ+ people. Complete test for 15€.
+
+## How much does a test cost?
+
+If the test is not covered by your health insurance, it costs **between 10€ and 60€**. If you have a low income, you can get tested for free at the *[Gesundheitsamt](https://service.berlin.de/dienstleistung/325457/)*.
+
+### Does German health insurance cover STI tests?
+
+**Sometimes**. If you have symptoms, the test is usually covered. Routine tests are rarely covered.
+
+- **If you have public health insurance**  
+    Public health insurance only pays for the test if you have symptoms, or a good reason to think you are infected[^3]. It does not pay for routine tests. Women under 26 years old can get one free Chlamydia test per year[^4].
+- **If you have private health insurance**  
+    Some private health insurances pay for STI tests. You pay for the test yourself, and your insurance sometimes reimburse you. It depends on the insurance policy. Ask your private health insurer.
+- **If you have travel or expat insurance**  
+    STI tests are almost never covered. Some insurances like April and aLC include a 300€ per year budget for tests and checkups.
+
+## How does the test work?
+
+There are different types of STIs, and different tests for them.
+
+## Where to get help
+
+- **Counselling Center for Sexual Health** - Gesundheitsamt  
+    Free counselling in many languages.
+
+
+
+[^0]: [samhealth.de](https://samhealth.de/en/about/pricing-hiv-sti-test)
+
+[^1]: [spiegel.de](https://www.spiegel.de/gesundheit/sex/geschlechtskrankheiten-tests-muessen-endlich-von-der-krankenkasse-uebernommen-werden-a-a2a415dc-b5d5-42bf-a0b1-12f944ee1758), [berlin.de](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/gesundheitsamt/zentrum-fuer-sexuelle-gesundheit-und-familienplanung/artikel.833280.php)
+
+[^2]: [berlin.de](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)
+
+[^3]: [spiegel.de](https://www.spiegel.de/gesundheit/sex/geschlechtskrankheiten-tests-muessen-endlich-von-der-krankenkasse-uebernommen-werden-a-a2a415dc-b5d5-42bf-a0b1-12f944ee1758)
+
+[^4]: [limbachgruppe.com](https://www.limbachgruppe.com/fileadmin/downloads/Patientenflyer/EinfachGesund/Geschlechtskrankheiten.pdf)
