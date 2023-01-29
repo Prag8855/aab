@@ -311,6 +311,8 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 	.footnote p:first-child{margin-top:0}
 	.footnote p:last-child{margin-bottom:0}
 
+	.footnote :target, sup:target{animation:highlight 1.5s ease 0s 1 alternate !important}
+
 .fixed-width {margin:0 auto;box-sizing:border-box;width:100%;padding:0 var(--spacing-page-borders);max-width:var(--max-width-column);border-top:1px solid transparent;border-bottom:1px solid transparent}
 	.with-sidebar .fixed-width{max-width:var(--max-width-page)}
 	.with-sidebar main .fixed-width{max-width:var(--max-width-column)}
