@@ -1,15 +1,12 @@
 from datetime import datetime
 from flask import Flask
 from flask import json
-from flask import request, Response
+from flask import request
 from flask_sqlalchemy import SQLAlchemy
-from images import make_cover_image
-from io import BytesIO
 from sqlalchemy import create_engine
 from sqlalchemy_utils import create_database, database_exists
 from typing import List
 from werkzeug.exceptions import HTTPException, BadRequest, NotFound
-from werkzeug.wsgi import FileWrapper
 import config
 import logging
 import os
@@ -211,17 +208,6 @@ def send_form(form_type):
     )
 
     return {'status': 'success'}
-
-
-@app.route("/images/cover.png", methods=['GET'])
-def generate_cover_image():
-    text = request.args.get('text', default='', type=str)
-    if not text:
-        raise BadRequest('Missing `text` querystring argument')
-    tmp_file = BytesIO()
-    make_cover_image(text).save(tmp_file, 'PNG')
-    tmp_file.seek(0)
-    return Response(FileWrapper(tmp_file), mimetype="image/png", direct_passthrough=True)
 
 
 db.create_all()

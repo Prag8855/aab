@@ -1,4 +1,13 @@
+from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
+from ursus.renderers import Renderer
+import logging
+
+
+logger = logging.getLogger(__name__)
+
+
+exif_description_field = 0x9286
 
 
 def wrap_text(text: str, font, max_width: int):
@@ -29,7 +38,7 @@ def text_width(text: str, font):
     return max(font.getmask(line).getbox()[2] for line in text.split('\n'))
 
 
-def make_cover_image(text: str) -> Image:
+def make_cover_image(text: str, templates_path: Path) -> Image:
     padding = 50
     line_spacing = 25
     image_size = (1200, 630)
@@ -40,14 +49,14 @@ def make_cover_image(text: str) -> Image:
     imgdraw = ImageDraw.Draw(image)
 
     # Place logo
-    logo = Image.open('assets/logo.png')
+    logo = Image.open(str(templates_path / 'staticimages/logo.png'))
     logo.thumbnail(logo_size)
     image.paste(logo, logo_position)
 
     # Wrap the main text to fit available space
     font_size = 100
     while True:
-        title_font = ImageFont.truetype("assets/libre-franklin.ttf", font_size)
+        title_font = ImageFont.truetype(str(templates_path / 'fonts/librefranklin-400.ttf'), font_size)
         try:
             wrapped_title = wrap_text(text, title_font, image.size[0] - 2 * padding)
         except:
@@ -67,10 +76,43 @@ def make_cover_image(text: str) -> Image:
         font=title_font, fill=(255, 255, 255), spacing=line_spacing
     )
 
-    logo_font = ImageFont.truetype("assets/libre-franklin.ttf", 50)
+    logo_font = ImageFont.truetype(str(templates_path / 'fonts/librefranklin-400.ttf'), 50)
     imgdraw.multiline_text(
         (logo_position[0] + 60, logo_position[1] + 1), "All About Berlin",
         font=logo_font, fill=(255, 255, 255)
     )
 
     return image
+
+
+class EntryImageRenderer(Renderer):
+    """
+    Creates social media images for entries
+    """
+    def get_image_text(self, entry: dict) -> str:
+        return entry.get('short_title') or entry.get('title')
+
+    def render(self, context, changed_files=None, fast=False):
+        for entry_uri, entry in context['entries'].items():
+            if not self.get_image_text(entry):
+                continue
+
+            entry_path = Path(entry_uri)
+            image_path = self.output_path / Path(entry_uri).with_suffix('.webp')
+            needs_rerender = False
+
+            if changed_files is None or (self.content_path / entry_path) in changed_files:
+                needs_rerender = True
+                if image_path.exists():
+                    existing_image = Image.open(image_path)
+                    exif = existing_image.getexif()
+                    needs_rerender = exif.get(exif_description_field) != self.get_image_text(entry)
+
+            if needs_rerender:
+                logger.info(f"Rendering post image {str(image_path.relative_to(self.output_path))}")
+                image = make_cover_image(self.get_image_text(entry), self.templates_path)
+                exif = image.getexif()
+                exif[exif_description_field] = self.get_image_text(entry)
+                image.save(image_path, optimize=True, quality=90, exif=exif)
+            else:
+                image_path.touch()

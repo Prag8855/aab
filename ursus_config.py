@@ -1,4 +1,5 @@
 from datetime import datetime
+from ursus.default_config import config as default_config
 from pathlib import Path
 import logging
 import secrets
@@ -85,6 +86,10 @@ config = {
             'output_types': ('webp', 'png'),
         },
     },
+
+    'renderers': default_config['renderers'] + [
+        'ursus_extras.renderers.entry_images.EntryImageRenderer',
+    ],
 
     'wikilinks_base_url': '{site_url}/glossary',
     'jinja_filters': {
