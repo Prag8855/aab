@@ -6,6 +6,10 @@ Date_created: 2020-01-20
 Date_updated: 2022-04-20
 ---
 
+## Official font for Berlin
+
+**[Berlin Type](https://www.hvdfonts.com/custom-cases/berlin-type)** is the font used on official posters from the city of Berlin. It is free to use.
+
 ## "The German font"
 
 When people talk about "the German font", they're often thinking about Fraktur. While it's often associated with National Socialism, it was declared "ungerman" by Adolf Hitler himself in 1941.[^0] **Tannenberg** was commonly used from 1935 to 1941.
