@@ -2,12 +2,11 @@
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
 {% set related_collections = [] %}
-{% for collection in get_entries('collections') %}
+{% for collection in get_entries('collections', sort_by='order') %}
     {% if entry in collection.related_guides %}
     	{% do related_collections.append(collection) %}
     {% endif %}
 {% endfor %}
-{{ server_ip|join(',') }}
 {% set reviews = entry.related_reviews|default([]) %}
 
 {% block postHead %}
