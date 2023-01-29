@@ -307,9 +307,15 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 
 .footnote-ref{margin-left:2px}
 	.footnote-ref:not(:hover){color:var(--color-text-light)}
-.footnote{font-size:var(--font-size-s);line-height:var(--line-height-compact);}
-	.footnote p:first-child{margin-top:0}
-	.footnote p:last-child{margin-bottom:0}
+#footnotes{margin-top:var(--spacing-text-block-l);padding-top:var(--spacing-text-block-l);border-top:var(--border-page)}
+	#footnotes summary{cursor:pointer;}
+	#footnotes ol{column-count:2;column-gap:var(--spacing-l);column-rule:var(--border-page);font-size:var(--font-size-s);line-height:var(--line-height-compact);}
+		#footnotes li{list-style:none;margin-left:0;display:flex;counter-increment:footnotes 1}
+			#footnotes li:before{content:counter(footnotes) ".";margin-right:var(--spacing-s);width:2.5ch;}
+			#footnotes li:first-child{margin-top:0}
+			#footnotes li:last-child{margin-bottom:0}
+			#footnotes li p:first-child{margin-top:0}
+			#footnotes li p:last-child{margin-bottom:0}
 
 	.footnote :target, sup:target{animation:highlight 1.5s ease 0s 1 alternate !important}
 
@@ -609,6 +615,8 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 
 	.section{border-radius:0}
 		.section.transparent {padding-left:var(--spacing-page-borders);padding-right:var(--spacing-page-borders);}
+
+	#footnotes ol{column-count:1;}
 }
 
 /* Phones */

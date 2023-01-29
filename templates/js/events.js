@@ -51,6 +51,13 @@ window.addEventListener("DOMContentLoaded", function() {
     }
   });
 
+  /* Open footnotes when clicking on a footnote link */
+  document.querySelectorAll('.footnote-ref').forEach(link => {
+    link.addEventListener('click', e => {
+      document.getElementById('footnotes').setAttribute("open", "true"); 
+    });
+  })
+
   /* Mobile sidebar */
   const sidebarTableOfContents = document.querySelector(".sidebar .table-of-contents")
   if(sidebarTableOfContents){
