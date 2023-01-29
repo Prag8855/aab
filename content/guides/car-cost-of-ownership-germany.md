@@ -1,5 +1,6 @@
 ---
 Title: The cost of owning a car in Germany
+Short_title: Cost of owning a car
 Description: An overview of cost of vehicle ownership in Germany. We look at the costs of vehicle insurance, taxes, maintenance, fuel and more.
 Date_created: 2020-10-04
 Date_updated: 2022-05-24

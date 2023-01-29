@@ -1,5 +1,6 @@
 ---
 Title: How to learn German in Berlin
+Short_title: How to learn German
 Description: A list of German schools, language learning apps and other resources to improve your German in Berlin.
 Date_created: 2017-09-30
 Date_updated: 2022-10-21

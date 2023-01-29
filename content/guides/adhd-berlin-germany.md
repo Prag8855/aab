@@ -1,5 +1,6 @@
 ---
 Title: Getting diagnosed with ADHD in Berlin and Germany
+Short_title: How to get diagnosed with ADHD
 Description: A detailed guide to diagnosing and treating adult ADHD in Germany
 Date_created: 2017-12-13
 Date_updated: 2022-12-13

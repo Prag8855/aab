@@ -1,5 +1,6 @@
 ---
 Title: How to take vacations in Germany
+Short_title: How to take vacations
 Description: This guides show you how to take vacation days work in Germany. It explains your rights as an employee.
 Date_created: 2022-07-20
 Date_updated: 2022-09-13

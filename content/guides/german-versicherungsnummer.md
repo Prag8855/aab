@@ -1,5 +1,6 @@
 ---
 Title: How to find your Sozialversicherungsnummer
+Short_title: Your Sozialversicherungsnummer
 Description: Here is how you obtain your Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer or RNVR, the number you must give your employer to get paid.
 Date_created: 2018-03-18
 Date_updated: 2022-08-26

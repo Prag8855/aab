@@ -1,5 +1,6 @@
 ---
 Title: How to trade your foreign driver licence for a German one
+Short_title: How to convert a foreign driving licence
 Description: ​Here is how you can trade a driver licence from another country for a German one.
 Date_created: 2018-02-28
 Date_updated: 2022-09-25

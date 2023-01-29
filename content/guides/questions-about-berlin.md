@@ -1,5 +1,6 @@
 ---
 Title: Where to get help about life in Berlin?
+Short_title: Where to find help
 Description: Where to find support and answers to your question as a new Berliner, whether you speak English or German.
 Date_created: 2017-09-27
 Date_updated: 2022-12-01

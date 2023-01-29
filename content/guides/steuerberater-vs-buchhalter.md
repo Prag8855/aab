@@ -1,5 +1,6 @@
 ---
 Title: Steuerberater or Buchhalter: what's the difference?
+Short_title: Steuerberater or Buchhalter?
 Description: In Germany, there is an important distinction between a Steuerberater (tax advisor) and a Buchhalter (bookkeeper). Picking the right one can save you a lot of money, or bring you a lot of trouble.
 Date_created: 2018-02-19
 Date_updated: 2022-08-03

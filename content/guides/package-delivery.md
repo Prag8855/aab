@@ -1,5 +1,6 @@
 ---
 Title: How to get your DHL, GLS, DPD and Hermes packages
+Short_title: How to get your packages
 Description: Did your package get delivered to a neighbour, or not at all? Is it completely lost? Here's what to do.
 Date_created: 2019-02-05
 Date_updated: 2022-10-05

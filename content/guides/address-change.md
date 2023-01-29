@@ -1,5 +1,6 @@
 ---
 Title: How to change your address in Germany
+Short_title: How to change your address
 Description: When you move into a new apartment, you must change your official address. It's not automatic. ﻿This guide shows you how to do it.
 Date_created: 2022-09-24
 Date_updated: 2022-12-01

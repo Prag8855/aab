@@ -1,5 +1,6 @@
 ---
 Title: How to start a business in Germany
+Short_title: How to start a business
 Description: A detailed guide to all the rules you must follow when starting a business in Germany, from registering as a freelancer to paying your taxes.
 Date_created: 2018-04-03
 Date_updated: 2023-01-03

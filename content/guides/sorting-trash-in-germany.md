@@ -1,5 +1,6 @@
 ---
 Title: How to sort trash and recycle in Germany
+Short_title: How to sort your trash
 Description: This guide shows you how to sort your rubbish and recycle properly in Germany.
 Date_created: 2017-09-08
 Date_updated: 2023-01-18

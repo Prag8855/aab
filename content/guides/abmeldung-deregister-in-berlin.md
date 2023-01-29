@@ -1,5 +1,6 @@
 ---
 Title: The Abmeldung - How to deregister in Berlin
+Short_title: How to deregister your address (Abmeldung)
 Description: If you move out of Germany, you must do your Abmeldung. This guide shows you how to do your Abmeldung in Berlin.
 Date_created: 2018-01-04
 Date_updated: 2022-12-13

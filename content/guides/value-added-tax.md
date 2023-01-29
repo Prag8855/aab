@@ -1,5 +1,6 @@
 ---
 Title: How VAT works in Germany
+Short_title: How VAT works
 Description: A guide to the value-added tax (VAT) for German freelancers and businesses.
 Date_created: 2022-10-15
 Date_updated: 2022-11-01

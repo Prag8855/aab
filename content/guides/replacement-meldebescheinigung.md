@@ -1,5 +1,6 @@
 ---
 Title: How to get a Meldebescheinigung or Anmeldebestätigung
+Short_title: How to get a Meldebescheinigung
 Description: This is how you get an Anmeldebestätigung or a Meldebescheinigung. You need it to open a bank account, apply for a residence permit or get a cellphone contract in Germany.
 Date_created: 2018-02-28
 Date_updated: 2022-12-02

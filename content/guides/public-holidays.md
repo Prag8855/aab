@@ -1,5 +1,6 @@
 ---
 Title: List of public holidays in Berlin
+Short_title: Public holidays in Berlin
 Description: This is a list of the official holidays in Berlin.
 Date_created: 2022-05-30
 Date_updated: 2022-10-15

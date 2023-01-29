@@ -1,5 +1,6 @@
 ---
 Title: How to register a dog in Berlin (Hundesteuer, Hunderegister)
+Short_title: How to register a dog
 Description: In Berlin, your dog must be registered for dog tax (Hundesteuer), add your dog to the dog registry (Hunderegister), and how to register a dangerous breed at the Ordnungsamt.
 Date_created: 2020-12-17
 Date_updated: 2022-12-21

@@ -1,5 +1,6 @@
 ---
 Title: How to address a letter in Germany
+Short_title: How to address a letter
 Description: This is how you send letters and packages to addresses in Germany.
 Date_created: 2017-12-04
 Date_updated: 2022-12-13

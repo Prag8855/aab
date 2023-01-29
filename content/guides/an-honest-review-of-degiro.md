@@ -1,5 +1,6 @@
 ---
 Title: My honest review of Degiro (Germany)
+Short_title: Review of Degiro
 Description: I review my experience with Degiro in Germany. This new online stock broker is really cheap, but is it any good?
 Date_created: 2018-01-23
 Date_updated: 2023-01-04

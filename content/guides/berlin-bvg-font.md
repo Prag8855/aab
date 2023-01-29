@@ -1,5 +1,6 @@
 ---
 Title: What font does the BVG use?
+Short_title: Fonts used by the BVG
 Description: Which font is the BVG using in its ads and signage, and why?
 Date_created: 2017-09-13
 Date_updated: 2022-12-22

@@ -1,5 +1,6 @@
 ---
 Title: How to move to Germany and become a freelancer
+Short_title: How to move to Germany as a freelancer
 Description: A step by step guide on opening your business or becoming a freelancer in Germany.
 Date_created: 2018-09-07
 Date_updated: 2023-01-04

@@ -1,5 +1,6 @@
 ---
 Title: How to buy eyeglasses in Germany
+Short_title: How to buy eyeglasses
 Description: Information about getting glasses in Germany: what health insurance covers, where to buy glasses, and how to pay less.
 Date_created: 2021-03-02
 Date_updated: 2022-11-04

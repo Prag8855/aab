@@ -1,5 +1,6 @@
 ---
 Title: What is legal insurance (Rechtsschutzversicherung)? Is it worth it?
+Short_title: Do you need legal insurance?
 Description: In this guide, I explain what legal insurance (Rechtsschutzversicherung) is, what it covers, and when it's worth it.
 Date_created: 2021-09-04
 Date_updated: 2022-05-25

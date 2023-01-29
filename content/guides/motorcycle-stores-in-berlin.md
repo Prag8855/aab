@@ -1,5 +1,6 @@
 ---
 Title: Where to buy motorcycle gear in Berlin
+Short_title: Where to buy motorcycle gear
 Description: An overview of the best places to purchase motorcycle equipment in the German capital.
 Date_created: 2017-09-07
 Date_updated: 2022-04-07

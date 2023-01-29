@@ -1,5 +1,6 @@
 ---
 Title: How to get a driving licence in Germany
+Short_title: How to get a driving licence
 Description: A detailed description of the process of obtaining a German Klasse A driving licence. This information is also valid for the Klasse B licence.
 Date_created: 2017-10-23
 Date_updated: 2022-11-18

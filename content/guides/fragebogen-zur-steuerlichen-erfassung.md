@@ -1,5 +1,6 @@
 ---
 Title: How to fill the Fragebogen zur steuerlichen Erfassung
+Short_title: How to register a business
 Description: This is how you fill the Fragebogen zur steuerlichen Erfassung and register your business with the Finanzamt.
 Date_created: 2018-03-14
 Date_updated: 2022-12-13

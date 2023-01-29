@@ -1,5 +1,6 @@
 ---
 Title: How to move out of an apartment in Germany
+Short_title: How to move out of an apartment
 Description: Everything you need to think about when leaving your apartment in Germany: address changes, contract cancellations, moving companies and more.
 Date_created: 2019-10-05
 Date_updated: 2022-12-02

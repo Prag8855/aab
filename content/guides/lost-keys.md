@@ -1,5 +1,6 @@
 ---
 Title: Lost your keys in Berlin? Locked yourself out? Here's what to do
+Short_title: What to do if you lose your keys
 Description: How to replace your lost or stolen keys, and how to call a locksmith and get back into your apartment.
 Date_created: 2019-12-11
 Date_updated: 2022-12-19

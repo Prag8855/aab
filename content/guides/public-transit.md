@@ -1,5 +1,6 @@
 ---
 Title: How to use public transit in Berlin
+Short_title: How to use public transit
 Description: This guide shows you how to use public transportation in Berlin, and how to use other options like car sharing, bike sharing and taxis.
 Date_created: 2021-08-13
 Date_updated: 2023-01-27

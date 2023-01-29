@@ -1,5 +1,6 @@
 ---
 Title: What is the BVG's 10-Uhr-Karte
+Short_title: What is a 10-Uhr-Karte?
 Description: The BVG offers a "10-Uhr-Karte" that is only valid from 10AM. It's cheaper, but there are a few catches.
 Date_created: 2017-08-31
 Date_updated: 2021-10-11

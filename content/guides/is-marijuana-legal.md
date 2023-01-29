@@ -1,5 +1,6 @@
 ---
 Title: Is marijuana legal in Gemany?
+Short_title: Is cannabis legal?
 Description: A short guide about the legality of weed, CBD, cannabis seeds and other marijuana products in Germany.
 Date_created: 2022-05-30
 Date_updated: 2023-01-04

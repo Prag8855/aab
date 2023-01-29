@@ -1,5 +1,6 @@
 ---
 Title: How to move to Berlin, step by step
+Short_title: How to move to Berlin
 Description: This guide shows you how to relocate to Berlin. It covers finding a job in Berlin, getting a residence permit, finding an apartment, and more.
 Date_created: 2018-06-05
 Date_updated: 2022-10-07

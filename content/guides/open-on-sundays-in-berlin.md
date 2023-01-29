@@ -1,5 +1,6 @@
 ---
 Title: What is open on Sundays in Berlin?
+Short_title: What's open on Sundays?
 Description: A complete guide to grocery stores, Apothekes and other businesses that open on Sundays in Berlin.
 Date_created: 2017-12-06
 Date_updated: 2022-10-09

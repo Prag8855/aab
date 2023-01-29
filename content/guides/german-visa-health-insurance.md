@@ -1,5 +1,6 @@
 ---
 Title: Which health insurance do you need for a German visa?
+Short_title: Health insurance for your German visa
 Description: This guide shows you how to choose valid health insurance for your German visa application.
 Date_created: 2020-02-21
 Date_updated: 2022-06-19

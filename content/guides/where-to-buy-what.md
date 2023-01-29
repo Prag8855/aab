@@ -1,5 +1,6 @@
 ---
 Title: Where to buy what in Berlin
+Short_title: Where to buy what
 Description: A list of common grocery stores, hardware stores, furniture stores and shopping malls in Berlin.
 Date_created: 2019-11-14
 Date_updated: 2022-12-05

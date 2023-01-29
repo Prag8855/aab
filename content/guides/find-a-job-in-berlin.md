@@ -1,5 +1,6 @@
 ---
 Title: How to find a job in Berlin
+Short_title: How to find a job
 Description: This guide shows you how to get a job in Germany, from the job search to your first day at work.
 Date_created: 2017-09-21
 Date_updated: 2022-12-02

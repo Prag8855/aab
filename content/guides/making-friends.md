@@ -1,5 +1,6 @@
 ---
 Title: How to make friends in Berlin
+Short_title: How to make friends
 Description: A guide to finding hangout buddies in the German capital.
 Date_created: 2019-11-12
 Date_updated: 2021-11-21

@@ -1,5 +1,6 @@
 ---
 Title: Having a dog in Germany
+Short_title: Having a dog in Germany
 Description: If you want to adopt a dog in Berlin or Germany, these are the things you must know.
 Date_created: 2020-12-16
 Date_updated: 2022-12-08

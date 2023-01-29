@@ -1,5 +1,6 @@
 ---
 Title: Cost of living in Berlin, and Germany
+Short_title: Cost of living
 Description: How much does it cost to live in Berlin? Is your salary enough to live there? This is how you can make a budget and find the answer.
 Date_created: 2021-02-01
 Date_updated: 2022-12-08

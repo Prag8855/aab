@@ -1,5 +1,6 @@
 ---
 Title: List of English-speaking driving schools in Berlin
+Short_title: English-speaking driving schools
 Description: A guide to find an English-speaking driving school for your car or motorcycle driving license.
 Date_created: 2017-08-31
 Date_updated: 2022-07-14

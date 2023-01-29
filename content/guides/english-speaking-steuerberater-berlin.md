@@ -1,5 +1,6 @@
 ---
 Title: English-speaking accountants and tax advisors in Berlin
+Short_title: English-speaking tax advisors
 Description: A complete list of English-speaking Steuerberater to help you file your taxes in Berlin. This list also includes Spanish, French, Italian, Russian, Chinese and Polish-speaking tax consultants.
 Date_created: 2017-12-18
 Date_updated: 2022-11-28

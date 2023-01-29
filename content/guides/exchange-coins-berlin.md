@@ -1,5 +1,6 @@
 ---
 Title: How to exchange your coins in Berlin
+Short_title: How to exchange coins
 Description: Here's what you can do with your small change once you run out of mason jars.
 Date_created: 2017-10-10
 Date_updated: 2022-05-23

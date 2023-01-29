@@ -1,5 +1,6 @@
 ---
 Title: How to buy weed in Berlin
+Short_title: Where to buy weed
 Description: This is how you buy marijuana safely in Germany's capital.
 Date_created: 2017-09-01
 Date_updated: 2022-08-26

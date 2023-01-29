@@ -1,5 +1,6 @@
 ---
 Title: How to take a sabbatical in Germany
+Short_title: How to take a sabbatical
 Description: This guide shows you how to take a long vacation in Germany, also known as a sabbatical.
 Date_created: 2022-09-07
 Date_updated: 2022-09-12

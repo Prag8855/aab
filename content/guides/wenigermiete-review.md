@@ -1,5 +1,6 @@
 ---
 Title: Should you trust Conny? An objective review
+Short_title: Review of Conny rent reduction
 Description: A neutral, independently researched review of Conny (once called Wenigermiete), the service that promises to reduce your rent.
 Date_created: 2020-07-29
 Date_updated: 2022-09-25

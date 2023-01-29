@@ -1,5 +1,6 @@
 ---
 Title: How do electric bills work in Germany?
+Short_title: How do electric bills work?
 Description: Understanding your electric bill is a great way to save money. If you just moved to Berlin, this information might be useful.
 Date_created: 2018-11-27
 Date_updated: 2023-01-04

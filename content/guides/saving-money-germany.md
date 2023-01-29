@@ -1,5 +1,6 @@
 ---
 Title: Tips to save money in Germany
+Short_title: Tips to save money
 Description: Different ways to save money in Berlin and Germany, without sacrificing your lifestyle.
 Date_created: 2020-08-27
 Date_updated: 2023-01-04

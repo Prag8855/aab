@@ -1,5 +1,6 @@
 ---
 Title: How to apply for the German Freelance Visa
+Short_title: How to get a freelance visa
 Description: The process and the requirements for obtaining a German freelance visa or a German artist visa. This is how you become self-employed in Germany.
 Date_created: 2018-02-09
 Date_updated: 2023-01-04

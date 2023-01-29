@@ -1,5 +1,6 @@
 ---
 Title: Coronavirus in Berlin: rules, quarantine, tests and vaccines
+Short_title: Coronavirus in Berlin
 Description: The COVID-19 situation explained in plain English, including risk areas, travel restrictions, quarantine rules, getting tested and getting vaccinated.
 Date_created: 2020-03-09
 Date_updated: 2023-01-10

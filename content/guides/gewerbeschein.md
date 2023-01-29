@@ -1,5 +1,6 @@
 ---
 Title: How to get a Gewerbeschein in Berlin
+Short_title: How to get a Gewerbeschein
 Description: This is how you get a trade licence (Gewerbeschein) and register for the trade tax (Gewerbesteuer).
 Date_created: 2021-05-14
 Date_updated: 2022-12-01

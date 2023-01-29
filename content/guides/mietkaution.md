@@ -1,5 +1,6 @@
 ---
 Title: How does the apartment deposit (Kaution) work in Germany?
+Short_title: The apartment deposit
 Description: Here's how you pay your apartment deposit (Mietkaution) in Germany, and how you get all of it back when you move out.
 Date_created: 2018-06-19
 Date_updated: 2023-01-24

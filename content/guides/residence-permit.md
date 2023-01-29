@@ -1,5 +1,6 @@
 ---
 Title: What German residence permit do you need?
+Short_title: Do I need a residence permit?
 Description: This guide shows you if you need a residence permit (Aufenthaltstitel) to live, work or study in Germany.
 Date_created: 2022-06-23
 Date_updated: 2022-11-14

@@ -1,5 +1,6 @@
 ---
 Title: Which German health insurance companies are approved by BaFin?
+Short_title: Health insurers approved by BaFin
 Description: When applying for a residence permit in Germany, the Ausländerbehörde often requires a BaFin-approved health insurance. These are the approved providers.
 Date_created: 2018-07-31
 Date_updated: 2022-05-25

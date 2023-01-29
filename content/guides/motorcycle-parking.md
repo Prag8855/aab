@@ -1,5 +1,6 @@
 ---
 Title: Can you park a motorcycle on the sidewalk in Berlin?
+Short_title: Parking motorcycles on the sidewalk
 Description: With so few parking spaces, it's tempting to park your motorcycle on the sidewalk, but is it legal?​
 Date_created: 2018-05-24
 Date_updated: 2021-02-25

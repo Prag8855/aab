@@ -1,5 +1,6 @@
 ---
 Title: Freelance developer rates in Berlin
+Short_title: Freelance developer rates
 Description: Detailed information about what to charge your freelance client. This guide is frequently updated.
 Date_created: 2018-09-14
 Date_updated: 2022-10-21

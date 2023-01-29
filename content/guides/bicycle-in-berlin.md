@@ -1,5 +1,6 @@
 ---
 Title: How to buy and ride a bicycle in Berlin
+Short_title: How to buy and ride a bicycle
 Description: Everything cyclists should know about riding a bicycle in Berlin: where to buy a bicycle, what equipment is required and what the rules are and more.
 Date_created: 2020-08-21
 Date_updated: 2022-08-03

@@ -1,5 +1,6 @@
 ---
 Title: Abmahnung from Kanzlei Schröder for using a Creative Commons image
+Short_title: Using Creative Commons images
 Description: I have received a letter from Kanzlei Schröder asking us to pay 663€ for misattributing a Creative Commons image. Here is how I dealt with it.
 Date_created: 2018-05-06
 Date_updated: 2022-09-25

@@ -1,5 +1,6 @@
 ---
 Title: List of English-speaking dentists in Berlin
+Short_title: English-speaking dentists
 Description: A list of known English-speaking dentists in Berlin, built from various sources like Facebook posts, Reddit threads, guides from embassies and Google Maps reviews.
 Date_created: 2017-09-06
 Date_updated: 2022-09-22

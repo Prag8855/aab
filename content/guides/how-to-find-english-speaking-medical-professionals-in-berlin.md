@@ -1,5 +1,6 @@
 ---
 Title: How to find English-speaking medical professionals in Berlin
+Short_title: English-speaking doctors
 Description: When it comes to health matters, finding a doctor who speaks your language is especially important. Here are resources to help you find an English-speaking medical professional in Berlin.
 Date_created: 2017-08-31
 Date_updated: 2022-10-15

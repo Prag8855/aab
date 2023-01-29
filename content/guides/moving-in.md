@@ -1,5 +1,6 @@
 ---
 Title: How to move into an apartment in Germany
+Short_title: How to move into an apartment
 Description: All the little things you should do when moving to a new address in Germany: address changes, mail forwarding and more.
 Date_created: 2019-10-25
 Date_updated: 2022-12-27

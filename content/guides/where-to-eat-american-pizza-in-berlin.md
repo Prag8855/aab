@@ -1,5 +1,6 @@
 ---
 Title: Where to eat American pizza in Berlin
+Short_title: American-style pizza
 Description: Once in a while, the thin Italian slices just don't cut it, and you are in for thick, nasty American pizza. Here is where you get your New York or Chicago-style pizza fix in Berlin.
 Date_created: 2017-09-10
 Date_updated: 2021-04-04

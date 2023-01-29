@@ -1,5 +1,6 @@
 ---
 Title: How to take sick days in Germany
+Short_title: How to take sick days
 Description: What happens when you get sick in Germany. How to take sick days, when to get a sick note from the doctor, and who pays your salary while you recover.
 Date_created: 2022-08-27
 Date_updated: 2022-10-31

@@ -1,5 +1,6 @@
 ---
 Title: Photography laws in Germany
+Short_title: Photography laws
 Description: If you take or share photos of other people in Germany, you need to follow certain rules.
 Date_created: 2020-05-02
 Date_updated: 2022-08-27

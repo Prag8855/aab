@@ -1,5 +1,6 @@
 ---
 Title: What is a Kraftfahrzeugsteuerbescheid?
+Short_title: What is a Kraftfahrzeugsteuerbescheid?
 Description: Have you received a letter from Frankfurt am Oder asking you to send money somewhere? Do not panic, here's what it's all about.
 Date_created: 2018-04-12
 Date_updated: 2022-01-17

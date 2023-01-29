@@ -1,5 +1,6 @@
 ---
 Title: How to get a Bürgeramt appointment in Berlin
+Short_title: How to get a Bürgeramt appointment
 Description: Make the Anmeldung a breeze by getting a Bürgeramt appointment quickly and easily.
 Date_created: 2017-09-18
 Date_updated: 2023-01-04

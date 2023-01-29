@@ -1,5 +1,6 @@
 ---
 Title: How to get an International Driving Permit in Berlin
+Short_title: How to get an International Driving Permit
 Description: How to get your IDP in Berlin and the rest of Germany, both with German and foreign driver licences.​
 Date_created: 2017-11-20
 Date_updated: 2022-04-18

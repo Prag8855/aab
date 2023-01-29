@@ -1,5 +1,6 @@
 ---
 Title: How to help Ukrainian refugees in Berlin
+Short_title: How to help Ukrainians
 Description: This is how you can volunteer and donate to help Ukrainian refugees in Berlin.
 Date_created: 2022-03-05
 Date_updated: 2022-04-01

@@ -1,5 +1,6 @@
 ---
 Title: What is the best German bank for you?
+Short_title: How to open a bank account
 Description: This guide shows you how to choose a bank in Germany. It compares German banks and their fees.
 Date_created: 2017-09-01
 Date_updated: 2022-12-20

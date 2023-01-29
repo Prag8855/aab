@@ -1,5 +1,6 @@
 ---
 Title: The Pfand system: how to return bottles in Germany
+Short_title: How to return empty bottles
 Description: This quick guide shows you which bottles and cans have a deposit in Germany, and how you can recognize them.
 Date_created: 2018-10-27
 Date_updated: 2022-12-26

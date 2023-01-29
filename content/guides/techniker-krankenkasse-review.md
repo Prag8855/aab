@@ -1,5 +1,6 @@
 ---
 Title: My honest Techniker Krankenkasse review
+Short_title: Review of Techniker Krankenkasse
 Description: My experience with TK health insurance after 5 years. Is TK a good public health insurance? Here's my opinion.
 Date_created: 2019-03-19
 Date_updated: 2022-10-09

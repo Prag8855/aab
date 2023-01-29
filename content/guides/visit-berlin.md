@@ -1,5 +1,6 @@
 ---
 Title: Berlin travel guide: what to see, do and eat in Berlin
+Short_title: Visiting Berlin
 Description: If you are visiting Berlin, these are the things you should see and do, and the things you should know.
 Date_created: 2017-09-15
 Date_updated: 2022-10-20

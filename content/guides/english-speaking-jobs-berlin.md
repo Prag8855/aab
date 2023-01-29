@@ -1,5 +1,6 @@
 ---
 Title: How to find an English-speaking job in Berlin
+Short_title: How to find an English-speaking job
 Description: This is how you look for English language jobs and get hired in Berlin.
 Date_created: 2018-06-08
 Date_updated: 2022-07-25

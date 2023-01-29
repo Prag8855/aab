@@ -1,5 +1,6 @@
 ---
 Title: Police and emergency numbers in Berlin
+Short_title: Emergency phone numbers
 Description: ﻿If you need to call the emergency services, call 112. For the police, call 110. This guide also tells you how to call other emergency services in Berlin.
 Date_created: 2021-04-13
 Date_updated: 2022-10-15

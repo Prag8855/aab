@@ -1,5 +1,6 @@
 ---
 Title: Power sockets in Germany
+Short_title: German power sockets
 Description: This guide shows you if your devices will work in German power outlets.
 Date_created: 2022-02-06
 Date_updated: 2022-11-22

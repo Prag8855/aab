@@ -1,5 +1,6 @@
 ---
 Title: How to dispose of a dead animal in Berlin
+Short_title: How to bury a dead animal
 Description: If you have found a dead animal or need to dispose of the body of a deceased pet in Berlin, here is how to proceed.
 Date_created: 2017-09-13
 Date_updated: 2022-09-25

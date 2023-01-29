@@ -1,5 +1,6 @@
 ---
 Title: How to find an apartment in Berlin
+Short_title: How to find an apartment
 Description: This guide shows you how to find your first apartment or flatshare in Berlin.
 Date_created: 2017-09-20
 Date_updated: 2023-01-06

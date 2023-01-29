@@ -1,5 +1,6 @@
 ---
 Title: How to get married in Germany
+Short_title: How to get married
 Description: This guide will help you go through the required paperwork to get legally married in Germany.
 Date_created: 2017-10-09
 Date_updated: 2021-02-25

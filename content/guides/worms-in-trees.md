@@ -1,5 +1,6 @@
 ---
 Title: What are the small worms in German trees?
+Short_title: Worms in trees
 Description: What are these worms that cover German trees in silk, and why you should not touch them.
 Date_created: 2022-06-12
 Date_updated: 2022-06-12

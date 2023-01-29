@@ -1,5 +1,6 @@
 ---
 Title: Where to find foreign cooking ingredients in Berlin
+Short_title: Rare cooking ingredients
 Description: Finding common baking ingredients such as brown sugar and baking soda can be fairly difficult in Germany. Here is where you can find them.
 Date_created: 2017-09-27
 Date_updated: 2023-01-06

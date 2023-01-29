@@ -1,5 +1,6 @@
 ---
 Title: Quiet hours and noise laws in Berlin
+Short_title: Quiet hours and noise laws
 Description: Here's how the quiet hours work in Berlin, and what to do with loud neighbours in Berlin
 Date_created: 2018-06-01
 Date_updated: 2022-09-25

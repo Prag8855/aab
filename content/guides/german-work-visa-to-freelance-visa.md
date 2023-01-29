@@ -1,5 +1,6 @@
 ---
 Title: How to go from employee to freelancer in Germany
+Short_title: How to go from employee to freelancer
 Description: This is how you go from a full time job to freelancing when you have a German work visa or Blue Card.
 Date_created: 2018-07-13
 Date_updated: 2022-06-27

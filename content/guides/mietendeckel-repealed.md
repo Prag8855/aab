@@ -1,5 +1,6 @@
 ---
 Title: The Mietendeckel is gone. Here's what it means.
+Short_title: The Mietendeckel
 Description: The Mietendeckel was repealed. You might have to give the money you saved back, but there are other ways to reduce your rent.
 Date_created: 2021-04-15
 Date_updated: 2022-12-01

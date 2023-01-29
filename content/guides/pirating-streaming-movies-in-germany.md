@@ -1,5 +1,6 @@
 ---
 Title: How to stream or torrent movies in Germany
+Short_title: How to stream and torrent movies
 Description: Piracy is not so easy in Germany, but there are ways to torrent without punishment. Here is how Germans pirate without getting caught.
 Date_created: 2017-10-13
 Date_updated: 2022-09-25
