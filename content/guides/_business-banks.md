@@ -1,7 +1,7 @@
 ---
-Title: How to choose a business bank account (﻿Geschäftskonto) in Germany
+Title: How to choose a business bank account (Geschäftskonto) in Germany
 Short_title: Business banks in Germany
-Description: This guide explains what a ﻿Geschäftskonto is, why you need one, and how to choose one.
+Description: This guide explains what a Geschäftskonto is, why you need one, and how to choose one.
 Date_created: 2022-04-18
 Date_updated: 2023-01-29
 ---

@@ -61,7 +61,7 @@ Most of the time, it takes 1-2 weeks to switch to another health insurance. In s
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)[  ](/guides/german-visa-health-insurance#for-a-freelance-visa)**
+**[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
 **[Health insurance for a freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
@@ -226,17 +226,17 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 **[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
-[^1]: [service.berlin.de](https://service.berlin.de/dienstleistung/324288/en/)
+[^1]: [berlin.de](https://service.berlin.de/dienstleistung/324288/en/)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [medium.com](https://medium.com/betahaus/renewing-the-german-freelance-visa-february-2019-a4a899eabe52)
 [^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/)
 [^4]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/989234614878575/)
-[^5]: [service.berlin.de](https://service.berlin.de/standort/121885/)
+[^5]: [berlin.de](https://service.berlin.de/standort/121885/)
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/)
-[^7]: [service.berlin.de](https://service.berlin.de/dienstleistung/327144/standort/326311/)
-[^8]: [service.berlin.de](https://service.berlin.de/dienstleistung/324713/)
-[^9]: [service.berlin.de](https://service.berlin.de/dienstleistung/324288/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/)
+[^7]: [berlin.de](https://service.berlin.de/dienstleistung/327144/standort/326311/)
+[^8]: [berlin.de](https://service.berlin.de/dienstleistung/324713/)
+[^9]: [berlin.de](https://service.berlin.de/dienstleistung/324288/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lciddy/my_ausl%C3%A4nderbeh%C3%B6rde_adventure_part_1/)
 [^11]: [stb-franke.de](https://www.stb-franke.de/steuerbuero-berlin-steuerberater/pruefungsbericht-auslaenderbehoerde.html)
-[^12]: [service.berlin.de](https://service.berlin.de/dienstleistung/324288/)
-[^13]: [service.berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
-[^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [service.berlin.de](https://service.berlin.de/dienstleistung/121921/en/)
+[^12]: [berlin.de](https://service.berlin.de/dienstleistung/324288/)
+[^13]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
+[^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [berlin.de](https://service.berlin.de/dienstleistung/121921/en/)

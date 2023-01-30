@@ -167,7 +167,7 @@ Later, you will need to [register your business with the tax office](/guides/fra
 
 The difference is *very* important. Tradespeople must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). They must usually be listed in the trade register (*[[Handelsregister]]*). They must sometimes follow different accounting rules.
 
-Not every freelancer is a *[[Freiberufler]]*! This title is only for [specific professions](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8). Engineers, doctors, architects and teachers can be *Freiberufler*. Food delivery drivers and tour guides are not *Freiberufler*; they are a *[[Gewerbe]]*<sup>[1](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), </sup>[<u>^2^</u>](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8). Most commercial websites are registered as a *Gewerbe*.
+Not every freelancer is a *[[Freiberufler]]*! This title is only for [specific professions](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8). Engineers, doctors, architects and teachers can be *Freiberufler*. Food delivery drivers and tour guides are not *Freiberufler*; they are a *[[Gewerbe]]*.[^13] Most commercial websites are registered as a *Gewerbe*.
 
 **[Freiberufler or Gewerbe, what's the difference? ➞](/guides/freiberufler-or-gewerbe)**
 
@@ -251,3 +251,4 @@ If you have a website, it must follow German and European laws. If you make a mi
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^11]: [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^12]: [hartz4widerspruch.de](https://hartz4widerspruch.de/ratgeber/basic/wann-erhalten-eu-buerger-und-andere-auslaender-hartz-4/#alg_i_und_alg_ii_-_wann_haben_eu-auslander_anspruch)
+[^13]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [hk24.de](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)

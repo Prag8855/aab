@@ -39,6 +39,6 @@ Bookkeepers can't submit your tax declarations or financial statements. They can
 
 **[Where to find help ➞ Financial questions](/guides/questions-about-berlin#financial-and-legal-questions)**
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Steuerberater#Conditions_to_sit_in)
-[^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Steuerberater#Exam_process)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/Steuerberater#Conditions_to_sit_in)
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Steuerberater#Exam_process)
 [^2]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/was-ist-der-unterschied-zwischen-einem-steuerberater-und-einem)

@@ -14,5 +14,5 @@ In Germany, a minijob or a {{MINIJOB_MAX_INCOME}}-Euro-Job is a job that pays {{
 - If you only have a minijob, you can use your spouse's or your parents' public health insurance.[^2]
 
 [^0]: [§8 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__8.html)
-[^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Marginal_employment#Germany)
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Marginal_employment#Germany)
 [^2]: [krankenkassen.net](https://krankenkassen.net/gesetzliche-krankenversicherung/450-euro-job-wer-zahlt-die-krankenkasse.html)

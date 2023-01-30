@@ -77,15 +77,15 @@ In this guide, I show you how to get a Blue Card.
 
 ## German work visa requirements
 
-- **You must have a job offer in Germany**. It must be a concrete job offer<sup>[§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [2](https://service.berlin.de/dienstleistung/305304/)</sup>, not just a job listing.
-- **You must have a university degree or a vocational qualification**<sup>[1](https://www.make-it-in-germany.com/en/visa-residence/quick-check), [§18a, §18b](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)</sup>  
+- **You must have a job offer in Germany**. It must be a concrete job offer, not just a job listing.[^58]
+- **You must have a university degree or a vocational qualification**[^60]  
     Your job must be related to your education. You do not need a university degree to get a German work visa.[^12] Vocational training is enough. Your school does not need to be recognised in [Anabin](https://www.anerkennung-in-deutschland.de/tools/berater/en/).
 - **Your employer must be in Germany**  
     For example, you can't work for an American company, unless they have an office in Germany.[^12]
 - **You must be qualified for the job**[^13]
 - **You must be allowed to do this job in Germany**  
-    If you need specific qualifications to do your job in Germany, you must prove that you have them<sup>[1](https://service.berlin.de/dienstleistung/305304/en/), [§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)</sup>. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/tools/berater/en/) to know if your profession requires specific qualifications.
-- **You must have approval from the [[ZAV]]**<sup>[1](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0058), [§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)</sup>  
+    If you need specific qualifications to do your job in Germany, you must prove that you have them.[^61] For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/tools/berater/en/) to know if your profession requires specific qualifications.
+- **You must have approval from the [[ZAV]]**  
     The ZAV verifies that the position can't be filled by a EU citizen. See below for details. If you apply for a Blue Card, and you make over {{BLUE_CARD_MIN_INCOME|cur}}€ per year, you don't need this.
 - **You must have German health insurance and a place to stay**  
     You must [find a place to live](/guides/find-a-flat-in-berlin) and [get German health insurance](/guides/german-visa-health-insurance) *before* you apply for the work visa.[^40]
@@ -97,7 +97,7 @@ You **do not** need to speak German to get a German work visa.
 The Blue Card has the same requirements as the work visa. It also has these two requirements:
 
 - **You must have a high income**  
-    You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes)<sup>[1](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [2](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [3](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/), [§18b](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)</sup>. If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year<sup>[1](https://www.fragomen.com/insights/alerts/eu-blue-card-minimum-salary-increase), [2](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [3](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [4](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/), [§18b](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)</sup>. [This list](http://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
+    You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes).[^62] If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^63] [This list](http://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
 - **You must have a university degree**  
     Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database.[^14] In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree.[^11]
 
@@ -108,7 +108,7 @@ You **do not** need to speak German to get a Blue Card.
 There are two ways to apply for the work visa and the Blue Card:
 
 1. **[Apply in Germany](/guides/german-work-visa#how-to-apply-in-germany)**  
-    Come to Germany, find a job, then apply for a work visa or Blue Card in Germany. You can't work until you have a work visa or Blue Card, but you can look for a job and prepare for your residence permit interview.[^41] It's easier to [find a job](/guides/find-a-job-in-berlin), [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You might have to wait a few months without any income. This is riskier and more expensive.[  ](/guides/german-work-visa#how-to-apply-in-your-country)
+    Come to Germany, find a job, then apply for a work visa or Blue Card in Germany. You can't work until you have a work visa or Blue Card, but you can look for a job and prepare for your residence permit interview.[^41] It's easier to [find a job](/guides/find-a-job-in-berlin), [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You might have to wait a few months without any income. This is riskier and more expensive.
 2. **[Apply in your country](/guides/german-work-visa#how-to-apply-in-your-country)**  
     Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a work visa or Blue Card. You can start working as soon as you arrive in Germany. This is safer and cheaper. It takes around 4 months.[^15]
 
@@ -244,7 +244,7 @@ Health insurance brokers help you choose the best health insurance for your need
 
 You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it's really hard to find an appointment.[^47] In Berlin, your appointment can be weeks or months in the future. The appointment is free. You only pay if you get the residence permit.
 
-In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can book your appointment [here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48] You can also [go in person](/guides/berlin-auslanderbehorde-same-day-appointment#in-person) or [send your documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can [book your appointment here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48] You can also [go in person](/guides/berlin-auslanderbehorde-same-day-appointment#in-person) or [send your documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
 
 {% include "blocks/appointmentLink/_applyResidencePermit.html" %}
 
@@ -256,7 +256,7 @@ If your current visa expires soon, there are ways to stay in Germany until you g
 
 ### Step 9: Gather the required documents
 
-We explain the required documents in the "[Required documents](/guides/german-work-visa#required-documents)" section of this guide. You can find it [below](/guides/german-work-visa#required-documents).
+We explain the required documents in the "[Required documents](/guides/german-work-visa#required-documents)" section of this guide. You can find it [below](#required-documents).
 
 ### Step 10: Go to your visa appointment
 
@@ -343,7 +343,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 - **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
     You can get this document from your health insurance company.[^53] If you choose public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
 - **Proof of residence in Germany**  
-    There are two ways to prove your residence in Berlin. You can bring...<sub>l</sub>
+    There are two ways to prove your residence in Berlin. You can bring...
     - Your lease and your *[[Wohnungsgeberbestätigung]]*
     - **or** your *[[Anmeldebestätigung]]*
 - **Proof of education** (*Ausbildungsnachweis*)  
@@ -365,7 +365,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### Can I bring my family to Germany?
 
-**Yes**. With the work visa and the Blue Card, you can bring your family to Germany<sup>1, 2</sup>. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
+**Yes**. With the work visa and the Blue Card, you can bring your family to Germany. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
 
 ### How much does the German work visa cost?
 
@@ -383,11 +383,11 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### How long is the work visa valid for?
 
-**Up to 4 years**, but it can be shorter if you have a temporary work contract<sup>[§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [2](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)</sup>. You can extend your work visa before it expires. After a few years, you can apply for [permanent residency](/glossary/Niederlassungserlaubnis).
+**Up to 4 years**, but it can be shorter if you have a temporary work contract.[^59] You can extend your work visa before it expires. After a few years, you can apply for [permanent residency](/glossary/Niederlassungserlaubnis).
 
 ### How long is the Blue Card valid for?
 
-**Up to 4 years**, but it can be shorter if you have a temporary work contract<sup>[§18](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [2](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)</sup>. You can extend your Blue Card before it expires, or apply for [permanent residency](/glossary/Niederlassungserlaubnis).
+**Up to 4 years**, but it can be shorter if you have a temporary work contract[^59]. You can extend your Blue Card before it expires, or apply for [permanent residency](/glossary/Niederlassungserlaubnis).
 
 ### Do I need to speak German?
 
@@ -404,7 +404,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### What happens if I lose my job?
 
-You must inform the *Ausländerbehörde* as soon as you lose your job. Your visa is still valid, but the *Ausländerbehörde* can shorten your visa.[^56] The *Ausländerbehörde* will give you 3 to 6 months to find another job or leave Germany.
+You must tell the *Ausländerbehörde* as soon as you lose your job. Your visa is still valid, but the *Ausländerbehörde* can shorten your visa.[^56] The *Ausländerbehörde* will give you 3 to 6 months to find another job or leave Germany.
 
 ### Can I travel outside of Germany?
 
@@ -419,61 +419,67 @@ leave for a longer period without a special permission, your residence permit be
 
 **[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
+[^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 [^1]: [topuniversities.com](https://www.topuniversities.com/student-info/careers-advice/how-work-germany-during-or-after-your-studies), [germany-visa.org](https://www.germany-visa.org/student-visa/student-visa-visum-zu-studienzwecken/)
 [^2]: [Screenshot](/guides/how-to-get-a-german-freelance-visa)
 [^3]: [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html)
 [^4]: [eu-bluecard.com](https://www.eu-bluecard.com/faq/)
 [^5]: [berlin.de](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/121864/en/)
 [^6]: [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/f59e10/a_few_questions_about_the_work_visa_and_blue_card/fhxf8q5/?context=3)
-[^7]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
-[^8]: [web.archive.org](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
-[^9]: [fragomen.com](https://www.fragomen.com/insights/alerts/eu-blue-card-minimum-salary-increase), [web.archive.org](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
-[^10]: [medium.com](https://medium.com/imagine-foundation/getting-your-german-work-visa-e26cd1d22ae8), [bamf.de](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/BlaueKarteEU/blauekarteeu-node.html)
+[^7]: [§42 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
+[^8]: [web.archive.org](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
+[^9]: [fragomen.com](https://www.fragomen.com/insights/alerts/eu-blue-card-minimum-salary-increase), [web.archive.org](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
+[^10]: [medium.com](https://medium.com/imagine-foundation/getting-your-german-work-visa-e26cd1d22ae8), [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/BlaueKarteEU/blauekarteeu-node.html)
 [^11]: [web.archive.org](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/cuswyx/work_visa_without_a_university_degree/exyuvle/)
-[^12]: [service.berlin.de](https://service.berlin.de/dienstleistung/305304/)
-[^13]: [bamf.de](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/BlaueKarteEU/blauekarteeu-node.html)
+[^12]: [berlin.de](https://service.berlin.de/dienstleistung/305304/)
+[^13]: [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/BlaueKarteEU/blauekarteeu-node.html)
 [^14]: [medium.com](https://medium.com/imagine-foundation/getting-your-german-work-visa-e26cd1d22ae8)
 [^15]: [facebook.com](https://www.facebook.com/groups/berlinexpats/permalink/2285305818148858/)
 [^16]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
-[^17]: [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
-[^18]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node)
-[^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aufenthv/__41.html)
-[^20]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
-[^21]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)
-[^22]: [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/skilled-worker-immigration/2304796)
-[^23]: [service.berlin.de](https://service.berlin.de/dienstleistung/305304/), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0058)
+[^17]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
+[^18]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node)
+[^19]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^20]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
+[^21]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)
+[^22]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/skilled-worker-immigration/2304796)
+[^23]: [berlin.de](https://service.berlin.de/dienstleistung/305304/), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0058)
 [^24]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/beschv_2013/__2.html)
-[^25]: [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1), [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/14591/is-fea-zav-pre-approval-mandatory-for-a-software-development-job-in-germany), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa/skilled-immigration-act)
-[^26]: [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa/skilled-immigration-act)
-[^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa/skilled-immigration-act)
-[^28]: [service.berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
+[^25]: [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1), [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/14591/is-fea-zav-pre-approval-mandatory-for-a-software-development-job-in-germany), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/skilled-immigration-act)
+[^26]: [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/skilled-immigration-act)
+[^27]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa/skilled-immigration-act)
+[^28]: [berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
 [^29]: [quora.com](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [quora.com](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [quora.com](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)
 [^30]: [web.archive.org](https://web.archive.org/web/20200803233159/http://immigrate-to-germany.blogspot.com/2018/06/how-to-get-appointment-for-german-work-permit-or-employment-visa-from-india-part-1.html), [facebook.com](https://www.facebook.com/groups/332989703932525/permalink/595113137720179/), [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/)
-[^32]: [service.berlin.de](https://service.berlin.de/dienstleistung/305304/en/), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0315)
+[^32]: [berlin.de](https://service.berlin.de/dienstleistung/305304/en/), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0315)
 [^33]: [quora.com](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [quora.com](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [quora.com](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview), [medium.com](https://medium.com/@uxuiworld/working-visa-permit-to-germany-a1936dda8571)
 [^34]: [quora.com](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [quora.com](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)
-[^35]: [service.berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/)
-[^36]: [service.berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/), [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/12356/changing-jobs-after-6-months-as-a-blue-card-holder)
+[^35]: [berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/)
+[^36]: [berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/), [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/12356/changing-jobs-after-6-months-as-a-blue-card-holder)
 [^37]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
-[^38]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Blue_Card_(European_Union)
-[^39]: [service.berlin.de](https://service.berlin.de/dienstleistung/305265/en/)
+[^38]: [Wikipedia](https://en.wikipedia.org/wiki/Blue_Card_(European_Union)
+[^39]: [berlin.de](https://service.berlin.de/dienstleistung/305265/en/)
 [^40]: [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/17253/should-i-buy-health-insurance-before-visa-appointment-for-german-national-visa/17274#17274)
 [^41]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html)
 [^42]: [con.arbeitsagentur.de](https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/dok_ba014306.pdf)
-[^43]: [web.archive.org](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
+[^43]: [BAMF \(archived\)](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
 [^44]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/?utm_source=ifttt)
 [^45]: [arbeitsagentur.de](https://www.arbeitsagentur.de/en/german-labour-market)
 [^46]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/steuer-id-zu-spaet-abgegeben)
 [^47]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/)
-[^48]: [service.berlin.de](https://service.berlin.de/dienstleistung/324659/standort/327437/en/)
+[^48]: [berlin.de](https://service.berlin.de/dienstleistung/324659/standort/327437/en/)
 [^49]: [immigrate-to-germany.blogspot.com](http://immigrate-to-germany.blogspot.com/2018/08/germany-employment-visa-or-work-permit-interview-questions-and-experience.html)
 [^50]: [india.diplo.de](https://india.diplo.de/blob/1862508/332690e7c0caef02dd37188bdab3bbd3/fotomustertafel-data.pdf)
 [^51]: [afghanistan.diplo.de](https://afghanistan.diplo.de/blob/2162330/29c38f0a4c71b49d53b2605799224228/eng-merkblatt-erwerbstaetigkeit-data.pdf)
-[^52]: [service.berlin.de](https://service.berlin.de/standort/121885/)
+[^52]: [berlin.de](https://service.berlin.de/standort/121885/)
 [^53]: [Screenshot](/guides/german-versicherungsnummer)
 [^54]: [quora.com](https://www.quora.com/How-do-I-apply-for-a-German-work-visa-when-Im-already-in-Germany)
 [^55]: [quora.com](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa)
-[^56]: [bamf.de](http://www.bamf.de/DE/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
+[^56]: [Bundesamt für Migration und Flüchtlinge](http://www.bamf.de/DE/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
 [^57]: [allaboutberlin.com](/guides/how-to-get-a-german-freelance-visa#who-needs-a-visa-to-freelance-in-germany)
+[^58]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [berlin.de](https://service.berlin.de/dienstleistung/305304/)
+[^59]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
+[^60]: [§18a, §18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/quick-check)
+[^61]: [berlin.de](https://service.berlin.de/dienstleistung/305304/en/), [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)
+[^62]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403), [BAMF \(archived\)](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
+[^63]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)

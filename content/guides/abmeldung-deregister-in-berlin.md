@@ -133,9 +133,9 @@ You can keep your German bank account. If the bank sends you a letter, and it ca
 
 There is no simple answer.[^18]
 
-You do not automatically lose your residence permit when you deregister your address<sup>[1](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)</sup>. You only lose your residence permit if you leave Germany "not temporarily". This is decided case by case.
+You do not automatically lose your residence permit when you deregister your address.[^25] You only lose your residence permit if you leave Germany "not temporarily". This is decided case by case.
 
-Your residence permit can also expire. If you leave Germany for more than 6 months (12 months [in some cases](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)), your residence permit expires.[^19] You can ask the *[[Ausländerbehörde]]* to leave for a longer period<sup>[1](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)</sup>.
+Your residence permit can also expire. If you leave Germany for more than 6 months (12 months [in some cases](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)), your residence permit expires.[^19] You can ask the *[[Ausländerbehörde]]* to leave for a longer period.[^26]
 
 Without an address in Germany, you can't renew your residence permit.[^20] You must have a rent contract and a *[[Wohnungsgeberbestätigung]]* to renew your German residence permit. If you lose your health insurance, it can also be a problem.[^21] You need valid health insurance to renew a residence permit.
 
@@ -192,3 +192,5 @@ In 2 years, you can [get a refund for your pension payments](/guides/pension-pay
 [^22]: [taxback.com](https://www.taxback.com/en/germany/pension-return/), [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](http://ssr.germanymantra.com/faqs)
 [^23]: [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/17359/what-are-the-necessary-procedures-unregistering-etc-to-follow-when-leaving-ge/17361#17361)
 [^24]: [ssr.germanymantra.com](http://ssr.germanymantra.com/faqs)
+[^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
+[^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)

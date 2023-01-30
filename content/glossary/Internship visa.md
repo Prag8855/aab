@@ -12,4 +12,4 @@ The German internship visa is a type of [residence permit](/glossary/Aufenthalts
 
 This visa is for university students.[^0] It's valid for 6 to 12 months.[^0] More information [here](https://service.berlin.de/dienstleistung/324661/en/).
 
-[^0]: [service.berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
+[^0]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)

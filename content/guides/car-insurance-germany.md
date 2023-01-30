@@ -65,7 +65,7 @@ If you have multiple vehicles, it's often cheaper to insure them with the same c
 
 ### Use your parents' car insurance
 
-If your parents live in Germany, they can insure your car as their second vehicle (*Zweitwagen*), and register you as an additional driver (*Zusatz­fahrer*).[^1] Your parents will pay less for car insurance, because they have more driving experience. If you are under 25 years old, you can save a lot of money this way.[^2]
+If your parents live in Germany, they can insure your car as their second vehicle (*Zweitwagen*), and register you as an additional driver (*Zusatzfahrer*).[^1] Your parents will pay less for car insurance, because they have more driving experience. If you are under 25 years old, you can save a lot of money this way.[^2]
 
 Some insurance companies also offer discounts for the children of existing customers.[^3] Ask for a *Familientarife*.
 
@@ -145,7 +145,7 @@ You can request a Green Card from your car insurance company. This is usually fr
 
 Before you [buy a vehicle](/guides/buying-used-car-in-germany), you must also think about [other costs](/guides/car-cost-of-ownership-germany) like maintenance, tires, fuel and taxes.
 
-[^0]: [sparkasse.de](https://www.sparkasse.de/themen/autokauf-ratgeber/teilkasko-vollkasko-autoversicherungen.html), [settle-in-berlin.com](https://www.settle-in-berlin.com/car-insurance-in-germany-guide/)
+[^0]: [sparkasse.de](https://www.sparkasse.de/themen/autokauf-ratgeber/teilkasko-vollkasko-autoversicherungen.html), [Settle in Berlin](https://www.settle-in-berlin.com/car-insurance-in-germany-guide/)
 [^1]: [test.de](https://www.test.de/Autoversicherung-und-Fahrerkreis-Zusatzfahrer-versichern-so-gelingt-es-am-guenstigsten-5295104-0/), [finanztip.de](https://www.finanztip.de/kfz-versicherung/fahranfaenger/)
 [^2]: [versicherung-beratung.net](https://versicherung-beratung.net/fahrer-unter-25-kfz-auto-versicherung/#Eltern_melden_den_Wagen_als_Zweitwagen_an)
 [^3]: [reddit.com/r/germany](https://old.reddit.com/r/germany/wiki/living/car), [finanztip.de](https://www.finanztip.de/kfz-versicherung/fahranfaenger/)
@@ -161,11 +161,11 @@ Before you [buy a vehicle](/guides/buying-used-car-in-germany), you must also th
 [^13]: [sparkasse.de](https://www.sparkasse.de/themen/autokauf-ratgeber/teilkasko-vollkasko-autoversicherungen.html)
 [^14]: [check24.de](https://www.check24.de/kfz-versicherung/teilkasko-oder-vollkasko/#bedarfsanalyse)
 [^15]: [check24.de](https://www.check24.de/kfz-versicherung/teilkasko-oder-vollkasko/#kosten)
-[^16]: [settle-in-berlin.com](https://www.settle-in-berlin.com/car-insurance-in-germany-guide/#How_can_i_sign_up_for_car_insurance_in_Germany_in_English:~:text=it%20can%20take%20less%20than%2024%20hours)
+[^16]: [Settle in Berlin](https://www.settle-in-berlin.com/car-insurance-in-germany-guide/#How_can_i_sign_up_for_car_insurance_in_Germany_in_English:~:text=it%20can%20take%20less%20than%2024%20hours)
 [^17]: [sparkasse.de](https://www.sparkasse.de/themen/autokauf-ratgeber/teilkasko-vollkasko-autoversicherungen.html#mainNavigation:~:text=m%C3%BCssen%20Sie%20die%20bestehende%20Versicherung%20nicht%20%C3%BCbernehmen)
 [^18]: [verivox.de](https://www.verivox.de/kfz-versicherung/werkstattbindung/)
 [^19]: [check24.de](https://www.check24.de/kfz-versicherung/schadenfreiheitsklasse/)
 [^20]: [allianz.de](https://www.allianz.de/auto/kfz-versicherung/steuererklaerung/)
 [^21]: [zeit.de](https://www.zeit.de/news/2020-07/13/zentralruf-der-autoversicherer-hilft-bei-unfall-im-ausland)
 [^22]: [zentralruf.de](https://www.zentralruf.de/en/)
-[^23]: [en.wikipedia.org](https://en.wikipedia.org/wiki/International_Motor_Insurance_Card_System#cite_ref-5:~:text=Insurers%20do%20not%20make%20people%20pay%20to%20have%20a%20Green%20Card)
+[^23]: [Wikipedia](https://en.wikipedia.org/wiki/International_Motor_Insurance_Card_System#cite_ref-5:~:text=Insurers%20do%20not%20make%20people%20pay%20to%20have%20a%20Green%20Card)

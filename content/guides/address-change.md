@@ -1,7 +1,7 @@
 ---
 Title: How to change your address in Germany
 Short_title: How to change your address
-Description: When you move into a new apartment, you must change your official address. It's not automatic. ﻿This guide shows you how to do it.
+Description: When you move into a new apartment, you must change your official address. It's not automatic. This guide shows you how to do it.
 Date_created: 2022-09-24
 Date_updated: 2022-12-01
 ---
@@ -74,4 +74,4 @@ Deutsche Post has a [mail forwarding service](https://shop.deutschepost.de/nachs
 
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
-[^2]: [service.berlin.de](https://service.berlin.de/dienstleistung/120918/)
+[^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)

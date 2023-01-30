@@ -85,7 +85,7 @@ You *can't* see if your weed is contaminated with a synthetic cannabinoid test k
 
 This article is not written to promote the use of illegal drugs, but to make their consumption as safe as possible. **All About Berlin does not condone the consumption of cannabis**. If you choose to break the law, it's your decision. Be safe and responsible.
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/G%C3%B6rlitzer_Park#Drug_trafficking)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6rlitzer_Park#Drug_trafficking)
 [^1]: [goo.gl](https://goo.gl/maps/ppjbvAoUMVMv8TDy9), [goo.gl](https://goo.gl/maps/YjDdmS7k7RUeB6U6A)
 [^2]: [berliner-zeitung.de](https://www.berliner-zeitung.de/news/polizeibericht-berlin/statistik-das-sind-die-gefaehrlichsten-parks-in-berlin-li.171833)
 [^3]: [goo.gl](https://goo.gl/maps/7rDxdm3Pncg5BBuj7)

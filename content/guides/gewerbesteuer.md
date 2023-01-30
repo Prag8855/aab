@@ -6,7 +6,7 @@ Date_created: 2021-01-19
 Date_updated: 2022-10-20
 ---
 
-If you run a business in Germany, you will need to pay a trade tax (*Gewerbesteuer*). This tax is the most important source of revenue for your city, and it pays for many public services<sup>[1](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax), [2](https://fr.wikipedia.org/wiki/Gewerbesteuer_(Allemagne))</sup>.
+If you run a business in Germany, you will need to pay a trade tax (*Gewerbesteuer*). This tax is the most important source of revenue for your city, and it pays for many public services.[^8]
 
 This guide explains everything you need to know about this tax: how much it costs, who has to pay it, and how to pay it.
 
@@ -87,10 +87,11 @@ If you are [starting a business in Germany](/guides/start-a-business-in-germany)
 - [How to move to Germany and become a freelancer](/guides/become-a-freelancer-in-germany)
 
 [^0]: [wwkn.de](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/)
-[^1]: [ihk-berlin.de](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
+[^1]: [IHK Berlin](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^2]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)
-[^4]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewstg/__11.html)
-[^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [ihk-berlin.de](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
-[^6]: [wwkn.de](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/), [ihk-berlin.de](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
-[^7]: [service.berlin.de](https://service.berlin.de/dienstleistung/121921/)
+[^4]: [§11 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
+[^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
+[^6]: [wwkn.de](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/), [IHK Berlin](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
+[^7]: [berlin.de](https://service.berlin.de/dienstleistung/121921/)
+[^8]: [consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax), [Wikipedia](https://fr.wikipedia.org/wiki/Gewerbesteuer_(Allemagne))

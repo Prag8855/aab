@@ -12,4 +12,4 @@ A *Kitagutschein* is a voucher that allows you to get free childcare in Berlin. 
 
 **[How to get a Kitagutschein ➞](/guides/how-to-get-a-kitagutschein)**
 
-[^0]: [settle-in-berlin.com](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/)
+[^0]: [Settle in Berlin](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/)

@@ -86,7 +86,7 @@ German credit card machines don't have a button for tip. When it's time to pay, 
 
 You can also pay by card, but tip with cash.
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Gratuity#Germany)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/Gratuity#Germany)
 [^1]: [reddit.com](https://www.reddit.com/r/germany/comments/b48xti/how_does_one_tip_in_berlin/ej56dbp/), [reddit.com](https://www.reddit.com/r/germany/comments/2wptvp/do_you_guys_give_tips/cotaw6a/)
 [^2]: [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
 [^3]: [ruv.de](https://www.ruv.de/ratgeber/freizeit-reise/freizeit-urlaub/trinkgeld-urlaub), [de.statista.com](https://de.statista.com/statistik/daten/studie/1594/umfrage/hoehe-des-trinkgeld-welches-deutsche-beim-essen-gehen-geben/), [web.de](https://web.de/magazine/reise/trinkgeld-deutschland-33468354)
@@ -100,6 +100,6 @@ You can also pay by card, but tip with cash.
 [^11]: [old.reddit.com](https://old.reddit.com/r/Finanzen/comments/ss6w2k/wie_viel_trinkgeld_gebt_ihr/hwwnzgw/)
 [^12]: [reddit.com](https://www.reddit.com/r/berlin/comments/3cnk5v/tipping_barbers/)
 [^13]: [reddit.com](https://www.reddit.com/r/germany/comments/3xtrql/tipping_in_german_hotels/)
-[^14]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Gratuity#Germany), [reddit.com](https://www.reddit.com/r/germany/comments/flzz9/what_is_general_rule_for_tipping_in_germany/c1h07rf/), [reddit.com](https://www.reddit.com/r/berlin/comments/20t6bx/tipping_etiquette_in_berlin/cg6jubf/), [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
+[^14]: [Wikipedia](https://en.wikipedia.org/wiki/Gratuity#Germany), [reddit.com](https://www.reddit.com/r/germany/comments/flzz9/what_is_general_rule_for_tipping_in_germany/c1h07rf/), [reddit.com](https://www.reddit.com/r/berlin/comments/20t6bx/tipping_etiquette_in_berlin/cg6jubf/), [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
 [^15]: [dict.cc](https://www.dict.cc/?s=stimmt%20so)
 [^16]: [reddit.com](https://www.reddit.com/r/germany/comments/b48xti/how_does_one_tip_in_berlin/ej5msay/)

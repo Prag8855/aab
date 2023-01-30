@@ -16,7 +16,7 @@ Most employees must pay for [unemployment insurance](/glossary/Arbeitslosenversi
 
  *ALG I* pays 60% to 67% of your previous salary, up to ~2,000€ per month.[^3] It also pays for your [health insurance](/glossary/Krankenversicherung).
 
-[^0]: [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [redtapetranslation.com](https://www.redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
-[^1]: [redtapetranslation.com](https://www.redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
-[^2]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)
+[^0]: [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [Red Tape Translation](https://www.redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
+[^1]: [Red Tape Translation](https://www.redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
+[^2]: [Wikipedia](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)
 [^3]: [hartz4.de](https://www.hartz4.de/hoechstsatz-alg1/)

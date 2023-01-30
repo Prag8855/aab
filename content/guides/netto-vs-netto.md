@@ -10,7 +10,7 @@ In Germany, there are two kinds of Netto supermarkets. They have the same name, 
 
 ## Netto with the dog
 
-Netto ApS &amp; Co. KG has around 350 branches in Germany. Most branches are in the east. It belongs to the Salling Group, a Danish retail firm<sup>[1](https://service.netto.de/hc/de/articles/360016594598-Was-ist-der-Unterschied-zwischen-Netto-und-Netto-Marken-Discount-), [2](https://de.wikipedia.org/wiki/Netto_(Handelskette))</sup>.
+Netto ApS &amp; Co. KG has around 350 branches in Germany. Most branches are in the east. It belongs to the Salling Group, a Danish retail firm.[^4]
 
 ![Netto supermarket in Denmark](/images/netto-denmark.jpg "A Netto supermarket (with dog) in Denmark")
 
@@ -30,3 +30,4 @@ Netto (without the dog) is cheaper.[^3] It's a competitor to Aldi, Lidl and Penn
 [^1]: [supermarktblog.com](https://www.supermarktblog.com/2013/04/19/schnell-erklaert-das-doppelte-nettochen/)
 [^2]: [blogs.faz.net](https://blogs.faz.net/supermarkt/2011/07/14/netto-vs-netto-wer-ist-der-ramschigste-im-ganzen-land-60/)
 [^3]: [supermarktblog.com](https://www.supermarktblog.com/2013/04/19/schnell-erklaert-das-doppelte-nettochen/), [blogs.faz.net](https://blogs.faz.net/supermarkt/2011/07/14/netto-vs-netto-wer-ist-der-ramschigste-im-ganzen-land-60/)
+[^4]: [Netto.de](https://service.netto.de/hc/de/articles/360016594598-Was-ist-der-Unterschied-zwischen-Netto-und-Netto-Marken-Discount-), [Wikipedia](https://de.wikipedia.org/wiki/Netto_(Handelskette))

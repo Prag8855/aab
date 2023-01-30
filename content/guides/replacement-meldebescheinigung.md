@@ -67,4 +67,4 @@ You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
-[^0]: [service.berlin.de](https://service.berlin.de/dienstleistung/120702/)
+[^0]: [berlin.de](https://service.berlin.de/dienstleistung/120702/)

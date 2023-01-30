@@ -1,6 +1,6 @@
 ---
 Title: What is the Bundesagentur für Arbeit?
-German_term: Bundesagentur für Arbeit​
+German_term: Bundesagentur für Arbeit
 English_term: Federal Employment Agency
 Description: 
 Date_created: 2019-06-19

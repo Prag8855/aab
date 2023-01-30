@@ -251,7 +251,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
 [^3]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^4]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
-[^5]: [settle-in-berlin.com](https://www.settle-in-berlin.com/insurance-in-germany/)
+[^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)
 [^7]: [bwb.de](https://www.bwb.de/en/1619.php)
 [^8]: [reddit.com](https://old.reddit.com/r/germany/comments/baaa9s/how_to_use_this_thermostat_knob/ekdffz8/)

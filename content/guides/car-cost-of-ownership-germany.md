@@ -66,4 +66,4 @@ If you have [seasonal plates](/glossary/Saisonkennzeichen), you must find a gara
 [^1]: [adac.de](https://www.adac.de/rund-ums-fahrzeug/reparatur-pflege-wartung/hu-und-au/tuev-kosten/)
 [^2]: [adac.de](https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/sicherheit/winterreifenpflicht-deutschland/)
 [^3]: [tolls.eu](https://www.tolls.eu/germany)
-[^4]: [service.berlin.de](https://service.berlin.de/dienstleistung/121721/)
+[^4]: [berlin.de](https://service.berlin.de/dienstleistung/121721/)

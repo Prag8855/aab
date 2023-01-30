@@ -1,6 +1,6 @@
 ---
-Title: What is the ﻿Hausordnung?
-German_term: ﻿Hausordnung
+Title: What is the Hausordnung?
+German_term: Hausordnung
 English_term: Building rules
 Description: 
 Date_created: 2021-06-22

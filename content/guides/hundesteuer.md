@@ -51,7 +51,7 @@ You will get a confirmation letter around 4 weeks later.
 
 ## How to register in the Hunderegister
 
-In Berlin, all dogs must be in the dog registry (*[[Hunderegister]]*)<sup>[§11](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016V1P11)</sup>. You can [register your dog online](https://hunderegister.berlin.de/), by post or on the phone.[^3] It costs {{HUNDEREGISTER_FEE|cur}}€.
+In Berlin, all dogs must be in the dog registry (*[[Hunderegister]]*).[^5] You can [register your dog online](https://hunderegister.berlin.de/), by post or on the phone.[^3] It costs {{HUNDEREGISTER_FEE|cur}}€.
 
 **[Berlin dog register](https://hunderegister.berlin.de/login)** (in German) - Berlin.de
 
@@ -79,8 +79,9 @@ In Berlin, your dog must have [dog liability insurance](/guides/pet-ownership#do
 
 **[Dog owner guide for Germany ➞](/guides/pet-ownership)**
 
-[^0]: [service.berlin.de](https://service.berlin.de/dienstleistung/121494/)
+[^0]: [berlin.de](https://service.berlin.de/dienstleistung/121494/)
 [^1]: [berlin.de](https://www.berlin.de/sen/finanzen/steuern/informationen-fuer-steuerzahler-/faq-steuern/artikel.8848.php)
-[^2]: [service.berlin.de](https://service.berlin.de/dienstleistung/324161/)
+[^2]: [berlin.de](https://service.berlin.de/dienstleistung/324161/)
 [^3]: [hunderegister.berlin.de](https://hunderegister.berlin.de/)
-[^4]: [service.berlin.de](https://service.berlin.de/dienstleistung/326263/)
+[^4]: [berlin.de](https://service.berlin.de/dienstleistung/326263/)
+[^5]: [§11 HundeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016V1P11)

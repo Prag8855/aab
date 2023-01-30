@@ -27,7 +27,7 @@ Use to [coordination chat](https://t.me/ukraineberlinarrivalsupport) to see if t
 
 ### At the arrival centre in Tegel
 
-This is the arrival centre run by the government. This is where refugees arrive, receive basic care, and are distributed to other places in Germany. The arrival centre on Oranienburger Straße closed on March 25.**[  ](https://wirhelfenberlin.de/ukraine)**
+This is the arrival centre run by the government. This is where refugees arrive, receive basic care, and are distributed to other places in Germany. The arrival centre on Oranienburger Straße closed on March 25.
 
 - **[Register to help](https://wirhelfenberlin.de/ukraine)** (in German)
 

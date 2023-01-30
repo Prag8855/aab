@@ -59,7 +59,7 @@ There are 6 levels of German.[^3] The levels are often divided in two. For examp
 - **B2 - Upper intermediate**  
     You can understand complex texts, and complex discussions about topics you understand. You can express yourself, and have a conversation with native German speakers.
 - **C1 - Fluent**  
-    You can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. Many native German speakers are at this level.[^4]<sub></sub>
+    You can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. Many native German speakers are at this level.[^4]
 - **C2 - Master**  
     You speak and write better than many native speakers. You can read and write academic texts.
 
@@ -107,7 +107,7 @@ Most private schools also offer online classes.
 - **[Expath](https://www.expath.com/for-individuals/?utm_source=referral&utm_medium=blog&utm_campaign=AAB2021&utm_content=discount_code)**  
     Regular and intensive German classes in Prenzlauer Berg and Neukölln. Private lessons are available. They also offer relocation services.
 - **[GLS Language School](https://www.gls-german-courses.de/index.html)**  
-    Regular and intensive German classes in Prenzlauer Berg. Private lessons are available. They also offer accommodation,[^8] and summer camps for kids and teens.[  ](https://kapitel-zwei.de/en/)
+    Regular and intensive German classes in Prenzlauer Berg. Private lessons are available. They also offer accommodation,[^8] and summer camps for kids and teens.
 - **[Kapitel Zwei](https://kapitel-zwei.de/en/?utm_source=allaboutberlin&utm_medium=Artikel&utm_campaign=allaboutberlin&utm_content=Startseite%20EN)**  
     Regular and intensive German classes in Mitte, near Alexanderplatz. Private lessons and exam preparation courses are available. They also offer accommodation.[^9]
 - **[Speakeasy](https://www.speakeasysprachzeug.de/en)**  
@@ -141,9 +141,9 @@ Most of the language schools in Berlin offer online classes.
 There are also many language learning apps for German:
 
 - [**Babbel**](/out/babbel) - 7 to 13€ per month  
-    Regular language lesson without a teacher. You learn German vocabulary and grammar, one module at the time. I used Babbel a lot when I moved to Germany. I like that it teaches you the grammar, and lets you choose what to study. I found it too boring.[  ](https://chatterbug.com/en/)
+    Regular language lesson without a teacher. You learn German vocabulary and grammar, one module at the time. I used Babbel a lot when I moved to Germany. I like that it teaches you the grammar, and lets you choose what to study. I found it too boring.
 - [**Chatterbug**](/out/chatterbug) - 17€ per lesson  
-    Private video lessons with a private teacher. You can book lessons every hour, so you can make your own schedule. Your teacher helps you complete exercises, and asks you questions. You can skip exercises you understand, or slow down to ask questions. If you don't like your teacher, you can find a new one. It's a great way to practice German conversations. In my opinion, this is the best way to learn German.**[  ](https://www.duolingo.com/)**
+    Private video lessons with a private teacher. You can book lessons every hour, so you can make your own schedule. Your teacher helps you complete exercises, and asks you questions. You can skip exercises you understand, or slow down to ask questions. If you don't like your teacher, you can find a new one. It's a great way to practice German conversations. In my opinion, this is the best way to learn German.
 - **[Duolingo](https://www.duolingo.com/)** - free  
     This is a famous language learning app. It's more interesting than Babbel, but the mobile app does not explain the grammar really well. I find Duolingo too limited. I recommend Babbel or Chatterbug instead.
 - **[Expath](https://www.expath.com/for-individuals/online-courses/?utm_source=referral&utm_medium=blog&utm_campaign=AAB&utm_content=self_study)**  
@@ -249,13 +249,13 @@ I use [DeepL](https://www.deepl.com/en/translator) to translate longer texts. It
 - There are many language learning communities. I like [/r/german](https://www.reddit.com/r/german/) a lot. Their [wiki](https://www.reddit.com/r/German/wiki/) has a lot of useful information.
 
 [^0]: [mygermanuniversity.com](https://www.mygermanuniversity.com/articles/language-requirements-german), [studying-in-germany.org](https://www.studying-in-germany.org/proof-of-language-proficiency-german-english/)
-[^1]: [service.berlin.de](https://service.berlin.de/dienstleistung/121864/)
-[^2]: [service.berlin.de](https://service.berlin.de/dienstleistung/318998/)
+[^1]: [berlin.de](https://service.berlin.de/dienstleistung/121864/)
+[^2]: [berlin.de](https://service.berlin.de/dienstleistung/318998/)
 [^3]: [coe.int](https://www.coe.int/en/web/common-european-framework-reference-languages/table-3-cefr-3.3-common-reference-levels-qualitative-aspects-of-spoken-language-use), [goethe.de](https://www.goethe.de/ins/gb/en/spr/kon/stu.html)
 [^4]: [quora.com](https://www.quora.com/Do-all-native-speakers-speak-their-native-languages-at-C2-level)
-[^5]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Unterrichtseinheit)
+[^5]: [Wikipedia](https://de.wikipedia.org/wiki/Unterrichtseinheit)
 [^6]: [gls-german-courses.de](https://www.gls-german-courses.de/2009.html), [actilingua.com](https://www.actilingua.com/en/german-language-course-content/levels/), [actilingua.com](https://www.actilingua.com/en/german-language-course-content/levels/)
-[^7]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Goethe-Institut)
+[^7]: [Wikipedia](https://en.wikipedia.org/wiki/Goethe-Institut)
 [^8]: [gls-german-courses.de](https://www.gls-german-courses.de/german-course-with-accommodation-berlin.html)
 [^9]: [kapitel-zwei.de](https://kapitel-zwei.de/en/living-in-berlin/berlin-appartments/)
 [^10]: [support.italki.com](https://support.italki.com/hc/en-us/articles/206353108-What-device-software-do-I-need-to-take-classes-)

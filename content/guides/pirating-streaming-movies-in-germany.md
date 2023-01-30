@@ -97,4 +97,4 @@ This article was not written to promote sharing copyrighted material without per
 [^0]: [tagesschau.de](https://www.tagesschau.de/inland/wlan-119.html), [dejure.org](https://dejure.org/gesetze/TMG/8.html)
 [^1]: [finanztip.de](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
 [^2]: [dejure.org](https://dejure.org/gesetze/TMG/8.html)
-[^3]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Pornography_in_Germany)
+[^3]: [Wikipedia](https://en.wikipedia.org/wiki/Pornography_in_Germany)

@@ -14,5 +14,5 @@ This is different from business days (*[Arbeitstage](/glossary/Arbeitstag)*), wh
 
 On apartment leases, it means Monday to Friday, excluding official holidays.[^1]
 
-[^0]: [generali.de](https://www.generali.de/ueber-generali/magazin/samstag-als-werktag-41248/), [de.wikipedia.org](https://de.wikipedia.org/wiki/Werktag)
+[^0]: [generali.de](https://www.generali.de/ueber-generali/magazin/samstag-als-werktag-41248/), [Wikipedia](https://de.wikipedia.org/wiki/Werktag)
 [^1]: [anwaltauskunft.de](https://anwaltauskunft.de/magazin/leben/freizeit-alltag/ist-samstag-ein-werktag?full=1)

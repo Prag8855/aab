@@ -16,4 +16,4 @@ Your *Steuernummer* is not private. It should appear on your invoices, and in yo
 
 **[How to find your Steuernummer ➞](/guides/german-tax-id-steuernummer)**
 
-[^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Steuernummer), [steuererklaerung.de](https://www.steuererklaerung.de/ratgeber-steuern/steuer-id-steuernummer)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Steuernummer), [steuererklaerung.de](https://www.steuererklaerung.de/ratgeber-steuern/steuer-id-steuernummer)

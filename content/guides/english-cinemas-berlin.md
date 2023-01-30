@@ -20,7 +20,7 @@ This guide helps you find cinemas that play movies in English in Berlin.
 
 ## English movie playtimes
 
-Use [critic.de](https://www.critic.de/ov-movies-berlin/) to find which movies are currently playing in Berlin. You can search for movies in their original language, with or without subtitles.
+Berlin.de has a [list of movies in their original language](https://www.berlin.de/kino/_bin/azfilm.php/ov). You can find movies in English, with or without subtitles.
 
 ## List of cinemas
 

@@ -62,4 +62,4 @@ If you sent a letter to Max's workplace, it would look like this:
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
-[^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Zustellanweisung)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Zustellanweisung)

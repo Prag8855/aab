@@ -18,7 +18,8 @@ These banks will let you open an account without a registered address in Germany
 - **[Deutsche Bank](/out/deutsche-bank)**
 - **[DKB](/out/dkb)**[^0]  
     They rarely accept people who just moved to Germany. They use WebID to verify your passport.
-- **[ING](/out/ing)**<sup>[1  ](https://www.facebook.com/groups/berlinexpats/permalink/2028670523812390/?comment_id=2028887137124062&reply_comment_id=2029507497062026&comment_tracking=%7B%22tn%22%3A%22R%22%7D)</sup>They use [PostIdent](/glossary/Postident) to verify your passport.[^1] They require a EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).[^2]
+- **[ING](/out/ing)**[^6]  
+    They use [PostIdent](/glossary/Postident) to verify your passport.[^1] They require a EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).[^2]
 - **[Kontist](/out/kontist)**  
     Business bank for freelancers.
 - **[Monese](/out/monese)**  
@@ -58,3 +59,4 @@ If you are an immigrant, it can be hard to open a bank account in Germany:
 [^3]: [wise.com](https://wise.com/help/articles/2932693/how-is-wise-regulated-in-each-country)
 [^4]: [Screenshot](/images/Berliner-Sparkasse-no-Anmeldung-2022-03-21.png), [Screenshot](/images/Berliner-Sparkasse-no-Anmeldung-2022-03-21-b.png)
 [^5]: [Screenshot](/images/comdirect-meldebescheinigung-2022-12-07.jpg)
+[^6]: [Facebook](https://www.facebook.com/groups/berlinexpats/permalink/2028670523812390/?comment_id=2028887137124062&reply_comment_id=2029507497062026&comment_tracking=%7B%22tn%22%3A%22R%22%7D)

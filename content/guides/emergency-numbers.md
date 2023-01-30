@@ -1,7 +1,7 @@
 ---
 Title: Police and emergency numbers in Berlin
 Short_title: Emergency phone numbers
-Description: ﻿If you need to call the emergency services, call 112. For the police, call 110. This guide also tells you how to call other emergency services in Berlin.
+Description: If you need to call the emergency services, call 112. For the police, call 110. This guide also tells you how to call other emergency services in Berlin.
 Date_created: 2021-04-13
 Date_updated: 2022-10-15
 ---
@@ -40,7 +40,7 @@ Call the poison control centre of Charité at **[+49 30 19240](tel:+493019240)**
 
 Call **[Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)**. They speak English. This is a free service.
 
-[**English-speaking psychiatrists and therapists ➞**  ](/guides/english-speaking-psychiatrists-psychotherapists-berlin)
+**[English-speaking psychiatrists and therapists ➞](/guides/english-speaking-psychiatrists-psychotherapists-berlin)**
 
 ## Drugs and addiction: +49 30 19237
 

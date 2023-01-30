@@ -44,4 +44,4 @@ If your charger does not support 230V, 50Hz, you need a [travel adapter with a v
 
 [![Power adapter 100v](/images/power-adapter-100v.jpg "This device only accepts a 100V input. You need a power converter to use this device in Germany.")](/images/power-adapter-100v.jpg)
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Schuko)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/Schuko)

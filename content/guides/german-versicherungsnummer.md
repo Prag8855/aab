@@ -115,9 +115,9 @@ If you don't know those numbers, enter your *Versicherungsnummer* and leave thos
 
 [![Deutsche rentenversicherung panr bxnr zanr form](/images/deutsche-rentenversicherung-panr-bxnr-zanr-form.png "If you do not receive a German pension, you don't have to fill these fields.")](/images/deutsche-rentenversicherung-panr-bxnr-zanr-form.png)
 
-[^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland)
 [^1]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html?ticket=ST-1094619-XTkgYayflTym7m9Klk9b-ap1#:~:text=das%20sind%20die%20bereichsnummern)
-[^2]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html)
+[^2]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html)
 [^3]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/4824170-can-i-get-a-social-security-number-with-private-health-insurance)
 [^4]: [forum.tour-magazin.de](https://forum.tour-magazin.de/showthread.php?88103-Sozialversicherungsnummer&p=1537332#post1537332)
 [^5]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/Allgemein/de/Inhalt/3_Infos_fuer_Experten/02_arbeitgeber_steuerberater/04_meldeverfahren_deuev/05_sv_ausweis/Sozialversicherungsausweis.html)

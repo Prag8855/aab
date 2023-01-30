@@ -1,6 +1,6 @@
 ---
-Title: What is a ﻿Hundesteuermarke?
-German_term: ﻿Hundesteuermarke
+Title: What is a Hundesteuermarke?
+German_term: Hundesteuermarke
 English_term: Dog tax collar tag
 Description: The Hundesteuermarke is a dog tag you get when you register your dog Finanzamt.
 Date_created: 2020-12-17

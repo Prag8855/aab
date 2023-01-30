@@ -15,7 +15,7 @@ You can cancel your BVG yearly ticket [on the BVG website](https://abo.bvg.de/de
 
 ## How to cancel by mail
 
-You must cancel your yearly ticket **at least 6 weeks before the end of your subscription**<sup>[10.1](https://www.bvg.de/de/?section=downloads&download=652)</sup>. That's what the BVG says, but cancelled my subscription 3 weeks before it ended.[^0]
+You must cancel your yearly ticket **at least 6 weeks before the end of your subscription**.[^3] That's what the BVG says, but cancelled my subscription 3 weeks before it ended.[^0]
 
 You can cancel by email or by mail, but it's easier to do it online.
 
@@ -57,7 +57,7 @@ Once the BVG receives your written request, they will reply with a confirmation.
 
 ### 4. Return your BVG card
 
-At the end of your 12 month subscription, your card will stop working. You have 10 days to return the plastic card to the BVG<sup>[10.5](https://www.bvg.de/de/?section=downloads&download=652)</sup>. If you do not return the card, you will be billed 10€.[^2]
+At the end of your 12 month subscription, your card will stop working. You have 10 days to return the plastic card to the BVG.[^4] If you do not return the card, you will be billed 10€.[^2]
 
 ## How to cancel in person
 
@@ -70,3 +70,5 @@ You can also cancel a BVG yearly ticket at any [BVG Kundenzentrum](https://www.b
 [^0]: [Screenshot](/images/bvg-abo-kuendigung.jpg)
 [^1]: [bvg.de](https://www.bvg.de/de/Serviceseiten/Kontakt)
 [^2]: [bvg.de](https://www.bvg.de/de/?section=downloads&download=652)
+[^3]: [Section 10.1](https://www.bvg.de/de/?section=downloads&download=652)
+[^4]: [Section 10.5](https://www.bvg.de/de/?section=downloads&download=652)

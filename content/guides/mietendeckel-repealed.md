@@ -126,9 +126,9 @@ This means that if you don't return the money you saved with the *Mietendeckel*,
 
 **[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Mietendeckel), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^1]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html)
-[^2]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Mietendeckel), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/bundesverfassungsgericht-berlin-mietendeckel-entscheidung.html)
+[^2]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/bundesverfassungsgericht-berlin-mietendeckel-entscheidung.html)
 [^3]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/interview-mietendeckel-berlin-mieterverein.htm/), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^4]: [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^5]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-3)

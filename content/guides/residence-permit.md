@@ -50,14 +50,14 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
 - **[[Au pair visa]]**  
     For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract to apply for the visa.
 - **[[Family reunion visa]]**  
-    For spouses and family members of German residents. This is how you can bring your family to Germany. With a family reunion visa, your spouse and your children can work or study in Germany.[  ](https://www.make-it-in-germany.com/en/visa-residence/quick-check)
+    For spouses and family members of German residents. This is how you can bring your family to Germany. With a family reunion visa, your spouse and your children can work or study in Germany.
 - [And many others…](https://www.make-it-in-germany.com/en/visa-residence/quick-check)
 
 ### Residence permits to work
 
 These residence permits allow you to work in Germany:
 
-- [Work visa](/glossary/Work%20Visa)[  ](/glossary/Blue%20Card)
+- [Work visa](/glossary/Work%20Visa)
 - [[Blue Card]]
 - [[Au pair visa]]
 - [[Family reunion visa]]
@@ -110,12 +110,12 @@ After a few years, you can apply for [permanent residency](/glossary/Niederlassu
 
 **[Where to get help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
-[^1]: [expatica.com](https://www.expatica.com/de/moving/visas/eu-citizen-visas-in-germany-108794/), [service.berlin.de](https://service.berlin.de/dienstleistung/324287/en/)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
+[^1]: [expatica.com](https://www.expatica.com/de/moving/visas/eu-citizen-visas-in-germany-108794/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/)
 [^2]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^3]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
-[^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
+[^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^5]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)
-[^6]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/internship)
-[^7]: [service.berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
+[^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/internship)
+[^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^8]: [quora.com](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [quora.com](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [quora.com](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)

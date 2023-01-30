@@ -16,10 +16,12 @@ Since May 2018, all websites that serve European Union customers must follow the
 
 Here are the basic principles of GDPR:
 
-1. **[Only collect the data you really need  ](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-much-data-can-be-collected_en)**Be careful about data you accidentally collect, such as server logs.
+1. **[Only collect the data you really need](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-much-data-can-be-collected_en)**  
+    Be careful about data you accidentally collect, such as server logs.
 2. **[Do not store data for longer than necessary](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-long-can-data-be-kept-and-it-necessary-update-it_en)**  
     When you no longer need the data, delete it.[^24]
-3. **Do not store personal data without the user's consent.** Get explicit consent from your users before collecting their data. The only exception is for data that's absolutely necessary to make your service work.[^23]
+3. **Do not store personal data without the user's consent.**  
+    Get explicit consent from your users before collecting their data. The only exception is for data that's absolutely necessary to make your service work.[^23]
 4. **[Be transparent about the data you collect from your users](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/what-information-must-be-given-individuals-whose-data-collected_en).**  
     Disclose the data you collect, why you collect that data, and who you collect that data for. Put this information in your privacy policy (*Datenschutzerklärung*).[^20]
 5. **[Only use the data for the purpose it was collected for](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/what-data-can-we-process-and-under-which-conditions_en).**

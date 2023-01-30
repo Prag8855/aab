@@ -127,7 +127,7 @@ The free N26 account lets you withdraw money 3 times per month for free. After t
 
 Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees.[ Other banks](/guides/first-bank-account-in-germany#german-banks-with-no-atm-fees) charge even higher fees to withdraw money.
 
-[**Banks with no ATM fees ➞**  ](/guides/first-bank-account-in-germany#german-banks-with-no-atm-fees)
+**[Banks with no ATM fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-atm-fees)**
 
 ### Account creation problems (fixed?)
 
@@ -207,7 +207,7 @@ Here are things I don't like about it:
 
 ## Is N26 safe?
 
-**Yes.** N26 is a regular bank, with 1500 employees and millions of users<sup>[1](https://de.wikipedia.org/wiki/N26_(Direktbank))</sup>. It's not a startup. Your money is insured up to 100,000€[^3] by the German government. This is normal for all German banks.
+**Yes.** N26 is a regular bank, with 1500 employees and millions of users.[^5] It's not a startup. Your money is insured up to 100,000€[^3] by the German government. This is normal for all German banks.
 
 ## Conclusion
 
@@ -234,3 +234,4 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 [^2]: [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](http://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)
 [^3]: [n26.com](https://n26.com/en-de/security)
 [^4]: [support.n26.com](https://support.n26.com/en-de/getting-started/cash/how-often-can-i-withdraw-cash-for-free)
+[^5]: [Wikipedia](https://de.wikipedia.org/wiki/N26_(Direktbank))

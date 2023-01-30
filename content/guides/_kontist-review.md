@@ -1,7 +1,7 @@
 ---
 Title: My review of Kontist (it's bad)
 Short_title: Review of Kontist
-Description: I ﻿use Kontist as my business bank since January 2022. All of my business transactions go through it. This is my honest review of their service.﻿﻿
+Description: I use Kontist as my business bank since January 2022. All of my business transactions go through it. This is my honest review of their service.
 Date_created: 2022-02-10
 Date_updated: 2023-01-29
 ---

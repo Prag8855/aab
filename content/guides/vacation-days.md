@@ -71,7 +71,7 @@ If you are sick, you get paid sick leave. You don't need to use your vacation da
 **[Sick leave in Germany ➞](/guides/sick-leave)**
 
 [^0]: [§1 BUrlG](https://www.gesetze-im-internet.de/burlg/__1.html)
-[^1]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Bundesurlaubsgesetz#:~:text=im%20fall%20einer%205-tage-woche%20betragt%20der%20gesetzliche%20urlaubsanspruch%20daher%20umgerechnet%2020%20arbeitstage)
+[^1]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesurlaubsgesetz#:~:text=im%20fall%20einer%205-tage-woche%20betragt%20der%20gesetzliche%20urlaubsanspruch%20daher%20umgerechnet%2020%20arbeitstage)
 [^2]: [de.statista.com](https://de.statista.com/statistik/daten/studie/886135/umfrage/urlaubstage-und-feiertage-in-deutschland-nach-bundeslaendern/)
 [^3]: [§5 BUrlG](https://www.gesetze-im-internet.de/burlg/__5.html)
 [^4]: [§4 BUrlG](https://www.gesetze-im-internet.de/burlg/__4.html)
@@ -79,4 +79,4 @@ If you are sick, you get paid sick leave. You don't need to use your vacation da
 [^6]: [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#Die_Urlaubsgenehmigung_erfolgt_durch_den_Arbeitgeber)
 [^7]: [§7 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=dringende%20betriebliche%20grunde)
 [^8]: [simplegermany.com](https://www.simplegermany.com/vacation-days-in-germany/#:~:text=if%20you%20work%20in%20a%20team%20with%20parents%20of%20kids%20who%20go%20to%20school), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=arbeitnehmer%20mit%20schulpflichtigen%20kindern)
-[^9]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)
+[^9]: [Wikipedia](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)

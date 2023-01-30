@@ -29,7 +29,7 @@ There are 3 conditions for getting a German pension refund:
 
 ### EU and EEA citizens
 
-If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you can always contribute to your German pension, so you can't get a refund.<sup>[1](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [2](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [3](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [§10.2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)</sup>
+If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you can always contribute to your German pension, so you can't get a refund.[^40]
 
 There is an exception.[^1] You can get a refund if:
 
@@ -353,7 +353,7 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^12]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=unter%20berucksichtigung%20dieser%20voraussetzungen%20ist%20fur%20turkische%20staatsangehorige%20eine%20beitragserstattung%20auch%20dann%20moglich)
 [^13]: [Screenshot](/images/rene-pension-turkey-2022-01-20.png)
 [^14]: [taxback.com](https://www.taxback.com/en/germany/pension-return/)
-[^15]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung), [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Broschueren/international/weitere_abkommen_fremdsprachig/working_in_germany_no_contracting_states.pdf;jsessionid=3D2A15785448B28F82B12270A1319D03.delivery2-8-replication?__blob=publicationFile&v=1)
+[^15]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung), [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Broschueren/international/weitere_abkommen_fremdsprachig/working_in_germany_no_contracting_states.pdf;jsessionid=3D2A15785448B28F82B12270A1319D03.delivery2-8-replication?__blob=publicationFile&v=1)
 [^16]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0910.html), [rentenfuchs.info](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/)
 [^17]: [rentenfuchs.info](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/)
 [^18]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-2803300), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=5#comment-2351838)
@@ -373,8 +373,9 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^32]: [taxback.com](https://www.taxback.com/en/germany/pension-return/?utm_source=allaboutberlin)
 [^33]: [ssr.germanymantra.com](http://ssr.germanymantra.com/contact-us)
 [^34]: [web.archive.org](https://web.archive.org/web/20110310055547/http://ssr.germanymantra.com/faqs)
-[^35]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [settle-in-berlin.com](https://www.settle-in-berlin.com/pension-refund-when-leaving-germany/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-3317004), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/)
+[^35]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [Settle in Berlin](https://www.settle-in-berlin.com/pension-refund-when-leaving-germany/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-3317004), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/)
 [^36]: [Screenshot](/images/pension-refund-bank-account-2022-04-09.png)
-[^37]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308)
-[^38]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung)
+[^37]: [§210 SGB VI](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308)
+[^38]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung)
 [^39]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/?page=1)
+[^40]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [rentenfuchs.info](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [Regulation (EEC) No 1408/71, §10 para. 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)

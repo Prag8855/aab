@@ -12,7 +12,7 @@ After you [move to Berlin](/guides/moving-to-berlin) and [find a place to live](
 
 ## Why you need to register
 
-You must register your address. It's the law.<sup>[§17](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)</sup>
+You must register your address. It's the law.[^33]
 
 When you register your address, you get:
 
@@ -107,7 +107,7 @@ Sometimes, you can't do you *Anmeldung* at your current address. If you don't ha
 2. **The landlord does not want to let you register there**  
     This is illegal.[^30] If you have a lease, the landlord must let you register your address.[^29] If you tell the *[[Bürgeramt]]*, they will force the landlord to let you register.[^17]
 3. **It's a commercial accommodation**  
-    The rules are different for hotels and commercial apartments<sup>[§29](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)</sup>. This is why some hotels and Airbnb apartments don't let you register.
+    The rules are different for hotels and commercial apartments.[^34] This is why some hotels and Airbnb apartments don't let you register.
     - **If you are already registered in Germany**  
         If you live there for more than 6 months, the accommodation must let you register.[^18]
     - **If you are not registered in Germany**  
@@ -131,14 +131,14 @@ If you have questions, talk to a [tenant association](/glossary/Mieterverein), o
 
 ### Do I need to register my address?
 
-**Yes.** You must register your address<sup>[§17](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)</sup>. It's the law.
+**Yes.** You must register your address.[^33] It's the law.
 
 There are exceptions:
 
 - **You visit for less than 3 months**  
-    If you visit from another country, and you stay in Germany for less than 3 months, you don't need to register your address.<sup>[§27.2](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0254)</sup>
+    If you visit from another country, and you stay in Germany for less than 3 months, you don't need to register your address.[^35]
 - **You will move in the next 6 months**  
-    If you are already registered somewhere else, and you will stay at your new address for less than 6 month.<sup>[§27.2](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0254)</sup> For example, if you are registered at your parents' house, and you live with a friend for a few months.
+    If you are already registered somewhere else, and you will stay at your new address for less than 6 month.[^35] For example, if you are registered at your parents' house, and you live with a friend for a few months.
 
 ### Do I need to register within 14 days?
 
@@ -252,7 +252,7 @@ If you just moved to Berlin, I have more advice for you.
 [^8]: [facebook.com](https://www.facebook.com/groups/226825394858771/posts/906082933599677), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/939547690253201), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/797844441090194/)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/qr1w7o/credit_cards_are_finally_accepted_at_the/hk6mpwi/?context=3)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lua6cx/anmeldung_for_wife_and_kid_after_family/)
-[^11]: [service.berlin.de](https://service.berlin.de/dienstleistung/120686/)
+[^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
 [^13]: [Screenshot](/guides/german-tax-id-steuernummer)
 [^14]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9yk7dk/how_to_do_anmeldung_when_im_not_allowed_to/ea1yi5i/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bb5rnz/what_if_i_dont_find_a_place_with_anmeldung/ekghkk6/)
@@ -274,3 +274,6 @@ If you just moved to Berlin, I have more advice for you.
 [^30]: [§17 Abs. 1 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h86woq/registering_address_shall_i_fill_in_a_new/fuqs446/)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/)
+[^33]: [§17 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
+[^34]: [§29 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
+[^35]: [§27 Abs. 2 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0254)

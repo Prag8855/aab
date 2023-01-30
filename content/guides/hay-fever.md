@@ -51,14 +51,14 @@ You can't buy allergy pills at dm or Rossmann.
 - Wash your hair before going to bed.[^12]
 - Buy an air purifier and a vacuum robot to remove pollen from your apartment.[^12]
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Allergic_rhinitis)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/Allergic_rhinitis)
 [^1]: [allergie.hexal.de](https://allergie.hexal.de/pollenflug/pollenflugkalender/)
 [^2]: [amzn.to](https://amzn.to/3wCJbR4)
-[^3]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Loratadine)
+[^3]: [Wikipedia](https://en.wikipedia.org/wiki/Loratadine)
 [^4]: [amzn.to](https://amzn.to/3akQXrv)
-[^5]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Cetirizine)
+[^5]: [Wikipedia](https://en.wikipedia.org/wiki/Cetirizine)
 [^6]: [amzn.to](https://amzn.to/3ySqsDK)
-[^7]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Levocetirizine#Availability)
+[^7]: [Wikipedia](https://en.wikipedia.org/wiki/Levocetirizine#Availability)
 [^8]: [shop-apotheke.com](https://www.shop-apotheke.com/search.htm?i=1&q=Mometa&searchChannel=algolia)
 [^9]: [krankenkassenzentrale.de](https://www.krankenkassenzentrale.de/wiki/heuschnupfen#:~:text=allerdings%20mussen%20gesetzlich%20versicherte%20die%20rezeptfreien%20medikamente%20gegen%20die%20fruhjahrsallergie%20selbst%20zahlen)
 [^10]: [krankenkassenzentrale.de](https://www.krankenkassenzentrale.de/wiki/heuschnupfen#:~:text=privat%20krankenversicherte%20haben%20den%20vorteil)

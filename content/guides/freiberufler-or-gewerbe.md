@@ -19,7 +19,7 @@ The *[[Finanzamt]]* decides which one you are when you [register your business](
 
 ## [[Freiberufler]] (freelancer)
 
-In Germany, this title is for self-employed professionals *with special qualifications* who sell their services. Self-employed doctors, lawyers, accountants, engineers, IT professionals, architects and teachers are usually *Freiberufler*<sup>[1](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [2](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)</sup>. Food delivery drivers and tour guides are not Freiberufler.
+In Germany, this title is for self-employed professionals *with special qualifications* who sell their services. Self-employed doctors, lawyers, accountants, engineers, IT professionals, architects and teachers are usually *Freiberufler*.[^14] Food delivery drivers and tour guides are not Freiberufler.
 
 If you sell products, you are not a *Freiberufler*. For example, software developers are a *Freiberufler* if they sell programming as a service, but a *Gewerbe* if they sell software licences. Websites that are financed by ads or affiliate links are almost always a *Gewerbe*.
 
@@ -86,7 +86,7 @@ See [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) 
 
 Small businesses (*Kleinunternehmer*) don't need to use double entry bookkeeping, since they have a lower revenue and are not listed in the *Handelsregister*.
 
-You can also request an exemption from double entry bookkeeping under §148 AO<sup>[en](https://www.gesetze-im-internet.de/ao_1977/__148.html), [de](https://www.gesetze-im-internet.de/ao_1977/__148.html)</sup> : *The revenue authorities may in individual cases or for certain groups of cases authorize simplifications where adherence to the accounting, recording and storage duties set out in the tax laws causes undue hardship and where taxation is not hampered by the simplifications.*
+You can also request an exemption from double entry bookkeeping under §148 AO : *The revenue authorities may in individual cases or for certain groups of cases authorize simplifications where adherence to the accounting, recording and storage duties set out in the tax laws causes undue hardship and where taxation is not hampered by the simplifications.*[^15]
 
 If you think this applies to you, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin) about it.
 
@@ -107,10 +107,12 @@ A small business (*[[Kleinunternehmer]]*) is a *Freiberufler* or *Gewerbe* with 
 [^4]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig), [andrewcross.eu](http://andrewcross.eu/vat-freelancers-germany/)
 [^5]: [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
 [^6]: [sevdesk.de](https://sevdesk.de/lexikon/eintragung-handelsregister/)
-[^7]: [settle-in-berlin.com](https://www.settle-in-berlin.com/how-to-become-a-freelancer-in-germany-self-employed/#Registering_as_self-employed_in_Germany_Gewerbetreibende)
+[^7]: [Settle in Berlin](https://www.settle-in-berlin.com/how-to-become-a-freelancer-in-germany-self-employed/#Registering_as_self-employed_in_Germany_Gewerbetreibende)
 [^8]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/muss-ich-ein-kleingewerbe-anmelden)
 [^9]: [steuern.de](https://www.steuern.de/steuererklaerung-kleinunternehmer.html)
 [^10]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/gewstg/__11.html)
 [^11]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^12]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/buchfuehrung/bilanzierung/)
 [^13]: [selbststaendig-machen.net](https://www.selbststaendig-machen.net/handelsregister-lohnt-der-freiwillige-eintrag/)
+[^14]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [hk24.de](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)
+[^15]: §148 AO in [English](https://www.gesetze-im-internet.de/ao_1977/__148.html) and [German](https://www.gesetze-im-internet.de/ao_1977/__148.html)

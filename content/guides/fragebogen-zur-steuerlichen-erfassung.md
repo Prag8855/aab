@@ -608,7 +608,7 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 - [How to choose health insurance](/guides/german-health-insurance)
 - [List of English-speaking tax advisors](/guides/english-speaking-steuerberater-berlin)
 
-[^0]: [service.berlin.de](https://service.berlin.de/dienstleistung/325409/en/)
+[^0]: [berlin.de](https://service.berlin.de/dienstleistung/325409/en/)
 [^1]: [medium.com](https://medium.com/@tiahardyrobinson/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^2]: [Screenshot](/guides/freiberufler-or-gewerbe)
 [^3]: [andrewcross.eu (archived)](https://web.archive.org/web/20300000000000/https://20300000000000/vat-freelancers-germany/)

@@ -16,5 +16,5 @@ You apply for *ALG II* at the Jobcenter. When you receive *ALG II*, the governme
 
 *ALG II* is not unemployment insurance. Unemployment insurance is called *[[ALG I]]*.
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Hartz_concept#Hartz_IV)
-[^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Unemployment_benefits#Germany)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/Hartz_concept#Hartz_IV)
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Unemployment_benefits#Germany)

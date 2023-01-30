@@ -1,6 +1,6 @@
 ---
-Title: What is a Prüfungsbericht﻿?
-German_term: Prüfungsbericht﻿
+Title: What is a Prüfungsbericht?
+German_term: Prüfungsbericht
 English_term: Audit report
 Description: 
 Date_created: 2021-02-08

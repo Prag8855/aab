@@ -157,11 +157,11 @@ When you invest in a Rürup pension
 
 
 
-[^0]: [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/#weitere-unterschiede-im-vergleich), [de.wikipedia.org](https://de.wikipedia.org/wiki/Riester-Rente#Mittelbar_zulageberechtigte_Personen)
+[^0]: [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/#weitere-unterschiede-im-vergleich), [Wikipedia](https://de.wikipedia.org/wiki/Riester-Rente#Mittelbar_zulageberechtigte_Personen)
 
-[^1]: [de.wikipedia.org](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente), [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/#weitere-unterschiede-im-vergleich)
+[^1]: [Wikipedia](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente), [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/#weitere-unterschiede-im-vergleich)
 
-[^2]: [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/), [de.wikipedia.org](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente)
+[^2]: [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/), [Wikipedia](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente)
 
 [^3]: [inflationtool.com](https://www.inflationtool.com/euro)
 
@@ -169,6 +169,6 @@ When you invest in a Rürup pension
 
 [^5]: [ruerup-rente.net](https://www.ruerup-rente.net/ratgeber/riester-oder-ruerup-rente-ein-vergleich/#weitere-unterschiede-im-vergleich)
 
-[^6]: [de.wikipedia.org](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente#Bewertung)
+[^6]: [Wikipedia](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente#Bewertung)
 
-[^7]: [de.wikipedia.org](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente#Leistung_im_Todesfall)
+[^7]: [Wikipedia](https://de.wikipedia.org/wiki/R%C3%BCrup-Rente#Leistung_im_Todesfall)

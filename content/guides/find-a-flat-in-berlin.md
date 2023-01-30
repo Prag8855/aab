@@ -450,7 +450,7 @@ You should also get [liability insurance](/glossary/Haftpflichtversicherung) and
 [^14]: [morgenpost.de](https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
 [^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
-[^17]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
+[^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://www.expaturm.com/fixed-term-rental-contract/#1-are-fixed-term-rental-contracts-permitted-in-germany)
 [^20]: [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)

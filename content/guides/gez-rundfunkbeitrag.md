@@ -60,9 +60,9 @@ How to pay by bank transfer:
 
 ### If you live with other people
 
-Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax<sup>[§3.1](https://bravors.brandenburg.de/vertraege/rbstv)</sup>. You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
+Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax.[^12] You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
 
-If you live in a student dorm (*Studenten­wohn­heim*), you must still pay the TV tax.[^5]
+If you live in a student dorm (*Studentenwohnheim*), you must still pay the TV tax.[^5]
 
 ### How to pay less
 
@@ -71,17 +71,17 @@ Some people pay less, or don't pay anything:
 - **Students**  
     If you get financial aid ([*BAföG*](/glossary/BAföG)),[^6] you don't pay the TV tax.
 - **Apprentices** ([*Azubis*](/glossary/Azubi))  
-    If you get financial aid (*Ausbildungs­geld*), you don't pay the TV tax. Most apprentices have to pay the TV tax.[^7]
+    If you get financial aid (*Ausbildungsgeld*), you don't pay the TV tax. Most apprentices have to pay the TV tax.[^7]
 - **[[ALG II]] and Sozialgeld recipients**  
     If you receive social benefits, you do not pay the TV tax.[^6]
 - **People with disabilities**   
-    If you have *RF* in your disabled person's pass (*Schwerbehindertenausweis*), you pay 1/3 of the fee<sup>[1](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/menschen_mit_behinderung/index_ger.html), [§5.3](https://bravors.brandenburg.de/vertraege/rbstv)</sup>.
+    If you have *RF* in your disabled person's pass (*Schwerbehindertenausweis*), you pay 1/3 of the fee.[^9]
 - **Senior citizens**  
-    If you live in a nursing home<sup>[§3.2](https://bravors.brandenburg.de/vertraege/rbstv)</sup>, or you get financial aid, you don't pay the TV tax.
+    If you live in a nursing home,[^11] or you get financial aid, you don't pay the TV tax.
 - **Asylum seekers**  
-    Residences for asylum seekers do not pay the TV tax<sup>[§3.2](https://bravors.brandenburg.de/vertraege/rbstv)</sup>.
+    Residences for asylum seekers do not pay the TV tax.[^11]
 - **Secondary residence**  
-    You don't pay the TV tax for your secondary residence (*Nebenwohnung*)<sup>[1](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_nebenwohnung/index_ger.html), [§4a](https://bravors.brandenburg.de/vertraege/rbstv#d)</sup>. You must [apply for an exemption](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_nebenwohnung/index_ger.html).
+    You don't pay the TV tax for your secondary residence (*Nebenwohnung*).[^10] You must [apply for an exemption](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_nebenwohnung/index_ger.html).
 
 **[Ask for a reduction or an exemption](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_oder_ermaessigung_beantragen/index_ger.html)** (in German) - rundfunkbeitrag.de
 
@@ -92,7 +92,7 @@ If you leave Germany, you must tell the *Beitragsservice*. You will stop getting
 **[Deregister from the TV tax](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html)** (in German) - rundfunkbeitrag.de
 
 [^0]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/senderfamilie/index_ger.html#:~:text=7.-,online%20dabei)
-[^1]: [de.wikipedia.org](https://de.wikipedia.org/wiki/ARD_ZDF_Deutschlandradio_Beitragsservice)
+[^1]: [Wikipedia](https://de.wikipedia.org/wiki/ARD_ZDF_Deutschlandradio_Beitragsservice)
 [^2]: [infranken.de](https://www.infranken.de/ueberregional/deutschland/gez-verweigerer-mann-53-sitzt-seit-monaten-im-gefaengnis-weil-er-rundfunkbeitrag-nicht-zahlt-art-5221946), [m.focus.de](https://m.focus.de/politik/deutschland/deutschlands-bekanntester-gebuehren-verweigerer-gez-rebell-thiel-er-lebt-von-1200-euro-schlaeft-auf-klappbett-ist-vegetarier_id_24335499.html)
 [^3]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/informationen_zum_meldedatenabgleich/index_ger.html)
 [^4]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/bankverbindung/index_ger.html)
@@ -100,3 +100,7 @@ If you leave Germany, you must tell the *Beitragsservice*. You will stop getting
 [^6]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/empfaenger_von_sozialleistungen/index_ger.html?highlight=befreiung.%20befreiung)
 [^7]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/empfaenger_von_sozialleistungen/index_ger.html?highlight=ausbildungs%C2%ADgeld%20Ausbildungsgeld#befreiung_von_der_rundfunkbeitragspflicht__voraussetzungen)
 [^8]: [fr.de](https://www.fr.de/wirtschaft/rundfunkbeitrag-gez-pfaendung-schufa-eintrag-drohen-aerger-vermeiden-13282534.html)
+[^9]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/menschen_mit_behinderung/index_ger.html), [§5.3 RBStV](https://bravors.brandenburg.de/vertraege/rbstv)
+[^10]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_nebenwohnung/index_ger.html), [§4a RBStV](https://bravors.brandenburg.de/vertraege/rbstv#d)
+[^11]: [§3.2 RBStV](https://bravors.brandenburg.de/vertraege/rbstv)
+[^12]: [§3.1 RBStV](https://bravors.brandenburg.de/vertraege/rbstv)

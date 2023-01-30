@@ -31,7 +31,7 @@ Baking powder is called *Backpulver* in Germany. It's easy to find. Look for [sm
 
 ### Boneless chicken thighs
 
-This is not a common product in Germany,[^1] but Metro has them, and sometimes Penny.
+Kaufland and Metro have them, and sometimes Penny. This is not a common product in Germany.[^1]
 
 ### Brown sugar
 
@@ -182,5 +182,5 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ithnsf/almond_flour/)
 [^1]: [reddit.com/r/ketode](https://old.reddit.com/r/ketode/comments/40o744/how_do_i_get_chicken_thighs_in_germany/)
-[^2]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Evaporated_milk)
+[^2]: [Wikipedia](https://en.wikipedia.org/wiki/Evaporated_milk)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5k463r/where_can_i_buy_marmite/)

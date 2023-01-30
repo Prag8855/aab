@@ -1,5 +1,5 @@
 ---
-Title: What is the ﻿ARD ZDF Deutschlandradio Beitragsservice?
+Title: What is the ARD ZDF Deutschlandradio Beitragsservice?
 German_term: ARD ZDF Deutschlandradio Beitragsservice
 English_term: ARD ZDF and Deutschlandradio collection service
 Description: 

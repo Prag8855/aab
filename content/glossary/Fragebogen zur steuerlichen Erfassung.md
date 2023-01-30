@@ -20,4 +20,4 @@ Since 2021, there is no paper form. You must fill this form online.[^0] You can 
 
 **[How to fill this form ➞](/guides/fragebogen-zur-steuerlichen-erfassung)**
 
-[^0]: [service.berlin.de](https://service.berlin.de/dienstleistung/325409/en/)
+[^0]: [berlin.de](https://service.berlin.de/dienstleistung/325409/en/)

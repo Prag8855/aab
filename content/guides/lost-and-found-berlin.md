@@ -86,7 +86,7 @@ For objects found in the train or public transit, the rules are different:
 - **Over 50€**: half of the normal reward
 
 [^0]: [bvg.de](https://www.bvg.de/de/Service/Kundenservice/Fundbuero)
-[^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p3896), [juraforum.de](https://www.juraforum.de/ratgeber/zivilrecht/finderlohn-so-berechnen-sie-die-hoehe), [de.wikipedia.org](https://de.wikipedia.org/wiki/Finderlohn)
+[^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p3896), [juraforum.de](https://www.juraforum.de/ratgeber/zivilrecht/finderlohn-so-berechnen-sie-die-hoehe), [Wikipedia](https://de.wikipedia.org/wiki/Finderlohn)
 [^2]: [inside.bahn.de](https://inside.bahn.de/fundservice-der-db/)
 [^3]: [bahn.de](https://www.bahn.de/p/view/service/fundservice.shtml)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1735948-1721039-fundbueros-in-berlin.html)

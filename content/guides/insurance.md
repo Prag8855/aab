@@ -32,7 +32,7 @@ If someone gets hurt because of you, you might pay thousands or even millions of
 
 Private liability insurance does not cover you at work.
 
-If you are self-employed and you make a mistake, your clients can sue you. Professional liability insurance (*Berufs­haft­pflicht­ver­si­che­rung*) protects you against that. It's required for doctors, architects, lawyers and some other professions.[^0]
+If you are self-employed and you make a mistake, your clients can sue you. Professional liability insurance (*Berufshaftpflichtversicherung*) protects you against that. It's required for doctors, architects, lawyers and some other professions.[^0]
 
 If you are an employee, you don't need professional liability insurance. Your employer's insurance covers you at work.[^1]
 

@@ -8,4 +8,6 @@ Date_updated: 2022-04-20
 Related_guides: guides/cost-of-living.md
 ---
 
-The capital gains tax (*Kapitalertragsteuer*) is a tax on all capital gains from stocks and other investments. In Germany, the capital gains tax is a flat 25%, plus solidarity tax<sup>[1](https://de.wikipedia.org/wiki/Kapitalertragsteuer_(Deutschland)#Bemessung_der_Kapitalertragsteuer)</sup>.
+The capital gains tax (*Kapitalertragsteuer*) is a tax on all capital gains from stocks and other investments. In Germany, the capital gains tax is a flat 25%, plus solidarity tax.[^1]
+
+[^1]: [Wikipedia](https://de.wikipedia.org/wiki/Kapitalertragsteuer_(Deutschland)#Bemessung_der_Kapitalertragsteuer)

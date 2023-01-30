@@ -32,7 +32,7 @@ Some insurance policies will cover these accidents:
 - **Lost keys** If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some rent contracts require liability insurance that covers lost keys.
 - **Damage to things you rent or borrow** (*geliehene Sachen*)  
     For example, you break the couch in your furnished apartment,[^6] you damage a hotel room while you are on vacation,[^7] or you borrow a neighbour's drill and you break it.[^8]
-- **Damage while helping a friend** (*Gefäl­ligkeits­schäden*)  
+- **Damage while helping a friend** (*Gefälligkeitsschäden*)  
     If you help your friend to move, and you break their furniture, liability insurance will not pay for it.[^9] Some new liability insurance policies cover this.[^10]
 - **Other people's insurances not paying you** (*Forderungsausfall*)  
     If someone else hurts you, and they cannot pay the damages, your liability insurance will pay you.
@@ -193,7 +193,7 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^8]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=ob%20die%20versicherung%20zahlt%2C%20wenn%20eine%20geliehene%20sache%20kaputt%C2%ADgeht), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=geliehenes%20mitversichern)
 [^9]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=den%20ich%20bei%20einem%20umzug%20eines%20freundes%20verursache), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=deine%20Firmenschl%C3%BCssel%20verlierst.-,gefalligkeitsschaden,-Als%20Gef%C3%A4lligkeitssch%C3%A4den%20gelten)
 [^10]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=viele%20neuere%20tarife%20springen%20auch%20bei%20gefal%C2%ADligkeits%C2%ADschaden%20ein)
-[^11]: [settle-in-berlin.com](https://www.settle-in-berlin.com/insurance-in-germany/)
+[^11]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^12]: [geldsparen.de](https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)
 [^13]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
 [^14]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=weil%20die%20gesetzliche%20haftung%20unbegrenzt%20ist)
@@ -208,7 +208,7 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^23]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891#:~:text=die%20vereinbarung%20einer%20selbstbeteiligung)
 [^24]: [clark.de](https://www.clark.de/rechtsschutzversicherung/steuern/#Welche-Versicherungen-kann-ich-von-der-Steuer-absetzen?), [lohnsteuer-kompakt.de](https://www.lohnsteuer-kompakt.de/texte/2021/106/kranken-_und_pflegeversicherung#:~:text=Berufsunf%C3%A4higkeits-%2C%20Unfall-%20und-,haftpflichtversicherungen,-%2C%20zu%20Risikolebensversicherungen%2C%20zu)
 [^25]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_vvg/englisch_vvg.html#p0376)
-[^26]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Betriebshaftpflichtversicherung)
+[^26]: [Wikipedia](https://de.wikipedia.org/wiki/Betriebshaftpflichtversicherung)
 [^27]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stberg/__67.html)
 [^28]: [coya.com](https://www.coya.com/blog/alle-hunde), [allaboutberlin.com](/guides/pet-ownership#dangerous-breeds)
 [^29]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/wie-teuer-ist-eine-rechtsschutzversicherung/)

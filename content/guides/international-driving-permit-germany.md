@@ -1,7 +1,7 @@
 ---
 Title: How to get an International Driving Permit in Berlin
 Short_title: How to get an International Driving Permit
-Description: How to get your IDP in Berlin and the rest of Germany, both with German and foreign driver licences.​
+Description: How to get your IDP in Berlin and the rest of Germany, both with German and foreign driver licences.
 Date_created: 2017-11-20
 Date_updated: 2022-04-18
 ---
@@ -34,5 +34,5 @@ The *[[Bürgeramt]]* only gives International Driving Permits for German driving
 - **United States:** The AAA can [mail International Driving Permits overseas](https://www.aaa.com/vacation/idpf.html).
 - **Great Britain:** From the [AA,](http://www.theaa.com/getaway/idp/) the [RAC](http://www.rac.co.uk/driving-abroad/international-driving-permit/) or the [Post Office](http://www.postoffice.co.uk/international-driving-permit). You can also [request a British IDP by post](http://www.theaa.com/driving-advice/driving-abroad/apply-for-an-idp-by-post).
 
-[^0]: [en.wikipedia.org](https://en.wikipedia.org/wiki/International_Driving_Permit#Countries_that_recognize_IDP)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/International_Driving_Permit#Countries_that_recognize_IDP)
 [^1]: [adac.de](https://www.adac.de/der-adac/rechtsberatung/fuehrerschein/fahren-ausland/internationaler-fuehrerschein/)

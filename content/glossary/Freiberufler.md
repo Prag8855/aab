@@ -8,7 +8,7 @@ Date_updated: 2022-04-20
 Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/freiberufler-or-gewerbe.md, guides/website-freiberuf-or-gewerbe.md, guides/start-a-business-in-germany.md, guides/gewerbesteuer.md
 ---
 
-In Germany, the freelancer (*Freiberufler*) is for self-employed professionals *with special qualifications* who sell their services. Self-employed doctors, lawyers, accountants, engineers, IT professionals and architects are usually *Freiberufler*<sup>[1](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [2](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)</sup>. Food delivery drivers and tour guides are not *Freiberufler*.
+In Germany, the freelancer (*Freiberufler*) is for self-employed professionals *with special qualifications* who sell their services. Self-employed doctors, lawyers, accountants, engineers, IT professionals and architects are usually *Freiberufler*.[^3] Food delivery drivers and tour guides are not *Freiberufler*.
 
 There are a few benefits to being a freelancer:
 
@@ -24,3 +24,4 @@ The *[[Finanzamt]]* decides if you are a *Freiberufler* when you [register your 
 [^0]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/unternehmen-anmelden/handelsregister/)
 [^1]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/muss-ich-ein-kleingewerbe-anmelden), [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^2]: [web.archive.org](https://web.archive.org/web/20210512234042/http://jaroslavplotnikov.com/freelancer-trader/)
+[^3]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [hk24.de](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)

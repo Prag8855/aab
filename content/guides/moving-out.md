@@ -54,7 +54,7 @@ Most German contracts have a cancellation period (*[[Kündigungsfrist]]*). The *
 
 ### If you stay in Germany
 
-**Your internet contract** usually moves with you. You might pay a 20€ to 70€[^11] fee when you move your internet connection<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html)</sup>. The price and service must stay the same<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=ohne%20anderung%20der%20vereinbarten%20vertragslaufzeit%20und%20der%20sonstigen%20vertragsinhalte)</sup>. They can't extend your contract<sup>[§60.1](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=ohne%20anderung%20der%20vereinbarten%20vertragslaufzeit%20und%20der%20sonstigen%20vertragsinhalte)</sup>. If your internet company can't give you the same internet connection at your new address, you can end your contract with a 1 month notice<sup>[§60.2](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)</sup>. If you move with someone who already has an internet contract, you can cancel your contract with a 1 month notice.[^12]
+**Your internet contract** usually moves with you. You might pay a 20€ to 70€[^11] fee when you move your internet connection. The price and service must stay the same. They can't extend your contract.[^37] If your internet company can't give you the same internet connection at your new address, you can end your contract with a 1 month notice.[^38] If you move with someone who already has an internet contract, you can cancel your contract with a 1 month notice.[^12]
 
 **Your landline phone** moves with you. If you stay in the same area, you can keep the same phone number.[^13] There is no fee to keep your phone number.[^14]
 
@@ -201,7 +201,7 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^24]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0107/immer-wieder-streit-um-schoenheitsreparaturen-in-der-mietwohnung-010730.htm), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p0733), [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html#:~:text=die%20renovierungsarbeiten%20sind%20in%20fachgerechter%20art%20und%20weise%20auszufuhren)
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
-[^27]: [service.berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/immobilien-und-wohnen/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
+[^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/immobilien-und-wohnen/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
 [^28]: [taxback.com](https://www.taxback.com/en/germany/pension-return/), [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](http://ssr.germanymantra.com/faqs)
 [^29]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289)
 [^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-per-E-Mail-reicht-das-E1939.htm)
@@ -211,3 +211,5 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
 [^36]: [ssr.germanymantra.com](http://ssr.germanymantra.com/faqs)
+[^37]: [§60 Abs. 1 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html)
+[^38]: [§60 Abs. 2 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)

@@ -73,7 +73,7 @@ When you contact a *Kita*, you must usually speak German. There are also some En
 
 Only a few *Kitas* will answer emails. If they don't answer, call and ask to visit. Many *Kitas* also have information days or drop-in days when you can go and ask questions.[^5]
 
-If you don’t get a reply the first time you contact a *Kita*, or they say they have no place available, try contacting them again later.[^10] Sometimes, children will leave, and new places will become available.
+If you don't get a reply the first time you contact a *Kita*, or they say they have no place available, try contacting them again later.[^10] Sometimes, children will leave, and new places will become available.
 
 **[List of Kita search services ↓](/guides/how-to-find-a-kita-in-berlin#kita-search-services)**
 
@@ -126,7 +126,7 @@ When you choose a Kita start date and a date to begin work, factor in several we
 - [Berlin Kita](https://berlinkita.com/) sells a list of Kitas in Microsoft Excel format
 - Some[ relocation consultants](/guides/relocation-agency-in-berlin) can find a Kita for you
 
-[^0]: [settle-in-berlin.com](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/), [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)
+[^0]: [Settle in Berlin](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/), [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)
 [^1]: [bz-berlin.de](https://www.bz-berlin.de/berlin/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrjmq3/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/61ocy7/rant_kitas_and_lack_of_transperency/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrlf0a/)

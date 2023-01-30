@@ -26,7 +26,7 @@ You also need a tax ID to [start a business](/guides/start-a-business-in-germany
 
 You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. 2 to 4 weeks later, you get a letter from the *Bundeszentralamt für Steuern*. Your tax ID is in the top right corner.
 
-[![1200Px Bundeszentralamt Für Steuern  Zuteilung Identifikationsnummer 2008](/images/tax-id-document-bzst.jpg)](/images/tax-id-document-bzst.jpg)
+[![Bundeszentralamt Für Steuern Zuteilung Identifikationsnummer](/images/tax-id-document-bzst.jpg)](/images/tax-id-document-bzst.jpg)
 
 **If you registered your address before**, you already have a tax ID. You just need to [find it](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
@@ -91,11 +91,11 @@ You can [check if a VAT number is valid](https://www.iban.com/vat-checker), but 
 
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 
-[^0]: [experto.de](https://www.experto.de/businesstipps/steuer-identifikationsnummern-online-abfragen.html), [forum.elster.de](https://forum.elster.de/anwenderforum/forum/allgemein/allgemein-und-projekt/29805-falsche-steuer-id-steuerklasse-6-und-rueckzug-ins-ausland), [steuern.de](https://www.steuern.de/elstam.html), [de.wikipedia.org](https://de.wikipedia.org/wiki/Lohnsteuerklasse#Lohnsteuerklasse_VI), [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_100035388/steuerklasse-6-rueckerstattung-bekommen-so-geht-s.html)
+[^0]: [experto.de](https://www.experto.de/businesstipps/steuer-identifikationsnummern-online-abfragen.html), [forum.elster.de](https://forum.elster.de/anwenderforum/forum/allgemein/allgemein-und-projekt/29805-falsche-steuer-id-steuerklasse-6-und-rueckzug-ins-ausland), [steuern.de](https://www.steuern.de/elstam.html), [Wikipedia](https://de.wikipedia.org/wiki/Lohnsteuerklasse#Lohnsteuerklasse_VI), [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_100035388/steuerklasse-6-rueckerstattung-bekommen-so-geht-s.html)
 [^1]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/steuer-id-zu-spaet-abgegeben), [forum.elster.de](https://forum.elster.de/anwenderforum/forum/allgemein/allgemein-und-projekt/29805-falsche-steuer-id-steuerklasse-6-und-rueckzug-ins-ausland), [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_100035388/steuerklasse-6-rueckerstattung-bekommen-so-geht-s.html)
-[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7vuswy/retrieving_identifikationsnummer/), [service.berlin.de](https://service.berlin.de/dienstleistung/329123/)
+[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7vuswy/retrieving_identifikationsnummer/), [berlin.de](https://service.berlin.de/dienstleistung/329123/)
 [^3]: [bzst.de](https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Steuerliche_IDNr/Mitteilung_IdNr/ID_Form.html)
-[^4]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Steuernummer), [steuererklaerung.de](https://www.steuererklaerung.de/ratgeber-steuern/steuer-id-steuernummer)
+[^4]: [Wikipedia](https://de.wikipedia.org/wiki/Steuernummer), [steuererklaerung.de](https://www.steuererklaerung.de/ratgeber-steuern/steuer-id-steuernummer)
 [^5]: [lexikon.fastbill.com](https://lexikon.fastbill.com/steuernummer/)
 [^6]: [sumup.de](https://sumup.de/rechnungen/alles-ueber-rechnungen/steuernummer-oder-umsatzsteuer-id/)
 [^7]: [Screenshot](/guides/fragebogen-zur-steuerlichen-erfassung)

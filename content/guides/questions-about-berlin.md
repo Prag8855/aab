@@ -66,7 +66,7 @@ If you speak German, these communities can also help you
 ## Apartment questions
 
 - **Tenant association** (*[[Mieterverein]]*)  
-    You must be a member. It costs around 4€ to 10€ per month. They usually speak English. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin.[  ](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)
+    You must be a member. It costs around 4€ to 10€ per month. They usually speak English. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin.
 - [**Tenant counsel**](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php) (*Mieterberatung*)  
     There are [dozens of locations in Berlin](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). You can contact them and ask questions. This is a free service from the city of Berlin. They might not speak English.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  

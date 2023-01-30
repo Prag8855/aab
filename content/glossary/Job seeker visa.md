@@ -15,4 +15,4 @@ Once you have found a job, you can [apply for a freelance visa](/guides/how-to-g
 **[Information about the job seeker visa](https://service.berlin.de/dienstleistung/324661/en/)** - Berlin.de
 
 [^0]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0573), [quora.com](https://www.quora.com/What-are-the-requirements-to-extend-a-job-seeker-visa-in-Germany)
-[^1]: [service.berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
+[^1]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)

@@ -126,5 +126,5 @@ You can also use [Tarifcheck](/out/tarifcheck-health) to compare private health 
 [^8]: [assets.ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2021.pdf)
 [^9]: [gruenderszene.de](https://www.gruenderszene.de/business/ottonova-krankenversicherung-zahlen-2018), [ottonova.de](https://www.ottonova.de/SFCR_2018.pdf)
 [^10]: [procontra-online.de](https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
-[^11]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Gemeinsame_Betriebskrankenkasse_K%C3%B6ln)
+[^11]: [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsame_Betriebskrankenkasse_K%C3%B6ln)
 [^12]: [allaboutberlin.com](/out/ottonova)

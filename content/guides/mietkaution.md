@@ -88,7 +88,7 @@ If you don't return all the keys, the landlord can make you pay for missing keys
 
 When you give back the apartment keys (the *Wohnungsübergabe*), you fill a handover document ([*Übergabeprotokoll*](/glossary/%C3%9Cbergabeprotokoll)). In this document, you describe the condition of the apartment, and what needs to be repaired.
 
-After you move out, the landlord has 6 months to find what must be repaired<sup>[1](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html), [§548 BGB](https://www.gesetze-im-internet.de/bgb/__548.html)</sup>. After 6 months, they can't find more things to repair.
+After you move out, the landlord has 6 months to find what must be repaired.[^12] After 6 months, they can't find more things to repair.
 
 When you move out, always fill an *Übergabeprotokoll*. The landlord can't charge you for problems that are not in this document.[^16]
 
@@ -125,3 +125,4 @@ Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay
 [^14]: [evz.de](https://www.evz.de/en/consumer-topics/living-in-germany/renting-in-germany/renting-property-in-germany/the-tenants-obligations-in-germany/)
 [^15]: [focus.de](https://www.focus.de/immobilien/mieten/tausende-euro-mehrkosten-vermeiden-schluessel-verloren-wenn-sie-nicht-aufpassen-kann-es-richtig-teuer-werden_id_4849172.html)
 [^16]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bcuubo/ever_heard_of_paid_service_or_individuals_that/eku1i6u/)
+[^12]: [Welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html), [§548 BGB](https://www.gesetze-im-internet.de/bgb/__548.html)

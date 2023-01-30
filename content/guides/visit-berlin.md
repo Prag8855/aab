@@ -236,7 +236,7 @@ If you don't have mobile data, you can find free Wi-Fi everywhere:
 
 ### Prepaid SIM cards for tourists
 
-You can buy a prepaid SIM card at the airport, and at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card<sup>1, [2](https://www.expatica.com/de/living/household/german-sim-card-244240/#can)</sup>, but store employees will just use your passport and the address of your hotel.[^11]
+You can buy a prepaid SIM card at the airport, and at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card, but store employees will just use your passport and the address of your hotel.[^11]
 
 **[Information about SIM cards in Germany ➞](https://prepaid-data-sim-card.fandom.com/wiki/Germany)**
 
@@ -252,7 +252,7 @@ You should also download the [BVG app](https://www.bvg.de/en/tickets-tariffs/all
 
 **You don't need to speak German.** People in the tourism industry often speak English. If you are not sure, ask first. Museum exhibitions are in German and English. Signs in tourist areas are also in English. If you want to [live in Berlin](/guides/moving-to-berlin), you should [learn German](/guides/learn-german). If you are just visiting, English is fine.
 
-**[Do I need to speak German in Berlin? ](/guides/learn-german#do-i-need-to-speak-german-in-berlin)[➞](/guides/learn-german#do-i-need-to-speak-german-in-berlin)**
+**[Do I need to speak German in Berlin? ➞](/guides/learn-german#do-i-need-to-speak-german-in-berlin)**
 
 ### Things you should not do
 
@@ -285,8 +285,8 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 
 **[Where to find lost things in Berlin ➞](/guides/lost-and-found-berlin)**
 
-[^0]: [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744)
-[^1]: [auswaertiges-amt.de](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf)
+[^0]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744)
+[^1]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf)
 [^2]: [bvg.de](https://www.bvg.de/en/tickets-tariffs/all-tickets/single-tickets/single-ticket)
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
@@ -296,4 +296,4 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 [^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt0k4we/?utm_source=reddit&utm_medium=web2x&context=3)
 [^10]: [unternehmen.lidl.de](https://unternehmen.lidl.de/pressreleases/2020/200609_kunden-wlan)
-[^11]: [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)
+[^11]: [expatica.com](https://www.expatica.com/de/living/household/german-sim-card-244240/#can), [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)

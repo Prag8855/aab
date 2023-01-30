@@ -167,7 +167,7 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^4]: [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/)
 [^5]: [reddit.com/r/berlinmoto](https://old.reddit.com/r/berlinmoto/comments/8fzfkt/how_to_get_a_motorcycle_licence_in_germany/dz9y44t/)
 [^6]: [ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^7]: [service.berlin.de](https://service.berlin.de/dienstleistung/121627/)
+[^7]: [berlin.de](https://service.berlin.de/dienstleistung/121627/)
 [^8]: [Screenshot](/images/2012I1344.gif)
 [^9]: [dekra.de](https://www.dekra.de/de-de/fahrerlaubnispruefung/)
 [^10]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)

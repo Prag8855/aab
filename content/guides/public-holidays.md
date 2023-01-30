@@ -59,5 +59,5 @@ You celebrate the holidays of the state where you work, even if you live in a di
 
 Each German state has [different public holidays](https://en.wikipedia.org/wiki/Public_holidays_in_Germany#List_by_state). For example, Women's Day is a public holiday in Berlin, but not Epiphany or Corpus Christi.[^1] Some states have more public holidays than other. Bavaria has 13 public holidays, but Berlin only has 10.
 
-[^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)
-[^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Public_holidays_in_Germany#List_by_state)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Public_holidays_in_Germany#List_by_state)

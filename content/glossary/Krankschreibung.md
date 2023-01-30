@@ -1,8 +1,8 @@
 ---
-Title: What is a Krankschreibung﻿ or AU-Bescheinigung?
+Title: What is a Krankschreibung or AU-Bescheinigung?
 German_term: Krankschreibung
 English_term: Sick note
-Description: 
+Description: Sick note from a doctor to take a sick day.
 Date_created: 2020-03-10
 Date_updated: 2022-09-07
 Related_guides: guides/coronavirus.md, guides/vacation-days.md, guides/sick-leave.md

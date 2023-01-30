@@ -125,7 +125,7 @@ There are 4 ways to make VAT returns:
 - Use a business bank like [Kontist](/out/kontist) or [Holvi](/out/holvi)
 - Do it yourself with [[ELSTER]][^14]
 
-**Frequency:** How often you submit VAT returns depend on how much VAT you paid last year.<sup>[1](https://www.lexware.de/wissen/buchhaltung-finanzen/umsatzsteuervoranmeldung/#:~:text=wie%20oft%20mussen%20sie%20die%20umsatzsteuervoranmeldung%20abgeben%3F), [2](https://www.gesetze-im-internet.de/ustg_1980/__18.html#:~:text=(2)-,voranmeldungszeitraum,-ist%20das%20Kalendervierteljahr)</sup>
+**Frequency:** How often you submit VAT returns depend on how much VAT you paid last year.[^31]
 
  <table><thead><tr><th>VAT paid last year</th><th>When to submit VAT returns</th></tr></thead><tbody><tr><td>Under {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€</td><td>Never</td></tr><tr><td>{{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ to {{VAT_MIN_MONTHLY_AMOUNT|cur}}€</td><td>Every quarter</td></tr><tr><td>Over {{VAT_MIN_MONTHLY_AMOUNT|cur}}€</td><td>Every month</td></tr></tbody></table>
 
@@ -187,7 +187,7 @@ Use the **[VAT helper](https://europa.eu/youreurope/business/taxation/vat/cross-
     - **If you sell services**  
         You usually charge the German VAT rate, {{VAT_RATE}}%, but there are exceptions:
         - **Broadcasting, telecommunication and electronically-supplied services**  
-            You charge the VAT rate in the customer's country.[^28] This includes most sales of digital services: software, films, web hosting, courses...<sup>[II](https://lexparency.org/eu/32006L0112/ANX_II/)</sup>
+            You charge the VAT rate in the customer's country.[^28] This includes most sales of digital services: software, films, web hosting, courses...[^32]
 
 If your customer is in another EU country, your invoice must contain [specific information](https://taxation-customs.ec.europa.eu/vat-invoicing-rules_en#:~:text=zero-rated%E2%80%99%20supplies).-,what%20information%20must%20an%20invoice%20contain%3F,-Full%20VAT%20invoices).
 
@@ -202,14 +202,14 @@ For example, if you sell goods or services to customers in the United States, yo
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__2.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__3.html)
-[^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/File:EU_VAT_Tax_Rates.webp)
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/File:EU_VAT_Tax_Rates.webp)
 [^2]: [§12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html), [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/umsatzsteuer-in-rechnung-richtig-ausweisen/#:~:text=freiberufler%20und%20die%20erma%C3%9Figte%20umsatzsteuer%20in%20einer%20rechnung%20), [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/mehrwertsteuer/#:~:text=zu%20diesen%20ausnahmen%20bei%20der%20mehrwertsteuer%20gehoren%20zum%20beispiel)
-[^3]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/ustg_1980/anlage_2.html)
+[^3]: [Anlage 2 UStG](http://www.gesetze-im-internet.de/ustg_1980/anlage_2.html)
 [^4]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=sie%20brauchen%20beim%20finanzamt%20keine%20umsatzsteuererklarungen%20abzugeben)
 [^5]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=wenn%20sie%20teure%20anschaffungen%20tatigen%20wollen%20oder%20mussen)
 [^6]: [andrewcross.eu \(archived\)](https://web.archive.org/web/20210615055008/https://20210615055008/vat-freelancers-germany/#:~:text=from%20a%20cashflow%20perspective%20it%20can%20be%20advantageous%20if%20you), [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
 [^7]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=sollte%20ihr%20einkommen%20allerdings%20die%20grenze%20zur%20umsatzsteuerpflicht%20uberschreiten)
-[^8]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ustg_1980/__19.html#:~:text=Unternehmer%20mindestens%20f%C3%BCr-,funf%20kalenderjahre,-.%20Sie%20kann%20nur)
+[^8]: [§19 UStG](https://www.gesetze-im-internet.de/ustg_1980/__19.html#:~:text=Unternehmer%20mindestens%20f%C3%BCr-,funf%20kalenderjahre,-.%20Sie%20kann%20nur)
 [^9]: [billomat.com](https://www.billomat.com/magazin/%c2%a719-ustg-in-deiner-rechnung-auf-den-kleinunternehmerstatus-hinweisen/#:~:text=es%20reicht%2C%20zu%20schreiben), [kleinunternehmer.de](https://www.kleinunternehmer.de/rechnungsstellung.htm)
 [^10]: [firma.de](https://www.firma.de/rechnungswesen/kleinunternehmerregelung-infos-zu-umsatzsteuer-anmeldung-vor-und-nachteilen/#:~:text=gilt%20ab%20dem%2001.%20januar%20des%20kommenden%20jahres%20die%20regelbesteuerung)
 [^11]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=beim%20Finanzamt%20beantragen.-,so%20holst%20du%20dir%20die%20vorsteuer%20wieder,-Wie%20bereits%20erw%C3%A4hnt)
@@ -222,7 +222,7 @@ For example, if you sell goods or services to customers in the United States, yo
 [^18]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=das%20finanzamt%20erwartet%20die%20meldungen%2C%20also%20auch%20die%20zahlungen)
 [^19]: [sumup.com](https://www.sumup.com/de-de/rechnungen/lexikon/umsatzsteuerzahllast/#:~:text=negative%20umsatzsteuerzahllast)
 [^20]: [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/umsatzsteuer-voranmeldung-2019-161-saeumniszuschlaege_idesk_PI20354_HI12006193.html)
-[^21]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__240.html)
+[^21]: [§240 AO](https://www.gesetze-im-internet.de/ao_1977/__240.html)
 [^22]: [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/s/saeumniszuschlag/#:~:text=Barzahlung%20oder%20Scheckhingabe.-,beispiel%202%3A,-Der%20Unternehmer%20in)
 [^23]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/umsatzsteuervoranmeldung/#:~:text=die%20jahrliche%20umsatzsteuererklarung%20fasst%20alle%20umsatzsteuervoranmeldungen%20zusammen%20)
 [^24]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/umsatzsteuervoranmeldung/#:~:text=spatestens%20zum%2031.%20mai%20des%20folgejahres)
@@ -232,3 +232,5 @@ For example, if you sell goods or services to customers in the United States, yo
 [^28]: [lexparency.org](https://lexparency.org/eu/32006L0112/ART_58/)
 [^29]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=mochtest%20du%20ware%20in%20einen%20drittstaat%20ausfuhren%2C%20geschieht%20dies%20meist%20steuerfrei)
 [^30]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=auf%20rechnungen%20nach%20gro%C3%9Fbritannien%20weist%20du%20keine%20umsatzsteuer%20aus.%20)
+[^31]: [lexware.de](https://www.lexware.de/wissen/buchhaltung-finanzen/umsatzsteuervoranmeldung/#:~:text=wie%20oft%20mussen%20sie%20die%20umsatzsteuervoranmeldung%20abgeben%3F), [§18 UStG](https://www.gesetze-im-internet.de/ustg_1980/__18.html#:~:text=(2)-,voranmeldungszeitraum,-ist%20das%20Kalendervierteljahr)
+[^32]: [Annex II](https://lexparency.org/eu/32006L0112/ANX_II/)

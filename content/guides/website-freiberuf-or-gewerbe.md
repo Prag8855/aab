@@ -1,6 +1,6 @@
 ---
 Title: Is a website a Freiberuf or a Gewerbe?
-Description: ​Should you register a website that generates income as a Freiberufler, or as a Gewerbe?
+Description: Should you register a website that generates income as a Freiberufler, or as a Gewerbe?
 Date_created: 2018-04-02
 Date_updated: 2022-04-20
 ---

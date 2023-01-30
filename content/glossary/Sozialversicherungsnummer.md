@@ -12,4 +12,4 @@ The *Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer* 
 
 **[More info about the social insurance number ➞](/guides/german-versicherungsnummer)**
 
-[^0]: [de.wikipedia.org](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland)

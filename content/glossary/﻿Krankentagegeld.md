@@ -1,8 +1,8 @@
 ---
-Title: What is ﻿Krankentagegeld?
-German_term: ﻿Krankentagegeld
+Title: What is Krankentagegeld?
+German_term: Krankentagegeld
 English_term: Sickness allowance
-Description: 
+Description: An allowance you get from your health insurance if you are sick for a long time.
 Date_created: 2022-08-30
 Date_updated: 2022-09-07
 Related_guides: guides/sick-leave.md

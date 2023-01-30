@@ -1,6 +1,6 @@
 ---
-Title: What is the Übergabeprotokoll﻿﻿?
-German_term: Übergabeprotokoll﻿﻿
+Title: What is the Übergabeprotokoll?
+German_term: Übergabeprotokoll
 English_term: Handover document
 Description: 
 Date_created: 2019-09-09

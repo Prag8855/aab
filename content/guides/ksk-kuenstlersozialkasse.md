@@ -133,8 +133,7 @@ This means that...
 
 ### You are self-employed
 
-This means that...[^20]<sup>  
-</sup>
+This means that...[^20]  
 
 - **You have many clients**  
     You are not working for only one agency, orchestra, theatre group, film production or art school.
@@ -411,8 +410,8 @@ If you can't get your pension payments back, you will get a German pension when 
 
 **It depends.**[^27] You can only have private health insurance if...[^40]
 
-- You were a freelancer for less than 3 years<sup>[§3.2](https://www.gesetze-im-internet.de/ksvg/__3.html), [§6](https://www.gesetze-im-internet.de/ksvg/__6.html)</sup>
-- or you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year for 3 years in a row.<sup>[§7](https://www.gesetze-im-internet.de/ksvg/__7.html)</sup>
+- You were a freelancer for less than 3 years[^49]
+- or you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year for 3 years in a row.[^51]
 
 Your private health insurance must offer similar coverage to public health insurance. [[Expat health insurance]] is not accepted.
 
@@ -442,7 +441,7 @@ If you are not sure about this, [talk to a health insurance broker](/guides/germ
     - **If most of your income is from freelancing**  
         The KSK pays half of your pension insurance for your freelance income. Your employer pays half of your pension insurance for your employee income. The KSK pays half of your health insurance. Your employer does not pay for your health insurance.
 - **Freelance artist + other freelance income**  
-    It depends on how much other freelance income you have<sup>[1](https://www.vgsd.de/als-ksk-mitglied-dazu-verdienen-ohne-status-zu-gefaehrden-dr-maria-kraeuter-antwortet/#:~:text=2)-,Kombination%20mit%20einer%20nicht,Wenn,-du%20als%20%E2%80%9EBrotjob)</sup>.
+    It depends on how much other freelance income you have.[^50]
     - **If your other freelance income is less than {{MINIJOB_MAX_INCOME|cur}}€ per month**  
         The KSK pays for half of your public pension insurance, and half of your health insurance.
     - **If your other freelance income is more than {{MINIJOB_MAX_INCOME|cur}}€ per month**  
@@ -524,17 +523,17 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^13]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=bei%20der%20lehre%20von%20kunst)
 [^14]: [ksk-rechtshilfe.de](https://www.ksk-rechtshilfe.de/urteile/bsg-25-11-2015-b-3-ks-3-14-r/), [ksk-rechtshilfe.de](https://www.ksk-rechtshilfe.de/urteile/#:~:text=und%20nicht%20sportliche%20fitness%20im%20vordergrund%20stehen.), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1511621872587043/?__cft__[0]=AZXVYFKZh6-qThc-vlQ_YmAr53Qj82GX1WUNmDueR4jv4aqpAjuZjpu6sx5pUJRz3gIh5vdp_cW-rH3HlBizogVDW3WveUrbSEIWAgPQuPDp2gkAV-2yp6ocT3lU6toY7gtbuD3lRtFu6luDFR_w9oeOzbZE7-2MbCjFpIBrbvFi8UyYeRQR6Hdws_lOnMJuBJk&__tn__=%2CO%2CP-R)
 [^15]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=auch%20modedesigner%20kommen%20nur%20in%20die%20ksk), [tattoo-recht.de](https://tattoo-recht.de/taetowierer-sind-keine-kuenstler/), [rechtslupe.de](https://www.rechtslupe.de/sozialrecht/fotografen-sind-keine-kuenstler-317944)
-[^16]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen.html), [§1 KSVG](https://www.gesetze-im-internet.de/ksvg/__1.html), [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Informationsschriften/Das_Wichtigste_zur_KSV_in_K%C3%BCrze.pdf), [redtapetranslation.com](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/)
+[^16]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen.html), [§1 KSVG](https://www.gesetze-im-internet.de/ksvg/__1.html), [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Informationsschriften/Das_Wichtigste_zur_KSV_in_K%C3%BCrze.pdf), [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/)
 [^17]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ksvg/__1.html#:~:text=und%20nicht%20nur-,vorubergehend,-aus%C3%BCben%20und)
 [^18]: [§3 KSVG](https://www.gesetze-im-internet.de/ksvg/__3.html)
-[^19]: [redtapetranslation.com](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=there%20is%20no%20maximum%20income)
+[^19]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=there%20is%20no%20maximum%20income)
 [^20]: [scopevisio.com](https://www.scopevisio.com/blog/steuern-und-recht/scheinselbstaendigkeit/#checkliste-kriterien-fuer-scheinselbstaendigkeit), [musik.verdi.de](https://musik.verdi.de/musikschulen/freiberuflich/++co++bae34992-bfd7-11e2-975a-525400438ccf)
 [^21]: [tredition.com](https://tredition.com/en/artists-social-insurance/#:~:text=a%20trade%20is%20not%20a%20prerequisite%20for%20admission%20to%20the%20ksk)
-[^22]: [redtapetranslation.com](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=it%20doesn%E2%80%99t%20matter%20if%20your%20clients%20are%20based%20in%20other%20countries)
+[^22]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=it%20doesn%E2%80%99t%20matter%20if%20your%20clients%20are%20based%20in%20other%20countries)
 [^23]: [§1 KSVG](https://www.gesetze-im-internet.de/ksvg/__1.html)
 [^24]: [youtu.be](https://youtu.be/fr0ZJA5C6A4?t=109)
 [^25]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/4270792049667813/)
-[^26]: [redtapetranslation.com](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=the%20better%20part%20of%20a%20year), [settle-in-berlin.com](https://www.settle-in-berlin.com/health-insurance-germany/ksk-insurance-guide-germany-english/?amp#:~:text=it%20takes%20ksk%20at%20least%20three%20months), [dwdl.de](https://www.dwdl.de/vitamind/60641/knstlersozialkasse_die_absicherung_fr_freiberufler/#:~:text=durchschnittlich%20liegt%20die%20bearbeitungsdauer%20bei%20drei%20monaten), [kuenzelsau.de](https://kuenzelsau.de/,Lde/-/verfahren/kuenstlersozialkasse-ksk---anmelden-als-selbstaendiger-kuenstler-oder-publizist/vbid1467#:~:text=Kranken-%20und%20Pflegeversicherung-,bearbeitungsdauer,-Abh%C3%A4ngig%20vom%20Ermittlungsaufwand), [selbststaendigen.info](https://selbststaendigen.info/suche-im-ratgeber/?lnk=h40e044d5f09b9#:~:text=zwei%20bis%20drei%20monaten%20), [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/4924859464193467/)
+[^26]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=the%20better%20part%20of%20a%20year), [Settle in Berlin](https://www.settle-in-berlin.com/health-insurance-germany/ksk-insurance-guide-germany-english/?amp#:~:text=it%20takes%20ksk%20at%20least%20three%20months), [dwdl.de](https://www.dwdl.de/vitamind/60641/knstlersozialkasse_die_absicherung_fr_freiberufler/#:~:text=durchschnittlich%20liegt%20die%20bearbeitungsdauer%20bei%20drei%20monaten), [kuenzelsau.de](https://kuenzelsau.de/,Lde/-/verfahren/kuenstlersozialkasse-ksk---anmelden-als-selbstaendiger-kuenstler-oder-publizist/vbid1467#:~:text=Kranken-%20und%20Pflegeversicherung-,bearbeitungsdauer,-Abh%C3%A4ngig%20vom%20Ermittlungsaufwand), [selbststaendigen.info](https://selbststaendigen.info/suche-im-ratgeber/?lnk=h40e044d5f09b9#:~:text=zwei%20bis%20drei%20monaten%20), [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/4924859464193467/)
 [^27]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=jede%20gesetzliche%20krankenkasse%20steht%20offen)
 [^28]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/service/mediencenter-kuenstler-und-publizisten.html#:~:text=allgemeine%20informationen%20und%20anmeldeunterlagen), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1446589625756935/)
 [^29]: [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1438698096546088/)
@@ -555,5 +554,8 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^44]: [§4 KSVG](https://www.gesetze-im-internet.de/ksvg/__4.html), [vgsd.de](https://www.vgsd.de/als-ksk-mitglied-dazu-verdienen-ohne-status-zu-gefaehrden-dr-maria-kraeuter-antwortet/#:~:text=3.500%20euro%20bruttogehalt%20als%20arbeitnehmer)
 [^45]: [spiegel.de](https://www.spiegel.de/wirtschaft/soziales/kuenstlersozialkasse-geld-hinzuverdienen-soll-nicht-mehr-so-schnell-bestraft-werden-a-9510cb28-28ad-4597-b6c4-a688eb7457fc), [mmm.verdi.de](https://mmm.verdi.de/beruf/ksk-novelle-heilt-webfehler-im-gesetz-82579)
 [^46]: [reddit.com](https://old.reddit.com/r/berlin/comments/2d2edj/anybody_have_any_tips_on_getting_into_ksk/#:~:text=deduct%20this%20as-,werbungskosten,-from%20your%20tax)
-[^47]: [redtapetranslation.com](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=i%20am%20a%20member%20of%20the%20ksk%2C%20too)
-[^48]: [redtapetranslation.com](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=%20talk%20to%20a%20guru%20like%20andri%20jurgensen)
+[^47]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=i%20am%20a%20member%20of%20the%20ksk%2C%20too)
+[^48]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=%20talk%20to%20a%20guru%20like%20andri%20jurgensen)
+[^49]: [§3.2 KSVG](https://www.gesetze-im-internet.de/ksvg/__3.html), [§6 KSVG](https://www.gesetze-im-internet.de/ksvg/__6.html)
+[^50]: [vgsd.de](https://www.vgsd.de/als-ksk-mitglied-dazu-verdienen-ohne-status-zu-gefaehrden-dr-maria-kraeuter-antwortet/)
+[^51]: [§7 KSVG](https://www.gesetze-im-internet.de/ksvg/__7.html)

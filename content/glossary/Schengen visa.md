@@ -18,9 +18,9 @@ Use [this list](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/23114
 
 If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you don't need a visa to visit Germany. You can live, work and study in Germany without a visa.[^4]
 
-[^0]: [bamf.de](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp67-emn-wechsel-aufenthaltstiteln-aufenthaltszwecken.pdf?__blob=publicationFile&v=17)
+[^0]: [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp67-emn-wechsel-aufenthaltstiteln-aufenthaltszwecken.pdf?__blob=publicationFile&v=17)
 [^1]: [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en)
-[^2]: [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
+[^2]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
 [^3]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
-[^4]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
+[^4]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
 [^5]: [§6 AufenthG](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)

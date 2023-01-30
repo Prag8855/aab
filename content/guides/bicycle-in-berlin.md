@@ -211,7 +211,7 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 [^25]: [digitalpresent.tagesspiegel.de](https://digitalpresent.tagesspiegel.de/die-radspuren-der-verwirrung), [cyclingfallacies.com](https://cyclingfallacies.com/de/31/busspuren-sind-gut-zum-radfahren-geeignet)
 [^26]: [digitalpresent.tagesspiegel.de](https://digitalpresent.tagesspiegel.de/die-radspuren-der-verwirrung)
 [^27]: [bz-berlin.de](https://www.bz-berlin.de/berlin/so-hoch-sind-jetzt-die-fahrrad-bussgelder-in-berlin)
-[^28]: [welt.de](https://www.welt.de/politik/video162656860/Duerfen-Radfahrer-bald-bei-Rot-abbiegen.html), [de.wikipedia.org](https://de.wikipedia.org/wiki/Rechts_abbiegen_f%C3%BCr_Radfahrer_frei#Deutschland)
+[^28]: [welt.de](https://www.welt.de/politik/video162656860/Duerfen-Radfahrer-bald-bei-Rot-abbiegen.html), [Wikipedia](https://de.wikipedia.org/wiki/Rechts_abbiegen_f%C3%BCr_Radfahrer_frei#Deutschland)
 [^29]: [arag.de](https://www.arag.de/rechtsschutzversicherung/verkehrsrechtsschutz/kopfhoerer-fahrrad/), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/musik-hoeren-beim-fahrradfahren/#faq_musik_hoeren_beim_fahrradfahren)
 [^30]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/musik-hoeren-beim-fahrradfahren/#faq_musik_hoeren_beim_fahrradfahren)
 [^31]: [arag.de](https://www.arag.de/rechtsschutzversicherung/verkehrsrechtsschutz/kopfhoerer-fahrrad/)

@@ -106,7 +106,7 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 ### Which public health insurance should I choose?
 
-**It does not really matter.** Public health insurance prices and coverage are set by law<sup>1</sup>. [Public health insurance companies](/glossary/Krankenkasse) are almost the same. The biggest difference between them is their extra contribution ([*Zusatsbeitrag*](/glossary/Zusatzbeitrag)), and their customer service.[^15]
+**It does not really matter.** Public health insurance prices and coverage are set by law. [Public health insurance companies](/glossary/Krankenkasse) are almost the same. The biggest difference between them is their extra contribution ([*Zusatsbeitrag*](/glossary/Zusatzbeitrag)), and their customer service.[^15]
 
 If you don't speak German, [Techniker Krankenkasse](/out/signup-tk) and [Barmer](/out/barmer) speak English.
 

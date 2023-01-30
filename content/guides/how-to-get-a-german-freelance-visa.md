@@ -150,7 +150,7 @@ If your current visa expires soon, there are ways to stay in Germany until you g
 
 **[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
 
-### Step 3: <a>Open a bank account</a>
+### Step 3: Open a bank account
 
 You don't need a bank account to apply for a freelance visa, but it will be useful later.[^19] You need a bank account to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), [find an apartment](/guides/find-a-flat-in-berlin), pay your visa application fee, pay your rent, and pay your taxes, etc.
 
@@ -398,13 +398,13 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 
 **[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa), [en.wikipedia.org](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
+[^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa), [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/)
 [^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/96208-freelance-english-teaching-while-on-a-student-visa/)
 [^3]: [§7 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__7.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
-[^4]: [service.berlin.de](https://service.berlin.de/dienstleistung/328332/), [service.berlin.de](https://service.berlin.de/dienstleistung/305249/)
-[^5]: [service.berlin.de](https://service.berlin.de/dienstleistung/328332/)
-[^6]: [service.berlin.de](https://service.berlin.de/dienstleistung/305249/)
+[^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de](https://service.berlin.de/dienstleistung/305249/)
+[^5]: [berlin.de](https://service.berlin.de/dienstleistung/328332/)
+[^6]: [berlin.de](https://service.berlin.de/dienstleistung/305249/)
 [^7]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518)
 [^8]: [berlin.de \(archived\)](https://web.archive.org/web/20210505231153/https://20210505231153/willkommenszentrum/en/work-and-education/freelance-work/)
 [^9]: [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
@@ -414,19 +414,19 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^13]: [wir-gruenden-in-deutschland.de](http://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/)
 [^14]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php)
 [^15]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
-[^16]: [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
-[^17]: [service.berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
-[^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [auswaertiges-amt.de](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
+[^16]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
+[^17]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
+[^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^19]: [Screenshot](/images/Screenshot-2022-03-29-at-17.42.31.png)
-[^20]: [redtapetranslation.com](https://www.redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/)
+[^20]: [Red Tape Translation](https://www.redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/)
 [^21]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/506500586485316/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/506834686451906/)
 [^22]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518), [berlin.de](https://www.berlin.de/labo/willkommen-in-berlin/aufenthalt/erwerbstaetigkeit/selbststaendige-taetigkeit/artikel.376800.en.php)
-[^23]: [ihk-berlin.de](https://www.ihk-berlin.de/English/en/s_987416/Starting_a_business_in_berlin/Registering_a_Business/Registering_a_business/3310164)
+[^23]: [IHK Berlin](https://www.ihk-berlin.de/English/en/s_987416/Starting_a_business_in_berlin/Registering_a_Business/Registering_a_business/3310164)
 [^24]: [web.archive.org](https://web.archive.org/web/20200803233159/http://immigrate-to-germany.blogspot.com/2018/06/how-to-get-appointment-for-german-work-permit-or-employment-visa-from-india-part-1.html), [facebook.com](https://www.facebook.com/groups/332989703932525/permalink/595113137720179/), [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1)
-[^25]: [service.berlin.de](https://service.berlin.de/dienstleistung/305249/en/)
-[^26]: [service.berlin.de](https://service.berlin.de/standort/121885/)
+[^25]: [berlin.de](https://service.berlin.de/dienstleistung/305249/en/)
+[^26]: [berlin.de](https://service.berlin.de/standort/121885/)
 [^27]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/)
-[^28]: [service.berlin.de](https://service.berlin.de/dienstleistung/305249/standort/121885/en/)
+[^28]: [berlin.de](https://service.berlin.de/dienstleistung/305249/standort/121885/en/)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/475901026211939/?comment_id=475918202876888&reply_comment_id=475930016209040&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 [^30]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/990069724795064/?comment_id=990098234792213)
 [^31]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/)
@@ -439,7 +439,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^38]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/498129660655742/)
 [^39]: [mag.n26.com](https://mag.n26.com/how-to-be-a-freelancer-in-germany-5d124cf0b1ba)
 [^40]: [Screenshot](/images/firmenprofil.pdf)
-[^41]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [service.berlin.de](https://service.berlin.de/dienstleistung/328332/)
+[^41]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [berlin.de](https://service.berlin.de/dienstleistung/328332/)
 [^42]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^43]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1852129254867450/)
 [^44]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)

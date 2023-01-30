@@ -15,4 +15,4 @@ Most employees must pay for unemployment insurance. It costs {{ARBEITSLOSENVERSI
 **[Unemployment insurance calculator ➞](/tools/arbeitslosenversicherung-calculator)**
 
 [^0]: [tk.de](https://www.tk.de/firmenkunden/versicherung/beitraege-faq/beitragssaetze/aktuelle-beitragssaetze-in-der-sozialversicherung-2031554)
-[^1]: [en.wikipedia.org](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)
