@@ -6,28 +6,68 @@
 {% endblock %}
 
 {% block content %}
-	<h1>Search</h1>
-	<div class="post-meta">
-		<nav class="breadcrumb">
-			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
-				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}">
-						<span itemprop="name">Home</span>
-					</a>
-					<meta itemprop="position" content="1" />
-				</li>
-				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}/search">
-						<span itemprop="name">Search</span>
-					</a>
-					<meta itemprop="position" content="2" />
-				</li>
-			</ol>
-		</nav>
-	</div>
-	{% with autofocus=true %}
-	    {% include "blocks/_searchForm.html" %}
-	{% endwith %}
-	<div role="list" aria-label="Search results">
-	</div>
+    <h1>Search</h1>
+    <div class="post-meta">
+        <nav class="breadcrumb">
+            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}">
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1" />
+                </li>
+                <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}/search">
+                        <span itemprop="name">Search</span>
+                    </a>
+                    <meta itemprop="position" content="2" />
+                </li>
+            </ol>
+        </nav>
+    </div>
+    <div id="search">
+        <input type="search" class="search-box" placeholder="Search All About Berlin" autofocus autocomplete="off" v-model="query">
+        {% raw %}
+            <div role="list" aria-label="Search results">
+                <div v-for="result in results" class="search-result">
+                    <a :href="result.url">{{ result.short_title || result.title || result.german_term }}</a>
+                </div>
+            </div>
+        {% endraw %}
+    </div>
+
+    {% include '/js/vue.js' %}
+    {% include '/js/lunr.js' %}
+    {% js %}
+      document.querySelectorAll('#search').forEach(
+        el => new Vue({
+          el: el,
+          data: function() {
+            return {
+              index: null,
+              documents: null,
+              query: (new URLSearchParams(window.location.search)).get('q') || '',
+            }
+          },
+          mounted() {
+            fetch('/search-index.json')
+              .then((response) => response.json())
+              .then((data) => {
+                this.index = lunr.Index.load(data.index);
+                this.documents = data.documents;
+              });
+          },
+          computed: {
+            results: function() {
+              const query = this.query.trim();
+              if (this.index === null || query === ''){
+                return [];
+              }
+              return this.index.search(`${query}^100 ${query}*^10 ${query}~2`)
+                .map(r => this.documents[r.ref]);
+            },
+          }
+        })
+      );
+    {% endjs %}
 {% endblock %}

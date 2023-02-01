@@ -538,6 +538,11 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 	.search-form .button{margin:0;min-width:45px;padding:10px;background:var(--color-highlight) var(--background-search) no-repeat center;background-size:20px}
 	.search-form + .preview{margin-top:var(--spacing-l);padding-top:var(--spacing-m);border-top:var(--border-page);}
 
+	.search-box{width:100%;}
+	.search-result{border-bottom:var(--border-page);padding:var(--spacing-list-item) 0}
+		.search-result:first-child{padding-top:0;margin-top:var(--spacing-m)}
+		.search-result:last-child{padding-bottom:0;border-bottom:none}
+
 #places{display:grid;grid-template-columns:1fr minmax(200px,300px);height:450px;grid-gap:var(--spacing-m);margin:var(--spacing-l) 0 0;border:var(--border-page);border-radius:var(--border-radius);}
 	#places-map{background:var(--color-background-output);}
 		#places-map img{background-color:transparent;margin:0}
