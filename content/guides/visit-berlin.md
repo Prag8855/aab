@@ -231,8 +231,10 @@ If you don't have mobile data, you can find free Wi-Fi everywhere:
 
 - All **U-Bahn stations** have free Wi-Fi. Look for the "BVG Free WiFi" network.
 - Some **S-Bahn stations** also have free Wi-Fi. Look for the "WIFI@DB" network.
-- **REWE and Lidl supermarkets** have free Wi-Fi.[^10]
+- **REWE and Lidl supermarkets** have free Wi-Fi.[^10] Some Edeka supermarkets also have free Wi-Fi.
 - **Hotels and hostels** have free Wi-Fi for their guests.
+
+[Map of public Wi-Fi hotspots](https://www.publicwifi.de/) - publicwifi.eu
 
 ### Prepaid SIM cards for tourists
 
@@ -295,5 +297,5 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 [^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/c02948/why_is_nightlife_the_way_it_is/), [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
 [^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt0k4we/?utm_source=reddit&utm_medium=web2x&context=3)
-[^10]: [unternehmen.lidl.de](https://unternehmen.lidl.de/pressreleases/2020/200609_kunden-wlan)
+[^10]: [unternehmen.lidl.de](https://unternehmen.lidl.de/pressreleases/2020/200609_kunden-wlan), [kaufda.de](https://www.kaufda.de/insights/wlan-bei-lidl-rewe-aldi-co-welche-supermaerkte-und-discounter-bieten-den-service-an/)
 [^11]: [expatica.com](https://www.expatica.com/de/living/household/german-sim-card-244240/#can), [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)
