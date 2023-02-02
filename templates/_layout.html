@@ -22,6 +22,7 @@
 	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d" />
 	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b" />
 
+	{% include '/js/lunr.js' %}
 	{% include '/js/events.js' %}
 </head>
 <body class="{{ body_class|default('') }}">
@@ -31,13 +32,15 @@
 			All About Berlin
 		</a>
 		<nav id="sections">
+			<label for="search-box" title="Search this website">
+				<input type="search" id="search-box" placeholder="Search this website" tabindex="1">
+				{% include 'css/icons/search.svg' %}
+			</label>
+			<div class="search-results"></div>
 			<a title="Guides about life in Berlin" href="{{ site_url }}/guides">Guides</a>
 			<a title="Tools and calculators" href="{{ site_url }}/tools">Tools</a>
 			<a title="Bürgeramt and Ausländerbehörde documents translated to English" href="{{ site_url }}/docs" class="no-mobile">Documents</a>
 			<a href="{{ site_url }}/contact">Contact</a>
-			<a title="Search All About Berlin" href="{{ site_url }}/search">
-				{% include 'css/icons/search.svg' %}
-			</a>
 		</nav>
 	</header>
 	{% block main %}
