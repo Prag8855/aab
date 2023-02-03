@@ -246,18 +246,25 @@ table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
 		.logo, .logo:visited{flex:0 0 auto;padding-left:33px;display:block;background-size:23px 35px;line-height:var(--height-header);font-size:var(--font-size-h2);color:var(--color-text-inverted);font-family:var(--font-family-header);letter-spacing:-0.03em;background-repeat:no-repeat;background-position:0 5px;}
 			.logo:hover{text-decoration:none}
 		#sections{flex:1 1 auto;max-width:500px;display:flex;flex-wrap:wrap;justify-content:flex-end;align-items:center;margin-left:var(--spacing-l)}
-			#sections > a, #sections > label{color:var(--color-text-inverted);padding:0 var(--spacing-m);line-height:var(--height-header);}
-			#sections > a:hover, #sections > label:hover{text-decoration:none;background-color:#fff1}
-			#sections label[for="search-box"]{display:flex;order:5;height:100%}
-				#sections label[for="search-box"]:focus-within{order:0;flex:1 0 100%;box-sizing:border-box;color:var(--color-text);background:var(--color-background-input);height:calc(var(--height-header) - var(--spacing-s) * 2);margin:var(--spacing-s) 0;border-radius:var(--border-radius)}
-				#sections label[for="search-box"]:focus-within ~ a{display:none}
-				#sections label[for="search-box"] svg{display:block;width:18px;height:100%;flex:0 0 18px}
-				#search-box{border:none;width:0;padding:0;flex:1 1 auto;height:100%;background:transparent;color:var(--color-text);}
-			#sections .search-results{display:none;flex:1 0;position:relative;background:var(--color-background-input);box-shadow:var(--box-shadow-block);border:var(--border-input);border-top:none}
-				#sections label[for="search-box"]:focus-within ~ .search-results:not(:empty){display:block!important;border-radius:0 0 var(--border-radius) var(--border-radius)}
-				#sections .search-results a{display:flex;align-items:center;line-height:var(--line-height-compact);padding:var(--spacing-list-item) var(--spacing-m);justify-content:space-between}
-					#sections .search-results a:hover, #sections .search-results a.highlighted{text-decoration:none;background:var(--color-base-03)}
-						#sections .search-results a:hover:after, #sections .search-results a.highlighted:after{content:'➞';float:right;font-weight:bold;flex:0 0;}
+			#sections > a, #sections > .search-form:not(:focus-within) label{color:var(--color-text-inverted);padding:0 var(--spacing-m);line-height:var(--height-header);}
+				#sections > a:hover, #sections > .search-form:not(:focus-within):hover{text-decoration:none;background-color:#fff1}
+			#sections .search-form:not(:focus-within){cursor:pointer;display:flex;order:5;height:100%;border:none;background:transparent;}
+				#sections .search-form:not(:focus-within) label{cursor:pointer;flex:0}
+					#sections .search-form:not(:focus-within) input{width:0;flex:0}
+				#sections .search-form:focus-within{order:0;flex:1 0 100%;}
+					#sections .search-form:focus-within ~ a{display:none}
+
+.search-form{max-width:500px;border:var(--border-input);border-radius:var(--border-radius);background:var(--color-background-input);flex-wrap:wrap;position:relative}
+	main .search-form{margin:var(--spacing-l) auto 0}
+	.search-form label{display:flex;align-items:center;flex:1 0 100%;padding:var(--spacing-list-item) var(--spacing-m);}
+		.search-form input[type="search"]{min-width:0;width:100%;flex:1 1 auto;padding:0;border:none!important;}
+		.search-form svg{width:18px;height:100%;flex:0 0 18px}
+	.search-results{display:none;flex:1 0;padding-top:var(--border-radius);margin-top:calc(var(--border-radius) * -1);position:absolute;left:-1px;z-index:1000;width:100%;border:1px solid var(--color-border-input-focused);border-top:none;border-radius:0 0 var(--border-radius) var(--border-radius);background:var(--color-background-input);overflow:hidden;box-shadow:var(--box-shadow-button)}
+		.search-form:focus-within label ~ .search-results:not(:empty){display:block!important}
+		.search-results a{display:flex;align-items:center;line-height:var(--line-height-compact);padding:var(--spacing-list-item) var(--spacing-m);justify-content:space-between;text-align:left}
+			.search-results a:hover, .search-results a.highlighted{text-decoration:none;background:var(--color-base-03)}
+			.search-results a:after{content:'➞';float:right;font-weight:bold;flex:0 0;color:transparent;}
+				.search-results a.highlighted:after, .search-results a:hover:after{color:inherit;}
 
 .post-meta{font-size:var(--font-size-s);border-bottom:var(--border-page);margin:0 0 var(--spacing-l);padding-bottom:var(--spacing-l)}
 	.post-reviewers a:after{font-size:10px;vertical-align:bottom;display:inline-block;margin-left:var(--spacing-s);}
@@ -337,7 +344,6 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 .section.transparent {background-color:transparent;padding:0;box-shadow:none;}
 	.section.centred{text-align:center;}
 	.section.intro{padding:var(--spacing-l) var(--spacing-page-borders)}
-		.section.intro .search-form{max-width:500px;margin:var(--spacing-l) auto 0}
 .section#support{margin:var(--spacing-m) auto var(--spacing-l)}
 	.section#support h2{margin:0}
 	.section#support p{margin:var(--spacing-m) 0 var(--spacing-text-block-m)}
@@ -456,7 +462,7 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 			textarea:focus{height:150px;transition:height 0.2s}
 			select{overflow-x:hidden;background-image:var(--background-select-arrow);background-position:center right var(--spacing-s);background-size:var(--spacing-m);background-repeat:no-repeat;padding-right:20px;text-overflow:ellipsis;}
 				select option{margin:0;padding:0}
-		input:focus, textarea:focus, select:focus, .date-picker:focus-within, input:hover, textarea:hover, select:hover, .toggle:hover, .date-picker:hover{outline:none;box-shadow:none;border-color:var(--color-border-input-focused);transition:none}
+		input:focus, textarea:focus, select:focus, .date-picker:focus-within, .search-form:focus-within, input:hover, textarea:hover, select:hover, .toggle:hover, .date-picker:hover, .search-form:hover{outline:none;box-shadow:none;border-color:var(--color-border-input-focused);transition:none}
 			.checkbox input:focus-visible{outline-color:var(--color-link)!important;border:2px solid var(--color-link)}
 		.checkbox{display:grid;grid-template-columns:auto 1fr;grid-gap:var(--spacing-m);align-items:center;line-height:var(--line-height-compact)}
 			.checkbox input{position:relative;margin:0;display:grid;place-items:center;width:var(--size-checkbox);height:var(--size-checkbox);border:var(--border-input);}
@@ -541,15 +547,6 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 	.radio-options > .checkbox{cursor:pointer;display:grid;grid-template-columns:auto 1fr;grid-gap:var(--spacing-m);align-items:center;text-align:left;text-decoration:none;}
 	.radio-options > * + *{margin-top:var(--spacing-m);padding-top:0;border-top:none}
 
-.search-form{display:grid;grid-template-columns:1fr auto;align-items:stretch;grid-gap:var(--spacing-m);margin-bottom:var(--spacing-m)}
-	.search-form input[type="search"]{min-width:0;}
-	.search-form .button{margin:0;min-width:45px;padding:10px;background:var(--color-highlight) var(--background-search) no-repeat center;background-size:20px}
-	.search-form + .preview{margin-top:var(--spacing-l);padding-top:var(--spacing-m);border-top:var(--border-page);}
-
-	.search-box{width:100%;}
-	.search-result{border-bottom:var(--border-page);padding:var(--spacing-list-item) 0}
-		.search-result:first-child{padding-top:0;margin-top:var(--spacing-m)}
-		.search-result:last-child{padding-bottom:0;border-bottom:none}
 
 #places{display:grid;grid-template-columns:1fr minmax(200px,300px);height:450px;grid-gap:var(--spacing-m);margin:var(--spacing-l) 0 0;border:var(--border-page);border-radius:var(--border-radius);}
 	#places-map{background:var(--color-background-output);}
@@ -651,6 +648,8 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 		.logo{height:var(--height-header);width:0px;overflow:hidden}
 		#sections{margin-left:0}
 		.article-body .table-of-contents h2{font-size:var(--font-size-h3);margin:0}
+
+	.search-results a:after{content:none}
 
 	.price output.no-mobile + output{flex:2 0 auto}
 

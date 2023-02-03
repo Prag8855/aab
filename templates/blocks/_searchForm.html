@@ -1,4 +1,88 @@
-<form method="get" action="/search" class="search-form" role="search" aria-label="Search All About Berlin">
-	<input type="search" class="search-box" name="q" value="" placeholder="Search All About Berlin" {% if autofocus|default(false) %}autofocus{% endif %}>
-	<input type="submit" value="" class="button">
-</form>
+<div class="search-form">
+	<label title="Search this website">
+		<input type="search" placeholder="Search this website" tabindex="1" {% if autofocus|default %}class="autofocus"{% endif %}>
+		{% include 'css/icons/search.svg' %}
+	</label>
+	<div class="search-results"></div>
+</div>
+{% include '/js/lunr.js' %}
+{% js %}
+window.addEventListener("DOMContentLoaded", function() {
+  /* Search */
+  let searchIndex = null;
+  let searchDocuments = null;
+
+  document.querySelectorAll('.search-form').forEach(searchForm => {
+    let searchResults = [];
+    let selectedResultIndex = -1;
+    const searchInput = searchForm.querySelector('input[type="search"]');
+    const searchResultsElement = searchForm.querySelector('.search-results');
+
+    function updateSearchResults(){
+      selectedResultIndex = -1;
+
+      const query = searchInput.value.trim();
+      if (searchIndex != null && searchDocuments != null && query != ''){
+        searchResults = searchIndex.search(`${query}^100 ${query}*^10 ${query}~2`)
+          .slice(0, 5).map(r => searchDocuments[r.ref]);
+      }
+      else {
+        searchResults = [];
+      }
+
+      searchResultsElement.textContent = '';
+      searchResults.forEach(result => {
+        const el = document.createElement('a');
+        el.href = result.url;
+        el.innerText = result.short_title || result.title || result.german_term;
+        searchResultsElement.appendChild(el);
+      });
+    }
+
+    searchInput.addEventListener('focus', e => {
+      if(searchIndex === null) {
+        fetch('/search-index.json')
+          .then((response) => response.json())
+          .then((data) => {
+            searchIndex = lunr.Index.load(data.index);
+            searchDocuments = data.documents;
+            updateSearchResults();
+          });
+      }
+    });
+    if(searchInput.classList.contains('autofocus')) {
+      searchInput.focus();
+    }
+    searchInput.addEventListener('input', e => updateSearchResults());
+    searchResultsElement.addEventListener('mousedown', e => e.preventDefault()); // Prevents blurring before result click event
+
+    searchInput.addEventListener('keydown', e => {
+      if(e.key === "Enter"){
+        if(selectedResultIndex === -1) {
+          window.location = `{{ site_url }}/search?q=${encodeURIComponent(searchInput.value.trim())}`;
+        }
+        else {
+          window.location = searchResults[selectedResultIndex].url;
+        }
+      }
+      else if(e.key === "ArrowUp"){
+        selectedResultIndex = Math.max(selectedResultIndex - 1, -1);
+      }
+      else if(e.key === "ArrowDown"){
+        selectedResultIndex = Math.min(selectedResultIndex + 1, searchResults.length - 1);
+      }
+      else if(e.key === "Escape"){
+        searchInput.blur();
+      }
+      else {
+        return;
+      }
+
+      e.preventDefault();
+      searchResultsElement.childNodes.forEach((el, index) => {
+        el.classList.toggle('highlighted', index === selectedResultIndex);
+      });
+    });
+  });
+});
+{% endjs %}
