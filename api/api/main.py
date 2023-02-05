@@ -210,4 +210,5 @@ def send_form(form_type):
     return {'status': 'success'}
 
 
-db.create_all()
+with app.app_context():
+    db.create_all()

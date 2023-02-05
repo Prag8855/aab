@@ -281,7 +281,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 - **The lease says the apartment is furnished, but it's not true**  
     Rents are limited by the *[[Mietpreisbremse]]*, but that does not apply to furnished apartments. Landlords pretend that the apartment is furnished to charge more rent. [Conny](/out/conny-mietpreisbremse) can help you reduce your rent.
 - **The previous tenant wants to sell his furniture or his kitchen**  
-    Sometimes, the previous tenant (*Vormieter*) wants to sell all their furniture or kitchen to you.[^20] If you don't take the furniture, you don't get the apartment. They often charge too much, because they know that someone will buy it to get the apartment.
+    Sometimes, the previous tenant (*Vormieter*) wants to sell all their furniture or kitchen to you.[^20] If you don't take the furniture, you don't get the apartment. They often charge too much, because they know that someone will buy it to get the apartment. Overcharging for furniture is illegal.[^43]
 - **You must pay a bribe**  
     The previous tenant or the landlord asks for a bribe to give you the apartment.[^21] This is illegal, but they know that someone will pay it.
 - **The landlord is in another country**  
@@ -476,3 +476,4 @@ You should also get [liability insurance](/glossary/Haftpflichtversicherung) and
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
 [^42]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/)
+[^43]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html)

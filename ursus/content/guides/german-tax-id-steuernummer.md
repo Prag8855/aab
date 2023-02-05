@@ -26,7 +26,7 @@ You also need a tax ID to [start a business](/guides/start-a-business-in-germany
 
 You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. 2 to 4 weeks later, you get a letter from the *Bundeszentralamt für Steuern*. Your tax ID is in the top right corner.
 
-[![Bundeszentralamt Für Steuern Zuteilung Identifikationsnummer](/images/tax-id-document-bzst.jpg)](/images/tax-id-document-bzst.jpg)
+[![Bundeszentralamt Für Steuern Zuteilung Identifikationsnummer](/images/tax-id-document-bzst.jpg)](/images/tax-id-document-bzst.jpg)
 
 **If you registered your address before**, you already have a tax ID. You just need to [find it](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 

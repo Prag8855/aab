@@ -34,7 +34,7 @@ config = {
     'site_url': site_url,
     'content_path': Path(__file__).parent / 'content',
     'templates_path': Path(__file__).parent / 'templates',
-    'output_path': Path(__file__).parent / 'output',
+    'output_path': Path(__file__).parent.parent / 'output',
     'html_url_extension': '',
 
     'lunr_indexes': {
@@ -114,7 +114,7 @@ config = {
     },
 
     'renderers': default_config['renderers'] + [
-        'ursus_extras.renderers.entry_images.EntryImageRenderer',
+        'extensions.renderers.entry_images.EntryImageRenderer',
     ],
 
     'wikilinks_base_url': f'{site_url}/glossary',

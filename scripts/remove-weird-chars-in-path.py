@@ -5,6 +5,7 @@ from pathlib import Path
 weird_chars = (
     ('\uFEFF', ''),
     ('\u200B', ''),
+    ('ü', 'ü'),
 )
 
 for char, replacement in weird_chars:

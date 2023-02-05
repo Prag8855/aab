@@ -9,6 +9,8 @@
 echo "Starting cron..."
 crond -L /proc/1/fd/1
 
+mkdir -p /var/run/nginx-cache
+
 CERT_CHAIN_PATH=/etc/ssl-certs/full-chain.pem
 PRIVATE_KEY_PATH=/etc/ssl-certs/private-key.pem
 

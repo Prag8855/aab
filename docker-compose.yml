@@ -17,7 +17,8 @@ services:
       - BOOKING_TOOL_EMAIL
   proxy:
     build:
-      context: ./proxy
+      context: .
+      dockerfile: ./proxy/Dockerfile
       args:
         - "SSL_DOMAIN"
         - "SSL_EMAIL"
@@ -28,10 +29,8 @@ services:
       - api
       - appointments
     volumes:
-      - "./output:/var/www/html:ro"
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
-      - "image_cache:/var/run/nginx-cache/imagecache"
   mysql:
     image: "mysql"
     volumes:
@@ -43,4 +42,3 @@ volumes:
   mysql:
   ssl_certs:
   acme_sh:
-  image_cache:
