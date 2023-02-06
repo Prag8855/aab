@@ -17,8 +17,7 @@ services:
       - BOOKING_TOOL_EMAIL
   proxy:
     build:
-      context: .
-      dockerfile: ./proxy/Dockerfile
+      context: ./proxy
       args:
         - "SSL_DOMAIN"
         - "SSL_EMAIL"
@@ -29,6 +28,8 @@ services:
       - api
       - appointments
     volumes:
+      # STATIC_SITE_PATH is the path to your generated website.
+      - "${STATIC_SITE_PATH}:/var/www/html"
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
   mysql:

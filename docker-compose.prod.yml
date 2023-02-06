@@ -1,6 +1,17 @@
 version: '3.2'
 
 services:
+  ursus_builder:
+    build:
+      context: "./ursus_builder"
+    environment:
+      - "GITHUB_PERSONAL_ACCESS_TOKEN"
+    volumes:
+      - "ursus_files:/var/ursus/site"
+      - "static_site:/var/ursus/output"
   proxy:
+    volumes:
+      - "static_site:/var/www/html"
 volumes:
+  ursus_files:
   static_site:
