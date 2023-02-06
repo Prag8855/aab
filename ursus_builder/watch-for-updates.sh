@@ -11,7 +11,7 @@ while true; do
     git -C /var/ursus/site fetch > /dev/null
     if ! (git -C /var/ursus/site diff --exit-code master..origin/master > /dev/null)
     then
-        git pull;
+        git -C /var/ursus/site pull;
         ursus -c /var/ursus/site/ursus_config.py;
     else
         sleep 60
