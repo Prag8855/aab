@@ -4,6 +4,7 @@ from pathlib import Path
 import logging
 import secrets
 import string
+import urllib
 
 
 logging.addLevelName(logging.DEBUG, '⚪')
@@ -24,6 +25,10 @@ def to_currency(value):
 def random_id():
     alphabet = string.ascii_letters + string.digits
     return ''.join(secrets.choice(alphabet) for i in range(5))
+
+
+def build_wikilinks_url(label, base, end):
+    return '{}{}{}'.format(base, urllib.parse.quote(label), end)
 
 
 minimum_wage = 12
@@ -118,6 +123,7 @@ config = {
     ],
 
     'wikilinks_base_url': f'{site_url}/glossary',
+    'wikilinks_url_builder': build_wikilinks_url,
     'jinja_filters': {
         'number': to_number,
         'num': to_number,
