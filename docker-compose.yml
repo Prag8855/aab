@@ -3,12 +3,11 @@ version: '3.2'
 services:
   api:
     build: ./api
-    depends_on:
-      - mysql
     environment:
       - MAILGUN_API_KEY
     volumes:
       - "./api/api:/app"
+      - "api_db:/var/db"
     restart: unless-stopped
   appointments:
     build: https://github.com/nicbou/burgeramt-appointments-websockets.git#main
@@ -35,15 +34,7 @@ services:
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
     restart: unless-stopped
-  mysql:
-    image: "mysql"
-    volumes:
-      - "mysql:/var/lib/mysql"
-    environment:
-      - MYSQL_DATABASE=api
-      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
-    restart: unless-stopped
 volumes:
-  mysql:
-  ssl_certs:
   acme_sh:
+  api_db:
+  ssl_certs:

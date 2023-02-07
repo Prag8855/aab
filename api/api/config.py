@@ -1,7 +1,7 @@
 import logging
 import os
 
-db_url = 'mysql://root@mysql/api?charset=utf8'
+db_url = 'sqlite:////var/db/api.db'
 
 base_path = os.path.dirname(os.path.abspath(__file__))
 

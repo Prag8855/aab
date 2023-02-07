@@ -1,17 +1,7 @@
 FROM tiangolo/uwsgi-nginx-flask:python3.8-alpine
 
-RUN apk upgrade --update \
-  && apk add -U tzdata \
-  && cp /usr/share/zoneinfo/Europe/Berlin /etc/localtime \
-  && apk del tzdata \
-  && rm -rf /var/cache/apk/* \
-  && apk add --no-cache mariadb-connector-c-dev \
-  && apk add --no-cache --virtual .build-deps \
-        build-base \
-        mariadb-dev
-
 COPY requirements.txt requirements.txt
-RUN pip install -r requirements.txt && apk del .build-deps
+RUN pip install -r requirements.txt
 
 # Install crontab to process the message queue
 COPY crontab.conf /tmp/crontab.conf
