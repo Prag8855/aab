@@ -23,9 +23,9 @@ Most people who want to live in Germany need a residence permit. It depends on y
 - **Any other country**  
     You need a residence permit to work, study, or freelance in Germany. If you want to look for work in Germany, you need a [job seeker visa](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/jobseekers).[^3] If you want to visit Germany, you need a tourist visa. You can't convert a tourist visa to a residence permit.[^4]
 
-If you are a German [permanent resident](/glossary/Niederlassungserlaubnis), you can already live and work in Germany. You do not need another residence permit.
+**If you are a German [permanent resident](/glossary/Niederlassungserlaubnis)**, you can already live and work in Germany. You do not need another residence permit.
 
-If you just want to visit Germany as a tourist, you don't need a residence permit, but you might need a [[Schengen visa]]. Use [this list](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) to know if you need a Schengen visa to visit Germany.
+**If you just want to visit Germany as a tourist**, you don't need a residence permit, but you might need a [[Schengen visa]]. Use [this list](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) to know if you need a Schengen visa to visit Germany.
 
 Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check) to know which residence permit you need to stay in Germany.
 
