@@ -4,7 +4,7 @@ set -e
 
 if [ ! -d /var/ursus/site/.git ]
 then
-    git clone https://${GITHUB_PERSONAL_ACCESS_TOKEN}@github.com/nicbou/aab.git /var/ursus/site
+    git clone ${GIT_REPO_URL} /var/ursus/site
     ursus -c /var/ursus/site/ursus_config.py;
 fi
 

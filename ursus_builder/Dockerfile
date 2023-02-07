@@ -6,6 +6,5 @@ RUN apt-get update \
 
 RUN pip install --upgrade --no-cache-dir ursus@https://github.com/nicbou/ursus/archive/master.zip
 COPY ./watch-for-updates.sh /watch-for-updates.sh
-ARG GITHUB_PERSONAL_ACCESS_TOKEN
 
 CMD /watch-for-updates.sh

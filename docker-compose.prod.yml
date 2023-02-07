@@ -5,7 +5,8 @@ services:
     build:
       context: "./ursus_builder"
     environment:
-      - "GITHUB_PERSONAL_ACCESS_TOKEN"
+      - "GIT_REPO_URL"
+      - "SITE_URL"
     volumes:
       - "ursus_files:/var/ursus/site"
       - "static_site:/var/ursus/output"
