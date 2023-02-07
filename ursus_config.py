@@ -2,6 +2,7 @@ from datetime import datetime
 from ursus.default_config import config as default_config
 from pathlib import Path
 import logging
+import os
 import secrets
 import string
 import urllib
@@ -33,7 +34,7 @@ def build_wikilinks_url(label, base, end):
 
 minimum_wage = 12
 
-site_url = 'https://localhost'
+site_url = os.environ.get('SITE_URL', '')
 
 config = {
     'site_url': site_url,
