@@ -153,7 +153,7 @@ The things you have in your apartment are not covered by liability insurance. If
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance for less than 5€ per month. They all speak English. If you don't speak German, they are a good option. They also offer household insurance (*[[Hausratversicherung]]*).
+Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options. [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) offer liability insurance for less than 5€ per month and they speak English. They also have household insurance (*[[Hausratversicherung]]*).
 
 ### Join a tenants' association
 

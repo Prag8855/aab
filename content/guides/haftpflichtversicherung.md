@@ -54,7 +54,7 @@ Most insurance policies do not cover these accidents:
 - **Piracy and copyright infringement**  
     If you get in trouble for illegally downloading movies, your liability insurance will not cover you.[^12]
 - **Locking yourself out**  
-    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat) and [Luko](/out/coya-hausratversicherung)'s household insurance cover locksmiths,[^13] and they speak English.
+    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^13] and they speak English.
 
 ## Do I really need it?
 
@@ -112,9 +112,9 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/coya-haftpflichtversicherung) offer liability insurance, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) offer liability insurance, and they speak English.
 
-[Feather](/out/popsure-haftpflichtversicherung) has most of its contracts in English. [Luko](/out/coya-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) only have the summary in English. You must understand your insurance contract. It's important.
+You must understand your insurance contract. It's important. [Feather](/out/popsure-haftpflichtversicherung) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
 You can also talk to an English-speaking insurance broker. They will help you pick the best liability insurance. Choose an *independent* insurance broker. They will recommend products from different insurers. For liability insurance, it's less important.
 
@@ -148,7 +148,7 @@ Some professions are required to have liability insurance:[^26]
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/coya-dogs) offer dog liability insurance, and they speak English. They cover dangerous breeds.[^28]
+*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs)offer dog liability insurance, and they speak English. They cover dangerous breeds.[^28]
 
 **[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
 
