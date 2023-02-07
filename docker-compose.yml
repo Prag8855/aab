@@ -9,12 +9,14 @@ services:
       - MAILGUN_API_KEY
     volumes:
       - "./api/api:/app"
+    restart: unless-stopped
   appointments:
     build: https://github.com/nicbou/burgeramt-appointments-websockets.git#main
     environment:
       - PYTHONUNBUFFERED=1
       - BOOKING_TOOL_ID
       - BOOKING_TOOL_EMAIL
+    restart: unless-stopped
   proxy:
     build:
       context: ./proxy
@@ -32,6 +34,7 @@ services:
       - "${STATIC_SITE_PATH}:/var/www/html"
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
+    restart: unless-stopped
   mysql:
     image: "mysql"
     volumes:
@@ -39,6 +42,7 @@ services:
     environment:
       - MYSQL_DATABASE=api
       - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+    restart: unless-stopped
 volumes:
   mysql:
   ssl_certs:
