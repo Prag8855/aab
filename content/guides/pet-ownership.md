@@ -84,7 +84,7 @@ This insurance does not cover you if your dog...
 
 In Berlin, your coverage must be at least 1 million euros.[^2] If you travel with your dog, make sure your insurance also covers you in other countries. If your dog is a [dangerous breed](/guides/pet-ownership#dangerous-breeds), make sure your insurance covers dangerous breeds.
 
-*Hundehaftpflichtversicherung* is cheap. It costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) offer dog liability insurance, and they speak English. They both cover dangerous breeds.[^7]
+*Hundehaftpflichtversicherung* is cheap. It costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) offer dog liability insurance, and they speak English. They both cover dangerous breeds.
 
 ### Pet health insurance
 
@@ -152,7 +152,6 @@ You must also be nice to your neighbours. If your dog barks all the time,[^15] o
 [^4]: [berlin.de \(archived\)](https://web.archive.org/web/20211204220345/https://20211204220345/special/haustiere/4603704-2840263-hundefuehrerschein-anbieter-ablauf-koste.html)
 [^5]: [diehundeschulen.de](https://diehundeschulen.de/hundeschulen-blog/hundehalter-sachkundenachweis-nach-bundesland/)
 [^6]: [berlin.de](https://service.berlin.de/dienstleistung/121822/)
-[^7]: [coya.com](https://www.coya.com/blog/alle-hunde), [allaboutberlin.com](/guides/pet-ownership#dangerous-breeds)
 [^8]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/tierisch-ueberfluessig-krankenversicherungen-fuer-haustiere-10781#2)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/fvq6crb/?utm_source=reddit&utm_medium=web2x&context=3)
 [^10]: [berlin.de](https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/aemter/ordnungsamt/artikel.86083.php)

@@ -148,7 +148,7 @@ Some professions are required to have liability insurance:[^26]
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs)offer dog liability insurance, and they speak English. They cover dangerous breeds.[^28]
+*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs)offer dog liability insurance, and they speak English. They cover dangerous breeds.
 
 **[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
 
@@ -210,7 +210,6 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^25]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_vvg/englisch_vvg.html#p0376)
 [^26]: [Wikipedia](https://de.wikipedia.org/wiki/Betriebshaftpflichtversicherung)
 [^27]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stberg/__67.html)
-[^28]: [coya.com](https://www.coya.com/blog/alle-hunde), [allaboutberlin.com](/guides/pet-ownership#dangerous-breeds)
 [^29]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/wie-teuer-ist-eine-rechtsschutzversicherung/)
 [^30]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/), [gevestor.de](https://www.gevestor.de/details/das-koennen-vermieter-von-ihren-mietern-verlangen-737578.html), [de.luko.eu](https://de.luko.eu/en/advice/guide/landlord-liability-insurance/)
 [^31]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/)

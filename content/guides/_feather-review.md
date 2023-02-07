@@ -50,7 +50,7 @@ I also like to work with health insurance brokers because their advice is free. 
 
 The Feather links on this website are affiliate links. When I send Feather a customer, they pay me.
 
-Many other websites work this way. This is why so many blogs recommend Feather, Ottonova, Coya, GetSafe, N26 and other products. They don't use those products, and they rarely understand them. Those are not customer reviews, those are ads.
+Many other websites work this way. This is why so many blogs recommend Feather, Ottonova, Luko, GetSafe, N26 and other products. They don't use those products, and they rarely understand them. Those are not customer reviews, those are ads.
 
 I don't do this. I recommend Feather and other services because I use them, understand them, and trust them. This is why my [reviews](https://allaboutberlin.com/search?q=review) are often critical. I don't pretend to like a product to make more money. It's my [official policy](https://allaboutberlin.com/impressum#content-policy).
 

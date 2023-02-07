@@ -42,7 +42,7 @@ Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) pays for the damage
 
 Dog liability insurance is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. Some states only require dog liability insurance for dangerous breeds.
 
-It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) offer dog liability insurance and speak English. They also cover dangerous breeds.[^2] You can sometimes save money if you combine private liability insurance and dog liability insurance.
+It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) offer dog liability insurance and speak English. They also cover dangerous breeds. You can sometimes save money if you combine private liability insurance and dog liability insurance.
 
 **[Having a dog in Germany ➞](/guides/pet-ownership)**
 
@@ -124,7 +124,6 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare options. If you don't 
 
 [^0]: [dieversicherer.de](https://www.dieversicherer.de/versicherer/beruf-freizeit/news/berufshaftpflichtversicherung-wer-braucht-sie-und-was-deckt-sie-ab--61280#:~:text=fur%20wen%20ist%20die%20berufshaftpflichtversicherung%20sinnvoll)
 [^1]: [dieversicherer.de](https://www.dieversicherer.de/versicherer/beruf-freizeit/news/berufshaftpflichtversicherung-wer-braucht-sie-und-was-deckt-sie-ab--61280#:~:text=wie%20sind%20angestellte%20haftpflichtversichert)
-[^2]: [coya.com](https://www.coya.com/blog/alle-hunde), [allaboutberlin.com](/guides/pet-ownership#dangerous-breeds)
 [^3]: [ruv.de](https://www.ruv.de/ratgeber/versicherungsinfos/bauen-wohnen/hausratschaeden)
 [^4]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)
 [^5]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/tierisch-ueberfluessig-krankenversicherungen-fuer-haustiere-10781#2)
