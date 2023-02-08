@@ -356,11 +356,9 @@ If you want to get the apartment, come prepared. Bring all your documents with y
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
 
-You must send personal documents to people you have never met. Some scammers pretend to be landlords. They create fake listings to get your documents and steal your identity.[^25]
+You might have to send personal documents to people you don't know. Some scammers pretend to be landlords. They create fake listings to get your documents and steal your identity.[^25]
 
-Only send documents after you see the apartment.
-
-Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again.
+Only send documents after you see the apartment. Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again.
 
 You need these documents to apply for an apartment:
 
