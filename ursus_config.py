@@ -121,6 +121,7 @@ config = {
 
     'context_processors': default_config['context_processors'] + [
         'extensions.renderers.entry_images.EntryImageUrlProcessor',
+        'ursus.context_processors.git_date.GitDateProcessor',
     ],
     'renderers': default_config['renderers'] + [
         'extensions.renderers.entry_images.EntryImageRenderer',
