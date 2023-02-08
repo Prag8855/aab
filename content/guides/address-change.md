@@ -12,8 +12,7 @@ When you [move into a new apartment](/guides/moving-in), you must change your ad
 
 ## Put your name on the mailbox
 
-German apartments do not have apartment numbers. If your name is not on your mailbox, you will not get your mail, even if the address is   
-correct.
+German apartment buildings rarely have individual apartment numbers. You have the same address as everyone in your building. [If your name is not on your mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), you won't get mail addressed to you.[^23] You must add "c/o" or "bei" to your address.
 
 **[How to put your name on the mailbox ➞](/guides/moving-in#put-your-name-on-the-mailbox)**
 

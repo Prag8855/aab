@@ -172,11 +172,11 @@ If you send someone else to do your *Anmeldung*, there are extra requirements:
 > Musterstraße 123  
 > 10115 Berlin
 
-If your name is not on the lease, landlords sometimes refuse to put your name on the mailbox.[^32] This happens often with temporary apartments.
+If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^32] This happens often with temporary apartments.
 
-German apartments don't have apartment numbers. [If your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), you won't get your mail.[^23] This is why you must add "c/o" or "bei" to your address every time.
+German apartment buildings rarely have individual door numbers. You have the same address as everyone in your building. [If your name is not on your mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), you won't get mail addressed to you.[^23] You must add "c/o" or "bei" to your address.
 
-This is officially allowed by the Bürgeramt.[^24] Some people could not register because the name on the mailbox was a business.[^25] Officially, this is also allowed.
+The [[Bürgeramt]] allows you to use "bei" in your registered address.[^24] They sometimes require the name on the mailbox to be a real person, not a business.[^25]
 
 ### Can many register with one appointment?
 

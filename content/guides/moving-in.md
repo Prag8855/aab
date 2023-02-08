@@ -76,20 +76,20 @@ If your current internet company can't service your new apartment, you can cance
 
 ### Put your name on the mailbox
 
-German apartments do not have apartment numbers. If your name is not on your mailbox, you will not get your mail, even if the address is correct.
+German apartment buildings rarely have individual apartment numbers. You have the same address as everyone in your building. If your name is not on your mailbox, you won't get mail addressed to you. You must add "c/o" or "bei" to your address.
 
-When you move in, the landlord or the *[[Hausverwaltung]]* will put your name on the mailbox. They must do it for free.[^1]
+When you move in, the landlord or the *[[Hausverwaltung]]* puts your name on your mailbox. They can't make you pay for this.[^1]
 
-If your name is not on the lease, the landlord can refuse to put your name on the mailbox.[^2]
+If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^2]
 
-If you can't put your name on the mailbox, you must add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address. For example:
+If you can't put your name on your mailbox, you must add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address. For example:
 
-> [your name] **bei [your roommate's name]** (the roommate whose name is on the mailbox)  
+> [your name] **bei [your roommate's name]** (the person whose name is on the mailbox)  
 > Musterstraße 17  
 > 12345 Berlin  
 > Deutschland
 
-When your name is not on the mailbox, you must add "c/o" or "bei" to your official address when you do your *[[Anmeldung]]*.
+If your name is not on your mailbox, you must add "c/o" or "bei" to your official address when you [register your address](/guides/anmeldung-in-english-berlin).
 
 ![Mailboxes briefkasten germany](/illustrations/mailboxes-briefkasten-germany.png)
 
