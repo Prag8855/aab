@@ -3,11 +3,7 @@
 {% set metadescription = "Guides for people who want to settle in Berlin. Information about getting a visa, finding a job, finding an apartment, and a lot more." %}
 
 {% block postHead %}
-	<meta property="og:url" content="{{ site_url }}" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ metatitle }}" />
-	<meta property="og:description" content="{{ metadescription }}" />
-	<meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ metatitle|urlencode }}" />
+	{{ super() }}
 	<link rel="canonical" href="{{ site_url }}" />
 {% endblock %}
 {% block main %}

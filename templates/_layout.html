@@ -5,11 +5,26 @@
 	<title>{% if metatitle|default %}{{ metatitle }}{% if metatitle|length < 50 %} - {% endif %}{% if metatitle|length < 50 %}All About Berlin{% endif %}{% else %}All About Berlin{% endif %}</title>
 	{% if metadescription|default %}<meta name="description" content="{{ metadescription }}">{% endif %}
 	<link rel="home" href="{{ site_url }}" />
+	<link rel="glossary" href="{{ site_url }}/glossary" />
+	<link rel="search" href="{{ site_url }}/search" />
 	<link rel="icon" type="image/png" href="/staticimages/favicon.png">
 	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss" />
 	<meta name="color-scheme" content="light dark">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	{% block postHead %}{% endblock %}
+	{% block postHead %}
+		{% if entry|default %}
+			<meta property="og:type" content="article"/>
+			<meta property="og:url" content="{{ entry.url }}" />
+			<meta property="og:title" content="{{ entry.title }}" />
+			<meta property="og:description" content="{{ entry.description }}" />
+			<meta property="og:image" content="{{ entry.image_url }}" />
+			<link rel="canonical" href="{{ entry.url }}" />
+		{% else %}
+			<meta property="og:type" content="website"/>
+			<meta property="og:title" content="{{ metatitle }}"/>
+			<meta property="og:description" content="{{ metadescription }}"/>
+		{% endif %}
+	{% endblock %}
 	<style>{% include 'css/_style.css' %}</style>
 
 	<script async defer data-api="{{ site_url }}/whoisthere/event" data-domain="allaboutberlin.com" src="{{ site_url }}/whoisthere.js"></script>
@@ -74,13 +89,13 @@
 					"@type": "Person",
 					"@id": "https://nicolasbouliane.com"
 				},
-				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
-				"inLanguage": "en",
-				"url": "{{ site_url }}",
 				"maintainer": {
 					"@type": "Person",
 					"@id": "https://nicolasbouliane.com"
 				},
+				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
+				"inLanguage": "en",
+				"url": "{{ site_url }}",
 				"potentialAction": {
 					"@type": "SearchAction",
 					"target": "{{ site_url }}/search?q={search_term_string}",

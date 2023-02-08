@@ -1,6 +1,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from ursus.renderers import Renderer
+from ursus.context_processors import EntryContextProcessor
 import hashlib
 import logging
 
@@ -84,6 +85,16 @@ def make_cover_image(text: str, templates_path: Path) -> Image:
     )
 
     return image
+
+
+class EntryImageUrlProcessor(EntryContextProcessor):
+    def __init__(self, config):
+        super().__init__(config)
+        self.site_url = config.get('site_url', '')
+
+    def process_entry(self, entry_uri: str, entry_context: dict) -> dict:
+        entry_context['image_url'] = f"{self.site_url}/{str(Path(entry_uri).with_suffix('.webp'))}"
+        return entry_context
 
 
 class EntryImageRenderer(Renderer):

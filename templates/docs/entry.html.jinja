@@ -4,12 +4,8 @@
 {% set related_entries = entry.related_guides|default([]) %}
 
 {% block postHead %}
-	<meta property="og:url" content="{{ entry.url }}" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ entry.title }}" />
-	<meta property="og:description" content="{{ entry.description }}" />
-	<meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ entry.title|urlencode }}" />
-	<link rel="canonical" href="{{ entry.url }}" />
+	{{ super() }}
+	<meta property="og:type" content="website"/>
 	<link rel="index" href="{{ site_url }}/docs">
 {% endblock %}
 

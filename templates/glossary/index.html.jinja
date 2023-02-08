@@ -3,10 +3,10 @@
 {% set metadescription = "A glossary of the terms used on All About Berlin." %}
 
 {% block postHead %}
-	<meta property="og:type" content="article" />
+	{{ super() }}
+	<meta property="og:type" content="website"/>
 	<meta property="og:title" content="{{ metatitle }}" />
 	<meta property="og:description" content="{{ metadescription }}" />
-	<meta property="og:image" content="{{site_url}}/api/images/cover.png?text={{ metatitle|urlencode }}" />
 	<link rel="canonical" href="{{ site_url }}/glossary">
 {% endblock %}
 

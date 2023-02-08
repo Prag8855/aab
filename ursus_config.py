@@ -119,6 +119,9 @@ config = {
         },
     },
 
+    'context_processors': default_config['context_processors'] + [
+        'extensions.renderers.entry_images.EntryImageUrlProcessor',
+    ],
     'renderers': default_config['renderers'] + [
         'extensions.renderers.entry_images.EntryImageRenderer',
     ],
