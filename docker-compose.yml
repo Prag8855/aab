@@ -6,7 +6,6 @@ services:
     environment:
       - MAILGUN_API_KEY
     volumes:
-      - "./api/api:/app"
       - "api_db:/var/db"
     restart: unless-stopped
   appointments:

@@ -11,4 +11,6 @@ RUN crontab /tmp/crontab.conf
 # access.log is symlinked to stdout
 RUN rm /var/log/nginx/access.log
 
+COPY ./api /app
+
 CMD crond -L /proc/1/fd/1 && /start.sh
