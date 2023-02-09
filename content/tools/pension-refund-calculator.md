@@ -6,7 +6,7 @@ Date_created: 2022-02-12
 Date_updated: 2022-08-26
 ---
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include 'blocks/_pensionRefundCalculatorStatic.html' %}
 
 **[How to apply for a pension refund ➞](/guides/pension-payments-refund#how-do-i-ask-for-a-pension-refund)**
 

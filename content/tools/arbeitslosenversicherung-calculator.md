@@ -8,7 +8,7 @@ Date_updated: 2022-08-26
 
 This calculator shows how much you pay for unemployment insurance (*[[Arbeitslosenversicherung]]*) every month.
 
-{% include 'blocks/_unemploymentInsuranceCalculator.html' %}
+{% include 'blocks/_unemploymentInsuranceCalculatorStatic.html' %}
 
 The [German income tax calculator](/out/income-tax-calculator) also shows how much unemployment insurance you pay.
 

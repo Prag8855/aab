@@ -8,7 +8,7 @@ Date_updated: 2022-08-30
 
 This calculator helps you choose health insurance in Germany. It shows you insurance prices for employees, students and freelancers.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include 'blocks/_healthInsuranceCalculatorStatic.html' %}
 
 Health insurance is part of your salary deductions. Use my [income tax calculator](/tools/tax-calculator) to see your total salary deductions.
 

@@ -7,7 +7,7 @@ Date_updated: 2022-08-26
 
 This tool helps you find an appointment to [register your address](/glossary/Anmeldung) at the *[[Bürgeramt]]*.
 
-{% include "blocks/_appointmentFinder.html" %}
+{% include "blocks/_appointmentFinderStatic.html" %}
 
 **[Other ways to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
 

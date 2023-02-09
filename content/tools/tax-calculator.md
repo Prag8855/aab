@@ -8,7 +8,7 @@ Date_updated: 2022-09-06
 
 This tool calculates your German [net income](/glossary/Netto%20income), after taxes and social contributions. It's your take-home salary, the money you keep every month.
 
-{% include 'blocks/_taxCalculator.html' %}
+{% include 'blocks/_taxCalculatorStatic.html' %}
 
 ## The taxes you pay in Germany
 
