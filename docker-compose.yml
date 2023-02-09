@@ -4,16 +4,16 @@ services:
   api:
     build: ./api
     environment:
-      - MAILGUN_API_KEY
+      - "MAILGUN_API_KEY"
     volumes:
       - "api_db:/var/db"
     restart: unless-stopped
   appointments:
     build: https://github.com/nicbou/burgeramt-appointments-websockets.git#main
     environment:
-      - PYTHONUNBUFFERED=1
-      - BOOKING_TOOL_ID
-      - BOOKING_TOOL_EMAIL
+      - "PYTHONUNBUFFERED=1"
+      - "BOOKING_TOOL_ID"
+      - "BOOKING_TOOL_EMAIL"
     restart: unless-stopped
   proxy:
     build:
@@ -22,11 +22,11 @@ services:
         - "SSL_DOMAIN"
         - "SSL_EMAIL"
     ports:
-      - 80:80
-      - 443:443
+      - "80:80"
+      - "443:443"
     depends_on:
-      - api
-      - appointments
+      - "api"
+      - "appointments"
     volumes:
       # STATIC_SITE_PATH is the path to your generated website.
       - "${STATIC_SITE_PATH}:/var/www/html"
