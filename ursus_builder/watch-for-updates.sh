@@ -8,6 +8,13 @@ then
     ursus -c /var/ursus/site/ursus_config.py;
 fi
 
+
+# Build once
+git -C /var/ursus/site pull;
+ursus -c /var/ursus/site/ursus_config.py
+
+
+# Rebuild on changes
 while true; do
     git -C /var/ursus/site fetch > /dev/null
     if ! (git -C /var/ursus/site diff --exit-code master..origin/master > /dev/null)
