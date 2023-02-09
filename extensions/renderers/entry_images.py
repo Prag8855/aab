@@ -1,7 +1,8 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
-from ursus.renderers import Renderer
+from ursus.config import config
 from ursus.context_processors import EntryContextProcessor
+from ursus.renderers import Renderer
 import hashlib
 import logging
 
@@ -88,12 +89,11 @@ def make_cover_image(text: str, templates_path: Path) -> Image:
 
 
 class EntryImageUrlProcessor(EntryContextProcessor):
-    def __init__(self, config):
-        super().__init__(config)
-        self.site_url = config.get('site_url', '')
+    def __init__(self):
+        super().__init__()
 
     def process_entry(self, entry_uri: str, entry_context: dict) -> dict:
-        entry_context['image_url'] = f"{self.site_url}/{str(Path(entry_uri).with_suffix('.webp'))}"
+        entry_context['image_url'] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.webp'))}"
         return entry_context
 
 
@@ -104,19 +104,19 @@ class EntryImageRenderer(Renderer):
     def get_image_text(self, entry: dict) -> str:
         return entry.get('short_title') or entry.get('title')
 
-    def get_hash(self, entry: dict):
+    def get_hash(self, entry: dict) -> str:
         return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
 
-    def render(self, context, changed_files=None, fast=False):
+    def render(self, context: dict, changed_files: set = None):
         for entry_uri, entry in context['entries'].items():
             if not self.get_image_text(entry):
                 continue
 
             entry_path = Path(entry_uri)
-            image_path = self.output_path / Path(entry_uri).with_suffix('.webp')
+            image_path = config.output_path / Path(entry_uri).with_suffix('.webp')
             needs_rerender = False
 
-            if changed_files is None or (self.content_path / entry_path) in changed_files:
+            if changed_files is None or (config.content_path / entry_path) in changed_files:
                 needs_rerender = True
                 if image_path.exists():
                     existing_image = Image.open(image_path)
@@ -124,8 +124,8 @@ class EntryImageRenderer(Renderer):
                     needs_rerender = exif.get(exif_description_field) != self.get_hash(entry)
 
             if needs_rerender:
-                logger.info(f"Rendering post image {str(image_path.relative_to(self.output_path))}")
-                image = make_cover_image(self.get_image_text(entry), self.templates_path)
+                logger.info(f"Rendering post image {str(image_path.relative_to(config.output_path))}")
+                image = make_cover_image(self.get_image_text(entry), config.templates_path)
 
                 # Unicode strings cause problems, so a simple hash is more reliable
                 exif = image.getexif()
