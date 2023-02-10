@@ -107,29 +107,33 @@ class EntryImageRenderer(Renderer):
     def get_hash(self, entry: dict) -> str:
         return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
 
-    def render(self, context: dict, changed_files: set = None):
+    def render(self, context: dict, changed_files: set = None) -> set:
+        files_to_keep = set()
         for entry_uri, entry in context['entries'].items():
             if not self.get_image_text(entry):
                 continue
 
             entry_path = Path(entry_uri)
-            image_path = config.output_path / Path(entry_uri).with_suffix('.webp')
+            image_path = Path(entry_uri).with_suffix('.webp')
+            abs_image_path = config.output_path / image_path
             needs_rerender = False
 
             if changed_files is None or (config.content_path / entry_path) in changed_files:
                 needs_rerender = True
-                if image_path.exists():
-                    existing_image = Image.open(image_path)
+                if abs_image_path.exists():
+                    existing_image = Image.open(abs_image_path)
                     exif = existing_image.getexif()
                     needs_rerender = exif.get(exif_description_field) != self.get_hash(entry)
 
             if needs_rerender:
-                logger.info(f"Rendering post image {str(image_path.relative_to(config.output_path))}")
+                logger.info(f"Rendering post image {str(image_path)}")
                 image = make_cover_image(self.get_image_text(entry), config.templates_path)
 
                 # Unicode strings cause problems, so a simple hash is more reliable
                 exif = image.getexif()
                 exif[exif_description_field] = self.get_hash(entry)
-                image.save(image_path, optimize=True, quality=90, exif=exif)
-            else:
-                image_path.touch()
+                image.save(abs_image_path, optimize=True, quality=90, exif=exif)
+
+            files_to_keep.add(image_path)
+
+        return files_to_keep
