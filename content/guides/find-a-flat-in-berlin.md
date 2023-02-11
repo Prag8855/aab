@@ -211,7 +211,8 @@ People don't hire agents to find an apartment. They are mostly useless.[^10] The
 
 ### Other tricks
 
-- Install the [eBay Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and get notified of new apartment listings.
+- Install the [eBay Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and enable notifications for new apartment listings.[^44]
+- Follow [@berlinflatsbot on Telegram](https://t.me/berlinflatsbot)
 - Turn on push notifications for the Facebook housing groups you follow.
 
 ![Facebook group notifications 1](/images/facebook-group-notifications-1.png)
@@ -348,7 +349,9 @@ Landlords want tenants with...
 
 ## Step 4: Visit the apartment
 
-The landlord will invite you to visit the apartment (the *Besichtigung*). You can usually apply for the apartment during your visit.
+The landlord will invite you to visit the apartment (the *Besichtigung*). It might be a private visit (just you), or an open visit (many other people).
+
+You can usually apply for the apartment during your visit.
 
 ### What to bring to the visit
 
@@ -475,3 +478,4 @@ You should also get [liability insurance](/glossary/Haftpflichtversicherung) and
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
 [^42]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/)
 [^43]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html)
+[^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
