@@ -52,6 +52,6 @@ Pieter Wiegel recreated many historical fonts and published them [on his website
 - [FE-Schrift](http://www.peter-wiegel.de/GL_Nummernschild.html)
 
 [^0]: [spurnull-magazin.de](https://www.spurnull-magazin.de/zum-weiterlesen/webseiten/verkehrsschilder-historische-schriften/)
-[^1]: [Wikipedia](https://de.wikipedia.org/wiki/Tannenberg_(Schriftart)
+[^1]: [Wikipedia](https://de.wikipedia.org/wiki/Tannenberg_\(Schriftart\))
 [^2]: [Wikipedia](https://en.wikipedia.org/wiki/DIN_1451)
 [^3]: [peter-wiegel.de](http://www.peter-wiegel.de/)

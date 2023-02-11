@@ -24,5 +24,5 @@ If you are not a member these religious communities, you don't pay the church ta
 
 [^0]: [bpb.de](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61565/katholische-und-evangelische-kirche/)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Church_tax#Germany)
-[^2]: [Wikipedia](https://de.wikipedia.org/wiki/Kirchensteuer_(Deutschland)#Steuers%C3%A4tze), [german-tax-consultants.com](https://www.german-tax-consultants.com/german-taxes/church-tax-kirchensteuer.html)
-[^3]: [recht-finanzen.de](https://www.recht-finanzen.de/faq/6086-wer-ist-kirchensteuerpflichtig), [Wikipedia](https://de.wikipedia.org/wiki/Kirchensteuer_(Deutschland)#Kirchensteuereinzug_durch_den_Staat)
+[^2]: [Wikipedia](https://de.wikipedia.org/wiki/Kirchensteuer_\(Deutschland\)#Steuers%C3%A4tze), [german-tax-consultants.com](https://www.german-tax-consultants.com/german-taxes/church-tax-kirchensteuer.html)
+[^3]: [recht-finanzen.de](https://www.recht-finanzen.de/faq/6086-wer-ist-kirchensteuerpflichtig), [Wikipedia](https://de.wikipedia.org/wiki/Kirchensteuer_\(Deutschland\)#Kirchensteuereinzug_durch_den_Staat)

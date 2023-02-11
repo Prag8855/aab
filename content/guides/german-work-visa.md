@@ -457,7 +457,7 @@ leave for a longer period without a special permission, your residence permit be
 [^35]: [berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/)
 [^36]: [berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/), [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/12356/changing-jobs-after-6-months-as-a-blue-card-holder)
 [^37]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
-[^38]: [Wikipedia](https://en.wikipedia.org/wiki/Blue_Card_(European_Union)
+[^38]: [Wikipedia](https://en.wikipedia.org/wiki/Blue_Card_\(European_Union\))
 [^39]: [berlin.de](https://service.berlin.de/dienstleistung/305265/en/)
 [^40]: [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/17253/should-i-buy-health-insurance-before-visa-appointment-for-german-national-visa/17274#17274)
 [^41]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html)

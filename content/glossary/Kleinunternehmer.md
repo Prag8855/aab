@@ -32,4 +32,4 @@ Both freelancers (*[[Freiberufler]]*) and tradespeople (*[[Gewerbe]]*) can be a 
 
 [^0]: [firma.de](https://www.firma.de/rechnungswesen/kleinunternehmen-gruenden-fehler-vermeiden/#:~:text=das%20bedeutet%2C%20wenn%20sie%20diese%20werte%20in%20einem%20jahr%20uberschreiten%2C%20konnen%20sie%20die%20kleinunternehmerregelung%20nicht%20nutzen%2C%20aber%20moglicherweise%20wieder%20im%20folgejahr)
 [^1]: [andrewcross.eu](http://andrewcross.eu/vat-freelancers-germany/)
-[^2]: [Debitoor](https://debitoor.de/gruenderlounge/unternehmensgruendung/was-ist-die-kleinunternehmerregelung), [Wikipedia](https://de.wikipedia.org/wiki/Kleinunternehmerregelung_(Deutschland))
+[^2]: [Debitoor](https://debitoor.de/gruenderlounge/unternehmensgruendung/was-ist-die-kleinunternehmerregelung), [Wikipedia](https://de.wikipedia.org/wiki/Kleinunternehmerregelung_\(Deutschland\))

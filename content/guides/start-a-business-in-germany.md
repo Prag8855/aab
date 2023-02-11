@@ -251,4 +251,4 @@ If you have a website, it must follow German and European laws. If you make a mi
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^11]: [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^12]: [hartz4widerspruch.de](https://hartz4widerspruch.de/ratgeber/basic/wann-erhalten-eu-buerger-und-andere-auslaender-hartz-4/#alg_i_und_alg_ii_-_wann_haben_eu-auslander_anspruch)
-[^13]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [hk24.de](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)
+[^13]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [hk24.de](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)
