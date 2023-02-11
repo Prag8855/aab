@@ -404,31 +404,15 @@ If you visit a *[[WG]]*, the process is different. It's not a visit, but an inte
 
 The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to save money. They don't care so much about being your friend.
 
-## Step 5: Sign the lease, pay the deposit
+## Step 5: Sign the lease and move in
 
-After you sign the lease (*Mietvertrag*), the apartment is yours. You signed a contract. You can't change your mind. Next, you must pay the rent and the [deposit](/guides/mietkaution). You have until your move in date to pay. Do not send any money before you sign the lease and see the apartment. If you pay with cash, always ask for a receipt.
+You will sign a lease, pay the deposit, get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
 
-**[How to pay the deposit ➞](/guides/mietkaution#when-to-pay-the-kaution)**
-
-After you sign the lease, you will receive 3 important documents:
-
-1. The signed lease - You need this for your *[[Anmeldung]]*, and to apply for a [residence permit](/glossary/Aufenthaltstitel).
-2. The *[[Übergabeprotokoll]]* - You get this document after you get the apartment keys.
-3. The*[ Wohnungsgeberbestätigung](/glossary/Wohnungsgeberbest%C3%A4tigung)* - You need this for your *[[Anmeldung]]*
-
-## Step 6: Move in
-
-After you find a place, you must leave the old apartment, and move into the new apartment.
+These guides explain how:
 
 **[How to move out of an apartment ➞](/guides/moving-out)**
 
 **[How to move into an apartment ➞](/guides/moving-in)**
-
-You must register your address, put your name on the mailbox, and change your address.
-
-You might need to [buy furniture, appliances, etc](/guides/where-to-buy-what). You must also learn [how to sort your trash](/guides/sorting-trash-in-germany), [how your electric bill works](/guides/electric-bill-berlin), and [what to do if you lose your keys](/guides/lost-keys).
-
-You should also get [liability insurance](/glossary/Haftpflichtversicherung) and join a [tenants' association](/glossary/Mieterverein).
 
 ## Need help?
 

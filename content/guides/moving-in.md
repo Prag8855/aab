@@ -6,31 +6,33 @@ Date_created: 2019-10-25
 Date_updated: 2022-12-27
 ---
 
-After you [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what to do.
+After you [move to berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## Before the move
 
-### Visit the apartment
+**[How to find an apartment ➞](/guides/find-a-flat-in-berlin)**
 
-Do not sign the lease before you see the apartment in person. There are many fake apartment ads online. Scammers show you a fake apartment, and take a deposit, and disappear.
-
-**[Common apartment scams ➞](/guides/find-a-flat-in-berlin#common-apartment-scams)**
-
-If you can't see the apartment in person, ask for a video call instead.
+**[How to move out of an apartment ➞](/guides/moving-out)**
 
 ### Sign the lease
 
-Do not pay anything before you sign a lease. Read your lease carefully. It can have information about rent increases, house rules, pets, and other important things.
+Don't sign the lease before you see the apartment in person. If you can't see the apartment in person, ask for a video call instead. There are many fake apartment ads online. Scammers show you a fake apartment, ask for a deposit, and disappear with your money.
 
-**[A guide to rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
+Don't pay anything before you sign a lease. Read your lease carefully. It can have information about rent increases, house rules, pets, and other important things.
 
-A tenants' union (*[[Mieterverein]]*) can check your lease. [Legal insurance](/guides/legal-insurance) also covers this.
+A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
 
-**[Where to get help ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Guide to rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
 
-After you sign the lease, you or the landlord can't change your mind. You have signed a contract.
+When you sign the lease, the apartment is yours. You can't change your mind. The landlord can't change their mind.
+
+After you sign the lease, you get 3 important documents:
+
+1. The signed lease - You need this to register your address (*[[Anmeldung]]*), and to apply for a [residence permit](/glossary/Aufenthaltstitel).
+2. The *[[Wohnungsgeberbestätigung]]* - You need this to register your address.
+3. The *[[Übergabeprotokoll]]* - You usually get this document after you get the apartment keys.
 
 ### Get the keys
 
