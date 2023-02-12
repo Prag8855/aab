@@ -53,7 +53,7 @@ If your business is registered as a *[[Gewerbe]]*, you must pay the trade tax (*
 
 ### Health insurance
 
-**Cost:** 90€ to {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION}}€ per month
+**Cost:** 90€ to {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month
 
 If you live in Germany, you must have [health insurance](/glossary/Krankenversicherung). If you are self-employed, your employer does not pay half of your health insurance, so it feels twice as expensive. The cost depends on the type of insurance you have.
 
