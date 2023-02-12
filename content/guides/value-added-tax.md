@@ -127,7 +127,11 @@ There are 4 ways to make VAT returns:
 
 **Frequency:** How often you submit VAT returns depend on how much VAT you paid last year.[^31]
 
- <table><thead><tr><th>VAT paid last year</th><th>When to submit VAT returns</th></tr></thead><tbody><tr><td>Under {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€</td><td>Never</td></tr><tr><td>{{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ to {{VAT_MIN_MONTHLY_AMOUNT|cur}}€</td><td>Every quarter</td></tr><tr><td>Over {{VAT_MIN_MONTHLY_AMOUNT|cur}}€</td><td>Every month</td></tr></tbody></table>
+| VAT paid last year | When to submit VAT returns |
+|---|---|
+| Under {{VAT_MIN_QUARTERLY_AMOUNT}}€ | Never |
+| {{VAT_MIN_QUARTERLY_AMOUNT}}€ to {{VAT_MIN_MONTHLY_AMOUNT}}€ | Every quarter |
+| Over {{VAT_MIN_MONTHLY_AMOUNT}}€ | Every month |
 
 **Due date:** You must submit your VAT return before the 10th day of the next month.[^15] If that day is a Saturday, Sunday or public holiday, you have until the next [business day](/glossary/Arbeitstag).[^16]
 

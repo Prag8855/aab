@@ -217,8 +217,17 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 Use my [tax calculator](/tools/tax-calculator) to calculate your [net income](/glossary/Netto%20income).
 
- <table><thead><tr><th>Description</th><th>Monthly</th><th>Yearly</th></tr></thead><tbody><tr><td>[Gross income](/glossary/Brutto%20income)</td><td>3,994€</td><td>47,928€</td></tr><tr><td>[Church tax](/glossary/Kirchensteuer)</td><td>59€</td><td>708€</td></tr><tr><td>[Income tax](/glossary/Einkommensteuer)</td><td>656€</td><td>7,873€</td></tr><tr><td>[Pension insurance](/glossary/gesetzliche%20Rentenversicherung)</td><td>371€</td><td>4,457€</td></tr><tr><td>[Unemployment insurance](/glossary/Arbeitslosenversicherung)</td><td>48€</td><td>575€</td></tr><tr><td>[Health insurance](/glossary/Krankenversicherung)</td><td>316€</td><td>3,786€</td></tr><tr><td>[Nursing care insurance](/glossary/Pflegeversicherung)</td><td>71€</td><td>851€</td></tr><tr><td>**[Net income](/glossary/Netto%20income)**  
-This is the money you have left to spend</td><td>**2,473€**</td><td>**29,677€**</td></tr></tbody></table>
+| Description | Monthly | Yearly  |
+|-------------|--------:|--------:|
+| [Gross income](/glossary/Brutto%20income) | 3,994€ | 47,928€ |
+| [Church tax](/glossary/Kirchensteuer) | 59€ | 708€ |
+| [Income tax](/glossary/Einkommensteuer) | 656€ | 7,873€ |
+| [Pension insurance](/glossary/gesetzliche%20Rentenversicherung) | 371€ | 4,457€  |
+| [Unemployment insurance](/glossary/Arbeitslosenversicherung) | 48€ | 575€ |
+| [Health insurance](/glossary/Krankenversicherung) | 316€ | 3,786€ |
+| [Nursing care insurance](/glossary/Pflegeversicherung) | 71€ | 851€ |
+| **Net income**<br>This is the money you have left to spend | 2,473€ | 29,677€ |
+
 
 ### Expenses
 
@@ -226,8 +235,19 @@ These are my real monthly expenses. This table does not include buying clothes, 
 
 My budget includes a motorcycle, and a garage (120€/month). You don't need those. My rent is also very low, because I live far from the centre.
 
- <table><thead><tr><th>Description</th><th>Monthly</th><th>Yearly</th></tr></thead><tbody><tr><td>[Rent](/glossary/Warmmiete)</td><td>678€</td><td>8,136€</td></tr><tr><td>Groceries</td><td>175€</td><td>2,100€</td></tr><tr><td>Public transit pass</td><td>63€</td><td>756€</td></tr><tr><td>Electricity</td><td>38€</td><td>456€</td></tr><tr><td>Internet</td><td>36€</td><td>432€</td></tr><tr><td>[Vehicle insurance](/glossary/Kfz-Versicherung)</td><td>25€</td><td>304€</td></tr><tr><td>[TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag)</td><td>18€</td><td>210€</td></tr><tr><td>Mobile phone</td><td>10€</td><td>120€</td></tr><tr><td>[Liability insurance](/glossary/Haftpflichtversicherung)</td><td>6€</td><td>74€</td></tr><tr><td>Vehicle tax</td><td>4€</td><td>47€</td></tr><tr><td>**Total**  
-This is how much I need to pay the bills</td><td>**1,053€**</td><td>**12,630€**</td></tr></tbody></table>
+| Description                      | Monthly | Yearly |
+|----------------------------------|-----:|-------:|
+| [Rent](/glossary/Warmmiete)                       | 678€ | 8,136€ |
+| Groceries                        | 175€ | 2,100€ |
+| Public transit pass              | 63€  | 756€   |
+| Electricity                      | 38€  | 456€   |
+| Internet                         | 36€  | 432€   |
+| [Vehicle insurance](/glossary/Kfz-Versicherung)          | 25€  | 304€   |
+| [TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag) | 18€  | 210€   |
+| Mobile phone                     | 10€  | 120€   |
+| [Liability insurance](/glossary/Haftpflichtversicherung)        | 6€   | 74€  |
+| Vehicle tax                      | 4€   | 47€  |
+| **Total**<br>This is how much I need to pay the bills | **1,053€** | **12,630€** |
 
 ## More ways to save money
 

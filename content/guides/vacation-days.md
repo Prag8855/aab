@@ -14,9 +14,14 @@ This guide explains how vacations work for employees in Germany.
 
 In Germany, all employees get paid vacation days.[^0]
 
- <table><thead><tr><th>Work days</th><th>Minimum vacation days</th></tr></thead><tbody><tr><td>1 day per week</td><td>4 days per year</td></tr><tr><td>2 days per week</td><td>8 days per year</td></tr><tr><td>3 days per week</td><td>12 days per year</td></tr><tr><td>4 days per week</td><td>16 days per year  
-</td></tr><tr><td>**5 days per week  
-</td><td>**20 days per year**</td></tr><tr><td>6 days per week</td><td>24 days per year</td></tr></tbody></table>
+| Work days       | Minimum vacation days |
+|-----------------|-----------------------|
+| 1 day per week  | 4 days per year       |
+| 2 days per week | 8 days per year       |
+| 3 days per week | 12 days per year      |
+| 4 days per week | 16 days per year      |
+| 5 days per week | 20 days per year      |
+| 6 days per week | 24 days per year      |
 
 If you work 5 days per week, you get at least 20 vacation days per year.[^1] Most full-time employees get 25 to 30 vacation days.[^2] Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
 
@@ -59,8 +64,7 @@ On public holidays, you don't work, but you still get paid. You celebrate the ho
 
 ## Sabbatical leave
 
-Sabbatical leave is a long, unpaid vacation from work. People usually   
-take a sabbatical to travel, study, relax, or work on personal projects.
+Sabbatical leave is a long, unpaid vacation from work. People usually take a sabbatical to travel, study, relax, or work on personal projects.
 
 **[Sabbatical leave in Germany ➞](/guides/sabbatical-leave)**
 

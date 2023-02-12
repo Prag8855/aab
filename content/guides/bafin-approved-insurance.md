@@ -21,7 +21,209 @@ If you need help choosing the right health insurance, ask a [health insurance br
 
 ## List of BaFin-approved health insurance companies
 
- <table><tbody><tr><td>AachenMünchener Versicherung AG</td></tr><tr><td>ADAC Autoversicherung AG</td></tr><tr><td>ADAC Versicherung AG</td></tr><tr><td>ADAC-Rechtsschutz Versicherungs-Aktiengesellschaft</td></tr><tr><td>ADLER Versicherung AG</td></tr><tr><td>ADVOCARD Rechtsschutzversicherung AG</td></tr><tr><td>AGILA Haustierversicherung Aktiengesellschaft</td></tr><tr><td>Allcura Versicherungs-Aktiengesellschaft</td></tr><tr><td>Allianz Global Corporate &amp; Specialty SE</td></tr><tr><td>Allianz Versicherungs-Aktiengesellschaft</td></tr><tr><td>AllSecur Deutschland AG</td></tr><tr><td>Alte Leipziger Versicherung Aktiengesellschaft</td></tr><tr><td>Ambra Versicherung AG</td></tr><tr><td>AMMERLÄNDER VERSICHERUNG Versicherungsverein a.G. (VVaG)</td></tr><tr><td>ARAG Allgemeine Versicherungs-Aktiengesellschaft</td></tr><tr><td>ARAG SE</td></tr><tr><td>AstraDirect Versicherung AG</td></tr><tr><td>AUXILIA Rechtsschutz-Versicherungs-Aktiengesellschaft</td></tr><tr><td>AXA ART Insurance UK SE</td></tr><tr><td>AXA ART Versicherung AG</td></tr><tr><td>AXA easy Versicherung AG</td></tr><tr><td>AXA Versicherung Aktiengesellschaft</td></tr><tr><td>Baden-Badener Versicherung Aktiengesellschaft</td></tr><tr><td>Badische Rechtsschutzversicherung Aktiengesellschaft</td></tr><tr><td>Badischer Gemeinde-Versicherungs-Verband</td></tr><tr><td>Barmenia Allgemeine Versicherungs-Aktiengesellschaft</td></tr><tr><td>Basler Sachversicherungs-Aktiengesellschaft</td></tr><tr><td>Basler Versicherung AG Direktion für Deutschland</td></tr><tr><td>BAYERISCHE BEAMTEN VERSICHERUNG AKTIENGESELLSCHAFT</td></tr><tr><td>Bayerische Hausbesitzer-Versicherungs-Gesellschaft a.G.</td></tr><tr><td>Bayerische Landesbrandversicherung Aktiengesellschaft</td></tr><tr><td>Bayerischer Versicherungsverband Versicherungsaktiengesellschaft</td></tr><tr><td>BD24 Berlin Direkt Versicherung AG</td></tr><tr><td>Bergische Brandversicherung Allgemeine Feuerversicherung V.a.G.</td></tr><tr><td>BGV-Versicherung Aktiengesellschaft</td></tr><tr><td>Bruderhilfe Sachversicherung AG im Raum der Kirchen</td></tr><tr><td>CG Car-Garantie Versicherungs-Aktiengesellschaft</td></tr><tr><td>Concordia Versicherungs-Gesellschaft auf Gegenseitigkeit</td></tr><tr><td>Condor Allgemeine Versicherungs-Aktiengesellschaft</td></tr><tr><td>CONSTANTIA Versicherungen a.G.</td></tr><tr><td>Continentale Sachversicherung Aktiengesellschaft</td></tr><tr><td>Cosmos Versicherung Aktiengesellschaft</td></tr><tr><td>DA Deutsche Allgemeine Versicherung Aktiengesellschaft</td></tr><tr><td>DARAG Deutsche Versicherungs-und Rückversicherungs-AG</td></tr><tr><td>Debeka Allgemeine Versicherung Aktiengesellschaft Sitz Koblenz am Rhein</td></tr><tr><td>Delvag Versicherungs-AG</td></tr><tr><td>DEURAG Deutsche Rechtsschutz-Versicherung Aktiengesellschaft</td></tr><tr><td>Deutsche Assistance Versicherung Aktiengesellschaft</td></tr><tr><td>Deutscher Reisepreis-Sicherungsverein VVaG</td></tr><tr><td>DEVK Allgemeine Versicherungs-Aktiengesellschaft</td></tr><tr><td>DEVK Deutsche Eisenbahn Versicherung Sach- und HUK-Versicherungsverein a.G. Betr. Sozialeinrichtung der Deutschen Bahn</td></tr><tr><td>DEVK Rechtsschutz-Versicherungs-Aktiengesellschaft</td></tr><tr><td>DFV Deutsche Familienversicherung AG</td></tr><tr><td>Die Haftpflichtkasse VVaG</td></tr><tr><td>DMB Rechtsschutz-Versicherung Aktiengesellschaft</td></tr><tr><td>DOCURA VVaG</td></tr><tr><td>Dolleruper Freie Brandgilde</td></tr><tr><td>Element Insurance AG</td></tr><tr><td>ERGO Direkt Versicherung Aktiengesellschaft</td></tr><tr><td>ERGO Versicherung Aktiengesellschaft</td></tr><tr><td>Euro-Aviation Versicherungs-Aktiengesellschaft</td></tr><tr><td>Europ Assistance Versicherungs-AG</td></tr><tr><td>EUROPA Versicherung Aktiengesellschaft</td></tr><tr><td>Europäische Reiseversicherung Aktiengesellschaft</td></tr><tr><td>EXTREMUS Versicherungs-Aktiengesellschaft</td></tr><tr><td>F. Laeisz Versicherung Aktiengesellschaft</td></tr><tr><td>Fahrlehrerversicherung Verein auf Gegenseitigkeit</td></tr><tr><td>Feuer- und Einbruchschadenkasse der BBBank in Karlsruhe, Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>Feuersozietät Berlin Brandenburg Versicherung Aktiengesellschaft</td></tr><tr><td>GARANTA Versicherungs-Aktiengesellschaft</td></tr><tr><td>Gartenbau-Versicherung VVaG</td></tr><tr><td>Gebäudeversicherungsgilde für Föhr,Amrum und Halligen</td></tr><tr><td>Gemeinnützige Haftpflichtversicherungsanstalt Kassel</td></tr><tr><td>Generali Versicherung Aktiengesellschaft</td></tr><tr><td>GERMAN ASSISTANCE VERSICHERUNG AG</td></tr><tr><td>GGG Kraftfahrzeug-Reparaturkosten-Versicherungs-Aktiengesellschaft</td></tr><tr><td>Glasschutzkasse a.G. von 1923 zu Hamburg</td></tr><tr><td>Gothaer Allgemeine Versicherung Aktiengesellschaft</td></tr><tr><td>Gothaer Versicherungsbank VVaG</td></tr><tr><td>Great Lakes Insurance SE</td></tr><tr><td>GRUNDEIGENTÜMER-VERSICHERUNG Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>GVO Gegenseitigkeit Versicherung Oldenburg VVaG</td></tr><tr><td>GVV-Kommunalversicherung, Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>GVV-Privatversicherung Aktiengesellschaft</td></tr><tr><td>Haftpflichtgemeinschaft Deutscher Nahverkehrs- und Versorgungsunternehmen Allgemein (HDNA) VVaG</td></tr><tr><td>Hagelgilde Versicherungsverein a.G., gegründet 1811</td></tr><tr><td>Hamburger Beamten-Feuer-und Einbruchskasse</td></tr><tr><td>Hamburger Feuerkasse Versicherungs-Aktiengesellschaft</td></tr><tr><td>Hamburger Lehrer-Feuerkasse</td></tr><tr><td>Hanse-Marine-Versicherung AG</td></tr><tr><td>HanseMerkur Allgemeine Versicherung AG</td></tr><tr><td>HanseMerkur Reiseversicherung AG</td></tr><tr><td>Harsewinkeler Versicherung VaG</td></tr><tr><td>HDI Global SE</td></tr><tr><td>HDI Haftpflichtverband der Deutschen Industrie Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>HDI Versicherung AG</td></tr><tr><td>Helvetia Schweizerische Versicherungsgesellschaft AG Direktion für Deutschland</td></tr><tr><td>Helvetia Versicherungs-Aktiengesellschaft</td></tr><tr><td>HUK-COBURG Haftpflicht-Unterstützungs-Kasse kraftfahrender Beamter Deutschlands a.G. in Coburg</td></tr><tr><td>HUK-COBURG-Allgemeine Versicherung AG</td></tr><tr><td>HUK-COBURG-Rechtsschutzversicherung AG</td></tr><tr><td>HUK24 AG</td></tr><tr><td>HÄGER VERSICHERUNGSVEREIN auf Gegenseitigkeit</td></tr><tr><td>Hübener Versicherungs-Aktiengesellschaft</td></tr><tr><td>IDEAL Versicherung AG</td></tr><tr><td>INTER Allgemeine Versicherung AG</td></tr><tr><td>INTER Versicherungsverein aG</td></tr><tr><td>Interlloyd Versicherungs-Aktiengesellschaft</td></tr><tr><td>International Insurance Company of Hannover SE</td></tr><tr><td>InterRisk Versicherungs-AG Vienna Insurance Group</td></tr><tr><td>ISSELHORSTER Versicherung V.a.G.</td></tr><tr><td>Itzehoer Versicherung/Brandgilde von 1691 Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>Janitos Versicherung Aktiengesellschaft</td></tr><tr><td>KRAVAG-ALLGEMEINE Versicherungs-Aktiengesellschaft</td></tr><tr><td>KRAVAG-LOGISTIC Versicherungs-Aktiengesellschaft</td></tr><tr><td>KRAVAG-SACH Versicherung des Deutschen Kraftverkehrs Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>[KS Versicherungs-Aktiengesellschaft](https://www.kuenstlersozialkasse.de/) (also known as *Künstlersozialkasse* or *KSK*)</td></tr><tr><td>Landesschadenhilfe Versicherung VaG</td></tr><tr><td>Landschaftliche Brandkasse Hannover</td></tr><tr><td>LBN-Versicherungsverein a.G. (VVaG)</td></tr><tr><td>Lehrer-Feuerversicherungsverein für Schleswig-Holstein, Hamburg und Mecklenburg-Vorpommern</td></tr><tr><td>Lifestyle Protection AG</td></tr><tr><td>Lucura Versicherungs AG</td></tr><tr><td>LVM Landwirtschaftlicher Versicherungsverein Münster a.G.</td></tr><tr><td>Mannheimer Versicherung Aktiengesellschaft</td></tr><tr><td>Mecklenburgische Versicherungs-Gesellschaft auf Gegenseitigkeit</td></tr><tr><td>MEDIEN-VERSICHERUNG a.G. KARLSRUHE vorm. Buchgewerbe-Feuerversicherung, gegr. 1899</td></tr><tr><td>Mercedes-Benz Versicherung AG</td></tr><tr><td>Minerva Versicherungs-Aktiengesellschaft</td></tr><tr><td>MSIG Insurance Europe AG</td></tr><tr><td>Münchener und Magdeburger Agrarversicherung Aktiengesellschaft</td></tr><tr><td>MÜNCHENER VEREIN Allgemeine Versicherungs-AG</td></tr><tr><td>Neodigital Versicherung AG</td></tr><tr><td>neue leben Unfallversicherung Aktiengesellschaft</td></tr><tr><td>Neue Rechtsschutz-Versicherungsgesellschaft Aktiengesellschaft</td></tr><tr><td>Neuendorfer Brand-Bau-Gilde</td></tr><tr><td>nexible Versicherung AG</td></tr><tr><td>Nordhemmer Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>Notarversicherungsverein a.G.</td></tr><tr><td>NV-Versicherungen VVaG</td></tr><tr><td>NÜRNBERGER Allgemeine Versicherungs-Aktiengesellschaft</td></tr><tr><td>NÜRNBERGER BEAMTEN ALLGEMEINE VERSICHERUNG AKTIENGESELLSCHAFT</td></tr><tr><td>OKV - Ostdeutsche Kommunalversicherung auf Gegenseitigkeit</td></tr><tr><td>OSTANGLER BRANDGILDE, Versicherungsverein auf Gegenseitigkeit (VVaG)</td></tr><tr><td>OSTBEVERNER Versicherungsverein auf Gegenseitigkeit (VVaG)</td></tr><tr><td>OVAG - Ostdeutsche Versicherung AG</td></tr><tr><td>Pallas Versicherung Aktiengesellschaft</td></tr><tr><td>PB Versicherung Aktiengesellschaft</td></tr><tr><td>PENSIONS-SICHERUNGS-VEREIN Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>ProTect Versicherung AG</td></tr><tr><td>Provinzial Nord Brandkasse Aktiengesellschaft</td></tr><tr><td>Provinzial Rheinland Versicherung AG Die Versicherung der Sparkassen</td></tr><tr><td>PVAG Polizeiversicherungs-Aktiengesellschaft</td></tr><tr><td>R+V Allgemeine Versicherung Aktiengesellschaft</td></tr><tr><td>R+V Direktversicherung AG</td></tr><tr><td>Real Garant Versicherung Aktiengesellschaft</td></tr><tr><td>RheinLand Versicherungs Aktiengesellschaft</td></tr><tr><td>Rhion Versicherung Aktiengesellschaft</td></tr><tr><td>ROLAND Rechtsschutz-Versicherungs-Aktiengesellschaft</td></tr><tr><td>ROLAND Schutzbrief-Versicherung Aktiengesellschaft</td></tr><tr><td>RS Reiseschutz Versicherungs AG</td></tr><tr><td>S DirektVersicherung Aktiengesellschaft</td></tr><tr><td>SAARLAND Feuerversicherung Aktiengesellschaft</td></tr><tr><td>Schleswiger Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>SCHNEVERDINGER Versicherungsverein a.G.</td></tr><tr><td>Schutzverein Deutscher Rheder V.a.G.</td></tr><tr><td>SCHWARZMEER UND OSTSEE Versicherungs-Aktiengesellschaft SOVAG</td></tr><tr><td>SHB Allgemeine Versicherung VVaG</td></tr><tr><td>SIGNAL IDUNA Allgemeine Versicherung Aktiengesellschaft</td></tr><tr><td>SIGNAL IDUNA Unfallversicherung a. G.</td></tr><tr><td>Sparkassen-Versicherung Sachsen Allgemeine Versicherung Aktiengesellschaft</td></tr><tr><td>Stuttgarter Versicherung Aktiengesellschaft</td></tr><tr><td>SV SparkassenVersicherung Gebäudeversicherung Aktiengesellschaft</td></tr><tr><td>Süddeutsche Allgemeine Versicherung a.G.</td></tr><tr><td>TARGO Versicherung AG</td></tr><tr><td>Thüga Schadenausgleichskasse München VVaG</td></tr><tr><td>TRIAS Versicherung Aktiengesellschaft</td></tr><tr><td>Uelzener Allgemeine Versicherungs-Gesellschaft a.G.</td></tr><tr><td>Union Reiseversicherung Aktiengesellschaft</td></tr><tr><td>uniVersa Allgemeine Versicherung AG</td></tr><tr><td>Vereinigte Hagelversicherung VVaG</td></tr><tr><td>Vereinigte Schiffs-Versicherung V.a.G.</td></tr><tr><td>Vereinigte Tierversicherung, Gesellschaft auf Gegenseitigkeit</td></tr><tr><td>Versicherungskammer Bayern Versicherungsanstalt des öffentlichen Rechts</td></tr><tr><td>Versicherungsverband Deutscher Eisenbahnen-Versicherungsverein auf Gegenseitigkeit</td></tr><tr><td>Verti Versicherung AG</td></tr><tr><td>VHV Allgemeine Versicherung AG</td></tr><tr><td>VHV Vereinigte Hannoversche Versicherung a.G.</td></tr><tr><td>Volkswagen Autoversicherung AG</td></tr><tr><td>Volkswagen Versicherung Aktiengesellschaft</td></tr><tr><td>VOLKSWOHL-BUND SACHVERSICHERUNG AKTIENGESELLSCHAFT</td></tr><tr><td>VPV Allgemeine Versicherungs-AG</td></tr><tr><td>VRK Versicherungsverein auf Gegenseitigkeit im Raum der Kirchen</td></tr><tr><td>Waldenburger Versicherung Aktiengesellschaft</td></tr><tr><td>WERTGARANTIE Aktiengesellschaft</td></tr><tr><td>Westfälische Provinzial Versicherung Aktiengesellschaft</td></tr><tr><td>WGV-Versicherung AG</td></tr><tr><td>WWK Allgemeine Versicherung Aktiengesellschaft</td></tr><tr><td>Württembergische Gemeinde-Versicherung auf Gegenseitigkeit</td></tr><tr><td>Württembergische Versicherung Aktiengesellschaft</td></tr><tr><td>Würzburger Versicherungs-AG</td></tr><tr><td>Öffentliche Feuerversicherung Sachsen-Anhalt</td></tr><tr><td>ÖRAG Rechtsschutzversicherungs-Aktiengesellschaft</td></tr></tbody></table>
+* AachenMünchener Versicherung AG
+* ADAC Autoversicherung AG
+* ADAC Versicherung AG
+* ADAC-Rechtsschutz Versicherungs-Aktiengesellschaft
+* ADLER Versicherung AG
+* ADVOCARD Rechtsschutzversicherung AG
+* AGILA Haustierversicherung Aktiengesellschaft
+* Allcura Versicherungs-Aktiengesellschaft
+* Allianz Global Corporate &amp; Specialty SE
+* Allianz Versicherungs-Aktiengesellschaft
+* AllSecur Deutschland AG
+* Alte Leipziger Versicherung Aktiengesellschaft
+* Ambra Versicherung AG
+* AMMERLÄNDER VERSICHERUNG Versicherungsverein a.G. (VVaG)
+* ARAG Allgemeine Versicherungs-Aktiengesellschaft
+* ARAG SE
+* AstraDirect Versicherung AG
+* AUXILIA Rechtsschutz-Versicherungs-Aktiengesellschaft
+* AXA ART Insurance UK SE
+* AXA ART Versicherung AG
+* AXA easy Versicherung AG
+* AXA Versicherung Aktiengesellschaft
+* Baden-Badener Versicherung Aktiengesellschaft
+* Badische Rechtsschutzversicherung Aktiengesellschaft
+* Badischer Gemeinde-Versicherungs-Verband
+* Barmenia Allgemeine Versicherungs-Aktiengesellschaft
+* Basler Sachversicherungs-Aktiengesellschaft
+* Basler Versicherung AG Direktion für Deutschland
+* BAYERISCHE BEAMTEN VERSICHERUNG AKTIENGESELLSCHAFT
+* Bayerische Hausbesitzer-Versicherungs-Gesellschaft a.G.
+* Bayerische Landesbrandversicherung Aktiengesellschaft
+* Bayerischer Versicherungsverband Versicherungsaktiengesellschaft
+* BD24 Berlin Direkt Versicherung AG
+* Bergische Brandversicherung Allgemeine Feuerversicherung V.a.G.
+* BGV-Versicherung Aktiengesellschaft
+* Bruderhilfe Sachversicherung AG im Raum der Kirchen
+* CG Car-Garantie Versicherungs-Aktiengesellschaft
+* Concordia Versicherungs-Gesellschaft auf Gegenseitigkeit
+* Condor Allgemeine Versicherungs-Aktiengesellschaft
+* CONSTANTIA Versicherungen a.G.
+* Continentale Sachversicherung Aktiengesellschaft
+* Cosmos Versicherung Aktiengesellschaft
+* DA Deutsche Allgemeine Versicherung Aktiengesellschaft
+* DARAG Deutsche Versicherungs-und Rückversicherungs-AG
+* Debeka Allgemeine Versicherung Aktiengesellschaft Sitz Koblenz am Rhein
+* Delvag Versicherungs-AG
+* DEURAG Deutsche Rechtsschutz-Versicherung Aktiengesellschaft
+* Deutsche Assistance Versicherung Aktiengesellschaft
+* Deutscher Reisepreis-Sicherungsverein VVaG
+* DEVK Allgemeine Versicherungs-Aktiengesellschaft
+* DEVK Deutsche Eisenbahn Versicherung Sach- und HUK-Versicherungsverein a.G. Betr. Sozialeinrichtung der Deutschen Bahn
+* DEVK Rechtsschutz-Versicherungs-Aktiengesellschaft
+* DFV Deutsche Familienversicherung AG
+* Die Haftpflichtkasse VVaG
+* DMB Rechtsschutz-Versicherung Aktiengesellschaft
+* DOCURA VVaG
+* Dolleruper Freie Brandgilde
+* Element Insurance AG
+* ERGO Direkt Versicherung Aktiengesellschaft
+* ERGO Versicherung Aktiengesellschaft
+* Euro-Aviation Versicherungs-Aktiengesellschaft
+* Europ Assistance Versicherungs-AG
+* EUROPA Versicherung Aktiengesellschaft
+* Europäische Reiseversicherung Aktiengesellschaft
+* EXTREMUS Versicherungs-Aktiengesellschaft
+* F. Laeisz Versicherung Aktiengesellschaft
+* Fahrlehrerversicherung Verein auf Gegenseitigkeit
+* Feuer- und Einbruchschadenkasse der BBBank in Karlsruhe, Versicherungsverein auf Gegenseitigkeit
+* Feuersozietät Berlin Brandenburg Versicherung Aktiengesellschaft
+* GARANTA Versicherungs-Aktiengesellschaft
+* Gartenbau-Versicherung VVaG
+* Gebäudeversicherungsgilde für Föhr,Amrum und Halligen
+* Gemeinnützige Haftpflichtversicherungsanstalt Kassel
+* Generali Versicherung Aktiengesellschaft
+* GERMAN ASSISTANCE VERSICHERUNG AG
+* GGG Kraftfahrzeug-Reparaturkosten-Versicherungs-Aktiengesellschaft
+* Glasschutzkasse a.G. von 1923 zu Hamburg
+* Gothaer Allgemeine Versicherung Aktiengesellschaft
+* Gothaer Versicherungsbank VVaG
+* Great Lakes Insurance SE
+* GRUNDEIGENTÜMER-VERSICHERUNG Versicherungsverein auf Gegenseitigkeit
+* GVO Gegenseitigkeit Versicherung Oldenburg VVaG
+* GVV-Kommunalversicherung, Versicherungsverein auf Gegenseitigkeit
+* GVV-Privatversicherung Aktiengesellschaft
+* Haftpflichtgemeinschaft Deutscher Nahverkehrs- und Versorgungsunternehmen Allgemein (HDNA) VVaG
+* Hagelgilde Versicherungsverein a.G., gegründet 1811
+* Hamburger Beamten-Feuer-und Einbruchskasse
+* Hamburger Feuerkasse Versicherungs-Aktiengesellschaft
+* Hamburger Lehrer-Feuerkasse
+* Hanse-Marine-Versicherung AG
+* HanseMerkur Allgemeine Versicherung AG
+* HanseMerkur Reiseversicherung AG
+* Harsewinkeler Versicherung VaG
+* HDI Global SE
+* HDI Haftpflichtverband der Deutschen Industrie Versicherungsverein auf Gegenseitigkeit
+* HDI Versicherung AG
+* Helvetia Schweizerische Versicherungsgesellschaft AG Direktion für Deutschland
+* Helvetia Versicherungs-Aktiengesellschaft
+* HUK-COBURG Haftpflicht-Unterstützungs-Kasse kraftfahrender Beamter Deutschlands a.G. in Coburg
+* HUK-COBURG-Allgemeine Versicherung AG
+* HUK-COBURG-Rechtsschutzversicherung AG
+* HUK24 AG
+* HÄGER VERSICHERUNGSVEREIN auf Gegenseitigkeit
+* Hübener Versicherungs-Aktiengesellschaft
+* IDEAL Versicherung AG
+* INTER Allgemeine Versicherung AG
+* INTER Versicherungsverein aG
+* Interlloyd Versicherungs-Aktiengesellschaft
+* International Insurance Company of Hannover SE
+* InterRisk Versicherungs-AG Vienna Insurance Group
+* ISSELHORSTER Versicherung V.a.G.
+* Itzehoer Versicherung/Brandgilde von 1691 Versicherungsverein auf Gegenseitigkeit
+* Janitos Versicherung Aktiengesellschaft
+* KRAVAG-ALLGEMEINE Versicherungs-Aktiengesellschaft
+* KRAVAG-LOGISTIC Versicherungs-Aktiengesellschaft
+* KRAVAG-SACH Versicherung des Deutschen Kraftverkehrs Versicherungsverein auf Gegenseitigkeit
+* [KS Versicherungs-Aktiengesellschaft](https://www.kuenstlersozialkasse.de/) (also known as *Künstlersozialkasse* or *KSK*)
+* Landesschadenhilfe Versicherung VaG
+* Landschaftliche Brandkasse Hannover
+* LBN-Versicherungsverein a.G. (VVaG)
+* Lehrer-Feuerversicherungsverein für Schleswig-Holstein, Hamburg und Mecklenburg-Vorpommern
+* Lifestyle Protection AG
+* Lucura Versicherungs AG
+* LVM Landwirtschaftlicher Versicherungsverein Münster a.G.
+* Mannheimer Versicherung Aktiengesellschaft
+* Mecklenburgische Versicherungs-Gesellschaft auf Gegenseitigkeit
+* MEDIEN-VERSICHERUNG a.G. KARLSRUHE vorm. Buchgewerbe-Feuerversicherung, gegr. 1899
+* Mercedes-Benz Versicherung AG
+* Minerva Versicherungs-Aktiengesellschaft
+* MSIG Insurance Europe AG
+* Münchener und Magdeburger Agrarversicherung Aktiengesellschaft
+* MÜNCHENER VEREIN Allgemeine Versicherungs-AG
+* Neodigital Versicherung AG
+* neue leben Unfallversicherung Aktiengesellschaft
+* Neue Rechtsschutz-Versicherungsgesellschaft Aktiengesellschaft
+* Neuendorfer Brand-Bau-Gilde
+* nexible Versicherung AG
+* Nordhemmer Versicherungsverein auf Gegenseitigkeit
+* Notarversicherungsverein a.G.
+* NV-Versicherungen VVaG
+* NÜRNBERGER Allgemeine Versicherungs-Aktiengesellschaft
+* NÜRNBERGER BEAMTEN ALLGEMEINE VERSICHERUNG AKTIENGESELLSCHAFT
+* OKV - Ostdeutsche Kommunalversicherung auf Gegenseitigkeit
+* OSTANGLER BRANDGILDE, Versicherungsverein auf Gegenseitigkeit (VVaG)
+* OSTBEVERNER Versicherungsverein auf Gegenseitigkeit (VVaG)
+* OVAG - Ostdeutsche Versicherung AG
+* Pallas Versicherung Aktiengesellschaft
+* PB Versicherung Aktiengesellschaft
+* PENSIONS-SICHERUNGS-VEREIN Versicherungsverein auf Gegenseitigkeit
+* ProTect Versicherung AG
+* Provinzial Nord Brandkasse Aktiengesellschaft
+* Provinzial Rheinland Versicherung AG Die Versicherung der Sparkassen
+* PVAG Polizeiversicherungs-Aktiengesellschaft
+* R+V Allgemeine Versicherung Aktiengesellschaft
+* R+V Direktversicherung AG
+* Real Garant Versicherung Aktiengesellschaft
+* RheinLand Versicherungs Aktiengesellschaft
+* Rhion Versicherung Aktiengesellschaft
+* ROLAND Rechtsschutz-Versicherungs-Aktiengesellschaft
+* ROLAND Schutzbrief-Versicherung Aktiengesellschaft
+* RS Reiseschutz Versicherungs AG
+* S DirektVersicherung Aktiengesellschaft
+* SAARLAND Feuerversicherung Aktiengesellschaft
+* Schleswiger Versicherungsverein auf Gegenseitigkeit
+* SCHNEVERDINGER Versicherungsverein a.G.
+* Schutzverein Deutscher Rheder V.a.G.
+* SCHWARZMEER UND OSTSEE Versicherungs-Aktiengesellschaft SOVAG
+* SHB Allgemeine Versicherung VVaG
+* SIGNAL IDUNA Allgemeine Versicherung Aktiengesellschaft
+* SIGNAL IDUNA Unfallversicherung a. G.
+* Sparkassen-Versicherung Sachsen Allgemeine Versicherung Aktiengesellschaft
+* Stuttgarter Versicherung Aktiengesellschaft
+* SV SparkassenVersicherung Gebäudeversicherung Aktiengesellschaft
+* Süddeutsche Allgemeine Versicherung a.G.
+* TARGO Versicherung AG
+* Thüga Schadenausgleichskasse München VVaG
+* TRIAS Versicherung Aktiengesellschaft
+* Uelzener Allgemeine Versicherungs-Gesellschaft a.G.
+* Union Reiseversicherung Aktiengesellschaft
+* uniVersa Allgemeine Versicherung AG
+* Vereinigte Hagelversicherung VVaG
+* Vereinigte Schiffs-Versicherung V.a.G.
+* Vereinigte Tierversicherung, Gesellschaft auf Gegenseitigkeit
+* Versicherungskammer Bayern Versicherungsanstalt des öffentlichen Rechts
+* Versicherungsverband Deutscher Eisenbahnen-Versicherungsverein auf Gegenseitigkeit
+* Verti Versicherung AG
+* VHV Allgemeine Versicherung AG
+* VHV Vereinigte Hannoversche Versicherung a.G.
+* Volkswagen Autoversicherung AG
+* Volkswagen Versicherung Aktiengesellschaft
+* VOLKSWOHL-BUND SACHVERSICHERUNG AKTIENGESELLSCHAFT
+* VPV Allgemeine Versicherungs-AG
+* VRK Versicherungsverein auf Gegenseitigkeit im Raum der Kirchen
+* Waldenburger Versicherung Aktiengesellschaft
+* WERTGARANTIE Aktiengesellschaft
+* Westfälische Provinzial Versicherung Aktiengesellschaft
+* WGV-Versicherung AG
+* WWK Allgemeine Versicherung Aktiengesellschaft
+* Württembergische Gemeinde-Versicherung auf Gegenseitigkeit
+* Württembergische Versicherung Aktiengesellschaft
+* Würzburger Versicherungs-AG
+* Öffentliche Feuerversicherung Sachsen-Anhalt
+* ÖRAG Rechtsschutzversicherungs-Aktiengesellschaft
 
 Source: [BaFin](https://portal.mvp.bafin.de/database/InstInfo/sucheForm.do?d-4012550-s=0&institutName=&d-4012550-p=1&d-4012550-o=2&institutId=&schlichtungsstelleName=&kategorieId=36&sucheButtonInstitut=Search)
 

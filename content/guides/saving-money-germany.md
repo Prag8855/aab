@@ -101,14 +101,20 @@ There are 3 ways to save money on public transit passes:
 
 ### Price comparison
 
- <table><thead><tr><th>Type</th><th>Cost per month</th><th>Cost per year</th></tr></thead><tbody><tr><td>Monthly pass, one-time purchase</td><td>86€</td><td>1,032€</td></tr><tr><td>Monthly pass, with subscription</td><td>63€</td><td>761€</td></tr><tr><td>Yearly pass, with subscription</td><td>61€</td><td>728€</td></tr><tr><td>10-Uhr-Karte, one-time purchase  
-</td><td>63€</td><td>756</td></tr><tr><td>10-Uhr-Karte, monthly subscription</td><td>45€</td><td>547€</td></tr><tr><td>10-Uhr-Karte, yearly subscription</td><td>44€</td><td>531€</td></tr></tbody></table>
+| Type | Cost per month | Cost per year |
+|---|--:|--:|
+| Monthly pass, one-time purchase | 86€ | 1,032€ |
+| Monthly pass, with subscription | 63€ | 761€ |
+| Yearly pass, with subscription | 61€ | 728€ |
+| 10-Uhr-Karte, one-time purchase | 63€ | 756€ |
+| 10-Uhr-Karte, monthly subscription | 45€ | 547€ |
+| 10-Uhr-Karte, yearly subscription | 44€ | 531€ |
 
 Source: [Ticket prices](https://www.bvg.de/en/Tickets/fares) - January 2023
 
 ## Move to a cheaper area
 
-- **Total savings:** 100 to 400€ per month
+- **Total savings:** 100€ to 400€ per month
 - **Effort required:** a few weeks
 
 You do not need to live in the centre of Berlin. There are many great neighbourhoods just outside the *[[Ringbahn]]*. I moved from Mitte to Pankow, and I save 400€ per month on rent. That's almost 5,000€ per year!

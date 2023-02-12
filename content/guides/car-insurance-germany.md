@@ -1,7 +1,7 @@
 ---
 Title: How to choose car insurance in Germany
 Short_title: Car insurance
-Description: An introduction to auto insurance (Kfz-Versicherung) in Germany. It explains the types of insurance there are, what they cover, and how to choose one.
+Description: An introduction to auto insurance (Kfz-Versicherung) in Germany. It explains the types of car insurance, what they cover, and how to choose the best German car insurance.
 Date_created: 2020-08-07
 Date_updated: 2022-11-23
 ---
@@ -14,14 +14,18 @@ In Germany, car insurance (*Kfz-Versicherung*) is mandatory. It's part of the [c
 
 There are three levels of vehicle insurance in Germany: *Haftpflicht*, *Teilkasko* and *Vollkasko*. Each level covers different things.
 
- <table class="no-mobile"><thead><tr><th></th><th>Haftpflicht</th><th>Teilkasko</th><th>Vollkasko</th></tr></thead><tbody><tr><td>**Damage to your own vehicle in an accident**  
-If the accident is your fault. For example, if you hit a lamp pole, or crash into another vehicle.</td><td></td><td></td><td>✓</td></tr><tr><td>**Hit-and-runs**  
-If another driver damages your vehicle, then runs away.</td><td></td><td></td><td>✓</td></tr><tr><td>**Vandalism**  
-If someone vandalises your vehicle.</td><td></td><td></td><td>✓</td></tr><tr><td>**Theft and break-in attempts**  
-If someone steals your car, or damages it while trying to steal it.</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Damage from fires and natural events** If a fire, flood, hail storm or other natural event damages your vehicle.</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Broken or cracked windows**</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Collisions with wild animals**  
-If you hit a wild animal while driving, or if an animal damages your vehicle.</td><td></td><td>✓</td><td>✓</td></tr><tr><td>**Gross negligence**  
-If you cause an accident because of gross negligence. For example if you use your phone while driving, or if you run a red light.[^12]</td><td></td><td>optional</td><td>optional</td></tr><tr><td>**Damage to other people and vehicles**  
-If you cause an accident, and you cause damage to other people, vehicles or property.</td><td>✓</td><td>✓</td><td>✓</td></tr></tbody></table>
+| Haftpflicht | Teilkasko | Vollkasko |
+|-------------|-----------|-----------|
+| **Damage to your own vehicle in an accident**<br>If the accident is your fault. For example, if you hit a lamp pole, or crash into another vehicle. | ✓ |
+| **Hit-and-runs**<br>If another driver damages your vehicle, then runs away. | ✓ |
+| **Vandalism**<br>If someone vandalises your vehicle. | ✓ |
+| **Theft and break-in attempts**<br>If someone steals your car, or damages it while trying to steal it. | ✓ | ✓ |
+| **Damage from fires and natural events** If a fire, flood, hail storm or other natural event damages your vehicle. | ✓ | ✓ |
+| **Broken or cracked windows** | ✓ | ✓ |
+| **Collisions with wild animals**<br>If you hit a wild animal while driving, or if an animal damages your vehicle. | ✓ | ✓ |
+| **Gross negligence**<br>If you cause an accident because of gross negligence. For example if you use your phone while driving, or if you run a red light.[^12] | optional | optional |
+| **Damage to other people and vehicles**<br>If you cause an accident, and you cause damage to other people, vehicles or property. | ✓ | ✓ | ✓ |
+
 
 ### Haftpflicht
 
@@ -101,7 +105,15 @@ If you are a new driver, you will pay more for insurance. If you have more drivi
 
 Damages that are not your fault don't affect your *Schadenfreiheitsklasse*.[^8] For example, if your insurance pays to fix a crack in your windshield, it does not affect your *Schadenfreiheitsklasse*. Your car insurance will not get more expensive.
 
- <table><thead><tr><th>Years without claims</th><th>Schadenfreiheitsklasse</th><th>Discount</th></tr></thead><tbody><tr><td>2 years</td><td>SF2</td><td>~15%</td></tr><tr><td>3 years</td><td>SF3</td><td>~30%</td></tr><tr><td>4 years</td><td>SF4</td><td>~40%</td></tr><tr><td>5 to 8 years</td><td>SF5 to SF8</td><td>45 to 50%</td></tr><tr><td>9 to 15 years</td><td>SF9 to SF15</td><td>55 to 60%</td></tr><tr><td>16 to 25 years</td><td>SF16 to SF25</td><td>65 to 70%</td></tr><tr><td>26 years or more</td><td>SF26 and above</td><td>75 to 80%</td></tr></tbody></table>
+| Years without claims | Schadenfreiheitsklasse | Discount |
+|---|---|---|
+| 2 years | SF2 | ~15% |
+| 3 years | SF3 | ~30% |
+| 4 years | SF4 | ~40% |
+| 5 to 8 years | SF5 to SF8 | 45 to 50% |
+| 9 to 15 years | SF9 to SF15 | 55 to 60% |
+| 16 to 25 years | SF16 to SF25 | 65 to 70% |
+| 26 years or more | SF26 and above | 75 to 80% |
 
 **If you have driving experience in other another EU country**, tell your insurance company. They will count it as driving experience, and your insurance will be cheaper. Otherwise, you will be treated as a new driver, and your insurance will be more expensive. Each insurer has different rules for recognizing driving experience. They all ask for different documents.
 

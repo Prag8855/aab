@@ -55,10 +55,15 @@ So when you are in the KSK, you save ~9.35% of your income on health insurance, 
 
 In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
 
- <table> <thead> <tr> <th>Income  
-<small>per year</small></th> <th>Normal cost  
-<small>Health insurance only</small></th> <th>KSK member cost  
-<small>Health insurance + pension</small></th> </tr> </thead> <tbody> <tr> <th>15,000€ / year</th> <td>230€ / month</td> <td>230€ / month</td> </tr> <tr> <th>25,000€ / year</th> <td>390€ / month</td> <td>385€ / month</td> </tr> <tr> <th>35,000€ / year</th> <td>545€ / month</td> <td>540€ / month</td> </tr> <tr> <th>45,000€ / year</th> <td>700€ / month</td> <td>695€ / month</td> </tr> <tr> <th>55,000€ / year</th> <td>850€ / month</td> <td>850€ / month</td> </tr> <tr> <th>70,000€ / year</th> <td>900€ / month</td> <td>990€ / month</td> </tr> <tr> <th>Over {{BEITRAGSBEMESSUNGSGRENZE_WEST|cur}}€ / year</th> <td>900€ / month</td> <td>1,075€ / month</td> </tr> </tbody> </table>
+| Income<br>per year | Normal cost<br>Health insurance only | KSK member cost<br>Health insurance + pension |
+|---|---|---|
+| 15,000€ / year | 230€ / month | 230€ / month |
+| 25,000€ / year | 390€ / month | 385€ / month |
+| 35,000€ / year | 545€ / month | 540€ / month |
+| 45,000€ / year | 700€ / month | 695€ / month |
+| 55,000€ / year | 850€ / month | 850€ / month |
+| 70,000€ / year | 900€ / month | 990€ / month |
+| Over {{BEITRAGSBEMESSUNGSGRENZE_WEST}}€ / year | 900€ / month | 1,075€ / month |
 
 **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you pay a bit more. You pay up to 175€ per month more, but you contribute up to 1,311€ per month to your public pension. This is the best pension plan you can find.
 
