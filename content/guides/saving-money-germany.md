@@ -12,7 +12,7 @@ This guide shows you different ways to save money in Germany. Most of those tric
 
 ## Change electricity and gas providers every year
 
-- **Total savings:** 100 to 200€ per year
+- **Total savings:** 100€ to 200€ per year
 - **Effort required:** 30 minutes every year
 
 Most electricity and gas providers offer a bonus for new customers. In the first year, their service is cheaper. After one year, the price goes up. If you don't cancel your contract, it will be renewed automatically for 1 more year.
@@ -41,7 +41,7 @@ This only works in certain cases. For example, if you are a student from another
 
 ### Switch to private health insurance
 
-- **Total savings:** 100 to 500€ per month
+- **Total savings:** 100€ to 500€ per month
 - **Effort required:** fill a few forms, take a medical exam, wait up to 3 months
 
 Public health insurance is usually the best option, but in [some specific cases](/guides/german-health-insurance), private health insurance makes more sense. For example, if you are a freelancer with a high income, you can save up to 500€ per month with private health insurance, *and* you get better coverage. This happened to me. My health insurance broker ([Feather](/out/popsure)) helped me find private health insurance. I save over 400€ per month.
@@ -78,7 +78,7 @@ You might be paying too much rent. The *[[Mietpreisbremse]]* limits how much you
 
 ## Choose a bank with low fees
 
-- **Total savings:** 10 to 30€ per month
+- **Total savings:** 10€ to 30€ per month
 - **Effort required:** 1 day
 
 Some banks charge a monthly fee to keep your money. It's usually around 10€ per month. Some banks also charge you a fee when you use another bank's ATM. There are many banks with no monthly fees, and no ATM fees. [N26](/out/n26), [ING](/out/ing) and [DKB](/out/dkb) are the most popular ones, but there are [many other options](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees).
@@ -87,7 +87,7 @@ Some banks charge a monthly fee to keep your money. It's usually around 10€ pe
 
 ## Get a yearly public transit pass
 
-- **Total savings:** 250 to 500€ per year
+- **Total savings:** 250€ to 500€ per year
 - **Effort required:** 1 hour
 
 There are 3 ways to save money on public transit passes:
@@ -136,7 +136,7 @@ There is one exception: legal insurance (*[[Rechtsschutzversicherung]]*). Do not
 
 ## Pay yearly, not monthly
 
-- **Total savings:** 10 to 100€ per year
+- **Total savings:** 10€ to 100€ per year
 - **Effort required:** none
 
 [Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung) and most memberships are cheaper if you pay 1 year in advance, instead of every month.[^4] You get the same service, but you pay less.
