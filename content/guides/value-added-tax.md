@@ -129,9 +129,9 @@ There are 4 ways to make VAT returns:
 
 | VAT paid last year | When to submit VAT returns |
 |---|---|
-| Under {{VAT_MIN_QUARTERLY_AMOUNT}}€ | Never |
-| {{VAT_MIN_QUARTERLY_AMOUNT}}€ to {{VAT_MIN_MONTHLY_AMOUNT}}€ | Every quarter |
-| Over {{VAT_MIN_MONTHLY_AMOUNT}}€ | Every month |
+| Under {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ | Never |
+| {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ to {{VAT_MIN_MONTHLY_AMOUNT|cur}}€ | Every quarter |
+| Over {{VAT_MIN_MONTHLY_AMOUNT|cur}}€ | Every month |
 
 **Due date:** You must submit your VAT return before the 10th day of the next month.[^15] If that day is a Saturday, Sunday or public holiday, you have until the next [business day](/glossary/Arbeitstag).[^16]
 
@@ -147,7 +147,7 @@ If the VAT you paid is more than the VAT you charged, you get a refund from the 
 
 > **Late submission example 1:** You pay your March VAT on April 10. The payment goes through on April 13. You don't pay a fine, because you paid your VAT on time.
 
-> **Late submission example** 2:** You pay your March VAT on April 20. You pay a fine, because you paid your VAT late.
+> **Late submission example 2:** You pay your March VAT on April 20. You pay a fine, because you paid your VAT late.
 
 If you submit your VAT return on time, but you payment is late, you get a fine (*Säumniszuschlag*). The fine is 1% of the VAT you owe for every month you wait.[^21]
 

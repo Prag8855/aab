@@ -63,7 +63,7 @@ In other words, **you save money on health insurance, and reinvest it in your pe
 | 45,000€ / year | 700€ / month | 695€ / month |
 | 55,000€ / year | 850€ / month | 850€ / month |
 | 70,000€ / year | 900€ / month | 990€ / month |
-| Over {{BEITRAGSBEMESSUNGSGRENZE_WEST}}€ / year | 900€ / month | 1,075€ / month |
+| Over {{BEITRAGSBEMESSUNGSGRENZE_WEST|cur}}€ / year | 900€ / month | 1,075€ / month |
 
 **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you pay a bit more. You pay up to 175€ per month more, but you contribute up to 1,311€ per month to your public pension. This is the best pension plan you can find.
 
