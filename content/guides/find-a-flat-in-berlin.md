@@ -69,12 +69,12 @@ A regular apartment is cheaper in the long term. Your rent is lower, because you
 
 **[Look for regular apartments ↓](/guides/find-a-flat-in-berlin#step-1-look-for-apartments)**
 
-### Furnished apartment
+### Short-term apartment
 
-Furnished apartments are very expensive, but they have benefits:
+Short-term apartments are very expensive, but they have benefits:
 
 - **Everything included**  
-    You don't need to get an internet contract, an electricity contract, furniture, appliances or cookware. You can just move in, and focus on other problems.
+    These are furnished apartments. They come with everything you need. You don't need to get an internet contract, an electricity contract, furniture, appliances or cookware. You can just move in, and focus on other problems.
 - **Immigrant-friendly**  
     You can book an apartment before you arrive in Germany. They don't ask for documents that immigrants don't have, like a *[[Schufa]]*.
 - **Less competition**  
@@ -84,7 +84,7 @@ Furnished apartments are a good temporary solution while you look for a regular 
 
 Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay 19% [VAT](/glossary/Umsatzsteuer).[^5]
 
-**[Look for furnished apartments ↓](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
+**[Look for furnished apartments ↓](#short-term-and-furnished-apartments)**
 
 ### Flatshare ([[WG]])
 
@@ -134,7 +134,7 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 - [Immobilo](https://www.immobilo.de/)
 - [Wohnungsbörse](https://www.wohnungsboerse.net/)
 
-### Short term and furnished apartments
+### Short-term and furnished apartments
 
 - **[HomeLike](/out/homelike)** - Shows when you can get a [registration certificate](/glossary/Wohnungsgeberbest%C3%A4tigung) for your *[[Anmeldung]]*.
 - [**HousingAnywhere**](/out/housinganywhere) - Shows when the *[[Anmeldung]]* is possible.
