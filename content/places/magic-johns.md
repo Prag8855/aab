@@ -1,5 +1,5 @@
 ---
-Name: Magic John&#039;s
+Name: Magic John's
 Description: New York style slices with delivery
 Website: https://www.magicjohns.com/
 Email: 

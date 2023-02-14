@@ -1,6 +1,6 @@
 ---
 Name: Praxis für Paartherapie - Julia Bellabarba
-Description: Couple&#039;s therapist. Speaks English, German and Italian. Private pay clients only.
+Description: Couple's therapist. Speaks English, German and Italian. Private pay clients only.
 Website: http://www.paartherapie-coupletherapy.de/
 Email: 
 Address: Kronenstraße 4

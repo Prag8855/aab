@@ -1,5 +1,5 @@
 ---
-Name: Americans&#039; Income Tax Service
+Name: Americans' Income Tax Service
 Description: American and German tax return services offered in German and English.
 Website: http://americansincometaxservice.com/
 Email: 

@@ -1,6 +1,6 @@
 ---
 Name: Dainese store Berlin
-Description: The official Dainese shop in Berlin. The most knowledgeable saleswoman I&#039;ve met works here.
+Description: The official Dainese shop in Berlin. The most knowledgeable saleswoman I've met works here.
 Website: https://www.dainese.com/stores/dainese-store-berlin/
 Email: 
 Address: Hohenzollerndamm 12

@@ -1,5 +1,5 @@
 ---
-Name: Barber&#039;s (Charlottenburg)
+Name: Barber's (Charlottenburg)
 Description: 
 Website: https://www.instagram.com/berlinbarbers/
 Email: 

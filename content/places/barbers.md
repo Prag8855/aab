@@ -1,5 +1,5 @@
 ---
-Name: Barber&#039;s (Kreuzberg)
+Name: Barber's (Kreuzberg)
 Description: 
 Website: https://www.instagram.com/berlinbarbers/
 Email: 

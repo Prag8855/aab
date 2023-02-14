@@ -1,6 +1,6 @@
 ---
 Name: Dott. Gaia Porcelli
-Description: Psychologist. Specialises in women&#039;s empowerment, psychological effects of abuses. Speaks English and Italian. Private pay only.
+Description: Psychologist. Specialises in women's empowerment, psychological effects of abuses. Speaks English and Italian. Private pay only.
 Website: https://complicated.life/find-a-therapist/berlin/m-sc-clinical-psychology-gaia-porcelli
 Email: por.psychologist@gmail.com
 Address: Bleibtreustraße 4

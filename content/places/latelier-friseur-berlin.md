@@ -1,5 +1,5 @@
 ---
-Name: L&#039;Atelier Friseur Berlin
+Name: L'Atelier Friseur Berlin
 Description: 
 Website: https://www.studiobookr.com/en/-atelier-berlin-60276
 Email: 

@@ -1,5 +1,5 @@
 ---
-Name: Jack&#039;s Barber Shop
+Name: Jack's Barber Shop
 Description: 
 Website: https://www.facebook.com/Jacks-Barber-Shop-178825455498120/
 Email: 

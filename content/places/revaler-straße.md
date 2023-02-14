@@ -1,6 +1,6 @@
 ---
 Name: Revaler Straße
-Description: Revaler Straße is home to many of Berlin&#039;s clubs.
+Description: Revaler Straße is home to many of Berlin's clubs.
 Website: 
 Email: 
 Address: Revaler Str.

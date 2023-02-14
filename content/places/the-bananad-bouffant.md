@@ -1,5 +1,5 @@
 ---
-Name: The Banana&#039;d Bouffant
+Name: The Banana'd Bouffant
 Description: According to reviewers, Fairy speaks good English and is skilled with curly hair
 Website: https://www.facebook.com/thebananadbouffant/
 Email: 

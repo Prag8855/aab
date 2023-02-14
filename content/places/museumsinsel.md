@@ -1,6 +1,6 @@
 ---
 Name: Museumsinsel
-Description: The Museum Island is home to many of Berlin&#039;s largest museums.
+Description: The Museum Island is home to many of Berlin's largest museums.
 Website: 
 Email: 
 Address: Museumsinsel

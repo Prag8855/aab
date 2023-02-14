@@ -1,6 +1,6 @@
 ---
 Name: Mauerpark
-Description: Every Sunday, this park hosts Berlin&#039;s largest flea market, as well as dozens of artists. Don&#039;t miss the famous open air karaoke. Free to visit.
+Description: Every Sunday, this park hosts Berlin's largest flea market, as well as dozens of artists. Don't miss the famous open air karaoke. Free to visit.
 Website: http://www.mauerpark.info/
 Email: 
 Address: Gleimstraße 55
