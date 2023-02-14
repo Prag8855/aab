@@ -26,7 +26,7 @@ The city sometimes puts warning signs in parks, and even block roads.[^4] They a
 
 [![Oak processing worm warning band](/images/oak-processionary-moth-warning-band.jpg)](/images/oak-processionary-moth-warning-band.jpg)
 
- ## Ermine moth worms
+## Ermine moth worms
 
 [Ermine moth](https://en.wikipedia.org/wiki/Ermine_moth) larvae (*Gespinstmottenraupen*) are around 3 centimetres long. They have smooth skin, and dark dots on their backs. You can find them from April to July.[^6] Just look for trees covered in silk.
 
