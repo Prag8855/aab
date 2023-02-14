@@ -200,9 +200,9 @@ You can be self-employed in Germany. It can be a little scary, but it's worth it
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
-### Permanent residency and citizenship
+### Permanent residence and citizenship
 
-After a few years in Germany, you can apply for [permanent residency](/glossary/Niederlassungserlaubnis) and German citizenship. This gives you more freedom, and more security. You don't need to renew your residence permit. You can stay in Germany even if you lose your job.
+After a few years in Germany, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis) and German citizenship. This gives you more freedom, and more security. You don't need to renew your residence permit. You can stay in Germany even if you lose your job.
 
 [^0]: [teltarif.de](https://www.teltarif.de/roaming/fair-use-policy.html)
 [^1]: [naylorengineering.com](http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?utm_source=reddit&utm_medium=web2x&context=3)

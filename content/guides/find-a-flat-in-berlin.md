@@ -113,7 +113,7 @@ Student dorms are one of the cheapest options, but they are hard to get. Student
 
 If you just moved to Berlin, don't buy an apartment. It's harder than finding an apartment to rent.
 
-It's really hard to get a mortgage without EU citizenship or [permanent residency](/glossary/Niederlassungserlaubnis), and a steady job.
+It's really hard to get a mortgage without EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), and a steady job.
 
 ## Step 1: Look for apartments
 

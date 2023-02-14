@@ -29,8 +29,8 @@ When you are a KSK member, they pay half of your [health insurance](/glossary/ge
     [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required, but the KSK pays half of it. You get a public pension for half the price.
 - **It lets you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Some freelancers are stuck with [private health insurance](/glossary/private%20Krankenversicherung), or bad [expat health insurance](/glossary/Expat%20health%20insurance). When you join the KSK, you can switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's often the best option for you.
-- **It helps you get [permanent residency](/glossary/Niederlassungserlaubnis)**  
-    Before you apply for [permanent residency](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months.
+- **It helps you get [permanent residence](/glossary/Niederlassungserlaubnis)**  
+    Before you apply for [permanent residence](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months.
 - **It's usually free**  
     If you earn less than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-money-do-i-save) - up to 175€ per month - but it's still a really good deal.
 

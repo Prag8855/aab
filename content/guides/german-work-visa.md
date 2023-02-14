@@ -41,8 +41,8 @@ Many types of residence permit allow you to work in Germany. The work visa and t
     You don't need permission from the [[ZAV]] if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€. This makes the application process shorter.[^2]
 - **It's easier to change jobs**  
     After 2 years, you can work for another employer without updating your Blue Card.[^3] This saves a lot of time. With the work visa, you must reapply for a new visa every time you change jobs.[^35]
-- **You can get your [permanent residency](/glossary/Niederlassungserlaubnis) faster**  
-    With a Blue Card, you can get your permanent residency in 33 months[^4] instead of 60 months.[^5] If you get a B1 language certificate, you can get your permanent residency in 21 months.[^4]
+- **You can get your [permanent residence](/glossary/Niederlassungserlaubnis) faster**  
+    With a Blue Card, you can get your permanent residence in 33 months[^4] instead of 60 months.[^5] If you get a B1 language certificate, you can get your permanent residence in 21 months.[^4]
 - **It's easier to move to other EU countries**  
     You can move to other EU countries (except Denmark and Ireland[^38])) more easily. If you had a Blue Card for over 18 months, you can move to another EU country, and apply for the Blue Card there.[^6]
 - **You can travel longer outside Germany**  
@@ -383,11 +383,11 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### How long is the work visa valid for?
 
-**Up to 4 years**, but it can be shorter if you have a temporary work contract.[^59] You can extend your work visa before it expires. After a few years, you can apply for [permanent residency](/glossary/Niederlassungserlaubnis).
+**Up to 4 years**, but it can be shorter if you have a temporary work contract.[^59] You can extend your work visa before it expires. After a few years, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ### How long is the Blue Card valid for?
 
-**Up to 4 years**, but it can be shorter if you have a temporary work contract[^59]. You can extend your Blue Card before it expires, or apply for [permanent residency](/glossary/Niederlassungserlaubnis).
+**Up to 4 years**, but it can be shorter if you have a temporary work contract[^59]. You can extend your Blue Card before it expires, or apply for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ### Do I need to speak German?
 

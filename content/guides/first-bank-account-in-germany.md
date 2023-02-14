@@ -47,7 +47,7 @@ An expat-friendly bank lets you open an account anyway.
 - **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - They require a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13]
 - **[comdirect](/out/comdirect)** - If you don't have a [registered address](/glossary/Anmeldung), you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents) to open an account. They only speak German.
 - **[DKB](/out/dkb)** - Recent immigrants can rarely open an account.[^14] They only speak German.
-- **[ING](/out/ing)** - You need German [permanent residency](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15] Some students could open an account with a residence permit. Their customer support speaks English.
+- **[ING](/out/ing)** - You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15] Some students could open an account with a residence permit. Their customer support speaks English.
 
 ## German banks with English support
 
@@ -171,7 +171,7 @@ The requirements to open a bank account are the same for most banks:
 - **A proof of German residency** (your *[Meldebescheinigung](/guides/replacement-meldebescheinigung)*). [Some banks](/guides/german-banks-no-address) let you open an account without one.
 - **A proof of identity** (your passport or national ID, and sometimes a [residence permit](/glossary/Aufenthaltstitel))
 
-Some banks require a minimum income or financial history in Germany. Other banks require [permanent residency](/glossary/Niederlassungserlaubnis) in Germany. For example, [DKB](/out/dkb) often rejects foreigners.[^47] Some online banks only support certain passports,[^48] or ask for a [residence permit](/glossary/Aufenthaltstitel).
+Some banks require a minimum income or financial history in Germany. Other banks require [permanent residence](/glossary/Niederlassungserlaubnis) in Germany. For example, [DKB](/out/dkb) often rejects foreigners.[^47] Some online banks only support certain passports,[^48] or ask for a [residence permit](/glossary/Aufenthaltstitel).
 
 If you are American, you need extra forms to open a German bank account, because of [FATCA](https://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act).[^49] Some banks don't let Americans open an account.[^50]
 

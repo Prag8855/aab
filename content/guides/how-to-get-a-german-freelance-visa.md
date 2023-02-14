@@ -392,7 +392,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 
 ### Can I get a permanent residence with a freelance visa?
 
-**Yes.** You can apply for [permanent residency](/glossary/Niederlassungserlaubnis) after 3 years.[^48] - [More information](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/).
+**Yes.** You can apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 3 years.[^48] - [More information](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/).
 
 ## Where to get help
 

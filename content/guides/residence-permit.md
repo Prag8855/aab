@@ -62,7 +62,7 @@ These residence permits allow you to work in Germany:
 - [[Au pair visa]]
 - [[Family reunion visa]]
 - [[Internship visa]]
-- [Permanent residency](/glossary/Niederlassungserlaubnis)
+- [Permanent residence](/glossary/Niederlassungserlaubnis)
 - [[Student visa]]
 - [[Working Holiday Visa]]
 - [[Youth Mobility Visa]]
@@ -73,7 +73,7 @@ These residence permits allow you to be self-employed in Germany:
 
 - **[[Freelance visa]]**  
     This is the standard residence permit for people who want to [start a business in Germany](/guides/start-a-business-in-germany). You must have clients in Germany.
-- **[Permanent residency](/glossary/Niederlassungserlaubnis)**
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)**
 - **[Work visa](/glossary/Work%20Visa) or a [[Blue Card]]**  
     Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.
 - **[[Student visa]]**  
@@ -104,7 +104,7 @@ It's better if you apply in your home country. You can start working as soon as 
 
 Your residence permit expires in 6 months to 4 years. You must go to the *[[Ausländerbehörde]]* to renew it. They will check if you still meet all the conditions of your residence permit. Some residence permits ([like the freelance visa](/guides/renew-german-freelance-visa)) are really annoying to renew, because you need a lot of documents.
 
-After a few years, you can apply for [permanent residency](/glossary/Niederlassungserlaubnis). You don't need to renew your permanent residency. It lets you do anything you want: work, study, freelance, etc.
+After a few years, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis). You don't need to renew your permanent residence. It lets you do anything you want: work, study, freelance, etc.
 
 ## Need help?
 
