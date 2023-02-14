@@ -2,7 +2,7 @@
 Title: What is permanent residence (Niederlassungserlaubnis)?
 German_term: Niederlassungserlaubnis
 English_term: Permanent residence
-Description: 
+Description: Better than a residence permit, not as good as German citizenship. It lets you live, work, study or start a business in Germany.
 Date_created: 2020-02-07
 Date_updated: 2022-04-20
 Related_guides: guides/find-a-job-in-berlin.md, guides/how-to-get-a-german-freelance-visa.md, guides/ksk-kuenstlersozialkasse.md
