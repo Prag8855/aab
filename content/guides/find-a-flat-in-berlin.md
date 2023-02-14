@@ -137,9 +137,9 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 ### Short-term and furnished apartments
 
 - **[HomeLike](/out/homelike)** - Shows when you can get a [registration certificate](/glossary/Wohnungsgeberbest%C3%A4tigung) for your *[[Anmeldung]]*.
-- [**HousingAnywhere**](/out/housinganywhere) - Shows when the *[[Anmeldung]]* is possible.
-- [**Wunderflats**](/out/wunderflats) - Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
-- [**Spotahome**](/out/spotahome) - Listings have video tours and lots of photos.
+- **[HousingAnywhere](/out/housinganywhere)** - Shows when the *[[Anmeldung]]* is possible.
+- **[Wunderflats**](/out/wunderflats)** - Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
+- **[Spotahome](/out/spotahome)** - Listings have video tours and lots of photos.
 - [Crocodilian](https://crocodilian.de/) - *[Anmeldung](/glossary/Schufa)* always possible.[^8]
 - [Berlinovo](https://www.berlinovo.de/en/suche-apartments)
 - [coming home](https://www.coming-home.org/)
