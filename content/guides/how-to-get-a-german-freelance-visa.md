@@ -321,12 +321,12 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Bank statement** (*[[Kontoauszug]]*)  
     This shows how much savings you have. It proves that you have enough money to support yourself while you start your business. The more money you have in your account, the better. *In general*, bank statements from foreign banks are accepted, but some interviewers want statements from a German bank.[^36] Just [open a German bank account](/guides/first-bank-account-in-germany), and transfer some savings with [Wise](/out/transferwise). According to [this poll](https://www.facebook.com/groups/berlinfreelancers/permalink/1899819730098402/?comment_id=1899832836763758), 3,000€ to 5,000€ in savings is enough.[^37] If necessary, convert the amount to Euros.[^38]
 - **Revenue forecast / profit and loss statement** (*[[Ertragsvorschau]]*)  
-    *[Detailed guide 1](/docs/ertragsvorschau) - [detailed guide 2](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/) - [example](/documents/Ertragsvorschau-German.pdf)*  
-    Make a spreadsheet with your *expected* monthly revenue and expenses for your business. Do not include your own rent and expenses. This helps the *[[Ausländerbehörde]]* see if you will contribute to the German economy. Don't forget to include the *[[Umsatzsteuernummer]]*, health insurance and [income tax](/glossary/Einkommensteuer). Some *Ausländerbehörde* employees prefer that you use the official template, not your own.
+    *[Template and instructions](/docs/ertragsvorschau)*  
+    Make a spreadsheet of your *expected* monthly business income and expenses. Some [Ausländerbehörde] employee prefer that you use the [official template](/docs/ertragsvorschau).
 - **Proof of adequate pension plan**  
-    If you are over 45 years old, you need to prove that you have adequate preparations for retirement. See the [section above](/guides/how-to-get-a-german-freelance-visa#the-german-freelance-visa-requirements) for more details. Proof of a pension plan is not required for these nationalities: Dominican Republic, Indonesia, Iran, Japan, Philippines, Sri Lanka, Turkey and the United States.[^25]
+    If you are over 45 years old, you need to prove that you have adequate preparations for retirement. See the [section above](#the-german-freelance-visa-requirements) for more details. No proof is required for these nationalities: Dominican Republic, Indonesia, Iran, Japan, Philippines, Sri Lanka, Turkey and the United States.[^25]
 - **Proof of regular income** *(artists and language teachers only)*  
-    If you are applying for as an artist or language teacher in Berlin, you must prove that you will have a regular income. This can be your own savings, regular bank transfers from your family, or a letter from a guarantor.[^5]
+    If you apply as an artist or language teacher in Berlin, you must prove that you will have a regular income. This can be your own savings, regular bank transfers from your family, or a letter from a guarantor.[^5]
 
 ### Business strategy
 
@@ -341,8 +341,8 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     - **Business concept** (not required for *[[Freiberufler]]*)  
         *[Template](http://www.berlin.de/labo/_assets/zuwanderung/geschaeftskonzept.pdf)*  
         This document contains the industry, the target customers, marketing and sales strategy and the market forecasts of your company.
-- **Financing plan / Capital budget** *(Finanzierungsplan)  
-    *[Template](/docs/financing-plan-template) - [detailed guide](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/)*  
+- **Financing plan / Capital budget** *(Finanzierungsplan)*  
+    *[Template](/docs/financing-plan-template) - [instructions](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/)*  
     This document details how you plan to finance your business. In this document, you must list your liquid funds, tangible assets, loans, venture capital etc.[^39]
 - **2 or more [letters of intent](/glossary/Absichtserkl%C3%A4rung) or contracts** (*[[Absichtserklärung]]*)  
     *[Template](/docs/german-freelance-visa-letter-of-intent) - [example](/docs/letter-of-intent-example-german-freelance-visa) - [detailed guide](/guides/freelance-visa-letter-of-intent)*  
@@ -392,7 +392,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 
 ### Can I get a permanent residence with a freelance visa?
 
-**Yes.** You can apply for a permanent settlement permit after 3 years.[^48] - [More information](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/).
+**Yes.** You can apply for [permanent residency](/glossary/Niederlassungserlaubnis) after 3 years.[^48] - [More information](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/).
 
 ## Where to get help
 
