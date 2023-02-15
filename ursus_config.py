@@ -64,6 +64,16 @@ config.lunr_indexes = {
             'returned_fields': ('title', 'url', ),
             'boost': 1,
         },
+        {
+            'uri_pattern': 'contact.md',
+            'returned_fields': ('title', 'url',),
+            'boost': 2,
+        },
+        {
+            'uri_pattern': 'terms.md',
+            'returned_fields': ('title', 'url',),
+            'boost': 0.5,
+        },
     ]
 }
 

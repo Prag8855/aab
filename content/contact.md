@@ -1,6 +1,6 @@
 ---
 Title: Contact me
-Description: The contact information and payment information for All About Berlin.
+Description: My name, email, address, IBAN, tax number and other contact information, and information on how to donate to this website.
 Date_created: 2022-01-27
 Date_updated: 2023-01-10
 ---
@@ -12,17 +12,17 @@ Hi, I'm Nicolas. You can contact me to…
 - **Give feedback**  
     If have suggestions for the website, let me know. Your feedback helps me improve the website and give better advice.
 - **Say thanks**  
-    I *love* hearing from happy readers! If my work helped you, you can also [leave a tip](/out/stripe).
+    I *love* hearing from happy readers! If my work helped you, you can also [leave a tip](/donate).
 - **Advertise your business**  
-    Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) before you contact me. I sometimes work with advertisers, but not at the readers' expense.
+    Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) first. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
         Fill the [form for psychiatrists and therapists](/suggest-therapist). You will get listed for free.
     - **Doctors, lawyers, tax advisors, etc.**  
-        Fill the [form for other businesses](/suggest-business). You will get listed for free. I only mention businesses if it helps the readers. It can take some time.
+        Fill the [form for other businesses](/suggest-business). You will only get listed if it's relevant to my readers. It can take some time.
 
 ## Contact information
 
-**Website owner**: Nicolas Bouliane
+**Website owner**: [Nicolas Bouliane](https://nicolasbouliane.com)
 
 **Email**: <contact@allaboutberlin.com>
 

@@ -1,6 +1,6 @@
 ---
 Title: Terms and conditions
-Description: The contact information, privacy policy, and content policy of All About Berlin.
+Description: The privacy policy and content policy of All About Berlin.
 Date_created: 2017-09-19
 Date_updated: 2022-10-03
 ---
