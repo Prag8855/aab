@@ -449,9 +449,9 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 		input[type=date], input[type=text], input[type=number], input[type=tel], input[type=email], input[type=search], .toggle, .date-picker{box-sizing:border-box;font-family:var(--font-family-text);border:var(--border-input);font-size:var(--font-size-m);font-weight:var(--font-weight-text);margin:0;padding:var(--padding-input);color:var(--color-text);transition:var(--transition-border);padding-right:0}
 			input[type=number] {-moz-appearance: textfield;}
 				input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {-webkit-appearance:none;margin:0;}
-				input.income-input{flex:0 1;min-width:calc(6em + 10px);padding-right:10px;}
-				input.age-input{flex:0 1;min-width:45px;padding-right:10px;}
-				input.percent-input{flex:0 1;min-width:70px;padding-right:10px;}
+				input.income-input{flex:0 1;min-width:calc(7ch);padding-right:10px;box-sizing:content-box;}
+				input.age-input{flex:0 1;min-width:calc(3ch);padding-right:10px;box-sizing:content-box;}
+				input.percent-input{flex:0 1;min-width:calc(3ch);min-width:70px;padding-right:10px;box-sizing:content-box;}
 			input[type=range] {flex:1 1 0px;align-self:center;height:1px;appearance:none;background:var(--color-border-input);cursor:pointer;border-radius:100px;}
 				input[type=range]::-webkit-slider-thumb{appearance:none;width:var(--size-checkbox);height:var(--size-checkbox);border-radius:100%;border:none;background:var(--color-highlight);box-shadow:0 2px 4px -3px var(--color-border-input-focused), inset 0 -4px 0px -2px #0001}
 				input[type=range]::-moz-range-thumb{appearance:none;width:var(--size-checkbox);height:var(--size-checkbox);border-radius:100%;border:none;background:var(--color-highlight);box-shadow:0 2px 4px -3px var(--color-border-input-focused), inset 0 -4px 0px -2px #0001}
