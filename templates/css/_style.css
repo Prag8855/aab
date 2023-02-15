@@ -187,7 +187,8 @@ body {background:var(--color-background-website);font-size:var(--font-size-m);li
 a, strong a, b a, a strong, a b{text-decoration:none;cursor:pointer;color:var(--color-link)}
 	a:hover{text-decoration:underline}
 	a:visited{color:var(--color-link-visited);}
-	.article-body a[href*="/glossary/"], :not(p.price) .currency[data-currencies], table .currency[data-currencies]{color:inherit!important;border-bottom:1px dotted var(--color-border-02);text-decoration:none!important;line-height:calc(inherit - 1px)}
+	.article-body a[href*="/glossary/"], .currency[data-currencies]{color:inherit!important;border-bottom:1px dotted var(--color-border-02);text-decoration:none!important;line-height:calc(inherit - 1px)}
+		.price .currency[data-currencies]{border-bottom:none;}
 		.article-body a[href*="/glossary/"]:hover, .currency[data-currencies]:hover{cursor:help;position:relative;border-bottom-color:var(--color-border-02);}
 		.currency[data-currencies]:hover::after{content:attr(data-currencies);font-size:var(--font-size-s);line-height:var(--line-height-compact);display:block;z-index:1000;position:absolute;top:100%;left:0;white-space:pre;background:var(--color-background-widget);padding:var(--spacing-s);border-radius:var(--border-radius);box-shadow:var(--box-shadow-block);border:var(--border-widget);text-align:right;font-weight:normal!important}
 blockquote, pre{border-radius:var(--border-radius);background:var(--color-background-widget);padding:var(--spacing-s) var(--spacing-m)}
