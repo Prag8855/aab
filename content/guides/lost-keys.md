@@ -41,7 +41,7 @@ If you lost a key, your landlord can *sometimes* charge you to change the locks 
 - **If your keys were stolen**, the landlord can't charge you to change the locks, because it's not your fault.[^7]
 - **If you lost your keys**, it depends. If someone finds your keys, but can't find where you live, nothing can happen. If you dropped your keys in a lake, nothing can happen. Your landlord can't charge you to change the locks, because it's not necessary.[^7] If someone can find your keys and find where you live, then the locks need to be changed, and you will have to pay for it.
 
-Your rent contract can't force you to pay to replace the locks. That clause would be invalid.[^8]
+Your lease can't force you to pay to replace the locks. That would be an invalid clause.[^8]
 
 Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1,000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) offer liability insurance that covers lost keys, and they speak English.
 

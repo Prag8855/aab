@@ -29,7 +29,7 @@ Personal liability insurance (*Privathaftpflichtversicherung*) protects you from
 
 Some insurance policies will cover these accidents:
 
-- **Lost keys** If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some rent contracts require liability insurance that covers lost keys.
+- **Lost keys** If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some leases require liability insurance that covers lost keys, but that's not legal.[^28]
 - **Damage to things you rent or borrow** (*geliehene Sachen*)  
     For example, you break the couch in your furnished apartment,[^6] you damage a hotel room while you are on vacation,[^7] or you borrow a neighbour's drill and you break it.[^8]
 - **Damage while helping a friend** (*Gefälligkeitsschäden*)  
@@ -214,3 +214,4 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^30]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/), [gevestor.de](https://www.gevestor.de/details/das-koennen-vermieter-von-ihren-mietern-verlangen-737578.html), [de.luko.eu](https://de.luko.eu/en/advice/guide/landlord-liability-insurance/)
 [^31]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/)
 [^32]: [check24.de](https://www.check24.de/privathaftpflicht/fragen/schluesseldienst/)
+[^28]: [mieterbund.de](https://www.mieterbund.de/mietrecht/bgh-urteile-mietrecht/bgh-urteil-detailansicht/article/23920-mieter-muss-bei-schluesselverlust-unter-umstaenden-neue-schliessanlage-bezahlen.html)

@@ -8,7 +8,7 @@ Date_updated: 2022-04-20
 Related_guides: guides/mietendeckel-repealed.md
 ---
 
-The shadow rent (*Schattenmiete*) is a clause is some rent contracts in Berlin.
+The shadow rent (*Schattenmiete*) is a clause is some leases in Berlin.
 
 Many tenants had a lower rent because of the *[[Mietendeckel]]*. The *Schattenmiete* is the rent tenants would pay if the *Mietendeckel* was repealed.[^0]
 

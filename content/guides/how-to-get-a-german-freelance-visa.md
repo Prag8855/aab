@@ -168,7 +168,7 @@ You don't need to [register your address](/guides/anmeldung-in-english-berlin) t
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
-If you can't register your address before your visa interview, bring your rent contract and your *[[Wohnungsgeberbestätigung]]* instead.
+If you can't register your address before your visa interview, bring your apartment lease and your *[[Wohnungsgeberbestätigung]]* instead.
 
 ### Step 5: [Get health insurance](/guides/german-visa-health-insurance)
 
@@ -295,8 +295,8 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]]) [Detailed guide](/guides/replacement-meldebescheinigung)* - [*Wohnungsgeberbestätigung template* ](/docs/wohnungsgeberbestatigung)  
     You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9m^2^ per person in the apartment. If you rent a room, it must be at least 6m^2^. Student residences and communal accommodations are also accepted.[^50]
     - The **[[Anmeldebestätigung]]** you received during your [[Anmeldung]]. It looks [like this](/images/Meldebescheinigung_Berlin.jpg). If you lost this document, you can [ask for a replacement](/guides/replacement-meldebescheinigung). This document is not required. If you don't have it, it's okay. If you have not done your *[[Anmeldung]]* yet, bring a proof that you have a booked *Bürgeramt* appointment.
-    - **and** your **rent contract**. Bring this document even if you have your *[[Anmeldebestätigung]]*. Some interviewers require it anyway.[^29] Temporary rent contracts are accepted.[^30]
-    - **and** the **[[Wohnungsgeberbestätigung]]** from the landlord or the [main tenant](/glossary/Hauptmieter). This is the document you get from your landlord after signing your rent contract. It confirms that you are allowed to live there. Bring this document even if you have your *[[Anmeldebestätigung]]*. Many interviewers require it anyway.[^31] You can find a template [here](/docs/wohnungsgeberbestatigung).
+    - **and** your **lease**. Bring this document even if you have your *[[Anmeldebestätigung]]*. Some interviewers require it anyway.[^29] Temporary leases are accepted.[^30]
+    - **and** the **[[Wohnungsgeberbestätigung]]** from the landlord or the [main tenant](/glossary/Hauptmieter). This is the document you get from your landlord after signing your lease. It confirms that you are allowed to live there. Bring this document even if you have your *[[Anmeldebestätigung]]*. Many interviewers require it anyway.[^31] You can find a template [here](/docs/wohnungsgeberbestatigung).
 
 ### Professional information
 
@@ -364,6 +364,7 @@ This list contains the same documents as above. You can use it as a checklist wh
 - CV or resume
 - Financing plan (*Finanzierungsplan*)
 - Freelance visa application form (*Antrag auf Erteilung eines Aufenthaltstitels*)
+- Lease
 - Letter of confirmation from your landlord (*[[Wohnungsgeberbestätigung]]*)
 - Letters of intent from German companies **× 2-5**
 - Passport
@@ -375,7 +376,6 @@ This list contains the same documents as above. You can use it as a checklist wh
 - Proof of regular income (artists and language teachers only)
 - Proof of health insurance coverage
 - Recommendation letters **× 2-5**
-- Rent contract
 - Revenue forecast / Profit and loss statement (*[[Ertragsvorschau]]*)
 
 If possible, translate these documents to German. [Lingoking](/out/lingoking) is an easy way to get official translations. [Red Tape Translation](https://redtapetranslation.com/) can also help you, and they have a lot of experience with the *Ausländerbehörde*.

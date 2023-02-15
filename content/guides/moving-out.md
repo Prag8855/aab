@@ -80,7 +80,7 @@ If you move to another address in Berlin, you must [change your address](/guides
 
 ## Repaint the walls
 
-Do you need to repaint your apartment? It depends on your rent contract. Look for a clause about cosmetic repairs (*Schönheitsreparaturen*). You are usually responsible for cosmetic repairs. You must usually return the apartment in the same state as when you moved in. You might have to patch holes in the wall and repaint the walls.
+Do you need to repaint your apartment? It depends on your lease. Look for a clause about cosmetic repairs (*Schönheitsreparaturen*). You are usually responsible for cosmetic repairs. You must usually return the apartment in the same state as when you moved in. You might have to patch holes in the wall and repaint the walls.
 
 Cosmetic repairs include:[^19]
 

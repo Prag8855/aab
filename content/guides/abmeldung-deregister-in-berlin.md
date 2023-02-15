@@ -137,7 +137,7 @@ You do not automatically lose your residence permit when you deregister your add
 
 Your residence permit can also expire. If you leave Germany for more than 6 months (12 months [in some cases](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)), your residence permit expires.[^19] You can ask the *[[Ausländerbehörde]]* to leave for a longer period.[^26]
 
-Without an address in Germany, you can't renew your residence permit.[^20] You must have a rent contract and a *[[Wohnungsgeberbestätigung]]* to renew your German residence permit. If you lose your health insurance, it can also be a problem.[^21] You need valid health insurance to renew a residence permit.
+Without an address in Germany, you can't renew your residence permit.[^20] You must have a lease and a *[[Wohnungsgeberbestätigung]]* to renew your German residence permit. If you lose your health insurance, it can also be a problem.[^21] You need valid health insurance to renew a residence permit.
 
 **Useful links:**
 
