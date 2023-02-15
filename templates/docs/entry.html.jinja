@@ -11,33 +11,7 @@
 
 {% block content %}
 	<h1>{{ entry.title }}</h1>
-	<div class="post-meta">
-		<div class="post-date">
-			Updated on <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
-		</div>
-		<nav class="breadcrumb no-mobile hide-last">
-			<ol itemscope itemtype="http://schema.org/BreadcrumbList">
-				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}">
-						<span itemprop="name">Home</span>
-					</a>
-					<meta itemprop="position" content="1" />
-				</li>
-				<li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site_url }}/docs">
-						<span itemprop="name">Translated documents</span>
-					</a>
-					<meta itemprop="position" content="2" />
-				</li>
-				<li class="title" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-					<a itemtype="http://schema.org/Thing" itemprop="item" title="{{ entry.title }}" href="{{ entry.url }}">
-						<span itemprop="name">{{ entry.title }}</span>
-					</a>
-					<meta itemprop="position" content="3" />
-				</li>
-			</ol>
-		</nav>
-	</div>
+	{% include "blocks/_postMeta.html" %}
 	{% with showDateUpdated=true %}
 		{% include 'blocks/_mainContent.html' %}
 	{% endwith %}
