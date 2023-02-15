@@ -5,7 +5,7 @@ Date_created: 2022-07-20
 Date_updated: 2022-12-19
 ---
 
-When you [look for jobs in Germany](/guides/find-a-job-in-berlin), you must know what salary you should get. This helps you negotiate a better salary.
+When you [look for a job in Germany](/guides/find-a-job-in-berlin), you must know what salary you should get. This helps you negotiate a better salary.
 
 {% include "blocks/_tableOfContents.html" %}
 
