@@ -9,5 +9,5 @@
 {% endblock %}
 
 {% block content %}
-    {% include 'blocks/_mainContent.html' %}
+    {{ entry.body|render|safe }}
 {% endblock %}

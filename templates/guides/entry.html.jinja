@@ -26,7 +26,9 @@
 	<h1>{{ entry.title }}</h1>
 	{% include "blocks/_postMeta.html" %}
 	{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
-		{% include 'blocks/_mainContent.html' %}
+		<div class="article-body">
+			{{ entry.body|render|safe }}
+		</div>
 	{% endwith %}
 	{% if entry.related_places|default([]) %}
 		{% with places=entry.related_places %}
