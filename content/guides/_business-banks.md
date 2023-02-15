@@ -15,7 +15,7 @@ A *Geschäftskonto* is a bank account for your business. It's works exactly like
 Some business bank accounts extra features:
 
 - Tools that sort transactions and make bookkeeping easier
-- [VAT](https://allaboutberlin.com/glossary/Umsatzsteuer) reporting tools
+- [VAT](/glossary/Umsatzsteuer) reporting tools
 - Extra credit cards and sub-accounts for your employees
 - Integration with your accounting tools
 
@@ -23,7 +23,7 @@ Some business bank accounts extra features:
 
 ### Personal accounts are not for business
 
-N26[^0], bunq[^1], and many other banks don't let you to use your personal bank account for your business[^2]. If you do this, the bank can close your account, because you don't follow their [terms of service](https://allaboutberlin.com/glossary/AGB)[^3].
+N26[^0], bunq[^1], and many other banks don't let you to use your personal bank account for your business[^2]. If you do this, the bank can close your account, because you don't follow their [terms of service](/glossary/AGB)[^3].
 
 ### It makes bookkeeping easier
 
@@ -41,14 +41,14 @@ Freelancers and sole proprietors do not need a business bank account[^5], but it
 
 These are the business banks that I cover in this guide:
 
-- [bunq Business](https://allaboutberlin.com/out/bunq-business)
-- [Finom](https://allaboutberlin.com/out/finom)
-- [Fyrst](https://allaboutberlin.com/out/fyrst)
+- [bunq Business](/out/bunq-business)
+- [Finom](/out/finom)
+- [Fyrst](/out/fyrst)
 - Grenke
-- [Holvi](https://allaboutberlin.com/out/holvi)
-- [Kontist](https://allaboutberlin.com/out/kontist)[](https://allaboutberlin.com/out/n26-business)
-- [N26 Business](https://allaboutberlin.com/out/n26-business)[](https://allaboutberlin.com/out/penta)
-- [Qonto](https://allaboutberlin.com/out/penta)
+- [Holvi](/out/holvi)
+- [Kontist](/out/kontist)[](/out/n26-business)
+- [N26 Business](/out/n26-business)[](/out/penta)
+- [Qonto](/out/penta)
 
 ## Business banks by feature
 
@@ -56,17 +56,17 @@ These are the business banks that I cover in this guide:
 
 These banks speak English. If you don't speak German, this can be very useful.
 
-- **[bunq Business](https://allaboutberlin.com/out/bunq-business)**  
+- **[bunq Business](/out/bunq-business)**  
     English, Dutch, French, Italian, Spanish and German
-- [**Finom**](https://allaboutberlin.com/out/finom)  
+- [**Finom**](/out/finom)  
     English and German
-- **[Holvi](https://allaboutberlin.com/out/holvi)**  
+- **[Holvi](/out/holvi)**  
     English and German
-- **[N26 Business](https://allaboutberlin.com/out/n26-business)**  
+- **[N26 Business](/out/n26-business)**  
     English, French, Italian, Spanish and German
-- **[Kontist](https://allaboutberlin.com/out/kontist)**  
+- **[Kontist](/out/kontist)**  
     English and German
-- [**Qonto**](https://allaboutberlin.com/out/penta)  
+- [**Qonto**](/out/penta)  
     English and German
 
 ### Built-in accounting tools
@@ -101,7 +101,7 @@ These banks give you a German IBAN:
 
 ### Anmeldung required
 
-If you just [moved to Berlin](https://localhost/guides/moving-to-berlin), and you have not [registered your address](https://allaboutberlin.com/glossary/Anmeldung), choose a bank that does not require a [registration certificate](https://allaboutberlin.com/glossary/Anmeldebest%C3%A4tigung).
+If you just [moved to Berlin](https://localhost/guides/moving-to-berlin), and you have not [registered your address](/glossary/Anmeldung), choose a bank that does not require a [registration certificate](/glossary/Anmeldebest%C3%A4tigung).
 
 ...
 
@@ -130,11 +130,11 @@ Some online banks only accept card payments and bank transfers[^7]. Some banks a
 
 ## What I use for my business
 
-From 2017 to 2021, I used my personal [N26](https://allaboutberlin.com/out/n26) account. [N26 Business](https://allaboutberlin.com/out/n26-business) is exactly the same, but N26 doesn't let me have a personal account and a business account.
+From 2017 to 2021, I used my personal [N26](/out/n26) account. [N26 Business](/out/n26-business) is exactly the same, but N26 doesn't let me have a personal account and a business account.
 
-Since January 2022, I use [Kontist](https://allaboutberlin.com/out/kontist). It's bad, and I don't recommend it.
+Since January 2022, I use [Kontist](/out/kontist). It's bad, and I don't recommend it.
 
-**[My review of Kontist ➞](https://allaboutberlin.com/guides/kontist-review)**
+**[My review of Kontist ➞](/guides/kontist-review)**
 
 ## What's next?
 

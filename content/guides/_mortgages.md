@@ -25,7 +25,7 @@ If you’re buying an apartment, you have to calculate a monthly house fees (*Ha
 - Waste/rubbish removal (*Müllabfuhr*)
 - etc.
 
-These are all to be paid to the property management company on a monthly basis. In addition to these house fees, you will also need to pay for heating and water costs as well as for electricity, internet and the [media license (*GEZ*)](https://allaboutberlin.com/guides/gez-rundfunkbeitrag).
+These are all to be paid to the property management company on a monthly basis. In addition to these house fees, you will also need to pay for heating and water costs as well as for electricity, internet and the [media license (*GEZ*)](/guides/gez-rundfunkbeitrag).
 
 ## Qualifying for a mortgage
 
@@ -64,7 +64,7 @@ German banks will require you to submit both personal documents and property doc
 
 - Self-disclosure form (*Selbstauskunft*)
 - Copy of your passport
-- [Credit score certificate (Schufa)](https://allaboutberlin.com/guides/free-schufa-berlin)
+- [Credit score certificate (Schufa)](/guides/free-schufa-berlin)
 - Proof of your equity
 
 **For employees only:**

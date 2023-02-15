@@ -37,7 +37,7 @@ Cons:
 When you buy a house, you must also pay various fees (*Kaufnebenkosten*):
 
 - Real estate agent (*Makler*) fees - up to 7.14% of the purchase price[^8]
-- Property transfer tax ([*Grunderwerbssteuer*](https://allaboutberlin.com/glossary/Grunderwerbsteuer)) - 3.5% to 6.5% of the purchase price[^8]
+- Property transfer tax ([*Grunderwerbssteuer*](/glossary/Grunderwerbsteuer)) - 3.5% to 6.5% of the purchase price[^8]
 - Land registry transfer (*Grundbucheintrag*) - 2% of the purchase price
 - Notary fees - 2% of the purchase price[^0]
 
@@ -87,13 +87,13 @@ Not really. Buying a house is *sometimes* a good investment, but not always.
 
 ### Buying an apartment for yourself
 
-See the ["renting vs buying"](https://allaboutberlin.com/guides/buying-a-house#renting-vs-buying-in-germany) section.
+See the ["renting vs buying"](/guides/buying-a-house#renting-vs-buying-in-germany) section.
 
 ### Buying an apartment to rent it
 
 If you buy an apartment to rent it, you probably won't make a lot of money. The annual returns on real estate are very low[^5]. 50% of landlords earn less than 2% per year. 8.5% of landlords lose money. Only 18% of landlords earn more than 5%. This is very low compared to other forms of investment.
 
-You must also pay [income tax](https://allaboutberlin.com/glossary/Einkommensteuer) on your rental income, but [some expenses](https://www.reddit.com/r/germany/comments/a7enb2/how_much_tax_does_a_landlord_have_to_pay_annually/) are tax-deductible[^6].
+You must also pay [income tax](/glossary/Einkommensteuer) on your rental income, but [some expenses](https://www.reddit.com/r/germany/comments/a7enb2/how_much_tax_does_a_landlord_have_to_pay_annually/) are tax-deductible[^6].
 
 Being a landlord is also a lot of work[^6]:
 

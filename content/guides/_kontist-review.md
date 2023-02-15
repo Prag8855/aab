@@ -6,7 +6,7 @@ Date_created: 2022-02-10
 Date_updated: 2023-01-29
 ---
 
-[Kontist](https://allaboutberlin.com/out/kontist) is a bank in Germany. They offer business bank accounts ([*Geschäftskonto*](https://allaboutberlin.com/glossary/Gesch%C3%A4ftskonto)) for freelancers.
+[Kontist](/out/kontist) is a bank in Germany. They offer business bank accounts ([*Geschäftskonto*](/glossary/Gesch%C3%A4ftskonto)) for freelancers.
 
 I have a Duo account since January 2022. All my business transactions go through my Kontist account.
 
@@ -26,25 +26,25 @@ There is also a 1.7% fee for payments in foreign currencies (incoming and outgoi
 
 ## Automatic tax deductions
 
-If you are self-employed, you must put money aside for [income tax](https://allaboutberlin.com/glossary/Einkommensteuer) and VAT payments. It's hard to know how much money you really have.
+If you are self-employed, you must put money aside for [income tax](/glossary/Einkommensteuer) and VAT payments. It's hard to know how much money you really have.
 
 Kontist fixes this. It automatically puts money aside for income tax and VAT. In the mobile app, you can see your total balance, and how much you can keep.
 
 This feature only works in the mobile app. The web app only shows you your total balance.
 
-I like this feature. It's why I opened a Kontist account. [Holvi](https://allaboutberlin.com/out/holvi) has this feature too. [N26 Business](https://allaboutberlin.com/out/n26-business) lets you put money aside in "spaces".
+I like this feature. It's why I opened a Kontist account. [Holvi](/out/holvi) has this feature too. [N26 Business](/out/n26-business) lets you put money aside in "spaces".
 
 ### Automatic VAT
 
-For each transaction, you decide how much [VAT](https://allaboutberlin.com/glossary/Umsatzsteuer) to set aside. You set the VAT manually for each transaction (0%, 7% or 19%).
+For each transaction, you decide how much [VAT](/glossary/Umsatzsteuer) to set aside. You set the VAT manually for each transaction (0%, 7% or 19%).
 
 Kontist uses AI to automate bookkeeping, but it's often wrong. Instead of leaving transactions uncategorised, it puts them in the wrong category, with the wrong VAT.
 
-For example, I send money to my [N26](https://allaboutberlin.com/out/n26) account every month, and Kontist still marks it as an expense with 19% VAT. One client pays me every month, and Kontist sets the wrong VAT every time.
+For example, I send money to my [N26](/out/n26) account every month, and Kontist still marks it as an expense with 19% VAT. One client pays me every month, and Kontist sets the wrong VAT every time.
 
 There is no way to turn the AI off.
 
-If you use Kontist with [LexOffice](https://allaboutberlin.com/out/lexoffice), it's better. You categorise transactions in LexOffice, and they are categorised in Kontist too.
+If you use Kontist with [LexOffice](/out/lexoffice), it's better. You categorise transactions in LexOffice, and they are categorised in Kontist too.
 
 [![](https://localhost/images/_contentFullwidth2x/kontist-sort-transactions.png)](https://localhost/images/kontist-sort-transactions.png "You must set the VAT on each transaction. The AI does it automatically, but it's often wrong")
 
@@ -52,11 +52,11 @@ If you use Kontist with [LexOffice](https://allaboutberlin.com/out/lexoffice), i
 
 ### Automatic income tax
 
-Kontist sets some of your income aside for [income tax](https://allaboutberlin.com/glossary/Einkommensteuer).
+Kontist sets some of your income aside for [income tax](/glossary/Einkommensteuer).
 
 It does not calculate your income tax rate; it just sets a fixed percentage of your income aside. You must [calculate your income tax rate](https://localhost/tools/tax-calculator) yourself. This is reasonable, because Kontist does not have enough information to calculate your income tax.
 
-Kontist does not support the [trade tax](https://allaboutberlin.com/glossary/Gewerbesteuer), which many freelancers pay. There is no way to label a transaction as a trade tax payment.
+Kontist does not support the [trade tax](/glossary/Gewerbesteuer), which many freelancers pay. There is no way to label a transaction as a trade tax payment.
 
 ## Invoicing and bookkeeping
 
@@ -70,11 +70,11 @@ You can attach receipts to transactions. If you do it in LexOffice, the receipts
 
 Kontist doesn't tell you how much you earned in a month. If you run a business, this information is important.
 
-The [Kontist Duo plan](https://allaboutberlin.com/out/kontist-plans) comes with [Lexoffice](https://allaboutberlin.com/out/lexoffice). Lexoffice is a great accounting tool with much better reports. [Holvi](https://allaboutberlin.com/out/holvi)'s dashboard also shows this information.
+The [Kontist Duo plan](/out/kontist-plans) comes with [Lexoffice](/out/lexoffice). Lexoffice is a great accounting tool with much better reports. [Holvi](/out/holvi)'s dashboard also shows this information.
 
 ### Limited export options
 
-Kontist integrations are limited: it only connects to [Lexoffice](https://allaboutberlin.com/out/lexoffice) and [FastBill](https://www.fastbill.com/)  
+Kontist integrations are limited: it only connects to [Lexoffice](/out/lexoffice) and [FastBill](https://www.fastbill.com/)  
  (with a Premium or Duo account).
 
 You can export your transactions to CSV or MT940 and use it in other programs, even with the free account.
@@ -87,7 +87,7 @@ There is no way to export all transactions *and* attached invoices, but you can 
 
 You can book a tax advisor in the Kontist app. If you already have a tax advisor, you can't give them access to your Kontist account. You have to manually export your data and send it to them every month.
 
-[Qonto](https://allaboutberlin.com/out/penta) and [Holvi](https://allaboutberlin.com/out/holvi) have tax advisor access.
+[Qonto](/out/penta) and [Holvi](/out/holvi) have tax advisor access.
 
 ## Integration with other tools
 
@@ -95,7 +95,7 @@ You can book a tax advisor in the Kontist app. If you already have a tax advisor
 
 LexOffice is a bookkeeping and invoicing tool.
 
-Kontist works well with [LexOffice](https://allaboutberlin.com/out/lexoffice).
+Kontist works well with [LexOffice](/out/lexoffice).
 
 LexOffice gets transactions from Kontist (and other banks). You can attach receipts to transactions, set the VAT, etc. The same information will appear in Kontist.
 
@@ -147,7 +147,7 @@ I already have a tax advisor, so I did not test this feature.
 
 With Kontist, you can do everything in English. The website, the app and the customer support are in English. You don't need to speak German.
 
-[N26 Business](https://allaboutberlin.com/out/n26-business), [Holvi](https://allaboutberlin.com/out/holvi), [Qonto](https://allaboutberlin.com/out/penta) and [Revolut](https://allaboutberlin.com/out/revolut-business) also speak English.
+[N26 Business](/out/n26-business), [Holvi](/out/holvi), [Qonto](/out/penta) and [Revolut](/out/revolut-business) also speak English.
 
 ## Opening an account
 
@@ -172,19 +172,19 @@ The free account is very limited:
 - It only comes with a virtual credit card, no physical card.
 - No invoicing, no data exports, no integration with bookkeeping tools.
 
-**[Compare Kontist plans ](https://allaboutberlin.com/out/kontist-plans)[➞](https://allaboutberlin.com/out/kontist-plans)**
+**[Compare Kontist plans ](/out/kontist-plans)[➞](/out/kontist-plans)**
 
 ## Other notes
 
 ### Kontist is not a bank
 
-Kontist is not a bank. It's a financial services provider. Your money is kept by [Solarisbank](https://www.solarisbank.com/en/). [Qonto](https://allaboutberlin.com/out/penta) and [Finom](https://allaboutberlin.com/out/finom) also use Solarisbank[^3]. This makes no difference to you. You just need to use "Solarisbank" on your invoices.
+Kontist is not a bank. It's a financial services provider. Your money is kept by [Solarisbank](https://www.solarisbank.com/en/). [Qonto](/out/penta) and [Finom](/out/finom) also use Solarisbank[^3]. This makes no difference to you. You just need to use "Solarisbank" on your invoices.
 
 Solarisbank has its own fees. You must agree to their terms and conditions when you open a Kontist account.
 
 ### You can't deposit cash
 
-There is no way to deposit cash in your Kontist account[^4]. You must [transfer money](https://allaboutberlin.com/glossary/SEPA-%C3%9Cberweisung) from another bank account.
+There is no way to deposit cash in your Kontist account[^4]. You must [transfer money](/glossary/SEPA-%C3%9Cberweisung) from another bank account.
 
 When you open an account, you get your first invoice from Kontist. You must transfer money from another account to pay it.
 
@@ -201,7 +201,7 @@ Kontist is *okay*, but it could do better. It costs around 9€ per month plus f
 - You see how much money is yours, and how much is for taxes.
 - Their tax advisor service is cheaper than getting a tax advisor.
 - The web app and mobile apps are reliable.
-- It works really well with [LexOffice](https://allaboutberlin.com/out/lexoffice), a pretty good accounting tool. The Kontist Duo plan is a great deal.
+- It works really well with [LexOffice](/out/lexoffice), a pretty good accounting tool. The Kontist Duo plan is a great deal.
 
 ### The bad
 
@@ -215,9 +215,9 @@ Kontist is *okay*, but it could do better. It costs around 9€ per month plus f
 
 If you need a business bank account to start a business in Germany, there are many other options.
 
-- [Holvi](https://allaboutberlin.com/out/holvi) is very similar to Kontist. It seems to have better bookkeeping, better invoicing, and better reports.
-- [Finom](https://allaboutberlin.com/out/finom) is also very similar to Kontist.
-- [N26 Business](https://allaboutberlin.com/out/n26-business) is exactly like N26, but for businesses. I have an N26 account since 2016, and [I like it](https://localhost/guides/an-honest-review-of-n26). If you need a free, English-speaking business bank, it could work for you. You can't have a personal N26 account *and* an N26 Business account.
+- [Holvi](/out/holvi) is very similar to Kontist. It seems to have better bookkeeping, better invoicing, and better reports.
+- [Finom](/out/finom) is also very similar to Kontist.
+- [N26 Business](/out/n26-business) is exactly like N26, but for businesses. I have an N26 account since 2016, and [I like it](https://localhost/guides/an-honest-review-of-n26). If you need a free, English-speaking business bank, it could work for you. You can't have a personal N26 account *and* an N26 Business account.
 
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)
 [^1]: [old.reddit.com](https://old.reddit.com/r/Finanzen/comments/scgrpu/steuerberater_als_freelancer/hu64wbv/)
