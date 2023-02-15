@@ -31,7 +31,7 @@ No, but it helps a lot. You can find English-speaking jobs, but most companies w
 
 If you don't speak German, you can still find jobs in...
 
-- [Tech companies](/guides/find-a-job-in-berlin#tech-jobs)
+- [Tech companies](#tech-jobs)
 - Companies with English-speaking offices
 - Delivery services like [Lieferando](https://www.lieferando.de/en/courier), [Wolt](https://wolt.com/en/jobs/search), [Flink](https://careers.smartrecruiters.com/Flink3/joinus) and [Gorillas](https://gorillas.io/en/ride-with-us)
 - Customer service and call centres
@@ -124,7 +124,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 
 ### German resumes
 
-German CVs are longer than American resumes. They include your date of birth, your citizenship and a photo of you.[^0] You should go to a photo studio and get a professional portrait for your resume. A [career coach](/guides/find-a-job-in-berlin#need-help) can help you write a better resume.
+German CVs are longer than American resumes. They include your date of birth, your citizenship and a photo of you.[^0] You should go to a photo studio and get a professional portrait for your resume. A [career coach](#need-help) can help you write a better resume.
 
 **Useful links:**
 
@@ -137,7 +137,7 @@ German CVs are longer than American resumes. They include your date of birth, yo
 
 Include a short cover letter (*Anschreiben*) with your application. It's a personal introduction. It explains who you are, what you do, why you apply for this job, and why they should hire you.
 
-Don't send the same cover letter to everyone. Do your research, and personalise the letter for each job offer. Keep it short and easy to read. Get feedback from other people before you send it. A [career coach](/guides/find-a-job-in-berlin#need-help) can help you write better cover letters.
+Don't send the same cover letter to everyone. Do your research, and personalise the letter for each job offer. Keep it short and easy to read. Get feedback from other people before you send it. A [career coach](#need-help) can help you write better cover letters.
 
 - [How to write a German cover letter](https://hallogermany.com/blog/cv-lebenslauf) - HalloGermany
 - [Advice for cover letters](https://news.ycombinator.com/item?id=1783915) with [examples](https://news.ycombinator.com/item?id=1784194) - Hacker News

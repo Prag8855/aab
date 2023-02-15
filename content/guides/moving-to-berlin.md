@@ -25,7 +25,7 @@ You need enough money to live until you get paid. You must pay for these things:
 - **Your [living expenses](/guides/cost-of-living)**  
     You need to buy food and things for your apartment. If you rent an empty apartment, you also need to buy furniture and appliances. If you live in a [[WG]], you don't need to buy as many things.
 - **Your relocation expenses**  
-    If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation expenses are tax-deductible.[^4] Keep your receipts.
+    If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation expenses are tax-deductible.[^4] Save your receipts for your next [tax declaration](/glossary/Steuererklärung).
 - **Winter clothes**  
     German winters are cold: 0ºC on average, and as low as -10ºC.[^5] You need winter clothes: a jacket, boots, gloves, and a hat.
 

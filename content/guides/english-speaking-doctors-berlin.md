@@ -9,7 +9,7 @@ Related_places: places/dorothee-michel.md, places/dr-med-bertolt-olsen.md, place
 
 This is how you can find an English-speaking doctor or GP.
 
-**The list is [at the bottom of this page](/guides/english-speaking-doctors-berlin#list-of-doctors-and-gPs).**
+**The list is [at the bottom of this page](#list-of-doctors-and-gps).**
 
 ## Video call with a doctor
 

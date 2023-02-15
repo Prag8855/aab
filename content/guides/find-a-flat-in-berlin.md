@@ -16,7 +16,7 @@ This guide shows you how to find your first apartment or [flatshare](/glossary/W
 
 **Yes**. It's really hard.[^0] You must send hundreds of applications to find something.[^1] It can take months to find an apartment.
 
-During your search, you might need a temporary place to live. For example, you can stay with a friend, or rent a [temporary furnished apartment](/guides/find-a-flat-in-berlin#furnished-apartment).
+During your search, you might need a temporary place to live. For example, you can stay with a friend, or rent a [temporary furnished apartment](#furnished-apartment).
 
 ### Finding your first apartment
 
@@ -35,7 +35,7 @@ You must do this before you apply for apartments:
 - **Save money**  
     You need enough money to pay the [deposit](/glossary/Kaution) and the first month of rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You will also need to [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
 - **Prepare your documents**  
-    Get all the [documents you need](/guides/find-a-flat-in-berlin#what-to-bring) to apply for an apartment. If you find a place you like, you must apply quickly.
+    Get all the [documents you need](#what-to-bring) to apply for an apartment. If you find a place you like, you must apply quickly.
 
 ### Things that are different in Germany
 
@@ -44,7 +44,7 @@ You must do this before you apply for apartments:
 - **Cold rent and warm rent**  
     In Germany, there is the cold rent (*[[Kaltmiete]]*) and the warm rent (*[[Warmmiete]]*). The warm rent is the cold rent plus utilities (*[[Nebenkosten]]*). It's what you pay every month. The *Nebenkosten* are not a fixed cost; your landlord adjusts them once per year based on your usage.
 - **Nothing is included**  
-    Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
+    Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
 - **You pay rent by bank transfer**  
     You usually pay the rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
 - **Rooms are not counted the same way**  
@@ -67,7 +67,7 @@ You need more time to find a regular apartment, because there is more competitio
 
 A regular apartment is cheaper in the long term. Your rent is lower, because you don't rent the furniture with it.
 
-**[Look for regular apartments ↓](/guides/find-a-flat-in-berlin#step-1-look-for-apartments)**
+**[Look for regular apartments ↓](#step-1-look-for-apartments)**
 
 ### Short-term apartment
 
@@ -101,13 +101,13 @@ Finding a [[WG]] is a little easier, but still very hard.[^6]
 
 Usually, you must pass an interview with your roommates. Most WG interviews are like a personality test, but interviews for a *[[Zweck-WG]]* are more formal.
 
-**[Look for flat shares ↓](/guides/find-a-flat-in-berlin#wGs-flatshares-and-roommates)**
+**[Look for flat shares ↓](#wgs-flatshares-and-roommates)**
 
 ### Student housing
 
 Student dorms are one of the cheapest options, but they are hard to get. Student housing has long waiting lists.
 
-**[Look for student housing ↓](/guides/find-a-flat-in-berlin#dorms-and-student-housing)**
+**[Look for student housing ↓](#dorms-and-student-housing)**
 
 ### Buying an apartment
 
@@ -339,7 +339,7 @@ Landlords want tenants with...
 - **A stable job**  
     Landlords prefer tenants with a stable job. It's harder to find an apartment if you are self-employed, or if you are on your [probation period](/glossary/Probezeit). If you have a good job, include it in your introduction messages.
 - **A stable residence permit**  
-    It's easier to find an apartment if you have a EU citizenship, or a stable [residence permit](/glossary/Aufenthaltstitel). It's very hard to find an apartment if you are in another country. If you are not yet in Germany, try finding a [temporary furnished apartment](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments).
+    It's easier to find an apartment if you have a EU citizenship, or a stable [residence permit](/glossary/Aufenthaltstitel). It's very hard to find an apartment if you are in another country. If you are not yet in Germany, try finding a [short-term furnished apartment](#short-term-and-furnished-apartments).
 - **German speakers**  
     If you speak German, it's easier to find an apartment. It's less work for the landlord. It's another good reason to [learn German](/guides/learn-german).
 - **No dogs, no pets**

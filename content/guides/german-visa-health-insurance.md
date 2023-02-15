@@ -33,7 +33,7 @@ Travel insurance is not accepted for a work visa or Blue Card application.
 
 ## For a freelance visa
 
-**If this is the first time you apply for a [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Public health insurance often rejects freelancers from outside the EU, so it's not always an option. Expat health insurance works, but you should [switch to something else](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance) as soon as you can.
+**If this is the first time you apply for a [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Public health insurance often rejects freelancers from outside the EU, so it's not always an option. Expat health insurance works, but you should [switch to something else](#how-long-can-you-stay-on-expat-health-insurance) as soon as you can.
 
 **If you had a residence permit before**, you must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted if you already had a German residence permit.[^0]
 
@@ -47,7 +47,7 @@ If you apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you can 
 
 ## For any other residence permit
 
-**If this is the first time you apply for a [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Expat health insurance works, but you should [switch to something else](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance) as soon as you can.
+**If this is the first time you apply for a [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Expat health insurance works, but you should [switch to something else](#how-long-can-you-stay-on-expat-health-insurance) as soon as you can.
 
 **If you had a residence permit before**, you must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted if you already had a German residence permit.[^0]
 

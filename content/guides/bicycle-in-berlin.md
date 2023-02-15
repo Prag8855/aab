@@ -67,7 +67,7 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
 ### How to save money
 
 - **Tax deductions**  
-    Bicycles, bicycle maintenance and [bicycle insurance](/guides/bicycle-in-berlin#bike-theft-insurance) are all tax-deductible.[^2] Save your receipts for your next tax declaration.
+    Bicycles, bicycle maintenance and [bike theft insurance](#bike-theft-insurance) are all tax-deductible.[^2] Save your receipts for your next [tax declaration](/glossary/Steuererklärung).
 - **Help from your employer**  
     Some employers pay for your bicycle, or for a bicycle rental service. You can get a free bicycle, or a big rebate on your bicycle purchase.
 - **Therapy bike**  

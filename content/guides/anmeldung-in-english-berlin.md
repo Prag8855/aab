@@ -97,7 +97,7 @@ Sometimes, you can't do you *Anmeldung* at your current address. If you don't ha
 1. **The landlord does not know that you live there**  
     The tenant sublets the apartment without the landlord's permission. This is illegal. If the landlord finds out, they can kick you out. You will have 3 months to leave.[^14] The main tenant can also get kicked out. There are some exceptions:
     - **Subletting a room**  
-        If the tenant still lives in the apartment, they have the right to sublet part of their apartment, [unless it's too small](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).[^15] They still need the landlord's permission, but the landlord can't really refuse.[^16]
+        If the tenant still lives in the apartment, they have the right to sublet part of their apartment, [unless it's too small](#how-many-people-can-register-at-one-address).[^15] They still need the landlord's permission, but the landlord can't really refuse.[^16]
     - **Subletting the whole apartment**  
         The landlord can refuse to let the tenant sublet their entire apartment.[^15]
     - **Spouse and children**  

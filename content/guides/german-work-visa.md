@@ -107,9 +107,9 @@ You **do not** need to speak German to get a Blue Card.
 
 There are two ways to apply for the work visa and the Blue Card:
 
-1. **[Apply in Germany](/guides/german-work-visa#how-to-apply-in-germany)**  
+1. **[Apply in Germany](#how-to-apply-in-germany)**  
     Come to Germany, find a job, then apply for a work visa or Blue Card in Germany. You can't work until you have a work visa or Blue Card, but you can look for a job and prepare for your residence permit interview.[^41] It's easier to [find a job](/guides/find-a-job-in-berlin), [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You might have to wait a few months without any income. This is riskier and more expensive.
-2. **[Apply in your country](/guides/german-work-visa#how-to-apply-in-your-country)**  
+2. **[Apply in your country](#how-to-apply-in-your-country)**  
     Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a work visa or Blue Card. You can start working as soon as you arrive in Germany. This is safer and cheaper. It takes around 4 months.[^15]
 
 The best option depends on your citizenship:

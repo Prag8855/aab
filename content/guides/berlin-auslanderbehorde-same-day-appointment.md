@@ -9,7 +9,7 @@ If you need to apply for a residence permit or renew a German visa, you must go 
 
 - **With an appointment** Get an appointment online, then go to your appointment. It's often impossible to get an appointment in time. You must check Berlin.de again and again. Appointments are only released for the next 3 months. New appointments are released every day.
 - **Without an appointment**  
-    At the moment, you can't go to the *Ausländerbehörde* without an appointment. You can't queue in front of the *Ausländerbehörde* early in the morning. If you can't get an appointment, try [applying by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+    At the moment, you can't go to the *Ausländerbehörde* without an appointment. You can't queue in front of the *Ausländerbehörde* early in the morning. If you can't get an appointment, try [applying by email](#by-email).
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -111,7 +111,7 @@ After your *Ausländerbehörde* appointment, the interviewer can give you a *[[F
 
 **If you have an Ausländerbehörde appointment**, you can stay in Germany until your appointment date, even if your residence permit expires.[^20] You can continue working, freelancing or studying until your appointment date.[^11] You must book the appointment while your residence permit is valid.[^21]
 
-**If you [apply by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email)**, the automated response counts as an application.[^12] You can stay in Germany until they process your application.[^5] You can continue to work, freelance or study while you wait.[^22] You must email your documents before your residence permit expires.[^13]
+**If you [apply by email](#by-email)**, the automated response counts as an application.[^12] You can stay in Germany until they process your application.[^5] You can continue to work, freelance or study while you wait.[^22] You must email your documents before your residence permit expires.[^13]
 
 If your residence permit expires, you should not travel outside of Germany. You can't re-enter Germany with an expired residence permit.[^14]
 

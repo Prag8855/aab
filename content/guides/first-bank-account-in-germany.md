@@ -134,7 +134,7 @@ Some banks let you withdraw money for free, but only if you use their cash machi
 
 ## German banks for students
 
-Go to **[German banks with no monthly fees](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
+Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)**
 
 ### Blocked account (Sperrkonto) for the student visa
 
