@@ -16,22 +16,20 @@ This guide shows you how to relocate to Berlin. It shows you how to find a job, 
 
 ### Save money
 
-You need enough money to live until you get paid. When you arrive in Berlin, you must pay for many things:
+You need enough money to live until you get paid. You must pay for these things:
 
-- [**Your apartment deposit**](/guides/mietkaution) (*[[Kaution]]*)  
-    The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must pay 1/3 of the deposit before you [move in](/guides/moving-in).
+- **The apartment deposit** (*[[Kaution]]*)  
+    The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must pay 1/3 of the deposit before your lease begins, 1/3 after 1 month, and 1/3 after 2 months. - [How apartment deposits work](/guides/mietkaution)
 - **The first month of rent**  
     You must pay the rent before you [move in](/guides/moving-in). You will probably move in before you get your first paycheck. You need a [bank account](/guides/first-bank-account-in-germany) to pay the rent.
-- **[Living expenses](/guides/cost-of-living)**  
+- **Your [living expenses](/guides/cost-of-living)**  
     You need to buy food and things for your apartment. If you rent an empty apartment, you also need to buy furniture and appliances. If you live in a [[WG]], you don't need to buy as many things.
-- **Relocation expenses**  
-    If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Keep the receipts, because [these expenses are tax-deductible](https://scheller-international.com/blog-beitraege/deductible-relocation-expenses-in-germany.html).
+- **Your relocation expenses**  
+    If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation expenses are tax-deductible.[^4] Keep your receipts.
 - **Winter clothes**  
-    If you move during the winter, you might need to buy a winter jacket, boots and warm clothes.
+    German winters are cold: 0ºC on average, and as low as -10ºC.[^5] You need winter clothes: a jacket, boots, gloves, and a hat.
 
 **[Cost of living in Berlin ➞](/guides/cost-of-living)**
-
-Save your receipts! Relocation expenses are tax-deductible. You can claim those expenses on your next tax return.
 
 ### Find a job
 
@@ -208,3 +206,5 @@ After a few years in Germany, you can apply for [permanent residence](/glossary/
 [^1]: [naylorengineering.com](http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?utm_source=reddit&utm_medium=web2x&context=3)
 [^2]: [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)
 [^3]: [iamexpat.de](https://www.iamexpat.de/expat-info/driving-germany/driving-licence), [routetogermany.com](https://routetogermany.com/drivingingermany/driving-license#EU/EEA)
+[^4]: [Scheller International](https://scheller-international.com/blog-beitraege/deductible-relocation-expenses-in-germany.html)
+[^5]: [worlddata.info](https://www.worlddata.info/europe/germany/climate.php)
