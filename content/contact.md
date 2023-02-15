@@ -5,20 +5,20 @@ Date_created: 2022-01-27
 Date_updated: 2023-01-10
 ---
 
-You can contact me to…
+Hi, I'm Nicolas. You can contact me to…
 
 - **Ask a question**  
-    I will help you for free. Please do a little research first, and [ask detailed questions](https://nicolasbouliane.com/blog/ask-nicely). Sometimes, you might [find better help elsewhere](/guides/questions-about-berlin). I can't give legal or financial advice.
+    I will help you for free. Please do a little research, and [ask detailed questions](https://nicolasbouliane.com/blog/ask-nicely). Sometimes, you might [find better help elsewhere](/guides/questions-about-berlin). I can't give you legal or financial advice.
 - **Give feedback**  
-    Feel free to share your experience, report mistakes, or suggest improvements. Your feedback helps me improve this website.
-- **Say thank you**  
+    If have suggestions for the website, let me know. Your feedback helps me improve the website and give better advice.
+- **Say thanks**  
     I *love* hearing from happy readers! If my work helped you, you can also [leave a tip](/out/stripe).
 - **Advertise your business**  
     Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) before you contact me. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
         Fill the [form for psychiatrists and therapists](/suggest-therapist). You will get listed for free.
     - **Doctors, lawyers, tax advisors, etc.**  
-        Fill the [form for other businesses](/suggest-business). You will get listed for free. I only add relevant businesses. It can take some time.
+        Fill the [form for other businesses](/suggest-business). You will get listed for free. I only mention businesses if it helps the readers. It can take some time.
 
 ## Contact information
 
