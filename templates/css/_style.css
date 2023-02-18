@@ -202,6 +202,8 @@ h1, h2, h3, h4, h5, h6{font-family:var(--font-family-header);color:var(--color-t
 		.article-body .table-of-contents + h2{margin-top:var(--spacing-page-borders);}
 	h3 {font-size:var(--font-size-h3);margin:var(--spacing-text-block-l) 0 var(--spacing-text-block-m)}
 	h4 {font-size:var(--font-size-m);}
+	h2:target, h3:target{position:relative}
+		h2:target:before, h3:target:before{content:'';display:block;position:absolute;left:calc(var(--spacing-page-borders) * -1);border-left:calc(var(--line-height-compact) / 2) solid var(--color-highlight);border-top:calc(var(--line-height-compact) / 2) solid transparent;border-bottom:calc(var(--line-height-compact) / 2) solid transparent}
 hr {background:var(--color-border-page);height:1px;border:none;margin:var(--spacing-text-block-m) 0}
 img{color:var(--color-text-light)!important;font-size:var(--font-size-s);display:block;}
 li {list-style:outside;margin:var(--spacing-list-item) 0 var(--spacing-list-item) 20px;padding-left:var(--spacing-s)}
@@ -327,14 +329,14 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 #footnotes{margin-top:var(--spacing-text-block-l);padding-top:var(--spacing-text-block-l);border-top:var(--border-page)}
 	#footnotes summary{cursor:pointer;}
 	#footnotes ol{column-count:2;column-gap:var(--spacing-l);column-rule:var(--border-page);font-size:var(--font-size-s);line-height:var(--line-height-compact);}
-		#footnotes li{list-style:none;margin-left:0;display:flex;counter-increment:footnotes 1}
+		#footnotes li{list-style:none;margin-left:0;display:flex;counter-increment:footnotes 1;padding-left:0}
 			#footnotes li:before{content:counter(footnotes) ".";margin-right:var(--spacing-s);width:2.5ch;flex:0 0 auto}
 			#footnotes li:first-child{margin-top:0}
 			#footnotes li:last-child{margin-bottom:0}
 			#footnotes li p:first-child{margin-top:0}
 			#footnotes li p:last-child{margin-bottom:0}
 
-	.footnote :target, sup:target{animation:highlight 1.5s ease 0s 1 alternate !important}
+	.footnote :target, sup:target{background:var(--color-text-selection);border-radius:3px;}
 
 .fixed-width {margin:0 auto;box-sizing:border-box;width:100%;padding:0 var(--spacing-page-borders);max-width:var(--max-width-column);border-top:1px solid transparent;border-bottom:1px solid transparent}
 	.with-sidebar .fixed-width{max-width:var(--max-width-page)}
