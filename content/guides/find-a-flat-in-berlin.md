@@ -6,7 +6,7 @@ Date_created: 2017-09-20
 Date_updated: 2023-01-06
 ---
 
-This guide shows you how to find your first apartment or [flatshare](/glossary/WG) in Berlin.
+This guide shows you how to find your first apartment or [WG](/glossary/WG) in Berlin.
 
 ![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
