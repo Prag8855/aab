@@ -26,7 +26,7 @@ Tell your employer and your team that you are sick as soon as you can.[^5] Each 
 
 ### 2. Get a sick note from a doctor
 
-Most employers ask for a [sick note](/glossary/Krankschreibung) if you are sick for 3 days or more. Some ask for a sick note on the first day that you are sick.[^6] In the first month of your [probation period](/glossary/Probezeit), get a sick note on the first day.[^7]
+Most employers ask for a [sick note](/glossary/Krankschreibung) if you are sick for more than 3 days. Some ask for a sick note on the first day that you are sick.[^6] In the first month of your [probation period](/glossary/Probezeit), get a sick note on the first day.[^7]
 
 You get a sick note from a doctor. You can get it in person, with a phone call, or with a video call. You can use an app like [TeleClinic](https://www.teleclinic.com/) instead of visiting a doctor. It's faster and easier.
 
