@@ -7,27 +7,17 @@ Date_updated: 2022-08-26
 Related_reviews: reviews/german-versicherungsnummer/johannes-kühn.md, reviews/german-versicherungsnummer/daniel-derosa.md
 ---
 
-The *Sozialversicherungsnummer* is your German pension insurance number. The [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung) uses this number to identify you. It's a unique number, and it never changes.
+The [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung) uses your *Sozialversicherungsnummer* to identify you. It looks like this: **12 123456 A 123**. It's a unique number, and it never changes.
 
-In German, it has many names:
+In German, it's called *Sozialversicherungsnummer*, *Rentenversicherungsnummer*, *SVNR* or *RNVR*. It's sometimes called *Versicherungsnummer*, but this could mean something else, like your health insurance number.
 
-- Sozialversicherungsnummer
-- Rentenversicherungsnummer
-- Versicherungsnummer (but it can mean something else)
-- SVNR
-- RNVR
+In English, it's called pension insurance number, social insurance number or social security number.
 
-In English, it also has many names:
+{% include "blocks/_tableOfContents.html" %}
 
-- Pension insurance number
-- Social insurance number
-- Social security number
+## What the Sozialversicherungsnummer looks like
 
-Your health insurance number is also called a *Versicherungsnummer*, but it's not the same number.
-
-## What does the Sozialversicherungsnummer look like?
-
-The German social insurance number has this format: **12 123456 A 123**.[^0]
+Your *Sozialversicherungsnummer* has this format: **12 123456 A 123**.[^0]
 
 It is divided in 4 parts:[^1]
 
@@ -36,37 +26,37 @@ It is divided in 4 parts:[^1]
 3. The first letter of your last name. If your name is John Smith, it would be "S".
 4. The last part is used to differentiate you from people with the same name and birth date.[^2]
 
-## Why do I need this number?
+## Why you need this number
 
 When you start working, **your employer needs this number as soon as possible.** This lets your employer take pension contributions from your paycheck. You also need this number if you leave Germany, and want to [get your pension payments back](/guides/pension-payments-refund).
 
 If you don't have that number yet, don't panic! Your employer will still pay you.
 
-## How do I get my Sozialversicherungsnummer?
+## How to get your Sozialversicherungsnummer
 
 ### If you just moved to Germany
 
 If you just moved to Germany, you don't have a *Sozialversicherungsnummer* yet.
 
 - **If you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-    You get a *Sozialversicherungsnummer* automatically after you apply for public health insurance. You will get it later by post.
+    You get a *Sozialversicherungsnummer* automatically after you apply for public health insurance. You will get it by post.
 - **If you get [private health insurance](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**  
-    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can also visit a local branch and do it in person. Your [health insurance broker](/guides/german-health-insurance#insurance-brokers) can do it for you.[^3] Your employer can sometimes do it for you.[^4]
+    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can do it in person at [a local branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). Your health insurance broker can do it for you.[^3] Your employer can sometimes do it for you.[^4]
 
-You will get your *Sozialversicherungsnummer* by post to your German address. It takes 1 to 6 weeks, but most of the time, it takes less than 2 weeks. If you need it now, go to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You will get it on the same day.
+You get your *Sozialversicherungsnummer* by post to your German address. It takes 1 to 6 weeks. Most of the time, it takes less than 2 weeks. If you need it now, go to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html).
 
-You will get a *Sozialversicherungsausweis* in a letter from the [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung). Here is a picture of it:[^5]
+Your number is printed on a *Sozialversicherungsausweis* in a letter from the [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung). It looks like this:[^5]
 
 [![Sozialversicherungsausweis2017](/images/sozialversicherungsausweis2017.jpg "Your Sozialversicherungsausweis contains your social security number")](/images/sozialversicherungsausweis2017.jpg)
 
 ### If you have public health insurance
 
-If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), **you can get your Sozialversicherungsnummer from your health insurer**.[^6] Ask your health insurer for a membership confirmation document (*Mitgliedsbescheinigung*) or a *Sozialversicherungsausweis*. These documents have your *Sozialversicherungsnummer.* You can usually do this online. It takes a few minutes, and it's free.
+If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), **ask your health insurer**[^6]. Ask for a membership certificate (*Mitgliedsbescheinigung*) or a *Sozialversicherungsausweis*. You can usually do this online.
 
-- [How to get your *Sozialversicherungsnummer* with TK](https://www.tk.de/service/form/2060552/sozialversicherungsausweisbestellen.form) (in German)
-- [How to get your *Sozialversicherungsnummer* with Barmer](https://www.barmer.de/meine-barmer-eingeloggt/antraege-und-bescheinigungen) (in German)
-- [How to get your *Sozialversicherungsnummer* with AOK](https://www.aok.de/pk/nordost/inhalt/fragen-und-antworten-zum-sozialversicherungsausweis-2/) (in German)
-- [How to get your *Sozialversicherungsnummer* with DAK](https://www.dak.de/dak/meinedak/ihr-anliegen/sozialversicherungsausweis-beantragen-2431710.html) (in German)
+- [Instructions for TK](https://www.tk.de/service/form/2060552/sozialversicherungsausweisbestellen.form) (in German)
+- [Instructions for Barmer](https://www.barmer.de/meine-barmer-eingeloggt/antraege-und-bescheinigungen) (in German)
+- [Instructions for AOK](https://www.aok.de/pk/nordost/inhalt/fragen-und-antworten-zum-sozialversicherungsausweis-2/) (in German)
+- [Instructions for DAK](https://www.dak.de/dak/meinedak/ihr-anliegen/sozialversicherungsausweis-beantragen-2431710.html) (in German)
 
 ### If you have private health insurance
 
