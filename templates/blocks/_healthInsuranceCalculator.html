@@ -297,8 +297,8 @@
         salaryOrIncome() { return occupations.isEmployed(this.occupation) ? 'salary' : 'income' },
         incomeInputRange() {
           return {
-            min: this.useMonthlyIncome ? 1000 : 12000,
-            max: this.useMonthlyIncome ? Math.ceil(healthInsurance.maxMonthlyIncome/250)*250 : Math.ceil(healthInsurance.maxMonthlyIncome*12/1000)*1000,
+            min: this.useMonthlyIncome ? 250 : 5000,
+            max: this.useMonthlyIncome ? Math.ceil(healthInsurance.minFreiwilligMonthlyIncome/250)*250 : Math.ceil(healthInsurance.minFreiwilligMonthlyIncome*12/1000)*1000,
             step: this.useMonthlyIncome ? 250 : 1000,
           };
         },
