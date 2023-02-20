@@ -286,7 +286,7 @@ table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
 main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid-template-columns:max-content 1fr;margin-left:auto;margin-right:auto;align-items:start;}
 	.article-body figure, .article-body picture, .article-body img{display:block;max-width:100%;margin:var(--spacing-text-block-m) 0;height:auto}
 		.article-body img{margin:0 auto;border: 1px solid var(--color-border-image);background-color:var(--color-background-image);}
-		.article-body figure picture, .article-body figure img{margin:0;}
+		.article-body figure picture, .article-body figure img{margin:0 auto;}
 		.article-body a:hover img, #tooltip a:hover img{outline:var(--outline-button);border-color:var(--color-highlight)}
 		.article-body img[src*="/illustrations/"]{border:1px solid transparent;background-color:transparent;}
 	.sidebar{width:var(--width-sidebar);box-sizing:border-box;border-radius:var(--border-radius) 0 0 var(--border-radius);grid-row-start:span 1000;position:sticky;top:0;margin-top:var(--spacing-m);padding:var(--spacing-l);background:var(--color-background-website)}
