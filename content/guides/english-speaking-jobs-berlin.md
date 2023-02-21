@@ -52,7 +52,7 @@ You can also be an [au pair](/glossary/Au%20pair). I know many au pairs who did 
 
 If you are self-employed, you can work for English-speaking clients in other countries. You can also find English-speaking clients in Berlin. This is easy for certain jobs like software development and IT.
 
-If you need a [freelance visa](/glossary/Freelance%20Visa) to work in Germany, you must have some German clients. If you don't have clients in Germany, you will not get a freelance visa.
+If you need a [freelance visa](/glossary/Freelance%20visa) to work in Germany, you must have some German clients. If you don't have clients in Germany, you will not get a freelance visa.
 
 **[How to move to Berlin and become a freelancer ➞](/guides/become-a-freelancer-in-germany)**
 

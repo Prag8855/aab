@@ -39,7 +39,7 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
     For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[Youth mobility visa](/glossary/Youth%20Mobility%20Visa)**  
     For Canadian citizens between 18 and 35 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
-- **[Freelance visa](/glossary/Freelance%20Visa)**  
+- **[Freelance visa](/glossary/Freelance%20visa)**  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. [More information about the freelance visa](/guides/how-to-get-a-german-freelance-visa).
 - **[[Student visa]]**  
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies.
