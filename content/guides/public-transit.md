@@ -32,7 +32,7 @@ Berlin has 3 public transit zones: A, B and C:
 
 You can buy an AB, BC or ABC ticket, depending on the zones you travel in. Most things are in zones A and B, but the BER airport is in zone C.
 
-If you are caught with the wrong ticket, you get a {{BVG_FINE}}€ fine. It's like riding without a ticket.
+If you are caught with the wrong ticket, you get a {{BVG_FINE|cur}}€ fine. It's like riding without a ticket.
 
 If you already have an AB ticket, and you want to go to zone C, get an [extention ticket (*Anschlussfahrausweis*)](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/extension-ticket/). It's cheaper than an ABC ticket.
 
@@ -85,13 +85,13 @@ You can buy a single ticket. It's valid for 2 hours in 1 direction. You can also
 
 ### If you get caught without a ticket
 
-There are *Kontrolleur* who enter the train and check everyone's tickets. They wait until the doors close, so you can't run away. If your ticket is not valid, you will get a {{BVG_FINE}}€ fine.
+There are *Kontrolleur* who enter the train and check everyone's tickets. They wait until the doors close, so you can't run away. If your ticket is not valid, you will get a {{BVG_FINE|cur}}€ fine.
 
 **[How to pay a BVG fine ➞](/guides/paying-a-bvg-fine)**
 
 ## Step 2: Validate your ticket
 
-**When you buy a ticket, you must stamp it**. If you don't stamp your ticket, it's not valid. If you are caught with an unstamped you get a {{BVG_FINE}}€ fine. It's like riding without a ticket.
+**When you buy a ticket, you must stamp it**. If you don't stamp your ticket, it's not valid. If you are caught with an unstamped you get a {{BVG_FINE|cur}}€ fine. It's like riding without a ticket.
 
 You can validate your ticket at a stamping machine. These machines are on train platforms, and inside trams and buses. Look for a yellow or red metal box.
 

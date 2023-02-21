@@ -507,7 +507,7 @@ You can choose to calculate VAT payments based on the revenue you *should* have 
         Check this box if you want to charge VAT based on the amount you *actually* have collected. You only make VAT payments once you receive money from your customers. If you are a freelancer or a small business, this is the  
          best option for you.[^12]
 - **Ich beantrage die Istversteuerung, weil der [...] Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__20.html) genannten Betrag voraussichtlich nicht übersteigen wird.**  
-    Check this box if you chose *Istversteuerung*, and you expect to make less than {{DOUBLE_ENTRY_MIN_REVENUE}}€ in revenue during your first year.[^14]
+    Check this box if you chose *Istversteuerung*, and you expect to make less than {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ in revenue during your first year.[^14]
 - **Ich beantrage die Istversteuerung, weil ich von der Verpflichtung, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, nach [§ 148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456) befreit bin**  
     Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because of [§148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456). In other words, check this box if you think double entry bookkeeping would be too hard for your business.
 - **Ich beantrage die Istversteuerung, weil ich Umsätze ausführe, für die ich als Angehöriger eines freien Berufs im Sinne von [§ 18 Abs. 1 Nr. 1 EStG](https://www.gesetze-im-internet.de/estg/__18.html) weder buchführungspflichtig bin noch freiwillig Bücher führe**  

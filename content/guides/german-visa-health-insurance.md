@@ -23,7 +23,7 @@ When you apply for a tourist visa ([[Schengen visa]]), **you just need travel in
 
 ## For a work visa or Blue Card
 
-If you have job offer, you can apply for [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before you come to Germany. If your salary is over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME}}€ per year, you can also choose [private health insurance](/glossary/private%20Krankenversicherung).
+If you have job offer, you can apply for [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before you come to Germany. If your salary is over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you can also choose [private health insurance](/glossary/private%20Krankenversicherung).
 
 [[Expat health insurance]] also works, but you must switch to public or private health insurance when you start working in Germany.[^0] You can use expat health insurance as a temporary health insurance before you start working.
 

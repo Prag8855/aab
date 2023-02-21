@@ -72,15 +72,15 @@ In Berlin, [the *Gewerbeanmeldung* can be done online](https://service.berlin.de
 
 ### The Gewerbesteuer (trade tax)
 
-All businesses must pay the *Gewerbesteuer*[^9],[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year.[^10] See [this guide](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/) for a detailed explanation of the trade tax.
+All businesses must pay the *Gewerbesteuer*[^9],[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in [profit](/glossary/Gewinn) per year.[^10] See [this guide](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/) for a detailed explanation of the trade tax.
 
-Small businesses (*Kleinunternehmer*) are not exempt from the trade tax,[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG}}€ in [profit](/glossary/Gewinn) per year.
+Small businesses (*Kleinunternehmer*) are not exempt from the trade tax,[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in [profit](/glossary/Gewinn) per year.
 
 **[What is the trade tax? ➞](/guides/gewerbesteuer)**
 
 ### Double entry bookkeeping
 
-*Gewerbe* that generate more than {{DOUBLE_ENTRY_MIN_INCOME}}€ in [profit](/glossary/Gewinn) or more than {{DOUBLE_ENTRY_MIN_REVENUE}}€ in [revenue](/glossary/Umsatz) **and** that are listed in the *[[Handelsregister]]* must use double entry bookkeeping.[^12]
+*Gewerbe* that generate more than {{DOUBLE_ENTRY_MIN_INCOME|cur}}€ in [profit](/glossary/Gewinn) or more than {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ in [revenue](/glossary/Umsatz) **and** that are listed in the *[[Handelsregister]]* must use double entry bookkeeping.[^12]
 
 See [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalance.com/what-is-best-single-entry-or-double-entry-bookkeeping-393004) for an explanation of what double entry bookkeeping is. In essence, it's a lot more work, but it makes sense for larger businesses with a lot of customers and suppliers.
 

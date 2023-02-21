@@ -8,6 +8,6 @@ Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md, guides/gez-rundfunkbeitrag.md, guides/moving-out.md, guides/moving-in.md
 ---
 
-The TV tax (*Rundfunkbeitrag*) is a public broadcasting fee in Germany. Every household in Germany must pay it. It costs {{RUNDFUNKBEITRAG_FEE}}€ per month. It's collected by the *[[ARD ZDF Deutschlandradio Beitragsservice]]*.
+The TV tax (*Rundfunkbeitrag*) is a public broadcasting fee in Germany. Every household in Germany must pay it. It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. It's collected by the *[[ARD ZDF Deutschlandradio Beitragsservice]]*.
 
 **[More information about the TV tax ➞](/guides/gez-rundfunkbeitrag)**

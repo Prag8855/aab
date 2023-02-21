@@ -6,7 +6,7 @@ Date_created: 2017-09-29
 Date_updated: 2022-08-26
 ---
 
-If you use public transit without a valid ticket, the [[BVG]] can give you a {{BVG_FINE}}€ fine. This guide shows you what to do when you get a fine.
+If you use public transit without a valid ticket, the [[BVG]] can give you a {{BVG_FINE|cur}}€ fine. This guide shows you what to do when you get a fine.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -17,7 +17,7 @@ If you use public transit without a valid ticket, the [[BVG]] can give you a {{B
 1. **You had a valid ticket**. For example, you have a BVG monthly ticket, but you forgot it at home. An unstamped ticket is not a valid ticket.
 2. **and your ticket is not transferable**. This means that no one else can use it, because your name is written on it. For example, the student card (*Schülerticket*) is not transferable.[^1] Most other tickets are transferable.
 
-If you meet both conditions, you can reduce your fine from {{BVG_FINE}}€ to {{BVG_REDUCED_FINE}}€.[^0] You must use [the BVG online self-service](https://www.bvg-ebe.de/en/selfservice/login). After you get the fine, you have 7 days to react. You can do it [online](https://www.bvg-ebe.de/en/), or at any BVG service centre. If you got a fine on the S-Bahn, you must go to a [[Deutsche Bahn]] service centre.
+If you meet both conditions, you can reduce your fine from {{BVG_FINE|cur}}€ to {{BVG_REDUCED_FINE|cur}}€.[^0] You must use [the BVG online self-service](https://www.bvg-ebe.de/en/selfservice/login). After you get the fine, you have 7 days to react. You can do it [online](https://www.bvg-ebe.de/en/), or at any BVG service centre. If you got a fine on the S-Bahn, you must go to a [[Deutsche Bahn]] service centre.
 
 Even if you don't meet those conditions, you can try to get a reduced fine.[^2] Some people get lucky.
 

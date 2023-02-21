@@ -55,7 +55,7 @@ You must do this before you apply for apartments:
 - **Floors are not counted the same way**  
     In North America, the first floor is the ground floor. In Germany, there is the ground floor (*Erdgeschoss* or *EG*), then the first floor.
 - **The [TV tax](/guides/gez-rundfunkbeitrag)**  
-    Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
+    Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
 
 ## Your options
 
@@ -286,7 +286,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 - **You must pay a bribe**  
     The previous tenant or the landlord asks for a bribe to give you the apartment.[^21] This is illegal, but they know that someone will pay it.
 - **The landlord is in another country**  
-    This is a common scam.[^22] The landlord is not in Germany, but wants to mail the keys after you pay a [deposit](/guides/mietkaution). The apartment does not exist. They will steal your deposit money, and disappear.
+    This is a common scam.[^22] The landlord is not in Germany, but wants to mail the keys after you pay a [deposit](/glossary/Kaution). The apartment does not exist. They will steal your deposit money, and disappear.
 - **Agent fees**  
     You never pay an agent fee ([*Maklergebühr*](/glossary/Provision) or *[[Provision]]*), unless *you* hired the agent.[^23] Furnished apartments often have a booking fee.[^24]
 - **Identity theft**  

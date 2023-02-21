@@ -8,7 +8,7 @@ Date_updated: 2022-06-06
 Related_guides: guides/fragebogen-zur-steuerlichen-erfassung.md, guides/german-health-insurance.md
 ---
 
-In Germany, a minijob or a {{MINIJOB_MAX_INCOME}}-Euro-Job is a job that pays {{MINIJOB_MAX_INCOME}}€/month or less.[^0] There are a few benefits to minijobs:
+In Germany, a minijob or a {{MINIJOB_MAX_INCOME}}-Euro-Job is a job that pays {{MINIJOB_MAX_INCOME|cur}}€/month or less.[^0] There are a few benefits to minijobs:
 
 - If you only have a minijob, you don't need to pay income tax,[^1] [unemployment insurance](/glossary/Arbeitslosenversicherung) or public pension contributions.
 - If you only have a minijob, you can use your spouse's or your parents' public health insurance.[^2]

@@ -56,9 +56,9 @@ Bring these documents to your appointment:
 - **Your [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a residence permit, bring it with you. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8]
 - **Your vehicle registration papers**  
-    If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs {{VEHICLE_UMMELDUNG_FEE}}€ per vehicle.
+    If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle.
 - **Cash** or a **Girokarte**  
-    The *Anmeldung* is free, but if you have vehicles, it costs {{VEHICLE_UMMELDUNG_FEE}}€ per vehicle. You can only pay with cash, or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
+    The *Anmeldung* is free, but if you have vehicles, it costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash, or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
 If this is your first *Anmeldung*, you must also bring:
 
@@ -209,7 +209,7 @@ If you were baptised in your home country, they might collect church tax [even i
 
 ### How much does the Anmeldung cost?
 
-**It's free**, but if you must update your vehicle registration papers, you must pay {{VEHICLE_UMMELDUNG_FEE}}€ per vehicle. You can only pay with cash or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
+**It's free**, but if you must update your vehicle registration papers, you must pay {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
 ### How many people can register at one address?
 

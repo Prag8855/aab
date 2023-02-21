@@ -40,7 +40,7 @@ Since Brexit, UK citizens also need a freelance visa.
 - **You must have health insurance**  
     All German residents must have [health insurance](/guides/german-health-insurance). Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
 - **You must make enough money**  
-    You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME}}€ per month.[^49]
+    You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49]
 - **You must have clients in Germany**  
     You can't get a freelance visa if all your clients are in another country. During your visa interview, you must show [letters of intent](/glossary/Absichtserkl%C3%A4rung) from German companies who want to hire you. When you renew your visa, you must prove that you had German clients.
 
@@ -103,8 +103,8 @@ If you are older than 45, you must also prove that you are prepared for retireme
 
 You must prove that you are on a private pension plan that guarantees:[^14]
 
-- {{FREELANCE_VISA_MIN_MONTHLY_PENSION}}€ per month for at least 12 years by the time you are 67 years old
-- **or** at least {{FREELANCE_VISA_MIN_PENSION}}€ worth of assets[^14] by the time you are 67 years old
+- {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years by the time you are 67 years old
+- **or** at least {{FREELANCE_VISA_MIN_PENSION|cur}}€ worth of assets[^14] by the time you are 67 years old
 
 ## Two ways to apply
 
@@ -287,8 +287,8 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **2 passport photos**  
     *[Detailed guide](/guides/biometric-pictures-in-berlin)*  
     You need two 35 × 45mm biometric pictures. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin), including from the photo booth at the *Ausländerbehörde*.[^26] You do not need to cut the passport photos yourself; they have a tool for this.[^27]
-- **{{NATIONAL_VISA_FEE}}€ for the visa application fees**
-    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE}}€.[^25] You only need to pay when you get your visa. If you don't get a visa, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
+- **{{NATIONAL_VISA_FEE|cur}}€ for the visa application fees**
+    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only need to pay when you get your visa. If you don't get a visa, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
 - **Proof of health insurance coverage**
     **[Detailed guide](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)**  
     Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) has more details.
@@ -359,7 +359,7 @@ This list contains the same documents as above. You can use it as a checklist wh
     - Company profile (not required for *[[Freiberufler]]*)
     - Capital requirement plan (not required for *[[Freiberufler]]*)
     - Business concept (not required for *[[Freiberufler]]*)
-- Cash for the application fee, {{NATIONAL_VISA_FEE}}€
+- Cash for the application fee, {{NATIONAL_VISA_FEE|cur}}€
 - Cover letter (*Anschreiben*)
 - CV or resume
 - Financing plan (*Finanzierungsplan*)
@@ -388,7 +388,7 @@ You can leave Germany **for up to 6 months**.[^47]
 
 ### What is the minimum income for the German freelance visa?
 
-In Berlin, you must earn **enough to pay for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME}}€ per month**.[^49] For example, if your rent is 800€ per month, and your health insurance 400€ per month, you must earn at least 1,649€ per month (800€ + 400€ + {{FREELANCE_VISA_MIN_INCOME}}€).
+In Berlin, you must earn **enough to pay for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month**.[^49] For example, if your rent is 800€ per month, and your health insurance 400€ per month, you must earn at least 1,649€ per month (800€ + 400€ + {{FREELANCE_VISA_MIN_INCOME|cur}}€).
 
 ### Can I get a permanent residence with a freelance visa?
 

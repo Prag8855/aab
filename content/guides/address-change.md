@@ -36,7 +36,7 @@ The *Bürgeramt* will tell other people your new address:
 - **The Ausländerbehörde**  
     Bring your [residence permit](/glossary/Aufenthaltstitel) to your *Anmeldung* appointment. They will put a sticker on it with your new address. You don't need to go to the *[[Ausländerbehörde]]* to update your residence permit.
 - **The Kfz-Zulassungsstelle**  
-    Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs {{VEHICLE_UMMELDUNG_FEE}}€ per vehicle.
+    Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle.
 
 ## Notify everyone
 
