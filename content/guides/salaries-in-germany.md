@@ -15,7 +15,7 @@ These tools help you find how much you should earn.
 
 - **[Office of Statistics salary calculator](https://service.destatis.de/DE/gehaltsvergleich/beruf.html)** (in German) - Find salaries by job title.
 - [Glassdoor](https://www.glassdoor.de/Geh%C3%A4lter/index.htm) and [Kununu](https://www.kununu.com/) - Find salaries by job title. You need an account.
-- [Gehalt.de](/out/gehalt-salaries) (in German) - find salaries by job title
+- [Gehalt.de](https://www.gehalt.de/) (in German) - find salaries by job title
 - [Levels.fyi](https://www.levels.fyi/Salaries/Software-Engineer/Berlin-Germany/) - IT salaries
 - [Startup salary survey](https://berlinstartupjobs.com/startup-salary-survey/) - Yearly survey by BerlinStartupJobs
 - [Developer salaries in Germany (2021)](https://cult.honeypot.io/developer-salary-report-2021/developer-salaries-germany-2021) - Honeypot.io
