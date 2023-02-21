@@ -86,14 +86,12 @@ If you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, 
     - **Web designers** must prove that they do design, not programming or maintenance.[^5] Designing websites is art, so it's accepted. Programming and maintenance is technical work, so it's not accepted.
     - **Fashion designers** can't sell their own clothes.[^6] Designing clothes is art, so it's accepted. Making clothes is manual craft, so it's not accepted.
 - **Musicians**  
-    This includes singers, DJs,[^7] audio designers, voice actors, and many more. Your music must be the focus of the event. For example, wedding musicians are not accepted.  
-    
+    This includes singers, DJs,[^7] audio designers, voice actors, and many more. Your music must be the focus of the event. For example, wedding musicians are not accepted.
     - **DJs** must prove that they create art.[^8] Making music is art, so it's accepted. Playing someone else's music is technical work, so it's not accepted.
     - **Orchestra musicians** are rarely accepted, because they are rarely self-employed.
     - **Wedding singers** sometimes get rejected, because their music is not the focus of the event. Some get accepted. You never know.
 - **Publicists**  
-    This includes writers, journalists, bloggers,[^9] authors, reporters, copywriters, copy editors, YouTubers,[^10] influencers, some translators, and many more. You must work in an artistic or journalistic context. It must require some creativity. Working on artistic texts is art, so it's accepted. Working on scientific texts is journalism, so it's accepted. In general, if you get credit for your work, it's probably artistic or journalistic enough.  
-    
+    This includes writers, journalists, bloggers,[^9] authors, reporters, copywriters, copy editors, YouTubers,[^10] influencers, some translators, and many more. You must work in an artistic or journalistic context. It must require some creativity. Working on artistic texts is art, so it's accepted. Working on scientific texts is journalism, so it's accepted. In general, if you get credit for your work, it's probably artistic or journalistic enough.
     - **Translators** are not always accepted. Verbatim translations are not creative enough,[^11] so they are rejected.
     - **Publishers** are rarely accepted, because they are distributors, not artists or publicists. They don't create their own texts.
     - **Curators** are not always accepted. They must make money from their own content (books, catalogues), not from administrative tasks.
@@ -313,8 +311,7 @@ When you fill the [KSK application form](/out/ksk-application-form), you must se
 - **Letters of reference from your clients**  
     For example, a letter from a client that explains what kind of work you do for them.[^32]
 - **Advertising material**  
-    For example, posters for your shows, photos of you on stage, business cards, social media profiles, or a website that advertises your services. Posters from big venues and ads in famous magazines help a lot.  
-    
+    For example, posters for your shows, photos of you on stage, business cards, social media profiles, or a website that advertises your services. Posters from big venues and ads in famous magazines help a lot.
     - **Personal website**  
         If possible, your personal website should show that you sell your services.
 
@@ -338,8 +335,7 @@ These documents prove that you make money from artistic activities. They are als
 ### Health insurance documents
 
 - **Proof of health insurance** (*Mitgliedbescheinigung*)  
-    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).  
-    
+    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
     - **[Public health insurance exemption form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/Befreiung_von_der_gesetzl._KV.pdf)**  
         If you want to [keep your private health insurance](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk) after you join the KSK, include this form.
     - **Private health insurance contract**  
@@ -433,8 +429,7 @@ If you are not sure about this, [talk to a health insurance broker](/guides/germ
 **Usually, yes.** It depends on what you do:[^42]
 
 - **Freelance artist + regular job**  
-    If you are a freelance artist *and* an employee, you can usually stay in the KSK.  
-    
+    If you are a freelance artist *and* an employee, you can usually stay in the KSK.
     - **If your job is a [minijob](/glossary/Minijob)**  
         If your job pays less than {{MINIJOB_MAX_INCOME|cur}}€ per month, the KSK pays for half of your health insurance, and half of your pension insurance. Your job makes no difference.[^43]
     - **If most of your income is from your job**  

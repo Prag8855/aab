@@ -262,14 +262,12 @@ If you want to do it yourself, here are the steps:[^19]
         3. **or** [form V0902](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0902.html) (French)
 4. **Download and fill the payment information form** (*Zahlungserklärung*)  
     If you use a bank in another country, your refund will take 2 months longer.  
-    
     1. If the bank account is in Germany:
         1. If it's your bank account, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html). Transfers to German bank accounts are *much* faster.
         2. If it's not your bank account, fill [form A1313](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1313.html).
     2. If the bank account is in Canada or the United States, fill [form A1312](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1312.html).
     3. If the bank account is in Italy, fill [form A1311](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1311.html).
-    4. If the bank account is in any other country, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html).
-     
+    4. If the bank account is in any other country, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html).  
     The payment information form asks for a PANR, a BXNR and a ZANR. You don't have those numbers.[^22] Leave those fields empty.
 5. **Collect the other documents**[^39]
     1. **A certified copy of your passport**  
@@ -282,10 +280,7 @@ If you want to do it yourself, here are the steps:[^19]
         This can be a certificate from the tax office, a registration certificate, or anything that proves that you live in that country. In some cases, you must go to a German embassy to verify your identity. The Deutsche Versicherung will tell you what they need after you apply. It's different for everyone.
     5. If you are applying for someone else, add a power of attorney letter (*[[Vollmacht]]*).
 6. **Send everything to the Deutsche Rentenversicherung**  
-    Send all the required forms and documents.[^24] Don't send the documents before the end of the 2 year waiting period. If you send your documents too early, they will send them back to you.  
-    > Deutsche Rentenversicherung Bund  
-    > 10704 Berlin  
-    > (there is no street number, because the Deutsche Rentenversicherung has its own post code)
+    Send all the required forms and documents to *Deutsche Rentenversicherung Bund 10704 Berlin.*[^24] Don't send the documents before the end of the 2 year waiting period. If you send your documents too early, they will send them back to you.
 7. **Wait for an answer**  
     The Deutsche Rentenversicherung will review your case. If they need more information, they will contact you.[^25] They will contact you by post, in German. You might need to mail more documents later.[^26] You might need to go to the German embassy or consulate to prove that you live in that country. Each employee wants something different. You must be patient.
 8. **Get your refund**  

@@ -148,16 +148,14 @@ In this section, you share information about you.
     - **Postleitzahl, Wohnort** - [Post code](/glossary/Postleitzahl), locality  
         Your [post code](/glossary/Postleitzahl) and locality. For example, "10115" and "Berlin".
 - **Adresse im Ausland** - Address abroad  
-    If you have an address outside of Germany, write it here. This is optional.  
-    
+    If you have an address outside of Germany, write it here. This is optional.
     - **Straße, Hausnummer, Hausnummerzusatz** - Street, house number, extra house number information
     - **Adressergänzung** - Address extension
     - **Postleitzahl, Wohnort** - Post code, locality  
         Your post code and locality abroad. For example, "10118" and "New York".
     - **Staat** - Country
 - **Postfach** - Post office box  
-    If you have a P.O. box, write it here. This is optional.  
-    
+    If you have a P.O. box, write it here. This is optional.
     - **Postfach** - Post office box  
         For example, "3 22 63"
     - **Postleitzahl, Ort** - [Post code](/glossary/Postleitzahl), locality  
@@ -302,8 +300,7 @@ If you have multiple business locations, add them here.
 If you already have an entry in the trade register (*[[Handelsregister]]*), fill this section. If this is a new business, you can skip this section. For more information about the trade register, read [this guide](/guides/handelsregisternummer-germany).
 
 - **Eine Eintragung ist beabsichtigt** - Registration is intended  
-    Select "Ja" if you want an entry in the trade register.  
-    
+    Select "Ja" if you want an entry in the trade register.
     - Freelancers (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) don't need to be in the *Handelsregister*.[^2]
     - Small businesses (*[[Kleinunternehmer]]*) don't need to be in the *Handelsregister*,[^2] but they can choose to be.
     - Being in the *Handelsregister* forces you to use double entry bookkeeping.[^8] This can make things really complicated for a small business or freelancer.
@@ -400,17 +397,14 @@ There are 4 columns to fill:
 In this section, you choose how you report your income to the *Finanzamt*.
 
 - **Gewinnermittlungsart** - Type of profit assessment  
-    This is how you report your profit to the *Finanzamt*. Read [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalance.com/what-is-best-single-entry-or-double-entry-bookkeeping-393004) to compare single and double entry bookkeeping. If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).  
-    
+    This is how you report your profit to the *Finanzamt*. Read [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalance.com/what-is-best-single-entry-or-double-entry-bookkeeping-393004) to compare single and double entry bookkeeping. If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).
     - **Gewinn- und Verlustrechnung** - Profit and loss statement  
-        Also known as double entry bookkeeping. In some cases, you are forced to use double entry bookkeeping.  
-        
+        Also known as double entry bookkeeping. In some cases, you are forced to use double entry bookkeeping.
         - If you will be registered in the *[[Handelsregister]]*, you must choose this option.[^2]
-        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_INCOME}}€ per year in profit, you must choose this option.[^2]
-        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_REVENUE}}€ per year in revenue, you must choose this option.[^2]
+        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_INCOME|cur}}€ per year in profit, you must choose this option.[^2]
+        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ per year in revenue, you must choose this option.[^2]
     - **Einnahmen-Überschuss-Rechnung** - Income surplus calculation  
-        Also known as single entry bookkeeping or cash-basis accounting. This is simpler than double entry bookkeeping.  
-        
+        Also known as single entry bookkeeping or cash-basis accounting. This is simpler than double entry bookkeeping.
         - If you register as a *[[Freiberufler]]*, you do not need to use double entry bookkeeping.[^2] Single entry bookkeeping can be easier for you.
         - If you are a small business (*[[Kleinunternehmer]]*), you do not need to use double entry bookkeeping.[^2] Single entry bookkeeping can be easier for you.
     - **Betriebsvermögensvergleich** - Comparison of business assets
