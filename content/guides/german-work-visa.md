@@ -26,13 +26,13 @@ You **do not need** a residence permit if:
 
 - You are a citizen or [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the European Union, Iceland, Liechtenstein, Norway or Switzerland[^0]
 - **or** your current residence permit lets you work in Germany. For example, the German [student visa](/glossary/Student%20visa) lets you work up to 120 days or 240 half days per year.[^1]
-- 
+- **or** you want to be self-employed. You need a [freelance visa](/glossary/Freelance%20visa) for this.
 
 [Use this tool](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/migration-check-english) to know if you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
 
 ## Types of German work visas
 
-Many types of residence permit allow you to work in Germany. The work visa and the Blue Card are not the only options.
+There are many types of [residence permit](/glossary/Aufenthaltstitel) that let you to work in Germany. The work visa and the Blue Card are not your only options.
 
 ### Blue Card
 
