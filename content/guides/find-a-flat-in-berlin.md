@@ -1,7 +1,7 @@
 ---
 Title: How to find an apartment in Berlin
 Short_title: How to find an apartment
-Description: This guide shows you how to find your first apartment or flatshare in Berlin.
+Description: This guide shows you how to find your first apartment or flat share in Berlin.
 Date_created: 2017-09-20
 Date_updated: 2023-01-06
 ---
@@ -16,7 +16,7 @@ This guide shows you how to find your first apartment or [WG](/glossary/WG) in B
 
 **Yes**. It's really hard.[^0] You must send hundreds of applications to find something.[^1] It can take months to find an apartment.
 
-During your search, you might need a temporary place to live. For example, you can stay with a friend, or rent a [temporary furnished apartment](#furnished-apartment).
+During your search, you might need a temporary place to live. For example, you can stay with a friend, or rent a [short-term furnished apartment](#short-term-and-furnished-apartments).
 
 ### Finding your first apartment
 
@@ -84,9 +84,9 @@ Furnished apartments are a good temporary solution while you look for a regular 
 
 Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay 19% [VAT](/glossary/Umsatzsteuer).[^5]
 
-**[Look for furnished apartments ↓](#short-term-and-furnished-apartments)**
+**[Look for short-term apartments ↓](#short-term-and-furnished-apartments)**
 
-### Flatshare ([[WG]])
+### Flat share ([[WG]])
 
 Sharing an apartment with other people is cheaper and easier:
 
@@ -101,7 +101,7 @@ Finding a [[WG]] is a little easier, but still very hard.[^6]
 
 Usually, you must pass an interview with your roommates. Most WG interviews are like a personality test, but interviews for a *[[Zweck-WG]]* are more formal.
 
-**[Look for flat shares ↓](#wgs-flatshares-and-roommates)**
+**[Look for flat shares ↓](#wgs-flat-shares-and-roommates)**
 
 ### Student housing
 
