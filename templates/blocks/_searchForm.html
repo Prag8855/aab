@@ -59,6 +59,9 @@ window.addEventListener("DOMContentLoaded", function() {
 
     searchInput.addEventListener('keydown', e => {
       if(searchResults.length && e.key === "Enter"){
+        try {
+          plausible('Search', { props: { query: searchInput.value.trim(), destination: searchResults[selectedResultIndex].url, position: selectedResultIndex }});
+        } catch (e) {}
         window.location = searchResults[selectedResultIndex].url;
       }
       else if(searchResults.length && e.key === "ArrowUp"){
