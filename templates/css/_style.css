@@ -443,6 +443,9 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 	.form h2{margin:var(--spacing-l) 0 var(--spacing-m);padding:0;border-top:none}
 	.form:last-child{margin-bottom:0}
 	.form-group{display:grid;margin:var(--spacing-m) 0;grid-template-columns:240px 1fr;grid-gap:var(--spacing-m)}
+		.form-recipient{display:flex;align-items:center;}
+			.form-recipient img{width:125px;height:125px;border:none;margin-right:var(--spacing-m);border-radius:100%}
+			.form-recipient p{margin:0}
 	input:not([type=range]), textarea, select, .toggle, .date-picker{flex:1 1 auto;border-radius:var(--border-radius);appearance:none;background:var(--color-background-input);max-width:100%;line-height:var(--line-height-compact)}
 		input[type=date], input[type=text], input[type=number], input[type=tel], input[type=email], input[type=search], .toggle, .date-picker{box-sizing:border-box;font-family:var(--font-family-text);border:var(--border-input);font-size:var(--font-size-m);font-weight:var(--font-weight-text);margin:0;padding:var(--padding-input);color:var(--color-text);transition:var(--transition-border);padding-right:0}
 			input[type=number] {-moz-appearance: textfield;}
@@ -676,6 +679,7 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 
 	.form-group{grid-template-columns:1fr;grid-gap:var(--spacing-s)}
 		.form-group > label, .form-group > .label{font-weight:bold;}
+		.form-recipient img{width:100px;height:100px}
 
 	input, .button{font-size:var(--font-size-s)}
 	.checkbox{margin-bottom:var(--spacing-s)}

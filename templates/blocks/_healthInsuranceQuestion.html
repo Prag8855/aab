@@ -12,7 +12,18 @@
     <div class="body form">
       {% endraw %}{% include "blocks/_formHoneypot.html" %}{% raw %}
       <div v-if="stage === 'contactInfo'">
-        <p>Rob Schumacher is the founder of <a href="/out/popsure" target="_blank">Feather Insurance</a>, an independent insurance broker. He will answer your questions for free.</p>
+        <div class="form-recipient">
+          <img srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x" alt="Dr. Rob Schumacher" width="300" height="300">
+          <p><strong>Dr. Rob Schumacher</strong> will answer your questions for free. He is an independent insurance broker at <a href="/out/popsure" target="_blank">Feather</a>. I work with him since 2018.</p>
+        </div>
+        <hr>
+        <div class="form-group">
+          <label for="question-{% endraw %}{{ id }}{% raw %}">Your question</label>
+          <div class="input-group">
+            <textarea v-model="question" id="question-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder=" "></textarea>
+            <span class="input-symbols"></span>
+          </div>
+        </div>
         <hr>
         <div class="form-group">
           <span class="label">Your occupation</span>
@@ -29,14 +40,6 @@
             <label class="checkbox">
               <input type="checkbox"> I earn more than {% endraw %}{{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}{% raw %}€ per year
             </label>
-          </div>
-        </div>
-        <hr>
-        <div class="form-group">
-          <label for="question-{% endraw %}{{ id }}{% raw %}">Your question</label>
-          <div class="input-group">
-            <textarea v-model="question" id="question-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder=" "></textarea>
-            <span class="input-symbols"></span>
           </div>
         </div>
         <hr>
@@ -63,8 +66,8 @@
             Phone number
           </label>
           <div class="input-group">
-            <input v-model="phoneNumber" type="tel" id="phone-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder="+49..." autocomplete="tel">
-            <span class="input-symbols"></span>
+            <input v-model="phoneNumber" type="tel" id="phone-{% endraw %}{{ id }}{% raw %}" placeholder="+49..." autocomplete="tel">
+            <span class="input-instructions">If you prefer a phone call.</span>
           </div>
         </div>
         <hr>
@@ -121,7 +124,7 @@
                 body: JSON.stringify({
                   name: this.fullName,
                   email: this.emailAddress,
-                  phone: this.phoneNumber,
+                  phone: this.phoneNumber || '',
                   income: this.incomeOverLimit ? 'Over {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}€/year' : 'Under {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}€/year',
                   occupation: this.occupation,
                   dateOfBirth: this.dateOfBirth,

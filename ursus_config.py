@@ -107,6 +107,14 @@ config.image_transforms = {
         'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
         'output_types': ('original', 'webp'),
     },
+    'bioLarge2x': {
+        'include': 'experts/photos/*',
+        'max_size': (250, 250),
+    },
+    'bioLarge1x': {
+        'include': 'experts/photos/*',
+        'max_size': (125, 125),
+    },
     'bio2x': {
         'include': 'experts/photos/*',
         'max_size': (150, 150),
