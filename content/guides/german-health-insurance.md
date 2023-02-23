@@ -291,8 +291,8 @@ If you are an immigrant, **choose a broker who works with expats**. Your needs a
 
 I recommend two insurance brokers:
 
-- Daniel DeRosa at B-Protected. He helped thousands of my readers since 2018. He speaks English.
-- [Feather](/out/popsure). They helped me switch to private health insurance and save over 400€ per month. They speak English.
+- [Feather](/out/popsure). I know them personally, and work with them since 2018. I got my health insurance from them.
+- [Derrick Loehr](https://optimumcapital.de/). He gave me a lot of useful advice about health insurance when I wrote those guides.
 
 ### Price comparison websites
 

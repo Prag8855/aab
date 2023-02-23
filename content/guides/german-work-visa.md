@@ -231,11 +231,11 @@ You need German health insurance to get a residence permit.[^40]
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
-Health insurance brokers help you choose the best health insurance for your needs. Their help is free. I work with B-Protected and Feather since a few years. I know them personally, and I trust their advice. They helped many of my readers.
+Health insurance brokers help you choose the best health insurance for your needs. Their help is free.
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-[Feather](/out/popsure) can also sign you up for health insurance. You take 15 minutes to fill a form, and they do everything else for you. They can get you insured in less than 5 days. Their service is free, they speak English, and their insurance is valid for work visa and Blue Card applications.
+I recommend [Feather Insurance](/out/popsure) because I work with them since 2018. I know the founder and the team personally. They helped me switch to private health insurance in 2021. They helped thousands of my readers over the years.
 
 ### Step 8: Make your residence permit appointment
 

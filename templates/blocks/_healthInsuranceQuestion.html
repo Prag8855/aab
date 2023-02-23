@@ -12,7 +12,7 @@
     <div class="body form">
       {% endraw %}{% include "blocks/_formHoneypot.html" %}{% raw %}
       <div v-if="stage === 'contactInfo'">
-        <p>Daniel is an independent health insurance broker. He answers your questions in one business day, for free.</p>
+        <p>Rob Schumacher is the founder of <a href="/out/popsure" target="_blank">Feather Insurance</a>, an independent insurance broker. He will answer your questions for free.</p>
         <hr>
         <div class="form-group">
           <span class="label">Your occupation</span>
@@ -23,79 +23,65 @@
             <option value="other">Other</option>
           </select>
         </div>
-        <div v-if="occupation !== 'student'">
-          <div class="form-group">
-            <span class="label"></span>
-            <div class="input-group">
-              <label class="checkbox">
-                <input type="checkbox"> I earn more than {% endraw %}{{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}{% raw %}€ per year
-              </label>
-            </div>
-          </div>
-          <hr>
-          <div class="form-group">
-            <label for="question-{% endraw %}{{ id }}{% raw %}">Your question</label>
-            <div class="input-group">
-              <textarea v-model="question" id="question-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder=" "></textarea>
-              <span class="input-symbols"></span>
-            </div>
-          </div>
-          <hr>
-          <div class="form-group">
-            <label for="name-{% endraw %}{{ id }}{% raw %}">
-              Name
+        <div class="form-group">
+          <span class="label"></span>
+          <div class="input-group">
+            <label class="checkbox">
+              <input type="checkbox"> I earn more than {% endraw %}{{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}{% raw %}€ per year
             </label>
-            <div class="input-group">
-              <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="name">
-              <span class="input-symbols"></span>
-            </div>
           </div>
-          <div class="form-group">
-            <label for="email-{% endraw %}{{ id }}{% raw %}">
-              Email
-            </label>
-            <div class="input-group">
-              <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="email">
-              <span class="input-symbols"></span>
-            </div>
-          </div>
-          <div class="form-group">
-            <label for="phone-{% endraw %}{{ id }}{% raw %}">
-              Phone number
-            </label>
-            <div class="input-group">
-              <input v-model="phoneNumber" type="tel" id="phone-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder="+49..." autocomplete="tel">
-              <span class="input-symbols"></span>
-            </div>
-          </div>
-          <hr>
-          <div class="form-group">
-            <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">
-              Date of birth
-            </label>
-            <div class="input-group">
-              <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required></date-picker>
-              <span class="input-symbols"></span>
-              <span class="input-instructions">Your age affects your health insurance options.</span>
-            </div>
-          </div>
-          <button v-if="occupation !== 'student'" class="button submit no-print" @click="submitForm">Ask Daniel</button>
         </div>
-        <div v-if="occupation === 'student'">
-          <hr>
-          <p>
-            Health insurance brokers rarely help students, but <a href="https://allaboutberlin.com/out/popsure-students">Feather</a> does. They can get you covered quickly, and they speak English.</p>
-          <p>
-            Use my <a target="_blank" href="https://allaboutberlin.com/tools/health-insurance-calculator">health insurance calculator</a> to see your options.
-          </p>
-          <p class="buttons">
-            <a class="button" target="_blank" href="https://allaboutberlin.com/out/popsure-students">Ask Feather</a>
-            <a class="button secondary" target="_blank" href="https://allaboutberlin.com/tools/health-insurance-calculator">Use the calculator</a>
-          </p>
+        <hr>
+        <div class="form-group">
+          <label for="question-{% endraw %}{{ id }}{% raw %}">Your question</label>
+          <div class="input-group">
+            <textarea v-model="question" id="question-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder=" "></textarea>
+            <span class="input-symbols"></span>
+          </div>
         </div>
+        <hr>
+        <div class="form-group">
+          <label for="name-{% endraw %}{{ id }}{% raw %}">
+            Name
+          </label>
+          <div class="input-group">
+            <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="name">
+            <span class="input-symbols"></span>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="email-{% endraw %}{{ id }}{% raw %}">
+            Email
+          </label>
+          <div class="input-group">
+            <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="email">
+            <span class="input-symbols"></span>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="phone-{% endraw %}{{ id }}{% raw %}">
+            Phone number
+          </label>
+          <div class="input-group">
+            <input v-model="phoneNumber" type="tel" id="phone-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder="+49..." autocomplete="tel">
+            <span class="input-symbols"></span>
+          </div>
+        </div>
+        <hr>
+        <div class="form-group">
+          <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">
+            Date of birth
+          </label>
+          <div class="input-group">
+            <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required></date-picker>
+            <span class="input-symbols"></span>
+            <span class="input-instructions">Your age affects your health insurance options.</span>
+          </div>
+        </div>
+        <button class="button submit no-print" @click="submitForm">Ask Rob</button>
       </div>
       <div v-if="stage === 'thank-you'">
-        <p><strong>Message sent!</strong> Daniel will contact you today or during the next business day. Expect a call or an email from "B-Protected".</p>
+        <p><strong>Message sent!</strong> Rob will contact you today or during the next business day. Expect an email from Feather.</p>
       </div>
     </div>
   {% endraw %}

@@ -42,7 +42,7 @@ All About Berlin does not sell any services. When my readers have questions I ca
 
 This means I need experts I can trust. They must be honest, know how to work with immigrants, and speak English.
 
-For health insurance, my trusted experts are Feather, B-Protected and Derrick Loehr. I know that their health insurance is [valid for a residence permit application](/guides/german-visa-health-insurance). I know that they recommend public health insurance, even when private health insurance makes them more money. I know that they speak fluent English. I know that their founder cares about more than just money. This is why I recommend them.
+For health insurance, my trusted experts are Feather and Derrick Loehr. I know that their health insurance is [valid for a residence permit application](/guides/german-visa-health-insurance). I know that they recommend public health insurance, even when private health insurance makes them more money. I know that they speak fluent English. I know that their founder cares about more than just money. This is why I recommend them.
 
 I also like to work with health insurance brokers because their advice is free. They get paid by health insurance companies when they sign a new customer. This is very good for my readers, because they don't need to pay to get help.
 
@@ -62,5 +62,5 @@ I recommend Feather, because I know you can trust them. I used their services, I
 
 ## Other insurance brokers I recommend
 
-I work with many different insurance brokers, because I check information with multiple sources. I also recommend Daniel from [B-Protected](https://b-protected.de/). I also work with Daniel since a long time, and he helped hundreds of my readers, even when there was no benefit to him. Like Feather, they help me write guides on this website. I could not write about health insurance without them.
+...
 

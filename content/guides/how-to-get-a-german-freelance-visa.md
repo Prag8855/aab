@@ -186,7 +186,7 @@ If you don't know which health insurance to choose, **just talk to a health insu
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-I work with [Feather](/out/popsure) and B-Protected since a few years. I know them personally. We met dozens of times and worked on many guides together. Feather helped me save over 400€ per month on health insurance. You can trust their advice.
+I work with [Feather Insurance](/out/popsure) since 2018. They helped me get private health insurance and save over 400€ per month. They speak English, and they have a lot of experience with expat freelancers.
 
 **If you are a freelance artist, publicist or art teacher**, you can apply for the *[[Künstlersozialkasse]]* after you get your freelance visa. They will pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). It's a really good deal.
 
