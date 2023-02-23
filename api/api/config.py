@@ -39,10 +39,10 @@ message_types = {
     'forms/health-insurance-question': {
         'title': 'Health insurance question from {name} (All About Berlin)',
         'template_path': 'messages/health-insurance-question.html',
-        'recipients': ['contact@allaboutberlin.com', 'info@bprotected.de'],
+        'recipients': ['contact@allaboutberlin.com', 'hello@feather-insurance.com'],
     },
     'reminders/health-insurance-question-reminder': {
-        'title': 'Daniel will contact you soon',
+        'title': 'Feather will contact you soon',
         'template_path': 'messages/health-insurance-question-reminder.html'
     },
 }
