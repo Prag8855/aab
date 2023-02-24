@@ -8,15 +8,17 @@ Date_updated: 2023-01-04
 
 Degiro is an online broker with low fees. You can buy and sell stocks for a very low fee compared to most German banks. I started using Degiro in 2018. This is my review of their service. My previous review was more negative, but Degiro improved a lot since then. You can [read the old review here](/documents/degiro-review-2019.pdf).
 
-This page has no affiliate links to Degiro. It was not sponsored or approved by them. It is my honest opinion.
-
 {% include "blocks/_tableOfContents.html" %}
 
-## It's only in German
+## In English and German
 
-Degiro is available in English, but only in English-speaking countries. If you live in Germany, **you can't change the language to English**.[^0] The interface and all the documents are in German.
+In 2023, the Degiro interface is in English and in German. Before, it was only in German. This is a big improvement.
 
-If you don't speak German, this can be a problem. You need to answer important questions and understand important documents, all in German.
+![Screenshot of the Degiro website in English](/images/degiro-user-interface-2023-02-24.png "The Degiro user interface in English")
+
+The landing page and some important parts of the registration process are only in German. It's better than before, but it still needs a lot of improvement.
+
+![Screenshot of the Degiro language settings](/images/degiro-english-option-2023-02-24.png "Some things are not translated to English")
 
 ## Low fees
 
@@ -36,7 +38,7 @@ The signup process (in 2018) was **very easy**. After I entered my personal info
 
 Once you are done, you can transfer money to your Degiro account with SOFORT, and a few minutes later, you are ready to trade.
 
-You need good knowledge of German to sign up and use the website. You might need to fill a questionnaire in German about your trading knowledge. This is required to unlock certain types of trades.
+When I signed up, Degiro was only in German. Now you can sign up in English, but parts of the registration process are still in German. It's a lot better than before, but you still need to understand German.
 
 ### Web and mobile
 
@@ -58,12 +60,10 @@ Moving money between my German bank account and Degiro was never a problem. With
 
 ## Summary
 
-**Would I recommend Degiro?** Yes. It's much better than before. For a casual investor like me, it does exactly what it should.
+**Would I recommend Degiro?** Yes. It's much better than before. For a casual investor like me, it does exactly what it should. It improved a lot since I started using it.
 
 **[Visit the Degiro website ➞](/out/degiro)**
 
 ## Alternatives to Degiro
 
 [**Interactive Brokers**](https://www.interactivebrokers.com/en/home.php) is often mentioned as an alternative to Degiro, and gives you access to US stock options. **[Comdirect](/out/comdirect-depot)**, **[DKB](/out/dkb)**, **[Sparkasse](/out/sparkasse-broker)** and **[1822direkt](/out/1822direkt)** also offer broker accounts. Most classic banks also let you trade stocks, but their transaction fees are usually very high, and their interface is rarely suitable for active traders.
-
-[^0]: [boards.ie](https://www.boards.ie/b/thread/2057637909/5)
