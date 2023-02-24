@@ -234,6 +234,7 @@ There are **three reasons to get expat health insurance**:
 - You plan to live in Germany for less than 5 years
 - **or** you are applying for a German [residence permit](/glossary/Aufenthaltstitel) *for the first time*. Expat insurance is easier to get than public or private health insurance. It's a good *temporary* insurance, until you can get something better.
 - **or** you have no other option, because public and private health insurers rejected you. If you are a freelancer and earn under ~30,000€ per year, it can happen. If you are over 50 years old, it can also happen.
+- **and** you are not a German citizen. German citizens can rarely get expat health insurance.[^33]
 
 ### Compared to public and private health insurance
 
@@ -273,7 +274,7 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 The [*Künstlersozialkasse*](/glossary/K%C3%BCnstlersozialkasse) (KSK) is a social fund for freelance artists, publicists and art teachers. It's funded by the government, and by businesses who hire freelance artists.[^25] When you are a KSK member, they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung).
 
-If you can, you should apply for the *Künstlersozialkasse*. It's a really good deal.
+If you qualify, apply for the *Künstlersozialkasse*. It's a really good deal.
 
 **[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
@@ -341,3 +342,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^30]: [allaboutberlin.com](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance)
 [^31]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/784763808658991/)
 [^32]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
+[^33]: Dr. Rob Schumacher, [Feather Insurance](/out/popsure)
