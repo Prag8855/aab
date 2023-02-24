@@ -1,5 +1,5 @@
 ---
-Name: Lanza &amp; Remuss
+Name: Lanza & Remuss
 Description: Tax and accounting services offered in German, English and Spanish.
 Website: http://www.lanza-remuss.de/
 Email: 

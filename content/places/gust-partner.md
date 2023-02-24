@@ -1,5 +1,5 @@
 ---
-Name: Gust &amp; Partner
+Name: Gust & Partner
 Description: Matthias Gust speaks English
 Website: http://www.gust-partner.de/
 Email: 

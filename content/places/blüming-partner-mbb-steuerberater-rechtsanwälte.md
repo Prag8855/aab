@@ -1,5 +1,5 @@
 ---
-Name: Blüming &amp; Partner mbB Steuerberater Rechtsanwälte
+Name: Blüming & Partner mbB Steuerberater Rechtsanwälte
 Description: Tax and legal consultants. They speak German, English, Spanish, Russian and Chinese.
 Website: http://www.tax-consulting-berlin.com
 Email: tobias.blueming@gmail.com

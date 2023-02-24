@@ -23,7 +23,7 @@ American cheese, the square, "radioactive yellow" cheese that's also known as Kr
 
 ### Baking soda
 
-Sodium bicarbonate is called *Natron* in Germany. It's sold in small paper packets and boxes. You can find it in the baking section of all grocery stores. Look for the green [Kaiser Natron boxes](http://amzn.to/2ysUzPG) and [packets](https://www.amazon.de/Holste-Kaiser-Natron-50-g/dp/B00HL731VU/). You can find Arm &amp; Hammer baking soda at some Asian grocery stores like [Asia24 near Rathaus Steglitz](https://g.page/asia24-asien-supermarkt?share).
+Sodium bicarbonate is called *Natron* in Germany. It's sold in small paper packets and boxes. You can find it in the baking section of all grocery stores. Look for the green [Kaiser Natron boxes](http://amzn.to/2ysUzPG) and [packets](https://www.amazon.de/Holste-Kaiser-Natron-50-g/dp/B00HL731VU/). You can find Arm & Hammer baking soda at some Asian grocery stores like [Asia24 near Rathaus Steglitz](https://g.page/asia24-asien-supermarkt?share).
 
 ### Baking powder
 
@@ -43,11 +43,11 @@ German *Rohrzucker* or *brauner Zucker* is not the same as brown sugar. It does 
 
 ### Chipotles
 
-[Chili &amp; Paprika](http://www.chiliundpaprika.de/) has chipotles.
+[Chili & Paprika](http://www.chiliundpaprika.de/) has chipotles.
 
 ### Chorizo
 
-[Chili &amp; Paprika](http://www.chiliundpaprika.de/) has chorizo.
+[Chili & Paprika](http://www.chiliundpaprika.de/) has chorizo.
 
 ### Condensed milk
 
@@ -57,7 +57,7 @@ Condensed milk can be a false friend for people from the UK at least. If a recip
 
 ### Corn tortillas
 
-Corn tortillas are sold at [Super Iberico](https://www.facebook.com/superibericoberlin/), [Chili &amp; Paprika](http://www.chiliundpaprika.de/) and [Aqui España](http://aqui-espana.de/). [Cintli](https://www.cintli.de/) also sells them [in different stores](https://www.cintli.de/kontakt).
+Corn tortillas are sold at [Super Iberico](https://www.facebook.com/superibericoberlin/), [Chili & Paprika](http://www.chiliundpaprika.de/) and [Aqui España](http://aqui-espana.de/). [Cintli](https://www.cintli.de/) also sells them [in different stores](https://www.cintli.de/kontakt).
 
 ### Couscous spices
 
@@ -121,7 +121,7 @@ KaDeWe and Galeria Kaufhof sell [Libby's](https://www.verybestbaking.com/libbys)
 
 ### Sal de Guzano, sal de Chapulín
 
-[Chili &amp; Paprika](http://www.chiliundpaprika.de/) has agave worm salt and grasshoper salt.
+[Chili & Paprika](http://www.chiliundpaprika.de/) has agave worm salt and grasshoper salt.
 
 ### Self-raising flour
 
@@ -129,7 +129,7 @@ You can get it from most Asian supermarkets, and at Galeria Kaufhof. You can mak
 
 ### Vanilla extract
 
-Vanilla extract hard to find in Germany. I buy it [on Amazon](http://amzn.to/2hzkheJ). Galeria Kaufhof, [Chili &amp; Paprika](http://www.chiliundpaprika.de/), Edeka and [Metro](https://www.metro.de/) also sell it.
+Vanilla extract hard to find in Germany. I buy it [on Amazon](http://amzn.to/2hzkheJ). Galeria Kaufhof, [Chili & Paprika](http://www.chiliundpaprika.de/), Edeka and [Metro](https://www.metro.de/) also sell it.
 
 ### Vegemite
 
@@ -164,7 +164,7 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 ### Latin America
 
 - [Aqui España](http://aqui-espana.de/): Carries some Latin American products
-- [Chili &amp; Paprika](http://www.chiliundpaprika.de/): Food from Mexico, Brasil, Colombia, Argentina, Peru
+- [Chili & Paprika](http://www.chiliundpaprika.de/): Food from Mexico, Brasil, Colombia, Argentina, Peru
 - [Super Iberico](https://www.facebook.com/superibericoberlin/): Latin American supermarket
 
 ### Spain

@@ -1,5 +1,5 @@
 ---
-Name: Zeller &amp; Seyfert
+Name: Zeller & Seyfert
 Description: Specializes in IT and employment law.
 Website: http://zellerseyfert.com/en/law-firm.html
 Email: 

@@ -1,5 +1,5 @@
 ---
-Name: Zahn&amp;Art
+Name: Zahn&Art
 Description: 
 Website: https://www.zahnarzt-berlin-mitte-zahnundart.de/
 Email: 

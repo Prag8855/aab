@@ -1,5 +1,5 @@
 ---
-Name: Dr. Jonathan Burmeister – Defense Lawyer &amp; Attorney
+Name: Dr. Jonathan Burmeister – Defense Lawyer & Attorney
 Description: Defense lawyer and attorney. Specialized in criminal law, migration law and tenancy law.
 Website: https://ra-burmeister.de
 Email: hannesjaacks@gmail.com

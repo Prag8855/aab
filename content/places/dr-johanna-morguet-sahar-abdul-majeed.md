@@ -1,5 +1,5 @@
 ---
-Name: Dr. Johanna Morguet &amp; Sahar Abdul Majeed
+Name: Dr. Johanna Morguet & Sahar Abdul Majeed
 Description: 
 Website: https://www.praxen-morguet-majeed.de/
 Email: 

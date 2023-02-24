@@ -102,7 +102,7 @@ This form is easier to fill if you understand how the Value Added Tax (VAT) work
 
 To register your business, you must fill the [*Fragebogen zur steuerlichen Erfassung*](/glossary/Fragebogen%20zur%20steuerlichen%20Erfassung). This was a paper form, but now it's an online form on ELSTER. The online form is much easier to fill.
 
-To find the form, go on [ELSTER](https://www.elster.de/eportal/start), and in the sidebar, under *Formulare &amp; Leistungen*, click *Alle Formulare* and find the *Fragebogen zur steuerlichen Erfassung für Einzelunternehmen*.
+To find the form, go on [ELSTER](https://www.elster.de/eportal/start), and in the sidebar, under *Formulare & Leistungen*, click *Alle Formulare* and find the *Fragebogen zur steuerlichen Erfassung für Einzelunternehmen*.
 
 [![](/images/elster-fragebogen-zur-steuerlichen-erfassung.png)](/images/elster-fragebogen-zur-steuerlichen-erfassung.png)
 

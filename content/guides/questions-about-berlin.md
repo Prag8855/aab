@@ -22,8 +22,8 @@ You can get help from these communities and services.
 - [/r/berlin](https://reddit.com/r/berlin) - Reddit community
 - [/r/germany](https://reddit.com/r/germany) - Reddit community
 - [Toytown Germany](https://www.toytowngermany.com/) - Forum. Less active than before.
-- [Quora](https://quora.com/) - a general Q&amp;A website
-- [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Q&amp;A website for expatriates
+- [Quora](https://quora.com/) - a general Q&A website
+- [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Q&A website for expatriates
 - [Booka Local](https://www.booka-local.com/) - Hire a local to help you
 
 ### In German

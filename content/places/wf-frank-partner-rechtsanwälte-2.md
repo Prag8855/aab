@@ -1,5 +1,5 @@
 ---
-Name: WF Frank &amp; Partner Rechtsanwälte
+Name: WF Frank & Partner Rechtsanwälte
 Description: Specializes in estate planning.
 Website: http://german-probate-lawyer.com/
 Email: 

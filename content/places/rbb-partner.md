@@ -1,5 +1,5 @@
 ---
-Name: RBB &amp; Partner
+Name: RBB & Partner
 Description: RBB Law is an attorney collective. They provide legal services for media/IT and intellectual property.
 Website: https://www.rbb-law.com/
 Email: contact@rbb-law.com

@@ -1,5 +1,5 @@
 ---
-Name: Denecke Priess &amp; Partner Rechtsanwälte Partnerschaft
+Name: Denecke Priess & Partner Rechtsanwälte Partnerschaft
 Description: Mark Saku Bikangaga speaks English. He specializes in business law.
 Website: http://www.dvhup.com/
 Email: 

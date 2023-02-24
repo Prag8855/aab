@@ -29,7 +29,7 @@ If you need help choosing the right health insurance, ask a [health insurance br
 * ADVOCARD Rechtsschutzversicherung AG
 * AGILA Haustierversicherung Aktiengesellschaft
 * Allcura Versicherungs-Aktiengesellschaft
-* Allianz Global Corporate &amp; Specialty SE
+* Allianz Global Corporate & Specialty SE
 * Allianz Versicherungs-Aktiengesellschaft
 * AllSecur Deutschland AG
 * Alte Leipziger Versicherung Aktiengesellschaft

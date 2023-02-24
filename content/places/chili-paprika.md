@@ -1,5 +1,5 @@
 ---
-Name: Chili &amp; Paprika
+Name: Chili & Paprika
 Description: Sells South American products
 Website: http://www.chiliundpaprika.de/
 Email: 

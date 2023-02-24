@@ -97,7 +97,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 - [Angel.co](https://angel.co/) - International startup job portal
 - [Germany Startup Jobs](http://www.germanystartupjobs.com/) - You can filter jobs by language and salary
 - [Berlin Startup Jobs](https://www.facebook.com/groups/BerlinStartupJobs/?ref=group_header) - Facebook group, 56,000+ members
-- [Berlin Startup Jobs, Internships &amp; Co-founders](https://www.facebook.com/groups/StartupJobsBerlin/?ref=group_header) - Facebook group, 14,000+ members
+- [Berlin Startup Jobs, Internships & Co-founders](https://www.facebook.com/groups/StartupJobsBerlin/?ref=group_header) - Facebook group, 14,000+ members
 
 ### Internships, temp work and [minijobs](/glossary/Minijob)
 

@@ -194,7 +194,7 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 - [Berlin WG, Zimmer, Wohnung](https://www.facebook.com/groups/flatmate.berlin/) - 54,000+ members
 - [Berliner Wohnungsbörse](https://www.facebook.com/groups/547530108636607/) - 50,000+ members
 - [Berlin Housing](https://www.facebook.com/groups/156793591673300/) - 50,000+ members
-- [Berlin apartments &amp; rooms for rent ](https://www.facebook.com/groups/307681233184179/)- 35,000+ members
+- [Berlin apartments & rooms for rent ](https://www.facebook.com/groups/307681233184179/)- 35,000+ members
 - [Wohnungen Berlin und Umgebung](https://www.facebook.com/groups/775519839130669/) - 28,000+ members
 - [Zimmer in Berlin, Zwischenmiete](https://www.facebook.com/groups/251856141592447/) - 25,000+ members
 - [Berlin startup flats](https://www.facebook.com/groups/666822796665326/) - 20,000+ members

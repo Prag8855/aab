@@ -1,5 +1,5 @@
 ---
-Name: Rose &amp; Partner
+Name: Rose & Partner
 Description: 
 Website: https://www.rosepartner.de
 Email: schoenbohm@rosepartner.de

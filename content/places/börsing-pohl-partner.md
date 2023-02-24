@@ -1,5 +1,5 @@
 ---
-Name: Börsing Pohl &amp; Partner
+Name: Börsing Pohl & Partner
 Description: Tax and accounting services offered in German, English, Spanish and Russian.
 Website: http://www.boersing-pohl.de/Englisch_Boersing_Pohl_Berlin.htm
 Email: 

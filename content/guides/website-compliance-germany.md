@@ -131,7 +131,7 @@ An Impressum must be "easily identifiable, directly accessible and constantly av
 
 1. **An Impressum must always contain:**
     - The full name of the website owner, or the full name of the company including its legal form.[^5]
-        - [SAP's Impressum](https://www.sap.com/germany/about/legal/impressum.html) shows the company's full legal name: SAP Deutschland SE &amp; Co. KG
+        - [SAP's Impressum](https://www.sap.com/germany/about/legal/impressum.html) shows the company's full legal name: SAP Deutschland SE & Co. KG
     - An email address that can be used to reach the company or website owner.[^6] You must be quickly reachable electronically, and non-electronically.[^7]
     - The full address of the company or website owner. You cannot use a PO box.[^8]
     - The telephone number and fax number of the website owner. The European Court of Justice says a phone number is not mandatory if the user has alternative options for rapid contact and direct and efficient communication.[^9]

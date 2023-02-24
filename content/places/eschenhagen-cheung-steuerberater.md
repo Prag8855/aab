@@ -1,5 +1,5 @@
 ---
-Name: Eschenhagen &amp; Cheung Steuerberater
+Name: Eschenhagen & Cheung Steuerberater
 Description: Tax and accounting services offered in German and English.
 Website: http://www.eschenhagen.eu/
 Email: 

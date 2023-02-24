@@ -1,5 +1,5 @@
 ---
-Name: Stein &amp; Partners LLP
+Name: Stein & Partners LLP
 Description: Tax and accounting services offered in German, English, French, Polish, Russian and Chinese (Cantonese and Mandarin).
 Website: http://www.stein-partners.com/en/
 Email: 
