@@ -6,4 +6,5 @@ Email:
 Address: Drachenberg
 Latitude: 52.502778
 Longitude: 13.248056
+Google_Place_ID: ChIJi5tkSDxXqEcRXLBgT53cvoE
 ---

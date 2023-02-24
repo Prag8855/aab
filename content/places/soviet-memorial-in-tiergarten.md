@@ -4,6 +4,7 @@ Description: One of Berlin's 3 large memorials to the Soviet soldiers killed dur
 Website: 
 Email: 
 Address: Tiergarten
-Latitude: 52.51638
-Longitude: 13.372006
+Latitude: 52.516379
+Longitude: 13.371998
+Google_Place_ID: ChIJowBWZrhRqEcRseJOgG2yQjw
 ---

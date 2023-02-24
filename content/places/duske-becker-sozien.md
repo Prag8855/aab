@@ -1,5 +1,5 @@
 ---
-Name: Duske &amp; Partner
+Name: Duske & Partner
 Description: Lawyer and tax advisor firm. Speak German, English and French.
 Website: https://www.duskepartner.de/de
 Email: 

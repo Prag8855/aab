@@ -6,4 +6,5 @@ Email:
 Address: Holzhauser Str. 62-68
 Latitude: 52.580634
 Longitude: 13.303809
+Google_Place_ID: ChIJHdB3-nNUqEcR4ttBz3wcw64
 ---

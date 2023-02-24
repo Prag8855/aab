@@ -1,9 +1,10 @@
 ---
-Name: Zahnarztpraxis Dr. Alexander Künzel
+Name: Zahnärzte Künzel
 Description: 
 Website: http://www.drkuenzel.com/english/
 Email: 
-Address: &quot;Kurfürstendamm 69&quot;
-Latitude: 52.50038
-Longitude: 13.30767
+Address: Kurfürstendamm 69
+Latitude: 52.500414
+Longitude: 13.307848
+Google_Place_ID: ChIJyTiBf-hQqEcRr-5alarDwcI
 ---

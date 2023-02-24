@@ -4,6 +4,7 @@ Description:
 Website: http://www.frauen-vital.de/
 Email: 
 Address: Markgrafenstraße 20
-Latitude: 52.632835
-Longitude: 13.303062
+Latitude: 52.507641
+Longitude: 13.394421
+Google_Place_ID: ChIJ-UtXldZRqEcRs8lA0PA8qJg
 ---
