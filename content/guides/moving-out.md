@@ -106,7 +106,7 @@ You have the right to do the repairs yourself. You can't be forced to use a cont
 
 ## Return the keys and get your deposit back
 
-When you give your apartment keys back (the [*Wohnungsübergabe*](/glossary/Wohnungs%C3%BCbergabe)), you will fill a handover document (*[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*). In this document, you describe the condition of the apartment, and what must be repaired.[^34]
+When you give your apartment keys back (the *[[Wohnungsübergabe]]*), you will fill a handover document (*[[Übergabeprotokoll]]*). In this document, you describe the condition of the apartment, and what must be repaired.[^34]
 
 In your *Übergabeprotokoll*, you should record *everything*. Take a lot of pictures. You can even bring a lawyer with you.[^34]
 

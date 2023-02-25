@@ -184,7 +184,7 @@ The [*Bundesagentur für Arbeit*](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit) c
 **Useful links:**
 
 - [How to apply for a Bildungsgutschein](https://careerfoundry.com/en/blog/career-change/how-to-apply-for-a-bildungsgutschein/) - CareerFoundry
-- [List of schools that accept training vouchers](https://kursnet-finden.arbeitsagentur.de/kurs/index.jsp) (German) - [Bundesagentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit%E2%80%8B)
+- [List of schools that accept training vouchers](https://kursnet-finden.arbeitsagentur.de/kurs/index.jsp) (German) - [[Bundesagentur für Arbeit]]
 
 ### DAAD scholarships
 

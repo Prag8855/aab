@@ -44,7 +44,7 @@ After you sign the lease, you will meet with the landlord to...
 - **Read the electricity meter**  
     When you sign an electricity contract, you need to give the electricity provider your meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*). The electricity meter is usually hidden in the basement.
 - **Get the apartment keys**  
-    You will get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*. Some landlords ask you to pay the [deposit](/glossary/Kaution) before they give you the keys, but that's not legal, even if it's written in your lease.[^0]
+    You will get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[[Übergabeprotokoll]]*. Some landlords ask you to pay the [deposit](/glossary/Kaution) before they give you the keys, but that's not legal, even if it's written in your lease.[^0]
 
 ![Apartment keys](/illustrations/apartment-keys.png)
 
@@ -121,7 +121,7 @@ Most providers offer a lower price for the first year or two, then the price goe
 
 If you already have an electricity contract, you can it transfer to your new address, usually for free. If you can cancel your contract, try to get a lower price from another provider.
 
-The electricity contract is activated automatically. No one will visit your apartment. You just need to tell the electricity company your electricity meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You can check it when you sign the *[Übergabeprotokoll](/glossary/%C3%9Cbergabeprotokoll%EF%BB%BF%EF%BB%BF)*.
+The electricity contract is activated automatically. No one will visit your apartment. You just need to tell the electricity company your electricity meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You can check it when you sign the *[[Übergabeprotokoll]]*.
 
 ### Buy furniture and appliances
 

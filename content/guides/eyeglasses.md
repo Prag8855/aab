@@ -40,7 +40,7 @@ The rules for contact lenses are the same as for eyeglasses. Cleaning liquid is 
 
 **Yes**. If you go to an ophthalmologist (*Augenarzt*), the eye test is free.[^4] Your health insurance pays for it. If you have a prescription, and you need glasses for your work, [your employer must pay for them](/guides/eyeglasses#do-employers-cover-glasses).
 
-If you go to an optician (*Optiker*), the test is not covered by your insurance. You must pay for the test yourself. There is one exception: [TK](/glossary/Techniker%20Krankenkasse) pays for tests at the optician, but only for children under 14 years old.[^5]
+If you go to an optician (*[[Optiker]]*), the test is not covered by your insurance. You must pay for the test yourself. There is one exception: [TK](/glossary/Techniker%20Krankenkasse) pays for tests at the optician, but only for children under 14 years old.[^5]
 
 **Useful links:**
 

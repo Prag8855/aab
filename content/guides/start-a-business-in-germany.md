@@ -24,7 +24,7 @@ Accounting and bookkeeping is the hardest part. You usually do it every month. I
 
 If you are [moving to Germany to become a freelancer](/guides/become-a-freelancer-in-germany), it's harder. You must [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin) and [apply for a residence permit](/guides/how-to-get-a-german-freelance-visa), all at the same time. During that time, you can't work (because you don't have a residence permit), so you must have a lot of savings.
 
-If you don't speak German, everything is *much* harder. All the documents are in German. The long [tax registration form](/guides/fragebogen-zur-steuerlichen-erfassung) is in German. The *[Finanzamt](/admin/entries/guides/Finanzamt)* only writes in German. Most accounting tools are only in German. You will need help from someone who speaks German.
+If you don't speak German, everything is *much* harder. All the documents are in German. The long [tax registration form](/guides/fragebogen-zur-steuerlichen-erfassung) is in German. The *[[Finanzamt]]* only writes in German. Most accounting tools are only in German. You will need help from someone who speaks German.
 
 There are tools that make it easier:
 

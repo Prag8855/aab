@@ -10,7 +10,7 @@ Related_guides: guides/start-a-business-in-germany.md, guides/german-health-insu
 
 Unemployment benefits (*Arbeitslosengeld I* or *ALG I*) is a type of social assistance in Germany.
 
-You get *ALG I* when you lose your job. You only get *ALG 1* if you have paid unemployment insurance for at least 12 months in the last 30 months.[^0] You must apply for *ALG I* at the *[Bundesagentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit%E2%80%8B)*.[^1]
+You get *ALG I* when you lose your job. You only get *ALG 1* if you have paid unemployment insurance for at least 12 months in the last 30 months.[^0] You must apply for *ALG I* at the *[[Bundesagentur für Arbeit]]*.[^1]
 
 Most employees must pay for [unemployment insurance](/glossary/Arbeitslosenversicherung). If you are self-employed, unemployment insurance is optional.[^2] This means that most unemployed people can't get *ALG I*.
 
