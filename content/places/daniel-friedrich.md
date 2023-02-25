@@ -6,4 +6,5 @@ Email: kontakt@therapie-friedrich.de
 Address: Chausseestraße 56
 Latitude: 52.536444
 Longitude: 13.376506
+Google_Place_ID: ChIJAfsc64tTqEcR3hMSm_Rx6g4
 ---

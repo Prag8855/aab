@@ -4,6 +4,7 @@ Description: Tax and accounting services offered in German and English. Suat is 
 Website: http://www.stb-goeydeniz.de/
 Email: 
 Address: Kottbusser Damm 68
-Latitude: 52.489281
-Longitude: 13.424967
+Latitude: 52.489191
+Longitude: 13.424911
+Google_Place_ID: ChIJDR2nUrZPqEcRU17QkKEsW8U
 ---

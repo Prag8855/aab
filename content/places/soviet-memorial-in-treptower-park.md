@@ -4,6 +4,7 @@ Description: One of Berlin's 3 large memorials to the Soviet soldiers killed dur
 Website: http://www.visitberlin.de/de/ort/sowjetisches-ehrenmal-treptow
 Email: 
 Address: Puschkinallee
-Latitude: 52.491605
-Longitude: 13.463482
+Latitude: 52.486139
+Longitude: 13.471958
+Google_Place_ID: ChIJi1A2tR5PqEcRQCxyKJbI3AI
 ---

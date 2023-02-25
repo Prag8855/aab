@@ -1,9 +1,10 @@
 ---
 Name: Friseur Viktor Leske
 Description: 
-Website: http://www.viktorleske.net/
+Website: https://www.viktorleske.net/
 Email: 
 Address: Lausitzer Pl. 1
-Latitude: 52.500633
-Longitude: 13.429373
+Latitude: 52.500594
+Longitude: 13.429558
+Google_Place_ID: ChIJqwbxakpOqEcRKSYTra4xGTo
 ---

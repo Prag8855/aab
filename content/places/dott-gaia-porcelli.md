@@ -1,9 +1,10 @@
 ---
 Name: Dott. Gaia Porcelli
 Description: Psychologist. Specialises in women's empowerment, psychological effects of abuses. Speaks English and Italian. Private pay only.
-Website: https://complicated.life/find-a-therapist/berlin/m-sc-clinical-psychology-gaia-porcelli
+Website: https://www.complicated.life/find-a-therapist/germany/clinical-psychologist-gaia-porcelli
 Email: por.psychologist@gmail.com
-Address: Bleibtreustraße 4
-Latitude: 52.506706
-Longitude: 13.319948
+Address: Mehlitzstraße 8
+Latitude: 52.486105
+Longitude: 13.326396
+Google_Place_ID: ChIJbTurRzNRqEcRGa7ADC1inys
 ---

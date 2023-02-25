@@ -4,6 +4,7 @@ Description: Tax and accounting services offered in German and English. Speciali
 Website: http://www.steuerkontor-fischer.de/
 Email: 
 Address: Knesebeckstraße 32
-Latitude: 52.50327
-Longitude: 13.321661
+Latitude: 52.503271
+Longitude: 13.321658
+Google_Place_ID: ChIJxRMmUftQqEcRsPpT9Xqfh3A
 ---

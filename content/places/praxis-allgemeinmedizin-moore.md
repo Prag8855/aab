@@ -1,9 +1,10 @@
 ---
-Name: Praxis Allgemeinmedizin Moore
+Name: Praxis für Allgemeinmedizin Stephanie Moore
 Description: 
-Website: https://www.jameda.de/berlin/aerzte/innere-allgemeinmediziner/stephanie-moore/uebersicht/81028013_1/
+Website: http://www.hausarzt-moore.de/
 Email: praxis.moore@web.de
-Address: Hagelberger Str. 19A
-Latitude: 52.491766
-Longitude: 13.381993
+Address: Hagelberger Str. 19a
+Latitude: 52.49179
+Longitude: 13.381992
+Google_Place_ID: ChIJ44Sqei9QqEcRWwl7Kxjt8wg
 ---

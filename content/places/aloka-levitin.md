@@ -5,5 +5,6 @@ Website: https://www.berlinpsychotherapeut.de/en/home_en/
 Email: alokalevitin@gmail.com
 Address: Lipaer Str. 14
 Latitude: 52.44565
-Longitude: 13.312992
+Longitude: 13.313023
+Google_Place_ID: ChIJ99YhZHtbqEcRt2YCmbncyn8
 ---

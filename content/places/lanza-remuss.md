@@ -1,9 +1,10 @@
 ---
 Name: Lanza & Remuss
 Description: Tax and accounting services offered in German, English and Spanish.
-Website: http://www.lanza-remuss.de/
+Website: https://www.lanza-remuss.de/
 Email: 
-Address: Grolmanstraße 39
-Latitude: 52.503542
-Longitude: 13.324656
+Address: Brandenburgische Str. 24
+Latitude: 52.496584
+Longitude: 13.308402
+Google_Place_ID: ChIJwf9pgPxQqEcRCjxms4b1c8I
 ---

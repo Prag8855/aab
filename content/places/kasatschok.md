@@ -1,7 +1,7 @@
 ---
 Name: Kasatschok
 Description: Russian grocery store
-Website: 
+Website: https://maps.google.com/?cid=14357134533733695340
 Email: 
 Address: Schivelbeiner Str. 49
 Latitude: 52.550524

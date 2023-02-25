@@ -1,7 +1,7 @@
 ---
 Name: Herr Dr. med. dent. Jan Effinghausen
 Description: 
-Website: http://www.zahnaerzte-berlin-mitte.de/
+Website: https://www.zahnaerzte-berlin-mitte.de/
 Email: 
 Address: Jägerstraße 70
 Latitude: 52.513837

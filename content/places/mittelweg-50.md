@@ -4,6 +4,7 @@ Description: 10 English-speaking counsellors with different approaches to therap
 Website: https://www.mittelweg50.com/
 Email: 
 Address: Mittelweg 50
-Latitude: 52.47563
-Longitude: 13.430309
+Latitude: 52.475637
+Longitude: 13.430252
+Google_Place_ID: ChIJk9PlUb1PqEcRj0lnuPjkNmE
 ---

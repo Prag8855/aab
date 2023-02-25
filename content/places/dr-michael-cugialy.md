@@ -3,7 +3,8 @@ Name: Dr. Michael Cugialy
 Description: Cognitive behavioural therapist. Speaks English and German. Private health insurance and private pay accepted.
 Website: https://en.psychotherapie-cugialy.com/
 Email: Michael.Cugialy@fu-berlin.de
-Address: Iltisstraße 4
-Latitude: 52.457407
-Longitude: 13.291151
+Address: Schulstraße 7, 16515 Oranienburg, Germany
+Latitude: 52.755036
+Longitude: 13.245767
+Google_Place_ID: ChIJYQP_yK9bqEcRV_ymuwGgA9c
 ---

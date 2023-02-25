@@ -4,6 +4,7 @@ Description: Psychotherapist. Speaks English, French and German. Accepts public 
 Website: https://www.therapie.de/profil/nicasi/
 Email: 
 Address: Wielandstraße 14
-Latitude: 52.471772
-Longitude: 13.338819
+Latitude: 52.50359
+Longitude: 13.315168
+Google_Place_ID: ChIJq6rabORQqEcRoxQoGt1LymU
 ---

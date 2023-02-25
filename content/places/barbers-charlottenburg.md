@@ -1,9 +1,10 @@
 ---
-Name: Barber's (Charlottenburg)
+Name: Berlin Barbers Charlottenburg
 Description: 
-Website: https://www.instagram.com/berlinbarbers/
+Website: https://app.uppaman.com/booking
 Email: 
 Address: Zillestraße 79
-Latitude: 52.513349
-Longitude: 13.304457
+Latitude: 52.513335
+Longitude: 13.304512
+Google_Place_ID: ChIJ2-Z75yBRqEcRNiQSvzQhgSY
 ---

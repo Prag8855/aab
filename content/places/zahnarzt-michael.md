@@ -4,6 +4,7 @@ Description:
 Website: https://zahnarztmichael.de/en/
 Email: 
 Address: Dunckerstraße 11
-Latitude: 52.5425
-Longitude: 13.42109
+Latitude: 52.54253
+Longitude: 13.420994
+Google_Place_ID: ChIJYzqHyv9NqEcRzpXZfb8bakk
 ---

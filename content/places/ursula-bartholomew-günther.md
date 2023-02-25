@@ -1,9 +1,10 @@
 ---
-Name: Ursula Bartholomew-Günther
+Name: Dr. Joachim Bartholomew-Günther
 Description: Psychiatry and psychotherapy. EMDR therapy. Accepts public insurance.
-Website: http://www.dr-bartholomew.de/
+Website: https://www.dr-bartholomew.de/
 Email: 
-Address: Zionskirchstraße 25
-Latitude: 52.535346
-Longitude: 13.40379
+Address: Schloßstraße 42A
+Latitude: 52.456308
+Longitude: 13.318956
+Google_Place_ID: ChIJfy75M5BbqEcRb0kZr6gkgsQ
 ---

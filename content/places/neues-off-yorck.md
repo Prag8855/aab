@@ -4,6 +4,7 @@ Description:
 Website: https://yorck.de/filme/english
 Email: 
 Address: Hermannstraße 20
-Latitude: 52.483425
-Longitude: 13.42454
+Latitude: 52.483449
+Longitude: 13.424482
+Google_Place_ID: ChIJm_ftFI5ZqEcRflhrA9kr73E
 ---

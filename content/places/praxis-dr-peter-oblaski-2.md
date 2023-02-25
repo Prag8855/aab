@@ -4,6 +4,7 @@ Description:
 Website: http://arztpraxis-oblaski.de/
 Email: 
 Address: Klixstraße 4
-Latitude: 52.568849
-Longitude: 13.309795
+Latitude: 52.48889
+Longitude: 13.350847
+Google_Place_ID: ChIJycEm8ENQqEcRQSJfBIZAXwA
 ---

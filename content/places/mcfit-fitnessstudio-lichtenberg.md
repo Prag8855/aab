@@ -4,6 +4,7 @@ Description:
 Website: https://www.mcfit.com/de/studios/studiosuche/studiodetails/studio/berlin-lichtenberg/
 Email: 
 Address: Siegfriedstraße 177
-Latitude: 52.52181
-Longitude: 13.498603
+Latitude: 52.521826
+Longitude: 13.498887
+Google_Place_ID: ChIJ81tm7pdOqEcRIV9FFa9UACc
 ---

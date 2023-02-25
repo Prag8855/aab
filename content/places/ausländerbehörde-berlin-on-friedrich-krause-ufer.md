@@ -1,9 +1,10 @@
 ---
 Name: Ausländerbehörde on Friedrich-Krause-Ufer
 Description: 
-Website: http://www.berlin.de/labo/willkommen-in-berlin/
+Website: https://www.berlin.de/einwanderung/
 Email: 
 Address: Friedrich-Krause-Ufer 24
-Latitude: 52.537961
-Longitude: 13.355115
+Latitude: 52.538255
+Longitude: 13.356014
+Google_Place_ID: ChIJv9RcyoJRqEcR7HRXGs4GJWA
 ---

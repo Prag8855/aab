@@ -6,4 +6,5 @@ Email: kontakt@seoport.de
 Address: Friedrichstraße 61
 Latitude: 52.511105
 Longitude: 13.389979
+Google_Place_ID: ChIJ6TQZnzxOqEcRMNd_H8g9r1o
 ---

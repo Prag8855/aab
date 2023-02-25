@@ -4,7 +4,7 @@ Short_title: Relocation agencies in Berlin
 Description: These relocation consultants can help you get the right residence permit and visa to live, work and freelance in Germany.
 Date_created: 2018-03-26
 Date_updated: 2022-07-14
-Related_places: places/red-tape-translation.md, places/expath.md, places/nomaden-berlin.md, places/victoria-messer-expat-mgmt.md, places/archer-relocation.md, places/glogauer-str-25.md, places/sorted-berlin.md, places/start-relocation.md, places/myhelpbuddy.md, places/relokate.md, places/irc-berlin.md, places/prime-relocation.md
+Related_places: places/red-tape-translation.md, places/expath.md, places/nomaden-berlin.md, places/archer-relocation.md, places/glogauer-str-25.md, places/sorted-berlin.md, places/start-relocation.md, places/myhelpbuddy.md, places/relokate.md, places/irc-berlin.md, places/prime-relocation.md
 ---
 
 Relocation agencies make it easier to [move to Germany](/guides/moving-to-berlin). They take care of the paperwork, book appointments, help you find an apartment and much more.

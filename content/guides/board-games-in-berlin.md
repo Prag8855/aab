@@ -4,7 +4,7 @@ Short_title: Where to play board games?
 Description: Want a nice place to play board games with your friends, and perhaps make some new ones? Here are all the board game meetups in Berlin.
 Date_created: 2017-09-14
 Date_updated: 2022-04-07
-Related_places: places/rudi-thursday-meetup.md, places/spieletreff-berlin-wednesday-meetup.md, places/spiele-wirtschaft.md, places/wirtshaus-heuberger.md, places/brewdog-berlin-mitte.md, places/spielwiese.md, places/brettspielegruppe-schöneberg.md, places/nachbarschaftshaus-urbanstraße.md, places/brettspielplatz-das-spielecafé.md
+Related_places: places/rudi-thursday-meetup.md, places/spieletreff-berlin-wednesday-meetup.md, places/spiele-wirtschaft.md, places/wirtshaus-heuberger.md, places/brewdog-berlin-mitte.md, places/spielwiese.md, places/nachbarschaftshaus-urbanstraße.md, places/brettspielplatz-das-spielecafé.md
 ---
 
 Want a nice place to play board games with your friends, and perhaps make some new ones? The following board game meetups happen every week in Berlin, and are always friendly to newcomers.
@@ -25,7 +25,5 @@ Berlin Board Gamers organise more events [on Meetup.com](https://www.meetup.com/
 
 ## Board stores with play areas
 
-I recommend [**Spiele Wirtschaft**](http://www.spiele-wirtschaft.de/), a quiet board game bar where you'll usually find the owner sitting at a table with the patrons. The price of entry is a little bit steeper at 1€ per hour, but this business is clearly a work of love run by a passionate board gamer.
-
-**[Spielwiese](http://www.spielwiese-berlin.de/blog/en/)** is another popular board game library in Friedrichshain.
+**[Spielwiese](http://www.spielwiese-berlin.de/blog/en/)** is a popular board game library in Friedrichshain.
 

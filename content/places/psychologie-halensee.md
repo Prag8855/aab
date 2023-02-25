@@ -4,6 +4,7 @@ Description: Psychotherapist. Speaks English and Romanian. CBT, narrative therap
 Website: https://www.praxis-psychologie-berlin.de/en/
 Email: info@praxis-psychologie-berlin.de
 Address: Wallotstraße 8
-Latitude: 52.492045
-Longitude: 13.278886
+Latitude: 52.492017
+Longitude: 13.278896
+Google_Place_ID: ChIJ78EDLcZRqEcRzYWybeWpBUY
 ---

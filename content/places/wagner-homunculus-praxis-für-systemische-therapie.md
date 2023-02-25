@@ -4,6 +4,7 @@ Description: Therapists. They speak English, Spanish and German. Systemic therap
 Website: https://wh-therapie.de/
 Email: praxis@wa-hc.de
 Address: Philippistraße 4
-Latitude: 52.511532
-Longitude: 13.287388
+Latitude: 52.511503
+Longitude: 13.287417
+Google_Place_ID: ChIJy1ras_dOqEcRJ4QqbTujILU
 ---

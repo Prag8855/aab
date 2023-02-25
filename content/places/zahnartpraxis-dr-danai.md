@@ -1,9 +1,10 @@
 ---
 Name: Zahnartpraxis Dr. Danai
 Description: Dr. Danai speaks English
-Website: http://www.zahnarztpraxis-danai.de/
+Website: https://zahnarztpraxis-hocke.de/
 Email: 
 Address: Breisgauer Str. 37
-Latitude: 52.434604
-Longitude: 13.218003
+Latitude: 52.434603
+Longitude: 13.218006
+Google_Place_ID: ChIJE0xI_51ZqEcRLJj-HwgLwtQ
 ---

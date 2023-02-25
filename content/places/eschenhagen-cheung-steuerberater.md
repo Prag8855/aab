@@ -1,9 +1,10 @@
 ---
-Name: Eschenhagen & Cheung Steuerberater
+Name: Eschenhagen Steuerberatungs GmbH
 Description: Tax and accounting services offered in German and English.
-Website: http://www.eschenhagen.eu/
+Website: http://www.eschenhagen.berlin/
 Email: 
-Address: Charles-Lindbergh-Straße 63
-Latitude: 52.471194
-Longitude: 13.125918
+Address: Wundtstraße 48/50
+Latitude: 52.508747
+Longitude: 13.287001
+Google_Place_ID: ChIJ0d6GmOb3qEcR3nWO7C6NVuU
 ---

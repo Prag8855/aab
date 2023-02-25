@@ -1,9 +1,10 @@
 ---
-Name: The Living Body (Julianne Appel-Opper)
+Name: Julianne Appel-Opper
 Description: Psychological Psychotherapist, UKCP reg. Psychotherapist. Private pay and private health insurance only.
-Website: http://www.thelivingbody.de/
+Website: http://thelivingbody.de/
 Email: 
-Address: Pariser Platz 61
-Latitude: 52.516544
-Longitude: 13.378213
+Address: Fröaufstraße 6
+Latitude: 52.466646
+Longitude: 13.325498
+Google_Place_ID: ChIJG6gGSn9QqEcRBVIZIsfphYo
 ---

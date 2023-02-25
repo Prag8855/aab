@@ -122,14 +122,34 @@ for place_path in list(Path(args.path).rglob('*.md')):
         has_changes = True
 
     # Website
-    website = place.get('Website') or place.get('url', '')
+    website = google_place.get('Website') or google_place.get('url', '')
     if place.get('Website') != website:
-        print(f"\t[w]ebsite:")
+        print("\t[w]ebsite:")
         print(f"\t\t- {place.get('Website')}")
         print(f"\t\t+ {website}")
         has_changes = True
 
     if has_changes:
+        if place.get('Google_Place_ID') == google_place['place_id']:
+            if not place.get('Website') and website:
+                print("\tUpdated website.")
+                place['Website'] = website
+
+            if not place['Address'] != google_address:
+                print("\tUpdated address and coordinates.")
+                place['Address'] = google_address
+                place['Latitude'] = str(g_lat)
+                place['Longitude'] = str(g_lng)
+        elif not place.get('Google_Place_ID') and place['Name'] == google_place['name']:
+            print("\tUpdated place ID.")
+            place['Google_Place_ID'] = google_place['place_id']
+
+            if not place['Address'] != google_address:
+                print("\tUpdated address and coordinates.")
+                place['Address'] = google_address
+                place['Latitude'] = str(g_lat)
+                place['Longitude'] = str(g_lng)
+
         print("Select changes to apply. [y] to apply all, [Enter] to skip.")
         actions = input(">")
         if 'y' in actions or 'a' in actions:

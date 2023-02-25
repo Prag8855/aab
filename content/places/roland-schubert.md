@@ -1,9 +1,10 @@
 ---
-Name: Roland Schubert
+Name: Schubert & Kollegen Steuerberatungsgesellschaft mbH
 Description: Tax and accounting services offered in German and English.
-Website: http://www.jess-stb.de/index.html
+Website: https://www.schubert-stb.de/
 Email: 
 Address: Länderallee 27
-Latitude: 52.511761
-Longitude: 13.26354
+Latitude: 52.511711
+Longitude: 13.263578
+Google_Place_ID: ChIJmZAVoihXqEcR-DdQrxTBnvM
 ---

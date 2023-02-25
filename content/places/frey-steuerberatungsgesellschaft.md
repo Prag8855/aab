@@ -1,9 +1,10 @@
 ---
 Name: Frey Steuerberatungsgesellschaft
 Description: Tax and accounting services offered in German and English.
-Website: http://frey-steuerberatung.de/en/
+Website: http://www.frey-steuerberatung.de/
 Email: 
-Address: Saarbrücker Str. 24
+Address: Saarbrücker Str. 24/Haus B
 Latitude: 52.530507
-Longitude: 13.413379
+Longitude: 13.41338
+Google_Place_ID: ChIJfeJtFR1OqEcRW_ewHS0YWIA
 ---

@@ -1,9 +1,10 @@
 ---
 Name: Anwaltssozietät Jurati
 Description: Sven Hasse is an English-speaking immigration lawyer.
-Website: http://www.jurati.de/
+Website: https://www.jurati.de/
 Email: 
 Address: Schönhauser Allee 83
-Latitude: 52.550849
-Longitude: 13.414471
+Latitude: 52.550966
+Longitude: 13.414372
+Google_Place_ID: ChIJJSr_eQZSqEcR4haPFbM0aYI
 ---

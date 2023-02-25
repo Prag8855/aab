@@ -4,6 +4,7 @@ Description: Psychotherapist, private pay only.
 Website: http://www.berlincounseling.com/
 Email: katie@berlincounseling.com
 Address: Lichtburgring 13
-Latitude: 52.548118
-Longitude: 13.398673
+Latitude: 52.548125
+Longitude: 13.398676
+Google_Place_ID: ChIJ3UJDP_dRqEcRAZh0m3X-Q2U
 ---

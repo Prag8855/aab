@@ -4,6 +4,7 @@ Description: Psychiatrist, psychotherapist and sex therapist. Speaks English, Gr
 Website: https://psychiater-praxis-berlin.de/en/
 Email: kontakt@psychiater-praxis-berlin.de
 Address: Koenigsallee 11A
-Latitude: 52.49248
-Longitude: 13.28048
+Latitude: 52.492477
+Longitude: 13.280496
+Google_Place_ID: ChIJ08uUXUNRqEcRF00ja-YJxwY
 ---

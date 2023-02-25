@@ -4,6 +4,7 @@ Description: Psychotherapist. Cognitive behavioral therapy, trauma therapy, vide
 Website: https://www.therapie.de/profil/hannig/
 Email: kontakt-hannig@posteo.de
 Address: Gleimstraße 40
-Latitude: 52.547769
-Longitude: 13.409438
+Latitude: 52.547772
+Longitude: 13.40944
+Google_Place_ID: ChIJX640HZ9TqEcR9KELG-NTzyI
 ---

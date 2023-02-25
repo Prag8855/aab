@@ -1,9 +1,10 @@
 ---
-Name: Fahrschule Glowalla
+Name: 123fahrschule
 Description: Driving lessons in English, Turkish, Arabic and German.
-Website: https://fahrschule-glowalla.de/
+Website: https://www.123fahrschule.de/fahrschulen-berlin
 Email: start@fahrschule-glowalla.de
-Address: Saalestr. 82
-Latitude: 52.46674
-Longitude: 13.459158
+Address: Saalestraße 82
+Latitude: 52.469681
+Longitude: 13.442706
+Google_Place_ID: ChIJBSz1I55PqEcRwP0hMgcn3Q0
 ---

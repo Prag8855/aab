@@ -1,9 +1,10 @@
 ---
 Name: Privatpraxis Dima Salloum
 Description: Psychiatrist and psychotherapist, specialised in cognitive behavioural therapy and adult ADHD. Accepts private pay and private health insurance.
-Website: https://www.jameda.de/berlin/aerzte/aerzte-fuer-psychiatrie-und-psychotherapie/dima-salloum/uebersicht/81594343_1/
+Website: https://dima-nathalia-salloum.business.site/?utm_source=gmb&utm_medium=referral
 Email: 
-Address: Christinenstraße 5
-Latitude: 52.529884
-Longitude: 13.407962
+Address: Weserstraße 29
+Latitude: 52.510291
+Longitude: 13.465549
+Google_Place_ID: ChIJCdtjcd1PqEcRG0H49Dlrd1o
 ---

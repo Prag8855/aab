@@ -1,9 +1,10 @@
 ---
-Name: Dr. Thorsten John Zahnärtze
+Name: Dr. Thorsten John
 Description: 
 Website: https://www.zahnarztjohn.de/
 Email: 
 Address: Schlüterstraße 38
-Latitude: 52.502023
-Longitude: 13.316585
+Latitude: 52.50203
+Longitude: 13.316568
+Google_Place_ID: ChIJy-Dea_tQqEcRmyAzHqsOFe8
 ---

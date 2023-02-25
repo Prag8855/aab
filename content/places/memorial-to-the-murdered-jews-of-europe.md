@@ -4,6 +4,7 @@ Description: A sobering monument to Germany's violent history. Only a short dist
 Website: https://www.stiftung-denkmal.de/en/home.html
 Email: 
 Address: Cora-Berliner-Straße 1
-Latitude: 52.513779
-Longitude: 13.379778
+Latitude: 52.513947
+Longitude: 13.378713
+Google_Place_ID: ChIJW2oZB8ZRqEcRyFvuEpCnNBQ
 ---

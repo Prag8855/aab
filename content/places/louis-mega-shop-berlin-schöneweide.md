@@ -1,9 +1,10 @@
 ---
 Name: Louis Mega Shop Schöneweide
 Description: 
-Website: https://www.louis.eu/service/filialen/louis-megashop-berlin-schoeneweide/116
+Website: https://www.louis.de/filialen/louis-berlin-schoeneweide
 Email: 
-Address: Schnellerstraße 20G
-Latitude: 52.45832
-Longitude: 13.50665
+Address: Schnellerstraße 20g
+Latitude: 52.458332
+Longitude: 13.506176
+Google_Place_ID: ChIJIR_U07NIqEcRwOar1JG7MBA
 ---

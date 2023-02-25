@@ -4,7 +4,7 @@ Short_title: Rare cooking ingredients
 Description: Finding common baking ingredients such as brown sugar and baking soda can be fairly difficult in Germany. Here is where you can find them.
 Date_created: 2017-09-27
 Date_updated: 2023-01-06
-Related_places: places/australia-shopping-world-berlin.md, places/real-teltow.md, places/real-treptow.md, places/american-lifestyle.md, places/kaufhaus-des-westens.md, places/broken-english.md, places/chili-paprika.md, places/ledo-forckenbeckstraße.md, places/ledo-dorfstraße.md, places/super-iberico.md, places/aqui-españa.md, places/mehlstübchen.md, places/kasatschok.md, places/americanfood4u.md
+Related_places: places/australia-shopping-world-berlin.md, places/american-lifestyle.md, places/kaufhaus-des-westens.md, places/broken-english.md, places/chili-paprika.md, places/ledo-forckenbeckstraße.md, places/aqui-españa.md, places/mehlstübchen.md, places/kasatschok.md, places/americanfood4u.md
 ---
 
 This is a list of foreign cooking ingredients, and where to find them in Berlin. If something is missing, [let me know](/contact).
@@ -57,7 +57,7 @@ Condensed milk can be a false friend for people from the UK at least. If a recip
 
 ### Corn tortillas
 
-Corn tortillas are sold at [Super Iberico](https://www.facebook.com/superibericoberlin/), [Chili & Paprika](http://www.chiliundpaprika.de/) and [Aqui España](http://aqui-espana.de/). [Cintli](https://www.cintli.de/) also sells them [in different stores](https://www.cintli.de/kontakt).
+Corn tortillas are sold at [Chili & Paprika](http://www.chiliundpaprika.de/) and [Aqui España](http://aqui-espana.de/). [Cintli](https://www.cintli.de/) also sells them [in different stores](https://www.cintli.de/kontakt).
 
 ### Couscous spices
 
@@ -165,7 +165,6 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 - [Aqui España](http://aqui-espana.de/): Carries some Latin American products
 - [Chili & Paprika](http://www.chiliundpaprika.de/): Food from Mexico, Brasil, Colombia, Argentina, Peru
-- [Super Iberico](https://www.facebook.com/superibericoberlin/): Latin American supermarket
 
 ### Spain
 

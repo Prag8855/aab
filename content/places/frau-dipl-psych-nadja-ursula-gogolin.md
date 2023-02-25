@@ -1,9 +1,10 @@
 ---
 Name: Frau Dipl.-Psych. Nadja Ursula Gogolin
 Description: Psychotherapist, group therapist
-Website: 
+Website: http://www.psychotherapy-gogolin.com/contact-to-nadja-gogolin-psychotherapy-in-berlin.html
 Email: 
-Address: Welserstraße
-Latitude: 52.497333
-Longitude: 13.341836
+Address: Welserstraße 10-12
+Latitude: 52.497048
+Longitude: 13.342045
+Google_Place_ID: ChIJ7_rpuVBQqEcRauVoYbQ1nVA
 ---

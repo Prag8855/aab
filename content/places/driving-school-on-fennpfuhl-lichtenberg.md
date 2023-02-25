@@ -6,4 +6,5 @@ Email:
 Address: Weißenseer Weg 98
 Latitude: 52.531797
 Longitude: 13.475974
+Google_Place_ID: ChIJCY53i4BOqEcROyP2s58vKZw
 ---

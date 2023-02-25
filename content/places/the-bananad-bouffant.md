@@ -1,9 +1,10 @@
 ---
 Name: The Banana'd Bouffant
 Description: According to reviewers, Fairy speaks good English and is skilled with curly hair
-Website: https://www.facebook.com/thebananadbouffant/
+Website: https://placenearme.org/frisuren-trends/?q=the+banada'd+bouffant
 Email: 
 Address: Möckernstraße 96
-Latitude: 52.493711
-Longitude: 13.379866
+Latitude: 52.493677
+Longitude: 13.379971
+Google_Place_ID: ChIJT8Z9ty9QqEcRbQR43aIgpIk
 ---

@@ -1,7 +1,7 @@
 ---
 Name: Soviet Memorial in Tiergarten
 Description: One of Berlin's 3 large memorials to the Soviet soldiers killed during the Second World War. Free to visit.
-Website: 
+Website: http://www.berlin.de/orte/sehenswuerdigkeiten/sowjetisches_ehrenmal_tiergarten/
 Email: 
 Address: Tiergarten
 Latitude: 52.516379

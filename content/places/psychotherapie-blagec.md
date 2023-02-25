@@ -4,6 +4,7 @@ Description: Psychotherapist. Speaks English, German and Croatian. Specialises i
 Website: https://www.psychotherapy-blagec.com/en/
 Email: psychotherapy.blagec@gmail.com
 Address: Bleibtreustraße 12A
-Latitude: 52.504287
-Longitude: 13.319631
+Latitude: 52.50429
+Longitude: 13.319632
+Google_Place_ID: ChIJ2SnTi-BQqEcRECCiSDiuXkc
 ---

@@ -3,7 +3,8 @@ Name: Red Tape Translation
 Description: Translation and relocation help. Red Tape Translation has contributed to All About Berlin before.
 Website: http://www.redtapetranslation.com/
 Email: 
-Address: c/o Factory Berlin
-Latitude: 52.536799
-Longitude: 13.394927
+Address: Berliner Str. 69
+Latitude: 52.555939
+Longitude: 13.413001
+Google_Place_ID: ChIJSZ-A9whSqEcRt_U8PUJ2yes
 ---

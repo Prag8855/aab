@@ -6,4 +6,5 @@ Email:
 Address: Teufelsberg
 Latitude: 52.497222
 Longitude: 13.241111
+Google_Place_ID: ChIJPyJZe2dXqEcR7QQjJhjKnz8
 ---

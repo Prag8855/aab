@@ -4,6 +4,7 @@ Description:
 Website: https://yorck.de/filme/english
 Email: 
 Address: Kantstraße 12A
-Latitude: 52.505979
-Longitude: 13.328587
+Latitude: 52.506032
+Longitude: 13.32851
+Google_Place_ID: ChIJm6SNNPxQqEcRq8bcTLwe7y0
 ---

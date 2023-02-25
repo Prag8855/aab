@@ -1,9 +1,10 @@
 ---
-Name: Fahrschule Success
+Name: SUCCESS Fahrschul GmbH
 Description: 
-Website: http://fahrschule-success.de/
+Website: http://www.fahrschule-success.de/
 Email: 
-Address: Schivelbeiner Str. 42
-Latitude: 52.550473
-Longitude: 13.411222
+Address: Hamburger Pl. 8
+Latitude: 52.55519
+Longitude: 13.4394
+Google_Place_ID: ChIJu5ivAe5NqEcRX_jql6kOIN8
 ---

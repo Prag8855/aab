@@ -1,9 +1,10 @@
 ---
-Name: Start Relocation
+Name: Start Relocation Service
 Description: Visa counselling, relocation help, German classes
-Website: https://start-relocation.com/en/
+Website: https://start-relocation.com/
 Email: kb@startcon.berlin
-Address: Langenscheidtstraße 9A
-Latitude: 52.48963
-Longitude: 13.36234
+Address: Langenscheidtstraße 9a
+Latitude: 52.489632
+Longitude: 13.362342
+Google_Place_ID: ChIJ_8W4hphRqEcR8PRJBoSmDqw
 ---

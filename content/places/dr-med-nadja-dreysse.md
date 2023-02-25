@@ -1,9 +1,10 @@
 ---
 Name: Dr. med. Nadja Dreysse
 Description: 
-Website: https://www.arzt-auskunft.de/arzt/innere-medizin/berlin/dr-nadja-dreysse-2780453
+Website: http://www.praxis-dreysse.de/
 Email: 
 Address: Joachim-Friedrich-Straße 53
-Latitude: 52.49476
-Longitude: 13.29543
+Latitude: 52.494762
+Longitude: 13.295429
+Google_Place_ID: ChIJB2xsasFQqEcREXV7F59rD7Q
 ---

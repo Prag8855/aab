@@ -1,9 +1,10 @@
 ---
-Name: Australia Shopping World Berlin
+Name: Australia Shop
 Description: 
-Website: http://www.australiashop.com/
+Website: https://australiashopping.de/
 Email: 
 Address: Neue Grünstraße 9
-Latitude: 52.509063
-Longitude: 13.404932
+Latitude: 52.509031
+Longitude: 13.404911
+Google_Place_ID: ChIJeRSfLiROqEcRIoaW6mudzKg
 ---

@@ -1,9 +1,10 @@
 ---
 Name: Friseur Viktor Leske Mitte
 Description: 
-Website: http://www.viktorleske.net/
+Website: https://www.viktorleske.net/
 Email: 
 Address: Joachimstraße 8
-Latitude: 52.45375
-Longitude: 13.57213
+Latitude: 52.527552
+Longitude: 13.400949
+Google_Place_ID: ChIJubD8G-RRqEcRQ8tHxbIkROg
 ---

@@ -4,6 +4,7 @@ Description: The official Dainese shop in Berlin. The most knowledgeable saleswo
 Website: https://www.dainese.com/stores/dainese-store-berlin/
 Email: 
 Address: Hohenzollerndamm 12
-Latitude: 52.494695
-Longitude: 13.325431
+Latitude: 52.494688
+Longitude: 13.325519
+Google_Place_ID: ChIJZ9Gx2_ZQqEcR2QJmVJEu79U
 ---
