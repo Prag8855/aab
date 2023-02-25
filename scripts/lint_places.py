@@ -103,7 +103,7 @@ for place_path in list(Path(args.path).rglob('*.md')):
         print("\t[n]ame:")
         print(f"\t\t- {place['Name']}")
         print(f"\t\t+ {google_place['name']}")
-        has_changes = True
+        # has_changes = True
 
     # Street address
     google_address = re.sub(r",? \d{5} Berlin, Germany$", "", google_place['formatted_address']).strip()
@@ -122,8 +122,8 @@ for place_path in list(Path(args.path).rglob('*.md')):
         has_changes = True
 
     # Website
-    website = google_place.get('Website') or google_place.get('url', '')
-    if place.get('Website') != website:
+    website = google_place.get('website')
+    if website and place.get('Website') != website:
         print("\t[w]ebsite:")
         print(f"\t\t- {place.get('Website')}")
         print(f"\t\t+ {website}")
@@ -131,7 +131,7 @@ for place_path in list(Path(args.path).rglob('*.md')):
 
     if has_changes:
         if place.get('Google_Place_ID') == google_place['place_id']:
-            if not place.get('Website') and website:
+            if website and not place.get('Website'):
                 print("\tUpdated website.")
                 place['Website'] = website
 
@@ -140,7 +140,7 @@ for place_path in list(Path(args.path).rglob('*.md')):
                 place['Address'] = google_address
                 place['Latitude'] = str(g_lat)
                 place['Longitude'] = str(g_lng)
-        elif not place.get('Google_Place_ID') and place['Name'] == google_place['name']:
+        elif not place.get('Google_Place_ID') and place['Name'] == google_place['name'] and distance < 100:
             print("\tUpdated place ID.")
             place['Google_Place_ID'] = google_place['place_id']
 
@@ -165,7 +165,7 @@ for place_path in list(Path(args.path).rglob('*.md')):
         if 'y' in actions or 'p' in actions:
             place['Google_Place_ID'] = google_place['place_id']
 
-        if 'y' in actions or 'w' in actions:
+        if website and ('y' in actions or 'w' in actions):
             place['Website'] = website
 
         if 'd' in actions:
