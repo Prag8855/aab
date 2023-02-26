@@ -303,10 +303,11 @@ You can let someone take care of everything. There are good reasons to get help:
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.
 
-- [**⭐ FundsBack** ](/out/fundsback)Their fee is 10% of your refund (minimum 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
+- **[⭐ FundsBack](/out/fundsback)**  
+    Their fee is 10% of your refund (minimum 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
 - **[⭐ Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is 9.75% of your refund (no minimum or maximum).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
-- [**⭐ Pension Refund Germany**](/out/german-pension-refund)  
+- **[⭐ Pension Refund Germany](/out/german-pension-refund)**  
     Their fee is 10% of your refund (no minimum, maximum 2,800€).[^31] They automated a big part of the process, so you can do everything online. They work with a lawyer.
 - **[TaxBack](/out/taxback)**  
     Their fee is 19.8% of your refund,[^32] or minimum 60€. They offer various international tax services. I do not recommend them. They don't specialise in pension refunds, and their fee is too high.

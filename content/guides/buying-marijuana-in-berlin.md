@@ -68,7 +68,7 @@ You will receive a message when the driver is near you. The driver will pick you
 
 **No.** Marijuana from Telegram is often better than weed from the parks in Berlin, but it can still be contaminated.[^5]
 
-Since 2020, weed is often contaminated with synthetic cannabinoids (also called K2 or Spice). Hash can also be contaminated with synthetic cannabinoids.[^6]
+In Berlin, weed is sometimes contaminated with synthetic cannabinoids (also called K2 or Spice). Hash can also be contaminated with synthetic cannabinoids.[^6]
 
 This type of contaminated weed is bad for your mental and physical health.[^7] The high is shorter, stronger and less pleasant. It is addictive, and it can cause psychosis and withdrawal symptoms.[^8]
 

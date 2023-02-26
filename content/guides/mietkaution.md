@@ -36,9 +36,9 @@ The *Kaution* is a lot of money. You don't lose that money, but you can't touch 
 
 You can pay your deposit in 3 instalments:[^2]
 
-* 1/3 before your lease starts
-* 1/3 before the end of the first month
-* and 1/3 before the end of the second month.[^2]
+- 1/3 before your lease starts
+- 1/3 before the end of the first month
+- and 1/3 before the end of the second month.[^2]
 
 The landlord can't force you to pay the *Kaution* all at once.[^3]
 
@@ -54,9 +54,9 @@ If you receive [[ALG I]] or [[ALG II]], the Jobcenter can pay your deposit.[^4]
 
 You have many options:
 
-* Pay the deposit with cash. Always ask for a receipt.
-* Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung) from a bank in another EU country.
-* Use [Wise](/out/transferwise) to transfer money from a bank in another country.
+- Pay the deposit with cash. Always ask for a receipt.
+- Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung) from a bank in another EU country.
+- Use [Wise](/out/transferwise) to transfer money from a bank in another country.
 
 I used Wise many times. It has low fees and it's easy to use.
 
