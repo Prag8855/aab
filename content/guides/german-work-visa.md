@@ -152,22 +152,25 @@ If you can, [find a job](/guides/find-a-job-in-berlin) before you come to German
 - **You get**: a letter from the [[ZAV]] that makes your visa application go faster
 - **How long it takes**: up to 6 weeks
 
-You might need approval from the [[ZAV]] to get a work visa. You can get it in advance. It makes your resident permit application go faster.
+You might need approval from the [[ZAV]] to get a work visa. There are two ways to get the ZAV approval:
+
+1. **Before you apply for your residence permit**  
+    You can get pre-approval from the ZAV before you apply for the work visa. Usually, your employer applies for you.[^25] When you have pre-approval from the ZAV, your visa is approved faster.[^26] It takes around 6 weeks to get the ZAV approval,[^44] and it costs your employer around 400€.[^27] It's not a lot of work for your employer.[^64]
+2. **While you apply for your residence permit**  
+    If you don't get pre-approval from the ZAV, it will be done when you apply for the work visa.[^45] This is the easiest way, because you don't need to do anything. It takes a little longer to get your work visa this way.
+
+Getting the approval in advance has advantages:
+
+- You can get it while you wait for your work visa appointment.
+- It makes the work visa application process smoother. You can find problems with your application *before* your visa appointment. If you have the ZAV approval, you are almost guaranteed to get the work visa.[^64]
 
 You do not need approval from the ZAV if:
 
-- You have a degree from a German university, and that degree is related to your job[^42]
+- You have a degree from a *German* university, and that degree is related to your job[^42]
+- **or** you are applying for the Blue Card[^24] and your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€ per year.[^43]
 - **or** you are a teacher, scientific assistant, guest scientist, engineer or technician in the research team of a guest scientist[^42]
 - **or** you are a teacher at a state school, state-approved private substitute school or a recognised private complementary school[^42]
 - **or** you are applying for the [*Bundesfreiwilligendienst*](https://en.wikipedia.org/wiki/Federal_volunteers_service)[^23]
-- **or** you are applying for the Blue Card[^24] and your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€ per year.[^43]
-
-There are two ways to get the ZAV approval:
-
-1. **Before you apply for your residence permit**  
-    You can get pre-approval from the ZAV before you apply for the work visa. Usually, your employer applies for you.[^25] When you have pre-approval from the ZAV, your visa is approved faster.[^26] It takes around 6 weeks to get the ZAV approval,[^44] and it costs your employer around 400€.[^27]
-2. **While you apply for your residence permit**  
-    If you don't get pre-approval from the ZAV, it will be done when you apply for the work visa.[^45] This is the easiest way, because you don't need to do anything. It takes a little longer to get your work visa this way.
 
 ### Step 4: [Open a bank account](/guides/first-bank-account-in-germany) (optional)
 
@@ -484,3 +487,4 @@ leave for a longer period without a special permission, your residence permit be
 [^61]: [berlin.de](https://service.berlin.de/dienstleistung/305304/en/), [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)
 [^62]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403), [BAMF \(archived\)](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
 [^63]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)
+[^64]: Jana Köhler, [HalloGermany](https://hallogermany.com/) (July 2022)
