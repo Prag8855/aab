@@ -24,6 +24,7 @@ These tools help you find how much you should earn.
 ### Rates for freelancers
 
 - **[Income survey for solo freelancers](https://www.so-los.de/material/SO_LOS-Ergebnisse.pdf)** (in German) - over 7,000 respondents
+- [Software developer rates in Berlin](/guides/freelance-developer-rate)
 
 ## Taxes in Germany
 

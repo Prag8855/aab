@@ -10,7 +10,7 @@ Related_guides: guides/fragebogen-zur-steuerlichen-erfassung.md, guides/value-ad
 
 A Mini One Stop Shop (MOSS) made it easier to sell digital products and services in other EU countries. Instead of registering for [VAT](/glossary/Umsatzsteuer) in every EU country where you had customers, you only registered for VAT in your country.
 
-In July 2021, the Mini One Stop Shop was **replaced by the One Stop Shop (OSS)**. It works the same way, but covers other goods and services.
+In July 2021, the Mini One Stop Shop was **replaced by the One Stop Shop (OSS)**. It works the same way, but it also covers physical goods and other services.
 
 **[More information](https://ec.europa.eu/taxation_customs/business/vat/telecommunications-broadcasting-electronic-services/content/guide-vat-mini-one-stop-shop-moss_en)** - europa.eu
 

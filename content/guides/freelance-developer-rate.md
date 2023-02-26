@@ -6,66 +6,60 @@ Date_created: 2018-09-14
 Date_updated: 2022-10-21
 ---
 
-While applying for freelance roles in Berlin, I had to tell my potential clients how much I charged. As a foreigner, I didn't know what to charge them, or even how to calculate my hourly and weekly rates. This post is a compilation of all the answers I have found.
+If you want to [become a freelancer in Germany](/guides/become-a-freelancer-in-germany), you must know how much you should charge.
+
+This guide helps you set your rates as a freelance software developer in Berlin.
 
 {% include "blocks/_tableOfContents.html" %}
 
-## What to consider
+## What to prepare for
 
 ### Expenses and taxes
 
-When you are an employee, your employer gives you an office, a desk, a computer, and many other perks. Your employer also pays half of your health insurance contribution. In total, you cost your employer around 20% more than you get paid.[^0]
+When you are self-employed, you must pay for your workspace, equipment, insurance, etc. Your employer does not help you. Those business expenses are tax deductible.
 
-When you are a freelancer, you pay everything yourself. You lose a larger part of your salary to taxes, insurance and business expenses.
+You also pay more for health insurance, because your employer does not pay half of it.
 
-{% include 'blocks/_taxCalculator.html' %}
+Think about these costs:
 
-Here are some expenses to think about:
-
-- **[Income tax](/glossary/Einkommensteuer)**  
+- **[Income tax](/glossary/Einkommensteuer)** - [Tax calculator](/tools/tax-calculator)  
     You will pay 8% to 42% of your salary as income tax (*Einkommensteuer*). Income tax is the same for employees and freelancers.
-- **[Health insurance](/guides/german-health-insurance)**   
-    If you were an employee, your employer would pay half of your contribution. As a freelancer, you pay it alone. This means your health insurance will cost you twice as much. Since public health insurance costs a percentage of your salary, it can get very expensive. Private health insurance charges according on your health condition, so it can be much cheaper if you are young. [How to choose German health insurance](/guides/german-health-insurance).
-- [**Liability insurance**](/glossary/Haftpflichtversicherung)  
-    If you make an expensive mistake, liability insurance will cover the legal fees and reparations. This is optional, but highly recommended. Personal liability insurance does not cover your business activities. You need a professional liability insurance. [What is liability insurance, and what does it cover?](/guides/haftpflichtversicherung)
-- **[Trade tax](/guides/gewerbesteuer)**  
-    [If you are a *Gewerbe*](/guides/freiberufler-or-gewerbe), you must pay trade tax (*[[Gewerbesteuer]]*). In Berlin, this is 1.05% of all profit above {{GEWERBESTEUER_FREIBETRAG|cur}}€. - [What is the trade tax?](/guides/gewerbesteuer)
+- **[Health insurance](/glossary/Krankenversicherung)** - [Health insurance calculator](/tools/health-insurance-calculator)  
+    If you were an employee, your employer would pay half of your contribution. As a freelancer, you pay it alone. This means your health insurance will cost you twice as much. Since public health insurance costs a percentage of your salary, it can get very expensive. Private health insurance charges according on your health condition, so it can be much cheaper if you are young. - [More information](/guides/german-health-insurance).
+- **[Liability insurance](/glossary/Haftpflichtversicherung)** (optional)  
+    If you make an expensive mistake, liability insurance covers for reparations and other legal costs. Personal liability insurance does not cover your business activities. You need a professional liability insurance. - [More information](/guides/haftpflichtversicherung)
+- **[Trade tax](/glossary/Gewerbesteuer)**  
+    [If you are a *Gewerbe*](/guides/freiberufler-or-gewerbe), you must pay trade tax (*[[Gewerbesteuer]]*). In Berlin, the costs an extra 1.05% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. - [More information](/guides/gewerbesteuer)
 - **[VAT](/glossary/Umsatzsteuer)**  
-    If you are not a *[[Kleinunternehmer]]*, you must charge VAT on your products and services, and make VAT payments to the *[[Finanzamt]]*. You take that money from your clients, and give it to the *Finanzamt*. If you are a *Kleinunternehmer*, you can decide to charge VAT, but you don't have to. - [How does VAT work?](/guides/value-added-tax)
+    You must charge VAT on your products and services, and give that money to the *[[Finanzamt]]*. If you are a *Kleinunternehmer*, you can decide to charge VAT, but you don't have to. - [More information](/guides/value-added-tax)
 - **Pension and savings**  
-    You must save some money for emergencies, and for retirement. As a freelancer, you don't have [unemployment insurance](/glossary/Arbeitslosenversicherung). If you lose your income, you get nothing. You must also plan for your retirement yourself.
-- **Office space, equipment and software**. You will need to use your own equipment. You might also want to rent a co-working space. If you were an employee, your employer would pay for those. You must include these costs in your calculations.
-- **Tax advisor**   
-    You will probably need a [tax advisor (*Steuerberater*)](/glossary/Steuerberater) to help you with your taxes. Tax advisors are really expensive Germany. You can easily pay 100€/month for a good one. You can also use [tax software for freelancers](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany).
-- **The [cost of living in Berlin](/guides/cost-of-living)**
+    You must save some money for emergencies, and for retirement. As a freelancer, you don't have [unemployment insurance](/glossary/Arbeitslosenversicherung), and you don't automatically make [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. If you lose your income, you get nothing. You must prepare for this.
+- **Office space, equipment, software**.  
+    You will need to use your own equipment. You might also want to rent a co-working space. If you were an employee, your employer would pay for those. You must include these costs in your calculations.
+- **Finances and bookkeeping**  
+    You must pay for bookkeeping and invoicing software, and for a business bank account. This costs at least 20 to 50€ per month. You might need a tax advisor (*[[Steuerberater]]*) to help you with your taxes. Use [this calculator](https://www.steuerschroeder.de/Steuerberatergebuehren.html) to estimate the cost of a tax advisor.
+- **The [cost of living in Berlin](/guides/cost-of-living)**  
+    You must make enough money to live in Berlin. The [cost of living in Berlin](/guides/cost-of-living) can be different from what you are used to. You could need more money (or less) to have the same lifestyle.
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
-**[German tax calculator ➞](/tools/tax-calculator)**
-
 ### No paid vacations
 
-As a freelancer, you don't have paid vacations, paid holidays or sick days. When you don't work, you are not paid. If you remove the weekends, the national holidays and 30 vacation days, will only work around 210 days per year.[^1] You must take this into consideration when you calculate your salary.
+As a freelancer, you don't have paid vacations, paid holidays or sick days. When you don't work, you don't get paid. If you remove the weekends, the national holidays and 30 vacation days, will only work around 210 days per year.[^1] Think about this when you set your rates.
 
-Your work isn't always billable either. The time you spend looking for clients, doing your taxes or updating your website isn't billable. You must also include that in your calculation.
+You don't always get paid to work. The time you spend finding clients, doing your taxes or updating your website is not billable.
 
 ### Lower rates for long contracts
 
-Freelancers usually charge more for short gigs, and less for longer contracts. This is because one long contract requires less overhead than many short contracts. You will spend less time looking for clients, interviewing, writing contracts and invoicing clients.
+You usually charge more per hour for short contracts, and less for longer contracts. Longer contracts are more stable, and have less overhead. You spend less time finding clients, interviewing, writing contracts, etc.
 
-### VAT is not included in the price
+### Most developers charge by the day
 
-Software developer rates usually exclude the VAT. If you say that you charge 500€ per day, your client will expect to pay 500€ per day plus {{VAT_RATE}}% for the VAT.[^2]
+Most software developers have a daily rate. They charge for each full day of work. They rarely charge per hour, or per project.
 
-### Cost of living
+### VAT is not included
 
-The cost of living in Berlin can be different from what you are used to. You could need more money (or less) to have the same lifestyle.
-
-**[Cost of living in Berlin ➞](/guides/cost-of-living)**
-
-## Taxation for freelancers
-
-**[How to start a business in Germany ➞ Taxes](/guides/start-a-business-in-germany#taxes-in-germany)**
+If you say that you charge 500€ per day, your client will expect to pay 500€ per day plus {{VAT_RATE}}% for the [VAT](/glossary/Umsatzsteuer).[^2]
 
 ## Answers from the community
 
@@ -77,7 +71,7 @@ The cost of living in Berlin can be different from what you are used to. You cou
 
 "Never talk about hourly rates, thats not the kind of work you want, talk about day rates and discounts for taking 20 day packages. Whether your day rate is 350 or 1,200€ depends a lot of what exactly you are doing. **I pay designers 350-550€ and devs 450-1,200€ per day**." - Anonymous, September 2018
 
-"I guess **500€ per day would be a middle ground** [for contractors]" - Anonymous, September 2018
+"I guess **500€ per day would be a middle ground** (for contractors)" - Anonymous, September 2018
 
 "Charge whatever you think is appropriate and won't screw over other freelancers in your industry. **Do not charge an hourly rate of less than €50** — that goes for any freelancer. Expect to reserve half of your total income for taxes and health insurance — so basically **charge double what you'd like to receive**, all your expenses and cost of living considered." - [/u/pikachewits](https://www.reddit.com/r/berlin/comments/9b8tm8/a_few_questions_for_berlinbased_freelancers/), August 2018
 
@@ -97,6 +91,5 @@ The cost of living in Berlin can be different from what you are used to. You cou
 
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 
-[^0]: [andreas.boehrnsen.de](http://andreas.boehrnsen.de/blog/2016/01/freelance-rate-berlin/)
 [^1]: [kontist.com](https://kontist.com/posts/charging-as-a-freelancer)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9mdenm/how_much_should_a_freelance_developer_earn_in/)

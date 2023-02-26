@@ -132,7 +132,7 @@ Some online banks only accept card payments and bank transfers[^7]. Some banks a
 
 From 2017 to 2021, I used my personal [N26](/out/n26) account. [N26 Business](/out/n26-business) is exactly the same, but N26 doesn't let me have a personal account and a business account.
 
-Since January 2022, I use [Kontist](/out/kontist). It's bad, and I don't recommend it.
+Since January 2022, I use [Kontist](/out/kontist). It's not great, so I don't recommend it.
 
 **[My review of Kontist ➞](/guides/kontist-review)**
 

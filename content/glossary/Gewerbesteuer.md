@@ -12,6 +12,6 @@ The trade tax (*Gewerbesteuer*) is a tax most German businesses must pay.
 
 If your business is a *[[Gewerbe]]*, and you make more than {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year, you must pay the trade tax.[^0] *[[Freiberufler]]* do not pay the trade tax.
 
-**[How does the Gewerbesteuer work? ➞](/guides/gewerbesteuer)**
+**[How the Gewerbesteuer works ➞](/guides/gewerbesteuer)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewstg/__11.html)

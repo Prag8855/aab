@@ -65,9 +65,9 @@ If you make a lot of money, you pay a larger part of your income in taxes. If yo
 
 If you spread your income equally (the same income every year), you will pay less income tax. You also pay less for health insurance and many other things.
 
-For example, if you earned 90 000€ last year, and 10 000€ this year, you would pay 40 546€ + 2003€ in taxes and insurance. You earn 100 000€ in total, and you pay 42 549€ in taxes and insurance.
+For example, if you earned 90,000€ last year, and 10,000€ this year, you would pay 40,546€ + 2,003€ in taxes and insurance. You earn 100,000€ in total, and you pay 42,549€ in taxes and insurance.
 
-If you earned 50 000€ last year, and 50 000€ this year, you would pay 19 942€ + 19 942€ in taxes. You earned 100 000€ in total, and paid 39 884€ in taxes. You earned the same amount, but you paid 2665€ less taxes.
+If you earned 50,000€ last year, and 50 000€ this year, you would pay 19 942€ + 19 942€ in taxes. You earned 100 000€ in total, and paid 39 884€ in taxes. You earned the same amount, but you paid 2665€ less taxes.
 
 A pension can help you do that. With a pension, you earn less now (because you put money in your pension), and more later (because you receive a pension). When you are old, you won't have a big income, so you will pay less taxes.
 
