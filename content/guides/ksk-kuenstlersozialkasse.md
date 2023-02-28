@@ -216,6 +216,8 @@ If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany,
 
 The KSK is not a health insurer. You must [choose health insurance](/guides/german-health-insurance) yourself, and the KSK will pay for half of it. You can choose any [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^27] [In some cases](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk), you can also choose [private health insurance](/glossary/private%20Krankenversicherung).
 
+**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+
 If you don't have health insurance yet, talk to a health insurance broker. Health insurance is complicated for freelancers, and it's easy to make mistakes. A broker will help you choose the right insurance for your needs. Tell your broker that you plan to join the KSK.
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}

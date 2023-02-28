@@ -1,14 +1,14 @@
 ---
-Title: What is statutory health insurance (gesetzliche Krankenversicherung)?
+Title: What is German public health insurance?
 German_term: gesetzliche Krankenversicherung
 English_term: Public health insurance
 Description: 
 Date_created: 2018-11-30
 Date_updated: 2022-07-07
-Related_guides: guides/german-versicherungsnummer.md, guides/bafin-approved-insurance.md, guides/german-health-insurance.md, guides/insurance.md, guides/techniker-krankenkasse-review.md, guides/ottonova-review.md, guides/german-visa-health-insurance.md, guides/eyeglasses.md, tools/health-insurance-calculator.md, guides/ksk-kuenstlersozialkasse.md
+Related_guides: guides/german-health-insurance.md, guides/german-visa-health-insurance.md, guides/german-versicherungsnummer.md, guides/bafin-approved-insurance.md, guides/insurance.md, guides/techniker-krankenkasse-review.md, guides/ottonova-review.md, guides/eyeglasses.md, tools/health-insurance-calculator.md, guides/ksk-kuenstlersozialkasse.md
 ---
 
-Public health insurance (*gesetzliche Krankenversicherung* or *GKV*) pays for your healthcare when you need it. It's also called statutory health insurance. Public health insurance companies are called [*Krankenkassen*](/glossary/Krankenkasse).
+Public health insurance or statutory health insurance (*gesetzliche Krankenversicherung* or *GKV*) pays for your healthcare when you need it. It's also called statutory health insurance. Public health insurance companies are called [*Krankenkassen*](/glossary/Krankenkasse).
 
 89% of Germans have public health insurance. The rest have [private health insurance](/glossary/private%20Krankenversicherung) instead.
 

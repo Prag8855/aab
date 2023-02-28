@@ -35,11 +35,11 @@ You can buy pollen allergy pills in these places:
 - In online pharmacies like [Shop Apotheke](https://www.shop-apotheke.com/search.htm?q=heufieber)
 - On [Amazon](https://amzn.to/3wCJbR4)
 
-You can't buy allergy pills at dm or Rossmann.
+You can't buy allergy pills from dm or Rossmann.
 
 ### Does health insurance pay for it?
 
-**No.** Public health insurance does not pay for allergy pills.[^9] Private health insurance can pay for it if it's prescribed by a doctor.[^10]
+**No.** [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) does not pay for allergy pills.[^9] [Private health insurance](/glossary/private%20Krankenversicherung) can pay for it if it's prescribed by a doctor.[^10]
 
 ### Can I deduct it from my taxes?
 

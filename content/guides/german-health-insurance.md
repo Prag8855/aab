@@ -1,27 +1,27 @@
 ---
 Title: How to choose German health insurance
 Short_title: How to choose health insurance
-Description: Private or public health insurance? I explain the difference, and help you pick the right health insurance in Germany.
+Description: This guide explains how public and private health insurance work in Germany. It helps you choose the best health insurance for your needs.
 Date_created: 2018-11-29
 Date_updated: 2023-01-04
 Related_reviews: reviews/german-health-insurance/derrick-löhr.md, reviews/german-health-insurance/marvin-ewald-hammor.md, reviews/german-health-insurance/dr-rob-schumacher.md, reviews/german-health-insurance/daniel-derosa.md, reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-This guide explains how German health insurance works, and how to choose the best health insurance for your situation.
+This guide explains how health insurance works in Germany, and how to choose the best health insurance for your situation.
 
 {% include "blocks/_tableOfContents.html" %}
 
-## How health insurance works
+## How German health insurance works
 
-If you live in Germany, you must have health insurance. It's the law. You can't get a [residence permit](/glossary/Aufenthaltstitel) without health insurance.
+All German residents must have health insurance. You can't get a [residence permit](/glossary/Aufenthaltstitel) without health insurance.
 
 You pay for your health insurance every month. If you are sick, your health insurance pays for your healthcare.
 
-![Ibuprofen illustration health insurance](/illustrations/ibuprofen-illustration-health-insurance.png)
+![German health insurance illustration](/illustrations/ibuprofen-illustration-health-insurance.png)
 
 ## Your options
 
-Use the health insurance calculator to see your options.
+Use my German health insurance calculator to see your options.
 
 {% include 'blocks/_healthInsuranceCalculator.html' %}
 
