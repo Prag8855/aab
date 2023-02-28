@@ -8,8 +8,8 @@
   },
   "dateModified": "{{ entry.date_updated.strftime('%F') }}",
   "datePublished": "{{ entry.date_created.strftime('%F') }}",
-  "description": "{{ entry.description }}",
-  "headline": "{{ entry.title }}",
+  "description": {{ entry.description|tojson }},
+  "headline": {{ entry.title|tojson }},
   "mainEntityOfPage": "{{ entry.url }}",
   "publisher": {
     "@type": "Organization",

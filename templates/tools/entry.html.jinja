@@ -49,8 +49,8 @@
             {
                 "@context": "http://schema.org",
                 "@type": "WebPage",
-                "name": "{{ entry.title }}",
-                "description": "{{ entry.description }}",
+                "name": {{ entry.title|tojson }},
+                "description": {{ entry.description|tojson }},
                 "breadcrumb": {
                     "@context": "https://schema.org",
                     "@type": "BreadcrumbList",
@@ -75,8 +75,8 @@
                             "@type": "ListItem",
                             "position": 3,
                             "item": {
-                                "@id": "{{ entry.url}}",
-                                "name": "{{ entry.title }}"
+                                "@id": "{{ entry.url }}",
+                                "name": {{ entry.title|tojson }}
                             }
                         }
                     ]

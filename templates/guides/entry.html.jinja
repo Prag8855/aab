@@ -63,8 +63,9 @@
 			{
 				"@context": "http://schema.org",
 				"@type": "WebPage",
-				"name": "{{ entry.title }}",
-				"description": "{{ entry.description }}",
+				"name": {{ entry.title|tojson }},
+				"description": {{ entry.description|tojson }},
+				{% if entry.image_url|default %}"image": "{{ entry.image_url }}",{% endif %}
 				"breadcrumb": {
 					"@context": "https://schema.org",
 					"@type": "BreadcrumbList",
@@ -89,8 +90,8 @@
 							"@type": "ListItem",
 							"position": 3,
 							"item": {
-								"@id": "{{ entry.url}}",
-								"name": "{{ entry.title }}"
+								"@id": "{{ entry.url }}",
+								"name": {{ entry.title|tojson }}
 							}
 						}
 					]
@@ -106,13 +107,13 @@
 						{
 							"@context": "https://schema.org/",
 							"@type": "Person",
-							"jobTitle": "{{ reviewer.job_title }}",
-							"name": "{{ reviewer.name }}",
-							"email": "{{ reviewer.email }}"
+							"jobTitle": {{ reviewer.job_title|tojson }},
+							"name": {{ reviewer.name|tojson }},
+							"email": {{ reviewer.email|tojson }}
 							{% if reviewer.picture|default %}, "image": "{{ site_url }}/{{ reviewer.picture }}"{% endif %}
 							{% if reviewer.website|default %}
 								, "sameAs": [
-									"{{ reviewer.website }}"
+									{{ reviewer.website|tojson }}
 								]
 							{% endif %}
 						}{% if not loop.last %},{% endif %}
