@@ -144,6 +144,9 @@ config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
 )
 
+config.minify_js = True
+config.minify_css = True
+
 config.wikilinks_base_url = f'{config.site_url}/glossary'
 config.wikilinks_url_builder = build_wikilinks_url
 config.jinja_filters = {
