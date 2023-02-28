@@ -93,7 +93,7 @@ class EntryImageUrlProcessor(EntryContextProcessor):
         super().__init__()
 
     def process_entry(self, entry_uri: str, entry_context: dict) -> dict:
-        entry_context['image_url'] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.webp'))}"
+        entry_context['image_url'] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
         return entry_context
 
 
@@ -114,7 +114,7 @@ class EntryImageRenderer(Renderer):
                 continue
 
             entry_path = Path(entry_uri)
-            image_path = Path(entry_uri).with_suffix('.webp')
+            image_path = Path(entry_uri).with_suffix('.png')
             abs_image_path = config.output_path / image_path
             needs_rerender = False
 
@@ -132,7 +132,7 @@ class EntryImageRenderer(Renderer):
                 # Unicode strings cause problems, so a simple hash is more reliable
                 exif = image.getexif()
                 exif[exif_description_field] = self.get_hash(entry)
-                image.save(abs_image_path, optimize=True, quality=90, exif=exif)
+                image.save(abs_image_path, optimize=True, exif=exif)
 
             files_to_keep.add(image_path)
 
