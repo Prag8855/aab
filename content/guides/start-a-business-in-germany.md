@@ -7,12 +7,9 @@ Date_updated: 2023-01-03
 Related_reviews: reviews/start-a-business-in-germany/alexander-baron-von-engelhardt.md
 ---
 
-This guide shows you how to register a business in Germany, step by step.
+This guide explains how to start a business in Germany, step by step.
 
-This guide is not for you if:
-
-- you do not live in Germany, and you do not plan to live in Germany
-- or you want to start a corporation (*UG* or *GmbH*)
+This guide is only for people who live in Germany. It explains how to register a sole proprietorship, not a *UG* or a *GmbH*.
 
 {% include "blocks/_tableOfContents.html" %}
 
