@@ -15,6 +15,7 @@ window.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll('.search-form').forEach(searchForm => {
     let searchResults = [];
     let selectedResultIndex = 0;
+    let isNavigatingToResult = false;
     const searchInput = searchForm.querySelector('input[type="search"]');
     const searchResultsElement = searchForm.querySelector('.search-results');
 
@@ -36,8 +37,32 @@ window.addEventListener("DOMContentLoaded", function() {
         el.href = result.url;
         el.innerText = result.short_title || result.title || result.german_term;
         el.classList.toggle('highlighted', index === selectedResultIndex);
+        el.addEventListener('click', (e) => {
+          e.preventDefault();
+          openSearchResult(result.url, index);
+        })
         searchResultsElement.appendChild(el);
       });
+    }
+
+    function openSearchResult(url, index){
+      try {
+        plausible('Search', {
+          props: {queryAndDestination: `"${searchInput.value.trim()}" > ${url}`}
+        });
+      } catch (e) {
+        console.error(e);
+      }
+      isNavigatingToResult = true;
+      window.location = searchResults[selectedResultIndex].url;
+    }
+
+    function abandonSearch(){
+      if(!isNavigatingToResult){
+        plausible('Abandoned search', {
+          props: {query: searchInput.value.trim()}
+        });
+      }
     }
 
     searchInput.addEventListener('focus', e => {
@@ -51,6 +76,9 @@ window.addEventListener("DOMContentLoaded", function() {
           });
       }
     });
+
+    searchInput.addEventListener('blur', abandonSearch);
+
     if(searchInput.classList.contains('autofocus')) {
       searchInput.focus();
     }
@@ -59,10 +87,7 @@ window.addEventListener("DOMContentLoaded", function() {
 
     searchInput.addEventListener('keydown', e => {
       if(searchResults.length && e.key === "Enter"){
-        try {
-          plausible('Search', { props: { query: searchInput.value.trim(), destination: searchResults[selectedResultIndex].url, position: selectedResultIndex }});
-        } catch (e) {}
-        window.location = searchResults[selectedResultIndex].url;
+        openSearchResult(searchResults[selectedResultIndex].url, selectedResultIndex);
       }
       else if(searchResults.length && e.key === "ArrowUp"){
         selectedResultIndex = Math.max(selectedResultIndex - 1, 0);
