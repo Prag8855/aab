@@ -12,7 +12,13 @@ Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/german-work
 
 When you [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa) or [work visa](/guides/german-work-visa), you must include this form with your application.
 
+This is the official form for Berlin. The original document is [on Berlin.de](https://service.berlin.de/dienstleistung/305249/).
+
+## How to fill this form
+
 **[How to fill this form](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** - Essential Packing Checklists
+
+## This form in other languages
 
 You can download this form in 11 languages:
 
@@ -27,6 +33,4 @@ You can download this form in 11 languages:
 - [Spanish](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen3-antrag_span_port_russ-112021.pdf)
 - [Turkish](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen2-antrag_griech_tuerk_viet-112021.pdf)
 - [Vietnamese](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen2-antrag_griech_tuerk_viet-112021.pdf)
-
-This is the official form for Berlin. The original documents are [on Berlin.de](https://service.berlin.de/dienstleistung/305249/).
 

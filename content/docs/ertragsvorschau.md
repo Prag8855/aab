@@ -16,7 +16,7 @@ This is the official template from [Berlin.de](https://service.berlin.de/dienstl
 
 **[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 
-## How to fill this form
+## How to fill the revenue forecast
 
 You must describe your *estimated* income and expenses. It must be believable, but not perfectly accurate. Be ambitious! It's better to estimate too high than too low.[^1]
 
