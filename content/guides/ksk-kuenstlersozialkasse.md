@@ -334,6 +334,8 @@ These documents prove that you make money from artistic activities. They are als
 
 **These documents must be less than 6 months old**. The documents can come from another country.[^33]
 
+If you can, include proof that you have upcoming projects. Proofs of future income help a lot.[^52]
+
 ### Health insurance documents
 
 - **Proof of health insurance** (*Mitgliedbescheinigung*)  
@@ -561,3 +563,4 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^49]: [§3.2 KSVG](https://www.gesetze-im-internet.de/ksvg/__3.html), [§6 KSVG](https://www.gesetze-im-internet.de/ksvg/__6.html)
 [^50]: [vgsd.de](https://www.vgsd.de/als-ksk-mitglied-dazu-verdienen-ohne-status-zu-gefaehrden-dr-maria-kraeuter-antwortet/)
 [^51]: [§7 KSVG](https://www.gesetze-im-internet.de/ksvg/__7.html)
+[^52]: Sebastian Hoffmann at [Smart Coop](https://smart-eg.de/en/) (2022)
