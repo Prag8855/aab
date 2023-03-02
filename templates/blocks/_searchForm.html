@@ -58,7 +58,7 @@ window.addEventListener("DOMContentLoaded", function() {
     }
 
     function abandonSearch(){
-      if(!isNavigatingToResult){
+      if(!isNavigatingToResult && searchInput.value.trim()){
         plausible('Abandoned search', {
           props: {query: searchInput.value.trim()}
         });
