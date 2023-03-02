@@ -197,7 +197,7 @@ Your employer can hire a relocation consultant to help you. This helps a lot.
 - **A [bank account](/guides/first-bank-account-in-germany)**  
     Your employer will pay you by bank transfer. For this, you need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Any European bank account will work.
 - **Your [tax ID](/glossary/Steueridentifikationsnummer)** (*Steueridentifikationsnummer*)  
-    You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, you can still get a tax ID. If you can't get a tax ID, you can still start working. [More information.](/guides/german-tax-id-steuernummer#the-tax-id)
+    You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, you can still get a tax ID. If you can't get a tax ID, you can still start working. - [More information](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)
 - **Your health insurance number** (*Krankenversicherungsnummer*)  
     If you live in Germany, you must [choose health insurance](/guides/german-health-insurance). 2 to 7 days after you get health insurance, you get a *Krankenversicherungsnummer*. Your employer needs this number to take health insurance payments from your salary.
 - **Your [social insurance number](/guides/german-versicherungsnummer)** (*Sozialversicherungsnummer*)  

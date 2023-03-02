@@ -14,7 +14,7 @@ Normally, you get a [tax ID](/glossary/Steueridentifikationsnummer) after you [r
 
 If you already did your *[[Anmeldung]]*, you don't need this form. You can wait for your tax ID or request it again.
 
-**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id)**
+**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)**
 
 **[Download the form ↓](#download-buttons)**
 

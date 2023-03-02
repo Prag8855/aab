@@ -55,7 +55,7 @@ If you have a tax ID, but you don't have a registered address, you can still reg
 
 [**How to register your address in Berlin ➞**](/guides/anmeldung-in-english-berlin)
 
-**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id)**
+**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)**
 
 ### Open a bank account
 

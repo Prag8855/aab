@@ -12,4 +12,4 @@ The tax ID (*Steueridentifikationsnummer*) is a unique identification number all
 
 The tax ID is also called a *Steuerliche Identifikationsnummer*, *Persönliche Identificationsnummer*, *Identifikationsnummer, Steuer-IdNr.*, *IdNr* or *SteuerID*. The tax ID is not the same as the tax number (*[[Steuernummer]]*).
 
-**[How to get your tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id)**
+**[How to get your tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)**
