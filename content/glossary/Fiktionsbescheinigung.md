@@ -2,17 +2,16 @@
 Title: What is a Fiktionsbescheinigung?
 German_term: Fiktionsbescheinigung
 English_term: Temporary residence permit
-Description: 
+Description: Temporary residence permit given to those who wait for another residence permit to be approved.
 Date_created: 2018-07-31
 Date_updated: 2022-12-01
 Related_guides: guides/berlin-auslanderbehorde-same-day-appointment.md, guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/renew-german-freelance-visa.md
 ---
 
-A *Fiktionsbescheinigung* is a temporary [residence permit](/glossary/Aufenthaltstitel). It lets you stay in Germany while you wait for your residence permit. It [sometimes](/images/fiktionsbescheinigung-travel-2021-09-17.png) allows you to travel outside of Germany.[^0]
+A *Fiktionsbescheinigung* is a temporary [residence permit](/glossary/Aufenthaltstitel). It lets you stay in Germany while you wait for another residence permit.[^0] It's usually valid until your real residence permit is approved or rejected.
 
-For example, the [*Ausländerbehörde*](/glossary/Ausl%C3%A4nderbeh%C3%B6rde) can give you a *Fiktionsbescheinigung* if your old residence permit expires soon, and your new residence permit is not yet approved.
-
-You can't get a *Fiktionsbescheinigung* if you have a [[Schengen visa]].[^1]
+**[More about the Fiktionsbescheinigung ➞](/guides/fiktionsbescheinigung)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
+[^2]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Wikipedia](https://de.wikipedia.org/wiki/Fiktionsbescheinigung), [Berlin.de](https://service.berlin.de/dienstleistung/326233/en/)

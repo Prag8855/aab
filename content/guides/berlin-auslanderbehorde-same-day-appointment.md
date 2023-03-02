@@ -32,7 +32,7 @@ Sometimes, the website crashes. Wait a few minutes and try again.
 
 **If you can't get an online appointment,** [email your residence permit application to the *Ausländerbehörde*](https://www.berlin.de/einwanderung/ueber-uns/kontakt/).[^2]
 
-Attach all your application documents.[^3] A complete application might be processed faster. If you need a *[Fiktionsbescheinigung](/glossary/Fiktionsbescheinigung)*, say it in your message.[^23]
+Attach all your application documents.[^3] A complete application might be processed faster. If you need a *[[Fiktionsbescheinigung]]*, say it in your message.[^23]
 
 The Ausländerbehörde will process your application. You won't get any answer for a few months.[^4] It looks like they work on the most urgent cases first.
 
@@ -70,13 +70,17 @@ You will sit in front of an *Ausländerbehörde* employee and show your document
 
 Some *Ausländerbehörde* employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](https://www.redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
+**If your current residence permit expires soon**, ask for a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany for a little longer. Some versions of the *Fiktionsbescheinigung* let you travel outside of Germany.
+
+**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
+
+Some residence permits are approved on the same day, during your interview. You get a paper residence permit, pay the fee, and leave. Around 8 weeks later, you get your plastic residence permit by mail.
+
+Most residence permits are approved 1 to 6 months later.[^7]
+
 ### If your application is approved
 
-Some residence permits are approved on the same day, during your interview. You get a paper residence permit, pay the fee, then leave. Around 8 weeks later, you get your plastic residence permit by mail.
-
-Most residence permits are approved later. In Berlin, it usually takes 1 to 6 months.[^7] You get an email or a letter that tells you what to do next. If your current residence permit expires soon, don't panic! You might get a temporary permit (*[[Fiktionsbescheinigung]]*). It lets you stay in Germany for a bit longer. Some versions of the *[[Fiktionsbescheinigung]]* allow you to travel outside of Germany.[^8]
-
-You will get a letter with the PIN and PUK for your plastic residence permit (*elektronischer Aufenthaltstitel* or *eAT*). You don't need to do anything yet. A few weeks later, you will get your residence permit.
+1 to 6 months after your application,[^7] you will get a letter with the PIN and PUK for your plastic residence permit (*elektronischer Aufenthaltstitel* or *eAT*). You don't need to do anything yet. A few weeks later, you will get your residence permit by post.
 
 Your residence permit is valid between 6 months and 4 years. It depends on what residence permit you get, and how good your application is. Freelancers can get a shorter freelance visa if their income is low or if their health insurance is not good enough. When your residence permit is about to expire, you can renew it. The process is very similar.
 
@@ -96,7 +100,7 @@ If you don't get a residence permit, you pay nothing.
 
 ### If you don't get an answer
 
-If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*[^9] for failing to act. This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster.
+If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*[^9]. This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. Immigration lawyers can help you do this.
 
 If the *Ausländerbehörde* can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
@@ -120,9 +124,13 @@ After your *Ausländerbehörde* appointment, the interviewer can give you a *[[F
 
 **If you have an Ausländerbehörde appointment**, you can stay in Germany until your appointment date, even if your residence permit expires.[^20] You can continue working, freelancing or studying until your appointment date.[^11] You must book the appointment while your residence permit is valid.[^21]
 
+During your appointment, ask for a *[[Fiktionsbescheinigung]]*. This will let you travel outside of Germany, even if your residence permit expires.
+
+**[Information about the Fiktionsbescheinigung ➞](/guides/fiktionsbescheinigung)**
+
 **If you [apply by email](#by-email)**, the automated response counts as an application.[^12] You can stay in Germany until they process your application.[^5] You can continue to work, freelance or study while you wait.[^22] You must email your documents before your residence permit expires.[^13]
 
-If your residence permit expires, you should not travel outside of Germany. You can't re-enter Germany with an expired residence permit.[^14]
+If your residence permit expires and you don't have a *[[Fiktionsbescheinigung]]*, don't leave Germany. You can't re-enter Germany with an expired residence permit.[^14]
 
 ### If you don't have a residence permit
 
