@@ -193,8 +193,10 @@ a, strong a, b a, a strong, a b{text-decoration:none;cursor:pointer;color:var(--
 		.price .currency[data-currencies]{border-bottom:none;}
 		.article-body a[href*="/glossary/"]:hover, .currency[data-currencies]:hover{cursor:help;position:relative;border-bottom-color:var(--color-border-02);}
 		.currency[data-currencies]:hover::after{content:attr(data-currencies);font-size:var(--font-size-s);line-height:var(--line-height-compact);display:block;z-index:1000;position:absolute;top:100%;left:0;white-space:pre;background:var(--color-background-widget);padding:var(--spacing-s);border-radius:var(--border-radius);box-shadow:var(--box-shadow-m);border:var(--border-widget);text-align:right;font-weight:normal!important}
-blockquote, pre{border-radius:var(--border-radius);background:var(--color-background-widget);padding:var(--spacing-s) var(--spacing-m)}
+blockquote, pre{border-radius:var(--border-radius);background:var(--color-background-widget);padding:var(--spacing-text-block-m) var(--spacing-m)}
 	pre{font-family:monospace;overflow:auto}
+	blockquote > :first-child{margin-top:0}
+	blockquote > :last-child{margin-bottom:0}
 code {border-radius:var(--border-radius);background:var(--color-background-output);padding:0 3px;font-family:monospace;font-weight:200;font-size:16px;-webkit-box-decoration-break:clone;box-decoration-break:clone;}
 em, i{font-style:italic}
 h1, h2, h3, h4, h5, h6{font-family:var(--font-family-header);color:var(--color-text-header);font-weight:var(--font-weight-header);line-height:var(--line-height-compact);letter-spacing:-0.01em;}
