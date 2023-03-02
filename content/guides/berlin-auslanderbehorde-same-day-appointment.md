@@ -7,7 +7,8 @@ Date_updated: 2023-01-06
 
 If you need to apply for a residence permit or renew a German visa, you must go to the *[[Ausländerbehörde]]*. There are two ways to go to the *Ausländerbehörde* in Berlin:
 
-- **With an appointment** Get an appointment online, then go to your appointment. It's often impossible to get an appointment in time. You must check Berlin.de again and again. Appointments are only released for the next 3 months. New appointments are released every day.
+- **With an appointment**  
+    Get an appointment online, then go to your appointment. It's often impossible to get an appointment in time. You must check Berlin.de again and again. Appointments are only released for the next 3 months. New appointments are released every day.
 - **Without an appointment**  
     At the moment, you can't go to the *Ausländerbehörde* without an appointment. You can't queue in front of the *Ausländerbehörde* early in the morning. If you can't get an appointment, try [applying by email](#by-email).
 
@@ -29,7 +30,7 @@ Sometimes, the website crashes. This happens often. Just try again in a few minu
 
 ### By email
 
-**If you can't get an online appointment,** email the *Ausländerbehörde*.[^2] Attach all your application documents to the message.[^3] They should give you an appointment. If your application is well-prepared, they will answer faster. It looks like they work on the easiest or most urgent cases first.
+**If you can't get an online appointment,** email the *Ausländerbehörde*.[^2] Attach all your application documents to the message.[^3] They should give you an appointment. If your application is well-prepared and has all the required documents, they will answer faster. It looks like they work on the easiest or most urgent cases first.
 
 They can take a few months to answer,[^4] but while you wait, your residence permit is automatically extended.[^5] If your original residence permit expires while you wait, you can't travel, but you can stay in Germany and keep working.
 

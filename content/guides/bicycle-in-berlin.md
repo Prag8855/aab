@@ -173,7 +173,8 @@ These are some of the most important road rules for cyclists. Those rules apply 
     You can listen to music on your bicycle, but it must not be too loud.[^29] You must be able to hear sirens and horns.[^30] You can also make hands-free phone calls.[^31] If you get in an accident, and you wear headphones, you might not get money from the insurance company.[^32] They can say that you are partly responsible for the accident, even if you were the victim.
 - **You must hold the handlebars.**  
     If you ride without hands, you can get a 5€ fine.[^20]
-- **You can't ride your bicycle in some parks.** When you enter a park, look for this sign. Sometimes, it will say that bicycles are forbidden. If you ride your bicycle in these parks, you can get a 15€ fine. This happens often.
+- **You can't ride your bicycle in some parks.**  
+    Look at the signs near park entrances. Sometimes, bicycles are forbidden. If you ride your bicycle in these parks, you can get a 15€ fine.
 
 ### Right of way
 

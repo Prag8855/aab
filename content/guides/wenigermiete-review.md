@@ -51,7 +51,7 @@ Your landlord can also find legal reasons to end your lease.[^7] For example, if
 
 You have to decide what is more important for you: the money you save, or your relationship with your landlord.
 
-## ...but it works
+## And it works
 
 The most important part: this service works. One of my friends is saving [324€ per month](/images/wenigermiete-savings.png) thanks to them. There are many more success stories online.
 

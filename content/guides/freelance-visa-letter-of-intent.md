@@ -17,8 +17,10 @@ When you [apply for the German freelance visa](/guides/how-to-get-a-german-freel
 
 Letters of intent are officially required when you [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin.[^4] They are very important because they prove two things:
 
-- **You can find work and make money in Germany.** You will not get a freelance visa if you don't make enough money to support yourself.
-- **There is a regional demand for your services.** You will not get a freelance visa if you don't have any clients in Germany.[^0] You can't only work for clients in other countries.
+- **You can find work and make money in Germany.**  
+    You will not get a freelance visa if you don't make enough money to support yourself.
+- **There is a regional demand for your services.**  
+    You will not get a freelance visa if you don't have any clients in Germany.[^0] You can't only work for clients in other countries.
 
 **[How to apply for the German freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 

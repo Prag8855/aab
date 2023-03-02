@@ -133,7 +133,8 @@ Your eVB number is only valid for the type of insurance you asked for. If you re
 
 You must bring a few things to your *[[Kfz-Zulassungsstelle]]* appointment:
 
-- **[The registration form](/documents/sepa-lastschriftmandat-kfz-zulassungsstelle-berlin.pdf)** This is a one page form that you must fill *before* your appointment.
+- **[The registration form](/documents/sepa-lastschriftmandat-kfz-zulassungsstelle-berlin.pdf)**  
+    This is a one page form that you must fill *before* your appointment.
 - **[The direct debit authorisation](/documents/formular-kfz-zulassungsstelle-berlin.pdf)** (*[[SEPA-Lastschriftmandat]]*)  
     This allows the vehicle registration authority to withdraw money from your account. They will collect the vehicle tax directly from your account.
 

@@ -30,7 +30,8 @@ Register your address at the [*Bürgeramt*](/glossary/B%C3%BCrgeramt). This is c
 
 The *Bürgeramt* will tell other people your new address:
 
-- **Your church** If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
+- **Your church**  
+    If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
 - **The TV tax** (*[[Rundfunkbeitrag]]*)  
     The *[[ARD ZDF Deutschlandradio Beitragsservice]]* knows when you change your address. They will collect the TV tax for your new address.
 - **The Ausländerbehörde**  

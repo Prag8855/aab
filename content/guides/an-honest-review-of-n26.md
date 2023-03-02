@@ -181,12 +181,14 @@ The N26 app has many cool features. These features make it easy to budget and sa
 
 Here are a few things I love about the N26 app:
 
-- **Push notifications** This is my favourite feature. You get a notification for every transaction in your bank account. When I pay with my N26 card, I get the notification before the receipt starts printing. It helps you keep an eye on your spending and catch unexpected transactions.
+- **Push notifications**  
+    This is my favourite feature. You get a notification for every transaction in your bank account. When I pay with my N26 card, I get the notification before the receipt starts printing. It helps you keep an eye on your spending and catch unexpected transactions.
 - **Spaces** - [screenshot](/images/n26-app-spaces.jpg)  
     Spaces are a simple but useful feature. Spaces are buckets in which you can put money. You can transfer money to the "Bills" space, or create a "Vacations" space with a 3,000€ savings goal. You can even transfer money automatically. It's a nice way to create a simple budget. This feature is only for paid accounts. It used to be free. When you export transactions as CSV files, you can't see the money in your spaces.
 - **Transactions and stats** - [screenshot 1](/images/n26-app-home.jpg), [screenshot 2](/images/n26-app-budget.jpg)  
     N26 automatically categorises your transactions. You can easily search through them, and see statistics for each month. Unfortunately, the statistics only show your spending. This is not very useful if you have irregular income. The N26 [Smart](/out/n26-plans), [You](/out/n26-you) and [Metal](/out/n26-metal) accounts can automatically save a bit of money with every transaction.
-- **Google Pay and Apple Pay** N26 supports Google Pay, so you can pay by tapping your smartphone. I use N26 with Google Pay all the time. I rarely use my plastic card.
+- **Google Pay and Apple Pay**  
+    N26 supports Google Pay, so you can pay by tapping your smartphone. I use N26 with Google Pay all the time. I rarely use my plastic card.
 - **Multiple language options**  
     The app can be set to English, Spanish, French, Italian and German.
 - **Fingerprint login** - [screenshot](/images/n26-app-fingerprint.jpg)  

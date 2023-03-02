@@ -29,7 +29,8 @@ Personal liability insurance (*Privathaftpflichtversicherung*) protects you from
 
 Some insurance policies will cover these accidents:
 
-- **Lost keys** If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some leases require liability insurance that covers lost keys, but that's not legal.[^28]
+- **Lost keys**  
+    If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some leases require liability insurance that covers lost keys, but that's not legal.[^28]
 - **Damage to things you rent or borrow** (*geliehene Sachen*)  
     For example, you break the couch in your furnished apartment,[^6] you damage a hotel room while you are on vacation,[^7] or you borrow a neighbour's drill and you break it.[^8]
 - **Damage while helping a friend** (*Gefälligkeitsschäden*)  

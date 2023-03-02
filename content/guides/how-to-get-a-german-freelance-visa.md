@@ -283,20 +283,25 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Freelance visa application form, filled** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     *[Template](/docs/german-freelance-visa-form) - [detailed guide](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)*  
     This form is available in [German, English, French and Italian](/docs/german-freelance-visa-form). For instructions on how to fill this form, see [this guide](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/). This is only required if you apply for the first time.[^25]
-- **Appointment confirmation** This document shows a lot of useful information about your appointment.
+- **Appointment confirmation**  
+    This document shows a lot of useful information about your appointment.
 - **2 passport photos**  
     *[Detailed guide](/guides/biometric-pictures-in-berlin)*  
     You need two 35 × 45mm biometric pictures. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin), including from the photo booth at the *Ausländerbehörde*.[^26] You do not need to cut the passport photos yourself; they have a tool for this.[^27]
-- **{{NATIONAL_VISA_FEE|cur}}€ for the visa application fees**
-    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only need to pay when you get your visa. If you don't get a visa, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
-- **Proof of health insurance coverage**
-    **[Detailed guide](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)**  
+- **{{NATIONAL_VISA_FEE|cur}}€ for the visa application fees**  
+    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only pay when you get your freelance visa. If you don't get it, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
+- **Proof of health insurance coverage**  
+    *[Detailed guide](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)*  
     Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) has more details.
-- **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]]) [Detailed guide](/guides/replacement-meldebescheinigung)* - [*Wohnungsgeberbestätigung template* ](/docs/wohnungsgeberbestatigung)  
+- **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]])  
+    [Detailed guide](/guides/replacement-meldebescheinigung)* - *[Wohnungsgeberbestätigung template](/docs/wohnungsgeberbestatigung)*  
     You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9m^2^ per person in the apartment. If you rent a room, it must be at least 6m^2^. Student residences and communal accommodations are also accepted.[^50]
-    - The **[[Anmeldebestätigung]]** you received during your [[Anmeldung]]. It looks [like this](/images/Meldebescheinigung_Berlin.jpg). If you lost this document, you can [ask for a replacement](/guides/replacement-meldebescheinigung). This document is not required. If you don't have it, it's okay. If you have not done your *[[Anmeldung]]* yet, bring a proof that you have a booked *Bürgeramt* appointment.
-    - **and** your **lease**. Bring this document even if you have your *[[Anmeldebestätigung]]*. Some interviewers require it anyway.[^29] Temporary leases are accepted.[^30]
-    - **and** the **[[Wohnungsgeberbestätigung]]** from the landlord or the [main tenant](/glossary/Hauptmieter). This is the document you get from your landlord after signing your lease. It confirms that you are allowed to live there. Bring this document even if you have your *[[Anmeldebestätigung]]*. Many interviewers require it anyway.[^31] You can find a template [here](/docs/wohnungsgeberbestatigung).
+    - **Your [[Anmeldebestätigung]]**
+        You get this document during your *[[Anmeldung]]*. If you don't have it, it's okay; just bring the lease and the [[Wohnungsgeberbestätigung]]. If you can, bring proof that you have a *Bürgeramt* appointment to register your address.
+    - **and your lease**  
+        Bring this document even if you have your *[[Anmeldebestätigung]]*. Some interviewers require it anyway.[^29] Temporary leases are accepted.[^30]
+    - **and the [[Wohnungsgeberbestätigung]]**
+        You get this document from your landlord after you sign a lease. It confirms that you are allowed to live there. Bring this document even if you have your *[[Anmeldebestätigung]]*. Many interviewers require it anyway.[^31] You can find a template [here](/docs/wohnungsgeberbestatigung).
 
 ### Professional information
 
