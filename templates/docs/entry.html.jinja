@@ -9,6 +9,16 @@
 	<link rel="index" href="{{ site_url }}/docs">
 {% endblock %}
 
+{% set body_class = "with-sidebar" %}
+{% block precontent %}
+	<div class="sidebar">
+		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showDownloadLink=true %}
+			{% include 'blocks/_tableOfContents.html' %}
+		{% endwith %}
+	</div>
+	{% include "js/sidebar.js" %}
+{% endblock%}
+
 {% block content %}
 	<h1>{{ entry.title }}</h1>
 	{% include "blocks/_postMeta.html" %}
