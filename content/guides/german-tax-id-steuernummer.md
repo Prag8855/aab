@@ -16,7 +16,7 @@ This is your **unique, permanent tax identification number**. Every German resid
 
 ### Why you need a tax ID
 
-Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more taxes.[^0] You only get that money back later, when you file a [tax return](/glossary/Steuererkl%C3%A4rung).[^1]
+Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more salary tax.[^0] You will get that money back later, either on future paycheques, or when you file a [tax return](/glossary/Steuererkl%C3%A4rung).[^1]
 
 If you have children, you need their tax ID to apply for child benefits (*[[Kindergeld]]*), and to get a *[[Kitagutschein]]*.
 

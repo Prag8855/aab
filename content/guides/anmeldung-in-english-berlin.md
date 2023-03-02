@@ -88,7 +88,7 @@ If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steuerident
 
 ## If you can't register your address
 
-Sometimes, you can't do you *Anmeldung* at your current address. If you don't have a registered address, you can't access certain government services. If you just moved to Germany, this will make your life really hard.
+Sometimes, you can't do you *Anmeldung* at your current address. If you don't have a registered address, you can't access certain government services. If you just moved to Germany, it can make your life harder.
 
 ### Can the landlord refuse to let me register?
 
