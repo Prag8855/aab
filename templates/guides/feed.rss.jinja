@@ -6,15 +6,15 @@
     <atom:link href="{{ site_url }}/guides/feed.rss" rel="self" type="application/rss+xml" />
     <description>All About Berlin's most recent guides</description>
     <language>en</language>
-    <pubDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
-    <lastBuildDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</lastBuildDate>
+    <pubDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S") }} +0100</pubDate>
+    <lastBuildDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S") }} +0100</lastBuildDate>
 
     {% for entry in get_entries('guides', sort_by='date_created', reverse=True) %}
       <item>
         <title>{{ entry.title }}</title>
         <link>{{ entry.url }}</link>
-        <pubDate>{{ entry.date_created.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
-        <author>Nicolas Bouliane</author>
+        <pubDate>{{ entry.date_created.strftime("%a, %d %b %Y %H:%M:%S") }} +0100</pubDate>
+        <author>contact@allaboutberlin.com (Nicolas Bouliane)</author>
         <guid>{{ entry.url }}</guid>
         <description>
           <![CDATA[{{ entry.description }}]]>
