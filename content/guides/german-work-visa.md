@@ -381,7 +381,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### How long does it take to get a work visa?
 
-It takes **8 to 12 weeks** to get a work visa when you apply in Germany,[^33] but it can take up to 16 weeks.[^55]
+It takes **8 to 12 weeks** to get a work visa when you apply in Germany,[^33] but it can take up to 16 weeks.[^55] Different departments process applications from different nationalities. Some departments are slower.[^65]
 
 You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€, because you don't need approval from the [[ZAV]].
 
@@ -487,4 +487,5 @@ leave for a longer period without a special permission, your residence permit be
 [^61]: [berlin.de](https://service.berlin.de/dienstleistung/305304/en/), [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389)
 [^62]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403), [BAMF \(archived\)](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work/), [hamburg.com](https://www.hamburg.com/welcome/entry-residence/work/11749182/eu-blue-card/)
 [^63]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)
-[^64]: Jana Köhler, [HalloGermany](https://hallogermany.com/) (July 2022)
+[^64]: Jana Köhler from [HalloGermany](https://hallogermany.com/) (July 2022)
+[^65]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)

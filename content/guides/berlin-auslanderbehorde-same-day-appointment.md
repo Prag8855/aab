@@ -26,19 +26,27 @@ You can use the [appointment booking tool](/out/auslanderbehorde-appointment), o
 
 **Most of the time, there are no appointments available**. This is not a bug. Keep the calendar page open, and refresh it every 5-10 minutes. If you wait too long, you must re-enter your information every time. New appointments become available at random times. They also release short-term appointments every Wednesday and Friday.[^1]
 
-Sometimes, the website crashes. This happens often. Just try again in a few minutes, and try again.
+Sometimes, the website crashes. Wait a few minutes and try again.
 
 ### By email
 
-**If you can't get an online appointment,** email the *Ausländerbehörde*.[^2] Attach all your application documents to the message.[^3] They should give you an appointment. If your application is well-prepared and has all the required documents, they will answer faster. It looks like they work on the easiest or most urgent cases first.
+**If you can't get an online appointment,** [email your residence permit application to the *Ausländerbehörde*](https://www.berlin.de/einwanderung/ueber-uns/kontakt/).[^2]
 
-They can take a few months to answer,[^4] but while you wait, your residence permit is automatically extended.[^5] If your original residence permit expires while you wait, you can't travel, but you can stay in Germany and keep working.
+Attach all your application documents.[^3] A complete application might be processed faster. If you need a *[Fiktionsbescheinigung](/glossary/Fiktionsbescheinigung)*, say it in your message.[^23]
+
+The Ausländerbehörde will process your application. You won't get any answer for a few months.[^4] It looks like they work on the most urgent cases first.
+
+If your residence permit expires while you wait, the conditions of your residence permit still apply. You can keep working, freelancing or studying like before.[^5] You should not travel outside of Germany, because you can't re-enter the country with an expired residence permit.
 
 **Useful links:**
 
-- [Contact us](https://www.berlin.de/einwanderung/ueber-uns/kontakt/) - Berlin.de
+- [Contact the *Ausländerbehörde*](https://www.berlin.de/einwanderung/ueber-uns/kontakt/) - Berlin.de
 - [Request for renewal by email](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php) - Berlin.de
 - [Current information on making online appointments](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english) - Berlin.de
+
+### By registered mail
+
+You can send your residence permit application by [registered mail](/glossary/Einschreibebrief). It's exactly like if you apply by email. It's not better or faster.[^23]
 
 ### In person
 
@@ -56,7 +64,7 @@ At the *Ausländerbehörde*, sit in the waiting room and wait until your number 
 
 [![Auslaenderbehoerde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
 
-### The residence permit interview
+### Your residence permit interview
 
 You will sit in front of an *Ausländerbehörde* employee and show your documents. This takes around 10 minutes.[^6] The employee will tell you to go in the waiting room again. They will call your number again in 5 to 45 minutes.
 
@@ -174,3 +182,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://w
 [^20]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Facebook](https://www.facebook.com/groups/226825394858771/posts/940638950144075/?comment_id=940981506776486&reply_comment_id=942997343241569)
 [^21]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)
 [^22]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20residence%20title%20(permit%20of%20residence%2C%20blue%20card%2C%20visa%20for%20long%20term%20residence)%20will%20be%20considered%20as%20lawful%20in%20germany)
+[^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
