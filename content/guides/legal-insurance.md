@@ -49,7 +49,7 @@ Here are a few examples where your legal insurance can help:
 - **Problems with a business**  
     For example, if your laptop stopped working and the company won't fix it, or if a gym won't cancel your membership.
 - **Problem with a government office**  
-    For example, if you have problems with the *[[Finanzamt]]* or the *[[Bürgeramt]]*. Immigration problems are not covered.
+    For example, if you have problems with the *[[Finanzamt]]* or the *[[Bürgeramt]]*. Immigration problems are rarely covered.[^39]
 - **Problem with another insurance**  
     For example, if your disability insurance won't pay, or if you had a car accident and the other person's insurance won't pay.[^4] This is very common: 25% of disability insurance claims are refused.[^5]
 - **You want to sue someone for damages**  
@@ -228,3 +228,4 @@ If you just need protection for apartment problems, join a tenant association (*
 [^36]: [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/4623131591032924)
 [^37]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_berathig/englisch_berathig.html#p0013)
 [^38]: [beratungshilfe-berlin.de](http://www.beratungshilfe-berlin.de/beratungshilfe)
+[^39]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
