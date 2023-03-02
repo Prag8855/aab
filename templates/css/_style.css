@@ -308,7 +308,7 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 		#tooltip.loading h2{display:none;}
 		#tooltip h2 a{color:var(--color-text-header);text-decoration:none;}
 			#tooltip h2 a:hover dfn{text-decoration:underline;}
-		#tooltip small{display:block;font-size:var(--font-size-m);font-family:var(--font-family-text)}
+		#tooltip small{display:block;font-size:var(--font-size-m);font-family:var(--font-family-text);line-height:var(--line-height-compact);margin-top:var(--spacing-s)}
 			#tooltip h2 a:hover small{text-decoration:none;}
 	#tooltip .body :last-child{margin-bottom:0}
 	#tooltip .close{display:block;text-decoration:none;float:right;width:45px;height:45px;line-height:45px;font-size:var(--font-size-h2);color:var(--color-text-light);text-align:center}
