@@ -237,9 +237,9 @@ If you are a freelancer, you will only get 50% of your pension payments back ({{
 
 If you want to know the exact amount, ask the [[Deutsche Rentenversicherung]] for a *Versicherungsverlauf* [here](/out/drv-pension-payments-info) (in German). [Germany Pension Refund](/out/germany-pension-refund) and [FundsBack](/out/fundsback) can also check the amount for you, for free. Either way, it only takes a few days. I have done it myself, and it was very easy.
 
-## How do I ask for a pension refund?
+## How to ask for a pension refund
 
-The pension refund is not automatic. You must apply for it. You can do it yourself, or you can ask someone to do it for you.
+The pension refund is not automatic. You must apply for it. You can do it yourself, or ask someone to do it for you.
 
 ### Do it yourself
 
@@ -282,7 +282,7 @@ If you want to do it yourself, here are the steps:[^19]
 6. **Send everything to the Deutsche Rentenversicherung**  
     Send all the required forms and documents to *Deutsche Rentenversicherung Bund 10704 Berlin.*[^24] Don't send the documents before the end of the 2 year waiting period. If you send your documents too early, they will send them back to you.
 7. **Wait for an answer**  
-    The Deutsche Rentenversicherung will review your case. If they need more information, they will contact you.[^25] They will contact you by post, in German. You might need to mail more documents later.[^26] You might need to go to the German embassy or consulate to prove that you live in that country. Each employee wants something different. You must be patient.
+    The Deutsche Rentenversicherung will review your case. If they need more documents, they will contact you.[^25] They will contact you by post, in German. You might need to mail more documents later.[^26] You might need to go to the German embassy or consulate to prove that you live in that country. Each employee wants something different. You must be patient.
 8. **Get your refund**  
     The Deutsche Rentenversicherung will send you a letter to confirm that you want your refund.[^27] After you confirm, you might wait another 6 weeks before you get your refund.
 

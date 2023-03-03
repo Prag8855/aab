@@ -8,7 +8,7 @@ Date_updated: 2022-08-26
 
 {% include 'blocks/_pensionRefundCalculatorStatic.html' %}
 
-**[How to apply for a pension refund ➞](/guides/pension-payments-refund#how-do-i-ask-for-a-pension-refund)**
+**[How to apply for a pension refund ➞](/guides/pension-payments-refund#how-to-ask-for-a-pension-refund)**
 
 You can request a pension refund yourself, or pay a someone to do it for you. [FundsBack](/out/fundsback), [Germany Pension Refund](/out/germany-pension-refund) and [German Pension Refund](/out/german-pension-refund) can request a pension refund for you. It's faster if you hire them, but you must pay a fee for their services.
 
