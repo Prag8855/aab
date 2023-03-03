@@ -36,9 +36,7 @@ You can also get a [sick note](/glossary/Krankschreibung) for stress, depression
 
 ### 3. Send the sick note to your employer
 
-You will get 3 copies of your sick note. One is for your employer. Send them their copy as soon as you can.
-
-After January 1, 2023, this will be automatic. Your doctor will send an electronic sick note directly to your employer. You won't need to do anything.
+Since 2023, you don't need to bring a sick note to your employer. Your employer can get a digital copy of your sick note from your health insurer.[^25]
 
 ### 4. Get better
 
@@ -145,3 +143,4 @@ Missing work because of a hangover looks really bad. If it happens often, you ca
 [^22]: [die-kuendigungsschutzkanzlei.de](https://www.die-kuendigungsschutzkanzlei.de/2020/01/krankmeldung-wegen-kater/#:~:text=wer%20krankheitsbedingt%20regelma%C3%9Fig%20fehlt%2C%20riskiert%20die%20kundigung)
 [^23]: [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/jobfrage-kann-man-sich-mit-kater-krankschreiben-lassen-59202490.bild.html), [anwalt.de](https://www.anwalt.de/rechtstipps/olg-frankfurt-entscheidet-alkoholbedingter-kater-gilt-als-krankheit_163903.html#:~:text=auch%20wer%20verkatert%20zur%20arbeit%20erscheint%2C%20geht%20ein%20risiko%20ein.), [praxistipps.focus.de](https://praxistipps.focus.de/wegen-einem-kater-krankschreiben-lassen-alle-infos_137943#:~:text=fehlen%20sie%20auffallig%20oft)
 [^24]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/leistungen/krankengeld/selbststaendige/krankengeldanspruch-selbststaendige-2006296)
+[^25]: [arbeitgeber.de](https://arbeitgeber.de/elektronische-arbeitsunfaehigkeitsbescheinigung/)
