@@ -160,7 +160,7 @@ Usually, you need a [registration certificate](/glossary/Anmeldebest%C3%A4tigung
 
 If you can, have 2 bank accounts: one for you, and one for your business. It's not required, but it's a good idea. It makes accounting easier. I have a personal bank account with [N26](/out/n26), and a business account with [Kontist](/out/kontist).
 
-You will need money in your German bank account. I used [Wise](/out/transferwise) (TransferWise) to transfer money from Canada to Germany.
+You will need money in your German bank account. I used [Wise](/out/transferwise) to transfer money from Canada to Germany.
 
 ### Step 4: Register your address
 

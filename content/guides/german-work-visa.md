@@ -4,12 +4,12 @@ Short_title: How to get a work visa or Blue Card
 Description: This guide shows you how to apply for a work visa and a Blue Card, step by step. These visas are your first step to working in Germany.
 Date_created: 2019-06-19
 Date_updated: 2022-12-13
-Related_reviews: reviews/german-work-visa/kathleen-parker.md, reviews/german-work-visa/johanna-sieben.md
+Related_reviews: reviews/german-work-visa/alexander-baron-von-engelhardt.md, reviews/german-work-visa/kathleen-parker.md, reviews/german-work-visa/johanna-sieben.md
 ---
 
 In this guide, I show you how to apply for the German work visa and the EU Blue Card.
 
-- The **[German work visa](/glossary/Work%20Visa)** is a [residence permit](/glossary/Aufenthaltstitel) that lets you work in Germany.
+- The **[German work visa](/glossary/Work%20Visa)** is a [residence permit](/glossary/Aufenthaltstitel) that lets you work as an employee in Germany.
 - The **[EU Blue Card](/glossary/Blue%20Card)** is like a work visa, but better. The application process is almost the same.
 
 {% include "blocks/_tableOfContents.html" %}
@@ -24,7 +24,7 @@ You **need** a [residence permit](/glossary/Aufenthaltstitel) if:
 
 You **do not need** a residence permit if:
 
-- You are a citizen or [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the European Union, Iceland, Liechtenstein, Norway or Switzerland[^0]
+- You are a [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, or a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland[^0]
 - **or** your current residence permit lets you work in Germany. For example, the German [student visa](/glossary/Student%20visa) lets you work up to 120 days or 240 half days per year.[^1]
 - **or** you want to be self-employed. You need a [freelance visa](/glossary/Freelance%20visa) for this.
 
@@ -41,7 +41,7 @@ There are many types of [residence permit](/glossary/Aufenthaltstitel) that let 
 - **You can get it faster**  
     You don't need permission from the [[ZAV]] if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€. This makes the application process shorter.[^2]
 - **It's easier to change jobs**  
-    After 2 years, you can work for another employer without updating your Blue Card.[^3] This saves a lot of time. With the work visa, you must reapply for a new visa every time you change jobs.[^35]
+    After 2 years with a Blue Card, you can change jobs without applying for a new Blue Card.[^3] This saves a lot of time. With the work visa, you must apply for a new visa every time you change jobs.[^35]
 - **You can get your [permanent residence](/glossary/Niederlassungserlaubnis) faster**  
     With a Blue Card, you can get your permanent residence in 33 months[^4] instead of 60 months.[^5] If you get a B1 language certificate, you can get your permanent residence in 21 months.[^4]
 - **It's easier to move to other EU countries**  
@@ -118,7 +118,7 @@ The best option depends on your citizenship:
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^16] You can come to Germany, find a job, then apply for a work visa or Blue Card in Germany.[^17] You can also apply in your home country.
 - **If you are a citizen of any other country**, there are two ways to get a work visa or Blue Card:
     1. Apply for a work visa or Blue Card at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
-    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen),[^18] come to Germany, find a job, then apply for a work visa or Blue Card.
+    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen),[^18] come to Germany, [find a job](/guides/find-a-job-in-berlin), then apply for a work visa or Blue Card in Germany.
 
 ## How to apply in Germany
 
@@ -135,7 +135,7 @@ If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come t
 
 ### Step 2: [Find a job in Germany](/guides/find-a-job-in-berlin)
 
-- **You need**: nothing
+- **You need**: useful skills
 - **You get**: a job offer
 
 You need a job offer to apply for a work visa and a Blue Card.[^21] It must be a [skilled job](https://en.wikipedia.org/wiki/Skilled_worker). You can't get a work visa or Blue Card for unskilled work.[^22] For example, you can't get a work visa to be a cashier or a call centre employee.
@@ -148,7 +148,7 @@ If you can, [find a job](/guides/find-a-job-in-berlin) before you come to German
 
 ### Step 3: Get pre-approval from the [[ZAV]] (optional)
 
-- **You need**: nothing
+- **You need**: a job offer, the pre-approval application form
 - **You get**: a letter from the [[ZAV]] that makes your visa application go faster
 - **How long it takes**: up to 6 weeks
 
@@ -178,13 +178,17 @@ You do not need approval from the ZAV if:
 - **You get**: a bank account
 - **How long it takes**: 1 or 2 days
 
-When you start working, you need a bank account to get paid. You also need it to pay your rent. Some banks ask for a registration certificate (*[[Anmeldebestätigung]]*). You only get it when you [register your address](/glossary/Anmeldung), but there are [banks that don't ask for a registration certificate](/guides/german-banks-no-address).
+You don't need a bank account to get a residence permit, but you need it for other things:
 
-You don't need a German bank account; any bank that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung) is okay. [N26](/out/n26) is a good option, because they speak English and don't ask for a [registration certificate](/glossary/Anmeldebest%C3%A4tigung). I use N26 [since 2016](/guides/an-honest-review-of-n26).
+* To get paid by your employer
+* To pay your rent
+* To buy food and other things you need
+
+You don't need to choose a German bank; any bank that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung) is okay. [N26](/out/n26) is a good option, because they speak English and don't ask for a [registration certificate](/glossary/Anmeldebest%C3%A4tigung). I use N26 [since 2016](/guides/an-honest-review-of-n26).
 
 **[German banks for expats ➞](/guides/first-bank-account-in-germany#german-banks-for-expats)**
 
-You will need money in your bank account to pay your rent deposit (*[[Kaution]]*), and to survive until you get paid. I used [Wise](/out/transferwise) (TransferWise) to transfer money from another country to my German bank account.
+You need money in your bank account to pay your apartment deposit (*[[Kaution]]*), and to survive until you get paid. I used [Wise](/out/transferwise) to transfer money from another country to my German bank account.
 
 ### Step 5: [Find a place to live](/guides/find-a-flat-in-berlin)
 
@@ -248,13 +252,15 @@ I recommend [Feather Insurance](/out/popsure) because I work with them since 201
 
 You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it's really hard to find an appointment.[^47] In Berlin, your appointment can be weeks or months in the future. The appointment is free. You only pay if you get the residence permit.
 
-In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can [book your appointment here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48] You can also [go in person](/guides/berlin-auslanderbehorde-same-day-appointment#in-person) or [send your documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can [book your appointment here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48]
+
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
 
 {% include "blocks/appointmentLink/_applyResidencePermit.html" %}
 
 **[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-same-day-appointment)**
 
-If your current visa expires soon, there are ways to stay in Germany until you get your freelance visa.
+If your current visa expires soon, there are ways to stay in Germany until you get your work visa.
 
 **[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
 
@@ -262,11 +268,13 @@ If your current visa expires soon, there are ways to stay in Germany until you g
 
 We explain the required documents in the "[Required documents](/guides/german-work-visa#required-documents)" section of this guide. You can find it [below](#required-documents).
 
-### Step 10: Go to your visa appointment
+### Step 10: Go to your Ausländerbehörde appointment
 
 - **You need**: all the [required documents](/guides/german-work-visa#required-documents), [health insurance](/guides/german-visa-health-insurance)
-- **You get**: nothing (you will get the visa a few weeks later)
+- **You get**: a confirmation letter
 - **How long it takes**: less than 1 hour
+
+You go to the *Ausländerbehörde* to give your documents. You will not get your residence permit, just a confirmation letter.
 
 **[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-same-day-appointment#what-happens-during-your-appointment)**
 
@@ -314,7 +322,7 @@ You must go to the embassy or consulate again. They will give you a temporary vi
 
 ### Step 5: Come to Germany
 
-After you get your visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
+After you get your temporary visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
 You can start working as soon as you arrive in Germany. You will need to [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany), [get health insurance](/guides/german-health-insurance) and a few other things. You can find an apartment, open a bank account and get health insurance before you arrive in Germany. It will save you some time.
 
@@ -410,6 +418,8 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 You must tell the *Ausländerbehörde* as soon as you lose your job. Your visa is still valid, but the *Ausländerbehörde* can shorten your visa.[^56] The *Ausländerbehörde* will give you 3 to 6 months to find another job or leave Germany.
 
+If you don't tell the *Ausländerbehörde* that you lost your job, you and your employer can be fined.[^66]
+
 ### Can I travel outside of Germany?
 
 **Yes**. With a work visa, you can leave Germany **for up to 6 months**.[^37] With a Blue Card, you can leave Germany for up to 12 months. If you   
@@ -489,3 +499,4 @@ leave for a longer period without a special permission, your residence permit be
 [^63]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)
 [^64]: Jana Köhler from [HalloGermany](https://hallogermany.com/) (July 2022)
 [^65]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
+[^66]: Alexander von Engelhardt, [immigration lawyer](https://www.vonengelhardt.com/) (January 2023)
