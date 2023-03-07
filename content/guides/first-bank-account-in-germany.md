@@ -251,7 +251,7 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^41]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4si4pk/which_bank_i_can_open_sperrkonto_accout_from/), [sparkasse.de](https://www.sparkasse.de/themen/studium/blocked-account.html)
 [^42]: [Twitter](https://twitter.com/DeutscheBank/status/1547823819171061761)
 [^43]: [quora.com](https://www.quora.com/Which-is-the-best-option-for-opening-a-blocked-account-in-Germany-as-an-international-student-Sutor-Bank-online-app-Fintiba-or-Deutsche-Bank-1), [msingermany.co.in](https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)
-[^44]: [finanztip.de](https://www.finanztip.de/sichere-banken/einlagensicherung/)
+[^44]: [Finanztip](https://www.finanztip.de/sichere-banken/einlagensicherung/)
 [^45]: [acceptmyiban.org](https://www.acceptmyiban.org/), [together.bunq.com](https://together.bunq.com/d/42477-bunq-in-deutschland/30)
 [^46]: [Wikipedia](https://en.wikipedia.org/wiki/Girocard)
 [^47]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pdr7di/banking_in_berlin/)

@@ -28,4 +28,4 @@ Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
 
 If someone is missing from this list, [let me know](/suggest-business).
 
-[^0]: [finanztip.de](https://www.finanztip.de/anwaltskosten/)
+[^0]: [Finanztip](https://www.finanztip.de/anwaltskosten/)

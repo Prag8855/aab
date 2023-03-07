@@ -189,8 +189,8 @@ If you just need protection for apartment problems, join a tenant association (*
 - **It rarely covers certain things** like intentional crimes, divorces and immigration.
 - **There are cheaper options**. It depends on what you need.
 
-[^0]: [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html), [finanztip.de](https://www.finanztip.de/anwaltskosten/)
-[^1]: [finanztip.de](https://www.finanztip.de/anwaltskosten/)
+[^0]: [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html), [Finanztip](https://www.finanztip.de/anwaltskosten/)
+[^1]: [Finanztip](https://www.finanztip.de/anwaltskosten/)
 [^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/66395-legal-insurance/?page=3), [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/freie-anwaltswahl/)
 [^3]: [aerzteblatt.de](https://www.aerzteblatt.de/archiv/12335/Haftpflicht-Hausrat-Rechtsschutz-Wie-lange-Kinder-mitversichert-sind)
 [^4]: [reddit.com/r/AskAGerman](https://old.reddit.com/r/AskAGerman/comments/ph3wum/should_i_get_legal_insurance_to_protect_myself/hbh4l1s/)
@@ -200,7 +200,7 @@ If you just need protection for apartment problems, join a tenant association (*
 [^8]: [ra-kanzlei-hamm.de](https://ra-kanzlei-hamm.de/rechtsschutzversicherung-und-auslanderrecht/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/375700-legal-insurance-advicerecommendations/#comment-3636423), [storage.googleapis.com](https://storage.googleapis.com/content.getpopsure.com/legal/legal-insurance/roland/ToS_General.pdf)
 [^9]: [clark.de](https://www.clark.de/rechtsschutzversicherung/privater-rechtsschutz/#Was-deckt-die-private-Rechtsschutzversicherung-nicht-ab?), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/rechtsschutzversicherung-ueberfluessig-oder-sinnvoll-32194)
 [^10]: [rechtsschutzversicherung.com](https://www.rechtsschutzversicherung.com/rechtsschutzversicherung-scheidung/)
-[^11]: [finanztip.de](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
+[^11]: [Finanztip](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
 [^12]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/vorsatztaten-mitversichert/)
 [^13]: [versicherungenmitkopf.de \(archived\)](https://web.archive.org/web/20210917003713/https://20210917003713/legal-insurance-germany?lang=en)
 [^14]: [hellogetsafe.com](https://www.hellogetsafe.com/documents/legal_comfort_roland.pdf?lang=en)
@@ -213,7 +213,7 @@ If you just need protection for apartment problems, join a tenant association (*
 [^21]: [fnp.de](https://www.fnp.de/ratgeber/geld/wenn-rechtsschutzversicherung-kunden-kuendigt-10458481.html), [reddit.com/r/AskAGerman](https://old.reddit.com/r/AskAGerman/comments/ph3wum/should_i_get_legal_insurance_to_protect_myself/)
 [^22]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)
 [^23]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/90f3u3/can_anyone_recommend_good_rechtsschutzversicherung/e2rbzwa/)
-[^24]: [finanztip.de](https://www.finanztip.de/rechtsschutzversicherung/mietrechtsschutz/)
+[^24]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/mietrechtsschutz/)
 [^25]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/360547-legal-insurance/#comment-3479765), [hausundgrund.de](https://www.hausundgrund.de/themen)
 [^26]: [clark.de](https://www.clark.de/rechtsschutzversicherung/verkehrsrechtsschutz/#Braucht-man-eine-Rechtsschutzversicherung-f%C3%BCr-ein-Auto,-zus%C3%A4tzlich-zur-Kfz-Versicherung?)
 [^27]: [clark.de](https://www.clark.de/rechtsschutzversicherung/verkehrsrechtsschutz/#Was-beinhaltet-die-Verkehrsrechtsschutzversicherung-nicht?), [coya.com](https://www.coya.com/privathaftpflicht/schaden/umfang/fahrrad)

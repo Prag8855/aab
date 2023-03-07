@@ -61,7 +61,7 @@ Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtvers
 [^0]: [stern.de](https://www.stern.de/wirtschaft/news/schluesseldienst-betrug--rechnung-ueber-1240-euro-fuer-einmal-tuer-aufmachen-8485766.html), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hlohza/looks_like_i_got_scammed_of_400_euros_by/)
 [^1]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
 [^2]: [berlinerisch.com](http://berlinerisch.com/blog/2018/09/20/lose-your-german-apartment-keys/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/277492/lost_my_apartment_key/)
-[^3]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
+[^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^4]: [a-schluesseldienstberlin.de](https://a-schluesseldienstberlin.de/tueroeffnung-berlin/)
 [^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4bmolo/copying_an_apartment_key_without_the/d1an7l0/)
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9gyyeu/lost_my_car_keys_by_the_canal_by_the_landwehr/)

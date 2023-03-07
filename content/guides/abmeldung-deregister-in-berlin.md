@@ -182,7 +182,7 @@ In 2 years, you can [get a refund for your pension payments](/guides/pension-pay
 [^12]: [Screenshot](/images/Screenshot-2022-01-17-at-09.08.56.png)
 [^13]: [Screenshot](/images/ba-steglitz-abmeldung-email-requirements.png)
 [^14]: [wirelesslife.de](https://wirelesslife.de/wohnsitz-abmelden-umzug-ins-ausland/#umzug5)
-[^15]: [finanztip.de](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/)
+[^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/)
 [^16]: [wirelesslife.de](https://wirelesslife.de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
 [^17]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/m14kvt/what_happens_after_the_abmeldung/gqboqey/?utm_source=reddit&utm_medium=web2x&context=3)
 [^18]: [facebook.com](https://www.facebook.com/groups/226825394858771/permalink/825051525036152)

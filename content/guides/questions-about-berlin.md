@@ -134,9 +134,9 @@ If you speak German, these communities can also help you
 Write to <contact@allaboutberlin.com>. I can't answer every question, but I can point you in the right direction.
 
 [^0]: [joinimagine.com](https://www.joinimagine.com/faq)
-[^1]: [finanztip.de](https://www.finanztip.de/rechtsschutzversicherung/), [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html)
-[^2]: [finanztip.de](https://www.finanztip.de/rechtsschutzversicherung/mietrechtsschutz/)
+[^1]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/), [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html)
+[^2]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/mietrechtsschutz/)
 [^3]: [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html)
-[^4]: [finanztip.de](https://www.finanztip.de/rechtsschutzversicherung/)
+[^4]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/)
 [^5]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_berathig/englisch_berathig.html#p0013)
 [^6]: [beratungshilfe-berlin.de](http://www.beratungshilfe-berlin.de/beratungshilfe)
