@@ -18,6 +18,8 @@ The *Pfand* system is a big part of [sorting your trash in Germany](/guides/sort
 
 The deposit is **between 8 and 25 cents**. It depends on the type of container.[^0]
 
+Bottle crates (*Bierkasten*) also have a deposit between 0,75€ and 1,50€. [^6]
+
 ## Which bottles have a Pfand?
 
 ### Bottles with a deposit
@@ -41,6 +43,12 @@ These bottles can still be recycled, but they don't have a deposit.
 - Bottles purchased in other countries
 
 **[How to sort trash in Germany ➞](/guides/sorting-trash-in-germany)**
+
+### Bottle crates with a deposit
+
+Bottle crates also have a deposit. It's usually 1,50€. You can return bottle crates where you return bottles. Bottle return machines (*[Pfandautomaten](/glossary/Pfandautomat)*) have a hole at the bottom for bottle crates.
+
+![Bierkasten mit Pfand](/images/bierkasten-mit-pfand.jpg "A beer crate with a 1,50€ Pfand.")
 
 ## How to identify Pfand bottles
 
@@ -96,3 +104,4 @@ In Berlin, some people collect empty bottles to earn money. Leave your bottle ne
 [^3]: [bluhmsysteme.com](https://www.bluhmsysteme.com/blog/kennzeichnung-von-pfandflaschen-verwirrend/)
 [^4]: [merkur.de](https://www.merkur.de/verbraucher/unfaire-regelung-darum-muessen-aldi-und-lidl-keine-mehrweg-pfandflaschen-annehmen-zr-12817386.html)
 [^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/gyyehp/where_to_return_nonstandard_pfand_bottles/ftd42am/), [mehrweg.org](https://www.mehrweg.org/einkaufen/maerkte/)
+[^6]: [lachers-getraenkewelt.de](https://www.lachers-getraenkewelt.de/pfandkunde.html)
