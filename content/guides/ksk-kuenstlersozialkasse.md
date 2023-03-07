@@ -469,7 +469,7 @@ If you have private health insurance, you usually need to pay more to cover your
 
 There are people who can help you apply for the KSK. They can review your documents, answer your questions, and talk to the KSK for you.
 
-A consultation costs between 75€ and 200€. It's a tax-deductible expense, so keep the receipt.[^46]
+A consultation costs between 75€ and 200€. Keep the invoice; it's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.[^46]
 
 ### Contact the KSK
 

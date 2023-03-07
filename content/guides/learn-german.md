@@ -212,11 +212,11 @@ If your course is not recognised, you must ask for permission [here](https://www
 - [*Bildungsurlaub* course finder](https://www.berlin.de/sen/arbeit/weiterbildung/bildungsurlaub/suche/) (German) - Berlin.de
 - [*Bildungsurlaub* information](https://www.berlin.de/sen/arbeit/weiterbildung/bildungsurlaub/) (German) - Berlin.de
 
-### Are German classes tax-deductible?
+### Are German classes [tax-deductible](/glossary/steuerlich%20absetzbar)?
 
-**No.** You can't deduct German classes from your [income tax](/glossary/Einkommensteuer).[^14] If you are self-employed, you can still get a [VAT](/glossary/Umsatzsteuer) refund for it.[^15]
+**No.** You can't deduct German classes from your [income tax](/glossary/Einkommensteuer).[^14] If you are self-employed, you can get a [VAT](/glossary/Umsatzsteuer) refund for it.[^15]
 
-If you learn another language (like Spanish or Italian), and it's required for your work, then you can declare it as a work expense (*Werbungskosten*).
+If you learn another language (like Spanish or Italian), and it's required for your work, then it's tax-deductible as a work expense (*Werbungskosten*).
 
 ## Personal recommendations
 

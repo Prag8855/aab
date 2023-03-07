@@ -197,6 +197,10 @@ If you don't want to get junk mail, follow these steps:
     2. Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
 3. If you still get junk mail, use the [Appmelder app](https://www.appmelder.de/) to report it. They will unsubscribe you. If you still get junk mail, they will send a [legal warning](/glossary/Abmahnung) to the spammer.[^6] It's completely free.
 
+### Deduct your moving expenses
+
+Moving expenses are tax-deductible.[^13] When you deduct expenses, you pay less income tax.
+
 ## First apartment in Berlin?
 
 If you just [moved to Berlin](/guides/moving-to-berlin), you must learn a few things.
@@ -251,7 +255,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
 [^1]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
-[^3]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
+[^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^4]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)
@@ -261,3 +265,4 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b1ifqb/tenants_associations_mietersch%C3%BCtzbund_etc/)
 [^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/ftnrzyk/)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
+[^13]: [Finanztip](https://www.finanztip.de/umzugskosten/)

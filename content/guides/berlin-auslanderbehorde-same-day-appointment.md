@@ -112,7 +112,7 @@ When your residence permit is approved, you must pay a fee. You only pay the fee
 
 ![Auslaenderbehoerde kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
 
-After you pay, you can go home. Keep the payment receipts. It's a tax-deductible expense.
+After you pay, you can go home. Keep your receipt; residence permit fees are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ## If your visa expires soon
 

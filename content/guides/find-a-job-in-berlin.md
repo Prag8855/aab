@@ -219,7 +219,7 @@ During your first 6 months at a new company, you are in your probation period (*
 
 ### Career coaching
 
-These people can help you get hired. For example, they can review your resume and cover letter. This is a tax-deductible expense.
+These people can help you get hired. For example, they can review your resume and cover letter. Their fee is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 - [Imagine Foundation](https://www.joinimagine.com/) - Free career coaching for software engineer and data scientists
 - [HalloGermany](https://hallogermany.com/services-for-internationals/p/career-coaching) - Career coaching

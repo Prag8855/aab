@@ -57,7 +57,7 @@ When you plan your retirement, you must think about inflation. When you retire, 
 
 ### Tax deferral
 
-German pensions are tax-deductible. If you put money in your pension, it's not counted in your income, so you pay less taxes. Your pension is taxed later, when you receive pension payments.
+German pension contributions are [tax-deductible](/glossary/steuerlich%20absetzbar). If you put money in your pension, it's not counted in your income, so you pay less [income tax](/glossary/Einkommensteuer). Your pension is taxed later, when you receive pension payments.
 
 This is called a tax deferral. Tax deferrals allow you to pay less taxes. Here's how.
 

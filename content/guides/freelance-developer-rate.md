@@ -16,7 +16,7 @@ This guide helps you set your rates as a freelance software developer in Berlin.
 
 ### Expenses and taxes
 
-When you are self-employed, you must pay for your workspace, equipment, insurance, etc. Your employer does not help you. Those business expenses are tax deductible.
+When you are self-employed, you must pay for your workspace, equipment, insurance, etc. Your employer does not help you. Those business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 You also pay more for health insurance, because your employer does not pay half of it.
 

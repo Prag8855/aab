@@ -109,7 +109,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 - **Yearly payments** are cheaper than monthly payments[^21]
 - **Combine liability and [household insurance](/glossary/Hausratversicherung)** to get a lower price.[^22]
 - **Choose a higher deductible** (*[[Selbstbeteiligung]]*). If your deductible is higher, your insurance is cheaper. The price difference is small, so it's better to pay more, and have a small deductible.[^23]
-- **Declare it on your tax return**. Liability insurance is a tax-deductible expense.[^24]
+- **Declare it on your [tax return](/glossary/Steuererklärung)**. Liability insurance payments are [tax-deductible](/glossary/steuerlich%20absetzbar).[^24]
 
 ### English-speaking insurers
 
@@ -186,8 +186,8 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^0]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^1]: [cosmosdirekt.de](https://www.cosmosdirekt.de/private-haftpflichtversicherung/haftpflichtversicherung-mietsachschaeden/)
 [^2]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891)
-[^3]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=schaden%2C%20die%20kleine%20kinder%20verursachen), [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=kinder%20unter%20sieben%20jahren)
-[^4]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=familien%20brauchen%20nur%20einen%20vertrag)
+[^3]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=schaden%2C%20die%20kleine%20kinder%20verursachen), [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=kinder%20unter%20sieben%20jahren)
+[^4]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=familien%20brauchen%20nur%20einen%20vertrag)
 [^5]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/75gkrz/apartment_backup_key_lost_consequences/)
 [^6]: [signal-iduna.de](https://www.signal-iduna.de/haftpflichtversicherung/privathaftpflicht/mietsachschaeden-blog.php#:~:text=Sie%20mieten%20eine-,moblierte%20wohnung,-%3F%20Gemietete%20und%20geliehene)
 [^7]: [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=hotels%20besuchst%20oder%20ferienwohnungen%20mietest)
@@ -197,12 +197,12 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^11]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^12]: [geldsparen.de](https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)
 [^13]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
-[^14]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=weil%20die%20gesetzliche%20haftung%20unbegrenzt%20ist)
+[^14]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=weil%20die%20gesetzliche%20haftung%20unbegrenzt%20ist)
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/s2d2q5/haftpflichtversicherung/)
 [^16]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)
 [^17]: [cignaglobal.com](https://www.cignaglobal.com/individuals-families/members/resources/insurance-product-information-documents)
 [^18]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891), [schnellcheck.test.de](https://schnellcheck.test.de/haftpflichtversicherung/singleTariff/comfortc5501ystand-01-09-2021-1)
-[^19]: [finanztip.de](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=deckungssummen%20mussen%20hoch%20genug%20sein), [youtube.com](https://www.youtube.com/watch?v=yMBfA2DN470)
+[^19]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=deckungssummen%20mussen%20hoch%20genug%20sein), [youtube.com](https://www.youtube.com/watch?v=yMBfA2DN470)
 [^20]: [schnellcheck.test.de](https://schnellcheck.test.de/haftpflichtversicherung/singleTariff/comfortc5501ystand-01-09-2021-1)
 [^21]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891#:~:text=meist%20ist%20es%20gunstiger%2C%20den%20versicherungsbeitrag%20einmal%20im%20jahr%20zu%20zahlen)
 [^22]: [huk24.de](https://www.huk24.de/hausratversicherung/ratgeber-wohnen/haftpflicht-und-hausratversicherung-kombi), [allianz.de](https://www.allianz.de/recht-und-eigentum/privatschutz/)
