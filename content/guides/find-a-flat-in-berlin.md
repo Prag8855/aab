@@ -30,12 +30,9 @@ It's easier to find an apartment if you are already in Berlin. You can visit apa
 
 You must do this before you apply for apartments:
 
-- [**Open a bank account**](/guides/first-bank-account-in-germany)  
-    You usually pay the rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung) from a European bank account. You can also send money from another country with [Wise](/out/transferwise).
-- **Save money**  
-    You need enough money to pay the [deposit](/glossary/Kaution) and the first month of rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You will also need to [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
-- **Prepare your documents**  
-    Get all the [documents you need](#what-to-bring) to apply for an apartment. If you find a place you like, you must apply quickly.
+- [**Open a bank account**](/guides/first-bank-account-in-germany) to pay your rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Any European bank account works. You can also send money from another country with [Wise](/out/transferwise).
+- **Save money** to pay the [deposit](/glossary/Kaution) and the first month of rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
+- **Prepare the [required documents](#what-to-bring)** to apply for an apartment. If you find a place you like, you must apply quickly.
 
 ### Things that are different in Germany
 
@@ -111,9 +108,7 @@ Student dorms are one of the cheapest options, but they are hard to get. Student
 
 ### Buying an apartment
 
-If you just moved to Berlin, don't buy an apartment. It's harder than finding an apartment to rent.
-
-It's really hard to get a mortgage without EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), and a steady job.
+If you just moved to Berlin, don't buy an apartment. It's harder than finding an apartment to rent. It's really hard to get a mortgage without a steady job, and EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ## Step 1: Look for apartments
 
