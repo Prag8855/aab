@@ -80,6 +80,8 @@ Some companies offer a relocation bonus. This helps you pay for your relocation 
 
 When you [get a job offer](/guides/find-a-job-in-berlin#step-4-the-job-offer), you can negotiate a bigger relocation bonus.
 
+If you don't get a relocation bonus, your relocation are still [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/moving-in#deduct-your-moving-costs)
+
 ## When do I get paid?
 
 In Germany, most people are paid **once per month, usually on the 1st or 15th** day of the month. You get your first paycheck after 30 or 45 days after you start working. If you are just [moving to Germany](/guides/moving-to-berlin), you need enough savings to survive the first 6 weeks.

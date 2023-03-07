@@ -197,9 +197,34 @@ If you don't want to get junk mail, follow these steps:
     2. Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
 3. If you still get junk mail, use the [Appmelder app](https://www.appmelder.de/) to report it. They will unsubscribe you. If you still get junk mail, they will send a [legal warning](/glossary/Abmahnung) to the spammer.[^6] It's completely free.
 
-### Deduct your moving expenses
+### Deduct your moving costs
 
-Moving expenses are tax-deductible.[^13] When you deduct expenses, you pay less income tax.
+If you move for professional reasons, your moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar).[^13] Deduct those expenses in your [tax declaration](/glossary/Steuererklärung) to pay less [income tax](/glossary/Einkommensteuer).
+
+You can only deduct moving costs if:
+
+- **You move closer to your workplace**  
+    You must move at least 30 minutes closer to your workplace (in one direction).
+- **Your workplace changes**  
+    For example, if you [find a job](/guides/find-a-job-in-berlin) in another city, or your company moves somewhere else.
+- **You move from another country**
+
+These expenses are tax-deductible:
+
+- **Visiting apartments**  
+    You can deduct 0.30€ per kilometre when you travel to visit apartments.
+- **Double rent**  
+    If you must pay two rents at once, you can deduct one of them.
+    - The rent of your old apartment, if you can't end your lease now. You can deduct up to 6 months of rent.
+    - The rent of your new apartment, if you can't live there yet. You can deduct up to 3 months of rent.
+- **Moving your things**  
+    For example, renting a moving truck, hiring a moving company, or paying people to help you.
+- **Renovations**  
+    For example, painting your old apartment, or installing lights and kitchen cabinets in the new apartment.
+
+New furniture and appliances are not tax-deductible. Costs that are refunded by your employer are not tax-deductible.
+
+[Tax software](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany) and [tax advisors](/glossary/Steuerberater) can help you declare moving expenses on your taxes.
 
 ## First apartment in Berlin?
 
@@ -265,4 +290,4 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b1ifqb/tenants_associations_mietersch%C3%BCtzbund_etc/)
 [^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/ftnrzyk/)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
-[^13]: [Finanztip](https://www.finanztip.de/umzugskosten/)
+[^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/)
