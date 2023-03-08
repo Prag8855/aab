@@ -6,7 +6,7 @@ Date_created: 2017-09-01
 Date_updated: 2022-06-09
 ---
 
-After you [find an apartment you love](/guides/find-a-flat-in-berlin), you must apply for it. When you apply, you usually include a *[Schufa Bonitätsauskunft](/glossary/Schufa)*. This document shows your Schufa score. It's a bit like a credit score. A good Schufa score shows that you can pay your rent on time every month.
+After you [find an apartment you love](/guides/find-a-flat-in-berlin), you must apply for it. Your application must usually include a *[Schufa Bonitätsauskunft](/glossary/Schufa)*. It's a bit like a credit report. A good Schufa score shows that you can pay your rent on time.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -20,11 +20,13 @@ If just moved to Germany, you might not have a Schufa record. There is no inform
 
 Most landlords ask for a Schufa when you apply for an apartment.
 
-Most furnished apartments (from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) do not ask for a Schufa. It can be a good way to find your first apartment, even if you don't have a job or you are in your [probation period](/glossary/Probezeit). These furnished apartments are much more expensive.
+Short-term apartments (from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. It can be a good way to find your first apartment, even if you don't have a job or you are in your [probation period](/glossary/Probezeit). These furnished apartments are much more expensive.
+
+**[Look for short-term apartments ➞](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
 
 ## How to get a Schufa for free
 
-You have [the right](http://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm) to see the data Schufa Holding AG has about you. This is why you can request a free Schufa report. It looks different from the 30€ report, but it has the same information.[^2] This free Schufa report has all the information your landlord needs.[^1]
+You have the right to see the data Schufa Holding AG has about you.[^3] This is why you can request a free Schufa report. It looks different from the 30€ report, but it has the same information.[^2] This free Schufa report has all the information your landlord needs.[^1]
 
 This is how you get a free Schufa:
 
@@ -71,3 +73,4 @@ Once you have your Schufa, you are ready to [look for an apartment](/guides/find
 [^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa)
 [^1]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/)
 [^2]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/dnh3yw3/)
+[^3]: [GDPR Article 5](http://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm)
