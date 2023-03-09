@@ -366,12 +366,10 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 - **Occupation practice permit** (if applicable)  
     If you need specific qualifications to do your job in Germany, you must prove that you have them.[^32] For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/tools/berater/en/) to know if your profession requires specific qualifications.
 - **All the required forms**
-    - **[The "application for an employment permit" form](/documents/Antrag-auf-Erlaubnis-einer-Beschaeftigung.pdf)** (*Antrag auf Erlaubnis einer Beschäftigung*)  
-        You can find the form [here](/documents/Antrag-auf-Erlaubnis-einer-Beschaeftigung.pdf), and [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50328-antrag_auf_erlaubnis_einer_besch__ftigung.pdf).
-    - **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Stellenbeschreibung*)  
-        This form should be filled by your employer. You can find the form [here](/documents/Stellenbeschreibung.pdf), and [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
+    - **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
+        Your employer should fill this form. Download the form [here](/documents/Stellenbeschreibung.pdf), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
     - **[The "application for issuance of a residence permit" form](/documents/Antrag-auf-Erteilung-eines-Aufenthaltstitels.pdf)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-        You can find the form [here](/docs/german-freelance-visa-form), and [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f72301-labo_agen1__antrag_engl_frz_ital_03_2017.pdf). This is the same form as for other residence permits.
+        Download the form [here](/docs/german-freelance-visa-form), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f72301-labo_agen1__antrag_engl_frz_ital_03_2017.pdf). This is the same form as for other [residence permits](/glossary/Aufenthaltstitel).
 
 ## Questions and answers
 
