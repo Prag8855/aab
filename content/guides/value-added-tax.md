@@ -3,7 +3,7 @@ Title: How VAT works in Germany
 Short_title: How VAT works
 Description: A guide to the value-added tax (VAT) for German freelancers and businesses.
 Date_created: 2022-10-15
-Date_updated: 2022-11-01
+Related_guides: guides/kleinunternehmer.md, guides/start-a-business-in-germany.md
 ---
 
 Value added tax (VAT) is a **{{VAT_RATE}}% tax** on goods and services.
@@ -50,33 +50,15 @@ No VAT:
 
 Most German businesses must charge {{VAT_RATE}}% VAT, but there are exceptions:
 
-- [When you are a small business](/guides/value-added-tax#exemption-for-small-businesses) (*[[Kleinunternehmer]]*), you decide if you want to charge VAT.
+- When you are a small business (*[[Kleinunternehmer]]*), you decide if you want to charge VAT - [More information](/guides/kleinunternehmer)
 - [When your customer is in another country](/guides/value-added-tax#vat-for-customers-in-the-eu), you don't always charge VAT.
 - [Some goods and services](/guides/value-added-tax#reduced-vat) have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.
 
 ### Exemption for [small businesses](/glossary/Kleinunternehmer)
 
-If you are a small business (*[[Kleinunternehmer]]*), you can *choose* if your business charges VAT.
+If you are a small business (*[[Kleinunternehmer]]*), you can *choose* not to charge VAT. It makes accounting easier, but it's not always a good idea.
 
-If you don't charge VAT, it means:
-
-- **Less paperwork**  
-    If you don't charge VAT, you don't need to submit [VAT returns](/glossary/Umsatzsteuervoranmeldung) or VAT declarations.[^4] You save a few hours per month.
-- **Lower prices for your customers**  
-    Your prices are lower without VAT. Your [private customers](/glossary/B2C) pay less, but your income is the same. Your [business customers](/glossary/B2B) get a refund on the VAT they pay, so they don't care if you charge VAT.
-- **No VAT refund on business expenses**  
-    If you charge VAT, you get a VAT refund on your business expenses.[^5] For example, if you buy a computer for your business, you get the VAT back. If you don't charge VAT, you must pay VAT on all expenses. If you have a lot of expenses, it's better to charge VAT and get VAT refunds.[^6]
-- **Growing your business is more complicated**  
-    If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers.[^7] If you plan to make over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, it's easier to charge VAT from the start.
-
-You decide when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*. If you choose to charge VAT, you must *always* charge VAT. You can't change your mind for 5 years.[^8]
-
-If you choose not to charge VAT, you must add this line to your invoices:[^9]
-
-> **English:** “In accordance to § 19 UStG, no value added tax is charged.”  
-> **German:** “Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.”
-
-If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT in January the next year.[^10]
+**[Should you be a Kleinunternehmer? ➞](/guides/kleinunternehmer#should-you-be-a-kleinunternehmer)**
 
 ## How to charge VAT
 
@@ -155,7 +137,7 @@ If you submit your VAT return on time, but you payment is late, you get a fine (
 
 ### 5. Submit a yearly VAT declaration
 
-You must also make a yearly VAT declaration ([*Umsatzsteuererklärung*](/glossary/Umsatzsteuererkl%C3%A4rung)). If you forgot to declare something in your VAT returns, you can make corrections in your VAT declaration.[^23]
+You must also make a yearly VAT declaration (*[[Umsatzsteuererklärung]]*). If you forgot to declare something in your VAT returns, you can make corrections in your VAT declaration.[^23]
 
 **Due date:** May 31 of the next year.[^24] If your [tax advisor](/glossary/Steuerberater) submits it for you, they have until September 30.[^25]
 
@@ -209,13 +191,6 @@ For example, if you sell goods or services to customers in the United States, yo
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/File:EU_VAT_Tax_Rates.webp)
 [^2]: [§12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html), [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/umsatzsteuer-in-rechnung-richtig-ausweisen/#:~:text=freiberufler%20und%20die%20erma%C3%9Figte%20umsatzsteuer%20in%20einer%20rechnung%20), [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/mehrwertsteuer/#:~:text=zu%20diesen%20ausnahmen%20bei%20der%20mehrwertsteuer%20gehoren%20zum%20beispiel)
 [^3]: [Anlage 2 UStG](http://www.gesetze-im-internet.de/ustg_1980/anlage_2.html)
-[^4]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=sie%20brauchen%20beim%20finanzamt%20keine%20umsatzsteuererklarungen%20abzugeben)
-[^5]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=wenn%20sie%20teure%20anschaffungen%20tatigen%20wollen%20oder%20mussen)
-[^6]: [andrewcross.eu \(archived\)](https://web.archive.org/web/20210615055008/https://20210615055008/vat-freelancers-germany/#:~:text=from%20a%20cashflow%20perspective%20it%20can%20be%20advantageous%20if%20you), [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
-[^7]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=sollte%20ihr%20einkommen%20allerdings%20die%20grenze%20zur%20umsatzsteuerpflicht%20uberschreiten)
-[^8]: [§19 UStG](https://www.gesetze-im-internet.de/ustg_1980/__19.html#:~:text=Unternehmer%20mindestens%20f%C3%BCr-,funf%20kalenderjahre,-.%20Sie%20kann%20nur)
-[^9]: [billomat.com](https://www.billomat.com/magazin/%c2%a719-ustg-in-deiner-rechnung-auf-den-kleinunternehmerstatus-hinweisen/#:~:text=es%20reicht%2C%20zu%20schreiben), [kleinunternehmer.de](https://www.kleinunternehmer.de/rechnungsstellung.htm)
-[^10]: [firma.de](https://www.firma.de/rechnungswesen/kleinunternehmerregelung-infos-zu-umsatzsteuer-anmeldung-vor-und-nachteilen/#:~:text=gilt%20ab%20dem%2001.%20januar%20des%20kommenden%20jahres%20die%20regelbesteuerung)
 [^11]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=beim%20Finanzamt%20beantragen.-,so%20holst%20du%20dir%20die%20vorsteuer%20wieder,-Wie%20bereits%20erw%C3%A4hnt)
 [^12]: [lexware.de](https://www.lexware.de/wissen/buchhaltung-finanzen/umsatzsteuervoranmeldung/#saeumniszuschlag)
 [^13]: [haufe.de](https://www.haufe.de/finance/steuern-finanzen/rechnungsberichtigung-umsatzsteuer-falsch-ausgewiesen-was-tun_190_129472.html#:~:text=im%20fall%20des%20unrich%C2%ADtigen%20steu%C2%ADer%C2%ADaus%C2%ADweises)

@@ -93,6 +93,8 @@ This form is easier to fill if you understand how the Value Added Tax (VAT) work
 
 **[How VAT works in Germany ➞](/guides/value-added-tax)**
 
+**[How being a Kleinunternehmer works ➞](/guides/kleinunternehmer)**
+
 ### Understand the difference between revenue and profit
 
 [Revenue (*Umsatz*)](/glossary/Umsatz) or income is how much money you *get*, even if you don't keep all of it. Some of that money goes to business expenses. [Profit (*Gewinn*)](/glossary/Gewinn) is how much money you *keep* after expenses.
@@ -260,7 +262,7 @@ If you paid [income tax](/glossary/Einkommensteuer) in Germany in the last three
 - **Steuernummer** - tax number  
     If you had a *[[Steuernummer]]*, enter it here. If this is your first business, you don't have a *Steuernummer* yet.
 
-**Gegebenfalls hiervon abweichende Angaben Ihres Ehegatten [...]** If your spouse paid [income tax](/glossary/Einkommensteuer) in Germany in the last three years, and your spouse had a different *Finanzamt* or *Steuernummer*, you must fill this section.
+**Gegebenfalls hiervon abweichende Angaben Ihres Ehegatten ...** If your spouse paid [income tax](/glossary/Einkommensteuer) in Germany in the last three years, and your spouse had a different *Finanzamt* or *Steuernummer*, you must fill this section.
 
 ### Section 7: Angaben zum Unternehmen
 
@@ -336,7 +338,7 @@ Information about the previous business form. You can leave this section empty b
 
 ### Section 12: Bisherige betriebliche Verhältnisse
 
-- **Ist in den letzten fünf Jahren schon ein Gewerbe [...]**  
+- **Ist in den letzten fünf Jahren schon ein Gewerbe ...**  
     Choose "Ja" if:
     - You have been a freelancer (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) in Germany in the last 5 years
     - ...or you have owned a business (*[Gewerbe](/guides/freiberufler-or-gewerbe)*) in Germany in the last 5 years
@@ -460,12 +462,12 @@ Your estimated revenue is used decide how you will pay your taxes. It also decid
     How much revenue you expect in your second year of business (your second *calendar* year, not your first 365 days).
 
 **Kleinunternehmer-Regelung**  
-If you are a small business (*[[Kleinunternehmer]]*), you can charge VAT, but you don't have to. You can only be a small business if your revenue is under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ in your first year of business **and** under {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ in the following years.[^2] *[[Freiberufler]]* and *[[Gewerbe]]* can both be small businesses. - [More information](/guides/value-added-tax#exemption-for-small-businesses)
+If you are a small business (*[[Kleinunternehmer]]*), you can charge VAT, but you don't have to. You can only be a small business if your revenue is under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ in your first year of business **and** under {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ in the following years.[^2] *[[Freiberufler]]* and *[[Gewerbe]]* can both be small businesses. - [More information](/guides/kleinunternehmer)
 
-- **[...] In Rechnungen wird keine Umsatzsteuer gesondert ausgewiesen [...]**  
-    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you don't want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will stay small, this can be better.[^11] - [More information](/guides/value-added-tax#exemption-for-small-businesses)
-- **[...] Es wird auf die Anwendung der Kleinunternehmer-Regelung verzichtet. [...]**  
-    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will make over {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ per year later, this can be better.[^11] - [More information](/guides/value-added-tax#exemption-for-small-businesses)
+- **... In Rechnungen wird keine Umsatzsteuer gesondert ausgewiesen ...**  
+    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you don't want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will stay small, this can be better.[^11] - [More information](/guides/kleinunternehmer)
+- **... Es wird auf die Anwendung der Kleinunternehmer-Regelung verzichtet. ...**  
+    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will make over {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ per year later, this can be better.[^11] - [More information](/guides/kleinunternehmer)
 
 **Zahllast / Überschuss (geschätzt)**  
 Enter how much VAT you will collect. This decides how you will make VAT payments to the *Finanzamt*.
@@ -483,7 +485,7 @@ If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to char
 **Steuersatz** - Tax rate  
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
 
-- **Es werden Umsätze ausgeführt, die [...] dem ermäßigten Steuersatz gemäß § 12 Abs. 2 UStG unterliegen** - Some revenue will have a reduced tax rate according to § 12 Abs. 2 UStG.  
+- **Es werden Umsätze ausgeführt, die ... dem ermäßigten Steuersatz gemäß § 12 Abs. 2 UStG unterliegen** - Some revenue will have a reduced tax rate according to § 12 Abs. 2 UStG.  
     Choose "Ja" if you want to charge a lower VAT according to [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html). [For some products and services](https://www.gesetze-im-internet.de/ustg_1980/anlage_2.html), you can charge a {{ VAT_RATE_REDUCED }}% VAT instead of {{ VAT_RATE }}%. You must list these products separately on your invoices, and you must specify why the lower tax rate applies.
 - **nach § 12 Absatz 2 Nummer ... UStG** - According to § 12 paragraph...  
     Write the number of the paragraph in [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) that qualifies you for a lower VAT. If you chose "Nein" in the previous field, leave this field empty.
@@ -493,7 +495,7 @@ If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to char
 **Durchschnittssatzbesteuerung**  
 This only applies to agricultural and silvicultural businesses. If it does not apply to you, skip this subsection.
 
-- **Es werden [...] Umsätze ausgeführt, die der Durchschnittssatzbesteuerung gemäß [§ 24 UStG](https://www.gesetze-im-internet.de/ustg_1980/__24.html) unterliegen** - Some revenue will be taxed according to § 24 UStG.  
+- **Es werden ... Umsätze ausgeführt, die der Durchschnittssatzbesteuerung gemäß [§ 24 UStG](https://www.gesetze-im-internet.de/ustg_1980/__24.html) unterliegen** - Some revenue will be taxed according to § 24 UStG.  
     Choose "Ja" if you want to charge taxes according to § 24 UStG. This only applies to agricultural and silvicultural businesses. If it does not apply to you, choose "Nein".
 
 **Soll- / Istversteuerung der Entgelte**  
@@ -505,7 +507,7 @@ You can choose to calculate VAT payments based on the revenue you *should* have 
     - **Istversteuerung**  
         Check this box if you want to charge VAT based on the amount you *actually* have collected. You only make VAT payments once you receive money from your customers. If you are a freelancer or a small business, this is the  
          best option for you.[^12]
-- **Ich beantrage die Istversteuerung, weil der [...] Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__20.html) genannten Betrag voraussichtlich nicht übersteigen wird.**  
+- **Ich beantrage die Istversteuerung, weil der ... Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__20.html) genannten Betrag voraussichtlich nicht übersteigen wird.**  
     Check this box if you chose *Istversteuerung*, and you expect to make less than {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ in revenue during your first year.[^14]
 - **Ich beantrage die Istversteuerung, weil ich von der Verpflichtung, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, nach [§ 148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456) befreit bin**  
     Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because of [§148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456). In other words, check this box if you think double entry bookkeeping would be too hard for your business.
@@ -539,17 +541,17 @@ If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-
 **Für im Inland ansässige Unternehmer**  
 This subsection is for businesses based in Germany.
 
-- **Ich nehme das besondere Besteuerungsverfahren (Mini-one-stop-shop) in Anspruch [...]**  
+- **Ich nehme das besondere Besteuerungsverfahren (Mini-one-stop-shop) in Anspruch ...**  
     If you sell digital content (software, ebooks, apps) or digital services (web hosting, referrals, software as a service)[^15] to *customers* (not businesses) in other EU countries, you should probably check this box.
-- **Ich habe keine Niederlassung in einem anderen EU-Mitgliedstaat und der Gesamtbetrag [...] der innergemeinschaftlichen Fernverkäufe [...] an [...] Nichtunternehmer überschreitet im laufenden Kalenderjahr nicht {{EU_VAT_SCHWELLENWERT|cur}} Euro und hat dies auch im vorangegangenen Kalenderjahr nicht getan.**  
+- **Ich habe keine Niederlassung in einem anderen EU-Mitgliedstaat und der Gesamtbetrag ... der innergemeinschaftlichen Fernverkäufe ... an ... Nichtunternehmer überschreitet im laufenden Kalenderjahr nicht {{EU_VAT_SCHWELLENWERT|cur}} Euro und hat dies auch im vorangegangenen Kalenderjahr nicht getan.**  
     Check this box if...
     - You sell digital content and services to *customers* (not businesses) in other EU countries
     - **and** the total revenue from those sales (without VAT) was under {{EU_VAT_SCHWELLENWERT|cur}}€/year this calendar year
     - **and** the total revenue from those sales (without VAT) was under {{EU_VAT_SCHWELLENWERT|cur}}€/year last calendar year
     - **and** you do not have a business branch in another country
-- **Die entsprechenden Umsätze werde ich im Inland [...] versteuern** - I will pay taxes in Germany for this revenue
-- **Auf die Möglichkeit der Versteuerung der entsprechenden Umsätze im Inland verzichte ich für mindestens zwei Kalenderjahre [...]** - I waive the option of taxing the corresponding domestic sales for at least two calendar years
-- **Ich werde das besondere Besteuerungsverfahren (One-stop-shop) in Anspruch nehmen (§ 18j UStG) [...]**  
+- **Die entsprechenden Umsätze werde ich im Inland ... versteuern** - I will pay taxes in Germany for this revenue
+- **Auf die Möglichkeit der Versteuerung der entsprechenden Umsätze im Inland verzichte ich für mindestens zwei Kalenderjahre ...** - I waive the option of taxing the corresponding domestic sales for at least two calendar years
+- **Ich werde das besondere Besteuerungsverfahren (One-stop-shop) in Anspruch nehmen (§ 18j UStG) ...**  
     Check this box if you want to declare a One Stop Shop (not a *Mini* One Stop Shop). This is new since summer 2021.
 - **Die entsprechenden Umsätze werde ich direkt in den anderen EU-Mitgliedstaaten erklären** - I will declare the corresponding sales directly in the other EU member states
 
@@ -563,7 +565,7 @@ In this section, you explain if you will sell products and services online.
 - **Ich verkaufe über einen eigenen Webshop** - I sell on my own online store
 - **Web-Adresse (URL)**  
     The URL of your online store
-- **Ich werde über eine/mehrere elektronische Schnittstelle(n) im Sinne des § 25e Absatz 5 UStG handeln [...]** - I will trade via an electronic interface according to [§ 25e Abs. 5 UStG](https://www.gesetze-im-internet.de/ustg_1980/__25e.html)  
+- **Ich werde über eine/mehrere elektronische Schnittstelle(n) im Sinne des § 25e Absatz 5 UStG handeln ...** - I will trade via an electronic interface according to [§ 25e Abs. 5 UStG](https://www.gesetze-im-internet.de/ustg_1980/__25e.html)  
     Check this box if you will sell products or services on an online marketplace, online platform or online store. This includes platforms like Amazon and eBay.
 
 **Elektronische Marktplätze - Electronic marketplaces**  

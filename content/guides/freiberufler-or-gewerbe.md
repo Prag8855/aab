@@ -3,7 +3,7 @@ Title: Freiberufler or Gewerbe: what's the difference?
 Short_title: Freiberufler or Gewerbe?
 Description: Learn the differences between being a freelancer (Freiberufler) and a tradesman (Gewerbetreibende). It's not as easy as it seems!
 Date_created: 2018-03-31
-Date_updated: 2022-11-29
+Related_guides: guides/start-a-business-in-germany.md, guides/kleinunternehmer.md, guides/fragebogen-zur-steuerlichen-erfassung.md
 ---
 
 There is a legal difference between a freelancer (*[[Freiberufler]]*) and a tradesperson (*[[Gewerbetreibende]]*). If you [start a business in Germany](/guides/start-a-business-in-germany), you must understand the difference.
@@ -42,17 +42,17 @@ Compared to freelancers, businesses have a few special obligations:
 - They must apply for a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*).
 - They must use double entry bookkeeping.
 
-**[What is the trade tax (*Gewerbesteuer*)? ➞](/guides/gewerbesteuer)**
+**[What is the trade tax (Gewerbesteuer)? ➞](/guides/gewerbesteuer)**
 
 **[Is a website a Gewerbe? ➞](/guides/website-freiberuf-or-gewerbe)**
 
 ### Special rules for small businesses
 
-Small businesses (*[[Kleinunternehmer]]*) do not need to register in the *[[Handelsregister]]*, and they do not need to use double entry bookkeeping.[^6] This makes things much easier for them. However, they still need to get a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*).[^4]
+Small businesses (*[[Kleinunternehmer]]*) do not need to be in the *[[Handelsregister]]*, and they do not need to use double entry bookkeeping.[^6] They must still get a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*).[^4]
 
-Small businesses can choose not to charge [VAT](/glossary/Umsatzsteuer).[^5] Not charging VAT saves you a lot of work, but it prevents you from claiming VAT refunds.
+Small businesses can choose not to charge [VAT](/glossary/Umsatzsteuer).[^5] Not charging VAT makes accounting easier, but it's not always a good idea.
 
-**[How VAT works for small businesses ➞](/guides/value-added-tax#exemption-for-small-businesses)**
+**[How being a Kleinunternehmer works ➞](/guides/kleinunternehmer)**
 
 ### The [[Handelsregister]] (trade register)
 
@@ -94,7 +94,7 @@ If you think this applies to you, [ask a tax advisor](/guides/english-speaking-s
 
 A small business (*[[Kleinunternehmer]]*) is a *Freiberufler* or *Gewerbe* with low [revenue](/glossary/Umsatz). Small businesses can choose not to charge [VAT](/glossary/Umsatzsteuer). This has benefits and disadvantages.
 
-**[How VAT works for small businesses ➞](/guides/value-added-tax#exemption-for-small-businesses)**
+**[How being a Kleinunternehmer works ➞](/guides/kleinunternehmer)**
 
 ## Need help?
 
