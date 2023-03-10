@@ -36,11 +36,11 @@ I like this feature. It's why I opened a Kontist account. [Holvi](/out/holvi) ha
 
 ### Automatic VAT
 
-For each transaction, you decide how much [VAT](/glossary/Umsatzsteuer) to set aside. You set the VAT manually for each transaction (0%, 7% or 19%).
+For each transaction, you decide how much [VAT](/glossary/Umsatzsteuer) to set aside. You set the VAT manually for each transaction (0%, {{ VAT_RATE_REDUCED }}% or {{ VAT_RATE }}%).
 
 Kontist uses AI to automate bookkeeping, but it's often wrong. Instead of leaving transactions uncategorised, it puts them in the wrong category, with the wrong VAT.
 
-For example, I send money to my [N26](/out/n26) account every month, and Kontist still marks it as an expense with 19% VAT. One client pays me every month, and Kontist sets the wrong VAT every time.
+For example, I send money to my [N26](/out/n26) account every month, and Kontist still marks it as an expense with {{ VAT_RATE }}% VAT. The same client pays me every month, and Kontist sets the wrong VAT every time.
 
 There is no way to turn the AI off.
 

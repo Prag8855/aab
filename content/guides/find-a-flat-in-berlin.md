@@ -79,7 +79,7 @@ Short-term apartments are very expensive, but they have benefits:
 
 Furnished apartments are a good temporary solution while you look for a regular apartment. They are too expensive to live in permanently.
 
-Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay 19% [VAT](/glossary/Umsatzsteuer).[^5]
+Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer).[^5]
 
 **[Look for short-term apartments ↓](#short-term-and-furnished-apartments)**
 
