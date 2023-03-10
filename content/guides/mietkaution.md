@@ -3,7 +3,6 @@ Title: How does the apartment deposit (Kaution) work in Germany?
 Short_title: The apartment deposit
 Description: Here's how you pay your apartment deposit (Mietkaution) in Germany, and how you get all of it back when you move out.
 Date_created: 2018-06-19
-Date_updated: 2023-01-24
 ---
 
 Before you [move into an apartment](/guides/moving-in) in Germany, you must give the landlord a deposit (*[[Kaution]]*). The landlord keeps that deposit until you move out. If you leave the apartment in good condition, you get the whole deposit back. If something must be repaired, the landlord uses your deposit to pay for the repairs.
@@ -108,8 +107,9 @@ Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay
 
 ## What's next?
 
-- [Moving out of an apartment](/guides/moving-out)
-- [Moving into an apartment](/guides/moving-in)
+**[How to move out of an apartment ➞](/guides/moving-out)**
+
+**[How to move into an apartment ➞](/guides/moving-in)**
 
 [^0]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-mietkaution.html), [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
 [^1]: [crocodilian.de](https://crocodilian.de/zeitwohnen-blog/kaution-moeblierte-wohnung/)

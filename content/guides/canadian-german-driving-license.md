@@ -3,7 +3,6 @@ Title: How to trade your foreign driver licence for a German one
 Short_title: How to convert a foreign driving licence
 Description: Here is how you can trade a driver licence from another country for a German one.
 Date_created: 2018-02-28
-Date_updated: 2022-09-25
 ---
 
 This guide shows you how to convert your driving licence to a German driving licence. It's how I exchanged my Canadian driver licence in 2016.
@@ -131,7 +130,7 @@ In a few weeks, you will get a letter. It will tell you to get your new driver l
 
 Sometimes, your licence is ready, but they don't tell you to pick it up[^12].[^17] If you do not get any news after 8 weeks, call the *Fahrerlaubnisbehörde*, and ask about your license.
 
-## What's next?
+## What to do next
 
 Now that you have a German driving licence, you can [buy a car](/guides/buying-used-car-in-germany) and [use car sharing services](/guides/public-transit#rent-a-car).
 

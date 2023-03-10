@@ -3,7 +3,6 @@ Title: How to get a Gewerbeschein in Berlin
 Short_title: How to get a Gewerbeschein
 Description: This is how you get a trade licence (Gewerbeschein) and register for the trade tax (Gewerbesteuer).
 Date_created: 2021-05-14
-Date_updated: 2022-12-01
 ---
 
 This is how you complete the trade registration (*[[Gewerbeanmeldung]]*), register for the trade tax (*[[Gewerbesteuer]]*), and receive a trade licence (*[[Gewerbeschein]]*) in Berlin.
@@ -236,17 +235,11 @@ You can also ask a [tax advisor](/guides/english-speaking-steuerberater-berlin) 
 
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 
-## What's next?
+## What to do next
 
-You finished an important step of [starting a business in Germany](/guides/start-a-business-in-germany). You are now registered for the trade tax (*[[Gewerbesteuer]]*). You will soon receive your trade certificate (*[[Gewerbeschein]]*).
+You finished a big step of [starting a business in Germany](/guides/start-a-business-in-germany). You are now registered for the trade tax (*[[Gewerbesteuer]]*). You will soon get your trade certificate (*[[Gewerbeschein]]*).
 
 The next step is to [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
-
-**Related guides:**
-
-- [What is the trade tax (*Gewerbesteuer*)?](/guides/gewerbesteuer)
-- [How to start a business in Germany](/guides/start-a-business-in-germany)
-    - [How to register a business in Germany](/guides/fragebogen-zur-steuerlichen-erfassung)
 
 [^0]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide), [selbststaendigkeit.de](https://selbststaendigkeit.de/existenzgruendung/startup/buchhaltung-steuern-rechnungen/ein-kleingewerbe-anmelden-diesen-tipps)
 [^1]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide)

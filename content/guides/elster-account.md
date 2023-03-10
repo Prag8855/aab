@@ -2,7 +2,6 @@
 Title: How to create an ELSTER account
 Description: This is how you create a My ELSTER account. You need this account to access ELSTER services, and file your German tax return online.
 Date_created: 2021-05-29
-Date_updated: 2022-10-21
 ---
 
 This is how you create an [[ELSTER]] account. This account gives you access to online tax services. It lets you file tax returns, [register a business](/guides/fragebogen-zur-steuerlichen-erfassung), and many other things. ELSTER is like an online *[[Finanzamt]]*.
@@ -140,9 +139,9 @@ In the next step (no screenshot), you must choose what type of entity you are. Y
 
 You are done! Click *Bestätigen und Weiter* to access ELSTER. You can tick the box if you don't want to see this privacy warning again.
 
-## What's next?
+## What to do next
 
-If you are [starting a business in Germany](/guides/start-a-business-in-germany), the next step is to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You will need your ELSTER account for this.
+If want to [start a business in Germany](/guides/start-a-business-in-germany), the next step is to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You need your ELSTER account to do this.
 
 ## Need help?
 

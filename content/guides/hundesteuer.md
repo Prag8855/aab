@@ -73,9 +73,9 @@ When you move, you must also [report your address change](https://service.berlin
 
 If you leave Berlin, you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *[[Ordnungsamt]]*.
 
-## What's next?
+## What to do next
 
-In Berlin, your dog must have [dog liability insurance](/guides/pet-ownership#dog-liability-insurance) (*[[Hundehaftpflichtversicherung]]*) and [pet health insurance](/guides/pet-ownership#pet-health-insurance). You also need a permit to walk your dog without a leash ([*Hundeführerschein*](/glossary/Hundeführerschein)). My [dog owner guide](/guides/pet-ownership) has more information.
+In Berlin, your dog must have [dog liability insurance](/guides/pet-ownership#dog-liability-insurance) (*[[Hundehaftpflichtversicherung]]*) and [pet health insurance](/guides/pet-ownership#pet-health-insurance). You also need a permit to walk your dog without a leash ([*Hundeführerschein*](/glossary/Hundeführerschein)).
 
 **[Dog owner guide for Germany ➞](/guides/pet-ownership)**
 

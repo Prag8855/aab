@@ -3,7 +3,6 @@ Title: How to choose a business bank account (Geschäftskonto) in Germany
 Short_title: Business banks in Germany
 Description: This guide explains what a Geschäftskonto is, why you need one, and how to choose one.
 Date_created: 2022-04-18
-Date_updated: 2023-01-29
 ---
 
 In this guide, I explain what a business bank account (*Geschäftskonto*) is, why you need one, and how to choose one.
@@ -136,7 +135,7 @@ Since January 2022, I use [Kontist](/out/kontist). It's not great, so I don't re
 
 **[My review of Kontist ➞](/guides/kontist-review)**
 
-## What's next?
+## What to do next
 
 Once you have a bank account, you need an invoicing and bookkeeping tool. You can also look for a tax advisor who can help you with taxes.
 

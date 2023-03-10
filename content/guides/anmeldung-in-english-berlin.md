@@ -3,7 +3,6 @@ Title: The Anmeldung - How to register an address in Berlin
 Short_title: How to register your address (Anmeldung)
 Description: This guide shows you how register your address in Berlin. This is how you get a Meldebescheinigung and a tax ID.
 Date_created: 2018-04-30
-Date_updated: 2023-01-06
 ---
 
 After you [move to Berlin](/guides/moving-to-berlin) and [find a place to live](/guides/find-a-flat-in-berlin), you must register your address at the *[[Bürgeramt]]*. It's called the *Anmeldung*.
@@ -219,7 +218,7 @@ In Berlin, every person needs 9 m^2^. Children up to 6 years old need 6 m^2^. Fo
 
 The *[[Ummeldung]]* and the *Anmeldung* are the same thing.
 
-## What's next?
+## What to do next
 
 ### Change your address
 
@@ -233,7 +232,7 @@ When you register your address, the *Bürgeramt* tells the *[[ARD ZDF Deutschlan
 
 **[What is the TV tax? ➞](/guides/gez-rundfunkbeitrag)**
 
-You should get [liability insurance](/glossary/Haftpflichtversicherung) for your new apartment. It's not required, but it is a *really* good idea. Most Germans have it.
+You should get [liability insurance](/glossary/Haftpflichtversicherung) for your new apartment. After health insurance, it's the second most important insurance. Most Germans have it.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 

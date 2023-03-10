@@ -3,7 +3,6 @@ Title: How to get a free Schufa
 Short_title: How to get a Schufa
 Description: If you are applying for an apartment in Berlin, you will almost always be asked to include a Schufa in your application. This is how you obtain a Schufa-Auskunft for free
 Date_created: 2017-09-01
-Date_updated: 2022-06-09
 ---
 
 After you [find an apartment you love](/guides/find-a-flat-in-berlin), you must apply for it. Your application must usually include a *[Schufa Bonitätsauskunft](/glossary/Schufa)*. It's a bit like a credit report. A good Schufa score shows that you can pay your rent on time.
@@ -66,9 +65,9 @@ This costs 30€. You will get your Schufa by mail in 1 to 3 days.
 
 **[Request a Schufa](/out/meineschufa)** - meineSchufa
 
-## What's next?
+## What to do next
 
-Once you have your Schufa, you are ready to [look for an apartment](/guides/find-a-flat-in-berlin). After you find your apartment, you can [leave your old apartment](/guides/moving-out), pay the [deposit](/guides/mietkaution), [move in](/guides/moving-in), and [register your address](/guides/anmeldung-in-english-berlin).
+After you get your Schufa, you are ready to [find an apartment](/guides/find-a-flat-in-berlin).
 
 [^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa)
 [^1]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/)

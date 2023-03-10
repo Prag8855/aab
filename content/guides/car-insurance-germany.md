@@ -3,7 +3,6 @@ Title: How to choose car insurance in Germany
 Short_title: Car insurance
 Description: An introduction to auto insurance (Kfz-Versicherung) in Germany. It explains the types of car insurance, what they cover, and how to choose the best German car insurance.
 Date_created: 2020-08-07
-Date_updated: 2022-11-23
 ---
 
 In Germany, car insurance (*Kfz-Versicherung*) is mandatory. It's part of the [cost of owning a car in Germany](/guides/car-cost-of-ownership-germany). If your vehicle is not insured, you can't register it, and you can't drive it. This guide shows you how to choose insurance for your car or motorcycle.
@@ -153,7 +152,7 @@ If you want to drive outside the European Union, you will need a Green Card (*Gr
 
 You can request a Green Card from your car insurance company. This is usually free.[^23]
 
-## What's next?
+## What to do next
 
 Before you [buy a vehicle](/guides/buying-used-car-in-germany), you must also think about [other costs](/guides/car-cost-of-ownership-germany) like maintenance, tires, fuel and taxes.
 

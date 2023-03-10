@@ -3,7 +3,6 @@ Title: How to choose German health insurance
 Short_title: How to choose health insurance
 Description: This guide explains how public and private health insurance work in Germany. It helps you choose the best health insurance for your needs.
 Date_created: 2018-11-29
-Date_updated: 2023-01-04
 Related_reviews: reviews/german-health-insurance/derrick-löhr.md, reviews/german-health-insurance/marvin-ewald-hammor.md, reviews/german-health-insurance/dr-rob-schumacher.md, reviews/german-health-insurance/daniel-derosa.md, reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
@@ -299,9 +298,9 @@ I recommend two insurance brokers:
 
 Use [Tarifcheck](/out/tarifcheck-health) to compare health insurance prices. Tarifcheck only shows you prices. It does not help you make a good choice. It's better to talk to a broker.
 
-## What's next?
+## What to do next
 
-Get [liability insurance](/glossary/Haftpflichtversicherung). It's not required, but it's really good to have.
+Get [liability insurance](/glossary/Haftpflichtversicherung). It's the second most important insurance after health insurance.
 
 **[What is liability insurance? ➞](/guides/haftpflichtversicherung)**
 
