@@ -26,7 +26,7 @@ A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can
 
 **[Guide to rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
 
-When you sign the lease, the apartment is yours. You can't change your mind. The landlord can't change their mind.
+When you sign the lease, the apartment is yours. You can't change your decision. The landlord can't change their decision.
 
 After you sign the lease, you get 3 important documents:
 
