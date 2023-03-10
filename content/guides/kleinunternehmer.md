@@ -3,7 +3,6 @@ Title: How being a Kleinunternehmer works
 Short_title: Being a Kleinunternehmer
 Description: This guide explains what a Kleinunternehmer is, and when it makes sense to be one.
 Date_created: 2023-03-09
-Related_guides: guides/start-a-business-in-germany.md, guides/value-added-tax.md
 ---
 
 If you have a small business with a low [revenue](/glossary/Umsatz), you can be a *Kleinunternehmer*.

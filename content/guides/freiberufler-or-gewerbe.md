@@ -3,7 +3,6 @@ Title: Freiberufler or Gewerbe: what's the difference?
 Short_title: Freiberufler or Gewerbe?
 Description: Learn the differences between being a freelancer (Freiberufler) and a tradesman (Gewerbetreibende). It's not as easy as it seems!
 Date_created: 2018-03-31
-Related_guides: guides/start-a-business-in-germany.md, guides/kleinunternehmer.md, guides/fragebogen-zur-steuerlichen-erfassung.md
 ---
 
 There is a legal difference between a freelancer (*[[Freiberufler]]*) and a tradesperson (*[[Gewerbetreibende]]*). If you [start a business in Germany](/guides/start-a-business-in-germany), you must understand the difference.

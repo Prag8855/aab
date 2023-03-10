@@ -2,7 +2,6 @@
 Title: What is a Handelsregisternummer?
 Description: The German Registernummer, what it looks like and where to find it.
 Date_created: 2018-03-14
-Related_guides: guides/freiberufler-or-gewerbe.md, guides/start-a-business-in-germany.md, guides/german-tax-id-steuernummer.md
 ---
 
 The *Handelsregisternummer* or simply *Registernummer* is the unique number given to each company listed in the German Trade Register, the *[[Handelsregister]]*. Most german companies must be listed in the Handelsregister, with the exception of freelancers, small businesses (*[[Kleinunternehmer]]*) and companies constituted under civil law (*Gesellschaft bürgerlichen Rechts*)[^0].[^1]
