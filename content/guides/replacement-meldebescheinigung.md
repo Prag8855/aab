@@ -3,7 +3,6 @@ Title: How to get a Meldebescheinigung or Anmeldebestätigung
 Short_title: How to get a Meldebescheinigung
 Description: This is how you get an Anmeldebestätigung or a Meldebescheinigung. You need it to open a bank account, apply for a residence permit or get a cellphone contract in Germany.
 Date_created: 2018-02-28
-Date_updated: 2022-12-02
 ---
 
 When you [register your address](/guides/anmeldung-in-english-berlin) in Germany, you get a registration certificate (*[[Anmeldebestätigung]]* or *Meldebestätigung*). You only get this document once.
@@ -40,7 +39,7 @@ You only get an *Anmeldebestätigung* during the *[[Anmeldung]]* at the *[[Bürg
 
 ## How to get a Meldebescheinigung
 
-You can request a *[[Meldebescheinigung]]* from the *[[Bürgeramt]]*. It costs 10€.[^0] You can get it online, by mail, by email or in person. You cannot get this document if your address is not registered.
+You can request a *[[Meldebescheinigung]]* from the *[[Bürgeramt]]*. It costs 10€.[^0] You can get it online, by post, by email or in person. You cannot get this document if your address is not registered.
 
 ### Online
 
@@ -57,7 +56,7 @@ You can get a *[[Meldebescheinigung]]* from any *[[Bürgeramt]]* in Berlin. It's
 1. [Get an appointment at any Bürgeramt](/guides/berlin-burgeramt-appointment) for "*[Meldebescheinigung beantragen](https://service.berlin.de/dienstleistung/120702/)*"
 2. When you go to your appointment, bring a personal ID (such as your passport) and 10€.
 
-### By mail or email
+### by post or email
 
 You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
 

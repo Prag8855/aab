@@ -3,7 +3,6 @@ Title: How to get a Bürgeramt appointment in Berlin
 Short_title: How to get a Bürgeramt appointment
 Description: Make the Anmeldung a breeze by getting a Bürgeramt appointment quickly and easily.
 Date_created: 2017-09-18
-Date_updated: 2023-01-04
 ---
 
 If you must go to the *[[Bürgeramt]]* in Berlin, you must have an appointment. This guide shows you how to find an appointment, and what to do if there are no appointments available.
@@ -12,7 +11,7 @@ If you must go to the *[[Bürgeramt]]* in Berlin, you must have an appointment. 
 
 ## Avoid it
 
-You don't always need to visit the *[[Bürgeramt]]*. You can do certain things online, or by mail. For example, you can [deregister your address](/guides/abmeldung-deregister-in-berlin) ([*A<u>b</u>meldung*](/glossary/Abmeldung)) by email or by mail.
+You don't always need to visit the *[[Bürgeramt]]*. You can do certain things online, or by post. For example, you can [deregister your address](/guides/abmeldung-deregister-in-berlin) ([*A<u>b</u>meldung*](/glossary/Abmeldung)) by email or by post.
 
 ## Book an appointment online
 

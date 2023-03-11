@@ -591,7 +591,7 @@ If you have questions about this form, [ask a tax advisor](/guides/english-speak
 
 ## What happens next?
 
-**In 4 to 6 weeks**, you will receive your *[[Steuernummer]]* and [VAT number (*Umsatzsteuernummer*)](/glossary/Umsatzsteuernummer) by mail.[^6] Add these numbers to your invoices, and to your website's [[Impressum]].
+**In 4 to 6 weeks**, you will receive your *[[Steuernummer]]* and [VAT number (*Umsatzsteuernummer*)](/glossary/Umsatzsteuernummer) by post.[^6] Add these numbers to your invoices, and to your website's [[Impressum]].
 
 If you are [starting a business in Germany](/guides/start-a-business-in-germany), you should find a [tax advisor](/guides/english-speaking-steuerberater-berlin). It's easier to run a business with a good tax advisor. You can also use tax software like [Sorted](/out/sorted-taxes) or [LexOffice](/out/lexoffice) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your accounting easier.
 

@@ -3,7 +3,6 @@ Title: Cost of living in Berlin, and Germany
 Short_title: Cost of living
 Description: How much does it cost to live in Berlin? Is your salary enough to live there? This is how you can make a budget and find the answer.
 Date_created: 2021-02-01
-Date_updated: 2022-12-08
 ---
 
 This is how much it costs to live in Berlin, and elsewhere in Germany. This guide helps you make a budget before you [move to Germany](/guides/moving-to-berlin), and save money every month.
@@ -121,7 +120,7 @@ For 35€ per month, you can get a 100 Mbit/s internet connection.
 
 In Germany, every household must pay the [TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag). If you live with other people, you can split the cost. [In some cases](/guides/gez-rundfunkbeitrag?x-craft-preview=1#can-i-pay-less), you don't have to pay it.
 
-You will receive a TV tax invoice by mail every 3 months. You can pay manually with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or automatically with a [debit authorisation](/glossary/SEPA-Lastschriftmandat).
+You will receive a TV tax invoice by post every 3 months. You can pay manually with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or automatically with a [debit authorisation](/glossary/SEPA-Lastschriftmandat).
 
 **[What is the Rundfunkbeitrag? ➞](/guides/gez-rundfunkbeitrag)**
 

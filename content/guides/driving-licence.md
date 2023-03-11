@@ -3,7 +3,6 @@ Title: How to get a driving licence in Germany
 Short_title: How to get a driving licence
 Description: A detailed description of the process of obtaining a German Klasse A driving licence. This information is also valid for the Klasse B licence.
 Date_created: 2017-10-23
-Date_updated: 2022-11-18
 ---
 
 This guide shows you how to get a car or motorcycle driving licence in Berlin.
@@ -69,7 +68,7 @@ Try to pass the eyesight test without wearing glasses, or you will need glasses 
 
 **For motorcyclists:** If you can, buy your own protective gear. Some driving schools will give you protective gear, but it's old and it doesn't fit well. I buy most of my gear from [Louis](https://goo.gl/maps/WBfJ3cDKbXTJ7gZV9) in Reinickendorf.
 
-Choosing equipment for the first time is hard. If you need help, [write to me](/contact). [This group](https://www.facebook.com/groups/150125349005531) can also help.
+Choosing equipment for the first time is hard. If you need help, [contact me](/contact). [This group](https://www.facebook.com/groups/150125349005531) can also help.
 
 **[Where to buy motorcycle gear in Berlin ➞](/guides/motorcycle-stores-in-berlin)**
 
@@ -140,9 +139,9 @@ The Bundesdruckerei will print a plastic *Kartenführerschein* for you. This wil
 
 This information is in the letter you got from the Bürgeramt in step 4.
 
-### Get your driving licence by mail
+### Get your driving licence by post
 
-If you paid the 5€ fee, and your letter says you should get the plastic driving licence by mail, you just need to wait. The licence is sent by [registered mail](/glossary/Einschreibebrief), so you are guaranteed to receive it.[^10][^16]
+If you paid the 5€ fee, and your letter says you should get the plastic driving licence by post, you just need to wait. The licence is sent by [registered mail](/glossary/Einschreibebrief), so you are guaranteed to receive it.[^10][^16]
 
 ### Pick up the plastic licence from the Fahrerlaubnisbehörde
 

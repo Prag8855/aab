@@ -2,7 +2,6 @@
 Title: How to get an Ausländerbehörde appointment
 Description: Here's what to do if you can't get an Ausländerbehörde appointment. Where to go, when to go, how long you must wait and more.
 Date_created: 2017-09-22
-Date_updated: 2023-01-06
 ---
 
 If you need to apply for a residence permit or renew a German visa, you must go to the *[[Ausländerbehörde]]*. There are two ways to go to the *Ausländerbehörde* in Berlin:
@@ -74,7 +73,7 @@ Some *Ausländerbehörde* employees speak English, but many only speak German. I
 
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
-Some residence permits are approved on the same day, during your interview. You get a paper residence permit, pay the fee, and leave. Around 8 weeks later, you get your plastic residence permit by mail.
+Some residence permits are approved on the same day, during your interview. You get a paper residence permit, pay the fee, and leave. Around 8 weeks later, you get your plastic residence permit by post.
 
 Most residence permits are approved 1 to 6 months later.[^7]
 

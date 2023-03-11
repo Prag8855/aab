@@ -3,7 +3,6 @@ Title: How to find your German tax ID, tax number or VAT number
 Short_title: Your tax ID, tax number and VAT number
 Description: A brief guide to obtaining or finding your tax identification number in Germany
 Date_created: 2017-12-07
-Date_updated: 2022-12-21
 ---
 
 German residents have different tax identification numbers. This guide helps you find them.
@@ -55,7 +54,7 @@ The *Steuernummer* is **for freelancers and businesses**. It's a 10 or 11 digit 
 
 ### How to get a Steuernummer
 
-You get a *Steuernummer* when you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You get it by mail, 2 to 6 weeks later.[^7] If it takes longer, ask [your local *Finanzamt*](/out/finanzamt-finder) on the phone or in person.
+You get a *Steuernummer* when you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You get it by post, 2 to 6 weeks later.[^7] If it takes longer, ask [your local *Finanzamt*](/out/finanzamt-finder) on the phone or in person.
 
 The *Steuernummer* is unique, but not permanent. If you move your business to another *Finanzamt*'s area, you will get a new *Steuernummer*.[^5]
 

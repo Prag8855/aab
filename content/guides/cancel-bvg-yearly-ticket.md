@@ -1,11 +1,10 @@
 ---
 Title: How to cancel a BVG yearly ticket
-Description: This is how you cancel a BVG yearly ticket. You can do it by email, by mail, at a BVG Kundenzentrum, or on the BVG website.
+Description: This is how you cancel a BVG yearly ticket. You can do it by email, by post, at a BVG Kundenzentrum, or on the BVG website.
 Date_created: 2018-06-01
-Date_updated: 2022-12-02
 ---
 
-This is how you cancel a [[BVG]] yearly ticket. If you don't cancel it, it's renewed automatically every 12 months. You can cancel your BVG subscription by email, by mail, [at a BVG Kundenzentrum](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen), or [on the BVG website](https://abo.bvg.de/de/).
+This is how you cancel a [[BVG]] yearly ticket. If you don't cancel it, it's renewed automatically every 12 months. You can cancel your BVG subscription by email, by post, [at a BVG Kundenzentrum](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen), or [on the BVG website](https://abo.bvg.de/de/).
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -13,11 +12,11 @@ This is how you cancel a [[BVG]] yearly ticket. If you don't cancel it, it's ren
 
 You can cancel your BVG yearly ticket [on the BVG website](https://abo.bvg.de/de/). Go [here](https://abo.bvg.de/de/subscriber/register), enter your customer number (*Kundennummer*), and cancel your subscription.
 
-## How to cancel by mail
+## How to cancel by post
 
 You must cancel your yearly ticket **at least 6 weeks before the end of your subscription**.[^3] That's what the BVG says, but cancelled my subscription 3 weeks before it ended.[^0]
 
-You can cancel by email or by mail, but it's easier to do it online.
+You can cancel by email or by post, but it's easier to do it online.
 
 ### 1. Find your BVG contract number
 
@@ -61,7 +60,7 @@ At the end of your 12 month subscription, your card will stop working. You have 
 
 ## How to cancel in person
 
-You can also cancel a BVG yearly ticket at any [BVG Kundenzentrum](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen). You will sign have to sign a paper, and a few days later, you will receive a confirmation letter by mail.
+You can also cancel a BVG yearly ticket at any [BVG Kundenzentrum](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen). You will sign have to sign a paper, and a few days later, you will receive a confirmation letter by post.
 
 **[List of BVG Kundenzentren](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen)**
 

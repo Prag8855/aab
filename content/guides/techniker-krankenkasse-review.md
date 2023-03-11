@@ -3,7 +3,6 @@ Title: My honest Techniker Krankenkasse review
 Short_title: Review of Techniker Krankenkasse
 Description: My experience with TK health insurance after 5 years. Is TK a good public health insurance? Here's my opinion.
 Date_created: 2019-03-19
-Date_updated: 2022-10-09
 ---
 
 It's hard to [pick the right health insurance in Germany](/guides/german-health-insurance). There are *hundreds* of options, both public and private. You might have heard of Techniker Krankenkasse already. It's the largest public health insurer in Germany.
@@ -84,7 +83,7 @@ You can also ask Techniker Krankenkasse to find an appointment for you. They sen
 
 ![Techniker Krankenkasse Termin Service](/images/techniker-krankenkasse-termin-service.png)
 
-Meine TK allows you to submit or download documents online. You rarely need to send something by mail. You can also download documents for your employer, the *[[Ausländerbehörde]]* and [*BAföG*](/glossary/BAf%C3%B6G) straight from TK's website.
+Meine TK allows you to submit or download documents online. You rarely need to send something by post. You can also download documents for your employer, the *[[Ausländerbehörde]]* and [*BAföG*](/glossary/BAf%C3%B6G) straight from TK's website.
 
 ## What others say about TK
 

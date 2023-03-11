@@ -83,7 +83,7 @@ You will sit at a desk, give your documents, and get your *[[Anmeldebestätigung
 
 Check if the information on your *[[Anmeldebestätigung]]* is correct. Bürgeramt employees often make mistakes.[^12]
 
-If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by mail 2 to 4 weeks later.[^13] You can also [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) without registering your address.
+If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 4 weeks later.[^13] You can also [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) without registering your address.
 
 ## If you can't register your address
 

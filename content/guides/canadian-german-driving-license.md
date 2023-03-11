@@ -30,7 +30,7 @@ If your driving licence is not in German, and it's not from an EU or EEA country
 There are two ways to get a driving licence translation:
 
 - **Get an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)**
-    - In the United States: from the AAA or AATA.[^3] You can apply by mail.
+    - In the United States: from the AAA or AATA.[^3] You can apply by post.
     - In Canada: from a CAA Travel Centre,[^4] a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate.[^5]
     - In the UK: at the Post Office
 - or **get an official translation**...

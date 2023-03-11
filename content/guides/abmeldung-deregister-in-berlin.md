@@ -3,7 +3,6 @@ Title: The Abmeldung - How to deregister in Berlin
 Short_title: How to deregister your address (Abmeldung)
 Description: If you move out of Germany, you must do your Abmeldung. This guide shows you how to do your Abmeldung in Berlin.
 Date_created: 2018-01-04
-Date_updated: 2022-12-13
 ---
 
 When you [move out of your apartment](/guides/moving-out) and leave Germany, you must deregister your address. This is called the *Abmeldung*.
@@ -38,7 +37,7 @@ You can use this to:
 
 ## How to do your Abmeldung
 
-You can deregister your address **in person, by mail or by email**. It's free.
+You can deregister your address **in person, by post or by email**. It's free.
 
 You can deregister 7 days before you [move out](/guides/moving-out). You must deregister maximum 14 days after you move out.[^0]
 

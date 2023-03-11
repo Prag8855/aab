@@ -32,7 +32,7 @@ This is how you get a free Schufa:
 1. On [this page](https://www.meineschufa.de/de/datenkopie), request a *SCHUFA-Datenkopie*.
 2. Enter your information and submit the form. You can include scans of your passport and a *[[Meldebescheinigung]]*, but it's not required.
 
-You will get your Schufa *Datenkopie* by mail a few days later. You can only get it by mail, not by email.
+You will get your Schufa *Datenkopie* by post a few days later. You can only get it by post, not by email.
 
 ## How to get a Schufa quickly
 
@@ -49,19 +49,19 @@ Postbank and Volksbank branches will print your Schufa report, even if you are n
 
 If you have a printer at home, you can get a Schufa from [ImmobilienScout24](https://bonitaetscheck.immobilienscout24.de/) and print it yourself. It costs €29.95, but you can download and print it instantly.
 
-**This service does not work for everyone**. You must verify your identity with your bank. Not all banks can do this. If your bank is not supported, you must send a verification document by mail and wait a few days. You can ask for a refund on their [live chat](https://www.immobilienscout24.de/kontakt.html).
+**This service does not work for everyone**. You must verify your identity with your bank. Not all banks can do this. If your bank is not supported, you must send a verification document by post and wait a few days. You can ask for a refund on their [live chat](https://www.immobilienscout24.de/kontakt.html).
 
 How to request a Schufa on ImmobilienScout24:
 
 1. Fill the form on [this page](https://bonitaetscheck.immobilienscout24.de/).
 2. Enter your payment information.
-3. Verify your identity with GiroIdent. If that does not work, you must verify your identity by mail. This takes a few days, so it's easier to ask for a refund and get your Schufa from Postbank or Volksbank.
+3. Verify your identity with GiroIdent. If that does not work, you must verify your identity by post. This takes a few days, so it's easier to ask for a refund and get your Schufa from Postbank or Volksbank.
 
 ### Directly from Schufa Holding AG
 
 You can request a Schufa directly from SCHUFA Holding AG. This the company that collects Schufa scores.
 
-This costs 30€. You will get your Schufa by mail in 1 to 3 days.
+This costs 30€. You will get your Schufa by post in 1 to 3 days.
 
 **[Request a Schufa](/out/meineschufa)** - meineSchufa
 

@@ -3,7 +3,6 @@ Title: How to buy a car in Germany
 Short_title: How to buy a car
 Description: A step by step guide to buying, registering and insuring a vehicle in Berlin and the rest of Germany
 Date_created: 2019-01-06
-Date_updated: 2022-08-26
 ---
 
 This is how you buy a car or a motorcycle in Germany. This guide tells you how to buy a vehicle from another person, and from a dealership.
@@ -203,7 +202,7 @@ If you buy a vehicle at the dealership, they can usually register it for you. It
 
 ## Step 6: Drive your vehicle
 
-You are now ready to drive! Don't forget that you must still pay the vehicle tax (*[[Kraftfahrzeugsteuer]]*). This tax will be taken directly from your bank account once a year. [You will receive a confirmation](/guides/kraftfahrzeugsteuerbescheid) (*Kraftfahrzeugsteuerbescheid*) by mail.
+You are now ready to drive! Don't forget that you must still pay the vehicle tax (*[[Kraftfahrzeugsteuer]]*). This tax will be taken directly from your bank account once a year. [You will receive a confirmation](/guides/kraftfahrzeugsteuerbescheid) (*Kraftfahrzeugsteuerbescheid*) by post.
 
 ## Step 7: Look for cheaper car insurance
 
