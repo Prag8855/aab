@@ -9,7 +9,7 @@ Related_places: places/dorothee-michel.md, places/herr-dr-med-anton-kugler.md, p
 
 This is how you can find an English-speaking doctor or GP.
 
-**The list is [at the bottom of this page](#list-of-doctors-and-gps).**
+**[Go to the list of doctors ↓](#list-of-doctors-and-gps)**
 
 ## Video call with a doctor
 

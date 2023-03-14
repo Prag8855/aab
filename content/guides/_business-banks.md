@@ -45,8 +45,8 @@ These are the business banks that I cover in this guide:
 - [Fyrst](/out/fyrst)
 - Grenke
 - [Holvi](/out/holvi)
-- [Kontist](/out/kontist)[](/out/n26-business)
-- [N26 Business](/out/n26-business)[](/out/penta)
+- [Kontist](/out/kontist)
+- [N26 Business](/out/n26-business)
 - [Qonto](/out/penta)
 
 ## Business banks by feature
@@ -57,7 +57,7 @@ These banks speak English. If you don't speak German, this can be very useful.
 
 - **[bunq Business](/out/bunq-business)**  
     English, Dutch, French, Italian, Spanish and German
-- [**Finom**](/out/finom)  
+- **[Finom](/out/finom)**  
     English and German
 - **[Holvi](/out/holvi)**  
     English and German
@@ -65,7 +65,7 @@ These banks speak English. If you don't speak German, this can be very useful.
     English, French, Italian, Spanish and German
 - **[Kontist](/out/kontist)**  
     English and German
-- [**Qonto**](/out/penta)  
+- **[Qonto](/out/penta)**  
     English and German
 
 ### Built-in accounting tools

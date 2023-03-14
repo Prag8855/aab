@@ -9,7 +9,7 @@ Related_places: places/ppcc-dr-ernst-seiffert.md, places/frau-dr-med-christine-r
 
 Your mental health is important. It's also important to get help in your language. Below is a list of psychiatrists and psychotherapists who speak English in Berlin. This list is compiled from different sources, but it's still incomplete. If a therapist is missing from our list, [let me know](/suggest-therapist).
 
-**The list is [at the bottom of this page](#places-map).**
+**[Go to the list of therapists and psychiatrists ↓](#places-map)**
 
 {% include "blocks/_tableOfContents.html" %}
 

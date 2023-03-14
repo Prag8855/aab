@@ -106,7 +106,7 @@ If you speak German, these communities can also help you
     Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
 - **[Tax software](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany)**
     - **If you are an employee**, you can use [Taxfix](/out/taxfix) or [SteuerGo](/out/steuergo). Both are available in English. They help you enter expenses and file tax declarations.
-    - **If you are self-employed**, you can use [Sorted](/out/sorted-taxes) or [LexOffice](/out/lexoffice). They help you with invoicing and [VAT reporting](/glossary/Umsatzsteuervoranmeldung). [Sorted](/out/sorted-taxes) is available in English. It lets you book time with a tax advisor when you need help. If you don't know what you are doing, you can still make very expensive mistakes. A tax advisor is better, but more expensive. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your accounting easier.
+    - **If you are self-employed**, you can use [Sorted](/out/sorted-taxes) or [Lexoffice](/out/lexoffice). They help you with invoicing and [VAT reporting](/glossary/Umsatzsteuervoranmeldung). [Sorted](/out/sorted-taxes) is available in English. It lets you book time with a tax advisor when you need help. If you don't know what you are doing, you can still make very expensive mistakes. A tax advisor is better, but more expensive. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your accounting easier.
 - **Tax union** (*Lohnsteuerhilfeverein*)  
     A *Lohnsteuerhilfeverein* can help you file your taxes. It's usually cheaper than a tax advisor. The cost is often based on your income.
 
