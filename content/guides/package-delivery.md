@@ -3,7 +3,6 @@ Title: How to get your DHL, GLS, DPD and Hermes packages
 Short_title: How to get your packages
 Description: Did your package get delivered to a neighbour, or not at all? Is it completely lost? Here's what to do.
 Date_created: 2019-02-05
-Date_updated: 2022-10-05
 ---
 
 Delivery services in Germany are bad:
@@ -56,7 +55,7 @@ If you want to receive your packages reliably, **don't use your home address**.
 - **Get it yourself**  
     Sometimes, it's faster to pick things up from the store yourself.
 - **Be really nice to your driver**  
-    Befriending your delivery driver helps.[^2] They give a better service if you tip them or offer them a drink. This does not always work.
+    Befriending your delivery driver helps.[^2] They give a better service if you [tip them](/guides/tipping) or offer them a drink. This does not always work.
 
 [^0]: [reddit.com](https://old.reddit.com/r/berlin/comments/pk7c4f/dhl_delivered_package_to_neighbor_who_is_never/)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/andj0d/shitpostpng/efv25zp/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/f1tx3x/why_are_berlin_postmen_illiterate/)

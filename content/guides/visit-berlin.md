@@ -3,7 +3,6 @@ Title: Berlin travel guide: what to see, do and eat in Berlin
 Short_title: Visiting Berlin
 Description: If you are visiting Berlin, these are the things you should see and do, and the things you should know.
 Date_created: 2017-09-15
-Date_updated: 2022-10-20
 ---
 
 This guide is for tourists who want to visit Berlin. If you want to move to Berlin, read my [ moving to Berlin guide](/guides/moving-to-berlin).
@@ -188,6 +187,12 @@ You can find club events on [Resident Advisor](https://www.residentadvisor.net/g
 
 [Fleischerei Domke](https://goo.gl/maps/ZppQcDQJmj9JpyBF6) and [Englers Unikat](https://g.page/EnglersUnikat?share) have cheap, traditional working class dishes. For something fancier, try [Max und Moritz](http://www.maxundmoritzberlin.de/).
 
+### Tipping in restaurants
+
+Most people tip in German restaurants, but it's okay if you don't. The waiter won't be rude to you if you don't tip. German waiters don't need tips to survive, but it's a big part of their income.
+
+**[How to tip in Germany ➞](/guides/tipping)**
+
 ## Where to stay in Berlin
 
 There is no "downtown Berlin". There are many popular neighbourhoods, and each one has a different personality. If you stay anywhere in the *[[Ringbahn]]*, you should be okay.
@@ -255,6 +260,12 @@ You should also download the [BVG app](https://www.bvg.de/en/tickets-tariffs/all
 **You don't need to speak German.** People in the tourism industry often speak English. If you are not sure, ask first. Museum exhibitions are in German and English. Signs in tourist areas are also in English. If you want to [live in Berlin](/guides/moving-to-berlin), you should [learn German](/guides/learn-german). If you are just visiting, English is fine.
 
 **[Do I need to speak German in Berlin? ➞](/guides/learn-german#do-i-need-to-speak-german-in-berlin)**
+
+### Tipping
+
+In Germany, tipping is optional. In general, people tip up to 10% for good service, or round the amount on the invoice.
+
+**[How to tip in Germany ➞](/guides/tipping)**
 
 ### Things you should not do
 
