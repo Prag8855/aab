@@ -113,7 +113,9 @@ You can match Kontist bank transactions to receipts and invoices in Lexoffice. M
 
 A few months later, the missing transaction appeared in Lexoffice. There were a dozen more transactions, all of them very late. If this happened a little later, my [tax declaration](/glossary/Steuererkl%C3%A4rung) would have been wrong, and I could have been fined by the *Finanzamt*. This is really bad!
 
-If you have a Kontist Duo account, it also syncs in the other direction. You can do your bookkeeping in Lexoffice, and see the changes in Kontist.
+Kontist also syncs in the other direction. You can do your bookkeeping in Lexoffice, and see the changes in Kontist. This is sometimes buggy, and transactions do not sync properly.
+
+In other cases, a transaction type exists in Lexoffice, but not in Kontist. A [trade tax](/glossary/Gewerbesteuer) payment can appear as an expense, and it makes the income tax calculation completely wrong.
 
 ### Tax advisor access
 
