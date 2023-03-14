@@ -3,7 +3,6 @@ Title: How to start a business in Germany
 Short_title: How to start a business
 Description: A detailed guide to all the rules you must follow when starting a business in Germany, from registering as a freelancer to paying your taxes.
 Date_created: 2018-04-03
-Date_updated: 2023-01-03
 Related_reviews: reviews/start-a-business-in-germany/alexander-baron-von-engelhardt.md
 ---
 
@@ -28,7 +27,7 @@ There are tools that make it easier:
 - **Tax registration**  
     Your [tax advisor](/glossary/Steuerberater) can register your business for you. [Sorted's registration tool](/out/sorted-fragebogen) lets you do it in English. There are [people who can help you](/guides/questions-about-berlin#business-questions), even in English.
 - **Accounting**  
-    Your tax advisor can do your accounting. Tax software like [Lexoffice](/out/lexoffice) and [Sorted](/out/sorted-taxes) help with invoicing and VAT reporting. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) also make your bookkeeping easier.
+    Your tax advisor can do your accounting. Tax software like [Lexoffice](/out/lexoffice) and [Sorted](/out/sorted-taxes) help with invoicing and VAT reporting. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) also make your bookkeeping easier.
 - **Speaking German**  
     Your tax advisor can talk with the *Finanzamt* for you. [Red Tape Translation](/out/red-tape-translation) can help you write letters in German. German-speaking friends can help you too.
 
@@ -94,7 +93,7 @@ If you want to pay less, use tax software instead. [Sorted](/out/sorted-taxes) a
 
 **[German tax software in English ➞](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany)**
 
-Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your accounting easier. I use Kontist as my business bank.
+Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier. I use Kontist as my business bank.
 
 Tax advisors and tax software are tax-deductible expenses.
 
@@ -134,7 +133,7 @@ If you are a *[[Freiberufler]]* or a *[[Gewerbe]]*, you don't need a business ba
 
 If you form a corporation (GmbH, UG, AG or KGaA), you need a separate business account (*[[Geschäftskonto]]*).[^2] It's required.
 
-If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/penta) can also make your bookkeeping easier. I use [Kontist](/out/kontist) since January 2022.
+If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your bookkeeping easier. I use [Kontist](/out/kontist) since January 2022.
 
 **[How to choose a German bank ➞](/guides/first-bank-account-in-germany)**
 

@@ -47,7 +47,7 @@ These are the business banks that I cover in this guide:
 - [Holvi](/out/holvi)
 - [Kontist](/out/kontist)
 - [N26 Business](/out/n26-business)
-- [Qonto](/out/penta)
+- [Qonto](/out/qonto)
 
 ## Business banks by feature
 
@@ -65,7 +65,7 @@ These banks speak English. If you don't speak German, this can be very useful.
     English, French, Italian, Spanish and German
 - **[Kontist](/out/kontist)**  
     English and German
-- **[Qonto](/out/penta)**  
+- **[Qonto](/out/qonto)**  
     English and German
 
 ### Built-in accounting tools
