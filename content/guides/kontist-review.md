@@ -27,7 +27,7 @@ If you get paid in foreign currencies, or have many small transactions, Kontist 
 
 They added the transaction fee in October 2022.[^6] Since then, I pay twice as much for the same service. It was a slap in the face.
 
-[![Kontist invoice with account fees](/images/kontist-account-fees.png "9€ for the account, and 9€ in transaction fees.")](/images/kontist-fees.png)
+[![Kontist invoice with account fees](/images/kontist-account-fees.png "9€ for the account, and 9€ in transaction fees.")](/images/kontist-account-fees.png)
 
 ### Free account
 
