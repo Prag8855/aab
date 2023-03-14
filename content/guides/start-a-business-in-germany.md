@@ -133,7 +133,7 @@ If you are a *[[Freiberufler]]* or a *[[Gewerbe]]*, you don't need a business ba
 
 If you form a corporation (GmbH, UG, AG or KGaA), you need a separate business account (*[[Geschäftskonto]]*).[^2] It's required.
 
-If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your bookkeeping easier. I use [Kontist](/out/kontist) since January 2022.
+If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your bookkeeping easier. I use [Kontist](/out/kontist) since January 2022, but [I don't recommend it](/guides/kontist-review).
 
 **[How to choose a German bank ➞](/guides/first-bank-account-in-germany)**
 

@@ -136,7 +136,7 @@ If you need to [apply for the German freelance visa](/guides/how-to-get-a-german
 
 As a freelancer, you will not always have enough work, and your clients will not always pay you on time. Sometimes, they won't pay you at all! You need to have enough savings to feed yourself and pay the rent even during the bad months. When you apply for the freelance visa, [you must prove that you have a few thousand euros saved](/guides/how-to-get-a-german-freelance-visa#proof-of-self-sufficiency).
 
-Once you start freelancing, you also need to save some of your revenue to pay [VAT](/glossary/Umsatzsteuer), [income tax](/glossary/Einkommensteuer), [trade tax](/glossary/Gewerbesteuer) and health insurance. [Kontist](/out/kontist) bank accounts that do this automatically. It's not perfect, but it works pretty well.
+Once you start freelancing, you also need to save some of your revenue to pay [VAT](/glossary/Umsatzsteuer), [income tax](/glossary/Einkommensteuer), [trade tax](/glossary/Gewerbesteuer) and health insurance. [Kontist](/out/kontist) bank accounts that do this automatically. [It's not perfect](/guides/kontist-review), but it works.
 
 ## Set your rate
 
