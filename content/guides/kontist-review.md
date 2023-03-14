@@ -77,7 +77,7 @@ In the end, this feature is too crude to help.
 
 ## Invoicing and bookkeeping
 
-## Invoicing tool
+### Invoicing tool
 
 You can create invoices in Kontist, but Kontist does not send them for you. You must download them and email them manually.
 
