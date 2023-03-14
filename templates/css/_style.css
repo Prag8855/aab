@@ -350,9 +350,9 @@ main {padding:1px 0;display:grid;width:100%;max-width:var(--max-width-page);grid
 .section#support{margin:var(--spacing-m) auto var(--spacing-l)}
 	.section#support h2{margin:0}
 	.section#support p{margin:var(--spacing-m) 0 var(--spacing-text-block-m)}
-		.section#support > a{display:block;margin:0 auto;width:100px;height:139px;}
-		.section#support img{width:100px;height:139px;position:relative;top:0px;transition:top 0.2s}
-		.section#support img:hover{animation:0.3s 2 shake;top:-7px;animation-delay:0.3s;}
+		.tip-jar{display:block;margin:0 auto;width:100px;height:139px;}
+		.tip-jar img{width:100px;height:139px;position:relative;top:0px;transition:top 0.2s;background:transparent;border:none;}
+		.tip-jar img:hover{animation:0.3s 2 shake;top:-7px;animation-delay:0.3s;outline:none!important}
 
 .collections{margin-bottom:calc(var(--spacing-m) * -1)!important;}
 	.collection{width:calc(50% - var(--spacing-m) / 2);margin-bottom: var(--spacing-m);box-sizing:border-box;background:var(--color-background-page);padding:var(--spacing-m) var(--spacing-page-borders);border-radius:var(--border-radius);border:var(--border-page);box-shadow:var(--box-shadow-m)}
