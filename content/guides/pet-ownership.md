@@ -121,6 +121,7 @@ If you don't speak German, here are some veterinarians who speak English:
 - [Dr. Molkentin](https://www.goldakupunktur-berlin.de/)
 - [Dr. Pastor](https://www.tierarztpraxis-pastor.de/)
 - [Dr. Peter Vogel](https://www.drpetervogel.de/en)
+- [Dr. Rotgang Praxis](https://www.tierarztpraxis-rotgang.de/en-gb)
 - [Dr. Uwe Lenk](https://tierarztpraxis-lenk.de/)
 - [Ellen Laskawy](https://www.laskawy-berlin.de/)
 - [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
