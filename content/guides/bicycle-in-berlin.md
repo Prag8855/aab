@@ -3,10 +3,12 @@ Title: How to buy and ride a bicycle in Berlin
 Short_title: How to buy and ride a bicycle
 Description: Everything cyclists should know about riding a bicycle in Berlin: where to buy a bicycle, what equipment is required and what the rules are and more.
 Date_created: 2020-08-21
-Date_updated: 2022-08-03
+Related_reviews: reviews/bicycle-in-berlin/azur-muharemovic.md
 ---
 
-Having a bicycle in Berlin is great. Berlin is very flat, and it has a big network of bike paths. In this guide, you will learn how to buy a bike in Berlin, what rules you must follow, and how to deal with bicycle theft.
+Berlin is better on a bicycle. The city is very flat, and it has a big network of bike paths. In the summer, it's the best way to get around.
+
+In this guide, I show you how to buy a bike, what rules you must follow, and how to deal with bicycle theft.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -14,18 +16,18 @@ Having a bicycle in Berlin is great. Berlin is very flat, and it has a big netwo
 
 ### Buying a new bicycle
 
-There are hundreds of bicycle shops in Berlin. Here are some of the biggest ones:
+There are also many small, **independent bicycle shops**. They can give you personalised advice. For example, they can find a bike that fits your body, customise a bike for your needs, or even build a bicycle just for you. When you have problems with your bicycle, they can help you.
 
-- [**Decathlon**](https://www.decathlon.de/) (Mitte)  
-    Giant sport equipment store. The main store is near Alexanderplatz. They sell cheap, medium quality bicycles.
+There are also big bicycle stores like 
+
+- [**Decathlon**](https://www.decathlon.de/) (many locations in Berlin)  
+    Big sport equipment store. The main store is near Alexanderplatz. They sell cheap, medium quality bicycles.
 - [**Stadler**](https://zweirad-stadler.de) (Charlottenburg, Prenzlauer Berg)  
     Giant bicycle store. They have two locations in Berlin.
 
-There are also many small, **independent bicycle shops**. They can offer better advice. For example, they can find a bike that fits your body, customise a bike for your needs, or even build a bicycle just for you. If you have problems with your bicycle, they will be able to help you.
-
 ### Buying a used bicycle
 
-You can save money by buying a used bicycle. There are many places where you can find used bicycles:
+Used bicycles are cheaper. There are many places where you can buy them:
 
 - **[Berliner Fahrradmarkt](http://berlinerfahrradmarkt.de/fahrraeder/fahrrad-kaufen)** (Moabit, Kreuzberg, Prenzlauer Berg)  
     Monthly bicycle markets with hundreds of bicycles. There is also a bicycle workshop.
@@ -36,22 +38,30 @@ You can save money by buying a used bicycle. There are many places where you can
 - **[Flea markets](https://www.berlin.de/special/shopping/flohmaerkte/)**  
     There are flea markets every Sunday in Berlin. Many of them sell bicycles. Do not buy a bicycle there. The bicycles are too old, too expensive, and often stolen.
 - **[Sell Your Bike Berlin](https://www.facebook.com/groups/sellyourbikeberlin/)**  
-    Facebook group with over 30 000 members. If you speak French, there is also [Les vélos de Berlin](https://www.facebook.com/groups/lesvelosdeberlin/).
+    Facebook group with over 30 000 members. If you speak French, there is also [Les vélos de Berlin](https://www.facebook.com/groups/lesvelosdeberlin/). Watch for [stolen bicycles](#buying-a-stolen-bicycle).
 - **[Bicycle auctions](https://www.auktionshaus-beier.de/termine/categoryevents/1-bvg-fundsachen-versteigerung)**  
-    The [[BVG]] and the city of Berlin have regular auctions for their [lost and found](/guides/lost-and-found-berlin) items.
-    - [BVG auctions](https://www.auktionshaus-beier.de/termine/categoryevents/1-bvg-fundsachen-versteigerung)
+    There are regular auctions for [lost and found](/guides/lost-and-found-berlin) items:
     - [City of Berlin auctions](https://www.luedtke-versteigerungen.de/fahrradversteigerung)
+    - [Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)
 
-Many used bicycles are stolen. If you are caught riding a stolen bicycle, [it can be a problem](https://www.reddit.com/r/berlin/comments/iaslrk/get_your_bike_registered_next_to_streptower_park/g1qowlk/).[^0] Before you buy a used bicycle, [find its frame number](https://www.krist.com/glossar/rahmennummer---wo-ist-die-nur__61.php) (*Rahmennummer*) or registration tag (*Fahrradkennzeichen*), and enter it in [this database](https://www.rahmennummern-check.de/), [this database](https://bikefinder.de/diebstahldatenbank/) and [this database](https://fahrradnummer.de/).
+The quality of used bicycles varies a lot. Always try the bike before you buy it. Check if the brakes work, the gears change smoothly, the frame is not cracked, the wheels are straight, etc. [This guide](https://bikefair.org/blog/how-to-choose-a-second-hand-bike#:~:text=check%20the%20bike) can help you.
 
-You should also sign a sales contract like [this one](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Fahrradkauf/Download/ADFC_Musterkaufvertrag_2018-08.pdf). If the bike is stolen, the seller will often refuse to sign a contract.[^1]
+### Buying a stolen bicycle
+
+Many used bicycles are stolen. Before you buy a used bicycle, [find its frame number](https://www.krist.com/glossar/rahmennummer---wo-ist-die-nur__61.php) (*Rahmennummer*) or registration tag (*Fahrradkennzeichen*), and enter it in [this database](https://www.rahmennummern-check.de/), [this database](https://bikefinder.de/diebstahldatenbank/) and [this database](https://fahrradnummer.de/).
+
+Sign a sales contract (*Kaufvertrag*) like [this one](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Fahrradkauf/Download/ADFC_Musterkaufvertrag_2018-08.pdf). If the bike is stolen, the seller usually refuses to sign a contract.[^1]
+
+If you are caught with a stolen bicycle, the police will seize it. If you can find the seller, you can get your money back. If not, you lose your money and your bicycle.
 
 ### Renting a bicycle
 
 If you only stay in Berlin for a few months, you can rent a bicycle instead.
 
-- [**Swapfiets**](https://swapfiets.de/)  
-    Rent a bicycle for a few months. It costs around 20€ per month. Maintenance and repairs are included in the price.
+- **[Swapfiets](https://swapfiets.de/)**  
+    Rent a bicycle for a few months. Minimum 20€ per month. Maintenance and repairs are included in the price. They also rent electric bikes.
+- **[Recyclies](https://recyclies.com/)**  
+    Recycled and refurbished bicycles. Cheaper than Swapfiets, with more flexible contracts. Maintenance and repairs are included in the price.
 - **[Bikesurf](https://www.bikesurf.org/)**  
     Borrow a bike, pay what you can.
 - **Bike sharing**  
@@ -63,6 +73,10 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     - [Donkey Republic](https://www.donkey.bike/cities/bike-rental-berlin/)
     - [Avocargo](https://www.avocargo.one/) - Electric cargo bikes
     - [fLotte](https://flotte-berlin.de/) - Cargo bikes
+    
+### Bicycles for refugees
+
+If you are a refugee, you can get a free bicycle from [Rückenwind](https://rueckenwind.berlin/english/) or [Frieda](https://www.instagram.com/bicycle_repair_diy_berlin/).
 
 ### How to save money
 
@@ -75,13 +89,15 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
 - **Buy a used bike**  
     Old bicycles are reliable and easy to maintain. You don't need a new bicycle, even if you know nothing about bicycle repair. Used bicycles are much cheaper than new ones.
 
-## Bicycle repairs
+## Bicycle repairs and maintenance
 
-There are many [bike repair shops](https://www.google.com/maps/search/Fahrradwerkstatt/) (*Fahrradwerkstatt*) in every neighbourhood. If you just need air in your tires, use this [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131). You can also [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c3-fahrradpumpe/_/N-eehuqh) for less than 10€.
+### Bicycle repair shops
+
+There are many [bike repair shops](https://www.google.com/maps/search/Fahrradwerkstatt/) (*Fahrradwerkstatt*) in every neighbourhood. There are good ones and bad ones. Check online reviews before choosing one.
 
 ### Self-service workshops
 
-If you want to repair your bicycle yourself, there are also self-service repair stations (*Selbsthilfewerkstatt*) around the city. Many of them have friendly people who can teach you how to repair your bike.
+If you want to repair your bicycle yourself, there are many self-service repair stations (*Selbsthilfewerkstatt*) in Berlin. Many of them have friendly people who can teach you how to repair your bike.
 
 - [ADFC bicycle workshop](https://adfc-berlin.de/service/selbsthilfewerkstatt.html) (Kreuzberg)
 - [Berliner Fahrradmarkt](http://berlinerfahrradmarkt.de/) (Moabit, Kreuzberg, Prenzlauer Berg) - bicycle market with repair station
@@ -93,9 +109,11 @@ If you want to repair your bicycle yourself, there are also self-service repair 
 - [Velo-fit](https://www.facebook.com/velofitberlin/) (Kreuzberg)- bike workshop by Berliner Stadtmission
 - [Workshop in Amtshaus Buchholz](https://www.buergerhaus-gmbh.de/fahrradselbsthilfewerkstatt.html) (Buchholz)
 
+If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c3-fahrradpumpe/_/N-eehuqh) for less than 10€.
+
 ## Bicycle theft
 
-Bike theft is very common in Berlin. Over 30,000 bicycles are stolen every year.[^4] Always lock your bike with a strong [bicycle lock](https://amzn.to/2Dydvoq) (*Fahrradschloß*). Do not leave your bike locked on the street or at a train station overnight. If possible, lock your bike in a private area like a courtyard or a cellar.
+Bike theft is very common in Berlin. Over 30,000 bicycles are stolen every year.[^4] Always lock your bike with a strong [bicycle lock](https://amzn.to/2Dydvoq) (*Fahrradschloß*). Do not leave your bike locked on the street or at a train station overnight. If possible, lock your bike in a private area like a courtyard or a cellar. Always lock the bike to something else, so that thieves don't carry it away.
 
 ### Bicycle registration
 
