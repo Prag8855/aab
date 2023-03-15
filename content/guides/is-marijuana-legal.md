@@ -3,7 +3,6 @@ Title: Is marijuana legal in Gemany?
 Short_title: Is cannabis legal?
 Description: A short guide about the legality of weed, CBD, cannabis seeds and other marijuana products in Germany.
 Date_created: 2022-05-30
-Date_updated: 2023-01-04
 ---
 
 This guide explains the current laws about cannabis in Germany.
@@ -50,9 +49,22 @@ It's a lot easier to buy quality weed in the Netherlands, or even in the Czech R
 
 If you get caught with cannabis on you, the police will take you to the police station and question you. They will take your photo and information, and they will let you go. Be polite, and do what you are told. You will be fine.
 
-A few weeks later, you will get a receipt for your visit at the police station. You don't need to do anything yet. At this point, your case is still open. Later, you will either receive a letter with legal instructions, or a letter that says that there is no trouble.
+A few weeks later, you will get a receipt for your visit at the police station. You don't need to do anything yet. At this point, your case is still open.
 
-In Berlin, less than 10 to 15 grams is considered a "small amount",[^14] and the police can choose to let you go without consequences.[^15] Most of the time, that's what will happen, but it's not guaranteed. If you are caught with more than a small amount, they must do something, and you *will* get in trouble.
+Later, you will either get a letter with legal instructions, or a letter that says that there is no trouble.
+
+In Berlin, what happends depends on how much weed you have:[^14]
+
+* **Under 10 grams**
+    The public prosecutor's office *must* drop your case if there is no danger to others. You are not in trouble, unless you were driving while high, cycling while high, or smoking weed around children.
+* **Under 15 grams**
+    The public prosecutor's office *can choose* to drop your case. You could be in trouble.
+* Over 15 grams
+    The public prosecutor's office *must* prosecute your case. You are in trouble.
+
+In all cases, this will appear on your record at the driver licence's office. It could be a problem when you try to get a German driving licence.
+
+**[More information](https://www.berlin.de/lb/drogen-sucht/gesetze/betaeubungsmittelgesetz/)** (in German) - Berlin.de
 
 ## Where can I buy weed in Berlin?
 
@@ -72,5 +84,4 @@ In Berlin, less than 10 to 15 grams is considered a "small amount",[^14] and the
 [^11]: [anwalt.de](https://www.anwalt.de/rechtstipps/sensi-seeds-cannabis-samen-ermittlungsverfahren-durch-den-zoll-welche-strafe-droht-mir-rechtsanwalt-schueller-hilft-188355.html#:~:text=dieser%20moment%20ist%20der%20richtige%2C%20um%20einen%20anwalt%20zu%20konsultieren)
 [^12]: [pflanzenfreunde.com](https://www.pflanzenfreunde.com/garten/cannabis-anbau.htm)
 [^13]: [qr.ae](https://qr.ae/pvFjAX)
-[^14]: [sensiseeds.com](https://sensiseeds.com/en/blog/countries/cannabis-in-germany-laws-use-history/#what-is-a-small-amount-of-cannabis), [hanfverband.de](https://hanfverband.de/inhalte/bundesland-vergleich-der-richtlinien-zur-anwendung-des-ss-31a-btmg)
-[^15]: [§31a BtMG](https://www.gesetze-im-internet.de/btmg_1981/__31a.html)
+[^14]: [berlin.de](https://www.berlin.de/lb/drogen-sucht/gesetze/betaeubungsmittelgesetz/), [sensiseeds.com](https://sensiseeds.com/en/blog/countries/cannabis-in-germany-laws-use-history/#what-is-a-small-amount-of-cannabis), [hanfverband.de](https://hanfverband.de/inhalte/bundesland-vergleich-der-richtlinien-zur-anwendung-des-ss-31a-btmg), [§31a BtMG](https://www.gesetze-im-internet.de/btmg_1981/__31a.html)
