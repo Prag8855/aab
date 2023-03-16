@@ -28,4 +28,4 @@ The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularve
     - **Anschrift**: Your other addresses in Germany.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).
 
-[^0]: [buergeramt-termine.de](https://www.buergeramt-termine.de/single-post/Abmeldung-Deregister-Berlin)
+[^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)

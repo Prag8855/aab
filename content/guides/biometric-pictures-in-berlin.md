@@ -21,7 +21,7 @@ These biometric photos are accepted by the [*Bürgeramt*](/glossary/Bürgeramt) 
 
 ## At the Bürgeramt/Ausländerbehörde
 
-There are passport photo kiosks at the [*Ausländerbehörde*](/glossary/Ausl%C3%A4nderbeh%C3%B6rde), and at the [*Bürgeramt*](/glossary/B%C3%BCrgeramt). [Find your Bürgeramt](https://service.berlin.de/standorte/buergeraemter/) or [Ausländerbehörde](https://service.berlin.de/standorte/auslandsamt/), then look for *Fotoautomat* on [the information page](https://service.berlin.de/standort/122297/).
+There are passport photo kiosks at the *[[Ausländerbehörde]]*, and at the *[[Bürgeramt]]*. [Find your Bürgeramt](https://service.berlin.de/standorte/buergeraemter/) or [Ausländerbehörde](https://www.berlin.de/einwanderung/ueber-uns/unsere-standorte/). The information page shows if there is a *Fotoautomat*.
 
 ![Fotoautomat at the Bürgeramt](/images/berlin-buergeramt-fotoautomat.png)
 

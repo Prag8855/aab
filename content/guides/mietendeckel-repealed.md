@@ -3,7 +3,6 @@ Title: The Mietendeckel is gone. Here's what it means.
 Short_title: The Mietendeckel
 Description: The Mietendeckel was repealed. You might have to give the money you saved back, but there are other ways to reduce your rent.
 Date_created: 2021-04-15
-Date_updated: 2022-12-01
 ---
 
 *This guide is old. It probably does not apply to you.*
@@ -126,24 +125,24 @@ This means that if you don't return the money you saved with the *Mietendeckel*,
 
 **[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
+[^0]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^1]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html)
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/bundesverfassungsgericht-berlin-mietendeckel-entscheidung.html)
-[^3]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/interview-mietendeckel-berlin-mieterverein.htm/), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
-[^4]: [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
+[^3]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/interview-mietendeckel-berlin-mieterverein.htm/), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/)
+[^4]: [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^5]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-3)
-[^6]: [mietendeckel.berlin.de](https://mietendeckel.berlin.de/faq/), [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/urteil-zum-mietendeckel-wie-mieter-jetzt-trotzdem-die-miete-senken-koennen-76073686.bild.html), [morgenpost.de](https://www.morgenpost.de/berlin/article232126663/mietendeckel-berlin-experten-fragen-antworten.html)
+[^6]: [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20230314084703/https://mietendeckel.berlin.de/faq/), [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/urteil-zum-mietendeckel-wie-mieter-jetzt-trotzdem-die-miete-senken-koennen-76073686.bild.html), [morgenpost.de](https://www.morgenpost.de/berlin/article232126663/mietendeckel-berlin-experten-fragen-antworten.html)
 [^7]: [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/urteil-zum-mietendeckel-wie-mieter-jetzt-trotzdem-die-miete-senken-koennen-76073686.bild.html), [morgenpost.de](https://www.morgenpost.de/berlin/article232126663/mietendeckel-berlin-experten-fragen-antworten.html)
 [^8]: [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/immobilien-vonovia-steckt-den-mietendeckel-weg-1.5266729), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/faq/)
 [^9]: [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/urteil-zum-mietendeckel-wie-mieter-jetzt-trotzdem-die-miete-senken-koennen-76073686.bild.html)
-[^10]: [mietendeckel.berlin.de](https://mietendeckel.berlin.de/faq/), [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/urteil-zum-mietendeckel-wie-mieter-jetzt-trotzdem-die-miete-senken-koennen-76073686.bild.html)
-[^11]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-0), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/faq/), [morgenpost.de](https://www.morgenpost.de/berlin/article232126663/mietendeckel-berlin-experten-fragen-antworten.html)
+[^10]: [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20210119050437/https://mietendeckel.berlin.de/faq/), [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/urteil-zum-mietendeckel-wie-mieter-jetzt-trotzdem-die-miete-senken-koennen-76073686.bild.html)
+[^11]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-0), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20210119050437/https://mietendeckel.berlin.de/faq/), [morgenpost.de](https://www.morgenpost.de/berlin/article232126663/mietendeckel-berlin-experten-fragen-antworten.html)
 [^12]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-0)
 [^13]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-4)
-[^14]: [tacheles-sozialhilfe.de](https://tacheles-sozialhilfe.de/startseite/aktuelles/d/n/2771/), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/), [sozialticker.com](https://www.sozialticker.com/april-2021-nachzahlungen-jobcenter-sozialamt-beantragen/)
+[^14]: [tacheles-sozialhilfe.de](https://tacheles-sozialhilfe.de/startseite/aktuelles/d/n/2771/), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/), [sozialticker.com](https://www.sozialticker.com/april-2021-nachzahlungen-jobcenter-sozialamt-beantragen/)
 [^15]: [sozialticker.com](https://www.sozialticker.com/april-2021-nachzahlungen-jobcenter-sozialamt-beantragen/)
-[^16]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html), [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/)
-[^17]: [mietendeckel.berlin.de](https://mietendeckel.berlin.de/pressemitteilung/210420/), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/senat-beratungen-mietendeckel-aus-haertefallfonds.html)
+[^16]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/)
+[^17]: [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/), [rbb24.de](https://www.rbb24.de/politik/beitrag/2021/04/senat-beratungen-mietendeckel-aus-haertefallfonds.html)
 [^18]: [test.de](https://www.test.de/Mietendeckel-in-Berlin-nichtig-Mietern-drohen-jetzt-Nachzahlungen-5573755-0/#question-8)
 [^19]: [morgenpost.de](https://www.morgenpost.de/berlin/article232126663/mietendeckel-berlin-experten-fragen-antworten.html)
 [^20]: [sozialticker.com](https://www.sozialticker.com/april-2021-nachzahlungen-jobcenter-sozialamt-beantragen/), [taz.de](https://taz.de/Senator-kuendigt-Sicher-wohnen-Hilfe-an/!5762249/)

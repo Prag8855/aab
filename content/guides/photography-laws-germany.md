@@ -80,7 +80,7 @@ If you took the photo by accident, you can delete the picture without punishment
 
 ## Can I film the police in Germany?
 
-There is no exception for police officers.[^14] The rules described above also apply to them.[^26] You can film police officers, but you can't *share* photos or videos of police officers without getting their permission or blurring their faces.
+There is no exception for police officers.[^14] The rules described above also apply to the police. You can film police officers, but you can't *share* photos or videos of police officers without getting their permission or blurring their faces.
 
 ## Legal references
 
@@ -111,7 +111,7 @@ There is no exception for police officers.[^14] The rules described above also a
 [^11]: [ra-plutte.de](https://www.ra-plutte.de/faq-recht-am-eigenen-bild-beispiele/#Geb%C3%A4ude), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/urhg/__59.html)
 [^12]: [§33 KunstUrhG](https://www.gesetze-im-internet.de/kunsturhg/__33.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_stgb/englisch_stgb.html#p1841)
 [^13]: [web.archive.org](http://web.archive.org/web/20210728110315/https://www.goethe.de/en/kul/med/20849366.html), [anwalt.org](https://www.anwalt.org/201a-stgb/)
-[^14]: [datenschutzbeauftragter-info.de](https://www.datenschutzbeauftragter-info.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/), [mainpost.de](https://www.mainpost.de/ueberregional/meinung/leseranwalt/Warum-Polizeibeamte-von-der-Redaktion-unkenntlich-gemacht-wurden;art18771,8765555)
+[^14]: [datenschutzbeauftragter-info.de](https://www.datenschutzbeauftragter-info.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
 [^15]: [hoesmann.eu](https://hoesmann.eu/das-recht-auf-verpixelung-in-der-medienberichterstattung-philipp-guttmann/)
 [^16]: [datenschutzbeauftragter-info.de](https://www.datenschutzbeauftragter-info.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
 [^17]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/kunsturhg/__23.html)
@@ -123,4 +123,3 @@ There is no exception for police officers.[^14] The rules described above also a
 [^23]: [web.archive.org](http://web.archive.org/web/20210728110315/https://www.goethe.de/en/kul/med/20849366.html)
 [^24]: [fotomagazin.de](https://www.fotomagazin.de/praxis/fotorecht/fokus-fotorecht-wann-ist-eine-person-erkennbar)
 [^25]: [tz.de](https://www.tz.de/auto/muessen-auto-kennzeichen-netz-unkenntlich-gemacht-werden-zr-11389225.html)
-[^26]: [mainpost.de](https://www.mainpost.de/ueberregional/meinung/leseranwalt/Warum-Polizeibeamte-von-der-Redaktion-unkenntlich-gemacht-wurden;art18771,8765555)

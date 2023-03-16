@@ -129,7 +129,7 @@ You can buy used appliances from [eBay Kleinanzeigen](http://ebay-kleinanzeigen.
 
 **[Where to buy furniture and house supplies ➞](/guides/where-to-buy-what#furniture-and-house-supplies)**
 
-If you need help to move furniture, you can use a [Möbel Taxi](http://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/home). You can find more moving services on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+If you need help to move furniture, you can use a [Möbel Taxi](http://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). You can find more moving services on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
 
 ### Install light fixtures
 

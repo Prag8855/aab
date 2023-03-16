@@ -18,7 +18,7 @@ Dead animals - especially wild ones - can carry diseases, so you can't dunk them
 
 You cannot bury an animal on public grounds or in a park. You can be fined up to 50,000€ for it. However, you can legally bury your deceased pets on your own property, as long as it's not in a water conservation area (Wasserschutzgebiet) or right next to a public road or square. You must bury the animal at least 50 centimetres deep.
 
-A pet cemetery, or *Tierfriedhof,* is also an option. [Tierschutzverein Berlin](http://www.tierschutz-berlin.de/tierheim/tierfriedhof.html) and [Tierhimmel](http://www.tierhimmel.de/tierkrematorium/preise) will bury your best friend. Burial costs 10€ to 350€, depending on the animal's weight.
+A pet cemetery (*Tierfriedhof*) is also an option. [Tierschutzverein Berlin](https://tierschutz-berlin.de/service/tierfriedhof/) and [Tierhimmel](http://www.tierhimmel.de/tierkrematorium/preise) will bury your best friend. Burial costs 10€ to 350€, depending on the animal's weight.
 
 ### Cremation
 

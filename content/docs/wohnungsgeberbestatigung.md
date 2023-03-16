@@ -18,5 +18,5 @@ You get the [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigun
 
 This [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigung) template is an official example from the city of Berlin. You can use a different template if it contains the same information.[^1]
 
-[^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1968), [immobilienscout24.de](https://www.immobilienscout24.de/umzug/ratgeber/mietrecht/untervermietung.html)
+[^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1968), [immobilienscout24.de](https://www.immobilienscout24.de/wissen/mieten/untervermietung.html)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7r3rhe/question_about_anmeldung/dsu4ffx/)

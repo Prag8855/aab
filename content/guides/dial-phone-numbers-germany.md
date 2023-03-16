@@ -17,7 +17,7 @@ A German phone number has 3 parts: the **country code**, the **area code**, and 
 Take this number for example: **+49 30 901820**.
 
 - **+49** is the country code (*Ländervorwahl*) for Germany.[^0] The "+" important. If you can't dial "+49" on your phone, dial "0049" instead. 004930901820 is the same as +4930901820.
-- **30** is the area code (*Vorwahl*). The area code for Berlin is **30**,[^1] but cellphones have different area codes. You can see a full list [here](https://en.wikipedia.org/wiki/List_of_dialling_codes_in_Germany).
+- **30** is the area code (*Vorwahl*). The area code for Berlin is **30**,[^1] but cellphones have different area codes. - [Full list of area codes](https://en.wikipedia.org/wiki/List_of_dialling_codes_in_Germany).
 - **901820** is the rest of the phone number. It can have more digits, or fewer digits.
 
 You can write the same number without a country code. Just add "0" in front of it: 030 901820.

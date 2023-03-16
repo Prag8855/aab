@@ -281,8 +281,8 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 ### Basic documents
 
 - **Freelance visa application form, filled** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    *[Template](/docs/german-freelance-visa-form) - [detailed guide](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)*  
-    This form is available in [German, English, French and Italian](/docs/german-freelance-visa-form). For instructions on how to fill this form, see [this guide](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/). This is only required if you apply for the first time.[^25]
+    *[Template](/docs/german-freelance-visa-form) - [detailed guide](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)*  
+    This form is available in [German, English, French and Italian](/docs/german-freelance-visa-form). For instructions on how to fill this form, see [this guide](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/). This is only required if you apply for the first time.[^25]
 - **Appointment confirmation**  
     This document shows a lot of useful information about your appointment.
 - **2 passport photos**  

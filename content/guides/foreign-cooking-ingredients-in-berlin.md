@@ -57,7 +57,7 @@ Condensed milk can be a false friend for people from the UK at least. If a recip
 
 ### Corn tortillas
 
-Corn tortillas are sold at [Chili & Paprika](http://www.chiliundpaprika.de/) and [Aqui España](http://aqui-espana.de/). [Cintli](https://www.cintli.de/) also sells them [in different stores](https://www.cintli.de/kontakt).
+Corn tortillas are sold at [Chili & Paprika](http://www.chiliundpaprika.de/) and [Aqui España](http://aqui-espana.de/).
 
 ### Couscous spices
 
@@ -133,7 +133,7 @@ Vanilla extract hard to find in Germany. I buy it [on Amazon](http://amzn.to/2hz
 
 ### Vegemite
 
-[Australia Shopping World](http://www.australiashop.com/) has Vegemite. You can also [order it from Amazon](http://amzn.to/2yhOt8K), but it's expensive.
+[Australia Shopping World](http://www.australiashop.com/) has Vegemite. You can also [order it from Amazon](https://amzn.to/3lh7pP6), but it's more expensive.
 
 ### Yeast
 

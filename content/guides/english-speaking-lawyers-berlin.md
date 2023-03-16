@@ -22,7 +22,7 @@ Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
 ## Other lists on the internet
 
 - [Red Tape Translation's list of English-speaking lawyers](https://www.redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/)
-- [The US Embassy's list](https://web.archive.org/web/20210516131011/https://web.archive.org/web/20210516131011/https://de.usembassy.gov/wp-content/uploads/sites/21/2016/07/Berlin-List-of-Attorneys.pdf) (2016)
+- [The US Embassy's list](https://web.archive.org/web/20210516131011/https://de.usembassy.gov/wp-content/uploads/sites/21/2016/07/Berlin-List-of-Attorneys.pdf) (2016)
 
 ## List of lawyers
 

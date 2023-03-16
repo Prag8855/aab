@@ -27,4 +27,4 @@ Include health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glo
 - **Other business taxes:** You can leave this field empty, or include your expected [income tax](/glossary/Einkommensteuer). Calculate your income tax with [this calculator](http://www.parmentier.de/steuer/index.php?site=einkommensteuerrechnerjava). If you pay trade tax (*[[Gewerbesteuer]]*), you pay less income tax. Write your total income tax minus your total trade tax.
 
 
-[^1]: According to Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/)
+[^1]: According to Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home)

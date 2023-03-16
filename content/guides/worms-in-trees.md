@@ -16,7 +16,7 @@ In Berlin, when you a see a tree covered in small worms, they are probably ermin
 
 [Oak processionary](https://en.wikipedia.org/wiki/Oak_processionary) larvae (*Eichenprozessionsspinner*). You can find them in from May to July.[^0] They live in [large groups](https://commons.wikimedia.org/wiki/File:Thaumetopoea_processionea_68862604.jpg) on oak trees, and around them. They often move together in the same direction.
 
-**These worms are dangerous** to you and your pets.[^1] **Do not touch them**. The hairs on their backs are toxic. They cause allergic reactions. They cause itchy, blistering [skin rashes](https://commons.wikimedia.org/wiki/File:Oak_processionary_rash.jpg). The symptoms start after a day, and they can last for a few weeks.[^2] In some cases, they can cause more serious problems like fever, dizziness and breathing problems.[^3]
+**These worms are dangerous** to you and your pets.[^1] **Do not touch them**. The hairs on their backs are toxic. They cause allergic reactions. They cause itchy, blistering [skin rashes](https://commons.wikimedia.org/wiki/File:Oak_processionary_rash.JPG). The symptoms start after a day, and they can last for a few weeks.[^2] In some cases, they can cause more serious problems like fever, dizziness and breathing problems.[^3]
 
 [![Oak processing worms](/images/oak-processionary-moth.jpg "Oak processionary worms. The hairs on their backs are toxic.")](/images/oak-processionary-moth.jpg)
 

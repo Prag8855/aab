@@ -33,9 +33,9 @@ Some belong to for-profit businesses.[^1] Some donation bins belong to charities
 
 Many clothes donation bins are operated by charities. Look for donation bins with the [FairWertung logo](/glossary/FairWertung). Those belong to charities.
 
-- **[aktion-hoffnung](https://www.aktion-hoffnung.de/kleiderspende-waehrend-der-corona-krise)**  
+- **[aktion-hoffnung](https://www.aktion-hoffnung.de)**  
     *[Map of collection points](https://altkleiderspenden.de/)*
-- **[Berliner Obdachlosenhilfe](https://www.berliner-obdachlosenhilfe.de/spenden/sachspende/)**  
+- **[Berliner Obdachlosenhilfe](https://www.berliner-obdachlosenhilfe.de/sachspende/)**  
     *[Lynarstraße 38, Wedding](https://g.page/b-obdachlosenhilfe?share)*  
     The clothes will be used to help the homeless in Berlin.
 - [**Berliner Stadtmission**](https://www.berliner-stadtmission.de/komm-und-sieh/kleiderspenden/kleiderspenden/kleiderspendencontainer)  
@@ -69,5 +69,5 @@ Berliner Stadtreinigung also has a [list of collection points for clothes](https
 
 [^0]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/kleider-container-in-berlin-wo-unsere-altkleider-landen/21170554.html)
 [^1]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/kleider-container-in-berlin-wo-unsere-altkleider-landen/21170554.html), [wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/Deutsche_Altkleider-Container_Betreiber)
-[^2]: [berlin.de](https://www.berlin.de/special/immobilien-und-wohnen/energie-und-tarife/2824386-932375-stoffreste-ohne-tuete-in-altkleiderconta.html)
+[^2]: [berlin.de \(archived\)](https://web.archive.org/web/20210418195752/https://www.berlin.de/special/immobilien-und-wohnen/energie-und-tarife/2824386-932375-stoffreste-ohne-tuete-in-altkleiderconta.html)
 [^3]: [shops.oxfam.de](https://shops.oxfam.de/sachen-spenden/spenden)

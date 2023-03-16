@@ -90,7 +90,7 @@ Professional liability insurance is *required* in some professions.[^3] Freelanc
 
 ### Disability insurance
 
-Disability insurance ([*Berufsunfähigkeitsversicherung*](/glossary/Berufsunfaehigkeitsversicherung)) pays you a salary if you are too sick or injured to do your job. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It can also be useful for office workers, who can burn out.[ ](/glossary/Berufsunfaehigkeitsversicherung "Berufsunfaehigkeitsversicherung")
+Disability insurance *[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)* pays you a salary if you are too sick or injured to do your job. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It can also be useful for office workers, who can burn out.
 
 This insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance.[^2] It costs around 20€ per month for most professions. It's cheap, because accidents that prevent you from doing your job are rare.
 

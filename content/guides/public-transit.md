@@ -157,7 +157,7 @@ You can rent motor scooters (🛵) with the [Jelbi](https://www.jelbi.de/en/home
 
 ### Rent a car
 
-You can rent a car from [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car. You can also use car sharing services like [Miles](https://miles-mobility.com/home) and [Share Now](https://www.share-now.com/de/en/berlin/). The [Jelbi](https://www.jelbi.de/en/home/) app lets you use different car sharing services. Car sharing services let you rent a car for just one trip, and park it when you are finished.
+You can rent a car from [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car. You can also use car sharing services like [Miles](https://miles-mobility.com/en-de) and [Share Now](https://www.share-now.com/de/en/berlin/). The [Jelbi](https://www.jelbi.de/en/home/) app lets you use different car sharing services. Car sharing services let you rent a car for just one trip, and park it when you are finished.
 
 You need a valid driving licence to use those services. Car sharing services don't always accept non-EU licences, because they're only valid for 6 months after you move to Germany.
 

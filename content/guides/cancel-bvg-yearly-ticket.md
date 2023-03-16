@@ -10,7 +10,7 @@ This is how you cancel a [[BVG]] yearly ticket. If you don't cancel it, it's ren
 
 ## How to cancel online
 
-You can cancel your BVG yearly ticket [on the BVG website](https://abo.bvg.de/de/). Go [here](https://abo.bvg.de/de/subscriber/register), enter your customer number (*Kundennummer*), and cancel your subscription.
+You can cancel your BVG yearly ticket [on the BVG website](https://abo.bvg.de/de/). Go to [abo.bvg.de](https://abo.bvg.de/de/subscriber/register), enter your customer number (*Kundennummer*), and cancel your subscription.
 
 ## How to cancel by post
 

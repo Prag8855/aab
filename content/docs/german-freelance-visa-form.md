@@ -16,7 +16,7 @@ This is the official form for Berlin. The original document is [on Berlin.de](ht
 
 ## How to fill this form
 
-**[How to fill this form](http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** - Essential Packing Checklists
+**[How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** - Essential Packing Checklists
 
 ## This form in other languages
 

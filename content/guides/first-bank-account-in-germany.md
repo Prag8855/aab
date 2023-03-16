@@ -95,14 +95,14 @@ These banks remove the monthly fees if you deposit money in your account every m
 - **[Commerzbank](/out/commerzbank)** - No monthly fee for students under 27 years old ([*StartKonto*](/out/commerzbank-students)).[^21] The credit card is free if you deposit over 300€ per month.
 - **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25] 6.90€ for non-EU students.[^26] They offer a *[[Sperrkonto]]* for the German student visa.
 - **[ING](/out/ing)** - No monthly fee for students. 1€ per month fee for a debit card.
-- **[Volksbank](https://www.berliner-volksbank.de/)** - No monthly fee for students.[^27]
+- **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - No monthly fee for students.[^27]
 
 ### Banks with monthly fees
 
 - **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - 3€ monthly fee,[^28] or 1€ + 0.30€ per debit card transaction.[^29] 2.50€ per month for a credit card.[^24]
 - **[bunq](/out/bunq)** - Minimum 3€ per month for the card. No other monthly fee.
 - **[Deutsche Bank](/out/deutsche-bank)** - 6.90€ monthly fee.[^30]
-- **[Volksbank](https://www.berliner-volksbank.de/):** 6€ monthly fee + 0.50€ for debit card.[^31]
+- **[Volksbank](https://www.berliner-volksbank.de/homepage.html):** 6€ monthly fee + 0.50€ for debit card.[^31]
 
 **Some banks charge a fee for their credit cards**. For example, Commerzbank's cheapest credit card is 39.90€ per year.[^32]
 
@@ -130,7 +130,7 @@ Some banks let you withdraw money for free, but only if you use their cash machi
 - **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Free withdrawals from Sparkasse ATMs (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
 - **[Commerzbank](/out/commerzbank)** - Free withdrawals from Cash Group ATMs (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
 - **[Deutsche Bank](/out/deutsche-bank)** - Free withdrawals from Cash Group ATMs (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
-- **[Volksbank](https://www.berliner-volksbank.de/)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
+- **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
 
 ## German banks for students
 
@@ -140,7 +140,7 @@ Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)*
 
 If you want to apply for a student visa, you usually need a blocked account (*[[Sperrkonto]]*)[^40] as a [proof of financial resources](https://www.study-in.de/en/plan-your-studies/requirements/8000-euros-for-one-year_27533.php) (*Finanzierungsnachweis*). If you need a blocked account, a few **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** branches offer them.[^41] Some lesser-known banks such as **[Fintiba](/out/fintiba)** and **[X-patrio](https://www.x-patrio.com/blocked-account/exploration)** also offer this service. Deutsche Bank stopped offering blocked accounts.[^42]
 
-If you are Indian, you can open a blocking account with **[Kotak Mahindra Bank](https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, and use it to get a German student visa.[^43]
+If you are Indian, you can open a blocking account with **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, and use it to get a German student visa.[^43]
 
 A blocked account is not always required for a student visa. A scholarship, a proof of parental income or a guarantee can also work. If you need help with your student visa, ask your German embassy or consulate, or [a relocation consultant](/guides/relocation-agency-in-berlin).
 
@@ -183,7 +183,7 @@ With online banks, you can sometimes open your account from another country, bef
 
 ### Open a bank account in person
 
-Some banks like [Commerzbank](/out/commerzbank), [Sparkasse](https://www.berliner-sparkasse.de/de/home.html), [Deutsche Bank](/out/deutsche-bank) and [Volksbank](https://www.berliner-volksbank.de/) let you open an account in person at their branches. The employees there sometimes speak English.
+Some banks like [Commerzbank](/out/commerzbank), [Sparkasse](https://www.berliner-sparkasse.de/de/home.html), [Deutsche Bank](/out/deutsche-bank) and [Volksbank](https://www.berliner-volksbank.de/homepage.html) let you open an account in person at their branches. The employees there sometimes speak English.
 
 These banks are often more flexible. They accept most passport types, and they let you open a bank account without a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung).
 

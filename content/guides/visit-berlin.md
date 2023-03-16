@@ -61,7 +61,9 @@ Most parking spaces in the centre cost money.[^5] They cost 1€ to 4€ per hou
 
 You can also park outside the city and take the train to Berlin. There are free [Park and Ride (P+R) car parks](https://www.google.com/maps/d/viewer?mid=1lfZOUDUCPL1UgzHwGptdyyfhwEk). You can park your car there for free, and take the train to Berlin. You can find them on [this map](https://www.vbb.de/en/vbb-travel-info/) (in Multi-mobility), or with [this list](https://www.visitberlin.de/en/car-parks).
 
-The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml). You need a [green environmental sticker](https://www.visitberlin.de/en/berlin-environmental-zone) to drive in this area. You can get a green sticker at most gas stations around Berlin. Motorcycles don't need a green sticker to enter this zone. More information [here](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml).
+The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml). You need a [green environmental sticker](https://www.visitberlin.de/en/berlin-environmental-zone) to drive in this area. You can get a green sticker at most gas stations around Berlin. Motorcycles don't need a green sticker to enter this zone.
+
+**[Information about the environmental zone](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml)** - Berlin.de
 
 ### By car sharing
 

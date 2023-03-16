@@ -170,7 +170,7 @@ If you own a business in Germany, you might also need deregister it,[^16] or tra
 
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 
-[^0]: [buergeramt-termine.de](https://www.buergeramt-termine.de/single-post/Abmeldung-Deregister-Berlin)
+[^0]: [buergeramt-termine.de](https://buergeramt-termine.de/single-post/Abmeldung-Deregister-Berlin)
 [^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/psnrmh/deregistration_wohnung_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/eztva8/abmeldung/)

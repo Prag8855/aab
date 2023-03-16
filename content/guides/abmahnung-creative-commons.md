@@ -3,7 +3,6 @@ Title: Abmahnung from Kanzlei Schröder for using a Creative Commons image
 Short_title: Using Creative Commons images
 Description: I have received a letter from Kanzlei Schröder asking us to pay 663€ for misattributing a Creative Commons image. Here is how I dealt with it.
 Date_created: 2018-05-06
-Date_updated: 2022-09-25
 ---
 
 On May 5th, I received an *[[Abmahnung]]* from Kanzlei Lutz Schröder in Kiel. They demand 6XX€ in reparations for using their client's photo with an incorrect attribution. They give us 10 days to pay.
@@ -41,7 +40,7 @@ Here are dozens of articles describing this practice:
 - [Urheberrecht: Unberechtigte Bildnutzung (page 5)](https://www.it-recht-kanzlei.de/index.php?_action=%2FPDF%2Fprint&_rid=8111)
 - [Flickr Abmahnung: Lutz Schroeder Dennis Skley / VSGE](https://www.ra-plutte.de/flickr-abmahnung-lutz-schroeder-denis-skley-vsge/)
 - [Vermehrte Abmahnungen bei Creative-Commons-Fotos](https://irights.info/artikel/vermehrte-abmahnungen-bei-creative-commons-fotos/27407)
-- [Creative Commons-Abzocke ist wohl bald Geschichte – schlechte Nachrichten für TW Photomedia, Dirk Vorderstraße, Dennis Skley und Christoph Scholz](http://www.kanzleikompa.de/2018/02/06/creative-commons-abzocke-ist-wohl-bald-geschichte-schlechte-nachrichten-fuer-tw-photomedia-dirk-vorderstrasse-dennis-skley-und-christoph-scholz/ "Permanent Link: Creative Commons-Abzocke ist wohl bald Geschichte – schlechte Nachrichten für TW Photomedia, Dirk Vorderstraße, Dennis Skley und Christoph Scholz")
+- [Creative Commons-Abzocke ist wohl bald Geschichte – schlechte Nachrichten für TW Photomedia, Dirk Vorderstraße, Dennis Skley und Christoph Scholz](http://www.kanzleikompa.de/2018/02/06/creative-commons-abzocke-ist-wohl-bald-geschichte-schlechte-nachrichten-fuer-tw-photomedia-dirk-vorderstrasse-dennis-skley-und-christoph-scholz/)
 - [Abmahnung bekommen – was nun?](http://www.b2n-social-media.de/abmahnung-bekommen/)
 - [Die Cider Connection: Abmahnungen gegen Nutzer von Creative-Commons-Bildern](https://netzpolitik.org/2016/die-cider-connection-abmahnungen-gegen-nutzer-von-creative-commons-bildern/)
 - [Creative Commons: Abmahnung Skley / Schröder](https://nichteinschalten.de/haende-weg-von-creative-commons/)

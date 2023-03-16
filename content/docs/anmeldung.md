@@ -42,8 +42,8 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
     - Check **Nebenwohnung** if your previous residence will be your secondary residence
 - **Haben die unten aufgeführten Personen noch weitere Wohnungen in Deutschland?**
     - Check **Nein** if you do not have any other residences than the ones listed above.
-    - Check **Ja** if you have other residences than the ones listed above. If you check this box, you must also fill an extra form. You can find the extra form [here](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
-- **Section 1 and section 2**: These sections contain information about the people who are registering their address. If you register more than two people, you must fill an extra form. You can find the extra form [here](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
+    - Check **Ja** if you have other residences than the ones listed above. If you check this box, you must also fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
+- **Section 1 and section 2**: These sections contain information about the people who are registering their address. If you register more than two people, you must fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
     - **Familienname, ggf. Doktorgrad, Passname**: Your last name, doctoral degrees (e.g. "PhD")
     - **Vornamen**: Your first name. If you have multiple first names, underline the name you want to be called.
     - **Geburtsname**: Your birth name
