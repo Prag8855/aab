@@ -3,7 +3,6 @@ Title: Where to donate clothes in Berlin
 Short_title: Where to donate clothes
 Description: How to get rid of your old clothes and shoes in Berlin.
 Date_created: 2020-09-05
-Date_updated: 2022-05-18
 ---
 
 If you must get rid of old clothes and shoes, you can [resell them](/guides/how-do-i-buy-and-sell-used-things-in-berlin), or you can donate them. This guide shows you where to donate clothes and shoes in Berlin.
@@ -44,7 +43,7 @@ Many clothes donation bins are operated by charities. Look for donation bins wit
 - **[Diakonie](https://www.diakonie-stadtmitte.de/)**  
     *[Information page](https://www.diakonie-stadtmitte.de/spenden/sachspenden)*  
     The clothes will be used to help Berliners in need.
-- **[German Red Cross](https://www.drk-berlin.de/)*  
+- **[German Red Cross](https://www.drk-berlin.de/index.html)*  
     **[Map of donation bins](https://www.drk-berlin.de/angebote/kleidercontainer-suchergebnis.html)*  
     They have donation bins in every neighbourhood.
 - [**Oxfam foundation**](https://www.oxfam.de/)  
@@ -67,7 +66,7 @@ Berliner Stadtreinigung also has a [list of collection points for clothes](https
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) - Online classified ads
 - [Vinted](https://www.vinted.de/) - Sell or trade used clothes
 
-[^0]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/kleider-container-in-berlin-wo-unsere-altkleider-landen/21170554.html)
-[^1]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/kleider-container-in-berlin-wo-unsere-altkleider-landen/21170554.html), [wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/Deutsche_Altkleider-Container_Betreiber)
+[^0]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/wo-unsere-altkleider-landen-3943288.html)
+[^1]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/wo-unsere-altkleider-landen-3943288.html), [wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/Deutsche_Altkleider-Container_Betreiber)
 [^2]: [berlin.de \(archived\)](https://web.archive.org/web/20210418195752/https://www.berlin.de/special/immobilien-und-wohnen/energie-und-tarife/2824386-932375-stoffreste-ohne-tuete-in-altkleiderconta.html)
 [^3]: [shops.oxfam.de](https://shops.oxfam.de/sachen-spenden/spenden)

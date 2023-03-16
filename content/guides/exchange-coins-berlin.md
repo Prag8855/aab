@@ -3,7 +3,6 @@ Title: How to exchange your coins in Berlin
 Short_title: How to exchange coins
 Description: Here's what you can do with your small change once you run out of mason jars.
 Date_created: 2017-10-10
-Date_updated: 2022-05-23
 ---
 
 This guide shows you how to deposit a lot of coins, or exchange them for euro bills. The German term is *Bargeldeinzahlung*.
@@ -52,8 +51,8 @@ There are Coinstar machines in many supermarkets. When you put your coins in a C
 [^3]: [rbb24.de](https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html), [sparkasse.de](https://www.sparkasse.de/unsere-loesungen/privatkunden/bezahlverfahren/bargeld/bargeld-einzahlen.html#am-geldautomaten)
 [^4]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/ts0880/where_can_i_exchange_my_coins/i2oz48q/?context=3)
 [^5]: [bundesbank.de](https://www.bundesbank.de/de/bundesbank/hauptverwaltungen-filialen/bbb/filiale/filiale-berlin-605066)
-[^6]: [digitalcosmonaut.com](https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
-[^7]: [digitalcosmonaut.com](http://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
+[^6]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
+[^7]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
 [^8]: [coinstar.de](https://www.coinstar.de/sofunktionierts)
-[^9]: [blog.berliner-sparkasse.de](http://blog.berliner-sparkasse.de/wie-und-wo-kann-ich-muenzgeld-einzahlen/)
+[^9]: [blog.berliner-sparkasse.de](https://www.berliner-sparkasse.de/de/home/ratgeber/oft-gefragt/muenzgeld-einzahlen.html)
 [^10]: [berlin.de](https://www.berlin.de/special/finanzen-und-recht/konto-und-banken/2962210-2625156-kleingeld-wo-sparer-muenzen-in-scheine-t.html)

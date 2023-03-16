@@ -3,7 +3,6 @@ Title: How do electric bills work in Germany?
 Short_title: How do electric bills work?
 Description: Understanding your electric bill is a great way to save money. If you just moved to Berlin, this information might be useful.
 Date_created: 2018-11-27
-Date_updated: 2023-01-04
 Related_reviews: reviews/electric-bill-berlin/matthias-martensen.md
 ---
 
@@ -25,7 +24,7 @@ The warm rent (*[[Warmmiete]]*) includes heating, water, garbage disposal and ot
 
 This depends on how much electricity you use, and how many people you live with. You can estimate 1,500 to 2,000 kWh per person per year.[^0]
 
-Most electric companies charge a base price, plus a fee per kWh. We will use Vattenfall's [Easy12 Strom](https://www.vattenfall.de/de/strom-easy12.htm?consumption=1500&zip=10115&city=Berlin&street=&hno=) plan as an example. You pay 8.80€ per month, plus [0.26€ per kWh](https://www.globalpetrolprices.com/Germany/electricity_prices/). If you use 125 kWh per month, you would pay 0.26 × 125 + 8.80 = 41.30€ per month.
+Most electric companies charge a base price, plus a fee per kWh. We will use Vattenfall's [Easy12 Strom](https://www.vattenfall.de/stromtarife/strom-easy12?consumption=1500&zip=10115&city=Berlin&street=&hno=) plan as an example. You pay 8.80€ per month, plus [0.26€ per kWh](https://www.globalpetrolprices.com/Germany/electricity_prices/). If you use 125 kWh per month, you would pay 0.26 × 125 + 8.80 = 41.30€ per month.
 
 Your electric bill is based on your *estimated* usage. You can decide how much you want to pay per month. At the end of the year, if you used more electricity than you paid for, you will get an invoice. If you used less, you will get some money back.
 

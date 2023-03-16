@@ -3,7 +3,6 @@ Title: Police and emergency numbers in Berlin
 Short_title: Emergency phone numbers
 Description: If you need to call the emergency services, call 112. For the police, call 110. This guide also tells you how to call other emergency services in Berlin.
 Date_created: 2021-04-13
-Date_updated: 2022-10-15
 ---
 
 If you need to call the emergency services, call [112](tel:112). For the police, call 110.
@@ -18,7 +17,7 @@ Call **[110](tel:110)** to talk to the police. It works everywhere in Germany.
 
 If it's not urgent, call [+49 30 9018 22010](tel:+4930901822010). It's the *[[Ordnungsamt]]'s* [Central Point of Contact](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/ordnungsamt/zentrale-anlauf-und-beratungsstelle-zab/) (*[[ZAB]]*).
 
-You can also use [their online service](https://ordnungsamt.berlin.de/).
+You can also use [their online service](https://ordnungsamt.berlin.de/frontend/dynamic/#!start).
 
 **[How to make a noise complaint in Berlin ➞](/guides/noise-complaint)**
 

@@ -2,9 +2,8 @@
 Title: What is pet health insurance (Tierkrankenversicherung)?
 German_term: Tierkrankenversicherung
 English_term: Pet health insurance
-Description: 
+Description: Insurance that covers healthcare for your pet.
 Date_created: 2020-12-20
-Date_updated: 2022-05-25
 Related_guides: guides/insurance.md, guides/pet-ownership.md
 ---
 
@@ -14,4 +13,4 @@ The price of pet insurance depends on the age, race and sex of your dog. It cost
 
 Use [Tarifcheck](/out/tarifcheck-pethealth) to compare prices. If you don't speak German, [Getsafe](/out/getsafe-pethealth) offers pet health insurance, and they speak English.
 
-[^0]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/tierisch-ueberfluessig-krankenversicherungen-fuer-haustiere-10781#2)
+[^0]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/krankenversicherungen-fuer-haustiere-sinnvoll-oder-ueberfluessig-10781#2)

@@ -75,7 +75,7 @@ When you register an underage child's address, you might need a letter of consen
 
 Go to the *Bürgeramt* with all your documents.
 
-If you don't speak German, bring a friend or a translator. Some *Bürgeramt* employees speak English, but many don't. Translators like [Red Tape Translation](https://www.redtapetranslation.com/services/take-a-translator-aab/) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you. You can also go alone. The process is very simple. You will be okay.
+If you don't speak German, bring a friend or a translator. Some *Bürgeramt* employees speak English, but many don't. Translators like [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you. You can also go alone. The process is very simple. You will be okay.
 
 Arrive a few minutes early. It gives you time to find the waiting room. Wait until they call your appointment number on the screen. The screen tells you which office to go to.
 
@@ -155,7 +155,7 @@ If you just change your address, your old address will be deregistered automatic
 
 **Only if you already live in Berlin.** If this is your first *Anmeldung* in Berlin, you must do it in person.[^31] They will not let someone else do it for you.
 
-If you already live in Berlin, and you want to change your address, someone else can go for you. [Red Tape Translation](https://redtapetranslation.com/services/take-a-translator-aab/) and [Booka Local](/out/booka-local) offer this service.
+If you already live in Berlin, and you want to change your address, someone else can go for you. [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) offer this service.
 
 If you send someone else to do your *Anmeldung*, there are extra requirements:
 
@@ -192,7 +192,7 @@ For example, you can do the *Anmeldung* for your whole family in one appointment
 
 The *Anmeldung* is very simple, but the *Bürgeramt* employee can ask you a few questions in German. For example, which floor you live on, or how many people live with you.
 
-Translators like [Red Tape Translation](https://www.redtapetranslation.com/services/take-a-translator-aab/) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you.
+Translators like [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you.
 
 ### Do I have to pay [church tax](/glossary/Kirchensteuer)?
 
@@ -240,17 +240,17 @@ If you just moved to Berlin, I have more advice for you.
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
-[^0]: [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_89919590/steuer-id-fuer-mein-kind-wo-finde-ich-sie-.html)
+[^0]: [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_89919590/steueridentifikationsnummer-fuer-mein-kind-wo-finde-ich-sie-.html)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/i8y3k5/question_about_booking_anmeldung_in_advance/g1vx9y7/)
 [^2]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
-[^3]: [promietrecht.de](https://www.promietrecht.de/Untermieter/Vermieterbescheinigung-fuer-Untermieter-ausstellen-Wohnsitz-anmelden-E2286.htm), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/378637-anmeldung-using-lease-instead-of-wohnungsgeberbestaetigung/)
+[^3]: [promietrecht.de](https://www.promietrecht.de/Untermieter/Vermieterbescheinigung-fuer-Untermieter-AnmeldungWohnsitz-E2286.htm), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/378637-anmeldung-using-lease-instead-of-wohnungsgeberbestaetigung/)
 [^4]: [facebook.com](https://www.facebook.com/groups/germanvisahelp/posts/552438666046612/?comment_id=552455322711613&reply_comment_id=552463426044136)
-[^5]: [promietrecht.de](https://www.promietrecht.de/Untermieter/Vermieterbescheinigung-fuer-Untermieter-ausstellen-Wohnsitz-anmelden-E2286.htm), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm)
+[^5]: [promietrecht.de](https://www.promietrecht.de/Untermieter/Vermieterbescheinigung-fuer-Untermieter-AnmeldungWohnsitz-E2286.htm), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm)
 [^6]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=%20nichtehelichen%20lebensgemeinschaft)
 [^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/onhxsm/anmeldung_in_berlin_invalid_passport_will_a/)
 [^8]: [facebook.com](https://www.facebook.com/groups/226825394858771/posts/906082933599677), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/939547690253201), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/797844441090194/)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/qr1w7o/credit_cards_are_finally_accepted_at_the/hk6mpwi/?context=3)
-[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lua6cx/anmeldung_for_wife_and_kid_after_family/)
+[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lua6cx/deleted_by_user/)
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
 [^13]: [Screenshot](/guides/german-tax-id-steuernummer)

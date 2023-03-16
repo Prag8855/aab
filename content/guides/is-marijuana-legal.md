@@ -70,7 +70,7 @@ In all cases, this will appear on your record at the driver licence's office. It
 
 **[Where to buy weed in Berlin ➞](/guides/buying-marijuana-in-berlin)**
 
-[^0]: [highsnobiety.com](http://www.highsnobiety.com/2017/02/17/germany-marijuana-laws/)
+[^0]: [highsnobiety.com](https://www.highsnobiety.com/)
 [^1]: [hanfsamenladen.com](https://www.hanfsamenladen.com/cannabis-samen-in-deutschland-legal#:~:text=diese%20erlaubnis%20haben%20in%20ganz%20deutschland%20nicht%20einmal%20300%20patienten)
 [^2]: [soll-galabau.de](https://www.soll-galabau.de/aktuelle-news/ansicht-aktuelles/datum/2021/09/14/cbd-die-aktuelle-rechtslage-in-deutschland.html#:~:text=dies%20bedeutet%20zusammenfassend)
 [^3]: [soll-galabau.de](https://www.soll-galabau.de/aktuelle-news/ansicht-aktuelles/datum/2021/09/14/cbd-die-aktuelle-rechtslage-in-deutschland.html#:~:text=ist%20cbd-ol%20legal%20in%20deutschland)
@@ -83,5 +83,5 @@ In all cases, this will appear on your record at the driver licence's office. It
 [^10]: [Screenshot](/images/sensi-seeds-shipping-germany.png), [anwalt.de](https://www.anwalt.de/rechtstipps/sensi-seeds-cannabis-samen-ermittlungsverfahren-durch-den-zoll-welche-strafe-droht-mir-rechtsanwalt-schueller-hilft-188355.html#:~:text=diese%20firma%20hat%20zwischenzeitlich%20den%20versand%20von%20cannabis%20samen%20nach%20deutschland%20eingestellt)
 [^11]: [anwalt.de](https://www.anwalt.de/rechtstipps/sensi-seeds-cannabis-samen-ermittlungsverfahren-durch-den-zoll-welche-strafe-droht-mir-rechtsanwalt-schueller-hilft-188355.html#:~:text=dieser%20moment%20ist%20der%20richtige%2C%20um%20einen%20anwalt%20zu%20konsultieren)
 [^12]: [pflanzenfreunde.com](https://www.pflanzenfreunde.com/garten/cannabis-anbau.htm)
-[^13]: [qr.ae](https://qr.ae/pvFjAX)
+[^13]: [Quora](https://www.quora.com/Can-you-buy-marijuana-in-Amsterdam-and-travel-out/answer/Ziadesa-Yazid?ch=10&oid=78957569&share=e689b30e&srid=u1YC&target_type=answer)
 [^14]: [berlin.de](https://www.berlin.de/lb/drogen-sucht/gesetze/betaeubungsmittelgesetz/), [sensiseeds.com](https://sensiseeds.com/en/blog/countries/cannabis-in-germany-laws-use-history/#what-is-a-small-amount-of-cannabis), [hanfverband.de](https://hanfverband.de/inhalte/bundesland-vergleich-der-richtlinien-zur-anwendung-des-ss-31a-btmg), [§31a BtMG](https://www.gesetze-im-internet.de/btmg_1981/__31a.html)

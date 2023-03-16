@@ -3,7 +3,6 @@ Title: What is legal insurance (Rechtsschutzversicherung)? Is it worth it?
 Short_title: Do you need legal insurance?
 Description: In this guide, I explain what legal insurance (Rechtsschutzversicherung) is, what it covers, and when it's worth it.
 Date_created: 2021-09-04
-Date_updated: 2022-05-25
 Related_reviews: reviews/legal-insurance/fiona-macdonald.md
 ---
 
@@ -216,7 +215,7 @@ If you just need protection for apartment problems, join a tenant association (*
 [^24]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/mietrechtsschutz/)
 [^25]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/360547-legal-insurance/#comment-3479765), [hausundgrund.de](https://www.hausundgrund.de/themen)
 [^26]: [clark.de](https://www.clark.de/rechtsschutzversicherung/verkehrsrechtsschutz/#Braucht-man-eine-Rechtsschutzversicherung-f%C3%BCr-ein-Auto,-zus%C3%A4tzlich-zur-Kfz-Versicherung?)
-[^27]: [clark.de](https://www.clark.de/rechtsschutzversicherung/verkehrsrechtsschutz/#Was-beinhaltet-die-Verkehrsrechtsschutzversicherung-nicht?), [coya.com](https://www.coya.com/privathaftpflicht/schaden/umfang/fahrrad)
+[^27]: [clark.de](https://www.clark.de/rechtsschutzversicherung/verkehrsrechtsschutz/#Was-beinhaltet-die-Verkehrsrechtsschutzversicherung-nicht?), [luko.eu](https://de.luko.eu/service/tipps/privathaftpflicht-fahrrad/)
 [^28]: [clark.de](https://www.clark.de/rechtsschutzversicherung/privater-rechtsschutz/#Was-bedeutet-%E2%80%9EDeckungssumme%E2%80%9C?-Und-welche-H%C3%B6he-ist-angemessen?)
 [^29]: [clark.de](https://www.clark.de/rechtsschutzversicherung/privater-rechtsschutz/#Welche-Wartezeiten-sind-in-privaten-Rechtsschutzversicherungen-g%C3%A4ngig?)
 [^30]: [clark.de](https://www.clark.de/rechtsschutzversicherung/ohne-wartezeit/#Kann-ich-eine-Rechtsschutzversicherung-abschlie%C3%9Fen,-die-sofort-in-Kraft-tritt?)

@@ -67,7 +67,7 @@ At the *Ausländerbehörde*, sit in the waiting room and wait until your number 
 
 You will sit in front of an *Ausländerbehörde* employee and show your documents. This takes around 10 minutes.[^6] The employee will tell you to go in the waiting room again. They will call your number again in 5 to 45 minutes.
 
-Some *Ausländerbehörde* employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](https://www.redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+Some *Ausländerbehörde* employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](https://redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
 **If your current residence permit expires soon**, ask for a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany for a little longer. Some versions of the *Fiktionsbescheinigung* let you travel outside of Germany.
 
@@ -143,7 +143,7 @@ If your residence permit expires and you don't have a *[[Fiktionsbescheinigung]]
 
 ### Do they speak English at the Ausländerbehörde?
 
-**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](https://www.redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](https://redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
 ### How can I contact the Ausländerbehörde?
 
@@ -162,18 +162,18 @@ You can also [get help from other places](/guides/questions-about-berlin#immigra
 
 **[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
-If you need someone to go with you, I recommend [Red Tape Translation](https://www.redtapetranslation.com/). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+If you need someone to go with you, I recommend [Red Tape Translation](https://redtapetranslation.com/). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
 [This Facebook group](https://www.facebook.com/groups/226825394858771/) answers questions about the *Ausländerbehörde*.
 
 [^0]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/posts/1252123768589657/)
 [^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)
-[^2]: [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dram/)
+[^2]: [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^3]: [berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english)
-[^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dram/)
+[^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
-[^6]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://www.berlinlogs.com/2015/09/german-freelancer-visa-guide-to.html)
-[^7]: [Red Tape Translation](https://www.redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
+[^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)
+[^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
 [^8]: [Screenshot](/images/fiktionsbescheinigung-travel-2021-09-17.png), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
 [^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/)
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)

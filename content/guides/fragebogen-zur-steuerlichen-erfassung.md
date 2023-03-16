@@ -398,7 +398,7 @@ There are 4 columns to fill:
 In this section, you choose how you report your income to the *Finanzamt*.
 
 - **Gewinnermittlungsart** - Type of profit assessment  
-    This is how you report your profit to the *Finanzamt*. Read [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalance.com/what-is-best-single-entry-or-double-entry-bookkeeping-393004) to compare single and double entry bookkeeping. If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).
+    This is how you report your profit to the *Finanzamt*. Read [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalancemoney.com:443/what-is-best-single-entry-or-double-entry-bookkeeping-393004) to compare single and double entry bookkeeping. If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).
     - **Gewinn- und Verlustrechnung** - Profit and loss statement  
         Also known as double entry bookkeeping. In some cases, you are forced to use double entry bookkeeping.
         - If you will be registered in the *[[Handelsregister]]*, you must choose this option.[^2]
@@ -476,11 +476,11 @@ Enter how much VAT you will collect. This decides how you will make VAT payments
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
 
 - **Es werden ganz oder teilweise steuerfreie Umsätze gemäß [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) ausgeführt** - There will be tax-free revenue according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html).  
-    Choose "Ja" if you want to apply for partial or total VAT exemptions according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html). [Here is a list of activities](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) that can have tax exemptions.[^12] If you are a freelancer or a small business, this probably does not apply to you.
+    Choose "Ja" if you want to apply for partial or total VAT exemptions according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html). [Here is a list of activities](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) that can have tax exemptions.[^12] If you are a freelancer or a small business, this probably does not apply to you.
 - **nach § 4 Nummer** - According to § 4 paragraph...  
-    Write the number of the paragraph in [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) that qualifies you for a tax exemption. For example, "15a" (tax exemption for medical services). [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) can help you. If you chose "Nein" in the previous field, leave this field empty.
+    Write the number of the paragraph in [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) that qualifies you for a tax exemption. For example, "15a" (tax exemption for medical services). [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) can help you. If you chose "Nein" in the previous field, leave this field empty.
 - **Art des Umsatzes / der Tätigkeit** - Type of revenue or activity  
-    The activity for which you want a tax exemption. For example: "medizinische Dienste" (medical services).[^13] [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/) can help you. If you do not apply for a tax exemption, leave this field empty.
+    The activity for which you want a tax exemption. For example: "medizinische Dienste" (medical services).[^13] [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) can help you. If you do not apply for a tax exemption, leave this field empty.
 
 **Steuersatz** - Tax rate  
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
@@ -604,7 +604,7 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 - [List of English-speaking tax advisors](/guides/english-speaking-steuerberater-berlin)
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/325409/en/)
-[^1]: [medium.com](https://medium.com/@tiahardyrobinson/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
+[^1]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^2]: [Screenshot](/guides/freiberufler-or-gewerbe)
 [^3]: [andrewcross.eu (archived)](https://web.archive.org/web/20300000000000/https://20300000000000/vat-freelancers-germany/)
 [^4]: [haufe.de](https://www.haufe.de/finance/finance-office-professional/kleinunternehmer-4-optionsmoeglichkeit_idesk_PI11525_HI1342182.html)
@@ -612,11 +612,11 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 [^6]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad)
 [^7]: [formulare-bfinv.de](https://www.formulare-bfinv.de/ffw/resources/9858611CB50017037213/form/Ausfuellhilfe_2016.pdf)
 [^8]: [wilhelm-data.de](http://www.wilhelm-data.de/cm/docs/Steuererfassung.pdf)
-[^9]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/brauche-ich-einen-handelsregistereintrag)
+[^9]: [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/brauche-ich-einen-handelsregistereintrag/)
 [^10]: [berlin.de (archived)](https://web.archive.org/web/20160502035209/https://20160502035209/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/betriebseroeffnung-betriebseinstellung/ausf__llhilfe_selbst__ndige_t__tigkeit_beteiligung_persges.pdf)
 [^11]: [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
-[^12]: [economywatch.com](http://www.economywatch.com/business-and-economy/germany.html)
-[^13]: [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg-lexikon-des-steuerrechts/)
+[^12]: [economywatch.com](https://www.economywatch.com/)
+[^13]: [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/)
 [^14]: [rechnungswesen-info.de](https://www.rechnungswesen-info.de/istversteuerung.html)
 [^15]: [steuerlinks.de](http://www.steuerlinks.de/richtlinie/ustae/abs3a.12..html)
 [^16]: [iamexpat.de](https://www.iamexpat.de/expat-info/taxation-germany/elster-german-online-tax-office)

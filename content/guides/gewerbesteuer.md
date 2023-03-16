@@ -3,7 +3,6 @@ Title: What is the trade tax (Gewerbesteuer)?
 Short_title: What is the trade tax?
 Description: If you are self-employed in Germany, you might have to pay a trade tax. This is how it works, and how much it costs.
 Date_created: 2021-01-19
-Date_updated: 2022-10-20
 ---
 
 If you run a business in Germany, you will need to pay a trade tax (*Gewerbesteuer*). This tax is the most important source of revenue for your city, and it pays for many public services.[^8]
@@ -14,7 +13,7 @@ This guide explains everything you need to know about this tax: how much it cost
 
 ## How much is the Gewerbesteuer?
 
-The trade tax is a tax on profit ([*Gewinn*](/glossary/Umsatz)), not revenue (*[[Umsatz]]*). The trade tax is 3.5% of your profits, multiplied by the local tax factor (*Hebesatz*).[^0] The *Hebesatz* is [different in every city](https://www.lexoffice.de/service/gewerbesteuer-hebesatz/). In Berlin, the *Hebesatz* is 410%,[^1] so **the trade tax is 14.35% of your profit**.[^2]
+The trade tax is a tax on profit ([*Gewinn*](/glossary/Umsatz)), not revenue (*[[Umsatz]]*). The trade tax is 3.5% of your profits, multiplied by the local tax factor (*Hebesatz*).[^0] The *Hebesatz* is [different in every city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/). In Berlin, the *Hebesatz* is 410%,[^1] so **the trade tax is 14.35% of your profit**.[^2]
 
 > **Trade tax:** 3.5% (base tax) × 410% (*Hebesatz*) = **14.35%**
 
@@ -52,7 +51,7 @@ After the income tax credit, you pay 267.75€ more with the trade tax than with
 
 - [Trade tax calculator](https://www.smart-rechner.de/gewerbesteuer/rechner.php) - Smart-Rechner.de (in German)
 - [Trade tax calculator](https://www.gewerbeanmeldung.de/gewerbesteuer-hebesatz) - Gewerbeanmeldung.de (in German)
-- [*Hebesatz* by city](https://www.lexoffice.de/service/gewerbesteuer-hebesatz/) - Lexoffice (in German)
+- [*Hebesatz* by city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/) - Lexoffice (in German)
 
 ## Who must pay the Gewerbesteuer?
 
@@ -86,12 +85,12 @@ If you are [starting a business in Germany](/guides/start-a-business-in-germany)
 - [How to register for the trade tax](/guides/gewerbeschein)
 - [How to move to Germany and become a freelancer](/guides/become-a-freelancer-in-germany)
 
-[^0]: [wwkn.de](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/)
-[^1]: [IHK Berlin](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
+[^0]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/)
+[^1]: [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^2]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)
 [^4]: [§11 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
-[^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
-[^6]: [wwkn.de](https://wwkn.de/en/about-german-taxes/local-business-tax-gewerbesteuer/), [IHK Berlin](https://www.ihk-berlin.de/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
+[^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
+[^6]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/121921/)
 [^8]: [consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax), [Wikipedia](https://fr.wikipedia.org/wiki/Gewerbesteuer_\(Allemagne\))

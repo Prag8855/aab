@@ -3,7 +3,6 @@ Title: How to sort trash and recycle in Germany
 Short_title: How to sort your trash
 Description: This guide shows you how to sort your rubbish and recycle properly in Germany.
 Date_created: 2017-09-08
-Date_updated: 2023-01-18
 ---
 
 Germans take recycling seriously. It's hard to sort your trash correctly. This guide will help.
@@ -156,8 +155,8 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 
 - 🎁 **Sell or donate**  
     If it's still good, [sell or donate it](/guides/how-do-i-buy-and-sell-used-things-in-berlin).
-- **Appliances ➞ [appliance collector](http://waschmaschinen-entsorgung-berlin.de/), [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement), or recycling centre**  
-    Stores that sell appliances must also recycle them for free. When you buy an appliance, they often take back your old appliance. You can also contact [Wachmachinen Entsorgung Berlin](http://waschmaschinen-entsorgung-berlin.de/).
+- **Appliances ➞ [appliance collector](https://waschmaschinen-entsorgung-berlin.de/), [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement), or recycling centre**  
+    Stores that sell appliances must also recycle them for free. When you buy an appliance, they often take back your old appliance. You can also contact [Wachmachinen Entsorgung Berlin](https://waschmaschinen-entsorgung-berlin.de/).
 - **Big items ➞ recycling centre**  
     This includes furniture, appliance and mattresses. In Berlin, [BSR can pick up big items](https://www.bsr.de/sperrmuell-21705.php) (for a fee)
 
@@ -204,7 +203,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 [^13]: [bvse.de](https://www.bvse.de/recycling-glas/nachrichten-glasrecycling/6100-porzellan-keramik-steingut-gehoeren-nicht-in-den-altglascontainer.html)
 [^14]: [utopia.de](https://utopia.de/ratgeber/gluehbirnen-und-energiesparlampen-entsorgen-so-gehts/), [berlin-recycling.de](https://www.berlin-recycling.de/entsorgung/weitere-entsorgungen/haushalt/gluehbirnen-entsorgen)
 [^15]: [berlin-recycling.de](https://www.berlin-recycling.de/wissen/muelltrennung/was-gehoert-in-welche-tonne/gelbe-tonne)
-[^16]: [oekotest.de](https://www.oekotest.de/bauen-wohnen/Speiseoel-entsorgen-Das-gilt-es-bei-Oel-und-Frittierfett-zu-beachten_11534_1.html#:~:text=auf%20keinen%20fall%20in%20abfluss%20oder%20toilette%20gegossen%20werden)
+[^16]: [oekotest.de](https://www.oekotest.de/bauen-wohnen/Speiseoel-entsorgen-Das-gilt-es-bei-Fondue-Oel-und-Frittierfett-zu-beachten_11534_1.html#:~:text=auf%20keinen%20fall%20in%20abfluss%20oder%20toilette%20gegossen%20werden)
 [^17]: [wagenheber24.de](https://wagenheber24.de/autobatterie-pfand/)
 [^18]: [berlin-recycling.de](https://www.berlin-recycling.de/entsorgung/weitere-entsorgungen/auto/altoel-entsorgen)
 [^19]: [berlin-recycling.de](https://www.berlin-recycling.de/wissen/muelltrennung/was-gehoert-in-welche-tonne/restmuell)

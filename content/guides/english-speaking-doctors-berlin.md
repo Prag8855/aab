@@ -22,8 +22,8 @@ This service is free. Your [public health insurance](/glossary/gesetzliche%20Kra
 
 These databases have more doctors:
 
-- [Doctolib](https://doctolib.de) - Find doctors by language, make an appointment online
-- [Doctena](https://en.doctena.de/) - Find doctors by language, make an appointment online
+- [Doctolib](https://www.doctolib.de/) - Find doctors by language, make an appointment online
+- [Doctena](https://www.doctena.de/en/) - Find doctors by language, make an appointment online
 - [Ärzte Berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php) - Find doctors by language
 
 Ask your health insurance too. [TK](/glossary/Techniker%20Krankenkasse) has a list of English-speaking doctors. They can even [book an appointment for you](https://www.tk.de/service/form/2028156/terminservice.form).

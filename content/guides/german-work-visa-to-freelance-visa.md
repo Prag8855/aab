@@ -3,10 +3,9 @@ Title: How to go from employee to freelancer in Germany
 Short_title: How to go from employee to freelancer
 Description: This is how you go from a full time job to freelancing when you have a German work visa or Blue Card.
 Date_created: 2018-07-13
-Date_updated: 2022-06-27
 ---
 
-If you want to quit your job to [start a business](/guides/start-a-business-in-germany) or become a freelancer, you might need a different [residence permit](http://allaboutberlin.com/glossary/Aufenthaltstitel). Usually, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa).
+If you want to quit your job to [start a business](/guides/start-a-business-in-germany) or become a freelancer, you might need a different [residence permit](/glossary/Aufenthaltstitel). Usually, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa).
 
 This guide shows you how to go from employee to freelancer. It's based on my personal experience.
 

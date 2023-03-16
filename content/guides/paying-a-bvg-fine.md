@@ -3,7 +3,6 @@ Title: How to pay (or avoid paying) a BVG fine
 Short_title: How to pay a BVG fine
 Description: If you are caught on the train without a valid ticket, you will get a fine. This is how you pay, reduce or avoid a BVG fine.
 Date_created: 2017-09-29
-Date_updated: 2022-08-26
 ---
 
 If you use public transit without a valid ticket, the [[BVG]] can give you a {{BVG_FINE|cur}}€ fine. This guide shows you what to do when you get a fine.
@@ -77,7 +76,7 @@ In your email, include this information:
 
 [Contact the BVG](https://www.bvg.de/en/service-and-support). If you need a lawyer to help you, look at our [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin).
 
-[^0]: [bvg.de](https://www.bvg.de/en/tickets-tariffs/ticket-control)
+[^0]: [bvg.de](https://www.bvg.de/en/subscriptions-and-tickets/ticket-control)
 [^1]: [studentcard.tu-berlin.de](https://www.studentcard.tu-berlin.de/), [moz.de](https://www.moz.de/nachrichten/brandenburg/nahverkehr-viele-rentner-haben-65plus-ticket-beim-vbb-es-wird-aber-nicht-genutzt-53419954.html)
 [^2]: [reddit.com](https://old.reddit.com/r/berlin/comments/oce7f9/received_bvg_fine_but_was_told_i_could_just_buy_a/), [reddit.com](https://old.reddit.com/r/berlin/comments/s6ynyy/bvg_ticket_riding_without_validating/)
 [^3]: [bvg-ebe.de](https://www.bvg-ebe.de/en/)

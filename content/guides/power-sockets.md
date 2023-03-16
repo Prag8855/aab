@@ -3,7 +3,6 @@ Title: Power sockets in Germany
 Short_title: German power sockets
 Description: This guide shows you if your devices will work in German power outlets.
 Date_created: 2022-02-06
-Date_updated: 2022-11-22
 ---
 
 Before you [visit](/guides/categories/visiting-berlin) or [move to Germany](/guides/moving-to-berlin), check if your devices work with German power outlets.
@@ -28,7 +27,7 @@ CEE 7/7 plugs also work in German wall sockets:
 
 ## German power socket voltage
 
-Germany has **230 Volt, 50 Hz** power sockets. If your country uses the same voltage and frequency, you just need a [travel adapter](https://amzn.to/3Vjlvf8).
+Germany has **230 Volt, 50 Hz** power sockets. If your country uses the same voltage and frequency, you just need a [travel adapter](https://www.amazon.com/-/de/dp/B077WJYNQ5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LOVV7QM7NBTJ&keywords=travel+adapter&qid=1669108574&sprefix=travel+adapte,aps,185&sr=8-46&linkCode=sl1&tag=kickawishl-20&linkId=cb722478ecf6e50fc5ffd79893de3d44&language=de_DE&ref_=as_li_ss_tl).
 
 **[Plugs, sockets and voltage by country](https://www.worldstandards.eu/electricity/plug-voltage-by-country/)** - worldstandards.eu
 
@@ -38,7 +37,7 @@ Germany has **230 Volt, 50 Hz** power sockets. If your country uses the same vol
 
 If your country uses a different voltage or frequency, check if your devices support 230V, 50Hz input. This information is always written on the charger.
 
-If your charger does not support 230V, 50Hz, you need a [travel adapter with a voltage converter](https://amzn.to/3i4rXIx). They are bigger and more expensive.
+If your charger does not support 230V, 50Hz, you need a [travel adapter with a voltage converter](https://www.amazon.com/-/en/dp/B0B7DL6SF2?keywords=travel+voltage+converter&qid=1669108317&sr=8-6&returnFromLogin=1&linkCode=sl1&tag=kickawishl-20&linkId=e7a51daa121e7f46af38907643345d14&language=de_DE&ref_=as_li_ss_tl). They are bigger and more expensive.
 
 [![Power adapter 240v](/images/power-adapter-240v.jpg "This device accepts a 230V, 50Hz input. It will work in Germany. You just need a travel adapter.")](/images/power-adapter-240v.jpg)
 

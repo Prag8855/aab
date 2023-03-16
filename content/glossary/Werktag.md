@@ -2,9 +2,8 @@
 Title: What are Werktage in Germany?
 German_term: Werktag
 English_term: Work day
-Description: 
+Description: Monday to Sunday, including official holidays.
 Date_created: 2022-01-13
-Date_updated: 2022-04-20
 Related_guides: guides/moving-out.md
 ---
 
@@ -14,5 +13,5 @@ This is different from business days (*[Arbeitstage](/glossary/Arbeitstag)*), wh
 
 On apartment leases, it means Monday to Friday, excluding official holidays.[^1]
 
-[^0]: [generali.de](https://www.generali.de/ueber-generali/magazin/samstag-als-werktag-41248/), [Wikipedia](https://de.wikipedia.org/wiki/Werktag)
+[^0]: [generali.de](https://www.generali.de/journal/wann-samstag-ein-werktag-ist-und-wann-nicht), [Wikipedia](https://de.wikipedia.org/wiki/Werktag)
 [^1]: [anwaltauskunft.de](https://anwaltauskunft.de/magazin/leben/freizeit-alltag/ist-samstag-ein-werktag?full=1)

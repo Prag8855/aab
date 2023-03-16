@@ -3,7 +3,6 @@ Title: Which movies are set in Berlin?
 Short_title: Movies set in Berlin
 Description: These movies were filmed in Berlin, and prominently feature the German capital.
 Date_created: 2017-10-03
-Date_updated: 2022-02-08
 ---
 
 Below is a list of movies in which Berlin is a prominently featured location. They are listed in no particular order.
@@ -14,7 +13,7 @@ Below is a list of movies in which Berlin is a prominently featured location. Th
 
 Wings of Desire prominently features West Berlin, the Berlin wall, Potsdamer Platz and a handful of other locations around Berlin.
 
-[IMDb](http://www.imdb.com/title/tt2406566/?ref_=nv_sr_1) - [U-Bahn scene](https://www.youtube.com/watch?v=2izlo8UX_PA)
+[IMDb](https://www.imdb.com/title/tt2406566/?ref_=nv_sr_1) - [U-Bahn scene](https://www.youtube.com/watch?v=2izlo8UX_PA)
 
 ## Inglourious Basterds (2009)
 
@@ -22,7 +21,7 @@ Wings of Desire prominently features West Berlin, the Berlin wall, Potsdamer Pla
 
 Towards the end of the movie, Colonel Hans Landa meets Lt. Aldo Raine at [Clärchens Ballhaus](https://goo.gl/maps/VVEFVgUQDcy) in Mitte. The cinema featured in the movie was built and destroyed at [Studio Babelsberg](https://goo.gl/maps/P9jAFdYZEXy) in Potsdam. Under Nazi rule, hundreds of propaganda films were filmed in that same studio under the direction of Dr. Goebbels, including Leni Riefenstahl's *[Triumph of the Will (1935)](https://www.imdb.com/title/tt0025913/)*. Clärchens Ballhaus is also featured in *[The Monuments Men (2014)](https://www.imdb.com/title/tt2177771/)*.
 
-[IMDb](http://www.imdb.com/title/tt0361748/?ref_=nv_sr_1) - [Clärchens Ballhaus scene](https://www.youtube.com/watch?v=O5s3Oj2cPgc)
+[IMDb](https://www.imdb.com/title/tt0361748/?ref_=nv_sr_1) - [Clärchens Ballhaus scene](https://www.youtube.com/watch?v=O5s3Oj2cPgc)
 
 ## Good bye Lenin! (2003)
 
@@ -30,7 +29,7 @@ Towards the end of the movie, Colonel Hans Landa meets Lt. Aldo Raine at [Clärc
 
 The entire movie is set in East Berlin during and shortly after the fall of the Berlin wall, and prominently features Karl-Marx-Allee and its surroundings. No movie gives you a better glimpse at life behind the wall.
 
-[IMDb](http://www.imdb.com/title/tt0301357/?ref_=fn_al_tt_1) - [Flying Lenin scene on Karl-Marx-Allee](https://www.youtube.com/watch?v=-ho5gGW9eOU)
+[IMDb](https://www.imdb.com/title/tt0301357/?ref_=fn_al_tt_1) - [Flying Lenin scene on Karl-Marx-Allee](https://www.youtube.com/watch?v=-ho5gGW9eOU)
 
 ## The Lives of Others (2006)
 
@@ -38,7 +37,7 @@ The entire movie is set in East Berlin during and shortly after the fall of the 
 
 The Lives of Others puts follows the moral struggles of an introverted [Stasi](https://en.wikipedia.org/wiki/Stasi) agent tasked with the surveillance of a playwright. It's featured in IMDb's [Top 250](https://www.imdb.com/chart/top).
 
-[IMDb](http://www.imdb.com/title/tt0405094/) - [Final scene on Karl-Marx-Allee](https://www.youtube.com/watch?v=NOU9MT2axKc)
+[IMDb](https://www.imdb.com/title/tt0405094/) - [Final scene on Karl-Marx-Allee](https://www.youtube.com/watch?v=NOU9MT2axKc)
 
 ## Er ist wieder da! (2015)
 
@@ -46,7 +45,7 @@ The Lives of Others puts follows the moral struggles of an introverted [Stasi](h
 
 This dark comedy about the unexplained return of Hitler in modern days shows various parts of Berlin Mitte, beginning right where Hitler killed himself in 1945.
 
-[IMDb](http://www.imdb.com/title/tt4176826/?ref_=fn_al_tt_1)
+[IMDb](https://www.imdb.com/title/tt4176826/?ref_=fn_al_tt_1)
 
 ## Der Untergang (2004)
 
@@ -54,7 +53,7 @@ This dark comedy about the unexplained return of Hitler in modern days shows var
 
 *Der Untergang* is a grim depiction of the last days of the second world war in Hitler's bunker*.* It features former Berlin buildings such as the [New Reich Chancellery](https://en.wikipedia.org/wiki/Reich_Chancellery#New_Reich_Chancellery), the Führerbunker and the air raid shelters. It's featured in IMDb's [Top 250](https://www.imdb.com/chart/top).
 
-[IMDb](http://www.imdb.com/title/tt0363163/?ref_=nv_sr_1) - [Bunker scene](https://www.youtube.com/watch?v=xoEHFisDV78) - [Air raid schelter scene](https://www.youtube.com/watch?v=LpoXEKJfeCs) - [New Reich's Chancellery scene](https://www.youtube.com/watch?v=rdMTAH40cVg)
+[IMDb](https://www.imdb.com/title/tt0363163/?ref_=nv_sr_1) - [Bunker scene](https://www.youtube.com/watch?v=xoEHFisDV78) - [Air raid schelter scene](https://www.youtube.com/watch?v=LpoXEKJfeCs) - [New Reich's Chancellery scene](https://www.youtube.com/watch?v=rdMTAH40cVg)
 
 ## Valkyrie (2008)
 
@@ -62,7 +61,7 @@ This dark comedy about the unexplained return of Hitler in modern days shows var
 
 This second world war political thriller tells the story of the [July 20 plot](https://en.wikipedia.org/wiki/20_July_plot) against Hitler. It prominently features former Nazi government buildings, including the [Bendlerblock](https://en.wikipedia.org/wiki/Bendlerblock), the former [Reichsluftfahrtministerium](https://de.wikipedia.org/wiki/Reichsluftfahrtministerium) building and the [Berlin Messe](https://www.huebner-oehmig.de/messe_berlin.html).
 
-[IMDb](http://www.imdb.com/title/tt0985699/?ref_=fn_al_tt_1) - [Luftfahrtministerium and Messe Berlin scene](https://www.youtube.com/watch?v=3iojQ6Ao5WA)
+[IMDb](https://www.imdb.com/title/tt0985699/?ref_=fn_al_tt_1) - [Luftfahrtministerium and Messe Berlin scene](https://www.youtube.com/watch?v=3iojQ6Ao5WA)
 
 ## Atomic Blonde (2017)
 
@@ -70,7 +69,7 @@ This second world war political thriller tells the story of the [July 20 plot](h
 
 Cold War Berlin is the backdrop of this tightly choreographed, action-packed, neon-lit spy flick by John Wick director David Leitch. Atomic Blonde features gorgeous neon-lit shots of Berlin's club culture, as well as the Berlin wall and other cold war landmarks.
 
-[IMDb](http://www.imdb.com/title/tt2406566/?ref_=nv_sr_1) - [Trailer](https://www.youtube.com/watch?v=yIUube1pSC0) - [Fight scene](https://www.youtube.com/watch?v=XarGS1AeEcE)
+[IMDb](https://www.imdb.com/title/tt2406566/?ref_=nv_sr_1) - [Trailer](https://www.youtube.com/watch?v=yIUube1pSC0) - [Fight scene](https://www.youtube.com/watch?v=XarGS1AeEcE)
 
 ## And many, many more...
 

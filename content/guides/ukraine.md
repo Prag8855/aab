@@ -3,7 +3,6 @@ Title: How to help Ukrainian refugees in Berlin
 Short_title: How to help Ukrainians
 Description: This is how you can volunteer and donate to help Ukrainian refugees in Berlin.
 Date_created: 2022-03-05
-Date_updated: 2022-04-01
 ---
 
 Tens of thousands of Ukrainians refugees arrived in Berlin. They need your help. This guide shows you how to help.
@@ -23,7 +22,7 @@ Use to [coordination chat](https://t.me/ukraineberlinarrivalsupport) to see if t
 - [Information dashboard](https://status.arrivalsupport.berlin/)  
     A summary of the current situation with links to other forms.
 - [Donate to Arrival Team Berlin](https://ukraine-berlin.notion.site/Donating-money-and-resources-bff42d5ddb4847c7b43ccf3a350850e5)
-- [Items in need at train stations](https://www.adiuto.org/initiative/berlin-welcome-team)
+- [Items in need at train stations](https://adiuto.org/initiative/berlin-arrival-support)
 
 ### At the arrival centre in Tegel
 
@@ -61,7 +60,7 @@ If you want to drive to Poland or Ukraine to deliver goods or transport refugees
 
 ## Host refugees
 
-- [**Offer housing to refugees**](https://www.unterkunft-ukraine.de/) - Unterkunft Ukraine
+- [**Offer housing to refugees**](https://unterkunft-ukraine.de/) - Unterkunft Ukraine
     - [Apply as a host](https://sites.google.com/view/shelterforukraine/home?authuser=0) - Shelter for Ukraine
     - [Apply as a host](https://www.host4ukraine.com/) - Host4Ukraine
     - [Apply as a host](https://wunderflats.com/page/ukraine/tenants-in-need-en) - Wunderflats
@@ -83,9 +82,9 @@ The rules for entering with a pet are relaxed for Ukrainian refugees. More infor
 
 - **[Donation options](https://docs.google.com/document/d/1X7Q2MIxa6m6KSLYVd2hixUl5PMydoe0EYA0p1IwARsY/edit)**  
     This list is maintained by [Vitsche Berlin](https://vitsche.org/).
-- [Ukraine-Hilfe Berlin](https://www.ukraine-hilfe-berlin.de/spende/)  
+- [Ukraine-Hilfe Berlin](https://ukraine-hilfe-berlin.de/spende/)  
     Berlin-based charity that helps Ukrainians since many years. They are approved by [Vitsche Berlin](https://vitsche.org/).[^3]
-- [Allianz Ukrainischer Organisationen](https://ukr-alliance.de/spenden/)  
+- [Allianz Ukrainischer Organisationen](https://ukr-alliance.de/de/spenden/)  
     This charity is approved by the Ukrainian embassy in Berlin, and [Vitsche Berlin](https://vitsche.org/). They accept cryptocurrency donations.
 - [More donation options](https://standforukraine.com/) - standforukraine.org
 - [More donation options](https://www.rbb24.de/politik/thema/Ukraine/beitraege/ukraine-krieg-menschen-helfen-spenden-aktionen-russland.html) (in German) - rbb24
@@ -94,9 +93,9 @@ The rules for entering with a pet are relaxed for Ukrainian refugees. More infor
 
 Before you donate, check what is needed. If you donate things that are not needed, it creates more work for the organisers.
 
-- **[Items in need at train stations](https://www.adiuto.org/initiative/berlin-welcome-team)**
+- **[Items in need at train stations](https://adiuto.org/initiative/berlin-arrival-support)**
 - **[Items in need at the refugee arrival center (LAF)](https://www.adiuto.org/initiative/arrival-center-laf-akuz)**
-- [Items in need](https://www.ukraine-hilfe-berlin.de/krieg/) (in German) - Ukraine-Hilfe Berlin
+- [Items in need](https://ukraine-hilfe-berlin.de/krieg_04-03-2022/) (in German) - Ukraine-Hilfe Berlin
 - [Collection points](https://vitsche.org/help-ukrainians/) - [Vitsche Berlin](https://vitsche.org/)  
     Items in need are announced [on Telegram](https://t.me/vitsche_berlin)
 - [Items in need](https://berlin.instytutpileckiego.pl/de/news/humanitarian-aid-for-ukraine-in-cooperation-with-the) - Pilecki Institute
@@ -141,5 +140,5 @@ Before you donate, check what is needed. If you donate things that are not neede
 
 [^0]: [berlin.de](https://www.berlin.de/ukraine/helfen/#:~:text=Wichtiger%20Hinweis%3A-,bitte%20nicht%20mehr%20zum%20hauptbahnhof%20kommen,-In%20Absprache%20zwischen)
 [^1]: [rbb24.de](https://www.rbb24.de/politik/thema/Ukraine/beitraege/berlin-hauptbahnhof-unterstuetzung-gefluechtete-spenden.html)
-[^2]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/unterstuetzung-gesucht-wie-berliner-den-ukrainern-helfen-koennen-und-was-jetzt-sinnvoll-ist/28109110.html#:~:text=nicht%20einfach%20losfahren)
+[^2]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/wie-berliner-den-ukrainern-helfen-konnen--und-was-jetzt-sinnvoll-ist-5997019.html#:~:text=nicht%20einfach%20losfahren)
 [^3]: [docs.google.com](https://docs.google.com/document/d/1X7Q2MIxa6m6KSLYVd2hixUl5PMydoe0EYA0p1IwARsY/edit)

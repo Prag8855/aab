@@ -135,7 +135,7 @@ You can ask stores to give you their old boxes. You can also buy used boxes on [
 
 If you can't move everything yourself, you can hire a moving company. [Zapf](https://www.zapf.de/) is often recommended.[^25] It's more expensive, but all your goods are insured.
 
-If you don't have many things to move, you can hire a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](http://www.moebel-taxi.de/english/) is a popular option. You can find more on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
+If you don't have many things to move, you can hire a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option. You can find more on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
 
 ### Rent a moving truck
 
@@ -176,13 +176,13 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)
 [^2]: [§568 BGB](https://www.gesetze-im-internet.de/bgb/__568.html), [§126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html)
-[^3]: [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-per-E-Mail-reicht-das-E1939.htm)
-[^4]: [mietrecht.de](https://www.mietrecht.de/blog/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
-[^5]: [mietrecht.de](https://www.mietrecht.de/blog/wohnungsbesichtigung-vermieter-recht/#21-darf-der-vermieter-sich-vertreten-lassen)
+[^3]: [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
+[^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
+[^5]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#21-darf-der-vermieter-sich-vertreten-lassen)
 [^6]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#4-sind-spontane-besuche-des-vermieters-gerechtfertigt)
-[^7]: [mietrecht.de](https://www.mietrecht.de/blog/wohnungsbesichtigung-vermieter-recht/#3-sind-spontane-besuche-des-vermieters-gerechtfertigt)
-[^8]: [mietrecht.de](https://www.mietrecht.de/blog/wohnungsbesichtigung-vermieter-recht/#20-d%C3%BCrfen-mieter-einen-termin-zur-besichtigung-der-wohnung-absagen)
-[^9]: [mietrecht.de](https://www.mietrecht.de/blog/wohnungsbesichtigung-vermieter-recht/#13-rechte-amp-pflichten-des-mieters-bei-der-wohnungsbesichtigung)
+[^7]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#3-sind-spontane-besuche-des-vermieters-gerechtfertigt)
+[^8]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#20-d%C3%BCrfen-mieter-einen-termin-zur-besichtigung-der-wohnung-absagen)
+[^9]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#13-rechte-amp-pflichten-des-mieters-bei-der-wohnungsbesichtigung)
 [^10]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034#:~:text=senden%20sie%20ihre%20schriftliche%20kundigung%20am%20besten%20per%20einwurfeinschreiben)
 [^11]: [dslweb.de](https://www.dslweb.de/kosten-fuer-den-dsl-umzug.php)
 [^12]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034#:~:text=auch%20wenn%20sie%20in%20eine%20wohnung%20ziehen%2C%20in%20der%20schon%20jemand%20wohnt)
@@ -200,15 +200,15 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^24]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0107/immer-wieder-streit-um-schoenheitsreparaturen-in-der-mietwohnung-010730.htm), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p0733), [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html#:~:text=die%20renovierungsarbeiten%20sind%20in%20fachgerechter%20art%20und%20weise%20auszufuhren)
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
-[^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/immobilien-und-wohnen/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
-[^28]: [taxback.com](https://www.taxback.com/en/germany/pension-return/), [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](http://ssr.germanymantra.com/faqs)
+[^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
+[^28]: [taxback.com](https://www.taxback.com/en/germany/pension-return/), [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^29]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289)
-[^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-per-E-Mail-reicht-das-E1939.htm)
+[^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4p3wz6/whats_the_process_for_getting_someone_to_take/d4htm8i/)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4xyzm4/berlin_lease_transfer/d6jkfgo/)
 [^33]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen)
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
-[^36]: [ssr.germanymantra.com](http://ssr.germanymantra.com/faqs)
+[^36]: [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^37]: [§60 Abs. 1 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html)
 [^38]: [§60 Abs. 2 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)

@@ -2,7 +2,6 @@
 Title: How to get a Kitagutschein
 Description: This is how you get a Kitagutschein, the document you need when looking for a Kita in Germany.
 Date_created: 2018-08-27
-Date_updated: 2022-12-02
 Related_reviews: reviews/how-to-get-a-kitagutschein/lisa-hübner-moreno.md, reviews/how-to-get-a-kitagutschein/amy-deverell.md
 ---
 
@@ -88,7 +87,7 @@ Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to
 
 **[How to find a Kita ➞ Where to find help](/guides/how-to-find-a-kita-in-berlin#need-help)**
 
-[^0]: [bz-berlin.de](https://www.bz-berlin.de/berlin/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
+[^0]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324879/)
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/324873/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f6zi4/how_to_find_a_kita_in_berlin_do_you_have_any_tips/e5usgrt/)

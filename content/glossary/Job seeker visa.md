@@ -2,9 +2,8 @@
 Title: What is the German job seeker visa?
 German_term: Job seeker visa
 English_term: 
-Description: 
+Description: A visa that lets you come to Germany and look for a job.
 Date_created: 2018-08-28
-Date_updated: 2022-03-29
 Related_guides: guides/berlin-auslanderbehorde-same-day-appointment.md, guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md, guides/residence-permit.md
 ---
 
@@ -14,5 +13,5 @@ Once you have found a job, you can [apply for a freelance visa](/guides/how-to-g
 
 **[Information about the job seeker visa](https://service.berlin.de/dienstleistung/324661/en/)** - Berlin.de
 
-[^0]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0573), [quora.com](https://www.quora.com/What-are-the-requirements-to-extend-a-job-seeker-visa-in-Germany)
+[^0]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0573), [Quora](https://www.quora.com/What-are-the-requirements-to-extend-a-job-seeker-visa-in-Germany)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)

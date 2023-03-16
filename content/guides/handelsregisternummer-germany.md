@@ -32,6 +32,6 @@ You should normally find the *Handelsregisternummer* on the company's website. S
 
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 
-[^0]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/brauche-ich-einen-handelsregistereintrag)
+[^0]: [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/brauche-ich-einen-handelsregistereintrag)
 [^1]: [dict.cc](https://www.dict.cc/?s=Gesellschaft+b%C3%BCrgerlichen+Rechts)
 [^2]: [selbststaendig-machen.net](https://www.selbststaendig-machen.net/handelsregister-lohnt-der-freiwillige-eintrag/)

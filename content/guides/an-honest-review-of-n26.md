@@ -3,7 +3,6 @@ Title: My honest N26 review - 5 years with N26
 Short_title: Review of N26
 Description: My opinion of N26 bank after 5 years. Is N26 safe? Is it good? Should you use it as your main bank in Germany? Here's what I think.
 Date_created: 2017-09-02
-Date_updated: 2023-01-04
 ---
 
 In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) because they charge fees for everything. 6€ for using another bank's ATM, 40€ a year for a basic credit card, 7€ a month for an account etc.
@@ -233,7 +232,7 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 
 [^0]: [docs.n26.com](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf)
 [^1]: [facebook.com](https://www.facebook.com/deutschepost/posts/1727000207317159)
-[^2]: [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](http://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)
+[^2]: [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](https://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)
 [^3]: [n26.com](https://n26.com/en-de/security)
-[^4]: [support.n26.com](https://support.n26.com/en-de/getting-started/cash/how-often-can-i-withdraw-cash-for-free)
+[^4]: [support.n26.com](https://support.n26.com/en-de/payments-transfers-and-withdrawals/withdrawals/how-often-can-i-withdraw-cash-for-free)
 [^5]: [Wikipedia](https://de.wikipedia.org/wiki/N26_(Direktbank))

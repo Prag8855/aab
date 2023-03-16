@@ -128,8 +128,8 @@ For the business description, be precise, not too precise.[^0] If this descripti
 
 1. Choose the kind of registration:
     1. *Hauptniederlassung*: this is the main location of your business; your headquarters or head office. Most people should choose this option.
-    2. *Zweigniederlassung*: this is an independent branch or regional office, not the main location. [More information](https://www.aachen.ihk.de/recht/rechtsinformationen/aktuelle-dokumente-zum-thema-recht/selbststaendige-zweigniederlassung-und-unselbststaendige-betrie-607468) (in German).
-    3. *Unselbständige Zweigstelle*: this is a dependant branch. [More information](https://www.aachen.ihk.de/recht/rechtsinformationen/aktuelle-dokumente-zum-thema-recht/selbststaendige-zweigniederlassung-und-unselbststaendige-betrie-607468) (in German).
+    2. *Zweigniederlassung*: this is an independent branch or regional office, not the main location. [More information](https://www.ihk.de/aachen/recht/rechtsinformationen/aktuelle-dokumente-zum-thema-recht/selbststaendige-zweigniederlassung-und-unselbststaendige-betrie-607468) (in German).
+    3. *Unselbständige Zweigstelle*: this is a dependant branch. [More information](https://www.ihk.de/aachen/recht/rechtsinformationen/aktuelle-dokumente-zum-thema-recht/selbststaendige-zweigniederlassung-und-unselbststaendige-betrie-607468) (in German).
     4. *Reisegewerbe*: this is a business without a fixed location, like a travelling salesman[^4]
 2. Choose the kind of business:
     1. Industry (*Industrie*): you make physical products in a factory
@@ -241,7 +241,7 @@ You finished a big step of [starting a business in Germany](/guides/start-a-busi
 
 The next step is to [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
-[^0]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide), [selbststaendigkeit.de](https://selbststaendigkeit.de/existenzgruendung/startup/buchhaltung-steuern-rechnungen/ein-kleingewerbe-anmelden-diesen-tipps)
+[^0]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide), [selbststaendigkeit.de](https://selbststaendigkeit.de/existenzgruendung/startup/buchhaltung-steuern-rechnungen/ein-kleingewerbe-anmelden-diesen-tipps/)
 [^1]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide)
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Nebenerwerb), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_3/__138.html)
 [^3]: [gewerbe-anmelden.info](https://www.gewerbe-anmelden.info/gewerbeschein/gewerbeschein-formular-ausfuellen)

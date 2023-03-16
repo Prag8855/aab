@@ -21,7 +21,7 @@ Under the [CC BY-SA 2.0 licence](https://creativecommons.org/licenses/by-sa/2.0/
 
 **This is how I should have done it:**
 
-*Cover photo: ["Kleingeld vor Taschenrechner in Buchhaltung"](https://www.flickr.com/photos/140988606@N08/30720979452) by [Christoph Scholz](http://hamburgisch.com/), available under a Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/2.0/) license.*
+*Cover photo: ["Kleingeld vor Taschenrechner in Buchhaltung"](https://www.flickr.com/photos/140988606@N08/30720979452) by [Christoph Scholz](https://hamburgisch.com/), available under a Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/2.0/) license.*
 
 ## Creative Commons attribution: a lucrative business
 
@@ -34,27 +34,27 @@ Here are dozens of articles describing this practice:
 - [Abmahnung bei Verwendung von CC by SA 2.0](https://www.lima-city.de/thread/abmahnung-bei-verwendung-von-cc-by-sa-2-0)
 - [Achtung: Foto Abmahnung wegen fehlendem Link auf Pixelio.de](https://www.ra-plutte.de/achtung-foto-abmahnung-wegen-fehlendem-link-auf-pixelio-de/)
 - [Abmahnung des Herrn Christoph Scholz durch die Kanzlei Dr. Schaefer [...]](https://www.kanzlei.biz/abmahnbarometer/abmahnung-des-herrn-christoph-scholz-durch-die-kanzlei-dr-schaefer-wegen-urheberrechtsverletzung-an-einem-lichtbild/)
-- [Rechtsanwalt Lutz Schröder mahnt für den Fotografen Christoph Scholz ab](http://oerlinghauser-it-recht.blogspot.de/2017/06/fotorecht-rechtsanwalt-lutz-schroder.html)
-- [Rechtsanwalt Lutz Schröder mahnt jetzt auch Bilder von Flickr.com ab](http://oerlinghauser-it-recht.blogspot.de/2017/08/fotorecht-rechtsanwalt-lutz-schroder.html)
-- [Rechtsanwalt Lutz Schröder mahnt für Dennis Skley und VSGE auch Bilder von Flickr.com ab](http://oerlinghauser-it-recht.blogspot.de/2017/11/fotorecht-rechtsanwalt-lutz-schroder.html)
+- [Rechtsanwalt Lutz Schröder mahnt für den Fotografen Christoph Scholz ab](https://oerlinghauser-it-recht.blogspot.com/2017/06/fotorecht-rechtsanwalt-lutz-schroder.html)
+- [Rechtsanwalt Lutz Schröder mahnt jetzt auch Bilder von Flickr.com ab](https://oerlinghauser-it-recht.blogspot.com/2017/08/fotorecht-rechtsanwalt-lutz-schroder.html)
+- [Rechtsanwalt Lutz Schröder mahnt für Dennis Skley und VSGE auch Bilder von Flickr.com ab](https://oerlinghauser-it-recht.blogspot.com/2017/11/fotorecht-rechtsanwalt-lutz-schroder.html)
 - [Urheberrecht: Unberechtigte Bildnutzung (page 5)](https://www.it-recht-kanzlei.de/index.php?_action=%2FPDF%2Fprint&_rid=8111)
 - [Flickr Abmahnung: Lutz Schroeder Dennis Skley / VSGE](https://www.ra-plutte.de/flickr-abmahnung-lutz-schroeder-denis-skley-vsge/)
 - [Vermehrte Abmahnungen bei Creative-Commons-Fotos](https://irights.info/artikel/vermehrte-abmahnungen-bei-creative-commons-fotos/27407)
-- [Creative Commons-Abzocke ist wohl bald Geschichte – schlechte Nachrichten für TW Photomedia, Dirk Vorderstraße, Dennis Skley und Christoph Scholz](http://www.kanzleikompa.de/2018/02/06/creative-commons-abzocke-ist-wohl-bald-geschichte-schlechte-nachrichten-fuer-tw-photomedia-dirk-vorderstrasse-dennis-skley-und-christoph-scholz/)
+- [Creative Commons-Abzocke ist wohl bald Geschichte – schlechte Nachrichten für TW Photomedia, Dirk Vorderstraße, Dennis Skley und Christoph Scholz](https://kanzleikompa.de/2018/02/06/creative-commons-abzocke-ist-wohl-bald-geschichte-schlechte-nachrichten-fuer-tw-photomedia-dirk-vorderstrasse-dennis-skley-und-christoph-scholz/)
 - [Abmahnung bekommen – was nun?](http://www.b2n-social-media.de/abmahnung-bekommen/)
 - [Die Cider Connection: Abmahnungen gegen Nutzer von Creative-Commons-Bildern](https://netzpolitik.org/2016/die-cider-connection-abmahnungen-gegen-nutzer-von-creative-commons-bildern/)
 - [Creative Commons: Abmahnung Skley / Schröder](https://nichteinschalten.de/haende-weg-von-creative-commons/)
 - [Zeitbombe Abmahnung bei der Verwendung von Creative Commons (Skley, Schroeder, VSGE)](https://linuxundich.de/politik/zeitbombe-abmahnung-bei-der-verwendung-von-creative-commons-skley-schroeder-vsge/)
-- [Abmahnung Kanzlei Lutz Schröder für VSGE](https://von-wegen-abmahnung.de/news/abmahnungen/abmahnung-kanzlei-lutz-schroeder-vsge)
+- [Abmahnung Kanzlei Lutz Schröder für VSGE](https://von-wegen-abmahnung.de/abmahnung-kanzlei-lutz-schroeder-vsge/)
 - [Die flickr-Abmahnung ist da! Aber ist die auch berechtigt?](http://fotorecht.news/2015/12/04/die-flickr-abmahnung-ist-die-berechtigt/)
-- [Abmahnung gegen Nutzer von Creative Commons Bildern, öffentlich lesbarer Teil](https://invalidenturm.eu/2017/08/abmahnungen-gegen-nutzer-von-creative-commons-bildern-oeffentlich-lesbarer-teil/)
-- [Spontis erhält Abmahnung wegen falsch genutzter Creative Commons Lizenz](https://www.spontis.de/schwarze-szene/ansichtssache/spontis-erhaelt-abmahnung-wegen-falsch-genutzter-creative-commons-lizenz/)
+- [Abmahnung gegen Nutzer von Creative Commons Bildern, öffentlich lesbarer Teil](https://invalidenturm.eu/2019/06/abmahnungen-gegen-nutzer-von-creative-commons-bildern-oeffentlich-lesbarer-teil/)
+- [Spontis erhält Abmahnung wegen falsch genutzter Creative Commons Lizenz](https://www.spontis.de/schwarze-szene/ansichtssache/abmahnung-cc-lizenz/)
 
 ## What do the courts think?
 
 Kanzlei Schröder is demanding 3XX€ in reparations for using a free image for non-commercial purposes. The image was free and the author was credited for his work, so it's hard to claim that any business was lost because of our mistake.
 
-The Cologne Higher Regional Court ruled that [no compensation is due](https://www.ra-plutte.de/olg-koeln-creative-commons-content-grds-0-e-wert/) for misattributing Creative Commons images. The Frankfurt Higher Regional Court [also issued the same ruling](http://www.kanzleikompa.de/2016/07/19/amtsgericht-frankfurt-kein-lizenzschaden-bei-kostenfreien-creativ-commons-bildern/).
+The Cologne Higher Regional Court ruled that [no compensation is due](https://www.ra-plutte.de/olg-koeln-creative-commons-content-grds-0-e-wert/) for misattributing Creative Commons images. The Frankfurt Higher Regional Court [also issued the same ruling](https://kanzleikompa.de/2016/07/19/amtsgericht-frankfurt-kein-lizenzschaden-bei-kostenfreien-creativ-commons-bildern/).
 
 ## How did I react?
 

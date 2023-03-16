@@ -3,7 +3,6 @@ Title: The cost of owning a car in Germany
 Short_title: Cost of owning a car
 Description: An overview of cost of vehicle ownership in Germany. We look at the costs of vehicle insurance, taxes, maintenance, fuel and more.
 Date_created: 2020-10-04
-Date_updated: 2022-05-24
 ---
 
 These are the thing you must pay when you drive a car in Germany. If you are thinking of [buying a car in Germany](/guides/buying-used-car-in-germany), this guide can be useful.
@@ -30,7 +29,7 @@ Fuel prices in Germany are similar to the rest of Europe. They are much higher t
 
 - **[Fuel price database](https://www.clever-tanken.de/)** - Clever Tanken
 - [Gasoline prices around the world](https://www.bloomberg.com/graphics/gas-prices/#20202:United-Arab-Emirates:EUR:l)
-- [Fuel price database](https://www.adac.de/infotestrat/tanken-kraftstoffe-und-antrieb/kraftstoffpreise/) - ADAC
+- [Fuel price database](https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/kraftstoffpreise/) - ADAC
 
 ## Vehicle inspections
 
@@ -42,7 +41,7 @@ You must keep your car in good condition. You must repair it when it breaks, but
 
 In Germany, if there is snow or ice on the ground, you must have winter tires.[^2] There are no specific dates for changing to winter tires. It only depends on the road conditions. If you have an accident with summer tires in winter conditions, your insurance might not cover you.[^2]
 
-- **[Cost of ownership calculator](https://www.adac.de/infotestrat/autodatenbank/autokosten/default.aspx)** - ADAC
+- **[Cost of ownership calculator](https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/autokosten/)** - ADAC
 - [Cost of ownership calculator](https://www.autokostencheck.de/) - Autokostencheck.de
 
 ## Toll roads

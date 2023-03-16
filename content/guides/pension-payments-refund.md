@@ -3,7 +3,6 @@ Title: How to get a German pension refund
 Short_title: How to get a pension refund
 Description: If you left Germany, you get your German pension payments back. It can be worth thousands of euros.
 Date_created: 2020-06-04
-Date_updated: 2023-01-04
 Related_reviews: reviews/pension-payments-refund/johannes-kühn.md, reviews/pension-payments-refund/dr-rené-roy.md, reviews/pension-payments-refund/christian-haas.md
 ---
 
@@ -338,7 +337,7 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^1]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=gesetzlichen%20Rentenversicherung%20zahlt.-,beitragserstattung%20bei%20erreichen%20der%20regelaltersgrenze,-Als%20n%C3%A4chstes%20werde)
 [^2]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=aufhalten.%20Hierzu%20geh%C3%B6ren%3A-,bosnien-herzegowina%2C%20kosovo%2C%20montenegro%20und%20serbien,-Staatsangeh%C3%B6rige%20der%20Staaten)
 [^3]: [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title)
-[^4]: [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/2021/02/26/can-i-claim-back-german-pension-contributions-after-brexit/)
+[^4]: [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/)
 [^5]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=bei%20staatsangehorigen%20des%20staates%20israel)
 [^6]: [Screenshot](/images/rene-pension-japan-2022-01-20.png)
 [^7]: [germanypensionrefund.com](https://www.germanypensionrefund.com/japan)
@@ -350,8 +349,8 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^13]: [Screenshot](/images/rene-pension-turkey-2022-01-20.png)
 [^14]: [taxback.com](https://www.taxback.com/en/germany/pension-return/)
 [^15]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung), [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Broschueren/international/weitere_abkommen_fremdsprachig/working_in_germany_no_contracting_states.pdf;jsessionid=3D2A15785448B28F82B12270A1319D03.delivery2-8-replication?__blob=publicationFile&v=1)
-[^16]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0910.html), [rentenfuchs.info](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/)
-[^17]: [rentenfuchs.info](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/)
+[^16]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0910.html), [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/)
+[^17]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/)
 [^18]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-2803300), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=5#comment-2351838)
 [^19]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/)
 [^20]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308), [sozialversicherung-kompetent.de](https://sozialversicherung-kompetent.de/rentenversicherung/versicherungsrecht/727-erstattung-rentenversicherungsbeitraege.html#Erstattung-Versicherten-nicht-versicherungspflichtig)
@@ -367,11 +366,11 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^30]: [de.germanypensionrefund.com](https://de.germanypensionrefund.com/pricing)
 [^31]: [pension-refund.com](https://pension-refund.com/process-and-pricing.html)
 [^32]: [taxback.com](https://www.taxback.com/en/germany/pension-return/?utm_source=allaboutberlin)
-[^33]: [ssr.germanymantra.com](http://ssr.germanymantra.com/contact-us)
+[^33]: [ssr.germanymantra.com](https://ssr.germanymantra.com/contact-us)
 [^34]: [web.archive.org](https://web.archive.org/web/20110310055547/http://ssr.germanymantra.com/faqs)
 [^35]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [Settle in Berlin](https://www.settle-in-berlin.com/pension-refund-when-leaving-germany/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-3317004), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/)
 [^36]: [Screenshot](/images/pension-refund-bank-account-2022-04-09.png)
 [^37]: [§210 SGB VI](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308)
 [^38]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung)
 [^39]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/?page=1)
-[^40]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [rentenfuchs.info](http://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [Regulation (EEC) No 1408/71, §10 para. 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)
+[^40]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [Regulation (EEC) No 1408/71, §10 para. 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)

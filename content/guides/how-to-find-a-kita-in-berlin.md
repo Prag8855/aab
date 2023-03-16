@@ -3,7 +3,6 @@ Title: How to find a Kita in Berlin
 Short_title: How to find a Kita
 Description: This guide shows how to find a place for your child in a Kindergarten.
 Date_created: 2018-08-27
-Date_updated: 2022-12-08
 Related_reviews: reviews/how-to-find-a-kita-in-berlin/lisa-hübner-moreno.md, reviews/how-to-find-a-kita-in-berlin/amy-deverell.md
 ---
 
@@ -41,7 +40,7 @@ Start looking for *Kitas* after you [move to Berlin](/guides/moving-to-berlin), 
 There are many places to look for *Kitas*:
 
 - [Kita Navigator](https://kita-navigator.berlin.de/) - official resource
-- [KITA-Suche Berlin](http://www.kita-suche.berlin/) - really good tool
+- [KITA-Suche Berlin](https://kita-suche.berlin/) - really good tool
 - [Kita.de Kita Finder](https://www.kita.de/kitas/berlin)
 - [Kietzee](https://www.kietzee.com/en/dashboard) - list of Kitas with some reviews
 - [ExpatBabies Berlin](https://www.facebook.com/groups/107498526067436/) - Facebook
@@ -127,7 +126,7 @@ When you choose a Kita start date and a date to begin work, factor in several we
 - Some[ relocation consultants](/guides/relocation-agency-in-berlin) can find a Kita for you
 
 [^0]: [Settle in Berlin](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/), [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)
-[^1]: [bz-berlin.de](https://www.bz-berlin.de/berlin/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
+[^1]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrjmq3/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/61ocy7/rant_kitas_and_lack_of_transperency/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrlf0a/)
 [^4]: [berliner-zeitung.de](https://www.berliner-zeitung.de/mensch-metropole/statt-klage-so-ungewoehnlich-will-eine-berliner-mutter-einen-kita-platz-ergattern-li.27934?pid=true), [kitakriseberlin.org](https://kitakriseberlin.org/)

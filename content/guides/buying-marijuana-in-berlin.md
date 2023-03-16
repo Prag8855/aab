@@ -3,7 +3,6 @@ Title: How to buy weed in Berlin
 Short_title: Where to buy weed
 Description: This is how you buy marijuana safely in Germany's capital.
 Date_created: 2017-09-01
-Date_updated: 2022-08-26
 ---
 
 Weed [is not legal in Berlin](/guides/is-marijuana-legal), but many people still smoke it. This guide explains how people usually buy weed in Berlin.
@@ -89,7 +88,7 @@ This article is not written to promote the use of illegal drugs, but to make the
 [^1]: [goo.gl](https://goo.gl/maps/ppjbvAoUMVMv8TDy9), [goo.gl](https://goo.gl/maps/YjDdmS7k7RUeB6U6A)
 [^2]: [berliner-zeitung.de](https://www.berliner-zeitung.de/news/polizeibericht-berlin/statistik-das-sind-die-gefaehrlichsten-parks-in-berlin-li.171833)
 [^3]: [goo.gl](https://goo.gl/maps/7rDxdm3Pncg5BBuj7)
-[^4]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4egzcz/psa_for_people_looking_to_buy_weed_spoiler_its/), [reddit.com](https://old.reddit.com/r/berlin/comments/4jbryw/buying_contaminated_weed_in_hasenheide_for_newbies/)
+[^4]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4egzcz/psa_for_people_looking_to_buy_weed_spoiler_its/), [reddit.com](https://old.reddit.com/r/berlin/comments/4jbryw/deleted_by_user/)
 [^5]: [dirty-weed.com](https://dirty-weed.com/)
 [^6]: [morgenpost.de](https://www.morgenpost.de/berlin/polizeibericht/article231283010/Gefaehrliches-Haschisch-in-Berlin-im-Umlauf.html)
 [^7]: [legal-high-inhaltsstoffe.de](https://legal-high-inhaltsstoffe.de/de/news/2020/02/warnung-cannabis-mit-synthetischen-cannabinoiden.html), [mindzone.info](https://mindzone.info/aktuelles/warnung-gras-mit-synthetischen-cannabinoiden-gestreckt/), [hanfverband.de](https://hanfverband.de/nachrichten/news/hanfblueten-mit-synthetischem-cannabinoid-in-deutschland)

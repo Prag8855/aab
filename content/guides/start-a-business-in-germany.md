@@ -163,7 +163,7 @@ Later, you will need to [register your business with the tax office](/guides/fra
 
 The difference is *very* important. Tradespeople must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). They must usually be listed in the trade register (*[[Handelsregister]]*). They must sometimes follow different accounting rules.
 
-Not every freelancer is a *[[Freiberufler]]*! This title is only for [specific professions](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8). Engineers, doctors, architects and teachers can be *Freiberufler*. Food delivery drivers and tour guides are not *Freiberufler*; they are a *[[Gewerbe]]*.[^13] Most commercial websites are registered as a *Gewerbe*.
+Not every freelancer is a *[[Freiberufler]]*! This title is only for [specific professions](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8). Engineers, doctors, architects and teachers can be *Freiberufler*. Food delivery drivers and tour guides are not *Freiberufler*; they are a *[[Gewerbe]]*.[^13] Most commercial websites are registered as a *Gewerbe*.
 
 **[Freiberufler or Gewerbe, what's the difference? ➞](/guides/freiberufler-or-gewerbe)**
 
@@ -239,12 +239,12 @@ If you have a website, it must follow German and European laws. If you make a mi
 [^2]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/geschaeftskonto/)
 [^3]: [together.bunq.com](https://together.bunq.com/d/5116-deutsche-pf-ndbarkeit-auf-niederl-ndisches-konto/3)
 [^4]: [juraforum.de](https://www.juraforum.de/lexikon/kontosperrung)
-[^5]: [support.n26.com](https://support.n26.com/en-de/account-and-personal-details/ganrishment-insolvency-p-account/p-account-how-to-get), [auslandsueberweisung-guenstig.de](https://www.auslandsueberweisung-guenstig.de/ist-ein-konto-im-ausland-pfaendungssicher-alle-infos/)
+[^5]: [support.n26.com](https://support.n26.com/en-de/account-and-personal-details/ganrishment-insolvency-p-account/how-to-get-a-p-account), [auslandsueberweisung-guenstig.de](https://www.auslandsueberweisung-guenstig.de/ist-ein-konto-im-ausland-pfaendungssicher-alle-infos/)
 [^6]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944)
 [^7]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944), [bmjv.de](https://www.bmjv.de/DE/Verbraucherportal/FinanzenVersicherungen/P-Konto/Pfaendungsschutzkonto.html)
 [^8]: [schutzkonto.de](https://www.schutzkonto.de/news/vor-und-nachteile-des-p-kontos/#:~:text=mitteilung%20der%20bank%20an%20die%20schufa)
-[^9]: [medium.com](https://medium.com/@tiahardyrobinson/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
+[^9]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^11]: [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^12]: [hartz4widerspruch.de](https://hartz4widerspruch.de/ratgeber/basic/wann-erhalten-eu-buerger-und-andere-auslaender-hartz-4/#alg_i_und_alg_ii_-_wann_haben_eu-auslander_anspruch)
-[^13]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [hk24.de](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8)
+[^13]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)

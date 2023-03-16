@@ -4,7 +4,7 @@ Description: This is how you cancel a BVG yearly ticket. You can do it by email,
 Date_created: 2018-06-01
 ---
 
-This is how you cancel a [[BVG]] yearly ticket. If you don't cancel it, it's renewed automatically every 12 months. You can cancel your BVG subscription by email, by post, [at a BVG Kundenzentrum](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen), or [on the BVG website](https://abo.bvg.de/de/).
+This is how you cancel a [[BVG]] yearly ticket. If you don't cancel it, it's renewed automatically every 12 months. You can cancel your BVG subscription by email, by post, [at a BVG Kundenzentrum](https://www.bvg.de/de/service-und-kontakt/verkaufsstellen), or [on the BVG website](https://abo.bvg.de/de/).
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -60,14 +60,14 @@ At the end of your 12 month subscription, your card will stop working. You have 
 
 ## How to cancel in person
 
-You can also cancel a BVG yearly ticket at any [BVG Kundenzentrum](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen). You will sign have to sign a paper, and a few days later, you will receive a confirmation letter by post.
+You can also cancel a BVG yearly ticket at any [BVG Kundenzentrum](https://www.bvg.de/de/service-und-kontakt/verkaufsstellen). You will sign have to sign a paper, and a few days later, you will receive a confirmation letter by post.
 
-**[List of BVG Kundenzentren](https://www.bvg.de/de/Tickets/Weitere-Kaufmoeglichkeiten/In-Verkaufsstellen)**
+**[List of BVG Kundenzentren](https://www.bvg.de/de/service-und-kontakt/verkaufsstellen)**
 
 ![](/images/cancel-bvg-abo-in-person.png)
 
 [^0]: [Screenshot](/images/bvg-abo-kuendigung.jpg)
-[^1]: [bvg.de](https://www.bvg.de/de/Serviceseiten/Kontakt)
+[^1]: [bvg.de](https://www.bvg.de/de/service-und-kontakt)
 [^2]: [bvg.de](https://www.bvg.de/de/?section=downloads&download=652)
 [^3]: [Section 10.1](https://www.bvg.de/de/?section=downloads&download=652)
 [^4]: [Section 10.5](https://www.bvg.de/de/?section=downloads&download=652)

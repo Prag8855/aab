@@ -3,7 +3,6 @@ Title: Having a dog in Germany
 Short_title: Having a dog in Germany
 Description: If you want to adopt a dog in Berlin or Germany, these are the things you must know.
 Date_created: 2020-12-16
-Date_updated: 2022-12-08
 ---
 
 This is a list of things you must know and do if you want to have a dog in Germany.
@@ -123,7 +122,7 @@ If you don't speak German, here are some veterinarians who speak English:
 - [Dr. Peter Vogel](https://www.drpetervogel.de/en)
 - [Dr. Rotgang Praxis](https://www.tierarztpraxis-rotgang.de/en-gb)
 - [Dr. Uwe Lenk](https://tierarztpraxis-lenk.de/)
-- [Ellen Laskawy](https://www.laskawy-berlin.de/)
+- [Ellen Laskawy](https://laskawy.jimdofree.com/)
 - [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
 - [Praxis Tierzuliebe](https://www.facebook.com/praxistierzuliebe/) - Dr. Miriam Bertram
 - [Tierarztpraxis Watson](https://www.tierarzt-watson.de/)
@@ -147,13 +146,13 @@ It can be hard to [find an apartment](/guides/find-a-flat-in-berlin) that allows
 You must also be nice to your neighbours. If your dog barks all the time,[^15] or if you leave dog poop in the community area,[^16] you could get kicked out of your apartment.
 
 [^0]: [couchdogs.de](https://www.couchdogs.de/muss-mein-hund-gechipt-werden/#chiplist)
-[^1]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/chip-fuer-hunde-das-geht-unter-die-haut/1658650.html)
+[^1]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/das-geht-unter-die-haut-3830341.html)
 [^2]: [check24.de](https://www.check24.de/hundehaftpflicht/berlin/)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/326263/), [hundefuehrerscheininfo.de](https://hundefuehrerscheininfo.de/listenhunde-kampfhunde/)
 [^4]: [berlin.de \(archived\)](https://web.archive.org/web/20211204220345/https://berlin.de/special/haustiere/4603704-2840263-hundefuehrerschein-anbieter-ablauf-koste.html)
 [^5]: [diehundeschulen.de](https://diehundeschulen.de/hundeschulen-blog/hundehalter-sachkundenachweis-nach-bundesland/)
 [^6]: [berlin.de](https://service.berlin.de/dienstleistung/121822/)
-[^8]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/tierisch-ueberfluessig-krankenversicherungen-fuer-haustiere-10781#2)
+[^8]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/krankenversicherungen-fuer-haustiere-sinnvoll-oder-ueberfluessig-10781#2)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/fvq6crb/?utm_source=reddit&utm_medium=web2x&context=3)
 [^10]: [berlin.de](https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/aemter/ordnungsamt/artikel.86083.php)
 [^11]: [zooplus.de](https://www.zooplus.de/magazin/hund/hundesport-spiel/hundestraende), [ostsee24.de](https://www.ostsee24.de/ostsee-urlaub/urlaub-mit-hund/hundestrand-ostsee)

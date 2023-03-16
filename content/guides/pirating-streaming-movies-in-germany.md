@@ -3,12 +3,11 @@ Title: How to stream or torrent movies in Germany
 Short_title: How to stream and torrent movies
 Description: Piracy is not so easy in Germany, but there are ways to torrent without punishment. Here is how Germans pirate without getting caught.
 Date_created: 2017-10-13
-Date_updated: 2022-09-25
 ---
 
 *This guide is written information purposes only. I do not condone piracy. I encourage you to pay for the media you consume.*
 
-Downloading movies in Germany [is risky](http://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1,000€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
+Downloading movies in Germany [is risky](https://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1,000€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -28,7 +27,7 @@ The so called *Mitstörerhaftung* (co-perpetrator liability) was repealed.[^0] T
 
 ## Is streaming movies safe in Germany?
 
-**You can stream movies from legal sources** like [Netflix](https://www.netflix.com/), iTunes, [Google Play Movies](https://play.google.com/store/movies?hl=de) and [Amazon Prime Video](http://www.amazon.de/gp/video/primesignup?tag=nicolasboulia-21). This is legal, and you have nothing to worry about.
+**You can stream movies from legal sources** like [Netflix](https://www.netflix.com/), iTunes, [Google Play Movies](https://play.google.com/store/movies?hl=de) and [Amazon Prime Video](https://www.amazon.de/gp/video/primesignup?tag=nicolasboulia-21). This is legal, and you have nothing to worry about.
 
 **You can stream movies from websites like Mega.nz, Putlocker, 123movies, WeTransfer or Google Drive**. This is illegal, but you will not get caught. Catching people who use those illegal streaming websites is very difficult. Movie studios and copyright lawyers focus on easier targets.
 
@@ -60,7 +59,7 @@ VPNs come with extra benefits:
 
 However, VPNs are not risk-free. If your VPN connection drops, your torrent client might continue downloading copyrighted materials without it, exposing your IP address to the world. This is why you should set up a [VPN killswitch](https://www.vpnmentor.com/blog/kill-switch-features/) that cuts the internet connection if you are not connected to your VPN.
 
-When choosing a VPN, you must look for a fast provider that allows torrenting and does not log IP addresses. Avoid free VPN services, as they usually sacrifice safety, privacy or performance. This [VPN comparison chart](https://thatoneprivacysite.net/vpn-comparison-chart/) can help you pick the right VPN. I use [Private Internet Access](/out/private-internet-access) since a few years. I never had any problems.
+When choosing a VPN, you must look for a fast provider that allows torrenting and does not log IP addresses. Avoid free VPN services, as they usually sacrifice safety, privacy or performance. I use [Private Internet Access](/out/private-internet-access) since 2016. I never had any problems.
 
 ### Torrenting movies with a seedbox
 
@@ -94,7 +93,7 @@ This article was not written to promote sharing copyrighted material without per
 
 **[Where to find help ➞ Legal questions](/guides/questions-about-berlin#financial-and-legal-questions)**
 
-[^0]: [tagesschau.de](https://www.tagesschau.de/inland/wlan-119.html), [dejure.org](https://dejure.org/gesetze/TMG/8.html)
+[^0]: [dejure.org](https://dejure.org/gesetze/TMG/8.html)
 [^1]: [Finanztip](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
 [^2]: [dejure.org](https://dejure.org/gesetze/TMG/8.html)
 [^3]: [Wikipedia](https://en.wikipedia.org/wiki/Pornography_in_Germany)

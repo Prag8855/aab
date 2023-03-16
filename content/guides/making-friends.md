@@ -3,7 +3,6 @@ Title: How to make friends in Berlin
 Short_title: How to make friends
 Description: A guide to finding hangout buddies in the German capital.
 Date_created: 2019-11-12
-Date_updated: 2021-11-21
 ---
 
 It's not easy to start from scratch in a new city. Close friendships take time to form, and for a while, you will be pretty lonely. This is a reality all expats have to face.
@@ -74,11 +73,11 @@ Berlin has a big international community. You can always find people from your c
 
 I am a motorcyclist, and I met many of my friends through that hobby. We spent more and more time together off the bike, and eventually my motorcycle friends became just friends. There's always room for new members in our group.
 
-Whether you like [board games](/guides/board-games-in-berlin), [hiking](https://www.meetup.com/en-AU/Berlin-Hikers/) or [motorcycles](https://www.facebook.com/groups/150125349005531/), you will find your crowd. There are many kinds of groups on [Meetup.com](https://meetup.com/) and on Facebook, and many of them speak English. You can also find events on [Eventbrite](https://www.eventbrite.de/) and [Facebook](https://www.facebook.com/events/).
+Whether you like [board games](/guides/board-games-in-berlin), [hiking](https://www.meetup.com/en-AU/Berlin-Hikers/) or [motorcycles](https://www.facebook.com/groups/150125349005531/), you will find your crowd. There are many kinds of groups on [Meetup.com](https://www.meetup.com/) and on Facebook, and many of them speak English. You can also find events on [Eventbrite](https://www.eventbrite.de/) and [Facebook](https://www.facebook.com/events/).
 
 ## Take a course
 
-[Learning German](/guides/learn-german) is important, and it's also a good way to meet people. You can [take a class](/guides/learn-german#german-classes-in-berlin), or [join a language tandem](/guides/learn-german#language-tandems). For example, you can take [improvisation classes](https://www.eventbrite.de/d/germany--berlin/improv-class/) or go to [improvisation events](https://www.meetup.com/improv-playground).
+[Learning German](/guides/learn-german) is important, and it's also a good way to meet people. You can [take a class](/guides/learn-german#german-classes-in-berlin), or [join a language tandem](/guides/learn-german#language-tandems). For example, you can take [improvisation classes](https://www.eventbrite.de/d/germany--berlin/improv-class/) or go to [improvisation events](https://www.meetup.com/improv-playground/).
 
 ## Volunteer
 

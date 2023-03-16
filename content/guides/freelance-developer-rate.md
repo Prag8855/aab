@@ -3,7 +3,6 @@ Title: Freelance developer rates in Berlin
 Short_title: Freelance developer rates
 Description: Detailed information about what to charge your freelance client. This guide is frequently updated.
 Date_created: 2018-09-14
-Date_updated: 2022-10-21
 ---
 
 If you want to [become a freelancer in Germany](/guides/become-a-freelancer-in-germany), you must know how much you should charge.
@@ -63,11 +62,11 @@ If you say that you charge 500€ per day, your client will expect to pay 500€
 
 ## Answers from the community
 
-"**500€ a day is really low**. It's on the border of not being worth the hassle of being a freelancer and just accept a full time position. Of course it depends on the person, so assuming an experienced software developer. For me **ideally 600-800€ depending if there's remote options**, part time, or it is 100% on site. **500€ a day would be ok for me if it had full remote possibilities and it was an amazing project**, otherwise too low and would not take it." - [/u/acid2do](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e79gwlp/), October 2018
+"**500€ a day is really low**. It's on the border of not being worth the hassle of being a freelancer and just accept a full time position. Of course it depends on the person, so assuming an experienced software developer. For me **ideally 600-800€ depending if there's remote options**, part time, or it is 100% on site. **500€ a day would be ok for me if it had full remote possibilities and it was an amazing project**, otherwise too low and would not take it." - [/u/acid2do](https://www.reddit.com/r/berlin/comments/9ldlx6/comment/e79gwlp/), October 2018
 
-"**I was just offered up to 1,200€ per day** (~250,000€) for a freelance consultant position with the requirement of strong knowledge of AWS. And I live here in Berlin." - [/u/forsgren123](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e77fefk/), October 2018
+"**I was just offered up to 1,200€ per day** (~250,000€) for a freelance consultant position with the requirement of strong knowledge of AWS. And I live here in Berlin." - [/u/forsgren123](https://www.reddit.com/r/berlin/comments/9ldlx6/comment/e77fefk/), October 2018
 
-"If you're a contractor with experience and clean reputation, **you can easily get 6 month contracts for 500€ brutto per day**." - [/u/GuyWithLag](https://www.reddit.com/r/berlin/comments/9ldlx6/article_about_how_berlin_startups_cant_find/e76msde/), October 2018
+"If you're a contractor with experience and clean reputation, **you can easily get 6 month contracts for 500€ brutto per day**." - [/u/GuyWithLag](https://www.reddit.com/r/berlin/comments/9ldlx6/comment/e76msde/), October 2018
 
 "Never talk about hourly rates, thats not the kind of work you want, talk about day rates and discounts for taking 20 day packages. Whether your day rate is 350 or 1,200€ depends a lot of what exactly you are doing. **I pay designers 350-550€ and devs 450-1,200€ per day**." - Anonymous, September 2018
 
@@ -75,13 +74,13 @@ If you say that you charge 500€ per day, your client will expect to pay 500€
 
 "Charge whatever you think is appropriate and won't screw over other freelancers in your industry. **Do not charge an hourly rate of less than €50** — that goes for any freelancer. Expect to reserve half of your total income for taxes and health insurance — so basically **charge double what you'd like to receive**, all your expenses and cost of living considered." - [/u/pikachewits](https://www.reddit.com/r/berlin/comments/9b8tm8/a_few_questions_for_berlinbased_freelancers/), August 2018
 
-"Maybe the math should be something along these lines: if your gross salary is X, that means you cost the company 125% X (an extra 25%) (of course after taxes you only get part of X, maybe as little as 70%, but that's not the point) an agency will charge your employer some 30% at the very least over your cost, or the cost of employing a freelancer. so **you can easily charge 130% of your current gross**, which should go a distance to cover your expenses as a freelancer, although not so much the risks..." - [/u/basketblog](https://www.reddit.com/r/berlin/comments/8xzonr/going_from_employee_to_freelancer/e278ogw/), July 2018
+"Maybe the math should be something along these lines: if your gross salary is X, that means you cost the company 125% X (an extra 25%) (of course after taxes you only get part of X, maybe as little as 70%, but that's not the point) an agency will charge your employer some 30% at the very least over your cost, or the cost of employing a freelancer. so **you can easily charge 130% of your current gross**, which should go a distance to cover your expenses as a freelancer, although not so much the risks..." - [/u/basketblog](https://www.reddit.com/r/berlin/comments/8xzonr/comment/e278ogw/), July 2018
 
 "If its a remote job, it does not matter much what the Berlin rates are as countries like Poland are very close and I can get good devs there with day rates of 250€. If you pay taxes in Germany as a self-employed person, **I would recommend not to go below 300€ per day**. The upper limit is huge, for some very specific React stuff some frontend devs ask day rates over 1000 euro." - [/u/cYzzie](https://www.reddit.com/r/berlin/comments/8p2g1v/senior_frontend_developer_salary_part_time/), June 2018
 
-"As a rule of thumb, **take what you want to earn per hour after taxes, double it, sum up to the contract time, and add 5-25% on top** based on whether you think the client will pay it or not. Roughly half your income will be eaten by taxes, health insurance, and a tax consultant (*[[Steuerberater]]*) and maybe the IHK *Beitrag* cause you probably need a *Gewerbe*." - [/u/cYzzie](https://www.reddit.com/r/berlin/comments/5cdaao/freelance_vs_fulltime_in_berlin/d9wio8m/), November 2016
+"As a rule of thumb, **take what you want to earn per hour after taxes, double it, sum up to the contract time, and add 5-25% on top** based on whether you think the client will pay it or not. Roughly half your income will be eaten by taxes, health insurance, and a tax consultant (*[[Steuerberater]]*) and maybe the IHK *Beitrag* cause you probably need a *Gewerbe*." - [/u/cYzzie](https://www.reddit.com/r/berlin/comments/5cdaao/comment/d9wio8m/), November 2016
 
-"I am kind of a freelancer (*Arbeitnehmerüberlassung* - basically I do a full time on a fixed contract at a client's place) and **I get something like 55€ per hour**, before all taxes/health/social security contributions." - [/u/popcorp](https://www.reddit.com/r/berlin/comments/5cdaao/freelance_vs_fulltime_in_berlin/d9vna17/), November 2016
+"I am kind of a freelancer (*Arbeitnehmerüberlassung* - basically I do a full time on a fixed contract at a client's place) and **I get something like 55€ per hour**, before all taxes/health/social security contributions." - [/u/popcorp](https://www.reddit.com/r/berlin/comments/5cdaao/comment/d9vna17/), November 2016
 
 "Currently the yearly wage of a software engineer here in Berlin is around 50k EUR gross, seniors earning around 10k more. This is what the employee will receive gross, minus tax and insurances. The employer has his own share that he needs to pay in addition. That would be around 21% on top." - [Andreas Böhrnsen](http://andreas.boehrnsen.de/blog/2016/01/freelance-rate-berlin/), January 2016
 

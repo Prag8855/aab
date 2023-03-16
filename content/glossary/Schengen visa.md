@@ -2,9 +2,8 @@
 Title: What is the Schengen visa or Tourist Visa?
 German_term: Schengen visa
 English_term: 
-Description: 
+Description: A visa that lets you visit Schengen countries, including Germany.
 Date_created: 2018-07-31
-Date_updated: 2022-08-03
 Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/residence-permit.md
 ---
 
@@ -21,6 +20,6 @@ If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Sw
 [^0]: [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp67-emn-wechsel-aufenthaltstiteln-aufenthaltszwecken.pdf?__blob=publicationFile&v=17)
 [^1]: [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en)
 [^2]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
-[^3]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
+[^3]: [gtai.de](https://www.gtai.de/en/invest/investment-guide/who-needs-a-visa--558348/investment-guide/who-needs-a-visa--558348), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
 [^4]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
 [^5]: [§6 AufenthG](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)

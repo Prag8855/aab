@@ -3,7 +3,6 @@ Title: What is the BVG's 10-Uhr-Karte
 Short_title: What is a 10-Uhr-Karte?
 Description: The BVG offers a "10-Uhr-Karte" that is only valid from 10AM. It's cheaper, but there are a few catches.
 Date_created: 2017-08-31
-Date_updated: 2021-10-11
 ---
 
 ## What is the 10-Uhr-Karte?
@@ -35,6 +34,6 @@ From **10AM to 3AM on weekdays**, and at any time during the weekend or public h
 ## Useful links
 
 - [List of all tickets and their price](https://sbahn.berlin/en/tickets/all-tickets/) - S-Bahn Berlin
-- [BVG ticket prices](https://www.bvg.de/en/Tickets/fares)
+- [BVG ticket prices](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets)
 
 [^0]: [vbb.de](https://www.vbb.de/tickets/monatskarten-10-uhr-karte-berlin)

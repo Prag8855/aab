@@ -3,7 +3,6 @@ Title: Which health insurance do you need for a German visa?
 Short_title: Health insurance for your German visa
 Description: This guide shows you how to choose valid health insurance for your German visa application.
 Date_created: 2020-02-21
-Date_updated: 2022-06-19
 Related_reviews: reviews/german-visa-health-insurance/dr-rob-schumacher.md
 ---
 
@@ -92,7 +91,7 @@ First, [read my guide on German health insurance](/guides/german-health-insuranc
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-[^0]: [blog.feather-insurance.com](https://blog.feather-insurance.com/how-can-i-use-expat-health-insurance-for-my-visa/)
+[^0]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982)
 [^2]: [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
@@ -103,6 +102,6 @@ First, [read my guide on German health insurance](/guides/german-health-insuranc
 [^8]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/819822105153161/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [medium.com](https://medium.com/german-health-insurance-guide/list-of-private-health-insurance-companies-in-germany-eb2def6b5874), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/588038748331499/?comment_id=588207591647948), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754404985028207), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=626153777853329), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=627056011096439)
 [^9]: [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
 [^10]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
-[^11]: [medium.com](https://medium.com/@tiahardyrobinson/health-insurance-options-for-the-freelance-or-self-employed-work-permit-in-berlin-bf8ab50291c7), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/561660760969298/?comment_id=598352733966767)
+[^11]: [medium.com](https://tiahardyrobinson.medium.com/health-insurance-options-for-the-freelance-or-self-employed-work-permit-in-berlin-bf8ab50291c7), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/561660760969298/?comment_id=598352733966767)
 [^12]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)

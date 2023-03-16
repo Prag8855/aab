@@ -3,7 +3,6 @@ Title: How to make a noise complaint in Berlin
 Short_title: How to make a noise complaint
 Description: If you are dealing with loud neighbours in Berlin, this is how you file a noise complaint with the Ordnungsamt.
 Date_created: 2018-06-01
-Date_updated: 2022-11-18
 ---
 
 This guide shows you how to deal with noise problems in Berlin.
@@ -28,7 +27,7 @@ Call the *[[Ordnungsamt]]*'s [central point of contact](https://www.berlin.de/ba
 
 ### Online
 
-You can file a noise complaint online on [the Ordnungsamt's website](https://ordnungsamt.berlin.de).
+You can file a noise complaint online on [the Ordnungsamt's website](https://ordnungsamt.berlin.de/frontend/dynamic/#!start).
 
 ![Click the Meldung button](/images/berlin-noise-complaint-1.png "Click the \"Meldung\" button")
 

@@ -3,7 +3,6 @@ Title: How to find English-speaking medical professionals in Berlin
 Short_title: English-speaking doctors
 Description: When it comes to health matters, finding a doctor who speaks your language is especially important. Here are resources to help you find an English-speaking medical professional in Berlin.
 Date_created: 2017-08-31
-Date_updated: 2022-10-15
 ---
 
 This guide helps you find a doctor that speaks English.
@@ -24,15 +23,15 @@ This guide helps you find a doctor that speaks English.
 ## English-speaking therapists and psychiatrists
 
 - [List of English-speaking psychotherapists and psychiatrists in Berlin](/guides/english-speaking-psychiatrists-psychotherapists-berlin) - My own list
-- [Therapie.de directory](https://www.therapie.de/psychotherapie/-ergebnisse-/?ort=Berlin) - Lets you filter by language
-- [ACTBerlin's therapist directory](http://www.actberlin.info/therapist-directory.html) - Languages are listed for each therapist
+- [Therapie.de directory](https://www.therapie.de/therapeutensuche/ergebnisse/?ort=Berlin) - Lets you filter by language
+- [ACTBerlin's therapist directory](https://www.actberlin.info/therapist-directory.html) - Languages are listed for each therapist
 
 ## Medical professional databases with language filters
 
 These websites let you to find doctors by language.
 
-- **[Doctolib](https://doctolib.de)** - Filter by profession, area and language. You can book appointments online.
-- [Doctena](https://en.doctena.de/) - Filter by profession, area and language. You can book appointments online.
+- **[Doctolib](https://www.doctolib.de/)** - Filter by profession, area and language. You can book appointments online.
+- [Doctena](https://www.doctena.de/en/) - Filter by profession, area and language. You can book appointments online.
 - [aerzte-berlin.de](http://www.aerzte-berlin.de/_php/therapie30/fach.php) - Filter by profession, area and language
 - [Kassenärztliche Vereinigung Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche) - Filter by profession, area and keyword. You can also find a doctor by phone; call [116117](tel:+49116117)
 

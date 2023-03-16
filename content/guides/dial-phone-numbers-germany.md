@@ -3,7 +3,6 @@ Title: How to dial phone numbers in Germany
 Short_title: How to dial phone numbers
 Description: Here is how German phone numbers are formatted, and how to call people in Germany.
 Date_created: 2019-05-12
-Date_updated: 2021-05-18
 ---
 
 In this guide, I show you how German phone numbers are formatted, and how to call people in Germany. It's very easy.
@@ -41,5 +40,5 @@ There are 3 ways to call a German phone number:
 - **Dial the local number**  
     For example, **901820**. When you call from the same area, dial the local number.
 
-[^0]: [dialcode.org](http://dialcode.org/Europe/Germany/)
-[^1]: [dialcode.org](http://dialcode.org/Europe/Germany/), [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/List_of_dialling_codes_in_Germany)
+[^0]: [dialcode.org](https://dialcode.org/Europe/Germany/)
+[^1]: [dialcode.org](https://dialcode.org/Europe/Germany/), [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/List_of_dialling_codes_in_Germany)

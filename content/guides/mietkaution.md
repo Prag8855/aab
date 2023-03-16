@@ -111,20 +111,20 @@ Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
-[^0]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-mietkaution.html), [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
+[^0]: [immonet.de](https://www.immonet.de/), [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
 [^1]: [crocodilian.de](https://crocodilian.de/zeitwohnen-blog/kaution-moeblierte-wohnung/)
 [^2]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
 [^3]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html), [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-4330619/), [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
 [^4]: [karaenke.com](https://www.karaenke.com/kein-geld-fuer-kaution/)
 [^5]: [umziehen.de](https://umziehen.de/suche-planung/rueckzahlung-der-mietkaution-fristen-regeln-fuer-die-auszahlung-1941)
-[^6]: [promietrecht.de](https://www.promietrecht.de/Mietsicherheit/Abrechnung-/-Freigabe/Abrechnung-Kaution-Freigabe-oderVerwertung-Ende-Mietvertrag-K1779.htm)
+[^6]: [promietrecht.de](https://www.promietrecht.de/Mietsicherheit/Abrechnung-/-Freigabe/Abrechnung-Kaution-Auszahlung-oderVerwendung-durch-Vermieter-K1779.htm)
 [^7]: [welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html)
 [^8]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/ayaoqu/do_you_always_get_back_your_kaution/ehzkuqu/), [the-red-relocators.com](https://the-red-relocators.com/relocation-guides-germany/real-estate-germany/legalities-of-the-deposit/)
 [^9]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-wegen-mietrueckstand-bzw-mietschulden-einbehalten/)
 [^10]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4), [s-i-m.eu \(archived\)](https://web.archive.org/web/20201230034629/https://20201230034629/mietkaution-richtig-abrechnen-so-geht-es-fuer-vermieter)
 [^11]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4)
 [^13]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/kaution-auch-fuer-befristete-mietverhaeltnisse-1.138864)
-[^14]: [evz.de](https://www.evz.de/en/consumer-topics/living-in-germany/renting-in-germany/renting-property-in-germany/the-tenants-obligations-in-germany/)
+[^14]: [evz.de](https://www.evz.de/en/living-in-germany/renting-in-germany.html)
 [^15]: [focus.de](https://www.focus.de/immobilien/mieten/tausende-euro-mehrkosten-vermeiden-schluessel-verloren-wenn-sie-nicht-aufpassen-kann-es-richtig-teuer-werden_id_4849172.html)
 [^16]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bcuubo/ever_heard_of_paid_service_or_individuals_that/eku1i6u/)
 [^12]: [Welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html), [§548 BGB](https://www.gesetze-im-internet.de/bgb/__548.html)

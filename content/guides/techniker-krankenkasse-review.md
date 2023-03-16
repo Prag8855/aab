@@ -25,7 +25,7 @@ Your health insurance contributions depend on your income, and your situation. A
 
 ## Does TK offer support in English?
 
-**Yes, but not officially.** You can sign up in English on TK's [English website](https://www.tk.de/en) (or use [this simple form](/out/signup-tk)), but the rest of the website is only in German. The members area (*Meine TK*) is only in German. All the letters you get are in German. If they need something from you, they ask in German. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/tk-app-2023650) is available in English. It has the same features as the TK website.
+**Yes, but not officially.** You can sign up in English on TK's [English website](https://www.tk.de/en) (or use [this simple form](/out/signup-tk)), but the rest of the website is only in German. The members area (*Meine TK*) is only in German. All the letters you get are in German. If they need something from you, they ask in German. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/die-app-der-tk-2023650) is available in English. It has the same features as the TK website.
 
 TK does have English phone and chat support, so you can always get help in English. If English support is important to you, [TK](/out/signup-tk) and [Barmer](/out/barmer) are your best options. Barmer also has an English phone line,[^1] but it's a little more expensive.
 
@@ -89,8 +89,8 @@ Meine TK allows you to submit or download documents online. You rarely need to s
 
 Techniker Krankenkasse is very good. It's the best-rated public health insurer in every comparison:
 
-- It was nominated ["Germany's best Krankenkasse"](https://www.tk.de/techniker/unternehmensseiten/unternehmen/ueber-die-tk/tk-deutschlands-beste-krankenkasse-2019-2012454) for the last 13 years.
-- It ranked #1 in the [Deutsche Finanz-Service Institut test](https://www.finanzen.de/news/18936/beste-krankenkasse-fuer-2019-neuer-test-prueft-qualitaet-von-40-kassen).
+- It was nominated ["Germany's best Krankenkasse"](https://www.tk.de/techniker/unternehmensseiten/unternehmen/ueber-die-tk/tk-deutschlands-beste-krankenkasse-2012454) for the last 13 years.
+- It ranked #1 in the [Deutsche Finanz-Service Institut test](https://www.finanzen.de/news/beste-krankenkasse-fuer-2019-neuer-test-prueft-qualitaet-von-40-kassen).
 - It also ranked #1 on [Testsieger-Berichte's test](https://www.testsieger-berichte.de/gesetzliche-krankenversicherung-test/).
 - It ranked #1 next to HEK on [Finanztip's report](https://www.finanztip.de/gkv/).
 

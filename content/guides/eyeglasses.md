@@ -3,7 +3,6 @@ Title: How to buy eyeglasses in Germany
 Short_title: How to buy eyeglasses
 Description: Information about getting glasses in Germany: what health insurance covers, where to buy glasses, and how to pay less.
 Date_created: 2021-03-02
-Date_updated: 2022-11-04
 ---
 
 This guide shows you how to buy eyeglasses in Germany. It explains what your health insurance pays for, and how to pay less for your glasses.
@@ -30,7 +29,7 @@ When you buy glasses, the optician charges your health insurance directly. You d
 **Useful links:**
 
 - [Information about eyeglasses](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen-2001122) (German) - [TK](/glossary/Techniker%20Krankenkasse)
-- [Information about eyeglasses](https://www.aok.de/pk/nordost/inhalt/hilfsmittel-brille-sehhilfe-9/) (German) - AOK
+- [Information about eyeglasses](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/) (German) - AOK
 
 ### Are contact lenses covered?
 
@@ -84,7 +83,7 @@ These stores sell generic frames:
 - **[Fielmann](https://www.fielmann.de/)** (German)  
     The [Nulltarif collection](https://www.fielmann.de/brillen/nulltarif/) costs less than 20€. They have [hundreds of branches](https://www.fielmann.de/niederlassungen/) in Germany.
 - **[Mister Spex](/out/mister-spex)** (German)  
-    Cheaper glasses with generic frames. They have [dozens of branches](https://www.misterspex.de/stores) in Germany. They also let you try different frames at home, and return the ones you don't like.[^9]
+    Cheaper glasses with generic frames. They have [dozens of branches](https://www.misterspex.de/c/sto/1000) in Germany. They also let you try different frames at home, and return the ones you don't like.[^9]
 - **[Robin Look](https://www.robinlook.de/)** (German)  
     Cheaper glasses with generic frames. They have [dozens of branches](https://www.robinlook.de/StoreLocator) in Germany.
 
@@ -104,18 +103,18 @@ You must deduct it as an exceptional burden (*außergewöhnliche Belastung*).[^1
 
 You can't deduct glasses as a business expense (*Werbungskosten*),[^14] unless you only use them at work. For example, if you buy safety goggles for work, you can deduct them as a business expense.
 
-[^0]: [aok.de](https://www.aok.de/pk/nordost/inhalt/hilfsmittel-brille-sehhilfe-9/), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html), [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/hilfsmittel.html)
-[^1]: [patientenberatung.de](https://www.patientenberatung.de/de/recht/krankenkasse/themenspecial-brille), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html)
-[^2]: [brille24.de](https://www.brille24.de/ratgeber/augengesundheit/brille-auf-rezept.html)
-[^3]: [patientenberatung.de](https://www.patientenberatung.de/de/recht/krankenkasse/themenspecial-brille)
-[^4]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen/bestimmung-sehschaerfe-kassenleistung-2004628), [brillen-sehhilfen.de](https://www.brillen-sehhilfen.de/brillenversicherung/brillen-krankenkasse.php), [aok.de](https://www.aok.de/pk/nordost/inhalt/hilfsmittel-brille-sehhilfe-9/)
+[^0]: [aok.de](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html), [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/hilfsmittel.html)
+[^1]: [patientenberatung.de](https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html)
+[^2]: [brille24.de](https://www.brille24.de/ratgeber/augengesundheit/brille-auf-rezept)
+[^3]: [patientenberatung.de](https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen)
+[^4]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen/bestimmung-sehschaerfe-kassenleistung-2004628), [brillen-sehhilfen.de](https://www.brillen-sehhilfen.de/brillenversicherung/brillen-krankenkasse.php), [aok.de](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/)
 [^5]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen/bestimmung-sehschaerfe-kassenleistung-2004628)
 [^6]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/arbschg/__3.html), [blickcheck.de](https://www.blickcheck.de/sehhilfen/brillen/im-alltag/am-arbeitsplatz/zahlt-der-arbeitgeber-die-brille/), [ihk.de](https://www.ihk.de/rhein-neckar/gruendung/unternehmensfuehrung/arbeits-sicher/unterordner-betriebsarzt/bildschirmarbeitsplatzbrillen-4439208)
 [^7]: [versicherungsmonitor.de](https://versicherungsmonitor.de/2011/06/21/unversichert-sieht-man-besser/)
-[^8]: [verti.de](https://www.verti.de/blog/brillenversicherung.jsp)
-[^9]: [misterspex.de](https://www.misterspex.de/service/ansichtsbestellung)
-[^10]: [taxfix.de](https://taxfix.de/steuertipps/brille-von-der-steuer-absetzen/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/brille-als-werbungskosten-absetzen.html)
+[^8]: [verti.de](https://www.verti.de/ratgeber/brillenversicherung/)
+[^9]: [misterspex.de](https://www.misterspex.de/c/rat/165)
+[^10]: [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/brille-von-der-steuer-absetzen/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/brille-als-werbungskosten-absetzen.html)
 [^11]: [kann-man-das-absetzen.de](https://www.kann-man-das-absetzen.de/tag/augenarzt/)
-[^12]: [taxfix.de](https://taxfix.de/steuertipps/was-sind-aussergewoehnliche-belastungen/)
-[^13]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/estdv_1955/__64.html), [taxfix.de](https://taxfix.de/steuertipps/was-sind-aussergewoehnliche-belastungen/), [taxfix.de](https://taxfix.de/steuertipps/brille-von-der-steuer-absetzen/)
+[^12]: [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/was-sind-aussergewoehnliche-belastungen/)
+[^13]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/estdv_1955/__64.html), [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/was-sind-aussergewoehnliche-belastungen/), [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/brille-von-der-steuer-absetzen/)
 [^14]: [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/brille-als-werbungskosten-absetzen.html)

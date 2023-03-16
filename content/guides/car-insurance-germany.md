@@ -134,7 +134,7 @@ If you forgot to declare it, don't worry. You can do it later, retroactively.[^2
 
 If someone is injured in the accident, you should call 112 (the police).
 
-You should then fill a [European accident report](http://cartraveldocs.com/) (*Europäischer Unfallbericht*). Write down the other person's name, address and plate number.[^21]
+You should then fill a [European accident report](https://cartraveldocs.com/) (*Europäischer Unfallbericht*). Write down the other person's name, address and plate number.[^21]
 
 If you have questions about insurance, call the *[Zentralruf der Autoversicherer](https://www.zentralruf.de/en/)* ([+4940300330300](tel:+4940300330300) or [08002502600](tel:08002502600)). They can help you find the insurance details of the other person, even in other EU countries.[^22]
 
@@ -165,7 +165,7 @@ Before you [buy a vehicle](/guides/buying-used-car-in-germany), you must also th
 [^6]: [verivox.de](https://www.verivox.de/kfz-versicherung/werkstattbindung/), [check24.de](https://www.check24.de/kfz-versicherung/lexikon/werkstattbindung/), [Finanztip](https://www.finanztip.de/kfz-versicherung/tarifmerkmale/)
 [^7]: [sparkasse.de](https://www.sparkasse.de/themen/autokauf-ratgeber/teilkasko-vollkasko-autoversicherungen.html#mainNavigation:~:text=Der%20Einfluss%20der%20Schadenfreiheitsklassen), [check24.de](https://www.check24.de/kfz-versicherung/schadenfreiheitsklasse/), [feuersozietaet.de](https://www.feuersozietaet.de/content/versicherungen/kfz-versicherung/schadenfreiheitsklassen/pkw/)
 [^8]: [da-direkt.de](https://www.da-direkt.de/autoversicherung/ratgeber/schadenfreiheitsklasse-rueckstufungstabelle#:~:text=in%20der%20teilkasko%20gibt%20es%20keine%20ruckstufung%20im%20schadenfall)
-[^9]: [verti.de](https://www.verti.de/kfz-versicherung/autoversicherung/sondertarife/danke-car-sharing-tarif/), [carsharing.de](https://carsharing.de/alles-ueber-carsharing/faq/habe-ich-durch-carsharing-teilnahme-spaeter-nachteile-kfz-versicherung), [routetogermany.com](https://routetogermany.com/drivingingermany/insurance)
+[^9]: [verti.de](https://www.verti.de/autoversicherung/danke-car-sharing-tarif/), [carsharing.de](https://carsharing.de/alles-ueber-carsharing/faq/habe-ich-durch-carsharing-teilnahme-spaeter-nachteile-kfz-versicherung), [routetogermany.com](https://routetogermany.com/drivingingermany/insurance)
 [^10]: [routetogermany.com](https://routetogermany.com/drivingingermany/insurance)
 [^11]: [iww.de](https://www.iww.de/vk/kfz-versicherung/alg-ii-sgb-ii-die-beitraege-fuer-eine-kfz-haftpflichtversicherung-koennen-vom-einkommen-abgesetzt-werden-n95238), [Finanztip](https://www.finanztip.de/kfz-versicherung/kfz-haftpflichtversicherung/#c6444:~:text=k%C3%B6nnen%20von%20der%20Steuer%20abgesetzt%20werden)
 [^12]: [check24.de](https://www.check24.de/kfz-versicherung/lexikon/grobe-fahrlaessigkeit/)

@@ -3,7 +3,6 @@ Title: What is the best German bank for you?
 Short_title: How to open a bank account
 Description: This guide shows you how to choose a bank in Germany. It compares German banks and their fees.
 Date_created: 2017-09-01
-Date_updated: 2022-12-20
 ---
 
 This guide helps you choose your first bank account in Germany.
@@ -45,7 +44,7 @@ An expat-friendly bank lets you open an account anyway.
 ### Banks that are not expat-friendly
 
 - **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - They require a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13]
-- **[comdirect](/out/comdirect)** - If you don't have a [registered address](/glossary/Anmeldung), you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents) to open an account. They only speak German.
+- **[comdirect](/out/comdirect)** - If you don't have a [registered address](/glossary/Anmeldung), you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/) to open an account. They only speak German.
 - **[DKB](/out/dkb)** - Recent immigrants can rarely open an account.[^14] They only speak German.
 - **[ING](/out/ing)** - You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15] Some students could open an account with a residence permit. Their customer support speaks English.
 
@@ -138,7 +137,7 @@ Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)*
 
 ### Blocked account (Sperrkonto) for the student visa
 
-If you want to apply for a student visa, you usually need a blocked account (*[[Sperrkonto]]*)[^40] as a [proof of financial resources](https://www.study-in.de/en/plan-your-studies/requirements/8000-euros-for-one-year_27533.php) (*Finanzierungsnachweis*). If you need a blocked account, a few **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** branches offer them.[^41] Some lesser-known banks such as **[Fintiba](/out/fintiba)** and **[X-patrio](https://www.x-patrio.com/blocked-account/exploration)** also offer this service. Deutsche Bank stopped offering blocked accounts.[^42]
+If you want to apply for a student visa, you usually need a blocked account (*[[Sperrkonto]]*)[^40] as a [proof of financial resources](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/) (*Finanzierungsnachweis*). If you need a blocked account, a few **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** branches offer them.[^41] Some lesser-known banks such as **[Fintiba](/out/fintiba)** and **[X-patrio](https://www.expatrio.com:443/blocked-account)** also offer this service. Deutsche Bank stopped offering blocked accounts.[^42]
 
 If you are Indian, you can open a blocking account with **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, and use it to get a German student visa.[^43]
 
@@ -189,7 +188,7 @@ These banks are often more flexible. They accept most passport types, and they l
 
 ### Transfer money from another country
 
-After you open a German bank account, use [Wise](/out/transferwise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly [in the N26 app](https://n26.com/en-eu/transferwise).
+After you open a German bank account, use [Wise](/out/transferwise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly [in the N26 app](https://n26.com/en-de/wise).
 
 ## Which bank should I pick?
 
@@ -208,21 +207,21 @@ If you speak German, look at [DKB](/out/dkb) and [ING](/out/ing). People often r
 If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Online banks like [bunq](/out/bunq), [Monese](/out/monese), [Revolut](/out/revolut) and [Wise](/out/wise-account) also accept more passport types.
 
 [^0]: [ecb.europa.eu](https://www.ecb.europa.eu/paym/integration/retail/sepa/html/index.en.html)
-[^1]: [reddit.com](https://old.reddit.com/r/germany/comments/p8u1gt/my_experience_with_opening_a_bank_account_in/)
+[^1]: [reddit.com](https://old.reddit.com/r/germany/comments/p8u1gt/deleted_by_user/)
 [^2]: [together.bunq.com](https://together.bunq.com/d/8819-together-translations)
 [^3]: [together.bunq.com](https://together.bunq.com/d/43672-deutsche-ibans-hallo-deutschland)
 [^4]: [together.bunq.com](https://together.bunq.com/d/39663-app-not-accepting-address-during-sign-up)
 [^5]: [Screenshot](/images/Screenshot-2021-10-11-at-10.35.05.png), [Screenshot](/images/Screenshot-2021-10-11-at-10.55.05.png)
 [^6]: [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png)
 [^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
-[^8]: [reddit.com/r/Finanzen](https://old.reddit.com/r/Finanzen/comments/9rdnxo/comment/e8wsprl/), [Screenshot](/images/Screenshot-2021-10-11-at-10.35.11.png), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/p8u1gt/my_experience_with_opening_a_bank_account_in/)
+[^8]: [reddit.com/r/Finanzen](https://old.reddit.com/r/Finanzen/comments/9rdnxo/which_online_bank_allow_indian_citizen_living_in/e8wsprl/), [Screenshot](/images/Screenshot-2021-10-11-at-10.35.11.png), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/p8u1gt/deleted_by_user/)
 [^9]: [Twitter](https://twitter.com/n26/status/1020293086730248194)
 [^10]: [allaboutberlin.com](/glossary/Aufenthaltstitel)
 [^11]: [support.n26.com](https://support.n26.com/en-eu/account-and-personal-details/personal-information-and-data/how-to-find-my-iban-or-account-number)
 [^12]: [blog.revolut.com](https://blog.revolut.com/revolut-is-now-available-in-24-languages/)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [reddit.com](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [reddit.com](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
-[^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/ing_asked_specifically_for_my_unbefristete/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592)
+[^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592)
 [^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
 [^17]: [docs.n26.com](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
@@ -239,24 +238,24 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^29]: [berliner-sparkasse.de](https://www.berliner-sparkasse.de/de/home/privatkunden/girokonto/girokonto-komfort.html)
 [^30]: [deutsche-bank.de](https://www.deutsche-bank.de/dam/deutschebank/de/shared/pdf/List-of-Prices-and-Services-Deutsche-Bank-AG.pdf)
 [^31]: [berliner-volksbank.de](https://www.berliner-volksbank.de/privatkunden/girokonten-und-karten/private-girokonten/privat-girokonto.html)
-[^32]: [commerzbank.de](https://www.commerzbank.de/portal/de/privatkunden/konten-karten/produkte/kreditkarten/kreditkarten.html)
-[^33]: [bunq.com](https://www.bunq.com/pricing-sheet)
+[^32]: [commerzbank.de](https://www.commerzbank.de/konten-zahlungsverkehr/produkte/kreditkarten/)
+[^33]: [bunq.com](https://www.bunq.com/documents/pricing)
 [^34]: [together.bunq.com](https://together.bunq.com/d/6635-what-are-my-daily-limits)
-[^35]: [dkb.de](https://www.dkb.de/privatkunden/dkb_cash/)
-[^36]: [ing-diba.de](https://www.ing-diba.de/girokonto/konditionen/)
+[^35]: [dkb.de](https://bank.dkb.de/privatkunden/girokonto)
+[^36]: [ing-diba.de](https://www.ing.de/girokonto/konditionen/)
 [^37]: [1822direkt.de](https://www.1822direkt.de/fileadmin/Home/Dokumente/PDF/pv_aktuelle_Produkte_1822direkt.pdf)
 [^38]: [Wikipedia](https://de.wikipedia.org/wiki/Cash_Group)
 [^39]: [berliner-volksbank.de](https://www.berliner-volksbank.de/content/dam/f0120-0/webn/dokumente/service/agb-und-sonderbedingungen/preisverzeichnis.pdf)
-[^40]: [study-in.de](https://www.study-in.de/en/plan-your-studies/requirements/8000-euros-for-one-year_27533.php), [studying-in-germany.org](https://www.studying-in-germany.org/opening-deutsche-blocked-account-foreign-students/)
+[^40]: [study-in.de](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/), [studying-in-germany.org](https://www.studying-in-germany.org/germany-blocked-account-foreign-students/)
 [^41]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4si4pk/which_bank_i_can_open_sperrkonto_accout_from/), [sparkasse.de](https://www.sparkasse.de/themen/studium/blocked-account.html)
 [^42]: [Twitter](https://twitter.com/DeutscheBank/status/1547823819171061761)
-[^43]: [quora.com](https://www.quora.com/Which-is-the-best-option-for-opening-a-blocked-account-in-Germany-as-an-international-student-Sutor-Bank-online-app-Fintiba-or-Deutsche-Bank-1), [msingermany.co.in](https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)
+[^43]: [Quora](https://www.quora.com/Which-is-the-best-option-for-opening-a-blocked-account-in-Germany-as-an-international-student-Sutor-Bank-online-app-Fintiba-or-Deutsche-Bank-1), [msingermany.co.in](https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)
 [^44]: [Finanztip](https://www.finanztip.de/sichere-banken/einlagensicherung/)
 [^45]: [acceptmyiban.org](https://www.acceptmyiban.org/), [together.bunq.com](https://together.bunq.com/d/42477-bunq-in-deutschland/30)
 [^46]: [Wikipedia](https://en.wikipedia.org/wiki/Girocard)
 [^47]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pdr7di/banking_in_berlin/)
 [^48]: [support.n26.com](https://support.n26.com/en-fr/account-and-personal-details/opening-an-account/sign-up-identification)
 [^49]: [Twitter](https://twitter.com/claraa826/status/1143639719072423936), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eakszf/got_a_letter_from_deutsche_bank_regarding_fatca/)
-[^50]: [americansoverseas.org](https://americansoverseas.org/de/faz-zufallig-amerikaner-verlieren-konto/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/dywhd6/bank_account_termination_question/)
+[^50]: [americansoverseas.org](https://americansoverseas.org/de/nachrichten/faz-zufallig-amerikaner-verlieren-konto/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/dywhd6/bank_account_termination_question/)
 [^51]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/Verification/T&C%20DE-EN,%20SC%20-%20last%20update_%20April%202021.pdf)
 [^52]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken)

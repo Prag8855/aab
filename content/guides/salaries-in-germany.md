@@ -2,7 +2,6 @@
 Title: Salaries in Germany
 Description: An overview of salaries in Germany. This shows you how much you should earn, and how to negotiate a better salary.
 Date_created: 2022-07-20
-Date_updated: 2022-12-19
 ---
 
 When you [look for a job in Germany](/guides/find-a-job-in-berlin), you must know what salary you should get. This helps you negotiate a better salary.
@@ -18,7 +17,7 @@ These tools help you find how much you should earn.
 - [Gehalt.de](https://www.gehalt.de/) (in German) - find salaries by job title
 - [Levels.fyi](https://www.levels.fyi/Salaries/Software-Engineer/Berlin-Germany/) - IT salaries
 - [Startup salary survey](https://berlinstartupjobs.com/startup-salary-survey/) - Yearly survey by BerlinStartupJobs
-- [Developer salaries in Germany (2021)](https://cult.honeypot.io/developer-salary-report-2021/developer-salaries-germany-2021) - Honeypot.io
+- [Developer salaries in Germany (2021)](https://cult.honeypot.io/developer-salary-report-2021/developer-salaries-germany-2021/) - Honeypot.io
 - [Salaries in Berlin](https://www.settle-in-berlin.com/salary-in-berlin/) - longer article by Settle in Berlin
 
 ### Rates for freelancers

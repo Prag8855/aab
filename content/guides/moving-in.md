@@ -3,7 +3,6 @@ Title: How to move into an apartment in Germany
 Short_title: How to move into an apartment
 Description: All the little things you should do when moving to a new address in Germany: address changes, mail forwarding and more.
 Date_created: 2019-10-25
-Date_updated: 2022-12-27
 ---
 
 After you [move to berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
@@ -125,11 +124,11 @@ The electricity contract is activated automatically. No one will visit your apar
 
 ### Buy furniture and appliances
 
-You can buy used appliances from [eBay Kleinanzeigen](http://ebay-kleinanzeigen.de/). Used appliances are *much* cheaper. Professional sellers offer a 12 month warranty and free delivery. Only buy your appliances from sellers with old accounts. Some scammers create accounts, sell broken appliances for a few days, and disappear. I bought many appliances from [Wasch Max](https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
+You can buy used appliances from [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de:443/). Used appliances are *much* cheaper. Professional sellers offer a 12 month warranty and free delivery. Only buy your appliances from sellers with old accounts. Some scammers create accounts, sell broken appliances for a few days, and disappear. I bought many appliances from [Wasch Max](https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
 
 **[Where to buy furniture and house supplies ➞](/guides/where-to-buy-what#furniture-and-house-supplies)**
 
-If you need help to move furniture, you can use a [Möbel Taxi](http://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). You can find more moving services on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+If you need help to move furniture, you can use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). You can find more moving services on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
 
 ### Install light fixtures
 
@@ -175,7 +174,7 @@ You can also [get legal insurance](/guides/legal-insurance). Legal insurance let
 
 In Berlin, rent prices are limited by law. Some landlords charge more than they should.
 
-Use [this calculator](/out/conny-mietpreisbremse-calculator) (English), [this calculator](https://www.berliner-mieterverein.de/mietendeckelrechner.htm) (German) or [this calculator](https://www.mietendeckelrechner.de/) (German) to see if you pay too much rent.
+Use [this calculator](/out/conny-mietpreisbremse-calculator) (English), [this calculator](https://www.berliner-mieterverein.de/mietendeckel.htm) (German) or [this calculator](https://www.mietendeckelrechner.de/) (German) to see if you pay too much rent.
 
 If your rent is above the legal limit, you can get it lowered.
 
@@ -191,7 +190,7 @@ You can [contact a lawyer](/guides/english-speaking-lawyers-berlin), but it's mo
 
 If you don't want to get junk mail, follow these steps:
 
-1. Put a [*Keine Werbung* sticker](https://amzn.to/3V6ZAHF) on your mailbox. If your mailbox is outside, get a UV-resistant sticker, or it will fade after a few months.
+1. Put a [*Keine Werbung* sticker](https://www.amazon.de/s?k=keine+werbung&crid=SNI1PKPSMQIB&sprefix=keine+werbung,aps,100&linkCode=sl2&tag=nicolasboulia-21&linkId=3544edfb5887e8423bdbb5b22bdc7650&language=en_GB&ref_=as_li_ss_tl) on your mailbox. If your mailbox is outside, get a UV-resistant sticker, or it will fade after a few months.
 2. Put your name on [Robinson lists](https://en.wikipedia.org/wiki/Robinson_list) to unsubscribe from most mail advertising:
     1. Join the [DDV Robinson list](https://www.ichhabediewahl.de/?id=122&cid=43)
     2. Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
@@ -242,7 +241,7 @@ If your neighbours are too loud, you can also [make a noise complaint](/guides/n
 
 The tap water in Berlin is hard water.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
 
-- Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://amzn.to/3rAdGEU) or in any supermarket.
+- Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl) or in any supermarket.
 - Boil the water 2 to 3 times to remove the taste. The minerals will deposit at the bottom of the kettle. You can also use a water filter.
 
 **[Water hardness in Berlin](https://www.bwb.de/en/1619.php)** - Berliner Wasserbetriebe

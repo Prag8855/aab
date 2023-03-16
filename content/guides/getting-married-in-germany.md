@@ -1,9 +1,8 @@
 ---
 Title: How to get married in Germany
 Short_title: How to get married
-Description: This guide will help you go through the required paperwork to get legally married in Germany.
+Description: This guide explains the process of getting married in Germany.
 Date_created: 2017-10-09
-Date_updated: 2021-02-25
 ---
 
 *This guide was kindly submitted by Lucile Danilov. Thank you for sharing your experience with the community!*
@@ -22,9 +21,9 @@ As a EU citizen (in my case, French), you will need the following:
 - **A registration certificate for your current address in Germany** (*[Anmeldebestätigung](/guides/replacement-meldebescheinigung) or [Meldebescheinigung](/guides/replacement-meldebescheinigung)*). This document must be dated less than 3 weeks. It must reflect your current address. If you have been stupid like me and forgot to register yourself when you moved back to Germany, you will have to pay an extra fee. Keep in mind that you need to [register yourself in Germany](/guides/anmeldung-in-english-berlin) at the civil office (*Bürgeramt*) as soon as you can
 - **A valid passport**. Make sure your passport is not expiring anytime soon. You will need to bring the original document and the city office will make a copy themselves
 - **An income certificate** (*Einkommensbescheinigung*). If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](http://www.dautphetal.de/media/custom/2224_71_1.PDF?1366885698) (here's [a copy](/images/2224_71_1.pdf)) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
-- **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*) This certificate is delivered by your embassy and can be sent by postal mail provided you send them all the necessary elements. [Here is a page](https://de.ambafrance.org/SE-MARIER-EN-ALLEMAGNE,9153) from the French embassy on the “*certificat de capacité à mariage*”. In order to obtain this certificate, you will need to provide yet another copy of some documents mentioned above, so make sure to do multiple copies of each. Note that some countries are not allowed to provide the *Ehefähigkeitszeugnis* in the name of Germany while some other are. France’s certificate is not legally an *Ehefähigkeitszeugnis* and had to be approved by the superior court *Kammergericht*, this obviously also costs money and time. In our case, we had to pay around €75 but got lucky on the waiting and got our papers within a week – we were told it can take between 1 and 5 weeks.
+- **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*) This certificate is delivered by your embassy and can be sent by postal mail provided you send them all the necessary elements. [Here is a page](https://de.ambafrance.org/Se-marier-en-Allemagne-et-apres-le-mariage) from the French embassy on the “*certificat de capacité à mariage*”. In order to obtain this certificate, you will need to provide yet another copy of some documents mentioned above, so make sure to do multiple copies of each. Note that some countries are not allowed to provide the *Ehefähigkeitszeugnis* in the name of Germany while some other are. France’s certificate is not legally an *Ehefähigkeitszeugnis* and had to be approved by the superior court *Kammergericht*, this obviously also costs money and time. In our case, we had to pay around €75 but got lucky on the waiting and got our papers within a week – we were told it can take between 1 and 5 weeks.
 
-Of course, your fiancé(e) will need to bring the same papers, [translated to German](https://www.awin1.com/awclick.php?gid=363917&mid=16534&awinaffid=559395&linkid=2393343&clickref=) if necessary. In my case, my husband’s name was changed after emigrating from Ukraine, so he had to get a certificate of name change (*Bescheinigung über Namensänderung*) as well as a certificate of nationality (*Staatsangehörigkeitsurkunde*). Fun times.
+Of course, your fiancé(e) will need to bring the same papers, [translated to German](/out/lingoking) if necessary. In my case, my husband’s name was changed after emigrating from Ukraine, so he had to get a certificate of name change (*Bescheinigung über Namensänderung*) as well as a certificate of nationality (*Staatsangehörigkeitsurkunde*). Fun times.
 
 ## The proceedings
 

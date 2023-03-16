@@ -94,7 +94,7 @@ German credit card machines don't have a button for tip. When it's time to pay, 
 It's better if you pay by card, but tip in cash.[^20]
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/Gratuity#Germany), [ZHAW study](https://www.zhaw.ch/de/medien/medienmitteilungen/detailansicht-medienmitteilung/event-news/mehrheit-der-gaeste-gibt-trinkgeld-in-restaurants/) (2022)
-[^1]: [reddit.com](https://www.reddit.com/r/germany/comments/b48xti/how_does_one_tip_in_berlin/ej56dbp/), [reddit.com](https://www.reddit.com/r/germany/comments/2wptvp/do_you_guys_give_tips/cotaw6a/)
+[^1]: [reddit.com](https://www.reddit.com/r/germany/comments/b48xti/comment/ej56dbp/), [reddit.com](https://www.reddit.com/r/germany/comments/2wptvp/comment/cotaw6a/)
 [^2]: [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
 [^3]: [ruv.de](https://www.ruv.de/ratgeber/freizeit-reise/freizeit-urlaub/trinkgeld-urlaub), [de.statista.com](https://de.statista.com/statistik/daten/studie/1594/umfrage/hoehe-des-trinkgeld-welches-deutsche-beim-essen-gehen-geben/), [web.de](https://web.de/magazine/reise/trinkgeld-deutschland-33468354), [giga.de](https://www.giga.de/artikel/trinkgeld-bei-kartenzahlung-wie-macht-man-es-am-besten-wer-bekommt-es/)
 [^4]: [web.de](https://web.de/magazine/reise/trinkgeld-deutschland-33468354#:~:text=und%20zehn%20Prozent.-,je%20hoher%20der%20betrag,-%2C%20desto%20n%C3%A4her%20bewegt), [statista.com](https://de.statista.com/statistik/daten/studie/1594/umfrage/hoehe-des-trinkgeld-welches-deutsche-beim-essen-gehen-geben/)
@@ -107,9 +107,9 @@ It's better if you pay by card, but tip in cash.[^20]
 [^11]: [nordbayern.de](https://www.nordbayern.de/ratgeber/geld/trinkgeld-geben-taxi-hotel-restaurant-1.12202633), [old.reddit.com](https://old.reddit.com/r/Finanzen/comments/ss6w2k/wie_viel_trinkgeld_gebt_ihr/hwwnzgw/)
 [^12]: [reddit.com](https://www.reddit.com/r/berlin/comments/3cnk5v/tipping_barbers/), [karlsruhe-insider.de](https://www.karlsruhe-insider.de/verbraucher/gehoert-sich-so-so-viel-trinkgeld-wird-beim-friseur-erwartet-120058), [welt.de](https://www.welt.de/iconist/service/article242391869/Wie-viel-Trinkgeld-Ein-Leitfaden-fuer-Friseur-Paketbote-und-Co.html)
 [^13]: [reddit.com](https://www.reddit.com/r/germany/comments/3xtrql/tipping_in_german_hotels/)
-[^14]: [Wikipedia](https://en.wikipedia.org/wiki/Gratuity#Germany), [reddit.com](https://www.reddit.com/r/germany/comments/flzz9/what_is_general_rule_for_tipping_in_germany/c1h07rf/), [reddit.com](https://www.reddit.com/r/berlin/comments/20t6bx/tipping_etiquette_in_berlin/cg6jubf/), [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
+[^14]: [Wikipedia](https://en.wikipedia.org/wiki/Gratuity#Germany), [reddit.com](https://www.reddit.com/r/germany/comments/flzz9/comment/c1h07rf/), [reddit.com](https://www.reddit.com/r/berlin/comments/20t6bx/comment/cg6jubf/), [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
 [^15]: [dict.cc](https://www.dict.cc/?s=stimmt%20so)
-[^16]: [reddit.com](https://www.reddit.com/r/germany/comments/b48xti/how_does_one_tip_in_berlin/ej5msay/)
+[^16]: [reddit.com](https://www.reddit.com/r/germany/comments/b48xti/comment/ej5msay/)
 [^17]: [focus.de](https://www.focus.de/finanzen/news/wie-viel-geben-sie-so-geizig-sind-die-deutschen-beim-trinkgeld_id_187660387.html)
 [^18]: [jagermeister.com](https://www.jagermeister.com/de-DE/trinkgeld-gehoert-dazu) (2022)
 [^19]: [worldtravelers.org](https://worldtravelers.org/travel-tips-tipping-guide.asp), [nordbayern.de](https://www.nordbayern.de/ratgeber/geld/trinkgeld-geben-taxi-hotel-restaurant-1.12202633)

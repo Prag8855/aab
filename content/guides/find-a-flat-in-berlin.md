@@ -3,7 +3,6 @@ Title: How to find an apartment in Berlin
 Short_title: How to find an apartment
 Description: This guide shows you how to find your first apartment or flat share in Berlin.
 Date_created: 2017-09-20
-Date_updated: 2023-01-06
 ---
 
 This guide shows you how to find your first apartment or [WG](/glossary/WG) in Berlin.
@@ -146,7 +145,7 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 
 You can rent a vacation apartment. You rent by the day, and you can rarely do your *[[Anmeldung]]* there.
 
-- **[AirBnB](https://airbnb.com)**
+- **[Airbnb](https://airbnb.com)**
 - [9flats](https://www.9flats.com/de/berlin-deutschland)
 - [Gästewohnung finden](https://www.wohnungsbaugenossenschaften.de/gaestewohnung-finden/guestflats)
 - [Monteurzimmer.de](https://www.monteurzimmer.de/en)

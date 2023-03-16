@@ -3,7 +3,6 @@ Title: How to deal with hay fever in Germany
 Short_title: How to deal with hay fever
 Description: Tips for fighting a pollen allergy in Germany, and where to get allergy pills.
 Date_created: 2022-05-23
-Date_updated: 2022-05-23
 ---
 
 Hay fever (*Heufieber* or *Heuschnupfen*) is an allergy to pollen. These are the symptoms:[^0]
@@ -33,7 +32,7 @@ You can buy pollen allergy pills in these places:
 
 - At any pharmacy (*Apotheke*)
 - In online pharmacies like [Shop Apotheke](https://www.shop-apotheke.com/search.htm?q=heufieber)
-- On [Amazon](https://amzn.to/3wCJbR4)
+- On [Amazon](https://www.amazon.de/s?k=loratadin&sprefix=lorata,aps,82&linkCode=sl2&tag=nicolasboulia-21&linkId=3d9abe96917304cfb9b19d6d61467af7&language=en_GB&ref_=as_li_ss_tl)
 
 You can't buy allergy pills from dm or Rossmann.
 
@@ -53,11 +52,11 @@ You can't buy allergy pills from dm or Rossmann.
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/Allergic_rhinitis)
 [^1]: [allergie.hexal.de](https://allergie.hexal.de/pollenflug/pollenflugkalender/)
-[^2]: [amzn.to](https://amzn.to/3wCJbR4)
+[^2]: [amzn.to](https://www.amazon.de/s?k=loratadin&sprefix=lorata,aps,82&linkCode=sl2&tag=nicolasboulia-21&linkId=3d9abe96917304cfb9b19d6d61467af7&language=en_GB&ref_=as_li_ss_tl)
 [^3]: [Wikipedia](https://en.wikipedia.org/wiki/Loratadine)
-[^4]: [amzn.to](https://amzn.to/3akQXrv)
+[^4]: [amzn.to](https://www.amazon.de/s?k=cetirizin&crid=3HVEP2IR6O3R8&sprefix=cetirizin,aps,128&linkCode=sl2&tag=nicolasboulia-21&linkId=59e4324024cef6bba3567162a231c992&language=en_GB&ref_=as_li_ss_tl)
 [^5]: [Wikipedia](https://en.wikipedia.org/wiki/Cetirizine)
-[^6]: [amzn.to](https://amzn.to/3ySqsDK)
+[^6]: [amzn.to](https://www.amazon.de/s?k=Levocetirizine&crid=2VL8QPR805YV7&sprefix=levocetirizine,aps,155&linkCode=sl2&tag=nicolasboulia-21&linkId=0d3a47a008269dd1b390bfff02f9b709&language=en_GB&ref_=as_li_ss_tl)
 [^7]: [Wikipedia](https://en.wikipedia.org/wiki/Levocetirizine#Availability)
 [^8]: [shop-apotheke.com](https://www.shop-apotheke.com/search.htm?i=1&q=Mometa&searchChannel=algolia)
 [^9]: [krankenkassenzentrale.de](https://www.krankenkassenzentrale.de/wiki/heuschnupfen#:~:text=allerdings%20mussen%20gesetzlich%20versicherte%20die%20rezeptfreien%20medikamente%20gegen%20die%20fruhjahrsallergie%20selbst%20zahlen)

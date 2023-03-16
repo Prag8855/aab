@@ -26,14 +26,14 @@ You might need a visa to visit Germany. It depends on your citizenship:
 
 ### By plane
 
-Use [Kayak](https://www.kayak.com/), [Omio](/out/omio), [Rome2Rio](https://rome2rio.com) or [Google Flights](https://www.google.com/flights) to find a flight to Berlin. You will arrive at the **[Berlin Brandenburg](https://goo.gl/maps/iERwxpTUr7EnYFnKA) airport (BER)**. It's 30-60 minutes from Berlin by train.
+Use [Kayak](https://www.kayak.de/?ispredir=true), [Omio](/out/omio), [Rome2Rio](https://www.rome2rio.com/) or [Google Flights](https://www.google.com/flights) to find a flight to Berlin. You will arrive at the **[Berlin Brandenburg](https://goo.gl/maps/iERwxpTUr7EnYFnKA) airport (BER)**. It's 30-60 minutes from Berlin by train.
 
 There are 3 ways to get from the BER airport to the city:
 
 - **Use [public transport](/guides/public-transit)**  
     You can take a train from BER airport to Berlin, even at night. There are trains every few minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) to find directions. The train ride takes 30 to 45 minutes. Buy an [ABC ticket](/guides/public-transit#tariff-zones) at the ticket machines on the train platform. It costs {{BVG_ABC_TICKET|cur}}€.[^2] [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. For more information, read the [Berlin public transit guide](/guides/public-transit).
 - **Take a taxi**  
-    There are taxis waiting outside the BER airport. A taxi from the airport to the city centre costs around 50€.[^3] It's a bit faster than public transport, but it's very expensive. [Uber](https://www.uber.com/global/en/airports/ber/) and [FreeNow](https://free-now.com/de/flughafen) also give rides from the airport to the city. German taxis must accept cash and credit cards.[^4]
+    There are taxis waiting outside the BER airport. A taxi from the airport to the city centre costs around 50€.[^3] It's a bit faster than public transport, but it's very expensive. [Uber](https://www.uber.com/global/en/airports/ber/) and [FreeNow](https://www.free-now.com/de/flughafen) also give rides from the airport to the city. German taxis must accept cash and credit cards.[^4]
 - **Rent a car**  
     You can rent a car at the airport. There are kiosks for different car rental companies. You can also use car sharing services like [Miles](https://support.miles-mobility.com/hc/en-us/articles/360021219459-Airport-rate-Berlin-Potsdam), and drive to Berlin for only 25€.
 
@@ -43,7 +43,7 @@ Intercity buses are usually cheaper than planes and trains. They are not very co
 
 Most buses arrive at [BER airport](https://goo.gl/maps/xwWrEedtNxMBxeX96), [Zentraler Omnibusbahnhof](https://goo.gl/maps/m5e93UyQamw4YvDY6) (ZOB) or [Alexanderplatz](https://goo.gl/maps/Mg5nKPhJzAS7fLNdA). BER airport is around 45 minutes from the centre. ZOB is 25 minutes from the centre. Alexanderplatz is in the city centre. If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#tariff-zones) to get to Berlin.
 
-Use [Rome2Rio](https://rome2rio.com) or [Omio](/out/omio) to find a bus to Berlin. If you buy your ticket in advance, it's cheaper.
+Use [Rome2Rio](https://www.rome2rio.com/) or [Omio](/out/omio) to find a bus to Berlin. If you buy your ticket in advance, it's cheaper.
 
 ### By train
 
@@ -51,7 +51,7 @@ Intercity trains are a little more expensive than buses, but they are faster and
 
 Most trains stop at the central train station, [Berlin Hauptbahnhof](https://goo.gl/maps/yXUBcBH9cGnx1dP46). This is in the middle of Berlin.
 
-Use [Rome2Rio](https://rome2rio.com), [Omio](/out/omio), [Bahn.de](/out/bahn) or [Google Maps](https://maps.google.com/) to find a train to Berlin. If you buy your tickets in advance, they will be cheaper.
+Use [Rome2Rio](https://www.rome2rio.com/), [Omio](/out/omio), [Bahn.de](/out/bahn) or [Google Maps](https://maps.google.com/) to find a train to Berlin. If you buy your tickets in advance, they will be cheaper.
 
 ### By car or motorcycle
 
@@ -61,9 +61,9 @@ Most parking spaces in the centre cost money.[^5] They cost 1€ to 4€ per hou
 
 You can also park outside the city and take the train to Berlin. There are free [Park and Ride (P+R) car parks](https://www.google.com/maps/d/viewer?mid=1lfZOUDUCPL1UgzHwGptdyyfhwEk). You can park your car there for free, and take the train to Berlin. You can find them on [this map](https://www.vbb.de/en/vbb-travel-info/) (in Multi-mobility), or with [this list](https://www.visitberlin.de/en/car-parks).
 
-The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml). You need a [green environmental sticker](https://www.visitberlin.de/en/berlin-environmental-zone) to drive in this area. You can get a green sticker at most gas stations around Berlin. Motorcycles don't need a green sticker to enter this zone.
+The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin.de/en/tourism/travel-information/1760452-2862820-environmental-zone.en.html). You need a [green environmental sticker](https://www.visitberlin.de/en/berlin-environmental-zone) to drive in this area. You can get a green sticker at most gas stations around Berlin. Motorcycles don't need a green sticker to enter this zone.
 
-**[Information about the environmental zone](https://www.berlin.de/senuvk/umwelt/luftqualitaet/umweltzone/index_en.shtml)** - Berlin.de
+**[Information about the environmental zone](https://www.berlin.de/en/tourism/travel-information/1760452-2862820-environmental-zone.en.html)** - Berlin.de
 
 ### By car sharing
 
@@ -73,7 +73,7 @@ The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin
 
 ### How to find your way around Berlin
 
-[Google Maps](https://www.google.com/maps/) works really well in Berlin. It also works offline. The [BVG app](http://www.bvg.de/en/Travel-information/Mobile) and the [Jelbi app](https://www.jelbi.de/en/home/) let you see train schedules and buy train tickets, but it does not work offline. [Maps.me](https://maps.me/) and [OsmAnd](https://osmand.net/) have offline maps and directions.
+[Google Maps](https://www.google.com/maps/) works really well in Berlin. It also works offline. The [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) and the [Jelbi app](https://www.jelbi.de/en/home/) let you see train schedules and buy train tickets, but it does not work offline. [Maps.me](https://maps.me/) and [OsmAnd](https://osmand.net/) have offline maps and directions.
 
 ### How to use public transit in Berlin
 
@@ -101,7 +101,7 @@ You don't need to rent a car in Berlin. It's easier to use public transit. If yo
 
 ## What to see and do in Berlin
 
-There are many lists of things to see in Berlin. See [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https://en.wikivoyage.org/wiki/Berlin) and [Lonely Planet](https://amzn.to/2KkR3N4).
+There are many lists of things to see in Berlin. See [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https://en.wikivoyage.org/wiki/Berlin) and [Lonely Planet](https://www.amazon.com/Lonely-Planet-Berlin-Travel-Guide/dp/1786572257/ref=as_li_ss_tl?ie=UTF8&qid=1533201606&sr=8-1&keywords=lonely+planet+berlin&linkCode=sl1&tag=kickawishl-20&linkId=0d121d328aea2481af56b20ad0bd7294&language=en_US).
 
 ### Main attractions
 
@@ -140,11 +140,11 @@ There are many lists of things to see in Berlin. See [visitBerlin.de](https://ww
 - [**Victory Column**](https://goo.gl/maps/Q6xCLbCtbsWsePZw7) (*Siegessäule*)  
     The Victory Column in Tiergarten sits on Berlin's East-West axis. You can go up the tower and see Tiergarten, the Brandenburg Gate and the Reichstag building from above.
 
-**Useful link:** [visitBerlin.de](https://www.visitberlin.de/en/) - Official website with really good information
+**Useful link:** [visitBerlin.de](https://www.visitberlin.de/en) - Official website with really good information
 
 ### Events
 
-You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin) and [Resident Advisor](https://ra.co/events/de/berlin). You can find live music on [Resident Advisor](https://www.residentadvisor.net/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php).
+You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin) and [Resident Advisor](https://ra.co/events/de/berlin). You can find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php).
 
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
@@ -171,9 +171,9 @@ If you have a bit more time, [**Potsdam**](https://en.wikivoyage.org/wiki/Potsda
 
 Berlin is famous for its techno clubs. It can be hard to get into certain clubs. Clubs don't let everyone in. For example, they often reject tourists, big groups, drunk people, and people under 21 years old.[^7] In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Most clubs have a cover charge. You must pay 5€ to 15€ to get in. Clubs in Berlin stay open until the morning. The party starts late, and the busiest time is around 2AM.
 
-You can buy presale tickets for club events on [Resident Advisor](https://www.residentadvisor.net/guide/de/berlin). When you have tickets, it's easier to get in.[^9]
+You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9]
 
-You can find club events on [Resident Advisor](https://www.residentadvisor.net/guide/de/berlin), or follow clubs on Facebook. [WikiTravel](http://wikitravel.org/en/Berlin#Clubs) also has a short guide to Berlin clubs.
+Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow clubs on Facebook and Instagram.
 
 ## What to eat in Berlin
 
@@ -187,7 +187,7 @@ You can find club events on [Resident Advisor](https://www.residentadvisor.net/g
 
 **[Cuisine of Berlin](https://en.wikipedia.org/wiki/Cuisine_of_Berlin)** - Wikipedia
 
-[Fleischerei Domke](https://goo.gl/maps/ZppQcDQJmj9JpyBF6) and [Englers Unikat](https://g.page/EnglersUnikat?share) have cheap, traditional working class dishes. For something fancier, try [Max und Moritz](http://www.maxundmoritzberlin.de/).
+[Fleischerei Domke](https://goo.gl/maps/ZppQcDQJmj9JpyBF6) and [Englers Unikat](https://g.page/EnglersUnikat?share) have cheap, traditional working class dishes. For something fancier, try [Max und Moritz](https://maxundmoritzberlin.de/).
 
 ### Tipping in restaurants
 
@@ -202,8 +202,8 @@ There is no "downtown Berlin". There are many popular neighbourhoods, and each o
 [![2000Px S Bahn Ring Berlin Svg](/images/2000px-S-Bahn-Ring_Berlin.svg.png "The central parts of Berlin are inside the Ringbahn.")](/images/2000px-S-Bahn-Ring_Berlin.svg.png)
 
 - **Hotels:** [Booking.com](http://booking.com/)
-- **Hostels:** [Hostelworld](http://hostelworld.com/)
-- **Vacation apartments:** [AirBnB](http://airbnb.com/) or [Wimdu](https://www.wimdu.de/)
+- **Hostels:** [Hostelworld](https://www.hostelworld.com:443/)
+- **Vacation apartments:** [Airbnb](https://www.airbnb.com/) or [Wimdu](https://www.wimdu.de/)
 - **Long term apartments:** see [How to find an apartment in Berlin](/guides/find-a-flat-in-berlin)
 
 If you are more patient, you can also use [CouchSurfing](https://www.couchsurfing.com) and [BeWelcome](https://www.bewelcome.org/). People host visitors for free, and spend time with them during their visit. You can meet very interesting people like this.
@@ -253,7 +253,7 @@ You can buy a prepaid SIM card at the airport, and at Vodafone, Telekom and O2 s
 
 [Google Maps](https://www.google.com/maps) works really well in Berlin. If you need offline maps, use [OsmAnd](https://osmand.net/) or [Maps.me](https://maps.me/). Google Maps [also works offline](https://support.google.com/maps/answer/6291838?co=GENIE.Platform=Android&hl=en), but you can't get directions.
 
-You should also download the [BVG app](https://www.bvg.de/en/tickets-tariffs/all-apps/ticket-app) or the [Jelbi app](https://www.jelbi.de/en/home/) to buy train tickets. It's easier than the ticket machines, and it's in English. The Jelbi app also lets you book cars, scooters, bicycles and taxis.
+You should also download the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) or the [Jelbi app](https://www.jelbi.de/en/home/) to buy train tickets. It's easier than the ticket machines, and it's in English. The Jelbi app also lets you book cars, scooters, bicycles and taxis.
 
 ## Be a good tourist
 
@@ -288,7 +288,7 @@ Berlin is a safe city even at night, but crimes still happen. Pickpockets steal 
 
 [Cannabis is illegal in Germany](/guides/is-marijuana-legal). You can still buy it from dealers in parks, but it's a really bad idea. You will get bad weed, and it's often contaminated with chemicals.
 
-Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy in Berlin, the [KnowDrugs](https://knowdrugs.app/en/) app can help you verify what you buy.
+Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy in Berlin, the [KnowDrugs](https://knowdrugs.app/) app can help you verify what you buy.
 
 **[How to buy weed in Berlin ➞](/guides/buying-marijuana-in-berlin)**
 
@@ -302,7 +302,7 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 
 [^0]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744)
 [^1]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf)
-[^2]: [bvg.de](https://www.bvg.de/en/tickets-tariffs/all-tickets/single-tickets/single-ticket)
+[^2]: [bvg.de](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/single-tickets/single-ticket)
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^5]: [hotel.de](https://www.hotel.de/blog/parken-in-berlin/)

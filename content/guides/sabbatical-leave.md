@@ -3,7 +3,6 @@ Title: How to take a sabbatical in Germany
 Short_title: How to take a sabbatical
 Description: This guide shows you how to take a long vacation in Germany, also known as a sabbatical.
 Date_created: 2022-09-07
-Date_updated: 2022-09-12
 ---
 
 Sabbatical leave is a long, unpaid vacation from work. People usually take a sabbatical to travel, study, relax, or work on personal projects.
@@ -100,4 +99,4 @@ If you want to get training for your job, take a *[[Bildungsurlaub]]*.
 [^1]: [arbeitsrechte.de](https://www.arbeitsrechte.de/unbezahlter-urlaub/anspruch/#:~:text=nein.%20ein%20gesetzlicher%20anspruch%20auf%20unbezahlten%20urlaub%20existiert%20nicht.)
 [^2]: [arbeitsrechte.de](https://www.arbeitsrechte.de/unbezahlter-urlaub/anspruch/#:~:text=bis%20zu%20einem%20monat%20bleibt)
 [^3]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-arbeitnehmer/haeufige-fragen-fuer-arbeitnehmer/unbezahlter-urlaub-versicherung-weiterversicherung-2005312)
-[^4]: [personio.de](https://www.personio.de/hr-lexikon/unbezahlter-urlaub/#1), [impulse.de](https://www.impulse.de/recht-steuern/rechtsratgeber/unbezahlter-urlaub/7290147.html#Gleichbehandlungsgrundsatz)
+[^4]: [personio.de](https://www.personio.de/hr-lexikon/unbezahlter-urlaub/#1), [impulse.de](https://www.impulse.de/personal/unbezahlter-urlaub/7290147.html#Gleichbehandlungsgrundsatz)

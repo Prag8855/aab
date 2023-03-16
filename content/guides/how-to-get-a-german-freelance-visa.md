@@ -3,7 +3,6 @@ Title: How to apply for the German Freelance Visa
 Short_title: How to get a freelance visa
 Description: The process and the requirements for obtaining a German freelance visa or a German artist visa. This is how you become self-employed in Germany.
 Date_created: 2018-02-09
-Date_updated: 2023-01-04
 Related_reviews: reviews/how-to-get-a-german-freelance-visa/kathleen-parker.md, reviews/how-to-get-a-german-freelance-visa/johanna-sieben.md
 ---
 
@@ -56,7 +55,7 @@ If you plan to work for a single client, you will rarely get a freelance visa.
 
 Before you apply, you should know if you are freelance (*[[Freiberufler]]*) or self-employed (*[[Selbständig]]*). If you are *Selbständig*, you must bring more documents to your interview.[^4]
 
-- **Freiberufler**: Artists, teachers, scientists, engineers, software developers and other independent professionals are *Freiberufler* according to [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html).[^5] Use the [incomplete list of freelance professions](https://www.hk24.de/produktmarken/beratung-service/recht_und_steuern/steuerrecht/real_kommunale_steuern/abgrenzung-gewerbebetrieb-freie-berufe/1157144#titleInText8). When you apply as a *Freiberufler*, it's a little easier. There are not as many documents to prepare.[^5]
+- **Freiberufler**: Artists, teachers, scientists, engineers, software developers and other independent professionals are *Freiberufler* according to [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html).[^5] Use the [incomplete list of freelance professions](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8). When you apply as a *Freiberufler*, it's a little easier. There are not as many documents to prepare.[^5]
 - **Selbständiger**: If you are not a *Freiberufler*, you are *Selbständig*. When you apply as a *Selbständiger*, it's a little harder. You must prepare more documents.[^6]
 
 ### For self-employed people (Selbständiger)
@@ -204,7 +203,7 @@ The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to fin
 
 You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 
-Your interview will probably be in German. Some interviewers speak English, but this is not guaranteed. If you don't speak German, bring an interpreter with you. If you can afford it, [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin). I often work with [Kathleen Parker from Red Tape Translation](https://www.redtapetranslation.com/services/take-a-translator-aab/). She is my expert on German bureaucracy. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+Your interview will probably be in German. Some interviewers speak English, but this is not guaranteed. If you don't speak German, bring an interpreter with you. If you can afford it, [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin). I often work with [Kathleen Parker from Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/). She is my expert on German bureaucracy. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
 ### Step 8: Receive your freelance visa
 
@@ -347,7 +346,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
         *[Template](http://www.berlin.de/labo/_assets/zuwanderung/geschaeftskonzept.pdf)*  
         This document contains the industry, the target customers, marketing and sales strategy and the market forecasts of your company.
 - **Financing plan / Capital budget** *(Finanzierungsplan)*  
-    *[Template](/docs/financing-plan-template) - [instructions](http://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/)*  
+    *[Template](/docs/financing-plan-template) - [instructions](https://www.essentialpackingchecklists.com/german-freelance-visa-finance-forms/)*  
     This document details how you plan to finance your business. In this document, you must list your liquid funds, tangible assets, loans, venture capital etc.[^39]
 - **2 or more [letters of intent](/glossary/Absichtserkl%C3%A4rung) or contracts** (*[[Absichtserklärung]]*)  
     *[Template](/docs/german-freelance-visa-letter-of-intent) - [example](/docs/letter-of-intent-example-german-freelance-visa) - [detailed guide](/guides/freelance-visa-letter-of-intent)*  
@@ -412,10 +411,10 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^6]: [berlin.de](https://service.berlin.de/dienstleistung/305249/)
 [^7]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518)
 [^8]: [berlin.de \(archived\)](https://web.archive.org/web/20210505231153/https://20210505231153/willkommenszentrum/en/work-and-education/freelance-work/)
-[^9]: [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
+[^9]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^10]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/71aczx/approval_to_freelance_on_a_student_visa/)
-[^11]: [berlinlogs.com](https://www.berlinlogs.com/2015/09/german-freelancer-visa-guide-to.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/8ui2ez/visa_case_worker_consulting_local_institut_f%C3%BCr/e1hnxbz/)
-[^12]: [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/freelancer/)
+[^11]: [berlinlogs.com](https://berlinlogs.com), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/8ui2ez/visa_case_worker_consulting_local_institut_f%C3%BCr/e1hnxbz/)
+[^12]: [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/freelancer-visa/)
 [^13]: [wir-gruenden-in-deutschland.de](http://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/)
 [^14]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php)
 [^15]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
@@ -423,10 +422,10 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^17]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^19]: [Screenshot](/images/Screenshot-2022-03-29-at-17.42.31.png)
-[^20]: [Red Tape Translation](https://www.redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/)
+[^20]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/)
 [^21]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/506500586485316/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/506834686451906/)
-[^22]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518), [berlin.de](https://www.berlin.de/labo/willkommen-in-berlin/aufenthalt/erwerbstaetigkeit/selbststaendige-taetigkeit/artikel.376800.en.php)
-[^23]: [IHK Berlin](https://www.ihk-berlin.de/English/en/s_987416/Starting_a_business_in_berlin/Registering_a_Business/Registering_a_business/3310164)
+[^22]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/)
+[^23]: [IHK Berlin](https://www.ihk.de/berlin/english/en/s-987416/starting-a-business-in-berlin/registering-a-business/registering-a-business-3310164)
 [^24]: [web.archive.org](https://web.archive.org/web/20200803233159/http://immigrate-to-germany.blogspot.com/2018/06/how-to-get-appointment-for-german-work-permit-or-employment-visa-from-india-part-1.html), [facebook.com](https://www.facebook.com/groups/332989703932525/permalink/595113137720179/), [immigrate-to-germany.blogspot.com \(archived\)](https://web.archive.org/web/20200803230641/https://20200803230641/2018/06/what-is-a-zav-or-fea-approval-for-germany-work-permit-and-how-to-get-it.html?m=1)
 [^25]: [berlin.de](https://service.berlin.de/dienstleistung/305249/en/)
 [^26]: [berlin.de](https://service.berlin.de/standort/121885/)
@@ -444,11 +443,11 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^38]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/498129660655742/)
 [^39]: [mag.n26.com](https://mag.n26.com/how-to-be-a-freelancer-in-germany-5d124cf0b1ba)
 [^40]: [Screenshot](/images/firmenprofil.pdf)
-[^41]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [berlin.de](https://service.berlin.de/dienstleistung/328332/)
-[^42]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
+[^41]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [berlin.de](https://service.berlin.de/dienstleistung/328332/)
+[^42]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^43]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1852129254867450/)
 [^44]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)
-[^45]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html)
+[^45]: [gtai.de](https://www.gtai.de/en/invest/investment-guide/who-needs-a-visa--558348)
 [^46]: [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://20160624092357/2013/08/08/how-to-get-a-freelance-visa-in-germany/)
 [^47]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^48]: [berlin.de](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/)

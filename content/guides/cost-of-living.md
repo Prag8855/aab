@@ -253,5 +253,5 @@ My budget includes a motorcycle, and a garage (120€/month). You don't need tho
 **[How to save money in Germany ➞](/guides/saving-money-germany)**
 
 [^0]: [exporo.de](https://exporo.de/wiki/kapitalertragsteuer/)
-[^1]: [vbb.de](https://www.vbb.de/tickets/sondertickets-semesterticket-zusatzticket)
-[^2]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Verdienstunterschiede/verdienste-branchen.html#:~:text=Verdienste%202019%3A%20durchschnittlich%203%20994%20Euro%20brutto%20im%20Monat%20%2D%20Statistisches%20Bundesamt)
+[^1]: [vbb.de](https://www.vbb.de/tickets/sondertickets/semesterticket-zusatzticket/)
+[^2]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/_inhalt.html#:~:text=Verdienste%202019%3A%20durchschnittlich%203%20994%20Euro%20brutto%20im%20Monat%20-%20Statistisches%20Bundesamt)

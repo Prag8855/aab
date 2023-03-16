@@ -3,7 +3,6 @@ Title: Steuerberater or Buchhalter: what's the difference?
 Short_title: Steuerberater or Buchhalter?
 Description: In Germany, there is an important distinction between a Steuerberater (tax advisor) and a Buchhalter (bookkeeper). Picking the right one can save you a lot of money, or bring you a lot of trouble.
 Date_created: 2018-02-19
-Date_updated: 2022-08-03
 ---
 
 ## Summary
@@ -41,4 +40,4 @@ Bookkeepers can't submit your tax declarations or financial statements. They can
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/Steuerberater#Conditions_to_sit_in)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Steuerberater#Exam_process)
-[^2]: [debitoor.de](https://debitoor.de/gruenderlounge/unternehmensgruendung/was-ist-der-unterschied-zwischen-einem-steuerberater-und-einem)
+[^2]: [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/was-ist-der-unterschied-zwischen-einem-steuerberater-und-einem)

@@ -257,7 +257,7 @@ I recommend to your bank, your accounting software and your tax advisor as 3 sep
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)
 [^1]: [reddit.com/r/finanzen](https://old.reddit.com/r/Finanzen/comments/scgrpu/steuerberater_als_freelancer/hu64wbv/)
 [^2]: [intercom.help](https://intercom.help/kontist/en/articles/1559634-which-passports-are-accepted-for-video-verification)
-[^3]: [solarisbank.com](https://www.solarisbank.com/en/support/)
+[^3]: [solarisbank.com](https://www.solarisgroup.com/en/support/)
 [^4]: [intercom.help](https://intercom.help/kontist/de/articles/1559937-kann-ich-bareinzahlungen-auf-mein-kontist-konto-vornehmen)
 [^5]: [intercom.help](https://intercom.help/kontist/en/articles/1559494-can-i-open-a-kontist-account-for-gmbh-kg-ug-gbr)
 [^6]: 0.15€ plus VAT. [mobiflip.de](https://www.mobiflip.de/shortnews/kontist-dreht-an-der-preisschraube/)

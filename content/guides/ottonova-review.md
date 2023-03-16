@@ -3,7 +3,6 @@ Title: Should you trust Ottonova? An objective review
 Short_title: Review of Ottonova
 Description: Before you choose Ottonova as your German health insurer, you should consider these points.
 Date_created: 2019-06-29
-Date_updated: 2023-01-04
 Related_reviews: reviews/ottonova-review/daniel-derosa.md
 ---
 
@@ -61,7 +60,7 @@ You can use the [Ottonova app](https://play.google.com/store/apps/details?id=de.
 - Upload invoices and documents
 - Make health insurance claims
 
-This is nice, but not unique. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/tk-app-2023650) has most of those features, and it's also available in English.[^1] You can use [Doctena](https://en.doctena.de/) to book an appointment with a doctor.
+This is nice, but not unique. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/die-app-der-tk-2023650) has most of those features, and it's also available in English.[^1] You can use [Doctena](https://www.doctena.de/en/) to book an appointment with a doctor.
 
 ### It's valid for a German visa application
 
@@ -83,7 +82,7 @@ Why is this important? Because health insurance is a long term decision. If you 
 
 If you don't plan to live in Germany for a long time, this is not a big problem. If you want to stay in Germany longer, Ottonova is a bit risky.
 
-**Useful link:** [Solvency and financial condition report - 2020](https://www.ottonova.de/SFCR_2020.pdf) (German)
+**Useful link:** [Solvency and financial condition report - 2020](https://assets.ottonova.de/assets/img/documents/SFCR_2020.pdf) (German)
 
 ## Summary
 
@@ -118,13 +117,13 @@ You can also use [Tarifcheck](/out/tarifcheck-health) to compare private health 
 [^0]: [ui.awin.com](https://ui.awin.com/merchant-profile/15971)
 [^1]: [play.google.com](https://play.google.com/store/apps/details?id=de.tk.tkapp&hl=en&gl=US)
 [^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/376574-health-insurance-ottonova-anyone-have-experience-with-them/?page=2)
-[^3]: [gruenderszene.de](https://www.gruenderszene.de/business/ottonova-krankenversicherung-zahlen-2018), [ottonova.de](https://www.ottonova.de/unternehmen)
-[^4]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer-ottonova-bekommt-60-millionen-euro-frisches-kapital/25266338.html), [procontra-online.de](https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
+[^3]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://www.ottonova.de/unternehmen)
+[^4]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-ottonova-bekommt-60-millionen-euro-frisches-kapital/25266338.html), [procontra-online.de](https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
 [^5]: [startbase.com](https://www.startbase.com/news/ottonova-veroeffentlicht-neue-zahlen/)
 [^6]: [versicherungsbote.de](https://www.versicherungsbote.de/id/4904689/Ottonova-waechst-auf-fuenfstellige-Kundenzahl/)
-[^7]: [procontra-online.de](https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [ottonova.de](https://www.ottonova.de/SFCR_2020.pdf)
+[^7]: [procontra-online.de](https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2020.pdf)
 [^8]: [assets.ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2021.pdf)
-[^9]: [gruenderszene.de](https://www.gruenderszene.de/business/ottonova-krankenversicherung-zahlen-2018), [ottonova.de](https://www.ottonova.de/SFCR_2018.pdf)
+[^9]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2018.pdf)
 [^10]: [procontra-online.de](https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
 [^11]: [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsame_Betriebskrankenkasse_K%C3%B6ln)
 [^12]: [allaboutberlin.com](/out/ottonova)

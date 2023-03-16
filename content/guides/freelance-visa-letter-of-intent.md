@@ -3,7 +3,6 @@ Title: Letters of intent for the German freelance visa
 Short_title: Letters of intent
 Description: How to get letters of intent for the German freelance visa application, with examples.
 Date_created: 2018-09-06
-Date_updated: 2022-01-17
 Related_reviews: reviews/freelance-visa-letter-of-intent/johanna-sieben.md
 ---
 
@@ -81,22 +80,22 @@ No matter what you do, **do not fake letters of intent**. This is visa fraud, an
 
 - [Letter of intent example by All About Berlin](/docs/letter-of-intent-example-german-freelance-visa)
 - [Letter of intent template by All About Berlin](/docs/german-freelance-visa-letter-of-intent)
-- [Letter of intent template by Jessie Szemraj](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
+- [Letter of intent template by Jessie Szemraj](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 
 ## Need help?
 
 **[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
-[^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
+[^0]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
+[^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
 [^2]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1890290804384628/)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/328332/)
 [^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://20210505231153/willkommenszentrum/en/work-and-education/freelance-work/)
 [^5]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1667488453331532/)
-[^6]: [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/)
+[^6]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/)
 [^7]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1852129254867450/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/?comment_id=1531744236905955&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 [^8]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/)
-[^9]: [essentialpackingchecklists.com](http://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
+[^9]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
 [^10]: [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://20210505231153/willkommenszentrum/en/work-and-education/freelance-work/)
-[^11]: [medium.com](https://medium.com/@paigerollison/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
+[^11]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
 [^12]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/)

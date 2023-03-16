@@ -3,7 +3,6 @@ Title: How to choose liability insurance in Germany
 Short_title: What is liability insurance?
 Description: All about the second most important type of insurance in Germany: private liability insurance (Haftpflichtversicherung)
 Date_created: 2018-09-28
-Date_updated: 2022-12-19
 ---
 
 If you cause an accident in Germany, you can be sued by the victim. If the victim wins, you will have to pay reparations.[^0] This could easily ruin you.
@@ -195,7 +194,7 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^9]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=den%20ich%20bei%20einem%20umzug%20eines%20freundes%20verursache), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=deine%20Firmenschl%C3%BCssel%20verlierst.-,gefalligkeitsschaden,-Als%20Gef%C3%A4lligkeitssch%C3%A4den%20gelten)
 [^10]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=viele%20neuere%20tarife%20springen%20auch%20bei%20gefal%C2%ADligkeits%C2%ADschaden%20ein)
 [^11]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
-[^12]: [geldsparen.de](https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)
+[^12]: [geldsparen.de \(archived\)](https://web.archive.org/web/20170628040748/https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)
 [^13]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
 [^14]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=weil%20die%20gesetzliche%20haftung%20unbegrenzt%20ist)
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/s2d2q5/haftpflichtversicherung/)
@@ -212,7 +211,7 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 [^26]: [Wikipedia](https://de.wikipedia.org/wiki/Betriebshaftpflichtversicherung)
 [^27]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stberg/__67.html)
 [^29]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/wie-teuer-ist-eine-rechtsschutzversicherung/)
-[^30]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/), [gevestor.de](https://www.gevestor.de/details/das-koennen-vermieter-von-ihren-mietern-verlangen-737578.html), [de.luko.eu](https://de.luko.eu/en/advice/guide/landlord-liability-insurance/)
+[^30]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/), [gevestor.de](https://www.gevestor.de/finanzwissen/immobilien/vermieten-abrechnen/das-koennen-vermieter-von-ihren-mietern-verlangen-737578.html), [de.luko.eu](https://de.luko.eu/en/advice/guide/landlord-liability-insurance/)
 [^31]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/)
 [^32]: [check24.de](https://www.check24.de/privathaftpflicht/fragen/schluesseldienst/)
 [^28]: [mieterbund.de](https://www.mieterbund.de/mietrecht/bgh-urteile-mietrecht/bgh-urteil-detailansicht/article/23920-mieter-muss-bei-schluesselverlust-unter-umstaenden-neue-schliessanlage-bezahlen.html)

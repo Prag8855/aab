@@ -3,7 +3,6 @@ Title: How to get an International Driving Permit in Berlin
 Short_title: How to get an International Driving Permit
 Description: How to get your IDP in Berlin and the rest of Germany, both with German and foreign driver licences.
 Date_created: 2017-11-20
-Date_updated: 2022-04-18
 ---
 
 The International Driving Permit is an official translation of your driver's licence. It is recognised in 200 countries.[^0] When you drive in other countries, you should carry it with your original driver's licence.
@@ -30,9 +29,9 @@ You will leave the *[[Bürgeramt]]* with a valid International Driving Permit. T
 
 The *[[Bürgeramt]]* only gives International Driving Permits for German driving licences. If you have a driver's licence from another country, you must follow different steps. In most cases, you must request the International Driving Permit in your country of origin.
 
-- **Canada**: From the CAA, while in Canada. No other authority can issue them. You can [convert your licence to a German one](http://nicolasbouliane.com/blog/canadian-german-driving-license), then request an International Driving Permit in Germany.
+- **Canada**: From the CAA, while in Canada. No other authority can issue them. You can [convert your licence to a German one](/guides/canadian-german-driving-license), then request an International Driving Permit in Germany.
 - **United States:** The AAA can [mail International Driving Permits overseas](https://www.aaa.com/vacation/idpf.html).
-- **Great Britain:** From the [AA,](http://www.theaa.com/getaway/idp/) the [RAC](http://www.rac.co.uk/driving-abroad/international-driving-permit/) or the [Post Office](http://www.postoffice.co.uk/international-driving-permit). You can also [request a British IDP by post](http://www.theaa.com/driving-advice/driving-abroad/apply-for-an-idp-by-post).
+- **Great Britain:** From the [AA,](https://www.theaa.com/driving-advice/driving-abroad/idp) the [RAC](https://www.rac.co.uk/drive/travel/driving-in-europe/international-driving-permit/) or the [Post Office](https://www.postoffice.co.uk/identity/international-driving-permit). You can also [request a British IDP by post](https://www.theaa.com/driving-advice/driving-abroad/idp).
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/International_Driving_Permit#Countries_that_recognize_IDP)
-[^1]: [adac.de](https://www.adac.de/der-adac/rechtsberatung/fuehrerschein/fahren-ausland/internationaler-fuehrerschein/)
+[^1]: [adac.de](https://www.adac.de/verkehr/rund-um-den-fuehrerschein/fahren-ausland/internationaler-fuehrerschein/)

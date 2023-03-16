@@ -18,20 +18,20 @@ You can get help from these communities and services.
 - [Free Advice Berlin](https://www.facebook.com/groups/FreeAdviceBerlin/) - Facebook group
 - [Berlin EXPATS](https://www.facebook.com/groups/berlinexpats/) - Facebook group
 - [Berlin4Beginners](https://www.facebook.com/groups/Berlin4Beginners/) - Facebook group
-- [/r/berlin](https://reddit.com/r/berlin) - Reddit community
-- [/r/germany](https://reddit.com/r/germany) - Reddit community
+- [/r/berlin](https://www.reddit.com/r/berlin) - Reddit community
+- [/r/germany](https://www.reddit.com/r/germany) - Reddit community
 - [Toytown Germany](https://www.toytowngermany.com/) - Forum. Less active than before.
 - [Quora](https://quora.com/) - a general Q&A website
 - [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Q&A website for expatriates
-- [Booka Local](https://www.booka-local.com/) - Hire a local to help you
+- [Booka Local](https://booka-local.com/) - Hire a local to help you
 
 ### In German
 
 If you speak German, these communities can also help you
 
 - [Gutefrage](https://www.gutefrage.net/) - similar to Quora and Yahoo! Answers
-- [/r/de](https://reddit.com/r/de) - Reddit community
-- [/r/FragReddit](https://reddit.com/r/fragreddit) - small Reddit community
+- [/r/de](https://www.reddit.com/r/de) - Reddit community
+- [/r/FragReddit](https://www.reddit.com/r/fragreddit) - small Reddit community
 - [Jeder hilft jedem](https://www.facebook.com/groups/JederHilftJedemBerlin/) - Facebook group
 
 ## Immigration questions
@@ -46,7 +46,7 @@ If you speak German, these communities can also help you
     They offer legal help with immigration. They speak English, and many other languages.
 - **[The Imagine Foundation](https://www.joinimagine.com/)**  
     If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English. This is a free service.[^0]
-- **[Red Tape Translation](https://www.redtapetranslation.com/)**  
+- **[Red Tape Translation](https://redtapetranslation.com/)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
 - **[Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/)**  
     In this Facebook group, people get help with their *Ausländerbehörde* problems.
@@ -113,7 +113,7 @@ If you speak German, these communities can also help you
 
 ### People who can help you
 
-- **[Berlin Chamber of Commerce (IHK)](https://www.ihk-berlin.de/English/en)**  
+- **[Berlin Chamber of Commerce (IHK)](https://www.ihk.de/berlin/English/en)**  
     They offer help in English by phone, by email and in person. This service is only for businesses. They do not help freelancers.
 - **[Tax advisors](/guides/english-speaking-steuerberater-berlin)**  
     Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
@@ -124,7 +124,7 @@ If you speak German, these communities can also help you
 ### Useful websites
 
 - [Existenzgruender.de](https://www.existenzgruender.de/EN/Home/inhalt.html) - official resource with a lot of detailed information
-- [Make it in Germany](https://www.make-it-in-germany.com/en/for-qualified-professionals/working/setting-up-a-business-in-germany) - official advice and information for foreigners
+- [Make it in Germany](https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/reasons) - official advice and information for foreigners
 - [Starting your own business](http://www.existenzgruender.de/EN/Home/inhalt.html) - An official resource from the Ministry of Economic Affairs
 - [List of official resources](https://www.existenzgruender.de/SharedDocs/Downloads/EN/Checklisten-Uebersichten/7_overview-Other-links-in-foreign-languages.pdf?__blob=publicationFile) (in German)
 

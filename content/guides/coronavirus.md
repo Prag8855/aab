@@ -3,7 +3,6 @@ Title: Coronavirus in Berlin: rules, quarantine, tests and vaccines
 Short_title: Coronavirus in Berlin
 Description: The COVID-19 situation explained in plain English, including risk areas, travel restrictions, quarantine rules, getting tested and getting vaccinated.
 Date_created: 2020-03-09
-Date_updated: 2023-01-10
 ---
 
 This guide explains the coronavirus situation in Berlin. It is updated when there is new information.
@@ -28,8 +27,8 @@ Since April, there are only two restrictions:
 ### Full list of restrictions
 
 - **[Full list of rules in Berlin](https://www.berlin.de/corona/en/measures/directive/)**
-- **[Frequently asked questions](https://www.berlin.de/corona/en/faq/)**
-- [Official situation report](https://www.berlin.de/corona/lagebericht/desktop/corona.html) for Berlin (in German)
+- **[Frequently asked questions](https://www.berlin.de/corona/en/measures/)**
+- [Official situation report](https://data.lageso.de/lageso/corona/corona.html) for Berlin (in German)
 
 ## Travelling to Berlin
 
@@ -42,7 +41,7 @@ There might be more restrictions for entering Germany.
 
 If you have coronavirus symptoms, or questions about getting tested, call one of the coronavirus hotlines.
 
-- **[Coronavirus hotline for all of Berlin](https://www.berlin.de/corona/en/hotline/)**  
+- **[Coronavirus hotline for all of Berlin](https://www.berlin.de/corona/en/recommended-action/)**  
     *[030 / 9028 2828](tel:+493090282828)*  
     The phone menu is in German, but they speak English.[^1] They can only give you information. They can't give you a test or vaccine appointment.
 - **Vaccine hotline for all of Berlin**  

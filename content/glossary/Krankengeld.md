@@ -2,9 +2,8 @@
 Title: What is Krankengeld?
 German_term: Krankengeld
 English_term: Sick pay
-Description: 
+Description: The money your employer or health insurance pays you when you are too sick to work.
 Date_created: 2020-03-04
-Date_updated: 2022-09-07
 Related_guides: guides/become-a-freelancer-in-germany.md, guides/coronavirus.md, guides/vacation-days.md, guides/sick-leave.md
 ---
 
@@ -19,4 +18,4 @@ If you are a freelancer, you do not get *Krankengeld* unless you pay for it.[^1]
 **[How sick leave works in Germany ➞](/guides/sick-leave)**
 
 [^0]: [§48 SGB V](https://www.gesetze-im-internet.de/sgb_5/__48.html)
-[^1]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)
+[^1]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)

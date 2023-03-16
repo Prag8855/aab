@@ -72,4 +72,4 @@ After you get your Schufa, you are ready to [find an apartment](/guides/find-a-f
 [^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa)
 [^1]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/)
 [^2]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/dnh3yw3/)
-[^3]: [GDPR Article 5](http://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm)
+[^3]: [GDPR Article 5](https://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm)

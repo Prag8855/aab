@@ -62,6 +62,6 @@ You do not need to go to the nearest *Bürgeramt*. You can go to any location in
 
 ## Pay someone to do it
 
-Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. [Red Tape Translation](https://www.redtapetranslation.com/services/take-a-translator-aab/) and [Booka Local](/out/booka-local) offer this service.
+Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) offer this service.
 
 [^0]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)

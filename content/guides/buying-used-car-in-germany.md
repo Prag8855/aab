@@ -21,7 +21,7 @@ Public transportation is better, cheaper and often faster. A car is more useful 
 
 Germans use two websites to find vehicles:
 
-- [Mobile.de](https://mobile.de/)
+- [Mobile.de](https://www.mobile.de/)
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/)
 
 You can also visit car dealerships, but their cars are usually listed online. It's easier to look online.
@@ -75,7 +75,7 @@ Vehicles in Germany must be inspected every 2 years. This inspection is called t
 If a vehicle fails the inspection, it can't be registered, and you can't drive it. This is why old vehicles are cheaper when their   
 inspection approaches, and *much* cheaper when it's overdue (*TÜV abgelaufen*). You might need to spend a lot of money to make the vehicle pass the inspection again.
 
-[Mobile.de](https://mobile.de/) and [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) show the next inspection date in their listings.
+[Mobile.de](https://www.mobile.de/) and [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) show the next inspection date in their listings.
 
 ### Environmental zones
 
@@ -100,7 +100,7 @@ After you have seen and inspected the car, it's time to buy it. Some sellers wan
 After you have paid, you should get these documents:
 
 - **Sales contract** (*[[Kaufvertrag]]*)  
-    This contract includes basic information about the vehicle and its condition. It explains the known defects of the vehicle. You should insist on having one. Use [this contract template](https://www.adac.de/-/media/adac/pdf/jze/kaufvertrag-privat-an-privat.pdf) from ADAC, or [this one](https://www.mobile.de/magazin/_pdf/kaufvertrag.pdf) from Mobile.de.
+    This contract includes basic information about the vehicle and its condition. It explains the known defects of the vehicle. You should insist on having one. Use [this contract template](https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/gebrauchtwagenkauf/kfz-kaufvertrag/) from ADAC, or [this one](https://www.mobile.de/magazin/static/b39a4e3d-b8a3-421e-b14c-6a95345dc36a_kaufvertrag-pkw-von-privat.pdf) from Mobile.de.
 - **Registration certificate, part 1** (*[[Zulassungsbescheinigung]] Teil I*)  
     When folded, this document fits in your wallet. You must have it with you every time you drive.
 - **Registration certificate, part 2** (*[[Zulassungsbescheinigung]] Teil II*)  
@@ -218,7 +218,7 @@ If you sell your car, you can end your insurance contract immediately. You do no
 - [Tips to save money in Germany](/guides/saving-money-germany)
 - [Cost of car ownership in Germany](/guides/car-cost-of-ownership-germany)
 
-[^0]: [ec.europa.eu](https://ec.europa.eu/taxation_customs/buying-and-selling-cars_en)
+[^0]: [ec.europa.eu](https://taxation-customs.ec.europa.eu/buying-and-selling-cars_en)
 [^1]: [spiegel.de](https://www.spiegel.de/auto/aktuell/das-folgt-aus-bgh-urteil-zu-maengelhaftung-bei-gebrauchtwagen-a-1031320.html), [telecom-handel.de](https://www.telecom-handel.de/point-of-sale/fachhandel/gewaehrleistung-pflichten-haendler-1108535.html)
 [^2]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1584)
 [^3]: [spiegel.de](https://www.spiegel.de/auto/aktuell/das-folgt-aus-bgh-urteil-zu-maengelhaftung-bei-gebrauchtwagen-a-1031320.html)

@@ -3,7 +3,6 @@ Title: What is the German TV tax (Rundfunkbeitrag)?
 Short_title: What is the TV tax (Rundfunkbeitrag)?
 Description: Why are you receiving this 55.08€ bill, and what can you do about it? Here's everything you need to know about the Rundfunkbeitrag
 Date_created: 2017-10-10
-Date_updated: 2022-07-08
 ---
 
 The TV tax (*Rundfunkbeitrag*) is a public broadcasting tax in Germany. It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month.
@@ -97,7 +96,7 @@ If you leave Germany, you must tell the *Beitragsservice*. You will stop getting
 
 [^0]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/senderfamilie/index_ger.html#:~:text=7.-,online%20dabei)
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/ARD_ZDF_Deutschlandradio_Beitragsservice)
-[^2]: [infranken.de](https://www.infranken.de/ueberregional/deutschland/gez-verweigerer-mann-53-sitzt-seit-monaten-im-gefaengnis-weil-er-rundfunkbeitrag-nicht-zahlt-art-5221946), [m.focus.de](https://m.focus.de/politik/deutschland/deutschlands-bekanntester-gebuehren-verweigerer-gez-rebell-thiel-er-lebt-von-1200-euro-schlaeft-auf-klappbett-ist-vegetarier_id_24335499.html)
+[^2]: [infranken.de](https://www.infranken.de/deutschland/gez-verweigerer-mann-53-sitzt-seit-monaten-im-gefaengnis-weil-er-rundfunkbeitrag-nicht-zahlt-art-5221946), [m.focus.de](https://m.focus.de/politik/deutschland/deutschlands-bekanntester-gebuehren-verweigerer-gez-rebell-thiel-er-lebt-von-1200-euro-schlaeft-auf-klappbett-ist-vegetarier_id_24335499.html)
 [^3]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/informationen_zum_meldedatenabgleich/index_ger.html)
 [^4]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/bankverbindung/index_ger.html)
 [^5]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/welcome/englisch/students_and_apprentices/index_ger.html), [test.de](https://www.test.de/Rundfunkbeitrag-Wer-zahlen-muss-4502522-0/#:~:text=studenten%C2%ADwohn%C2%ADheimen)

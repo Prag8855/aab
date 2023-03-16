@@ -52,7 +52,7 @@ You must take a first aid course and an eyesight test. Then you must go to the *
 
 ### First aid course
 
-[Fahrschule Oscar](http://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day, around 8 hours.[^4] There is no exam at the end.[^5]
+[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day, around 8 hours.[^4] There is no exam at the end.[^5]
 
 You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
 
@@ -60,7 +60,7 @@ You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
 
 You can get a [free eyesight test at Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/). They have [branches everywhere in Germany](https://www.fielmann.de/niederlassungen/).
 
-[Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), and [Fahrschule Oscar](http://www.fahrschule-oscar.de/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
+[Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), and [Fahrschule Oscar](https://www.fahrschule-oscar.de/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
 
 Try to pass the eyesight test without wearing glasses, or you will need glasses every time you drive.
 
@@ -168,7 +168,7 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^6]: [ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/121627/)
 [^8]: [Screenshot](/images/2012I1344.gif)
-[^9]: [dekra.de](https://www.dekra.de/de-de/fahrerlaubnispruefung/)
+[^9]: [dekra.de](https://www.dekra.de/de/fahrerlaubnispruefung/)
 [^10]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
 [^11]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
 [^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/)

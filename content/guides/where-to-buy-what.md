@@ -3,7 +3,6 @@ Title: Where to buy what in Berlin
 Short_title: Where to buy what
 Description: A list of common grocery stores, hardware stores, furniture stores and shopping malls in Berlin.
 Date_created: 2019-11-14
-Date_updated: 2022-12-05
 ---
 
 If you're new in Germany, it's hard to know what the supermarkets, furniture stores or hardware stores are called. This guide will help you find them.
@@ -37,13 +36,13 @@ Most supermarkets close on Sundays and [public holidays](/guides/public-holidays
 These stores sell cosmetics, hygiene products, household products, baby products and more.
 
 - [dm](https://www.dm.de/)
-- [Rossmann](https://www.rossmann.de/)
+- [Rossmann](https://www.rossmann.de/de/)
 
 Most dm and Rossmann stores are closed on Sundays, but there are [some exceptions](/guides/open-on-sundays-in-berlin).
 
 ## Electronics
 
-- [Saturn](http://saturn.de/) - Electronics and appliances
+- [Saturn](https://www.saturn.de/) - Electronics and appliances
 - [Mediamarkt](https://www.mediamarkt.de/) - Electronics and appliances
 - [Medimax](https://www.medimax.de/) - Electronics and appliances
 - [Conrad](https://www.conrad.de/) - Electronics and parts for hobbyists
@@ -64,7 +63,7 @@ Most dm and Rossmann stores are closed on Sundays, but there are [some exception
 - Real - Department store
 - [Buy used furniture](/guides/how-do-i-buy-and-sell-used-things-in-berlin) on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [Facebook](https://www.facebook.com/groups/freeyourstuff/) or [Nebenan](https://nebenan.de/)
 
-If you need help to move furniture, use a [Möbel Taxi](http://www.moebel-taxi.de/english/) or rent a [Miles](https://miles-mobility.com/en-de). There are [more moving services on eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+If you need help to move furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/) or rent a [Miles](https://miles-mobility.com/en-de). There are [more moving services on eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
 
 ## Hardware and home improvement
 

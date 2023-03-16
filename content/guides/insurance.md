@@ -3,7 +3,6 @@ Title: Types of insurance in Germany
 Short_title: Types of insurance
 Description: An overview of the different types of insurance in Germany. This guide explains each type of insurance and why they are important.
 Date_created: 2018-12-11
-Date_updated: 2022-12-19
 Related_reviews: reviews/insurance/derrick-löhr.md, reviews/insurance/dr-rob-schumacher.md
 ---
 
@@ -126,5 +125,5 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare options. If you don't 
 [^1]: [dieversicherer.de](https://www.dieversicherer.de/versicherer/beruf-freizeit/news/berufshaftpflichtversicherung-wer-braucht-sie-und-was-deckt-sie-ab--61280#:~:text=wie%20sind%20angestellte%20haftpflichtversichert)
 [^3]: [ruv.de](https://www.ruv.de/ratgeber/versicherungsinfos/bauen-wohnen/hausratschaeden)
 [^4]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)
-[^5]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/tierisch-ueberfluessig-krankenversicherungen-fuer-haustiere-10781#2)
+[^5]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/krankenversicherungen-fuer-haustiere-sinnvoll-oder-ueberfluessig-10781#2)
 [^6]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/vorsorge/versicherung/keine-haftpflicht-viele-deutsche-riskieren-ihr-gesamtes-vermoegen/3817046.html)

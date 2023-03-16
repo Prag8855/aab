@@ -3,7 +3,6 @@ Title: Where to buy, sell and donate things in Berlin?
 Short_title: How to buy, sell and donate things
 Description: This is how you trade used clothes, vehicles, electronics and other things in Berlin.
 Date_created: 2017-09-02
-Date_updated: 2022-11-22
 ---
 
 This is how you trade used clothes, vehicles, electronics and other things in Berlin.
@@ -30,7 +29,7 @@ If you want to trade with English-speaking Berliners, try [Sell Your Stuff Berli
 
 ### Vehicles
 
-- [Mobile.de](http://mobile.de/)
+- [Mobile.de](https://www.mobile.de/)
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/)
 
 You really [don't need a car](/guides/buying-used-car-in-germany#do-you-need-a-car) in Berlin. [Buying a bicycle](/guides/bicycle-in-berlin#where-to-buy-a-bicycle-in-berlin) or [using public transit](/guides/public-transit) is a better choice. You can also [rent a car](/guides/public-transit#rent-a-car) when you need it.
@@ -49,7 +48,7 @@ You really [don't need a car](/guides/buying-used-car-in-germany#do-you-need-a-c
 
 You can also visit flea markets. They happen every Sunday all over Berlin.
 
-- [Berlin flea market map](https://www.berlin.de/en/shopping/markets-and-flea-markets/) - berlin.de
+- [Berlin flea market map](https://www.berlin.de/en/shopping/markets/flea-markets/) - berlin.de
 - [NochMall](https://www.nochmall.de/about) - [BSR](/glossary/Berliner%20Stadtreinigung)'s second-hand store
 
 ## Where to donate things

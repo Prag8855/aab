@@ -3,7 +3,6 @@ Title: How to find your Sozialversicherungsnummer
 Short_title: Your Sozialversicherungsnummer
 Description: Here is how you obtain your Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer or RNVR, the number you must give your employer to get paid.
 Date_created: 2018-03-18
-Date_updated: 2022-08-26
 Related_reviews: reviews/german-versicherungsnummer/johannes-kühn.md, reviews/german-versicherungsnummer/daniel-derosa.md
 ---
 
@@ -55,7 +54,7 @@ If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenv
 
 - [Instructions for TK](https://www.tk.de/service/form/2060552/sozialversicherungsausweisbestellen.form) (in German)
 - [Instructions for Barmer](https://www.barmer.de/meine-barmer-eingeloggt/antraege-und-bescheinigungen) (in German)
-- [Instructions for AOK](https://www.aok.de/pk/nordost/inhalt/fragen-und-antworten-zum-sozialversicherungsausweis-2/) (in German)
+- [Instructions for AOK](https://www.aok.de/pk/versichertenservice/sozialversicherungsausweis/) (in German)
 - [Instructions for DAK](https://www.dak.de/dak/meinedak/ihr-anliegen/sozialversicherungsausweis-beantragen-2431710.html) (in German)
 
 ### If you have private health insurance
@@ -106,13 +105,13 @@ If you don't know those numbers, enter your *Versicherungsnummer* and leave thos
 [![Deutsche rentenversicherung panr bxnr zanr form](/images/deutsche-rentenversicherung-panr-bxnr-zanr-form.png "If you do not receive a German pension, you don't have to fill these fields.")](/images/deutsche-rentenversicherung-panr-bxnr-zanr-form.png)
 
 [^0]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland)
-[^1]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html?ticket=ST-1094619-XTkgYayflTym7m9Klk9b-ap1#:~:text=das%20sind%20die%20bereichsnummern)
-[^2]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html)
-[^3]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/4824170-can-i-get-a-social-security-number-with-private-health-insurance)
-[^4]: [forum.tour-magazin.de](https://forum.tour-magazin.de/showthread.php?88103-Sozialversicherungsnummer&p=1537332#post1537332)
-[^5]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/Allgemein/de/Inhalt/3_Infos_fuer_Experten/02_arbeitgeber_steuerberater/04_meldeverfahren_deuev/05_sv_ausweis/Sozialversicherungsausweis.html)
-[^6]: [helpster.de](https://www.helpster.de/sozialversicherungsausweis-fuer-auslaender-hinweise_204795), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/rentenversicherungsnummer-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-rvnr-wissen-muessen/24479984.html)
+[^1]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html#:~:text=das%20sind%20die%20bereichsnummern)
+[^2]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
+[^3]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/28682-can-i-get-a-social-security-number-with-private-health-insurance)
+[^4]: [forum.tour-magazin.de](https://www.tour-magazin.de#post1537332)
+[^5]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/Meldeverfahren_nach_DEUEV/Meldung-nach-DEUV.html)
+[^6]: [helpster.de](https://www.helpster.de/sozialversicherungsausweis-fuer-auslaender-hinweise_204795), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/rentenversicherungsnummer-wo-die-versicherungsnummer-steht-und-was-sie-dazu-wissen-muessen-/24479984.html)
 [^7]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/ber350/tourists_visitors_international_students_people/eptkgav/)
-[^8]: [forum.allianz.de](https://forum.allianz.de/service/private-krankenversicherung--nachweis/frage/wie-bekommt-man-einen-sozialversicherungsausweis), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html)
-[^9]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-wo-sie-die-versicherungsnummer-finden-und-was-sie-zur-vsnr-wissen-muessen/25232204.html)
-[^10]: [mawista.com](https://www.mawista.com/krankenversicherung-fuer-auslaender/sozialversicherungsausweis-student/)
+[^8]: [forum.allianz.de](https://forum.allianz.de/service/private-krankenversicherung--nachweis/frage/wie-bekommt-man-einen-sozialversicherungsausweis), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
+[^9]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
+[^10]: [mawista.com](https://www.mawista.com/studieren-deutschland/arbeiten-und-sozialversicherung-in-deutschland/)

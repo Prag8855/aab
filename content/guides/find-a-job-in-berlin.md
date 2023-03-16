@@ -3,7 +3,6 @@ Title: How to find a job in Berlin
 Short_title: How to find a job
 Description: This guide shows you how to get a job in Germany, from the job search to your first day at work.
 Date_created: 2017-09-21
-Date_updated: 2022-12-02
 Related_reviews: reviews/find-a-job-in-berlin/greg-tomasik.md
 ---
 
@@ -56,22 +55,22 @@ Know [how much you should earn](/guides/salaries-in-germany), and [how much taxe
 - **[Indeed.com](https://de.indeed.com/jobs?l=Berlin)** - Job search engine. You can filter by language and set alerts.
 - **[LinkedIn](https://www.linkedin.com/jobs/search/?geoId=103620271&location=Berlin)** - Networking website with a big jobs section. Very popular.
 - [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the [Federal Employment Agency](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)
-- [Talent Berlin](https://www.talent-berlin.de/en/jobs/job-search) - Run by the state of Berlin. You can't filter by language.
+- [Talent Berlin](https://talent.berlin/en/jobs/job-search) - Run by the state of Berlin. You can't filter by language.
 - [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language.
 - [Xing](https://www.xing.com/) - Similar to LinkedIn. You can't filter by language.
-- [ArbeitNow](https://arbeitnow.com/berlin-jobs) - Job listing website. Made in Berlin.
-- [Glassdoor ](https://www.glassdoor.de/)- Company reviews, salary reports and job listings. You need an account.
+- [ArbeitNow](https://www.arbeitnow.com/berlin-jobs) - Job listing website. Made in Berlin.
+- [Glassdoor ](https://www.glassdoor.de/index.htm)- Company reviews, salary reports and job listings. You need an account.
 
 ### English-speaking jobs
 
 These websites only have English-speaking jobs, or let you filter by language:
 
-- **[Berlin Startup Jobs](http://berlinstartupjobs.com/)** - Most jobs are in English-speaking offices
+- **[Berlin Startup Jobs](https://berlinstartupjobs.com/)** - Most jobs are in English-speaking offices
 - [Expat job seeker](https://expatjobseeker.de/cat/english/#!search/job_category=english&location=berlin) - You can filter jobs by language
 - [Englishjobs.de](https://englishjobs.de/in/berlin) - Only English-speaking jobs
 - [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language
-- [JobsInBerlin.eu](http://www.jobsinberlin.eu/) - You can filter jobs by language
-- [Germany Startup Jobs](http://www.germanystartupjobs.com/) - You can filter jobs by language and salary
+- [JobsInBerlin.eu](https://www.jobsinberlin.eu/) - You can filter jobs by language
+- [Germany Startup Jobs](https://germanystartupjobs.com/) - You can filter jobs by language and salary
 - [The Local jobs](https://www.thelocal.de/jobs/) - Run by a popular English-speaking newspaper
 - [English-speaking jobs in Berlin](https://www.facebook.com/groups/jobinberlin/) - Facebook group, 89,000+ members
 - [English jobs in Berlin](https://www.facebook.com/groups/English.Jobs.Berlin/) - Facebook group, 43,000+ members
@@ -79,7 +78,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 ### Tech jobs
 
 - **[GermanTechJobs](https://germantechjobs.de/jobs/all/Berlin)** - You can filter by language and technology.
-- [Berlin Startup Jobs](http://berlinstartupjobs.com/) - English-speaking jobs in startups and tech companies
+- [Berlin Startup Jobs](https://berlinstartupjobs.com/) - English-speaking jobs in startups and tech companies
 - [Administrator](https://www.administrator-jobs.de/in/berlin) / [Web Entickler](https://www.webentwickler-jobs.de/in/berlin) / [Entwickler](https://www.softwareentwickler-jobs.de/in/berlin) Jobs - German-speaking tech jobs
 - [Imagine Foundation](https://www.joinimagine.com/) - They help software developers from developing countries find a job and get hired
 
@@ -90,12 +89,11 @@ These websites only have English-speaking jobs, or let you filter by language:
 
 ### Startup jobs
 
-- **[Berlin Startup Jobs](http://berlinstartupjobs.com/)** - English-speaking jobs in startups and tech companies
-- [Gründerszene Jobbörse](https://www.gruenderszene.de/jobboerse/) (in German) - Gründerszene is a popular website for founders
+- **[Berlin Startup Jobs](https://berlinstartupjobs.com/)** - English-speaking jobs in startups and tech companies
 - [Startup Sucht](https://startupsucht.com/) (in German)
 - [tbd\* job board](https://www.tbd.community/de/jobs) (in German) - tbd\* is a website for entrepreneurs. You can filter by language.
 - [Angel.co](https://angel.co/) - International startup job portal
-- [Germany Startup Jobs](http://www.germanystartupjobs.com/) - You can filter jobs by language and salary
+- [Germany Startup Jobs](https://germanystartupjobs.com/) - You can filter jobs by language and salary
 - [Berlin Startup Jobs](https://www.facebook.com/groups/BerlinStartupJobs/?ref=group_header) - Facebook group, 56,000+ members
 - [Berlin Startup Jobs, Internships & Co-founders](https://www.facebook.com/groups/StartupJobsBerlin/?ref=group_header) - Facebook group, 14,000+ members
 
@@ -106,8 +104,8 @@ These websites only have English-speaking jobs, or let you filter by language:
 - [Foreign Young Professionals in Berlin](https://www.facebook.com/groups/1459276421005507/?ref=group_header) - Facebook group, 8,000+ members
 - [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the [Federal Employment Agency](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit). Has a filter for internships.
 - [Timeworkers](https://www.timeworkers.de/) (in German) - Temporary jobs
-- [Adecco](https://www.adecco.de/job-results/?k=english&l=berlin&xy=52.5200%2C13.4050&display=15) (in German) - Large temp work agency
-- [Manpower](https://www.manpower.de/jobsuche/jobs-suchen-und-finden/?q=english&c=normal) (in German) - Large temp work agency
+- [Adecco](https://www.adecco.de//stellenangebote/?k=english&l=berlin&xy=52.5200%2C13.4050&display=15) (in German) - Large temp work agency
+- [Manpower](https://www.manpower.de/de/search) (in German) - Large temp work agency
 - [Randstad](https://www.randstad.de/) (in German) - Large temp work agency
 - [Craigslist](https://berlin.craigslist.org/?lang=en&cc=gb) - Most job listings are for restaurants and cafés
 

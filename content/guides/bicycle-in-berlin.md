@@ -22,7 +22,7 @@ There are also big bicycle stores like
 
 - [**Decathlon**](https://www.decathlon.de/) (many locations in Berlin)  
     Big sport equipment store. The main store is near Alexanderplatz. They sell cheap, medium quality bicycles.
-- [**Stadler**](https://zweirad-stadler.de) (Charlottenburg, Prenzlauer Berg)  
+- [**Stadler**](https://shop.zweirad-stadler.de/) (Charlottenburg, Prenzlauer Berg)  
     Giant bicycle store. They have two locations in Berlin.
 
 ### Buying a used bicycle
@@ -66,7 +66,7 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     Borrow a bike, pay what you can.
 - **Bike sharing**  
     Some bike sharing services let you rent a bike for less than a day, only when you need it.
-    - [Call a Bike](https://www.callabike.de/en/cities/Berlin) - The [[Deutsche Bahn]]'s bike sharing service - formerly LIDL-Bike
+    - [Call a Bike](https://www.callabike.de/en/cities-berlin/) - The [[Deutsche Bahn]]'s bike sharing service - formerly LIDL-Bike
     - [Nextbike](https://www.nextbike.de/en/)
     - [Jelbi](https://www.jelbi.de/en/home/) - Rent bikes from different bike sharing services
     - [Lime](https://www.li.me/locations) - Bicycles with electric assist
@@ -109,11 +109,11 @@ If you want to repair your bicycle yourself, there are many self-service repair 
 - [Velo-fit](https://www.facebook.com/velofitberlin/) (Kreuzberg)- bike workshop by Berliner Stadtmission
 - [Workshop in Amtshaus Buchholz](https://www.buergerhaus-gmbh.de/fahrradselbsthilfewerkstatt.html) (Buchholz)
 
-If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c3-fahrradpumpe/_/N-eehuqh) for less than 10€.
+If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c4-fahrrad-luftpumpen-zubehor/_/N-rrj9o) for less than 10€.
 
 ## Bicycle theft
 
-Bike theft is very common in Berlin. Over 30,000 bicycles are stolen every year.[^4] Always lock your bike with a strong [bicycle lock](https://amzn.to/2Dydvoq) (*Fahrradschloß*). Do not leave your bike locked on the street or at a train station overnight. If possible, lock your bike in a private area like a courtyard or a cellar. Always lock the bike to something else, so that thieves don't carry it away.
+Bike theft is very common in Berlin. Over 30,000 bicycles are stolen every year.[^4] Always lock your bike with a strong [bicycle lock](https://www.amazon.de/s/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&k=&ref=nb_sb_noss&rh=n:4237036031&url=node=4237036031&linkCode=sl2&tag=nicolasboulia-21&linkId=e4fe756eeabc1341695527b071e79a0b&language=de_DE) (*Fahrradschloß*). Do not leave your bike locked on the street or at a train station overnight. If possible, lock your bike in a private area like a courtyard or a cellar. Always lock the bike to something else, so that thieves don't carry it away.
 
 ### Bicycle registration
 
@@ -133,7 +133,7 @@ Report the theft to the Berlin police. You can do it online. If your bicycle is 
 
 Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin Police sometimes controls bicycles.
 
-- **[Lights](https://amzn.to/2YYQYZF)** (*Scheinwerfer*)  
+- **[Lights](https://www.amazon.de/s/ref=as_li_ss_tl?k=stvzo+fahrradbeleuchtung&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AZ7Q8F9D9AJ3&sprefix=stvzo+fahrrad,aps,215&ref=nb_sb_ss_i_1_13&linkCode=sl2&tag=nicolasboulia-21&linkId=9f73421a651437357fb9a83c139353ff&language=de_DE)** (*Scheinwerfer*)  
     Your bicycle must have a white light in the front, and a red light in the back.[^5] Blinking lights are not allowed.[^6] If your bicycle does not have lights, you can get a 20 to 35€ fine.[^7] You can get a fine even during the day.
     - **Headlight**  
         One white front light, powered by a battery or dynamo.
@@ -141,16 +141,16 @@ Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin
         One red rear light, powered by a battery or dynamo.
 - **Reflectors** (*Rückstrahler*)  
     Your bicycle must have all the required reflectors.[^8] If you don't have the correct reflectors, you can get a 20€ fine.
-    - **[Front reflector](https://amzn.to/2QwagAX)**  
+    - **[Front reflector](https://www.amazon.de/Fischer-Erwachsene-Vorbaubefestigung-Reflektor-schwarz/dp/B0154YPBIM/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-11&linkCode=sl1&tag=nicolasboulia-21&linkId=7de1370f58f8c1a068d0ab4e0648c300&language=de_DE)**  
         One white reflector. You must also have a bicycle light. Many bicycle lights have a reflector inside them.
-    - **[Rear reflector](https://amzn.to/3b8oxgG)**  
+    - **[Rear reflector](https://www.amazon.de/JABs-Heckrefletor-Hinterradstrahler-R%C3%BCckstrahler-Kinderfahrrad/dp/B07ZPG565Y/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=bd3e62ec9a81da2110eab61572324a0e&language=de_DE)**  
         One red reflector. You must also have a red rear light. Many bicycle lights have a reflector inside them.
-    - **[Wheel reflectors](https://amzn.to/3bgvlsJ)**  
-        Two yellow reflectors per wheel. You can also use white [spoke reflectors](https://amzn.to/2YEnsYD). Spoke reflectors are much more visible.
+    - **[Wheel reflectors](https://www.amazon.de/B%C3%BCchel-50201-1-Spotlight-Approved-Shatterproof/dp/B07R884J9R/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UTZHFAVHAQWG&dchild=1&keywords=fahrrad+reflektoren&qid=1598610707&sprefix=fahrradrefl,aps,244&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=183d74785fef5bd2a878c81703522126&language=de_DE)**  
+        Two yellow reflectors per wheel. You can also use white [spoke reflectors](https://www.amazon.de/exec/obidos/ASIN/B0090G2TRC/fahrradmagazin-21/ref=as_li_ss_tl?&th=1&linkCode=sl1&tag=nicolasboulia-21&linkId=68fd0ea6dac4f3259bb8a76f0a789728&language=de_DE). Spoke reflectors are much more visible.
     - **Pedal reflectors**  
         Two yellow reflectors on each pedal: one facing forward, and one facing rearward.
-- **[Bell](https://amzn.to/32yQNVF)** (*Fahrradglocke*)  
-    Your bicycle must have a bell.[^9] It must be attached to the handlebars and easy to reach.[^10] You can [buy a bicycle bell](https://amzn.to/32yQNVF) for less than 5€. If you don't have a bell, you can get a 15€ fine.
+- **[Bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b)** (*Fahrradglocke*)  
+    Your bicycle must have a bell.[^9] It must be attached to the handlebars and easy to reach.[^10] You can [buy a bicycle bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b) for less than 5€. If you don't have a bell, you can get a 15€ fine.
 - **Brakes** (*Bremse*)  
     Your bicycle must have working brakes.[^11] The front and rear breaks must both work.[^12] If your brakes don't work, you can get a 10€ fine.[^13]
 
@@ -206,7 +206,7 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b80fgm/im_thinking_of_buying_a_bicycle_on_shpock_but_i/ejw5zi1/)
 [^2]: [hanseaticbank.de](https://www.hanseaticbank.de/klarmacher/sparen/fahrrad-steuerlich-absetzen-nicht-nur-sprit-sondern-auch-geld-sparen#befreit)
 [^3]: [vanraam.com](https://www.vanraam.com/de-de/beratung-inspiration/aktuell/therapierad-uber-die-krankenkasse-anschaffen)
-[^4]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/fahrraddiebstaehle-polizei-laedt-zur-kostenfreien-codierung/13450440.html)
+[^4]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/polizei-ladt-zur-kostenfreien-codierung-3713386.html)
 [^5]: [§67 StVZO](https://www.gesetze-im-internet.de/stvzo_2012/__67.html), [bussgeldkatalog.net](https://www.bussgeldkatalog.net/fahrrad/fahrradbeleuchtung/)
 [^6]: [§67 StVZO](https://www.gesetze-im-internet.de/stvzo_2012/__67.html)
 [^7]: [bussgeldkatalog.net](https://www.bussgeldkatalog.net/fahrrad/fahrradbeleuchtung/)
@@ -217,19 +217,19 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 [^12]: [berlin.de](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/behoerdenwegweiser/mdb-balichtenberghohenschoenhausen-gesetze-vorschriften-verwarnungsgeldkatalog__vers_14.2.pdf)
 [^13]: [bussgeldkatalog.net](https://www.bussgeldkatalog.net/strassenverkehrszulassungsordnung/65-stvzo/)
 [^14]: [adac.de](https://www.adac.de/rund-ums-fahrzeug/zweirad/fahrrad-ebike-pedelec/kauf-ausruestung/fahrrad-gadgets/)
-[^15]: [bz-berlin.de](https://www.bz-berlin.de/ratgeber/auch-fuer-rad-suenden-kann-es-punkte-in-flensburg-geben)
-[^16]: [tagesspiegel.de](https://www.tagesspiegel.de/themen/fahrrad-verkehr/berlin-und-die-verkehrsregeln-autofahrer-radfahrer-fussgaenger-was-darf-man-was-nicht/9289846.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
-[^17]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/fahrradfahren-auf-dem-gehweg/), [bz-berlin.de](https://www.bz-berlin.de/berlin/so-hoch-sind-jetzt-die-fahrrad-bussgelder-in-berlin)
-[^18]: [tagesspiegel.de](https://www.tagesspiegel.de/themen/fahrrad-verkehr/berlin-und-die-verkehrsregeln-autofahrer-radfahrer-fussgaenger-was-darf-man-was-nicht/9289846.html), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f5y0g/psa_if_a_bike_lane_is_between_a_trambus_and_the/e5u3dhe/?utm_source=reddit&utm_medium=web2x&context=3), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
+[^15]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/auch-fuer-rad-suenden-kann-es-punkte-in-flensburg-geben)
+[^16]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/autofahrer-radfahrer-fussganger-was-darf-man-was-nicht-6927460.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
+[^17]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/fahrradfahren-auf-dem-gehweg/), [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/so-hoch-sind-jetzt-die-fahrrad-bussgelder-in-berlin)
+[^18]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/autofahrer-radfahrer-fussganger-was-darf-man-was-nicht-6927460.html), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f5y0g/psa_if_a_bike_lane_is_between_a_trambus_and_the/e5u3dhe/?utm_source=reddit&utm_medium=web2x&context=3), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
 [^19]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/strassenbenutzung-fahrrad/)
-[^20]: [t-online.de](https://www.t-online.de/auto/recht-und-verkehr/id_77495110/die-wichtigsten-verkehrsregeln-fuer-fahrradfahrer.html)
-[^21]: [tagesspiegel.de](https://www.tagesspiegel.de/themen/fahrrad-verkehr/berlin-und-die-verkehrsregeln-autofahrer-radfahrer-fussgaenger-was-darf-man-was-nicht/9289846.html), [morgenweb.de](https://www.morgenweb.de/mannheimer-morgen_artikel,-auto-handzeichen-ist-fuer-radler-pflicht-_arid,586051.html)
-[^22]: [bicyclegermany.com](http://bicyclegermany.com/german_bicycle_laws.html), [prologcyclingwear.com](https://www.prologcyclingwear.com/blog/2018/07/10/handzeichen-beim-radfahren-in-der-gruppe/)
+[^20]: [t-online.de](https://www.t-online.de/auto/recht-und-verkehr/id_77495110/verkehrsregeln-die-wichtigsten-bussgelder-fuer-fahrradfahrer.html)
+[^21]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/autofahrer-radfahrer-fussganger-was-darf-man-was-nicht-6927460.html), [morgenweb.de](https://www.mannheimer-morgen.de/wirtschaft/auto_artikel,-auto-handzeichen-ist-fuer-radler-pflicht-_arid,586051.html)
+[^22]: [bicyclegermany.com](http://bicyclegermany.com/german_bicycle_laws.html), [prologcyclingwear.com](https://www.prologcyclingwear.com)
 [^23]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
-[^24]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f5y0g/psa_if_a_bike_lane_is_between_a_trambus_and_the/), [tagesspiegel.de](https://www.tagesspiegel.de/themen/fahrrad-verkehr/berlin-und-die-verkehrsregeln-autofahrer-radfahrer-fussgaenger-was-darf-man-was-nicht/9289846.html)
+[^24]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f5y0g/psa_if_a_bike_lane_is_between_a_trambus_and_the/), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/autofahrer-radfahrer-fussganger-was-darf-man-was-nicht-6927460.html)
 [^25]: [digitalpresent.tagesspiegel.de](https://digitalpresent.tagesspiegel.de/die-radspuren-der-verwirrung), [cyclingfallacies.com](https://cyclingfallacies.com/de/31/busspuren-sind-gut-zum-radfahren-geeignet)
 [^26]: [digitalpresent.tagesspiegel.de](https://digitalpresent.tagesspiegel.de/die-radspuren-der-verwirrung)
-[^27]: [bz-berlin.de](https://www.bz-berlin.de/berlin/so-hoch-sind-jetzt-die-fahrrad-bussgelder-in-berlin)
+[^27]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/so-hoch-sind-jetzt-die-fahrrad-bussgelder-in-berlin)
 [^28]: [welt.de](https://www.welt.de/politik/video162656860/Duerfen-Radfahrer-bald-bei-Rot-abbiegen.html), [Wikipedia](https://de.wikipedia.org/wiki/Rechts_abbiegen_f%C3%BCr_Radfahrer_frei#Deutschland)
 [^29]: [arag.de](https://www.arag.de/rechtsschutzversicherung/verkehrsrechtsschutz/kopfhoerer-fahrrad/), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/musik-hoeren-beim-fahrradfahren/#faq_musik_hoeren_beim_fahrradfahren)
 [^30]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/musik-hoeren-beim-fahrradfahren/#faq_musik_hoeren_beim_fahrradfahren)

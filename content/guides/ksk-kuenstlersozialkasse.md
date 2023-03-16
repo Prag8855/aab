@@ -3,7 +3,6 @@ Title: How to join the Künstlersozialkasse (KSK)
 Short_title: How to join the KSK
 Description: This guide shows you how to apply for the Künstlersozialkasse. If you are a freelancer, this can save you hundreds of euros per month.
 Date_created: 2022-06-06
-Date_updated: 2023-01-24
 Related_reviews: reviews/ksk-kuenstlersozialkasse/kathleen-parker.md, reviews/ksk-kuenstlersozialkasse/alex-holz.md, reviews/ksk-kuenstlersozialkasse/sebastian-hoffmann.md
 ---
 
@@ -228,9 +227,9 @@ If you don't have health insurance yet, talk to a health insurance broker. Healt
 
 ### Step 2: Fill the registration form
 
-Fill [the registration form](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/anmeldung.html) and submit it. This takes a few seconds. If the KSK accepts you, your coverage starts from the date you fill this form.[^28]
+Fill [the registration form](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/anmeldung) and submit it. This takes a few seconds. If the KSK accepts you, your coverage starts from the date you fill this form.[^28]
 
-**[KSK online registration form ➞](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/anmeldung.html)**
+**[KSK online registration form ➞](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/anmeldung)**
 
 You will get a confirmation email a few minutes later. You will get another email with a reference number (*Aktenzeichen*) a few hours later. You need this number when you fill the application form.
 
@@ -391,7 +390,7 @@ If your predicted income is wrong, it's okay.
 
 - If your predicted income is too low, you pay less than you should. The KSK will not ask you to pay more.[^36] Good for you.
 - If your predicted income is too high, you pay more than you should. The KSK will not give you any money back.[^37] Bad for you.
-- If your prediction is really wrong, then you can [make a correction](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/aenderungsmitteilungen.html) (*Änderungsmitteilung*). The KSK will adjust your future payments. They will not ask you to pay more for the past months. They will not give you any money back.
+- If your prediction is really wrong, then you can [make a correction](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/aenderungsmitteilungen) (*Änderungsmitteilung*). The KSK will adjust your future payments. They will not ask you to pay more for the past months. They will not give you any money back.
 - If you make bad predictions on purpose, the KSK can fine you up to 5,000€.[^38] They can also kick you out. They can't ask you to pay more for the past months.
 
 ### There are random audits
@@ -473,7 +472,7 @@ A consultation costs between 75€ and 200€. Keep the invoice; it's a [tax-ded
 
 ### Contact the KSK
 
-If you speak German, you can [call or email the Künstlersozialkasse](https://www.kuenstlersozialkasse.de/service/kontakt.html).
+If you speak German, you can [call or email the Künstlersozialkasse](https://www.kuenstlersozialkasse.de/service/kontakt).
 
 ### Organisations for artists
 
@@ -527,7 +526,7 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^13]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=bei%20der%20lehre%20von%20kunst)
 [^14]: [ksk-rechtshilfe.de](https://www.ksk-rechtshilfe.de/urteile/bsg-25-11-2015-b-3-ks-3-14-r/), [ksk-rechtshilfe.de](https://www.ksk-rechtshilfe.de/urteile/#:~:text=und%20nicht%20sportliche%20fitness%20im%20vordergrund%20stehen.), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1511621872587043/?__cft__[0]=AZXVYFKZh6-qThc-vlQ_YmAr53Qj82GX1WUNmDueR4jv4aqpAjuZjpu6sx5pUJRz3gIh5vdp_cW-rH3HlBizogVDW3WveUrbSEIWAgPQuPDp2gkAV-2yp6ocT3lU6toY7gtbuD3lRtFu6luDFR_w9oeOzbZE7-2MbCjFpIBrbvFi8UyYeRQR6Hdws_lOnMJuBJk&__tn__=%2CO%2CP-R)
 [^15]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=auch%20modedesigner%20kommen%20nur%20in%20die%20ksk), [tattoo-recht.de](https://tattoo-recht.de/taetowierer-sind-keine-kuenstler/), [rechtslupe.de](https://www.rechtslupe.de/sozialrecht/fotografen-sind-keine-kuenstler-317944)
-[^16]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen.html), [§1 KSVG](https://www.gesetze-im-internet.de/ksvg/__1.html), [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Informationsschriften/Das_Wichtigste_zur_KSV_in_K%C3%BCrze.pdf), [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/)
+[^16]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen), [§1 KSVG](https://www.gesetze-im-internet.de/ksvg/__1.html), [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Informationsschriften/Das_Wichtigste_zur_KSV_in_K%C3%BCrze.pdf), [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/)
 [^17]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ksvg/__1.html#:~:text=und%20nicht%20nur-,vorubergehend,-aus%C3%BCben%20und)
 [^18]: [§3 KSVG](https://www.gesetze-im-internet.de/ksvg/__3.html)
 [^19]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=there%20is%20no%20maximum%20income)
@@ -539,14 +538,14 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^25]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/4270792049667813/)
 [^26]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=the%20better%20part%20of%20a%20year), [Settle in Berlin](https://www.settle-in-berlin.com/health-insurance-germany/ksk-insurance-guide-germany-english/?amp#:~:text=it%20takes%20ksk%20at%20least%20three%20months), [dwdl.de](https://www.dwdl.de/vitamind/60641/knstlersozialkasse_die_absicherung_fr_freiberufler/#:~:text=durchschnittlich%20liegt%20die%20bearbeitungsdauer%20bei%20drei%20monaten), [kuenzelsau.de](https://kuenzelsau.de/,Lde/-/verfahren/kuenstlersozialkasse-ksk---anmelden-als-selbstaendiger-kuenstler-oder-publizist/vbid1467#:~:text=Kranken-%20und%20Pflegeversicherung-,bearbeitungsdauer,-Abh%C3%A4ngig%20vom%20Ermittlungsaufwand), [selbststaendigen.info](https://selbststaendigen.info/suche-im-ratgeber/?lnk=h40e044d5f09b9#:~:text=zwei%20bis%20drei%20monaten%20), [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/4924859464193467/)
 [^27]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=jede%20gesetzliche%20krankenkasse%20steht%20offen)
-[^28]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/service/mediencenter-kuenstler-und-publizisten.html#:~:text=allgemeine%20informationen%20und%20anmeldeunterlagen), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1446589625756935/)
+[^28]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/service/mediencenter-kuenstler-und-publizisten#:~:text=allgemeine%20informationen%20und%20anmeldeunterlagen), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1446589625756935/)
 [^29]: [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1438698096546088/)
 [^30]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/3442076989205994/)
 [^31]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/1504451179635261/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/1769776259769417/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/2825030430910656/), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1518175025265061/)
 [^32]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/2818845894862443/)
 [^33]: [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/5164382353574509/?comment_id=5166381990041212)
 [^34]: [netmoms.de](https://www.netmoms.de/tipps/nachweis-elterneigenschaft-bekommst-du-ihn/#:~:text=was%20zahlt%20als%20nachweis%20der%20elterneigenschaft%3F)
-[^35]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/jahresmeldung-versicherte.html)
+[^35]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/jahresmeldung-versicherte)
 [^36]: [kuenstlerrat.de](http://www.kuenstlerrat.de/special_ksk_ueberpruef.htm#:~:text=eine%20nach-%20oder%20ruckzahlung%20von%20beitragen%20)
 [^37]: [kuenstlerrat.de](http://www.kuenstlerrat.de/special_ksk_ueberpruef.htm#:~:text=eine%20nach-%20oder%20ruckzahlung%20von%20beitragen%20), [freie-wildbahn.de](https://freie-wildbahn.de/kuenstlersozialkasse/ksk-pruefung-versicherte#:~:text=zu%20hoch%20geschatzten%20einkommen%20resultieren%20hohere%20ksk-beitrage)
 [^38]: [kuenstlerrat.de](http://www.kuenstlerrat.de/special_ksk_ueberpruef.htm#:~:text=die%20bu%C3%9Fgelder%20konnen%20bis%20zu%205.000%20%E2%82%AC%20betragen), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/ksvg/__36.html#:~:text=geldbu%C3%9Fe%20bis%20zu%20funftausend%20euro)

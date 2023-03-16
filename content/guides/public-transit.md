@@ -3,7 +3,6 @@ Title: How to use public transit in Berlin
 Short_title: How to use public transit
 Description: This guide shows you how to use public transportation in Berlin, and how to use other options like car sharing, bike sharing and taxis.
 Date_created: 2021-08-13
-Date_updated: 2023-01-27
 ---
 
 This guide explains how to use trains, trams, buses and ride sharing in Berlin.
@@ -58,7 +57,7 @@ There are cheaper tickets for certain situations:
 
 There are many ways to buy a public transit ticket:
 
-- **In the [BVG app](https://www.bvg.de/en/tickets-tariffs/all-apps)**  
+- **In the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
     The BVG app is the easiest way to buy train tickets. The app is in English. You must create an account. If your phone runs out of battery, you don't have a valid ticket.
 - **In the [VBB app](https://www.vbb.de/en/driving-information/apps/)**  
     The VBB app lets you buy tickets in Berlin and [[Brandenburg]]. You must create an account. It's a little harder to use, but the tickets are the same.
@@ -101,7 +100,7 @@ Tickets from bus drivers and tram machines don't always need to be stamped. Mont
 
 ## Step 3: Use public transport
 
-Get on the bus, tram, train or ferry, and go where you want to go. Get directions from [Google Maps](https://maps.google.com/) ([iOS](https://apps.apple.com/us/app/google-maps/id585027354) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)) or [BVG Fahrinfo](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app).
+Get on the bus, tram, train or ferry, and go where you want to go. Get directions from [Google Maps](https://maps.google.com/) ([iOS](https://apps.apple.com/us/app/google-maps/id585027354) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app).
 
 ### On the bus
 
@@ -149,21 +148,21 @@ The display shows a train's last stop, not its direction. For example, if an S2 
 
 ### Rent a scooter
 
-You can rent electric scooters (🛴) with the [Jelbi](https://www.jelbi.de/en/home/), [Bolt](https://bolt.eu/de/scooters/), [Lime](https://www.li.me/de/startseite), [Tier](https://www.tier.app/de/how-tier-works/) or [Voi](https://www.voiscooters.com/de/) apps. You do not need a driving licence.
+You can rent electric scooters (🛴) with the [Jelbi](https://www.jelbi.de/en/home/), [Bolt](https://bolt.eu/en-de/scooters/), [Lime](https://www.li.me/en-de/), [Tier](https://www.tier.app/de/how-tier-works/) or [Voi](https://www.voi.com/de/) apps. You do not need a driving licence.
 
 ### Rent a moped
 
-You can rent motor scooters (🛵) with the [Jelbi](https://www.jelbi.de/en/home/), [Emmy](https://emmy-sharing.de/en/), [Felyx](https://felyx.com/de/en), [Lime](https://www.li.me/de/startseite) or [Tier](https://www.tier.app/de/how-tier-works/) apps. There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they're only valid for 6 months after you move to Germany.
+You can rent motor scooters (🛵) with the [Jelbi](https://www.jelbi.de/en/home/), [Emmy](https://emmy-sharing.de/en/), [Felyx](https://felyx.com/de/en), [Lime](https://www.li.me/en-de/) or [Tier](https://www.tier.app/de/how-tier-works/) apps. There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they're only valid for 6 months after you move to Germany.
 
 ### Rent a car
 
-You can rent a car from [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car. You can also use car sharing services like [Miles](https://miles-mobility.com/en-de) and [Share Now](https://www.share-now.com/de/en/berlin/). The [Jelbi](https://www.jelbi.de/en/home/) app lets you use different car sharing services. Car sharing services let you rent a car for just one trip, and park it when you are finished.
+You can rent a car from [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car. You can also use car sharing services like [Miles](https://miles-mobility.com/en-de) and [Share Now](https://www.share-now.com/de/en/berlin/). The [Jelbi](https://www.jelbi.de/en/home/) app lets you use different car sharing services. Car sharing services let you rent a car for just one trip, and park it when you are finished.
 
 You need a valid driving licence to use those services. Car sharing services don't always accept non-EU licences, because they're only valid for 6 months after you move to Germany.
 
 ### Call a taxi
 
-People rarely use taxis in Berlin, because they are very expensive.[^8] You can get a taxi from [BerlKönig](https://www.berlkoenig.de/), [Bolt](https://bolt.eu/en/cities/berlin/), [FreeNow](https://free-now.com/de/taxi-berlin/), [Uber](https://www.uber.com/global/en/cities/berlin/), and standard taxi services. The [Jelbi app](https://www.jelbi.de/en/home/) also lets you book a taxi.
+People rarely use taxis in Berlin, because they are very expensive.[^8] You can get a taxi from [BerlKönig](https://unternehmen.bvg.de/pressemitteilung/berlkoenig-geht-neue-angebote-kommen/), [Bolt](https://bolt.eu/en/cities/berlin/), [FreeNow](https://www.free-now.com/de/taxi-berlin/), [Uber](https://www.uber.com/global/en/cities/berlin/), and standard taxi services. The [Jelbi app](https://www.jelbi.de/en/home/) also lets you book a taxi.
 
 German taxis must accept cash and credit cards.[^8] The Jelbi app also accepts PayPal.
 
@@ -222,14 +221,14 @@ This excludes the student ticket (*Schülerticket*), the FlexTicket, the 10AM ca
 [^0]: [sbahn.berlin](https://sbahn.berlin/en/tickets/the-vbb-fare-explained/passenger-regulations/?acc=a7133-t1)
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
 [^2]: [go.bvg.de](https://go.bvg.de/kontaktlos)
-[^3]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlin-verabschiedet-sich-von-barzahlung-in-bussen-bvg-verteidigt-rein-bargeldlosen-ticketkauf-beim-fahrer/27423172.html)
+[^3]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/bvg-verteidigt-rein-bargeldlosen-ticketkauf-beim-fahrer-6856978.html)
 [^4]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/vbb-umweltkarte/?acc=a3861-t1)
 [^5]: [berlin.de](https://www.berlin.de/tourismus/infos/nahverkehr/1859225-1721041-nachtbusse-nachtlinien.html)
 [^6]: [berlin.de](https://www.berlin.de/tourismus/dampferfahrten/faehren/)
 [^7]: [dbregio-berlin-brandenburg.de](https://www.dbregio-berlin-brandenburg.de/db-regio-no/Fahren/Fahrplaene)
 [^8]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
-[^9]: [bvg.de](https://www.bvg.de/de/Service/Service-fuer-unterwegs/Fahrrad)
+[^9]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-tickets#Fahrr%C3%A4der)
 [^10]: [berlin.de](https://www.berlin.de/tourismus/fahrradtouren/2012604-1740418-mit-dem-fahrrad-s-und-ubahn-nutzen.html)
-[^11]: [bvg.de](https://www.bvg.de/de/Tickets/Tarifinformationen), [vbb.de](https://www.vbb.de/fahrpreise/mitnehmen-kinder-fahrrad-hund), [bvg.de](https://www.bvg.de/de/tickets-und-tarife/alle-abos/schuelerticket-berlin)
+[^11]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/tarifzonen-und-tarifbestimmungen), [vbb.de](https://www.vbb.de/tickets/tarifinformationen-services/mitnahmemoeglichkeiten/), [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin)
 [^12]: [Students and apprentices](https://sbahn.berlin/en/tickets/all-tickets/school-students-apprentice-students/monthly-subscription-ticket-for-apprentices/school-students/?tabs=tbc-tfeatures), [10-Uhr-Karte](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/10am-ticket/?tabs=tbc-tfeatures), [short trip ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/), [FlexTicket](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-flexticket/?tabs=tbc-tfeatures)
 [^13]: [Weekly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/7-day-ticket/?tabs=tbc-tfeatures) and [monthly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-umweltkarte/?tabs=tbc-tfeatures) tickets

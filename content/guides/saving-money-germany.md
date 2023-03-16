@@ -3,7 +3,6 @@ Title: Tips to save money in Germany
 Short_title: Tips to save money
 Description: Different ways to save money in Berlin and Germany, without sacrificing your lifestyle.
 Date_created: 2020-08-27
-Date_updated: 2023-01-04
 ---
 
 This guide shows you different ways to save money in Germany. Most of those tricks do not require you to change your lifestyle.
@@ -110,7 +109,7 @@ There are 3 ways to save money on public transit passes:
 | 10-Uhr-Karte, monthly subscription | 45€ | 547€ |
 | 10-Uhr-Karte, yearly subscription | 44€ | 531€ |
 
-Source: [Ticket prices](https://www.bvg.de/en/Tickets/fares) - January 2023
+Source: [Ticket prices](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets) - January 2023
 
 ## Move to a cheaper area
 

@@ -15,7 +15,7 @@ This guide is for people who do not live in Germany yet. If you already live in 
 
 Some employers hire "freelancers", but treat them like employees. This way, they don't have to pay social and healthcare. This is called fake self-employment ([*Scheinselbstständigkeit*](/glossary/Scheinselbstst%C3%A4ndigkeit)), and it's illegal.[^0]
 
-**[What is fake self-employment?](https://www.redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)** - Red Tape Translation
+**[What is fake self-employment?](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)** - Red Tape Translation
 
 ## Understand the German system
 
@@ -200,5 +200,5 @@ If you are a freelance artist, publicist or art teacher, you can apply for the *
 [^3]: [Screenshot](/guides/haftpflichtversicherung)
 [^4]: [Screenshot](/guides/how-to-get-a-german-freelance-visa)
 [^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4szbve/freelancing_in_germany_help_and_questions/d5dggy0/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9b8tm8/a_few_questions_for_berlinbased_freelancers/e51c3tk/)
-[^6]: [gtai.de](https://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/Coming-to-germany/Who-needs-a-visa/schengen-visa-and-national-visa.html), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
-[^7]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/leistungen/krankengeld/selbststaendige/krankengeldanspruch-selbststaendige-2006296)
+[^6]: [gtai.de](https://www.gtai.de/en/invest/investment-guide/who-needs-a-visa--558348), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
+[^7]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/krankengeldanspruch-selbststaendige-2006296)

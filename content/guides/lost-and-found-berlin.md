@@ -3,7 +3,6 @@ Title: Lost and found in Berlin - how to get your things back
 Short_title: Where to find lost things
 Description: What to do if you forgot something on the train, or simply lost it somewhere in Berlin.
 Date_created: 2019-11-28
-Date_updated: 2022-08-03
 ---
 
 Lost something in Berlin? You're not alone. Hundreds of thousands of lost items are found in Berlin each year. Here's what you have to get your things back.
@@ -16,7 +15,7 @@ If your objects were stolen, you must report the theft to the police. If they ar
 
 ## Lost objects in the train, tram or bus
 
-If you lost something in the S-Bahn, U-Bahn, tram or bus, you must go to the [BVG- und S-Bahn-Fundbüro](https://goo.gl/maps/GJZxQegzo6Ay57AJ6). You can find more information [here](https://www.bvg.de/de/Service/Kundenservice/Fundbuero).
+If you lost something in the S-Bahn, U-Bahn, tram or bus, you must go to the [BVG- und S-Bahn-Fundbüro](https://goo.gl/maps/GJZxQegzo6Ay57AJ6). You can find more information [here](https://www.bvg.de/de/service-und-kontakt/fundbuero).
 
 - **Where to go:** [BVG- und S-Bahn-Fundbüro](https://goo.gl/maps/GJZxQegzo6Ay57AJ6), Rudolfstraße 1-8, Friedrichshain.
 - **When to go:** Wait at least 5 days, but no more than 6 weeks. Found objects arrive at the Fundbüro in around 5 days.[^0] Keys and personal documents are destroyed after 6 weeks.
@@ -29,13 +28,13 @@ If you lost something on a Flixbus bus, you must their [lost item search](https:
 
 ## Lost objects on [[Deutsche Bahn]] trains
 
-If you lost something on a Deutsche Bahn train, use their online [lost property service](https://db.novafind.eu/home/db/db/app/lossrecords/new/items/0/categoryCultureName=EN). You can find more information [here](https://www.bahn.de/p/view/service/fundservice.shtml).
+If you lost something on a Deutsche Bahn train, use their online [lost property service](https://db.novafind.eu/home/db/db/app/lossrecords/new/items/0/categoryCultureName=EN). You can find more information [here](https://www.bahn.de/service/ueber-uns/fundservice).
 
 Found items are kept at the train station for 7 days. Items worth more than 15€ are then sent to the central collection point in Wuppertal.[^2]
 
 - **Where to go:** The online [lost property service](https://db.novafind.eu/home/db/db/app/lossrecords/new/items/0/categoryCultureName=EN) on Deutsche Bahn website
-- **When to go:** As soon as you lost something on the train. It can take up to 2 days for items to be returned to the station.[^2] After 70 days, the found items are put on auction. You can find the auction dates [here](https://www.bahn.de/p/view/service/fundservice.shtml).
-- **Special instructions:** [Report the item loss online](https://www.bahn.com/en/contact/lost-luggage-form). There is a fee of 5 to 35€ for getting your items back.[^3] You can find the fee list [here](https://www.bahn.de/p/view/service/fundservice.shtml).
+- **When to go:** As soon as you lost something on the train. It can take up to 2 days for items to be returned to the station.[^2] After 70 days, the found items are put on auction. You can find the auction dates [here](https://www.bahn.de/service/ueber-uns/fundservice).
+- **Special instructions:** [Report the item loss online](https://www.bahn.com/en/contact/lost-luggage-form). There is a fee of 5 to 35€ for getting your items back.[^3] You can find the fee list [here](https://www.bahn.de/service/ueber-uns/fundservice).
 
 ## Lost objects at BER airport
 
@@ -85,9 +84,9 @@ For objects found in the train or public transit, the rules are different:
 - **Under 50€**: no reward
 - **Over 50€**: half of the normal reward
 
-[^0]: [bvg.de](https://www.bvg.de/de/Service/Kundenservice/Fundbuero)
-[^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p3896), [juraforum.de](https://www.juraforum.de/ratgeber/zivilrecht/finderlohn-so-berechnen-sie-die-hoehe), [Wikipedia](https://de.wikipedia.org/wiki/Finderlohn)
-[^2]: [inside.bahn.de](https://inside.bahn.de/fundservice-der-db/)
-[^3]: [bahn.de](https://www.bahn.de/p/view/service/fundservice.shtml)
+[^0]: [bvg.de](https://www.bvg.de/de/service-und-kontakt/fundbuero)
+[^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p3896), [juraforum.de](https://www.juraforum.de/news/finderlohn-berechnung-der-hoehe-nach-s-965-bgb_247417), [Wikipedia](https://de.wikipedia.org/wiki/Finderlohn)
+[^2]: [inside.bahn.de](https://www.bahn.de/service/ueber-uns/inside-bahn/hintergrund-technik/fundservice-der-db)
+[^3]: [bahn.de](https://www.bahn.de/service/ueber-uns/fundservice)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1735948-1721039-fundbueros-in-berlin.html)
 [^5]: [berlin.de](https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/fundbuero/)

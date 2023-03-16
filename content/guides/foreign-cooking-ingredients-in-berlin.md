@@ -3,7 +3,6 @@ Title: Where to find foreign cooking ingredients in Berlin
 Short_title: Rare cooking ingredients
 Description: Finding common baking ingredients such as brown sugar and baking soda can be fairly difficult in Germany. Here is where you can find them.
 Date_created: 2017-09-27
-Date_updated: 2023-01-06
 Related_places: places/australia-shopping-world-berlin.md, places/american-lifestyle.md, places/kaufhaus-des-westens.md, places/broken-english.md, places/chili-paprika.md, places/ledo-forckenbeckstraße.md, places/aqui-españa.md, places/mehlstübchen.md, places/kasatschok.md, places/americanfood4u.md
 ---
 
@@ -23,11 +22,11 @@ American cheese, the square, "radioactive yellow" cheese that's also known as Kr
 
 ### Baking soda
 
-Sodium bicarbonate is called *Natron* in Germany. It's sold in small paper packets and boxes. You can find it in the baking section of all grocery stores. Look for the green [Kaiser Natron boxes](http://amzn.to/2ysUzPG) and [packets](https://www.amazon.de/Holste-Kaiser-Natron-50-g/dp/B00HL731VU/). You can find Arm & Hammer baking soda at some Asian grocery stores like [Asia24 near Rathaus Steglitz](https://g.page/asia24-asien-supermarkt?share).
+Sodium bicarbonate is called *Natron* in Germany. It's sold in small paper packets and boxes. You can find it in the baking section of all grocery stores. Look for the green [Kaiser Natron boxes](https://www.amazon.de/Kaiser-Natron-Sparpack-10-250/dp/B000T28YGQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1478691802&sr=1-2&keywords=natron&linkCode=sl1&tag=nicolasboulia-21&linkId=fa7d9c532402f7653bf05dbae042d61b) and [packets](https://www.amazon.de/Holste-Kaiser-Natron-50-g/dp/B00HL731VU/). You can find Arm & Hammer baking soda at some Asian grocery stores like [Asia24 near Rathaus Steglitz](https://g.page/asia24-asien-supermarkt?share).
 
 ### Baking powder
 
-Baking powder is called *Backpulver* in Germany. It's easy to find. Look for [small paper packets](http://amzn.to/2wkUDAu) in the baking section of any grocery store. German baking powder is usually single-acting, while American and English baking powder is double-acting, and [the difference is important](https://www.thoughtco.com/double-and-single-acting-baking-powder-3975954). [Broken English](http://www.brokenenglish.de/) and many Asian markets have double-acting baking powder. If you are in a pinch, substitute double-acting baking powder with 1.25x the amount single-acting baking powder.
+Baking powder is called *Backpulver* in Germany. It's easy to find. Look for [small paper packets](https://www.amazon.de/Alnatura-Bio-Reinweinstein-Backpulver-Packung/dp/B06WW6TRNQ/ref=as_li_ss_tl?m=A3JWKAKR8XB7XF&ie=UTF8&qid=1506522836&sr=1-8&keywords=backpulver&refinements=p_6:A3JWKAKR8XB7XF&linkCode=sl1&tag=nicolasboulia-21&linkId=929edab7fe91f94f7d74ea6ef8d109d8) in the baking section of any grocery store. German baking powder is usually single-acting, while American and English baking powder is double-acting, and [the difference is important](https://www.thoughtco.com/double-and-single-acting-baking-powder-3975954). [Broken English](https://brokenenglish.de/) and many Asian markets have double-acting baking powder. If you are in a pinch, substitute double-acting baking powder with 1.25x the amount single-acting baking powder.
 
 ### Boneless chicken thighs
 
@@ -73,7 +72,7 @@ North American all-purpose flour is the same as Type 550 flour in Germany. It's 
 
 ### Graham crumbs
 
-Graham crumbs are hard to find, but if you grind [Leibniz crackers](http://amzn.to/2yBu6iZ) into crumbs, it's exactly the same. You can find them in every supermarket.
+Graham crumbs are hard to find, but if you grind [Leibniz crackers](https://www.amazon.de/Leibniz-2214649-6-Butterkeks-200-g/dp/B012I5E5A0/ref=as_li_ss_tl?ie=UTF8&qid=1506886300&sr=8-7&keywords=leibniz+kekse&linkCode=sl1&tag=nicolasboulia-21&linkId=f8fcc8a2d62383124facbe5e27c99e93) into crumbs, it's exactly the same. You can find them in every supermarket.
 
 ### Hot dog sausages
 
@@ -97,11 +96,11 @@ You can find it in Turkish supermarkets like Bolu or Eurogida. Find them with [t
 
 ### Molasses
 
-Molasses is called *Melasse* in German. You can find it at Edeka and in many bio shops. You can also [order it off Amazon](http://amzn.to/2ylsw93).
+Molasses is called *Melasse* in German. You can find it at Edeka and in many bio shops. You can also [order it off Amazon](https://www.amazon.de/Meridian-Foods-Pavilion-DV5-1020et-Bio-Melasse/dp/B002E2LUBA/ref=as_li_ss_tl?ie=UTF8&qid=1506984532&sr=8-1&keywords=melasse&linkCode=sl1&tag=nicolasboulia-21&linkId=b057d748f84af6e7be96fe82f2050a17).
 
 ### Mustard powder
 
-This staple ingredient of American BBQ can be found in most [Wochenmärkte](http://www.mein-wochenmarkt.com/berlin/). I get mine from the Winterfeldtplatz market. Just look for *Senfpulver* at the spice kiosks. Colman's Mustard Powder can be found at KaDeWe or ordered [from Amazon](http://amzn.to/2xNSFdr).
+This staple ingredient of American BBQ can be found in most [Wochenmärkte](http://www.mein-wochenmarkt.com/berlin/). I get mine from the Winterfeldtplatz market. Just look for *Senfpulver* at the spice kiosks. Colman's Mustard Powder can be found at KaDeWe or ordered [from Amazon](https://www.amazon.de/Colmans-Mustard-Powder-113g-Senfpulver/dp/B000I4MKSS/ref=as_li_ss_tl?ie=UTF8&qid=1506954531&sr=8-5&keywords=senfpulver&linkCode=sl1&tag=nicolasboulia-21&linkId=aa7956b8f4cfa4740f55bb599d82f443).
 
 ### Pancetta
 
@@ -113,11 +112,11 @@ Most grocery stores carry peanut butter. REWE has both creamy and crunchy peanut
 
 ### Powdered sugar
 
-Powdered sugar (also called confectioner's sugar or icing sugar) is called *Puderzucker* or *Staubzucker*. It's sold in [small boxes](http://amzn.to/2fQyuDJ) in the baking section of all grocery stores. It's very easy to find. [There is a small difference](https://whatscookingamerica.net/Q-A/sugar.htm) between powdered sugar and confectioner's sugar. If you need confectioner's sugar, add 1 tablespoon of cornstarch per cup of powdered sugar.
+Powdered sugar (also called confectioner's sugar or icing sugar) is called *Puderzucker* or *Staubzucker*. It's sold in [small boxes](https://www.amazon.de/Sweet-Family-Nordzucker-Puderzucker-250g/dp/B0037PDLL0/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1506524079&sr=1-5&keywords=puderzucker&linkCode=sl1&tag=nicolasboulia-21&linkId=e8374443a23655c4ee08b273aedf5dde) in the baking section of all grocery stores. It's very easy to find. [There is a small difference](https://whatscookingamerica.net/q-a/sugar.htm) between powdered sugar and confectioner's sugar. If you need confectioner's sugar, add 1 tablespoon of cornstarch per cup of powdered sugar.
 
 ### Pumpkin puree
 
-KaDeWe and Galeria Kaufhof sell [Libby's](https://www.verybestbaking.com/libbys) pumpkin puree. [American Lifestyle](http://www.us-shop-berlin.de/Libbys-100-Pure-Pumpkin-425-g) also has pumpkin puree. You can also [make your own](http://allrecipes.com/recipe/22935/pumpkin-puree/).
+KaDeWe and Galeria Kaufhof sell [Libby's](https://www.verybestbaking.com/libbys) pumpkin puree. [American Lifestyle](https://www.us-shop-berlin.de/epages/63282115.sf/de_DE/?ObjectPath=/Shops/63282115/Products/58690) also has pumpkin puree. You can also [make your own](https://www.allrecipes.com/recipe/22935/pumpkin-puree/).
 
 ### Sal de Guzano, sal de Chapulín
 
@@ -129,15 +128,15 @@ You can get it from most Asian supermarkets, and at Galeria Kaufhof. You can mak
 
 ### Vanilla extract
 
-Vanilla extract hard to find in Germany. I buy it [on Amazon](http://amzn.to/2hzkheJ). Galeria Kaufhof, [Chili & Paprika](http://www.chiliundpaprika.de/), Edeka and [Metro](https://www.metro.de/) also sell it.
+Vanilla extract hard to find in Germany. I buy it [on Amazon](https://www.amazon.de/T-C-Vanilleschoten-Extrakt-100ml/dp/B007TA9ONI/ref=as_li_ss_tl?ie=UTF8&qid=1506524223&sr=8-1&keywords=vanilleextrakt+fl%C3%BCssig&linkCode=sl1&tag=nicolasboulia-21&linkId=55335f4a2c96e6f11ebf21c2c439a9b4). Galeria Kaufhof, [Chili & Paprika](http://www.chiliundpaprika.de/), Edeka and [Metro](https://www.metro.de/) also sell it.
 
 ### Vegemite
 
-[Australia Shopping World](http://www.australiashop.com/) has Vegemite. You can also [order it from Amazon](https://amzn.to/3lh7pP6), but it's more expensive.
+[Australia Shopping World](https://australiashopping.de) has Vegemite. You can also [order it from Amazon](https://www.amazon.de/s?k=vegemite&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3T4OXQ9V62S49&sprefix=vegemite,aps,103&linkCode=sl2&tag=nicolasboulia-21&linkId=526a9d3dddcd65574ae14fd088974159&language=de_DE&ref_=as_li_ss_tl), but it's more expensive.
 
 ### Yeast
 
-Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](http://amzn.to/2wjxbUd) in the baking section of all grocery stores.
+Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](https://www.amazon.de/Alnatura-Bio-Backhefe-9-g/dp/B06XDZS9X2/ref=as_li_ss_tl?srs=5787992031&ie=UTF8&qid=1506523015&sr=8-1&keywords=backhefe&linkCode=sl1&tag=nicolasboulia-21&linkId=cd1a534f24e61223069fa54231f10952) in the baking section of all grocery stores.
 
 ## Stores that sell international foods
 
@@ -146,11 +145,10 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 - [Galeria Kaufhof](https://www.galeria-kaufhof.de/): Large selection of international products
 - [KaDeWe](https://www.kadewe.de/): Large selection of international products
 - [Mehlstübchen](https://www.mehlstuebchen.de/): Flours from all over the world
-- [real,-](https://www.real.de/): Department store with small international foods section
 
 ### Australia
 
-- [Australia Shopping World](http://www.australiashop.com/)
+- [Australia Shopping World](https://australiashopping.de)
 
 ### Eastern Europe
 
@@ -172,11 +170,11 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 ### United Kingdom
 
-- [Broken English](http://www.brokenenglish.de/)
+- [Broken English](https://brokenenglish.de/)
 
 ### United States and Canada
 
-- [American Lifestyle](http://www.american-style.de/)
+- [American Lifestyle](https://www.us-shop-berlin.de/)
 - [AmericanFood4U](https://www.americanfood4u.de/)
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ithnsf/almond_flour/)

@@ -170,7 +170,7 @@ If you own a business in Germany, you might also need deregister it,[^16] or tra
 
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 
-[^0]: [buergeramt-termine.de](https://buergeramt-termine.de/single-post/Abmeldung-Deregister-Berlin)
+[^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/psnrmh/deregistration_wohnung_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/eztva8/abmeldung/)
@@ -184,9 +184,9 @@ If you own a business in Germany, you might also need deregister it,[^16] or tra
 [^11]: [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregistration-berlin/#:~:text=currently%20only%20possible%20at), [Screenshot](/images/abmeldung-by-email-steglitz.png), [Screenshot](/images/abmeldung-by-email-steglitz-2.png), [Screenshot](/images/ba-steglitz-anmeldebestatigung-email.png), [Screenshot](/images/burgeramt-steglitz-abmeldung-email-5.png)
 [^12]: [Screenshot](/images/Screenshot-2022-01-17-at-09.08.56.png)
 [^13]: [Screenshot](/images/ba-steglitz-abmeldung-email-requirements.png)
-[^14]: [wirelesslife.de](https://wirelesslife.de/wohnsitz-abmelden-umzug-ins-ausland/#umzug5)
+[^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland/#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/)
-[^16]: [wirelesslife.de](https://wirelesslife.de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
+[^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
 [^17]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/m14kvt/what_happens_after_the_abmeldung/gqboqey/?utm_source=reddit&utm_medium=web2x&context=3)
 [^18]: [facebook.com](https://www.facebook.com/groups/226825394858771/permalink/825051525036152)
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1050), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)

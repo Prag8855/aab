@@ -1,9 +1,8 @@
 ---
 Title: How to run a website in Germany
 Short_title: How to run a website
-Description: Here are all the laws and regulations you must follow to run a website legally in Germany. This guide includes information about GDPR requirements.
+Description: The laws and regulations you must follow to run a website legally in Germany: the Impressum, analytics, cookie banners, GDPR, etc.
 Date_created: 2018-05-07
-Date_updated: 2022-08-03
 ---
 
 This guide shows you what you must do if you run a website in Germany. It's based on my experience running All About Berlin.
@@ -16,30 +15,30 @@ Since May 2018, all websites that serve European Union customers must follow the
 
 Here are the basic principles of GDPR:
 
-1. **[Only collect the data you really need](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-much-data-can-be-collected_en)**  
+1. **[Only collect the data you really need](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-much-data-can-be-collected_en)**  
     Be careful about data you accidentally collect, such as server logs.
-2. **[Do not store data for longer than necessary](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-long-can-data-be-kept-and-it-necessary-update-it_en)**  
+2. **[Do not store data for longer than necessary](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/how-long-can-data-be-kept-and-it-necessary-update-it_en)**  
     When you no longer need the data, delete it.[^24]
 3. **Do not store personal data without the user's consent.**  
     Get explicit consent from your users before collecting their data. The only exception is for data that's absolutely necessary to make your service work.[^23]
-4. **[Be transparent about the data you collect from your users](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/what-information-must-be-given-individuals-whose-data-collected_en).**  
+4. **[Be transparent about the data you collect from your users](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/what-information-must-be-given-individuals-whose-data-collected_en).**  
     Disclose the data you collect, why you collect that data, and who you collect that data for. Put this information in your privacy policy (*Datenschutzerklärung*).[^20]
-5. **[Only use the data for the purpose it was collected for](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/what-data-can-we-process-and-under-which-conditions_en).**
-6. **[Store the data about your users securely](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/what-data-can-we-process-and-under-which-conditions_en).**
+5. **[Only use the data for the purpose it was collected for](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/overview-principles/what-data-can-we-process-and-under-which-conditions_en).**
+6. **[Store the data about your users securely](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/principles-gdpr/overview-principles/what-data-can-we-process-and-under-which-conditions_en).**
 7. **[Give your users a way to delete their account and erase their data](https://gdpr-info.eu/art-17-gdpr/)**.  
     They have the [right to be forgotten](https://gdpr-info.eu/issues/right-to-be-forgotten/).
 
 Here are resources that helped us understand and comply with this regulation.
 
-- [GDPR requirements in plain English](https://blog.varonis.com/gdpr-requirements-list-in-plain-english/)
-- [Overview of the General Data Protection Regulation](https://gdpr-info.eu/key-issues/)
+- [GDPR requirements in plain English](https://www.varonis.com/blog/gdpr-requirements-list-in-plain-english)
+- [Overview of the General Data Protection Regulation](https://gdpr-info.eu/issues/)
 - [The General Data Protection Regulation text in English](https://gdpr-info.eu/)
-- [What is personal data?](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-personal-data_en)
+- [What is personal data?](https://commission.europa.eu/law/law-topic/data-protection/reform/what-personal-data_en)
 - [GDPR and cookies](https://www.cookiebot.com/en/gdpr-cookies/)
 
 ### Who needs to do this?
 
-All websites that serve people in the European Union, no matter who runs the website or where it is hosted. It applies to personal, non-commercial websites too. See **[Who does the data protection law apply to?](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/application-regulation/who-does-data-protection-law-apply_en)** for more details.
+All websites that serve people in the European Union, no matter who runs the website or where it is hosted. It applies to personal, non-commercial websites too. See **[Who does the data protection law apply to?](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/application-regulation/who-does-data-protection-law-apply_en)** for more details.
 
 ### Legal basis
 
@@ -71,7 +70,7 @@ If you use cookies on your website, you must follow a few rules:
 3. **You can't force your users to accept tracking cookies.** You can't make tracking cookies a condition for using your service. You can't say "by using this website, you agree to accept our cookies". You can't force users to accept tracking cookies in your terms and conditions.[^22]
 4. **You must allow users to opt out of tracking cookies.**  
     Users must have a way to opt out of tracking cookies, except for cookies that are needed to make the website work. Google Analytics is not needed to make the website work.
-5. **Necessary cookies do not need consent.** You don't need the user's consent to set cookies that contain no [personally identifying information](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-personal-data_en), and that are necessary to make the website work. You don't need to allow the users to opt out of these cookies.[^0]
+5. **Necessary cookies do not need consent.** You don't need the user's consent to set cookies that contain no [personally identifying information](https://commission.europa.eu/law/law-topic/data-protection/reform/what-personal-data_en), and that are necessary to make the website work. You don't need to allow the users to opt out of these cookies.[^0]
 6. **Your privacy policy must clearly explain what cookies you set, and what they are used for.**
 7. **Be careful with embedded content.** YouTube videos, Disqus comments, Facebook like buttons and other third-party widgets often set tracking cookies.[^1] Either disable these widgets until you get consent from your users, or don't use them at all.
 
@@ -84,12 +83,12 @@ Tools like [CookieBot](https://www.cookiebot.com/en/cookie-consent/) can help yo
 
 ### Legal basis
 
-In the European Union, cookies were regulated by the [Cookie Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:En:PDF) and now by the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/), particularly articles 6 and 7.
+In the European Union, cookies were regulated by the [Cookie Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:En:PDF) and now by the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/), particularly articles 6 and 7.
 
 ### Examples
 
 - [CookieBot](https://www.cookiebot.com/en/cookie-consent/)'s cookie notice lets you choose which cookies you want to allow. Analytics cookies are enabled by default, and marketing cookies are disabled by default. Essential cookies cannot be disabled.
-- [Gruender.de](https://www.gruender.de/dsgvo-cookie-law/)'s cookie notice lets you choose which cookies you want to allow, with no pre-selected answer.
+- [Gruender.de](https://www.gruender.de/recht/dsgvo-cookie-law/)'s cookie notice lets you choose which cookies you want to allow, with no pre-selected answer.
 - [Piwik Pro](https://piwik.pro/blog/burning-questions-gdpr-answered-part-2-3/)'s cookie notice also lets you choose which cookies you want to allow, with no pre-selected answer.
 - Many websites ask for permission before they load content from YouTube, Twitter and other websites.
 
@@ -137,8 +136,8 @@ An Impressum must be "easily identifiable, directly accessible and constantly av
     - The telephone number and fax number of the website owner. The European Court of Justice says a phone number is not mandatory if the user has alternative options for rapid contact and direct and efficient communication.[^9]
 2. **An Impressum must also contain, if applicable:**
     - Details of any supervisory authority the company is a member of.
-        - [The Impressum of the Kottident dental clinic](http://www.kottident.de/impressum.html) includes information about the *Zahnärztekammer Berlin*.
-        - [The Impressum of Dr. med. Thomas Raile](http://hausarzt-raile.de/language/en/impress/) includes information about the *Ärztekammer Berlin*.
+        - [The Impressum of the Kottident dental clinic](https://www.kottident.de/impressum.html) includes information about the *Zahnärztekammer Berlin*.
+        - [The Impressum of Dr. med. Thomas Raile](https://hausarzt-raile.de/language/en/impress/) includes information about the *Ärztekammer Berlin*.
     - The VAT number (*Umsatzsteuer-Identifikationsnummer*) of the company
         - [BMW's Impressum](https://www.bmw.com/en/footer/imprint.html) includes their VAT number, DE 129273398.
         - [SAP's Impressum](https://www.sap.com/germany/about/legal/impressum.html) includes their VAT number, DE 210157578.
@@ -170,7 +169,7 @@ The rules regarding the Impressum are defined by [§ 5 Telemediengesetz (TMG)](h
 - [BMW's Impressum](https://www.bmw.com/en/footer/imprint.html)
 - [Facebook's Impressum](https://www.facebook.com/terms)
 - [Google's Impressum](https://www.google.de/contact/impressum.html), featuring details of the authorized representative
-- [A medical clinic's Impressum](http://hausarzt-raile.de/language/en/impress/), featuring details about supervisory authorities
+- [A medical clinic's Impressum](https://hausarzt-raile.de/language/en/impress/), featuring details about supervisory authorities
 
 ### To-do list
 
@@ -316,28 +315,28 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 
 **[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
 
-[^0]: [gruender.de](https://www.gruender.de/dsgvo-cookie-law/), [cookiebot.com](https://www.cookiebot.com/en/cookie-consent/)
+[^0]: [gruender.de](https://www.gruender.de/recht/dsgvo-cookie-law/), [cookiebot.com](https://www.cookiebot.com/en/cookie-consent/)
 [^1]: [techblog.bozho.net](https://techblog.bozho.net/tracking-cookies-gdpr/)
 [^2]: [anbieterkennung.de](http://www.anbieterkennung.de/gesetze.htm)
 [^3]: [rockit-internet.de](https://www.rockit-internet.de/en/what-is-an-impressum/)
 [^4]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/tmg/__5.html)
-[^5]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://20220425135201/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
-[^6]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://20220425135201/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=in%20der%20regel%20sind%20das%20e-mail-adresse%20und%20telefonnummer%2C)
-[^7]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://20220425135201/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=elektronisch%20als%20auch%20nicht%20elektronisch)
-[^8]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://20220425135201/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=nicht%20ausreichend%20ist%20ein%20postfach)
+[^5]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
+[^6]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=in%20der%20regel%20sind%20das%20e-mail-adresse%20und%20telefonnummer%2C)
+[^7]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=elektronisch%20als%20auch%20nicht%20elektronisch)
+[^8]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=nicht%20ausreichend%20ist%20ein%20postfach)
 [^9]: [anbieterkennung.de](http://www.anbieterkennung.de/index.htm), [shopbetreiber-blog.de](https://shopbetreiber-blog.de/2008/10/16/eugh-website-betreiber-muessen-im-impressum-keine-telefonnummer-nennen/)
-[^10]: [recht-freundlich.de](https://www.recht-freundlich.de/wettbewerbsrecht/abmahnung-der-portfolio-management-gmbh-wegen-fehlendem-impressum-bei-facebook), [blog.sowhy.de](https://blog.sowhy.de/2014/02/14/abmahneritis-weitere-anwalte-betroffen-abmahnung-zur-ansicht/), [linkedin.com](https://www.linkedin.com/pulse/what-impressum-why-does-facebook-want-one-chris-bangs/), [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://20220425135201/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
-[^11]: [kuhlen-berlin.de](https://kuhlen-berlin.de/glossar/agb-sprache)
+[^10]: [recht-freundlich.de](https://www.recht-freundlich.de/wettbewerbsrecht/abmahnung-der-portfolio-management-gmbh-wegen-fehlendem-impressum-bei-facebook), [blog.sowhy.de](https://blog.sowhy.de/2014/02/14/abmahneritis-weitere-anwalte-betroffen-abmahnung-zur-ansicht/), [linkedin.com](https://www.linkedin.com/pulse/what-impressum-why-does-facebook-want-one-chris-bangs/), [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
+[^11]: [kuhlen-berlin.de](https://web.archive.org/web/20211201151350/https://kuhlen-berlin.de/glossar/agb-sprache)
 [^12]: [datenschutz.org](https://www.datenschutz.org/datenschutzerklaerung-website/)
 [^13]: [gdpr-info.eu](https://gdpr-info.eu/art-13-gdpr/)
 [^14]: [lawbster.de](https://www.lawbster.de/wann-muessen-agb-uebersetzt-werden/)
-[^15]: [smartlaw.de](https://www.smartlaw.de/rechtsnews/e-commerce/wann-benoetigt-meine-webseite-agb#:~:text=grundsatzlich%20gibt%20es%20keine%20pflicht), [anwalt.de](https://www.anwalt.de/rechtstipps/braucht-jede-webseite-eigentlich-agb_159387.html)
+[^15]: [smartlaw.de](https://www.smartlaw.de/rechtsnews/e-commerce/wann-benoetigt-meine-webseite-agb#:~:text=grundsatzlich%20gibt%20es%20keine%20pflicht), [anwalt.de](https://www.anwalt.de/rechtstipps/agb)
 [^16]: [ra-plutte.de](https://www.ra-plutte.de/schleichwerbung-sponsored-hinweis-reicht-nicht-aus/)
-[^17]: [ra-plutte.de](https://www.ra-plutte.de/schleichwerbung-sponsored-hinweis-reicht-nicht-aus/), [wbs-law.de](https://www.wbs-law.de/internetrecht/influencer-marketing-und-schleichwerbung-wann-wie-und-wo-muss-man-kennzeichnen-73891/)
+[^17]: [ra-plutte.de](https://www.ra-plutte.de/schleichwerbung-sponsored-hinweis-reicht-nicht-aus/)
 [^18]: [Screenshot](/guides/freiberufler-or-gewerbe)
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518)
 [^20]: [gdpr-info.eu](https://gdpr-info.eu/art-5-gdpr/)
-[^21]: [mynewsdesk.com](http://www.mynewsdesk.com/de/mynewsdesk/blog_posts/werbung-mit-affiliate-links-was-ist-rechtlich-zu-beachten-40948)
+[^21]: [mynewsdesk.com](https://www.mynewsdesk.com/de/mynewsdesk/blog_posts/werbung-mit-affiliate-links-was-ist-rechtlich-zu-beachten-40948)
 [^22]: [Art. 6.1](https://gdpr-info.eu/art-6-gdpr/), [Art. 7.4](https://gdpr-info.eu/art-7-gdpr/)
 [^23]: [Art. 6.1](https://gdpr-info.eu/art-6-gdpr/)
 [^24]: [Art. 5](https://gdpr-info.eu/art-5-gdpr/)

@@ -3,7 +3,6 @@ Title: Photography laws in Germany
 Short_title: Photography laws
 Description: If you take or share photos of other people in Germany, you need to follow certain rules.
 Date_created: 2020-05-02
-Date_updated: 2022-08-27
 ---
 
 In Germany, you can't share photos and videos of other people without their permission. In this guide, we explain the rules every photographer must follow.
@@ -111,9 +110,9 @@ There is no exception for police officers.[^14] The rules described above also a
 [^11]: [ra-plutte.de](https://www.ra-plutte.de/faq-recht-am-eigenen-bild-beispiele/#Geb%C3%A4ude), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/urhg/__59.html)
 [^12]: [§33 KunstUrhG](https://www.gesetze-im-internet.de/kunsturhg/__33.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_stgb/englisch_stgb.html#p1841)
 [^13]: [web.archive.org](http://web.archive.org/web/20210728110315/https://www.goethe.de/en/kul/med/20849366.html), [anwalt.org](https://www.anwalt.org/201a-stgb/)
-[^14]: [datenschutzbeauftragter-info.de](https://www.datenschutzbeauftragter-info.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
+[^14]: [datenschutzbeauftragter-info.de](https://www.dr-datenschutz.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
 [^15]: [hoesmann.eu](https://hoesmann.eu/das-recht-auf-verpixelung-in-der-medienberichterstattung-philipp-guttmann/)
-[^16]: [datenschutzbeauftragter-info.de](https://www.datenschutzbeauftragter-info.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
+[^16]: [datenschutzbeauftragter-info.de](https://www.dr-datenschutz.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
 [^17]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/kunsturhg/__23.html)
 [^18]: [rechtambild.de](https://www.rechtambild.de/2010/04/das-berechtigte-interesse-im-sinne-des-%C2%A7-23-abs-2-kug/)
 [^19]: [§22 KunstUrhG](https://www.gesetze-im-internet.de/kunsturhg/__22.html)
