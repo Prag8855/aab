@@ -3,7 +3,6 @@ Title: How to take sick days in Germany
 Short_title: How to take sick days
 Description: What happens when you get sick in Germany. How to take sick days, when to get a sick note from the doctor, and who pays your salary while you recover.
 Date_created: 2022-08-27
-Date_updated: 2022-10-31
 ---
 
 In Germany, if you are too sick or injured to work, you take a sick day. This guide explains how sick leave works.
@@ -28,7 +27,7 @@ Tell your employer and your team that you are sick as soon as you can.[^5] Each 
 
 Most employers ask for a [sick note](/glossary/Krankschreibung) if you are sick for more than 3 days. Some ask for a sick note on the first day that you are sick.[^6] In the first month of your [probation period](/glossary/Probezeit), get a sick note on the first day.[^7]
 
-You get a sick note from a doctor. You can get it in person, with a phone call, or with a video call. You can use an app like [TeleClinic](https://www.teleclinic.com/) instead of visiting a doctor. It's faster and easier.
+You get a sick note from a doctor. You can get it in person, with a phone call, or with a video call. You can use an app like [TeleClinic](https://www.teleclinic.com/) or [Doktor.de](https://doktor.de) instead of visiting a doctor. It's faster and easier.
 
 **[English-speaking doctors in Berlin ➞](/guides/english-speaking-doctors-berlin)**
 
