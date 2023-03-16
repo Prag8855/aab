@@ -2,9 +2,8 @@
 Title: What are tax classes (Steuerklassen) in Germany?
 German_term: Steuerklasse
 English_term: Tax class
-Description: 
+Description: Tax categories that define how much income tax you pay.
 Date_created: 2018-08-15
-Date_updated: 2022-08-03
 Related_guides: guides/anmeldung-in-english-berlin.md
 ---
 
