@@ -151,4 +151,4 @@ Once you have a bank account, you need an invoicing and bookkeeping tool. You ca
 [^5]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/geschaeftskonto/#:~:text=fur%20selbststandige%20pflicht)
 [^6]: [acceptmyiban.org](https://www.acceptmyiban.org/), [together.bunq.com](https://together.bunq.com/d/42477-bunq-in-deutschland/30)
 [^7]: [geschaeftskonten24.net](https://www.geschaeftskonten24.net/geschaeftskonto-gmbh-ug/#:~:text=doch%20viele%20fintechs%20verzichten%20darauf%20und%20beschranken%20sich%20auf%20die%20kreditkarte)
-[^8]: [rbb24.de](https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html)
+[^8]: [rbb24.de](https://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html)

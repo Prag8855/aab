@@ -103,7 +103,7 @@ A small business (*[[Kleinunternehmer]]*) is a *Freiberufler* or *Gewerbe* with 
 [^1]: [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/muss-ich-ein-kleingewerbe-anmelden/), [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^2]: [web.archive.org](https://web.archive.org/web/20210512234042/http://jaroslavplotnikov.com/freelancer-trader/)
 [^3]: [Screenshot](/guides/website-freiberuf-or-gewerbe)
-[^4]: [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig), [andrewcross.eu](http://andrewcross.eu/vat-freelancers-germany/)
+[^4]: [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^5]: [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
 [^6]: [sevdesk.de](https://sevdesk.de/lexikon/eintragung-handelsregister/)
 [^7]: [Settle in Berlin](https://www.settle-in-berlin.com/how-to-become-a-freelancer-in-germany-self-employed/#Registering_as_self-employed_in_Germany_Gewerbetreibende)

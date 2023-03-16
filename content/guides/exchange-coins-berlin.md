@@ -47,8 +47,8 @@ There are Coinstar machines in many supermarkets. When you put your coins in a C
 
 [^0]: [youtube.com](https://www.youtube.com/watch?v=PHpBXlWwE2Y), [comdirect.de](https://www.comdirect.de/faq/bareinzahlung)
 [^1]: [comdirect.de](https://www.comdirect.de/faq/bareinzahlung)
-[^2]: [deutsche-bank.de](https://www.deutsche-bank.de/pk/service-und-kontakt/services/konditionen-und-preise.html), [rbb24.de](http://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html)
-[^3]: [rbb24.de](http://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html), [sparkasse.de](https://www.sparkasse.de/unsere-loesungen/privatkunden/bezahlverfahren/bargeld/bargeld-einzahlen.html#am-geldautomaten)
+[^2]: [deutsche-bank.de](https://www.deutsche-bank.de/pk/service-und-kontakt/services/konditionen-und-preise.html), [rbb24.de](http://web.archive.org/web/20221006131348/https://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html)
+[^3]: [rbb24.de](http://web.archive.org/web/20221006131348/https://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html), [sparkasse.de](https://www.sparkasse.de/unsere-loesungen/privatkunden/bezahlverfahren/bargeld/bargeld-einzahlen.html#am-geldautomaten)
 [^4]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/ts0880/where_can_i_exchange_my_coins/i2oz48q/?context=3)
 [^5]: [bundesbank.de](https://www.bundesbank.de/de/bundesbank/hauptverwaltungen-filialen/bbb/filiale/filiale-berlin-605066)
 [^6]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
