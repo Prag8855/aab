@@ -121,7 +121,7 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 
 ### Classified ads
 
-- [**eBay Kleinanzeigen**](https://ebay-kleinanzeigen.de/) - Biggest classified ads site. You can set search alerts.
+- [**eBay Kleinanzeigen**](https://www.ebay-kleinanzeigen.de:443/) - Biggest classified ads site. You can set search alerts.
 - [**ImmobilienScout24**](https://www.immobilienscout24.de/) - Biggest apartment listing site.
 - [**Immowelt**](https://www.immowelt.de/)
 - [Immonet](https://www.immonet.de/)
@@ -135,8 +135,8 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 - **[Wunderflats](/out/wunderflats)** - Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
 - **[Spotahome](/out/spotahome)** - Listings have video tours and lots of photos.
 - [Crocodilian](https://crocodilian.de/) - *[Anmeldung](/glossary/Schufa)* always possible.[^8]
-- [Berlinovo](https://www.berlinovo.de/en/suche-apartments)
-- [coming home](https://www.coming-home.org/)
+- [Berlinovo](https://www.berlinovo.de/en/apartments/search)
+- [coming home](https://www.coming-home.com/)
 - [exBerliner](http://exflat.exberliner.com/)
 - [Smartments](/out/smartments) - Business apartments
 - [White Apartments](https://white-apartments.com/)
@@ -145,7 +145,7 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 
 You can rent a vacation apartment. You rent by the day, and you can rarely do your *[[Anmeldung]]* there.
 
-- **[Airbnb](https://airbnb.com)**
+- **[Airbnb](https://www.airbnb.com/)**
 - [9flats](https://www.9flats.com/de/berlin-deutschland)
 - [Gästewohnung finden](https://www.wohnungsbaugenossenschaften.de/gaestewohnung-finden/guestflats)
 - [Monteurzimmer.de](https://www.monteurzimmer.de/en)
@@ -158,7 +158,7 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 ### Dorms and student housing
 
-- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/)** - Affordable student housing
+- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** - Affordable student housing
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. Expensive.
 
@@ -171,11 +171,11 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 - [Degewo](https://immosuche.degewo.de/de/search) - State-owned company
 - [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Big housing company
 - [DPF](https://www.dpfonline.de/interessenten/immobilien/)
-- [Fortuna](https://www.fortuna-eg.de/wohnungsangebote/mietwohnungen-in-berlin/)
+- [Fortuna](https://www.fortuna-eg.de/wohnungsangebote/mietinformationen/)
 - [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html) - State-owned company
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned company
 - [Howoge](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html) - State-owned company
-- [Stadt und Land](https://www.stadtundland.de/Wohnungssuche/Wohnungssuche.php) - State-owned company
+- [Stadt und Land](https://www.stadtundland.de/) - State-owned company
 - [Vonovia](https://www.vonovia.de/en)
 - [WBM](https://www.wbm.de/wohnungen-berlin/angebote/) - State-owned company
 
@@ -421,12 +421,12 @@ These guides explain how:
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pljlpm/finding_wg_room_has_become_a_tinder_game/)
 [^7]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6bfba/room_for_incoming_student/)
 [^8]: [crocodilian.de](https://crocodilian.de/short-term-rental-blog/documents-for-anmeldung/#:~:text=if%20you%20rent%20with%20crocodilian%2C%20you%20always%20get%20the%20wohnungsgeberbestatigung)
-[^9]: [akelius-vernetzung.de](https://akelius-vernetzung.de/material/dossier/)
+[^9]: [akelius-vernetzung.de](https://www.akelius-vernetzung.de/material/dossier/)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ts8qtx/my_incomplete_berlin_makler_experiences/)
 [^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q35pyh/no_flats_available_what_should_i_do/hfr4q8p/)
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
-[^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/week_4_of_searching_for_an_apartment_in_berlin_we/gzdee8d/?utm_source=reddit&utm_medium=web2x&context=3)
-[^14]: [morgenpost.de](https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
+[^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/comment/gzdee8d/?utm_source=reddit&utm_medium=web2x&context=3)
+[^14]: [morgenpost.de](http://web.archive.org/web/20220426082551/https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
 [^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
@@ -435,21 +435,21 @@ These guides explain how:
 [^20]: [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)
 [^21]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/rd4sxv/are_bribes_for_apartments_now_a_thing/)
 [^22]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/6t1hwf/spotting_craigslistwggesucht_scams_a_guide/), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
-[^23]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm), [expatica.com](https://www.expatica.com/de/housing/rent-in-germany_103803.html)
+[^23]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm), [expatica.com](http://web.archive.org/web/20181214171031/https://www.expatica.com/de/housing/rent-in-germany_103803.html)
 [^24]: [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^25]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
-[^26]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems#wiki_scams_when_looking_for_apartments), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
-[^27]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems#wiki_scams_when_looking_for_apartments)
-[^28]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems#wiki_scams_when_looking_for_apartments), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems#wiki_scams_when_looking_for_apartments)
-[^29]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/dulpxmj/?utm_source=reddit&utm_medium=web2x&context=3)
-[^30]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/week_1_of_searching_for_an_apartment_in_berlin/gwvxcw9/)
+[^26]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
+[^27]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
+[^28]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
+[^29]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/comment/dulpxmj/?utm_source=reddit&utm_medium=web2x&context=3)
+[^30]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
-[^32]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/week_1_of_searching_for_an_apartment_in_berlin/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6y1a2/searching_for_an_apartment_for_2_months/h2yuurr/)
+[^32]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/)
 [^33]: [reddit.com/r/Munich](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
 [^34]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/1-drittel-des-nettogehalts-miete-kalt-oder-warm), [immobilien.vr.de](https://immobilien.vr.de/immobilien/immobilie-mieten/wohnung-mieten/wie-viel-miete-kann-ich-mir-leisten.html)
 [^35]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/hwyc3m/i_have_been_discriminated_for_an_apartment_viewing/)
 [^36]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/)
-[^37]: [wunderflats.com](https://wunderflats.com/en/help/tenants/booking-request-booking/which-documents-should-i-have-at-hand)
+[^37]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054504)
 [^38]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
 [^39]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)

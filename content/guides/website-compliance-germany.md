@@ -217,10 +217,6 @@ It is not required unless you have customers, but it's always a good idea.[^15]
 
 The AGB is required by [§ 312d BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1086) if you have customers.
 
-### Examples
-
-- [Live Work Germany](https://liveworkgermany.com/terms-conditions/) has terms and conditions in German and English.
-
 ### To-do list
 
 - Add a terms and conditions page to your website. There are many AGB generators and templates online. Most of them are in German.

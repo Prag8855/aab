@@ -58,6 +58,6 @@ You can also visit flea markets. They happen every Sunday all over Berlin.
 - [Spenden statt wegwerfen](https://www.bsr.de/spenden-statt-wegwerfen-21204.php) (German) - List of [BSR](/glossary/Berliner%20Stadtreinigung) donation points
 - [Nebenan](https://nebenan.de/) (German) - Classified ads in your neighbourhood.
 - [Sharing is Caring](https://t.me/joinchat/CbD5mEn20K3k-gd-ckIXBw) - Telegram
-- [Donate your bicycle](https://rueckenwind.berlin/unterstuetze-uns/fahrradspende/) - Rückenwind
+- [Donate your bicycle](https://rueckenwind.berlin/spenden/) - Rückenwind
 - [Where to donate books](https://old.reddit.com/r/berlin/comments/85dpef/donating_books_in_berlin/) - Reddit
 

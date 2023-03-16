@@ -618,7 +618,7 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 [^12]: [economywatch.com](https://www.economywatch.com/)
 [^13]: [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/)
 [^14]: [rechnungswesen-info.de](https://www.rechnungswesen-info.de/istversteuerung.html)
-[^15]: [steuerlinks.de](http://www.steuerlinks.de/richtlinie/ustae/abs3a.12..html)
+[^15]: [steuerlinks.de](http://web.archive.org/web/20210921150926/http://www.steuerlinks.de/richtlinie/ustae/abs3a.12..html)
 [^16]: [iamexpat.de](https://www.iamexpat.de/expat-info/taxation-germany/elster-german-online-tax-office)
 [^17]: [firma.de](https://www.firma.de/firmengruendung/wer-muss-kein-gewerbe-anmelden/#:~:text=In%20Deutschland%20gilt%20die%20Gewerbefreiheit,und%20in%20eigener%20Verantwortung%20arbeitet.)
 [^18]: [dict.cc](https://www.dict.cc/?s=Gesellschaft+b%C3%BCrgerlichen+Rechts)

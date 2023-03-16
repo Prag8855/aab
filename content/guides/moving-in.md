@@ -244,7 +244,7 @@ The tap water in Berlin is hard water.[^7] Hard water is safe to drink, but it l
 - Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl) or in any supermarket.
 - Boil the water 2 to 3 times to remove the taste. The minerals will deposit at the bottom of the kettle. You can also use a water filter.
 
-**[Water hardness in Berlin](https://www.bwb.de/en/1619.php)** - Berliner Wasserbetriebe
+**[Water hardness in Berlin](http://web.archive.org/web/20220626225848/https://www.bwb.de/en/1619.php)** - Berliner Wasserbetriebe
 
 ### Recycling
 
@@ -283,7 +283,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^4]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)
-[^7]: [bwb.de](https://www.bwb.de/en/1619.php)
+[^7]: [bwb.de](http://web.archive.org/web/20220626225848/https://www.bwb.de/en/1619.php)
 [^8]: [reddit.com](https://old.reddit.com/r/germany/comments/baaa9s/how_to_use_this_thermostat_knob/ekdffz8/)
 [^9]: [t-online.de \(archived\)](https://web.archive.org/web/20170802025236/https://20170802025236/finanzen/immobilien/id_48125782/mietrecht-mietzahlung-erst-nach-schluesseluebergabe.html)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b1ifqb/tenants_associations_mietersch%C3%BCtzbund_etc/)

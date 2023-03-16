@@ -202,7 +202,7 @@ Church tax is 8% or 9% of your [income tax](/glossary/Einkommensteuer) (not 8-9%
 
 **[Church tax calculator ➞](/tools/tax-calculator)**
 
-If you were baptised in your home country, they might collect church tax [even if you register as an atheist](https://global.handelsblatt.com/politics/expats-beware-germany-church-tax-922429). Watch your paychecks for unexpected church tax payments.
+If you were baptised in your home country, they might collect church tax [even if you register as an atheist](http://web.archive.org/web/20180913195533/https://global.handelsblatt.com/politics/expats-beware-germany-church-tax-922429). Watch your paychecks for unexpected church tax payments.
 
 **[How to stop paying church tax](https://www.settle-in-berlin.com/stop-paying-german-church-tax/)** - Settle in Berlin
 

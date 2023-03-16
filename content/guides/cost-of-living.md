@@ -56,7 +56,7 @@ In Germany, there is the cold rent (*[[Kaltmiete]]*), and the warm rent (*[[Warm
 ### How to pay less for rent
 
 - Live in a [[WG]] - share an apartment with other people. You split the rent, the internet, the [TV tax](/glossary/Rundfunkbeitrag), and other bills.
-- If you are a student, live in a dormitory (*Studentenwohnheim*). [StudierendenWerk housing](https://www.stw.berlin/en/housing.html) is much cheaper than regular apartments.
+- If you are a student, live in a dormitory (*Studentenwohnheim*). [StudierendenWerk housing](https://www.stw.berlin/en/housing/) is much cheaper than regular apartments.
 - [Move to a cheaper area](/guides/saving-money-germany#move-to-a-cheaper-area). In Berlin, apartments are cheaper outside the *[Ring](/glossary/Ringbahn)*, but they are still close to the centre.
 - If your rent is over the legal maximum, [get it lowered](/guides/saving-money-germany#lower-your-rent). This is your right. Your landlord can't punish you.
 

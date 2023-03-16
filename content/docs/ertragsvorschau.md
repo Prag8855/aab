@@ -6,7 +6,6 @@ German_document: documents/german-visa-Ertragsvorschau.pdf
 English_document: documents/german-visa-Ertragsvorschau.pdf
 Description: You must prepare this document for your German freelance visa interview. This is the official template for the Berlin Ausländerbehörde.
 Date_created: 2018-06-13
-Date_updated: 2022-12-01
 Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/start-a-business-in-germany.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/berlin-auslanderbehorde-same-day-appointment.md
 ---
 
@@ -27,4 +26,4 @@ Include health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glo
 - **Other business taxes:** You can leave this field empty, or include your expected [income tax](/glossary/Einkommensteuer). Calculate your income tax with [this calculator](http://www.parmentier.de/steuer/index.php?site=einkommensteuerrechnerjava). If you pay trade tax (*[[Gewerbesteuer]]*), you pay less income tax. Write your total income tax minus your total trade tax.
 
 
-[^1]: According to Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home)
+[^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home)

@@ -241,7 +241,7 @@ If you have a website, it must follow German and European laws. If you make a mi
 [^4]: [juraforum.de](https://www.juraforum.de/lexikon/kontosperrung)
 [^5]: [support.n26.com](https://support.n26.com/en-de/account-and-personal-details/ganrishment-insolvency-p-account/how-to-get-a-p-account), [auslandsueberweisung-guenstig.de](https://www.auslandsueberweisung-guenstig.de/ist-ein-konto-im-ausland-pfaendungssicher-alle-infos/)
 [^6]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944)
-[^7]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944), [bmjv.de](https://www.bmjv.de/DE/Verbraucherportal/FinanzenVersicherungen/P-Konto/Pfaendungsschutzkonto.html)
+[^7]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944)
 [^8]: [schutzkonto.de](https://www.schutzkonto.de/news/vor-und-nachteile-des-p-kontos/#:~:text=mitteilung%20der%20bank%20an%20die%20schufa)
 [^9]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)

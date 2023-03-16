@@ -3,7 +3,6 @@ Title: The probation period (Probezeit) in Germany
 Short_title: What is the probation period?
 Description: When you start a new job in Germany, you are in your probation period (Probezeit). This guide explains what it means.
 Date_created: 2022-07-12
-Date_updated: 2022-11-04
 ---
 
 When you start a new job in Germany, you are in your probation period (*[[Probezeit]]*). This guide explains what it means.
@@ -74,4 +73,4 @@ After your probation is over, you can use all your vacation days for the year.[^
 [^9]: [§622 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)
 [^10]: [karrierebibel.de](https://karrierebibel.de/lange-kuendigungsfrist/)
 [^11]: [reddit.com](https://old.reddit.com/r/germany/comments/s1cx6t/notice_period_when_quitting_a_job_whats_the/)
-[^12]: [howtogermany.com](https://www.howtogermany.com/pages/employee-rights.html), [personio.de](https://www.personio.de/hr-lexikon/urlaubsanspruch-berechnen/#1)
+[^12]: [howtogermany.com](https://www.howtogermany.com/pages/employee-rights.html), [personio.de](http://web.archive.org/web/20230216130453/https://www.personio.de/hr-lexikon/urlaubsanspruch-berechnen/)

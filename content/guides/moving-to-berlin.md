@@ -3,7 +3,6 @@ Title: How to move to Berlin, step by step
 Short_title: How to move to Berlin
 Description: This guide shows you how to relocate to Berlin. It covers finding a job in Berlin, getting a residence permit, finding an apartment, and more.
 Date_created: 2018-06-05
-Date_updated: 2022-10-07
 ---
 
 This guide shows you how to relocate to Berlin. It shows you how to find a job, get a residence permit, find a place to live, and more.
@@ -203,7 +202,7 @@ You can be self-employed in Germany. It can be a little scary, but it's worth it
 After a few years in Germany, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis) and German citizenship. This gives you more freedom, and more security. You don't need to renew your residence permit. You can stay in Germany even if you lose your job.
 
 [^0]: [teltarif.de](https://www.teltarif.de/roaming/fair-use-policy.html)
-[^1]: [naylorengineering.com](http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?utm_source=reddit&utm_medium=web2x&context=3)
+[^1]: [naylorengineering.com](http://web.archive.org/web/20220128231355/http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?utm_source=reddit&utm_medium=web2x&context=3)
 [^2]: [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)
 [^3]: [iamexpat.de](https://www.iamexpat.de/expat-info/driving-germany/driving-licence), [routetogermany.com](https://routetogermany.com/drivingingermany/driving-license#EU/EEA)
 [^4]: [Scheller International](https://scheller-international.com/blog-beitraege/deductible-relocation-expenses-in-germany.html)

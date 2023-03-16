@@ -162,7 +162,6 @@ In a language tandem, you teach someone your language, and they teach you their 
 - [Find Your Tandem](https://www.facebook.com/groups/LanguageExchangeBerlin/) - Facebook, over 15,000 members
 - [Language exchange events](https://www.meetup.com/find/de--berlin/language-exchange/?country=de&zipstatecity=berlin&state=&radius=25) - Meetup.com
 - [Tandem program](https://www.sprachenzentrum.fu-berlin.de/en/slz/tandem/index.html) at FU Berlin
-- [TandemPartners.org](https://www.tandempartners.org/en/)
 - [Tandem.net](https://www.tandem.net/en/language-exchange/germany/berlin) - Built in Berlin
 - [HelloTalk](https://www.hellotalk.com/?lang=en) - Language tandem app
 

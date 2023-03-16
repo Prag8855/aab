@@ -20,7 +20,7 @@ These religious communities collect a church tax:[^3]
 - The Old Catholic Church (*Altkatholische Kirche*)
 - Various Free Religious communities (*Freireligiöse Gemeinden*)
 
-If you are not a member these religious communities, you don't pay the church tax.[^1] If you are, the only way to [stop paying the church tax](https://www.settle-in-berlin.com/stop-paying-german-church-tax/) is to leave the church. You declare your religion during your *[Anmeldung](/guides/anmeldung-in-english-berlin).* If you were baptized in your home country, the church can tax you [even if you registered as an atheist](https://global.handelsblatt.com/politics/expats-beware-germany-church-tax-922429).
+If you are not a member these religious communities, you don't pay the church tax.[^1] If you are, the only way to [stop paying the church tax](https://www.settle-in-berlin.com/stop-paying-german-church-tax/) is to leave the church. You declare your religion during your *[Anmeldung](/guides/anmeldung-in-english-berlin).* If you were baptized in your home country, the church can tax you [even if you registered as an atheist](http://web.archive.org/web/20180913195533/https://global.handelsblatt.com/politics/expats-beware-germany-church-tax-922429).
 
 [^0]: [bpb.de](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61565/katholische-und-evangelische-kirche/)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Church_tax#Germany)

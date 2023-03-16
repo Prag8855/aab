@@ -39,7 +39,7 @@ Used bicycles are cheaper. There are many places where you can buy them:
     There are flea markets every Sunday in Berlin. Many of them sell bicycles. Do not buy a bicycle there. The bicycles are too old, too expensive, and often stolen.
 - **[Sell Your Bike Berlin](https://www.facebook.com/groups/sellyourbikeberlin/)**  
     Facebook group with over 30 000 members. If you speak French, there is also [Les vélos de Berlin](https://www.facebook.com/groups/lesvelosdeberlin/). Watch for [stolen bicycles](#buying-a-stolen-bicycle).
-- **[Bicycle auctions](https://www.auktionshaus-beier.de/termine/categoryevents/1-bvg-fundsachen-versteigerung)**  
+- **Bicycle auctions**  
     There are regular auctions for [lost and found](/guides/lost-and-found-berlin) items:
     - [City of Berlin auctions](https://www.luedtke-versteigerungen.de/fahrradversteigerung)
     - [Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)
@@ -99,12 +99,11 @@ There are many [bike repair shops](https://www.google.com/maps/search/Fahrradwer
 
 If you want to repair your bicycle yourself, there are many self-service repair stations (*Selbsthilfewerkstatt*) in Berlin. Many of them have friendly people who can teach you how to repair your bike.
 
-- [ADFC bicycle workshop](https://adfc-berlin.de/service/selbsthilfewerkstatt.html) (Kreuzberg)
+- [ADFC bicycle workshop](https://berlin.adfc.de/artikel/die-fahrrad-selbsthilfe-werkstatt-shw-des-adfc-berlin) (Kreuzberg)
 - [Berliner Fahrradmarkt](http://berlinerfahrradmarkt.de/) (Moabit, Kreuzberg, Prenzlauer Berg) - bicycle market with repair station
-- [FAHRbar](https://moabiter-ratschlag.de/fahrbar/) (Moabit)
 - [FUrad](https://www.facebook.com/FUradFU/) - bike workshop by FU Berlin
 - [Hubschrauber](https://www.refrat.de/hubschrauber/) (Mitte) - bike workshop by Humbolt University
-- [Regenbogenfabrik](https://www.regenbogenfabrik.de/fahrradwerkstatt.html) (Kreuzberg)
+- [Regenbogenfabrik](https://regenbogenfabrik.de/fahrrad/) (Kreuzberg)
 - [unirad](http://unirad.de/) (Charlottenburg) - bike workshop by TU Berlin
 - [Velo-fit](https://www.facebook.com/velofitberlin/) (Kreuzberg)- bike workshop by Berliner Stadtmission
 - [Workshop in Amtshaus Buchholz](https://www.buergerhaus-gmbh.de/fahrradselbsthilfewerkstatt.html) (Buchholz)

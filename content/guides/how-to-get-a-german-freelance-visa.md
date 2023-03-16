@@ -78,7 +78,7 @@ In Berlin, some *Freiberufler* get their freelance visa during their *[[Ausländ
 
 Your student visa does not allow you to freelance. You must get permission from the *[[Ausländerbehörde]]*.[^10]
 
-If you study in Germany, and your freelance work is related to what you study, you don't need to prove that there is an economic or cultural interest for your work.[^7] [This guide](http://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/) has more information.
+If you study in Germany, and your freelance work is related to what you study, you don't need to prove that there is an economic or cultural interest for your work.[^7] [This guide](http://web.archive.org/web/20210514214936/https://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/) has more information.
 
 If your freelance work is not related to what you study, the freelance visa requirements are the same as for everyone else.
 
@@ -335,7 +335,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 ### Business strategy
 
 - **Business plan** (not required for **[[Freiberufler]]**)  
-    *[Detailed guide 1](http://www.existenzgruender.de/EN/Die-ersten-Schritte/Gruendung-planen/inhalt.html) - [detailed guide 2](https://www.make-it-in-germany.com/en/for-qualified-professionals/working/setting-up-a-business-in-germany/business-plan-startup-guideline)*  
+    *[Detailed guide 1](http://www.existenzgruender.de/EN/Die-ersten-Schritte/Gruendung-planen/inhalt.html) - [detailed guide 2](https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/preparation-consultation/business-plan)*  
     In order to get a German freelance visa, you must prove that there is an economic interest or a regional need for your services. In your business plan, you must highlight how you plan to find work and grow your business.[^46] This document is a summary of the company profile, capital requirement plan, business concept and financing plan. You can write your business plan in English or in German.
     - **Company profile** (not required for *[[Freiberufler]]*)  
         *[Template](/images/firmenprofil.pdf)*  
@@ -415,7 +415,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^10]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/71aczx/approval_to_freelance_on_a_student_visa/)
 [^11]: [berlinlogs.com](https://berlinlogs.com), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/8ui2ez/visa_case_worker_consulting_local_institut_f%C3%BCr/e1hnxbz/)
 [^12]: [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/freelancer-visa/)
-[^13]: [wir-gruenden-in-deutschland.de](http://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/)
+[^13]: [wir-gruenden-in-deutschland.de](http://web.archive.org/web/20210514214936/https://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/)
 [^14]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php)
 [^15]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
 [^16]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)

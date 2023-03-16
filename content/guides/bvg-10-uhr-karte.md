@@ -36,4 +36,4 @@ From **10AM to 3AM on weekdays**, and at any time during the weekend or public h
 - [List of all tickets and their price](https://sbahn.berlin/en/tickets/all-tickets/) - S-Bahn Berlin
 - [BVG ticket prices](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets)
 
-[^0]: [vbb.de](https://www.vbb.de/tickets/monatskarten-10-uhr-karte-berlin)
+[^0]: [vbb.de](https://www.vbb.de/tickets/monatskarten/10-uhr-karte/)

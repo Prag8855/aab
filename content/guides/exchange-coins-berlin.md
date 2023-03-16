@@ -41,18 +41,18 @@ There are Coinstar machines in many supermarkets. When you put your coins in a C
 
 **Coinstar machines have a 9.9% fee**.[^8] It's the most expensive way to exchange coins.
 
-**[Map of Coinstar machines ➞](https://www.coinstar.de/kiosksuche?SearchType=Address&SearchAddress=berlin)**
+**[Map of Coinstar machines ➞](https://www.coinstar.de/automaten-finden/)**
 
 ![Coinstar machine in a German supermarket](/images/coinstar-machine-berlin.jpg "A Coinstar machine in a German supermarket")
 
 [^0]: [youtube.com](https://www.youtube.com/watch?v=PHpBXlWwE2Y), [comdirect.de](https://www.comdirect.de/faq/bareinzahlung)
 [^1]: [comdirect.de](https://www.comdirect.de/faq/bareinzahlung)
-[^2]: [deutsche-bank.de](https://www.deutsche-bank.de/pk/service-und-kontakt/services/konditionen-und-preise.html), [rbb24.de](https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html)
-[^3]: [rbb24.de](https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html), [sparkasse.de](https://www.sparkasse.de/unsere-loesungen/privatkunden/bezahlverfahren/bargeld/bargeld-einzahlen.html#am-geldautomaten)
+[^2]: [deutsche-bank.de](https://www.deutsche-bank.de/pk/service-und-kontakt/services/konditionen-und-preise.html), [rbb24.de](http://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html)
+[^3]: [rbb24.de](http://web.archive.org/web/20221006131348/https://www.rbb24.de/wirtschaft/beitrag/2021/09/bankgebuehren-geschaeftskunden-bareinzahlung-spaeti-handelsverband.html), [sparkasse.de](https://www.sparkasse.de/unsere-loesungen/privatkunden/bezahlverfahren/bargeld/bargeld-einzahlen.html#am-geldautomaten)
 [^4]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/ts0880/where_can_i_exchange_my_coins/i2oz48q/?context=3)
 [^5]: [bundesbank.de](https://www.bundesbank.de/de/bundesbank/hauptverwaltungen-filialen/bbb/filiale/filiale-berlin-605066)
 [^6]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
 [^7]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
-[^8]: [coinstar.de](https://www.coinstar.de/sofunktionierts)
+[^8]: [coinstar.de](http://web.archive.org/web/20220729150413/https://www.coinstar.de/sofunktionierts)
 [^9]: [blog.berliner-sparkasse.de](https://www.berliner-sparkasse.de/de/home/ratgeber/oft-gefragt/muenzgeld-einzahlen.html)
-[^10]: [berlin.de](https://www.berlin.de/special/finanzen-und-recht/konto-und-banken/2962210-2625156-kleingeld-wo-sparer-muenzen-in-scheine-t.html)
+[^10]: [berlin.de](http://web.archive.org/web/20211125194852/https://www.berlin.de/special/finanzen-und-recht/konto-und-banken/2962210-2625156-kleingeld-wo-sparer-muenzen-in-scheine-t.html)

@@ -496,8 +496,6 @@ Many organisations offer **free** consultations, support and workshops for artis
     Insurance broker and KSK expert. Alexander Schwartz speaks English.
 - **[Freie Wildbahn](https://freie-wildbahn.de/)** (Arnsberg)  
     KSK experts. They speak English.
-- **[Expats in Wonderland](https://expatsinwonderland.com/berlin-relocation/kunstlersozialkasse-ksk-applications/)**  
-    Relocation agency with KSK experience. They speak English.
 - **[Inbound media service](https://www.inboundmedia.de/english/)**  
     KSK expert. They speak English.
 - **[MKK Consult](https://mkk-consult.de/)**  
@@ -515,10 +513,10 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^2]: [alltageinesfotoproduzenten.de](https://www.alltageinesfotoproduzenten.de/2015/10/19/was-macht-die-kuenstlersozialkasse-nicht-nur-fuer-fotografen/)
 [^3]: [rechtslupe.de](https://www.rechtslupe.de/sozialrecht/fotografen-sind-keine-kuenstler-317944)
 [^4]: [ksk-rechtshilfe.de](https://www.ksk-rechtshilfe.de/urteile/sg-hamburg-18-06-2020-s-48-kr-1921-19/), [tattoo-recht.de](https://tattoo-recht.de/taetowierer-sind-keine-kuenstler/)
-[^5]: [kuenstlersozialabgabe-hilfe.de](https://www.kuenstlersozialabgabe-hilfe.de/webdesigner/), [kanzlei-leineweber.de](https://kanzlei-leineweber.de/djs-und-webdesigner-als-kuenstler-verpflichtung-zur-zahlung-von-beitraegen-an-die-kuenstlersozialkasse.html)
+[^5]: [kuenstlersozialabgabe-hilfe.de](https://www.kuenstlersozialabgabe-hilfe.de/webdesigner/), [kanzlei-leineweber.de](http://web.archive.org/web/20221209184824/https://kanzlei-leineweber.de/djs-und-webdesigner-als-kuenstler-verpflichtung-zur-zahlung-von-beitraegen-an-die-kuenstlersozialkasse.html)
 [^6]: [kunstrecht.de](https://www.kunstrecht.de/kuenstlersozialkasse/versicherungspflicht.html#:~:text=auch%20modedesigner%20kommen%20nur%20in%20die%20ksk)
-[^7]: [kanzlei-leineweber.de](https://kanzlei-leineweber.de/djs-und-webdesigner-als-kuenstler-verpflichtung-zur-zahlung-von-beitraegen-an-die-kuenstlersozialkasse.html)
-[^8]: [kanzlei-leineweber.de](https://kanzlei-leineweber.de/djs-und-webdesigner-als-kuenstler-verpflichtung-zur-zahlung-von-beitraegen-an-die-kuenstlersozialkasse.html), [reddit.com](https://old.reddit.com/r/berlin/comments/2d2edj/anybody_have_any_tips_on_getting_into_ksk/#:~:text=ksk%20does%20not%20see%20djing%20as%20an%20art)
+[^7]: [kanzlei-leineweber.de](http://web.archive.org/web/20221209184824/https://kanzlei-leineweber.de/djs-und-webdesigner-als-kuenstler-verpflichtung-zur-zahlung-von-beitraegen-an-die-kuenstlersozialkasse.html)
+[^8]: [kanzlei-leineweber.de](http://web.archive.org/web/20221209184824/https://kanzlei-leineweber.de/djs-und-webdesigner-als-kuenstler-verpflichtung-zur-zahlung-von-beitraegen-an-die-kuenstlersozialkasse.html), [reddit.com](https://old.reddit.com/r/berlin/comments/2d2edj/anybody_have_any_tips_on_getting_into_ksk/#:~:text=ksk%20does%20not%20see%20djing%20as%20an%20art)
 [^9]: [akademie.de](https://www.akademie.de/de/wissen/werbefinanzierte-website-trotzdem-ksk), [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1420761465006418/?comment_id=1420782691670962)
 [^10]: [facebook.com](https://www.facebook.com/groups/398576963891545/posts/1420761465006418/?comment_id=1420782691670962)
 [^11]: [fgvw.de](https://www.fgvw.de/neues/archiv-2019/sozialrecht-lektoren-und-uebersetzer-wissenschaftlicher-texte-sind-in-der-kuenstlersozialkasse-zu-versichern)

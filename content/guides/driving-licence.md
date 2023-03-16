@@ -175,4 +175,4 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^13]: [reddit.com](https://old.reddit.com/r/berlin/comments/yv8dqx/impossible_to_get_an_appointment_at/)
 [^14]: [marlonbernardes.github.io](https://marlonbernardes.github.io/awesome-berlin/en/pages/obtaining-a-drivers-license.html#picking-up-your-permanent-license)
 [^15]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
-[^16]: [tegetmeier.info](http://www.tegetmeier.info/index.php?goto=wegweiser)
+[^16]: [tegetmeier.info \(archived\)](http://web.archive.org/web/20210927034912/http://tegetmeier.info/index.php?goto=wegweiser)
