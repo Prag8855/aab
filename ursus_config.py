@@ -8,11 +8,11 @@ import string
 import urllib
 
 
-logging.addLevelName(logging.DEBUG, '⚪')
-logging.addLevelName(logging.INFO, '🟢')
-logging.addLevelName(logging.WARNING, '⚠️')
-logging.addLevelName(logging.ERROR, '❎')
-logging.addLevelName(logging.CRITICAL, '🆘')
+logging.addLevelName(logging.DEBUG, ' D ')
+logging.addLevelName(logging.INFO, '\033[37m\033[0;100m I \033[0m')
+logging.addLevelName(logging.WARNING, '\033[37m\033[43m W \033[0m')
+logging.addLevelName(logging.ERROR, '\033[37m\033[41m E \033[0m')
+logging.addLevelName(logging.CRITICAL, '\033[37m\033[41m C \033[0m')
 
 
 def to_number(value):
