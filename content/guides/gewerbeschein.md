@@ -31,41 +31,41 @@ Before you begin, you must [create a ](/guides/service-konto-berlin)*[Service-Ko
 
 You must use the [Single Point of Contact](https://konto.service.berlin.de/skb/Service/Entry?sid=7) (*Einheitlicher Ansprechpartner*) tool to create a new case. You need a Berlin service account to use this tool.
 
-[![](/images/berlin-gewerbeanmeldung-1.png)](/images/berlin-gewerbeanmeldung-1.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-1.png)](/images/berlin-gewerbeanmeldung-1.png)
 
 ▲ Log in with your [Berlin service account](/guides/service-konto-berlin).
 
-[![](/images/berlin-gewerbeanmeldung-2.png)](/images/berlin-gewerbeanmeldung-2.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-2.png)](/images/berlin-gewerbeanmeldung-2.png)
 
 ▲ Click the *Hier starten* button on the [Einheitlicher Ansprechpartner Berlin page](https://konto.service.berlin.de/skb/Service/Entry?sid=7).
 
-[![](/images/berlin-gewerbeanmeldung-3.png)](/images/berlin-gewerbeanmeldung-3.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-3.png)](/images/berlin-gewerbeanmeldung-3.png)
 
-[![](/images/berlin-gewerbeanmeldung-4.png)](/images/berlin-gewerbeanmeldung-4.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-4.png)](/images/berlin-gewerbeanmeldung-4.png)
 
 ▲ Click *Neuen Fall starten*.
 
-[![](/images/berlin-gewerbeanmeldung-5.png)](/images/berlin-gewerbeanmeldung-5.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-5.png)](/images/berlin-gewerbeanmeldung-5.png)
 
 ▲ Accept the privacy policy
 
-[![](/images/berlin-gewerbeanmeldung-6.png)](/images/berlin-gewerbeanmeldung-6.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-6.png)](/images/berlin-gewerbeanmeldung-6.png)
 
 ▲ Choose the type of business you want to register. In most cases, the answer is *[[Gewerbe]]*. Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-7.png)](/images/berlin-gewerbeanmeldung-7.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-7.png)](/images/berlin-gewerbeanmeldung-7.png)
 
 ▲ Choose what you want to do. You want to register a business (*Ein Gewerbe anmelden*). Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-8.png)](/images/berlin-gewerbeanmeldung-8.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-8.png)](/images/berlin-gewerbeanmeldung-8.png)
 
 ▲ Choose what you want to do. You want to register a business (*Gewerbeanmeldung*). Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-9.png)](/images/berlin-gewerbeanmeldung-9.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-9.png)](/images/berlin-gewerbeanmeldung-9.png)
 
 ▲ Enter your street name (without the house number) to find your street. Next, enter your post code and house number. Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-10.png)](/images/berlin-gewerbeanmeldung-10.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-10.png)](/images/berlin-gewerbeanmeldung-10.png)
 
 ▲ Fill your personal information:
 
@@ -81,13 +81,13 @@ You must use the [Single Point of Contact](https://konto.service.berlin.de/skb/S
 10. Phone number (*Telefon*) - for example +49301234567
 11. Fax number (*Fax*)
 
-[![](/images/berlin-gewerbeanmeldung-11.png)](/images/berlin-gewerbeanmeldung-11.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-11.png)](/images/berlin-gewerbeanmeldung-11.png)
 
 ▲ Select your nationality. The next steps are different for each country. For some countries, you must prove that you have a valid [residence permit](/glossary/Aufenthaltstitel).
 
 Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-12.png)](/images/berlin-gewerbeanmeldung-12.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-12.png)](/images/berlin-gewerbeanmeldung-12.png)
 
 ▲ The *Ihr Zeichen* field is for your case name. You can leave this field empty.
 
@@ -95,19 +95,19 @@ If you want a Single Point of Contact, choose *Ja*. A Single Point of Contact is
 
 Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-13.png)](/images/berlin-gewerbeanmeldung-13.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-13.png)](/images/berlin-gewerbeanmeldung-13.png)
 
 ▲ Click *Hochladen* to upload a copy of your residence permit. If you don't see this button, you can skip this step.
 
-[![](/images/berlin-gewerbeanmeldung-14.png)](/images/berlin-gewerbeanmeldung-14.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-14.png)](/images/berlin-gewerbeanmeldung-14.png)
 
 ▲ Upload a scan of your [residence permit](/glossary/Aufenthaltstitel). Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-15.png)](/images/berlin-gewerbeanmeldung-15.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-15.png)](/images/berlin-gewerbeanmeldung-15.png)
 
 ▲ Click *Ausfüllen* to fill the *Gewerbeanmeldung* form. This is a digital version of the [GewA1 form](https://www.gewerbeanmeldung.de/formular-gewerbeanmeldung).[^3] The questions are the same. You can find a lot of help for the GewA1 form on the internet.
 
-[![](/images/berlin-gewerbeanmeldung-16.png)](/images/berlin-gewerbeanmeldung-16.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-16.png)](/images/berlin-gewerbeanmeldung-16.png)
 
 ▲ Choose the reason of your business registration. For a new business, choose *Neugründung*.
 
@@ -116,13 +116,13 @@ Click *Weiter* to continue.
 
 Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-18.png)](/images/berlin-gewerbeanmeldung-18.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-18.png)](/images/berlin-gewerbeanmeldung-18.png)
 
 ▲ Enter the name of your business, and what kind of business you do.
 
 For the business description, be precise, not too precise.[^0] If this description changes, you must fill this form again. For example, don't write "sale of women's clothes", just "sale of clothes". This way, if you start to sell men's clothes, you don't need to change anything.
 
-[![](/images/berlin-gewerbeanmeldung-17.png)](/images/berlin-gewerbeanmeldung-17.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-17.png)](/images/berlin-gewerbeanmeldung-17.png)
 
 ▲ Choose the nature of your business.[^1]
 
@@ -143,7 +143,7 @@ For the business description, be precise, not too precise.[^0] If this descripti
 
 Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-19.png)](/images/berlin-gewerbeanmeldung-19.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-19.png)](/images/berlin-gewerbeanmeldung-19.png)
 
 ▲ Enter information about the business owner.
 
@@ -154,7 +154,7 @@ Click *Weiter* to continue.
 - Birth name (*Geburtsname*)
 - Birth date (*Geburtstag*)
 
-[![](/images/berlin-gewerbeanmeldung-20.png)](/images/berlin-gewerbeanmeldung-20.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-20.png)](/images/berlin-gewerbeanmeldung-20.png)
 
 - City where you were born (*Geburtsort*)
 - Country where you were born (*Geburtsland*)
@@ -167,7 +167,7 @@ Click *Weiter* to continue.
 - Post code (Postleitzahl) - for example "13127"
 - Phone number (*Telefon Nummer*) - for example "+49-1522-123456"
 
-[![](/images/berlin-gewerbeanmeldung-21.png)](/images/berlin-gewerbeanmeldung-21.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-21.png)](/images/berlin-gewerbeanmeldung-21.png)
 
 - Fax number (*Telefax Nummer*) - for example "+49-1522-123456"
 - Email (*E-Mail*)
@@ -176,7 +176,7 @@ Click *Weiter* to continue.
 
 Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-22.png)](/images/berlin-gewerbeanmeldung-22.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-22.png)](/images/berlin-gewerbeanmeldung-22.png)
 
 ▲ Enter information about your residence permit. This section is for people who need a [residence permit](/glossary/Aufenthaltstitel) to start a business in Berlin.
 
@@ -189,7 +189,7 @@ Click *Weiter* to continue.
 
 Click *Weiter* to continue.
 
-[![](/images/berlin-gewerbeanmeldung-23.png)](/images/berlin-gewerbeanmeldung-23.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-23.png)](/images/berlin-gewerbeanmeldung-23.png)
 
 ▲ Enter information about your business location.
 
@@ -201,15 +201,15 @@ Click *Weiter* to continue.
 
 Click *Weiter* to continue
 
-[![](/images/berlin-gewerbeanmeldung-24.png)](/images/berlin-gewerbeanmeldung-24.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-24.png)](/images/berlin-gewerbeanmeldung-24.png)
 
 ▲ Click *Ausfüllen* to fill the *Identitätserklärung* form. This only takes a minute.
 
-[![](/images/berlin-gewerbeanmeldung-25.png)](/images/berlin-gewerbeanmeldung-25.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-25.png)](/images/berlin-gewerbeanmeldung-25.png)
 
 ▲ Tick the box, and click *Weiter* to continue
 
-[![](/images/berlin-gewerbeanmeldung-26.png)](/images/berlin-gewerbeanmeldung-26.png)
+[![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-26.png)](/images/berlin-gewerbeanmeldung-26.png)
 
 ▲ Click *Jetzt einreichen* to submit your case.
 

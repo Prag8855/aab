@@ -61,7 +61,7 @@ Since I have to double-check every transaction, the AI just creates more work fo
 
 Instead, I do everything in [Lexoffice](/out/lexoffice), and I ignore what Kontist tells me. The automatic VAT feature is useless to me.
 
-[![](/images/kontist-sort-transactions.png "You must set the VAT on each transaction. The AI does it automatically, but it's often wrong")](/images/kontist-sort-transactions.png)
+[![Screenshot of Kontist app: setting the VAT on a transaction](/images/kontist-sort-transactions.png "You must set the VAT on each transaction. The AI does it automatically, but it's often wrong")](/images/kontist-sort-transactions.png)
 
 ### Automatic income tax
 

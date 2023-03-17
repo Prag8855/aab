@@ -28,7 +28,7 @@ There are 3 ways to register your business with the *[[Finanzamt]]*:
 - **With a [tax advisor](/guides/english-speaking-steuerberater-berlin)**  
     Your tax advisor (*[[Steuerberater]]*) can register your business for you. [My tax advisor](https://stb-goeydeniz.de/english-tax-advisor-berlin/) did it in 5 minutes. This is the safest and easiest way, but it's hard to find a tax advisor. Use my [list of English-speaking tax advisors](/guides/english-speaking-steuerberater-berlin).
 
-[![](/images/sorted-fragebogen-steuerlichen-erfassung-english.png "Sorted's form is easier to fill than the official form. It's 100% in English.")](/out/sorted-fragebogen)
+[![Screenshot of Sorted's Fragenbogen zur steuerlichen Erfassung tool](/images/sorted-fragebogen-steuerlichen-erfassung-english.png "Sorted's form is easier to fill than the official form. It's 100% in English.")](/out/sorted-fragebogen)
 
 ## Before you start
 
@@ -105,7 +105,7 @@ To register your business, you must fill the [*Fragebogen zur steuerlichen Erfas
 
 To find the form, go on [ELSTER](https://www.elster.de/eportal/start), and in the sidebar, under *Formulare & Leistungen*, click *Alle Formulare* and find the *Fragebogen zur steuerlichen Erfassung für Einzelunternehmen*.
 
-[![](/images/elster-fragebogen-zur-steuerlichen-erfassung.png)](/images/elster-fragebogen-zur-steuerlichen-erfassung.png)
+[![Screenshot of the Fragebogen zur steuerlichen Erfassung form in ELSTER](/images/elster-fragebogen-zur-steuerlichen-erfassung.png)](/images/elster-fragebogen-zur-steuerlichen-erfassung.png)
 
 ### Section 1: Angaben zur Person
 

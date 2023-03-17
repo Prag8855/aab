@@ -235,4 +235,4 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 [^2]: [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](https://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)
 [^3]: [n26.com](https://n26.com/en-de/security)
 [^4]: [support.n26.com](https://support.n26.com/en-de/payments-transfers-and-withdrawals/withdrawals/how-often-can-i-withdraw-cash-for-free)
-[^5]: [Wikipedia](https://de.wikipedia.org/wiki/N26_(Direktbank))
+[^5]: [Wikipedia](https://de.wikipedia.org/wiki/N26_\(Direktbank\))

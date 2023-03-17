@@ -24,7 +24,7 @@ In order to cancel your BVG yearly ticket, you need to know your customer number
 
 You can find these numbers on the letter you received from the BVG. This is not the number on your BVG card, and this is not the number in your order confirmation email (*Abonnement Best-Nr*).
 
-![](/images/bvg-kuendigung-abonummer.jpg)
+![The BVG Kundennummer on a BVG letter](/images/bvg-kuendigung-abonummer.jpg)
 
 ### 2. Send a written cancellation request
 
@@ -52,7 +52,7 @@ Fill this template above, print it, and mail it to this address:[^1]
 
 Once the BVG receives your written request, they will reply with a confirmation. Your BVG yearly ticket will work until the end of your 12 month subscription.
 
-![](/images/bvg-abo-kuendigung.jpg)
+![Confirmation letter after cancelling a BVG Abo](/images/bvg-abo-kuendigung.jpg)
 
 ### 4. Return your BVG card
 
@@ -64,7 +64,7 @@ You can also cancel a BVG yearly ticket at any [BVG Kundenzentrum](https://www.b
 
 **[List of BVG Kundenzentren](https://www.bvg.de/de/service-und-kontakt/verkaufsstellen)**
 
-![](/images/cancel-bvg-abo-in-person.png)
+![Facebook comment about cancelling a BVG Abo in person](/images/cancel-bvg-abo-in-person.png)
 
 [^0]: [Screenshot](/images/bvg-abo-kuendigung.jpg)
 [^1]: [bvg.de](https://www.bvg.de/de/service-und-kontakt)
