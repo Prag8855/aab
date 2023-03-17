@@ -113,5 +113,5 @@ A small business (*[[Kleinunternehmer]]*) is a *Freiberufler* or *Gewerbe* with 
 [^11]: [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^12]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/buchfuehrung/bilanzierung/)
 [^13]: [selbststaendig-machen.net](https://www.selbststaendig-machen.net/handelsregister-lohnt-der-freiwillige-eintrag/)
-[^14]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_(Deutschland)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)
+[^14]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)
 [^15]: §148 AO in [English](https://www.gesetze-im-internet.de/ao_1977/__148.html) and [German](https://www.gesetze-im-internet.de/ao_1977/__148.html)

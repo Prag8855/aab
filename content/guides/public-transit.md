@@ -46,7 +46,7 @@ There are cheaper tickets for certain situations:
 - **Children**  
     Children under 6 years old travel for free. Children under 15 years old need a reduced price (*Ermäßigungstarif*) ticket. [Most tickets](#bring-other-people-for-free) let you bring children under 15 years old for free.
 - **Students and [apprentices](/glossary/Azubi)**  
-    Students and [apprentices](/glossary/Azubi) can get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/) (*Schülerticket* or *Ausbildungsticket*). You can apply for it [here](https://www.abo-antrag.de/de/) or [here](https://1.bvg.de/schuelerticket) (in German).
+    Students and [apprentices](/glossary/Azubi) can get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/) (*Schülerticket* or *Ausbildungsticket*). You can apply for it [here](https://www.abo-antrag.de/de/) or [here](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin) (in German).
 - **Senior citizens** Senior citizens pay the regular price for tickets. If you are over 64 years old, you can get, but there a cheaper yearly subscription: the [VBB-Abo 65plus](https://www.vbb.de/tickets/abonnements/vbb-abo-65plus/).
 - **Dogs**  
     If your dog is bigger than a cat, you must buy a reduced tariff (*Ermäßigungstarif*) ticket for it. Guide dogs and smaller dogs don't need a ticket. If you have a daily, monthly or yearly ticket, your dog can ride for free. - [How to bring dogs on public transit](/guides/public-transit#dogs-on-public-transit).
@@ -123,7 +123,7 @@ The display shows a train's last stop, not its direction. For example, if an S2 
 - **S-Bahn trains**  
     The [red and yellow S-Bahn trains](https://commons.wikimedia.org/wiki/File:Berlin-_Bahnhof_Friedrichstra%C3%9Fe-_auf_Bahnsteig_zu_Gleis_4-_BVG-Baureihe_480_10.8.2009.jpg) are run by the [[Deutsche Bahn]]. They travel everywhere in Berlin, and in some parts of [[Brandenburg]]. S-Bahn line names start with an S (S1, S2, ...).
 - **U-Bahn trains**  
-    The [yellow U-Bahn trains](https://commons.wikimedia.org/wiki/File:Berlin_U-Bahn_IK_at_Olympia-Stadion_(3).jpg) use their own rail network. They travel everywhere in Berlin. They are run by the [[BVG]]. U-Bahn line names start with a U (U1, U2, ...). The "U" is for "underground", but U-Bahn lines are not always underground. At night, U-Bahn trains are replaced by night buses.
+    The [yellow U-Bahn trains](https://commons.wikimedia.org/wiki/File:Berlin_U-Bahn_IK_at_Olympia-Stadion_\(3\).jpg) use their own rail network. They travel everywhere in Berlin. They are run by the [[BVG]]. U-Bahn line names start with a U (U1, U2, ...). The "U" is for "underground", but U-Bahn lines are not always underground. At night, U-Bahn trains are replaced by night buses.
 - **Trams** (*Straßenbahn*)  
     Some tram lines start with an M (M1, M2...), and others have just a number (50, 68...). Most trams are in the east. Before the [reunification](https://en.wikipedia.org/wiki/German_reunification), there were no trams in West Berlin. At night, some tram lines are replaced by night buses. Other tram lines also at night.
 - **Buses**  
@@ -220,7 +220,6 @@ This excludes the student ticket (*Schülerticket*), the FlexTicket, the 10AM ca
 
 [^0]: [sbahn.berlin](https://sbahn.berlin/en/tickets/the-vbb-fare-explained/passenger-regulations/?acc=a7133-t1)
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
-[^2]: [go.bvg.de](https://go.bvg.de/kontaktlos)
 [^3]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/bvg-verteidigt-rein-bargeldlosen-ticketkauf-beim-fahrer-6856978.html)
 [^4]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/vbb-umweltkarte/?acc=a3861-t1)
 [^5]: [berlin.de](https://www.berlin.de/tourismus/infos/nahverkehr/1859225-1721041-nachtbusse-nachtlinien.html)

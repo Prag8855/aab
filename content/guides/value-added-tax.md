@@ -204,7 +204,7 @@ For example, if you sell goods or services to customers in the United States, yo
 [^22]: [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/s/saeumniszuschlag/#:~:text=Barzahlung%20oder%20Scheckhingabe.-,beispiel%202%3A,-Der%20Unternehmer%20in)
 [^23]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/umsatzsteuervoranmeldung/#:~:text=die%20jahrliche%20umsatzsteuererklarung%20fasst%20alle%20umsatzsteuervoranmeldungen%20zusammen%20)
 [^24]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/umsatzsteuervoranmeldung/#:~:text=spatestens%20zum%2031.%20mai%20des%20folgejahres)
-[^25]: [andrewcross.eu \(archived\)](https://web.archive.org/web/20210615055008/https://20210615055008/vat-freelancers-germany/#:~:text=if%20a%20tax%20advisor%20submits%20it%20on%20your%20behalf)
+[^25]: [andrewcross.eu \(archived\)](https://web.archive.org/web/20210615055008/https://andrewcross.eu/vat-freelancers-germany/#:~:text=if%20a%20tax%20advisor%20submits%20it%20on%20your%20behalf)
 [^26]: [taxation-customs.ec.europa.eu](https://taxation-customs.ec.europa.eu/where-tax_en)
 [^27]: [accountable.de](https://www.accountable.de/en/blog/vat-in-other-countries-what-you-have-to-know-as-a-freelancer/#:~:text=non-European%20country.-,vat%20within%20the%20eu,-The%20sale%20of)
 [^28]: [lexparency.org](https://lexparency.org/eu/32006L0112/ART_58/)

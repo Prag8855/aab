@@ -431,7 +431,7 @@ These guides explain how:
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
-[^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://www.expaturm.com/fixed-term-rental-contract/#1-are-fixed-term-rental-contracts-permitted-in-germany)
+[^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
 [^20]: [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)
 [^21]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/rd4sxv/are_bribes_for_apartments_now_a_thing/)
 [^22]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/6t1hwf/spotting_craigslistwggesucht_scams_a_guide/), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)

@@ -121,7 +121,7 @@ Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay
 [^7]: [welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html)
 [^8]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/ayaoqu/do_you_always_get_back_your_kaution/ehzkuqu/), [the-red-relocators.com](https://the-red-relocators.com/relocation-guides-germany/real-estate-germany/legalities-of-the-deposit/)
 [^9]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-wegen-mietrueckstand-bzw-mietschulden-einbehalten/)
-[^10]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4), [s-i-m.eu \(archived\)](https://web.archive.org/web/20201230034629/https://20201230034629/mietkaution-richtig-abrechnen-so-geht-es-fuer-vermieter)
+[^10]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4), [s-i-m.eu \(archived\)](https://web.archive.org/web/20201230034629/https://s-i-m.eu/mietkaution-richtig-abrechnen-so-geht-es-fuer-vermieter)
 [^11]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4)
 [^13]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/kaution-auch-fuer-befristete-mietverhaeltnisse-1.138864)
 [^14]: [evz.de](https://www.evz.de/en/living-in-germany/renting-in-germany.html)

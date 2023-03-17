@@ -5,7 +5,7 @@ Description: If you move out of Germany, you must do your Abmeldung. This guide 
 Date_created: 2018-01-04
 ---
 
-When you [move out of your apartment](/guides/moving-out) and leave Germany, you must deregister your address. This is called the *Abmeldung*.
+When you [move out of your apartment](/guides/moving-out) and leave Germany, you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
 
 This guide explains why and how to do your *Abmeldung* in Berlin.
 
@@ -22,6 +22,7 @@ This guide explains why and how to do your *Abmeldung* in Berlin.
 
 - **You temporarily move out of Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
 - **You move to another address in Germany**. When you [register your new address](/guides/anmeldung-in-english-berlin), your old address is automatically deregistered.
+- **You have not registered your address**.
 
 ## Why you must deregister
 
@@ -184,7 +185,7 @@ If you own a business in Germany, you might also need deregister it,[^16] or tra
 [^11]: [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregistration-berlin/#:~:text=currently%20only%20possible%20at), [Screenshot](/images/abmeldung-by-email-steglitz.png), [Screenshot](/images/abmeldung-by-email-steglitz-2.png), [Screenshot](/images/ba-steglitz-anmeldebestatigung-email.png), [Screenshot](/images/burgeramt-steglitz-abmeldung-email-5.png)
 [^12]: [Screenshot](/images/Screenshot-2022-01-17-at-09.08.56.png)
 [^13]: [Screenshot](/images/ba-steglitz-abmeldung-email-requirements.png)
-[^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland/#umzug5)
+[^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
 [^17]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/m14kvt/what_happens_after_the_abmeldung/gqboqey/?utm_source=reddit&utm_medium=web2x&context=3)

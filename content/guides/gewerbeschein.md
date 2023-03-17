@@ -241,8 +241,8 @@ You finished a big step of [starting a business in Germany](/guides/start-a-busi
 
 The next step is to [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
-[^0]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide), [selbststaendigkeit.de](https://selbststaendigkeit.de/existenzgruendung/startup/buchhaltung-steuern-rechnungen/ein-kleingewerbe-anmelden-diesen-tipps/)
-[^1]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://20160710161656/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide)
+[^0]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://hannalisahaferkamp.com/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide), [selbststaendigkeit.de](https://selbststaendigkeit.de/existenzgruendung/startup/buchhaltung-steuern-rechnungen/ein-kleingewerbe-anmelden-diesen-tipps/)
+[^1]: [hannalisahaferkamp.com \(archived\)](https://web.archive.org/web/20160710161656/https://hannalisahaferkamp.com/blog/how-to-fill-out-the-trade-license-registration-in-berlin-guide)
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Nebenerwerb), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_3/__138.html)
 [^3]: [gewerbe-anmelden.info](https://www.gewerbe-anmelden.info/gewerbeschein/gewerbeschein-formular-ausfuellen)
 [^4]: [Wikipedia](https://de.wikipedia.org/wiki/Reisegewerbe)

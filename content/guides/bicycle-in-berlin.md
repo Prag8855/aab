@@ -41,7 +41,7 @@ Used bicycles are cheaper. There are many places where you can buy them:
     Facebook group with over 30 000 members. If you speak French, there is also [Les vélos de Berlin](https://www.facebook.com/groups/lesvelosdeberlin/). Watch for [stolen bicycles](#buying-a-stolen-bicycle).
 - **Bicycle auctions**  
     There are regular auctions for [lost and found](/guides/lost-and-found-berlin) items:
-    - [City of Berlin auctions](https://www.luedtke-versteigerungen.de/fahrradversteigerung)
+    - [S-Bahn bicycle auctions](https://sbahn.berlin/aktuelles/artikel/vergessene-fahrraeder-unterm-hammer/)
     - [Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)
 
 The quality of used bicycles varies a lot. Always try the bike before you buy it. Check if the brakes work, the gears change smoothly, the frame is not cracked, the wheels are straight, etc. [This guide](https://bikefair.org/blog/how-to-choose-a-second-hand-bike#:~:text=check%20the%20bike) can help you.
@@ -223,7 +223,7 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 [^19]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/strassenbenutzung-fahrrad/)
 [^20]: [t-online.de](https://www.t-online.de/auto/recht-und-verkehr/id_77495110/verkehrsregeln-die-wichtigsten-bussgelder-fuer-fahrradfahrer.html)
 [^21]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/autofahrer-radfahrer-fussganger-was-darf-man-was-nicht-6927460.html), [morgenweb.de](https://www.mannheimer-morgen.de/wirtschaft/auto_artikel,-auto-handzeichen-ist-fuer-radler-pflicht-_arid,586051.html)
-[^22]: [bicyclegermany.com](http://bicyclegermany.com/german_bicycle_laws.html), [prologcyclingwear.com](https://www.prologcyclingwear.com)
+[^22]: [bicyclegermany.com \(archived\)](https://web.archive.org/web/20220924162654/http://bicyclegermany.com/german_bicycle_laws.html), [prologcyclingwear.com](https://www.prologcyclingwear.com)
 [^23]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
 [^24]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f5y0g/psa_if_a_bike_lane_is_between_a_trambus_and_the/), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/autofahrer-radfahrer-fussganger-was-darf-man-was-nicht-6927460.html)
 [^25]: [digitalpresent.tagesspiegel.de](https://digitalpresent.tagesspiegel.de/die-radspuren-der-verwirrung), [cyclingfallacies.com](https://cyclingfallacies.com/de/31/busspuren-sind-gut-zum-radfahren-geeignet)

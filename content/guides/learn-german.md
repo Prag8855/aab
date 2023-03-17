@@ -97,8 +97,6 @@ Private language schools have smaller group sizes: 7 to 15 people. They sometime
 
 Most private schools also offer online classes.
 
-- **[Anda Sprachschule](https://www.anda-sprachschule.de/en/)**  
-    Intensive classes in Wedding. Private lessons are available.
 - **[Deutsche Akademie für Sprachen](https://www.das-akademie.de/en/)**  
     Regular and intensive classes in Prenzlauer Berg. Private lessons are available.
 - **[DeutSCHule](https://www.die-deutschule.de/en/german-course-berlin/)**  

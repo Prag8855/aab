@@ -201,7 +201,7 @@ If you just need protection for apartment problems, join a tenant association (*
 [^10]: [rechtsschutzversicherung.com](https://www.rechtsschutzversicherung.com/rechtsschutzversicherung-scheidung/)
 [^11]: [Finanztip](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
 [^12]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/vorsatztaten-mitversichert/)
-[^13]: [versicherungenmitkopf.de \(archived\)](https://web.archive.org/web/20210917003713/https://20210917003713/legal-insurance-germany?lang=en)
+[^13]: [versicherungenmitkopf.de \(archived\)](https://web.archive.org/web/20210917003713/https://versicherungenmitkopf.de/legal-insurance-germany?lang=en)
 [^14]: [hellogetsafe.com](https://www.hellogetsafe.com/documents/legal_comfort_roland.pdf?lang=en)
 [^15]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/versicherungsvertrag-kuendigen-wann-das-klappt-und-wie-sie-vorgehen-5442), [fnp.de](https://www.fnp.de/ratgeber/geld/wenn-rechtsschutzversicherung-kunden-kuendigt-10458481.html), [clark.de](https://www.clark.de/rechtsschutzversicherung/gekuendigt/)
 [^16]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/66395-legal-insurance/?page=3)

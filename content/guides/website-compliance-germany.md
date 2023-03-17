@@ -151,7 +151,7 @@ It's important to have a complete Impressum. Some lawyers aggressively scrutinis
 
 The Impressum must be available in the same languages as your website.[^11]
 
-If you can, [remove your Impressum page from Google search results](https://support.google.com/webmasters/answer/6062607?hl=en&ref_topic=4598466). Some lawyers make money by finding invalid Impressum pages. If they find yours, they might send you an *[[Abmahnung]]*.
+If you can, [remove your Impressum page from Google search results](https://developers.google.com/search/docs/crawling-indexing/control-what-you-share?hl=en&ref_topic=4598466&visit_id=638146524817495260-4161725088&rd=1). Some lawyers make money by finding invalid Impressum pages. If they find yours, they might send you an *[[Abmahnung]]*.
 
 ### Who needs to do this?
 

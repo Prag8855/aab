@@ -160,4 +160,4 @@ You must also be nice to your neighbours. If your dog barks all the time,[^15] o
 [^13]: [berlin.de \(archived\)](https://web.archive.org/web/20210421031002/http://www.berlin.de:80/special/immobilien-und-wohnen/mietrecht/1363973-739654-tierhaltungwanndervermieterzustimmenmuss.html), [perpetual.care](https://www.perpetual.care/arriving-in-berlin/)
 [^14]: [berlin.de \(archived\)](https://web.archive.org/web/20210421030458/https://berlin.de/special/immobilien-und-wohnen/mietrecht/2190683-739654-haustierhaltung-darf-von-eigentuemern-ve.html)
 [^15]: [berlin.de \(archived\)](http://web.archive.org/web/20210421030058/https://www.berlin.de/special/immobilien-und-wohnen/mietrecht/1154997-739654-hundebellenmussnichtdauerhafthingenommen.html)
-[^16]: [berlin.de \(archived\)](https://web.archive.org/web/20210421025306/https://20210421025306/special/immobilien-und-wohnen/mietrecht/1043463-739654-hundekotimgemeinschaftsgartenistk%C3%BCndigu.html)
+[^16]: [berlin.de \(archived\)](https://web.archive.org/web/20210421025306/https://berlin.de/special/immobilien-und-wohnen/mietrecht/1043463-739654-hundekotimgemeinschaftsgartenistk%C3%BCndigu.html)

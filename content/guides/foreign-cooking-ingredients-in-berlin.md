@@ -60,7 +60,7 @@ Corn tortillas are sold at [Chili & Paprika](http://www.chiliundpaprika.de/) and
 
 ### Couscous spices
 
-According to Quora, you can find Couscous spice at Galeria under the name *Ras el-Hanout*. Turkish markets and spice kiosks at Berlin's many [Wochenmärkte](http://www.mein-wochenmarkt.com/berlin/) should also carry couscous spices.
+According to Quora, you can find Couscous spice at Galeria under the name *Ras el-Hanout*. Turkish markets and spice kiosks at Berlin's many [Wochenmärkte](https://web.archive.org/web/20220828174400/https://mein-wochenmarkt.com/berlin) should also carry couscous spices.
 
 ### Evaporated milk
 
@@ -100,7 +100,7 @@ Molasses is called *Melasse* in German. You can find it at Edeka and in many bio
 
 ### Mustard powder
 
-This staple ingredient of American BBQ can be found in most [Wochenmärkte](http://www.mein-wochenmarkt.com/berlin/). I get mine from the Winterfeldtplatz market. Just look for *Senfpulver* at the spice kiosks. Colman's Mustard Powder can be found at KaDeWe or ordered [from Amazon](https://www.amazon.de/Colmans-Mustard-Powder-113g-Senfpulver/dp/B000I4MKSS/ref=as_li_ss_tl?ie=UTF8&qid=1506954531&sr=8-5&keywords=senfpulver&linkCode=sl1&tag=nicolasboulia-21&linkId=aa7956b8f4cfa4740f55bb599d82f443).
+This staple ingredient of American BBQ can be found in most [Wochenmärkte](https://web.archive.org/web/20220828174400/https://mein-wochenmarkt.com/berlin). I get mine from the Winterfeldtplatz market. Just look for *Senfpulver* at the spice kiosks. Colman's Mustard Powder can be found at KaDeWe or ordered [from Amazon](https://www.amazon.de/Colmans-Mustard-Powder-113g-Senfpulver/dp/B000I4MKSS/ref=as_li_ss_tl?ie=UTF8&qid=1506954531&sr=8-5&keywords=senfpulver&linkCode=sl1&tag=nicolasboulia-21&linkId=aa7956b8f4cfa4740f55bb599d82f443).
 
 ### Pancetta
 

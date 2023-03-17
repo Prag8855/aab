@@ -49,7 +49,7 @@ Postbank and Volksbank branches will print your Schufa report, even if you are n
 
 If you have a printer at home, you can get a Schufa from [ImmobilienScout24](https://bonitaetscheck.immobilienscout24.de/) and print it yourself. It costs €29.95, but you can download and print it instantly.
 
-**This service does not work for everyone**. You must verify your identity with your bank. Not all banks can do this. If your bank is not supported, you must send a verification document by post and wait a few days. You can ask for a refund on their [live chat](https://www.immobilienscout24.de/kontakt.html).
+**This service does not work for everyone**. You must verify your identity with your bank. Not all banks can do this. If your bank is not supported, you must send a verification document by post and wait a few days. You can ask for a refund on their [live chat](https://www.immobilienscout24.de/kontakt/s/).
 
 How to request a Schufa on ImmobilienScout24:
 
