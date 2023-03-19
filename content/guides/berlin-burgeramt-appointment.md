@@ -17,17 +17,15 @@ You don't always need to visit the *[[Bürgeramt]]*. You can do certain things o
 
 Select a service from [the list of services](https://service.berlin.de/dienstleistungen/), and click "*Termin berlinweit suchen*" to look for appointments in all *Bürgeramt* locations.
 
-![Berlin de termin buchen](/images/berlin-de-termin-buchen.png "Click this button to find an appointment anywhere in Berlin")
+![Berlin.de Termin buchen](/images/berlin-de-termin-buchen.png "Click this button to find an appointment anywhere in Berlin")
 
 You can also use the [*Anmeldung* appointment finder](/tools/appointment-finder) to find *[[Anmeldung]]* appointments faster.
 
 {% include "blocks/_appointmentFinder.html" %}
 
-**Sometimes, there are no appointments**. This is normal. Refresh the page every few minutes, and you will find an appointment. New appointments appear [randomly](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment) during the day. There are more appointments during working hours. You don't need to check early in the morning.[^0] You won't find more appointments at 7AM than at 10AM.
+**Sometimes, there are no appointments**. This is normal. Refresh the page every few minutes, and you will find an appointment. Look for appointments in all *Bürgeramt* locations, not just the nearest one.
 
-You should look for appointments in all *Bürgeramt* locations, not just the nearest one.
-
-**Useful links:**
+Most new appointments appear on weekdays between 8:00 and 17:00. There are more appointments in the morning, between 8:00 and 11:00.[^0]
 
 - [List of Bürgeramt services](https://service.berlin.de/dienstleistungen/) - Berlin.de
 - [List of Bürgeramt locations](https://service.berlin.de/standorte/buergeraemter/) - Berlin.de
@@ -40,13 +38,13 @@ You can do multiple things in one appointment.
 2. Select multiple services from the list
 3. Click "*An diesem Standort einen Termin buchen*".
 
-![Berlin buergeramt list of services](/images/berlin-buergeramt-list-of-services.png "Select multiple services from the list")
+![Berlin Bürgeramt list of services](/images/berlin-buergeramt-list-of-services.png "Select multiple services from the list")
 
-![Berlin buergeramt multiple appointments](/images/berlin-buergeramt-multiple-appointments.png "Look for available appointments")
+![Berlin Bürgeramt multiple appointments at once](/images/berlin-buergeramt-multiple-appointments.png "Look for available appointments")
 
 ## Call 115
 
-Call [030 115](tel:+4930115). This is the *[[Bürgertelefon]]*. You can ask about the *Bürgeramt* services, and ask for a *Bürgeramt* appointment. This phone line is also available in some other German cities.
+Call [030 115](tel:+4930115). This is the *[[Bürgertelefon]]*. You can ask for a *Bürgeramt* appointment. This phone line is also available in some other German cities.
 
 They only speak German. You must wait a few minutes to talk to someone.
 
