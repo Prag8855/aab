@@ -255,7 +255,7 @@ The *Telemediengestz* says that ads on a website must be clearly labelled. You c
 Here are the basic guidelines for ads and sponsored content on your website:
 
 1. **Affiliate links need to be labelled** Affiliate links are "commercial communications" according to [§ 6 TMG](http://www.gesetze-im-internet.de/tmg/__6.html). Multiple lawyers suggest to mark affiliate links as ads,[^17] even if you are not *directly* getting financial compensation for affiliate content. A footnote regarding affiliate links might be insufficient.[^21]
-2. **Sponsored content needs to be labeled** If you get paid to put a sponsored post on your blog, you need to clearly tell your users that this post is an ad, and tell them who is sponsoring the ad. In other words, you can't disguise an advertisement as an editorial text.
+2. **Sponsored content needs to be labelled** If you get paid to put a sponsored post on your blog, you need to clearly tell your users that this post is an ad, and tell them who is sponsoring the ad. In other words, you can't disguise an advertisement as an editorial text.
 
 [According to Kanzlei Plutte](https://www.ra-plutte.de/schleichwerbung-sponsored-hinweis-reicht-nicht-aus/), "sponsored content" is not a sufficient label, and you should use a clear word like "advertisement" to label advertising on your website. He backs his opinion with court cases, but admits that Twitter, Facebook and Instagram use the term "sponsored".
 
@@ -294,7 +294,7 @@ If your website generates income, it's a business. If it's not part of a registe
 
 ### Who needs to do this?
 
-Any German resident or who runs a website as a standalone business.
+Any German resident or who runs a website as a stand-alone business.
 
 ### Examples
 
@@ -303,8 +303,8 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 ### To-do list
 
 - Before running a commercial website in Germany, make sure you are allowed to freelance in this country.
-- If your website is a standalone business, [apply for a ](/guides/gewerbeschein)*[Gewerbeschein](/guides/gewerbeschein)*.
-- If your website is a standalone business, [register it at the ](/guides/fragebogen-zur-steuerlichen-erfassung)*[Finanzamt](/guides/fragebogen-zur-steuerlichen-erfassung)*.
+- If your website is a stand-alone business, [apply for a ](/guides/gewerbeschein)*[Gewerbeschein](/guides/gewerbeschein)*.
+- If your website is a stand-alone business, [register it at the ](/guides/fragebogen-zur-steuerlichen-erfassung)*[Finanzamt](/guides/fragebogen-zur-steuerlichen-erfassung)*.
 - When your receive your tax number (*[[Steuernummer]]*) from the *[[Finanzamt]]*, add it to your *[[Impressum]]*.
 
 ## Need help?

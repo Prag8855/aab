@@ -114,7 +114,7 @@ There are many lists of things to see in Berlin. See [visitBerlin.de](https://ww
 - [**Brandenburg Gate**](https://goo.gl/maps/pJvVaLRLvsHyYg5S6) (*Brandenburger Tor*)  
     The iconic gate on Berlin's East-West axis.
 - **[Christmas markets](https://www.visitberlin.de/en/christmas-markets-berlin)**  
-    In November and December, you can visit Berlin's Christmas markets. There are dozens of them. Many are in scenic locations. There are dozens of kiosks that sell hot drinks, food, sweets and artisanal goods. The Christmas markets are open from the middle of November to the end of December.
+    In November and December, you can visit Berlin's Christmas markets. There are dozens of them. Many are in scenic locations. There are dozens of kiosks that sell hot drinks, food, sweets and home-made goods. The Christmas markets are open from the middle of November to the end of December.
 - [**East Side Gallery**](https://goo.gl/maps/R18gdTWvTqdSxHqn7)  
     A long mural painted directly on the Berlin wall.
 - [**Mauerpark**](https://g.page/mauerpark-berlin)  
@@ -124,7 +124,7 @@ There are many lists of things to see in Berlin. See [visitBerlin.de](https://ww
 - **[Museum island](https://goo.gl/maps/sPpsKZkauPaP4F2e6)** (*Museuminsel*)  
     Museum island is home to the Berliner Dom, and many of the biggest, oldest museums. If you like beautiful old buildings, it's worth a visit.
 - [**Oberbaum Bridge**](https://goo.gl/maps/EhWuSsraoqi8Mx3M7) (*Oberbaumbrücke*)  
-    A beautiful bridge that goes across the river Spree. It's right next to the East Side Gallery. You can also go kayaking on the Spree and get a really good view on the bridge.
+    A beautiful bridge that goes across the river Spree. It's right next to the East Side Gallery. You can also kayak on the Spree to get a really good view on the bridge.
 - **[Palace of tears](https://goo.gl/maps/yxaLcUpHbLcyocbf6)** (*Tränenpalast*)  
     A small, free museum about the border control between East and West Germany. It's in the old border crossing point, right next to the Friedrichstraße train station.
 - **[Reichstag building](https://goo.gl/maps/bX2fckWqrLCYsPfH8)** (*Reichstagsgebäude*)  
@@ -197,7 +197,7 @@ Most people tip in German restaurants, but it's okay if you don't. The waiter wo
 
 ## Where to stay in Berlin
 
-There is no "downtown Berlin". There are many popular neighbourhoods, and each one has a different personality. If you stay anywhere in the *[[Ringbahn]]*, you should be okay.
+There is no "down town Berlin". There are many popular neighbourhoods, and each one has a different personality. If you stay anywhere in the *[[Ringbahn]]*, you should be okay.
 
 [![2000Px S Bahn Ring Berlin Svg](/images/2000px-S-Bahn-Ring_Berlin.svg.png "The central parts of Berlin are inside the Ringbahn.")](/images/2000px-S-Bahn-Ring_Berlin.svg.png)
 

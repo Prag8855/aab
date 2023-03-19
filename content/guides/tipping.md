@@ -5,11 +5,11 @@ Description: This guide tells how tipping works in German restaurants, bars, tax
 Date_created: 2023-03-14
 ---
 
-In Germany, **tipping is optional**. There are no rules and everyone tips differently. This guide you an idea of how people *usually* tip. The answers come from service workers I interviewed.
-
-{% include "blocks/_tipJar.html"%}
+In Germany, **tipping is optional**. There are no rules and everyone tips differently. This guide explains how people *usually* tip.
 
 {% include "blocks/_tableOfContents.html" %}
+
+{% include "blocks/_tipJar.html"%}
 
 ## Tipping in restaurants
 

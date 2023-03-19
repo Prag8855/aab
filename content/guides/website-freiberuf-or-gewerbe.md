@@ -15,7 +15,7 @@ If you are a *[[Freiberufler]]*, and your website is part of your business, it's
 
 ### Websites that are a standalone business
 
-If your website is a standalone business, and you make money by selling ads, referrals or products, it's a *Gewerbe*.[^0] You must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
+If your website is a stand-alone business, and you make money by selling ads, referrals or products, it's a *Gewerbe*.[^0] You must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
 For example, if you make money by placing ads on your blog, you need to register it as a *Gewerbe*. An online store is also a *Gewerbe*.
 

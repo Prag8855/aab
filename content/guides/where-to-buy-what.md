@@ -25,7 +25,7 @@ If you're new in Germany, it's hard to know what the supermarkets, furniture sto
 
 If you need **fresh fruits, vegetables and meat**, try Turkish supermarkets like Bolu or Eurogida. Most of them have a meat counter. Use [this map](https://turkischersupermarkt.de/explore/) to find them.
 
-If you need **special ingredients** like brown sugar, graham crumbs, dopio zero flour, Marmite or maple syrup, see [this guide](/guides/foreign-cooking-ingredients-in-berlin).
+If you need **special ingredients** like brown sugar, Graham crumbs, dopio zero flour, Marmite or maple syrup, see [this guide](/guides/foreign-cooking-ingredients-in-berlin).
 
 If you just need to buy **drinks and snacks**, go to a [*Späti*](/glossary/Sp%C3%A4ti).
 
@@ -49,8 +49,8 @@ Most dm and Rossmann stores are closed on Sundays, but there are [some exception
 
 ## Books
 
-- Thalia - Bookstore chain
-- [Dussmann](https://www.kulturkaufhaus.de/) - Giant bookstore near Friedrichstrasse
+- Thalia - Book store chain
+- [Dussmann](https://www.kulturkaufhaus.de/) - Giant book store near Friedrichstraße
 
 ## Furniture and house supplies
 
