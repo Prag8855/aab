@@ -10,18 +10,23 @@
     {% raw %}
         <div class="body">
             <p>
-                <strong>
-                    Searching for <a href="/glossary/Anmeldung">Anmeldung</a> appointments...
-                </strong>
+                <strong v-if="!isConnected"><a href="/glossary/Anmeldung">Anmeldung</a> appointment finder</strong>
+                <strong v-if="isConnected">Searching for <a href="/glossary/Anmeldung">Anmeldung</a> appointments...</strong>
                 <br>
-                <small v-if="!isRateLimited && secondsToNextMessage === null">Checking every 3 minutes.</small>
-                <small v-if="!isRateLimited && secondsToNextMessage > 0">Checking again in {{ secondsToNextMessage }} seconds.</small>
-                <small v-if="!isRateLimited && secondsToNextMessage <= 0 ">Looking for appointments...</small>
-                <small v-if="isRateLimited">Berlin.de is blocking requests. Pausing for a few minutes.</small>
+                <small v-if="isConnected === null">Connecting to the appointment finder...</small>
+                <small v-if="isConnected === false">Can't connect to the appointment finder. Try refreshing the page.</small>
+                <small v-if="isConnected && !isRateLimited && secondsToNextMessage === null">Checking every 3 minutes.</small>
+                <small v-if="isConnected && !isRateLimited && secondsToNextMessage > 0">
+                  <span v-if="isConnected && hasError">Berlin.de is having issues.</span>
+                  Checking again in {{ secondsToNextMessage }} seconds.
+                </small>
+                <small v-if="isConnected && !isRateLimited && secondsToNextMessage <= 0 ">Looking for appointments...</small>
+                <small v-if="isConnected && isRateLimited">Berlin.de is blocking requests. Pausing for a few minutes.</small>
             </p>
             <progress class="refresh-progress" max="180" :value="secondsToNextMessage" role="timer" aria-label="Time until next refresh"></progress>
-            <p v-if="appointments.length === 0" class="no-appointments">
+            <p v-if="isConnected && appointments.length === 0" class="no-appointments">
                 New appointments appear here. You don't have to refresh the page.
+                <small v-if="!isDuringOfficeHours"><br>There are more appointments on weekdays between 8:00 and 17:00.</small>
             </p>
             <div v-if="appointments.length > 0" class="options">
                 <div v-for="appointment in appointments" :key="appointment.date">
@@ -35,7 +40,7 @@
                   </a>
                 </div>
             </div>
-            <label class="checkbox">
+            <label v-if="isConnected" class="checkbox">
                 <input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound when there are {{ appointments.length > 0 ? 'better' : 'new' }} appointments
             </label>
         </div>
@@ -49,7 +54,8 @@
       el: appointmentFinderWidget,
       data() {
         return {
-          connected: false,
+          isConnected: null,
+          hasError: false,
           originalPageTitle: document.title,
           playSoundOnNewAppointments: false,
           reconnectInterval: null,
@@ -84,13 +90,13 @@
         },
         onConnect(event) {
           console.log('Connected to appointments API');
-          this.connected = true;
+          this.isConnected = true;
           if(this.reconnectInterval){ clearInterval(this.reconnectInterval) }
           this.reconnectInterval = null;
         },
         onDisonnect(event) {
-          this.connected = false;
-          console.warn('Disconnected from appointments API. Reconnecting...');
+          this.isConnected = false;
+          console.warn('Lost connection to appointments API. Reconnecting...');
           if(!this.reconnectInterval) {
             this.reconnectInterval = setInterval(this.connect, 5000)
           }
@@ -98,15 +104,22 @@
         onMessage(event) {
           if(!event.data) return;
           const currentMessage = JSON.parse(event.data);
-          if(currentMessage && currentMessage.status !== 200) {
-            console.error("Could not fetch appointments", event.data);
-            return;
+          if(currentMessage) {
+            if(currentMessage.status === 200){
+              this.hasError = false;
+            }
+            else{
+              console.error("Could not fetch appointments", event.data);
+              this.hasError = true;
+              return;
+            }
           }
-
           this.lastMessage = currentMessage;
         },
         onError(event) {
           console.error('WebSocket error', event);
+          this.hasError = true;
+          this.lastMessage = null;
         },
         prettyDate(date) {
           const month = [
@@ -183,10 +196,14 @@
           }});
         },
         lastChecked() {
-          return this.lastMessage ? new Date(this.lastMessage.time) : new Date();
+          return this.lastMessage ? new Date(this.lastMessage.time) : null;
         },
         isRateLimited() {
           return this.lastMessage ? this.lastMessage.status === 502 : false;
+        },
+        isDuringOfficeHours() {
+          const now = new Date();
+          return now.getHours() >= 8  && now.getHours() < 17 && now.getDay() > 0 && now.getDay() < 6;
         },
       },
       watch: {
@@ -200,8 +217,12 @@
               ding.play();
             }
           }
-
           this.updateWindowTitle();
+        },
+        playSoundOnNewAppointments(isChecked) {
+          if(isChecked){
+            ding.play();
+          }
         }
       }
     });

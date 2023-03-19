@@ -15,7 +15,7 @@ This bot helps you find an appointment to [register your address](/glossary/Anme
 
 ## What's wrong with Bürgeramt appointments?
 
-In Berlin, most government services require an appointment. If you want to [register an address](/glossary/Anmeldung), renew a passport or get a driving licence, you must book an appointment at the [[Bürgeramt]].
+In Berlin, most government services require an appointment. To [register an address](/glossary/Anmeldung), renew a passport or get a driving licence, you must book an appointment at the [[Bürgeramt]].
 
 **Bürgeramt appointments are hard to find**. Most of the time, there are no appointments.[^0] You must refresh the page again and again until you find one. Since most appointments are added during business hours,[^1] many Berliners must do this during work.
 
@@ -41,7 +41,7 @@ Coronavirus also had an impact.[^11] During the pandemic, only 60% of Bürgeramt
 
 Bürgeramt appointments take time. A Bürgeramt employee only handles 18 cases per day.[^15] Adding more people helps, but it does not solve this problem.
 
-To make things worse, a thousand Berliners miss their Bürgeramt appointment every day.[^16] In Pankow, 10% don't go to their appointments In Neukölln, it's 20%.[^17] It could be that people forget their appointments, or that their plans change and they can't go. There are no appointment reminders. An email and SMS reminder system was announced in 2018,[^18] but it's still missing.
+To make things worse, a thousand Berliners miss their Bürgeramt appointment every day.[^16] In Pankow, 10% don't go to their appointments. In Neukölln, it's 20%.[^17] It could be that people forget their appointments, or that their plans change and they can't go. There are no appointment reminders. An email and SMS reminder system was announced in 2018,[^18] but it's still missing.
 
 ### When will things change?
 
