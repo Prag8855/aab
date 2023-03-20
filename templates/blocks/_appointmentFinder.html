@@ -208,14 +208,8 @@
       },
       watch: {
         appointments(newAppointments, oldAppointments) {
-          if(oldAppointments.length) {
-            const isBetterAppointmentFound = (
-              !oldAppointments[0]
-              || oldAppointments[0].date.getTime() > newAppointments[0].date.getTime()
-            );
-            if(isBetterAppointmentFound && this.playSoundOnNewAppointments) {
-              ding.play();
-            }
+          if(oldAppointments.length && this.playSoundOnNewAppointments) {
+            ding.play();
           }
           this.updateWindowTitle();
         },
