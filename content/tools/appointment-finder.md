@@ -2,7 +2,6 @@
 Title: Anmeldung appointment finder
 Description: This bot helps you find an appointment to register your address at the Bürgeramt.
 Date_created: 2022-06-15
-Date_updated: 2022-08-26
 ---
 
 This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*.
@@ -35,13 +34,15 @@ This has been a problem for many years. There was some progress, but it's still 
 
 There are not enough Bürgeramt employees to help everyone.[^7] The government promises to hire more personnel, but the situation does not improve.[^8] The population of Berlin grows quickly,[^9] and more people need government services. Many employees retire and must be replaced.[^10] There are still many vacant positions, and not enough budget to hire new employees.
 
-Coronavirus also had an impact.[^11] During the pandemic, only 60% of Bürgeramt employees were working.[^12] In some cases, it was only 25%.[^13] Some of the employees were also reassigned to contact tracing.[^14]
-
 ### Inefficiency
 
 Bürgeramt appointments take time. A Bürgeramt employee only handles 18 cases per day.[^15] Adding more people helps, but it does not solve this problem.
 
 To make things worse, a thousand Berliners miss their Bürgeramt appointment every day.[^16] In Pankow, 10% don't go to their appointments. In Neukölln, it's 20%.[^17] It could be that people forget their appointments, or that their plans change and they can't go. There are no appointment reminders. An email and SMS reminder system was announced in 2018,[^18] but it's still missing.
+
+### Hidden appointments
+
+The Bürgeramt does not make all appointments available online. They keep free appointments for people who email them or call 115. This means that many appointments are impossible to get through the official website.
 
 ### When will things change?
 
@@ -102,10 +103,6 @@ In the future, I want to work with them to make some of those improvements.
 [^8]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html#:~:text=ende%202014%20hat%20der%20finanzsenator%20den%20burgeramtern%2031%20zusatzliche%20stellen), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html), [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/neues-personal-fuer-berlins-buergeraemter), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/senat-verspricht-mehr-als-1200-zusatzliche-stellen-5497792.html)
 [^9]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_population_statistics)
 [^10]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/senat-verspricht-mehr-als-1200-zusatzliche-stellen-5497792.html)
-[^11]: [rbb24.de](https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege_neu/2020/05/berlin-buergeramt-aemter-service-notbetrieb-persoenliche-termine.html)
-[^12]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlin-bekommt-ein-neues-burgeramt-5109592.html#:~:text=in%20den%20burgeramtern%20seien%20derzeit%2060%20prozent%20aller%20mitarbeiter%20im%20%E2%80%9Efront%20office%E2%80%9C%20im%20einsatz)
-[^13]: [rbb24.de](https://www.rbb24.de/politik/thema/corona/beitraege/2021/11/behoerdenstau-brandenburg-rathaus-buergeraemter-termine.html#:~:text=sechs%20von%20acht%20mitarbeitern%20erkrankt)
-[^14]: [rbb24.de](https://www.rbb24.de/politik/thema/corona/beitraege/2021/11/behoerdenstau-brandenburg-rathaus-buergeraemter-termine.html)
 [^15]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlin-bekommt-ein-neues-burgeramt-5109592.html#:~:text=pro%20mitarbeiter%20konnen%2018%20termine%20pro%20tag%20angeboten%20werden), [rbb24.de \(archived\)](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html)
 [^16]: [berlin.de](https://service.berlin.de/terminvereinbarung/hinweise/#:~:text=leider%20werden%20insgesamt%20etwa%201.000%20termine%2Ftag%20nicht%20wahrgenommen.)
 [^17]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html#:~:text=jeder%20zehnte%20termin%20werde%20dadurch%20in%20pankow%20nicht%20wahrgenommen.%20in%20neukolln%20seien%20es%20sogar%2020%20prozent.)
@@ -117,4 +114,4 @@ In the future, I want to work with them to make some of those improvements.
 [^23]: [welt.de](https://www.welt.de/regionales/berlin/article144567655/Berliner-verkaufen-Termine-im-Buergeramt-fuer-45-Euro.html)
 [^24]: [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/1nFaSvn04t1eyLagvxeBL4), [20percent.berlin](https://www.20percent.berlin/p/45-yes-more-corona-changes-trains?s=r), [blog.feather-insurance.com](https://feather-insurance.com/blog/meet-nicolas-from-all-about-berlin/)
 [^25]: [allaboutberlin.com](/tools/appointment-finder), [linkedin.com](https://www.linkedin.com/posts/nicolasbouliane_b%C3%BCrgeramt-appointment-finder-activity-6891808142745755648-wsvb?utm_source=linkedin_share&utm_medium=member_desktop_web), [Twitter](https://twitter.com/aboutberlin/status/1485999903327367178)
-[^26]: This was a problem in [2015](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html), [2016](https://www.rbb24.de/politik/wahl/berlin/wahlprogramme/buergeraemter-verwaltung-wahlprogramme-berlin-abgeordnetenhaus-wahl.html), [2017](https://www.tagesspiegel.de/berlin/schlange-ade-es-gibt-wieder-termine-im-burgeramt-5915686.html), [2018](https://www.morgenpost.de/berlin/article213130353/Buergeramt-Berliner-sollen-Wunschtermin-einfacher-bekommen.html), [2019](https://www.tagesspiegel.de/berlin/innensenator-schlagt-alarm-wegen-situation-in-berliner-burgeramtern-6871780.html), [2020](https://www.morgenpost.de/berlin/article230804526/Terminnotstand-in-den-Berliner-Buergeraemtern.html), [2021](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html) and [2022](https://www.morgenpost.de/berlin/article233456999/buergeramt-berlin-termin-vorzugstermin-tipps-buergeraemter.html)
+[^26]: This was a problem in [2015](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html), [2016](https://www.rbb24.de/politik/wahl/berlin/wahlprogramme/buergeraemter-verwaltung-wahlprogramme-berlin-abgeordnetenhaus-wahl.html), [2017](https://www.tagesspiegel.de/berlin/schlange-ade-es-gibt-wieder-termine-im-burgeramt-5915686.html), [2018](https://www.morgenpost.de/berlin/article213130353/Buergeramt-Berliner-sollen-Wunschtermin-einfacher-bekommen.html), [2019](https://www.tagesspiegel.de/berlin/innensenator-schlagt-alarm-wegen-situation-in-berliner-burgeramtern-6871780.html), [2020](https://www.morgenpost.de/berlin/article230804526/Terminnotstand-in-den-Berliner-Buergeraemtern.html), [2021](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html), [2022](https://www.morgenpost.de/berlin/article233456999/buergeramt-berlin-termin-vorzugstermin-tipps-buergeraemter.html) and [2023](https://www.berliner-kurier.de/berlin/keine-online-termine-im-buergeramt-in-sicht-nur-in-diesem-bezirk-haben-sie-noch-chancen-li.308232)
