@@ -208,7 +208,7 @@
       },
       watch: {
         appointments(newAppointments, oldAppointments) {
-          if(oldAppointments.length && this.playSoundOnNewAppointments) {
+          if(newAppointments.length && this.playSoundOnNewAppointments) {
             ding.play();
           }
           this.updateWindowTitle();
