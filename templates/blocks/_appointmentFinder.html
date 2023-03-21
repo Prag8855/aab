@@ -47,6 +47,7 @@
     {% endraw %}
 </aside>
 {% include '/js/vue.js' %}
+{% include '/js/utils.js' %}
 {% js %}
   const ding = new Audio('/js/ding.wav');
   document.querySelectorAll(".appointment-finder").forEach((appointmentFinderWidget) => {
@@ -57,7 +58,7 @@
           isConnected: null,
           hasError: false,
           originalPageTitle: document.title,
-          playSoundOnNewAppointments: false,
+          playSoundOnNewAppointments: getDefaultBoolean('playSoundOnNewAppointments', false),
           reconnectInterval: null,
           socket: null,
           lastMessage: null,
@@ -217,6 +218,7 @@
           if(isChecked){
             ding.play();
           }
+          setDefaultBoolean('playSoundOnNewAppointments', isChecked);
         }
       }
     });
