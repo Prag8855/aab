@@ -38,7 +38,7 @@ If you can, book your appointment in advance. It helps you register your address
 
 If there are no appointments, check again every few minutes. New appointments appear during business hours. You don't need to look early in the morning.[^2]
 
-When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need it when you go to your appointment. If you lose this number, ask the [*Bürgeramt*](/glossary/B%C3%BCrgeramt) reception for it, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
+When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need it when you go to your appointment. If you lose this number, ask the *[[Bürgeramt]]* reception for it, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
 
 ### Step 2: Gather the required documents
 

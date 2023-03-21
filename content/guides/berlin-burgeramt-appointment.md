@@ -44,11 +44,9 @@ You can do multiple things in one appointment.
 
 ## Call 115
 
-Call [030 115](tel:+4930115). This is the *[[Bürgertelefon]]*. You can ask for a *Bürgeramt* appointment. This phone line is also available in some other German cities.
+Call [030 115](tel:+4930115). This is the *[[Bürgertelefon]]*. They can give you a *Bürgeramt* appointment, even when there are no appointments online.[^1]
 
 They only speak German. You must wait a few minutes to talk to someone.
-
-**You will not get an appointment faster with this phone number**. They have the same appointments as online.
 
 ## Go without an appointment
 
@@ -63,3 +61,4 @@ You do not need to go to the nearest *Bürgeramt*. You can go to any location in
 Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) offer this service.
 
 [^0]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
+[^1]: Confirmed by an employee who built the booking system (March 2023)

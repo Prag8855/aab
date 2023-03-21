@@ -42,7 +42,7 @@ To make things worse, a thousand Berliners miss their Bürgeramt appointment eve
 
 ### Hidden appointments
 
-The Bürgeramt does not make all appointments available online. They keep free appointments for people who email them or call 115. This means that many appointments are impossible to get through the official website.
+The Bürgeramt does not make all appointments available online. They keep free appointments for people who email them or call [115](/glossary/B%C3%BCrgertelefon). This means that many appointments are impossible to get through the official website.
 
 ### When will things change?
 
