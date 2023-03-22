@@ -4,12 +4,12 @@ German_term: Job seeker visa
 English_term: 
 Description: A visa that lets you come to Germany and look for a job.
 Date_created: 2018-08-28
-Related_guides: guides/berlin-auslanderbehorde-same-day-appointment.md, guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md, guides/residence-permit.md
+Related_guides: guides/residence-permit.md, guides/berlin-auslanderbehorde-same-day-appointment.md, guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md
 ---
 
 The job seeker visa is a type of [[National Visa]]. It allows you to come to Germany to find work. The job seeker visa can't be extended.[^0] It's valid for 6 to 18 months, depending on your situation.[^1] You must have a university degree or vocational training to apply for it.[^1]
 
-Once you have found a job, you can [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa), a [work visa](/guides/german-work-visa), or a [[Blue Card]].
+After you find a job, you can [apply for a work visa or a Blue Card](/guides/german-work-visa). If you are self-employed, you can [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa).
 
 **[Information about the job seeker visa](https://service.berlin.de/dienstleistung/324661/en/)** - Berlin.de
 

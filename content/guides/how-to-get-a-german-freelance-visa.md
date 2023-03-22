@@ -131,7 +131,7 @@ Come to Germany, and start preparing for your freelance visa application. If you
 
 **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can come to Germany without a visa. You can stay for 90 days before you need a residence permit.
 
-**If you are a citizen of any other country**, you might need a [Job Seeker Visa](/glossary/Job%20seeker%20visa) to enter Germany. The Job Seeker Visa allows you to come to Germany and look for a job.[^15] It's valid for up to 6 months. It does not allow you to work in Germany. After you find a job, you can apply for a residence permit in Germany. The job. You can't do this with a tourist visa. **If you enter Germany with a tourist visa, your work visa or Blue Card application will be rejected**.[^18]
+**If you are a citizen of any other country**, you might need a [Job Seeker Visa](/glossary/Job%20seeker%20visa) to enter Germany. The Job Seeker Visa allows you to come to Germany and look for a job.[^15] It's valid for up to 6 months. It does not allow you to work in Germany. After you find a job, you can apply for a residence permit in Germany. The job. You can't do this with a tourist visa. **If you enter Germany with a [tourist visa](/glossary/Schengen%20visa), your work visa or Blue Card application will be rejected**.[^18]
 
 If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment.
 

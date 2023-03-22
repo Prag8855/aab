@@ -5,7 +5,7 @@ Description: This guide shows you if you need a residence permit (Aufenthaltstit
 Date_created: 2022-06-23
 ---
 
-You might need a residence permit (*[Aufenthaltstitel](/glossary/Aufenthaltstitel)*) to live in Germany. This guide explains who needs a residence permit, and which residence permits there are.
+Some people need a residence permit (*[[Aufenthaltstitel]]*) to live and work in Germany. This guide explains how German residence permit works.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -94,7 +94,7 @@ You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home 
     - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
     - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  
-    If you apply in your country, you get a [[National Visa]]. As soon as you get the visa, you can move to Germany and start working or studying. When you arrive in Germany, you have 3 months to convert your National Visa to a residence permit. You do this at the *[[Ausländerbehörde]]*.
+    If you apply in your country, you get a [[National Visa]]. As soon as you get the visa, you can move to Germany and start working or studying. When you arrive in Germany, you must convert your National Visa to a residence at the *[[Ausländerbehörde]]*. You must do this before your visa expires (in 3 to 12 months).[^9]
 
 It's better if you apply in your home country. You can start working as soon as you arrive in Germany, instead of living in Germany without any income.
 
@@ -121,3 +121,4 @@ After a few years, you can apply for [permanent residence](/glossary/Niederlassu
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^8]: [Quora](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)
+[^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
