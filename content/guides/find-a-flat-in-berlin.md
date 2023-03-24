@@ -271,16 +271,16 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 
 ### Common apartment scams
 
+- **The landlord is in another country**  
+    This is a common scam.[^22] The landlord is not in Germany, but wants to mail the keys after you pay a [deposit](/glossary/Kaution). The apartment does not exist. They will steal your deposit money, and disappear.
 - **The lease is only for a few months**  
     Fixed-term leases are only valid in some situations.[^19] The lease must specify *why* it's fixed term, or the clause is invalid, and you can stay for as long as you want. This also applies to sublets, but not to student residences and vacation apartments. This is not always a scam; many landlords just don't know the law.
-- **The lease says the apartment is furnished, but it's not true**  
+- **The apartment should be furnished, but it's not**  
     Rents are limited by the *[[Mietpreisbremse]]*, but that does not apply to furnished apartments. Landlords pretend that the apartment is furnished to charge more rent. [Conny](/out/conny-mietpreisbremse) can help you reduce your rent.
-- **The previous tenant wants to sell his furniture or his kitchen**  
+- **The previous tenant forces you to buy their furniture**  
     Sometimes, the previous tenant (*Vormieter*) wants to sell all their furniture or kitchen to you.[^20] If you don't take the furniture, you don't get the apartment. They often charge too much, because they know that someone will buy it to get the apartment. Overcharging for furniture is illegal.[^43]
 - **You must pay a bribe**  
     The previous tenant or the landlord asks for a bribe to give you the apartment.[^21] This is illegal, but they know that someone will pay it.
-- **The landlord is in another country**  
-    This is a common scam.[^22] The landlord is not in Germany, but wants to mail the keys after you pay a [deposit](/glossary/Kaution). The apartment does not exist. They will steal your deposit money, and disappear.
 - **Agent fees**  
     You never pay an agent fee ([*Maklergebühr*](/glossary/Provision) or *[[Provision]]*), unless *you* hired the agent.[^23] Furnished apartments often have a booking fee.[^24]
 - **Identity theft**  
@@ -292,6 +292,8 @@ Here are a few tricks to avoid scams:
     Don't send any money before you see the apartment in person and sign the lease.[^26] You have [until the day you move in](/guides/mietkaution#when-do-i-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#pay-in-instalments). You never have to pay a fee to see an apartment, or to apply for it.[^42]
 - **Wait before you send documents**  
     Don't send your pay slips, your *[[Steuerbescheid]]* or a copy of your passport before you see the apartment. You don't need to share these documents to visit an apartment, only to apply for it. You should censor the parts of the documents that they don't need to see.
+- **See the apartment in person**  
+    A scammer could show you any apartment in a video call. Even in person, they can show you an apartment that they rented for a few days.
 - **Only pay by bank transfer**  
     In Germany, people pay their rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Never send money by Western Union or other payment services.[^27] If you pay with cash, ask for a receipt. Use [Wise](/out/transferwise) to transfer money from another country. You have until the day you [move in](/guides/moving-in) to pay the rent and the deposit, so you can also come to Germany, [open a bank account](/guides/german-banks-no-address), then pay your rent.
 - **Use common sense**  
