@@ -38,7 +38,7 @@
           <span class="label"></span>
           <div class="input-group">
             <label class="checkbox">
-              <input type="checkbox"> I earn more than {% endraw %}{{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}{% raw %}€ per year
+              <input type="checkbox" v-model="incomeOverLimit"> I earn more than {% endraw %}{{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME | currency }}{% raw %}€ per year
             </label>
           </div>
         </div>
