@@ -5,11 +5,11 @@ Description: My opinion of N26 bank after 5 years. Is N26 safe? Is it good? Shou
 Date_created: 2017-09-02
 ---
 
-In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) because they charge fees for everything. 6€ for using another bank's ATM, 40€ a year for a basic credit card, 7€ a month for an account etc.
+In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) because they charge fees for everything.
 
-**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I can get money from the sketchiest ATMs in Berlin, and I do not pay any fees. This is not common in Germany.
+**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. This is not common in Germany.
 
-I am an N26 customer since 2016. N26 has improved a lot since then, so I had to rewrite this review twice. This is my experience as an N26 customer in 2023.
+I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in 2023.
 
 *This article was not suggested, written or approved by N26. I have done independent research, and these opinions are my own.*
 
