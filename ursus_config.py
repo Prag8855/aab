@@ -144,6 +144,10 @@ config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
 )
 
+config.linters += (
+    'extensions.linters.places.PlaceLinter',
+)
+
 config.minify_js = True
 config.minify_css = True
 
@@ -156,10 +160,13 @@ config.jinja_filters = {
     'cur': to_currency,
 }
 
+config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM' # Backend use only
+
 config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
     'random_id': random_id,
+    'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E', # Frontend use
 
     # ==============================================================================
     # HEALTH INSURANCE
