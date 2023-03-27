@@ -1,9 +1,9 @@
 ---
 Name: Dr. Babette Gekeler
-Description: Psychotherapist. Speaks English and German.
+Description: Psychotherapist. Speaks English and German. Accepts public health insurance.
 Website: https://www.babettegekeler.com/
-Email: 
-Address: Gierkepl. 8
+Email: getintouch@babettegekeler.com
+Address: Kurfürstendamm 173
 Latitude: 52.517486
 Longitude: 13.303301
 ---

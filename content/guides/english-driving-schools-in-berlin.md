@@ -3,8 +3,7 @@ Title: List of English-speaking driving schools in Berlin
 Short_title: English-speaking driving schools
 Description: A guide to find an English-speaking driving school for your car or motorcycle driving license.
 Date_created: 2017-08-31
-Date_updated: 2022-07-14
-Related_places: places/fahrschule-einszweidrive.md, places/kiezfahrschule-frenzel.md, places/fahrschule-südstern.md, places/fahrschule-oscar.md, places/fahrschule-asma.md, places/fahrschule-asphalt-profis.md, places/fahrschule-ibf.md, places/fahrschule-glowalla.md, places/sevim-fahrschule.md, places/fahrschule-aktiv.md, places/2drive-fahrschule.md, places/driving-school-on-fennpfuhl-lichtenberg.md
+Related_places: places/fahrschule-einszweidrive.md, places/kiezfahrschule-frenzel.md, places/fahrschule-südstern.md, places/fahrschule-oscar.md, places/fahrschule-asma.md, places/fahrschule-asphalt-profis.md, places/fahrschule-ibf.md, places/fahrschule-glowalla.md, places/sevim-fahrschule.md, places/fahrschule-aktiv.md, places/2drive-fahrschule.md, places/driving-school-on-fennpfuhl-lichtenberg.md, places/fahrschule-dynamic.md, places/fahrschule-next-in-berlin.md, places/fahrschule-performance.md
 ---
 
 If you want a German driving license, you must take driving lessons. You need 14 hours of theory and 12 hours of driving. Next, you must take a theoretical driving exam and a practical driving exam.
