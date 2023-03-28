@@ -278,11 +278,11 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 - **The apartment should be furnished, but it's not**  
     Rents are limited by the *[[Mietpreisbremse]]*, but that does not apply to furnished apartments. Landlords pretend that the apartment is furnished to charge more rent. [Conny](/out/conny-mietpreisbremse) can help you reduce your rent.
 - **The previous tenant forces you to buy their furniture**  
-    Sometimes, the previous tenant (*Vormieter*) wants to sell all their furniture or kitchen to you.[^20] If you don't take the furniture, you don't get the apartment. They often charge too much, because they know that someone will buy it to get the apartment. Overcharging for furniture is illegal.[^43]
+    Sometimes, the previous tenant (*Vormieter*) wants to sell all their furniture or kitchen to you.[^20] If you don't take the furniture, you don't get the apartment. They often charge too much, because they know that someone will buy it to get the apartment. Overcharging for furniture is illegal.[^43] If you paid too much for furniture, you can get your money back.[^46] [Get legal help.](/guides/questions-about-berlin#apartment-questions)
 - **You must pay a bribe**  
-    The previous tenant or the landlord asks for a bribe to give you the apartment.[^21] This is illegal, but they know that someone will pay it.
+    The landlord or the previous tenant can't ask for a finder's fee, a bribe or a *[[Provision]]* to get the apartment.[^45] If you paid a bribe to get your apartment, you can get your money back, and still keep the apartment.[^21] [Get legal help.](/guides/questions-about-berlin#apartment-questions)
 - **Agent fees**  
-    You never pay an agent fee ([*Maklergebühr*](/glossary/Provision) or *[[Provision]]*), unless *you* hired the agent.[^23] Furnished apartments often have a booking fee.[^24]
+    You never pay an agent fee (*[Maklergebühr](/glossary/Provision)** or *[[Provision]]*), unless *you* hired the agent.[^23] Temporary apartments might have a booking fee.[^24] If you did not hire the agent and still paid a *[[Provision]]*, you can get your money back, and still keep the apartment.[^21] [Get legal help.](/guides/questions-about-berlin#apartment-questions)
 - **Identity theft**  
     The scammer creates fake apartment listings. When you apply for the apartment, you must send many documents, like a passport and a bank account statement. They use those documents you send to steal your identity.[^25]
 
@@ -434,10 +434,9 @@ These guides explain how:
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
-[^20]: [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)
-[^21]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/rd4sxv/are_bribes_for_apartments_now_a_thing/)
+[^20]: [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)[^21]
 [^22]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/6t1hwf/spotting_craigslistwggesucht_scams_a_guide/), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
-[^23]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm), [expatica.com](http://web.archive.org/web/20181214171031/https://www.expatica.com/de/housing/rent-in-germany_103803.html)
+[^23]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm), [expatica.com](http://web.archive.org/web/20181214171031/https://www.expatica.com/de/housing/rent-in-germany_103803.html)
 [^24]: [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^25]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
 [^26]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
@@ -457,5 +456,8 @@ These guides explain how:
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
 [^42]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/)
-[^43]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html)
+[^43]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
+[^45]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
+[^21]: [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
+[^46]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
