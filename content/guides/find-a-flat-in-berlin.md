@@ -53,84 +53,90 @@ You must do this before you apply for apartments:
 - **The [TV tax](/guides/gez-rundfunkbeitrag)**  
     Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
 
-## Your options
+## Your housing options
 
 ### Regular apartment
 
-Regular apartments come unfurnished. You must buy your own fridge, washing machine, light fixtures, curtains and cookware. In Berlin, apartments must come with a stove and a sink.[^3]
+Regular apartments come without furniture, appliances, light fixtures, curtains or cookware. They are empty. In Berlin, apartments must come with a stove and a sink.[^3] You must buy everything else yourself. You must also get an internet connection and find an electricity company.
 
-You need more time to find a regular apartment, because there is more competition for them. You also need more time to move in, buy everything, get an internet connection, and get an electricity contract. It's a long-term investment.
+Regular apartments are a good **long-term solution**, because they are cheaper. There is a lot of competition for those apartments, so they are hard to find.
 
 A regular apartment is cheaper in the long term. Your rent is lower, because you don't rent the furniture with it.
 
 **[Look for regular apartments ↓](#step-1-look-for-apartments)**
 
-### Short-term apartment
+### Short-term, furnished apartment
 
-Short-term apartments are very expensive, but they have benefits:
+Short-term apartments are very expensive, but they come with everything you need. They are a good **short-term solution** when you [move to Berlin](/guides/moving-to-berlin).
 
-- **Everything included**  
-    These are furnished apartments. They come with everything you need. You don't need to get an internet contract, an electricity contract, furniture, appliances or cookware. You can just move in, and focus on other problems.
+Short-term apartments have many benefits:
+
+- **Fully furnished**  
+    They come with everything you need: furniture, appliances and cookware. You don't need to get an internet contract, an electricity contract, furniture, appliances or cookware. 
+- **Internet and utilities included**  
+    The internet and utilities are already connected. You can just move in, and focus on other problems.
 - **Immigrant-friendly**  
     You can book an apartment before you arrive in Germany. They don't ask for documents that immigrants don't have, like a *[[Schufa]]*.
 - **Less competition**  
-    These apartments are too expensive for most people, so there is less competition for them. They are a little easier to find.
+    These apartments are overpriced, and too expensive for most people. There is less competition for them, so they are a little easier to find.
 
-Furnished apartments are a good temporary solution while you look for a regular apartment. They are too expensive to live in permanently.
-
-Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer).[^5]
+Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer) (included in the price).[^5]
 
 **[Look for short-term apartments ↓](#short-term-and-furnished-apartments)**
 
 ### Flat share ([[WG]])
 
-Sharing an apartment with other people is cheaper and easier:
+Sharing an apartment with other people is cheaper and easier. They are a **budget-friendly solution**.
+
+Shared apartments have many benefits:
 
 - **Shared costs**  
     You can split the cost of rent, internet, electricity, [TV tax](/glossary/Rundfunkbeitrag) and other bills. You save a lot of money.
 - **Lower deposit**  
-    Your [deposit](/glossary/Kaution) can't be more than 3 times your [cold rent](/glossary/Kaltmiete). Your part of the rent is lower, so your part of the deposit is also lower.
+    Your part of the rent is lower, so your part of the [deposit](/glossary/Kaution) is also lower. If you don't have a lot of savings, a [[WG]] could be your only option.
 - **Many things included**  
-    Your roommates might already have most of the things you need. You don't need to get an internet contract or an electricity contract.
+    Your roommates might already have most of the furniture and cookware you need. You don't need to buy everything yourself. The internet and utilities are already connected.
 
-Finding a [[WG]] is a little easier, but still very hard.[^6]
+Finding a [[WG]] is a little easier than finding a full apartment, but still very hard.[^6]
 
-Usually, you must pass an interview with your roommates. Most WG interviews are like a personality test, but interviews for a *[[Zweck-WG]]* are more formal.
+Usually, you must meet your roommates for an interview. Most WG interviews are like a personality test or culture fit test. Interviews for a *[[Zweck-WG]]* are more formal.
 
 **[Look for flat shares ↓](#wgs-flat-shares-and-roommates)**
 
 ### Student housing
 
-Student dorms are one of the cheapest options, but they are hard to get. Student housing has long waiting lists.
+Student dorms are the **cheapest option for students**, but they are hard to get. Student housing has long waiting lists.
+
+There is also luxury student housing. It's very expensive, but it comes with everything you need.
 
 **[Look for student housing ↓](#dorms-and-student-housing)**
 
 ### Buying an apartment
 
-If you just moved to Berlin, don't buy an apartment. It's harder than finding an apartment to rent. It's really hard to get a mortgage without a steady job, and EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).
+If you just moved to Berlin, **don't buy an apartment**. Buying is even harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage.
 
 ## Step 1: Look for apartments
 
 ### Ask your network
 
-Ask the people you know: friends, colleagues, classmates... Many people find an apartment this way.
+Ask the people you know: friends, colleagues, classmates... Many people find an apartment this way. It's easier to get the apartment if you are recommended by someone.
 
 **If you already live in Berlin**, ask your *[[Hausverwaltung]]* if they have other apartments to rent. They prefer to rent to someone they trust. They can put you on a waiting list, and show you unlisted apartments.
 
-**If you are in university**, your university has help clinics for new students, and boards where they put apartment listings.[^7]
+**If you are in university**, go to help clinics for new students. There are also boards where they list apartments for rent.[^7]
 
 ### Classified ads
 
-- [**eBay Kleinanzeigen**](https://www.ebay-kleinanzeigen.de:443/) - Biggest classified ads site. You can set search alerts.
-- [**ImmobilienScout24**](https://www.immobilienscout24.de/) - Biggest apartment listing site.
-- [**Immowelt**](https://www.immowelt.de/)
+- **[ImmobilienScout24](https://www.immobilienscout24.de/)** - Biggest apartment listing site
+- **[eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de:443/)** - Biggest classified ads site
+- **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
 - [Wohnungsbörse](https://www.wohnungsboerse.net/)
 
 ### Short-term and furnished apartments
 
-- **[HomeLike](/out/homelike)** - Shows when you can get a [registration certificate](/glossary/Wohnungsgeberbest%C3%A4tigung) for your *[[Anmeldung]]*.
+- **[HomeLike](/out/homelike)** - Shows when the *[[Anmeldung]]* is possible.
 - **[HousingAnywhere](/out/housinganywhere)** - Shows when the *[[Anmeldung]]* is possible.
 - **[Wunderflats](/out/wunderflats)** - Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
 - **[Spotahome](/out/spotahome)** - Listings have video tours and lots of photos.
