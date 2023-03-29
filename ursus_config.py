@@ -145,7 +145,7 @@ config.renderers += (
 )
 
 config.linters += (
-    'extensions.linters.places.PlaceLinter',
+    'extensions.linters.places.PlacesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     'extensions.linters.entry_links.EntryLinksLinter',
 )
