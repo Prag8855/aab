@@ -146,6 +146,7 @@ config.renderers += (
 
 config.linters += (
     'extensions.linters.places.PlaceLinter',
+    'extensions.linters.wikilinks.WikilinksLinter',
 )
 
 config.minify_js = True
