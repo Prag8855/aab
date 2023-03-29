@@ -60,7 +60,7 @@ If you have a tax ID, but you don't have a registered address, you can still reg
 
 You need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how you pay your taxes. You a bank account before you fill this form.
 
-**[How to start a business](/guides/start-a-business-in-germany#step-5-are-you-a-freiberufler-or-a-gewerbe) ➞ [Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**
+**[How to start a business](/guides/start-a-business-in-germany#step-4-freiberufler-or-gewerbe) ➞ [Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**
 
 ### Create an ELSTER account
 
@@ -595,7 +595,7 @@ If you have questions about this form, [ask a tax advisor](/guides/english-speak
 
 If you are [starting a business in Germany](/guides/start-a-business-in-germany), you should find a [tax advisor](/guides/english-speaking-steuerberater-berlin). It's easier to run a business with a good tax advisor. You can also use tax software like [Sorted](/out/sorted-taxes) or [Lexoffice](/out/lexoffice) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier.
 
-You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-tell-your-health-insurance-company) that you are self-employed. When you are self-employed, you pay for health insurance with automatic bank transfers. The cost of public health insurance will be based on your *estimated* income. You can also [switch to private health insurance](/guides/german-health-insurance). This is not a simple decision, but in some cases, private health insurance is a lot cheaper for freelancers. I save over 400€ per month this way. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it.
+You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-tell-your-health-insurer) that you are self-employed. When you are self-employed, you pay for health insurance with automatic bank transfers. The cost of public health insurance will be based on your *estimated* income. You can also [switch to private health insurance](/guides/german-health-insurance). This is not a simple decision, but in some cases, private health insurance is a lot cheaper for freelancers. I save over 400€ per month this way. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it.
 
 **Related guides:**
 

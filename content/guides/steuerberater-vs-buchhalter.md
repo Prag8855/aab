@@ -36,7 +36,7 @@ Bookkeepers can't submit your tax declarations or financial statements. They can
 
 ## Need help?
 
-**[Where to find help ➞ Financial questions](/guides/questions-about-berlin#financial-and-legal-questions)**
+**[Where to find help ➞ Financial questions](/guides/questions-about-berlin#financial-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/Steuerberater#Conditions_to_sit_in)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Steuerberater#Exam_process)

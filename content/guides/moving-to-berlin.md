@@ -114,7 +114,7 @@ In Germany, you must register your address. This is how you get a [registration 
 
 After you get your [residence permit](/glossary/Aufenthaltstitel), you can start working. During your first month, your employer will ask for a few things like your tax ID, health insurance number and pension insurance number.
 
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#when-you-start-working)**
+**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
 During your first 6 months, you are in your [probation period](/glossary/Probezeit). During that time, it's easier to lose your job.
 
@@ -140,7 +140,7 @@ Learn how to use public transit in Berlin. You should also get a bicycle. Berlin
 
 **[How to buy a bicycle ➞](/guides/bicycle-in-berlin)**
 
-You don't need to [buy a car](/guides/buying-used-car-in-germany) in Berlin. They are [expensive](/guides/car-cost-of-ownership-germany), and [not that useful](/guides/buying-used-car-in-germany#do-you-need-a-car-in-berlin). I have a car, and I still prefer to use my bicycle or public transit.
+You don't need to [buy a car](/guides/buying-used-car-in-germany) in Berlin. They are [expensive](/guides/car-cost-of-ownership-germany), and [not that useful](/guides/buying-used-car-in-germany#do-you-need-a-car). I have a car, and I still prefer to use my bicycle or public transit.
 
 If you have a driving licence from a non-EU country, it's only valid for 6 months after you move to Germany. If you have a driving licence from another EU or EEA country, it's valid until it expires.[^3] You can usually [exchange your foreign driving licence for a German one](/guides/canadian-german-driving-license). If you don't have a driving licence, you can [take driving lessons](/guides/english-driving-schools-in-berlin).
 

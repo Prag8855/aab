@@ -141,7 +141,7 @@ You must [get an appointment at the *Ausländerbehörde*](/guides/berlin-ausland
 
 {% include "blocks/appointmentLink/_applyResidencePermit.html" %}
 
-You can also [go without an appointment](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-go-without-an-appointment), or [send the documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+You can also [send the documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
 
 **[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-same-day-appointment)**
 

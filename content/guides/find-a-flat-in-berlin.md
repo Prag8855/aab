@@ -267,7 +267,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 - **Public transportation**  
     Berlin has good public transportation. You can live far from the centre if you live close to a train or tram station. Use [Mapnificient](https://www.mapnificent.net/berlin/) to see how far you are from work.
 - **Parking**  
-    [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car-in-berlin). If you want a car, check if there is enough parking space nearby. In central neighbourhoods, parking spaces are harder to find, and you need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have a basement garage. Basement parking costs around 120€ per month. Single garages are harder to find. You can [park your motorcycle on the sidewalk](/guides/motorcycle-parking).
+    [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car). If you want a car, check if there is enough parking space nearby. In central neighbourhoods, parking spaces are harder to find, and you need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have a basement garage. Basement parking costs around 120€ per month. Single garages are harder to find. You can [park your motorcycle on the sidewalk](/guides/motorcycle-parking).
 - **Parks and nature**  
     Berlin is one of the greenest cities in Europe.[^18] There are many parks and green spaces, even in the centre. To be closer to nature, live near [[Brandenburg]] or [Grunewald](https://goo.gl/maps/7bo9CKBKtQ8ysHB46).
 
@@ -295,7 +295,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 Here are a few tricks to avoid scams:
 
 - **Wait before you pay**  
-    Don't send any money before you see the apartment in person and sign the lease.[^26] You have [until the day you move in](/guides/mietkaution#when-do-i-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#pay-in-instalments). You never have to pay a fee to see an apartment, or to apply for it.[^42]
+    Don't send any money before you see the apartment in person and sign the lease.[^26] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#pay-in-instalments). You never have to pay a fee to see an apartment, or to apply for it.[^42]
 - **Wait before you send documents**  
     Don't send your pay slips, your *[[Steuerbescheid]]* or a copy of your passport before you see the apartment. You don't need to share these documents to visit an apartment, only to apply for it. You should censor the parts of the documents that they don't need to see.
 - **See the apartment in person**  

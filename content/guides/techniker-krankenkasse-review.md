@@ -130,7 +130,7 @@ In 2021, I switched to private health insurance. I was still very happy with TK,
 
 **Generally, yes.** TK is usually forced to cover you. There are two big exceptions: freelancers who just moved to Germany, and students over 30 years old who just moved to Germany. In this case, public health insurers can refuse to cover you, and it can be hard to find health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers), and they will help you for free.
 
-**Related guide:** [What options do I have? (How to choose health insurance)](/guides/german-health-insurance#what-options-do-i-have)
+**Related guide:** [What options do I have? (How to choose health insurance)](/guides/german-health-insurance#your-options)
 
 ## How to sign up with TK
 

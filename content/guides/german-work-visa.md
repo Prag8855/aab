@@ -291,7 +291,7 @@ If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply fo
 
 ### Step 12: Start working in Germany
 
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#when-you-start-working)**
+**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
 ## How to apply in your country
 
@@ -329,7 +329,7 @@ You can start working as soon as you arrive in Germany. You will need to [find a
 
 ### Step 5: Start working in Germany
 
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#when-you-start-working)**
+**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
 ### Step 6: Convert your temporary visa to a [residence permit](/glossary/Aufenthaltstitel)
 
@@ -424,7 +424,7 @@ leave for a longer period without a special permission, your residence permit be
 
 ### Can I start my own business?
 
-**Sometimes**. If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you are allowed to freelance. You must keep your job. Freelancing can't be your main occupation.[^57] If you want to freelance as your main occupation, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-visa-to-freelance-in-germany). You must still [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need permission from your employer.
+**Sometimes**. If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you are allowed to freelance. You must keep your job. Freelancing can't be your main occupation.[^57] If you want to freelance as your main occupation, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa). You must still [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need permission from your employer.
 
 ## Need help?
 
@@ -487,7 +487,7 @@ leave for a longer period without a special permission, your residence permit be
 [^54]: [Quora](https://www.quora.com/How-do-I-apply-for-a-German-work-visa-when-Im-already-in-Germany)
 [^55]: [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa)
 [^56]: [Bundesamt für Migration und Flüchtlinge](http://www.bamf.de/DE/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
-[^57]: [allaboutberlin.com](/guides/how-to-get-a-german-freelance-visa#who-needs-a-visa-to-freelance-in-germany)
+[^57]: [allaboutberlin.com](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa)
 [^58]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [berlin.de](https://service.berlin.de/dienstleistung/305304/)
 [^59]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 [^60]: [§18a, §18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/quick-check)

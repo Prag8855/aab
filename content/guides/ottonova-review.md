@@ -28,7 +28,7 @@ This review is fair and honest. I have talked with 3 health insurance brokers, a
 
 [Ottonova](/out/ottonova) sells [private health insurance](/glossary/private%20Krankenversicherung).
 
-Before you choose health insurance, you must understand [how German health insurance works](/guides/german-health-insurance). Private health insurance is not always the best choice, even when it's cheaper. [In some cases](/guides/german-health-insurance#what-options-do-i-have), you can't even have private health insurance.
+Before you choose health insurance, you must understand [how German health insurance works](/guides/german-health-insurance). Private health insurance is not always the best choice, even when it's cheaper. [In some cases](/guides/german-health-insurance#your-options), you can't even have private health insurance.
 
 You should ask a health insurance broker before you choose health insurance. They can help you find better, cheaper health insurance. Their help is free.
 

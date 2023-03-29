@@ -73,7 +73,7 @@ You might be paying too much rent. The *[[Mietpreisbremse]]* limits how much you
 
 [Conny](/out/conny-mietpreisbremse) is a company that helps people reduce their rent. [My review of Conny](/guides/wenigermiete-review) explains how it works. Your [tenant's association](/glossary/Mieterverein) can also help you with this.
 
-**[How to check if your rent is too high ➞](/guides/moving-in#check-if-your-rent-is-too-high)**
+**[How to check if your rent is too high ➞](/guides/moving-in#lower-your-rent)**
 
 ## Choose a bank with low fees
 

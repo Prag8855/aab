@@ -31,7 +31,7 @@ Use [Kayak](https://www.kayak.de/?ispredir=true), [Omio](/out/omio), [Rome2Rio](
 There are 3 ways to get from the BER airport to the city:
 
 - **Use [public transport](/guides/public-transit)**  
-    You can take a train from BER airport to Berlin, even at night. There are trains every few minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) to find directions. The train ride takes 30 to 45 minutes. Buy an [ABC ticket](/guides/public-transit#tariff-zones) at the ticket machines on the train platform. It costs {{BVG_ABC_TICKET|cur}}€.[^2] [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. For more information, read the [Berlin public transit guide](/guides/public-transit).
+    You can take a train from BER airport to Berlin, even at night. There are trains every few minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) to find directions. The train ride takes 30 to 45 minutes. Buy an [ABC ticket](/guides/public-transit#choose-the-right-tariff-zone) at the ticket machines on the train platform. It costs {{BVG_ABC_TICKET|cur}}€.[^2] [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. For more information, read the [Berlin public transit guide](/guides/public-transit).
 - **Take a taxi**  
     There are taxis waiting outside the BER airport. A taxi from the airport to the city centre costs around 50€.[^3] It's a bit faster than public transport, but it's very expensive. [Uber](https://www.uber.com/global/en/airports/ber/) and [FreeNow](https://www.free-now.com/de/flughafen) also give rides from the airport to the city. German taxis must accept cash and credit cards.[^4]
 - **Rent a car**  
@@ -41,7 +41,7 @@ There are 3 ways to get from the BER airport to the city:
 
 Intercity buses are usually cheaper than planes and trains. They are not very comfortable, but they are cheap. Most buses have free Wi-Fi and power outlets under the seats. The Wi-Fi is not very reliable.
 
-Most buses arrive at [BER airport](https://goo.gl/maps/xwWrEedtNxMBxeX96), [Zentraler Omnibusbahnhof](https://goo.gl/maps/m5e93UyQamw4YvDY6) (ZOB) or [Alexanderplatz](https://goo.gl/maps/Mg5nKPhJzAS7fLNdA). BER airport is around 45 minutes from the centre. ZOB is 25 minutes from the centre. Alexanderplatz is in the city centre. If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#tariff-zones) to get to Berlin.
+Most buses arrive at [BER airport](https://goo.gl/maps/xwWrEedtNxMBxeX96), [Zentraler Omnibusbahnhof](https://goo.gl/maps/m5e93UyQamw4YvDY6) (ZOB) or [Alexanderplatz](https://goo.gl/maps/Mg5nKPhJzAS7fLNdA). BER airport is around 45 minutes from the centre. ZOB is 25 minutes from the centre. Alexanderplatz is in the city centre. If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#choose-the-right-tariff-zone) to get to Berlin.
 
 Use [Rome2Rio](https://www.rome2rio.com/) or [Omio](/out/omio) to find a bus to Berlin. If you buy your ticket in advance, it's cheaper.
 
@@ -77,7 +77,7 @@ The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin
 
 ### How to use public transit in Berlin
 
-Berlin has very good public transit. It's the best way to get around, even when you have a car. Just make sure you [buy the right ticket](/guides/public-transit#tariff-zones) and [validate it](/guides/public-transit#step-2-validate-your-ticket). If you are caught with the wrong ticket, you will get a [{{BVG_FINE|cur}}€ fine](/guides/paying-a-bvg-fine).
+Berlin has very good public transit. It's the best way to get around, even when you have a car. Just make sure you [buy the right ticket](/guides/public-transit#choose-the-right-tariff-zone) and [validate it](/guides/public-transit#step-2-validate-your-ticket). If you are caught with the wrong ticket, you will get a [{{BVG_FINE|cur}}€ fine](/guides/paying-a-bvg-fine).
 
 You can buy a 24 hour, 7 day or 1 month ticket. It's cheaper than buying a ticket every time. There's also the [WelcomeCard](https://www.berlin-welcomecard.de/en), a ticket that gives you rebates on museums and attractions.
 
@@ -165,7 +165,7 @@ Guided tours are a great way to discover Berlin. Use [GetYourGuide](https://www.
 
 ### Outside of Berlin
 
-If you have a bit more time, [**Potsdam**](https://en.wikivoyage.org/wiki/Potsdam) and **[Wannsee](https://www.google.com/maps/place/Wannsee,+Berlin/@52.4197082,13.1025382,13z/)** are worth a visit. You can get there by train. Potsdam is in [zone C](/guides/public-transit#tariff-zones), so you need an ABC ticket.
+If you have a bit more time, [**Potsdam**](https://en.wikivoyage.org/wiki/Potsdam) and **[Wannsee](https://www.google.com/maps/place/Wannsee,+Berlin/@52.4197082,13.1025382,13z/)** are worth a visit. You can get there by train. Potsdam is in [zone C](/guides/public-transit#choose-the-right-tariff-zone), so you need an ABC ticket.
 
 ### Clubs in Berlin
 

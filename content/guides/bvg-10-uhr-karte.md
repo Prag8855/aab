@@ -11,7 +11,7 @@ The 10-Uhr-Karte is a monthly public transit ticket in Berlin. It's 26% cheaper 
 
 The 10-Uhr-Karte is valid on all buses, trams and trains in Berlin, just like other public transit tickets. You can buy a 10-Uhr-Karte for zones A and B, or for zones A, B and C.
 
-**[Public transit in Berlin ➞ Tariff zones](/guides/public-transit#tariff-zones)**
+**[Public transit in Berlin ➞ Tariff zones](/guides/public-transit#choose-the-right-tariff-zone)**
 
 ## When can I use the 10-Uhr-Karte?
 
@@ -29,7 +29,7 @@ From **10AM to 3AM on weekdays**, and at any time during the weekend or public h
 
 ## Where can I buy the 10-Uhr-Karte?
 
-**[Public transit in Berlin ➞ Where to buy tickets](/guides/public-transit#buy-your-ticket)**
+**[Where to buy public transit tickets in Berlin ➞](/guides/public-transit#step-1-buy-a-ticket)**
 
 ## Useful links
 

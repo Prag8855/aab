@@ -29,9 +29,9 @@ When you are a KSK member, they pay half of your [health insurance](/glossary/ge
 - **It lets you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Some freelancers are stuck with [private health insurance](/glossary/private%20Krankenversicherung), or bad [expat health insurance](/glossary/Expat%20health%20insurance). When you join the KSK, you can switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's often the best option for you.
 - **It helps you get [permanent residence](/glossary/Niederlassungserlaubnis)**  
-    Before you apply for [permanent residence](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months.
+    Before you apply for [permanent residence](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months. The KSK makes public pension insurance more affordable for freelancers.
 - **It's usually free**  
-    If you earn less than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-money-do-i-save) - up to 175€ per month - but it's still a really good deal.
+    If you earn less than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to 175€ per month - but it's still a really good deal.
 
 ### Disadvantages
 
@@ -249,7 +249,7 @@ The application form is in German. The instructions are at the end of the form. 
 
 Collect the [required documents](/guides/ksk-kuenstlersozialkasse#required-documents). This takes a few hours.
 
-These documents must prove that you meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#kunstlersozialkasse-requirements). If you prepare well, your application will go faster.
+These documents must prove that you meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#what-are-the-ksk-requirements). If you prepare well, your application will go faster.
 
 You can [hire an expert](/guides/ksk-kuenstlersozialkasse#need-help) to review your documents. They can improve your chances of getting accepted.
 
@@ -284,7 +284,7 @@ You have around 4 weeks to answer before they delete your application. Most KSK 
 
 ## Required documents
 
-You don't need to include *every* document in this list. You must only prove that you meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#kunstlersozialkasse-requirements). You must help a stranger understand what you do, how you earn money, and why you are eligible for the KSK.
+You don't need to include *every* document in this list. You must only prove that you meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#what-are-the-ksk-requirements). You must help a stranger understand what you do, how you earn money, and why you are eligible for the KSK.
 
 ### Application documents
 
@@ -397,7 +397,7 @@ If your predicted income is wrong, it's okay.
 
 Every year, the KSK verifies 5% of its members. They choose at random. If they verify you, you have 4 weeks to send them your [tax declarations](/glossary/Steuerbescheid) of the last 4 years.[^39] They will check two things:
 
-1. you still meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#kunstlersozialkasse-requirements)
+1. you still meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#what-are-the-ksk-requirements)
 2. you did not lie about your predicted income
 
 ### When you leave Germany

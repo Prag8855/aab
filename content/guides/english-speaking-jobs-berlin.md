@@ -19,7 +19,7 @@ If you want more information about the German job market, work culture, resumes 
 
 **Tech companies and startups** often have English-speaking offices. Hundreds of tech businesses hire English speakers in Berlin. If you are a software developer, it's very easy to find an English-speaking job in Berlin. Most software developers in Berlin work in English. These companies often have customer service jobs too.
 
-**[How to find a tech job in Berlin ➞](/guides/find-a-job-in-berlin#tech-jobs-in-berlin)**
+**[How to find a tech job in Berlin ➞](/guides/find-a-job-in-berlin#tech-jobs)**
 
 ### Tourism
 

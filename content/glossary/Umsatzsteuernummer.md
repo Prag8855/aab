@@ -12,4 +12,4 @@ The VAT number (*Umsatzsteuernummer*, *Umsatzsteuer-Identifikationsnummer* or *U
 
 You can request a VAT number when you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You can also [request a VAT number here](https://www.formulare-bfinv.de/ffw/action/invoke.do?id=ustid).
 
-**[How to get a VAT number ➞](/guides/german-tax-id-steuernummer#the-vat-number)**
+**[How to get a VAT number ➞](/guides/german-tax-id-steuernummer#the-vat-number-umsatzsteuer-id)**

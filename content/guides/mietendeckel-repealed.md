@@ -35,7 +35,7 @@ If you signed a lease after June 19 2020, or if your rent was reduced because of
 
 - **If you signed a lease before June 19, 2019**
     - **...and your rent was reduced by the Mietendeckel**  
-        You might have to give the money back. It's complicated.[^5] It depends on how your lease is phrased.[^5] You should [get legal help](/guides/mietendeckel-repealed#where-can-i-get-help). In the meantime, talk with your landlord, and [give the money back with reservations](/guides/mietendeckel-repealed#give-the-money-back).
+        You might have to give the money back. It's complicated.[^5] It depends on how your lease is phrased.[^5] You should [get legal help](/guides/mietendeckel-repealed#where-can-i-get-help). In the meantime, talk with your landlord, and [give the money back with reservations](/guides/mietendeckel-repealed#give-the-money-back-with-reservations).
     - **...and your rent was not reduced**  
         You do not need to pay anything. Your rent will not go up. Nothing changes.
 - **If you signed a lease after June 19, 2019**

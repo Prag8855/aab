@@ -12,4 +12,4 @@ In Germany, the *Bildungsurlaub* is a paid education leave. It lets you leave wo
 
 Educational leave is a right. Your employer must allow it, unless it conflicts with the business operations, or if over 50% of the employees already took their *Bildungsurlaub*.
 
-**[More information ➞](/guides/learn-german#educational-leave)**
+**[More information ➞](/guides/learn-german#educational-leave-bildungsurlaub)**

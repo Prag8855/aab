@@ -90,7 +90,7 @@ You must get an appointment at the *[[Ausländerbehörde]]*. **Book your appoint
 
 {% include "blocks/appointmentLink/_renewResidencePermit.html" %}
 
-You can also [go without an appointment](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-go-without-an-appointment), or [send the documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+You can also [send the documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
 
 **[Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
 

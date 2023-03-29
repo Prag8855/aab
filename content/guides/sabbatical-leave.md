@@ -93,7 +93,7 @@ If you need time off because of your mental health, get a [sick note](/glossary/
 
 If you want to get training for your job, take a *[[Bildungsurlaub]]*.
 
-**[What is a Bildungsurlaub? ➞](/guides/learn-german#educational-leave)**
+**[What is a Bildungsurlaub? ➞](/guides/learn-german#educational-leave-bildungsurlaub)**
 
 [^0]: [arbeitsrechte.de](https://www.arbeitsrechte.de/unbezahlter-urlaub/#Wann_kann_man_unbezahlten_Urlaub_nehmen)
 [^1]: [arbeitsrechte.de](https://www.arbeitsrechte.de/unbezahlter-urlaub/anspruch/#:~:text=nein.%20ein%20gesetzlicher%20anspruch%20auf%20unbezahlten%20urlaub%20existiert%20nicht.)

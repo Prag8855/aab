@@ -157,7 +157,7 @@ Tax advisors are very expensive in Germany, but they will save you a lot of mone
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
-## Step 4: [Freiberufler](/guides/freiberufler-or-gewerbe) or a [Gewerbe](/guides/freiberufler-or-gewerbe)?
+## Step 4: [Freiberufler](/guides/freiberufler-or-gewerbe) or [Gewerbe](/guides/freiberufler-or-gewerbe)?
 
 Later, you will need to [register your business with the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). The tax office decides if you are a freelancer (*[[Freiberufler]]*) or a tradesperson (*[[Gewerbe]]*).
 
@@ -195,9 +195,9 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to be self-emplo
 
 ## Step 8: Tell your health insurer
 
-If you already have health insurance, tell your insurance company that you will be self-employed.
+If you already have [health insurance](/glossary/Krankenversicherung), tell your insurance company that you will be self-employed.
 
-When you are an employee, health insurance payments are taken from your paychecks. If you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
+When you are an employee, health insurance payments are taken from your salary. If you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
 
 Health insurance for freelancers is more expensive, because your employer does not pay half of it.
 

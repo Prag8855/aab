@@ -118,7 +118,7 @@ For 35€ per month, you can get a 100 Mbit/s internet connection.
 
 **Cost:** {{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month
 
-In Germany, every household must pay the TV tax (*[[Rundfunkbeitrag]]*). If you live with other people, you can split the cost. [In some cases](/guides/gez-rundfunkbeitrag#can-i-pay-less), you don't have to pay it.
+In Germany, every household must pay the TV tax (*[[Rundfunkbeitrag]]*). If you live with other people, you can split the cost. [In some cases](/guides/gez-rundfunkbeitrag#how-to-pay-less), you don't have to pay it.
 
 You will receive a TV tax invoice by post every 3 months. You can pay manually with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or automatically with a [debit authorisation](/glossary/SEPA-Lastschriftmandat).
 

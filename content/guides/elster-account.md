@@ -145,6 +145,6 @@ If want to [start a business in Germany](/guides/start-a-business-in-germany), t
 
 ## Need help?
 
-**[Where to find help ➞ Financial questions](/guides/questions-about-berlin#financial-and-legal-questions)**
+**[Where to find help ➞ Financial questions](/guides/questions-about-berlin#financial-questions)**
 
 [^0]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad)

@@ -153,7 +153,7 @@ Get rid of the things you don't need. The best options are [eBay Kleinanzeigen](
 
 You can't leave your old furniture on the street. You must [ask BSR to pick it up](https://www.bsr.de/sperrmuell-21705.php) (for a fee) or take it to one of their 15 [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php). You can also [sell](/guides/how-do-i-buy-and-sell-used-things-in-berlin) or [donate](https://www.bsr.de/spenden-statt-wegwerfen-21204.php) your old furniture.
 
-**[How to recycle in Germany](/guides/sorting-trash-in-germany) ➞ [Furniture and large items](/guides/sorting-trash-in-germany#furniture-and-large-items)**
+**[How to recycle furniture and appliances](/guides/sorting-trash-in-germany#furniture-and-appliances)**
 
 ## Change your address
 
