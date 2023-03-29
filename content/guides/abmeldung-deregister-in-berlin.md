@@ -133,7 +133,7 @@ When you deregister, you could lose access to [[ALG I]], [[ALG II]], and other s
 
 ### Bank account
 
-You can keep your German bank account. If the bank sends you a letter, and it can't be delivered, they might freeze your bank account.[^17] If they freeze your bank account, you can't withdraw money, use your credit card, or make [bank transfers](/glossary/SEPA-%20Überweisung).
+You can keep your German bank account. If the bank sends you a letter, and it can't be delivered, they might freeze your bank account.[^17] If they freeze your bank account, you can't withdraw money, use your credit card, or make [bank transfers](/glossary/SEPA-%C3%9Cberweisung).
 
 ### Residence permit
 

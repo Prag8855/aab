@@ -156,7 +156,7 @@ If you need a freelance visa to work in Germany, you can't get it without client
 
 This means you must approach German companies and get them to sign [letters of intent](/glossary/Absichtserkl%C3%A4rung). This is not a contract, just a letter that says they are interested in hiring you. German companies know about this, and won't mind signing those letters. You need at least two letters of intent for your visa application.
 
-**[Letters of intent for the freelance visa ➞](/guides/freelance-visa-letter-of-intent?token=~23sUAWio3Duyn5Git9OsGyZ4pjQ18zE)**
+**[Letters of intent for the freelance visa ➞](/guides/freelance-visa-letter-of-intent)**
 
 **It's easier to find clients if you are already in Germany.** You can attend meet ups, network and meet potential clients in person. This is why it can be easier to apply for the visa in Germany, and not from abroad.
 

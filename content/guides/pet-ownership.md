@@ -127,7 +127,7 @@ If you don't speak German, here are some veterinarians who speak English:
 - [Praxis Tierzuliebe](https://www.facebook.com/praxistierzuliebe/) - Dr. Miriam Bertram
 - [Tierarztpraxis Watson](https://www.tierarzt-watson.de/)
 
-This list is not complete. To suggest another English-speaking veterinarian, [contact me](/impressum#contact-information).
+This list is not complete. To suggest another English-speaking veterinarian, [contact me](/contact).
 
 See also the [emergency vet list for Berlin](https://www.perpetual.care/be-bb-emergency-vets/) - PerPETual
 

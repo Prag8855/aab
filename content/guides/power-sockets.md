@@ -5,7 +5,7 @@ Description: This guide shows you if your devices will work in German power outl
 Date_created: 2022-02-06
 ---
 
-Before you [visit](/guides/categories/visiting-berlin) or [move to Germany](/guides/moving-to-berlin), check if your devices work with German power outlets.
+Before you [visit](/guides/visit-berlin) or [move to Germany](/guides/moving-to-berlin), check if your devices work with German power outlets.
 
 ## German power socket type
 

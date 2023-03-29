@@ -9,7 +9,7 @@ Related_guides: guides/residence-permit.md, guides/how-to-get-a-german-freelance
 
 A National Visa (also known as Type D or [Category D Visa](/glossary/Category%20D%20visa)) is a visa that lets you enter Germany to work, study or start a business. When you arrive to Germany, you must convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. National Visas are valid for up to 12 months.[^1]
 
-The [tourist visa](/guides/Schengen%20visa) is not a National Visa.
+The [tourist visa](/glossary/Schengen%20visa) is not a National Visa.
 
 **[More about German visas and residence permits](/guides/residence-permit)**
 

@@ -50,7 +50,7 @@ All About Berlin does not collect personal data about its visitors (I use [Plaus
 
 There are [a few forms](/tools) that collect user data. It only collects it for one purpose (contacting a broker). Once the job is done, the data is deleted.
 
-All of this is explained in the [privacy policy](/impressum#privacy-policy).
+All of this is explained in the [privacy policy](/terms#privacy-policy).
 
 ### To-do list
 
