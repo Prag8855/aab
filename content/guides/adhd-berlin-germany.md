@@ -3,7 +3,6 @@ Title: Getting diagnosed with ADHD in Berlin and Germany
 Short_title: How to get diagnosed with ADHD
 Description: A detailed guide to diagnosing and treating adult ADHD in Germany
 Date_created: 2017-12-13
-Date_updated: 2022-12-13
 ---
 
 This guide shows you how ADHD treatment usually works in Germany. It's based on my own experience, and updated with feedback from readers.
@@ -14,7 +13,7 @@ This guide shows you how ADHD treatment usually works in Germany. It's based on 
 
 The ADHD diagnosis, therapy and medication are fully covered by your health insurance. There is only a 5€ deductible on each prescription.[^0]
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you must find a psychiatrist that accepts public health insurance.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you must find a psychiatrist that accepts public health insurance. They are harder to find.
 
 If you have [private health insurance](/glossary/private%20Krankenversicherung), it's easier to find a psychiatrist and get an appointment.
 
@@ -24,7 +23,8 @@ If you have [private health insurance](/glossary/private%20Krankenversicherung),
 
 To get diagnosed for ADHD, you must:
 
-1. **Find a psychiatrist** If you can, choose a psychiatrist that specialises in ADHD. They are harder to find. - [List of English-speaking psychiatrists](/guides/english-speaking-psychiatrists-psychotherapists-berlin)
+1. **Find a psychiatrist**  
+    If you can, choose a psychiatrist that specialises in ADHD. They are harder to find. - [List of English-speaking psychiatrists](/guides/english-speaking-psychiatrists-psychotherapists-berlin)
 2. **Book an appointment**  
     This can be hard. Many psychiatrists don't accept new patients. Your appointment might be in a few weeks.
 3. **Take an ADHD diagnosis test**  
@@ -84,10 +84,11 @@ After you adjust your medication dosage, you can get prescriptions from your fam
 
 ## ADHD medication used in Germany
 
-**Medikinet** (Ritalin) is the most commonly prescribed ADHD medication. You can also get Elvanse (Vyvanse) and other similar drugs, but you must usually start with Medikinet.
+**Medikinet** (Ritalin) is the most commonly prescribed ADHD medication. You can also get Elvanse (Vyvanse), Atomoxetine (Strattera) and other similar drugs, but you must usually start with Medikinet.[^5]
 
 [^0]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/zuzahlung-und-erstattung-arzneimittel.html)
 [^1]: [reddit.com](https://old.reddit.com/r/ADHS/comments/z2ryum/termin_adhs_diagnose_in_berlin/ixi3eju/), [integrationhelper.blogspot.com](http://integrationhelper.blogspot.com/2018/12/17-english-speaking-psychiatrists-in.html)
 [^2]: [facebook.com](https://www.facebook.com/groups/1501180583530755/posts/2775481096100691/?comment_id=2818316808483786)
 [^3]: [facebook.com](https://www.facebook.com/groups/1501180583530755/posts/2507204306261706/?comment_id=2659109251071210)
 [^4]: [reddit.com](https://old.reddit.com/r/ADHD/comments/vpd8vt/moving_to_germany_how_is_germany_with_managing/ieikpii/)
+[^5]: [reddit.com](https://old.reddit.com/r/askberliners/comments/124jitd/tk_insuranceprescribing_elvansevyvanse_adhd/)
