@@ -295,11 +295,11 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]])  
     [Detailed guide](/guides/replacement-meldebescheinigung)* - *[Wohnungsgeberbestätigung template](/docs/wohnungsgeberbestatigung)*  
     You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9m^2^ per person in the apartment. If you rent a room, it must be at least 6m^2^. Student residences and communal accommodations are also accepted.[^50]
-    - **Your [[Anmeldebestätigung]]**
+    - **Your [[Anmeldebestätigung]]**  
         You get this document during your *[[Anmeldung]]*. If you don't have it, it's okay; just bring the lease and the [[Wohnungsgeberbestätigung]]. If you can, bring proof that you have a *Bürgeramt* appointment to register your address.
     - **and your lease**  
         Bring this document even if you have your *[[Anmeldebestätigung]]*. Some interviewers require it anyway.[^29] Temporary leases are accepted.[^30]
-    - **and the [[Wohnungsgeberbestätigung]]**
+    - **and the [[Wohnungsgeberbestätigung]]**  
         You get this document from your landlord after you sign a lease. It confirms that you are allowed to live there. Bring this document even if you have your *[[Anmeldebestätigung]]*. Many interviewers require it anyway.[^31] You can find a template [here](/docs/wohnungsgeberbestatigung).
 
 ### Professional information

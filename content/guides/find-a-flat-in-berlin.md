@@ -344,7 +344,7 @@ Landlords want tenants with...
     It's easier to find an apartment if you have a EU citizenship, or a stable [residence permit](/glossary/Aufenthaltstitel). It's very hard to find an apartment if you are in another country. If you are not yet in Germany, try finding a [short-term furnished apartment](#short-term-and-furnished-apartments).
 - **German speakers**  
     If you speak German, it's easier to find an apartment. It's less work for the landlord. It's another good reason to [learn German](/guides/learn-german).
-- **No dogs, no pets**
+- **No dogs, no pets**  
     Landlords prefer people without pets. It's harder to find an apartment when you have a dog. Only 20% of apartments explicitly allow pets. Some websites let you filter for apartments that allow pets.
 - **No foreign names**  
     People with foreign names get rejected more often.[^35] If you apply as a couple, let the person with the most German name apply for the apartment. You will get more responses.[^36]
