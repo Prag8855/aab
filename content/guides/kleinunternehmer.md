@@ -38,7 +38,7 @@ If you don't charge VAT, it means:
 - **No VAT refund on business expenses**  
     If you charge VAT, you get a VAT refund on your business expenses.[^9] For example, if you buy a computer for your business, you get the VAT back. If you don't charge VAT, you must pay VAT on all expenses. If you have a lot of expenses, it's better to charge VAT and get VAT refunds.[^10]
 - **Growing your business is more complicated**  
-    If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers.[^11] If you plan to make over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, it's easier to charge VAT from the start.
+    If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers.[^11] If you plan to make over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, it's easier to charge VAT from the start.[^13]
 
 ## How Kleinunternehmer revenue is calculated
 
@@ -81,9 +81,15 @@ If your revenue goes back under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}�
 
 ## How to be a Kleinunternehmer
 
+### Register with the Finanzamt
+
 You decide when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*.[^5] If you choose to charge VAT, you must *always* charge VAT. You can't change your decision for 5 years.[^7]
 
 **[How to fill the Fragebogen zur steuerlichen Erfassung ➞](/guides/fragebogen-zur-steuerlichen-erfassung)**
+
+If you don't charge VAT, you don't need a VAT number (*[[Umsatzsteuernummer]]*). You should still ask for one when you fill the Fragebogen. [^12] If you stop being a *Kleinunternehmer*, you will already have a VAT number. It makes things easier.
+
+### Update your invoices
 
 If you don't charge VAT, you must add this line to your invoices:[^6]
 
@@ -101,3 +107,5 @@ If you don't charge VAT, you must add this line to your invoices:[^6]
 [^9]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=wenn%20sie%20teure%20anschaffungen%20tatigen%20wollen%20oder%20mussen), [Existenzgründer](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Gruendungswissen/Steuern/Kleinunternehmerregelung/inhalt.html#:~:text=%20keine%20umsatzsteuer%20%E2%80%93%20keine%20vorsteuer)
 [^10]: [andrewcross.eu \(archived\)](https://web.archive.org/web/20210615055008/https://andrewcross.eu/vat-freelancers-germany/#:~:text=from%20a%20cashflow%20perspective%20it%20can%20be%20advantageous%20if%20you), [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
 [^11]: [starting-up.de](https://www.starting-up.de/geld/steuern/umsatzsteuer-abc/seite-2.html#:~:text=sollte%20ihr%20einkommen%20allerdings%20die%20grenze%20zur%20umsatzsteuerpflicht%20uberschreiten)
+[^12]: Seamus Wolf on [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_how-being-a-kleinunternehmer-works-activity-7040950109177589761-kH44/)
+[^13]: Seamus Wolf on [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_how-being-a-kleinunternehmer-works-activity-7040950109177589761-kH44/)

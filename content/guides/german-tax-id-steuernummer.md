@@ -70,13 +70,13 @@ The *Umsatzsteuer-ID* is **the German VAT number**. It's a 9 digit number with t
 
 The tax VAT number is for businesses that charge [VAT](/glossary/Umsatzsteuer). You need a VAT number to invoice customers in other EU countries.
 
+**[How VAT works in Germany ➞](/guides/value-added-tax)**
+
 ### How to get a German VAT number
 
-You get a VAT number when you [register your business with the ](/guides/fragebogen-zur-steuerlichen-erfassung)*[Finanzamt](/guides/fragebogen-zur-steuerlichen-erfassung)*. If you already registered your business, [request a VAT number here](https://www.formulare-bfinv.de/ffw/action/invoke.do?id=ustid).
+You get a VAT number when you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). If you already registered your business, [request a VAT number here](https://www.formulare-bfinv.de/ffw/action/invoke.do?id=ustid).
 
-You only get a VAT number if your business charges VAT. A small business (*[[Kleinunternehmer]]*) that does not charge VAT might not have a VAT number.
-
-**[How VAT works in Germany ➞](/guides/value-added-tax)**
+A small business (*[[Kleinunternehmer]]*) that does not charge VAT might not have a VAT number.
 
 When you get your VAT number, you must put it in your [[Impressum]], and on your invoices to EU customers.
 

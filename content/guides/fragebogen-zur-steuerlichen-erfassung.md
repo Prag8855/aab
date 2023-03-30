@@ -87,7 +87,7 @@ If you register as a *[[Freiberufler]]*, you don't need a *Gewerbeschein*.[^17]
 
 This form is easier to fill if you understand how the Value Added Tax (VAT) works.
 
-**[VAT number](/glossary/Umsatzsteuernummer):** If you want to sell goods and services in the European Union, you need a VAT number. You get a VAT number 4 to 6 weeks after you fill the *Fragebogen zur steuerlichen Erfassung*.[^1]
+**[VAT number](/glossary/Umsatzsteuernummer):** If you want to sell goods and services in the European Union, you need a VAT number. You get a VAT number 4 to 6 weeks after you fill the *Fragebogen zur steuerlichen Erfassung*.[^1] You should request a VAT number even if you don't need it. It could be useful later.[^19]
 
 **Charging VAT:** If you are a *[[Kleinunternehmer]]*, you can choose to not charge VAT.[^2] If you don't charge VAT, you can't get VAT refunds for business expenses.[^3] If you decide to charge VAT, you can't change your decision for the next 5 years.[^4] [This guide](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/) explains when it makes sense to charge VAT.
 
@@ -515,7 +515,7 @@ You can choose to calculate VAT payments based on the revenue you *should* have 
     Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because you are a *[[Freiberufler]]*.
 
 **Umsatzsteuer-Identifikationsnummer**  
-Check this box if you want to get a [VAT number](/glossary/Umsatzsteuernummer).
+Check this box if you want to get a [VAT number](/glossary/Umsatzsteuernummer). You should always ask for a VAT number, even if you don't need it now.[^19] If you need it later, you will already have it.
 
 **Steuerschuldnerschaft des Leistungsempfängers bei Bau- und/oder Gebäudereinigungsleistungen**  
 This subsections only applies if you are offering building cleaning services. If this subsection does not apply to you, leave it empty. If this subsection applies to you, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin) about it.
@@ -622,3 +622,4 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 [^16]: [iamexpat.de](https://www.iamexpat.de/expat-info/taxation-germany/elster-german-online-tax-office)
 [^17]: [firma.de](https://www.firma.de/firmengruendung/wer-muss-kein-gewerbe-anmelden/#:~:text=In%20Deutschland%20gilt%20die%20Gewerbefreiheit,und%20in%20eigener%20Verantwortung%20arbeitet.)
 [^18]: [dict.cc](https://www.dict.cc/?s=Gesellschaft+b%C3%BCrgerlichen+Rechts)
+[^19]: Seamus Wolf on [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_how-being-a-kleinunternehmer-works-activity-7040950109177589761-kH44/)
