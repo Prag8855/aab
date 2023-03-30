@@ -1,6 +1,7 @@
 ---
 Name: Dipl. Psychologin Katja Rück
-Description: Therapist. Speaks English, Dutch and German. Mood disorders: depression, anxiety and somatoform disorders. Private insurance and self-pay only.
+Description: Speaks English, Dutch and German. Specialises in mood disorders: depression, anxiety and somatoform disorders.
+Accepts_public_insurance: No
 Website: http://www.katjarueck.de/index.php/start.html
 Email: praxis@katjarueck.de
 Address: Goßlerstraße 23

@@ -1,6 +1,6 @@
 ---
-Name: Sandra Cotta, Psychologische Psychotherapeutin
-Description: Psychotherapist. Speaks English and German. Accepts private insurance.
+Name: Sandra Cotta
+Accepts_public_insurance: No
 Website: http://www.praxis-cotta.de/
 Email: s.cotta@gmx.de
 Address: Puschkinallee 48

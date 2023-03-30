@@ -1,7 +1,6 @@
 ---
 Name: Praxis Dr. Mungee
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: https://drmungee.de/
 Email: sm@drmungee.de
 Address: Kollwitzstraße 6

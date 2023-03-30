@@ -1,6 +1,7 @@
 ---
 Name: My International Therapy
-Description: Therapists. They speak English, French, Spanish and Italian. Private insurance and self-pay only.
+Description: They speak English, French, Spanish and Italian.
+Accepts_public_insurance: No
 Website: https://my-international-therapy.com/
 Email: contact@my-international-therapy.com
 Address: Schönhauser Allee 55

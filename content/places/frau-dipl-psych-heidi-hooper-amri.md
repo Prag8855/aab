@@ -1,6 +1,7 @@
 ---
 Name: Frau Dipl.-Psych. Heidi Hooper Amri
-Description: Child Therapist (behavioral)
+Description: Child behavioural therapist
+Accepts_public_insurance: Yes
 Website: https://www.jameda.de/berlin/psychotherapeuten-psychologen/heidi-elisabeth-hooper-amri/uebersicht/81079702_1/
 Email: 
 Address: Pariser Str. 61

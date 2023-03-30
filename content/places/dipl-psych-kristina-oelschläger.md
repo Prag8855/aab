@@ -1,8 +1,8 @@
 ---
 Name: Dipl.-Psych. Kristina Oelschläger
-Description: Psychotherapist. Speaks English and German.
 Website: http://www.okpsychologie.de/
-Email: 
+Accepts_public_insurance: No
+Email: mail@okpsychologie.de 
 Address: Voigtstraße 31a
 Latitude: 52.518189
 Longitude: 13.468864

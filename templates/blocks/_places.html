@@ -18,6 +18,9 @@
 			{%- if place.description|default -%}
 				<p>{{ place.description }}</p>
 			{%- endif -%}
+			{%- if place.accepts_public_insurance|default == 'Yes' -%}
+				<p>Accepts public health insurance.</p>
+			{%- endif -%}
 		</li>
 		{% endfor %}
 	</ol>

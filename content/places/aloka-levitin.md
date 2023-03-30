@@ -1,6 +1,7 @@
 ---
 Name: Aloka Levitin
-Description: Therapist. Trauma therapy, energy work, individual and couples counseling. Speaks German and English. Self-pay only.
+Description: Alternative practitioner for psychotherapy
+Accepts_public_insurance: No
 Website: http://www.berlinpsychotherapeut.de/
 Email: alokalevitin@gmail.com
 Address: Lipaer Str. 14

@@ -1,7 +1,6 @@
 ---
 Name: Dr. Annette Kreutz
-Accepts_public: No
-Accepts_private: Yes
+Accepts_public_insurance: No
 Website: https://www.jameda.de/annette-kreutz/arzt/berlin
 Email: 
 Address: Holsteiner Ufer 18

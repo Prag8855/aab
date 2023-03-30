@@ -1,6 +1,6 @@
 ---
 Name: Dipl.-Psych. Jana Harthauß
-Description: Psychotherapist, speaks English and German. Accepts public and private insurance.
+Accepts_public_insurance: Yes
 Website: https://www.therapie.de/psychotherapie/harthauss/
 Email: 
 Address: Helmholtzstraße 11

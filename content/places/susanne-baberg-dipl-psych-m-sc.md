@@ -1,6 +1,6 @@
 ---
 Name: Susanne Baberg, Dipl. Psych, M. Sc.
-Description: Psychotherapist. Offers psychological counselling and therapeutic interventions. Speaks English and German. Private insurance and private pay only.
+Accepts_public_insurance: No
 Website: 
 Email: s.baberg@posteo.net
 Address: Choriner Str. 46

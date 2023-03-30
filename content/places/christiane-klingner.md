@@ -1,6 +1,7 @@
 ---
 Name: Christiane Klingner
-Description: Child and Adolescent psychotherapist specializing in Cognitive Behavioral Therapy. Speaks English and German. Private pay, private health insurance and public insurance by reimbursement procedure possible.
+Description: Child and adolescent psychotherapist.
+Accepts_public_insurance: No
 Website: https://www.therapie.de/profil/klingner/
 Email: pt.klingner@gmail.com
 Address: Möllendorfstr. 104/105

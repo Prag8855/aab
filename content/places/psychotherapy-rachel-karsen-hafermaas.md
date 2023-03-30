@@ -1,6 +1,7 @@
 ---
 Name: Psychotherapy Rachel Karsen Hafermaas
-Description: Psychotherapist. Speaks English, French and Spanish. Private pay only.
+Description: Psychotherapist. Speaks English, French and Spanish.
+Accepts_public_insurance: No
 Website: http://psychotherapy-rkh.com/
 Email: 
 Address: Gubener Str. 13B

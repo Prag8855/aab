@@ -1,6 +1,7 @@
 ---
-Name: Individual Therapy Berlin - Ghazaleh Bailey
-Description: Psychotherapist. Speaks English, German and Persian.
+Name: Dr. Ghazaleh Bailey
+Description: Speaks English, German and Persian.
+Accepts_public_insurance: No
 Website: http://www.individual-therapy-berlin.de/
 Email: g.bailey@individual-therapy-berlin.de
 Address: Saarbrücker Str. 28

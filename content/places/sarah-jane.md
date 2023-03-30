@@ -1,6 +1,7 @@
 ---
 Name: Sarah-Jane Ryan
-Description: Psychological counsellor, specialized in anxiety and depression. Accepts privately insured clients and private pay.
+Description: Psychological counsellor, specialized in anxiety and depression.
+Accepts_public_insurance: No
 Website: http://www.englishcounsellorberlin.com/
 Email: 
 Address: Bismarckstraße 82

@@ -1,7 +1,6 @@
 ---
 Name: Gaby Weuthen
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: https://www.arzt-auskunft.de/arzt/psychiatrie-und-psychotherapie/berlin/gaby-weuthen-2420675
 Email: 
 Address: Paul-Lincke-Ufer 44

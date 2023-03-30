@@ -1,6 +1,7 @@
 ---
-Name: Yara Thomale MA, HPG
-Description: Therapist. Speaks English and German. Specialises in women's issues. Private insurance and self-pay only.
+Name: Yara Thomale
+Description: Alternative practitioner for psychotherapy. Speaks English and German. Specialises in women's issues.
+Accepts_public_insurance: No
 Website: https://www.yarathomale.com
 Email: yara@thomale.org
 Address: Metzer Str. 7

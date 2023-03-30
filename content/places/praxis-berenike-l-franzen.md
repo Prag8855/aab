@@ -1,6 +1,6 @@
 ---
 Name: M.Sc. Berenike Franzen
-Description: Psychodynamic (depth) psychotherapist. Speaks English and German. Accepts private insurance and self-pay.
+Accepts_public_insurance: No
 Website: https://franzen-psychotherapie.net/en
 Email: berenikelisafranzen@gmail.com
 Address: Türrschmidtstraße 4-5

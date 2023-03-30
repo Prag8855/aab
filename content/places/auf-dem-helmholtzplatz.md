@@ -1,6 +1,7 @@
 ---
 Name: Eva Štajner
-Description: Psychotherapist. Speaks English and Slovenian. Private pay only. Consultation in person or via Skype.
+Description: Speaks English and Slovenian.
+Accepts_public_insurance: No
 Website: http://www.psychotherapeutic.help/
 Email: ebbaebba@gmail.com
 Address: Raumerstraße 7

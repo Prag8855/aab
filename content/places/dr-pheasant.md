@@ -1,6 +1,7 @@
 ---
 Name: Dr. Brian L. Pheasant
-Description: American psychotherapist. Accepts private pay and private health insurance.
+Description: American psychotherapist
+Accepts_public_insurance: No
 Website: http://www.pw-psychotherapie.de/therapy-in-english.html
 Email: 
 Address: Kuglerstraße 26

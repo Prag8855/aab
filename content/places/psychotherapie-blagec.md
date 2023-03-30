@@ -1,6 +1,7 @@
 ---
 Name: Psychotherapie Blagec
-Description: Psychotherapist. Speaks English, German and Croatian. Specialises in anxiety, depression, burnout and stress. Private pay only.
+Description: Speaks English and Croatian. Specialises in anxiety, depression, burnout and stress.
+Accepts_public_insurance: No
 Website: https://www.psychotherapy-blagec.com/en/
 Email: psychotherapy.blagec@gmail.com
 Address: Bleibtreustraße 12A

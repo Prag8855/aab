@@ -1,8 +1,7 @@
 ---
 Name: PPCC - Dr. Ernst Seiffert
 Description: Speaks English, Italian and Spanish
-Accepts_public: No
-Accepts_private: Yes
+Accepts_public_insurance: No
 Website: http://www.ppcc-berlin.de/
 Email: 
 Address: Tempelhofer Damm 129

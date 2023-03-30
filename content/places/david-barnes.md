@@ -1,8 +1,9 @@
 ---
 Name: David Barnes
-Description: Psychotherapist, privately insured clients only
+Description: Counselling for men.
+Accepts_public_insurance: No
 Website: http://www.davidbarnes.de/
-Email: 
+Email: info@davidbarnes.de
 Address: Lützowstraße
 Latitude: 52.504344
 Longitude: 13.35738

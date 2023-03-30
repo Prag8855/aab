@@ -1,6 +1,7 @@
 ---
 Name: Dipl.-Psych. Katrin Forler
-Description: Therapist. Speaks English and German. Behavior therapy for children and adolescents, counseling for families. Private insurance and self-pay only.
+Description: Behavior therapy for children and adolescents, counseling for families.
+Accepts_public_insurance: No
 Website: https://www.praxis-forler.de/counseling-in-english/
 Email: info@praxis-forler.de
 Address: Pestalozzistraße 37

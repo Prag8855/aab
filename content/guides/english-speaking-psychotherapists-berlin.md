@@ -1,5 +1,5 @@
 ---
-Title: List of English-speaking psychiatrists and psychotherapists in Berlin
+Title: List of English-speaking psychotherapists in Berlin
 Short_title: English-speaking psychotherapists
 Description: A list of therapists who speak English, and how to find a therapist who accepts public health insurance.
 Date_created: 2017-09-12
@@ -13,7 +13,6 @@ Related_places:
     places/anja-benesch.md
     places/individual-therapy-berlin-ghazaleh-bailey.md
     places/dipl-psych-monika-mitchell.md
-    places/dipl-psych-christine-mandl-scheimberg.md
     places/carrie-argent.md
     places/the-living-body-julianne-appel-opper.md
     places/frau-dipl-psych-heidi-hooper-amri.md
@@ -68,10 +67,8 @@ Related_places:
     places/dipl-psych-christiane-köhler.md
     places/yara-thomale-ma-hpg.md
     places/aloka-levitin.md
-    places/imago-therapy-natalie-viaux.md
     places/dr-joseph-hamer.md
     places/ben-lemme.md
-    places/yara-thomale-ma-hpg.md
     places/psyshrink-etherapy-and-private-practice.md
     places/roman-snihurowch-md.md
     places/my-international-therapy.md
@@ -95,20 +92,22 @@ Related_places:
 This guide explains:
 
 - How to find an English-speaking psychotherapist
-- The difference between psychiatrists and psychotherapists
+- The difference between psychotherapists, psychiatrists and others
 - The costs of getting therapy in Berlin
 
 **[Go to the list of therapists ↓](#places-map)**
 
 {% include "blocks/_tableOfContents.html" %}
 
-## Psychiatrist or psychotherapist?
+## Psychiatrist, psychotherapist or counsellor?
 
 **Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. Some can also give therapy.[^1]
 
-**Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems. They can't prescribe medication.[^2]
+**Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems and give therapy. They can't prescribe medication.[^2]
 
-**Psychologists** studied psychology. They can advise businesses, help you choose a career, or give personality and aptitude tests. They can't diagnose mental health problems, prescribe medication or give therapy.[^3]
+**Counsellors** have no specific qualifications. There are no standards for being a counsellor, because it's not a protected title.[^4] They can't diagnose mental health problems or give therapy. Many therapists who move to Germany call themselves counsellors because their diplomas are not recognised in Germany. - [More information](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/)
+
+**Alternative practitioner for psychotherapy** (*Heilpraktiker für Psychotherapie*) do not have the same qualifications or audits as psychotherapists. Many of them were licenced as psychotherapists in other countries before they moved to Germany. They can't diagnose mental health problems or treat addictions.
 
 ## How hard is it to find a psychotherapist?
 
@@ -161,4 +160,4 @@ If you need psychological help *right now*, **call the [Berliner Krisendienst](h
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
 [^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)
 [^2]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [karriere.de](https://www.karriere.de/studium/unterschied-psychologe-psychotherapeut-psychiater/)
-[^3]: [karriere.de](https://www.karriere.de/studium/unterschied-psychologe-psychotherapeut-psychiater/), [beratung.help](https://www.beratung.help/a/unterschied-psychotherapeut-psychologe)
+[^4]: [complicated.life](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/)

@@ -1,6 +1,7 @@
 ---
 Name: Wagner & Homunculus, Praxis für Systemische Therapie
-Description: Therapists. They speak English, Spanish and German. Systemic therapy. Private insurance and self-pay only.
+Description: Alternative practitioner for psychotherapy. They speak English, Spanish and German.
+Accepts_public_insurance: No
 Website: https://wh-therapie.de/
 Email: praxis@wa-hc.de
 Address: Philippistraße 4

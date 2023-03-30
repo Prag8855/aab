@@ -1,6 +1,7 @@
 ---
 Name: Dipl.-Psych. Christine Mandl-Scheimberg
-Description: Psychotherapist. Speaks English and Hebrew.
+Description: Speaks English and Hebrew.
+Accepts_public_insurance: Yes
 Website: https://www.arzt-auskunft.de/arzt/psychologische-psychotherapeutin/berlin/christine-mandl-scheimberg-4520555
 Email: 
 Address: Linienstraße 137

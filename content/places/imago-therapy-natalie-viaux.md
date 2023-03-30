@@ -1,6 +1,7 @@
 ---
 Name: Imago Therapy - Natalie Viaux
 Description: Couples therapy, stress, conflict transformation. Speaks English and German. Private insurance and self pay only.
+Accepts_public_insurance: No
 Website: https://www.imagotherapyberlin.de/
 Email: talk@imagotherapyberlin.de
 Address: Karl-Marx-Allee 81

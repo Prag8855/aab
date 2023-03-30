@@ -1,6 +1,7 @@
 ---
 Name: Mittelweg 50
-Description: 10 English-speaking counsellors with different approaches to therapy. Private pay and private insurance only.
+Description: 10 English-speaking counsellors with different approaches to therapy
+Accepts_public_insurance: No
 Website: https://www.mittelweg50.com/
 Email: 
 Address: Mittelweg 50

@@ -1,6 +1,7 @@
 ---
 Name: Aditi Kulkarni
-Description: Psychotherapist. Speaks English, Hindi and Marathi. Private pay only.
+Description: Counsellor. Speaks English, Hindi and Marathi
+Accepts_public_insurance: No
 Website: http://mymindoasis.com
 Email: 
 Address: Bismarckstraße 82

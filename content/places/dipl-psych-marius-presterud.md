@@ -1,6 +1,7 @@
 ---
 Name: Dipl.-Psych. Marius Presterud
-Description: Psychotherapist, speaks English and Norwegian. Organizes English spoken Group Therapies. Private pay only.
+Description: Speaks English and Norwegian. Organizes group therapies in English.
+Accepts_public_insurance: No
 Website: https://berlinarttherapy.com/
 Email: mailingmarius@gmail.com
 Address: Hobrechtstraße 66

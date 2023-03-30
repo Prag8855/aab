@@ -1,6 +1,7 @@
 ---
 Name: Dipl. Med. Birgit Hansen
-Description: Psychotherapist (HPG). Specialized in EMDR, Hypnosis, and client-centered therapy. Speaks English and German. Accepts private pay and some private insurances.
+Description: Alternative practitioner for psychotherapy
+Accepts_public_insurance: No
 Website: http://dctlb.de/hansenb
 Email: birgit@heilpraxis-hansen.de
 Address: Landsberger Allee 201

@@ -1,6 +1,6 @@
 ---
 Name: Psychotherapist Lisa-Maria Aldinger
-Description: Psychotherapist. Cognitive behavioural therapy, schema therapy, DBT, EMDR, trauma and depression. Speaks English and German. Private insurance and self-pay accepted.
+Accepts_public_insurance: No
 Website: http://pankowpsychotherapie.de/
 Email: pt-aldinger@posteo.de
 Address: Florastraße 86a

@@ -1,6 +1,7 @@
 ---
 Name: Dipl.-Psych. Shireen Kwiatkowska-Naqvi
-Description: Psychotherapist. Speaks English, French and Polish. Public and private insurance, and self-pay.
+Description: Speaks English, French and Polish.
+Accepts_public_insurance: Yes
 Website: https://www.therapie.de/profil/kwiatkowskanaqvi/
 Email: psychotherapie-praxis@posteo.de
 Address: Pfarrstraße 115

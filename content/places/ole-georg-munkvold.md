@@ -1,7 +1,6 @@
 ---
 Name: Dr. Ole Georg Munkvold
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: https://www.mvz-giesebrechtstrasse.de/
 Email: 
 Address: Giesebrechtstraße 13

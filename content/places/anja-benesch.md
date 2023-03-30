@@ -1,6 +1,6 @@
 ---
 Name: Anja Benesch
-Description: Psychotherapist. Private pay and privately insured patients only.
+Accepts_public_insurance: No
 Website: http://anjabenesch.com/de/english/
 Email: 
 Address: Florastraße 79A

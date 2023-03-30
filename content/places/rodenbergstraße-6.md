@@ -1,6 +1,6 @@
 ---
 Name: Dipl.-Psych. Nicholas Bellafiore
-Description: Psychotherapist, private pay only.
+Accepts_public_insurance: No
 Website: https://berlincounselingandtherapy.com/
 Email: info@berlincounselingandtherapy.com
 Address: Rodenbergstraße 6

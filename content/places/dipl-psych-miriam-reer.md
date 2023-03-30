@@ -1,6 +1,7 @@
 ---
 Name: Dipl.-Psych. Miriam Reer
-Description: Psychotherapist. Speaks English and German. Specializes in cognitive-behavioral therapy. Private pay, private insurance or Bahn BKK accepted.
+Description: Cognitive behavioral therapist. Accepts Bahn BKK.
+Accepts_public_insurance: No
 Website: https://www.psychotherapie-prenzlauerberg.com/miriam-reer-engl/
 Email: therapie.reer@web.de
 Address: Chodowieckistraße 3

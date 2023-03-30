@@ -1,6 +1,6 @@
 ---
 Name: Dipl.-Psych. Michael Flor
-Description: Therapist. Speaks English and German. Private health insurance and self-pay only.
+Accepts_public_insurance: No
 Website: https://psychotherapie-flor.de/index-en.html
 Email: mflormail@gmail.com
 Address: Chausseestraße 28

@@ -1,7 +1,7 @@
 ---
 Name: Dipl.-Psych. Monika Mitchell
-Description: Psychologist, private insurance only
-Website: 
+Accepts_public_insurance: Yes
+Website: https://www.psychotherapeutensuche.de/en/monika-mitchell-098969/
 Email: 
 Address: Herrfurthstraße 13
 Latitude: 52.476987

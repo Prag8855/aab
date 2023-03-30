@@ -1,6 +1,7 @@
 ---
 Name: 360° Psychotherapie
-Description: Multiple locations, some English-speaking therapists. Private pay only.
+Description: Multiple locations, some English-speaking therapists
+Accepts_public_insurance: No
 Website: https://360grad-psychotherapie.de/
 Email: 
 Address: Berliner Allee 88

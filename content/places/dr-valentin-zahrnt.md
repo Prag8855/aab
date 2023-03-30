@@ -1,6 +1,7 @@
 ---
 Name: Dr. Valentin Zahrnt
-Description: Therapist. Specialises in public speaking anxieties and general communication problems. Speaks English, French and German. Private pay only.
+Description: Speaks English, French and German. Specialises in public speaking anxiety and general communication problems.
+Accepts_public_insurance: No
 Website: https://authentische-rhetorik.de
 Email: zahrnt@authentische-rhetorik.de
 Address: Prenzlauer Berg

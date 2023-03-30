@@ -1,6 +1,7 @@
 ---
 Name: Sean Carden
-Description: Humanistic Counsellor specialising in depression, anxiety and addiction. Speaks English. Private pay only
+Description: Counsellor specialising in depression, anxiety and addiction.
+Accepts_public_insurance: No
 Website: http://person-centered.de/
 Email: sean.a.carden@gmail.com
 Address: Weserstr. 56

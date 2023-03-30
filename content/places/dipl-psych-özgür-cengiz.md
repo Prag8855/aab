@@ -1,6 +1,7 @@
 ---
 Name: Dipl.-Psych. Özgür Cengiz
-Description: Psychotherapist. Speaks English, Turkish and German.
+Description: Speaks English, Turkish and German.
+Accepts_public_insurance: No
 Website: https://www.praxis-cengiz.de/
 Email: info@praxis-cengiz.de
 Address: Beethovenstraße 4

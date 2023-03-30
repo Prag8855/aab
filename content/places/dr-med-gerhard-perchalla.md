@@ -1,7 +1,6 @@
 ---
 Name: Dr. med. Gerhard Perchalla
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: http://www.dr-perchalla.com/
 Email: 
 Address: Knesebeckstraße 74

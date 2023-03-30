@@ -1,6 +1,7 @@
 ---
 Name: Art Therapy Studio
-Description: Therapist. Speaks English and German. Art Therapy based on psycho-analytical theory. Self-pay only.
+Description: Alternative practitioner for psychotherapy. Speaks English, Spanish and German.
+Accepts_public_insurance: No
 Website: https://www.praxis-guerteltier.de/en
 Email: info@praxis-guerteltier.de
 Address: Gürtelstraße 12

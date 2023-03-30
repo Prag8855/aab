@@ -1,6 +1,7 @@
 ---
 Name: Praxis Godau
-Description: Therapist. Specialises in psychodynamic psychotherapy (deep psychology). Speaks German, English and Russian. Private health insurance and private pay accepted.
+Description: Speaks German, English and Russian. Specialises in psychodynamic psychotherapy.
+Accepts_public_insurance: No
 Website: https://www.praxis-godau.de/?lang=en
 Email: praxis.godau@gmail.com
 Address: Kopischstraße 5

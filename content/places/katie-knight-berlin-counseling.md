@@ -1,6 +1,6 @@
 ---
-Name: Katie Knight, Berlin Counseling
-Description: Psychotherapist, private pay only.
+Name: Katie Knight
+Accepts_public_insurance: No
 Website: http://www.berlincounseling.com/
 Email: katie@berlincounseling.com
 Address: Lichtburgring 13

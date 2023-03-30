@@ -1,6 +1,7 @@
 ---
-Name: PsyShrink - Expat Psychotherapy Practice
-Description: Psychotherapist. Speaks English. Specialises in anxiety, relationships, depression and body image. Accepts private insurance and self-pay.
+Name: PsyShrink
+Description: Multiple English-speaking therapists.
+Accepts_public_insurance: No
 Website: http://www.psyshrink.com/
 Email: therapist@psyshrink.com
 Address: Keithstraße 16

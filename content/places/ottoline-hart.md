@@ -1,6 +1,7 @@
 ---
 Name: Ottoline Hart
-Description: Therapist. Speaks English. Humanistic therapy - cognitive, anxiety, depression. Self-pay only.
+Description: UK-licenced therapist. Humanistic therapy - cognitive, anxiety, depression.
+Accepts_public_insurance: No
 Website: https://www.ottolinehart.com/
 Email: ottoline.hart@gmail.com
 Address: Braunschweiger Str. 40

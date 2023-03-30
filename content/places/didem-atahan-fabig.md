@@ -1,6 +1,7 @@
 ---
 Name: Didem Atahan-Fabig
-Description: US-licensed mental health counselor. Speaks English, Turkish and French. Private pay only.
+Description: Alternative practitioner for psychotherapy. US-licensed mental health counsellor. Speaks English, Turkish and French.
+Accepts_public_insurance: No
 Website: http://www.crossculturaltherapy.com/
 Email: atahan.didem@googlemail.com
 Address: Linienstraße 146

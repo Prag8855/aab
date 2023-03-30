@@ -1,6 +1,7 @@
 ---
-Name: Privatpraxis für Psychotherapie & Coaching Dr. Viola Kappel & Kollegen
-Description: Psychotherapist. Specialises in eating disorders, OCD, anxiety and depression. Accepts public health insurance.
+Name: Dr. Viola Kappel & Kollegen
+Description: Specialises in eating disorders, OCD, anxiety and depression. 
+Accepts_public_insurance: Yes
 Website: https://psychotherapie-kappel.de/
 Email: kontakt@psychotherapie-kappel.de
 Address: Praxis für Psychotherapie & Coaching Dr. Viola Kappel & Kollegen, Naumannstraße 7

@@ -1,6 +1,6 @@
 ---
 Name: Roman Snihurowch, MD
-Description: Psychotherapist. Speaks English. Specialises in cognitive behavioural therapy and psychodynamic therapy. Accepts public health insurance.
+Accepts_public_insurance: Yes
 Website: https://www.psychotherapyinberlin.net/
 Email: r.snihurowych@posteo.de
 Address: Kienitzer Str. 110

@@ -1,6 +1,7 @@
 ---
 Name: Manuela Luise, Creative Therapy
-Description: Therapist. Speaks English, Spanish and Italian. Self-pay only.
+Description: Alternative practitioner for psychotherapy. Speaks English, Spanish and Italian.
+Accepts_public_insurance: No
 Website: https://manuelaluise.com/portfolio/category/en/
 Email: info@manuelaluise.com
 Address: Heidelberger Str. 16

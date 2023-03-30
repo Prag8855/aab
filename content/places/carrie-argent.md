@@ -1,6 +1,7 @@
 ---
 Name: Carrie Argent
 Description: Integrative arts psychotherapy
+Accepts_public_insurance: No
 Website: https://www.actberlin.info/therapist-directory.html
 Email: integrativeartstherapy@gmail.com
 Address: Puschkinallee 4A

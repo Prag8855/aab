@@ -1,6 +1,7 @@
 ---
 Name: Dominic Decker
-Description: Therapist. Speaks English. Private pay only.
+Description: Counsellor
+Accepts_public_insurance: No
 Website: https://dominicdecker.com/
 Email: mail@dominicdecker.com
 Address: Schliemannstraße 41

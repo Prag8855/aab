@@ -1,6 +1,7 @@
 ---
 Name: Dr. Grace O'Malley
-Description: Clinical psychologist qualified in Ireland. Offers psychological counselling and therapeutic interventions. Speaks English and German. Private pay only.
+Description: Counsellor. Clinical psychologist in Ireland.
+Accepts_public_insurance: No
 Website: http://www.clinicalpsychology.de/
 Email: grace@clinicalpsychology.de
 Address: Gitschiner Str. 87

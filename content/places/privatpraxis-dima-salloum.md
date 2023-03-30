@@ -1,8 +1,7 @@
 ---
 Name: Privatpraxis Dima Salloum
 Description: Psychiatrist and psychotherapist, specialised in cognitive behavioural therapy and adult ADHD.
-Accepts_public: No
-Accepts_private: Yes
+Accepts_public_insurance: No
 Website: https://dima-nathalia-salloum.business.site
 Email: 
 Address: Weserstraße 29

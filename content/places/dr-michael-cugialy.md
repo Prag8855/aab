@@ -1,6 +1,7 @@
 ---
 Name: Dr. Michael Cugialy
-Description: Cognitive behavioural therapist. Speaks English and German. Private health insurance and private pay accepted.
+Description: Cognitive behavioural therapist.
+Accepts_public_insurance: No
 Website: https://en.psychotherapie-cugialy.com/
 Email: Michael.Cugialy@fu-berlin.de
 Address: Schulstraße 7, 16515 Oranienburg, Germany

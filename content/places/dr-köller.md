@@ -1,7 +1,6 @@
 ---
 Name: Dr. Köller
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: http://www.praxiskoeller.de/
 Email: info@praxiskoeller.de
 Address: Esmarchstraße 19

@@ -1,6 +1,6 @@
 ---
 Name: Diplom-Psychologin Sybille Aßmann
-Description: Psychologist, accepts public insurance
+Accepts_public_insurance: Yes
 Website: https://www.therapie.de/psychotherapie/assmann/
 Email: 
 Address: Linienstraße 130

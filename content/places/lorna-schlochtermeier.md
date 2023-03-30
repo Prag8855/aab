@@ -1,6 +1,5 @@
 ---
-Name: Praxis Psychotherapie Dr. Lorna Schlochtermeier
-Description: Psychotherapist. Mindfulness-based, cognitive behavioral, and schema therapy. Private health insurance and self-pay only.
+Name: Dr. Lorna Schlochtermeier
 Website: https://www.psychotherapie-schlochtermeier.de/
 Email: l.schlochtermeier@fu-berlin.de
 Address: Praxis in der Remise, Ohlauer Str. 10

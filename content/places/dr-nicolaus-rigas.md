@@ -1,8 +1,7 @@
 ---
 Name: Dr. med. Nikolaos Rigas
 Description: Speaks English and Greek
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: https://www.dr-rigas.de/
 Email: 
 Address: Paulsborner Straße 3 Ecke, Brandenburgische Str.

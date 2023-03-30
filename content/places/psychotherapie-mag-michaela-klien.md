@@ -1,6 +1,7 @@
 ---
-Name: Psychotherapie Mag. Michaela Klien
-Description: Cognitive behavioral therapy, exposure therapy. Private health insurance and self-pay only.
+Name: Mag. Michaela Klien
+Description: Cognitive behavioral therapy, exposure therapy.
+Accepts_public_insurance: No
 Website: https://www.psychotherapie-klien.de/
 Email: info@psychotherapie-klien.de
 Address: Gethsemanestraße 11

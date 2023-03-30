@@ -1,6 +1,6 @@
 ---
 Name: Dipl.-Psych. Anne Piotrowski
-Description: Psychologist, private pay only.
+Accepts_public_insurance: No
 Website: https://www.gestalttherapieberlin.de/en.html
 Email: 
 Address: Knaackstraße 84

@@ -1,6 +1,6 @@
 ---
 Name: Dr. Christian Dombrowe
-Description: Psychologist
+Accepts_public_insurance: No
 Website: http://www.psychotherapy-dombrowe.com/
 Email: 
 Address: Linienstraße 130

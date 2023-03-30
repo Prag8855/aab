@@ -1,7 +1,6 @@
 ---
 Name: Frau Dr. med. Cordula Dietrich
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: http://www.corduladietrich.de/
 Email: 
 Address: Käthe-Niederkirchner-Straße 5

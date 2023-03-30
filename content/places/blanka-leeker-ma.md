@@ -1,6 +1,7 @@
 ---
 Name: Blanka Leeker, MA
-Description: US licensed Marriage and Family Therapist. Speaks English and German. Privately insured clients and private pay only.
+Description: US-licensed marriage and family therapist.
+Accepts_public_insurance: Yes
 Website: https://psychotherapie-leeker.com/
 Email: blanka@psychotherapie-leeker.com
 Address: Bismarckstraße 82

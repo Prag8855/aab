@@ -1,8 +1,7 @@
 ---
 Name: Frau Dr. med. Christine Riegel
 Description: Speaks English, French and Spanish
-Accepts_public: Yes
-Accepts_private: Yes
+Accepts_public_insurance: Yes
 Website: https://psychiatrie-gruenau.de/
 Email: praxis@psychiatrie-gruenau.de
 Address: Richterstraße 12

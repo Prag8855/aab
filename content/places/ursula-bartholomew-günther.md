@@ -1,6 +1,7 @@
 ---
 Name: Dr. Joachim Bartholomew-Günther
-Description: Psychiatry and psychotherapy. EMDR therapy. Accepts public insurance.
+Description: Psychiatry and psychotherapy. EMDR therapy.
+Accepts_public_insurance: Yes
 Website: https://www.dr-bartholomew.de/
 Email: 
 Address: Schloßstraße 42A

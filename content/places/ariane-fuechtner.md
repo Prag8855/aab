@@ -1,6 +1,7 @@
 ---
 Name: Ariane Fuechtner
-Description: Psychotherapist, specialized in somatic experiencing (trauma therapy) and burnout prevention. Accepts private pay and private health insurance.
+Description: Alternative practitioner for psychotherapy
+Accepts_public_insurance: No
 Website: http://www.fuechtner.net/
 Email: 
 Address: Hinterhaus Remise, Schillerstraße 40

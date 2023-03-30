@@ -1,6 +1,7 @@
 ---
-Name: PRAXIS FÜR PSYCHOTHERAPIE NINJA KATTENBECK
-Description: Cognitive behavioral therapy, trauma, depression, anxiety and OCD. Private health insurance and self-pay only.
+Name: Ninja Kattenbeck
+Description: Cognitive behavioral therapy, trauma, depression, anxiety and OCD.
+Accepts_public_insurance: No
 Website: https://www.kattenbeck-psychotherapie-berlin.de/
 Email: mail@kattenbeck-psychotherapie-berlin.de
 Address: Lützowstraße 23

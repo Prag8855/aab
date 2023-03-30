@@ -1,6 +1,7 @@
 ---
 Name: Daniel Friedrich
-Description: Psychotherapist, emotion-focused therapy, specialised in anxiety, depression and addiction. Speaks English and German. Private insurance and private pay only.
+Description: Specialised in anxiety, depression and addiction.
+Accepts_public_insurance: No
 Website: https://therapie-friedrich.de/
 Email: kontakt@therapie-friedrich.de
 Address: Chausseestraße 56

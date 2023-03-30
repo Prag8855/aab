@@ -1,6 +1,7 @@
 ---
 Name: Frau Dipl.-Psych. Christiane Köhler
-Description: Psychologist. Offers cognitive behavioural therapy. Speaks English and German. Accepts public health insurance.
+Description: Cognitive behavioural therapy.
+Accepts_public_insurance: Yes
 Website: https://www.gptg.eu/users/77956593/info.therap
 Email: CR.Koehler@t-online.de
 Address: Seydelstraße 7

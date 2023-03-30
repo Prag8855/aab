@@ -1,6 +1,7 @@
 ---
 Name: Praxis für Psychotherapie, Hypnotherapie + Klangtherapie
-Description: Psychotherapists and hypnotherapist. Speaks English and German. Accepts private insurance and private pay.
+Description: Psychotherapists and hypnotherapist
+Accepts_public_insurance: No
 Website: https://psychotherapie-hpp.de/
 Email: info@psychotherapie-hpp.de
 Address: Elsastraße 4

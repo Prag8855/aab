@@ -1,6 +1,6 @@
 ---
 Name: Dr. Babette Gekeler
-Description: Psychotherapist. Speaks English and German. Accepts public health insurance.
+Accepts_public_insurance: Yes
 Website: https://www.babettegekeler.com/
 Email: getintouch@babettegekeler.com
 Address: Kurfürstendamm 173

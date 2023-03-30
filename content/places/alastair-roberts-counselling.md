@@ -1,6 +1,7 @@
 ---
 Name: Alastair Roberts Counselling
-Description: UK Accredited Counsellor, Therapist and Coach. Speaks English. Offers online counselling. CBT/REBT and Schema Therapy. Private pay only.
+Description: UK-accredited counsellor
+Accepts_public_insurance: No
 Website: http://www.alastairroberts.com/
 Email: alastair.roberts@btconnect.com
 Address: Hewaldstraße 2
