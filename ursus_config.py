@@ -145,13 +145,14 @@ config.renderers += (
 )
 
 config.linters = (
+    'extensions.linters.footnotes.FootnoteLocationLinter',
+    'extensions.linters.internal_links.MarkdownInternalLinksLinter',
+    'extensions.linters.metadata.DateUpdatedLinter',
+    'extensions.linters.places.PlacesLinter',
+    'extensions.linters.wikilinks.WikilinksLinter',
+    'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
-    'extensions.linters.wikilinks.WikilinksLinter',
-    'extensions.linters.internal_links.MarkdownInternalLinksLinter',
-    'ursus.linters.markdown.MarkdownExternalLinksLinter',
-    'extensions.linters.places.PlacesLinter',
-    'extensions.linters.footnotes.FootnoteLocationLinter',
 )
 
 config.minify_js = True

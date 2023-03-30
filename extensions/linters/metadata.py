@@ -1,0 +1,12 @@
+from pathlib import Path
+from ursus.linters import RegexLinter
+import logging
+import re
+
+
+class DateUpdatedLinter(RegexLinter):
+    file_suffixes = '.md'
+    regex = re.compile(r'^date_updated:', flags=re.IGNORECASE)
+
+    def handle_match(self, file_path: Path, match: re.Match):
+        yield f"Date_updated attribute is deprecated", logging.WARNING
