@@ -112,7 +112,7 @@ In 2023, [most German banks](/guides/first-bank-account-in-germany) have monthly
 
 ### Some passports are not supported
 
-When you create your account, you must start a video chat and verify your passport. [Some passport types](/out/n26-supported-passports) are not supported. If video ID doesn't work, you must print a document and bring it to the post office. The person at the post office will verify your identity, and you will get your N26 card a few days later. The post office does not support all passport types either[^1].[^2]
+When you create your account, you must start a video chat and verify your passport. [Some passport types](/out/n26-supported-passports) are not supported. If video ID doesn't work, you must print a document and bring it to the post office. The person at the post office will verify your identity, and you will get your N26 card a few days later. The post office does not support all passport types either.[^1]
 
 If you can't open an N26 account with your passport, [these banks](/guides/first-bank-account-in-germany#german-banks-for-expats) might accept your passport.
 
@@ -231,8 +231,7 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 **[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
 
 [^0]: [docs.n26.com](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf)
-[^1]: [facebook.com](https://www.facebook.com/deutschepost/posts/1727000207317159)
-[^2]: [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](https://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)
+[^1]: [facebook.com](https://www.facebook.com/deutschepost/posts/1727000207317159), [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](https://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)
 [^3]: [n26.com](https://n26.com/en-de/security)
 [^4]: [support.n26.com](https://support.n26.com/en-de/payments-transfers-and-withdrawals/withdrawals/how-often-can-i-withdraw-cash-for-free)
 [^5]: [Wikipedia](https://de.wikipedia.org/wiki/N26_\(Direktbank\))

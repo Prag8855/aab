@@ -342,7 +342,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, the requ
 The interviewer will scan your documents page by page. Do not staple the pages together. If possible, print everything on A4 paper.
 
 - **A valid passport**  
-    Your passport must.[^51]..
+    Your passport must...[^51]
     - ...be valid for another 6 months
     - ...be issued in the last 10 years
     - ...have at least two free pages

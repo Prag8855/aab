@@ -46,7 +46,7 @@ As you can see, a 1% fee means you will retire with 20% less. **A 3% fee means y
 
 ### Inflation
 
-Things get a little more expensive each year. This is called inflation. In Europe, inflation is around 2% per year[^3]. This means that every year, you need 2% more money to buy the same things. In 30 years, your 1€ coffee will cost 1.80€.
+Things get a little more expensive each year. This is called inflation. In Europe, inflation is around 2% per year.[^3] This means that every year, you need 2% more money to buy the same things. In 30 years, your 1€ coffee will cost 1.80€.
 
 **If your investment grows slower than inflation, you are getting poorer**. The price of things grows faster than your investment. In other words, inflation is a bit like a 2% fee: it eats some of your returns.
 
@@ -61,7 +61,7 @@ German pension contributions are [tax-deductible](/glossary/steuerlich%20absetzb
 
 This is called a tax deferral. Tax deferrals allow you to pay less taxes. Here's how.
 
-If you make a lot of money, you pay a larger part of your income in taxes. If you make less money, you pay a smaller percentage[^4].
+If you make a lot of money, you pay a larger part of your income in taxes. If you make less money, you pay a smaller percentage.[^4]
 
 If you spread your income equally (the same income every year), you will pay less income tax. You also pay less for health insurance and many other things.
 
@@ -84,23 +84,23 @@ Self-employed people *can* join the public pension system, but they don't have t
 
 The *Riester-Rente* is a type of voluntary private pension.
 
-Riester pensions are not available to self-employed people[^0].
+Riester pensions are not available to self-employed people.[^0]
 
 ### Benefits of a Riester pension
 
-- You can withdraw up to 30% of your pension as a lump sum when you retire[^1].
-- The employer often contributes to your pension[^5].
+- You can withdraw up to 30% of your pension as a lump sum when you retire.[^1]
+- The employer often contributes to your pension.[^5]
 
 Disadvantages of a Riester pension
 
 ## Rürup pensions
 
-The *Rürup-Rente* or *Basisrente* is a type of voluntary private pension[^6].
+The *Rürup-Rente* or *Basisrente* is a type of voluntary private pension.[^6]
 
 Here's how they work:
 
-1. During the **savings phase** (*Ansparphase*), you put aside a the same amount every month. Those contributions are 90% tax-deductible[^2]. You can't touch your money during the savings phase.
-2. During the **payment phase** (*Rentenphase*), you receive a fixed amount of money every month[^5]. You pay income tax on the pension payments. The payment phase starts when you are 67 years old, and it ends when you die. You can start earlier, at 62 years old, but you will receive less money each month. You can't withdraw the money all at once.
+1. During the **savings phase** (*Ansparphase*), you put aside a the same amount every month. Those contributions are 90% tax-deductible.[^2] You can't touch your money during the savings phase.
+2. During the **payment phase** (*Rentenphase*), you receive a fixed amount of money every month.[^5] You pay income tax on the pension payments. The payment phase starts when you are 67 years old, and it ends when you die. You can start earlier, at 62 years old, but you will receive less money each month. You can't withdraw the money all at once.
 
 For example, you save 500€ a month from 27 to 67 years old (the *Ansparphase*). Then you receive 2000€ a month from 67 years old until you die (the *Rentenphase*). These are just example numbers.
 
@@ -113,10 +113,10 @@ Some pension plans manage the money for you. Others let you choose how it's inve
 ### Disadvantages of a Rürup pension
 
 - During the savings phase, you can't touch the money. For example, you can't withdraw the money to buy a house.
-- During the payment phase, you get a fixed amount every month[^5]. You can't withdraw the money all at once.
+- During the payment phase, you get a fixed amount every month.[^5] You can't withdraw the money all at once.
 - Some pensions have very high fees. Those fees can eat half of your investment.
 
-Rürup pensions can't be inherited[^7]. If you die during the payments phase, a certain percentage can go to your spouse or children.
+Rürup pensions can't be inherited.[^7] If you die during the payments phase, a certain percentage can go to your spouse or children.
 
 Open questions:
 

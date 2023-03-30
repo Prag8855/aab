@@ -22,9 +22,9 @@ This guide shows you how to get tested for sexually transmitted diseases (*sexue
     - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)** - English and German
     - **[Viropraxis](https://www.viropraxis.de/)** - English, Spanish and German
 - **At home**  
-    [s.a.m. health](https://samhealth.de/?locale=en) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs 59€ the first time, then 49€[^0].
+    [s.a.m. health](https://samhealth.de/?locale=en) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs 59€ the first time, then 49€.[^0]
 - **[Zentrum für sexuelle Gesundheit](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)** of the Gesundheitsamt - English, German and other languages  
-    HIV tests for 10€. If you have a low income, it's free[^1]. They don't have general STI tests. There are [4 locations in Berlin](https://www.google.com/maps/search/Zentrum+für+sexuelle+Gesundheit/@52.5947073,13.3052094,11z/). They speak English[^2].
+    HIV tests for 10€. If you have a low income, it's free.[^1] They don't have general STI tests. There are [4 locations in Berlin](https://www.google.com/maps/search/Zentrum+für+sexuelle+Gesundheit/@52.5947073,13.3052094,11z/). They speak English.[^2]
 - **[Berlin Aids-Hilfe](https://www.berlin-aidshilfe.de/angebote/test-angebote/)** - German  
     General STI test for 25€.
 - **[Mann-o-meter](https://www.mann-o-meter.de/angebote/tests-auf-hiv-und-andere-stis)** - German   
@@ -39,7 +39,7 @@ If the test is not covered by your health insurance, it costs **between 10€ an
 **Sometimes**. If you have symptoms, the test is usually covered. Routine tests are rarely covered.
 
 - **If you have public health insurance**  
-    Public health insurance only pays for the test if you have symptoms, or a good reason to think you are infected[^3]. It does not pay for routine tests. Women under 26 years old can get one free Chlamydia test per year[^4].
+    Public health insurance only pays for the test if you have symptoms, or a good reason to think you are infected.[^3] It does not pay for routine tests. Women under 26 years old can get one free Chlamydia test per year.[^4]
 - **If you have private health insurance**  
     Some private health insurances pay for STI tests. You pay for the test yourself, and your insurance sometimes reimburse you. It depends on the insurance policy. Ask your private health insurer.
 - **If you have travel or expat insurance**  

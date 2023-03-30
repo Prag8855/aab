@@ -305,7 +305,7 @@ If you already have an entry in the trade register (*[[Handelsregister]]*), fill
     - Freelancers (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) don't need to be in the *Handelsregister*.[^2]
     - Small businesses (*[[Kleinunternehmer]]*) don't need to be in the *Handelsregister*,[^2] but they can choose to be.
     - Being in the *Handelsregister* forces you to use double entry bookkeeping.[^8] This can make things really complicated for a small business or freelancer.
-    - If you are a *Gesellschaft bürgerlichen Rechts*, a company constituted under civil law, you don't need to be listed in the *Handelsregister*[^9].[^18]
+    - If you are a *Gesellschaft bürgerlichen Rechts*, a company constituted under civil law, you don't need to be listed in the *Handelsregister*.[^9]
 - **Eine Eintragung ist erfolgt** - Registration is already done  
     Choose "Ja" if you already have an entry in the trade register. If this is a new business, choose "Nein".
 - **Der Handelsregistereintrag besteht seit** - The trade register entry exists since...  
@@ -612,7 +612,7 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 [^6]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad)
 [^7]: [formulare-bfinv.de](https://www.formulare-bfinv.de/ffw/resources/9858611CB50017037213/form/Ausfuellhilfe_2016.pdf)
 [^8]: [wilhelm-data.de](http://www.wilhelm-data.de/cm/docs/Steuererfassung.pdf)
-[^9]: [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/brauche-ich-einen-handelsregistereintrag/)
+[^9]: [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/brauche-ich-einen-handelsregistereintrag/), [dict.cc](https://www.dict.cc/?s=Gesellschaft+b%C3%BCrgerlichen+Rechts)
 [^10]: [berlin.de (archived)](https://web.archive.org/web/20160502035209/https://berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/betriebseroeffnung-betriebseinstellung/ausf__llhilfe_selbst__ndige_t__tigkeit_beteiligung_persges.pdf)
 [^11]: [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
 [^12]: [economywatch.com](https://www.economywatch.com/)
@@ -621,5 +621,4 @@ You must [tell your health insurer](/guides/start-a-business-in-germany#step-8-t
 [^15]: [steuerlinks.de](http://web.archive.org/web/20210921150926/http://www.steuerlinks.de/richtlinie/ustae/abs3a.12..html)
 [^16]: [iamexpat.de](https://www.iamexpat.de/expat-info/taxation-germany/elster-german-online-tax-office)
 [^17]: [firma.de](https://www.firma.de/firmengruendung/wer-muss-kein-gewerbe-anmelden/#:~:text=In%20Deutschland%20gilt%20die%20Gewerbefreiheit,und%20in%20eigener%20Verantwortung%20arbeitet.)
-[^18]: [dict.cc](https://www.dict.cc/?s=Gesellschaft+b%C3%BCrgerlichen+Rechts)
 [^19]: Seamus Wolf on [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_how-being-a-kleinunternehmer-works-activity-7040950109177589761-kH44/)

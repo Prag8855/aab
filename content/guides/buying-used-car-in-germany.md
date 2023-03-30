@@ -163,7 +163,7 @@ When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these document
 - **Your [Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)**  
     If your ID does not show your address, you must bring your *[Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)*.
 - **Money for the registration fee**  
-    The registration fee is 19.60€ to 31.50€.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash[^9].[^11]
+    The registration fee is 19.60€ to 31.50€.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash.[^9]
 - **Money for a new plate**  
     If necessary, bring an extra 15€ to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
 - **The filled vehicle registration form**  
@@ -229,4 +229,3 @@ If you sell your car, you can end your insurance contract immediately. You do no
 [^8]: [berlin.de](https://service.berlin.de/dienstleistung/120906/)
 [^9]: [berlin.de](https://service.berlin.de/dienstleistung/120906/standort/121362/)
 [^10]: [financescout24.de](https://www.financescout24.de/wissen/ratgeber/versicherungskennzeichen-roller)
-[^11]: [berlin.de](https://service.berlin.de/dienstleistung/120906/standort/121364/)

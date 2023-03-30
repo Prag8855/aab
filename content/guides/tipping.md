@@ -31,7 +31,7 @@ People rarely tip in fast food restaurants like McDonalds or Burger King.[^16]
 
 ### Where does your tip go?
 
-This depends on the restaurant. Sometimes, it goes directly to your waiter. Sometimes, it's shared between waiters and kitchen staff. The restaurant owner can't keep the tip; it belongs to the staff[^7].
+This depends on the restaurant. Sometimes, it goes directly to your waiter. Sometimes, it's shared between waiters and kitchen staff. The restaurant owner can't keep the tip; it belongs to the staff.[^7]
 
 When the tip goes directly to the employee, it's not taxed. If it's shared between employees, it's taxed. If you tip the owner, it's taxed.[^22]
 
@@ -47,13 +47,13 @@ When there is no table service, tipping is not expected.[^23]
 
 ### Food delivery
 
-Tipping is optional. People often tip **0.50€ to 2€**[^8]. When the weather is really bad, people sometimes give more.
+Tipping is optional. People often tip **0.50€ to 2€**.[^8] When the weather is really bad, people sometimes give more.
 
-**Tip the driver directly, in cash**[^9]. When you tip in the delivery app, the money sometimes goes to the restaurant. Some restaurants don't give the tips to their drivers[^10].
+**Tip the driver directly, in cash**.[^9] When you tip in the delivery app, the money sometimes goes to the restaurant. Some restaurants don't give the tips to their drivers.[^10]
 
 ### Mail and packages
 
-People rarely tip postal workers[^11]. Some people tip on Christmas or New Year, but it's not common. Others also leave sweets for postal workers on special days.
+People rarely tip postal workers.[^11] Some people tip on Christmas or New Year, but it's not common. Others also leave sweets for postal workers on special days.
 
 ## Tipping taxi drivers
 

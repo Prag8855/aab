@@ -21,7 +21,7 @@ The *[Mietkaution](/glossary/Kaution)* is **maximum 3 times the [cold rent](/glo
 
 ## When to pay the Kaution
 
-You must pay 1/3 of your deposit **before your lease starts**[^2]. You don't need to pay immediately after you sign the lease. You can wait until the day before you [move in](/guides/moving-in).
+You must pay 1/3 of your deposit **before your lease starts**.[^2] You don't need to pay immediately after you sign the lease. You can wait until the day before you [move in](/guides/moving-in).
 
 Some landlords don't know this, and want the deposit sooner. They can't force you to pay sooner. If you already signed a contract, they can't do anything.
 

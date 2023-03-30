@@ -22,7 +22,7 @@ Some business bank accounts extra features:
 
 ### Personal accounts are not for business
 
-N26[^0], bunq[^1], and many other banks don't let you to use your personal bank account for your business[^2]. If you do this, the bank can close your account, because you don't follow their [terms of service](/glossary/AGB)[^3].
+N26[^0], bunq[^1], and many other banks don't let you to use your personal bank account for your business.[^2] If you do this, the bank can close your account, because you don't follow their [terms of service](/glossary/AGB).[^3]
 
 ### It makes bookkeeping easier
 
@@ -32,7 +32,7 @@ If you connect your bank account to your bookkeeping software, you only see busi
 
 ### It's sometimes required
 
-If you have a corporation or limited liability company (*GmbH*, *UG*, *AG* or *KGaA*), you *must* have a separate bank account for your business[^4].
+If you have a corporation or limited liability company (*GmbH*, *UG*, *AG* or *KGaA*), you *must* have a separate bank account for your business.[^4]
 
 Freelancers and sole proprietors do not need a business bank account[^5], but it's still a good idea.
 
@@ -91,7 +91,7 @@ If possible, choose a bank with low fees.
 
 ### German IBAN
 
-Some banks will give you an IBAN in another EU country. IBAN discrimination is illegal, but it happens[^6]. Some clients might also wonder why your bank is in another country.
+Some banks will give you an IBAN in another EU country. IBAN discrimination is illegal, but it happens.[^6] Some clients might also wonder why your bank is in another country.
 
 These banks give you a German IBAN:
 
@@ -116,7 +116,7 @@ Most banks come with a MasterCard or Visa card. If you have employees, choose a 
 
 ### Cash and coin payments
 
-Some online banks only accept card payments and bank transfers[^7]. Some banks also charge high fees to deposit coins[^8]. If you accept payments in cash, choose a bank that lets you deposit money easily.
+Some online banks only accept card payments and bank transfers.[^7] Some banks also charge high fees to deposit coins.[^8] If you accept payments in cash, choose a bank that lets you deposit money easily.
 
 - Kontist - There is no way to deposit cash
 - N26 Business - Cash N26?

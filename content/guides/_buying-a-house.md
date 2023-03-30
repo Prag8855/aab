@@ -41,7 +41,7 @@ When you buy a house, you must also pay various fees (*Kaufnebenkosten*):
 - Land registry transfer (*Grundbucheintrag*) - 2% of the purchase price
 - Notary fees - 2% of the purchase price[^0]
 
-In total, expect to pay around 12% of the house price in fees[^1]. This money is gone. If you sell the house, you will not get that money back.
+In total, expect to pay around 12% of the house price in fees.[^1] This money is gone. If you sell the house, you will not get that money back.
 
 ### Owning the house
 
@@ -52,7 +52,7 @@ Your mortgage (*Hypothek*) is not the only thing you must pay. You will always n
 - **Trash collection** (*Müllabfuhr*)  
     350€ per year, on average[^2]
 - **Water and sewer usage** (*Wasserkosten* and *Abwasserkosten*)  
-    600€ per year for 2 people, on average[^3]. 1200€ for 4 people, on average[^4]. It depends on how much water you use.
+    600€ per year for 2 people, on average.[^3] 1200€ for 4 people, on average.[^4] It depends on how much water you use.
 - **Electricity and gas bills** (*[[Nebenkosten]]*)
 - **Property tax** (*Grundsteuer*)  
     The property tax is 0.26% to 1% of the value of the property, every year.
@@ -71,7 +71,7 @@ You also need to do all the maintenance around the house. The cost of maintenanc
 
 It's also your responsibility to remove snow from the sidewalk.
 
-For the first few decades after new houses are built, the owners are liable to pay for building/maintaining the streets around the house. The city can decide to repair the street just before this period ends. It's a very expensive, very sudden cost. It can be well over 10000€[^9].
+For the first few decades after new houses are built, the owners are liable to pay for building/maintaining the streets around the house. The city can decide to repair the street just before this period ends. It's a very expensive, very sudden cost. It can be well over 10000€.[^9]
 
 ## How much can I afford?
 
@@ -91,9 +91,9 @@ See the ["renting vs buying"](/guides/buying-a-house#renting-vs-buying-in-german
 
 ### Buying an apartment to rent it
 
-If you buy an apartment to rent it, you probably won't make a lot of money. The annual returns on real estate are very low[^5]. 50% of landlords earn less than 2% per year. 8.5% of landlords lose money. Only 18% of landlords earn more than 5%. This is very low compared to other forms of investment.
+If you buy an apartment to rent it, you probably won't make a lot of money. The annual returns on real estate are very low.[^5] 50% of landlords earn less than 2% per year. 8.5% of landlords lose money. Only 18% of landlords earn more than 5%. This is very low compared to other forms of investment.
 
-You must also pay [income tax](/glossary/Einkommensteuer) on your rental income, but [some expenses](https://www.reddit.com/r/germany/comments/a7enb2/how_much_tax_does_a_landlord_have_to_pay_annually/) are tax-deductible[^6].
+You must also pay [income tax](/glossary/Einkommensteuer) on your rental income, but [some expenses](https://www.reddit.com/r/germany/comments/a7enb2/how_much_tax_does_a_landlord_have_to_pay_annually/) are tax-deductible.[^6]
 
 Being a landlord is also a lot of work[^6]:
 
@@ -105,7 +105,7 @@ You must find and vet tenants, do a lot of paperwork when they move in and out, 
 
 ### Buying an apartment to resell it
 
-House flipping is not common in Germany, because the taxes and fees are too high. If you resell a house within 10 years, you will pay a 25% speculation tax (*Spekulationssteuer*) on the profit[^7]. If you live in that house, you only pay the *Spekulationssteuer* if you resell in the first 2 years.
+House flipping is not common in Germany, because the taxes and fees are too high. If you resell a house within 10 years, you will pay a 25% speculation tax (*Spekulationssteuer*) on the profit.[^7] If you live in that house, you only pay the *Spekulationssteuer* if you resell in the first 2 years.
 
 [https://www.financescout24.de/...](https://www.financescout24.de/wissen/ratgeber/spekulationssteuer)
 
@@ -116,7 +116,7 @@ House flipping is not common in Germany, because the taxes and fees are too high
 
 ## The down payment
 
-In Germany, the down payment for a house is 10 to 20% of the cost of the property[^10].
+In Germany, the down payment for a house is 10 to 20% of the cost of the property.[^10]
 
 You will also need
 
@@ -138,7 +138,7 @@ Building your own house
 
 Do you need to be a German resident/citizen?
 
-No[^11]. It might be more difficult to get money from the bank. The interest rate could be higher?
+No.[^11] It might be more difficult to get money from the bank. The interest rate could be higher?
 
 Risk of interest rates rising
 
