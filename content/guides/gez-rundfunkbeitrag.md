@@ -1,7 +1,7 @@
 ---
 Title: What is the German TV tax (Rundfunkbeitrag)?
 Short_title: What is the TV tax (Rundfunkbeitrag)?
-Description: Why are you receiving this 55.08€ bill, and what can you do about it? Here's everything you need to know about the Rundfunkbeitrag
+Description: The TV tax is a broadcasting tax that every German household must pay. Here is how it works.
 Date_created: 2017-10-10
 ---
 
