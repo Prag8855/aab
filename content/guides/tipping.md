@@ -1,7 +1,7 @@
 ---
 Title: How to tip in Germany
 Short_title: How to tip in Germany
-Description: This guide tells how tipping works in German restaurants, bars, taxis, hairdressers and more. It explains when to leave a tip, and how much you should tip.
+Description: This guide tells how tipping works in German restaurants, bars, taxis, hair salons and more. It explains when to leave a tip, and how much you should tip.
 Date_created: 2023-03-14
 ---
 
@@ -61,11 +61,11 @@ Half of Germans tip in taxis.[^18] You can round the amount up or give 10%, like
 
 ## Tipping barbers and hairdressers
 
-Tipping is optional. If you are happy with your haircut, you can tip 5% to 10% of the amount[^12].
+Tipping is optional. Around half of customers tip. If you are happy with your haircut, you can tip 5% to 10% of the amount.[^12]
 
 ## Tipping in hotels
 
-People rarely leave a tip in hotel rooms. It's not expected. You can leave a few Euros in your room for the cleaning staff, if you choose to[^13].
+People rarely leave a tip in hotel rooms. It's not expected. You can leave a few Euros in your room for the cleaning staff, if you choose to.[^13]
 
 When you order room service, you can tip 1€ or 2€.[^21]
 
@@ -105,7 +105,7 @@ It's better if you pay by card, but tip in cash.[^20]
 [^9]: [youtu.be](https://youtu.be/t9LJJBEBjIY?t=222), [old.reddit.com](https://old.reddit.com/r/de/comments/h7kniu/lieferando_trinkgeld/), [old.reddit.com](https://old.reddit.com/r/de/comments/kruura/kommt_das_digitale_lieferandotrinkgeld_bei_den/gic4sux/)
 [^10]: [chip.de](https://www.chip.de/news/Was-passiert-mit-dem-Trinkgeld-der-Kunden-Lieferando-nach-Enthuellungen-in-der-Kritik_182845033.html), [lieferando.de](https://www.lieferando.de/en/customerservice/article/how-can-i-tip-the-courier), [old.reddit.com](https://old.reddit.com/r/germany/comments/ucckm0/dont_give_tips_through_lieferando_to_dominos/)
 [^11]: [nordbayern.de](https://www.nordbayern.de/ratgeber/geld/trinkgeld-geben-taxi-hotel-restaurant-1.12202633), [old.reddit.com](https://old.reddit.com/r/Finanzen/comments/ss6w2k/wie_viel_trinkgeld_gebt_ihr/hwwnzgw/)
-[^12]: [reddit.com](https://www.reddit.com/r/berlin/comments/3cnk5v/tipping_barbers/), [karlsruhe-insider.de](https://www.karlsruhe-insider.de/verbraucher/gehoert-sich-so-so-viel-trinkgeld-wird-beim-friseur-erwartet-120058), [welt.de](https://www.welt.de/iconist/service/article242391869/Wie-viel-Trinkgeld-Ein-Leitfaden-fuer-Friseur-Paketbote-und-Co.html)
+[^12]: [reddit.com](https://www.reddit.com/r/berlin/comments/3cnk5v/tipping_barbers/), [karlsruhe-insider.de](https://www.karlsruhe-insider.de/verbraucher/gehoert-sich-so-so-viel-trinkgeld-wird-beim-friseur-erwartet-120058), [welt.de](https://www.welt.de/iconist/service/article242391869/Wie-viel-Trinkgeld-Ein-Leitfaden-fuer-Friseur-Paketbote-und-Co.html), Santiago Lobo at [Renasanz Salon](https://renasanzsalon.com/)
 [^13]: [reddit.com](https://www.reddit.com/r/germany/comments/3xtrql/tipping_in_german_hotels/)
 [^14]: [Wikipedia](https://en.wikipedia.org/wiki/Gratuity#Germany), [reddit.com](https://www.reddit.com/r/germany/comments/flzz9/comment/c1h07rf/), [reddit.com](https://www.reddit.com/r/berlin/comments/20t6bx/comment/cg6jubf/), [youtu.be](https://youtu.be/zdt9ynYStX8?t=132)
 [^15]: [dict.cc](https://www.dict.cc/?s=stimmt%20so)
