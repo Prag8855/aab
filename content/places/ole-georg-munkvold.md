@@ -1,6 +1,7 @@
 ---
 Name: Dr. Ole Georg Munkvold
-Description: Psychiatrist, accepts public insurance
+Accepts_public: Yes
+Accepts_private: Yes
 Website: https://www.mvz-giesebrechtstrasse.de/
 Email: 
 Address: Giesebrechtstraße 13

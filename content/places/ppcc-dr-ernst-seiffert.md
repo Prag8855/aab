@@ -1,6 +1,8 @@
 ---
 Name: PPCC - Dr. Ernst Seiffert
-Description: Psychiatrist, speaks English, Italian and Spanish, private patients only
+Description: Speaks English, Italian and Spanish
+Accepts_public: No
+Accepts_private: Yes
 Website: http://www.ppcc-berlin.de/
 Email: 
 Address: Tempelhofer Damm 129

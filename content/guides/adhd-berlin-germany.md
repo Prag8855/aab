@@ -17,14 +17,14 @@ If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherun
 
 If you have [private health insurance](/glossary/private%20Krankenversicherung), it's easier to find a psychiatrist and get an appointment.
 
-**[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-psychotherapists-berlin)**
+**[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
 ## Getting diagnosed for ADHD
 
 To get diagnosed for ADHD, you must:
 
 1. **Find a psychiatrist**  
-    If you can, choose a psychiatrist that specialises in ADHD. They are harder to find. - [List of English-speaking psychiatrists](/guides/english-speaking-psychiatrists-psychotherapists-berlin)
+    If you can, choose a psychiatrist that specialises in ADHD. They are harder to find. - [English-speaking psychiatrists in Berlin](/guides/english-speaking-psychiatrists-berlin)
 2. **Book an appointment**  
     This can be hard. Many psychiatrists don't accept new patients. Your appointment might be in a few weeks.
 3. **Take an ADHD diagnosis test**  
@@ -42,7 +42,7 @@ These Berlin psychiatrists speak English and diagnose people with ADHD:
 - [Charité Outpatient Center for Adult ADHD](https://psychiatrie.charite.de/en/department/ambulanzbereich/outpatient_center_for_adult_adhd/) - very hard to get an appointment
 - [Dr. med. Susanne Finke](https://privatpraxis-psychiatrie-berlin.de/) - no public health insurance
 
-**[More English-speaking psychiatrists ➞](/guides/english-speaking-psychiatrists-psychotherapists-berlin)**
+**[More English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
 ## The ADHD treatment process
 
@@ -52,7 +52,7 @@ This is the process that I followed. Your experience could be different.
 
 During your first appointment, your psychiatrist will see if you have ADHD, and how it affects your life. They will decide if you need therapy or medication for it.
 
- **Your psychiatrist will only prescribe ADHD medication if it's necessary.** German doctors are very careful about prescribing medication. They might want to try therapy and other methods first. Medication has side effects, so they try softer approaches first. You might find this frustrating, but you must be patient.
+**Your psychiatrist will only prescribe ADHD medication if it's necessary.** German doctors are very careful about prescribing medication. They might want to try therapy and other methods first. Medication has side effects, so they try softer approaches first. You might find this frustrating, but you must be patient.
 
 They might measure your brain activity with an [Electroencephalogram](https://www.nhs.uk/conditions/electroencephalogram/) (EEG). Not all psychiatrists do it.
 
@@ -64,7 +64,7 @@ During your first or second visit, you will get a prescription (*Rezept*). Bring
 
 You will probably get a low dose of Medikinet (Ritalin); usually 5 to 10 mg. Your psychiatrist will teach you how to take the medicine and explain its side effects to you.
 
-You should not feel a big difference yet. 5 to 10mg is a very small dose of Medikinet or Ritalin. **You might experience nausea and and upset stomach** while your body adjusts to the medication. It felt like a mild hangover that lasted until lunch. I felt a bit of euphoria, like if I had a *really* strong coffee. If you don't feel any big improvements yet, it's normal. If you feel big improvements, don't get too excited. Your body is adjusting to the drug.
+You should not feel a big difference yet. 5 to 10 mg is a very small dose of Medikinet or Ritalin. **You might experience nausea and and upset stomach** while your body adjusts to the medication. It felt like a mild hangover that lasted until lunch. I felt a bit of euphoria, like if I had a *really* strong coffee. If you don't feel any big improvements yet, it's normal. If you feel big improvements, don't get too excited. Your body is adjusting to the drug.
 
 Keep a journal of how you feel. It helps your psychiatrist adjust your medication.
 

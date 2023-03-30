@@ -1,6 +1,7 @@
 ---
 Name: Frau Dr. med. Cordula Dietrich
-Description: Psychiatrist, accepts public insurance
+Accepts_public: Yes
+Accepts_private: Yes
 Website: http://www.corduladietrich.de/
 Email: 
 Address: Käthe-Niederkirchner-Straße 5

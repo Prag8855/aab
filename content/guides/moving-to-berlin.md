@@ -179,13 +179,14 @@ After you settle in Berlin, get familiar with German culture:
 
 If you don't speak German, you can still get help in English:
 
-- [English-speaking doctors and GPs in Berlin](/guides/english-speaking-doctors-berlin)
-- [English-speaking psychiatrists and psychotherapists in Berlin](/guides/english-speaking-psychiatrists-psychotherapists-berlin)
-- [English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin)
-- [English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin)
-- [English-speaking dentists in Berlin](/guides/list-of-english-speaking-dentists-in-berlin)
-- [English-speaking barbers and hair salons in Berlin](/guides/hairdressers-hairstylists-barbers-berlin)
-- [English-speaking gynaecologists in Berlin](/guides/english-speaking-gynecologists-berlin)
+- [English-speaking **doctors** and GPs in Berlin](/guides/english-speaking-doctors-berlin)
+- [English-speaking **psychotherapists** in Berlin](/guides/english-speaking-psychotherapists-berlin)
+- [English-speaking **psychiatrists** in Berlin](/guides/english-speaking-psychiatrists-berlin)
+- [English-speaking **tax advisors** in Berlin](/guides/english-speaking-steuerberater-berlin)
+- [English-speaking **lawyers** in Berlin](/guides/english-speaking-lawyers-berlin)
+- [English-speaking **dentists** in Berlin](/guides/list-of-english-speaking-dentists-in-berlin)
+- [English-speaking **barbers** and hair salons in Berlin](/guides/hairdressers-hairstylists-barbers-berlin)
+- [English-speaking **gynaecologists** in Berlin](/guides/english-speaking-gynecologists-berlin)
 
 ## A new life in Germany
 

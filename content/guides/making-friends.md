@@ -19,7 +19,7 @@ If you don't speak German, social interactions can be pretty stressful. Even boo
 
 Many Germans speak English, but it's not always easy for them. If they appear rude or impatient, don't be so quick to judge them. They make an effort so you don't have to. It can be just as difficult and embarrassing for them to speak another language. Once you learn German, the locals are *much* nicer to you.
 
-If you need psychological support, have a look at [our list of English-speaking psychotherapists](/guides/english-speaking-psychiatrists-psychotherapists-berlin).
+If you need psychological support, see my [list of English-speaking psychotherapists](/guides/english-speaking-psychotherapists-berlin).
 
 ## Find your diaspora
 

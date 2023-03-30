@@ -1,7 +1,8 @@
 ---
-Name: Annette Kreutz Fachärztin f.Psychosomat.Med. und Kinderheilkunde
-Description: Psychiatrist
-Website: 
+Name: Dr. Annette Kreutz
+Accepts_public: No
+Accepts_private: Yes
+Website: https://www.jameda.de/annette-kreutz/arzt/berlin
 Email: 
 Address: Holsteiner Ufer 18
 Latitude: 52.522085

@@ -1,6 +1,8 @@
 ---
 Name: Dr. med. Anne Kleiber
-Description: Psychiatrist, speaks English and Russian
+Description: Speaks English and Russian
+Accepts_public: Yes
+Accepts_private: Yes
 Website: https://www.jameda.de/berlin/aerzte/neurologen-nervenaerzte/dr-anne-kleiber/uebersicht/80404074_1/
 Email: 
 Address: Frieda-Arnheim-Promenade 14

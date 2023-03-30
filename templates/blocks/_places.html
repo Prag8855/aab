@@ -15,7 +15,9 @@
 				</h4>
 				<address><a href="https://www.google.com/maps/search/{{ place.name|urlencode }}/@{{ place.latitude }},{{ place.longitude }}" target="_blank" title="View on Google Maps">{{ place.address }}</a></address>
 			</div>
-			<p>{{ place.description }}</p>
+			{%- if place.description|default -%}
+				<p>{{ place.description }}</p>
+			{%- endif -%}
 		</li>
 		{% endfor %}
 	</ol>

@@ -37,9 +37,11 @@ Call the poison control centre of Charité at **[+49 30 19240](tel:+493019240)**
 
 ## Mental health
 
-Call **[Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)**. They speak English. This is a free service.
+Call the **[Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)**. They speak English. This is a free service.
 
-**[English-speaking psychiatrists and therapists ➞](/guides/english-speaking-psychiatrists-psychotherapists-berlin)**
+**[English-speaking psychotherapists in Berlin ➞](/guides/english-speaking-psychotherapists-berlin)**
+
+**[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
 ## Drugs and addiction: +49 30 19237
 

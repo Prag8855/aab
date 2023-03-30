@@ -66,7 +66,7 @@ If you speak German, these communities can also help you
 
 - **Tenant association** (*[[Mieterverein]]*)  
     You must be a member. It costs around 4€ to 10€ per month. They usually speak English. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin.
-- [**Tenant counsel**](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php) (*Mieterberatung*)  
+- **[Tenant counsel](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)** (*Mieterberatung*)  
     There are [dozens of locations in Berlin](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). You can contact them and ask questions. This is a free service from the city of Berlin. They might not speak English.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), you can get their advice for free. If not, a lawyer costs around 200€ per hour.
@@ -80,9 +80,10 @@ If you speak German, these communities can also help you
 ## Medical questions
 
 - [How to find English-speaking medical professionals in Berlin](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)
-- [List of English-speaking doctors and GPs in Berlin](/guides/english-speaking-doctors-berlin)
-- [List of English-speaking dentists in Berlin](/guides/list-of-english-speaking-dentists-in-berlin)
-- [List of English-speaking psychiatrists and psychotherapists in Berlin](/guides/english-speaking-psychiatrists-psychotherapists-berlin)
+- [List of English-speaking **doctors** and GPs in Berlin](/guides/english-speaking-doctors-berlin)
+- [List of English-speaking **dentists** in Berlin](/guides/list-of-english-speaking-dentists-in-berlin)
+- [List of English-speaking **psychiatrists** in Berlin](/guides/english-speaking-psychiatrists-berlin)
+- [List of English-speaking **psychotherapists** in Berlin](/guides/english-speaking-psychotherapists-berlin)
 
 ## Legal questions
 

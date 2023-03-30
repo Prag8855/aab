@@ -1,6 +1,8 @@
 ---
 Name: Dr. med. Nikolaos Rigas
-Description: Psychiatrist, speaks English and Greek
+Description: Speaks English and Greek
+Accepts_public: Yes
+Accepts_private: Yes
 Website: https://www.dr-rigas.de/
 Email: 
 Address: Paulsborner Straße 3 Ecke, Brandenburgische Str.

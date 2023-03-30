@@ -18,11 +18,12 @@ This guide helps you find a doctor that speaks English.
 
 ## English-speaking dentists
 
-- [English-speaking dentists in Berlin](/guides/list-of-english-speaking-dentists-in-berlin) - My own list
+- [English-speaking **dentists** in Berlin](/guides/list-of-english-speaking-dentists-in-berlin) - My own list
 
 ## English-speaking therapists and psychiatrists
 
-- [List of English-speaking psychotherapists and psychiatrists in Berlin](/guides/english-speaking-psychiatrists-psychotherapists-berlin) - My own list
+- [English-speaking **psychotherapists** in Berlin](/guides/english-speaking-psychotherapists-berlin) - My own list
+- [English-speaking **psychiatrists** in Berlin](/guides/english-speaking-psychiatrists-berlin) - My own list
 - [Therapie.de directory](https://www.therapie.de/therapeutensuche/ergebnisse/?ort=Berlin) - Lets you filter by language
 - [ACTBerlin's therapist directory](https://www.actberlin.info/therapist-directory.html) - Languages are listed for each therapist
 

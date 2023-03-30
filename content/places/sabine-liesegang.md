@@ -1,7 +1,9 @@
 ---
 Name: Sabine Liesegang
-Description: Psychiatrist, speaks English and Russian
-Website: 
+Description: Speaks English and Russian
+Accepts_public: Yes
+Accepts_private: Yes
+Website: https://www.jameda.de/sabine-liesegang/facharzt-fuer-psychiatrie-psychotherapie/berlin
 Email: 
 Address: Berliner Str. 6
 Latitude: 52.588619

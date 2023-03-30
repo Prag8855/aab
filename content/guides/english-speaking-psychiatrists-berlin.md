@@ -1,0 +1,65 @@
+---
+Title: List of English-speaking psychiatrists and psychotherapists in Berlin
+Short_title: English-speaking psychotherapists
+Description: A list of psychiatrists who speak English, and how to find a psychiatrist who accepts public health insurance.
+Date_created: 2023-03-30
+Related_places:
+    places/ppcc-dr-ernst-seiffert.md
+    places/frau-dr-med-christine-riegel.md
+    places/praxis-für-psychiatrie-und-psychotherapie-gaby-weuthen.md
+    places/dr-med-cordula-dietrich.md
+    places/sabine-liesegang.md
+    places/dr-köller.md
+    places/annette-kreutz-fachärztin-f-psychosomat-med-und-kinderheilkunde.md
+    places/elke-hillemann.md
+    places/dr-med-gerhard-perchalla.md
+    places/dr-nicolaus-rigas.md
+    places/dr-med-anne-kleiber.md
+    places/ole-georg-munkvold.md
+    places/ursula-bartholomew-günther.md
+    places/privatpraxis-dima-salloum.md
+    places/psychiatrie-am-sterndamm.md
+    places/praxis-dr-scherf-kollegen.md
+    places/praxis-dr-mungee.md
+---
+
+This guide explains:
+
+- How to find an English-speaking psychiatrist
+- The difference between psychiatrists and psychotherapists
+
+**[Go to the list of psychiatrists ↓](#places-map)**
+
+{% include "blocks/_tableOfContents.html" %}
+
+## Psychiatrist or psychotherapist?
+
+**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. Some can also give therapy.[^1]
+
+**Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems. They can't prescribe medication.[^2]
+
+## How hard is it to find a psychiatrist?
+
+It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with private health insurance.
+
+## Other lists of psychiatrists
+
+These directories help you find English-speaking psychiatrists:
+
+- **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find doctors who accept public health insurance, with language filters
+- **[Doctolib](https://www.doctolib.de/)** - Find doctors and therapists by language
+- [Doctena](https://www.doctena.de/en/) - Find doctors and therapists by language
+
+**[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
+
+## Other resources
+
+**Your employer and your university** might give you access to psychotherapy. It could be easier than finding a therapist yourself.
+
+**[List of mental health resources ➞](/guides/english-speaking-psychotherapists-berlin#other-resources)**
+
+## List of English-speaking psychiatrists
+
+[^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
+[^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)
+[^2]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [karriere.de](https://www.karriere.de/studium/unterschied-psychologe-psychotherapeut-psychiater/)

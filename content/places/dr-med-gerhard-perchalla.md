@@ -1,6 +1,7 @@
 ---
 Name: Dr. med. Gerhard Perchalla
-Description: Psychiatrist, accepts public insurance
+Accepts_public: Yes
+Accepts_private: Yes
 Website: http://www.dr-perchalla.com/
 Email: 
 Address: Knesebeckstraße 74

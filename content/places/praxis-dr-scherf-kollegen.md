@@ -1,6 +1,8 @@
 ---
 Name: Praxis Dr. Gerrit Scherf & Kollegen
-Description: Psychiatrist. Speaks English, German and French. Specialises in ADHD and autism. Public insurance, private insurance and self-pay accepted.
+Description: Speaks English, German and French. Specialises in ADHD and autism
+Accepts_public: Yes
+Accepts_private: Yes
 Website: https://www.psychiatrie-potsdam.de/
 Email: kontakt@praxis-scherf.de
 Address: Zeppelinstraße 37, 14471 Potsdam

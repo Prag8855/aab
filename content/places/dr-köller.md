@@ -1,8 +1,9 @@
 ---
 Name: Dr. Köller
-Description: Psychiatrist
+Accepts_public: Yes
+Accepts_private: Yes
 Website: http://www.praxiskoeller.de/
-Email: 
+Email: info@praxiskoeller.de
 Address: Esmarchstraße 19
 Latitude: 52.53278
 Longitude: 13.432052

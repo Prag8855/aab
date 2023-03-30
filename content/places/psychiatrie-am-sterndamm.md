@@ -1,6 +1,8 @@
 ---
 Name: Beata Jedykiewicz-Riecker - Psychiatrie am Sterndamm
-Description: Psychiatrist. Speaks German and English. Public insurance, private insurance and self-pay accepted.
+Description: Speaks German and English.
+Accepts_public: Yes
+Accepts_private: Yes
 Website: https://psychiatrie-am-sterndamm.com/
 Email: l.andrychowicz@web.de
 Address: Sterndamm 9
