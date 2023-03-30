@@ -151,6 +151,7 @@ config.linters = (
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'extensions.linters.places.PlacesLinter',
+    'extensions.linters.footnotes.FootnoteLocationLinter',
 )
 
 config.minify_js = True
