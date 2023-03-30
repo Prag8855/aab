@@ -1,6 +1,6 @@
 ---
-Title: List of English-speaking psychiatrists and psychotherapists in Berlin
-Short_title: English-speaking psychotherapists
+Title: List of English-speaking psychiatrists in Berlin
+Short_title: English-speaking psychiatrists
 Description: A list of psychiatrists who speak English, and how to find a psychiatrist who accepts public health insurance.
 Date_created: 2023-03-30
 Related_places:
@@ -34,21 +34,23 @@ This guide explains:
 
 ## Psychiatrist or psychotherapist?
 
-**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. Some can also give therapy.[^1]
+**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication.
 
 **Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems. They can't prescribe medication.[^2]
 
+**[More information ➞](/guides/english-speaking-psychotherapists-berlin#psychiatrist-psychotherapist-or-counsellor)**
+
 ## How hard is it to find a psychiatrist?
 
-It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with private health insurance.
+It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with [private health insurance](/glossary/private%20Krankenversicherung).
 
 ## Other lists of psychiatrists
 
 These directories help you find English-speaking psychiatrists:
 
-- **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find doctors who accept public health insurance, with language filters
-- **[Doctolib](https://www.doctolib.de/)** - Find doctors and therapists by language
-- [Doctena](https://www.doctena.de/en/) - Find doctors and therapists by language
+- **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find psychiatrists who accept public health insurance by language
+- **[Doctolib](https://www.doctolib.de/)** - Find psychiatrists by language
+- [Doctena](https://www.doctena.de/en/) - Find psychiatrists by language
 
 **[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
 
