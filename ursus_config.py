@@ -144,10 +144,13 @@ config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
 )
 
-config.linters += (
-    'extensions.linters.places.PlacesLinter',
+config.linters = (
+    'ursus.linters.markdown.MarkdownLinkTextsLinter',
+    'ursus.linters.markdown.MarkdownLinkTitlesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
+    'ursus.linters.markdown.MarkdownExternalLinksLinter',
+    'extensions.linters.places.PlacesLinter',
 )
 
 config.minify_js = True

@@ -21,38 +21,37 @@ class PlacesLinter(Linter):
                     place[field.strip()] = value.strip()
         return place
 
-    def lint(self, file: Path, fix_errors: bool = False):
-        if file.is_relative_to(Path('places')):
-            place = self.parse_place(file)
+    def lint(self, file_path: Path):
+        if file_path.is_relative_to(Path('places')):
+            place = self.parse_place(file_path)
 
             if not place.get('Google_Place_ID'):
-                self.log_error(file, None, f"Place has no place ID", logging.WARNING)
-                return
+                return None, "Place has no place ID", logging.WARNING
 
             google_place = self.google_maps.place(place['Google_Place_ID'], language="en")['result']
 
             if google_place.get('website') and place.get('Website') != google_place.get('website'):
-                self.log_error(file, None, "Website does not match with Google.", logging.WARNING)
-                self.log_substitution(file, None, place.get('Website'), google_place.get('website'))
-                if not place.get('Website'):
-                    place['Website'] = google_place.get('website')
+                yield (
+                    None,
+                    f"Website does not match with Google: {place.get('Website')} -> {google_place.get('website')}",
+                    logging.WARNING
+                )
 
             google_address = re.sub(r"(, (\d{5} )?Berlin)?, Germany$", "", google_place['formatted_address']).strip()
             if place.get('Address') != google_address:
-                self.log_error(file, None, "Address does not match with Google.", logging.ERROR)
-                self.log_substitution(file, None, place.get('Address'), google_address)
-                place['Address'] = google_address
+                yield (
+                    None,
+                    "Address does not match with Google: {place.get('Address')} -> {google_address}",
+                    logging.ERROR
+                )
 
             business_status = google_place.get('business_status')
             if business_status and business_status != 'OPERATIONAL':
-                self.log_error(file, None, f"Business is {google_place.get('business_status')}", logging.ERROR)
+                yield None, f"Business is {google_place.get('business_status')}", logging.ERROR
 
             lat = float(place['Latitude'])
             lng = float(place['Longitude'])
             g_lat = round(google_place['geometry']['location']['lat'], 6)
             g_lng = round(google_place['geometry']['location']['lng'], 6)
             if lat != g_lat or lng != g_lng:
-                self.log_error(file, None, "Coordinates do not match with Google.", logging.ERROR)
-                self.log_substitution(file, None, f"{lat}, {lng}", f"{g_lat}, {g_lng}")
-                place['Latitude'] = str(g_lat)
-                place['Longitude'] = str(g_lng)
+                yield None, "Coordinates do not match with Google: {lat}, {lng} -> {g_lat}, {g_lng}", logging.ERROR
