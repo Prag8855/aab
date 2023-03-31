@@ -5,7 +5,7 @@ English_term:
 Description: 
 Date_created: 2019-09-03
 Date_updated: 2022-02-07
-Related_guides: guides/find-a-job-in-berlin.md, guides/berlin-auslanderbehorde-same-day-appointment.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/moving-to-berlin.md, guides/german-work-visa-to-freelance-visa.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md, guides/residence-permit.md
+Related_guides: guides/find-a-job-in-berlin.md, guides/berlin-auslanderbehorde-appointment.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/moving-to-berlin.md, guides/german-work-visa-to-freelance-visa.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md, guides/residence-permit.md
 ---
 
 The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltstitel) that allows you to live and work in Germany. You can also get a Blue Card in other European Union countries.

@@ -7,7 +7,7 @@ English_document: documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
 Description: The official English translation of the German freelance visa application form
 Date_created: 2018-06-07
 Date_updated: 2022-12-01
-Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/start-a-business-in-germany.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/berlin-auslanderbehorde-same-day-appointment.md, guides/anmeldung-in-english-berlin.md, guides/german-work-visa-to-freelance-visa.md, guides/german-visa-health-insurance.md, guides/freelance-visa-letter-of-intent.md
+Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/german-work-visa.md, guides/start-a-business-in-germany.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/berlin-auslanderbehorde-appointment.md, guides/anmeldung-in-english-berlin.md, guides/german-work-visa-to-freelance-visa.md, guides/german-visa-health-insurance.md, guides/freelance-visa-letter-of-intent.md
 ---
 
 When you [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa) or [work visa](/guides/german-work-visa), you must include this form with your application.

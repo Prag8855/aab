@@ -172,7 +172,7 @@ If you come from **{{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up t
 
 If you come from another country, you need a [job seeker visa](/glossary/Job%20seeker%20visa) to come to Germany. A tourist visa is not enough. Once you are in Germany, you can apply for the freelance visa. You can also apply for a German freelance visa from your home country.
 
-[Getting a visa appointment](/guides/berlin-auslanderbehorde-same-day-appointment) can take up to 8 weeks in Berlin. You could get the visa immediately at the end of your appointment, or you could receive it 3-4 months later. You will get a temporary visa (*[[Fiktionsbescheinigung]]*) while you wait for the decision. You need enough savings to survive until you get your visa.
+[Getting a visa appointment](/guides/berlin-auslanderbehorde-appointment) can take up to 8 weeks in Berlin. You could get the visa immediately at the end of your appointment, or you could receive it 3-4 months later. You will get a temporary visa (*[[Fiktionsbescheinigung]]*) while you wait for the decision. You need enough savings to survive until you get your visa.
 
 **[How to apply for the German freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 

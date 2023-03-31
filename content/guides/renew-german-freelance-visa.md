@@ -19,7 +19,7 @@ This guide was written for freelancers in Berlin. It is based on my own experien
 To renew a German freelance visa, you must...
 
 1. Gather the [required documents](#required-documents)
-2. [Get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-same-day-appointment)
+2. [Get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment)
 3. Go to your appointment
 4. Wait for your electronic residence permit
 
@@ -84,15 +84,15 @@ If you already have a tax advisor, and your finances are organised, you can get 
 
 **When:** 3 months before your visa expires
 
-**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-same-day-appointment)**
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 You must get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It can take months to find an appointment. Your appointment could be months in the future. For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
 
 {% include "blocks/appointmentLink/_renewResidencePermit.html" %}
 
-You can also [send the documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+You can also [send the documents by email](/guides/berlin-auslanderbehorde-appointment#by-email).
 
-**[Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
+**[Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### 5. Gather the required documents
 
@@ -112,7 +112,7 @@ Many *[[Ausländerbehörde]]* employees only speak German.[^4] They will ask man
 
 ### 7. Go to your Ausländerbehörde appointment
 
-**[What happens during your ](/guides/berlin-auslanderbehorde-same-day-appointment#what-happens-during-your-appointment)**[Ausländerbehörde](/guides/berlin-auslanderbehorde-same-day-appointment#what-happens-during-your-appointment)** appointment ➞**
+**[What happens during your ](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)**[Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)** appointment ➞**
 
 During your appointment, 3 things can happen:
 
@@ -124,9 +124,9 @@ In total, you will spend around 1 hour at the *Ausländerbehörde*.
 
 ### 8. Receive your new residence permit
 
-**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-approved)**
+**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-rejected)**
+**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 ## Required documents
 

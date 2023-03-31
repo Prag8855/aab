@@ -137,17 +137,17 @@ If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come t
 
 ### Step 2: Make your visa appointment
 
-You must [get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-same-day-appointment). **Book your appointment as soon as possible**. It can take months to find an appointment. Your appointment could be months in the future. For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
+You must [get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment). **Book your appointment as soon as possible**. It can take months to find an appointment. Your appointment could be months in the future. For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
 
 {% include "blocks/appointmentLink/_applyResidencePermit.html" %}
 
-You can also [send the documents by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+You can also [send the documents by email](/guides/berlin-auslanderbehorde-appointment#by-email).
 
-**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-same-day-appointment)**
+**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 If your current visa expires soon, there are ways to stay in Germany until you get your freelance visa.
 
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
+**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### Step 3: Open a bank account
 
@@ -199,7 +199,7 @@ The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to fin
 
 ### Step 7: Go to your freelance visa interview
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-same-day-appointment#what-happens-during-your-appointment)**
+**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)**
 
 You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 
@@ -207,9 +207,9 @@ Your interview will probably be in German. Some interviewers speak English, but 
 
 ### Step 8: Receive your freelance visa
 
-**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-approved)**
+**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-rejected)**
+**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 Some people get their freelance visa immediately during the interview.[^20] Other people must wait 6 to 10 weeks on average. It's very random. It depends on your field, and on how well you have prepared. Artists and language teachers almost always get the freelance visa during the interview. Software developers sometimes get it during the interview,[^21] and sometimes later.
 
@@ -288,7 +288,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     *[Detailed guide](/guides/biometric-pictures-in-berlin)*  
     You need two 35 × 45mm biometric pictures. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin), including from the photo booth at the *Ausländerbehörde*.[^26] You do not need to cut the passport photos yourself; they have a tool for this.[^27]
 - **{{NATIONAL_VISA_FEE|cur}}€ for the visa application fees**  
-    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only pay when you get your freelance visa. If you don't get it, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-same-day-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
+    The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only pay when you get your freelance visa. If you don't get it, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
 - **Proof of health insurance coverage**  
     *[Detailed guide](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)*  
     Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) has more details.

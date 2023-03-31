@@ -253,15 +253,15 @@ You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as 
 
 In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can [book your appointment here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48]
 
-If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-same-day-appointment#by-email).
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email).
 
 {% include "blocks/appointmentLink/_applyResidencePermit.html" %}
 
-**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-same-day-appointment)**
+**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 If your current visa expires soon, there are ways to stay in Germany until you get your work visa.
 
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-visa-expires-soon)**
+**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### Step 9: Gather the required documents
 
@@ -275,7 +275,7 @@ We explain the required documents in the "[Required documents](/guides/german-wo
 
 You go to the *Ausländerbehörde* to give your documents. You will not get your residence permit, just a confirmation letter.
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-same-day-appointment#what-happens-during-your-appointment)**
+**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)**
 
 ### Step 11: Receive your work visa
 
@@ -283,9 +283,9 @@ You go to the *Ausländerbehörde* to give your documents. You will not get your
 - **You get**: a work visa
 - **How long it takes**: 8 to 12 weeks[^29]
 
-**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-approved)**
+**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-same-day-appointment#if-your-application-is-rejected)**
+**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply for a Blue Card, it's valid for up to 4 years.
 
