@@ -9,5 +9,7 @@ Related_guides:
     guides/sick-leave.md
     guides/sabbatical-leave.md
     guides/vacation-days.md
+    guides/losing-your-job.md
+    guides/german-resignation-letter.md
 Order: 020
 ---
