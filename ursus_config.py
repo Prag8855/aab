@@ -149,6 +149,7 @@ config.linters = (
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
     'extensions.linters.places.PlacesLinter',
+    'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
