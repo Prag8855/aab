@@ -199,7 +199,7 @@ The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to fin
 
 ### Step 7: Go to your freelance visa interview
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)**
+**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 

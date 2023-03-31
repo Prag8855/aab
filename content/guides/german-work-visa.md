@@ -275,7 +275,7 @@ We explain the required documents in the "[Required documents](/guides/german-wo
 
 You go to the *Ausländerbehörde* to give your documents. You will not get your residence permit, just a confirmation letter.
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)**
+**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### Step 11: Receive your work visa
 

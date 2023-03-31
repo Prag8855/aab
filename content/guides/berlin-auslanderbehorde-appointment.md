@@ -1,73 +1,87 @@
 ---
 Title: How to get an Ausländerbehörde appointment
-Description: How to find a appointment at the immigration office (LEA) in Berlin, and what to do if there are no appointments available.
+Description: How to find a appointment for a residence permit at the immigration office (LEA) in Berlin, and what to do if there are no appointments.
 Date_created: 2017-09-22
 ---
 
-If you need to apply for a residence permit or renew a German visa, you must go to the *[[Ausländerbehörde]]*. There are two ways to go to the *Ausländerbehörde* in Berlin:
+You must go to the *[[Ausländerbehörde]]* to request, renew or change your [residence permit](/glossary/Aufenthaltstitel). This guide shows you how to do it.
+
+There are two ways to go to the Berlin *Ausländerbehörde*:
 
 - **With an appointment**  
-    Get an appointment online, then go to your appointment. It's often impossible to get an appointment in time. You must check Berlin.de again and again. Appointments are only released for the next 3 months. New appointments are released every day.
+    [Book an appointment online](/out/auslanderbehorde-appointment), then go to your appointment. It's almost impossible to find an appointment online.
 - **Without an appointment**  
-    At the moment, you can't go to the *Ausländerbehörde* without an appointment. You can't queue in front of the *Ausländerbehörde* early in the morning. If you can't get an appointment, try [applying by email](#by-email).
+    If you can't get an appointment, you must [apply by email](#by-email). You can't go in person without an appointment.
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## Is it hard to get an appointment?
 
-**Yes, it's very hard.** Look for an appointment as soon as possible. It can take weeks just to find an appointment.[^0] If you apply by email, it can take months to get an answer. If this is your first [residence permit](/glossary/Aufenthaltstitel), you can't work, freelance or study while you wait for the residence permit.
+**It's almost impossible.** It can take weeks just to find an appointment.[^0] If you [apply by email](#by-email), it can take months to get an answer. If this is your first [residence permit](/glossary/Aufenthaltstitel), you can't work, freelance or study while you wait for your residence permit.
+
+Look for an appointment as soon as possible. If you are [moving to Berlin](/guides/moving-to-berlin), start looking before you arrive.
 
 ## How to get an appointment
 
-You can use the [appointment booking tool](/out/auslanderbehorde-appointment), or [email the *Ausländerbehörde*](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english). **You can't go to the Berlin Ausländerbehörde without an appointment.**
-
 ### Online
 
-**Most of the time, there are no appointments available**. This is not a bug. Keep the calendar page open, and refresh it every 5-10 minutes. If you wait too long, you must re-enter your information every time. New appointments become available at random times. They also release short-term appointments every Wednesday and Friday.[^1]
+**[Book an appointment online](/out/auslanderbehorde-appointment)** on the *Ausländerbehörde* website.
 
-Sometimes, the website crashes. Wait a few minutes and try again.
+**Most of the time, there are no appointments available**. This is not a bug. Keep the calendar page open, and refresh it every few minutes. New appointments become available at random times. They release short-term appointments every Wednesday and Friday.[^1] Sometimes, the website crashes. Wait a few minutes and try again.
+
+Your appointment could be months in the future. After your appointment, you must wait until your residence permit is approved. This can also take a few months.
+
+**[If your visa expires soon ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### By email
 
-**If you can't get an online appointment,** [email your residence permit application to the *Ausländerbehörde*](https://www.berlin.de/einwanderung/ueber-uns/kontakt/).[^2]
+If you can't find an appointment online, you can:[^2]
 
-Attach all your application documents.[^3] A complete application might be processed faster. If you need a *[[Fiktionsbescheinigung]]*, say it in your message.[^23]
+- Ask for an *Ausländerbehörde* by email
+- **or** apply for a residence permit by email
 
-The Ausländerbehörde will process your application. You won't get any answer for a few months.[^4] It looks like they work on the most urgent cases first.
+To do this, you must...
 
-If your residence permit expires while you wait, the conditions of your residence permit still apply. You can keep working, freelancing or studying like before.[^5] You should not travel outside of Germany, because you can't re-enter the country with an expired residence permit.
+1. [Choose the right department to email](https://www.berlin.de/einwanderung/ueber-uns/kontakt/)
+2. Write an email in German. It must include:
+    - What you need
+    - Your full name
+    - Your date and place of birth
+    - Your nationality
+    - The expiration date of your visa or residence permit
+    - If you need a *[[Fiktionsbescheinigung]]* to travel after your residence permit expires[^23]
+3. Attach *all* required documents for your residence permit application. Complete applications are processed faster.[^23]
+4. Send your email and wait for a response. It can take a few months.
 
-**Useful links:**
+The *Ausländerbehörde* can take days, weeks or months to answer.[^4] It depends on how urgent your situation is, and how complete your application is.
 
-- [Contact the *Ausländerbehörde*](https://www.berlin.de/einwanderung/ueber-uns/kontakt/) - Berlin.de
-- [Request for renewal by email](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php) - Berlin.de
-- [Current information on making online appointments](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english) - Berlin.de
+If you send all your documents, it counts as a residence permit application. If your residence permit expires while you wait, the conditions of your residence permit still apply. You can keep working, freelancing or studying like before.[^5] You should not travel outside of Germany, because you can't re-enter the country with an expired residence permit.
+
+**[If your visa expires soon ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### By registered mail
 
-You can send your residence permit application by [registered mail](/glossary/Einschreibebrief). It's exactly like if you apply by email. It's not better or faster.[^23]
+You can send your residence permit application by [registered mail](/glossary/Einschreibebrief). It's not better or faster than email.[^23]
 
-### In person
+## During your appointment
 
-Do not go to the *Ausländerbehörde* without an appointment. You will not get help. You can't queue early in the morning, and get what you want.
+### Going to your appointment
 
-Follow [this Facebook group](https://www.facebook.com/groups/226825394858771/posts/887004532174184/) to know about the current situation at the *Ausländerbehörde*.
+You must show your appointment confirmation at the gate. If you don't have it, you can't enter.
 
-## What happens during your appointment
+Find the right office, floor and room. This information is in the email you get after you book your appointment.
 
-### Entering the Ausländerbehörde
+Sit in the waiting room, and wait until your number is called on the television. When your number is called, go to the office number you see on the television.
 
-You should have received the details of your appointment by email when you booked it. Arrive in advance. You need time to find the right office, floor and room. You can find these details in your appointment confirmation.
+[![Berlin Ausländerbehörde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
 
-At the *Ausländerbehörde*, sit in the waiting room and wait until your number is called. The numbers are called on the television. When your number is called, you must go to the office number you see on the television.
+### The residence permit interview
 
-[![Auslaenderbehoerde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
+You will sit in front of an *Ausländerbehörde* employee, and show your documents. They will ask for specific documents one by one.
 
-### Your residence permit interview
+This appointment takes around 10 minutes.[^6] They will tell you to go in the waiting room again. They will call your number again in 5 to 45 minutes.
 
-You will sit in front of an *Ausländerbehörde* employee and show your documents. This takes around 10 minutes.[^6] The employee will tell you to go in the waiting room again. They will call your number again in 5 to 45 minutes.
-
-Some *Ausländerbehörde* employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](https://redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+Some employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](https://redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
 **If your current residence permit expires soon**, ask for a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany for a little longer. Some versions of the *Fiktionsbescheinigung* let you travel outside of Germany.
 
@@ -76,6 +90,8 @@ Some *Ausländerbehörde* employees speak English, but many only speak German. I
 Some residence permits are approved on the same day, during your interview. You get a paper residence permit, pay the fee, and leave. Around 8 weeks later, you get your plastic residence permit by post.
 
 Most residence permits are approved 1 to 6 months later.[^7]
+
+## After your appointment
 
 ### If your application is approved
 
@@ -168,8 +184,7 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 
 [^0]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/posts/1252123768589657/)
 [^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)
-[^2]: [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
-[^3]: [berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english)
+[^2]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php), [berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)

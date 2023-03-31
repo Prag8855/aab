@@ -112,7 +112,7 @@ Many *[[Ausländerbehörde]]* employees only speak German.[^4] They will ask man
 
 ### 7. Go to your Ausländerbehörde appointment
 
-**[What happens during your ](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)**[Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment#what-happens-during-your-appointment)** appointment ➞**
+**[What happens during your *Ausländerbehörde* appointment ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 During your appointment, 3 things can happen:
 
