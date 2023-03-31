@@ -4,7 +4,26 @@ Short_title: Where to watch movies in English?
 Description: This guide helps you find cinemas that play movies in English in Berlin.
 Date_created: 2017-09-28
 Date_updated: 2022-04-07
-Related_places: places/b-ware-ladenkino.md, places/babylon.md, places/il-kino.md, places/hackesche-höfe-kino.md, places/kino-central.md, places/sommerkino-kulturforum-yorck.md, places/sommerkino-schloss-charlottenburg-yorck.md, places/rollberg-yorck.md, places/passage-yorck.md, places/odeon-yorck.md, places/kino-international-yorck.md, places/neues-off-yorck.md, places/filmtheater-am-friedrichshain-yorck.md, places/kant-kino.md, places/delphi-filmpalast-yorck.md, places/cinema-paris-yorck.md, places/capitol-dahlem-yorck.md, places/blauer-stern-yorck.md, places/babylon-kreuzberg-yorck.md
+Related_places:
+    places/b-ware-ladenkino.md
+    places/babylon.md
+    places/il-kino.md
+    places/hackesche-höfe-kino.md
+    places/kino-central.md
+    places/sommerkino-kulturforum-yorck.md
+    places/sommerkino-schloss-charlottenburg-yorck.md
+    places/rollberg-yorck.md
+    places/passage-yorck.md
+    places/odeon-yorck.md
+    places/kino-international-yorck.md
+    places/neues-off-yorck.md
+    places/filmtheater-am-friedrichshain-yorck.md
+    places/kant-kino.md
+    places/delphi-filmpalast-yorck.md
+    places/cinema-paris-yorck.md
+    places/capitol-dahlem-yorck.md
+    places/blauer-stern-yorck.md
+    places/babylon-kreuzberg-yorck.md
 ---
 
 This guide helps you find cinemas that play movies in English in Berlin.

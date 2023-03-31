@@ -25,7 +25,7 @@ Kitas can charge up to 60€ for sports, special food (such as vegan food or org
 
 ## How hard is it to find a Kita?
 
-**It's really hard**[^2]; even harder than [finding an apartment](/guides/find-a-flat-in-berlin).[^3] **It can take more than a year** to find a *Kita* for your child. Parents have sued the state and protested because of this.[^4]
+**It's really hard**; even harder than [finding an apartment](/guides/find-a-flat-in-berlin).[^2] **It can take more than a year** to find a *Kita* for your child. Parents have sued the state and protested because of this.[^4]
 
 Most *Kitas* have **6 to 18 month waiting lists**. Some parents start searching for a *Kita* during pregnancy, or while their child is a young baby, even if their child will only need a *Kita* in a few years.
 
@@ -127,8 +127,7 @@ When you choose a Kita start date and a date to begin work, factor in several we
 
 [^0]: [Settle in Berlin](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/), [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)
 [^1]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
-[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrjmq3/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/61ocy7/rant_kitas_and_lack_of_transperency/)
-[^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrlf0a/)
+[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrjmq3/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/61ocy7/rant_kitas_and_lack_of_transperency/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrlf0a/)
 [^4]: [berliner-zeitung.de](https://www.berliner-zeitung.de/mensch-metropole/statt-klage-so-ungewoehnlich-will-eine-berliner-mutter-einen-kita-platz-ergattern-li.27934?pid=true), [kitakriseberlin.org](https://kitakriseberlin.org/)
 [^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/dpuip98/)
 [^6]: [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)

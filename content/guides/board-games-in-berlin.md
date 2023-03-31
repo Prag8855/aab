@@ -3,7 +3,14 @@ Title: Where to play board games in Berlin?
 Short_title: Where to play board games?
 Description: Want a nice place to play board games with your friends, and perhaps make some new ones? Here are all the board game meetups in Berlin.
 Date_created: 2017-09-14
-Related_places: places/rudi-thursday-meetup.md, places/spieletreff-berlin-wednesday-meetup.md, places/wirtshaus-heuberger.md, places/brewdog-berlin-mitte.md, places/spielwiese.md, places/nachbarschaftshaus-urbanstraße.md, places/brettspielplatz-das-spielecafé.md
+Related_places:
+    places/rudi-thursday-meetup.md
+    places/spieletreff-berlin-wednesday-meetup.md
+    places/wirtshaus-heuberger.md
+    places/brewdog-berlin-mitte.md
+    places/spielwiese.md
+    places/nachbarschaftshaus-urbanstraße.md
+    places/brettspielplatz-das-spielecafé.md
 ---
 
 Want a nice place to play board games with your friends, and perhaps make some new ones? The following board game meetups happen every week in Berlin, and are always friendly to newcomers.

@@ -157,7 +157,7 @@ Tax advisors are very expensive in Germany, but they will save you a lot of mone
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
-## Step 4: [Freiberufler](/guides/freiberufler-or-gewerbe) or [Gewerbe](/guides/freiberufler-or-gewerbe)?
+## Step 4: Freiberufler or Gewerbe?
 
 Later, you will need to [register your business with the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). The tax office decides if you are a freelancer (*[[Freiberufler]]*) or a tradesperson (*[[Gewerbe]]*).
 
@@ -169,7 +169,7 @@ Not every freelancer is a *[[Freiberufler]]*! This title is only for [specific p
 
 ## Step 5: Get a trade licence
 
-If you register as a *[Gewerbe](/guides/freiberufler-or-gewerbe)*, you must get a trade licence (*[[Gewerbeschein]]*) before you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*.
+If you register as a *[[Gewerbe]]*, you must get a trade licence (*[[Gewerbeschein]]*) before you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*.
 
 In Berlin, you can [apply for a *Gewerbeschein* online](/guides/gewerbeschein). You need a valid [residence permit](/glossary/Aufenthaltstitel) before you do this. In the rest of Germany, you can use the paper form. Your tax advisor can also do it for you.
 

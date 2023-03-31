@@ -3,7 +3,50 @@ Title: English-speaking accountants and tax advisors in Berlin
 Short_title: English-speaking tax advisors
 Description: A list of English-speaking Steuerberater in Berlin. They can help you file your taxes. This list also includes Spanish, French, Italian, Russian, Chinese and Polish-speaking tax consultants.
 Date_created: 2017-12-18
-Related_places: places/steuerberater-suat-göydeniz.md, places/steuerberater-dr-jutta-stamms.md, places/steuerberater-thomas-langer.md, places/börsing-pohl-partner.md, places/merla-ganschow-partner.md, places/steuerberaterin-helga-vellmann.md, places/steuerberaterin-carola-schumacher.md, places/barnbrook-steuerberatung.md, places/dr-georgi-steuerberatung.md, places/lanza-remuss.md, places/steuerberater-michael-schröder.md, places/frey-steuerberatungsgesellschaft.md, places/americans-income-tax-service.md, places/steuerberatung-sandra-lehmann.md, places/stein-partners-llp.md, places/prof-dr-jens-poll.md, places/lhd-hinterhäuser-dreyer.md, places/dr-richard-bosley.md, places/roland-schubert.md, places/klier-ott-gmbh-steuerberatung.md, places/kanzlei-besser.md, places/steuerkontor-fischer.md, places/otto-und-miegel-steuerberater.md, places/artevanatax-steuerberatungsgesellschaft.md, places/unigarant.md, places/eschenhagen-cheung-steuerberater.md, places/gust-partner.md, places/juliane-rupp.md, places/hptp-gmbh.md, places/martin-winkler.md, places/brita-schwanke-steuerberatung.md, places/amy-valenzuela-cpa.md, places/losemann-tax-gmbh-steuerberatungsgesellschaft.md, places/duske-becker-sozien.md, places/böttges-papendorf-weller-steuerberater.md, places/goldstein-consulting-gmbh.md, places/millennium-park-taxes.md, places/kb-küpper-kollegen-steuerberatungsgesellschaft.md, places/steuerberater-jakub-czaplewski.md, places/blüming-partner-mbb-steuerberater-rechtsanwälte.md, places/mh-steuerberater.md, places/guhr-steuerberatungsgesellschaft.md, places/insight-tax-gmbh.md
+Related_places:
+    places/steuerberater-suat-göydeniz.md
+    places/steuerberater-dr-jutta-stamms.md
+    places/steuerberater-thomas-langer.md
+    places/börsing-pohl-partner.md
+    places/merla-ganschow-partner.md
+    places/steuerberaterin-helga-vellmann.md
+    places/steuerberaterin-carola-schumacher.md
+    places/barnbrook-steuerberatung.md
+    places/dr-georgi-steuerberatung.md
+    places/lanza-remuss.md
+    places/steuerberater-michael-schröder.md
+    places/frey-steuerberatungsgesellschaft.md
+    places/americans-income-tax-service.md
+    places/steuerberatung-sandra-lehmann.md
+    places/stein-partners-llp.md
+    places/prof-dr-jens-poll.md
+    places/lhd-hinterhäuser-dreyer.md
+    places/dr-richard-bosley.md
+    places/roland-schubert.md
+    places/klier-ott-gmbh-steuerberatung.md
+    places/kanzlei-besser.md
+    places/steuerkontor-fischer.md
+    places/otto-und-miegel-steuerberater.md
+    places/artevanatax-steuerberatungsgesellschaft.md
+    places/unigarant.md
+    places/eschenhagen-cheung-steuerberater.md
+    places/gust-partner.md
+    places/juliane-rupp.md
+    places/hptp-gmbh.md
+    places/martin-winkler.md
+    places/brita-schwanke-steuerberatung.md
+    places/amy-valenzuela-cpa.md
+    places/losemann-tax-gmbh-steuerberatungsgesellschaft.md
+    places/duske-becker-sozien.md
+    places/böttges-papendorf-weller-steuerberater.md
+    places/goldstein-consulting-gmbh.md
+    places/millennium-park-taxes.md
+    places/kb-küpper-kollegen-steuerberatungsgesellschaft.md
+    places/steuerberater-jakub-czaplewski.md
+    places/blüming-partner-mbb-steuerberater-rechtsanwälte.md
+    places/mh-steuerberater.md
+    places/guhr-steuerberatungsgesellschaft.md
+    places/insight-tax-gmbh.md
 ---
 
 The German tax system is complicated. A tax advisor can take care of your taxes. If you are an employee, they can prepare your tax declaration and deduct expenses. If you want to [start a business in Germany](/guides/start-a-business-in-germany), they will take care of the business registration and verify all your finances. They are worth the cost.

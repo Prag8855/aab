@@ -302,7 +302,7 @@ If you already have an entry in the trade register (*[[Handelsregister]]*), fill
 
 - **Eine Eintragung ist beabsichtigt** - Registration is intended  
     Select "Ja" if you want an entry in the trade register.
-    - Freelancers (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) don't need to be in the *Handelsregister*.[^2]
+    - Freelancers (*[[Freiberufler]]*) don't need to be in the *Handelsregister*.[^2]
     - Small businesses (*[[Kleinunternehmer]]*) don't need to be in the *Handelsregister*,[^2] but they can choose to be.
     - Being in the *Handelsregister* forces you to use double entry bookkeeping.[^8] This can make things really complicated for a small business or freelancer.
     - If you are a *Gesellschaft bürgerlichen Rechts*, a company constituted under civil law, you don't need to be listed in the *Handelsregister*.[^9]
@@ -340,8 +340,8 @@ Information about the previous business form. You can leave this section empty b
 
 - **Ist in den letzten fünf Jahren schon ein Gewerbe ...**  
     Choose "Ja" if:
-    - You have been a freelancer (*[Freiberufler](/guides/freiberufler-or-gewerbe)*) in Germany in the last 5 years
-    - ...or you have owned a business (*[Gewerbe](/guides/freiberufler-or-gewerbe)*) in Germany in the last 5 years
+    - You have been a freelancer (*[[Freiberufler]]*) in Germany in the last 5 years
+    - ...or you have owned a business (*[[Gewerbe]]*) in Germany in the last 5 years
     - ...or you have owned an agricultural or silvicultural operation in Germany in the last 5 years
     - ...or you have owned more than 1% of a corporation (*Kapitalgesellschaft*)
 - **Art der Tätigkeit/Beteiligung** - Type of operation/involvement  

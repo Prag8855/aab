@@ -6,8 +6,9 @@ German_document: documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifi
 English_document: documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-English.pdf
 Description: Apply for a tax ID when you can't register your address.
 Date_created: 2022-12-21
-Date_updated: 2022-12-27
-Related_guides: guides/german-tax-id-steuernummer.md, guides/anmeldung-in-english-berlin.md
+Related_guides:
+    guides/german-tax-id-steuernummer.md
+    guides/anmeldung-in-english-berlin.md
 ---
 
 Normally, you get a [tax ID](/glossary/Steueridentifikationsnummer) after you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, but you still need a tax ID, you must fill this form and send it to the *[[Finanzamt]]*. The original form is [on the BZSt website](/out/taxid-form).

@@ -31,7 +31,7 @@ You must do this before you apply for apartments:
 
 - [**Open a bank account**](/guides/first-bank-account-in-germany) to pay your rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Any European bank account works. You can also send money from another country with [Wise](/out/transferwise).
 - **Save money** to pay the [deposit](/glossary/Kaution) and the first month of rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
-- **Prepare the [required documents](#what-to-bring)** to apply for an apartment. If you find a place you like, you must apply quickly.
+- **Prepare the [required documents](#what-to-bring-to-the-visit)** to apply for an apartment. If you find a place you like, you must apply quickly.
 
 ### Things that are different in Germany
 
