@@ -115,7 +115,7 @@ If you don't get a residence permit, you pay nothing.
 
 ### If you don't get an answer
 
-If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*.[^9] This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. Immigration lawyers can help you do this.
+If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*.[^9] This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
 
 If the *Ausländerbehörde* can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
