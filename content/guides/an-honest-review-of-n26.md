@@ -138,9 +138,9 @@ This was a problem when I opened my account in 2016. It might be solved now.
 
 ### Two-factor authentication issues
 
-If you lose access to your phone, you lose access to your bank account. If you want to use the desktop website, you must confirm the login on your phone. If you want to transfer money from the desktop website, you must confirm the transfer on your phone.
+If you lose access to your phone, you lose access to your bank account. To use the desktop website, you must confirm the login on your phone. To transfer money from the desktop website, you must confirm the transfer on your phone.
 
-If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 doesn't have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
+If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 does not have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
 
 ### It's hard to get rid of coins
 

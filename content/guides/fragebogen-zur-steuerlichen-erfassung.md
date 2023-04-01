@@ -87,7 +87,7 @@ If you register as a *[[Freiberufler]]*, you don't need a *Gewerbeschein*.[^17]
 
 This form is easier to fill if you understand how the Value Added Tax (VAT) works.
 
-**[VAT number](/glossary/Umsatzsteuernummer):** If you want to sell goods and services in the European Union, you need a VAT number. You get a VAT number 4 to 6 weeks after you fill the *Fragebogen zur steuerlichen Erfassung*.[^1] You should request a VAT number even if you don't need it. It could be useful later.[^19]
+**[VAT number](/glossary/Umsatzsteuernummer):** To sell goods and services in the European Union, you need a VAT number. You must fill the *Fragebogen zur steuerlichen Erfassung* and wait 4 to 6 weeks.[^1] You should request a VAT number even if you don't need it. It could be useful later.[^19] You can also request a VAT number later.
 
 **Charging VAT:** If you are a *[[Kleinunternehmer]]*, you can choose to not charge VAT.[^2] If you don't charge VAT, you can't get VAT refunds for business expenses.[^3] If you decide to charge VAT, you can't change your decision for the next 5 years.[^4] [This guide](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/) explains when it makes sense to charge VAT.
 

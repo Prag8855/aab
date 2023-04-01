@@ -58,7 +58,7 @@ If a vehicle is deregistered (*Abgemeldet*), you can't test drive it. It has no 
 
 Seasonal plates are a good way to save money. You only pay insurance and taxes for the months when you use the vehicle, so it's cheaper. Motorcycles often have *Saisonkennzeichen* for the summer months, because they spend the winter in the garage.
 
-If you want to test drive a vehicle out of season, you must [get temporary licence plates](https://service.berlin.de/dienstleistung/121479/) (*[[Kurzzeitkennzeichen]]*).
+To test drive a vehicle out of season, [get temporary licence plates](https://service.berlin.de/dienstleistung/121479/) (*[[Kurzzeitkennzeichen]]*).
 
 **[Request temporary licence plates](https://service.berlin.de/dienstleistung/121479/)** - Berlin.de (in German)
 

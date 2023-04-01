@@ -20,9 +20,9 @@ To create an ELSTER account, you need a [tax ID](/glossary/Steueridentifikations
 
 ### Do you need an ELSTER account?
 
-If you want to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), you can do it with [Sorted's business registration tool](/out/sorted-fragebogen). It's free, it's easier to use, and it's in English. You don't need an ELSTER account, just a [tax ID](/glossary/Steueridentifikationsnummer).
+You can [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with [Sorted's business registration tool](/out/sorted-fragebogen). It's free, it's easier to use, it's in English, and you don't need an ELSTER account. You only need a [tax ID](/glossary/Steueridentifikationsnummer).
 
-If you have a tax advisor, you don't need an ELSTER account. Your tax advisor can register your business and submit [VAT returns](/glossary/Umsatzsteuervoranmeldung) for you.
+Your [tax advisor](/glossary/Steuerberater) can register also your business and submit [VAT returns](/glossary/Umsatzsteuervoranmeldung) for you. If you have a tax advisor, you don't need an ELSTER account.
 
 ## Create your ELSTER account
 

@@ -5,7 +5,7 @@ Description: A step by step guide on opening your business or becoming a freelan
 Date_created: 2018-09-07
 ---
 
-If you want to [move to Germany](/guides/moving-to-berlin) and [start a business](/guides/start-a-business-in-germany), this is what you must do. This guide is based on my own experience.
+This is how you [move to Germany](/guides/moving-to-berlin) and [start a business](/guides/start-a-business-in-germany). This guide is based on my own experience.
 
 This guide is for people who do not live in Germany yet. If you already live in Germany, read *[How to start a business in Germany](/guides/start-a-business-in-germany)*.
 
@@ -166,7 +166,7 @@ If you are not a EU or EEA citizen or permanent resident, you need a [residence 
 
 **[Do I need a residence permit? ➞](/guides/residence-permit)**
 
-Everyone else needs a visa to work in Germany. If you want to be self-employed, you must [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). This takes 1 to 4 months. You can't work until you have that visa. If you already have a Blue Card or a work visa, it might allow you to freelance.
+Everyone else needs a residence permit to work in Germany. To be self-employed, you must [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). This takes 1 to 4 months, sometimes longer. You can't work before you get the residence permit. If you already have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa), it might allow you to freelance already.
 
 If you come from **{{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^6] You can come to Germany and apply for a freelance visa there. It's easier to prepare your freelance visa application if you are already in Germany, but you will spend more time in Germany without an income.
 

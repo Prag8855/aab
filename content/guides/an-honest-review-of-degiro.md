@@ -51,7 +51,7 @@ There is one very important missing feature: a graph of your profits and losses.
 
 ### Customer support
 
-You still need write emails and make phone calls for some operations. For example, if you want to change your bank details, [you must email their customer service](https://www.degiro.de/helpcenter/faq/geld-berweisen/983#371/wie-kann-ich-mein-referenzkonto-ndern).
+You must still write emails and make phone calls for some operations. For example, if you want to change your bank details, [you must email their customer service](https://www.degiro.de/helpcenter/faq/geld-berweisen/983#371/wie-kann-ich-mein-referenzkonto-ndern).
 
 If you enter your password wrong too many times, you must call them to unlock your account.
 

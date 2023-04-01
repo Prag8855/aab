@@ -97,7 +97,7 @@ There are many [bike repair shops](https://www.google.com/maps/search/Fahrradwer
 
 ### Self-service workshops
 
-If you want to repair your bicycle yourself, there are many self-service repair stations (*Selbsthilfewerkstatt*) in Berlin. Many of them have friendly people who can teach you how to repair your bike.
+There are self-service repair stations (*Selbsthilfewerkstatt*) where you can repair your bike yourself. You can borrow tools, and get help from people who work there.
 
 - [ADFC bicycle workshop](https://berlin.adfc.de/artikel/die-fahrrad-selbsthilfe-werkstatt-shw-des-adfc-berlin) (Kreuzberg)
 - [Berliner Fahrradmarkt](http://berlinerfahrradmarkt.de/) (Moabit, Kreuzberg, Prenzlauer Berg) - bicycle market with repair station

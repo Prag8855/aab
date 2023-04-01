@@ -148,7 +148,7 @@ If you sell your vehicle, you can cancel your vehicle insurance immediately. You
 
 ### Insurance Green Card
 
-If you want to drive outside the European Union, you will need a Green Card (*Grüne Karte*). This document lists the countries in which your car insurance is valid. [It looks like this](https://commons.wikimedia.org/wiki/File:IVK.png). When you leave the European Union, you must show your green card at the border control. [This map](https://en.wikipedia.org/wiki/International_Motor_Insurance_Card_System#/media/File:International_Motor_Insurance_Systems.png) shows which countries accept Green Cards. In other countries, you might need to buy car insurance at the border.
+To drive outside the European Union, you need a Green Card (*Grüne Karte*). This document lists the countries in which your car insurance is valid. [It looks like this](https://commons.wikimedia.org/wiki/File:IVK.png). When you leave the European Union, you must show your green card at the border control. [This map](https://en.wikipedia.org/wiki/International_Motor_Insurance_Card_System#/media/File:International_Motor_Insurance_Systems.png) shows which countries accept Green Cards. In other countries, you might need to buy car insurance at the border.
 
 You can request a Green Card from your car insurance company. This is usually free.[^23]
 

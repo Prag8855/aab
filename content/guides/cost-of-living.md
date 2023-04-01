@@ -202,7 +202,7 @@ To save money, buy used furniture. You can find free/cheap furniture on [eBay Kl
 
 **Cost:** 1,500€ to 2,000€. Less if you convert a foreign licence.
 
-If you want to drive in Germany, you need a driving licence. You can sometimes [convert your foreign driving licence](/guides/canadian-german-driving-license).
+You need a driving licence to drive in Germany. You can sometimes [convert your foreign driving licence](/guides/canadian-german-driving-license).
 
 **[How to get a (motorcycle) driving licence ➞](/guides/driving-licence)**
 

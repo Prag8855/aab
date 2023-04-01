@@ -14,4 +14,4 @@ When you transfer money, you need the recipient's [[IBAN]]. You can also leave a
 
 You can make a SEPA transfer at the bank, in your banking app, or with online banking. You can also sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat).
 
-If you want to transfer money to a bank that does not support SEPA transfers, use [Wise](/out/transferwise), [PayPal](https://www.paypal.com/) or wire transfers.
+To transfer money to a bank that does not support SEPA transfers, use [Wise](/out/transferwise), [PayPal](https://www.paypal.com/) or wire transfers.

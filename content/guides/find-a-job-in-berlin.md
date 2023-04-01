@@ -8,7 +8,7 @@ Related_reviews: reviews/find-a-job-in-berlin/greg-tomasik.md
 
 This guide helps you find a job in Germany.
 
-If you want to start a business in Germany, read [this guide](/guides/become-a-freelancer-in-germany) instead.
+To start a business in Germany, read [this guide](/guides/become-a-freelancer-in-germany) instead.
 
 {% include "blocks/_tableOfContents.html" %}
 

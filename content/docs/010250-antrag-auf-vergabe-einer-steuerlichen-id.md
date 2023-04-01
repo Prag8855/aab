@@ -42,7 +42,7 @@ If you fill this form because you can't register your current address:
 - **Grund für die Vergabe der IdNr.**  
     In the *Sonstiger Grund* field, write "Anmeldung zurzeit nicht möglich". If you are an employee, tick *Arbeitnehmer*.
 - **Zweck**  
-    If you are an employee, tick *Lohnsteuerabzug*. If you want to start a business, write "bevorstehende Gewerbeanmeldung" in *the Sonstiger Zweck* field.
+    If you are an employee, tick *Lohnsteuerabzug*. If you want to [start a business](/guides/start-a-business-in-germany), write "bevorstehende Gewerbeanmeldung" in *the Sonstiger Zweck* field.
 
 ## Where to send this form
 
