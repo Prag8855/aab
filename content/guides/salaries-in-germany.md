@@ -45,13 +45,13 @@ You pay these taxes and contributions:
 
 ### Median income
 
-The median income in Germany is {{MEDIAN_INCOME_GERMANY|cur}}€ per year. The median income in Berlin is {{MEDIAN_INCOME_BERLIN|cur}}€ per year.[^1] Berlin salaries are lower than in other German cities,[^2] but the [cost of living](/guides/cost-of-living) is also lower.
+The median household income in Germany is {{MEDIAN_INCOME_GERMANY|cur}}€ per year. In Berlin, it's {{MEDIAN_INCOME_BERLIN|cur}}€ per year.[^1] This is only for households with working people. The median income per person is much lower: 2,109€ per month.[^6] The median income for immigrants is lower.
 
-In Germany, people sometimes mention their monthly income instead of their yearly income.
+**[Compare your income](https://www.iwkoeln.de/fileadmin/user_upload/HTML/2022/Einkommensrechner/index.html)** (German) - Enter your [[Netto income]], see how it compares to what other people earn.
 
-**[Median income by profession](https://web.arbeitsagentur.de/entgeltatlas/)** (German) - Federal Employment Office
+[Median income by profession](https://web.arbeitsagentur.de/entgeltatlas/) (German) - Federal Employment Office
 
-**[Median income by location](https://arbeitsagentur.maps.arcgis.com/apps/View/index.html?appid=4c75eaa971ec4d3e951ae5c99d7367ec)** (German) - Federal Employment Office
+[Median income by location](https://arbeitsagentur.maps.arcgis.com/apps/View/index.html?appid=4c75eaa971ec4d3e951ae5c99d7367ec) (German) - Federal Employment Office
 
 ### Minimum wage
 
@@ -88,8 +88,9 @@ In Germany, most people are paid **once per month, usually on the 1st or 15th** 
 Almost everyone is paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you start working in Germany, [you need a bank account](/guides/first-bank-account-in-germany) that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Your bank can be in another European country.
 
 [^0]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Realloehne-Nettoverdienste/Tabellen/liste-entwicklung-nettoverdienste.html)
-[^1]: [focus.de](https://www.focus.de/finanzen/interaktive-karte-mit-3426-euro-gehoeren-sie-in-deutschland-zur-oberen-haelfte-jedoch-nicht-in-allen-regionen_id_13522236.html)
+[^1]: [arbeitsagentur.de](https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=21424&topic_f=beschaeftigung-entgelt-entgelt), [focus.de](https://www.focus.de/finanzen/interaktive-karte-mit-3426-euro-gehoeren-sie-in-deutschland-zur-oberen-haelfte-jedoch-nicht-in-allen-regionen_id_13522236.html) (2020), [bz-berlin.de](https://www.bz-berlin.de/berlin/tabuthema-gehalt-das-verdienen-die-berliner) (2020)
 [^2]: [Settle in Berlin](https://www.settle-in-berlin.com/salary-in-berlin/)
 [^3]: [zoll.de](https://www.zoll.de/EN/Businesses/Work/Foreign-domiciled-employers-posting/Minimum-conditions-of-employment/Minimum-pay-pursuant-Minimum-Wage-Act/minimum-pay-pursuant-minimum-wage-act_node.html)
 [^4]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/_Grafik/_Interaktiv/beschaeftigungsverhaeltnisse-anteil-ml.html)
 [^5]: [wirtschaftsforum.de](https://www.wirtschaftsforum.de/tipps/13-monatsgehalt-das-muessen-sie-darueber-wissen)
+[^6]: [iwkoeln.de](https://www.iwkoeln.de/presse/pressemitteilungen/judith-niehues-maximilian-stockhausen-viele-deutsche-schaetzen-ihre-einkommensposition-falsch-ein.html)
