@@ -83,13 +83,13 @@ This insurance does not cover you if your dog...
 
 In Berlin, your coverage must be at least 1 million euros.[^2] If you travel with your dog, make sure your insurance also covers you in other countries. If your dog is a [dangerous breed](/guides/pet-ownership#rules-for-dangerous-breeds), make sure your insurance covers dangerous breeds.
 
-*Hundehaftpflichtversicherung* is cheap. It costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) offer dog liability insurance, and they speak English. They both cover dangerous breeds.
+*Hundehaftpflichtversicherung* is cheap. It costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) offer dog liability insurance, and they speak English. They cover dangerous breeds.
 
 ### Pet health insurance
 
 You can also get pet health insurance (*[[Tierkrankenversicherung]]*). If your dog gets sick, this insurance covers the veterinary bills. It rarely covers routine operations like vaccines or castration,[^8] but it covers expensive operations. This can be important when your dog gets old.
 
-The price of pet insurance depends on the age, race and sex of your dog. Basic coverage costs around 20€ per month. Full coverage costs around 60€ per month. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare prices. If you don't speak German, [Getsafe](/out/getsafe-pethealth) offers pet health insurance, and they speak English.
+The price of pet insurance depends on the age, race and sex of your dog. Basic coverage costs around 20€ per month. Full coverage costs around 60€ per month. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare prices. If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Luko](/out/luko-pethealth) offer pet health insurance, and they speak English.
 
 ## How to behave with a dog
 

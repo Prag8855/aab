@@ -43,7 +43,7 @@ If you lost a key, your landlord can *sometimes* charge you to change the locks 
 
 Your lease can't force you to pay to replace the locks. That would be an invalid clause.[^8]
 
-Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1,000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) offer liability insurance that covers lost keys, and they speak English.
+Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1,000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance that covers lost keys, and they speak English.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -54,7 +54,7 @@ Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtvers
 - **Give a key to a trusted friend**  
     If you lock yourself out, you can call your friend instead of a locksmith.
 - **Get [liability insurance](/glossary/Haftpflichtversicherung)**  
-    It covers the cost of replacing all the locks, and it costs less than 5€ per month. Liability insurance is the most important insurance to have - 85% of Germans have it.[^3] [This guide](/guides/haftpflichtversicherung) explains why it's so important. [Feather](/out/popsure-haftpflichtversicherung) and [GetSafe](/out/getsafe-haftpflicht) offer liability insurance for under 5€ per month. They cover lost keys for rented apartments, and they speak English.
+    It covers the cost of replacing all the locks, and it costs less than 5€ per month. Liability insurance is the most important insurance to have - 85% of Germans have it.[^3] [This guide](/guides/haftpflichtversicherung) explains why it's so important. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance for under 5€ per month. They cover lost keys for rented apartments, and they speak English.
 - **Get [household insurance](/glossary/Hausratversicherung)**  
     Some policies cover the cost of a locksmith. Use [Tarifcheck](/out/tarifcheck-hausrat) to find a home contents insurance that covers locksmiths. [Feather](/out/feather-hausrat)'s household insurance cover locksmiths,[^1] and they speak English.
 
