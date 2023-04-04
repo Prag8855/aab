@@ -1,7 +1,7 @@
 ---
 Title: How to buy a car in Germany
 Short_title: How to buy a car
-Description: A step by step guide to buying, registering and insuring a vehicle in Berlin and the rest of Germany
+Description: A step by step guide to buying, registering and insuring a vehicle in Berlin and the rest of Germany. Also works for motorcycles.
 Date_created: 2019-01-06
 ---
 
@@ -14,6 +14,8 @@ This is how you buy a car or a motorcycle in Germany. This guide tells you how t
 **Not in Berlin.** [Cars are expensive to own](/guides/car-cost-of-ownership-germany), and they are not useful in Berlin. Driving in Berlin is not fun. There is too much traffic. Parking is expensive, and hard to find.
 
 Public transportation is better, cheaper and often faster. A car is more useful to travel outside of Berlin, or to move big things.
+
+**[How to use public transit in Berlin ➞](/guides/public-transit)**
 
 ## Step 1: Look at vehicles
 
