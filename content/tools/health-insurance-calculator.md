@@ -3,12 +3,13 @@ Title: German health insurance calculator
 Short_title: Health insurance calculator
 Description: This calculator helps you choose health insurance in Germany. It shows you insurance prices for employees, students and freelancers.
 Date_created: 2022-01-18
-Date_updated: 2022-08-30
 ---
 
 This calculator helps you choose health insurance in Germany. It tells you how much health insurance costs, and how to pay less.
 
 {% include 'blocks/_healthInsuranceCalculatorStatic.html' %}
+
+You should also try Feather's [health insurance recommendation tool](/out/feather-calc). It's ridiculously good.
 
 ## Cost of German health insurance
 
@@ -22,11 +23,9 @@ If you are self-employed, you pay by [SEPA transfer](/glossary/SEPA-%C3%9Cberwei
 
 ## How to choose health insurance
 
+Read my [German health insurance guide](/guides/german-health-insurance), then talk to a health insurance broker. A broker will help you choose the best health insurance for your needs.
+
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
-
-## Need help?
-
-If you need more help, read my [German health insurance guide](/guides/german-health-insurance), or talk to a health insurance broker.
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 

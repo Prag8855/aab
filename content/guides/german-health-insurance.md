@@ -20,7 +20,7 @@ You pay for your health insurance every month. If you are sick, your health insu
 
 ## Your options
 
-Use my German health insurance calculator to see your options.
+Use my German health insurance calculator to see your options. Feather's [health insurance recommendation tool](/out/feather-calc) is also really good.
 
 {% include 'blocks/_healthInsuranceCalculator.html' %}
 
@@ -194,9 +194,9 @@ With private health insurance, you usually pay for healthcare yourself, and get 
 
 ### Which private health insurance should I choose?
 
-There are big differences between private health insurance companies. Each offers very different options. The best option depends on your situation.
+There are big differences between private health insurance companies. Each offers very different options. **The best option depends on your situation.**
 
-The best way to choose private health insurance is to ask a health insurance broker. Their help is free. They get paid by the insurance companies when they bring new customers.
+The best way to choose is to ask a health insurance broker. Their help is free. They get paid by the insurance companies when they bring new customers.
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
