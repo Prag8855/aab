@@ -8,7 +8,7 @@ Date_updated: 2022-05-25
 
 When you apply for a German residence permit, you must get valid health insurance in Germany. If your health insurer is approved by [[BaFin]], it's usually accepted by the German embassy, consulate or *[[Ausländerbehörde]]*.
 
-Public health insurers are all accepted for a visa application. [Techniker Krankenkasse](/out/signup-tk), [AOK](/out/popsure-aok), [DAK](/out/dak), [Barmer](/out/barmer) and many others are all approved. They do not need to be approved by BaFin.
+Public health insurers are all accepted for a visa application. [Techniker Krankenkasse](/out/signup-tk), [AOK](/out/feather-aok), [DAK](/out/dak), [Barmer](/out/barmer) and many others are all approved. They do not need to be approved by BaFin.
 
 If you need help choosing the right health insurance, ask a [health insurance broker](/guides/german-health-insurance#insurance-brokers). Their help is free. They get paid by the insurance companies to bring them new customers.
 

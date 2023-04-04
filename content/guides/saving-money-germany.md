@@ -43,7 +43,7 @@ This only works in certain cases. For example, if you are a student from another
 - **Total savings:** 100€ to 500€ per month
 - **Effort required:** fill a few forms, take a medical exam, wait up to 3 months
 
-Public health insurance is usually the best option, but in [some specific cases](/guides/german-health-insurance), private health insurance makes more sense. For example, if you are a freelancer with a high income, you can save up to 500€ per month with private health insurance, *and* you get better coverage. This happened to me. My health insurance broker ([Feather](/out/popsure)) helped me find private health insurance. I save over 400€ per month.
+Public health insurance is usually the best option, but in [some specific cases](/guides/german-health-insurance), private health insurance makes more sense. For example, if you are a freelancer with a high income, you can save up to 500€ per month with private health insurance, *and* you get better coverage. This happened to me. My health insurance broker ([Feather](/out/feather)) helped me find private health insurance. I save over 400€ per month.
 
 **This is not a simple decision.** Private health insurance is not always a better option. This decision has serious long term consequences. Talk to a health insurance broker first. Their help is free.
 

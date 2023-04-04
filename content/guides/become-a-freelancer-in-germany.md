@@ -68,7 +68,7 @@ It's hard to [choose the right health insurance](/guides/german-health-insurance
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-I trust [Feather](/out/popsure). I work with them since 2018. I have my health insurance with them. They helped me switch to private insurance and save over 400€ *per month*. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with expats.
+I trust [Feather](/out/feather). I work with them since 2018. I have my health insurance with them. They helped me switch to private insurance and save over 400€ *per month*. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with expats.
 
 To compare health insurance prices, you can use [Tarifcheck](/out/tarifcheck-health). It just shows you prices. It does not help you pick the right insurance.
 

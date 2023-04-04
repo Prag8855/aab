@@ -177,7 +177,7 @@ You need health insurance to get a German freelance visa.
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
-Many visa applications are rejected because of invalid health insurance. German [public](/glossary/private%20Krankenversicherung) and [private health insurance](/glossary/private%20Krankenversicherung) is always valid. [[Expat health insurance]] from [Feather](/out/popsure-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is also valid. Cheap expat health insurance is often rejected.
+Many visa applications are rejected because of invalid health insurance. German [public](/glossary/private%20Krankenversicherung) and [private health insurance](/glossary/private%20Krankenversicherung) is always valid. [[Expat health insurance]] from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is also valid. Cheap expat health insurance is often rejected.
 
 If you just moved to Germany and never had German health insurance, you might be forced to get private health insurance or expat health insurance. Public health insurers often reject freelancers from non-EU countries.
 
@@ -185,7 +185,7 @@ If you don't know which health insurance to choose, **just talk to a health insu
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-I work with [Feather Insurance](/out/popsure) since 2018. They helped me get private health insurance and save over 400€ per month. They speak English, and they have a lot of experience with expat freelancers.
+I work with [Feather Insurance](/out/feather) since 2018. They helped me get private health insurance and save over 400€ per month. They speak English, and they have a lot of experience with expat freelancers.
 
 **If you are a freelance artist, publicist or art teacher**, you can apply for the *[[Künstlersozialkasse]]* after you get your freelance visa. They will pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). It's a really good deal.
 
@@ -239,7 +239,7 @@ You must get an appointment at [your local German embassy or consulate](https://
 
 ### Step 2: Prepare for your visa interview
 
-Before you go to your visa interview, prepare the [required documents](/guides/how-to-get-a-german-freelance-visa#required-documents). You also need [health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa) and [a place to live in Germany](/guides/find-a-flat-in-berlin). In your case, you might need expat health insurance for a few months, until you can get public or private health insurance. [[Expat health insurance]] from [Feather](/out/popsure-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is valid. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose the correct health insurance.
+Before you go to your visa interview, prepare the [required documents](/guides/how-to-get-a-german-freelance-visa#required-documents). You also need [health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa) and [a place to live in Germany](/guides/find-a-flat-in-berlin). In your case, you might need expat health insurance for a few months, until you can get public or private health insurance. [[Expat health insurance]] from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is valid. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose the correct health insurance.
 
 The list of required documents is different in each country. Check the website of your local embassy or consulate. The list on this page is for people who apply at the *[[Ausländerbehörde]]* in Berlin.
 

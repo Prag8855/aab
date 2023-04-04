@@ -23,7 +23,7 @@ For example:
 
 If someone gets hurt because of you, you might pay thousands or even millions of euros in reparations. This is why liability insurance is so important.
 
-83% of Germans have liability insurance.[^6] It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options. If you don't speak German, [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
+83% of Germans have liability insurance.[^6] It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options. If you don't speak German, [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 

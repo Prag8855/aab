@@ -46,7 +46,7 @@ But you should not just look at the price. The best health insurance depends on 
 
 [Ottonova](/out/ottonova) offers customer service in English, 24/7. If you don't speak German, this is a big benefit.
 
-Public health insurers like [Techniker Krankenkasse](/guides/techniker-krankenkasse-review) and [AOK](/out/popsure-aok) *unofficially* have English customer service.
+Public health insurers like [Techniker Krankenkasse](/guides/techniker-krankenkasse-review) and [AOK](/out/feather-aok) *unofficially* have English customer service.
 
 **Related guide:** [My Techniker Krankenkasse review](/guides/techniker-krankenkasse-review)
 
@@ -66,7 +66,7 @@ This is nice, but not unique. The [TK app](https://www.tk.de/techniker/magazin/d
 
 When you apply for a German [residence permit](/glossary/Aufenthaltstitel), you need valid health insurance. Ottonova's health insurance is accepted by the German embassies, consulates and *[[Ausländerbehörde]]*. Health insurance from Ottonova is valid for the [German freelance visa](/guides/how-to-get-a-german-freelance-visa), [work visa](/guides/german-work-visa)[^12] and Blue Card. Ottonova confirms this on [their home page](/out/ottonova-expats). They also have a [[BaFin]] licence.[^2]
 
-If you [move to Germany as a freelancer](/guides/become-a-freelancer-in-germany), it's hard to get health insurance. Many private health insurers don't accept recent immigrants. In this case, Ottonova is a good option, because they accept immigrants. [Feather](/out/popsure-expats) also offers health insurance for expat freelancers. Health insurance brokers can also get you insured.
+If you [move to Germany as a freelancer](/guides/become-a-freelancer-in-germany), it's hard to get health insurance. Many private health insurers don't accept recent immigrants. In this case, Ottonova is a good option, because they accept immigrants. [Feather](/out/feather-expats) also offers health insurance for expat freelancers. Health insurance brokers can also get you insured.
 
 **Related guide:** [Which health insurance do you need for your German visa?](/guides/german-visa-health-insurance)
 
@@ -105,7 +105,7 @@ You can read more about Ottonova on [the Ottonova website](/out/ottonova).
 
 ### Other options
 
-- If you need a health insurer that speaks English, there is also [Techniker Krankenkasse](/guides/techniker-krankenkasse-review) and [AOK](/out/popsure-aok). Both are [public health insurers](/glossary/gesetzliche%20Krankenversicherung).
+- If you need a health insurer that speaks English, there is also [Techniker Krankenkasse](/guides/techniker-krankenkasse-review) and [AOK](/out/feather-aok). Both are [public health insurers](/glossary/gesetzliche%20Krankenversicherung).
 - If you need health insurance for your German visa, there are [many options](/guides/german-visa-health-insurance).
 
 In my opinion, you should not choose your health insurance yourself. The best solution is to talk to a health insurance broker, and let them find the best insurance for you. They can help you get better, cheaper health insurance. Their help is completely free.

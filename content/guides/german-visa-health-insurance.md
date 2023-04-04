@@ -62,13 +62,13 @@ If you are not sure, ask a health insurance broker. They will help you choose th
 
 If you already know what you need, use [Tarifcheck](/out/tarifcheck-health) to compare health insurance prices.
 
-If you just want health insurance for your visa application, try [Feather](/out/popsure-expats) or [Ottonova](/out/ottonova-expats). Many people confirmed that it worked for them. I got my private health insurance from Feather, and often work them. You can trust them.
+If you just want health insurance for your visa application, try [Feather](/out/feather-expats) or [Ottonova](/out/ottonova-expats). Many people confirmed that it worked for them. I got my private health insurance from Feather, and often work them. You can trust them.
 
 ### Expat health insurance for German visas
 
 If you apply for a work visa, a Blue Card, a student visa, a freelance visa, a job seeker visa or any other [residence permit](/glossary/Aufenthaltstitel), pick one of these options:
 
-- **[Feather](/out/popsure-expats)** is accepted for all visa applications.[^12] They offer public, private and expat health insurance. They get you the documents you need in 24 hours, and let you cancel the insurance if something goes wrong. I often work with Feather, and I trust them the most. I am insured with them.
+- **[Feather](/out/feather-expats)** is accepted for all visa applications.[^12] They offer public, private and expat health insurance. They get you the documents you need in 24 hours, and let you cancel the insurance if something goes wrong. I often work with Feather, and I trust them the most. I am insured with them.
 - **[Ottonova](/out/ottonova-expats)** is a health insurance startup from Munich. They offer private and expat health insurance. They speak English. Many people have confirmed that they got their visa with their expat insurance.[^4] I reviewed their service [here](/guides/ottonova-review).
 - **[Care Concept](/out/care-concept)**, is also accepted.[^5] A relocation consultant and many freelancers confirmed this.
 - **[aLC](https://www.alchealth.com/)**,[^6] **[April International](https://de.april-international.com/de)**[^7] and **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)** are usually accepted.[^13]

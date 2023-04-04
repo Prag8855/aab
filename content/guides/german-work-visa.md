@@ -241,7 +241,7 @@ Health insurance brokers help you choose the best health insurance for your need
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
-I recommend [Feather Insurance](/out/popsure) because I work with them since 2018. I know the founder and the team personally. They helped me switch to private health insurance in 2021. They helped thousands of my readers over the years.
+I recommend [Feather Insurance](/out/feather) because I work with them since 2018. I know the founder and the team personally. They helped me switch to private health insurance in 2021. They helped thousands of my readers over the years.
 
 ### Step 8: Make your residence permit appointment
 

@@ -79,7 +79,7 @@ Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance pri
 3. **Check your insurance company on [Trustpilot](https://www.trustpilot.com/)**  
     See if people have problems getting paid by the insurance company.
 4. **Read your insurance policy**  
-    All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) have their contracts in English.
+    All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) have their contracts in English.
 
 ### The minimum coverage you need
 
@@ -112,15 +112,15 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/popsure-haftpflichtversicherung), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
 
-You must understand your insurance contract. It's important. [Feather](/out/popsure-haftpflichtversicherung) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
+You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
 You can also talk to an English-speaking insurance broker. They will help you pick the best liability insurance. Choose an *independent* insurance broker. They will recommend products from different insurers. For liability insurance, it's less important.
 
 ### My personal choice
 
-I have liability insurance with [Feather](/out/popsure-haftpflichtversicherung), but I have not used it yet. I chose them for a few reasons:
+I have liability insurance with [Feather](/out/feather-haftpflicht), but I have not used it yet. I chose them for a few reasons:
 
 - They helped me get private health insurance before. I trust their services.
 - I know their founder since many years, and met him multiple times. I trust him.

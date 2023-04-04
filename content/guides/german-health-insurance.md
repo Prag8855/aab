@@ -109,7 +109,7 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 If you don't speak German, [Techniker Krankenkasse](/out/signup-tk) and [Barmer](/out/barmer) speak English.
 
-I was with [Techniker Krankenkasse](/out/signup-tk) for 6 years. [I was very happy with them](/guides/techniker-krankenkasse-review). [AOK](/out/popsure-aok), [Barmer](/out/barmer) and [DAK](/out/dak) are three other big public health insurers.
+I was with [Techniker Krankenkasse](/out/signup-tk) for 6 years. [I was very happy with them](/guides/techniker-krankenkasse-review). [AOK](/out/feather-aok), [Barmer](/out/barmer) and [DAK](/out/dak) are three other big public health insurers.
 
 A health insurance broker can help you choose health insurance. Their help is free.
 
@@ -119,7 +119,7 @@ A health insurance broker can help you choose health insurance. Their help is fr
 
 - [My review of Techniker Krankenkasse](/guides/techniker-krankenkasse-review)
 - [Sign up with Techniker Krankenkasse](/out/signup-tk)
-- [Sign up with AOK](/out/popsure-aok)
+- [Sign up with AOK](/out/feather-aok)
 - [Sign up with DAK](/out/dak)
 - [Sign up with Barmer](/out/barmer)
 
@@ -249,7 +249,7 @@ There are **three reasons to get expat health insurance**:
 **Useful links:**
 
 - [Which health insurance do you need for your German visa?](/guides/german-visa-health-insurance)
-- [Feather expat insurance](/out/popsure-expats) - from 72€ per month, valid for residence permit applications[^31]
+- [Feather expat insurance](/out/feather-expats) - from 72€ per month, valid for residence permit applications[^31]
 - [Ottonova expat insurance](/out/ottonova-expats) - from 155€ per month, valid for residence permit applications
 
 ## Other options
@@ -291,7 +291,7 @@ If you are an immigrant, **choose a broker who works with expats**. Your needs a
 
 I recommend two insurance brokers:
 
-- [Feather](/out/popsure). I know them personally, and work with them since 2018. I got my health insurance from them.
+- [Feather](/out/feather). I know them personally, and work with them since 2018. I got my health insurance from them.
 - [Derrick Loehr](https://optimumcapital.de/). He gave me a lot of useful advice about health insurance when I wrote those guides.
 
 ### Price comparison websites
@@ -341,4 +341,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^30]: [allaboutberlin.com](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance)
 [^31]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/784763808658991/)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
-[^33]: Dr. Rob Schumacher, [Feather Insurance](/out/popsure)
+[^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)

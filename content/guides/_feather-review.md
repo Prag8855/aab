@@ -6,7 +6,7 @@ Date_created: 2021-03-23
 Date_updated: 2023-01-29
 ---
 
-I often recommend [Feather](/out/popsure) on All About Berlin. They are also a popular health insurance option for expats.
+I often recommend [Feather](/out/feather) on All About Berlin. They are also a popular health insurance option for expats.
 
 In this guide, I explain why I work with them, and why I recommend their services.
 
@@ -16,7 +16,7 @@ In this guide, I explain why I work with them, and why I recommend their service
 
 ## What is Feather Insurance?
 
-[Feather](/out/popsure) is a German insurance broker in Berlin. They sell different insurance products like health insurance, liability insurance, legal insurance, dental insurance, etc.
+[Feather](/out/feather) is a German insurance broker in Berlin. They sell different insurance products like health insurance, liability insurance, legal insurance, dental insurance, etc.
 
 Feather is not an insurance company, but an insurance broker. A broker sells insurance from different companies, and helps you choose insurance. They do not offer their own insurance.
 
@@ -58,7 +58,7 @@ I don't do this. I recommend Feather and other services because I use them, unde
 
 I recommend Feather, because I know you can trust them. I used their services, I know their founder personally, and I work with them since 2018. If you need help with health insurance, they're the right people to contact. You have my word.
 
-**[Visit Feather's website](/out/popsure)**
+**[Visit Feather's website](/out/feather)**
 
 ## Other insurance brokers I recommend
 

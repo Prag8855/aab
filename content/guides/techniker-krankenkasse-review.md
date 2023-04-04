@@ -94,7 +94,7 @@ Techniker Krankenkasse is very good. It's the best-rated public health insurer i
 - It also ranked #1 on [Testsieger-Berichte's test](https://www.testsieger-berichte.de/gesetzliche-krankenversicherung-test/).
 - It ranked #1 next to HEK on [Finanztip's report](https://www.finanztip.de/gkv/).
 
-I am not cherry-picking facts. Every article I have found ranks TK first. In 2019, [my insurance broker](/out/popsure) also said that it's by far the best public option.
+I am not cherry-picking facts. Every article I have found ranks TK first. In 2019, [my insurance broker](/out/feather) also said that it's by far the best public option.
 
 In 2021, TK raised their prices. It's still a good deal, but it means you should also look at other options. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you pick health insurance. Their advice is free.
 
@@ -134,7 +134,7 @@ In 2021, I switched to private health insurance. I was still very happy with TK,
 
 ## How to sign up with TK
 
-If you want be insured with the Techniker Krankenkasse, fill [this simplified form](/out/signup-tk). It takes 10 minutes, and [Feather](/out/popsure) takes care of the rest. Feather is an English-speaking health insurance broker in Berlin. I work with them since a long time and I trust them.
+If you want be insured with the Techniker Krankenkasse, fill [this simplified form](/out/signup-tk). It takes 10 minutes, and [Feather](/out/feather) takes care of the rest. Feather is an English-speaking health insurance broker in Berlin. I work with them since a long time and I trust them.
 
 **[Sign up with Techniker Krankenkasse](/out/signup-tk)**
 
