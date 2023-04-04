@@ -17,9 +17,11 @@ There are two ways to go to the Berlin *Ausländerbehörde*:
 
 ## Is it hard to get an appointment?
 
-**It's almost impossible.** It can take weeks just to find an appointment.[^0] If you [apply by email](#by-email), it can take months to get an answer. If this is your first [residence permit](/glossary/Aufenthaltstitel), you can't work, freelance or study while you wait for your residence permit.
+**It's almost impossible.** It takes weeks just to find an appointment.[^0] If you [apply by email](#by-email), it can take months to get an answer. Start looking for an appointment as soon as possible.
 
-Look for an appointment as soon as possible. If you are [moving to Berlin](/guides/moving-to-berlin), start looking before you arrive.
+If this is your first [residence permit](/glossary/Aufenthaltstitel), you can't work, freelance or study while you wait for your residence permit. You need enough savings to survive during that time.
+
+If you are [moving to Berlin](/guides/moving-to-berlin), start looking before you arrive. You can also apply for a visa in your home country, and only move to Germany when you have permission to work.
 
 ## How to get an appointment
 
@@ -27,9 +29,11 @@ Look for an appointment as soon as possible. If you are [moving to Berlin](/guid
 
 **[Book an appointment online](/out/auslanderbehorde-appointment)** on the *Ausländerbehörde* website.
 
-**Most of the time, there are no appointments available**. This is not a bug. Keep the calendar page open, and refresh it every few minutes. New appointments become available at random times. They release short-term appointments every Wednesday and Friday.[^1] Sometimes, the website crashes. Wait a few minutes and try again.
+**Most of the time, there are no appointments available**. This is not a bug. Check again every few minutes. Sometimes, the website crashes. Try again later.
 
-Your appointment could be months in the future. After your appointment, you must wait until your residence permit is approved. This can also take a few months.
+New appointments appear at random times, mostly during working hours. Short-term appointments appear on Wednesdays and Fridays.[^1]
+
+If you find an appointment, it can be months later. After your appointment, you must wait until your residence permit is approved. This can also take a few months.
 
 **[If your visa expires soon ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
@@ -49,13 +53,13 @@ To do this, you must...
     - Your date and place of birth
     - Your nationality
     - The expiration date of your visa or residence permit
-    - If you need a *[[Fiktionsbescheinigung]]* to travel after your residence permit expires[^23]
+    - If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23]
 3. Attach *all* required documents for your residence permit application. Complete applications are processed faster.[^23]
 4. Send your email and wait for a response. It can take a few months.
 
 The *Ausländerbehörde* can take days, weeks or months to answer.[^4] It depends on how urgent your situation is, and how complete your application is.
 
-If you send all your documents, it counts as a residence permit application. If your residence permit expires while you wait, the conditions of your residence permit still apply. You can keep working, freelancing or studying like before.[^5] You should not travel outside of Germany, because you can't re-enter the country with an expired residence permit.
+If you send all your documents, it counts as a residence permit application.
 
 **[If your visa expires soon ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
@@ -123,9 +127,9 @@ If the *Ausländerbehörde* can't reach you, they will post the information [her
 
 When your residence permit is approved, you must pay a fee. You only pay the fee if you get a residence permit is approved. If your application is rejected, you pay nothing.
 
- They will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you can also get cash from [this nearby ATM](https://goo.gl/maps/8cBy48WnTfbya13r6), even at night.
+They will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you can also get cash from [this nearby ATM](https://goo.gl/maps/8cBy48WnTfbya13r6), even at night.
 
-![Auslaenderbehoerde kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
+![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
 
 After you pay, you can go home. Keep your receipt; residence permit fees are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
@@ -133,19 +137,21 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 
 In some cases, you can stay in Germany after your visa or residence permit expires.
 
-After your *Ausländerbehörde* appointment, the interviewer can give you a *[[Fiktionsbescheinigung]]*. This temporary visa lets you stay in Germany while you wait for your new residence permit. If you forgot some documents, the *[[Fiktionsbescheinigung]]* gives you more time to reapply.
-
 ### If you have a [residence permit](/glossary/Aufenthaltstitel)
 
-**If you have an Ausländerbehörde appointment**, you can stay in Germany until your appointment date, even if your residence permit expires.[^20] You can continue working, freelancing or studying until your appointment date.[^11] You must book the appointment while your residence permit is valid.[^21]
+You can stay in Germany until the *Ausländerbehörde* makes a decision if...
 
-During your appointment, ask for a *[[Fiktionsbescheinigung]]*. This will let you travel outside of Germany, even if your residence permit expires.
+- You have an Ausländerbehörde appointment **and** you booked your appointment while your residence permit was valid[^21]
+- **or** you [applied by email](#by-email) while your residence permit was valid[^13]
+- **or** you have a *[[Fiktionsbescheinigung]]*
+
+In those cases, you can stay in Germany even if your residence permit expires.[^20] You can continue working, freelancing or studying until your appointment date.[^11] You must book the appointment while your residence permit is valid.
+
+If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*. It lets you travel outside of Germany after your residence permit expires.
+
+If your residence permit expires, and you travel outside of Germany without a  *[[Fiktionsbescheinigung]]*, they might not let you re-enter Germany.[^14]
 
 **[Information about the Fiktionsbescheinigung ➞](/guides/fiktionsbescheinigung)**
-
-**If you [apply by email](#by-email)**, the automated response counts as an application.[^12] You can stay in Germany until they process your application.[^5] You can continue to work, freelance or study while you wait.[^22] You must email your documents before your residence permit expires.[^13]
-
-If your residence permit expires and you don't have a *[[Fiktionsbescheinigung]]*, don't leave Germany. You can't re-enter Germany with an expired residence permit.[^14]
 
 ### If you don't have a residence permit
 
@@ -154,6 +160,8 @@ If your residence permit expires and you don't have a *[[Fiktionsbescheinigung]]
 **You can rarely convert a [[Schengen visa]] to a residence permit**.[^16] You can't come to Germany on a tourist visa, then apply for a work visa, Blue Card or freelance visa.[^17] If you want a German residence permit, you must apply in your own country.
 
 **You can rarely extend a Schengen visa**.[^18] An *Ausländerbehörde* appointment does not extend your Schengen visa.[^19] You must leave Germany before your Schengen visa expires. You won't get a *[[Fiktionsbescheinigung]]* if you are on a Schengen visa.
+
+During your *Ausländerbehörde* appointment, the interviewer can give you a *[[Fiktionsbescheinigung]]*. This temporary residence permit lets you stay in Germany while you wait for your new residence permit. If you forgot some documents, the *[[Fiktionsbescheinigung]]* also gives you time to reapply.
 
 ## Questions and answers
 
@@ -186,14 +194,12 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 [^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)
 [^2]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php), [berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
-[^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)
 [^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
 [^8]: [Screenshot](/images/fiktionsbescheinigung-travel-2021-09-17.png), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
 [^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/)
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)
-[^11]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=you%20can%20continue%20to%20work%20or%20study%20until%20your%20appointment)
-[^12]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=this%20e-mail%20will%20be%20classified%20as%20an%20application)
+[^11]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=you%20can%20continue%20to%20work%20or%20study%20until%20your%20appointment), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20residence%20title%20(permit%20of%20residence%2C%20blue%20card%2C%20visa%20for%20long%20term%20residence)%20will%20be%20considered%20as%20lawful%20in%20germany)
 [^13]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=the%20prerequisite%20is%20that%20you%20have%20sent%20your%20e-mail%20before%20the%20expiry%20)
 [^14]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php)
 [^15]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049085.en.php)
@@ -201,7 +207,6 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 [^17]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php)
 [^18]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
 [^19]: [Red Tape Translation](https://redtapetranslation.com/does-an-appointment-at-the-auslanderbehorde-extend-my-schengen-visa/#comment-1778)
-[^20]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Facebook](https://www.facebook.com/groups/226825394858771/posts/940638950144075/?comment_id=940981506776486&reply_comment_id=942997343241569)
+[^20]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Facebook](https://www.facebook.com/groups/226825394858771/posts/940638950144075/?comment_id=940981506776486&reply_comment_id=942997343241569), [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^21]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)
-[^22]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20residence%20title%20(permit%20of%20residence%2C%20blue%20card%2C%20visa%20for%20long%20term%20residence)%20will%20be%20considered%20as%20lawful%20in%20germany)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)

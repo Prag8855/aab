@@ -16,7 +16,7 @@ This bot helps you find an appointment to [register your address](/glossary/Anme
 
 In Berlin, most government services require an appointment. To [register an address](/glossary/Anmeldung), renew a passport or get a driving licence, you must book an appointment at the [[Bürgeramt]].
 
-**Bürgeramt appointments are hard to find**. Most of the time, there are no appointments.[^0] You must refresh the page again and again until you find one. Since most appointments are added during business hours,[^1] many Berliners must do this during work.
+**Bürgeramt appointments are hard to find**. Most of the time, there are no appointments.[^0] You must refresh the page again and again until you find one. Since most appointments are added during working hours,[^1] many Berliners must do this during work.
 
 ![Berlin.de showing no available appointments](/images/berlin-buergeramt-termin-kalender-b.png "No appointments available. Typisch Berlin.")
 

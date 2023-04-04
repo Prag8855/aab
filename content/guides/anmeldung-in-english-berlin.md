@@ -36,7 +36,7 @@ Get [an appointment to register your address](/out/appointment-anmeldung). You c
 
 If you can, book your appointment in advance. It helps you register your address faster.
 
-If there are no appointments, check again every few minutes. New appointments appear during business hours. You don't need to look early in the morning.[^2]
+If there are no appointments, check again every few minutes. New appointments appear during working hours, mostly in the morning. You don't need to look early in the morning.[^2]
 
 When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need it when you go to your appointment. If you lose this number, ask the *[[Bürgeramt]]* reception for it, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
 
