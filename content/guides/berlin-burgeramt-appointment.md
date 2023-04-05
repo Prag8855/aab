@@ -31,7 +31,7 @@ They only speak German. You must wait a few minutes to talk to someone.
 
 ## Email the Bürgeramt
 
-Email your local *Bürgeramt*, explain what you need, and ask for an appointment. You might get an appointment faster, even if there are no appointments online.[^1]
+Email your local *Bürgeramt*, explain what you need, and ask for an appointment. You might get an appointment faster, even if there are no appointments online.[^3]
 
 **[Find your local Bürgeramt ➞](https://service.berlin.de/standorte/buergeraemter/)**
 
@@ -66,3 +66,4 @@ You can do multiple things in one appointment:
 [^0]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
 [^1]: Confirmed by an employee who built the booking system (March 2023)
 [^2]: [berlin.de](https://service.berlin.de/buergertelefon/)
+[^3]: [twitter.com](https://twitter.com/MariaMl82747416/status/1631197057846333440), [twitter.com](https://twitter.com/Sansculotte/status/1607112833203855360), [twitter.com](https://twitter.com/Gregggyyy/status/1552203253659717633)
