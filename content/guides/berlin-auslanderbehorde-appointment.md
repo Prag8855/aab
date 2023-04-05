@@ -11,7 +11,7 @@ There are two ways to go to the Berlin *Ausländerbehörde*:
 - **With an appointment**  
     [Book an appointment online](/out/auslanderbehorde-appointment), then go to your appointment. It's almost impossible to find an appointment online.
 - **Without an appointment**  
-    If you can't get an appointment, you must [apply by email](#by-email). You can't go in person without an appointment.
+    If you can't get an appointment, you must [apply by email](#by-email). You can't go in person without an appointment.[^3]
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -71,7 +71,7 @@ You can send your residence permit application by [registered mail](/glossary/Ei
 
 ### Going to your appointment
 
-You must show your appointment confirmation at the gate. If you don't have it, you can't enter.
+You must show your appointment confirmation at the gate. If you don't have an appointment, you can't enter.[^3]
 
 Find the right office, floor and room. This information is in the email you get after you book your appointment.
 
@@ -119,7 +119,7 @@ If you don't get a residence permit, you pay nothing.
 
 ### If you don't get an answer
 
-If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*.[^9] This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
+If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*.[^9] This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€.[^5] [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
 
 If the *Ausländerbehörde* can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
@@ -210,3 +210,5 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 [^20]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Facebook](https://www.facebook.com/groups/226825394858771/posts/940638950144075/?comment_id=940981506776486&reply_comment_id=942997343241569), [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^21]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
+[^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/)
+[^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
