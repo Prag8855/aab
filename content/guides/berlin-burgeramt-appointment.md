@@ -1,38 +1,59 @@
 ---
 Title: How to get a Bürgeramt appointment in Berlin
 Short_title: How to get a Bürgeramt appointment
-Description: Make the Anmeldung a breeze by getting a Bürgeramt appointment quickly and easily.
+Description: This is how you get an appointment at the citizens' office in Berlin. This is required for the Anmeldung and many other services.
 Date_created: 2017-09-18
 ---
 
-If you must go to the *[[Bürgeramt]]* in Berlin, you must have an appointment. This guide shows you how to find an appointment, and what to do if there are no appointments available.
+If you must to the Berlin *[[Bürgeramt]]*, you need an appointment. This guide shows you how to get one.
 
 {% include "blocks/_tableOfContents.html" %}
 
-## Avoid it
-
-You don't always need to visit the *[[Bürgeramt]]*. You can do certain things online, or by post. For example, you can [deregister your address](/guides/abmeldung-deregister-in-berlin) ([*A<u>b</u>meldung*](/glossary/Abmeldung)) by email or by post.
-
 ## Book an appointment online
 
-Select a service from [the list of services](https://service.berlin.de/dienstleistungen/), and click "*Termin berlinweit suchen*" to look for appointments in all *Bürgeramt* locations.
+Choose a service in [the list of services](https://service.berlin.de/dienstleistungen/), and click "*Termin berlinweit suchen*".
 
 ![Berlin.de Termin buchen](/images/berlin-de-termin-buchen.png "Click this button to find an appointment anywhere in Berlin")
 
-You can also use the [*Anmeldung* appointment finder](/tools/appointment-finder) to find *[[Anmeldung]]* appointments faster.
+**If there are no appointments**, try again every few minutes. Most new appointments appear during working hours. There are more appointments in the morning, between 8:00 and 11:00.[^0] Look for appointments everywhere in Berlin, not just near you.
+
+### Use my appointment finder
+
+To [register your address](/glossary/Anmeldung), use my [*Anmeldung* appointment finder](/tools/appointment-finder).
 
 {% include "blocks/_appointmentFinder.html" %}
 
-**Sometimes, there are no appointments**. This is normal. Refresh the page every few minutes, and you will find an appointment. Look for appointments in all *Bürgeramt* locations, not just the nearest one.
+## Call 115
 
-Most new appointments appear on weekdays between 8:00 and 17:00. There are more appointments in the morning, between 8:00 and 11:00.[^0]
+Call [115](tel:+4930115) between 7:00 and 18:00.[^2] This is the *[[Bürgertelefon]]*. They can find you a *Bürgeramt* appointment, even when there are no appointments online.[^1]
 
-- [List of Bürgeramt services](https://service.berlin.de/dienstleistungen/) - Berlin.de
-- [List of Bürgeramt locations](https://service.berlin.de/standorte/buergeraemter/) - Berlin.de
+They only speak German. You must wait a few minutes to talk to someone.
+
+## Email the Bürgeramt
+
+Email your local *Bürgeramt*, explain what you need, and ask for an appointment. You might get an appointment faster, even if there are no appointments online.[^1]
+
+**[Find your local Bürgeramt ➞](https://service.berlin.de/standorte/buergeraemter/)**
+
+![Where to find the email of a Berlin Bürgeramt](/images/email-berlin-buergeramt.png)
+
+## Pay someone to go for you
+
+Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) offer this service.
+
+## More tips
+
+### Pick any Bürgeramt
+
+You can go to any *Bürgeramt* in Berlin, not just the one near you. The ones in central neighbourhoods are busier.[^1] You can't go to a *Bürgeramt* in [[Brandenburg]].
+
+### Use online services
+
+You can do some things online, and avoid a Bürgeramt visit. For example, you can [deregister your address](/guides/abmeldung-deregister-in-berlin) ([*A<u>b</u>meldung*](/glossary/Abmeldung)) by email or by post.
 
 ### Multiple services in one appointment
 
-You can do multiple things in one appointment.
+You can do multiple things in one appointment:
 
 1. Select a *Bürgeramt* in [this list](https://service.berlin.de/standorte/buergeraemter/)
 2. Select multiple services from the list
@@ -42,23 +63,6 @@ You can do multiple things in one appointment.
 
 ![Berlin Bürgeramt multiple appointments at once](/images/berlin-buergeramt-multiple-appointments.png "Look for available appointments")
 
-## Call 115
-
-Call [030 115](tel:+4930115). This is the *[[Bürgertelefon]]*. They can give you a *Bürgeramt* appointment, even when there are no appointments online.[^1]
-
-They only speak German. You must wait a few minutes to talk to someone.
-
-## Go without an appointment
-
-Do not go to the *Bürgeramt* without an appointment. **This is not possible in 2023**. You can't go to the *Bürgeramt* without an appointment.
-
-## Try other Bürgeramt locations
-
-You do not need to go to the nearest *Bürgeramt*. You can go to any location in Berlin. However, you can't go to a *Bürgeramt* in [[Brandenburg]].
-
-## Pay someone to do it
-
-Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) offer this service.
-
 [^0]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
 [^1]: Confirmed by an employee who built the booking system (March 2023)
+[^2]: [berlin.de](https://service.berlin.de/buergertelefon/)

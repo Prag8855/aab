@@ -104,7 +104,7 @@ During your *Anmeldung*, you get a registration certificate ([*Anmeldebestätigu
 
 Book your *Anmeldung* appointment as soon as you can. Appointments are hard to find, and can be far in the future. Your appointment date must be after you move in.
 
-{% include "blocks/appointmentLink/_anmeldung.html" %}
+{% include "blocks/_appointmentFinder.html" %}
 
 If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin). You only need to deregister if you leave Germany.
 
