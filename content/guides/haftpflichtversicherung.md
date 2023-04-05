@@ -52,7 +52,7 @@ Most insurance policies do not cover these accidents:
 - **Legal disputes**  
     If *you* want to sue someone, your liability insurance won't protect you. [Legal insurance](/guides/legal-insurance) (*[[Rechtsschutzversicherung]]*) can be useful.
 - **Piracy and copyright infringement**  
-    If you get in trouble for illegally downloading movies, your liability insurance will not cover you.[^12]
+    If you get in trouble for [illegally downloading movies](/guides/pirating-streaming-movies-in-germany), your liability insurance will not cover you.[^12]
 - **Locking yourself out**  
     If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^13] and they speak English.
 
@@ -174,13 +174,19 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 
 **No**. You are not required to have liability insurance, but it's a really good idea to have it. Most Germans have it.
 
-- **If you have a dog** in Berlin, Brandenburg, Hamburg, Lower Saxony or Thuringia, [dog liability insurance](/guides/pet-ownership#dog-liability-insurance) is required.
+- **If you have a dog** in Berlin, Brandenburg, Hamburg, Lower Saxony or Thuringia, you must have [dog liability insurance](/guides/pet-ownership#dog-liability-insurance).
 - **If you have a car or a motorcycle**, then you must have [vehicle insurance](/guides/car-insurance-germany). It includes liability insurance for when you are driving.
 - **In some professions**, you must have professional liability insurance.
 
 ### Can the landlord force me to get liability insurance?
 
 **No.** The landlord can't force you to get liability insurance.[^30] If your lease has a clause that requires liability insurance, you can ignore it.[^31]
+
+## What to do next
+
+Read about the other [types of insurance in Germany](/guides/insurance). The next most important insurances to have are [legal insurance](/glossary/Rechtsschutzversicherung) and [disability insurance](/glossary/Berufsunfaehigkeitsversicherung).
+
+**[Types of insurance in Germany ➞](/guides/insurance)**
 
 [^0]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^1]: [cosmosdirekt.de](https://www.cosmosdirekt.de/private-haftpflichtversicherung/haftpflichtversicherung-mietsachschaeden/)
