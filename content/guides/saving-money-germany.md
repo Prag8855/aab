@@ -36,7 +36,7 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 This only works in certain cases. For example, if you are a student from another EU country, or if you are unemployed.
 
-**[German health insurance **➞** Insurance from other EU countries](/guides/german-health-insurance#insurance-from-other-eu-countries)**
+**[German health insurance ➞ Insurance from other EU countries](/guides/german-health-insurance#insurance-from-other-eu-countries)**
 
 ### Switch to private health insurance
 

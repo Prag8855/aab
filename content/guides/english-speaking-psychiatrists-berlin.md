@@ -40,6 +40,8 @@ This guide explains:
 
 **[More information ➞](/guides/english-speaking-psychotherapists-berlin#psychiatrist-psychotherapist-or-counsellor)**
 
+**[English-speaking psychotherapists in Berlin ➞](/guides/english-speaking-psychotherapists-berlin)**
+
 ## How hard is it to find a psychiatrist?
 
 It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with [private health insurance](/glossary/private%20Krankenversicherung).

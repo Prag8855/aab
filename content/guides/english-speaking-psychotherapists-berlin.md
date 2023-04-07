@@ -92,7 +92,7 @@ Related_places:
 This guide explains:
 
 - How to find an English-speaking psychotherapist
-- The difference between psychotherapists, psychiatrists and others
+- The difference between psychotherapists, [psychiatrists](/guides/english-speaking-psychiatrists-berlin) and others
 - The costs of getting therapy in Berlin
 
 **[Go to the list of therapists ↓](#places-map)**
@@ -102,6 +102,8 @@ This guide explains:
 ## Psychiatrist, psychotherapist or counsellor?
 
 **Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. Some can also give therapy.[^1]
+
+**[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
 **Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems and give therapy. They can't prescribe medication.[^2]
 
