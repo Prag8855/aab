@@ -151,6 +151,7 @@ config.linters = (
     'extensions.linters.places.PlacesLinter',
     'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
+    'ursus.linters.images.UnusedImagesLinter',
     'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
