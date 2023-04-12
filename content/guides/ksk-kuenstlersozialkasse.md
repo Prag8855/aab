@@ -274,7 +274,7 @@ Do not include books, pamphlets, business cards, CDs, DVDs or USB drives, only A
 
 ### Step 6: Wait
 
-The KSK will answer by post. It takes 3 to 9 months.[^31] It took me 3 months to get the first answer.
+The KSK will answer by post. It takes 3 to 9 months.[^31] It took me 3 months to get the first answer, and 7½ months to get the first decision.
 
 While you wait, you can send more documents to support your application. Just include your reference number.
 
@@ -282,13 +282,23 @@ They will probably ask more questions, or require more documents. Don't take it 
 
 You have around 4 weeks to answer before they delete your application. Most KSK applications are rejected because applicants are too slow.
 
+### Step 7: Rejected by the KSK?
+
+The KSK can reject your application. If this happens, do not give up!
+
+The rejection letter from the KSK explains why they refused your application. You have 1 month to oppose their decision. If you are in another country, you have 3 months.[^53] You must send the letter by post or De-mail. Emails are not accepted.[^53]
+
+To oppose the decision, you must write a letter that explains why you qualify for the KSK, and why their refusal is not valid.
+
+For example, the KSK rejected me because my income comes from advertising, not selling texts. I cited [a court case](https://www.sozialgerichtsbarkeit.de/legacy/145422) that shows that this is allowed, and that I have a right to join the KSK. I cited the parts of the court case that apply to my situation.
+
 ## Required documents
 
 You don't need to include *every* document in this list. You must only prove that you meet the [KSK requirements](/guides/ksk-kuenstlersozialkasse#what-are-the-ksk-requirements). You must help a stranger understand what you do, how you earn money, and why you are eligible for the KSK.
 
 ### Application documents
 
-- [**KSK application form**](/out/ksk-application-form)  
+- **[KSK application form](/out/ksk-application-form)**  
     The German instructions are at the bottom of the form. [This English guide](https://www.settle-in-berlin.com/wp-content/uploads/2021/01/ZineFGRG_KSK_Desktop.pdf) shows you how to fill this form.
 - **Passport**  
     Include a photocopy of your passport.
@@ -561,3 +571,4 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^50]: [vgsd.de](https://www.vgsd.de/als-ksk-mitglied-dazu-verdienen-ohne-status-zu-gefaehrden-dr-maria-kraeuter-antwortet/)
 [^51]: [§7 KSVG](https://www.gesetze-im-internet.de/ksvg/__7.html)
 [^52]: Sebastian Hoffmann at [Smart Coop](https://smart-eg.de/en/) (2022)
+[^53]: Letter from the KSK (2023)
