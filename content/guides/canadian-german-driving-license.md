@@ -16,10 +16,10 @@ You can drive in Germany with a foreign driving licence.
 - **With a EU or EEA driving licence**
     - **If you visit Germany**: You can drive in Germany. You don't need an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein).[^0]
     - **If you live in Germany**: You can drive in Germany until your licence expires.[^1] You don't need a translation or an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein).[^0]
-- **With a driving licence from Andorra, Hong Kong, Monaco, New Zealand, San Marino, Senegal or Switzerland
+- **With a driving licence from Andorra, Hong Kong, Monaco, New Zealand, San Marino, Senegal or Switzerland**
     - **If you visit Germany**: You can drive in Germany. You don't need a translation or an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein).[^0]
     - **If you live in Germany**: You can drive in Germany for 6 months after you move there.[^2] After 6 months, you must exchange you foreign driving licence for a German one.
-- **With a driving licence from any other country
+- **With a driving licence from any other country**
     - **If you visit Germany:** You can drive in Germany. If you have a learner's licence, it's not valid in Germany.[^0]
     - **If you live in Germany:** You can drive in Germany for 6 months after you move there.[^0] After 6 months, you must have a German driving licence. In some cases, you can exchange you foreign driving licence for a German one. In other cases, you must [take driving lessons](/guides/english-driving-schools-in-berlin) to get a German driving licence.
 
@@ -41,6 +41,8 @@ There are two ways to get a driving licence translation:
 ## Who can convert their driving licence?
 
 You can exchange driving licences from certain countries for a German one. In some cases, you might need to take an eye test, a first aid courses, a driving exam, or even some driving classes. Each country has different rules. Even different states or provinces have different rules.
+
+If your country is not listed, you can't convert your driving licence.
 
 **[List of countries and requirements](https://www.bmvi.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.html)** - Federal Ministry of Transportation
 
