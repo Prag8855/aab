@@ -19,9 +19,9 @@ Summary:
 
 ## What is the Deutschland Ticket?
 
-The Deutschland Ticket is a monthly public transit pass. It lets you use public transit in all of Germany. It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month. It's available from May 1, 2023.
+The Deutschland Ticket is a monthly public transit pass. It lets you use local public transit in all of Germany. It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month. It's available from May 1, 2023 in all of Germany.
 
-## What you can do with a Deutschland Ticket
+## What can you do with a Deutschland Ticket?
 
 You can...[^2]
 
@@ -37,7 +37,7 @@ You can't...
 
 ## How to buy the Deutschland Ticket
 
-You can buy a Deutschland Ticket...
+In Berlin, you can buy a Deutschland Ticket...
 
 - On the [BVG website](/out/deutschland-ticket-bvg)
 - On the [S-Bahn Berlin website](/out/deutschland-ticket-s-bahn)
@@ -50,6 +50,8 @@ You can only get the Deutschland Ticket as a subscription. This means that you p
 You must buy your ticket in advance. You have until the 10th day of the month to buy your ticket for the next month. For example, you have until May 10 to buy your ticket for July.
 
 When you buy the ticket, you sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), and pay by automatic [bank transfer](/glossary/SEPA-%C3%9Cberweisung) every month. You need a European [bank account](/guides/first-bank-account-in-germany) for this.
+
+The rules can be different in other German states.
 
 ## How to cancel a Deutschland Ticket subscription
 
