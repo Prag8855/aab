@@ -55,11 +55,11 @@ Later, you will either get a letter with legal instructions, or a letter that sa
 
 In Berlin, what happens depends on how much weed you have:[^14]
 
-* **Under 10 grams**  
+- **Under 10 grams**  
     The public prosecutor's office *must* drop your case if there is no danger to others. You are not in trouble, unless you were driving while high, cycling while high, or smoking weed around children.
-* **Under 15 grams**  
+- **Under 15 grams**  
     The public prosecutor's office *can choose* to drop your case. You could be in trouble.
-* **Over 15 grams**  
+- **Over 15 grams**  
     The public prosecutor's office *must* prosecute your case. You are in trouble.
 
 In all cases, this will appear on your record at the driver licence's office. It could be a problem when you try to get a German driving licence.

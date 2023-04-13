@@ -179,9 +179,9 @@ You do not need approval from the ZAV if:
 
 You don't need a bank account to get a residence permit, but you need it for other things:
 
-* To get paid by your employer
-* To pay your rent
-* To buy food and other things you need
+- To get paid by your employer
+- To pay your rent
+- To buy food and other things you need
 
 You don't need to choose a German bank; any bank that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung) is okay. [N26](/out/n26) is a good option, because they speak English and don't ask for a [registration certificate](/glossary/Anmeldebest%C3%A4tigung). I use N26 [since 2016](/guides/an-honest-review-of-n26).
 
