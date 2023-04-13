@@ -27,5 +27,9 @@ The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularve
 - **Weitere Wohnungen**: Information about your other addresses in Germany. If you only had one address, leave this section empty.
     - **Anschrift**: Your other addresses in Germany.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).
+    
+## How to send this form
+
+Send the form by [registered mail](/glossary/Einschreibebrief) as described [here](/guides/abmeldung-deregister-in-berlin#by-registered-mail).
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)

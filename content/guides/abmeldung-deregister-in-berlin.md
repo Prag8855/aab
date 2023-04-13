@@ -3,6 +3,7 @@ Title: The Abmeldung - How to deregister in Berlin
 Short_title: How to deregister your address (Abmeldung)
 Description: If you move out of Germany, you must do your Abmeldung. This guide shows you how to do your Abmeldung in Berlin.
 Date_created: 2018-01-04
+Related_reviews: reviews/abmeldung-deregister-in-berlin/oliver-sympatme.md
 ---
 
 When you [move out of your apartment](/guides/moving-out) and leave Germany, you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
@@ -50,7 +51,12 @@ Here is how you can do your *Abmeldung* in person:
 
 1. [Book an appointment](/out/appointment-abmeldung) for *Abmeldung einer Wohnung*. You can choose any *[[Bürgeramt]]* in Berlin. Sometimes, there are no appointments available. Check again every few minutes, and you will find one.
 2. Fill the [*Abmeldung* form](/docs/abmeldung)
-3. Go to your appointment. Bring the *Abmeldung* form with you. You can do it alone, even if you don't speak German. It takes around 10 minutes.
+3. Go to your appointment. Bring:
+    - The filled *Abmeldung* form
+    - Your passport or national ID
+    - If you deregister late, a proof of your move-out date[^22]
+
+You can do it alone, even if you don't speak German. It takes around 10 minutes.
 
 {% include "blocks/appointmentLink/_abmeldung.html" %}
 
@@ -62,14 +68,17 @@ Send these documents by [registered mail](/glossary/Einschreibebrief) to [any *B
 
 - The filled and signed [*Abmeldung* form](/docs/abmeldung)
 - A copy of your passport
+- If you deregister late, a proof of your move-out date[^22]
 
-Don't forget to write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form. You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later.[^2] It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person.
+Write your new address on the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form.
+
+You will get an *[[Abmeldebescheinigung]]* at this address around 4 to 12 weeks later.[^2] It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person.
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
 ### By email
 
-You *can* deregister by email,[^3] but **it's not a good idea**. You might not get a confirmation email[^2] or an *[[Abmeldebescheinigung]]*.[^2] They don't always send your *[[Abmeldebescheinigung]]* to another country. It's better if you deregister in person.
+You *can* deregister by email,[^3] but **it's not a good idea**. You might not get a confirmation email or an *[[Abmeldebescheinigung]]*.[^2] They might not send your *[[Abmeldebescheinigung]]* to another country. They send it by regular post, not registered mail. It's better if you deregister in person.
 
 You can deregister by email at any *Bürgeramt*, but they all have different rules:
 
@@ -110,6 +119,7 @@ Attach this to your email:
 - The filled and signed [*Abmeldung* form](/docs/abmeldung)
 - A copy of your passport
 - An image of your signature, in the email message. It must look like the signature on the *Abmeldung* form.[^13]
+- If you deregister late, a proof of your move-out date[^22]
 
 Write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form.
 
@@ -172,7 +182,7 @@ If you own a business in Germany, you might also need deregister it,[^16] or tra
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
-[^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
+[^1]: Oliver at [SympatMe](https://sympat.me) (April 2023), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/psnrmh/deregistration_wohnung_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/eztva8/abmeldung/)
 [^4]: [Screenshot](/images/ba-charlottenburg-abmeldung.png)
@@ -196,3 +206,4 @@ If you own a business in Germany, you might also need deregister it,[^16] or tra
 [^23]: [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/17359/what-are-the-necessary-procedures-unregistering-etc-to-follow-when-leaving-ge/17361#17361)
 [^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
+[^22]: Oliver at [SympatMe](https://sympat.me) (April 2023)
