@@ -10,6 +10,8 @@ services:
     environment:
       - "GIT_REPO_URL"
       - "SITE_URL"
+      - "CLOUDFLARE_ZONE"
+      - "CLOUDFLARE_API_KEY"
     volumes:
       - "ursus_files:/var/ursus/site"
       - "static_site:/var/ursus/output"
