@@ -1,7 +1,7 @@
 ---
 Title: How to use public transit in Berlin
 Short_title: How to use public transit
-Description: This guide public transportation works in Berlin. It explains how to ride the BVG and DB trains, buses and trams. It also lists other options like car sharing, bike sharing and taxis.
+Description: This guide explains how public transportation works in Berlin. It explains how to ride the BVG and DB trains, buses and trams. It also lists other options like car sharing, bike sharing and taxis.
 Date_created: 2021-08-13
 ---
 
@@ -15,9 +15,9 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 
 ### One ticket for everything
 
-**With a ticket, you can you use all public transit options**: the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, regional trains and [*some* IC and ICE trains](https://www.vbb.de/vbb-services/umsteigen-und-weiterfahren/bahn/#c1155). It does not work on *Hop-On, Hop-Off* sightseeing buses
+**With a ticket, you can you use all public transit options**: the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, regional trains (RE) and [*some* IC and ICE trains](https://www.vbb.de/vbb-services/umsteigen-und-weiterfahren/bahn/#c1155). It does not work on *Hop-On, Hop-Off* sightseeing buses, Flixbus buses and other private transit options.
 
-**Your ticket is valid for 2 hours in one direction**. You can take as many trains, buses and ferries as you want with the same ticket. You can even stop, do some shopping, and take the train again. Your ticket only works in one direction. If you want to go back, you must buy a new ticket.
+**Single-use tickets are valid for 2 hours in one direction**. You can take as many trains, buses and ferries as you want with the same ticket. You can even stop, do some shopping, and take the train again. Your ticket only works in one direction. If you want to go back, you must buy a new ticket.
 
 ### Choose the right tariff zone
 
@@ -35,6 +35,8 @@ If you are caught with the wrong ticket, you get a {{BVG_FINE|cur}}€ fine. It'
 
 If you already have an AB ticket, and you want to go to zone C, get an [extention ticket (*Anschlussfahrausweis*)](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/extension-ticket/). It's cheaper than an ABC ticket.
 
+The [[Deutschland Ticket]] lets you travel in all zones.
+
 ### Choose the right tariff
 
 There are cheaper tickets for certain situations:
@@ -47,11 +49,12 @@ There are cheaper tickets for certain situations:
     Children under 6 years old travel for free. Children under 15 years old need a reduced price (*Ermäßigungstarif*) ticket. [Most tickets](#bring-other-people-for-free) let you bring children under 15 years old for free.
 - **Students and [apprentices](/glossary/Azubi)**  
     Students and [apprentices](/glossary/Azubi) can get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/) (*Schülerticket* or *Ausbildungsticket*). You can apply for it [here](https://www.abo-antrag.de/de/) or [here](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin) (in German).
-- **Senior citizens** Senior citizens pay the regular price for tickets. If you are over 64 years old, you can get, but there a cheaper yearly subscription: the [VBB-Abo 65plus](https://www.vbb.de/tickets/abonnements/vbb-abo-65plus/).
+- **Senior citizens**  
+    Senior citizens pay the regular price for tickets. If you are over 64 years old, you can get, but there a cheaper yearly subscription: the [VBB-Abo 65plus](https://www.vbb.de/tickets/abonnements/vbb-abo-65plus/).
 - **Dogs**  
-    If your dog is bigger than a cat, you must buy a reduced tariff (*Ermäßigungstarif*) ticket for it. Guide dogs and smaller dogs don't need a ticket. If you have a daily, monthly or yearly ticket, your dog can ride for free. - [How to bring dogs on public transit](/guides/public-transit#dogs-on-public-transit).
+    If your dog is bigger than a cat, you must buy a reduced tariff (*Ermäßigungstarif*) ticket for it. Guide dogs and smaller dogs don't need a ticket. Most daily, monthly and yearly tickets let you [bring a dog for free](#dogs-on-public-transit).
 - **Bicycles**  
-    You need a bicycle ticket (*Fahrradkarte*) for your bicycle. - [How to bring bikes on public transit](/guides/public-transit#bicycles-on-public-transit).
+    You need a bicycle ticket (*Fahrradkarte*) for your bicycle. - [How to bring bikes on public transit](#bicycles-on-public-transit).
 
 ### Where to buy tickets
 
@@ -80,7 +83,11 @@ There are many ways to buy a public transit ticket:
 
 You can buy a single ticket. It's valid for 2 hours in 1 direction. You can also buy daily, weekly and monthly tickets. There are many more types of tickets.
 
+If you use public transit a lot, get the [[Deutschland Ticket]]. It lets you use local public transit everywhere in Germany. It's a really good deal.
+
 **[List of ticket types](https://sbahn.berlin/en/tickets/all-tickets/)** - S-Bahn Berlin
+
+**[How the Deutschland Ticket works ➞](/guides/deutschland-ticket)**
 
 ### If you get caught without a ticket
 
@@ -202,13 +209,15 @@ Normally, you must buy a reduced tariff ticket for your dog, but there are excep
 - **or** you have a student ticket
 - **or** you have an apprentice ticket
 
+If you have a [[Deutschland Ticket]], you can bring a dog with you for free, but only in zones A, B and C. In the rest of Germany, the rules can be different.
+
 **[Having a dog in Berlin ➞](/guides/pet-ownership)**
 
 ## Bring other people for free
 
 **All tickets** let you bring children under 6 years old for free.
 
-**Most weekly, monthly and yearly tickets** let you bring children under 15 years old for free. This excludes the student ticket (*Schülerticket*), the FlexTicket, the 10AM card (*10-Uhr-Karte*), and the 65 Plus ticket.[^12]
+**Most weekly, monthly and yearly tickets** let you bring children under 15 years old for free.
 
 **Most weekly, monthly and yearly tickets**, let you bring other people for free during certain times:[^13]
 
@@ -216,7 +225,13 @@ Normally, you must buy a reduced tariff ticket for your dog, but there are excep
 - Saturday and Sunday
 - On [public holidays](/guides/public-holidays)
 
-This excludes the student ticket (*Schülerticket*), the FlexTicket, the 10AM card (*10-Uhr-Karte*), and the 65 Plus ticket.[^12]
+These tickets do not let you bring children and other people with you:[^12]
+
+- The [[Deutschland Ticket]]
+- The student ticket (*Schülerticket*)
+- The FlexTicket
+- The 10AM card (*10-Uhr-Karte*)
+- The 65 Plus ticket.
 
 [^0]: [sbahn.berlin](https://sbahn.berlin/en/tickets/the-vbb-fare-explained/passenger-regulations/?acc=a7133-t1)
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)

@@ -2,12 +2,11 @@
 Title: What is a Monatskarte?
 German_term: Monatskarte
 English_term: Monthly pass
-Description: 
+Description: A public transit pass that is valid for a month.
 Date_created: 2020-11-29
-Date_updated: 2022-04-20
-Related_guides: guides/bvg-10-uhr-karte.md, guides/saving-money-germany.md, guides/public-transit.md
+Related_guides: guides/public-transit.md, guides/deutschland-ticket.md, guides/bvg-10-uhr-karte.md, guides/saving-money-germany.md, guides/cancel-bvg-yearly-ticket.md
 ---
 
 A *Monatskarte* is a monthly pass.
 
-Usually, this means a monthly *public transit* pass. For example, the [[BVG]] sells a *Monatskarte*. It lets you use public transportation for one month.
+Usually, this means a monthly *public transit* pass. For example, the [[BVG]] sells a *Monatskarte*. It lets you use public transportation for one month. In many cases, the [[Deutschland Ticket]] is a better option.

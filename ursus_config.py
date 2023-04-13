@@ -382,6 +382,7 @@ config.context_globals = {
     "BVG_ABC_TICKET": 3.80,
     "BVG_FINE": 60,
     "BVG_REDUCED_FINE": 7,
+    "DEUTSCHLAND_TICKET_PRICE": 49,
 
     # ==============================================================================
     # ADMINISTRATION
