@@ -10,3 +10,5 @@ Related_guides: guides/public-transit.md, guides/deutschland-ticket.md, guides/b
 A *Monatskarte* is a monthly pass.
 
 Usually, this means a monthly *public transit* pass. For example, the [[BVG]] sells a *Monatskarte*. It lets you use public transportation for one month. In many cases, the [[Deutschland Ticket]] is a better option.
+
+**[How to use public transit in Berlin ➞](/guides/public-transit)**

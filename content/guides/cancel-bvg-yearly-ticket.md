@@ -24,7 +24,7 @@ You can cancel by email or by post, but it's easier to do it online.
 
 You must know your customer number (*Kundennummer*) and your contract number (*Vertragsnummer* or *Abonummer*).
 
-You can find these numbers on the letter you received from the BVG, or [online](https://abo.bvg.de/). This is not the number on your BVG card or in your order confirmation email (*Abonnement Best-Nr*).
+They are on the letter you received from the BVG. You can also find them [online](https://abo.bvg.de/). This is not the number on your BVG card, or the number in your order confirmation email (*Abonnement Best-Nr*).
 
 ![The BVG Kundennummer on a BVG letter](/images/bvg-kuendigung-abonummer.jpg)
 
@@ -40,7 +40,8 @@ Fill the template below with your information, then send the letter to the BVG b
 > Anschrift: **[your address]**  
 > Kundennummer: **[your customer number]**  
 
-> Mit freundlichen Grüßen **[your name]**
+> Mit freundlichen Grüßen,  
+> **[your name]**
 
 Fill this template above, print it, and mail it to this address:[^1]
 

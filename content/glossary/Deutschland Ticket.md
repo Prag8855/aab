@@ -1,5 +1,5 @@
 ---
-Title: What is an Abmahnung?
+Title: What is the Deutschland Ticket?
 German_term: Deutschland Ticket
 English_term: 
 Description: A 49 Euro public transit pass that is valid in all of Germany.
