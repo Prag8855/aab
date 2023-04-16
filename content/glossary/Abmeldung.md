@@ -9,6 +9,6 @@ Related_guides: guides/berlin-burgeramt-appointment.md, guides/abmeldung-deregis
 
 When you move out of Germany, you must deregister your address. This is called the *Abmeldung*. After you deregister, you stop paying for health insurance and TV tax. You also receive a deregistration certificate (*[[Abmeldebescheinigung]]*).
 
-In Berlin, you can do your *Abmeldung* in person at the *[[Bürgeramt]]*, by post or by email.
+In Berlin, you can do your *Abmeldung* in person at the *[[Bürgeramt]]*, by post or by email. You can also [pay someone to do it for you](/out/deregistrationde-abmeldung).
 
 **[How to deregister your address ➞](/guides/abmeldung-deregister-in-berlin)**

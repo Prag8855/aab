@@ -67,7 +67,7 @@ If you move out of Germany, you can cancel your phone, internet and electricity 
 
 ## Stop paying the [TV tax](/glossary/Rundfunkbeitrag)
 
-If you leave Germany, you must tell the GEZ. You will not get any more [GEZ/Rundfunkbeitrag](/glossary/Rundfunkbeitrag) letters. You can deregister [on the Rundfunkbeitrag website](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
+If you leave Germany, you must tell the GEZ. You will not get any more [GEZ/Rundfunkbeitrag](/glossary/Rundfunkbeitrag) letters. You can deregister [on the Rundfunkbeitrag website](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html). You can also [pay someone to do it for you](/out/deregistrationde-gez).
 
 **[What is the Rundfunkbeitrag? ➞ How to deregister](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**
 
@@ -157,7 +157,7 @@ You can't leave your old furniture on the street. You must [ask BSR to pick it u
 
 ## Change your address
 
-Tell everyone your new address, deregister your old address, and forward your mail to your new address.
+Tell everyone your new address, [deregister](/glossary/Abmeldung) your old address, and forward your mail to your new address.
 
 **[How to change your address ➞](/guides/address-change)**
 

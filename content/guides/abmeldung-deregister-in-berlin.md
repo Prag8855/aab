@@ -127,6 +127,12 @@ You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later.
 
 If you really need the *Abmeldebescheinigung* need this document, deregister in person.
 
+### Pay someone to do it
+
+[Deregistration.de](/out/deregistrationde-abmeldung) can do your *Abmeldung* for you. They will receive your *[[Abmeldebescheinigung]]* and forward it to you. They also help you cancel your [TV tax](/glossary/Rundfunkbeitrag), your health insurance, and your other contracts.
+
+It's a little expensive, but it lets you focus on other problems.
+
 ## What happens when you deregister
 
 When you deregister, you don't live in Germany anymore. This has consequences.

@@ -3,7 +3,6 @@ Title: How to change your address in Germany
 Short_title: How to change your address
 Description: When you move into a new apartment, you must change your official address. It's not automatic. This guide shows you how to do it.
 Date_created: 2022-09-24
-Date_updated: 2022-12-01
 ---
 
 When you [move into a new apartment](/guides/moving-in), you must change your address. It's not automatic. This guide shows you how to do it.
@@ -49,7 +48,8 @@ You should also tell...
     You can change your address on your bank's online portal, or by asking your financial advisor.
 - **Your car/home insurance**  
     If you have vehicle or home insurance, tell your insurer about your address change. You can usually do it on their website. You can also contact your insurance broker.
-- **Your health insurance** You can change your address on your health insurer's online portal, or by asking your insurance broker.
+- **Your health insurance**  
+    You can change your address on your health insurer's online portal, or by asking your insurance broker.
 - **The [[Finanzamt]]**
     - **If you have a business**  
         If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/Elster), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]
@@ -71,6 +71,8 @@ You should also tell...
 ## Forward your mail
 
 Deutsche Post has a [mail forwarding service](https://shop.deutschepost.de/nachsendeservice-beauftragen). If you get mail at your old address, they will send it to your new address. It costs less than 30€ per year. It only works for Deutsche Post and DHL mail. It does not work for other delivery services.
+
+Deregistration.de has also has a [mail forwarding service](/out/deregistrationde-mail). It's cheaper.
 
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
