@@ -59,7 +59,7 @@ Kontist uses AI to guess the correct VAT rate for each transaction. It's often w
 
 Since I have to double-check every transaction, the AI just creates more work for me. There is no way to turn it off.
 
-Instead, I do everything in [Lexoffice](/out/lexoffice), and I ignore what Kontist tells me. The automatic VAT feature is useless to me.
+Instead, I do everything in [Lexoffice](/out/lexoffice), and I ignore what Kontist tells me. The automatic VAT feature is useless to me. If you don't speak German, [Accountable](/out/accountable) is an English-speaking alternative to Lexoffice.
 
 [![Screenshot of Kontist app: setting the VAT on a transaction](/images/kontist-sort-transactions.png "You must set the VAT on each transaction. The AI does it automatically, but it's often wrong")](/images/kontist-sort-transactions.png)
 
@@ -253,6 +253,12 @@ I recommend to your bank, your accounting software and your tax advisor as 3 sep
     German-speaking business bank.
 - **Traditional banks**
     Commerzbank, Deutsche Bank and other large German banks all offer business accounts. They might not speak English.
+
+**Other accounting and bookkeeping tools:**
+
+- [Accountable](/out/accountable) - English and German
+- [Sorted](/out/sorted) - English and German
+- [Lexoffice](/out/lexoffice) - German only. It's the software I use.
 
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)
 [^1]: [reddit.com/r/finanzen](https://old.reddit.com/r/Finanzen/comments/scgrpu/steuerberater_als_freelancer/hu64wbv/)
