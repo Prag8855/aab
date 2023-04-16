@@ -43,7 +43,7 @@ class PlacesLinter(Linter):
             if place.get('Address') != google_address:
                 yield (
                     None,
-                    "Address does not match with Google: {place.get('Address')} -> {google_address}",
+                    f"Address does not match with Google: {place.get('Address')} -> {google_address}",
                     logging.ERROR
                 )
 
