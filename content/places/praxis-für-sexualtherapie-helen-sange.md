@@ -1,6 +1,6 @@
 ---
 Name: Obenrum-Untenrum - Helen Sange
-Description: Multiple OB/GYNs. They speak English and German.
+Description: Helen speaks English and German. The staff also speaks English.
 Website: http://www.obenrum-untenrum.de/
 Email: hallo@obenrum-untenrum.de
 Address: Goethestraße 70
