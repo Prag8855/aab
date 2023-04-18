@@ -17,6 +17,8 @@ Choose a service in [the list of services](https://service.berlin.de/dienstleist
 
 **If there are no appointments**, try again every few minutes. Most new appointments appear during working hours. There are more appointments in the morning, between 8:00 and 11:00.[^0] Look for appointments everywhere in Berlin, not just near you.
 
+The Bürgeramt does not release all available appointments online. Some appointments are only for people who call 115. Other appointments are only given by Bürgeramt employees.[^1]
+
 ### Use my appointment finder
 
 To [register your address](/glossary/Anmeldung), use my [*Anmeldung* appointment finder](/tools/appointment-finder).
@@ -31,11 +33,15 @@ They only speak German. You must wait a few minutes to talk to someone.
 
 ## Email the Bürgeramt
 
-Email your local *Bürgeramt*, explain what you need, and ask for an appointment. You might get an appointment faster, even if there are no appointments online.[^3]
+Email your local *Bürgeramt*, explain what you need, and ask for an appointment. If your situation is urgent, include a proof. You might get an appointment faster, even if there are no appointments online.[^3] They usually reply in 1 or 2 days.
 
 **[Find your local Bürgeramt ➞](https://service.berlin.de/standorte/buergeraemter/)**
 
 ![Where to find the email of a Berlin Bürgeramt](/images/email-berlin-buergeramt.png)
+
+## Go to the Bürgeramt in person
+
+You can sometimes go to the *Bürgeramt* in person, and ask for appointment. This is a waste of time. Ask by email instead, it's faster.[^4]
 
 ## Pay someone to go for you
 
@@ -67,3 +73,4 @@ You can do multiple things in one appointment:
 [^1]: Confirmed by an employee who built the booking system (March 2023)
 [^2]: [berlin.de](https://service.berlin.de/buergertelefon/)
 [^3]: [twitter.com](https://twitter.com/MariaMl82747416/status/1631197057846333440), [twitter.com](https://twitter.com/Sansculotte/status/1607112833203855360), [twitter.com](https://twitter.com/Gregggyyy/status/1552203253659717633)
+[^4]: Confirmed by multiple Bürgerämter in Berlin (April 2023)
