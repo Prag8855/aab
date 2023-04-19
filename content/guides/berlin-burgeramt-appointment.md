@@ -41,7 +41,9 @@ Email your local *Bürgeramt*, explain what you need, and ask for an appointment
 
 ## Go to the Bürgeramt in person
 
-You can sometimes go to the *Bürgeramt* in person, and ask for appointment. This is a waste of time. Ask by email instead, it's faster.[^4]
+If your situation is urgent, you can go to the *Bürgeramt* in person. They will help you on the same day, or give you an emergency appointment. For example, if you need documents to travel soon, you can go in person.[^5]
+
+If your situation is not urgent, ask for an appointment by email. It's faster.[^4]
 
 ## Pay someone to go for you
 
@@ -74,3 +76,4 @@ You can do multiple things in one appointment:
 [^2]: [berlin.de](https://service.berlin.de/buergertelefon/)
 [^3]: [twitter.com](https://twitter.com/MariaMl82747416/status/1631197057846333440), [twitter.com](https://twitter.com/Sansculotte/status/1607112833203855360), [twitter.com](https://twitter.com/Gregggyyy/status/1552203253659717633)
 [^4]: Confirmed by multiple Bürgerämter in Berlin (April 2023)
+[^5]: [berlin.de](https://service.berlin.de/terminvereinbarung/artikel.296864.php)
