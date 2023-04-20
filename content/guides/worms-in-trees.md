@@ -36,7 +36,7 @@ The city sometimes puts warning signs in parks, and even block roads.[^4] They a
 
 [![Trees destroyed by ermine moth larvae](/images/ermine-moth-tree.jpg "Trees destroyed by ermine moth larvae")](/images/ermine-moth-tree.jpg)
 
-Ermin moth larvae are not dangerous** to you or your pets, but they often kill the trees they invade.[^7] They sometimes hang from trees by their silk, so you can run into them.
+Ermin moth larvae are not dangerous to you or your pets, but they often kill the trees they invade.[^7] They sometimes hang from trees by their silk, so you can run into them.
 
 [![Ermine moth larvae hanging from tree](/images/worm-hanging-from-tree.jpg "These worms sometimes hang from trees by their silk.")](/images/worm-hanging-from-tree.jpg)
 
