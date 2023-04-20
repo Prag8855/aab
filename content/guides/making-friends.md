@@ -104,9 +104,11 @@ You can go out *then* think about making friends. There are a few events where p
 
 - **BerlinSocialClub meetup**  
     Every Tuesday at [Mendy und Edeltraut](https://www.facebook.com/Mendyundedeltraut/) in Neukölln. Most of the attendees speak English. This is organised by [/r/berlinsocialclub](https://www.reddit.com/r/berlinsocialclub).
-- **Board games** There are plenty of [board game nights in Berlin](/guides/board-games-in-berlin). The biggest one is at RuDi in Friedrichshain. Most of the tables play in English. Don't worry about coming alone. People will gladly let you join their table.
-- **Clubs** Clubbing alone is normal and accepted in Berlin. If no one wants to go with you, you can still go out and have a blast.
-- **Ping pong and kicker bars  
+- **Board games**  
+    There are plenty of [board game nights in Berlin](/guides/board-games-in-berlin). The biggest one is at RuDi in Friedrichshain. Most of the tables play in English. Don't worry about coming alone. People will gladly let you join their table.
+- **Clubs**  
+    Clubbing alone is normal and accepted in Berlin. If no one wants to go with you, you can still go out and have a blast.
+- **Ping pong and kicker bars**  
     Just order a beer and join the ping pong circle or the kicker table. Even if you're not good; you'll simply start interacting with everyone else by osmosis. Try [Schmittz](https://goo.gl/maps/nEQjyDvDk6UMH2m67) or [Minimal](https://goo.gl/maps/fsfcXfFEwLBA3dmt8).
 - **Späti crawl**  
     The Späti crawl is just like a pub crawl, but you walk from [[Späti]] to Späti. There is always between a dozen and a hundred attendees, and most of them are new in Berlin. The location is announced a few days in advance [on Facebook](https://www.facebook.com/groups/SpatiCrawlBerlin/).
