@@ -5,7 +5,7 @@ Description: This guide shows you how register your address in Berlin. This is h
 Date_created: 2018-04-30
 ---
 
-After you [move to Berlin](/guides/moving-to-berlin) and [find a place to live](/guides/find-a-flat-in-berlin), you must register your address at the *[[Bürgeramt]]*. It's called the *Anmeldung*.
+After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -236,9 +236,9 @@ You should get [liability insurance](/glossary/Haftpflichtversicherung) for your
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
-If you just moved to Berlin, I have more advice for you.
+When you move into an apartment, you must do a few things: lower your rent, put your name on the mailbox, deduct your moving costs, and more.
 
-**[How to move to Berlin ➞](/guides/moving-to-berlin)**
+**[Moving into a new apartment ➞](/guides/moving-in#after-the-move)**
 
 [^0]: [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_89919590/steueridentifikationsnummer-fuer-mein-kind-wo-finde-ich-sie-.html)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/i8y3k5/question_about_booking_anmeldung_in_advance/g1vx9y7/)

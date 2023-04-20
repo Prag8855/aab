@@ -1,8 +1,7 @@
 ---
-Title: Should you trust Conny? An objective review
+Title: Review of Conny, the rent reduction service
 Short_title: Review of Conny rent reduction
 Description: A neutral, independently researched review of Conny (once called Wenigermiete), the service that promises to reduce your rent.
-Date_created: 2020-07-29
 Date_updated: 2022-09-25
 ---
 
@@ -29,7 +28,7 @@ This is how the rent reduction process goes:
 
 ## You only pay if it works
 
-[Conny](/out/conny-mietpreisbremse) tries to get your rent reduced. If they are successful, [they keep 5 times the amount you save each month](https://conny.de/en/rent/prices). If they are not successful, you pay nothing. If the case goes to court, you will not pay any extra fees.
+[Conny](/out/conny-mietpreisbremse) tries to get your rent reduced. If they are successful, they keep 5 times the amount you save each month.[^13] If they are not successful, you pay nothing. If the case goes to court, you will not pay any extra fees.
 
 For example, if they reduce your rent by 200€ per month, they will keep 5 × 200€, or 1,000€.
 
@@ -90,3 +89,4 @@ You can also [contact a lawyer](/guides/english-speaking-lawyers-berlin). You wi
 [^10]: [goo.gl](https://goo.gl/maps/dLTGJt5mFKnexKgA6), [de.trustpilot.com](https://de.trustpilot.com/reviews/5ee78b4f7dd7530828c1738b), [de.trustpilot.com](https://de.trustpilot.com/reviews/5ec9938325e5d20a889db7fc), [de.trustpilot.com](https://de.trustpilot.com/reviews/5ebd0e9b25e5d209b8ea8130)
 [^11]: [de.trustpilot.com](https://de.trustpilot.com/reviews/5f2ae88a1a5a6907a47b7a78), [de.trustpilot.com](https://de.trustpilot.com/reviews/5f23e9c31a5a6907a477830b), [de.trustpilot.com](https://de.trustpilot.com/reviews/5ea41021086b6409543fe1aa)
 [^12]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/mitgliedsbeitraege-und-leistungen.htm#:~:text=mit%20einer%20dreimonatigen%20wartefrist%20), [mieterbund-siegerland.de](https://www.mieterbund-siegerland.de/infos/faqs/nichtmitglieder/kuemmert-sich-der-mieterbund-auch-noch-um-probleme-die-ich-bereits-habe-wenn-ich-beitreten-moechte#:~:text=eine%203-monatige%20wartezeit%20ab%20beginn%20der%20versicherungszeit%20besteht)
+[^13]: [conny.de](https://conny.de/en/rent/prices)
