@@ -22,7 +22,7 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germa
 
 It takes around 2 months to get a residence permit, but it can take longer. You can't work before you get your residence permit. Get your permit before you arrive in Germany. This way, you can start working as soon as you arrive. This saves you a lot of money.
 
- Most employers know that this takes time, and they will wait for you. Some employers hire a relocation consultant to help you.
+Most employers know that this takes time, and they will wait for you. Some employers hire a relocation consultant to help you.
 
 ### Do you need to speak German?
 

@@ -9,7 +9,7 @@ Related_guides: guides/sorting-trash-in-germany.md
 
 Glass recycling bins (*Altglascontainer, Glastonne* or *Glasiglu*) are recycling bins for glass. You can find them around your neighbourhood. Some apartment buildings have their own glass recycling bins.
 
- There are usually 3 bins:
+There are usually 3 bins:
 
 - **Brown bin** (*Braunglas*) for the brown glass
 - **Green bin** (*Grunglas*) for the green glass

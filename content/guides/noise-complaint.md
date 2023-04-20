@@ -65,8 +65,8 @@ Use a [*Lärmprotokoll* template](https://www.vebowag.de/service/formulare/laerm
 
 ## Ask for a rent reduction
 
-If there is constant noise where you live, you can get a rent reduction for a "fault in rented property" (*Mangel an der Mietsache*).  
-  
+If there is constant noise where you live, you can get a rent reduction for a "fault in rented property" (*Mangel an der Mietsache*).
+
 To get a rent reduction, you must prove that the noise is a serious problem.[^2] This is why you must keep a noise log (*Lärmprotokoll*).
 
 There are exceptions. Church bells, children playing and car traffic are normal noises.[^3] If you move near an airport, above a busy street, or next to a bar, you know that it will be noisy. You can't get a rent reduction for these problems.[^4]

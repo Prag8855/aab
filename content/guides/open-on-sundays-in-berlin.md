@@ -60,7 +60,7 @@ Most restaurants are open on Sundays. Food delivery services also work.
 
 Most *[Spätis](/glossary/Sp%C3%A4ti)* open on Sundays.
 
- [Many flea markets](https://www.berlin.de/special/shopping/flohmaerkte/) (*Flohmarkt*) only open on Sundays.
+[Many flea markets](https://www.berlin.de/special/shopping/flohmaerkte/) (*Flohmarkt*) only open on Sundays.
 
 ### Museums
 

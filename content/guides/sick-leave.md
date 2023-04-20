@@ -78,7 +78,7 @@ Two things can happen:
 2. **Permanent disability: public pension**  
     If you can't work again, you get a pension for the disabled (*Erwerbsminderungsrente*). If you paid public pension contributions for less than 60 months, you can't get a pension.[^15]
 
- If you have a mortgage, or if your family depends on you, you should get disability insurance.
+If you have a mortgage, or if your family depends on you, you should get [disability insurance](/glossary/Berufsunfaehigkeitsversicherung).
 
 ## Things you can do on sick leave
 
