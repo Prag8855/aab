@@ -172,25 +172,22 @@ You can also [get legal insurance](/guides/legal-insurance). Legal insurance let
 
 ### Lower your rent
 
-In Berlin, rent prices are limited by law. Some landlords charge more than they should.
+German rent prices are limited by law. If your rent is above the legal limit, you can get it lowered. Use [this calculator](/out/conny-mietpreisbremse-calculator) to know if you pay too much rent.
 
-Use [this calculator](/out/conny-mietpreisbremse-calculator) (English), [this calculator](https://www.berliner-mieterverein.de/mietendeckel.htm) (German) or [this calculator](https://www.mietendeckelrechner.de/) (German) to see if you pay too much rent.
+If your rent is too high, these people can help you:
 
-If your rent is above the legal limit, you can get it lowered.
-
-[Conny](/out/conny-mietpreisbremse) helps people reduce their rent. If they are successful, they keep a part of your refund. If they are not successful, you pay nothing. It can take a few months,[^11] but you can save thousands of euros.
-
-**[How does Conny's rent reduction work? ➞](/guides/wenigermiete-review)**
-
-If you are in a tenants' association (*[[Mieterverein]]*), they can also help you reduce your rent.[^12] For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent.
-
-You can [contact a lawyer](/guides/english-speaking-lawyers-berlin), but it's more expensive. If you have [legal insurance](/guides/legal-insurance), it might cover the costs.
+- **[Conny](/out/conny-mietpreisbremse)**  
+    They specialise in reducing people's rent. You only pay them if they are successful. [It works really well](/guides/wenigermiete-review).
+- **Tenants' associations** (*[[Mieterverein]]*)  
+    If you are a member, they can help you reduce your rent.[^12] For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent.
+- **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
+    They are more expensive, but your [legal insurance](/guides/legal-insurance) can cover the costs.
 
 ### Stop junk mail
 
-If you don't want to get junk mail, follow these steps:
+To stop getting junk mail:
 
-1. Put a [*Keine Werbung* sticker](https://www.amazon.de/s?k=keine+werbung&crid=SNI1PKPSMQIB&sprefix=keine+werbung,aps,100&linkCode=sl2&tag=nicolasboulia-21&linkId=3544edfb5887e8423bdbb5b22bdc7650&language=en_GB&ref_=as_li_ss_tl) on your mailbox. If your mailbox is outside, get a UV-resistant sticker, or it will fade after a few months.
+1. Put a [*Keine Werbung* sticker](https://www.amazon.de/s?k=keine+werbung&crid=SNI1PKPSMQIB&sprefix=keine+werbung,aps,100&linkCode=sl2&tag=nicolasboulia-21&linkId=3544edfb5887e8423bdbb5b22bdc7650&language=en_GB&ref_=as_li_ss_tl) on your mailbox. It works really well. If your mailbox is outside, get a UV-resistant sticker, or it will fade after a few months.
 2. Put your name on [Robinson lists](https://en.wikipedia.org/wiki/Robinson_list) to unsubscribe from most mail advertising:
     1. Join the [DDV Robinson list](https://www.ichhabediewahl.de/?id=122&cid=43)
     2. Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
