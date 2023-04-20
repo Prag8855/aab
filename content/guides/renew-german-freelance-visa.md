@@ -6,9 +6,9 @@ Date_created: 2020-08-27
 Date_updated: 2023-01-04
 ---
 
-This guide shows you how to **renew** a [German freelance visa](/glossary/Freelance%20visa) before it expires. If you don't already have a German freelance visa, and you want to get one, read [this guide](/guides/how-to-get-a-german-freelance-visa).
+This guide shows you how to **renew** a [German freelance visa](/glossary/Freelance%20visa) before it expires. To apply for a new German freelance visa read [this guide](/guides/how-to-get-a-german-freelance-visa) instead.
 
-This guide was written for freelancers in Berlin. It is based on my own experience, and it is verified by a relocation consultant. If you live in another city, the process can be a little different.
+This guide was written for freelancers in Berlin. If you live in another city, the process can be a little different.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -41,6 +41,8 @@ When you renew your freelance visa, they check a few things:
     This time, you can't have cheap travel insurance. You must have valid German health insurance. There is more information about this [below](/guides/renew-german-freelance-visa#get-valid-health-insurance).
 - **You have a retirement plan**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.[^0] This is not required if you are a citizen of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey or the United States.[^1]
+
+These are the same requirements as when you apply for a freelance visa for the first time.[^15]
 
 ### 1. Find if you are self-employed, or freelance
 
@@ -240,3 +242,4 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 [^12]: [berlin.de](https://service.berlin.de/dienstleistung/324288/)
 [^13]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [berlin.de](https://service.berlin.de/dienstleistung/121921/en/)
+[^15]: [§8 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__8.html)
