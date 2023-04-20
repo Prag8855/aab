@@ -181,7 +181,7 @@ If your rent is too high, these people can help you:
 - **Tenants' associations** (*[[Mieterverein]]*)  
     If you are a member, they can help you reduce your rent.[^12] For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
-    They are more expensive, but your [legal insurance](/guides/legal-insurance) can cover the costs.
+    They are more expensive, but your [legal insurance](/guides/legal-insurance) might cover the costs.
 
 ### Stop junk mail
 
