@@ -12,6 +12,8 @@ The notice period (*Kündigungsfrist*) is how long you need to cancel a contract
 
 All jobs have a notice period, both for the employee (when they quit) and the employer (when they fire someone).[^0] It depends on your work contract, and how long you work at that company.
 
+**[How job notice periods work ➞](/guides/job-notice-period)**
+
 Many other contracts have a notice period. For example, if you want to leave your apartment, you must tell your landlord 3 months in advance. There is a *Kündigungsfrist* of 3 months.
 
 In some cases, you can cancel a contract early if there is a price increase, or if you move to an address where the service is not available.[^1] This is called a *Sonderkündigung*.

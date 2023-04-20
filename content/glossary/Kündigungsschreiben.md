@@ -2,12 +2,17 @@
 Title: What is a Kündigungsschreiben
 German_term: Kündigungsschreiben
 English_term: Cancellation letter
-Description: 
+Description: A letter you send to end a contract or resign from a job.
 Date_created: 2022-01-13
-Date_updated: 2022-04-20
-Related_guides: guides/moving-out.md
+Related_guides: guides/moving-out.md, guides/losing-your-job.md, guides/cancel-bvg-yearly-ticket.md
 ---
 
-In Germany, you cancel most contracts by sending a termination letter (*Kündigungsschreiben*). It's also called a termination notice or cancellation letter. This is how you resign from a job, [end your apartment lease](/guides/moving-out#end-your-lease), or cancel some memberships.
+In Germany, you end most contracts by sending a cancellation letter (*Kündigungsschreiben*). It's also called a termination notice or resignation letter.
 
-The *Kündigungsschreiben* is usually printed, signed, and sent by [registered mail](/glossary/Einschreibebrief).
+Cancellation letters are used to...
+
+- [Resign from a job](/guides/losing-your-job)
+- [End an apartment lease](/guides/moving-out#end-your-lease)
+- Cancel a subscription or membership
+
+The *Kündigungsschreiben* is usually printed, signed, and sent by [registered mail](/glossary/Einschreibebrief). In many cases, it can be sent by email instead.

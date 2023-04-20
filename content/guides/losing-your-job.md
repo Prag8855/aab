@@ -13,6 +13,8 @@ This guide shows you what to do when:
 * You change jobs
 * You change careers
 
+This guide only applies to employees, not self-employed workers.
+
 {% include "blocks/_tableOfContents.html" %}
 
 ## When you get fired
@@ -33,10 +35,7 @@ https://www.gesetze-im-internet.de/kschg/__4.html
 
 ## When you change jobs
 
-If you need a residence permit to work in Germany, you might need to apply for a new residence permit.
-
-* Work visa
-* Blue Card
+Many residence permits are tied to an employer. If you change employers, you sometimes need to apply for a new residence permit. This often takes a few months. You can't start your new job before you get your new residence permit.
 
 ## Before you leave your job
 
@@ -54,59 +53,15 @@ If you quit your job, you must give your employer a resignation letter (*Kündig
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
-??what if you get laid off or fired??
-
 ### Notice period
 
 All German jobs have a notice period (*Kündigungsfrist*). You can't quit your job without a warning, and your employer can't lay you off without a warning.
 
-Before you [find a new job](/guides/find-a-job-in-berlin), check your notice period in your work contract. Many jobs have a 3 month notice period.[^13] If your work contract does not have a notice period, the default notice period applies.
-
-**If you quit**, the default notice period is 4 weeks, rounded to the 15th or last day of the month.[^2]
-
-> **Example 1:** Your work contract has a 3 month notice period. You quit your job on January 5. You must work until March 5.
-
-> **Example 1:** Your work contract does not mention a notice period.
-
-> **Example 2:** Your work contract does not mention a notice period.
-
-**If you get laid off**, the default notice period depends on how long you have worked for this employer:[^3]
-
-| Time with this employer | Notice period |
-|---|---|
-| Still in [probation](/glossary/Probezeit) | 2 weeks |
-| Under 2 years | 4 weeks, on the 15th or last day of the month |
-| Over 2 years | 1 month, on the last day of the month |
-| Over 5 years | 2 months, on the last day of the month |
-| Over 8 years | 3 months, on the last day of the month |
-| Over 10 years | 4 months, on the last day of the month |
-| Over 12 years | 5 months, on the last day of the month |
-| Over 15 years | 6 months, on the last day of the month |
-| Over 20 years | 7 months, on the last day of the month |
-
-> **Example 1:** You work for a company for 1 year. You get laid off on February 18. You must work until March 31.
-
-> **Example 2:** You get laid off on March 17. You must work and get paid until May 31.
-
-If your employer goes bankrupt, the notice period is limited to 3 months, at the end of the month.[^4]
-
-Your notice period starts on the day after your employer receives your resignation letter.[^5]
-
-During your notice period, your employer still pays your salary, health insurance, pension insurance and other benefits.[^8]
-
-During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
-
-If you want to leave sooner, you can negotiate a shorter notice period with your employer.
-
-**If you were fired**, the notice period depends on why you were fired.
-
-For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9]
-
-??? Vacations and notice period ???
+**[How the notice period works ➞](/guides/job-notice-period)**
 
 ### Paychecks and bonuses
 
-What happens to bonuses? Paycheques? Taxes?
+What happens to bonuses? Paycheques? Taxes??
 
 ### Unused vacation days
 
@@ -118,7 +73,13 @@ Urlaubsbescheinigung
 
 ### Letters of reference
 
-You are legally entitled to one
+Ask your employer for a letter of reference (*[[Arbeitszeugnis]]*). You can ask for it in your [resignation letter](/glossary/Kündigungsschreiben). Your employer can't refuse provide a letter of reference.[^15]
+
+If you are an [[Azubi]], a working student, a temporary worker or a [minijobber](/glossary/Minijob), you also have the right to get a letter of reference.
+
+The letter of reference must clearly explain the type of work you did, and the duration. Your employer must give you a paper version, not an electronic version. It must not contain information about your health, your salary, your other jobs, your union membership, or your political affiliations. Your employer needs your explicit permission to mention why you quit or got fired.[^16]
+
+If you worked for more than 6 weeks, you can ask for a qualified reference (*qualifiziertes Arbeitszeugnis*). This version also includes an evaluation of your performance, and the reason you left the company.
 
 ### Tell the Ausländerbehörde
 
@@ -206,3 +167,5 @@ If you leave Germany, pension refund...
 [^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)
 [^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
+[^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
+[^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
