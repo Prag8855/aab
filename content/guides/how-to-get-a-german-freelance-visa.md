@@ -392,7 +392,7 @@ You can leave Germany **for up to 6 months**.[^47]
 
 ### What is the minimum income for the German freelance visa?
 
-In Berlin, you must earn **enough to pay for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month**.[^49] For example, if your rent is 800€ per month, and your health insurance 400€ per month, you must earn at least 1,649€ per month (800€ + 400€ + {{FREELANCE_VISA_MIN_INCOME|cur}}€).
+In Berlin, you must earn **enough to pay for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month**.[^49] For example, if your rent is 800€ per month, and your health insurance 400€ per month, you must earn at least {{(FREELANCE_VISA_MIN_INCOME + 800 + 400)|cur}}€ per month (800€ + 400€ + {{FREELANCE_VISA_MIN_INCOME|cur}}€).
 
 ### Can I get a permanent residence with a freelance visa?
 
