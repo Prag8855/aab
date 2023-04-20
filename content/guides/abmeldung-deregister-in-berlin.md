@@ -145,7 +145,7 @@ If you have [private health insurance](/glossary/private%20Krankenversicherung),
 
 ### Social security
 
-When you deregister, you could lose access to [[ALG I]], [[ALG II]], and other social services.[^16] Those services are only for German residents.
+When you deregister, you could lose access to [[ALG I]], [[Bürgergeld]], [[Kindergeld]] and other social services.[^16] Those services are only for German residents.
 
 ### Bank account
 

@@ -5,7 +5,7 @@ Description: The Mietendeckel was repealed. You might have to give the money you
 Date_created: 2021-04-15
 ---
 
-*This guide is old. It probably does not apply to you.*
+*This guide is old. It probably does not apply to you. The Mietendeckel was repealed. Instead, you should apply the [[Mietpreisbremse]]*
 
 On April 15 2021, Berlin's rent cap (*Mietendeckel*) was declared unconstitutional. This means the *Mietendeckel* was never valid. If your rent was reduced because of the *Mietendeckel*, it could go back up. If you saved money with the *Mietendeckel*, you might have to give it back.
 

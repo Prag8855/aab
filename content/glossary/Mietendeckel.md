@@ -2,9 +2,8 @@
 Title: What was the Mietendeckel?
 German_term: Mietendeckel
 English_term: Rent cap
-Description: 
+Description: A rent cap that was repealed after 1 year.
 Date_created: 2021-04-15
-Date_updated: 2022-04-20
 Related_guides: guides/mietendeckel-repealed.md
 ---
 
@@ -12,4 +11,4 @@ The rent cap (*Mietendeckel*) was a rent control law in Berlin. It set rent limi
 
 It came in effect on January 30 2020, but it was repealed in court on April 15 2021.
 
-The *Mietendeckel* is not the same as the *[[Mietpreisbremse]]*, another rent control law.
+The *Mietendeckel* is not the same as the *[[Mietpreisbremse]]*, another rent control law. The *Mietpreisbremse* is still in effect.

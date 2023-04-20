@@ -126,7 +126,7 @@ You will receive a TV tax invoice by post every 3 months. You can pay manually w
 
 ### How to avoid the TV tax
 
-- If you receive financial aid (*[[ALG II]]* or [*BAföG*](/glossary/BAföG)), you can fill [this form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_oder_ermaessigung_beantragen/index_ger.html) to stop paying the TV tax.
+- If you receive financial aid (*[[Bürgergeld]]* or [*BAföG*](/glossary/BAföG)), fill [this form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_oder_ermaessigung_beantragen/index_ger.html) to stop paying the TV tax.
 - If you live with other people, you only need to pay the TV tax once. You can split the cost.
 
 ## Banking

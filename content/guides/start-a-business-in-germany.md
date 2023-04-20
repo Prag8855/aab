@@ -216,9 +216,9 @@ The state can help you start a business. There are many options:
 - **Training voucher** (*[AVGS](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein)* or *[[Bildungsgutschein]]*)  
     If you are unemployed, you can get free coaching or training. It's paid by the *[[Bundesagentur für Arbeit]]*. There are [hundreds of different classes](https://web.arbeitsagentur.de/coachingundaktivierung/suche?mz=SA%2004&uk=Bundesweit&pg=0&re=BE) for business owners, including German classes.
 - **Initial funding** (*Einstiegsgeld*)  
-    If you already get [[ALG II]], the *[[Bundesagentur für Arbeit]]* can give 50% more money to help you start your business.[^10] More information [here](https://redtapetranslation.com/algii-and-einstiegsgeld-a-government-grant-to-start-your-business/).
+    If you already get [[Bürgergeld]], the *[[Bundesagentur für Arbeit]]* can give 50% more money to help you start your business.[^10] More information [here](https://redtapetranslation.com/algii-and-einstiegsgeld-a-government-grant-to-start-your-business/).
 - **Investment grant** (*Investitionszuschuss*)  
-    If you already get [[ALG II]], the *[[Bundesagentur für Arbeit]]* can give you up to 5,000€ to buy equipment for your business.[^11]
+    If you already get [[Bürgergeld]], the *[[Bundesagentur für Arbeit]]* can give you up to 5,000€ to buy equipment for your business.[^11]
 - **EXIST start-up grant**  
     If you are a student, a graduate or a scientist working in an innovative technology, you can apply for this grant. - [More information](https://www.exist.de/EXIST/Navigation/EN/Start-upFunding/EXIST-Business-Start-up-Grant/exist-business-start-up-grant.html)
 

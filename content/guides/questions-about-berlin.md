@@ -96,7 +96,7 @@ If you speak German, these communities can also help you
 - **Workers union** (*Gewerkschaft*)  
     If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
 
-**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^5] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[ALG II]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^6] You will probably need to speak German.
+**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^5] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^6] You will probably need to speak German.
 
 **If you have [legal insurance](/glossary/Rechtsschutzversicherung)**, it covers talking to a lawyer. They usually have a legal hotline that you can call for free.
 

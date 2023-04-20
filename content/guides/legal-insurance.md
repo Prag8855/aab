@@ -177,7 +177,7 @@ If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/o
 
 If you just need protection for apartment problems, join a tenant association (*[[Mieterverein]]*). [Conny](/out/conny-mietpreisbremse) can help you lower your rent. [Mineko](https://www.mineko.de/) can check your [utilities bill](/glossary/Betriebskostenabrechnung).
 
-**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^37] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[ALG II]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^38] You usually need to speak German.
+**If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local *Amtsgericht*](https://www.gerichtsverzeichnis.de/verzeichnis.php).[^37] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^38] You usually need to speak German.
 
 ## Summary
 

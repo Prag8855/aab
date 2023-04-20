@@ -47,7 +47,7 @@ If you don't have enough money for the deposit, you can open a *[[Mietaval]]*. T
 
 ### Get help from the Jobcenter
 
-If you receive [[ALG I]] or [[ALG II]], the Jobcenter can pay your deposit.[^4]
+If you receive [[ALG I]] or [[Bürgergeld]], the Jobcenter can pay your deposit.[^4]
 
 ## If you don't have a bank account
 

@@ -1,11 +1,9 @@
 ---
-Title: 
+Title: What was Hartz IV?
 German_term: Hartz IV
-English_term: 
-Description: 
+English_term: Social benefits
+Description: A nickname for ALG II social benefits. It was replaced by Bürgergeld.
 Date_created: 2018-07-31
-Date_updated: 2020-10-15
-Related_guides: guides/gez-rundfunkbeitrag.md
 ---
 
-See [[ALG II]].
+Another name for [[ALG II]]. It was replaced by [[Bürgergeld]] in 2023.
