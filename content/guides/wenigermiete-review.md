@@ -2,7 +2,7 @@
 Title: Review of Conny, the rent reduction service
 Short_title: Review of Conny rent reduction
 Description: A neutral, independently researched review of Conny (once called Wenigermiete), the service that promises to reduce your rent.
-Date_updated: 2022-09-25
+Date_created: 2020-07-29
 ---
 
 In 2015, Berlin passed the *[[Mietpreisbremse]]* law. It's a rent control law that limits the rents in Berlin.
