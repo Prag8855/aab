@@ -11,7 +11,7 @@ In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) b
 
 I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in 2023.
 
-*This article was not suggested, written or approved by N26. I have done independent research, and these opinions are my own.*
+![N26 credit cards](/images/n26-credit-card-allaboutberlin.jpg)
 
 {% include "blocks/_tableOfContents.html" %}
 
