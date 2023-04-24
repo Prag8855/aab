@@ -58,7 +58,10 @@ This list of English, French and Spanish-speaking attorneys will help you with a
 
 ## Alternatives to a lawyer
 
-Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
+- **Legal insurance**  
+    Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
+- **Business and immigration hotline**  
+    Call [0900 1 5293 6611](tel:0900152936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs 2€ per minute.
 
 **[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
 

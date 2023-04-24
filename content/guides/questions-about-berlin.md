@@ -36,6 +36,8 @@ If you speak German, these communities can also help you
 
 ## Immigration questions
 
+### Free help
+
 - **[Consultation service](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947842.en.php)** of the *[[Ausländerbehörde]]*  
     Use this email to ask questions about the *Ausländerbehörde*. They answer quickly. This is a free service.
 - **["Working and Living in Germany" hotline](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
@@ -46,19 +48,22 @@ If you speak German, these communities can also help you
     They offer legal help with immigration. They speak English, and many other languages.
 - **[The Imagine Foundation](https://www.joinimagine.com/)**  
     If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English. This is a free service.[^0]
-- **[Red Tape Translation](https://redtapetranslation.com/)**  
-    They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
-- **[Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/)**  
-    In this Facebook group, people get help with their *Ausländerbehörde* problems.
 - **[Fem.OS](https://femos.minor-kontor.de/en)**  
     They offer information and legal advice for female migrants. They speak 10 languages.
+- [Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/) - Facebook group
+- [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa) - Facebook group
+- [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/) - Facebook group
+
+### Paid help
+
+- **Immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
+    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
+- **[Red Tape Translation](https://redtapetranslation.com/)**  
+    They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
 - **[Verfahrenshinweise zum Aufenthalt in Berlin](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)** (in German)  
     This internal document tells you exactly how the Berlin Ausländerbehörde works. It has better information about visa and residence permits than the official website.
-- [Booka Local](/out/booka-local)  
+- **[Booka Local](/out/booka-local)**  
     Offers professional visa consultation. They can also go to the *Ausländerbehörde* with you.
-- [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/) - Facebook group
-- [German visa help](https://www.facebook.com/groups/germanvisahelp/) - Facebook group
-- [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa) - Facebook group
 - [List of English-speaking relocation consultants](/guides/relocation-agency-in-berlin)
 - [List of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin)
 
@@ -89,6 +94,8 @@ If you speak German, these communities can also help you
 
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung), they can help you find a lawyer. Your legal insurance covers the cost of talking to a lawyer. They might have a legal hotline that you can call for free.
+    - **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
+        Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **Tenant associations** (*[[Mieterverein]]*)  
     A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 100€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you, and some don't.[^3] If you don't speak German, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English and in other languages.
 - **Legaltech** (*Rechtsdienstleister*)  
@@ -118,11 +125,13 @@ If you speak German, these communities can also help you
     They offer help in English by phone, by email and in person. This service is only for businesses. They do not help freelancers.
 - **[Tax advisors](/guides/english-speaking-steuerberater-berlin)**  
     Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
+- **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
+    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - [List of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin)
 - [Berlin startups](https://www.facebook.com/groups/159595270791268/) - Facebook group
 - [Berlin freelancers](https://www.facebook.com/groups/berlinfreelancers/) - Facebook group
 
-### Useful websites
+### Helpful websites
 
 - [Existenzgruender.de](https://www.existenzgruender.de/EN/Home/inhalt.html) - official resource with a lot of detailed information
 - [Make it in Germany](https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/reasons) - official advice and information for foreigners
@@ -131,7 +140,7 @@ If you speak German, these communities can also help you
 
 ## Ask me
 
-Write to <contact@allaboutberlin.com>. I can't answer every question, but I can point you in the right direction.
+Write to <contact@allaboutberlin.com>. I can't answer every question, but I can point you in the right direction. Please do some research first.
 
 [^0]: [joinimagine.com](https://www.joinimagine.com/faq)
 [^1]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/), [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html)
