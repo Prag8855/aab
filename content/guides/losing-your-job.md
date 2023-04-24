@@ -147,11 +147,17 @@ Your legal insurance...
 
 ## What's next?
 
-Tax declaration...
+### Find another job
 
-If you move for work, tax deductions...
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-If you leave Germany, pension refund...
+### Make a tax declaration
+
+If you get unemployment benefits (*[[ALG I]]*), you *must* make a tax declaration (*[[Steuererklärung]]*).
+
+If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
+
+Some of your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job#step-7-make-a-tax-declaration).
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html)
 [^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)

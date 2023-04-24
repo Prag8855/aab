@@ -213,6 +213,17 @@ During your first 6 months at a new company, you are in your probation period (*
 
 **[What to do when you are sick ➞](/guides/sick-leave)**
 
+## Step 7: Make a [tax declaration](/glossary/Steuererklärung)
+
+Many of your job search costs are [tax-deductible](/glossary/steuerlich%20absetzbar):[^2]
+
+- **Relocation costs**  
+    If you move closer to your new job, you can [deduct your moving costs](/guides/moving-in#deduct-your-moving-costs).
+- **Job search costs**  
+    Coaching, resume writing, professional photos, translations, printing costs, job search services...
+- **Travel costs**  
+    Fuel, train tickets, hotels, meals and parking fees to go to job interviews.
+
 ## Need help?
 
 ### Career coaching
@@ -229,3 +240,4 @@ These people can help you get hired. For example, they can review your resume an
 
 [^0]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/21ehgp/im_looking_for_a_job_in_germany_and_have_a/)
 [^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
+[^2]: [billomat.com](https://www.billomat.com/magazin/jobsuche-steuerlich-absetzen-hier-erfaehrst-du-wie-das-geht/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/bewerbungskosten-koennen-sie-von-der-steuer-absetzen.html), [karrierebibel.de](https://karrierebibel.de/bewerbungskosten-absetzen/)
