@@ -21,7 +21,7 @@ I switched to N26 to save money. I didn't want to pay fees to withdraw money. Th
 
 ### There are no ATM withdrawal fees
 
-With N26, you get 3 free withdrawals every month (before, it was 5).[^4] Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations.
+With N26, you get 3 free withdrawals every month (before, it was 5).[^4] Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations. There is no withdrawal limit for [CASH26 withdrawals](/out/n26-cash26).
 
 This is my favourite feature. I really hate to pay to access my own money. I also hate to walk a kilometre to the next free ATM. With N26, I see an ATM, I use it.
 
