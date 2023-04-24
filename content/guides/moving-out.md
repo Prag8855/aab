@@ -113,7 +113,7 @@ The landlord will take up to 6 months to return your deposit. If there is nothin
 
 **[When do I get my deposit back? ➞](/guides/mietkaution#when-do-i-get-my-kaution-back)**
 
-If your landlord won't return your deposit, you can get help from your [tenants' association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay if they are successful.
+If your landlord won't return your deposit, you can get help from your [tenants' association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin).
 
 **[Where to get help ➞](/guides/questions-about-berlin#apartment-questions)**
 

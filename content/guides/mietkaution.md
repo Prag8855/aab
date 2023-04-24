@@ -97,11 +97,9 @@ When you move out, always fill an *Übergabeprotokoll*. The landlord can't charg
 
 ### If your landlord won't return your Kaution
 
-If your landlord won't return your deposit, you can get help from your [tenants' association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay if they are successful.
+If your landlord won't return your deposit, you can get help from your [tenant association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might cover the cost of a lawyer.
 
 ## Need help?
-
-Conny also offers a [deposit recovery service](/out/conny-kaution). You only pay if they are successful. There are many other people who can help you.
 
 **[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
 
