@@ -60,9 +60,11 @@ In the long term, we should fix Berlin's administration, not build hacks around 
 
 ### How does it work?
 
-This tool checks the Berlin.de [appointments page](/out/appointment-anmeldung) every 3 minutes. When it finds new appointments, it shows them on this page. It's a simple Python script that talks to this page with websockets. The frontend is a few lines of JavaScript powered by Vue.js. [The source code is on GitHub](https://github.com/nicbou/burgeramt-appointments-websockets).
+A wrote [a script](https://github.com/nicbou/burgeramt-appointments-websockets) that checks the Berlin.de [appointments page](/out/appointment-anmeldung) every 3 minutes. When it finds new appointments, it broadcasts them to everyone who has this page open.
 
-This tool makes the same number of requests, no matter how many people use it. It does not add more load to Berlin.de's servers; it reduces it.
+The script makes the same number of requests, no matter how many people use it. It does not add more load to Berlin.de's servers; it reduces it.
+
+This is an open source project. You can [download the code and run it yourself](https://github.com/nicbou/burgeramt-appointments-websockets).
 
 ### Limitations
 
@@ -88,9 +90,7 @@ When I launched this tool in January 2022, it stayed online for only 7 hours. I 
 
 I contacted the IKT-ZMS team - the people who build the official appointment booking system - and asked them if I could reactivate the tool. They said yes, if I only poll Berlin.de every 3 minutes (instead of every 30 seconds). This makes the tool less useful, but it still works.
 
-6 months later, I met the team in person. Over a few hours, they explained every problem they face, and why it's so hard to fix things. It's much harder than it looks, but there is still room for easy improvements.
-
-In the future, I want to work with them to make some of those improvements.
+I want to work with this team to improve Berlin.de directly. This includes a better user interface, and clearer instructions. So far, I was not successful. I met them once, but since then, they don't reply to my emails.
 
 [^0]: [plus.tagesspiegel.de](https://www.tagesspiegel.de/der-graue-lappen-ist-zuruck-die-jagd-nach-dem-internationalen-fuhrerschein-wird-zum-sussen-nostalgie-erlebnis-336706.html), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/keine-losung-fur-terminstau-bei-berliner-burgeramtern-4256614.html), [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/zeWyOidG3PriBabT5nd8b)
 [^1]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)

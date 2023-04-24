@@ -12,7 +12,7 @@ Summary:
 - It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month
 - It lets you use local public transit everywhere in Germany
 - It's only available as a monthly subscription, payable by bank transfer
-- In Berlin, it's not available to tourists
+- Tourists must buy it from a different place
 - In Berlin, you can get it from the [BVG](/out/deutschland-ticket-bvg) or the [Deutsche Bahn](/out/deutschland-ticket-s-bahn)
 
 {% include "blocks/_tableOfContents.html" %}
@@ -52,6 +52,16 @@ You must buy your ticket in advance. You have until the 10th day of the month to
 When you buy the ticket, you sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), and pay by automatic [bank transfer](/glossary/SEPA-%C3%9Cberweisung) every month. You need a European [bank account](/guides/first-bank-account-in-germany) for this.
 
 The rules can be different in other German states.
+
+### For tourists
+
+Tourists can buy a Deutschland Ticket from [mo.pla](https://www.mopla.solutions/de/tickets/deutschlandticket). You can pay with a regular credit card. They also make it easier to cancel the ticket after your trip. Check the app reviews before you try.
+
+**[Buy a Deutschland Ticket from Mopla ➞](https://www.mopla.solutions/de/tickets/deutschlandticket)**
+
+It can be easier to buy a regular daily, weekly or monthly ticket. You can buy those from a ticket machine at the train station. You can pay with cash or credit cards.
+
+**[Where to buy regular tickets ➞](/guides/public-transit#where-to-buy-tickets)**
 
 ## How to cancel a Deutschland Ticket subscription
 
