@@ -29,8 +29,16 @@ def purge_cloudflare_cache(cloudflare_zone: str, cloudflare_api_key: str):
     return request.urlopen(req)
 
 
-def build_site(site_path: Path, cloudflare_zone: str, cloudflare_api_key: str):
+def build_site(site_path: Path, tmp_output_path: Path, output_path: Path, cloudflare_zone: str, cloudflare_api_key: str):
+    """
+    Build the website in a temporary location. If the build is successful, copy the site to the final location.
+    """
+    logger.info(f"Copying {output_path} to {tmp_output_path}")
+    run(['rsync', '-a', '--delete', '--stats', str(output_path) + '/', tmp_output_path], check=True, stdout=sys.stdout, stderr=STDOUT)
     run(['ursus', '-c', site_path / 'ursus_config.py'], check=True, stdout=sys.stdout, stderr=STDOUT)
+    logger.info(f"Copying {tmp_output_path} to {output_path}")
+    run(['rsync', '-a', '--delete', '--stats', str(tmp_output_path) + '/', output_path], check=True, stdout=sys.stdout, stderr=STDOUT)
+
     if cloudflare_zone and cloudflare_api_key:
         purge_cloudflare_cache(cloudflare_zone, cloudflare_api_key)
 
@@ -68,6 +76,8 @@ if __name__ == '__main__':
 
     ursus_path = Path('/usr/lib/ursus')
     site_path = Path('/var/ursus/site')
+    tmp_output_path = Path('/var/ursus/output')
+    output_path = Path('/var/ursus/final_output')
 
     if (ursus_path / '.git').exists():
         logger.info("Ursus repo already exists")
@@ -76,8 +86,11 @@ if __name__ == '__main__':
         ursus_path.mkdir(parents=True, exist_ok=True)
         run(['git', 'clone', ursus_repo_url, ursus_path], check=True)
 
-    pull(ursus_path)
-    install_ursus(ursus_path)
+    try:
+        pull(ursus_path)
+        install_ursus(ursus_path)
+    except:  # noqa
+        logger.exception("Failed to build Ursus")
 
     if (site_path / '.git').exists():
         logger.info("Site repo already exists...")
@@ -86,8 +99,11 @@ if __name__ == '__main__':
         site_path.mkdir(parents=True, exist_ok=True)
         run(['git', 'clone', site_repo_url, site_path], check=True)
 
-    pull(site_path)
-    build_site(site_path, cloudflare_zone, cloudflare_api_key)
+    try:
+        pull(site_path)
+        build_site(site_path, tmp_output_path, output_path, cloudflare_zone, cloudflare_api_key)
+    except:  # noqa
+        logger.exception("Failed to build site")
 
     while True:
         rebuild_needed = False
@@ -109,6 +125,6 @@ if __name__ == '__main__':
             logger.exception("Failed to get site changes")
 
         if rebuild_needed:
-            build_site(site_path, cloudflare_zone, cloudflare_api_key)
+            build_site(site_path, tmp_output_path, output_path, cloudflare_zone, cloudflare_api_key)
 
         sleep(60)

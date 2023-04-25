@@ -14,7 +14,7 @@ services:
       - "CLOUDFLARE_API_KEY"
     volumes:
       - "ursus_files:/var/ursus/site"
-      - "static_site:/var/ursus/output"
+      - "static_site:/var/ursus/final_output"
   proxy:
     volumes:
       - "static_site:/var/www/html"
