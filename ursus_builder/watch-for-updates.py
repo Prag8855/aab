@@ -91,19 +91,24 @@ if __name__ == '__main__':
 
     while True:
         rebuild_needed = False
-        if has_new_commits(ursus_path):
-            logger.info("Ursus has changed. Pulling latest version...")
-            pull(ursus_path)
-            install_ursus(ursus_path)
-            rebuild_needed = True
+        try:
+            if has_new_commits(ursus_path):
+                logger.info("Ursus has changed. Pulling latest version...")
+                pull(ursus_path)
+                install_ursus(ursus_path)
+                rebuild_needed = True
+        except:  # noqa
+            logger.exception("Failed to update Ursus")
 
-        if has_new_commits(site_path):
-            logger.info("Site has changed. Pulling latest version...")
-            pull(site_path)
-            rebuild_needed = True
+        try:
+            if has_new_commits(site_path):
+                logger.info("Site has changed. Pulling latest version...")
+                pull(site_path)
+                rebuild_needed = True
+        except:  # noqa
+            logger.exception("Failed to get site changes")
 
         if rebuild_needed:
             build_site(site_path, cloudflare_zone, cloudflare_api_key)
 
         sleep(60)
-
