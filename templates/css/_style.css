@@ -50,8 +50,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	--font-size-m:calc(17px * var(--scale));
 	--font-size-s:calc(15px * var(--scale));
 	--font-size-xs:calc(11px * var(--scale));
-	--font-size-h2:calc(25px * var(--scale));
-	--font-size-h3:calc(22px * var(--scale));
+	--font-size-h2:calc(27px * var(--scale));
+	--font-size-h3:calc(21px * var(--scale));
 
 	--line-height:1.6em;
 	--line-height-compact:1.3em;
@@ -244,8 +244,8 @@ table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
 	--font-size-m:calc(17px * var(--scale));
 	--font-size-s:calc(15px * var(--scale));
 	--font-size-xs:calc(11px * var(--scale));
-	--font-size-h2:calc(25px * var(--scale));
-	--font-size-h3:calc(22px * var(--scale));
+	--font-size-h2:calc(27px * var(--scale));
+	--font-size-h3:calc(21px * var(--scale));
 
 	font-size:var(--font-size-m);
 	line-height:var(--line-height);
