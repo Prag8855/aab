@@ -45,7 +45,7 @@ When you book your appointment, you get an appointment number (*Vorgangsnummer*)
 Bring these documents to your appointment:
 
 - **Your [Wohnungsgeberbestätigung](/docs/wohnungsgeberbestatigung)**  
-    You get it from the *[[Wohnungsgeber]]* before you move in. You can't register your address without this document. A lease is not enough.[^3] They accept copies, but the original document is better.[^4]
+    You get it from the *[[Wohnungsgeber]]* before you [move in](/guides/moving-in). You can't register your address without this document. A lease is not enough.[^3] They accept copies, but the original document is better.[^4]
     - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need the permission of the landlord.[^5]
     - If you move with your spouse, they can give it to you. They don't need permission from the landlord.
     - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
