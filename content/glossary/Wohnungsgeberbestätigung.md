@@ -11,6 +11,6 @@ When you move into [move into an apartment](/guides/moving-in), the landlord or 
 
 The *Wohnungsgeberbestätigung* is also called *Einzugsbestätigung des Wohnungsgebers* or *Vermieterbescheinigung*. The *Wohnungsgeberbestätigung* and the *[[Übergabeprotokoll]]* are sometimes the same document.
 
-**[English translation Wohnungsgeberbestätigung template ➞](/docs/wohnungsgeberbestatigung)**
+**[Wohnungsgeberbestätigung template ➞](/docs/wohnungsgeberbestatigung)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1968), [immobilienscout24.de](https://www.immobilienscout24.de/wissen/mieten/untervermietung.html)
