@@ -81,6 +81,8 @@ Disadvantages of quitting your job:
 - **You need a job when you return**  
     After your sabbatical, you can try to get your old job back, but it's not guaranteed to work. You might need to find a new job.
 
+**[How to quit your job in Germany ➞](/guides/losing-your-job)**
+
 ## Alternatives to a sabbatical
 
 If you want to take a short vacation, use your vacation days. All employees get vacation days.
