@@ -81,45 +81,67 @@ The letter of reference must clearly explain the type of work you did, and the d
 
 If you worked for more than 6 weeks, you can ask for a qualified reference (*qualifiziertes Arbeitszeugnis*). This version also includes an evaluation of your performance, and the reason you left the company.
 
+### Tell the Agentur für Arbeit
+
+Tell the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* that you lost your job. You must do this before you stop working, up to 3 months before your last day of work.
+
+**[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
+
+The *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* will look at your situation, and decide if you can get unemployment benefits (*[ALG I]*).
+
+**[How unemployment benefits work ↓](#what-happens-to-your-health-insurance)**
+
 ### Tell the Ausländerbehörde
 
-### Tell the Arbeitsagentur
+If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you are unemployed.
 
-https://www.arbeitsagentur.de/arbeitslos-melden/
+If you don't need a residence permit to work in Germany, you don't need to do anything.
 
 ### Tell your health insurance
 
-Tell your health insurer that you are unemployed. They will adjust your health insurance payments to your new income.
+Tell your health insurer that you are unemployed. They will adjust your health insurance payments. You will not lose your health insurance. Your coverage will not change.
+
+**[What happens to your health insurance ↓](#what-happens-to-your-health-insurance)**
 
 ## After you leave your job
 
 ### Unemployment benefits
 
+When you are unemployed, you get unemployment benefits (*[[ALG I]]*). The Agentur für Arbeit pays for your health insurance, and gives you money.
+
 You can get unemployment benefits if:
 
-...
+-
 
 When you get unemployment benefits, ...
 
 Sperrzeit?
 
-### What happens to your residence permit
+In some cases, you only get employment benefits after a 12-week *Sperrzeit*.
 
-Most resident permits are tied to your job. If you lose your job, you lose your residence permit.
+### What happens to your residence permit
 
 If you are a German permanent resident or a EU/EEA citizen, you can stay in Germany. You don't need to do anything. ??right??
 
+If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you lost your job.
+
 ### What happens to your health insurance
 
-When you stop working, you keep your health insurance. Your health insurance coverage does not change.
+When you stop working, you keep your health insurance.
 
-If you get unemployment benefits, the state pays for your health insurance.
+In some cases, your health insurance is free for 1 month after you lose your job (*nachgehende Leistungsanspruch*).[^18] This happens automatically; you don't have to apply for it.
 
-If you don't get unemployment benefits, you must pay for health insurance yourself. Use the health insurance calculator to see the cost.
+If you get [unemployment benefits](/glossary/ALG%20I), the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* pays for your health insurance.[^17]
+
+If you don't get unemployment benefits, you must pay around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month for public health insurance. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).
 
 ### Make a tax declaration
 
-...
+If you get [unemployment benefits](/glossary/ALG%20I), you *must* make a tax declaration (*[[Steuererklärung]]*).
+
+If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
+
+Some of your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job#step-7-make-a-tax-declaration).
 
 ## How to find a new job
 
@@ -151,14 +173,6 @@ Your legal insurance...
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-### Make a tax declaration
-
-If you get unemployment benefits (*[[ALG I]]*), you *must* make a tax declaration (*[[Steuererklärung]]*).
-
-If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
-
-Some of your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job#step-7-make-a-tax-declaration).
-
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html)
 [^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
 [^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
@@ -175,3 +189,5 @@ Some of your job search expenses are also [tax-deductible](/glossary/steuerlich%
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
+[^17]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/#:~:text=fur%20empfanger%20von%20arbeitslosengeld%20ubernimmt%20die%20bundesagentur%20fur%20arbeit%20die%20beitrage)
+[^18]: [finanztip.de](https://www.finanztip.de/gkv/nachgehender-leistungsanspruch/)
