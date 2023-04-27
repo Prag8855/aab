@@ -2,21 +2,15 @@
 Title: What is Arbeitslosengeld I or ALG I?
 German_term: ALG I
 English_term: Unemployment benefits
-Description: 
+Description: Social benefits given to unemployed people.
 Date_created: 2020-04-07
-Date_updated: 2022-06-08
-Related_guides: guides/start-a-business-in-germany.md, guides/german-health-insurance.md, guides/cost-of-living.md, tools/arbeitslosenversicherung-calculator.md
+Related_guides: guides/unemployment-benefits.md, guides/start-a-business-in-germany.md, guides/german-health-insurance.md, guides/cost-of-living.md, tools/arbeitslosenversicherung-calculator.md
 ---
 
-Unemployment benefits (*Arbeitslosengeld I* or *ALG I*) is a type of social assistance in Germany.
+Unemployment benefits (*Arbeitslosengeld I* or *ALG I*) is a type of social assistance for unemployed people.
 
-You get *ALG I* when you lose your job. You only get *ALG 1* if you have paid unemployment insurance for at least 12 months in the last 30 months.[^0] You must apply for *ALG I* at the *[[Bundesagentur für Arbeit]]*.[^1]
+You get *ALG I* when you [lose your job](/guides/losing-your-job). You must apply for it at the *[[Bundesagentur für Arbeit]]*. Unemployment benefits are covered by the [unemployment insurance](/glossary/Arbeitslosenversicherung) you pay as an employee. If you are self-employed, unemployment insurance is optional.[^0] This means that most self-employed people can't get *ALG I*.
 
-Most employees must pay for [unemployment insurance](/glossary/Arbeitslosenversicherung). If you are self-employed, unemployment insurance is optional.[^2] This means that most unemployed people can't get *ALG I*.
+**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 
-*ALG I* pays 60% to 67% of your previous salary, up to ~2,000€ per month.[^3] It also pays for your [health insurance](/glossary/Krankenversicherung).
-
-[^0]: [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
-[^1]: [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
-[^2]: [Wikipedia](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)
-[^3]: [hartz4.de](https://www.arbeitslosenselbsthilfe.org/hoechstsatz-alg-1/)
+[^0]: [Wikipedia](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)
