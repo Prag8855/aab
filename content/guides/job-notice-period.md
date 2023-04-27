@@ -53,7 +53,7 @@ When the reasons are serious, there is no notice period. For example, if you ste
 
 Your notice period starts on the day after your employer receives your resignation letter.[^5]
 
-During your notice period, your employer still pays your salary, health insurance, pension insurance and other benefits.[^8]
+During your notice period, your employer still pays your salary, health insurance, pension insurance and other benefits.[^8] You can still take [sick days](/guides/sick-leave) and [use your vacation days](/guides/vacation-days).
 
 During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
 
