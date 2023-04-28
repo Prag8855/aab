@@ -85,15 +85,13 @@ The letter of reference must clearly explain the type of work you did, and the d
 
 If you worked for more than 6 weeks, you can ask for a qualified reference (*qualifiziertes Arbeitszeugnis*). This version also includes an evaluation of your performance, and the reason you left the company.
 
-### Tell the Agentur für Arbeit
+### Register as a job seeker
 
-Tell the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* that you lost your job. You must do this before you stop working, up to 3 months before your last day of work.
+Register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
 
-**[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
+You must do this at least 3 months before your last day of work. If that is not possible, you must do it maximum 3 days after you learn that you will be unemployed.[^20]
 
-The *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* will look at your situation, and decide if you can get unemployment benefits (*[ALG I]*).
-
-**[How unemployment benefits work ↓](#what-happens-to-your-health-insurance)**
+**[Register as a job seeker](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
 ### Tell the Ausländerbehörde
 
@@ -109,19 +107,13 @@ Tell your health insurer that you are unemployed. They will adjust your health i
 
 ## After you leave your job
 
-### Unemployment benefits
+### Register as unemployed
 
-When you are unemployed, you get unemployment benefits (*[[ALG I]]*). The Agentur für Arbeit pays for your health insurance, and gives you money.
+You must register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
 
-You can get unemployment benefits if:
+You can do this up to 3 months before your last day of work. You must do it before your second day of unemployment.[^21] If you wait too long, you get a penalty: you lose 1 week of unemployment benefits.[^19]
 
--
-
-When you get unemployment benefits, ...
-
-Sperrzeit?
-
-In some cases, you only get employment benefits after a 12-week *Sperrzeit*.
+**[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
 ### What happens to your residence permit
 
@@ -195,3 +187,6 @@ Your legal insurance...
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
 [^17]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/#:~:text=fur%20empfanger%20von%20arbeitslosengeld%20ubernimmt%20die%20bundesagentur%20fur%20arbeit%20die%20beitrage)
 [^18]: [finanztip.de](https://www.finanztip.de/gkv/nachgehender-leistungsanspruch/)
+[^19]: [berlin.de](https://www.berlin.de/familie/informationen/arbeitslos-werden-216#:~:text=nach%20Kenntnis%20erfolgen.-,frist%20verpasst%3F,-Wenn%20die%20Arbeitssuchendmeldung)
+[^20]: [arbeitsagentur.de](https://www.arbeitsagentur.de/arbeitslos-melden/)
+[^21]: [arbeitsagentur.de](https://www.arbeitsagentur.de/arbeitslos-melden/)
