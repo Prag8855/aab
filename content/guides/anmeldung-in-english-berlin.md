@@ -241,7 +241,7 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 **[Moving into a new apartment ➞](/guides/moving-in#after-the-move)**
 
 [^0]: [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_89919590/steueridentifikationsnummer-fuer-mein-kind-wo-finde-ich-sie-.html)
-[^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/i8y3k5/question_about_booking_anmeldung_in_advance/g1vx9y7/)
+[^1]: Confirmed by multiple Bürgerämter (April 2023), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/i8y3k5/question_about_booking_anmeldung_in_advance/g1vx9y7/)
 [^2]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
 [^3]: [promietrecht.de](https://www.promietrecht.de/Untermieter/Vermieterbescheinigung-fuer-Untermieter-AnmeldungWohnsitz-E2286.htm), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/378637-anmeldung-using-lease-instead-of-wohnungsgeberbestaetigung/)
 [^4]: [facebook.com](https://www.facebook.com/groups/germanvisahelp/posts/552438666046612/?comment_id=552455322711613&reply_comment_id=552463426044136)
