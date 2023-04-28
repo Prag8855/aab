@@ -70,7 +70,7 @@ To get a residence permit, you need health insurance and a place to live. You no
 
 ### Check if your devices work in Germany
 
-Before you move to Germany, check if your devices will work in German power sockets.
+Before you move to Germany, check if your devices will work in German power sockets. Some devices just need a cheap power adapter. Others need an expensive power converter.
 
 **[Power sockets in Germany ➞](/guides/power-sockets)**
 
@@ -106,7 +106,7 @@ After you move in, get [liability insurance](/glossary/Haftpflichtversicherung).
 
 ### Register your address
 
-In Germany, you must register your address. This is how you get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need them for many other things.
+After you [move in](/guides/moving-in), you must [register your address](/glossary/Anmeldung). This is how you get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need them for many other things.
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 

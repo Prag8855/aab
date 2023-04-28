@@ -9,6 +9,6 @@ Related_guides: guides/first-bank-account-in-germany.md, guides/free-schufa-berl
 
 In Germany, you must register your address at the *[[Bürgeramt]]*. This will become your official address in Germany. This is called the *Anmeldung*.
 
-During the *Unmeaning* appointment, you get a registration certificate (*[[Anmeldebestätigung]]*). This document confirms your official address in Germany. You often need it to [open a bank account](/guides/first-bank-account-in-germany) or get a cellphone contract. After your first *Anmeldung*, you will also get a tax ID (*[[Steueridentifikationsnummer]]*).
+During the *Anmeldung* appointment, you get a registration certificate (*[[Anmeldebestätigung]]*). This document confirms your official address in Germany. You often need it to [open a bank account](/guides/first-bank-account-in-germany) or get a cellphone contract. After your first *Anmeldung*, you will also get a tax ID (*[[Steueridentifikationsnummer]]*).
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
