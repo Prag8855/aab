@@ -78,22 +78,6 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
       flags.add('over-5-years');
     }
   }
-  // British
-  else if (nationality === 'GB') {
-    flags.add('uk-national');
-    if (pensions.disqualifyingCountries.has(countryOfResidence)) {
-      flags.add('not-eligible');
-      flags.add('disqualifying-country-resident'); 
-    }
-
-    if (entryDate < brexitDate) {
-      flags.add('not-eligible');
-      flags.add('uk-prebrexit');
-    }
-    else {
-      flags.add('uk-postbrexit');
-    }
-  }
   // Israeli
   else if (nationality === 'IL') {
     flags.add('israel-national');
@@ -150,8 +134,29 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
       flags.add('over-5-years');
     }
   }
+  else if (nationality === 'GB') {
+    flags.add('uk-national');
+    if (entryDate < brexitDate) {
+      flags.add('not-eligible');
+      flags.add('uk-prebrexit');
+    }
+    else {
+      flags.add('uk-postbrexit');
+    }
+  }
   else {
     flags.add('noncontracting-national');
+  }
+
+  if(countryOfResidence === 'GB') {
+    flags.add('uk-resident');
+    if (entryDate < brexitDate) {
+      flags.add('not-eligible');
+      flags.add('uk-prebrexit');
+    }
+    else {
+      flags.add('uk-postbrexit');
+    }
   }
 
   if(!flags.has('not-eligible')) {

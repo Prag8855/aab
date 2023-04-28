@@ -1,0 +1,84 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Unit tests" %}
+{% set metadescription = "" %}
+
+{% block precontent %}
+    <header class="section transparent fixed-width intro centred">
+        <h1>Tests</h1>
+    </header>
+{% endblock %}
+
+{% block postHead %}
+    <meta name="robots" content="noindex"/>
+{% endblock %}
+
+{% block content %}
+    <script src="https://unpkg.com/chai/chai.js"></script>
+    <script src="https://unpkg.com/mocha/mocha.js"></script>
+    <div id="mocha"></div>
+    <script class="mocha-init">
+      mocha.setup('bdd');
+      let assert = chai.assert;
+      chai.config.truncateThreshold = 0
+    </script>
+    {% js %}
+      {% include '/js/utils.js' %}
+      {% include '/js/constants.js' %}
+      {% include '/js/health-insurance-calculator.js' %}
+      {% include '/js/pension-refund-calculator.js' %}
+      {% include '/js/tax-calculator.js' %}
+    {% endjs %}
+{% endblock %}
+
+{% block postFooter %}
+  {{ super() }}
+  <script src="/js/health-insurance-calculator.test.js" type="module"></script>
+  <script src="/js/pension-refund-calculator.test.js" type="module"></script>
+  <script src="/js/tax-calculator.test.js" type="module"></script>
+  <script src="/js/utils.test.js" type="module"></script>
+  <script class="mocha-exec">
+    mocha.run();
+  </script>
+  <style type="text/css">
+
+    main > header{display:none;}
+
+    #mocha{
+      --scale: 0.8;
+
+      --spacing-xl:calc(45px * var(--scale));
+      --spacing-l:calc(30px * var(--scale));
+      --spacing-m:calc(15px * var(--scale));
+      --spacing-s:calc(5px * var(--scale));
+      --font-size-l:calc(30px * var(--scale));
+      --font-size-m:calc(17px * var(--scale));
+      --font-size-s:calc(15px * var(--scale));
+      --font-size-xs:calc(11px * var(--scale));
+      --font-size-h2:calc(25px * var(--scale));
+      --font-size-h3:calc(22px * var(--scale));
+
+      font-size:var(--font-size-m);
+      line-height:var(--line-height);
+    }
+
+    #mocha-stats{margin:0;padding:var(--spacing-m);background:var(--color-background-widget);border-radius:var(--border-radius)}
+      .progress, .duration, .replay{display:none}
+
+    #mocha-report li{list-style:'—'}
+
+    #mocha-report > .suite > h1{font-weight:bold}
+    #mocha-report > .suite > ul > .suite > h1{font-weight:bold}
+
+    #mocha-report *{
+      font-size: var(--font-size-m) !important;
+      line-height: var(--line-height-m) !important;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    #mocha-report pre{
+      font-family:monospace!important;
+      overflow-x:auto;
+    }
+    .test.fail{background:#fcc}
+  </style>
+{% endblock %}

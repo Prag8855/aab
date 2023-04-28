@@ -3,9 +3,7 @@ import { hasFlags, yearsAgo } from './test-utils.js';
 describe('calculatePensionRefund', () => {
   describe('a 30,000€ income for 12 months in 2005', () => {
     const output = calculatePensionRefund('US', 'US', new Date(2005, 0, 1), new Date(2005, 11, 1), 30000, false);
-    it('should calculate the correct pension refund', () => {
-      assert.equal(output.refundAmount, 30000 * 19.5/100 / 2);
-    });
+    it('should calculate the correct pension refund', () => assert.equal(output.refundAmount, 30000 * 19.5/100 / 2));
   });
 
   describe('a 30,000€ income for 6 months in 2006 and 6 months in 2007', () => {
@@ -45,6 +43,20 @@ describe('calculatePensionRefund', () => {
       });
     });
 
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('FR', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund, because he is an EU national', () => {
+        hasFlags(output, ['not-eligible', 'eu-national', 'uk-prebrexit', 'uk-resident']);
+      });
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('FR', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is not eligible for a refund, because he is an EU national', () => {
+        hasFlags(output, ['not-eligible', 'eu-national', 'uk-postbrexit', 'uk-resident']);
+      });
+    });
+
     describe('who lives in a contracting country', () => {
       const output = calculatePensionRefund('FR', 'CA', yearsAgo(12), yearsAgo(10), 30000, false);
       it('is not eligible for a refund, because he is an EU national', () => {
@@ -75,6 +87,20 @@ describe('calculatePensionRefund', () => {
       });
     });
 
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('CH', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund, because he is an EU national', () => {
+        hasFlags(output, ['not-eligible', 'eea-national', 'uk-prebrexit', 'uk-resident']);
+      });
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('CH', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is not eligible for a refund, because he is an EU national', () => {
+        hasFlags(output, ['not-eligible', 'eea-national', 'uk-postbrexit', 'uk-resident']);
+      });
+    });
+
     describe('who lives in a contracting country', () => {
       const output = calculatePensionRefund('CH', 'CA', yearsAgo(12), yearsAgo(10), 30000, false);
       it('is not eligible for a refund, because he is an EEA national', () => {
@@ -100,23 +126,27 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in the EEA', () => {
       const output = calculatePensionRefund('CA', 'CH', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'contracting-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'contracting-national']));
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('CA', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'uk-prebrexit', 'contracting-national', 'uk-resident']));
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('CA', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'uk-postbrexit', 'contracting-national', 'uk-resident']));
     });
 
     describe('who lives in a contracting country', () => {
       const output = calculatePensionRefund('CA', 'CA', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'contracting-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'contracting-national']));
     });
 
     describe('who lives in a non-contracting country', () => {
       const output = calculatePensionRefund('CA', 'AO', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'contracting-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'contracting-national']));
     });
 
     describe('who lives in Bosnia, Kosovo, Macedonia, Serbia or Montenegro', () => {
@@ -152,9 +182,7 @@ describe('calculatePensionRefund', () => {
 
     describe('who left the EU less than 2 years ago', () => {
       const output = calculatePensionRefund('CA', 'AO', yearsAgo(3), yearsAgo(1), 30000, false);
-      it('is eligible for a refund later', () => {
-        hasFlags(output, ['eligible-later', 'contracting-national']);
-      });
+      it('is eligible for a refund later', () => hasFlags(output, ['eligible-later', 'contracting-national']));
     });
   });
 
@@ -185,6 +213,20 @@ describe('calculatePensionRefund', () => {
         it('is eligible for a refund', () => {
           hasFlags(output, ['eligible', 'contracting-national']);
         });
+      });
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('BR', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => {
+        hasFlags(output, ['not-eligible', 'uk-prebrexit', 'contracting-national', 'uk-resident']);
+      });
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('BR', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => {
+        hasFlags(output, ['eligible', 'uk-postbrexit', 'contracting-national', 'uk-resident']);
       });
     });
 
@@ -241,17 +283,31 @@ describe('calculatePensionRefund', () => {
       });
     });
 
-    describe('who worked in Germany before Brexit', () => {
-      const output = calculatePensionRefund('GB', 'GB', new Date(2018, 0, 1), new Date(2021, 11, 31), 30000, false);
-      it('is not eligible for a refund', () => {
+    describe('who lives in Canada, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('GB', 'CA', new Date(2018, 0, 1), new Date(2021, 11, 31), 30000, false);
+      it('is not eligible', () => {
         hasFlags(output, ['not-eligible', 'uk-national', 'uk-prebrexit']);
       });
     });
 
-    describe('who only worked in Germany after Brexit', () => {
-      const output = calculatePensionRefund('GB', 'GB', new Date(2021, 0, 1), new Date(2021, 10, 1), 30000, false);
-      it('is eligible for a refund after 2 years', () => {
-        hasFlags(output, ['eligible-later', 'uk-national', 'uk-postbrexit']);
+    describe('who lives in Canada, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('GB', 'CA', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => {
+        hasFlags(output, ['eligible', 'uk-postbrexit', 'uk-national']);
+      });
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('GB', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => {
+        hasFlags(output, ['not-eligible', 'uk-prebrexit', 'uk-national', 'uk-resident']);
+      });
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('GB', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => {
+        hasFlags(output, ['eligible', 'uk-postbrexit', 'uk-national', 'uk-resident']);
       });
     });
   });
@@ -268,9 +324,17 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in the EEA', () => {
       const output = calculatePensionRefund('RS', 'CH', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'balkanblock-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'balkanblock-national']));
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('RS', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'uk-prebrexit', 'balkanblock-national', 'uk-resident']));
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('RS', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'uk-postbrexit', 'balkanblock-national', 'uk-resident']));
     });
 
     describe('who lives in Bosnia, Kosovo, Macedonia, Serbia or Montenegro', () => {
@@ -339,23 +403,17 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in Turkey', () => {
       const output = calculatePensionRefund('RS', 'TR', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is not eligible for a refund', () => {
-        hasFlags(output, ['not-eligible', 'balkanblock-national', 'disqualifying-country-resident']);
-      });
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'balkanblock-national', 'disqualifying-country-resident']));
     });
 
     describe('who lives in a contracting country', () => {
       const output = calculatePensionRefund('RS', 'CA', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'balkanblock-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'balkanblock-national']));
     });
 
     describe('who lives in a non-contracting country', () => {
       const output = calculatePensionRefund('RS', 'AO', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'balkanblock-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'balkanblock-national']));
     });
 
     describe('who worked more than 5 years in Germany', () => {
@@ -369,9 +427,7 @@ describe('calculatePensionRefund', () => {
 
     describe('who left the EU less than 2 years ago', () => {
       const output = calculatePensionRefund('RS', 'AO', yearsAgo(3), yearsAgo(1), 30000, false);
-      it('is eligible for a refund later', () => {
-        hasFlags(output, ['eligible-later', 'balkanblock-national']);
-      });
+      it('is eligible for a refund later', () => hasFlags(output, ['eligible-later', 'balkanblock-national']));
     });
   });
 
@@ -385,16 +441,26 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in the EEA', () => {
       const output = calculatePensionRefund('IL', 'CH', yearsAgo(12), yearsAgo(10), false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'israel-national']));
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('IL', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => {
+        hasFlags(output, ['not-eligible', 'uk-prebrexit', 'israel-national', 'uk-resident']);
+      });
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('IL', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
       it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'israel-national']);
+        hasFlags(output, ['eligible', 'uk-postbrexit', 'israel-national', 'uk-resident']);
       });
     });
 
     describe('who lives in Israel', () => {
       const output = calculatePensionRefund('IL', 'IL', yearsAgo(12), yearsAgo(10), false);
-      it('is not eligible for a refund', () => {
-        hasFlags(output, ['not-eligible', 'israel-national', 'israel-resident']);
-      });
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'israel-national', 'israel-resident']));
     });
 
     describe('who lives in Bosnia, Kosovo, Macedonia, Serbia or Montenegro', () => {
@@ -414,23 +480,17 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in Turkey', () => {
       const output = calculatePensionRefund('IL', 'TR', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is not eligible for a refund', () => {
-        hasFlags(output, ['not-eligible', 'israel-national', 'disqualifying-country-resident']);
-      });
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'israel-national', 'disqualifying-country-resident']));
     });
 
     describe('who lives in another contracting country', () => {
       const output = calculatePensionRefund('IL', 'CA', yearsAgo(12), yearsAgo(10), false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'israel-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'israel-national']));
     });
 
     describe('who lives in a non-contracting country', () => {
       const output = calculatePensionRefund('IL', 'AO', yearsAgo(12), yearsAgo(10), false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'israel-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'israel-national']));
     });
 
     describe('who worked more than 5 years in Germany', () => {
@@ -444,9 +504,7 @@ describe('calculatePensionRefund', () => {
 
     describe('who left the EU less than 2 years ago', () => {
       const output = calculatePensionRefund('IL', 'AO', yearsAgo(3), yearsAgo(1), 30000, false);
-      it('is eligible for a refund later', () => {
-        hasFlags(output, ['eligible-later', 'israel-national']);
-      });
+      it('is eligible for a refund later', () => hasFlags(output, ['eligible-later', 'israel-national']));
     });
   });
 
@@ -460,8 +518,20 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in the EEA', () => {
       const output = calculatePensionRefund('JP', 'CH', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'japan-national']));
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('JP', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => {
+        hasFlags(output, ['not-eligible', 'uk-prebrexit', 'japan-national', 'uk-resident']);
+      });
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('JP', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
       it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'japan-national']);
+        hasFlags(output, ['eligible', 'uk-postbrexit', 'japan-national', 'uk-resident']);
       });
     });
 
@@ -474,9 +544,7 @@ describe('calculatePensionRefund', () => {
       });
       describe('and worked for less than 5 years in Germany', () => {
         const output = calculatePensionRefund('JP', 'JP', yearsAgo(12), yearsAgo(10), 30000, false);
-        it('is eligible for a refund', () => {
-          hasFlags(output, ['eligible', 'japan-national', 'japan-resident']);
-        });
+        it('is eligible for a refund', () => hasFlags(output, ['eligible', 'japan-national', 'japan-resident']));
       });
     });
 
@@ -505,15 +573,11 @@ describe('calculatePensionRefund', () => {
     describe('who lives in another country', () => {
       describe('and worked for over 5 years in Germany', () => {
         const output = calculatePensionRefund('JP', 'CA', yearsAgo(17), yearsAgo(10), 30000, false);
-        it('is eligible for a refund', () => {
-          hasFlags(output, ['eligible', 'japan-national']);
-        });
+        it('is eligible for a refund', () => hasFlags(output, ['eligible', 'japan-national']));
       });
       describe('and worked for less than 5 years in Germany', () => {
         const output = calculatePensionRefund('JP', 'CA', yearsAgo(12), yearsAgo(10), 30000, false);
-        it('is eligible for a refund', () => {
-          hasFlags(output, ['eligible', 'japan-national']);
-        });
+        it('is eligible for a refund', () => hasFlags(output, ['eligible', 'japan-national']));
       });
     });
 
@@ -551,23 +615,27 @@ describe('calculatePensionRefund', () => {
 
     describe('who lives in the EEA', () => {
       const output = calculatePensionRefund('TR', 'CH', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'turkey-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'turkey-national']));
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('TR', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'uk-prebrexit', 'turkey-national', 'uk-resident']));
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('TR', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'uk-postbrexit', 'turkey-national', 'uk-resident']));
     });
 
     describe('who lives in another contracting country', () => {
       const output = calculatePensionRefund('TR', 'CA', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'turkey-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'turkey-national']));
     });
 
     describe('who lives in a non-contracting country', () => {
       const output = calculatePensionRefund('TR', 'AO', yearsAgo(12), yearsAgo(10), 30000, false);
-      it('is eligible for a refund', () => {
-        hasFlags(output, ['eligible', 'turkey-national']);
-      });
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'turkey-national']));
     });
 
     describe('who worked more than 5 years in Germany', () => {
@@ -588,9 +656,7 @@ describe('calculatePensionRefund', () => {
 
     describe('who left the EU less than 2 years ago', () => {
       const output = calculatePensionRefund('IL', 'AO', yearsAgo(3), yearsAgo(1), 30000, false);
-      it('is eligible for a refund later', () => {
-        hasFlags(output, ['eligible-later', 'israel-national']);
-      });
+      it('is eligible for a refund later', () => hasFlags(output, ['eligible-later', 'israel-national']));
     });
   });
 
@@ -609,41 +675,41 @@ describe('calculatePensionRefund', () => {
       });
     });
 
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('UY', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'uk-prebrexit', 'contracting-national', 'uk-resident']));
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('UY', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'uk-postbrexit', 'contracting-national', 'uk-resident']));
+    });
+
     describe('who lives in Uruguay', () => {
       describe('and worked in Germany for over 5 years', () => {
         const output = calculatePensionRefund('UY', 'UY', yearsAgo(15), yearsAgo(8), 30000, false);
-        it('is not eligible for a refund', () => {
-          hasFlags(output, ['not-eligible', 'contracting-national', 'over-5-years']);
-        });
+        it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'contracting-national', 'over-5-years']));
       });
       describe('and worked in Germany for less than 5 years', () => {
         const output = calculatePensionRefund('UY', 'UY', yearsAgo(15), yearsAgo(13), 30000, false);
-        it('is eligible for a refund', () => {
-          hasFlags(output, ['eligible', 'contracting-national']);
-        });
+        it('is eligible for a refund', () => hasFlags(output, ['eligible', 'contracting-national']));
       });
     });
 
     describe('who lives in another country', () => {
       describe('and worked in Germany for over 5 years', () => {
         const output = calculatePensionRefund('UY', 'CA', yearsAgo(15), yearsAgo(8), 30000, false);
-        it('is not eligible for a refund', () => {
-          hasFlags(output, ['not-eligible', 'contracting-national', 'over-5-years']);
-        });
+        it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'contracting-national', 'over-5-years']));
       });
       describe('and worked in Germany for less than 5 years', () => {
         const output = calculatePensionRefund('UY', 'CA', yearsAgo(15), yearsAgo(13), 30000, false);
-        it('is eligible for a refund', () => {
-          hasFlags(output, ['eligible', 'contracting-national']);
-        });
+        it('is eligible for a refund', () => hasFlags(output, ['eligible', 'contracting-national']));
       });
     });
 
     describe('who left the EU less than 2 years ago', () => {
       const output = calculatePensionRefund('UY', 'CA', yearsAgo(3), yearsAgo(1), 30000, false);
-      it('is eligible for a refund later', () => {
-        hasFlags(output, ['eligible-later', 'contracting-national']);
-      });
+      it('is eligible for a refund later', () => hasFlags(output, ['eligible-later', 'contracting-national']));
     });
   });
 
@@ -674,6 +740,16 @@ describe('calculatePensionRefund', () => {
       it('is eligible for a refund', () => {
         hasFlags(output, ['eligible', 'noncontracting-national']);
       });
+    });
+
+    describe('who lives in the UK, and worked in Germany before Brexit', () => {
+      const output = calculatePensionRefund('AO', 'GB', yearsAgo(12), yearsAgo(10), 30000, false);
+      it('is not eligible for a refund', () => hasFlags(output, ['not-eligible', 'uk-prebrexit', 'noncontracting-national', 'uk-resident']));
+    });
+
+    describe('who lives in the UK, and only worked in Germany after Brexit', () => {
+      const output = calculatePensionRefund('AO', 'GB', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
+      it('is eligible for a refund', () => hasFlags(output, ['eligible', 'uk-postbrexit', 'noncontracting-national', 'uk-resident']));
     });
 
     describe('who worked more than 5 years in Germany', () => {

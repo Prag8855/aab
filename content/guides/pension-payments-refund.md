@@ -37,9 +37,21 @@ There is an exception.[^1] You can get a refund if:
 
 ### Contracting countries
 
-Some countries have a pension agreement with Germany. If you are a citizen of these countries, you can sometimes get a German pension refund. If you can't get a refund, you can get a German pension when you are 67 years old.
+These countries have a pension agreement with Germany:
 
-The contracting countries are **Albania, Australia, Brazil, Canada, India, Korea, North Macedonia, Moldova, the Philippines, the United States and Uruguay**. Other countries have different rules.
+- Albania
+- Australia
+- Brazil
+- Canada
+- India
+- Korea
+- North Macedonia
+- Moldova
+- Philippines
+- United States
+- Uruguay
+
+If you are a citizen of these countries, you can sometimes get a German pension refund. If you can't get a refund, you can get a German pension when you are 67 years old.
 
 You can get a pension refund if:
 
@@ -47,23 +59,15 @@ You can get a pension refund if:
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 You can also get a pension refund if:[^1]
 
 - you made less than 60 monthly German pension payments
 - **and** you are at least 67 years old
 - **and** you live anywhere in the world
-
-### Albanian citizens
-
-You can get a pension refund. Albania has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
-### American citizens
-
-You can get a pension refund. The United States have a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
-### Australian citizens
-
-You can get a pension refund. Australia has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
 
 ### Bosnian and Herzegovinian citizens
 
@@ -73,37 +77,25 @@ You can get a pension refund if:[^2]
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 You can also get a pension refund if:[^1]
 
 - you made less than 60 monthly German pension payments
 - **and** you are at least 67 years old
 - **and** you live anywhere in the world
 
-### Brazilian citizens
-
-You can get a pension refund. Brazil has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
 ### British citizens
 
-**We are not sure yet.** Brexit was less than 2 years ago, so nobody applied for a refund yet. You can possibly get a refund if:[^3]
+You can get a pension refund if:
 
-- you <u>only</u> worked in Germany after Brexit (January 1, 2021)
+- You did not work in Germany before Brexit (January 1, 2021)
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you worked in Germany before Brexit, you can't get a pension refund,[^4] not even for your pension payments after Brexit. When you are 67 years old, you will get a German pension.
-
-### Canadian citizens
-
-You can get a pension refund. Canada has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
-### Filipino citizens
-
-You can get a pension refund. The Philippines have a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
-### Indian citizens
-
-You can get a pension refund. India has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
 
 ### Israeli citizens
 
@@ -159,14 +151,6 @@ You can also get a pension refund if:[^1]
 - **and** you are at least 67 years old
 - **and** you live anywhere in the world
 
-### Macedonian citizens
-
-You can get a pension refund. Macedonia has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
-### Moldovan citizens
-
-You can get a pension refund. Moldova has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
 ### Montenegrin citizens
 
 You can get a pension refund if:[^2]
@@ -213,13 +197,9 @@ If you live in Tunisia, you must use a Tunisian bank account for your refund.[^9
 
 If you are a Turkish citizen, and you work in Turkey, you can't get a pension refund,[^13] because you pay social security contributions in Turkey. If you are not a Turkish citizen, but you live and work in Turkey, you can still get a pension refund.[^9]
 
-### Uruguayan citizens
-
-You can get a pension refund. Uruguay has a pension agreement with Germany. See the [rules for contracting countries](/guides/pension-payments-refund#contracting-countries).
-
 ### Citizens of other countries
 
-**You can get a pension refund if**:[^8]
+You can get a pension refund if:[^8]
 
 - Your last pension payment was more than 24 months ago **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia
 - **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
@@ -337,7 +317,7 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^1]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=gesetzlichen%20Rentenversicherung%20zahlt.-,beitragserstattung%20bei%20erreichen%20der%20regelaltersgrenze,-Als%20n%C3%A4chstes%20werde)
 [^2]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=aufhalten.%20Hierzu%20geh%C3%B6ren%3A-,bosnien-herzegowina%2C%20kosovo%2C%20montenegro%20und%20serbien,-Staatsangeh%C3%B6rige%20der%20Staaten)
 [^3]: [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title)
-[^4]: [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/)
+[^4]: Georg from Pension Refund Germany (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^5]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=bei%20staatsangehorigen%20des%20staates%20israel)
 [^6]: [Screenshot](/images/rene-pension-japan-2022-01-20.png)
 [^7]: [germanypensionrefund.com](https://www.germanypensionrefund.com/japan)
@@ -364,7 +344,7 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^28]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/Bund/DE/Beratung-und-Kontakt/sicherheit_post.html)
 [^29]: [fundsback.org](https://www.fundsback.org/en/fees/)
 [^30]: [de.germanypensionrefund.com](https://de.germanypensionrefund.com/pricing)
-[^31]: [pension-refund.com](https://pension-refund.com/process-and-pricing.html)
+[^31]: [pension-refund.com](https://pension-refund.com/process-and-pricing.html?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^32]: [taxback.com](https://www.taxback.com/en/germany/pension-return/?utm_source=allaboutberlin)
 [^33]: [ssr.germanymantra.com](https://ssr.germanymantra.com/contact-us)
 [^34]: [web.archive.org](https://web.archive.org/web/20110310055547/http://ssr.germanymantra.com/faqs)

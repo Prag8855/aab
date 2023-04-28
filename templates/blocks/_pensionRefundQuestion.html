@@ -57,7 +57,7 @@
         <option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
       </datalist>
       <hr>
-      <p>Remember, <strong>if you are a EU citizen, or you currently live in the EU</strong>, you can't get a pension refund.</p>
+      <p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
       <button class="button submit no-print" @click="submitForm">Ask Chris</button>
     </div>
     <div v-if="stage === 'thank-you'">

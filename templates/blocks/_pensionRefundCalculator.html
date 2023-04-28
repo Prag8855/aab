@@ -134,7 +134,8 @@
                     <div v-if="hasFlag('over-5-years')">
                         <p>You can't get a pension refund because you made pension payments for over 60 months. When you are 67 years old, you can receive a German pension.</p>
                     </div>
-                    <p v-if="hasFlag('uk-prebrexit')">You can't get a pension refund because <strong>you are a UK citizen, and you worked in Germany before Brexit</strong>. When you are 67 years old, you can receive a German pension.</p>
+                    <p v-if="hasFlag('uk-national') && hasFlag('uk-prebrexit')">You can't get a pension refund because <strong>you are a UK citizen, and you worked in Germany before Brexit</strong>. When you are 67 years old, you can receive a German pension.</p>
+                    <p v-if="hasFlag('uk-resident') && hasFlag('uk-prebrexit') && !hasFlag('uk-national')">You can't get a pension refund because <strong>you live in the UK, and you worked in Germany before Brexit</strong>. If you leave the UK, you can get a pension refund.</p>
                     <p v-if="hasFlag('japan-national') && hasFlag('japan-resident')">If you move out of Japan, you can ask for a refund.</p>
                 </div>
             </div>
@@ -365,15 +366,19 @@
           return (
             this.results
             && !this.hasFlag('eu-resident')
+            && !this.hasFlag('disqualifying-country-resident')
             && !(
               this.hasFlag('israel-national')
               && this.hasFlag('israel-resident')
             )
-            && !this.hasFlag('disqualifying-country-resident')
           );
         },
         isNationalityEligible() {
-          return this.results && !this.hasFlag('eu-national') && !this.hasFlag('eea-national')
+          return (
+            this.results
+            && !this.hasFlag('eu-national')
+            && !this.hasFlag('eea-national')
+        );
         },
         isCountriesEligible() {
           return this.results && this.isCountryOfResidenceEligible && this.isNationalityEligible
