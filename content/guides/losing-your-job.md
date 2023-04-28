@@ -39,7 +39,7 @@ Many residence permits are tied to an employer. If you change employers, you som
 
 ## Before you leave your job
 
-### Be careful about what you sign
+### Don't sign anything
 
 Aufhebungsvertrag
 
@@ -49,7 +49,7 @@ https://www.arbeitnow.com/blog/fired-in-germany/
 
 ### Send your resignation letter
 
-If you quit your job, you must give your employer a resignation letter (*Kündigungsschreiben*).
+If you quit your job, you must give your employer a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid after your employer receives that letter.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
@@ -67,9 +67,13 @@ What happens to bonuses? Paycheques? Taxes??
 
 You normally use your last vacation days during your notice period.[^14]
 
-The same vacation day rules apply.
+The same vacation day rules apply. You can still go on sick leave.
 
 Urlaubsbescheinigung
+
+**[Vacation days in Germany](/guides/vacation-days)**
+
+**[Sick leave in Germany](/guides/sick-leave)**
 
 ### Letters of reference
 
