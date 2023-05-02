@@ -1,115 +1,73 @@
 ---
 Title: How to make friends in Berlin
 Short_title: How to make friends
-Description: A guide to finding hangout buddies in the German capital.
+Description: Ways to meet people and improve your social life in Berlin.
 Date_created: 2019-11-12
 ---
 
-It's not easy to start from scratch in a new city. Close friendships take time to form, and for a while, you will be pretty lonely. This is a reality all expats have to face.
+This guide shows you how to meet new people and make friends after you [move to Berlin](/guides/moving-to-berlin).
 
 {% include "blocks/_tableOfContents.html" %}
 
-## It's normal to feel lonely
+## Before you start
 
-I have met countless expats in the last 5 years, and all of them felt lonely during their first year. You will feel lonely too. It's completely normal.
+### It's normal to feel lonely
 
-The first friends you'll make will be other expats. Many of them will move away, or simply disappear. This is also normal. It happens to everyone else. It takes at least a year to build a circle of close friends.
+When you move to a new city, you reset your social life. At first, you might feel lonely, and that's normal. Everyone feels lonely in their first year. It takes time to build a community, and to find people who are there for you.
 
-If you don't speak German, social interactions can be pretty stressful. Even booking an appointment or reserving a table will be difficult. Small talk will be even harder. This makes you feel even more isolated.
+Therapists can help you deal with those feelings. Use my [list of English-speaking therapists](/guides/english-speaking-psychotherapists-berlin) to find one.
 
-Many Germans speak English, but it's not always easy for them. If they appear rude or impatient, don't be so quick to judge them. They make an effort so you don't have to. It can be just as difficult and embarrassing for them to speak another language. Once you learn German, the locals are *much* nicer to you.
+### It's hard to make friends
 
-If you need psychological support, see my [list of English-speaking psychotherapists](/guides/english-speaking-psychotherapists-berlin).
+It's harder to make friends as an immigrant. You might feel like everyone has enough friends, and are not interested in making more friends.
 
-## Find your diaspora
+Recent immigrants come and go. People are afraid of making friends who will move away in a few months. You will also experience this. Your first friends will be other recent immigrants, and many of them will be gone in a year.
 
-Berlin has a big international community. You can always find people from your country here. Sometimes, it's good to meet people who speak your language.
+Other people prefer friends who speak their language, because it's easier for them. Many Germans speak English, but they are more comfortable with German. It's a good reason to [learn German](/guides/learn-german).
 
-**Brasil**
+It gets easier with time. You will slowly rebuild your social life, and your friends will introduce you to their friends.
 
-- [Brasileiros e Brasileiras em Berlin](https://www.facebook.com/groups/brasileiros.brasileiras.berlim/)
-- [Brasileiros em Berlin](https://www.facebook.com/groups/BrasileirosEmBerlin/)
+## How to meet people in Berlin
 
-**Canada**
+### Meetups
 
-- [Canadians in Berlin](https://www.facebook.com/groups/644087872300676/)
+- **[Meetup.com](https://www.meetup.com/)** (free)  
+    There are meetup groups for all kinds of hobbies, and just for meeting people. Many meetups are in English.
+- **[InterNations](https://www.internations.org/berlin-expats)** (free)  
+    They organise free events for immigrants.
+- **Board games**  
+    There are a few [board game meetups](/guides/board-games-in-berlin) that welcome English speakers.
 
-**France**
+You can also find events on [Eventbrite](https://www.eventbrite.de/) and [Facebook](https://www.facebook.com/events/).
 
-- [Les Français de Berlin](https://www.facebook.com/groups/379965438688495/)
-- [Les Français à Berlin](https://www.facebook.com/groups/690137397744440/)
+It's easier to meet people around a shared hobby like chess or bouldering. Meeting strangers is always a little awkward, but it's easier if you have something to do at the same time.
 
-**India**
+### Apps
 
-- [Indians in Berlin](https://www.facebook.com/groups/9013000348/)
-
-**Netherlands**
-
-- [Nederlanders in Berlijn](https://www.facebook.com/groups/nederlandersinberlijn/)
-
-**Poland**
-
-- [Berlińczyk - Polacy w Berlinie](https://www.facebook.com/NaszPolskiBerlin/)
-- [Polski Berlin](https://www.facebook.com/NaszPolskiBerlin/)
-
-**Spain**
-
-- [Castellers de Berlín](https://www.facebook.com/CastellersdeBerlin/)
-- [Katalanischer Salon](https://www.katalanischer-salon.de/)
-
-**Russia**
-
-- [Russen in Berlin - Русские в Берлине](https://www.facebook.com/groups/russenberlin/)
-
-**Turkey**
-
-- [Berlinli Türkler](https://www.facebook.com/groups/turklerberlinde/)
-
-**United States**
-
-- [Americans in Berlin](https://www.facebook.com/groups/35803918997/)
-
-## Join a hobby meetup
-
-I am a motorcyclist, and I met many of my friends through that hobby. We spent more and more time together off the bike, and eventually my motorcycle friends became just friends. There's always room for new members in our group.
-
-Whether you like [board games](/guides/board-games-in-berlin), [hiking](https://www.meetup.com/en-AU/Berlin-Hikers/) or [motorcycles](https://www.facebook.com/groups/150125349005531/), you will find your crowd. There are many kinds of groups on [Meetup.com](https://www.meetup.com/) and on Facebook, and many of them speak English. You can also find events on [Eventbrite](https://www.eventbrite.de/) and [Facebook](https://www.facebook.com/events/).
-
-## Take a course
-
-[Learning German](/guides/learn-german) is important, and it's also a good way to meet people. You can [take a class](/guides/learn-german#german-classes-in-berlin), or [join a language tandem](/guides/learn-german#language-tandems). For example, you can take [improvisation classes](https://www.eventbrite.de/d/germany--berlin/improv-class/) or go to [improvisation events](https://www.meetup.com/improv-playground/).
-
-## Volunteer
-
-Use [Vostel](https://vostel.de/en/) to find where to volunteer. You can help even if you don't speak German.
-
-## Join the student community
-
-If you’re starting classes in the fall, go to orientation week. This is crucial for making friends. Everyone is eager to meet new people. The Erasmus community organises many activities for international students.
-
-## Meet people one on one
-
-If you don't like meetups, there are a few communities where you can meet people one on one.
-
+- **[Bumble BFF](https://bumble.com/en/bff)**  
+    A dating app, but for making friends.
 - **[/r/berlinsocialclub](https://www.reddit.com/r/berlinsocialclub)**  
     A subreddit for making friends in Berlin. Some people are new in Berlin, and others are looking for friends to attend events. They have a meetup every Tuesday at [Mendy und Edeltraut](https://www.facebook.com/Mendyundedeltraut/). Most of the attendees speak English.
-- **[CouchSurfing](https://www.couchsurfing.com/)**  
-    The CouchSurfing app has a Hangout feature. It's a good way to meet travellers and locals. You can meet them one on one, or join local CouchSurfing events. You can also try hosting visitors.
-- **Dating apps**  
-    Major dating apps are also popular in Berlin. Some let you look for platonic relationships, and filter by language. For example, [Bumble BFF](https://bumble.com/en/bff) is only for making friends.
 
-## Go out on your own
+### Communities
 
-You can go out *then* think about making friends. There are a few events where people are more open to new friendships.
+If you are a student, go to orientation week, and join your school's Erasmus community. They organise many activities for international students.
 
-- **BerlinSocialClub meetup**  
-    Every Tuesday at [Mendy und Edeltraut](https://www.facebook.com/Mendyundedeltraut/) in Neukölln. Most of the attendees speak English. This is organised by [/r/berlinsocialclub](https://www.reddit.com/r/berlinsocialclub).
-- **Board games**  
-    There are plenty of [board game nights in Berlin](/guides/board-games-in-berlin). The biggest one is at RuDi in Friedrichshain. Most of the tables play in English. Don't worry about coming alone. People will gladly let you join their table.
-- **Clubs**  
-    Clubbing alone is normal and accepted in Berlin. If no one wants to go with you, you can still go out and have a blast.
-- **Ping pong and kicker bars**  
-    Just order a beer and join the ping pong circle or the kicker table. Even if you're not good; you'll simply start interacting with everyone else by osmosis. Try [Schmittz](https://goo.gl/maps/nEQjyDvDk6UMH2m67) or [Minimal](https://goo.gl/maps/fsfcXfFEwLBA3dmt8).
-- **Späti crawl**  
-    The Späti crawl is just like a pub crawl, but you walk from [[Späti]] to Späti. There is always between a dozen and a hundred attendees, and most of them are new in Berlin. The location is announced a few days in advance [on Facebook](https://www.facebook.com/groups/SpatiCrawlBerlin/).
+There are Facebook groups and organisations for every nationality in Berlin. Here are a few:
 
+- [Americans in Berlin](https://www.facebook.com/groups/35803918997/)
+- [Brazilians in Berlin](https://www.facebook.com/groups/brasileiros.brasileiras.berlim/)
+- [Canadians in Berlin](https://www.facebook.com/groups/644087872300676/)
+- [Dutch in Berlin](https://www.facebook.com/groups/nederlandersinberlijn/)
+- [French speakers in Berlin](https://www.facebook.com/groups/les.francais.de.berlin/)
+- [Indians in Berlin](https://www.facebook.com/groups/2606668189644850)
+- [Poles in Berlin](https://www.facebook.com/groups/1427056394268433/)
+- [Russians in Berlin](https://www.facebook.com/groups/russenberlin/)
+- [Turks in Berlin](https://www.facebook.com/groups/turklerberlinde/)
+
+### Other ways to make friends
+
+- **Take German lessons**  
+    [Learning German](/guides/learn-german) is important, and it's also a good way to meet people. You can [take a class](/guides/learn-german#german-classes-in-berlin), or [join a language tandem](/guides/learn-german#language-tandems).
+- **Volunteer**  
+    Use [Vostel](https://vostel.de/en/) to find where to volunteer. You can help even if you don't speak German.
