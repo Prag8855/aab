@@ -172,9 +172,9 @@ After you get the job offer, you can negotiate a better salary. You can also ask
 
 ### The job contract
 
-Put everything in writing, only sign what you agree to, send the signed contract by post.
+Read your job contract carefully. If your employer promised something to you during the interview, verify that it's in your contract. Only sign the contract if you agree with everything. Send the signed contract [by post](/guides/mail-a-letter).
 
-**[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
+If you are not sure about your contract, [ask for help](/guides/questions-about-berlin#legal-questions) or [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
 ## Step 5: Get a residence permit
 
@@ -208,6 +208,10 @@ During your first 6 months at a new company, you are in your probation period (*
 **[How does the probation period work? ➞](/guides/probezeit)**
 
 ### Things an employee must know
+
+Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung) once per month, on the first day of the month.[^3] Your employer takes [salary tax](/glossary/Lohnsteuer), [health insurance](/glossary/Krankenversicherung), [pension insurance](/glossary/gesetzliche%20Rentenversicherung) and [unemployment insurance](/glossary/Arbeitslosenversicherung) from your paycheck. Use my [income tax calculator](/tools/tax-calculator) to know how much money you keep.
+
+All employees in Germany get paid vacation days, and paid sick days.
 
 **[How to take vacations ➞](/guides/vacation-days)**
 
