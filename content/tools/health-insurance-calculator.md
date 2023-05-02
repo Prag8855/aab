@@ -17,7 +17,7 @@ The cost of public health insurance is a percentage of your income. The cost of 
 
 ## How to pay for your health insurance
 
-If you are an employee, health insurance is automatically deducted from your paycheques.
+If you are an employee, health insurance is automatically deducted from your paychecks.
 
 If you are self-employed, you pay by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung) every month. If you give your health insurer a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat), the payments are automatic.
 

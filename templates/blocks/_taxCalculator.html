@@ -416,7 +416,7 @@
                     </div>
                     <div class="body">
                         <p v-if="occupations.isEmployed(occupation)">
-                            This is the <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a> you pay directly from your paycheque. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <a href="https://allaboutberlin.com/glossary/Steuererkl%C3%A4rung" target="_blank">tax declaration</a>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
+                            This is the <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a> you pay directly from your paycheck. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <a href="https://allaboutberlin.com/glossary/Steuererkl%C3%A4rung" target="_blank">tax declaration</a>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
                         </p>
                         <p class="price">Taxable income <output v-html="eur(result.taxableIncome)"></output></p>
                         <p class="price">Income tax rate <output v-html="formatPercent(Math.round(result.incomeTax / result.taxableIncome * 1000) / 10)"></output></p>

@@ -76,7 +76,7 @@ This is called a tax deferral.
 ## The public pension system
 
 
-The public pension scheme (*gesetzlichen Rentenversicherung*) is a pension all German employees are part of. If you work in Germany, a part of your paycheque goes to the public pension.
+The public pension scheme (*gesetzlichen Rentenversicherung*) is a pension all German employees are part of. If you work in Germany, a part of your paycheck goes to the public pension.
 
 Self-employed people *can* join the public pension system, but they don't have to.
 
