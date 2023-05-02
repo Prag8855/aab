@@ -51,6 +51,8 @@ https://www.arbeitnow.com/blog/fired-in-germany/
 
 If you quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives that letter.
 
+If you get fired or laid off, your employer must give you a resignation letter.
+
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
 ### Notice period
@@ -59,9 +61,13 @@ In Germany, all jobs have a notice period (*Kündigungsfrist*). You can't quit y
 
 **[How the notice period works ➞](/guides/job-notice-period)**
 
-### Paychecks and bonuses
+### Pay and bonuses
 
-What happens to bonuses? Paycheques? Taxes??
+Your employer must pay you until the end of your [notice period](/glossary/Kündigungsfrist). They must pay your full salary, even if they don't make you work.[^23]
+
+After you stop working, you stop getting paid. You might get unemployment benefits. This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
+
+If you get a yearly performance bonus, your employer must pay that bonus even if you leave the company.[^22] The bonus can be prorated. For example, if you should get a performance bonus every year, but you quit in September, you should get 75% of the promised bonus. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
 ### Unused vacation days
 
@@ -87,17 +93,15 @@ If you worked for more than 6 weeks, you can ask for a qualified reference (*qua
 
 ### Register as a job seeker
 
-Register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
+Register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. You must do this **at least 3 months before your last day of work**.
 
-You must do this at least 3 months before your last day of work. If that is not possible, you must do it maximum 3 days after you learn that you will be unemployed.[^20]
-
-**[Register as a job seeker](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
+**[How to register as a job seeker ➞](/guides/unemployment-benefits#register-as-a-job-seeker)**
 
 ### Tell the Ausländerbehörde
 
-If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you are unemployed.
+If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you are unemployed. 
 
-If you don't need a residence permit to work in Germany, you don't need to do anything.
+If you don't need a residence permit to work in Germany, you don't need to do this.
 
 ### Tell your health insurance
 
@@ -109,9 +113,7 @@ Tell your health insurer that you are unemployed. They will adjust your health i
 
 ### Register as unemployed
 
-You must register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
-
-You can do this up to 3 months before your last day of work. You must do it before your second day of unemployment.[^21] If you wait too long, you get a penalty: you lose 1 week of unemployment benefits.[^19]
+You must register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. You can do this up to 3 months before your last day of work. You must do it **before your second day of unemployment**.
 
 **[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
@@ -187,6 +189,5 @@ Your legal insurance...
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
 [^17]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/#:~:text=fur%20empfanger%20von%20arbeitslosengeld%20ubernimmt%20die%20bundesagentur%20fur%20arbeit%20die%20beitrage)
 [^18]: [finanztip.de](https://www.finanztip.de/gkv/nachgehender-leistungsanspruch/)
-[^19]: [berlin.de](https://www.berlin.de/familie/informationen/arbeitslos-werden-216#:~:text=nach%20Kenntnis%20erfolgen.-,frist%20verpasst%3F,-Wenn%20die%20Arbeitssuchendmeldung)
-[^20]: [arbeitsagentur.de](https://www.arbeitsagentur.de/arbeitslos-melden/)
-[^21]: [arbeitsagentur.de](https://www.arbeitsagentur.de/arbeitslos-melden/)
+[^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/)
+[^23]: [anwalt-martin.de](https://www.anwalt-martin.de/lohn-nach-kuendigung/), [dr-drees.com](https://www.dr-drees.com/bonus-nach-kuendigung/)
