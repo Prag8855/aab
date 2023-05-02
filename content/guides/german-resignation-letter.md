@@ -11,69 +11,30 @@ When you quit your job in Germany, you must give your employer a resignation let
 
 ## What goes in a German resignation letter
 
-Your resignation letter should be short and precise. Don't give more information than needed; it could be used against you.[^10]
+Your resignation letter should be short and precise. Don't add unnecessary information; it could be used against you.[^10]
 
 Your resignation letter must include:
 
-- Your full name and address
-- Your employee number (if you have one)
-- Your employer's full name and address
-- The date of your resignation
-- The word *Kündigung* in the subject line
-- The correct addressee - This is usually your manager, or the human resources department.[^7]
-- Your signature - Sign the letter by hand. A digital signature, a scanned signature, initials or a stamp are not enough.[^11]
+- [ ] Your full name and address
+- [ ] Your employee number (if you have one)
+- [ ] Your employer's full name and address
+- [ ] The date of your resignation
+- [ ] The word *Kündigung* in the subject line
+- [ ] The correct addressee - This is usually your manager, or the human resources department.[^7]
+- [ ] Your signature - Sign the letter by hand. A digital signature, a scanned signature, initials or a stamp are not enough.[^11]
 
 Your resignation letter can include:
 
-- Your contact information - Useful if your employer needs to contact you in the future.
-- A request for a reference letter (*[[Arbeitszeugnis]]*)
-- A request for an *Urlaubsbescheinigung*
-- A note to thank your employer and your team
+- [ ] Your contact information - Useful if your employer needs to contact you in the future.
+- [ ] A request for a reference letter (*[[Arbeitszeugnis]]*)
+- [ ] A request for an *[[Urlaubsbescheinigung]]*
+- [ ] A note to thank your employer and your team
 
 Your resignation letter should **not** include:
 
 - Why you quit your job[^6]
 - What you plan to do next
 - Feedback for your employer or your team
-
-## Resignation letter template
-
-Start with your full name and address. If applicable, write your employee ID:
-
-> John Smith (employee ID #0001)  
-> Musterstraße 123  
-> 13127 Berlin
-
-Then, write your employer's full name and address:
-
-> All About Berlin GmbH  
-> Musterallee 12A  
-> 10115 Berlin
-
-Write the current date in the German format (DD.MM.YYYY):
-
-> {{ now.strftime('%d.%m.%Y') }} (the current date)
-
-The title of the letter must include the word "Kündigung":
-
-> **Kündigung meines Arbeitsvertrages**
-
-Address the letter to your manager, if possible:
-
-> Sehr geehrte [female name],  
-> Sehr geehrter [male name],
-
-The message can have any format. Keep it simple. Here, you say that you want to end your work contract as soon as possible:
-
-> hiermit kündige ich ordentlich und fristgerecht meinen Arbeitsvertrag zum nächstmöglichen Zeitpunkt.
-
-You can ask your employer to confirm that they received your letter, and to confirm when your last day of work is:
-
-> Bitte bestätigen Sie mir den Erhalt des Kündigungsschreibens und das genannte Datum, an dem der Arbeitsvertrag endet.
-
-You can also ask for a letter of reference and 
-
-End the letter with your signature. Sign the letter by hand. Do not use a digital signature.
 
 ## How to give your resignation letter
 
