@@ -36,6 +36,8 @@ You can also add your dog to the [TASSO register](https://www.tasso.net/Tierregi
 
 All dogs in Berlin must have an identification chip.[^0] [Some other German states](https://www.couchdogs.de/muss-mein-hund-gechipt-werden/#chiplist) also require a chip. You can get your dog chipped at the veterinarian. It costs around 50€.[^1]
 
+**[English speaking vets in Berlin ➞](/guides/english-speaking-vets)**
+
 When you walk your dog, it must wear a collar with its name, your address,[^2] and a *[[Hundesteuermarke]]*. If you have a *[[Hundeführerschein]]*, your dog must also wear its green tag (*grüne Plakette*).
 
 ### Rules for dangerous breeds
@@ -87,7 +89,7 @@ In Berlin, your coverage must be at least 1 million euros.[^2] If you travel wit
 
 ### Pet health insurance
 
-You can also get pet health insurance (*[[Tierkrankenversicherung]]*). If your dog gets sick, this insurance covers the veterinary bills. It rarely covers routine operations like vaccines or castration,[^8] but it covers expensive operations. This can be important when your dog gets old.
+You can also get pet health insurance (*[[Tierkrankenversicherung]]*). If your dog gets sick, this insurance covers the veterinarian bills. It rarely covers routine operations like vaccines or castration,[^8] but it covers expensive operations. This can be important when your dog gets old.
 
 The price of pet insurance depends on the age, race and sex of your dog. Basic coverage costs around 20€ per month. Full coverage costs around 60€ per month. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare prices. If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Luko](/out/luko-pethealth) offer pet health insurance, and they speak English.
 
@@ -108,28 +110,6 @@ Most businesses allow dogs inside.[^9] Grocery stores do not allow dogs inside.
 Restaurants only allow dogs if they have a closed kitchen.[^9] Always ask the restaurant employees before you bring your dog inside.
 
 Dogs are not allowed on playgrounds for children,[^10] and on public beaches. There are special beaches (*Hundestrände*) that allow dogs.[^11]
-
-## English-speaking vets in Berlin
-
-If you don't speak German, here are some veterinarians who speak English:
-
-- [Anne Gamalski](https://www.berlin-english-vet.com/)
-- [Dr. Beck](http://www.tierarztpraxis-dr-beck.de/)
-- [Dr. Marton](https://www.tierarztberlin.com/home)
-- [Dr. Michael Förster](https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/10559-berlin/dr-michael-foerster/2252/)
-- [Dr. Molkentin](https://www.goldakupunktur-berlin.de/)
-- [Dr. Pastor](https://www.tierarztpraxis-pastor.de/)
-- [Dr. Peter Vogel](https://www.drpetervogel.de/en)
-- [Dr. Rotgang Praxis](https://www.tierarztpraxis-rotgang.de/en-gb)
-- [Dr. Uwe Lenk](https://tierarztpraxis-lenk.de/)
-- [Ellen Laskawy](https://laskawy.jimdofree.com/)
-- [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
-- [Praxis Tierzuliebe](https://www.facebook.com/praxistierzuliebe/) - Dr. Miriam Bertram
-- [Tierarztpraxis Watson](https://www.tierarzt-watson.de/)
-
-This list is not complete. To suggest another English-speaking veterinarian, [contact me](/contact).
-
-See also the [emergency vet list for Berlin](https://www.perpetual.care/be-bb-emergency-vets/) - PerPETual
 
 ## How to meet other dog owners
 

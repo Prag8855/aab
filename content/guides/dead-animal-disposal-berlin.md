@@ -27,6 +27,8 @@ There are a few *Haustierkrematoriums* in Berlin. The prices go from 50€ to 35
 
 Many veterinarians will dispose of animal bodies, albeit for a fee. Alternatively, [SecAnim](https://www.saria.de/sr/unternehmen/unternehmensstruktur/secanim/) is contracted by the city to dispose of roadkill and other wild animals. You can call them and they will collect your deceased pets for a fee of 10€ to 30€.
 
+**[English speaking veterinarians in Berlin ➞](/guides/english-speaking-vets)**
+
 ## Useful links
 
 - [Wohin mit dem toten Haustier?](https://www.berlin.de/sen/verbraucherschutz/aufgaben/tierschutz/tierkoerperbeseitigung/wohin-mit-dem-toten-haustier-348294.php) - An official guide from Berlin.de
