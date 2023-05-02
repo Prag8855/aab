@@ -42,7 +42,6 @@ Related_places:
     places/philip-sheldon.md
     places/dr-anja-westram.md
     places/dipl-psych-kristina-oelschläger.md
-    places/dr-jessica-harbaugh.md
     places/christiane-klingner.md
     places/sean-carden.md
     places/dr-michael-cugialy.md
