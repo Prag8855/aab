@@ -430,7 +430,7 @@ These guides explain how:
 [^7]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6bfba/room_for_incoming_student/)
 [^8]: [crocodilian.de](https://crocodilian.de/short-term-rental-blog/documents-for-anmeldung/#:~:text=if%20you%20rent%20with%20crocodilian%2C%20you%20always%20get%20the%20wohnungsgeberbestatigung)
 [^9]: [akelius-vernetzung.de](https://www.akelius-vernetzung.de/material/dossier/)
-[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ts8qtx/my_incomplete_berlin_makler_experiences/)
+[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ts8qtx/my_incomplete_berlin_makler_experiences/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/134z871/is_getting_a_relocation_agent_worth_it_for_berlin/)
 [^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q35pyh/no_flats_available_what_should_i_do/hfr4q8p/)
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
 [^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/comment/gzdee8d/?utm_source=reddit&utm_medium=web2x&context=3)
