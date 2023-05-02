@@ -13,7 +13,7 @@ This guide shows you what to do when:
 * You change jobs
 * You change careers
 
-This guide only applies to employees, not self-employed workers.
+This guide only applies to employees, not freelancers.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -49,13 +49,13 @@ https://www.arbeitnow.com/blog/fired-in-germany/
 
 ### Send your resignation letter
 
-If you quit your job, you must give your employer a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid after your employer receives that letter.
+If you quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives that letter.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
 ### Notice period
 
-All German jobs have a notice period (*Kündigungsfrist*). You can't quit your job without a warning, and your employer can't lay you off without a warning.
+In Germany, all jobs have a notice period (*Kündigungsfrist*). You can't quit your job without a warning, and your employer can't lay you off without a warning.
 
 **[How the notice period works ➞](/guides/job-notice-period)**
 
@@ -67,9 +67,9 @@ What happens to bonuses? Paycheques? Taxes??
 
 You normally use your last vacation days during your notice period.[^14]
 
-The same vacation day rules apply. You can still go on sick leave.
+Request an *[[Urlaubsbescheinigung]]* from your employer.
 
-Urlaubsbescheinigung
+The same vacation day rules apply. You can still go on sick leave.
 
 **[Vacation days in Germany](/guides/vacation-days)**
 

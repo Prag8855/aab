@@ -93,9 +93,7 @@ class EntryImageUrlProcessor(EntryContextProcessor):
         super().__init__()
 
     def process_entry(self, context: dict, entry_uri: str):
-        return {
-            'image_url': f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
-        }
+        context['entries'][entry_uri]['image_url'] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
 
 
 class EntryImageRenderer(Renderer):
