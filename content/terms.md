@@ -2,7 +2,6 @@
 Title: Terms and conditions
 Description: The privacy policy and content policy of All About Berlin.
 Date_created: 2017-09-19
-Date_updated: 2022-10-03
 ---
 
 **[Contact the owner of this website ➞](/contact)**
@@ -16,7 +15,7 @@ The content on this website follows four principles:
 - **It's free**  
     The content must be completely free to access. Information belongs to everyone. It must not be hidden behind paywalls or registration forms. This website must give as much as possible, and ask for as little as possible.
 - **It's trustworthy**  
-    The content must be honest and neutral. It must give genuine advice and help people make the right decisions. It's the same advice I would give to my best friend. It cannot deceive the readers. It cannot be altered for advertising purposes.
+    The content must be honest and neutral. It must give genuine advice and help people make the right decisions. It's the same advice I would give to my best friend. It cannot deceive the readers. It cannot be altered for advertising purposes. The content is entirely written by humans, not AI.
 - **It's accurate**  
     The content must be complete, correct, up-to-date and verifiable. Sources must be provided. Readers rely on this content to make important decisions.
 
