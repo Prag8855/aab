@@ -374,6 +374,11 @@ config.context_globals = {
     "VAT_MIN_QUARTERLY_AMOUNT": 1000,
     "VAT_MIN_MONTHLY_AMOUNT": 7500,
 
+    # Capital gains tax - § 32d EStG
+    "CAPITAL_GAINS_TAX_RATE": 25,
+    # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
+    "CAPITAL_GAINS_FREIBETRAG": 1000,
+
     # ==============================================================================
     # PUBLIC TRANSIT
     # ==============================================================================

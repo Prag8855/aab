@@ -13,15 +13,13 @@ This is how much it costs to live in Berlin, and elsewhere in Germany. This guid
 
 ## Taxes, insurance and pension
 
-**Cost:** use the tax calculator
+**Cost:** use my [tax calculator](/tools/tax-calculator)
 
-In Germany, a part of your [gross income (*Brutto*)](/glossary/Brutto%20income) is for taxes and social contribution. Your employer automatically takes them from your salary. The money you keep is your [net income (*Netto*)](/glossary/Netto%20income).
+In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) is for taxes and social contribution. Your employer automatically takes them from your paycheck. The money you keep is your [net income](/glossary/Netto%20income) (*Netto*).
 
 {% include 'blocks/_taxCalculator.html' %}
 
-If you are self-employed, don't pay unemployment insurance, and pension insurance is optional. You might also pay a [trade tax (*Gewerbesteuer*)](/glossary/Gewerbesteuer).
-
-If you make money with stocks and other investments, it's taxed separately. You pay a capital gains tax (*Kapitalertragsteuer*) of 25%.[^0] Cryptocurrencies are taxed [differently](https://taxfix.de/ratgeber/pflichten/bitcoin-und-steuer/#versteuern).
+**[How taxes work in Germany ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**
 
 ### How to pay less income tax
 
