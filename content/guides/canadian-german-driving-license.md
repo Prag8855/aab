@@ -25,7 +25,12 @@ You can drive in Germany with a foreign driving licence.
 
 ### Driving licence translations
 
-If your driving licence is not in German, and it's not from an EU or EEA country, you must carry a driving licence translation. There are some exceptions; check with your local automobile association.
+You must carry a translation of your driving licence if:
+
+- Your driving licence is not from a EU or [[EEA]] country
+- **and** your driving licence is not in German
+
+There are some exceptions. Check with your country's automobile association.
 
 There are two ways to get a driving licence translation:
 

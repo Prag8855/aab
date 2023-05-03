@@ -6,7 +6,7 @@ Date_created: 2020-06-04
 Related_reviews: reviews/pension-payments-refund/johannes-kühn.md, reviews/pension-payments-refund/dr-rené-roy.md, reviews/pension-payments-refund/christian-haas.md
 ---
 
-When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income to the public pension system (*gesetzliche Rentenversicherung*). If you leave Germany, you can get that money back. You can get **thousands of euros** back.
+When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income to the public pension system (*[[gesetzliche Rentenversicherung]]*). If you leave Germany, you can get your pension payments back. You can get thousands of euros back.
 
 In this guide, I show you if you can get a pension refund, and how to apply for it.
 
@@ -26,7 +26,7 @@ There are 3 conditions for getting a German pension refund:
 2. **and** you can't contribute voluntarily to the German pension system
 3. **and** your last pension payment in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey was more than 24 months ago[^0]
 
-### EU and EEA citizens
+### EU, [[EEA]] and Switzerland citizens
 
 If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you can always contribute to your German pension, so you can't get a refund.[^40]
 

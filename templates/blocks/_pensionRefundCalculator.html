@@ -42,7 +42,7 @@
                 <hr>
                 <h3>You can't get a pension refund</h3>
                 <p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>
-                <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a European Economic Area citizen.</p>
+                <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a <a href="/glossary/EEA" target="_blank">European Economic Area</a> citizen.</p>
                 <p v-if="hasFlag('eu-resident')">You can't get a German pension refund while you live in the European Union. If you leave the European Union, you can get a refund.</p>
                 <p v-if="hasFlag('disqualifying-country-resident')">You can't get a German pension refund while you live in Bosnia-Herzegovina, Kosovo, North Macedonia, Serbia or Turkey.</p>
                 <p v-if="hasFlag('israel-national') && hasFlag('israel-resident')">You can't get a pension refund because <strong>you live in Israel</strong>. If you move out of Israel, you can get a pension refund.</p>

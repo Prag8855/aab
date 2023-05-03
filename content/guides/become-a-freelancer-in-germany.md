@@ -162,7 +162,7 @@ This means you must approach German companies and get them to sign [letters of i
 
 ## Apply for the German freelance visa
 
-If you are not a EU or EEA citizen or permanent resident, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
+If you are not a EU or [[EEA]] citizen or permanent resident, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
 
 **[Do I need a residence permit? ➞](/guides/residence-permit)**
 
