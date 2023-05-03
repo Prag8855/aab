@@ -71,7 +71,7 @@ You can send your residence permit application by [registered mail](/glossary/Ei
 
 ### Going to your appointment
 
-You must show your appointment confirmation at the gate. If you don't have an appointment, you can't enter.[^3]
+Bring your appointment confirmation. You must have it to enter the Ausländerbehörde.[^3]
 
 Find the right office, floor and room. This information is in the email you get after you book your appointment.
 
@@ -192,7 +192,7 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 
 [^0]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/posts/1252123768589657/)
 [^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)
-[^2]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php), [berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1041742.php#english), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
+[^2]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)
 [^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
@@ -210,5 +210,5 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 [^20]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Facebook](https://www.facebook.com/groups/226825394858771/posts/940638950144075/?comment_id=940981506776486&reply_comment_id=942997343241569), [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^21]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
-[^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/)
+[^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
 [^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
