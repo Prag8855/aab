@@ -74,7 +74,8 @@ If you only eat at home, you should pay around 250€ per month for groceries. I
 
 ### How to pay less for public transit
 
-- [Get a yearly subscription](/guides/saving-money-germany#get-a-yearly-public-transit-pass). It's much cheaper than a [monthly pass](/glossary/Monatskarte).
+- **[Get the Deutschland Ticket](/guides/deutschland-ticket)**. It's the cheapest monthly ticket, and it lets you use public transit everywhere in Germany. This is the best option for most people.
+- [Get a yearly subscription](/guides/saving-money-germany#get-a-yearly-public-transit-pass). Yearly subscriptions are cheaper than monthly pasts.
 - In Berlin, get a [10-Uhr-Karte](/guides/bvg-10-uhr-karte) if you don't use public transportation between 3AM and 10AM on weekdays.
 - If you are a university or *Hochschule* student, your get a very cheap *Semesterticket* from your school.[^1] It's usually included in your school fees.
 
