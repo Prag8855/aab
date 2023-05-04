@@ -30,7 +30,7 @@ In total, it costs **1,500€ to 2,500€** to get your driving licence.[^0] The
 
 If you have a driving licence from another country, you can sometimes trade it for a German one. It's faster to convert a foreign driving licence than to get a new one.
 
-**[How to convert a foreign driving licence ➞](/guides/canadian-german-driving-license)**
+**[How to convert a foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
 
 **For motorcyclists:** You can rarely convert a foreign motorcycle licence. You will need to get a new motorcycle licence in Germany.
 

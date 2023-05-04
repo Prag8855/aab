@@ -142,7 +142,7 @@ Learn how to use public transit in Berlin. You should also get a bicycle, becaus
 
 You don't need to [buy a car](/guides/buying-used-car-in-germany) in Berlin. They are [expensive](/guides/car-cost-of-ownership-germany), and [not that useful](/guides/buying-used-car-in-germany#do-you-need-a-car).
 
-If you have a driving licence from a non-EU country, it's only valid for 6 months after you move to Germany. If you have a driving licence from another EU or [[EEA]] country, it's valid until it expires.[^3] You can usually [exchange your foreign driving licence for a German one](/guides/canadian-german-driving-license). If you don't have a driving licence, you can [take driving lessons](/guides/english-driving-schools-in-berlin).
+If you have a driving licence from a non-EU country, it's only valid for 6 months after you move to Germany. If you have a driving licence from another EU or [[EEA]] country, it's valid until it expires.[^3] You can usually [exchange your foreign driving licence for a German one](/guides/convert-to-german-driving-licence). If you don't have a driving licence, you can [take driving lessons](/guides/english-driving-schools-in-berlin).
 
 ## Your first year in Berlin
 
