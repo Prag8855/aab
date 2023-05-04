@@ -358,7 +358,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     - Your lease and your *[[Wohnungsgeberbestätigung]]*
     - **or** your *[[Anmeldebestätigung]]*
 - **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, you must bring a proof of education. This can be.[^28]..
+    If you have a degree or any relevant training, you must bring a proof of education. This can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training
@@ -396,7 +396,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### How long is the Blue Card valid for?
 
-**Up to 4 years**, but it can be shorter if you have a temporary work contract[^59]. You can extend your Blue Card before it expires, or apply for [permanent residence](/glossary/Niederlassungserlaubnis).
+**Up to 4 years**, but it can be shorter if you have a temporary work contract.[^59] You can extend your Blue Card before it expires, or apply for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ### Do I need to speak German?
 

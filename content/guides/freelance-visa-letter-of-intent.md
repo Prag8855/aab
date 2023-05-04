@@ -8,7 +8,7 @@ Related_reviews: reviews/freelance-visa-letter-of-intent/johanna-sieben.md
 
 Letters of written come from German clients that intend to give you work. Essentially, they say "if you give this person a freelance visa, I have work for them". A letter of intent is not a contract. The businesses and individuals that write your letters of intent are not forced to hire you.[^0]
 
-When you [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you must show letters of intent (*Absichtserklärung*).[^1] Some interviewers don't care about them, and some require them[^2].[^12] They are officially required.[^3]
+When you [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you must show letters of intent (*Absichtserklärung*).[^1] Some interviewers don't care about them, and some require them.[^2] They are officially required.[^3]
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -88,7 +88,7 @@ No matter what you do, **do not fake letters of intent**. This is visa fraud, an
 
 [^0]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
-[^2]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1890290804384628/)
+[^2]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1890290804384628/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/328332/)
 [^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://berlin.de/willkommenszentrum/en/work-and-education/freelance-work/)
 [^5]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1667488453331532/)
@@ -98,4 +98,3 @@ No matter what you do, **do not fake letters of intent**. This is visa fraud, an
 [^9]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
 [^10]: [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://berlin.de/willkommenszentrum/en/work-and-education/freelance-work/)
 [^11]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
-[^12]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/)

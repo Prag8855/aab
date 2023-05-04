@@ -40,9 +40,9 @@ Your options depend on your occupation and your income:
     - **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.
     - **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0]
     - **If you are a civil servant**, you can choose public or private health insurance.
-- **If you are a student**, you can choose public or private health insurance[^1].[^26] If you are over 30 years old, and you just moved to Germany, you might be forced to get private health insurance.
-- **If you are self-employed**, you can choose public or private health insurance[^1].[^26] If you have a low income, private health insurers might reject you.
-- **If you are a doctor**, you can choose public or private health insurance[^1].[^26]
+- **If you are a student**, you can choose public or private health insurance.[^1] If you are over 30 years old, and you just moved to Germany, you might be forced to get private health insurance.
+- **If you are self-employed**, you can choose public or private health insurance.[^1] If you have a low income, private health insurers might reject you.
+- **If you are a doctor**, you can choose public or private health insurance.[^1]
 
 ## Public health insurance
 
@@ -309,7 +309,7 @@ There are more types of insurance in Germany, but health and liability insurance
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
 [^0]: [nebenjob.de](https://www.nebenjob.de/ratgeber/3325-minijob-und-krankenversicherung-das-sollten-sie-wissen)
-[^1]: [krankenversicherung.net](https://www.krankenversicherung.net/gesetzliche-krankenversicherung/freiwillige-krankenversicherung)
+[^1]: [krankenkasseninfo.de](https://www.krankenkasseninfo.de/personengruppen/geringfuegig-beschaeftigte/), [krankenversicherung.net](https://www.krankenversicherung.net/gesetzliche-krankenversicherung/freiwillige-krankenversicherung)
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [krankenversicherung.net](https://www.krankenversicherung.net/gesetzliche-krankenversicherung/beitragsbemessungsgrenze)
@@ -334,7 +334,6 @@ There are more types of insurance in Germany, but health and liability insurance
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/3245370-i-have-a-mini-job-how-do-i-get-insured)
 [^25]: [kuenstlersozialabgabe-hilfe.de](https://www.kuenstlersozialabgabe-hilfe.de/)
-[^26]: [krankenkasseninfo.de](https://www.krankenkasseninfo.de/personengruppen/geringfuegig-beschaeftigte/)
 [^27]: [abc-der-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/geringfuegig-beschaeftigte-minijob/)
 [^28]: [krankenkassenzentrale.de](http://web.archive.org/web/20220928194950/https://www.krankenkassenzentrale.de/wiki/krankenkasse-studenten)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)

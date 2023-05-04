@@ -113,7 +113,7 @@ The theoretical exam is available in 11 languages, including English.[^10] You s
 
 Some questions are really hard. They are badly translated, and the translations can be confusing or misleading. **Memorisation is the only way to pass the exam**.[^11]
 
-Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same[^12].[^15] You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
+Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same.[^12] You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
 
 When you are ready to take the theoretical exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs 22.49€.[^9]
 
@@ -171,8 +171,7 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^9]: [dekra.de](https://www.dekra.de/de/fahrerlaubnispruefung/)
 [^10]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
 [^11]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
-[^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/)
+[^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
 [^13]: [reddit.com](https://old.reddit.com/r/berlin/comments/yv8dqx/impossible_to_get_an_appointment_at/)
 [^14]: [marlonbernardes.github.io](https://marlonbernardes.github.io/awesome-berlin/en/pages/obtaining-a-drivers-license.html#picking-up-your-permanent-license)
-[^15]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
 [^16]: [tegetmeier.info \(archived\)](http://web.archive.org/web/20210927034912/http://tegetmeier.info/index.php?goto=wegweiser)

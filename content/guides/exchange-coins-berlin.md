@@ -28,7 +28,7 @@ If your bank does not have branches in Berlin, you can deposit coins at the Bund
 
 If you bring your coins to the federal bank (*Bundesbank*), they will exchange them for free.[^5] You will get euro bills in return. **This is the best way to exchange a lot of coins**.[^6]
 
-1. Bring your coins to [the Bundesbank in Charlottenburg](https://goo.gl/maps/2YyBakZq5txYEsqq7). You don't need to roll your coins[^7].[^10] Just put them in a bag.
+1. Bring your coins to [the Bundesbank in Charlottenburg](https://goo.gl/maps/2YyBakZq5txYEsqq7). You don't need to roll your coins.[^7] Just put them in a bag.
 2. Take a number and wait until it's called. You don't need an appointment.
 3. You will go in a small booth. They will give you a box. Put your coins in the box, and they will count them.
 4. The employee will give you euro bills.
@@ -52,7 +52,6 @@ There are Coinstar machines in many supermarkets. When you put your coins in a C
 [^4]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/ts0880/where_can_i_exchange_my_coins/i2oz48q/?context=3)
 [^5]: [bundesbank.de](https://www.bundesbank.de/de/bundesbank/hauptverwaltungen-filialen/bbb/filiale/filiale-berlin-605066)
 [^6]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
-[^7]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/)
+[^7]: [digitalcosmonaut.com \(archived\)](https://web.archive.org/web/20220703144020/https://digitalcosmonaut.com/2015/what-to-do-with-4-kilos-worth-of-euro-change/), [berlin.de](http://web.archive.org/web/20211125194852/https://www.berlin.de/special/finanzen-und-recht/konto-und-banken/2962210-2625156-kleingeld-wo-sparer-muenzen-in-scheine-t.html)
 [^8]: [coinstar.de](http://web.archive.org/web/20220729150413/https://www.coinstar.de/sofunktionierts)
 [^9]: [blog.berliner-sparkasse.de](https://www.berliner-sparkasse.de/de/home/ratgeber/oft-gefragt/muenzgeld-einzahlen.html)
-[^10]: [berlin.de](http://web.archive.org/web/20211125194852/https://www.berlin.de/special/finanzen-und-recht/konto-und-banken/2962210-2625156-kleingeld-wo-sparer-muenzen-in-scheine-t.html)

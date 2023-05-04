@@ -50,7 +50,7 @@ Your number is printed on a *Sozialversicherungsausweis* in a letter from the [*
 
 ### If you have public health insurance
 
-If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), **ask your health insurer**[^6]. Ask for a membership certificate (*Mitgliedsbescheinigung*) or a *Sozialversicherungsausweis*. You can usually do this online.
+If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), **ask your health insurer**.[^6] Ask for a membership certificate (*Mitgliedsbescheinigung*) or a *Sozialversicherungsausweis*. You can usually do this online.
 
 - [Instructions for TK](https://www.tk.de/service/form/2060552/sozialversicherungsausweisbestellen.form) (in German)
 - [Instructions for Barmer](https://www.barmer.de/meine-barmer-eingeloggt/antraege-und-bescheinigungen) (in German)

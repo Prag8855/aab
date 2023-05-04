@@ -125,7 +125,7 @@ During your appointment, you should **ask for a temporary license** while you wa
 
 ### 8. Wait
 
-**This can take a long time**. In Berlin, you must wait around 6 weeks to exchange a driver's license. Some people wait much longer[^10].[^11] In 2016, it took me 14 weeks. In smaller cities, it takes 2 to 6 weeks.[^15]
+**This can take a long time**. In Berlin, you must wait around 6 weeks to exchange a driver's license. Some people wait much longer.[^10] In 2016, it took me 14 weeks. In smaller cities, it takes 2 to 6 weeks.[^15]
 
 **[Current processing times in Berlin](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php)** - This is the time it takes before they *start* working on your application. It will take a few more weeks after that.
 
@@ -153,8 +153,7 @@ If this is the first time you drive in Europe, read Route to Germany's [guide to
 [^7]: [Red Tape Translation](https://redtapetranslation.com/exchanging-your-foreign-drivers-licence-in-germany/)
 [^8]: [first-aid-course-english-berlin.com](https://www.first-aid-course-english-berlin.com/dates-places)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/qr1w7o/credit_cards_are_finally_accepted_at_the/hk6mpwi/?context=3)
-[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/130747-changing-a-canadian-drivers-licence-to-german/#comment-1611766)
-[^11]: [awesomesauceasshattery.wordpress.com](http://web.archive.org/web/20211205222224/https://awesomesauceasshattery.wordpress.com/2011/10/22/canadian-to-german-driving-license-in-just-4-steps/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8paad4/the_wait_time_for_a_drivers_license_is_five/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9bj5dm/to_anyone_waiting_for_his_driving_licence_to_be/)
+[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/130747-changing-a-canadian-drivers-licence-to-german/#comment-1611766), [awesomesauceasshattery.wordpress.com](http://web.archive.org/web/20211205222224/https://awesomesauceasshattery.wordpress.com/2011/10/22/canadian-to-german-driving-license-in-just-4-steps/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8paad4/the_wait_time_for_a_drivers_license_is_five/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9bj5dm/to_anyone_waiting_for_his_driving_licence_to_be/)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5fin6f/fahrerlaubnisbeh%C3%B6rde/dakn5a0/?context=3)
 [^13]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
 [^14]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/147924-processing-times-to-convert-a-drivers-license/#comment-1755422)

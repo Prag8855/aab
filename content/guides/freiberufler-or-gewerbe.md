@@ -71,7 +71,7 @@ In Berlin, [the *Gewerbeanmeldung* can be done online](https://service.berlin.de
 
 ### The Gewerbesteuer (trade tax)
 
-All businesses must pay the *Gewerbesteuer*[^9],[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in [profit](/glossary/Gewinn) per year.[^10] See [this guide](https://wwkn.de/en/local-business-tax-gewerbesteuer/) for a detailed explanation of the trade tax.
+All businesses must pay the *Gewerbesteuer*,[^9] unless they make less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in [profit](/glossary/Gewinn) per year.[^10] See [this guide](https://wwkn.de/en/local-business-tax-gewerbesteuer/) for a detailed explanation of the trade tax.
 
 Small businesses (*Kleinunternehmer*) are not exempt from the trade tax,[^11] unless they make less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in [profit](/glossary/Gewinn) per year.
 
@@ -108,7 +108,7 @@ A small business (*[[Kleinunternehmer]]*) is a *Freiberufler* or *Gewerbe* with 
 [^6]: [sevdesk.de](https://sevdesk.de/lexikon/eintragung-handelsregister/)
 [^7]: [Settle in Berlin](https://www.settle-in-berlin.com/how-to-become-a-freelancer-in-germany-self-employed/#Registering_as_self-employed_in_Germany_Gewerbetreibende)
 [^8]: [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/muss-ich-ein-kleingewerbe-anmelden/)
-[^9]: [steuern.de](https://www.steuern.de/steuererklaerung-kleinunternehmer)
+[^9]: [steuern.de](https://www.steuern.de/steuererklaerung-kleinunternehmer), [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^10]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/gewstg/__11.html)
 [^11]: [sumup.com](https://debitoor.de/gruenderlounge/unternehmensgruendung/bin-ich-gewerbesteuerpflichtig)
 [^12]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/buchfuehrung/bilanzierung/)
