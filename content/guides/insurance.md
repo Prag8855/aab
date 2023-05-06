@@ -23,7 +23,7 @@ For example:
 
 If someone gets hurt because of you, you might pay thousands or even millions of euros in reparations. This is why liability insurance is so important.
 
-83% of Germans have liability insurance.[^6] It costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options. If you don't speak German, [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
+83% of Germans have liability insurance.[^6] It costs around 5€ per month. If you don't speak German, [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), [Muffin](/out/muffin-haftpflicht) and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -59,7 +59,7 @@ It sometimes covers laptops and bicycles away from home. It sometimes covers cal
 
 Get this insurance if you can't afford to replace everything after a fire. 76% of Germans have it.[^4]
 
-Household insurance costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home) and [Luko](/out/luko-hausrat) sell household insurance, and they speak English.
+Household insurance costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home), [Muffin](/out/muffin-hausrat) and [Luko](/out/luko-hausrat) sell household insurance, and they speak English.
 
 ## Health insurance (Krankenversicherung)
 

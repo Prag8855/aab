@@ -112,7 +112,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), [Muffin](/out/muffin-haftpflicht) and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English.
 
 You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
@@ -148,7 +148,7 @@ Some professions are required to have liability insurance:[^26]
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) offer dog liability insurance, and they speak English. They cover dangerous breeds.
+*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) sell dog liability insurance, and they speak English. They cover dangerous breeds.
 
 **[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
 
@@ -164,9 +164,9 @@ When you drive a vehicle, you are covered by your car's insurance (*Kfz-Haftpfli
 
 There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs 16€ to 24€ per month.[^29] Professional legal insurance is more expensive. The price depends on what type of business you run.
 
-Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance options. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.
+[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
 
-**[More about legal insurance in Germany ➞](/guides/legal-insurance)**
+**[More information about legal insurance ➞](/guides/legal-insurance)**
 
 ## Other questions
 

@@ -122,7 +122,7 @@ You should also write down your bicycle's frame number (*Rahmennummer*). If your
 
 ### Bike theft insurance
 
-If you have an expensive bike, you can get household insurance *[[Hausratversicherung]]* that covers bike theft, or just bicycle insurance (*[[Fahrradversicherung]]*. If your bike is stolen, your insurance will pay to replace it. Bicycle insurance only covers recent bicycles. Older bicycles are not covered. If you don't speak German, [Feather](/out/feather-bicycle) and [GetSafe](/out/getsafe-bicycle) offer bicycle insurance in English.
+If you have an expensive bike, you can get household insurance *[[Hausratversicherung]]* that covers bike theft, or just bicycle insurance (*[[Fahrradversicherung]]*. If your bike is stolen, your insurance will pay to replace it. Bicycle insurance only covers recent bicycles. Older bicycles are not covered. If you don't speak German, [Feather](/out/feather-bicycle), [GetSafe](/out/getsafe-bicycle) and [Muffin](/out/muffin) sell bicycle insurance, and they speak English.
 
 ### What to do if your bike gets stolen
 

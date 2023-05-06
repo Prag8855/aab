@@ -104,9 +104,9 @@ Legal insurance (*[Rechtschutzversicherung](/glossary/Rechtsschutzversicherung)*
 
 You must get professional legal insurance. Private legal insurance does not cover business activities.
 
-Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance options. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.
-
 **[What does legal insurance cover? ➞](/guides/legal-insurance)**
+
+[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
 
 ### Accounting costs
 
