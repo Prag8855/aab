@@ -55,11 +55,11 @@ For example:[^3]
 - A water leak destroys your furniture and electronics.
 - A thief breaks into your house and steals your things.
 
-It sometimes covers laptops and bicycles away from home. It sometimes covers calling a locksmith when you lock yourself out.
+It sometimes covers laptops and bicycles away from home. It sometimes covers calling a locksmith when you lock yourself out. [Muffin](/out/muffin-hausrat) sells household insurance that covers locksmiths, and they speak English.
 
 Get this insurance if you can't afford to replace everything after a fire. 76% of Germans have it.[^4]
 
-Household insurance costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home) and [Luko](/out/luko-hausrat) offer household insurance, and they speak English. [Feather](/out/feather-hausrat)'s household insurance covers locksmiths.
+Household insurance costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home) and [Luko](/out/luko-hausrat) sell household insurance, and they speak English.
 
 ## Health insurance (Krankenversicherung)
 

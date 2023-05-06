@@ -54,7 +54,7 @@ Most insurance policies do not cover these accidents:
 - **Piracy and copyright infringement**  
     If you get in trouble for [illegally downloading movies](/guides/pirating-streaming-movies-in-germany), your liability insurance will not cover you.[^12]
 - **Locking yourself out**  
-    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^13] and they speak English.
+    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Muffin](/out/muffin-hausrat) sells household insurance that covers locksmiths, and they speak English.
 
 ## Do I really need it?
 
@@ -201,7 +201,6 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 [^10]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=viele%20neuere%20tarife%20springen%20auch%20bei%20gefal%C2%ADligkeits%C2%ADschaden%20ein)
 [^11]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^12]: [geldsparen.de \(archived\)](https://web.archive.org/web/20170628040748/https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)
-[^13]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
 [^14]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=weil%20die%20gesetzliche%20haftung%20unbegrenzt%20ist)
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/s2d2q5/haftpflichtversicherung/)
 [^16]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)
