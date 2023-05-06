@@ -372,7 +372,7 @@ You need these documents to apply for an apartment:
 - **Passport or personal ID**  
     You must show it when you apply for the apartment. Bring photocopies of your ID, just in case.
 - **Proof of income**  
-    Bring a work contract, your last 3 pay slips, or your last *[[Steuerbescheid]]*. If you are a freelancer, bring a [profit-and-loss statement](/glossary/Ertragsvorschau). If you don't make enough money, you can get a *[[Mietbürgschaft]]*.
+    Bring a work contract, your last 3 pay slips, or your last *[[Steuerbescheid]]*. If you are a freelancer, bring a profit-and-loss statement. If you don't make enough money, you can get a *[[Mietbürgschaft]]*.
 - **Bank account statement** (optional)  
     This shows how much money you have in your bank account. If you are a freelancer, bring one.[^38]
 - **Employment contract** (optional)  

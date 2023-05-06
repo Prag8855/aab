@@ -6,32 +6,36 @@ Date_created: 2018-09-06
 Related_reviews: reviews/freelance-visa-letter-of-intent/johanna-sieben.md
 ---
 
-Letters of written come from German clients that intend to give you work. Essentially, they say "if you give this person a freelance visa, I have work for them". A letter of intent is not a contract. The businesses and individuals that write your letters of intent are not forced to hire you.[^0]
+A letter of intent (*[[Absichtserklärung]]*) is a letter that says "I plan to hire this person to do this service for this price". You need letters of intent to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin.
 
-When you [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you must show letters of intent (*Absichtserklärung*).[^1] Some interviewers don't care about them, and some require them.[^2] They are officially required.[^3]
+A letter of intent is not a contract. The person who wrote the letter is not forced to do anything.
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## Why are letters of intent important?
 
-Letters of intent are officially required when you [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin.[^4] They are very important because they prove two things:
+You need letters of intent to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin.[^4] They prove two things:
 
 - **You can find work and make money in Germany.**  
-    You will not get a freelance visa if you don't make enough money to support yourself.
+    To get a freelance visa, you must make enough money to support yourself.
 - **There is a regional demand for your services.**  
     You will not get a freelance visa if you don't have any clients in Germany.[^0] You can't only work for clients in other countries.
+
+If you just [moved to Berlin](/guides/moving-to-berlin) to [start your business](/guides/start-a-business-in-germany), you might not have customers yet. Your letters of intent convince the *[[Ausländerberhörde]]* that you will find clients and make money soon.
+
+A better visa application can get you a longer freelance visa. Instead of 6 months or 1 year, you can get up to 3 years. It depends a lot on your letters of intent.
 
 **[How to apply for the German freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 
 ## How many letters of intent are required?
 
-According to feedback from applicants, you need **at least 2 letters of intent from German clients or individuals**.[^1] The more you have, the better.
+You need **at least 2 letters of intent from German clients or individuals**, but more is better.[^1] You must convince the *[[Ausländerberhörde]]* that you will have clients and make money. More proof is better.
 
 ### Signed contracts
 
-Signed contracts are better than letters of intent for your visa application. Letters of intent show that the company *wants* to hire you. Signed contracts show that the company *must* hire you.
+Signed contracts are better than letters of intent. Letters of intent show that the company *wants* to hire you. Signed contracts show that the company *must* hire you.
 
-Contracts are harder to get, because companies don't know when you will get your freelance visa.[^0] You can't start working for them before you get your freelance visa.
+Contracts are harder to get, because companies don't know when you will get your freelance visa.[^0] In many cases, you can only work after you get your freelance visa.
 
 ### Letters of reference from previous clients
 
@@ -46,7 +50,7 @@ Your letter of intent should contain this information:[^5]
 - **Your name.** The letter must clearly be about hiring *you*, not any person who can fill this role.
 - **How much they will pay you.** Letters of intent must contain a clear amount or hourly rate.[^7]
 
-Letters of intent do not need to follow a specific format. Ideally, they should be recent. Some people just printed emails from companies that were interested in hiring them.[^8]
+Letters of intent do not need to follow a specific format. Ideally, they should be recent. Some people just print emails from companies that are interested in hiring them.[^8]
 
 Remember that **a letter of intent is not a contract**. Companies who write your letters of intent are not forced to hire you.[^9] They only need to *intend* to hire you.
 
@@ -60,9 +64,12 @@ This is where you must be creative. Getting letters of intents from people you h
 
 Here are some tricks:
 
-- **Start networking.** Visit your local co-working spaces, attend industry meetups, join local communities and just ask for it. People are generally happy to help you, even if they won't always hire you.[^11]
-- **Ask your friends, family and colleagues.** Even if they can't hire you, they might know people who can write a letter of intent for you. Even if they don't live in Germany, their letters of intent can help your case.
-- **Ask your old clients.** If you were a freelancer before, or if you currently are, you can ask your old clients to sign a letter of intent. You need two letters of intent from German companies, but those from other countries also help.
+- **Start networking.**  
+    Visit your local co-working spaces, attend industry meetups, join local communities and online groups, and just ask for letters of intent. People are often happy to help you, even if they won't always hire you.[^11] Freelancers often sign letters of intent for other freelancers, because they had the same problem before.
+- **Ask your friends, family and colleagues.**  
+    Even if they can't hire you, they might know people who can write a letter of intent for you. Even if they don't live in Germany, their letters of intent can help your case.
+- **Ask your old clients.**  
+    If you were a freelancer before, or if you currently are, you can ask your old clients to sign a letter of intent. You need two letters of intent from German companies, but those from other countries also help.
 
 No matter what you do, **do not fake letters of intent**. Visa fraud is never a good idea.
 
@@ -74,13 +81,13 @@ Ideally, **letters of intent should be in German**.[^0] If they are in another l
 
 Ideally, the letters should always be written by the company. However, some freelancers draft the letters themselves, and ask the companies to sign them. This is also legal, but the letters should look like the companies wrote them.
 
-No matter what you do, **do not fake letters of intent**. This is visa fraud, and it's very illegal.
+No matter what you do, **do not fake letters of intent**. This is fraud, and it's illegal.
 
 ## Letter of intent examples
 
-- [Letter of intent example by All About Berlin](/docs/letter-of-intent-example-german-freelance-visa)
-- [Letter of intent template by All About Berlin](/docs/german-freelance-visa-letter-of-intent)
-- [Letter of intent template by Jessie Szemraj](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
+- **[Letter of intent example](/docs/letter-of-intent-example-german-freelance-visa)**
+- **[Letter of intent template](/docs/german-freelance-visa-letter-of-intent)**
+- [Letter of intent template](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/) - Jessie Szemraj
 
 ## Need help?
 
@@ -89,8 +96,7 @@ No matter what you do, **do not fake letters of intent**. This is visa fraud, an
 [^0]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
 [^2]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1890290804384628/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/)
-[^3]: [berlin.de](https://service.berlin.de/dienstleistung/328332/)
-[^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://berlin.de/willkommenszentrum/en/work-and-education/freelance-work/)
+[^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://berlin.de/willkommenszentrum/en/work-and-education/freelance-work/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^5]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1667488453331532/)
 [^6]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/)
 [^7]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1852129254867450/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/?comment_id=1531744236905955&comment_tracking=%7B%22tn%22%3A%22R%22%7D)

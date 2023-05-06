@@ -11,13 +11,13 @@ Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/start-a-bus
 
 You need this form when you [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin. It's called the revenue forecast (*Ertragsvorschau*).
 
-This is the official template from [Berlin.de](https://service.berlin.de/dienstleistung/305249/). You can use your own template, but some *[[Ausländerbehörde]]* employees prefer the official template. You can find the template I used here: [English](/documents/Profit-and-loss-statement-English.pdf) / [German](/documents/Ertragsvorschau-German.pdf).
+This is the official template from [Berlin.de](https://service.berlin.de/dienstleistung/305249/). You can use your own template, but some *[[Ausländerbehörde]]* employees prefer the official template.
 
 **[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 
 ## How to fill the revenue forecast
 
-You must describe your *estimated* income and expenses. It must be believable, but not perfectly accurate. Be ambitious! It's better to estimate too high than too low.[^1]
+You must describe your *estimated* income and expenses. It must be believable, but not perfectly accurate. Be ambitious! It's better to estimate too high than too low.[^1] If you convince the *[[Ausländerbehörde]]* that you will make a lot of money, you can get a longer freelance visa.
 
 Include health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glossary/Umsatzsteuer). Do not include your own rent and expenses.
 
@@ -26,4 +26,4 @@ Include health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glo
 - **Other business taxes:** You can leave this field empty, or include your expected [income tax](/glossary/Einkommensteuer). Calculate your income tax with [this calculator](http://www.parmentier.de/steuer/index.php?site=einkommensteuerrechnerjava). If you pay trade tax (*[[Gewerbesteuer]]*), you pay less income tax. Write your total income tax minus your total trade tax.
 
 
-[^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home)
+[^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2022)

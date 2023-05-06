@@ -326,7 +326,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     This shows how much savings you have. It proves that you have enough money to support yourself while you start your business. The more money you have in your account, the better. *In general*, bank statements from foreign banks are accepted, but some interviewers want statements from a German bank.[^36] Just [open a German bank account](/guides/first-bank-account-in-germany), and transfer some savings with [Wise](/out/transferwise). According to [this poll](https://www.facebook.com/groups/berlinfreelancers/permalink/1899819730098402/?comment_id=1899832836763758), 3,000€ to 5,000€ in savings is enough.[^37] If necessary, convert the amount to Euros.[^38]
 - **Revenue forecast / profit and loss statement** (*[[Ertragsvorschau]]*)  
     *[Template and instructions](/docs/ertragsvorschau)*  
-    Make a spreadsheet of your *expected* monthly business income and expenses. Some [Ausländerbehörde] employee prefer that you use the [official template](/docs/ertragsvorschau).
+    Make a spreadsheet of your *expected* monthly business income and expenses. Your numbers should be realistic, but ambitious. Some [Ausländerbehörde] employee prefer that you use the [official template](/docs/ertragsvorschau).
 - **Proof of adequate pension plan**  
     If you are over 45 years old, you need to prove that you have adequate preparations for retirement. See the [section above](#the-german-freelance-visa-requirements) for more details. No proof is required for these nationalities: Dominican Republic, Indonesia, Iran, Japan, Philippines, Sri Lanka, Turkey and the United States.[^25]
 - **Proof of regular income** *(artists and language teachers only)*  
