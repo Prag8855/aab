@@ -13,7 +13,7 @@ If you are an employee, you get sick pay (*Krankengeld*) when you are too sick t
 
 **[Krankengeld calculator](https://www.arbeitnow.com/en/tools/krankengeldrechner/germany)** - Arbeitnow
 
-If you are a freelancer, you do not get *Krankengeld* unless you pay for it.[^1] By default, most freelancers do not pay for it. You can also get disability insurance (*[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)*). It pays your salary if you are too sick or injured to work.
+If you are a freelancer, you do not get *Krankengeld* unless you pay for it.[^1] By default, most freelancers do not pay for it. You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are too sick or injured to work.
 
 **[How sick leave works in Germany ➞](/guides/sick-leave)**
 

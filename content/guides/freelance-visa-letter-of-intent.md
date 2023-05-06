@@ -21,7 +21,7 @@ You need letters of intent to [apply for a freelance visa](/guides/how-to-get-a-
 - **There is a regional demand for your services.**  
     You will not get a freelance visa if you don't have any clients in Germany.[^0] You can't only work for clients in other countries.
 
-If you just [moved to Berlin](/guides/moving-to-berlin) to [start your business](/guides/start-a-business-in-germany), you might not have customers yet. Your letters of intent convince the *[[Ausländerberhörde]]* that you will find clients and make money soon.
+If you just [moved to Berlin](/guides/moving-to-berlin) to [start your business](/guides/start-a-business-in-germany), you might not have customers yet. Your letters of intent convince the *[[Ausländerbehörde]]* that you will find clients and make money soon.
 
 A better visa application can get you a longer freelance visa. Instead of 6 months or 1 year, you can get up to 3 years. It depends a lot on your letters of intent.
 
@@ -29,7 +29,7 @@ A better visa application can get you a longer freelance visa. Instead of 6 mont
 
 ## How many letters of intent are required?
 
-You need **at least 2 letters of intent from German clients or individuals**, but more is better.[^1] You must convince the *[[Ausländerberhörde]]* that you will have clients and make money. More proof is better.
+You need **at least 2 letters of intent from German clients or individuals**, but more is better.[^1] You must convince the *[[Ausländerbehörde]]* that you will have clients and make money. More proof is better.
 
 ### Signed contracts
 
