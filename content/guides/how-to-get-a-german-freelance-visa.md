@@ -224,7 +224,7 @@ Once you have your visa, you still have some work to do before you can run a bus
 1. If you are a *[Gewerbetreibende](/guides/freiberufler-or-gewerbe)*, you must [get a *Gewerbeschein*](/guides/gewerbeschein). If you are a *[[Freiberufler]]* (according to [the Finanzamt's definition](/guides/freiberufler-or-gewerbe)), you don't need one.[^23]
 2. You must [register your business at the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). This is how you get a tax number (*[[Steuernummer]]*), a VAT number (*[[Umsatzsteuernummer]]*), and an entry in the trade register (*[[Handelsregister]]*).
 3. Your website must follow the [German and European Union laws](/guides/website-compliance-germany).
-4. You can get [professional liability insurance](/guides/haftpflichtversicherung) (*Gewerbehaftpflichtversicherung* or **Berufshaftpflichtverischerung**) to protect yourself against lawsuits. You can also get disability insurance (*[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)*), in case you get injured and can't work.
+4. You can get [professional liability insurance](/guides/haftpflichtversicherung) (*Gewerbehaftpflichtversicherung* or *Berufshaftpflichtversicherung*) to protect yourself against lawsuits. You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*), in case you get injured and can't work.
 
 **Related guides:**
 

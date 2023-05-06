@@ -90,7 +90,7 @@ Professional liability insurance is *required* in some professions.[^3] Freelanc
 
 ### Disability insurance
 
-Disability insurance *[Berufsunfähigkeitsversicherung](/glossary/Berufsunfaehigkeitsversicherung)* pays you a salary if you are too sick or injured to do your job. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It can also be useful for office workers, who can burn out.
+Disability insurance (*[[Berufsunfähigkeitsversicherung]]*) pays you a salary if you are too sick or injured to do your job. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It can also be useful for office workers, who can burn out.
 
 This insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance.[^2] It costs around 20€ per month for most professions. It's cheap, because accidents that prevent you from doing your job are rare.
 
@@ -100,7 +100,7 @@ Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare disability insuran
 
 ### Legal insurance
 
-Legal insurance (*[Rechtschutzversicherung](/glossary/Rechtsschutzversicherung)*) will cover your legal costs if you need a lawyer. For example, if a client refuses to pay you, or if you have problems with another business.
+Legal insurance (*[[Rechtsschutzversicherung]]*) will cover your legal costs if you need a lawyer. For example, if a client refuses to pay you, or if you have problems with another business.
 
 You must get professional legal insurance. Private legal insurance does not cover business activities.
 
@@ -126,7 +126,7 @@ A tax advisor can also help you register your business, make VAT payments, and m
 
 **If you are a freelancer**, you don't get any money while you are sick. If you want sickness pay (*[[Krankengeld]]*), you must pay a little more each month for your health insurance.[^7] There is a limit on how much *Krankengeld* you receive. With TK, you get up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day, for up to 78 weeks.
 
-You can also get disability insurance (*[[Berufsunfaehigkeitsversicherung]]*). They will pay you if you are too sick or injured to work. Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare disability insurance options.
+You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). They will pay you if you are too sick or injured to work. Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare disability insurance options.
 
 ## Build some savings
 
