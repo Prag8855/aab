@@ -44,7 +44,6 @@ Related_places:
     places/kb-küpper-kollegen-steuerberatungsgesellschaft.md
     places/steuerberater-jakub-czaplewski.md
     places/blüming-partner-mbb-steuerberater-rechtsanwälte.md
-    places/mh-steuerberater.md
     places/guhr-steuerberatungsgesellschaft.md
     places/insight-tax-gmbh.md
 ---
