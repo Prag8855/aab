@@ -40,5 +40,31 @@ There are 3 ways to call a German phone number:
 - **Dial the local number**  
     For example, **901820**. When you call from the same area, dial the local number.
 
+## Special phone numbers
+
+### Emergency numbers
+
+**[Emergency numbers in Germany ➞](/guides/emergency-numbers)**
+
+### Toll-free numbers
+
+If a number starts with **0800**, it's a toll-free (*gebührenfrei*) number. For example, 0800 285 85 85. Toll-free numbers are completely free for the caller.[^2] Your mobile phone company won't charge you anything.
+
+There are 2 ways to call German toll-free numbers:
+
+- **Without the country code**  
+    For example, **0800 285 85 85**. This will work from anywhere in Germany.
+- **With the country code**  
+    If you call from another country, put the country code before the number, and remove the first 0. For example, **+49 800 285 85 85** or **0049 800 285 85 85**.
+
+Some toll-free numbers don't work with Skype, or don't let you call from another country.[^3]
+
+### Premium numbers
+
+If a number starts with **0900** or **0137**, it's a premium number.[^4] When you call premium numbers, you pay a fee. For example, **0900 1 5293 6611** is a legal hotline that costs 2€ per minute. The cost is charged on your phone bill.
+
 [^0]: [dialcode.org](https://dialcode.org/Europe/Germany/)
 [^1]: [dialcode.org](https://dialcode.org/Europe/Germany/), [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/List_of_dialling_codes_in_Germany)
+[^2]: [placetel.de](https://www.placetel.de/ratgeber/0800-nummer#2._Ist_eine_0800_Nummer_immer_kostenlos.3F)
+[^3]: [placetel.de](https://www.placetel.de/ratgeber/0800-nummer#2._Ist_eine_0800_Nummer_immer_kostenlos.3F)
+[^4]: [teltarif.de](https://www.teltarif.de/mobilfunk/sonderrufnummern-mobilfunk.html), [placetel.de](https://www.placetel.de/ratgeber/servicenummer)
