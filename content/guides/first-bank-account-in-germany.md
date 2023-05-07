@@ -93,7 +93,7 @@ These banks remove the monthly fees if you deposit money in your account every m
 - **[comdirect](/out/comdirect)** - No monthly fee for students under 28 years old.[^20]
 - **[Commerzbank](/out/commerzbank)** - No monthly fee for students under 27 years old ([*StartKonto*](/out/commerzbank-students)).[^21] The credit card is free if you deposit over 300€ per month.
 - **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25] 6.90€ for non-EU students.[^26] They offer a *[[Sperrkonto]]* for the German [student visa](/glossary/Student%20visa).
-- **[ING](/out/ing)** - No monthly fee for students. 1€ per month fee for a debit card.
+- **[ING](/out/ing-students)** - No monthly fee for students. 1€ per month fee for a debit card.
 - **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - No monthly fee for students.[^27]
 
 ### Banks with monthly fees
