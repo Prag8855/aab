@@ -9,7 +9,7 @@ Related_guides:
     guides/exchange-coins-berlin.md
     guides/free-schufa-berlin.md
     guides/english-speaking-steuerberater-berlin.md
-    guides/german-tax-software
+    guides/german-tax-software.md
     guides/an-honest-review-of-n26.md
     guides/an-honest-review-of-degiro.md
     guides/kontist-review.md
