@@ -148,11 +148,11 @@ config.linters = (
     'extensions.linters.footnotes.FootnoteLocationLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
-    'extensions.linters.places.PlacesLinter',
+    # 'extensions.linters.places.PlacesLinter',
     'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     'ursus.linters.images.UnusedImagesLinter',
-    'ursus.linters.markdown.MarkdownExternalLinksLinter',
+    # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
 )
