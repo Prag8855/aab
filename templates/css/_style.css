@@ -729,7 +729,7 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 	}
 	.article-body{ --scale: 1 }
 
-	.no-print,#main-nav,.pagination,.sidebar,.table-of-contents,.search-form,.related,.footer-notice,footer, sup, .post-meta, #support, #places-map,.no-desktop,.collections{display:none}
+	.no-print,#main-nav,.pagination,.sidebar,.table-of-contents,.search-form,.related,.footer-notice,footer, sup, .post-meta, #support, #places-map,.no-desktop,.collections,#footnotes{display:none}
 	a{text-decoration:underline;border-bottom:none;}
 	.section{box-shadow:none}
 	#places{display:block}
