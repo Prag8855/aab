@@ -125,7 +125,7 @@ There are 6 tax classes:
 There are a few ways to pay less taxes. It depends on your situation.
 
 - Contribute to a pension plan. Your pension contributions are [tax-deductible](/glossary/steuerlich%20absetzbar). It's only taxed when you get your pension. At that time, your income will be lower, so you will pay less taxes. It's a type of [tax deferral](https://en.wikipedia.org/wiki/Tax_deferral).
-- Declare your [tax-deductible](/glossary/steuerlich%20absetzbar) expenses. It makes your taxable income lower, so you pay less income tax. [Tax software](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany) and [tax advisors](/guides/english-speaking-steuerberater-berlin) can help you find deductible expenses.
+- Declare your [tax-deductible](/glossary/steuerlich%20absetzbar) expenses. It makes your taxable income lower, so you pay less income tax. [Tax software](/guides/german-tax-software) and [tax advisors](/guides/english-speaking-steuerberater-berlin) can help you find deductible expenses.
 - Get married. Couples with a big income difference pay less taxes if they are married.
 
 ## Need help?

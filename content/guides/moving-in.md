@@ -220,8 +220,6 @@ These expenses are tax-deductible:
 
 New furniture and appliances are not tax-deductible. Costs that are refunded by your employer are not tax-deductible.
 
-[Tax software](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany) and [tax advisors](/glossary/Steuerberater) can help you declare moving expenses on your taxes.
-
 ## First apartment in Berlin?
 
 If you just [moved to Berlin](/guides/moving-to-berlin), you must learn a few things.

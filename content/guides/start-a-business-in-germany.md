@@ -91,7 +91,7 @@ A tax advisor can help you register your business and file your taxes. They are 
 
 If you want to pay less, use tax software instead. [Sorted](/out/sorted-taxes) and [Lexoffice](/out/lexoffice) can help with invoicing and VAT reporting. I use Lexoffice for all of my bookkeeping.
 
-**[German tax software in English ➞](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany)**
+**[List of German tax software ➞](/guides/german-tax-software)**
 
 Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier. I use Kontist as my business bank.
 

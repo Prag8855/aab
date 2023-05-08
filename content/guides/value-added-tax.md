@@ -102,7 +102,7 @@ If you charge VAT, you must submit VAT returns (*[[Umsatzsteuervoranmeldung]]*).
 There are 4 ways to make VAT returns:
 
 - Hire a [tax advisor](/guides/english-speaking-steuerberater-berlin) - safe and easy, but expensive
-- Use [tax software for businesses](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany)
+- Use [tax software for businesses](/guides/german-tax-software#tax-software-for-freelancers)
 - Use a business bank like [Kontist](/out/kontist) or [Holvi](/out/holvi)
 - Do it yourself with [[ELSTER]][^14]
 

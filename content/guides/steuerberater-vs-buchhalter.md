@@ -22,7 +22,7 @@ Tax advisors are liable for their mistakes. If a tax advisor makes a mistake in 
 
 Tax advisors have more powers and responsibilities than bookkeepers, but they are also more expensive than bookkeepers.[^2]
 
-**Related guide:** [How much does a *Steuerberater* cost?](/guides/english-speaking-steuerberater-berlin#how-much-does-a-steuerberater-cost)
+**[Cost of a Steuerberater ➞](/guides/english-speaking-steuerberater-berlin#cost-of-a-tax-advisor)**
 
 ## Buchhalter (bookkeeper)
 

@@ -5,6 +5,8 @@ English_term: Tax declaration
 Description: It tells the tax office how much taxes you owe, or are owed.
 Date_created: 2018-07-31
 Related_guides:
+    guides/english-speaking-steuerberater-berlin.md
+    guides/german-tax-software.md
     guides/steuerberater-vs-buchhalter.md
     guides/car-insurance-germany.md
 ---
