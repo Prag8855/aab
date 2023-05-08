@@ -58,9 +58,9 @@ Bring these documents to your appointment:
 If this is your first *Anmeldung*, you must also bring:
 
 - **Your marriage certificate**  
-    It must be the original or a certified copy.[^10] If it's not in English or German, bring a certified translation.[^36]
+    It must be the original or a certified copy.[^10] If it's not in English or German, they might ask for a certified translation.[^36]
 - **Your birth certificate**  
-    It must be the original or a certified copy. If it's not in English or German, bring a certified translation.
+    It must be the original or a certified copy. If it's not in English or German, they might ask for a certified translation.
 
 When you register an underage child's address, you might need a letter of consent from their legal guardian.[^11]
 
@@ -279,4 +279,4 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^33]: [§17 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
 [^34]: [§29 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^35]: [§27 Abs. 2 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0254)
-[^36]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order)
+[^36]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023)
