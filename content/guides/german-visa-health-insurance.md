@@ -73,7 +73,7 @@ If you apply for a work visa, a Blue Card, a student visa, a freelance visa, a j
 - **[Care Concept](/out/care-concept)**, is also accepted.[^5] A relocation consultant and many freelancers confirmed this.
 - **[aLC](https://www.alchealth.com/)**,[^6] **[April International](https://de.april-international.com/de)**[^7] and **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)** are usually accepted.[^13]
 - **[Mawista Expatcare](/out/mawista-expats)** is sometimes accepted, sometimes refused. It's not the most reliable option.[^8]
-- **[Cigna Global](/out/cigna)** should work.[^9] There is not a lot of information about it.
+- **[Cigna Global](/out/cigna)** does not always work.[^9]
 
 ### How long can you stay on expat health insurance?
 
@@ -100,7 +100,7 @@ First, [read my guide on German health insurance](/guides/german-health-insuranc
 [^6]: [facebook.com](https://www.facebook.com/groups/berlinexpats/permalink/1705858052760307/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4chwmn/berlin_lpt_for_all_expats_and_longterm_tourists/d1iy5fc/), [facebook.com](https://www.facebook.com/groups/berlinexpats/permalink/1783388938340551/?comment_id=1784299188249526)
 [^7]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/4261939800553038/?__cft__[0]=AZV7zZrPivBoZDL0rqrnsaIM5z30t4Qa-eMFG7snPBMSv-0a8iDRS7ZuaBf6OBQb6EnLsMHZ5xMqbqEkJtg-mKCwqY8iUgAalwBIKyrQP6EwoXkmNvOdFyJ2N3a6_4JtSvc&__tn__=%2CO%2CP-R)
 [^8]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/819822105153161/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [medium.com](https://medium.com/german-health-insurance-guide/list-of-private-health-insurance-companies-in-germany-eb2def6b5874), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/588038748331499/?comment_id=588207591647948), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754404985028207), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=626153777853329), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=627056011096439)
-[^9]: [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
+[^9]: Confirmed by a Cigna employee (2022), [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
 [^10]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^11]: [medium.com](https://tiahardyrobinson.medium.com/health-insurance-options-for-the-freelance-or-self-employed-work-permit-in-berlin-bf8ab50291c7), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/561660760969298/?comment_id=598352733966767)
 [^12]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
