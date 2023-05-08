@@ -48,3 +48,4 @@ Below is a map with dozens of 24 hour gyms in Berlin. If your gym is missing fro
 
 You can search for 24-hour gyms [on Google Maps](https://www.google.com/maps/search/gym/data=!4m4!2m3!5m1!2e3!6e1).
 
+{% include 'blocks/_relatedPlaces.html' %}

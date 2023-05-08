@@ -16,3 +16,6 @@ Once in a while, the thin Italian slices are not good enough, and you want a thi
 
 ## List of American pizza places
 
+If a place is missing, [contact me](/contact)
+
+{% include 'blocks/_relatedPlaces.html' %}

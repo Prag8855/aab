@@ -31,11 +31,6 @@
 			{{ entry.body|render|safe }}
 		</div>
 	{% endwith %}
-	{% if entry.related_places|default([]) %}
-		{% with places=entry.related_places %}
-		    {% include 'blocks/_places.html' %}
-		{% endwith %}
-	{% endif %}
 {% endblock %}
 
 

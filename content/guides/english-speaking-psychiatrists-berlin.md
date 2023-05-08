@@ -46,7 +46,11 @@ This guide explains:
 
 It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with [private health insurance](/glossary/private%20Krankenversicherung).
 
-## Other lists of psychiatrists
+## List of English-speaking psychiatrists
+
+{% include 'blocks/_relatedPlaces.html' %}
+
+### Other lists of psychiatrists
 
 These directories help you find English-speaking psychiatrists:
 
@@ -56,13 +60,11 @@ These directories help you find English-speaking psychiatrists:
 
 **[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
 
-## Other resources
+### Other resources
 
 **Your employer and your university** might give you access to psychotherapy. It could be easier than finding a therapist yourself.
 
 **[List of mental health resources ➞](/guides/english-speaking-psychotherapists-berlin#other-resources)**
-
-## List of English-speaking psychiatrists
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
 [^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)

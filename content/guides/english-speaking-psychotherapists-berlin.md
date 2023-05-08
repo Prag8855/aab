@@ -124,7 +124,11 @@ In Berlin, it costs around 100€ per hour.[^0] Group therapy is usually cheaper
 
 **If you are a student**, you can also get free therapy [from your *Studentenwerk*](https://www.stw.berlin/en/counselling.html#jump_psychological_counselling).
 
-## Other lists of therapists
+## List of therapists
+
+{% include 'blocks/_relatedPlaces.html' %}
+
+### Other lists of therapists
 
 These directories help you find English-speaking therapists:
 
@@ -155,8 +159,6 @@ These resources can also help:
 ## Emergency help
 
 If you need psychological help *right now*, **call the [Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)**. They speak English, and they are available 24/7.
-
-## List of therapists
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
 [^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)

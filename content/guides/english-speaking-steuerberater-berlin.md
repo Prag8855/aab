@@ -114,12 +114,12 @@ If you want the flexibility of a freelancer and the stability of a job, it's a g
 
 ## List of English-speaking tax advisors
 
-### On other websites
+{% include 'blocks/_relatedPlaces.html' %}
+
+### Other lists
 
 - [DATEV Kammersuchservice](http://www.datev.de/kasus/Start?KammerId=5&Suffix1=Berlin&Suffix2=Berlin) - search tax advisors by language
 - [tax-advisor.co](https://tax-advisor.co/de/berlin) - hand-compiled list with language filter
-
-### My list of tax advisors
 
 [^0]: [Finanztip](https://www.finanztip.de/steuerberatungskosten/)
 [^1]: [Suat Göydeniz](https://stb-goeydeniz.de/) (2022)

@@ -47,5 +47,7 @@ Many schools say they offer driving lessons in English, but only offer the onlin
 
 If a driving school is missing from this list, [let me know](/suggest-business).
 
+{% include 'blocks/_relatedPlaces.html' %}
+
 [^0]: [gut-lernen.de](https://www.gut-lernen.de/fremdsprachen-pruefung.html), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
 [^1]: [iamexpat.de](https://www.iamexpat.de/expat-info/driving-germany/driving-licence)

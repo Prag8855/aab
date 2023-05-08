@@ -65,13 +65,15 @@ This list of English, French and Spanish-speaking attorneys will help you with a
 
 **[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
 
-## Other lists on the internet
-
-- [Red Tape Translation's list of English-speaking lawyers](https://redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/)
-- [The US Embassy's list](https://web.archive.org/web/20210516131011/https://de.usembassy.gov/wp-content/uploads/sites/21/2016/07/Berlin-List-of-Attorneys.pdf) (2016)
-
 ## List of lawyers
 
 If someone is missing from this list, [let me know](/suggest-business).
+
+{% include 'blocks/_relatedPlaces.html' %}
+
+### Other lists of English-speaking lawyers
+
+- [Red Tape Translation's list of English-speaking lawyers](https://redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/)
+- [The US Embassy's list](https://web.archive.org/web/20210516131011/https://de.usembassy.gov/wp-content/uploads/sites/21/2016/07/Berlin-List-of-Attorneys.pdf) (2016)
 
 [^0]: [Finanztip](https://www.finanztip.de/anwaltskosten/)
