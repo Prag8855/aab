@@ -5,9 +5,9 @@ Description: A step by step guide on opening your business or becoming a freelan
 Date_created: 2018-09-07
 ---
 
-This is how you [move to Germany](/guides/moving-to-berlin) and [start a business](/guides/start-a-business-in-germany). This guide is based on my own experience.
+This guide shows you how to [move to Germany](/guides/moving-to-berlin) and [start a business](/guides/start-a-business-in-germany).
 
-This guide is for people who do not live in Germany yet. If you already live in Germany, read *[How to start a business in Germany](/guides/start-a-business-in-germany)*.
+**If you already live in Germany**, you don't need this guide. Just read *[How to start a business in Germany](/guides/start-a-business-in-germany)*.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -17,15 +17,15 @@ Some employers hire "freelancers", but treat them like employees. This way, they
 
 **[What is fake self-employment?](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)** - Red Tape Translation
 
-## Understand the German system
+## Prepare for Germany
 
 ### Language
 
-You don't need to speak German to freelance in Germany, but it helps a lot.
+It's harder to run your business if you don't speak German.
 
-If you don't speak German, it's harder. Most of the bureaucracy is only in German. Most of the information online is in German. Most of the letters you get are in German. You must talk to *[[Bürgeramt]]*, *[[Ausländerbehörde]]* and *[[Finanzamt]]* employees who only speak German. Technical support is only in German.
+Most things are only in German: important letters, online information and official forms. Most *[[Bürgeramt]]*, *[[Ausländerbehörde]]* and *[[Finanzamt]]* employees only speak German. You will need help to deal with them.
 
-If you need a [freelance visa](/glossary/Freelance%20visa) to freelance in Germany, you *must* have some clients in Germany,[^1] or you won't get the visa. It's harder to find clients in Germany if you don't speak German.
+If you need a [freelance visa](/glossary/Freelance%20visa) to work in Germany, you must have German clients.[^1] It's harder to find German clients if you don't speak German.
 
 **[How to learn German in Berlin ➞](/guides/learn-german)**
 
@@ -106,19 +106,15 @@ You must get professional legal insurance. Private legal insurance does not cove
 
 **[What does legal insurance cover? ➞](/guides/legal-insurance)**
 
-[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
+[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance from multiple companies, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances, but it's only in German.
 
 ### Accounting costs
 
-When you are self-employed, you must do your own accounting. You can use tax software, or get help from a tax advisor.
-
-[Accountable](/out/accountable) and [Sorted](/out/sorted-taxes) can help you with invoicing and VAT reporting. They are both available in English. If you speak German, I recommend [Lexoffice](/out/lexoffice), because I use it. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier.
-
-If you don't know what you are doing, you can still make expensive mistakes. If you let a tax advisor take care of everything, they are responsible for their mistakes. They are expensive, but they are worth it. My tax advisor caught many accounting mistakes, and helped me solve many problems with the *[[Finanzamt]]*.
-
-A tax advisor can also help you register your business, make VAT payments, and many other things. I have a tax advisor since 2018, and I really recommend it.
+You will probably need help with your [VAT returns](/glossary/Umsatzsteuervoranmeldung) and your [income tax declaration](/glossary/Steuererklärung). You can hire a tax advisor, use tax software, or do it yourself in [[ELSTER]].
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+**[List of German tax software ➞](/guides/german-tax-software)**
 
 ### Sickness pay
 

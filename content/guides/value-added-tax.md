@@ -103,7 +103,7 @@ There are 4 ways to make VAT returns:
 
 - Hire a [tax advisor](/guides/english-speaking-steuerberater-berlin) - safe and easy, but expensive
 - Use [tax software for businesses](/guides/german-tax-software#tax-software-for-freelancers)
-- Use a business bank like [Kontist](/out/kontist) or [Holvi](/out/holvi)
+- Use a business bank like [Kontist](/out/kontist), [Holvi](/out/holvi) or [Qonto](/out/qonto)
 - Do it yourself with [[ELSTER]][^14]
 
 **Frequency:** How often you submit VAT returns depend on how much VAT you paid last year.[^31]
