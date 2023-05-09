@@ -106,7 +106,7 @@ You must get professional legal insurance. Private legal insurance does not cove
 
 **[What does legal insurance cover? ➞](/guides/legal-insurance)**
 
-[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance from multiple companies, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances, but it's only in German.
+[Muffin](/out/muffin-rechtsschutz) helps you choose legal insurance from multiple companies, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances, but it's only in German.
 
 ### Accounting costs
 

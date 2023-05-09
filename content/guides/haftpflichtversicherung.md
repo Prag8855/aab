@@ -112,7 +112,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), [Muffin](/out/muffin-haftpflicht) and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. [Muffin](/out/muffin-haftpflicht) is sells liability insurance from multiple companies, and they speak English.
 
 You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
@@ -122,11 +122,11 @@ You can also talk to an English-speaking insurance broker. They will help you pi
 
 I have liability insurance with [Feather](/out/feather-haftpflicht), but I have not used it yet. I chose them for a few reasons:
 
-- They helped me get private health insurance before. I trust their services.
-- I know their founder since many years, and met him multiple times. I trust him.
-- They speak English. Even their insurance contract is in English. I like the convenience.
-- They are a German company, and they only serve clients in Germany. I trust the
 - Their liability insurance meets all the requirements above.
+- They speak English. Even their insurance contract is in English. I like the convenience.
+- They helped me get [private health insurance](/glossary/private%20Krankenversicherung) before. I trust their services.
+- I know their founder since many years, and meet him regularly. I trust him.
+- They are a German company, based in Berlin.
 
 ## Other types of liability insurance
 
