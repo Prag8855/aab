@@ -25,7 +25,7 @@ If someone gets hurt because of you, you might pay thousands or even millions of
 
 83% of Germans have liability insurance.[^6] It costs around 5€ per month.
 
-[Muffin](/out/muffin-haftpflicht) helps you choose insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
+[Muffin](/out/muffin-haftpflicht) helps you choose insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. I got my liability insurance from Feather, but I have not used it. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
