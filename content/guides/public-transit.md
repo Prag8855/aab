@@ -71,7 +71,7 @@ There are many ways to buy a public transit ticket:
 - **In the tram**  
     There are ticket machines in every tram. It's a big yellow box near the middle of the tram. The old machines only accept coins. The new machines only accept cards.[^1]
 - **In the bus**  
-    You can buy tickets at the front of the bus, next to the driver. You must pay with a credit card, an EC Card, Android Pay or Apple Pay.[^2] You can't pay with cash.[^3]
+    You can buy tickets at the front of the bus, next to the driver. You must pay with a credit card, an EC Card, Android Pay or Apple Pay. You can't pay with cash.[^3]
 - **At [[S-Bahn]] and [[BVG]] service points**  
     There are a few [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). You can buy tickets there.
 
@@ -233,7 +233,6 @@ These tickets do not let you bring children and other people with you:[^12]
 - The 10AM card (*10-Uhr-Karte*)
 - The 65 Plus ticket.
 
-[^0]: [sbahn.berlin](https://sbahn.berlin/en/tickets/the-vbb-fare-explained/passenger-regulations/?acc=a7133-t1)
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
 [^3]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/bvg-verteidigt-rein-bargeldlosen-ticketkauf-beim-fahrer-6856978.html)
 [^4]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/vbb-umweltkarte/?acc=a3861-t1)

@@ -201,7 +201,6 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 
 **[How to use public transit ➞ Bicycles on public transit](/guides/public-transit#bicycles-on-public-transit)**
 
-[^0]: [pd-f.de](https://www.pd-f.de/2017/06/02/geklautes-fahrrad-gekauft-hat-das-folgen_11580)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b80fgm/im_thinking_of_buying_a_bicycle_on_shpock_but_i/ejw5zi1/)
 [^2]: [hanseaticbank.de](https://www.hanseaticbank.de/klarmacher/sparen/fahrrad-steuerlich-absetzen-nicht-nur-sprit-sondern-auch-geld-sparen#befreit)
 [^3]: [vanraam.com](https://www.vanraam.com/de-de/beratung-inspiration/aktuell/therapierad-uber-die-krankenkasse-anschaffen)

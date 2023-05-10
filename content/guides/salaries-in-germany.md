@@ -89,7 +89,6 @@ Almost everyone is paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If 
 
 [^0]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Realloehne-Nettoverdienste/Tabellen/liste-entwicklung-nettoverdienste.html)
 [^1]: [arbeitsagentur.de](https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=21424&topic_f=beschaeftigung-entgelt-entgelt), [focus.de](https://www.focus.de/finanzen/interaktive-karte-mit-3426-euro-gehoeren-sie-in-deutschland-zur-oberen-haelfte-jedoch-nicht-in-allen-regionen_id_13522236.html) (2020), [bz-berlin.de](https://www.bz-berlin.de/berlin/tabuthema-gehalt-das-verdienen-die-berliner) (2020)
-[^2]: [Settle in Berlin](https://www.settle-in-berlin.com/salary-in-berlin/)
 [^3]: [zoll.de](https://www.zoll.de/EN/Businesses/Work/Foreign-domiciled-employers-posting/Minimum-conditions-of-employment/Minimum-pay-pursuant-Minimum-Wage-Act/minimum-pay-pursuant-minimum-wage-act_node.html)
 [^4]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/_Grafik/_Interaktiv/beschaeftigungsverhaeltnisse-anteil-ml.html)
 [^5]: [wirtschaftsforum.de](https://www.wirtschaftsforum.de/tipps/13-monatsgehalt-das-muessen-sie-darueber-wissen)
