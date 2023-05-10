@@ -50,7 +50,7 @@ Here are a few examples where your legal insurance can help:
 - **Problem with a government office**  
     For example, if you have problems with the *[[Finanzamt]]* or the *[[Bürgeramt]]*. Immigration problems are rarely covered.[^39]
 - **Problem with another insurance**  
-    For example, if your disability insurance won't pay, or if you had a car accident and the other person's insurance won't pay.[^4] This is very common: 25% of disability insurance claims are refused.[^5]
+    For example, if your [disability insurance](/glossary/Berufsunfähigkeitsversicherung) won't pay, or if you had a car accident and the other person's insurance won't pay.[^4] This is very common: 25% of disability insurance claims are refused.[^5]
 - **You want to sue someone for damages**  
     For example, a car hit you when you were on your bicycle,[^6] or someone punched you in the face, and you want to sue them.
 
