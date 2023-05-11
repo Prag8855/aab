@@ -146,6 +146,7 @@ config.renderers += (
 
 config.linters = (
     'extensions.linters.footnotes.FootnoteLocationLinter',
+    'extensions.linters.footnotes.OrphanFootnotesLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
     # 'extensions.linters.places.PlacesLinter',
