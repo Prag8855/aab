@@ -6,9 +6,13 @@ Date_created: 2019-06-29
 Related_reviews: reviews/ottonova-review/daniel-derosa.md
 ---
 
-[Ottonova](/out/ottonova) is an insurance company in Germany. They sell [private health insurance](/glossary/private%20Krankenversicherung) and [dental insurance](/glossary/Zahnzusatzversicherung). They are popular with immigrants, because they speak English, and their health insurance is [valid for a visa application](/guides/german-visa-health-insurance).
+[Ottonova](/out/ottonova) is an insurance company in Germany. They sell [private health insurance](/glossary/private%20Krankenversicherung) and [dental insurance](/glossary/Zahnzusatzversicherung).
 
-**[Ottonova's website ➞](/out/ottonova)**
+They are popular with immigrants for 3 reasons:
+
+- They speak English
+- Their health insurance is valid for a [residence permit](/glossary/Aufenthaltstitel) application
+- They advertise everywhere
 
 This guide explains **why Ottonova is not that great**, and what you should choose instead.
 
@@ -16,11 +20,11 @@ This guide explains **why Ottonova is not that great**, and what you should choo
 
 ## Why does everyone recommend Ottonova?
 
-**Because they get paid to do it.** If a blogger convinces you to buy Ottonova insurance, they get 500€.[^0] If they say bad things about Ottonova, you don't choose Ottonova, and they don't make 500€. They don't want to inform you; they want to sell you something.
+**Because they get paid to do it.** If a blogger convinces you to buy Ottonova insurance, they get 500€.[^0] If they say bad things about Ottonova, you don't choose Ottonova, and they don't make 500€. Other companies also do this; Ottonova just pays better.
 
-It does not mean that Ottonova is bad. It means that Ottonova recommendations are not honest. Most bloggers are not Ottonova customers, and they know nothing about German health insurance. Do not listen to them.
+That does not mean that Ottonova is bad, but it means that these recommendations are not honest. Most bloggers are not Ottonova customers, and they know nothing about German health insurance. They don't try to inform you, they try to sell you something.
 
-This review is fair and honest. I have talked with many health insurance brokers, I have read hundreds of Ottonova reviews and I have read their financial documents. I tell you the facts, and you decide what to do.
+This review is fair and honest. I have talked with many health insurance brokers, I have read hundreds of Ottonova reviews, and I have read their financial documents. I tell you the facts, and you decide what to do.
 
 ## What should you know?
 
@@ -48,13 +52,13 @@ Compared to other private health insurances, Ottonova is a little expensive. If 
 
 [Ottonova](/out/ottonova) has 24/7 English-speaking customer service. If you don't speak German, this is very important.
 
-Public health insurers like [Techniker Krankenkasse](/guides/techniker-krankenkasse-review), [AOK](/out/feather-aok) and [Barmer](/glossary/Bar) *unofficially* have English-speaking customer service. Their website is in German, but you can easily get help in English.
+Public health insurers like [Techniker Krankenkasse](/guides/techniker-krankenkasse-review), [AOK](/out/feather-aok) and [Barmer](/out/barmer) *unofficially* have English-speaking customer service. Their website is in German, but you can easily get help in English.
 
 If you get health insurance from an English-speaking insurance broker, you can always get help from your broker. They can help you make insurance claims, and answer your insurance questions.
 
 ### It's a young insurance company
 
-[Ottonova](/out/ottonova) is a very small health insurer, and **it's not profitable**. They lost 1.5 million euros in 2018,[^9] 2.4 million in 2019,[^10] 3.1 million euros in 2020, and 2.1 million euros in 2021.[^8] Ottonova is growing fast, but for now, it's losing money.[^7]
+[Ottonova](/out/ottonova) is a very small health insurer, and **it's not profitable**. They lost 1.5 million euros in 2018, 2.4 million in 2019, 3.1 million euros in 2020, and 2.1 million euros in 2021. Ottonova is growing fast, but for now, it's losing money.[^7]
 
 They are in business since 2017.[^3] In 2018, they had 406 members.[^4] In 2019, they had 4,480 members, but only 860 had health insurance.[^5] In 2021, they had 14,050 members, but only 1,854 had health insurance.[^6] This is very little for a health insurer.
 
@@ -64,7 +68,7 @@ If you only live in Germany for a few years, this is not important. If you plan 
 
 ## Summary
 
-Ottonova is okay. There is nothing special about it. You can **[get a quote from Ottonova](/out/ottonova)**, and decide if it works for you. It's better if a health insurance broker helps you choose health insurance.
+Ottonova is okay. It's not *bad*, but it's also not special. You can **[get a quote from Ottonova](/out/ottonova)**, and decide if it works for you. It's better if a health insurance broker helps you choose health insurance.
 
 ### Pros
 
@@ -77,8 +81,6 @@ Ottonova is okay. There is nothing special about it. You can **[get a quote from
 - It's not the cheapest health insurer.
 - It's not special. There are hundreds of other options.
 
-You can read more about Ottonova on [the Ottonova website](/out/ottonova).
-
 ### Other options
 
 There are hundreds of health insurance options. The best option depends on your situation, and your plans for the future.
@@ -87,20 +89,16 @@ You should:
 
 1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-visa-health-insurance). My [health insurance calculator](/tools/health-insurance-calculator) shows what your options are.
 2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free.
+3. If it still makes sense, [get a quote from Ottonova](/out/ottonova), and decide if it works for you.
 
 {% include 'blocks/_healthInsuranceQuestion.html' %}
 
 You can use [Tarifcheck](/out/tarifcheck-health) to compare private health insurance prices. I don't recommend it. Tarifcheck only shows you the prices, not what works best for your situation.
 
 [^0]: [ui.awin.com](https://ui.awin.com/merchant-profile/15971)
-[^1]: [play.google.com](https://play.google.com/store/apps/details?id=de.tk.tkapp&hl=en&gl=US)
-[^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/376574-health-insurance-ottonova-anyone-have-experience-with-them/?page=2)
 [^3]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://www.ottonova.de/unternehmen)
 [^4]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-ottonova-bekommt-60-millionen-euro-frisches-kapital/25266338.html), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
 [^5]: [startbase.com](https://www.startbase.com/news/ottonova-veroeffentlicht-neue-zahlen/)
 [^6]: [versicherungsbote.de](https://www.versicherungsbote.de/id/4904689/Ottonova-waechst-auf-fuenfstellige-Kundenzahl/)
-[^7]: [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2020.pdf), [assets.ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2021.pdf)
-[^9]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2018.pdf)
-[^10]: [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
+[^7]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2018.pdf), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2020.pdf), [assets.ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2021.pdf)
 [^11]: [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsame_Betriebskrankenkasse_K%C3%B6ln)
-[^12]: [allaboutberlin.com](/out/ottonova)
