@@ -28,15 +28,15 @@ Tax software for self-employed people can handle invoicing, bookkeeping, [VAT re
 English-speaking options:
 
 - [Accountable](/out/accountable)
+- [sevDesk](/out/sevdesk)
 - [Sorted](/out/sorted-taxes)
 
 German-speaking options:
 
 - [Lexoffice](/out/lexoffice) (this is what I use)
-- [sevDesk](/out/sevdesk)
 - [FastBill](/out/fastbill)
 
-Some business banks help you with invoicing, bookkeeping and [VAT reporting](/glossary/Umsatzsteuervoranmeldung). I don't recommend them. You can have a good bank or good tax software, but you can't have both in one product.
+Some business banks help you with invoicing, bookkeeping and [VAT reporting](/glossary/Umsatzsteuervoranmeldung). I don't recommend them. You can have a good bank or good tax software, but you can't have both in one product. Keep those services separate.
 
 These banks help with your accounting:
 
