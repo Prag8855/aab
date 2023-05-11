@@ -99,7 +99,7 @@ Public health insurance covers **all necessary healthcare**. Important treatment
 
 When you visit the doctor, you give your insurance card, and they charge the insurance company directly. If a treatment is not covered, you know before you start.
 
-Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get dental insurance to get better coverage.
+Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
 Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to pay for them yourself.
 
