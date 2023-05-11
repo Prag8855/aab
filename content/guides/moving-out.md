@@ -19,8 +19,7 @@ You must cancel before the 3rd [work day](/glossary/Werktag) of the month. For e
 
 ### How to end your lease sooner
 
-You can ask your landlord to end your lease sooner.[^31] You help them find a new tenant, and you leave when the new tenant   
-moves in. It's easier for you and for the landlord, but the landlord can refuse to do that.[^32] If they say no, you must pay the rent until your lease ends.
+You can ask your landlord to end your lease sooner.[^31] You help them find a new tenant, and you leave when the new tenant moves in. It's easier for you and for the landlord, but the landlord can refuse to do that.[^32] If they say no, you must pay the rent until your lease ends.
 
 Sometimes, the landlord lets you end your lease sooner if you pay a fee. There is no standard fee, but one month of [warm rent](/glossary/Warmmiete) is common.
 
