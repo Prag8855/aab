@@ -13,10 +13,10 @@ This guide explains who can be a *Kleinunternehmer*, and when it makes sense to 
 
 ## What is a Kleinunternehmer?
 
-A *Kleinunternehmer* is a small business that follows 2 conditions:[^1]
+You are a *Kleinunternehmer* if:[^1]
 
-- last year's [revenue](/glossary/Umsatz) was less than {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
-- and this year's *expected* revenue is less than {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
+- last year, you [revenue](/glossary/Umsatz) was below {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
+- **and** this year, your *expected* revenue is below {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
 
 If you are a *Kleinunternehmer*, you can:
 
@@ -48,14 +48,13 @@ Your [revenue](/glossary/Umsatz) counts, not just your [profit](/glossary/Gewinn
 
 > **Example:** You have a 70,000€ revenue. Your business expenses are 50,000€. You make 20,000€ in profit. You are not a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
 
-Only your self-employed revenue counts. Revenue from your job is does not count.
+Only your self-employed revenue counts. Revenue from your job does not count.
 
 > **Example:** You make 40,000€ per year working in a factory. You have a side business that makes 5,000€ per year. You can be a *Kleinunternehmer*, because your self-employed revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
 
-The limit is {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year in total, not for each business.
+The limit is {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year for your total self-employed revenue, not for each business.[^4]
 
-> **Example:** You have two businesses. One business makes 15,000€ per year, and the other makes 20,000€ per year. You can't be a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
-
+> **Example:** You have two businesses. One business makes 15,000€ per year, and the other makes 20,000€ per year. You can't be a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. 
 
 ## How the revenue limit works
 
