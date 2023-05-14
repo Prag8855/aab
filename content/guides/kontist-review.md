@@ -5,7 +5,7 @@ Description: I use Kontist as my business bank since January 2022. All of my bus
 Date_created: 2023-03-10
 ---
 
-[Kontist](/out/kontist) is a German bank. They offer business bank accounts ([*Geschäftskonto*](/glossary/Gesch%C3%A4ftskonto)) for freelancers.
+[Kontist](/out/kontist) is a German bank. They offer a business bank account (*[[Geschäftskonto]]*) for freelancers.
 
 I use Kontist as my main business account since January 2022. This is my review of Kontist, feature by feature.
 
@@ -17,7 +17,7 @@ I use Kontist as my main business account since January 2022. This is my review 
 
 A Kontist account costs [9€ to 13€ per month](/out/kontist-plans). Other banks have similar monthly fees.
 
-The other fees are excessive:
+The other fees are too high:
 
 - 10 free transactions per month, then 0.15€ per transaction (incoming and outgoing).
 - 1.7% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around 17€ in fees.
@@ -187,7 +187,7 @@ They usually answer in 1 business day. They give complete and helpful answers, a
 
 ## Tax advisor service
 
-Kontist has a tax advisor service. I already have a tax advisor, so I don't use it. They also had a bookkeeping service, but discontinued it October 2022. They still advertise it in the app.
+Kontist has a [tax advisor](/glossary/Steuerberater) service. I already have a tax advisor, so I don't use it. They also had a bookkeeping service, but discontinued it October 2022. They still advertise it in the app.
 
 Your bank and your tax advisor should be two independent services. You should be able to change one and keep the other. This is why I don't recommend Kontist's tax advisor service.
 
@@ -199,13 +199,13 @@ I opened my Kontist account in 10 minutes: 5 minutes to create the account, and 
 
 You only need a phone and an ID document. You don't need a registered address (*[[Anmeldung]]*). Kontist uses IDNow to verify your ID.[^2] Some passports are not supported by IDNow. Other online banks have the same problem.
 
-Only freelancers, small businesses and sole traders can open an account. Corporations and partnerships (GmbH, KG, UG, or GbR) are not allowed.[^5]
+Only freelancers, [small businesses](/glossary/Kleinunternehmer) and sole traders can open an account. Corporations and partnerships (GmbH, KG, UG, or GbR) are not allowed.[^5]
 
 ## Conclusion
 
 **I don't recommend Kontist.** There is no reason to choose them over another business bank. The fees are too high, and the promised features are not good enough.
 
-Kontist was supposed to make my bookkeeping easier. It does not do that better than other banks.
+Kontist was supposed to make my bookkeeping easier, but makes too many errors, so I can't trust it.
 
 ### The good
 
@@ -225,15 +225,19 @@ Kontist was supposed to make my bookkeeping easier. It does not do that better t
 
 ### Don't trust what you read
 
-Bloggers get paid to recommend Kontist.[^7] When you open an account, they get around 50€. If they tell you that Kontist is bad, they make less money. They would not know, because they never used it.
+Bloggers get paid to promote Kontist.[^7] When you open an account, they get around 50€. If they tell you that Kontist is bad, they make less money. They don't know if Kontist is good or bad, because they don't use it.
 
 Read [reviews from real users](https://www.trustpilot.com/review/kontist.com) instead, and decide for yourself.
 
 ## Konstist alternatives
 
-If you need a business bank account to start a business in Germany, there are many other options.
+If you need a business bank account to [start a business in Germany](/guides/start-a-business-in-germany), there are many other options.
 
-I recommend to your bank, your accounting software and your tax advisor as 3 separate services. I use [Lexoffice](/out/lexoffice) for my bookkeeping, and I recommend it. My tax advisor is Suat Göydeniz.
+Your bank, your accounting software and your tax advisor should be 3 different services. You can't find one business that does 3 things well. You should find 3 businesses that do one thing well.
+
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+**[German tax software for businesses ➞](/guides/german-tax-software)**
 
 **Other German business banks:**
 
@@ -242,7 +246,7 @@ I recommend to your bank, your accounting software and your tax advisor as 3 sep
 - **[Holvi](/out/holvi)**  
     Very similar to Kontist. They have better invoicing and better reports. Your tax advisor can access your account and export transactions.
 - **[Qonto](/out/qonto)**  
-    Similar to Kontist. They let corporations and partnerships open an account.
+    Similar to Kontist. Corporations and partnerships can also open an account.
 - **[bunq Business](/out/bunq-business)**  
     Exactly like bunq personal accounts, but for businesses. They speak English.
 - **[Revolut Business](/out/revolut-business)**  
@@ -253,12 +257,6 @@ I recommend to your bank, your accounting software and your tax advisor as 3 sep
     German-speaking business bank.
 - **Traditional banks**
     Commerzbank, Deutsche Bank and other large German banks all offer business accounts. They might not speak English.
-
-**Other accounting and bookkeeping tools:**
-
-- [Accountable](/out/accountable) - English and German
-- [Sorted](/out/sorted) - English and German
-- [Lexoffice](/out/lexoffice) - German only. It's the software I use.
 
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)
 [^2]: [intercom.help](https://intercom.help/kontist/en/articles/1559634-which-passports-are-accepted-for-video-verification)
