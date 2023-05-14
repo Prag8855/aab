@@ -66,6 +66,5 @@ These directories help you find English-speaking psychiatrists:
 
 **[List of mental health resources ➞](/guides/english-speaking-psychotherapists-berlin#other-resources)**
 
-[^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
 [^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)
 [^2]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [karriere.de](https://www.karriere.de/studium/unterschied-psychologe-psychotherapeut-psychiater/)

@@ -95,7 +95,6 @@ No matter what you do, **do not fake letters of intent**. This is fraud, and it'
 
 [^0]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
-[^2]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1890290804384628/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1531618633585182/)
 [^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de (archived)](https://web.archive.org/web/20210505231153/https://berlin.de/willkommenszentrum/en/work-and-education/freelance-work/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^5]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1667488453331532/)
 [^6]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/)

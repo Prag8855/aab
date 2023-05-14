@@ -84,7 +84,7 @@ Tax advisor fees are [tax-deductible](/glossary/steuerlich%20absetzbar).[^0]
 
 ## Alternatives to a tax advisor
 
-Tax advisors are expensive and hard to find. Most of them refuse new clients. There are other ways to do your taxes in Germany.
+Tax advisors are expensive and hard to find.[^5] Most of them refuse new clients. There are other ways to do your taxes in Germany.
 
 ### Tax software
 
@@ -126,3 +126,4 @@ If you want the flexibility of a freelancer and the stability of a job, it's a g
 [^2]: [bubolz-bartsch.de](https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/), [reddit.com](https://www.reddit.com/r/FragReddit/comments/upzib1/lohnt_sich_ein_lohnsteuerhilfeverein_oder_reicht/)
 [^3]: [bubolz-bartsch.de](https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/#:~:text=wen%20darf%20der%20lohnsteuerhilfeverein%20nicht%20beraten%3F)
 [^4]: [bubolz-bartsch.de](https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/#:~:text=kosten%20bei%20einem%20steuerverein)
+[^5]: [reddit.com/r/finanzen](https://old.reddit.com/r/Finanzen/comments/scgrpu/steuerberater_als_freelancer/hu64wbv/)
