@@ -13,7 +13,7 @@ This guide explains who can be a *Kleinunternehmer*, and when it makes sense to 
 
 ## What is a Kleinunternehmer?
 
-You are a *Kleinunternehmer* if:[^1]
+You are a *Kleinunternehmer* if...[^1]
 
 - last year, you [revenue](/glossary/Umsatz) was below {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
 - **and** this year, your *expected* revenue is below {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
