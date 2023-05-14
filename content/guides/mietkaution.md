@@ -17,7 +17,7 @@ The *[Mietkaution](/glossary/Kaution)* is **maximum 3 times the [cold rent](/glo
 
 ### Short-term rentals
 
-**The rules are the same** for furnished apartments and short-term rentals: maximum 3 times the [cold rent](/glossary/Kaltmiete),[^13] but it's often less for short-term rentals.
+**The rules are the same** for short-term apartments: maximum 3 times the [cold rent](/glossary/Kaltmiete),[^13] but it's often less.
 
 ## When to pay the Kaution
 
