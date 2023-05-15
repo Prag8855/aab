@@ -2,10 +2,17 @@
 Title: What is a residence permit (Aufenthaltstitel)?
 German_term: Aufenthaltstitel
 English_term: Residence permit
-Description: 
+Description: A long-term visa to live and work in Germany. It's also called Aufenthaltserlaubnis.
 Date_created: 2018-07-31
-Date_updated: 2022-08-26
-Related_guides: guides/find-a-job-in-berlin.md, guides/how-to-get-a-german-freelance-visa.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/start-a-business-in-germany.md, guides/moving-to-berlin.md, guides/german-work-visa-to-freelance-visa.md, guides/become-a-freelancer-in-germany.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md, guides/gewerbeschein.md, guides/ksk-kuenstlersozialkasse.md, guides/residence-permit.md
+Related_guides:
+    guides/residence-permit.md
+    guides/find-a-job-in-berlin.md
+    guides/how-to-get-a-german-freelance-visa.md
+    guides/moving-to-berlin.md
+    guides/german-work-visa-to-freelance-visa.md
+    guides/become-a-freelancer-in-germany.md
+    guides/german-work-visa.md
+    guides/german-visa-health-insurance.md
 ---
 
 A German visa allows you to enter Germany. A German residence permit (*Aufenthaltstitel* or *Aufenthaltserlaubnis*) allows you to live in Germany.
