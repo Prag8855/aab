@@ -4,8 +4,9 @@ German_term: Krankschreibung
 English_term: Sick note
 Description: Sick note from a doctor to take a sick day.
 Date_created: 2020-03-10
-Date_updated: 2022-09-07
-Related_guides: guides/coronavirus.md, guides/vacation-days.md, guides/sick-leave.md
+Related_guides: 
+    guides/vacation-days.md
+    guides/sick-leave.md
 ---
 
 A sick note (*Krankschreibung*, *Arbeitsunfähigkeitsbescheinigung*, *AU-Bescheinigung* or *gelber Schein*) is a document you get from a doctor. It confirms that you are sick, and that you should get [sick leave](/guides/sick-leave).

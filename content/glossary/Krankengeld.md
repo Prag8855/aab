@@ -4,7 +4,10 @@ German_term: Krankengeld
 English_term: Sick pay
 Description: The money your employer or health insurance pays you when you are too sick to work.
 Date_created: 2020-03-04
-Related_guides: guides/become-a-freelancer-in-germany.md, guides/coronavirus.md, guides/vacation-days.md, guides/sick-leave.md
+Related_guides:
+    guides/vacation-days.md
+    guides/sick-leave.md
+    guides/become-a-freelancer-in-germany.md
 ---
 
 If you are an employee, you get sick pay (*Krankengeld*) when you are too sick to work. For the first 6 weeks, you are paid your full salary. After 6 weeks, you only get 70% of your salary.[^0]

@@ -131,7 +131,7 @@ This means that...
 - **You work for profit**  
     It's a business, not a hobby. You must charge money for your services.
 - **You make at least {{KSK_MIN_INCOME|cur}}€ per year**   
-    You must make at least {{KSK_MIN_INCOME|cur}}€ in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below {{KSK_MIN_INCOME|cur}}€ per year 2 times every 6 years.[^18] There is no maximum income.[^19] This does not apply from 2020 to 2022 because of the coronavirus pandemic.
+    You must make at least {{KSK_MIN_INCOME|cur}}€ in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below {{KSK_MIN_INCOME|cur}}€ per year 2 times every 6 years.[^18] There is no maximum income.[^19]
 
 ### You are self-employed
 
