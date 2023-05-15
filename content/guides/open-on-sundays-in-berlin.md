@@ -32,6 +32,7 @@ Those train station supermarkets open on Sundays:[^0]
 - [Hauptbahnhof](https://goo.gl/maps/GhQgnFVGQ63frsMV9) (Mitte): [SPAR Express](https://goo.gl/maps/Yn2ewT3PS27GcLvu9) and [REWE City](https://goo.gl/maps/AFGc4tZ8hVSZFie29)
 - [Lichtenberg](https://goo.gl/maps/Bs15P78jwAxAmnYM9): [Edeka](https://goo.gl/maps/kRz1Ryj4MpESzeAo7)
 - [Ostbahnhof](https://goo.gl/maps/JevkYf3VbVWUP8wq7) (Friedrichshain): [REWE](https://goo.gl/maps/YRN5AhniErckRtQc7) and [Penny](https://goo.gl/maps/X6KDyzZQKfkxBkRZA)
+- [Ostkreuz](https://goo.gl/maps/cZwYf3byoQvgNMHPA) (Friedrichshain): [Denn's Biomarkt](https://goo.gl/maps/fGYmtoMxbaJgDi88A)
 - [Potsdamer Platz](https://goo.gl/maps/7ZFBsMzS1KGZchE36) (Mitte): Spar Express and [go asia](https://goo.gl/maps/UmKhL6oN58TjaK5s9)
 - [Südkreuz](https://goo.gl/maps/4oQxTmyQGkdMGEYT6) (Schöneberg): [Edeka](https://goo.gl/maps/QT3kv7QwvvfdseQy7)
 - [Zoologischer Garten](https://goo.gl/maps/bAT6otC1fZFvyq5z7) (Charlottenburg): [Ullrich](https://goo.gl/maps/qFxfHAstAYaKTsTb6)
