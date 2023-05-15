@@ -176,7 +176,7 @@ If you are American, you need extra forms to open a German bank account, because
 
 ### Open a bank account online
 
-Some banks like [bunq](/out/bunq), [Comdirect](/out/comdirect), [DKB](/out/dkb), [ING](/out/ing), [Monese](/out/monese), [N26](/out/n26), [Revolut](/out/revolut) and [Wise](/out/wise-account) let you open an account with their app. You can do it at home. They start a video call, and they ask you to show both sides of your ID or passport. This only works with passports from certain countries.[^51] If they don't accept your passport, you must use [[Postident]] to verify your documents. This takes longer, and it doesn't always work.
+Some banks like [N26](/out/n26),[bunq](/out/bunq), [DKB](/out/dkb), [ING](/out/ing), [Comdirect](/out/comdirect), [Revolut](/out/revolut) and [Wise](/out/wise-account) let you open an account with their app. You can do it at home. They start a video call, and they ask you to show both sides of your ID or passport. This only works with passports from certain countries.[^51] If they don't accept your passport, you must use [[Postident]] to verify your documents. This takes longer, and it doesn't always work.
 
 With online banks, you can sometimes open your account from another country, before you arrive in Germany. They still need to send your bank card to a German address. Some people sent the bank card to their office, or to a friend's address.
 
