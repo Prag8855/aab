@@ -7,11 +7,9 @@ Date_created: 2018-08-15
 Related_guides: guides/anmeldung-in-english-berlin.md
 ---
 
-German tax classes (*Steuerklassen*) decide how much [salary tax](/glossary/Lohnsteuer) you pay. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only affects how much income tax you pay *in advance*, as salary tax.
+Your tax class (*Steuerklasse*) decides how much [salary tax](/glossary/Lohnsteuer) you pay. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only affects how much income tax you pay *in advance*, as salary tax.
 
-There are 6 tax classes (*Steuerklassen*) in Germany. Your tax class depends on your situation.
-
-If you are self-employed, you usually don't have a tax class.
+There are 6 tax classes (*Steuerklassen*). Your tax class depends on your situation.
 
 | Tax class | Description |
 |-----------|-------------|
@@ -21,5 +19,7 @@ If you are self-employed, you usually don't have a tax class.
 | IV        | Married couples when both spouses work. |
 | V         | If you are married, and your spouse is in tax class III. |
 | VI        | Worker who receives a wage from multiple employers. You a pay much more [salary tax](/glossary/Einkommensteuer). If you don't have a [tax ID](/glossary/Steueridentifikationsnummer) yet, your employer might put you in this tax class. |
+
+If you are self-employed, you usually don't have a tax class, because you don't pay salary tax.
 
 **[How taxes work in Germany ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**
