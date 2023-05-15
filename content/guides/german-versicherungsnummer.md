@@ -1,12 +1,14 @@
 ---
 Title: How to find your Sozialversicherungsnummer
 Short_title: Your Sozialversicherungsnummer
-Description: Here is how you obtain your Sozialversicherungsnummer, Versicherungsnummer, Rentenversicherungsnummer or RNVR, the number you must give your employer to get paid.
+Description: This is how you find you German social insurance number or social security number. In German, it's also called Versicherungsnummer, Rentenversicherungsnummer or RNVR.
 Date_created: 2018-03-18
-Related_reviews: reviews/german-versicherungsnummer/johannes-kühn.md, reviews/german-versicherungsnummer/daniel-derosa.md
+Related_reviews:
+    reviews/german-versicherungsnummer/johannes-kühn.md
+    reviews/german-versicherungsnummer/daniel-derosa.md
 ---
 
-The [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung) uses your *Sozialversicherungsnummer* to identify you. It looks like this: **12 123456 A 123**. It's a unique number, and it never changes.
+The *[[Deutsche Rentenversicherung]]* uses your *Sozialversicherungsnummer* to identify you. It looks like this: **12 123456 A 123**. It's a unique number, and it never changes.
 
 In German, it's called *Sozialversicherungsnummer*, *Rentenversicherungsnummer*, *SVNR* or *RNVR*. It's sometimes called *Versicherungsnummer*, but this could mean something else, like your health insurance number.
 
