@@ -445,10 +445,12 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 .form{margin:var(--spacing-m) 0}
 	.form h2{margin:var(--spacing-l) 0 var(--spacing-m);padding:0;border-top:none}
 	.form:last-child{margin-bottom:0}
-	.form-group{display:grid;margin:var(--spacing-m) 0;grid-template-columns:240px 1fr;grid-gap:var(--spacing-m)}
+	.form-group{display:grid;margin:var(--spacing-m) 0;grid-template-columns:190px 1fr;grid-gap:var(--spacing-m)}
+		.pension-refund-calculator .form-group{grid-template-columns:215px 1fr;}
 		.form-recipient{display:flex;align-items:center;}
 			.form-recipient img{width:125px;height:125px;border:none;margin-right:var(--spacing-m);border-radius:100%}
 			.form-recipient p{margin:0}
+		.form-group > input, .form-group > select{align-self:center;}
 	input:not([type=range]), textarea, select, .toggle, .date-picker{flex:1 1 auto;border-radius:var(--border-radius);appearance:none;background:var(--color-background-input);max-width:100%;line-height:var(--line-height-compact)}
 		input[type=date], input[type=text], input[type=number], input[type=tel], input[type=email], input[type=search], .toggle, .date-picker{box-sizing:border-box;font-family:var(--font-family-text);border:var(--border-input);font-size:var(--font-size-m);font-weight:var(--font-weight-text);margin:0;padding:var(--padding-input);color:var(--color-text);transition:var(--transition-border);padding-right:0}
 			input[type=number] {-moz-appearance: textfield;}
@@ -466,7 +468,7 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 		textarea, select{border-radius:var(--border-radius);box-sizing:border-box;font-family:var(--font-family-text);border:var(--border-input);font-size:var(--font-size-m);font-weight:var(--font-weight-text);padding:var(--padding-input);margin:0;color:var(--color-text);transition:var(--transition-border)}
 			textarea{flex-grow:1;width:auto;height:60px;transition:height 0.2s, var(--transition-border);max-width:100%;margin:0;resize:none;}
 			textarea:focus{height:150px;transition:height 0.2s}
-			select{overflow-x:hidden;background-image:var(--background-select-arrow);background-position:center right var(--spacing-s);background-size:var(--spacing-m);background-repeat:no-repeat;padding-right:20px;text-overflow:ellipsis;}
+			select{overflow-x:hidden;background-image:var(--background-select-arrow);background-position:center right var(--spacing-s);background-size:var(--spacing-m);background-repeat:no-repeat;padding-right:20px;text-overflow:ellipsis;max-width:400px}
 				select option{margin:0;padding:0}
 		input:focus, textarea:focus, select:focus, .date-picker:focus-within, .search-form:focus-within, input:hover, textarea:hover, select:hover, .toggle:hover, .date-picker:hover, .search-form:hover{outline:none;box-shadow:none;border-color:var(--color-border-input-focused);transition:none}
 			.checkbox input:focus-visible{outline-color:var(--color-link)!important;border:2px solid var(--color-link)}
@@ -549,9 +551,9 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 
 		.options.guides + .options.guides{border-top:var(--border-page);padding-top:var(--spacing-l);margin:var(--spacing-l) 0}
 			.options.guides > * {box-shadow:var(--box-shadow-m)}
-.radio-options{}
-	.radio-options > .checkbox{cursor:pointer;display:grid;grid-template-columns:auto 1fr;grid-gap:var(--spacing-m);align-items:center;text-align:left;text-decoration:none;}
-	.radio-options > * + *{margin-top:var(--spacing-m);padding-top:0;border-top:none}
+.checkbox-group{}
+	.checkbox-group > .checkbox{cursor:pointer;display:grid;grid-template-columns:auto 1fr;grid-gap:var(--spacing-m);align-items:center;text-align:left;text-decoration:none;}
+	.checkbox-group > * + *{margin-top:var(--spacing-m);padding-top:0;border-top:none}
 
 
 #places{display:grid;grid-template-columns:1fr minmax(200px,300px);height:450px;grid-gap:var(--spacing-m);margin:var(--spacing-l) 0 0;border:var(--border-page);border-radius:var(--border-radius);}
@@ -672,7 +674,7 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 		.health-insurance-options > * img, .form-group .health-insurance-options > * svg{display:none;}
 		.form-group .options{grid-gap:var(--spacing-s)}
 
-	.radio-options > *:first-child{margin-top:var(--spacing-s)}
+	.checkbox-group > *:first-child{margin-top:var(--spacing-s)}
 
 	.download-buttons {grid-template-columns:1fr;}
 
@@ -680,7 +682,7 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 		.column-with-pie-chart{grid-template-columns:1fr}
 			.column-with-pie-chart > .pie-chart{width:200px;max-width:100%;margin-left:auto;margin-right:auto;}
 
-	.form-group{grid-template-columns:1fr;grid-gap:var(--spacing-s)}
+	.form-group{grid-template-columns:1fr!important;grid-gap:var(--spacing-s)}
 		.form-group > label, .form-group > .label{font-weight:bold;}
 		.form-recipient img{width:100px;height:100px}
 
