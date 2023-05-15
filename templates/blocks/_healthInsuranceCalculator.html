@@ -152,6 +152,7 @@
         </div>
         <div v-show="showOptions">
             <div v-if="result.flags.has('familienversicherung-parents') || result.flags.has('familienversicherung-spouse') || occupation === 'unemployed' || result.flags.has('ehic')">
+                <h3>Free health insurance</h3>
                 <p>In your case, there are ways to get insured for free.</p>
                 <div class="health-insurance-options">
                     <div v-if="result.flags.has('familienversicherung-parents') || result.flags.has('familienversicherung-spouse')">
@@ -167,7 +168,7 @@
                         {% endraw %}{% include "css/icons/bank.svg" %}{% raw %}
                         <div>
                             <h3>ALG I or II</h3>
-                            <p>If you get <a href="https://allaboutberlin.com/glossary/ALG+I" target="_blank">ALG I</a> or <a target="_blank" href="https://allaboutberlin.com/glossary/ALG+II">ALG II</a>, you don't pay for health insurance. The Jobcenter pays for it.</p>
+                            <p>If you get <a href="/glossary/ALG+I" target="_blank">ALG I</a> or <a target="_blank" href="/glossary/ALG+II">ALG II</a>, you don't pay for health insurance. The Jobcenter pays for it.</p>
                         </div>
                         <output>Free</output>
                     </div>
@@ -181,7 +182,8 @@
                     </div>
                 </div>
             </div>
-            <p>You can get <strong>public health insurance</strong>. There are over 100 public health insurers in Germany. TK, AOK and Barmer are the biggest ones.</p>
+            <h3>Public health insurance</h3>
+            <p>You can get <a href="/glossary/gesetzliche Krankenversicherung" target="_blank">public health insurance</a>. There are many <a href="/glossary/Krankenkasse" target="_blank">public health insurers</a> to choose from. Their price and coverage is almost the same.</p>
             <div class="health-insurance-options">
                 <div>
                     <img title="Techniker Krankenkasse" loading="lazy" alt="Techniker Krankenkasse logo" src="/staticimages/health-insurance-calculator/logo-tk.svg" width="954" height="954"/>
@@ -209,47 +211,50 @@
                     <a target="_blank" title="Sign up with AOK" role="button" class="button" href="https://allaboutberlin.com/out/aok-calc"><output v-html="eur(result.options.aok.total.personalContribution, false, true, false)"></output> <small>/ month</small></a>
                 </div>
             </div>
-            <p v-if="result.flags.has('private')">In your case, you can also get <strong>private health insurance</strong>. It might be better and cheaper for you.</p>
-            <div class="health-insurance-options" v-if="result.flags.has('private')">
-                <div>
-                    {% endraw %}{% include "css/icons/help.svg" %}{% raw %}
+            <div v-if="result.flags.has('private')">
+                <h3>Private health insurance</h3>
+                <p>You can also get <a href="/glossary/private Krankenversicherung" target="_blank">private health insurance</a>. It can be better and cheaper than public health insurance. The price and coverage vary a lot.</p>
+                <div class="health-insurance-options">
                     <div>
-                        <h3>Talk to a broker</h3>
-                        <p>A <a target="_blank" href="https://allaboutberlin.com/guides/german-health-insurance#insurance-brokers">health insurance broker</a> can help you choose the best insurance for your situation. It's the best way to get private health insurance. Their help is free.</p>
+                        {% endraw %}{% include "css/icons/help.svg" %}{% raw %}
+                        <div>
+                            <h3>Talk to a broker</h3>
+                            <p>A health insurance broker can help you choose the best insurance for your situation. It's the best way to get private health insurance. Their help is free.</p>
+                        </div>
+                        <a class="button" target="_blank" href="https://allaboutberlin.com/guides/german-health-insurance#insurance-brokers">Talk to a broker</a>
                     </div>
-                    <a class="button" target="_blank" href="https://allaboutberlin.com/guides/german-health-insurance#insurance-brokers">Talk to a broker</a>
-                </div>
-                <div>
-                    <img title="Tarifcheck" loading="lazy" alt="Tarifcheck logo" src="/staticimages/health-insurance-calculator/logo-tarifcheck.svg" width="220" height="38"/>
                     <div>
-                        <h3>Tarifcheck</h3>
-                        <p>Tarifcheck compares private health insurance prices. It only shows you prices. It does not help you choose health insurance. It's better if you talk to a broker.</p>
+                        <img title="Tarifcheck" loading="lazy" alt="Tarifcheck logo" src="/staticimages/health-insurance-calculator/logo-tarifcheck.svg" width="220" height="38"/>
+                        <div>
+                            <h3>Tarifcheck</h3>
+                            <p>Tarifcheck compares private health insurance prices. It only shows you the prices; it does not help you make a good choice. Talk to a broker instead.</p>
+                        </div>
+                        <a class="button" target="_blank" href="https://allaboutberlin.com/out/tarifcheck-calc">Compare prices</a>
                     </div>
-                    <a class="button" target="_blank" href="https://allaboutberlin.com/out/tarifcheck-calc">Compare prices</a>
-                </div>
-                <div>
-                    <img title="Feather Insurance" loading="lazy" alt="Feather logo" src="/staticimages/health-insurance-calculator/logo-feather.svg" width="136" height="34"/>
                     <div>
-                        <h3>Feather</h3>
-                        <p>Feather is a health insurance broker. They speak English, and they have a lot of experience with expats. Their help is free.</p>
+                        <img title="Feather Insurance" loading="lazy" alt="Feather logo" src="/staticimages/health-insurance-calculator/logo-feather.svg" width="136" height="34"/>
+                        <div>
+                            <h3>Feather</h3>
+                            <p>Feather sells public and private health insurance. They speak English, and they have a lot of experience with expats.</p>
+                        </div>
+                        <a class="button secondary" target="_blank" href="https://allaboutberlin.com/out/feather-calc">Get a quote</a>
                     </div>
-                    <a class="button secondary" target="_blank" href="https://allaboutberlin.com/out/feather-calc">Get a quote</a>
-                </div>
-                <div>
-                    <img title="Ottonova" loading="lazy" alt="Ottonova logo" src="/staticimages/health-insurance-calculator/logo-ottonova.svg" width="75" height="75"/>
                     <div>
-                        <h3>Ottonova</h3>
-                        <p>Ottonova is a private health insurer. They are popular with expats because they speak English.</p>
+                        <img title="Ottonova" loading="lazy" alt="Ottonova logo" src="/staticimages/health-insurance-calculator/logo-ottonova.svg" width="75" height="75"/>
+                        <div>
+                            <h3>Ottonova</h3>
+                            <p>Ottonova is a private health insurer. They speak English.</p>
+                        </div>
+                        <a class="button secondary" target="_blank" href="https://allaboutberlin.com/out/ottonova-calc">Visit website</a>
                     </div>
-                    <a class="button secondary" target="_blank" href="https://allaboutberlin.com/out/ottonova-calc">Visit website</a>
-                </div>
-                <div v-if="result.flags.has('ksk')">
-                    {% endraw %}{% include "css/icons/liability.svg" %}{% raw %}
-                    <div>
-                        <h3>Künstlersozialkasse (KSK)</h3>
-                        <p>If you are a freelance artist or publicist, you can join the KSK. The KSK pays half of your health insurance.</p>
+                    <div v-if="result.flags.has('ksk')">
+                        {% endraw %}{% include "css/icons/liability.svg" %}{% raw %}
+                        <div>
+                            <h3>Künstlersozialkasse (KSK)</h3>
+                            <p>If you are a freelance artist or publicist, you can join the KSK. The KSK pays half of your health insurance.</p>
+                        </div>
+                        <a class="button secondary" target="_blank" href="https://allaboutberlin.com/guides/ksk-kuenstlersozialkasse">More info</a>
                     </div>
-                    <a class="button secondary" target="_blank" href="https://allaboutberlin.com/guides/ksk-kuenstlersozialkasse">More info</a>
                 </div>
             </div>
             <button class="button" @click="hideInsuranceOptions">Back to calculator</button>
