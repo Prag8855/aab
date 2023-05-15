@@ -251,12 +251,14 @@ Your bank, your accounting software and your tax advisor should be 3 different s
     Exactly like bunq personal accounts, but for businesses. They speak English.
 - **[Revolut Business](/out/revolut-business)**  
     Exactly like Revolut personal accounts, but for businesses. They speak English.
+- **[Vivid](/out/vivid)**  
+    English-speaking business bank
 - **[Finom](/out/finom)**  
     English-speaking business bank.
 - **[Fyrst](/out/fyrst)**  
     German-speaking business bank.
 - **Traditional banks**
-    Commerzbank, Deutsche Bank and other large German banks all offer business accounts. They might not speak English.
+    [Deutsche Bank](/out/deutsche-bank-business), [Commerzbank](/out/commerzbank-business) and other German banks offer business accounts. They might not speak English.
 
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)
 [^2]: [intercom.help](https://intercom.help/kontist/en/articles/1559634-which-passports-are-accepted-for-video-verification)

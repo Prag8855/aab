@@ -127,13 +127,13 @@ When you register your address for the first time, you get a tax ID (*[[Steuerid
 
 ## Step 2: Open a bank account
 
-You need a bank account to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung), and to pay your taxes. You don't need a *German* bank account; any bank European bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung) is okay.[^0]
+You need a bank account to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung), and to pay your taxes. You don't need a *German* bank account; you can use any bank that allows [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung).[^0]
 
 If you are a *[[Freiberufler]]* or a *[[Gewerbe]]*, you don't need a business bank account.[^1] You can use your personal bank account. Check your bank's terms and conditions; some banks don't let you use your personal account for your business.[^2]
 
 If you form a corporation (GmbH, UG, AG or KGaA), you need a separate business account (*[[Geschäftskonto]]*).[^2] It's required.
 
-If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your bookkeeping easier. I use [Kontist](/out/kontist) since January 2022, but [I don't recommend it](/guides/kontist-review).
+If you don't have a bank account, look at [my comparison of German banks](/guides/first-bank-account-in-germany). Business banks like [Holvi](/out/holvi), [Qonto](/out/qonto) and [Kontist](/out/kontist) help with your accounting. I use [Kontist](/out/kontist) since January 2022, but [I don't recommend it](/guides/kontist-review).
 
 **[How to choose a German bank ➞](/guides/first-bank-account-in-germany)**
 
