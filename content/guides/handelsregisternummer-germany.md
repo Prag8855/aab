@@ -43,5 +43,5 @@ A *Handelsregister* comes with benefits, but also extra fees and responsibilitie
 
 **[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
 
-[^1]: [unternehmen24.info](https://www.unternehmen24.info/hr_DEU/HRA-HRB-handelsregister_DE.cfm)
+[^1]: [berlin.de](https://service.berlin.de/dienstleistung/327148/), [unternehmen24.info](https://www.unternehmen24.info/hr_DEU/HRA-HRB-handelsregister_DE.cfm)
 [^2]: [selbststaendig-machen.net](https://www.selbststaendig-machen.net/handelsregister-lohnt-der-freiwillige-eintrag/)

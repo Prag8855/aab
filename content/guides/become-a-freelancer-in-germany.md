@@ -46,7 +46,7 @@ When you start a business in Germany, you must register your business in a few p
 - **At the [[Finanzamt]]**  
     You register your business at the *[[Finanzamt]]* by [filling the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung). This is how you receive your *[[Steuernummer]]* and your [VAT number](/glossary/Umsatzsteuernummer).
 - **At the Gewerbeamt**  
-    If you are a *Gewerbetreibende*, you must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). [More information about the *Gewerbesteuer*.](/guides/gewerbesteuer)
+    If you are a *Gewerbetreibender*, you must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). [More information about the *Gewerbesteuer*.](/guides/gewerbesteuer)
 - **With your health insurer**  
     When you become self-employed, you must tell your health insurance. They will take health insurance contributions from your bank account every month.
 

@@ -37,7 +37,7 @@ Since Brexit, UK citizens also need a freelance visa.
 - **You must live in Germany**  
     You must have a [place to live in Germany](/guides/find-a-flat-in-berlin). You must prove this during your visa interview.
 - **You must have health insurance**  
-    All German residents must have [health insurance](/guides/german-health-insurance). Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
+    Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
 - **You must make enough money**  
     You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49]
 - **You must have clients in Germany**  
@@ -53,14 +53,18 @@ If you plan to work for a single client, you will rarely get a freelance visa.
 
 ### Selbständiger or Freiberufler?
 
-Before you apply, you should know if you are freelance (*[[Freiberufler]]*) or self-employed (*[[Selbständig]]*). If you are *Selbständig*, you must bring more documents to your interview.[^4]
+There is a legal difference between freelancers (*[[Freiberufler]]*) and tradespeople (*Selbständiger* or *[Gewerbetreibende](/glossary/Gewerbetreibender)*). The required documents are not the same.[^4]
 
-- **Freiberufler**: Artists, teachers, scientists, engineers, software developers and other independent professionals are *Freiberufler* according to [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html).[^5] Use the [incomplete list of freelance professions](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8). When you apply as a *Freiberufler*, it's a little easier. There are not as many documents to prepare.[^5]
-- **Selbständiger**: If you are not a *Freiberufler*, you are *Selbständig*. When you apply as a *Selbständiger*, it's a little harder. You must prepare more documents.[^6]
+- **Freiberufler**: Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications.[^5]
+- **Selbständiger**/**[[Gewerbetreibender]]**: If you are not a *Freiberufler*, you are a *Gewerbetreibender*. You must prepare more documents for your freelance visa application.[^6]
 
-### For self-employed people (Selbständiger)
+Note: Immigration law uses the term "*Selbständiger*", and business law uses "*Gewerbetreibender*". These words mean the same thing.[^52]
 
-If you are a *Selbständiger*, these are the German freelance visa requirements:[^7]
+**[Difference between Freiberufler and Gewerbetreibender ➞](/guides/freiberufler-or-gewerbe)**
+
+### For tradespeople (Gewerbetreibender)
+
+If you are a *[[Gewerbetreibender]]*, these are the German freelance visa requirements:[^7]
 
 1. There is an economic/cultural interest or a *regional* need for your work.[^8] The *regional* part is important; you will not get a freelance visa if all your clients are in another country.[^9]
 2. Your business is expected to have positive effects on the economy.
@@ -223,7 +227,7 @@ When you get your freelance visa, it can be valid for 6 months to 3 years.[^22] 
 
 Once you have your visa, you still have some work to do before you can run a business in Germany.
 
-1. If you are a *[Gewerbetreibende](/guides/freiberufler-or-gewerbe)*, you must [get a *Gewerbeschein*](/guides/gewerbeschein). If you are a *[[Freiberufler]]* (according to [the Finanzamt's definition](/guides/freiberufler-or-gewerbe)), you don't need one.[^23]
+1. If you are a *[[Gewerbetreibender]]*, you must [get a *Gewerbeschein*](/guides/gewerbeschein). If you are a *[[Freiberufler]]* (according to [the Finanzamt's definition](/guides/freiberufler-or-gewerbe)), you don't need one.[^23]
 2. You must [register your business at the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). This is how you get a tax number (*[[Steuernummer]]*), a VAT number (*[[Umsatzsteuernummer]]*), and an entry in the trade register (*[[Handelsregister]]*).
 3. Your website must follow the [German and European Union laws](/guides/website-compliance-germany).
 4. You can get [professional liability insurance](/guides/haftpflichtversicherung) (*Gewerbehaftpflichtversicherung* or *Berufshaftpflichtversicherung*) to protect yourself against lawsuits. You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*), in case you get injured and can't work.
@@ -290,7 +294,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     This document shows a lot of useful information about your appointment.
 - **2 passport photos**  
     *[Detailed guide](/guides/biometric-pictures-in-berlin)*  
-    You need two 35 × 45mm biometric pictures. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin), including from the photo booth at the *Ausländerbehörde*.[^26] You do not need to cut the passport photos yourself; they have a tool for this.[^27]
+    You need two 35 × 45 mm biometric pictures. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin), including from the photo booth at the *Ausländerbehörde*.[^26] You do not need to cut the passport photos yourself; they have a tool for this.[^27]
 - **{{NATIONAL_VISA_FEE|cur}}€ for the visa application fees**  
     The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts Girokarte, cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only pay when you get your freelance visa. If you don't get it, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
 - **Proof of health insurance coverage**  
@@ -298,7 +302,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) has more details.
 - **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]])  
     [Detailed guide](/guides/replacement-meldebescheinigung)* - *[Wohnungsgeberbestätigung template](/docs/wohnungsgeberbestatigung)*  
-    You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9m^2^ per person in the apartment. If you rent a room, it must be at least 6m^2^. Student residences and communal accommodations are also accepted.[^50]
+    You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9 m^2^ per person in the apartment. If you rent a room, it must be at least 6 m^2^. Student residences and communal accommodations are also accepted.[^50]
     - **Your [[Anmeldebestätigung]]**  
         You get this document during your *[[Anmeldung]]*. If you don't have it, it's okay; just bring the lease and the [[Wohnungsgeberbestätigung]]. If you can, bring proof that you have a *Bürgeramt* appointment to register your address.
     - **and your lease**  
@@ -460,3 +464,5 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^48]: [berlin.de](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/326564/en/)
 [^49]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^50]: [VAB, section 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^51]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023)
+[^52]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)

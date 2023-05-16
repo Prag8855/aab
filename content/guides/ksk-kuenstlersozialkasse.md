@@ -150,7 +150,7 @@ These documents explain who is self-employed, and who is not:
 - [Requirements for performing artists](https://pap-berlin.de/sites/default/files/2020-09/2018_08_Infoschrift_1_Selbsta__ndigkeit-Unselbsta__ndigkeit.pdf) (in German) - PAP
 - [Requirements for music teachers](https://musik.verdi.de/musikschulen/freiberuflich/++co++bae34992-bfd7-11e2-975a-525400438ccf) - Verdi
 
-You can be *[[Freiberufler]]* or a *[[Gewerbetreibende]]*.[^21] It does not make a difference.
+You can be *[[Freiberufler]]* or a *[[Gewerbetreibender]]*.[^21] It does not make a difference.
 
 ### You work in Germany
 
