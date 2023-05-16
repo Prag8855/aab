@@ -342,7 +342,7 @@ Your temporary visa is usually valid for 6 months. You must go to the *[[Auslän
 
 ## Required documents
 
-These are the required documents **in Berlin**. If you apply elsewhere, the required documents can be different. German embassies and consulates in other countries can have special requirements. For example, in India, you must also write a cover letter.[^50]
+These are the required documents **in Berlin**. If you apply elsewhere, the required documents can be different. Check the website of the *Ausländerbehörde*, embassy or consulate where you apply.
 
 The interviewer will scan your documents page by page. Do not staple the pages together. If possible, print everything on A4 paper.
 
@@ -353,7 +353,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     - ...have at least two free pages
     - ...contain your signature
 - **1 biometric photo**  
-    You need a 35 × 45mm biometric picture.[^52] You do not need to cut the passport photos yourself; they have a tool for this.[^31]
+    You need a 35 × 45 mm biometric picture.[^52] You do not need to cut the passport photos yourself; they have a tool for this.[^31]
 - **Your job contract** (*Arbeitsvertrag*)  
     Bring the original, not a copy.[^12]
 - **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
@@ -391,7 +391,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### How long does it take to get a work visa?
 
-It takes **8 to 12 weeks** to get a work visa when you apply in Germany,[^33] but it can take up to 16 weeks.[^55] Different departments process applications from different nationalities. Some departments are slower.[^65]
+It takes **8 to 12 weeks** to get a work visa when you apply in Germany,[^34] but it can take up to 16 weeks.[^55] Different departments process applications from different nationalities. Some departments are slower.[^65]
 
 You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|cur}}€, because you don't need approval from the [[ZAV]].
 
@@ -405,7 +405,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### Do I need to speak German?
 
-**No**. You don't need to speak German to get a work visa or Blue Card. It's harder to find a job if you don't speak German.
+**No**. You don't need to speak German to get a work visa or Blue Card. It's harder to [find a job](/guides/find-a-job-in-berlin) if you don't speak German. You might need to bring a translator to your *Ausländerbehörde* appointment. In Berlin, you can hire [Red Tape Translation](/out/red-tape-translation) or [Booka Local](/out/booka-local).
 
 **[Do I need to speak German to live in Berlin? ➞](/guides/learn-german#do-i-need-to-speak-german-in-berlin)**
 
@@ -484,7 +484,6 @@ leave for a longer period without a special permission, your residence permit be
 [^47]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/)
 [^48]: [berlin.de](https://service.berlin.de/dienstleistung/324659/standort/327437/en/)
 [^49]: [immigrate-to-germany.blogspot.com](http://web.archive.org/web/20200803225320/http://immigrate-to-germany.blogspot.com/2018/08/germany-employment-visa-or-work-permit-interview-questions-and-experience.html)
-[^50]: [india.diplo.de](https://india.diplo.de/blob/1862508/332690e7c0caef02dd37188bdab3bbd3/fotomustertafel-data.pdf)
 [^51]: [afghanistan.diplo.de](https://afghanistan.diplo.de/blob/2162330/29c38f0a4c71b49d53b2605799224228/eng-merkblatt-erwerbstaetigkeit-data.pdf)
 [^52]: [berlin.de](https://service.berlin.de/standort/121885/)
 [^53]: [Screenshot](/guides/german-versicherungsnummer)
