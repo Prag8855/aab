@@ -3,7 +3,10 @@ Title: How to get a German work visa or Blue Card
 Short_title: How to get a work visa or Blue Card
 Description: This guide shows you how to apply for a work visa and a Blue Card, step by step. These visas are your first step to working in Germany.
 Date_created: 2019-06-19
-Related_reviews: reviews/german-work-visa/alexander-baron-von-engelhardt.md, reviews/german-work-visa/kathleen-parker.md, reviews/german-work-visa/johanna-sieben.md
+Related_reviews:
+    reviews/german-work-visa/alexander-baron-von-engelhardt.md
+    reviews/german-work-visa/kathleen-parker.md
+    reviews/german-work-visa/johanna-sieben.md
 ---
 
 In this guide, I show you how to apply for the German work visa and the EU Blue Card.
@@ -267,6 +270,8 @@ If your current visa expires soon, there are ways to stay in Germany until you g
 
 We explain the required documents in the "[Required documents](/guides/german-work-visa#required-documents)" section of this guide. You can find it [below](#required-documents).
 
+If your documents are not in English or German, you might need certified translations. This takes more time and money.
+
 ### Step 10: Go to your Ausländerbehörde appointment
 
 - **You need**: all the [required documents](/guides/german-work-visa#required-documents), [health insurance](/guides/german-visa-health-insurance)
@@ -358,7 +363,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     - Your lease and your *[[Wohnungsgeberbestätigung]]*
     - **or** your *[[Anmeldebestätigung]]*
 - **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, you must bring a proof of education. This can be...[^28]
+    If you have a degree or any relevant training, you must bring a proof of education. If it's not in English or German, you might need a certified translation. This can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training

@@ -197,6 +197,8 @@ I work with [Feather Insurance](/out/feather) since 2018. They helped me get pri
 
 The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to find. Look for them as soon as you can.
 
+If your documents are not in English or German, you might need certified translations. This takes more time and money.
+
 ### Step 7: Go to your freelance visa interview
 
 **[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
@@ -269,7 +271,9 @@ Your temporary visa is usually valid for 6 months. You must go to the *[[Auslän
 
 ## Required documents
 
-The following documents are required when applying for a German freelance visa. Some of these documents are not mentioned on [the official documentation on Berlin.de](https://service.berlin.de/dienstleistung/305249/en/), but they are still required. The documents you bring should be in German if possible. Some interviewers do not speak English.
+These documents are required for your freelance visa application.
+
+Your documents can be in English, but it's better if they are in German. If they are not in English or German, you might need a translation. For official documents like certificates and diplomas, you need a *certified* translation.
 
 Some interviewers will look at every document. Some interviewers will ignore most of the documents. It's important to be prepared, but don't worry too much about every detail.
 
@@ -307,7 +311,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **2 or more recommendation letters**  
     Some interviewers will ask for letters of recommendation.[^32] These are letters from your previous employers, clients or professors that recommend you for your work. The letters must recommend you for the profession you are getting a visa for. If possible, these letters should be signed.
 - **CV or resume**  
-    Bring a resume to help you reference your professional experience. Make the resume relevant to the visa you are applying for. Don't include irrelevant experience or summer jobs here. The resume can be in English, but it's better to have it in German. If you need to translate documents, use [Lingoking](/out/lingoking).
+    Bring a resume to help you reference your professional experience. Make the resume relevant to the visa you are applying for. Don't include irrelevant experience or summer jobs here.
 - **Cover letter** (*Anschreiben*)  
     [Example 1](/docs/freelance-visa-cover-letter) - [example 2](/images/German-freelance-visa-cover-letter-example.png)  
     Some interviewers simply don’t care about your cover letter, but it's good to have one. It should be in German, in case your interviewer doesn't speak English. Don't forget to sign the letter. If you need to translate documents, use [Lingoking](/out/lingoking).
@@ -317,6 +321,8 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     If you need a permit to perform your profession (for example, law or medicine), bring it to your interview.
 - **Proof of education** *(optional)*  
     If you have relevant degrees or certifications, they can prove that you are qualified. Bring the original diplomas, and copies for the interviewer.[^34]
+    - **Certified translations**  
+        If your degrees or diplomas are not in English or German, bring a certified translation.[^51]
 - **Passport**  
     The interviewer will use your passport to identify you. If you get the visa immediately, the interviewer will put it in your passport. The freelance visa is a sticker that goes in your passport.[^35]
 
@@ -377,6 +383,7 @@ This list contains the same documents as above. You can use it as a checklist wh
 - Professional permit (optional)
 - Proof of adequate pension plan (if you are over 45 years old)
 - Proof of education (optional)
+    - Certified translations (if not in German or English)
 - Proof of regular income (artists and language teachers only)
 - Proof of health insurance coverage
 - Recommendation letters **× 2-5**

@@ -102,7 +102,9 @@ You can also [send the documents by email](/guides/berlin-auslanderbehorde-appoi
 
 Start gathering the required documents as soon as possible. Some documents take time to prepare. If you don't have a tax advisor, or if your finances are not organised, it takes more time.
 
-Go to the **[list of required documents](/guides/renew-german-freelance-visa#required-documents)**
+If your documents are not in English or German, you might need certified translations. This takes more time and money.
+
+Go to the **[list of required documents ↓](/guides/renew-german-freelance-visa#required-documents)**
 
 ### 6. Find a translator
 
@@ -141,19 +143,19 @@ Bring these documents to your visa interview. [The official list of documents](h
 - **Current residence permit**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
 - **1 passport photo**  
-    You need a 35 × 45mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
+    You need a 35 × 45 mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
 - **Proof of sufficient income**  
     You must prove that you make enough income to support yourself in Berlin.
-    - **[If you are self-employed](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[Selbständiger](/glossary/Selbst%C3%A4ndig)*), you must bring those documents:
+    - **[If you are self-employed](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[Selbständiger](/glossary/Selbst%C3%A4ndig)*), bring these documents:
         - **Audit report form** (*[[Prüfungsbericht]]*)  
             The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor (*[[Steuerberater]]*). It can take a few days to prepare. If your finances are not organised, it can take a few weeks.
         - **AND a proof of business registration** (*aktuelle Handelsregisterauszug*)  
-            You must prove that you are registered in the *[[Handelsregister]]*. You can request it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] If you are a *[[Kleinunternehmer]]*, this document is not required, because you don't have to be in the *Handelsregister*. It can take a few days to receive this document.
+            You must prove that you are registered in the *[[Handelsregister]]*. Request it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] If you are a *[[Kleinunternehmer]]*, this document is not required, because you don't have to be in the *Handelsregister*. It can take a few days to receive this document.
         - **AND a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - **AND a certification of tax-related matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
-            This document proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€.[^8] It can take a few days to receive this document.
-    - **[If you are a freelancer](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Freiberufler]]*), you do not need a *[[Prüfungsbericht]]*.[^9] Bring those documents instead:
+            This proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€.[^8] It can take a few days to arrive.
+    - **[If you are a freelancer](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Freiberufler]]*), you do not need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
         - **Tax assessments** (*[[Steuerbescheid]]*)  
             When you make a tax declaration, the *[[Finanzamt]]* sends you a *[[Steuerbescheid]]* by post. It looks like [this](/images/Einkommensteuer-Bescheid-Muster-Example.png). If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
         - **AND net profit determination** (*[[Netto-Gewinnermittlung]]*)  
@@ -214,10 +216,11 @@ Some of the [required documents](/guides/renew-german-freelance-visa#required-do
 - The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
 - The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
+- The certified translations can cost 40€ to 70€ each.
 
 Keep the receipts. Those expenses are tax-deductible.
 
-### What if documents are missing?
+### If some documents are missing
 
 If some documents are missing, you will get a new appointment. You must go home, collect the documents, and bring them to your next appointment.
 
