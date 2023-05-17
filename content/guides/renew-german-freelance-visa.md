@@ -219,9 +219,9 @@ Some of the [required documents](/guides/renew-german-freelance-visa#required-do
 - The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
 - The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
-- The certified translations can cost 40€ to 70€ each.
+- The [certified translations](/glossary/certified%20translation) can cost 15€ to 70€ per document.
 
-Keep the receipts. Those expenses are tax-deductible.
+Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ### If some documents are missing
 

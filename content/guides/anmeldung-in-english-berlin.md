@@ -58,15 +58,15 @@ Bring these documents to your appointment:
 If this is your first *Anmeldung*, you must also bring:
 
 - **Your marriage certificate**  
-    It must be the original or a certified copy.[^10] If it's not in English or German, they might ask for a certified translation.[^36]
-- **Your birth certificate**  
-    It must be the original or a certified copy. If it's not in English or German, they might ask for a certified translation.
+    It must be the original certificate or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^36]
 
 When you register an underage child's address, you might need a letter of consent from their legal guardian.[^11]
 
 - **[Letter of consent](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/20190125_einverstaendniserklaerung_der_sorgeberechtigten.pdf) from the legal guardians** (*Einverständniserklärung*)
     - If you are separated, and your child is moving with you, you need a letter of consent from the other parent. For example, if the child lived with their mother, and is moving with their father.
     - If the child does not live with their legal guardian, you need a letter of consent from their legal guardian.
+- **Your child's birth certificate**[^37]  
+    It must be the original certificate or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^38]
 
 ### Step 3: Go to your Bürgeramt appointment
 
@@ -279,4 +279,6 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^33]: [§17 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
 [^34]: [§29 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^35]: [§27 Abs. 2 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0254)
-[^36]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023)
+[^36]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023), [reddit.com](https://old.reddit.com/r/germany/comments/ywpuht/do_i_need_german_birth_certificate_for_anmeldung/)
+[^37]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) ([October 2022](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1194390248102276&hoisted_section_header_type=recently_seen)), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/6dgobi/anmeldung_question_do_i_need_my_birth_certificate/), [Facebook](https://www.facebook.com/groups/148190775844249/?multi_permalinks=923430394986946), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=786357288905576)
+[^38]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023), [reddit.com](https://old.reddit.com/r/germany/comments/ywpuht/do_i_need_german_birth_certificate_for_anmeldung/)

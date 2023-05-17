@@ -17,7 +17,7 @@ Finally, of course, your mileage may vary – this that this is based off my own
 
 As a EU citizen (in my case, French), you will need the following:
 
-- **A certified copy of your birth certificate** (not a simple photocopy). You can usually request one to be sent free of charge through your birth’s city website. You must get a German translation [from a certified translator](/out/lingoking-birth-certificate).
+- **A certified copy of your birth certificate** (not a simple photocopy). You can usually request one to be sent free of charge through your birth’s city website. If it's not in German or English, you need a [certified translation](/glossary/beglaubigte%20Übersetzung).
 - **A registration certificate for your current address in Germany** (*[Anmeldebestätigung](/guides/replacement-meldebescheinigung) or [Meldebescheinigung](/guides/replacement-meldebescheinigung)*). This document must be dated less than 3 weeks. It must reflect your current address. If you have been stupid like me and forgot to register yourself when you moved back to Germany, you will have to pay an extra fee. Keep in mind that you need to [register yourself in Germany](/guides/anmeldung-in-english-berlin) at the civil office (*Bürgeramt*) as soon as you can
 - **A valid passport**. Make sure your passport is not expiring anytime soon. You will need to bring the original document and the city office will make a copy themselves
 - **An income certificate** (*Einkommensbescheinigung*). If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](http://www.dautphetal.de/media/custom/2224_71_1.PDF?1366885698) (here's [a copy](/images/2224_71_1.pdf)) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
@@ -53,4 +53,3 @@ While a wedding is generally an expensive affair, I wholly underestimated the to
 - Sworn interpret for the ceremony = 150€
 
 That brings us to a whopping **680€**. Note that if you speak fluent German, you can cut that amount in half and do without an interpreter. However, if the *Standesamt* deems that your language level is not sufficient to read and sign the documents provided (some parts are in legalese), your application may be rejected.
-

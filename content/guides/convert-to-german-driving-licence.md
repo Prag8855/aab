@@ -38,7 +38,7 @@ There are two ways to get a driving licence translation:
     - In the United States: from the AAA or AATA.[^3] You can apply by post.
     - In Canada: from a CAA Travel Centre,[^4] a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate.[^5]
     - In the UK: at the Post Office
-- or **get an official translation**...
+- or **get a [certified translation](/glossary/beglaubigte%20Übersetzung)**...
     - from a certified translator like [LingoKing](/out/lingoking-drivers-licence)
     - or from a government office like an embassy or [vehicle registration office](/glossary/Kfz-Zulassungsstelle)
     - or from a recognised automobile association like [AA](https://www.theaa.com/), [AAA](https://www.aaa.com/International/), [CAA](https://www.caa.ca/), [ADAC](https://www.adac.de/)...
@@ -113,8 +113,8 @@ Go to your appointment, and bring all the [required documents](https://service.b
     It must still be valid. You must bring the original licence, not just a copy. During the appointment, you give your driving licence and never get it back.
 - **Photocopy of your driving licence**
 - **Passport or personal ID**
-- **Certified translation of your driving licence**  
-    If your driving licence is not in English or German, you need a certified translation of it. You can get one from [Lingoking](/out/lingoking-drivers-licence) for 46€ or from [ADAC](https://www.adac.de/) for 55€. International Driving Permits are also accepted.
+- **[Certified translation](/glossary/beglaubigte%20Übersetzung) of your driving licence**  
+    If your driving licence is not in English or German, you need a certified translation. You can get one from [Lingoking](/out/lingoking-drivers-licence) for 46€ or from [ADAC](https://www.adac.de/) for 55€. International Driving Permits are also accepted.
 - **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
 - **An EC card or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
 - **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.

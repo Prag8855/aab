@@ -197,11 +197,9 @@ I work with [Feather Insurance](/out/feather) since 2018. They helped me get pri
 
 ### Step 6: Gather the required documents
 
+You need a few weeks to prepare the documents for your application. The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to find. Look for them as soon as you can. Documents from your tax advisor can also take a long time to prepare.
+
 **[List of required documents ↓](/guides/how-to-get-a-german-freelance-visa#required-documents)**
-
-The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to find. Look for them as soon as you can.
-
-If your documents are not in English or German, you might need certified translations. This takes more time and money.
 
 ### Step 7: Go to your freelance visa interview
 
@@ -277,7 +275,7 @@ Your temporary visa is usually valid for 6 months. You must go to the *[[Auslän
 
 These documents are required for your freelance visa application.
 
-Your documents can be in English, but it's better if they are in German. If they are not in English or German, you might need a translation. For official documents like certificates and diplomas, you need a *certified* translation.
+Your documents can be in English, but it's better if they are in German. If they are not in English or German, you might need a translation. For official documents like certificates and diplomas, you need a [[certified translation]].
 
 Some interviewers will look at every document. Some interviewers will ignore most of the documents. It's important to be prepared, but don't worry too much about every detail.
 
@@ -326,7 +324,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Proof of education** *(optional)*  
     If you have relevant degrees or certifications, they can prove that you are qualified. Bring the original diplomas, and copies for the interviewer.[^34]
     - **Certified translations**  
-        If your degrees or diplomas are not in English or German, bring a certified translation.[^51]
+        If your degrees or diplomas are not in English or German, bring [certified translations](/glossary/certified%20translation).[^51]
 - **Passport**  
     The interviewer will use your passport to identify you. If you get the visa immediately, the interviewer will put it in your passport. The freelance visa is a sticker that goes in your passport.[^35]
 

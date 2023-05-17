@@ -268,9 +268,9 @@ If your current visa expires soon, there are ways to stay in Germany until you g
 
 ### Step 9: Gather the required documents
 
-We explain the required documents in the "[Required documents](/guides/german-work-visa#required-documents)" section of this guide. You can find it [below](#required-documents).
+You need a few days to prepare the documents for your application. The required documents are listed below.
 
-If your documents are not in English or German, you might need certified translations. This takes more time and money.
+**[List of required documents ↓](#required-documents)**
 
 ### Step 10: Go to your Ausländerbehörde appointment
 
@@ -363,7 +363,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     - Your lease and your *[[Wohnungsgeberbestätigung]]*
     - **or** your *[[Anmeldebestätigung]]*
 - **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, you must bring a proof of education. If it's not in English or German, you might need a certified translation. This can be...[^28]
+    If you have a degree or any relevant training, you must bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training
