@@ -15,4 +15,4 @@ A certified translation (*beglaubigte Übersetzung*) is verified by a state-cert
 
 When someone wants a document, but it's in a language they don't understand, you need a certified translation. For example, a Russian birth certificate or a Chinese marriage certificate.
 
-You can get certified translations from [Lingoking](/out/lingoking), [Linguidoor](/out/linguidoor) or [Translated.com](/out/translated).
+You can get certified translations from [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
