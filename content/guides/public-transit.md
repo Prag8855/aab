@@ -7,103 +7,104 @@ Date_created: 2021-08-13
 
 This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 
-![Bvg class hk train](/illustrations/bvg-class-hk-train.png)
+![Yellow BVG class HK train](/illustrations/bvg-class-hk-train.png)
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## Step 1: Buy a ticket
 
-### One ticket for everything
+### Where to buy a ticket
 
-**With a ticket, you can you use all public transit options**: the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, regional trains (RE) and [*some* IC and ICE trains](https://www.vbb.de/vbb-services/umsteigen-und-weiterfahren/bahn/#c1155). It does not work on *Hop-On, Hop-Off* sightseeing buses, Flixbus buses and other private transit options.
+- **In the app**  
+    Buy a digital ticket on your phone. Pay with a credit card, Apple Pay or Google Pay.
+    - **[Jelbi app](https://www.jelbi.de/en/home/)**  
+        You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German. You must create an account.
+    - **[BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
+        It's in English and German. You must create an account.
+    - **[VBB app](https://www.vbb.de/en/driving-information/apps/)**  
+        You can buy tickets for Berlin and [[Brandenburg]]. It's a little harder to use. You must create an account.
+- **At a ticket machine**  
+    Find a [yellow or red ticket machine](/images/VBB-ticket-machine.jpg) at the train station. The machines are on the train platforms, near the exits. You can pay with coins, bills, credit cards and [Girocards](/glossary/Girocard). You can sometimes pay with Apple Pay and Google Pay. The ticket machines speak many languages.
+- **On the tram**  
+    Find a [yellow ticket machine](/images/berlin-bvg-tram-ticket-machine.jpg) near the middle of the tram. The old machines only accept coins. The new machines only accept cards.[^1]
+- **On the bus**  
+    Enter at the front of the bus, and buy a ticket from the driver. Tap your card or phone on the payment terminal near the driver.[^15] If you pay cash, ask the driver for a ticket.[^14]
+- **At [[S-Bahn]] and [[BVG]] service points**  
+    Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). There is often a queue.
 
-**Single-use tickets are valid for 2 hours in one direction**. You can take as many trains, buses and ferries as you want with the same ticket. You can even stop, do some shopping, and take the train again. Your ticket only works in one direction. If you want to go back, you must buy a new ticket.
+### What ticket to buy
 
-### Choose the right tariff zone
+The buy the correct ticket...
+
+1. **Choose the [tariff zone](#tariff-zones)**  
+    Berlin has [3 tariff zones](#tariff-zones): A, B and C. Buy an AB, BC or ABC ticket, depending on the zones you travel in.
+2. **Choose the [duration of the ticket](#ticket-duration)**  
+    Single tickets are valid for 2 hours in one direction. Short trip tickets are only valid for a few stops. There are also daily, weekly and monthly passes.
+3. **Choose the [type of ticket](#ticket-types)**  
+    There are cheaper tickets for children, students, apprentices and [dogs](#dogs-on-public-transit). You need a [ticket for your bicycle](#bicycles-on-public-transit). Daily, weekly and monthly passes sometimes let you bring people for free.
+
+Your ticket is valid for the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, regional trains (RE) and [*some* IC and ICE trains](https://www.vbb.de/vbb-services/umsteigen-und-weiterfahren/bahn/#c1155). It's not valid for private buses (Flixbus, *Hop-On, Hop-Off*) and tour boats.
+
+### Tariff zones
 
 Berlin has 3 public transit zones: A, B and C:
 
-- **Zone A** includes everything inside the *[[Ringbahn]]*.
-- **Zone B** includes everything that's outside the *Ringbahn*, but inside Berlin.
+- **Zone A** is everything inside the *[[Ringbahn]]*.
+- **Zone B** is everything outside the *Ringbahn*, but inside Berlin.
 - **Zone C** includes parts of [[Brandenburg]] like the BER airport, Potsdam and Oranienburg.
+
+Buy an AB, BC or ABC ticket, depending on the zones you travel in.
 
 [![Bvg tarifbereiche](/images/bvg-tarifbereiche.svg "Berlin public transit tariff zones")](/images/bvg-tarifbereiche.svg)
 
-You can buy an AB, BC or ABC ticket, depending on the zones you travel in. Most things are in zones A and B, but the BER airport is in zone C.
-
-If you are caught with the wrong ticket, you get a {{BVG_FINE|cur}}€ fine. It's like riding without a ticket.
-
 If you already have an AB ticket, and you want to go to zone C, get an [extention ticket (*Anschlussfahrausweis*)](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/extension-ticket/). It's cheaper than an ABC ticket.
 
-The [[Deutschland Ticket]] lets you travel in all zones.
+If you have a [[Deutschland Ticket]], you can travel in all zones.
 
-### Choose the right tariff
+### Ticket duration
 
-There are cheaper tickets for certain situations:
+**Short trip tickets** let you travel 3 train tops, or 6 bus or tram stops. If you buy them in the app, they are valid for 20 minutes.[^2]
 
-- **Bring a friend for free**  
-    Most weekly, monthly or yearly ticket let you [bring a friend for free](#bring-other-people-for-free) during certain times.
-- **Short distances**  
-    If you travel less than 4 train stops, or less than 7 bus or tram stops, get a [short distance (*Kurzstrecke*) ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/). It's cheaper.
-- **Children**  
-    Children under 6 years old travel for free. Children under 15 years old need a reduced price (*Ermäßigungstarif*) ticket. [Most tickets](#bring-other-people-for-free) let you bring children under 15 years old for free.
-- **Students and [apprentices](/glossary/Azubi)**  
-    Students and [apprentices](/glossary/Azubi) can get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/) (*Schülerticket* or *Ausbildungsticket*). You can apply for it [here](https://www.abo-antrag.de/de/) or [here](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin) (in German).
-- **Senior citizens**  
-    Senior citizens pay the regular price for tickets. If you are over 64 years old, you can get, but there a cheaper yearly subscription: the [VBB-Abo 65plus](https://www.vbb.de/tickets/abonnements/vbb-abo-65plus/).
-- **Dogs**  
-    If your dog is bigger than a cat, you must buy a reduced tariff (*Ermäßigungstarif*) ticket for it. Guide dogs and smaller dogs don't need a ticket. Most daily, monthly and yearly tickets let you [bring a dog for free](#dogs-on-public-transit).
-- **Bicycles**  
-    You need a bicycle ticket (*Fahrradkarte*) for your bicycle. - [How to bring bikes on public transit](#bicycles-on-public-transit).
+**Single tickets** are valid for 2 hours in one direction. You can take as many trains, buses and ferries as you want with the same ticket. You can stop, do some shopping, and take the train again. Your ticket only works in one direction. To go back, you must buy a new ticket.
 
-### Where to buy tickets
+**Daily, monthly and weekly passes** are cheaper. They usually let you [bring other people for free](#bring-other-people-for-free).
 
-There are many ways to buy a public transit ticket:
+**The [Deutschland Ticket](/guides/deutschland-ticket)** is a monthly subscription. You can use all public transit in Germany for {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month.
 
-- **In the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
-    The BVG app is the easiest way to buy train tickets. The app is in English. You must create an account. If your phone runs out of battery, you don't have a valid ticket.
-- **In the [VBB app](https://www.vbb.de/en/driving-information/apps/)**  
-    The VBB app lets you buy tickets in Berlin and [[Brandenburg]]. You must create an account. It's a little harder to use, but the tickets are the same.
-- **In the [Jelbi app](https://www.jelbi.de/en/home/)**  
-    The Jelbi app lets you buy train tickets, but also rent cars, bicycles, scooters and mopeds. It's one app for everything. You must create an account.
-- **At a ticket machine**  
-    There are yellow or red ticket machines at every train station. They accept coins, bills, credit cards and EC cards. Most ticket machines accept Apple Pay and Google Pay. The machines are usually on the train platform near the exits. The machines speak many languages.
-- **In the tram**  
-    There are ticket machines in every tram. It's a big yellow box near the middle of the tram. The old machines only accept coins. The new machines only accept cards.[^1]
-- **In the bus**  
-    You can buy tickets at the front of the bus, next to the driver. You must pay with a credit card, an EC Card, Android Pay or Apple Pay. You can't pay with cash.[^3]
-- **At [[S-Bahn]] and [[BVG]] service points**  
-    There are a few [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). You can buy tickets there.
+### Ticket types
 
-[![VBB ticket machine](/images/VBB-ticket-machine.jpg "A VBB ticket machine (middle), and the machine that validates tickets (left)")](/images/VBB-ticket-machine.jpg)
-
-[![Berlin bvg tram ticket machine](/images/berlin-bvg-tram-ticket-machine.jpg "An old ticket machine in a BVG tram")](/images/berlin-bvg-tram-ticket-machine.jpg)
-
-### Types of tickets
-
-You can buy a single ticket. It's valid for 2 hours in 1 direction. You can also buy daily, weekly and monthly tickets. There are many more types of tickets.
-
-If you use public transit a lot, get the [[Deutschland Ticket]]. It lets you use local public transit everywhere in Germany. It's a really good deal.
+- **Standard ticket**  
+    This is the ticket most people need.
+- **Reduced price ticket** (*Ermäßigungstarif*)  
+    Children between 6 and 15 years old need a reduced price ticket. Dogs too. Most tickets let you [bring children for free](#bring-other-people-for-free). Some tickets let you [bring a dog for free](#dogs-on-public-transit).
+- **Student ticket** (*Schülerticket*, *Ausbildungsticket*)  
+    Students and [apprentices](/glossary/Azubi) get a [free monthly pass](https://www.vbb.de/en/tickets/pupils-apprentices/monthly-ticket/). Apply for it [here](https://www.abo-antrag.de/de/) or [here](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin).
+- **Bicycle ticket** (*Fahrradkarte*)  
+    You need a bicycle ticket for your bicycle. - [How to bring bikes on public transit](#bicycles-on-public-transit).
 
 **[List of ticket types](https://sbahn.berlin/en/tickets/all-tickets/)** - S-Bahn Berlin
 
-**[How the Deutschland Ticket works ➞](/guides/deutschland-ticket)**
-
 ### If you get caught without a ticket
 
-There are *Kontrolleur* who enter the train and check everyone's tickets. They wait until the doors close, so you can't run away. If your ticket is not valid, you will get a {{BVG_FINE|cur}}€ fine.
+There are *Kontrolleur* who enter the train and check everyone's tickets. They wait until the doors close, so you can't run away. If your ticket is not valid, you get a {{BVG_FINE|cur}}€ fine.
+
+If you have the wrong ticket, you still get a fine.
 
 **[How to pay a BVG fine ➞](/guides/paying-a-bvg-fine)**
 
 ## Step 2: Validate your ticket
 
-**When you buy a ticket, you must stamp it**. If you don't stamp your ticket, it's not valid. If you are caught with an unstamped you get a {{BVG_FINE|cur}}€ fine. It's like riding without a ticket.
+**Stamp your ticket before you use it**. If your ticket is not stamped, it's not valid.
 
-You can validate your ticket at a stamping machine. These machines are on train platforms, and inside trams and buses. Look for a yellow or red metal box.
-
-Tickets from bus drivers and tram machines don't always need to be stamped. Monthly cards don't need to be stamped.[^4]
+There are stamping machines on train platforms, and on trams and buses. Look for a yellow or red metal box. Just put your ticket in the slit.
 
 [![Validate german train ticket](/images/validate-german-train-ticket.jpg "Stamp your ticket to validate it")](/images/validate-german-train-ticket.jpg)
+
+Some tickets don't need to be stamped:
+
+- Tickets you buy on buses and trams
+- Tickets you buy in the app
+- Monthly passes[^4]
 
 ## Step 3: Use public transport
 
@@ -111,17 +112,17 @@ Get on the bus, tram, train or ferry, and go where you want to go. Get direction
 
 ### On the bus
 
-When your stop is coming, you must request the bus to stop. Press the yellow or red button close to you. You will hear a "ding" sound. The "STOP" sign will appear on the information screen. The bus will stop at the next bus stop.
+When your stop is coming, you must ask the bus to stop. Press the yellow or red "STOP" button near you. You will hear a "ding" sound. The information screen will show a "STOP" in the corner. The bus will stop at the next bus stop.
 
 ### On the tram
 
-At night, the tram does not stop at every station. Press the yellow or red STOP button close to you. You will hear a "ding" sound. The "STOP" sign will appear on the information screen. The tram will stop at the next station.
+At night, the tram does not stop at every station. Press the yellow or red STOP button close to you. You will hear a "ding" sound. The information screen will show a "STOP" sign in the corner. The tram will stop at the next station.
 
 ### Go in the right direction
 
-[![Bvg daisy display](/images/bvg-daisy-display.jpg)](/images/bvg-daisy-display.jpg)
+[![BVG daisy status display](/images/bvg-daisy-display.jpg)](/images/bvg-daisy-display.jpg)
 
-The display shows a train's last stop, not its direction. For example, if an S2 train goes north, its last stop could be in Bernau, Buch or Blankenburg. These trains all go in the same direction, and they stop at the same stations, but their last stops are at different stations.
+The display shows a train's last stop, not its direction. For example, if an S2 train goes north, its last stop could be in Bernau, Buch or Blankenburg. These trains all go in the same direction, and they stop at the same stations, but their last stops are not the same.
 
 ## Public transport options
 
@@ -179,7 +180,7 @@ German taxis must accept cash and credit cards.[^8] The Jelbi app also accepts P
 
 ## Bicycles on public transit
 
-You can bring your bicycle on the train (S-Bahn and U-Bahn), and on the N1 to N9 night buses.[^9] You can't bring your bicycle in the tram, or in other buses. On the U-Bahn, don't bring your bicycle in the first carriage. Some carriages also have a "no bicycles" sign near the door.[^10] On the S-Bahn, only use the carriages with a bicycle sign near the door.[^10]
+You can bring your bicycle on the train (S-Bahn and U-Bahn), and on the N1 to N9 night buses.[^9] You can't bring your bicycle on the tram, or on other buses. On the U-Bahn, don't bring your bicycle in the first carriage. Some carriages also have a "no bicycles" sign near the door.[^10] On the S-Bahn, only use the carriages with a bicycle sign near the door.[^10]
 
 Bicycle trailers, bicycles with more than two wheels, scooters and motorcycles are not allowed on the train. Electric bicycles are allowed.[^10]
 
@@ -201,7 +202,7 @@ If you have a [folding bike](https://en.wikipedia.org/wiki/Folding_bicycle), you
 
 In Berlin, you can take your dog with you in trains, trams and buses. They can't go on the seats. They must be in a closed container. If they don't fit in a container, they must wear a muzzle and be on a leash.
 
-Normally, you must buy a reduced tariff ticket for your dog, but there are exceptions. You can bring your dog on the train, tram or bus for free if...[^11]
+Normally, you must buy a reduced price (*Ermäßigungstarif*) ticket for your dog, but there are exceptions. You can bring your dog on the train, tram or bus for free if...[^11]
 
 - It's not bigger than a house cat, and you carry it in a closed container
 - **or** you have a daily, weekly, monthly or yearly pass
@@ -245,3 +246,6 @@ These tickets do not let you bring children and other people with you:[^12]
 [^11]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/tarifzonen-und-tarifbestimmungen), [vbb.de](https://www.vbb.de/tickets/tarifinformationen-services/mitnahmemoeglichkeiten/), [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin)
 [^12]: [Students and apprentices](https://sbahn.berlin/en/tickets/all-tickets/school-students-apprentice-students/monthly-subscription-ticket-for-apprentices/school-students/?tabs=tbc-tfeatures), [10-Uhr-Karte](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/10am-ticket/?tabs=tbc-tfeatures), [short trip ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/), [FlexTicket](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-flexticket/?tabs=tbc-tfeatures)
 [^13]: [Weekly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/7-day-ticket/?tabs=tbc-tfeatures) and [monthly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-umweltkarte/?tabs=tbc-tfeatures) tickets
+[^2]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-tickets/einzelfahrscheine/kurzstrecke)
+[^14]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2023/01/berlin-bvg-bus-bargeld-corona.html)
+[^15]: [YouTube](https://youtu.be/d-n__8zGQi4?t=18)
