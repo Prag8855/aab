@@ -1,7 +1,7 @@
 ---
 Title: How to trade your foreign driver licence for a German one
 Short_title: How to convert a foreign driving licence
-Description: Here is how you can trade a driver licence from another country for a German one.
+Description: This is you can exchange a driving license from another country for a German one.
 Date_created: 2018-02-28
 ---
 
@@ -114,7 +114,7 @@ Go to your appointment, and bring all the [required documents](https://service.b
 - **Photocopy of your driving licence**
 - **Passport or personal ID**
 - **[Certified translation](/glossary/beglaubigte%20Übersetzung) of your driving licence**  
-    If your driving licence is not in English or German, you need a certified translation. You can get one from [Lingoking](/out/lingoking-drivers-licence) for 46€ or from [ADAC](https://www.adac.de/) for 55€. International Driving Permits are also accepted.
+    If your driving licence is not in English or German, you need a certified translation. You can get one from [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/) for around 50€. International Driving Permits are also accepted.
 - **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
 - **An EC card or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
 - **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.
