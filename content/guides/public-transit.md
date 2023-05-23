@@ -180,9 +180,9 @@ German taxis must accept cash and credit cards.[^8] The Jelbi app also accepts P
 
 ## Bicycles on public transit
 
-You can bring your bicycle on the train (S-Bahn and U-Bahn), and on the N1 to N9 night buses.[^9] You can't bring your bicycle on the tram, or on other buses. On the U-Bahn, don't bring your bicycle in the first carriage. Some carriages also have a "no bicycles" sign near the door.[^10] On the S-Bahn, only use the carriages with a bicycle sign near the door.[^10]
+You can bring your bicycle on the train (S-Bahn and U-Bahn), on the tram, on ferries, and on the N1 to N9 night buses.[^9] You can't bring your bicycle on other buses. On the U-Bahn, don't bring your bicycle in the first carriage. Some carriages also have a "no bicycles" sign near the door.[^10] On the S-Bahn, only use the carriages with a bicycle sign near the door.[^10]
 
-Bicycle trailers, bicycles with more than two wheels, scooters and motorcycles are not allowed on the train. Electric bicycles are allowed.[^10]
+Bicycle trailers, bicycles with more than two wheels, scooters and motorcycles are not allowed. Electric bicycles are allowed.[^10]
 
 ### Bicycle tickets
 
@@ -235,13 +235,12 @@ These tickets do not let you bring children and other people with you:[^12]
 - The 65 Plus ticket.
 
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
-[^3]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/bvg-verteidigt-rein-bargeldlosen-ticketkauf-beim-fahrer-6856978.html)
 [^4]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/vbb-umweltkarte/?acc=a3861-t1)
 [^5]: [berlin.de](https://www.berlin.de/tourismus/infos/nahverkehr/1859225-1721041-nachtbusse-nachtlinien.html)
 [^6]: [berlin.de](https://www.berlin.de/tourismus/dampferfahrten/faehren/)
 [^7]: [dbregio-berlin-brandenburg.de](https://www.dbregio-berlin-brandenburg.de/db-regio-no/Fahren/Fahrplaene)
 [^8]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
-[^9]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-tickets#Fahrr%C3%A4der)
+[^9]: [bvg.de](https://www.bvg.de/de/fahrrad/fahrradmitnahme)
 [^10]: [berlin.de](https://www.berlin.de/tourismus/fahrradtouren/2012604-1740418-mit-dem-fahrrad-s-und-ubahn-nutzen.html)
 [^11]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/tarifzonen-und-tarifbestimmungen), [vbb.de](https://www.vbb.de/tickets/tarifinformationen-services/mitnahmemoeglichkeiten/), [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin)
 [^12]: [Students and apprentices](https://sbahn.berlin/en/tickets/all-tickets/school-students-apprentice-students/monthly-subscription-ticket-for-apprentices/school-students/?tabs=tbc-tfeatures), [10-Uhr-Karte](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/10am-ticket/?tabs=tbc-tfeatures), [short trip ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/), [FlexTicket](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-flexticket/?tabs=tbc-tfeatures)
