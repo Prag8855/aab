@@ -549,8 +549,6 @@ li .expand{color:var(--color-text);padding:0 7px;margin-left:var(--spacing-s);bo
 		.form-group .options > *, .collapsible .body > .options > *{border-color:var(--color-border-input);}
 		.form-group .options > a:hover, .collapsible .options > a:hover, .form-group .options > .selected{text-decoration:none;border:1px solid var(--color-border-input-focused)}
 			.form-group .options > * img{max-width:100%;max-height: 100px}
-
-		.options.guides + .options.guides{border-top:var(--border-page);padding-top:var(--spacing-l);margin:var(--spacing-l) 0}
 			.options.guides > * {box-shadow:var(--box-shadow-m)}
 .checkbox-group{}
 	.checkbox-group > .checkbox{cursor:pointer;display:grid;grid-template-columns:auto 1fr;grid-gap:var(--spacing-m);align-items:center;text-align:left;text-decoration:none;}
