@@ -80,6 +80,7 @@ These online banks let you trade stocks:
 - **[1822direkt](/out/1822direkt)**
 - **[Comdirect](/out/comdirect-depot)**
 - **[DKB](/out/dkb)**
+- **[eToro](/out/etoro)**
 - **[Sparkasse](/out/sparkasse-broker)**
 
 Most classic banks also let you trade stocks. Their transaction fees are often much higher.
