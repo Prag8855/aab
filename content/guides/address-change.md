@@ -1,7 +1,7 @@
 ---
 Title: How to change your address in Germany
 Short_title: How to change your address
-Description: When you move into a new apartment, you must change your official address. It's not automatic. This guide shows you how to do it.
+Description: This guide explains how to change your address and redirect your mail.
 Date_created: 2022-09-24
 ---
 
@@ -23,11 +23,11 @@ German addresses are a little different. Learn to write yours correctly.
 
 ## Register your address
 
-Register your address at the [*Bürgeramt*](/glossary/B%C3%BCrgeramt). This is called the *[[Anmeldung]]*.
+Register your address at the *[[Bürgeramt]]*. This is called the *[[Anmeldung]]*.
 
 **[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
-The *Bürgeramt* will tell other people your new address:
+The *Bürgeramt* will tell these people your new address:
 
 - **Your church**  
     If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
