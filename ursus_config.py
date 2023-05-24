@@ -148,6 +148,7 @@ config.linters = (
     'extensions.linters.footnotes.FootnoteLocationLinter',
     'extensions.linters.footnotes.OrphanFootnotesLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
+    'extensions.linters.lists.MultilineListsLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
     # 'extensions.linters.places.PlacesLinter',
     'extensions.linters.places.UnusedPlacesLinter',
