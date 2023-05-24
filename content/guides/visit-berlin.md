@@ -148,7 +148,7 @@ You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-ber
 
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
-- **[Cherry blossom]** - April and May
+- **[Cherry blossom]** - April and May  
     After the reunification, a Japanese television channel donated 10,000 cherry trees. Most of them were planted where the Berlin wall was. Every spring, the cherry trees bloom and cover the alleys in rose petals.
 - **[Fête de la Musique](https://www.fetedelamusique.de/)** - June  
     A music festival in the entire city. There are musicians and concerts in every part of the city.

@@ -77,7 +77,7 @@ You must use the [Single Point of Contact](https://konto.service.berlin.de/skb/S
 6. House number (*Hausnummer*) - for example "123"
 7. Extra address information (*Adresszusatz*) - for example "c/o Max Mustermann"
 8. Location (*Ort*) - for example "Berlin"
-9. Country (Land) - for example "Deutschland"
+9. Country (*Land*) - for example "Deutschland"
 10. Phone number (*Telefon*) - for example +49301234567
 11. Fax number (*Fax*)
 

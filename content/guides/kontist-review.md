@@ -257,7 +257,7 @@ Your bank, your accounting software and your tax advisor should be 3 different s
     English-speaking business bank.
 - **[Fyrst](/out/fyrst)**  
     German-speaking business bank.
-- **Traditional banks**
+- **Traditional banks**  
     [Deutsche Bank](/out/deutsche-bank-business), [Commerzbank](/out/commerzbank-business) and other German banks offer business accounts. They might not speak English.
 
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)

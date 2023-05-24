@@ -23,7 +23,7 @@ You find these bins in your apartment building:
     For biodegradable goods. It's used to make [biogas](https://en.wikipedia.org/wiki/Biogas) and compost.[^1] Don't use plastic or biodegradable bags, only paper bags.[^2]
 - ⚫ **Grey bin** (*Restmüll*)  
     Things that you can't sell, donate or recycle.
-- ♻️ **[Glass recycling bins](/glossary/Altglascontainer)** (*Glasiglus*)
+- ♻️ **[Glass recycling bins](/glossary/Altglascontainer)** (*Glasiglus*)  
     For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers.[^3] If your building does not have glass recycling bins, [find them in your neighbourhood](https://www.berlin-recycling.de/service/standorte-glasiglus). There are 3 bin types:
     - 🟤 The *Braunglas* bin for brown glass
     - 🟢 The *Grunglas* bin for green, red and blue glass[^4]
