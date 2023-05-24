@@ -3,6 +3,7 @@ Title: How to register as an organ donor in Germany
 Short_title: How to register as an organ donor
 Description: This guide shows you how to organ donations work in Germany, and how to register as a donor.
 Date_created: 2023-05-24
+Author: Jack Stephan
 ---
 
 This guide explains how to donate your organs after your death. It's very easy.
