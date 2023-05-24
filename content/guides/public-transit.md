@@ -16,7 +16,7 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 ### Where to buy a ticket
 
 - **In the app**  
-    Buy a digital ticket on your phone. Pay with a credit card, Apple Pay or Google Pay.
+    Buy a digital ticket on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it.
     - **[Jelbi app](https://www.jelbi.de/en/home/)**  
         You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German. You must create an account.
     - **[BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
@@ -94,17 +94,13 @@ If you have the wrong ticket, you still get a fine.
 
 ## Step 2: Validate your ticket
 
-**Stamp your ticket before you use it**. If your ticket is not stamped, it's not valid.
-
-There are stamping machines on train platforms, and on trams and buses. Look for a yellow or red metal box. Just put your ticket in the slit.
+**Stamp your ticket before you use it**. If your ticket is not stamped, it's not valid. There are stamping machines on train platforms, and on trams and buses. Look for a yellow or red metal box, and insert your ticket in the slit.
 
 [![Validate german train ticket](/images/validate-german-train-ticket.jpg "Stamp your ticket to validate it")](/images/validate-german-train-ticket.jpg)
 
-Some tickets don't need to be stamped:
+If you buy the ticket on the bus or tram, it's already stamped. Monthly passes are already stamped.[^4]
 
-- Tickets you buy on buses and trams
-- Tickets you buy in the app
-- Monthly passes[^4]
+**Digital tickets** are valid 1 minute after you buy them.[^3] Buy your ticket before you get on the train.
 
 ## Step 3: Use public transport
 
@@ -235,6 +231,7 @@ These tickets do not let you bring children and other people with you:[^12]
 - The 65 Plus ticket.
 
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
+[^3]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-apps/faq-ticketkauf-per-app#:~:text=ab%20wann%20ist%20mein%20erworbenes%20bvg-handyticket%20gultig%3F), [rbb24.de](https://www.rbb24.de/panorama/beitrag/2022/04/vbb-schafft-zwei-minuten-regel-ab-handyticket-bvg.html)
 [^4]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/vbb-umweltkarte/?acc=a3861-t1)
 [^5]: [berlin.de](https://www.berlin.de/tourismus/infos/nahverkehr/1859225-1721041-nachtbusse-nachtlinien.html)
 [^6]: [berlin.de](https://www.berlin.de/tourismus/dampferfahrten/faehren/)
