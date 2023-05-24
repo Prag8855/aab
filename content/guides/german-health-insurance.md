@@ -294,6 +294,10 @@ Get [liability insurance](/glossary/Haftpflichtversicherung). It's the second mo
 
 **[What is liability insurance? ➞](/guides/haftpflichtversicherung)**
 
+Register as an organ donor. It's really easy, and it can save another person's life.
+
+**[How to register as an organ donor ➞](/guides/organ-donor)**
+
 There are more types of insurance in Germany, but health and liability insurance are the most important.
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
