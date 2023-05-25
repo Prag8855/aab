@@ -54,7 +54,7 @@ Every 3 months, you will get a [letter from the *Beitragsservice*](/images/gez-r
 How to pay by bank transfer:
 
 1. Find your account number (*Beitragsnummer*). It's on the letters the *Beitragsservice* send you. It has 9 digits. You can also use the last 9 digits of the payment reference number (RF30X<u>000000000</u>).
-2. Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Each state has different payment details,[^4] but you can use the central *Beitragsservice* bank account:  
+2. Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Each state has different payment details,[^4] but you can use the central *Beitragsservice* bank account:
 
 > **Recipient:** Rundfunk ARD, ZD, DRadio  
 **IBAN:** DE85 3701 0050 0123 4565 03  
