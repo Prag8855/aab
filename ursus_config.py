@@ -41,6 +41,8 @@ config.output_path = Path(__file__).parent.parent / 'output'
 config.site_url = os.environ.get('SITE_URL', '')
 config.html_url_extension = ''
 
+config.checkbox_list_item_class = 'checkbox'
+
 config.lunr_indexes = {
     'indexed_fields': ('title', 'short_title', 'description', 'german_term', 'english_term',),
     'indexes': [
