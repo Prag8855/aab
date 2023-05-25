@@ -40,32 +40,32 @@ When you book your appointment, you get an appointment number (*Vorgangsnummer*)
 
 Bring these documents to your appointment:
 
-- **Your [Wohnungsgeberbestätigung](/docs/wohnungsgeberbestatigung)**  
+- [ ] **Your [Wohnungsgeberbestätigung](/docs/wohnungsgeberbestatigung)**  
     You get it from the *[[Wohnungsgeber]]* before you [move in](/guides/moving-in). You can't register your address without this document. A lease is not enough.[^3] They accept copies, but the original document is better.[^4]
     - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need the permission of the landlord.[^5]
     - If you move with your spouse, they can give it to you. They don't need permission from the landlord.
     - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
-- **The filled [Anmeldung form](/docs/anmeldung)**
-- **A valid ID document**  
+- [ ] **The filled [Anmeldung form](/docs/anmeldung)**
+- [ ] **A valid ID document**  
     Bring your original passport, not a photocopy. You can also use a EU national ID.[^7] If you have a national ID (*Personalausweis*), bring it with you. They will put a sticker on it with your new address.
-- **Your [residence permit](/glossary/Aufenthaltstitel)**  
+- [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a residence permit, bring it with you. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8]
-- **Your vehicle registration papers**  
+- [ ] **Your vehicle registration papers**  
     If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle.
-- **Cash** or a **Girokarte**  
+- [ ] **Cash** or a **Girokarte**  
     The *Anmeldung* is free, but if you have vehicles, it costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash, or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
 If this is your first *Anmeldung*, you must also bring:
 
-- **Your marriage certificate**  
+- [ ] **Your marriage certificate**  
     It must be the original certificate or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^36]
 
 When you register an underage child's address, you might need a letter of consent from their legal guardian.[^11]
 
-- **[Letter of consent](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/20190125_einverstaendniserklaerung_der_sorgeberechtigten.pdf) from the legal guardians** (*Einverständniserklärung*)
+- [ ] **[Letter of consent](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/20190125_einverstaendniserklaerung_der_sorgeberechtigten.pdf) from the legal guardians** (*Einverständniserklärung*)
     - If you are separated, and your child is moving with you, you need a letter of consent from the other parent. For example, if the child lived with their mother, and is moving with their father.
     - If the child does not live with their legal guardian, you need a letter of consent from their legal guardian.
-- **Your child's birth certificate**[^37]  
+- [ ] **Your child's birth certificate**[^37]  
     It must be the original certificate or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^38]
 
 ### Step 3: Go to your Bürgeramt appointment

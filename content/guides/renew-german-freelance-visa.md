@@ -139,56 +139,56 @@ In total, you will spend around 1 hour at the *Ausländerbehörde*.
 
 Bring these documents to your visa interview. [The official list of documents](https://service.berlin.de/dienstleistung/324288/en/) is not complete. *Ausländerbehörde* employees often ask for things that are not in this list.
 
-- **Appointment confirmation** (optional)  
+- [ ] **Appointment confirmation** (optional)  
     This document shows you where to go for your appointment. It also contains your waiting number (*Vorgangsnummer*). You might have to show this document before you enter the *Ausländerbehörde*. You can also keep this document on your phone. You do not need to print it.
-- **Passport**  
+- [ ] **Passport**  
     The passport must still be valid. It must have two free pages for your new residence permit. If your residence permit is in an older passport, bring the old passport and the new one. You do not need to have empty pages in your passport. They do not put stickers in your passport anymore. Your new residence permit will be a [plastic card](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/).
-- **Current residence permit**  
+- [ ] **Current residence permit**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
-- **1 passport photo**  
+- [ ] **1 passport photo**  
     You need a 35 × 45 mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
-- **Proof of sufficient income**  
+- [ ] **Proof of sufficient income**  
     You must prove that you make enough income to support yourself in Berlin.
     - **[If you are self-employed](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Gewerbetreibender]]*), bring these documents:
-        - **Audit report form** (*[[Prüfungsbericht]]*)  
+        - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
             The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor (*[[Steuerberater]]*). It can take a few days to prepare. If your finances are not organised, it can take a few weeks.
-        - **AND a proof of business registration** (*aktuelle Handelsregisterauszug*)  
+        - [ ] **and a proof of business registration** (*aktuelle Handelsregisterauszug*)  
             You must prove that you are registered in the *[[Handelsregister]]*. Request it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] If you are a *[[Kleinunternehmer]]*, this document is not required, because you don't have to be in the *Handelsregister*. It can take a few days to receive this document.
-        - **AND a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
+        - [ ] **and a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
-        - **AND a certification of tax-related matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
+        - [ ] **and a certification of tax-related matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
             This proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€.[^8] It can take a few days to arrive.
     - **[If you are a freelancer](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
-        - **Tax assessments** (*[[Steuerbescheid]]*)  
+        - [ ] **Tax assessments** (*[[Steuerbescheid]]*)  
             When you make a tax declaration, the *[[Finanzamt]]* sends you a *[[Steuerbescheid]]* by post. It looks like [this](/images/Einkommensteuer-Bescheid-Muster-Example.png). If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
-        - **AND net profit determination** (*[[Netto-Gewinnermittlung]]*)  
+        - [ ] **and net profit determination** (*[[Netto-Gewinnermittlung]]*)  
             You must get this document from a tax advisor. It shows how much profit you have made. It can have different formats. It must be verified and stamped by a tax advisor (*[[Steuerberater]]*).
-        - **AND bank statement** (*[[Kontoauszug]]*)  
+        - [ ] **and bank statement** (*[[Kontoauszug]]*)  
             Your bank account statement must show that you have a regular source of income. It should also show your health insurance payments and your rent payments. You can request this document from your bank. It does not have a specific format.
-        - **AND invoices** (*Abrechnungen*)  
+        - [ ] **and invoices** (*Abrechnungen*)  
             Bring invoices from your clients or customers. Those show how you make money as a freelancer. Bring all invoices, not just a sample. The invoices must be sorted by date.
-        - **AND contracts from your clients**  
+        - [ ] **and contracts from your clients**  
             Bring contracts that prove that you will have more work in the future. Contracts are not officially required, but they might ask for them.[^10] If possible, the contracts must describe the kind of work you will do. You can also bring letters of intent (*[[Absichtserklärung]]*) from future clients.
-- **Proof of housing costs**  
+- [ ] **Proof of housing costs**  
     You must show how much you pay every month for your apartment or home. It must also prove that you live in Berlin.
     - **Lease** (*Mietvertrag*), if you rent a room or an apartment. Bring the original lease, not a copy. The lease must show how much rent you pay.
     - or **a proof of ownership**, if you own a house. It must show how much you pay per month.
-- **Proof of health insurance coverage** (*Mitgliedsbescheinigung* or *Nachweis der Krankenversicherung*)
-    - **Proof of health insurance coverage**  
+- [ ] **Proof of health insurance coverage** (*Mitgliedsbescheinigung* or *Nachweis der Krankenversicherung*)
+    - [ ] **Proof of health insurance coverage**  
         You can request this from your health insurer. You can usually get it from their website.
-    - **Proof of monthly payments**  
+    - [ ] **and proof of monthly payments**  
         Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*.[^11]
-- **Proof of retirement savings**  
+- [ ] **Proof of retirement savings**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.
     - If you are a citizen of the Dominican Republic, Indonesia, Japan, the Philippines, Sri Lanka, Turkey or the United States, you do not need this proof.
     - If you are under 46 years old, you do not need this proof.
-- **Proof of residence in Berlin**  
+- [ ] **Proof of residence in Berlin**  
     You must prove that your main residence is in Berlin.
     - **Registration certificate** ([*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung))  
         This is the document you receive when you do you register your address (*[[Anmeldung]]*).
-    - **OR a lease + a landlord confirmation letter** (*Mietvertrag* + *[[Wohnungsgeberbestätigung]]*)  
+    - **or a lease + a landlord confirmation letter** (*Mietvertrag* + *[[Wohnungsgeberbestätigung]]*)  
         If you don't have a registration certificate, bring your original lease - not a copy - and the landlord confirmation letter instead.
-- **Short description of your business** (optional)  
+- [ ] **Short description of your business** (optional)  
     Prepare a short document that describes your business, and how you make money. You can use this to explain other documents. [For example](/images/auslaenderbehoerde-explanation.pdf), I described my website and its business model. I included screenshots of the website and graphs of the monthly traffic. I used it to show that my business is growing, and to explain why I do not need contracts for a stable income.
 
 ### How to prepare the documents

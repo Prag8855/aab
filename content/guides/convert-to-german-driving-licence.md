@@ -109,17 +109,17 @@ Sometimes, you only need to take a driving test. If you are Canadian or American
 
 Go to your appointment, and bring all the [required documents](https://service.berlin.de/dienstleistung/327537/):
 
-- **Foreign driving licence**  
+- [ ] **Foreign driving licence**  
     It must still be valid. You must bring the original licence, not just a copy. During the appointment, you give your driving licence and never get it back.
-- **Photocopy of your driving licence**
-- **Passport or personal ID**
-- **[Certified translation](/glossary/beglaubigte%20Übersetzung) of your driving licence**  
+- [ ] **Photocopy of your driving licence**
+- [ ] **Passport or personal ID**
+- [ ] **[Certified translation](/glossary/beglaubigte%20Übersetzung) of your driving licence**  
     If your driving licence is not in English or German, you need a certified translation. You can get one from [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/) for around 50€. International Driving Permits are also accepted.
-- **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
-- **An EC card or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
-- **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.
+- [ ] **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
+- [ ] **A [[Girocard]] or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
+- [ ] **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.
 
-The appointment itself only takes a few minutes, and it costs 36.30€.[^13] The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
+The appointment only takes a few minutes. It costs 36.30€.[^13] The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
 
 During your appointment, you should **ask for a temporary license** while you wait for your German driving license.[^14]
 

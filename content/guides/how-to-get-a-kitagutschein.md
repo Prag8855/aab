@@ -55,13 +55,13 @@ If you can't apply online, you can print the [*Anmeldung zur Förderung von Kind
 
 You must give the same information as when you apply online. You must include these documents:[^2]
 
-- A scan of your passport or citizenship card
-- A scan of your child's passport or citizenship card
-- A copy of your child's birth certificate
-- A copy of your child's care contract (foster children only)
-- Your [Meldebestätigung](/glossary/Anmeldebest%C3%A4tigung). Your child's name should also be on it.
-- Your work contract (if you want to prove that you need more *Kita* hours than allowed)
-- A *[[Vollmacht]]* (if one parent is making the application on behalf of the other)
+- [ ] A scan of your passport or citizenship card
+- [ ] A scan of your child's passport or citizenship card
+- [ ] A copy of your child's birth certificate
+- [ ] A copy of your child's care contract (foster children only)
+- [ ] Your [Meldebestätigung](/glossary/Anmeldebest%C3%A4tigung). Your child's name should also be on it.
+- [ ] Your work contract (if you want to prove that you need more *Kita* hours than allowed)
+- [ ] A *[[Vollmacht]]* (if one parent is making the application on behalf of the other)
 
 If you need to translate documents to German, use [Lingoking](/out/lingoking).
 

@@ -9,7 +9,7 @@ Related_reviews:
     reviews/german-work-visa/johanna-sieben.md
 ---
 
-In this guide, I show you how to apply for the German work visa and the EU Blue Card.
+This guide shows you how to apply for a German work visa or EU Blue Card.
 
 - The **[German work visa](/glossary/Work%20Visa)** is a [residence permit](/glossary/Aufenthaltstitel) that lets you work as an employee in Germany.
 - The **[EU Blue Card](/glossary/Blue%20Card)** is like a work visa, but better. The application process is almost the same.
@@ -80,28 +80,28 @@ In this guide, I show you how to get a Blue Card.
 
 ## German work visa requirements
 
-- **You must have a job offer in Germany**. It must be a concrete job offer, not just a job listing.[^58]
-- **You must have a university degree or a vocational qualification**[^60]  
+- [ ] **You have a job offer in Germany**. It must be a concrete job offer, not just a job listing.[^58]
+- [ ] **You have a university degree or a vocational qualification**[^60]  
     Your job must be related to your education. You do not need a university degree to get a German work visa.[^12] Vocational training is enough. Your school does not need to be recognised in [Anabin](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession).
-- **Your employer must be in Germany**  
+- [ ] **Your employer is in Germany**  
     For example, you can't work for an American company, unless they have an office in Germany.[^12]
-- **You must be qualified for the job**[^13]
-- **You must be allowed to do this job in Germany**  
+- [ ] **You are qualified for the job**[^13]
+- [ ] **You are allowed to do this job in Germany**  
     If you need specific qualifications to do your job in Germany, you must prove that you have them.[^61] For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if your profession requires specific qualifications.
-- **You must have approval from the [[ZAV]]**  
+- [ ] **You have approval from the [[ZAV]]**  
     The ZAV verifies that the position can't be filled by a EU citizen. See below for details. If you apply for a Blue Card, and you make over {{BLUE_CARD_MIN_INCOME|cur}}€ per year, you don't need this.
-- **You must have German health insurance and a place to stay**  
+- [ ] **You have German health insurance and a place to stay**  
     You must [find a place to live](/guides/find-a-flat-in-berlin) and [get German health insurance](/guides/german-visa-health-insurance) *before* you apply for the work visa.[^40]
 
-You **do not** need to speak German to get a German work visa.
+You **do not** need to speak German to get a work visa.
 
 ## EU Blue Card requirements
 
 The Blue Card has the same requirements as the work visa. It also has these two requirements:
 
-- **You must have a high income**  
+- [ ] **You have a high income**  
     You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes).[^62] If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^63] [This list](https://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
-- **You must have a university degree**  
+- [ ] **You have a university degree**  
     Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database.[^14] In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree.[^11]
 
 You **do not** need to speak German to get a Blue Card.
@@ -346,33 +346,33 @@ These are the required documents **in Berlin**. If you apply elsewhere, the requ
 
 The interviewer will scan your documents page by page. Do not staple the pages together. If possible, print everything on A4 paper.
 
-- **A valid passport**  
+- [ ] **A valid passport**  
     Your passport must...[^51]
     - ...be valid for another 6 months
     - ...be issued in the last 10 years
     - ...have at least two free pages
     - ...contain your signature
-- **1 biometric photo**  
+- [ ] **1 biometric photo**  
     You need a 35 × 45 mm biometric picture.[^52] You do not need to cut the passport photos yourself; they have a tool for this.[^31]
-- **Your job contract** (*Arbeitsvertrag*)  
+- [ ] **Your job contract** (*Arbeitsvertrag*)  
     Bring the original, not a copy.[^12]
-- **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
+- [ ] **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
     You can get this document from your health insurance company.[^53] If you choose public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
-- **Proof of residence in Germany**  
+- [ ] **Proof of residence in Germany**  
     There are two ways to prove your residence in Berlin. You can bring...
     - Your lease and your *[[Wohnungsgeberbestätigung]]*
     - **or** your *[[Anmeldebestätigung]]*
-- **Proof of education** (*Ausbildungsnachweis*)  
+- [ ] **Proof of education** (*Ausbildungsnachweis*)  
     If you have a degree or any relevant training, you must bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training
-- **Occupation practice permit** (if applicable)  
+- [ ] **Occupation practice permit** (if applicable)  
     If you need specific qualifications to do your job in Germany, you must prove that you have them.[^32] For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if your profession requires specific qualifications.
-- **All the required forms**
-    - **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
+- [ ] **All the required forms**
+    - [ ] **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
         Your employer should fill this form. Download the form [here](/documents/Stellenbeschreibung.pdf), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
-    - **[The "application for issuance of a residence permit" form](/documents/Antrag-auf-Erteilung-eines-Aufenthaltstitels.pdf)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
+    - [ ] **[The "application for issuance of a residence permit" form](/documents/Antrag-auf-Erteilung-eines-Aufenthaltstitels.pdf)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
         Download the form [here](/docs/german-freelance-visa-form), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f72301-labo_agen1__antrag_engl_frz_ital_03_2017.pdf). This is the same form as for other [residence permits](/glossary/Aufenthaltstitel).
 
 ## Questions and answers
@@ -424,8 +424,7 @@ If you don't tell the *Ausländerbehörde* that you lost your job, you and your 
 
 ### Can I travel outside of Germany?
 
-**Yes**. With a work visa, you can leave Germany **for up to 6 months**.[^37] With a Blue Card, you can leave Germany for up to 12 months. If you   
-leave for a longer period without a special permission, your residence permit become invalid.[^7] You can ask the *Ausländerbehörde* for permission to leave longer without losing your residence permit.
+**Yes**. With a work visa, you can leave Germany **for up to 6 months**.[^37] With a Blue Card, you can leave Germany for up to 12 months. If you leave for a longer period without a special permission, your residence permit become invalid.[^7] You can ask the *Ausländerbehörde* for permission to leave longer without losing your residence permit.
 
 ### Can I start my own business?
 

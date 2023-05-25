@@ -44,28 +44,28 @@ Use [**umziehen.de**](https://umziehen.de/formular/umzugsmitteilung) to tell ove
 
 You should also tell...
 
-- **Your bank**  
+- [ ] **Your bank**  
     You can change your address on your bank's online portal, or by asking your financial advisor.
-- **Your car/home insurance**  
+- [ ] **Your car/home insurance**  
     If you have vehicle or home insurance, tell your insurer about your address change. You can usually do it on their website. You can also contact your insurance broker.
-- **Your health insurance**  
+- [ ] **Your health insurance**  
     You can change your address on your health insurer's online portal, or by asking your insurance broker.
-- **The [[Finanzamt]]**
-    - **If you have a business**  
+- [ ] **The [[Finanzamt]]**
+    - [ ] **If you have a business**  
         If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/Elster), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]
-    - **If you have a dog**  
+    - [ ] **If you have a dog**  
         Tell the *Finanzamt* about your address change. This is because you must pay a dog tax (*[[Hundesteuer]]*). [This guide](/guides/hundesteuer) shows you how to change your address. You must also change your address in the [dog registry](https://hunderegister.berlin.de/) (*[[Hunderegister]]*). [How to register your dog in Berlin](/guides/hundesteuer).
-- **The TV tax** (*[[Rundfunkbeitrag]]*)  
+- [ ] **The TV tax** (*[[Rundfunkbeitrag]]*)  
     The *[[ARD ZDF Deutschlandradio Beitragsservice]]* collects the [TV tax](/glossary/Rundfunkbeitrag). You can update your address [here](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html). [More information about the TV tax.](/guides/gez-rundfunkbeitrag)
-- **The Kfz-Zulassungsstelle**  
+- [ ] **The Kfz-Zulassungsstelle**  
     If you have a vehicle, you must update your registration papers. You can do this at the local *[[Kfz-Zulassungsstelle]]* or [online](https://service.berlin.de/dienstleistung/120918/). You will receive a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*.[^2]
-- **The Kita-Gutscheinstelle**  
+- [ ] **The Kita-Gutscheinstelle**  
     If you send your children to a [[Kita]], [request a Kitagutschein](/guides/how-to-get-a-kitagutschein) for your new address.
-- **The [[Ordnungsamt]]**  
+- [ ] **The [[Ordnungsamt]]**  
     If you have a dog from a dangerous breed (pit-bull, American Staffordshire terrier, bullterrier), you must register it at the *[[Ordnungsamt]]* every time you move. If you live in Berlin, start [here](https://service.berlin.de/dienstleistung/326263/).
-- **The [Hunderegister](https://hunderegister.berlin.de/)**  
+- [ ] **The [Hunderegister](https://hunderegister.berlin.de/)**  
     If you have a dog, you should update their address in the [*Hunderegister*](https://hunderegister.berlin.de/).
-- **Your website**  
+- [ ] **Your website**  
     If you have a commercial website, update your [[Impressum]] with your new address.
 
 ## Forward your mail

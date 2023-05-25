@@ -44,12 +44,12 @@ Note that with your certificate in hand, you can get married anywhere in Germany
 
 While a wedding is generally an expensive affair, I wholly underestimated the total cost of the legal proceedings. Once again, this is just a reference and your mileage may vary.
 
-- [Certified translation of birth certificate](/out/lingoking-birth-certificate) (French to German) = 52.98€
-- [Certified translation of birth certificate](/out/lingoking-birth-certificate) (Ukrainian to German) = 52.98€
-- Initial proceedings = 105€
-- Ceremony = 150€
-- Kammergericht = 75€
-- Sworn interpret for the initial proceedings = 150€
-- Sworn interpret for the ceremony = 150€
+- [ ] [Certified translation of birth certificate](/out/lingoking-birth-certificate) (French to German) = 52.98€
+- [ ] [Certified translation of birth certificate](/out/lingoking-birth-certificate) (Ukrainian to German) = 52.98€
+- [ ] Initial proceedings = 105€
+- [ ] Ceremony = 150€
+- [ ] Kammergericht = 75€
+- [ ] Sworn interpret for the initial proceedings = 150€
+- [ ] Sworn interpret for the ceremony = 150€
 
 That brings us to a whopping **680€**. Note that if you speak fluent German, you can cut that amount in half and do without an interpreter. However, if the *Standesamt* deems that your language level is not sufficient to read and sign the documents provided (some parts are in legalese), your application may be rejected.

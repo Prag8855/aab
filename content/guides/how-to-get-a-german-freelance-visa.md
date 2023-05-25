@@ -3,10 +3,12 @@ Title: How to apply for the German Freelance Visa
 Short_title: How to get a freelance visa
 Description: The process and the requirements for obtaining a German freelance visa or a German artist visa. This is how you become self-employed in Germany.
 Date_created: 2018-02-09
-Related_reviews: reviews/how-to-get-a-german-freelance-visa/kathleen-parker.md, reviews/how-to-get-a-german-freelance-visa/johanna-sieben.md
+Related_reviews:
+    reviews/how-to-get-a-german-freelance-visa/kathleen-parker.md
+    reviews/how-to-get-a-german-freelance-visa/johanna-sieben.md
 ---
 
-In this guide, I show you how to apply for the German freelance visa. This [residence permit](/glossary/Aufenthaltstitel) lets you move to Germany to [start a business](/guides/start-a-business-in-germany) or [become a freelancer](/guides/become-a-freelancer-in-germany).
+This guide shows you how to apply for the German freelance visa. This [residence permit](/glossary/Aufenthaltstitel) lets you move to Germany to [start a business](/guides/start-a-business-in-germany) or [become a freelancer](/guides/become-a-freelancer-in-germany).
 
 If you apply for an [artist visa](/glossary/Artist%20visa) or a language teacher visa, the process is the same.
 
@@ -34,13 +36,13 @@ Since Brexit, UK citizens also need a freelance visa.
 
 ### General requirements
 
-- **You must live in Germany**  
+- [ ] **You live in Germany**  
     You must have a [place to live in Germany](/guides/find-a-flat-in-berlin). You must prove this during your visa interview.
-- **You must have health insurance**  
+- [ ] **You have health insurance**  
     Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
-- **You must make enough money**  
+- [ ] **You make enough money**  
     You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49]
-- **You must have clients in Germany**  
+- [ ] **You have clients in Germany**  
     You can't get a freelance visa if all your clients are in another country. During your visa interview, you must show [letters of intent](/glossary/Absichtserkl%C3%A4rung) from German companies who want to hire you. When you renew your visa, you must prove that you had German clients.
 
 ### Are you really a freelancer?
@@ -66,9 +68,9 @@ Note: Immigration law uses the term "*Selbständiger*", and business law uses "*
 
 If you are a *[[Gewerbetreibender]]*, these are the German freelance visa requirements:[^7]
 
-1. There is an economic/cultural interest or a *regional* need for your work.[^8] The *regional* part is important; you will not get a freelance visa if all your clients are in another country.[^9]
-2. Your business is expected to have positive effects on the economy.
-3. You have personal capital or an approved loan to realize your business idea.
+- There is an economic/cultural interest or a *regional* need for your work.[^8] The *regional* part is important; you will not get a freelance visa if all your clients are in another country.[^9]
+- Your business is expected to have positive effects on the economy.
+- You have personal capital or an approved loan to realize your business idea.
 
 In other words, you must prove that you can support yourself after moving to Germany. During your visa interview, they will check if your business idea makes sense, how much investment it requires, the effects on employment, and your contribution to innovation and research.[^7] The better you prepare, the easier this interview will be.
 
@@ -364,32 +366,32 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 
 This list contains the same documents as above. You can use it as a checklist when gathering the documents.
 
-- Address registration confirmation (*[[Anmeldebestätigung]]*)
-- Appointment confirmation from the *Ausländerbehörde*
-- Bank statement (*[[Kontoauszug]]*)
-- Business plan (not required for *[[Freiberufler]]*)
-    - Company profile (not required for *[[Freiberufler]]*)
-    - Capital requirement plan (not required for *[[Freiberufler]]*)
-    - Business concept (not required for *[[Freiberufler]]*)
-- Cash for the application fee, {{NATIONAL_VISA_FEE|cur}}€
-- Cover letter (*Anschreiben*)
-- CV or resume
-- Financing plan (*Finanzierungsplan*)
-- Freelance visa application form (*Antrag auf Erteilung eines Aufenthaltstitels*)
-- Lease
-- Letter of confirmation from your landlord (*[[Wohnungsgeberbestätigung]]*)
-- Letters of intent from German companies **× 2-5**
-- Passport
-- Passport photos **× 2**
-- Portfolio / examples of your work, printed
-- Professional permit (optional)
-- Proof of adequate pension plan (if you are over 45 years old)
-- Proof of education (optional)
-    - Certified translations (if not in German or English)
-- Proof of regular income (artists and language teachers only)
-- Proof of health insurance coverage
-- Recommendation letters **× 2-5**
-- Revenue forecast / Profit and loss statement (*[[Ertragsvorschau]]*)
+- [ ] Address registration confirmation (*[[Anmeldebestätigung]]*)
+- [ ] Appointment confirmation from the *Ausländerbehörde*
+- [ ] Bank statement (*[[Kontoauszug]]*)
+- [ ] Business plan (not required for *[[Freiberufler]]*)
+    - [ ] Company profile (not required for *[[Freiberufler]]*)
+    - [ ] Capital requirement plan (not required for *[[Freiberufler]]*)
+    - [ ] Business concept (not required for *[[Freiberufler]]*)
+- [ ] Cash for the application fee, {{NATIONAL_VISA_FEE|cur}}€
+- [ ] Cover letter (*Anschreiben*)
+- [ ] CV or resume
+- [ ] Financing plan (*Finanzierungsplan*)
+- [ ] Freelance visa application form (*Antrag auf Erteilung eines Aufenthaltstitels*)
+- [ ] Lease
+- [ ] Letter of confirmation from your landlord (*[[Wohnungsgeberbestätigung]]*)
+- [ ] Letters of intent from German companies **× 2-5**
+- [ ] Passport
+- [ ] Passport photos **× 2**
+- [ ] Portfolio / examples of your work, printed
+- [ ] Professional permit (optional)
+- [ ] Proof of adequate pension plan (if you are over 45 years old)
+- [ ] Proof of education (optional)
+    - [ ] Certified translations (if not in German or English)
+- [ ] Proof of regular income (artists and language teachers only)
+- [ ] Proof of health insurance coverage
+- [ ] Recommendation letters **× 2-5**
+- [ ] Revenue forecast / Profit and loss statement (*[[Ertragsvorschau]]*)
 
 If possible, translate these documents to German. [Lingoking](/out/lingoking) is an easy way to get official translations. [Red Tape Translation](https://redtapetranslation.com/) can also help you, and they have a lot of experience with the *Ausländerbehörde*.
 

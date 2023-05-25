@@ -11,20 +11,20 @@ This guide shows you how to get a car or motorcycle driving licence in Berlin.
 
 ## How much does it cost?
 
-In total, it costs **1,500€ to 2,500€** to get your driving licence.[^0] The costs include:
+In total, it costs **1,500€ to 3,500€** to get your driving licence.[^0] The costs include:
 
-- Eyesight test: [0€](https://www.fielmann.de/service/fuehrerschein-sehtest/) to 25€
-- Driving licence fees: {{DRIVING_LICENCE_FEE|cur}}€
-- Theory lessons: around 150€
-- Theoretical exam: 22.49€[^1]
-- Practical lessons: around 50€ for 45 minutes[^2]
+- [ ] Eyesight test: [0€](https://www.fielmann.de/service/fuehrerschein-sehtest/) to 25€
+- [ ] Driving licence fees: {{DRIVING_LICENCE_FEE|cur}}€
+- [ ] Theory lessons: around 150€
+- [ ] Theoretical exam: 22.49€[^1]
+- [ ] Practical lessons: around 50€ for 45 minutes[^2]
     - Interurban driving: minimum 5 × 45 minutes = 250€
     - Highway driving: minimum 4 × 45 minutes = 200€
     - Driving at night: minimum 3 × 45 minutes = 150€
     - Extra practice: up to you. Most people take more lessons.
-- Practical exam: around 150€ for the driving school + 121.38€ for the TÜV/Dekra
+- [ ] Practical exam: around 150€ for the driving school + 121.38€ for the TÜV/Dekra
 
-**For motorcyclists:** You also need around 1,000€ to 2,000€ for your motorcycle equipment: helmet, jacket, gloves, pants and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
+**For motorcyclists:** You also need around 1,000€ to 2,000€ for your motorcycle equipment: helmet, jacket, gloves, trousers and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
 
 ## 1. Convert your foreign driving licence
 

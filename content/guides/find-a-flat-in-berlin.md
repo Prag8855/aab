@@ -367,23 +367,23 @@ Only send documents after you see the apartment. Remove bank account numbers, pa
 
 You need these documents to apply for an apartment:
 
-- **[[Schufa]] report**  
+- [ ] **[[Schufa]] report**  
     This is like a credit report. You can [get one for free](/guides/free-schufa-berlin). If you are new in Germany, your *[[Schufa]]* is empty. You can bring a work contract or a tax return, to prove that you make enough money. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
-- **Passport or personal ID**  
+- [ ] **Passport or personal ID**  
     You must show it when you apply for the apartment. Bring photocopies of your ID, just in case.
-- **Proof of income**  
+- [ ] **Proof of income**  
     Bring a work contract, your last 3 pay slips, or your last *[[Steuerbescheid]]*. If you are a freelancer, bring a profit-and-loss statement. If you don't make enough money, you can get a *[[Mietbürgschaft]]*.
-- **Bank account statement** (optional)  
+- [ ] **Bank account statement** (optional)  
     This shows how much money you have in your bank account. If you are a freelancer, bring one.[^38]
-- **Employment contract** (optional)  
+- [ ] **Employment contract** (optional)  
     Some landlords want to see your employment contract.[^39] It proves that you have a stable income. It's harder to find an apartment during your [probation period](/glossary/Probezeit).
-- **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
+- [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
     This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It does not have a standard format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf).
-- **[[Mietbürgschaft]]** (optional)  
+- [ ] **[[Mietbürgschaft]]** (optional)  
     If you don't have a stable income, a parent or a friend can be your guarantor. If you don't pay the rent on time, your guarantor must pay it for you. This is a good option for students, freelancers and people with a low income. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
-- **Application form** (optional)  
+- [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form and fill it in advance. If you like the apartment you visit, you can apply immediately. You can usually find the application form on their website.
-- **Copies of everything**
+- [ ] **Copies of everything**
 
 ### What to look for?
 

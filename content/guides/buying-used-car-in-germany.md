@@ -101,21 +101,21 @@ After you have seen and inspected the car, it's time to buy it. Some sellers wan
 
 After you have paid, you should get these documents:
 
-- **Sales contract** (*[[Kaufvertrag]]*)  
+- [ ] **Sales contract** (*[[Kaufvertrag]]*)  
     This contract includes basic information about the vehicle and its condition. It explains the known defects of the vehicle. You should insist on having one. Use [this contract template](https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/gebrauchtwagenkauf/kfz-kaufvertrag/) from ADAC, or [this one](https://www.mobile.de/magazin/static/b39a4e3d-b8a3-421e-b14c-6a95345dc36a_kaufvertrag-pkw-von-privat.pdf) from Mobile.de.
-- **Registration certificate, part 1** (*[[Zulassungsbescheinigung]] Teil I*)  
+- [ ] **Registration certificate, part 1** (*[[Zulassungsbescheinigung]] Teil I*)  
     When folded, this document fits in your wallet. You must have it with you every time you drive.
-- **Registration certificate, part 2** (*[[Zulassungsbescheinigung]] Teil II*)  
+- [ ] **Registration certificate, part 2** (*[[Zulassungsbescheinigung]] Teil II*)  
     This is a sheet of paper folded in half. You leave this document at home, not in your vehicle. If you are buying an old vehicle, you might receive a *[[Fahrzeugbrief]]* instead. The *Fahrzeugbrief* is the old format of the *Zulassungsbescheinigung Teil II*.
 
 You should also get these things:
 
-- **Maintenance record**  
+- [ ] **Maintenance record**  
     Germans religiously collect invoices for every oil change, repair and inspection. You should get all those papers with the vehicle. These papers show that the vehicle was well-maintained. It's important to keep them.
-- **All vehicle keys**
-- **Owner's manual**  
+- [ ] **All vehicle keys**
+- [ ] **Owner's manual**  
     The seller will usually have the owner's manual. If you're lucky, you will even get the service manual. The service manual is useful if you do your own repairs.
-- **Extra parts**  
+- [ ] **Extra parts**  
     The seller will often give you extra parts for the vehicle. For example, if they installed aftermarket parts, they will often give you the original parts too.
 
 After you bought the car, the rest is your problem. You will not need to talk to the seller anymore. You are not allowed to drive the vehicle yet; you must register and insure it first. If the vehicle is still registered and insured, some sellers will let you drive it to your home.
@@ -159,20 +159,20 @@ In Berlin, this can take a few weeks. Appointments are hard to get, and they are
 
 When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these documents with you:
 
-- **Your old licence plate**  
+- [ ] **Your old licence plate**  
     Always bring the old licence plate with you. Even if you're keeping the same plate number, they will need to see it.
-- **Your passport or a valid photo ID**
-- **Your [Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)**  
+- [ ] **Your passport or a valid photo ID**
+- [ ] **Your [Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)**  
     If your ID does not show your address, you must bring your *[Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)*.
-- **Money for the registration fee**  
+- [ ] **Money for the registration fee**  
     The registration fee is 19.60€ to 31.50€.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash.[^9]
-- **Money for a new plate**  
+- [ ] **Money for a new plate**  
     If necessary, bring an extra 15€ to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
-- **The filled vehicle registration form**  
+- [ ] **The filled vehicle registration form**  
     Print and fill the [vehicle registration form](/documents/sepa-lastschriftmandat-kfz-zulassungsstelle-berlin.pdf).
-- **The filled direct debit authorisation**  
+- [ ] **The filled direct debit authorisation**  
     Print and fill the [direct debit authorisation form](/glossary/SEPA-Lastschriftmandat). This allows the government to collect the vehicle tax (*[[Kraftfahrzeugsteuer]]*) from your bank account.
-- **The [eVB number](/glossary/eVB-Nummer) from your insurance company**  
+- [ ] **The [eVB number](/glossary/eVB-Nummer) from your insurance company**  
     You don't need to print the number. You can save it on your phone.
 
 During the appointment, the employee will give you a [plastic card](/images/kassenkarte-kfz-berlin.jpg). Bring this card to the [payment machines](/images/kasseautomat-kfz-zulassungsstelle-berlin.jpg) downstairs, put it in the machine, and pay the registration fee. Take the receipt, and bring it back to the employee.
@@ -191,10 +191,9 @@ If you are buying a used vehicle, the old registration papers must have an [eID]
 
 ![Zulassungsbescheinigung e ID](/images/Zulassungsbescheinigung-eID.jpg "If the old Zulassungsbescheinigung has an eID, you can register the vehicle online")
 
-**Useful links:**
+**[Register a new vehicle online](https://www.berlin.de/labo/mobilitaet/kfz-zulassung/dienstleistungen/service.850473.php/dienstleistung/329030/)** (in German) - Berlin.de
 
-- [Register a new vehicle online](https://www.berlin.de/labo/mobilitaet/kfz-zulassung/dienstleistungen/service.850473.php/dienstleistung/329030/) - Berlin.de (in German)
-- [Register a used vehicle online](https://www.berlin.de/labo/mobilitaet/kfz-zulassung/dienstleistungen/service.850473.php/dienstleistung/329036/) - Berlin.de (in German)
+**[Register a used vehicle online](https://www.berlin.de/labo/mobilitaet/kfz-zulassung/dienstleistungen/service.850473.php/dienstleistung/329036/)** (in German) - Berlin.de 
 
 ### With a registration service
 
@@ -212,13 +211,9 @@ Most car insurance contracts are for 1 year. Every year, 1 or 2 months before yo
 
 Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare vehicle insurance options. If you find something cheaper, cancel your current contract, and switch to the cheaper insurance. You can save a lot of money by doing this.
 
+**[Car insurance in Germany ➞](/guides/car-insurance-germany)**
+
 If you sell your car, you can end your insurance contract immediately. You do not need to wait until your contract ends.
-
-**Related guides:**
-
-- [Car insurance in Germany](/guides/car-insurance-germany)
-- [Tips to save money in Germany](/guides/saving-money-germany)
-- [Cost of car ownership in Germany](/guides/car-cost-of-ownership-germany)
 
 [^0]: [ec.europa.eu](https://taxation-customs.ec.europa.eu/buying-and-selling-cars_en)
 [^1]: [spiegel.de](https://www.spiegel.de/auto/aktuell/das-folgt-aus-bgh-urteil-zu-maengelhaftung-bei-gebrauchtwagen-a-1031320.html), [telecom-handel.de](https://www.telecom-handel.de/point-of-sale/fachhandel/gewaehrleistung-pflichten-haendler-1108535.html)
