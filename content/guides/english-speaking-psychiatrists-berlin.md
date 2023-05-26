@@ -6,7 +6,6 @@ Date_created: 2023-03-30
 Related_places:
     places/ppcc-dr-ernst-seiffert.md
     places/frau-dr-med-christine-riegel.md
-    places/praxis-für-psychiatrie-und-psychotherapie-gaby-weuthen.md
     places/dr-med-cordula-dietrich.md
     places/sabine-liesegang.md
     places/dr-köller.md
