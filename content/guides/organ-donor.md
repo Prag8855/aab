@@ -1,6 +1,6 @@
 ---
 Title: How to register as an organ donor in Germany
-Short_title: How to register as an organ donor
+Short_title: How to become an organ donor
 Description: This guide shows you how to organ donations work in Germany, and how to register as a donor.
 Date_created: 2023-06-03
 Author: Jack Stephan
@@ -22,6 +22,8 @@ To do become an organ donor, you must...
 - [ ] **Write it in your will**[^5]
 - [ ] **Inform your family or your next of kin**  
     If the doctors can't find your organ donor card, they ask your next of kin. Your next of kin must guess if you wanted to give your organs.[^7] It can be a hard decision for them, so tell them what you want.
+
+[![German organ donor card](/images/german-organspendeausweis-english.png "A German organ donor card (Organspendeausweis)")](/images/german-organspendeausweis-english.png)
 
 ## How organ donations work in Germany
 
