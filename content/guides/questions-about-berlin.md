@@ -5,7 +5,7 @@ Description: Where to find support and answers to your question as a new Berline
 Date_created: 2017-09-27
 ---
 
-If this website does not answer your questions, this is where you can find help about life in Berlin.
+If I can't answer your questions, these resources can help.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -28,16 +28,16 @@ You can get help from these communities and services.
 ### Free help
 
 - **[Consultation service](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947842.en.php)** of the *[[Ausländerbehörde]]*  
-    Use this email to ask questions about the *Ausländerbehörde*. They answer quickly. This is a free service.
+    Use this email to ask questions about the *Ausländerbehörde*. They answer quickly.
 - **["Working and Living in Germany" hotline](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
-    This hotline helps people move to Germany. They speak English. This is a free service.
+    This phone hotline helps people move to Germany. They speak English.
 - **[Legal advice service](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947832.en.php)** of the *[[Ausländerbehörde]]*   
-    The *[[Ausländerbehörde]]* offers [free immigration advice](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947832.en.php) in German, Turkish, Farsi and Arabic. You might also be able to get help in English. This is a free service.
+    The *[[Ausländerbehörde]]* offers [free immigration advice](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947832.en.php) in German, Turkish, Farsi and Arabic. You might also be able to get help in English.
 - **[Welcome Center](https://www.berlin.de/willkommenszentrum/en/)** of the Commissioner for Integration and Migration  
-    They offer legal help with immigration. They speak English, and many other languages.
-- **[The Imagine Foundation](https://www.joinimagine.com/)**  
-    If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English. This is a free service.[^0]
-- **[Fem.OS](https://femos.minor-kontor.de/en)**  
+    They offer legal help about immigration. They speak English, and many other languages.
+- [The Imagine Foundation](https://www.joinimagine.com/)  
+    If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English.[^0]
+- [Fem.OS](https://femos.minor-kontor.de/en)  
     They offer information and legal advice for female migrants. They speak 10 languages.
 - [Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/) - Facebook group
 - [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa) - Facebook group
@@ -45,8 +45,10 @@ You can get help from these communities and services.
 
 ### Paid help
 
-- **Immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
-    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
+- **Immigration lawyer**  
+    Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin).
+    - **Immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
+        Use this number to ask quick questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **[Red Tape Translation](https://redtapetranslation.com/)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
 - **[Verfahrenshinweise zum Aufenthalt in Berlin](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)** (in German)  
@@ -64,8 +66,8 @@ You can get help from these communities and services.
     There are [dozens of locations in Berlin](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). You can contact them and ask questions. This is a free service from the city of Berlin. They might not speak English.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), you can get their advice for free. If not, a lawyer costs around 200€ per hour.
-- **[Conny](/out/conny-mietpreisbremse)**  
-    Conny is a legal service that helps people lower their rent. They also have a legal hotline for tenants that costs 4€ to 10€ per month. They speak English.
+    - [Conny](/out/conny-mietpreisbremse)  
+        A legal service that helps people lower their rent. They speak English.
 
 **If you get housing benefits**, contact [your local *Sozialamt*](https://service.berlin.de/sozialaemter/). They can help with apartment problems.
 
@@ -82,13 +84,11 @@ You can get help from these communities and services.
 ## Legal questions
 
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
-    Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung), they can help you find a lawyer. Your legal insurance covers the cost of talking to a lawyer. They might have a legal hotline that you can call for free.
+    Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung) can help you find a lawyer, and it might pay for it. Some legal insurances have a legal hotline.
     - **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
         Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **Legaltech** (*Rechtsdienstleister*)  
     Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/saving-money-germany#lower-your-rent) and many other things. I reviewed them [here](/guides/wenigermiete-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
-- **Workers union** (*Gewerkschaft*)  
-    If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
 
 **If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^5] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^6] You will probably need to speak German.
 
@@ -109,6 +109,8 @@ You can get help from these communities and services.
     Free help for immigrants and asylum seekers. They speak English and many other languages.
 - **Your works council** (*Betriebsrat*)  
     If your company has a *Betriebsrat*, they can advise you for free. They work for you, not your employer.
+- **Workers union** (*Gewerkschaft*)  
+    If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
 - **Employment lawyer** (*Fachanwalt für Arbeitsrecht*)  
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Hire a lawyer who specialises in employment law. They cost around 200€ per hour. Your [legal insurance](/glossary/Rechtsschutzversicherung) pay for it.
 
