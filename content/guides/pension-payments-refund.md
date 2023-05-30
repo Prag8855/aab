@@ -6,7 +6,7 @@ Date_created: 2020-06-04
 Related_reviews: reviews/pension-payments-refund/johannes-kühn.md, reviews/pension-payments-refund/dr-rené-roy.md, reviews/pension-payments-refund/christian-haas.md
 ---
 
-When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income to the public pension system (*gesetzliche Rentenversicherung*). If you leave Germany, you can get that money back. You can get **thousands of euros** back.
+When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income to the public pension system (*[[gesetzliche Rentenversicherung]]*). If you leave Germany, you can get your pension payments back. You can get thousands of euros back.
 
 In this guide, I show you if you can get a pension refund, and how to apply for it.
 
@@ -26,7 +26,7 @@ There are 3 conditions for getting a German pension refund:
 2. **and** you can't contribute voluntarily to the German pension system
 3. **and** your last pension payment in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey was more than 24 months ago[^0]
 
-### EU and EEA citizens
+### EU, [[EEA]] and Switzerland citizens
 
 If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you can always contribute to your German pension, so you can't get a refund.[^40]
 
@@ -283,11 +283,11 @@ You can let someone take care of everything. There are good reasons to get help:
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.
 
 - **[⭐ FundsBack](/out/fundsback)**  
-    Their fee is 10% of your refund (minimum 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
+    Their fee is 10% of your refund (minimum fee 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
 - **[⭐ Germany Pension Refund](/out/germany-pension-refund)**  
-    Their fee is 9.75% of your refund (no minimum or maximum).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
+    Their fee is 9.75% of your refund (no minimum or maximum fee).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
 - **[⭐ Pension Refund Germany](/out/german-pension-refund)**  
-    Their fee is 10% of your refund (no minimum, maximum 2,800€).[^31] They automated a big part of the process, so you can do everything online. They work with a lawyer.
+    Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated a big part of the process, so you can do everything online. They work with a lawyer.
 - **[TaxBack](/out/taxback)**  
     Their fee is 19.8% of your refund,[^32] or minimum 60€. They offer various international tax services. I do not recommend them. They don't specialise in pension refunds, and their fee is too high.
 - [**Germany Mantra**](/out/germany-mantra)  
@@ -316,7 +316,6 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^0]: [Screenshot](/images/rene-pension-refund-answers-2022-02-15.png)
 [^1]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=gesetzlichen%20Rentenversicherung%20zahlt.-,beitragserstattung%20bei%20erreichen%20der%20regelaltersgrenze,-Als%20n%C3%A4chstes%20werde)
 [^2]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=aufhalten.%20Hierzu%20geh%C3%B6ren%3A-,bosnien-herzegowina%2C%20kosovo%2C%20montenegro%20und%20serbien,-Staatsangeh%C3%B6rige%20der%20Staaten)
-[^3]: [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title)
 [^4]: Georg from Pension Refund Germany (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^5]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=bei%20staatsangehorigen%20des%20staates%20israel)
 [^6]: [Screenshot](/images/rene-pension-japan-2022-01-20.png)

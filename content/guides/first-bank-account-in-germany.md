@@ -92,8 +92,8 @@ These banks remove the monthly fees if you deposit money in your account every m
 - **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - No monthly fee for students under 26 years old.[^24] 8.50€ per year for a debit card. Some branches offer a *[[Sperrkonto]]*.
 - **[comdirect](/out/comdirect)** - No monthly fee for students under 28 years old.[^20]
 - **[Commerzbank](/out/commerzbank)** - No monthly fee for students under 27 years old ([*StartKonto*](/out/commerzbank-students)).[^21] The credit card is free if you deposit over 300€ per month.
-- **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25] 6.90€ for non-EU students.[^26] They offer a *[[Sperrkonto]]* for the German student visa.
-- **[ING](/out/ing)** - No monthly fee for students. 1€ per month fee for a debit card.
+- **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25] 6.90€ for non-EU students.[^26] They offer a *[[Sperrkonto]]* for the German [student visa](/glossary/Student%20visa).
+- **[ING](/out/ing-students)** - No monthly fee for students. 1€ per month fee for a debit card.
 - **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - No monthly fee for students.[^27]
 
 ### Banks with monthly fees
@@ -176,7 +176,7 @@ If you are American, you need extra forms to open a German bank account, because
 
 ### Open a bank account online
 
-Some banks like [bunq](/out/bunq), [Comdirect](/out/comdirect), [DKB](/out/dkb), [ING](/out/ing), [Monese](/out/monese), [N26](/out/n26), [Revolut](/out/revolut) and [Wise](/out/wise-account) let you open an account with their app. You can do it at home. They start a video call, and they ask you to show both sides of your ID or passport. This only works with passports from certain countries.[^51] If they don't accept your passport, you must use [[Postident]] to verify your documents. This takes longer, and it doesn't always work.
+Some banks like [N26](/out/n26),[bunq](/out/bunq), [DKB](/out/dkb), [ING](/out/ing), [Comdirect](/out/comdirect), [Revolut](/out/revolut) and [Wise](/out/wise-account) let you open an account with their app. You can do it at home. They start a video call, and they ask you to show both sides of your ID or passport. This only works with passports from certain countries.[^51] If they don't accept your passport, you must use [[Postident]] to verify your documents. This takes longer, and it doesn't always work.
 
 With online banks, you can sometimes open your account from another country, before you arrive in Germany. They still need to send your bank card to a German address. Some people sent the bank card to their office, or to a friend's address.
 
@@ -231,7 +231,7 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^22]: [ing.de](https://www.ing.de/girokonto/konditionen/)
 [^23]: [allaboutberlin.com](/out/1822direkt), [1822direkt.de](https://www.1822direkt.de/fileadmin/Home/Dokumente/PDF/pv_aktuelle_Produkte_1822direkt.pdf)
 [^24]: [berliner-sparkasse.de](https://www.berliner-sparkasse.de/content/dam/myif/berliner-sk/work/dokumente/pdf/preise-leistungen/preisaushang.pdf?n=true)
-[^25]: [deutsche-bank.de](https://www.deutsche-bank.de/pk/konto-und-karte/konten-im-ueberblick/das-junge-konto.html)
+[^25]: [deutsche-bank.de](/out/deutsche-bank-young)
 [^26]: [deutsche-bank.de](https://www.deutsche-bank.de/pk/konto-und-karte/konten-im-ueberblick/internationale-studenten.html#parsys-tabs-tabsParsys-tabpanel_434257003-tabPanelParsys-accordion-accordionParsys-accordionentry)
 [^27]: [berliner-volksbank.de](https://www.berliner-volksbank.de/privatkunden/junge-leute/kostenloses-girokonto.html)
 [^28]: [berliner-sparkasse.de](https://www.berliner-sparkasse.de/de/home/privatkunden/girokonto/girokonto-online.html)

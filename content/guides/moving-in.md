@@ -154,7 +154,7 @@ The things you have in your apartment are not covered by liability insurance. If
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance for less than 5€ per month and they speak English. They also have household insurance (*[[Hausratversicherung]]*). It's sometimes cheaper if you get both.
+[Muffin](/out/muffin-haftpflicht) helps you choose liability insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. These companies also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both at the same time. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options.
 
 ### Join a tenants' association
 
@@ -219,8 +219,6 @@ These expenses are tax-deductible:
     For example, painting your old apartment, or installing lights and kitchen cabinets in the new apartment.
 
 New furniture and appliances are not tax-deductible. Costs that are refunded by your employer are not tax-deductible.
-
-[Tax software](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany) and [tax advisors](/glossary/Steuerberater) can help you declare moving expenses on your taxes.
 
 ## First apartment in Berlin?
 

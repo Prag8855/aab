@@ -122,9 +122,9 @@ You should also write down your bicycle's frame number (*Rahmennummer*). If your
 
 ### Bike theft insurance
 
-If you have an expensive bike, you can get household insurance *[[Hausratversicherung]]* that covers bike theft, or just bicycle insurance (*[[Fahrradversicherung]]*. If your bike is stolen, your insurance will pay to replace it. Bicycle insurance only covers recent bicycles. Older bicycles are not covered. If you don't speak German, [Feather](/out/feather-bicycle) and [GetSafe](/out/getsafe-bicycle) offer bicycle insurance in English.
+If you have an expensive bike, you can get household insurance *[[Hausratversicherung]]* that covers bike theft, or just bicycle insurance (*[[Fahrradversicherung]]*. If your bike is stolen, your insurance will pay to replace it. Bicycle insurance only covers recent bicycles. Older bicycles are not covered. If you don't speak German, [Feather](/out/feather-bicycle), [GetSafe](/out/getsafe-bicycle) and [Muffin](/out/muffin) sell bicycle insurance, and they speak English.
 
-### What to do if your bike gets stolen
+### If your bike gets stolen
 
 Report the theft to the Berlin police. You can do it online. If your bicycle is found again, they will let you know. You can also look at [this list of recovered bicycles](https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/).
 
@@ -132,38 +132,38 @@ Report the theft to the Berlin police. You can do it online. If your bicycle is 
 
 Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin Police sometimes controls bicycles.
 
-- **[Lights](https://www.amazon.de/s/ref=as_li_ss_tl?k=stvzo+fahrradbeleuchtung&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AZ7Q8F9D9AJ3&sprefix=stvzo+fahrrad,aps,215&ref=nb_sb_ss_i_1_13&linkCode=sl2&tag=nicolasboulia-21&linkId=9f73421a651437357fb9a83c139353ff&language=de_DE)** (*Scheinwerfer*)  
+- [ ] **[Lights](https://www.amazon.de/s/ref=as_li_ss_tl?k=stvzo+fahrradbeleuchtung&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AZ7Q8F9D9AJ3&sprefix=stvzo+fahrrad,aps,215&ref=nb_sb_ss_i_1_13&linkCode=sl2&tag=nicolasboulia-21&linkId=9f73421a651437357fb9a83c139353ff&language=de_DE)** (*Scheinwerfer*)  
     Your bicycle must have a white light in the front, and a red light in the back.[^5] Blinking lights are not allowed.[^6] If your bicycle does not have lights, you can get a 20 to 35€ fine.[^7] You can get a fine even during the day.
-    - **Headlight**  
+    - [ ] **Headlight**  
         One white front light, powered by a battery or dynamo.
-    - **Rear light**  
+    - [ ] **Rear light**  
         One red rear light, powered by a battery or dynamo.
-- **Reflectors** (*Rückstrahler*)  
+- [ ] **Reflectors** (*Rückstrahler*)  
     Your bicycle must have all the required reflectors.[^8] If you don't have the correct reflectors, you can get a 20€ fine.
-    - **[Front reflector](https://www.amazon.de/Fischer-Erwachsene-Vorbaubefestigung-Reflektor-schwarz/dp/B0154YPBIM/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-11&linkCode=sl1&tag=nicolasboulia-21&linkId=7de1370f58f8c1a068d0ab4e0648c300&language=de_DE)**  
+    - [ ] **[Front reflector](https://www.amazon.de/Fischer-Erwachsene-Vorbaubefestigung-Reflektor-schwarz/dp/B0154YPBIM/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-11&linkCode=sl1&tag=nicolasboulia-21&linkId=7de1370f58f8c1a068d0ab4e0648c300&language=de_DE)**  
         One white reflector. You must also have a bicycle light. Many bicycle lights have a reflector inside them.
-    - **[Rear reflector](https://www.amazon.de/JABs-Heckrefletor-Hinterradstrahler-R%C3%BCckstrahler-Kinderfahrrad/dp/B07ZPG565Y/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=bd3e62ec9a81da2110eab61572324a0e&language=de_DE)**  
+    - [ ] **[Rear reflector](https://www.amazon.de/JABs-Heckrefletor-Hinterradstrahler-R%C3%BCckstrahler-Kinderfahrrad/dp/B07ZPG565Y/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=bd3e62ec9a81da2110eab61572324a0e&language=de_DE)**  
         One red reflector. You must also have a red rear light. Many bicycle lights have a reflector inside them.
-    - **[Wheel reflectors](https://www.amazon.de/B%C3%BCchel-50201-1-Spotlight-Approved-Shatterproof/dp/B07R884J9R/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UTZHFAVHAQWG&dchild=1&keywords=fahrrad+reflektoren&qid=1598610707&sprefix=fahrradrefl,aps,244&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=183d74785fef5bd2a878c81703522126&language=de_DE)**  
+    - [ ] **[Wheel reflectors](https://www.amazon.de/B%C3%BCchel-50201-1-Spotlight-Approved-Shatterproof/dp/B07R884J9R/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UTZHFAVHAQWG&dchild=1&keywords=fahrrad+reflektoren&qid=1598610707&sprefix=fahrradrefl,aps,244&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=183d74785fef5bd2a878c81703522126&language=de_DE)**  
         Two yellow reflectors per wheel. You can also use white [spoke reflectors](https://www.amazon.de/exec/obidos/ASIN/B0090G2TRC/fahrradmagazin-21/ref=as_li_ss_tl?&th=1&linkCode=sl1&tag=nicolasboulia-21&linkId=68fd0ea6dac4f3259bb8a76f0a789728&language=de_DE). Spoke reflectors are much more visible.
-    - **Pedal reflectors**  
+    - [ ] **Pedal reflectors**  
         Two yellow reflectors on each pedal: one facing forward, and one facing rearward.
-- **[Bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b)** (*Fahrradglocke*)  
+- [ ] **[Bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b)** (*Fahrradglocke*)  
     Your bicycle must have a bell.[^9] It must be attached to the handlebars and easy to reach.[^10] You can [buy a bicycle bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b) for less than 5€. If you don't have a bell, you can get a 15€ fine.
-- **Brakes** (*Bremse*)  
+- [ ] **Brakes** (*Bremse*)  
     Your bicycle must have working brakes.[^11] The front and rear breaks must both work.[^12] If your brakes don't work, you can get a 10€ fine.[^13]
 
 Some equipment is not required, and some equipment is forbidden:
 
-- **Helmet**  
+- [ ] **Helmet**  
     You can ride without a helmet in Germany.
-- **Lock**  
+- [ ] **Lock**  
     In Berlin, you should get a strong lock for your bike. Bike theft is very common.
-- **Panniers and bags**  
+- [ ] **Panniers and bags**  
     Panniers and bags are allowed. They are very useful in Berlin.
-- **Turn signals**  
+- [ ] **Turn signals**  
     Turn signals are only allowed for multiple track (3 or 4-wheeled) bicycles.[^14]
-- **Action cameras and dashcams**  
+- [ ] **Action cameras and dashcams**  
     You can use an action camera on your bicycle.[^14] You must still follow [German photography laws](/guides/photography-laws-germany).
 
 ## Road rules for cyclists in Germany
@@ -201,7 +201,6 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 
 **[How to use public transit ➞ Bicycles on public transit](/guides/public-transit#bicycles-on-public-transit)**
 
-[^0]: [pd-f.de](https://www.pd-f.de/2017/06/02/geklautes-fahrrad-gekauft-hat-das-folgen_11580)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b80fgm/im_thinking_of_buying_a_bicycle_on_shpock_but_i/ejw5zi1/)
 [^2]: [hanseaticbank.de](https://www.hanseaticbank.de/klarmacher/sparen/fahrrad-steuerlich-absetzen-nicht-nur-sprit-sondern-auch-geld-sparen#befreit)
 [^3]: [vanraam.com](https://www.vanraam.com/de-de/beratung-inspiration/aktuell/therapierad-uber-die-krankenkasse-anschaffen)

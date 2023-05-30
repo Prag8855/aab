@@ -41,6 +41,8 @@ config.output_path = Path(__file__).parent.parent / 'output'
 config.site_url = os.environ.get('SITE_URL', '')
 config.html_url_extension = ''
 
+config.checkbox_list_item_class = 'checkbox'
+
 config.lunr_indexes = {
     'indexed_fields': ('title', 'short_title', 'description', 'german_term', 'english_term',),
     'indexes': [
@@ -146,13 +148,15 @@ config.renderers += (
 
 config.linters = (
     'extensions.linters.footnotes.FootnoteLocationLinter',
+    'extensions.linters.footnotes.OrphanFootnotesLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
+    'extensions.linters.lists.MultilineListsLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
-    'extensions.linters.places.PlacesLinter',
+    # 'extensions.linters.places.PlacesLinter',
     'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     'ursus.linters.images.UnusedImagesLinter',
-    'ursus.linters.markdown.MarkdownExternalLinksLinter',
+    # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
 )
@@ -373,6 +377,11 @@ config.context_globals = {
     # Umsatzsteuer-Voranmeldung minimum amounts, based on VAT paid last year (€/year) - § 18 UStG
     "VAT_MIN_QUARTERLY_AMOUNT": 1000,
     "VAT_MIN_MONTHLY_AMOUNT": 7500,
+
+    # Capital gains tax - § 32d EStG
+    "CAPITAL_GAINS_TAX_RATE": 25,
+    # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
+    "CAPITAL_GAINS_FREIBETRAG": 1000,
 
     # ==============================================================================
     # PUBLIC TRANSIT

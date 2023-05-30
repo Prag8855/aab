@@ -14,10 +14,11 @@
             <hr>
             <div class="form-group">
                 <label for="nationality-{% endraw %}{{ id }}{% raw %}">
-                    What is your nationality?
+                    Nationality
                 </label>
                 <select
                   class="select"
+                  placeholder="Choose a country"
                   :class="{'error': !isNationalityEligible}"
                   id="nationality-{% endraw %}{{ id }}{% raw %}"
                   v-model="nationality">
@@ -27,10 +28,11 @@
             </div>
             <div class="form-group">
                 <label for="country-of-residence-{% endraw %}{{ id }}{% raw %}">
-                    Where do you live now?
+                    Where do you live?
                 </label>
                 <select
                   class="select"
+                  placeholder="Choose a country"
                   :class="{'error': !isCountryOfResidenceEligible}"
                   id="country-of-residence-{% endraw %}{{ id }}{% raw %}"
                   v-model="countryOfResidence">
@@ -42,7 +44,7 @@
                 <hr>
                 <h3>You can't get a pension refund</h3>
                 <p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>
-                <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a European Economic Area citizen.</p>
+                <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a <a href="/glossary/EEA" target="_blank">European Economic Area</a> citizen.</p>
                 <p v-if="hasFlag('eu-resident')">You can't get a German pension refund while you live in the European Union. If you leave the European Union, you can get a refund.</p>
                 <p v-if="hasFlag('disqualifying-country-resident')">You can't get a German pension refund while you live in Bosnia-Herzegovina, Kosovo, North Macedonia, Serbia or Turkey.</p>
                 <p v-if="hasFlag('israel-national') && hasFlag('israel-resident')">You can't get a pension refund because <strong>you live in Israel</strong>. If you move out of Israel, you can get a pension refund.</p>
@@ -50,26 +52,26 @@
             <div v-if="isCountriesSelected && isCountriesEligible">
                 <hr>
                 <div class="form-group">
-                    <span class="label">First month of work in Germany</span>
+                    <span class="label">First month in Germany</span>
                     <div class="input-group date-input">
-                      <select
-                        class="month-input"
-                        :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
-                        v-model="firstMonthOfWork">
-                          <option value="" disabled selected hidden>Month</option>
-                          <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
-                      </select>
-                      <select
-                        class="year-input"
-                        :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
-                        v-model="firstYearOfWork">
-                          <option value="" disabled selected hidden>Year</option>
-                          <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
-                      </select>
+                          <select
+                            class="month-input"
+                            :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                            v-model="firstMonthOfWork">
+                              <option value="" disabled selected hidden>Month</option>
+                              <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
+                          </select>
+                          <select
+                            class="year-input"
+                            :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                            v-model="firstYearOfWork">
+                              <option value="" disabled selected hidden>Year</option>
+                              <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
+                          </select>
                     </div>
                 </div>
                 <div class="form-group">
-                    <span class="label">Last month of work in Germany</span>
+                    <span class="label">Last month in Germany</span>
                     <div class="input-group date-input">
                         <select
                           class="month-input"
@@ -85,6 +87,7 @@
                             <option value="" disabled selected hidden>Year</option>
                             <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
                         </select>
+                        <span class="input-instructions">Only include the months that you were employed.</span>
                     </div>
                 </div>
                 <div v-if="isDateRangeSelected && isDateRangeEligible">
@@ -147,7 +150,7 @@
             <p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
             <div class="form-group">
                 <span class="label">Choose a helper</span>
-                <div class="radio-options">
+                <div class="checkbox-group">
                     <label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
                         <input type="radio" name="partner-{% endraw %}{{ id }}{% raw %}" :value="partner" v-model="selectedPartner"/>
                         <div>

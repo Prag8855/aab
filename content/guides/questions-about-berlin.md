@@ -109,13 +109,12 @@ If you speak German, these communities can also help you
 
 ## Financial questions
 
-- **[Tax advisors](/guides/english-speaking-steuerberater-berlin)**  
-    Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
-- **[Tax software](/guides/english-speaking-steuerberater-berlin#english-language-tax-software-for-germany)**
-    - **If you are an employee**, you can use [Taxfix](/out/taxfix) or [SteuerGo](/out/steuergo). Both are available in English. They help you enter expenses and file tax declarations.
-    - **If you are self-employed**, you can use [Accountable](/out/accountable) or [Sorted](/out/sorted-taxes). They help you with invoicing and [VAT reporting](/glossary/Umsatzsteuervoranmeldung) in English. If you speak German, I recommend [Lexoffice](/out/lexoffice). A tax advisor is better than tax software, but it's more expensive. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier.
-- **Tax union** (*Lohnsteuerhilfeverein*)  
-    A *Lohnsteuerhilfeverein* can help you file your taxes. It's usually cheaper than a tax advisor. The cost is often based on your income.
+- **[Tax advisors](/guides/english-speaking-steuerberater-berlin) and [alternatives](/guides/english-speaking-steuerberater-berlin#alternatives-to-a-tax-advisor)**  
+    [Tax advisors](/glossary/Steuerberater) are certified tax professionals. They are legally liable for the advice they give. If they make a mistake, they pay for it. If you have complex tax questions, they are the only option.
+- **[Tax software](/guides/german-tax-software)**  
+    Tax software can help you file a [tax declaration](/glossary/Steuererklärung). It's much cheaper than hiring a [tax advisor](/glossary/Steuerberater).
+- **Tax help union** (*[[Lohnsteuerhilfeverein]]*)  
+    A *Lohnsteuerhilfeverein* can help you file a [tax declaration](/glossary/Steuererklärung). It's usually cheaper than a tax advisor. The cost is often based on your income.
 
 ## Business questions
 

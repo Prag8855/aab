@@ -52,7 +52,6 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 **[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
-[^1]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^2]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Wikipedia](https://de.wikipedia.org/wiki/Fiktionsbescheinigung), [Berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^3]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^4]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)

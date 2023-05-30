@@ -2,9 +2,8 @@
 Title: What is Deutsche Bank?
 German_term: Deutsche Bank
 English_term: 
-Description: 
+Description: One of the biggest banks in Germany.
 Date_created: 2018-08-14
-Date_updated: 2022-08-31
 Related_guides: guides/an-honest-review-of-n26.md, guides/german-banks-no-address.md
 ---
 

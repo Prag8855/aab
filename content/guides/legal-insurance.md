@@ -50,7 +50,7 @@ Here are a few examples where your legal insurance can help:
 - **Problem with a government office**  
     For example, if you have problems with the *[[Finanzamt]]* or the *[[Bürgeramt]]*. Immigration problems are rarely covered.[^39]
 - **Problem with another insurance**  
-    For example, if your disability insurance won't pay, or if you had a car accident and the other person's insurance won't pay.[^4] This is very common: 25% of disability insurance claims are refused.[^5]
+    For example, if your [disability insurance](/glossary/Berufsunfähigkeitsversicherung) won't pay, or if you had a car accident and the other person's insurance won't pay.[^4] This is very common: 25% of disability insurance claims are refused.[^5]
 - **You want to sue someone for damages**  
     For example, a car hit you when you were on your bicycle,[^6] or someone punched you in the face, and you want to sue them.
 
@@ -122,7 +122,14 @@ If you don't need full legal insurance, look at [cheaper options](/guides/questi
 
 ## How to choose legal insurance
 
-When you choose legal insurance, always read the policy. Every insurance has different coverage. If you don't speak German, you should choose an English-speaking insurer like [Feather](/out/feather-rechtsschutz) or [GetSafe](/out/getsafe-rechtsschutz). GetSafe's insurance policy is [available in English](https://www.hellogetsafe.com/documents/legal_comfort_roland.pdf?lang=en).
+To choose legal insurance:
+
+1. **Talk to an insurance broker**  
+    An independent insurance broker can help you pick the best insurance from multiple companies. Their help is free, because they are paid by commission. [Muffin](/out/muffin-rechtsschutz) is an English-speaking insurance broker in Berlin.
+2. **Use a comparison website**  
+    [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances. It's only in German.
+3. **Read your insurance policy**  
+    Every insurance is different. You must understand what your insurance covers. If you don't speak German, choose an English-speaking insurer. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) speak English. GetSafe's insurance policy is [available in English](https://www.hellogetsafe.com/documents/legal_comfort_roland.pdf?lang=en).
 
 ### What to cover
 

@@ -13,5 +13,3 @@ A *Fiktionsbescheinigung* is a temporary [residence permit](/glossary/Aufenthalt
 **[More about the Fiktionsbescheinigung ➞](/guides/fiktionsbescheinigung)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
-[^1]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
-[^2]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Wikipedia](https://de.wikipedia.org/wiki/Fiktionsbescheinigung), [Berlin.de](https://service.berlin.de/dienstleistung/326233/en/)

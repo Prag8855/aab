@@ -2,18 +2,24 @@
 Title: What is a Gewerbe?
 German_term: Gewerbe
 English_term: Trade
-Description: 
+Description: A type of business in Germany.
 Date_created: 2018-07-31
-Date_updated: 2022-04-20
-Related_guides: guides/fragebogen-zur-steuerlichen-erfassung.md, guides/freiberufler-or-gewerbe.md, guides/website-freiberuf-or-gewerbe.md, guides/start-a-business-in-germany.md, guides/freelance-developer-rate.md, guides/gewerbesteuer.md
+Related_guides:
+    guides/gewerbeschein.md
+    guides/freiberufler-or-gewerbe.md
+    guides/website-freiberuf-or-gewerbe.md
+    guides/start-a-business-in-germany.md
+    guides/become-a-freelancer-in-germany.md
+    guides/how-to-get-a-german-freelance-visa.md
+    guides/fragebogen-zur-steuerlichen-erfassung.md
+    guides/website-compliance-germany.md
 ---
 
-In German tax and immigration law, a trade (*Gewerbe*) is a type of business. When you register as a *Gewerbe*, you must usually pay the trade tax (*[[Gewerbesteuer]]*).
+In Germany, there are two types of self-employed people:
 
-Compared to freelancers (*[[Freiberufler]]*), trades have a few special obligations:
+- Freelancers (*[[Freiberufler]]*) who practice a *freier Beruf*
+- Tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*) who run a *Gewerbe*
 
-- They must register in the trade register (*[[Handelsregister]]*)
-- They must apply for a trade licence (*[[Gewerbeschein]]*) and pay the trade tax (*[[Gewerbesteuer]]*).
-- They must use double entry bookkeeping.
+If you run a *Gewerbe*, you have more obligations. Your business is also taxed differently.
 
 **[Freiberufler or Gewerbe: what is the difference? ➞](/guides/freiberufler-or-gewerbe)**

@@ -36,5 +36,6 @@ There are also [other people who can help you](/guides/questions-about-berlin#im
 
 ## List of relocation agencies
 
-If someone is missing from the list below, [let me know](/suggest-business).
+If someone is missing from this list, [contact me](/suggest-business).
 
+{% include 'blocks/_relatedPlaces.html' %}

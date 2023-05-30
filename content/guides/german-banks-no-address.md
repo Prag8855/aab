@@ -3,7 +3,6 @@ Title: Opening a German bank account without an Anmeldung
 Short_title: How to open a bank account without an Anmeldung
 Description: These German banks let you open an account without an official address in Germany. No Meldebestätigung or a Meldebescheinigung needed!
 Date_created: 2018-07-31
-Date_updated: 2022-12-08
 ---
 
 When you move to Germany, you need a bank account. These banks let you open an account **without a registered address in Germany**. You don't need to do your *[[Anmeldung]]*, and you don't need a registration certificate (*[[Anmeldebestätigung]]*). This is useful if you just moved to Germany.
@@ -38,8 +37,8 @@ These banks will let you open an account without a registered address in Germany
 
 These banks require a registration certificate ([*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung)) to open an account:
 
-- Berliner Sparkasse[^4]
-- Comdirect[^5]
+- [Berliner Sparkasse](/out/sparkasse)[^4]
+- [Comdirect](/out/comdirect)[^5]
 
 ## Other problems you might have
 

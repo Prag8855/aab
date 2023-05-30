@@ -9,39 +9,39 @@
     {% endif %}
     {% raw %}
         <div class="body">
-            <p>
-                <strong v-if="!isConnected"><a href="/glossary/Anmeldung">Anmeldung</a> appointment finder</strong>
-                <strong v-if="isConnected">Searching for <a href="/glossary/Anmeldung">Anmeldung</a> appointments...</strong>
-                <br>
-                <small v-if="isConnected === null">Connecting to the appointment finder...</small>
-                <small v-if="isConnected === false">Can't connect to the appointment finder. Try refreshing the page.</small>
-                <small v-if="isConnected && !isRateLimited && secondsToNextMessage === null">Checking every 3 minutes.</small>
-                <small v-if="isConnected && !isRateLimited && secondsToNextMessage > 0">
-                  <span v-if="isConnected && hasError">Berlin.de is having issues.</span>
-                  Checking again in {{ secondsToNextMessage }} seconds.
-                </small>
-                <small v-if="isConnected && !isRateLimited && secondsToNextMessage <= 0 ">Looking for appointments...</small>
-                <small v-if="isConnected && isRateLimited">Berlin.de is blocking requests. Pausing for a few minutes.</small>
+            <p v-if="isConnected === null">
+                Connecting to the appointment finder...
             </p>
-            <progress class="refresh-progress" max="180" :value="secondsToNextMessage" role="timer" aria-label="Time until next refresh"></progress>
-            <p v-if="isConnected && appointments.length === 0" class="no-appointments">
-                New appointments appear here. You don't have to refresh the page.
-                <small v-if="!isDuringOfficeHours"><br>There are more appointments on weekdays between 8:00 and 17:00.</small>
-            </p>
-            <div v-if="appointments.length > 0" class="options">
-                <div v-for="appointment in appointments" :key="appointment.date">
-                  <div>
-                    <strong>{{ prettyDate(appointment.date) }}</strong>
-                    <br>
-                    <small>{{ relativeDate(appointment.date) }}</small>
-                  </div>
-                  <a role="button" class="button primary" href="/out/appointment-anmeldung" target="_blank" title="Book this appointment">
-                    Book
-                  </a>
-                </div>
+            <div class="error" v-if="isConnected === false">
+                <h3>Can't connect to the appointment finder</h3>
+                <p>Try refreshing the page. You can also <a target="_blank" href="/out/appointment-anmeldung">check Berlin.de</a>, <a href="tel:+49115">call 115</a> or <a href="/guides/berlin-burgeramt-appointment#email-the-burgeramt">email your <em>Bürgeramt</em></a>. If this keeps happening, <a href="/contact">email me</a>.</p>
             </div>
+            <div class="error" v-if="isConnected && hasError">
+                <h3>Can't connect to Berlin.de</h3>
+                <p>Berlin.de is having issues. If this keeps happening, <a href="/contact">email me</a>.</p>
+            </div>
+            <div class="error" v-if="isConnected && appointments.length === 0">
+                <h3>No appointments found</h3>
+                <p>This happens often. <a target="_blank" href="/out/appointment-anmeldung">Check Berlin.de</a>, <a href="tel:+49115">call 115</a> or <a href="/guides/berlin-burgeramt-appointment#email-the-burgeramt">email your <em>Bürgeramt</em></a>. It's sometimes faster.</p>
+                <p v-if="!isDuringOfficeHours">There are more appointments on weekdays between 8:00 and 17:00.</p>
+            </div>
+            <div class="options" v-if="appointments.length > 0">
+                <a v-for="appointment in appointments" href="/out/appointment-anmeldung" target="_blank" title="Book this appointment" :key="appointment.date">
+                    <svg fill="currentColor" width="700pt" height="700pt" version="1.1" viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m525 97.477h-43.75v-21.176c0-9.3789-5.0039-18.043-13.125-22.734-8.1211-4.6875-18.129-4.6875-26.25 0-8.1211 4.6914-13.125 13.355-13.125 22.734v21.176h-157.5v-21.176c0-9.3789-5.0039-18.043-13.125-22.734-8.1211-4.6875-18.129-4.6875-26.25 0-8.1211 4.6914-13.125 13.355-13.125 22.734v21.176h-43.75c-16.246 0-31.824 6.4531-43.309 17.938-11.488 11.488-17.941 27.066-17.941 43.312v289.97c0 16.246 6.4531 31.824 17.941 43.312 11.484 11.484 27.062 17.938 43.309 17.938h350c16.246 0 31.824-6.4531 43.309-17.938 11.488-11.488 17.941-27.066 17.941-43.312v-289.97c0-16.246-6.4531-31.824-17.941-43.312-11.484-11.484-27.062-17.938-43.309-17.938zm-350 52.5h43.75v3.8516-0.003906c0 9.3789 5.0039 18.043 13.125 22.734 8.1211 4.6875 18.129 4.6875 26.25 0 8.1211-4.6914 13.125-13.355 13.125-22.734v-3.8477h157.5v3.8516-0.003906c0 9.3789 5.0039 18.043 13.125 22.734 8.1211 4.6875 18.129 4.6875 26.25 0 8.1211-4.6914 13.125-13.355 13.125-22.734v-3.8477h43.75c2.3203 0 4.5469 0.92188 6.1875 2.5625 1.6406 1.6406 2.5625 3.8672 2.5625 6.1875v54.773h-367.5v-54.773c0-4.8359 3.918-8.75 8.75-8.75zm350 307.47h-350c-4.832 0-8.75-3.918-8.75-8.75v-182.7h367.5v182.7c0 2.3203-0.92188 4.5469-2.5625 6.1875s-3.8672 2.5625-6.1875 2.5625z"/>
+                    </svg>
+                    <strong>{{ prettyDate(appointment.date) }}</strong>
+                    <small>{{ relativeDate(appointment.date) }}</small>
+                </a>
+            </div>
+            <p class="timer" v-if="isConnected && !hasError && secondsToNextMessage > 0">
+                Checking again in {{ secondsToNextMessage }} {{ secondsToNextMessage > 1 ? 'seconds' : 'second' }}.
+            </p>
+            <p class="timer" v-if="isConnected && !hasError && secondsToNextMessage <= 0">
+                Looking for appointments...
+            </p>
             <label v-if="isConnected" class="checkbox">
-                <input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound when there are {{ appointments.length > 0 ? 'better' : 'new' }} appointments
+                <input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound when there are {{ appointments.length > 0 ? '' : 'new' }} appointments
             </label>
         </div>
     {% endraw %}
@@ -97,6 +97,7 @@
         },
         onDisonnect(event) {
           this.isConnected = false;
+          this.lastMessage = null;
           console.warn('Lost connection to appointments API. Reconnecting...');
           if(!this.reconnectInterval) {
             this.reconnectInterval = setInterval(this.connect, 5000)

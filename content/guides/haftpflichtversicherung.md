@@ -54,7 +54,7 @@ Most insurance policies do not cover these accidents:
 - **Piracy and copyright infringement**  
     If you get in trouble for [illegally downloading movies](/guides/pirating-streaming-movies-in-germany), your liability insurance will not cover you.[^12]
 - **Locking yourself out**  
-    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^13] and they speak English.
+    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Muffin](/out/muffin-hausrat) sells household insurance that covers locksmiths, and they speak English.
 
 ## Do I really need it?
 
@@ -112,7 +112,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) offer liability insurance, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. [Muffin](/out/muffin-haftpflicht) is sells liability insurance from multiple companies, and they speak English.
 
 You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
@@ -122,11 +122,11 @@ You can also talk to an English-speaking insurance broker. They will help you pi
 
 I have liability insurance with [Feather](/out/feather-haftpflicht), but I have not used it yet. I chose them for a few reasons:
 
-- They helped me get private health insurance before. I trust their services.
-- I know their founder since many years, and met him multiple times. I trust him.
-- They speak English. Even their insurance contract is in English. I like the convenience.
-- They are a German company, and they only serve clients in Germany. I trust the
 - Their liability insurance meets all the requirements above.
+- They speak English. Even their insurance contract is in English. I like the convenience.
+- They helped me get [private health insurance](/glossary/private%20Krankenversicherung) before. I trust their services.
+- I know their founder since many years, and meet him regularly. I trust him.
+- They are a German company, based in Berlin.
 
 ## Other types of liability insurance
 
@@ -148,7 +148,7 @@ Some professions are required to have liability insurance:[^26]
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) offer dog liability insurance, and they speak English. They cover dangerous breeds.
+*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) sell dog liability insurance, and they speak English. They cover dangerous breeds.
 
 **[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
 
@@ -164,9 +164,9 @@ When you drive a vehicle, you are covered by your car's insurance (*Kfz-Haftpfli
 
 There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs 16€ to 24€ per month.[^29] Professional legal insurance is more expensive. The price depends on what type of business you run.
 
-Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance options. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.
+[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance, and they speak English. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
 
-**[More about legal insurance in Germany ➞](/guides/legal-insurance)**
+**[More information about legal insurance ➞](/guides/legal-insurance)**
 
 ## Other questions
 
@@ -184,7 +184,7 @@ Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare legal insurance option
 
 ## What to do next
 
-Read about the other [types of insurance in Germany](/guides/insurance). The next most important insurances to have are [legal insurance](/glossary/Rechtsschutzversicherung) and [disability insurance](/glossary/Berufsunfaehigkeitsversicherung).
+Read about the other [types of insurance in Germany](/guides/insurance). The next most important insurances to have are [legal insurance](/glossary/Rechtsschutzversicherung) and [disability insurance](/glossary/Berufsunfähigkeitsversicherung).
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
@@ -201,7 +201,6 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 [^10]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=viele%20neuere%20tarife%20springen%20auch%20bei%20gefal%C2%ADligkeits%C2%ADschaden%20ein)
 [^11]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^12]: [geldsparen.de \(archived\)](https://web.archive.org/web/20170628040748/https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)
-[^13]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
 [^14]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=weil%20die%20gesetzliche%20haftung%20unbegrenzt%20ist)
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/s2d2q5/haftpflichtversicherung/)
 [^16]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)

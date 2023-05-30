@@ -2,10 +2,11 @@
 Title: What is a Geschäftskonto?
 German_term: Geschäftskonto
 English_term: Business bank account
-Description: 
+Description: A bank account for businesses.
 Date_created: 2022-04-17
-Date_updated: 2022-04-20
-Related_guides: guides/start-a-business-in-germany.md
+Related_guides:
+    guides/start-a-business-in-germany.md
+    guides/kontist-review.md
 ---
 
 A *Geschäftskonto* is a bank account for your business.

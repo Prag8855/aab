@@ -13,15 +13,13 @@ This is how much it costs to live in Berlin, and elsewhere in Germany. This guid
 
 ## Taxes, insurance and pension
 
-**Cost:** use the tax calculator
+**Cost:** use my [tax calculator](/tools/tax-calculator)
 
-In Germany, a part of your [gross income (*Brutto*)](/glossary/Brutto%20income) is for taxes and social contribution. Your employer automatically takes them from your salary. The money you keep is your [net income (*Netto*)](/glossary/Netto%20income).
+In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) is for taxes and social contribution. Your employer automatically takes them from your paycheck. The money you keep is your [net income](/glossary/Netto%20income) (*Netto*).
 
 {% include 'blocks/_taxCalculator.html' %}
 
-If you are self-employed, don't pay unemployment insurance, and pension insurance is optional. You might also pay a [trade tax (*Gewerbesteuer*)](/glossary/Gewerbesteuer).
-
-If you make money with stocks and other investments, it's taxed separately. You pay a capital gains tax (*Kapitalertragsteuer*) of 25%.[^0] Cryptocurrencies are taxed [differently](https://taxfix.de/ratgeber/pflichten/bitcoin-und-steuer/#versteuern).
+**[How taxes work in Germany ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**
 
 ### How to pay less income tax
 
@@ -76,7 +74,8 @@ If you only eat at home, you should pay around 250€ per month for groceries. I
 
 ### How to pay less for public transit
 
-- [Get a yearly subscription](/guides/saving-money-germany#get-a-yearly-public-transit-pass). It's much cheaper than a [monthly pass](/glossary/Monatskarte).
+- **[Get the Deutschland Ticket](/guides/deutschland-ticket)**. It's the cheapest monthly ticket, and it lets you use public transit everywhere in Germany. This is the best option for most people.
+- [Get a yearly subscription](/guides/saving-money-germany#get-a-yearly-public-transit-pass). Yearly subscriptions are cheaper than monthly pasts.
 - In Berlin, get a [10-Uhr-Karte](/guides/bvg-10-uhr-karte) if you don't use public transportation between 3AM and 10AM on weekdays.
 - If you are a university or *Hochschule* student, your get a very cheap *Semesterticket* from your school.[^1] It's usually included in your school fees.
 
@@ -202,9 +201,9 @@ To save money, buy used furniture. You can find free/cheap furniture on [eBay Kl
 
 **Cost:** 1,500€ to 2,000€. Less if you convert a foreign licence.
 
-You need a driving licence to drive in Germany. You can sometimes [convert your foreign driving licence](/guides/canadian-german-driving-license).
+You need a driving licence to drive in Germany. You can sometimes [convert your foreign driving licence](/guides/convert-to-german-driving-licence).
 
-**[How to get a (motorcycle) driving licence ➞](/guides/driving-licence)**
+**[How to get a driving licence ➞](/guides/driving-licence)**
 
 ## Example budget
 
@@ -252,6 +251,5 @@ My budget includes a motorcycle, and a garage (120€/month). You don't need tho
 
 **[How to save money in Germany ➞](/guides/saving-money-germany)**
 
-[^0]: [exporo.de](https://exporo.de/wiki/kapitalertragsteuer/)
 [^1]: [vbb.de](https://www.vbb.de/tickets/sondertickets/semesterticket-zusatzticket/)
 [^2]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/_inhalt.html#:~:text=Verdienste%202019%3A%20durchschnittlich%203%20994%20Euro%20brutto%20im%20Monat%20-%20Statistisches%20Bundesamt)

@@ -32,7 +32,7 @@ Hi, I'm Nicolas. You can contact me to…
 **Account holder:** Nicolas Bouliane  
 **[[IBAN]]:** DE40 1101 0101 5620 3125 66  
 **Bank:** Solarisbank AG (Kontist)  
-**BIC:** SOBKDEB2XXX  
+**BIC:** SOBKDEB2XXX
 
 **[Tax number](/glossary/Steuernummer):** 35/237/02005  
 **[VAT number](/glossary/Umsatzsteuernummer):** DE318085089

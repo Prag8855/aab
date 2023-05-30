@@ -17,7 +17,7 @@ The *[Mietkaution](/glossary/Kaution)* is **maximum 3 times the [cold rent](/glo
 
 ### Short-term rentals
 
-**The rules are the same** for furnished apartments and short-term rentals: maximum 3 times the [cold rent](/glossary/Kaltmiete),[^13] but it's often less for short-term rentals.
+**The rules are the same** for short-term apartments: maximum 3 times the [cold rent](/glossary/Kaltmiete),[^13] but it's often less.
 
 ## When to pay the Kaution
 
@@ -109,7 +109,6 @@ If your landlord won't return your deposit, you can get help from your [tenant a
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
-[^0]: [immonet.de](https://www.immonet.de/), [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
 [^1]: [crocodilian.de](https://crocodilian.de/zeitwohnen-blog/kaution-moeblierte-wohnung/)
 [^2]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
 [^3]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html), [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-4330619/), [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)

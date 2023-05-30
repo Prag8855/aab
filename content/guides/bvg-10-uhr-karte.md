@@ -9,6 +9,8 @@ Date_created: 2017-08-31
 
 The 10-Uhr-Karte is a monthly public transit ticket in Berlin. It's 26% cheaper than the regular monthly ticket (*[[Monatskarte]]*),[^0] but you can't use it 3AM and 10AM on weekdays. If you don't travel during those times, the 10-Uhr-Karte is a good way to [save money](/guides/saving-money-germany).
 
+In most cases, the [[Deutschland Ticket]] is a better deal than the 10-Uhr-Karte. **[Get a Deutschland Ticket](/guides/deutschland-ticket) instead.**
+
 The 10-Uhr-Karte is valid on all buses, trams and trains in Berlin, just like other public transit tickets. You can buy a 10-Uhr-Karte for zones A and B, or for zones A, B and C.
 
 **[Public transit in Berlin ➞ Tariff zones](/guides/public-transit#choose-the-right-tariff-zone)**

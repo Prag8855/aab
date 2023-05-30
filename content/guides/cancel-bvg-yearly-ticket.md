@@ -69,8 +69,6 @@ You can cancel your BVG ticket at any [BVG Kundenzentrum](https://www.bvg.de/de/
 
 ![Facebook comment about cancelling a BVG Abo in person](/images/cancel-bvg-abo-in-person.png)
 
-[^0]: [Screenshot](/images/bvg-abo-kuendigung.jpg)
 [^1]: [bvg.de](https://www.bvg.de/de/service-und-kontakt)
 [^2]: [bvg.de](https://www.bvg.de/de/?section=downloads&download=652)
-[^3]: [Section 10.1](https://www.bvg.de/de/?section=downloads&download=652)
 [^4]: [Section 10.5](https://www.bvg.de/de/?section=downloads&download=652)

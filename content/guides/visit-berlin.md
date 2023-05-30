@@ -13,7 +13,7 @@ This guide is for tourists who want to visit Berlin. If you want to move to Berl
 
 You might need a visa to visit Germany. It depends on your citizenship:
 
-- **EU and EEA citizens**  
+- **EU, [[EEA]] and Swiss citizens**  
     You can visit Germany without a visa. You can stay as long as you want. You can also live and work in Germany.
 - **Other [Schengen area](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744) residents**  
     You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period.[^0] If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
@@ -148,6 +148,8 @@ You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-ber
 
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
+- **[Cherry blossom]** - April and May  
+    After the reunification, a Japanese television channel donated 10,000 cherry trees. Most of them were planted where the Berlin wall was. Every spring, the cherry trees bloom and cover the alleys in rose petals.
 - **[Fête de la Musique](https://www.fetedelamusique.de/)** - June  
     A music festival in the entire city. There are musicians and concerts in every part of the city.
 - **[Zug der Liebe](https://zugderliebe.org/)** - End of August  

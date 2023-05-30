@@ -131,11 +131,11 @@ This means that...
 - **You work for profit**  
     It's a business, not a hobby. You must charge money for your services.
 - **You make at least {{KSK_MIN_INCOME|cur}}€ per year**   
-    You must make at least {{KSK_MIN_INCOME|cur}}€ in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below {{KSK_MIN_INCOME|cur}}€ per year 2 times every 6 years.[^18] There is no maximum income.[^19] This does not apply from 2020 to 2022 because of the coronavirus pandemic.
+    You must make at least {{KSK_MIN_INCOME|cur}}€ in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below {{KSK_MIN_INCOME|cur}}€ per year 2 times every 6 years.[^18] There is no maximum income.[^19]
 
 ### You are self-employed
 
-This means that...[^20]  
+This means that...[^20]
 
 - **You have many clients**  
     You are not working for only one agency, orchestra, theatre group, film production or art school.
@@ -150,7 +150,7 @@ These documents explain who is self-employed, and who is not:
 - [Requirements for performing artists](https://pap-berlin.de/sites/default/files/2020-09/2018_08_Infoschrift_1_Selbsta__ndigkeit-Unselbsta__ndigkeit.pdf) (in German) - PAP
 - [Requirements for music teachers](https://musik.verdi.de/musikschulen/freiberuflich/++co++bae34992-bfd7-11e2-975a-525400438ccf) - Verdi
 
-You can be *[[Freiberufler]]* or a *[[Gewerbetreibende]]*.[^21] It does not make a difference.
+You can be *[[Freiberufler]]* or a *[[Gewerbetreibender]]*.[^21] It does not make a difference.
 
 ### You work in Germany
 
@@ -298,13 +298,13 @@ You don't need to include *every* document in this list. You must only prove tha
 
 ### Application documents
 
-- **[KSK application form](/out/ksk-application-form)**  
+- [ ] **[KSK application form](/out/ksk-application-form)**  
     The German instructions are at the bottom of the form. [This English guide](https://www.settle-in-berlin.com/wp-content/uploads/2021/01/ZineFGRG_KSK_Desktop.pdf) shows you how to fill this form.
-- **Passport**  
+- [ ] **Passport**  
     Include a photocopy of your passport.
-- **Residence permit**  
+- [ ] **Residence permit**  
     If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, include a photocopy of it. Include a copy of the [*Zusatzblatt*](/glossary/Zusatzblatt%20%28residence%20permit%29) that came with your residence permit. They might ask for it later.
-- **[Direct debit authorization](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/SEPA-Lastschriftmandat_Versicherte.pdf)**  
+- [ ] **[Direct debit authorization](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/SEPA-Lastschriftmandat_Versicherte.pdf)**  
     This allows you to pay the KSK automatically, instead of making manual bank transfers. It's optional, but recommended.
 
 ### Proof that you are an artist, publicist or art teacher
@@ -313,15 +313,15 @@ When you fill the [KSK application form](/out/ksk-application-form), you must se
 
 ![KSK application form - selecting a profession](/images/ksk-antrag-tätigkeit-2022-07-04.png)
 
-- **Examples of your work**  
+- [ ] **Examples of your work**  
     For example, websites, art, photographs, content that you have published, newspaper articles about your work, concert tickets. Anything that proves that you do creative or journalistic work.
-- **Proof of your creative career**  
+- [ ] **Proof of your creative career**  
     This proves that you are a trained artist. For example, school diplomas, scholarships, certificates, and prizes you have won.
-- **Membership to artistic or journalistic associations**  
+- [ ] **Membership to artistic or journalistic associations**  
     This proves that you are a professional artist. For example, if you are part of one of [these associations](https://www.kultur-kreativ-wirtschaft.de/SiteGlobals/KUK/Forms/Listen/Linkliste/linkliste_Formular.html?resourceId=509482&input_=509474&cl2Categories_Regionen=bundesweit&pageLocale=de&cl2Categories_Regionen.GROUP=1&cl2Categories_Typ_name=markt_fuer_darstellende_kuenste&cl2Categories_Typ_name.GROUP=1), include your certificate of membership.
-- **Letters of reference from your clients**  
+- [ ] **Letters of reference from your clients**  
     For example, a letter from a client that explains what kind of work you do for them.[^32]
-- **Advertising material**  
+- [ ] **Advertising material**  
     For example, posters for your shows, photos of you on stage, business cards, social media profiles, or a website that advertises your services. Posters from big venues and ads in famous magazines help a lot.
     - **Personal website**  
         If possible, your personal website should show that you sell your services.
@@ -332,13 +332,13 @@ When you fill the [KSK application form](/out/ksk-application-form), you must se
 
 These documents prove that you make money from artistic activities. They are also used to estimate your future income, and calculate your KSK contributions.
 
-- **Invoices with bank statements**  
+- [ ] **Invoices with bank statements**  
     Include invoices for your artistic or journalistic work. For each invoice, include a screenshot of the bank transaction. You must prove that the invoice was paid.
-- **Contracts**  
+- [ ] **Contracts**  
     Include the full contract, with the signature.
-- **Other sources of income**  
+- [ ] **Other sources of income**  
     For example, affiliate income and Patreon sponsors. If your source of income is not clear, explain it in a separate document. This helps the KSK understand what you do.
-- **Tax returns** (*[[Steuerbescheid]]*)  
+- [ ] **Tax returns** (*[[Steuerbescheid]]*)  
     If possible, include your tax returns for the last 3 years. They asked for mine 3 months after I sent my application.
 
 **These documents must be less than 6 months old**. The documents can come from another country.[^33]
@@ -347,7 +347,7 @@ If you can, include proof that you have upcoming projects. Proofs of future inco
 
 ### Health insurance documents
 
-- **Proof of health insurance** (*Mitgliedbescheinigung*)  
+- [ ] **Proof of health insurance** (*Mitgliedbescheinigung*)  
     You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
     - **[Public health insurance exemption form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/Befreiung_von_der_gesetzl._KV.pdf)**  
         If you want to [keep your private health insurance](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk) after you join the KSK, include this form.
@@ -358,19 +358,19 @@ If you can, include proof that you have upcoming projects. Proofs of future inco
 
 If you are a student, you need these documents.
 
-- **Enrolment certificate** (*Immatrikulationsbescheinigung*)  
+- [ ] **Enrolment certificate** (*Immatrikulationsbescheinigung*)  
     You get this from your university after you pay your registration fees.
 
 ### Documents for parents
 
 If you have children, you need these documents.
 
-- **Proof that you are a parent** (*Nachweis der Elterneigenschaft*)  
+- [ ] **Proof that you are a parent** (*Nachweis der Elterneigenschaft*)  
     For example, your children's birth certificates, recent [tax assessments](/glossary/Steuerbescheid), or proof that you get child allowance.[^34]
 
 ### Documents for teachers
 
-- **Proof of artistic education**  
+- [ ] **Proof of artistic education**  
     If you are a teacher, you might need this document. On page 3 of the [application form](/out/ksk-application-form), check if your profession requires it.
 
 ## After you join the KSK

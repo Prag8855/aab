@@ -67,7 +67,7 @@ A [seedbox](https://en.wikipedia.org/wiki/Seedbox) is a torrent client that runs
 
 There are a few benefits to seedboxes over VPNs:
 
-- Seedboxes are *mind-boggingly* fast*.* Typical bandwidths range from 100mbps to 10Gbps. Well-seeded torrents finish in an instant.
+- Seedboxes are *really* fast. Typical bandwidths range from 100mbps to 10Gbps. Well-seeded torrents finish in an instant.
 - You don't need to install or configure anything on your computer. You can access your finished torrents from all your devices.
 - Many seedbox services include a free VPN.
 

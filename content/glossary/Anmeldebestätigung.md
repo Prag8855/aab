@@ -4,15 +4,27 @@ German_term: Anmeldebestätigung
 English_term: Registration certificate
 Description: A registration certificate (Anmeldebestätigung or Meldebestätigung) proves that you live at a certain address.
 Date_created: 2018-07-31
-Date_updated: 2022-05-19
-Related_guides: guides/first-bank-account-in-germany.md, guides/free-schufa-berlin.md, guides/an-honest-review-of-n26.md, guides/getting-married-in-germany.md, guides/how-to-get-a-german-freelance-visa.md, guides/replacement-meldebescheinigung.md, guides/canadian-german-driving-license.md, guides/start-a-business-in-germany.md, guides/anmeldung-in-english-berlin.md, guides/moving-to-berlin.md, guides/german-banks-no-address.md, guides/how-to-get-a-kitagutschein.md, guides/german-work-visa.md
+Related_guides:
+    guides/first-bank-account-in-germany.md
+    guides/free-schufa-berlin.md
+    guides/an-honest-review-of-n26.md
+    guides/getting-married-in-germany.md
+    guides/how-to-get-a-german-freelance-visa.md
+    guides/replacement-meldebescheinigung.md
+    guides/convert-to-german-driving-licence.md
+    guides/start-a-business-in-germany.md
+    guides/anmeldung-in-english-berlin.md
+    guides/moving-to-berlin.md
+    guides/german-banks-no-address.md
+    guides/how-to-get-a-kitagutschein.md
+    guides/german-work-visa.md
 ---
 
 A registration certificate (*Anmeldebestätigung* or *Meldebestätigung*) proves that you live at a certain address.
 
 ![Meldebestätigung](/images/Meldebescheinigung_Berlin.jpg "A Meldebestätigung issued in Berlin")
 
-You get an *Anmeldebestätigung* when you [register your address](/glossary/Anmeldung) (the *[[Anmeldung]]*). You get it during the appointment.
+You get an *Anmeldebestätigung* when you register your address (the *[[Anmeldung]]*). You get it during the appointment.
 
 You need an *Anmeldebestätigung* to open a bank account, get a cellphone contract, and many other things.
 

@@ -106,6 +106,8 @@ It's better if you apply in your home country. You can start working as soon as 
 
 Your residence permit expires in 6 months to 4 years. You must go to the *[[Ausländerbehörde]]* to renew it. They will check if you still meet all the conditions of your residence permit. Some residence permits ([like the freelance visa](/guides/renew-german-freelance-visa)) are really annoying to renew, because you need a lot of documents.
 
+**[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
+
 After a few years, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis). You don't need to renew your permanent residence. It lets you do anything you want: work, study, freelance, etc.
 
 ## Need help?

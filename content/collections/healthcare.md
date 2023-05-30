@@ -10,6 +10,7 @@ Related_guides:
     guides/eyeglasses.md
     guides/hay-fever.md
     guides/adhd-berlin-germany.md
+    guides/organ-donor.md
     guides/techniker-krankenkasse-review.md
     guides/ottonova-review.md
 Order: 080

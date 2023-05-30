@@ -9,7 +9,7 @@ This calculator helps you choose health insurance in Germany. It tells you how m
 
 {% include 'blocks/_healthInsuranceCalculatorStatic.html' %}
 
-You should also try Feather's [health insurance recommendation tool](/out/feather-calc). It's ridiculously good.
+You should also try Feather's [health insurance recommendation tool](/out/feather-calc). It's even better.
 
 ## Cost of German health insurance
 

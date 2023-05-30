@@ -33,7 +33,7 @@ The German driving exam is not easy. People often have to take the exam multiple
 
 ## Trade your foreign driving licence
 
-If you already had a driving license in a non-EU, you can drive for 6 months after moving to Germany. After that, your licence is not valid. You must [trade your foreign license for a German one](/guides/canadian-german-driving-license). If you have a driving licence from another EU country, it is valid until it expires.[^1]
+If you already had a driving license in a non-EU, you can drive for 6 months after moving to Germany. After that, your licence is not valid. You must [trade your foreign license for a German one](/guides/convert-to-german-driving-licence). If you have a driving licence from another EU country, it is valid until it expires.[^1]
 
 Depending on where you got your driving licence, you might not need to take any driving classes.
 
@@ -46,6 +46,8 @@ You don't need English theory, because most schools let you practice with an app
 Many schools say they offer driving lessons in English, but only offer the online material in English. Always ask if the instructors really speak English.
 
 If a driving school is missing from this list, [let me know](/suggest-business).
+
+{% include 'blocks/_relatedPlaces.html' %}
 
 [^0]: [gut-lernen.de](https://www.gut-lernen.de/fremdsprachen-pruefung.html), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
 [^1]: [iamexpat.de](https://www.iamexpat.de/expat-info/driving-germany/driving-licence)

@@ -129,7 +129,7 @@ Most language schools offer private lessons.
 - **[Italki](https://www.italki.com/)**  
     Similar to Chatterbug. You get one-to-one online video lessons with German teachers. Each teacher charges a different price.
 - **[Lingoda](/out/lingoda)** - 32€ per lesson  
-    Lingoda lets you have video classes with a teacher. You can have 1-to-1 classes, or join a group of 3-5 people. Lingoda is not as good as Chatterbug: the platform is worse, you can't keep the same teachers, it's harder to cancel classes, and it's twice as expensive. You receive a certificate when you complete a level.
+    Lingoda lets you have video classes with a teacher. You can have 1-to-1 classes, or join a group of 3 to 5 people. Lingoda is not as good as Chatterbug: the platform is worse, you can't keep the same teachers, it's harder to cancel classes, and it's twice as expensive. You receive a certificate when you complete a level.
 
 ## German classes online
 

@@ -23,7 +23,7 @@ The Deutschland Ticket is a monthly public transit pass. It lets you use local p
 
 ## What can you do with a Deutschland Ticket?
 
-You can...[^2]
+You can...[^0]
 
 - Use local public transit in all of Germany: the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries and regional trains (RE)
 - Bring a dog for free in Berlin zones A, B and C
@@ -71,6 +71,4 @@ You can cancel your ticket...
 - On the [S-Bahn Berlin website](https://www.abo-antrag.de/de/kuendigen/)
 - At a [BVG](https://www.bvg.de/en/service-and-support/customer-centers-and-shops) or [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) service centre
 
-[^1]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/deutschland-ticket/?acc=a26619-t4)
-[^2]: [bvg.de](https://www.bvg.de/en/deutschland-ticket), [sbahn.berlin](https://sbahn.berlin/aktuelles/artikel/deutschlandticket-lohnt-ein-wechsel/), [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/deutschland-ticket/?acc=a26619-t4), [rbb24.de](https://www.rbb24.de/politik/beitrag/2023/03/49-euro-ticket-deutschlandticket-nahverkehr.html)
-[^3]: [rbb24.de](https://www.rbb24.de/politik/beitrag/2023/03/49-euro-ticket-deutschlandticket-nahverkehr.html)
+[^0]: [bvg.de](https://www.bvg.de/en/deutschland-ticket), [sbahn.berlin](https://sbahn.berlin/aktuelles/artikel/deutschlandticket-lohnt-ein-wechsel/), [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/deutschland-ticket/?acc=a26619-t4), [rbb24.de](https://www.rbb24.de/politik/beitrag/2023/03/49-euro-ticket-deutschlandticket-nahverkehr.html)

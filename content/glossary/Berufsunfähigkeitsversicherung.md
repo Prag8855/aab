@@ -4,7 +4,6 @@ German_term: Berufsunfähigkeitsversicherung
 English_term: Job disability insurance
 Description: Insurance that gives you an income if you are unable to work.
 Date_created: 2018-12-11
-Date_updated: 2022-09-07
 Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/insurance.md, guides/sick-leave.md
 ---
 

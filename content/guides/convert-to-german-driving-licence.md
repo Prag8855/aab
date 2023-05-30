@@ -1,7 +1,7 @@
 ---
 Title: How to trade your foreign driver licence for a German one
 Short_title: How to convert a foreign driving licence
-Description: Here is how you can trade a driver licence from another country for a German one.
+Description: This is you can exchange a driving license from another country for a German one.
 Date_created: 2018-02-28
 ---
 
@@ -25,7 +25,12 @@ You can drive in Germany with a foreign driving licence.
 
 ### Driving licence translations
 
-If your driving licence is not in German, and it's not from an EU or EEA country, you must carry a driving licence translation. There are some exceptions; check with your local automobile association.
+You must carry a translation of your driving licence if:
+
+- Your driving licence is not from a EU or [[EEA]] country
+- **and** your driving licence is not in German
+
+There are some exceptions. Check with your country's automobile association.
 
 There are two ways to get a driving licence translation:
 
@@ -33,7 +38,7 @@ There are two ways to get a driving licence translation:
     - In the United States: from the AAA or AATA.[^3] You can apply by post.
     - In Canada: from a CAA Travel Centre,[^4] a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate.[^5]
     - In the UK: at the Post Office
-- or **get an official translation**...
+- or **get a [certified translation](/glossary/beglaubigte%20Übersetzung)**...
     - from a certified translator like [LingoKing](/out/lingoking-drivers-licence)
     - or from a government office like an embassy or [vehicle registration office](/glossary/Kfz-Zulassungsstelle)
     - or from a recognised automobile association like [AA](https://www.theaa.com/), [AAA](https://www.aaa.com/International/), [CAA](https://www.caa.ca/), [ADAC](https://www.adac.de/)...
@@ -104,23 +109,23 @@ Sometimes, you only need to take a driving test. If you are Canadian or American
 
 Go to your appointment, and bring all the [required documents](https://service.berlin.de/dienstleistung/327537/):
 
-- **Foreign driving licence**  
+- [ ] **Foreign driving licence**  
     It must still be valid. You must bring the original licence, not just a copy. During the appointment, you give your driving licence and never get it back.
-- **Photocopy of your driving licence**
-- **Passport or personal ID**
-- **Certified translation of your driving licence**  
-    If your driving licence is not in English or German, you need a certified translation of it. You can get one from [Lingoking](/out/lingoking-drivers-licence) for 46€ or from [ADAC](https://www.adac.de/) for 55€. International Driving Permits are also accepted.
-- **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
-- **An EC card or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
-- **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.
+- [ ] **Photocopy of your driving licence**
+- [ ] **Passport or personal ID**
+- [ ] **[Certified translation](/glossary/beglaubigte%20Übersetzung) of your driving licence**  
+    If your driving licence is not in English or German, you need a certified translation. You can get one from [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/) for around 50€. International Driving Permits are also accepted.
+- [ ] **A passport photo**. You can [get new passport pictures](/guides/biometric-pictures-in-berlin) for around 6€.
+- [ ] **A [[Girocard]] or cash** to pay the fees (36.30€). Visa and MasterCard are sometimes accepted.[^9]
+- [ ] **[[Anmeldebestätigung]]** to prove that you live in Berlin. It's not always required.
 
-The appointment itself only takes a few minutes, and it costs 36.30€.[^13] The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
+The appointment only takes a few minutes. It costs 36.30€.[^13] The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
 
 During your appointment, you should **ask for a temporary license** while you wait for your German driving license.[^14]
 
 ### 8. Wait
 
-**This can take a long time**. In Berlin, you must wait around 6 weeks to exchange a driver's license. Some people wait much longer[^10].[^11] In 2016, it took me 14 weeks. In smaller cities, it takes 2 to 6 weeks.[^15]
+**This can take a long time**. In Berlin, you must wait around 6 weeks to exchange a driver's license. Some people wait much longer.[^10] In 2016, it took me 14 weeks. In smaller cities, it takes 2 to 6 weeks.[^15]
 
 **[Current processing times in Berlin](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php)** - This is the time it takes before they *start* working on your application. It will take a few more weeks after that.
 
@@ -148,8 +153,7 @@ If this is the first time you drive in Europe, read Route to Germany's [guide to
 [^7]: [Red Tape Translation](https://redtapetranslation.com/exchanging-your-foreign-drivers-licence-in-germany/)
 [^8]: [first-aid-course-english-berlin.com](https://www.first-aid-course-english-berlin.com/dates-places)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/qr1w7o/credit_cards_are_finally_accepted_at_the/hk6mpwi/?context=3)
-[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/130747-changing-a-canadian-drivers-licence-to-german/#comment-1611766)
-[^11]: [awesomesauceasshattery.wordpress.com](http://web.archive.org/web/20211205222224/https://awesomesauceasshattery.wordpress.com/2011/10/22/canadian-to-german-driving-license-in-just-4-steps/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8paad4/the_wait_time_for_a_drivers_license_is_five/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9bj5dm/to_anyone_waiting_for_his_driving_licence_to_be/)
+[^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/130747-changing-a-canadian-drivers-licence-to-german/#comment-1611766), [awesomesauceasshattery.wordpress.com](http://web.archive.org/web/20211205222224/https://awesomesauceasshattery.wordpress.com/2011/10/22/canadian-to-german-driving-license-in-just-4-steps/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8paad4/the_wait_time_for_a_drivers_license_is_five/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9bj5dm/to_anyone_waiting_for_his_driving_licence_to_be/)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5fin6f/fahrerlaubnisbeh%C3%B6rde/dakn5a0/?context=3)
 [^13]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
 [^14]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/147924-processing-times-to-convert-a-drivers-license/#comment-1755422)

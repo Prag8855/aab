@@ -2,9 +2,8 @@
 Title: What is the solidarity surcharge (Solidaritätszuschlag)?
 German_term: Solidaritätszuschlag
 English_term: Solidarity surcharge
-Description: 
+Description: An extra tax for people with a high income.
 Date_created: 2022-08-11
-Date_updated: 2022-08-11
 Related_guides: tools/tax-calculator.md
 ---
 

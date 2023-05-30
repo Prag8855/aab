@@ -12,7 +12,7 @@
     <div class="body form">
         <div class="form-group">
             <label for="occupation-{% endraw %}{{ id }}{% raw %}">
-                What is your occupation?
+                Occupation
             </label>
             <select class="select" id="occupation-{% endraw %}{{ id }}{% raw %}" name="occupation" v-model="occupation">
                 <option value="employee">Employee</option>
@@ -23,7 +23,7 @@
         </div>
         <div class="form-group">
             <label for="income-{% endraw %}{{ id }}{% raw %}">
-                What is your income?
+                Income
             </label>
             <div class="input-group">
                 <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" name="income" id="income-{% endraw %}{{ id }}{% raw %}" v-model="monthlyIncome">

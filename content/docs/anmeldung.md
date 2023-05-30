@@ -21,28 +21,29 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
 - **Amtl. Vermerke**: leave this field empty
 - **Gemeindekennzahl (left column)**
     - **Die neue Wohnung ist**: This column contains information about your new residence
-        - Check **alleinige Wohnung** if this will be your only residence
-        - Check **Hauptwohnung** if you will have multiple residences, and this will be your main residence
-        - Check **Nebenwohnung** if you will have multiple residences, and this will be a secondary residence
+        - Choose **alleinige Wohnung** if this will be your only residence
+        - Choose **Hauptwohnung** if you will have multiple residences, and this will be your main residence
+        - Choose **Nebenwohnung** if you will have multiple residences, and this will be a secondary residence
     - **Tag des Einzugs**: Enter your move-in date. If you already moved in, you can write a past date. Use the DD.MM.YYYY date format.
     - **Postleitzahl, Gemeinde, Ortsteil**: The [postal code](/glossary/Postleitzahl), municipality and region of your new residence. For example, "10115 Berlin Mitte".
     - **Straße, Hausnummer, Zusätze**: The street, house number and door number of your new residence. For example, "Chausseestraße 123, #23". If the landlord does not want to put your name on the mailbox, [you must add "c/o" or "bei" to your address](/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox)[^0] in the Züsätze field.
 - **Gemeindekennzahl (right column)**: This column contains information about your previous residence
     - **Die (letzte) bisherige Wohnung (im Inland) war**:
-        - Check **alleinige Wohnung** if your last residence in Germany was your only residence
-        - Check **Hauptwohnung** if you will have multiple residences, and your last residence in Germany was your main residence
-        - Check **Nebenwohnung** if you will have multiple residences, and your last residence in Germany was your secondary residence
+        - Choose **alleinige Wohnung** if your last residence in Germany was your only residence
+        - Choose **Hauptwohnung** if you will have multiple residences, and your last residence in Germany was your main residence
+        - Choose **Nebenwohnung** if you will have multiple residences, and your last residence in Germany was your secondary residence
+        - If this is your first residence in Germany, do not check any box.
     - **Tag des Auszugs**: Enter the move-out date for your previous residence. If you already moved out, you can write a past date. Use the DD.MM.YYYY date format.
     - **Postleitzahl, Gemeinde, Ortsteil**: The [postal code](/glossary/Postleitzahl), municipality and region of your previous residence. For example, "10115 Berlin Mitte".
     - **Straße, Hausnummer, Zusätze**: The street, house number and door number of your previous residence. For example, "Chausseestraße 123, #23"
 - **Wird die bisherige Wohnung beibehalten?**
-    - Check **Nein** if you will not keep your previous residence.
-    - Check **Ja, und zwar als** if you will keep your previous residence
-    - Check **Hauptwohnung** if your previous residence will be your main residence
-    - Check **Nebenwohnung** if your previous residence will be your secondary residence
+    - Choose **Nein** if you will not keep your previous residence.
+    - Choose **Ja, und zwar als** if you will keep your previous residence
+    - Choose **Hauptwohnung** if your previous residence will be your main residence
+    - Choose **Nebenwohnung** if your previous residence will be your secondary residence
 - **Haben die unten aufgeführten Personen noch weitere Wohnungen in Deutschland?**
-    - Check **Nein** if you do not have any other residences than the ones listed above.
-    - Check **Ja** if you have other residences than the ones listed above. If you check this box, you must also fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
+    - Choose **Nein** if you do not have any other residences than the ones listed above.
+    - Choose **Ja** if you have other residences than the ones listed above. If you check this box, you must also fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
 - **Section 1 and section 2**: These sections contain information about the people who are registering their address. If you register more than two people, you must fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
     - **Familienname, ggf. Doktorgrad, Passname**: Your last name, doctoral degrees (e.g. "PhD")
     - **Vornamen**: Your first name. If you have multiple first names, underline the name you want to be called.

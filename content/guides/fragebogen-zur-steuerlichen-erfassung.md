@@ -168,7 +168,7 @@ You can click "Weitere Daten hinzufugen" to add more phone numbers.
 - **Vorwahl international** - International call prefix  
     If you live in Germany, it's "+49" or "0049". For other countries, use [this list](https://en.wikipedia.org/wiki/List_of_international_call_prefixes).
 - **Vorwahl national** - Local call prefix  
-    If you live in Germany, it's the first 2-3 digits of your local number. For example, "30" or "1522". More information [here](/guides/dial-phone-numbers-germany#how-to-write-german-phone-numbers).
+    If you live in Germany, it's the first 2 or 3 digits of your local number. For example, "30" or "1522". More information [here](/guides/dial-phone-numbers-germany#how-to-write-german-phone-numbers).
 - **Rufnummer** - Phone number  
     The rest of your phone number.
 
