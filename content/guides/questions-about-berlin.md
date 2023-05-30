@@ -21,18 +21,7 @@ You can get help from these communities and services.
 - [/r/berlin](https://www.reddit.com/r/berlin) - Reddit community
 - [/r/germany](https://www.reddit.com/r/germany) - Reddit community
 - [Toytown Germany](https://www.toytowngermany.com/) - Forum. Less active than before.
-- [Quora](https://quora.com/) - a general Q&A website
-- [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Q&A website for expatriates
-- [Booka Local](https://booka-local.com/) - Hire a local to help you
-
-### In German
-
-If you speak German, these communities can also help you
-
-- [Gutefrage](https://www.gutefrage.net/) - similar to Quora and Yahoo! Answers
-- [/r/de](https://www.reddit.com/r/de) - Reddit community
-- [/r/FragReddit](https://www.reddit.com/r/fragreddit) - small Reddit community
-- [Jeder hilft jedem](https://www.facebook.com/groups/JederHilftJedemBerlin/) - Facebook group
+- [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Questions and answers website
 
 ## Immigration questions
 
@@ -69,8 +58,8 @@ If you speak German, these communities can also help you
 
 ## Apartment questions
 
-- **Tenant association** (*[[Mieterverein]]*)  
-    You must be a member. It costs around 4€ to 10€ per month. They usually speak English. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin.
+- **Tenant associations** (*[[Mieterverein]]*)  
+    A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 120€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English. 
 - **[Tenant counsel](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)** (*Mieterberatung*)  
     There are [dozens of locations in Berlin](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). You can contact them and ask questions. This is a free service from the city of Berlin. They might not speak English.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
@@ -78,9 +67,9 @@ If you speak German, these communities can also help you
 - **[Conny](/out/conny-mietpreisbremse)**  
     Conny is a legal service that helps people lower their rent. They also have a legal hotline for tenants that costs 4€ to 10€ per month. They speak English.
 
-**If you receive housing benefits**, you can contact [your local *Sozialamt*](https://service.berlin.de/sozialaemter/). They can help you with apartment problems.
+**If you get housing benefits**, contact [your local *Sozialamt*](https://service.berlin.de/sozialaemter/). They can help with apartment problems.
 
-**If you are an asylum seeker**, you can contact the [housing section of the *Landesamt für Flüchtlingsangelegenheiten*](https://www.berlin.de/laf/wohnen/). Call [+49 30 90225 1261](tel:+4930902251261) or write to <Unterkuenfte@LAF.Berlin.de>.
+**If you are an asylum seeker**, contact the [housing section of the *Landesamt für Flüchtlingsangelegenheiten*](https://www.berlin.de/laf/wohnen/). Call [+49 30 90225 1261](tel:+4930902251261) or write to <Unterkuenfte@LAF.Berlin.de>.
 
 ## Medical questions
 
@@ -96,8 +85,6 @@ If you speak German, these communities can also help you
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung), they can help you find a lawyer. Your legal insurance covers the cost of talking to a lawyer. They might have a legal hotline that you can call for free.
     - **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
         Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
-- **Tenant associations** (*[[Mieterverein]]*)  
-    A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 100€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you, and some don't.[^3] If you don't speak German, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English and in other languages.
 - **Legaltech** (*Rechtsdienstleister*)  
     Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/saving-money-germany#lower-your-rent) and many other things. I reviewed them [here](/guides/wenigermiete-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
 - **Workers union** (*Gewerkschaft*)  
@@ -115,6 +102,15 @@ If you speak German, these communities can also help you
     Tax software can help you file a [tax declaration](/glossary/Steuererklärung). It's much cheaper than hiring a [tax advisor](/glossary/Steuerberater).
 - **Tax help union** (*[[Lohnsteuerhilfeverein]]*)  
     A *Lohnsteuerhilfeverein* can help you file a [tax declaration](/glossary/Steuererklärung). It's usually cheaper than a tax advisor. The cost is often based on your income.
+
+## Work questions
+
+- **[BEMA](https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html)**  
+    Free help for immigrants and asylum seekers. They speak English and many other languages.
+- **Your works council** (*Betriebsrat*)  
+    If your company has a *Betriebsrat*, they can advise you for free. They work for you, not your employer.
+- **Employment lawyer** (*Fachanwalt für Arbeitsrecht*)  
+    Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Hire a lawyer who specialises in employment law. They cost around 200€ per hour. Your [legal insurance](/glossary/Rechtsschutzversicherung) pay for it.
 
 ## Business questions
 

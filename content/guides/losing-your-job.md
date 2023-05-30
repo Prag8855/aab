@@ -182,25 +182,13 @@ The same vacation day rules apply. You can still go on sick leave.
 
 ## Where to get help
 
-Hotline: https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html
-
-https://www.bema.berlin/beratung-arbeitsrecht/
-
-### The Betriebsrat?
-
-### Employment lawyers
-
-Hire a lawyer who specialises in employment law (*Fachanwalt für Arbeitsrecht*). They cost around 200€ per hour.
-
-If you have legal problems with your employer, ...
-
-Your legal insurance...
+**[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
 ## What's next?
 
-### Find another job
-
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+**[How to start a business ➞](/guides/start-a-business-in-germany)**
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html)
 [^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
