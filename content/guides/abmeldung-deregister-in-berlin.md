@@ -86,7 +86,7 @@ You can deregister by email at any *Bürgeramt*, but they all have different rul
 - **Friedrichshain and Kreuzberg** - <buergeramt@ba-fk.berlin.de>  
     They will send your *Abmeldebescheinigung* by post, not by email.[^5]
 - **Lichtenberg** - <post.buergeramt@lichtenberg.berlin.de>  
-    They will send your *Abmeldebescheinigung* by post[^6] and by email.[^7]
+    They will send your *Abmeldebescheinigung* by post[^6] and *sometimes* by email.[^7]
 - **Mitte** - <buergeramt@ba-mitte.berlin.de>  
     They will send your *Abmeldebescheinigung* by post to an address in Germany, and sometimes in another country.[^8]
 - **Neukölln** - <buergeramt@bezirksamt-neukoelln.de>  
@@ -195,6 +195,7 @@ If you own a business in Germany, you might also need to deregister your busines
 [^4]: [Screenshot](/images/ba-charlottenburg-abmeldung.png)
 [^5]: [Screenshot](/images/ba-friedrichshain-kreuzberg-abmeldung-by-email-2022-01-13.png)
 [^6]: [Screenshot](/images/ba-lichtenberg-abmeldung-by-email.png)
+[^7]: Reader email (May 2023)
 [^8]: [Screenshot](/images/abmeldung-by-email-wedding.png), [Screenshot](/images/ba-mitte-abmeldung-by-email.png), [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/5059079350771477/?comment_id=5062301937115885)
 [^9]: [Screenshot](/images/ba-reinickendorf-abmeldung-by-email.png)
 [^10]: [Screenshot](/images/ba-spandau-abmeldung-part-2.png)
