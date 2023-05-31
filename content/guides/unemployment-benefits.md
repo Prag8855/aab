@@ -20,6 +20,8 @@ You can get unemployment benefits if:
 - **You have paid unemployment insurance for 12 of the last 30 months**  
     This means that if you worked in Germany for less than 12 months, you don't get unemployment benefits.
 
+Unemployment benefits are not related to your immigration status. You can get unemployment benefits with a residence permit, a permanent residence or EU citizenship.
+
 ## When do I get unemployment benefits?
 
 It depends on why you are unemployed. By default, you get benefits as soon as you are unemployed.
