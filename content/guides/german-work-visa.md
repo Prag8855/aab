@@ -350,20 +350,24 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     Your passport must...[^51]
     - ...be valid for another 6 months
     - ...be issued in the last 10 years
-    - ...have at least two free pages
-    - ...contain your signature
+    - ...show your signature
 - [ ] **1 biometric photo**  
     You need a 35 × 45 mm biometric picture.[^52] You do not need to cut the passport photos yourself; they have a tool for this.[^31]
 - [ ] **Your job contract** (*Arbeitsvertrag*)  
     Bring the original, not a copy.[^12]
-- [ ] **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
-    You can get this document from your health insurance company.[^53] If you choose public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
+- [ ] **Proof of health insurance coverage in Germany**  
+    - [ ] **Mitgliedsbescheinigung**
+        You can get this document from your health insurance company.[^53] If you have public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
+    - [ ] **Health insurance card**, if you have one.
+    - [ ] **Proof of health insurance payments**  
+        If you have [private health insurance](/glossary/private%20Krankenversicherung), bring bank account statements that show health insurance payments.
 - [ ] **Proof of residence in Germany**  
-    There are two ways to prove your residence in Berlin. You can bring...
-    - Your lease and your *[[Wohnungsgeberbestätigung]]*
-    - **or** your *[[Anmeldebestätigung]]*
+    - [ ] **Your lease**
+    - [ ] and your **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)
+    - [ ] and your **registration certificate** *[[Anmeldebestätigung]]*  
+        If you did not register your address yet, ignore this.
 - [ ] **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, you must bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
+    If you have a degree or any relevant training, bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training
@@ -379,7 +383,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### Can I bring my family to Germany?
 
-**Yes**. With the work visa and the Blue Card, you can bring your family to Germany. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
+**Yes**. With a work visa and the Blue Card, you can bring your family to Germany. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
 
 ### How much does the German work visa cost?
 
