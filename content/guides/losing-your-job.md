@@ -25,44 +25,54 @@ After your probation period...
 
 3 weeks to file Kündigungsschutzklage
 
-https://www.kanzlei-hasselbach.de/blog/kuendigungsschutzklage-fristen-kosten-abfindung/
 
-https://www.gesetze-im-internet.de/kschg/__4.html
 
 ## Before you leave your job
 
-Do these things before your last day of work.
+### Calculate your notice period
 
-### Send your resignation letter
+In Germany, all jobs have a notice period (*[[Kündigungsfrist]]*). You can't quit your job without a warning, and your employer can't lay you off without a warning.
 
-If you quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives that letter.
+The notice period can be very long. You can negotiate a shorter period with your employer.
+
+**[How the notice period works ➞](/guides/job-notice-period)**
+
+### Give your resignation letter
+
+If you quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
 If you get fired or laid off, your employer must give you a resignation letter.
 
-### Give your notice period
+### Resist your dismissal
 
-In Germany, all jobs have a notice period (*[[Kündigungsfrist]]*). You can't quit your job without a warning, and your employer can't lay you off without a warning. The notice period can be very long.
+**If you get fired or laid off**, and you think your employer is wrong, you have 3 weeks to resist. You must file a *Kündigungsschutzklage*.
 
-**[How the notice period works ➞](/guides/job-notice-period)**
+During your probation period, your employer can fire you without a reason. After your probation period, your employer must have a valid reason.
 
-### Don't sign everything
+Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. If you agree and sign a termination agreement (*Aufhebungsvertrag*), you can't resist your dismissal.
 
-Your employer can suggest a termination agreement (*Aufhebungsvertrag*). If you sign one, you don't get fired; you agree to leave your job.
+https://www.kanzlei-hasselbach.de/blog/kuendigungsschutzklage-fristen-kosten-abfindung/
+
+https://www.gesetze-im-internet.de/kschg/__4.html
+
+### Don't sign anything
+
+Your employer can suggest a termination agreement (*Aufhebungsvertrag*). If you sign one, you don't get fired; you agree to leave your job. **This is often a bad idea**.
 
 When you sign a termination agreement...[^19]
 
 - **You lose dismissal protection** (*Kündigungsschutz*)  
-    You can't sue your employer for unlawful dismissal, because you agreed to leave your job.. Employers often suggest an *Aufhebungsvertrag* when they have no valid reason to fire you.
+    You can't sue your employer for unlawful dismissal, because you agreed to leave your job. Employers often suggest an *Aufhebungsvertrag* when they have no valid reason to fire you.
 - **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
-    You can agree to leave your job sooner. This is good if you want to start another job sooner. It's bad if you need more time.
-- **You can lose 3 months of unemployment benefits**
+    You can agree to leave your job sooner. This is good if you want to start another job soon. It's bad if you need more time.
+- **You can lose 3 months of unemployment benefits**  
     In some cases, you can lose 3 months of unemployment benefits.[^24] It depends on how your *Aufhebungsvertrag* is phrased.
-- **You can get better severance pay** (*Abfindung*)
+- **You can get better severance pay** (*Abfindung*)  
     You can get more severance pay than the legal minimum: 2 weeks of pay for every year with your employer.[^21]
 
-In other words, when you sign an *Aufhebungsvertrag*, you make a deal with your employer. Only sign it if it's a good deal. Your employer can't force you to sign it.[^20] If you are not sure, [get legal help](#where-to-get-help). 
+In other words, when you sign an *Aufhebungsvertrag*, you make a deal with your employer. Only sign it if it's a good deal. Your employer can't force you to sign it.[^20] If you are not sure, [get legal help](#need-help).
 
 ### Negotiate severance pay
 
@@ -94,7 +104,7 @@ Register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%2
 
 If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you are unemployed.
 
-[If you don't need a residence permit](/guides/residence-permit#who-needs-a-German-residence-permit) to work in Germany, you don't need to do this.
+[If you don't need a residence permit](/guides/residence-permit#who-needs-a-german-residence-permit) to work in Germany, you don't need to do this.
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
 
@@ -120,17 +130,13 @@ If you get [unemployment benefits](/glossary/ALG%20I), you *must* do it.
 
 If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
 
-Your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job#step-7-make-a-tax-declaration).
+Your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
 
 ### What happens to your residence permit
 
-If you are a German permanent resident or a EU/EEA citizen, you can stay in Germany. You don't need to do anything. ??right??
+If you are a German permanent resident or a EU/EEA citizen, you can stay in Germany. You don't need to do anything.
 
-If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you lost your job.
-
-===
-
-If you need a residence permit to work in Germany, it's probably tied to your employer. If you change jobs, you might need to reapply for a residence permit.
+If you have a residence permit, you must tell the *[[Ausländerbehörde]]* that you lost your job. If you change jobs, you might need to reapply for a residence permit.
 
 For example, if you work with company A, and you switch to company B, you might need a new residence permit for company B. This can take a few months, and slow down your job change. You might not be able to start working quickly.
 
@@ -170,17 +176,7 @@ The same vacation day rules apply. You can still go on sick leave.
 
 **[Sick leave in Germany](/guides/sick-leave)**
 
-## How to find a new job
-
-## How to change careers
-
-### Working in a different field
-
-### Going back to school
-
-### Starting your own business
-
-## Where to get help
+## Need help?
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
@@ -190,19 +186,6 @@ The same vacation day rules apply. You can still go on sick leave.
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 
-[^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html)
-[^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
-[^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
-[^4]: [§113 InsO](https://www.gesetze-im-internet.de/inso/__113.html), [juraforum.de](https://www.juraforum.de/gesetze/bgb/622-kuendigungsfristen-bei-arbeitsverhaeltnissen), [Finanztip](https://www.finanztip.de/arbeitsrecht-kuendigungsfrist/#:~:text=der%20Probezeit%20nicht.-,insolvenzverfahren,--%C2%A0K%C3%BCndigt%20der%20Insolvenzverwalter)
-[^5]: [§187 BGB](https://www.gesetze-im-internet.de/bgb/__187.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/)
-[^6]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=wird%20der%20arbeitnehmer%20oftmals%20freigestellt)
-[^7]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/)
-[^8]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=das%20hat%20aber%20keine%20sozialversicherungsrechtlichen%20konsequenzen)
-[^9]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/fristlose-kuendigung/#beispiel)
-[^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany)
-[^11]: [§126 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__126.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)
-[^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)
-[^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)

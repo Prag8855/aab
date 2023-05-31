@@ -60,3 +60,13 @@ During your notice period, your employer can make you work, or send you on [gard
 If you want to leave sooner, you can negotiate a shorter notice period with your employer.
 
 ??? Vacations and notice period ???
+
+[^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
+[^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
+[^4]: [§113 InsO](https://www.gesetze-im-internet.de/inso/__113.html), [juraforum.de](https://www.juraforum.de/gesetze/bgb/622-kuendigungsfristen-bei-arbeitsverhaeltnissen), [Finanztip](https://www.finanztip.de/arbeitsrecht-kuendigungsfrist/#:~:text=der%20Probezeit%20nicht.-,insolvenzverfahren,--%C2%A0K%C3%BCndigt%20der%20Insolvenzverwalter)
+[^5]: [§187 BGB](https://www.gesetze-im-internet.de/bgb/__187.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/)
+[^6]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=wird%20der%20arbeitnehmer%20oftmals%20freigestellt)
+[^7]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/)
+[^8]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=das%20hat%20aber%20keine%20sozialversicherungsrechtlichen%20konsequenzen)
+[^9]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/fristlose-kuendigung/#beispiel))
+[^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
