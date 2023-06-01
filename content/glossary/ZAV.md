@@ -1,10 +1,9 @@
 ---
 Title: What does the ZAV do?
-German_term: ZAV
+German_term: Zentrale Auslands- und Fachvermittlung
 English_term: 
-Description: 
+Description: The office that gives foreigners permission to work in Germany.
 Date_created: 2019-10-03
-Date_updated: 2019-10-03
 Related_guides: guides/german-work-visa.md
 ---
 

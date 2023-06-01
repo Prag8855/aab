@@ -268,7 +268,7 @@ If your current visa expires soon, there are ways to stay in Germany until you g
 
 ### Step 9: Gather the required documents
 
-You need a few days to prepare the documents for your application. The required documents are listed below.
+You need a few days to prepare the documents for your work visa application.
 
 **[List of required documents ↓](#required-documents)**
 
@@ -328,7 +328,7 @@ You must go to the embassy or consulate again. They will give you a temporary vi
 
 After you get your temporary visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
-You can start working as soon as you arrive in Germany. You will need to [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany), [get health insurance](/guides/german-health-insurance) and a few other things. You can find an apartment, open a bank account and get health insurance before you arrive in Germany. It will save you some time.
+If you have a work visa, you can start working as soon as you arrive in Germany. You will need to [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany), [get health insurance](/guides/german-health-insurance) and a few other things. You can find an apartment, open a bank account and get health insurance before you arrive in Germany. It will save you some time.
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
@@ -418,9 +418,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### What happens if I lose my job?
 
-You must tell the *Ausländerbehörde* as soon as you lose your job. Your visa is still valid, but the *Ausländerbehörde* can shorten your visa.[^56] The *Ausländerbehörde* will give you 3 to 6 months to find another job or leave Germany.
-
-If you don't tell the *Ausländerbehörde* that you lost your job, you and your employer can be fined.[^66]
+**[Losing your job in Germany ➞ Your residence permit](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ### Can I travel outside of Germany?
 
@@ -474,7 +472,7 @@ If you don't tell the *Ausländerbehörde* that you lost your job, you and your 
 [^38]: [Wikipedia](https://en.wikipedia.org/wiki/Blue_Card_\(European_Union\))
 [^39]: [berlin.de](https://service.berlin.de/dienstleistung/305265/en/)
 [^40]: [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/17253/should-i-buy-health-insurance-before-visa-appointment-for-german-national-visa/17274#17274)
-[^41]: [gtai.de](https://www.gtai.de/en/invest/investment-guide/who-needs-a-visa--558348)
+[^41]: [gtai.de](https://www.gtai.de/en/invest/investment-guide/who-needs-a-visa--558348), [§4a Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html), [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php)
 [^42]: [con.arbeitsagentur.de](https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/dok_ba014306.pdf)
 [^43]: [BAMF \(archived\)](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
 [^44]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/?utm_source=ifttt)
@@ -488,7 +486,6 @@ If you don't tell the *Ausländerbehörde* that you lost your job, you and your 
 [^53]: [Screenshot](/guides/german-versicherungsnummer)
 [^54]: [Quora](https://www.quora.com/How-do-I-apply-for-a-German-work-visa-when-Im-already-in-Germany)
 [^55]: [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa)
-[^56]: [Bundesamt für Migration und Flüchtlinge](http://www.bamf.de/DE/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
 [^57]: [allaboutberlin.com](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa)
 [^58]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [berlin.de](https://service.berlin.de/dienstleistung/305304/)
 [^59]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)

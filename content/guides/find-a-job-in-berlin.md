@@ -20,7 +20,7 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germa
 
 **[Who needs a residence permit? ➞](/guides/residence-permit)**
 
-It takes around 2 months to get a residence permit, but it can take longer. You can't work before you get your residence permit. Get your permit before you arrive in Germany. This way, you can start working as soon as you arrive. This saves you a lot of money.
+It takes around 2 months to get a residence permit, but it can take longer. You can't work before you get your residence permit.[^4] Get your permit before you arrive in Germany. This way, you can start working as soon as you arrive. This saves you a lot of money.
 
 Most employers know that this takes time, and they will wait for you. Some employers hire a relocation consultant to help you.
 
@@ -246,3 +246,4 @@ These people can help you get hired. For example, they can review your resume an
 [^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
 [^2]: [billomat.com](https://www.billomat.com/magazin/jobsuche-steuerlich-absetzen-hier-erfaehrst-du-wie-das-geht/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/bewerbungskosten-koennen-sie-von-der-steuer-absetzen.html), [karrierebibel.de](https://karrierebibel.de/bewerbungskosten-absetzen/)
 [^3]: [§614 BGB](https://www.gesetze-im-internet.de/bgb/__614.html)
+[^4]: [§4a Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html), [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php)
