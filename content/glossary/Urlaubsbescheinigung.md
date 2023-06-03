@@ -4,12 +4,13 @@ German_term: Urlaubsbescheinigung
 English_term: Vacation certificate
 Description: A document that shows how many vacation days you have used, and how many you have left.
 Date_created: 2023-05-01
-Related_guides: guides/losing-your-job.md, guides/vacation-days.md, guides/german-resignation-letter.md
+Related_guides:
+    guides/losing-your-job.md
+    guides/vacation-days.md
+    guides/german-resignation-letter.md
 ---
 
-A vacation certificate (*Urlaubsbescheinigung*) is a document you get from your employer when you leave your job.
-
-This document tells your next employer how many vacation days you have used this year, and how many vacation days you have left.[^1]
+A vacation certificate (*Urlaubsbescheinigung*) is a document you get from your employer when you leave your job. It tells your next employer how many vacation days you have used this year, and how many vacation days you have left.[^1]
 
 You have the right to get an *[[Urlaubsbescheinigung]]*.[^2] You can ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
