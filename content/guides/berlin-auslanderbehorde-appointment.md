@@ -46,7 +46,7 @@ If you can't find an appointment online, you can:[^2]
 
 To do this, you must...
 
-1. [Choose the right department to email](https://www.berlin.de/einwanderung/ueber-uns/kontakt/)
+1. [Choose the right department to email](/out/auslanderbehorde-contact)
 2. Write an email in German. It must include:
     - What you need
     - Your full name

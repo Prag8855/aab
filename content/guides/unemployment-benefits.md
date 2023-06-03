@@ -9,7 +9,7 @@ When you are unemployed, you get unemployment benefits (*[[ALG I]]*). *ALG I* pa
 
 {% include "blocks/_tableOfContents.html" %}
 
-## Who can get unemployment benefits?
+## Who gets unemployment benefits?
 
 You get *ALG I* when you lose your job. You only get *ALG 1* if you have paid unemployment insurance for at least 12 months in the last 30 months.[^0] You must apply for *ALG I* at the *[[Bundesagentur für Arbeit]]*.[^1]
 
