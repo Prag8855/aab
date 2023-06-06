@@ -14,7 +14,7 @@
 
     --xl: 2.4rem;
     --l: 1.8rem;
-    --m: 0.9rem;
+    --m: 1rem;
     --s: 0.3rem;
     --page-border: var(--l);
     --page-border-mobile: var(--m);
@@ -242,7 +242,11 @@ body, html{
 
 
     ul, ol{
-        margin:var(--list-item);
+        margin: var(--m) 0;
+
+        ul, ol {
+            margin: var(--list-item) 0;
+        }
 
         li {
             margin: var(--list-item) 0 var(--list-item) 1ch;
@@ -276,13 +280,6 @@ body, html{
     .article-body{
         p {
             margin: var(--m) 0;
-        }
-
-        ul, ol{
-            margin: var(--m) 0;
-            ul, ol {
-                margin: var(--list-item);
-            }
         }
 
         > * + h2{
