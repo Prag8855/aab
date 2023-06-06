@@ -5,20 +5,21 @@
     --f-h1: 2rem;
     --f-h2: 1.5rem;
     --f-h3: 1.25rem;
-    --f-m: 17px;
+    --f-m: 19px;
     --f-s: 0.9rem;
     --f-xs: 0.65rem;
 
     --line-height-m: 1.6;
     --line-height-s: 1.3;
 
-    --l: 30px;
-    --m: 15px;
-    --s: 5px;
+    --xl: 2.4rem;
+    --l: 1.8rem;
+    --m: 0.9rem;
+    --s: 0.3rem;
     --page-border: var(--l);
     --page-border-mobile: var(--m);
 
-    --s-radius: 3px;
+    --s-radius: 0.2rem;
     --s-img-bio: 75px;
 
     --list-item: 0.5em;
@@ -56,6 +57,7 @@
     border: var(--b-page);
     border-radius: var(--s-radius);
     padding: var(--l);
+    margin:var(--m) 0;
 }
 
 @mixin widget{
@@ -88,6 +90,10 @@ body, html{
         @include tablet{
             grid-template-columns: 1fr calc(min(860px, 100%)) 1fr;
             grid-template-areas: ". header ." ". main ." ". footer .";
+        }
+
+        @include phone{
+            --f-m: 17px;
         }
     }
 
@@ -200,6 +206,15 @@ body, html{
             }
         }
 
+        .collections{
+            .collection{
+                @include box;
+
+                width: calc(50% - var(--m) / 2);
+                box-sizing: border-box;
+            }
+        }
+
         img, svg{
             max-width:100%;
             height: auto;
@@ -219,9 +234,27 @@ body, html{
         @include heading;
         font-size: var(--f-h2);
     }
+    
     h3{
         @include heading;
         font-size: var(--f-h3);
+    }
+
+
+    ul, ol{
+        margin:var(--list-item);
+
+        li {
+            margin: var(--list-item) 0 var(--list-item) 1ch;
+            padding-left: var(--m);
+            list-style:outside '–';
+            ::marker{
+                color: var(--c-text-light);
+            }
+
+            &:first-child{margin-top:0}
+            &:last-child{margin-bottom:0}
+        }
     }
 
     strong, b{font-weight:bold;color:var(--c-text-heading)}
@@ -247,18 +280,19 @@ body, html{
 
         ul, ol{
             margin: var(--m) 0;
-
             ul, ol {
-                margin: 0
+                margin: var(--list-item);
             }
+        }
 
-            li {
-                margin: var(--list-item) 0 var(--list-item) var(--l);
-                list-style:outside;
-                ::marker{
-                    color: var(--c-text-light);
-                }
-            }
+        > * + h2{
+            border-top: var(--b-page);
+            padding-top: var(--xl);
+            margin: var(--xl) 0 var(--l);
+        }
+
+        > h3{
+            margin: var(--l) 0 var(--m);
         }
 
         sup, sub{
@@ -272,6 +306,12 @@ body, html{
 
         .table-of-contents{
             @include widget;
+
+            @include desktop{
+                display: none;
+            }
+
+            > ol{margin-bottom:0}
         }
     }
 
