@@ -35,7 +35,8 @@
 			</p>
 		</aside>
 		{% if related_collections %}
-			<aside id="related" class="section fixed-width transparent" aria-label="Collections that include this guide">
+			<aside id="related" class="section fixed-width" aria-label="Collections that include this guide">
+				<h2>Related guides</h2>
 				{% with collections=related_collections, currentEntry=entry %}
 					{% include "blocks/_collections.html" %}
 				{% endwith %}
