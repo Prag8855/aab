@@ -86,6 +86,7 @@ body, html{
         display: grid;
         grid-template-columns: 1fr 420px 860px 1fr;
         grid-template-areas: ". header header ." ". sidebar main ." ". footer footer .";
+        grid-gap: var(--m);
 
         @include tablet{
             grid-template-columns: 1fr calc(min(860px, 100%)) 1fr;
@@ -223,6 +224,9 @@ body, html{
 
     footer{
         grid-area: footer;
+        text-align: center;
+        font-size: var(--f-s);
+        padding-bottom:var(--m);
     }
 
     h1{
@@ -230,6 +234,7 @@ body, html{
         font-size: var(--f-h1);
         margin: 0 0 var(--m);
     }
+
     h2{
         @include heading;
         font-size: var(--f-h2);
