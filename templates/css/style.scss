@@ -51,7 +51,7 @@
 @mixin page-borders{
     padding: var(--page-border) var(--xl);
 
-    @include phone{
+    @include only-phone{
         :root{
             --page-border: var(--page-border-mobile);
         }
@@ -105,12 +105,12 @@ body{
     scroll-behavior:smooth;
     width: 100%;
 
-    @include tablet{
+    @include not-desktop{
         grid-template-columns: 1fr calc(min(860px, 100%)) 1fr;
         grid-template-areas: ". header ." ". main ." ". footer .";
     }
 
-    @include phone{
+    @include only-phone{
         --m: 17px;
     }
 }
@@ -159,7 +159,7 @@ header {
     grid-area: sidebar;
     @include page-borders;
 
-    @include tablet{
+    @include not-desktop{
         display: none;
     }
 }
@@ -410,7 +410,7 @@ sup, sub{
     .table-of-contents{
         @include widget;
 
-        @include desktop{
+        @include only-desktop{
             display: none;
         }
 

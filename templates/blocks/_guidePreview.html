@@ -6,7 +6,7 @@
             {% else %}
                 {% if entry.short_title|default %}
                     <span class="no-mobile">{{ entry.title }}</span>
-                    <span class="no-desktop">{{ entry.short_title }}</span>
+                    <span class="only-mobile">{{ entry.short_title }}</span>
                 {% else %}
                     {{ entry.title }}
                 {% endif %}

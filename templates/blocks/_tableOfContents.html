@@ -2,7 +2,7 @@
 	<h2>Table of contents</h2>
 	<ol>
 		{% if showScrollToTop|default %}
-			<li class="top-of-page no-desktop"><a href="#" title="Scroll to top of page">Top of page</a></li>
+			<li class="top-of-page only-mobile"><a href="#" title="Scroll to top of page">Top of page</a></li>
 		{% endif %}
 		{% for heading in entry.table_of_contents %}
 		    <li class="collapsed">
