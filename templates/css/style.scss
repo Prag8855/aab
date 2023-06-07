@@ -210,6 +210,11 @@ main{
 
         span + span {
             margin-left: var(--m);
+
+            @include only-phone{
+                margin-left: 0;
+                display: block;
+            }
         }
 
         #reviewers{
