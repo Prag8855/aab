@@ -2,21 +2,19 @@
 @import './_breakpoints.scss';
 
 :root{
-    --f-h1: 2rem;
-    --f-h2: 1.5rem;
-    --f-h3: 1.25rem;
-    --f-m: 19px;
     --f-s: 0.9rem;
     --f-xs: 0.65rem;
 
     --line-height-m: 1.6;
     --line-height-s: 1.3;
 
-    --xl: 2.4rem;
-    --l: 1.8rem;
-    --m: 1rem;
+    --xxxl: 2.8rem;
+    --xxl: 2.2rem;
+    --xl: 1.8rem;
+    --l: 1.4rem;
+    --m: 19px;
     --s: 0.3rem;
-    --page-border: var(--l);
+    --page-border: var(--xl);
     --page-border-mobile: var(--m);
 
     --s-radius: 0.2rem;
@@ -30,9 +28,9 @@
     --c-text-heading: #000;
     --c-text-link: #00e;
     --c-text-link-visited: #61a;
-    --c-background-website: #f9f9f9;
-    --c-background-page: #fff;
-    --c-background-widget: #f6f6f6;
+    --c-bg-website: #f9f9f9;
+    --c-bg-page: #fff;
+    --c-bg-widget: #f6f6f6;
     --c-border-page: #ddd;
 
     --b-page: 1px solid var(--c-border-page);
@@ -45,7 +43,7 @@
 }
 
 @mixin page-borders{
-    padding: var(--page-border) var(--l);
+    padding: var(--page-border) var(--xl);
 
     @include phone{
         :root{
@@ -55,10 +53,10 @@
 }
 
 @mixin box{
+    margin: var(--l) 0;
     border: var(--b-page);
     border-radius: var(--s-radius);
-    padding: var(--l);
-    margin:var(--m) 0;
+    padding: var(--xl);
 }
 
 @mixin box-hover{
@@ -70,8 +68,8 @@
 
 @mixin widget{
     @include box;
-    background: var(--c-background-widget);
-    margin:var(--l) 0;
+    background: var(--c-bg-widget);
+    margin: var(--xl) 0;
 }
 
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{ margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{ display:block}body{ line-height:1}ol,ul{ list-style:none}blockquote,q{ quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
@@ -84,8 +82,8 @@ html{
 body{
     @include text;
 
-    background: var(--c-background-website);
-    font-size: var(--f-m);
+    background: var(--c-bg-website);
+    font-size: var(--m);
 
     display: grid;
     grid-gap: var(--m);
@@ -105,7 +103,7 @@ body{
     }
 
     @include phone{
-        --f-m: 17px;
+        --m: 17px;
     }
 
     header {
@@ -131,7 +129,7 @@ body{
             background: var(--i-logo);
             background-size:23px 35px;
 
-            font-size:var(--f-h2);
+            font-size:var(--xl);
 
             padding-left:33px;
             display:block;
@@ -163,7 +161,7 @@ body{
         grid-gap: var(--m);
 
         .section{
-            background: var(--c-background-page);
+            background: var(--c-bg-page);
             border-radius: var(--s-radius);
             @include page-borders;
 
@@ -173,8 +171,8 @@ body{
         .post-meta {
             @include small;
 
-            margin: 0 0 var(--l);
-            padding: 0 0 var(--l);
+            margin: 0 0 var(--xl);
+            padding: 0 0 var(--xl);
 
             border-bottom: var(--b-page);
 
@@ -240,14 +238,14 @@ body{
                 @include widget;
 
                 summary {
-                    padding: var(--m) var(--l);
+                    padding: var(--m) var(--xl);
                     font-weight: bold;
                     list-style: none;
 
                     &:after{
                         content: ' ';
                         width: 1.5rem;
-                        height: calc(var(--line-height-m) * var(--f-m));
+                        height: calc(var(--line-height-m) * var(--m));
                         display: block;
                         float: right;
                         background: var(--i-expand) no-repeat center right;
@@ -262,7 +260,7 @@ body{
                 &[open]{
                     summary {
                         width: 100%;
-                        margin: calc(var(--l) * -1) 0 var(--l) calc(var(--l) * -1);
+                        margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--xl) * -1);
                         border-bottom: var(--b-page);
                         &:after{
                             transform: scaleY(-1);
@@ -282,30 +280,31 @@ body{
 
     h1{
         @include heading;
-        font-size: var(--f-h1);
+        font-size: var(--xxl);
         margin: 0 0 var(--m);
     }
 
     h2{
         @include heading;
-        font-size: var(--f-h2);
+        font-size: var(--xl);
     }
     
     h3{
         @include heading;
-        font-size: var(--f-h3);
+        font-size: var(--l);
     }
 
     hr{
+        margin: var(--l) 0;
+
         background:var(--c-border-page);
         height:1px;
         border:none;
-        margin:var(--m) 0;
     }
 
 
     ul, ol{
-        margin: var(--m) 0;
+        margin: var(--l) 0;
 
         ul, ol {
             margin: var(--list-item) 0;
@@ -342,17 +341,17 @@ body{
 
     .article-body{
         p {
-            margin: var(--m) 0;
+            margin: var(--l) 0;
         }
 
         > * + h2{
             border-top: var(--b-page);
-            padding-top: var(--xl);
-            margin: var(--xl) 0 var(--l);
+            padding-top: var(--xxxl);
+            margin: var(--xxxl) 0 var(--xl);
         }
 
         > h3{
-            margin: var(--l) 0 var(--m);
+            margin: var(--xxl) 0 var(--l);
         }
 
         sup, sub{
