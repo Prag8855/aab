@@ -1,3 +1,6 @@
+@import './_fonts.scss';
+@import './_breakpoints.scss';
+
 :root{
     --line-height-m: 1.6;
     --line-height-s: 1.3;
@@ -17,6 +20,8 @@
     --s-checkbox: var(--l);
     --s-radius: 0.2rem;
     --s-img-bio: 75px;
+    --s-header: var(--xxxl);
+    --s-logo-width: 21px;
 
     --list-item: 0.5em;
 
@@ -47,8 +52,6 @@
 }
 
 @import './_reset.scss';
-@import './_fonts.scss';
-@import './_breakpoints.scss';
 
 @mixin page-borders{
     padding: var(--page-border) var(--xl);
@@ -83,6 +86,8 @@
 ::selection{background:var(--c-text-selection)}
 
 html{
+    margin: 0;
+    padding: 0;
     width: 100%;
     height: 100%;
     font-size: var(--m);
@@ -94,7 +99,7 @@ body{
     background: var(--c-bg-website);
 
     display: grid;
-    grid-gap: var(--m);
+    grid-gap: var(--m) 0;
     grid-template-areas: ". header header ." ". sidebar main ." ". footer footer .";
     grid-template-columns: 1fr 420px 860px 1fr;
 
@@ -126,26 +131,46 @@ header {
 
     display:flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
+    height: var(--s-header);
+
+    line-height: var(--s-header);
 
     color: #fff;
 
+    #sections{
+        display: flex;
+        margin-right:calc(var(--m) * -1);
+    }
+
     a, a:visited{
+        display: block;
         color: #fff;
+        padding: 0 var(--m);
+
+        &:hover{
+            background-color: #fff2;
+            text-decoration: none;
+        }
     }
 
     .logo{
-        background: var(--i-logo) no-repeat 0 5px;
-        background-size:23px 35px;
+        background: var(--i-logo) no-repeat var(--m) center / var(--s-logo-width) auto;
 
-        font-size:var(--xl);
-
-        padding-left:33px;
-        display:block;
-        line-height:var(--height-header);
-        color:var(--color-text-inverted);
-        font-family:var(--font-family-header);
+        font-size: var(--xl);
+        margin-left: calc(var(--m) * -1);
+        padding-left: calc(var(--s-logo-width) + var(--m) + 10px);
+        line-height: var(--height-header);
+        color: var(--color-text-inverted);
+        font-family: var(--font-family-header);
         letter-spacing:-0.03em;
+
+        @include only-phone{
+            color: transparent;
+            overflow: hidden;
+            width: var(--s-logo-width);
+            padding:0 var(--m);
+        }
     }
 
     .search-form{
@@ -203,7 +228,7 @@ main{
                 align-items: center;
 
                 picture, .placeholder{
-                    background: var(--c-bg-image) var(--i-logo) no-repeat center/23px 35px;
+                    background: var(--c-bg-image) var(--i-logo) no-repeat center / var(--s-logo-width) auto;
                     width: var(--s-img-bio);
                     height: var(--s-img-bio);
                     border-radius: 50%;
