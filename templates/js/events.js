@@ -35,21 +35,6 @@ window.addEventListener("DOMContentLoaded", function() {
     });
   });
 
-  /* Collapsibles */
-  document.querySelectorAll(".collapsible").forEach((collapsible, index) => {
-    const header = collapsible.querySelector(":scope > .header");
-    if(header) {
-      // Set initial state and accessibility features
-      const collapsibleBody = collapsible.querySelector('.body');
-      let isCollapsed = collapsible.classList.contains('collapsed');
-      if(collapsibleBody) collapsibleBody.hidden = isCollapsed;
-      header.addEventListener('click', (e) => {
-        isCollapsed = collapsible.classList.toggle('collapsed');
-        if(collapsibleBody) collapsibleBody.hidden = isCollapsed;
-      });
-    }
-  });
-
   /* Open footnotes when clicking on a footnote link */
   document.querySelectorAll('.footnote-ref').forEach(link => {
     link.addEventListener('click', e => {
