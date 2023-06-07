@@ -30,7 +30,8 @@
     --c-bg-input: #fff;
     --c-bg-website: #f9f9f9;
     --c-bg-page: #fff;
-    --c-bg-widget: #f6f6f6;
+    --c-bg-widget: #00000009;
+    --c-bg-image: var(--c-bg-widget);
     --c-border-page: #0002;
     --c-border-input: #0004;
     --c-border-input-focused: #0008;
@@ -134,7 +135,7 @@ header {
     }
 
     .logo{
-        background: var(--i-logo);
+        background: var(--i-logo) no-repeat 0 5px;
         background-size:23px 35px;
 
         font-size:var(--xl);
@@ -145,8 +146,6 @@ header {
         color:var(--color-text-inverted);
         font-family:var(--font-family-header);
         letter-spacing:-0.03em;
-        background-repeat:no-repeat;
-        background-position:0 5px;
     }
 
     .search-form{
@@ -203,23 +202,25 @@ main{
                 grid-gap: var(--m);
                 align-items: center;
 
-                picture{
-                    grid-area: photo;
+                picture, .placeholder{
+                    background: var(--c-bg-image) var(--i-logo) no-repeat center/23px 35px;
+                    width: var(--s-img-bio);
+                    height: var(--s-img-bio);
+                    border-radius: 50%;
+                    overflow: hidden;
+                }
 
-                    img{
-                        width: var(--s-img-bio);
-                        height: var(--s-img-bio);
-                        object-fit: cover;
-                        border-radius:50%;
-                    }
+                img{
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
                 }
 
                 p{
-                    grid-area: description;
                     margin: var(--s) 0;
                 }
 
-                + .expert{
+                + li{
                     border-top: var(--b-page);
                     margin-top: var(--m);
                     padding-top: var(--m);
@@ -443,7 +444,6 @@ sup, sub{
     display: none;
 }
 
-
 @mixin form-input{
     @include text;
     font-size: var(--m);
@@ -541,6 +541,12 @@ select{
             flex: 0 1 auto;
             margin-left: var(--s);
         }
+    }
+}
+
+.health-insurance-options{
+    > div{
+        @include box;
     }
 }
 

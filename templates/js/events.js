@@ -25,7 +25,7 @@ window.addEventListener("DOMContentLoaded", function() {
   });
 
   /* Reviewers */
-  document.querySelectorAll('.reviewers-link').forEach(link => {
+  document.querySelectorAll('.post-reviewers a').forEach(link => {
     link.classList.add('reviewers-collapsed');
     link.addEventListener('click', (e) => {
       e.preventDefault();

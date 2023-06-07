@@ -1,10 +1,10 @@
 <div class="post-meta">
     {% set reviews = entry.related_reviews|default([]) %}
-    <span class="post-date">
+    <span>
         <i class="icon calendar"></i>
         <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">Updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
     </span>
-    <span class="post-author">
+    <span>
         <i class="icon person"></i>
         {% if entry.author|default %}
             {% if entry.author_url|default %}
@@ -24,18 +24,18 @@
     {% elif reviews|length > 1 %}
         <span class="post-reviewers">
             <i class="icon verified"></i>
-            Verified by <a class="reviewers-link" href="#reviewers">{{ reviews|length }} experts</a>
+            Verified by <a href="#reviewers">{{ reviews|length }} experts</a>
         </span>
     {% endif %}
     {% if reviews %}
         <ul class="hidden" id="reviewers">
             {% for review in reviews %}
                 {% set reviewer = review.related_expert[0] %}
-                <li class="expert">
+                <li>
                     {% if reviewer.picture|default %}
                         {% image reviewer.picture, "profile-picture" %}
                     {% else%}
-                        <div class="profile-picture no-picture"></div>
+                        <div class="placeholder"></div>
                     {% endif %}
                     <div>
                         <p>
