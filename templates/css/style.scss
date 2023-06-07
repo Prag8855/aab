@@ -184,8 +184,12 @@ main{
         #reviewers{
             @include widget;
             margin-top: var(--m);
+            font-size: var(--m);
 
-            .expert{
+            li{
+                margin: 0;
+                padding: 0;
+
                 display: grid;
                 grid-template-columns: var(--s-img-bio) 1fr;
                 grid-template-areas: "photo description";
@@ -203,8 +207,9 @@ main{
                     }
                 }
 
-                *{
+                p{
                     grid-area: description;
+                    margin: var(--s) 0;
                 }
 
                 + .expert{
@@ -305,8 +310,6 @@ hr{
 
 
 ul, ol{
-    margin: var(--l) 0;
-
     ul, ol {
         margin: var(--list-item) 0;
     }
@@ -322,6 +325,10 @@ ul, ol{
         &:first-child{margin-top:0}
         &:last-child{margin-bottom:0}
     }
+}
+
+ul, ol, p, blockquote {
+    margin: var(--l) 0;
 }
 
 strong, b{font-weight:bold;color:var(--c-text-heading)}
@@ -341,10 +348,6 @@ a {
 }
 
 .article-body{
-    p {
-        margin: var(--l) 0;
-    }
-
     > * + h2{
         border-top: var(--b-page);
         padding-top: var(--xxxl);
