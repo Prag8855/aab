@@ -1,6 +1,3 @@
-@import './_fonts.scss';
-@import './_breakpoints.scss';
-
 :root{
     --line-height-m: 1.6;
     --line-height-s: 1.3;
@@ -48,6 +45,10 @@
     --i-verified: url("data:image/svg+xml;utf8,<svg width='700' height='700' viewBox='0 0 700 700' xmlns='http://www.w3.org/2000/svg'><path d='m438.55 214.73c4.957 4.8984 7.75 11.578 7.75 18.547 0 6.9727-2.793 13.652-7.75 18.551l-93.273 93.449h-0.003906c-4.9375 4.8945-11.598 7.6562-18.547 7.7031-6.9609-0.007812-13.633-2.7773-18.551-7.7031l-46.727-46.727v0.003906c-6.2422-6.6992-8.543-16.172-6.0664-24.988 2.4727-8.8164 9.3633-15.707 18.18-18.18 8.8164-2.4766 18.289-0.17578 24.988 6.0664l28.176 28.176 74.727-74.898h-0.003906c4.9453-4.875 11.609-7.6055 18.551-7.6055s13.605 2.7305 18.551 7.6055zm147 269.5c2.0234 8.7734-0.625 17.969-7 24.324-4.9414 4.8906-11.598 7.6562-18.551 7.6992-1.918 0.25781-3.8594 0.25781-5.7734 0l-102.02-22.574h-0.003906c-50.277 24.129-107.47 29.691-161.46 15.707-53.988-13.984-101.29-46.613-133.53-92.121-32.242-45.504-47.344-100.95-42.641-156.52 4.707-55.57 28.922-107.68 68.355-147.12 39.434-39.434 91.547-63.648 147.12-68.352 55.57-4.707 111.01 10.395 156.52 42.637 45.504 32.242 78.137 79.539 92.121 133.53 13.984 53.988 8.4219 111.18-15.707 161.46zm-73.5-117.77v-0.003906c20.773-38.898 26.879-83.965 17.203-126.99-9.6719-43.023-34.484-81.141-69.906-107.4-35.426-26.262-79.109-38.922-123.09-35.676-43.977 3.25-85.324 22.191-116.51 53.371-31.18 31.184-50.121 72.531-53.371 116.51-3.2461 43.977 9.4141 87.66 35.676 123.09 26.262 35.422 64.379 60.234 107.4 69.906 43.023 9.6758 88.09 3.5703 126.99-17.203 5.3906-2.7734 11.559-3.6367 17.5-2.4492l71.051 15.398-15.398-70c-1.3516-6.2812-0.48437-12.836 2.4492-18.551z'/></svg>");
 }
 
+@import './_reset.scss';
+@import './_fonts.scss';
+@import './_breakpoints.scss';
+
 @mixin page-borders{
     padding: var(--page-border) var(--xl);
 
@@ -77,8 +78,6 @@
     background: var(--c-bg-widget);
     margin: var(--xl) 0;
 }
-
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{ margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{ display:block}body{ line-height:1}ol,ul{ list-style:none}blockquote,q{ quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
 
 ::selection{background:var(--c-text-selection)}
 
