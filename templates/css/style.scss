@@ -395,7 +395,7 @@ ul, ol, p, blockquote {
     margin: var(--l) 0;
 }
 
-strong, b{font-weight:bold;color:var(--c-text-heading)}
+strong, b{@include bold;}
 em, i{font-style:italic}
 small{@include small}
 
@@ -565,6 +565,15 @@ select{
         > * + * {
             flex: 0 1 auto;
             margin-left: var(--s);
+        }
+    }
+
+    @include only-phone{
+        grid-gap: var(--s);
+        grid-template-columns: 1fr;
+
+        > label, > .label{
+            @include bold;
         }
     }
 }

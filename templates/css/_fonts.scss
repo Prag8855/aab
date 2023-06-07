@@ -37,6 +37,11 @@
     color: var(--c-text);
 }
 
+@mixin bold{
+    font-weight: 600;
+    color: var(--c-text-heading);
+}
+
 @mixin small{
     font-size: var(--f-s);
 }
