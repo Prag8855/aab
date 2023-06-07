@@ -2,29 +2,43 @@
 @import './_breakpoints.scss';
 @import './_reset.scss';
 
-:root{
-    --line-height-m: 1.6;
-    --line-height-s: 1.3;
 
+/*******************************************************************************
+ * 
+ * DEFS
+ *
+*******************************************************************************/
+
+:root{
+    // Absolute sizes
     --xxxl: 2.5rem;
     --xxl: 2rem;
     --xl: 1.5rem;
     --l: 1.25rem;
     --m: 19px;
     --s: 0.3rem;
-    --page-border: var(--xl);
 
     --f-s: 0.85rem;
-    --f-xs: 0.65rem;
 
-    --s-checkbox: var(--l);
-    --s-radius: 0.2rem;
-    --s-img-bio: 75px;
-    --s-header: var(--xxxl);
-    --s-logo-width: 21px;
+    // Relative sizes
+    --paragraph-m: 1.25em;
+    --paragraph-s: 0.5em;
 
-    --list-item: 0.5em;
+    --line-height-text: 1.6;
+    --line-height-heading: 1.3;
 
+    // Specific element sizes
+    --b-radius: var(--s);
+    --f-footnote: 0.65rem;
+    --h-header: var(--xxxl);
+    --w-checkbox: var(--l);
+    --w-img-bio-s: 75px;
+    --w-label-column: 10rem;
+    --w-logo: 21px;
+    --w-mini-pie-chart: var(--l);
+    --w-page-border: var(--xl);
+
+    // Colours
     --c-highlight: #da513d;
     --c-text: #444;
     --c-text-light: #666;
@@ -41,9 +55,11 @@
     --c-border-input: #0004;
     --c-border-input-focused: #0008;
 
+    // Borders
     --b-page: 1px solid var(--c-border-page);
     --b-input: 1px solid var(--c-border-input);
 
+    // Icons
     --i-expand: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M16,23.5a1.51,1.51,0,0,1-1.06-.44l-12-12A1.5,1.5,0,0,1,5.06,8.94L16,19.88,26.94,8.94a1.5,1.5,0,0,1,2.12,2.12l-12,12A1.51,1.51,0,0,1,16,23.5Z'/></g></svg>");
     --i-calendar: url("data:image/svg+xml;utf8,<svg width='700' height='700' viewBox='0 0 700 700' xmlns='http://www.w3.org/2000/svg'><path fill='black' d='m525 97.477h-43.75v-21.176c0-9.3789-5.0039-18.043-13.125-22.734-8.1211-4.6875-18.129-4.6875-26.25 0-8.1211 4.6914-13.125 13.355-13.125 22.734v21.176h-157.5v-21.176c0-9.3789-5.0039-18.043-13.125-22.734-8.1211-4.6875-18.129-4.6875-26.25 0-8.1211 4.6914-13.125 13.355-13.125 22.734v21.176h-43.75c-16.246 0-31.824 6.4531-43.309 17.938-11.488 11.488-17.941 27.066-17.941 43.312v289.97c0 16.246 6.4531 31.824 17.941 43.312 11.484 11.484 27.062 17.938 43.309 17.938h350c16.246 0 31.824-6.4531 43.309-17.938 11.488-11.488 17.941-27.066 17.941-43.312v-289.97c0-16.246-6.4531-31.824-17.941-43.312-11.484-11.484-27.062-17.938-43.309-17.938zm-350 52.5h43.75v3.8516-0.003906c0 9.3789 5.0039 18.043 13.125 22.734 8.1211 4.6875 18.129 4.6875 26.25 0 8.1211-4.6914 13.125-13.355 13.125-22.734v-3.8477h157.5v3.8516-0.003906c0 9.3789 5.0039 18.043 13.125 22.734 8.1211 4.6875 18.129 4.6875 26.25 0 8.1211-4.6914 13.125-13.355 13.125-22.734v-3.8477h43.75c2.3203 0 4.5469 0.92188 6.1875 2.5625 1.6406 1.6406 2.5625 3.8672 2.5625 6.1875v54.773h-367.5v-54.773c0-4.8359 3.918-8.75 8.75-8.75zm350 307.47h-350c-4.832 0-8.75-3.918-8.75-8.75v-182.7h367.5v182.7c0 2.3203-0.92188 4.5469-2.5625 6.1875s-3.8672 2.5625-6.1875 2.5625z'/></svg>");
     --i-logo: url("data:image/svg+xml;utf8,<svg width='2700' height='4130' xmlns='http://www.w3.org/2000/svg'><path d='m1513,111.22222l-244,9c-12,1 -21,7 -21,21c1,88 62.4444,238.33326 125.4444,284.33326c13.77785,45.44444 82.44446,65.44441 174.5555,84.22218c104.66678,34.33342 124.0001,67.44456 124.0001,126.44456c-43,173 -109,210 -158,241c-128,73 -263,153 -336,287c-61,106 -70.44384,273.11557 -63.44384,395.11557c-113.56267,65.88877 -283.55616,147.88443 -434.55616,217.88443c-37,17 -133,41 -153,7c-69,-119 -124,-209 -204,-300c-41,-47 -313,178 -263,254c114,173 300,421 610,423c321,2 403.32062,-20.43838 464.32062,-38.43838c45.67929,230.4384 86.23482,271.99396 137.23491,343.7718c-352.22231,177.33325 -345.55553,322.66658 -422.55553,479.66658c-85,189 -69,404 -33,603c7,33 -29,49 -56,39c-74,-17 -115,-91 -186,-118c-32,-14 -74,-30 -109,-24c-57,10 -118,298 -60,326c108,53 226,64 346,126c79,32 155,84 245,70c51,-5 102,-40 107,-94c45,-194 108,-400 256,-540c146.88895,-127.00016 204.33332,-140.55582 293.99991,-182.33369c182.66658,288.22245 122.00009,254.33369 379.00009,509.33369c26,26 24,75 -14,90c-50,25 -109,26 -166,29c-61,3 -15,341 75,338c158,-5 322,-128 417,-249c40,-50 88,-100 126,-149c47,-61 -4,-132 -18,-188c-39,-160 24.81824,-565.4545 22.81824,-629.4545c18.66667,0.33333 62.7879,13.39394 81.45457,13.72728c14.18182,-36.24242 15.63637,-94.30304 38.90911,-157.81822c-43.49996,-24.40903 -118.8788,-151.85597 -110.75737,-285.15893c8.12143,-133.30296 -180.25781,-402.46239 -203.0911,-460.29556c-22.83329,-57.83317 -7.00067,-189.66676 -7.00067,-279.66676c117.9998,-702.00165 89.66722,-923.33331 87.66722,-1231.33331c-1,-85 -11,-148 -33,-235c149,-157 -56,-314 -174,-216c-95,-25 -107,-50 -293,-50c-159,0 -250,43 -349,109m-661.5,812.25c-102.75,-31.5 -183.5,-63.25 -241.5,-107.25c-117,-89 -65,-285 -206,-389c-70,-52 -291,71 -257,124c217,338 -73,419 918,985c-4,-313 55,-378 160,-507' fill='white'/><path d='m0.42028,0.03028l-0.06778,0.0025c-0.00333,0.00028 -0.00583,0.00194 -0.00583,0.00583c0.00027,0.02445 0.005,0.04028 0.0225,0.05306c-0.00223,0.01361 -0.00084,0.02055 0.01333,0.03194c0.00139,-0.01111 0.00583,-0.01611 0.01278,-0.02083c0.00055,0.00028 0.00111,0.00028 0.00139,0.00055c-0.00084,0.005 -0.00084,0.01028 0.00027,0.01334c0.00278,0.00778 0.01639,0.00805 0.02,0.0025c0.00334,0.00805 0.01028,0.00833 0.01584,0.00833c0.00583,0 0.00861,-0.00417 0.01055,-0.00806c0.00334,0.00278 0.00667,0.00584 0.00973,0.00973c0.00972,0.01333 0.01138,0.03055 0.01138,0.04694c-0.00305,0.00028 -0.00611,0.00056 -0.00916,0.00083l0,-0.00666c-0.00028,-0.00945 -0.02222,-0.01111 -0.02722,-0.00306c-0.00556,-0.00611 -0.02278,-0.005 -0.02278,0.00472l0,0.00306c-0.00389,-0.005 -0.00695,-0.01028 -0.00945,-0.01556c-0.00694,0.00445 -0.01111,0.00778 -0.01,0.02361c-0.00305,0.00028 -0.00611,0.00056 -0.00889,0.00084c0.00028,0.01833 0.00834,0.02333 0.07389,0.02194c0.00167,0.01833 -0.01666,0.02861 -0.03028,0.03722c-0.03555,0.02028 -0.07305,0.0425 -0.09333,0.07972c-0.01694,0.02945 -0.02111,0.06445 -0.01917,0.09834l0.01945,-0.00861l0.00222,0.01055c-0.035,0.01667 -0.09889,0.05056 -0.14083,0.07c-0.01028,0.00472 -0.03695,0.01139 -0.0425,0.00195c-0.01917,-0.03306 -0.03445,-0.05806 -0.05667,-0.08334c-0.01139,-0.01305 -0.08694,0.04945 -0.07305,0.07056c0.03166,0.04805 0.08333,0.11694 0.16944,0.1175c0.08917,0.00055 0.16667,-0.03222 0.18361,-0.03722l0.00361,0.01139c-0.01139,0.005 -0.02139,0.00861 -0.03333,0.0125c0.01555,0.06111 0.03361,0.085 0.07555,0.12222l-0.00861,0.00639c-0.0075,-0.00445 -0.02028,-0.01861 -0.02722,-0.02528c-0.08917,0.04222 -0.1225,0.08444 -0.14389,0.12805c-0.02361,0.0525 -0.01917,0.11223 -0.00917,0.1675c0.00195,0.00917 -0.00805,0.01361 -0.01555,0.01084c-0.02056,-0.00473 -0.03195,-0.02528 -0.05167,-0.03278c-0.00889,-0.00389 -0.02055,-0.00833 -0.03028,-0.00667c-0.01583,0.00278 -0.03277,0.08278 -0.01666,0.09056c0.03,0.01472 0.06277,0.01777 0.09611,0.035c0.02194,0.00889 0.04305,0.02333 0.06805,0.01944c0.01417,-0.00139 0.02834,-0.01111 0.02973,-0.02611c0.0125,-0.05389 0.03,-0.11111 0.07111,-0.15c0.01972,-0.01944 0.04528,-0.035 0.07055,-0.04694c-0.01,-0.03834 -0.0175,-0.07667 -0.01666,-0.11667l0.01222,-0.00056c0.00889,0.15222 0.04944,0.18417 0.12083,0.255c0.00722,0.00722 0.00667,0.02084 -0.00389,0.025c-0.01389,0.00695 -0.03028,0.00722 -0.04611,0.00806c-0.01694,0.00083 -0.00417,0.09472 0.02083,0.09389c0.04389,-0.00139 0.08945,-0.03556 0.11584,-0.06917c0.01111,-0.01389 0.02444,-0.02778 0.035,-0.04139c0.01305,-0.01694 -0.00111,-0.03667 -0.005,-0.05222c-0.01084,-0.04444 -0.01584,-0.17222 -0.01639,-0.19l0.01555,0.00028l0.00222,-0.03222c-0.04638,-0.0575 -0.03888,-0.1475 -0.05805,-0.20556c-0.0075,-0.02361 -0.01583,-0.04806 -0.01583,-0.07305c0,-0.03389 0.03833,-0.0975 0.0375,-0.15417c-0.00028,-0.02389 -0.01362,-0.055 -0.01334,-0.06917c0.00028,-0.04111 0.02389,-0.03222 0.02334,-0.11778c-0.00028,-0.02361 -0.00306,-0.04111 -0.00917,-0.06527c0.04139,-0.04362 -0.01556,-0.08723 -0.04833,-0.06c-0.02639,-0.00695 -0.02973,-0.01389 -0.08139,-0.01389c-0.04417,0 -0.06945,0.01194 -0.09695,0.03027m-0.08,0.255c-0.08111,-0.02388 -0.13861,-0.03472 -0.17083,-0.05916c-0.0325,-0.02472 -0.01806,-0.07917 -0.05722,-0.10806c-0.01945,-0.01444 -0.08084,0.01972 -0.07139,0.03445c0.06028,0.09389 -0.02028,0.11639 0.255,0.27361c-0.00111,-0.08695 0.01528,-0.105 0.04444,-0.14084' fill='white'/></svg>");
@@ -53,23 +69,32 @@
 
 @include only-phone{
     :root{
-        --page-border: var(--m);
+        --w-page-border: var(--m);
         --m: 17px;
     }
 }
 
+/*******************************************************************************
+ * 
+ * MIXINS
+ *
+*******************************************************************************/
+
+// Boxes
+
 @mixin page-borders{
-    padding: var(--xl) var(--page-border);
+    padding: var(--xl) var(--w-page-border);
 }
 
 @mixin box{
+    @include page-borders;
+
     margin: var(--l) 0;
     border: var(--b-page);
-    border-radius: var(--s-radius);
-    padding: var(--xl) var(--page-border);
+    border-radius: var(--b-radius);
 }
 
-@mixin box-hover{
+@mixin box-hoverable{
     &:hover{
         border-color:var(--c-highlight);
         outline:1px solid var(--c-highlight);
@@ -82,14 +107,41 @@
     margin: var(--xl) 0;
 }
 
+// Text
+
+@mixin heading{
+    font-family: 400 1rem / var(--line-height-heading) 'Libre Franklin', 'Open Sans', sans-serif;
+    color: var(--c-text-heading);
+    letter-spacing: -0.01em;
+}
+
+@mixin text{
+    font: 400 var(--m) / var(--line-height-text) 'Open Sans', sans-serif;
+    color: var(--c-text);
+}
+
+@mixin text-block{
+    margin: var(--paragraph-m) 0;
+}
+
+@mixin text-block-compact{
+    margin: var(--paragraph-s) 0;
+}
+
+@mixin bold{
+    font-weight: 600;
+    color: var(--c-text-heading);
+}
+
 ::selection{background:var(--c-text-selection)}
 
-html{
+html, body{
     margin: 0;
     padding: 0;
     width: 100%;
     height: 100%;
-    font-size: var(--m);
+
+    @include text;
 }
 
 body{
@@ -102,12 +154,7 @@ body{
     grid-template-areas: ". header header ." ". sidebar main ." ". footer footer .";
     grid-template-columns: 1fr 420px 860px 1fr;
 
-    height: 100%;
-    line-height: var(--line-height-m);
-    margin: 0;
-    padding: 0;
     scroll-behavior:smooth;
-    width: 100%;
 
     @include not-desktop{
         grid-template-columns: 1fr calc(min(860px, 100%)) 1fr;
@@ -122,14 +169,14 @@ header {
 
     background: var(--c-highlight);
     grid-area: header;
-    border-radius: 0 0 var(--s-radius) var(--s-radius);
+    border-radius: 0 0 var(--b-radius) var(--b-radius);
 
     display:flex;
     justify-content: space-between;
     align-items: stretch;
-    height: var(--s-header);
+    height: var(--h-header);
 
-    line-height: var(--s-header);
+    line-height: var(--h-header);
 
     color: #fff;
 
@@ -150,11 +197,11 @@ header {
     }
 
     .logo{
-        background: var(--i-logo) no-repeat var(--m) center / var(--s-logo-width) auto;
+        background: var(--i-logo) no-repeat var(--m) center / var(--w-logo) auto;
 
         font-size: var(--xl);
         margin-left: calc(var(--m) * -1);
-        padding-left: calc(var(--s-logo-width) + var(--m) + 10px);
+        padding-left: calc(var(--w-logo) + var(--m) + 10px);
         line-height: var(--height-header);
         color: var(--color-text-inverted);
         font-family: var(--font-family-header);
@@ -163,7 +210,7 @@ header {
         @include only-phone{
             color: transparent;
             overflow: hidden;
-            width: var(--s-logo-width);
+            width: var(--w-logo);
             padding:0 var(--m);
         }
     }
@@ -189,14 +236,14 @@ main{
 
     .section{
         background: var(--c-bg-page);
-        border-radius: var(--s-radius);
+        border-radius: var(--b-radius);
         @include page-borders;
 
         &.transparent{background:transparent;}
     }
 
     .post-meta {
-        @include small;
+        font-size: var(--f-s);
 
         margin: 0 0 var(--xl);
         padding: 0 0 var(--xl);
@@ -222,15 +269,15 @@ main{
                 padding: 0;
 
                 display: grid;
-                grid-template-columns: var(--s-img-bio) 1fr;
+                grid-template-columns: var(--w-img-bio-s) 1fr;
                 grid-template-areas: "photo description";
                 grid-gap: var(--m);
                 align-items: center;
 
                 picture, .placeholder{
-                    background: var(--c-bg-image) var(--i-logo) no-repeat center / var(--s-logo-width) auto;
-                    width: var(--s-img-bio);
-                    height: var(--s-img-bio);
+                    background: var(--c-bg-image) var(--i-logo) no-repeat center / var(--w-logo) auto;
+                    width: var(--w-img-bio-s);
+                    height: var(--w-img-bio-s);
                     border-radius: 50%;
                     overflow: hidden;
                 }
@@ -281,25 +328,6 @@ main{
                 margin: 0 0 0 var(--s);
                 align-self: center;
             }
-
-            &.price{
-                display: flex;
-                justify-content: space-between;
-                margin: var(--list-item) 0;
-                
-                output{
-                    display: flex;
-                    flex:2 0 auto;
-                    align-items:baseline;
-
-                    &:before{
-                        content:'';
-                        border-bottom: 1px dotted var(--c-border-page);
-                        flex: 1 0 auto;
-                        margin: 0 var(--s);
-                    }
-                }
-            }
         }
 
         &[open] > summary:after{
@@ -310,13 +338,13 @@ main{
             @include widget;
 
             > summary {
-                padding: var(--m) var(--page-border);
+                padding: var(--m) var(--w-page-border);
                 font-weight: bold;
 
                 &:after{
                     content: ' ';
                     width: 1.5rem;
-                    height: calc(var(--line-height-m) * var(--m));
+                    height: calc(var(--line-height-text) * var(--m));
                     display: block;
                     float: right;
                     background: var(--i-expand) no-repeat center right;
@@ -324,14 +352,14 @@ main{
             }
 
             &:not([open]){
-                @include box-hover;
+                @include box-hoverable;
                 padding: 0;
             }
 
             &[open]{
                 > summary {
                     width: 100%;
-                    margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--page-border) * -1);
+                    margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
                     border-bottom: var(--b-page);
                     &:after{
                         transform: scaleY(-1);
@@ -374,12 +402,12 @@ hr{
 }
 
 ul, ol{
-    ul, ol {
-        margin: var(--list-item) 0;
-    }
+    @include text-block;
 
     li {
-        margin: var(--list-item) 0 var(--list-item) 1ch;
+        @include text-block-compact;
+
+        margin-left: 1ch;
         padding-left: var(--m);
         list-style:outside '–';
         ::marker{
@@ -397,7 +425,7 @@ ul, ol, p, blockquote {
 
 strong, b{@include bold;}
 em, i{font-style:italic}
-small{@include small}
+small{font-size: var(--f-s);}
 
 a {
     cursor: pointer;
@@ -414,7 +442,7 @@ a {
 }
 
 sup, sub{
-    font-size: var(--f-xs);
+    font-size: var(--f-footnote);
     line-height: 0;
     position: relative;
     top: -0.6em;
@@ -444,31 +472,15 @@ sup, sub{
     }
 }
 
-.icon{
-    width:1.5em;
-    height:1.5em;
-    vertical-align:middle;
-    display:inline-block;
-
-    &::after{
-        content: ' ';
-        width: 100%;
-        height: 100%;
-        display: block;
-        mask-repeat: no-repeat;
-        mask-size: cover;
-        mask-position: center;
-        background-color:currentColor;
-    }
-
-    &.calendar::after{mask-image: var(--i-calendar)}
-    &.person::after{mask-image: var(--i-person)}
-    &.verified::after{mask-image: var(--i-verified)}
-}
-
 .hidden{
     display: none;
 }
+
+/*******************************************************************************
+ * 
+ * FORMS
+ *
+*******************************************************************************/
 
 @mixin form-input{
     @include text;
@@ -476,7 +488,7 @@ sup, sub{
 
     appearance: none;
     border: var(--b-input);
-    border-radius: var(--s-radius);
+    border-radius: var(--b-radius);
     background: var(--c-bg-input);
     padding: var(--s) 10px;
     margin: 0;
@@ -492,8 +504,8 @@ input:not([type=range]), textarea, select, .toggle{
     @include form-input;
 
     &[type=checkbox], &[type=radio]{
-        width: var(--s-checkbox);
-        height: var(--s-checkbox);
+        width: var(--w-checkbox);
+        height: var(--w-checkbox);
         padding: 0;
 
         position: relative;
@@ -534,7 +546,6 @@ input:not([type=range]), textarea, select, .toggle{
     &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
         -webkit-appearance:none;margin:0;
     }
-
 }
 
 .income-input, .age-input, .percent-input{
@@ -593,11 +604,13 @@ input[type=range] {
     background-color: var(--c-bg-page);
 
     &:after{
+        // Adds a white layer behind the semi-transparent floating range input
         content: '';
         background-color: var(--c-bg-widget);
-        position:absolute;
+        position: absolute;
         width: 100%;
         height: 100%;
+        z-index: -1;
     }
 
     flex-wrap:wrap;
@@ -649,15 +662,9 @@ select{
     background-size: 1rem;
 }
 
-.input-instructions{
-    @include small;
-    display: block;
-    margin-top: var(--s);
-}
-
 .form-group{
     display: grid;
-    grid-template-columns: 190px 1fr;
+    grid-template-columns: var(--w-label-column) 1fr;
     grid-gap: var(--m);
     margin: var(--m) 0;
 
@@ -680,6 +687,108 @@ select{
         > label, > .label{
             @include bold;
         }
+    }
+}
+
+.input-instructions{
+    font-size: var(--f-s);
+    display: block;
+    margin-top: var(--s);
+}
+
+/*******************************************************************************
+ * 
+ * COMPONENTS
+ *
+*******************************************************************************/
+
+.icon{
+    width:1.5em;
+    height:1.5em;
+    vertical-align:middle;
+    display:inline-block;
+
+    &::after{
+        content: ' ';
+        width: 100%;
+        height: 100%;
+        display: block;
+        mask-repeat: no-repeat;
+        mask-size: cover;
+        mask-position: center;
+        background-color:currentColor;
+    }
+
+    &.calendar::after{mask-image: var(--i-calendar)}
+    &.person::after{mask-image: var(--i-person)}
+    &.verified::after{mask-image: var(--i-verified)}
+}
+
+.price{
+    @include text-block-compact;
+
+    display: flex;
+    justify-content: space-between;
+    
+    output{
+        display: flex;
+        flex:2 0 auto;
+        align-items:baseline;
+
+        + output{
+            flex:0 0 8em;
+        }
+
+        @include only-phone{
+            &.no-mobile + output{
+                flex:2 0 auto
+            }
+        }
+
+        &:before{
+            content:'';
+            border-bottom: 1px dotted var(--c-border-page);
+            flex: 1 0 auto;
+            margin: 0 var(--s);
+        }
+    }
+}
+
+.pie-chart{
+    transform: rotate(-90deg);
+}
+.column-with-pie-chart{
+    display: grid;
+    grid-template-columns: var(--w-label-column) 1fr;
+    grid-gap: var(--m);
+    align-items: center;
+    margin-top: var(--m);
+
+    > .pie-chart{
+        display: block;
+        padding: var(--m);
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    details {
+        .pie-chart{
+            height: var(--w-mini-pie-chart);
+            margin:0 var(--m) 0 0;
+            display:inline-block;
+            vertical-align:middle;
+            color:var(--c-bg-widget);
+        }
+
+        p {
+            @include text-block-compact;
+            font-size: var(--f-s);
+            margin-left: calc(var(--w-mini-pie-chart) + var(--m));
+        }
+    }
+
+    @include only-phone{
+        grid-template-columns: 1fr;
     }
 }
 
