@@ -2,21 +2,22 @@
 @import './_breakpoints.scss';
 
 :root{
-    --f-s: 0.9rem;
-    --f-xs: 0.65rem;
-
     --line-height-m: 1.6;
     --line-height-s: 1.3;
 
-    --xxxl: 2.8rem;
-    --xxl: 2.2rem;
-    --xl: 1.8rem;
-    --l: 1.4rem;
+    --xxxl: 2.5rem;
+    --xxl: 2rem;
+    --xl: 1.5rem;
+    --l: 1.25rem;
     --m: 19px;
     --s: 0.3rem;
     --page-border: var(--xl);
     --page-border-mobile: var(--m);
 
+    --f-s: 0.85rem;
+    --f-xs: 0.65rem;
+
+    --s-checkbox: var(--l);
     --s-radius: 0.2rem;
     --s-img-bio: 75px;
 
@@ -28,12 +29,16 @@
     --c-text-heading: #000;
     --c-text-link: #00e;
     --c-text-link-visited: #61a;
+    --c-bg-input: #fff;
     --c-bg-website: #f9f9f9;
     --c-bg-page: #fff;
     --c-bg-widget: #f6f6f6;
     --c-border-page: #ddd;
+    --c-border-input: #ddd;
+    --c-border-input-focused: #777;
 
     --b-page: 1px solid var(--c-border-page);
+    --b-input: 1px solid var(--c-border-input);
 
     --i-expand: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M16,23.5a1.51,1.51,0,0,1-1.06-.44l-12-12A1.5,1.5,0,0,1,5.06,8.94L16,19.88,26.94,8.94a1.5,1.5,0,0,1,2.12,2.12l-12,12A1.51,1.51,0,0,1,16,23.5Z'/></g></svg>");
     --i-calendar: url("data:image/svg+xml;utf8,<svg width='700' height='700' viewBox='0 0 700 700' xmlns='http://www.w3.org/2000/svg'><path fill='black' d='m525 97.477h-43.75v-21.176c0-9.3789-5.0039-18.043-13.125-22.734-8.1211-4.6875-18.129-4.6875-26.25 0-8.1211 4.6914-13.125 13.355-13.125 22.734v21.176h-157.5v-21.176c0-9.3789-5.0039-18.043-13.125-22.734-8.1211-4.6875-18.129-4.6875-26.25 0-8.1211 4.6914-13.125 13.355-13.125 22.734v21.176h-43.75c-16.246 0-31.824 6.4531-43.309 17.938-11.488 11.488-17.941 27.066-17.941 43.312v289.97c0 16.246 6.4531 31.824 17.941 43.312 11.484 11.484 27.062 17.938 43.309 17.938h350c16.246 0 31.824-6.4531 43.309-17.938 11.488-11.488 17.941-27.066 17.941-43.312v-289.97c0-16.246-6.4531-31.824-17.941-43.312-11.484-11.484-27.062-17.938-43.309-17.938zm-350 52.5h43.75v3.8516-0.003906c0 9.3789 5.0039 18.043 13.125 22.734 8.1211 4.6875 18.129 4.6875 26.25 0 8.1211-4.6914 13.125-13.355 13.125-22.734v-3.8477h157.5v3.8516-0.003906c0 9.3789 5.0039 18.043 13.125 22.734 8.1211 4.6875 18.129 4.6875 26.25 0 8.1211-4.6914 13.125-13.355 13.125-22.734v-3.8477h43.75c2.3203 0 4.5469 0.92188 6.1875 2.5625 1.6406 1.6406 2.5625 3.8672 2.5625 6.1875v54.773h-367.5v-54.773c0-4.8359 3.918-8.75 8.75-8.75zm350 307.47h-350c-4.832 0-8.75-3.918-8.75-8.75v-182.7h367.5v182.7c0 2.3203-0.92188 4.5469-2.5625 6.1875s-3.8672 2.5625-6.1875 2.5625z'/></svg>");
@@ -77,13 +82,13 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 html{
     width: 100%;
     height: 100%;
+    font-size: var(--m);
 }
 
 body{
     @include text;
 
     background: var(--c-bg-website);
-    font-size: var(--m);
 
     display: grid;
     grid-gap: var(--m);
@@ -308,7 +313,6 @@ hr{
     border:none;
 }
 
-
 ul, ol{
     ul, ol {
         margin: var(--list-item) 0;
@@ -347,6 +351,15 @@ a {
     }
 }
 
+sup, sub{
+    font-size: var(--f-xs);
+    line-height: 0;
+    position: relative;
+    top: -0.6em;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
 .article-body{
     > * + h2{
         border-top: var(--b-page);
@@ -356,15 +369,6 @@ a {
 
     > h3{
         margin: var(--xxl) 0 var(--l);
-    }
-
-    sup, sub{
-        font-size: var(--f-xs);
-        line-height: 0;
-        position: relative;
-        top: -0.6em;
-        vertical-align: baseline;
-        white-space: nowrap;
     }
 
     .table-of-contents{
@@ -402,6 +406,90 @@ a {
 
 .hidden{
     display: none;
+}
+
+
+@mixin form-input{
+    @include text;
+    font-size: var(--m);
+
+    appearance: none;
+    border: var(--b-input);
+    border-radius: var(--s-radius);
+    background: var(--c-bg-input);
+    padding: var(--s) 10px;
+    margin: 0;
+    color: var(--c-text);
+
+    &:hover, &:focus, &:active{
+        border-color: var(--c-border-input-focused);
+        outline: none;
+    }
+}
+
+input, textarea, select{
+    @include form-input;
+
+    &[type=checkbox], &[type=radio]{
+        width: var(--s-checkbox);
+        height: var(--s-checkbox);
+        padding: 0;
+
+        position: relative;
+        display: inline-grid;
+        place-items: center;
+    }
+
+    &[type=checkbox]{
+        &:after{
+            content: '✓';
+            color: transparent;
+            line-height: 100%;
+        }
+
+        &:checked:after{
+            color:var(--c-text-header);
+        }
+    }
+
+    &[type=radio]{
+        border-radius:50%;
+
+        &:checked:after{
+            content: '';
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            display: block;
+            box-shadow: inset 0 0 100px var(--color-text);
+            border-radius: 100%;
+        }
+    }
+
+    &[type=number] {
+        -moz-appearance: textfield;
+    }
+
+    &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
+        -webkit-appearance:none;margin:0;
+    }
+
+    &.income-input{flex:0 1;min-width:calc(7ch);padding-right:10px;box-sizing:content-box;}
+    &.age-input{flex:0 1;min-width:calc(3ch);padding-right:10px;box-sizing:content-box;}
+    &.percent-input{flex:0 1;min-width:calc(3ch);min-width:70px;padding-right:10px;box-sizing:content-box;}
+}
+
+.input-instructions{
+    @include small;
+    display: block;
+    margin-top: var(--s);
+}
+
+.form-group{
+    display: grid;
+    grid-template-columns: 190px 1fr;
+    grid-gap: var(--m);
+    margin: var(--m) 0;
 }
 
 @media (prefers-reduced-motion: reduce) {
