@@ -88,7 +88,7 @@
         <hr>
         <details>
             <summary class="price">
-                Base cost <output><span v-html="eur(result.baseContribution.totalContribution)"></span><small>/month</small></output>
+                Base cost <output><span v-html="eur(result.baseContribution.totalContribution)"></span><small class="no-mobile">/month</small></output>
             </summary>
             <p v-html="baseContributionExplanation"></p>
         </details>
@@ -100,7 +100,7 @@
                 </output>
                 <output v-if="eur(result.options.cheapest.zusatzbeitrag.totalContribution) != eur(result.options.mostExpensive.zusatzbeitrag.totalContribution)">
                     <span>
-                        <span v-html="eur(result.options.cheapest.zusatzbeitrag.totalContribution, false, false)"></span> to <span v-html="eur(result.options.mostExpensive.zusatzbeitrag.totalContribution)"></span><small>/month</small>
+                        <span v-html="eur(result.options.cheapest.zusatzbeitrag.totalContribution, false, false)"></span> to <span v-html="eur(result.options.mostExpensive.zusatzbeitrag.totalContribution)"></span><small class="no-mobile">/month</small>
                     </span>
                 </output>
             </summary>
@@ -109,7 +109,7 @@
         <details>
             <summary class="price">
                 Nursing care insurance
-                <output><span v-html="eur(result.pflegeversicherung.totalContribution)"></span><small>/month</small></output>
+                <output><span v-html="eur(result.pflegeversicherung.totalContribution)"></span><small class="no-mobile">/month</small></output>
             </summary>
             <p v-html="pflegeversicherungExplanation"></p>
         </details>
@@ -118,11 +118,11 @@
                 Your employer pays
                 <output v-if="maxTotal.employerContribution === 0" v-html="eur(0)"></output>
                 <output v-if="maxTotal.employerContribution > 0 && eur(minTotal.employerContribution) === eur(maxTotal.employerContribution)">
-                    <span v-html="eur(maxTotal.employerContribution)"></span><small>/month</small>
+                    <span v-html="eur(maxTotal.employerContribution)"></span><small class="no-mobile">/month</small>
                 </output>
                 <output v-if="maxTotal.employerContribution > 0 && eur(minTotal.employerContribution) != eur(maxTotal.employerContribution)">
                     <span>
-                        <span v-html="eur(minTotal.employerContribution, false, false)"></span> to <span v-html="eur(maxTotal.employerContribution)"></span><small>/month</small>
+                        <span v-html="eur(minTotal.employerContribution, false, false)"></span> to <span v-html="eur(maxTotal.employerContribution)"></span><small class="no-mobile">/month</small>
                     </span>
                 </output>
             </summary>
@@ -137,10 +137,10 @@
                 </strong>
                 <output v-if="maxTotal === 0"><strong v-html="eur(0)"></strong></output>
                 <output v-if="eur(minTotal.personalContribution) === eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-                    <strong v-html="eur(maxTotal.personalContribution)"><small>/month</small></strong>
+                    <strong v-html="eur(maxTotal.personalContribution)"><small class="no-mobile">/month</small></strong>
                 </output>
                 <output v-if="eur(minTotal.personalContribution) != eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-                    <strong><span v-html="eur(minTotal.personalContribution, false, false)"></span> to <span v-html="eur(maxTotal.personalContribution)"></span><small>/month</small></strong>
+                    <strong><span v-html="eur(minTotal.personalContribution, false, false)"></span> to <span v-html="eur(maxTotal.personalContribution)"></span><small class="no-mobile">/month</small></strong>
                 </output>
             </summary>
             <p v-html="totalCostExplanation"></p>
@@ -188,8 +188,8 @@
                     <h3>Techniker Krankenkasse</h3>
                     <p>The largest health insurer in Germany. They have English-speaking support.</p>
                 </div>
-                <a target="_blank" v-if="result.tarif !== 'student'" title="Sign up with Techniker Krankenkasse" role="button" class="button" href="https://allaboutberlin.com/out/tk-calc"><output v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></output> <small>/ month</small></a>
-                <a target="_blank" v-if="result.tarif === 'student'" title="Sign up with Techniker Krankenkasse" role="button" class="button" href="https://allaboutberlin.com/out/tk-calc-students"><output v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></output> <small>/ month</small></a>
+                <a target="_blank" v-if="result.tarif !== 'student'" title="Sign up with Techniker Krankenkasse" role="button" class="button" href="https://allaboutberlin.com/out/tk-calc"><output v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
+                <a target="_blank" v-if="result.tarif === 'student'" title="Sign up with Techniker Krankenkasse" role="button" class="button" href="https://allaboutberlin.com/out/tk-calc-students"><output v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
             </div>
             <div>
                 <img title="BARMER" loading="lazy" alt="BARMER logo" src="/staticimages/health-insurance-calculator/logo-barmer.svg" width="312" height="71"/>
@@ -197,7 +197,7 @@
                     <h3>Barmer</h3>
                     <p>The second largest public health insurer. They have an English-speaking Expat Hub.</p>
                 </div>
-                <a target="_blank" title="Sign up with BARMER" role="button" class="button" href="https://allaboutberlin.com/out/barmer-calc"><output v-html="eur(result.options.barmer.total.personalContribution, false, true, false)"></output> <small>/ month</small></a>
+                <a target="_blank" title="Sign up with BARMER" role="button" class="button" href="https://allaboutberlin.com/out/barmer-calc"><output v-html="eur(result.options.barmer.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
             </div>
             <div>
                 <img title="AOK Nordost" loading="lazy" alt="AOK logo" src="/staticimages/health-insurance-calculator/logo-aok.svg" width="1024" height="505"/>
@@ -205,7 +205,7 @@
                     <h3>AOK (Nordost)</h3>
                     <p>Another large public health insurer. There are different AOK branches for each part of Germany.</p>
                 </div>
-                <a target="_blank" title="Sign up with AOK" role="button" class="button" href="https://allaboutberlin.com/out/aok-calc"><output v-html="eur(result.options.aok.total.personalContribution, false, true, false)"></output> <small>/ month</small></a>
+                <a target="_blank" title="Sign up with AOK" role="button" class="button" href="https://allaboutberlin.com/out/aok-calc"><output v-html="eur(result.options.aok.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
             </div>
         </div>
         <div v-if="result.flags.has('private')">
