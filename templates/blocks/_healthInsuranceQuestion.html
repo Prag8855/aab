@@ -1,12 +1,10 @@
 {% set id = random_id() %}
-<aside class="health-insurance-question collapsible collapsed" aria-label="Ask a health insurance broker" ref="collapsible">
+<details class="health-insurance-question collapsible" aria-label="Ask a health insurance broker" ref="collapsible">
   {% if not static|default %}
-    <div class="header">
-      <h2>
-        <span class="no-mobile">Ask a health insurance broker</span>
-        <span class="no-desktop" aria-hidden="true">Ask a broker</span>
-      </h2>
-    </div>
+    <summary>
+      <span class="no-mobile">Ask a health insurance broker</span>
+      <span class="no-desktop" aria-hidden="true">Ask a broker</span>
+    </summary>
   {% endif %}
   {% raw %}
     <div class="body form">
@@ -88,7 +86,7 @@
       </div>
     </div>
   {% endraw %}
-</aside>
+</details>
 {% include '/js/utils.js' %}
 {% include '/js/vue.js' %}
 {% include '/js/date-picker.js' %}
