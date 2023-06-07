@@ -42,7 +42,7 @@
 </head>
 <body class="{{ body_class|default('') }}">
 {% block body %}
-	<header id="main-nav" class="fixed-width" role="banner" aria-label="Main menu">
+	<header id="main-nav" role="banner" aria-label="Main menu">
 		<a class="logo" href="{{ site_url }}" rel="home" title="All About Berlin">
 			All About Berlin
 		</a>
@@ -58,13 +58,13 @@
 	{% block main %}
 		<main aria-label="Main page">
 			{% block precontent %}{% endblock %}
-			<article class="section fixed-width">
+			<article class="section">
 				{% block content %}{% endblock %}
 			</article>
 			{% block postcontent %}{% endblock %}
 		</main>
 	{% endblock %}
-	<footer class="section fixed-width transparent centred" aria-label="Bottom menu">
+	<footer class="section transparent centred" aria-label="Bottom menu">
 		© {{ now.strftime('%Y') }} • 
 		<a href="{{ site_url }}/contact" rel="nofollow">Contact me</a> • 
 		<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 

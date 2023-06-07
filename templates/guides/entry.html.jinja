@@ -16,7 +16,7 @@
 {% block main %}
 	<main aria-label="Main page">
 		{% block precontent %}{% endblock %}
-		<article class="section fixed-width">
+		<article class="section ">
 			<h1>{{ entry.title }}</h1>
 			{% include "blocks/_postMeta.html" %}
 			{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
@@ -29,13 +29,13 @@
 		{% with pageType='guide' %}
 			{% include "blocks/_donationPrompt.html" %}
 		{% endwith %}
-		<aside class="section fixed-width footer-notice" aria-label="Affiliate links notice">
+		<aside class="section footer-notice" aria-label="Affiliate links notice">
 			<p>
 				<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
 			</p>
 		</aside>
 		{% if related_collections %}
-			<aside id="related" class="section fixed-width" aria-label="Collections that include this guide">
+			<aside id="related" class="section " aria-label="Collections that include this guide">
 				<h2>Related guides</h2>
 				{% with collections=related_collections, currentEntry=entry %}
 					{% include "blocks/_collections.html" %}

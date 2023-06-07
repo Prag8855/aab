@@ -23,19 +23,19 @@
     {% with pageType='tool' %}
         {% include "blocks/_donationPrompt.html" %}
     {% endwith %}
-    <aside class="section fixed-width footer-notice">
+    <aside class="section footer-notice">
         <p>
             <strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
         </p>
     </aside>
 
     {% if related_guides|length %}
-        <aside class="section fixed-width related" id="related">
+        <aside class="section related" id="related">
             <h2>Related guides</h2>
             {% for entry in related_guides.all() %}
                 {% include "blocks/_guidePreview.html" %}
             {% endfor %}
-            <nav class="fixed-width pagination">
+            <nav class="pagination">
                 <a class="more" rel="index" href="{{ url('guides') }}">See all guides ▸</a>
             </nav>
         </aside>

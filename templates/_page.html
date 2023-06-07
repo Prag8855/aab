@@ -4,10 +4,10 @@
 
 {% block main %}
     <main aria-label="Main page">
-        <header class="section transparent fixed-width intro centred">
+        <header class="section transparent intro centred">
             <h1>{{ entry.title }}</h1>
         </header>
-        <article class="section fixed-width article-body">
+        <article class="section article-body">
             {{ entry.body|render|safe }}
         </article>
     </main>
