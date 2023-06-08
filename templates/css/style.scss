@@ -70,6 +70,9 @@
     --b-box-hover: 1px solid var(--c-border-box);
     --b-input: 1px solid var(--c-border-input);
 
+    // Shadow
+    --shadow-l: 0 var(--m) var(--xxl) #0002;
+
     // Icons
     --i-close: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M29.06,26.94a1.49,1.49,0,0,1,0,2.12,1.5,1.5,0,0,1-2.12,0L16,18.12,5.06,29.06a1.5,1.5,0,0,1-2.12,0,1.49,1.49,0,0,1,0-2.12L13.88,16,2.94,5.06A1.5,1.5,0,0,1,5.06,2.94L16,13.88,26.94,2.94a1.5,1.5,0,0,1,2.12,2.12L18.12,16Z'/></g></svg>");
     --i-expand: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M16,23.5a1.51,1.51,0,0,1-1.06-.44l-12-12A1.5,1.5,0,0,1,5.06,8.94L16,19.88,26.94,8.94a1.5,1.5,0,0,1,2.12,2.12l-12,12A1.51,1.51,0,0,1,16,23.5Z'/></g></svg>");
@@ -159,6 +162,9 @@
     line-height: var(--line-height-heading);
     color: var(--c-text-heading);
     letter-spacing: -0.01em;
+
+    // Break long words
+    overflow: hidden;
 }
 
 @mixin text{
@@ -420,6 +426,7 @@ main{
 #tooltip{
     &[open]{
         @include box-l;
+        border: none;
         max-width: calc(min(var(--w-main-column), calc(100% - 2 * var(--w-page-border))));
         margin: var(--w-page-border) auto;
         box-sizing: border-box;
@@ -428,10 +435,13 @@ main{
         align-items: center;
         grid-template-columns: 1fr auto;
         grid-gap: var(--xl) var(--m);
+
+        box-shadow: var(--shadow-l);
     }
 
     &::backdrop{
-        backdrop-filter: blur(3px) brightness(0.9);
+        backdrop-filter: blur(3px) contrast(0.9) brightness(0.9) grayscale(0.2);
+        background: transparent;
     }
 
     h2 small {
