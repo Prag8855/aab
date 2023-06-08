@@ -52,11 +52,12 @@
     --c-bg-widget: #00000009;
     --c-bg-image: var(--c-bg-widget);
     --c-border-box: #0002;
-    --c-border-input: #0004;
-    --c-border-input-focused: #0008;
+    --c-border-input: #0005;
+    --c-border-input-focused: #000a;
 
-    --c-border-clickable: #0002;
-    --c-border-clickable-hover: #0004;
+    --c-border-clickable: #0004;
+    --c-border-clickable-hover: var(--c-border-input);
+
     --c-bg-clickable: transparent;
     --c-bg-clickable-hover: #fff1;
 
@@ -159,6 +160,19 @@
     color: var(--c-text);
 }
 
+@mixin text-hint{
+    color:inherit!important;
+    border-bottom:2px dotted var(--c-border-clickable);
+    text-decoration:none!important;
+    line-height:calc(inherit - 2px);
+
+    &:hover{
+        border-color:var(--c-border-clickable-hover);
+        cursor:help;
+        border-bottom-color:var(--color-border-02);
+    }
+}
+
 @mixin text-block{
     margin: var(--m-relative) 0;
 }
@@ -167,7 +181,7 @@
     margin: var(--s-relative) 0;
 }
 
-@mixin bold{
+@mixin text-bold{
     font-weight: 600;
     color: var(--c-text-heading);
 }
@@ -419,7 +433,7 @@ p, pre, blockquote, ul, ol {
     @include text-block;
 }
 
-strong, b{@include bold;}
+strong, b{@include text-bold;}
 em, i{font-style:italic}
 small{font-size: var(--f-s);}
 
@@ -455,6 +469,10 @@ sup, sub{
 
     > h3{
         margin: var(--xxl) 0 var(--l);
+    }
+
+    a[href*="/glossary/"]{
+        @include text-hint;
     }
 
     .table-of-contents{
@@ -710,7 +728,7 @@ select{
         grid-template-columns: 1fr;
 
         > label, > .label{
-            @include bold;
+            @include text-bold;
         }
     }
 
@@ -754,8 +772,8 @@ details{
 
     > summary {
         padding: var(--m) var(--w-page-border);
-        font-weight: bold;
 
+        @include text-bold;
         @include expansible;
     }
 
