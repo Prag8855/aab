@@ -683,10 +683,22 @@ input:not([type=range]), textarea, select, .toggle{
     }
 }
 
-.checkbox{
+label.checkbox{
     display: flex;
     input + *{
         margin-left: var(--s);
+    }
+}
+
+li.checkbox{
+    position:relative;
+    margin-left:var(--w-checkbox);
+    padding-left:calc(var(--s));
+
+    > input[type=checkbox]:first-child{
+        position:absolute;
+        left:calc(var(--w-checkbox) * -1);
+        top: 0.15rem;
     }
 }
 
