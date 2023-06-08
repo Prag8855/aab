@@ -102,6 +102,23 @@
     }
 }
 
+@mixin expansible{
+    &:after{
+        content: ' ';
+        width: 1em;
+        height: calc(var(--line-height-text) * 1em);
+        display: block;
+        float: right;
+        background: var(--i-expand) no-repeat center right;
+        margin-left: var(--s);
+    }
+}
+@mixin collapsible{
+    &:after{
+        transform: scaleY(-1);
+    }
+}
+
 @mixin widget{
     @include box;
     background: var(--c-bg-widget);
@@ -260,6 +277,15 @@ main{
             }
         }
 
+        .post-reviewers a{
+            display: inline-block;
+            @include expansible;
+
+            &.expanded{
+                @include collapsible;
+            }
+        }
+
         #reviewers{
             @include widget;
             margin-top: var(--m);
@@ -314,60 +340,6 @@ main{
     img, svg{
         max-width:100%;
         height: auto;
-    }
-
-    details{
-        summary{
-            cursor: pointer;
-            list-style: none;
-
-            &:after{
-                content:'';
-                width:1rem;
-                height:1rem;
-                background: var(--i-expand) no-repeat center right;
-                margin: 0 0 0 var(--s);
-                align-self: center;
-            }
-        }
-
-        &[open] > summary:after{
-            transform: scaleY(-1);
-        }
-
-        &.collapsible{
-            @include widget;
-
-            > summary {
-                padding: var(--m) var(--w-page-border);
-                font-weight: bold;
-
-                &:after{
-                    content: ' ';
-                    width: 1.5rem;
-                    height: calc(var(--line-height-text) * var(--m));
-                    display: block;
-                    float: right;
-                    background: var(--i-expand) no-repeat center right;
-                }
-            }
-
-            &:not([open]){
-                @include box-hoverable;
-                padding: 0;
-            }
-
-            &[open]{
-                > summary {
-                    width: 100%;
-                    margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
-                    border-bottom: var(--b-page);
-                    &:after{
-                        transform: scaleY(-1);
-                    }
-                }
-            }
-        }
     }
 }
 
@@ -703,6 +675,53 @@ select{
  *
 *******************************************************************************/
 
+details{
+    summary{
+        cursor: pointer;
+        list-style: none;
+
+        @include expansible;
+    }
+
+    p {
+        @include text-block-compact;
+        font-size: var(--f-s);
+    }
+
+    &[open] {
+        margin-bottom: var(--xl);
+
+        > summary {
+            @include collapsible;
+        }
+    }
+}
+
+.collapsible{
+    @include widget;
+
+    > summary {
+        padding: var(--m) var(--w-page-border);
+        font-weight: bold;
+
+        @include expansible;
+    }
+
+    &[open]{
+        > summary {
+            width: 100%;
+            margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
+            border-bottom: var(--b-page);
+            @include collapsible;
+        }
+    }
+
+    &:not([open]){
+        @include box-hoverable;
+        padding: 0;
+    }
+}
+
 .icon{
     width:1.5em;
     height:1.5em;
@@ -782,9 +801,7 @@ select{
         }
 
         p {
-            @include text-block-compact;
-            font-size: var(--f-s);
-            margin-left: calc(var(--w-mini-pie-chart) + var(--m));
+            margin-left: calc(var(--w-mini-pie-chart) + var(--m)) !important;
         }
     }
 

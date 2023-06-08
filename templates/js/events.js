@@ -26,11 +26,9 @@ window.addEventListener("DOMContentLoaded", function() {
 
   /* Reviewers */
   document.querySelectorAll('.post-reviewers a').forEach(link => {
-    link.classList.add('reviewers-collapsed');
     link.addEventListener('click', (e) => {
       e.preventDefault();
-      link.classList.toggle('reviewers-collapsed');
-      link.classList.toggle('reviewers-expanded');
+      link.classList.toggle('expanded');
       document.getElementById('reviewers').classList.toggle('hidden');
     });
   });
