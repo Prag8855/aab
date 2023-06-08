@@ -40,6 +40,7 @@
     --w-main-column: 860px;
     --w-mini-pie-chart: var(--l);
     --w-page-border: var(--xl);
+    --w-sidebar: calc(1280px - var(--w-main-column));
 
     // Colours
     --c-highlight: #da513d;
@@ -215,7 +216,7 @@ body{
     display: grid;
     grid-gap: var(--m) 0;
     grid-template-areas: ". header header ." ". sidebar main ." ". footer footer .";
-    grid-template-columns: 1fr 420px var(--w-main-column) 1fr;
+    grid-template-columns: 1fr auto var(--w-main-column) 1fr;
     grid-template-rows: var(--h-header) auto;
 
     scroll-behavior:smooth;
@@ -226,7 +227,7 @@ body{
     }
 }
 
-header {
+body > header {
     @include page-borders;
     padding-top: 0;
     padding-bottom: 0;
@@ -291,6 +292,9 @@ header {
 
 .sidebar{
     grid-area: sidebar;
+    width: 100%;
+    box-sizing: border-box;
+
     @include page-borders;
 
     @include not-desktop{
@@ -309,7 +313,20 @@ main{
         border-radius: var(--b-radius);
         @include page-borders;
 
-        &.transparent{background:transparent;}
+        &.transparent{
+            background:transparent;
+            padding-top: calc(var(--xl) - var(--m)); // Default padding - grid gap
+            padding-bottom: calc(var(--xl) - var(--m));
+        }
+
+        &.intro{
+            margin: 0;
+            text-align: center;
+
+            h1{
+                margin:0
+            }
+        }
 
         @include only-phone{
             border-radius: 0;
@@ -399,7 +416,9 @@ main{
     }
 
     @include only-phone{
-        margin-top: calc(var(--m) * -1);
+        > :first-child{
+            margin-top: calc(var(--m) * -1);
+        }
     }
 }
 
