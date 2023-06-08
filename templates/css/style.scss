@@ -200,6 +200,11 @@ html, body{
     height: 100%;
 
     @include text;
+
+    @include only-phone{
+        text-size-adjust: none;
+        word-wrap: break-word;
+    }
 }
 
 body{
@@ -293,6 +298,7 @@ main{
     grid-gap: var(--m);
 
     .section{
+        overflow:hidden; // Makes text-overflow: break-word work.
         background: var(--c-bg-page);
         border-radius: var(--b-radius);
         @include page-borders;
