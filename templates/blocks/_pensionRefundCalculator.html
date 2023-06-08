@@ -150,15 +150,13 @@
             <p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
             <div class="form-group">
                 <span class="label">Choose a helper</span>
-                <div class="checkbox-group">
-                    <label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
-                        <input type="radio" name="partner-{% endraw %}{{ id }}{% raw %}" :value="partner" v-model="selectedPartner"/>
-                        <div>
-                            {{ partner.name }}
-                            <br><small>{{ partner.description }}</small>
-                        </div>
-                    </label>
-                </div>
+                <label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
+                    <input type="radio" name="partner-{% endraw %}{{ id }}{% raw %}" :value="partner" v-model="selectedPartner"/>
+                    <div>
+                        {{ partner.name }}
+                        <br><small>{{ partner.description }}</small>
+                    </div>
+                </label>
             </div>
             <hr>
             <div v-if="selectedPartner.name === 'Do it yourself'">

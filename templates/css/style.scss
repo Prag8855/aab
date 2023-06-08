@@ -16,11 +16,11 @@
     --xxl: 2rem;
     --xl: 1.5rem;
     --l: 1.25rem;
-    --m: 19px;
+    --m: 19px; // Separate but related elements
         --m-relative: 1.25em; // Text blocks
-    --s: 0.5rem;
+    --s: 0.5rem; // Space between parts of a component, list items
         --s-relative: 0.5em; // Compact text blocks
-    --xs: 0.3rem;
+    --xs: 0.3rem; // Space between two characters
 
     // Typography sizes
     --f-s: 0.85rem;
@@ -500,6 +500,7 @@ input:not([type=range]), textarea, select, .toggle{
     @include form-input;
 
     &[type=checkbox], &[type=radio]{
+        align-self: center;
         width: var(--w-checkbox);
         height: var(--w-checkbox);
         padding: 0;
@@ -542,6 +543,13 @@ input:not([type=range]), textarea, select, .toggle{
 
     &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
         -webkit-appearance:none;margin:0;
+    }
+}
+
+.checkbox{
+    display: flex;
+    input + *{
+        margin-left: var(--s);
     }
 }
 
@@ -591,7 +599,7 @@ input[type=range] {
     display: flex;
 
     padding: var(--m) 0;
-    margin-top: calc(var(--m) * -1);
+    margin-top: calc(var(--xl) * -1);
     border-bottom: var(--b-input);
 
     position:sticky;
@@ -655,6 +663,7 @@ input[type=range] {
 select{
     background: var(--c-bg-input) var(--i-expand) no-repeat center right var(--xs);
     background-size: 1rem;
+    padding-right: var(--xl);
 }
 
 .button{
@@ -666,7 +675,7 @@ select{
 .form-group{
     display: grid;
     grid-template-columns: var(--w-label-column) 1fr;
-    grid-gap: var(--m);
+    grid-gap: var(--s) var(--m);
     margin: var(--m) 0;
 
     .input-group {
@@ -677,8 +686,23 @@ select{
 
         > * + * {
             flex: 0 1 auto;
-            margin-left: var(--xs);
+            margin-left: var(--s);
         }
+
+        &.vertical{
+            display: grid;
+            grid-gap:var(--s);
+        }
+
+        .checkbox + .checkbox{margin-left:var(--l)}
+    }
+
+    > label:first-child, > .label:first-child{
+        grid-column-start: 1;
+    }
+
+    * {
+        grid-column-start: 2;
     }
 
     @include only-phone{
@@ -692,8 +716,8 @@ select{
 
     .input-instructions{
         font-size: var(--f-s);
-        display: block;
-        margin-top: var(--xs);
+        flex: 1 0 100%;
+        margin: var(--xs) 0 0;
     }
 }
 
@@ -800,6 +824,10 @@ details{
             margin: 0 var(--xs);
         }
     }
+
+    @include only-phone{
+        font-size: var(--f-s);
+    }
 }
 
 .pie-chart{
@@ -814,8 +842,10 @@ details{
 
     > .pie-chart{
         display: block;
+        margin: 0 auto;
         padding: var(--m);
-        max-width: 100%;
+        width: 100%;
+        max-width: 250px;
         box-sizing: border-box;
     }
 
