@@ -216,6 +216,7 @@ body{
     grid-gap: var(--m) 0;
     grid-template-areas: ". header header ." ". sidebar main ." ". footer footer .";
     grid-template-columns: 1fr 420px var(--w-main-column) 1fr;
+    grid-template-rows: var(--h-header) auto;
 
     scroll-behavior:smooth;
 
@@ -270,7 +271,8 @@ header {
         font-family: var(--font-family-header);
         letter-spacing:-0.03em;
 
-        @include only-phone{
+        @include full-width-site{
+            display:hidden;
             color: transparent;
             overflow: hidden;
             width: var(--w-logo);
@@ -280,6 +282,10 @@ header {
 
     .search-form{
         display:none;
+    }
+
+    @include only-phone{
+        border-radius: 0;
     }
 }
 
@@ -304,6 +310,10 @@ main{
         @include page-borders;
 
         &.transparent{background:transparent;}
+
+        @include only-phone{
+            border-radius: 0;
+        }
     }
 
     .post-meta {
@@ -387,6 +397,10 @@ main{
         max-width:100%;
         height: auto;
     }
+
+    @include only-phone{
+        margin-top: calc(var(--m) * -1);
+    }
 }
 
 #tooltip{
@@ -437,7 +451,7 @@ footer{
     grid-area: footer;
     text-align: center;
     font-size: var(--f-s);
-    padding-bottom:var(--m);
+    padding:0 var(--w-page-border) var(--m);
 }
 
 h1{

@@ -19,6 +19,12 @@ $width-tablet: 600px;
     }
 }
 
+@mixin full-width-site {
+    @media screen and (max-width: 860px) {
+        @content;
+    }
+}
+
 @mixin only-phone {
     @media screen and (max-width: #{$width-tablet - 1px}) {
         @content;
