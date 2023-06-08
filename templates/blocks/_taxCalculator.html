@@ -147,7 +147,7 @@
         </div>
         <div class="form-group" v-show="healthInsuranceType === 'public-custom'">
             <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
-                <a href="https://allaboutberlin.com/glossary/Zusatzbeitrag" target="_blank">Health insurer surcharge</a>
+                <a href="https://allaboutberlin.com/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
             </label>
             <div class="input-group">
                 <input class="percent-input"
@@ -202,50 +202,48 @@
             <span class="label">
                 <a href="https://allaboutberlin.com/glossary/Steuerklasse" target="_blank">Tax class</a>
             </span>
-            <div class="checkbox-group">
-                <label class="checkbox" v-if="availableTaxClasses.includes(1)">
-                    <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="1">
-                    <div>
-                        Tax class 1
-                        <br><small>If you are not married</small>
-                    </div>
-                </label>
-                <label class="checkbox" v-if="availableTaxClasses.includes(2)">
-                    <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="2">
-                    <div>
-                        Tax class 2
-                        <br><small>If you raise children alone</small>
-                    </div>
-                </label>
-                <label class="checkbox" v-if="availableTaxClasses.includes(3)">
-                    <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="3">
-                    <div>
-                        Tax class 3
-                        <br><small>If you earn more than your spouse</small>
-                    </div>
-                </label>
-                <label class="checkbox" v-if="availableTaxClasses.includes(4)">
-                    <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="4">
-                    <div>
-                        Tax class 4
-                        <br><small>If you earn around the same as your spouse</small>
-                    </div>
-                </label>
-                <label class="checkbox" v-if="availableTaxClasses.includes(5)">
-                    <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="5">
-                    <div>
-                        Tax class 5
-                        <br><small>If you earn less than your spouse</small>
-                    </div>
-                </label>
-                <label class="checkbox" v-if="availableTaxClasses.includes(6)">
-                    <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="6">
-                    <div>
-                        Tax class 6
-                        <br><small>If you calculate taxes for a second job</small>
-                    </div>
-                </label>
-            </div>
+            <label class="checkbox" v-if="availableTaxClasses.includes(1)">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="1">
+                <div>
+                    Tax class 1
+                    <br><small>If you are not married</small>
+                </div>
+            </label>
+            <label class="checkbox" v-if="availableTaxClasses.includes(2)">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="2">
+                <div>
+                    Tax class 2
+                    <br><small>If you raise children alone</small>
+                </div>
+            </label>
+            <label class="checkbox" v-if="availableTaxClasses.includes(3)">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="3">
+                <div>
+                    Tax class 3
+                    <br><small>If you earn more than your spouse</small>
+                </div>
+            </label>
+            <label class="checkbox" v-if="availableTaxClasses.includes(4)">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="4">
+                <div>
+                    Tax class 4
+                    <br><small>If you earn around the same as your spouse</small>
+                </div>
+            </label>
+            <label class="checkbox" v-if="availableTaxClasses.includes(5)">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="5">
+                <div>
+                    Tax class 5
+                    <br><small>If you earn less than your spouse</small>
+                </div>
+            </label>
+            <label class="checkbox" v-if="availableTaxClasses.includes(6)">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="6">
+                <div>
+                    Tax class 6
+                    <br><small>If you calculate taxes for a second job</small>
+                </div>
+            </label>
         </div>
         <hr>
     </div>
