@@ -410,11 +410,6 @@ main{
         }
     }
 
-    img, svg{
-        max-width:100%;
-        height: auto;
-    }
-
     @include only-phone{
         > :first-child{
             margin-top: calc(var(--m) * -1);
@@ -530,6 +525,11 @@ a {
     color: var(--c-text-link);
     text-decoration: none;
 
+    &:hover img{
+        border-color: var(--c-border-clickable-hover)!important;
+        outline: 1px solid var(--c-border-clickable-hover);
+    }
+
     &:visited{
         color: var(--c-text-link-visited);
     }
@@ -561,6 +561,35 @@ sup, sub{
 
     a[href*="/glossary/"]{
         @include text-hint;
+    }
+
+    img{
+        @include box;
+        background: var(--c-bg-widget);
+        color: var(--color-text-light)!important;
+        font-size:var(--f-s);
+
+        &[src*="/illustrations/"]{
+            border-color: transparent;
+            background-color:transparent;
+        }
+    }
+
+    figure, picture, img{
+        @include text-block;
+        display:block;
+        max-width:100%;
+        height: auto;
+    }
+    figure{
+        picture, img{
+            margin:0 auto;
+        }
+    }
+    figcaption{
+        font-size: var(--f-s);
+        text-align: center;
+        margin-top:var(--xs);
     }
 
     .table-of-contents{
