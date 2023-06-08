@@ -377,6 +377,10 @@ hr{
 ul, ol{
     @include text-block;
 
+    ul, ol {
+        @include text-block-compact;
+    }
+
     li {
         @include text-block-compact;
 
