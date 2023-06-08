@@ -31,7 +31,7 @@ $width-tablet: 600px;
     }
 }
 
-@mixin print {
+@mixin only-print {
     @media print{
         @content;
     }
@@ -45,6 +45,12 @@ $width-tablet: 600px;
 
 @include not-phone {
     .only-mobile{
+        display: none!important;
+    }
+}
+
+@include only-print {
+    .no-print{
         display: none!important;
     }
 }
