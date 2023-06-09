@@ -18,7 +18,7 @@
         --xl-relative: 1.5em; // Text blocks
     --l: 1.25rem;
         --l-relative: 1.25em; // Text blocks
-    --m: 19px; // Separate but related elements
+    --m: 17px; // Separate but related elements
     --s: 0.5rem; // Space between parts of a component, list items
         --s-relative: 0.5em; // Compact text blocks
     --xs: 0.3rem; // Space between two characters
@@ -27,14 +27,16 @@
     --f-s: 0.85rem;
     --line-height-text: 1.6;
     --line-height-heading: 1.3;
+    --line-height-label: 1.3;
 
     // Specific element sizes
     --b-radius: var(--xs);
     --f-footnote: 0.65rem;
     --h-header: var(--xxxl);
+    --h-icon-l: 3.5rem;
     --w-checkbox: var(--l);
     --w-img-bio-s: 75px;
-    --w-icon: var(--xl-relative);
+    --w-icon-s: var(--xl-relative);
     --w-label-column: 10rem;
     --w-logo: 21px;
     --w-main-column: 860px;
@@ -59,8 +61,11 @@
     --c-border-input: #0005;
     --c-border-input-focused: #000a;
 
-    --c-border-clickable: #0004;
-    --c-border-clickable-hover: var(--c-border-input);
+    --c-border-clickable: var(--c-border-box);
+    --c-border-clickable-hover: var(--c-highlight);
+
+    --c-border-hint: #0004;
+    --c-border-hint-hover: #0005;
 
     --c-bg-clickable: transparent;
     --c-bg-clickable-hover: #fff1;
@@ -72,6 +77,7 @@
 
     // Shadow
     --shadow-l: 0 var(--m) var(--xxl) #0002;
+    --shadow-s: 0 var(--xs) var(--s) calc(var(--xs) * -1) #0001;
 
     // Icons
     --i-close: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M29.06,26.94a1.49,1.49,0,0,1,0,2.12,1.5,1.5,0,0,1-2.12,0L16,18.12,5.06,29.06a1.5,1.5,0,0,1-2.12,0,1.49,1.49,0,0,1,0-2.12L13.88,16,2.94,5.06A1.5,1.5,0,0,1,5.06,2.94L16,13.88,26.94,2.94a1.5,1.5,0,0,1,2.12,2.12L18.12,16Z'/></g></svg>");
@@ -82,10 +88,15 @@
     --i-verified: url("data:image/svg+xml;utf8,<svg width='700' height='700' viewBox='0 0 700 700' xmlns='http://www.w3.org/2000/svg'><path d='m438.55 214.73c4.957 4.8984 7.75 11.578 7.75 18.547 0 6.9727-2.793 13.652-7.75 18.551l-93.273 93.449h-0.003906c-4.9375 4.8945-11.598 7.6562-18.547 7.7031-6.9609-0.007812-13.633-2.7773-18.551-7.7031l-46.727-46.727v0.003906c-6.2422-6.6992-8.543-16.172-6.0664-24.988 2.4727-8.8164 9.3633-15.707 18.18-18.18 8.8164-2.4766 18.289-0.17578 24.988 6.0664l28.176 28.176 74.727-74.898h-0.003906c4.9453-4.875 11.609-7.6055 18.551-7.6055s13.605 2.7305 18.551 7.6055zm147 269.5c2.0234 8.7734-0.625 17.969-7 24.324-4.9414 4.8906-11.598 7.6562-18.551 7.6992-1.918 0.25781-3.8594 0.25781-5.7734 0l-102.02-22.574h-0.003906c-50.277 24.129-107.47 29.691-161.46 15.707-53.988-13.984-101.29-46.613-133.53-92.121-32.242-45.504-47.344-100.95-42.641-156.52 4.707-55.57 28.922-107.68 68.355-147.12 39.434-39.434 91.547-63.648 147.12-68.352 55.57-4.707 111.01 10.395 156.52 42.637 45.504 32.242 78.137 79.539 92.121 133.53 13.984 53.988 8.4219 111.18-15.707 161.46zm-73.5-117.77v-0.003906c20.773-38.898 26.879-83.965 17.203-126.99-9.6719-43.023-34.484-81.141-69.906-107.4-35.426-26.262-79.109-38.922-123.09-35.676-43.977 3.25-85.324 22.191-116.51 53.371-31.18 31.184-50.121 72.531-53.371 116.51-3.2461 43.977 9.4141 87.66 35.676 123.09 26.262 35.422 64.379 60.234 107.4 69.906 43.023 9.6758 88.09 3.5703 126.99-17.203 5.3906-2.7734 11.559-3.6367 17.5-2.4492l71.051 15.398-15.398-70c-1.3516-6.2812-0.48437-12.836 2.4492-18.551z'/></svg>");
 }
 
+@include only-desktop{
+    :root{
+        --m: 19px;
+    }
+}
+
 @include only-phone{
     :root{
         --w-page-border: var(--m);
-        --m: 17px;
     }
 }
 
@@ -112,22 +123,32 @@
     @include page-borders;
     margin: var(--l) 0;
 }
+@mixin box-m{
+    // Large buttons
+    @include box;
+    padding: var(--m) var(--m);
+    background: transparent;
+    cursor: pointer;
+}
 @mixin box-s{
     // Buttons
     @include box;
     padding: var(--xs) var(--m);
-    border-radius: var(--b-radius);
     background: transparent;
-    cursor: pointer;
 }
 
 @mixin box-clickable{
     appearance: none;
     border-color:var(--c-border-clickable);
+    color: var(--c-text-heading);
+    box-shadow: var(--shadow-s);
+
     &:hover{
+        color: var(--c-text-heading);
         border-color:var(--c-border-clickable-hover);
         outline:1px solid var(--c-border-clickable-hover);
         text-decoration: none;
+        cursor: pointer;
     }
 }
 
@@ -153,6 +174,7 @@
 @mixin widget{
     @include box-l;
     background: var(--c-bg-widget);
+    box-shadow: var(--shadow-l);
 }
 
 // Text
@@ -174,14 +196,13 @@
 
 @mixin text-hint{
     color:inherit!important;
-    border-bottom:2px dotted var(--c-border-clickable);
+    border-bottom:2px dotted var(--c-border-hint);
     text-decoration:none!important;
     line-height:calc(inherit - 2px);
 
     &:hover{
-        border-color:var(--c-border-clickable-hover);
+        border-color:var(--c-border-hint-hover);
         cursor:help;
-        border-bottom-color:var(--color-border-02);
     }
 }
 
@@ -198,7 +219,11 @@
     color: var(--c-text-heading);
 }
 
-::selection{background:var(--c-text-selection)}
+/*******************************************************************************
+ * 
+ * PAGE LAYOUT
+ *
+*******************************************************************************/
 
 html, body{
     margin: 0;
@@ -321,7 +346,6 @@ main{
         @include page-borders;
 
         &.transparent{
-            background:transparent;
             padding-top: calc(var(--xl) - var(--m)); // Default padding - grid gap
             padding-bottom: calc(var(--xl) - var(--m));
         }
@@ -329,9 +353,14 @@ main{
         &.intro{
             margin: 0;
             text-align: center;
+            background:transparent;
 
             h1{
                 margin:0
+            }
+
+            p{
+                margin: var(--s-relative) 0 0;
             }
         }
 
@@ -480,6 +509,14 @@ footer{
     padding:0 var(--w-page-border) var(--m);
 }
 
+/*******************************************************************************
+ * 
+ * STANDARD ELEMENTS
+ *
+*******************************************************************************/
+
+::selection{background:var(--c-text-selection)}
+
 h1{
     @include heading;
     font-size: var(--xxl);
@@ -528,7 +565,9 @@ p, pre, blockquote, ul, ol {
     @include text-block;
 }
 
-strong, b{@include text-bold;}
+strong, b{
+    @include text-bold;
+}
 em, i{font-style:italic}
 small{font-size: var(--f-s);}
 
@@ -536,6 +575,8 @@ a {
     cursor: pointer;
     color: var(--c-text-link);
     text-decoration: none;
+
+    strong, b{color: inherit;}
 
     &:hover img{
         border-color: var(--c-border-clickable-hover)!important;
@@ -695,6 +736,12 @@ input:not([type=range]), textarea, select, .toggle{
     }
 }
 
+select{
+    background: var(--c-bg-input) var(--i-expand) no-repeat center right var(--xs);
+    background-size: 1rem;
+    padding-right: var(--xl);
+}
+
 label.checkbox{
     display: flex;
     input + *{
@@ -821,12 +868,6 @@ input[type=range] {
     .hide-options:after{content:'▲';font-size:10px;vertical-align:center;}
 }
 
-select{
-    background: var(--c-bg-input) var(--i-expand) no-repeat center right var(--xs);
-    background-size: 1rem;
-    padding-right: var(--xl);
-}
-
 .button{
     @include text;
     @include box-s;
@@ -940,8 +981,8 @@ details{
 }
 
 .icon{
-    width: var(--w-icon);
-    height: var(--w-icon);
+    width: var(--w-icon-s);
+    height: var(--w-icon-s);
     vertical-align:middle;
     display:inline-block;
 
@@ -1041,6 +1082,28 @@ details{
 
     @include full-width-site{
         grid-template-columns: 1fr;
+    }
+}
+
+.guide-buttons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: var(--m);
+    text-align: center;
+
+    svg{
+        display: block;
+        width: auto;
+        height: var(--h-icon-l);
+        margin:0 auto var(--xs);
+    }
+
+    > a{
+        @include box-m;
+        @include box-clickable;
+        text-align: center;
+        line-height: var(--line-height-label);
+        background: var(--c-bg-page)
     }
 }
 

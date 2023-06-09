@@ -8,14 +8,13 @@
 {% endblock %}
 {% block main %}
 	<main aria-label="Main page">
-		<div class="section transparent intro centred">
+		<div class="section intro">
 			<h1>Welcome to Berlin</h1>
 			<p>
 				This is the start of a great adventure! Let's get you ready for it.
 			</p>
 		</div>
-		<div class="section transparent centred">
-			<div class="options guides">
+			<div class="guide-buttons">
 				<a title="How to move to Berlin" href="{{site_url}}/guides/moving-to-berlin">
 					{% include "css/icons/moving.svg" %}
 					<span>How to <strong>move to Berlin</strong></span>
@@ -30,7 +29,7 @@
 				</a>
 			</div>
 			<h3>What do you need?</h3>
-			<div class="options guides">
+			<div class="guide-buttons">
 				<a title="How to find an apartment in Berlin" href="{{site_url}}/guides/find-a-flat-in-berlin">
 					{% include "css/icons/apartment.svg" %}
 					<span>An <strong>apartment</strong></span>
