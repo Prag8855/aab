@@ -211,6 +211,7 @@ html, body{
     @include only-phone{
         text-size-adjust: none;
         word-wrap: break-word;
+        hyphens: auto;
     }
 }
 
@@ -446,6 +447,7 @@ main{
 
     h2 small {
         display: block;
+        margin-top: var(--xs);
     }
 
     .close-button{
@@ -1028,6 +1030,16 @@ details{
     }
 
     @include only-phone{
+        grid-template-columns: 1fr;
+    }
+}
+
+.glossary-links{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: var(--s);
+
+    @include full-width-site{
         grid-template-columns: 1fr;
     }
 }
