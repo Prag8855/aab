@@ -76,8 +76,8 @@
     --b-input: 1px solid var(--c-border-input);
 
     // Shadow
-    --shadow-l: 0 var(--m) var(--xxl) #0002;
-    --shadow-s: 0 var(--xs) var(--s) calc(var(--xs) * -1) #0001;
+    --shadow-l: 0 var(--s) var(--xl) calc(var(--m) * -1) #0003;
+    --shadow-s: 0 var(--xs) var(--s) calc(var(--s) * -1) #0003;
 
     // Icons
     --i-close: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M29.06,26.94a1.49,1.49,0,0,1,0,2.12,1.5,1.5,0,0,1-2.12,0L16,18.12,5.06,29.06a1.5,1.5,0,0,1-2.12,0,1.49,1.49,0,0,1,0-2.12L13.88,16,2.94,5.06A1.5,1.5,0,0,1,5.06,2.94L16,13.88,26.94,2.94a1.5,1.5,0,0,1,2.12,2.12L18.12,16Z'/></g></svg>");
@@ -174,7 +174,7 @@
 @mixin widget{
     @include box-l;
     background: var(--c-bg-widget);
-    box-shadow: var(--shadow-l);
+    box-shadow: var(--shadow-s);
 }
 
 // Text
@@ -229,7 +229,7 @@ html, body{
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 100%;
+    min-height: 100%;
 
     @include text;
 
@@ -242,6 +242,7 @@ html, body{
 
 body{
     @include text;
+    height: auto;
 
     background: var(--c-bg-website);
 
@@ -267,6 +268,7 @@ body > header {
     background: var(--c-highlight);
     grid-area: header;
     border-radius: 0 0 var(--b-radius) var(--b-radius);
+    box-shadow: var(--shadow-l);
 
     display:flex;
     justify-content: space-between;
@@ -326,11 +328,22 @@ body > header {
     grid-area: sidebar;
     width: 100%;
     box-sizing: border-box;
+    position:sticky;
+    top:0;
+    margin-top:var(--s);
+    align-self: start;
 
     @include page-borders;
 
     @include not-desktop{
         display: none;
+    }
+
+    li{
+        font-size: var(--f-s);
+        a, a:hover{
+            color: var(--c-text);
+        }
     }
 }
 
@@ -343,6 +356,7 @@ main{
         overflow:hidden; // Makes text-overflow: break-word work.
         background: var(--c-bg-page);
         border-radius: var(--b-radius);
+        box-shadow: var(--shadow-l);
         @include page-borders;
 
         &.transparent{
@@ -350,22 +364,23 @@ main{
             padding-bottom: calc(var(--xl) - var(--m));
         }
 
-        &.intro{
-            margin: 0;
-            text-align: center;
-            background:transparent;
-
-            h1{
-                margin:0
-            }
-
-            p{
-                margin: var(--s-relative) 0 0;
-            }
-        }
-
         @include only-phone{
             border-radius: 0;
+        }
+    }
+
+    .intro{
+        margin: 0;
+        text-align: center;
+        background:transparent;
+        @include page-borders;
+
+        h1{
+            margin:0
+        }
+
+        p{
+            margin: var(--s-relative) 0 0;
         }
     }
 
