@@ -1,7 +1,7 @@
 @import './_fonts.scss';
 @import './_breakpoints.scss';
 @import './_reset.scss';
-@import './_reduced-motion.scss';
+@import './_animations.scss';
 
 
 /*******************************************************************************
@@ -161,10 +161,10 @@
         content: ' ';
         width: 1em;
         height: calc(var(--line-height-text) * 1em);
-        display: block;
-        float: right;
+        display: inline-block;
         background: var(--i-expand) no-repeat center right;
         margin-left: var(--xs);
+        vertical-align: middle;
     }
 }
 @mixin collapsible{
@@ -392,13 +392,25 @@ main{
         box-shadow: var(--shadow-l);
         @include page-borders;
 
-        &.transparent{
-            padding-top: calc(var(--xl) - var(--m)); // Default padding - grid gap
-            padding-bottom: calc(var(--xl) - var(--m));
-        }
-
         @include only-phone{
             border-radius: 0;
+        }
+
+        > :first-child{margin-top: 0;}
+        > :last-child{margin-bottom: 0;}
+    }
+
+    .intersection{
+        text-align: center;
+        padding-top: calc(var(--xl) - var(--m)); // Default padding - grid gap
+        padding-bottom: calc(var(--xl) - var(--m));
+
+        p{
+            margin:var(--m) 0 var(--l)
+        }
+
+        @include full-width-site{
+            @include page-borders;
         }
     }
 
@@ -435,7 +447,6 @@ main{
         }
 
         .post-reviewers a{
-            display: inline-block;
             @include expansible;
 
             &.expanded{
@@ -491,6 +502,14 @@ main{
 
             width: calc(50% - var(--m) / 2);
             box-sizing: border-box;
+
+            .current{
+                @include text-bold;
+            }
+
+            li {
+                list-style: '-';
+            }
         }
     }
 
@@ -545,7 +564,7 @@ main{
         grid-column-end: 3;
     }
 
-    .footnote-ref, #footnotes{
+    .footnote-ref{
         display: none
     }
 }
@@ -555,6 +574,7 @@ footer{
     text-align: center;
     font-size: var(--f-s);
     padding:0 var(--w-page-border) var(--m);
+    color: var(--c-text-light);
 }
 
 /*******************************************************************************
@@ -634,11 +654,6 @@ a {
 
     strong, b{color: inherit;}
 
-    &:hover img{
-        border-color: var(--c-border-clickable-hover)!important;
-        outline: 1px solid var(--c-border-clickable-hover);
-    }
-
     &:visited{
         color: var(--c-text-link-visited);
     }
@@ -670,6 +685,11 @@ sup, sub{
 
     a[href*="/glossary/"]{
         @include text-hint;
+    }
+
+    a:hover img{
+        border-color: var(--c-border-clickable-hover)!important;
+        outline: 1px solid var(--c-border-clickable-hover);
     }
 
     img{
@@ -717,6 +737,12 @@ sup, sub{
     }
 
     > :last-child{margin-bottom: 0}
+
+    #footnotes{
+        margin-top: var(--xxxl);
+        padding-top: var(--xl);
+        border-top: var(--b-box);
+    }
 }
 
 .hidden{
@@ -1165,6 +1191,28 @@ details{
         text-align: center;
         line-height: var(--line-height-label);
         background: var(--c-bg-page)
+    }
+}
+
+.tip-jar{
+    &, & img{
+        position:relative;
+        display:block;
+        margin:0 auto;
+        width:100px;
+        height:139px;
+        transition:top 0.2s;
+        top: 0px;
+    }
+    img {
+        background:transparent;
+        border:none;
+    }
+    &:hover{
+        animation:0.3s 2 shake;
+        top:-7px;
+        animation-delay:0.3s;
+        outline: none;
     }
 }
 
