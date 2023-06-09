@@ -67,7 +67,7 @@
     --c-border-clickable-hover: var(--c-highlight);
 
     --c-border-hint: #0004;
-    --c-border-hint-hover: #0005;
+    --c-border-hint-hover: #0007;
 
     --c-bg-clickable: transparent;
     --c-bg-clickable-hover: #fff1;
@@ -199,12 +199,11 @@
 
 @mixin text-hint{
     color:inherit!important;
-    border-bottom:2px dotted var(--c-border-hint);
-    text-decoration:none!important;
-    line-height:calc(inherit - 2px);
+    text-decoration:underline dotted var(--c-border-hint) 1.5px;
+    text-underline-offset: 0.2em;
 
     &:hover{
-        border-color:var(--c-border-hint-hover);
+        text-decoration-color:var(--c-border-hint-hover);
         cursor:help;
     }
 }
