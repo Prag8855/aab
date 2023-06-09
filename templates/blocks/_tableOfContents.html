@@ -1,14 +1,13 @@
 <nav class="table-of-contents" aria-label="Table of contents" {% if not showScreenReaders|default(true) %}aria-hidden="true"{% endif %}>
 	<h2>Table of contents</h2>
 	<ol>
-		{% if showScrollToTop|default %}
-			<li class="top-of-page only-mobile"><a href="#" title="Scroll to top of page">Top of page</a></li>
-		{% endif %}
 		{% for heading in entry.table_of_contents %}
-		    <li class="collapsed">
+		    <li>
+		    	{% if heading.children %}
+		    		<a href="#" aria-label="Show or hide subsections" class="expand"></a>
+		    	{% endif %}
 		    	<a href="#{{ heading.id }}">{{ heading.name }}</a>
 		    	{% if heading.children %}
-	    	        <a href="#" aria-label="Expand sublist" class="expand"></a>
 	    	        <ol>
 		    	    	{% for child in heading.children %}
 							<li><a href="#{{ child.id }}">{{ child.name }}</a></li>

@@ -63,11 +63,11 @@ window.addEventListener("DOMContentLoaded", function() {
       );
     }
 
-    sidebarLinks.forEach(l => l.parentElement.classList.toggle('current', l === highlightedLink));
-
     if(highlightedLink) {
+      sidebarLinks.forEach(l => l.parentElement.classList.toggle('current', l === highlightedLink));
+
       const parentSection = highlightedLink.parentElement.parentElement.parentElement;
-      if (parentSection && parentSection.classList.contains('collapsed')) {
+      if (parentSection && !parentSection.classList.contains('expanded')) {
         parentSection.classList.add('current');
       }
     }

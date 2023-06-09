@@ -41,11 +41,10 @@ window.addEventListener("DOMContentLoaded", function() {
   });
 
   /* Expandable lists */
-  document.querySelectorAll(".expand").forEach((expandButton, index) => {
-    expandButton.classList.remove('hidden');
-    expandButton.addEventListener('click', (e) => {
+  document.querySelectorAll(".table-of-contents .expand").forEach(expandButton => {
+    expandButton.addEventListener('click', e => {
       e.preventDefault();
-      expandButton.parentNode.classList.toggle('collapsed');
+      expandButton.parentNode.classList.toggle('expanded');
     })
   });
 

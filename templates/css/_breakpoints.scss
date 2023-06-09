@@ -1,5 +1,6 @@
 $width-desktop: 1280px;
 $width-tablet: 600px;
+$width-main-column: 860px;
 
 @mixin only-desktop {
     @media screen and (min-width: #{$width-desktop}) {
@@ -20,7 +21,7 @@ $width-tablet: 600px;
 }
 
 @mixin full-width-site {
-    @media screen and (max-width: 860px) {
+    @media screen and (max-width: $width-main-column) {
         @content;
     }
 }
