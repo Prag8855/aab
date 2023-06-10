@@ -338,8 +338,7 @@ body > header {
             display: none;
         }
         > .expand {
-            display:block;
-            float:right;
+            display: inline-block;
             @include expansible;
         }
         &.expanded {
@@ -376,6 +375,10 @@ body > header {
         }
         &.current > a{
             @include text-bold;
+        }
+
+        .expand{
+            float: right;
         }
     }
 }
@@ -734,6 +737,10 @@ sup, sub{
         }
 
         > ol{margin-bottom:0}
+
+        .expand{
+            margin-left: var(--s);
+        }
     }
 
     > :last-child{margin-bottom: 0}
@@ -1042,6 +1049,9 @@ details{
         list-style: none;
 
         @include expansible;
+        &:after{
+            float: right;
+        }
     }
 
     p {
@@ -1066,6 +1076,9 @@ details{
 
         @include text-bold;
         @include expansible;
+        &:after{
+            float: right;
+        }
     }
 
     &[open]{
