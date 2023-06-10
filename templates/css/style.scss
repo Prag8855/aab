@@ -145,7 +145,7 @@
     color: var(--c-text-heading);
     box-shadow: var(--shadow-s);
 
-    &:hover{
+    &:hover, &:focus{
         color: var(--c-text-heading);
         border-color:var(--c-border-clickable-hover);
         outline:1px solid var(--c-border-clickable-hover);
@@ -972,14 +972,30 @@ input[type=range] {
         text-align:center;
     }
 
-    .show-options:after{content:'▼';font-size:10px;vertical-align:center;}
-    .hide-options:after{content:'▲';font-size:10px;vertical-align:center;}
+    .show-options{
+        @include expansible;
+    }
+    .hide-options{
+        @include expansible;
+        @include collapsible;
+    }
 }
 
 .button{
     @include text;
     @include box-s;
     @include box-clickable;
+
+    &.primary{
+        background-color: var(--c-highlight);
+        border-color: var(--c-highlight);
+        color: #fff;
+
+        &:hover, &:focus{
+            background-color: #fff;
+            color: var(--c-text-heading);
+        }
+    }
 }
 
 .form-group{
@@ -997,6 +1013,10 @@ input[type=range] {
         > * + * {
             flex: 0 1 auto;
             margin-left: var(--s);
+        }
+
+        > * + input[type=range]{
+            margin-left:var(--m);
         }
 
         &.vertical{

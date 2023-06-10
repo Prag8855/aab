@@ -118,7 +118,7 @@
                         <p>You paid {{ refundAmount }} into the German pension system. <strong>You can get that money back.</strong></p>
                         <div v-if="hasFlag('eligible')">
                             <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
-                            <button class="button" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
+                            <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
                         </div>
                         <div v-if="hasFlag('eligible-later')">
                             <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
@@ -127,7 +127,7 @@
                                 <input type="email" placeholder="Your email address" v-model="emailAddress" class="required" required autocomplete="email">
                                 <span class="input-symbols"></span>
                             </div>
-                            <button class="button" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
+                            <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
                     </div>
                 </div>
                 <hr>
-                <button class="button submit" @click="setStage('contactInfo')">Continue</button>
+                <button class="button primary submit" @click="setStage('contactInfo')">Continue</button>
             </div>
         </div>
         <div v-if="stage === 'contactInfo'" ref="contactForm">
@@ -199,7 +199,7 @@
                     <span class="input-instructions">Required by the Deutsche Rentenversicherung</span>
                 </div>
             </div>
-            <button class="button submit" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
+            <button class="button primary submit" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
         </div>
         <div v-if="stage === 'requestConfirmation'">
             <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
