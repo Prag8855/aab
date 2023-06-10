@@ -846,6 +846,9 @@ select{
     background: var(--c-bg-input) var(--i-expand) no-repeat center right var(--xs);
     background-size: 1rem;
     padding-right: var(--xl);
+    overflow-x:hidden;
+    text-overflow:ellipsis;
+    max-width: 400px;
 }
 
 label.checkbox{
@@ -868,12 +871,11 @@ li.checkbox{
 }
 
 .income-input, .age-input, .percent-input{
-    flex:0 1;
-    box-sizing:content-box;
-    min-width:calc(3ch);
+    box-sizing:content-box!important;
+    width:calc(3ch)!important;
 }
 .income-input{
-    min-width:calc(7ch);
+    width:calc(7ch)!important;
 }
 
 input[type=range] {
