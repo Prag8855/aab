@@ -35,9 +35,6 @@
             {% for entry in related_guides.all() %}
                 {% include "blocks/_guidePreview.html" %}
             {% endfor %}
-            <nav class="pagination">
-                <a class="more" rel="index" href="{{ url('guides') }}">See all guides ▸</a>
-            </nav>
         </aside>
     {% endif %}
 {% endblock %}

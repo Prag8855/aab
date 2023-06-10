@@ -42,7 +42,7 @@
 </head>
 <body class="{{ body_class|default('') }}">
 {% block body %}
-	<header id="main-nav" role="banner" aria-label="Main menu">
+	<header id="main-nav" role="banner" aria-label="Main menu" class="no-print">
 		<a class="logo" href="{{ site_url }}" rel="home" title="All About Berlin">
 			All About Berlin
 		</a>
@@ -64,7 +64,7 @@
 			{% block postcontent %}{% endblock %}
 		</main>
 	{% endblock %}
-	<footer aria-label="Bottom menu">
+	<footer aria-label="Bottom menu" class="no-print">
 		© {{ now.strftime('%Y') }} • 
 		<a href="{{ site_url }}/contact" rel="nofollow">Contact</a> • 
 		<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 

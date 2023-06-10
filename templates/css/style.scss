@@ -81,6 +81,9 @@
     --shadow-l: 0 var(--s) var(--xl) calc(var(--m) * -1) #0002;
     --shadow-s: 0 var(--xs) var(--s) calc(var(--s) * -1) #0002;
 
+    --text-decoration-link: none;
+    --text-decoration-hint: underline dotted var(--c-border-hint) 1.5px;
+
     // Icons
     --i-close: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M29.06,26.94a1.49,1.49,0,0,1,0,2.12,1.5,1.5,0,0,1-2.12,0L16,18.12,5.06,29.06a1.5,1.5,0,0,1-2.12,0,1.49,1.49,0,0,1,0-2.12L13.88,16,2.94,5.06A1.5,1.5,0,0,1,5.06,2.94L16,13.88,26.94,2.94a1.5,1.5,0,0,1,2.12,2.12L18.12,16Z'/></g></svg>");
     --i-expand: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M16,23.5a1.51,1.51,0,0,1-1.06-.44l-12-12A1.5,1.5,0,0,1,5.06,8.94L16,19.88,26.94,8.94a1.5,1.5,0,0,1,2.12,2.12l-12,12A1.51,1.51,0,0,1,16,23.5Z'/></g></svg>");
@@ -199,7 +202,7 @@
 
 @mixin text-hint{
     color:inherit!important;
-    text-decoration:underline dotted var(--c-border-hint) 1.5px;
+    text-decoration: var(--text-decoration-hint);
     text-underline-offset: 0.2em;
 
     &:hover{
@@ -293,7 +296,7 @@ body > header {
 
         &:hover{
             background-color: #fff2;
-            text-decoration: none;
+            text-decoration: var(--text-decoration-link);
         }
     }
 
@@ -653,7 +656,7 @@ small{font-size: var(--f-s);}
 a {
     cursor: pointer;
     color: var(--c-text-link);
-    text-decoration: none;
+    text-decoration: var(--text-decoration-link);
 
     strong, b{color: inherit;}
 
@@ -996,6 +999,12 @@ input[type=range] {
             color: var(--c-text-heading);
         }
     }
+
+    @include only-print{
+        text-decoration: none;
+        color: #000!important;
+        background: var(--c-bg-page);
+    }
 }
 
 .form-group{
@@ -1270,5 +1279,43 @@ details{
 .health-insurance-options{
     > div{
         @include box-l;
+    }
+}
+
+@include only-print{
+    :root{
+        --c-highlight: #da513d;
+        --c-text: #000;
+        --c-text-light: #000;
+        --c-text-heading: #000;
+        --c-text-link: #000;
+        --c-text-link-visited: #000;
+        --c-bg-input: #fff;
+        --c-bg-website: #fff;
+        --c-bg-page: #fff;
+        --c-bg-widget: #fff;
+        --c-bg-image: #fff;
+        --c-border-box: #000;
+        --c-border-input: #000;
+        --c-border-input-focused: #000;
+
+        --c-border-clickable: #000;
+        --c-border-clickable-hover: #000;
+
+        --c-border-hint: #000;
+
+        --c-bg-clickable: transparent;
+
+        --text-decoration-link: underline;
+        --text-decoration-hint: underline dotted;
+
+        --shadow-s: none;
+        --shadow-l: none;
+    }
+
+    body{display:block;}
+
+    sup, #footnotes{
+        display:none!important;
     }
 }
