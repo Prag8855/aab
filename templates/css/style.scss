@@ -776,6 +776,9 @@ sup, sub{
 input:not([type=range]), textarea, select, .toggle{
     @include form-input;
 
+    max-width:100%;
+    box-sizing: border-box;
+
     &[type=checkbox], &[type=radio]{
         align-self: center;
         width: var(--w-checkbox);
@@ -820,6 +823,15 @@ input:not([type=range]), textarea, select, .toggle{
 
     &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
         -webkit-appearance:none;margin:0;
+    }
+}
+
+textarea{
+    height: 60px;
+
+    &:focus{
+        height: 150px;
+        transition: height 0.2s
     }
 }
 
@@ -984,6 +996,10 @@ input[type=range] {
         }
 
         .checkbox + .checkbox{margin-left:var(--l)}
+    }
+
+    textarea{
+        flex: 1 0 100%;
     }
 
     > label:first-child, > .label:first-child{
