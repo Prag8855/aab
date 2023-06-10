@@ -23,7 +23,7 @@ The Bürgeramt does not release all available appointments online. Some appointm
 
 To [register your address](/glossary/Anmeldung), use my [*Anmeldung* appointment finder](/tools/appointment-finder).
 
-{% include "blocks/_appointmentFinder.html" %}
+{% include "blocks/_appointmentFinderStatic.html" %}
 
 ## Call 115
 
