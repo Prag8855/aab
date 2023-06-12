@@ -71,7 +71,6 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     - [Jelbi](https://www.jelbi.de/en/home/) - Rent bikes from different bike sharing services
     - [Lime](https://www.li.me/locations) - Bicycles with electric assist
     - [Donkey Republic](https://www.donkey.bike/cities/bike-rental-berlin/)
-    - [Avocargo](https://www.avocargo.one/) - Electric cargo bikes
     - [fLotte](https://flotte-berlin.de/) - Cargo bikes
     
 ### Bicycles for refugees
