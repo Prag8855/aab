@@ -58,6 +58,7 @@
     --c-bg-website: #f9f9f9;
     --c-bg-page: #fff;
     --c-bg-widget: #00000009;
+    --c-bg-widget-opaque: #f6f6f6;
     --c-bg-image: var(--c-bg-widget);
     --c-border-box: #0002;
     --c-border-input: #0005;
@@ -706,8 +707,27 @@ sup, sub{
         margin: var(--xxl) 0 var(--l);
     }
 
-    .currency{
+    .currency[data-currencies]{
         @include text-hint;
+        position: relative;
+    }
+    .currency[data-currencies]:hover::after{
+        @include box-s;
+        z-index: 1000;
+        position: absolute;
+        background: var(--c-bg-widget-opaque);
+        display: block;
+        top: 100%;
+        left: 0;
+        white-space: pre;
+        padding:var(--s);
+
+        content: attr(data-currencies);
+        font-size: var(--f-s);
+        line-height: var(--line-height-label);
+        box-shadow: var(--shadow-s);
+        font-weight: normal!important;
+        text-align: right;
     }
 
     a[href*="/glossary/"]{
@@ -948,17 +968,7 @@ input[type=range] {
 
     position:sticky;
     top:0;
-    background-color: var(--c-bg-page);
-
-    &:after{
-        // Adds a white layer behind the semi-transparent floating range input
-        content: '';
-        background-color: var(--c-bg-widget);
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        z-index: -1;
-    }
+    background-color: var(--c-bg-widget-opaque);
 
     flex-wrap:wrap;
     align-items:center;
@@ -1224,6 +1234,16 @@ details{
 
     display: flex;
     justify-content: space-between;
+
+    .currency[data-currencies]{
+        text-decoration:none!important;
+        right: 0;
+
+        &:hover::after{
+            left: auto!important;
+            right: 0!important;
+        }
+    }
     
     output{
         display: flex;
@@ -1278,7 +1298,7 @@ details{
             margin:0 var(--m) 0 0;
             display:inline-block;
             vertical-align:middle;
-            color:var(--c-bg-widget);
+            color:var(--c-bg-image);
         }
 
         p {
