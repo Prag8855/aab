@@ -128,13 +128,13 @@ Ask your old landlord to sign a *[[Mietschuldenfreiheitsbescheinigung]]*. This d
 
 You can order cardboard boxes (*Umzugskarton*) from [Zapf](https://www.zapf.de/materialshop/kartons/), [Karton.eu](https://www.karton.eu/cardboard-boxes-and-folding-boxes) and [U-Karton](https://www.u-karton.de). Zapf makes good quality boxes.[^35] You can also buy cardboard boxes from Bauhaus, Hellweg, and [other hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement).
 
-You can ask stores to give you their old boxes. You can also buy used boxes on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331). This is cheaper than buying new boxes.
+You can ask stores to give you their old boxes. You can also buy used boxes on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331). This is cheaper than buying new boxes.
 
 ### Hire a moving company
 
 If you can't move everything yourself, you can hire a moving company. [Zapf](https://www.zapf.de/) is often recommended.[^25] It's more expensive, but all your goods are insured.
 
-If you don't have many things to move, you can hire a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option. You can find more on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
+If you don't have many things to move, you can hire a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option. You can find more on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
 
 ### Rent a moving truck
 
@@ -144,7 +144,7 @@ You will need to park the truck somewhere while you load your things. You can re
 
 ### Sell or donate your things
 
-Get rid of the things you don't need. The best options are [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/) and [Facebook groups](/guides/how-do-i-buy-and-sell-used-things-in-berlin#facebook-groups).
+Get rid of the things you don't need. The best options are [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/) and [Facebook groups](/guides/how-do-i-buy-and-sell-used-things-in-berlin#facebook-groups).
 
 **[How to buy, sell and donate things ➞](/guides/how-do-i-buy-and-sell-used-things-in-berlin)**
 

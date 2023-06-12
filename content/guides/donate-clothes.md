@@ -58,12 +58,12 @@ Berliner Stadtreinigung also has a [list of collection points for clothes](https
 ## Other ways to donate clothes
 
 - [Free your stuff Berlin](https://www.facebook.com/groups/freeyourstuff/) - Facebook group for giving things away
-- [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) - Online classified ads
+- [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) - Online classified ads
 
 ## How to sell used clothes
 
 - [Sell your stuff Berlin](https://www.facebook.com/groups/sysberlin/) - Facebook group for selling things
-- [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) - Online classified ads
+- [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) - Online classified ads
 - [Vinted](https://www.vinted.de/) - Sell or trade used clothes
 
 [^0]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/wo-unsere-altkleider-landen-3943288.html)

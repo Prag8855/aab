@@ -33,7 +33,7 @@ Used bicycles are cheaper. There are many places where you can buy them:
     Monthly bicycle markets with hundreds of bicycles. There is also a bicycle workshop.
 - **[Fietsenbörse](https://fietsenboerse.de/)** (Schöneberg)  
     Monthly bicycle market with hundreds of bicycles.
-- **[eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-fahrraeder/c217)**  
+- **[Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-fahrraeder/c217)**  
     Classified ads website. Many bikes are listed there.
 - **[Flea markets](https://www.berlin.de/special/shopping/flohmaerkte/)**  
     There are flea markets every Sunday in Berlin. Many of them sell bicycles. Do not buy a bicycle there. The bicycles are too old, too expensive, and often stolen.

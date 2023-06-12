@@ -128,7 +128,7 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 ### Classified ads
 
 - **[ImmobilienScout24](https://www.immobilienscout24.de/)** - Biggest apartment listing site
-- **[eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de:443/)** - Biggest classified ads site
+- **[Kleinanzeigen](https://www.ebay-kleinanzeigen.de:443/)** - Biggest classified ads site
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
@@ -211,7 +211,7 @@ People don't hire agents to find an apartment. They are mostly useless.[^10] The
 
 ### Other tricks
 
-- Install the [eBay Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and enable notifications for new apartment listings.[^44]
+- Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and enable notifications for new apartment listings.[^44]
 - Follow [@berlinflatsbot on Telegram](https://t.me/berlinflatsbot)
 - Turn on push notifications for the Facebook housing groups you follow.
 
