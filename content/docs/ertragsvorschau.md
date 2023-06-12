@@ -17,7 +17,13 @@ You need this form to [apply for a freelance visa](/guides/how-to-get-a-german-f
 
 **[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 
-This is the official template from [Berlin.de](https://service.berlin.de/dienstleistung/305249/). You can use your own template, but some *[[Ausländerbehörde]]* employees prefer the official template.
+This is the official template. You can use your own template, but some *[[Ausländerbehörde]]* employees prefer the official template.
+
+## Download the Ertragsvorschau template
+
+{% include "blocks/_downloadDocuments.html"%}
+
+The original template is on [Berlin.de](https://service.berlin.de/dienstleistung/305249/).
 
 ## How to fill the revenue forecast
 

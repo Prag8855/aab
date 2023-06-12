@@ -11,15 +11,17 @@ Related_guides:
     guides/anmeldung-in-english-berlin.md
 ---
 
-Normally, you get a [tax ID](/glossary/Steueridentifikationsnummer) after you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, but you still need a tax ID, you must fill this form and send it to the *[[Finanzamt]]*. The original form is [on the BZSt website](/out/taxid-form).
+Normally, you get a [tax ID](/glossary/Steueridentifikationsnummer) after you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, but you still need a tax ID, you must fill this form and send it to the *[[Finanzamt]]*.
 
 If you already did your *[[Anmeldung]]*, you don't need this form. You can wait for your tax ID or request it again.
 
 **[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)**
 
-**[Download the form ↓](#download-buttons)**
+## Download the form
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "blocks/_downloadDocuments.html"%}
+
+The original form is [on the BZSt website](/out/taxid-form).
 
 ## Who should fill this form
 

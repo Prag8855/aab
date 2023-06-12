@@ -121,6 +121,7 @@
 @mixin box{
     border: var(--b-box);
     border-radius: var(--b-radius);
+    display: block;
 }
 
 @mixin box-l{
@@ -411,6 +412,8 @@ main{
         @include only-phone{
             border-radius: 0;
         }
+
+        h2:first-child{margin-bottom: var(--xl)}
 
         > :first-child{margin-top: 0;}
         > :last-child{margin-bottom: 0;}
@@ -1024,14 +1027,16 @@ input[type=range] {
     @include box-s;
     @include box-clickable;
 
+    color: var(--c-text)!important;
+
     &.primary{
         background-color: var(--c-highlight);
         border-color: var(--c-highlight);
-        color: #fff;
+        color: #fff!important;
 
         &:hover, &:focus{
             background-color: #fff;
-            color: var(--c-text-heading);
+            color: var(--c-text-heading)!important;
         }
     }
 
@@ -1270,6 +1275,45 @@ details{
 
     @include only-phone{
         font-size: var(--f-s);
+    }
+}
+
+.download-buttons{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: var(--m);
+
+    > a{
+        @include box-l;
+        @include box-clickable;
+        max-height: 250px;
+        overflow: hidden;
+        text-align: center;
+        margin: 0;
+
+        span{
+            font-size: var(--f-s);
+        }
+        img{
+            border-radius: 0;
+            display: block;
+            max-width: 100%;
+            width: 300px;
+            height: auto;
+            background: #fff;
+            margin: var(--m) auto 0 auto;
+            border: var(--b-box);
+            box-shadow: var(--shadow-l);
+        }
+
+        &:hover img{
+            border-color:var(--c-border-box)!important;
+            outline:none;
+        }
+    }
+
+    @include only-phone{
+        grid-template-columns: 1fr;
     }
 }
 

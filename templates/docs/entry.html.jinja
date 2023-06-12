@@ -9,49 +9,41 @@
 	<link rel="index" href="{{ site_url }}/docs">
 {% endblock %}
 
-{% set body_class = "with-sidebar" %}
-{% block precontent %}
-	<div class="sidebar">
-		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showDownloadLink=true %}
+{% block main %}
+	<main aria-label="Main page">
+		{% block precontent %}{% endblock %}
+		<article class="section">
+			<h1>{{ entry.title }}</h1>
+			{% include "blocks/_postMeta.html" %}
+			{% with showDateUpdated=true %}
+				<div class="article-body">
+					{{ entry.body|render|safe }}
+				</div>
+			{% endwith %}
+		</article>
+		{% if related_entries|length %}
+			<aside class="section" role="list" aria-labelledby="h-related-guides">
+				<h2 id="h-related-guides">Related guides</h2>
+				{% for entry in related_entries %}
+					{% include "blocks/_guidePreview.html" %}
+				{% endfor %}
+			</aside>
+		{% endif %}
+
+		{% with pageType='guide' %}
+			{% include "blocks/_donationPrompt.html" %}
+		{% endwith %}
+		<aside class="section no-print" aria-label="Affiliate links notice">
+			<p>
+				<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
+			</p>
+		</aside>
+	</main>
+	
+	<div class="sidebar no-print">
+		{% with entry=entry, showScrollToTop=true, showSupportLink=true %}
 			{% include 'blocks/_tableOfContents.html' %}
 		{% endwith %}
 	</div>
 	{% include "js/sidebar.js" %}
-{% endblock%}
-
-{% block content %}
-	<h1>{{ entry.title }}</h1>
-	{% include "blocks/_postMeta.html" %}
-	{% with showDateUpdated=true %}
-		<div class="article-body">
-			{{ entry.body|render|safe }}
-		</div>
-	{% endwith %}
-{% endblock %}
-
-{% block postcontent %}
-	<aside id="download-buttons" class="section">
-		<h2>Download this document</h2>
-		<div class="download-buttons">
-			<a target="_blank" class="download-button german" title="Download the original document in German" href="{{ site_url }}/{{ entry.german_document }}">
-				<h3>In German</h3>
-				<span>{{ entry.german_term }}</span>
-				{% image entry.german_document %}
-			</a>
-
-			<a target="_blank" class="download-button english" title="Download the English-translated document" href="{{ site_url }}/{{ entry.english_document }}">
-				<h3>In English</h3>
-				<span>{{ entry.english_term }}</span>
-				{% image entry.english_document %}
-			</a>
-		</div>
-	</aside>
-	{% if related_entries|length %}
-		<aside class="section" role="list" aria-labelledby="h-related-guides">
-			<h2 id="h-related-guides">Related guides</h2>
-			{% for entry in related_entries %}
-				{% include "blocks/_guidePreview.html" %}
-			{% endfor %}
-		</aside>
-	{% endif %}
 {% endblock %}

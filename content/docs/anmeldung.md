@@ -6,14 +6,22 @@ German_document: documents/anmeldung-original.pdf
 English_document: documents/anmeldung-translated-2021-v2.pdf
 Description: Instruction on how to fill the Anmeldung form. This is the document you must fill to register your address in Berlin.
 Date_created: 2018-02-28
-Related_guides: guides/anmeldung-in-english-berlin.md, guides/moving-to-berlin.md, guides/berlin-burgeramt-appointment.md, guides/replacement-meldebescheinigung.md, guides/abmeldung-deregister-in-berlin.md, guides/how-to-get-a-german-freelance-visa.md
+Related_guides:
+    guides/anmeldung-in-english-berlin.md
+    guides/moving-to-berlin.md
+    guides/berlin-burgeramt-appointment.md
+    guides/replacement-meldebescheinigung.md
+    guides/abmeldung-deregister-in-berlin.md
+    guides/how-to-get-a-german-freelance-visa.md
 ---
 
 This is the English translation of the official *[[Anmeldung]]* form. You must fill this form to [register your address](/glossary/Anmeldung) in Berlin. [Appmeldung](https://appmeldung.com/), [sorted.berlin](https://anmeldung.sorted.berlin/) and [Amty](https://amty.io/) can also also help you fill this form. The original form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf).
 
 **[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
-**[Download the form ↓](#download-buttons)**
+## Download the Anmeldung form
+
+{% include "blocks/_downloadDocuments.html"%}
 
 ## How to fill this form
 
