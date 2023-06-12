@@ -411,6 +411,10 @@ main{
         padding-top: calc(var(--xl) - var(--m)); // Default padding - grid gap
         padding-bottom: calc(var(--xl) - var(--m));
 
+        h3{
+            margin:var(--l) 0 var(--m)
+        }
+
         p{
             margin:var(--m) 0 var(--l)
         }
@@ -581,6 +585,10 @@ footer{
     font-size: var(--f-s);
     padding:0 var(--w-page-border) var(--m);
     color: var(--c-text-light);
+
+    a, a:visited{
+        color: inherit;
+    }
 }
 
 /*******************************************************************************
