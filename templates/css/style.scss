@@ -133,7 +133,6 @@
     @include box;
     padding: var(--m) var(--m);
     background: transparent;
-    cursor: pointer;
 }
 @mixin box-s{
     // Buttons
@@ -217,6 +216,16 @@
 
 @mixin text-block-compact{
     margin: var(--s-relative) 0;
+}
+
+@mixin text-block-quote{
+    @include text-block;
+    background: var(--c-bg-widget);
+    border-radius: var(--b-radius);
+    padding: var(--l-relative) var(--m);
+
+    > :first-child{margin-top: 0;}
+    > :last-child{margin-bottom: 0;}
 }
 
 @mixin text-bold{
@@ -697,6 +706,10 @@ sup, sub{
         margin: var(--xxl) 0 var(--l);
     }
 
+    .currency{
+        @include text-hint;
+    }
+
     a[href*="/glossary/"]{
         @include text-hint;
     }
@@ -733,6 +746,10 @@ sup, sub{
         font-size: var(--f-s);
         text-align: center;
         margin-top:var(--xs);
+    }
+
+    blockquote, pre{
+        @include text-block-quote;
     }
 
     .footnote-ref{
