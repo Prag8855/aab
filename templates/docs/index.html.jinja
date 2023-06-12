@@ -9,19 +9,17 @@
 {% block precontent %}
 	<header class="intro">
 		<h1>Document translations</h1>
-		<p>Important German documents in English.</p>
+		<p>Important German documents translated to English.</p>
 	</header>
 {% endblock %}
 
 {% block content %}
 	{% for document in get_entries('docs', sort_by='german_term') %}
-		<div class="document">
-			<h2>
-				<a title="{{ document.german_term }}" rel="bookmark" href="{{ document.url }}">{{ document.german_term }}</a>
-				<small title="{{ document.english_term }}">
-					{{ document.english_term }}
-				</small>
-			</h2>
+		<div class="preview document">
+			<h3>
+				<a title="{{ document.german_term }}" rel="bookmark" href="{{ document.url }}" lang="de">{{ document.german_term }}</a>
+				{{ document.english_term }}
+			</h3>
 			<p>{{ document.description }}</p>
 		</div>
 	{% endfor %}

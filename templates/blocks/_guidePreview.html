@@ -1,4 +1,4 @@
-<div class="preview" role="listitem" aria-label="{{ entry.title }}">
+<div class="preview guide" role="listitem" aria-label="{{ entry.title }}">
     <h3>
         <a href="{{ entry.url }}" rel="bookmark">
             {% if entry.url.startswith('guides/') %}
@@ -12,15 +12,15 @@
                 {% endif %}
             {% endif %}
         </a>
-    </h3>
-    {% if showDateUpdated|default or showDatePosted|default %}
-        {% if showDateUpdated|default %}
-            {% set dateToUse = entry.date_updated %}
-        {% else %}
-            {% set dateToUse = entry.date_created %}
+        {% if showDateUpdated|default or showDatePosted|default %}
+            {% if showDateUpdated|default %}
+                {% set dateToUse = entry.date_updated %}
+            {% else %}
+                {% set dateToUse = entry.date_created %}
+            {% endif %}
+            <time content="{{ dateToUse.strftime('%F') }}" datetime="{{ dateToUse.strftime('%F') }}">{{ dateToUse.strftime('%B %-d, %Y') }}</time>
         {% endif %}
-        <time class="post-date" content="{{ dateToUse.strftime('%F') }}" datetime="{{ dateToUse.strftime('%F') }}">{{ dateToUse.strftime('%B %-d, %Y') }}</time>
-    {% endif %}
+    </h3>
     <p>{{ entry.description }}</p>
     <script type="application/ld+json">{% include "guides/_jsonld.json" %}</script>
 </div>

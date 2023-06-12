@@ -16,7 +16,7 @@
 {% block main %}
 	<main aria-label="Main page">
 		{% block precontent %}{% endblock %}
-		<article class="section ">
+		<article class="section">
 			<h1>{{ entry.title }}</h1>
 			{% include "blocks/_postMeta.html" %}
 			{% with entry=entry, showRelatedEntriesLink=related_collections|length %}

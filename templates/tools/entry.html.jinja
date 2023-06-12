@@ -30,7 +30,7 @@
     </aside>
 
     {% if related_guides|length %}
-        <aside class="section related" id="related">
+        <aside class="section" role="list" id="related">
             <h2>Related guides</h2>
             {% for entry in related_guides.all() %}
                 {% include "blocks/_guidePreview.html" %}

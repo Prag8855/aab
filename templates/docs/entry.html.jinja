@@ -30,7 +30,7 @@
 {% endblock %}
 
 {% block postcontent %}
-	<aside id="download-buttons" class="section ">
+	<aside id="download-buttons" class="section">
 		<h2>Download this document</h2>
 		<div class="download-buttons">
 			<a target="_blank" class="download-button german" title="Download the original document in German" href="{{ site_url }}/{{ entry.german_document }}">
@@ -47,7 +47,7 @@
 		</div>
 	</aside>
 	{% if related_entries|length %}
-		<aside class="section " role="list" aria-labelledby="h-related-guides">
+		<aside class="section" role="list" aria-labelledby="h-related-guides">
 			<h2 id="h-related-guides">Related guides</h2>
 			{% for entry in related_entries %}
 				{% include "blocks/_guidePreview.html" %}
