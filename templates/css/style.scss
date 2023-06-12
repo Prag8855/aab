@@ -190,10 +190,13 @@
     line-height: var(--line-height-heading);
     color: var(--c-text-heading);
     letter-spacing: -0.01em;
-    hyphens: auto;
 
     // Break long words
     overflow: hidden;
+
+    @include only-phone{
+        hyphens: auto;
+    }
 }
 
 @mixin text{
