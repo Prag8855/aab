@@ -1,51 +1,44 @@
 {% set id = random_id() %}
-<aside class="unemployment-insurance-calculator collapsible {% if static|default %}static{% else %}collapsed{% endif %}" aria-label="Unemployment insurance calculator">
-{% if not static|default %}
-    <div class="header">
-        <h2>
-            <small class="only-mobile">Unemployment insurance calculator</small>
-            <span class="no-mobile">Unemployment insurance calculator</span>
-        </h2>
-    </div>
-{% endif %}
+<details class="unemployment-insurance-calculator collapsible" aria-label="Unemployment insurance calculator" {% if static|default %}open{% endif %}>
+    <summary {% if static|default %}hidden{% endif %}>
+        Unemployment insurance calculator
+    </summary>
 {% raw %}
-    <div class="body form">
-        <div class="form-group">
-            <label for="occupation-{% endraw %}{{ id }}{% raw %}">
-                Occupation
-            </label>
-            <select class="select" id="occupation-{% endraw %}{{ id }}{% raw %}" name="occupation" v-model="occupation">
-                <option value="employee">Employee</option>
-                <option value="selfEmployed">Self-employed / freelancer</option>
-                <option value="azubi">Apprentice (Azubi)</option>
-                <option value="unemployed">Unemployed</option>
-            </select>
+    <div class="form-group">
+        <label for="occupation-{% endraw %}{{ id }}{% raw %}">
+            Occupation
+        </label>
+        <select class="select" id="occupation-{% endraw %}{{ id }}{% raw %}" name="occupation" v-model="occupation">
+            <option value="employee">Employee</option>
+            <option value="selfEmployed">Self-employed / freelancer</option>
+            <option value="azubi">Apprentice (Azubi)</option>
+            <option value="unemployed">Unemployed</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="income-{% endraw %}{{ id }}{% raw %}">
+            Income
+        </label>
+        <div class="input-group">
+            <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" name="income" id="income-{% endraw %}{{ id }}{% raw %}" v-model="monthlyIncome">
+            <span>€ per month</span>
         </div>
-        <div class="form-group">
-            <label for="income-{% endraw %}{{ id }}{% raw %}">
-                Income
-            </label>
-            <div class="input-group">
-                <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" name="income" id="income-{% endraw %}{{ id }}{% raw %}" v-model="monthlyIncome">
-                <span>€ per month</span>
-            </div>
+    </div>
+    <div class="form-group" v-if="showStatePicker">
+        <label for="state-{% endraw %}{{ id }}{% raw %}">
+            Where do you work?
+        </label>
+        <div class="input-group">
+          <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
+            <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+          </select>
+          <span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
         </div>
-        <div class="form-group" v-if="showStatePicker">
-            <label for="state-{% endraw %}{{ id }}{% raw %}">
-                Where do you work?
-            </label>
-            <div class="input-group">
-              <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
-                <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-              </select>
-              <span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
-            </div>
-        </div>
-        <hr>
-        <div v-if="results">
-            <output class="large" v-html="unemploymentInsuranceAmount"></output>
-            <p v-html="resultsExplanation"></p>
-        </div>
+    </div>
+    <hr>
+    <div v-if="results">
+        <output class="large" v-html="unemploymentInsuranceAmount"></output>
+        <p v-html="resultsExplanation"></p>
     </div>
 </aside>
 {% endraw %}

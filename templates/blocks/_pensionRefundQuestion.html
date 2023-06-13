@@ -1,70 +1,64 @@
 {% set id = random_id() %}
-<aside class="pension-refund-question collapsible collapsed" aria-label="Ask a question about pension refunds" ref="collapsible">
-  {% if not static|default %}
-    <div class="header">
-      <h2>
-        <span class="only-mobile" aria-hidden="true">Ask a question</span>
-        <span class="no-mobile">Ask a question about pension refunds</span>
-      </h2>
+<details class="pension-refund-question collapsible" aria-label="Ask a question about pension refunds" ref="collapsible" {% if static|default %}open{% endif %}>
+  <summary {% if static|default %}hidden{% endif %}>
+    <span class="only-mobile" aria-hidden="true">Ask a question</span>
+    <span class="no-mobile">Ask a question about pension refunds</span>
+  </summary>
+  {% include "blocks/_formHoneypot.html" %}
+  <div v-if="stage === 'contactInfo'">
+    <p>Chris helps people get their pension refund. You can ask him questions. He will answer in 1 to 3 business days. This is a free service.</p>
+    <hr>
+    <div class="form-group">
+      <label for="question-{{ id }}">Your question</label>
+      <div class="input-group">
+        <textarea v-model="question" id="question-{{ id }}" class="required" required placeholder=" "></textarea>
+        <span class="input-symbols"></span>
+      </div>
     </div>
-  {% endif %}
-  <div class="body form">
-    {% include "blocks/_formHoneypot.html" %}
-    <div v-if="stage === 'contactInfo'">
-      <p>Chris helps people get their pension refund. You can ask him questions. He will answer in 1 to 3 business days. This is a free service.</p>
-      <hr>
-      <div class="form-group">
-        <label for="question-{{ id }}">Your question</label>
-        <div class="input-group">
-          <textarea v-model="question" id="question-{{ id }}" class="required" required placeholder=" "></textarea>
-          <span class="input-symbols"></span>
-        </div>
+    <div class="form-group">
+      <label for="name-{{ id }}">
+        Name
+      </label>
+      <div class="input-group">
+        <input v-model="fullName" type="text" class="required" required autocomplete="name">
+        <span class="input-symbols"></span>
       </div>
-      <div class="form-group">
-        <label for="name-{{ id }}">
-          Name
-        </label>
-        <div class="input-group">
-          <input v-model="fullName" type="text" class="required" required autocomplete="name">
-          <span class="input-symbols"></span>
-        </div>
-      </div>
-      <div class="form-group">
-        <label for="email-{{ id }}">
-          Email
-        </label>
-        <div class="input-group">
-          <input v-model="emailAddress" type="email" id="email-{{ id }}" class="required" required autocomplete="email">
-          <span class="input-symbols"></span>
-        </div>
-      </div>
-      <hr>
-      <div class="form-group">
-        <label for="nationality-{{ id }}">Nationality</label>
-        <div class="input-group">
-          <input type="text" v-model="nationality" id="nationality-{{ id }}" list="countries-{{ id }}" required class="required">
-          <span class="input-symbols"></span>
-        </div>
-      </div>
-      <div class="form-group">
-        <label for="country-of-residence-{{ id }}">Where do you live?</label>
-        <div class="input-group">
-          <input type="text" v-model="countryOfResidence" id="country-of-residence-{{ id }}" list="countries-{{ id }}" required class="required">
-          <span class="input-symbols"></span>
-        </div>
-      </div>
-      <datalist id="countries-{{ id }}">
-        <option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-      </datalist>
-      <hr>
-      <p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
-      <button class="button primary no-print" @click="submitForm">Ask Chris</button>
     </div>
-    <div v-if="stage === 'thank-you'">
-      <p><strong>Message sent!</strong> Chris will contact you today or during the next business day. Expect an email from "FundsBack".</p>
+    <div class="form-group">
+      <label for="email-{{ id }}">
+        Email
+      </label>
+      <div class="input-group">
+        <input v-model="emailAddress" type="email" id="email-{{ id }}" class="required" required autocomplete="email">
+        <span class="input-symbols"></span>
+      </div>
     </div>
+    <hr>
+    <div class="form-group">
+      <label for="nationality-{{ id }}">Nationality</label>
+      <div class="input-group">
+        <input type="text" v-model="nationality" id="nationality-{{ id }}" list="countries-{{ id }}" required class="required">
+        <span class="input-symbols"></span>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="country-of-residence-{{ id }}">Where do you live?</label>
+      <div class="input-group">
+        <input type="text" v-model="countryOfResidence" id="country-of-residence-{{ id }}" list="countries-{{ id }}" required class="required">
+        <span class="input-symbols"></span>
+      </div>
+    </div>
+    <datalist id="countries-{{ id }}">
+      <option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
+    </datalist>
+    <hr>
+    <p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
+    <button class="button primary no-print" @click="submitForm">Ask Chris</button>
   </div>
-</aside>
+  <div v-if="stage === 'thank-you'">
+    <p><strong>Message sent!</strong> Chris will contact you today or during the next business day. Expect an email from "FundsBack".</p>
+  </div>
+</details>
 {% include '/js/utils.js' %}
 {% include '/js/constants.js' %}
 {% include '/js/vue.js' %}

@@ -1211,9 +1211,11 @@ details{
         &:after{
             float: right;
         }
+
+        &[hidden] + * {margin-top: 0}
     }
 
-    p {
+    details p {
         @include text-block-compact;
         font-size: var(--f-s);
     }

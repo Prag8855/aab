@@ -1,211 +1,205 @@
 {% set id = random_id() %}
-<aside class="pension-refund-calculator collapsible {% if static|default %}static{% else %}collapsed{% endif %}" aria-label="Pension refund calculator" ref="collapsible">
-{% if not static|default %}
-    <div class="header" @click="isCollapsed=false">
-        <h2>
-            Calculate your pension refund
-        </h2>
-    </div>
-{% endif %}
+<details class="pension-refund-calculator collapsible" aria-label="Pension refund calculator" ref="collapsible" {% if static|default %}open{% endif %}>
+    <summary {% if static|default %}hidden{% endif %}>
+        Calculate your pension refund
+    </summary>
 {% raw %}
-    <div class="body form" v-if="!isCollapsed">
-        <div v-if="stage === 'start'">
-            <p>This calculator tells you if you can get a pension refund, and how much you can get back.</p>
+    <p v-if="stage === 'start'">This calculator tells you if you can get a pension refund, and how much you can get back.</p>
+    <div v-if="stage === 'start'">
+        <hr>
+        <div class="form-group">
+            <label for="nationality-{% endraw %}{{ id }}{% raw %}">
+                Nationality
+            </label>
+            <select
+              class="select"
+              placeholder="Choose a country"
+              :class="{'error': !isNationalityEligible}"
+              id="nationality-{% endraw %}{{ id }}{% raw %}"
+              v-model="nationality">
+                <option value="" disabled selected hidden>Choose a country</option>
+                <option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="country-of-residence-{% endraw %}{{ id }}{% raw %}">
+                Where do you live?
+            </label>
+            <select
+              class="select"
+              placeholder="Choose a country"
+              :class="{'error': !isCountryOfResidenceEligible}"
+              id="country-of-residence-{% endraw %}{{ id }}{% raw %}"
+              v-model="countryOfResidence">
+                <option value="" disabled selected hidden>Choose a country</option>
+                <option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
+            </select>
+        </div>
+        <div v-if="!isCountriesEligible">
+            <hr>
+            <h3>You can't get a pension refund</h3>
+            <p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>
+            <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a <a href="/glossary/EEA" target="_blank">European Economic Area</a> citizen.</p>
+            <p v-if="hasFlag('eu-resident')">You can't get a German pension refund while you live in the European Union. If you leave the European Union, you can get a refund.</p>
+            <p v-if="hasFlag('disqualifying-country-resident')">You can't get a German pension refund while you live in Bosnia-Herzegovina, Kosovo, North Macedonia, Serbia or Turkey.</p>
+            <p v-if="hasFlag('israel-national') && hasFlag('israel-resident')">You can't get a pension refund because <strong>you live in Israel</strong>. If you move out of Israel, you can get a pension refund.</p>
+        </div>
+        <div v-if="isCountriesSelected && isCountriesEligible">
             <hr>
             <div class="form-group">
-                <label for="nationality-{% endraw %}{{ id }}{% raw %}">
-                    Nationality
-                </label>
-                <select
-                  class="select"
-                  placeholder="Choose a country"
-                  :class="{'error': !isNationalityEligible}"
-                  id="nationality-{% endraw %}{{ id }}{% raw %}"
-                  v-model="nationality">
-                    <option value="" disabled selected hidden>Choose a country</option>
-                    <option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
-                </select>
+                <span class="label">First month in Germany</span>
+                <div class="input-group date-input">
+                      <select
+                        class="month-input"
+                        :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                        v-model="firstMonthOfWork">
+                          <option value="" disabled selected hidden>Month</option>
+                          <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
+                      </select>
+                      <select
+                        class="year-input"
+                        :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                        v-model="firstYearOfWork">
+                          <option value="" disabled selected hidden>Year</option>
+                          <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
+                      </select>
+                </div>
             </div>
             <div class="form-group">
-                <label for="country-of-residence-{% endraw %}{{ id }}{% raw %}">
-                    Where do you live?
-                </label>
-                <select
-                  class="select"
-                  placeholder="Choose a country"
-                  :class="{'error': !isCountryOfResidenceEligible}"
-                  id="country-of-residence-{% endraw %}{{ id }}{% raw %}"
-                  v-model="countryOfResidence">
-                    <option value="" disabled selected hidden>Choose a country</option>
-                    <option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
-                </select>
+                <span class="label">Last month in Germany</span>
+                <div class="input-group date-input">
+                    <select
+                      class="month-input"
+                      :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                      v-model="lastMonthOfWork">
+                        <option value="" disabled selected hidden>Month</option>
+                        <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
+                    </select>
+                    <select
+                      class="year-input"
+                      :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                      v-model="lastYearOfWork">
+                        <option value="" disabled selected hidden>Year</option>
+                        <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
+                    </select>
+                    <span class="input-instructions">Only include the months that you were employed.</span>
+                </div>
             </div>
-            <div v-if="!isCountriesEligible">
+            <div v-if="isDateRangeSelected && isDateRangeEligible">
+                <hr>
+                <div class="form-group">
+                    <label for="income-{% endraw %}{{ id }}{% raw %}">
+                        Your salary in Germany
+                    </label>
+                    <div class="input-group">
+                        <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" id="income-{% endraw %}{{ id }}{% raw %}" placeholder="30000" v-model="yearlyIncome">
+                        &nbsp;€ per year
+                    </div>
+                </div>
+                <div class="form-group" v-if="showStatePicker">
+                    <label for="state-{% endraw %}{{ id }}{% raw %}">
+                        Where did you work in Germany?
+                    </label>
+                    <div class="input-group">
+                        <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
+                        <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+                        </select>
+                        <span class="input-instructions">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
+                    </div>
+                </div>
+                <div v-if="refundAmount">
+                    <hr>
+                    <output class="large" v-html="refundAmountHtml"></output>
+                    <p>You paid {{ refundAmount }} into the German pension system. <strong>You can get that money back.</strong></p>
+                    <div v-if="hasFlag('eligible')">
+                        <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
+                        <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
+                    </div>
+                    <div v-if="hasFlag('eligible-later')">
+                        <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
+                        <p>We can send you an email reminder in {{ eligibilityDateString }}. Just enter your email.</p>
+                        <div class="input-group">
+                            <input type="email" placeholder="Your email address" v-model="emailAddress" class="required" required autocomplete="email">
+                            <span class="input-symbols"></span>
+                        </div>
+                        <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
+                    </div>
+                </div>
+            </div>
+            <div v-if="isDateRangeSelected && !isDateRangeEligible && firstDayOfWork <= lastDayOfWork">
                 <hr>
                 <h3>You can't get a pension refund</h3>
-                <p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>
-                <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a <a href="/glossary/EEA" target="_blank">European Economic Area</a> citizen.</p>
-                <p v-if="hasFlag('eu-resident')">You can't get a German pension refund while you live in the European Union. If you leave the European Union, you can get a refund.</p>
-                <p v-if="hasFlag('disqualifying-country-resident')">You can't get a German pension refund while you live in Bosnia-Herzegovina, Kosovo, North Macedonia, Serbia or Turkey.</p>
-                <p v-if="hasFlag('israel-national') && hasFlag('israel-resident')">You can't get a pension refund because <strong>you live in Israel</strong>. If you move out of Israel, you can get a pension refund.</p>
-            </div>
-            <div v-if="isCountriesSelected && isCountriesEligible">
-                <hr>
-                <div class="form-group">
-                    <span class="label">First month in Germany</span>
-                    <div class="input-group date-input">
-                          <select
-                            class="month-input"
-                            :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
-                            v-model="firstMonthOfWork">
-                              <option value="" disabled selected hidden>Month</option>
-                              <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
-                          </select>
-                          <select
-                            class="year-input"
-                            :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
-                            v-model="firstYearOfWork">
-                              <option value="" disabled selected hidden>Year</option>
-                              <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
-                          </select>
-                    </div>
+                <div v-if="hasFlag('over-5-years')">
+                    <p>You can't get a pension refund because you made pension payments for over 60 months. When you are 67 years old, you can receive a German pension.</p>
                 </div>
-                <div class="form-group">
-                    <span class="label">Last month in Germany</span>
-                    <div class="input-group date-input">
-                        <select
-                          class="month-input"
-                          :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
-                          v-model="lastMonthOfWork">
-                            <option value="" disabled selected hidden>Month</option>
-                            <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
-                        </select>
-                        <select
-                          class="year-input"
-                          :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
-                          v-model="lastYearOfWork">
-                            <option value="" disabled selected hidden>Year</option>
-                            <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
-                        </select>
-                        <span class="input-instructions">Only include the months that you were employed.</span>
-                    </div>
-                </div>
-                <div v-if="isDateRangeSelected && isDateRangeEligible">
-                    <hr>
-                    <div class="form-group">
-                        <label for="income-{% endraw %}{{ id }}{% raw %}">
-                            Your salary in Germany
-                        </label>
-                        <div class="input-group">
-                            <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" id="income-{% endraw %}{{ id }}{% raw %}" placeholder="30000" v-model="yearlyIncome">
-                            &nbsp;€ per year
-                        </div>
-                    </div>
-                    <div class="form-group" v-if="showStatePicker">
-                        <label for="state-{% endraw %}{{ id }}{% raw %}">
-                            Where did you work in Germany?
-                        </label>
-                        <div class="input-group">
-                            <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
-                            <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-                            </select>
-                            <span class="input-instructions">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
-                        </div>
-                    </div>
-                    <div v-if="refundAmount">
-                        <hr>
-                        <output class="large" v-html="refundAmountHtml"></output>
-                        <p>You paid {{ refundAmount }} into the German pension system. <strong>You can get that money back.</strong></p>
-                        <div v-if="hasFlag('eligible')">
-                            <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
-                            <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
-                        </div>
-                        <div v-if="hasFlag('eligible-later')">
-                            <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
-                            <p>We can send you an email reminder in {{ eligibilityDateString }}. Just enter your email.</p>
-                            <div class="input-group">
-                                <input type="email" placeholder="Your email address" v-model="emailAddress" class="required" required autocomplete="email">
-                                <span class="input-symbols"></span>
-                            </div>
-                            <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
-                        </div>
-                    </div>
-                </div>
-                <div v-if="isDateRangeSelected && !isDateRangeEligible && firstDayOfWork <= lastDayOfWork">
-                    <hr>
-                    <h3>You can't get a pension refund</h3>
-                    <div v-if="hasFlag('over-5-years')">
-                        <p>You can't get a pension refund because you made pension payments for over 60 months. When you are 67 years old, you can receive a German pension.</p>
-                    </div>
-                    <p v-if="hasFlag('uk-national') && hasFlag('uk-prebrexit')">You can't get a pension refund because <strong>you are a UK citizen, and you worked in Germany before Brexit</strong>. When you are 67 years old, you can receive a German pension.</p>
-                    <p v-if="hasFlag('uk-resident') && hasFlag('uk-prebrexit') && !hasFlag('uk-national')">You can't get a pension refund because <strong>you live in the UK, and you worked in Germany before Brexit</strong>. If you leave the UK, you can get a pension refund.</p>
-                    <p v-if="hasFlag('japan-national') && hasFlag('japan-resident')">If you move out of Japan, you can ask for a refund.</p>
-                </div>
+                <p v-if="hasFlag('uk-national') && hasFlag('uk-prebrexit')">You can't get a pension refund because <strong>you are a UK citizen, and you worked in Germany before Brexit</strong>. When you are 67 years old, you can receive a German pension.</p>
+                <p v-if="hasFlag('uk-resident') && hasFlag('uk-prebrexit') && !hasFlag('uk-national')">You can't get a pension refund because <strong>you live in the UK, and you worked in Germany before Brexit</strong>. If you leave the UK, you can get a pension refund.</p>
+                <p v-if="hasFlag('japan-national') && hasFlag('japan-resident')">If you move out of Japan, you can ask for a refund.</p>
             </div>
-        </div>
-        <div v-if="stage === 'reminderConfirmation'">
-            <p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
-        </div>
-        <div v-if="stage === 'partnerSelection'">
-            <p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
-            <div class="form-group">
-                <span class="label">Choose a helper</span>
-                <label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
-                    <input type="radio" name="partner-{% endraw %}{{ id }}{% raw %}" :value="partner" v-model="selectedPartner"/>
-                    <div>
-                        {{ partner.name }}
-                        <br><small>{{ partner.description }}</small>
-                    </div>
-                </label>
-            </div>
-            <hr>
-            <div v-if="selectedPartner.name === 'Do it yourself'">
-                <p>You can apply for a pension refund without help. It's harder, but if you speak German, it's not so bad.</p>
-                <p><strong><a href="https://allaboutberlin.com/guides/pension-payments-refund#do-it-yourself">How to apply without help ➞</a></strong></p>
-            </div>
-            <div v-if="selectedPartner.name !== 'Do it yourself'">
-                <div class="form-group">
-                    <span class="label">Cost estimation</span>
-                    <div>
-                        <p class="price">Your pension refund<output v-html="refundAmountHtml"></output></p>
-                        <p class="price">{{ selectedPartner.name }} fee <output v-html="partnerFeeHtml"></output></p>
-                        <p class="price highlighted">You keep<output v-html="totalAfterFeesHtml"></output></p>
-                    </div>
-                </div>
-                <hr>
-                <button class="button primary submit" @click="setStage('contactInfo')">Continue</button>
-            </div>
-        </div>
-        <div v-if="stage === 'contactInfo'" ref="contactForm">
-            <div class="form-group">
-                <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
-                <div class="input-group">
-                    <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="name">
-                    <span class="input-symbols"></span>
-                </div>
-            </div>
-            <div class="form-group">
-                <label for="email-{% endraw %}{{ id }}{% raw %}">Email</label>
-                <div class="input-group">
-                    <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="email">
-                    <span class="input-symbols"></span>
-                </div>
-            </div>
-            <div class="form-group">
-                <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">Date of birth</label>
-                <div class="input-group">
-                    <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday"></date-picker>
-                    <span class="input-symbols"></span>
-                    <span class="input-instructions">Required by the Deutsche Rentenversicherung</span>
-                </div>
-            </div>
-            <button class="button primary submit" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
-        </div>
-        <div v-if="stage === 'requestConfirmation'">
-            <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
         </div>
     </div>
-</aside>
+    <div v-if="stage === 'reminderConfirmation'">
+        <p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
+    </div>
+    <div v-if="stage === 'partnerSelection'">
+        <p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
+        <div class="form-group">
+            <span class="label">Choose a helper</span>
+            <label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
+                <input type="radio" name="partner-{% endraw %}{{ id }}{% raw %}" :value="partner" v-model="selectedPartner"/>
+                <div>
+                    {{ partner.name }}
+                    <br><small>{{ partner.description }}</small>
+                </div>
+            </label>
+        </div>
+        <hr>
+        <div v-if="selectedPartner.name === 'Do it yourself'">
+            <p>You can apply for a pension refund without help. It's harder, but if you speak German, it's not so bad.</p>
+            <p><strong><a href="https://allaboutberlin.com/guides/pension-payments-refund#do-it-yourself">How to apply without help ➞</a></strong></p>
+        </div>
+        <div v-if="selectedPartner.name !== 'Do it yourself'">
+            <div class="form-group">
+                <span class="label">Cost estimation</span>
+                <div>
+                    <p class="price">Your pension refund<output v-html="refundAmountHtml"></output></p>
+                    <p class="price">{{ selectedPartner.name }} fee <output v-html="partnerFeeHtml"></output></p>
+                    <p class="price highlighted">You keep<output v-html="totalAfterFeesHtml"></output></p>
+                </div>
+            </div>
+            <hr>
+            <button class="button primary submit" @click="setStage('contactInfo')">Continue</button>
+        </div>
+    </div>
+    <div v-if="stage === 'contactInfo'" ref="contactForm">
+        <div class="form-group">
+            <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
+            <div class="input-group">
+                <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="name">
+                <span class="input-symbols"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="email-{% endraw %}{{ id }}{% raw %}">Email</label>
+            <div class="input-group">
+                <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="email">
+                <span class="input-symbols"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">Date of birth</label>
+            <div class="input-group">
+                <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday"></date-picker>
+                <span class="input-symbols"></span>
+                <span class="input-instructions">Required by the Deutsche Rentenversicherung</span>
+            </div>
+        </div>
+        <button class="button primary submit" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
+    </div>
+    <div v-if="stage === 'requestConfirmation'">
+        <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
+    </div>
+</details>
 {% endraw %}
 {% include '/js/utils.js' %}
 {% include '/js/pension-refund-calculator.js' %}
@@ -217,7 +211,6 @@
       el: el,
       data() {
         return {
-          isCollapsed: el.classList.contains('collapsed'),
           stage: 'start',
           nationality: getDefault('nationality', ''),
           sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
