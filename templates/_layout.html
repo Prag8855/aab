@@ -1,48 +1,48 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 <head>
-	<meta charset="utf-8" />
+	<meta charset="utf-8">
 	<title>{% if metatitle|default %}{{ metatitle }}{% if metatitle|length < 50 %} - {% endif %}{% if metatitle|length < 50 %}All About Berlin{% endif %}{% else %}All About Berlin{% endif %}</title>
 	{% if metadescription|default %}<meta name="description" content="{{ metadescription }}">{% endif %}
-	<link rel="home" href="{{ site_url }}" />
-	<link rel="glossary" href="{{ site_url }}/glossary" />
-	<link rel="search" href="{{ site_url }}/search" />
+	<link rel="home" href="{{ site_url }}">
+	<link rel="glossary" href="{{ site_url }}/glossary">
+	<link rel="search" href="{{ site_url }}/search">
 	<link rel="icon" type="image/png" href="/staticimages/favicon.png">
-	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss" />
+	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss">
 	<meta name="color-scheme" content="light dark">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{% block postHead %}
 		{% if entry|default %}
-			<meta property="og:type" content="article"/>
-			<meta property="og:url" content="{{ entry.url }}" />
-			<meta property="og:title" content="{{ entry.title }}" />
-			<meta property="og:description" content="{{ entry.description }}" />
-			<meta property="og:image" content="{{ entry.image_url }}" />
-			<link rel="canonical" href="{{ entry.url }}" />
+			<meta property="og:type" content="article">
+			<meta property="og:url" content="{{ entry.url }}">
+			<meta property="og:title" content="{{ entry.title }}">
+			<meta property="og:description" content="{{ entry.description }}">
+			<meta property="og:image" content="{{ entry.image_url }}">
+			<link rel="canonical" href="{{ entry.url }}">
 		{% else %}
-			<meta property="og:type" content="website"/>
-			<meta property="og:title" content="{{ metatitle }}"/>
-			<meta property="og:description" content="{{ metadescription }}"/>
-			<meta property="og:image" content="{{ site_url }}/staticimages/cover.png" />
+			<meta property="og:type" content="website">
+			<meta property="og:title" content="{{ metatitle }}">
+			<meta property="og:description" content="{{ metadescription }}">
+			<meta property="og:image" content="{{ site_url }}/staticimages/cover.png">
 		{% endif %}
 	{% endblock %}
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
 
 	<script async defer data-api="{{ site_url }}/whoisthere/event" data-domain="allaboutberlin.com" src="{{ site_url }}/whoisthere.js"></script>
 
-	<meta property="og:site_name" content="All About Berlin"/>
-	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:creator" content="@aboutberlin"/>
-	<meta name="twitter:site" content="@aboutberlin"/>
+	<meta property="og:site_name" content="All About Berlin">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@aboutberlin">
+	<meta name="twitter:site" content="@aboutberlin">
 
-	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d" />
-	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b" />
+	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d">
+	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b">
 
 	{% include '/js/events.js' %}
 </head>
 <body class="{{ body_class|default('') }}">
 {% block body %}
-	<header id="main-nav" role="banner" aria-label="Main menu" class="no-print">
+	<header id="main-nav" aria-label="Main menu" class="no-print">
 		<a class="logo" href="{{ site_url }}" rel="home" title="All About Berlin">
 			All About Berlin
 		</a>
@@ -74,7 +74,7 @@
 {% endblock %}
 {% block postFooter %}
 	{% include 'blocks/_tooltip.html' %}
-	<script type="text/javascript">
+	<script>
 		{% alljs %}
 	</script>
 	<script type="application/ld+json">
