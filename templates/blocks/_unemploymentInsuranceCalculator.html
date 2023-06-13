@@ -36,10 +36,8 @@
         </div>
     </div>
     <hr>
-    <div v-if="results">
-        <output class="large" v-html="unemploymentInsuranceAmount"></output>
-        <p v-html="resultsExplanation"></p>
-    </div>
+    <output class="large" v-html="unemploymentInsuranceAmount"></output>
+    <p v-html="resultsExplanation"></p>
 </details>
 {% endraw %}
 {% include '/js/utils.js' %}
