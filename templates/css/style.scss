@@ -1117,48 +1117,59 @@ input[type=range] {
  *
 *******************************************************************************/
 
-.preview{
-    display: grid;
-    grid-template-columns:300px 1fr;
-    grid-gap: var(--m);
+.previews{
+    > li {
+        display: grid;
+        grid-template-columns:300px 1fr;
+        grid-gap: var(--m);
+        margin: 0;
+        padding: 0;
 
-    h3{
-        @include text;
-        hyphens: none;
-        color: var(--c-text-light);
-
-        a{
-            font-weight: bold;
-            display: block;
+        + li{
+            border-top: var(--b-box);
+            margin-top: var(--m);
+            padding-top: var(--m);
         }
-        time{
+
+        h3{
+            @include text;
+            hyphens: none;
+            color: var(--c-text-light);
+
+            a{
+                font-weight: bold;
+                display: block;
+            }
+            time{
+                font-size: var(--f-s);
+            }
+        }
+        p{
+            margin:0;
+        }
+
+        + .preview{
+            margin-top: var(--m);
+            padding-top: var(--m);
+            border-top: var(--b-box);
+        }
+
+        &.document h3, &.document h3 a{
+            white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+        }
+
+        &.guide{
+            grid-template-columns: 1fr;
+            grid-gap: var(--s);
+        }
+
+        @include only-phone{
+            grid-template-columns: 1fr;
+            grid-gap: var(--s);
             font-size: var(--f-s);
         }
     }
-    p{
-        margin:0;
-    }
 
-    + .preview{
-        margin-top: var(--m);
-        padding-top: var(--m);
-        border-top: var(--b-box);
-    }
-
-    &.document h3, &.document h3 a{
-        white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
-    }
-
-    &.guide{
-        grid-template-columns: 1fr;
-        grid-gap: var(--s);
-    }
-
-    @include only-phone{
-        grid-template-columns: 1fr;
-        grid-gap: var(--s);
-        font-size: var(--f-s);
-    }
 }
 
 details{

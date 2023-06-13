@@ -14,12 +14,8 @@
             {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
         </header>
         <div class="section" role="list" aria-label="Guides in this collection"> 
-            {% with showDateUpdated=true %}
-                {% for guide in entry.related_guides|default([]) %}
-                    {% with entry=guide %}
-                        {% include "blocks/_guidePreview.html" %}
-                    {% endwith %}
-                {% endfor %}
+            {% with entries=entry.related_guides|default([]), showDateUpdated=true %}
+                {% include "blocks/_entryPreviews.html" %}
             {% endwith %}
         </div>
     </main>

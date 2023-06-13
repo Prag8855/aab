@@ -14,13 +14,15 @@
 {% endblock %}
 
 {% block content %}
+	<ol class="previews">
 	{% for document in get_entries('docs', sort_by='german_term') %}
-		<div class="preview document">
+		<li class="document">
 			<h3>
 				<a title="{{ document.german_term }}" rel="bookmark" href="{{ document.url }}" lang="de">{{ document.german_term }}</a>
 				{{ document.english_term }}
 			</h3>
 			<p>{{ document.description }}</p>
-		</div>
+		</li>
 	{% endfor %}
+	</ol>
 {% endblock %}

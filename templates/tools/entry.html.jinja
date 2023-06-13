@@ -1,7 +1,6 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
-{% set related_guides = entry.related_guides|default([]) %}
 
 {% block postHead %}
     {{ super() }}
@@ -23,20 +22,11 @@
     {% with pageType='tool' %}
         {% include "blocks/_donationPrompt.html" %}
     {% endwith %}
-    <aside class="section footer-notice">
+    <aside class="section">
         <p>
             <strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
         </p>
     </aside>
-
-    {% if related_guides|length %}
-        <aside class="section" role="list" id="related">
-            <h2>Related guides</h2>
-            {% for entry in related_guides.all() %}
-                {% include "blocks/_guidePreview.html" %}
-            {% endfor %}
-        </aside>
-    {% endif %}
 {% endblock %}
 
 {% block postFooter %}
