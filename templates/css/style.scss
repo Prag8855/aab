@@ -122,6 +122,9 @@
     border: var(--b-box);
     border-radius: var(--b-radius);
     display: block;
+
+    > :first-child{margin-top: 0;}
+    > :last-child{margin-bottom: 0;}
 }
 
 @mixin box-l{
@@ -527,11 +530,23 @@ main{
     }
 
     .collections{
+        margin-bottom: calc(var(--m) * -1);
+
         .collection{
             @include box-l;
+            box-shadow: var(--shadow-s);
 
             width: calc(50% - var(--m) / 2);
             box-sizing: border-box;
+            text-align: left;
+
+            background: var(--c-bg-page);
+
+            margin: 0 0 var(--m);
+
+            h3{
+                margin-top: 0
+            }
 
             .current{
                 @include text-bold;
@@ -539,6 +554,7 @@ main{
 
             li {
                 list-style: '-';
+                font-size: var(--f-s);
             }
         }
     }
