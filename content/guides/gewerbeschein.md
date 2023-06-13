@@ -11,6 +11,8 @@ When you [start a business in Germany](/guides/start-a-business-in-germany), you
 
 You can do this online. It takes around 1 hour and costs 15 to 26€. It's only in German, but it's very easy.
 
+{% include "blocks/_tableOfContents.html" %}
+
 ## Who needs a Gewerbeschein?
 
 Anyone who must to pay the trade tax (*[[Gewerbesteuer]]*). [Freelancers](/glossary/Freiberufler) and [small businesses](/glossary/Kleinunternehmer) do not pay the trade tax.
