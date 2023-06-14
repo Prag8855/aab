@@ -616,8 +616,8 @@ main{
         }
     }
 
-    @include only-phone{
-        > :first-child{
+    @include not-desktop{
+        > .section:first-child{
             margin-top: calc(var(--m) * -1);
         }
     }
