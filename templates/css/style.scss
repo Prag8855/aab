@@ -54,7 +54,7 @@
     --c-text-link: #00e;
     --c-text-link-visited: #61a;
     --c-text-selection: #fd6;
-    --c-bg-input: #fff;
+    --c-bg-input: var(--c-bg-page);
     --c-bg-website: #f9f9f9;
     --c-bg-page: #fff;
     --c-bg-widget: #00000009;
@@ -97,44 +97,26 @@
 @media (prefers-color-scheme: dark) {
     :root{
         --c-highlight: #9f3a2b;
-        --c-text: #444; // TODO
-        --c-text-light: #777; // TODO
-        --c-text-heading: #fff;
+        --c-text: #bbb;
+        --c-text-light: #999;
+        --c-text-heading: #ddd;
         --c-text-link: #bbf;
         --c-text-link-visited: #a9d;
         --c-text-selection: #550;
-        --c-bg-input: #fff; // TODO
-        --c-bg-website: #f9f9f9;
-        --c-bg-page: #fff; // TODO
-        --c-bg-widget: #00000009; // TODO
-        --c-bg-widget-opaque: #f6f6f6;  // TODO
+        --c-bg-website: #111;
+        --c-bg-page: #222;
+        --c-bg-widget: #ffffff0c;
+        --c-bg-widget-opaque: #2c2c2c;
         --c-bg-image: var(--c-bg-widget);
-        --c-border-box: #0002;  // TODO
-        --c-border-input: #0005;  // TODO
-        --c-border-input-focused: #000a;  // TODO
+        --c-border-box: #fff3;
+        --c-border-input: #fff3;
+        --c-border-input-focused: #fffa;
 
-        --c-border-hint: #0004; // TODO
-        --c-border-hint-hover: #0007; // TODO
+        --c-border-hint: #fff7;
+        --c-border-hint-hover: #fffc;
 
         --c-bg-clickable: transparent;
         --c-bg-clickable-hover: #0001;
-
-        --shadow-l: none;
-        --shadow-s: none;
-
-        --color-base-00:#222;
-        --color-base-01:#111;
-        --color-base-02:#1b1b1b;
-        --color-base-03:#444;
-        --color-base-03-end:#444f;
-
-        --color-border-00:#444;
-        --color-border-01:#666;
-        --color-border-02:#999;
-
-        --color-text-00:#ddd;
-        --color-text-01:#bbb;
-        --color-text-02:#aaa;
     }
 }
 
