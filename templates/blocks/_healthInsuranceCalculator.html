@@ -4,7 +4,7 @@
         Health insurance calculator
     </summary>
 {% raw %}
-    <div v-show="!showOptions">
+    <div v-show="stage === 'start'">
         <div class="range-input">
             <label for="range-income-{% endraw %}{{ id }}{% raw %}">
                 <strong v-html="eur(income)"></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}
@@ -146,9 +146,11 @@
             </summary>
             <p v-html="totalCostExplanation"></p>
         </details>
-        <button class="button primary no-print" @click="showInsuranceOptions">Show insurance options</button>
+        <div class="buttons">
+            <button class="button primary no-print" @click="showInsuranceOptions">Show insurance options</button>
+        </div>
     </div>
-    <div v-show="showOptions">
+    <div v-if="stage === 'insuranceOptions'">
         <div v-if="result.flags.has('familienversicherung-parents') || result.flags.has('familienversicherung-spouse') || occupation === 'unemployed' || result.flags.has('ehic')">
             <h3>Free health insurance</h3>
             <p>In your case, there are ways to get insured for free.</p>
@@ -182,80 +184,92 @@
         </div>
         <h3>Public health insurance</h3>
         <p>You can get <a href="/glossary/gesetzliche Krankenversicherung" target="_blank">public health insurance</a>. There are many <a href="/glossary/Krankenkasse" target="_blank">public health insurers</a> to choose from. Their price and coverage is almost the same.</p>
-        <ul class="health-insurance-options">
-            <li>
+        <div class="health-insurance-options">
+            <a title="Sign up with Techniker Krankenkasse" :href="result.tarif === 'student' ? '/out/tk-calc-students' : '/out/tk-calc'" target="_blank">
                 {% endraw %}{% include "css/icons/health-insurance/logo-tk.svg" %}{% raw %}
                 <div>
                     <h3>Techniker Krankenkasse</h3>
                     <p>The largest health insurer in Germany. They have English-speaking support.</p>
                 </div>
-                <a target="_blank" v-if="result.tarif !== 'student'" title="Sign up with Techniker Krankenkasse" role="button" class="button primary" href="https://allaboutberlin.com/out/tk-calc"><output v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
-                <a target="_blank" v-if="result.tarif === 'student'" title="Sign up with Techniker Krankenkasse" role="button" class="button primary" href="https://allaboutberlin.com/out/tk-calc-students"><output v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
-            </li>
-            <li>
+                <output><span v-html="eur(result.options.tk.total.personalContribution, false, true, false)"></span> <small>per month</small></output>
+            </a>
+            <a title="Sign up with BARMER" href="/out/barmer-calc" target="_blank">
                 {% endraw %}{% include "css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
                 <div>
                     <h3>Barmer</h3>
                     <p>The second largest public health insurer. They have an English-speaking Expat Hub.</p>
                 </div>
-                <a target="_blank" title="Sign up with BARMER" role="button" class="button primary" href="https://allaboutberlin.com/out/barmer-calc"><output v-html="eur(result.options.barmer.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
-            </li>
-            <li>
+                <output><span v-html="eur(result.options.barmer.total.personalContribution, false, true, false)"></span> <small>per month</small></output>
+            </a>
+            <a title="Sign up with AOK" href="/out/aok-calc" target="_blank">
                 {% endraw %}{% include "css/icons/health-insurance/logo-aok.svg" %}{% raw %}
                 <div>
                     <h3>AOK (Nordost)</h3>
                     <p>Another large public health insurer. There are different AOK branches for each part of Germany.</p>
                 </div>
-                <a target="_blank" title="Sign up with AOK" role="button" class="button primary" href="https://allaboutberlin.com/out/aok-calc"><output v-html="eur(result.options.aok.total.personalContribution, false, true, false)"></output> <small class="no-mobile">/ month</small></a>
-            </li>
-        </ul>
+                <output><span v-html="eur(result.options.aok.total.personalContribution, false, true, false)"></span> <small>per month</small></output>
+            </a>
+        </div>
         <div v-if="result.flags.has('private')">
             <h3>Private health insurance</h3>
-            <p>You can also get <a href="/glossary/private Krankenversicherung" target="_blank">private health insurance</a>. It can be better and cheaper than public health insurance. The price and coverage vary a lot.</p>
-            <ul class="health-insurance-options">
-                <li>
+            <p>You can also get <a href="/glossary/private Krankenversicherung" target="_blank">private health insurance</a>. It can be better and cheaper than public health insurance. Don't choose private health insurance without help. You can make expensive mistakes.</p>
+            <div class="health-insurance-options">
+                <a @click.prevent="showBrokerOptions()" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
                     {% endraw %}{% include "css/icons/help.svg" %}{% raw %}
                     <div>
-                        <h3>Talk to a broker</h3>
-                        <p>A health insurance broker can help you choose the best insurance for your situation. It's the best way to get private health insurance. Their help is free.</p>
+                        <h3>Ask a health insurance broker</h3>
+                        <p>They help you choose the right insurance for your situation. Their help is free.</p>
                     </div>
-                    <a class="button primary" target="_blank" href="https://allaboutberlin.com/guides/german-health-insurance#insurance-brokers">Talk to a broker</a>
-                </li>
-                <li>
-                    {% endraw %}{% include "css/icons/health-insurance/logo-tarifcheck.svg" %}{% raw %}
-                    <div>
-                        <h3>Tarifcheck</h3>
-                        <p>Tarifcheck compares private health insurance prices. It only shows you the prices; it does not help you make a good choice. Talk to a broker instead.</p>
-                    </div>
-                    <a class="button primary" target="_blank" href="https://allaboutberlin.com/out/tarifcheck-calc">Compare prices</a>
-                </li>
-                <li>
-                    {% endraw %}{% include "css/icons/health-insurance/logo-feather.svg" %}{% raw %}
-                    <div>
-                        <h3>Feather</h3>
-                        <p>Feather sells public and private health insurance. They speak English, and they have a lot of experience with expats.</p>
-                    </div>
-                    <a class="button" target="_blank" href="https://allaboutberlin.com/out/feather-calc">Get a quote</a>
-                </li>
-                <li>
-                    {% endraw %}{% include "css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
-                    <div>
-                        <h3>Ottonova</h3>
-                        <p>Ottonova is a private health insurer. They speak English.</p>
-                    </div>
-                    <a class="button" target="_blank" href="https://allaboutberlin.com/out/ottonova-calc">Visit website</a>
-                </li>
-                <li v-if="result.flags.has('ksk')">
+                </a>
+                <a title="Learn more about the KSK" v-if="result.flags.has('ksk')" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
                     {% endraw %}{% include "css/icons/liability.svg" %}{% raw %}
                     <div>
-                        <h3>Künstlersozialkasse (KSK)</h3>
+                        <h3>Join the Künstlersozialkasse (KSK)</h3>
                         <p>If you are a freelance artist or publicist, you can join the KSK. The KSK pays half of your health insurance.</p>
                     </div>
-                    <a class="button" target="_blank" href="https://allaboutberlin.com/guides/ksk-kuenstlersozialkasse">More info</a>
-                </li>
-            </ul>
+                </a>
+                <a title="Get a quote from Ottonova" href="/out/ottonova-calc" target="_blank">
+                    {% endraw %}{% include "css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
+                    <div>
+                        <h3>Get a quote from Ottonova</h3>
+                        <p>Ottonova is a private health insurer. They speak English.</p>
+                    </div>
+                </a>
+            </div>
         </div>
-        <button class="button" @click="hideInsuranceOptions">Back to calculator</button>
+        <div class="buttons left">
+            <button class="button" @click="hideInsuranceOptions">Back to calculator</button>
+        </div>
+    </div>
+    <div v-if="stage === 'brokerOptions'">
+        <h3>Choose a broker</h3>
+        <p>A broker can help you choose between hundreds of insurance options. It's the safest way to choose health insurance.</p>
+        <div class="health-insurance-options">
+            <a title="Get a quote from Feather" href="/out/feather-calc" target="_blank">
+                {% endraw %}{% include "css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+                <div>
+                    <h3>Feather Insurance</h3>
+                    <p>They are fast and fully digital, but they have a smaller choice of insurances. I have health insurance with Feather, and I work with them since 2018.</p>
+                </div>
+            </a>
+            <a title="Get a quote from Muffin" href="/out/muffin-health" target="_blank">
+                {% endraw %}{% include "css/icons/health-insurance/logo-muffin.svg" %}{% raw %}
+                <div>
+                    <h3>Muffin</h3>
+                    <p>A newer insurance broker. They have more choice than Feather. They are fully digital; you can even talk to them on WhatsApp.</p>
+                </div>
+            </a>
+            <a title="Get a quote from Tarifcheck" href="/out/tarifcheck-calc" target="_blank">
+                {% endraw %}{% include "css/icons/health-insurance/logo-tarifcheck.svg" %}{% raw %}
+                <div>
+                    <h3>Tarifcheck</h3>
+                    <p>Enter information about you, and get a call from a broker. You might get a broker that never worked with immigrants.</p>
+                </div>
+            </a>
+        </div>
+        <div class="buttons left">
+            <button class="button" @click="hideBrokerOptions">Back to options</button>
+        </div>
     </div>
 {% endraw %}
 </details>
@@ -273,8 +287,9 @@
           hasChildren: getDefaultNumber('childrenCount') > 0,
           income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
           age: getDefaultNumber('age'),
-          showOptions: false,
-          hasShownOptions: false,
+          stage: 'start',
+          hasShownInsuranceOptions: false,
+          hasShownBrokerOptions: false,
           useMonthlyIncome: getDefaultBoolean('useMonthlyIncome'),
         }
       },
@@ -447,17 +462,34 @@
         incrementIncome() { this.income = Math.min(this.income + this.incomeInputRange.step, this.incomeInputRange.max) },
         decrementIncome() { this.income = Math.max(this.income - this.incomeInputRange.step, this.incomeInputRange.min) },
         showInsuranceOptions() {
-          if(!this.hasShownOptions) {
-            plausible('Health insurance calculator', { props: { stage: 'options' }});
+          this.stage = 'insuranceOptions';
+          this.hasShownInsuranceOptions = true;
+          Vue.nextTick(() => {
+            scrollIntoViewIfNeeded(this.$refs.collapsible);
+          });
+
+          if(!this.hasShownInsuranceOptions) {
+            plausible('Health insurance calculator', { props: { stage: this.stage }});
           }
-          this.showOptions = true;
-          this.hasShownOptions = true;
+        },
+        hideInsuranceOptions: function() {
+          this.stage = 'start';
           Vue.nextTick(() => {
             scrollIntoViewIfNeeded(this.$refs.collapsible);
           });
         },
-        hideInsuranceOptions: function() {
-          this.showOptions = false;
+        showBrokerOptions: function() {
+          this.stage = 'brokerOptions';
+          Vue.nextTick(() => {
+            scrollIntoViewIfNeeded(this.$refs.collapsible);
+          });
+
+          if(!this.hasShownBrokerOptions) {
+            plausible('Health insurance calculator', { props: { stage: this.stage }});
+          }
+        },
+        hideBrokerOptions: function() {
+          this.stage = 'insuranceOptions';
           Vue.nextTick(() => {
             scrollIntoViewIfNeeded(this.$refs.collapsible);
           });

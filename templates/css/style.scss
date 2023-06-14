@@ -765,7 +765,10 @@ strong, b{
     @include text-bold;
 }
 em, i{font-style:italic}
-small{font-size: var(--f-s);}
+small{
+    font-size: var(--f-s);
+    @include text;
+}
 
 a {
     cursor: pointer;
@@ -1228,6 +1231,18 @@ input[type=range] {
         background: var(--c-bg-page);
     }
 }
+.buttons{
+    @include text-block;
+    display: flex;
+    gap: var(--m);
+    justify-content: center;
+    &.left{
+        justify-content: flex-start;
+    }
+    &.right{
+        justify-content: flex-end;
+    }
+}
 
 .form-group{
     display: grid;
@@ -1633,19 +1648,28 @@ details{
     }
 }
 
+.health-insurance-calculator .buttons{margin-bottom: 0}
 .health-insurance-options{
-    > li{
-        list-style: none;
+    @include text-block;
+    margin-bottom: var(--xl-relative);
+
+    > a {
+        @include box-clickable;
+    }
+
+    > * {
         @include box-m;
+        list-style: none;
         margin: 0;
+
         display: grid;
-        grid-template-columns: var(--w-img-logo) 1fr auto;
+        grid-template-columns: var(--w-img-logo) 1fr;
+        grid-auto-flow: column;
+        grid-auto-columns: 6.5rem; // Price .output
         grid-gap: var(--l-relative);
         align-items: center;
 
-        line-height: var(--line-height-label);
-
-        + li{
+        + *{
             margin-top: var(--m);
         }
 
@@ -1657,16 +1681,26 @@ details{
 
         h3{
             @include text;
-            font-weight: bold;
+            @include text-bold;
         }
 
         p{
             margin: 0;
-            font-size: var(--f-s);
         }
 
         output{
-            font-weight: bold;
+            padding: var(--m);
+            background: var(--c-bg-widget);
+            border-radius: var(--b-radius);
+            text-align: center;
+            span{
+                @include heading;
+                font-size: var(--xl);
+            }
+            small{
+                font-size: var(--f-s);
+                display: block;
+            }
         }
     }
 }
