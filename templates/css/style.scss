@@ -147,7 +147,6 @@
 @mixin box{
     border: var(--b-box);
     border-radius: var(--b-radius);
-    display: block;
 
     > :first-child{margin-top: 0;}
     > :last-child{margin-bottom: 0;}
@@ -626,6 +625,7 @@ main{
         color: var(--c-border-clickable);
         &:hover{
             color: var(--c-border-clickable-hover);
+            cursor: pointer;
         }
         .icon{
             display: block;
@@ -1380,7 +1380,7 @@ details{
             max-width: 100%;
             width: 300px;
             height: auto;
-            background: #fff;
+            background: var(--c-bg-page);
             margin: var(--m) auto 0 auto;
             border: var(--b-box);
             box-shadow: var(--shadow-l);
