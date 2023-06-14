@@ -36,6 +36,8 @@
     --h-icon-l: 3.5rem;
     --w-checkbox: var(--l);
     --w-img-bio-s: 75px;
+    --w-img-logo: 100px;
+    --h-img-logo: 75px;
     --w-icon-s: var(--xl-relative);
     --w-label-column: 10rem;
     --w-logo: 21px;
@@ -1632,8 +1634,40 @@ details{
 }
 
 .health-insurance-options{
-    > div{
-        @include box-l;
+    > li{
+        list-style: none;
+        @include box-m;
+        margin: 0;
+        display: grid;
+        grid-template-columns: var(--w-img-logo) 1fr auto;
+        grid-gap: var(--l-relative);
+        align-items: center;
+
+        line-height: var(--line-height-label);
+
+        + li{
+            margin-top: var(--m);
+        }
+
+        svg{
+            max-width: 100%;
+            height: var(--h-img-logo);
+            margin:0 auto;
+        }
+
+        h3{
+            @include text;
+            font-weight: bold;
+        }
+
+        p{
+            margin: 0;
+            font-size: var(--f-s);
+        }
+
+        output{
+            font-weight: bold;
+        }
     }
 }
 
