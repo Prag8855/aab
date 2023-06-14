@@ -3,7 +3,10 @@ Title: How to join the Künstlersozialkasse (KSK)
 Short_title: How to join the KSK
 Description: This guide shows you how to apply for the Künstlersozialkasse. If you are a freelancer, this can save you hundreds of euros per month.
 Date_created: 2022-06-06
-Related_reviews: reviews/ksk-kuenstlersozialkasse/kathleen-parker.md, reviews/ksk-kuenstlersozialkasse/alex-holz.md, reviews/ksk-kuenstlersozialkasse/sebastian-hoffmann.md
+Related_reviews:
+    reviews/ksk-kuenstlersozialkasse/kathleen-parker.md
+    reviews/ksk-kuenstlersozialkasse/alex-holz.md
+    reviews/ksk-kuenstlersozialkasse/sebastian-hoffmann.md
 ---
 
 If you are a freelance artist, publicist or art teacher, you should apply for the Künstlersozialkasse (KSK). This guide explains how and why.
@@ -54,14 +57,14 @@ So when you are in the KSK, you save ~9.35% of your income on health insurance, 
 
 In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
 
-| Income<br>per year | Normal cost<br>Health insurance only | KSK member cost<br>Health insurance + pension |
+| Income<br><small>per year</small> | Normal cost<br><small>Health insurance only</small> | KSK member cost<br><small>Health insurance + pension</small> |
 |---|---|---|
-| 15,000€ / year | 230€ / month | 230€ / month |
-| 25,000€ / year | 390€ / month | 385€ / month |
-| 35,000€ / year | 545€ / month | 540€ / month |
-| 45,000€ / year | 700€ / month | 695€ / month |
-| 55,000€ / year | 850€ / month | 850€ / month |
-| 70,000€ / year | 900€ / month | 990€ / month |
+| 15,000€ <br><small>per year</small> | 230€ <br><small>per month</small> | 230€ <br><small>per month</small> |
+| 25,000€ <br><small>per year</small> | 390€ <br><small>per month</small> | 385€ <br><small>per month</small> |
+| 35,000€ <br><small>per year</small> | 545€ <br><small>per month</small> | 540€ <br><small>per month</small> |
+| 45,000€ <br><small>per year</small> | 700€ <br><small>per month</small> | 695€ <br><small>per month</small> |
+| 55,000€ <br><small>per year</small> | 850€ <br><small>per month</small> | 850€ <br><small>per month</small> |
+| 70,000€ <br><small>per year</small> | 900€ <br><small>per month</small> | 990€ <br><small>per month</small> |
 | Over {{BEITRAGSBEMESSUNGSGRENZE_WEST|cur}}€ / year | 900€ / month | 1,075€ / month |
 
 **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you pay a bit more. You pay up to 175€ per month more, but you contribute up to 1,311€ per month to your public pension. This is the best pension plan you can find.

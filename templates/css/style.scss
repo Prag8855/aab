@@ -800,6 +800,8 @@ sup:target a{
 }
 
 .article-body{
+    > :last-child{margin-bottom: 0}
+
     > * + h2{
         border-top: var(--b-box);
         padding-top: var(--xxxl);
@@ -881,9 +883,38 @@ sup:target a{
         overflow:auto
     }
 
-    .footnote-ref{
-        margin-left:2px;
-        color: var(--c-text-light);
+    .table-wrapper{
+        overflow-x: auto;
+        margin-right: calc(var(--w-page-border) * -1);
+        padding-right: var(--w-page-border);
+        mask: linear-gradient(90deg, #fff, #fff calc(100% - var(--w-page-border)), transparent)
+    }
+    table {
+        font-size:var(--f-s);
+        margin: var(--spacing-text-block-m) 0;
+
+        tr:last-child td{
+            border-bottom:var(--b-box);
+        }
+
+        td, th{
+            padding: var(--xs) var(--s);
+            line-height: var(--line-height-label);
+            border:var(--b-box);
+
+            &:first-child{border-left:var(--b-box)}
+            &:last-child{border-left:var(--b-box)}
+        }
+
+        th{
+            @include text-bold;
+            text-align: left;
+            background: var(--c-bg-widget);
+
+            small{
+                font-weight:normal;
+            }
+        }
     }
 
     .table-of-contents{
@@ -897,11 +928,18 @@ sup:target a{
 
         .expand{
             margin-left: var(--s);
+            @include only-phone{
+                float:right
+            }
         }
     }
 
-    > :last-child{margin-bottom: 0}
 
+
+    .footnote-ref{
+        margin-left:2px;
+        color: var(--c-text-light);
+    }
     #footnotes{
         margin-top: var(--xxxl);
         padding-top: var(--xl);
@@ -1004,7 +1042,7 @@ input:not([type=range]), textarea, select, .toggle{
         }
 
         &:checked:after{
-            color:var(--c-text-header);
+            color:var(--c-text-heading);
         }
     }
 
