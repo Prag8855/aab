@@ -14,63 +14,87 @@
 				This is the start of a great adventure! Let's get you ready for it.
 			</p>
 		</div>
-		<div class="intersection">
-			<div class="guide-buttons">
-				<a title="How to move to Berlin" href="{{site_url}}/guides/moving-to-berlin">
-					{% include "css/icons/moving.svg" %}
-					<span>How to <strong>move to Berlin</strong></span>
-				</a>
-				<a title="How to find a job in Berlin" href="{{site_url}}/guides/find-a-job-in-berlin">
-					{% include "css/icons/job.svg" %}
-					<span>How to <strong>find a job</strong></span>
-				</a>
-				<a title="How to start a business in Germany" href="{{site_url}}/guides/start-a-business-in-germany">
-					{% include "css/icons/business.svg" %}
-					<span>How to <strong>start a business</strong></span>
-				</a>
-			</div>
+		<nav class="intersection">
+			<ul class="guide-buttons">
+				<li>
+					<a title="How to move to Berlin" href="{{site_url}}/guides/moving-to-berlin">
+						{% include "css/icons/moving.svg" %}
+						<span>How to <strong>move to Berlin</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="How to find a job in Berlin" href="{{site_url}}/guides/find-a-job-in-berlin">
+						{% include "css/icons/job.svg" %}
+						<span>How to <strong>find a job</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="How to start a business in Germany" href="{{site_url}}/guides/start-a-business-in-germany">
+						{% include "css/icons/business.svg" %}
+						<span>How to <strong>start a business</strong></span>
+					</a>
+				</li>
+			</ul>
 			<h3>What do you need?</h3>
-			<div class="guide-buttons">
-				<a title="How to find an apartment in Berlin" href="{{site_url}}/guides/find-a-flat-in-berlin">
-					{% include "css/icons/apartment.svg" %}
-					<span>An <strong>apartment</strong></span>
-				</a>
-				<a title="How to register your address in Berlin" href="{{site_url}}/guides/anmeldung-in-english-berlin">
-					{% include "css/icons/anmeldung.svg" %}
-					<span>An <strong>Anmeldung</strong></span>
-				</a>
-				<a title="Best bank account in Germany" href="{{site_url}}/guides/first-bank-account-in-germany">
-					{% include "css/icons/bank.svg" %}
-					<span>A <strong>bank account</strong></span>
-				</a>
-				<a title="How to choose German health insurance" href="{{site_url}}/guides/german-health-insurance">
-					{% include "css/icons/health.svg" %}
-					<span><strong>Health insurance</strong></span>
-				</a>
-				<a title="What is liability insurance?" href="{{site_url}}/guides/haftpflichtversicherung">
-					{% include "css/icons/liability.svg" %}
-					<span><strong>Liability insurance</strong></span>
-				</a>
-				<a title="How to get a free Schufa" href="{{site_url}}/guides/free-schufa-berlin">
-					{% include "css/icons/schufa.svg" %}
-					<span>A <strong>Schufa</strong></span>
-				</a>
-				<a title="" href="{{site_url}}/guides/bicycle-in-berlin">
-					{% include "css/icons/bicycle.svg" %}
-					<span>A <strong>bicycle</strong></span>
-				</a>
-				<a title="" href="{{site_url}}/guides/buying-used-car-in-germany">
-					{% include "css/icons/car.svg" %}
-					<span>A <strong>vehicle</strong></span>
-				</a>
-				<a title="What is liability insurance?" href="{{site_url}}/guides/questions-about-berlin">
-					{% include "css/icons/help.svg" %}
-					<span>Professional <strong>help</strong></span>
-				</a>
-			</div>
+			<ul class="guide-buttons">
+				<li>
+					<a title="How to find an apartment in Berlin" href="{{site_url}}/guides/find-a-flat-in-berlin">
+						{% include "css/icons/apartment.svg" %}
+						<span>An <strong>apartment</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="How to register your address in Berlin" href="{{site_url}}/guides/anmeldung-in-english-berlin">
+						{% include "css/icons/anmeldung.svg" %}
+						<span>An <strong>Anmeldung</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="Best bank account in Germany" href="{{site_url}}/guides/first-bank-account-in-germany">
+						{% include "css/icons/bank.svg" %}
+						<span>A <strong>bank account</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="How to choose German health insurance" href="{{site_url}}/guides/german-health-insurance">
+						{% include "css/icons/health.svg" %}
+						<span><strong>Health insurance</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="What is liability insurance?" href="{{site_url}}/guides/haftpflichtversicherung">
+						{% include "css/icons/liability.svg" %}
+						<span><strong>Liability insurance</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="How to get a free Schufa" href="{{site_url}}/guides/free-schufa-berlin">
+						{% include "css/icons/schufa.svg" %}
+						<span>A <strong>Schufa</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="" href="{{site_url}}/guides/bicycle-in-berlin">
+						{% include "css/icons/bicycle.svg" %}
+						<span>A <strong>bicycle</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="" href="{{site_url}}/guides/buying-used-car-in-germany">
+						{% include "css/icons/car.svg" %}
+						<span>A <strong>vehicle</strong></span>
+					</a>
+				</li>
+				<li>
+					<a title="What is liability insurance?" href="{{site_url}}/guides/questions-about-berlin">
+						{% include "css/icons/help.svg" %}
+						<span>Professional <strong>help</strong></span>
+					</a>
+				</li>
+			</ul>
 			<p>
 				<a class="button" href="{{ site_url }}/guides">See all guides</a>
 			</p>
-		</div>
+		</nav>
 	</main>
 {% endblock %}

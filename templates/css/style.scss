@@ -1582,6 +1582,7 @@ details{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: var(--m);
     text-align: center;
+    margin: 0;
 
     svg{
         display: block;
@@ -1590,12 +1591,22 @@ details{
         margin:0 auto var(--xs);
     }
 
-    > a{
-        @include box-m;
-        @include box-clickable;
+    > li {
         text-align: center;
         line-height: var(--line-height-label);
-        background: var(--c-bg-page)
+        background: var(--c-bg-page);
+        display: block;
+        padding:0;
+        margin:0;
+
+        > a{
+            @include box-m;
+            @include box-clickable;
+            display: block;
+            box-sizing:border-box;
+            width: 100%;
+            height: 100%;
+        }
     }
 }
 
