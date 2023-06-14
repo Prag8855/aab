@@ -147,7 +147,7 @@
             <p v-html="totalCostExplanation"></p>
         </details>
         <div class="buttons">
-            <button class="button primary no-print" @click="showInsuranceOptions">Show insurance options</button>
+            <button class="button primary no-print" @click="showInsuranceOptions">Show insurance options <i class="icon right"></i></button>
         </div>
     </div>
     <div v-if="stage === 'insuranceOptions'">
@@ -238,7 +238,7 @@
             </div>
         </div>
         <div class="buttons left">
-            <button class="button" @click="hideInsuranceOptions">Back to calculator</button>
+            <button class="button" @click="hideInsuranceOptions"><i class="icon left"></i> Back to calculator</button>
         </div>
     </div>
     <div v-if="stage === 'brokerOptions'">
@@ -268,7 +268,7 @@
             </a>
         </div>
         <div class="buttons left">
-            <button class="button" @click="hideBrokerOptions">Back to options</button>
+            <button class="button" @click="hideBrokerOptions"><i class="icon left"></i> Back to options</button>
         </div>
     </div>
 {% endraw %}
