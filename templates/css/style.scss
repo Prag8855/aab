@@ -564,10 +564,7 @@ main{
         margin-bottom: calc(var(--m) * -1);
 
         .collection{
-            @include box-l;
-            box-shadow: var(--shadow-s);
-
-            width: calc(50% - var(--m) / 2);
+            width: calc(50% - 30px / 2);
             box-sizing: border-box;
             text-align: left;
 
@@ -576,11 +573,21 @@ main{
             margin: 0 0 var(--m);
 
             h3{
-                margin-top: 0
+                margin: 0 0 var(--m);
+                padding: 0 0 var(--m);
+                border-bottom: var(--b-box);
+
+                a{
+                    color: var(--c-text-heading)
+                }
             }
 
             .current{
                 @include text-bold;
+            }
+
+            ul {
+                margin: var(--m) 0 0;
             }
 
             li {

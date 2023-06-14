@@ -3,7 +3,7 @@
 new Masonry(document.querySelector('.collections'), {
     itemSelector: '.collection',
     percentPosition: true,
-    gutter: 15,
+    gutter: 30,
     transitionDuration: 0,
 });
 {% endjs %}

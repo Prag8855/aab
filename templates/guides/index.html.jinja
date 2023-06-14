@@ -15,7 +15,7 @@
             {% include "blocks/_searchForm.html" %}
         {% endwith %}
 	</header>
-	<section class="intersection" aria-label="Guide collections">
+	<section class="section" aria-label="Guide collections">
 		{% with currentEntry=null, collections=get_entries('collections', sort_by='order') %}
 			{% include "blocks/_collections.html" %}
 		{% endwith %}
