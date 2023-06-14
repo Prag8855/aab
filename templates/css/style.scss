@@ -1598,7 +1598,7 @@ details{
 
 .income-tax-calculator {
     details:not(.total) + details.total{
-        margin-top: var(--m);
+        margin-top: var(--l-relative);
     }
 }
 
