@@ -1200,6 +1200,10 @@ output.large{
     display: block;
 }
 
+input[name="username"]{  // Honeypot
+    display:none!important
+}
+
 /*******************************************************************************
  * 
  * COMPONENTS
