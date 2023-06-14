@@ -179,7 +179,7 @@
 @mixin box-s{
     // Buttons
     @include box;
-    padding: var(--xs) var(--m);
+    padding: var(--s) var(--m);
     background: transparent;
 }
 
@@ -1086,6 +1086,9 @@ select{
 
 label.checkbox{
     display: flex;
+    input{
+        flex-shrink: 0;
+    }
     input + *{
         margin-left: var(--s);
     }
@@ -1713,6 +1716,38 @@ details{
 .income-tax-calculator {
     details:not(.total) + details.total{
         margin-top: var(--l-relative);
+    }
+}
+
+.appointment-finder {
+    h3{
+        margin: 0 0 var(--m);
+    }
+    p{
+        @include text-block-compact;
+    }
+    .appointments {
+        .icon{
+            grid-row-end:span 2;
+        }
+        time{
+            grid-column-start: 2;
+            font-size: var(--f-s);
+        }
+        > * {
+            @include box-s;
+            @include box-clickable;
+            display: grid;
+            align-items: center;
+            grid-column-gap: var(--m);
+            grid-template-columns:auto 1fr;
+        }
+        > * + * {
+            margin-top: var(--s);
+        }
+        + .timer{
+            margin-bottom:var(--s);
+        }
     }
 }
 
