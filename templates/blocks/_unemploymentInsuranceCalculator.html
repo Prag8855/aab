@@ -85,7 +85,7 @@
               return "You are unemployed, so you don't pay unemployment insurance.";
             }
             else if(f.has('minijob')) {
-              return `You earn less than ${formatCurrency(taxes.maxMinijobIncome, false, '€', true)} per month. When you have a <a href="https://allaboutberlin.com/glossary/Minijob" target="_blank">minijob</a>, you don't pay unemployment insurance.`;
+              return `You earn less than ${formatCurrency(taxes.maxMinijobIncome, false, '€', true)} per month. When you have a <a href="/glossary/Minijob" target="_blank">minijob</a>, you don't pay unemployment insurance.`;
             }
           }
           else if(f.has('optional')) {
@@ -93,7 +93,7 @@
           }
           else {
             if(f.has('max-contribution')) {
-              return `You earn more than ${formatCurrency(this.beitragsbemessungsgrenze / 12, false, '€', true)} per month (the <a href="https://allaboutberlin.com/glossary/Beitragsbemessungsgrenze" target="_blank"><em>Beitragsbemessungsgrenze</em></a>), so you pay the maximum amount: ${taxes.arbeitslosenversicherungRate * 100}% of ${formatCurrency(this.beitragsbemessungsgrenze / 12, false)}.`;
+              return `You earn more than ${formatCurrency(this.beitragsbemessungsgrenze / 12, false, '€', true)} per month (the <a href="/glossary/Beitragsbemessungsgrenze" target="_blank"><em>Beitragsbemessungsgrenze</em></a>), so you pay the maximum amount: ${taxes.arbeitslosenversicherungRate * 100}% of ${formatCurrency(this.beitragsbemessungsgrenze / 12, false)}.`;
             }
             else if(f.has('azubi')) {
               return `As an apprentice, you pay ${taxes.arbeitslosenversicherungRate * 100}% of your income for unemployment insurance.`;
