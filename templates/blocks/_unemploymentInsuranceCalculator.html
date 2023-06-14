@@ -15,7 +15,7 @@
             <option value="unemployed">Unemployed</option>
         </select>
     </div>
-    <div class="form-group">
+    <div class="form-group" v-if="['employee', 'azubi'].includes(occupation)">
         <label for="income-{% endraw %}{{ id }}{% raw %}">
             Income
         </label>
@@ -71,8 +71,11 @@
         },
         unemploymentInsuranceAmount: function() {
           if(this.results) {
+            if (this.results.unemploymentInsurance / 12 === 0){
+              return formatCurrency(0, true, '€', false);
+            }
             const amount = formatCurrency(this.results.unemploymentInsurance / 12, true, '€', true);
-            return `${amount} <small>per month</small>`
+            return `${amount} <small class="no-mobile">/month</small>`;
           }
         },
         beitragsbemessungsgrenze: function() {
