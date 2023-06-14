@@ -564,14 +564,16 @@ main{
     }
 
     .collections{
-        margin-bottom: calc(var(--m) * -1);
-
         .collection{
             width: calc(50% - 30px / 2);
             box-sizing: border-box;
             text-align: left;
 
-            margin: 0 0 var(--m);
+            margin: 0 0 var(--xxl);
+
+            &:last-child{
+                margin-bottom: 0;
+            }
 
             h3{
                 margin: 0 0 var(--m);
@@ -587,8 +589,8 @@ main{
                 @include text-bold;
             }
 
-            ul {
-                margin: var(--m) 0 0;
+            ol {
+                margin: 0;
             }
 
             li {
