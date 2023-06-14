@@ -249,7 +249,6 @@
 
     &:hover{
         text-decoration-color:var(--c-border-hint-hover);
-        cursor:help;
     }
 }
 
@@ -834,6 +833,7 @@ sup:target a{
 
     a[href*="/glossary/"]{
         @include text-hint;
+        cursor: help;
     }
 
     a:hover img{
