@@ -99,7 +99,7 @@
                     <option disabled>──────────</option>
                     <option value="other">Other</option>
                 </select>
-                <span v-show="isPayingChurchTax" class="input-instructions">You must pay <a href="https://allaboutberlin.com/glossary/Kirchensteuer" target="_blank">church tax</a>.</span>
+                <span v-show="isPayingChurchTax" class="input-instructions">You must pay <a href="/glossary/Kirchensteuer" target="_blank">church tax</a>.</span>
             </div>
         </div>
         <hr>
@@ -147,7 +147,7 @@
         </div>
         <div class="form-group" v-show="healthInsuranceType === 'public-custom'">
             <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
-                <a href="https://allaboutberlin.com/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
+                <a href="/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
             </label>
             <div class="input-group">
                 <input class="percent-input"
@@ -200,7 +200,7 @@
         <hr v-if="occupations.isEmployed(occupation)">
         <div class="form-group" v-if="occupations.isEmployed(occupation)">
             <span class="label">
-                <a href="https://allaboutberlin.com/glossary/Steuerklasse" target="_blank">Tax class</a>
+                <a href="/glossary/Steuerklasse" target="_blank">Tax class</a>
             </span>
             <label class="checkbox" v-if="availableTaxClasses.includes(1)">
                 <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="1">
@@ -279,8 +279,8 @@
             </path>
         </svg>
         <div>
-            <details :class="{highlighted: highlightedSection === 'healthInsurance'}">
-                <summary class="price">
+            <details>
+                <summary class="price" :class="{highlighted: highlightedSection === 'healthInsurance'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.healthInsurance"/></circle>
                     </svg>
@@ -288,22 +288,22 @@
                 </summary>
                 <div v-show="healthInsuranceType === 'private'">
                     <p>
-                        Your <a href="https://allaboutberlin.com/glossary/private%20Krankenversicherung" target="_blank">private health insurance</a> costs <span v-html="eur(privateHealthInsuranceCost)"></span> per month.
+                        Your <a href="/glossary/private%20Krankenversicherung" target="_blank">private health insurance</a> costs <span v-html="eur(privateHealthInsuranceCost)"></span> per month.
                         <span v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">Your employer pays half of it.</span>
                     </p>
                 </div>
                 <div v-show="healthInsuranceType.startsWith('public') || healthInsuranceType === 'unknown'">
                     <p>
-                        <a href="https://allaboutberlin.com/glossary/gesetzliche%20Krankenversicherung" target="_blank">Public health insurance</a> pays for healthcare when you need it.
+                        <a href="/glossary/gesetzliche%20Krankenversicherung" target="_blank">Public health insurance</a> pays for healthcare when you need it.
                         <span v-show="isPayingMinHealthInsurancePrice">
-                            Your income is very low, so you pay the <a href="https://allaboutberlin.com/glossary/Mindestbeitrag" target="_blank">minimum price</a>.
+                            Your income is very low, so you pay the <a href="/glossary/Mindestbeitrag" target="_blank">minimum price</a>.
                         </span>
                         <span v-show="isPayingMaxHealthInsurancePrice">
-                            You earn more than <span v-html="versicherungspflichtgrenzeDisplay"></span>, so you pay the <a href="https://allaboutberlin.com/glossary/H%C3%B6chstbeitrag" target="_blank">maximum price</a>.
+                            You earn more than <span v-html="versicherungspflichtgrenzeDisplay"></span>, so you pay the <a href="/glossary/H%C3%B6chstbeitrag" target="_blank">maximum price</a>.
                         </span>
                     </p>
                     <p v-if="result.flags.has('kv-pflegeversicherung-surcharge')">
-                        You pay a bit more for <a href="https://allaboutberlin.com/glossary/Pflegeversicherung" target="_blank">nursing care insurance</a>, because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
+                        You pay a bit more for <a href="/glossary/Pflegeversicherung" target="_blank">nursing care insurance</a>, because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
                     </p>
                     <p class="price">
                         Base cost
@@ -313,14 +313,14 @@
                         <output v-html="eur(result.healthInsuranceDetails.baseContribution.personalContribution * 12)"></output>
                     </p>
                     <p class="price">
-                        <a href="https://allaboutberlin.com/glossary/Pflegeversicherung" target="_blank">Nursing care insurance</a>
+                        <a href="/glossary/Pflegeversicherung" target="_blank">Nursing care insurance</a>
                         <output class="no-mobile"
                             v-if="isPayingNormalHealthInsurancePrice"
                             v-html="formatPercent(result.healthInsuranceDetails.pflegeversicherung.personalRate * 100)"></output>
                         <output v-html="eur(result.healthInsuranceDetails.pflegeversicherung.personalContribution * 12)"></output>
                     </p>
                     <p class="price">
-                        <a href="https://allaboutberlin.com/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
+                        <a href="/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
                         <output class="no-mobile"
                             v-if="isPayingNormalHealthInsurancePrice"
                             v-html="formatPercent(result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalRate * 100)"></output>
@@ -340,15 +340,15 @@
                     <p v-show="hasSponsoredHealthInsurance && healthInsuranceType === 'ehic'">You are covered by your health insurance in another EU country.</p>
                 </div>
             </details>
-            <details v-show="result.publicPension > 0" :class="{highlighted: highlightedSection === 'publicPension'}">
-                <summary class="price">
+            <details v-show="result.publicPension > 0">
+                <summary class="price" :class="{highlighted: highlightedSection === 'publicPension'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.publicPension"/></circle>
                     </svg>
                     Public pension <output v-html="eur(result.publicPension)"></output>
                 </summary>
                 <p>
-                    <a href="https://allaboutberlin.com/glossary/gesetzliche%20Rentenversicherung" target="_blank">Public pension insurance</a> pays for your pension when you retire.
+                    <a href="/glossary/gesetzliche%20Rentenversicherung" target="_blank">Public pension insurance</a> pays for your pension when you retire.
                     <span v-show="isAboveBeitragsbemessungsgrenze">
                         You earn more than <span v-html="beitragsbemessungsgrenzeDisplay"></span>, so you pay the maximum contribution.
                     </span>
@@ -367,15 +367,15 @@
                     <output v-html="eur(result.publicPension)"></output>
                 </p>
             </details>
-            <details v-show="result.unemploymentInsurance > 0" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
-                <summary class="price">
+            <details v-show="result.unemploymentInsurance > 0">
+                <summary class="price" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.unemploymentInsurance"/></circle>
                     </svg>
                     Unemployment insurance <output v-html="eur(result.unemploymentInsurance)"></output>
                 </summary>
                 <p>
-                    <a href="https://allaboutberlin.com/glossary/Arbeitslosenversicherung" target="_blank">Unemployment insurance</a> pays for <a href="https://allaboutberlin.com/glossary/ALG%20I" target="_blank">unemployment benefits</a> if you lose your job.
+                    <a href="/glossary/Arbeitslosenversicherung" target="_blank">Unemployment insurance</a> pays for <a href="/glossary/ALG%20I" target="_blank">unemployment benefits</a> if you lose your job.
                     <span v-show="isAboveBeitragsbemessungsgrenze">
                         You earn more than <span v-html="beitragsbemessungsgrenzeDisplay"></span>, so you pay the maximum contribution.
                     </span>
@@ -394,42 +394,42 @@
                     <output v-html="eur(result.unemploymentInsurance)"></output>
                 </p>
             </details>
-            <details v-show="result.incomeTax > 0" :class="{highlighted: highlightedSection === 'incomeTax'}">
-                <summary class="price">
+            <details v-show="result.incomeTax > 0">
+                <summary class="price" :class="{highlighted: highlightedSection === 'incomeTax'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.incomeTax"/></circle>
                     </svg>
                     Income tax <output v-html="eur(result.incomeTax)"></output>
                 </summary>
                 <p v-if="occupations.isEmployed(occupation)">
-                    This is the <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a> you pay directly from your paycheque. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <a href="https://allaboutberlin.com/glossary/Steuererkl%C3%A4rung" target="_blank">tax declaration</a>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
+                    This is the <a href="/glossary/Einkommensteuer" target="_blank">income tax</a> you pay directly from your paycheque. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <a href="/glossary/Steuererkl%C3%A4rung" target="_blank">tax declaration</a>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
                 </p>
                 <p class="price">Taxable income <output v-html="eur(result.taxableIncome)"></output></p>
                 <p class="price">Income tax rate <output v-html="formatPercent(Math.round(result.incomeTax / result.taxableIncome * 1000) / 10)"></output></p>
             </details>
-            <details v-show="result.solidarityTax > 0" :class="{highlighted: highlightedSection === 'solidarityTax'}">
-                <summary class="price">
+            <details v-show="result.solidarityTax > 0">
+                <summary class="price" :class="{highlighted: highlightedSection === 'solidarityTax'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.solidarityTax"/></circle>
                     </svg>
                     Solidarity surcharge <output v-html="eur(result.solidarityTax)"></output>
                 </summary>
-                <p>If you pay more than <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>/year in income tax, you must pay a <a href="https://allaboutberlin.com/glossary/Solidarit%C3%A4tszuschlag" target="_blank">solidarity surcharge</a>. It's a percentage of your <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
-                <p v-show="result.flags.has('soli-mid-rate')">Solidarity surcharge is {{ formatPercent(taxes.solidarity.milderungszoneRate * 100) }} of all <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a> above <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>.</p>
-                <p v-show="result.flags.has('soli-max-rate')">The solidarity surcharge is {{ formatPercent(taxes.solidarity.maxRate * 100) }} of your <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                <p>If you pay more than <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>/year in income tax, you must pay a <a href="/glossary/Solidarit%C3%A4tszuschlag" target="_blank">solidarity surcharge</a>. It's a percentage of your <a href="/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                <p v-show="result.flags.has('soli-mid-rate')">Solidarity surcharge is {{ formatPercent(taxes.solidarity.milderungszoneRate * 100) }} of all <a href="/glossary/Einkommensteuer" target="_blank">income tax</a> above <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>.</p>
+                <p v-show="result.flags.has('soli-max-rate')">The solidarity surcharge is {{ formatPercent(taxes.solidarity.maxRate * 100) }} of your <a href="/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
             </details>
-            <details v-show="isPayingChurchTax" :class="{highlighted: highlightedSection === 'churchTax'}">
-                <summary class="price">
+            <details v-show="isPayingChurchTax">
+                <summary class="price" :class="{highlighted: highlightedSection === 'churchTax'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.churchTax"/></circle>
                     </svg>
                     Church tax <output v-html="eur(result.churchTax)"></output>
                 </summary>
-                <p>Your church collects a <a href="https://allaboutberlin.com/glossary/Kirchensteuer" target="_blank">church tax</a>. In {{ germanStates[germanState].englishName }}, the church tax is {{ formatPercent(result.churchTaxRate * 100) }} of your <a href="https://allaboutberlin.com/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                <p>Your church collects a <a href="/glossary/Kirchensteuer" target="_blank">church tax</a>. In {{ germanStates[germanState].englishName }}, the church tax is {{ formatPercent(result.churchTaxRate * 100) }} of your <a href="/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
                 <p v-if="result.churchTax === 0 && result.incomeTax === 0">Your income is too low to pay income tax, so you don't pay church tax.</p>
             </details>
-            <details class="total" :class="{highlighted: !highlightedSection}">
-                <summary class="price">
+            <details class="total">
+                <summary class="price" :class="{highlighted: !highlightedSection}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
                         <path :d="svgPaths.totalDeductions" :fill="colors.incomeTax"></path>
@@ -439,8 +439,8 @@
                 </summary>
                 <p>This is what you pay for all taxes and social contributions. <span v-show="occupations.isEmployed(occupation)">They take this from your paycheck.</span></p>
             </details>
-            <details class="total" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">
-                <summary class="price">
+            <details class="total">
+                <summary class="price" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
                         <path :d="svgPaths.disposableIncome" :fill="colors.disposableIncome"></path>
@@ -448,7 +448,7 @@
                     You keep {{ formatPercent(disposableIncomeRatio) }}
                     <output v-html="eur(result.disposableIncome)"></output>
                 </summary>
-                <p>This is your <a href="https://allaboutberlin.com/glossary/Netto income" target="_blank">net income</a>. It's how much money you keep after taxes and other deductions. It's your money. You can spend it.</p>
+                <p>This is your <a href="/glossary/Netto income" target="_blank">net income</a>. It's how much money you keep after taxes and other deductions. It's your money. You can spend it.</p>
             </details>
         </div>
     </div>

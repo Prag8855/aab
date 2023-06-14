@@ -1328,6 +1328,10 @@ details{
     display: flex;
     justify-content: space-between;
 
+    &.highlighted{
+        @include text-bold;
+    }
+
     .currency[data-currencies]{
         text-decoration:none!important;
         right: 0;
@@ -1500,6 +1504,12 @@ details{
 .health-insurance-options{
     > div{
         @include box-l;
+    }
+}
+
+.income-tax-calculator {
+    details:not(.total) + details.total{
+        margin-top: var(--m);
     }
 }
 
