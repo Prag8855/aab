@@ -1,5 +1,6 @@
 from datetime import datetime
 from ursus.config import config
+from extensions.functions import glossary_groups
 from pathlib import Path
 import logging
 import os
@@ -173,13 +174,14 @@ config.jinja_filters = {
     'cur': to_currency,
 }
 
-config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM' # Backend use only
+config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM'  # Backend use only
 
 config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
     'random_id': random_id,
-    'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E', # Frontend use
+    'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E',  # Frontend use
+    'glossary_groups': glossary_groups,
 
     # ==============================================================================
     # HEALTH INSURANCE

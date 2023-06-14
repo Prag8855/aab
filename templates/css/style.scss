@@ -596,6 +596,22 @@ main{
                 list-style: '-';
                 font-size: var(--f-s);
             }
+
+            @include only-phone{
+                width: 100%;
+            }
+        }
+    }
+
+    .glossary-sections{
+        @include text-block;
+        display: grid;
+        grid-template-columns: repeat(24, 1fr);
+        grid-gap:var(--s);
+        text-align: center;
+
+        @include only-phone{
+            grid-template-columns: repeat(12, 1fr);
         }
     }
 
