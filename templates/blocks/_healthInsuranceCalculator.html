@@ -1,5 +1,5 @@
 {% set id = random_id() %}
-<details class="health-insurance-calculator collapsible" ref="collapsible" {% if static|default %}open{% endif %}>
+<details class="health-insurance-calculator collapsible" ref="collapsible" {% if static|default %}open{% endif %} v-cloak>
     <summary {% if static|default %}hidden{% endif %}>
         Health insurance calculator
     </summary>

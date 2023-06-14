@@ -1315,7 +1315,9 @@ output.large{
     display: block;
 }
 
-input[name="username"]{  // Honeypot
+input[name="username"], // Honeypot
+[v-cloak] // Vue elements before they're ready
+{  
     display:none!important
 }
 
