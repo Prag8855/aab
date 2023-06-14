@@ -1170,9 +1170,11 @@ input[type=range] {
 output.large{
     @include box-s;
     font-size: var(--xxl);
-    background: var(--c-bg-widget);
     color: var(--c-text-heading);
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 /*******************************************************************************
