@@ -397,6 +397,8 @@ body > header {
         }
         > .expand {
             display: inline-block;
+            margin-left: var(--s);
+            float: right;
             @include expansible;
         }
         &.expanded {
@@ -433,10 +435,6 @@ body > header {
         }
         &.current > a{
             @include text-bold;
-        }
-
-        .expand{
-            float: right;
         }
     }
 }
@@ -925,13 +923,6 @@ sup:target a{
         }
 
         > ol{margin-bottom:0}
-
-        .expand{
-            margin-left: var(--s);
-            @include only-phone{
-                float:right
-            }
-        }
     }
 
 
