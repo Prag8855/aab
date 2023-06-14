@@ -17,13 +17,18 @@ This guide applies to you if:
 
 ## With a German driver's licence
 
-If you have a German driver's licence, you must [book a *Bürgeramt* appointment](/guides/berlin-burgeramt-appointment) for an *[Internationaler Führerschein](https://service.berlin.de/dienstleistung/121591/)*. The ADAC does not issue International Driver Permits anymore.[^1]
+If you have a German driver's licence, you must book a *[[Bürgeramt]]* appointment for an *[Internationaler Führerschein](https://service.berlin.de/dienstleistung/121591/)*. The ADAC does not issue International Driver Permits anymore.[^1]
 
-{% include "blocks/appointmentLink/_internationalDrivingPermit.html" %}
+**[Book an appointment ➞](/out/appointment-international-driving-permit)**
 
-You must bring 15€, a [biometric picture](/guides/biometric-pictures-in-berlin) and a valid German driver's licence. Temporary licenses issued to new drivers (*vorläufiger Nachweis der Fahrerlaubnis*) are not accepted. You must bring a valid plastic driving licence (*Kartenführerschein*).
+Go to your appointment and bring...
 
-You will leave the *[[Bürgeramt]]* with a valid International Driving Permit. This permit is valid for 3 years.
+- [ ] **15€ for the fees**
+- [ ] **A [biometric picture](/guides/biometric-pictures-in-berlin)**
+- [ ] **A valid German driver's licence**  
+    Temporary licenses issued to new drivers (*vorläufiger Nachweis der Fahrerlaubnis*) are not accepted. You must bring a valid plastic driving licence (*Kartenführerschein*).
+
+You will get a International Driving Permit during your appointment. It's valid for 3 years.
 
 ## With a non-German driver's licence
 

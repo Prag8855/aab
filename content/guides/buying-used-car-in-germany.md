@@ -153,9 +153,9 @@ There are 3 ways to register a vehicle: in person, online, or at the dealership.
 
 You can register your vehicle at the vehicle registration office (*[[Kfz-Zulassungsstelle]]*). You must get an appointment, gather the required documents, go to your appointment, and receive new vehicle papers.
 
-In Berlin, this can take a few weeks. Appointments are hard to get, and they are sometimes 2 or 3 weeks in the future. You can't drive the vehicle during that time.
+In Berlin, this can take a few weeks. Appointments are hard to get. The nearest appointment can be in a few weeks. You can't drive your vehicle until it's registered.
 
-{% include "blocks/appointmentLink/_registerVehicle.html" %}
+**[Book an appointment ➞](/out/appointment-kfz-zulassungsstelle)**
 
 When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these documents with you:
 

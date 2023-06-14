@@ -228,7 +228,7 @@ When you register your address, you get a [registration certificate (*Anmeldebes
 
 If you can't register your address, there are [other ways to get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 
-### Step 7: [Get health insurance](/guides/german-visa-health-insurance)
+### Step 7: Get health insurance
 
 - **You need**: a German bank account, an *[[Anmeldebestätigung]]* (if possible)
 - **You get**: health insurance, a proof of health insurance coverage
@@ -246,25 +246,17 @@ Health insurance brokers help you choose the best health insurance for your need
 
 I recommend [Feather Insurance](/out/feather) because I work with them since 2018. I know the founder and the team personally. They helped me switch to private health insurance in 2021. They helped thousands of my readers over the years.
 
-### Step 8: Make your residence permit appointment
+### Step 8: Book your residence permit appointment
 
 - **You need**: nothing
 - **You get**: an appointment at the *[[Ausländerbehörde]]* or German consulate
 - **How long it takes**: 15 minutes to a few weeks, depending on your luck
 
-You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it's really hard to find an appointment.[^47] In Berlin, your appointment can be weeks or months in the future. The appointment is free. You only pay if you get the residence permit.
+You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it can take months to get an appointment.[^47]
 
-In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can [book your appointment here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48]
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
-If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email).
-
-{% include "blocks/appointmentLink/_applyResidencePermit.html" %}
-
-**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-appointment)**
-
-If your current visa expires soon, there are ways to stay in Germany until you get your work visa.
-
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you can usually stay in Germany until you get your new residence permit.
 
 ### Step 9: Gather the required documents
 
@@ -387,11 +379,11 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### How much does the German work visa cost?
 
-**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
+**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] You only pay when you get it. It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
 
 ### How much does the German Blue Card cost?
 
-**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
+**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] You only pay when you get it. It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
 
 ### How long does it take to get a work visa?
 

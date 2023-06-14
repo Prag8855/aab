@@ -51,13 +51,11 @@ Here is how you can do your *Abmeldung* in person:
 1. [Book an appointment](/out/appointment-abmeldung) for *Abmeldung einer Wohnung*. You can choose any *[[Bürgeramt]]* in Berlin. Sometimes, there are no appointments available. Check again every few minutes, and you will find one.
 2. Fill the [*Abmeldung* form](/docs/abmeldung)
 3. Go to your appointment. Bring:
-    - The filled *Abmeldung* form
-    - Your passport or national ID
-    - If you deregister late, a proof of your move-out date[^22]
+    - [ ] The filled *Abmeldung* form
+    - [ ] Your passport or national ID
+    - [ ] If you deregister late, a proof of your move-out date[^22]
 
 You can do it alone, even if you don't speak German. It takes around 10 minutes.
-
-{% include "blocks/appointmentLink/_abmeldung.html" %}
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 

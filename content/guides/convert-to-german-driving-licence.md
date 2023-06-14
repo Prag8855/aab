@@ -99,11 +99,13 @@ Sometimes, you only need to take a driving test. If you are Canadian or American
 
 ### 6. Get a Bürgeramt appointment
 
-[Book an appointment](https://service.berlin.de/dienstleistung/327537/) at the *[[Bürgeramt]]* for a driving license transfer (*[Umschreibung einer ausländischen Fahrerlaubnis](https://service.berlin.de/dienstleistung/327537/)*). In Berlin, it's hard to find an appointment. The nearest appointment could be in a few weeks.
+Book an appointment at the *[[Bürgeramt]]*. In Berlin, it's hard to find an appointment. The nearest appointment could be in a few weeks.
 
-{% include "blocks/appointmentLink/_convertLicenceNonEU.html" %}
+**[Book an appointment](https://service.berlin.de/terminvereinbarung/termin/all/327537/)** (non-EU driving licence)
 
-**[How to get a Bürgeramt appointment in Berlin ➞](/guides/berlin-burgeramt-appointment)**
+**[Book an appointment](/out/appointment-convert-driving-licence-eu)** (EU driving licence)
+
+**[If you can't find an appointment ➞](/guides/berlin-burgeramt-appointment)**
 
 ### 7. Go to your appointment
 

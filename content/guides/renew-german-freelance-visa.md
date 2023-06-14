@@ -87,17 +87,17 @@ You need a [tax advisor](/glossary/Steuerberater). They must prepare documents f
 
 **When:** at least 3 months before your residence permit expires
 
-Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It's really hard to find an appointment. It can take months to find one. Your appointment could be months in the future.
+Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It's really hard to find an appointment. It can take months to find one. The nearest appointment can be in a few months.
 
-{% include "blocks/appointmentLink/_renewResidencePermit.html" %}
+**[Book an appointment ➞](/out/auslanderbehorde-appointment?t=renew)**
 
 **[Other ways to get an appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
 
-If you can't find an appointment, you can also [send your application by email](/guides/berlin-auslanderbehorde-appointment#by-email). This is often the only way, because there are no appointments.
+If you can't find an appointment, you can also [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). It's often the only way, because there are no appointments.
 
-**[Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+**[If your visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### 5. Gather the required documents
 
@@ -219,7 +219,7 @@ Some of the [required documents](/guides/renew-german-freelance-visa#required-do
 - The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
 - The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
-- The [certified translations](/glossary/certified%20translation) can cost 15€ to 70€ per document.
+- The [certified translations](/glossary/beglaubigte%20Übersetzung) can cost 15€ to 70€ per document.
 
 Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 

@@ -141,19 +141,13 @@ Come to Germany, and start preparing for your freelance visa application. If you
 
 If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment.
 
-### Step 2: Make your visa appointment
+### Step 2: Book your residence permit appointment
 
-You must [get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment). **Book your appointment as soon as possible**. It can take months to find an appointment. Your appointment could be months in the future. For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
+You must get an appointment at the *[[Ausländerbehörde]]*. **Do this as soon as possible**, because it can take months to get an appointment.
 
-{% include "blocks/appointmentLink/_applyResidencePermit.html" %}
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
-You can also [send the documents by email](/guides/berlin-auslanderbehorde-appointment#by-email).
-
-**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-appointment)**
-
-If your current visa expires soon, there are ways to stay in Germany until you get your freelance visa.
-
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you can usually stay in Germany until you get your new residence permit.
 
 ### Step 3: Open a bank account
 
@@ -175,7 +169,7 @@ You don't need to [register your address](/guides/anmeldung-in-english-berlin) t
 
 If you can't register your address before your visa interview, bring your apartment lease and your *[[Wohnungsgeberbestätigung]]* instead.
 
-### Step 5: [Get health insurance](/guides/german-visa-health-insurance)
+### Step 5: Get health insurance
 
 You need health insurance to get a German freelance visa.
 
@@ -326,7 +320,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Proof of education** *(optional)*  
     If you have relevant degrees or certifications, they can prove that you are qualified. Bring the original diplomas, and copies for the interviewer.[^34]
     - **Certified translations**  
-        If your degrees or diplomas are not in English or German, bring [certified translations](/glossary/certified%20translation).[^51]
+        If your degrees or diplomas are not in English or German, bring [certified translations](/glossary/beglaubigte%20Übersetzung).[^51]
 - **Passport**  
     The interviewer will use your passport to identify you. If you get the visa immediately, the interviewer will put it in your passport. The freelance visa is a sticker that goes in your passport.[^35]
 
