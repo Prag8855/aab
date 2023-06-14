@@ -650,6 +650,16 @@ dialog{
         margin-top: var(--xs);
     }
 
+    h2 a{
+        color: var(--c-text-heading);
+        &:hover{
+            text-decoration: none;
+            dfn{
+                text-decoration: underline;
+            }
+        }
+    }
+
     .close-button{
         padding: var(--s);
         margin-right: calc(var(--s) * -1);
@@ -709,10 +719,6 @@ h2{
 h3{
     @include heading;
     font-size: var(--l);
-}
-
-h2:target, h3:target{
-    text-decoration: underline var(--c-text-selection) var(--xs);
 }
 
 hr{
