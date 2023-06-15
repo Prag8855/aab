@@ -132,12 +132,6 @@
     }
 }
 
-@include only-desktop{
-    :root{
-        --m: 19px;
-    }
-}
-
 @include only-phone{
     :root{
         --w-page-border: var(--m);
@@ -428,7 +422,6 @@ body > header {
 
     li{
         padding-left: var(--s);
-        font-size: var(--f-s);
         &::marker{
             color: var(--c-text-light);
         }
@@ -479,6 +472,9 @@ main{
         @include full-width-site{
             @include page-borders;
         }
+
+        > :first-child{margin-top:0}
+        > :last-child{margin-bottom:0}
     }
 
     .intro{
@@ -1606,13 +1602,12 @@ details{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: var(--m);
     text-align: center;
-    margin: 0;
 
     svg{
         display: block;
         width: auto;
         height: var(--h-icon-l);
-        margin:0 auto var(--xs);
+        margin:0 auto var(--xs)!important;
     }
 
     > li {
@@ -1624,13 +1619,17 @@ details{
         margin:0;
 
         > a{
-            @include box-m;
+            @include box-s;
             @include box-clickable;
             display: block;
             box-sizing:border-box;
             width: 100%;
             height: 100%;
         }
+    }
+
+    @include only-phone{
+        grid-template-columns: 1fr;
     }
 }
 
