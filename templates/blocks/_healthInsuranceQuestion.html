@@ -8,7 +8,7 @@
   {% endif %}
   {% include "blocks/_formHoneypot.html" %}
   {% raw %}
-    <div v-if="stage === 'contactInfo'">
+    <template v-if="stage === 'contactInfo'">
       <div class="form-recipient">
         <img srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x" alt="Dr. Rob Schumacher" width="300" height="300">
         <p><strong>Dr. Rob Schumacher</strong> answers your questions for free. He is an independent insurance broker at <a href="/out/feather" target="_blank">Feather</a>. I work with him since 2018.</p>
@@ -79,10 +79,10 @@
         </div>
       </div>
       <button class="button submit no-print" @click="submitForm">Ask Rob</button>
-    </div>
-    <div v-if="stage === 'thank-you'">
+    </template>
+    <template v-if="stage === 'thank-you'">
       <p><strong>Message sent!</strong> Rob will contact you today or during the next business day. Expect an email from Feather.</p>
-    </div>
+    </template>
   {% endraw %}
 </details>
 {% include '/js/utils.js' %}

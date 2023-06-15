@@ -5,7 +5,7 @@
     <span class="no-mobile">Ask a question about pension refunds</span>
   </summary>
   {% include "blocks/_formHoneypot.html" %}
-  <div v-if="stage === 'contactInfo'">
+  <template v-if="stage === 'contactInfo'">
     <p>Chris helps people get their pension refund. You can ask him questions. He will answer in 1 to 3 business days. This is a free service.</p>
     <hr>
     <div class="form-group">
@@ -54,10 +54,10 @@
     <hr>
     <p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
     <button class="button primary no-print" @click="submitForm">Ask Chris</button>
-  </div>
-  <div v-if="stage === 'thank-you'">
+  </template>
+  <template v-if="stage === 'thank-you'">
     <p><strong>Message sent!</strong> Chris will contact you today or during the next business day. Expect an email from "FundsBack".</p>
-  </div>
+  </template>
 </details>
 {% include '/js/utils.js' %}
 {% include '/js/constants.js' %}

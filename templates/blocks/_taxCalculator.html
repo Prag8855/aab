@@ -22,7 +22,7 @@
             {{ showExtraQuestions ? 'Hide options' : 'Show more options' }}
         </a>
     </div>
-    <div v-show="showExtraQuestions">
+    <template v-if="showExtraQuestions">
         <div class="form-group">
             <label for="income-{% endraw %}{{ id }}{% raw %}">
                 {{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
@@ -99,7 +99,7 @@
                     <option disabled>──────────</option>
                     <option value="other">Other</option>
                 </select>
-                <span v-show="isPayingChurchTax" class="input-instructions">You must pay <a href="/glossary/Kirchensteuer" target="_blank">church tax</a>.</span>
+                <span v-if="isPayingChurchTax" class="input-instructions">You must pay <a href="/glossary/Kirchensteuer" target="_blank">church tax</a>.</span>
             </div>
         </div>
         <hr>
@@ -125,10 +125,10 @@
                     </optgroup>
                     <option value="unknown">I don't know</option>
                 </select>
-                <span v-show="healthInsuranceType === 'unknown'" class="input-instructions">We will use an average option.</span>
+                <span v-if="healthInsuranceType === 'unknown'" class="input-instructions">We will use an average option.</span>
             </div>
         </div>
-        <div class="form-group" v-show="healthInsuranceType === 'private'">
+        <div class="form-group" v-if="healthInsuranceType === 'private'">
             <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
                 Health insurance cost
             </label>
@@ -142,10 +142,10 @@
                     id="health-insurance-cost-{% endraw %}{{ id }}{% raw %}"
                     v-model.number="privateHealthInsuranceCost">
                 &nbsp;€&nbsp;per month
-                <span class="input-instructions" v-show="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
+                <span class="input-instructions" v-if="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
             </div>
         </div>
-        <div class="form-group" v-show="healthInsuranceType === 'public-custom'">
+        <div class="form-group" v-if="healthInsuranceType === 'public-custom'">
             <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
                 <a href="/glossary/Zusatzbeitrag" target="_blank">Insurer surcharge</a>
             </label>
@@ -246,7 +246,7 @@
             </label>
         </div>
         <hr>
-    </div>
+    </template>
     <div class="column-with-pie-chart">
         <svg viewBox="-1 -1 2 2" class="pie-chart">
             <circle cx="0" cy="0" r="1" :fill="colors.disposableIncome"
@@ -286,21 +286,19 @@
                     </svg>
                     Health insurance <output v-html="eur(result.healthInsurance)"></output>
                 </summary>
-                <div v-show="healthInsuranceType === 'private'">
-                    <p>
-                        Your <a href="/glossary/private%20Krankenversicherung" target="_blank">private health insurance</a> costs <span v-html="eur(privateHealthInsuranceCost)"></span> per month.
-                        <span v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">Your employer pays half of it.</span>
-                    </p>
-                </div>
-                <div v-show="healthInsuranceType.startsWith('public') || healthInsuranceType === 'unknown'">
+                <p v-if="healthInsuranceType === 'private'">
+                    Your <a href="/glossary/private%20Krankenversicherung" target="_blank">private health insurance</a> costs <span v-html="eur(privateHealthInsuranceCost)"></span> per month.
+                    <template v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">Your employer pays half of it.</template>
+                </p>
+                <template v-if="healthInsuranceType.startsWith('public') || healthInsuranceType === 'unknown'">
                     <p>
                         <a href="/glossary/gesetzliche%20Krankenversicherung" target="_blank">Public health insurance</a> pays for healthcare when you need it.
-                        <span v-show="isPayingMinHealthInsurancePrice">
+                        <template v-if="isPayingMinHealthInsurancePrice">
                             Your income is very low, so you pay the <a href="/glossary/Mindestbeitrag" target="_blank">minimum price</a>.
-                        </span>
-                        <span v-show="isPayingMaxHealthInsurancePrice">
+                        </template>
+                        <template v-if="isPayingMaxHealthInsurancePrice">
                             You earn more than <span v-html="versicherungspflichtgrenzeDisplay"></span>, so you pay the <a href="/glossary/H%C3%B6chstbeitrag" target="_blank">maximum price</a>.
-                        </span>
+                        </template>
                     </p>
                     <p v-if="result.flags.has('kv-pflegeversicherung-surcharge')">
                         You pay a bit more for <a href="/glossary/Pflegeversicherung" target="_blank">nursing care insurance</a>, because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
@@ -326,21 +324,21 @@
                             v-html="formatPercent(result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalRate * 100)"></output>
                         <output v-html="eur(result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalContribution * 12)"></output>
                     </p>
-                    <p class="price" v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+                    <p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
                         Total
                         <output class="no-mobile"
                             v-if="isPayingNormalHealthInsurancePrice"
                             v-html="formatPercent(result.healthInsuranceDetails.options.custom.total.personalRate * 100)"></output>
                         <output v-html="eur(result.healthInsuranceDetails.options.custom.total.personalContribution * 12)"></output>
                     </p>
-                </div>
-                <div v-show="hasSponsoredHealthInsurance">
-                    <p v-show="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-spouse'">You are covered by your spouse's health insurance.</p>
-                    <p v-show="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-parents'">You are covered by your parents' health insurance.</p>
-                    <p v-show="hasSponsoredHealthInsurance && healthInsuranceType === 'ehic'">You are covered by your health insurance in another EU country.</p>
-                </div>
+                </template>
+                <template v-if="hasSponsoredHealthInsurance">
+                    <p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-spouse'">You are covered by your spouse's health insurance.</p>
+                    <p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-parents'">You are covered by your parents' health insurance.</p>
+                    <p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'ehic'">You are covered by your health insurance in another EU country.</p>
+                </template>
             </details>
-            <details v-show="result.publicPension > 0">
+            <details v-if="result.publicPension > 0">
                 <summary class="price" :class="{highlighted: highlightedSection === 'publicPension'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.publicPension"/></circle>
@@ -349,12 +347,12 @@
                 </summary>
                 <p>
                     <a href="/glossary/gesetzliche%20Rentenversicherung" target="_blank">Public pension insurance</a> pays for your pension when you retire.
-                    <span v-show="isAboveBeitragsbemessungsgrenze">
+                    <template v-if="isAboveBeitragsbemessungsgrenze">
                         You earn more than <span v-html="beitragsbemessungsgrenzeDisplay"></span>, so you pay the maximum contribution.
-                    </span>
-                    <span v-show="!isAboveBeitragsbemessungsgrenze">
+                    </template>
+                    <template v-if="!isAboveBeitragsbemessungsgrenze">
                         It costs <span v-html="formatPercent(pensions.contributionRates.currentYear)"></span> of your income.
-                    </span>
+                    </template>
                 </p>
                 <p class="price">
                     Your employer pays
@@ -367,7 +365,7 @@
                     <output v-html="eur(result.publicPension)"></output>
                 </p>
             </details>
-            <details v-show="result.unemploymentInsurance > 0">
+            <details v-if="result.unemploymentInsurance > 0">
                 <summary class="price" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.unemploymentInsurance"/></circle>
@@ -376,25 +374,25 @@
                 </summary>
                 <p>
                     <a href="/glossary/Arbeitslosenversicherung" target="_blank">Unemployment insurance</a> pays for <a href="/glossary/ALG%20I" target="_blank">unemployment benefits</a> if you lose your job.
-                    <span v-show="isAboveBeitragsbemessungsgrenze">
+                    <template v-if="isAboveBeitragsbemessungsgrenze">
                         You earn more than <span v-html="beitragsbemessungsgrenzeDisplay"></span>, so you pay the maximum contribution.
-                    </span>
-                    <span v-show="!isAboveBeitragsbemessungsgrenze">
+                    </template>
+                    <template v-if="!isAboveBeitragsbemessungsgrenze">
                         It costs {{ formatPercent(taxes.arbeitslosenversicherungRate * 2 * 100) }} of your income.
-                    </span>
+                    </template>
                 </p>
-                <p class="price" v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+                <p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
                     Your employer pays
                     <output v-if="!isAboveBeitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
                     <output v-html="eur(result.unemploymentInsurance)"></output>
                 </p>
-                <p class="price" v-show="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+                <p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
                     You pay
                     <output v-if="!isAboveBeitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
                     <output v-html="eur(result.unemploymentInsurance)"></output>
                 </p>
             </details>
-            <details v-show="result.incomeTax > 0">
+            <details v-if="result.incomeTax > 0">
                 <summary class="price" :class="{highlighted: highlightedSection === 'incomeTax'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.incomeTax"/></circle>
@@ -407,7 +405,7 @@
                 <p class="price">Taxable income <output v-html="eur(result.taxableIncome)"></output></p>
                 <p class="price">Income tax rate <output v-html="formatPercent(Math.round(result.incomeTax / result.taxableIncome * 1000) / 10)"></output></p>
             </details>
-            <details v-show="result.solidarityTax > 0">
+            <details v-if="result.solidarityTax > 0">
                 <summary class="price" :class="{highlighted: highlightedSection === 'solidarityTax'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.solidarityTax"/></circle>
@@ -415,10 +413,10 @@
                     Solidarity surcharge <output v-html="eur(result.solidarityTax)"></output>
                 </summary>
                 <p>If you pay more than <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>/year in income tax, you must pay a <a href="/glossary/Solidarit%C3%A4tszuschlag" target="_blank">solidarity surcharge</a>. It's a percentage of your <a href="/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
-                <p v-show="result.flags.has('soli-mid-rate')">Solidarity surcharge is {{ formatPercent(taxes.solidarity.milderungszoneRate * 100) }} of all <a href="/glossary/Einkommensteuer" target="_blank">income tax</a> above <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>.</p>
-                <p v-show="result.flags.has('soli-max-rate')">The solidarity surcharge is {{ formatPercent(taxes.solidarity.maxRate * 100) }} of your <a href="/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
+                <p v-if="result.flags.has('soli-mid-rate')">Solidarity surcharge is {{ formatPercent(taxes.solidarity.milderungszoneRate * 100) }} of all <a href="/glossary/Einkommensteuer" target="_blank">income tax</a> above <span v-html="eur(taxes.solidarity.minIncomeTax)"></span>.</p>
+                <p v-if="result.flags.has('soli-max-rate')">The solidarity surcharge is {{ formatPercent(taxes.solidarity.maxRate * 100) }} of your <a href="/glossary/Einkommensteuer" target="_blank">income tax</a>.</p>
             </details>
-            <details v-show="isPayingChurchTax">
+            <details v-if="isPayingChurchTax">
                 <summary class="price" :class="{highlighted: highlightedSection === 'churchTax'}">
                     <svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
                         <circle cx="0" cy="0" r="0.7" :fill="colors.churchTax"/></circle>
@@ -437,7 +435,7 @@
                     You pay {{ formatPercent(100 - disposableIncomeRatio) }}
                     <output v-html="eur(result.totalDeductions)"></output>
                 </summary>
-                <p>This is what you pay for all taxes and social contributions. <span v-show="occupations.isEmployed(occupation)">They take this from your paycheck.</span></p>
+                <p>This is what you pay for all taxes and social contributions. <template v-if="occupations.isEmployed(occupation)">They take this from your paycheck.</template></p>
             </details>
             <details class="total">
                 <summary class="price" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">

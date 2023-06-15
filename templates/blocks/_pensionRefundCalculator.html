@@ -5,7 +5,7 @@
     </summary>
 {% raw %}
     <p v-if="stage === 'start'">This calculator tells you if you can get a pension refund, and how much you can get back.</p>
-    <div v-if="stage === 'start'">
+    <template v-if="stage === 'start'">
         <hr>
         <div class="form-group">
             <label for="nationality-{% endraw %}{{ id }}{% raw %}">
@@ -35,7 +35,7 @@
                 <option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
             </select>
         </div>
-        <div v-if="!isCountriesEligible">
+        <template v-if="!isCountriesEligible">
             <hr>
             <h3>You can't get a pension refund</h3>
             <p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>
@@ -43,8 +43,8 @@
             <p v-if="hasFlag('eu-resident')">You can't get a German pension refund while you live in the European Union. If you leave the European Union, you can get a refund.</p>
             <p v-if="hasFlag('disqualifying-country-resident')">You can't get a German pension refund while you live in Bosnia-Herzegovina, Kosovo, North Macedonia, Serbia or Turkey.</p>
             <p v-if="hasFlag('israel-national') && hasFlag('israel-resident')">You can't get a pension refund because <strong>you live in Israel</strong>. If you move out of Israel, you can get a pension refund.</p>
-        </div>
-        <div v-if="isCountriesSelected && isCountriesEligible">
+        </template>
+        <template v-if="isCountriesSelected && isCountriesEligible">
             <hr>
             <div class="form-group">
                 <span class="label">First month in Germany</span>
@@ -85,7 +85,7 @@
                     <span class="input-instructions">Only include the months that you were employed.</span>
                 </div>
             </div>
-            <div v-if="isDateRangeSelected && isDateRangeEligible">
+            <template v-if="isDateRangeSelected && isDateRangeEligible">
                 <hr>
                 <div class="form-group">
                     <label for="income-{% endraw %}{{ id }}{% raw %}">
@@ -107,15 +107,15 @@
                         <span class="input-instructions">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
                     </div>
                 </div>
-                <div v-if="refundAmount">
+                <template v-if="refundAmount">
                     <hr>
                     <output class="large" v-html="refundAmountHtml"></output>
                     <p>You paid {{ refundAmount }} into the German pension system. <strong>You can get that money back.</strong></p>
-                    <div v-if="hasFlag('eligible')">
+                    <template v-if="hasFlag('eligible')">
                         <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
                         <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
-                    </div>
-                    <div v-if="hasFlag('eligible-later')">
+                    </template>
+                    <template v-if="hasFlag('eligible-later')">
                         <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
                         <p>We can send you an email reminder in {{ eligibilityDateString }}. Just enter your email.</p>
                         <div class="input-group">
@@ -123,25 +123,23 @@
                             <span class="input-symbols"></span>
                         </div>
                         <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
-                    </div>
-                </div>
-            </div>
-            <div v-if="isDateRangeSelected && !isDateRangeEligible && firstDayOfWork <= lastDayOfWork">
+                    </template>
+                </template>
+            </template>
+            <template v-if="isDateRangeSelected && !isDateRangeEligible && firstDayOfWork <= lastDayOfWork">
                 <hr>
                 <h3>You can't get a pension refund</h3>
-                <div v-if="hasFlag('over-5-years')">
-                    <p>You can't get a pension refund because you made pension payments for over 60 months. When you are 67 years old, you can receive a German pension.</p>
-                </div>
+                <p v-if="hasFlag('over-5-years')">You can't get a pension refund because you made pension payments for over 60 months. When you are 67 years old, you can receive a German pension.</p>
                 <p v-if="hasFlag('uk-national') && hasFlag('uk-prebrexit')">You can't get a pension refund because <strong>you are a UK citizen, and you worked in Germany before Brexit</strong>. When you are 67 years old, you can receive a German pension.</p>
                 <p v-if="hasFlag('uk-resident') && hasFlag('uk-prebrexit') && !hasFlag('uk-national')">You can't get a pension refund because <strong>you live in the UK, and you worked in Germany before Brexit</strong>. If you leave the UK, you can get a pension refund.</p>
                 <p v-if="hasFlag('japan-national') && hasFlag('japan-resident')">If you move out of Japan, you can ask for a refund.</p>
-            </div>
-        </div>
-    </div>
-    <div v-if="stage === 'reminderConfirmation'">
+            </template>
+        </template>
+    </template>
+    <template v-if="stage === 'reminderConfirmation'">
         <p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
-    </div>
-    <div v-if="stage === 'partnerSelection'">
+    </template>
+    <template v-if="stage === 'partnerSelection'">
         <p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
         <div class="form-group">
             <span class="label">Choose a helper</span>
@@ -154,11 +152,11 @@
             </label>
         </div>
         <hr>
-        <div v-if="selectedPartner.name === 'Do it yourself'">
+        <template v-if="selectedPartner.name === 'Do it yourself'">
             <p>You can apply for a pension refund without help. It's harder, but if you speak German, it's not so bad.</p>
             <p><strong><a href="https://allaboutberlin.com/guides/pension-payments-refund#do-it-yourself">How to apply without help ➞</a></strong></p>
-        </div>
-        <div v-if="selectedPartner.name !== 'Do it yourself'">
+        </template>
+        <template v-if="selectedPartner.name !== 'Do it yourself'">
             <div class="form-group">
                 <span class="label">Cost estimation</span>
                 <div>
@@ -169,9 +167,9 @@
             </div>
             <hr>
             <button class="button primary submit" @click="setStage('contactInfo')">Continue</button>
-        </div>
-    </div>
-    <div v-if="stage === 'contactInfo'" ref="contactForm">
+        </template>
+    </template>
+    <template v-if="stage === 'contactInfo'" ref="contactForm">
         <div class="form-group">
             <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
             <div class="input-group">
@@ -195,10 +193,10 @@
             </div>
         </div>
         <button class="button primary submit" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
-    </div>
-    <div v-if="stage === 'requestConfirmation'">
+    </template>
+    <template v-if="stage === 'requestConfirmation'">
         <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
-    </div>
+    </template>
 </details>
 {% endraw %}
 {% include '/js/utils.js' %}
