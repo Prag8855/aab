@@ -33,7 +33,7 @@
     --b-radius: var(--xs);
     --f-footnote: 0.65rem;
     --h-header: var(--xxxl);
-    --h-icon-l: 3.5rem;
+    --h-icon-l: 3rem;
     --w-checkbox: var(--l);
     --w-img-bio-s: 75px;
     --w-img-logo: 100px;
@@ -476,6 +476,7 @@ main{
         > :first-child{margin-top:0}
         > :last-child{margin-bottom:0}
     }
+    .intro + .intersection {padding-top: 0}
 
     .intro{
         margin: 0;
@@ -1619,7 +1620,7 @@ details{
         margin:0;
 
         > a{
-            @include box-s;
+            @include box-m;
             @include box-clickable;
             display: block;
             box-sizing:border-box;
@@ -1630,6 +1631,18 @@ details{
 
     @include only-phone{
         grid-template-columns: 1fr;
+        grid-gap: var(--s);
+
+        > li{
+            > a{
+                @include box-s;
+                text-align: left;
+                display: grid;
+                grid-template-columns: auto 1fr;
+                grid-gap: var(--m);
+                align-items: center;
+            }
+        }
     }
 }
 
