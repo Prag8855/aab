@@ -141,7 +141,7 @@ const taxes = {
     by: {{ CHURCH_TAX_RATE_BW_BY }} / 100,
   },
   arbeitslosenversicherungRate: {{ ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE }}/100,
-  beitragsbemessungsgrenze: { // Per month TODO: use yearly values
+  beitragsbemessungsgrenze: {
     2000: { west: 4500 * 12, east: 3750 * 12 },
     2001: { west: 4500 * 12, east: 3750 * 12 },
     2002: { west: 4500 * 12, east: 3750 * 12 },
