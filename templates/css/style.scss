@@ -647,7 +647,7 @@ dialog{
         margin-top: var(--xs);
     }
 
-    h2 a{
+    h2 a, h2 a:visited{
         color: var(--c-text-heading);
         &:hover{
             text-decoration: none;
