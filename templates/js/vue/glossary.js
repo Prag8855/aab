@@ -9,7 +9,7 @@ Vue.component('glossary', {
   },
   computed: {
     url() {
-      return `/glossary/${encodeURIComponent(this.term || this.$slots.default)}`;
+      return `/glossary/${encodeURIComponent(this.term || this.$slots.default[0].text )}`;
     }
   },
   template: `
