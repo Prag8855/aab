@@ -93,7 +93,7 @@
                     </label>
                     <div class="input-group">
                         <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" id="income-{% endraw %}{{ id }}{% raw %}" placeholder="30000" v-model="yearlyIncome">
-                        &nbsp;€ per year
+                        €&nbsp;per&nbsp;year
                     </div>
                 </div>
                 <div class="form-group" v-if="showStatePicker">
@@ -112,7 +112,7 @@
                     <output class="large">
                         <eur :amount="results.refundAmount"></eur>
                     </output>
-                    <p>You paid <eur :amount="results.refundAmount"></eur> into the German pension system. <strong>You can get that money back.</strong></p>
+                    <p>You can get <eur :amount="results.refundAmount"></eur> back. This is what you paid into the German pension system.</p>
                     <template v-if="hasFlag('eligible')">
                         <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
                         <div class="buttons">
@@ -126,7 +126,9 @@
                             <input type="email" placeholder="Your email address" v-model="emailAddress" class="required" required autocomplete="email">
                             <span class="input-symbols"></span>
                         </div>
-                        <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
+                        <div class="buttons">
+                            <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
+                        </div>
                     </template>
                 </template>
             </template>
@@ -213,7 +215,9 @@
                 <span class="input-instructions">Required by the Deutsche Rentenversicherung</span>
             </div>
         </div>
-        <button class="button primary" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
+        <div class="buttons">
+            <button class="button primary" target="_blank" @click="sendRefundRequest">Send request</button>
+        </div>
     </div>
     <template v-if="stage === 'requestConfirmation'">
         <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>

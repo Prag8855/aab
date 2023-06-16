@@ -763,7 +763,7 @@ strong, b{
 }
 em, i{font-style:italic}
 small{
-    font-size: var(--f-s);
+    font-size: var(--f-s)!important;
     @include text;
 }
 
@@ -1011,7 +1011,9 @@ sup:target a{
 input:not([type=range]), textarea, select, .toggle{
     @include form-input;
 
-    max-width:100%;
+    flex: 1 1 100%;
+    min-width: 0;
+    max-width: 400px;
     box-sizing: border-box;
 
     &[type=checkbox], &[type=radio]{
@@ -1027,6 +1029,7 @@ input:not([type=range]), textarea, select, .toggle{
     }
 
     &[type=checkbox]{
+        flex:0 0 auto!important;
         &:after{
             content: '✓';
             color: transparent;
@@ -1039,6 +1042,7 @@ input:not([type=range]), textarea, select, .toggle{
     }
 
     &[type=radio]{
+        flex:0 0 auto!important;
         border-radius:50%;
 
         &:checked:after{
@@ -1077,7 +1081,6 @@ select{
     padding-right: var(--xl);
     overflow-x:hidden;
     text-overflow:ellipsis;
-    max-width: 400px;
 }
 
 label.checkbox{
@@ -1102,12 +1105,21 @@ li.checkbox{
     }
 }
 
+.month-input, .year-input{
+    max-width: fit-content;
+}
+
 .income-input, .age-input, .percent-input{
     box-sizing:content-box!important;
+    flex: 0 0 auto!important;
     width:calc(3ch)!important;
 }
 .income-input{
     width:calc(7ch)!important;
+}
+
+.toggle{
+    cursor:pointer;
 }
 
 input[type=range] {
@@ -1245,6 +1257,7 @@ input[type=range] {
 }
 
 .form-group{
+    align-items: baseline;
     display: grid;
     grid-template-columns: var(--w-label-column) 1fr;
     grid-gap: var(--s) var(--m);
@@ -1255,14 +1268,14 @@ input[type=range] {
         flex-wrap: wrap;
         align-items: baseline;
         overflow: hidden;
+        gap: var(--s);
 
         > * + * {
-            flex: 0 1 auto;
-            margin-left: var(--s);
+            flex: 0 0 auto;
         }
 
         > * + input[type=range]{
-            margin-left:var(--m);
+            margin-left: calc(var(--m) - var(--s));
         }
 
         &.vertical{
@@ -1717,7 +1730,6 @@ details{
                 font-size: var(--xl);
             }
             small{
-                font-size: var(--f-s);
                 display: block;
             }
         }
@@ -1760,6 +1772,10 @@ details{
             margin-bottom:var(--s);
         }
     }
+}
+
+.pension-refund-calculator .form-group{
+    grid-template-columns:215px 1fr;
 }
 
 @include only-print{
