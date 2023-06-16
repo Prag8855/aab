@@ -1762,6 +1762,28 @@ details{
     }
 }
 
+.form-recipient{
+    display: grid;
+    align-items:center;
+    gap: var(--m);
+    grid-template-columns: auto 1fr;
+
+    img{
+        margin: 0 auto;
+        width: 125px;
+        height: auto;
+        border:none;
+        border-radius:100%
+    }
+    p{
+        margin:0
+    }
+
+    @include only-phone{
+        grid-template-columns: 1fr;
+    }
+}
+
 .income-tax-calculator {
     details:not(.total) + details.total{
         margin-top: var(--l-relative);
