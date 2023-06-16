@@ -9,7 +9,7 @@
         <label for="range-income-{% endraw %}{{ id }}{% raw %}">
             <strong><eur :amount="income"></eur></strong>/{{ monthOrYear }} {{ salaryOrIncome }}
         </label>
-        <span class="range-prefix" @click="decrementIncome">€</span>
+        <span class="range-prefix no-mobile" @click="decrementIncome">€</span>
         <input
             id="range-income-{% endraw %}{{ id }}{% raw %}"
             v-model.number="income"
@@ -17,7 +17,7 @@
             :step="incomeInputRange.step"
             :min="incomeInputRange.min"
             :max="incomeInputRange.max">
-        <span class="range-suffix" @click="incrementIncome">€€€</span>
+        <span class="range-suffix no-mobile" @click="incrementIncome">€€€</span>
         <a :class="showExtraQuestions ? 'hide-options' : 'show-options'" @click="toggleExtraQuestions">
             {{ showExtraQuestions ? 'Hide options' : 'Show more options' }}
         </a>

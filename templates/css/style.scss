@@ -36,6 +36,7 @@
     --h-icon-l: 3rem;
     --w-checkbox: var(--l);
     --w-img-bio-s: 75px;
+    --w-img-bio-l: 125px;
     --w-img-logo: 100px;
     --h-img-logo: 75px;
     --w-icon-s: var(--xl-relative);
@@ -377,6 +378,10 @@ body > header {
 
     @include only-phone{
         border-radius: 0;
+        a{
+            font-size: var(--f-s);
+            padding: 0 var(--s);
+        }
     }
 }
 
@@ -1770,7 +1775,7 @@ details{
 
     img{
         margin: 0 auto;
-        width: 125px;
+        width: var(--w-img-bio-l);
         height: auto;
         border:none;
         border-radius:100%
