@@ -1,7 +1,7 @@
 {% set id = random_id() %}
 <details class="pension-refund-question collapsible" aria-label="Ask a question about pension refunds" ref="collapsible" {% if static|default %}open{% endif %} v-cloak>
   <summary {% if static|default %}hidden{% endif %}>
-    <span class="only-mobile" aria-hidden="true">Ask a question</span>
+    <span class="only-mobile no-print" aria-hidden="true">Ask a question</span>
     <span class="no-mobile">Ask a question about pension refunds</span>
   </summary>
   {% include "blocks/_formHoneypot.html" %}
@@ -62,7 +62,7 @@
 {% include '/js/utils.js' %}
 {% include '/js/constants.js' %}
 {% include '/js/vue.js' %}
-{% include '/js/date-picker.js' %}
+{% include '/js/vue/date-picker.js' %}
 {% js %}
   document.querySelectorAll('.pension-refund-question').forEach(
     el => new Vue({

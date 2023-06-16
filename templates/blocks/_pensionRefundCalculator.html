@@ -166,7 +166,7 @@
                 </div>
             </div>
             <hr>
-            <button class="button primary submit" @click="setStage('contactInfo')">Continue</button>
+            <button class="button primary" @click="setStage('contactInfo')">Continue</button>
         </template>
     </template>
     <template v-if="stage === 'contactInfo'" ref="contactForm">
@@ -192,7 +192,7 @@
                 <span class="input-instructions">Required by the Deutsche Rentenversicherung</span>
             </div>
         </div>
-        <button class="button primary submit" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
+        <button class="button primary" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
     </template>
     <template v-if="stage === 'requestConfirmation'">
         <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
@@ -202,7 +202,7 @@
 {% include '/js/utils.js' %}
 {% include '/js/pension-refund-calculator.js' %}
 {% include '/js/vue.js' %}
-{% include '/js/date-picker.js' %}
+{% include '/js/vue/date-picker.js' %}
 {% js %}
   document.querySelectorAll('.pension-refund-calculator').forEach(
     el => new Vue({

@@ -3,7 +3,7 @@
   {% if not static|default %}
     <summary>
       <span class="no-mobile">Ask a health insurance broker</span>
-      <span class="only-mobile" aria-hidden="true">Ask a broker</span>
+      <span class="only-mobile no-print" aria-hidden="true">Ask a broker</span>
     </summary>
   {% endif %}
   {% include "blocks/_formHoneypot.html" %}
@@ -78,7 +78,9 @@
           <span class="input-instructions">Your age affects your health insurance options.</span>
         </div>
       </div>
-      <button class="button submit no-print" @click="submitForm">Ask Rob</button>
+      <div class="buttons">
+        <button class="button primary no-print" @click="submitForm">Ask Rob</button>
+      </div>
     </template>
     <template v-if="stage === 'thank-you'">
       <p><strong>Message sent!</strong> Rob will contact you today or during the next business day. Expect an email from Feather.</p>
@@ -87,7 +89,7 @@
 </details>
 {% include '/js/utils.js' %}
 {% include '/js/vue.js' %}
-{% include '/js/date-picker.js' %}
+{% include '/js/vue/date-picker.js' %}
 {% js %}
   document.querySelectorAll('.health-insurance-question').forEach(
     el => new Vue({
