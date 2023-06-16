@@ -1001,10 +1001,10 @@ sup:target a{
     margin: 0;
     color: var(--c-text);
 
-    &:hover, &:focus, &:active{
+    &:hover, &:focus, &:focus-within, &:active{
         border-color: var(--c-border-input-focused);
         outline: none;
-        transition: var(--transition-border);
+        transition: var(--transition-border), color 0.2s;
     }
 }
 
@@ -1105,14 +1105,14 @@ li.checkbox{
     }
 }
 
-.month-input, .year-input{
+.month-input, select.year-input{
     max-width: fit-content;
 }
 
 .income-input, .age-input, .percent-input{
     box-sizing:content-box!important;
     flex: 0 0 auto!important;
-    width:calc(3ch)!important;
+    width: calc(3ch)!important;
 }
 .income-input{
     width:calc(7ch)!important;
@@ -1314,7 +1314,33 @@ input[type=range] {
     .input-instructions{
         font-size: var(--f-s);
         flex: 1 0 100%;
-        margin: var(--xs) 0 0;
+        line-height: var(--line-height-labe);
+    }
+
+    .date-picker{
+        @include form-input;
+        padding: 0;
+        flex: 0 0 fit-content;
+        display: flex;
+        align-items: baseline;
+        color: var(--c-border-input); // The date separator, "/"
+
+        &:focus-within{
+            color: var(--c-border-input-focused);
+            border-color: var(--c-border-input-focused);
+        }
+
+        input{
+            border: none;
+            box-shadow: none;
+            box-sizing:content-box!important;
+            flex: 0 0 auto!important;
+            text-align: center;
+            width: calc(3ch)!important; // A bit wider because of the placeholder
+        }
+        .year-input{
+            width: calc(5ch)!important;
+        }
     }
 }
 
