@@ -39,7 +39,7 @@
             <hr>
             <h3>You can't get a pension refund</h3>
             <p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>
-            <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a <a href="/glossary/EEA" target="_blank">European Economic Area</a> citizen.</p>
+            <p v-if="hasFlag('eea-national')">You can't get a German pension refund because you are a <glossary term="EEA">European Economic Area</glossary> citizen.</p>
             <p v-if="hasFlag('eu-resident')">You can't get a German pension refund while you live in the European Union. If you leave the European Union, you can get a refund.</p>
             <p v-if="hasFlag('disqualifying-country-resident')">You can't get a German pension refund while you live in Bosnia-Herzegovina, Kosovo, North Macedonia, Serbia or Turkey.</p>
             <p v-if="hasFlag('israel-national') && hasFlag('israel-resident')">You can't get a pension refund because <strong>you live in Israel</strong>. If you move out of Israel, you can get a pension refund.</p>
@@ -107,13 +107,17 @@
                         <span class="input-instructions">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
                     </div>
                 </div>
-                <template v-if="refundAmount">
+                <template v-if="results && results.refundAmount">
                     <hr>
-                    <output class="large" v-html="refundAmountHtml"></output>
-                    <p>You paid {{ refundAmount }} into the German pension system. <strong>You can get that money back.</strong></p>
+                    <output class="large">
+                        <eur :amount="results.refundAmount"></eur>
+                    </output>
+                    <p>You paid <eur :amount="results.refundAmount"></eur> into the German pension system. <strong>You can get that money back.</strong></p>
                     <template v-if="hasFlag('eligible')">
                         <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
-                        <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
+                        <div class="buttons">
+                            <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
+                        </div>
                     </template>
                     <template v-if="hasFlag('eligible-later')">
                         <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
@@ -154,22 +158,39 @@
         <hr>
         <template v-if="selectedPartner.name === 'Do it yourself'">
             <p>You can apply for a pension refund without help. It's harder, but if you speak German, it's not so bad.</p>
-            <p><strong><a href="https://allaboutberlin.com/guides/pension-payments-refund#do-it-yourself">How to apply without help ➞</a></strong></p>
+            <p><strong><a href="/guides/pension-payments-refund#do-it-yourself">How to apply without help ➞</a></strong></p>
         </template>
         <template v-if="selectedPartner.name !== 'Do it yourself'">
             <div class="form-group">
                 <span class="label">Cost estimation</span>
                 <div>
-                    <p class="price">Your pension refund<output v-html="refundAmountHtml"></output></p>
-                    <p class="price">{{ selectedPartner.name }} fee <output v-html="partnerFeeHtml"></output></p>
-                    <p class="price highlighted">You keep<output v-html="totalAfterFeesHtml"></output></p>
+                    <p class="price">
+                        Your pension refund
+                        <output>
+                            <eur :amount="results.refundAmount"></eur>
+                        </output>
+                    </p>
+                    <p class="price">
+                        {{ selectedPartner.name }} fee
+                        <output>
+                            <eur :amount="selectedPartner.fee(results.refundAmount)"></eur>
+                        </output>
+                    </p>
+                    <p class="price highlighted">
+                        You keep
+                        <output>
+                            <eur :amount="Math.max(results.refundAmount - selectedPartner.fee(results.refundAmount), 0)"></eur>
+                        </output>
+                    </p>
                 </div>
             </div>
             <hr>
-            <button class="button primary" @click="setStage('contactInfo')">Continue</button>
+            <div class="buttons right">
+                <button class="button primary" @click="setStage('contactInfo')">Request a refund <i class="icon right"></i></button>
+            </div>
         </template>
     </template>
-    <template v-if="stage === 'contactInfo'" ref="contactForm">
+    <div v-if="stage === 'contactInfo'" ref="contactForm">
         <div class="form-group">
             <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
             <div class="input-group">
@@ -193,7 +214,7 @@
             </div>
         </div>
         <button class="button primary" target="_blank" @click="sendRefundRequest">Apply for a refund</button>
-    </template>
+    </div>
     <template v-if="stage === 'requestConfirmation'">
         <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
     </template>
@@ -203,6 +224,8 @@
 {% include '/js/pension-refund-calculator.js' %}
 {% include '/js/vue.js' %}
 {% include '/js/vue/date-picker.js' %}
+{% include '/js/vue/eur.js' %}
+{% include '/js/vue/glossary.js' %}
 {% js %}
   document.querySelectorAll('.pension-refund-calculator').forEach(
     el => new Vue({
@@ -249,7 +272,7 @@
             {
               name: 'Germany Pension Refund',
               description: "9.75% fee. No refund, no fee.",
-              fee: x => x * 0.975,
+              fee: x => x * 0.0975,
               apiEndpoint: '/api/forms/pension-refund-germanypensionrefund',
             },
             {
@@ -289,7 +312,7 @@
               headers: {'Content-Type': 'application/json; charset=utf-8',},
               body: JSON.stringify({
                 'email': this.emailAddress,
-                'refundAmount': this.refundAmount,
+                'refundAmount': this.results.refundAmount,
                 'eligibilityDate': this.eligibilityDateString,
                 'deliveryDate': this.eligibilityDate.toISOString(),
               }),
@@ -408,22 +431,12 @@
         },
         showStatePicker() {
           // Only show the state picker if the state can affect the refund amount
-          if(!this.refundAmount) { return false; }
+          if(!(this.results && this.results.refundAmount)) { return false; }
 
           const args = [this.nationality, this.countryOfResidence, this.firstDayOfWork, this.lastDayOfWork, this.yearlyIncome];
           const eastGermanResults = calculatePensionRefund(...args, true).refundAmount;
           const westGermanResults = calculatePensionRefund(...args, false).refundAmount;
           return eastGermanResults != westGermanResults;
-        },
-        refundAmount() {
-          if (this.results && this.results.refundAmount) { // TODO: Can the amount be 0?
-            return formatCurrency(this.results.refundAmount, false, '€');
-          }
-        },
-        refundAmountHtml() {
-          if (this.results && this.results.refundAmount) { // TODO: Can the amount be 0?
-            return formatCurrency(this.results.refundAmount, false, '€', true);
-          }
         },
         sortedPartners() {
           return this.partners.sort(
@@ -432,19 +445,6 @@
               return a.fee(this.results.refundAmount) - b.fee(this.results.refundAmount);
             }
           );
-        },
-        partnerFee() {
-          return this.selectedPartner.fee(this.results.refundAmount);
-        },
-        partnerFeeHtml() {
-          if (this.results && this.results.refundAmount) {
-            return formatCurrency(this.partnerFee, false, '€', true);
-          }
-        },
-        totalAfterFeesHtml() {
-          if (this.results && this.results.refundAmount) {
-            return formatCurrency(Math.max(this.results.refundAmount - this.partnerFee, 0), false, '€', true);
-          }
         },
       },
     })
