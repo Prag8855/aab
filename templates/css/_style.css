@@ -99,22 +99,7 @@ table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
 			.collapsible.collapsed .header:after{content:'▼'}
 			.collapsible .header h2{flex:1;margin:0;padding:0;border:none;font-family:var(--font-family-text);font-weight:bold;font-size:18px;line-height:25px;}
 
-	.collapsible .collapsible{border:none;margin-top:var(--spacing-m);margin:0;}
-		.collapsible .collapsible .header{border-bottom:none;padding:var(--spacing-s) 0;}
-		.collapsible .collapsible .body{border-bottom:none;padding:0 0 var(--spacing-s);margin-top:calc(var(--spacing-s) * -1);font-size:var(--font-size-s)}
-
 	.collapsible.income-tax-calculator .collapsible:not(.total) + .total .header{margin-top:var(--spacing-m);}
-		.collapsible.appointment-finder h3{margin:var(--spacing-l) 0 var(--spacing-m)}
-		.collapsible.appointment-finder .checkbox{margin-bottom:var(--spacing-m);font-size:var(--font-size-s);line-height:var(--line-height-compact)}
-		.appointment-finder .options {grid-template-columns:1fr;margin:var(--spacing-m) 0}
-			.appointment-finder .options > *{display:grid;text-align:left;grid-column-gap:var(--spacing-m);grid-template-columns:auto 1fr}
-			.collapsible.appointment-finder .options > :hover{border-color:var(--color-highlight)}
-			.appointment-finder .options svg{height:1.5em;width:auto;margin:0;grid-row-end:span 2}
-		.appointment-finder .options + .timer{margin-bottom:var(--spacing-s)}
-
-.appointment{background:var(--color-background-widget);border:var(--border-widget);border-radius:var(--border-radius);overflow:hidden;margin:var(--spacing-m) 0;padding:var(--spacing-s) var(--spacing-s) var(--spacing-s) var(--spacing-m);display:grid;grid-template-columns:1fr auto;grid-gap:var(--spacing-m);align-items: center}
-	.appointment .button{margin:0}
-
 		.pension-refund-calculator .form-group{grid-template-columns:215px 1fr;}
 		.form-recipient{display:flex;align-items:center;}
 			.form-recipient img{width:125px;height:125px;border:none;margin-right:var(--spacing-m);border-radius:100%}
@@ -147,17 +132,6 @@ table {font-size:var(--font-size-s);margin:var(--spacing-text-block-m) 0;}
 			.show-errors :invalid + .input-symbols, .error + .input-symbols{background-color:var(--color-highlight);border-color:var(--color-highlight);color:#fff;}
 			.show-errors :invalid + .input-symbols:before, .error + .input-symbols:before{content:'✗';}
 			:valid + .input-symbols:before{content:'✓';}
-
-	.health-insurance-options, .appointment-options {margin:var(--spacing-m) 0;display:grid;grid-gap:var(--spacing-m);grid-template-columns:1fr;}
-		.health-insurance-options > *{padding:var(--spacing-m);border:1px solid var(--color-border-input);border-radius:var(--border-radius);display:grid;grid-template-columns: 100px 1fr 180px;grid-gap:var(--spacing-l);align-items:center}
-		.health-insurance-options > *:last-child{margin:0}
-		.health-insurance-options > * img{border:none;background:transparent!important;margin:0 auto!important;object-fit:contain;height:75px;max-width:100px;object-position:center;justify-self:center}
-		.health-insurance-options > * svg{height:var(--size-image-category);margin:0 auto}
-		.health-insurance-options > * h3{margin:0 0 var(--spacing-s);padding:0;font-size:18px;line-height:25px;}
-		.health-insurance-options > * p{line-height:var(--line-height-compact);font-size:var(--font-size-s);margin:0}
-		.health-insurance-options > * .button{padding: 10px var(--spacing-m);margin:0;width:100%;box-sizing:border-box;}
-			.health-insurance-options > * .button output{font-weight:bold;}
-			.health-insurance-options > * > output{padding:10px var(--spacing-m);background:var(--color-background-output);border:1px solid var(--color-border-output);border-radius:var(--border-radius);font-weight:bold;line-height:var(--line-height-compact);text-align:center;}
 
 	.options > * {color:var(--color-text);background:var(--color-background-page);padding:var(--spacing-m);text-align:center;padding:var(--spacing-m);border:var(--border-page);border-radius:var(--border-radius);color:var(--color-text)!important;text-decoration:none;line-height:var(--line-height-compact);display:flex;flex-direction:column;align-items:center;box-sizing:border-box;transition:var(--transition-border)}
 		.options > a{cursor:pointer;border-radius:var(--border-radius-button);justify-content:space-evenly}
@@ -233,13 +207,6 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 	.only-mobile{display:none!important}
 }
 
-/* Content occupies full width */
-@media screen and ( max-width:var(--w-main-column) ) {
-	#main-nav{margin-bottom:0;border-radius:0}
-
-	.glossary-links {grid-template-columns:1fr;}
-}
-
 /* Phones */
 @media screen and ( max-width:600px ) {
 	:root {
@@ -283,21 +250,10 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 		.form-recipient img{width:100px;height:100px}
 
 	input, .button{font-size:var(--font-size-s)}
-	.checkbox{margin-bottom:var(--spacing-s)}
-
-	.appointment{grid-template-columns:100%;padding:var(--spacing-m)}
-
-	.document{grid-template-columns:1fr;grid-gap:var(--spacing-s)}
-		.document small{font-style:italic;color:var(--color-text-light)}
 
 	#places{height:auto;border:0;grid-template-columns:1fr;}
 		#places-map{height:70vh;min-height:250px;border-radius:var(--border-radius);}
 		#places-list li{margin-right:0;}
-
-	.post-date{display:block}
-		.post-reviewers{white-space:nowrap;}
-
-	.health-insurance-calculator .collapsible .header small{display:none;}
 }
 
 @media print{
@@ -318,14 +274,5 @@ footer {color:var(--color-text-light);font-size:var(--font-size-s);}
 		--color-text-02:#000;
 	}
 	#places{display:block}
-
-	.button{border:1px solid #000;text-decoration:none;color:#000!important}
-
-	input[type=range]{height:1px;border:1px solid #000}
-		input[type=range]::-webkit-slider-thumb{border:1px solid #000;box-shadow:none;}
-		input[type=range]::-moz-range-thumb{border:1px solid #000;box-shadow:none;}
-
-	/* Firefox won't print multi-page grid content */
-	main{display:block;margin-top:0!important;}
 }
 {% endcss %}
