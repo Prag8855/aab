@@ -12,7 +12,7 @@ Vue.component('eur', {
       return formatCurrency(this.amount, this.cents, false, false);
     },
     tooltipText() {
-      return getCurrencyTooltipText(this.value);
+      return this.value === '0' ? '' : getCurrencyTooltipText(this.value);
     },
   },
   template: `
