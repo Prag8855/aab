@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Eva Essers
+Name: Dr. Eva Essers
 Description: 
 Website: http://www.praxis-am-urban.de/
 Email: 

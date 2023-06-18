@@ -15,12 +15,12 @@ This guide was written for freelancers in Berlin. If you live in another city, t
 
 To renew a German freelance visa, you must...
 
-1. Gather the [required documents](#required-documents)
+1. Prepare the [required documents](#required-documents)
 2. [Get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment)
 3. Go to your appointment
 4. Wait for your new residence permit
 
-**Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to gather the documents. Some documents must be verified by a (*[[Steuerberater]]*). If you don't have a tax advisor, or if your finances are not organised, you need more time.
+**Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to prepare the [required documents](#required-documents). Some documents must be verified by a (*[[Steuerberater]]*). If you don't have a tax advisor, or if your finances are not organised, you need more time.
 
 A [relocation consultant](/guides/relocation-agency-in-berlin) can help you renew your residence permit. They can help you prepare your documents, find an *[[Ausländerbehörde]]* appointment, and go to the appointment with you.
 
@@ -99,11 +99,11 @@ If you can't find an appointment, you can also [apply by email](/guides/berlin-a
 
 **[If your visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
-### 5. Gather the required documents
+### 5. Prepare the required documents
 
 **When:** 1-3 months before your appointment
 
-Start gathering the required documents as soon as possible. Some documents take time to prepare. If you don't have a tax advisor, or if your finances are not organised, it takes more time.
+Start preparing the required documents as soon as possible. Some documents take more time to prepare. If you don't have a tax advisor, or if your finances are not organised, it takes more time.
 
 If your documents are not in English or German, you might need certified translations. This takes more time and money.
 

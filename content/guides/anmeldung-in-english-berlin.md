@@ -36,7 +36,7 @@ If there are no appointments, look again in a few minutes. New appointments appe
 
 When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need this number when you go to your appointment. If you lose it, ask the *[[Bürgeramt]]* reception for it, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
 
-### Step 2: Gather the required documents
+### Step 2: Prepare the required documents
 
 Bring these documents to your appointment:
 

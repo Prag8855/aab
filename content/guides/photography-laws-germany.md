@@ -28,7 +28,7 @@ You can share a photo of a person without their permission if:
 - **or** the person is a public figure, or part of contemporary history (a politician, a movie star, ...)[^4]
 - **or** the person died more than 10 years ago
 - **or** the people in the picture are accessories in a landscape or special location[^5]
-- **or** the people in the picture are participating to a public gathering, parade or similar event, *and they are not the focus of the photo*[^6]
+- **or** the people in the picture are participating in a public gathering, parade or similar event, *and they are not the focus of the photo*[^6]
 
 ![Crowd people](/images/crowd-people.jpg "You do not need permission to share photos of public gatherings")
 

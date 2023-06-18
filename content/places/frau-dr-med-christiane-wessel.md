@@ -1,5 +1,5 @@
 ---
-Name: Frau Dr. med. Christiane Wessel
+Name: Dr. Christiane Wessel
 Description: 
 Website: http://www.frauen-vital.de/
 Email: 

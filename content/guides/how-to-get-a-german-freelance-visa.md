@@ -191,7 +191,7 @@ I work with [Feather Insurance](/out/feather) since 2018. They helped me get pri
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
-### Step 6: Gather the required documents
+### Step 6: Prepare the required documents
 
 You need a few weeks to prepare the documents for your application. The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to find. Look for them as soon as you can. Documents from your tax advisor can also take a long time to prepare.
 
@@ -356,9 +356,9 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     *[Template](/docs/german-freelance-visa-letter-of-intent) - [example](/docs/letter-of-intent-example-german-freelance-visa) - [detailed guide](/guides/freelance-visa-letter-of-intent)*  
     These letters come from potential clients that want to hire you. They are not necessarily contracts; they only show that companies have the *intention* to hire you. These letters are *really* important.[^41] They prove that you can find work in Germany. Letters of intent in German and from German companies are preferred, and sometimes required.[^42] Signed contracts are better than letters of intent. Some *Ausländerbehörde* employees want letters with salary information.[^43]
 
-### Complete document checklist
+### Document checklist
 
-This list contains the same documents as above. You can use it as a checklist when gathering the documents.
+Here is a summary of all required documents
 
 - [ ] Address registration confirmation (*[[Anmeldebestätigung]]*)
 - [ ] Appointment confirmation from the *Ausländerbehörde*

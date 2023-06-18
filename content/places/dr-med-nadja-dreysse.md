@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Nadja Dreysse
+Name: Dr. Nadja Dreysse
 Description: 
 Website: http://www.praxis-dreysse.de/
 Email: 

@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Eileen Behrens
+Name: Dr. Eileen Behrens
 Description: 
 Website: https://hausarzt-charlottenburg.berlin/
 Email: Ben.Behrens@protonmail.com

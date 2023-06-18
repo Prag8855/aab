@@ -1,20 +1,22 @@
-<aside id="places no-print">
+<aside id="places" class="no-print">
 	<div id="places-map">
 		<noscript>This map needs JavaScript to work.</noscript>
 	</div>
-	<ol id="places-list">
+	<ol>
 		{% for place in entry.related_places %}
 		<li id="place-{{ loop.index }}">
-			<div class="title">
-				<h4>
-					{% if place.website %}
-						<a title="Website of {{ place.name }}" target="_blank" href="{{ place.website }}" target="_blank" position="{{ loop.index }}">{{ place.name }}</a>
-					{% else %}
-						{{ place.name }}
-					{% endif %}
-				</h4>
-				<address><a href="https://www.google.com/maps/search/{{ place.name|urlencode }}/@{{ place.latitude }},{{ place.longitude }}" target="_blank" title="View on Google Maps">{{ place.address }}</a></address>
-			</div>
+			<h4>
+				{% if place.website %}
+					<a title="Website of {{ place.name }}" target="_blank" href="{{ place.website }}" target="_blank" position="{{ loop.index }}">{{ place.name }}</a>
+				{% else %}
+					{{ place.name }}
+				{% endif %}
+			</h4>
+			<address>
+				<a href="https://www.google.com/maps/search/{{ place.name|urlencode }}/@{{ place.latitude }},{{ place.longitude }}" target="_blank" title="View on Google Maps">
+					{{ place.address }}
+				</a>
+			</address>
 			{%- if place.description|default -%}
 				<p>{{ place.description }}</p>
 			{%- endif -%}

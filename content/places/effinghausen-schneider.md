@@ -1,5 +1,5 @@
 ---
-Name: Herr Dr. med. dent. Jan Effinghausen
+Name: Dr. Jan Effinghausen
 Description: 
 Website: https://www.zahnaerzte-berlin-mitte.de/
 Email: 

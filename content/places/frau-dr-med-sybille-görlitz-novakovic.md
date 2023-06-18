@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Sybille Görlitz-Novakovic
+Name: Dr. Sybille Görlitz-Novakovic
 Description: Also speaks French
 Website: https://www.sgn-berlin.de/
 Email: 
