@@ -33,6 +33,20 @@ window.addEventListener("DOMContentLoaded", function() {
     });
   });
 
+  /* Checklists */
+  document.querySelectorAll('li.checkbox').forEach(checklistItem => {
+    checklistItem.addEventListener('click', (e) => {
+      if(
+       e.target.tagName !== 'A'
+       && e.target.tagName !== 'INPUT'
+       && (e.target.parentElement && e.target.parentElement.tagName) !== 'A'
+      ){
+        const checkbox = checklistItem.querySelector('[type=checkbox]');
+        checkbox.checked = !checkbox.checked;
+      }
+    });
+  });
+
   /* Open footnotes when clicking on a footnote link */
   document.querySelectorAll('.footnote-ref').forEach(link => {
     link.addEventListener('click', e => {
