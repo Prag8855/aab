@@ -19,7 +19,7 @@
             :max="incomeInputRange.max">
         <span class="range-suffix no-mobile" @click="incrementIncome">€€€</span>
         <a :class="showExtraQuestions ? 'hide-options' : 'show-options'" @click="toggleExtraQuestions">
-            {{ showExtraQuestions ? 'Hide options' : 'Show more options' }}
+            {{ showExtraQuestions ? 'Hide options' : 'Show options' }}
         </a>
     </div>
     <template v-if="showExtraQuestions">
