@@ -63,7 +63,7 @@
             <label for="age-{% endraw %}{{ id }}{% raw %}">
                 Age
             </label>
-            <div class="input-group">
+            <label class="input-group">
                 <input class="age-input"
                     type="number"
                     inputmode="numeric"
@@ -74,7 +74,7 @@
                     @focus="$event.target.select()"
                     v-model.number="age">
                 years old
-            </div>
+            </label>
         </div>
         <div class="form-group">
             <label for="has-children-{% endraw %}{{ id }}{% raw %}">
