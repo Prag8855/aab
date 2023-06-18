@@ -148,7 +148,7 @@ The display shows a train's last stop, not its direction. For example, if an S2 
 
 ### Rent a bicycle
 
-**[How to ride a bicycle in Berlin ➞ Renting a bicycle](/guides/bicycle-in-berlin#renting-a-bicycle)**
+**[How to rent a bicycle ➞](/guides/bicycle-in-berlin#renting-a-bicycle)**
 
 ### Rent a scooter
 

@@ -101,7 +101,7 @@ If your landlord won't return your deposit, you can get help from your [tenant a
 
 ## Need help?
 
-**[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 ## What's next?
 

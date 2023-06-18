@@ -231,7 +231,7 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324288/en/)

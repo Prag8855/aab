@@ -184,7 +184,7 @@ For example, if you sell goods or services to customers in the United States, yo
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__2.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__3.html)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/File:EU_VAT_Tax_Rates.webp)

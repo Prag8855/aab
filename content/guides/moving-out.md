@@ -68,7 +68,7 @@ If you move out of Germany, you can cancel your phone, internet and electricity 
 
 If you leave Germany, you must tell the GEZ. You will not get any more [GEZ/Rundfunkbeitrag](/glossary/Rundfunkbeitrag) letters. You can deregister [on the Rundfunkbeitrag website](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html). You can also [pay someone to do it for you](/out/deregistrationde-gez).
 
-**[What is the Rundfunkbeitrag? ➞ How to deregister](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**
+**[How to stop paying the TV tax ➞](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**
 
 ## Stop paying the [dog tax](/glossary/Hundesteuer)
 
@@ -170,7 +170,7 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 
 ## Need help?
 
-**[Where to get help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)

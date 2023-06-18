@@ -112,7 +112,7 @@ After a few years, you can apply for [permanent residence](/glossary/Niederlassu
 
 ## Need help?
 
-**[Where to get help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/)

@@ -11,7 +11,7 @@ If you want more information about the German job market, work culture, resumes 
 
 ## Where to look for English-speaking jobs
 
-**[How to find a job ➞ English-speaking jobs](/guides/find-a-job-in-berlin#english-speaking-jobs)**
+**[Job boards for English-speaking jobs ➞](/guides/find-a-job-in-berlin#english-speaking-jobs)**
 
 ## Industries that hire English speakers in Berlin
 

@@ -85,7 +85,7 @@ Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to
 
 ## Need help?
 
-**[How to find a Kita ➞ Where to find help](/guides/how-to-find-a-kita-in-berlin#need-help)**
+**[Where to find help ➞](/guides/how-to-find-a-kita-in-berlin#need-help)**
 
 [^0]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324879/)

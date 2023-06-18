@@ -74,7 +74,7 @@ A tenants' association (*[[Mieterverein]]*) can also help you pay less rent. For
 
 You can also [contact a lawyer](/guides/english-speaking-lawyers-berlin). You will get much better customer service, but it will cost you more, even if you don't get any rent reduction. If you have [legal insurance](/guides/legal-insurance), then a lawyer is the best option.
 
-**[Where to get help ➞ Apartment problems](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [de.trustpilot.com](https://de.trustpilot.com/reviews/5f3239f51a5a690268475345), [ikb-law.blog](https://ikb-law.blog/2020/07/28/strukturell-falsch-berechnete-mietpreisruegen-von-wenigermiete-de-conny-gmbh/)
 [^1]: [de.trustpilot.com](https://de.trustpilot.com/reviews/5f2ae88a1a5a6907a47b7a78)

@@ -94,7 +94,7 @@ There is no exception for police officers.[^14] The rules described above also a
 
 ## Need help?
 
-**[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_stgb/englisch_stgb.html#p1841), [web.archive.org](http://web.archive.org/web/20210728110315/https://www.goethe.de/en/kul/med/20849366.html)
 [^1]: [anwalt.org](https://www.anwalt.org/201a-stgb/), [anwalt.org](https://www.anwalt.org/cybermobbing/#Formen_der_Schikane_im_Internet), [fotomagazin.de](https://www.fotomagazin.de/praxis/fotorecht/fokus-fotorecht-wann-ist-eine-person-erkennbar)

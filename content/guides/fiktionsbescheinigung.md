@@ -49,7 +49,7 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
 [^2]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Wikipedia](https://de.wikipedia.org/wiki/Fiktionsbescheinigung), [Berlin.de](https://service.berlin.de/dienstleistung/326233/en/)

@@ -199,7 +199,7 @@ You need a few weeks to prepare the documents for your application. The [letters
 
 ### Step 7: Go to your freelance visa interview
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 
@@ -207,9 +207,9 @@ Your interview will probably be in German. Some interviewers speak English, but 
 
 ### Step 8: Receive your freelance visa
 
-**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
+**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
+**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 Some people get their freelance visa immediately during the interview.[^20] Other people must wait 6 to 10 weeks on average. It's very random. It depends on your field, and on how well you have prepared. Artists and language teachers almost always get the freelance visa during the interview. Software developers sometimes get it during the interview,[^21] and sometimes later.
 
@@ -405,7 +405,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 
 ## Where to get help
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa), [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/)

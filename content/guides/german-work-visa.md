@@ -272,7 +272,7 @@ You need a few days to prepare the documents for your application. The required 
 
 You go to the *Ausländerbehörde* to give your documents. You will not get your residence permit, just a confirmation letter.
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### Step 11: Receive your work visa
 
@@ -280,9 +280,9 @@ You go to the *Ausländerbehörde* to give your documents. You will not get your
 - **You get**: a work visa
 - **How long it takes**: 8 to 12 weeks[^29]
 
-**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
+**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
+**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply for a Blue Card, it's valid for up to 4 years.
 
@@ -428,7 +428,7 @@ If you don't tell the *Ausländerbehörde* that you lost your job, you and your 
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 [^1]: [topuniversities.com](https://www.topuniversities.com/student-info/careers-advice/how-work-germany-during-or-after-your-studies), [germany-visa.org](https://www.germany-visa.org/student-visa/student-visa-visum-zu-studienzwecken/)

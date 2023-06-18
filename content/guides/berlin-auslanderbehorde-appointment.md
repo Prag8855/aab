@@ -184,7 +184,7 @@ You can also [get help from other places](/guides/questions-about-berlin#immigra
 
 ## Where to get help
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 If you need someone to go with you, I recommend [Red Tape Translation](https://redtapetranslation.com/). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 

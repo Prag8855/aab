@@ -101,7 +101,7 @@ When you walk your dog in Berlin, you must carry poop bags with you. If your dog
 
 ### Dogs on public transit
 
-**[How to use public transit ➞ Dogs on public transit](/guides/public-transit#dogs-on-public-transit)**
+**[How to bring dogs on public transit ➞](/guides/public-transit#dogs-on-public-transit)**
 
 ### Dogs in restaurants and stores
 

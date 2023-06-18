@@ -186,9 +186,9 @@ If you are a freelance artist, publicist or art teacher, you can apply for the *
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions](/guides/questions-about-berlin#immigration-questions)**
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [§7 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__7.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
 [^1]: [allaboutberlin.com](/guides/how-to-get-a-german-freelance-visa#the-german-freelance-visa-requirements)

@@ -232,7 +232,7 @@ If you have a website, it must follow German and European laws. If you make a mi
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [Screenshot](/images/steuerberater-business-bank-account-question.png)
 [^1]: [billomat.com](https://www.billomat.com/magazin/geschaeftskonto-selbststaendige-pflicht/)

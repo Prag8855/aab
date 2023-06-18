@@ -55,9 +55,9 @@ When you are an employee, health insurance is taken from your paycheck. When you
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=LEGISSUM%3Al14573#:~:text=selbststandiger%20nebentatigkeit)
 [^1]: [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)

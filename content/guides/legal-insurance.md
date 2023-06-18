@@ -180,7 +180,7 @@ If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/o
 
 ## Alternatives to legal insurance
 
-**[Where to get help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
 
 For apartment problems, join a tenant association (*[[Mieterverein]]*). [Conny](/out/conny-mietpreisbremse) can help you lower your rent. [Mineko](https://www.mineko.de/) can check your [utilities bill](/glossary/Betriebskostenabrechnung).
 

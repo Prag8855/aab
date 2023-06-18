@@ -235,7 +235,7 @@ You can also ask a [tax advisor](/guides/english-speaking-steuerberater-berlin) 
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 ## What to do next
 
