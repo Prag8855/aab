@@ -63,8 +63,8 @@
           Phone number
         </label>
         <div class="input-group">
-          <input v-model="phoneNumber" type="tel" id="phone-{% endraw %}{{ id }}{% raw %}" placeholder="+49..." autocomplete="tel">
-          <span class="input-instructions">Only if you prefer a phone call.</span>
+          <input v-model="phoneNumber" type="tel" id="phone-{% endraw %}{{ id }}{% raw %}" placeholder="+49..." autocomplete="tel" aria-describedby="instructions-phone-{% endraw %}{{ id }}{% raw %}">
+          <span class="input-instructions" id="instructions-phone-{% endraw %}{{ id }}{% raw %}">Only if you prefer a phone call.</span>
         </div>
       </div>
       <hr>
@@ -73,9 +73,9 @@
           Date of birth
         </label>
         <div class="input-group">
-          <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required></date-picker>
+          <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required aria-describedby="instructions-age-{% endraw %}{{ id }}{% raw %}"></date-picker>
           <span class="input-symbols"></span>
-          <span class="input-instructions">Your age affects your health insurance options.</span>
+          <span class="input-instructions" id="instructions-age-{% endraw %}{{ id }}{% raw %}">Your age affects your health insurance options.</span>
         </div>
       </div>
       <div class="buttons">

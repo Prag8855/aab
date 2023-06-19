@@ -52,6 +52,7 @@
                       <select
                         class="month-input"
                         :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                        aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
                         v-model="firstMonthOfWork">
                           <option value="" disabled selected hidden>Month</option>
                           <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
@@ -59,6 +60,7 @@
                       <select
                         class="year-input"
                         :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                        aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
                         v-model="firstYearOfWork">
                           <option value="" disabled selected hidden>Year</option>
                           <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
@@ -71,6 +73,7 @@
                     <select
                       class="month-input"
                       :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                      aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
                       v-model="lastMonthOfWork">
                         <option value="" disabled selected hidden>Month</option>
                         <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
@@ -78,11 +81,12 @@
                     <select
                       class="year-input"
                       :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                      aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
                       v-model="lastYearOfWork">
                         <option value="" disabled selected hidden>Year</option>
                         <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
                     </select>
-                    <span class="input-instructions">Only include the months that you were employed.</span>
+                    <span class="input-instructions" id="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}">Only include the months that you were employed.</span>
                 </div>
             </div>
             <template v-if="isDateRangeSelected && isDateRangeEligible">
@@ -101,10 +105,10 @@
                         Where did you work in Germany?
                     </label>
                     <div class="input-group">
-                        <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
-                        <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+                        <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState" aria-describedby="instructions-east-west-{% endraw %}{{ id }}{% raw %}">
+                            <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
                         </select>
-                        <span class="input-instructions">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
+                        <span class="input-instructions" id="instructions-east-west-{% endraw %}{{ id }}{% raw %}">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
                     </div>
                 </div>
                 <template v-if="results && results.refundAmount">
@@ -210,9 +214,9 @@
         <div class="form-group">
             <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">Date of birth</label>
             <div class="input-group">
-                <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday"></date-picker>
+                <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday" aria-describedby="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}"></date-picker>
                 <span class="input-symbols"></span>
-                <span class="input-instructions">Required by the Deutsche Rentenversicherung</span>
+                <span class="input-instructions" id="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}">Required by the Deutsche Rentenversicherung</span>
             </div>
         </div>
         <div class="buttons">
