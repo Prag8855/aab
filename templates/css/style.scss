@@ -82,8 +82,8 @@
     --b-input: 1px solid var(--c-border-input);
 
     // Shadow
-    --shadow-l: 0 var(--s) var(--xl) calc(var(--m) * -1) #0002;
-    --shadow-s: 0 var(--xs) var(--s) calc(var(--s) * -1) #0002;
+    --shadow-l: 0 var(--s) var(--xl) calc(var(--m) * -1) #0005;
+    --shadow-s: 0 var(--xs) var(--s) calc(var(--s) * -1) #0003;
 
     --text-decoration-link: none;
     --text-decoration-hint: underline dotted var(--c-border-hint) 1.5px;
@@ -330,16 +330,14 @@ body{
 }
 
 body > header {
-    @include page-borders;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding: 0 calc(var(--w-page-border) - var(--m));
 
     background: var(--c-highlight);
     grid-area: header;
     border-radius: 0 0 var(--b-radius) var(--b-radius);
     box-shadow: var(--shadow-l);
 
-    display:flex;
+    display: flex;
     justify-content: space-between;
     align-items: stretch;
     height: var(--h-header);
@@ -413,7 +411,6 @@ body > header {
         background: var(--i-logo) no-repeat var(--m) center / var(--w-logo) auto;
 
         font-size: var(--xl);
-        margin-left: calc(var(--m) * -1);
         padding-left: calc(var(--w-logo) + var(--m) + var(--s));
         line-height: var(--height-header);
         font-family: var(--font-family-header);
@@ -430,7 +427,7 @@ body > header {
 
     @include only-phone{
         border-radius: 0;
-        a{
+        #sections > a, #sections > a:visited{
             font-size: var(--f-s);
             padding: 0 var(--s);
         }
@@ -439,6 +436,7 @@ body > header {
 
 .table-of-contents{
     h2{
+        margin: 0;
         font-size: var(--l);
     }
 
@@ -507,7 +505,7 @@ main{
             border-radius: 0;
         }
 
-        h2:first-child{margin-bottom: var(--xl)}
+        > h2:first-child{margin-bottom: var(--xl)}
 
         > :first-child{margin-top: 0;}
         > :last-child{margin-bottom: 0;}
@@ -983,7 +981,7 @@ sup:target a{
             display: none;
         }
 
-        > ol{margin-bottom:0}
+        > ol{margin: var(--m) 0 0}
 
         @include not-desktop{
             + h2{
@@ -992,8 +990,6 @@ sup:target a{
             }
         }
     }
-
-
 
     .footnote-ref{
         margin-left:2px;
