@@ -233,7 +233,7 @@
 
 @mixin list-ul{
     &:before {
-        content:'-'
+        content:'–';
     }
 }
 @mixin list-none{
@@ -685,6 +685,10 @@ main{
 
             ol {
                 margin: 0;
+            }
+            li {
+                @include list-ul;
+                padding-left: 2ch;
             }
 
             @include only-phone{
@@ -1869,6 +1873,7 @@ details{
     }
 
     > li {
+        @include list-none;
         text-align: center;
         line-height: var(--line-height-label);
         background: var(--c-bg-page);
