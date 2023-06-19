@@ -11,7 +11,7 @@
     <div class="form-group">
       <label for="question-{{ id }}">Your question</label>
       <div class="input-group">
-        <textarea v-model="question" id="question-{{ id }}" class="required" required placeholder=" "></textarea>
+        <textarea v-model="question" id="question-{{ id }}" required placeholder=" "></textarea>
         <span class="input-symbols"></span>
       </div>
     </div>
@@ -20,7 +20,7 @@
         Name
       </label>
       <div class="input-group">
-        <input v-model="fullName" type="text" class="required" required autocomplete="name">
+        <input v-model="fullName" type="text" required autocomplete="name">
         <span class="input-symbols"></span>
       </div>
     </div>
@@ -29,7 +29,7 @@
         Email
       </label>
       <div class="input-group">
-        <input v-model="emailAddress" type="email" id="email-{{ id }}" class="required" required autocomplete="email">
+        <input v-model="emailAddress" type="email" id="email-{{ id }}" required autocomplete="email">
         <span class="input-symbols"></span>
       </div>
     </div>
@@ -37,14 +37,14 @@
     <div class="form-group">
       <label for="nationality-{{ id }}">Nationality</label>
       <div class="input-group">
-        <input type="text" v-model="nationality" id="nationality-{{ id }}" list="countries-{{ id }}" required class="required">
+        <input type="text" v-model="nationality" id="nationality-{{ id }}" list="countries-{{ id }}" required>
         <span class="input-symbols"></span>
       </div>
     </div>
     <div class="form-group">
       <label for="country-of-residence-{{ id }}">Where do you live?</label>
       <div class="input-group">
-        <input type="text" v-model="countryOfResidence" id="country-of-residence-{{ id }}" list="countries-{{ id }}" required class="required">
+        <input type="text" v-model="countryOfResidence" id="country-of-residence-{{ id }}" list="countries-{{ id }}" required>
         <span class="input-symbols"></span>
       </div>
     </div>

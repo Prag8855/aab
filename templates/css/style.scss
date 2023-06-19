@@ -1420,6 +1420,35 @@ input[type=range] {
     }
 }
 
+.input-symbols{
+    align-self: center;
+    display: flex;
+
+    &:after{
+        border-radius: 50%;
+        line-height: 1;
+        width: 1em;
+        height: 1em;
+            text-align: center;
+    }
+}
+[required], .required{
+    + .input-symbols:after{
+        content: '*';
+    }
+}
+.show-errors{
+    .error, :invalid{
+        border-color: var(--c-highlight)!important;
+        outline: 1px solid var(--c-highlight)!important;
+        + .input-symbols:after{
+            content: '×';
+            background: var(--c-highlight);
+            color: #fff;
+        }
+    }
+}
+
 .search-form{
     @include form-input;
     max-width: 25rem;

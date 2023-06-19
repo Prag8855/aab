@@ -17,7 +17,7 @@
       <div class="form-group">
         <label for="question-{% endraw %}{{ id }}{% raw %}">Your question</label>
         <div class="input-group">
-          <textarea v-model="question" id="question-{% endraw %}{{ id }}{% raw %}" class="required" required placeholder=" "></textarea>
+          <textarea v-model="question" id="question-{% endraw %}{{ id }}{% raw %}" required placeholder=" "></textarea>
           <span class="input-symbols"></span>
         </div>
       </div>
@@ -45,7 +45,7 @@
           Name
         </label>
         <div class="input-group">
-          <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="name">
+          <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" required autocomplete="name">
           <span class="input-symbols"></span>
         </div>
       </div>
@@ -54,7 +54,7 @@
           Email
         </label>
         <div class="input-group">
-          <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="email">
+          <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" required autocomplete="email">
           <span class="input-symbols"></span>
         </div>
       </div>

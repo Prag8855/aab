@@ -123,7 +123,7 @@
                         <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
                         <p>We can send you an email reminder in {{ eligibilityDateString }}. Just enter your email.</p>
                         <div class="input-group">
-                            <input type="email" placeholder="Your email address" v-model="emailAddress" class="required" required autocomplete="email">
+                            <input type="email" placeholder="Your email address" v-model="emailAddress" required autocomplete="email">
                             <span class="input-symbols"></span>
                         </div>
                         <div class="buttons">
@@ -196,14 +196,14 @@
         <div class="form-group">
             <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
             <div class="input-group">
-                <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="name">
+                <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" required autocomplete="name">
                 <span class="input-symbols"></span>
             </div>
         </div>
         <div class="form-group">
             <label for="email-{% endraw %}{{ id }}{% raw %}">Email</label>
             <div class="input-group">
-                <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" class="required" required autocomplete="email">
+                <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" required autocomplete="email">
                 <span class="input-symbols"></span>
             </div>
         </div>

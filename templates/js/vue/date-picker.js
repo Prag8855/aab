@@ -100,7 +100,7 @@ Vue.component('date-picker', {
     year() { this.onChange() },
   },
   template: `
-    <fieldset class="date-picker" :class="{required: required}" ref="fieldset">
+    <fieldset class="date-picker" :required="required" ref="fieldset">
       <input
         :autocomplete="autocomplete == 'bday' ? 'bday-day' : 'on'"
         :class="{required: required}"
