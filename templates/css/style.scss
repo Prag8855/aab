@@ -1579,6 +1579,7 @@ input[name="username"], // Honeypot
 
 .previews{
     > li {
+        @include list-none;
         display: grid;
         grid-template-columns:300px 1fr;
         grid-gap: var(--m);
@@ -1790,11 +1791,14 @@ details{
             margin: var(--m) auto 0 auto;
             border: var(--b-box);
             box-shadow: var(--shadow-l);
+            transition: transform 0.2s;
         }
 
         &:hover img{
             border-color:var(--c-border-box)!important;
+            transform: scale(1.05);
             outline:none;
+            transition: transform 0.2s;
         }
     }
 
