@@ -1,6 +1,7 @@
 <ol class="previews">
 {% for entry in entries %}
-    <li aria-label="{{ entry.title }}" class="{{ entry.url.split('/')[0] }}">
+    {% set entryType = entry.url.split('/')[1] %}
+    <li aria-label="{{ entry.title }}" class="{{ entryType }}">
         <h3>
             <a href="{{ entry.url }}" rel="bookmark">
                 {% if entry.url.startswith('guides/') %}
@@ -23,8 +24,11 @@
                 <time content="{{ dateToUse.strftime('%F') }}" datetime="{{ dateToUse.strftime('%F') }}">{{ dateToUse.strftime('%B %-d, %Y') }}</time>
             {% endif %}
         </h3>
-        <p>{{ entry.description }}</p>
-        <script type="application/ld+json">{% include "guides/_jsonld.json" %}</script>
+        {% if entryType == 'guides' %}
+            <script type="application/ld+json">{% include "guides/_jsonld.json" %}</script>
+        {% else %}
+            <p>{{ entry.description }}</p>
+        {% endif %}
     </li>
 {% endfor %}
 </ol>

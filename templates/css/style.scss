@@ -1635,6 +1635,20 @@ input[name="username"], // Honeypot
             font-size: var(--f-s);
         }
     }
+
+    .guides{
+        grid-template-columns: 1fr;
+        h3{
+            display: grid;
+            grid-template-columns: 1fr auto;
+            gap: var(--m);
+
+            @include only-phone{
+                grid-template-columns: 1fr;
+                gap: var(--xs);
+            }
+        }
+    }
 }
 
 details{
