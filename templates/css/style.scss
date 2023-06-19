@@ -2082,7 +2082,7 @@ details{
     }
 
     ol{
-        counter-reset: line-number;
+        counter-reset: list;
         overflow:auto;
         margin: 0;
         padding: var(--m) var(--m) 0;
@@ -2138,6 +2138,14 @@ details{
         #places-map{
             height: 60vh;
         }
+    }
+
+    @include only-print{
+        display: block;
+        margin: 0;
+        padding: 0;
+        height: auto;
+        border: none;
     }
 }
 
