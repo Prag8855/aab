@@ -103,7 +103,7 @@ Investment income is also subject to the [church tax](/glossary/Kirchensteuer) a
 
 Your tax class affects how your [salary tax](/glossary/Lohnsteuer) is calculated. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only changes how much income tax you pay *in advance*, as salary tax.
 
-You can change your tax class online with [[Elster]]. If you are self-employed, you might not have a tax class, because you don't need to calculate your salary tax.[^1]
+You can change your tax class online with [[ELSTER]]. If you are self-employed, you might not have a tax class, because you don't need to calculate your salary tax.[^1]
 
 There are 6 tax classes:
 

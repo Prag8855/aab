@@ -1,5 +1,5 @@
 ---
-Title: What is Elster?
+Title: What is ELSTER?
 German_term: ELSTER
 English_term: Electronic tax declaration tool
 Description: An online platform to take care of tax-related matters.

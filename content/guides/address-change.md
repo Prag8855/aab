@@ -52,7 +52,7 @@ You should also tell...
     You can change your address on your health insurer's online portal, or by asking your insurance broker.
 - [ ] **The [[Finanzamt]]**
     - [ ] **If you have a business**  
-        If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/Elster), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]
+        If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/ELSTER), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]
     - [ ] **If you have a dog**  
         Tell the *Finanzamt* about your address change. This is because you must pay a dog tax (*[[Hundesteuer]]*). [This guide](/guides/hundesteuer) shows you how to change your address. You must also change your address in the [dog registry](https://hunderegister.berlin.de/) (*[[Hunderegister]]*). [How to register your dog in Berlin](/guides/hundesteuer).
 - [ ] **The TV tax** (*[[Rundfunkbeitrag]]*)  
