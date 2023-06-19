@@ -70,6 +70,9 @@
         tooltip.close();
       }
     });
-    setTooltipLinks(document.querySelector('main .article-body'));
+    const article = document.querySelector('main .article-body');
+    if (article){
+      setTooltipLinks(article);
+    }
   });
 {% endjs %}
