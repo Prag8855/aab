@@ -360,7 +360,7 @@ body > header {
         cursor: pointer;
         &:hover{
             background-color: #fff2;
-            text-decoration: var(--text-decoration-link);
+            text-decoration: none;
         }
     }
 
@@ -903,7 +903,7 @@ sup:target a{
     img{
         @include box;
         background: var(--c-bg-widget);
-        color: var(--color-text-light)!important;
+        color: var(--c-text-light)!important;
         font-size:var(--f-s);
 
         &[src*="/illustrations/"]{
@@ -943,6 +943,7 @@ sup:target a{
     }
 
     .table-wrapper{
+        @include text-block;
         overflow-x: auto;
         margin-right: calc(var(--w-page-border) * -1);
         padding-right: var(--w-page-border);
@@ -950,7 +951,6 @@ sup:target a{
     }
     table {
         font-size:var(--f-s);
-        margin: var(--spacing-text-block-m) 0;
 
         tr:last-child td{
             border-bottom:var(--b-box);
@@ -984,6 +984,13 @@ sup:target a{
         }
 
         > ol{margin-bottom:0}
+
+        @include not-desktop{
+            + h2{
+                border-top: 0;
+                padding-top: 0;
+            }
+        }
     }
 
 
@@ -1017,8 +1024,7 @@ sup:target a{
 
                 &:before{
                     content: counter(footnotes) ".";
-                    margin-right: var(--spacing-s);
-                    width:3ch;
+                    width: 3ch;
                     flex:0 0 auto
                 }
 
