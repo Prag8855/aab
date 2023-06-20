@@ -91,7 +91,7 @@ If required, get an eye test (*Sehtest*). You can get a [free eye test at Fielma
 
 If required, get driving lessons. Sometimes you must only take theory classes, and sometimes you must also take driving lessons with a car.
 
-**[How to drive in Germany](https://routetogermany.com/)** - Route to Germany
+**[How to drive in Germany](https://routetogermany.com/drivingingermany/city-driving)** - Route to Germany
 
 Sometimes, you only need to take a driving test. If you are Canadian or American, you should take driving lessons, even if they are not required. The driving rules are *very* different in Europe, and you are not prepared to drive here.
 
