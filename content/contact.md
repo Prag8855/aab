@@ -11,7 +11,7 @@ Hi, I'm Nicolas. You can contact me to…
 - **Give feedback**  
     If have suggestions for the website, let me know. Your feedback helps me improve the website and give better advice.
 - **Say thanks**  
-    I *love* hearing from happy readers! If my work helped you, you can also [leave a tip](/donate).
+    I *love* hearing from happy readers! If my work helped you, you can also [donate a few euros](/donate) to support the website.
 - **Advertise your business**  
     Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) first. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
@@ -39,6 +39,6 @@ Hi, I'm Nicolas. You can contact me to…
 
 ### Donate
 
-This website is my full time job. If my work helped you, [leave a tip](/donate "Donate to All About Berlin"). You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), [Patreon](/out/patreon), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
+This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me. You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), [Patreon](/out/patreon), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
 
 {% include "_blocks/tipJar.html"%}
