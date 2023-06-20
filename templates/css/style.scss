@@ -1059,7 +1059,7 @@ sup:target a{
         }
         li{
             &:target{
-                background:var(--c-text-selection);
+                background: var(--c-text-selection);
                 outline: 2px solid var(--c-text-selection);
             }
 
@@ -2077,6 +2077,10 @@ details{
     grid-template-columns:215px 1fr;
 }
 
+@keyframes highlight {
+    from { background-color:var(--c-text-selection); box-shadow: 0 0 0 var(--s) var(--c-text-selection);}
+    to { background-color:transparent; box-shadow: 0 0 0 var(--s) transparent; }
+}
 #places{
     @include text-block;
     @include box;
@@ -2098,10 +2102,7 @@ details{
         counter-reset: list;
         overflow:auto;
         margin: 0;
-        padding: var(--m) var(--m) 0;
-        display: flex;
-        gap: var(--m);
-        flex-direction: column;
+        padding: 0 var(--m);
 
         li{
             border-bottom: var(--b-box);
@@ -2112,10 +2113,17 @@ details{
             font-size: var(--f-s);
 
             margin: 0;
-            padding:0 0 var(--m);
+            padding:var(--m) 0;
+
+            &:before{position: static;}
 
             > * {
                 grid-column-start: 2;
+            }
+
+            &.highlighted{
+                border-radius: var(--b-radius);
+                animation: highlight 1.5s ease 0s 1 alternate;
             }
 
             h4{

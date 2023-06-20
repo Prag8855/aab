@@ -1,14 +1,4 @@
 {% css %}
-
-@keyframes highlight {
-	from { background-color:var(--color-text-selection)}
-	to {background-color:transparent}
-}
-
-.highlight{animation:highlight 1.5s ease 0s 1 alternate !important}
-
-:valid + .input-symbols:before{content:'✓';}
-
 @media screen and ( max-width:1279px ) {
 	main{grid-template-columns:100%;}
 		.sidebar {width:0;height:0;margin:0;padding:0;border:none;position:relative;z-index:1000;}

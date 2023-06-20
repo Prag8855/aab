@@ -27,6 +27,7 @@
 		{% endfor %}
 	</ol>
 </aside>
+{% js %}{% include "/js/googleMapsMarkerClusterer.js" %}{% endjs %}
 <script>
 function initMap() {
 	const placesMap = document.getElementById('places-map');
@@ -43,7 +44,6 @@ function initMap() {
 	{% for place in entry.related_places %}
 		markers.push(new google.maps.Marker({
 			position: {lat: {{ place.latitude }}, lng: {{ place.longitude }} },
-			map: googleMap,
 			title: "{{ place.name }}",
 			label: "{{ loop.index }}"
 		}));
@@ -52,28 +52,20 @@ function initMap() {
 	markers.forEach((marker) => {
 		bounds.extend(marker.position)
 		marker.addListener('click', function() {
-			markers.forEach((marker) => {
-				// Remove the highlight class from all places
-				const otherPlaceElement = document.getElementById(`place-${marker.label}`)
-				otherPlaceElement.classList.remove('highlight');
-				void otherPlaceElement.offsetWidth; // Triggers a reflow and the highlight animation
-			})
-			const placeElement = document.getElementById(`place-${marker.label}`);
-
-			const scrollTo = placeElement.scrollIntoViewIfNeeded ? 'scrollIntoViewIfNeeded' : 'scrollIntoView';
-			placeElement[scrollTo]({ block: 'end', behavior: 'smooth' });
-			placeElement.classList.add('highlight');
+			const placeLi = document.getElementById(`place-${marker.label}`);
+			placeLi.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+			placeLi.classList.add('highlighted');
+			setTimeout(() => placeLi.classList.remove('highlighted'), 2000);
 		});
 	});
-	const placeListingAddressLinks = document.querySelectorAll('#places-list li address a');
-	placeListingAddressLinks.forEach((addressLink, index) => {
-		addressLink.addEventListener('click', (e) => {
-			e.preventDefault();
-			googleMap.setZoom(13);
-			googleMap.panTo(markers[index].position);
+	new MarkerClusterer(googleMap, markers);
 
-			const scrollTo = placesMap.scrollIntoViewIfNeeded ? 'scrollIntoViewIfNeeded' : 'scrollIntoView';
-			placesMap[scrollTo]({ block: 'end', behavior: 'smooth' });
+	document.querySelectorAll('#places address a').forEach((a, index) => {
+		a.addEventListener('click', (e) => {
+			e.preventDefault();
+			googleMap.setZoom(14);
+			googleMap.panTo(markers[index].position);
+			placesMap.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
 		});
 	})
 	googleMap.fitBounds(bounds);
