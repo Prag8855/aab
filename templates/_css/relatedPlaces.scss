@@ -22,46 +22,46 @@
         overflow:auto;
         margin: 0;
         padding: 0 var(--m);
+    }
+    li{
+        @include list-ol;
+        border-bottom: var(--b-box);
+        position: relative;
+        display: grid;
+        grid-template-columns:3ch 1fr;
+        font-size: var(--f-s);
+        margin: 0;
+        padding:var(--m) 0;
 
-        li{
-            border-bottom: var(--b-box);
+        &:before{position: static;}
 
-            position: relative;
-            display: grid;
-            grid-template-columns:3ch 1fr;
-            font-size: var(--f-s);
+        > * {
+            grid-column-start: 2;
+        }
 
-            margin: 0;
-            padding:var(--m) 0;
+        &.highlighted{
+            border-radius: var(--b-radius);
+            animation: highlight 1.5s ease 0s 1 alternate;
+        }
 
-            &:before{position: static;}
+        h4{
+            @include text-bold;
+        }
+        address{
+            overflow: hidden;
+            text-overflow: ellipsis;
 
-            > * {
-                grid-column-start: 2;
+            a{
+                color: var(--c-text-light);
+                white-space: nowrap;
             }
+        }
+        p{
+            margin: var(--s) 0 0;
+        }
 
-            &.highlighted{
-                border-radius: var(--b-radius);
-                animation: highlight 1.5s ease 0s 1 alternate;
-            }
-
-            h4{
-                @include text-bold;
-            }
-            address{
-                overflow: hidden;
-                text-overflow: ellipsis;
-
-                a{
-                    color: var(--c-text-light);
-                    white-space: nowrap;
-                }
-            }
-            p{
-                margin: var(--s) 0 0;
-            }
-
-            &:last-child{border-bottom: none}
+        &:last-child{
+            border-bottom: none
         }
     }
 

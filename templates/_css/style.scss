@@ -296,7 +296,6 @@ body > header {
 
     li{
         @include list-ul;
-
         &:not(.expanded) ol {
             display: none;
         }
@@ -330,10 +329,7 @@ body > header {
     }
 
     li{
-        padding-left: 2ch;
-        &:before{
-            content: '–';
-        }
+        @include list-ul-compact;
         a, a:hover{
             color: var(--c-text);
         }
@@ -455,9 +451,6 @@ main{
             font-size: var(--m);
 
             li{
-                margin: 0;
-                padding: 0;
-
                 display: grid;
                 grid-template-columns: var(--w-img-bio-s) 1fr;
                 grid-template-areas: "photo description";
@@ -521,8 +514,7 @@ main{
                 margin: 0;
             }
             li {
-                @include list-ul;
-                padding-left: 2ch;
+                @include list-ul-compact;
             }
 
             @include only-phone{
@@ -583,36 +575,16 @@ hr{
 }
 
 ul, ol{
+    counter-reset: list;
     ul, ol {
         @include text-block-compact;
     }
 
     li {
-        @include text-block-compact;
-
-        position: relative;
-        padding-left: 3ch;
         list-style: none;
-
-        &:before{
-            position: absolute;
-            left: 0;
-            content: "–";
-        }
-
-        &:first-child{margin-top:0}
-        &:last-child{margin-bottom:0}
-
         > blockquote{
             margin:var(--s) 0
         }
-    }
-}
-ol {
-    counter-reset: list;
-    > li:before{
-        counter-increment: list;
-        content: counter(list) ". ";
     }
 }
 
@@ -777,6 +749,21 @@ sup:target a{
         }
     }
 
+    > ol > li, :not(.collapsible) ol > li{
+        @include list-ol;
+    }
+    > ul > li, :not(.collapsible) ul > li{
+        @include list-ul;
+    }
+    li.checkbox{
+        position:relative;
+        > input[type=checkbox]:first-child{
+            position:absolute;
+            left: 0;
+            top: 0.15rem;
+        }
+    }
+
     .table-of-contents{
         @include widget;
 
@@ -817,13 +804,11 @@ sup:target a{
             @include only-phone{column-count: 1;}
         }
         li{
+            @include list-ol;
             &:target{
                 background: var(--c-text-selection);
                 outline: 2px solid var(--c-text-selection);
             }
-
-            &:first-child{margin-top:0}
-            &:last-child{margin-bottom:0}
         }
 
         p:first-child{margin-top: 0}
@@ -960,19 +945,6 @@ label.checkbox{
     }
     input + *{
         margin-left: var(--s);
-    }
-}
-
-li.checkbox{
-    @include list-none;
-    position:relative;
-    margin-left:var(--w-checkbox);
-    padding-left:calc(var(--s));
-
-    > input[type=checkbox]:first-child{
-        position:absolute;
-        left:calc(var(--w-checkbox) * -1);
-        top: 0.15rem;
     }
 }
 
@@ -1346,12 +1318,9 @@ input[name="username"], // Honeypot
 
 .previews{
     > li {
-        @include list-none;
         display: grid;
         grid-template-columns:300px 1fr;
         gap: var(--m);
-        margin: 0;
-        padding: 0;
 
         + li{
             border-top: var(--b-box);
@@ -1680,9 +1649,6 @@ details{
 
     > * {
         @include box-m;
-        @include list-none;
-        margin: 0;
-
         display: grid;
         grid-template-columns: var(--w-img-logo) 1fr;
         grid-auto-flow: column;

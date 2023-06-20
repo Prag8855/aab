@@ -224,12 +224,28 @@ $width-main-column: 860px;
 }
 
 @mixin list-ul{
+    @include text-block-compact;
+
+    padding-left: 3ch;
+    position: relative;
+    list-style: none;
+
     &:before {
+        position: absolute;
+        left: 0;
         content:'–';
     }
+    &:first-child{margin-top:0}
+    &:last-child{margin-bottom:0}
 }
-@mixin list-none{
+@mixin list-ul-compact{
+    @include list-ul;
+    padding-left: 2ch;
+}
+@mixin list-ol{
+    @include list-ul;
     &:before {
-        content: none;
+        counter-increment: list;
+        content: counter(list) ". ";
     }
 }
