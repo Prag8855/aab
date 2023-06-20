@@ -14,7 +14,7 @@ This guide shows you how to apply for a German work visa or EU Blue Card.
 - The **[German work visa](/glossary/Work%20Visa)** is a [residence permit](/glossary/Aufenthaltstitel) that lets you work as an employee in Germany.
 - The **[EU Blue Card](/glossary/Blue%20Card)** is like a work visa, but better. The application process is almost the same.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a work visa or Blue Card?
 
@@ -242,7 +242,7 @@ You need German health insurance to get a residence permit.[^40]
 
 Health insurance brokers help you choose the best health insurance for your needs. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 I recommend [Feather Insurance](/out/feather) because I work with them since 2018. I know the founder and the team personally. They helped me switch to private health insurance in 2021. They helped thousands of my readers over the years.
 

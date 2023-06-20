@@ -10,7 +10,7 @@ When you [move out of your apartment](/guides/moving-out) and leave Germany, you
 
 This guide explains why and how to do your *Abmeldung* in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who needs to deregister
 
@@ -182,7 +182,7 @@ If you own a business in Germany, you might also need to deregister your busines
 
 2 years after you leave Germany, you can get a refund for your public pension payments. You can get thousands of euros back.
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculator.html' %}
 
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 

@@ -1,7 +1,7 @@
 <style>{% scss %}
-	@import 'css/_animations.scss';
-	@import 'css/_breakpoints.scss';
-	@import 'css/_mixins.scss';
+	@import '_css/animations.scss';
+	@import '_css/breakpoints.scss';
+	@import '_css/mixins.scss';
 
 	#places{
 	    @include text-block;
@@ -121,7 +121,7 @@
 		{% endfor %}
 	</ol>
 </aside>
-{% js %}{% include "/js/googleMapsMarkerClusterer.js" %}{% endjs %}
+{% js %}{% include "_js/googleMapsMarkerClusterer.js" %}{% endjs %}
 <script>
 function initMap() {
 	const placesMap = document.getElementById('places-map');

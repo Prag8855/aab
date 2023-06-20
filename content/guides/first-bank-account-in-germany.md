@@ -9,7 +9,7 @@ This guide helps you choose your first bank account in Germany.
 
 ![Cash coins cards german banks](/illustrations/cash-coins-cards-german-banks.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Why you need a bank account
 

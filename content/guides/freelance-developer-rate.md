@@ -9,7 +9,7 @@ If you want to [become a freelancer in Germany](/guides/become-a-freelancer-in-g
 
 This guide helps you set your rates as a freelance software developer in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What to prepare for
 

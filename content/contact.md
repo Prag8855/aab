@@ -41,4 +41,4 @@ Hi, I'm Nicolas. You can contact me to…
 
 This website is my full time job. If my work helped you, [leave a tip](/donate "Donate to All About Berlin"). You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), [Patreon](/out/patreon), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
 
-{% include "blocks/_tipJar.html"%}
+{% include "_blocks/tipJar.html"%}

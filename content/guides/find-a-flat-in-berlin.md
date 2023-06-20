@@ -9,7 +9,7 @@ This guide shows you how to find your first apartment or [WG](/glossary/WG) in B
 
 ![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Is it hard to find an apartment?
 

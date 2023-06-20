@@ -8,7 +8,7 @@ Date_updated: 2023-01-29
 
 This guide is for people who are thinking about buying their first house or apartment in Germany. It lists the things you must know before making a decision.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Renting vs. buying in Germany
 

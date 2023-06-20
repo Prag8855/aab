@@ -39,7 +39,7 @@
 	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d">
 	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b">
 
-	{% include '/js/events.js' %}
+	{% include '_js/events.js' %}
 </head>
 <body class="{{ body_class|default('') }}">
 {% block body %}
@@ -48,7 +48,7 @@
 			All About Berlin
 		</a>
 		<nav id="sections">
-			{% include 'blocks/_searchForm.html' %}
+			{% include '_blocks/searchForm.html' %}
 			<a title="Guides about life in Berlin" href="{{ site_url }}/guides">Guides</a>
 			<a title="Tools and calculators" href="{{ site_url }}/tools">Tools</a>
 			<a title="Bürgeramt and Ausländerbehörde documents translated to English" href="{{ site_url }}/docs" class="no-mobile">Documents</a>
@@ -73,7 +73,7 @@
 	</footer>
 {% endblock %}
 {% block postFooter %}
-	{% include 'blocks/_tooltip.html' %}
+	{% include '_blocks/tooltip.html' %}
 	<script>
 		{% alljs %}
 	</script>

@@ -1,4 +1,4 @@
-{% include '/js/constants.js' %}
+{% include '_js/constants.js' %}
 {% js %}
 function monthsBetween(dateA, dateB) {
   const startDate = new Date(dateA);

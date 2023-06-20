@@ -1,4 +1,4 @@
-{% include '/js/vue.js' %}
+{% include '_js/vue.js' %}
 {% js %}{% raw %}
 Vue.component('glossary', {
   data: {

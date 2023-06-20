@@ -7,7 +7,7 @@ Date_created: 2019-10-25
 
 After you [move to berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Before the move
 
@@ -104,7 +104,7 @@ During your *Anmeldung*, you get a registration certificate ([*Anmeldebestätigu
 
 Book your *Anmeldung* appointment as soon as you can. Appointments are hard to find, and can be far in the future. Your appointment date must be after you move in.
 
-{% include "blocks/_appointmentFinder.html" %}
+{% include "_blocks/appointmentFinder.html" %}
 
 If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin). You only need to deregister if you leave Germany.
 

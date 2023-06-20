@@ -25,7 +25,7 @@
             {% endif %}
         </h3>
         {% if entryType == 'guides' %}
-            <script type="application/ld+json">{% include "guides/_jsonld.json" %}</script>
+            <script type="application/ld+json">{% include "_blocks/guideJsonld.json" %}</script>
         {% else %}
             <p>{{ entry.description }}</p>
         {% endif %}

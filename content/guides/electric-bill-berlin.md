@@ -8,7 +8,7 @@ Related_reviews: reviews/electric-bill-berlin/matthias-martensen.md
 
 It's hard to know how much your electricity bill will be if you never lived in Germany before. Fortunately, it's very easy to calculate.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## One household, two bills
 

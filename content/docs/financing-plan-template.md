@@ -19,6 +19,6 @@ You need this form to [apply for a freelance visa](/guides/how-to-get-a-german-f
 
 ## Download the template
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}
 
 This is the official example from [Berlin.de](https://service.berlin.de/dienstleistung/305249/). The Berlin *[[Ausländerbehörde]]* prefers that you use this template, but you can also make your own *Finanzierungsplan*.

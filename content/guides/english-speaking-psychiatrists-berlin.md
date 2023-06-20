@@ -29,7 +29,7 @@ This guide explains:
 
 **[Go to the list of psychiatrists ↓](#places-map)**
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Psychiatrist or psychotherapist?
 
@@ -47,7 +47,7 @@ It's hard. It's much harder if you have [public health insurance](/glossary/gese
 
 ## List of English-speaking psychiatrists
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}
 
 ### Other lists of psychiatrists
 

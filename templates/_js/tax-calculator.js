@@ -1,7 +1,7 @@
-{% include '/js/utils.js' %}
-{% include '/js/constants.js' %}
-{% include '/js/health-insurance-calculator.js' %}
-{% include '/js/pension-refund-calculator.js' %}
+{% include '_js/utils.js' %}
+{% include '_js/constants.js' %}
+{% include '_js/health-insurance-calculator.js' %}
+{% include '_js/pension-refund-calculator.js' %}
 {% js %}
 function isEmployed(occupation) {
   return ['employee', 'studentEmployee', 'azubi'].includes(occupation);

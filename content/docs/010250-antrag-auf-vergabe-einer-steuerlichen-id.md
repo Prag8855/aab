@@ -19,7 +19,7 @@ If you already did your *[[Anmeldung]]*, you don't need this form. You can wait 
 
 ## Download the form
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}
 
 The original form is [on the BZSt website](/out/taxid-form).
 

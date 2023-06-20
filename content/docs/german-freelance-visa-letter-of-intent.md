@@ -20,6 +20,6 @@ When you [apply for the German freelance visa](/guides/how-to-get-a-german-freel
 
 ## Download the template
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}
 
 See the [letter of intent example](/docs/letter-of-intent-example-german-freelance-visa) for the final result.

@@ -6,7 +6,7 @@
       <span class="only-mobile no-print" aria-hidden="true">Ask a broker</span>
     </summary>
   {% endif %}
-  {% include "blocks/_formHoneypot.html" %}
+  {% include "_blocks/formHoneypot.html" %}
   {% raw %}
     <template v-if="stage === 'contactInfo'">
       <div class="form-recipient">
@@ -87,9 +87,9 @@
     </template>
   {% endraw %}
 </details>
-{% include '/js/utils.js' %}
-{% include '/js/vue.js' %}
-{% include '/js/vue/date-picker.js' %}
+{% include '_js/utils.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/date-picker.js' %}
 {% js %}
   document.querySelectorAll('.health-insurance-question').forEach(
     el => new Vue({

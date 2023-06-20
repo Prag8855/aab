@@ -9,7 +9,7 @@ Date_created: 2017-10-13
 
 Downloading movies in Germany [is risky](https://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1,000€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How is piracy prosecuted in Germany?
 

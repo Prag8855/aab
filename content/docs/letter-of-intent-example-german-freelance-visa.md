@@ -21,4 +21,4 @@ This [letter of intent](/glossary/Absichtserkl%C3%A4rung) was used by a software
 
 ## Download the example letter
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}

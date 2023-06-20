@@ -12,7 +12,7 @@ This guide shows you how to apply for the German freelance visa. This [residence
 
 If you apply for an [artist visa](/glossary/Artist%20visa) or a language teacher visa, the process is the same.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a German freelance visa?
 
@@ -183,7 +183,7 @@ If you just moved to Germany and never had German health insurance, you might be
 
 If you don't know which health insurance to choose, **just talk to a health insurance broker**. They will help you find the best, cheapest health insurance for your situation. You will be 100% sure that your insurance is valid for your visa application, and that you have good coverage. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 I work with [Feather Insurance](/out/feather) since 2018. They helped me get private health insurance and save over 400€ per month. They speak English, and they have a lot of experience with expat freelancers.
 

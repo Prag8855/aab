@@ -38,4 +38,4 @@ There are also [other people who can help you](/guides/questions-about-berlin#im
 
 If someone is missing from this list, [contact me](/suggest-business).
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}

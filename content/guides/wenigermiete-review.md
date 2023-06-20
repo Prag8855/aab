@@ -11,7 +11,7 @@ In 2015, Berlin passed the *[[Mietpreisbremse]]* law. It's a rent control law th
 
 *This article was not suggested, written or approved by Conny. I have done independent research, and these opinions are my own.*
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How does it work?
 

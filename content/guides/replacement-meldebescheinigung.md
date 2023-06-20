@@ -11,7 +11,7 @@ You can also get a copy of your registration certificate (*Meldebescheinigung*).
 
 You need a *Meldebestätigung* or a *Meldebescheinigung* to verify your address. Your bank, your health insurer, your cellphone company, the *[[Bürgeramt]]* and the *[[Ausländerbehörde]]* often ask for this document.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Anmeldebestätigung or Meldebescheinigung?
 

@@ -7,7 +7,7 @@ Date_created: 2017-09-08
 
 Germans take recycling seriously. It's hard to sort your trash correctly. This guide will help.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Types of recycling bins
 

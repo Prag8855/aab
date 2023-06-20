@@ -9,7 +9,7 @@ If you run a business in Germany, you will need to pay a trade tax (*Gewerbesteu
 
 This guide explains everything you need to know about this tax: how much it costs, who has to pay it, and how to pay it.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How much is the Gewerbesteuer?
 

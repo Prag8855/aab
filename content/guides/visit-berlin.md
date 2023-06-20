@@ -7,7 +7,7 @@ Date_created: 2017-09-15
 
 This guide is for tourists who want to visit Berlin. If you want to move to Berlin, read my [ moving to Berlin guide](/guides/moving-to-berlin).
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Visa requirements
 

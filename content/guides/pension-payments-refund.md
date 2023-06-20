@@ -13,13 +13,13 @@ When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}%
 
 In this guide, I show you if you can get a pension refund, and how to apply for it.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who can get a pension payments refund?
 
 **Short answer:** use the pension refund calculator.
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculator.html' %}
 
 **Long answer:** It depends on your citizenship, and the country you live in. The rules are different for every country.
 
@@ -247,7 +247,7 @@ You will not get a refund for your employer's contributions.[^15] If you already
 
 If you are a freelancer, you will only get 50% of your pension payments back ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income).[^17] By default, freelancers do not make public pension payments. If you did not make public pension payments, you will not get any money back.
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculator.html' %}
 
 If you want to know the exact amount, ask the [[Deutsche Rentenversicherung]] for a *Versicherungsverlauf* [here](/out/drv-pension-payments-info) (in German). [Germany Pension Refund](/out/germany-pension-refund) and [FundsBack](/out/fundsback) can also check the amount for you, for free. Either way, it only takes a few days. I have done it myself, and it was very easy.
 
@@ -344,7 +344,7 @@ If you have questions, write to the [[Deutsche Rentenversicherung]]. Their email
 
 [Germany Pension Refund](/out/germany-pension-refund), [FundsBack](/out/fundsback), [Pension Refund Germany](/out/german-pension-refund), [Taxback](/out/taxback) or [Germany Mantra](/out/germany-mantra) can request a refund for you. They will take care of everything, but they charge a fee for their service.
 
-{% include 'blocks/_pensionRefundQuestion.html' %}
+{% include '_blocks/pensionRefundQuestion.html' %}
 
 Tax advisors rarely have experience with German pension refunds. German embassies and consulates do not help you with German pension refunds.
 

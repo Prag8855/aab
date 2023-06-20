@@ -7,7 +7,7 @@ Date_created: 2017-12-06
 
 On Sundays and [public holidays](/guides/public-holidays), most shops in Berlin must close, but there are exceptions. This guide shows you where to buy groceries and other things on a Sunday.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is open on Sundays in Berlin?
 

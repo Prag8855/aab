@@ -18,7 +18,7 @@
 		{% block precontent %}{% endblock %}
 		<article class="section">
 			<h1>{{ entry.title }}</h1>
-			{% include "blocks/_postMeta.html" %}
+			{% include "_blocks/postMeta.html" %}
 			{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
 				<div class="article-body">
 					{{ entry.body|render|safe }}
@@ -27,7 +27,7 @@
 		</article>
 
 		{% with pageType='guide' %}
-			{% include "blocks/_donationPrompt.html" %}
+			{% include "_blocks/donationPrompt.html" %}
 		{% endwith %}
 		<aside class="section no-print" aria-label="Affiliate links notice">
 			<p>
@@ -38,7 +38,7 @@
 			<aside id="related" class="section no-print" aria-label="Collections that include this guide">
 				<h2>Related guides</h2>
 				{% with collections=related_collections, currentEntry=entry %}
-					{% include "blocks/_collections.html" %}
+					{% include "_blocks/collections.html" %}
 				{% endwith %}
 			</aside>
 		{% endif %}
@@ -46,10 +46,10 @@
 	
 	<div class="sidebar no-print">
 		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showRelatedEntriesLink=related_collections|length %}
-			{% include 'blocks/_tableOfContents.html' %}
+			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
 	</div>
-	{% include "js/sidebar.js" %}
+	{% include "_js/sidebar.js" %}
 {% endblock %}
 
 {% block postFooter %}
@@ -123,7 +123,7 @@
 					"@id": "{{ site_url }}/#organization"
 				}
 			},
-			{% include "guides/_jsonld.json" %}
+			{% include "_blocks/guideJsonld.json" %}
 		]
 	</script>
 {% endblock %}

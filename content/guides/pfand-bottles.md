@@ -12,7 +12,7 @@ The *Pfand* system is a big part of [sorting your trash in Germany](/guides/sort
 
 ![Illustration of bottles with a deposit (Pfand)](/illustrations/pfand-bottles.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How much is the deposit?
 

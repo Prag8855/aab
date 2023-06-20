@@ -6,11 +6,11 @@ Date_created: 2022-06-15
 
 This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*.
 
-{% include "blocks/_appointmentFinderStatic.html" %}
+{% include "_blocks/appointmentFinderStatic.html" %}
 
 **[Other ways to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What's wrong with Bürgeramt appointments?
 

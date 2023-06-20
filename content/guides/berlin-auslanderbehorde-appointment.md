@@ -13,7 +13,7 @@ There are two ways to go to the Berlin *Ausländerbehörde*:
 - **Without an appointment**  
     If you can't get an appointment, you must [apply by email](#by-email). You can't go in person without an appointment.[^3]
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Is it hard to get an appointment?
 

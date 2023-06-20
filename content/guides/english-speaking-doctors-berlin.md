@@ -69,4 +69,4 @@ For emergencies, call [112](tel:112). They speak English.
 
 This list is compiled by hand. If a doctor is missing, [contact me](/contact).
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}

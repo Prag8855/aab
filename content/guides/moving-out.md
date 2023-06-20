@@ -7,7 +7,7 @@ Date_created: 2019-10-05
 
 This guide shows you what you must do when you move out of your apartment in Germany.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## End your lease
 
@@ -166,7 +166,7 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 
 **If you leave Germany**, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^28] You can get thousands of euros back.[^36]
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculator.html' %}
 
 ## Need help?
 

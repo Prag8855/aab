@@ -9,7 +9,7 @@ This guide shows you how to **renew** a [German freelance visa](/glossary/Freela
 
 This guide was written for freelancers in Berlin. If you live in another city, the process can be a little different.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Freelance visa renewal process
 
@@ -64,7 +64,7 @@ When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health i
 
 It usually takes 1 or 2 weeks to switch to another health insurance. In some cases, it takes up to 3 months. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose health insurance, and fill the paperwork for you. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 

@@ -8,7 +8,7 @@ Related_reviews: reviews/insurance/derrick-löhr.md, reviews/insurance/dr-rob-sc
 
 This is an overview of the common types of insurance in Germany, and why they are important.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Liability insurance
 
@@ -69,13 +69,13 @@ Get this insurance if you can't afford to replace everything after a fire. 76% o
 
 Health insurance is required for all German residents. It pays for your healthcare when you need it.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 The best way to find health insurance is to talk to an independent broker. Their services are free; they get a commission from the insurance company when you sign a contract.
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 ## Pet health insurance ([[Tierkrankenversicherung]])
 

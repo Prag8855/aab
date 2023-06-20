@@ -9,7 +9,7 @@
 
 {% block content %}
     <h1>{{ entry.title }}</h1>
-    {% include "blocks/_postMeta.html" %}
+    {% include "_blocks/postMeta.html" %}
     {% with entry=entry, showSupportLink=true %}
         <div class="article-body">
             {{ entry.body|render|safe }}
@@ -20,7 +20,7 @@
 
 {% block postcontent %}
     {% with pageType='tool' %}
-        {% include "blocks/_donationPrompt.html" %}
+        {% include "_blocks/donationPrompt.html" %}
     {% endwith %}
     <aside class="section">
         <p>

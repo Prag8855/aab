@@ -89,5 +89,5 @@ window.addEventListener("DOMContentLoaded", function() {
   document.addEventListener('auxclick', handleOutRedirect);
 });
 
-{% include "js/currency.js" %}
+{% include "_js/currency.js" %}
 {% endjs %}

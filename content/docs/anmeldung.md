@@ -21,7 +21,7 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
 
 ## Download the Anmeldung form
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}
 
 ## How to fill this form
 

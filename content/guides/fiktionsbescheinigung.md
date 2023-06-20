@@ -10,7 +10,7 @@ This guide explains what a *Fiktionsbescheinigung* is, how it works and how to g
 
 It also tells you when you can travel with a Fiktionsbescheinigung.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is a Fiktionsbescheinigung?
 

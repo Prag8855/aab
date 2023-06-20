@@ -7,7 +7,7 @@ Date_created: 2018-02-28
 
 This guide shows you how to convert your driving licence to a German driving licence. It's how I exchanged my Canadian driver licence in 2016.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who can drive in Germany?
 

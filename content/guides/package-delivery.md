@@ -14,7 +14,7 @@ This happens with all delivery services: [DHL](https://de.trustpilot.com/review/
 
 This guide shows you what you can do about it.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Where is my package?
 

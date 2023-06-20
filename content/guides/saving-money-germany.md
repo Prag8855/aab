@@ -7,7 +7,7 @@ Date_created: 2020-08-27
 
 This guide shows you different ways to save money in Germany. Most of those tricks do not require you to change your lifestyle.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Change electricity and gas providers every year
 
@@ -26,7 +26,7 @@ You can also do this with [car insurance](/guides/car-insurance-germany). Most c
 
 [Health insurance](/glossary/Krankenversicherung) is often your second biggest expense, after rent. There are many ways to pay less for health insurance. My [health insurance calculator](/tools/health-insurance-calculator) shows you what options you have.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### Use your EHIC card
 
@@ -47,7 +47,7 @@ Public health insurance is usually the best option, but in [some specific cases]
 
 **This is not a simple decision.** Private health insurance is not always a better option. This decision has serious long term consequences. Talk to a health insurance broker first. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 Public health insurance has a 3 month *[[Kündigungsfrist]]*. If you decide to switch to private health insurance, you must stay another 3 months on public health insurance.
 

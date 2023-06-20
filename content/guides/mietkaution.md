@@ -9,7 +9,7 @@ Before you [move into an apartment](/guides/moving-in) in Germany, you must give
 
 In this guide, I tell you how the deposit works, and how to get your deposit back.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How much is the Kaution?
 

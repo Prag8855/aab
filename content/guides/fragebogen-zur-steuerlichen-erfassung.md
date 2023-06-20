@@ -15,7 +15,7 @@ When you fill this form, you get:
 
 Since 2021, there is no paper form. You must fill this form online.[^0]
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Different ways register your business
 

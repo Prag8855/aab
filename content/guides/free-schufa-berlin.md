@@ -7,7 +7,7 @@ Date_created: 2017-09-01
 
 After you [find an apartment you love](/guides/find-a-flat-in-berlin), you must apply for it. Your application must usually include a *[Schufa Bonitätsauskunft](/glossary/Schufa)*. It's a bit like a credit report. A good Schufa score shows that you can pay your rent on time.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Do you have a Schufa record?
 

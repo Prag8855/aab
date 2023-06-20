@@ -21,7 +21,7 @@ This is the official template. You can use your own template, but some *[[Auslä
 
 ## Download the Ertragsvorschau template
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}
 
 The original template is on [Berlin.de](https://service.berlin.de/dienstleistung/305249/).
 

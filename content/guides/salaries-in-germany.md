@@ -6,7 +6,7 @@ Date_created: 2022-07-20
 
 When you [look for a job in Germany](/guides/find-a-job-in-berlin), you must know what salary you should get. This helps you negotiate a better salary.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Salaries by profession
 
@@ -31,7 +31,7 @@ When you negotiate your salary, you negotiate your [gross income](/glossary/Brut
 
 In Germany, you pay [around 35% of your salary](/tools/tax-calculator) in taxes and social contributions.[^0] Your employer takes them directly from your paycheck.
 
-{% include 'blocks/_taxCalculator.html' %}
+{% include '_blocks/taxCalculator.html' %}
 
 You pay these taxes and contributions:
 

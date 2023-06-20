@@ -10,7 +10,7 @@ A letter of intent (*[[Absichtserklärung]]*) is a letter that says "I plan to h
 
 A letter of intent is not a contract. The person who wrote the letter is not forced to do anything.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Why are letters of intent important?
 

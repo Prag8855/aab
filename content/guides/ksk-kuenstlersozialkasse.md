@@ -11,7 +11,7 @@ Related_reviews:
 
 If you are a freelance artist, publicist or art teacher, you should apply for the Künstlersozialkasse (KSK). This guide explains how and why.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is the Künstlersozialkasse?
 
@@ -222,7 +222,7 @@ The KSK is not a health insurer. You must [choose health insurance](/guides/germ
 
 If you don't have health insurance yet, talk to a health insurance broker. Health insurance is complicated for freelancers, and it's easy to make mistakes. A broker will help you choose the right insurance for your needs. Tell your broker that you plan to join the KSK.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 **While you wait for the KSK's decision**, you also need health insurance. During that time, it's better to have public health insurance to avoid [KSK backpayments](/guides/ksk-kuenstlersozialkasse#backpayments).
 
@@ -471,7 +471,7 @@ If you are not sure about this, [talk to a health insurance broker](/guides/germ
 
 If you have private health insurance, you usually need to pay more to cover your family. The KSK does not pay for this. In this case, you should consider public health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you decide.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 ### Do I get [unemployment benefits](/glossary/ALG%20I)?
 

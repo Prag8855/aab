@@ -7,7 +7,7 @@ Date_created: 2020-05-02
 
 In Germany, you can't share photos and videos of other people without their permission. In this guide, we explain the rules every photographer must follow.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Taking photos of people
 

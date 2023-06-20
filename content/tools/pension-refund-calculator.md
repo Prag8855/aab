@@ -5,7 +5,7 @@ Description: This calculator shows you if you can get a German pension refund, a
 Date_created: 2022-02-12
 ---
 
-{% include 'blocks/_pensionRefundCalculatorStatic.html' %}
+{% include '_blocks/pensionRefundCalculatorStatic.html' %}
 
 **[How to apply for a pension refund ➞](/guides/pension-payments-refund#how-to-ask-for-a-pension-refund)**
 

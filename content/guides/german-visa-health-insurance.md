@@ -8,7 +8,7 @@ Related_reviews: reviews/german-visa-health-insurance/dr-rob-schumacher.md
 
 If you apply for a German visa or [residence permit](/glossary/Aufenthaltstitel), you need health insurance. This guide shows you how to choose valid health insurance for your German residence permit or visa application.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## For a Schengen visa
 
@@ -58,7 +58,7 @@ Travel insurance is not accepted when you apply for a residence permit.
 
 If you are not sure, ask a health insurance broker. They will help you choose the right insurance for your visa application. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 If you already know what you need, use [Tarifcheck](/out/tarifcheck-health) to compare health insurance prices.
 
@@ -89,7 +89,7 @@ If you are a student, public health insurance is very cheap. It's a little more 
 
 First, [read my guide on German health insurance](/guides/german-health-insurance). If you need help to choose health insurance, ask a health insurance broker. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 [^0]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982)

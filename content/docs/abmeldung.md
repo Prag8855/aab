@@ -15,7 +15,7 @@ Fill this form to deregister your address in Germany (*[[Abmeldung]]*). In Berli
 
 ## Download the Abmeldung form
 
-{% include "blocks/_downloadDocuments.html"%}
+{% include "_blocks/downloadDocuments.html"%}
 
 The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402609-20151120_abmeldung.pdf).
 

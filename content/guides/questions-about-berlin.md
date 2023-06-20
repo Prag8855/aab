@@ -7,7 +7,7 @@ Date_created: 2017-09-27
 
 If this website does not answer your questions, this is where you can find help about life in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## General questions
 

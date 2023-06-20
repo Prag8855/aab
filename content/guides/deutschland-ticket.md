@@ -15,7 +15,7 @@ Summary:
 - Tourists must buy it from a different place
 - In Berlin, you can get it from the [BVG](/out/deutschland-ticket-bvg) or the [Deutsche Bahn](/out/deutschland-ticket-s-bahn)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is the Deutschland Ticket?
 

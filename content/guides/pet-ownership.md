@@ -7,7 +7,7 @@ Date_created: 2020-12-16
 
 This is a list of things you must know and do if you want to have a dog in Germany.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Bringing your dog to Germany
 

@@ -1,4 +1,4 @@
-{% include '/js/constants.js' %}
+{% include '_js/constants.js' %}
 {% js %}
 function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, hasChildren, zusatzbeitrag}) {
   const isEmployee = occupation == 'employee';

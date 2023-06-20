@@ -7,7 +7,7 @@ Related_reviews: reviews/how-to-get-a-kitagutschein/lisa-hübner-moreno.md, revi
 
 A *[[Kitagutschein]]* is a voucher that provides your child with free childcare in Berlin. A number of factors determine your child’s eligibility for a *Kitagutschein.* Childcare in a *Kita* is free for all children. However, you must still apply for a *Kitagutschein*. You may also need to pay extra costs to the *Kita* for food, outings, and special events.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who can get a Kitagutschein?
 

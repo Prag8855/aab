@@ -7,7 +7,7 @@ Date_created: 2022-01-20
 
 This tool calculates your German [net income](/glossary/Netto%20income), after taxes and social contributions. It's your take-home salary, the money you keep every month.
 
-{% include 'blocks/_taxCalculatorStatic.html' %}
+{% include '_blocks/taxCalculatorStatic.html' %}
 
 ## The taxes you pay in Germany
 
@@ -51,7 +51,7 @@ There are three types of health insurance:
 
 If you are an employee, your employer pays half of it. If you earn less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you can use your parents' or spouse's health insurance for free. Students get a cheaper tariff.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
