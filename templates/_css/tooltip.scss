@@ -1,0 +1,64 @@
+@import '_css/mixins.scss';
+
+dialog{
+    &[open]{
+        @include text;
+        @include box-l;
+        border: none;
+        max-width: calc(min(var(--w-main-column), calc(100% - 2 * var(--w-page-border))));
+        margin: var(--w-page-border) auto;
+        box-sizing: border-box;
+
+        display:grid;
+        align-items: center;
+        grid-template-columns: 1fr auto;
+        gap: var(--xl) var(--m);
+
+        background: var(--c-bg-page);
+        box-shadow: var(--shadow-l);
+    }
+
+    &::backdrop{
+        backdrop-filter: blur(3px) contrast(0.9) brightness(0.8) grayscale(0.2);
+        background: transparent;
+    }
+
+    h2 small {
+        display: block;
+        margin-top: var(--xs);
+    }
+
+    h2 a, h2 a:visited{
+        color: var(--c-text-heading);
+        &:hover{
+            text-decoration: none;
+            dfn{
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .close-button{
+        padding: var(--s);
+        margin-right: calc(var(--s) * -1);
+        color: var(--c-border-clickable);
+        &:hover{
+            color: var(--c-border-clickable-hover);
+            cursor: pointer;
+            transition: var(--transition-border);
+        }
+        .icon{
+            display: block;
+        }
+    }
+
+    .article-body{
+        border-top: var(--b-box);
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+
+    .footnote-ref{
+        display: none
+    }
+}

@@ -1,10 +1,78 @@
 /*******************************************************************************
  * 
- * MIXINS
+ * Breakpoints
  *
 *******************************************************************************/
 
-// Boxes
+$width-desktop: 1280px;
+$width-tablet: 600px;
+$width-main-column: 860px;
+
+@mixin only-desktop {
+    @media screen and (min-width: #{$width-desktop}) {
+        @content;
+    }
+}
+
+@mixin not-desktop {
+    @media screen and (max-width: #{$width-desktop - 1px}) {
+        @content;
+    }
+}
+
+@mixin only-tablet {
+    @media screen and (min-width: #{$width-tablet}) and (max-width: #{$width-desktop - 1px}) {
+        @content;
+    }
+}
+
+@mixin full-width-site {
+    @media screen and (max-width: $width-main-column) {
+        @content;
+    }
+}
+
+@mixin only-phone {
+    @media screen and (max-width: #{$width-tablet - 1px}) {
+        @content;
+    }
+}
+
+@mixin not-phone {
+    @media screen and (min-width: #{$width-tablet}) {
+        @content;
+    }
+}
+
+@mixin only-print {
+    @media print{
+        @content;
+    }
+}
+
+@include only-phone{
+    .no-mobile{
+        display: none!important;
+    }
+}
+
+@include not-phone {
+    .only-mobile{
+        display: none!important;
+    }
+}
+
+@include only-print {
+    .no-print{
+        display: none!important;
+    }
+}
+
+/*******************************************************************************
+ * 
+ * Boxes
+ *
+*******************************************************************************/
 
 @mixin page-borders{
     padding: var(--xl) var(--w-page-border);
@@ -54,53 +122,11 @@
     }
 }
 
-// The little arrow next to components
-
-@mixin expansible{
-    &:after{
-        content: '';
-        width: 1em;
-        height: calc(var(--line-height-text) * 1em);
-        display: inline-block;
-        margin-left: var(--xs);
-        vertical-align: middle;
-        mask-image: var(--i-expand);
-        mask-repeat: no-repeat;
-        mask-position: center right;
-        background-color:currentColor;
-        opacity: 0.5;
-        transition: transform 0.2s;
-    }
-
-    &:hover:after{
-        opacity: 1;
-        transition: transform 0.2s, opacity 0.2s;
-    }
-}
-@mixin collapsible{
-    &:after{
-        transform: scaleY(-1);
-    }
-}
-
-@mixin widget{
-    @include box-l;
-    background: var(--c-bg-widget);
-    box-shadow: var(--shadow-s);
-}
-
-@mixin list-ul{
-    &:before {
-        content:'–';
-    }
-}
-@mixin list-none{
-    &:before {
-        content: none;
-    }
-}
-
-// Text
+/*******************************************************************************
+ * 
+ * Text
+ *
+*******************************************************************************/
 
 @mixin heading{
     font-family: 400 1rem 'Libre Franklin', 'Open Sans', sans-serif;
@@ -156,4 +182,54 @@
 @mixin text-bold{
     font-weight: 600;
     color: var(--c-text-heading);
+}
+
+/*******************************************************************************
+ * 
+ * Others
+ *
+*******************************************************************************/
+
+@mixin expansible{
+    &:after{
+        content: '';
+        width: 1em;
+        height: calc(var(--line-height-text) * 1em);
+        display: inline-block;
+        margin-left: var(--xs);
+        vertical-align: middle;
+        mask-image: var(--i-expand);
+        mask-repeat: no-repeat;
+        mask-position: center right;
+        background-color:currentColor;
+        opacity: 0.5;
+        transition: transform 0.2s;
+    }
+
+    &:hover:after{
+        opacity: 1;
+        transition: transform 0.2s, opacity 0.2s;
+    }
+}
+@mixin collapsible{
+    &:after{
+        transform: scaleY(-1);
+    }
+}
+
+@mixin widget{
+    @include box-l;
+    background: var(--c-bg-widget);
+    box-shadow: var(--shadow-s);
+}
+
+@mixin list-ul{
+    &:before {
+        content:'–';
+    }
+}
+@mixin list-none{
+    &:before {
+        content: none;
+    }
 }
