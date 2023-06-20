@@ -1,3 +1,18 @@
+// Highlight an element after scrolling
+@keyframes highlight {
+    from { background-color:var(--c-text-selection); box-shadow: 0 0 0 var(--s) var(--c-text-selection);}
+    to { background-color:transparent; box-shadow: 0 0 0 var(--s) transparent; }
+}
+
+// Beating heart
+@keyframes pulse {
+  0% { transform: scale(1); }
+  10% { transform: scale(1.2); }
+  20% { transform: scale(1.2); }
+  30% { transform: scale(1); }
+}
+
+// Shake the tip jar
 @keyframes shake {
     0% { transform:rotate(0deg)}
     20% { transform:rotate(2deg)}
@@ -5,6 +20,7 @@
     80% { transform:rotate(2deg)}
 }
 
+// Disable all animations
 @media (prefers-reduced-motion: reduce) {
     *,:before,:after {
         animation-delay: -1ms !important;

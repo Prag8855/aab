@@ -261,7 +261,7 @@
             <p>In your case, there are ways to get insured for free.</p>
             <ul class="health-insurance-options">
                 <li v-if="result.flags.has('familienversicherung-parents') || result.flags.has('familienversicherung-spouse')">
-                    {% endraw %}{% include "css/icons/family.svg" %}{% raw %}
+                    {% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
                     <div>
                         <h3>Family insurance</h3>
                         <p v-if="result.flags.has('familienversicherung-parents')">If your parents or your spouse have German public health insurance, their insurance can cover you for free.</p>
@@ -270,7 +270,7 @@
                     <output>Free</output>
                 </li>
                 <li v-if="occupation === 'unemployed'">
-                    {% endraw %}{% include "css/icons/bank.svg" %}{% raw %}
+                    {% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
                     <div>
                         <h3>ALG I or II</h3>
                         <p>If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The Jobcenter pays for it.</p>
@@ -278,7 +278,7 @@
                     <output>Free</output>
                 </li>
                 <li v-if="result.flags.has('ehic')">
-                    {% endraw %}{% include "css/icons/passport.svg" %}{% raw %}
+                    {% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
                     <div>
                         <h3>European Health Insurance Card</h3>
                         <p>If you have a EHIC from another country, you might not need German health insurance.</p>
@@ -291,7 +291,7 @@
         <p>You can get <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>. There are many <glossary term="Krankenkasse">public health insurers</glossary> to choose from. Their price and coverage is almost the same.</p>
         <div class="health-insurance-options">
             <a title="Sign up with Techniker Krankenkasse" :href="result.tarif === 'student' ? '/out/tk-calc-students' : '/out/tk-calc'" target="_blank">
-                {% endraw %}{% include "css/icons/health-insurance/logo-tk.svg" %}{% raw %}
+                {% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
                 <div>
                     <h3>Techniker Krankenkasse</h3>
                     <p>The largest health insurer in Germany. They have English-speaking support.</p>
@@ -301,7 +301,7 @@
                 </output>
             </a>
             <a title="Sign up with BARMER" href="/out/barmer-calc" target="_blank">
-                {% endraw %}{% include "css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
+                {% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
                 <div>
                     <h3>Barmer</h3>
                     <p>The second largest public health insurer. They have an English-speaking Expat Hub.</p>
@@ -311,7 +311,7 @@
                 </output>
             </a>
             <a title="Sign up with AOK" href="/out/aok-calc" target="_blank">
-                {% endraw %}{% include "css/icons/health-insurance/logo-aok.svg" %}{% raw %}
+                {% endraw %}{% include "_css/icons/health-insurance/logo-aok.svg" %}{% raw %}
                 <div>
                     <h3>AOK (Nordost)</h3>
                     <p>Another large public health insurer. There are different AOK branches for each part of Germany.</p>
@@ -326,21 +326,21 @@
             <p>You can also get <glossary term="private Krankenversicherung">private health insurance</glossary>. It can be better and cheaper than public health insurance. Don't choose private health insurance without help. You can make expensive mistakes.</p>
             <div class="health-insurance-options">
                 <a @click.prevent="showBrokerOptions()" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-                    {% endraw %}{% include "css/icons/help.svg" %}{% raw %}
+                    {% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
                     <div>
                         <h3>Ask a health insurance broker</h3>
                         <p>They help you choose the right insurance for your situation. Their help is free.</p>
                     </div>
                 </a>
                 <a title="Learn more about the KSK" v-if="result.flags.has('ksk')" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
-                    {% endraw %}{% include "css/icons/liability.svg" %}{% raw %}
+                    {% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
                     <div>
                         <h3>Join the Künstlersozialkasse (KSK)</h3>
                         <p>If you are a freelance artist or publicist, you can join the KSK. The KSK pays half of your health insurance.</p>
                     </div>
                 </a>
                 <a title="Get a quote from Ottonova" href="/out/ottonova-calc" target="_blank">
-                    {% endraw %}{% include "css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
+                    {% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
                     <div>
                         <h3>Get a quote from Ottonova</h3>
                         <p>Ottonova is a private health insurer. They speak English.</p>
@@ -357,21 +357,21 @@
         <p>A broker can help you choose between hundreds of insurance options. It's the safest way to choose health insurance.</p>
         <div class="health-insurance-options">
             <a title="Get a quote from Feather" href="/out/feather-calc" target="_blank">
-                {% endraw %}{% include "css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+                {% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
                 <div>
                     <h3>Feather Insurance</h3>
                     <p>They are fast and fully digital, but they have a smaller choice of insurances. I have health insurance with Feather, and I work with them since 2018.</p>
                 </div>
             </a>
             <a title="Get a quote from Muffin" href="/out/muffin-health" target="_blank">
-                {% endraw %}{% include "css/icons/health-insurance/logo-muffin.svg" %}{% raw %}
+                {% endraw %}{% include "_css/icons/health-insurance/logo-muffin.svg" %}{% raw %}
                 <div>
                     <h3>Muffin</h3>
                     <p>A newer insurance broker. They have more choice than Feather. They are fully digital; you can even talk to them on WhatsApp.</p>
                 </div>
             </a>
             <a title="Get a quote from Tarifcheck" href="/out/tarifcheck-calc" target="_blank">
-                {% endraw %}{% include "css/icons/health-insurance/logo-tarifcheck.svg" %}{% raw %}
+                {% endraw %}{% include "_css/icons/health-insurance/logo-tarifcheck.svg" %}{% raw %}
                 <div>
                     <h3>Tarifcheck</h3>
                     <p>Enter information about you, and get a call from a broker. You might get a broker that never worked with immigrants.</p>
@@ -468,7 +468,7 @@
           this.stage = 'insuranceOptions';
           this.hasShownInsuranceOptions = true;
           Vue.nextTick(() => {
-            scrollIntoViewIfNeeded(this.$refs.collapsible);
+            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'smooth' });
           });
 
           if(!this.hasShownInsuranceOptions) {
@@ -478,13 +478,13 @@
         hideInsuranceOptions: function() {
           this.stage = 'start';
           Vue.nextTick(() => {
-            scrollIntoViewIfNeeded(this.$refs.collapsible);
+            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'smooth' });
           });
         },
         showBrokerOptions: function() {
           this.stage = 'brokerOptions';
           Vue.nextTick(() => {
-            scrollIntoViewIfNeeded(this.$refs.collapsible);
+            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'smooth' });
           });
 
           if(!this.hasShownBrokerOptions) {
@@ -494,7 +494,7 @@
         hideBrokerOptions: function() {
           this.stage = 'insuranceOptions';
           Vue.nextTick(() => {
-            scrollIntoViewIfNeeded(this.$refs.collapsible);
+            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'smooth' });
           });
         },
       },

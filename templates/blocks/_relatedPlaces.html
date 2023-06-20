@@ -1,3 +1,97 @@
+<style>{% scss %}
+	@import 'css/_animations.scss';
+	@import 'css/_breakpoints.scss';
+	@import 'css/_mixins.scss';
+
+	#places{
+	    @include text-block;
+	    @include box;
+	    display: grid;
+	    grid-template-columns: 1fr minmax(200px,300px);
+	    height: 80vh;
+	    box-shadow: var(--shadow-s);
+
+	    #places-map{
+	        background: var(--c-bg-image);
+	        img{
+	            background-color:transparent;
+	            border: none;
+	            margin:0;
+	        }
+	    }
+
+	    ol{
+	        counter-reset: list;
+	        overflow:auto;
+	        margin: 0;
+	        padding: 0 var(--m);
+
+	        li{
+	            border-bottom: var(--b-box);
+
+	            position: relative;
+	            display: grid;
+	            grid-template-columns:3ch 1fr;
+	            font-size: var(--f-s);
+
+	            margin: 0;
+	            padding:var(--m) 0;
+
+	            &:before{position: static;}
+
+	            > * {
+	                grid-column-start: 2;
+	            }
+
+	            &.highlighted{
+	                border-radius: var(--b-radius);
+	                animation: highlight 1.5s ease 0s 1 alternate;
+	            }
+
+	            h4{
+	                @include text-bold;
+	            }
+	            address{
+	                overflow: hidden;
+	                text-overflow: ellipsis;
+
+	                a{
+	                    color: var(--c-text-light);
+	                    white-space: nowrap;
+	                }
+	            }
+	            p{
+	                margin: var(--s) 0 0;
+	            }
+
+	            &:last-child{border-bottom: none}
+	        }
+	    }
+
+	    @include only-phone{
+	        display: flex;
+	        flex-direction: column;
+	        height: auto;
+	        border-left: 0;
+	        border-right: 0;
+	        border-top: 0;
+	        margin-left: calc(var(--w-page-border) * -1);
+	        margin-right: calc(var(--w-page-border) * -1);
+
+	        #places-map{
+	            height: 60vh;
+	        }
+	    }
+
+	    @include only-print{
+	        display: block;
+	        margin: 0;
+	        padding: 0;
+	        height: auto;
+	        border: none;
+	    }
+	}
+{% endscss %}</style>
 <aside id="places">
 	<div id="places-map" class="no-print">
 		<noscript>This map needs JavaScript to work.</noscript>

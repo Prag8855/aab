@@ -1,8 +1,8 @@
-@import './_fonts.scss';
-@import './_breakpoints.scss';
-@import './_reset.scss';
-@import './_animations.scss';
-
+@import '_css/fonts.scss';
+@import '_css/breakpoints.scss';
+@import '_css/reset.scss';
+@import '_css/animations.scss';
+@import '_css/mixins.scss';
 
 /*******************************************************************************
  * 
@@ -138,166 +138,6 @@
     :root{
         --w-page-border: var(--m);
     }
-}
-
-/*******************************************************************************
- * 
- * MIXINS
- *
-*******************************************************************************/
-
-// Boxes
-
-@mixin page-borders{
-    padding: var(--xl) var(--w-page-border);
-}
-
-@mixin box{
-    border: var(--b-box);
-    border-radius: var(--b-radius);
-
-    > :first-child{margin-top: 0;}
-    > :last-child{margin-bottom: 0;}
-}
-
-@mixin box-l{
-    // Large elements
-    @include box;
-    @include page-borders;
-    margin: var(--l) 0;
-}
-@mixin box-m{
-    // Large buttons
-    @include box;
-    padding: var(--m) var(--m);
-    background: transparent;
-}
-@mixin box-s{
-    // Buttons
-    @include box;
-    padding: var(--s) var(--m);
-    background: transparent;
-}
-
-@mixin box-clickable{
-    appearance: none;
-    border-color:var(--c-border-clickable);
-    color: var(--c-text-heading);
-    box-shadow: var(--shadow-s);
-    outline: 1px solid transparent;
-
-    &:hover, &:focus{
-        color: var(--c-text-heading);
-        border-color:var(--c-border-clickable-hover);
-        outline-color: var(--c-border-clickable-hover);
-        text-decoration: none;
-        cursor: pointer;
-        transition: var(--transition-border);
-    }
-}
-
-// The little arrow next to components
-
-@mixin expansible{
-    &:after{
-        content: '';
-        width: 1em;
-        height: calc(var(--line-height-text) * 1em);
-        display: inline-block;
-        margin-left: var(--xs);
-        vertical-align: middle;
-        mask-image: var(--i-expand);
-        mask-repeat: no-repeat;
-        mask-position: center right;
-        background-color:currentColor;
-        opacity: 0.5;
-        transition: transform 0.2s;
-    }
-
-    &:hover:after{
-        opacity: 1;
-        transition: transform 0.2s, opacity 0.2s;
-    }
-}
-@mixin collapsible{
-    &:after{
-        transform: scaleY(-1);
-    }
-}
-
-@mixin widget{
-    @include box-l;
-    background: var(--c-bg-widget);
-    box-shadow: var(--shadow-s);
-}
-
-@mixin list-ul{
-    &:before {
-        content:'–';
-    }
-}
-@mixin list-none{
-    &:before {
-        content: none;
-    }
-}
-
-// Text
-
-@mixin heading{
-    font-family: 400 1rem 'Libre Franklin', 'Open Sans', sans-serif;
-    line-height: var(--line-height-heading);
-    color: var(--c-text-heading);
-    letter-spacing: -0.01em;
-
-    // Break long words
-    overflow: hidden;
-
-    @include only-phone{
-        hyphens: auto;
-    }
-}
-
-@mixin text{
-    font: 400 var(--m) / var(--line-height-text) 'Open Sans', sans-serif;
-    color: var(--c-text);
-}
-
-@mixin text-hint{
-    color:inherit!important;
-    text-decoration: var(--text-decoration-hint);
-    text-underline-offset: 0.2em;
-
-    &:hover{
-        text-decoration-color:var(--c-border-hint-hover);
-    }
-}
-
-@mixin text-block{
-    margin: var(--l-relative) 0;
-}
-
-@mixin text-block-compact{
-    margin: var(--s-relative) 0;
-}
-
-@mixin text-block-quote{
-    @include text-block;
-    background: var(--c-bg-widget);
-    border-radius: var(--b-radius);
-    padding: var(--l-relative) var(--m);
-
-    > :first-child{margin-top: 0;}
-    > :last-child{margin-bottom: 0;}
-
-    @include only-print{
-        border: var(--b-box);
-    }
-}
-
-@mixin text-bold{
-    font-weight: 600;
-    color: var(--c-text-heading);
 }
 
 /*******************************************************************************
@@ -471,14 +311,6 @@ body > header {
         }
     }
 }
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  10% { transform: scale(1.2); }
-  20% { transform: scale(1.2); }
-  30% { transform: scale(1); }
-}
-
 
 .sidebar{
     grid-area: sidebar;
@@ -2074,100 +1906,7 @@ details{
 }
 
 .pension-refund-calculator .form-group{
-    grid-template-columns:215px 1fr;
-}
-
-@keyframes highlight {
-    from { background-color:var(--c-text-selection); box-shadow: 0 0 0 var(--s) var(--c-text-selection);}
-    to { background-color:transparent; box-shadow: 0 0 0 var(--s) transparent; }
-}
-#places{
-    @include text-block;
-    @include box;
-    display: grid;
-    grid-template-columns: 1fr minmax(200px,300px);
-    height: 80vh;
-    box-shadow: var(--shadow-s);
-
-    #places-map{
-        background: var(--c-bg-image);
-        img{
-            background-color:transparent;
-            border: none;
-            margin:0;
-        }
-    }
-
-    ol{
-        counter-reset: list;
-        overflow:auto;
-        margin: 0;
-        padding: 0 var(--m);
-
-        li{
-            border-bottom: var(--b-box);
-
-            position: relative;
-            display: grid;
-            grid-template-columns:3ch 1fr;
-            font-size: var(--f-s);
-
-            margin: 0;
-            padding:var(--m) 0;
-
-            &:before{position: static;}
-
-            > * {
-                grid-column-start: 2;
-            }
-
-            &.highlighted{
-                border-radius: var(--b-radius);
-                animation: highlight 1.5s ease 0s 1 alternate;
-            }
-
-            h4{
-                @include text-bold;
-            }
-            address{
-                overflow: hidden;
-                text-overflow: ellipsis;
-
-                a{
-                    color: var(--c-text-light);
-                    white-space: nowrap;
-                }
-            }
-            p{
-                margin: var(--s) 0 0;
-            }
-
-            &:last-child{border-bottom: none}
-        }
-    }
-
-    @include only-phone{
-        display: flex;
-        flex-direction: column;
-        height: auto;
-        border-left: 0;
-        border-right: 0;
-        border-top: 0;
-        margin-left: calc(var(--w-page-border) * -1);
-        margin-right: calc(var(--w-page-border) * -1);
-
-        #places-map{
-            height: 60vh;
-        }
-    }
-
-    @include only-print{
-        display: block;
-        margin: 0;
-        padding: 0;
-        height: auto;
-        border: none;
-    }
+    grid-template-columns: 215px 1fr;
 }
 
 @include only-print{
