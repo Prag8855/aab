@@ -577,8 +577,11 @@ body > header {
         }
     }
 
-    @include only-phone{
+    @include full-width-site{
         border-radius: 0;
+    }
+
+    @include only-phone{
         #sections > a, #sections > a:visited{
             font-size: var(--f-s);
             padding: 0 var(--s);
@@ -821,7 +824,7 @@ main{
         }
     }
 
-    @include not-desktop{
+    @include full-width-site{
         > .section:first-child{
             margin-top: calc(var(--m) * -1);
         }
