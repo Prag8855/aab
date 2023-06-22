@@ -219,9 +219,9 @@
                 <span class="input-instructions" id="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}">Required by the Deutsche Rentenversicherung</span>
             </div>
         </div>
-        <div class="buttons">
-            <button class="button primary" target="_blank" @click="sendRefundRequest">Send request</button>
-        </div>
+    </div>
+    <div class="buttons" v-if="stage === 'contactInfo'">
+        <button class="button primary" target="_blank" @click="sendRefundRequest">Send request</button>
     </div>
     <template v-if="stage === 'requestConfirmation'">
         <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>

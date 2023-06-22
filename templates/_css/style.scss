@@ -1473,8 +1473,8 @@ input[type=range] {
         }
 
         input{
-            border: none;
-            box-shadow: none;
+            border: none!important;
+            box-shadow: none!important;
             box-sizing:content-box!important;
             flex: 0 0 auto!important;
             text-align: center;
@@ -1503,15 +1503,13 @@ input[type=range] {
         content: '*';
     }
 }
-.show-errors{
-    .error, :invalid{
-        border-color: var(--c-highlight)!important;
-        box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
-        + .input-symbols:after{
-            content: '×';
-            background: var(--c-highlight);
-            color: #fff;
-        }
+.show-errors :invalid, .error{
+    border-color: var(--c-highlight)!important;
+    box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
+    + .input-symbols:after{
+        content: '×';
+        background: var(--c-highlight);
+        color: #fff;
     }
 }
 
