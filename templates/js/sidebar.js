@@ -1,12 +1,17 @@
 {% js %}
 window.addEventListener("DOMContentLoaded", function() {
   /* Mobile sidebar */
+  let hasExpandedTableOfContents = false;
   const sidebarTableOfContents = document.querySelector(".sidebar .table-of-contents")
   if(sidebarTableOfContents){
     const tableOfContentsHeader = sidebarTableOfContents.querySelector("h2");
     if(tableOfContentsHeader) {
       tableOfContentsHeader.addEventListener('click', (e) => {
         sidebarTableOfContents.classList.toggle('expanded');
+        if(!hasExpandedTableOfContents){
+          plausible('Used floating table of contents');
+          hasExpandedTableOfContents = true;
+        }
       });
     }
   }
