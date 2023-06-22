@@ -670,7 +670,7 @@ main{
         box-shadow: var(--shadow-l);
         @include page-borders;
 
-        @include only-phone{
+        @include full-width-site{
             border-radius: 0;
         }
 
