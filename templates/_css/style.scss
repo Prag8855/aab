@@ -233,9 +233,6 @@ $width-main-column: 860px;
     --i-person: url("data:image/svg+xml;utf8,<svg viewBox='0 0 700 700' xmlns='http://www.w3.org/2000/svg'><path d='m350 234.68c-25.352-0.1875-49.586-10.441-67.375-28.504s-27.668-42.453-27.469-67.805c0.20312-25.352 10.469-49.582 28.543-67.359 18.074-17.777 42.473-27.645 67.82-27.426 25.352 0.21484 49.574 10.496 67.344 28.582 17.766 18.082 27.617 42.484 27.387 67.836-0.36719 25.27-10.676 49.371-28.691 67.094-18.016 17.719-42.289 27.629-67.559 27.582zm0-138.43c-11.336 0.1875-22.137 4.8359-30.066 12.938-7.9258 8.1016-12.34 19.008-12.277 30.344s4.5938 22.188 12.609 30.203 18.867 12.547 30.203 12.609 22.242-4.3516 30.344-12.277c8.1016-7.9297 12.75-18.73 12.938-30.066 0.09375-11.633-4.4844-22.816-12.711-31.039-8.2227-8.2266-19.406-12.805-31.039-12.711zm140 420h-280c-6.9609 0-13.641-2.7656-18.562-7.6875s-7.6875-11.602-7.6875-18.562v-55.477c0.09375-43.645 17.473-85.477 48.336-116.34 30.859-30.863 72.691-48.242 116.34-48.332h3.1484c43.648 0.089844 85.48 17.469 116.34 48.332 30.863 30.863 48.242 72.695 48.336 116.34v55.477c0 6.9609-2.7656 13.641-7.6875 18.562s-11.602 7.6875-18.562 7.6875zm-253.75-52.5h227.5v-29.227c-0.046875-29.734-11.879-58.238-32.906-79.266-21.027-21.027-49.531-32.863-79.27-32.906h-3.1484c-29.738 0.042969-58.242 11.879-79.27 32.906-21.027 21.027-32.859 49.531-32.906 79.266z'/></svg>");
     --i-right: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-6 -6 46 46'><path d='M29.06,17.06l-12,12a1.5,1.5,0,0,1-2.12,0,1.49,1.49,0,0,1,0-2.12l9.44-9.44H4a1.5,1.5,0,0,1,0-3H24.38L14.94,5.06a1.5,1.5,0,0,1,2.12-2.12l12,12A1.49,1.49,0,0,1,29.06,17.06Z'/></svg>");
     --i-verified: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 700 700'><path d='M439 215a26 26 0 0 1 0 37l-94 93c-5 5-11 8-18 8s-14-3-19-8l-47-46a26 26 0 0 1 38-38l28 29 74-75a26 26 0 0 1 38 0zm147 269a26 26 0 0 1-26 32h-6l-102-22a236 236 0 1 1 111-111zm-74-118a184 184 0 1 0-76 76c6-3 12-4 18-2l71 15-15-70c-2-6-1-13 2-19z'/></svg>");
-
-    // Animations
-    --transition-border: border-color 0.2s, outline 0.2s;
 }
 
 @include only-phone{
@@ -317,16 +314,15 @@ $width-main-column: 860px;
     appearance: none;
     border-color:var(--c-border-clickable);
     color: var(--c-text-heading);
-    box-shadow: var(--shadow-s);
-    outline: 1px solid transparent;
+    box-shadow: var(--shadow-s), 0 0 0 1px transparent;
+    outline: none;
 
     &:hover, &:focus{
         color: var(--c-text-heading);
         border-color:var(--c-border-clickable-hover);
-        outline-color: var(--c-border-clickable-hover);
+        box-shadow: var(--shadow-s), 0 0 0 1px var(--c-border-clickable-hover);
         text-decoration: none;
         cursor: pointer;
-        transition: var(--transition-border);
     }
 }
 
@@ -530,9 +526,9 @@ body > header {
 
         &:not(:focus-within){
             background-color: transparent;
+            box-shadow: none;
             border-radius: 0;
             border: none;
-            outline: none;
             padding: 0;
             overflow: hidden;
 
@@ -555,8 +551,7 @@ body > header {
             }
 
             border-color: var(--c-highlight);
-            outline-color: var(--c-highlight);
-
+            box-shadow: var(--shadow-l), 0 0 0 1px var(--c-highlight);
 
             .search-results{
                 border-color: var(--c-highlight);
@@ -1140,12 +1135,12 @@ sup:target a{
     padding: var(--xs) var(--s);
     margin: 0;
     color: var(--c-text);
-    outline: 1px solid transparent;
+    outline: none;
+    box-shadow: 0 0 0 1px transparent;
 
     &:hover, &:focus, &:focus-within, &:active{
         border-color: var(--c-border-input-focused);
-        outline-color: var(--c-border-input-focused);
-        transition: var(--transition-border), color 0.2s;
+        box-shadow: 0 0 0 1px var(--c-border-input-focused); // Can't use outline because it has no rounded corners in Safari
     }
 }
 
@@ -1227,7 +1222,6 @@ textarea{
     &:focus{
         height: 150px;
         transition: height 0.2s;
-        transition: var(--transition-border);
     }
 }
 
@@ -1403,7 +1397,7 @@ input[type=range] {
 }
 
 .form-group{
-    align-items: baseline;
+    align-items: center; // Can't use baseline because of safari bug
     display: grid;
     grid-template-columns: var(--w-label-column) 1fr;
     gap: var(--s) var(--m);
@@ -1412,7 +1406,7 @@ input[type=range] {
     .input-group {
         display: flex;
         flex-wrap: wrap;
-        align-items: baseline;
+        align-items: center; // Can't use baseline because of safari bug
         gap: var(--s);
 
         > * + * {
@@ -1482,7 +1476,6 @@ input[type=range] {
             flex: 0 0 auto!important;
             text-align: center;
             width: calc(3ch)!important; // A bit wider because of the placeholder
-            outline: none!important;
         }
         .year-input{
             width: calc(5ch)!important;
@@ -1510,7 +1503,7 @@ input[type=range] {
 .show-errors{
     .error, :invalid{
         border-color: var(--c-highlight)!important;
-        outline: 1px solid var(--c-highlight)!important;
+        box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
         + .input-symbols:after{
             content: '×';
             background: var(--c-highlight);
@@ -1535,13 +1528,13 @@ input[type=range] {
     }
 
     input[type="search"]{
-        min-width:0;
-        max-width:100%;
-        width:100%;
-        flex:1 1 auto;
-        padding:0;
-        border:none;
-        outline:none;
+        min-width: 0;
+        max-width: 100%;
+        width: 100%;
+        flex: 1 1 auto;
+        padding: 0;
+        border: none;
+        box-shadow: none;
     }
 
     svg{
@@ -1850,7 +1843,6 @@ details{
         &:hover img{
             border-color:var(--c-border-box)!important;
             transform: scale(1.05);
-            outline:none;
             transition: transform 0.2s;
         }
     }
@@ -2097,11 +2089,11 @@ details{
     .close-button{
         padding: var(--s);
         margin-right: calc(var(--s) * -1);
-        color: var(--c-border-clickable);
+        color: var(--c-border-input);
+
         &:hover{
-            color: var(--c-border-clickable-hover);
+            color: var(--c-border-input-focused);
             cursor: pointer;
-            transition: var(--transition-border);
         }
         .icon{
             display: block;
@@ -2121,24 +2113,22 @@ details{
 
 .tip-jar{
     &, & img{
-        position:relative;
-        display:block;
-        margin:0 auto;
-        width:100px;
-        height:139px;
-        transition:top 0.2s;
+        position: relative;
         top: 0px;
-    }
-    img {
-        background:transparent;
-        border:none;
+        display: block;
+        margin: 0 auto;
+        width: 100px;
+        height: 139px;
+        transition: top 0.2s;
+        background: transparent;
+        border: none!important;
+        box-shadow: none!important;
     }
     @media (hover: hover) {
         &:hover{
-            animation:0.3s 2 shake;
-            top:-7px;
-            animation-delay:0.3s;
-            outline: none;
+            animation: 0.3s 2 shake;
+            top: -7px;
+            animation-delay: 0.3s;
         }
     }
 }
