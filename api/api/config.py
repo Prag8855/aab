@@ -19,7 +19,7 @@ message_types = {
     'forms/pension-refund-question': {
         'title': 'Pension refund question from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-question.html',
-        'recipients': ['contact@allaboutberlin.com', 'christian.haas@fundsback.org'],
+        'recipients': ['contact@allaboutberlin.com', 'partner@fundsback.org'],
     },
     'forms/pension-refund-germanypensionrefund': {
         'title': 'Pension refund request from {name} (All About Berlin)',
@@ -34,7 +34,7 @@ message_types = {
     'forms/pension-refund-fundsback': {
         'title': 'Pension refund request from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-form.html',
-        'recipients': ['contact@allaboutberlin.com', 'christian.haas@fundsback.org'],
+        'recipients': ['contact@allaboutberlin.com', 'partner@fundsback.org'],
     },
     'forms/health-insurance-question': {
         'title': 'Health insurance question from {name} (All About Berlin)',
