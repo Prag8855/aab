@@ -222,7 +222,6 @@ $width-main-column: 860px;
     --shadow-s: 0 var(--xs) var(--s) calc(var(--s) * -1) #0003;
 
     --text-decoration-link: none;
-    --text-decoration-hint: underline dotted var(--c-border-hint) 1.5px;
 
     // Icons
     --i-close: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><g><path d='M29.06,26.94a1.49,1.49,0,0,1,0,2.12,1.5,1.5,0,0,1-2.12,0L16,18.12,5.06,29.06a1.5,1.5,0,0,1-2.12,0,1.49,1.49,0,0,1,0-2.12L13.88,16,2.94,5.06A1.5,1.5,0,0,1,5.06,2.94L16,13.88,26.94,2.94a1.5,1.5,0,0,1,2.12,2.12L18.12,16Z'/></g></svg>");
@@ -347,8 +346,11 @@ $width-main-column: 860px;
 
 @mixin text-hint{
     color:inherit!important;
-    text-decoration: var(--text-decoration-hint);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: var(--c-border-hint);
     text-underline-offset: 0.2em;
+    text-decoration-thickness: 1.5px;
 
     &:hover{
         text-decoration-color:var(--c-border-hint-hover);
@@ -2057,18 +2059,23 @@ details{
         max-width: calc(min(var(--w-main-column), calc(100% - 2 * var(--w-page-border))));
         margin: var(--w-page-border) auto;
         box-sizing: border-box;
-
-        display:grid;
-        align-items: center;
-        grid-template-columns: 1fr auto;
-        gap: var(--xl) var(--m);
-
         background: var(--c-bg-page);
         box-shadow: var(--shadow-l);
     }
 
+    header{
+        display:grid;
+        align-items: center;
+        grid-template-columns: 1fr auto;
+        gap: var(--m);
+        padding-bottom: var(--xl);
+        margin-bottom: var(--xl);
+        border-bottom: var(--b-box);
+    }
+
     &::backdrop{
         backdrop-filter: blur(3px) contrast(0.9) brightness(0.8) grayscale(0.2);
+        -webkit-backdrop-filter: blur(3px) contrast(0.9) brightness(0.8) grayscale(0.2);
         background: transparent;
     }
 
@@ -2099,12 +2106,6 @@ details{
         .icon{
             display: block;
         }
-    }
-
-    .article-body{
-        border-top: var(--b-box);
-        grid-column-start: 1;
-        grid-column-end: 3;
     }
 
     .footnote-ref{
@@ -2284,7 +2285,6 @@ details{
         --c-bg-clickable: transparent;
 
         --text-decoration-link: underline;
-        --text-decoration-hint: underline dotted;
 
         --shadow-s: none;
         --shadow-l: none;
