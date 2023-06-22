@@ -18,7 +18,7 @@ You might need a visa to visit Germany. It depends on your citizenship:
 - **Other [Schengen area](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744) residents**  
     You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period.[^0] If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
 - **Citizens of [other countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**  
-    People from [certain countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs {{SCHENGEN_VISA_FEE|cur}}€.[^1] You can apply for a Schengen visa at the [German embassy or consulate in your country](https://www.embassy-worldwide.com/country/germany/).
+    People from [certain countries](https://www.auswaertiges-amt.de/en/visa-service/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs {{SCHENGEN_VISA_FEE|cur}}€.[^1] You can apply for a Schengen visa at the [German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/about-us/auslandsvertretungen/deutsche-auslandsvertretungen).
 
 **Useful link:** [Visa requirements by country](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) - Federal Foreign Office
 
