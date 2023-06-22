@@ -2133,11 +2133,13 @@ details{
         background:transparent;
         border:none;
     }
-    &:hover{
-        animation:0.3s 2 shake;
-        top:-7px;
-        animation-delay:0.3s;
-        outline: none;
+    @media (hover: hover) {
+        &:hover{
+            animation:0.3s 2 shake;
+            top:-7px;
+            animation-delay:0.3s;
+            outline: none;
+        }
     }
 }
 
