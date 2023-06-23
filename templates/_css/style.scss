@@ -1230,7 +1230,6 @@ select{
     background: var(--c-bg-input) var(--i-expand) no-repeat center right var(--xs);
     background-size: 1rem;
     padding-right: var(--xl);
-    overflow-x:hidden;
     text-overflow:ellipsis;
 }
 
@@ -1273,7 +1272,8 @@ input[type=range] {
     border-radius: 100px;
 
     &::-webkit-slider-thumb, &::-moz-range-thumb{
-        appearance:none;
+        -webkit-appearance: none;
+        appearance: none;
         width: var(--l);
         height: var(--l);
         border-radius: 100%;
@@ -1398,9 +1398,9 @@ input[type=range] {
 }
 
 .form-group{
-    align-items: center; // Can't use baseline because of safari bug
+    align-items: flex-start; // Can't use baseline because of safari bug
     display: grid;
-    grid-template-columns: var(--w-label-column) 1fr;
+    grid-template-columns: var(--w-label-column) minmax(0, 1fr); // Prevents grid blowout with super long select elements
     gap: var(--s) var(--m);
     margin: var(--m) 0;
 
@@ -1409,6 +1409,7 @@ input[type=range] {
         flex-wrap: wrap;
         align-items: center; // Can't use baseline because of safari bug
         gap: var(--s);
+        min-width: auto; // Prevents grid blowout with super long select elements
 
         > * + * {
             flex: 0 0 auto;
@@ -1432,15 +1433,16 @@ input[type=range] {
 
     > label:first-child, > .label:first-child{
         grid-column-start: 1;
+        padding-top: var(--xs);
     }
 
-    * {
+    > * {
         grid-column-start: 2;
     }
 
     @include only-phone{
         gap: var(--xs);
-        grid-template-columns: 1fr;
+        grid-template-columns: minmax(0, 1fr);
 
         > label, > .label{
             @include text-bold;
@@ -2256,7 +2258,10 @@ details{
 }
 
 .pension-refund-calculator .form-group{
-    grid-template-columns: 215px 1fr;
+    grid-template-columns: 215px minmax(0, 1fr);
+    @include only-phone{
+        grid-template-columns: minmax(0, 1fr);
+    }
 }
 
 @include only-print{
