@@ -200,6 +200,7 @@ $width-main-column: 860px;
     --c-bg-widget-opaque: #f6f6f6;
     --c-bg-image: var(--c-bg-widget);
     --c-border-box: #0002;
+    --c-border-box-opaque: #ddd;
     --c-border-input: #0005;
     --c-border-input-focused: #0008;
 
@@ -255,6 +256,7 @@ $width-main-column: 860px;
         --c-bg-widget-opaque: #2c2c2c;
         --c-bg-image: var(--c-bg-widget);
         --c-border-box: #fff3;
+        --c-border-box-opaque: #4f4f4f;
         --c-border-input: #fff3;
         --c-border-input-focused: #fff8;
 
@@ -1028,17 +1030,11 @@ sup:target a{
     table {
         font-size:var(--f-s);
 
-        tr:last-child td{
-            border-bottom:var(--b-box);
-        }
-
         td, th{
             padding: var(--xs) var(--s);
             line-height: var(--line-height-label);
             border:var(--b-box);
-
-            &:first-child{border-left:var(--b-box)}
-            &:last-child{border-left:var(--b-box)}
+            border-color: var(--c-border-box-opaque);
         }
 
         th{
