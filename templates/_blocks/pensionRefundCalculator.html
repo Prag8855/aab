@@ -118,7 +118,7 @@
                     </output>
                     <p>You can get <eur :amount="results.refundAmount"></eur> back. This is what you paid into the German pension system.</p>
                     <template v-if="hasFlag('eligible')">
-                        <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
+                        <p>You can already ask for a pension refund, because your last pension contribution was over 2 years ago.</p>
                         <div class="buttons">
                             <button class="button primary" target="_blank" @click="setStage('partnerSelection')">
                                 Apply for a refund <i class="icon right"></i>
@@ -126,8 +126,8 @@
                         </div>
                     </template>
                     <template v-if="hasFlag('eligible-later')">
-                        <p><strong>You must wait until {{ eligibilityDateString }}</strong> to ask for a pension refund (2 years after your last pension contribution).</p>
-                        <p>I can remind you to apply for a pension refund in {{ eligibilityDateString }}.</p>
+                        <p>You can apply for a refund in <strong>{{ monthsUntilEligible }}</strong>. That's 2 years after your last pension contribution.</p>
+                        <p>Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
                         <div class="input-group email-reminder">
                             <input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email">
                             <button class="button primary" @click="setReminder" :disabled="!emailAddress">
