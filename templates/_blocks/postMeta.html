@@ -33,7 +33,7 @@
                 {% set reviewer = review.related_expert[0] %}
                 <li>
                     {% if reviewer.picture|default %}
-                        {% image reviewer.picture, "profile-picture" %}
+                        {% image reviewer.picture, css_class="profile-picture", alt=reviewer.name, sizes="75px" %}
                     {% else%}
                         <div class="placeholder"></div>
                     {% endif %}

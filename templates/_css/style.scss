@@ -1830,13 +1830,16 @@ details{
         span{
             font-size: var(--f-s);
             display: block; // Applies the line-height to this font size
+            margin: var(--xs) 0 0;
         }
         img{
             border-radius: 0;
             display: block;
             max-width: 100%;
             width: 300px;
-            height: auto;
+            height: 500px;
+            object-fit: contain;
+            object-position: center top;
             background: var(--c-bg-page);
             margin: var(--m) auto 0 auto;
             border: var(--b-box);
