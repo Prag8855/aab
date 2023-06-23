@@ -93,7 +93,7 @@ If you want to pay less, use tax software instead. [Sorted](/out/sorted-taxes) a
 
 **[List of German tax software ➞](/guides/german-tax-software)**
 
-Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier. I use Kontist as my business bank.
+Some banks like [Qonto](/out/qonto), [Holvi](/out/holvi) and [Kontist](/out/kontist) can also make your accounting easier. I use Kontist as my business bank.
 
 Tax advisors and tax software are tax-deductible expenses.
 
