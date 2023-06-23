@@ -1021,11 +1021,9 @@ sup:target a{
     }
 
     .table-wrapper{
-        @include text-block;
+        margin: var(--l-relative) calc(var(--w-page-border) * -1);
+        padding: 0 var(--w-page-border);
         overflow-x: auto;
-        margin-right: calc(var(--w-page-border) * -1);
-        padding-right: var(--w-page-border);
-        mask: linear-gradient(90deg, #fff, #fff calc(100% - var(--w-page-border)), transparent)
     }
     table {
         font-size:var(--f-s);
