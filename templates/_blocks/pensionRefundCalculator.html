@@ -102,7 +102,7 @@
                 </div>
                 <div class="form-group" v-if="showStatePicker">
                     <label for="state-{% endraw %}{{ id }}{% raw %}">
-                        Where did you work in Germany?
+                        Where did you work?
                     </label>
                     <div class="input-group">
                         <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState" aria-describedby="instructions-east-west-{% endraw %}{{ id }}{% raw %}">
@@ -120,18 +120,19 @@
                     <template v-if="hasFlag('eligible')">
                         <p>You can already ask for a pension refund, because you left Germany over 2 years ago.</p>
                         <div class="buttons">
-                            <button class="button primary" target="_blank" @click="setStage('partnerSelection')">Apply for a refund</button>
+                            <button class="button primary" target="_blank" @click="setStage('partnerSelection')">
+                                Apply for a refund <i class="icon right"></i>
+                            </button>
                         </div>
                     </template>
                     <template v-if="hasFlag('eligible-later')">
-                        <p>You must wait until {{ eligibilityDateString }} to ask for a pension refund. You can ask for a refund 2 years after your last pension payment. This is usually 2 years after you stopped working in Germany.</p>
-                        <p>We can send you an email reminder in {{ eligibilityDateString }}. Just enter your email.</p>
-                        <div class="input-group">
-                            <input type="email" placeholder="Your email address" v-model="emailAddress" required autocomplete="email">
-                            <span class="input-symbols"></span>
-                        </div>
-                        <div class="buttons">
-                            <button class="button primary" @click="setReminder" :disabled="!emailAddress">Remind me in {{ monthsUntilEligible }}</button>
+                        <p><strong>You must wait until {{ eligibilityDateString }}</strong> to ask for a pension refund (2 years after your last pension contribution).</p>
+                        <p>I can remind you to apply for a pension refund in {{ eligibilityDateString }}.</p>
+                        <div class="input-group email-reminder">
+                            <input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email">
+                            <button class="button primary" @click="setReminder" :disabled="!emailAddress">
+                                Remind me in {{ monthsUntilEligible }}
+                            </button>
                         </div>
                     </template>
                 </template>
