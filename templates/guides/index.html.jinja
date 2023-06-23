@@ -30,7 +30,7 @@
 	<section class="section" role="list" aria-label="Recently updated guides">
 		<h2>Recent updates</h2>
 		{% set updatedEntries = get_entries('guides', sort_by='date_updated', reverse=True)[0:10] %}
-		{% with entries=updatedEntries, showDatePosted=true %}
+		{% with entries=updatedEntries, showDateUpdated=true %}
 			{% include "_blocks/entryPreviews.html" %}
 		{% endwith %}
 	</section>

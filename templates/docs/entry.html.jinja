@@ -15,11 +15,9 @@
 		<article class="section">
 			<h1>{{ entry.title }}</h1>
 			{% include "_blocks/postMeta.html" %}
-			{% with showDateUpdated=true %}
-				<div class="article-body">
-					{{ entry.body|render|safe }}
-				</div>
-			{% endwith %}
+			<div class="article-body">
+				{{ entry.body|render|safe }}
+			</div>
 		</article>
 		{% if related_entries|length %}
 			<aside class="section" role="list" aria-labelledby="h-related-guides">
