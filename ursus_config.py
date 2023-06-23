@@ -81,6 +81,7 @@ config.lunr_indexes = {
     ]
 }
 
+config.image_default_sizes = '(min-width: 800px) 800px, 100vw'
 config.image_transforms = {
     '': {
         'exclude': ('experts/photos/*', ),
