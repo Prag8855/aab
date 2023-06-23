@@ -1829,6 +1829,7 @@ details{
 
         span{
             font-size: var(--f-s);
+            display: block; // Applies the line-height to this font size
         }
         img{
             border-radius: 0;
@@ -1839,7 +1840,7 @@ details{
             background: var(--c-bg-page);
             margin: var(--m) auto 0 auto;
             border: var(--b-box);
-            box-shadow: var(--shadow-l);
+            box-shadow: var(--shadow-l)!important;
             transition: transform 0.2s;
         }
 
