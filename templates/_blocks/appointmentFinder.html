@@ -28,6 +28,7 @@
                 <i class="icon calendar"></i>
                 <strong>{{ prettyDate(appointment.date) }}</strong>
                 <time>{{ relativeDate(appointment.date) }}</time>
+                <i class="icon right"></i>
             </a>
         </div>
         <p class="timer" v-if="isConnected && !hasError && secondsToNextMessage > 0">

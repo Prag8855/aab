@@ -1741,12 +1741,8 @@ details{
         font-size: var(--f-s);
     }
 
-    &[open] {
-        margin-bottom: var(--xl);
-
-        > summary {
-            @include collapsible;
-        }
+    &[open] > summary {
+        @include collapsible;
     }
 }
 
@@ -2208,20 +2204,27 @@ details{
     h3{ margin: 0 0 var(--m); }
     p{ @include text-block-compact; }
     .appointments {
+        margin-bottom: var(--m);
+
         .icon{
+            grid-row-start:1;
             grid-row-end:span 2;
+        }
+        .icon.right{
+            grid-column-start: 3;
         }
         time{
             grid-column-start: 2;
             font-size: var(--f-s);
         }
+
         > * {
             @include box-s;
             @include box-clickable;
             display: grid;
             align-items: center;
             grid-column-gap: var(--m);
-            grid-template-columns:auto 1fr;
+            grid-template-columns:auto 1fr auto;
         }
         > * + * { margin-top: var(--s) }
         + .timer{ margin-bottom:var(--s) }
