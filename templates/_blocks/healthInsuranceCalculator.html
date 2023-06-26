@@ -48,13 +48,7 @@
                 {{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
             </label>
             <div class="input-group">
-                <input class="income-input"
-                    type="number"
-                    inputmode="numeric"
-                    pattern="[0-9]*"
-                    min="0"
-                    step="1"
-                    id="income-{% endraw %}{{ id }}{% raw %}" v-model.number="income">
+                <income-input id="income-{% endraw %}{{ id }}{% raw %}" v-model="income"></income-input>
                 €
                 <button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
             </div>
@@ -381,6 +375,7 @@
 {% include '_js/health-insurance-calculator.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
+{% include '_js/vue/income-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% js %}

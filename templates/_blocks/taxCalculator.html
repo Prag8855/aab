@@ -28,13 +28,7 @@
                 {{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
             </label>
             <div class="input-group">
-                <input class="income-input"
-                    type="number"
-                    inputmode="numeric"
-                    pattern="[0-9]*"
-                    min="0"
-                    step="1"
-                    id="income-{% endraw %}{{ id }}{% raw %}" v-model.number="income">
+                <income-input id="income-{% endraw %}{{ id }}{% raw %}" v-model="income"></income-input>
                 €
                 <button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ monthOrYear }}</button>
             </div>
@@ -125,14 +119,7 @@
                 Health insurance cost
             </label>
             <div class="input-group">
-                <input class="income-input"
-                    type="number"
-                    inputmode="numeric"
-                    pattern="[0-9]*"
-                    min="0"
-                    step="1"
-                    id="health-insurance-cost-{% endraw %}{{ id }}{% raw %}"
-                    v-model.number="privateHealthInsuranceCost">
+                <income-input id="health-insurance-cost-{% endraw %}{{ id }}{% raw %}" v-model="privateHealthInsuranceCost"></income-input>
                 €&nbsp;per month
                 <span class="input-instructions" v-if="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
             </div>
@@ -496,6 +483,7 @@
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/income-input.js' %}
 {% js %}
   document.querySelectorAll('.income-tax-calculator').forEach(
     el => new Vue({

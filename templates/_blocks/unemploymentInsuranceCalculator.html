@@ -20,7 +20,7 @@
             Income
         </label>
         <div class="input-group">
-            <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" name="income" id="income-{% endraw %}{{ id }}{% raw %}" v-model="monthlyIncome">
+            <income-input id="income-{% endraw %}{{ id }}{% raw %}" v-model="monthlyIncome"></income-input>
             €&nbsp;per&nbsp;month
         </div>
     </div>
@@ -67,8 +67,9 @@
 {% include '_js/constants.js' %}
 {% include '_js/tax-calculator.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/glossary.js' %}
 {% include '_js/vue/eur.js' %}
+{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/income-input.js' %}
 {% js %}
   document.querySelectorAll('.unemployment-insurance-calculator').forEach(
     el => new Vue({

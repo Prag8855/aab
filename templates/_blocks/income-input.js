@@ -1,18 +1,17 @@
 {% include '_js/vue.js' %}
 {% js %}{% raw %}
-Vue.component('age-input', {
+Vue.component('income-input', {
   props: ['value'],
   template: `
-    <input class="age-input"
+    <input class="income-input"
       type="number"
       inputmode="numeric"
       pattern="[0-9]*"
-      placeholder="18"
-      min="1"
+      placeholder="0"
+      min="0"
       step="1"
       v-bind:value.number="value"
-      v-on:input="$emit('input', $event.target.value)"
-      @focus="$event.target.select()">
+      v-on:input="$emit('input', $event.target.value)">
   `,
 });
 {% endraw %}{% endjs %}

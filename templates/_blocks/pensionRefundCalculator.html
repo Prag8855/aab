@@ -96,7 +96,7 @@
                         Your salary in Germany
                     </label>
                     <div class="input-group">
-                        <input class="income-input" type="number" inputmode="numeric" pattern="[0-9]*" id="income-{% endraw %}{{ id }}{% raw %}" placeholder="30000" v-model="yearlyIncome">
+                        <income-input id="income-{% endraw %}{{ id }}{% raw %}" v-model="yearlyIncome"></income-input>
                         €&nbsp;per&nbsp;year
                     </div>
                 </div>
@@ -235,6 +235,7 @@
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/income-input.js' %}
 {% js %}
   document.querySelectorAll('.pension-refund-calculator').forEach(
     el => new Vue({
