@@ -80,6 +80,7 @@
           monthlyIncome: Math.round(getDefaultNumber('yearlyIncome')/12),
           germanState: getDefault('state'),
           germanStates,
+          taxes,
         }
       },
       computed: {
@@ -100,7 +101,7 @@
         },
       },
       methods: {
-        stateName: stateName,
+        stateName,
       }
     })
   );

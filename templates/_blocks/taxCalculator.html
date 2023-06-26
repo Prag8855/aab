@@ -500,8 +500,11 @@
           income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
           isMarried: getDefaultBoolean('isMarried'),
           occupation: getDefault('occupation'),
+          occupations,
+          pensions,
           privateHealthInsuranceCost: getDefaultNumber('privateHealthInsuranceCost'), // Only for private
           taxClass: getDefaultNumber('taxClass', 1),
+          taxes,
 
           // Non-tax settings
           showExtraQuestions: false,
@@ -668,6 +671,7 @@
         },
       },
       methods: {
+        stateName,
         spouseTaxClass(taxClass) {
           if(taxClass === 3) return 5;
           else if(taxClass === 5) return 3;

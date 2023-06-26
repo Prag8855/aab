@@ -308,7 +308,7 @@
         hasFlag(flag) {
           return this.results.flags.has(flag);
         },
-        stateName: stateName,
+        stateName,
         setStage(stage) {
           this.stage = stage;
           Vue.nextTick(() => scrollIntoViewIfNeeded(this.$refs.collapsible));
