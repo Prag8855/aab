@@ -1481,7 +1481,7 @@ input[type=range] {
         gap: var(--xs);
         grid-template-columns: minmax(0, 1fr);
 
-        > label, > .label{
+        > label:first-child, > .label:first-child{
             @include text-bold;
         }
 
