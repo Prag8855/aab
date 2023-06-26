@@ -75,6 +75,21 @@ Vue.component('date-picker', {
         this.focusPreviousInput(e.target, false);
       }
     },
+    onDayBlur(e) {
+      if(this.dayValid){
+        this.day = this.cleanDay;
+      }
+    },
+    onMonthBlur(e){
+      if(this.monthValid){
+        this.month = this.cleanMonth;
+      }
+    },
+    onYearBlur(e){
+      if(this.yearValid){
+        this.year = this.cleanYear;
+      }
+    },
     focusPreviousInput(el){
       if(el === this.$refs.monthInput) {
         this.$refs.dayInput.focus();
@@ -107,7 +122,7 @@ Vue.component('date-picker', {
         :id="id ? id + '-day' : null"
         :required="required"
         @focus="$event.target.select()"
-        @blur="if(dayValid){day = cleanDay}"
+        @blur="onDayBlur"
         @input="onInput"
         class="day-input"
         inputmode="numeric"
@@ -123,7 +138,7 @@ Vue.component('date-picker', {
         :class="{required: required}"
         :required="required"
         @focus="$event.target.select()"
-        @blur="if(monthValid){month = cleanMonth}"
+        @blur="onMonthBlur"
         @input="onInput"
         @keyup="onKeyup"
         class="short-month-input"
@@ -139,7 +154,7 @@ Vue.component('date-picker', {
         :class="{required: required}"
         :required="required"
         @focus="$event.target.select()"
-        @blur="if(yearValid){year = cleanYear}"
+        @blur="onYearBlur"
         @keyup="onKeyup"
         class="year-input"
         inputmode="numeric"
