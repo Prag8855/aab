@@ -263,7 +263,7 @@ $width-main-column: 860px;
         --c-bg-image: var(--c-bg-widget);
         --c-border-box: #fff3;
         --c-border-box-opaque: #4f4f4f;
-        --c-border-input: #fff3;
+        --c-border-input: #fff5;
         --c-border-input-focused: #fff8;
 
         --c-border-hint: #fff6;
@@ -622,7 +622,7 @@ body > header {
         font-size: var(--l);
     }
 
-    li{
+    > ol > li{
         @include list-ul;
         &:not(.expanded) ol {
             display: none;
@@ -1054,8 +1054,6 @@ sup:target a{
         overflow-x: auto;
     }
     table {
-        font-size:var(--f-s);
-
         td, th{
             padding: var(--xs) var(--s);
             line-height: var(--line-height-label);
@@ -1079,12 +1077,16 @@ sup:target a{
                 right: 0!important;
             }
         }
+
+        @include only-phone{
+            font-size:var(--f-s);
+        }
     }
 
-    > ol > li, :not(.collapsible) ol > li{
+    > ol > li, :not(.collapsible, .table-of-contents) ol > li{
         @include list-ol;
     }
-    > ul > li, :not(.collapsible) ul > li{
+    > ul > li, :not(.collapsible, .table-of-contents) ul > li{
         @include list-ul;
     }
     li.checkbox{
