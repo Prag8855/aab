@@ -1248,10 +1248,6 @@ input:not([type=range]), textarea, select, .toggle{
     &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
         -webkit-appearance:none;margin:0;
     }
-
-    @include only-phone{
-        flex: 1 1 auto!important;
-    }
 }
 
 textarea{
