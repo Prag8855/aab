@@ -2301,6 +2301,8 @@ details{
 
     }
 
+    .private-health-insurance svg{transform: scaleX(-1)}
+
     @include only-phone{
         > * {
             grid-template-columns: 1fr;
