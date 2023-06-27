@@ -17,7 +17,7 @@ If you are a freelance artist, publicist or art teacher, you should apply for th
 
 The Künstlersozialkasse (KSK) is a social fund for freelance artists, publicists and art teachers. It's funded by the government, and by businesses who hire freelance artists.[^0]
 
-When you are a KSK member, they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung).
+When you are a KSK member, **they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung)**.
 
 ## Why join the KSK?
 
