@@ -14,7 +14,7 @@ function validateForm(formElement) {
   if(honeypotField && honeypotField.value){
     formIsValid = false; // Rudimentary bot prevention
   }
-  formElement.classList.add('show-errors', !formIsValid);
+  formElement.classList.toggle('show-errors', !formIsValid);
   return formIsValid;
 }
 
