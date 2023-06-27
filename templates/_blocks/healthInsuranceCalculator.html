@@ -63,11 +63,12 @@
             </label>
         </div>
         <div class="form-group">
-            <label for="has-children-{% endraw %}{{ id }}{% raw %}">
-                Children
-            </label>
-            <div class="input-group">
-                <label class="checkbox"><input type="checkbox" v-model="hasChildren" id="has-children-{% endraw %}{{ id }}{% raw %}"> I have children</label>
+            <span class="label">
+                Family
+            </span>
+            <div class="input-group vertical">
+                <label class="checkbox"><input type="checkbox" v-model="isMarried"> I am married</label>
+                <label class="checkbox"><input type="checkbox" v-model="hasChildren"> I have children</label>
             </div>
         </div>
         <hr>
@@ -384,7 +385,8 @@
       el: el,
       data: function() {
         return {
-          occupation: 'employee',
+          occupation: getDefault('occupation', 'employee'),
+          isMarried: getDefaultBoolean('isMarried'),
           hasChildren: getDefaultNumber('childrenCount') > 0,
           income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
           age: getDefaultNumber('age'),
@@ -399,6 +401,7 @@
       },
       computed: {
         result: function() {
+          setDefaultBoolean('isMarried', this.isMarried);
           setDefaultNumber('yearlyIncome', this.monthlyIncome * 12);
           setDefaultNumber('age', this.age);
           if(this.hasChildren && getDefaultNumber('childrenCount') === 0) {
@@ -412,6 +415,7 @@
             age: +this.age,
             monthlyIncome: +this.monthlyIncome,
             occupation: this.occupation,
+            isMarried: this.isMarried,
             hasChildren: this.hasChildren,
           });
         },

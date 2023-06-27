@@ -1,6 +1,6 @@
 {% include '_js/constants.js' %}
 {% js %}
-function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, hasChildren, zusatzbeitrag}) {
+function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, hasChildren, zusatzbeitrag}) {
   const isEmployee = occupation == 'employee';
   const isSelfEmployed = occupation == 'selfEmployed';
   const isWorkingStudent = occupation == 'studentEmployee';
@@ -65,7 +65,9 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
     // Azubis can't use Familienversicherung
     // https://www.krankenkasse-vergleich-direkt.de/ratgeber/krankenversicherung-fuer-auszubildende.html
-    flags.add('familienversicherung-spouse'); // No age limit
+    if(isMarried){
+      flags.add('familienversicherung-spouse'); // No age limit
+    }
     if(age < 23 || (isStudent && age < 25)) {
       flags.add('familienversicherung-parents');
     }

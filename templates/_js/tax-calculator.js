@@ -19,6 +19,7 @@ function calculateTax(yearlyIncome, opts) {
   const isPayingChurchTax = !!opts.isPayingChurchTax;
   const occupation = opts.occupation;
   const taxClass = +opts.taxClass;
+  const isMarried = !!opts.isMarried;
   const year = (new Date()).getFullYear();
 
   const zusatzbeitrag = Number.isNaN(+opts.zusatzbeitrag) ? defaults.publicHealthInsuranceZusatzbeitrag/100 : +opts.zusatzbeitrag;
@@ -41,7 +42,7 @@ function calculateTax(yearlyIncome, opts) {
 
   /* Health insurance *******************************/
 
-  const healthInsuranceResult = calculateHealthInsuranceContributions({ age, hasChildren, monthlyIncome, occupation, zusatzbeitrag });
+  const healthInsuranceResult = calculateHealthInsuranceContributions({ age, isMarried, hasChildren, monthlyIncome, occupation, zusatzbeitrag });
   healthInsuranceResult.flags.forEach(f => result.flags.add(`kv-${f}`));
 
   if(hasSponsoredHealthInsurance(healthInsuranceType)) {
