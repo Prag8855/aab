@@ -225,7 +225,7 @@ $width-main-column: 860px;
     --b-input: 1px solid var(--c-border-input);
 
     // Shadow
-    --shadow-l: 0 var(--s) var(--xl) calc(var(--m) * -1) #0005;
+    --shadow-l: 0 var(--s) var(--xl) calc(var(--l) * -1) #0005;
     --shadow-s: 0 var(--xs) var(--s) calc(var(--s) * -1) #0003;
 
     --text-decoration-link: none;
@@ -442,7 +442,7 @@ $width-main-column: 860px;
     box-shadow: var(--shadow-s);
 }
 
-@mixin list-ul{
+@mixin list-marker-ul{
     @include text-block-compact;
 
     padding-left: 3ch;
@@ -457,15 +457,20 @@ $width-main-column: 860px;
     &:first-child{margin-top:0}
     &:last-child{margin-bottom:0}
 }
-@mixin list-ul-compact{
-    @include list-ul;
+@mixin list-marker-ul-compact{
+    @include list-marker-ul;
     padding-left: 2ch;
 }
-@mixin list-ol{
-    @include list-ul;
+@mixin list-marker-ol{
+    @include list-marker-ul;
     &:before {
         counter-increment: list;
         content: counter(list) ". ";
+    }
+}
+@mixin list-marker-light{
+    &:before {
+        color: var(--c-text-light);
     }
 }
 
@@ -623,7 +628,8 @@ body > header {
     }
 
     > ol > li{
-        @include list-ul;
+        @include list-marker-ul;
+        @include list-marker-light;
         &:not(.expanded) ol {
             display: none;
         }
@@ -657,7 +663,8 @@ body > header {
     }
 
     li{
-        @include list-ul-compact;
+        @include list-marker-ul-compact;
+        @include list-marker-light;
         a, a:hover{
             color: var(--c-text);
         }
@@ -847,7 +854,8 @@ main{
                 margin: 0;
             }
             li {
-                @include list-ul-compact;
+                @include list-marker-ul-compact;
+                @include list-marker-light;
             }
 
             @include only-phone{
@@ -1084,10 +1092,10 @@ sup:target a{
     }
 
     > ol > li, :not(.collapsible, .table-of-contents) ol > li{
-        @include list-ol;
+        @include list-marker-ol;
     }
     > ul > li, :not(.collapsible, .table-of-contents) ul > li{
-        @include list-ul;
+        @include list-marker-ul;
     }
     li.checkbox{
         position:relative;
@@ -1138,7 +1146,7 @@ sup:target a{
             @include only-phone{column-count: 1;}
         }
         li{
-            @include list-ol;
+            @include list-marker-ol;
             &:target{
                 background: var(--c-text-selection);
                 outline: 2px solid var(--c-text-selection);
@@ -2047,7 +2055,7 @@ details{
         padding: 0 var(--m);
     }
     li{
-        @include list-ol;
+        @include list-marker-ol;
         border-bottom: var(--b-box);
         position: relative;
         display: grid;
