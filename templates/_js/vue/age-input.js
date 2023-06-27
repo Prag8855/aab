@@ -2,6 +2,12 @@
 {% js %}{% raw %}
 Vue.component('age-input', {
   props: ['value'],
+  methods: {
+    parsedValue(val) {
+      let parsed = parseFloat(val);
+      return isNaN(parsed) ? val : parsed;
+    }
+  },
   template: `
     <input class="age-input"
       type="number"
@@ -11,7 +17,7 @@ Vue.component('age-input', {
       min="1"
       step="1"
       v-bind:value.number="value"
-      v-on:input="$emit('input', $event.target.value)"
+      v-on:input="$emit('input', parsedValue($event.target.value))"
       @focus="$event.target.select()">
   `,
 });

@@ -2,6 +2,12 @@
 {% js %}{% raw %}
 Vue.component('income-input', {
   props: ['value'],
+  methods: {
+    parsedValue(val) {
+      let parsed = parseFloat(val);
+      return isNaN(parsed) ? val : parsed;
+    }
+  },
   template: `
     <input class="income-input"
       type="number"
@@ -10,8 +16,8 @@ Vue.component('income-input', {
       placeholder="0"
       min="0"
       step="1"
-      v-bind:value.number="value"
-      v-on:input="$emit('input', $event.target.value)">
+      v-bind:value="value"
+      v-on:input="$emit('input', parsedValue($event.target.value))">
   `,
 });
 {% endraw %}{% endjs %}
