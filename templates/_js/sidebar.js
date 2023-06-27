@@ -4,6 +4,7 @@ window.addEventListener("DOMContentLoaded", function() {
   const main = document.querySelector('main');
   const articleBody = main.querySelector('.article-body');
   const bodyTableOfContents = articleBody && articleBody.querySelector('.table-of-contents');
+  const sidebarTableOfContents = document.querySelector('.sidebar .table-of-contents');
   const sidebarLinks = Array.from(document.querySelectorAll('.sidebar .table-of-contents li a:not(.expand)'));
   sidebarLinks.forEach((link, index) => {
     link.addEventListener('click', (e) => {
