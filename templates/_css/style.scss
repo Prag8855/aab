@@ -1267,11 +1267,16 @@ input:not([type=range]), textarea, select, .toggle{
 }
 
 textarea{
-    height: 60px;
+    transition: width 0.2s, height 0.2s;
+
+    &:placeholder-shown{
+        height: 60px;
+    }
+
+    height: 200px;
 
     &:focus{
-        height: 150px;
-        transition: height 0.2s;
+        height: 200px;
     }
 }
 
@@ -1473,11 +1478,12 @@ input[type=range] {
             gap:var(--s);
         }
 
-        .checkbox + .checkbox{margin-left:var(--l)}
+        &:not(.vertical) .checkbox + .checkbox{margin-left:var(--l)}
     }
 
     textarea{
-        flex: 1 0 100%;
+        max-width: 100%;
+        flex: 1 1 auto;
     }
 
     > label:first-child, > .label:first-child{
@@ -2246,8 +2252,9 @@ details{
     @include text-block;
     margin-bottom: var(--xl-relative);
 
-    > a {
+    > a, > button {
         @include box-clickable;
+        text-align: inherit;
     }
 
     > * {
