@@ -623,8 +623,14 @@ body > header {
 
 .table-of-contents{
     h2{
-        margin: 0;
-        font-size: var(--l);
+        margin: calc(var(--xxl) - var(--xl)) 0 var(--xl)!important;
+    }
+
+    @include only-phone{
+        h2{
+            margin: 0!important;
+            font-size: var(--l);
+        }
     }
 
     > ol > li{
