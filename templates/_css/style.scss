@@ -775,10 +775,10 @@ main{
         border-bottom: var(--b-box);
 
         span + span {
-            margin-left: var(--m);
+            margin: 0 0 0 var(--m);
 
             @include only-phone{
-                margin-left: 0;
+                margin: var(--xs) 0 0;
                 display: block;
             }
         }
