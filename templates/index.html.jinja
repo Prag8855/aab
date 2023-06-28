@@ -1,5 +1,5 @@
 {% extends "_layout.html" %}
-{% set metatitle = "All About Berlin" %}
+{% set metatitle = "" %}
 {% set metadescription = "Guides for people who want to settle in Berlin. Information about getting a visa, finding a job, finding an apartment, and a lot more." %}
 
 {% block postHead %}
@@ -14,8 +14,8 @@
 				This is the start of a great adventure! Let's get you ready for it.
 			</p>
 		</div>
-		<nav class="intersection">
-			<ul class="guide-buttons">
+		<nav class="intersection" aria-label="Most important guides">
+			<ul class="guide-buttons" aria-label="Guides for basic goals">
 				<li>
 					<a title="How to move to Berlin" href="{{site_url}}/guides/moving-to-berlin">
 						{% include "_css/icons/moving.svg" %}
@@ -36,7 +36,7 @@
 				</li>
 			</ul>
 			<h3>What do you need?</h3>
-			<ul class="guide-buttons">
+			<ul class="guide-buttons" aria-label="Other important guides">
 				<li>
 					<a title="How to find an apartment in Berlin" href="{{site_url}}/guides/find-a-flat-in-berlin">
 						{% include "_css/icons/apartment.svg" %}

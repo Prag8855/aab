@@ -1,4 +1,5 @@
-<svg width="150px" height="150px" viewBox="0 0 60 60">
+<svg width="150px" height="150px" viewBox="0 0 60 60" aria-hidden="true">
+  <title>Techniker Krankenkasse logo</title>
   <path fill="#00a0e3" d="M0 0h60.001v60H0z"/>
   <path fill="#fff" d="M26.01 17.685v10.982h-9.146V17.685H10V9.999h22.862v7.686zm11.597-.009h11.826l-11.004 10.99L50.001 39.66H38.187L27.201 28.666zM14.912 43.684l-.124.914h-1.836v5.401h-1.109v-5.401h-1.96l.116-.914z"/>
   <defs>
