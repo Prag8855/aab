@@ -1628,20 +1628,21 @@ input[type=range] {
             justify-content:space-between;
             text-align: left;
 
-            &:hover, &.highlighted{
-                text-decoration:none;
-                background: var(--c-bg-widget);
-                &:after{
-                    color: inherit;
-                }
-            }
-
             &:after{
                 content: '➞';
                 float: right;
                 font-weight: bold;
                 flex:0 0;
                 color: transparent;
+            }
+        }
+
+        // Only highlight one element at the time
+        a:hover, &:not(:hover) a.highlighted{
+            text-decoration:none;
+            background: var(--c-bg-widget);
+            &:after{
+                color: inherit;
             }
         }
     }
