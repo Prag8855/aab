@@ -346,7 +346,8 @@ $width-main-column: 860px;
 }
 
 @mixin heading{
-    font-family: 400 1rem 'Libre Franklin', 'Open Sans', sans-serif;
+    font-family:'Libre Franklin', 'Open Sans', sans-serif;
+    font-weight: 400;
     line-height: var(--line-height-heading);
     color: var(--c-text-heading);
     letter-spacing: -0.01em;
@@ -601,7 +602,6 @@ body > header {
         letter-spacing:-0.03em;
 
         @include full-width-site{
-            display:hidden;
             color: transparent;
             overflow: hidden;
             width: var(--w-logo);
@@ -693,7 +693,7 @@ body > header {
             mask-repeat: no-repeat;
             background-color: var(--c-highlight);
             left: -0.1em;
-            transition: transform 0.2;
+            transition: transform 0.2s;
         }
         @media (hover: hover) {
             &:hover:before{
