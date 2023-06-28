@@ -21,7 +21,7 @@
 
 {% block postcontent %}
 	{% if related_entries %}
-		<aside class="section no-print" id="related" role="list" aria-labelledby="h-using-this-term">
+		<aside class="section no-print" id="related" aria-labelledby="h-using-this-term">
 			<h2 id="h-using-this-term">Related guides</h2>
 			{% with entries=entry.related_guides|default([]) %}
 				{% include "_blocks/entryPreviews.html" %}

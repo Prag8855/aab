@@ -20,7 +20,7 @@
 			</div>
 		</article>
 		{% if related_entries|length %}
-			<aside class="section" role="list" aria-labelledby="h-related-guides">
+			<aside class="section" aria-labelledby="h-related-guides">
 				<h2 id="h-related-guides">Related guides</h2>
 				{% with entries=entry.related_guides|default([]) %}
 					{% include "_blocks/entryPreviews.html" %}
