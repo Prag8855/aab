@@ -321,7 +321,7 @@ $width-main-column: 860px;
     color: var(--c-text-heading);
     border-color:var(--c-border-clickable-hover);
     box-shadow: var(--shadow-s), 0 0 0 1px var(--c-border-clickable-hover);
-    text-decoration: none;
+    text-decoration: none!important;
     cursor: pointer;
 }
 
@@ -331,7 +331,7 @@ $width-main-column: 860px;
     color: var(--c-text-heading);
     box-shadow: var(--shadow-s), 0 0 0 1px transparent;
     outline: none;
-    text-decoration: none;
+    text-decoration: none!important;
 
     &:focus, &:active{
         @include box-clickable-hover;
