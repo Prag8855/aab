@@ -633,7 +633,7 @@ body > header {
         }
     }
 
-    > ol > li{
+    > ol > li, > ol > li > ol > li{
         @include list-marker-ul;
         @include list-marker-light;
         &:not(.expanded) ol {
@@ -1097,10 +1097,10 @@ sup:target a{
         }
     }
 
-    > ol > li, :not(.collapsible, .table-of-contents) ol > li{
+    > ol > li, > :not(.collapsible, .table-of-contents) ol > li{
         @include list-marker-ol;
     }
-    > ul > li, :not(.collapsible, .table-of-contents) ul > li{
+    > ul > li, > :not(.collapsible, .table-of-contents) ul > li{
         @include list-marker-ul;
     }
     li.checkbox{
