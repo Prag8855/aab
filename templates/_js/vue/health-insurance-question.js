@@ -142,7 +142,7 @@ Vue.component('health-insurance-question', {
           <span class="label"></span>
           <div class="input-group">
             <label class="checkbox">
-              <input type="checkbox" v-model="incomeOverLimit"> I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year
+              <input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
             </label>
           </div>
         </div>
