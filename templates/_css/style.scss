@@ -1597,7 +1597,16 @@ input[type=range] {
         padding: 0;
         border: none;
         box-shadow: none;
+
+        &::-webkit-search-decoration,
+        &::-webkit-search-cancel-button,
+        &::-webkit-search-results-button,
+        &::-webkit-search-results-decoration{
+            -webkit-appearance:none;
+        }
     }
+
+
 
     svg{
         width: 1rem;
