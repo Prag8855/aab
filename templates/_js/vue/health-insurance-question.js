@@ -30,22 +30,22 @@ Vue.component('health-insurance-question', {
   created(){
     this.question = '';
 
-    if(this.age && this.occupation){
-      const formattedIncome = `${formatCurrency(this.income, false, '€', false)} per year`;
-      this.question += {
-        employee: `I am an employee, and I make ${formattedIncome}.`,
-        azubi: `I am an apprentice, and I make ${formattedIncome}.`,
-        studentEmployee: `I am a working student, and I make ${formattedIncome}.`,
-        studentSelfEmployed: `I am a self-employed student, and I make ${formattedIncome}.`,
-        student: `I am a student, `,
-        selfEmployed: `I am self-employed, and I make ${formattedIncome}.`,
-        unemployed: `I am unemployed.`,
-      }[this.occupation];
+    if(!this.age || !this.occupation) {
+      return;
     }
 
-    if (this.age) {
-      this.question += ` I am ${this.age} years old,`;
-    }
+    const formattedIncome = `${formatCurrency(this.income, false, '€', false)} per year`;
+    this.question += {
+      employee: `I am an employee, and I make ${formattedIncome}.`,
+      azubi: `I am an apprentice, and I make ${formattedIncome}.`,
+      studentEmployee: `I am a working student, and I make ${formattedIncome}.`,
+      studentSelfEmployed: `I am a self-employed student, and I make ${formattedIncome}.`,
+      student: `I am a student, `,
+      selfEmployed: `I am self-employed, and I make ${formattedIncome}.`,
+      unemployed: `I am unemployed.`,
+    }[this.occupation];
+
+    this.question += ` I am ${this.age} years old,`;
 
     if(this.isMarried){
       if(this.hasChildren){
@@ -60,7 +60,7 @@ Vue.component('health-insurance-question', {
         this.question += " and I am not married, but I have children.";
       }
       else {
-        this.question += " I have children and I am not married.";
+        this.question += " I am not married and I don't have children.";
       }
     }
 
