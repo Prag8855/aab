@@ -2,8 +2,8 @@
 	<nav class="collections" aria-label="{% if currentEntry|default %}Collections that feature this guide{% else %}All guide collections{% endif %}">
 		{% for collection in collections %}
 			{% set id = random_id() %}
-			<div class="collection" aria-labelledby="title-collection-{{ id }}">
-				<h3 id="title-collection-{{ id }}"><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
+			<div class="collection" aria-labelledby="h-coll-{{ id }}">
+				<h3 id="h-coll-{{ id }}"><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
 				<ol aria-label="Guides in this collection">
 					{% for guide in collection.related_guides %}
 						{% if currentEntry|default and currentEntry == guide %}

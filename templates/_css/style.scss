@@ -2409,7 +2409,7 @@ details{
         --shadow-l: none;
     }
 
-    body{display:block;}
+    body, main{display:block;}
 
     sup, #footnotes{
         display:none!important;
