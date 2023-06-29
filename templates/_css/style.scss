@@ -211,7 +211,7 @@ $width-main-column: 860px;
     --c-border-clickable-hover: var(--c-highlight);
 
     --c-border-hint: #0004; // Also update --i-expand
-    --c-border-hint-hover: #0007;
+    --c-border-hint-hover: var(--c-border-input-focused);
 
     --c-bg-clickable: transparent;
     --c-bg-clickable-hover: #fff1;
@@ -264,7 +264,6 @@ $width-main-column: 860px;
         --c-border-input-focused: #fff8;
 
         --c-border-hint: #fff6;
-        --c-border-hint-hover: #fffd;
 
         --c-bg-clickable: transparent;
         --c-bg-clickable-hover: #0001;
