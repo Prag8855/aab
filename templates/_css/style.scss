@@ -517,7 +517,10 @@ body{
 }
 
 body > header {
-    padding: 0 calc(var(--w-page-border) - var(--m));
+    --padding-header-item: var(--m);
+    --f-header-item: var(--m);
+
+    padding: 0 calc(var(--w-page-border) - var(--padding-header-item));
 
     background: var(--c-highlight);
     grid-area: header;
@@ -529,6 +532,7 @@ body > header {
     align-items: stretch;
     height: var(--h-header);
 
+    font-size: var(--f-header-item);
     line-height: var(--h-header);
 
     color: #fff;
@@ -541,7 +545,7 @@ body > header {
 
     @mixin header-link{
         color: #fff;
-        padding: 0 var(--m);
+        padding: 0 var(--padding-header-item);
         cursor: pointer;
         &:hover{
             background-color: #fff2;
@@ -594,18 +598,19 @@ body > header {
     }
 
     .logo{
-        background: var(--i-logo) no-repeat var(--m) center / var(--w-logo) auto;
+        background: var(--i-logo) no-repeat var(--padding-header-item) center / var(--w-logo) auto;
         font-size: var(--xl);
-        padding-left: calc(var(--w-logo) + var(--m) + var(--s));
+        padding-left: calc(var(--padding-header-item) + var(--w-logo) + var(--s));
         line-height: var(--height-header);
         font-family: var(--font-family-header);
         letter-spacing:-0.03em;
+        flex: 0 0 auto;
 
         @include full-width-site{
             color: transparent;
             overflow: hidden;
             width: var(--w-logo);
-            padding:0 var(--m);
+            padding:0 var(--padding-header-item);
         }
     }
 
@@ -614,10 +619,8 @@ body > header {
     }
 
     @include only-phone{
-        #sections > a, #sections > a:visited{
-            font-size: var(--f-s);
-            padding: 0 var(--s);
-        }
+        --f-header-item: var(--f-s);
+        --padding-header-item: var(--s);
     }
 }
 
