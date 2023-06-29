@@ -86,31 +86,31 @@ config.image_transforms = {
     '': {
         'exclude': ('experts/photos/*', ),
         'max_size': (int(800 * 2), int(800 * 2 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content1.5x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (int(800 * 1.5), int(800 * 1.5 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content1x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (800, int(800 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content0.75x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (int(800 * 0.75), int(800 * 0.75 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content0.5x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'bioLarge2x': {
         'include': 'experts/photos/*',
