@@ -1157,6 +1157,7 @@ sup:target a{
         }
         li{
             @include list-marker-ol;
+            break-inside: avoid;
             &:target{
                 background: var(--c-text-selection);
                 outline: 2px solid var(--c-text-selection);
