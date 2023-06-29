@@ -52,7 +52,9 @@
                       <select
                         class="month-input"
                         :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                        aria-label="First month of work in Germany"
                         aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
+                        title="First month of work in Germany"
                         v-model="firstMonthOfWork">
                           <option value="" disabled selected hidden>Month</option>
                           <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
@@ -60,7 +62,9 @@
                       <select
                         class="year-input"
                         :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                        aria-label="Last year of work in Germany"
                         aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
+                        title="Last year of work in Germany"
                         v-model="firstYearOfWork">
                           <option value="" disabled selected hidden>Year</option>
                           <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
@@ -73,7 +77,9 @@
                     <select
                       class="month-input"
                       :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                      aria-label="Last month of work in Germany"
                       aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
+                      title="Last month of work in Germany"
                       v-model="lastMonthOfWork">
                         <option value="" disabled selected hidden>Month</option>
                         <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
@@ -81,7 +87,9 @@
                     <select
                       class="year-input"
                       :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+                      aria-label="Last year of work in Germany"
                       aria-describedby="instructions-time-in-germany-{% endraw %}{{ id }}{% raw %}"
+                      title="Last year of work in Germany"
                       v-model="lastYearOfWork">
                         <option value="" disabled selected hidden>Year</option>
                         <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>

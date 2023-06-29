@@ -12,16 +12,18 @@
                 <template v-if="income >= incomeInputRange.max">or more</template>
                 <template v-if="income > incomeInputRange.min && income < incomeInputRange.max">{{ salaryOrIncome }}</template>
             </label>
-            <span class="no-print range-prefix" @click="decrementIncome">€</span>
+            <span class="no-print range-prefix">€</span>
             <input
+                aria-label="Salary"
                 class="no-print"
                 id="range-income-{% endraw %}{{ id }}{% raw %}"
                 v-model.number="income"
                 type="range"
                 :step="incomeInputRange.step"
                 :min="incomeInputRange.min"
-                :max="incomeInputRange.max">
-            <span class="no-print range-suffix" @click="incrementIncome">€€€</span>
+                :max="incomeInputRange.max"
+                tabindex="0">
+            <span class="no-print range-suffix">€€€</span>
         </div>
         <div class="form-group">
             <label for="occupation-{% endraw %}{{ id }}{% raw %}">
@@ -514,8 +516,6 @@
         eur(num) {
           return formatCurrency(num, false, '€', false);
         },
-        incrementIncome() { this.income = Math.min(this.income + this.incomeInputRange.step, this.incomeInputRange.max) },
-        decrementIncome() { this.income = Math.max(this.income - this.incomeInputRange.step, this.incomeInputRange.min) },
       },
       watch: {
         useMonthlyIncome() {
