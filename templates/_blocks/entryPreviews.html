@@ -1,7 +1,7 @@
 <ol class="previews">
 {% for entry in entries %}
     {% set entryType = entry.url.split('/')[1] %}
-    <li aria-label="{{ entry.title }}" class="{{ entryType }}">
+    <li class="{{ entryType }}">
         <h3>
             <a href="{{ entry.url }}" rel="bookmark">
                 {% if entry.url.startswith('guides/') %}

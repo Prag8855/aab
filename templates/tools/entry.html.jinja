@@ -11,7 +11,7 @@
     <h1>{{ entry.title }}</h1>
     {% include "_blocks/postMeta.html" %}
     {% with entry=entry, showSupportLink=true %}
-        <div class="article-body" aria-label="Main content">
+        <div class="article-body">
             {{ entry.body|render|safe }}
         </div>
     {% endwith %}
