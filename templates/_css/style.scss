@@ -13,28 +13,25 @@ table{border-collapse:collapse;border-spacing:0}
 *******************************************************************************/
 
 @font-face {
-    font-display:swap;
-    font-family:'Libre Franklin'; font-style:normal; font-weight:400;
-    src:local('Libre Franklin'), local('LibreFranklin-Regular'), url(/fonts/librefranklin-400.woff2) format('woff2');
-    unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/librefranklin-400.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 @font-face {
-    font-display:swap;
-    font-family:'Open Sans'; font-style:italic; font-weight:300;
-    src:local('Open Sans Light Italic'), local('OpenSans-LightItalic'), url(/fonts/opensans-400-italic.woff2) format('woff2');
-    unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/fonts/librefranklin-400i.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 @font-face {
-    font-display:swap;
-    font-family:'Open Sans'; font-style:normal; font-weight:300;
-    src:local('Open Sans Light'), local('OpenSans-Light'), url(/fonts/opensans-400.woff2) format('woff2');
-    unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-@font-face {
-    font-display:swap;
-    font-family:'Open Sans'; font-style:normal; font-weight:600;
-    src:local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(/fonts/opensans-600.woff2) format('woff2');
-    unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/librefranklin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /*******************************************************************************
@@ -346,7 +343,6 @@ $width-main-column: 860px;
 }
 
 @mixin heading{
-    font-family:'Libre Franklin', 'Open Sans', sans-serif;
     font-weight: 400;
     line-height: var(--line-height-heading);
     color: var(--c-text-heading);
@@ -361,7 +357,7 @@ $width-main-column: 860px;
 }
 
 @mixin text{
-    font: 400 var(--m) / var(--line-height-text) 'Open Sans', sans-serif;
+    font: 400 var(--m) / var(--line-height-text) 'Libre Franklin', sans-serif;
     color: var(--c-text);
 }
 
@@ -446,7 +442,7 @@ $width-main-column: 860px;
 @mixin list-marker-ul{
     @include text-block-compact;
 
-    padding-left: 3ch;
+    padding-left: var(--xl);
     position: relative;
     list-style: none;
 
@@ -460,7 +456,7 @@ $width-main-column: 860px;
 }
 @mixin list-marker-ul-compact{
     @include list-marker-ul;
-    padding-left: 2ch;
+    padding-left: var(--l);
 }
 @mixin list-marker-ol{
     @include list-marker-ul;
@@ -497,7 +493,6 @@ html, body{
 }
 
 body{
-    @include text;
     height: auto;
 
     background: var(--c-bg-website);
@@ -1315,10 +1310,10 @@ label.checkbox{
 .income-input, .age-input, .percent-input{
     box-sizing:content-box!important;
     flex: 0 0 auto!important;
-    width: calc(3ch)!important;
+    width: 2ch!important;
 }
 .income-input{
-    width:calc(7ch)!important;
+    width: 7ch!important;
 }
 
 .toggle{
@@ -1542,10 +1537,10 @@ input[type=range] {
             box-sizing:content-box!important;
             flex: 0 0 auto!important;
             text-align: center;
-            width: calc(3ch)!important; // A bit wider because of the placeholder
+            width: 3ch!important; // A bit wider because of the placeholder
         }
         .year-input{
-            width: calc(5ch)!important;
+            width: 5ch!important;
         }
     }
 }
@@ -1643,7 +1638,7 @@ input[type=range] {
             &:after{
                 content: '➞';
                 float: right;
-                font-weight: bold;
+                font-weight: 600;
                 flex:0 0;
                 color: transparent;
             }
@@ -1705,7 +1700,7 @@ input[name="username"], // Honeypot
             color: var(--c-text-light);
 
             a{
-                font-weight: bold;
+                font-weight: 600;
                 display: block;
                 line-height: var(--line-height-label);
             }
@@ -1997,7 +1992,7 @@ details{
         display: block;
         width: auto;
         height: var(--h-icon-l);
-        margin:0 auto var(--xs)!important;
+        margin:0 auto var(--s)!important;
     }
 
     > li {
@@ -2084,7 +2079,7 @@ details{
         border-bottom: var(--b-box);
         position: relative;
         display: grid;
-        grid-template-columns:3ch 1fr;
+        grid-template-columns:var(--xl) 1fr;
         font-size: var(--f-s);
         margin: 0;
         padding:var(--m) 0;
