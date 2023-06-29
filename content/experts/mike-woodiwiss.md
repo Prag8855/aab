@@ -6,4 +6,4 @@ Website: https://www.spectrum-int.com/
 Picture: experts/photos/mike_woodiwiss.jpg
 ---
 
-Mike is was a health insurance broker at Spectrum International. He passed away.
+Mike was a health insurance broker at Spectrum International. He passed away.
