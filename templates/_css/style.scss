@@ -823,6 +823,13 @@ main{
                     margin-top: var(--m);
                     padding-top: var(--m);
                 }
+
+                @include only-phone{
+                    time{
+                        display: block;
+                        color: var(--c-text-light);
+                    }
+                }
             }
         }
     }

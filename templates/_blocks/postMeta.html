@@ -39,8 +39,8 @@
                     {% endif %}
                     <div>
                         <p>
-                            <strong>Fact-checked by {{ reviewer.name }}</strong>
-                             on 
+                            <strong><span class="no-mobile">Verified by </span> {{ reviewer.name }}</strong>
+                            <span class="no-mobile"> on </span>
                             <time content="{{ review.date_reviewed.strftime('%F') }}" datetime="{{ review.date_reviewed.strftime('%F') }}">{{ review.date_reviewed.strftime('%B %-d, %Y') }}</time>
                         </p>
                         {{ reviewer.body|render|safe }}
