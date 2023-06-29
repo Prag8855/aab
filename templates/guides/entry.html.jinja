@@ -20,7 +20,7 @@
 			<h1>{{ entry.title }}</h1>
 			{% include "_blocks/postMeta.html" %}
 			{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
-				<div class="article-body">
+				<div class="article-body" aria-label="Main content">
 					{{ entry.body|render|safe }}
 				</div>
 			{% endwith %}
@@ -44,7 +44,7 @@
 		{% endif %}
 	</main>
 	
-	<div class="sidebar no-print">
+	<div class="sidebar no-print" aria-hidden="true">
 		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showRelatedEntriesLink=related_collections|length %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}

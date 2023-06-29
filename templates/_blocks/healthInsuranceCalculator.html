@@ -239,7 +239,7 @@
             </p>
         </details>
         <div class="buttons">
-            <button class="button primary no-print" @click="stage = 'insuranceOptions'">Show insurance options <i class="icon right"></i></button>
+            <button class="button primary no-print" @click="stage = 'insuranceOptions'">Show insurance options <i class="icon right" aria-hidden="true"></i></button>
         </div>
     </template>
     <template v-if="stage === 'insuranceOptions'">
@@ -389,13 +389,13 @@
         >
         <template v-slot:form-buttons>
             <button class="button" @click="stage = 'insuranceOptions'">
-                <i class="icon left"></i> Back to options
+                <i class="icon left" aria-hidden="true"></i> Back to options
             </button>
         </template>
         <template v-slot:after-confirmation>
             <div class="buttons left">
                 <button class="button" @click="stage = 'start'">
-                    <i class="icon left"></i> Back to calculator
+                    <i class="icon left" aria-hidden="true"></i> Back to calculator
                 </button>
             </div>
         </template>
@@ -403,12 +403,12 @@
 
     <div class="buttons left" v-if="stage === 'publicInsuranceOptions' || stage === 'privateInsuranceOptions'">
         <button class="button" @click="stage = 'insuranceOptions'">
-            <i class="icon left"></i> Back to options
+            <i class="icon left" aria-hidden="true"></i> Back to options
         </button>
     </div>
     <div class="buttons left" v-if="stage === 'insuranceOptions'">
         <button class="button" @click="stage = 'start'" v-if="stage === 'insuranceOptions'">
-            <i class="icon left"></i> Back to calculator
+            <i class="icon left" aria-hidden="true"></i> Back to calculator
         </button>
     </div>
 {% endraw %}

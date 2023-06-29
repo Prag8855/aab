@@ -14,7 +14,7 @@
 {% block content %}
 	<h1>{{ title }}</h1>
 	{% include "_blocks/postMeta.html" %}
-	<div class="article-body">
+	<div class="article-body" aria-label="Glossary definition">
 		{{ entry.body|render|safe }}
 	</div>
 {% endblock %}

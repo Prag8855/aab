@@ -25,10 +25,10 @@
         </template>
         <div class="appointments" v-if="appointments.length > 0">
             <a v-for="appointment in appointments" href="/out/appointment-anmeldung" target="_blank" title="Book this appointment" :key="appointment.date">
-                <i class="icon calendar"></i>
+                <i class="icon calendar" aria-hidden="true"></i>
                 <strong>{{ prettyDate(appointment.date) }}</strong>
                 <time>{{ relativeDate(appointment.date) }}</time>
-                <i class="icon right"></i>
+                <i class="icon right" aria-hidden="true"></i>
             </a>
         </div>
         <p class="timer" v-if="isConnected && !hasError && secondsToNextMessage > 0">

@@ -1,11 +1,11 @@
-<div class="post-meta no-print">
+<div class="post-meta no-print" aria-label="Page information">
     {% set reviews = entry.related_reviews|default([]) %}
     <span>
-        <i class="icon calendar"></i>
+        <i class="icon calendar" aria-hidden="true"></i>
         <time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">Updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
     </span>
     <span>
-        <i class="icon person"></i>
+        <i class="icon person" aria-hidden="true"></i>
         {% if entry.author|default %}
             {% if entry.author_url|default %}
                 By <a rel="nofollow" href="{{ entry.author_url }}" target="_blank">{{ entry.author }}</a>
@@ -18,12 +18,12 @@
     </span>
     {% if reviews|length == 1 %}
         <span class="post-reviewers">
-            <i class="icon verified"></i>
+            <i class="icon verified" aria-hidden="true"></i>
             Verified by <a class="reviewers-link" href="#reviewers">1 expert</a>
         </span>
     {% elif reviews|length > 1 %}
         <span class="post-reviewers">
-            <i class="icon verified"></i>
+            <i class="icon verified" aria-hidden="true"></i>
             Verified by <a href="#reviewers">{{ reviews|length }} experts</a>
         </span>
     {% endif %}
