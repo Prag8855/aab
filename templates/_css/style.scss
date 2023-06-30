@@ -834,41 +834,49 @@ main{
         }
     }
 
-    .collections{
-        .collection{
-            width: calc(50% - 34px / 2);
-            box-sizing: border-box;
-            text-align: left;
+    .collection{
+        width: calc(50% - 34px / 2);
+        box-sizing: border-box;
+        text-align: left;
 
-            margin: 0 0 var(--xxl);
+        margin: 0 0 var(--xxl);
 
-            &:last-child{
-                margin-bottom: 0;
+        &:last-child{
+            margin-bottom: 0;
+        }
+
+        h3{
+            margin: 0 0 var(--m);
+            padding: 0 0 var(--m);
+            border-bottom: var(--b-box);
+
+            a{
+                color: var(--c-text-heading)
             }
+        }
 
-            h3{
-                margin: 0 0 var(--m);
-                padding: 0 0 var(--m);
-                border-bottom: var(--b-box);
+        .current{
+            @include text-bold;
+        }
 
-                a{
-                    color: var(--c-text-heading)
-                }
-            }
+        ol {
+            margin: 0;
+        }
+        li {
+            @include list-marker-ul-compact;
+            @include list-marker-light;
+        }
 
-            .current{
-                @include text-bold;
-            }
-
-            ol {
-                margin: 0;
-            }
-            li {
-                @include list-marker-ul-compact;
-                @include list-marker-light;
-            }
-
-            @include only-phone{
+        @include only-phone{
+            width: 100%;
+        }
+    }
+    @include only-print{
+        // Undo masonry.js layout, because it does not print well
+        .collections{
+            height: auto!important;
+            .collection{
+                position: static!important;
                 width: 100%;
             }
         }
