@@ -138,7 +138,7 @@
                         <p>Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
                         <div class="input-group email-reminder">
                             <input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email">
-                            <button class="button primary" @click="setReminder" :disabled="!emailAddress">
+                            <button class="button primary" @click="setReminder" :disabled="!emailAddressValid">
                                 Remind me in {{ monthsUntilEligible }}
                             </button>
                         </div>
@@ -158,7 +158,7 @@
     <template v-if="stage === 'reminderConfirmation'">
         <p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
         <div class="buttons left">
-            <button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
+            <button class="button" @click="emailAddress = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
         </div>
     </template>
     <template v-if="stage === 'partnerSelection'">
@@ -368,6 +368,10 @@
         }
       },
       computed: {
+        emailAddressValid() {
+          const re = /\S+@\S+\.\S+/;
+          return re.test(this.emailAddress);
+        },
         firstDayOfWork() {
           if(this.firstMonthOfWork && this.firstYearOfWork) {
             return new Date(`${this.firstYearOfWork}-${this.firstMonthOfWork}-01T00:00:00`);
