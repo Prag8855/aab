@@ -120,11 +120,11 @@
             <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
                 Health insurance cost
             </label>
-            <div class="input-group">
+            <label class="input-group">
                 <income-input id="health-insurance-cost-{% endraw %}{{ id }}{% raw %}" v-model="privateHealthInsuranceCost"></income-input>
                 €&nbsp;per month
                 <span class="input-instructions" v-if="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
-            </div>
+            </label>
         </div>
         <div class="form-group show-errors" v-if="healthInsuranceType === 'public-custom'">
             <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
