@@ -7,8 +7,9 @@
     <template v-if="stage === 'start'">
         <div class="range-input">
             <label for="range-income-{% endraw %}{{ id }}{% raw %}">
-                <strong><eur :amount="income"></eur></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}
-                <template v-if="income <= incomeInputRange.min">or less</template>
+                <strong v-if="income === 0">No income</strong>
+                <template v-if="income > 0"><strong><eur :amount="income"></eur></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}</template>
+                <template v-if="income > 0 && income <= incomeInputRange.min">or less</template>
                 <template v-if="income >= incomeInputRange.max">or more</template>
                 <template v-if="income > incomeInputRange.min && income < incomeInputRange.max">{{ salaryOrIncome }}</template>
             </label>
@@ -70,7 +71,7 @@
             </template>
             <template v-else-if="result.tarif === 'selfPay'">
                 <template v-if="flag('minijob')">
-                    When you have a <glossary>Minijob</glossary>, you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. You don't get help from your employer.
+                    You pay the <glossary term="Mindestbeitrag">minimum price</glossary>. Your employer does not pay part of your health insurance.
                 </template>
                 <template v-else>
                     Your health insurance costs a percentage of your income.
@@ -516,6 +517,17 @@
         },
         yearlyIncome() {
           setDefaultNumber('yearlyIncome', this.yearlyIncome);
+          if(this.yearlyIncome > 0 && this.occupation === 'unemployed'){
+            this.occupation = 'employee';
+          }
+          else if(this.yearlyIncome === 0 && this.occupation === 'employee'){
+            this.occupation = 'unemployed';
+          }
+        },
+        occupation() {
+          if(this.occupation === 'unemployed') {
+            this.income = 0;
+          }
         },
         stage() {
           Vue.nextTick(() => {
