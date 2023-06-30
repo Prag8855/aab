@@ -20,12 +20,12 @@
 {% endblock %}
 
 {% block content %}
-    <nav class="glossary-sections">
+    <nav class="glossary-sections" aria-label="Letter shortcuts">
 		{% for group_name, entries in groups %}
-			<a href="#letter-{{ group_name }}">{{ group_name }}</a>
+			<a href="#letter-{{ group_name }}" title="Terms that start with '{{ group_name }}'">{{ group_name }}</a>
 		{% endfor %}
     </nav>
-	<nav class="collections">
+	<nav class="collections" aria-label="List of terms, grouped by letter">
 		{% for group_name, entries in groups %}
 			<div class="collection" id="letter-{{ group_name }}">
 				<h3>{{ group_name }}</h3>
