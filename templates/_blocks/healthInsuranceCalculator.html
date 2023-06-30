@@ -9,7 +9,6 @@
             <label for="range-income-{% endraw %}{{ id }}{% raw %}">
                 <strong v-if="income === 0">No income</strong>
                 <template v-if="income > 0"><strong><eur :amount="income"></eur></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}</template>
-                <template v-if="income > 0 && income <= incomeInputRange.min">or less</template>
                 <template v-if="income >= incomeInputRange.max">or more</template>
                 <template v-if="income > incomeInputRange.min && income < incomeInputRange.max">{{ salaryOrIncome }}</template>
             </label>
@@ -75,7 +74,7 @@
                 </template>
                 <template v-else>
                     Your health insurance costs a percentage of your income.
-                    <template v-if="occupation === 'unemployed'">
+                    <template v-if="flag('alg-i-buergergeld')">
                         If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, the Jobcenter pays for your insurance.
                     </template>
                     <template v-else>
@@ -234,6 +233,16 @@
     <template v-if="stage === 'insuranceOptions'">
         <h3>Your options</h3>
         <div class="health-insurance-options">
+            <div v-if="flag('alg-i-buergergeld')">
+                {% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
+                <div>
+                    <h3>ALG I or Bürgergeld</h3>
+                    <p>
+                        If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The Jobcenter pays for it.
+                    </p>
+                </div>
+                <output><eur :amount="0"></eur> <small>per month</small></output>
+            </div>
             <div v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
                 {% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
                 <div>
@@ -242,25 +251,7 @@
                         If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free. Ask their health insurer.
                     </p>
                 </div>
-                <output>Free</output>
-            </div>
-            <div v-if="occupation === 'unemployed'">
-                {% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
-                <div>
-                    <h3>ALG I or Bürgergeld</h3>
-                    <p>
-                        If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The Jobcenter pays for it.
-                    </p>
-                </div>
-                <output>Free</output>
-            </div>
-            <div v-if="flag('ehic')">
-                {% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
-                <div>
-                    <h3>European Health Insurance Card</h3>
-                    <p>If you have health insurance from another EU country, you might not need German health insurance.</p>
-                </div>
-                <output>Free</output>
+                <output><eur :amount="0"></eur> <small>per month</small></output>
             </div>
             <button @click="stage = 'publicInsuranceOptions'">
                 {% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
@@ -280,6 +271,14 @@
                 </div>
                 <output>Varies</output>
             </button>
+            <div v-if="flag('ehic')">
+                {% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
+                <div>
+                    <h3>European Health Insurance Card</h3>
+                    <p>If you have health insurance from another EU country, you might not need German health insurance.</p>
+                </div>
+                <output>Free</output>
+            </div>
             <a v-if="flag('ksk')" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
                 {% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
                 <div>
@@ -455,7 +454,7 @@
         salaryOrIncome() { return occupations.isEmployed(this.occupation) ? 'salary' : 'income' },
         incomeInputRange() {
           return {
-            min: this.useMonthlyIncome ? 250 : 5000,
+            min: 0,
             max: this.useMonthlyIncome ? Math.ceil(healthInsurance.minFreiwilligMonthlyIncome/250)*250 : Math.ceil(healthInsurance.minFreiwilligMonthlyIncome*12/1000)*1000,
             step: this.useMonthlyIncome ? 250 : 1000,
           };

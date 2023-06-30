@@ -11,12 +11,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
   const hoursWorked = 20; // TODO: Accept different values
 
-  // TODO: BaFöG flag and rebate
-  // They give you an extra 62+11€ for your insurance, but you must apply first
-  // https://mlp-financify.de/finanzwissen/finanz-blog/unterschiede-in-der-gkv/
-
-  // TODO: Calculate student contribution instead of using fixed values. Set rate instead of undefined
-
   /***************************************************
   * Tarif and flags
   ***************************************************/
@@ -106,6 +100,10 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
     flags.add('ksk');
   }
 
+  if (isUnemployed){
+    flags.add('alg-i-buergergeld');
+  }
+
   /***************************************************
   * Monthly income
   ***************************************************/
@@ -184,7 +182,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
   baseContributionValues.personalRate = tarif === 'student' ? undefined : baseContributionValues.totalRate - baseContributionValues.employerRate;
   baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
-
 
   baseContributionValues.totalContribution = roundCurrency(baseContributionValues.totalContribution);
   baseContributionValues.personalContribution = roundCurrency(baseContributionValues.personalContribution);
