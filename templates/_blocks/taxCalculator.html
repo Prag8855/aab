@@ -39,21 +39,7 @@
             <label for="occupation-{% endraw %}{{ id }}{% raw %}">
                 Occupation
             </label>
-            <select id="occupation-{% endraw %}{{ id }}{% raw %}" v-model="occupation">
-                <optgroup label="Employee">
-                    <option value="employee">Employee</option>
-                    <option value="azubi">Apprentice (Azubi)</option>
-                </optgroup>
-                <optgroup label="Student">
-                    <option value="studentEmployee">Student, with a job</option>
-                    <option value="studentSelfEmployed">Student, self-employed</option>
-                    <option value="student">Student, unemployed</option>
-                </optgroup>
-                <optgroup label="Other">
-                    <option value="selfEmployed">Self-employed / freelancer</option>
-                    <option value="unemployed">Unemployed</option>
-                </optgroup>
-            </select>
+            <occupation-input id="occupation-{% endraw %}{{ id }}{% raw %}" v-model="occupation"></occupation-input>
         </div>
         <div class="form-group">
             <label for="state-{% endraw %}{{ id }}{% raw %}">
@@ -486,6 +472,7 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/occupation-input.js' %}
 {% js %}
   document.querySelectorAll('.income-tax-calculator').forEach(
     el => new Vue({
