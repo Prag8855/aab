@@ -157,6 +157,9 @@
     </template>
     <template v-if="stage === 'reminderConfirmation'">
         <p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
+        <div class="buttons left">
+            <button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
+        </div>
     </template>
     <template v-if="stage === 'partnerSelection'">
         <p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
@@ -200,40 +203,47 @@
                 </div>
             </div>
             <hr>
-            <div class="buttons right">
-                <button class="button primary" @click="setStage('contactInfo')">Request a refund <i class="icon right" aria-hidden="true"></i></button>
+            <div class="buttons">
+                <button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back</button>
+                <button class="button primary" @click="setStage('contactInfo')">Request a refund</button>
             </div>
         </template>
     </template>
-    <div v-if="stage === 'contactInfo'" ref="contactForm">
-        <div class="form-group">
-            <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
-            <div class="input-group">
-                <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" required autocomplete="name">
-                <span class="input-symbols"></span>
+    <template v-if="stage === 'contactInfo'">
+        <div ref="contactForm">
+            <div class="form-group">
+                <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
+                <div class="input-group">
+                    <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" required autocomplete="name">
+                    <span class="input-symbols"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="email-{% endraw %}{{ id }}{% raw %}">Email</label>
+                <div class="input-group">
+                    <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" required autocomplete="email">
+                    <span class="input-symbols"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">Date of birth</label>
+                <div class="input-group">
+                    <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday" aria-describedby="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}"></date-picker>
+                    <span class="input-symbols"></span>
+                    <span class="input-instructions" id="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}">Required by the Deutsche Rentenversicherung</span>
+                </div>
             </div>
         </div>
-        <div class="form-group">
-            <label for="email-{% endraw %}{{ id }}{% raw %}">Email</label>
-            <div class="input-group">
-                <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" required autocomplete="email">
-                <span class="input-symbols"></span>
-            </div>
+        <div class="buttons">
+            <button class="button" @click="stage = 'partnerSelection'"><i class="icon left" aria-hidden="true"></i> Back</button>
+            <button class="button primary" target="_blank" @click="sendRefundRequest">Send request</button>
         </div>
-        <div class="form-group">
-            <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">Date of birth</label>
-            <div class="input-group">
-                <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday" aria-describedby="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}"></date-picker>
-                <span class="input-symbols"></span>
-                <span class="input-instructions" id="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}">Required by the Deutsche Rentenversicherung</span>
-            </div>
-        </div>
-    </div>
-    <div class="buttons" v-if="stage === 'contactInfo'">
-        <button class="button primary" target="_blank" @click="sendRefundRequest">Send request</button>
-    </div>
+    </template>
     <template v-if="stage === 'requestConfirmation'">
         <p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
+        <div class="buttons">
+            <button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back</button>
+        </div>
     </template>
 </details>
 {% endraw %}
