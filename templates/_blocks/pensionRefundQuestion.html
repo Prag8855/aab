@@ -79,11 +79,6 @@
         };
       },
       methods: {
-        setStage(stage) {
-          this.stage = stage;
-          Vue.nextTick(() => scrollIntoViewIfNeeded(this.$refs.collapsible));
-          plausible('Pension refund question', { props: { stage: this.stage }});
-        },
         submitForm() {
           if(validateForm(this.$refs.collapsible)) {
             fetch(
@@ -100,7 +95,11 @@
                 }),
               }
             );
-            this.setStage('thank-you');
+            this.stage = 'thank-you';
+            Vue.nextTick(() => {
+              this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'auto' });
+              plausible('Pension refund question', { props: { stage: this.stage }});
+            });
           }
         },
       },

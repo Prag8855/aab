@@ -10,6 +10,7 @@ Vue.component('health-insurance-question', {
     income: Number,
     isMarried: Boolean,
     hasChildren: Boolean,
+    trackedStages: new Set(),
   },
   data: function() {
     return {
@@ -67,11 +68,6 @@ Vue.component('health-insurance-question', {
     this.question +=  ' Which health insurance should I choose?';
   },
   methods: {
-    setStage(stage) {
-      this.stage = stage;
-      Vue.nextTick(() => scrollIntoViewIfNeeded(this.$refs.form));
-      plausible('Health insurance question', { props: { stage: this.stage }});
-    },
     submitForm() {
       if(validateForm(this.$refs.form)) {
         fetch(
@@ -102,12 +98,23 @@ Vue.component('health-insurance-question', {
             }
           );
         });
-        this.setStage('thank-you');
+        this.stage = 'thank-you';
       }
     },
     makeId(id){
       return `${id}-${this.uniqueId}`;
     }
+  },
+  watch: {
+    stage() {
+      Vue.nextTick(() => {
+        this.$refs.form.scrollIntoView({ block: 'start', behavior: 'auto' });
+        if(!this.trackedStages.has(this.stage)) {
+          plausible('Health insurance question', { props: { stage: this.stage }});
+          this.trackedStages.add(this.stage);
+        }
+      });
+    },
   },
   template: `
     <div ref="form" class="health-insurance-question">

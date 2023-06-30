@@ -474,7 +474,7 @@
       watch: {
         stage() {
           Vue.nextTick(() => {
-            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'smooth' });
+            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'auto' });
             if(!this.trackedStages.has(this.stage)) {
               plausible('Pension refund calculator', { props: { stage: this.stage }});
               this.trackedStages.add(this.stage);

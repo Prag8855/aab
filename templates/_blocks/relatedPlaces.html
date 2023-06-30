@@ -53,7 +53,7 @@ function initMap() {
 		bounds.extend(marker.position)
 		marker.addListener('click', function() {
 			const placeLi = document.getElementById(`place-${marker.label}`);
-			placeLi.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+			placeLi.scrollIntoView({ block: 'nearest', behavior: 'auto' });
 			placeLi.classList.add('highlighted');
 			setTimeout(() => placeLi.classList.remove('highlighted'), 2000);
 		});
@@ -65,7 +65,7 @@ function initMap() {
 			e.preventDefault();
 			googleMap.setZoom(14);
 			googleMap.panTo(markers[index].position);
-			placesMap.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+			placesMap.scrollIntoView({ block: 'nearest', behavior: 'auto' });
 		});
 	})
 	googleMap.fitBounds(bounds);
