@@ -24,7 +24,7 @@
             </p>
         </template>
         <div class="appointments" v-if="appointments.length > 0">
-            <a v-for="appointment in appointments" href="/out/appointment-anmeldung" target="_blank" title="Book this appointment" :key="appointment.date">
+            <a v-for="appointment in appointments" href="/out/appointment-anmeldung" target="_blank" title="Book this appointment" :key="appointment.date.toString()">
                 <i class="icon calendar" aria-hidden="true"></i>
                 <strong>{{ prettyDate(appointment.date) }}</strong>
                 <time>{{ relativeDate(appointment.date) }}</time>
