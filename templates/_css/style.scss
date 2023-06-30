@@ -188,6 +188,8 @@ $width-main-column: 860px;
     --w-page-border: var(--xxl);
     --w-sidebar: calc(var(--w-desktop) - var(--w-main-column));
 
+    --s-text-block: var(--l-relative);
+
     // Colours
     --c-highlight: #da513d;
     --c-text: #444;
@@ -374,7 +376,7 @@ $width-main-column: 860px;
 }
 
 @mixin text-block{
-    margin: var(--l-relative) 0;
+    margin: var(--s-text-block) 0;
 }
 
 @mixin text-block-compact{
@@ -600,7 +602,8 @@ body > header {
         letter-spacing:-0.03em;
         flex: 0 0 auto;
 
-        @include full-width-site{
+        // Hide "All About Berlin" in the header if it doesn't fit
+        @media screen and (max-width: 720px){
             color: transparent;
             overflow: hidden;
             width: var(--w-logo);
@@ -1461,15 +1464,27 @@ input[type=range] {
     }
 }
 .buttons{
-    @include text-block;
     display: flex;
     gap: var(--m);
+    margin: var(--s-text-block) 0 0;
     justify-content: center;
     &.left{
         justify-content: flex-start;
     }
     &.right{
         justify-content: flex-end;
+    }
+
+    .button{flex: 0 0 auto;}
+
+    @include only-phone{ // Vertical buttons
+        flex-wrap: wrap;
+        gap: var(--s);
+
+        .button{
+            flex: 1 0 auto;
+            max-width: 15rem;
+        }
     }
 }
 
@@ -2279,7 +2294,6 @@ details{
     }
 }
 
-.health-insurance-calculator .buttons{margin-bottom: 0}
 .health-insurance-options{
     @include text-block;
     margin-bottom: var(--xl-relative);
@@ -2340,6 +2354,9 @@ details{
             grid-template-columns: 1fr;
             grid-auto-flow: row;
             gap: var(--s);
+            svg:first-child {
+                display: none;
+            }
         }
     }
 }
