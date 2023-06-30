@@ -22,10 +22,10 @@
 
     // Fetch description
     const anchor = clickEvent.currentTarget || clickEvent.target;
+    if(!tooltip.open){
+      tooltip.showModal();
+    }
     fetch(anchor.getAttribute('href') + '.json').then(r => r.json()).then(data => {
-      if(!tooltip.open){
-        tooltip.showModal();
-      }
       tooltip.querySelector('h2 a').setAttribute('href', anchor.getAttribute('href'));
       tooltip.querySelector('h2 a dfn').innerHTML = data.title;
       tooltip.querySelector('h2 a small').innerHTML = data.englishTerm || '';
