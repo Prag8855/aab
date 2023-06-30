@@ -1,0 +1,80 @@
+<dialog id="tooltip" class="loading" aria-labelledby="h-tooltip">
+  <header>
+      <h2>
+        <a lang="de" href="#" title="Open definition in new tab" target="_blank">
+          <dfn id="h-tooltip"></dfn>
+          <small lang="en"></small>
+        </a>
+      </h2>
+    <a href="#" title="Close" class="close-button" role="button" aria-label="Close tooltip"><i class="icon close" aria-hidden="true"></i></a>
+  </header>
+  <div class="article-body"></div>
+</dialog>
+{% js %}
+  const tooltip = document.getElementById('tooltip');
+  function showTooltip(clickEvent) {
+    const tooltipBody = tooltip.querySelector('.article-body');
+
+    // When switching from a tooltip to another, prevent the old content from showing on the new tooltip
+    tooltip.querySelector('h2 a dfn').innerHTML = '';
+    tooltipBody.innerHTML = '<p class="spinner">Loading...</p>';
+    tooltip.classList.add('loading');
+
+    // Fetch description
+    const anchor = clickEvent.currentTarget || clickEvent.target;
+    if(!tooltip.open){
+      tooltip.showModal();
+    }
+    fetch(anchor.getAttribute('href') + '.json').then(r => r.json()).then(data => {
+      tooltip.querySelector('h2 a').setAttribute('href', anchor.getAttribute('href'));
+      tooltip.querySelector('h2 a dfn').innerHTML = data.title;
+      tooltip.querySelector('h2 a small').innerHTML = data.englishTerm || '';
+      tooltip.querySelector('h2 a small').classList.toggle('hidden', !data.englishTerm);
+      tooltipBody.innerHTML = data.definition;
+      tooltipBody.querySelectorAll('a').forEach(a => a.target = '_blank');
+      
+      const footnotes = tooltipBody.querySelector('#footnotes');
+      if(footnotes){
+        footnotes.remove();
+      }
+      setTooltipLinks(tooltipBody);
+
+      tooltip.classList.remove('loading');
+
+      plausible('Glossary tooltip', { props: { url: anchor.getAttribute('href') }});
+    });
+  }
+
+  function hideTooltip(event) {
+    event.preventDefault();
+    tooltip.close();
+  }
+
+  function setTooltipLinks(element){
+    element.querySelectorAll('a[href*="/glossary/"]').forEach((anchor) => {
+      if(typeof tooltip.show === 'function') {
+        anchor.addEventListener('click', (event) => {
+          event.preventDefault();
+          event.stopPropagation();
+          showTooltip(event);
+        });
+      }
+      else {
+        anchor.setAttribute('target', '_blank');
+      }
+    });
+  }
+
+  window.addEventListener("DOMContentLoaded", function() {
+    tooltip.querySelector('.close-button').addEventListener('click', hideTooltip);
+    tooltip.addEventListener('click', clickEvent => {
+      if(clickEvent.target === tooltip) {
+        tooltip.close();
+      }
+    });
+    const article = document.querySelector('main .article-body');
+    if (article){
+      setTooltipLinks(article);
+    }
+  });
+{% endjs %}

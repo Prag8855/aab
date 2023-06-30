@@ -6,8 +6,11 @@ German_document: documents/Absichtserklaerung-Example-German.pdf
 English_document: documents/Absichtserklaerung-Example-English.pdf
 Description: An example letter of intent used to apply for the German freelance visa.
 Date_created: 2018-09-18
-Date_updated: 2022-12-01
-Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/freelance-visa-letter-of-intent.md, guides/become-a-freelancer-in-germany.md, guides/renew-german-freelance-visa.md
+Related_guides:
+    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa-letter-of-intent.md
+    guides/become-a-freelancer-in-germany.md
+    guides/renew-german-freelance-visa.md
 ---
 
 This [letter of intent](/glossary/Absichtserkl%C3%A4rung) was used by a software developer to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin. The personal information was changed for privacy reasons.
@@ -16,3 +19,6 @@ This [letter of intent](/glossary/Absichtserkl%C3%A4rung) was used by a software
 
 **[More information about letters of intent ➞](/guides/freelance-visa-letter-of-intent)**
 
+## Download the example letter
+
+{% include "_blocks/downloadDocuments.html"%}

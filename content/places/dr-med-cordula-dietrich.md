@@ -1,5 +1,5 @@
 ---
-Name: Frau Dr. med. Cordula Dietrich
+Name: Dr. Cordula Dietrich
 Accepts_public_insurance: Yes
 Website: http://www.corduladietrich.de/
 Email: 

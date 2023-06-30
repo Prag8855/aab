@@ -10,7 +10,7 @@ This guide helps you find a job in Germany.
 
 To start a business in Germany, read [this guide](/guides/become-a-freelancer-in-germany) instead.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Before your job search
 

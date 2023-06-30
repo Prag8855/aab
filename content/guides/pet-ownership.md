@@ -7,7 +7,7 @@ Date_created: 2020-12-16
 
 This is a list of things you must know and do if you want to have a dog in Germany.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Bringing your dog to Germany
 
@@ -101,7 +101,7 @@ When you walk your dog in Berlin, you must carry poop bags with you. If your dog
 
 ### Dogs on public transit
 
-**[How to use public transit ➞ Dogs on public transit](/guides/public-transit#dogs-on-public-transit)**
+**[How to bring dogs on public transit ➞](/guides/public-transit#dogs-on-public-transit)**
 
 ### Dogs in restaurants and stores
 

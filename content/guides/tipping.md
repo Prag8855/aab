@@ -7,9 +7,9 @@ Date_created: 2023-03-14
 
 In Germany, **tipping is optional**. There are no rules and everyone tips differently. This guide explains how people *usually* tip.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
-{% include "blocks/_tipJar.html"%}
+{% include "_blocks/tipJar.html"%}
 
 ## Tipping in restaurants
 

@@ -2,13 +2,17 @@
 {% set metatitle = "Page not found" %}
 {% set metadescription = "The page you are looking for does not exist." %}
 
+{% block postHead %}
+    <meta name="robots" content="noindex">
+{% endblock %}
+
 {% block main %}
     <main aria-label="Main page">
-        <div class="section fixed-width transparent intro centred">
+        <div class="intro">
             <h1>Page not found</h1>
             <p>Not what you expected? To report a problem, <a href="{{ site_url }}/contact">contact me</a>.</p>
             {% with autofocus=true %}
-                {% include "blocks/_searchForm.html" %}
+                {% include "_blocks/searchForm.html" %}
             {% endwith %}
         </div>
     </main>

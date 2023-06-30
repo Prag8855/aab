@@ -7,23 +7,23 @@ Date_created: 2020-08-07
 
 In Germany, car insurance (*Kfz-Versicherung*) is mandatory. It's part of the [cost of owning a car in Germany](/guides/car-cost-of-ownership-germany). If your vehicle is not insured, you can't register it, and you can't drive it. This guide shows you how to choose insurance for your car or motorcycle.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Types of vehicle insurance
 
 There are three levels of vehicle insurance in Germany: *Haftpflicht*, *Teilkasko* and *Vollkasko*. Each level covers different things.
 
-| Haftpflicht | Teilkasko | Vollkasko |
-|-------------|-----------|-----------|
-| **Damage to your own vehicle in an accident**<br>If the accident is your fault. For example, if you hit a lamp pole, or crash into another vehicle. | ✓ |
-| **Hit-and-runs**<br>If another driver damages your vehicle, then runs away. | ✓ |
-| **Vandalism**<br>If someone vandalises your vehicle. | ✓ |
-| **Theft and break-in attempts**<br>If someone steals your car, or damages it while trying to steal it. | ✓ | ✓ |
-| **Damage from fires and natural events** If a fire, flood, hail storm or other natural event damages your vehicle. | ✓ | ✓ |
-| **Broken or cracked windows** | ✓ | ✓ |
-| **Collisions with wild animals**<br>If you hit a wild animal while driving, or if an animal damages your vehicle. | ✓ | ✓ |
-| **Gross negligence**<br>If you cause an accident because of gross negligence. For example if you use your phone while driving, or if you run a red light.[^12] | optional | optional |
-| **Damage to other people and vehicles**<br>If you cause an accident, and you cause damage to other people, vehicles or property. | ✓ | ✓ | ✓ |
+| &nbsp; | Haftpflicht | Teilkasko | Vollkasko |
+|-------------|-------------|-----------|-----------|
+| **Damage to others**<br>If you cause an accident, and you cause damage to other people, vehicles or property. | ✓ | ✓ | ✓ |
+| **Theft and break-ins**<br>If someone steals your car, or damages it while trying to steal it. | &nbsp; | ✓ | ✓ |
+| **Damage from fires and natural events** If a fire, flood, hail storm or other natural event damages your vehicle. | &nbsp; | ✓ | ✓ |
+| **Broken or cracked windows** | &nbsp; | ✓ | ✓ |
+| **Animal collisions**<br>If you hit a wild animal while driving, or if an animal damages your vehicle. | &nbsp; | ✓ | ✓ |
+| **Negligence**<br>If you cause an accident because of gross negligence. For example if you use your phone while driving, or if you run a red light.[^12] | &nbsp; | optional | optional |
+| **Damage to your own vehicle in an accident**<br>If the accident is your fault. For example, if you hit a lamp pole, or crash into another vehicle. | &nbsp; | &nbsp; | ✓ |
+| **Hit-and-runs**<br>If another driver damages your vehicle, then runs away. | &nbsp; | &nbsp; | ✓ |
+| **Vandalism**<br>If someone vandalises your vehicle. | &nbsp; | &nbsp; | ✓ |
 
 
 ### Haftpflicht

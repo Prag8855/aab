@@ -1,6 +1,6 @@
 ---
-Name: Andreas Stein Facharzt für Allgemeinmedizin
-Description: Dr. med. Andreas Stein speaks English
+Name: Dr. Andreas Stein
+Description: Dr. Andreas Stein speaks English
 Website: http://www.arztpraxis-alexanderplatz.de/
 Email: 
 Address: Rathausstraße 7

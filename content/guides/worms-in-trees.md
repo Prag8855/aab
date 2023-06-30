@@ -10,7 +10,7 @@ In Berlin, when you a see a tree covered in small worms, they are probably ermin
 
 **Summary:** If the worms have hair on their backs, don't touch them. They are dangerous.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Oak processionary worms
 

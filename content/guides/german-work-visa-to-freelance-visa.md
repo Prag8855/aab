@@ -9,7 +9,7 @@ If you want to quit your job to [start a business](/guides/start-a-business-in-g
 
 This guide shows you how to go from employee to freelancer. It's based on my personal experience.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Side business with a work visa
 
@@ -45,7 +45,7 @@ Next, you must [apply for the freelance visa](/guides/how-to-get-a-german-freela
 
 When you are an employee, your employer pays half of your health insurance. When you are self-employed, you pay the full amount yourself. This means that **your health insurance will be twice as expensive**.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 Sometimes, it makes sense to switch to private health insurance. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers) about it first.
 
@@ -55,9 +55,9 @@ When you are an employee, health insurance is taken from your paycheck. When you
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=LEGISSUM%3Al14573#:~:text=selbststandiger%20nebentatigkeit)
 [^1]: [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)

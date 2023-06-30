@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Christopher Marchand
+Name: Dr. Christopher Marchand
 Description: Dr. Marchand speaks French and English.
 Website: http://www.hausarztzentrum-charlottenburg.de/
 Email: 

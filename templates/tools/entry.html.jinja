@@ -1,7 +1,6 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
-{% set related_guides = entry.related_guides|default([]) %}
 
 {% block postHead %}
     {{ super() }}
@@ -10,7 +9,7 @@
 
 {% block content %}
     <h1>{{ entry.title }}</h1>
-    {% include "blocks/_postMeta.html" %}
+    {% include "_blocks/postMeta.html" %}
     {% with entry=entry, showSupportLink=true %}
         <div class="article-body">
             {{ entry.body|render|safe }}
@@ -21,25 +20,13 @@
 
 {% block postcontent %}
     {% with pageType='tool' %}
-        {% include "blocks/_donationPrompt.html" %}
+        {% include "_blocks/donationPrompt.html" %}
     {% endwith %}
-    <aside class="section fixed-width footer-notice">
+    <aside class="section no-print">
         <p>
             <strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
         </p>
     </aside>
-
-    {% if related_guides|length %}
-        <aside class="section fixed-width related" id="related">
-            <h2>Related guides</h2>
-            {% for entry in related_guides.all() %}
-                {% include "blocks/_guidePreview.html" %}
-            {% endfor %}
-            <nav class="fixed-width pagination">
-                <a class="more" rel="index" href="{{ url('guides') }}">See all guides ▸</a>
-            </nav>
-        </aside>
-    {% endif %}
 {% endblock %}
 
 {% block postFooter %}

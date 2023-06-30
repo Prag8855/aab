@@ -28,7 +28,7 @@ Related_places:
 
 This guide helps you find cinemas that play movies in English in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## OmU? OV? OmeU?
 
@@ -47,4 +47,4 @@ These cinemas usually screen movies in English, with or without subtitles. [Yorc
 
 In the summer, some of these cinemas also screen open air movies. You can watch movies outdoors.
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}

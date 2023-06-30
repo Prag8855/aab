@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Gabriele Ulsemer
+Name: Dr. Gabriele Ulsemer
 Description: 
 Website: http://www.ulsemer.de/
 Email: 

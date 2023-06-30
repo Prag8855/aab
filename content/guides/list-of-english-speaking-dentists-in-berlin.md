@@ -46,4 +46,4 @@ These websites let you filter by language.
 
 ## List of dentists
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}

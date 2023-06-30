@@ -189,7 +189,7 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 ## Map of international shops
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ithnsf/almond_flour/)
 [^1]: [reddit.com/r/ketode](https://old.reddit.com/r/ketode/comments/40o744/how_do_i_get_chicken_thighs_in_germany/)

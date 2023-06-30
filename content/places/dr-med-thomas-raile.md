@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Thomas Raile
+Name: Dr. Thomas Raile
 Description: 
 Website: http://hausarzt-raile.de/language/en/
 Email: 

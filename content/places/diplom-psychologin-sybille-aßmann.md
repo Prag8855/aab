@@ -1,5 +1,5 @@
 ---
-Name: Diplom-Psychologin Sybille Aßmann
+Name: Dipl.-Psych. Sybille Aßmann
 Accepts_public_insurance: Yes
 Website: https://www.therapie.de/psychotherapie/assmann/
 Email: 

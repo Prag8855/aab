@@ -40,9 +40,9 @@ Some business banks help you with invoicing, bookkeeping and [VAT reporting](/gl
 
 These banks help with your accounting:
 
+- [Qonto](/out/qonto)
 - [Holvi](/out/holvi)
 - [Kontist](/out/kontist) (read my [review of Kontist](/guides/kontist-review) first)
-- [Qonto](/out/qonto)
 
 ## Alternatives to tax software
 

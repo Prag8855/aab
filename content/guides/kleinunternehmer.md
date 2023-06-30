@@ -9,7 +9,7 @@ If you have a small business with a low [revenue](/glossary/Umsatz), you can be 
 
 This guide explains who can be a *Kleinunternehmer*, and when it makes sense to be one.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is a Kleinunternehmer?
 

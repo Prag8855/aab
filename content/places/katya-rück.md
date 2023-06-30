@@ -1,5 +1,5 @@
 ---
-Name: Dipl. Psychologin Katja Rück
+Name: Dipl.-Psych. Katja Rück
 Description: Speaks English, Dutch and German. Specialises in mood disorders: depression, anxiety and somatoform disorders.
 Accepts_public_insurance: No
 Website: http://www.katjarueck.de/index.php/start.html

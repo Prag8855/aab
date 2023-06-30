@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Lisa Liccini
+Name: Dr. Lisa Liccini
 Description: 
 Website: http://www.doctorliccini.com/
 Email: 

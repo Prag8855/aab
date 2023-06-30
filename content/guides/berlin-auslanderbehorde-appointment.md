@@ -13,7 +13,7 @@ There are two ways to go to the Berlin *Ausländerbehörde*:
 - **Without an appointment**  
     If you can't get an appointment, you must [apply by email](#by-email). You can't go in person without an appointment.[^3]
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Is it hard to get an appointment?
 
@@ -184,7 +184,7 @@ You can also [get help from other places](/guides/questions-about-berlin#immigra
 
 ## Where to get help
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 If you need someone to go with you, I recommend [Red Tape Translation](https://redtapetranslation.com/). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 

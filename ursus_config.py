@@ -1,5 +1,6 @@
 from datetime import datetime
 from ursus.config import config
+from extensions.functions import glossary_groups
 from pathlib import Path
 import logging
 import os
@@ -42,6 +43,7 @@ config.site_url = os.environ.get('SITE_URL', '')
 config.html_url_extension = ''
 
 config.checkbox_list_item_class = 'checkbox'
+config.table_wrapper_class = 'table-wrapper'
 
 config.lunr_indexes = {
     'indexed_fields': ('title', 'short_title', 'description', 'german_term', 'english_term',),
@@ -79,35 +81,36 @@ config.lunr_indexes = {
     ]
 }
 
+config.image_default_sizes = '(min-width: 800px) 800px, 100vw'
 config.image_transforms = {
     '': {
         'exclude': ('experts/photos/*', ),
         'max_size': (int(800 * 2), int(800 * 2 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content1.5x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (int(800 * 1.5), int(800 * 1.5 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content1x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (800, int(800 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content0.75x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (int(800 * 0.75), int(800 * 0.75 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'content0.5x': {
         'include': ('images/*', 'illustrations/*'),
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (int(800 * 0.5), int(800 * 0.5 * 1.5)),
-        'output_types': ('original', 'webp'),
+        'output_types': ('webp', 'original'),
     },
     'bioLarge2x': {
         'include': 'experts/photos/*',
@@ -173,13 +176,14 @@ config.jinja_filters = {
     'cur': to_currency,
 }
 
-config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM' # Backend use only
+config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM'  # Backend use only
 
 config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
     'random_id': random_id,
-    'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E', # Frontend use
+    'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E',  # Frontend use
+    'glossary_groups': glossary_groups,
 
     # ==============================================================================
     # HEALTH INSURANCE

@@ -7,7 +7,7 @@ Date_created: 2019-11-14
 
 If you're new in Germany, it's hard to know what the supermarkets, furniture stores or hardware stores are called. This guide will help you find them.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Groceries
 

@@ -7,7 +7,7 @@ Date_created: 2022-05-30
 
 This guide explains the current laws about cannabis in Germany.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Is recreational marijuana legal?
 

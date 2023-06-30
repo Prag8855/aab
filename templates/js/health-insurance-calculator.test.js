@@ -155,17 +155,41 @@ const hasMaxTarif = (output) => {
 };
 
 describe('calculateHealthInsuranceContributions', () => {
+  describe('married people with a low income', () => {
+    const output = calculateHealthInsuranceContributions({
+      age: 40,
+      hasChildren: false,
+      isMarried: true,
+      occupation: 'unemployed',
+      monthlyIncome: taxes.maxMinijobIncome,
+    });
+    it('can use their spouse\'s insurance', hasFlag(output, 'familienversicherung-spouse'));
+  });
+
+  describe('unmarried people with a low income', () => {
+    const output = calculateHealthInsuranceContributions({
+      age: 40,
+      hasChildren: false,
+      isMarried: false,
+      occupation: 'unemployed',
+      monthlyIncome: taxes.maxMinijobIncome,
+    });
+    it('can\'t use their spouse\'s insurance', notHasFlag(output, 'familienversicherung-spouse'));
+  });
+
   describe('students', () => {
     describe('a 22 year old student with a minijob', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -188,12 +212,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -216,12 +242,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 25,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 25,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -244,12 +272,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 30,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 30,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -272,12 +302,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 31,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 31,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -301,12 +333,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -329,12 +363,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -357,12 +393,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: 1500,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: 1500,
       });
@@ -385,6 +423,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: 2000,
       });
@@ -410,12 +449,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 17,
         hasChildren: true,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 17,
         hasChildren: false,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
@@ -438,12 +479,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 18,
         hasChildren: true,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 18,
         hasChildren: false,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
@@ -466,12 +509,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
@@ -494,12 +539,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'unemployed',
         monthlyIncome: 0,
       });
@@ -524,12 +571,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 17,
         hasChildren: true,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 17,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -551,12 +600,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -578,12 +629,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -607,6 +660,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 17,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: 2000,
       });
@@ -627,6 +681,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 19,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: 2000,
       });
@@ -647,12 +702,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -682,6 +739,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -707,6 +765,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -732,6 +791,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: healthInsurance.maxMidijobIncome,
       });
@@ -757,6 +817,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: healthInsurance.maxMidijobIncome + 1,
       });
@@ -773,6 +834,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: 5000,
       });
@@ -789,6 +851,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'employee',
         monthlyIncome: 5370,
       });
@@ -807,12 +870,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: 325,
       });
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: 325,
       });
@@ -828,6 +893,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: true,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -847,12 +913,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -873,12 +941,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: 1000,
       });
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: 1000,
       });
@@ -898,12 +968,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: 5000,
       });
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'selfEmployed',
         monthlyIncome: 5000,
       });
@@ -925,12 +997,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: true,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: 325,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 23,
         hasChildren: false,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: 325,
       });
@@ -986,12 +1060,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 32,
         hasChildren: true,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 32,
         hasChildren: false,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: taxes.maxMinijobIncome,
       });
@@ -1036,12 +1112,14 @@ describe('calculateHealthInsuranceContributions', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
         age: 32,
         hasChildren: true,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
         age: 32,
         hasChildren: false,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: taxes.maxMinijobIncome + 1,
       });
@@ -1086,6 +1164,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: 2000,
       });
@@ -1101,6 +1180,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: 5000,
       });
@@ -1117,6 +1197,7 @@ describe('calculateHealthInsuranceContributions', () => {
       const output = calculateHealthInsuranceContributions({
         age: 22,
         hasChildren: false,
+        isMarried: true,
         occupation: 'azubi',
         monthlyIncome: 5370,
       });

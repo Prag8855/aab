@@ -9,7 +9,7 @@ Weed [is not legal in Berlin](/guides/is-marijuana-legal), but many people still
 
 ![Rolling paper grinder weed berlin s](/illustrations/rolling-paper-grinder-weed-berlin-s.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Is marijuana legal in Germany?
 

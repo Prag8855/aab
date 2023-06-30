@@ -16,7 +16,7 @@ They are popular with immigrants for 3 reasons:
 
 This guide explains **why Ottonova is not that great**, and what you should choose instead.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Why does everyone recommend Ottonova?
 
@@ -91,7 +91,7 @@ You should:
 2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free.
 3. If it still makes sense, [get a quote from Ottonova](/out/ottonova), and decide if it works for you.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 You can use [Tarifcheck](/out/tarifcheck-health) to compare private health insurance prices. I don't recommend it. Tarifcheck only shows you the prices, not what works best for your situation.
 

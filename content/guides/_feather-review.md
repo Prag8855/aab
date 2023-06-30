@@ -12,7 +12,7 @@ In this guide, I explain why I work with them, and why I recommend their service
 
 *This article was not suggested, written or approved by Feather. These opinions are my own.*
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is Feather Insurance?
 

@@ -7,7 +7,7 @@ Date_created: 2017-10-23
 
 This guide shows you how to get a car or motorcycle driving licence in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How much does it cost?
 
@@ -76,7 +76,7 @@ Choosing equipment for the first time is hard. If you need help, [contact me](/c
 
 You need permission from the *[[Bürgeramt]]* to take the theoretical exam. Get an appointment as soon as you find a driving school. Your appointments will be in a few weeks.
 
-{% include "blocks/appointmentLink/_drivingLicence.html" %}
+**[Book an appointment ➞](/out/appointment-driving-licence)**
 
 After your appointment, you must wait 6 to 9 weeks to get the permission paper (see the [current processing times](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php)).
 

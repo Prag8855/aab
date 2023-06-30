@@ -11,7 +11,7 @@ On April 15 2021, Berlin's rent cap (*Mietendeckel*) was declared unconstitution
 
 In this guide, I explain what will happen, what you can do, and how you can still lower your rent. This guide will be updated when there is new information.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What was the Mietendeckel?
 
@@ -123,7 +123,7 @@ This means that if you don't return the money you saved with the *Mietendeckel*,
 
 ## Where can I get help?
 
-**[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^1]: [rbb24.de](http://web.archive.org/web/20211222114401/https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html)

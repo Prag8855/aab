@@ -7,7 +7,7 @@ Date_created: 2017-09-15
 
 This guide is for tourists who want to visit Berlin. If you want to move to Berlin, read my [ moving to Berlin guide](/guides/moving-to-berlin).
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Visa requirements
 
@@ -148,14 +148,14 @@ You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-ber
 
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
-- **[Cherry blossom]** - April and May  
+- **Cherry blossom** - April and May  
     After the reunification, a Japanese television channel donated 10,000 cherry trees. Most of them were planted where the Berlin wall was. Every spring, the cherry trees bloom and cover the alleys in rose petals.
-- **[Fête de la Musique](https://www.fetedelamusique.de/)** - June  
+- **[Fête de la Musique](https://www.fetedelamusique.de/)** - June 21  
     A music festival in the entire city. There are musicians and concerts in every part of the city.
 - **[Zug der Liebe](https://zugderliebe.org/)** - End of August  
     The *Zug der Liebe* is a big parade with techno, dance and a lot of happy people.
-- **[Christopher Street Day](https://en.wikipedia.org/wiki/Christopher_Street_Day)** - August 29  
-    A big LGBTQ+ demonstration and parade. It's similar to Gay Pride in other countries.
+- **[Christopher Street Day](https://en.wikipedia.org/wiki/Christopher_Street_Day)** - late summer  
+    A big LGBTQ+ parade with music. It's similar to Gay Pride in other countries.
 - **[Christmas markets](https://www.visitberlin.de/en/christmas-markets-berlin)** - Middle of November until end of December  
     Germany is famous for its Christmas markets. Berlin has dozens of different markets, including alternative markets like the Japanese Christmas market and the Naughty Xmas Market.
 

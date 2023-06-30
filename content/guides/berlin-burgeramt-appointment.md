@@ -7,7 +7,7 @@ Date_created: 2017-09-18
 
 If you must to the Berlin *[[Bürgeramt]]*, you need an appointment. This guide shows you how to get one.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Book an appointment online
 
@@ -23,7 +23,7 @@ The Bürgeramt does not release all available appointments online. Some appointm
 
 To [register your address](/glossary/Anmeldung), use my [*Anmeldung* appointment finder](/tools/appointment-finder).
 
-{% include "blocks/_appointmentFinder.html" %}
+{% include "_blocks/appointmentFinderStatic.html" %}
 
 ## Call 115
 

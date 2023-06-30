@@ -9,7 +9,7 @@ If you want to [become a freelancer in Germany](/guides/become-a-freelancer-in-g
 
 This guide helps you set your rates as a freelance software developer in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What to prepare for
 
@@ -88,7 +88,7 @@ If you say that you charge 500€ per day, your client will expect to pay 500€
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^1]: [kontist.com](https://kontist.com/posts/charging-as-a-freelancer)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9mdenm/how_much_should_a_freelance_developer_earn_in/)

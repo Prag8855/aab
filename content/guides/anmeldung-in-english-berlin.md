@@ -7,7 +7,7 @@ Date_created: 2018-04-30
 
 After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Why you need to register
 
@@ -28,7 +28,7 @@ The *Anmeldung* is not a [residence permit](/glossary/Aufenthaltstitel). It does
 
 Get [an appointment to register your address](/out/appointment-anmeldung) online. Your appointment must be after you move in.[^1] You can go to any *[[Bürgeramt]]* in Berlin, but not in Brandenburg.
 
-{% include "blocks/_appointmentFinder.html" %}
+{% include "_blocks/appointmentFinder.html" %}
 
 **[Other ways to get an appointment ➞](/guides/berlin-burgeramt-appointment)**
 
@@ -36,7 +36,7 @@ If there are no appointments, look again in a few minutes. New appointments appe
 
 When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need this number when you go to your appointment. If you lose it, ask the *[[Bürgeramt]]* reception for it, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
 
-### Step 2: Gather the required documents
+### Step 2: Prepare the required documents
 
 Bring these documents to your appointment:
 

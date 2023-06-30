@@ -9,7 +9,7 @@ This guide shows you how to find your first apartment or [WG](/glossary/WG) in B
 
 ![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Is it hard to find an apartment?
 
@@ -418,7 +418,7 @@ These guides explain how:
 
 ## Need help?
 
-**[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x0ptam/3rd_flat_search_since_2014_it_has_never_been_this/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/)
 [^1]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/o6y1a2/searching_for_an_apartment_for_2_months/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/11i9riz/my_appartmentsearch_in_berlin_are_we_still_doing/)

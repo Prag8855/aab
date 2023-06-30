@@ -7,7 +7,7 @@ Date_created: 2019-05-12
 
 This guide explains how German phone numbers are formatted, and how to call people in Germany.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## German phone number format
 

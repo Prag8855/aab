@@ -7,7 +7,7 @@ Date_created: 2018-02-28
 
 This guide shows you how to convert your driving licence to a German driving licence. It's how I exchanged my Canadian driver licence in 2016.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who can drive in Germany?
 
@@ -91,7 +91,7 @@ If required, get an eye test (*Sehtest*). You can get a [free eye test at Fielma
 
 If required, get driving lessons. Sometimes you must only take theory classes, and sometimes you must also take driving lessons with a car.
 
-**[How to drive in Germany](https://routetogermany.com/)** - Route to Germany
+**[How to drive in Germany](https://routetogermany.com/drivingingermany/city-driving)** - Route to Germany
 
 Sometimes, you only need to take a driving test. If you are Canadian or American, you should take driving lessons, even if they are not required. The driving rules are *very* different in Europe, and you are not prepared to drive here.
 
@@ -99,11 +99,13 @@ Sometimes, you only need to take a driving test. If you are Canadian or American
 
 ### 6. Get a Bürgeramt appointment
 
-[Book an appointment](https://service.berlin.de/dienstleistung/327537/) at the *[[Bürgeramt]]* for a driving license transfer (*[Umschreibung einer ausländischen Fahrerlaubnis](https://service.berlin.de/dienstleistung/327537/)*). In Berlin, it's hard to find an appointment. The nearest appointment could be in a few weeks.
+Book an appointment at the *[[Bürgeramt]]*. In Berlin, it's hard to find an appointment. The nearest appointment could be in a few weeks.
 
-{% include "blocks/appointmentLink/_convertLicenceNonEU.html" %}
+**[Book an appointment](https://service.berlin.de/terminvereinbarung/termin/all/327537/)** (non-EU driving licence)
 
-**[How to get a Bürgeramt appointment in Berlin ➞](/guides/berlin-burgeramt-appointment)**
+**[Book an appointment](/out/appointment-convert-driving-licence-eu)** (EU driving licence)
+
+**[If you can't find an appointment ➞](/guides/berlin-burgeramt-appointment)**
 
 ### 7. Go to your appointment
 

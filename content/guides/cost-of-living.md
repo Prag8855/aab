@@ -9,7 +9,7 @@ This is how much it costs to live in Berlin, and elsewhere in Germany. This guid
 
 ![Cost of living berlin germany](/illustrations/cost-of-living-berlin-germany.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Taxes, insurance and pension
 
@@ -17,7 +17,7 @@ This is how much it costs to live in Berlin, and elsewhere in Germany. This guid
 
 In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) is for taxes and social contribution. Your employer automatically takes them from your paycheck. The money you keep is your [net income](/glossary/Netto%20income) (*Netto*).
 
-{% include 'blocks/_taxCalculator.html' %}
+{% include '_blocks/taxCalculator.html' %}
 
 **[How taxes work in Germany ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**
 

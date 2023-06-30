@@ -10,7 +10,7 @@ Berlin is better on a bicycle. The city is very flat, and it has a big network o
 
 In this guide, I show you how to buy a bike, what rules you must follow, and how to deal with bicycle theft.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Where to buy a bicycle in Berlin
 
@@ -199,7 +199,7 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 
 ## Bringing bicycles on public transit
 
-**[How to use public transit ➞ Bicycles on public transit](/guides/public-transit#bicycles-on-public-transit)**
+**[How to bring bicycles on public transit ➞](/guides/public-transit#bicycles-on-public-transit)**
 
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b80fgm/im_thinking_of_buying_a_bicycle_on_shpock_but_i/ejw5zi1/)
 [^2]: [hanseaticbank.de](https://www.hanseaticbank.de/klarmacher/sparen/fahrrad-steuerlich-absetzen-nicht-nur-sprit-sondern-auch-geld-sparen#befreit)

@@ -7,7 +7,7 @@ Date_created: 2019-10-25
 
 After you [move to berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Before the move
 
@@ -104,7 +104,7 @@ During your *Anmeldung*, you get a registration certificate ([*Anmeldebestätigu
 
 Book your *Anmeldung* appointment as soon as you can. Appointments are hard to find, and can be far in the future. Your appointment date must be after you move in.
 
-{% include "blocks/_appointmentFinder.html" %}
+{% include "_blocks/appointmentFinder.html" %}
 
 If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin). You only need to deregister if you leave Germany.
 
@@ -164,7 +164,7 @@ The membership costs around 5€ per month. The [Berliner Mieterverein](https://
 
 You can also get free help from the [*Mieterberatung*](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). This is a free service from the city of Berlin. They might not speak English.
 
-**[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 You can also [get legal insurance](/guides/legal-insurance). Legal insurance lets you talk to a lawyer when you have a problem. It also pays for your legal costs if you sue someone. It covers more things than a *Mieterverein*, but it's more expensive. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) have legal insurance in English.
 
@@ -269,7 +269,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 
 ## Need help?
 
-**[Where to find help ➞ Apartment questions](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
 [^1]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)

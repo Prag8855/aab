@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Anne Kleiber
+Name: Dr. Anne Kleiber
 Description: Speaks English and Russian
 Accepts_public_insurance: Yes
 Website: https://www.jameda.de/berlin/aerzte/neurologen-nervenaerzte/dr-anne-kleiber/uebersicht/80404074_1/

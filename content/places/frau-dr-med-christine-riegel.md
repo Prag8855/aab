@@ -1,5 +1,5 @@
 ---
-Name: Frau Dr. med. Christine Riegel
+Name: Dr. Christine Riegel
 Description: Speaks English, French and Spanish
 Accepts_public_insurance: Yes
 Website: https://psychiatrie-gruenau.de/

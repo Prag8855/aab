@@ -14,7 +14,7 @@ In Germany, there are two types of self-employed people:
 
 This guide explains the differences between freelancers and tradespeople. You must understand this to [start a business](/guides/start-a-business-in-germany) or [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa).
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Freelancer (Freiberufler)
 
@@ -109,7 +109,7 @@ Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^3]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726#:~:text=zu%20den%20%22dienstleistungen%20hoherer%20art%22)
 [^4]: [ihk.de](https://www.ihk.de/stuttgart/fuer-unternehmen/recht-und-steuern/gesellschaftsrecht-unternehmensformen/handelsregistereintragung-677254#titleInText1)

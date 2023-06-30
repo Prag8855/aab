@@ -10,7 +10,7 @@ This guide explains how to start a business in Germany, step by step.
 
 This guide is only for people who live in Germany. It explains how to register a sole proprietorship, not a *UG* or a *GmbH*.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How hard is it?
 
@@ -53,7 +53,7 @@ If your business is registered as a *[[Gewerbe]]*, you must pay the trade tax (*
 
 If you live in Germany, you must have [health insurance](/glossary/Krankenversicherung). If you are self-employed, your employer does not pay half of your health insurance, so it feels twice as expensive. The cost depends on the type of insurance you have.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 When you are self-employed, you have more health insurance options. You can choose public, private or expat health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) to pick the best option for your situation. Don't just pick the cheapest one.
 
@@ -79,7 +79,7 @@ Small businesses (*[[Kleinunternehmer]]*) can choose not to charge VAT. If they 
 
 As a German resident, you must pay income tax (*[[Einkommensteuer]]*) on all your income, including the income from your business.
 
-{% include 'blocks/_taxCalculator.html' %}
+{% include '_blocks/taxCalculator.html' %}
 
 ### Tax advisor and bookkeeping
 
@@ -93,7 +93,7 @@ If you want to pay less, use tax software instead. [Sorted](/out/sorted-taxes) a
 
 **[List of German tax software ➞](/guides/german-tax-software)**
 
-Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier. I use Kontist as my business bank.
+Some banks like [Qonto](/out/qonto), [Holvi](/out/holvi) and [Kontist](/out/kontist) can also make your accounting easier. I use Kontist as my business bank.
 
 Tax advisors and tax software are tax-deductible expenses.
 
@@ -201,7 +201,7 @@ When you are an employee, health insurance payments are taken from your salary. 
 
 Health insurance for freelancers is more expensive, because your employer does not pay half of it.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the cost of your insurance depends on your income. Since you don't know your future income, they use your *estimated* income. If you pay too much for insurance, you will get a refund later. If you don't pay enough, you will get an invoice later.
 
@@ -232,7 +232,7 @@ If you have a website, it must follow German and European laws. If you make a mi
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [Screenshot](/images/steuerberater-business-bank-account-question.png)
 [^1]: [billomat.com](https://www.billomat.com/magazin/geschaeftskonto-selbststaendige-pflicht/)

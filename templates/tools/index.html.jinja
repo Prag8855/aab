@@ -1,6 +1,6 @@
 {% extends "_layout.html" %}
 {% set metatitle = "Tools and calculators" %}
-{% set metadescription = "Useful calculators for German taxes, health insurance and other things." %}
+{% set metadescription = "Tools for German bureaucracy: tax calculators, Bürgeramt appointment finder and more." %}
 
 {% block postHead %}
     {{ super() }}
@@ -8,18 +8,20 @@
 {% endblock %}
 
 {% block precontent %}
-    <header class="section transparent fixed-width intro centred">
+    <header class="intro">
         <h1>Tools and calculators</h1>
     </header>
 {% endblock %}
 
 {% block content %}
+    <ol class="previews">
     {% for tool in get_entries('tools', sort_by=('short_title', 'title')) %}
-        <div class="document">
-            <h2>
+        <li class="tool">
+            <h3>
                 <a title="{{ tool.title }}" rel="bookmark" href="{{ tool.url }}">{{ tool.short_title|default(tool.title) }}</a>
-            </h2>
+            </h3>
             <p>{{ tool.description }}</p>
-        </div>
+        </li>
     {% endfor %}
+    </ol>
 {% endblock %}

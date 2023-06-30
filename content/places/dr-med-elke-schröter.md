@@ -1,5 +1,5 @@
 ---
-Name: Frau Dr. med. Elke Schröter
+Name: Dr. Elke Schröter
 Description: 
 Website: https://www.arzt-auskunft.de/arzt/allgemeinmedizin/berlin/dr-elke-schroeter-660515
 Email: 
