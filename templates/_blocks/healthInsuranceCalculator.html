@@ -271,14 +271,13 @@
                 </div>
                 <output>Varies</output>
             </button>
-            <div v-if="flag('ehic')">
+            <a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
                 {% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
                 <div>
                     <h3>European Health Insurance Card</h3>
                     <p>If you have health insurance from another EU country, you might not need German health insurance.</p>
                 </div>
-                <output>Free</output>
-            </div>
+            </a>
             <a v-if="flag('ksk')" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
                 {% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
                 <div>
@@ -356,7 +355,7 @@
         </div>
     </template>
     <template v-if="['publicInsuranceOptions', 'insuranceOptions'].includes(stage)">
-        <h3>Not sure? Need help?</h3>
+        <h3>Need help choosing?</h3>
         <div class="health-insurance-options">
             <a @click.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
                 {% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
@@ -521,6 +520,12 @@
           }
           else if(this.yearlyIncome === 0 && this.occupation === 'employee'){
             this.occupation = 'unemployed';
+          }
+          else if(this.yearlyIncome > 0 && this.occupation === 'student'){
+            this.occupation = 'studentEmployee';
+          }
+          else if(this.yearlyIncome === 0 && this.occupation === 'studentEmployee'){
+            this.occupation = 'student';
           }
         },
         occupation() {
