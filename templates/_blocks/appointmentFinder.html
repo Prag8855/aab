@@ -54,7 +54,7 @@
           isConnected: null,
           hasError: false,
           originalPageTitle: document.title,
-          playSoundOnNewAppointments: getDefaultBoolean('playSoundOnNewAppointments', false),
+          playSoundOnNewAppointments: false,
           reconnectInterval: null,
           socket: null,
           lastMessage: null,
@@ -215,7 +215,6 @@
           if(isChecked){
             ding.play();
           }
-          setDefaultBoolean('playSoundOnNewAppointments', isChecked);
         }
       }
     });
