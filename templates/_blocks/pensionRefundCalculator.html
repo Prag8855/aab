@@ -128,7 +128,7 @@
                     <template v-if="hasFlag('eligible')">
                         <p>You can already ask for a pension refund, because your last pension contribution was over 2 years ago.</p>
                         <div class="buttons">
-                            <button class="button primary" target="_blank" @click="setStage('partnerSelection')">
+                            <button class="button primary" target="_blank" @click="stage = 'partnerSelection'">
                                 Apply for a refund <i class="icon right" aria-hidden="true"></i>
                             </button>
                         </div>
@@ -205,7 +205,7 @@
             <hr>
             <div class="buttons">
                 <button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back</button>
-                <button class="button primary" @click="setStage('contactInfo')">Request a refund</button>
+                <button class="button primary" @click="stage = 'contactInfo'">Request a refund</button>
             </div>
         </template>
     </template>
@@ -317,6 +317,7 @@
             },
           ],
           selectedPartner: null,
+          trackedStages: new Set(),
         };
       },
       mounted() {
@@ -327,11 +328,6 @@
           return this.results.flags.has(flag);
         },
         stateName,
-        setStage(stage) {
-          this.stage = stage;
-          Vue.nextTick(() => scrollIntoViewIfNeeded(this.$refs.collapsible));
-          plausible('Pension refund calculator', { props: { stage: this.stage }});
-        },
         setReminder() {
           fetch(
             '/api/reminders/pension',
@@ -346,7 +342,7 @@
               }),
             }
           );
-          this.setStage('reminderConfirmation');
+          this.stage = 'reminderConfirmation';
         },
         sendRefundRequest() {
           if(validateForm(this.$refs.contactForm)) {
@@ -367,7 +363,7 @@
               }
             );
             plausible('Pension refund request', { props: { partner: this.selectedPartner.name }});
-            this.setStage('requestConfirmation');
+            this.stage = 'requestConfirmation';
           }
         }
       },
@@ -475,6 +471,17 @@
           );
         },
       },
+      watch: {
+        stage() {
+          Vue.nextTick(() => {
+            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'smooth' });
+            if(!this.trackedStages.has(this.stage)) {
+              plausible('Pension refund calculator', { props: { stage: this.stage }});
+              this.trackedStages.add(this.stage);
+            }
+          });
+        },
+      }
     })
   );
 {% endjs %}
