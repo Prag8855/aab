@@ -135,8 +135,8 @@
                     </template>
                     <template v-if="hasFlag('eligible-later')">
                         <p>You can apply for a refund in <strong>{{ monthsUntilEligible }}</strong>. That's 2 years after your last pension contribution.</p>
-                        <p>Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
-                        <div class="input-group email-reminder">
+                        <p class="no-print">Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
+                        <div class="input-group email-reminder no-print">
                             <input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email">
                             <button class="button primary" @click="setReminder" :disabled="!emailAddressValid">
                                 Remind me in {{ monthsUntilEligible }}
