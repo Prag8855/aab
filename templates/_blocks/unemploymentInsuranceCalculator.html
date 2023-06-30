@@ -15,7 +15,7 @@
             <option value="unemployed">Unemployed</option>
         </select>
     </div>
-    <div class="form-group" v-if="['employee', 'azubi'].includes(occupation)">
+    <div class="form-group show-errors" v-if="['employee', 'azubi'].includes(occupation)">
         <label for="income-{% endraw %}{{ id }}{% raw %}">
             Income
         </label>
