@@ -53,7 +53,9 @@
     </datalist>
     <hr>
     <p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
-    <button class="button primary no-print" @click="submitForm">Ask Chris</button>
+    <div class="buttons">
+      <button class="button primary no-print" @click="submitForm">Ask Chris</button>
+    </div>
   </template>
   <template v-if="stage === 'thank-you'">
     <p><strong>Message sent!</strong> Chris will contact you today or during the next business day. Expect an email from "FundsBack".</p>
