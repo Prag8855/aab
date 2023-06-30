@@ -8,12 +8,7 @@
         <label for="occupation-{% endraw %}{{ id }}{% raw %}">
             Occupation
         </label>
-        <select class="select" id="occupation-{% endraw %}{{ id }}{% raw %}" name="occupation" v-model="occupation">
-            <option value="employee">Employee</option>
-            <option value="selfEmployed">Self-employed / freelancer</option>
-            <option value="azubi">Apprentice (Azubi)</option>
-            <option value="unemployed">Unemployed</option>
-        </select>
+        <occupation-input id="occupation-{% endraw %}{{ id }}{% raw %}" v-model="occupation"></occupation-input>
     </div>
     <div class="form-group show-errors" v-if="['employee', 'azubi'].includes(occupation)">
         <label for="income-{% endraw %}{{ id }}{% raw %}">
@@ -70,6 +65,7 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/occupation-input.js' %}
 {% js %}
   document.querySelectorAll('.unemployment-insurance-calculator').forEach(
     el => new Vue({
