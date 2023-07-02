@@ -33,7 +33,7 @@ People who need a tax ID, but can't [register their address](/glossary/Anmeldung
 
 ## How to fill this form
 
-Use the translation [below](#download-buttons).
+[Download the form in English](#download-the-form).
 
 In the last section, you can choose to send your tax ID to yourself, or directly to your employer.
 
