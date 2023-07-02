@@ -1,7 +1,9 @@
 {% include '_js/constants.js' %}
 {% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
+{% include '_js/vue/glossary.js' %}
 {% js %}{% raw %}
 Vue.component('health-insurance-question', {
   props: {
