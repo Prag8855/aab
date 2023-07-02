@@ -1475,7 +1475,7 @@ input[type=range] {
     .button{flex: 0 0 auto;}
 
     @include only-phone{ // Vertical buttons
-        flex-direction: column column-reverse;
+        flex-direction: column-reverse;
         gap: var(--s);
 
         .button{
