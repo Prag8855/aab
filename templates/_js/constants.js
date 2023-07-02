@@ -275,5 +275,5 @@ const defaults = {  // Percentages are stored as full amounts, unlike elsewhere
   healthInsuranceType: 'unknown',
   privateHealthInsuranceCost: 500, // € per month
   publicHealthInsuranceZusatzbeitrag: healthInsurance.companies.average.zusatzbeitrag * 100, // %
-}
+};
 {% endjs %}
