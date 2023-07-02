@@ -1528,7 +1528,7 @@ input[type=range] {
     &.required {
         > label:first-child, > .label:first-child{
             &:after{
-                content: '*';
+                content: ' *';
             }
         }
     }
