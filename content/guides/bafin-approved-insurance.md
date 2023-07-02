@@ -12,7 +12,7 @@ Public health insurers are all accepted for a visa application. [Techniker Krank
 
 If you need help choosing the right health insurance, ask a [health insurance broker](/guides/german-health-insurance#insurance-brokers). Their help is free. They get paid by the insurance companies to bring them new customers.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 **Related guides:**
 

@@ -15,7 +15,7 @@ When you fill this form, you get:
 
 Since 2021, there is no paper form. You must fill this form online.[^0]
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Different ways register your business
 
@@ -60,7 +60,7 @@ If you have a tax ID, but you don't have a registered address, you can still reg
 
 You need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how you pay your taxes. You a bank account before you fill this form.
 
-**[How to start a business](/guides/start-a-business-in-germany#step-4-freiberufler-or-gewerbe) ➞ [Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**
+**[How to open a business bank account ➞](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**
 
 ### Create an ELSTER account
 
@@ -532,8 +532,6 @@ In this section, you can choose to establish a One Stop Shop (OSS). A One Stop S
 
 If you sell software on the Google Play Store or the Apple App Store, you don't need to check this box. You are doing business with the app store, not with the customer. You don't need to check this box.
 
-**[How VAT works ➞ Customers in other EU countries](/guides/value-added-tax#vat-for-customers-in-the-eu)**
-
 If you don't have customers in other EU countries, you can skip this section. If you are a *[[Kleinunternehmer]]* and you don't charge VAT, you can skip this section.
 
 If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).
@@ -587,7 +585,7 @@ If you register a simple business, it's still easy to do it yourself.
 
 If you have questions about this form, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin) for help. They can fill this form for you. You can find one in our [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin). If you can't afford a tax advisor, [Sorted](/out/sorted-fragebogen) can help you fill this form in English for free.
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 ## What happens next?
 

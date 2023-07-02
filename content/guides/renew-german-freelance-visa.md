@@ -9,18 +9,18 @@ This guide shows you how to **renew** a [German freelance visa](/glossary/Freela
 
 This guide was written for freelancers in Berlin. If you live in another city, the process can be a little different.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Freelance visa renewal process
 
 To renew a German freelance visa, you must...
 
-1. Gather the [required documents](#required-documents)
+1. Prepare the [required documents](#required-documents)
 2. [Get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment)
 3. Go to your appointment
 4. Wait for your new residence permit
 
-**Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to gather the documents. Some documents must be verified by a (*[[Steuerberater]]*). If you don't have a tax advisor, or if your finances are not organised, you need more time.
+**Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to prepare the [required documents](#required-documents). Some documents must be verified by a (*[[Steuerberater]]*). If you don't have a tax advisor, or if your finances are not organised, you need more time.
 
 A [relocation consultant](/guides/relocation-agency-in-berlin) can help you renew your residence permit. They can help you prepare your documents, find an *[[Ausländerbehörde]]* appointment, and go to the appointment with you.
 
@@ -64,7 +64,7 @@ When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health i
 
 It usually takes 1 or 2 weeks to switch to another health insurance. In some cases, it takes up to 3 months. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose health insurance, and fill the paperwork for you. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
@@ -87,23 +87,23 @@ You need a [tax advisor](/glossary/Steuerberater). They must prepare documents f
 
 **When:** at least 3 months before your residence permit expires
 
-Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It's really hard to find an appointment. It can take months to find one. Your appointment could be months in the future.
+Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It's really hard to find an appointment. It can take months to find one. The nearest appointment can be in a few months.
 
-{% include "blocks/appointmentLink/_renewResidencePermit.html" %}
+**[Book an appointment ➞](/out/auslanderbehorde-appointment?t=renew)**
 
 **[Other ways to get an appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
 
-If you can't find an appointment, you can also [send your application by email](/guides/berlin-auslanderbehorde-appointment#by-email). This is often the only way, because there are no appointments.
+If you can't find an appointment, you can also [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). It's often the only way, because there are no appointments.
 
-**[Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+**[If your visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
-### 5. Gather the required documents
+### 5. Prepare the required documents
 
 **When:** 1-3 months before your appointment
 
-Start gathering the required documents as soon as possible. Some documents take time to prepare. If you don't have a tax advisor, or if your finances are not organised, it takes more time.
+Start preparing the required documents as soon as possible. Some documents take more time to prepare. If you don't have a tax advisor, or if your finances are not organised, it takes more time.
 
 If your documents are not in English or German, you might need certified translations. This takes more time and money.
 
@@ -219,7 +219,7 @@ Some of the [required documents](/guides/renew-german-freelance-visa#required-do
 - The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
 - The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
-- The [certified translations](/glossary/certified%20translation) can cost 15€ to 70€ per document.
+- The [certified translations](/glossary/beglaubigte%20Übersetzung) can cost 15€ to 70€ per document.
 
 Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
@@ -231,7 +231,7 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324288/en/)

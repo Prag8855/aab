@@ -8,7 +8,7 @@ Date_updated: 2023-01-29
 
 This guide shows you how to get tested for sexually transmitted diseases (*sexuell übertragbare Infektionen* or *Geschlechtskrankheiten*) in Berlin. In this guide, I use the term "STI" (for Sexually Transmitted Infections).
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How hard is it to get tested
 

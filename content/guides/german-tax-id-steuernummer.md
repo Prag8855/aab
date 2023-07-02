@@ -7,7 +7,7 @@ Date_created: 2017-12-07
 
 German residents have different tax identification numbers. This guide helps you find them.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## The tax ID (Steuer-ID)
 
@@ -88,7 +88,7 @@ You can [check if a VAT number is valid](https://www.iban.com/vat-checker), but 
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [experto.de](https://www.experto.de/businesstipps/steuer-identifikationsnummern-online-abfragen.html), [forum.elster.de](https://forum.elster.de/anwenderforum/forum/allgemein/allgemein-und-projekt/29805-falsche-steuer-id-steuerklasse-6-und-rueckzug-ins-ausland), [steuern.de](https://www.steuern.de/elstam), [Wikipedia](https://de.wikipedia.org/wiki/Lohnsteuerklasse#Lohnsteuerklasse_VI), [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_100035388/steuerklasse-6-rueckerstattung-bekommen-so-geht-s.html)
 [^1]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/steuer-id-zu-spaet-abgegeben), [forum.elster.de](https://forum.elster.de/anwenderforum/forum/allgemein/allgemein-und-projekt/29805-falsche-steuer-id-steuerklasse-6-und-rueckzug-ins-ausland), [t-online.de](https://www.t-online.de/finanzen/geld-vorsorge/steuern/id_100035388/steuerklasse-6-rueckerstattung-bekommen-so-geht-s.html)

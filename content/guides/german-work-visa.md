@@ -14,7 +14,7 @@ This guide shows you how to apply for a German work visa or EU Blue Card.
 - The **[German work visa](/glossary/Work%20Visa)** is a [residence permit](/glossary/Aufenthaltstitel) that lets you work as an employee in Germany.
 - The **[EU Blue Card](/glossary/Blue%20Card)** is like a work visa, but better. The application process is almost the same.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a work visa or Blue Card?
 
@@ -228,7 +228,7 @@ When you register your address, you get a [registration certificate (*Anmeldebes
 
 If you can't register your address, there are [other ways to get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 
-### Step 7: [Get health insurance](/guides/german-visa-health-insurance)
+### Step 7: Get health insurance
 
 - **You need**: a German bank account, an *[[Anmeldebestätigung]]* (if possible)
 - **You get**: health insurance, a proof of health insurance coverage
@@ -242,31 +242,23 @@ You need German health insurance to get a residence permit.[^40]
 
 Health insurance brokers help you choose the best health insurance for your needs. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 I recommend [Feather Insurance](/out/feather) because I work with them since 2018. I know the founder and the team personally. They helped me switch to private health insurance in 2021. They helped thousands of my readers over the years.
 
-### Step 8: Make your residence permit appointment
+### Step 8: Book your residence permit appointment
 
 - **You need**: nothing
 - **You get**: an appointment at the *[[Ausländerbehörde]]* or German consulate
 - **How long it takes**: 15 minutes to a few weeks, depending on your luck
 
-You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it's really hard to find an appointment.[^47] In Berlin, your appointment can be weeks or months in the future. The appointment is free. You only pay if you get the residence permit.
+You must get an appointment at the *[[Ausländerbehörde]]*. Do this as soon as you can, because it can take months to get an appointment.[^47]
 
-In Berlin, you must go to the Friedrich-Krause-Ufer *[[Ausländerbehörde]]*.[^28] You can [book your appointment here](https://formular.berlin.de/jfs/findform?shortname=OTVBerlin&formtecid=4&areashortname=LABO&termin=1&dienstleister=121885&anliegen[]=305304&herkunft=1). If you are applying for the Blue Card, you must go to the Keplerstraße *Ausländerbehörde*.[^48]
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
-If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email).
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you can usually stay in Germany until you get your new residence permit.
 
-{% include "blocks/appointmentLink/_applyResidencePermit.html" %}
-
-**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-appointment)**
-
-If your current visa expires soon, there are ways to stay in Germany until you get your work visa.
-
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
-
-### Step 9: Gather the required documents
+### Step 9: Prepare the required documents
 
 You need a few days to prepare the documents for your work visa application.
 
@@ -280,7 +272,7 @@ You need a few days to prepare the documents for your work visa application.
 
 You go to the *Ausländerbehörde* to give your documents. You will not get your residence permit, just a confirmation letter.
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### Step 11: Receive your work visa
 
@@ -288,9 +280,9 @@ You go to the *Ausländerbehörde* to give your documents. You will not get your
 - **You get**: a work visa
 - **How long it takes**: 8 to 12 weeks[^29]
 
-**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
+**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
+**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply for a Blue Card, it's valid for up to 4 years.
 
@@ -350,20 +342,24 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     Your passport must...[^51]
     - ...be valid for another 6 months
     - ...be issued in the last 10 years
-    - ...have at least two free pages
-    - ...contain your signature
+    - ...show your signature
 - [ ] **1 biometric photo**  
     You need a 35 × 45 mm biometric picture.[^52] You do not need to cut the passport photos yourself; they have a tool for this.[^31]
 - [ ] **Your job contract** (*Arbeitsvertrag*)  
     Bring the original, not a copy.[^12]
-- [ ] **Proof of health insurance coverage in Germany** (*Mitgliedsbescheinigung*)  
-    You can get this document from your health insurance company.[^53] If you choose public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
+- [ ] **Proof of health insurance coverage in Germany**  
+    - [ ] **Mitgliedsbescheinigung**
+        You can get this document from your health insurance company.[^53] If you have public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
+    - [ ] **Health insurance card**, if you have one.
+    - [ ] **Proof of health insurance payments**  
+        If you have [private health insurance](/glossary/private%20Krankenversicherung), bring bank account statements that show health insurance payments.
 - [ ] **Proof of residence in Germany**  
-    There are two ways to prove your residence in Berlin. You can bring...
-    - Your lease and your *[[Wohnungsgeberbestätigung]]*
-    - **or** your *[[Anmeldebestätigung]]*
+    - [ ] **Your lease**
+    - [ ] and your **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)
+    - [ ] and your **registration certificate** *[[Anmeldebestätigung]]*  
+        If you did not register your address yet, ignore this.
 - [ ] **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, you must bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
+    If you have a degree or any relevant training, bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
     - **or** a degree from a recognised university
     - **or** a completed vocational training
@@ -379,15 +375,15 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 ### Can I bring my family to Germany?
 
-**Yes**. With the work visa and the Blue Card, you can bring your family to Germany. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
+**Yes**. With a work visa and the Blue Card, you can bring your family to Germany. They must apply for the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members will be allowed to work or study in Germany.[^13]
 
 ### How much does the German work visa cost?
 
-**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
+**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] You only pay when you get it. It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
 
 ### How much does the German Blue Card cost?
 
-**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
+**It costs {{NATIONAL_VISA_FEE|cur}}€**.[^54] You only pay when you get it. It's cheaper for some nationalities. See the [list of visa fees](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf).
 
 ### How long does it take to get a work visa?
 
@@ -430,7 +426,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 [^1]: [topuniversities.com](https://www.topuniversities.com/student-info/careers-advice/how-work-germany-during-or-after-your-studies), [germany-visa.org](https://www.germany-visa.org/student-visa/student-visa-visum-zu-studienzwecken/)

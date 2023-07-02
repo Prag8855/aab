@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Eva Dudik
+Name: Dr. Eva Dudik
 Description: 
 Website: http://www.dr-dudik.de/
 Email: 

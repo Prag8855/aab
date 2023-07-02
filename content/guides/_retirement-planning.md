@@ -10,7 +10,7 @@ In this guide, we show you how to plan your retirement in Germany. I wrote this 
 
 This is not a sponsored guide. I have done my own research, and I have talked with many experts.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Important concepts
 

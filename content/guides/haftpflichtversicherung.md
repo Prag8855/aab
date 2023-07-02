@@ -9,7 +9,7 @@ If you cause an accident in Germany, you can be sued by the victim. If the victi
 
 Liability insurance (*[[Haftpflichtversicherung]]*) protects you from such damage claims. If you cause an accident, your insurance company covers the legal fees and the reparations.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What does liability insurance cover?
 

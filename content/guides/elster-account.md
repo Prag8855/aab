@@ -8,7 +8,7 @@ This is how you create an [[ELSTER]] account. This account gives you access to o
 
 Creating an account is easy, but you must do it in German. **It takes around 1 week**, because they send your account activation code by post.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Before you start
 
@@ -145,6 +145,6 @@ If want to [start a business in Germany](/guides/start-a-business-in-germany), t
 
 ## Need help?
 
-**[Where to find help ➞ Financial questions](/guides/questions-about-berlin#financial-questions)**
+**[Where to ask financial questions ➞](/guides/questions-about-berlin#financial-questions)**
 
 [^0]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad)

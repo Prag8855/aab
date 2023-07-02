@@ -10,7 +10,7 @@ A letter of intent (*[[Absichtserklärung]]*) is a letter that says "I plan to h
 
 A letter of intent is not a contract. The person who wrote the letter is not forced to do anything.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Why are letters of intent important?
 
@@ -91,7 +91,7 @@ No matter what you do, **do not fake letters of intent**. This is fraud, and it'
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
 [^1]: [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)

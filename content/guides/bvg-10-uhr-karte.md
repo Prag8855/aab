@@ -13,7 +13,7 @@ In most cases, the [[Deutschland Ticket]] is a better deal than the 10-Uhr-Karte
 
 The 10-Uhr-Karte is valid on all buses, trams and trains in Berlin, just like other public transit tickets. You can buy a 10-Uhr-Karte for zones A and B, or for zones A, B and C.
 
-**[Public transit in Berlin ➞ Tariff zones](/guides/public-transit#choose-the-right-tariff-zone)**
+**[Tariff zones on Berlin public transit ➞](/guides/public-transit#choose-the-right-tariff-zone)**
 
 ## When can I use the 10-Uhr-Karte?
 
@@ -21,17 +21,19 @@ From **10AM to 3AM on weekdays**, and at any time during the weekend or public h
 
 ## Can I bring a bicycle with the 10-Uhr-Karte?
 
-**No.** You need a separate bicycle ticket (*Fahrradskarte*) for your bicycle. If it's a folding bicycle, you can carry it without a ticket when it's folded.
+**No.** You must buy a bicycle ticket (*Fahrradskarte*) for your bicycle. You can bring a folded foldable bicycle for free.
 
-**[Public transit in Berlin ➞ Bicycles on public transit](/guides/public-transit#bicycles-on-public-transit)**
+**[How to bring bicycles on public transit ➞](/guides/public-transit#bicycles-on-public-transit)**
 
 ## Can I bring a friend with the 10-Uhr-Karte?
 
-**No.** The 10-Uhr-Karte does not let you bring a friend with you, but it lets you bring a small dog, or up to three children under 6 years old, like other tickets.
+**No.** The 10-Uhr-Karte does not let you bring a friend with you, but it lets you bring a small dog, or maximum 3 children under 6 years old.
+
+**[How to bring other people on public transit ➞](/guides/public-transit#bring-other-people-for-free)**
 
 ## Where can I buy the 10-Uhr-Karte?
 
-**[Where to buy public transit tickets in Berlin ➞](/guides/public-transit#step-1-buy-a-ticket)**
+**[How to buy public transit tickets in Berlin ➞](/guides/public-transit#step-1-buy-a-ticket)**
 
 ## Useful links
 

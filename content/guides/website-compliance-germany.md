@@ -7,7 +7,7 @@ Date_created: 2018-05-07
 
 This guide shows you what you must do if you run a website in Germany. It's based on my experience running All About Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## GDPR/[[DSGVO]] compliance
 
@@ -309,7 +309,7 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 
 ## Need help?
 
-**[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
 
 [^0]: [gruender.de](https://www.gruender.de/recht/dsgvo-cookie-law/), [cookiebot.com](https://www.cookiebot.com/en/cookie-consent/)
 [^1]: [techblog.bozho.net](https://techblog.bozho.net/tracking-cookies-gdpr/)

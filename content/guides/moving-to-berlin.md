@@ -9,7 +9,7 @@ This guide shows you how to relocate to Berlin. It shows you how to find a job, 
 
 ![Move to berlin boxes luggage](/illustrations/move-to-berlin-boxes-luggage.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Before you move
 
@@ -54,7 +54,7 @@ You need enough money to pay for the first month's rent, and the deposit (*[[Kau
 
 If you live in Germany, you must have health insurance. Use my [health insurance calculator](/guides/german-health-insurance) to see your options, then [get free advice from a health insurance broker](/guides/german-health-insurance#insurance-brokers).
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 

@@ -56,4 +56,4 @@ When you get a haircut, it's easier if the barber understands you. This is a lis
 
 ## List of hair salons
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}

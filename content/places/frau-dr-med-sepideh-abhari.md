@@ -1,5 +1,5 @@
 ---
-Name: Frau Dr. med. Sepideh Abhari
+Name: Dr. Sepideh Abhari
 Description: 
 Website: http://www.abhari-praxis.de/
 Email: 

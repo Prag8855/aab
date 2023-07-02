@@ -2,10 +2,10 @@
 Title: What is Familienversicherung?
 German_term: Familienversicherung
 English_term: Insurance for dependents
-Description: 
+Description: Public health insurance can cover your dependents for free. This is called Familienversicherung.
 Date_created: 2022-10-09
-Date_updated: 2022-10-09
-Related_guides: guides/german-health-insurance.md
+Related_guides:
+    guides/german-health-insurance.md
 ---
 
 Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) covers your dependents for free. It's called *Familienversicherung*.

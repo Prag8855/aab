@@ -1,5 +1,5 @@
 ---
-Name: Frau Dipl.-Psych. Christiane Köhler
+Name: Dipl.-Psych. Christiane Köhler
 Description: Cognitive behavioural therapy.
 Accepts_public_insurance: Yes
 Website: https://www.gptg.eu/users/77956593/info.therap

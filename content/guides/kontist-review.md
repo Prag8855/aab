@@ -9,7 +9,7 @@ Date_created: 2023-03-10
 
 I use Kontist as my main business account since January 2022. This is my review of Kontist, feature by feature.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ![Kontist mobile app and card](/images/kontist-review-proof-of-membership.jpg "Confirmed customer")
 

@@ -7,7 +7,7 @@ Date_created: 2022-06-23
 
 Some people need a residence permit (*[[Aufenthaltstitel]]*) to live and work in Germany. This guide explains how German residence permit works.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a German residence permit?
 
@@ -32,16 +32,16 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
 
 ## Types of residence permits
 
-- **[Work visa](/glossary/Work%20Visa)** - [More information](/guides/german-work-visa)  
+- **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/german-work-visa)  
     For skilled workers who live and work in Germany. You need a job offer from a German company to apply for this visa.[^5]
-- **[[Blue Card]]** - [More information](/guides/german-work-visa)  
+- **[[Blue Card]]** - [How to apply](/guides/german-work-visa)  
     For skilled workers who live and work in Germany. It's like a work visa, but better. You need a job offer and a university degree. There is a minimum income requirement.
 - **[Working holiday visa](/glossary/Working%20Holiday%20Visa)**  
     For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[Youth mobility visa](/glossary/Youth%20Mobility%20Visa)**  
     For Canadian citizens between 18 and 35 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
-- **[Freelance visa](/glossary/Freelance%20visa)** - [More information](/guides/how-to-get-a-german-freelance-visa)  
-    For freelancers and self-employed people who want to live in Germany. You must have clients in Germany.
+- **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/how-to-get-a-german-freelance-visa)  
+    For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
 - **[[Student visa]]**  
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies.
 - **[[Internship visa]]**  
@@ -112,7 +112,7 @@ After a few years, you can apply for [permanent residence](/glossary/Niederlassu
 
 ## Need help?
 
-**[Where to get help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/)

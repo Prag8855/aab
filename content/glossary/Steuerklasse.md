@@ -9,17 +9,21 @@ Related_guides: guides/anmeldung-in-english-berlin.md
 
 Your tax class (*Steuerklasse*) decides how much [salary tax](/glossary/Lohnsteuer) you pay. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only affects how much income tax you pay *in advance*, as salary tax.
 
-There are 6 tax classes (*Steuerklassen*). Your tax class depends on your situation.
+There are 6 tax classes (*Steuerklassen*).
 
-| Tax class | Description |
-|-----------|-------------|
-| I         | People who are not in category II, III or IV. Most single people are in tax class 1. |
-| II        | Single parents who raise children alone. |
-| III       | If you are married, and your spouse is in tax class V. |
-| IV        | Married couples when both spouses work. |
-| V         | If you are married, and your spouse is in tax class III. |
-| VI        | Worker who receives a wage from multiple employers. You a pay much more [salary tax](/glossary/Einkommensteuer). If you don't have a [tax ID](/glossary/Steueridentifikationsnummer) yet, your employer might put you in this tax class. |
+- **Tax class 1**  
+    If you are not married, and you are not in any other tax class.
+- **Tax class 2**  
+    If you are not married, and you raise children alone. You get more tax benefits.
+- **Tax class 3**  
+    If you are married, and you earn more than your spouse. If you are in tax class 3, your spouse is in tax class 5.
+- **Tax class 4**  
+    If you are married, and you and your spouse have similar incomes. If you are in tax class 4, your spouse is also in tax class 4.
+- **Tax class 5**  
+    If you are married, and you earn less than your spouse. If you are in tax class 5, your spouse is in tax class 3.
+- **Tax class 6**  
+    This is the tax class for a second job. If you don't have a [tax ID](/glossary/Steueridentifikationsnummer), your employer might put you in tax class 6. You have no tax benefits, and you pay more [salary tax](/glossary/Einkommensteuer).
 
-If you are self-employed, you usually don't have a tax class, because you don't pay salary tax.
+Your tax class depends on your situation. If you are self-employed, you usually don't have a tax class, because you don't pay salary tax.
 
 **[How taxes work in Germany ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**

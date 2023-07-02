@@ -12,7 +12,7 @@ This guide shows you how to apply for the German freelance visa. This [residence
 
 If you apply for an [artist visa](/glossary/Artist%20visa) or a language teacher visa, the process is the same.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a German freelance visa?
 
@@ -141,19 +141,13 @@ Come to Germany, and start preparing for your freelance visa application. If you
 
 If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment.
 
-### Step 2: Make your visa appointment
+### Step 2: Book your residence permit appointment
 
-You must [get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment). **Book your appointment as soon as possible**. It can take months to find an appointment. Your appointment could be months in the future. For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
+You must get an appointment at the *[[Ausländerbehörde]]*. **Do this as soon as possible**, because it can take months to get an appointment.
 
-{% include "blocks/appointmentLink/_applyResidencePermit.html" %}
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
-You can also [send the documents by email](/guides/berlin-auslanderbehorde-appointment#by-email).
-
-**[How to get an Ausländerbehörde appointment in Berlin ➞](/guides/berlin-auslanderbehorde-appointment)**
-
-If your current visa expires soon, there are ways to stay in Germany until you get your freelance visa.
-
-**[How to get an Ausländerbehörde appointment ➞ If your visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you can usually stay in Germany until you get your new residence permit.
 
 ### Step 3: Open a bank account
 
@@ -175,7 +169,7 @@ You don't need to [register your address](/guides/anmeldung-in-english-berlin) t
 
 If you can't register your address before your visa interview, bring your apartment lease and your *[[Wohnungsgeberbestätigung]]* instead.
 
-### Step 5: [Get health insurance](/guides/german-visa-health-insurance)
+### Step 5: Get health insurance
 
 You need health insurance to get a German freelance visa.
 
@@ -189,7 +183,7 @@ If you just moved to Germany and never had German health insurance, you might be
 
 If you don't know which health insurance to choose, **just talk to a health insurance broker**. They will help you find the best, cheapest health insurance for your situation. You will be 100% sure that your insurance is valid for your visa application, and that you have good coverage. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 I work with [Feather Insurance](/out/feather) since 2018. They helped me get private health insurance and save over 400€ per month. They speak English, and they have a lot of experience with expat freelancers.
 
@@ -197,7 +191,7 @@ I work with [Feather Insurance](/out/feather) since 2018. They helped me get pri
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
-### Step 6: Gather the required documents
+### Step 6: Prepare the required documents
 
 You need a few weeks to prepare the documents for your application. The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to find. Look for them as soon as you can. Documents from your tax advisor can also take a long time to prepare.
 
@@ -205,7 +199,7 @@ You need a few weeks to prepare the documents for your application. The [letters
 
 ### Step 7: Go to your freelance visa interview
 
-**[At the Ausländerbehörde ➞ What happens during the appointment](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 
@@ -213,9 +207,9 @@ Your interview will probably be in German. Some interviewers speak English, but 
 
 ### Step 8: Receive your freelance visa
 
-**[At the Ausländerbehörde ➞ If your visa application is approved](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
+**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
-**[At the Ausländerbehörde ➞ If your visa application is rejected](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
+**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
 Some people get their freelance visa immediately during the interview.[^20] Other people must wait 6 to 10 weeks on average. It's very random. It depends on your field, and on how well you have prepared. Artists and language teachers almost always get the freelance visa during the interview. Software developers sometimes get it during the interview,[^21] and sometimes later.
 
@@ -326,7 +320,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 - **Proof of education** *(optional)*  
     If you have relevant degrees or certifications, they can prove that you are qualified. Bring the original diplomas, and copies for the interviewer.[^34]
     - **Certified translations**  
-        If your degrees or diplomas are not in English or German, bring [certified translations](/glossary/certified%20translation).[^51]
+        If your degrees or diplomas are not in English or German, bring [certified translations](/glossary/beglaubigte%20Übersetzung).[^51]
 - **Passport**  
     The interviewer will use your passport to identify you. If you get the visa immediately, the interviewer will put it in your passport. The freelance visa is a sticker that goes in your passport.[^35]
 
@@ -362,9 +356,9 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     *[Template](/docs/german-freelance-visa-letter-of-intent) - [example](/docs/letter-of-intent-example-german-freelance-visa) - [detailed guide](/guides/freelance-visa-letter-of-intent)*  
     These letters come from potential clients that want to hire you. They are not necessarily contracts; they only show that companies have the *intention* to hire you. These letters are *really* important.[^41] They prove that you can find work in Germany. Letters of intent in German and from German companies are preferred, and sometimes required.[^42] Signed contracts are better than letters of intent. Some *Ausländerbehörde* employees want letters with salary information.[^43]
 
-### Complete document checklist
+### Document checklist
 
-This list contains the same documents as above. You can use it as a checklist when gathering the documents.
+Here is a summary of all required documents
 
 - [ ] Address registration confirmation (*[[Anmeldebestätigung]]*)
 - [ ] Appointment confirmation from the *Ausländerbehörde*
@@ -411,7 +405,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 
 ## Where to get help
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa), [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/)

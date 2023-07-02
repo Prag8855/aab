@@ -1,5 +1,5 @@
 ---
-Name: Zahnarztpraxis Dr. med. dent. Julia Hauschildt
+Name: Zahnarztpraxis Dr. dent. Julia Hauschildt
 Description: English, German and Greek
 Website: https://www.zahnarzt-hauschildt.de
 Email: papasile91@gmail.com

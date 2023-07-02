@@ -14,7 +14,7 @@ In Berlin, you must register your dog in a few places:
 
 This guide shows you how to do it.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How to register for dog tax
 

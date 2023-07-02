@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Petra Jordan
+Name: Dr. Petra Jordan
 Description: 
 Website: http://www.zibp.de/
 Email: 

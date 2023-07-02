@@ -7,7 +7,7 @@ Date_created: 2017-09-29
 
 If you use public transit without a valid ticket, the [[BVG]] can give you a {{BVG_FINE|cur}}€ fine. This guide shows you what to do when you get a fine.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How to reduce the fine
 

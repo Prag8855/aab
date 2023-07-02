@@ -9,7 +9,7 @@ Value added tax (VAT) is a **{{VAT_RATE}}% tax** on goods and services.
 
 This guide explains VAT for German businesses. You must understand this to [start a business in Germany](/guides/start-a-business-in-germany).
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is VAT?
 
@@ -103,7 +103,7 @@ There are 4 ways to make VAT returns:
 
 - Hire a [tax advisor](/guides/english-speaking-steuerberater-berlin) - safe and easy, but expensive
 - Use [tax software for businesses](/guides/german-tax-software#tax-software-for-freelancers)
-- Use a business bank like [Holvi](/out/holvi), [Qonto](/out/qonto) or [Kontist](/out/kontist)
+- Use a business bank like [Qonto](/out/qonto), [Holvi](/out/holvi) or [Kontist](/out/kontist)
 - Do it yourself with [[ELSTER]][^14]
 
 **Frequency:** How often you submit VAT returns depend on how much VAT you paid last year.[^31]
@@ -184,7 +184,7 @@ For example, if you sell goods or services to customers in the United States, yo
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__2.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__3.html)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/File:EU_VAT_Tax_Rates.webp)

@@ -7,7 +7,7 @@ Date_created: 2022-01-20
 
 This tool calculates your German [net income](/glossary/Netto%20income), after taxes and social contributions. It's your take-home salary, the money you keep every month.
 
-{% include 'blocks/_taxCalculatorStatic.html' %}
+{% include '_blocks/taxCalculatorStatic.html' %}
 
 ## The taxes you pay in Germany
 
@@ -51,7 +51,7 @@ There are three types of health insurance:
 
 If you are an employee, your employer pays half of it. If you earn less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you can use your parents' or spouse's health insurance for free. Students get a cheaper tariff.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
@@ -103,7 +103,7 @@ Investment income is also subject to the [church tax](/glossary/Kirchensteuer) a
 
 Your tax class affects how your [salary tax](/glossary/Lohnsteuer) is calculated. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only changes how much income tax you pay *in advance*, as salary tax.
 
-You can change your tax class online with [[Elster]]. If you are self-employed, you might not have a tax class, because you don't need to calculate your salary tax.[^1]
+You can change your tax class online with [[ELSTER]]. If you are self-employed, you might not have a tax class, because you don't need to calculate your salary tax.[^1]
 
 There are 6 tax classes:
 
@@ -118,7 +118,7 @@ There are 6 tax classes:
 - **Tax class 5**  
     If you are married, and you earn less than your spouse. If you are in tax class 5, your spouse is in tax class 3.
 - **Tax class 6**  
-    This is the tax class for a second job. If you don't have a tax ID, your employer might put you in tax class 6. You have no tax benefits, and you pay more income tax.
+    This is the tax class for a second job. If you don't have a tax ID, your employer might put you in tax class 6. You have no tax benefits, and you pay more salary tax.
 
 ## How to pay less taxes in Germany
 

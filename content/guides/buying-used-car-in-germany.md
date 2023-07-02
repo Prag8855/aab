@@ -7,7 +7,7 @@ Date_created: 2019-01-06
 
 This is how you buy a car or a motorcycle in Germany. This guide tells you how to buy a vehicle from another person, and from a dealership.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Do you need a car?
 
@@ -24,7 +24,7 @@ Public transportation is better, cheaper and often faster. A car is more useful 
 Germans use two websites to find vehicles:
 
 - [Mobile.de](https://www.mobile.de/)
-- [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/)
+- [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/)
 
 You can also visit car dealerships, but their cars are usually listed online. It's easier to look online.
 
@@ -77,7 +77,7 @@ Vehicles in Germany must be inspected every 2 years. This inspection is called t
 If a vehicle fails the inspection, it can't be registered, and you can't drive it. This is why old vehicles are cheaper when their   
 inspection approaches, and *much* cheaper when it's overdue (*TÜV abgelaufen*). You might need to spend a lot of money to make the vehicle pass the inspection again.
 
-[Mobile.de](https://www.mobile.de/) and [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) show the next inspection date in their listings.
+[Mobile.de](https://www.mobile.de/) and [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) show the next inspection date in their listings.
 
 ### Environmental zones
 
@@ -149,13 +149,13 @@ If you are buying a scooter under 50cc, you can skip this step. When you get ins
 
 There are 3 ways to register a vehicle: in person, online, or at the dealership.
 
-### At the [[Kfz-Zulassungsstelle]]
+### At the Kfz-Zulassungsstelle
 
-You can register your vehicle at the vehicle registration office (*[[Kfz-Zulassungsstelle]]*). You must get an appointment, gather the required documents, go to your appointment, and receive new vehicle papers.
+You can register your vehicle at the vehicle registration office (*[[Kfz-Zulassungsstelle]]*). You must get an appointment, prepare the required documents, go to your appointment, and receive new vehicle papers.
 
-In Berlin, this can take a few weeks. Appointments are hard to get, and they are sometimes 2 or 3 weeks in the future. You can't drive the vehicle during that time.
+In Berlin, this can take a few weeks. Appointments are hard to get. The nearest appointment can be in a few weeks. You can't drive your vehicle until it's registered.
 
-{% include "blocks/appointmentLink/_registerVehicle.html" %}
+**[Book an appointment ➞](/out/appointment-kfz-zulassungsstelle)**
 
 When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these documents with you:
 

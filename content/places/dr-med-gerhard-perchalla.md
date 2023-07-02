@@ -1,5 +1,5 @@
 ---
-Name: Dr. med. Gerhard Perchalla
+Name: Dr. Gerhard Perchalla
 Accepts_public_insurance: Yes
 Website: http://www.dr-perchalla.com/
 Email: 

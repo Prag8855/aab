@@ -7,7 +7,7 @@ Date_created: 2019-11-14
 
 If you're new in Germany, it's hard to know what the supermarkets, furniture stores or hardware stores are called. This guide will help you find them.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Groceries
 
@@ -61,9 +61,9 @@ Most dm and Rossmann stores are closed on Sundays, but there are [some exception
 - [Otto.de](https://www.otto.de/) (online) - Online furniture
 - Poco - Discount furniture and house supplies
 - Real - Department store
-- [Buy used furniture](/guides/how-do-i-buy-and-sell-used-things-in-berlin) on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [Facebook](https://www.facebook.com/groups/freeyourstuff/) or [Nebenan](https://nebenan.de/)
+- [Buy used furniture](/guides/how-do-i-buy-and-sell-used-things-in-berlin) on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/), [Facebook](https://www.facebook.com/groups/freeyourstuff/) or [Nebenan](https://nebenan.de/)
 
-If you need help to move furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/) or rent a [Miles](https://miles-mobility.com/en-de). There are [more moving services on eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+If you need help to move furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/) or rent a [Miles](https://miles-mobility.com/en-de). There are [more moving services on Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
 
 ## Hardware and home improvement
 

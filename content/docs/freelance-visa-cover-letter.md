@@ -6,7 +6,6 @@ German_document: documents/Freelance-visa-cover-letter-German.pdf
 English_document: documents/Freelance-visa-cover-letter-English.pdf
 Description: When you apply for the German freelance visa, it's useful to write a good cover letter. Here's an example.
 Date_created: 2018-10-22
-Date_updated: 2022-12-01
 Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/freelance-visa-letter-of-intent.md, guides/german-work-visa-to-freelance-visa.md, guides/become-a-freelancer-in-germany.md
 ---
 
@@ -14,3 +13,6 @@ This is the cover letter I submitted when I [applied for a German freelance visa
 
 **[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 
+## Download the template
+
+{% include "_blocks/downloadDocuments.html"%}

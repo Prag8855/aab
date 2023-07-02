@@ -1,6 +1,6 @@
 ---
 Title: Cost of living in Berlin, and Germany
-Short_title: Cost of living
+Short_title: Cost of living in Berlin
 Description: How much does it cost to live in Berlin? Is your salary enough to live there? This is how you can make a budget and find the answer.
 Date_created: 2021-02-01
 ---
@@ -9,7 +9,7 @@ This is how much it costs to live in Berlin, and elsewhere in Germany. This guid
 
 ![Cost of living berlin germany](/illustrations/cost-of-living-berlin-germany.png)
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Taxes, insurance and pension
 
@@ -17,7 +17,7 @@ This is how much it costs to live in Berlin, and elsewhere in Germany. This guid
 
 In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) is for taxes and social contribution. Your employer automatically takes them from your paycheck. The money you keep is your [net income](/glossary/Netto%20income) (*Netto*).
 
-{% include 'blocks/_taxCalculator.html' %}
+{% include '_blocks/taxCalculator.html' %}
 
 **[How taxes work in Germany ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**
 
@@ -193,7 +193,7 @@ If you live in a [[WG]], the deposit is smaller. Sometimes, there is no deposit.
 
 When you [move into your first apartment](/guides/moving-in), you must get new furniture, new appliances, kitchen equipment, etc. In Germany, you might even need to buy light fixtures, and a kitchen counter.
 
-To save money, buy used furniture. You can find free/cheap furniture on [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) and [various Facebook groups](/guides/how-do-i-buy-and-sell-used-things-in-berlin#facebook-groups).
+To save money, buy used furniture. You can find free/cheap furniture on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) and [various Facebook groups](/guides/how-do-i-buy-and-sell-used-things-in-berlin#facebook-groups).
 
 **[Where to buy what in Berlin ➞](/guides/where-to-buy-what)**
 

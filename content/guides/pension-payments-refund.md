@@ -3,20 +3,23 @@ Title: How to get a German pension refund
 Short_title: How to get a pension refund
 Description: If you left Germany, you get your German pension payments back. It can be worth thousands of euros.
 Date_created: 2020-06-04
-Related_reviews: reviews/pension-payments-refund/johannes-kühn.md, reviews/pension-payments-refund/dr-rené-roy.md, reviews/pension-payments-refund/christian-haas.md
+Related_reviews:
+    reviews/pension-payments-refund/johannes-kühn.md
+    reviews/pension-payments-refund/dr-rené-roy.md
+    reviews/pension-payments-refund/christian-haas.md
 ---
 
 When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income to the public pension system (*[[gesetzliche Rentenversicherung]]*). If you leave Germany, you can get your pension payments back. You can get thousands of euros back.
 
 In this guide, I show you if you can get a pension refund, and how to apply for it.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who can get a pension payments refund?
 
 **Short answer:** use the pension refund calculator.
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculator.html' %}
 
 **Long answer:** It depends on your citizenship, and the country you live in. The rules are different for every country.
 
@@ -105,6 +108,10 @@ You can get a pension refund if:[^5]
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 You can also get a pension refund if:[^1]
 
 - you made less than 60 monthly German pension payments
@@ -127,6 +134,10 @@ You can get a pension refund if:[^7]
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 You can also get a pension refund if:[^1]
 
 - you made less than 60 monthly German pension payments
@@ -145,6 +156,10 @@ You can get a pension refund if:[^2]
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 You can also get a pension refund if:[^1]
 
 - you made less than 60 monthly German pension payments
@@ -158,6 +173,10 @@ You can get a pension refund if:[^2]
 - you made less than 60 monthly German pension payments
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
 
 You can also get a pension refund if:[^1]
 
@@ -173,6 +192,10 @@ You can get a pension refund if:[^2]
 - **and** your last pension payment was more than 24 months ago
 - **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 You can also get a pension refund if:[^1]
 
 - you made less than 60 monthly German pension payments
@@ -186,6 +209,10 @@ You can also get a pension refund if:[^1]
 - Your last pension payment was more than 24 months ago **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 - **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 If you live in Tunisia, you must use a Tunisian bank account for your refund.[^9]
 
 ### Turkish citizens
@@ -194,6 +221,10 @@ If you live in Tunisia, you must use a Tunisian bank account for your refund.[^9
 
 - you made less than 60 monthly German pension payments[^11] **or** you live in Turkey since at least 24 months[^12]
 - **and** you don't pay social security contributions in Turkey[^13]
+
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
 
 If you are a Turkish citizen, and you work in Turkey, you can't get a pension refund,[^13] because you pay social security contributions in Turkey. If you are not a Turkish citizen, but you live and work in Turkey, you can still get a pension refund.[^9]
 
@@ -204,6 +235,10 @@ You can get a pension refund if:[^8]
 - Your last pension payment was more than 24 months ago **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia
 - **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
 
+If you live in the United Kingdom, there is one more condition:
+
+- **and** you did not work in Germany before Brexit (January 1, 2021)
+
 ## How much money will I get back?
 
 You will get a refund for all your pension payments.[^37] That's **around {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your [brutto](/glossary/Brutto%20income) income**. That means you usually get a few thousand euros back.[^14] Use the [pension refund calculator](/tools/pension-refund-calculator) to get an exact answer.
@@ -212,7 +247,7 @@ You will not get a refund for your employer's contributions.[^15] If you already
 
 If you are a freelancer, you will only get 50% of your pension payments back ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income).[^17] By default, freelancers do not make public pension payments. If you did not make public pension payments, you will not get any money back.
 
-{% include 'blocks/_pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculator.html' %}
 
 If you want to know the exact amount, ask the [[Deutsche Rentenversicherung]] for a *Versicherungsverlauf* [here](/out/drv-pension-payments-info) (in German). [Germany Pension Refund](/out/germany-pension-refund) and [FundsBack](/out/fundsback) can also check the amount for you, for free. Either way, it only takes a few days. I have done it myself, and it was very easy.
 
@@ -287,7 +322,7 @@ These businesses can help you request a refund. They will fill the forms and req
 - **[⭐ Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is 9.75% of your refund (no minimum or maximum fee).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
 - **[⭐ Pension Refund Germany](/out/german-pension-refund)**  
-    Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated a big part of the process, so you can do everything online. They work with a lawyer.
+    Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated the process, so you can do everything online. They pay you in the currency you prefer. They work with a lawyer.
 - **[TaxBack](/out/taxback)**  
     Their fee is 19.8% of your refund,[^32] or minimum 60€. They offer various international tax services. I do not recommend them. They don't specialise in pension refunds, and their fee is too high.
 - [**Germany Mantra**](/out/germany-mantra)  
@@ -309,7 +344,7 @@ If you have questions, write to the [[Deutsche Rentenversicherung]]. Their email
 
 [Germany Pension Refund](/out/germany-pension-refund), [FundsBack](/out/fundsback), [Pension Refund Germany](/out/german-pension-refund), [Taxback](/out/taxback) or [Germany Mantra](/out/germany-mantra) can request a refund for you. They will take care of everything, but they charge a fee for their service.
 
-{% include 'blocks/_pensionRefundQuestion.html' %}
+{% include '_blocks/pensionRefundQuestion.html' %}
 
 Tax advisors rarely have experience with German pension refunds. German embassies and consulates do not help you with German pension refunds.
 

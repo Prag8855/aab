@@ -1,42 +1,40 @@
 {% extends "_layout.html" %}
 {% set metatitle = "Guides" %}
-{% set metadescription = "A collection of guides about life in Berlin" %}
+{% set metadescription = "Guides about relocating to Berlin and Germany: all about housing, work, residence permits, health insurance and more." %}
 
 {% block postHead %}
 	{{ super() }}
-	<link rel="canonical" href="{{ site_url }}/guides" />
+	<link rel="canonical" href="{{ site_url }}/guides">
 {% endblock %}
 
 {% block main %}
 <main aria-label="Main page">
-	<header class="section transparent fixed-width intro centred">
+	<header class="intro" aria-label="Title and search box">
 		<h1>Guides about Germany</h1>
         {% with autofocus=true %}
-            {% include "blocks/_searchForm.html" %}
+            {% include "_blocks/searchForm.html" %}
         {% endwith %}
 	</header>
-	<section class="section transparent fixed-width" aria-label="Guide collections">
+	<section class="section" aria-label="Guide collections">
 		{% with currentEntry=null, collections=get_entries('collections', sort_by='order') %}
-			{% include "blocks/_collections.html" %}
+			{% include "_blocks/collections.html" %}
 		{% endwith %}
 	</section>
-	<section class="section fixed-width" aria-label="Newest guides">
+	<section class="section" aria-label="Newest guides">
 		<h2>Newest guides</h2>
-		{% for entry in get_entries('guides', sort_by='date_created', reverse=True)[0:10] %}
-			{% with showDatePosted=true %}
-			    {% include "blocks/_guidePreview.html" %}
-			{% endwith %}
-		{% endfor %}
+		{% set newEntries = get_entries('guides', sort_by='date_created', reverse=True)[0:10] %}
+		{% with entries=newEntries, showDatePosted=true %}
+			{% include "_blocks/entryPreviews.html" %}
+		{% endwith %}
 	</section>
-	<section class="section fixed-width" aria-label="Recently updated guides">
+	<section class="section" aria-label="Recently updated guides">
 		<h2>Recent updates</h2>
-		{% for entry in get_entries('guides', sort_by='date_updated', reverse=True)[0:10] %}
-			{% with showDateUpdated=true %}
-				{% include "blocks/_guidePreview.html" %}
-			{% endwith %}
-		{% endfor %}
+		{% set updatedEntries = get_entries('guides', sort_by='date_updated', reverse=True)[0:10] %}
+		{% with entries=updatedEntries, showDateUpdated=true %}
+			{% include "_blocks/entryPreviews.html" %}
+		{% endwith %}
 	</section>
 </main>
 {% endblock%}
 
-{% include "js/masonry.js" %}
+{% include "_js/masonry.js" %}

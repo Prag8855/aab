@@ -13,43 +13,43 @@
 	<link rel="index" href="{{ site_url }}/guides">
 {% endblock %}
 
-{% set body_class = "with-sidebar" %}
-{% block precontent %}
-	<div class="sidebar">
+{% block main %}
+	<main aria-label="Main page">
+		{% block precontent %}{% endblock %}
+		<article class="section">
+			<h1>{{ entry.title }}</h1>
+			{% include "_blocks/postMeta.html" %}
+			{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
+				<div class="article-body">
+					{{ entry.body|render|safe }}
+				</div>
+			{% endwith %}
+		</article>
+
+		{% with pageType='guide' %}
+			{% include "_blocks/donationPrompt.html" %}
+		{% endwith %}
+		<aside class="section no-print" aria-label="Affiliate links notice">
+			<p>
+				<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
+			</p>
+		</aside>
+		{% if related_collections %}
+			<aside id="related" class="section no-print" aria-label="Collections that include this guide">
+				<h2>Related guides</h2>
+				{% with collections=related_collections, currentEntry=entry %}
+					{% include "_blocks/collections.html" %}
+				{% endwith %}
+			</aside>
+		{% endif %}
+	</main>
+	
+	<div class="sidebar no-print" aria-hidden="true">
 		{% with entry=entry, showScrollToTop=true, showSupportLink=true, showRelatedEntriesLink=related_collections|length %}
-			{% include 'blocks/_tableOfContents.html' %}
+			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
 	</div>
-	{% include "js/sidebar.js" %}
-{% endblock%}
-
-{% block content %}
-	<h1>{{ entry.title }}</h1>
-	{% include "blocks/_postMeta.html" %}
-	{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
-		<div class="article-body">
-			{{ entry.body|render|safe }}
-		</div>
-	{% endwith %}
-{% endblock %}
-
-
-{% block postcontent %}
-	{% with pageType='guide' %}
-		{% include "blocks/_donationPrompt.html" %}
-	{% endwith %}
-	<aside class="section fixed-width footer-notice" aria-label="Affiliate links notice">
-		<p>
-			<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
-		</p>
-	</aside>
-	{% if related_collections %}
-		<aside id="related" class="section fixed-width transparent" aria-label="Collections that include this guide">
-			{% with collections=related_collections, currentEntry=entry %}
-				{% include "blocks/_collections.html" %}
-			{% endwith %}
-		</aside>
-	{% endif %}
+	{% include "_js/sidebar.js" %}
 {% endblock %}
 
 {% block postFooter %}
@@ -123,7 +123,7 @@
 					"@id": "{{ site_url }}/#organization"
 				}
 			},
-			{% include "guides/_jsonld.json" %}
+			{% include "_blocks/guideJsonld.json" %}
 		]
 	</script>
 {% endblock %}

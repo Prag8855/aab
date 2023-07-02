@@ -8,7 +8,7 @@ Related_reviews: reviews/german-health-insurance/derrick-löhr.md, reviews/germa
 
 This guide explains how health insurance works in Germany, and how to choose the best health insurance for your situation.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How German health insurance works
 
@@ -22,7 +22,7 @@ You pay for your health insurance every month. If you are sick, your health insu
 
 Use my German health insurance calculator to see your options. Feather's [health insurance recommendation tool](/out/feather-calc) is also really good.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 Germany has two health insurance systems:
 
@@ -50,7 +50,7 @@ Your options depend on your occupation and your income:
 
 ### Cost of public health insurance
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 The cost depends on your occupation:
 
@@ -113,7 +113,7 @@ I was with [Techniker Krankenkasse](/out/signup-tk) for 6 years. [I was very hap
 
 A health insurance broker can help you choose health insurance. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 ## Private health insurance
 
@@ -190,7 +190,7 @@ There are big differences between private health insurance companies. Each offer
 
 The best way to choose is to ask a health insurance broker. Their help is free. They get paid by the insurance companies when they bring new customers.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 Use [Tarifcheck](/out/tarifcheck-health) to compare private health insurance prices. Tarifcheck does not help you pick the best insurance. It only shows you the prices. It's always better to talk to a broker.
 
@@ -277,7 +277,7 @@ Health insurance brokers help you choose health insurance. Their help is free fo
 
 If you are an immigrant, **choose a broker who works with expats**. Your needs are different, and your broker must know how to help you.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 I recommend two insurance brokers:
 

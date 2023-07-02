@@ -7,7 +7,7 @@ Date_created: 2020-08-27
 
 This guide shows you different ways to save money in Germany. Most of those tricks do not require you to change your lifestyle.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Change electricity and gas providers every year
 
@@ -26,7 +26,7 @@ You can also do this with [car insurance](/guides/car-insurance-germany). Most c
 
 [Health insurance](/glossary/Krankenversicherung) is often your second biggest expense, after rent. There are many ways to pay less for health insurance. My [health insurance calculator](/tools/health-insurance-calculator) shows you what options you have.
 
-{% include 'blocks/_healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### Use your EHIC card
 
@@ -36,7 +36,7 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 This only works in certain cases. For example, if you are a student from another EU country, or if you are unemployed.
 
-**[German health insurance ➞ Insurance from other EU countries](/guides/german-health-insurance#insurance-from-other-eu-countries)**
+**[How to use insurance from another EU country ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
 
 ### Switch to private health insurance
 
@@ -47,11 +47,11 @@ Public health insurance is usually the best option, but in [some specific cases]
 
 **This is not a simple decision.** Private health insurance is not always a better option. This decision has serious long term consequences. Talk to a health insurance broker first. Their help is free.
 
-{% include 'blocks/_healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 Public health insurance has a 3 month *[[Kündigungsfrist]]*. If you decide to switch to private health insurance, you must stay another 3 months on public health insurance.
 
-**[German health insurance ➞ Private health insurance](/guides/german-health-insurance#private-health-insurance)**
+**[How private health insurance works ➞](/guides/german-health-insurance#private-health-insurance)**
 
 ### Join the [Künstlersozialkasse (KSK)](/glossary/Künstlersozialkasse)
 
@@ -82,7 +82,7 @@ You might be paying too much rent. The *[[Mietpreisbremse]]* limits how much you
 
 Some banks charge a monthly fee to keep your money. It's usually around 10€ per month. Some banks also charge you a fee when you use another bank's ATM. There are many banks with no monthly fees, and no ATM fees. [N26](/out/n26), [ING](/out/ing) and [DKB](/out/dkb) are the most popular ones, but there are [many other options](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees).
 
-**[How to choose a bank ➞ Banks with no monthly fees](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
+**[German banks with no monthly fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
 
 ## Get a yearly public transit pass
 

@@ -57,7 +57,7 @@ Tax advisors (*Steuerberater*) help you with your personal and business taxes. A
 
 Tax advisors are legally liable for the advice they give. If they make a mistake, they pay for it.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## When to hire a tax advisor
 
@@ -108,13 +108,13 @@ The membership costs 30€ to 300€ per year, depending on your income.[^4] Onl
 
 ### Freelancer cooperative
 
-**[Smart](/out/smart)** is a cooperative for freelancers. If you are a member, they take care of invoicing, taxes, and many other things for you. They also give you an employment contract and a steady income. 
+**[Smart](/out/smart-coop)** is a cooperative for freelancers. If you are a member, they take care of invoicing, taxes, and many other things for you. They also give you an employment contract and a steady income. 
 
 If you want the flexibility of a freelancer and the stability of a job, it's a good option.
 
 ## List of English-speaking tax advisors
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}
 
 ### Other lists
 

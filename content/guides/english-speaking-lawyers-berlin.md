@@ -64,13 +64,13 @@ This list of English, French and Spanish-speaking attorneys will help you with a
 - **Business and immigration hotline**  
     Call [0900 1 5293 6611](tel:0900152936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs 2€ per minute.
 
-**[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
+**[Where to get legal help ➞](/guides/questions-about-berlin#legal-questions)**
 
 ## List of lawyers
 
 If someone is missing from this list, [let me know](/suggest-business).
 
-{% include 'blocks/_relatedPlaces.html' %}
+{% include '_blocks/relatedPlaces.html' %}
 
 ### Other lists of English-speaking lawyers
 

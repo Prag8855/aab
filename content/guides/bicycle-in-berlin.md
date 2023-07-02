@@ -10,20 +10,15 @@ Berlin is better on a bicycle. The city is very flat, and it has a big network o
 
 In this guide, I show you how to buy a bike, what rules you must follow, and how to deal with bicycle theft.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Where to buy a bicycle in Berlin
 
 ### Buying a new bicycle
 
-There are also many small, **independent bicycle shops**. They can give you personalised advice. For example, they can find a bike that fits your body, customise a bike for your needs, or even build a bicycle just for you. When you have problems with your bicycle, they can help you.
+Go to a **small, independent bike shop**. You will get better service and personalised advice. They will help you pick a good bike for your needs and budget. There are many great bicycle stores in Berlin. I recommend [Little John Bikes](https://goo.gl/maps/mqqbuv7tzpFbsjCn6) in Prenzlauer Berg. They speak English.
 
-There are also big bicycle stores like 
-
-- [**Decathlon**](https://www.decathlon.de/) (many locations in Berlin)  
-    Big sport equipment store. The main store is near Alexanderplatz. They sell cheap, medium quality bicycles.
-- [**Stadler**](https://shop.zweirad-stadler.de/) (Charlottenburg, Prenzlauer Berg)  
-    Giant bicycle store. They have two locations in Berlin.
+Big bicycle stores like [Decathlon](https://www.decathlon.de/), [Stadler](https://shop.zweirad-stadler.de/) and [Radhaus] have more choice, but worse service. Decathlon bikes are good value for the price.[^33]
 
 ### Buying a used bicycle
 
@@ -33,7 +28,7 @@ Used bicycles are cheaper. There are many places where you can buy them:
     Monthly bicycle markets with hundreds of bicycles. There is also a bicycle workshop.
 - **[Fietsenbörse](https://fietsenboerse.de/)** (Schöneberg)  
     Monthly bicycle market with hundreds of bicycles.
-- **[eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-fahrraeder/c217)**  
+- **[Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-fahrraeder/c217)**  
     Classified ads website. Many bikes are listed there.
 - **[Flea markets](https://www.berlin.de/special/shopping/flohmaerkte/)**  
     There are flea markets every Sunday in Berlin. Many of them sell bicycles. Do not buy a bicycle there. The bicycles are too old, too expensive, and often stolen.
@@ -45,6 +40,8 @@ Used bicycles are cheaper. There are many places where you can buy them:
     - [Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)
 
 The quality of used bicycles varies a lot. Always try the bike before you buy it. Check if the brakes work, the gears change smoothly, the frame is not cracked, the wheels are straight, etc. [This guide](https://bikefair.org/blog/how-to-choose-a-second-hand-bike#:~:text=check%20the%20bike) can help you.
+
+If you buy a used bicycle, get it fitted and adjusted at a bicycle shop. Your bike will ride smoother, and it will be more comfortable.
 
 ### Buying a stolen bicycle
 
@@ -71,7 +68,7 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     - [Jelbi](https://www.jelbi.de/en/home/) - Rent bikes from different bike sharing services
     - [Lime](https://www.li.me/locations) - Bicycles with electric assist
     - [Donkey Republic](https://www.donkey.bike/cities/bike-rental-berlin/)
-    - [Avocargo](https://www.avocargo.one/) - Electric cargo bikes
+    - [Cargoroo](https://cargoroo.nl/berlin/) - Cargo bikes
     - [fLotte](https://flotte-berlin.de/) - Cargo bikes
     
 ### Bicycles for refugees
@@ -93,7 +90,7 @@ If you are a refugee, you can get a free bicycle from [Rückenwind](https://ruec
 
 ### Bicycle repair shops
 
-There are many [bike repair shops](https://www.google.com/maps/search/Fahrradwerkstatt/) (*Fahrradwerkstatt*) in every neighbourhood. There are good ones and bad ones. Check online reviews before choosing one.
+There are [bike repair shops](https://www.google.com/maps/search/Fahrradwerkstatt/) (*Fahrradwerkstatt*) in every neighbourhood. There are good ones and bad ones. Check online reviews before you choose one.
 
 ### Self-service workshops
 
@@ -108,7 +105,7 @@ There are self-service repair stations (*Selbsthilfewerkstatt*) where you can re
 - [Velo-fit](https://www.facebook.com/velofitberlin/) (Kreuzberg)- bike workshop by Berliner Stadtmission
 - [Workshop in Amtshaus Buchholz](https://www.buergerhaus-gmbh.de/fahrradselbsthilfewerkstatt.html) (Buchholz)
 
-If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c4-fahrrad-luftpumpen-zubehor/_/N-rrj9o) for less than 10€.
+If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c4-fahrrad-luftpumpen-zubehor/_/N-rrj9o) for less than 10€. Petrol stations also have free air pumps, but they don't work with some bicycle tire valves.
 
 ## Bicycle theft
 
@@ -199,7 +196,7 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 
 ## Bringing bicycles on public transit
 
-**[How to use public transit ➞ Bicycles on public transit](/guides/public-transit#bicycles-on-public-transit)**
+**[How to bring bicycles on public transit ➞](/guides/public-transit#bicycles-on-public-transit)**
 
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b80fgm/im_thinking_of_buying_a_bicycle_on_shpock_but_i/ejw5zi1/)
 [^2]: [hanseaticbank.de](https://www.hanseaticbank.de/klarmacher/sparen/fahrrad-steuerlich-absetzen-nicht-nur-sprit-sondern-auch-geld-sparen#befreit)
@@ -233,3 +230,4 @@ If you ride a bicycle in Germany, you must understand who has the right of way. 
 [^30]: [bussgeldkatalog.org](https://www.bussgeldkatalog.org/musik-hoeren-beim-fahrradfahren/#faq_musik_hoeren_beim_fahrradfahren)
 [^31]: [arag.de](https://www.arag.de/rechtsschutzversicherung/verkehrsrechtsschutz/kopfhoerer-fahrrad/)
 [^32]: [welt.de](https://www.welt.de/finanzen/verbraucher/article143371326/Duerfen-Radfahrer-mit-Kopfhoerer-Musik-hoeren.html), [arag.de](https://www.arag.de/rechtsschutzversicherung/verkehrsrechtsschutz/kopfhoerer-fahrrad/)
+[^33]: [discerningcyclist.com](https://discerningcyclist.com/are-decathlon-bikes-good-worth-it/#Are_Decathlon_Bikes_Good_Valuenbsp), [Reddit](https://old.reddit.com/r/ukbike/comments/n0dkdd/are_decathlon_bikes_any_good/), [Reddit](https://old.reddit.com/r/bicycling/comments/z496i5/are_decathlon_triban_bikes_really_good/)

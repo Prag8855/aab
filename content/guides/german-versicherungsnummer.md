@@ -14,7 +14,7 @@ In German, it's called *Sozialversicherungsnummer*, *Rentenversicherungsnummer*,
 
 In English, it's called pension insurance number, social insurance number or social security number.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What the Sozialversicherungsnummer looks like
 

@@ -1,80 +1,75 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<html lang="en">
 <head>
-	<meta charset="utf-8" />
+	<meta charset="utf-8">
 	<title>{% if metatitle|default %}{{ metatitle }}{% if metatitle|length < 50 %} - {% endif %}{% if metatitle|length < 50 %}All About Berlin{% endif %}{% else %}All About Berlin{% endif %}</title>
 	{% if metadescription|default %}<meta name="description" content="{{ metadescription }}">{% endif %}
-	<link rel="home" href="{{ site_url }}" />
-	<link rel="glossary" href="{{ site_url }}/glossary" />
-	<link rel="search" href="{{ site_url }}/search" />
+	<link rel="home" href="{{ site_url }}/">
 	<link rel="icon" type="image/png" href="/staticimages/favicon.png">
-	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss" />
-	<meta name="color-scheme" content="light dark">
+	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{% block postHead %}
 		{% if entry|default %}
-			<meta property="og:type" content="article"/>
-			<meta property="og:url" content="{{ entry.url }}" />
-			<meta property="og:title" content="{{ entry.title }}" />
-			<meta property="og:description" content="{{ entry.description }}" />
-			<meta property="og:image" content="{{ entry.image_url }}" />
-			<link rel="canonical" href="{{ entry.url }}" />
+			<meta property="og:type" content="article">
+			<meta property="og:url" content="{{ entry.url }}">
+			<meta property="og:title" content="{{ entry.title }}">
+			<meta property="og:description" content="{{ entry.description }}">
+			<meta property="og:image" content="{{ entry.image_url }}">
+			<link rel="canonical" href="{{ entry.url }}">
 		{% else %}
-			<meta property="og:type" content="website"/>
-			<meta property="og:title" content="{{ metatitle }}"/>
-			<meta property="og:description" content="{{ metadescription }}"/>
-			<meta property="og:image" content="{{ site_url }}/staticimages/cover.png" />
+			<meta property="og:type" content="website">
+			<meta property="og:title" content="{{ metatitle }}">
+			<meta property="og:description" content="{{ metadescription }}">
+			<meta property="og:image" content="{{ site_url }}/staticimages/cover.png">
 		{% endif %}
 	{% endblock %}
-	<style>{% include 'css/_style.css' %}</style>
+	<style>{% scss %}{% include "_css/style.scss" %}{% endscss %}</style>
 
 	<script async defer data-api="{{ site_url }}/whoisthere/event" data-domain="allaboutberlin.com" src="{{ site_url }}/whoisthere.js"></script>
 
-	<meta property="og:site_name" content="All About Berlin"/>
-	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:creator" content="@aboutberlin"/>
-	<meta name="twitter:site" content="@aboutberlin"/>
+	<meta property="og:site_name" content="All About Berlin">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@aboutberlin">
+	<meta name="twitter:site" content="@aboutberlin">
+	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d">
+	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b">
 
-	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d" />
-	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b" />
-
-	{% include '/js/events.js' %}
+	{% include '_js/events.js' %}
 </head>
-<body class="{{ body_class|default('') }}">
+<body>
 {% block body %}
-	<header id="main-nav" class="fixed-width" role="banner" aria-label="Main menu">
-		<a class="logo" href="{{ site_url }}" rel="home" title="All About Berlin">
+	<header id="main-nav" aria-label="Main menu" class="no-print">
+		<a class="logo" href="{{ site_url }}/" rel="home" title="All About Berlin">
 			All About Berlin
 		</a>
-		<nav id="sections">
-			{% include 'blocks/_searchForm.html' %}
-			<div class="search-results"></div>
+		<nav id="sections" aria-label="Website sections">
+			{% include '_blocks/searchForm.html' %}
 			<a title="Guides about life in Berlin" href="{{ site_url }}/guides">Guides</a>
 			<a title="Tools and calculators" href="{{ site_url }}/tools">Tools</a>
-			<a title="Bürgeramt and Ausländerbehörde documents translated to English" href="{{ site_url }}/docs" class="no-mobile">Documents</a>
+			<a title="Documents and templates" href="{{ site_url }}/docs">Doc<span class="no-mobile">ument</span>s</a>
 			<a href="{{ site_url }}/contact">Contact</a>
 		</nav>
 	</header>
 	{% block main %}
 		<main aria-label="Main page">
 			{% block precontent %}{% endblock %}
-			<article class="section fixed-width">
+			<article class="section">
 				{% block content %}{% endblock %}
 			</article>
 			{% block postcontent %}{% endblock %}
 		</main>
 	{% endblock %}
-	<footer class="section fixed-width transparent centred" aria-label="Bottom menu">
+	<footer aria-label="Bottom menu" class="no-print">
 		© {{ now.strftime('%Y') }} • 
-		<a href="{{ site_url }}/contact" rel="nofollow">Contact me</a> • 
+		<a href="{{ site_url }}/contact" rel="nofollow">Contact</a> • 
 		<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 
-		<a href="{{ site_url }}/terms#privacy-policy" rel="nofollow">Privacy policy</a> • 
-		<a href="{{ site_url }}/terms#terms-of-service" rel="nofollow">Terms & conditions</a>
+		<a href="{{ site_url }}/terms#privacy-policy" rel="nofollow">Privacy</a> • 
+		<a href="{{ site_url }}/terms#terms-of-service" rel="nofollow">Terms and conditions</a>
 	</footer>
 {% endblock %}
 {% block postFooter %}
-	{% include 'blocks/_tooltip.html' %}
-	<script type="text/javascript">
+	{% include '_blocks/tooltip.html' %}
+	<script>
 		{% alljs %}
 	</script>
 	<script type="application/ld+json">
@@ -97,12 +92,7 @@
 				},
 				"description": "All About Berlin helps people settle in Berlin and navigate German bureaucracy.",
 				"inLanguage": "en",
-				"url": "{{ site_url }}",
-				"potentialAction": {
-					"@type": "SearchAction",
-					"target": "{{ site_url }}/search?q={search_term_string}",
-					"query-input": "required name=search_term_string"
-				},
+				"url": "{{ site_url }}/",
 				"publisher": {
 					"@type": "Organization",
 					"@id": "{{ site_url }}/#organization"
@@ -134,7 +124,7 @@
 					"https://twitter.com/aboutberlin",
 					"https://www.linkedin.com/company/allaboutberlin/"
 				],
-				"url": "{{ site_url }}"
+				"url": "{{ site_url }}/"
 			},
 			{
 				"@context": "https://schema.org",

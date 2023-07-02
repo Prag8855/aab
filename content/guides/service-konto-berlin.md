@@ -24,5 +24,5 @@ When you create the account, select security level 1 (*Sicherheitsstufe 1*).
 
 ## Need help?
 
-**[Where to find help ➞ Business questions](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 

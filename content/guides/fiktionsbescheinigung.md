@@ -3,14 +3,13 @@ Title: How the German Fiktionsbescheinigung works
 Short_title: How the Fiktionsbescheinigung works
 Description: This guide explains what a Fiktionsbescheinigung is, how it works, how to get one. It tells you you when you can travel with a Fiktionsbescheinigung.
 Date_created: 2023-03-02
-Date_updated: 2023-03-02
 ---
 
-This guide explains what a *Fiktionsbescheinigung* is, how it works and how to get one.
+A *Fiktionsbescheinigung* is a temporary [residence permit](/glossary/Aufenthaltstitel). It lets you stay in Germany while you wait for another residence permit.
 
-It also tells you when you can travel with a Fiktionsbescheinigung.
+This guide explains how the German *Fiktionsbescheinigung* works, and how to travel with a *Fiktionsbescheinigung*.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## What is a Fiktionsbescheinigung?
 
@@ -28,11 +27,11 @@ If you apply for a residence permit by email, ask for a *Fiktionsbescheinigung* 
 
 If you currently have a [[Schengen visa]], you can't get a *Fiktionsbescheinigung*. You can't convert a Schengen visa to a residence permit. You must apply in for a residence permit in your home country.[^3]
 
-## Travelling with a Fiktionsbescheinigung
+## Can you travel with a Fiktionsbescheinigung?
 
-**If you have a "§81 Abs. 4" Fiktionsbescheinigung**, you can travel outside of Germany.
+**If you have a "§81 Abs. 4" Fiktionsbescheinigung**, you can travel outside of Germany. You can visit countries outside the Schengen area and the European Union, then re-enter Germany.
 
-Other types of *Fiktionsbescheinigung* do not let you travel outside of Germany. If you leave Germany, you might not be able to re-enter later.
+Other types of *Fiktionsbescheinigung* do not let you travel outside of Germany. If you travel outside Germany, you might not be able to re-enter later.
 
 ## Fiktionsbescheinigung types
 
@@ -49,7 +48,7 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 
 ## Need help?
 
-**[Where to find help ➞ Immigration questions](/guides/questions-about-berlin#immigration-questions)**
+**[Where ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
 [^2]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Wikipedia](https://de.wikipedia.org/wiki/Fiktionsbescheinigung), [Berlin.de](https://service.berlin.de/dienstleistung/326233/en/)

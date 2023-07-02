@@ -7,5 +7,4 @@ class MarkdownInternalLinksLinter(OriginalInternalLinksLinter):
         re.compile("^/donate$"),
         re.compile("^/out"),
         re.compile("^/suggest-[a-z]+$"),
-        re.compile("^#download-buttons$"),
     )

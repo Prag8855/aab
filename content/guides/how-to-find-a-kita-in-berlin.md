@@ -10,7 +10,7 @@ Before starting elementary school (*[[Grundschule]]*), most children under 6 yea
 
 You must go through a few steps before your child can go to a *Kita* in Berlin.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## How much does Kita cost?
 

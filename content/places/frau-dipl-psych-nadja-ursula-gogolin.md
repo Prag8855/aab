@@ -1,5 +1,5 @@
 ---
-Name: Frau Dipl.-Psych. Nadja Ursula Gogolin
+Name: Dipl.-Psych. Nadja Ursula Gogolin
 Description: Psychotherapist, group therapist
 Accepts_public_insurance: Yes
 Website: http://www.psychotherapy-gogolin.com/contact-to-nadja-gogolin-psychotherapy-in-berlin.html

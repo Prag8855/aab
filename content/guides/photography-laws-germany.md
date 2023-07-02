@@ -7,7 +7,7 @@ Date_created: 2020-05-02
 
 In Germany, you can't share photos and videos of other people without their permission. In this guide, we explain the rules every photographer must follow.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Taking photos of people
 
@@ -28,7 +28,7 @@ You can share a photo of a person without their permission if:
 - **or** the person is a public figure, or part of contemporary history (a politician, a movie star, ...)[^4]
 - **or** the person died more than 10 years ago
 - **or** the people in the picture are accessories in a landscape or special location[^5]
-- **or** the people in the picture are participating to a public gathering, parade or similar event, *and they are not the focus of the photo*[^6]
+- **or** the people in the picture are participating in a public gathering, parade or similar event, *and they are not the focus of the photo*[^6]
 
 ![Crowd people](/images/crowd-people.jpg "You do not need permission to share photos of public gatherings")
 
@@ -94,7 +94,7 @@ There is no exception for police officers.[^14] The rules described above also a
 
 ## Need help?
 
-**[Where to find help ➞ Legal questions](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_stgb/englisch_stgb.html#p1841), [web.archive.org](http://web.archive.org/web/20210728110315/https://www.goethe.de/en/kul/med/20849366.html)
 [^1]: [anwalt.org](https://www.anwalt.org/201a-stgb/), [anwalt.org](https://www.anwalt.org/cybermobbing/#Formen_der_Schikane_im_Internet), [fotomagazin.de](https://www.fotomagazin.de/praxis/fotorecht/fokus-fotorecht-wann-ist-eine-person-erkennbar)
