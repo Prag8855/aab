@@ -1,7 +1,6 @@
-{% js %}
-/* Creates plausible() function */
-window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
+{% include "_js/tracking.js" %}
 
+{% js %}
 function validateForm(formElement) {
   let formIsValid = true;
 
@@ -61,32 +60,6 @@ window.addEventListener("DOMContentLoaded", function() {
       expandButton.parentNode.classList.toggle('expanded');
     })
   });
-
-  /* Outbound links */
-  function handleOutRedirect(event) {
-    var link = event.target;
-    var middle = event.type == "auxclick" && event.which == 2;
-    var click = event.type == "click";
-      while(link && (typeof link.tagName == 'undefined' || link.tagName.toLowerCase() != 'a' || !link.href)) {
-        link = link.parentNode
-      }
-
-      if (link && link.href && link.host && link.host === location.host && link.pathname && (link.pathname.startsWith('/out/') || link.pathname === '/donate')) {
-        if (middle || click)
-        plausible('Outbound Link: Click', {props: {url: link.href}})
-
-        if(!link.target || link.target.match(/^_(self|parent|top)$/i)) {
-          if (!(event.ctrlKey || event.metaKey || event.shiftKey) && click) {
-            setTimeout(function() {
-              location.href = link.href;
-            }, 150);
-            event.preventDefault();
-          }
-        }
-      }
-  }
-  document.addEventListener('click', handleOutRedirect);
-  document.addEventListener('auxclick', handleOutRedirect);
 });
 
 {% include "_js/currency.js" %}
