@@ -8,44 +8,39 @@
   <template v-if="stage === 'contactInfo'">
     <p>Chris helps people get their pension refund. You can ask him questions. He will answer in 1 to 3 business days. This is a free service.</p>
     <hr>
-    <div class="form-group">
+    <div class="form-group required">
       <label for="question-{{ id }}">Your question</label>
       <div class="input-group">
         <textarea v-model="question" id="question-{{ id }}" required placeholder=" "></textarea>
-        <span class="input-symbols"></span>
       </div>
     </div>
-    <div class="form-group">
+    <div class="form-group required">
       <label for="name-{{ id }}">
         Name
       </label>
       <div class="input-group">
         <input v-model="fullName" type="text" required autocomplete="name">
-        <span class="input-symbols"></span>
       </div>
     </div>
-    <div class="form-group">
+    <div class="form-group required">
       <label for="email-{{ id }}">
         Email
       </label>
       <div class="input-group">
         <input v-model="emailAddress" type="email" id="email-{{ id }}" required autocomplete="email">
-        <span class="input-symbols"></span>
       </div>
     </div>
     <hr>
-    <div class="form-group">
+    <div class="form-group required">
       <label for="nationality-{{ id }}">Nationality</label>
       <div class="input-group">
         <input type="text" v-model="nationality" id="nationality-{{ id }}" list="countries-{{ id }}" required>
-        <span class="input-symbols"></span>
       </div>
     </div>
-    <div class="form-group">
+    <div class="form-group required">
       <label for="country-of-residence-{{ id }}">Where do you live?</label>
       <div class="input-group">
         <input type="text" v-model="countryOfResidence" id="country-of-residence-{{ id }}" list="countries-{{ id }}" required>
-        <span class="input-symbols"></span>
       </div>
     </div>
     <datalist id="countries-{{ id }}">

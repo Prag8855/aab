@@ -1525,6 +1525,14 @@ input[type=range] {
         padding-top: var(--xs);
     }
 
+    &.required {
+        > label:first-child, > .label:first-child{
+            &:after{
+                content: '*';
+            }
+        }
+    }
+
     > * {
         grid-column-start: 2;
     }
@@ -1587,19 +1595,9 @@ input[type=range] {
             text-align: center;
     }
 }
-[required], .required{
-    + .input-symbols:after{
-        content: '*';
-    }
-}
 .show-errors :invalid, .error{
     border-color: var(--c-highlight)!important;
     box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
-    + .input-symbols:after{
-        content: '×';
-        background: var(--c-highlight);
-        color: #fff;
-    }
 }
 
 .search-form{

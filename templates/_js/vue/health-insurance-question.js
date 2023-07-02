@@ -128,11 +128,10 @@ Vue.component('health-insurance-question', {
           <p><strong>Dr. Rob Schumacher</strong> answers your questions for free. He is an independent insurance broker at <a href="/out/feather" target="_blank">Feather</a>. I work with him since 2018.</p>
         </div>
         <hr>
-        <div class="form-group">
+        <div class="form-group required">
           <label :for="makeId('question')">Your question</label>
           <div class="input-group">
             <textarea v-model="question" :id="makeId('question')" required placeholder=" "></textarea>
-            <span class="input-symbols"></span>
             <span class="input-instructions">If you are applying for a <glossary term="Aufenthaltstitel">residence permit</glossary>, mention it.</span>
           </div>
         </div>
@@ -159,19 +158,17 @@ Vue.component('health-insurance-question', {
           <label :for="makeId('name')">
             Name
           </label>
-          <div class="input-group">
+          <div class="input-group required">
             <input v-model="fullName" type="text" :id="makeId('name')" required autocomplete="name">
-            <span class="input-symbols"></span>
             {% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
           </div>
         </div>
-        <div class="form-group">
+        <div class="form-group required">
           <label :for="makeId('email')">
             Email
           </label>
           <div class="input-group">
             <input v-model="emailAddress" type="email" :id="makeId('email')" required autocomplete="email">
-            <span class="input-symbols"></span>
           </div>
         </div>
         <div class="form-group">

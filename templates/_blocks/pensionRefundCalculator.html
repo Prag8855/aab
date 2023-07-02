@@ -211,25 +211,22 @@
     </template>
     <template v-if="stage === 'contactInfo'">
         <div ref="contactForm">
-            <div class="form-group">
+            <div class="form-group required">
                 <label for="name-{% endraw %}{{ id }}{% raw %}">Full name</label>
                 <div class="input-group">
                     <input v-model="fullName" type="text" id="name-{% endraw %}{{ id }}{% raw %}" required autocomplete="name">
-                    <span class="input-symbols"></span>
                 </div>
             </div>
-            <div class="form-group">
+            <div class="form-group required">
                 <label for="email-{% endraw %}{{ id }}{% raw %}">Email</label>
                 <div class="input-group">
                     <input v-model="emailAddress" type="email" id="email-{% endraw %}{{ id }}{% raw %}" required autocomplete="email">
-                    <span class="input-symbols"></span>
                 </div>
             </div>
-            <div class="form-group">
+            <div class="form-group required">
                 <label for="date-of-birth-{% endraw %}{{ id }}{% raw %}-day">Date of birth</label>
                 <div class="input-group">
                     <date-picker v-model="dateOfBirth" id="date-of-birth-{% endraw %}{{ id }}{% raw %}" required autocomplete="bday" aria-describedby="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}"></date-picker>
-                    <span class="input-symbols"></span>
                     <span class="input-instructions" id="instructions-date-of-birth-{% endraw %}{{ id }}{% raw %}">Required by the Deutsche Rentenversicherung</span>
                 </div>
             </div>
