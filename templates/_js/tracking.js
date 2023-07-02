@@ -21,7 +21,7 @@ function shouldTrackUrl(url){
     url.startsWith('/out/')
     || url.startsWith('{{ site_url }}/out/')
     || url.startsWith('mailto:')
-    || (url.startsWith('http') && !url.startsWith('{{ site_url }}/out/'))
+    || (url.startsWith('http') && !url.startsWith('{{ site_url }}' || '/'))
   );
 }
 
