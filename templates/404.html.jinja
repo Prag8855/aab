@@ -4,7 +4,10 @@
 
 {% block postHead %}
     <meta name="robots" content="noindex">
-    <script>plausible("404", { props: { path: document.location.pathname } });</script>
+    {% include "_js/tracking.js" %}
+    {% js %}
+        plausible("404", { props: { path: document.location.pathname } });
+    {% endjs %}
 {% endblock %}
 
 {% block main %}
