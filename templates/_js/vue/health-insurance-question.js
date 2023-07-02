@@ -12,12 +12,12 @@ Vue.component('health-insurance-question', {
     income: Number,
     isMarried: Boolean,
     hasChildren: Boolean,
-    trackedStages: new Set(),
   },
   data: function() {
     return {
       uniqueId: Math.floor(Math.random() * 10000),
       stage: 'contactInfo',
+      trackedStages: new Set(),
       minFreiwilligMonthlyIncome: healthInsurance.minFreiwilligMonthlyIncome * 12,
 
       question: '',
