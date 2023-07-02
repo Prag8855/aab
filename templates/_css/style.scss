@@ -1476,11 +1476,14 @@ input[type=range] {
 
     @include only-phone{ // Vertical buttons
         flex-direction: column-reverse;
+
         gap: var(--s);
 
         .button{
             flex: 1 0 auto;
+            width: 100%;
             max-width: 15rem;
+            margin: 0 auto;
         }
     }
 }
