@@ -1316,9 +1316,6 @@ label.checkbox{
     input{
         flex-shrink: 0;
     }
-    input + *{
-        margin-left: var(--s);
-    }
 }
 
 .month-input, select.year-input{
