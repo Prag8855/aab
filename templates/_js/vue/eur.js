@@ -12,12 +12,15 @@ Vue.component('eur', {
       return formatCurrency(this.amount, this.cents, false, false);
     },
     tooltipText() {
-      return this.value === '0' ? '' : getCurrencyTooltipText(this.value);
+      return (this.value === '0' ? null : getCurrencyTooltipText(this.value));
     },
   },
   template: `
     <template v-if="noSymbol">
       <span class="currency" :data-currencies="tooltipText">{{ value }}</span>
+    </template>
+    <template v-else-if="!tooltipText">
+      <span class="currency">{{ value }}&nbsp;€</span>
     </template>
     <template v-else>
       <span><span class="currency" :data-currencies="tooltipText">{{ value }}</span>&nbsp;€</span>

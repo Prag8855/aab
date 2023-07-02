@@ -6,7 +6,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
   const isWorkingStudent = occupation == 'studentEmployee';
   const isSelfEmployedStudent = occupation == 'studentSelfEmployed';
   const isStudent = isWorkingStudent || isSelfEmployedStudent || occupation == 'student';
-  const isUnemployed = occupation == 'unemployed' || occupation === 'student';
+  const isUnemployed = occupations.isUnemployed(occupation);
   const isAzubi = occupation == 'azubi';
 
   const hoursWorked = 20; // TODO: Accept different values
