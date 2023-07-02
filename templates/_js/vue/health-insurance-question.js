@@ -35,6 +35,7 @@ Vue.component('health-insurance-question', {
       return;
     }
 
+    this.question = 'Hi Rob,\n\n';
     const formattedIncome = `${formatCurrency(this.income, false, '€', false)} per year`;
     this.question += {
       employee: `I am an employee, and I make ${formattedIncome}.`,
@@ -65,7 +66,7 @@ Vue.component('health-insurance-question', {
       }
     }
 
-    this.question +=  ' Which health insurance should I choose?';
+    this.question +=  '\n\nWhich health insurance should I choose?';
   },
   methods: {
     submitForm() {
