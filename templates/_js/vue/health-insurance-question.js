@@ -154,11 +154,11 @@ Vue.component('health-insurance-question', {
           </div>
         </div>
         <hr v-if="!income && !occupation">
-        <div class="form-group">
+        <div class="form-group required">
           <label :for="makeId('name')">
             Name
           </label>
-          <div class="input-group required">
+          <div class="input-group">
             <input v-model="fullName" type="text" :id="makeId('name')" required autocomplete="name">
             {% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
           </div>
