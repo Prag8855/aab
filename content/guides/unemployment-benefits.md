@@ -35,9 +35,14 @@ Usually, **as soon as you stop working**. Sometimes, There is a disqualification
 
 There is a *Sperrzeit* when...
 
-- **You quit your job without a good reason**
+- **You choose to leave your job**  
+    This means that you quit your job *without a reason*, or you sign an *Aufhebungsvertrag* with your employer. There are many good reasons to quit: mental health, bad salary, moving for your spouse, and more.[^14]
 - **or you register too late**  
     If you wait too long to [register as a job seeker](#register-as-a-job-seeker) or [as unemployed](#register-as-unemployed), the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* adds a *Sperrzeit* to punish you.
+- **or you refuse help from the Agentur für Arbeit**[^13]  
+    For example, you refuse a job offer, refuse to take recommended training, or refuse to look for work.
+
+During the Sperrzeit, your employment benefits still run out (section 6)
 
 ## How much money do I get?
 
@@ -94,11 +99,9 @@ If you don't meet those conditions, they can stop paying *ALG I*, sometimes retr
 
 ### Travelling
 
-When you receive *ALG I*, finding work is your full time job. If you want to travel, you must ask the *Agentur für Arbeit* to take time off. They give you 20 days of vacation per year.
+When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you need the *Agentur für Arbeit*'s permission. You get 20??? days of vacation from the job search per year.
 
-People often travel without telling the *Agentur für Arbeit*. They will never know. However, if they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits.
-
-If you travel, you must tell them.
+People often travel without telling the *Agentur für Arbeit*. Most of the time, they don't notice. If they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits.
 
 ### Sickness and pregnancy
 
@@ -126,7 +129,7 @@ Look for work. ALG I depends on it.
 
 [^0]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer), [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
 [^1]: [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
-[^3]: [hartz4.de](https://www.arbeitslosenselbsthilfe.org/hoechstsatz-alg-1/)
+[^3]: [hartz4.de](https://www.arbeitslosenselbsthilfe.org/hoechstsatz-alg-1/), [Section 4.3](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^2]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-melden/), [Arbeitsagentur](https://www.arbeitsagentur.de/en/unemployment-benefits)
 [^4]: [berlin.de](https://www.berlin.de/familie/informationen/arbeitslos-werden-216#:~:text=nach%20Kenntnis%20erfolgen.-,frist%20verpasst%3F,-Wenn%20die%20Arbeitssuchendmeldung)
 [^5]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer#:~:text=wie%20viel%20arbeitslosengeld%20sie%20bekommen)
@@ -137,3 +140,5 @@ Look for work. ALG I depends on it.
 [^10]: [Section 2.5](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^11]: [Section 3.1](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^12]: [Section 4.1](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
+[^13]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
+[^14]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
