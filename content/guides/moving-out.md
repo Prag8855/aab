@@ -126,21 +126,38 @@ Ask your old landlord to sign a *[[Mietschuldenfreiheitsbescheinigung]]*. This d
 
 ### Find cardboard boxes
 
-You can order cardboard boxes (*Umzugskarton*) from [Zapf](https://www.zapf.de/materialshop/kartons/), [Karton.eu](https://www.karton.eu/cardboard-boxes-and-folding-boxes) and [U-Karton](https://www.u-karton.de). Zapf makes good quality boxes.[^35] You can also buy cardboard boxes from Bauhaus, Hellweg, and [other hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement).
+You can find cardboard boxes...
 
-You can ask stores to give you their old boxes. You can also buy used boxes on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331). This is cheaper than buying new boxes.
+- **Online**  
+    Buy new boxes from [Zapf](https://www.zapf.de/materialshop/kartons/), [Karton.eu](https://www.karton.eu/cardboard-boxes-and-folding-boxes) and [U-Karton](https://www.u-karton.de). Zapf makes good quality boxes.[^35]
+- **In a hardware store** (*Baumarkt*)  
+    Buy new boxes from Bauhaus, Hellweg, and [other hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement).
+- **In stores**  
+    Get free used boxes from stores near you. You just need to ask nicely.
+- **On [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331)**. 
+    Buy used boxes from other people. It's much cheaper than new boxes.
+- **From the moving company**  
+    If you hire a moving company, they can give or sell you boxes.
 
 ### Hire a moving company
 
-If you can't move everything yourself, you can hire a moving company. [Zapf](https://www.zapf.de/) is often recommended.[^25] It's more expensive, but all your goods are insured.
+A moving company helps you pack boxes, disassemble furniture, save a parking space, hire movers, and [change your address](/guides/address-change). It costs 600 to 1,200€, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
 
-If you don't have many things to move, you can hire a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option. You can find more on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
+If you don't have many things to move, a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option. You can find more on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
+
+International moves are more expensive. Shipping and customs can be complicated. If you move to America or Asia, it's often cheaper to sell everything and buy it again.
+
+[Zapf](https://www.zapf.de/) is often recommended.[^25] If you move abroad or you don't speak German, the people at [Smoovers](https://smoover-moving.de/) speak English, and they have experience with international moves.
+
+Make sure that the movers have insurance, in case they break something. Movers you find on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518) are not always insured. Your contract should say who pays for the damages the movers cause.[^39]
 
 ### Rent a moving truck
 
 [Robben und Wientjes](https://www.robben-wientjes.de/) rents moving trucks at a good price. [Miles](https://miles-mobility.com/berlin/) is a car sharing service that rents vans. Moving trucks are much cheaper than moving companies, but you must move the furniture yourself.
 
-You will need to park the truck somewhere while you load your things. You can reserve a parking spot with a sign, but you need permission from the city.[^26] You can get permission [at the Bezirksamt](https://service.berlin.de/dienstleistung/325649/) for at least 21€, or use a service like [Halteverbot Berlin 24](https://www.halteverbot-berlin24.de/) for around 60€. You must ask for permission 2-4 weeks in advance.[^27] If you have an underground garage, it's cheaper and easier to park the truck there.
+You will need to park the truck somewhere while you load your things. You can reserve a parking spot with a sign, but you need permission from the city.[^26] You can get permission [at the Bezirksamt](https://service.berlin.de/dienstleistung/325649/), or use a service that does it for you. You must ask for permission at least 4 weeks in advance.[^27]
+
+Some people just park a car to hold the spot until they arrive with the truck. Other people park in the building's underground garage.
 
 ### Sell or donate your things
 
@@ -210,3 +227,6 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^36]: [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^37]: [§60 Abs. 1 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html)
 [^38]: [§60 Abs. 2 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)
+[^24]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
+[^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
+[^40]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
