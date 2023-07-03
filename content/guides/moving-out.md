@@ -141,7 +141,7 @@ You can find cardboard boxes...
 
 ### Hire a moving company
 
-A moving company helps you pack boxes, disassemble furniture, save a parking space, hire movers, and [change your address](/guides/address-change). It costs 600 to 1,200€, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
+A moving company helps you pack boxes, disassemble furniture, save a parking space (*Halteverbot*), hire movers, and [change your address](/guides/address-change). It costs 600 to 1,200€, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
 
 If you don't have many things to move, a "man with a van". They are often cheaper than a moving company. [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option. You can find more on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518).
 
@@ -155,9 +155,9 @@ Make sure that the movers have insurance, in case they break something. Movers y
 
 [Robben und Wientjes](https://www.robben-wientjes.de/) rents moving trucks at a good price. [Miles](https://miles-mobility.com/berlin/) is a car sharing service that rents vans. Moving trucks are much cheaper than moving companies, but you must move the furniture yourself.
 
-You will need to park the truck somewhere while you load your things. You can reserve a parking spot with a sign, but you need permission from the city.[^26] You can get permission [at the Bezirksamt](https://service.berlin.de/dienstleistung/325649/), or use a service that does it for you. You must ask for permission at least 4 weeks in advance.[^27]
+You will need to park the truck somewhere while you load your things. You can reserve a parking spot with a sign (*Halteverbot*), but you must [get permission from the Bezirksamt](https://service.berlin.de/dienstleistung/325649/).[^26] This takes around 4 weeks.[^27] You can pay a service like [halteverbotszonen.com](https://halteverbotszonen.com/) to do it for you.
 
-Some people just park a car to hold the spot until they arrive with the truck. Other people park in the building's underground garage.
+Some people just park a car to hold the spot until the moving truck arrives.[^41] Other people park the moving truck in the underground garage.
 
 ### Sell or donate your things
 
@@ -230,3 +230,4 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^24]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^40]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
+[^41]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
