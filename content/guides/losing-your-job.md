@@ -58,8 +58,8 @@ When you sign a termination agreement...[^19]
     You can't sue your employer for unlawful dismissal, because you agreed to leave your job. Employers often suggest an *Aufhebungsvertrag* when they have no valid reason to fire you.
 - **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
     You can agree to leave your job sooner. This is good if you want to start another job soon. It's bad if you need more time.
-- **You can lose 3 months of unemployment benefits**  
-    In some cases, you can lose 3 months of unemployment benefits.[^24] It depends on how your *Aufhebungsvertrag* is phrased.
+- **You can lose 3 months of [unemployment benefits](/glossary/ALG%20I)**  
+    In some cases, you can lose 3 months of *[[ALG I]]*.[^24] It depends on how your *Aufhebungsvertrag* is phrased. See [how unemployment benefits work](/guides/unemployment-benefits).
 - **You can get better severance pay** (*Abfindung*)  
     You can get more severance pay than the legal minimum: 2 weeks of pay for every year with your employer.[^21]
 
