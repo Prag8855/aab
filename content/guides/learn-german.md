@@ -175,12 +175,13 @@ Your employer might offer free German classes in your office. It's very common. 
 
 ### Training voucher ([AVGS](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein) or [[Bildungsgutschein]])
 
-The [*Bundesagentur für Arbeit*](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit) can pay for your language classes. If you are unemployed, or at risk of being unemployed, they can give you a training voucher (*[[Bildungsgutschein]]*) or an [AVGS voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein). This voucher lets you take German classes for free. Many private schools don't accept training vouchers. You must apply at the Jobcenter.
+If you are unemployed, or at risk of being unemployed, the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* can pay for your German classes. They give you a training voucher (*[[Bildungsgutschein]]*) or an [AVGS voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein) that pays for your classes. Some private schools don't accept training vouchers.
 
-**Useful links:**
+**[How to apply for a Bildungsgutschein](https://careerfoundry.com/en/blog/career-change/how-to-apply-for-a-bildungsgutschein/)** - CareerFoundry
 
-- [How to apply for a Bildungsgutschein](https://careerfoundry.com/en/blog/career-change/how-to-apply-for-a-bildungsgutschein/) - CareerFoundry
-- [List of schools that accept training vouchers](https://kursnet-finden.arbeitsagentur.de/kurs/index.jsp) (German) - [[Bundesagentur für Arbeit]]
+**[Schools that accept training vouchers](https://kursnet-finden.arbeitsagentur.de/kurs/index.jsp)** (in German) - *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*
+
+**[Unemployment benefits in Germany ➞](/guides/unemployment-benefits)**
 
 ### DAAD scholarships
 
