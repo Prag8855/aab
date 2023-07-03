@@ -472,7 +472,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 [^42]: [con.arbeitsagentur.de](https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/dok_ba014306.pdf)
 [^43]: [BAMF \(archived\)](https://web.archive.org/web/20180316181407/http://bamf.de/EN/Infothek/FragenAntworten/BlaueKarteEU/blaue-karte-eu-node.html)
 [^44]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/?utm_source=ifttt)
-[^45]: [arbeitsagentur.de](https://www.arbeitsagentur.de/en/german-labour-market)
+[^45]: [Arbeitsagentur](https://www.arbeitsagentur.de/en/german-labour-market)
 [^46]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/steuer-id-zu-spaet-abgegeben)
 [^47]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/)
 [^48]: [berlin.de](https://service.berlin.de/dienstleistung/324659/standort/327437/en/)

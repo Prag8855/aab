@@ -3,7 +3,12 @@ Title: How to choose German health insurance
 Short_title: How to choose health insurance
 Description: This guide explains how public and private health insurance work in Germany. It helps you choose the best health insurance for your needs.
 Date_created: 2018-11-29
-Related_reviews: reviews/german-health-insurance/derrick-löhr.md, reviews/german-health-insurance/marvin-ewald-hammor.md, reviews/german-health-insurance/dr-rob-schumacher.md, reviews/german-health-insurance/daniel-derosa.md, reviews/german-health-insurance/mike-woodiwiss.md
+Related_reviews:
+    reviews/german-health-insurance/derrick-löhr.md
+    reviews/german-health-insurance/marvin-ewald-hammor.md
+    reviews/german-health-insurance/dr-rob-schumacher.md
+    reviews/german-health-insurance/daniel-derosa.md
+    reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
 This guide explains how health insurance works in Germany, and how to choose the best health insurance for your situation.
@@ -313,7 +318,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^8]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/selbststaendige/), [bundesregierung.de](https://www.bundesregierung.de/breg-de/service/archiv/beschaeftigte-ab-2019-entlastet-1141468)
 [^9]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
-[^11]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [arbeitsagentur.de](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
+[^11]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/entlastung-fuer-familien/versichert-als-familie-in-der-familienversicherung/einkommensgrenze-familienversicherung-2005696)
 [^13]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5cw86x/looking_for_an_english_therapist_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8z8558/psychotherapy_in_berlin/e2idrsi/)
 [^14]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9yib75/not_eligible_for_either_private_or_public_health/)
