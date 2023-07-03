@@ -40,7 +40,9 @@ If you get fired or laid off, your employer must give you a resignation letter.
 
 During your [probation period](/glossary/Probezeit), your employer can fire you without a reason. After your probation period, your employer must give a valid reason.
 
-Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. If you agree and sign a termination agreement (*Aufhebungsvertrag*), you can't resist your dismissal.
+Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. Severance pay in Germany is lower than in North America. You can hire a labour lawyer to negotiate better severance pay.
+
+If you agree and sign a termination agreement (*Aufhebungsvertrag*), you can't resist your dismissal.
 
 https://www.kanzlei-hasselbach.de/blog/kuendigungsschutzklage-fristen-kosten-abfindung/
 
