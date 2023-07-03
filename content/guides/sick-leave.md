@@ -103,6 +103,12 @@ After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if y
 - Get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are permanently unable to do your job. If you have a family or a mortgage, this is important.
 - In your contracts, define what happens if you are too sick to finish a project in time.
 
+## Sick leave for the unemployed
+
+If you get [[ALG I]], your job is to look for work. If you are sick, and you can't look for work, you must get a sick note for the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. When you are healthy again, you must tell the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*.
+
+**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
+
 ## Other scenarios
 
 ### If you are sick while on vacation
