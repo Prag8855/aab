@@ -14,7 +14,7 @@ This guide shows you what to do when:
 
 It only applies to employees, not freelancers.
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Before you leave your job
 

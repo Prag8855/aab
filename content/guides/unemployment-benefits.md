@@ -7,7 +7,7 @@ Date_created: 2023-04-27
 
 When you are unemployed, you get unemployment benefits (*[[ALG I]]*). *ALG I* pays 60% to 67% of your previous salary, up to ~2,000€ per month.[^3] It also pays for your [health insurance](/glossary/Krankenversicherung).
 
-{% include "blocks/_tableOfContents.html" %}
+{% include "_blocks/tableOfContents.html" %}
 
 ## Who gets unemployment benefits?
 
