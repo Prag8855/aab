@@ -197,8 +197,6 @@ The best way to choose is to ask a health insurance broker. Their help is free. 
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-Use [Tarifcheck](/out/tarifcheck-health) to compare private health insurance prices. Tarifcheck does not help you pick the best insurance. It only shows you the prices. It's always better to talk to a broker.
-
 [Ottonova](/out/ottonova) is popular option with expats, because they offer support in English, but [they are not perfect](/guides/ottonova-review).
 
 [Feather](/out/feather-private) also offers private health insurance. They helped me get private health insurance, and I trust them. They are a health insurance broker, not a health insurer. This means that they sell insurance from different companies. They speak English. Their insurance works for [residence permit](/glossary/Aufenthaltstitel) applications.
@@ -237,9 +235,8 @@ There are **3 reasons to get expat health insurance**:
 - **The coverage is not as good**  
     Simple check-ups and dentist visits are rarely covered.[^26] You usually pay a deductible for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
-**Useful links:**
+**[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
 
-- [Which health insurance do you need for your German visa?](/guides/german-visa-health-insurance)
 - [Feather expat insurance](/out/feather-expats) - from 72€ per month, valid for residence permit applications[^31]
 - [Ottonova expat insurance](/out/ottonova-expats) - from 155€ per month, valid for residence permit applications
 
@@ -288,10 +285,6 @@ I recommend two insurance brokers:
 
 - [Feather](/out/feather). I know them personally, and work with them since 2018. I got my health insurance from them.
 - [Derrick Loehr](https://optimumcapital.de/). He gave me a lot of useful advice about health insurance when I wrote those guides.
-
-### Price comparison websites
-
-Use [Tarifcheck](/out/tarifcheck-health) to compare health insurance prices. Tarifcheck only shows you prices. It does not help you make a good choice. It's better to talk to a broker.
 
 ## What to do next
 

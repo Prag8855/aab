@@ -93,8 +93,6 @@ You should:
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-You can use [Tarifcheck](/out/tarifcheck-health) to compare private health insurance prices. I don't recommend it. Tarifcheck only shows you the prices, not what works best for your situation.
-
 [^0]: [ui.awin.com](https://ui.awin.com/merchant-profile/15971)
 [^3]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://www.ottonova.de/unternehmen)
 [^4]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-ottonova-bekommt-60-millionen-euro-frisches-kapital/25266338.html), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)

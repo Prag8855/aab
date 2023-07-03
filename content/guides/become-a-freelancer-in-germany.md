@@ -70,8 +70,6 @@ It's hard to [choose the right health insurance](/guides/german-health-insurance
 
 I trust [Feather](/out/feather). I work with them since 2018. I have my health insurance with them. They helped me switch to private insurance and save over 400€ *per month*. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with expats.
 
-To compare health insurance prices, you can use [Tarifcheck](/out/tarifcheck-health). It just shows you prices. It does not help you pick the right insurance.
-
 If you already have German health insurance, tell your insurance company that you are now self-employed. When you have a job, they take health insurance contributions from your paycheck. When you are self-employed, they take the money from your bank account. If you have public health insurance, your monthly payments are based on your *estimated* income.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**

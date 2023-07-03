@@ -60,8 +60,6 @@ If you are not sure, ask a health insurance broker. They will help you choose th
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-If you already know what you need, use [Tarifcheck](/out/tarifcheck-health) to compare health insurance prices.
-
 If you just want health insurance for your visa application, try [Feather](/out/feather-expats) or [Ottonova](/out/ottonova-expats). Many people confirmed that it worked for them. I got my private health insurance from Feather, and often work them. You can trust them.
 
 ### Expat health insurance for German visas
