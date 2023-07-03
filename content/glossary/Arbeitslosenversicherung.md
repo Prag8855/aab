@@ -2,17 +2,23 @@
 Title: What is Arbeitslosenversicherung?
 German_term: Arbeitslosenversicherung
 English_term: Unemployment insurance
-Description: 
+Description: A mandatory insurance for most employees. It pays for unemployment benefits if you lose your job.
 Date_created: 2021-01-18
-Date_updated: 2022-09-08
-Related_guides: guides/find-a-job-in-berlin.md, guides/cost-of-living.md, tools/arbeitslosenversicherung-calculator.md, guides/sabbatical-leave.md
+Related_guides:
+    tools/arbeitslosenversicherung-calculator.md
+    guides/unemployment-benefits.md
+    guides/find-a-job-in-berlin.md
+    guides/cost-of-living.md
+    guides/sabbatical-leave.md
 ---
 
-*Arbeitslosenversicherung* is a tax that German employees pay. It gives you the right to claim [unemployment benefits (*ALG I*)](/glossary/ALG%20I) if you lose your job.
+Unemployment insurance (*Arbeitslosenversicherung*) pays for [unemployment benefits](/glossary/ALG%20I) if you [lose your job](/guides/losing-your-job). If you are an employee, unemployment insurance is mandatory. If you are self-employed, it's optional.[^1]
 
-Most employees must pay for unemployment insurance. It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your salary every month.[^0] If you are self-employed, unemployment insurance is optional.[^1]
+*Arbeitslosenversicherung* costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your salary every month.[^0]
 
 **[Unemployment insurance calculator ➞](/tools/arbeitslosenversicherung-calculator)**
+
+**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 
 [^0]: [tk.de](https://www.tk.de/firmenkunden/versicherung/beitraege-faq/beitragssaetze/aktuelle-beitragssaetze-in-der-sozialversicherung-2031554)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Unemployment_benefits#Unemployment_benefit_I)

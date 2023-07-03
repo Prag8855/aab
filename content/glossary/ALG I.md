@@ -4,12 +4,17 @@ German_term: ALG I
 English_term: Unemployment benefits
 Description: Social benefits given to unemployed people.
 Date_created: 2020-04-07
-Related_guides: guides/unemployment-benefits.md, guides/start-a-business-in-germany.md, guides/german-health-insurance.md, guides/cost-of-living.md, tools/arbeitslosenversicherung-calculator.md
+Related_guides:
+    guides/unemployment-benefits.md
+    guides/start-a-business-in-germany.md
+    guides/german-health-insurance.md
+    guides/cost-of-living.md
+    tools/arbeitslosenversicherung-calculator.md
 ---
 
-Unemployment benefits (*Arbeitslosengeld I* or *ALG I*) is a type of social assistance for unemployed people.
+When you [lose your job](/guides/losing-your-job), you get financial help from the state. It's called *Arbeitslosengeld I* or *ALG I*. You apply for *ALG I* at the *[[Bundesagentur für Arbeit]]*.
 
-You get *ALG I* when you [lose your job](/guides/losing-your-job). You must apply for it at the *[[Bundesagentur für Arbeit]]*. Unemployment benefits are covered by the [unemployment insurance](/glossary/Arbeitslosenversicherung) you pay as an employee. If you are self-employed, unemployment insurance is optional.[^0] This means that most self-employed people can't get *ALG I*.
+You only get *ALG I* if you pay [unemployment insurance](/glossary/Arbeitslosenversicherung). Almost all employees pay for unemployment insurance, because it's mandatory. self-employed people rarely pay for unemployment insurance, because it's optional.
 
 **[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 
