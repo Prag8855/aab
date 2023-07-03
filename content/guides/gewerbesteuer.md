@@ -65,13 +65,15 @@ These businesses do not pay trade tax:
 - **Businesses who earn less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in profit per year**  
     You must [register for the trade tax](/guides/gewerbeschein), but you will pay 0€ in trade tax.[^2]
 
-## When do I pay the Gewerbesteuer?
+## When to pay the Gewerbesteuer
 
 First, you must [register for the trade tax](/guides/gewerbeschein) at the *Gewerbeamt*, and [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*). In Berlin, it costs 15€ to 31€.[^7]
 
-In Berlin, the *[[Finanzamt]]* collects the trade tax once a year.[^1] If you gave the *Finanzamt* a [SEPA debit authorisation](/glossary/SEPA-Lastschriftmandat), they will take the money directly from your bank account.
+In Berlin, the [[IHK]] sends you a *Beitragsbescheid* by post every year.[^1] It tells you how much *Gewerbesteuer* you owe. You have 30 days to pay by [bank transfer](/glossary/SEPA-Überweisung).[^9] You can't automate it with a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^10]
 
-The *Finanzamt* can request advance payments (*Vorauszahlungen*) every quarter:[^6] on February 15, May 15, August 15 and November 15.
+[![Example IHK Beitragsbescheid](/images/ihk-berlin-beitragsbescheid-gewerbesteuer.png "A Beitragsbescheid from the IHK")](/images/ihk-berlin-beitragsbescheid-gewerbesteuer.png)
+
+If you have a high income, the *[[IHK]]* can request advance tax payments (*Vorauszahlungen*) every quarter:[^6] on February 15, May 15, August 15 and November 15.
 
 ## Need help?
 
@@ -94,3 +96,5 @@ If you are [starting a business in Germany](/guides/start-a-business-in-germany)
 [^6]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/121921/)
 [^8]: [consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax), [Wikipedia](https://fr.wikipedia.org/wiki/Gewerbesteuer_\(Allemagne\))
+[^9]: [ihk.de](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124#:~:text=fallig%20wird%20die%20gewerbesteuer%20ebenfalls%20einen%20monat%20nach%20erteilung%20des%20steuerbescheids%2C%20soweit%20sie%20nicht%20bereits%20durch%20vorauszahlungen%20ausgeglichen%20ist.)
+[^10]: [ttc.tax](https://ttc.tax/ihk-berlin-bietet-mitgliedern-keine-teilnahme-am-lastschriftverfahren-an/)
