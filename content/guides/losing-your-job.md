@@ -24,6 +24,8 @@ In Germany, all jobs have a notice period (*[[Kündigungsfrist]]*). You can't qu
 
 The notice period can be very long. You can negotiate a shorter period with your employer.
 
+If you get fired for misconduct, there is often no notice period.
+
 **[How the notice period works ➞](/guides/job-notice-period)**
 
 ### Give your resignation letter
@@ -57,7 +59,7 @@ When you sign a termination agreement...[^19]
 - **You lose dismissal protection** (*Kündigungsschutz*)  
     You can't sue your employer for unlawful dismissal, because you agreed to leave your job. Employers often suggest an *Aufhebungsvertrag* when they have no valid reason to fire you.
 - **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
-    You can agree to leave your job sooner. This is good if you want to start another job soon. It's bad if you need more time.
+    You can agree to leave your job sooner. This is good if you want to start another job soon. It's bad if you need more time to find another job.
 - **You can lose 3 months of [unemployment benefits](/glossary/ALG%20I)**  
     In some cases, you can lose 3 months of *[[ALG I]]*.[^24] It depends on how your *Aufhebungsvertrag* is phrased. See [how unemployment benefits work](/guides/unemployment-benefits).
 - **You can get better severance pay** (*Abfindung*)  
@@ -145,7 +147,7 @@ Your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetz
 
 ### Work visa or Blue Card
 
-After you email the *Ausländerbehörde*, nothing happens. Your residence permit stays valid, and you can stay in Germany.[^12] The *Ausländerbehörde* will give you 6 months to find another job.[^5]
+After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 6 months to find another job.[^5]
 
 If you had your residence permit for at least 2 years, you can start a new job. You don't need to ask the Ausländerbehörde for a new residence permit; just tell them that you have a new job, and include a copy of your new work contract.
 
@@ -218,14 +220,13 @@ The same vacation day rules apply. You can still go on sick leave.
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^4]: [§9 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A)
-[^5]: [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600)
+[^5]: [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/wie-bin-ich-waehrend-einer-sperrzeit-versichert-2005728)
 [^9]: [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=ihr%20aufenthaltstitel%20muss%20geandert%20werden%3F%20dann%20buchen%20sie%20am%20besten%20bitte%20einen%20termin%20zur%20neuaustellung.%20)
 [^10]: [§35 Abs. 4 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__35.html)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
-[^12]: [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first)
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
