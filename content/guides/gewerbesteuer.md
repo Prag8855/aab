@@ -79,13 +79,7 @@ If you have a high income, the *[[IHK]]* can request advance tax payments (*Vora
 
 If you are [starting a business in Germany](/guides/start-a-business-in-germany), you should [hire a tax advisor](/guides/english-speaking-steuerberater-berlin) (*[[Steuerberater]]*). They will help you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), file your taxes, and help you with other business problems.
 
-**Related guides:**
-
-- [Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)
-- [List of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin)
-- [How to start a business in Germany](/guides/start-a-business-in-germany)
-- [How to register for the trade tax](/guides/gewerbeschein)
-- [How to move to Germany and become a freelancer](/guides/become-a-freelancer-in-germany)
+**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/)
 [^1]: [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
