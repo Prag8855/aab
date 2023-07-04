@@ -87,6 +87,14 @@ The letter of reference must clearly explain the type of work you did, and the f
 
 If you worked for more than 6 weeks, you can ask for a qualified reference (*qualifiziertes Arbeitszeugnis*). This version also includes an evaluation of your performance, and the reason you left the company.
 
+### Get an Arbeitsbescheinigung
+
+Ask your employer for an *Arbeitsbescheinigung*. You need it to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
+
+If your employer does not send your *Arbeitsbescheinigung*, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€.[^28]
+
+If it takes too long, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^29] You will get unemployment benefits without your *Arbeitsbescheinigung*. Use the template at the end of [this document](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf).
+
 ### Register as a job seeker
 
 Register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at a *Jobcenter*. You must do this **at least 3 months before your last day of work**.
@@ -240,3 +248,8 @@ The same vacation day rules apply. You can still go on sick leave.
 [^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit)
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)
 [^26]: [kanzlei-chevalier.de](https://www.kanzlei-chevalier.de/blog/abfindungszahlungen-im-ueberblick-ostdeutschland-weiterhin-benachteiligt)
+[^13]: [§312 SGB III](https://www.gesetze-im-internet.de/sgb_3/__312.html), [arbeitsagentur.de](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
+[^28]: [§404 Abs. 19 SGB III](https://www.gesetze-im-internet.de/sgb_3/__404.html), [Section 3.1](https://www.arbeitsagentur.de/datei/dok_ba015896.pdf), [mitfugundrecht.de](http://mitfugundrecht.de/2009/12/als-arbeitgeber-die-arbeitsbescheinigung-nicht-ausstellen-kann-ein-teurer-spas-werden/), [clockodo.com](https://www.clockodo.com/de/lexikon/arbeitsbescheinigung/#:~:text=ein%20bu%C3%9Fgeld%20von%20bis%20zu%202.000%20euro%20), [papershift.com](https://www.papershift.com/lexikon/arbeitsbescheinigung#:~:text=was%20genau%20passiert%2C%20wenn%20der%20arbeitnehmer%20keine%20arbeitsbescheinigung%20von%20seinem%20arbeitgeber%20erhalt%3F), [Reddit](https://old.reddit.com/r/de/comments/skcjwp/chef_r%C3%BCckt_arbeitsbescheinigung_nicht_raus/), [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/14nqnw8/exarbeitgeber_stellt_weder_zeugnis_noch/jqau3os/)
+[^12]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.)
+[^27]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=schadensersatz%20gegenuber%20dem%20arbeitnehmer)
+[^29]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf)
