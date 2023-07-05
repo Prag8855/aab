@@ -16,7 +16,7 @@ It only applies to employees, not freelancers.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Before you leave your job
+## Quitting your job
 
 ### Calculate your notice period
 
@@ -30,29 +30,25 @@ If you get fired for misconduct, there is often no notice period.
 
 ### Give your resignation letter
 
-If you quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter.
+To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
-If you get fired or laid off, your employer must give you a resignation letter.
+If you get fired or laid off, your employer must give you a resignation letter. If you did not choose to leave, don't give a resignation letter.
+
+## Getting fired or laid off
 
 ### Resist your dismissal
 
-**If you get fired or laid off**, and you think your employer is wrong, you have 3 weeks to resist. You must file a *Kündigungsschutzklage*.
+If you get fired or laid off, you have 3 weeks to resist.[^30] You must file a *Kündigungsschutzklage*.
 
 During your [probation period](/glossary/Probezeit), your employer can fire you without a reason. After your probation period, your employer must give a valid reason.
 
-Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. Severance pay in Germany is lower than in North America. You can hire a labour lawyer to negotiate better severance pay.
+Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. Severance pay in Germany is lower than in North America. A labour lawyer can help you negotiate better severance pay.
 
-If you agree and sign a termination agreement (*Aufhebungsvertrag*), you can't resist your dismissal.
+### Do not sign an Aufhebungsvertrag
 
-https://www.kanzlei-hasselbach.de/blog/kuendigungsschutzklage-fristen-kosten-abfindung/
-
-https://www.gesetze-im-internet.de/kschg/__4.html
-
-### Don't sign anything
-
-Your employer can suggest a termination agreement (*Aufhebungsvertrag*). If you sign one, you don't get fired; you agree to leave your job. **This is often a bad idea**.
+Your employer can suggest a termination agreement (*Aufhebungsvertrag*). If you sign one, you don't get fired; you agree to leave your job. This can be a bad idea.
 
 When you sign a termination agreement...[^19]
 
@@ -77,29 +73,37 @@ Your severance pay can affect your unemployment benefits. If it's really high, y
 
 [Conny](/out/conny-abfindung) can help you negotiate a higher severance pay. They speak English.
 
-### Get a letter of reference
-
-Ask your employer for a letter of reference (*[[Arbeitszeugnis]]*). You can ask for it in your [resignation letter](/glossary/Kündigungsschreiben). Your employer can't refuse provide a letter of reference.[^15]
-
-If you are an [[Azubi]], a working student, a temporary worker or a [minijobber](/glossary/Minijob), you also have the right to get a letter of reference.
-
-The letter of reference must clearly explain the type of work you did, and the for how long. Your employer must give you a paper version, not an electronic version. It must not have information about your health, your salary, your other jobs, your union membership, or your political affiliations. Your employer needs your explicit permission to mention why you quit or got fired.[^16]
-
-If you worked for more than 6 weeks, you can ask for a qualified reference (*qualifiziertes Arbeitszeugnis*). This version also includes an evaluation of your performance, and the reason you left the company.
-
-### Get an Arbeitsbescheinigung
-
-Ask your employer for an *Arbeitsbescheinigung*. You need it to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
-
-If your employer does not send your *Arbeitsbescheinigung*, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€.[^28]
-
-If it takes too long, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^29] You will get unemployment benefits without your *Arbeitsbescheinigung*. Use the template at the end of [this document](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf).
+## Before you stop working
 
 ### Register as a job seeker
 
-Register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at a *Jobcenter*. You must do this **at least 3 months before your last day of work**.
+When you know that you will be unemployed, register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. Do this as soon as you can. If you are late, you get less [unemployment benefits](/glossary/ALG%20I).
 
 **[How to register as a job seeker ➞](/guides/unemployment-benefits#register-as-a-job-seeker)**
+
+### Register as unemployed
+
+When you know your last day of work, register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. This is how you get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
+
+**[How to register as unemployed ➞](/guides/unemployment-benefits#register-as-unemployed)**
+
+### Get a letter of reference
+
+A letter of reference (*[[Arbeitszeugnis]]*) is a proof of the work you did for your employer. It can help your [job search](/guides/find-a-job-in-berlin). Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
+
+Your employer is required to give you a letter of reference.[^15] Apprentices, working students, temporary workers and [minijobbers](/glossary/Minijob) can also demand a letter of reference.
+
+The letter must clearly explain the type of work you did, and for how long. Your employer must give you a paper version, not an electronic version. It must not have information about your health, your salary, your other jobs, your union membership, or your political affiliations. Your employer needs your explicit permission to mention why you quit or got fired.[^16]
+
+If you worked for more than 6 weeks, you can demand a qualified reference (*qualifiziertes Arbeitszeugnis*). It includes an evaluation of your performance, and the reason you left the company.
+
+### Get an Arbeitsbescheinigung
+
+You need an *Arbeitsbescheinigung* to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
+
+If your employer refuses to send your *Arbeitsbescheinigung*, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€.[^28] This can take a few weeks.
+
+If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^29] You will get unemployment benefits faster. Use the template at the end of [this document](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf).
 
 ### Tell the Ausländerbehörde
 
@@ -129,17 +133,11 @@ You don't need to inform the *Ausländerbehörde* if...[^4]
 
 ### Tell your health insurance
 
-When you lose your job, you keep your health insurance. The coverage does not change. Only the price can change.[^6]
+When you lose your job, you keep your health insurance. The coverage does not change. Only the price can change.[^6] If you have [private health insurance](/glossary/private%20Krankenversicherung), you might need to switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
 **[What happens to your health insurance ↓](#what-happens-to-your-health-insurance)**
 
 ## After you leave your job
-
-### Register as unemployed
-
-You must register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. You can do this up to 3 months before your last day of work. You must do it **before your second day of unemployment**.
-
-**[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
 ### Make a tax declaration
 
@@ -253,3 +251,4 @@ The same vacation day rules apply. You can still go on sick leave.
 [^12]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.)
 [^27]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=schadensersatz%20gegenuber%20dem%20arbeitnehmer)
 [^29]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf)
+[^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)

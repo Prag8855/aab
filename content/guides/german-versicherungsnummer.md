@@ -46,7 +46,7 @@ If you just moved to Germany, you don't have a *Sozialversicherungsnummer* yet.
 
 You get your *Sozialversicherungsnummer* by post to your German address. It takes 1 to 6 weeks. Most of the time, it takes less than 2 weeks. If you need it now, go to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html).
 
-Your number is printed on a *Sozialversicherungsausweis* in a letter from the [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung). It looks like this:[^5]
+Your number is printed on a *Sozialversicherungsausweis* in a letter from the [*[[Deutsche Rentenversicherung]]*. It looks like this:[^5]
 
 [![Sozialversicherungsausweis2017](/images/sozialversicherungsausweis2017.jpg "Your Sozialversicherungsausweis contains your social security number")](/images/sozialversicherungsausweis2017.jpg)
 
@@ -89,7 +89,7 @@ There are many ways to do this:
 
 ## What are the PANR, BXNR and ZANR numbers?
 
-Some [*Deutsche Rentenversicherung*](/glossary/Deutsche%20Rentenversicherung) forms ask for other numbers:
+Some *[[Deutsche Rentenversicherung]]* forms ask for other numbers:
 
 - **Postabrechnungsnummer für Rentenzahlungen** (*PANR*)  
     3 digits. Your correspondence number or case number, if you have it. If you don't receive a German pension, you usually don't have that number.
