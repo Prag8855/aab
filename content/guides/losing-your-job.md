@@ -46,6 +46,8 @@ During your [probation period](/glossary/Probezeit), your employer can fire you 
 
 Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. Severance pay in Germany is lower than in North America. A labour lawyer can help you negotiate better severance pay.
 
+If you are over 50 years old and plan to retire soon, you can ask for [pension payments instead of severance pay](https://vangard.de/en/news-analysis/blog/pension-contributions-instead-of-severance-pay).
+
 ### Do not sign an Aufhebungsvertrag
 
 Your employer can suggest a termination agreement (*Aufhebungsvertrag*). If you sign one, you don't get fired; you agree to leave your job. This can be a bad idea.
