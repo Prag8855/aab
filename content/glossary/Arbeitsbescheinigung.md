@@ -9,6 +9,6 @@ Related_guides:
     guides/unemployment-benefits.md
 ---
 
-To get unemployment benefits, your last employer must send an *Arbeitsbescheinigung* to the Agentur für Arbeit.
+When you leave a job, your employer must send an employment certificate (*Arbeitsbescheinigung*) to the *[[Agentur für Arbeit]]*. The *[[Agentur für Arbeit]]* needs this to give you *[unemployment benefits](/glossary/ALG%20I)*
 
 **[How to get an Arbeitsbescheinigung ➞](/guides/losing-your-job#get-an-arbeitsbescheinigung)**
