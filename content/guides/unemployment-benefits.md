@@ -72,13 +72,11 @@ You must register as unemployed at the *[[Agentur für Arbeit]]*. This is how yo
 
 Do this in your last 3 months of work, and **before your second day of unemployment**. If you don't register on time, you lose 1 week of unemployment benefits as a punishment (15% of your monthly income).[^4]
 
-### Register for unemployment benefits
-
-...
-
 ## Receiving unemployment benefits
 
-ALG I is paid every month??? by bank transfer. You need a bank account for this.
+ALG I is paid on the first [business day](/glossary/Arbeitstag) of the next month.[^15] For example, if you get ALG I in May, it's paid on June 1.
+
+ALG I is paid by [bank transfer](/glossary/SEPA-Überweisung), so you need a [bank account](/guides/first-bank-account-in-germany).[^16] You do not need a German bank account; just an account that accepts [SEPA transfers](/glossary/SEPA-Überweisung).[^17]
 
 ### Conditions to get ALG I
 
@@ -97,25 +95,19 @@ To get *ALG I*, you must...
 
 If you don't meet those conditions, they can stop paying *ALG I*, sometimes retroactively.[^9]
 
-### Travelling
+### Vacations and travel
 
-When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you need the *Agentur für Arbeit*'s permission. You get 20??? days of vacation from the job search per year.
+When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you must ask the *Agentur für Arbeit*.
+
+??? You get 20 days of vacation from the job search per year, right? ???
 
 People often travel without telling the *Agentur für Arbeit*. Most of the time, they don't notice. If they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits.
 
 ### Sickness and pregnancy
 
-If you are sick, you can take sick days. You must have a note from the doctor.[^10] When you are healthy again, you must tell the *Agentur für Arbeit*. You can also take time off when your children are sick.
+If you are sick, you can take sick days. You need a sick note from a doctor (*[[Krankschreibung]]*).[^10] When you are healthy again, you must tell the *Agentur für Arbeit*. You can also take time off when your children are sick.
 
-For the first 6 weeks, you get ALG I as normal. After 6 weeks, you stop getting ALG I, and you get *[[Krankengeld]]* from your health insurance instead.
-
-???What happens then??
-
-???Link sick days guide???
-
-Taking time off.
-
-It's paid by bank transfer, never in cash. You will need a bank account. ??? Are foreign accounts supported ??
+For the first 6 weeks that you are sick, you get ALG I. After 6 weeks, you stop getting ALG I, and you get *[[Krankengeld]]* from your health insurance instead.
 
 You can get ALG I in another EU/EEA country if you are looking for work there.[^7]
 
@@ -142,3 +134,6 @@ Look for work. ALG I depends on it.
 [^12]: [Section 4.1](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^13]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^14]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
+[^15]: [jobrecht.de](https://www.jobrecht.de/arbeitslosengeld/#Wann-erfolgt-die-Arbeitslosengeld-Auszahlung), [sozialleistungen.info](https://www.sozialleistungen.info/arbeitslosengeld/auszahlung-des-alg-i/)
+[^16]: [sozialleistungen.info](https://www.sozialleistungen.info/arbeitslosengeld/auszahlung-des-alg-i/)
+[^17]: [Section 1.1](https://www.arbeitsagentur.de/datei/fw-sgb3-par-337_ba045449.pdf)
