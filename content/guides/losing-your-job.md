@@ -200,7 +200,7 @@ Your [private health insurance](/glossary/private%20Krankenversicherung) becomes
 - **If you don't get unemployment benefits**
     You keep your private health insurance.[^3] The price stays the same, but your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€.
 
-**[Who gets unemployment benefits? ➞](/guides/unemployment-benefits#who-gets-unemployment-benefits)**
+**[Who can get unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
 
 ## What happens to your pay and bonuses
 
