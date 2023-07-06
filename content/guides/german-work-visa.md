@@ -93,7 +93,7 @@ In this guide, I show you how to get a Blue Card.
 - [ ] **You have German health insurance and a place to stay**  
     You must [find a place to live](/guides/find-a-flat-in-berlin) and [get German health insurance](/guides/german-visa-health-insurance) *before* you apply for the work visa.[^40]
 
-You **do not** need to speak German to get a work visa.
+You **do not** need to speak German to get a work visa. There is no minimum income requirement for the work visa. Your salary must be the same as Germans with the same skills.[^33]
 
 ## EU Blue Card requirements
 
@@ -490,3 +490,4 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 [^63]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)
 [^64]: Jana Köhler from [HalloGermany](https://hallogermany.com/) (July 2022)
 [^65]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
+[^33]: [bmi.bund.de](https://www.bmi.bund.de/EN/topics/migration/immigration/labour-migration/generell-information/general-information-node.html)
