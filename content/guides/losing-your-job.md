@@ -77,6 +77,16 @@ Your severance pay can affect your unemployment benefits. If it's really high, y
 
 ## Before you stop working
 
+- [ ] [Register as a job seeker](#register-as-a-job-seeker) at the *[[Agentur für Arbeit]]*
+- [ ] [Register as unemployed](#register-as-unemployed) at the *[[Agentur für Arbeit]]*
+- [ ] [Tell the *Ausländerbehörde*](#tell-the-auslanderbehorde), if you have a [residence permit](/glossary/Aufenthaltstitel)
+- [ ] [Tell your health insurance](#tell-your-health-insurance)
+- [ ] Get all documents from your employer
+    - [ ] [Letter of reference](#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
+    - [ ] [Employment certificate](#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
+    - [ ] [Vacation certificate](#get-an-urlaubsbescheinigung) (*Urlaubsbescheinigung*)
+    - [ ] [Health certificate](#other-documents) (*Gesundheitszeugnis*), if you work in gastronomy
+
 ### Register as a job seeker
 
 When you know that you will be unemployed, register as a job seeker at the *[[Agentur für Arbeit]]*. Do this as soon as you can. If you are late, you get less [unemployment benefits](/glossary/ALG%20I).
