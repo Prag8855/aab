@@ -4,7 +4,9 @@ German_term: ALG II
 English_term: Welfare
 Description: German welfare. Replaced by Bürgergeld in 2023.
 Date_created: 2020-04-07
-Related_guides: 
+Related_guides:
+    guides/unemployment-benefits.md
+    guides/losing-your-job.md
 ---
 
 Welfare (*Arbeitslosengeld II*, *ALG II* or *Hartz IV*) was a type of financial assistance in Germany. It was replaced by *[[Bürgergeld]]* in 2023.[^1]

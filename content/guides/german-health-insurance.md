@@ -40,12 +40,13 @@ Both systems are good. Each system has advantages and disadvantages.
 
 Your options depend on your occupation and your income:
 
-- **If you are an employee**, your options depend on your income. Your employer does not decide which insurance you can have. If you lose your job, you do not lose your health insurance. 
+- **If you are an employee**, your options depend on your income. Your employer does not decide which insurance you can have. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance. 
     - **If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance.
     - **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.
     - **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0]
     - **If you are a civil servant**, you can choose public or private health insurance.
 - **If you are a student**, you can choose public or private health insurance.[^1] If you are over 30 years old, and you just moved to Germany, you might be forced to get private health insurance.
+- **If you are unemployed**, you can choose public or private health insurance. If you get *[[ALG I]]* or *[[Bürgergeld]]*, you must get public health insurance.
 - **If you are self-employed**, you can choose public or private health insurance.[^1] If you have a low income, private health insurers might reject you.
 - **If you are a doctor**, you can choose public or private health insurance.[^1]
 
@@ -72,12 +73,12 @@ The cost depends on your occupation:
     - **If you make more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year**,[^3] you pay the [maximum price](/glossary/H%C3%B6chstbeitrag) for the self-employed: around {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month.
     - **If you make less than {{GKV_MIN_INCOME|cur}}€ per month**, you pay the minimum price (*[[Mindestbeitrag]]*): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month.[^8]
     - **If you join the [[Künstlersozialkasse]]**, they pay half of your health insurance. You pay 9.2% to 10.3% of your income per month. - [More information](/guides/ksk-kuenstlersozialkasse)
-- **If you are unemployed**,[^9] you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month.[^0] Your parents' or spouse's insurance can cover you for free. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you. If you get [[ALG I]] or [[Bürgergeld]], the government pays for your health insurance.[^10] During your first month of unemployment, your health insurance is free.
+- **If you are unemployed**,[^9] you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month.[^0] Your parents' or spouse's insurance can cover you for free. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you. If you get *[[ALG I]]* or *[[Bürgergeld]]*, the government pays for your health insurance.[^10] During your first month of unemployment, your health insurance is free.
 
 ### Benefits of public health insurance
 
 - **It matches your income**  
-    Public health insurance costs a percentage of your income. If you make less money, you pay less. If you get [[ALG I]] or [[Bürgergeld]], it pays for your health insurance.[^11] Private health insurance does not adjust to your income; you pay the same even if you lose your job.
+    Public health insurance costs a percentage of your income. If you make less money, you pay less. If you get [[ALG I]] or [[Bürgergeld]], it pays for your health insurance.[^11] Private health insurance does not adjust to your income; you pay the same even if you [lose your job](/guides/losing-your-job).
 - **It's cheaper for students**  
     If you are a student, you pay around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month until you are 31 years old.[^0] Public health insurance is usually the best option for students.
 - **It covers your dependents for free**   

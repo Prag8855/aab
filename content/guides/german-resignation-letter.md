@@ -2,10 +2,10 @@
 Title: How to give a resignation letter in Germany
 Short_title: Job resignation letter
 Description: The legal requirements for writing and handing a resignation notice (Kündigungsschreiben) when you quit your job in Germany.
-Date_created: 2023-03-21
+Date_created: 2023-07-06
 ---
 
-When you quit your job in Germany, you must give your employer a resignation letter (*Kündigungsschreiben* or *Kündigungserklärung*). Your resignation is only official when your employer receives your resignation notice.
+When you quit your job in Germany, you must give your employer a resignation letter (*Kündigungsschreiben* or *Kündigungserklärung*). Your resignation is only official when your employer receives this letter.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -35,6 +35,10 @@ Your resignation letter should **not** include:
 - Why you quit your job[^6]
 - What you plan to do next
 - Feedback for your employer or your team
+
+### Language of your resignation letter
+
+If you work in an English-speaking office, you can write your resignation letter in English. It's safer to write it in German.[^9]
 
 ## How to give your resignation letter
 
@@ -70,3 +74,4 @@ When your employer receives your resignation letter, your notice period (*Kündi
 [^6]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=die%20frage%20nach%20dem%20kundigungsgrund)
 [^7]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=Personalnummer%3A%20MM987654-123-,anrede%20(pflicht),-Die%20K%C3%BCndigung%20muss)
 [^8]: [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=zustellung%20der%20kundigung%3A%20am%20besten%20personlich)
+[^9]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023)

@@ -4,7 +4,11 @@ German_term: Kündigungsschreiben
 English_term: Cancellation letter
 Description: A letter you send to end a contract or resign from a job.
 Date_created: 2022-01-13
-Related_guides: guides/moving-out.md, guides/losing-your-job.md, guides/cancel-bvg-yearly-ticket.md
+Related_guides:
+    guides/german-resignation-letter.md
+    guides/moving-out.md
+    guides/losing-your-job.md
+    guides/cancel-bvg-yearly-ticket.md
 ---
 
 In Germany, you end most contracts by sending a cancellation letter (*Kündigungsschreiben*). It's also called a termination notice or resignation letter.

@@ -4,7 +4,8 @@ German_term: Werktag
 English_term: Work day
 Description: Monday to Sunday, including official holidays.
 Date_created: 2022-01-13
-Related_guides: guides/moving-out.md
+Related_guides:
+    guides/moving-out.md
 ---
 
 In Germany, work days (*Werktage*) usually mean Monday to Saturday, excluding official holidays.[^0] This is true for traffic signs, mail delivery, and most other situations.

@@ -6,7 +6,7 @@ Description: Social benefits given to unemployed people.
 Date_created: 2020-04-07
 Related_guides:
     guides/unemployment-benefits.md
-    guides/start-a-business-in-germany.md
+    guides/losing-your-job.md
     guides/german-health-insurance.md
     guides/cost-of-living.md
     tools/arbeitslosenversicherung-calculator.md

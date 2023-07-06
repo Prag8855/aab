@@ -13,7 +13,9 @@ Use my [German tax calculator](/tools/tax-calculator) to see all your social con
 
 ## What is Arbeitslosenversicherung?
 
-If you work in Germany, you must pay for unemployment insurance (*[[Arbeitslosenversicherung]]*). Your employer takes unemployment insurance from your paycheck every month. If you lose your job, you will get unemployment benefits ([[ALG I]]).
+If you work in Germany, you must pay for unemployment insurance (*[[Arbeitslosenversicherung]]*). Your employer takes unemployment insurance from your paycheck every month. If you [lose your job](/guides/losing-your-job), you get unemployment benefits (*[[ALG I]]*).
+
+**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 
 **If you are self-employed**, unemployment insurance is optional. If you don't pay for unemployment insurance, you will not get unemployment benefits.
 

@@ -6,6 +6,7 @@ Description: A mandatory insurance for most employees. It pays for unemployment 
 Date_created: 2021-01-18
 Related_guides:
     tools/arbeitslosenversicherung-calculator.md
+    guides/losing-your-job.md
     guides/unemployment-benefits.md
     guides/find-a-job-in-berlin.md
     guides/cost-of-living.md

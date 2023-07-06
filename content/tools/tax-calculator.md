@@ -71,7 +71,7 @@ If you are self-employed, public pension insurance is usually optional. If you d
 
 ### Unemployment insurance
 
-Unemployment insurance (*[[Arbeitslosenversicherung]]*) pays a percentage of your salary if you lose your job.
+Unemployment insurance (*[[Arbeitslosenversicherung]]*) pays a percentage of your salary if you [lose your job](/guides/losing-your-job).
 
 It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your income.
 

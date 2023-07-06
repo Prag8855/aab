@@ -13,7 +13,7 @@ When you start a new job in Germany, you are in your probation period (*[[Probez
 
 When you start working for a company, you have a 6 month probation period.[^0] Some employers have shorter probation periods, or no probation period at all.
 
-During your probation, it's easier to lose your job. Your employer can fire you without any reason, with a 2 week [notice period](/glossary/K%C3%BCndigungsfrist).[^1] Many people find the probation period stressful, because they are afraid of losing their job.
+During your probation, it's easier to lose your job. Your employer can fire you without any reason, with a 2 week [notice period](/glossary/K%C3%BCndigungsfrist).[^1] Many people find the probation period stressful, because they are afraid of [losing their job](/guides/losing-your-job).
 
 Apprentices ([*Azubis*](/glossary/Azubi)) have a shorter probation: 1 to 4 months.[^2] During their probation, there is no notice period; they can be laid off immediately.
 
@@ -45,6 +45,8 @@ Your employer can't fire you during your pregnancy, and 4 months after you give 
 
 During your probation period, it's easier to quit your job. Your [notice period](/glossary/K%C3%BCndigungsfrist) is only 2 weeks.
 
+**[How to quit your job ➞](/guides/losing-your-job)**
+
 ### Other things you should know
 
 It's harder to get a loan or [find an apartment](/guides/find-a-flat-in-berlin) during your probation period, because you can easily lose your job.[^8] Landlords want tenants that have a stable job. Banks won't give you money if you don't have a stable income.
@@ -60,6 +62,8 @@ Some companies have longer notice periods in their contracts.[^10] 3 month notic
 ### Vacations
 
 After your probation is over, you can use all your vacation days for the year.[^12]
+
+**[Vacation days in Germany ➞](/guides/vacation-days)**
 
 [^0]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
 [^1]: [arbeitsrechte.de](https://www.arbeitsrechte.de/probezeit/#Kuendigung_in_der_Probezeit), [§622 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)

@@ -7,10 +7,11 @@ Date_created: 2021-04-01
 Related_guides:
     guides/learn-german.md
     guides/unemployment-benefits.md
+    guides/losing-your-job.md
     guides/start-a-business-in-germany.md
 ---
 
-The *Bildungsgutschein* is a voucher from the *[[Agentur für Arbeit]]*. It lets unemployed people take language classes and professional training for free.
+The *Bildungsgutschein* is a voucher from the *[[Agentur für Arbeit]]*. It lets unemployed people take language classes and professional training for free. It's a type of [unemployment benefit](/guide/unemployment-benefits).
 
 It's similar to the [AVGS voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein), but it's more for long-term training. It can cover months of training, and even a complete career change.[^0]
 

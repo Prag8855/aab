@@ -116,7 +116,7 @@ After you get your [residence permit](/glossary/Aufenthaltstitel), you can start
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-During your first 6 months, you are in your [probation period](/glossary/Probezeit). During that time, it's easier to lose your job.
+During your first 6 months, you are in your [probation period](/glossary/Probezeit). During that time, it's easier to [lose your job](/guides/losing-your-job).
 
 **[How the probation period works ➞](/guides/probezeit)**
 

@@ -2,7 +2,7 @@
 Title: Unemployment benefits in Germany
 Short_title: Unemployment benefits
 Description: How social benefits work for unemployed people in Germany.
-Date_created: 2023-04-27
+Date_created: 2023-07-06
 ---
 
 This guide shows you how to get unemployment benefits (*[[ALG I]]*) after your [lose your job](/guides/losing-your-job). *ALG I* pays 60% to 67% of your previous salary,[^3] and it pays for your [health insurance](/glossary/Krankenversicherung).
