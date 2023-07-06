@@ -15,14 +15,12 @@ You get *[[ALG I]]* when you [lose your job](/guides/losing-your-job). You must 
 
 You can get unemployment benefits if:[^0]
 
-- **You are unemployed**
-- **You can work**  
+- [ ] **You are unemployed**
+- [ ] **You can work**  
     You are healthy enough to work 15 hours per week.
-- **You pay [unemployment insurance](/glossary/Arbeitslosenversicherung)**  
-    Almost all employees pay for unemployment insurance, but most self-employed people don't.
-- **You paid unemployment insurance for 12 of the last 30 months**[^11]  
-    Unemployment insurance payments in other EU and [[EEA]] countries also count.[^20] Sickness, parenting, short-term employment and other factors can change the rules. If you are not sure, apply for unemployment benefits anyway.
-- **You applied for unemployment benefits**  
+- [ ] **You paid [unemployment insurance](/glossary/Arbeitslosenversicherung) for 12 of the last 30 months**[^11]  
+    Almost all employees pay for unemployment insurance, but most self-employed people don't. Unemployment insurance payments in other EU and [[EEA]] countries also count.[^20] Sickness, parenting, short-term employment and other factors can shorten this period. If you are not sure, apply for unemployment benefits anyway.
+- [ ] **You applied for unemployment benefits**  
     This is not automatic. You must [apply for unemployment benefits](#how-to-apply-for-unemployment-benefits) yourself.
 
 Your immigration status does not affect your unemployment benefits. You can get *ALG I* with a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship.
