@@ -21,9 +21,9 @@ You can get unemployment benefits if:[^0]
 - **You pay [unemployment insurance](/glossary/Arbeitslosenversicherung)**  
     Almost all employees pay for unemployment insurance, but most self-employed people don't.
 - **You paid unemployment insurance for 12 of the last 30 months**[^11]  
-    There are exceptions for sickness, parenting, short-term employment and many other reasons. If you are not sure, apply for unemployment benefits anyway.
+    Unemployment insurance payments in other EU and [[EEA]] countries also count.[^20] Sickness, parenting, short-term employment and other factors can change the rules. If you are not sure, apply for unemployment benefits anyway.
 - **You applied for unemployment benefits**  
-    This is not automatic. I explain [how to apply for unemployment benefits](#how-to-apply-for-unemployment-benefits) below.
+    This is not automatic. You must [apply for unemployment benefits](#how-to-apply-for-unemployment-benefits) yourself.
 
 Your immigration status does not affect your unemployment benefits. You can get *ALG I* with a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship.
 
@@ -52,6 +52,10 @@ During the Sperrzeit, your employment benefits still run out (section 6)
 
 You pay taxes on the money you get: [salary tax](/glossary/Lohnsteuer), [solidarity tax](/glossary/Solidaritätszuschlag) and [pension insurance](/glossary/gesetzliche%20Rentenversicherung).[^6] After taxes, *ALG I* is still around 60% of your [net income](/glossary/Netto%20income).
 
+## How long do unemployment benefits last?
+
+**6 to 12 months**. It depends on how many months of unemployment insurance you paid in the last 5 years. If you are over 50 years old, it can last up to 24 months.[^19]
+
 ## How to apply for unemployment benefits
 
 ### Register as a job seeker
@@ -71,6 +75,8 @@ You must register as unemployed at the *[[Agentur für Arbeit]]*. This is how yo
 **[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
 Do this in your last 3 months of work, and **before your second day of unemployment**. If you don't register on time, you lose 1 week of unemployment benefits as a punishment (15% of your monthly income).[^4]
+
+After you register as unemployed, you get an in-person appointment at the *Jobcenter*. You must prepare and bring many documents.[^18] They might not speak English, so you should bring a translator. I recommend [Red Tape Translation](/out/red-tape-translation).
 
 ## Receiving unemployment benefits
 
@@ -95,11 +101,11 @@ To get *ALG I*, you must...
 
 If you don't meet those conditions, they can stop paying *ALG I*, sometimes retroactively.[^9]
 
-### Vacations and travel
+### Vacations and travels
 
-When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you must ask the *Agentur für Arbeit*.
+When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you must ask the *[[Agentur für Arbeit]]*.
 
-??? You get 20 days of vacation from the job search per year, right? ???
+You can travel to find work in another EU or [[EEA]] country. You must ask the *Agentur für Arbeit* first.[^7]
 
 People often travel without telling the *Agentur für Arbeit*. Most of the time, they don't notice. If they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits.
 
@@ -108,10 +114,6 @@ People often travel without telling the *Agentur für Arbeit*. Most of the time,
 If you are sick, you can take sick days. You need a sick note from a doctor (*[[Krankschreibung]]*).[^10] When you are healthy again, you must tell the *Agentur für Arbeit*. You can also take time off when your children are sick.
 
 For the first 6 weeks that you are sick, you get ALG I. After 6 weeks, you stop getting ALG I, and you get *[[Krankengeld]]* from your health insurance instead.
-
-You can get ALG I in another EU/EEA country if you are looking for work there.[^7]
-
-Students don't get ALG? (2.5)
 
 ## What to do next
 
@@ -126,7 +128,7 @@ Look for work. ALG I depends on it.
 [^4]: [berlin.de](https://www.berlin.de/familie/informationen/arbeitslos-werden-216#:~:text=nach%20Kenntnis%20erfolgen.-,frist%20verpasst%3F,-Wenn%20die%20Arbeitssuchendmeldung)
 [^5]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer#:~:text=wie%20viel%20arbeitslosengeld%20sie%20bekommen)
 [^6]: [Arbeitsagentur ALG I calculator](https://www.pub.arbeitsagentur.de/selbst.php)
-[^7]: [Section 2.4](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
+[^7]: [Section 2.4](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf), [arbeitslosenselbsthilfe.org](https://www.arbeitslosenselbsthilfe.org/alg-1-ausland/)
 [^8]: [Section 2.5](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^9]: [Section 2.4, 2.5](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^10]: [Section 2.5](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
@@ -137,3 +139,6 @@ Look for work. ALG I depends on it.
 [^15]: [jobrecht.de](https://www.jobrecht.de/arbeitslosengeld/#Wann-erfolgt-die-Arbeitslosengeld-Auszahlung), [sozialleistungen.info](https://www.sozialleistungen.info/arbeitslosengeld/auszahlung-des-alg-i/)
 [^16]: [sozialleistungen.info](https://www.sozialleistungen.info/arbeitslosengeld/auszahlung-des-alg-i/)
 [^17]: [Section 1.1](https://www.arbeitsagentur.de/datei/fw-sgb3-par-337_ba045449.pdf)
+[^19]: [bmas.de](https://www.bmas.de/DE/Arbeit/Arbeitslosengeld/Anspruchsdauer/anspruchsdauer.html)
+[^20]: [Agentur für Arbeit](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer)
+[^18]: [arbeitslosenselbsthilfe.org](https://www.arbeitslosenselbsthilfe.org/arbeitslos-melden/#Arbeitslos_melden_%E2%80%93_was_muessen_Sie_mitbringen)

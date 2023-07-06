@@ -81,17 +81,13 @@ If you [quit or lose your job](/guides/losing-your-job), you don't lose your unu
 
 Most of the time, you must use your remaining vacation days during your [notice period](/glossary/Kündigungsfrist).[^10]
 
-### Transfer your unused vacation days
-
 **If you stop working before July 1**, you get 1/12th of your vacation for each full month you worked this year.[^12]
 
 > **Example:** You have 30 vacation days. Your last day of work is April 15, so you worked 3.5 months this year. You can take 3/12 of your vacation days; one for each full month of work. 3 / 12 * 30 = 7.5 vacation days. This rounds up to 8 vacation days. You can use 8 vacation days.
 
-**If you stop working after July 1**, you can use all your vacation days.
+**If you stop working after July 1**, you can use all your remaining vacation days.
 
 > **Example:** You have 30 vacation days. Your last day of work is July 15. You can take 30 vacation days.
-
-In other words, if possible, your last day should be after July 1. ???
 
 ### Get paid for your unused vacation
 
@@ -99,7 +95,7 @@ If you can't use all your vacations before you leave, your employer must pay the
 
 ### Get an Urlaubsbescheinigung
 
-Get an *[[Urlaubsbescheinigung]]* from your employer. If you [find a new job](/glossary/find-a-job-in-berlin), your new employer might ask for it.
+Get an *[[Urlaubsbescheinigung]]* from your employer. If you [find a new job](/glossary/find-a-job-in-berlin), your new employer might ask for it. This is how they know how much vacation days you should have this year.
 
 [^0]: [§1 BUrlG](https://www.gesetze-im-internet.de/burlg/__1.html)
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesurlaubsgesetz#:~:text=im%20fall%20einer%205-tage-woche%20betragt%20der%20gesetzliche%20urlaubsanspruch%20daher%20umgerechnet%2020%20arbeitstage)

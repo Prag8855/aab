@@ -151,7 +151,7 @@ If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit*
 
 ### Get an Urlaubsbescheinigung
 
-A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days to give you.[^34]
+A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days to give you this year.[^34]
 
 Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
@@ -261,8 +261,8 @@ If you don't get unemployment benefits, you should still make a tax declaration.
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
 [^17]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/#:~:text=fur%20empfanger%20von%20arbeitslosengeld%20ubernimmt%20die%20bundesagentur%20fur%20arbeit%20die%20beitrage)
-[^18]: [finanztip.de](https://www.finanztip.de/gkv/nachgehender-leistungsanspruch/)
-[^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [finanztip.de](https://www.finanztip.de/aufhebungsvertrag/#c15632)
+[^18]: [Finanztip](https://www.finanztip.de/gkv/nachgehender-leistungsanspruch/)
+[^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#c15632)
 [^20]: [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#:~:text=dein%20arbeitgeber%20kann%20dich%20nicht%20zwingen)
 [^21]: [§1a KSchG](https://www.gesetze-im-internet.de/kschg/__1a.html)
 [^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/)
@@ -270,11 +270,11 @@ If you don't get unemployment benefits, you should still make a tax declaration.
 [^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit)
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)
 [^26]: [kanzlei-chevalier.de](https://www.kanzlei-chevalier.de/blog/abfindungszahlungen-im-ueberblick-ostdeutschland-weiterhin-benachteiligt)
-[^13]: [§312 SGB III](https://www.gesetze-im-internet.de/sgb_3/__312.html), [arbeitsagentur.de](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
+[^13]: [§312 SGB III](https://www.gesetze-im-internet.de/sgb_3/__312.html), [Agentur für Arbeit](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
 [^28]: [§404 Abs. 19 SGB III](https://www.gesetze-im-internet.de/sgb_3/__404.html), [Section 3.1](https://www.arbeitsagentur.de/datei/dok_ba015896.pdf), [mitfugundrecht.de](http://mitfugundrecht.de/2009/12/als-arbeitgeber-die-arbeitsbescheinigung-nicht-ausstellen-kann-ein-teurer-spas-werden/), [clockodo.com](https://www.clockodo.com/de/lexikon/arbeitsbescheinigung/#:~:text=ein%20bu%C3%9Fgeld%20von%20bis%20zu%202.000%20euro%20), [papershift.com](https://www.papershift.com/lexikon/arbeitsbescheinigung#:~:text=was%20genau%20passiert%2C%20wenn%20der%20arbeitnehmer%20keine%20arbeitsbescheinigung%20von%20seinem%20arbeitgeber%20erhalt%3F), [Reddit](https://old.reddit.com/r/de/comments/skcjwp/chef_r%C3%BCckt_arbeitsbescheinigung_nicht_raus/), [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/14nqnw8/exarbeitgeber_stellt_weder_zeugnis_noch/jqau3os/)
 [^12]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.)
 [^27]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=schadensersatz%20gegenuber%20dem%20arbeitnehmer)
-[^29]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf)
+[^29]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf), [Agentur für Arbeit](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer)
 [^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
 [^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
 [^32]: [karrierebibel.de](https://karrierebibel.de/beendigung-arbeitsverhaeltnis/#:~:text=arbeitnehmer%2C%20die%20in%20der%20lebensmittelbranche%20oder%20gastronomie%20arbeiten)
