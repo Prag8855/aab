@@ -161,28 +161,6 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
-## After you leave your job
-
-### Find a new job
-
-**[How to find a job ➞](/guides/find-a-job-in-berlin)**
-
-You can also start your own business and become self-employed. If you get [unemployment benefits](/glossary/ALG%20I), the *Agentur für Arbeit* helps you with [free training and financial help](/guides/start-a-business-in-germany#step-9-get-financial-help).
-
-**[How to start a business ➞](/guides/start-a-business-in-germany)**
-
-### Make a tax declaration
-
-At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
-
-If you get [unemployment benefits](/glossary/ALG%20I), you *must* make a tax declaration.
-
-If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
-
-**[German tax software ➞](/guides/german-tax-software)**
-
-**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
-
 ## What happens to your residence permit
 
 ### Work visa or Blue Card
@@ -241,6 +219,28 @@ You usually take your unused vacation days during your [notice period](/glossary
 During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
+
+## After you leave your job
+
+### Find a new job
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+You can also start your own business and become self-employed. If you get [unemployment benefits](/glossary/ALG%20I), the *Agentur für Arbeit* helps you with [free training and financial help](/guides/start-a-business-in-germany#step-9-get-financial-help).
+
+**[How to start a business ➞](/guides/start-a-business-in-germany)**
+
+### Make a tax declaration
+
+At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
+
+If you get [unemployment benefits](/glossary/ALG%20I), you *must* make a tax declaration.
+
+If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
+
+**[German tax software ➞](/guides/german-tax-software)**
+
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
 ## Need help?
 
