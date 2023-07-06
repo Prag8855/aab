@@ -77,13 +77,13 @@ Your severance pay can affect your unemployment benefits. If it's really high, y
 
 ### Register as a job seeker
 
-When you know that you will be unemployed, register as a job seeker at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. Do this as soon as you can. If you are late, you get less [unemployment benefits](/glossary/ALG%20I).
+When you know that you will be unemployed, register as a job seeker at the *[[Agentur für Arbeit]]*. Do this as soon as you can. If you are late, you get less [unemployment benefits](/glossary/ALG%20I).
 
 **[How to register as a job seeker ➞](/guides/unemployment-benefits#register-as-a-job-seeker)**
 
 ### Register as unemployed
 
-When you know your last day of work, register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. This is how you get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
+When you know your last day of work, register as unemployed at the *[[Agentur für Arbeit]]*. This is how you get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
 
 **[How to register as unemployed ➞](/guides/unemployment-benefits#register-as-unemployed)**
 
@@ -99,7 +99,7 @@ If you worked for more than 6 weeks, you can demand a qualified reference (*qual
 
 ### Get an Arbeitsbescheinigung
 
-You need an *Arbeitsbescheinigung* to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
+You need an *[[Arbeitsbescheinigung]]* to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
 
 If your employer refuses to send your *Arbeitsbescheinigung*, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€.[^28] This can take a few weeks.
 
@@ -173,7 +173,7 @@ Your health insurance stays the same, but the price can change.
 
 Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) becomes cheaper. Sometimes, it becomes free.
 
-**If you get [unemployment benefits](/glossary/ALG%20I)**, the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* pays for your health insurance.[^17]
+**If you get [unemployment benefits](/glossary/ALG%20I)**, the *[[Agentur für Arbeit]]* pays for your health insurance.[^17]
 
 **If you don't get unemployment benefits**, you must pay around around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).[^7]
 
@@ -184,7 +184,7 @@ In some cases, your health insurance is free for 1 month after you lose your job
 Your [private health insurance](/glossary/private%20Krankenversicherung) becomes twice as expensive, or you get free public health insurance.
 
 - **If you get unemployment benefits**
-    You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* pays for your health insurance.[^1] In some cases, you can keep your private health insurance.[^2]
+    You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance.[^1] In some cases, you can keep your private health insurance.[^2]
 - **If you don't get unemployment benefits**
     You keep your private health insurance.[^3] The price stays the same, but your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€.
 

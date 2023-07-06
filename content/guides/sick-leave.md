@@ -69,7 +69,7 @@ If you have [private health insurance](/glossary/private%20Krankenversicherung),
 
 ### After that
 
-You can get *Krankengeld* for 78 weeks every 3 years. After 6 weeks of sick pay and 78 weeks of *[[Krankengeld]]*, you must go to the *[Arbeitsagentur](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*, and apply for disability benefits.
+You can get *Krankengeld* for 78 weeks every 3 years. After 6 weeks of sick pay and 78 weeks of *[[Krankengeld]]*, you must go to the *[[Agentur für Arbeit]]*, and apply for disability benefits.
 
 Two things can happen:
 
@@ -105,7 +105,7 @@ After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if y
 
 ## Sick leave for the unemployed
 
-If you get [[ALG I]], your job is to look for work. If you are sick, and you can't look for work, you must get a sick note for the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. When you are healthy again, you must tell the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*.
+If you get [[ALG I]], your job is to look for work. If you are sick, and you can't look for work, you must get a sick note for the *[[Agentur für Arbeit]]*. When you are healthy again, you must tell the *[[Agentur für Arbeit]]*.
 
 **[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 

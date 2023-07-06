@@ -54,7 +54,7 @@ Know [how much you should earn](/guides/salaries-in-germany), and [how much taxe
 
 - **[Indeed.com](https://de.indeed.com/jobs?l=Berlin)** - Job search engine. You can filter by language and set alerts.
 - **[LinkedIn](https://www.linkedin.com/jobs/search/?geoId=103620271&location=Berlin)** - Networking website with a big jobs section. Very popular.
-- [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the [Federal Employment Agency](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)
+- [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the *[[Agentur für Arbeit]]*
 - [Talent Berlin](https://talent.berlin/en/jobs/job-search) - Run by the state of Berlin. You can't filter by language.
 - [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language.
 - [Xing](https://www.xing.com/) - Similar to LinkedIn. You can't filter by language.
@@ -102,7 +102,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 - **[Zenjobs](https://www.zenjob.com/en/jobs/jobs-in-berlin/)**
 - [BSIG - Berlin Startup Internships](https://www.facebook.com/groups/BerlinStartupInternships/?ref=group_header) - Facebook group, 10,000+ members
 - [Foreign Young Professionals in Berlin](https://www.facebook.com/groups/1459276421005507/?ref=group_header) - Facebook group, 8,000+ members
-- [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the [Federal Employment Agency](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit). Has a filter for internships.
+- [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the *[[Agentur für Arbeit]]*. Has a filter for internships.
 - [Timeworkers](https://www.timeworkers.de/) (in German) - Temporary jobs
 - [Adecco](https://www.adecco.de//stellenangebote/?k=english&l=berlin&xy=52.5200%2C13.4050&display=15) (in German) - Large temp work agency
 - [Manpower](https://www.manpower.de/de/search) (in German) - Large temp work agency

@@ -50,7 +50,7 @@ You should also tell...
     If you have vehicle or home insurance, tell your insurer about your address change. You can usually do it on their website. You can also contact your insurance broker.
 - [ ] **Your health insurance**  
     You can change your address on your health insurer's online portal, or by asking your insurance broker.
-- [ ] **The [Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)**  
+- [ ] **The [[Agentur für Arbeit]]**  
     If you get *[[ALG I]]* or *[[Bürgergeld]]*, tell your Jobcenter your new address.
 - [ ] **The [[Finanzamt]]**
     - [ ] **If you have a business**  

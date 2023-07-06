@@ -11,7 +11,7 @@ This guide shows you how to get unemployment benefits (*[[ALG I]]*) after your [
 
 ## Who gets unemployment benefits?
 
-You get *[[ALG I]]* when you [lose your job](/guides/losing-your-job). You must apply for *ALG I* at the *[[Bundesagentur für Arbeit]]*.[^1]
+You get *[[ALG I]]* when you [lose your job](/guides/losing-your-job). You must apply for *ALG I* at the *[[Agentur für Arbeit]]*.[^1]
 
 You can get unemployment benefits if:[^0]
 
@@ -38,7 +38,7 @@ There is a *Sperrzeit* when...
 - **You choose to leave your job**  
     This means that you quit your job *without a reason*, or you sign an *Aufhebungsvertrag* with your employer. There are many good reasons to quit: mental health, bad salary, moving for your spouse, and more.[^14]
 - **or you register too late**  
-    If you wait too long to [register as a job seeker](#register-as-a-job-seeker) or [as unemployed](#register-as-unemployed), the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* adds a *Sperrzeit* to punish you.
+    If you wait too long to [register as a job seeker](#register-as-a-job-seeker) or [as unemployed](#register-as-unemployed), the *[[Agentur für Arbeit]]* adds a *Sperrzeit* to punish you.
 - **or you refuse help from the Agentur für Arbeit**[^13]  
     For example, you refuse a job offer, refuse to take recommended training, or refuse to look for work.
 
@@ -56,17 +56,17 @@ You pay taxes on the money you get: [salary tax](/glossary/Lohnsteuer), [solidar
 
 ### Register as a job seeker
 
-Register as seeking employment at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
+Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
 
 **[Register as a job seeker](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
 Do this **at least 3 months before your last day of work**. If that's impossible, then do it within 3 days after you learn that you will be unemployed.[^2] If you don't register on time, you lose 1 week of *ALG I* as a punishment (15% of your monthly income).
 
-After you register as a job seeker, the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)* can help you [find another job](/guides/find-a-job-in-berlin) or [start a business](/guides/start-a-business-in-germany). They also pay for [German classes](/guides/learn-german) and professional training (with the *[[Bildungsgutschein]]*).
+After you register as a job seeker, the *[[Agentur für Arbeit]]* can help you [find another job](/guides/find-a-job-in-berlin) or [start a business](/guides/start-a-business-in-germany). They also pay for [German classes](/guides/learn-german) and professional training (with the *[[Bildungsgutschein]]*).
 
 ### Register as unemployed
 
-You must register as unemployed at the *[Agentur für Arbeit](/glossary/Bundesagentur%20f%C3%BCr%20Arbeit)*. This is how you get *[[ALG I]]*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
+You must register as unemployed at the *[[Agentur für Arbeit]]*. This is how you get *[[ALG I]]*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
 
 **[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
