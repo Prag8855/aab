@@ -3,7 +3,6 @@ Title: How to take vacations in Germany
 Short_title: How to take vacations
 Description: This guides show you how to take vacation days work in Germany. It explains your rights as an employee.
 Date_created: 2022-07-20
-Date_updated: 2022-09-13
 ---
 
 This guide explains how vacations work for employees in Germany.
@@ -23,7 +22,7 @@ In Germany, all employees get paid vacation days.[^0]
 | 5 days per week | 20 days per year      |
 | 6 days per week | 24 days per year      |
 
-If you work 5 days per week, you get at least 20 vacation days per year.[^1] Most full-time employees get 25 to 30 vacation days.[^2] Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
+If you work 5 days per week, you get *at least* 20 vacation days per year.[^1] Most full-time employees get 25 to 30 vacation days.[^2] Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
 
 When you [get a job offer](/guides/find-a-job-in-berlin#step-4-the-job-offer), you can negotiate more vacation days.
 
@@ -74,6 +73,34 @@ If you are sick, you get paid sick leave. You don't need to use your vacation da
 
 **[Sick leave in Germany ➞](/guides/sick-leave)**
 
+## If you change jobs
+
+If you [quit or lose your job](/guides/losing-your-job), you don't lose your unused vacation days (*Resturlaub*).
+
+### Use your vacation days
+
+Most of the time, you must use your remaining vacation days during your [notice period](/glossary/Kündigungsfrist).[^10]
+
+### Transfer your unused vacation days
+
+**If you stop working before July 1**, you get 1/12th of your vacation for each full month you worked this year.[^12]
+
+> **Example:** You have 30 vacation days. Your last day of work is April 15, so you worked 3.5 months this year. You can take 3/12 of your vacation days; one for each full month of work. 3 / 12 * 30 = 7.5 vacation days. This rounds up to 8 vacation days. You can use 8 vacation days.
+
+**If you stop working after July 1**, you can use all your vacation days.
+
+> **Example:** You have 30 vacation days. Your last day of work is July 15. You can take 30 vacation days.
+
+In other words, if possible, your last day should be after July 1. ???
+
+### Get paid for your unused vacation
+
+If you can't use all your vacations before you leave, your employer must pay them to you (*Urlaubsabgeltung*).[^11] This can affect how much *[[ALG I]]* you get.
+
+### Get an Urlaubsbescheinigung
+
+Get an *[[Urlaubsbescheinigung]]* from your employer. If you [find a new job](/glossary/find-a-job-in-berlin), your new employer might ask for it.
+
 [^0]: [§1 BUrlG](https://www.gesetze-im-internet.de/burlg/__1.html)
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesurlaubsgesetz#:~:text=im%20fall%20einer%205-tage-woche%20betragt%20der%20gesetzliche%20urlaubsanspruch%20daher%20umgerechnet%2020%20arbeitstage)
 [^2]: [de.statista.com](https://de.statista.com/statistik/daten/studie/886135/umfrage/urlaubstage-und-feiertage-in-deutschland-nach-bundeslaendern/)
@@ -84,3 +111,6 @@ If you are sick, you get paid sick leave. You don't need to use your vacation da
 [^7]: [§7 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=dringende%20betriebliche%20grunde)
 [^8]: [simplegermany.com](https://www.simplegermany.com/vacation-days-in-germany/#:~:text=if%20you%20work%20in%20a%20team%20with%20parents%20of%20kids%20who%20go%20to%20school), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=arbeitnehmer%20mit%20schulpflichtigen%20kindern)
 [^9]: [Wikipedia](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)
+[^10]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
+[^11]: [§7 Abs. 4 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
+[^12]: [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=wie%20berechnet%20sich%20urlaubsanspruch%20nach%20der%20kundigung%3F), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#Was_geschieht_mit_dem_Resturlaub_nach_einer_Kuendigung)

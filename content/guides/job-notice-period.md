@@ -59,7 +59,11 @@ During your notice period, your employer can make you work, or send you on [gard
 
 If you want to leave sooner, you can negotiate a shorter notice period with your employer.
 
-??? Vacations and notice period ???
+### Unused vacation days
+
+If you have unused vacation days, your employer can force you to use them. You can also transfer unused vacation days to your next employer with an *[[Urlaubsbescheinigung]]*.
+
+**[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
 [^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
 [^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)

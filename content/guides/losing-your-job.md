@@ -24,7 +24,7 @@ In Germany, all jobs have a notice period (*[[Kündigungsfrist]]*). You can't qu
 
 The notice period can be very long. You can negotiate a shorter period with your employer.
 
-If you get fired for misconduct, there is often no notice period.
+If you get fired for misconduct, there is usually no notice period.
 
 **[How the notice period works ➞](/guides/job-notice-period)**
 
@@ -151,9 +151,9 @@ If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit*
 
 ### Get an Urlaubsbescheinigung
 
-A vacation certificate (*Urlaubsbescheinigung*) shows how many vacation days you have, and how many vacation days you already used. Your employer is required to give you this.[^33] Your next employer will need this to give you your unused vacation days.[^34]
+A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days to give you.[^34]
 
-In many cases, your current employer will ask you to use all your vacation days before you leave.
+Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
 **[What happens to your vacation days ↓](#what-happens-to-your-vacation-days)**
 
@@ -236,15 +236,11 @@ If you get a yearly performance bonus, your employer must pay that bonus even if
 
 ## What happens to your unused vacation days
 
-You normally use your last vacation days during your [notice period](/glossary/Kündigungsfrist).[^14]
+You usually take your unused vacation days during your [notice period](/glossary/Kündigungsfrist).[^14] If this not possible, your employer must pay you for the unused vacation days.
 
-Request an *[[Urlaubsbescheinigung]]* from your employer.
+During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
-The same vacation day rules apply. You can still go on sick leave.
-
-**[Vacation days in Germany](/guides/vacation-days)**
-
-**[Sick leave in Germany](/guides/sick-leave)**
+**[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
 ## Need help?
 
@@ -282,5 +278,5 @@ The same vacation day rules apply. You can still go on sick leave.
 [^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
 [^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
 [^32]: [karrierebibel.de](https://karrierebibel.de/beendigung-arbeitsverhaeltnis/#:~:text=arbeitnehmer%2C%20die%20in%20der%20lebensmittelbranche%20oder%20gastronomie%20arbeiten)
-[^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html)
+[^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
