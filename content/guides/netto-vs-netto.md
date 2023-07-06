@@ -3,7 +3,6 @@ Title: Why are there two kinds of Netto in Germany?
 Short_title: Two kinds of Netto
 Description: There are two kinds of Netto supermarkets in Germany. One with a dog logo, and one without. Here's the difference.
 Date_created: 2022-06-06
-Date_updated: 2022-06-06
 ---
 
 In Germany, there are two kinds of Netto supermarkets. They have the same name, but a different logo. **They are different supermarket chains.**

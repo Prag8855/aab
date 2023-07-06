@@ -4,7 +4,6 @@ German_term: Umsatzsteuererklärung
 English_term: VAT declaration
 Description: 
 Date_created: 2022-10-15
-Date_updated: 2022-10-28
 Related_guides: guides/value-added-tax.md
 ---
 

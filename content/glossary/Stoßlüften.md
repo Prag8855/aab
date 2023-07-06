@@ -4,7 +4,6 @@ German_term: Stoßlüften
 English_term: Ventilation
 Description: 
 Date_created: 2022-10-04
-Date_updated: 2022-10-04
 Related_guides: guides/moving-in.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Grüner Punkt
 English_term: Green Dot
 Description: 
 Date_created: 2022-05-17
-Date_updated: 2022-05-17
 Related_guides: guides/sorting-trash-in-germany.md
 ---
 

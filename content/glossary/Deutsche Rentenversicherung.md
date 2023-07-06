@@ -4,7 +4,6 @@ German_term: Deutsche Rentenversicherung
 English_term: German public pension office
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-08-26
 Related_guides: guides/german-versicherungsnummer.md, guides/pension-payments-refund.md
 ---
 

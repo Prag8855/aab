@@ -4,7 +4,6 @@ German_term: Minijob
 English_term: 
 Description: 
 Date_created: 2018-12-14
-Date_updated: 2022-06-06
 Related_guides: guides/fragebogen-zur-steuerlichen-erfassung.md, guides/german-health-insurance.md
 ---
 

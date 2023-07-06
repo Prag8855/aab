@@ -13,7 +13,7 @@ In most cases, the [[Deutschland Ticket]] is a better deal than the 10-Uhr-Karte
 
 The 10-Uhr-Karte is valid on all buses, trams and trains in Berlin, just like other public transit tickets. You can buy a 10-Uhr-Karte for zones A and B, or for zones A, B and C.
 
-**[Tariff zones on Berlin public transit ➞](/guides/public-transit#choose-the-right-tariff-zone)**
+**[Tariff zones on Berlin public transit ➞](/guides/public-transit#tariff-zones)**
 
 ## When can I use the 10-Uhr-Karte?
 

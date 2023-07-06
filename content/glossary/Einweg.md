@@ -4,7 +4,6 @@ German_term: Einweg
 English_term: Single-use container
 Description: 
 Date_created: 2018-10-27
-Date_updated: 2022-12-21
 Related_guides: guides/pfand-bottles.md
 ---
 

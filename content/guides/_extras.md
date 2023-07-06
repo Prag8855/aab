@@ -3,7 +3,6 @@ Title: Random tips
 Short_title: Random tips
 Description: 
 Date_created: 2022-03-08
-Date_updated: 2023-01-29
 ---
 
 - If you can't find an app in the app store, you probably need to change your app store country. Some apps are only available in the German app store.

@@ -3,7 +3,6 @@ Title: Cinemas with English movies in Berlin
 Short_title: Where to watch movies in English?
 Description: This guide helps you find cinemas that play movies in English in Berlin.
 Date_created: 2017-09-28
-Date_updated: 2022-04-07
 Related_places:
     places/b-ware-ladenkino.md
     places/babylon.md

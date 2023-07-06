@@ -4,7 +4,6 @@ German_term: Blue Card
 English_term: 
 Description: 
 Date_created: 2019-09-03
-Date_updated: 2022-02-07
 Related_guides: guides/find-a-job-in-berlin.md, guides/berlin-auslanderbehorde-appointment.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/moving-to-berlin.md, guides/german-work-visa-to-freelance-visa.md, guides/german-work-visa.md, guides/german-visa-health-insurance.md, guides/residence-permit.md
 ---
 

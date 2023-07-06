@@ -4,7 +4,6 @@ German_term: Meldebescheinigung zur Sozialversicherung
 English_term: Social contribution certificate
 Description: 
 Date_created: 2020-11-05
-Date_updated: 2022-04-20
 Related_guides: guides/german-versicherungsnummer.md, guides/pension-payments-refund.md
 ---
 

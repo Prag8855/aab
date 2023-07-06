@@ -4,7 +4,6 @@ German_term: ARD ZDF Deutschlandradio Beitragsservice
 English_term: ARD ZDF and Deutschlandradio collection service
 Description: 
 Date_created: 2022-02-25
-Date_updated: 2022-04-20
 Related_guides: guides/gez-rundfunkbeitrag.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Umsatz
 English_term: Revenue
 Description: 
 Date_created: 2021-01-19
-Date_updated: 2022-04-20
 Related_guides: guides/freiberufler-or-gewerbe.md, guides/gewerbesteuer.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Postleitzahl
 English_term: Post code
 Description: 
 Date_created: 2020-12-17
-Date_updated: 2022-09-24
 Related_guides: guides/start-a-business-in-germany.md, guides/hundesteuer.md
 ---
 

@@ -4,7 +4,6 @@ German_term: private Krankenversicherung
 English_term: Private health insurance
 Description: 
 Date_created: 2018-11-30
-Date_updated: 2022-06-08
 Related_guides: guides/german-health-insurance.md, guides/insurance.md, guides/german-versicherungsnummer.md, guides/bafin-approved-insurance.md, guides/techniker-krankenkasse-review.md, guides/ottonova-review.md, guides/german-visa-health-insurance.md, guides/eyeglasses.md, tools/health-insurance-calculator.md
 ---
 

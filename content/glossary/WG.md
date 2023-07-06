@@ -4,7 +4,6 @@ German_term: WG
 English_term: Shared apartment
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-06-09
 Related_guides: guides/find-a-flat-in-berlin.md
 ---
 

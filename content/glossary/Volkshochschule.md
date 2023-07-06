@@ -4,7 +4,6 @@ German_term: Volkshochschule
 English_term: Community college
 Description: 
 Date_created: 2021-04-01
-Date_updated: 2022-04-20
 Related_guides: guides/learn-german.md
 ---
 

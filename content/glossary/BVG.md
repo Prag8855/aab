@@ -4,7 +4,6 @@ German_term: BVG
 English_term: Berlin public transit company
 Description: 
 Date_created: 2017-08-31
-Date_updated: 2022-08-26
 Related_guides: guides/bvg-10-uhr-karte.md, guides/berlin-bvg-font.md, guides/visit-berlin.md, guides/paying-a-bvg-fine.md, guides/cancel-bvg-yearly-ticket.md, guides/lost-and-found-berlin.md, guides/germany-sign-fonts.md, guides/public-transit.md
 ---
 

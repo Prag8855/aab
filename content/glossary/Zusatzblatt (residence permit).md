@@ -4,7 +4,6 @@ German_term: Zusatzblatt (residence permit)
 English_term: Additional information sheet
 Description: 
 Date_created: 2022-01-21
-Date_updated: 2022-04-20
 Related_guides: guides/german-work-visa-to-freelance-visa.md, guides/ksk-kuenstlersozialkasse.md
 ---
 

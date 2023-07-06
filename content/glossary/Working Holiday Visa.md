@@ -4,7 +4,6 @@ German_term: Working Holiday Visa
 English_term: 
 Description: 
 Date_created: 2019-07-13
-Date_updated: 2022-02-07
 Related_guides: guides/moving-to-berlin.md, guides/german-work-visa.md, guides/residence-permit.md
 ---
 

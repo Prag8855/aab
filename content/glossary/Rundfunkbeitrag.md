@@ -4,7 +4,6 @@ German_term: Rundfunkbeitrag
 English_term: TV tax
 Description: 
 Date_created: 2017-10-10
-Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md, guides/gez-rundfunkbeitrag.md, guides/moving-out.md, guides/moving-in.md
 ---
 

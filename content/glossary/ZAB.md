@@ -4,7 +4,6 @@ German_term: ZAB
 English_term: Central Ordnungsamt hotline
 Description: 
 Date_created: 2021-04-13
-Date_updated: 2022-04-20
 Related_guides: guides/emergency-numbers.md
 ---
 

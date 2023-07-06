@@ -61,7 +61,7 @@ Tourists can buy a Deutschland Ticket from [mo.pla](https://www.mopla.solutions/
 
 It can be easier to buy a regular daily, weekly or monthly ticket. You can buy those from a ticket machine at the train station. You can pay with cash or credit cards.
 
-**[Where to buy regular tickets ➞](/guides/public-transit#where-to-buy-tickets)**
+**[Where to buy regular tickets ➞](/guides/public-transit#where-to-buy-a-ticket)**
 
 ## How to cancel a Deutschland Ticket subscription
 

@@ -4,7 +4,6 @@ German_term: Postident
 English_term: Identity verification by post
 Description: 
 Date_created: 2020-03-10
-Date_updated: 2022-05-04
 Related_guides: guides/first-bank-account-in-germany.md, guides/german-banks-no-address.md
 ---
 

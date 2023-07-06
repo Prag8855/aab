@@ -4,7 +4,6 @@ German_term: Nebenerwerb
 English_term: Side business
 Description: 
 Date_created: 2021-05-17
-Date_updated: 2022-04-20
 Related_guides: guides/gewerbeschein.md
 ---
 

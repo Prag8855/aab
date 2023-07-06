@@ -4,7 +4,6 @@ German_term: Student visa
 English_term: 
 Description: 
 Date_created: 2019-08-07
-Date_updated: 2022-02-07
 Related_guides: guides/find-a-job-in-berlin.md, guides/moving-to-berlin.md, guides/german-work-visa.md, guides/residence-permit.md
 ---
 

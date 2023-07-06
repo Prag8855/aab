@@ -4,7 +4,6 @@ German_term: IBAN
 English_term: International Bank Account Number
 Description: 
 Date_created: 2018-10-23
-Date_updated: 2022-08-21
 Related_guides: guides/gez-rundfunkbeitrag.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Zusatzbeitrag
 English_term: Extra insurance contribution
 Description: 
 Date_created: 2021-02-01
-Date_updated: 2022-04-20
 Related_guides: guides/german-health-insurance.md, guides/cost-of-living.md
 ---
 

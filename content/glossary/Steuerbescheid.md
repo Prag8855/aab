@@ -4,7 +4,6 @@ German_term: Steuerbescheid
 English_term: Tax assessment
 Description: 
 Date_created: 2021-01-27
-Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md, guides/renew-german-freelance-visa.md, guides/ksk-kuenstlersozialkasse.md
 ---
 

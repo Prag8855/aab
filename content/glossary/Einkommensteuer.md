@@ -4,7 +4,6 @@ German_term: Einkommensteuer
 English_term: Income tax
 Description: A tax all German residents must pay. It's a percentage of their total income.
 Date_created: 2018-10-17
-Date_updated: 2022-12-21
 Related_guides: guides/anmeldung-in-english-berlin.md, guides/become-a-freelancer-in-germany.md, guides/gewerbesteuer.md, guides/cost-of-living.md, tools/tax-calculator.md, guides/salaries-in-germany.md
 ---
 

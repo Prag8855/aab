@@ -4,7 +4,6 @@ German_term: Rechtsschutzversicherung
 English_term: Legal protection insurance
 Description: 
 Date_created: 2018-09-28
-Date_updated: 2022-04-20
 Related_guides: guides/become-a-freelancer-in-germany.md, guides/haftpflichtversicherung.md, guides/insurance.md, guides/mietendeckel-repealed.md, guides/legal-insurance.md
 ---
 

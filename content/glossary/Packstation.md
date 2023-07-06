@@ -4,7 +4,6 @@ German_term: Packstation
 English_term: Package pickup station
 Description: 
 Date_created: 2019-02-10
-Date_updated: 2022-10-05
 Related_guides: guides/package-delivery.md
 ---
 

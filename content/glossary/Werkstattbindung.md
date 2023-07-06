@@ -4,7 +4,6 @@ German_term: Werkstattbindung
 English_term: Garage restriction
 Description: 
 Date_created: 2020-08-11
-Date_updated: 2022-04-20
 Related_guides: guides/car-insurance-germany.md
 ---
 

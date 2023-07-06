@@ -4,7 +4,6 @@ German_term: Hundesteuer
 English_term: Dog tax
 Description: 
 Date_created: 2020-12-17
-Date_updated: 2022-04-20
 Related_guides: guides/abmeldung-deregister-in-berlin.md, guides/moving-out.md, guides/pet-ownership.md, guides/hundesteuer.md
 ---
 

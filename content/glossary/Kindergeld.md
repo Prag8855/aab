@@ -4,7 +4,6 @@ German_term: Kindergeld
 English_term: Child allowance
 Description: 
 Date_created: 2022-02-16
-Date_updated: 2022-05-24
 Related_guides: guides/german-tax-id-steuernummer.md
 ---
 

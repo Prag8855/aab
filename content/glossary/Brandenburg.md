@@ -4,7 +4,6 @@ German_term: Brandenburg
 English_term: 
 Description: 
 Date_created: 2021-06-18
-Date_updated: 2022-02-08
 Related_guides: guides/find-a-flat-in-berlin.md, guides/public-transit.md
 ---
 

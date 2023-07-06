@@ -4,7 +4,6 @@ German_term: freiwillig versichert
 English_term: Voluntarily insured
 Description: 
 Date_created: 2019-02-14
-Date_updated: 2022-04-20
 Related_guides: guides/german-health-insurance.md
 ---
 

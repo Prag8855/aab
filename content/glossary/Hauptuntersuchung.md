@@ -4,7 +4,6 @@ German_term: Hauptuntersuchung
 English_term: Vehicle inspection
 Description: 
 Date_created: 2021-01-17
-Date_updated: 2022-04-20
 Related_guides: guides/buying-used-car-in-germany.md, guides/car-cost-of-ownership-germany.md
 ---
 

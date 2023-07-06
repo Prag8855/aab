@@ -4,7 +4,6 @@ German_term: Gewinn
 English_term: Profit
 Description: 
 Date_created: 2021-01-19
-Date_updated: 2022-09-21
 Related_guides: guides/freiberufler-or-gewerbe.md, guides/gewerbesteuer.md
 ---
 

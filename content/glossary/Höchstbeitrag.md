@@ -4,7 +4,6 @@ German_term: Höchstbeitrag
 English_term: Maximum health insurance contribution
 Description: 
 Date_created: 2019-01-31
-Date_updated: 2022-10-09
 Related_guides: guides/german-health-insurance.md
 ---
 

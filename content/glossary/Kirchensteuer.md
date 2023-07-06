@@ -4,7 +4,6 @@ German_term: Kirchensteuer
 English_term: Church tax
 Description: 
 Date_created: 2018-08-15
-Date_updated: 2022-06-15
 Related_guides: guides/anmeldung-in-english-berlin.md, guides/cost-of-living.md
 ---
 

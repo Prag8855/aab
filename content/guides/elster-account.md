@@ -126,7 +126,7 @@ In a few minutes, you will receive an email with an activation ID (*Aktivierungs
 
 [![Screenshot of step to activate an ELSTER account](/images/elster-first-login-03.png)](/images/elster-first-login-03.png)
 
-- Telephone number (*Telefon*) - see *[How to write German phone numbers](/guides/dial-phone-numbers-germany#how-to-write-german-phone-numbers)*
+- Telephone number (*Telefon*) - see *[How to write German phone numbers](/guides/dial-phone-numbers-germany)*
 - Tax number (*[[Steuernummer]]*) - If you already have a [tax number](/glossary/Steuernummer) (this is not the same as the [tax ID](/glossary/Steueridentifikationsnummer)), select your state, and enter your tax number.
 
 [![Screenshot of step to activate an ELSTER account](/images/elster-first-login-04.png)](/images/elster-first-login-04.png)

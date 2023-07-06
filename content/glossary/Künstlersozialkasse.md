@@ -4,7 +4,6 @@ German_term: Künstlersozialkasse
 English_term: Artists' Social Security Fund
 Description: 
 Date_created: 2020-02-22
-Date_updated: 2022-07-19
 Related_guides: guides/german-health-insurance.md, guides/saving-money-germany.md, guides/ksk-kuenstlersozialkasse.md
 ---
 

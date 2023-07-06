@@ -4,7 +4,6 @@ German_term: Mietbürgschaft
 English_term: Rent payment sponsor
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-08-03
 Related_guides: guides/find-a-flat-in-berlin.md
 ---
 

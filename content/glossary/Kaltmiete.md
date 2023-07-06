@@ -4,7 +4,6 @@ German_term: Kaltmiete
 English_term: Cold rent
 Description: The rent you pay, before utilities are included.
 Date_created: 2018-08-21
-Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md, guides/mietkaution.md
 ---
 

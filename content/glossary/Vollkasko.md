@@ -4,7 +4,6 @@ German_term: Vollkasko
 English_term: Comprehensive insurance cover
 Description: 
 Date_created: 2018-12-12
-Date_updated: 2022-04-20
 Related_guides: guides/insurance.md, guides/car-insurance-germany.md
 ---
 

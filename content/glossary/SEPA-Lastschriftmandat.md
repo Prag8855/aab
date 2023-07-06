@@ -4,7 +4,6 @@ German_term: SEPA-Lastschriftmandat
 English_term: SEPA payment authorisation
 Description: 
 Date_created: 2019-01-13
-Date_updated: 2022-04-20
 Related_guides: guides/gez-rundfunkbeitrag.md, guides/buying-used-car-in-germany.md, guides/pet-ownership.md
 ---
 

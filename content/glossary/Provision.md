@@ -4,7 +4,6 @@ German_term: Provision
 English_term: Agent fee
 Description: 
 Date_created: 2018-08-21
-Date_updated: 2022-12-13
 Related_guides: guides/find-a-flat-in-berlin.md
 ---
 

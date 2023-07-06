@@ -3,7 +3,6 @@ Title: How to get tested for sexually transmitted diseases in Berlin
 Short_title: How to get tested for HIV and STIs
 Description: This is how you get tested for HIV, herpes, chlamydia and other STDs in Berlin.
 Date_created: 2021-11-25
-Date_updated: 2023-01-29
 ---
 
 This guide shows you how to get tested for sexually transmitted diseases (*sexuell übertragbare Infektionen* or *Geschlechtskrankheiten*) in Berlin. In this guide, I use the term "STI" (for Sexually Transmitted Infections).

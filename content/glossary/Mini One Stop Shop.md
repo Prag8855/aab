@@ -4,7 +4,6 @@ German_term: Mini One Stop Shop
 English_term: 
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-11-02
 Related_guides: guides/fragebogen-zur-steuerlichen-erfassung.md, guides/value-added-tax.md
 ---
 

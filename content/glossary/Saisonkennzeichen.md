@@ -4,7 +4,6 @@ German_term: Saisonkennzeichen
 English_term: Seasonal licence plates
 Description: 
 Date_created: 2019-01-08
-Date_updated: 2022-04-20
 Related_guides: guides/motorcycle-parking.md, guides/buying-used-car-in-germany.md, guides/car-insurance-germany.md
 ---
 

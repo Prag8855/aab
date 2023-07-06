@@ -4,7 +4,6 @@ German_term: DSGVO
 English_term: General Data Protection Regulation
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-04-20
 Related_guides: guides/website-compliance-germany.md
 ---
 

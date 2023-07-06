@@ -4,7 +4,6 @@ German_term: Buchhalter
 English_term: Bookkeeper
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-04-20
 Related_guides: guides/english-speaking-steuerberater-berlin.md, guides/steuerberater-vs-buchhalter.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Azubi
 English_term: Apprentice
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-04-20
 Related_guides: guides/gez-rundfunkbeitrag.md, guides/german-health-insurance.md
 ---
 

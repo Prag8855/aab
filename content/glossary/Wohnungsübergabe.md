@@ -4,7 +4,6 @@ German_term: Wohnungsübergabe
 English_term: Apartment handover
 Description: 
 Date_created: 2020-06-12
-Date_updated: 2022-04-20
 Related_guides: guides/moving-out.md
 ---
 

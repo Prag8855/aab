@@ -4,7 +4,6 @@ German_term: Schadenfreiheitsklasse
 English_term: Insurance class for drivers
 Description: 
 Date_created: 2020-08-10
-Date_updated: 2022-04-20
 Related_guides: guides/car-insurance-germany.md
 ---
 

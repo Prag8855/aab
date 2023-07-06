@@ -4,7 +4,6 @@ German_term: Pfand
 English_term: Deposit
 Description: Pfand is the deposit you pay on some bottles in Germany. When you return the bottle, you get the deposit back.
 Date_created: 2018-10-27
-Date_updated: 2022-05-17
 Related_guides: guides/sorting-trash-in-germany.md, guides/pfand-bottles.md
 ---
 

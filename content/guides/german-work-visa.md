@@ -348,7 +348,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 - [ ] **Your job contract** (*Arbeitsvertrag*)  
     Bring the original, not a copy.[^12]
 - [ ] **Proof of health insurance coverage in Germany**  
-    - [ ] **Mitgliedsbescheinigung**
+    - [ ] **Mitgliedsbescheinigung**  
         You can get this document from your health insurance company.[^53] If you have public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
     - [ ] **Health insurance card**, if you have one.
     - [ ] **Proof of health insurance payments**  
@@ -475,7 +475,6 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 [^45]: [Arbeitsagentur](https://www.arbeitsagentur.de/en/german-labour-market)
 [^46]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/steuer-id-zu-spaet-abgegeben)
 [^47]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/fychwb/i_am_a_noneu_national_that_successfully_got_an/)
-[^48]: [berlin.de](https://service.berlin.de/dienstleistung/324659/standort/327437/en/)
 [^49]: [immigrate-to-germany.blogspot.com](http://web.archive.org/web/20200803225320/http://immigrate-to-germany.blogspot.com/2018/08/germany-employment-visa-or-work-permit-interview-questions-and-experience.html)
 [^51]: [afghanistan.diplo.de](https://afghanistan.diplo.de/blob/2162330/29c38f0a4c71b49d53b2605799224228/eng-merkblatt-erwerbstaetigkeit-data.pdf)
 [^52]: [berlin.de](https://service.berlin.de/standort/121885/)
@@ -491,4 +490,3 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 [^63]: [§18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0403)
 [^64]: Jana Köhler from [HalloGermany](https://hallogermany.com/) (July 2022)
 [^65]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
-[^66]: Alexander von Engelhardt, [immigration lawyer](https://www.vonengelhardt.com/en/) (January 2023)

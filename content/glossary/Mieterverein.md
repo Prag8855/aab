@@ -4,7 +4,6 @@ German_term: Mieterverein
 English_term: Tenant association
 Description: 
 Date_created: 2020-02-02
-Date_updated: 2022-06-09
 Related_guides: guides/moving-in.md, guides/wenigermiete-review.md, guides/mietendeckel-repealed.md, guides/legal-insurance.md
 ---
 

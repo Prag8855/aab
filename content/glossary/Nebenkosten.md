@@ -4,7 +4,6 @@ German_term: Nebenkosten
 English_term: Utility costs
 Description: The Nebenkosten are what you pay every month for hot water, central heating, trash collection, etc.
 Date_created: 2018-08-21
-Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md, guides/mietkaution.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Umsatzsteuervoranmeldung
 English_term: Advance VAT return
 Description: 
 Date_created: 2022-10-15
-Date_updated: 2022-10-21
 Related_guides: guides/value-added-tax.md
 ---
 

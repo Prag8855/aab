@@ -4,7 +4,6 @@ German_term: Expat health insurance
 English_term: 
 Description: A type of short-term health insurance that's useful when applying for a German residence permit.
 Date_created: 2020-02-21
-Date_updated: 2022-06-08
 Related_guides: guides/german-health-insurance.md, guides/german-visa-health-insurance.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Lebensversicherung
 English_term: Life insurance
 Description: 
 Date_created: 2018-12-12
-Date_updated: 2022-04-20
 Related_guides: guides/insurance.md
 ---
 

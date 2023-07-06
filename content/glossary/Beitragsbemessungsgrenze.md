@@ -4,7 +4,6 @@ German_term: Beitragsbemessungsgrenze
 English_term: Contribution assessment ceiling
 Description: 
 Date_created: 2022-02-14
-Date_updated: 2022-12-12
 Related_guides: tools/arbeitslosenversicherung-calculator.md, guides/ksk-kuenstlersozialkasse.md
 ---
 

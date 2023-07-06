@@ -4,7 +4,6 @@ German_term: Deckungszusage
 English_term: Insurance cover note
 Description: 
 Date_created: 2021-09-18
-Date_updated: 2022-04-20
 Related_guides: guides/legal-insurance.md
 ---
 

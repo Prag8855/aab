@@ -4,7 +4,6 @@ German_term: Pflichtversichert
 English_term: Compulsorily insured
 Description: It means that you must get public health insurance. Private health insurance is not an option.
 Date_created: 2019-02-14
-Date_updated: 2022-10-08
 Related_guides: guides/german-health-insurance.md
 ---
 

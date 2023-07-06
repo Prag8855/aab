@@ -4,7 +4,6 @@ German_term: Grüne Karte
 English_term: Insurance green card
 Description: 
 Date_created: 2020-08-11
-Date_updated: 2022-04-20
 Related_guides: guides/car-insurance-germany.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Krankenkasse
 English_term: Health insurance fund
 Description: 
 Date_created: 2019-03-19
-Date_updated: 2022-10-07
 Related_guides: guides/techniker-krankenkasse-review.md
 ---
 

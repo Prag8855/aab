@@ -4,7 +4,6 @@ German_term: Mindestlohn
 English_term: Minimum wage
 Description: 
 Date_created: 2022-01-18
-Date_updated: 2023-01-04
 Related_guides: guides/find-a-job-in-berlin.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Hundehaftpflichtversicherung
 English_term: Dog liability insurance
 Description: Insurance that covers damage caused by your dog.
 Date_created: 2020-12-16
-Date_updated: 2022-05-05
 Related_guides: guides/haftpflichtversicherung.md, guides/insurance.md, guides/pet-ownership.md, guides/hundesteuer.md
 ---
 

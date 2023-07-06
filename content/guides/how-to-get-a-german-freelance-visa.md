@@ -271,7 +271,7 @@ Your temporary visa is usually valid for 6 months. You must go to the *[[Auslän
 
 These documents are required for your freelance visa application.
 
-Your documents can be in English, but it's better if they are in German. If they are not in English or German, you might need a translation. For official documents like certificates and diplomas, you need a [[certified translation]].
+Your documents can be in English, but it's better if they are in German. If they are not in English or German, you might need a translation. For official documents like certificates and diplomas, you need a [certified translation](/glossary/beglaubigte%20Übersetzung).
 
 Some interviewers will look at every document. Some interviewers will ignore most of the documents. It's important to be prepared, but don't worry too much about every detail.
 

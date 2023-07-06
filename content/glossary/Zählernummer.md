@@ -4,7 +4,6 @@ German_term: Zählernummer
 English_term: Electricity meter number
 Description: Each electricity meter has a unique number called the Zählernummer.
 Date_created: 2020-01-03
-Date_updated: 2022-05-30
 Related_guides: guides/moving-out.md, guides/moving-in.md
 ---
 

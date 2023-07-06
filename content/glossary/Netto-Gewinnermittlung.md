@@ -4,7 +4,6 @@ German_term: Netto-Gewinnermittlung
 English_term: Net profit assessment
 Description: 
 Date_created: 2021-02-08
-Date_updated: 2022-04-20
 Related_guides: guides/steuerberater-vs-buchhalter.md, guides/renew-german-freelance-visa.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Einbauküche
 English_term: Built-in kitchen
 Description: Cabinets, a sink and a stove that comes with the apartment.
 Date_created: 2019-09-30
-Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md
 ---
 

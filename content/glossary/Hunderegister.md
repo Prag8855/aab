@@ -4,7 +4,6 @@ German_term: Hunderegister
 English_term: Dog registry
 Description: 
 Date_created: 2022-02-28
-Date_updated: 2022-04-20
 Related_guides: guides/pet-ownership.md, guides/hundesteuer.md
 ---
 

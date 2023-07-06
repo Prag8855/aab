@@ -4,7 +4,6 @@ German_term: Au pair visa
 English_term: 
 Description: 
 Date_created: 2021-06-03
-Date_updated: 2022-02-07
 Related_guides: guides/moving-to-berlin.md, guides/residence-permit.md
 ---
 

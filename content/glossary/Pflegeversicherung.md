@@ -4,7 +4,6 @@ German_term: Pflegeversicherung
 English_term: Nursing care insurance
 Description: 
 Date_created: 2018-12-11
-Date_updated: 2022-10-08
 Related_guides: guides/german-health-insurance.md
 ---
 

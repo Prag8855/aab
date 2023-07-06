@@ -4,7 +4,6 @@ German_term: Umsatzsteuernummer
 English_term: VAT number
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-10-28
 Related_guides: guides/german-tax-id-steuernummer.md, guides/how-to-get-a-german-freelance-visa.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/start-a-business-in-germany.md, guides/value-added-tax.md
 ---
 

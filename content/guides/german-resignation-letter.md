@@ -64,9 +64,6 @@ When your employer receives your resignation letter, your notice period (*Kündi
 **[How to quit your job in Germany](/guides/losing-your-job)**
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
-[^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
-[^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
-[^4]: [§113 InsO](https://www.gesetze-im-internet.de/inso/__113.html), [juraforum.de](https://www.juraforum.de/gesetze/bgb/622-kuendigungsfristen-bei-arbeitsverhaeltnissen), [Finanztip](https://www.finanztip.de/arbeitsrecht-kuendigungsfrist/#:~:text=der%20Probezeit%20nicht.-,insolvenzverfahren,--%C2%A0K%C3%BCndigt%20der%20Insolvenzverwalter)
 [^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional))
 [^11]: [§126 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__126.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
 [^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)

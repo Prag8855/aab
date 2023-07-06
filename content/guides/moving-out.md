@@ -134,7 +134,7 @@ You can find cardboard boxes...
     Buy new boxes from Bauhaus, Hellweg, and [other hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement).
 - **In stores**  
     Get free used boxes from stores near you. You just need to ask nicely.
-- **On [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331)**. 
+- **On [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/umzugskarton/k0l3331)**  
     Buy used boxes from other people. It's much cheaper than new boxes.
 - **From the moving company**  
     If you hire a moving company, they can give or sell you boxes.

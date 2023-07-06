@@ -3,7 +3,6 @@ Title: My review of Feather Insurance
 Short_title: Feather Insurance review
 Description: I am a Feather customer. In this guide, I talk about my experience with them. I explain why I work with them, and why I recommend their services.
 Date_created: 2021-03-23
-Date_updated: 2023-01-29
 ---
 
 I often recommend [Feather](/out/feather) on All About Berlin. They are also a popular health insurance option for expats.

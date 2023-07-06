@@ -4,7 +4,6 @@ German_term: Bildungsurlaub
 English_term: Training leave
 Description: 
 Date_created: 2021-04-01
-Date_updated: 2022-11-14
 Related_guides: guides/learn-german.md
 ---
 

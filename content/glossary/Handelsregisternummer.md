@@ -4,7 +4,6 @@ German_term: Handelsregisternummer
 English_term: Trade register number
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-04-20
 Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/handelsregisternummer-germany.md, guides/fragebogen-zur-steuerlichen-erfassung.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Haftpflichtversicherung
 English_term: Liability insurance
 Description: 
 Date_created: 2018-08-21
-Date_updated: 2022-11-30
 Related_guides: guides/find-a-flat-in-berlin.md, guides/freelance-developer-rate.md, guides/haftpflichtversicherung.md, guides/insurance.md, guides/moving-in.md, guides/lost-keys.md, guides/car-insurance-germany.md, guides/legal-insurance.md
 ---
 

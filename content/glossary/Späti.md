@@ -4,7 +4,6 @@ German_term: Späti
 English_term: Convenience store
 Description: A Späti or Spätkauf is a small store that sells drinks, snacks and tobacco products.
 Date_created: 2019-10-09
-Date_updated: 2022-05-29
 Related_guides: guides/open-on-sundays-in-berlin.md, guides/where-to-buy-what.md
 ---
 

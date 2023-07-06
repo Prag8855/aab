@@ -4,7 +4,6 @@ German_term: Kaution
 English_term: Rent deposit
 Description: 
 Date_created: 2018-06-19
-Date_updated: 2022-09-22
 Related_guides: guides/find-a-flat-in-berlin.md, guides/mietkaution.md, guides/moving-out.md, guides/moving-in.md, guides/lost-keys.md
 ---
 

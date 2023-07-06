@@ -4,7 +4,6 @@ German_term: eVB-Nummer
 English_term: eVB number
 Description: 
 Date_created: 2019-01-07
-Date_updated: 2022-04-20
 Related_guides: guides/buying-used-car-in-germany.md, guides/car-insurance-germany.md
 ---
 

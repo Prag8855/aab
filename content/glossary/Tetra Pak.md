@@ -4,7 +4,6 @@ German_term: Tetra Pak
 English_term: 
 Description: 
 Date_created: 2022-05-19
-Date_updated: 2022-05-19
 Related_guides: guides/sorting-trash-in-germany.md
 ---
 

@@ -4,7 +4,6 @@ German_term: Fahrradversicherung
 English_term: Bicycle insurance
 Description: Insurance that covers bicycle theft.
 Date_created: 2020-12-01
-Date_updated: 2022-11-28
 Related_guides: guides/moving-to-berlin.md
 ---
 

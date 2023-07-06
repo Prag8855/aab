@@ -4,7 +4,6 @@ German_term: Netto income
 English_term: Net income
 Description: 
 Date_created: 2020-03-05
-Date_updated: 2022-06-15
 Related_guides: guides/find-a-job-in-berlin.md, guides/cost-of-living.md, tools/tax-calculator.md
 ---
 

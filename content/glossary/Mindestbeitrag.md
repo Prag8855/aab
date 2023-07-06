@@ -4,7 +4,6 @@ German_term: Mindestbeitrag
 English_term: Minimum contribution
 Description: 
 Date_created: 2019-01-31
-Date_updated: 2022-06-30
 Related_guides: guides/german-health-insurance.md
 ---
 

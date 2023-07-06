@@ -4,7 +4,6 @@ German_term: gesetzliche Rentenversicherung
 English_term: Public pension insurance
 Description: 
 Date_created: 2020-06-04
-Date_updated: 2022-06-07
 Related_guides: guides/pension-payments-refund.md, tools/pension-refund-calculator.md, guides/ksk-kuenstlersozialkasse.md
 ---
 

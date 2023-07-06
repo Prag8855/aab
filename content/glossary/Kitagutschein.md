@@ -4,7 +4,6 @@ German_term: Kitagutschein
 English_term: Daycare voucher
 Description: 
 Date_created: 2018-08-27
-Date_updated: 2022-06-23
 Related_guides: guides/german-tax-id-steuernummer.md, guides/how-to-find-a-kita-in-berlin.md, guides/how-to-get-a-kitagutschein.md
 ---
 

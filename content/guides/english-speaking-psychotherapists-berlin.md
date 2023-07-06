@@ -94,7 +94,7 @@ This guide explains:
 - The difference between psychotherapists, [psychiatrists](/guides/english-speaking-psychiatrists-berlin) and others
 - The costs of getting therapy in Berlin
 
-**[Go to the list of therapists ↓](#places-map)**
+**[Go to the list of therapists ↓](#list-of-therapists)**
 
 {% include "_blocks/tableOfContents.html" %}
 

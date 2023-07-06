@@ -4,7 +4,6 @@ German_term: IPID
 English_term: Insurance Product Information Document
 Description: 
 Date_created: 2022-05-05
-Date_updated: 2022-05-05
 Related_guides: guides/haftpflichtversicherung.md
 ---
 

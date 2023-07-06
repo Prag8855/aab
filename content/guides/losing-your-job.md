@@ -155,7 +155,7 @@ A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacati
 
 Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
-**[What happens to your vacation days ↓](#what-happens-to-your-vacation-days)**
+**[What happens to your vacation days ↓](#what-happens-to-your-unused-vacation-days)**
 
 ### Other documents
 
@@ -195,9 +195,9 @@ In some cases, your health insurance is free for 1 month after you lose your job
 
 Your [private health insurance](/glossary/private%20Krankenversicherung) becomes twice as expensive, or you get free public health insurance.
 
-- **If you get unemployment benefits**
+- **If you get unemployment benefits**  
     You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance.[^1] In some cases, you can keep your private health insurance.[^2]
-- **If you don't get unemployment benefits**
+- **If you don't get unemployment benefits**  
     You keep your private health insurance.[^3] The price stays the same, but your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€.
 
 **[Who can get unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
@@ -254,8 +254,6 @@ If you don't get unemployment benefits, you should still make a tax declaration.
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/wie-bin-ich-waehrend-einer-sperrzeit-versichert-2005728)
-[^9]: [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=ihr%20aufenthaltstitel%20muss%20geandert%20werden%3F%20dann%20buchen%20sie%20am%20besten%20bitte%20einen%20termin%20zur%20neuaustellung.%20)
-[^10]: [§35 Abs. 4 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__35.html)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
@@ -273,7 +271,6 @@ If you don't get unemployment benefits, you should still make a tax declaration.
 [^13]: [§312 SGB III](https://www.gesetze-im-internet.de/sgb_3/__312.html), [Agentur für Arbeit](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
 [^28]: [§404 Abs. 19 SGB III](https://www.gesetze-im-internet.de/sgb_3/__404.html), [Section 3.1](https://www.arbeitsagentur.de/datei/dok_ba015896.pdf), [mitfugundrecht.de](http://mitfugundrecht.de/2009/12/als-arbeitgeber-die-arbeitsbescheinigung-nicht-ausstellen-kann-ein-teurer-spas-werden/), [clockodo.com](https://www.clockodo.com/de/lexikon/arbeitsbescheinigung/#:~:text=ein%20bu%C3%9Fgeld%20von%20bis%20zu%202.000%20euro%20), [papershift.com](https://www.papershift.com/lexikon/arbeitsbescheinigung#:~:text=was%20genau%20passiert%2C%20wenn%20der%20arbeitnehmer%20keine%20arbeitsbescheinigung%20von%20seinem%20arbeitgeber%20erhalt%3F), [Reddit](https://old.reddit.com/r/de/comments/skcjwp/chef_r%C3%BCckt_arbeitsbescheinigung_nicht_raus/), [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/14nqnw8/exarbeitgeber_stellt_weder_zeugnis_noch/jqau3os/)
 [^12]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.)
-[^27]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=schadensersatz%20gegenuber%20dem%20arbeitnehmer)
 [^29]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf), [Agentur für Arbeit](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer)
 [^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
 [^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)

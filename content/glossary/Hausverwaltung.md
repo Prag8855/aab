@@ -4,7 +4,6 @@ German_term: Hausverwaltung
 English_term: Property management
 Description: 
 Date_created: 2018-07-31
-Date_updated: 2022-04-20
 Related_guides: guides/quiet-hours.md, guides/noise-complaint.md, guides/moving-in.md, guides/lost-keys.md
 ---
 

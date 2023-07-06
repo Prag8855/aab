@@ -217,7 +217,7 @@ All employees in Germany get paid vacation days, and paid sick days.
 
 **[What to do when you are sick ➞](/guides/sick-leave)**
 
-## Step 7: Make a [tax declaration](/glossary/Steuererklärung)
+## Step 7: Make a tax declaration
 
 Many of your job search costs are [tax-deductible](/glossary/steuerlich%20absetzbar):[^2]
 
@@ -227,6 +227,8 @@ Many of your job search costs are [tax-deductible](/glossary/steuerlich%20absetz
     Coaching, resume writing, professional photos, translations, printing costs, job search services...
 - **Travel costs**  
     Fuel, train tickets, hotels, meals and parking fees to go to job interviews.
+
+If you started working in the middle of the year, you probably paid too much [salary tax](/glossary/Lohnsteuer). Make a [tax declaration](/glossary/Steuererklärung) to lower your [income tax](/glossary/Einkommensteuer), and get some money back.
 
 ## Need help?
 

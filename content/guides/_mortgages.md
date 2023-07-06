@@ -3,7 +3,6 @@ Title: How to get a mortgage in Germany
 Short_title: How to get a mortgage
 Description: 
 Date_created: 2018-06-07
-Date_updated: 2023-01-29
 ---
 
 ## Renting vs. buying in Germany

@@ -4,7 +4,6 @@ German_term: Wohnberechtigungsschein
 English_term: Social housing voucher
 Description: 
 Date_created: 2018-08-21
-Date_updated: 2022-04-20
 Related_guides: guides/find-a-flat-in-berlin.md
 ---
 

@@ -3,7 +3,6 @@ Title: Retirement planning in Germany
 Short_title: 
 Description: An introduction to German pension plans, social security and retirement planning.
 Date_created: 2020-05-19
-Date_updated: 2023-01-29
 ---
 
 In this guide, we show you how to plan your retirement in Germany. I wrote this guide for people who don't speak German, and don't understand finance. I will explain slowly, and give many examples.

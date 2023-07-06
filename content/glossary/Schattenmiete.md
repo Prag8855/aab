@@ -4,7 +4,6 @@ German_term: Schattenmiete
 English_term: Shadow rent
 Description: 
 Date_created: 2021-04-15
-Date_updated: 2022-04-20
 Related_guides: guides/mietendeckel-repealed.md
 ---
 

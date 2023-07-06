@@ -4,7 +4,6 @@ German_term: Kita
 English_term: Children daycare
 Description: 
 Date_created: 2018-08-27
-Date_updated: 2022-04-20
 Related_guides: guides/how-to-find-a-kita-in-berlin.md, guides/how-to-get-a-kitagutschein.md
 ---
 

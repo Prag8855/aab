@@ -59,7 +59,7 @@ You can do it alone, even if you don't speak German. It takes around 10 minutes.
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 
-### By [registered mail](/glossary/Einschreibebrief)
+### By registered mail
 
 Send these documents by [registered mail](/glossary/Einschreibebrief) to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/):
 

@@ -282,6 +282,5 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^8]: [reddit.com](https://old.reddit.com/r/germany/comments/baaa9s/how_to_use_this_thermostat_knob/ekdffz8/)
 [^9]: [t-online.de \(archived\)](https://web.archive.org/web/20170802025236/https://20170802025236/finanzen/immobilien/id_48125782/mietrecht-mietzahlung-erst-nach-schluesseluebergabe.html)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b1ifqb/tenants_associations_mietersch%C3%BCtzbund_etc/)
-[^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/ftnrzyk/)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
 [^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/)

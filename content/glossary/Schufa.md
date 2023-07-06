@@ -4,7 +4,6 @@ German_term: Schufa
 English_term: Credit rating agency
 Description: 
 Date_created: 2017-09-01
-Date_updated: 2022-10-04
 Related_guides: guides/free-schufa-berlin.md, guides/find-a-flat-in-berlin.md, guides/gez-rundfunkbeitrag.md
 ---
 

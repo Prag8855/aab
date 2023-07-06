@@ -4,7 +4,6 @@ German_term: Prüfungsbericht
 English_term: Audit report
 Description: 
 Date_created: 2021-02-08
-Date_updated: 2022-04-20
 Related_guides: guides/steuerberater-vs-buchhalter.md, guides/renew-german-freelance-visa.md
 ---
 

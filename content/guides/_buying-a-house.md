@@ -3,7 +3,6 @@ Title: Buying an apartment or a house in Germany
 Short_title: Buying an apartment or a house
 Description: 
 Date_created: 2020-06-11
-Date_updated: 2023-01-29
 ---
 
 This guide is for people who are thinking about buying their first house or apartment in Germany. It lists the things you must know before making a decision.

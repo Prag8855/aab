@@ -4,7 +4,6 @@ German_term: Brillenversicherung
 English_term: Eyeglass insurance
 Description: 
 Date_created: 2021-03-02
-Date_updated: 2022-04-20
 Related_guides: guides/eyeglasses.md
 ---
 

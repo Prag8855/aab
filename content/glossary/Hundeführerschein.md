@@ -4,7 +4,6 @@ German_term: Hundeführerschein
 English_term: Dog handler permit
 Description: 
 Date_created: 2020-12-20
-Date_updated: 2022-04-20
 Related_guides: guides/pet-ownership.md, guides/hundesteuer.md
 ---
 

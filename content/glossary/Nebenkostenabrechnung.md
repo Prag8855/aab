@@ -4,7 +4,6 @@ German_term: Nebenkostenabrechnung
 English_term: Utility costs calculation
 Description: 
 Date_created: 2021-06-04
-Date_updated: 2022-04-20
 Related_guides: guides/mietkaution.md
 ---
 
