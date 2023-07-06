@@ -99,24 +99,6 @@ When you know your last day of work, register as unemployed at the *[[Agentur f�
 
 **[How to register as unemployed ➞](/guides/unemployment-benefits#register-as-unemployed)**
 
-### Get a letter of reference
-
-A letter of reference (*[[Arbeitszeugnis]]*) is a proof of the work you did for your employer. It can help your [job search](/guides/find-a-job-in-berlin). Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
-
-Your employer is required to give you a letter of reference.[^15] Apprentices, working students, temporary workers and [minijobbers](/glossary/Minijob) can also demand a letter of reference.
-
-The letter must clearly explain the type of work you did, and for how long. Your employer must give you a paper version, not an electronic version. It must not have information about your health, your salary, your other jobs, your union membership, or your political affiliations. Your employer needs your explicit permission to mention why you quit or got fired.[^16]
-
-If you worked for more than 6 weeks, you can demand a qualified reference (*qualifiziertes Arbeitszeugnis*). It includes an evaluation of your performance, and the reason you left the company.
-
-### Get an Arbeitsbescheinigung
-
-You need an *[[Arbeitsbescheinigung]]* to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
-
-If your employer refuses to send your *Arbeitsbescheinigung*, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€.[^28] This can take a few weeks.
-
-If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^29] You will get unemployment benefits faster. Use the template at the end of [this document](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf).
-
 ### Tell the Ausländerbehörde
 
 If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
@@ -149,17 +131,57 @@ When you lose your job, you keep your health insurance. The coverage does not ch
 
 **[What happens to your health insurance ↓](#what-happens-to-your-health-insurance)**
 
+### Get a letter of reference
+
+A letter of reference (*[[Arbeitszeugnis]]*) is a proof of the work you did for your employer. It can help your [job search](/guides/find-a-job-in-berlin). Your next employer can ask for it.[^31] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
+
+Your employer is required to give you a letter of reference.[^15] Apprentices, working students, temporary workers and [minijobbers](/glossary/Minijob) can also demand a letter of reference.
+
+The letter must clearly explain the type of work you did, and for how long. Your employer must give you a paper version, not an electronic version. It must not have information about your health, your salary, your other jobs, your union membership, or your political affiliations. Your employer needs your explicit permission to mention why you quit or got fired.[^16]
+
+If you worked for more than 6 weeks, you can demand a qualified reference (*qualifiziertes Arbeitszeugnis*). It includes an evaluation of your performance, and the reason you left the company.
+
+### Get an Arbeitsbescheinigung
+
+You need an *[[Arbeitsbescheinigung]]* to get [unemployment benefits](/glossary/ALG%20I).[^12] Your employer must send it to the *Agentur für Arbeit* directly.[^13]
+
+If your employer refuses to send your *Arbeitsbescheinigung*, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€.[^28] This can take a few weeks.
+
+If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^29] You will get unemployment benefits faster. Use the template at the end of [this document](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf).
+
+### Get an Urlaubsbescheinigung
+
+A vacation certificate (*Urlaubsbescheinigung*) shows how many vacation days you have, and how many vacation days you already used. Your employer is required to give you this.[^33] Your next employer will need this to give you your unused vacation days.[^34]
+
+In many cases, your current employer will ask you to use all your vacation days before you leave.
+
+**[What happens to your vacation days ↓](#what-happens-to-your-vacation-days)**
+
+### Other documents
+
+If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
+
 ## After you leave your job
+
+### Find a new job
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+You can also start your own business and become self-employed. If you get [unemployment benefits](/glossary/ALG%20I), the *Agentur für Arbeit* helps you with [free training and financial help](/guides/start-a-business-in-germany#step-9-get-financial-help).
+
+**[How to start a business ➞](/guides/start-a-business-in-germany)**
 
 ### Make a tax declaration
 
-At the end of the year, make a tax declaration (*[[Steuererklärung]]*)
+At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
 
-If you get [unemployment benefits](/glossary/ALG%20I), you *must* do it.
+If you get [unemployment benefits](/glossary/ALG%20I), you *must* make a tax declaration.
 
 If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
 
-Your job search expenses are also [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
+**[German tax software ➞](/guides/german-tax-software)**
+
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
 ## What happens to your residence permit
 
@@ -228,12 +250,6 @@ The same vacation day rules apply. You can still go on sick leave.
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
-## What's next?
-
-**[How to find a job ➞](/guides/find-a-job-in-berlin)**
-
-**[How to start a business ➞](/guides/start-a-business-in-germany)**
-
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
@@ -264,3 +280,7 @@ The same vacation day rules apply. You can still go on sick leave.
 [^27]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=schadensersatz%20gegenuber%20dem%20arbeitnehmer)
 [^29]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf)
 [^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
+[^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
+[^32]: [karrierebibel.de](https://karrierebibel.de/beendigung-arbeitsverhaeltnis/#:~:text=arbeitnehmer%2C%20die%20in%20der%20lebensmittelbranche%20oder%20gastronomie%20arbeiten)
+[^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html)
+[^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
