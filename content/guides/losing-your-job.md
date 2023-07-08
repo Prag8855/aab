@@ -7,7 +7,7 @@ Date_created: 2023-07-06
 
 This guide shows you what to do when:
 
-* You get fired from your job (your employer is not happy with you)
+* You get fired (your employer is not happy with you)
 * You get laid off (your employer has no work for you)
 * You quit (you choose to leave)
 * You change jobs
@@ -16,92 +16,86 @@ It only applies to employees, not freelancers.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Quitting your job
+## If you quit your job
 
 ### Calculate your notice period
 
-In Germany, all jobs have a notice period (*[[Kündigungsfrist]]*). You can't quit your job without a warning, and your employer can't lay you off without a warning.
+Your job has a notice period (*[[Kündigungsfrist]]*). If you quit, you must work until the end of the notice period.
 
-The notice period can be very long. You can negotiate a shorter period with your employer.
-
-If you get fired for misconduct, there is usually no notice period.
+The notice period can be very long: 3 months is normal.[^9] If you want to leave sooner, you can negotiate a shorter notice period with your employer.
 
 **[How the notice period works ➞](/guides/job-notice-period)**
 
 ### Give your resignation letter
 
-To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter.
+To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter. There are rules on how you write and deliver this letter.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
-If you get fired or laid off, your employer must give you a resignation letter. If you did not choose to leave, don't give a resignation letter.
-
-## Getting fired or laid off
+## If you get laid off or fired
 
 ### Resist your dismissal
 
-If you get fired or laid off, you have 3 weeks to resist.[^30] You must file a *Kündigungsschutzklage*.
+If you get fired or laid off, you have 3 weeks to resist the decision with a *Kündigungsschutzklage*.[^30]
 
-During your [probation period](/glossary/Probezeit), your employer can fire you without a reason. After your probation period, your employer must give a valid reason.
+During your [probation period](/glossary/Probezeit), your employer can fire you without a reason. After your probation period, your employer must give a valid reason. Usually, they can't fire you without a warning.
 
-Your employer can offer you a severance pay (*Abfindung*) to encourage you to leave. Severance pay in Germany is lower than in North America. A labour lawyer can help you negotiate better severance pay.
+### Calculate your notice period
 
-If you are over 50 years old and plan to retire soon, you can ask for [pension payments instead of severance pay](https://vangard.de/en/news-analysis/blog/pension-contributions-instead-of-severance-pay).
+Your job has a notice period (*[[Kündigungsfrist]]*). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send your on [garden leave](https://en.wikipedia.org/wiki/Garden_leave).
 
-### Do not sign an Aufhebungsvertrag
+If you get fired for misconduct, there might be no notice period.[^10]
 
-Your employer can suggest a termination agreement (*Aufhebungsvertrag*). If you sign one, you don't get fired; you agree to leave your job. This can be a bad idea.
-
-When you sign a termination agreement...[^19]
-
-- **You lose dismissal protection** (*Kündigungsschutz*)  
-    You can't sue your employer for unlawful dismissal, because you agreed to leave your job. Employers often suggest an *Aufhebungsvertrag* when they have no valid reason to fire you.
-- **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
-    You can agree to leave your job sooner. This is good if you want to start another job soon. It's bad if you need more time to find another job.
-- **You can lose 3 months of [unemployment benefits](/glossary/ALG%20I)**  
-    In some cases, you can lose 3 months of *[[ALG I]]*.[^24] It depends on how your *Aufhebungsvertrag* is phrased. See [how unemployment benefits work](/guides/unemployment-benefits).
-- **You can get better severance pay** (*Abfindung*)  
-    You can get more severance pay than the legal minimum: 2 weeks of pay for every year with your employer.[^21]
-
-In other words, when you sign an *Aufhebungsvertrag*, you make a deal with your employer. Only sign it if it's a good deal. Your employer can't force you to sign it.[^20] If you are not sure, [get legal help](#need-help).
+**[How the notice period works ➞](/guides/job-notice-period)**
 
 ### Negotiate severance pay
 
-If you get laid off, ask for severance pay (*Abfindung*). You must negotiate the exact amount. In some cases, the legal minimum is 2 weeks of pay for every year with your employer.[^21] You can ask for much more.[^26]
+If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign a termination agreement (*Aufhebungsvertrag*) to get severance pay. In other words, your employer pays you to leave without suing them.
 
-You can negotiate more. Your employer usually offers you severance pay if you sign an *Aufhebungsvertrag*. You get paid to leave without making trouble.
+You can negotiate how much severance pay you get.[^26] Severance pay in Germany is much lower than in North America.  In some cases, the legal minimum is 2 weeks of pay for every year with your employer.[^21]
 
-Your severance pay can affect your unemployment benefits. If it's really high, you can lose 3 months of unemployment benefits.[^25] You also pay for your health insurance during that time.[^8]
+A labour [lawyer](/guides/english-speaking-lawyers-berlin) can help you negotiate better severance pay, because they know how much money you can get. [Conny](/out/conny-abfindung) can also do this.
 
-[Conny](/out/conny-abfindung) can help you negotiate a higher severance pay. They speak English.
+Severance pay can affect your [unemployment benefits](/glossary/ALG%20I). If it's really high, you can lose 3 months of unemployment benefits.[^25] You also pay for your health insurance during that time.[^8]
+
+If you are over 50 years old and plan to retire soon, you can ask for [pension payments instead of severance pay](https://vangard.de/en/news-analysis/blog/pension-contributions-instead-of-severance-pay). It might be a better deal for you.
+
+### Do not sign an Aufhebungsvertrag
+
+Your employer can suggest a termination agreement (*Aufhebungsvertrag*). **If you sign it, you don't get fired; you agree to leave.**
+
+If you sign a termination agreement...[^19]
+
+- **You lose dismissal protection** (*Kündigungsschutz*)  
+    You can't sue your employer for firing you, because you agreed to leave. Your employer wants you to sign an *Aufhebungsvertrag* because it's safer for them.
+- **You can negotiate better severance pay** (*Abfindung*)  
+    Usually, severance pay depends on signing an *Aufhebungsvertrag*. This is the biggest benefit for you.
+- **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
+    You can agree to leave sooner. This is good if you already found another job.
+- **You can lose 3 months of [unemployment benefits](/glossary/ALG%20I)**  
+    Since you *choose* to leave, you can lose 3 months of unemployment benefits.[^24] It depends on what's in your *Aufhebungsvertrag*. See [how unemployment benefits work](/guides/unemployment-benefits).
+
+When you sign an *Aufhebungsvertrag*, you make a deal with your employer. You get more money, they get less problems.
+
+You can accept, refuse or negotiate this deal. Your employer can't force you to sign an *Aufhebungsvertrag*.[^20] If you are not sure, [get legal help](#need-help).
 
 ## Before you stop working
 
-- [ ] [Register as a job seeker](#register-as-a-job-seeker) at the *[[Agentur für Arbeit]]*
-- [ ] [Register as unemployed](#register-as-unemployed) at the *[[Agentur für Arbeit]]*
-- [ ] [Tell the *Ausländerbehörde*](#tell-the-auslanderbehorde), if you have a [residence permit](/glossary/Aufenthaltstitel)
-- [ ] [Tell your health insurance](#tell-your-health-insurance)
-- [ ] Get all documents from your employer
-    - [ ] [Letter of reference](#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
-    - [ ] [Employment certificate](#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
-    - [ ] [Vacation certificate](#get-an-urlaubsbescheinigung) (*Urlaubsbescheinigung*)
-    - [ ] [Health certificate](#other-documents) (*Gesundheitszeugnis*), if you work in gastronomy
-
 ### Register as a job seeker
 
-When you know that you will be unemployed, register as a job seeker at the *[[Agentur für Arbeit]]*. Do this as soon as you can. If you are late, you get less [unemployment benefits](/glossary/ALG%20I).
+When you know that you will be unemployed, register as a job seeker at the *[[Agentur für Arbeit]]*. You must do this 3 months before your last day of work, or 3 days after you learn that you will be unemployed. If you wait too long, you get less [unemployment benefits](/glossary/ALG%20I).
 
 **[How to register as a job seeker ➞](/guides/unemployment-benefits#register-as-a-job-seeker)**
 
 ### Register as unemployed
 
-When you know your last day of work, register as unemployed at the *[[Agentur für Arbeit]]*. This is how you get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
+When you know your last day of work, register as unemployed at the *[[Agentur für Arbeit]]*. You must do this to get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
 
 **[How to register as unemployed ➞](/guides/unemployment-benefits#register-as-unemployed)**
 
 ### Tell the Ausländerbehörde
 
-If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
+If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
 
 To inform the *Ausländerbehörde*, you must...
 
@@ -114,14 +108,8 @@ To inform the *Ausländerbehörde*, you must...
     - [ ] When your employment ends
 3. Attach these documents to your email:[^2]
     - [ ] A copy of your termination notice or resignation letter
-4. Send your email. You will not get a confirmation. They might not reply.[^3]
-
-You don't need to inform the *Ausländerbehörde* if...[^4]
-
-- You had this work visa or Blue Card for more than 2 years
-- **or** you had a valid residence permit for the last 3 years, excluding the [student visa](/glossary/Student%20visa)
-- **or** you have [permanent residence](/glossary/Niederlassungserlaubnis)
-- **or** you have EU citizenship
+4. Send your email. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
+5. The *Ausländerbehörde* gives you 6 months to find a job. They will tell you by email or by post. ???
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
 
@@ -167,15 +155,20 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 6 months to find another job.[^5]
 
-If you had your residence permit for at least 2 years, you can start a new job. You don't need to ask the Ausländerbehörde for a new residence permit; just tell them that you have a new job, and include a copy of your new work contract.
+- **If you had this residence permit for at least 2 years**  
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^4]
+- **If you had any residence permit for at least 3 years**  
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) does not count.[^4]
+- **Everyone else**  
+    You need the *Ausländerbehörde*'s permission to start a new job. You basically need to [apply for a new residence permit](/guides/german-work-visa). This can take a few months.
 
-If you had your residence permit for less than 2 years, you apply for a new residence permit to start a new job. This can take a few months.
+If you are not sure, ask an immigration lawyer. For quick questions, use Alexander von Engelhardt's legal hotline.
 
-**[How to apply for a work visa or Blue Card ➞](/guides/german-work-visa)**
+**[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
 
 ### Citizens and permanent residents
 
-If you lose your job, nothing happens. EU citizens and German permanent residents can live in Germany without a job.
+Nothing happens. EU citizens and German permanent residents can live in Germany without a job.
 
 ## What happens to your health insurance
 
@@ -242,6 +235,19 @@ If you don't get unemployment benefits, you should still make a tax declaration.
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
+## Checklist
+
+- [ ] Give your resignation letter, if you quit
+- [ ] Register as a job seeker at the *[[Agentur für Arbeit]]*
+- [ ] Register as unemployed at the *[[Agentur für Arbeit]]*
+- [ ] Tell the *[[Ausländerbehörde]]*, if you have a [residence permit](/glossary/Aufenthaltstitel)
+- [ ] Tell your health insurance
+- [ ] Get all documents from your employer
+    - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
+    - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
+    - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
+    - [ ] Health certificate (*Gesundheitszeugnis*), if you work in gastronomy
+
 ## Need help?
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
@@ -277,3 +283,5 @@ If you don't get unemployment benefits, you should still make a tax declaration.
 [^32]: [karrierebibel.de](https://karrierebibel.de/beendigung-arbeitsverhaeltnis/#:~:text=arbeitnehmer%2C%20die%20in%20der%20lebensmittelbranche%20oder%20gastronomie%20arbeiten)
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
+[^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
+[^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)

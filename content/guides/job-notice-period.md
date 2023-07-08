@@ -11,7 +11,7 @@ Before you [find a new job](/guides/find-a-job-in-berlin), check your notice per
 
 ## If you quit your job
 
-When you quit, the default notice period is 4 weeks, rounded to the 15th or last day of the month.[^2]
+If you quit, the default notice period is 4 weeks, rounded to the 15th or last day of the month.[^2] Many work contracts have a longer notice period.
 
 > **Example 1:** Your work contract has a 3 month notice period. You quit your job on January 5. You must work until March 5.
 
@@ -45,9 +45,9 @@ If your employer goes bankrupt, the notice period is limited to 3 months, at the
 
 ## If you get fired
 
-If you get fired, the notice period depends on why you were fired.
+If you get fired, there is usually a notice period. notice period depends on why you were fired.
 
-When the reasons are serious, there is no notice period. For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9]
+If you get fired for a serious reason, there is no notice period. For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9] In most cases, you will get a warning first.
 
 ## How the notice period works
 

@@ -34,13 +34,13 @@ Usually, **as soon as you stop working**. Sometimes, There is a disqualification
 There is a *Sperrzeit* when...
 
 - **You choose to leave your job**  
-    This means that you quit your job *without a reason*, or you sign an *Aufhebungsvertrag* with your employer. There are many good reasons to quit: mental health, bad salary, moving for your spouse, and more.[^14]
+    This means that you quit your job *without a reason*, or you sign an *Aufhebungsvertrag* with your employer. Usually, there is a 3 month *Sperrzeit* if you choose to leave. There is no *Sperrzeit* if you quit because of mental health, bad salary, moving for your spouse, and other good reasons.[^14]
 - **or you register too late**  
     If you wait too long to [register as a job seeker](#register-as-a-job-seeker) or [as unemployed](#register-as-unemployed), the *[[Agentur für Arbeit]]* adds a *Sperrzeit* to punish you.
 - **or you refuse help from the Agentur für Arbeit**[^13]  
     For example, you refuse a job offer, refuse to take recommended training, or refuse to look for work.
 
-During the Sperrzeit, your employment benefits still run out (section 6)
+During the Sperrzeit, your employment benefits still run out (section 6) ???
 
 ## How much money do I get?
 
