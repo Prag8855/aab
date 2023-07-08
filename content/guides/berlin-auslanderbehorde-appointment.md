@@ -56,10 +56,11 @@ To do this, you must...
     - If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23]
 3. Attach *all* required documents for your residence permit application. Complete applications are processed faster.[^23]
 4. Send your email and wait for a response. It can take a few months.
+5. They will review your documents and give you an appointment. You must go there in person to finish your application.[^12]
 
 The *Ausländerbehörde* can take days, weeks or months to answer.[^4] It depends on how urgent your situation is, and how complete your application is.
 
-If you send all your documents, it counts as a residence permit application.
+If you send all your documents, it counts as a residence permit application. This usually means that you can stay in Germany until they make a decision, even if your [residence permit](/glossary/Aufenthaltstitel) expires.
 
 **[If your visa expires soon ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
@@ -212,3 +213,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](https://r
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
 [^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
+[^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)

@@ -81,7 +81,7 @@ The cost depends on your occupation:
     Public health insurance costs a percentage of your income. If you make less money, you pay less. If you get [[ALG I]] or [[Bürgergeld]], it pays for your health insurance.[^11] Private health insurance does not adjust to your income; you pay the same even if you [lose your job](/guides/losing-your-job).
 - **It's cheaper for students**  
     If you are a student, you pay around {{GKV_ESTIMATED_STUDENT_CONTRIBUTION|cur}}€ per month until you are 31 years old.[^0] Public health insurance is usually the best option for students.
-- **It covers your dependents for free**   
+- **It covers your dependents for free**  
     Public health insurance covers your children and your unemployed spouse. It's called *[[Familienversicherung]]*. Your spouse is covered if (s)he earns less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month.[^12] Your children are covered until they are 23 years old, or 25 years old if they are students. With private insurance, you pay for each person you cover. If you plan to have children, public health insurance is often the best option.
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, reimbursement or deductibles. There is no paperwork; it just works.

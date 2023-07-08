@@ -358,9 +358,9 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
 
 ### Document checklist
 
-Here is a summary of all required documents
+Here is a summary of all documents they can ask for:
 
-- [ ] Address registration confirmation (*[[Anmeldebestätigung]]*)
+- [ ] Address registration confirmation (*[[Anmeldebestätigung]]*) - optional
 - [ ] Appointment confirmation from the *Ausländerbehörde*
 - [ ] Bank statement (*[[Kontoauszug]]*)
 - [ ] Business plan (not required for *[[Freiberufler]]*)
