@@ -61,6 +61,8 @@ Your employer does not need to confirm or accept your resignation.
 
 When your employer receives your resignation letter, your notice period (*Kündigungsfrist*) begins.
 
+Keep a copy of your resignation letter. The *[[Agentur für Arbeit]]* asks for it when you [apply for unemployment benefits](/guides/unemployment-benefits).[^2]
+
 **[How to quit your job in Germany](/guides/losing-your-job)**
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
@@ -72,3 +74,4 @@ When your employer receives your resignation letter, your notice period (*Kündi
 [^7]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=Personalnummer%3A%20MM987654-123-,anrede%20(pflicht),-Die%20K%C3%BCndigung%20muss)
 [^8]: [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=zustellung%20der%20kundigung%3A%20am%20besten%20personlich)
 [^9]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023)
+[^2]: Interview with an unemployed person (July 2023)

@@ -58,7 +58,7 @@ You pay taxes on the money you get: [salary tax](/glossary/Lohnsteuer), [solidar
 
 ### Register as a job seeker
 
-Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
+Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. To register online, you need a valid electronic ID.[^24]
 
 **[Register as a job seeker](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
@@ -68,7 +68,7 @@ After you register as a job seeker, the *[[Agentur für Arbeit]]* can help you [
 
 ### Register as unemployed
 
-You must register as unemployed at the *[[Agentur für Arbeit]]*. This is how you get *[[ALG I]]*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*.
+You must register as unemployed at the *[[Agentur für Arbeit]]*. This is how you get *[[ALG I]]*. You can do this [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *[[Jobcenter]]*. To register online, you need a valid electronic ID. If you don't have one, go to the *Jobcenter* in person. You don't need an appointment.[^24]
 
 **[Register as unemployed](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 
@@ -78,15 +78,15 @@ Do this in your last 3 months of work, and **before your second day of unemploym
 
 After you register as unemployed, you will get an appointment at the *[[Jobcenter]]*. They will tell you which documents to bring.[^18]
 
-Your case worker at the *Jobcenter* might not speak English, so you should bring a translator. I recommend [Red Tape Translation](/out/red-tape-translation).
+Your case worker at the *Jobcenter* might not speak English, so you should bring a translator.[^25] I recommend [Red Tape Translation](/out/red-tape-translation).
 
-**If you want professional training**, ask for it during that appointment. Find courses that interest you before your appointment. Explain your career plans, and why these courses will help you. The *Agentur für Arbeit* can pay for professional courses, German lessons and career coaching.
+**If you want professional training**, ask for it during that appointment. Find courses that interest you before your appointment. Explain your career plans, and why these courses will help you. The *Agentur für Arbeit* can pay for professional courses, German lessons and career coaching. They will give you a *[[Bildungsgutscheing]]* that pays for your training. It takes around 1 week.[^24]
 
 **[List of courses](https://web.arbeitsagentur.de/weiterbildungssuche/suche)** (in German) - *[[Agentur für Arbeit]]*
 
 ### Wait for your Arbeitsbescheinigung
 
-Before you get ALG I, your employer must send your *[[Arbeitsbescheinigung]]* to the *Agentur für Arbeit*.[^21]
+Before you get ALG I, your employer must send your *[[Arbeitsbescheinigung]]* to the *Agentur für Arbeit*.[^21] Your employer can do this online; you might not get a copy.[^24]
 
 If your employer takes too long, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€. This can still take a few weeks.[^22]
 
@@ -159,3 +159,5 @@ Look for work. ALG I depends on it.
 [^21]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.), [§312 SGB III](https://www.gesetze-im-internet.de/sgb_3/__312.html), [Agentur für Arbeit](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
 [^22]: [§404 Abs. 19 SGB III](https://www.gesetze-im-internet.de/sgb_3/__404.html), [Section 3.1](https://www.arbeitsagentur.de/datei/dok_ba015896.pdf), [mitfugundrecht.de](http://mitfugundrecht.de/2009/12/als-arbeitgeber-die-arbeitsbescheinigung-nicht-ausstellen-kann-ein-teurer-spas-werden/), [clockodo.com](https://www.clockodo.com/de/lexikon/arbeitsbescheinigung/#:~:text=ein%20bu%C3%9Fgeld%20von%20bis%20zu%202.000%20euro%20), [papershift.com](https://www.papershift.com/lexikon/arbeitsbescheinigung#:~:text=was%20genau%20passiert%2C%20wenn%20der%20arbeitnehmer%20keine%20arbeitsbescheinigung%20von%20seinem%20arbeitgeber%20erhalt%3F), [Reddit](https://old.reddit.com/r/de/comments/skcjwp/chef_r%C3%BCckt_arbeitsbescheinigung_nicht_raus/), [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/14nqnw8/exarbeitgeber_stellt_weder_zeugnis_noch/jqau3os/)
 [^23]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf), [Agentur für Arbeit](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer)
+[^24]: Interview with an unemployed person (July 2023)
+[^25]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), interview with an unemployed person (July 2023)

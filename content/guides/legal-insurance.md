@@ -3,7 +3,8 @@ Title: What is legal insurance (Rechtsschutzversicherung)? Is it worth it?
 Short_title: Do you need legal insurance?
 Description: In this guide, I explain what legal insurance (Rechtsschutzversicherung) is, what it covers, and when it's worth it.
 Date_created: 2021-09-04
-Related_reviews: reviews/legal-insurance/fiona-macdonald.md
+Related_reviews:
+    reviews/legal-insurance/fiona-macdonald.md
 ---
 
 In this guide, I explain what legal insurance (*Rechtsschutzversicherung*) is, what it covers, and when it's worth it. I also list cheaper alternatives to legal insurance.
@@ -85,7 +86,7 @@ Sometimes, you still get a little coverage for these problems. For example, [Get
 
 You can't use your legal insurance as soon as you get it. There is usually a 3 to 6 month waiting period (*Wartefrist*).[^17] The waiting period is shorter for certain problems (traffic, taxes), and longer for other problems (work, divorce).
 
-You must get insurance *before* you have a problem. It does not cover things that happened before you got the insurance.[^1]
+**You must get insurance before you have a problem.** It does not cover things that happened before you got the insurance.[^1]
 
 ### How to use your legal insurance
 
@@ -112,11 +113,13 @@ You must get insurance *before* you have a problem. It does not cover things tha
 
 ## Is legal insurance worth it?
 
-**Legal insurance is a luxury.** It's not as important as [liability insurance](/guides/haftpflichtversicherung), but it's good to have.[^21] 46% of German households have legal insurance.[^22]
+Legal insurance is not as important as [liability insurance](/guides/haftpflichtversicherung), but **it's really good to have**.[^21] 46% of German households have legal insurance.[^22] The lawyers I work with recommend all immigrants to have it.[^40]
 
-A consultation with a lawyer costs around 200€ per hour. Simple legal cases cost less than 1,000€. Going to court usually costs thousands of euros, but if you win, the other side pays for everything. If you lose, then you pay for everything. It can be very expensive. If the case is settled out of court, you still need to pay your lawyer.
+If your landlord or your employer takes advantage of you, you must decide between fighting and giving up. Simple legal cases cost up to a thousand euros. Court cases cost thousands of euros. If you lose, that money is gone. It's a big risk.
 
-With legal insurance, you can also call a lawyer just to ask a few questions.[^23] They can check a contract before you sign it. This is useful if you have a German contract, and you don't speak German. The biggest benefit of legal insurance is quick access to a lawyer. **If you talk to a lawyer once or twice per year, it's already worth it.**
+With legal insurance, you don't care. The insurance pays for everything. **You can always defend yourself, because it costs you nothing.** You just call your lawyer and they take care of it.
+
+You can also call a lawyer just to ask a few questions.[^23] They can check a contract before you sign it. This is useful if you have a German contract, but you don't speak German. You can solve problems before they happen. **If you talk to a lawyer once or twice per year, it's already worth it.**
 
 If you don't need full legal insurance, look at [cheaper options](/guides/questions-about-berlin#legal-questions) like tenant associations (*[[Mieterverein]]*) or legaltech like [Conny](/out/conny).
 
@@ -190,9 +193,9 @@ For quick business or immigration questions, try Alexander von Engelhardt's lega
 
 ## Summary
 
-- **It covers your legal costs**. It's very useful if you don't trust your landlord or your employer.
-- **It's a luxury**. It's not essential, but it's good to have. [Liability insurance](/guides/haftpflichtversicherung) is a lot more important.
-- **You must get it before you need it**. If you already have a problem, it's usually too late.
+- **It covers your legal costs**. It's very useful if you don't trust your landlord or your employer. You can defend yourself, and not worry about the legal costs.
+- **It's not essential**, but it's really good to have. If you don't trust your landlord or employer, I recommend it. [Liability insurance](/guides/haftpflichtversicherung) is a lot more important.
+- **You must get it before you need it**. If you already have a problem, it's too late to get liability insurance.
 - **You choose what it covers**, and control how much it costs.
 - **It rarely covers certain things** like intentional crimes, divorces and immigration.
 - **There are cheaper options**. It depends on what you need.
@@ -237,3 +240,4 @@ For quick business or immigration questions, try Alexander von Engelhardt's lega
 [^37]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_berathig/englisch_berathig.html#p0013)
 [^38]: [beratungshilfe-berlin.de](http://www.beratungshilfe-berlin.de/beratungshilfe)
 [^39]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
+[^40]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)

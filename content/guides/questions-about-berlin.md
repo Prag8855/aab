@@ -73,6 +73,8 @@ You can get help from these communities and services.
 
 **If you are an asylum seeker**, contact the [housing section of the *Landesamt für Flüchtlingsangelegenheiten*](https://www.berlin.de/laf/wohnen/). Call [+49 30 90225 1261](tel:+4930902251261) or write to <Unterkuenfte@LAF.Berlin.de>.
 
+Don't be afraid to defend your rights. Your landlord can't kick you out or stop helping you because of it.
+
 ## Medical questions
 
 - [How to find English-speaking medical professionals in Berlin](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)
@@ -114,6 +116,8 @@ You can get help from these communities and services.
 - **Employment lawyer** (*Fachanwalt für Arbeitsrecht*)  
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Hire a lawyer who specialises in employment law. They cost around 200€ per hour. Your [legal insurance](/glossary/Rechtsschutzversicherung) pay for it.
 
+Don't be afraid to defend your rights. Your employer can't fire you or blacklist you because of it. It will not affect your job search.[^7]
+
 ## Business questions
 
 ### People who can help you
@@ -146,3 +150,4 @@ Write to <contact@allaboutberlin.com>. I can't answer every question, but I can 
 [^4]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/)
 [^5]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_berathig/englisch_berathig.html#p0013)
 [^6]: [beratungshilfe-berlin.de](http://www.beratungshilfe-berlin.de/beratungshilfe)
+[^7]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023)

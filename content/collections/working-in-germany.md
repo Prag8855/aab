@@ -11,5 +11,7 @@ Related_guides:
     guides/vacation-days.md
     guides/losing-your-job.md
     guides/german-resignation-letter.md
+    guides/job-notice-period.md
+    guides/unemployment-benefits.md
 Order: 020
 ---
