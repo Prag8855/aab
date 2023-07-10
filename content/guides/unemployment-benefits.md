@@ -25,7 +25,7 @@ You can get unemployment benefits if:[^0]
 
 Your immigration status does not affect your unemployment benefits. You can get *ALG I* with a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship.
 
-If you don't get *ALG I*, you might get *[[Bürgergeld]]* instead.
+**If you can't get ALG I**, you should still register at the *Agentur für Arbeit*. You could get *[[Bürgergeld]]*, free professional training, and job search help.
 
 ## When do I get unemployment benefits?
 
