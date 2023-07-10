@@ -40,8 +40,6 @@ There is a *Sperrzeit* when...
 - **or you refuse help from the Agentur für Arbeit**[^13]  
     For example, you refuse a job offer, refuse to take recommended training, or refuse to look for work.
 
-During the Sperrzeit, your employment benefits still run out (section 6) ???
-
 ## How much money do I get?
 
 **60% of your [gross income](/glossary/Brutto%20income)**, or 67% if you have children.[^5] They use your average gross income of the last 12 months, including bonuses.[^12] They ignore your income above {{BEITRAGSBEMESSUNGSGRENZE_WEST|cur}}€ per year.

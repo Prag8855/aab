@@ -109,7 +109,7 @@ To inform the *Ausländerbehörde*, you must...
 3. Attach these documents to your email:[^2]
     - [ ] A copy of your termination notice or resignation letter
 4. Send your email. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 6 months to find a job. They will tell you by email or by post. ???
+5. The *Ausländerbehörde* gives you 6 months to find a job. They will tell you by email or by post.
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
 
