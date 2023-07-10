@@ -5,9 +5,9 @@ English_term: Education voucher
 Description: A voucher for unemployed people. It pays for language classes and professional training.
 Date_created: 2021-04-01
 Related_guides:
-    guides/learn-german.md
     guides/unemployment-benefits.md
     guides/losing-your-job.md
+    guides/learn-german.md
     guides/start-a-business-in-germany.md
 ---
 

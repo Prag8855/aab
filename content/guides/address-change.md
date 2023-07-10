@@ -51,7 +51,7 @@ You should also tell...
 - [ ] **Your health insurance**  
     You can change your address on your health insurer's online portal, or by asking your insurance broker.
 - [ ] **The [[Agentur für Arbeit]]**  
-    If you get *[[ALG I]]* or *[[Bürgergeld]]*, tell your Jobcenter your new address.
+    If you get *[[ALG I]]* or *[[Bürgergeld]]*, tell the *[[Jobcenter]]* your new address.
 - [ ] **The [[Finanzamt]]**
     - [ ] **If you have a business**  
         If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/ELSTER), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]

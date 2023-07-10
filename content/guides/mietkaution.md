@@ -45,9 +45,9 @@ The landlord can't force you to pay the *Kaution* all at once.[^3]
 
 If you don't have enough money for the deposit, you can open a *[[Mietaval]]*. The bank guarantees the deposit for you, and you pay a small fee to the bank every month.
 
-### Get help from the Jobcenter
+### Get help from the Agentur für Arbeit
 
-If you receive [[ALG I]] or [[Bürgergeld]], the Jobcenter can pay your deposit.[^4]
+If you receive [[ALG I]] or [[Bürgergeld]], the *[[Agentur für Arbeit]]* can pay your deposit.[^4]
 
 ## If you don't have a bank account
 

@@ -70,7 +70,7 @@ By default, you must return the money now. That means maximum April 30.[^1] Do n
 
 **Make the payment with reservations**.[^11] When you transfer the money, include "*ohne Anerkennung einer Rechtspflicht*" in the payment description.[^12] If you return the money without reservations, it means that you agree with the higher rent. It makes it harder to lower your rent again with the *[[Mietpreisbremse]]*.[^13] You should also [send a letter of reprimand](https://conny.de/en/rent/rent-freeze?utm_source=allaboutberlin) (*qualifizierte Rügeschreiben*) to oppose the higher rent. These steps will help you later, if you lower your rent with the *Mietpreisbremse*.
 
-**If you receive housing benefits** (SGB II, or SGB XII chapter 4), contact the *Jobcenter* or *Sozialamt*. If you must pay your landlord back, they will cover the costs.[^14] You must apply for it in April, not later.[^15]
+**If you receive housing benefits** (SGB II, or SGB XII chapter 4), contact the *[[Jobcenter]]* or *Sozialamt*. If you must pay your landlord back, they will cover the costs.[^14] You must apply for it in April, not later.[^15]
 
 **If you receive asylum seeker benefits**, contact the *Landesamt für Flüchtlingsangelegenheiten*. If you must pay your landlord back, they will cover the costs.[^16]
 

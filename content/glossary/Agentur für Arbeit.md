@@ -12,4 +12,4 @@ Related_guides:
     guides/german-work-visa.md
 ---
 
-The *Agentur für Arbeit* (*Bundesagentur für Arbeit*, *Arbeitsagentur*, *BA* or *AfA*) is responsible for [unemployment benefits](/glossary/ALG%20I), the Jobcenters, and the German labour market.
+The *Agentur für Arbeit* (*Bundesagentur für Arbeit*, *Arbeitsagentur*, *BA* or *AfA*) is responsible for [unemployment benefits](/glossary/ALG%20I), the [Jobcenters](/glossary/Jobcenter), and the German labour market.

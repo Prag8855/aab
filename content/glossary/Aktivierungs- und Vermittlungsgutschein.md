@@ -5,9 +5,9 @@ English_term: AVGS voucher
 Description: A voucher that lets unemployed people get professional training.
 Date_created: 2022-06-08
 Related_guides:
-    guides/start-a-business-in-germany.md
     guides/unemployment-benefits.md
     guides/losing-your-job.md
+    guides/start-a-business-in-germany.md
 ---
 
 The AVGS voucher (*Aktivierungs- und Vermittlungsgutschein*) lets unemployed people get free coaching or training. It's similar to the *[[Bildungsgutschein]]*.

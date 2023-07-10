@@ -75,7 +75,7 @@
                 <template v-else>
                     Your health insurance costs a percentage of your income.
                     <template v-if="flag('alg-i-buergergeld')">
-                        If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, the Jobcenter pays for your insurance.
+                        If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, the <glossary>Agentur für Arbeit</glossary> pays for your insurance.
                     </template>
                     <template v-else>
                         Your employer does not pay half of it.
@@ -238,7 +238,7 @@
                 <div>
                     <h3>ALG I or Bürgergeld</h3>
                     <p>
-                        If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The Jobcenter pays for it.
+                        If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
                     </p>
                 </div>
                 <output><eur :amount="0"></eur> <small>per month</small></output>
