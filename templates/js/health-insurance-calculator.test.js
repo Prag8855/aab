@@ -12,7 +12,7 @@ const hasStudentTarif = (output) => {
     output.pflegeversicherung.totalContribution,
     roundCurrency(pflegeversicherung.defaultTarif * bafogBedarfssatz));
   assert.equal(output.options.tk.total.employerContribution, 0);
-  notHasFlag(output, 'student-over30')();
+  notHasFlag(output, 'student-30plus')();
 };
 const hasStudentTarifWithExtraPflegeversicherung = (output) => {
   assert.equal(output.tarif, 'student');
@@ -26,7 +26,7 @@ const hasStudentTarifWithExtraPflegeversicherung = (output) => {
     output.pflegeversicherung.totalContribution,
     roundCurrency(pflegeversicherung.surchargeTarif * bafogBedarfssatz));
   assert.equal(output.options.tk.total.employerContribution, 0);
-  notHasFlag(output, 'student-over30')();
+  notHasFlag(output, 'student-30plus')();
 };
 
 const hasMinimumSelfEmployedTarif = (output) => {
@@ -268,16 +268,16 @@ describe('calculateHealthInsuranceContributions', () => {
       it('pays more for Pflegeversicherung if he has no kids', hasFlag(outputNoKids, 'pflegeversicherung-surcharge'));
     });
 
-    describe('a 30 year old student with a minijob', () => {
+    describe('a 29 year old student with a minijob', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
-        age: 30,
+        age: 29,
         hasChildren: true,
         isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
-        age: 30,
+        age: 29,
         hasChildren: false,
         isMarried: true,
         occupation: 'studentEmployee',
@@ -298,16 +298,16 @@ describe('calculateHealthInsuranceContributions', () => {
       it('pays more for Pflegeversicherung if he has no kids', hasFlag(outputNoKids, 'pflegeversicherung-surcharge'));
     });
 
-    describe('a 31 year old student with a minijob', () => {
+    describe('a 30 year old student with a minijob', () => {
       const outputWithKids = calculateHealthInsuranceContributions({
-        age: 31,
+        age: 30,
         hasChildren: true,
         isMarried: true,
         occupation: 'studentEmployee',
         monthlyIncome: taxes.maxMinijobIncome,
       });
       const outputNoKids = calculateHealthInsuranceContributions({
-        age: 31,
+        age: 30,
         hasChildren: false,
         isMarried: true,
         occupation: 'studentEmployee',
@@ -320,7 +320,7 @@ describe('calculateHealthInsuranceContributions', () => {
         hasMinimumSelfPayTarifWithExtraPflegeversicherung(outputNoKids);
       });
 
-      it('can\'t get the student tarif', hasFlag(outputNoKids, 'student-over30'));
+      it('can\'t get the student tarif', hasFlag(outputNoKids, 'student-30plus'));
       it('can get private health insurance', hasFlag(outputNoKids, 'private'));
       it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
       it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));

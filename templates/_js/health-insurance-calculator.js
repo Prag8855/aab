@@ -18,8 +18,8 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
   const flags = new Set();
 
   if(isStudent) {
-    if(age > 30) {
-      flags.add('student-over30');
+    if(age >= 30) {
+      flags.add('student-30plus');
       if(isWorkingStudent) { tarif = 'employee' }
       else if(isSelfEmployedStudent) { tarif = 'selfEmployed' }
       else { tarif = 'selfPay' }

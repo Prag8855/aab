@@ -92,7 +92,7 @@
                 Your health insurance costs a percentage of your income. Your employer pays half of it.
             </template>
 
-            <template v-if="flag('student-over30')">
+            <template v-if="flag('student-30plus')">
                 You don't pay the student tarif because you are too old.
             </template>
             <template v-else-if="flag('not-nebenjob')">
