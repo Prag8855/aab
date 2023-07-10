@@ -407,14 +407,15 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### Can I change jobs?
 
-**Yes**. Your work visa or Blue Card is for one employer only. If you want to get another job, you can apply for a new work visa or Blue Card.[^35] There are two exceptions:
+**Yes**. You might need to apply for a new visa or Blue Card. It depends on how long you had a residence permit for.
 
-- If you had a Blue Card for at least 2 years, and you have an unlimited work contract, you can change jobs without changing your visa.[^36]
-- If you had a residence permit for at least 3 years (excluding your time as a student), and you have an unlimited work contract, you can change jobs without changing your visa.[^35]
+**[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ### What happens if I lose my job?
 
-**[Losing your job in Germany ➞ Your residence permit](/guides/losing-your-job#what-happens-to-your-residence-permit)**
+Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berlin, they give you 6 months to find another job.
+
+**[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ### Can I travel outside of Germany?
 
@@ -463,7 +464,6 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 [^32]: [berlin.de](https://service.berlin.de/dienstleistung/305304/en/), [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0315)
 [^34]: [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview), [Quora](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview), [medium.com](http://web.archive.org/web/20210228144004/https://medium.com/@uxuiworld/working-visa-permit-to-germany-a1936dda8571)
 [^35]: [berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/)
-[^36]: [berlin.de](https://service.berlin.de/dienstleistung/326856/standort/121885/en/), [expatriates.stackexchange.com](https://expatriates.stackexchange.com/questions/12356/changing-jobs-after-6-months-as-a-blue-card-holder)
 [^37]: [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
 [^38]: [Wikipedia](https://en.wikipedia.org/wiki/Blue_Card_\(European_Union\))
 [^39]: [berlin.de](https://service.berlin.de/dienstleistung/305265/en/)

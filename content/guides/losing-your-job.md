@@ -213,11 +213,17 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 ## After you leave your job
 
+### Get coaching or training
+
+If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
+
+Ask about it during your unemployment benefits appointment at the *[[Jobcenter]]*.
+
 ### Find a new job
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-You can also start your own business and become self-employed. If you get [unemployment benefits](/glossary/ALG%20I), the *Agentur für Arbeit* helps you with [free training and financial help](/guides/start-a-business-in-germany#step-9-get-financial-help).
+You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*).
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 

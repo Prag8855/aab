@@ -74,7 +74,15 @@ You must register as unemployed at the *[[Agentur für Arbeit]]*. This is how yo
 
 Do this in your last 3 months of work, and **before your second day of unemployment**. If you don't register on time, you lose 1 week of unemployment benefits as a punishment (15% of your monthly income).[^4]
 
-After you register as unemployed, you must go to the *Jobcenter* in person. They will give you an appointment, and tell you which documents to bring.[^18] They might not speak English, so you should bring a translator. I recommend [Red Tape Translation](/out/red-tape-translation).
+### Go to your Jobcenter appointment
+
+After you register as unemployed, you will get an appointment at the *[[Jobcenter]]*. They will tell you which documents to bring.[^18]
+
+Your case worker at the *Jobcenter* might not speak English, so you should bring a translator. I recommend [Red Tape Translation](/out/red-tape-translation).
+
+**If you want professional training**, ask for it during that appointment. Find courses that interest you before your appointment. Explain your career plans, and why these courses will help you. The *Agentur für Arbeit* can pay for professional courses, German lessons and career coaching.
+
+**[List of courses](https://web.arbeitsagentur.de/weiterbildungssuche/suche)** (in German) - *[[Agentur für Arbeit]]*
 
 ### Wait for your Arbeitsbescheinigung
 
