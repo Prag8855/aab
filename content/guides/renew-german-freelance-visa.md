@@ -113,7 +113,7 @@ Go to the **[list of required documents ↓](/guides/renew-german-freelance-visa
 
 **When:** 2-4 weeks before your appointment
 
-Many *[[Ausländerbehörde]]* employees only speak German.[^4] They will ask many questions. You must speak German, or bring a translator with you. I recommend [Red Tape Translation](https://redtapetranslation.com/). I have worked with them many times. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+Many *[[Ausländerbehörde]]* employees only speak German.[^4] They will ask many questions. You must speak German, or bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation). I have worked with them many times. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
 **[List of relocation consultants in Berlin ➞](/guides/relocation-agency-in-berlin)**
 

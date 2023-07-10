@@ -497,7 +497,7 @@ Many organisations offer **free** consultations, support and workshops for artis
 
 - **Alex Holz at [Kulturspace](https://www.kulturspace.com/ksk)**  
     KSK and health insurance expert, native English speaker. His consultation fees are low. Alex helped me write this guide.
-- **Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/)**  
+- **Kathleen Parker at [Red Tape Translation](/out/red-tape-translation)**  
     Relocation consultant with a lot of KSK experience,[^47] native English speaker. Their consultation fees are low. Kathleen reviewed this guide.
 - **[Andri Jürgensen](https://www.kunstrecht.de/)** (Kiel)  
     Lawyer for artists and KSK expert. He speaks English.[^48]

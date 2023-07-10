@@ -203,7 +203,7 @@ You need a few weeks to prepare the documents for your application. The [letters
 
 You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/). It takes around 1 hour. Bring all your documents with you.
 
-Your interview will probably be in German. Some interviewers speak English, but this is not guaranteed. If you don't speak German, bring an interpreter with you. If you can afford it, [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin). I often work with [Kathleen Parker from Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/). She is my expert on German bureaucracy. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+Your interview will probably be in German. Some interviewers speak English, but this is not guaranteed. If you don't speak German, bring an interpreter with you. If you can afford it, [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin). I usually work with Kathleen Parker at [Red Tape Translation](/out/red-tape-translation). [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
 ### Step 8: Receive your freelance visa
 
@@ -387,7 +387,7 @@ Here is a summary of all documents they can ask for:
 - [ ] Recommendation letters **× 2-5**
 - [ ] Revenue forecast / Profit and loss statement (*[[Ertragsvorschau]]*)
 
-If possible, translate these documents to German. [Lingoking](/out/lingoking) is an easy way to get official translations. [Red Tape Translation](https://redtapetranslation.com/) can also help you, and they have a lot of experience with the *Ausländerbehörde*.
+If possible, translate these documents to German. [Lingoking](/out/lingoking) is an easy way to get official translations. [Red Tape Translation](/out/red-tape-translation) can also help you, and they have a lot of experience with the *Ausländerbehörde*.
 
 ## Questions and answers
 

@@ -86,7 +86,7 @@ You will sit in front of an *Ausländerbehörde* employee, and show your documen
 
 This appointment takes around 10 minutes.[^6] They will tell you to go in the waiting room again. They will call your number again in 5 to 45 minutes.
 
-Some employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](https://redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+Some employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](/out/red-tape-translation) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
 **If your current residence permit expires soon**, ask for a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany for a little longer. Some versions of the *Fiktionsbescheinigung* let you travel outside of Germany.[^8]
 
@@ -168,7 +168,7 @@ During your *Ausländerbehörde* appointment, the interviewer can give you a *[[
 
 ### Do they speak English at the Ausländerbehörde?
 
-**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](https://redtapetranslation.com/) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](/out/red-tape-translation) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
 ### How can I contact the Ausländerbehörde?
 
@@ -187,7 +187,7 @@ You can also [get help from other places](/guides/questions-about-berlin#immigra
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
-If you need someone to go with you, I recommend [Red Tape Translation](https://redtapetranslation.com/). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+If you need someone to go with you, I recommend [Red Tape Translation](/out/red-tape-translation). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
 [This Facebook group](https://www.facebook.com/groups/226825394858771/) answers questions about the *Ausländerbehörde*.
 
