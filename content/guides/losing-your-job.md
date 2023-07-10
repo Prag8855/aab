@@ -137,7 +137,7 @@ Before you get [unemployment benefits](/glossary/ALG%20I), your employer must se
 
 ### Get an Urlaubsbescheinigung
 
-A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days to give you this year.[^34]
+A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days you should get this year.[^34]
 
 Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
@@ -151,61 +151,58 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 ### Work visa or Blue Card
 
-After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 6 months to find another job.[^5]
+After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 6 months to find another job.[^5] You can do this by email. You don't need an Ausländerbehörde appointment.
 
-- **If you had this residence permit for at least 2 years**  
+When you start a new job, you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit:
+
+- **If you had <u>this</u> residence permit for at least 2 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^4]
-- **If you had any residence permit for at least 3 years**  
+- **If you had <u>any</u> residence permit for at least 3 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) does not count.[^4]
 - **Everyone else**  
-    You need the *Ausländerbehörde*'s permission to start a new job. You basically need to [apply for a new residence permit](/guides/german-work-visa). This can take a few months.
+    You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [apply for a new residence permit](/guides/german-work-visa). This can take a few months.
 
-If you are not sure, ask an immigration lawyer. For quick questions, use Alexander von Engelhardt's legal hotline.
+If you are not sure, ask an immigration lawyer.
 
 **[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
 
 ### Citizens and permanent residents
 
-Nothing happens. EU citizens and German permanent residents can live in Germany without a job.
+Nothing happens to your permanent residence or citizenship.
 
 ## What happens to your health insurance
 
-Your health insurance stays the same, but the price can change.
-
 ### With public health insurance
 
-Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) becomes cheaper. Sometimes, it becomes free.
+Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) becomes cheaper or free. The coverage stays the same.
 
-**If you get [unemployment benefits](/glossary/ALG%20I)**, the *[[Agentur für Arbeit]]* pays for your health insurance.[^17]
-
-**If you don't get unemployment benefits**, you must pay around around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).[^7]
+- **If you get [unemployment benefits](/glossary/ALG%20I)**, the *[[Agentur für Arbeit]]* pays for your health insurance. It covers you for free.[^17]
+- **If you don't get unemployment benefits**, you must pay around around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).[^7]
 
 In some cases, your health insurance is free for 1 month after you lose your job (*nachgehende Leistungsanspruch*).[^18] This happens automatically; you don't need to apply for it.
 
 ### With private health insurance
 
-Your [private health insurance](/glossary/private%20Krankenversicherung) becomes twice as expensive, or you get free public health insurance.
+Your [private health insurance](/glossary/private%20Krankenversicherung) becomes more expensive, because you employer stops paying half of it. The coverage stays the same.
 
-- **If you get unemployment benefits**  
-    You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance.[^1] In some cases, you can keep your private health insurance.[^2]
+- **If you get [unemployment benefits](/glossary/ALG%20I)**  
+    You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance, so you are covered for free.[^1] In some cases, you can keep your private health insurance.[^2]
 - **If you don't get unemployment benefits**  
-    You keep your private health insurance.[^3] The price stays the same, but your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€.
+    You keep your private health insurance.[^3] Your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€.
 
-**[Who can get unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
+**[Who gets unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
 
 ## What happens to your pay and bonuses
 
-Your employer must pay you until the end of your [notice period](/glossary/Kündigungsfrist). They must pay your full salary, even if they don't make you work.[^23] If you sign a termination agreement (*Aufhebungsvertrag*), you can have a shorter notice period.
+You get paid until your last day of work, at the end of your [notice period](/glossary/Kündigungsfrist). Your employer must pay your full salary, even if they don't make you work.[^23]
 
-When your job ends, you stop getting paid. You might get [unemployment benefits](/glossary/ALG%20I). This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
+After your last day of work, you might get severance pay or [unemployment benefits](/glossary/ALG%20I). This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
 
-**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
-
-If you get a yearly performance bonus, your employer must pay that bonus even if you leave the company.[^22] The bonus can be prorated. For example, if you should get a performance bonus every year, but you quit in September, you should get 75% of the promised bonus. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
+If your employer gives performance bonuses, you should get that bonus even if you leave the company.[^22] Your bonus can be prorated. For example, if you should get a performance bonus every year, but you leave in September, you should get 75% of the promised bonus. Bonuses are usually paid at the start of the next year. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
 ## What happens to your unused vacation days
 
-You usually take your unused vacation days during your [notice period](/glossary/Kündigungsfrist).[^14] If this not possible, your employer must pay you for the unused vacation days.
+You usually take your unused vacation days during your [notice period](/glossary/Kündigungsfrist).[^14] In some cases, your employer pays you for your unused vacation days.
 
 During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
@@ -231,9 +228,8 @@ You can also start your own business and become self-employed. The *Agentur für
 
 At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
 
-If you get [unemployment benefits](/glossary/ALG%20I), you *must* make a tax declaration.
-
-If you don't get unemployment benefits, you should still make a tax declaration. When you are employed, you pay salary tax (*[[Lohnsteuer]]*). Salary tax is based on your predicted income. If you did not work for a few months, your predicted income was too high, and you paid too much taxes. Make a tax declaration, and you will get money back.
+- **If you get [unemployment benefits](/glossary/ALG%20I)**, you *must* make a tax declaration.
+- **If you don't get unemployment benefits**, you should still make a tax declaration. If you were unemployed for a few months, you probably paid too much taxes. Make a tax declaration to get some money back.
 
 **[German tax software ➞](/guides/german-tax-software)**
 
