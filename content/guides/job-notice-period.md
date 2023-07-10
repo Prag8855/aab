@@ -5,19 +5,25 @@ Description: When you quit your job in Germany, you must give your employer a no
 Date_created: 2023-04-19
 ---
 
-In Germany, all jobs have a notice period (*Kündigungsfrist*), both for the employee (when they quit) and the employer (when they fire someone). This guide explains how notice periods work.
-
-Before you [find a new job](/guides/find-a-job-in-berlin), check your notice period in your work contract. Many jobs have a 3 month notice period.[^13] If your work contract does not have a notice period, the default notice period applies.
+German jobs have a notice period (*Kündigungsfrist*). If you quit or get laid off, you must work until the end of your notice period. This guide explains how that notice period works.
 
 ## If you quit your job
 
-If you quit, the default notice period is 4 weeks, rounded to the 15th or last day of the month.[^2] Many work contracts have a longer notice period.
+The default notice period is 4 weeks, rounded up to the 15th or last day of the month.[^2] Your notice period starts one day after your employer receives your [resignation letter](/glossary/Kündigungsschreiben).[^5]
 
-> **Example 1:** Your work contract has a 3 month notice period. You quit your job on January 5. You must work until March 5.
+> **Example 1:** You give your [resignation letter](/glossary/Kündigungsschreiben) on May 18. Your notice period starts on May 19. You must work until June 30. That's 4 weeks later (June 16), rounded to up the last day of the month (June 30).
 
-> **Example 1:** Your work contract does not mention a notice period.
+> **Example 2:** Your notice period starts on May 12. You must work until June 15. That's 4 weeks later (June 9), rounded to up the 15th day of the month (June 15).
 
-> **Example 2:** Your work contract does not mention a notice period.
+**Check your work contract**. Many jobs have a longer notice period. A 3 month notice period is common.[^13] Some jobs have 6 month or 1 year notice periods.
+
+> **Example 3:** Your work contract has a 3 month notice period. You give your resignation letter on July 10. Your notice period starts on July 11. You must work until October 11. That's 3 months later.
+
+**During your [probation period](/glossary/Probezeit)**, your notice period is only 2 weeks.[^1]
+
+> **Example:** You started a job 2 months ago, and you are still in your probation period. You resign on July 11. You must work until July 25. That's 2 weeks later.
+
+**[Notice period calculator](https://www.afa-anwalt.de/kuendigungsfristenrechner/)** (in German) - AfA Rechtsanwälte
 
 ## If you get laid off
 
@@ -35,9 +41,11 @@ If you get laid off, the default notice period depends on how long you have work
 | Over 15 years | 6 months, on the last day of the month |
 | Over 20 years | 7 months, on the last day of the month |
 
-> **Example 1:** You work for a company for 1 year. You get laid off on February 18. You must work until March 31.
+> **Example 1:** You work for a company for 1 year. You get laid off on February 18. You must work until March 31. That's 1 month later (March 18), rounded to the last day of the month (March 31).
 
-> **Example 2:** You get laid off on March 17. You must work and get paid until May 31.
+> **Example 2:** You started a job 2 months ago, and you are still in your probation period. You get laid off on July 11. You must work until July 25. That's 2 weeks later.
+
+Your notice period starts one day after you receive your termination letter.
 
 ### In case of bankruptcy
 
@@ -47,13 +55,11 @@ If your employer goes bankrupt, the notice period is limited to 3 months, at the
 
 If you get fired, there is usually a notice period. notice period depends on why you were fired.
 
-If you get fired for a serious reason, there is no notice period. For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9] In most cases, you will get a warning first.
+If you get fired for a serious reason, there is no notice period. For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9] In most cases, you get a written warning first.
 
 ## How the notice period works
 
-Your notice period starts on the day after your employer receives your resignation letter.[^5]
-
-During your notice period, your employer still pays your salary, health insurance, pension insurance and other benefits.[^8] You can still take [sick days](/guides/sick-leave) and [use your vacation days](/guides/vacation-days).
+During your notice period, your employer still pays your salary, health insurance, pension insurance and other benefits.[^8] You can still take [sick days](/guides/sick-leave) and [use your vacation days](/guides/vacation-days). You still get paid time off for [public holidays](/guides/public-holidays).
 
 During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
 
@@ -65,10 +71,11 @@ If you have unused vacation days, your employer can force you to use them. You c
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
+[^1]: [§622 Abs. 3 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)
 [^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
 [^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
 [^4]: [§113 InsO](https://www.gesetze-im-internet.de/inso/__113.html), [juraforum.de](https://www.juraforum.de/gesetze/bgb/622-kuendigungsfristen-bei-arbeitsverhaeltnissen), [Finanztip](https://www.finanztip.de/arbeitsrecht-kuendigungsfrist/#:~:text=der%20Probezeit%20nicht.-,insolvenzverfahren,--%C2%A0K%C3%BCndigt%20der%20Insolvenzverwalter)
-[^5]: [§187 BGB](https://www.gesetze-im-internet.de/bgb/__187.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/)
+[^5]: [§187 BGB](https://www.gesetze-im-internet.de/bgb/__187.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/), [t-online.de](https://www.t-online.de/finanzen/beruf-karriere/beruf/id_92015180/kuendigungsfrist-berechnen-so-geht-s-beispiele-fuer-arbeitnehmer.html#:~:text=berechnungsgrundlage%20ist%20immer%20das%20datum%2C%20an%20dem%20die%20kundigung%20beim%20arbeitgeber%20eingeht)
 [^6]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=wird%20der%20arbeitnehmer%20oftmals%20freigestellt)
 [^7]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/)
 [^8]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=das%20hat%20aber%20keine%20sozialversicherungsrechtlichen%20konsequenzen)
