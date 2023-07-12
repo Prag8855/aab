@@ -90,7 +90,7 @@ Most Turkish grocery stores have chicken and beef sausages. They taste exactly l
 
 ### Kerrygold salted butter
 
-Edeka, Lidl, Penny and [REWE](https://www.rewe.de/suche/?search=kerrygold) usually have Kerrygold salted butter.
+Kaufland, Edeka, Lidl, Penny and [REWE](https://www.rewe.de/suche/?search=kerrygold) usually have Kerrygold salted butter.
 
 ### Maple syrup
 
