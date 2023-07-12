@@ -174,6 +174,10 @@ When you deregister, you get an *[[Abmeldebescheinigung]]*. You can use this cer
 
 If you own a business in Germany, you might also need to deregister your business,[^16] or transfer it to another person.
 
+## If you already moved out
+
+If you already left Germany, you can do your *Abmeldung* by email or by mail.[^23] It works.
+
 ## What to do next
 
 **[How to move out of an apartment ➞](/guides/moving-out)**
@@ -211,3 +215,4 @@ If you own a business in Germany, you might also need to deregister your busines
 [^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^22]: Oliver at [SympatMe](https://sympat.me) (April 2023)
+[^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
