@@ -168,7 +168,7 @@ During your *Ausländerbehörde* appointment, the interviewer can give you a *[[
 
 ### Do they speak English at the Ausländerbehörde?
 
-**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](/out/red-tape-translation) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
 ### How can I contact the Ausländerbehörde?
 

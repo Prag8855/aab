@@ -39,7 +39,7 @@ There are two ways to get a driving licence translation:
     - In Canada: from a CAA Travel Centre,[^4] a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate.[^5]
     - In the UK: at the Post Office
 - or **get a [certified translation](/glossary/beglaubigte%20Übersetzung)**...
-    - from a certified translator like [LingoKing](/out/lingoking-drivers-licence)
+    - from a certified translator like [Red Tape Translation](/out/red-tape-translation-certified) or [LingoKing](/out/lingoking-drivers-licence)
     - or from a government office like an embassy or [vehicle registration office](/glossary/Kfz-Zulassungsstelle)
     - or from a recognised automobile association like [AA](https://www.theaa.com/), [AAA](https://www.aaa.com/International/), [CAA](https://www.caa.ca/), [ADAC](https://www.adac.de/)...
 

@@ -277,7 +277,7 @@ Some interviewers will look at every document. Some interviewers will ignore mos
 
 The interviewer will scan your documents page by page. Do not staple the pages together. If possible, print everything on A4 paper.
 
-If you need to translate documents to German, use [Lingoking](/out/lingoking-letters).
+If you need to translate documents to German, use [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking-letters).
 
 ### Basic documents
 
@@ -312,7 +312,7 @@ If you need to translate documents to German, use [Lingoking](/out/lingoking-let
     Bring a resume to help you reference your professional experience. Make the resume relevant to the visa you are applying for. Don't include irrelevant experience or summer jobs here.
 - **Cover letter** (*Anschreiben*)  
     [Example 1](/docs/freelance-visa-cover-letter) - [example 2](/images/German-freelance-visa-cover-letter-example.png)  
-    Some interviewers simply don’t care about your cover letter, but it's good to have one. It should be in German, in case your interviewer doesn't speak English. Don't forget to sign the letter. If you need to translate documents, use [Lingoking](/out/lingoking).
+    Some interviewers simply don’t care about your cover letter, but it's good to have one. It should be in German, in case your interviewer doesn't speak English. Don't forget to sign the letter. If you need to translate documents, use [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 - **Portfolio / examples of your work**  
     This is not required, but it's useful.[^19] It helps you explain what you do. Bring *printed* samples of your work. You need printed examples; a website address will not work.[^33]
 - **Professional permit** *(if applicable)*  

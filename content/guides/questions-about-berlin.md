@@ -49,7 +49,7 @@ You can get help from these communities and services.
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin).
     - **Immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
         Use this number to ask quick questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
-- **[Red Tape Translation](/out/red-tape-translation)**  
+- **[Red Tape Translation](/out/red-tape-translation-interpreter)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
 - **[Verfahrenshinweise zum Aufenthalt in Berlin](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)** (in German)  
     This internal document tells you exactly how the Berlin Ausländerbehörde works. It has better information about visa and residence permits than the official website.

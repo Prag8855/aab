@@ -63,7 +63,7 @@ You must give the same information as when you apply online. You must include th
 - [ ] Your work contract (if you want to prove that you need more *Kita* hours than allowed)
 - [ ] A *[[Vollmacht]]* (if one parent is making the application on behalf of the other)
 
-If you need to translate documents to German, use [Lingoking](/out/lingoking).
+If you need to translate documents to German, use [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
