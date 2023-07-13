@@ -32,6 +32,12 @@ To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
+### See a doctor
+
+If you quit for mental health reasons (burnout, depression, stress), get a note from a doctor. This proves that you had a reason to quit.[^12]
+
+If you quit without a reason, you get less [unemployment benefits](/glossary/ALG%20I).
+
 ## If you get laid off or fired
 
 ### Resist your dismissal
@@ -282,3 +288,4 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^32]: [karrierebibel.de](https://karrierebibel.de/beendigung-arbeitsverhaeltnis/#:~:text=arbeitnehmer%2C%20die%20in%20der%20lebensmittelbranche%20oder%20gastronomie%20arbeiten)
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
+[^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)

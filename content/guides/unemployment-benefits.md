@@ -147,7 +147,7 @@ Look for work. ALG I depends on it.
 [^11]: [Section 3.1](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^12]: [Section 4.1](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
 [^13]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
-[^14]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
+[^14]: [Section 6](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/)
 [^15]: [jobrecht.de](https://www.jobrecht.de/arbeitslosengeld/#Wann-erfolgt-die-Arbeitslosengeld-Auszahlung), [sozialleistungen.info](https://www.sozialleistungen.info/arbeitslosengeld/auszahlung-des-alg-i/)
 [^16]: [sozialleistungen.info](https://www.sozialleistungen.info/arbeitslosengeld/auszahlung-des-alg-i/)
 [^17]: [Section 1.1](https://www.arbeitsagentur.de/datei/fw-sgb3-par-337_ba045449.pdf)
