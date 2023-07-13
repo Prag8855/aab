@@ -1,6 +1,6 @@
 ---
 Name: Fiona Macdonald
-Description: Legal services for English speakers. Immigration law, administrative law.
+Description: Immigration law and administrative law. Native English speaker.
 Website: https://en.fmr-legal.de/
 Email: info@fmr-legal.de
 Address: Kurfürstendamm 70

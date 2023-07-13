@@ -1,6 +1,6 @@
 ---
 Name: Alexander von Engelhardt
-Description: Specialized in business and immigration law.
+Description: Immigration law and business law.
 Website: https://vonengelhardt.com/
 Email: ahoi@vonengelhardt.com
 Address: Hardenbergstraße 12

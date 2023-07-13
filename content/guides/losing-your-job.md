@@ -2,7 +2,7 @@
 Title: Losing or quitting your job in Germany
 Short_title: Losing or quitting your job
 Description: What happens when you resign, get laid off, change jobs or change careers in Germany. This is what happens to your health insurance, residence permit, unemployment benefits etc.
-Date_created: 2023-07-06
+Date_created: 2023-07-14
 ---
 
 This guide shows you what to do when:
