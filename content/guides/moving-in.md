@@ -156,23 +156,22 @@ Your own things are not covered by liability insurance. To insure your furniture
 
 [Muffin](/out/muffin-haftpflicht) helps you choose liability insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. These companies also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both at the same time. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options.
 
-### Join a tenants' association
+### Protect your rights
 
-A tenants' association (*[[Mieterverein]]*) protects tenants from their landlords. When you are in a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment.
+Landlords often take advantage of immigrants. You must be ready to defend yourself. There are many ways to do this:
 
-The membership costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. The Berliner Mieterverein offers help in English.[^10]
+- **Join a tenants' association** (*[[Mieterverein]]*)
+    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest associations in Berlin. The Berliner Mieterverein offers help in English.[^10]
+- or **get legal insurance** (*[[Rechtsschutzversicherung]]*)
+    It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Muffin](/out/muffin-rechtsschutz), [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
+- or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**
+    This is a free service from the city of Berlin. They might not speak English.
 
-You can also get free help from the [*Mieterberatung*](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). This is a free service from the city of Berlin. They might not speak English.
-
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
-
-You can also [get legal insurance](/guides/legal-insurance). Legal insurance lets you talk to a lawyer when you have a problem. It also pays for your legal costs if you sue someone. It covers more things than a *Mieterverein*, but it's more expensive. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) have legal insurance in English.
-
-**[What is legal insurance? ➞](/guides/legal-insurance)**
+**[Other ways to get help ➞](/guides/questions-about-berlin#apartment-questions)**
 
 ### Lower your rent
 
-German rent prices are limited by law. If your rent is above the legal limit, you can get it lowered. Use [this calculator](/out/conny-mietpreisbremse-calculator) to know if you pay too much rent.
+German rent prices are limited by law. If your rent too high, you can get it reduced. Use [the rent limit calculator](/out/conny-mietpreisbremse-calculator) to check if you pay too much rent.
 
 If your rent is too high, these people can help you:
 
