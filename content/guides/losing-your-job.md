@@ -149,7 +149,9 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 **[What happens to your vacation days ↓](#what-happens-to-your-unused-vacation-days)**
 
-### Other documents
+### Get all other documents
+
+You must get your income tax certificate (*Lohnsteuerbescheinigung*) and your last pay slip (*Lohnabrechnung*).[^27] The *Agentur für Arbeit* might ask for them.
 
 If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
@@ -252,6 +254,8 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
     - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
     - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
     - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
+    - [ ] Last pay slip (*Lohnabrechnung*)
+    - [ ] Income tax certificate (*Lohnsteuerbescheinigung*)
     - [ ] Health certificate (*Gesundheitszeugnis*), if you work in gastronomy
 
 ## Need help?
@@ -289,3 +293,4 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
+[^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
