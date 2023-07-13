@@ -64,6 +64,10 @@ If you send all your documents, it counts as a residence permit application. Thi
 
 **[If your visa expires soon ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
+### By fax
+
+Some people say that fax works much faster than email.[^22] The Ausländerbehörde's fax number is (030) 90269 4099. Their opening hours are [here](https://service.berlin.de/standort/121885/).
+
 ### By registered mail
 
 You can send your residence permit application by [registered mail](/glossary/Einschreibebrief). It's not better or faster than email.[^23]
@@ -214,3 +218,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
 [^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)
+[^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/)
