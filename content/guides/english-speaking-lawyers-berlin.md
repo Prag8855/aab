@@ -6,6 +6,7 @@ Date_created: 2018-03-21
 Related_places:
     places/fiona-macdonald.md
     places/alexander-von-engelhardt.md
+    places/rotwang-law.md
     places/schönfeld-benedicter-rechtsanwälte.md
     places/kanzlei-stöbe.md
     places/vpmk-rechtsanwälte.md
