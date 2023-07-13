@@ -134,7 +134,7 @@ If you need help to move furniture, you can use a [Möbel Taxi](https://www.moeb
 
 Most apartments come without light fixtures. You will need to get your own from Ikea or some other furniture store. You can hire a *Handwerker* to install them for you. You can find a *Handwerker* on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/handwerker/k0l3331).
 
-### Do your address change
+### Change your address
 
 The address change is not automatic. When you register your new address, the *[[Bürgeramt]]* will tell some people, but not everyone.
 
@@ -142,7 +142,7 @@ The address change is not automatic. When you register your new address, the *[[
 
 ### Get liability insurance
 
-Liability insurance (*[[Haftpflichtversicherung]]*) is really important in Germany. 85% of German homes have it.[^3] It costs around 5€ per month.
+Liability insurance (*[[Haftpflichtversicherung]]*) is really important in Germany. Everyone should have it. 85% of German homes have it.[^3] It costs around 5€ per month.
 
 If you cause an accident in Germany, the victim can sue you. If the victim wins, you have to pay reparations.[^4] A lawsuit like that can easily ruin you. Liability insurance protects you from such damage claims. If you cause an accident, your insurance company will pay the legal fees and the reparations. For example, if your washing machine breaks and floods your neighbour's apartment, your insurance will pay for it.
 
@@ -150,7 +150,7 @@ If you rent a furnished apartment, choose a liability insurance that covers rent
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
-The things you have in your apartment are not covered by liability insurance. If you want to insure your furniture or your electronics, you need a household insurance (*[[Hausratversicherung]]*).[^5] Household insurance can also cover bicycle theft.
+Your own things are not covered by liability insurance. To insure your furniture, your electronics or your bicycle, get household insurance (*[[Hausratversicherung]]*).[^5]
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 

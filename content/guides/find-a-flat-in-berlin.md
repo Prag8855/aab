@@ -416,6 +416,17 @@ These guides explain how:
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
+## Step 6: Get insured
+
+There are 3 types of insurance that cover your apartment:
+
+1. **[Liability insurance](/glossary/Haftpflichtversicherung)** (*Haftpflichtversicherung*)  
+    It covers damage to other people's things. For example, if you spill water and destroy the floor, or if you [lose your keys](/guides/lost-keys) and they must replace all the locks in the building. Everyone should have liability insurance. - [More information](/guides/haftpflichtversicherung)
+2. **[Legal insurance](/glossary/Rechtsschutzversicherung)** (*Rechtsschutzversicherung*)  
+    If you have problems with your landlord, it pays for the legal costs. Landlords often take advantage of immigrants. Legal insurance allows you to defend yourself. It's optional, but good to have. - [More information](/guides/legal-insurance)
+3. **[Household insurance](/glossary/Hausratversicherung)** (*Hausratversicherung*)  
+    It covers your things against theft and fires. It can also cover your bicycle. It's useful if you can't afford to replace your things.
+
 ## Need help?
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
