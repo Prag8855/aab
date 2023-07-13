@@ -264,7 +264,7 @@ Some newer apartments have heated floors instead of radiators. You control them 
 
 **[More information](https://berlincheap.com/heating/)** - Berlin Cheap
 
-Sometimes, your landlord will remove air in your radiators with an *[Entlüftungsschlüßel](https://www.google.de/search?tbm=isch&q=entlüftungsschlüssel)*. This takes a few seconds, and it makes your radiator work more efficiently.
+Sometimes, your landlord will remove air in your radiators with an *[Entlüftungsschlüßel](https://www.google.de/search?tbm=isch&q=entlüftungsschlüssel)*. This takes a few seconds, and it makes your radiator work better.
 
 ## Need help?
 
