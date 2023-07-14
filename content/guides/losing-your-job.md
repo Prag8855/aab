@@ -34,15 +34,15 @@ To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*
 
 ### See a doctor
 
-If you quit for mental health reasons (burnout, depression, stress), get a note from a doctor. This proves that you had a reason to quit.[^12]
+If you quit for mental health reasons (burnout, depression, stress), get a note from a doctor. This proves that you had a valid reason to quit.[^12]
 
-If you quit without a reason, you get less [unemployment benefits](/glossary/ALG%20I).
+If you quit without a reason, you lose 3 months of [unemployment benefits](/glossary/ALG%20I).
 
-## If you get laid off or fired
+## If you get fired or laid off
 
 ### Resist your dismissal
 
-If you get fired or laid off, you have 3 weeks to resist the decision with a *Kündigungsschutzklage*.[^30]
+If you get fired or laid off, you have 3 weeks to resist the decision with a *Kündigungsschutzklage*.[^30] You should [get help](#need-help) from a lawyer.
 
 During your [probation period](/glossary/Probezeit), your employer can fire you without a reason. After your probation period, your employer must give a valid reason. Usually, they can't fire you without a warning.
 
