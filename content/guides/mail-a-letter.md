@@ -7,6 +7,8 @@ Date_created: 2022-12-01
 
 This is how you can send a letter by post in Germany, even if you don't have a printer.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## At the post office
 
 Just prepare your envelope or package, and go to the post office. You don't need to buy stamps. They will take care of it. Bring cash; some post offices don't accept credit cards.
