@@ -2,7 +2,7 @@
 Title: What is Arbeitslosengeld I or ALG I?
 German_term: ALG I
 English_term: Unemployment benefits
-Description: Social benefits given to unemployed people.
+Description: Arbeitslosengeld I: social benefits for unemployed people.
 Date_created: 2020-04-07
 Related_guides:
     guides/unemployment-benefits.md

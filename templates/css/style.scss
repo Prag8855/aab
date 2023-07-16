@@ -85,6 +85,11 @@ $width-main-column: 860px;
         @content;
     }
 }
+@mixin not-print {
+    @media not print{
+        @content;
+    }
+}
 
 @include only-phone{
     .no-mobile{
@@ -102,6 +107,27 @@ $width-main-column: 860px;
     .no-print{
         display: none!important;
     }
+
+    body{
+        display: block!important;
+    }
+}
+
+/*******************************************************************************
+ * 
+ * Print styles
+ *
+*******************************************************************************/
+
+@include not-print {
+    .only-print{
+        display: none!important;
+    }
+}
+
+@page {
+    size: A4;
+    margin: 0;
 }
 
 /*******************************************************************************
@@ -331,7 +357,7 @@ $width-main-column: 860px;
     outline: none;
     text-decoration: none!important;
 
-    &:focus, &:active{
+    &:hover, &:focus-visible, &:active{
         @include box-clickable-hover;
     }
 
@@ -1333,6 +1359,10 @@ label.checkbox{
 .percent-input{
     width: 2.5ch!important;
 }
+.gender-input{flex: 0 0 auto;}
+.address-input{
+    height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;
+}
 
 .toggle{
     cursor:pointer;
@@ -1448,7 +1478,7 @@ input[type=range] {
         border-color: var(--c-highlight);
         color: #fff!important;
 
-        &:hover, &:focus{
+        &:hover, &:focus-visible{
             background-color: var(--c-bg-input);
             color: var(--c-text-heading)!important;
         }
@@ -1463,7 +1493,7 @@ input[type=range] {
 .buttons{
     display: flex;
     gap: var(--m);
-    margin: var(--s-text-block) 0 0;
+    margin: var(--l-relative) 0;
     justify-content: center;
     &.left{
         justify-content: flex-start;
@@ -1472,16 +1502,16 @@ input[type=range] {
         justify-content: flex-end;
     }
 
-    .button{flex: 0 0 auto;}
+    > *{flex: 0 0 auto;}
 
     @include only-phone{ // Vertical buttons
         flex-direction: column-reverse;
 
         gap: var(--s);
 
-        .button{
+        > *{
             flex: 1 0 auto;
-            width: 100%;
+            width: 100%!important;
             max-width: 15rem;
             margin: 0 auto;
         }
@@ -1519,7 +1549,6 @@ input[type=range] {
     }
 
     textarea{
-        max-width: 100%;
         flex: 1 1 auto;
     }
 
@@ -1559,30 +1588,31 @@ input[type=range] {
         line-height: var(--line-height-labe);
     }
 
-    .date-picker{
-        @include form-input;
-        padding: 0;
-        flex: 0 0 fit-content;
-        display: flex;
-        align-items: baseline;
-        color: var(--c-border-input); // The date separator, "/"
+}
+.date-picker{
+    @include form-input;
+    width: fit-content;
+    padding: 0;
+    flex: 0 0 fit-content;
+    display: inline-flex;
+    align-items: baseline;
+    color: var(--c-border-input); // The date separator, "/"
 
-        &:focus-within{
-            color: var(--c-border-input-focused);
-            border-color: var(--c-border-input-focused);
-        }
+    &:focus-within{
+        color: var(--c-border-input-focused);
+        border-color: var(--c-border-input-focused);
+    }
 
-        input{
-            border: none!important;
-            box-shadow: none!important;
-            box-sizing:content-box!important;
-            flex: 0 0 auto!important;
-            text-align: center;
-            width: 3ch!important; // A bit wider because of the placeholder
-        }
-        .year-input{
-            width: 5ch!important;
-        }
+    input{
+        border: none!important;
+        box-shadow: none!important;
+        box-sizing:content-box!important;
+        flex: 0 0 auto!important;
+        text-align: center;
+        width: 3ch!important; // A bit wider because of the placeholder
+    }
+    .year-input{
+        width: 5ch!important;
     }
 }
 
@@ -1785,6 +1815,10 @@ details{
         cursor: pointer;
         list-style: none;
 
+        small{
+            display: block;
+        }
+
         &::marker, &::-webkit-details-marker{
             display: none;
         }
@@ -1832,6 +1866,146 @@ details{
     &:not([open]){
         @include box-clickable;
         padding: 0;
+
+        &:focus-within{
+            @include box-clickable-hover;
+        }
+        summary:focus-visible{
+            outline: none;
+        }
+    }
+}
+
+@include only-phone{
+    .letter-body {
+        font-size: var(--f-s);
+    }
+}
+.letter-template{
+    // DIN 5008 pages are measured in millimetres. A page is 210mm x 296.
+    // We create a scale where 1mm == 1/210%. If we multiply the mm size by
+    // that unit, we get the percentage size.
+    $pageScaleWidth: 210 / 100%;
+    $pageScaleHeight: 296 / 100%;
+    $fontSizeScale: 0.185cqw;
+    display: block;
+    margin: 0;
+    background: #fff!important;
+    color: #000!important;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    page-break-after: always;
+    width: 210 / $pageScaleWidth;
+    aspect-ratio: 210 / 296;
+    padding: 0;
+    border: none;
+    line-height: 1.15;
+
+    container: letter / size;
+
+    @include not-print{
+        border: var(--b-box);
+        box-shadow: var(--shadow-l);
+    }
+
+    .no-print{
+        display: none!important;
+    }
+    .only-print{
+        display: block!important;
+    }
+
+    * {
+        color: #000!important;
+        font-size: 10 * $fontSizeScale;
+    }
+
+    .letter-recipient-address {
+        .letter-return-address {
+            font-size: 8 * $fontSizeScale;
+            display: block;
+        }
+        position: absolute;
+        top: 27 / $pageScaleHeight;
+        left: 25 / $pageScaleWidth;
+        width: 85 / $pageScaleWidth;
+        height: 45 / $pageScaleHeight;
+        display: flex;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .letter-details {
+        padding-top: 32 / $pageScaleHeight;
+        padding-left: 125 / $pageScaleWidth;
+        width: 75 / $pageScaleWidth;
+        min-height: 40 / $pageScaleHeight;
+    }
+    .letter-footer {
+        position: absolute;
+        bottom: 6.5 / $pageScaleHeight;
+        left: 25 / $pageScaleWidth;
+        width: 165 / $pageScaleWidth;
+    }
+    .letter-body {
+        padding-left: 25 / $pageScaleWidth;
+        padding-top: 8.46 / $pageScaleHeight;
+        width: 160 / $pageScaleWidth;
+    }
+
+    .signature{
+        max-width: 15rem;
+        border-top: 1px solid var(--c-text);
+        color: var(--c-text-light);
+        margin-top:calc(var(--l-relative) + var(--xxl));
+        padding-top:var(--xs);
+    }
+}
+
+.tabs{
+    display: grid;
+    width: fit-content;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    border: var(--b-box);
+    border-radius: var(--b-radius);
+    overflow: hidden;
+    background: var(--c-bg-widget);
+    box-shadow: inset var(--shadow-s);
+
+    button{
+        padding: var(--xs) var(--m);
+        color: var(--c-text);
+        background: transparent;
+        text-align: center;
+
+        &:disabled{
+            background: var(--c-bg-widget-opaque);
+            box-shadow: var(--shadow-s), 0 0 0 1px var(--c-border-clickable);
+            position: relative;
+            z-index: 1;
+        }
+        &:not(:disabled){
+            cursor: pointer;
+            color: var(--c-text-light);
+            background: transparent;
+            &:focus-visible{
+                color: #fff;
+                background: var(--c-highlight);
+            }
+        }
+    }
+
+    &.language-picker{
+        float: right;
+    }
+    @include full-width-site{
+        &.language-picker{
+            float:none;
+            margin: 0 auto;
+        }
     }
 }
 
