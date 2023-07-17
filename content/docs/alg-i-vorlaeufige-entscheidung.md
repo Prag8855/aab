@@ -11,7 +11,7 @@ Related_guides:
     guides/losing-your-job.md
 ---
 
-If your employer refuses to send your *[[Arbeitsbescheinigung]]*, fill this template and send it to your *[[Agentur für Arbeit]]* case worker. It asks the *Agentur für Arbeit* to pay [unemployment benefits](/glossary/ALG%20I) without waiting.
+If your employer refuses to send your *[[Arbeitsbescheinigung]]*, fill this template and send it to your *[[Agentur für Arbeit]]* case worker. It asks the *Agentur für Arbeit* to pay [unemployment benefits](/glossary/ALG%20I) without waiting for the *Arbeitsbescheinigung*.
 
 This template is from [Rotwang Law](https://rotwang-law.de/en/), a labour lawyer in Berlin.
 
