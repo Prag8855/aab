@@ -81,7 +81,7 @@ Vue.component('letter-generator', {
         <div class="letter-recipient-address only-print">
           <slot name="letter-recipient" v-bind:language="language" v-bind:stage="stage"></slot>
         </div>
-        <div class="letter-details only-print" v-if="language === 'en'">
+        <div class="letter-details only-print">
           <slot name="letter-details" v-bind:language="language" v-bind:stage="stage"></slot>
         </div>
         <div class="letter-body">
