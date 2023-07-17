@@ -62,7 +62,7 @@ Register as seeking employment at the *[[Agentur für Arbeit]]*. You can registe
 
 Do this **at least 3 months before your last day of work**. If that's impossible, then do it within 3 days after you learn that you will be unemployed.[^2] If you don't register on time, you lose 1 week of *ALG I* as a punishment (15% of your monthly income).
 
-After you register as a job seeker, the *[[Agentur für Arbeit]]* can help you [find another job](/guides/find-a-job-in-berlin) or [start a business](/guides/start-a-business-in-germany). They also pay for [German classes](/guides/learn-german) and professional training (with the *[[Bildungsgutschein]]*).
+After you register as a job seeker, the *[[Agentur für Arbeit]]* can help you [find another job](/guides/find-a-job-in-berlin) or [start a business](/guides/start-a-business-in-germany). They can also pay for [German classes](/guides/learn-german) and professional training (with the *[[Bildungsgutschein]]*).
 
 ### Register as unemployed
 
@@ -89,6 +89,8 @@ Before you get ALG I, your employer must send your *[[Arbeitsbescheinigung]]* to
 If your employer takes too long, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€. This can still take a few weeks.[^22]
 
 If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^23] You will get unemployment benefits faster. [Use this template](/docs/alg-i-vorlaeufige-entscheidung) to make the request.
+
+{% include "_blocks/algIVorlaeufigeBewilligung.html" %}
 
 ## Receiving unemployment benefits
 
