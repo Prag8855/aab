@@ -15,9 +15,12 @@ If your employer refuses to send your *[[Arbeitsbescheinigung]]*, fill this temp
 
 This template is from [Rotwang Law](https://rotwang-law.de/en/), a labour lawyer in Berlin.
 
-## Generate a letter
-
-Use this tool to generate and print the letter.
+## Letter template
 
 {% include "_blocks/algIVorlaeufigeBewilligungStatic.html" %}
 
+## How to send this letter
+
+Mail this letter to your case worker at the *[[Jobcenter]]*.
+
+**[How to mail a letter ➞](/guides/mail-a-letter)**
