@@ -7,7 +7,6 @@ Vue.component('letter-generator', {
   data() {
     return {
       language: 'en',
-      uniqueId: Math.floor(Math.random() * 10000),
       stage: 'start',
       trackedStages: new Set(),
     };
@@ -48,7 +47,7 @@ Vue.component('letter-generator', {
     },
   },
   template: `
-    <details class="collapsible alg-i-vorlaeufige-bewilligung" ref="collapsible" :open="static" v-cloak>
+    <details class="collapsible" ref="collapsible" :open="static" v-cloak>
       <summary :hidden="static">
         <small>Letter generator</small>
         <slot name="header"></slot>
