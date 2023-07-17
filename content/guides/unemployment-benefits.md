@@ -29,7 +29,7 @@ Your immigration status does not affect your unemployment benefits. You can get 
 
 ## When do I get unemployment benefits?
 
-Usually, **as soon as you stop working**. Sometimes, There is a disqualification period (*Sperrzeit*) of 1 to 12 weeks. During the *Sperrzeit*, you don't get unemployment benefits.
+Usually, **as soon as you stop working**. Sometimes, There is a disqualification period (*Sperrzeit*) of 1 to 12 weeks. During the *Sperrzeit*, you don't get unemployment benefits, but the *Agentur für Arbeit* still pays for your health insurance.[^26]
 
 There is a *Sperrzeit* when...
 
@@ -159,3 +159,4 @@ Look for work. ALG I depends on it.
 [^23]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023), [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/workspace/uploads/downloads/vorschussantrag-arbeitslosengeld_1.pdf), [ali-whv-fri.de](http://www.ali-whv-fri.de/arbeitslos-melden-und-arbeitslosengeld-beantragen-ohne-persoenliche-vorsprache/), [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=auf%20dieser%20grundlage%20hat%20sie%20zumindest%20vorlaufig%20das%20arbeitslosengeld%20auszuzahlen), [§328 SGB III](https://www.gesetze-im-internet.de/sgb_3/__328.html), [NRW Agentur für Arbeit](https://harald-thome.de/files/pdf/media/RD-NRW-arbeitshilfe-leistungsrecht-vorlaeufige-bewilligung.pdf), [Agentur für Arbeit](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer)
 [^24]: Interview with an unemployed person (July 2023)
 [^25]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), interview with an unemployed person (July 2023)
+[^26]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/wie-bin-ich-waehrend-einer-sperrzeit-versichert-2005728)

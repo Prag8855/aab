@@ -407,7 +407,7 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 
 ### Can I change jobs?
 
-**Yes**. You might need to apply for a new visa or Blue Card. It depends on how long you had a residence permit for.
+**Yes**. You might need permission from the *Ausländerbehörde*. This can take a few weeks.
 
 **[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 

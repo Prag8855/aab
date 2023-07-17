@@ -115,7 +115,7 @@ To inform the *Ausländerbehörde*, you must...
 3. Attach these documents to your email:[^2]
     - [ ] A copy of your termination notice or resignation letter
 4. Send your email. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 6 months to find a job. They will tell you by email or by post.
+5. The *Ausländerbehörde* gives you 6 months to find a job. Some people get 12 months.[^28] They will tell you by email or by post.
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
 
@@ -159,7 +159,7 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 ### Work visa or Blue Card
 
-After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 6 months to find another job.[^5] You can do this by email. You don't need an Ausländerbehörde appointment.
+After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened.[^29] The *Ausländerbehörde* will give you 6 months to find another job.[^5] Some people get 12 months.[^28]
 
 When you start a new job, you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit:
 
@@ -168,7 +168,7 @@ When you start a new job, you might need the *Ausländerbehörde*'s permission t
 - **If you had <u>any</u> residence permit for at least 3 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) does not count.[^4]
 - **Everyone else**  
-    You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [apply for a new residence permit](/guides/german-work-visa). This can take a few months.
+    You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). This can take a few months.
 
 If you are not sure, ask an immigration lawyer.
 
@@ -294,3 +294,5 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
+[^28]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023)
+[^29]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html)
