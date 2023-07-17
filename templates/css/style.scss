@@ -1721,6 +1721,13 @@ input[type=range] {
 
 }
 
+output.placeholder{
+    border-radius: var(--b-radius);
+    background: var(--c-bg-widget);
+    box-decoration-break: clone;
+    color: var(--c-text-light);
+    padding: var(--xs);
+}
 output.large{
     @include box-s;
     font-size: var(--xxl);
@@ -1958,6 +1965,7 @@ details{
         max-width: 15rem;
         border-top: 1px solid var(--c-text);
         color: var(--c-text-light);
+        font-size: 8 * $fontSizeScale;
         margin-top:calc(var(--l-relative) + var(--xxl));
         padding-top:var(--xs);
     }

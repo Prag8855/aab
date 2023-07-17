@@ -138,11 +138,11 @@
             </span>
             <div class="input-group">
                 <label class="checkbox">
-                    <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" v-bind:value="true">
+                    <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" :value="true">
                     Married
                 </label>
                 <label class="checkbox">
-                    <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" v-bind:value="false">
+                    <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" :value="false">
                     Not married
                 </label>
             </div>
@@ -152,17 +152,17 @@
                 Children
             </label>
             <select id="children-count-{% endraw %}{{ id }}{% raw %}" v-model="childrenCount">
-                <option v-bind:value="0">No children</option>
-                <option v-bind:value="1">1 child</option>
-                <option v-bind:value="2">2 children</option>
-                <option v-bind:value="3">3 children</option>
-                <option v-bind:value="4">4 children</option>
-                <option v-bind:value="5">5 children</option>
-                <option v-bind:value="6">6 children</option>
-                <option v-bind:value="7">7 children</option>
-                <option v-bind:value="8">8 children</option>
-                <option v-bind:value="9">9 children</option>
-                <option v-bind:value="10">10+ children</option>
+                <option :value="0">No children</option>
+                <option :value="1">1 child</option>
+                <option :value="2">2 children</option>
+                <option :value="3">3 children</option>
+                <option :value="4">4 children</option>
+                <option :value="5">5 children</option>
+                <option :value="6">6 children</option>
+                <option :value="7">7 children</option>
+                <option :value="8">8 children</option>
+                <option :value="9">9 children</option>
+                <option :value="10">10+ children</option>
             </select>
         </div>
         <hr v-if="occupations.isEmployed(occupation)">
@@ -171,42 +171,42 @@
                 <glossary term="Steuerklasse">Tax class</glossary>
             </span>
             <label class="checkbox" v-if="availableTaxClasses.includes(1)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="1">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="1">
                 <div>
                     Tax class 1
                     <br><small>If you are not married</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(2)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="2">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="2">
                 <div>
                     Tax class 2
                     <br><small>If you raise children alone</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(3)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="3">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="3">
                 <div>
                     Tax class 3
                     <br><small>If you earn more than your spouse</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(4)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="4">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="4">
                 <div>
                     Tax class 4
                     <br><small>If you earn around the same as your spouse</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(5)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="5">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="5">
                 <div>
                     Tax class 5
                     <br><small>If you earn less than your spouse</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(6)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" v-bind:value="6">
+                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="6">
                 <div>
                     Tax class 6
                     <br><small>If you calculate taxes for a second job</small>

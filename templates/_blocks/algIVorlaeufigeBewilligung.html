@@ -78,8 +78,8 @@
             Mit freundlichen Grüßen<br v-if="fullName">
             {{ fullName }}
         </p>
-        <p class="signature no-print" v-if="stage === 'printPreview'">
-            Your signature
+        <p class="signature" v-if="stage === 'printPreview'">
+            {{ language === 'en' ? 'Signature' : 'Unterschrift' }}
         </p>
     </template>
 
@@ -95,7 +95,7 @@
                   :id="makeId('address')"
                   v-model="address"
                   class="address-input"
-                  placeholder="Home Straße 123&#10;12345 Berlin"></textarea>
+                  placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
             </div>
         </div>
         <div class="form-group no-print">

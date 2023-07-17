@@ -79,13 +79,13 @@ Vue.component('letter-generator', {
       </div>
       <div v-if="stage === 'start' || stage === 'printPreview'" :class="{'letter-template': stage === 'printPreview'}" ref="template">
         <div class="letter-recipient-address only-print">
-          <slot name="letter-recipient" v-bind:language="language" v-bind:stage="stage"></slot>
+          <slot name="letter-recipient" :language="language" :stage="stage"></slot>
         </div>
         <div class="letter-details only-print">
-          <slot name="letter-details" v-bind:language="language" v-bind:stage="stage"></slot>
+          <slot name="letter-details" :language="language" :stage="stage"></slot>
         </div>
         <div class="letter-body">
-          <slot name="letter-body" v-bind:language="language" v-bind:stage="stage"></slot>
+          <slot name="letter-body" :language="language" :stage="stage"></slot>
         </div>
       </div>
       <template v-if="stage === 'start'">
