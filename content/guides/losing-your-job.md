@@ -103,10 +103,12 @@ When you know your last day of work, register as unemployed at the *[[Agentur f�
 
 If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
 
+{% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
+
 To inform the *Ausländerbehörde*, you must...
 
 1. [Choose the right department to email](/out/auslanderbehorde-contact)
-2. Write an email in German. Use [this letter generator](/docs/auslanderbehorde-job-change). It must include:
+2. Write a letter in German. It must include:
     - [ ] Your full name
     - [ ] Your date and place of birth
     - [ ] Your nationality
@@ -114,10 +116,8 @@ To inform the *Ausländerbehörde*, you must...
     - [ ] When your employment ends
 3. Attach these documents to your email:[^2]
     - [ ] A copy of your termination notice or resignation letter
-4. Send your email. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
+4. Send your letter by email, post or fax. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
 5. The *Ausländerbehörde* gives you 6 months to find a job. Some people get 12 months.[^28] They will tell you by email or by post.
-
-{% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
 
