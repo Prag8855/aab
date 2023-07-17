@@ -7,6 +7,7 @@ Date_created: 2019-10-25
 Related_guides:
     guides/moving-out.md
     guides/losing-your-job.md
+    guides/german-resignation-letter.md
     guides/saving-money-germany.md
     guides/probezeit.md
 ---

@@ -6,6 +6,7 @@ Description: Notify the Ausländerbehörde when you change jobs or lose your job
 Date_created: 2023-07-17
 Related_guides:
     guides/losing-your-job.md
+    guides/german-resignation-letter.md
 ---
 
 If you have a [residence permit](/glossary/Aufenthaltstitel), and you [quit or lose your job](/guides/losing-your-job), you must tell the *[[Ausländerbehörde]]*. Use this template to write to them.

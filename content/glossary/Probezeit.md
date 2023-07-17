@@ -7,6 +7,7 @@ Date_created: 2021-06-17
 Related_guides:
     guides/probezeit.md
     guides/losing-your-job.md
+    guides/german-resignation-letter.md
     guides/find-a-flat-in-berlin.md
     guides/salaries-in-germany.md
 ---
