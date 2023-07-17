@@ -78,7 +78,7 @@ After you register as unemployed, you will get an appointment at the *[[Jobcente
 
 Your case worker at the *Jobcenter* might not speak English, so you should bring a translator.[^25] I recommend [Red Tape Translation](/out/red-tape-translation).
 
-**If you want professional training**, ask for it during that appointment. Find courses that interest you before your appointment. Explain your career plans, and why these courses will help you. The *Agentur für Arbeit* can pay for professional courses, German lessons and career coaching. They will give you a *[[Bildungsgutscheing]]* that pays for your training. It takes around 1 week.[^24]
+**If you want professional training**, ask for it during that appointment. Find courses that interest you before your appointment. Explain your career plans, and why these courses will help you. The *Agentur für Arbeit* can pay for professional courses, German lessons and career coaching. They will give you a *[[Bildungsgutschein]]* that pays for your training. It takes around 1 week.[^24]
 
 **[List of courses](https://web.arbeitsagentur.de/weiterbildungssuche/suche)** (in German) - *[[Agentur für Arbeit]]*
 

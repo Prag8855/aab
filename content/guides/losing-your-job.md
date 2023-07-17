@@ -141,7 +141,7 @@ If you worked for more than 6 weeks, you can demand a qualified reference (*qual
 
 Before you get [unemployment benefits](/glossary/ALG%20I), your employer must send your *[[Arbeitsbescheinigung]]* to the *Agentur für Arbeit*.[^13] Some employers take a long time to do this.
 
-**[How to get your Arbeitsbescheinigung ➞](/guides/unemployment-benefits#wait-for-the-arbeitsbescheinigung)**
+**[How to get your Arbeitsbescheinigung ➞](/guides/unemployment-benefits#wait-for-your-arbeitsbescheinigung)**
 
 ### Get an Urlaubsbescheinigung
 
