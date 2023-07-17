@@ -1,137 +1,89 @@
-<details class="collapsible alg-i-vorlaeufige-bewilligung" ref="collapsible" {% if static|default %}open{% endif %} v-cloak>
-    <summary {% if static|default %}hidden{% endif %}>
-        <small>Letter generator</small>
-        ALG I – Request a preliminary decision
-    </summary>
+<letter-generator class="alg-i-vorlaeufige-bewilligung" {% if static|default %}static{% endif %}>
 {% raw %}
-    <div class="buttons no-print" v-if="stage === 'printPreview'">
-        <button class="button" @click="stage = 'edit'">
-            <i class="icon left"></i> Customize
-        </button>
-        <div class="tabs">
-            <button
-                @click="language = 'en'"
-                tabindex="0"
-                :disabled="language === 'en'">
-                English
-            </button>
-            <button
-                @click="language = 'de'"
-                tabindex="0"
-                :disabled="language === 'de'">
-                German
-            </button>
-        </div>
-        <button class="button primary" @click="print">
-            Print
-        </button>
-    </div>
-    <div class="tabs language-picker no-print" v-if="stage === 'start'">
-        <button
-            @click="language = 'en'"
-            tabindex="0"
-            :disabled="language === 'en'">
-            English
-        </button>
-        <button
-            @click="language = 'de'"
-            tabindex="0"
-            :disabled="language === 'de'">
-            German
-        </button>
-    </div>
+    <template v-slot:header>
+        ALG I – Request a preliminary decision
+    </template>
 
-    <div v-if="stage === 'start' || stage === 'printPreview'" :class="{'letter-template': stage === 'printPreview'}" ref="template">
-        <div class="letter-recipient-address only-print">
-            <span class="letter-return-address only-print" v-if="address">
-                {{ fullName }}<template v-if="fullName && address">, </template>
-                {{ address.replaceAll('\n', ', ') }}
-            </span>
-            <template v-if="language === 'en' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
-                {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
-            </template>
-            <template v-if="language === 'de' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
-                {{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
-            </template>
-            <span v-html="jobcenterAddress.replaceAll('\n', '<br>')"></span>
-        </div>
+    <template v-slot:letter-recipient="{ language, stage }">
+        <span class="letter-return-address" v-if="address">
+            {{ fullName }}<template v-if="fullName && address">, </template>
+            {{ address.replaceAll('\n', ', ') }}
+        </span>
+        <template v-if="language === 'en' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
+            {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
+        </template>
+        <template v-if="language === 'de' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
+            {{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
+        </template>
+        <span v-html="jobcenterAddress.replaceAll('\n', '<br>')"></span>
+    </template>
 
-        <div class="letter-details only-print" v-if="language === 'en'">
+    <template v-slot:letter-details="{ language, stage }">
+        <template v-if="language === 'en'">
             <template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
             <strong>Date:</strong> {{ currentDateEnglish }}
             <template v-if="caseNumber"><br><strong>Case number: </strong> {{ caseNumber }}</template>
-        </div>
-        <div class="letter-details only-print" v-if="language === 'de'">
+        </template>
+        <template v-if="language === 'de'">
             <template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
             <strong>Datum:</strong> {{ currentDateGerman }}
             <template v-if="caseNumber"><br><strong>Aktenzeichen: </strong> {{ caseNumber }}</template>
-        </div>
-
-        <div class="letter-body">
-            <p v-if="language === 'en'">
-                <strong>Subject: Request for preliminary decision (ALG I)</strong>
-            </p>
-            <p v-if="language === 'de'">
-                <strong>Betreff: Antrag auf vorläufige Entscheidung (ALG I)</strong>
-            </p>
-
-            <template v-if="language === 'en'">
-                <p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
-                    Dear {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }},
-                </p>
-                <p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
-                    Dear Sir or Madam,
-                </p>
-            </template>
-            <template v-if="language === 'de'">
-                <p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
-                    Sehr {{ caseWorkerGender === 'Frau' ? 'geehrte Frau' : 'geehrter Herr' }} {{ caseWorkerLastName }},
-                </p>
-                <p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
-                    Sehr geehrte Damen und Herren,
-                </p>
-            </template>
-
-            <p v-if="language === 'en'">
-                Since the processing of my application requires more time, I hereby submit an application for a provisional decision in accordance with § 328 paragraph 1 sentence 3 SGB III, i.e. a provisional grant of unemployment benefits. The requirements for my unemployment benefits claim are met with sufficient probability. I am not responsible for the circumstances that still stand in the way of an immediate final decision.
-            </p>
-            <p v-if="language === 'de'">
-                da die Bearbeitung meines Antrages noch Zeit benötigt, stelle ich hiermit einen Antrag auf vorläufige Entscheidung nach § 328 Abs. 1 Satz 1 Nr. 3 SGB III, d.h. eine vorläufige Arbeitslosengeldgewährung. Die Voraussetzungen für meinen Arbeitslosengeldanspruch liegen mit hinreichender Wahrscheinlichkeit vor. Die Umstände, die einer sofortigen abschließenden Entscheidung noch entgegenstehen, habe ich nicht zu vertreten.
-            </p>
-
-            <p v-if="language === 'en'">
-                According to § 328 Para. 1 Sentence 1 No. 3 SGB III, a provisional decision is to be made on application in accordance with the law, i.e. you do not have any discretion in this respect. I request that you make a decision within 1 week of receipt of this application.
-            </p>
-            <p v-if="language === 'de'">
-                In den Fällen des § 328 Abs. 1 Satz 1 Nr. 3 SGB III ist auf Antrag nach der gesetzlichen Regelung vorläufig zu entscheiden, d.h. ein Ermessen steht Ihnen insoweit nicht zu. Ich bitte um Erteilung eines Leistungsbescheides binnen 1 Woche ab Zugang dieses Antrags.
-            </p>
-
-            <p v-if="language === 'en'">
-                Best regards<br v-if="fullName">
-                {{ fullName }}
-            </p>
-            <p v-if="language === 'de'">
-                Mit freundlichen Grüßen<br v-if="fullName">
-                {{ fullName }}
-            </p>
-            <p class="signature no-print" v-if="stage === 'printPreview'">
-                Your signature
-            </p>
-        </div>
-    </div>
-
-    <template v-if="stage === 'start'">
-        <hr>
-        <div class="buttons no-print">
-            <button class="button primary" @click="stage = 'edit'">
-                Customize and print <i class="icon right"></i>
-            </button>
-        </div>
+        </template>
     </template>
 
-    <template v-if="stage === 'edit'">
-        <p>Fill the missing information to get a printable letter.</p>
-        <hr>
+    <template v-slot:letter-body="{ language, stage }">
+        <p v-if="language === 'en'">
+            <strong>Subject: Request for preliminary decision (ALG I)</strong>
+        </p>
+        <p v-if="language === 'de'">
+            <strong>Betreff: Antrag auf vorläufige Entscheidung (ALG I)</strong>
+        </p>
+
+        <template v-if="language === 'en'">
+            <p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+                Dear {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }},
+            </p>
+            <p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
+                Dear Sir or Madam,
+            </p>
+        </template>
+        <template v-if="language === 'de'">
+            <p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+                Sehr {{ caseWorkerGender === 'Frau' ? 'geehrte Frau' : 'geehrter Herr' }} {{ caseWorkerLastName }},
+            </p>
+            <p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
+                Sehr geehrte Damen und Herren,
+            </p>
+        </template>
+
+        <p v-if="language === 'en'">
+            Since the processing of my application requires more time, I hereby submit an application for a provisional decision in accordance with § 328 paragraph 1 sentence 3 SGB III, i.e. a provisional grant of unemployment benefits. The requirements for my unemployment benefits claim are met with sufficient probability. I am not responsible for the circumstances that still stand in the way of an immediate final decision.
+        </p>
+        <p v-if="language === 'de'">
+            da die Bearbeitung meines Antrages noch Zeit benötigt, stelle ich hiermit einen Antrag auf vorläufige Entscheidung nach § 328 Abs. 1 Satz 1 Nr. 3 SGB III, d.h. eine vorläufige Arbeitslosengeldgewährung. Die Voraussetzungen für meinen Arbeitslosengeldanspruch liegen mit hinreichender Wahrscheinlichkeit vor. Die Umstände, die einer sofortigen abschließenden Entscheidung noch entgegenstehen, habe ich nicht zu vertreten.
+        </p>
+
+        <p v-if="language === 'en'">
+            According to § 328 Para. 1 Sentence 1 No. 3 SGB III, a provisional decision is to be made on application in accordance with the law, i.e. you do not have any discretion in this respect. I request that you make a decision within 1 week of receipt of this application.
+        </p>
+        <p v-if="language === 'de'">
+            In den Fällen des § 328 Abs. 1 Satz 1 Nr. 3 SGB III ist auf Antrag nach der gesetzlichen Regelung vorläufig zu entscheiden, d.h. ein Ermessen steht Ihnen insoweit nicht zu. Ich bitte um Erteilung eines Leistungsbescheides binnen 1 Woche ab Zugang dieses Antrags.
+        </p>
+
+        <p v-if="language === 'en'">
+            Best regards<br v-if="fullName">
+            {{ fullName }}
+        </p>
+        <p v-if="language === 'de'">
+            Mit freundlichen Grüßen<br v-if="fullName">
+            {{ fullName }}
+        </p>
+        <p class="signature no-print" v-if="stage === 'printPreview'">
+            Your signature
+        </p>
+    </template>
+
+    <template v-slot:form>
         <div class="form-group no-print">
             <label>Your full name</label>
             <input type="text" v-model="fullName">
@@ -180,32 +132,17 @@
                 </span>
             </div>
         </div>
-        <hr>
-        <div class="buttons no-print">
-            <button class="button" @click="stage = 'start'">
-                <i class="icon left"></i> Back
-            </button>
-            <button class="button primary" @click="language = 'de'; stage = 'printPreview'">
-                Preview and print <i class="icon right"></i>
-            </button>
-        </div>
     </template>
-</details>
 {% endraw %}
-{% include '_js/utils.js' %}
-{% include '_js/pension-refund-calculator.js' %}
+</letter-generator>
 {% include '_js/vue.js' %}
-{% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/eur.js' %}
-{% include '_js/vue/glossary.js' %}
-{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/letter-generator.js' %}
 {% js %}
   document.querySelectorAll('.alg-i-vorlaeufige-bewilligung').forEach(
     el => new Vue({
       el: el,
       data() {
         return {
-          language: 'en',
           fullName: '',
           address: '',
           jobcenterAddress: '',
@@ -214,34 +151,11 @@
           caseNumber: '',
           currentDate: new Date(),
           unemploymentStartDate: null,
-          uniqueId: Math.floor(Math.random() * 10000),
-          stage: 'start',
-          trackedStages: new Set(),
         };
       },
       methods: {
         makeId(id){
           return `${id}-${this.uniqueId}`;
-        },
-        print() {
-          const printWindow = window.open('', '', 'left=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
-          printWindow.document.write(`
-            <!DOCTYPE html>
-              <html lang="en">
-              <head>
-                <meta charset="utf-8">
-                <link rel="stylesheet" href="/css/style.css">
-              </head>
-              <body class="letter-template">${this.$refs.template.innerHTML}</body>
-            </html>
-          `);
-          printWindow.document.querySelector('head link').onload = function() {
-            printWindow.document.close();
-            printWindow.focus();
-            printWindow.print();
-            printWindow.close();
-            plausible('Template generator', { props: { stage: 'print' }});
-          }
         },
       },
       computed: {
@@ -260,17 +174,6 @@
         },
         unemploymentStartDateGerman() {
           return this.unemploymentStartDate.toLocaleDateString("de-DE");
-        },
-      },
-      watch: {
-        stage() {
-          Vue.nextTick(() => {
-            this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'auto' });
-            if(!this.trackedStages.has(this.stage)) {
-              plausible('Template generator', { props: { stage: this.stage }});
-              this.trackedStages.add(this.stage);
-            }
-          });
         },
       }
     })
