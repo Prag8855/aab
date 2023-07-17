@@ -13,11 +13,11 @@ Related_guides:
 
 If your employer refuses to send your *[[Arbeitsbescheinigung]]*, fill this template and send it to your *[[Agentur für Arbeit]]* case worker. It asks the *Agentur für Arbeit* to pay [unemployment benefits](/glossary/ALG%20I) without waiting for the *Arbeitsbescheinigung*.
 
-This template is from [Rotwang Law](https://rotwang-law.de/en/), a labour lawyer in Berlin.
-
 ## Letter template
 
 {% include "_blocks/algIVorlaeufigeBewilligungStatic.html" %}
+
+This letter generator is based on templates by [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/) and [Rotwang Law](https://rotwang-law.de/en/).
 
 ## How to send this letter
 
