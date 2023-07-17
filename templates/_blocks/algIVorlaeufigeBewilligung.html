@@ -150,7 +150,6 @@
           caseWorkerLastName: '',
           caseNumber: '',
           currentDate: new Date(),
-          unemploymentStartDate: null,
         };
       },
       methods: {
@@ -171,9 +170,6 @@
         },
         currentDateGerman() {
           return this.currentDate.toLocaleDateString("de-DE");
-        },
-        unemploymentStartDateGerman() {
-          return this.unemploymentStartDate.toLocaleDateString("de-DE");
         },
       }
     })
