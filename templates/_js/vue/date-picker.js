@@ -49,6 +49,11 @@ Vue.component('date-picker', {
       return this.dayValid && this.monthValid && this.yearValid;
     },
   },
+  mounted() {
+    if(this.value && this.value.match(/\d\d\d\d-\d\d-\d\d/)){
+      [this.year, this.month, this.day] = this.value.split('-');
+    }
+  },
   methods: {
     onChange() {
       this.$refs.fieldset.setCustomValidity(this.valid ? '' : 'Invalid date');
