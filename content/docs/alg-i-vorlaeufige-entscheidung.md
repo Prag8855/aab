@@ -2,10 +2,8 @@
 Title: Request ALG I without an Arbeitsbescheinigung
 German_term: ALG I: Antrag auf vorläufige Entscheidung
 English_term: ALG I: Request for preliminary decision
-German_document: documents/arbeitlosengeld-i-vorlaufige-bewilligung.pdf
-English_document: documents/unemployment-benefits-prelim-decision.pdf
 Description: Request ALG I without an Arbeitsbescheinigung from your employer.
-Date_created: 2023-07-18
+Date_created: 2023-07-17
 Related_guides:
     guides/unemployment-benefits.md
     guides/losing-your-job.md

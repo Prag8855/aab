@@ -2,7 +2,7 @@
 Title: Losing or quitting your job in Germany
 Short_title: Losing or quitting your job
 Description: What happens when you resign, get laid off, change jobs or change careers in Germany. This is what happens to your health insurance, residence permit, unemployment benefits etc.
-Date_created: 2023-07-14
+Date_created: 2023-07-17
 ---
 
 This guide shows you what to do when:
@@ -106,7 +106,7 @@ If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](
 To inform the *Ausländerbehörde*, you must...
 
 1. [Choose the right department to email](/out/auslanderbehorde-contact)
-2. Write an email in German. It must include:
+2. Write an email in German. Use [this letter generator](/docs/auslanderbehorde-job-change). It must include:
     - [ ] Your full name
     - [ ] Your date and place of birth
     - [ ] Your nationality
@@ -116,6 +116,8 @@ To inform the *Ausländerbehörde*, you must...
     - [ ] A copy of your termination notice or resignation letter
 4. Send your email. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
 5. The *Ausländerbehörde* gives you 6 months to find a job. Some people get 12 months.[^28] They will tell you by email or by post.
+
+{% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
 

@@ -2,7 +2,7 @@
 Title: How to give a resignation letter in Germany
 Short_title: Job resignation letter
 Description: The legal requirements for writing and handing a resignation notice (Kündigungsschreiben) when you quit your job in Germany.
-Date_created: 2023-07-14
+Date_created: 2023-07-17
 ---
 
 When you quit your job in Germany, you must give your employer a resignation letter (*Kündigungsschreiben* or *Kündigungserklärung*). Your resignation is only official when your employer receives this letter.
