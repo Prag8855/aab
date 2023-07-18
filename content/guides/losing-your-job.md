@@ -5,6 +5,7 @@ Description: What happens when you resign, get laid off, change jobs or change c
 Date_created: 2023-07-17
 Related_reviews:
     reviews/losing-your-job/sebastian-hoffmann.md
+    reviews/losing-your-job/carina-senf.md
 ---
 
 This guide shows you what to do when:
