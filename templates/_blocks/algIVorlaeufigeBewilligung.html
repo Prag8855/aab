@@ -89,20 +89,20 @@
             <input type="text" v-model="fullName">
         </div>
         <div class="form-group no-print">
-            <label :for="makeId('address')">Your address</label>
+            <label :for="uid('address')">Your address</label>
             <div class="input-group">
                 <textarea
-                  :id="makeId('address')"
+                  :id="uid('address')"
                   v-model="address"
                   class="address-input"
                   placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
             </div>
         </div>
         <div class="form-group no-print">
-            <label :for="makeId('jobcenterAddress')">Jobcenter address</label>
+            <label :for="uid('jobcenterAddress')">Jobcenter address</label>
             <div class="input-group">
                 <textarea
-                  :id="makeId('jobcenterAddress')"
+                  :id="uid('jobcenterAddress')"
                   v-model="jobcenterAddress"
                   class="address-input"
                   placeholder="Jobcenter Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
@@ -124,7 +124,7 @@
             </div>
         </div>
         <div class="form-group no-print">
-            <label :for="makeId('caseNumber')">Case number</label>
+            <label :for="uid('caseNumber')">Case number</label>
             <div class="input-group">
                 <input type="text" v-model="caseNumber">
                 <span class="input-instructions">
@@ -137,10 +137,12 @@
 </letter-generator>
 {% include '_js/vue.js' %}
 {% include '_js/vue/letter-generator.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
   document.querySelectorAll('.alg-i-vorlaeufige-bewilligung').forEach(
     el => new Vue({
       el: el,
+      mixins: [uniqueIdsMixin],
       data() {
         return {
           fullName: '',
@@ -150,13 +152,7 @@
           caseWorkerLastName: '',
           caseNumber: '',
           currentDate: new Date(),
-          uniqueId: Math.floor(Math.random() * 10000),
         };
-      },
-      methods: {
-        makeId(id){
-          return `${id}-${this.uniqueId}`;
-        },
       },
       computed: {
         caseWorkerGenderEnglish() {

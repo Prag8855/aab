@@ -1,11 +1,13 @@
 {% include '_js/constants.js' %}
 {% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% js %}{% raw %}
 Vue.component('health-insurance-question', {
+  mixins: [uniqueIdsMixin],
   props: {
     occupation: String,
     age: Number,
@@ -15,7 +17,6 @@ Vue.component('health-insurance-question', {
   },
   data: function() {
     return {
-      uniqueId: Math.floor(Math.random() * 10000),
       stage: 'contactInfo',
       trackedStages: new Set(),
       minFreiwilligMonthlyIncome: healthInsurance.minFreiwilligMonthlyIncome * 12,
@@ -104,9 +105,6 @@ Vue.component('health-insurance-question', {
         this.stage = 'thank-you';
       }
     },
-    makeId(id){
-      return `${id}-${this.uniqueId}`;
-    }
   },
   watch: {
     stage() {
@@ -131,9 +129,9 @@ Vue.component('health-insurance-question', {
         </div>
         <hr>
         <div class="form-group required">
-          <label :for="makeId('question')">Your question</label>
+          <label :for="uid('question')">Your question</label>
           <div class="input-group">
-            <textarea v-model="question" :id="makeId('question')" required placeholder=" "></textarea>
+            <textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
             <span class="input-instructions">If you are applying for a <glossary term="Aufenthaltstitel">residence permit</glossary>, mention it.</span>
           </div>
         </div>
@@ -157,40 +155,40 @@ Vue.component('health-insurance-question', {
         </div>
         <hr v-if="!income && !occupation">
         <div class="form-group required">
-          <label :for="makeId('name')">
+          <label :for="uid('name')">
             Name
           </label>
           <div class="input-group">
-            <input v-model="fullName" type="text" :id="makeId('name')" required autocomplete="name">
+            <input v-model="fullName" type="text" :id="uid('name')" required autocomplete="name">
             {% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
           </div>
         </div>
         <div class="form-group required">
-          <label :for="makeId('email')">
+          <label :for="uid('email')">
             Email
           </label>
           <div class="input-group">
-            <input v-model="emailAddress" type="email" :id="makeId('email')" required autocomplete="email">
+            <input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">
           </div>
         </div>
         <div class="form-group">
-          <label :for="makeId('phone')">
+          <label :for="uid('phone')">
             Phone number
           </label>
           <div class="input-group">
-            <input v-model="phoneNumber" type="tel" :id="makeId('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="makeId('instructions-phone')">
-            <span class="input-instructions" :id="makeId('instructions-phone')">Only if you prefer a phone call.</span>
+            <input v-model="phoneNumber" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')">
+            <span class="input-instructions" :id="uid('instructions-phone')">Only if you prefer a phone call.</span>
           </div>
         </div>
         <hr>
         <div class="form-group" v-if="!age">
-          <label :for="makeId('age')">
+          <label :for="uid('age')">
             Age
           </label>
           <label class="input-group">
-            <age-input v-model="inputAge" :id="makeId('age')" required :aria-describedby="makeId('instructions-age')"></age-input>
+            <age-input v-model="inputAge" :id="uid('age')" required :aria-describedby="uid('instructions-age')"></age-input>
             years old
-            <span class="input-instructions" :id="makeId('instructions-age')">Your age affects your health insurance options.</span>
+            <span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
           </label>
         </div>
         <div class="buttons">

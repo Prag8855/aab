@@ -102,83 +102,83 @@
             <span class="label">What happened?</span>
             <div class="input-group vertical">
                 <label class="checkbox">
-                   <input type="radio" v-model="letterType" value="termination" :name="makeId('letterType')"> I was fired or laid off
+                   <input type="radio" v-model="letterType" value="termination" :name="uid('letterType')"> I was fired or laid off
                 </label>
                 <label class="checkbox">
-                   <input type="radio" v-model="letterType" value="resignation" :name="makeId('letterType')"> I quit my job
+                   <input type="radio" v-model="letterType" value="resignation" :name="uid('letterType')"> I quit my job
                 </label>
                 <label class="checkbox">
-                   <input type="radio" v-model="letterType" value="jobChange" :name="makeId('letterType')"> I am changing jobs
+                   <input type="radio" v-model="letterType" value="jobChange" :name="uid('letterType')"> I am changing jobs
                 </label>
             </div>
         </div>
         <hr>
         <div class="form-group no-print">
-            <label :for="makeId('fullName')">Your full name</label>
-            <input :id="makeId('fullName')" type="text" v-model="fullName">
+            <label :for="uid('fullName')">Your full name</label>
+            <input :id="uid('fullName')" type="text" v-model="fullName">
         </div>
         <div class="form-group no-print">
-            <label :for="makeId('address')">Your address</label>
+            <label :for="uid('address')">Your address</label>
             <div class="input-group">
                 <textarea
-                  :id="makeId('address')"
+                  :id="uid('address')"
                   v-model="address"
                   class="address-input"
                   placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
             </div>
         </div>
         <div class="form-group">
-            <label :for="makeId('date-of-birth') + '-day'">Date of birth</label>
+            <label :for="uid('date-of-birth') + '-day'">Date of birth</label>
             <div class="input-group">
                 <date-picker
                   v-model="dateOfBirth"
-                  :id="makeId('date-of-birth')"
+                  :id="uid('date-of-birth')"
                   autocomplete="bday"></date-picker>
             </div>
         </div>
         <div class="form-group">
-            <label :for="makeId('place-of-birth')">Place of birth</label>
+            <label :for="uid('place-of-birth')">Place of birth</label>
             <div class="input-group">
                 <input type="text"
                   v-model="placeOfBirth"
                   placeholder="Montreal"
-                  :id="makeId('place-of-birth')">
+                  :id="uid('place-of-birth')">
             </div>
         </div>
         <div class="form-group">
-            <label :for="makeId('nationality')">
+            <label :for="uid('nationality')">
                 Nationality
             </label>
             <input type="text"
               placeholder="Canada"
-              :id="makeId('nationality')"
-              :list="makeId('countries')"
+              :id="uid('nationality')"
+              :list="uid('countries')"
               v-model="nationality">
-            <datalist :id="makeId('countries')">
+            <datalist :id="uid('countries')">
                 <option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
             </datalist>
         </div>
         <hr>
         <div class="form-group">
-            <label :for="makeId('last-workday') + '-day'">Last day of work</label>
+            <label :for="uid('last-workday') + '-day'">Last day of work</label>
             <div class="input-group">
                 <date-picker
                   v-model="lastDayOfWork"
-                  :id="makeId('last-workday')"
+                  :id="uid('last-workday')"
                   autocomplete="bday"></date-picker>
             </div>
         </div>
         <hr>
         <div class="form-group no-print">
-            <label :for="makeId('auslaenderbehoerde')">Ausländerbehörde</label>
+            <label :for="uid('auslaenderbehoerde')">Ausländerbehörde</label>
             <div class="input-group">
-                <select :id="makeId('auslaenderbehoerde')" v-model="auslaenderbehoerde">
+                <select :id="uid('auslaenderbehoerde')" v-model="auslaenderbehoerde">
                     <option value="friedrich-krause-ufer" selected>Berlin (Friedrich-Krause-Ufer)</option>
                     <option value="keplerstrasse">Berlin (Keplerstraße)</option>
                     <option value="other">Other</option>
                 </select>
                 <textarea
-                  :id="makeId('customRecipientAddress')"
+                  :id="uid('customRecipientAddress')"
                   v-model="customRecipientAddress"
                   class="address-input"
                   v-if="auslaenderbehoerde === 'other'"
@@ -194,6 +194,7 @@
 </letter-generator>
 {% include '_js/constants.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/blank.js' %}
 {% include '_js/vue/letter-generator.js' %}
@@ -201,6 +202,7 @@
   document.querySelectorAll('.auslaenderbehoerde-job-change').forEach(
     el => new Vue({
       el: el,
+      mixins: [uniqueIdsMixin],
       data() {
         return {
           fullName: '',
@@ -214,7 +216,6 @@
           currentDate: new Date(),
           lastDayOfWork: '',
           sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
-          uniqueId: Math.floor(Math.random() * 10000),
         };
       },
       computed: {
@@ -234,9 +235,6 @@
         },
       },
       methods: {
-        makeId(id){
-          return `${id}-${this.uniqueId}`;
-        },
         dateFromString(str) {
           if(str.match(/\d\d\d\d-\d\d-\d\d/)){
             const [year, month, day] = str.split('-').map(n => Number(n, 10));
