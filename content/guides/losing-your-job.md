@@ -176,6 +176,10 @@ If you are not sure, ask an immigration lawyer.
 
 **[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
 
+### Family reunion visa
+
+If your spouse has a [family reunion visa](/glossary/Family%20reunion%20visa), it's tied to your residence permit. If they qualify, they switch to a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].[^35]
+
 ### Citizens and permanent residents
 
 Nothing happens to your permanent residence or citizenship.
@@ -300,3 +304,4 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^29]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html)
 [^28]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
