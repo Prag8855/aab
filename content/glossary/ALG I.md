@@ -16,4 +16,6 @@ When you [lose your job](/guides/losing-your-job), you can get financial help fr
 
 You only get *ALG I* if you pay [unemployment insurance](/glossary/Arbeitslosenversicherung). Almost all employees pay for unemployment insurance, because it's mandatory. self-employed people rarely pay for unemployment insurance, because it's optional.
 
+*ALG I* is not the same thing as *[[Bürgergeld]]*.
+
 **[How unemployment benefits work ➞](/guides/unemployment-benefits)**

@@ -15,7 +15,7 @@
         <template v-if="language === 'de' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
             {{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
         </template>
-        <span v-html="jobcenterAddress.replaceAll('\n', '<br>')"></span>
+        <span v-html="agenturFurArbeitAddress.replaceAll('\n', '<br>')"></span>
     </template>
 
     <template v-slot:letter-details="{ language, stage }">
@@ -99,21 +99,21 @@
             </div>
         </div>
         <div class="form-group no-print">
-            <label :for="uid('jobcenterAddress')">Jobcenter address</label>
+            <label :for="uid('agenturFurArbeitAddress')">Agentür für Arbeit address</label>
             <div class="input-group">
                 <textarea
-                  :id="uid('jobcenterAddress')"
-                  v-model="jobcenterAddress"
+                  :id="uid('agenturFurArbeitAddress')"
+                  v-model="agenturFurArbeitAddress"
                   class="address-input"
-                  placeholder="Jobcenter Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
+                  placeholder="Agentür für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
                 <br>
                 <a class="input-instructions" href="https://web.arbeitsagentur.de/portal/metasuche/suche/dienststellen" target="_blank">
-                    Find your Jobcenter ➞
+                    Find your Agentür für Arbeit ➞
                 </a>
             </div>
         </div>
         <div class="form-group no-print">
-            <label>Jobcenter employee</label>
+            <label>Case worker</label>
             <div class="input-group">
                 <select v-model="caseWorkerGender" class="gender-input">
                     <option value="Frau">Madam</option>
@@ -121,6 +121,9 @@
                     <option value="Herr oder Frau">Mr or Mrs</option>
                 </select>
                 <input type="text" v-model="caseWorkerLastName" placeholder="Müller">
+                <span class="input-instructions">
+                    This is the employee who helps you at the <glossary>Agentür für Arbeit</glossary>.
+                </span>
             </div>
         </div>
         <div class="form-group no-print">
@@ -128,7 +131,7 @@
             <div class="input-group">
                 <input type="text" v-model="caseNumber">
                 <span class="input-instructions">
-                    This helps the <glossary>Jobcenter</glossary> find your information.
+                    This helps the <glossary>Agentür für Arbeit</glossary> find your information.
                 </span>
             </div>
         </div>
@@ -137,6 +140,7 @@
 </letter-generator>
 {% include '_js/vue.js' %}
 {% include '_js/vue/letter-generator.js' %}
+{% include '_js/vue/glossary.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
   document.querySelectorAll('.alg-i-vorlaeufige-bewilligung').forEach(
@@ -147,7 +151,7 @@
         return {
           fullName: '',
           address: '',
-          jobcenterAddress: '',
+          agenturFurArbeitAddress: '',
           caseWorkerGender: 'Herr oder Frau',
           caseWorkerLastName: '',
           caseNumber: '',

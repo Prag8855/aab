@@ -15,10 +15,10 @@ If your employer refuses to send your *[[Arbeitsbescheinigung]]*, fill this temp
 
 {% include "_blocks/algIVorlaeufigeBewilligungStatic.html" %}
 
-This letter generator is based on templates by [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/) and [Rotwang Law](https://rotwang-law.de/en/).
+This letter is based on templates by [Rechtsanwalt Köper](https://www.rechtsanwalt-koeper.de/) and [Rotwang Law](https://rotwang-law.de/en/).
 
 ## How to send this letter
 
-Mail this letter to your case worker at the *[[Jobcenter]]*.
+Mail this letter to your case worker at the *[[Agentur für Arbeit]]*. You should already have a case worker after you [registered as a job seeker](/guides/unemployment-benefits).
 
 **[How to mail a letter ➞](/guides/mail-a-letter)**

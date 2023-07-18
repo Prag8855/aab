@@ -10,6 +10,4 @@ Related_guides:
     guides/find-a-job-in-berlin.md
 ---
 
-*Jobcenters* are local offices of the *[[Agentur für Arbeit]]*. To deal with the *Agentur für Arbeit* in person, you must go to a *Jobcenter*.
-
-If you [lose your job](/guides/losing-your-job), you must go to the *Jobcenter* to apply for [unemployment benefits](/glossary/ALG%20I). The *Jobcenter* also helps you get professional training and [find a job](/guides/find-a-job-in-berlin).
+The *Jobcenter* is the agency responsible for *[[Bürgergeld]]*. It is not the same thing as the *[[Agentur für Arbeit]]*.

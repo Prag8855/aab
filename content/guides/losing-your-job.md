@@ -107,16 +107,16 @@ If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](
 
 To inform the *Ausländerbehörde*, you must...
 
-1. [Choose the right department to email](/out/auslanderbehorde-contact)
+1. [Choose the right department to email](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde)
 2. Write a letter in German. It must include:
     - [ ] Your full name
     - [ ] Your date and place of birth
     - [ ] Your nationality
     - [ ] What kind of residence permit you have
     - [ ] When your employment ends
-3. Attach these documents to your email:[^2]
+3. Include these documents with your message:[^2]
     - [ ] A copy of your termination notice or resignation letter
-4. Send your letter by email, post or fax. You might not get a confirmation. They might not reply.[^3] You will not need to go to the *Ausländerbehörde* in person.
+4. Send your letter by email, post or fax. They should reply a few weeks later. You will not need to go to the *Ausländerbehörde* in person.
 5. The *Ausländerbehörde* gives you 6 months to find a job. Some people get 12 months.[^28] They will tell you by email or by post.
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
@@ -153,7 +153,7 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 ### Get all other documents
 
-You must get your income tax certificate (*Lohnsteuerbescheinigung*) and your last pay slip (*Lohnabrechnung*).[^27] The *Agentur für Arbeit* might ask for them.
+You must get your income tax certificate (*Lohnsteuerbescheinigung*) and your last pay slip (*Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
 
 If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
@@ -179,6 +179,8 @@ If you are not sure, ask an immigration lawyer.
 ### Citizens and permanent residents
 
 Nothing happens to your permanent residence or citizenship.
+
+It should not affect your permanent residence or citizenship application.[^28]
 
 ## What happens to your health insurance
 
@@ -224,7 +226,7 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
 
-Ask about it during your unemployment benefits appointment at the *[[Jobcenter]]*.
+Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*.
 
 ### Find a new job
 
@@ -295,5 +297,6 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
-[^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
+[^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^29]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html)
+[^28]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)

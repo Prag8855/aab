@@ -216,7 +216,7 @@ The state can help you start a business. There are many options:
 - **Training voucher** (*[AVGS](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein)* or *[[Bildungsgutschein]]*)  
     If you are unemployed, you can get free coaching or training. It's paid by the *[[Agentur für Arbeit]]*. There are [hundreds of different classes](https://web.arbeitsagentur.de/coachingundaktivierung/suche?mz=SA%2004&uk=Bundesweit&pg=0&re=BE) for business owners, including German classes.
 - **Start-up grant** (*Gründungszuschuss*)  
-    If you get *[[ALG I]]*, the *[[Agentur für Arbeit]]* can give you more money to help you start your business. Ask the *[[Jobcenter]]* about it when you [register for unemployment benefits](/guides/unemployment-benefits).
+    If you get *[[ALG I]]*, the *[[Agentur für Arbeit]]* can give you more money to help you start your business. Ask them when you [register for unemployment benefits](/guides/unemployment-benefits).
 - **Initial funding** (*Einstiegsgeld*)  
     If you already get [[Bürgergeld]], the *[[Agentur für Arbeit]]* can give 50% more money to help you start your business.[^10] More information [here](https://redtapetranslation.com/algii-and-einstiegsgeld-a-government-grant-to-start-your-business/).
 - **Investment grant** (*Investitionszuschuss*)  
@@ -224,7 +224,7 @@ The state can help you start a business. There are many options:
 - **EXIST start-up grant**  
     If you are a student, a graduate or a scientist working in an innovative technology, you can apply for this grant. - [More information](https://www.exist.de/EXIST/Navigation/EN/Start-upFunding/EXIST-Business-Start-up-Grant/exist-business-start-up-grant.html)
 
-You can apply for a training voucher, initial funding and an investment grant at the *[[Jobcenter]]*. If you just moved to Germany, you can't get help from the state, because you don't qualify for [unemployment benefits](/glossary/ALG%20I).[^12]
+You can apply for a training voucher, initial funding and an investment grant at the *[[Agentur für Arbeit]]* or the *[[Jobcenter]]*. You might not get a training voucher if you don't qualify for [unemployment benefits](/glossary/ALG%20I).[^12]
 
 ## Step 10: Update your website
 
@@ -248,5 +248,5 @@ If you have a website, it must follow German and European laws. If you make a mi
 [^9]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^11]: [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
-[^12]: [hartz4widerspruch.de](https://hartz4widerspruch.de/ratgeber/basic/wann-erhalten-eu-buerger-und-andere-auslaender-hartz-4/#alg_i_und_alg_ii_-_wann_haben_eu-auslander_anspruch)
+[^12]: [hartz4widerspruch.de](https://hartz4widerspruch.de/ratgeber/basic/wann-erhalten-eu-buerger-und-andere-auslaender-hartz-4/#alg_i_und_alg_ii_-_wann_haben_eu-auslander_anspruch), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^13]: [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)
