@@ -25,11 +25,15 @@ You can get unemployment benefits if:[^0]
 
 Your immigration status does not affect your unemployment benefits. You can get *ALG I* with a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship.
 
-**If you can't get ALG I**, you should still register at the *Agentur für Arbeit*. You could get *[[Bürgergeld]]*, free professional training, and job search help.
+**If you can't get ALG I**, you should still register at the *Agentur für Arbeit*. You could get *[[Bürgergeld]]*, free professional training, job search help or good advice.[^27]
 
 ## When do I get unemployment benefits?
 
-Usually, **as soon as you stop working**. Sometimes, There is a disqualification period (*Sperrzeit*) of 1 to 12 weeks. During the *Sperrzeit*, you don't get unemployment benefits, but the *Agentur für Arbeit* still pays for your health insurance.[^26]
+Usually, **as soon as you stop working**, except if there is a disqualification period (*Sperrzeit*). You get paid at the end of the month.
+
+### The Sperrzeit
+
+Sometimes, there is a disqualification period (*Sperrzeit*) of 1 to 12 weeks. During the *Sperrzeit*, you don't get *[[ALG I]]*, but the *Agentur für Arbeit* still pays for your [health insurance](/glossary/Krankenversicherung).[^26]
 
 There is a *Sperrzeit* when...
 
@@ -39,6 +43,8 @@ There is a *Sperrzeit* when...
     If you wait too long to [register as a job seeker](#register-as-a-job-seeker) or [as unemployed](#register-as-unemployed), the *[[Agentur für Arbeit]]* adds a *Sperrzeit* to punish you.
 - **or you refuse help from the Agentur für Arbeit**[^13]  
     For example, you refuse a job offer, refuse to take recommended training, or refuse to look for work.
+
+A *Sperrzeit* means that you get less *ALG I* in total. For example, if you have 12 months of unemployment benefits and a 3 month *Sperrzeit*, you only get *ALG I* for 9 months.
 
 ## How much money do I get?
 
@@ -51,6 +57,8 @@ You pay taxes on the money you get: [salary tax](/glossary/Lohnsteuer), [solidar
 ## How long do unemployment benefits last?
 
 **6 to 12 months**. It depends on how many months of unemployment insurance you paid in the last 5 years. If you are over 50 years old, it can last up to 24 months.[^19]
+
+You can get less unemployment benefits because of a *[Sperrzeit](#the-sperrzeit)*
 
 ## How to apply for unemployment benefits
 
@@ -90,6 +98,8 @@ If your employer takes too long, tell your case worker at the *Agentur für Arbe
 
 If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^23] You will get unemployment benefits faster. [Use this template](/docs/alg-i-vorlaeufige-entscheidung) to make the request.
 
+Your employer can also put false information in your *Arbeitsbescheinigung*. This can affect how much *[[ALG I]]* you get.[^28]
+
 {% include "_blocks/algIVorlaeufigeBewilligung.html" %}
 
 ## Receiving unemployment benefits
@@ -115,11 +125,11 @@ To get *ALG I*, you must...
 
 If you don't meet those conditions, they can stop paying *ALG I*, sometimes retroactively.[^9]
 
-### Vacations and travels
+### Vacations and travel
 
-When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you must ask the *[[Agentur für Arbeit]]*.
+When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you must ask the *[[Agentur für Arbeit]]*. The *Agentur für Arbeit* gives you 20 days of paid vacations. You can also pause your *ALG I* and take a longer unpaid vacation.[^29]
 
-You can travel to find work in another EU or [[EEA]] country. You must ask the *Agentur für Arbeit* first.[^7]
+You can travel to find work in another EU or [[EEA]] country. You must ask the *Agentur für Arbeit* first.[^7] You receive *ALG I* while you travel to find work.
 
 People often travel without telling the *Agentur für Arbeit*. Most of the time, they don't notice. If they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits.
 
@@ -162,3 +172,7 @@ Look for work. ALG I depends on it.
 [^24]: Interview with an unemployed person (July 2023)
 [^25]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), interview with an unemployed person (July 2023)
 [^26]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/wie-bin-ich-waehrend-einer-sperrzeit-versichert-2005728)
+[^27]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^28]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^29]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^30]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)

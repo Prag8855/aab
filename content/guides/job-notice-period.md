@@ -25,7 +25,7 @@ The default notice period is 4 weeks, rounded up to the 15th or last day of the 
 
 **[Notice period calculator](https://www.afa-anwalt.de/kuendigungsfristenrechner/)** (in German) - AfA Rechtsanwälte
 
-## If you get laid off
+## If you get laid off or fired
 
 If you get laid off, the default notice period depends on how long you have worked for this employer:[^3]
 
@@ -45,17 +45,27 @@ If you get laid off, the default notice period depends on how long you have work
 
 > **Example 2:** You started a job 2 months ago, and you are still in your probation period. You get laid off on July 11. You must work until July 25. That's 2 weeks later.
 
+**Check your work contract**. Many jobs have a longer notice period. A 3 month notice period is common.[^13] Some jobs have 6 month or 1 year notice periods. The notice period for your employer (if laid off) can't be shorter than your notice period (if you quit).[^12]
+
+> **Example 3:** Your work contract has a 3 month notice period. You get laid off on July 10. Your notice period starts on July 11. Your employer must pay you until October 11. That's 3 months later.
+
 Your notice period starts one day after you receive your termination letter.
 
-### In case of bankruptcy
+### If you get fired
+
+If you get fired for a serious reason, there is no notice period. For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9] In most cases, you get a written warning first.
+
+### Before your first day of work
+
+If you quit or lose your job before you start working, the notice period is 2 weeks. If this happens at least 2 weeks before your start date, you don't go to work, and you don't get paid. Your work contract can have special rules for this.[^11]
+
+If you relocated for work, you can sue your employer. You can ask for compensation for the money that you lost.[^10] [Talk to a lawyer](/guides/english-speaking-lawyers-berlin) first.
+
+### When your employer goes bankrupt
 
 If your employer goes bankrupt, the notice period is limited to 3 months, at the end of the month.[^4]
 
-## If you get fired
-
-If you get fired, there is usually a notice period. notice period depends on why you were fired.
-
-If you get fired for a serious reason, there is no notice period. For example, if you steal money, refuse to work, or threaten other workers, or make racist comments in public, there is no notice period.[^9] In most cases, you get a written warning first.
+Your employer can also put you on *Kurzarbeit*. They reduce your work hours, and they must pay your salary in advance. This can happen when your employer has serious financial problems.
 
 ## How the notice period works
 
@@ -81,3 +91,6 @@ If you have unused vacation days, your employer can force you to use them. You c
 [^8]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=das%20hat%20aber%20keine%20sozialversicherungsrechtlichen%20konsequenzen)
 [^9]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/fristlose-kuendigung/#beispiel))
 [^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
+[^10]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^11]: [ergo.de](https://www.ergo.de/de/rechtsportal/arbeitsrecht/arbeitssuche/kuendigung-vor-arbeitsantritt), [jobteaser.com](https://www.jobteaser.com/de/advices/vor-arbeitsbeginn-kuendigen-das-musst-du-beachten) [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^12]: [arbeitsrechte.de](https://www.arbeitsrechte.de/maximale-kuendigungsfrist/#:~:text=darf%20jedoch%20nie%20langer%20sein%20als%20die%20des%20arbeitgebers)

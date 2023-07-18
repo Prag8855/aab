@@ -3,6 +3,8 @@ Title: Losing or quitting your job in Germany
 Short_title: Losing or quitting your job
 Description: What happens when you resign, get laid off, change jobs or change careers in Germany. This is what happens to your health insurance, residence permit, unemployment benefits etc.
 Date_created: 2023-07-17
+Related_reviews:
+    reviews/losing-your-job/sebastian-hoffmann.md
 ---
 
 This guide shows you what to do when:
@@ -40,11 +42,13 @@ If you quit without a reason, you lose 3 months of [unemployment benefits](/glos
 
 ## If you get fired or laid off
 
-### Resist your dismissal
+If your employer does not need you, you can get **laid off**. If your employer has financial problems, they can also put you on *Kurzarbeit*.
 
-If you get fired or laid off, you have 3 weeks to resist the decision with a *Kündigungsschutzklage*.[^30] You should [get help](#need-help) from a lawyer.
+If your employer is not happy with your work, you can get **fired**. You can't get fired without a good reason, except during [probation period](/glossary/Probezeit). You get written warnings before you get fired, except for very serious reasons.
 
-During your [probation period](/glossary/Probezeit), your employer can fire you without a reason. After your probation period, your employer must give a valid reason. Usually, they can't fire you without a warning.
+### Resist
+
+Your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] [Get legal help](#need-help) for this.
 
 ### Calculate your notice period
 
@@ -58,11 +62,11 @@ If you get fired for misconduct, there might be no notice period.[^10]
 
 If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign a termination agreement (*Aufhebungsvertrag*) to get severance pay. In other words, your employer pays you to leave without suing them.
 
-You can negotiate how much severance pay you get.[^26] Severance pay in Germany is much lower than in North America.  In some cases, the legal minimum is 2 weeks of pay for every year with your employer.[^21]
+You can negotiate how much severance pay you get.[^26] Severance pay in Germany is lower than in North America. You usually get 0.5× your monthly income ([Brutto](/glossary/Brutto%20income)) for each year of employment.[^21] For example, if you work 5 years for an employer, your severance pay is 2.5 months of income.
 
-A labour [lawyer](/guides/english-speaking-lawyers-berlin) can help you negotiate better severance pay, because they know how much money you can get. [Conny](/out/conny-abfindung) can also do this.
+A labour [lawyer](/guides/english-speaking-lawyers-berlin) can help you negotiate better severance pay, because they know how much money you can get.
 
-Severance pay can affect your [unemployment benefits](/glossary/ALG%20I). If it's really high, you can lose 3 months of unemployment benefits.[^25] You also pay for your health insurance during that time.[^8]
+Severance pay can affect your [unemployment benefits](/glossary/ALG%20I). If it's really high, you can lose 3 months of unemployment benefits.[^25] Sometimes, it's better to refuse severance pay and get unemployment benefits. If you are not sure, ask a labour lawyer.
 
 If you are over 50 years old and plan to retire soon, you can ask for [pension payments instead of severance pay](https://vangard.de/en/news-analysis/blog/pension-contributions-instead-of-severance-pay). It might be a better deal for you.
 
@@ -168,7 +172,7 @@ When you start a new job, you might need the *Ausländerbehörde*'s permission t
 - **If you had <u>this</u> residence permit for at least 2 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^4]
 - **If you had <u>any</u> residence permit for at least 3 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) does not count.[^4]
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
 - **Everyone else**  
     You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). This can take a few months.
 
@@ -180,9 +184,9 @@ If you are not sure, ask an immigration lawyer.
 
 If your spouse has a [family reunion visa](/glossary/Family%20reunion%20visa), it's tied to your residence permit. If they qualify, they switch to a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].[^35]
 
-### Citizens and permanent residents
+### EU citizens and permanent residents
 
-Nothing happens to your permanent residence or citizenship.
+Nothing happens to your permanent residence or citizenship. You have the right to stay in Germany, even if you are unemployed.
 
 It should not affect your permanent residence or citizenship application.[^28]
 
@@ -195,7 +199,7 @@ Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) beco
 - **If you get [unemployment benefits](/glossary/ALG%20I)**, the *[[Agentur für Arbeit]]* pays for your health insurance. It covers you for free.[^17]
 - **If you don't get unemployment benefits**, you must pay around around {{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ per month. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).[^7]
 
-In some cases, your health insurance is free for 1 month after you lose your job (*nachgehende Leistungsanspruch*).[^18] This happens automatically; you don't need to apply for it.
+In some cases, your health insurance is free for 1 month after you lose your job (*nachgehender Leistungsanspruch*).[^18] This happens automatically; you don't need to apply for it.
 
 ### With private health insurance
 
@@ -268,12 +272,16 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 
 ## Need help?
 
+If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's not an aggressive move.
+
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
+
+I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered many of my questions for this guide. I chose them because they helped a colleague win against my last employer. They speak English.
 
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
-[^4]: [§9 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A)
+[^4]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A)
 [^5]: [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
