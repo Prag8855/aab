@@ -39,6 +39,9 @@ function getDefaultBoolean(key, fallback) {
 }
 
 function setDefault(key, value) {
+  if(value === null || value === undefined){
+    return;
+  }
   if (typeof sessionStorage === 'object') {
     try {
       localStorage.setItem(key, value);
