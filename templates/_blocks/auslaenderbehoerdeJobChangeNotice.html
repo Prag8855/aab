@@ -214,6 +214,7 @@
           currentDate: new Date(),
           lastDayOfWork: '',
           sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
+          uniqueId: Math.floor(Math.random() * 10000),
         };
       },
       computed: {
