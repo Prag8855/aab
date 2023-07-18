@@ -161,7 +161,7 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 ### Work visa or Blue Card
 
-After you email the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened.[^29] The *Ausländerbehörde* will give you 6 months to find another job.[^5] Some people get 12 months.[^28]
+After you inform the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened.[^29] The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5]
 
 When you start a new job, you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit:
 
@@ -268,7 +268,7 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^4]: [§9 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A)
-[^5]: [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023)
+[^5]: [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/wie-bin-ich-waehrend-einer-sperrzeit-versichert-2005728)
@@ -296,5 +296,4 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
-[^28]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023)
 [^29]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html)

@@ -23,6 +23,8 @@ For example, the *[[Ausländerbehörde]]* can give you a *Fiktionsbescheinigung*
 
 **Ask for it**. When you apply for a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*, say that you must travel outside of Germany, and that you need a *Fiktionsbescheinigung*.
 
+**[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde)**
+
 If you apply for a residence permit by email, ask for a *Fiktionsbescheinigung* in your application email. To get a *Fiktionsbescheinigung* after you applied, email <ReiseB1B2@lea.berlin.de> with a proof of your upcoming travels.[^5]
 
 If you currently have a [[Schengen visa]], you can't get a *Fiktionsbescheinigung*. You can't convert a Schengen visa to a residence permit. You must apply in for a residence permit in your home country.[^3]

@@ -21,12 +21,10 @@ If you have [permanent residence](/glossary/Niederlassungserlaubnis), EU or [[EE
 
 ## How to send this letter
 
-Send the letter to [the department who is responsible for you](/out/auslanderbehorde-contact). Include a copy of your resignation letter, your termination notice, and your new work contract.
+Send the letter to the department who is responsible for you. Include a copy of your resignation letter, your termination notice, and your new work contract.
 
-In Berlin, you can email, post or fax this letter.
+**[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde)**
 
 The *Ausländerbehörde* will answer a few weeks later.[^1]
 
-**[How to mail a letter ➞](/guides/mail-a-letter)**
-
-[^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report
+[^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report (July 2023)

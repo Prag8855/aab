@@ -46,19 +46,19 @@ If you can't find an appointment online, you can:[^2]
 
 To do this, you must...
 
-1. [Choose the right department to email](/out/auslanderbehorde-contact)
+1. [Find the correct department to email](#how-to-contact-the-auslanderbehorde)
 2. Write an email in German. It must include:
-    - What you need
-    - Your full name
-    - Your date and place of birth
-    - Your nationality
-    - The expiration date of your visa or residence permit
-    - If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23]
+    - [ ] What you need
+    - [ ] Your full name
+    - [ ] Your date and place of birth
+    - [ ] Your nationality
+    - [ ] The expiration date of your visa or residence permit
+    - [ ] If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23]
 3. Attach *all* required documents for your residence permit application. Complete applications are processed faster.[^23]
 4. Send your email and wait for a response. It can take a few months.
 5. They will review your documents and give you an appointment. You must go there in person to finish your application.[^12]
 
-The *Ausländerbehörde* can take days, weeks or months to answer.[^4] It depends on how urgent your situation is, and how complete your application is.
+**[How to contact the Ausländerbehörde ↓](#how-to-contact-the-auslanderbehorde)**
 
 If you send all your documents, it counts as a residence permit application. This usually means that you can stay in Germany until they make a decision, even if your [residence permit](/glossary/Aufenthaltstitel) expires.
 
@@ -66,7 +66,9 @@ If you send all your documents, it counts as a residence permit application. Thi
 
 ### By fax
 
-Some people say that fax works much faster than email.[^22] The Ausländerbehörde's fax number is (030) 90269 4099. Their opening hours are [here](https://service.berlin.de/standort/121885/).
+Some people say that fax works faster than email.[^22] The experts I asked could not confirm this.[^24]
+
+**[How to contact the Ausländerbehörde ↓](#how-to-contact-the-auslanderbehorde)**
 
 ### By registered mail
 
@@ -124,7 +126,7 @@ If you don't get a residence permit, you pay nothing.
 
 ### If you don't get an answer
 
-If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*.[^9] This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€.[^5] [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
+If you apply, and you don't get an answer after 3 months, you can sue the *Ausländerbehörde*.[^9] This is called an *Untätigkeitsklage nach § 75 VwGO*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
 
 If the *Ausländerbehörde* can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
@@ -170,19 +172,26 @@ During your *Ausländerbehörde* appointment, the interviewer can give you a *[[
 
 ## Questions and answers
 
+### How to contact the Ausländerbehörde
+
+The *Ausländerbehörde* is divided in departments. Each department (*Referat*) is responsible for a problem or a group of nationalities.
+
+To contact the *Ausländerbehörde*...
+
+1. **Find the correct department**  
+    Use [this page](/out/auslanderbehorde-departments) to find which department (*Referat*) is responsible for you. Use [this organigram](/out/auslanderbehorde-organigram) (October 2022) to find the email address and fax number of your department. The opening hours are [here](https://service.berlin.de/standort/121885/).
+2. **Contact your department**  
+    Email, mail or fax your department. The *Ausländerbehörde* might answer weeks or months later.[^4] It depends on how urgent your situation is, and how complete your application is.
+
+**[How to mail a letter ➞](/guides/mail-a-letter)**
+
 ### Do they speak English at the Ausländerbehörde?
 
 **Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
 
-### How can I contact the Ausländerbehörde?
-
-The *Ausländerbehörde* is hard to contact. They rarely answer the phone, and they can take months to answer emails. You must contact the department that is responsible for your nationality or residence permit type. Use [this list](https://www.berlin.de/einwanderung/ueber-uns/kontakt/).
-
-You can also [get help from other places](/guides/questions-about-berlin#immigration-questions). This is often much faster.
-
 ### Which Ausländerbehörde should I go to?
 
-**It depends** on what you need to do, and on your nationality. There are two *Ausländerbehörde* locations. There are two *Ausländerbehörde* locations: [Keplerstraße](https://service.berlin.de/standort/327437/en/) and [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/en/). Each *Ausländerbehörde* offers different services for different nationalities. You must go to the correct one.
+**It depends** on what you need to do, and on your nationality. There are two *Ausländerbehörde* locations: [Keplerstraße](https://service.berlin.de/standort/327437/en/) and [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/en/). Each *Ausländerbehörde* offers different services for different nationalities. You must go to the correct one.
 
 - [List of services at Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/)
 - [List of services at Keplerstraße](https://service.berlin.de/standort/327437/en/)
@@ -198,7 +207,7 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^0]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/posts/1252123768589657/)
 [^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)
 [^2]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
-[^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
+[^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/), [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
 [^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)
 [^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
 [^8]: [fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
@@ -216,6 +225,6 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^21]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
-[^5]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)
 [^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/)
+[^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023)
