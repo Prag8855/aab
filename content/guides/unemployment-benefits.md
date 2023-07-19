@@ -25,9 +25,13 @@ You can get unemployment benefits if:[^0]
 - [ ] **You applied for unemployment benefits**  
     This is not automatic. You must [apply for unemployment benefits](#how-to-apply-for-unemployment-benefits) yourself.
 
-Your immigration status does not affect your unemployment benefits. You can get *ALG I* with a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship.
-
 **If you can't get ALG I**, you should still register at the *Agentur für Arbeit*. You could get *[[Bürgergeld]]*, free professional training, job search help or good advice.[^27]
+
+### Unemployment benefits for immigrants
+
+You can get *[[ALG I]]* with a [residence permit](/glossary/Aufenthaltstitel) (like a [work visa](/glossary/Work%20Visa) or [[Blue Card]]), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship. Your immigration status does not affect your unemployment benefits. 
+
+Some *[[Agentur für Arbeit]]* case workers refuse to give *[[ALG I]]* to people with residence permits. This is wrong, and you can force them to pay unemployment benefits.[^31]
 
 ## When do I get unemployment benefits?
 
@@ -178,3 +182,4 @@ Look for work. ALG I depends on it.
 [^28]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^29]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^30]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
+[^31]: [Flüchtlingsrat NRW](https://www.frnrw.de/themen-a-z/alg-i-anspruch-bei-aufenthaltstiteln-mit-arbeitgeberbindung-18a-b-19c-aufenthg-nach-verlust-der-arbeit.html), [Agentur für Arbeit, page 14](https://www.arbeitsagentur.de/datei/fw-sgb-iii-138_ba015145.pdf)
