@@ -19,6 +19,7 @@
 					monthlyIncome: Math.round(getDefaultNumber('yearlyIncome')/12),
 					germanState: getDefault('state'),
 					germanStates,
+					occupations,
 					taxes,
 				}
 			},
@@ -46,7 +47,6 @@
 	);
 {% endjs %}
 
-{% set id = random_id() %}
 <collapsible class="unemployment-insurance-calculator" aria-label="Unemployment insurance calculator" {% if static|default %}static{% endif %}>
 {% raw %}
 		<template v-slot:header>Unemployment insurance calculator</template>
@@ -56,7 +56,7 @@
 				</label>
 				<occupation-input :id="uid('occupation')" v-model="occupation"></occupation-input>
 		</div>
-		<div class="form-group show-errors" v-if="['employee', 'azubi'].includes(occupation)">
+		<div class="form-group show-errors" v-if="occupations.isEmployed(occupation)">
 				<label :for="uid('income')">
 						Income
 				</label>
