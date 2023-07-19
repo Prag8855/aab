@@ -1,16 +1,14 @@
-{% set id = random_id() %}
-<details class="health-insurance-question collapsible" {% if static|default %}open{% endif %} v-cloak>
-  {% if not static|default %}
-    <summary>
-      <span class="no-mobile">Ask a health insurance broker</span>
-      <span class="only-mobile no-print" aria-hidden="true">Ask a broker</span>
-    </summary>
-  {% endif %}
-  <health-insurance-question></health-insurance-question>
-</details>
-{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/health-insurance-question.js' %}
 {% js %}
-  document.querySelectorAll('.health-insurance-question').forEach(el => new Vue({ el }));
+	document.querySelectorAll("collapsible.health-insurance-question").forEach(el => new Vue({el}));
 {% endjs %}
+
+<collapsible class="health-insurance-question">
+	<template v-slot:header>
+		<span class="no-mobile">Ask a health insurance broker</span>
+		<span class="only-mobile no-print" aria-hidden="true">Ask a broker</span>
+	</template>
+	<health-insurance-question></health-insurance-question>
+</collapsible>
