@@ -1,4 +1,3 @@
-{% set id = random_id() %}
 <details class="income-tax-calculator collapsible" ref="collapsible" {% if static|default %}open{% endif %} v-cloak>
     <summary {% if static|default %}hidden{% endif %}>
         <span class="no-mobile">German tax calculator</span>
@@ -6,13 +5,13 @@
     </summary>
 {% raw %}
     <div class="range-input">
-        <label for="range-income-{% endraw %}{{ id }}{% raw %}">
+        <label :for="uid('range-income')">
             <strong><eur :amount="income"></eur></strong>/{{ monthOrYear }} {{ salaryOrIncome }}
         </label>
         <span class="range-prefix no-mobile no-print">€</span>
         <input
-            aria-labelledby="range-income-{% endraw %}{{ id }}{% raw %}"
-            id="range-income-{% endraw %}{{ id }}{% raw %}"
+            aria-labelledby="uid('range-income')"
+            :id="uid('range-income')"
             v-model.number="income"
             type="range"
             class="no-print"
@@ -27,45 +26,45 @@
     </div>
     <template v-if="showExtraQuestions">
         <div class="form-group show-errors">
-            <label for="income-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('income')">
                 {{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
             </label>
             <div class="input-group">
-                <income-input id="income-{% endraw %}{{ id }}{% raw %}" v-model="income"></income-input>
+                <income-input :id="uid('income')" v-model="income"></income-input>
                 €
                 <button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ monthOrYear }}</button>
             </div>
         </div>
         <div class="form-group">
-            <label for="occupation-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('occupation')">
                 Occupation
             </label>
-            <occupation-input id="occupation-{% endraw %}{{ id }}{% raw %}" v-model="occupation"></occupation-input>
+            <occupation-input :id="uid('occupation')" v-model="occupation"></occupation-input>
         </div>
         <div class="form-group">
-            <label for="state-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('state')">
                 Where do you work?
             </label>
-            <select id="state-{% endraw %}{{ id }}{% raw %}" v-model="germanState">
+            <select :id="uid('state')" v-model="germanState">
                 <option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
             </select>
         </div>
         <hr>
         <div class="form-group show-errors">
-            <label for="age-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('age')">
                 Age
             </label>
             <label class="input-group">
-                <age-input id="age-{% endraw %}{{ id }}{% raw %}" v-model="age"></age-input>
+                <age-input :id="uid('age')" v-model="age"></age-input>
                 years old
             </label>
         </div>
         <div class="form-group">
-            <label for="church-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('church')">
                 Religion
             </label>
             <div class="input-group">
-                <select id="church-{% endraw %}{{ id }}{% raw %}" v-model="church">
+                <select :id="uid('church')" v-model="church">
                     <option value="ev">Evangelical Church</option>
                     <option value="rk">Roman Catholic Church</option>
                     <option value="jg">Jewish Community</option>
@@ -79,11 +78,11 @@
         </div>
         <hr>
         <div class="form-group">
-            <label for="health-insurance-type-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('health-insurance-type')">
                 Health insurance
             </label>
             <div class="input-group">
-                <select id="health-insurance-type-{% endraw %}{{ id }}{% raw %}" v-model="healthInsuranceType">
+                <select :id="uid('health-insurance-type')" v-model="healthInsuranceType">
                     <optgroup label="Public health insurance">
                         <option value="public-tk">Most popular option - TK</option>
                         <option value="public-hkk">Cheapest option - hkk</option>
@@ -104,17 +103,17 @@
             </div>
         </div>
         <div class="form-group show-errors" v-if="healthInsuranceType === 'private'">
-            <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('health-insurance-cost')">
                 Health insurance cost
             </label>
             <label class="input-group">
-                <income-input id="health-insurance-cost-{% endraw %}{{ id }}{% raw %}" v-model="privateHealthInsuranceCost"></income-input>
+                <income-input :id="uid('health-insurance-cost')" v-model="privateHealthInsuranceCost"></income-input>
                 €&nbsp;per month
                 <span class="input-instructions" v-if="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
             </label>
         </div>
         <div class="form-group show-errors" v-if="healthInsuranceType === 'public-custom'">
-            <label for="health-insurance-cost-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('zusatzbeitrag')">
                 <glossary term="Zusatzbeitrag">Insurer surcharge</glossary>
             </label>
             <div class="input-group">
@@ -124,7 +123,7 @@
                     min="0"
                     step="any"
                     pattern="[0-9]*\.?[0-9]+"
-                    id="zusatzbeitrag-{% endraw %}{{ id }}{% raw %}"
+                    :id="uid('zusatzbeitrag')"
                     @focus="$event.target.select()"
                     v-model.number="customZusatzbeitrag">
                 &nbsp;%
@@ -138,20 +137,20 @@
             </span>
             <div class="input-group">
                 <label class="checkbox">
-                    <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" :value="true">
+                    <input type="radio" :name="uid('is-married')" v-model="isMarried" :value="true">
                     Married
                 </label>
                 <label class="checkbox">
-                    <input type="radio" name="is-married-{% endraw %}{{ id }}{% raw %}" v-model="isMarried" :value="false">
+                    <input type="radio" :name="uid('is-married')" v-model="isMarried" :value="false">
                     Not married
                 </label>
             </div>
         </div>
         <div class="form-group">
-            <label for="children-count-{% endraw %}{{ id }}{% raw %}">
+            <label :for="uid('children-count')">
                 Children
             </label>
-            <select id="children-count-{% endraw %}{{ id }}{% raw %}" v-model="childrenCount">
+            <select :id="uid('children-count')" v-model="childrenCount">
                 <option :value="0">No children</option>
                 <option :value="1">1 child</option>
                 <option :value="2">2 children</option>
@@ -171,42 +170,42 @@
                 <glossary term="Steuerklasse">Tax class</glossary>
             </span>
             <label class="checkbox" v-if="availableTaxClasses.includes(1)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="1">
+                <input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="1">
                 <div>
                     Tax class 1
                     <br><small>If you are not married</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(2)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="2">
+                <input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="2">
                 <div>
                     Tax class 2
                     <br><small>If you raise children alone</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(3)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="3">
+                <input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="3">
                 <div>
                     Tax class 3
                     <br><small>If you earn more than your spouse</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(4)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="4">
+                <input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="4">
                 <div>
                     Tax class 4
                     <br><small>If you earn around the same as your spouse</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(5)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="5">
+                <input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="5">
                 <div>
                     Tax class 5
                     <br><small>If you earn less than your spouse</small>
                 </div>
             </label>
             <label class="checkbox" v-if="availableTaxClasses.includes(6)">
-                <input type="radio" name="tax-class-{% endraw %}{{ id }}{% raw %}" v-model="taxClass" :value="6">
+                <input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="6">
                 <div>
                     Tax class 6
                     <br><small>If you calculate taxes for a second job</small>
@@ -474,10 +473,12 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/occupation-input.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
   document.querySelectorAll('.income-tax-calculator').forEach(
     el => new Vue({
       el: el,
+      mixins: [uniqueIdsMixin],
       data() {
         return {
           age: getDefaultNumber('age'),
