@@ -14,17 +14,17 @@
 {% set groups = glossary_groups(get_entries('glossary'))|dictsort %}
 
 {% block precontent %}
-    <header class="intro">
-        <h1>Glossary</h1>
-    </header>
+	<header class="intro">
+		<h1>Glossary</h1>
+	</header>
 {% endblock %}
 
 {% block content %}
-    <nav class="glossary-sections" aria-label="Letter shortcuts">
+	<nav class="glossary-sections" aria-label="Letter shortcuts">
 		{% for group_name, entries in groups %}
 			<a href="#letter-{{ group_name }}" title="Terms that start with '{{ group_name }}'">{{ group_name }}</a>
 		{% endfor %}
-    </nav>
+	</nav>
 	<nav class="collections" aria-label="List of terms, grouped by letter">
 		{% for group_name, entries in groups %}
 			<div class="collection" id="letter-{{ group_name }}">

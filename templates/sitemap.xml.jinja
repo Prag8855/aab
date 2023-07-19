@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>{{ site_url }}</loc>
-   </url>
-   {% for uri in ['contact.md', 'terms.md'] %}
-      <url>
-         <loc>{{ entries[uri].url }}</loc>
-         <lastmod>{{ entries[uri].date_updated.strftime('%F') }}</lastmod>
-      </url>
-   {% endfor %}
-   {% for entry in get_entries(['guides', 'docs', 'glossary', 'tools', 'collections']) %}
-      <url>
-         <loc>{{ entry.url }}</loc>
-         <lastmod>{{ entry.date_updated.strftime('%F') }}</lastmod>
-      </url>
-   {% endfor %}
+	<url>
+		<loc>{{ site_url }}</loc>
+	</url>
+	{% for uri in ['contact.md', 'terms.md'] %}
+		<url>
+			<loc>{{ entries[uri].url }}</loc>
+			<lastmod>{{ entries[uri].date_updated.strftime('%F') }}</lastmod>
+		</url>
+	{% endfor %}
+	{% for entry in get_entries(['guides', 'docs', 'glossary', 'tools', 'collections']) %}
+		<url>
+			<loc>{{ entry.url }}</loc>
+			<lastmod>{{ entry.date_updated.strftime('%F') }}</lastmod>
+		</url>
+	{% endfor %}
 </urlset>

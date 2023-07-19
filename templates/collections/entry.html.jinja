@@ -3,20 +3,20 @@
 {% set metadescription = entry.description %}
 
 {% block postHead %}
-    {{ super() }}
-    <link rel="index" href="{{ site_url }}/guides">
+	{{ super() }}
+	<link rel="index" href="{{ site_url }}/guides">
 {% endblock %}
 
 {% block main %}
-    <main aria-label="Main page">
-        <header class="intro">
-            <h1>{{ entry.title }}</h1>
-            {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
-        </header>
-        <div class="section" aria-label="Guides in this collection"> 
-            {% with entries=entry.related_guides|default([]), showDateUpdated=true %}
-                {% include "_blocks/entryPreviews.html" %}
-            {% endwith %}
-        </div>
-    </main>
+	<main aria-label="Main page">
+		<header class="intro">
+			<h1>{{ entry.title }}</h1>
+			{% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
+		</header>
+		<div class="section" aria-label="Guides in this collection"> 
+			{% with entries=entry.related_guides|default([]), showDateUpdated=true %}
+				{% include "_blocks/entryPreviews.html" %}
+			{% endwith %}
+		</div>
+	</main>
 {% endblock %}

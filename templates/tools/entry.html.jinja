@@ -3,80 +3,80 @@
 {% set metadescription = entry.description %}
 
 {% block postHead %}
-    {{ super() }}
-    <link rel="index" href="{{ site_url }}/tools">
+	{{ super() }}
+	<link rel="index" href="{{ site_url }}/tools">
 {% endblock %}
 
 {% block content %}
-    <h1>{{ entry.title }}</h1>
-    {% include "_blocks/postMeta.html" %}
-    {% with entry=entry, showSupportLink=true %}
-        <div class="article-body">
-            {{ entry.body|render|safe }}
-        </div>
-    {% endwith %}
+	<h1>{{ entry.title }}</h1>
+	{% include "_blocks/postMeta.html" %}
+	{% with entry=entry, showSupportLink=true %}
+		<div class="article-body">
+			{{ entry.body|render|safe }}
+		</div>
+	{% endwith %}
 {% endblock %}
 
 
 {% block postcontent %}
-    {% with pageType='tool' %}
-        {% include "_blocks/donationPrompt.html" %}
-    {% endwith %}
-    <aside class="section no-print">
-        <p>
-            <strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
-        </p>
-    </aside>
+	{% with pageType='tool' %}
+		{% include "_blocks/donationPrompt.html" %}
+	{% endwith %}
+	<aside class="section no-print">
+		<p>
+			<strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
+		</p>
+	</aside>
 {% endblock %}
 
 {% block postFooter %}
-    {{ super() }}
-    <script type="application/ld+json">
-        [
-            {
-                "@context": "http://schema.org",
-                "@type": "WebPage",
-                "name": {{ entry.title|tojson }},
-                "description": {{ entry.description|tojson }},
-                "breadcrumb": {
-                    "@context": "https://schema.org",
-                    "@type": "BreadcrumbList",
-                    "itemListElement": [
-                        {
-                            "@type": "ListItem",
-                            "position": 1,
-                            "item": {
-                                "@id": "{{ site_url }}/",
-                                "name": "Home"
-                            }
-                        },
-                        {
-                            "@type": "ListItem",
-                            "position": 2,
-                            "item": {
-                                "@id": "{{ site_url }}/tools",
-                                "name": "Tools and calculators"
-                            }
-                        },
-                        {
-                            "@type": "ListItem",
-                            "position": 3,
-                            "item": {
-                                "@id": "{{ entry.url }}",
-                                "name": {{ entry.title|tojson }}
-                            }
-                        }
-                    ]
-                },
-                "author": {
-                    "@type": "Person",
-                    "@id": "https://nicolasbouliane.com"
-                },
-                "publisher": {
-                    "@type": "Organization",
-                    "@id": "{{ site_url }}/#organization"
-                }
-            }
-        ]
-    </script>
+	{{ super() }}
+	<script type="application/ld+json">
+		[
+			{
+				"@context": "http://schema.org",
+				"@type": "WebPage",
+				"name": {{ entry.title|tojson }},
+				"description": {{ entry.description|tojson }},
+				"breadcrumb": {
+					"@context": "https://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"item": {
+								"@id": "{{ site_url }}/",
+								"name": "Home"
+							}
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"item": {
+								"@id": "{{ site_url }}/tools",
+								"name": "Tools and calculators"
+							}
+						},
+						{
+							"@type": "ListItem",
+							"position": 3,
+							"item": {
+								"@id": "{{ entry.url }}",
+								"name": {{ entry.title|tojson }}
+							}
+						}
+					]
+				},
+				"author": {
+					"@type": "Person",
+					"@id": "https://nicolasbouliane.com"
+				},
+				"publisher": {
+					"@type": "Organization",
+					"@id": "{{ site_url }}/#organization"
+				}
+			}
+		]
+	</script>
 {% endblock %}

@@ -11,9 +11,9 @@
 <main aria-label="Main page">
 	<header class="intro" aria-label="Title and search box">
 		<h1>Guides about Germany</h1>
-        {% with autofocus=true %}
-            {% include "_blocks/searchForm.html" %}
-        {% endwith %}
+		{% with autofocus=true %}
+			{% include "_blocks/searchForm.html" %}
+		{% endwith %}
 	</header>
 	<section class="section" aria-label="Guide collections">
 		{% with currentEntry=null, collections=get_entries('collections', sort_by='order') %}

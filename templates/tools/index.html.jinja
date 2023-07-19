@@ -3,25 +3,25 @@
 {% set metadescription = "Tools for German bureaucracy: tax calculators, Bürgeramt appointment finder and more." %}
 
 {% block postHead %}
-    {{ super() }}
-    <link rel="canonical" href="{{ site_url }}/tools">
+	{{ super() }}
+	<link rel="canonical" href="{{ site_url }}/tools">
 {% endblock %}
 
 {% block precontent %}
-    <header class="intro">
-        <h1>Tools and calculators</h1>
-    </header>
+	<header class="intro">
+		<h1>Tools and calculators</h1>
+	</header>
 {% endblock %}
 
 {% block content %}
-    <ol class="previews">
-    {% for tool in get_entries('tools', sort_by=('short_title', 'title')) %}
-        <li class="tool">
-            <h3>
-                <a title="{{ tool.title }}" rel="bookmark" href="{{ tool.url }}">{{ tool.short_title|default(tool.title) }}</a>
-            </h3>
-            <p>{{ tool.description }}</p>
-        </li>
-    {% endfor %}
-    </ol>
+	<ol class="previews">
+	{% for tool in get_entries('tools', sort_by=('short_title', 'title')) %}
+		<li class="tool">
+			<h3>
+				<a title="{{ tool.title }}" rel="bookmark" href="{{ tool.url }}">{{ tool.short_title|default(tool.title) }}</a>
+			</h3>
+			<p>{{ tool.description }}</p>
+		</li>
+	{% endfor %}
+	</ol>
 {% endblock %}
