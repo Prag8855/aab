@@ -147,8 +147,9 @@
 		})
 	);
 {% endjs %}
+
+<collapsible class="health-insurance-calculator" ref="collapsible" {% if static|default %}static{% endif %}>
 {% raw %}
-<collapsible class="health-insurance-calculator" {% endraw %}{% if static|default %}static{% endif %}{% raw %} ref="collapsible">
 	<template v-slot:header>Health insurance calculator</template>
 
 	<template v-if="stage === 'start'">
@@ -545,5 +546,5 @@
 			<i class="icon left" aria-hidden="true"></i> Back to calculator
 		</button>
 	</div>
-</collapsible>
 {% endraw %}
+</collapsible>

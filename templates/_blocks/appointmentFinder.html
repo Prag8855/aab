@@ -181,8 +181,8 @@
 <collapsible class="appointment-finder no-print" aria-label="Anmeldung appointment finder" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>
-		<span class="only-mobile no-print" aria-hidden="true">Appointment finder</span>
 		<span class="no-mobile">Anmeldung appointment finder</span>
+		<span class="only-mobile no-print" aria-hidden="true">Appointment finder</span>
 	</template>
 
 	<p v-if="isConnected === null">

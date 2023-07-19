@@ -1,8 +1,6 @@
 <letter-generator class="auslaenderbehoerde-job-change" {% if static|default %}static{% endif %}>
 {% raw %}
-    <template v-slot:header>
-        Ausländerbehörde – Job change notice
-    </template>
+    <template v-slot:header>Ausländerbehörde – Job change notice</template>
 
     <template v-slot:letter-recipient="{ language, stage }">
         <span class="letter-return-address" v-if="address">

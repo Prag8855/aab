@@ -1,8 +1,6 @@
 <letter-generator class="alg-i-vorlaeufige-bewilligung" {% if static|default %}static{% endif %}>
 {% raw %}
-    <template v-slot:header>
-        ALG I – Request a preliminary decision
-    </template>
+    <template v-slot:header>ALG I – Request a preliminary decision</template>
 
     <template v-slot:letter-recipient="{ language, stage }">
         <span class="letter-return-address" v-if="address">
