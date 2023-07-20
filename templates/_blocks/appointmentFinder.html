@@ -196,7 +196,7 @@
 		<h3>Can't connect to Berlin.de</h3>
 		<p>Berlin.de is having issues. If this keeps happening, <a href="/contact">email me</a>.</p>
 	</template>
-	<template v-if="isConnected && appointments.length === 0">
+	<template v-if="isConnected && !hasError && appointments.length === 0">
 		<h3>No appointments found</h3>
 		<p>
 			<template v-if="isDuringOfficeHours">This happens often.</template>
