@@ -32,7 +32,7 @@
 				<ol>
 					{% for entry in entries %}
 						<li>
-							<a title="Definition of {{ entry.german_term }}" rel="tag" href="{{ entry.url|urlencode }}">{{ entry.german_term }}</a>
+							<a title="Definition of {{ entry.german_term }}" rel="tag" href="{{ entry.url }}">{{ entry.german_term }}</a>
 						</li>
 					{% endfor %}
 				</ol>
