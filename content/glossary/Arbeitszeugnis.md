@@ -7,6 +7,7 @@ Date_created: 2023-03-28
 Related_guides:
     guides/losing-your-job.md
     guides/german-resignation-letter.md
+    docs/resignation-letter.md
 ---
 
 When you [leave a job](/guides/losing-your-job), you ask for a letter of reference (*Arbeitszeugnis*). It explains when you worked for the employer, and what type of work you did.

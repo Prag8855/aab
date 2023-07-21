@@ -35,6 +35,8 @@ To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
+**[Resignation letter generator ➞](/docs/resignation-letter)**
+
 ### See a doctor
 
 If you quit for mental health reasons (burnout, depression, stress), get a note from a doctor. This proves that you had a valid reason to quit.[^12]

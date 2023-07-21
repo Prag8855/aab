@@ -5,6 +5,7 @@ English_term: Cancellation letter
 Description: A letter you send to end a contract or resign from a job.
 Date_created: 2022-01-13
 Related_guides:
+    docs/resignation-letter.md
     guides/german-resignation-letter.md
     guides/moving-out.md
     guides/losing-your-job.md
@@ -20,3 +21,5 @@ Cancellation letters are used to...
 - Cancel a subscription or membership
 
 The *Kündigungsschreiben* is usually printed, signed, and sent by [registered mail](/glossary/Einschreibebrief). In many cases, it can be sent by email instead.
+
+**[Job resignation letter generator ➞](/docs/resignation-letter)**

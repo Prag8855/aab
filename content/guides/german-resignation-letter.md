@@ -9,9 +9,13 @@ When you quit your job in Germany, you must give your employer a resignation let
 
 {% include "_blocks/tableOfContents.html" %}
 
-## What goes in a German resignation letter
+## How to write a resignation letter
 
-Your resignation letter should be short and precise. Don't add unnecessary information; it could be used against you.[^10]
+Use my [German resignation letter generator](/docs/resignation-letter):
+
+{% include "_blocks/resignationLetter.html" %}
+
+Your resignation letter must be short and precise. Don't add unnecessary information; it could be used against you.[^10]
 
 Your resignation letter must include:
 
@@ -25,7 +29,7 @@ Your resignation letter must include:
 
 Your resignation letter can include:
 
-- [ ] Your contact information - Useful if your employer needs to contact you in the future.
+- [ ] Your contact information - in case your employer needs to contact you later
 - [ ] A request for a reference letter (*[[Arbeitszeugnis]]*)
 - [ ] A request for an *[[Urlaubsbescheinigung]]*
 - [ ] A note to thank your employer and your team
