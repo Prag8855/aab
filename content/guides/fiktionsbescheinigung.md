@@ -25,9 +25,9 @@ For example, the *[[Ausländerbehörde]]* can give you a *Fiktionsbescheinigung*
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde)**
 
-If you apply for a residence permit by email, ask for a *Fiktionsbescheinigung* in your application email. To get a *Fiktionsbescheinigung* after you applied, email <ReiseB1B2@lea.berlin.de> with a proof of your upcoming travels.[^5]
+If you apply for a residence permit by email, ask for a *Fiktionsbescheinigung* in your application email. To get a *Fiktionsbescheinigung* after you applied, email <ReiseB1B2@lea.berlin.de> with a proof of your upcoming travels.[^5] You pay a small fee, then get your *Fiktionsbescheinigung* by post or pick it up at the *Ausländerbehörde*.[^1]
 
-If you currently have a [[Schengen visa]], you can't get a *Fiktionsbescheinigung*. You can't convert a Schengen visa to a residence permit. You must apply in for a residence permit in your home country.[^3]
+If you currently have a [[Schengen visa]], you can't get a *Fiktionsbescheinigung*. You can't convert a Schengen visa to a residence permit. You must apply for a residence permit in your home country.[^3]
 
 ## Can you travel with a Fiktionsbescheinigung?
 
@@ -57,3 +57,4 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 [^3]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^4]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)
 [^5]: [twitter.com](https://twitter.com/Sarah_Kennedy03/status/1638523917403934722), confirmed by [Kathleen Parker](/out/red-tape-translation)
+[^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (June 2023), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
