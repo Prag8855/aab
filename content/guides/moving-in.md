@@ -160,11 +160,11 @@ Your own things are not covered by liability insurance. To insure your furniture
 
 Landlords often take advantage of immigrants. You must be ready to defend yourself. There are many ways to do this:
 
-- **Join a tenants' association** (*[[Mieterverein]]*)
+- **Join a tenants' association** (*[[Mieterverein]]*)  
     If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest associations in Berlin. The Berliner Mieterverein offers help in English.[^10]
-- or **get legal insurance** (*[[Rechtsschutzversicherung]]*)
+- or **get legal insurance** (*[[Rechtsschutzversicherung]]*)  
     It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Muffin](/out/muffin-rechtsschutz), [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
-- or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**
+- or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**  
     This is a free service from the city of Berlin. They might not speak English.
 
 **[Other ways to get help ➞](/guides/questions-about-berlin#apartment-questions)**

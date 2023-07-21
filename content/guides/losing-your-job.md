@@ -168,7 +168,7 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 ### Work visa or Blue Card
 
-After you inform the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened.[^29] The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5]
+After you inform the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5]
 
 When you start a new job, you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit:
 
@@ -288,7 +288,6 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
-[^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/wie-bin-ich-waehrend-einer-sperrzeit-versichert-2005728)
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
