@@ -73,7 +73,15 @@
 			{{ fullName }}<template v-if="fullName && address">, </template>
 			{{ address.replaceAll('\n', ', ') }}
 		</span>
-		<span v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
+		<span class="letter-return-address" v-else></span>
+
+		<template v-if="language === 'en' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+			{{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
+		</template>
+		<template v-if="language === 'de' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+			{{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
+		</template>
+		<span v-if="recipientAddress" v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
 	</template>
 
 	<template v-slot:letter-details="{ language, stage }">

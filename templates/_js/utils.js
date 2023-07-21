@@ -16,6 +16,49 @@ function formatPercent(num, addSymbol=true) {
 	return addSymbol ? `${formattedNum}%` : formattedNum;
 }
 
+function formatPersonName(gender, firstName, lastName){
+	let displayGender = {
+		man: { en: 'Mr', de: 'Herr' },
+		woman: { en: 'Mrs', de: 'Frau' },
+		other: { en: '', de: '' },
+	}[gender];
+
+	if(!lastName){ // No "Dear Mr Firstname"
+		displayGender = '';
+	}
+	return {
+		en: [
+			displayGender.en, firstName, lastName
+		].filter(Boolean).join(' '),
+		de: [
+			displayGender.de, firstName, lastName
+		].filter(Boolean).join(' '),
+	};
+}
+
+function formatSalutations(gender, firstName, lastName){
+	if(!lastName || (gender === 'other' && !firstName)) {
+		return {
+			en: 'Dear Sir or Madam',
+			de: 'Sehr geehrte Damen und Herren'
+		};
+	}
+	return {
+		'man': {
+			en: `Dear Mr ${lastName}`,
+			de: `Sehr geehrter Herr ${lastName}`,
+		},
+		'woman': {
+			en: `Dear Mrs ${lastName}`,
+			de: `Sehr geehrte Frau ${lastName}`,
+		},
+		'other': {
+			en: `Dear ${firstName} ${lastName}`,
+			de: `Sehr geehrte*r ${firstName} ${lastName}`,
+		},
+	}[gender];
+}
+
 function stateName(stateObj) {
 	if(stateObj.englishName.startsWith('Berlin') || stateObj.englishName === stateObj.germanName) {
 		return stateObj.englishName;

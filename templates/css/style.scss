@@ -127,7 +127,7 @@ $width-main-column: 860px;
 
 @page {
 	size: A4;
-	margin: 0;
+	margin: 0!important;
 }
 
 /*******************************************************************************
@@ -1149,7 +1149,7 @@ sup:target a{
 		> input[type=checkbox]:first-child{
 			position:absolute;
 			left: 0;
-			top: 0.15rem;
+			top: 0;
 		}
 	}
 
@@ -1249,16 +1249,18 @@ sup:target a{
 input:not([type=range]), textarea, select, .toggle{
 	@include form-input;
 
-	flex: 1 1 100%;
 	min-width: 0;
 	max-width: 400px;
 	box-sizing: border-box;
 
 	&[type=checkbox], &[type=radio]{
-		align-self: center;
+		align-self: start;
+		flex-shrink: 0;
+
 		width: var(--w-checkbox);
 		height: var(--w-checkbox);
 		padding: 0;
+		margin-top: 0.15rem;
 		margin-right: var(--s-relative);
 
 		position: relative;
@@ -1338,34 +1340,43 @@ select{
 label.checkbox{
 	display: flex;
 	cursor: pointer;
-
-	input{
-		flex-shrink: 0;
-	}
 }
 
 .month-input, select.year-input{
 	max-width: fit-content;
 }
 
-.income-input, .age-input, .percent-input{
+.age-input,
+.first-name-input,
+.anrede-input,
+.income-input,
+.percent-input,
+.last-name-input,
+{
 	box-sizing:content-box!important;
 	flex: 0 0 auto!important;
+}
+.age-input, .percent-input{
 	width: 2ch!important;
 }
 .income-input{
 	width: 7ch!important;
 }
+.first-name-input, .last-name-input{
+	width: 10rem!important;
+}
 .percent-input{
 	width: 2.5ch!important;
 }
-.gender-input{flex: 0 0 auto;}
+.anrede-input{flex: 0 0 auto;}
 .address-input{
 	height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;
 }
 
 .toggle{
 	cursor:pointer;
+	width: fit-content;
+	flex: 0 0 auto;
 }
 
 input[type=range] {
@@ -1545,6 +1556,10 @@ input[type=range] {
 			gap:var(--s);
 		}
 
+		> .checkbox:first-child{
+			padding-top:var(--xs)
+		}
+
 		&:not(.vertical) .checkbox + .checkbox{margin-left:var(--l)}
 	}
 
@@ -1555,6 +1570,7 @@ input[type=range] {
 	> label:first-child, > .label:first-child{
 		grid-column-start: 1;
 		padding-top: var(--xs);
+		line-height: var(--line-height-label);
 	}
 
 	&.required {
@@ -1892,8 +1908,8 @@ details{
 	// DIN 5008 pages are measured in millimetres. A page is 210mm x 296.
 	// We create a scale where 1mm == 1/210%. If we multiply the mm size by
 	// that unit, we get the percentage size.
-	$pageScaleWidth: 210 / 100%;
-	$pageScaleHeight: 296 / 100%;
+	$pageScaleWidth: 210 / 100cqw;
+	$pageScaleHeight: 296 / 100cqh;
 	$fontSizeScale: 0.185cqw;
 	display: block;
 	margin: 0;
@@ -1903,7 +1919,7 @@ details{
 	position: relative;
 	box-sizing: border-box;
 	page-break-after: always;
-	width: 210 / $pageScaleWidth;
+	width: 210 / 100%;
 	aspect-ratio: 210 / 296;
 	padding: 0;
 	border: none;
@@ -1929,19 +1945,17 @@ details{
 	}
 
 	.letter-recipient-address {
-		.letter-return-address {
+		.letter-return-address{
 			font-size: 8 * $fontSizeScale;
-			display: block;
+			height: 17.7 / $pageScaleHeight;
+			display: table-cell;
+			vertical-align: bottom;
 		}
 		position: absolute;
 		top: 27 / $pageScaleHeight;
-		left: 25 / $pageScaleWidth;
+		left: 20 / $pageScaleWidth;
 		width: 85 / $pageScaleWidth;
 		height: 45 / $pageScaleHeight;
-		display: flex;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
 	}
 	.letter-details {
 		padding-top: 32 / $pageScaleHeight;
@@ -1970,6 +1984,12 @@ details{
 		padding-top:var(--xs);
 	}
 }
+.letter-body ul > li {
+	@include list-marker-ul;
+}
+.letter-body ol > li {
+	@include list-marker-ol;
+}
 
 .tabs{
 	display: grid;
@@ -1989,14 +2009,14 @@ details{
 		background: transparent;
 		text-align: center;
 
-		&:disabled{
+		&:not(:disabled){
+			cursor: pointer;
 			background: var(--c-bg-widget-opaque);
 			box-shadow: var(--shadow-s), 0 0 0 1px var(--c-border-clickable);
 			position: relative;
 			z-index: 1;
 		}
-		&:not(:disabled){
-			cursor: pointer;
+		&:disabled{
 			color: var(--c-text-light);
 			background: transparent;
 			&:focus-visible{

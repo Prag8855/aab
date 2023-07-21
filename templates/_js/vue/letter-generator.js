@@ -21,6 +21,7 @@ Vue.component('letter-generator', {
 					<html lang="en">
 					<head>
 						<meta charset="utf-8">
+						<title>${document.title}</title>
 						<link rel="stylesheet" href="/css/style.css">
 					</head>
 					<body class="letter-template">${this.$refs.template.innerHTML}</body>
@@ -98,7 +99,7 @@ Vue.component('letter-generator', {
 			<template v-if="stage === 'edit'">
 				<p>Fill the missing information to get a printable letter.</p>
 				<hr>
-				<slot name="form"></slot>
+				<slot name="form" :language="language" :stage="stage"></slot>
 				<hr>
 				<div class="buttons no-print">
 					<button class="button" @click="stage = 'start'">

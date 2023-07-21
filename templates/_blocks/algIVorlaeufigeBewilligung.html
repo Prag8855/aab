@@ -39,73 +39,75 @@
 
 <letter-generator class="alg-i-vorlaeufige-bewilligung" {% if static|default %}static{% endif %}>
 {% raw %}
-		<template v-slot:header>ALG I – Request a preliminary decision</template>
+	<template v-slot:header>ALG I – Request a preliminary decision</template>
 
-		<template v-slot:letter-recipient="{ language, stage }">
-				<span class="letter-return-address" v-if="address">
-						{{ fullName }}<template v-if="fullName && address">, </template>
-						{{ address.replaceAll('\n', ', ') }}
-				</span>
-				<template v-if="language === 'en' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
-						{{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
-				</template>
-				<template v-if="language === 'de' && caseWorkerGender !== 'unknown' && caseWorkerLastName">
-						{{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
-				</template>
-				<span v-html="agenturFurArbeitAddress.replaceAll('\n', '<br>')"></span>
+	<template v-slot:letter-recipient="{ language, stage }">
+		<span class="letter-return-address" v-if="address">
+			{{ fullName }}<template v-if="fullName && address">, </template>
+			{{ address.replaceAll('\n', ', ') }}
+		</span>
+		<span class="letter-return-address" v-else></span>
+
+		<template v-if="language === 'en' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+			{{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
+		</template>
+		<template v-if="language === 'de' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+			{{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
+		</template>
+		<span v-html="agenturFurArbeitAddress.replaceAll('\n', '<br>')"></span>
+	</template>
+
+	<template v-slot:letter-details="{ language, stage }">
+		<template v-if="language === 'en'">
+			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
+			<strong>Date:</strong> {{ currentDateEnglish }}
+			<template v-if="caseNumber"><br><strong>Case number: </strong> {{ caseNumber }}</template>
+		</template>
+		<template v-if="language === 'de'">
+			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
+			<strong>Datum:</strong> {{ currentDateGerman }}
+			<template v-if="caseNumber"><br><strong>Aktenzeichen: </strong> {{ caseNumber }}</template>
+		</template>
+	</template>
+
+	<template v-slot:letter-body="{ language, stage }">
+		<p v-if="language === 'en'">
+			<strong>Subject: Request for preliminary decision (ALG I)</strong>
+		</p>
+		<p v-if="language === 'de'">
+			<strong>Betreff: Antrag auf vorläufige Entscheidung (ALG I)</strong>
+		</p>
+
+		<template v-if="language === 'en'">
+			<p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+				Dear {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }},
+			</p>
+			<p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
+				Dear Sir or Madam,
+			</p>
+		</template>
+		<template v-if="language === 'de'">
+			<p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+				Sehr {{ caseWorkerGender === 'Frau' ? 'geehrte Frau' : 'geehrter Herr' }} {{ caseWorkerLastName }},
+			</p>
+			<p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
+				Sehr geehrte Damen und Herren,
+			</p>
 		</template>
 
-		<template v-slot:letter-details="{ language, stage }">
-				<template v-if="language === 'en'">
-						<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-						<strong>Date:</strong> {{ currentDateEnglish }}
-						<template v-if="caseNumber"><br><strong>Case number: </strong> {{ caseNumber }}</template>
-				</template>
-				<template v-if="language === 'de'">
-						<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-						<strong>Datum:</strong> {{ currentDateGerman }}
-						<template v-if="caseNumber"><br><strong>Aktenzeichen: </strong> {{ caseNumber }}</template>
-				</template>
-		</template>
+		<p v-if="language === 'en'">
+			Since the processing of my application requires more time, I hereby submit an application for a provisional decision in accordance with § 328 paragraph 1 sentence 3 SGB III, i.e. a provisional grant of unemployment benefits. The requirements for my unemployment benefits claim are met with sufficient probability. I am not responsible for the circumstances that still stand in the way of an immediate final decision.
+		</p>
+		<p v-if="language === 'de'">
+			da die Bearbeitung meines Antrages noch Zeit benötigt, stelle ich hiermit einen Antrag auf vorläufige Entscheidung nach § 328 Abs. 1 Satz 1 Nr. 3 SGB III, d.h. eine vorläufige Arbeitslosengeldgewährung. Die Voraussetzungen für meinen Arbeitslosengeldanspruch liegen mit hinreichender Wahrscheinlichkeit vor. Die Umstände, die einer sofortigen abschließenden Entscheidung noch entgegenstehen, habe ich nicht zu vertreten.
+		</p>
 
-		<template v-slot:letter-body="{ language, stage }">
-				<p v-if="language === 'en'">
-						<strong>Subject: Request for preliminary decision (ALG I)</strong>
-				</p>
-				<p v-if="language === 'de'">
-						<strong>Betreff: Antrag auf vorläufige Entscheidung (ALG I)</strong>
-				</p>
-
-				<template v-if="language === 'en'">
-						<p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
-								Dear {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }},
-						</p>
-						<p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
-								Dear Sir or Madam,
-						</p>
-				</template>
-				<template v-if="language === 'de'">
-						<p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
-								Sehr {{ caseWorkerGender === 'Frau' ? 'geehrte Frau' : 'geehrter Herr' }} {{ caseWorkerLastName }},
-						</p>
-						<p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
-								Sehr geehrte Damen und Herren,
-						</p>
-				</template>
-
-				<p v-if="language === 'en'">
-						Since the processing of my application requires more time, I hereby submit an application for a provisional decision in accordance with § 328 paragraph 1 sentence 3 SGB III, i.e. a provisional grant of unemployment benefits. The requirements for my unemployment benefits claim are met with sufficient probability. I am not responsible for the circumstances that still stand in the way of an immediate final decision.
-				</p>
-				<p v-if="language === 'de'">
-						da die Bearbeitung meines Antrages noch Zeit benötigt, stelle ich hiermit einen Antrag auf vorläufige Entscheidung nach § 328 Abs. 1 Satz 1 Nr. 3 SGB III, d.h. eine vorläufige Arbeitslosengeldgewährung. Die Voraussetzungen für meinen Arbeitslosengeldanspruch liegen mit hinreichender Wahrscheinlichkeit vor. Die Umstände, die einer sofortigen abschließenden Entscheidung noch entgegenstehen, habe ich nicht zu vertreten.
-				</p>
-
-				<p v-if="language === 'en'">
-						According to § 328 Para. 1 Sentence 1 No. 3 SGB III, a provisional decision is to be made on application in accordance with the law, i.e. you do not have any discretion in this respect. I request that you make a decision within 3 weeks of receipt of this application.
-				</p>
-				<p v-if="language === 'de'">
-						In den Fällen des § 328 Abs. 1 Satz 1 Nr. 3 SGB III ist auf Antrag nach der gesetzlichen Regelung vorläufig zu entscheiden, d.h. ein Ermessen steht Ihnen insoweit nicht zu. Ich bitte um Erteilung eines Leistungsbescheides binnen 3 Wochen ab Zugang dieses Antrags.
-				</p>
+		<p v-if="language === 'en'">
+			According to § 328 Para. 1 Sentence 1 No. 3 SGB III, a provisional decision is to be made on application in accordance with the law, i.e. you do not have any discretion in this respect. I request that you make a decision within 3 weeks of receipt of this application.
+		</p>
+		<p v-if="language === 'de'">
+			In den Fällen des § 328 Abs. 1 Satz 1 Nr. 3 SGB III ist auf Antrag nach der gesetzlichen Regelung vorläufig zu entscheiden, d.h. ein Ermessen steht Ihnen insoweit nicht zu. Ich bitte um Erteilung eines Leistungsbescheides binnen 3 Wochen ab Zugang dieses Antrags.
+		</p>
 
 		<p v-if="language === 'en'">
 			Best regards<template v-if="fullName">,<br></template>
@@ -120,58 +122,58 @@
 		</p>
 	</template>
 
-		<template v-slot:form>
-				<div class="form-group no-print">
-						<label>Your full name</label>
-						<input type="text" v-model="fullName">
-				</div>
-				<div class="form-group no-print">
-						<label :for="uid('address')">Your address</label>
-						<div class="input-group">
-								<textarea
-									:id="uid('address')"
-									v-model="address"
-									class="address-input"
-									placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
-						</div>
-				</div>
-				<div class="form-group no-print">
-						<label :for="uid('agenturFurArbeitAddress')">Agentür für Arbeit address</label>
-						<div class="input-group">
-								<textarea
-									:id="uid('agenturFurArbeitAddress')"
-									v-model="agenturFurArbeitAddress"
-									class="address-input"
-									placeholder="Agentür für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
-								<br>
-								<a class="input-instructions" href="https://web.arbeitsagentur.de/portal/metasuche/suche/dienststellen" target="_blank">
-										Find your Agentür für Arbeit ➞
-								</a>
-						</div>
-				</div>
-				<div class="form-group no-print">
-						<label>Case worker</label>
-						<div class="input-group">
-								<select v-model="caseWorkerGender" class="gender-input">
-										<option value="Frau">Madam</option>
-										<option value="Herr">Mister</option>
-										<option value="Herr oder Frau">Mr or Mrs</option>
-								</select>
-								<input type="text" v-model="caseWorkerLastName" placeholder="Müller">
-								<span class="input-instructions">
-										This is the employee who helps you at the <glossary>Agentür für Arbeit</glossary>.
-								</span>
-						</div>
-				</div>
-				<div class="form-group no-print">
-						<label :for="uid('caseNumber')">Case number</label>
-						<div class="input-group">
-								<input type="text" v-model="caseNumber">
-								<span class="input-instructions">
-										This helps the <glossary>Agentür für Arbeit</glossary> find your information.
-								</span>
-						</div>
-				</div>
-		</template>
+	<template v-slot:form>
+		<div class="form-group no-print">
+			<label>Your full name</label>
+			<input type="text" v-model="fullName">
+		</div>
+		<div class="form-group no-print">
+			<label :for="uid('address')">Your address</label>
+			<div class="input-group">
+				<textarea
+					:id="uid('address')"
+					v-model="address"
+					class="address-input"
+					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
+			</div>
+		</div>
+		<div class="form-group no-print">
+			<label :for="uid('agenturFurArbeitAddress')">Agentür für Arbeit address</label>
+			<div class="input-group">
+				<textarea
+					:id="uid('agenturFurArbeitAddress')"
+					v-model="agenturFurArbeitAddress"
+					class="address-input"
+					placeholder="Agentür für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
+				<br>
+				<a class="input-instructions" href="https://web.arbeitsagentur.de/portal/metasuche/suche/dienststellen" target="_blank">
+					Find your Agentür für Arbeit ➞
+				</a>
+			</div>
+		</div>
+		<div class="form-group no-print">
+			<label>Case worker</label>
+			<div class="input-group">
+				<select v-model="caseWorkerGender" class="anrede-input">
+					<option value="Frau">Madam</option>
+					<option value="Herr">Mister</option>
+					<option value="Herr oder Frau">Mr or Mrs</option>
+				</select>
+				<input type="text" v-model="caseWorkerLastName" placeholder="Müller">
+				<span class="input-instructions">
+					This is the employee who helps you at the <glossary>Agentür für Arbeit</glossary>.
+				</span>
+			</div>
+		</div>
+		<div class="form-group no-print">
+			<label :for="uid('caseNumber')">Case number</label>
+			<div class="input-group">
+				<input type="text" v-model="caseNumber">
+				<span class="input-instructions">
+					This helps the <glossary>Agentür für Arbeit</glossary> find your information.
+				</span>
+			</div>
+		</div>
+	</template>
 {% endraw %}
 </letter-generator>
