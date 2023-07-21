@@ -1,0 +1,4 @@
+[*.{html,jinja,js,scss,css,svg}]
+indent_style = tab
+indent_size = 4
+tab_width = 4
