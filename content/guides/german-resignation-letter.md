@@ -66,7 +66,7 @@ Keep a copy of your resignation letter. The *[[Agentur für Arbeit]]* asks for i
 **[How to quit your job in Germany](/guides/losing-your-job)**
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
-[^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional))
+[^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional)), [peopleatventure.de](https://www.peopleatventure.de/kuendigungsschreiben#:~:text=geben%20sie%20dem%20leser%20keinerlei%20spielraum%2C%20ihre%20kundigung%20falsch%20zu%20interpretieren.)
 [^11]: [§126 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__126.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
 [^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)
 [^5]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/)
