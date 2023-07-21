@@ -117,7 +117,7 @@
 				Please tell me what to do next, and inform me of any changes to my residence permit.
 			</p>
 			<p>
-				Best regards<br v-if="fullName">
+				Best regards<template v-if="fullName">,<br></template>
 				{{ fullName }}
 			</p>
 		</template>
@@ -151,7 +151,7 @@
 				Bitte sagen Sie mir, was ich als Nächstes tun soll, und informieren Sie mich über eventuelle Änderungen meiner Aufenthaltserlaubnis.
 			</p>
 			<p>
-				Mit freundlichen Grüßen<br v-if="fullName">
+				Mit freundlichen Grüßen<template v-if="fullName">,<br></template>
 				{{ fullName }}
 			</p>
 		</template>

@@ -107,18 +107,18 @@
 						In den Fällen des § 328 Abs. 1 Satz 1 Nr. 3 SGB III ist auf Antrag nach der gesetzlichen Regelung vorläufig zu entscheiden, d.h. ein Ermessen steht Ihnen insoweit nicht zu. Ich bitte um Erteilung eines Leistungsbescheides binnen 3 Wochen ab Zugang dieses Antrags.
 				</p>
 
-				<p v-if="language === 'en'">
-						Best regards<br v-if="fullName">
-						{{ fullName }}
-				</p>
-				<p v-if="language === 'de'">
-						Mit freundlichen Grüßen<br v-if="fullName">
-						{{ fullName }}
-				</p>
-				<p class="signature" v-if="stage === 'printPreview'">
-						{{ language === 'en' ? 'Signature' : 'Unterschrift' }}
-				</p>
-		</template>
+		<p v-if="language === 'en'">
+			Best regards<template v-if="fullName">,<br></template>
+			{{ fullName }}
+		</p>
+		<p v-if="language === 'de'">
+			Mit freundlichen Grüßen<template v-if="fullName">,<br></template>
+			{{ fullName }}
+		</p>
+		<p class="signature" v-if="stage === 'printPreview'">
+			{{ language === 'en' ? 'Signature' : 'Unterschrift' }}
+		</p>
+	</template>
 
 		<template v-slot:form>
 				<div class="form-group no-print">
