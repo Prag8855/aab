@@ -29,11 +29,15 @@ You can get unemployment benefits if:[^0]
 
 ### Unemployment benefits for immigrants
 
-You can get *[[ALG I]]* with a [residence permit](/glossary/Aufenthaltstitel) (like a [work visa](/glossary/Work%20Visa) or [[Blue Card]]), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship. Your immigration status does not affect your unemployment benefits. 
+You can get **[[ALG I]]** with a [residence permit](/glossary/Aufenthaltstitel) (like a [work visa](/glossary/Work%20Visa) or [[Blue Card]]), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship. Your immigration status does not affect your unemployment benefits.
 
 Some *[[Agentur für Arbeit]]* case workers refuse to give *[[ALG I]]* to people with residence permits. This is wrong, and you can force them to pay unemployment benefits.[^31]
 
-Receiving *[[ALG I]]* does not affect a future [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
+If you *currently* get *ALG I*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34]
+
+If you got *ALG I* before, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
+
+You can rarely get **[[Bürgergeld]]** with a residence permit. If your *[Zusatzblatt](/glossary/Zusatzblatt%20(residence%20permit))* says "Erlischt mit Bezug von Leistungen nach dem SGB II oder ...", you can't get *Bürgergeld*.[^33]
 
 ## When do I get unemployment benefits?
 
@@ -186,3 +190,5 @@ Look for work. ALG I depends on it.
 [^30]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^31]: [Flüchtlingsrat NRW](https://www.frnrw.de/themen-a-z/alg-i-anspruch-bei-aufenthaltstiteln-mit-arbeitgeberbindung-18a-b-19c-aufenthg-nach-verlust-der-arbeit.html), [Agentur für Arbeit, page 14](https://www.arbeitsagentur.de/datei/fw-sgb-iii-138_ba015145.pdf)
 [^32]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/jskflcp/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/)
+[^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
