@@ -25,7 +25,7 @@ You pay for your health insurance every month. If you are sick, your health insu
 
 ## Your options
 
-Use my German health insurance calculator to see your options. Feather's [health insurance recommendation tool](/out/feather-calc) is also really good.
+Use my German health insurance calculator to see your options. Feather's [health insurance recommendation tool](/out/feather-calc) is also good.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
