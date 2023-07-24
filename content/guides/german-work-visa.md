@@ -330,7 +330,7 @@ If you have a work visa, you can start working as soon as you arrive in Germany.
 
 ### Step 6: Convert your temporary visa to a [residence permit](/glossary/Aufenthaltstitel)
 
-Your temporary visa is usually valid for 6 months. You must go to the *[[Ausländerbehörde]]* and convert your temporary visa to a work visa or Blue Card.
+Your temporary visa is usually valid for 6 months. You must go to the *[[Ausländerbehörde]]* and convert your temporary visa to a work visa or Blue Card. The *Ausländerbehörde* can ask to see your pay slips during your appointment.
 
 ## Required documents
 
