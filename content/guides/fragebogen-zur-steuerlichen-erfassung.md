@@ -38,7 +38,7 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to live in Germa
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-If you [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you must register your business *before* you apply for it.
+If you [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you can register your business after you apply for the visa. When you [renew your freelance visa](/guides/renew-german-freelance-visa), your business should already be registered.
 
 ### Are you a Freiberufler or a Gewerbe?
 
