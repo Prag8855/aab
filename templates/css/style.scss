@@ -936,7 +936,8 @@ footer{
  *
 *******************************************************************************/
 
-::selection{background:var(--c-text-selection)}
+::selection, mark{background:var(--c-text-selection)}
+mark{color:var(--c-text-heading)}
 
 h1{
 	@include heading;
