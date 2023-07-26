@@ -3,6 +3,7 @@
 Vue.component('letter-generator', {
 	props: {
 		static: Boolean,
+		trackAs: String,
 	},
 	data() {
 		return {
@@ -32,7 +33,9 @@ Vue.component('letter-generator', {
 				printWindow.focus();
 				printWindow.print();
 				printWindow.close();
-				plausible('Template generator', { props: { stage: 'print' }});
+				if(this.trackAs){
+					plausible(this.trackAs, { props: { stage: 'print' }});
+				}
 			}
 		},
 	},
@@ -41,7 +44,9 @@ Vue.component('letter-generator', {
 			Vue.nextTick(() => {
 				this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'auto' });
 				if(!this.trackedStages.has(this.stage)) {
-					plausible('Template generator', { props: { stage: this.stage }});
+					if(this.trackAs){
+						plausible(this.trackAs, { props: { stage: this.stage }});
+					}
 					this.trackedStages.add(this.stage);
 				}
 			});
