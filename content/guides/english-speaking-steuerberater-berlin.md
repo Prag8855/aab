@@ -86,6 +86,10 @@ Tax advisor fees are [tax-deductible](/glossary/steuerlich%20absetzbar).[^0]
 
 Tax advisors are expensive and hard to find.[^5] Most of them refuse new clients. There are other ways to do your taxes in Germany.
 
+### Look outside of Berlin
+
+You don't need a Berlin-based tax advisor. Look for tax advisors in all of Germany.
+
 ### Tax software
 
 If you have a simple tax situation, tax software is the best and cheapest way to do your taxes. If you don't speak German, there are English-speaking options.
