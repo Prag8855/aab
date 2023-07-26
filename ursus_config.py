@@ -265,7 +265,8 @@ config.context_globals = {
     "FREELANCE_VISA_MIN_MONTHLY_PENSION": 1432.59,
 
     # Minimum income (€/mth) before health insurance and rent to get a freelance visa
-    "FREELANCE_VISA_MIN_INCOME": 502,
+    # §2 Abs. 3 AufenthG + §13 BAföG, 2.3.1.1 VAB
+    "FREELANCE_VISA_MIN_INCOME": 502,  # 2023
 
     # Minimum monthly pension (€/m) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
     "WORK_VISA_MIN_MONTHLY_PENSION": 4015,
