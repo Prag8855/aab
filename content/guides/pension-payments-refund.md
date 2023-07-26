@@ -325,7 +325,7 @@ These businesses can help you request a refund. They will fill the forms and req
     Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated the process, so you can do everything online. They pay you in the currency you prefer. They work with a lawyer.
 - **[TaxBack](/out/taxback)**  
     Their fee is 19.8% of your refund,[^32] or minimum 60€. They offer various international tax services. I do not recommend them. They don't specialise in pension refunds, and their fee is too high.
-- [**Germany Mantra**](/out/germany-mantra)  
+- **[Germany Mantra](/out/germany-mantra)**  
     Unknown fees. This company is based in India.[^33] They offer relocation services for Indians since at least 2011.[^34] They never answered my emails.
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. You can also write in English, but they will answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.

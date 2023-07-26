@@ -77,7 +77,7 @@ N26 is still the only German bank that operates 100% in English. Most German ban
 
 [Opening an N26 account](/out/n26-plans) takes 10 minutes. You can open an account from anywhere in the world. All you need is a phone with a camera. You open the app, start a video chat, take pictures of your document and you are done. The registration process doesn't always work perfectly, but when it does, it's super quick. You get your bank card only a few days later.
 
-### ...but there are other options!
+### There are other options
 
 N26 is fine, but you should still look at [the other options](/guides/first-bank-account-in-germany).
 

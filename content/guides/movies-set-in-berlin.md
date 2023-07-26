@@ -71,7 +71,7 @@ Cold War Berlin is the backdrop of this tightly choreographed, action-packed, ne
 
 [IMDb](https://www.imdb.com/title/tt2406566/?ref_=nv_sr_1) - [Trailer](https://www.youtube.com/watch?v=yIUube1pSC0) - [Fight scene](https://www.youtube.com/watch?v=XarGS1AeEcE)
 
-## And many, many more...
+## And many, many more
 
 - [Berlin Syndrom (2017)](https://www.imdb.com/title/tt3335606/)
 - [Tschick (2016)](https://www.imdb.com/title/tt4911940/?ref_=fn_al_tt_1) **DE** - Two teenage boys steal a car and go on a trip. Features the outskirts of Berlin and the surrounding [[Brandenburg]].

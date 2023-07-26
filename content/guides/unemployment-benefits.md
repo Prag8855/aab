@@ -187,7 +187,6 @@ Look for work. ALG I depends on it.
 [^27]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^28]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^29]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
-[^30]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^31]: [Flüchtlingsrat NRW](https://www.frnrw.de/themen-a-z/alg-i-anspruch-bei-aufenthaltstiteln-mit-arbeitgeberbindung-18a-b-19c-aufenthg-nach-verlust-der-arbeit.html), [Agentur für Arbeit, page 14](https://www.arbeitsagentur.de/datei/fw-sgb-iii-138_ba015145.pdf)
 [^32]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/jskflcp/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/)
 [^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
