@@ -188,6 +188,8 @@ Here are a few things I love about the N26 app:
     N26 automatically categorises your transactions. You can easily search through them, and see statistics for each month. Unfortunately, the statistics only show your spending. This is not very useful if you have irregular income. The N26 [Smart](/out/n26-plans), [You](/out/n26-you) and [Metal](/out/n26-metal) accounts can automatically save a bit of money with every transaction.
 - **Google Pay and Apple Pay**  
     N26 supports Google Pay, so you can pay by tapping your smartphone. I use N26 with Google Pay all the time. I rarely use my plastic card.
+- **[MoneyBeam](/images/n26-app-moneybeam.jpg)**  
+    If your friend has N26, you can send money instantly with MoneyBeam. I use it more and more. For example, I use it to split a restaurant bill with friends. It's not a super important feature, but it's nice.
 - **Multiple language options**  
     The app can be set to English, Spanish, French, Italian and German.
 - **Fingerprint login** - [screenshot](/images/n26-app-fingerprint.jpg)  
@@ -201,8 +203,6 @@ Here are things I don't like about it:
     When you try to log in on the N26 website, it sends a notification to your phone. You must click the notification before you can login. If your phone runs out of battery, you can't access your bank account. If you lose your phone, you can't transfer money. Other online banks have the same problem.
 - **Incomplete translations**  
     Parts of the app are not completely translated to English. Some labels will still show in German. This is very rare, but it happens.
-- **[MoneyBeam](/images/n26-app-moneybeam.jpg)**  
-    MoneyBeam is supposed to let you transfer money to other N26 users easily. In practice, if someone isn't in your contacts, it's faster to just use a bank transfer or PayPal. I never use this feature.
 - **Bugs**  
     As I wrote above, the N26 app was buggy in the past. It's much better now.
 
