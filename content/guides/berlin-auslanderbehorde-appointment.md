@@ -53,7 +53,7 @@ To do this, you must...
     - [ ] Your date and place of birth
     - [ ] Your nationality
     - [ ] The expiration date of your visa or residence permit
-    - [ ] If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23]
+    - [ ] If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 3. Attach *all* required documents for your residence permit application. Complete applications are processed faster.[^23]
 4. Send your email and wait for a response. It can take a few months.
 5. They will review your documents and give you an appointment. You must go there in person to finish your application.[^12]
@@ -191,7 +191,9 @@ To contact the *Ausländerbehörde*...
 
 ### Which Ausländerbehörde should I go to?
 
-**It depends** on what you need to do, and on your nationality. There are two *Ausländerbehörde* locations: [Keplerstraße](https://service.berlin.de/standort/327437/en/) and [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/en/). Each *Ausländerbehörde* offers different services for different nationalities. You must go to the correct one.
+If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. You can also [register your address](/glossary/Anmeldung) in Brandenburg, and apply to a Brandenburg Ausländerbehörde. It's sometimes faster.[^5]
+
+Berlin has two *Ausländerbehörden*: [Keplerstraße](https://service.berlin.de/standort/327437/en/) and [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/en/). They provide different services, and you must choose the correct one.
 
 - [List of services at Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/)
 - [List of services at Keplerstraße](https://service.berlin.de/standort/327437/en/)
@@ -228,3 +230,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)
 [^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/)
 [^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023)
+[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/sof7dm/beyond_frustrated_with_ausl%C3%A4nderbeh%C3%B6rde_please/hw8ax66/)

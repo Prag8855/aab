@@ -129,21 +129,25 @@ The *Agentur für Arbeit* really wants you to work. At first, they are nice and 
 To get *ALG I*, you must...
 
 - **Try to find work**[^7]  
-    You actively look for another job. You must prove that you are looking at job offers and applying for jobs.
+    You must actively look for another job. You must prove that you are looking at job offers and applying for jobs.
 - **Be reachable**[^8]  
-    The *Agentur für Arbeit* expects you to answer your phone and read your mail. If you travel and you can't read your mail, you must tell them.
+    You must answer your phone and read your mail. If you travel and you can't read your mail, you must tell the *Agentur für Arbeit*.
 - **Be flexible**  
-    You must be ready to accept jobs that are not ideal.
+    You must be ready to accept jobs that are not exactly what you want.
 
-If you don't meet those conditions, they can stop paying *ALG I*, sometimes retroactively.[^9]
+If you don't meet those conditions, you can lose your *ALG I*, sometimes retroactively.[^9]
 
 ### Vacations and travel
 
-When you receive *ALG I*, you are supposed to look for work. Finding work is your full time job. If you want to take a vacation or travel, you must ask the *[[Agentur für Arbeit]]*. The *Agentur für Arbeit* gives you 20 days of paid vacations. You can also pause your *ALG I* and take a longer unpaid vacation.[^29]
+When you get *ALG I*, you are supposed to search for a job. If you want to travel and have fun, you must ask the *[[Agentur für Arbeit]]*. They give you 20 paid vacation days per year. You must book vacations in advance.
+
+In reality, people travel without telling the *Agentur für Arbeit*. Usually, they don't notice.
+
+You can also pause your *ALG I* and take a longer unpaid vacation.[^29]
 
 You can travel to find work in another EU or [[EEA]] country. You must ask the *Agentur für Arbeit* first.[^7] You receive *ALG I* while you travel to find work.
 
-People often travel without telling the *Agentur für Arbeit*. Most of the time, they don't notice. If they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits.
+People often travel without telling the *Agentur für Arbeit*.  If they call you for an appointment, and they learn that you are on a beach in Spain, they can cut your unemployment benefits. This rarely happens; the *Agentur für Arbeit* books appointments weeks in advance.[^30]
 
 ### Sickness and pregnancy
 
@@ -191,3 +195,4 @@ Look for work. ALG I depends on it.
 [^32]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/jskflcp/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/)
 [^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^30]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)

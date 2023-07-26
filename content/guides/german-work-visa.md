@@ -328,9 +328,9 @@ If you have a work visa, you can start working as soon as you arrive in Germany.
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-### Step 6: Convert your temporary visa to a [residence permit](/glossary/Aufenthaltstitel)
+### Step 6: Convert your temporary visa to a residence permit
 
-Your temporary visa is usually valid for 6 months. You must go to the *[[Ausländerbehörde]]* and convert your temporary visa to a work visa or Blue Card. The *Ausländerbehörde* can ask to see your pay slips during your appointment.
+Your temporary visa is valid for 6 to 12 months.[^36] You must go to the *[[Ausländerbehörde]]* and convert your temporary visa to a [residence permit](/glossary/Aufenthaltstitel). The *[[Ausländerbehörde]]* can ask to see your pay slips during your appointment.
 
 ## Required documents
 
@@ -491,3 +491,4 @@ Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berli
 [^64]: Jana Köhler from [HalloGermany](https://hallogermany.com/) (July 2022)
 [^65]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
 [^33]: [bmi.bund.de](https://www.bmi.bund.de/EN/topics/migration/immigration/labour-migration/generell-information/general-information-node.html)
+[^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (Jule 2023)

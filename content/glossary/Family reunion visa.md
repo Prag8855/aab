@@ -10,4 +10,6 @@ Related_guides:
     guides/residence-permit.md
 ---
 
-The family reunion visa allows spouses and family members of German residents to live in Germany. This is how you can bring your family to Germany. With a family reunion visa, your family can work or study in Germany.
+The family reunion visa is a [residence permit](/glossary/Aufenthaltstitel) for the spouse and children of German residents. If you have a residence permit, [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship, the family reunion visa lets you bring your family to Germany.
+
+If you have a family reunion visa, you can work, study or freelance in Germany.

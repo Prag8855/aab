@@ -100,12 +100,6 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 **[How to register as a job seeker ➞](/guides/unemployment-benefits#register-as-a-job-seeker)**
 
-### Register as unemployed
-
-When you know your last day of work, register as unemployed at the *[[Agentur für Arbeit]]*. You must do this to get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
-
-**[How to register as unemployed ➞](/guides/unemployment-benefits#register-as-unemployed)**
-
 ### Tell the Ausländerbehörde
 
 If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
@@ -124,9 +118,15 @@ To inform the *Ausländerbehörde*, you must...
 3. Include these documents with your message:[^2]
     - [ ] A copy of your termination notice or resignation letter
 4. Send your letter by email, post or fax. They should reply a few weeks later. You will not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] They will tell you by email or by post.
+5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post.
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
+
+### Register as unemployed
+
+When you know your last day of work, register as unemployed at the *[[Agentur für Arbeit]]*. You must do this to get [unemployment benefits](/glossary/ALG%20I). Do it in your last 3 months of work.
+
+**[How to register as unemployed ➞](/guides/unemployment-benefits#register-as-unemployed)**
 
 ### Tell your health insurance
 
@@ -168,9 +168,9 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 ### Work visa or Blue Card
 
-After you inform the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5]
+After you inform the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5] It depends on which *Ausländerbehörde* you go to.
 
-When you start a new job, you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit:
+When you [find a new job](/guides/find-a-job-in-berlin), you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit for:
 
 - **If you had <u>this</u> residence permit for at least 2 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^4]
@@ -179,13 +179,15 @@ When you start a new job, you might need the *Ausländerbehörde*'s permission t
 - **Everyone else**  
     You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). This can take a few months.
 
-If you are not sure, ask an immigration lawyer.
+If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. You can get a language course visa and stay up to 12 months longer.[^29] Your spouse can get a work visa and sponsor your family reunion visa.[^35]
 
 **[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
 
 ### Family reunion visa
 
-If your spouse has a [family reunion visa](/glossary/Family%20reunion%20visa), it's tied to your residence permit. If they qualify, they switch to a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].[^35]
+If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it's tied to your [residence permit](/glossary/Aufenthaltstitel). If you can stay in Germany, they can stay in Germany.
+
+If your spouse is employed, you can switch roles: your spouse gets a [work visa](/glossary/Work%20Visa), [freelance visa](/glossary/Freelance%20visa) or [[Blue Card]], and you get a family reunion visa.[^35]
 
 ### EU citizens and permanent residents
 
@@ -314,3 +316,5 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^28]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/jskflcp/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/)
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
+[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
