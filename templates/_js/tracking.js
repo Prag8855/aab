@@ -45,7 +45,7 @@ function sendLinkClickEvent(event, link, eventName, eventProps) {
 	}
 	if (openLinkAfterTracking(event, link)) {
 		plausible(eventName, { props: eventProps, callback: followLink });
-		setTimeout(followLink, 3000);
+		setTimeout(followLink, 1500);
 		event.preventDefault();
 	} else {
 		plausible(eventName, { props: eventProps });
