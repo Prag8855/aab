@@ -41,7 +41,7 @@ Since Brexit, UK citizens also need a freelance visa.
 - [ ] **You have health insurance**  
     Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
 - [ ] **You make enough money**  
-    You must make enough money to support yourself. This means at least enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49]
+    You must make enough money to support yourself. In Berlin, this means enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49] The minimum amount is different in other states.[^53]
 - [ ] **You have clients in Germany**  
     You can't get a freelance visa if all your clients are in another country. During your visa interview, you must show [letters of intent](/glossary/Absichtserkl%C3%A4rung) from German companies who want to hire you. When you renew your visa, you must prove that you had German clients.
 
@@ -460,3 +460,4 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^50]: [VAB, section 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^51]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023)
 [^52]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
+[^53]: [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Mindesteinkommen_2021.pdf)
