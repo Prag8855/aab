@@ -1898,6 +1898,11 @@ details{
 			outline: none;
 		}
 	}
+
+	+ h2{
+		border-top: 0;
+		padding-top: 0;
+	}
 }
 
 @include only-phone{
