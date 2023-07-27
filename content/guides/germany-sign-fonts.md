@@ -15,7 +15,7 @@ When people talk about "the German font", they're often thinking about Fraktur. 
 
 ## BVG font
 
-The [[BVG]] uses **[FF Transit](https://www.fontshop.com/families/ff-transit)**. It's also used by the Düsseldorf airport.
+The BVG uses the **[FF Transit](https://www.fontshop.com/families/ff-transit)** font for all its signage and advertising. This font and its pictograms were designed by Berlin-based design firm [MetaDesign](https://metadesign.com/) in 1997. FF Transit was designed for signage, and is also used by the Düsseldorf airport and the [Société de transport de Montréal](https://www.stm.info/en/press/press-releases/2015/the-stm-rolls-out-new-signage-in-metro-stations).
 
 ## Deutsche Bahn fonts
 

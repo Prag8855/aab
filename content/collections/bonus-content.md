@@ -7,7 +7,6 @@ Related_guides:
     guides/worms-in-trees.md
     guides/mwd-meaning.md
     guides/germany-sign-fonts.md
-    guides/berlin-bvg-font.md
     guides/christmas-tree-disposal.md
 Order: 190
 ---

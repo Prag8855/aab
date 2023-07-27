@@ -11,8 +11,8 @@ Related_guides:
     guides/exchange-coins-berlin.md
     guides/public-transit.md
     guides/pirating-streaming-movies-in-germany.md
-    guides/mail-a-letter.md
     guides/addressing-a-letter-in-germany.md
+    guides/mail-a-letter.md
     guides/dial-phone-numbers-germany.md
     guides/emergency-numbers.md
 Order: 060
