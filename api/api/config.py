@@ -19,27 +19,27 @@ message_types = {
     'forms/pension-refund-question': {
         'title': 'Pension refund question from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-question.html',
-        'recipients': ['contact@allaboutberlin.com', 'partner@fundsback.org'],
+        'recipients': ['partner@fundsback.org', ],
     },
     'forms/pension-refund-germanypensionrefund': {
         'title': 'Pension refund request from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-form.html',
-        'recipients': ['contact@allaboutberlin.com', 'refund@germanypensionrefund.com'],
+        'recipients': ['refund@germanypensionrefund.com', ],
     },
     'forms/pension-refund-pensionrefundgermany': {
         'title': 'Pension refund request from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-form.html',
-        'recipients': ['contact@allaboutberlin.com', 'support@pension-refund.com'],
+        'recipients': ['support@pension-refund.com', ],
     },
     'forms/pension-refund-fundsback': {
         'title': 'Pension refund request from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-form.html',
-        'recipients': ['contact@allaboutberlin.com', 'partner@fundsback.org'],
+        'recipients': ['partner@fundsback.org', ],
     },
     'forms/health-insurance-question': {
         'title': 'Health insurance question from {name} (All About Berlin)',
         'template_path': 'messages/health-insurance-question.html',
-        'recipients': ['contact@allaboutberlin.com', 'hello@feather-insurance.com'],
+        'recipients': ['hello@feather-insurance.com', ],
     },
     'reminders/health-insurance-question-reminder': {
         'title': 'Feather will contact you soon',
