@@ -155,6 +155,7 @@ config.linters = (
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'extensions.linters.lists.MultilineListsLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
+    'extensions.linters.metadata.ShortTitleLinter',
     # 'extensions.linters.places.PlacesLinter',
     'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
