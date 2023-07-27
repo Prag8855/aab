@@ -125,6 +125,8 @@ If you have an expensive bike, you can get household insurance *[[Hausratversich
 
 Report the theft to the Berlin police. You can do it online. If your bicycle is found again, they will let you know. You can also look at [this list of recovered bicycles](https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/).
 
+**[If your bike gets stolen in Berlin](https://ebureaucracy.com/germany/what-to-do-when-your-bike-is-stolen)** - ebureaucracy.com
+
 ## Bicycle requirements in Berlin
 
 Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin Police sometimes controls bicycles.
