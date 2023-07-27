@@ -160,7 +160,7 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 ### Get all other documents
 
-You must get your income tax certificate (*Lohnsteuerbescheinigung*) and your last pay slip (*Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
+You must get your salary tax statement (*[[Lohnsteuerbescheinigung]]*) and your last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
 
 If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
@@ -271,8 +271,8 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
     - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
     - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
     - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
-    - [ ] Last pay slip (*Lohnabrechnung*)
-    - [ ] Income tax certificate (*Lohnsteuerbescheinigung*)
+    - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
+    - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
     - [ ] Health certificate (*Gesundheitszeugnis*), if you work in gastronomy
 
 ## Need help?
