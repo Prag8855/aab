@@ -37,9 +37,11 @@ There is no way to get your tax ID faster. You can't go to the *[[Finanzamt]]* j
 
 **If you already have a tax ID**, you can find it here:
 
-- On the document you got from the *[Bundeszentralamt für Steuern](/images/tax-id-document-bzst.jpg)*, after you [registered your address](/glossary/Anmeldung) for the first time - [example](/images/tax-id-document-bzst.jpg)
-- On your income tax report (*[Einkommensteuerbescheid](/glossary/Steuerbescheid)*) - [example](/images/SteuerID_auf_Lohnsteuerbescheinigung.png)
-- On your payslips (*[[Gehaltsabrechnung]]*) - [example](/images/Gehaltsabrechnung-muster-steuerID.png)
+- On the document you get from the *[Bundeszentralamt für Steuern](/images/tax-id-document-bzst.jpg)*, after you [register your address](/glossary/Anmeldung) for the first time, as "Persönliche Identificationsnummer" - [example](/images/tax-id-document-bzst.jpg)
+- On your pay slip (*[[Gehaltsabrechnung]]*) as "Steuer ID" - [example](/images/Gehaltsabrechnung-muster-steuerID.png)
+- On your salary tax statement (*[[Lohnsteuerbescheinigung]]*) as "Identifikationsnummer" - [example](/images/Lohnsteuerbescheinigung-SteuerId.png)
+- On your income tax report (*[[Steuerbescheid]]*) as "IdNr" - [example](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png)
+
 - On your *Entgeltabrechnung*
 - Your employer and your [tax advisor](/glossary/Steuerberater) know your tax ID. Ask them.
 
@@ -59,6 +61,13 @@ You get a *Steuernummer* when you [register your business with the *Finanzamt*](
 The *Steuernummer* is unique, but not permanent. If you move your business to another *Finanzamt*'s area, you will get a new *Steuernummer*.[^5]
 
 When you get your *Steuernummer*, you must put it in your [[Impressum]], and on your invoices to German customers.
+
+### Where to find your Steuernummer
+
+If you have a Steuernummer, you can find it here:
+
+- On your income tax report (*[[Steuerbescheid]]*) - [example](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png)
+- On most documents you get from the *[[Finanzamt]]*
 
 ### Where to find a business' tax number
 
