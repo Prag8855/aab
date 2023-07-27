@@ -9,7 +9,6 @@ Related_guides:
     guides/german-visa-health-insurance.md
     tools/health-insurance-calculator.md
     guides/german-versicherungsnummer.md
-    guides/bafin-approved-insurance.md
     guides/insurance.md
     guides/techniker-krankenkasse-review.md
     guides/ottonova-review.md
