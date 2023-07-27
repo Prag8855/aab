@@ -9,3 +9,5 @@ Related_guides:
 ---
 
 The *Mietschuldenfreiheitsbescheinigung* proves that you have no rental debt. You can get this document from your landlord when you [move out](/guides/moving-out). You might need it to apply for an apartment.
+
+![Mietschuldenfreiheitsbescheinigung example](/images/Mietschuldenfreiheitsbescheinigung-berlin.png "A Mietschuldenfreiheitsbescheinigung from a Berlin housing company")
