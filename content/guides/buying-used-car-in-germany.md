@@ -203,7 +203,7 @@ If you buy a vehicle at the dealership, they can usually register it for you. It
 
 ## Step 6: Drive your vehicle
 
-You are now ready to drive! Don't forget that you must still pay the vehicle tax (*[[Kraftfahrzeugsteuer]]*). This tax will be taken directly from your bank account once a year. [You will receive a confirmation](/guides/kraftfahrzeugsteuerbescheid) (*Kraftfahrzeugsteuerbescheid*) by post.
+You are now ready to drive! Don't forget that you must still pay the vehicle tax (*[[Kraftfahrzeugsteuer]]*). This tax will be taken directly from your bank account once a year. You get a confirmation (*[[Kraftfahrzeugsteuerbescheid]]*) by post.
 
 ## Step 7: Look for cheaper car insurance
 

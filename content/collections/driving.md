@@ -11,6 +11,5 @@ Related_guides:
     guides/motorcycle-stores-in-berlin.md
     guides/motorcycle-parking.md
     guides/international-driving-permit-germany.md
-    guides/kraftfahrzeugsteuerbescheid.md
 Order: 180
 ---
