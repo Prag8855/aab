@@ -23,9 +23,9 @@ When I am back, you can contact me to...
 
 ## Contact information
 
-**Website owner**: [Nicolas Bouliane](https://nicolasbouliane.com) (on vacation)
+**Website owner**: [Nicolas Bouliane](https://nicolasbouliane.com)
 
-**Email**: <contact@allaboutberlin.com>
+**Email**: <contact@allaboutberlin.com> (I am on vacation)
 
 **Address**: Pasewalker Str. 65, 13127 Berlin
 
