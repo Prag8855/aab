@@ -6,8 +6,9 @@ Description: This document proves that you don't owe your landlord money.
 Date_created: 2018-07-31
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    guides/moving-out.md
 ---
 
-The *Mietschuldenfreiheitsbescheinigung* proves that you have no rental debt. You can get this document from your landlord when you [move out](/guides/moving-out). You might need it to apply for an apartment.
+The *Mietschuldenfreiheitsbescheinigung* is a letter that you get from your landlord when you [move out](/guides/moving-out). It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#what-to-bring-to-the-visit).
 
 ![Mietschuldenfreiheitsbescheinigung example](/images/Mietschuldenfreiheitsbescheinigung-berlin.png "A Mietschuldenfreiheitsbescheinigung from a Berlin housing company")

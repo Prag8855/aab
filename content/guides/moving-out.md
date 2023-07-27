@@ -118,9 +118,9 @@ If your landlord won't return your deposit, you can get help from your [tenants'
 
 During the *Wohnungsübergabe*, you will also take electricity meter readings. You must write down the meter number (*[[Zählernummer]]*), and the reading (*[[Zählerstand]]*). You must give these numbers to your electricity company. You can usually do it online. The electricity company will know exactly how much electricity you have used. If you paid too much, you will get a refund. If you didn't pay enough, you will get an invoice.
 
-## Get a [[Mietschuldenfreiheitsbescheinigung]]
+## Get a Mietschuldenfreiheitsbescheinigung
 
-Ask your old landlord to sign a *[[Mietschuldenfreiheitsbescheinigung]]*. This document confirms that you do not owe them money. It can be useful when you [look for an apartment](/guides/find-a-flat-in-berlin).
+Ask your old landlord to sign a *[[Mietschuldenfreiheitsbescheinigung]]*. This document confirms that you have no debt to your landlord. You might need it when you [look for an apartment](/guides/find-a-flat-in-berlin).
 
 ## Move your things
 
