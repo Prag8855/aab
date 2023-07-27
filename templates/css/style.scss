@@ -1067,6 +1067,7 @@ sup:target a{
 		background: var(--c-bg-widget);
 		color: var(--c-text-light)!important;
 		font-size:var(--f-s);
+		box-shadow: var(--shadow-s);
 
 		&[src*="/illustrations/"]{
 			box-shadow: none;
