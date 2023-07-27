@@ -8,6 +8,5 @@ Related_guides:
     guides/deutschland-ticket.md
     guides/paying-a-bvg-fine.md
     guides/cancel-bvg-yearly-ticket.md
-    guides/bvg-10-uhr-karte.md
 Order: 170
 ---

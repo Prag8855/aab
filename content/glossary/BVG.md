@@ -2,13 +2,12 @@
 Title: What is the BVG?
 German_term: BVG
 English_term: Berlin public transit company
-Description: 
+Description: The company that is responsible for the U-Bahn, trams and buses in Berlin.
 Date_created: 2017-08-31
 Related_guides:
     guides/public-transit.md
     guides/paying-a-bvg-fine.md
     guides/cancel-bvg-yearly-ticket.md
-    guides/bvg-10-uhr-karte.md
     guides/visit-berlin.md
     guides/lost-and-found-berlin.md
     guides/germany-sign-fonts.md
