@@ -1,6 +1,6 @@
 ---
 Title: How to dispose of a Christmas tree in Berlin
-Short_title: How to dispose of a Christmas tree
+Short_title: How to get rid of a Christmas tree
 Description: When the holidays are over, this is how you get rid of your old Christmas tree.
 Date_created: 2021-01-03
 ---

@@ -1,6 +1,6 @@
 ---
 Title: List of English-speaking hair salons and barbers in Berlin
-Short_title: English-speaking hair salons
+Short_title: List of English-speaking hair salons
 Description: A list of English-speaking hairdressers, hair stylists and barbers in Berlin, compiled from user reviews and recommendations.
 Date_created: 2017-10-11
 Related_places:

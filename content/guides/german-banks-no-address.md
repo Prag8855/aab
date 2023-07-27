@@ -1,6 +1,6 @@
 ---
-Title: Opening a German bank account without an Anmeldung
-Short_title: How to open a bank account without an Anmeldung
+Title: How to open a German bank account without an Anmeldung
+Short_title: How to get a bank account with no Anmeldung
 Description: These German banks let you open an account without an official address in Germany. No Meldebestätigung or a Meldebescheinigung needed!
 Date_created: 2018-07-31
 ---

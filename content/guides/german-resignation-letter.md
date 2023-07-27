@@ -1,6 +1,6 @@
 ---
 Title: How to give a resignation letter in Germany
-Short_title: Job resignation letter
+Short_title: How to write a job resignation letter
 Description: The legal requirements for writing and handing a resignation notice (Kündigungsschreiben) when you quit your job in Germany.
 Date_created: 2023-07-17
 ---

@@ -1,6 +1,6 @@
 ---
 Title: List of English-speaking psychiatrists in Berlin
-Short_title: English-speaking psychiatrists
+Short_title: List of English-speaking psychiatrists
 Description: A list of psychiatrists who speak English, and how to find a psychiatrist who accepts public health insurance.
 Date_created: 2023-03-30
 Related_places:

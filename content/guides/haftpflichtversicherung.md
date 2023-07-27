@@ -1,6 +1,6 @@
 ---
 Title: How to choose liability insurance in Germany
-Short_title: What is liability insurance?
+Short_title: How to choose liability insurance
 Description: All about the second most important type of insurance in Germany: private liability insurance (Haftpflichtversicherung)
 Date_created: 2018-09-28
 ---

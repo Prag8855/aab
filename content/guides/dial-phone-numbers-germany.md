@@ -1,6 +1,6 @@
 ---
 Title: How to dial phone numbers in Germany
-Short_title: How to dial phone numbers
+Short_title: How to dial German phone numbers
 Description: This guide explains how German phone numbers are formatted, and how to call people in Germany.
 Date_created: 2019-05-12
 ---

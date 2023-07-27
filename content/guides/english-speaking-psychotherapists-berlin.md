@@ -1,6 +1,6 @@
 ---
 Title: List of English-speaking psychotherapists in Berlin
-Short_title: English-speaking psychotherapists
+Short_title: List of English-speaking psychotherapists
 Description: A list of therapists who speak English, and how to find a therapist who accepts public health insurance.
 Date_created: 2017-09-12
 Related_places:

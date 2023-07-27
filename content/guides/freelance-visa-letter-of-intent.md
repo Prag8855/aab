@@ -1,6 +1,6 @@
 ---
 Title: Letters of intent for the German freelance visa
-Short_title: Letters of intent
+Short_title: How letters of intent work
 Description: How to get letters of intent for the German freelance visa application, with examples.
 Date_created: 2018-09-06
 Related_reviews: reviews/freelance-visa-letter-of-intent/johanna-sieben.md

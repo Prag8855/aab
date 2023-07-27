@@ -1,6 +1,6 @@
 ---
 Title: How to get an Ausländerbehörde appointment
-Description: How to find a appointment for a residence permit at the immigration office (LEA) in Berlin, and what to do if there are no appointments.
+Description: How to find a appointment for a residence permit at the immigration office (Landesamt für Einwanderung), and what to do if there are no appointments.
 Date_created: 2017-09-22
 ---
 

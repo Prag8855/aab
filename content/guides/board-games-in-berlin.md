@@ -1,6 +1,6 @@
 ---
 Title: Where to play board games in Berlin?
-Short_title: Where to play board games?
+Short_title: Where to play board games
 Description: Want a nice place to play board games with your friends, and perhaps make some new ones? Here are all the board game meetups in Berlin.
 Date_created: 2017-09-14
 Related_places:

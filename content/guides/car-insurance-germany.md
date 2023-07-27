@@ -1,6 +1,6 @@
 ---
 Title: How to choose car insurance in Germany
-Short_title: Car insurance
+Short_title: How to choose car insurance
 Description: An introduction to auto insurance (Kfz-Versicherung) in Germany. It explains the types of car insurance, what they cover, and how to choose the best German car insurance.
 Date_created: 2020-08-07
 ---

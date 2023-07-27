@@ -1,6 +1,6 @@
 ---
 Title: Freiberufler or Gewerbe: what's the difference?
-Short_title: Freiberufler or Gewerbe?
+Short_title: Are you a Freiberufler or a Gewerbe?
 Description: Learn the differences between being a freelancer (Freiberufler) and a tradesperson (Gewerbetreibender). It's not as easy as it seems!
 Date_created: 2018-03-31
 ---
