@@ -10,7 +10,7 @@ Related_guides:
     guides/german-versicherungsnummer.md
 ---
 
-A salary tax statement (*Lohnsteuerbescheinigung*) shows how much you earned, and how much [salary tax](/glossary/Lohnsteuer) you paid. Your employer gives you this document every year between January and March.
+A salary tax statement (*Lohnsteuerbescheinigung*) shows how much you earned, and how much [salary tax](/glossary/Lohnsteuer) you paid. You get this document from your employer every year between January and March.
 
 You can use this document to find your [tax ID](/glossary/Steueridentifikationsnummer) and your [social insurance number](/glossary/Sozialversicherungsnummer).
 

@@ -14,6 +14,6 @@ A pay slip (*Gehaltsabrechnung* or *Lohnabrechnung*) shows how much you earned, 
 
 You can use this document to find your [tax ID](/glossary/Steueridentifikationsnummer) and your [social insurance number](/glossary/Sozialversicherungsnummer). It's also a proof of income.[^1]
 
-![Example Gehaltsabrechnung](/images/Gehaltsabrechnung-muster-example.png)
+![Gehaltsabrechnung or Lohnabrechnung example](/images/Gehaltsabrechnung-muster-example.png "Example Gehaltsabrechnung. Yours can look different.")
 
 [^1]: [vkb.de](https://www.vkb.de/content/versicherungen/geldanlage/ratgeber-geld-beruf/gehaltszettel-lesen/#:~:text=die%20verdienstbescheinigung%20der%20lohnabrechnung%20dient%20als%20einkommensnachweis)
