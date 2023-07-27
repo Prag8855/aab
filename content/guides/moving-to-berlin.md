@@ -66,7 +66,7 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to live in Germa
 
 To get a residence permit, you need health insurance and a place to live. You normally need around 2 months to get a residence permit, but it can take longer. You can't start working before you get your residence permit.
 
-**[Do I need a residence permit? ➞](/guides/residence-permit)**
+**[Do you need a residence permit? ➞](/guides/residence-permit)**
 
 ### Check if your devices work in Germany
 

@@ -212,7 +212,7 @@ There are good reasons to hire an expert:
 
 If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, get that first. Apply for the KSK after you get your residence permit.
 
-**[Do I need a residence permit? ➞](/guides/residence-permit)**
+**[Do you need a residence permit? ➞](/guides/residence-permit)**
 
 ### Step 1: Get health insurance
 

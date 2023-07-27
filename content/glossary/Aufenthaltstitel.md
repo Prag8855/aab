@@ -21,4 +21,4 @@ There are many kinds of German residence permits. Some let you work, and some al
 
 The residence permit is a [plastic card](/images/aufenthaltstitel-german-residence-permit.jpg). In the past, it was [a sticker in your passport](/images/aufenthaltstitel.jpg).
 
-**[Do I need a residence permit? ➞](/guides/residence-permit)**
+**[Do you need a residence permit? ➞](/guides/residence-permit)**

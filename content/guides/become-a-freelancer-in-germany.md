@@ -158,7 +158,7 @@ This means you must approach German companies and get them to sign [letters of i
 
 If you are not a EU or [[EEA]] citizen or permanent resident, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
 
-**[Do I need a residence permit? ➞](/guides/residence-permit)**
+**[Do you need a residence permit? ➞](/guides/residence-permit)**
 
 Everyone else needs a residence permit to work in Germany. To be self-employed, you must [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). This takes 1 to 4 months, sometimes longer. You can't work before you get the residence permit. If you already have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa), it might allow you to freelance already.
 
