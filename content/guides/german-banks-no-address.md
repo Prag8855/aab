@@ -26,8 +26,6 @@ These banks will let you open an account without a registered address in Germany
 - **[N26](/out/n26)**  
     They sometimes require a residence permit. It depends on what passport you have.
 - **[Revolut](/out/revolut)**
-- **[Vivid](/out/vivid)**  
-    You have 90 days to submit a valid residence permit after you open the account.
 - **[Wise](/out/wise-account)**  
     They are based in the UK and in Belgium.[^3] Your bank account will have a Belgian [[IBAN]].
 

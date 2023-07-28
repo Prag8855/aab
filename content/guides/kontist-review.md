@@ -251,8 +251,6 @@ Your bank, your accounting software and your tax advisor should be 3 different s
     Exactly like bunq personal accounts, but for businesses. They speak English.
 - **[Revolut Business](/out/revolut-business)**  
     Exactly like Revolut personal accounts, but for businesses. They speak English.
-- **[Vivid](/out/vivid)**  
-    English-speaking business bank
 - **[Finom](/out/finom)**  
     English-speaking business bank.
 - **[Fyrst](/out/fyrst)**  
