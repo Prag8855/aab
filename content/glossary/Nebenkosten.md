@@ -2,11 +2,18 @@
 Title: What are Nebenkosten?
 German_term: Nebenkosten
 English_term: Utility costs
-Description: The Nebenkosten are what you pay every month for hot water, central heating, trash collection, etc.
+Description: What you pay for utilities every month. It includes hot water, heating, trash collection, etc. It's included in your rent.
 Date_created: 2018-08-21
-Related_guides: guides/find-a-flat-in-berlin.md, guides/mietkaution.md
+Related_guides:
+    guides/find-a-flat-in-berlin.md
+    guides/mietkaution.md
 ---
 
-The utility costs (*Nebenkosten*) is what you pay every month for hot water, central heating, trash collection, etc. These costs are usually included in your warm rent (*[[Warmmiete]]*). It does not include electricity for your lights and appliances.
+These utility costs (*Nebenkosten*) are included in your [warm rent](/glossary/Warmmiete):
 
-The *Nebenkosten* are adjusted every year during the *[[Nebenkostenabrechnung]]*. Every year, you get a utilities bill. It shows how much water and heating you really used. If you used more than you paid for, you get an invoice. If you used less, you get money back.
+- Heating
+- Hot water (most of the time)
+- Trash collection
+- Cleaning and landscaping
+
+You pay the *estimated* cost of those things with your rent. Every year, your landlord calculates the real cost, and sends you a bill (*[[Nebenkostenabrechnung]]*). If you paid too much *Nebenkosten*, you get money back. If you did not pay enough, you get an invoice.
