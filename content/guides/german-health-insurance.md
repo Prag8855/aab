@@ -282,11 +282,6 @@ If you are an immigrant, **choose a broker who works with expats**. Your needs a
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-I recommend two insurance brokers:
-
-- [Feather](/out/feather). I know them personally, and work with them since 2018. I got my health insurance from them.
-- [Derrick Loehr](https://optimumcapital.de/). He gave me a lot of useful advice about health insurance when I wrote those guides.
-
 ## What to do next
 
 Get [liability insurance](/glossary/Haftpflichtversicherung). It's the second most important insurance after health insurance.
