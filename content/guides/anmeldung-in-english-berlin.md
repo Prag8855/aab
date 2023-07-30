@@ -158,7 +158,7 @@ If you just change your address, your old address will be deregistered automatic
 
 **Only if you already live in Berlin.** If this is your first *Anmeldung* in Berlin, you must do it in person.[^31] They will not let someone else do it for you.
 
-If you already live in Berlin, and you want to change your address, someone else can go for you. [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) offer this service.
+If you already live in Berlin, and you want to change your address, someone else can go for you. [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) offer this service.
 
 If you send someone else to do your *Anmeldung*, there are extra requirements:
 
@@ -195,7 +195,7 @@ For example, you can do the *Anmeldung* for your whole family in one appointment
 
 The *Anmeldung* is very simple, but the *Bürgeramt* employee can ask you a few questions in German. For example, which floor you live on, or how many people live with you.
 
-Translators like [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you.
+Translators like [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you.
 
 ### Do I have to pay [church tax](/glossary/Kirchensteuer)?
 
