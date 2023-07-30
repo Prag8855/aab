@@ -162,7 +162,7 @@ If you already live in Berlin, and you want to change your address, someone else
 
 If you send someone else to do your *Anmeldung*, there are extra requirements:
 
-1. The Bürgeramt needs a signed *[[Vollmacht]]*.
+1. The Bürgeramt needs a signed *[[Vollmacht]]*. You can use [this template](/documents/Anmeldung-Vollmacht-template.pdf).
 2. The Bürgeramt needs your original passport, not a photocopy.
 3. The signatures on your passport, on the [*Anmeldung* form](/docs/anmeldung) and on the *[[Vollmacht]]* must look the same.
 
