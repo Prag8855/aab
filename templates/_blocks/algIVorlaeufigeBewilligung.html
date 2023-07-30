@@ -12,7 +12,7 @@
 					fullName: '',
 					address: '',
 					agenturFurArbeitAddress: '',
-					caseWorkerGender: 'Herr oder Frau',
+					caseWorkerGender: 'Other',
 					caseWorkerLastName: '',
 					caseNumber: '',
 					currentDate: new Date(),
@@ -23,15 +23,9 @@
 					return {
 						'Frau': 'Mrs',
 						'Herr': 'Mr',
-						'Herr oder Frau': 'Sir or Madam',
+						'Other': 'Sir or Madam',
 					}[this.caseWorkerGender];
-				},
-				currentDateEnglish() {
-					return this.currentDate.toLocaleDateString("en-US");
-				},
-				currentDateGerman() {
-					return this.currentDate.toLocaleDateString("de-DE");
-				},
+				}
 			}
 		})
 	);
@@ -48,10 +42,10 @@
 		</span>
 		<span class="letter-return-address" v-else></span>
 
-		<template v-if="language === 'en' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+		<template v-if="language === 'en' && caseWorkerGender !== 'Other' && caseWorkerLastName">
 			{{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
 		</template>
-		<template v-if="language === 'de' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+		<template v-if="language === 'de' && caseWorkerGender !== 'Other' && caseWorkerLastName">
 			{{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
 		</template>
 		<span v-html="agenturFurArbeitAddress.replaceAll('\n', '<br>')"></span>
@@ -60,12 +54,12 @@
 	<template v-slot:letter-details="{ language, stage }">
 		<template v-if="language === 'en'">
 			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-			<strong>Date:</strong> {{ currentDateEnglish }}
+			<strong>Date:</strong> {{ currentDate.toLocaleDateString("en-US") }}
 			<template v-if="caseNumber"><br><strong>Case number: </strong> {{ caseNumber }}</template>
 		</template>
 		<template v-if="language === 'de'">
 			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-			<strong>Datum:</strong> {{ currentDateGerman }}
+			<strong>Datum:</strong> {{ currentDate.toLocaleDateString("de-DE") }}
 			<template v-if="caseNumber"><br><strong>Aktenzeichen: </strong> {{ caseNumber }}</template>
 		</template>
 	</template>
@@ -79,18 +73,18 @@
 		</p>
 
 		<template v-if="language === 'en'">
-			<p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+			<p v-if="caseWorkerGender !== 'Other' && caseWorkerLastName">
 				Dear {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }},
 			</p>
-			<p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
+			<p v-if="(caseWorkerGender === 'Other' || !caseWorkerLastName )">
 				Dear Sir or Madam,
 			</p>
 		</template>
 		<template v-if="language === 'de'">
-			<p v-if="caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
+			<p v-if="caseWorkerGender !== 'Other' && caseWorkerLastName">
 				Sehr {{ caseWorkerGender === 'Frau' ? 'geehrte Frau' : 'geehrter Herr' }} {{ caseWorkerLastName }},
 			</p>
-			<p v-if="(caseWorkerGender === 'Herr oder Frau' || !caseWorkerLastName )">
+			<p v-if="(caseWorkerGender === 'Other' || !caseWorkerLastName )">
 				Sehr geehrte Damen und Herren,
 			</p>
 		</template>
@@ -157,7 +151,7 @@
 				<select v-model="caseWorkerGender" class="anrede-input">
 					<option value="Frau">Madam</option>
 					<option value="Herr">Mister</option>
-					<option value="Herr oder Frau">Mr or Mrs</option>
+					<option value="Other">Mr or Mrs</option>
 				</select>
 				<input type="text" v-model="caseWorkerLastName" placeholder="Müller">
 				<span class="input-instructions">

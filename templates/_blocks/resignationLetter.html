@@ -27,12 +27,6 @@
 				};
 			},
 			computed: {
-				currentDateEnglish() {
-					return this.currentDate.toLocaleDateString("en-US");
-				},
-				currentDateGerman() {
-					return this.currentDate.toLocaleDateString("de-DE");
-				},
 				recipientFullName() {
 					return formatPersonName(
 						this.recipientGender,
@@ -78,12 +72,12 @@
 	<template v-slot:letter-details="{ language, stage }">
 		<template v-if="language === 'en'">
 			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-			<strong>Date:</strong> {{ currentDateEnglish }}
+			<strong>Date:</strong> {{ currentDate.toLocaleDateString("en-US") }}
 			<template v-if="employeeNumber"><br><strong>Employee number: </strong> {{ employeeNumber }}</template>
 		</template>
 		<template v-if="language === 'de'">
 			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-			<strong>Datum:</strong> {{ currentDateGerman }}
+			<strong>Datum:</strong> {{ currentDate.toLocaleDateString("de-DE") }}
 			<template v-if="employeeNumber"><br><strong>Personalnummer: </strong> {{ employeeNumber }}</template>
 		</template>
 	</template>
