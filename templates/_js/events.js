@@ -42,6 +42,7 @@ window.addEventListener("DOMContentLoaded", function() {
 			){
 				const checkbox = checklistItem.querySelector('[type=checkbox]');
 				checkbox.checked = !checkbox.checked;
+				e.stopPropagation();
 			}
 		});
 	});
