@@ -25,13 +25,6 @@
 				};
 			},
 			computed: {
-				caseWorkerGenderEnglish() {
-					return {
-						'Frau': 'Mrs',
-						'Herr': 'Mr',
-						'Herr oder Frau': 'Sir or Madam',
-					}[this.caseWorkerGender];
-				},
 				recipientAddress() {
 					if(this.auslaenderbehoerde !== 'other'){
 						// Both locations use the same address for mail
@@ -54,11 +47,6 @@
 					}
 					return '';
 				}
-			},
-			watch: {
-				dateOfBirth(newDate, oldDate) {
-					console.log(newDate, oldDate);
-				}
 			}
 		})
 	);
@@ -74,13 +62,6 @@
 			{{ address.replaceAll('\n', ', ') }}
 		</span>
 		<span class="letter-return-address" v-else></span>
-
-		<template v-if="language === 'en' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
-			{{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
-		</template>
-		<template v-if="language === 'de' && caseWorkerGender !== 'Herr oder Frau' && caseWorkerLastName">
-			{{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
-		</template>
 		<span v-if="recipientAddress" v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
 	</template>
 
@@ -184,6 +165,15 @@
 				</label>
 			</div>
 		</div>
+		<div class="form-group">
+			<label :for="uid('last-workday') + '-day'">Last day of work</label>
+			<div class="input-group">
+				<date-picker
+					v-model="lastDayOfWork"
+					:id="uid('last-workday')"
+					autocomplete="bday"></date-picker>
+			</div>
+		</div>
 		<hr>
 		<div class="form-group no-print">
 			<label :for="uid('fullName')">Your full name</label>
@@ -229,16 +219,6 @@
 			<datalist :id="uid('countries')">
 				<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
 			</datalist>
-		</div>
-		<hr>
-		<div class="form-group">
-			<label :for="uid('last-workday') + '-day'">Last day of work</label>
-			<div class="input-group">
-				<date-picker
-					v-model="lastDayOfWork"
-					:id="uid('last-workday')"
-					autocomplete="bday"></date-picker>
-			</div>
 		</div>
 		<hr>
 		<div class="form-group no-print">
