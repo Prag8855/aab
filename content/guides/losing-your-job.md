@@ -117,7 +117,7 @@ To inform the *Ausländerbehörde*, you must...
     - [ ] When your employment ends
 3. Include these documents with your message:[^2]
     - [ ] A copy of your termination notice or resignation letter
-4. Send your letter by email, post or fax. They should reply a few weeks later. You will not need to go to the *Ausländerbehörde* in person.
+4. Send your letter by email, post or fax. They will reply around 4 weeks later.[^36] You will not need to go to the *Ausländerbehörde* in person.
 5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post.
 
 **[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
@@ -318,3 +318,4 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
 [^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^36]: [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/)
