@@ -2235,7 +2235,10 @@ details{
 		display: block;
 		width: auto;
 		height: var(--h-icon-l);
-		margin:0 auto var(--s)!important;
+
+		@include not-phone{
+			margin:0 auto var(--s)!important;
+		}
 	}
 
 	> li {
