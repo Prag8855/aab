@@ -4,6 +4,11 @@ Vue.component('blank', {
 	props: {
 		placeholder: String,
 	},
-	template: `<output :class="{'placeholder': !$slots.default[0].text.trim()}" v-html="$slots.default[0].text.trim() || placeholder"></output>`,
+	computed: {
+		content() {
+			return this.$slots && this.$slots.default && this.$slots.default[0].text.trim();
+		}
+	},
+	template: `<output :class="{'placeholder': !content}" v-html="content || placeholder"></output>`,
 });
 {% endraw %}{% endjs %}
