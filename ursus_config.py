@@ -269,8 +269,8 @@ config.context_globals = {
     # §2 Abs. 3 AufenthG + §13 BAföG, 2.3.1.1 VAB
     "FREELANCE_VISA_MIN_INCOME": 502,  # 2023
 
-    # Minimum monthly pension (€/m) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
-    "WORK_VISA_MIN_MONTHLY_PENSION": 4015,
+    # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
+    "WORK_VISA_MIN_INCOME": 87600 * 0.55,
 
     # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
     "AUFENTHV_41_COUNTRIES": "Australia, Canada, Israel, Japan, New Zealand, South Korea, the United Kingdom or the United States",

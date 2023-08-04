@@ -93,7 +93,14 @@ In this guide, I show you how to get a Blue Card.
 - [ ] **You have German health insurance and a place to stay**  
     You must [find a place to live](/guides/find-a-flat-in-berlin) and [get German health insurance](/guides/german-visa-health-insurance) *before* you apply for the work visa.[^40]
 
-You **do not** need to speak German to get a work visa. There is no minimum income requirement for the work visa. Your salary must be the same as Germans with the same skills.[^33]
+You **do not** need to speak German to get a work visa.
+
+If you are under 45 years old, there is no minimum salary requirement. Your salary must be the same as Germans with the same skills.[^33]
+
+If you are over 45 years old, you must:
+
+- Have a [gross income](/glossary/Brutto%20income) above {{ WORK_VISA_MIN_INCOME|cur }} per year (in Berlin)[^48]
+- **or** have a public or private pension plan that will support you after retirement
 
 ## EU Blue Card requirements
 
@@ -492,3 +499,4 @@ Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berli
 [^65]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
 [^33]: [bmi.bund.de](https://www.bmi.bund.de/EN/topics/migration/immigration/labour-migration/generell-information/general-information-node.html)
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (Jule 2023)
+[^48]: [Berlin.de](https://service.berlin.de/dienstleistung/329328/en/#:~:text=the%20salary%20must%20correspond%20to%20at%20least%2055%20per%20cent%20of%20the%20annual%20calculation%20limit)
