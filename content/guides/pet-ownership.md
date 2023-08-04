@@ -117,6 +117,14 @@ In Berlin, use the [Dog owners in Berlin](https://www.facebook.com/groups/dogown
 
 Most neighbourhoods have unofficial WhatsApp groups for dog owners. Ask other dog owners at the park, or on [Nebenan](https://nebenan.de/).
 
+## How to find a dog sitter
+
+These apps that help you find a dog sitter:
+
+- [Pawshake](https://en.pawshake.de/)
+- [Rover](https://www.rover.com/app/)
+- [Gudog](https://gudog.de/hundesitter-berlin)
+
 ## Finding an apartment with a dog
 
 It can be hard to [find an apartment](/guides/find-a-flat-in-berlin) that allows dogs.[^12] Only ~20% of apartments explicitly allow dogs. You need the landlord's permission to keep a dog in the apartment.[^13] The landlord can refuse tenants with dogs.[^14] Most websites let you search for apartments that allow dogs.
