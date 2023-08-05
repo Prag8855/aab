@@ -34,6 +34,7 @@ def build_wikilinks_url(label, base, end):
 
 
 minimum_wage = 12
+beitragsbemessungsgrenze_west = 87600
 
 config.content_path = Path(__file__).parent / 'content'
 config.templates_path = Path(__file__).parent / 'templates'
@@ -270,7 +271,7 @@ config.context_globals = {
     "FREELANCE_VISA_MIN_INCOME": 502,  # 2023
 
     # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
-    "WORK_VISA_MIN_INCOME": 87600 * 0.55,
+    "WORK_VISA_MIN_INCOME": beitragsbemessungsgrenze_west * 0.55,
 
     # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
     "AUFENTHV_41_COUNTRIES": "Australia, Canada, Israel, Japan, New Zealand, South Korea, the United Kingdom or the United States",
@@ -337,7 +338,7 @@ config.context_globals = {
 
     # Maximum income used to calculate pension contributions (€/y) [BBGRV] - § SGB 6, Anlage 2 - monitored
     "BEITRAGSBEMESSUNGSGRENZE_EAST": 85200,
-    "BEITRAGSBEMESSUNGSGRENZE_WEST": 87600,
+    "BEITRAGSBEMESSUNGSGRENZE_WEST": beitragsbemessungsgrenze_west,
 
     # Maximum income from employment to stay a member of the KSK (€/y) - BEITRAGSBEMESSUNGSGRENZE_WEST / 2 - § 4 KSVG
     "KSK_MAX_EMPLOYMENT_INCOME": 43800,
