@@ -151,17 +151,18 @@ config.renderers += (
 )
 
 config.linters = (
+    # 'extensions.linters.places.PlacesLinter',
+    # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'extensions.linters.footnotes.FootnoteLocationLinter',
     'extensions.linters.footnotes.OrphanFootnotesLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'extensions.linters.lists.MultilineListsLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
     'extensions.linters.metadata.ShortTitleLinter',
-    # 'extensions.linters.places.PlacesLinter',
     'extensions.linters.places.UnusedPlacesLinter',
+    'extensions.linters.table_of_contents.TableOfContentsLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     'ursus.linters.images.UnusedImagesLinter',
-    # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
 )
