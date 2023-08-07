@@ -55,6 +55,10 @@ Use [Rome2Rio](https://www.rome2rio.com/), [Omio](/out/omio), [Bahn.de](/out/bah
 
 ### By car or motorcycle
 
+You can drive in Germany with a foreign driving licence. You might need a translation or an International Driving Permit.
+
+**[Who can drive in Germany ➞](/guides/convert-to-german-driving-licence#can-you-already-drive-in-germany)**
+
 Driving in Berlin is easy, but free parking is hard to find.
 
 Most parking spaces in the centre cost money.[^5] They cost 1€ to 4€ per hour.[^6] Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free. It's always easy to park a motorcycle.

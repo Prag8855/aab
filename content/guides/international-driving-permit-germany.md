@@ -26,7 +26,7 @@ Go to your appointment and bring...
 - [ ] **15€ for the fees**
 - [ ] **A [biometric picture](/guides/biometric-pictures-in-berlin)**
 - [ ] **A valid German driver's licence**  
-    Temporary licenses issued to new drivers (*vorläufiger Nachweis der Fahrerlaubnis*) are not accepted. You must bring a valid plastic driving licence (*Kartenführerschein*).
+    Temporary licences issued to new drivers (*vorläufiger Nachweis der Fahrerlaubnis*) are not accepted. You must bring a valid plastic driving licence (*Kartenführerschein*).
 
 You will get a International Driving Permit during your appointment. It's valid for 3 years.
 
@@ -34,7 +34,7 @@ You will get a International Driving Permit during your appointment. It's valid 
 
 The *[[Bürgeramt]]* only gives International Driving Permits for German driving licences. If you have a driver's licence from another country, you must follow different steps. In most cases, you must request the International Driving Permit in your country of origin.
 
-- **Canada**: From the CAA, while in Canada. No other authority can issue them. You can [convert your licence to a German one](/guides/convert-to-german-driving-licence), then request an International Driving Permit in Germany.
+- **Canada**: From the CAA, while in Canada. No other authority can issue them.
 - **United States:** The AAA can [mail International Driving Permits overseas](https://www.aaa.com/vacation/idpf.html).
 - **Great Britain:** From the [AA,](https://www.theaa.com/driving-advice/driving-abroad/idp) the [RAC](https://www.rac.co.uk/drive/travel/driving-in-europe/international-driving-permit/) or the [Post Office](https://www.postoffice.co.uk/identity/international-driving-permit). You can also [request a British IDP by post](https://www.theaa.com/driving-advice/driving-abroad/idp).
 

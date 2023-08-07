@@ -1,7 +1,7 @@
 ---
 Title: List of English-speaking driving schools in Berlin
 Short_title: List of English-speaking driving schools
-Description: A guide to find an English-speaking driving school for your car or motorcycle driving license.
+Description: A guide to find an English-speaking driving school for your car or motorcycle driving licence.
 Date_created: 2017-08-31
 Related_places:
     places/fahrschule-einszweidrive.md
@@ -21,7 +21,7 @@ Related_places:
     places/fahrschule-performance.md
 ---
 
-If you want a German driving license, you must take driving lessons. You need 14 hours of theory and 12 hours of driving. Next, you must take a theoretical driving exam and a practical driving exam.
+If you want a German driving licence, you must take driving lessons. You need 14 hours of theory and 12 hours of driving. Next, you must take a theoretical driving exam and a practical driving exam.
 
 ## How the driving exams work
 
@@ -33,9 +33,9 @@ The German driving exam is not easy. People often have to take the exam multiple
 
 ## Trade your foreign driving licence
 
-If you already had a driving license in a non-EU, you can drive for 6 months after moving to Germany. After that, your licence is not valid. You must [trade your foreign license for a German one](/guides/convert-to-german-driving-licence). If you have a driving licence from another EU country, it is valid until it expires.[^1]
+Your foreign driving licence [might be valid in Germany](/guides/convert-to-german-driving-licence#can-you-already-drive-in-germany). You can sometimes convert it to a German driving licence. You might not need driving lessons.
 
-Depending on where you got your driving licence, you might not need to take any driving classes.
+**[How to convert your foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
 
 ## List of English-speaking driving schools
 
@@ -50,4 +50,3 @@ If a driving school is missing from this list, [let me know](/suggest-business).
 {% include '_blocks/relatedPlaces.html' %}
 
 [^0]: [gut-lernen.de](https://www.gut-lernen.de/fremdsprachen-pruefung.html), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
-[^1]: [iamexpat.de](https://www.iamexpat.de/expat-info/driving-germany/driving-licence)

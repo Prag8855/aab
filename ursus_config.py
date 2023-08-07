@@ -420,6 +420,9 @@ config.context_globals = {
 
     # (€) - service.berlin.de/dienstleistung/121627
     "DRIVING_LICENCE_FEE": 49.80,
+
+    # (€) - https://service.berlin.de/dienstleistung/327537/
+    "DRIVING_LICENCE_CONVERSION_FEE": 36.30,
 }
 
 config.logging = {

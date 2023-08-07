@@ -134,21 +134,25 @@ You can also bring your pets to Germany. If you bring your dog to Berlin, you mu
 
 ### Get around in Berlin
 
-Learn how to use public transit in Berlin. You should also get a bicycle, because it makes summers more fun.
+Berlin has excellent public transit. You should also get a bike; it's a good way to explore Berlin in the summer.
 
 **[How to use public transit ➞](/guides/public-transit)**
 
 **[How to buy a bicycle ➞](/guides/bicycle-in-berlin)**
 
-You don't need to [buy a car](/guides/buying-used-car-in-germany) in Berlin. They are [expensive](/guides/car-cost-of-ownership-germany), and [not that useful](/guides/buying-used-car-in-germany#do-you-need-a-car).
+You don't need to [buy a car](/guides/buying-used-car-in-germany) in Berlin. They are [expensive](/guides/car-cost-of-ownership-germany), and [not so useful](/guides/buying-used-car-in-germany#do-you-need-a-car).
 
-If you have a driving licence from a non-EU country, it's only valid for 6 months after you move to Germany. If you have a driving licence from another EU or [[EEA]] country, it's valid until it expires.[^3] You can usually [exchange your foreign driving licence for a German one](/guides/convert-to-german-driving-licence). If you don't have a driving licence, you can [take driving lessons](/guides/english-driving-schools-in-berlin).
+Your foreign driving licence [might be valid in Germany](/guides/convert-to-german-driving-licence#can-you-already-drive-in-germany). You can sometimes convert it to a German driving licence. You can also take driving lessons in Berlin.
+
+**[How to convert your driving licence ➞](/guides/driving-licence)**
+
+**[How to get a driving licence ➞](/guides/convert-to-german-driving-licence)**
 
 ## Your first year in Berlin
 
 ### Discover Berlin
 
-Take time to explore your new city! [Get a bicycle](/guides/bicycle-in-berlin) and explore everything inside and outside the *[Ring](/glossary/Ringbahn)*.
+Explore your new city! [Get a bicycle](/guides/bicycle-in-berlin) and explore everything inside and outside the *[Ring](/glossary/Ringbahn)*.
 
 If you move in the winter, Berlin will seem a little grey, but don't panic. It will be much nicer in the summer.
 
