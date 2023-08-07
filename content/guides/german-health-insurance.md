@@ -174,7 +174,7 @@ With private health insurance, there is no nursing care insurance (*Pflegeversic
 [If you are voluntarily insured](/guides/german-health-insurance#your-options) (*[[freiwillig versichert]]*), you can choose private or public health insurance. If you are compulsorily insured (*[[Pflichtversichert]]*), you must choose public health insurance.
 
 - **If you are self-employed**, you can choose private insurance. There is no minimum income. If you are a non-EU freelancer, and you just moved to Germany, private health insurance might be your only option, because public health insurers often reject freelancers who are not already on the public system. If you have a low income, private health insurers might reject you, and you might be forced to use [expat health insurance](/glossary/Expat%20health%20insurance).
-- **If you are an employee, and you earn more than **{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}**€ per year** (before taxes), you can choose public or private health insurance. Your employer will pay half of your insurance.
+- **If you are an employee, and you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year** (before taxes), you can choose public or private health insurance. Your employer will pay half of your insurance.
 - **If you are an employee, and you earn less than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year** (before taxes), you can't choose private health insurance. You must choose public health insurance.
 - **If you are a student, a doctor or a civil servant**, you can choose private health insurance. If you are a student 30 years old or older, private health insurance can be cheaper than public health insurance. Private health insurers offer special rates for older students.
 
