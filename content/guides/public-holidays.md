@@ -5,6 +5,10 @@ Description: This is a list of the official holidays in Berlin.
 Date_created: 2022-05-30
 ---
 
+This guide lists the public holidays in Berlin, and what happens on those days.
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## List of public holidays in Berlin
 
 These are the 10 public holidays in Berlin:

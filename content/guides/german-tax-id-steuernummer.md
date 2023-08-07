@@ -39,7 +39,7 @@ There is no way to get your tax ID faster. You can't go to the *[[Finanzamt]]* j
 
 - On the document you get from the *[Bundeszentralamt für Steuern](/images/tax-id-document-bzst.jpg)*, after you [register your address](/glossary/Anmeldung) for the first time, as "Persönliche Identificationsnummer" - [example](/images/tax-id-document-bzst.jpg)
 - On your pay slip (*[[Gehaltsabrechnung]]*) as "Steuer ID" - [example](/images/Gehaltsabrechnung-muster-steuerID.png)
-- On your salary tax statement (*[[Lohnsteuerbescheinigung]]*) as "Identifikationsnummer" - [example](/images/Lohnsteuerbescheinigung-SteuerId.png)
+- On your salary tax statement (*[[Lohnsteuerbescheinigung]]*) as "Identifikationsnummer" - [example](/images/Lohnsteuerbescheinigung-SteuerID.png)
 - On your income tax report (*[[Steuerbescheid]]*) as "IdNr" - [example](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png)
 
 - On your *Entgeltabrechnung*

@@ -7,6 +7,8 @@ Date_created: 2017-10-10
 
 This guide shows you how to deposit a lot of coins, or exchange them for euro bills. The German term is *Bargeldeinzahlung*.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## At your bank
 
 You can deposit your coins at a deposit machine (*Einzahlautomat*). They are next to other cash machines, usually near the entrance of the bank. The money will go in your bank account.

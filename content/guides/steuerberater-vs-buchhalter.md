@@ -5,6 +5,10 @@ Description: In Germany, there is an important distinction between a Steuerberat
 Date_created: 2018-02-19
 ---
 
+This guide explains the difference between tax advisors (*Steuerberater*) and bookkeepers (*Buchhalter*). 
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## Summary
 
 - Tax advisor (*[[Steuerberater]]*) is a protected title in Germany. Bookkeeper (*[[Buchhalter]]*) is not.
@@ -32,7 +36,9 @@ Bookkeepers can't submit your tax declarations or financial statements. They can
 
 ## How to find a tax advisor or bookkeeper?
 
-**Related guide:** [List of English-speaking accountants in Berlin](/guides/english-speaking-steuerberater-berlin)
+**[List of English-speaking accountants ➞](/guides/english-speaking-steuerberater-berlin)**
+
+**[List of German tax software ➞](/guides/german-tax-software)**
 
 ## Need help?
 

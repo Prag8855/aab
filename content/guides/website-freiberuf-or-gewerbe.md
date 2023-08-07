@@ -6,6 +6,8 @@ Date_created: 2018-04-02
 
 **It depends on how the website makes money**, but it's usually a *[[Gewerbe]]*.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## Commercial websites
 
 ### Websites that are part of your business

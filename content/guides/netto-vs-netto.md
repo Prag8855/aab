@@ -7,6 +7,8 @@ Date_created: 2022-06-06
 
 In Germany, there are two kinds of Netto supermarkets. They have the same name, but a different logo. **They are different supermarket chains.**
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## Netto with the dog
 
 Netto ApS & Co. KG has around 350 branches in Germany. Most branches are in the east. It belongs to the Salling Group, a Danish retail firm.[^4]

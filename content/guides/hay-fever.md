@@ -5,6 +5,12 @@ Description: Tips for fighting a pollen allergy in Germany, and where to get all
 Date_created: 2022-05-23
 ---
 
+This guide explains how to fight hay fever in Germany.
+
+{% include "_blocks/tableOfContents.html" %}
+
+## What is hay fever?
+
 Hay fever (*Heufieber* or *Heuschnupfen*) is an allergy to pollen. These are the symptoms:[^0]
 
 - Runny or stuffy nose

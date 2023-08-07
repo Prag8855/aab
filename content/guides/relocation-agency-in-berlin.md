@@ -25,6 +25,8 @@ Relocation agencies make it easier to [move to Germany](/guides/moving-to-berlin
 
 I recommend Kathleen Parker from Red Tape Translation. She helped with a few guides on this website. I often contact her to ask questions.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## Relocation agency or immigration lawyer?
 
 Relocation agencies can help you plan your move to Germany: [find your first apartment](/guides/find-a-flat-in-berlin), [book German classes](/guides/learn-german), [open a bank account](/guides/first-bank-account-in-germany), get a cell phone plan, register with basic utilities and so on.

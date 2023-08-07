@@ -5,7 +5,11 @@ Description: These German banks let you open an account without an official addr
 Date_created: 2018-07-31
 ---
 
-When you move to Germany, you need a bank account. These banks let you open an account **without a registered address in Germany**. You don't need to do your *[[Anmeldung]]*, and you don't need a registration certificate (*[[Anmeldebestätigung]]*). This is useful if you just moved to Germany.
+When you move to Germany, you need a bank account. If you did not [register your address](/glossary/Anmeldung), some banks don't let you open an account.
+
+This guide shows you how to open a bank account without your *[[Anmeldung]]*.
+
+{% include "_blocks/tableOfContents.html" %}
 
 ## Banks that don't require an [[Anmeldung]]
 
@@ -24,7 +28,7 @@ These banks will let you open an account without a registered address in Germany
 - **[Monese](/out/monese)**  
     They are based in the UK and in Belgium. Your bank account will have a Belgian [[IBAN]].
 - **[N26](/out/n26)**  
-    They sometimes require a residence permit. It depends on what passport you have.
+    They might require a [residence permit](/glossary/Aufenthaltstitel).
 - **[Revolut](/out/revolut)**
 - **[Wise](/out/wise-account)**  
     They are based in the UK and in Belgium.[^3] Your bank account will have a Belgian [[IBAN]].

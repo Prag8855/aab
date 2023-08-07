@@ -7,6 +7,8 @@ Date_created: 2023-04-19
 
 German jobs have a notice period (*Kündigungsfrist*). If you quit or get laid off, you must work until the end of your notice period. This guide explains how that notice period works.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## If you quit your job
 
 The default notice period is 4 weeks, rounded up to the 15th or last day of the month.[^2] Your notice period starts one day after your employer receives your [resignation letter](/glossary/Kündigungsschreiben).[^5]

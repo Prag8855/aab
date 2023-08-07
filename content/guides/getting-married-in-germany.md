@@ -7,6 +7,8 @@ Date_created: 2017-10-09
 
 *This guide was kindly submitted by Lucile Danilov. Thank you for sharing your experience with the community!*
 
+{% include "_blocks/tableOfContents.html" %}
+
 First off, although it sounds obvious, you want to make sure to get the legal proceedings out of the way and settle on a date for the ceremony as soon as possible, preferably before any of the other preparations (reception, invitations, etc.). Despite being in 2017, Germany does love its paper trail, and you will often end up waiting weeks in front of your physical mailbox for “that one last paper”. Of course, you can have a reception without a prior visit to the local city office (or *[Standesamt](http://www.berlin.de/standesamt/standesaemter-in-berlin/)*), but if you’re bringing guests over, you may as well hit two birds with one stone, right?
 
 You may also want to know that this process will be expensive, especially if you do not speak fluent German, as you will have to bring a sworn interpreter at your side for both the initial appointment and the ceremony itself (emphasis on the “sworn” - you cannot bring just a friend who speaks German, the credentials of the interpreter you bring will be checked).

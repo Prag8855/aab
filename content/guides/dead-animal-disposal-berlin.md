@@ -7,6 +7,8 @@ Date_created: 2017-09-13
 
 If you have found a dead animal or need to dispose of the body of a deceased pet in Berlin, here is how to proceed.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## Wild animals
 
 Dead animals - especially wild ones - can carry diseases, so you can't dunk them in the Restmüll and call it a day. Dead wild animals can be reported to the [Friedrichshain-Kreuzeberg Ordnungsamt](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/ordnungsamt/dienstleistungen/service.124457.php/dienstleistung/326766/standort/122148/), who will take care of their safe collection and disposal. Contact them by telephone or by email, give them the location of the animal and a way to reach you, and they will handle the rest.

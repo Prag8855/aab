@@ -5,6 +5,10 @@ Description: This is how you send letters and packages to addresses in Germany.
 Date_created: 2017-12-04
 ---
 
+This guide shows you how to write a German address and send letters to Germany.
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## Where to put the address on the envelope
 
 Your letters will only get delivered if you write the address correctly on the envelope. The location of the addresses and postage stamps on German letters are the same as in North America and the rest of Europe.

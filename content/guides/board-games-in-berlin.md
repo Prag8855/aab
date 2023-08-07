@@ -15,6 +15,8 @@ Related_places:
 
 Want a nice place to play board games with your friends, and perhaps make some new ones? The following board game meetups happen every week in Berlin, and are always friendly to newcomers.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## Board game meetups
 
 On **Tuesdays** from 6PM to 11PM, it's also board game night at [Brettspielegruppe Schöneberg](http://brettspielegruppe.de/), Klixstraße 2 in Schöneberg. This meetup is organized by Brettspielegruppe Schöneberg. Entrance is 3€ per person, and you must bring your own drinks.

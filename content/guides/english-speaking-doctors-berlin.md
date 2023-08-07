@@ -35,6 +35,14 @@ This is how you can find an English-speaking doctor or GP.
 
 **[Go to the list of doctors ↓](#list-of-doctors-and-gps)**
 
+{% include "_blocks/tableOfContents.html" %}
+
+## List of doctors and GPs
+
+This list is compiled by hand. If a doctor is missing, [contact me](/contact).
+
+{% include '_blocks/relatedPlaces.html' %}
+
 ## Video call with a doctor
 
 A video call is faster and easier than a doctor visit. It's a good way to get a [sick note](/glossary/Krankschreibung).
@@ -64,9 +72,3 @@ This free hotline can:
 - Book a doctor visit to your house
 
 For emergencies, call [112](tel:112). They speak English.
-
-## List of doctors and GPs
-
-This list is compiled by hand. If a doctor is missing, [contact me](/contact).
-
-{% include '_blocks/relatedPlaces.html' %}

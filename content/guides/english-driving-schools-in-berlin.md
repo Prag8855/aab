@@ -21,7 +21,9 @@ Related_places:
     places/fahrschule-performance.md
 ---
 
-If you want a German driving licence, you must take driving lessons. You need 14 hours of theory and 12 hours of driving. Next, you must take a theoretical driving exam and a practical driving exam.
+To [get a German driving licence](/guides/driving-licence), you must take driving lessons. This guide lists places where you can take driving classes in English.
+
+{% include "_blocks/tableOfContents.html" %}
 
 ## How the driving exams work
 

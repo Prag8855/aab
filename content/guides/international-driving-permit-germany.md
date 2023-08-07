@@ -15,6 +15,8 @@ This guide applies to you if:
 2. You have a German driving licence
 3. You want to drive in a country that requires an International Driving Permit
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## With a German driver's licence
 
 If you have a German driver's licence, you must book a *[[Bürgeramt]]* appointment for an *[Internationaler Führerschein](https://service.berlin.de/dienstleistung/121591/)*. The ADAC does not issue International Driver Permits anymore.[^1]

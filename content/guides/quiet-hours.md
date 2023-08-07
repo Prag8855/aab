@@ -5,7 +5,9 @@ Description: Here's how the quiet hours work in Berlin, and what to do with loud
 Date_created: 2018-06-01
 ---
 
-In Berlin, there are times when you can't make noise or disturb your neighbours.
+In Berlin, there are times when you can't make noise or disturb your neighbours. This guide explains how the quiet hours work.
+
+{% include "_blocks/tableOfContents.html" %}
 
 ## When are the quiet hours?
 

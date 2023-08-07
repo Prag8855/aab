@@ -5,6 +5,10 @@ Description: A list of typefaces that are commonly used in Germany. It includes 
 Date_created: 2020-01-20
 ---
 
+This guide lists fonts that are used in Germany.
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## Official font for Berlin
 
 **[Berlin Type](https://www.hvdfonts.com/custom-cases/berlin-type)** is the font used on official posters from the city of Berlin. It is free to use.

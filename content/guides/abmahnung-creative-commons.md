@@ -9,6 +9,8 @@ On May 5th, I received an *[[Abmahnung]]* from Kanzlei Lutz Schröder in Kiel. T
 
 ![Abmahnung from Kanzlei Schröder](/images/kanzlei-schroeder-abmahnung-creative-commons.jpg)
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## What did I do wrong?
 
 In our guide, *[Steuerberater or Buchhalter: what's the difference?](/guides/steuerberater-vs-buchhalter)*, I used [a photo](https://www.flickr.com/photos/140988606@N08/30720979452) with a Creative Commons license as the header image. Although I gave credit to Christopher Scholz for his photo, I did not do it in the correct way.

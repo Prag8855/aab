@@ -5,6 +5,10 @@ Description: German job offers often show "m/w/d" in the title. It's an abbrevia
 Date_created: 2022-06-09
 ---
 
+"m/w/d" is an abbreviation of "männlich, weiblich oder divers". This guide explains why it appears on German job listings.
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## What does this abbreviation mean?
 
 German job offers often show "m/w/d" in the title. It's an abbreviation for "männlich, weiblich oder divers" - "male, female or diverse". This abbreviation means that the job offer is open to all genders, even if the job title is masculine.

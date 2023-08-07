@@ -8,6 +8,8 @@ When you [start a business](/guides/start-a-business-in-germany) and list it to 
 
 Some businesses have no *Handelsregisternummer*, because they are not in the *Handelsregister*.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## What does the Registernummer look like?
 
 The *Handelsregisternummer* has the format **HRA 12345** or **HRB 12345**:
