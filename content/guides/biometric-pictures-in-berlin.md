@@ -5,18 +5,21 @@ Description: Getting biometric pictures taken for passports, visas and drivers' 
 Date_created: 2017-10-06
 ---
 
+This guide shows you how to get biometric pictures or passport photos in Berlin.
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## From a photo kiosk
 
 You can get 35 × 45 mm passport pictures at a photo booth (*Fotoautomat*).
 
 There are Fotofix machines everywhere in Berlin. You pay 6€ in coins, and you follow the instructions on the screen. The machine will print 5 copies of your photo.
 
+**[List of photo machines](https://www.google.com/maps?q=fotoautomat)** - Google Maps
+
+**[List of passport photo machines](https://www.passbilder.net/ort/berlin)** - Passbilder.net
+
 These biometric photos are accepted by the [*Bürgeramt*](/glossary/Bürgeramt) and the [*Ausländerbehörde*](/glossary/Ausl%C3%A4nderbeh%C3%B6rde).
-
-**Useful links:**
-
-- [List of passport photo machines](https://www.passbilder.net/ort/berlin) - Passbilder.net
-- [List of photo machines](https://www.google.com/maps?q=fotoautomat) - Google Maps
 
 ## At the Bürgeramt/Ausländerbehörde
 
@@ -24,12 +27,14 @@ There are passport photo kiosks at the *[[Ausländerbehörde]]*, and at the *[[B
 
 ![Fotoautomat at the Bürgeramt](/images/berlin-buergeramt-fotoautomat.png)
 
-When you get your passport pictures from a *Fotoautomat*, you will get 4 pictures printed on a single piece of paper. You do not need to cut them; they have a tool for this at the *Ausländerbehörde*, and at the *Bürgeramt*.[^0]
+The *Fotoautomat* prints 4 to 6 pictures on one paper. You do not need to cut them; the *Bürgeramt* and *Ausländerbehörde* have a tool for this.[^0]
 
 ## Biometric pictures for other countries
 
-Embassies and foreign organizations [can have different requirements](https://www.persofoto.com/passport-photo-size) for biometric photos. Use [this website](https://www.persofoto.com/passport-photo-size) to find the correct requirements for your country.
+Other countries use different passport picture sizes. For example, India uses square pictures.
 
-Most photography studios will take biometric pictures and cut them to the right size. It costs 5€ to 15€.
+**[Passport photo requirements by country](https://www.persofoto.com/passport-photo-size)** - persofoto.com
+
+Photography studios can take pictures and cut them to the correct size. It costs 5€ to 15€.
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/g68ebiq/)
