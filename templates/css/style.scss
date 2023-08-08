@@ -1624,7 +1624,7 @@ input[type=range] {
 		border-color: var(--c-border-input-focused);
 	}
 
-	input{
+	input, input:invalid{
 		border: none!important;
 		box-shadow: none!important;
 		box-sizing:content-box!important;
@@ -1632,7 +1632,7 @@ input[type=range] {
 		text-align: center;
 		width: 3ch!important; // A bit wider because of the placeholder
 	}
-	.year-input{
+	.year-input, .year-input:invalid{
 		width: 5ch!important;
 	}
 }
