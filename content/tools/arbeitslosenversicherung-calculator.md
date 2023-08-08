@@ -17,9 +17,9 @@ If you work in Germany, you must pay for unemployment insurance (*[[Arbeitslosen
 
 **[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 
-**If you are self-employed**, unemployment insurance is optional. If you don't pay for unemployment insurance, you will not get unemployment benefits.
+**If you are self-employed**, unemployment insurance is optional. If you don't pay for unemployment insurance, you can't get unemployment benefits.
 
-**If you have a [minijob](/glossary/Minijob)**, you don't pay for unemployment insurance, and you don't get unemployment benefits.
+**If you have a [minijob](/glossary/Minijob)**, you don't pay for unemployment insurance, and you can't get unemployment benefits.
 
 ## How to calculate Arbeitslosenversicherung
 
