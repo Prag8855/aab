@@ -29,9 +29,9 @@ If your apartment has a [tankless water heater](https://en.wikipedia.org/wiki/Ta
 
 Your rent does not include the electricity for lights and appliances.
 
-When you [move in](/guides/moving-in), you must sign a contract with an electricity company. Every month, you pay for your *estimated* electricity use.
+When you [move in](/guides/moving-in), you must sign a contract with an electricity company. They don't need to connect anything. They just start charging you after you give them your [meter reading](/glossary/Zählerstand).
 
-Every year, the electricity company asks for your electricity meter reading (*[[Zählerstand]]*). This tells them how much electricity you really used. If you paid too much, you get money back. If you did not pay enough, you get an invoice.
+Every month, you pay for your *estimated* electricity use. Every year, the electricity company asks for your electricity meter reading (*[[Zählerstand]]*). This tells them how much electricity you really used. If you paid too much, you get money back. If you did not pay enough, you get an invoice.
 
 ## How much are the Nebenkosten?
 
