@@ -13,21 +13,25 @@ This guide shows you what you must do when you move out of your apartment in Ger
 
 ### When to end your lease
 
-Leases have a 3 month notice period (*[[Kündigungsfrist]]*). If you want to end your lease, you must tell your landlord 3 months in advance.[^0] Some leases have a shorter notice period, but the maximum notice period is 3 month.[^29]
+You must end your lease **3 months in advance**, before the 3rd [work day](/glossary/Werktag) of the month.[^0] Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but the maximum is 3 month.[^29] The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30]
 
-You must cancel before the 3rd [work day](/glossary/Werktag) of the month. For example, if you cancel on January 1, your lease will end on March 31. If you cancel on January 10, your lease will end on April 31.[^1] The cancellation period starts when the landlord gets your cancellation letter,[^30] not when you send it.
+> **Example 1:** You tell your landlord on January 1. Your lease ends on March 31.[^1]
+
+> **Example 2:** You tell your landlord on January 10. Your lease ends on April 30.
 
 ### How to end your lease sooner
 
-You can ask your landlord to end your lease sooner.[^31] You help them find a new tenant, and you leave when the new tenant moves in. It's easier for you and for the landlord, but the landlord can refuse to do that.[^32] If they say no, you must pay the rent until your lease ends.
+**Ask your landlord.**[^31] They can allow you to end your lease sooner. They can ask you to pay a fee. It's usually 1 month of [warm rent](/glossary/Warmmiete).
 
-Sometimes, the landlord lets you end your lease sooner if you pay a fee. There is no standard fee, but one month of [warm rent](/glossary/Warmmiete) is common.
+If your landlord refuses to end your lease sooner, you must pay rent until the end of your [notice period](/glossary/Kündigungsfrist).[^32]
 
-### How to tell your landlord
+### How to end your lease
 
-You must send your landlord a termination notice ([*Kündigungsschreiben*](/glossary/K%C3%BCndigungsschreiben)). It must be signed by all tenants, and printed.[^2] **You must send the cancellation letter by [registered mail](/glossary/Einschreibebrief)**. An email is not enough.[^3]
+Send a cancellation letter (*[[Kündigungsschreiben]]*). All the tenants who signed the lease must sign the cancellation letter.
 
 **[Cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html)** (in German) - ImmobilenScout24
+
+Send your cancellation letter by [registered mail](/glossary/Einschreibebrief).[^2] An email is not enough.[^3]
 
 **[How to mail a letter](/guides/mail-a-letter)** - from your computer, without a printer
 
@@ -35,7 +39,7 @@ You must send your landlord a termination notice ([*Kündigungsschreiben*](/glos
 
 After you end your lease, the landlord can show your apartment to other people.
 
-There are a few rules for apartment visits:
+Rules for apartment visits:
 
 - The apartment viewings can only start after you sent a [*Kündigungsschreiben*](/glossary/K%C3%BCndigungsschreiben).[^4]
 - The landlord can't show your apartment when you are not at home.[^5]
@@ -48,7 +52,7 @@ There are a few rules for apartment visits:
 
 ## Move or cancel your contracts
 
-Most German contracts have a cancellation period (*[[Kündigungsfrist]]*). The *[[Kündigungsfrist]]* is usually 1 to 3 months. You can't cancel your contracts just because you move, but there are exceptions. You must cancel most contracts by [registered mail](/glossary/Einschreibebrief), or on the company's website.[^10] You can use websites like [aboalarm](https://www.aboalarm.de/) to write the cancellation letter.
+Most German contracts have a notice period (*[[Kündigungsfrist]]*) of 1 to 3 months. You can't cancel your contracts just because you move, but there are exceptions. You must cancel most contracts by [registered mail](/glossary/Einschreibebrief), or on the company's website.[^10] You can use websites like [aboalarm](https://www.aboalarm.de/) to write the [cancellation letter](/glossary/Kündigungsschreiben).
 
 ### If you stay in Germany
 
