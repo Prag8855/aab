@@ -90,7 +90,7 @@ Don't be afraid to defend your rights. Your landlord can't kick you out or stop 
     - **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
         Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **Legaltech** (*Rechtsdienstleister*)  
-    Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/saving-money-germany#lower-your-rent) and many other things. I reviewed them [here](/guides/wenigermiete-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
+    Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/moving-in#lower-your-rent) and many other things. I reviewed them [here](/guides/wenigermiete-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
 
 **If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^5] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^6] You will probably need to speak German.
 

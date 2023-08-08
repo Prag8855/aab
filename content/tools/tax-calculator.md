@@ -120,13 +120,9 @@ There are 6 tax classes:
 - **Tax class 6**  
     This is the tax class for a second job. If you don't have a tax ID, your employer might put you in tax class 6. You have no tax benefits, and you pay more salary tax.
 
-## How to pay less taxes in Germany
+## How to pay less taxes
 
-There are a few ways to pay less taxes. It depends on your situation.
-
-- Contribute to a pension plan. Your pension contributions are [tax-deductible](/glossary/steuerlich%20absetzbar). It's only taxed when you get your pension. At that time, your income will be lower, so you will pay less taxes. It's a type of [tax deferral](https://en.wikipedia.org/wiki/Tax_deferral).
-- Declare your [tax-deductible](/glossary/steuerlich%20absetzbar) expenses. It makes your taxable income lower, so you pay less income tax. [Tax software](/guides/german-tax-software) and [tax advisors](/guides/english-speaking-steuerberater-berlin) can help you find deductible expenses.
-- Get married. Couples with a big income difference pay less taxes if they are married.
+**[How to save money ➞ Taxes](/guides/saving-money-germany#taxes-and-social-contributions)**
 
 ## Need help?
 

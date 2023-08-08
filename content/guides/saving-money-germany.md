@@ -1,152 +1,106 @@
 ---
-Title: Tips to save money in Germany
-Short_title: Tips to save money
+Title: How to save money in Germany
+Short_title: How to save money
 Description: Different ways to save money in Berlin and Germany, without sacrificing your lifestyle.
 Date_created: 2020-08-27
 ---
 
-This guide shows you different ways to save money in Germany. Most of those tricks do not require you to change your lifestyle.
+This guide shows real ways to save money in Germany.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Change electricity and gas providers every year
+## Taxes and social contributions
 
-- **Total savings:** 100€ to 200€ per year
-- **Effort required:** 30 minutes every year
+Most employees pay 35% to 50% of their income in taxes, health insurance and pension contributions. There are ways to pay less.
 
-Most electricity and gas providers offer a bonus for new customers. In the first year, their service is cheaper. After one year, the price goes up. If you don't cancel your contract, it will be renewed automatically for 1 more year.
+{% include '_blocks/taxCalculator.html' %}
 
-If you switch to a new electricity provider every year, you always get a new customer bonus. If you do this, you will save over 100€ per year. This is not a secret; many Germans do it.[^0] It takes less than 30 minutes to switch. Use [Verivox](/out/verivox-electricity) to find a cheaper electricity provider. Verivox will automatically transfer your contract to the new electricity provider. I tried it, and it works really well. [Check24](/out/check24-electricity) has a similar service.
+### How to pay less [income tax](/glossary/Einkommensteuer)
 
-Each electricity provider has a different cancellation period (*[[Kündigungsfrist]]*). For example, Vattenfall has a *Kündigungsfrist* of 6 weeks. You must cancel your contract at least 6 weeks before it ends. If you don't, the contract is renewed automatically for 1 year. Put a reminder in your calendar every year.
+- **Make a [tax declaration](/glossary/Steuererklärung)**  
+    A tax declaration lets you deduct expenses from your income. This makes your taxable income smaller, so you pay less [income tax](/glossary/Einkommensteuer). Relocation costs, business expenses, commuting, pension payments, insurance and healthcare are [tax-deductible](/glossary/steuerlich%20absetzbar). [Tax software](/guides/german-tax-software) is the cheapest way to make a tax declaration.
+- **Save for retirement**  
+    Pension contributions are [tax-deductible](/glossary/steuerlich%20absetzbar). Contributing to your pension is a type of [tax deferral](https://en.wikipedia.org/wiki/Tax_deferral). It helps you pay less income tax over your lifetime.
 
-You can also do this with [car insurance](/guides/car-insurance-germany). Most car insurance contracts must be cancelled 3 months before they expire.
+### How to pay less for [health insurance](/glossary/Krankenversicherung)
 
-## Pay less for health insurance
+- **Use your EHIC card**  
+    If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance. - [More information](/guides/german-health-insurance#insurance-from-other-eu-countries)
+- **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
+    It's *sometimes* much cheaper. I save over 400€ per month. This is a very complex decision and it can be an expensive mistake. I strongly recommend that you talk to a health insurance broker first.
+- **Choose a different [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to 500€ per year.
+- **Join the [[Künstlersozialkasse]]**  
+    If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
 
-[Health insurance](/glossary/Krankenversicherung) is often your second biggest expense, after rent. There are many ways to pay less for health insurance. My [health insurance calculator](/tools/health-insurance-calculator) shows you what options you have.
+Use my health insurance calculator to see your options. If you need help, [talk to a broker](/guides/german-health-insurance#insurance-brokers). It's free.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
-### Use your EHIC card
+### How to pay less [pension insurance](/glossary/gesetzliche%20Rentenversicherung)
 
-If you come from another EU country, **you can use your European Health Insurance Card (EHIC) in Germany**. If you get healthcare in Germany, your health insurance in your home country pays for it.
+- **Join the Künstlersozialkasse**  
+    If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
+- **Get a pension payments refund**  
+    If you leave Germany, you can sometimes [get your pension payments refunded](/guides/pension-payments-refund). You can get [thousands of euros](/tools/pension-refund-calculator) back.
 
-If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
+### How to pay less [church tax](/glossary/Kirchensteuer)
 
-This only works in certain cases. For example, if you are a student from another EU country, or if you are unemployed.
+- **[Leave the church](https://www.settle-in-berlin.com/stop-paying-german-church-tax/)**  
+    If you leave the church, you stop paying the church tax. You can save a few hundred euros per year.
 
-**[How to use insurance from another EU country ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
+## Housing
 
-### Switch to private health insurance
+### Rent
 
-- **Total savings:** 100€ to 500€ per month
-- **Effort required:** fill a few forms, take a medical exam, wait up to 3 months
+Rent is the biggest expense for most people. There are ways to pay less rent:
 
-Public health insurance is usually the best option, but in [some specific cases](/guides/german-health-insurance), private health insurance makes more sense. For example, if you are a freelancer with a high income, you can save up to 500€ per month with private health insurance, *and* you get better coverage. This happened to me. My health insurance broker ([Feather](/out/feather)) helped me find private health insurance. I save over 400€ per month.
+- **Lower your rent**  
+    If your rent is above the legal limit, you can get it reduced. Use a [rent limit calculator](/out/conny-mietpreisbremse-calculator) to check if you pay too much. [Conny](/out/conny-mietpreisbremse), a [tenant association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin) can reduce your rent. You can save a few hundred euros per month.
+- **Know your rights**  
+    If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a lawyer or a *[[Mieterverein]]*.
+- **Move somewhere else**  
+    [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save 400€ per month. Finding a new apartment can be extremely hard, but if you already have one, you can take your time.
 
-**This is not a simple decision.** Private health insurance is not always a better option. This decision has serious long term consequences. Talk to a health insurance broker first. Their help is free.
+### Utilities
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+- **Change electricity and gas providers**  
+    Energy companies give rebates to new customers. When the rebate expires, switch to another company.[^0] Do this every year before your contract renews. You can save around 100€ to 200€ per year. Use [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity) to find another energy company.
+- **Stop paying the TV tax**  
+    When you receive financial aid (*[[Bürgergeld]]* or *[[BAföG]]*), fill [this form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_oder_ermaessigung_beantragen/index_ger.html) to stop paying the TV tax.
 
-Public health insurance has a 3 month *[[Kündigungsfrist]]*. If you decide to switch to private health insurance, you must stay another 3 months on public health insurance.
+## Transportation
 
-**[How private health insurance works ➞](/guides/german-health-insurance#private-health-insurance)**
+- **[Get the Deutschland Ticket](/guides/deutschland-ticket)**  
+    It's the cheapest monthly ticket, and it lets you use public transit everywhere in Germany. This is the best option for most people.
+- **Get a yearly ticket**  
+    If you can't get the Deutschland Ticket, get a yearly subscription. Most tickets are cheaper if you pay yearly.
+- **Get a student ticket**  
+    If you are a student or a trainee, get a student ticket. It's usually included in your school fees.
+- **Don't drive**  
+    In most cities, [you don't need a car](/guides/buying-used-car-in-germany#do-you-need-a-car). [Buy a bicycle](/guides/bicycle-in-berlin) or [use public transit](/guides/public-transit) instead. When you really need to drive, [rent a car](/guides/public-transit#rent-a-car).
+- **Save on car insurance**  
+    If you drive a car, there are many [ways to pay less for car insurance](/guides/car-insurance-germany#how-to-pay-less-for-german-car-insurance). You can save a few euros per month.
 
-### Join the [Künstlersozialkasse (KSK)](/glossary/Künstlersozialkasse)
+## Finances
 
-- **Total savings:** 0€, but you get a free public pension
-- **Effort required:** 3-6 months of waiting and a lot of paperwork
+- **Choose a bank with low fees**  
+    Find a bank that has no monthly fee and no ATM fees. [N26](/out/n26), [ING](/out/ing) and [DKB](/out/dkb) are the most popular ones, but there are [many other options](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees).
+- **Combine your insurance policies**  
+    If you get all your insurances from the same company, you sometimes pay less. Combined [liability](/glossary/Haftpflichtversicherung) and [household insurance](/glossary/Hausratversicherung) can be cheaper.[^2] Don't [legal insurance](/glossary/Rechtsschutzversicherung) from the same company, in case you need to sue the insurance company.[^3]
+- **Talk to a financial advisor**  
+    If you have enough money to invest and save for retirement, talk to a financial advisor. Be careful; many of them are really bad. Choose one that works with immigrants, because your needs are different. My financial advisor is Seamus at [Horizon65](/out/horizon65).
 
-If you are a freelance artist, publicist or art teacher, the *[[Künstlersozialkasse]]* (KSK) can pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). You keep the same health insurance, and the same coverage, but you pay half the price.
+## Other tips
 
-It takes time to get accepted, but it's really worth it.
-
-**[How to join the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
-
-## Lower your rent
-
-- **Total savings:** 0 to 300€ per month
-- **Effort required:** [fill an online form](/out/conny-mietpreisbremse-calculator), sign a *[[Vollmacht]]*, and wait a few months
-
-You might be paying too much rent. The *[[Mietpreisbremse]]* limits how much your landlord can charge for rent. If your rent is above the legal limit, you can [hire a lawyer](/guides/english-speaking-lawyers-berlin) and get it reduced.
-
-[Conny](/out/conny-mietpreisbremse) is a company that helps people reduce their rent. [My review of Conny](/guides/wenigermiete-review) explains how it works. Your [tenant's association](/glossary/Mieterverein) can also help you with this.
-
-**[How to check if your rent is too high ➞](/guides/moving-in#lower-your-rent)**
-
-## Choose a bank with low fees
-
-- **Total savings:** 10€ to 30€ per month
-- **Effort required:** 1 day
-
-Some banks charge a monthly fee to keep your money. It's usually around 10€ per month. Some banks also charge you a fee when you use another bank's ATM. There are many banks with no monthly fees, and no ATM fees. [N26](/out/n26), [ING](/out/ing) and [DKB](/out/dkb) are the most popular ones, but there are [many other options](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees).
-
-**[German banks with no monthly fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
-
-## Get a yearly public transit pass
-
-- **Total savings:** 250€ to 500€ per year
-- **Effort required:** 1 hour
-
-There are 3 ways to save money on public transit passes:
-
-- **Get a subscription**  
-    The pass is renewed automatically, and the money is taken from your bank account. You must cancel the subscription in advance.
-- **Buy a yearly pass**  
-    It's cheaper if you pay once per year, instead of every month.
-- **Get a 10-Uhr-Karte**  
-    The 10-Uhr-Karte is cheaper, but it does not work between 3AM and 10AM on weekdays.
-
-### Price comparison
-
-| Type | Cost per month | Cost per year |
-|---|--:|--:|
-| Monthly pass, one-time purchase | 86€ | 1,032€ |
-| Monthly pass, with subscription | 63€ | 761€ |
-| Yearly pass, with subscription | 61€ | 728€ |
-| 10-Uhr-Karte, one-time purchase | 63€ | 756€ |
-| 10-Uhr-Karte, monthly subscription | 45€ | 547€ |
-| 10-Uhr-Karte, yearly subscription | 44€ | 531€ |
-
-Source: [Ticket prices](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets) - January 2023
-
-## Move to a cheaper area
-
-- **Total savings:** 100€ to 400€ per month
-- **Effort required:** a few weeks
-
-You do not need to live in the centre of Berlin. There are many great neighbourhoods just outside the *[[Ringbahn]]*. I moved from Mitte to Pankow, and I save 400€ per month on rent. That's almost 5,000€ per year!
-
-Moving can cost a lot of money. You might need to repaint the old apartment, rent a moving truck, buy boxes, and buy new appliances. My last move cost me around 500€.
-
-**[How to find an apartment in Berlin ➞](/guides/find-a-flat-in-berlin)**
-
-## Combine your insurance policies
-
-- **Total savings:** varies
-- **Effort required:** varies
-
-If you get all of your insurances from the same company, you usually pay less.[^1] Some companies offer combined insurance policies that include [liability](/glossary/Haftpflichtversicherung) and [household insurance](/glossary/Hausratversicherung).[^2]
-
-There is one exception: legal insurance (*[[Rechtsschutzversicherung]]*). Do not get your legal insurance from the same company as your other insurances. If you have a problem with your other insurances, you will sue the same company that sold you legal insurance. They might refuse to help you.[^3]
-
-**[How to choose legal insurance ➞](/guides/legal-insurance)**
-
-## Pay yearly, not monthly
-
-- **Total savings:** 10€ to 100€ per year
-- **Effort required:** none
-
-[Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung) and most memberships are cheaper if you pay 1 year in advance, instead of every month.[^4] You get the same service, but you pay less.
-
-**Related guides:**
-
-- [How to choose liability insurance](/guides/haftpflichtversicherung)
-- [Car insurance in Germany](/guides/car-insurance-germany)
+- **Pay yearly, not monthly**  
+    [Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung), public transit and other subscriptions are cheaper if you pay yearly.[^4]
+- **Compare prices often**  
+    Every year, before your contract renews, look for a cheaper option. You can get a better deal for electricity, gas, insurance, internet and mobile phone service. [Tarifcheck](/out/tarifcheck), [Check24](/out/check24) and [Verivox](/out/verivox-cellphone) are the main price comparison websites. They don't show you all options.
+- **Negotiate a better price**  
+    When your internet contract is about to expire, call the company and ask for a better price. They will renew your contract, but give you a better plan. Vodafone gave me a free upgrade from 100 Mbit/s to 300 Mbit/s.
 
 [^0]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/i8myjh/krankenkassen_wechseln_wie_den_stromanbieter/g19fj98/), [reddit.com/r/de](https://old.reddit.com/r/de/comments/4zaemf/welchen_gas_und_stromanbieter_empfiehlt_de/)
-[^1]: [huk24.de](https://www.huk24.de/hausratversicherung/ratgeber-wohnen/haftpflicht-und-hausratversicherung-kombi), [allianz.de](https://www.allianz.de/recht-und-eigentum/privatschutz/)
 [^2]: [test.de](https://www.test.de/Hausrat-und-Privathaftpflichtschutz-Was-taugt-die-neue-Kombiversicherung-von-Lemonade-5494627-0/#:~:text=lemonade%20bietet%20guns%C2%ADtigen%20schutz)
 [^3]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7lieb1/rechtsschutzversicherung/drp5rt0/)
 [^4]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891#:~:text=meist%20ist%20es%20gunstiger%2C%20den%20versicherungsbeitrag%20einmal%20im%20jahr%20zu%20zahlen), [Finanztip](https://www.finanztip.de/kfz-versicherung/ratenzahlung/#c32512)

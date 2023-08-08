@@ -170,7 +170,7 @@ You can't own a vehicle registered in Germany if you don't live in Germany.[^14]
 
 ### Other services
 
-When you deregister, you get an *[[Abmeldebescheinigung]]*. You can use this certificate to [end your cellphone, internet and electricity contracts](/guides/moving-out#move-or-cancel-your-contracts) without fees.[^16]
+When you deregister, you get an *[[Abmeldebescheinigung]]*. You can use this certificate to [end your cellphone, internet and electricity contracts](/guides/moving-out#cancel-or-move-your-contracts) without fees.[^16]
 
 If you own a business in Germany, you might also need to deregister your business,[^16] or transfer it to another person.
 

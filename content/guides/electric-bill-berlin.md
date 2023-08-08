@@ -51,7 +51,7 @@ Electricity companies charge a base price, plus a fee per kWh. For example, you 
 
 ## How to save money
 
-- **[Switch to another electricity company](/guides/saving-money-germany#change-electricity-and-gas-providers-every-year)** every 1 or 2 years.[^2] You get a special price for 1 or 2 years. When the special price ends, switch to another company. Add a reminder in your calendar. [Verivox](/out/verivox-electricity) automates the switch; you don't have to do anything.
+- **Switch to another electricity company** every 1 or 2 years.[^2] You get a special price for 1 or 2 years. When the special price ends, switch to another company. Add a reminder in your calendar. [Verivox](/out/verivox-electricity) automates the switch; you don't have to do anything.
 - **Compare prices** with [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity)
 
 **[How to save money in Germany ➞](/guides/saving-money-germany)**

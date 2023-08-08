@@ -116,7 +116,7 @@ Your warm rent (*[[Warmmiete]]*) usually includes central heating and hot water.
 
 You must choose an electricity provider and sign an electricity contract. Compare options with [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity). If you don't speak German, [Ostrom](/out/ostrom) speaks English.
 
-Most providers offer a lower price for the first year or two, then the price goes up. If you switch providers every year or two, you always get the lowest price. You can save a lot of money. - [More information](/guides/saving-money-germany#change-electricity-and-gas-providers-every-year).
+Most providers offer a lower price for the first year or two, then the price goes up. If you switch providers every year or two, you always get the lowest price. You can save a lot of money this way.
 
 If you already have an electricity contract, you can it transfer to your new address, usually for free. If you can cancel your contract, try to get a lower price from another provider.
 

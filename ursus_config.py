@@ -396,6 +396,7 @@ config.context_globals = {
     # ==============================================================================
 
     # € - monitored
+    "BVG_AB_TICKET": 3.20,  # TODO: Not monitored
     "BVG_ABC_TICKET": 3.80,
     "BVG_FINE": 60,
     "BVG_REDUCED_FINE": 7,
