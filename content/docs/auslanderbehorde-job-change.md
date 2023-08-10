@@ -13,7 +13,7 @@ If you have a [residence permit](/glossary/Aufenthaltstitel), and you [quit or l
 
 **[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
-If you have [permanent residence](/glossary/Niederlassungserlaubnis), EU or [[EEA]] citizenship, you don't need to do this.
+If you have [permanent residence](/glossary/Niederlassungserlaubnis), or [EU](/glossary/European%20Union) or [[EEA]] citizenship, you don't need to do this.
 
 ## Letter template
 
