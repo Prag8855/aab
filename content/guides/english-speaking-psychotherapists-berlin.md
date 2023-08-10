@@ -100,15 +100,33 @@ This guide explains:
 
 ## Psychiatrist, psychotherapist or counsellor?
 
-**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. Some can also give therapy.[^1]
+### Psychiatrists
+
+Psychiatrists solve mental health problems with medical treatments. They are **doctors who studied medicine**.[^1]
+
+They can diagnose mental health problems, prescribe medication and give therapy. Many accept [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
 **[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
-**Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems and give therapy. They can't prescribe medication.[^2]
+### Psychotherapists
 
-**Counsellors** have no specific qualifications. There are no standards for being a counsellor, because it's not a protected title.[^4] They can't diagnose mental health problems or give therapy. Many therapists who move to Germany call themselves counsellors because their diplomas are not recognised in Germany. - [More information](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/)
+Psychotherapists solve mental health problems with therapy.[^2] They **studied psychotherapy for 3 to 5 years**.[^3]
 
-**Alternative practitioner for psychotherapy** (*Heilpraktiker für Psychotherapie*) do not have the same qualifications or audits as psychotherapists. Many of them were licenced as psychotherapists in other countries before they moved to Germany. They can't diagnose mental health problems or treat addictions.
+They can diagnose mental health problems, give therapy and coach people. Some accept public health insurance, but most don't. They can't prescribe medication.
+
+### Alternative practitioners
+
+Alternative practitioners for psychotherapy (*Heilpraktiker für Psychotherapie*) have **varied qualifications and training**. Some were licenced psychotherapists in another country. Others have no therapy training, and only passed a 60 minute exam.[^7]
+
+They can diagnose mental health problems, give therapy and coach people. They can't prescribe medication or call themselves psychotherapists. They are usually "therapists". Look for words like "Heilpraktikergesetz", "HeilprG" or "HPG" in their title.[^8]
+
+They are not covered by public health insurance.[^6]
+
+### Counsellors
+
+Counsellors have **no specific qualifications**. It's not a protected title, so anyone can be a counsellor.[^4] Many therapists who move to Germany become counsellors because their diplomas are not recognised in Germany.[^5]
+
+They can only coach and advise people. They can't diagnose mental health problems, give therapy or prescribe medication. They are not covered by public health insurance.
 
 ## How hard is it to find a psychotherapist?
 
@@ -162,5 +180,10 @@ If you need psychological help *right now*, **call the [Berliner Krisendienst](h
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
 [^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)
-[^2]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [karriere.de](https://www.karriere.de/studium/unterschied-psychologe-psychotherapeut-psychiater/)
+[^2]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut)
 [^4]: [complicated.life](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/)
+[^3]: [complicated.life](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/)
+[^5]: [complicated.life](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/#:~:text=therefore%2C%20mental%20health%20professionals%20who%20move%20to%20berlin), [vfp.de](https://www.vfp.de/magazine/freie-psychotherapie/alle-ausgaben/heft-04-2008/stoerungen-mit-krankheitswert-was-darf-der-heilpraktiker-fuer-psychotherapie-behandeln#:~:text=eine%20kompetenzhierarchie)
+[^6]: [DHS Ingolstadt](http://die-heilpraktiker-schule-ingolstadt.de/wp-content/uploads/DHS-Heilpraktiker-Psychotherapie.pdf), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/psychotherapie-heilprg/#:~:text=diese%20therapeuten%20konnen%20ihre%20leistungen%20nicht)
+[^7]: [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/psychotherapie-heilprg/#:~:text=in%20dieser%20gruppe%20gibt%20es%20sehr%20gro%C3%9Fe%20unterschiede), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/psychotherapie-heilprg/#:~:text=den%20beruf%20des%20heilpraktikers%20auszuuben%2C%20sind%20weiterhin%20ein%20hauptschulabschluss%2C%20ein%20mindestalter), [heilpraktikerpsychotherapie.eu](https://www.heilpraktikerpsychotherapie.eu/anleitung-zum-heilpraktiker-werden), [complicated.life](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/#:~:text=they%20have%20done%20the%20heilpraktiker%20fur%20psychotherapie%20exam), [praxis-zeller.de](https://www.praxis-zeller.de/faqs_psycho.htm#:~:text=mussen%20keinerlei%20grundberuf%20oder%20staatliche%20geregelte%20fachausbildung%20nachweisen)
+[^8]: [complicated.life](https://blog.complicated.life/a-practitioners-guide-to-understanding-what-psychotherapy-and-counselling-means-to-your-work-in-private-practice/#:~:text=caution%20with%20use%20of%20titles%20and%20terms)
