@@ -76,7 +76,7 @@ Check if your devices work with German power sockets. Sometimes you just need a 
 
 You need a bank account to get paid, and to pay your rent. You can have a bank account in Germany, or anywhere in the European Union.
 
-Some banks don't you open an account without a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). Some banks might refuse your foreign passport. Use my [list of expat-friendly banks](/guides/first-bank-account-in-germany#german-banks-for-expats) to find a good bank.
+Some banks require a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung) to open an account. Some banks might refuse your foreign passport. Use my [list of expat-friendly banks](/guides/first-bank-account-in-germany#german-banks-for-expats) to find a good bank.
 
 **[How to choose a bank ➞](/guides/first-bank-account-in-germany)**
 
@@ -89,7 +89,7 @@ You can buy get a SIM card from...
 - Vodafone, Telekom and O2 stores
 - Saturn and MediaMarkt
 
-To activate a SIM card, you need your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung).[^1] If you did not register your address, the employee will use your temporary address.[^2]
+To activate a SIM card, you need your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung).[^1] If you did not [register your address](/glossary/Anmeldung) yet, the employee might use your temporary address.[^2]
 
 You can use a SIM card from another [EU](/glossary/European%20Union) country. There is no extra fee. After some time, you must switch to a German mobile plan. Your foreign plan will stop working, unless you return to that country.[^0]
 
