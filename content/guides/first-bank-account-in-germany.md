@@ -37,7 +37,7 @@ An expat-friendly bank lets you open an account anyway.
 - **[Commerzbank](/out/commerzbank)** - They have basic online banking in English. The rest is in German. If you open an account in person, they accept most passport types.[^5] You must have a [residence permit](/glossary/Aufenthaltstitel), and it must be valid for at least 6 months.[^6]
 - **[Deutsche Bank](/out/deutsche-bank)** - Online banking, customer service and some documents are in English.[^7] The rest is in German. If you open an account in person, they accept most passport types.[^8] They offer [blocking accounts](/glossary/Sperrkonto) for foreign students.
 - **[Monese](/out/monese)** - They speak 14 languages. They don't ask for an *[[Anmeldung]]*. You get a Belgian [[IBAN]].
-- **[N26](/out/n26)** - They speak 5 languages.[^9] They accept [many passport types](/out/n26-supported-passports), but they sometimes ask for a [residence permit](/glossary/Aufenthaltstitel).[^10] They don't ask for an *[[Anmeldung]]*. If you open an account from Germany, you get a German [[IBAN]].[^11] You need a German address to receive your bank card, but you don't need a [registered address](/glossary/Anmeldung).
+- **[N26](/out/n26)** - They speak 5 languages.[^9] They accept [many passport types](/out/n26-supported-passports). You need a plastic [residence permit](/glossary/Aufenthaltstitel) that is valid for at least 1 year.[^10] They don't ask for an *[[Anmeldung]]*. If you open an account from Germany, you get a German [[IBAN]].[^11] You need a German address to receive your bank card, but you don't need a [registered address](/glossary/Anmeldung).
 - **[Revolut](/out/revolut)** - They speak 24 languages.[^12] They don't ask for an *[[Anmeldung]]*.
 - **[Wise](/out/transferwise)** - They speak 14 languages. They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). They don't ask for an *[[Anmeldung]]*. You might get a Belgian [[IBAN]].
 
@@ -216,7 +216,7 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
 [^8]: [reddit.com/r/Finanzen](https://old.reddit.com/r/Finanzen/comments/9rdnxo/which_online_bank_allow_indian_citizen_living_in/e8wsprl/), [Screenshot](/images/Screenshot-2021-10-11-at-10.35.11.png), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/p8u1gt/deleted_by_user/)
 [^9]: [Twitter](https://twitter.com/n26/status/1020293086730248194)
-[^10]: [allaboutberlin.com](/glossary/Aufenthaltstitel)
+[^10]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf?s_id=173058848)
 [^11]: [support.n26.com](https://support.n26.com/en-eu/account-and-personal-details/personal-information-and-data/how-to-find-my-iban-or-account-number)
 [^12]: [blog.revolut.com](https://blog.revolut.com/revolut-is-now-available-in-24-languages/)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
