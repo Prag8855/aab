@@ -291,7 +291,7 @@ You go to the *Ausländerbehörde* to give your documents. You will not get your
 
 **[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
-If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply for a Blue Card, it's valid for up to 4 years.
+If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply for a Blue Card, it's valid for up to 4 years. If you have a limited work contract, your Blue Card is valid until the end of your contract, plus 3 months.[^50]
 
 ### Step 12: Start working in Germany
 
@@ -500,3 +500,4 @@ Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berli
 [^33]: [bmi.bund.de](https://www.bmi.bund.de/EN/topics/migration/immigration/labour-migration/generell-information/general-information-node.html)
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (Jule 2023)
 [^48]: [Berlin.de](https://service.berlin.de/dienstleistung/329328/en/#:~:text=the%20salary%20must%20correspond%20to%20at%20least%2055%20per%20cent%20of%20the%20annual%20calculation%20limit)
+[^50]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)

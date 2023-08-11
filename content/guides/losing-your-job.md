@@ -176,8 +176,10 @@ When you [find a new job](/guides/find-a-job-in-berlin), you might need the *Aus
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^4]
 - **If you had <u>any</u> residence permit for at least 3 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
+- **If you have a Blue Card, and your income is over {{BLUE_CARD_MIN_INCOME|cur}} per year**  
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^38] It could be different outside of Berlin.
 - **Everyone else**  
-    You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). This can take a few months.
+    You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). This can take a few months.[^39] You must basically apply for a new work visa or Blue Card.[^37]
 
 If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. You can get a language course visa and stay up to 12 months longer.[^29] Your spouse can get a work visa and sponsor your family reunion visa.[^35]
 
@@ -319,3 +321,6 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^36]: [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/)
+[^37]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
+[^38]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023), [VAB, section 18b.2.4.1.](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^39]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)

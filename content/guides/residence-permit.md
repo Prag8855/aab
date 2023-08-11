@@ -90,7 +90,7 @@ These residence permits sometimes allow you to freelance:
 You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.
 
 - **At the [[Ausländerbehörde]] in Germany**  
-    If you apply in Germany, you get a residence permit. Usually, it takes 2 to 3 months to get the residence permit.[^8] During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
+    If you apply in Germany, you get a residence permit. Usually, it takes 2 to 3 months, but it can take longer.[^8] During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
     - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
     - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  
