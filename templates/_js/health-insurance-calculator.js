@@ -1,6 +1,11 @@
 {% include '_js/constants.js' %}
 {% js %}
 
+function getBoundedMonthlyIncome(monthlyIncome){
+	// The income limited by the min and max health insurance contributions
+	return Math.min(healthInsurance.maxMonthlyIncome, Math.max(monthlyIncome, healthInsurance.minMonthlyIncome));
+}
+
 function getInsurerOptions(customZusatzbeitrag){
 	const allInsurers = Object.entries(healthInsurance.companies);
 	if(customZusatzbeitrag !== undefined) {
@@ -115,7 +120,71 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+	const out = {
+		flags: new Set(['private']),
+		tarif: 'selfEmployed',
+	};
+
+	const adjustedIncome = getBoundedMonthlyIncome(monthlyIncome);
+
+	/***************************************************
+	* Base contribution
+	***************************************************/
+
+	out.baseContribution = {};
+	out.baseContribution.totalRate = healthInsurance.selfEmployedTarif;
+	out.baseContribution.totalContribution = roundCurrency(healthInsurance.selfEmployedTarif * adjustedIncome);
+	out.baseContribution.employerRate = 0;
+	out.baseContribution.employerContribution = 0;
+	out.baseContribution.personalRate = out.baseContribution.totalRate;
+	out.baseContribution.personalContribution = out.baseContribution.totalContribution;
+
+
+	/***************************************************
+	* Pflegeversicherung
+	***************************************************/
+
+	out.pflegeversicherung = {};
+	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.totalRate);
+	out.pflegeversicherung.employerRate = 0;
+	out.pflegeversicherung.employerContribution = 0;
+	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate;
+	out.pflegeversicherung.personalContribution = out.pflegeversicherung.totalContribution;
+
+
+	/***************************************************
+	* Zusatzbeitrag
+	***************************************************/
+
+	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+		options[krankenkasseKey] = {
+			zusatzbeitrag: {}
+		};
+
+		options[krankenkasseKey].zusatzbeitrag.totalRate = krankenkasse.zusatzbeitrag;
+		options[krankenkasseKey].zusatzbeitrag.totalContribution = roundCurrency(adjustedIncome * options[krankenkasseKey].zusatzbeitrag.totalRate);
+		options[krankenkasseKey].zusatzbeitrag.employerRate = 0;
+		options[krankenkasseKey].zusatzbeitrag.employerContribution = 0;
+		options[krankenkasseKey].zusatzbeitrag.personalRate = options[krankenkasseKey].zusatzbeitrag.totalRate;
+		options[krankenkasseKey].zusatzbeitrag.personalContribution = options[krankenkasseKey].zusatzbeitrag.totalContribution;
+
+		const finalTotal = field => out.baseContribution[field] + out.pflegeversicherung[field] + options[krankenkasseKey].zusatzbeitrag[field];
+		options[krankenkasseKey].total = {
+			totalRate: finalTotal('totalRate'),
+			employerRate: finalTotal('employerRate'),
+			personalRate: finalTotal('personalRate'),
+			totalContribution: roundCurrency(finalTotal('totalContribution')),
+			employerContribution: roundCurrency(finalTotal('employerContribution')),
+			personalContribution: roundCurrency(finalTotal('personalContribution')),
+		}
+
+		return options;
+	}, {});
+
+	return out;
+}
 
 function calculateHealthInsuranceForStudent(age, childrenCount, customZusatzbeitrag){
 	const out = {
@@ -153,6 +222,7 @@ function calculateHealthInsuranceForStudent(age, childrenCount, customZusatzbeit
 	out.pflegeversicherung.employerContribution = 0;
 	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
 	out.pflegeversicherung.personalContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.employerContribution);
+
 
 	/***************************************************
 	* Zusatzbeitrag
@@ -327,7 +397,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 			flags.add('minijob');
 		}
 		else if(monthlyIncome <= healthInsurance.maxMidijobIncome) {
-			return calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag)
+			return calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag);
 		}
 	}
 
@@ -358,6 +428,11 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	// Total rate
 	if (age > pflegeversicherung.defaultTarifMaxAge && !hasChildren) {
 		flags.add('pflegeversicherung-surcharge');
+	}
+
+
+	if(tarif === 'selfEmployed'){
+		output = calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag);
 	}
 
 	if(output){
