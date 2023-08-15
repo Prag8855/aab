@@ -1,5 +1,120 @@
 {% include '_js/constants.js' %}
 {% js %}
+
+function getInsurerOptions(customZusatzbeitrag){
+	const allInsurers = Object.entries(healthInsurance.companies);
+	if(customZusatzbeitrag !== undefined) {
+		// Add an extra option with the user-specified Zusatzbeitrag
+		allInsurers.push([
+			'custom',
+			{
+				name: 'Other health insurer',
+				zusatzbeitrag: customZusatzbeitrag,
+			}
+		]);
+	}
+	return allInsurers;
+}
+
+function calculatePflegeversicherungRate(age, childrenCount){
+	if (age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
+		return pflegeversicherung.surchargeTarif;
+	}
+	return pflegeversicherung.defaultTarif;
+}
+
+function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+	const out = {
+		flags: new Set(['midijob']),
+		tarif: 'midijob',
+	};
+
+	/***************************************************
+	* Monthly income
+	* According to Gleitzone formula: §20 Abs. 2a SGB VI
+	***************************************************/
+
+	const adjustedIncomeEmployer = (
+		healthInsurance.factorF * taxes.maxMinijobIncome
+		+ (
+			(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
+			- (
+				(
+					taxes.maxMinijobIncome
+					/ (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome)
+				)
+				* healthInsurance.factorF
+			)
+		) * (monthlyIncome - taxes.maxMinijobIncome)
+	);
+
+	const adjustedIncomeEmployee = (
+		(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
+		* (monthlyIncome - taxes.maxMinijobIncome)
+	);
+
+	/***************************************************
+	* Base contribution
+	***************************************************/
+
+	out.baseContribution = {};
+	out.baseContribution.totalRate = healthInsurance.defaultTarif;
+	out.baseContribution.totalContribution = roundCurrency(adjustedIncomeEmployer * out.baseContribution.totalRate);
+
+	out.baseContribution.employerRate = healthInsurance.defaultTarif / 2;
+	out.baseContribution.personalRate = out.baseContribution.totalRate - out.baseContribution.employerRate;
+	out.baseContribution.personalContribution = roundCurrency(adjustedIncomeEmployee * out.baseContribution.personalRate);
+	out.baseContribution.employerContribution = roundCurrency(out.baseContribution.totalContribution - out.baseContribution.personalContribution);
+
+
+	/***************************************************
+	* Pflegeversicherung
+	***************************************************/
+
+	out.pflegeversicherung = {};
+	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncomeEmployer * out.pflegeversicherung.totalRate);
+
+	out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
+	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
+	out.pflegeversicherung.personalContribution = roundCurrency(
+		(out.pflegeversicherung.totalRate - pflegeversicherung.defaultTarif) * adjustedIncomeEmployer
+		+ out.pflegeversicherung.personalRate * adjustedIncomeEmployee // The childless surcharge is not covered by the employer
+	);
+	out.pflegeversicherung.employerContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.personalContribution);
+
+
+	/***************************************************
+	* Zusatzbeitrag
+	***************************************************/
+
+	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+		options[krankenkasseKey] = {
+			zusatzbeitrag: {}
+		};
+		options[krankenkasseKey].zusatzbeitrag.totalContribution = roundCurrency(krankenkasse.zusatzbeitrag * adjustedIncomeEmployer);
+		options[krankenkasseKey].zusatzbeitrag.employerRate = krankenkasse.zusatzbeitrag / 2;
+		options[krankenkasseKey].zusatzbeitrag.personalRate = krankenkasse.zusatzbeitrag / 2;
+		options[krankenkasseKey].zusatzbeitrag.personalContribution = roundCurrency(adjustedIncomeEmployee * options[krankenkasseKey].zusatzbeitrag.personalRate);
+		options[krankenkasseKey].zusatzbeitrag.employerContribution = roundCurrency(options[krankenkasseKey].zusatzbeitrag.totalContribution - options[krankenkasseKey].zusatzbeitrag.personalContribution);
+
+
+		const finalTotal = field => out.baseContribution[field] + out.pflegeversicherung[field] + options[krankenkasseKey].zusatzbeitrag[field];
+		options[krankenkasseKey].total = {
+			totalRate: finalTotal('totalRate'),
+			employerRate: finalTotal('employerRate'),
+			personalRate: finalTotal('personalRate'),
+			totalContribution: roundCurrency(finalTotal('totalContribution')),
+			employerContribution: roundCurrency(finalTotal('employerContribution')),
+			personalContribution: roundCurrency(finalTotal('personalContribution')),
+		}
+
+		return options;
+	}, {});
+
+	return out;
+}
+
 function calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjustedMonthlyIncomeEmployee, age, hasChildren, healthInsuranceTarif){
 	/***************************************************
 	* Pflegeversicherung
@@ -36,16 +151,6 @@ function calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjus
 		output.personalRate = 0;
 		output.personalContribution = 0;
 	}
-	else if(healthInsuranceTarif === 'midijob') {
-		const totalContribution = adjustedMonthlyIncome * output.totalRate;
-		output.employerRate = pflegeversicherung.employerTarif;
-		output.personalRate = output.totalRate - output.employerRate
-		output.personalContribution = (
-			(output.totalRate - pflegeversicherung.defaultTarif) * adjustedMonthlyIncome
-			+ output.personalRate * adjustedMonthlyIncomeEmployee // The childless surcharge is not covered by the employer
-		);
-		output.employerContribution = totalContribution - output.personalContribution;
-	}
 	else if(healthInsuranceTarif === 'selfPay' || healthInsuranceTarif === 'selfEmployed') {
 		output.employerRate = 0;
 		output.employerContribution = 0;
@@ -73,7 +178,7 @@ function calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjus
 	return output;
 }
 
-function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, hasChildren, zusatzbeitrag}) {
+function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, hasChildren, customZusatzbeitrag}) {
 	const isEmployee = occupation == 'employee';
 	const isSelfEmployed = occupation == 'selfEmployed';
 	const isWorkingStudent = occupation == 'studentEmployee';
@@ -83,6 +188,8 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	const isAzubi = occupation == 'azubi';
 
 	const hoursWorked = 20; // TODO: Accept different values
+
+	const childrenCount = hasChildren ? 1 : 0;
 
 	/***************************************************
 	* Tarif and flags
@@ -148,8 +255,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 			flags.add('minijob');
 		}
 		else if(monthlyIncome <= healthInsurance.maxMidijobIncome) {
-			tarif = 'midijob';
-			flags.add('midijob');
+			return calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag)
 		}
 	}
 
@@ -190,27 +296,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	else if(tarif === 'employee' || tarif === 'selfPay' || tarif === 'selfEmployed') {
 		adjustedMonthlyIncome = Math.min(healthInsurance.maxMonthlyIncome, Math.max(monthlyIncome, healthInsurance.minMonthlyIncome));
 	}
-	else if(tarif === 'midijob') {
-		// Gleitzone formula - §20 Abs. 2a SGB VI
-		adjustedMonthlyIncome = (
-			healthInsurance.factorF * taxes.maxMinijobIncome
-			+ (
-				(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
-				- (
-					(
-						taxes.maxMinijobIncome
-						/ (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome)
-					)
-					* healthInsurance.factorF
-				)
-			) * (monthlyIncome - taxes.maxMinijobIncome)
-		)
-
-		adjustedMonthlyIncomeEmployee = (
-			(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
-			* (monthlyIncome - taxes.maxMinijobIncome)
-		)
-	}
 
 	/***************************************************
 	* Base contribution
@@ -241,14 +326,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		baseContributionValues.employerContribution = baseContributionValues.totalContribution;
 		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
 		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
-	}
-	else if(tarif === 'midijob') {
-		// The employer contribution is calculated with the actual income, not the adjusted Gleitzone income
-		const totalContribution = baseContributionValues.totalRate * adjustedMonthlyIncome;
-		baseContributionValues.employerRate = healthInsurance.defaultTarif / 2;
-		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
-		baseContributionValues.personalContribution = adjustedMonthlyIncomeEmployee * baseContributionValues.personalRate
-		baseContributionValues.employerContribution = totalContribution - baseContributionValues.personalContribution;
 	}
 	else if(tarif === 'selfPay' || tarif === 'selfEmployed') {
 		baseContributionValues.employerRate = 0;
@@ -281,11 +358,11 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	* Public health insurance options + Zusatzbeitrag
 	***************************************************/
 	const allInsurers = Object.entries(healthInsurance.companies);
-	if(zusatzbeitrag !== undefined) {
+	if(customZusatzbeitrag !== undefined) {
 		// Create an extra option with the user-specified Zusatzbeitrag
 		allInsurers.push([
 			'custom',
-			{ name: 'Other health insurer', zusatzbeitrag: zusatzbeitrag, }
+			{ name: 'Other health insurer', zusatzbeitrag: customZusatzbeitrag, }
 		]);
 	}
 	const insurerOptions = allInsurers.reduce((output, [krankenkasseKey, krankenkasse]) => {
@@ -319,13 +396,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 			}
 			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
 			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
-		}
-		else if(tarif === 'midijob') {
-			const totalContribution = krankenkasse.zusatzbeitrag * adjustedMonthlyIncome;
-			zusatzbeitragValues.employerRate = krankenkasse.zusatzbeitrag / 2;
-			zusatzbeitragValues.personalRate = krankenkasse.zusatzbeitrag / 2;
-			zusatzbeitragValues.personalContribution = adjustedMonthlyIncomeEmployee * zusatzbeitragValues.personalRate
-			zusatzbeitragValues.employerContribution = totalContribution - zusatzbeitragValues.personalContribution;
 		}
 		else if(tarif === 'employee') {
 			zusatzbeitragValues.employerRate = krankenkasse.zusatzbeitrag / 2;
