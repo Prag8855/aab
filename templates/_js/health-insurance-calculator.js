@@ -115,6 +115,77 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
+function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+
+function calculateHealthInsuranceForStudent(age, childrenCount, customZusatzbeitrag){
+	const out = {
+		flags: new Set(['student', 'private']),
+		tarif: 'student',
+	};
+
+	/***************************************************
+	* Base contribution
+	***************************************************/
+
+	out.baseContribution = {};
+
+	// Students pay a fixed amount: 70% of the normal rate * the bafogBedarfssatz
+	out.baseContribution.totalRate = healthInsurance.studentTarif;
+	out.baseContribution.totalContribution = roundCurrency(healthInsurance.studentTarif * bafogBedarfssatz);
+
+	// TODO: How do employers contribute to student health insurance?
+	out.baseContribution.employerRate = 0;
+	out.baseContribution.personalRate = undefined;
+	out.baseContribution.personalContribution = out.baseContribution.totalContribution;
+	out.baseContribution.employerContribution = roundCurrency(out.baseContribution.totalContribution - out.baseContribution.personalContribution);
+
+
+	/***************************************************
+	* Pflegeversicherung
+	***************************************************/
+
+	out.pflegeversicherung = {};
+
+	// TODO: How does an employer contribute to a student's Pflegeversicherung?
+	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalContribution = roundCurrency(out.pflegeversicherung.totalRate * bafogBedarfssatz);
+	out.pflegeversicherung.employerRate = 0;
+	out.pflegeversicherung.employerContribution = 0;
+	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
+	out.pflegeversicherung.personalContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.employerContribution);
+
+	/***************************************************
+	* Zusatzbeitrag
+	***************************************************/
+
+	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+		options[krankenkasseKey] = {
+			zusatzbeitrag: {}
+		};
+
+		options[krankenkasseKey].zusatzbeitrag.totalRate = krankenkasse.zusatzbeitrag;
+		options[krankenkasseKey].zusatzbeitrag.totalContribution = roundCurrency(bafogBedarfssatz * options[krankenkasseKey].zusatzbeitrag.totalRate);
+		options[krankenkasseKey].zusatzbeitrag.employerRate = 0;
+		options[krankenkasseKey].zusatzbeitrag.employerContribution = 0;
+		options[krankenkasseKey].zusatzbeitrag.personalRate = options[krankenkasseKey].zusatzbeitrag.totalRate - options[krankenkasseKey].zusatzbeitrag.employerRate;
+		options[krankenkasseKey].zusatzbeitrag.personalContribution = roundCurrency(options[krankenkasseKey].zusatzbeitrag.totalContribution - options[krankenkasseKey].zusatzbeitrag.employerContribution);
+
+		const finalTotal = field => out.baseContribution[field] + out.pflegeversicherung[field] + options[krankenkasseKey].zusatzbeitrag[field];
+		options[krankenkasseKey].total = {
+			totalRate: finalTotal('totalRate'),
+			employerRate: finalTotal('employerRate'),
+			personalRate: finalTotal('personalRate'),
+			totalContribution: roundCurrency(finalTotal('totalContribution')),
+			employerContribution: roundCurrency(finalTotal('employerContribution')),
+			personalContribution: roundCurrency(finalTotal('personalContribution')),
+		}
+
+		return options;
+	}, {});
+
+	return out;
+}
+
 function calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjustedMonthlyIncomeEmployee, age, hasChildren, healthInsuranceTarif){
 	/***************************************************
 	* Pflegeversicherung
@@ -157,13 +228,6 @@ function calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjus
 		output.personalRate = output.totalRate;
 		output.personalContribution = output.totalContribution;
 	}
-	else if (healthInsuranceTarif === 'student') {
-		// TODO: How does an employer contribute to a student's Pflegeversicherung?
-		output.employerRate = 0;
-		output.personalRate = output.totalRate;
-		output.employerContribution = 0;
-		output.personalContribution = output.totalContribution;
-	}
 	else {
 		output.employerRate = pflegeversicherung.employerTarif;
 		output.employerContribution = adjustedMonthlyIncome * output.employerRate;
@@ -197,6 +261,8 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	let tarif = null;
 	const flags = new Set();
 
+	let output;
+
 	if(isStudent) {
 		if(age >= 30) {
 			flags.add('student-30plus');
@@ -204,21 +270,27 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 			else if(isSelfEmployedStudent) { tarif = 'selfEmployed' }
 			else { tarif = 'selfPay' }
 		}
-		else{ tarif = 'student' }
+		else{
+			tarif = 'student';
+			output = calculateHealthInsuranceForStudent(age, childrenCount, customZusatzbeitrag);
+		}
 
 		// You're earning too much to be considered a student
 		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
 		if(hoursWorked <= 20 && monthlyIncome > 0.75*healthInsurance.maxNebenjobIncome) {
 			tarif = isSelfEmployedStudent ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
+			output = null;
 		}
 		else if(hoursWorked > 20 && hoursWorked <= 30 && monthlyIncome > 0.5*healthInsurance.maxNebenjobIncome) {
 			tarif = isSelfEmployedStudent ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
+			output = null;
 		}
 		else if(hoursWorked > 30 && monthlyIncome > 0.25*healthInsurance.maxNebenjobIncome) {
 			tarif = isSelfEmployedStudent ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
+			output = null;
 		}
 	}
 
@@ -283,6 +355,16 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		flags.add('alg-i-buergergeld');
 	}
 
+	// Total rate
+	if (age > pflegeversicherung.defaultTarifMaxAge && !hasChildren) {
+		flags.add('pflegeversicherung-surcharge');
+	}
+
+	if(output){
+		flags.forEach(f => output.flags.add(f));
+		return output;
+	}
+
 	/***************************************************
 	* Monthly income
 	***************************************************/
@@ -311,10 +393,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		baseContributionValues.totalRate = healthInsurance.defaultTarif;
 		baseContributionValues.totalContribution = adjustedMonthlyIncome * baseContributionValues.totalRate;
 	}
-	else if(tarif === 'student') { // Students pay a fixed amount: 70% of the normal rate * the bafogBedarfssatz
-		baseContributionValues.totalRate = healthInsurance.studentTarif;
-		baseContributionValues.totalContribution = healthInsurance.studentTarif * bafogBedarfssatz;
-	}
 	else {
 		baseContributionValues.totalRate = healthInsurance.defaultTarif;
 		baseContributionValues.totalContribution = adjustedMonthlyIncome * baseContributionValues.totalRate;
@@ -331,13 +409,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		baseContributionValues.employerRate = 0;
 		baseContributionValues.employerContribution = 0;
 		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
-		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
-	}
-	else if(tarif === 'student') {
-		// TODO: How does an employer contribute to a student's health insurance?
-		baseContributionValues.employerRate = 0;
-		baseContributionValues.employerContribution = 0;
-		baseContributionValues.personalRate = undefined;
 		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
 	}
 	else {
@@ -372,18 +443,10 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		***************************************************/
 		const zusatzbeitragValues = {}
 
-		if(tarif === 'student') {
-			zusatzbeitragValues.totalRate = krankenkasse.zusatzbeitrag;
-			zusatzbeitragValues.totalContribution = bafogBedarfssatz * zusatzbeitragValues.totalRate;
-			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
-			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
-		}
-		else {
-			zusatzbeitragValues.totalRate = krankenkasse.zusatzbeitrag;
-			zusatzbeitragValues.totalContribution = adjustedMonthlyIncome * zusatzbeitragValues.totalRate;
-			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
-			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
-		}
+		zusatzbeitragValues.totalRate = krankenkasse.zusatzbeitrag;
+		zusatzbeitragValues.totalContribution = adjustedMonthlyIncome * zusatzbeitragValues.totalRate;
+		zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
+		zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 
 		if(tarif === 'azubi') {
 			if(monthlyIncome <= healthInsurance.azubiFreibetrag) {  // Below this amount, the employer pays everything
@@ -409,7 +472,6 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
 			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 		}
-
 
 		zusatzbeitragValues.totalContribution = roundCurrency(zusatzbeitragValues.totalContribution);
 		zusatzbeitragValues.personalContribution = roundCurrency(zusatzbeitragValues.personalContribution);
