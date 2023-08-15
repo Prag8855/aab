@@ -2,33 +2,35 @@
 {% set metatitle = "Unit tests" %}
 {% set metadescription = "" %}
 
-{% block precontent %}
-	<header class="intro">
-		<h1>Tests</h1>
-	</header>
-{% endblock %}
-
 {% block postHead %}
-		<meta name="robots" content="noindex">
+	<meta name="robots" content="noindex">
 {% endblock %}
 
-{% block content %}
-		<script src="https://unpkg.com/chai/chai.js"></script>
-		<script src="https://unpkg.com/mocha/mocha.js"></script>
-		<div id="mocha"></div>
-		<script class="mocha-init">
-			mocha.setup('bdd');
-			let assert = chai.assert;
-			chai.config.truncateThreshold = 0
-		</script>
-		{% js %}
-			{% include '_js/utils.js' %}
-			{% include '_js/constants.js' %}
-			{% include '_js/tracking.js' %}
-			{% include '_js/health-insurance-calculator.js' %}
-			{% include '_js/pension-refund-calculator.js' %}
-			{% include '_js/tax-calculator.js' %}
-		{% endjs %}
+{% block main %}
+	<main aria-label="Main page">
+		<header class="intro">
+			<h1>Tests</h1>
+		</header>
+		<article class="section article-body" aria-label="Main content">
+			<div id="mocha"></div>
+		</article>
+	</main>
+
+	<script src="https://unpkg.com/chai/chai.js"></script>
+	<script src="https://unpkg.com/mocha/mocha.js"></script>
+	<script class="mocha-init">
+		mocha.setup('bdd');
+		let assert = chai.assert;
+		chai.config.truncateThreshold = 0
+	</script>
+	{% js %}
+		{% include '_js/utils.js' %}
+		{% include '_js/constants.js' %}
+		{% include '_js/tracking.js' %}
+		{% include '_js/health-insurance-calculator.js' %}
+		{% include '_js/pension-refund-calculator.js' %}
+		{% include '_js/tax-calculator.js' %}
+	{% endjs %}
 {% endblock %}
 
 {% block postFooter %}
@@ -45,9 +47,9 @@
 		#mocha-stats{margin:0;padding:var(--m);background:var(--c-bg-widget);border-radius:var(--b-radius)}
 			.progress, .duration, .replay{display:none}
 
-		#mocha-report li{list-style:'—'}
-
+		#mocha-report .suite{margin-top:var(--s)}
 		#mocha-report > .suite > h1{font-weight:bold}
+		#mocha-report > .suite .pass h2{color:var(--c-text-light)}
 		#mocha-report > .suite > ul > .suite > h1{font-weight:bold}
 
 		#mocha-report *{
@@ -59,7 +61,7 @@
 		#mocha-report pre{
 			font-family:monospace!important;
 			overflow-x:auto;
+			margin:var(--m) 0;
 		}
-		.test.fail{background:#fcc}
 	</style>
 {% endblock %}

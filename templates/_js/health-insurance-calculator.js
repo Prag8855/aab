@@ -1,5 +1,78 @@
 {% include '_js/constants.js' %}
 {% js %}
+function calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjustedMonthlyIncomeEmployee, age, hasChildren, healthInsuranceTarif){
+	/***************************************************
+	* Pflegeversicherung
+	***************************************************/
+
+	// TODO: Different employer contribution in Sachsen. See [PVS] and [PVSATZAN]
+	// TODO: Different employee contribution in tax class 3. See [PVZ]
+
+	const output = {
+		flags: new Set(),
+	};
+
+	// Total rate
+	if (age > pflegeversicherung.defaultTarifMaxAge && !hasChildren) {
+		output.totalRate = pflegeversicherung.surchargeTarif
+		output.flags.add('pflegeversicherung-surcharge');
+	}
+	else {
+		output.totalRate = pflegeversicherung.defaultTarif
+	}
+
+	// Total contribution
+	if(healthInsuranceTarif === 'student') {
+		output.totalContribution = output.totalRate * bafogBedarfssatz;
+	}
+	else {
+		output.totalContribution = output.totalRate * adjustedMonthlyIncome;
+	}
+
+	// Personal + employer contributions
+	if(healthInsuranceTarif === 'azubi' && adjustedMonthlyIncome <= healthInsurance.azubiFreibetrag) { // Below this, the employer pays everything
+		output.employerRate = output.totalRate;
+		output.employerContribution = output.totalContribution;
+		output.personalRate = 0;
+		output.personalContribution = 0;
+	}
+	else if(healthInsuranceTarif === 'midijob') {
+		const totalContribution = adjustedMonthlyIncome * output.totalRate;
+		output.employerRate = pflegeversicherung.employerTarif;
+		output.personalRate = output.totalRate - output.employerRate
+		output.personalContribution = (
+			(output.totalRate - pflegeversicherung.defaultTarif) * adjustedMonthlyIncome
+			+ output.personalRate * adjustedMonthlyIncomeEmployee // The childless surcharge is not covered by the employer
+		);
+		output.employerContribution = totalContribution - output.personalContribution;
+	}
+	else if(healthInsuranceTarif === 'selfPay' || healthInsuranceTarif === 'selfEmployed') {
+		output.employerRate = 0;
+		output.employerContribution = 0;
+		output.personalRate = output.totalRate;
+		output.personalContribution = output.totalContribution;
+	}
+	else if (healthInsuranceTarif === 'student') {
+		// TODO: How does an employer contribute to a student's Pflegeversicherung?
+		output.employerRate = 0;
+		output.personalRate = output.totalRate;
+		output.employerContribution = 0;
+		output.personalContribution = output.totalContribution;
+	}
+	else {
+		output.employerRate = pflegeversicherung.employerTarif;
+		output.employerContribution = adjustedMonthlyIncome * output.employerRate;
+		output.personalRate = output.totalRate - output.employerRate;
+		output.personalContribution = output.totalContribution - output.employerContribution;
+	}
+
+	output.totalContribution = roundCurrency(output.totalContribution);
+	output.personalContribution = roundCurrency(output.personalContribution);
+	output.employerContribution = roundCurrency(output.employerContribution);
+
+	return output;
+}
+
 function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, hasChildren, zusatzbeitrag}) {
 	const isEmployee = occupation == 'employee';
 	const isSelfEmployed = occupation == 'selfEmployed';
@@ -110,6 +183,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
 	// The contribution rate isn't always applied to your full income
 	let adjustedMonthlyIncome;
+	let adjustedMonthlyIncomeEmployee; // Midijob only
 	if(tarif === 'azubi') {
 		adjustedMonthlyIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
 	}
@@ -117,11 +191,11 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		adjustedMonthlyIncome = Math.min(healthInsurance.maxMonthlyIncome, Math.max(monthlyIncome, healthInsurance.minMonthlyIncome));
 	}
 	else if(tarif === 'midijob') {
-		// Gleitzone formula
+		// Gleitzone formula - §20 Abs. 2a SGB VI
 		adjustedMonthlyIncome = (
 			healthInsurance.factorF * taxes.maxMinijobIncome
 			+ (
-				(healthInsurance.maxMidijobIncome/(healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
+				(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
 				- (
 					(
 						taxes.maxMinijobIncome
@@ -130,6 +204,11 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 					* healthInsurance.factorF
 				)
 			) * (monthlyIncome - taxes.maxMinijobIncome)
+		)
+
+		adjustedMonthlyIncomeEmployee = (
+			(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
+			* (monthlyIncome - taxes.maxMinijobIncome)
 		)
 	}
 
@@ -156,100 +235,47 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		baseContributionValues.totalContribution = adjustedMonthlyIncome * baseContributionValues.totalRate;
 	}
 
-	// Employer contribution
+	// Employer and employee contributions
 	if (tarif === 'azubi' && monthlyIncome <= healthInsurance.azubiFreibetrag) {  // Below this amount, the employer pays everything
 		baseContributionValues.employerRate = baseContributionValues.totalRate;
 		baseContributionValues.employerContribution = baseContributionValues.totalContribution;
+		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
+		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
 	}
 	else if(tarif === 'midijob') {
 		// The employer contribution is calculated with the actual income, not the adjusted Gleitzone income
+		const totalContribution = baseContributionValues.totalRate * adjustedMonthlyIncome;
 		baseContributionValues.employerRate = healthInsurance.defaultTarif / 2;
-		baseContributionValues.employerContribution = monthlyIncome * baseContributionValues.employerRate;
+		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
+		baseContributionValues.personalContribution = adjustedMonthlyIncomeEmployee * baseContributionValues.personalRate
+		baseContributionValues.employerContribution = totalContribution - baseContributionValues.personalContribution;
 	}
 	else if(tarif === 'selfPay' || tarif === 'selfEmployed') {
 		baseContributionValues.employerRate = 0;
 		baseContributionValues.employerContribution = 0;
+		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
+		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
 	}
 	else if(tarif === 'student') {
 		// TODO: How does an employer contribute to a student's health insurance?
 		baseContributionValues.employerRate = 0;
 		baseContributionValues.employerContribution = 0;
+		baseContributionValues.personalRate = undefined;
+		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
 	}
 	else {
 		baseContributionValues.employerRate = baseContributionValues.totalRate / 2;
 		baseContributionValues.employerContribution = adjustedMonthlyIncome * baseContributionValues.employerRate;
+		baseContributionValues.personalRate = baseContributionValues.totalRate - baseContributionValues.employerRate;
+		baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
 	}
-
-	baseContributionValues.personalRate = tarif === 'student' ? undefined : baseContributionValues.totalRate - baseContributionValues.employerRate;
-	baseContributionValues.personalContribution = baseContributionValues.totalContribution - baseContributionValues.employerContribution;
 
 	baseContributionValues.totalContribution = roundCurrency(baseContributionValues.totalContribution);
 	baseContributionValues.personalContribution = roundCurrency(baseContributionValues.personalContribution);
 	baseContributionValues.employerContribution = roundCurrency(baseContributionValues.employerContribution);
 
-	/***************************************************
-	* Pflegeversicherung
-	***************************************************/
-
-	// TODO: Different employer contribution in Sachsen. See [PVS] and [PVSATZAN]
-	// TODO: Different employee contribution in tax class 3. See [PVZ]
-
-	const pflegeversicherungValues = {};
-
-	// Total rate
-	if (age > pflegeversicherung.defaultTarifMaxAge && !hasChildren) {
-		pflegeversicherungValues.totalRate = pflegeversicherung.surchargeTarif
-		flags.add('pflegeversicherung-surcharge');
-	}
-	else {
-		pflegeversicherungValues.totalRate = pflegeversicherung.defaultTarif
-	}
-
-	// Total contribution
-	if(tarif === 'student') {
-		pflegeversicherungValues.totalContribution = pflegeversicherungValues.totalRate * bafogBedarfssatz;
-	}
-	else {
-		pflegeversicherungValues.totalContribution = pflegeversicherungValues.totalRate * adjustedMonthlyIncome;
-	}
-
-	// Personal + employer contributions
-	if(tarif === 'azubi' && monthlyIncome <= healthInsurance.azubiFreibetrag) { // Below this, the employer pays everything
-		pflegeversicherungValues.employerRate = pflegeversicherungValues.totalRate;
-		pflegeversicherungValues.employerContribution = pflegeversicherungValues.totalContribution;
-		pflegeversicherungValues.personalRate = 0;
-		pflegeversicherungValues.personalContribution = 0;
-	}
-	else if(tarif === 'midijob') {
-		// The employer rate is applied to the actual monthlyIncome, not the adjusted Gleitzone income.
-		pflegeversicherungValues.employerRate = pflegeversicherung.employerTarif;
-		pflegeversicherungValues.employerContribution = monthlyIncome * pflegeversicherungValues.employerRate;
-		pflegeversicherungValues.personalRate = pflegeversicherungValues.totalRate - pflegeversicherungValues.employerRate;
-		pflegeversicherungValues.personalContribution = pflegeversicherungValues.totalContribution - pflegeversicherungValues.employerContribution;
-	}
-	else if(tarif === 'selfPay' || tarif === 'selfEmployed') {
-		pflegeversicherungValues.employerRate = 0;
-		pflegeversicherungValues.employerContribution = 0;
-		pflegeversicherungValues.personalRate = pflegeversicherungValues.totalRate;
-		pflegeversicherungValues.personalContribution = pflegeversicherungValues.totalContribution;
-	}
-	else if (tarif === 'student') {
-		// TODO: How does an employer contribute to a student's Pflegeversicherung?
-		pflegeversicherungValues.employerRate = 0;
-		pflegeversicherungValues.personalRate = pflegeversicherungValues.totalRate;
-		pflegeversicherungValues.employerContribution = 0;
-		pflegeversicherungValues.personalContribution = pflegeversicherungValues.totalContribution;
-	}
-	else {
-		pflegeversicherungValues.employerRate = pflegeversicherung.employerTarif;
-		pflegeversicherungValues.employerContribution = adjustedMonthlyIncome * pflegeversicherungValues.employerRate;
-		pflegeversicherungValues.personalRate = pflegeversicherungValues.totalRate - pflegeversicherungValues.employerRate;
-		pflegeversicherungValues.personalContribution = pflegeversicherungValues.totalContribution - pflegeversicherungValues.employerContribution;
-	}
-
-	pflegeversicherungValues.totalContribution = roundCurrency(pflegeversicherungValues.totalContribution);
-	pflegeversicherungValues.personalContribution = roundCurrency(pflegeversicherungValues.personalContribution);
-	pflegeversicherungValues.employerContribution = roundCurrency(pflegeversicherungValues.employerContribution);
+	const pflegeversicherungValues = calculatePflegeversicherung(monthlyIncome, adjustedMonthlyIncome, adjustedMonthlyIncomeEmployee, age, hasChildren, tarif);
+	pflegeversicherungValues.flags.forEach(f => flags.add(f));
 
 	/***************************************************
 	* Public health insurance options + Zusatzbeitrag
@@ -272,10 +298,14 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		if(tarif === 'student') {
 			zusatzbeitragValues.totalRate = krankenkasse.zusatzbeitrag;
 			zusatzbeitragValues.totalContribution = bafogBedarfssatz * zusatzbeitragValues.totalRate;
+			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 		}
 		else {
 			zusatzbeitragValues.totalRate = krankenkasse.zusatzbeitrag;
 			zusatzbeitragValues.totalContribution = adjustedMonthlyIncome * zusatzbeitragValues.totalRate;
+			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 		}
 
 		if(tarif === 'azubi') {
@@ -287,23 +317,29 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 				zusatzbeitragValues.employerRate = zusatzbeitragValues.totalRate / 2;
 				zusatzbeitragValues.employerContribution = adjustedMonthlyIncome * zusatzbeitragValues.employerRate;
 			}
+			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 		}
 		else if(tarif === 'midijob') {
-		// The employer rate is applied to the actual monthlyIncome, not the adjusted Gleitzone income.
+			const totalContribution = krankenkasse.zusatzbeitrag * adjustedMonthlyIncome;
 			zusatzbeitragValues.employerRate = krankenkasse.zusatzbeitrag / 2;
-			zusatzbeitragValues.employerContribution = monthlyIncome * zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalRate = krankenkasse.zusatzbeitrag / 2;
+			zusatzbeitragValues.personalContribution = adjustedMonthlyIncomeEmployee * zusatzbeitragValues.personalRate
+			zusatzbeitragValues.employerContribution = totalContribution - zusatzbeitragValues.personalContribution;
 		}
 		else if(tarif === 'employee') {
 			zusatzbeitragValues.employerRate = krankenkasse.zusatzbeitrag / 2;
 			zusatzbeitragValues.employerContribution = adjustedMonthlyIncome * zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 		}
 		else {
 			zusatzbeitragValues.employerRate = 0;
 			zusatzbeitragValues.employerContribution = 0;
+			zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
+			zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 		}
 
-		zusatzbeitragValues.personalRate = zusatzbeitragValues.totalRate - zusatzbeitragValues.employerRate;
-		zusatzbeitragValues.personalContribution = zusatzbeitragValues.totalContribution - zusatzbeitragValues.employerContribution;
 
 		zusatzbeitragValues.totalContribution = roundCurrency(zusatzbeitragValues.totalContribution);
 		zusatzbeitragValues.personalContribution = roundCurrency(zusatzbeitragValues.personalContribution);
