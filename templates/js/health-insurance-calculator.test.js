@@ -847,13 +847,30 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t get private health insurance', notHasFlag(outputNoKids, 'private'));
 		});
 
-		describe(`an employee with a ${healthInsurance.minFreiwilligMonthlyIncome/12}€ job`, () => {
+		describe(`an employee with a ${healthInsurance.minFreiwilligMonthlyIncome}€ job`, () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 22,
 				hasChildren: false,
 				isMarried: true,
 				occupation: 'employee',
 				monthlyIncome: healthInsurance.minFreiwilligMonthlyIncome,
+			});
+
+			it('must pay the maximum employee tarif', () => {
+				hasMaxTarif(outputNoKids);
+				assert.equal(outputNoKids.tarif, 'employee');
+			});
+
+			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
+		});
+
+		describe(`an employee with a 200,000€ job`, () => {
+			const outputNoKids = calculateHealthInsuranceContributions({
+				age: 22,
+				hasChildren: false,
+				isMarried: false,
+				occupation: 'employee',
+				monthlyIncome: 200000/12,
 			});
 
 			it('must pay the maximum employee tarif', () => {
