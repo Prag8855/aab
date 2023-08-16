@@ -128,15 +128,10 @@ function hasStandardTarif2001(output) {
 		roundCurrency(2001 * pflegeversicherung.defaultTarif));
 	assert.equal(
 		output.options.tk.total.employerContribution,
-		roundCurrency(
-			Math.ceil(
-				(
-				2001 * healthInsurance.defaultTarif / 2
-				+ 2001 * healthInsurance.companies.tk.zusatzbeitrag / 2
-				+ 2001 * pflegeversicherung.employerTarif
-				) * 100
-			) / 100
-		));
+		roundCurrency(2001 * healthInsurance.defaultTarif / 2)
+			+ roundCurrency(2001 * healthInsurance.companies.tk.zusatzbeitrag / 2)
+			+ roundCurrency(2001 * pflegeversicherung.employerTarif)
+	);
 }
 function hasMaxTarif(output) {
 	assert.equal(
@@ -757,7 +752,6 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('must pay a smaller share than the employer', () => {
-				console.warn(outputNoKids)
 				assert.equal(outputNoKids.options.tk.total.employerContribution, 67.92);
 			});
 
