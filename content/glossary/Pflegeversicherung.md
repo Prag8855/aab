@@ -2,17 +2,17 @@
 Title: What is Pflegeversicherung?
 German_term: Pflegeversicherung
 English_term: Nursing care insurance
-Description: 
+Description: It pays for your healthcare when you are old.
 Date_created: 2018-12-11
-Related_guides: guides/german-health-insurance.md
+Related_guides:
+    guides/german-health-insurance.md
+    tools/health-insurance-calculator.md
 ---
 
-Nursing care insurance (*Pflegeversicherung*) is something you pay when you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung) in Germany.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you also pay for nursing care insurance (*Pflegeversicherung*). It pays for your healthcare when you are old.
 
-If you are under 23 years old, or you have children, it costs {{PFLEGEVERSICHERUNG_NO_SURCHARGE}}% of your income. If you are over 22 years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_WITH_SURCHARGE}}% of your income. If you earn more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, you pay the maximum amount: {{PFLEGEVERSICHERUNG_NO_SURCHARGE}}% or {{PFLEGEVERSICHERUNG_WITH_SURCHARGE}}% of {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€.
+*Pflegeversicherung* costs up to {{ PFLEGEVERSICHERUNG_WITH_SURCHARGE }}% of your income. You pay less if you have children. Your employer pays half of it. It comes from your paycheck every month.
 
-When you are an employee, your employer pays half of your *Pflegeversicherung*.
-
-If you have [private health insurance](/glossary/private%20Krankenversicherung), *Pflegeversicherung* is part of your insurance policy.
+If you have [private health insurance](/glossary/private%20Krankenversicherung), *Pflegeversicherung* is included in your insurance policy. The cost is set by the company; it's not a percentage of your income.
 
 **[German health insurance calculator ➞](/tools/health-insurance-calculator)**
