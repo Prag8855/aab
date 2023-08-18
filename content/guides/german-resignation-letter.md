@@ -5,7 +5,7 @@ Description: The legal requirements for writing and handing a resignation notice
 Date_created: 2023-07-17
 ---
 
-When you quit your job in Germany, you must give your employer a resignation letter (*Kündigungsschreiben* or *Kündigungserklärung*). Your resignation is only official when your employer receives this letter.
+To [quit your job in Germany](/guides/losing-your-job), you must give a resignation letter (*Kündigungsschreiben* or *Kündigungserklärung*) to your employer. Your resignation is only official when your employer receives this letter.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -13,7 +13,7 @@ When you quit your job in Germany, you must give your employer a resignation let
 
 Use my [German resignation letter generator](/docs/resignation-letter):
 
-{% include "_blocks/resignationLetter.html" %}
+{% include "_blocks/resignationLetterStatic.html" %}
 
 Your resignation letter must be short and precise. Don't add unnecessary information; it could be used against you.[^10]
 
@@ -67,7 +67,7 @@ When your employer receives your resignation letter, your notice period (*Kündi
 
 Keep a copy of your resignation letter. The *[[Agentur für Arbeit]]* asks for it when you [apply for unemployment benefits](/guides/unemployment-benefits).[^2]
 
-**[How to quit your job in Germany](/guides/losing-your-job)**
+**[How to quit your job in Germany ➞](/guides/losing-your-job)**
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
 [^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional)), [peopleatventure.de](https://www.peopleatventure.de/kuendigungsschreiben#:~:text=geben%20sie%20dem%20leser%20keinerlei%20spielraum%2C%20ihre%20kundigung%20falsch%20zu%20interpretieren.)
