@@ -13,7 +13,7 @@ Vue.component('health-insurance-question', {
 		age: Number,
 		income: Number,
 		isMarried: Boolean,
-		hasChildren: Boolean,
+		childrenCount: Number,
 	},
 	data: function() {
 		return {
@@ -53,15 +53,18 @@ Vue.component('health-insurance-question', {
 		this.question += ` I am ${this.age} years old,`;
 
 		if(this.isMarried){
-			if(this.hasChildren){
-				this.question += " I am married and I have children.";
+			if(this.childrenCount == 1){
+				this.question += " I am married and I have one child.";
+			}
+			if(this.childrenCount > 1){
+				this.question += ` I am married and I have ${this.childrenCount} children.`;
 			}
 			else {
 				this.question += " I am married and I don't have children.";
 			}
 		}
 		else{
-			if(this.hasChildren){
+			if(this.childrenCount > 0){
 				this.question += " and I am not married, but I have children.";
 			}
 			else {

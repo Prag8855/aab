@@ -19,7 +19,7 @@
 				return {
 					occupation: getDefault('occupation', 'employee'),
 					isMarried: getDefaultBoolean('isMarried'),
-					hasChildren: getDefaultNumber('childrenCount') > 0,
+					childrenCount: getDefaultNumber('childrenCount'),
 					income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
 					age: getDefaultNumber('age', ''),
 					formatPercent,
@@ -36,19 +36,14 @@
 					setDefault('occupation', this.occupation);
 					setDefaultNumber('yearlyIncome', this.monthlyIncome * 12);
 					setDefaultNumber('age', this.age);
-					if(this.hasChildren && getDefaultNumber('childrenCount') === 0) {
-						setDefaultNumber('childrenCount', 1);
-					}
-					else if(!this.hasChildren && getDefaultNumber('childrenCount') > 0) {
-						setDefaultNumber('childrenCount', 0);
-					}
+					setDefaultNumber('childrenCount', this.childrenCount);
 
 					return calculateHealthInsuranceContributions({
 						age: +this.age,
 						monthlyIncome: +this.monthlyIncome,
 						occupation: this.occupation,
 						isMarried: this.isMarried,
-						hasChildren: this.hasChildren,
+						childrenCount: this.childrenCount,
 					});
 				},
 				salaryOrIncome() { return occupations.isEmployed(this.occupation) ? 'salary' : 'income' },
@@ -200,12 +195,36 @@
 		</div>
 		<div class="form-group">
 			<span class="label">
-				Family
+				Marriage
 			</span>
-			<div class="input-group vertical">
-				<label class="checkbox"><input type="checkbox" v-model="isMarried"> I am married</label>
-				<label class="checkbox"><input type="checkbox" v-model="hasChildren"> I have children</label>
+			<div class="input-group">
+				<label class="checkbox">
+					<input type="radio" :name="uid('is-married')" v-model="isMarried" :value="true">
+					Married
+				</label>
+				<label class="checkbox">
+					<input type="radio" :name="uid('is-married')" v-model="isMarried" :value="false">
+					Not married
+				</label>
 			</div>
+		</div>
+		<div class="form-group">
+			<label :for="uid('children-count')">
+				Children
+			</label>
+			<select :id="uid('children-count')" v-model="childrenCount">
+				<option :value="0">No children</option>
+				<option :value="1">1 child</option>
+				<option :value="2">2 children</option>
+				<option :value="3">3 children</option>
+				<option :value="4">4 children</option>
+				<option :value="5">5 children</option>
+				<option :value="6">6 children</option>
+				<option :value="7">7 children</option>
+				<option :value="8">8 children</option>
+				<option :value="9">9 children</option>
+				<option :value="10">10+ children</option>
+			</select>
 		</div>
 		<hr>
 		<p>
@@ -415,7 +434,7 @@
 				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
 				<div>
 					<h3>Private health insurance</h3>
-					<p>It's sometimes better and cheaper than public health insurance. Choose carefully.</p>
+					<p>Better and cheaper for some people, like young people with a good income.</p>
 				</div>
 				<output>Varies</output>
 			</button>
@@ -520,7 +539,7 @@
 		:income="yearlyIncome"
 		:occupation="occupation"
 		:is-married="isMarried"
-		:has-children="hasChildren"
+		:children-count="childrenCount"
 		>
 		<template v-slot:form-buttons>
 			<button class="button" @click="stage = 'insuranceOptions'">

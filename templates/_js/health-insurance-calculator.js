@@ -489,15 +489,13 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, hasChildren, customZusatzbeitrag}) {
+function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag}) {
 	const isSelfEmployed = occupation == 'selfEmployed';
 	const isWorkingStudent = occupation == 'studentEmployee';
 	const isSelfEmployedStudent = occupation == 'studentSelfEmployed';
 	const isStudent = isWorkingStudent || isSelfEmployedStudent || occupation == 'student';
 	const isUnemployed = occupations.isUnemployed(occupation);
 	const isAzubi = occupation == 'azubi';
-
-	const childrenCount = hasChildren ? 1 : 0;
 
 	/***************************************************
 	* Tarif selection
@@ -603,7 +601,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		flags.add('minijob');
 	}
 
-	if (age > pflegeversicherung.defaultTarifMaxAge && !hasChildren) {
+	if (age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
 		flags.add('pflegeversicherung-surcharge');
 	}
 

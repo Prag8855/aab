@@ -42,7 +42,7 @@ function calculateTax(yearlyIncome, opts) {
 
 	/* Health insurance *******************************/
 
-	const healthInsuranceResult = calculateHealthInsuranceContributions({ age, isMarried, hasChildren, monthlyIncome, occupation, zusatzbeitrag });
+	const healthInsuranceResult = calculateHealthInsuranceContributions({ age, isMarried, childrenCount, monthlyIncome, occupation, customZusatzbeitrag: zusatzbeitrag });
 	healthInsuranceResult.flags.forEach(f => result.flags.add(`kv-${f}`));
 
 	if(hasSponsoredHealthInsurance(healthInsuranceType)) {
