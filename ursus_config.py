@@ -33,9 +33,6 @@ def build_wikilinks_url(label, base, end):
     return '{}{}{}'.format(base, urllib.parse.quote(label), end)
 
 
-minimum_wage = 12
-beitragsbemessungsgrenze_west = 87600
-
 config.content_path = Path(__file__).parent / 'content'
 config.templates_path = Path(__file__).parent / 'templates'
 config.output_path = Path(__file__).parent.parent / 'output'
@@ -181,6 +178,15 @@ config.jinja_filters = {
 
 config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM'  # Backend use only
 
+
+minimum_wage = 12
+beitragsbemessungsgrenze_west = 87600
+health_insurance_base_contrib = 14.6
+health_insurance_min_pflegeversicherung = 2.4
+health_insurance_max_pflegeversicherung = 4
+health_insurance_min_zusatzbeitrag = 1
+health_insurance_max_zusatzbeitrag = 1.9
+
 config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
@@ -211,7 +217,7 @@ config.context_globals = {
     "GKV_FAMILIENVERSICHERUNG_MAX_INCOME": 485,
 
     # Base contribution (%), including Krankengeld - § 241 SGB V
-    "GKV_BASE_CONTRIBUTION": 14.6,
+    "GKV_BASE_CONTRIBUTION": health_insurance_base_contrib,
 
     # Base contribution (%), excluding Krankengeld - § 243 SGB V
     "GKV_SELF_EMPLOYED_BASE_CONTRIBUTION": 14,
@@ -234,8 +240,28 @@ config.context_globals = {
     # Used to calculate health insurance for a midijob - § 20 SGB IV - monitored
     "GKV_FACTOR_F": 0.6922,
 
+    # Not quite accurate, but good enough
+    "GKV_MIN_EMPLOYEE_RATE": round(
+        (health_insurance_base_contrib + health_insurance_min_pflegeversicherung + health_insurance_min_zusatzbeitrag)
+        / 2,
+        1
+    ),
+    "GKV_MAX_EMPLOYEE_RATE": round(
+        (health_insurance_base_contrib + health_insurance_max_pflegeversicherung + health_insurance_max_zusatzbeitrag)
+        / 2,
+        1
+    ),
+    "GKV_MIN_FREELANCER_RATE": round(
+        health_insurance_base_contrib + health_insurance_min_pflegeversicherung + health_insurance_min_zusatzbeitrag,
+        1
+    ),
+    "GKV_MAX_FREELANCER_RATE": round(
+        health_insurance_base_contrib + health_insurance_max_pflegeversicherung + health_insurance_max_zusatzbeitrag,
+        1
+    ),
+
     # Pflegeversicherung (%)
-    "PFLEGEVERSICHERUNG_WITH_SURCHARGE": 4,
+    "PFLEGEVERSICHERUNG_WITH_SURCHARGE": health_insurance_max_pflegeversicherung,
     "PFLEGEVERSICHERUNG_NO_SURCHARGE": 3.4,
     "PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD": 0.25,
 
