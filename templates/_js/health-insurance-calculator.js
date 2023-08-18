@@ -25,7 +25,19 @@ function calculatePflegeversicherungRate(age, childrenCount){
 	if (age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
 		return pflegeversicherung.surchargeTarif;
 	}
-	return pflegeversicherung.defaultTarif;
+	else if(childrenCount < pflegeversicherung.minimumChildCountForDiscount){
+		return pflegeversicherung.defaultTarif;
+	}
+	else{
+		return pflegeversicherung.defaultTarif - (
+			pflegeversicherung.discountPerChild
+			* (
+				Math.min(childrenCount, pflegeversicherung.maximumChildCountForDiscount)
+				- pflegeversicherung.minimumChildCountForDiscount
+				+ 1
+			)
+		);
+	}
 }
 
 function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){

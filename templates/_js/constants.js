@@ -130,6 +130,9 @@ const healthInsurance = {
 const pflegeversicherung = {
 	defaultTarif: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE }}/100,
 	surchargeTarif: {{ PFLEGEVERSICHERUNG_WITH_SURCHARGE }}/100,
+	discountPerChild: {{ PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD }}/100,
+	minimumChildCountForDiscount: 2,
+	maximumChildCountForDiscount: 5,
 	employerTarif: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE }}/100/2, // Employer doesn't contribute to surcharge
 	defaultTarifMaxAge: 22, // Above this age, if you don't have kids, you pay the surchargeTarif
 };
