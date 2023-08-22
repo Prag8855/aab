@@ -324,7 +324,6 @@ There are more types of insurance in Germany, but health and liability insurance
 [^28]: [krankenkassenzentrale.de](http://web.archive.org/web/20220928194950/https://www.krankenkassenzentrale.de/wiki/krankenkasse-studenten)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [allaboutberlin.com](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance)
-[^31]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/784763808658991/)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)
 [^26]: [Feather Insurance](/out/feather) (May 2023)
