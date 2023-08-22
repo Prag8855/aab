@@ -223,7 +223,7 @@ The AGB is required by [§ 312d BGB](https://www.gesetze-im-internet.de/englisch
 
 ## Creative Commons images
 
-If you use images with a Creative Commons licence, make sure you properly attribute the author. In Germany, using the wrong attribution format can be a costly mistake. [We to pay several hundred euros in lawyer fees](/guides/abmahnung-creative-commons) for making that mistake.
+If you use images with a Creative Commons licence, make sure you properly attribute the author. In Germany, using the wrong attribution format can be a costly mistake. [I had to pay hundreds of euros in lawyer fees](https://nicolasbouliane.com/blog/abmahnung-creative-commons) for making that mistake.
 
 Here are the basic guidelines about using Creative Commons images on your website:
 
