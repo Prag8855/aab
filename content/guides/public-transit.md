@@ -94,11 +94,11 @@ If you have the wrong ticket, you still get a fine.
 
 ## Step 2: Validate your ticket
 
-**Stamp your ticket before you use it**. If your ticket is not stamped, it's not valid. There are stamping machines on train platforms, and on trams and buses. Look for a yellow or red metal box, and insert your ticket in the slit.
+**Stamp your ticket before you use it**. If your ticket is not stamped, it's not valid. There are stamping machines on train platforms, and inside trams and buses. Look for a yellow or red metal box, and put your ticket in the slit.
 
 [![Validate german train ticket](/images/validate-german-train-ticket.jpg "Stamp your ticket to validate it")](/images/validate-german-train-ticket.jpg)
 
-If you buy the ticket on the bus or tram, it's already stamped. Monthly passes are already stamped.[^4]
+If you buy a ticket on the bus or tram, it's already stamped. Monthly passes are already stamped.[^4]
 
 **Digital tickets** are valid 1 minute after you buy them.[^3] Buy your ticket before you get on the train.
 
@@ -106,19 +106,19 @@ If you buy the ticket on the bus or tram, it's already stamped. Monthly passes a
 
 Get on the bus, tram, train or ferry, and go where you want to go. Get directions from [Google Maps](https://maps.google.com/) ([iOS](https://apps.apple.com/us/app/google-maps/id585027354) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app).
 
-### On the bus
-
-When your stop is coming, you must ask the bus to stop. Press the yellow or red "STOP" button near you. You will hear a "ding" sound. The information screen will show a "STOP" in the corner. The bus will stop at the next bus stop.
-
-### On the tram
-
-At night, the tram does not stop at every station. Press the yellow or red STOP button close to you. You will hear a "ding" sound. The information screen will show a "STOP" sign in the corner. The tram will stop at the next station.
-
 ### Go in the right direction
 
 [![BVG daisy status display](/images/bvg-daisy-display.jpg)](/images/bvg-daisy-display.jpg)
 
-The display shows a train's last stop, not its direction. For example, if an S2 train goes north, its last stop could be in Bernau, Buch or Blankenburg. These trains all go in the same direction, and they stop at the same stations, but their last stops are not the same.
+The display shows a train's last stop, not its direction. For example, the S2's last stop could be in Bernau, Buch or Blankenburg. These trains all go in the same direction, but they have different last stops.
+
+### Take the bus or tram
+
+When your bus or tram arrives, let other people exit before you enter.
+
+Before your stop, press the yellow or red "STOP" button near you. You will hear a "ding" sound. You will see "STOP" in the corner of the information screen. The bus will stop at the next bus stop. 
+
+To open the doors, you might need to press a button near the doors.
 
 ## Public transport options
 
