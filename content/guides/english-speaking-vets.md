@@ -19,6 +19,7 @@ If you don't speak German, here are some veterinarians who speak English:
 - [Ellen Laskawy](https://laskawy.jimdofree.com/)
 - [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
 - [Praxis Tierzuliebe](https://www.facebook.com/praxistierzuliebe/) - Dr. Miriam Bertram
+- [Tierarzt Bärenwiese](https://tierarzt-baerenwiese.de/en/home/) - English website, online appointments
 - [Tierarztpraxis Watson](https://www.tierarzt-watson.de/)
 
 This list is not complete. To suggest another English-speaking veterinarian, [contact me](/contact).
