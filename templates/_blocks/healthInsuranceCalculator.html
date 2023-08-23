@@ -325,7 +325,7 @@
 				<template v-if="flag('max-contribution')">
 					You make over <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 				</template>
-				<template v-else-if="age > pflegeversicherung.defaultTarifMaxAge && !hasChildren">
+				<template v-else-if="age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0">
 					It costs {{ (pflegeversicherung.surchargeTarif*100).toFixed(1) }}% of your income, because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
 				</template>
 				<template v-else>
