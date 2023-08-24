@@ -22,7 +22,7 @@ These banks will let you open an account without a registered address in Germany
 - **[DKB](/out/dkb)**[^0]  
     They rarely accept people who just moved to Germany. They use WebID to verify your passport.
 - **[ING](/out/ing)**[^6]  
-    They use [PostIdent](/glossary/Postident) to verify your passport.[^1] They require a EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).[^2]
+    They use [[Postident]] to verify your passport.[^1] They require a EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis).[^2]
 - **[Kontist](/out/kontist)**  
     Business bank for freelancers.
 - **[Monese](/out/monese)**  

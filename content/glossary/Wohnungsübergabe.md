@@ -2,12 +2,14 @@
 Title: What is the Wohnungsübergabe?
 German_term: Wohnungsübergabe
 English_term: Apartment handover
-Description: 
+Description: Returning the keys and signing a handover document before moving out of an apartment.
 Date_created: 2020-06-12
-Related_guides: guides/moving-out.md
+Related_guides:
+    guides/moving-in.md
+    guides/moving-out.md
 ---
 
-The apartment handover (*Wohnungsübergabe*) is the moment when you receive or return the keys for your apartment. Usually, this is when you will sign a handover document (*[Übergaberprotokoll](/glossary/%C3%9Cbergabeprotokoll)*).
+The apartment handover (*Wohnungsübergabe*) is the moment when you receive or return the keys for your apartment. Usually, this is when you will sign a handover document (*[[Übergabeprotokoll]]*).
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 

@@ -13,7 +13,7 @@ In this guide, I tell you how the deposit works, and how to get your deposit bac
 
 ## How much is the Kaution?
 
-The *[Mietkaution](/glossary/Kaution)* is **maximum 3 times the [cold rent](/glossary/Kaltmiete)**.[^2] Some appartments have a smaller deposit, but it's almost always 3 times the cold rent.
+The *[[Kaution]]* is **maximum 3 times the [cold rent](/glossary/Kaltmiete)**.[^2] Some apartments have a smaller deposit, but it's almost always 3 times the cold rent.
 
 ### Short-term rentals
 

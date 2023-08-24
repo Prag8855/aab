@@ -15,6 +15,6 @@ Related_guides:
     guides/eyeglasses.md
 ---
 
-Private health insurance (*private Krankenversicherung* or *PKV*) is a type of health insurance in Germany. The price of private health insurance depends on your age and health condition. Around 11% of Germans have private health insurance. Most people have public health insurance (*[[gesetzliche Krankenversicherung]]* or *[GKV](/glossary/gesetzliche%20Krankenversicherung)*).
+Private health insurance (*private Krankenversicherung* or *PKV*) is a type of health insurance in Germany. The price of private health insurance depends on your age and health condition. Around 11% of Germans have private health insurance. Most people have public health insurance (*[[gesetzliche Krankenversicherung]]* or *GKV*).
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**

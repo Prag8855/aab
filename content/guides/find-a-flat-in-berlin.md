@@ -1,11 +1,11 @@
 ---
 Title: How to find an apartment in Berlin
 Short_title: How to find an apartment
-Description: This guide shows you how to rent your first apartment or flat share in Berlin.
+Description: This guide shows you how to find a place to live in Berlin. It explains everything from the apartment search to moving in.
 Date_created: 2017-09-20
 ---
 
-This guide shows you how to find your first apartment or [WG](/glossary/WG) in Berlin.
+This guide shows you how to find your first apartment or *[[WG]]* in Berlin.
 
 ![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
@@ -337,7 +337,7 @@ Landlords prefer quiet, long-term tenants who pay their rent on time. They want 
 Landlords want tenants with...
 
 - **A good income**  
-    Your rent should be less than 30% of your monthly [*Netto* income](/glossary/Netto%20income).[^34] Many landlords ask for this. Two incomes are better than one. If you have a good salary, include it in your introduction messages. If you make a lot of money, you can apply for more expensive apartments. There is less competition for those apartments.
+    Your rent should be less than 30% of your monthly [[Netto income]].[^34] Many landlords ask for this. Two incomes are better than one. If you have a good salary, include it in your introduction messages. If you make a lot of money, you can apply for more expensive apartments. There is less competition for those apartments.
 - **A stable job**  
     Landlords prefer tenants with a stable job. It's harder to find an apartment if you are self-employed, or if you are on your [probation period](/glossary/Probezeit). If you have a good job, include it in your introduction messages.
 - **A stable residence permit**  
