@@ -14,6 +14,6 @@ Related_guides:
     tools/tax-calculator.md
 ---
 
-Health insurance (*Krankenversicherung*) pay for your healthcare when you are sick. All German residents must have health insurance. They pay for it every month.
+Health insurance (*Krankenversicherung*) pays for your healthcare when you are sick. All German residents must have health insurance. You pay for it every month.
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
