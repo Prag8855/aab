@@ -12,7 +12,7 @@ Related_guides:
     guides/lost-keys.md
 ---
 
-The apartment deposit (*Kaution*, *Mietkaution* or *Mietsicherheit*) pays for apartment repairs after you [move out](/guides/moving-out). If there is nothing to repair, you get your full *Kaution* back.
+The apartment deposit (*Kaution*, *Mietkaution* or *Mietsicherheit*) pays for repairs after you [move out of an apartment](/guides/moving-out). If there is nothing to repair, you get your full *Kaution* back.
 
 You give the *Kaution* to your landlord when you [move into an apartment](https://allaboutberlin.com/guides/moving-in). It's usually 3 times your cold rent (*[[Kaltmiete]]*). It can't be more than that.
 

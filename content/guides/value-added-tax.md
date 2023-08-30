@@ -15,7 +15,7 @@ This guide explains VAT for German businesses. You must understand this to [star
 
 In Germany, VAT is a {{VAT_RATE}}% tax on most goods and services. In German, it's called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer* (*MwSt.*).
 
-VAT is always included in the advertised price.[^0] If the price label says 20€, the customer pays 20€ *including* VAT.
+VAT is **always included in the advertised price**.[^0] If the price label says 20€, the customer pays 20€ *including* VAT.
 
 > **VAT included example:** On a restaurant menu, a meal costs 15€. You pay 12.61€ for the meal, and 2.39€ VAT; 15€ in total.
 
@@ -23,7 +23,7 @@ Other EU countries also have a VAT; it's between 17% and 25%.[^1]
 
 ### Reduced VAT
 
-Some goods and services have a reduced VAT or no VAT.[^2]
+Some goods and services have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.[^2]
 
 Reduced VAT ({{VAT_RATE_REDUCED}}%):
 
@@ -49,7 +49,7 @@ No VAT:
 
 Most German businesses must charge {{VAT_RATE}}% VAT, but there are exceptions:
 
-- When you are a small business (*[[Kleinunternehmer]]*), you decide if you want to charge VAT - [More information](/guides/kleinunternehmer)
+- When you are a small business (*[[Kleinunternehmer]]*) you choose if you want to charge VAT - [More information](/guides/kleinunternehmer)
 - [When your customer is in another country](/guides/value-added-tax#vat-for-customers-in-the-eu), you don't always charge VAT.
 - [Some goods and services](/guides/value-added-tax#reduced-vat) have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.
 

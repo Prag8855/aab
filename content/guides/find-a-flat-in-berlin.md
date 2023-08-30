@@ -378,7 +378,7 @@ You need these documents to apply for an apartment:
 - [ ] **Employment contract** (optional)  
     Some landlords want to see your employment contract.[^39] It proves that you have a stable income. It's harder to find an apartment during your [probation period](/glossary/Probezeit).
 - [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
-    This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It does not have a standard format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf).
+    This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It does not have a standard format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). You can also use bank statements to show that you pay rent every month.[^47]
 - [ ] **[[Mietbürgschaft]]** (optional)  
     If you don't have a stable income, a parent or a friend can be your guarantor. If you don't pay the rent on time, your guarantor must pay it for you. This is a good option for students, freelancers and people with a low income. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
 - [ ] **Application form** (optional)  
@@ -478,3 +478,4 @@ There are 3 types of insurance that cover your apartment:
 [^45]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
 [^21]: [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
 [^46]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
+[^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)

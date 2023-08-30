@@ -205,6 +205,10 @@ If your landlord does not return your deposit after 6 months, get help from your
 
 Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#what-to-bring-to-the-visit).
 
+If you live in a [[WG]], you can also get a letter from your roommates to confirm that you always paid your rent on time.[^42]
+
+Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Some landlords charge around 50€ for it.[^2]
+
 ## Checklist
 
 - [ ] Give a [cancellation letter](/glossary/Kündigungsschreiben) to your landlord
@@ -276,3 +280,5 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^40]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^41]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
+[^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
+[^42]: [reddit.com](https://old.reddit.com/r/berlin/comments/b0o9zr/need_some_information_about/)
