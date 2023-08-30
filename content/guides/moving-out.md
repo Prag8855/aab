@@ -138,7 +138,7 @@ Write down the meter number (*[[Zählernummer]]*) and meter reading (*[[Zählers
 
 You will fill a handover document (*[[Übergabeprotokoll]]*) with your landlord. It describes the condition of the apartment, and what must be repaired.[^34]
 
-**Always make a handover document.** If your landlord repairs something that is not in this document, you don't have to pay for it. If it's not in the *Übergabeprotokoll*, it's not your problem.
+**Always make a handover document.**[^43] If your landlord repairs something that is not in this document, you don't have to pay for it. If it's not in the *Übergabeprotokoll*, it's not your problem.[^44]
 
 ## Move your things
 
@@ -191,13 +191,13 @@ Get rid of the things you don't need. The best options are [Kleinanzeigen](https
 
 ## Get your deposit back
 
-Some time after you move out, you will get your deposit (*[[Kaution]]*) back. It can take up to 6 months.
+Some time after you move out, you will get your deposit (*[[Kaution]]*) back. It can take a few weeks, often up to 6 months, and never more than 12 months.
 
-If there is nothing to repair, you will get the whole deposit back. If something needs to be repaired, the landlord will pay for the repairs with your deposit.
+**[How to get your deposit back ➞](/guides/mietkaution#when-do-i-get-my-kaution-back)**
 
-**[When do I get my deposit back? ➞](/guides/mietkaution#when-do-i-get-my-kaution-back)**
+Your landlord can use your *Kaution* to repair things that you broke. For example, your landlord can pay to fix holes in the walls. Landlords often try to use your *Kaution* for repairs that you should not pay for.
 
-If your landlord does not return your deposit after 6 months, get help from your [tenants' association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin).
+If your landlord tries to scam you, get help from your [tenants' association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung), it will cover the cost of a lawyer.
 
 **[Where to get help ➞](/guides/questions-about-berlin#apartment-questions)**
 
@@ -224,12 +224,14 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
     - [ ] Sign a handover document (*[[Übergabeprotokoll]]*)
 - [ ] Clean or repaint the apartment
 - [ ] Change your address
-- [ ] Get your deposit back
+- [ ] Get your deposit (*[[Kaution]]*) back
 - [ ] Get a *[[Mietschuldenfreiheitsbescheinigung]]*
 
 ## What to do next
 
 After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [move into your new apartment](/guides/moving-in).
+
+**[How to move into an apartment ➞](/guides/moving-in)**
 
 **If you leave Germany**, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^28] You can get thousands of euros back.[^36]
 
@@ -282,3 +284,5 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^41]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^42]: [reddit.com](https://old.reddit.com/r/berlin/comments/b0o9zr/need_some_information_about/)
+[^43]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/auszug-aus-der-wohnung-was-sollte-im-uebergabeprotokoll-stehen-1.1735527#:~:text=ich%20wurde%20immer%20ein%20ubergabeprotokoll%20empfehlen)
+[^44]: [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=ein%20vermieter%20kann%20nach%20der%20unterzeichnung%20keine%20(weiteren)%20mangel)

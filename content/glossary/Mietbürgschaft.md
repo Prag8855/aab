@@ -2,13 +2,14 @@
 Title: What is a Mietbürgschaft?
 German_term: Mietbürgschaft
 English_term: Rent payment sponsor
-Description: 
+Description: Someone who promises to pay your rent if you don't. It replaces the Kaution. Also called Mietaval or Mietkautionsversicherung.
 Date_created: 2018-07-31
-Related_guides: guides/find-a-flat-in-berlin.md
+Related_guides:
+    guides/mietkaution.md
+    guides/moving-in.md
+    guides/find-a-flat-in-berlin.m
 ---
 
-When you apply for an apartment in Germany, you must show a proof of income.
+The *Mietbürgschaft*, *Bürgschaft*, *Mietaval* or *Mietkautionsversicherung* is a way to pay your *[[Kaution]]* when you don't have enough money. Someone else - a parent, a friend or a bank - promises to pay your landlord if there is a problem.[^1]
 
-If you don't have a steady income, you can ask a parent or a friend to be your guarantor. If you don't pay the rent on time, your guarantor will have to pay it. This is a good option for students, freelancers and people with a low income. This is called a *Bürgschaft* or *Mietbürgschaft*.
-
-The *Bürgschaft* letter has no specific format. If your mother or father is your guarantor, use [this *Mietbürgschaft* template](https://www.fachanwalt.de/dokumente/magazin/buergschaft-vorlage-1.docx).
+[^1]: [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-5791014/#:~:text=hilf%C2%ADreich%20(Vergleich%20Rechtsschutzversicherung).-,Kautions%C2%ADversicherung%20und%20Mietb%C3%BCrg%C2%ADschaft,Was,-sind%20Kautions%C2%ADversicherungen%20und)

@@ -1,103 +1,115 @@
 ---
-Title: How does the apartment deposit (Kaution) work in Germany?
-Short_title: The apartment deposit
+Title: How the apartment deposit (Kaution) works in Germany
+Short_title: How apartment deposits work
 Description: Here's how you pay your apartment deposit (Mietkaution) in Germany, and how you get all of it back when you move out.
 Date_created: 2018-06-19
 ---
 
-Before you [move into an apartment](/guides/moving-in) in Germany, you must give the landlord a deposit (*[[Kaution]]*). The landlord keeps that deposit until you move out. If you leave the apartment in good condition, you get the whole deposit back. If something must be repaired, the landlord uses your deposit to pay for the repairs.
-
-In this guide, I tell you how the deposit works, and how to get your deposit back.
+When you [move into an apartment](/guides/moving-in), you must pay a deposit (*Kaution*). If you break something in the apartment, your landlord uses your *Kaution* to pay for the repairs. If there is nothing to repair, you get your *Kaution* back when you [move out](/guides/moving-out).
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How much is the Kaution?
 
-The *[[Kaution]]* is **maximum 3 times the [cold rent](/glossary/Kaltmiete)**.[^2] Some apartments have a smaller deposit, but it's almost always 3 times the cold rent.
-
-### Short-term rentals
-
-**The rules are the same** for short-term apartments: maximum 3 times the [cold rent](/glossary/Kaltmiete),[^13] but it's often less.
+The *[[Kaution]]* is maximum **3 times your [cold rent](/glossary/Kaltmiete)**.[^2] Short-term rentals sometimes have a smaller *Kaution*.[^13]
 
 ## When to pay the Kaution
 
-You must pay 1/3 of your deposit **before your lease starts**.[^2] You don't need to pay immediately after you sign the lease. You can wait until the day before you [move in](/guides/moving-in).
+You can pay your *Kaution* in 3 parts:[^17]
 
-Some landlords don't know this, and want the deposit sooner. They can't force you to pay sooner. If you already signed a contract, they can't do anything.
+- 1/3 before your lease starts
+- 1/3 one month after your lease starts
+- 1/3 two months after your lease starts
 
-**[How to move into an apartment](/guides/moving-in)** - explains the order of things
+> **Example:** Your *Kaution* is 3,000€. You move in on January 1. You must pay 1,000€ before January 1, 1,000€ before February 1, and 1,000€ before March 1.
+
+Your lease starts when you can [move in](/guides/moving-in), not when you sign the contract.[^3]
+
+Your landlord can't force you to...
+
+- ...pay the *Kaution* earlier[^22]
+- ...pay the whole *Kaution* before you move in[^1]
+- ...pay anything before you sign a lease.[^19]
+
+Don't pay anything before you see the apartment in person. There are many fake apartment listings online. Don't pay a *Kaution* for a fake apartment.
+
+**[Common apartment scams ➞](/guides/find-a-flat-in-berlin#common-apartment-scams)**
+
+## How to pay the Kaution
+
+Pay the *Kaution* **by [bank transfer](/glossary/SEPA-%C3%9Cberweisung)**. You can pay in cash, but it's not common. If you pay in cash, always ask for a proof of payment. If your landlord asks you to pay with PayPal or wire transfer, it's probably a scam.
+
+If you don't have a bank account in the [EU](/glossary/European%20Union), use [Wise](/out/transferwise) to transfer money from another country. I used it many times.
 
 ## If you don't have enough money
 
-The *Kaution* is a lot of money. You don't lose that money, but you can't touch it until you [move out](/guides/moving-out). If you don't have enough money, you have other options.
+The *Kaution* can be thousands of euros. If you don't have enough money, you can...
 
-### Pay in instalments
+- **Get a [[Mietbürgschaft]]**[^6]  
+    You don't pay a *Kaution*. Instead, someone else promises to pay your landlord if there is a problem. A parent or a friend can do this. Banks and insurance companies do this as a service. It costs around 4% of the *Kaution* every year.[^20] Some landlords don't like it. Some leases don't allow it.[^21]
+- **Borrow money**[^23]  
+    Get a loan from a bank or a friend, and pay it back when you can. If you just moved to Germany, it's harder to get a loan.
+- **Get help from the Agentur für Arbeit**[^4]  
+    If you receive [[ALG I]] or [[Bürgergeld]], the *[[Agentur für Arbeit]]* or the *[[Jobcenter]]* can pay your *Kaution*.
 
-You can pay your deposit in 3 instalments:[^2]
-
-- 1/3 before your lease starts
-- 1/3 before the end of the first month
-- and 1/3 before the end of the second month.[^2]
-
-The landlord can't force you to pay the *Kaution* all at once.[^3]
-
-### Pay with a Mietaval
-
-If you don't have enough money for the deposit, you can open a *[[Mietaval]]*. The bank guarantees the deposit for you, and you pay a small fee to the bank every month.
-
-### Get help from the Agentur für Arbeit
-
-If you receive [[ALG I]] or [[Bürgergeld]], the *[[Agentur für Arbeit]]* can pay your deposit.[^4]
-
-## If you don't have a bank account
-
-You have many options:
-
-- Pay the deposit with cash. Always ask for a receipt.
-- Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung) from a bank in another EU country.
-- Use [Wise](/out/transferwise) to transfer money from a bank in another country.
-
-I used Wise many times. It has low fees and it's easy to use.
-
-You should still [open a German bank account](/guides/first-bank-account-in-germany), because you will need it for other things. There are [expat-friendly banks](/guides/first-bank-account-in-germany#german-banks-for-expats) that don't require a [registered address](/glossary/Anmeldung).
-
-## Where your Kaution goes
-
-Your deposit will go in a savings account called a *Mietkautionskonto*. The landlord can't use your deposit money for other things. If your Kaution earns interest, it goes to you, not to the landlord.[^2]
-
-You can agree with the landlord to invest the money somewhere else.
+Your landlord can't ask for a *Kaution* and a *Mietbürgschaft*. It's one or the other, not both.[^24]
 
 ## How to get your Kaution back
 
 ### When do I get my Kaution back?
 
-**Usually, less than 6 months after you [move out](/guides/moving-out)**.[^5] The landlord must return your *Kaution* in a reasonable time.[^6] There is no legal limit, but 6 months is normal.[^7] It should not take more than 6 months without a good reason.
+**Up to 6 months after you [move out](/guides/moving-out)**.[^5] Your landlord must return your *Kaution* in a reasonable time. There is no legal limit, but 6 months is normal.[^7] It should never take more than 12 months.[^18]
 
-The landlord usually keeps your *Kaution* until they know how much utilities (*[[Nebenkosten]]*) you used. Sometimes, you used more water and heating than expected, and you must pay more. The utilities bill is adjusted once per year, with the *[[Nebenkostenabrechnung]]*.
+Your landlord holds your *Kaution* until...
 
-After you get the utilities bill (*[[Nebenkostenabrechnung]]*), and everything in the *Übergabeprotokoll* is repaired, the landlord must give your deposit back. They have no other reason to keep your deposit.[^7]
+- Everything in the *[[Übergabeprotokoll]]* is repaired
+- The *[[Nebenkostenabrechnung]]* is ready, and you paid for the extra *[[Nebenkosten]]*
 
-If your rent is reduced while you live somewhere, you will get part of your *Kaution* back. That's because the *Kaution* can't be more than 3 times the cold rent (*[[Kaltmiete]]*).[^7]
+Your landlord can't hold back more money than needed. They can't hold back your whole *Kaution* for a few small repairs. You should get part of your *Kaution* back now, and get the rest when the repairs are finished.[^10] For example, your landlord can't hold back a 3,000€ *Kaution* to repair a few holes in the wall.
+
+If everything is paid, your landlord must return your *Kaution* without waiting.[^25]
 
 ### Will I get all of my Kaution back?
 
-This depends on the condition of the apartment. If the landlord has to make repairs, they will use your deposit to pay for them. They can't make you pay to fix normal wear and tear.[^8] They can't make you pay for damage that was already there when you [moved in](/guides/moving-in).[^14]
+**It depends.** The landlord can use your *Kaution* to repair things that you broke. For example, your landlord can pay to fix holes in the walls. Landlords often try to use your *Kaution* to pay for other things, but that's illegal.
 
-If you don't return all the keys, the landlord can make you pay for missing keys. If you lost some keys, the landlord can [sometimes](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks) change all the locks in the building, and make you pay for it. This can be *very* expensive. They can use your *Kaution* to pay for it. If you have [liability insurance](/glossary/Haftpflichtversicherung), it will pay for this.[^15] That's why [you should have liability insurance](/guides/haftpflichtversicherung).
+The landlord must let you make the repairs yourself. You can also pay someone else to do the repairs. Your landlord can't force you to pay for professional repairs, or to choose a specific professional.[^26]
 
-**[What happens when you lose apartment keys ➞](/guides/lost-keys)**
+Your landlord can use your deposit to...
 
-When you give back the apartment keys (the *Wohnungsübergabe*), you fill a handover document ([*Übergabeprotokoll*](/glossary/%C3%9Cbergabeprotokoll)). In this document, you describe the condition of the apartment, and what needs to be repaired.
+- **Repair things that you broke**  
+    For example holes in the wall or broken bathroom tiles. You only pay for the real cost of the repairs. The landlord must give you a detailed invoice for the repairs.[^11]
+- **Pay your debts**  
+    For example if you leave without paying your rent or your *[[Nebenkosten]]*.[^9]
+- **Replace missing keys**  
+    If you lost some of your apartment keys. You only pay for the cost of replacement. The landlord might replace all the locks in the building, but [this is rarely necessary](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks), and you rarely have to pay for it.
+
+Your landlord can't use your deposit to...
+
+- **Repair normal wear and tear**[^8]  
+    Walls, wallpapers, floors and furniture get old and wear out. There will be scratches and scuff marks. This is normal and expected. You do not have to pay for this. [You don't always need to repaint the apartment](/guides/moving-out#repaint-the-apartment).
+- **Repair damage that is not your fault**  
+    You should not pay for damage that was already there when you [moved in](/guides/moving-in), or damage that you did not cause.[^14]
+- **Repair damage that is not in the [[Übergabeprotokoll]]**  
+    If it's not in the *Übergabeprotokoll* you signed, don't pay for it.[^16] This is why you should always sign an *Übergabeprotokoll*.
+- **Punish you**  
+    You only pay for the real cost of repairs. Your landlord can't make you pay a fine or a convenience fee.
+
+**If you have [liability insurance](/glossary/Haftpflichtversicherung)**, it covers most of those repairs, so you can get your whole *Kaution* back.[^15] Everyone should [get liability insurance](/guides/haftpflichtversicherung). [Household insurance](/glossary/Hausratversicherung) covers damage to appliances. [Pet liability insurance](/glossary/Hundehaftpflichtversicherung) pays for damage caused by your cat or dog.
 
 After you move out, the landlord has 6 months to find what must be repaired.[^12] After 6 months, they can't find more things to repair.
 
-When you move out, always fill an *Übergabeprotokoll*. The landlord can't charge you for problems that are not in this document.[^16]
-
-**The landlord can only use your deposit to make repairs or pay your debts**.[^9] They can't keep your *Kaution* to punish you. If they make repairs, they must give you a detailed invoice with the cost of repairs.[^10] They must show receipts for everything.[^11] They can't charge you for things they do not repair.[^11]
+**The landlord can only use your deposit to make repairs or pay your debts**. They can't keep your *Kaution* to punish you. If they make repairs, they must give you a detailed invoice with the cost of repairs.[^10]
 
 ### If your landlord won't return your Kaution
 
-If your landlord won't return your deposit, you can get help from your [tenant association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might cover the cost of a lawyer.
+If you don't get your deposit back, send a request by registered mail. Use [this template](https://kanzlei-tholl.de/mietrecht/mietkaution-rueckzahlung-kostenloser-musterbrief).
+
+**[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
+
+If that does not work, get help from your [tenant association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might cover the cost of a lawyer.
+
+**[Where to get help ➞](/guides/questions-about-berlin#apartment-questions)**
 
 ## Need help?
 
@@ -109,18 +121,29 @@ If your landlord won't return your deposit, you can get help from your [tenant a
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
+[^1]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/#:~:text=vereinbarungen%2C%20die%20diesem%20teilzahlungsrecht%20widersprechen%20sind%20unwirksam)
 [^2]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)
-[^3]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html), [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-4330619/), [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
-[^4]: [karaenke.com](https://www.karaenke.com/kein-geld-fuer-kaution/)
-[^5]: [umziehen.de](https://umziehen.de/suche-planung/rueckzahlung-der-mietkaution-fristen-regeln-fuer-die-auszahlung-1941)
-[^6]: [promietrecht.de](https://www.promietrecht.de/Mietsicherheit/Abrechnung-/-Freigabe/Abrechnung-Kaution-Auszahlung-oderVerwendung-durch-Vermieter-K1779.htm)
-[^7]: [welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html)
-[^8]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/ayaoqu/do_you_always_get_back_your_kaution/ehzkuqu/), [the-red-relocators.com](https://the-red-relocators.com/relocation-guides-germany/real-estate-germany/legalities-of-the-deposit/)
-[^9]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-wegen-mietrueckstand-bzw-mietschulden-einbehalten/)
-[^10]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4), [s-i-m.eu \(archived\)](https://web.archive.org/web/20201230034629/https://s-i-m.eu/mietkaution-richtig-abrechnen-so-geht-es-fuer-vermieter)
+[^3]: [mietrecht.org](https://www.mietrecht.org/mietkaution/faelligkeit-mietkaution/#:~:text=ob%20der%20beginn%20des%20mietverhaltnisses%20der%20einzug%20ist)
+[^4]: [karaenke.com](https://www.karaenke.com/kein-geld-fuer-kaution/#:~:text=wenn%20du%20arbeitslosengeld%201%20oder%20arbeitslosengeld%202%20beziehst)
+[^5]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#:~:text=in%20der%20regel%20spatestens%20sechs%20monate%20nach%20der%20ruckgabe), [umziehen.de](https://umziehen.de/suche-planung/rueckzahlung-der-mietkaution-fristen-regeln-fuer-die-auszahlung-1941), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-7-mietkaution-und-die-rechte-des-mieters.htm#:~:text=in%20der%20regel%20einen%20zeitraum%20von%20bis%20zu%206%20monaten)
+[^6]: [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-5791014/#:~:text=hilf%C2%ADreich%20(Vergleich%20Rechtsschutzversicherung).-,Kautions%C2%ADversicherung%20und%20Mietb%C3%BCrg%C2%ADschaft,Was,-sind%20Kautions%C2%ADversicherungen%20und), [karaenke.com](https://www.karaenke.com/kein-geld-fuer-kaution/#:~:text=bei%20einer%20mietburgschaft%20burgt%20ein%20anderer%20finanziell%20fur%20den%20mieter)
+[^7]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0614/10-mieterfragen-zur-kaution-im-mietverhaeltnis-061422.htm#:~:text=bestehen%20keine%20anspruche%20gegen%20den%20mieter%2C%20wird%20die%20barkaution), [promietrecht.de](https://www.promietrecht.de/Mietsicherheit/Abrechnung-/-Freigabe/Abrechnung-Kaution-Auszahlung-oderVerwendung-durch-Vermieter-K1779.htm), [welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html), [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-5), [bmgev.de](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/mietsicherheit/#:~:text=im%20allgemeinen%20gilt%2C%20dass%20der%20vermieter%20innerhalb%20von%20sechs%20monaten)
+[^8]: [the-red-relocators.com](https://the-red-relocators.com/relocation-guides-germany/real-estate-germany/legalities-of-the-deposit/)
+[^9]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-wegen-mietrueckstand-bzw-mietschulden-einbehalten/#:~:text=dazu%20zahlen%20insbesondere)
+[^10]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#:~:text=nicht%20vollstandig%2C%20sondern%20nur%20zu%20einem%20angemessenen%20teil), [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=den%20teil%20der%20kautionssumme%20den%20der%20hausherr%20nicht%20fur%20die%20kosten%20benotigt%2C%20darf%20der%20mieter%20schon%20vorher%20zuruckverlangen%2C)
 [^11]: [mietrecht.org](https://www.mietrecht.org/mietkaution/mietkaution-inanspruchnahme/#II-4)
+[^12]: [Welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html), [§548 BGB](https://www.gesetze-im-internet.de/bgb/__548.html), [tarif-testsieger.de](https://www.tarif-testsieger.de/haftpflichtversicherung/mietsachschaeden/#:~:text=mietschaden%20konnen%20noch%20sechs%20monate%20nach%20auszug)
 [^13]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/kaution-auch-fuer-befristete-mietverhaeltnisse-1.138864)
 [^14]: [evz.de](https://www.evz.de/en/living-in-germany/renting-in-germany.html)
-[^15]: [focus.de](https://www.focus.de/immobilien/mieten/tausende-euro-mehrkosten-vermeiden-schluessel-verloren-wenn-sie-nicht-aufpassen-kann-es-richtig-teuer-werden_id_4849172.html)
-[^16]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bcuubo/ever_heard_of_paid_service_or_individuals_that/eku1i6u/)
-[^12]: [Welt.de](https://www.welt.de/welt_print/article3917551/Ohne-Grund-kann-der-Vermieter-die-Kaution-nicht-einbehalten.html), [§548 BGB](https://www.gesetze-im-internet.de/bgb/__548.html)
+[^15]: [focus.de](https://www.focus.de/immobilien/mieten/tausende-euro-mehrkosten-vermeiden-schluessel-verloren-wenn-sie-nicht-aufpassen-kann-es-richtig-teuer-werden_id_4849172.html), [cosmosdirekt.de](https://www.cosmosdirekt.de/private-haftpflichtversicherung/haftpflichtversicherung-mietsachschaeden/#:~:text=werden%20mietsachschaden%20in%20der%20regel%20von%20der%20haftpflichtversicherung%20ubernommen)
+[^16]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/auszug-aus-der-wohnung-was-sollte-im-uebergabeprotokoll-stehen-1.1735527#:~:text=wenn%20der%20vermieter%20ein%20paar%20tage%20spater%20noch%20forderungen%20stellt), [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=ein%20vermieter%20kann%20nach%20der%20unterzeichnung%20keine%20(weiteren)%20mangel), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bcuubo/ever_heard_of_paid_service_or_individuals_that/eku1i6u/)
+[^17]: [§551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-7-mietkaution-und-die-rechte-des-mieters.htm#:~:text=also%20nicht%20schon%20bei%20vertragsabschluss), [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/#II)
+[^18]: [kautionsfrei.de](https://kautionsfrei.de/mietkaution-einbehalten#fristen), [kautionsfrei.de](https://kautionsfrei.de/mietkaution-rueckzahlung#zeitraum-einbehaltung)
+[^19]: [mietrecht.org](https://www.mietrecht.org/mietkaution/kaution-vor-mietvertrag/#:~:text=nicht%20besonders%20empfehlenswert)
+[^20]: [kautionskasse.de](https://www.kautionskasse.de/privatkunden), [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-5791014/#:~:text=zwischen%203%20und%205%20prozent)
+[^21]: [bmgev.de](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/mietsicherheit/#:~:text=mein%20neuer%20vermieter%20verlangt%20die%20kaution%20in%20bar), [karaenke.com](https://www.karaenke.com/kein-geld-fuer-kaution/#:~:text=nicht%20viele%20vermieter%20darauf%20einlassen)
+[^22]: [bmgev.de](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/mietsicherheit/#:~:text=bereits%20bei%20abschluss%2C%20also%20bei%20unterzeichnung%20des%20mietvertrags)
+[^23]: [karaenke.com](https://www.karaenke.com/kein-geld-fuer-kaution/#:~:text=es%20gibt%20verschiedene%20moglichkeiten%20die%20kaution)
+[^24]: [test.de](https://www.test.de/Mietkaution-Geld-gegen-Schluessel-4330614-5791014/#:~:text=darf%20sie%20keine%20weiteren%20sicherheiten%20verlangen)
+[^25]: [kautionsfrei.de](https://kautionsfrei.de/mietkaution-rueckzahlung#:~:text=wenn%20alle%20forderungen%20beglichen%20sind)
+[^26]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/mietrecht-wohnung-renovieren-1.1735114#:~:text=in%20welchen%20allein%20der%20vermieter%20den%20malerbetrieb%20bestimmt)

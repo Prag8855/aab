@@ -38,7 +38,7 @@ After you sign the lease, you get 3 important documents:
 After you sign the lease, you will meet with the landlord to...
 
 - **Fill the [[Übergabeprotokoll]]**  
-    This document describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken faucets etc. Take a lot of pictures to prove it.
+    This document describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken taps etc. Take a lot of pictures to prove it.
 - **Get the [[Wohnungsgeberbestätigung]]** Before or during the handover, you get a [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigung). You need it to [register your address](/guides/anmeldung-in-english-berlin) (*[[Anmeldung]]*).
 - **Read the electricity meter**  
     When you sign an electricity contract, you need to give the electricity provider your meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*). The electricity meter is usually hidden in the basement.

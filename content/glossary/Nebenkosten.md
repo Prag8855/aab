@@ -16,4 +16,4 @@ These utility costs (*Nebenkosten*) are included in your [warm rent](/glossary/W
 - Trash collection
 - Cleaning and landscaping
 
-You pay the *estimated* cost of those things with your rent. Every year, your landlord calculates the real cost, and sends you a bill (*[[Nebenkostenabrechnung]]*). If you paid too much *Nebenkosten*, you get money back. If you did not pay enough, you get an invoice.
+You pay the *estimated* utility costs every month with the rent. Every year, your landlord calculates the real costs, and sends you a bill (the *[[Nebenkostenabrechnung]]*). If you paid too much *Nebenkosten*, you get money back. If you did not pay enough, you get an invoice.
