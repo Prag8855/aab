@@ -38,10 +38,12 @@ The address of the recipient goes in the middle. The return address goes in the 
 
 If you want to write to your friend Max Mustermann, this is how you would write his address on the envelope:
 
-> Max Mustermann (the person you are writing to)  
-> Musterstraße 17 (street and door number)  
-> 12345 Berlin ([postal code](/glossary/Postleitzahl) and city)  
-> Deutschland
+![Envelope with German address](/illustrations/envelope-german-address.png)
+
+> Name of the person you are writing to  
+> Street and door number  
+> [Postal code](/glossary/Postleitzahl) and city  
+> Country
 
 ### If the name is not on the mailbox
 
@@ -49,17 +51,23 @@ German apartments do not always have door numbers, so **if the person's name is 
 
 For example, if you want to send a letter to Max at his girlfriend's Monika's address, you must address the letter like this:[^0]
 
-> Max Mustermann (the person you are writing to) **bei Monika Schmidt** (Monika has her name on the mailbox)  
-> Musterstraße 17  
-> 12345 Berlin  
-> Deutschland
+![Envelope with German address](/illustrations/envelope-german-address-bei-person.png)
+
+> The person you are writing to  
+> **bei** The person whose name is on the mailbox  
+> Street and door number  
+> [Postal code](/glossary/Postleitzahl) and city  
+> Country
 
 If you sent a letter to Max's workplace, it would look like this:
 
-> Max Mustermann (the person you are writing to) **bei BigBusiness GmbH** (Max works at BigBusiness)  
-> Banhofstraße 1A  
-> 10115 Berlin  
-> Deutschland
+![Envelope with German address](/illustrations/envelope-german-address-bei-business.png)
+
+> The person you are writing to  
+> **bei** The name of the business  
+> Street and door number  
+> [Postal code](/glossary/Postleitzahl) and city  
+> Country
 
 ## How to mail a letter in Germany
 
