@@ -424,7 +424,7 @@ config.context_globals = {
 
     # € - monitored
     "BVG_AB_TICKET": 3.20,  # TODO: Not monitored
-    "BVG_ABC_TICKET": 3.80,
+    "BVG_ABC_TICKET": 4.00,
     "BVG_FINE": 60,
     "BVG_REDUCED_FINE": 7,
     "DEUTSCHLAND_TICKET_PRICE": 49,

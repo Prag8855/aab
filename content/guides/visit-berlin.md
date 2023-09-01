@@ -5,7 +5,7 @@ Description: If you are visiting Berlin, these are the things you should see and
 Date_created: 2017-09-15
 ---
 
-This guide is for tourists who want to visit Berlin. If you want to move to Berlin, read my [ moving to Berlin guide](/guides/moving-to-berlin).
+This guide is for tourists who want to visit Berlin. If you want to move to Berlin, read my [moving to Berlin guide](/guides/moving-to-berlin).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -13,45 +13,51 @@ This guide is for tourists who want to visit Berlin. If you want to move to Berl
 
 You might need a visa to visit Germany. It depends on your citizenship:
 
-- **EU, [[EEA]] and Swiss citizens**  
+- **[EU](/glossary/European%20Union), [[EEA]] and Swiss citizens**  
     You can visit Germany without a visa. You can stay as long as you want. You can also live and work in Germany.
 - **Other [Schengen area](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744) residents**  
     You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period.[^0] If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
 - **Citizens of [other countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**  
     People from [certain countries](https://www.auswaertiges-amt.de/en/visa-service/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs {{SCHENGEN_VISA_FEE|cur}}€.[^1] You can apply for a Schengen visa at the [German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/about-us/auslandsvertretungen/deutsche-auslandsvertretungen).
 
-**Useful link:** [Visa requirements by country](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) - Federal Foreign Office
+**[Visa requirements by country](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)** - Federal Foreign Office
 
 ## How to travel to Berlin
 
 ### By plane
 
-Use [Kayak](https://www.kayak.de/?ispredir=true), [Omio](/out/omio), [Rome2Rio](https://www.rome2rio.com/) or [Google Flights](https://www.google.com/flights) to find a flight to Berlin. You will arrive at the **[Berlin Brandenburg](https://goo.gl/maps/iERwxpTUr7EnYFnKA) airport (BER)**. It's 30-60 minutes from Berlin by train.
+Fly to the [Berlin Brandenburg airport](https://goo.gl/maps/iERwxpTUr7EnYFnKA). Use [Kayak](https://www.kayak.de/?ispredir=true), [Omio](/out/omio), [Rome2Rio](https://www.rome2rio.com/) or [Google Flights](https://www.google.com/flights) to book your flight.
 
-There are 3 ways to get from the BER airport to the city:
+To get from the airport to the city, you can...
 
 - **Use [public transport](/guides/public-transit)**  
-    You can take a train from BER airport to Berlin, even at night. There are trains every few minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) to find directions. The train ride takes 30 to 45 minutes. Buy an [ABC ticket](/guides/public-transit#tariff-zones) at the ticket machines on the train platform. It costs {{BVG_ABC_TICKET|cur}}€.[^2] [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. For more information, read the [Berlin public transit guide](/guides/public-transit).
+    Take a train from BER airport to Berlin. It takes 30 to 45 minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app). The airport is in zone C, so you must buy an ABC ticket. It costs {{BVG_ABC_TICKET|cur}}€. You can pay with cash or a credit card.[^2] [Validate](/guides/public-transit#step-2-validate-your-ticket) your ticket before you get on the train. - [How to use public transit](/guides/public-transit)
 - **Take a taxi**  
-    There are taxis waiting outside the BER airport. A taxi from the airport to the city centre costs around 50€.[^3] It's a bit faster than public transport, but it's very expensive. [Uber](https://www.uber.com/global/en/airports/ber/) and [FreeNow](https://www.free-now.com/de/flughafen) also give rides from the airport to the city. German taxis must accept cash and credit cards.[^4]
+    There are taxis outside the BER airport. A ride from the airport to the city centre costs at least 50€.[^3] You can also book a taxi with [Uber](https://www.uber.com/global/en/airports/ber/) or [FreeNow](https://www.free-now.com/de/flughafen). You can pay with cash or a credit card.[^4]
 - **Rent a car**  
-    You can rent a car at the airport. There are kiosks for different car rental companies. You can also use car sharing services like [Miles](https://support.miles-mobility.com/hc/en-us/articles/360021219459-Airport-rate-Berlin-Potsdam), and drive to Berlin for only 25€.
+    You can rent a car at the airport. There are kiosks for different car rental companies. You can also rent a [Miles](https://miles-mobility.com/en-de/airport) car.
 
-### By bus
+### By intercity bus
 
-Intercity buses are usually cheaper than planes and trains. They are not very comfortable, but they are cheap. Most buses have free Wi-Fi and power outlets under the seats. The Wi-Fi is not very reliable.
+Intercity buses are often cheaper than planes or trains. Use [Rome2Rio](https://www.rome2rio.com/) or [Omio](/out/omio) to buy bus tickets. Some buses let you bring a bicycle.
 
-Most buses arrive at [BER airport](https://goo.gl/maps/xwWrEedtNxMBxeX96), [Zentraler Omnibusbahnhof](https://goo.gl/maps/m5e93UyQamw4YvDY6) (ZOB) or [Alexanderplatz](https://goo.gl/maps/Mg5nKPhJzAS7fLNdA). BER airport is around 45 minutes from the centre. ZOB is 25 minutes from the centre. Alexanderplatz is in the city centre. If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#tariff-zones) to get to Berlin.
+Most buses have free Wi-Fi, power outlets and a small toilet.
 
-Use [Rome2Rio](https://www.rome2rio.com/) or [Omio](/out/omio) to find a bus to Berlin. If you buy your ticket in advance, it's cheaper.
+Most intercity buses arrive at...
+
+- [Berlin Brandenburg airport](https://goo.gl/maps/iERwxpTUr7EnYFnKA), 45 minutes from the centre
+- [Zentraler Omnibusbahnhof](https://goo.gl/maps/m5e93UyQamw4YvDY6) (ZOB), 25 minutes from the centre
+- [Alexanderplatz](https://goo.gl/maps/Mg5nKPhJzAS7fLNdA), in the centre
+
+If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#tariff-zones) to get to Berlin. It costs {{BVG_ABC_TICKET|cur}}€.
 
 ### By train
 
-Intercity trains are a little more expensive than buses, but they are faster and more comfortable. They often have free Wi-Fi and power outlets under the seats. The Wi-Fi is not very reliable.
+Intercity trains are more comfortable, but also more expensive. They arrive directly in the city centre. Most trains have free Wi-Fi, but it's often unreliable. Some trains let you bring a bicycle.
 
 Most trains stop at the central train station, [Berlin Hauptbahnhof](https://goo.gl/maps/yXUBcBH9cGnx1dP46). This is in the middle of Berlin.
 
-Use [Rome2Rio](https://www.rome2rio.com/), [Omio](/out/omio), [Bahn.de](/out/bahn) or [Google Maps](https://maps.google.com/) to find a train to Berlin. If you buy your tickets in advance, they will be cheaper.
+Use [Rome2Rio](https://www.rome2rio.com/), [Omio](/out/omio), [Bahn.de](/out/bahn) or [Google Maps](https://maps.google.com/) to find a train route. To pay less, use the [Super Saver Fare](https://www.bahn.com/en/offers/super-saver-fare) or book your tickets long in advance.
 
 ### By car or motorcycle
 
@@ -61,7 +67,7 @@ You can drive in Germany with a foreign driving licence. You might need a transl
 
 Driving in Berlin is easy, but free parking is hard to find.
 
-Most parking spaces in the centre cost money.[^5] They cost 1€ to 4€ per hour.[^6] Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free. It's always easy to park a motorcycle.
+Most parking spaces in the centre cost 1€ to 4€ per hour.[^6] Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free.
 
 You can also park outside the city and take the train to Berlin. There are free [Park and Ride (P+R) car parks](https://www.google.com/maps/d/viewer?mid=1lfZOUDUCPL1UgzHwGptdyyfhwEk). You can park your car there for free, and take the train to Berlin. You can find them on [this map](https://www.vbb.de/en/vbb-travel-info/) (in Multi-mobility), or with [this list](https://www.visitberlin.de/en/car-parks).
 
@@ -111,23 +117,23 @@ There are many lists of things to see in Berlin. See [visitBerlin.de](https://ww
 
 - **[Berlin Wall](https://goo.gl/maps/SWxzMFcix9QTLQXN6)** (*Berliner Mauer*)  
     Some parts of the Berlin wall were preserved. There is preserved part of the wall and a free museum [on Bernauer Straße](https://goo.gl/maps/SWxzMFcix9QTLQXN6). The [East Side Gallery](https://goo.gl/maps/hekJmdFPktP9huxs6) is another part of the wall that was turned into a gallery.
-- [**Berlin Cathedral**](https://goo.gl/maps/GniFGJixL5aFxKbB6) (*Berliner Dom*)  
+- **[Berlin Cathedral](https://goo.gl/maps/GniFGJixL5aFxKbB6)** (*Berliner Dom*)  
     The most famous church in Berlin. You can visit it, or relax on the grass in front of it. It's on the [museum island](https://goo.gl/maps/sPpsKZkauPaP4F2e6), close to many old museums.
 - **[Berliner Unterwelten](https://www.berliner-unterwelten.de/en/index.html)**  
     Bunker, tunnel and air raid shelter tours. The tours are in German, English, French, Spanish and more. I have done 3 of their tours. They are very interesting.
-- [**Brandenburg Gate**](https://goo.gl/maps/pJvVaLRLvsHyYg5S6) (*Brandenburger Tor*)  
+- **[Brandenburg Gate](https://goo.gl/maps/pJvVaLRLvsHyYg5S6)** (*Brandenburger Tor*)  
     The iconic gate on Berlin's East-West axis.
 - **[Christmas markets](https://www.visitberlin.de/en/christmas-markets-berlin)**  
     In November and December, you can visit Berlin's Christmas markets. There are dozens of them. Many are in scenic locations. There are dozens of kiosks that sell hot drinks, food, sweets and home-made goods. The Christmas markets are open from the middle of November to the end of December.
-- [**East Side Gallery**](https://goo.gl/maps/R18gdTWvTqdSxHqn7)  
+- **[East Side Gallery](https://goo.gl/maps/R18gdTWvTqdSxHqn7)**  
     A long mural painted directly on the Berlin wall.
-- [**Mauerpark**](https://g.page/mauerpark-berlin)  
+- **[Mauerpark](https://g.page/mauerpark-berlin)**  
     Every Sunday, this park hosts a big flea market and an open air karaoke. Many musicians also play music there.
 - **[Memorial to the Murdered Jews of Europe](https://goo.gl/maps/S1XLSpUHffWfMJsh7)**  
     Next to the Brandenburg gate is a large holocaust memorial and museum. You can walk through the memorial.
 - **[Museum island](https://goo.gl/maps/sPpsKZkauPaP4F2e6)** (*Museuminsel*)  
     Museum island is home to the Berliner Dom, and many of the biggest, oldest museums. If you like beautiful old buildings, it's worth a visit.
-- [**Oberbaum Bridge**](https://goo.gl/maps/EhWuSsraoqi8Mx3M7) (*Oberbaumbrücke*)  
+- **[Oberbaum Bridge](https://goo.gl/maps/EhWuSsraoqi8Mx3M7)** (*Oberbaumbrücke*)  
     A beautiful bridge that goes across the river Spree. It's right next to the East Side Gallery. You can also kayak on the Spree to get a really good view on the bridge.
 - **[Palace of tears](https://goo.gl/maps/yxaLcUpHbLcyocbf6)** (*Tränenpalast*)  
     A small, free museum about the border control between East and West Germany. It's in the old border crossing point, right next to the Friedrichstraße train station.
@@ -141,10 +147,10 @@ There are many lists of things to see in Berlin. See [visitBerlin.de](https://ww
     Teufelsberg is an artificial hill. There is a cold war listening station at the top. It's now an open air gallery with a really good view of Berlin. If you don't want to pay to visit Teufelsberg, you can visit Drachenberg, the other hill next to it.
 - **[TV tower](https://goo.gl/maps/svPnugSozyyAiQ1v7)** (*Fernsehturm*)  
     The TV tower in Alexanderplatz is visible from almost anywhere in Berlin. You can take an elevator to the top of the tower, and get a panoramic view of Berlin.
-- [**Victory Column**](https://goo.gl/maps/Q6xCLbCtbsWsePZw7) (*Siegessäule*)  
+- **[Victory Column](https://goo.gl/maps/Q6xCLbCtbsWsePZw7)** (*Siegessäule*)  
     The Victory Column in Tiergarten sits on Berlin's East-West axis. You can go up the tower and see Tiergarten, the Brandenburg Gate and the Reichstag building from above.
 
-**Useful link:** [visitBerlin.de](https://www.visitberlin.de/en) - Official website with really good information
+**[visitBerlin.de](https://www.visitberlin.de/en)** - Official website with really good information
 
 ### Events
 
@@ -153,31 +159,37 @@ You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-ber
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
 - **Cherry blossom** - April and May  
-    After the reunification, a Japanese television channel donated 10,000 cherry trees. Most of them were planted where the Berlin wall was. Every spring, the cherry trees bloom and cover the alleys in rose petals.
+    After the reunification, a Japanese TV channel donated 10,000 cherry trees to Berlin. Most of them were planted where the Berlin wall was. Every spring, the cherry trees bloom and cover the alleys in rose petals.
 - **[Fête de la Musique](https://www.fetedelamusique.de/)** - June 21  
     A music festival in the entire city. There are musicians and concerts in every part of the city.
 - **[Zug der Liebe](https://zugderliebe.org/)** - End of August  
     The *Zug der Liebe* is a big parade with techno, dance and a lot of happy people.
-- **[Christopher Street Day](https://en.wikipedia.org/wiki/Christopher_Street_Day)** - late summer  
-    A big LGBTQ+ parade with music. It's similar to Gay Pride in other countries.
+- **[Berlin Pride](https://en.wikipedia.org/wiki/Christopher_Street_Day)** (CSD) - End of July  
+    A big LGBTQ+ parade with music trucks. It's one of the largest Pride events in the world.
 - **[Christmas markets](https://www.visitberlin.de/en/christmas-markets-berlin)** - Middle of November until end of December  
     Germany is famous for its Christmas markets. Berlin has dozens of different markets, including alternative markets like the Japanese Christmas market and the Naughty Xmas Market.
+
+**[Official event calendar ➞](https://www.berlin.de/en/events/)**
 
 **[Public holidays in Berlin ➞](/guides/public-holidays)**
 
 ### Walking tours
 
-Guided tours are a great way to discover Berlin. Use [GetYourGuide](https://www.getyourguide.com/s/?q=Berlin,%20Germany) to find walking tours, or look at [this list](https://www.visitberlin.de/en/guided-walking-tour-berlin). I highly recommend the [Berliner Unterwelten](https://www.berliner-unterwelten.de/en/index.html) tours.
+Guided tours are a great way to discover Berlin. Use [GetYourGuide](https://www.getyourguide.com/s/?q=Berlin,%20Germany) or [Airbnb experiences](https://www.airbnb.com/s/Berlin--Germany/experiences) to find walking tours, or look at [this list](https://www.visitberlin.de/en/guided-walking-tour-berlin). I highly recommend the [Berliner Unterwelten](https://www.berliner-unterwelten.de/en/index.html) tours.
 
 ### Outside of Berlin
 
-If you have a bit more time, [**Potsdam**](https://en.wikivoyage.org/wiki/Potsdam) and **[Wannsee](https://www.google.com/maps/place/Wannsee,+Berlin/@52.4197082,13.1025382,13z/)** are worth a visit. You can get there by train. Potsdam is in [zone C](/guides/public-transit#tariff-zones), so you need an ABC ticket.
+If you have a bit more time, **[Potsdam](https://en.wikivoyage.org/wiki/Potsdam)** and **[Wannsee](https://www.google.com/maps/place/Wannsee,+Berlin/@52.4197082,13.1025382,13z/)** are worth seeing. You can get there by train. Potsdam is in [zone C](/guides/public-transit#tariff-zones), so you need an ABC ticket.
+
+In the last week of April, you can also see the [Baumblütenfest](https://www.baumbluetenfest.de/) in Werder. It's one of the largest folk festivals in [[Brandenburg]].
 
 ### Clubs in Berlin
 
-Berlin is famous for its techno clubs. It can be hard to get into certain clubs. Clubs don't let everyone in. For example, they often reject tourists, big groups, drunk people, and people under 21 years old.[^7] In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Most clubs have a cover charge. You must pay 5€ to 15€ to get in. Clubs in Berlin stay open until the morning. The party starts late, and the busiest time is around 2AM.
+Berlin is famous for its techno clubs. It can be hard to get into certain clubs. Clubs don't let everyone in. For example, they often reject tourists, big groups, drunk people, and people under 21 years old.[^7]
 
-You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9]
+In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Ask the locals what the unofficial dress code is.
+
+Most clubs have a cover charge. You must pay 5€ to 15€ to get in. Clubs in Berlin stay open until the morning. The party starts late, and the busiest time is around 2AM. You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9]
 
 Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow clubs on Facebook and Instagram.
 
@@ -185,9 +197,9 @@ Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow
 
 ### Typical Berlin street food
 
-- [**Currywurst**](https://en.wikipedia.org/wiki/Currywurst) - Currywurst is street food. It's a pork sausage with a curry and ketchup sauce. It's usually served with fries (*mit Pommes*) in a cardboard plate. [Curry 36](https://www.google.com/maps/search/Curry+36/@52.540513,13.3772295,13z/) is a good place to try a *Currywurst mit Pommes*. [Konnopke's Imbiss](https://goo.gl/maps/Kh2gtdq55ccLzDQeA) is another famous place.
+- **[Currywurst](https://en.wikipedia.org/wiki/Currywurst)** - Currywurst is street food. It's a pork sausage with a curry and ketchup sauce. It's usually served with fries (*mit Pommes*) in a cardboard plate. [Curry 36](https://www.google.com/maps/search/Curry+36/@52.540513,13.3772295,13z/) is a good place to try a *Currywurst mit Pommes*. [Konnopke's Imbiss](https://goo.gl/maps/Kh2gtdq55ccLzDQeA) is another famous place.
 - **Döner kebab** - The standard street food in Berlin. The best kebab places are a secret, but the [worst kebabs](https://www.reddit.com/r/berlin/comments/77vdgd/where_is_the_worst_kebab_in_berlin/) are usually in train stations and tourist areas.
-- **Gemüse döner** (also called a chicken döner) - A döner kebab with chicken and fried vegetables. [Mustafa's](https://goo.gl/maps/RLhvoLhZNAhjABheA), [K'Ups](https://goo.gl/maps/FVVnfPsZLfYNoF5r9) and [Rüyam](https://g.page/rueyam). are some of the most famous chicken döner places.
+- **Gemüse döner** (also called a chicken döner) - A döner kebab with chicken and fried vegetables. [Mustafa's](https://goo.gl/maps/RLhvoLhZNAhjABheA), [K'Ups](https://goo.gl/maps/FVVnfPsZLfYNoF5r9) and [Rüyam](https://g.page/rueyam) are some of the most famous chicken Döner places.
 
 ### Typical Berlin dishes
 
@@ -212,7 +224,7 @@ There is no "down town Berlin". There are many popular neighbourhoods, and each 
 - **Vacation apartments:** [Airbnb](https://www.airbnb.com/) or [Wimdu](https://www.wimdu.de/)
 - **Long term apartments:** see [How to find an apartment in Berlin](/guides/find-a-flat-in-berlin)
 
-If you are more patient, you can also use [CouchSurfing](https://www.couchsurfing.com) and [BeWelcome](https://www.bewelcome.org/). People host visitors for free, and spend time with them during their visit. You can meet very interesting people like this.
+If you are more patient, you can also use [CouchSurfing](https://www.couchsurfing.com) and [BeWelcome](https://www.bewelcome.org/). People host visitors for free, and spend time with them during their visit.
 
 ## Shopping in Berlin
 
@@ -311,7 +323,6 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 [^2]: [bvg.de](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/single-tickets/single-ticket)
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
-[^5]: [hotel.de](https://www.hotel.de/blog/parken-in-berlin/)
 [^6]: [berlin.de](https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/ordnung/strassenverkehr-parken/artikel.217586.php), [hotel.de](https://www.hotel.de/blog/parken-in-berlin/)
 [^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/c02948/why_is_nightlife_the_way_it_is/), [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
 [^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
