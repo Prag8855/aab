@@ -32,7 +32,7 @@ Each insurance policy is different. Usually, you can choose what your insurance 
 - **Sending legal letters**  
     A lawyer can write a cease-and-desist letter (*[[Abmahnung]]*) to your landlord or your employer. That often solves the problem. It shows that you can defend yourself.
 - **Suing someone**  
-    If you go to court, your legal insurance will pay for your lawyer, and for all court fees. It will pay even if you lose. But your insurance won't cover you if you have no chance of winning. They will tell you before that you start.
+    If you go to court, your legal insurance will pay for your lawyer, and for all court fees. It will pay even if you lose. But your insurance won't cover you if you have no chance of winning. They will tell you that before you start.
 - **Mediation**  
     Mediation is when a neutral expert helps two people find a solution. Your legal insurance will pay for the mediator.
 - **Your spouse and children**  
