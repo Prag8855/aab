@@ -209,7 +209,7 @@ During your first 6 months at a new company, you are in your probation period (*
 
 ### Things an employee must know
 
-Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung) once per month, on the first day of the month.[^3] Your employer takes [salary tax](/glossary/Lohnsteuer), [health insurance](/glossary/Krankenversicherung), [pension insurance](/glossary/gesetzliche%20Rentenversicherung) and [unemployment insurance](/glossary/Arbeitslosenversicherung) from your paycheck. Use my [income tax calculator](/tools/tax-calculator) to know how much money you keep.
+Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung) once per month, [on the first day of the month](/guides/salaries-in-germany#when-do-i-get-paid).[^3] Your employer takes [salary tax](/glossary/Lohnsteuer), [health insurance](/glossary/Krankenversicherung), [pension insurance](/glossary/gesetzliche%20Rentenversicherung) and [unemployment insurance](/glossary/Arbeitslosenversicherung) from your paycheck. Use my [income tax calculator](/tools/tax-calculator) to know how much money you keep.
 
 All employees in Germany get paid vacation days, and paid sick days.
 

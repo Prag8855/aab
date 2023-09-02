@@ -9,6 +9,6 @@ Related_guides: guides/start-a-business-in-germany.md, guides/hundesteuer.md
 
 A *Postleitzahl* or *PLZ* is a German post code or zip code. It has 5 digits. For example, the post code of the Brandenburg Gate is 10117.
 
-You should always include the *Postleitzahl* in a German address. In a big city like Berlin, two streets can have the same name. The only difference is their post code.
+Always include the *Postleitzahl* when you [write a German address](/guides/addressing-a-letter-in-germany). In big cities, two streets can have the same name. The only difference is their post code.
 
 **[Postal code finder](https://www.postdirekt.de/plzserver/)** - Deutsche Post
