@@ -69,7 +69,7 @@ Sabbatical leave is a long, unpaid vacation from work. People usually take a sab
 
 ## Sick leave
 
-If you are sick, you get paid sick leave. You don't need to use your vacation days.
+If you are sick, you get paid sick leave. You don't need to use your vacation days. If you are sick while on vacation, [you get your vacation days back](/guides/sick-leave#if-you-are-sick-while-on-vacation).
 
 **[Sick leave in Germany ➞](/guides/sick-leave)**
 

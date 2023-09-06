@@ -51,11 +51,13 @@ If your employer is not happy with your work, you can get **fired**. You can't g
 
 ### Resist
 
-Your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] [Get legal help](#need-help) for this.
+During your [probation period](/glossary/Probezeit), you can be fired without a reason.
+
+After the end of your probation period, your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] [Get legal help](#need-help) for this.
 
 ### Calculate your notice period
 
-Your job has a notice period (*[[Kündigungsfrist]]*). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send your on [garden leave](https://en.wikipedia.org/wiki/Garden_leave).
+Your job has a notice period (*[[Kündigungsfrist]]*), even during your [probation period](/glossary/Probezeit). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send your on [garden leave](https://en.wikipedia.org/wiki/Garden_leave).
 
 If you get fired for misconduct, there might be no notice period.[^10]
 
