@@ -34,8 +34,8 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
         - Choose **Nebenwohnung** if you will have multiple residences, and this will be a secondary residence
     - **Tag des Einzugs**: Enter your move-in date. If you already moved in, you can write a past date. Use the DD.MM.YYYY date format.
     - **Postleitzahl, Gemeinde, Ortsteil**: The [postal code](/glossary/Postleitzahl), municipality and region of your new residence. For example, "10115 Berlin Mitte".
-    - **Straße, Hausnummer, Zusätze**: The street, house number and door number of your new residence. For example, "Chausseestraße 123, #23". If the landlord does not want to put your name on the mailbox, [you must add "c/o" or "bei" to your address](/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox)[^0] in the Züsätze field.
-- **Gemeindekennzahl (right column)**: This column contains information about your previous residence
+    - **Straße, Hausnummer, Zusätze**: The street, house number and door number of your new residence. For example, "Chausseestraße 123, #23". If the landlord does not want to put your name on the mailbox, [add "c/o" or "bei" to your address](/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox)[^0]. If you can, write the [building, entrance and floor number](/guides/addressing-a-letter-in-germany#extra-information). - [How to write your address](/guides/addressing-a-letter-in-germany)
+- **Gemeindekennzahl (right column)**: This column contains information about your previous residence. If your previous address address is in another country, just write your country name in "Bei Zuzug aus dem Ausland Staat" field.[^1]
     - **Die (letzte) bisherige Wohnung (im Inland) war**:
         - Choose **alleinige Wohnung** if your last residence in Germany was your only residence
         - Choose **Hauptwohnung** if you will have multiple residences, and your last residence in Germany was your main residence
@@ -43,7 +43,9 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
         - If this is your first residence in Germany, do not check any box.
     - **Tag des Auszugs**: Enter the move-out date for your previous residence. If you already moved out, you can write a past date. Use the DD.MM.YYYY date format.
     - **Postleitzahl, Gemeinde, Ortsteil**: The [postal code](/glossary/Postleitzahl), municipality and region of your previous residence. For example, "10115 Berlin Mitte".
-    - **Straße, Hausnummer, Zusätze**: The street, house number and door number of your previous residence. For example, "Chausseestraße 123, #23"
+    - **Straße, Hausnummer, Zusätze**: The street, house number and door number of your previous residence. For example, "Chausseestraße 123, #23". - [How to write your address](/guides/addressing-a-letter-in-germany)
+- **Bei Zuzug aus dem Ausland Staat**  
+    If your last address was in another country, write the country here. Don't write your previous address.[^1]
 - **Wird die bisherige Wohnung beibehalten?**
     - Choose **Nein** if you will not keep your previous residence.
     - Choose **Ja, und zwar als** if you will keep your previous residence
@@ -53,6 +55,7 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
     - Choose **Nein** if you do not have any other residences than the ones listed above.
     - Choose **Ja** if you have other residences than the ones listed above. If you check this box, you must also fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
 - **Section 1 and section 2**: These sections contain information about the people who are registering their address. If you register more than two people, you must fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
+    - **Familienmitglied ist**: leave this space empty
     - **Familienname, ggf. Doktorgrad, Passname**: Your last name, doctoral degrees (e.g. "PhD")
     - **Vornamen**: Your first name. If you have multiple first names, underline the name you want to be called.
     - **Geburtsname**: Your birth name
@@ -75,4 +78,5 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
     - **Gültig bis**: The date of expiration of the document. Use the DD.MM.YYYY date format.
 - **Datum, Unterschrift [...]**: The date, and your signature. Use the DD.MM.YYYY date format. Your signature should be the same as on your passport or national ID.
 
-[^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/)
+[^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
+[^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (September 2023)

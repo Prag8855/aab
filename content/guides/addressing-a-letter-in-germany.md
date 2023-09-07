@@ -1,7 +1,7 @@
 ---
-Title: How to address a letter in Germany
-Short_title: How to address a letter
-Description: This is how you send letters and packages to addresses in Germany.
+Title: How to write a German address
+Short_title: How to write a German address
+Description: This is how you address letters and packages to Germany, and how you write your address on German forms.
 Date_created: 2017-12-04
 ---
 
@@ -11,9 +11,11 @@ This guide shows you how to write a German address and send letters to Germany.
 
 ## Where to put the address on the envelope
 
-Your letters will only get delivered if you write the address correctly on the envelope. The location of the addresses and postage stamps on German letters are the same as in North America and the rest of Europe.
+It's the same as in most countries:
 
-The address of the recipient goes in the middle. The return address goes in the top left and the postage stamp in the top right. The section at the bottom must be left empty for the postal services.
+- The address of the person you write to goes **in the middle**.
+- Your address goes in the top left. It's optional. If the letter can't be delivered, they send it back to this address.
+- The postage stamp goes in the top right.
 
 ![Address a letter in Germany](/illustrations/address-a-letter-in-germany.png)
 
@@ -21,18 +23,44 @@ The address of the recipient goes in the middle. The return address goes in the 
 
 ### The parts of a German address
 
+German addresses are written in this order:
+
 - **Person or business name**  
     German addresses start with the recipient's name. This name must be on the person's mailbox, or your letter won't be delivered.
+    - **Intermediary**  
+        If the recipient's name is not on their mailbox, add "bei" or "c/o" to the address. The postal worker will give your letter to this person or company. - [More information](#if-the-name-is-not-on-the-mailbox)
+    - **Privacy details**  
+        Add *Persönlich* (personal) or *Vertraulich* (confidential) if no one else should read this letter.[^5]
 - **Street name and house number**  
-    Germans put the street name before the door number. For example, "Musterstraße 17". A building can have multiple entrances like "17A" and "17B".
-- **Apartment number**  
-    German apartments rarely have individual door numbers, only a name on the person's mailbox. This is why the person's name must be correct.
+    Put the street name before the door number. For example, "Musterstraße 17". A building can have multiple entrances like "17A" and "17B".
+- **Extra information** (*Addresszusatz*)  
+    See [below](#extra-information).
 - **Postal code** (*[[Postleitzahl]]*)  
     Germany uses 5-digit postal codes. Always include it in the address, because big cities can have two streets with the same name. The [postal code finder](https://www.postdirekt.de/plzserver/) can help.
 - **City name** (*Ort*)  
     For example, "Berlin".
 - **Country** (*Land*)  
-    For example, "Germany" or "Deutschland".
+    For example, "Germany" or "Deutschland". If you are in the same country, you don't need to include the country.
+
+### Extra information
+
+Sometimes, an address is not enough. You must add extra information in the *Addresszusatz* field. This helps delivery people find your apartment.
+
+- **Entrance**  
+    Some buildings have multiple entrances. It can be hard to find your apartment.
+    - *Haus B* (building B)
+    - *Treppenhaus 3* (staircase 3)
+    - *Vorderhaus* (entrance in the front)
+    - *Hinterhaus* (entrance in the courtyard)
+    - *Seitenflügel* (entrance on the side)
+- **Floor number**[^3]
+    - *Erdgeschoß* or *EG* (ground floor)
+    - *1. Etage*, *1. Stock* or *1. OG* (first floor, above the ground floor)
+    - *2. Etage*, *2. Stock* or *2. OG* (second floor)
+    - *1. Untergeschoß*, *1. UG* or just *UG* (first basement, below the ground floor)
+    - *Dachgeschoß* or *DG* (top floor)
+- **Apartment number**
+    German apartment buildings rarely have apartment numbers. Apartment numbers are written as *#123*, *Whg. 123* or "W123".[^4]
 
 ### Simple example
 
@@ -47,9 +75,9 @@ If you want to write to your friend Max Mustermann, this is how you would write 
 
 ### If the name is not on the mailbox
 
-German apartments do not always have door numbers, so **if the person's name is not on the mailbox, they will not receive your letter**. You *must* include the name of the main tenant on the envelope. Use "[c/o](https://en.wiktionary.org/wiki/care_of) [name]" or "bei [name]".
+German apartments do not always have door numbers, so **if the person's name is not on the mailbox, they will not receive your letter**. You *must* include the name of the main tenant on the envelope. Use "bei [name]" or "[c/o](https://en.wiktionary.org/wiki/care_of) [name]".[^2] When addressing an employee at a company, use "z. Hd."[^6]
 
-For example, if you want to send a letter to Max at his girlfriend's Monika's address, you must address the letter like this:[^0]
+For example, to send a letter to Max at his girlfriend Monika's address, write the address like this:[^0]
 
 ![Envelope with German address](/illustrations/envelope-german-address-bei-person.png)
 
@@ -59,12 +87,12 @@ For example, if you want to send a letter to Max at his girlfriend's Monika's ad
 > [Postal code](/glossary/Postleitzahl) and city  
 > Country
 
-If you sent a letter to Max's workplace, it would look like this:
+If you sent a letter to Max's office, address it like this:
 
 ![Envelope with German address](/illustrations/envelope-german-address-bei-business.png)
 
 > The person you are writing to  
-> **bei** The name of the business  
+> **z. Hd.** The name of the business  
 > Street and door number  
 > [Postal code](/glossary/Postleitzahl) and city  
 > Country
@@ -74,3 +102,9 @@ If you sent a letter to Max's workplace, it would look like this:
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
 [^0]: [Wikipedia](https://de.wikipedia.org/wiki/Zustellanweisung)
+[^1]: [gutefrage.net](https://www.gutefrage.net/frage/adresszusatz-)
+[^2]: [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
+[^3]: [gutefrage.net](https://www.gutefrage.net/frage/wie-schreibt-man-im-anschriftenfeld-das-stockwerk-auf)
+[^4]: [gutefrage.net](https://www.gutefrage.net/frage/zimmernummer-wenn-kein-feld-fuer-adresszusatz)
+[^5]: [buero-kaizen.de](https://www.buero-kaizen.de/zu-haenden-abkuerzung/)
+[^6]: [Wikipedia](https://de.wikipedia.org/wiki/Zustellanweisung#pers%C3%B6nlich), [chip.de](https://praxistipps.chip.de/adresszusatz-was-ist-das_46872), [karrierebibel.de](https://karrierebibel.de/zu-haenden/)
