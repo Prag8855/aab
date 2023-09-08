@@ -1,7 +1,7 @@
 ---
 Title: How to get a German work visa or Blue Card
 Short_title: How to get a work visa or Blue Card
-Description: This guide shows you how to apply for a work visa and a Blue Card, step by step. These visas are your first step to working in Germany.
+Description: Step by step instructions to apply for a German work visa or Blue Card, step by step. The work visa lets you find a job in Germany.
 Date_created: 2019-06-19
 Related_reviews:
     reviews/german-work-visa/alexander-baron-von-engelhardt.md
