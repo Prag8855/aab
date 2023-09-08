@@ -420,6 +420,14 @@
 				</div>
 				<output><eur :amount="0"></eur> <small>per month</small></output>
 			</div>
+			<button class='private-health-insurance' v-if="flag('private')" @click="stage = 'privateInsuranceOptions'">
+				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
+				<div>
+					<h3>Private health insurance</h3>
+					<p>Better and cheaper for some people, like young people with a good income.</p>
+				</div>
+				<output>Varies</output>
+			</button>
 			<button @click="stage = 'publicInsuranceOptions'">
 				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
 				<div>
@@ -429,14 +437,6 @@
 				<output>
 					<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
 				</output>
-			</button>
-			<button class='private-health-insurance' v-if="flag('private')" @click="stage = 'privateInsuranceOptions'">
-				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
-				<div>
-					<h3>Private health insurance</h3>
-					<p>Better and cheaper for some people, like young people with a good income.</p>
-				</div>
-				<output>Varies</output>
 			</button>
 			<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
 				{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
