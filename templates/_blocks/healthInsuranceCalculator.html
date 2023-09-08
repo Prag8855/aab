@@ -420,14 +420,6 @@
 				</div>
 				<output><eur :amount="0"></eur> <small>per month</small></output>
 			</div>
-			<button class='private-health-insurance' v-if="flag('private')" @click="stage = 'privateInsuranceOptions'">
-				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
-				<div>
-					<h3>Private health insurance</h3>
-					<p>Better and cheaper for some people, like young people with a good income.</p>
-				</div>
-				<output>Varies</output>
-			</button>
 			<button @click="stage = 'publicInsuranceOptions'">
 				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
 				<div>
@@ -436,6 +428,22 @@
 				</div>
 				<output>
 					<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
+				</output>
+			</button>
+			<button class='private-health-insurance' v-if="flag('private')" @click="stage = 'privateInsuranceOptions'">
+				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
+				<div>
+					<h3>Private health insurance</h3>
+					<p>Better and cheaper for some people, like young people with a good income.</p>
+				</div>
+				<output v-if="result.tarif === 'student'">
+					<small>From</small> <eur :amount="111"></eur> <small>per month</small>
+				</output>
+				<output v-if="result.tarif === 'employee' && age < 40">
+					<small>From</small> <eur :amount="263"></eur> <small>per month</small>
+				</output>
+				<output v-if="result.tarif === 'selfEmployed' && age < 40">
+					<small>From</small> <eur :amount="552"></eur> <small>per month</small>
 				</output>
 			</button>
 			<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
@@ -464,7 +472,7 @@
 				{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
 				<div>
 					<h3>Techniker Krankenkasse</h3>
-					<p>The biggest health insurer in Germany. They speak English-speaking support.</p>
+					<p>The biggest health insurer in Germany. They have English-speaking support.</p>
 				</div>
 				<output>
 					<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
@@ -509,7 +517,7 @@
 				{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Feather</h3>
-					<p>They only sell insurance from a few insurers. They speak English and offer great service. I recommend them.</p>
+					<p>They only sell insurance from a few insurers. I got my health insurance from Feather, so I recommend them.</p>
 				</div>
 			</a>
 			<a title="Get a quote from Ottonova" href="/out/ottonova-calc" target="_blank">
@@ -518,6 +526,15 @@
 					<h3>Get a quote from Ottonova</h3>
 					<p>They only sell their own insurance. It's expensive for what you get. They speak English.</p>
 				</div>
+				<output v-if="result.tarif === 'student'">
+					<small>From</small> <eur :amount="111"></eur> <small>per month</small>
+				</output>
+				<output v-if="result.tarif === 'employee' && age < 40">
+					<small>From</small> <eur :amount="263"></eur> <small>per month</small>
+				</output>
+				<output v-if="result.tarif === 'selfEmployed' && age < 40">
+					<small>From</small> <eur :amount="552"></eur> <small>per month</small>
+				</output>
 			</a>
 		</div>
 	</template>
