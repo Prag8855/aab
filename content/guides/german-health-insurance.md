@@ -239,7 +239,7 @@ There are **3 reasons to get expat health insurance**:
 
 **[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
 
-You can get health insurance from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats), or any [health insurance broker](#insurance-brokers).
+You can get expat health insurance from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats), or any [health insurance broker](#insurance-brokers).
 
 ## Travel insurance
 
