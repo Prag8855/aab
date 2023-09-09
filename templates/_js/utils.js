@@ -98,6 +98,36 @@ function setDefaultString(key, value) { setDefault(key, value ? '1' : '')}
 function setDefaultNumber(key, value) { setDefault(key, +value)}
 function setDefaultBoolean(key, value) { setDefault(key, !!value)}
 
+async function makePDF(pdfURL, textFields, checkboxFields, outputFileName) {
+	const pdfDoc = await fetch(pdfURL)
+		.then(res => res.arrayBuffer())
+		.then(bytes => PDFLib.PDFDocument.load(bytes));
+	const pdfForm = pdfDoc.getForm();
+
+	Object.entries(textFields || {}).forEach(([fieldName, value]) => {
+		pdfForm.getTextField(fieldName).setText(value);
+	});
+	Object.entries(checkboxFields || {}).forEach(([fieldName, value]) => {
+		if(value){
+			pdfForm.getCheckBox(fieldName).check(value);
+		}
+		else {
+			pdfForm.getCheckBox(fieldName).uncheck(value);
+		}
+	});
+
+	const blob = new Blob(
+		[new Uint8Array(await pdfDoc.save())],
+		{type: "application/pdf"}
+	);
+	const link = document.createElement('a');
+	link.href=window.URL.createObjectURL(blob);
+	link.download=outputFileName;
+	link.click();
+
+	plausible('PDF generator', { props: { stage: 'download' }});
+}
+
 const occupations = {
 	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),
 	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
@@ -105,4 +135,6 @@ const occupations = {
 	isMinijob: (occupation, monthlyIncome) => ['employee', 'studentEmployee'].includes(occupation) && monthlyIncome <= taxes.maxMinijobIncome,
 	isLowIncome: (monthlyIncome) => monthlyIncome <= taxes.maxMinijobIncome,
 };
+
+
 {% endjs %}

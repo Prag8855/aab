@@ -1357,6 +1357,7 @@ label.checkbox{
 .income-input,
 .percent-input,
 .last-name-input,
+.postalcode-input
 {
 	box-sizing:content-box!important;
 	flex: 0 0 auto!important;
@@ -1373,10 +1374,11 @@ label.checkbox{
 .percent-input{
 	width: 2.5ch!important;
 }
-.anrede-input{flex: 0 0 auto;}
-.address-input{
-	height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;
+.postalcode-input{
+	width: 5ch!important;
 }
+.anrede-input{flex: 0 0 auto;max-width:5em!important;}
+.address-input{height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;}
 
 .toggle{
 	cursor:pointer;
