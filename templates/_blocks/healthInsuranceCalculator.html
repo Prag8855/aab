@@ -436,13 +436,13 @@
 					<h3>Private health insurance</h3>
 					<p>Better and cheaper for some people, like young people with a good income.</p>
 				</div>
-				<output v-if="result.tarif === 'student'">
+				<output v-if="result.tarif === 'student' || flag('student-30plus')">
 					<small>From</small> <eur :amount="111"></eur> <small>per month</small>
 				</output>
-				<output v-if="result.tarif === 'employee' && age < 40">
+				<output v-if="result.tarif === 'employee' && !flag('student-30plus')">
 					<small>From</small> <eur :amount="263"></eur> <small>per month</small>
 				</output>
-				<output v-if="result.tarif === 'selfEmployed' && age < 40">
+				<output v-if="result.tarif === 'selfEmployed' && !flag('student-30plus')">
 					<small>From</small> <eur :amount="552"></eur> <small>per month</small>
 				</output>
 			</button>
@@ -517,22 +517,22 @@
 				{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Feather</h3>
-					<p>They only sell insurance from a few insurers. I got my health insurance from Feather, so I recommend them.</p>
+					<p>They sell insurance from a few insurers. I got my health insurance from Feather, so I recommend them.</p>
 				</div>
 			</a>
 			<a title="Get a quote from Ottonova" href="/out/ottonova-calc" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Ottonova</h3>
-					<p>They only sell their own insurance. It's expensive for what you get. They speak English.</p>
+					<p>They sell their own health insurance. It's expensive for what you get. They speak English.</p>
 				</div>
-				<output v-if="result.tarif === 'student'">
+				<output v-if="result.tarif === 'student' || flag('student-30plus')">
 					<small>From</small> <eur :amount="111"></eur> <small>per month</small>
 				</output>
-				<output v-if="result.tarif === 'employee' && age < 40">
+				<output v-if="result.tarif === 'employee' && !flag('student-30plus')">
 					<small>From</small> <eur :amount="263"></eur> <small>per month</small>
 				</output>
-				<output v-if="result.tarif === 'selfEmployed' && age < 40">
+				<output v-if="result.tarif === 'selfEmployed' && !flag('student-30plus')">
 					<small>From</small> <eur :amount="552"></eur> <small>per month</small>
 				</output>
 			</a>

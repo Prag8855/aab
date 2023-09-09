@@ -2519,6 +2519,8 @@ details{
 
 	> * {
 		@include box-m;
+		width: 100%;
+		box-sizing: border-box;
 		display: grid;
 		grid-template-columns: var(--w-img-logo) 1fr;
 		grid-auto-flow: column;
@@ -2554,8 +2556,10 @@ details{
 				@include heading;
 				font-size: var(--xl);
 			}
-			small{
-				display: block;
+			@include not-phone{
+				small{
+					display: block;
+				}
 			}
 		}
 
