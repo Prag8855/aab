@@ -963,6 +963,19 @@ hr{
 	border:none;
 }
 
+progress{
+	display: block;
+	margin: var(--xl) 0;
+	background: var(--c-border-box);
+	height: var(--xs);
+	border: none;
+	width: 100%;
+	accent-color: var(--c-highlight);
+}
+::-moz-progress-bar{
+	background: var(--c-highlight);
+}
+
 ul, ol{
 	counter-reset: list;
 	ul, ol {
@@ -1357,6 +1370,7 @@ label.checkbox{
 .income-input,
 .percent-input,
 .last-name-input,
+.documentnumber-input,
 .postalcode-input
 {
 	box-sizing:content-box!important;
@@ -1376,6 +1390,9 @@ label.checkbox{
 }
 .postalcode-input{
 	width: 5ch!important;
+}
+.documentnumber-input{
+	width: calc(2em + 10ch)!important;
 }
 .anrede-input{flex: 0 0 auto;max-width:5em!important;}
 .address-input{height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;}
@@ -1516,9 +1533,6 @@ input[type=range] {
 	&.left{
 		justify-content: flex-start;
 	}
-	&.right{
-		justify-content: flex-end;
-	}
 
 	> *{flex: 0 0 auto;}
 
@@ -1558,13 +1572,13 @@ input[type=range] {
 			margin-left: calc(var(--m) - var(--s));
 		}
 
+		.checkbox{
+			padding-top: var(--xs); // Align with form fields
+		}
+
 		&.vertical{
 			display: grid;
 			gap:var(--s);
-		}
-
-		> .checkbox:first-child{
-			padding-top:var(--xs)
 		}
 
 		&:not(.vertical) .checkbox + .checkbox{margin-left:var(--l)}
@@ -1576,7 +1590,7 @@ input[type=range] {
 
 	> label:first-child, > .label:first-child{
 		grid-column-start: 1;
-		padding-top: var(--xs);
+		padding-top: calc(var(--xs) + ((1.6 - 1.3) / 2 * var(--m))); // Align with form fields
 		line-height: var(--line-height-label);
 	}
 
@@ -1609,6 +1623,10 @@ input[type=range] {
 		font-size: var(--f-s);
 		flex: 1 0 100%;
 		line-height: var(--line-height-labe);
+
+		summary:after{
+			float: none;
+		}
 	}
 
 }
@@ -1651,7 +1669,7 @@ input[type=range] {
 			text-align: center;
 	}
 }
-.show-errors :invalid, .error{
+.show-errors :invalid, .show-errors:invalid, .error{
 	border-color: var(--c-highlight)!important;
 	box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
 }
@@ -1890,6 +1908,11 @@ details{
 			margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
 			border-bottom: var(--b-box);
 			@include collapsible;
+
+			+ progress{
+				margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
+				width: calc(100% + 2 * var(--w-page-border));
+			}
 		}
 	}
 
