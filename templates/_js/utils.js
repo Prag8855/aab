@@ -128,6 +128,27 @@ async function makePDF(pdfURL, textFields, checkboxFields, outputFileName) {
 	plausible('PDF generator', { props: { stage: 'download' }});
 }
 
+function loadScript(src) {
+	return new Promise(function(resolve, reject) {
+		const script = document.createElement('script');
+		let resolved = false;
+		script.type = 'text/javascript';
+		script.src = src;
+		script.async = true;
+		script.onerror = function(err) {
+			reject(err, s);
+		};
+		script.onload = script.onreadystatechange = function() {
+			if (!resolved && (!this.readyState || this.readyState == 'complete')) {
+				resolved = true;
+				resolve();
+			}
+		};
+		const t = document.getElementsByTagName('script')[0];
+		t.parentElement.insertBefore(script, t);
+	});
+}
+
 const occupations = {
 	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),
 	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
