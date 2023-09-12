@@ -69,8 +69,8 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
     - Married: *Verheiratet*
     - Widowed: *Verwitwet*
     - Civil union: *in eingetragener Lebenspartnerschaft*
-- **Dokumente**: During your *Anmeldung* appointment, you need to show an ID document. People usually bring their passport. In this section, you describe the ID documents you will use.
-    - **Art**: The type of document. If you use your passport, write "RP". If you use another type of personal ID, write "PA". If you use a children's passport, write "KP".
+- **Dokumente**: During your *Anmeldung* appointment, you must show your passport or [German national ID](/glossary/Personalausweis). This section explains what ID document you want to use.
+    - **Art**: The type of document: "RP" for a passport, "PA" for a *[[Personalausweis]]*, or "KP" for a children's passport.
     - **Name, Vorname**: The last name and the first name of the person this document belongs to.
     - **Ausstellungsbehörde**: The authority that issued this document. For example, "Kanada Botschaft, Berlin".
     - **Seriennummer**: The serial number of the ID document. For example, your passport number.

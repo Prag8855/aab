@@ -47,7 +47,7 @@ Bring these documents to your appointment:
     - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
 - [ ] **The filled [Anmeldung form](/docs/anmeldung)**
 - [ ] **A valid ID document**  
-    Bring your original passport, not a photocopy. You can also use a EU national ID.[^7] If you have a national ID (*Personalausweis*), bring it with you. They will put a sticker on it with your new address.
+    Bring your original passport, not a photocopy. You can also use a EU national ID.[^7] If you have a national ID (*[[Personalausweis]]*), bring it with you. They will put a sticker on it with your new address.
 - [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a residence permit, bring it with you. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8]
 - [ ] **Your vehicle registration papers**  
@@ -76,7 +76,7 @@ If you don't speak German, bring a friend or a translator. Some *Bürgeramt* emp
 
 Arrive a few minutes before your appointment. You need time to find the waiting room. Wait until they call your appointment number on the screen. The screen tells you which office to go to.
 
-You will sit at a desk, give your documents, and get your *[[Anmeldebestätigung]]*. They also will put a sticker with your new address on your *Personalausweis*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). This only takes a few minutes.
+You will sit at a desk, give your documents, and get your *[[Anmeldebestätigung]]*. They also will put a sticker with your new address on your *[[Personalausweis]]*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). This only takes a few minutes.
 
 Check if the information on your *[[Anmeldebestätigung]]* is correct. Bürgeramt employees sometimes make mistakes.[^12]
 

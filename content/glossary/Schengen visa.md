@@ -15,7 +15,7 @@ If you are a citizen of Australia, Canada, Israel, Japan, New Zealand, South Kor
 
 Use [this list](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) to know if you need a Schengen visa to visit Germany.
 
-If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you don't need a visa to visit Germany. You can live, work and study in Germany without a visa.[^4]
+If you are a citizen of the [[European Union]], Iceland, Liechtenstein, Norway or Switzerland, you don't need a Schengen visa. You can travel, live, work and study in Germany without a visa.[^4]
 
 [^0]: [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp67-emn-wechsel-aufenthaltstiteln-aufenthaltszwecken.pdf?__blob=publicationFile&v=17)
 [^1]: [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en)
