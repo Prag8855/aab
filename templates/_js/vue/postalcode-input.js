@@ -5,7 +5,6 @@ Vue.component('postalcode-input', {
 	template: `
 		<input
 			class="postalcode-input"
-			v-model="newPostCode"
 			placeholder="12345"
 			type="text"
 			inputmode="numeric"
@@ -13,8 +12,8 @@ Vue.component('postalcode-input', {
 			minlength="5"
 			maxlength="5"
 			autocomplete="postal-code"
-			:value="value"
 			title="Postal code (Postleitzahl)"
+			:value="value"
 			v-on:input="$emit('input', $event.target.value)">
 	`,
 });
