@@ -98,10 +98,7 @@ function setDefaultString(key, value) { setDefault(key, value ? '1' : '')}
 function setDefaultNumber(key, value) { setDefault(key, +value)}
 function setDefaultBoolean(key, value) { setDefault(key, !!value)}
 
-async function makePDF(pdfURL, textFields, checkboxFields, outputFileName) {
-	const pdfDoc = await fetch(pdfURL)
-		.then(res => res.arrayBuffer())
-		.then(bytes => PDFLib.PDFDocument.load(bytes));
+async function fillAndSavePDF(pdfDoc, textFields, checkboxFields, outputFileName) {
 	const pdfForm = pdfDoc.getForm();
 
 	Object.entries(textFields || {}).forEach(([fieldName, value]) => {

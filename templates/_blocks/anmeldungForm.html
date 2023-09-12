@@ -273,10 +273,11 @@
 	<template v-if="stage === 'options'">
 		<h2>You're done!</h2>
 		<div class="health-insurance-options">
-			<button @click="generatePDF">
+			<button @click="generatePDF" :disabled="!pdfIsReady">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
-					<h3>Download the filled form</h3>
+					<h3 v-if="pdfIsReady">Download the filled form</h3>
+					<h3 v-if="!pdfIsReady">Preparing the form...</h3>
 					<p>Print the form, sign it, and bring it to your Anmeldung appointment</p>
 				</div>
 			</button>
@@ -327,6 +328,7 @@
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	let pdfLibScriptPromise = null;
+	let anmeldungFormDownloadPromise = null;
 	document.querySelectorAll('.anmeldung-form').forEach(
 		el => new Vue({
 			el: el,
@@ -334,6 +336,21 @@
 			data() {
 				const defaultState = getDefault('state', '');
 				return {
+					moveInDate: '',
+					newAddress: '',
+					newBuildingDetails: '',
+					newCity: '',
+					newPostCode: '',
+					oldAddress: '',
+					oldBuildingDetails: '',
+					oldCity: defaultState.startsWith('be-') ? 'Berlin' : '',
+					oldPostCode: '',
+					oldCountry: '',
+					oldState: defaultState.startsWith('be-') ? 'be' : defaultState,
+					people: [],
+
+					germanStates: germanStates,
+					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
 					stages: [
 						'start',
 						'newAddress',
@@ -342,27 +359,9 @@
 						'idDocuments',
 						'options',
 					],
+
 					stageIndex: 0,
-					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
-					moveInDate: '',
-					newAddress: '',
-					newBuildingDetails: '',
-					newCity: '',
-					newPostCode: '',
-					newAddressIsOnlyAddress: true,
-					newAddressType: 'main',
-					oldAddress: '',
-					oldBuildingDetails: '',
-					oldCity: defaultState.startsWith('be-') ? 'Berlin' : '',
-					oldPostCode: '',
-					oldCountry: '',
-					oldState: defaultState.startsWith('be-') ? 'be' : defaultState,
-					germanStates: germanStates,
-					keepOldAddress: false,
-					oldAddressIsMainAddress: false,
-					people: [],
-					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
-					pdfLibIsReady: false,
+					pdfIsReady: false,
 				};
 			},
 			computed: {
@@ -411,13 +410,24 @@
 				mergeFields(fields){
 					return fields.filter(Boolean).join(', ')
 				},
-				loadPDFLib(){
-					if(!pdfLibScriptPromise){
-						pdfLibScriptPromise = loadScript('/js/pdflib.js');
+				personName(person, index){
+					if(person.firstName || person.lastName){
+						return [person.firstName, person.lastName].filter(Boolean).join(' ');
 					}
-					pdfLibScriptPromise.then(_ => this.pdfLibIsReady = true);
+					return `person #${index}`;
 				},
-				generatePDF(){
+				async preloadPDF(){
+					// Load PDFLib and the PDF document in advance while the user fills the form
+					pdfLibScriptPromise = loadScript('/js/pdflib.js');
+					anmeldungFormDownloadPromise = fetch('/documents/anmeldung-original.pdf');
+
+					const [_, pdfResponse] = await Promise.all([pdfLibScriptPromise, anmeldungFormDownloadPromise]);
+					const pdfDoc = await PDFLib.PDFDocument.load(await pdfResponse.arrayBuffer());
+
+					this.pdfIsReady = true;
+					return pdfDoc;
+				},
+				async generatePDF(){
 					let oldStateName = this.germanStates[this.oldState] ? this.germanStates[this.oldState].germanName : '';
 					const textFields = {
 						'Tag des EinzugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
@@ -471,19 +481,14 @@
 						textFields['Name Vorname_2'] = [this.people[1].lastName, this.people[1].firstName].join(', ');
 					}
 
-					makePDF('/documents/anmeldung-original.pdf', textFields, checkboxFields, 'anmeldung-form-filled.pdf');
-				},
-				personName(person, index){
-					if(person.firstName || person.lastName){
-						return [person.firstName, person.lastName].filter(Boolean).join(' ');
-					}
-					return `person #${index}`;
+					const pdfDoc = await this.preloadPDF();
+					return await fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf');
 				}
 			},
 			watch: {
 				stageIndex(newStageIndex){
 					if(newStageIndex > 0 && pdfLibScriptPromise === null){
-						this.loadPDFLib();
+						this.preloadPDF();
 					}
 				}
 			},

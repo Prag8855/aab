@@ -357,14 +357,20 @@ $width-main-column: 860px;
 	outline: none;
 	text-decoration: none!important;
 
-	&:hover, &:focus-visible, &:active{
-		@include box-clickable-hover;
+	&[disabled]{
+		opacity: 0.5;
 	}
 
-	// Prevents Safari requiring two taps to click things
-	@media (hover: hover) {
-		&:hover{
+	&:not([disabled]){
+		&:focus-visible, &:active{
 			@include box-clickable-hover;
+		}
+
+		// Prevents Safari requiring two taps to click things
+		@media (hover: hover) {
+			&:hover{
+				@include box-clickable-hover;
+			}
 		}
 	}
 }
