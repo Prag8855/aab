@@ -47,6 +47,8 @@ Bring these documents to your appointment:
     - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
 - [ ] **The filled [Anmeldung form](/docs/anmeldung)**  
     You can [fill the form online](/docs/anmeldung#fill-the-form-online), it's faster.
+    - [ ] **The extra form to register more people** (optional)  
+        To register more than 2 people, fill the [*Beiblatt zur Anmeldung* form](/documents/beiblatt-zur-anmeldung.pdf).
 - [ ] **A valid ID document**  
     Bring your original passport, not a photocopy. You can also use a EU national ID.[^7] If you have a national ID (*[[Personalausweis]]*), bring it with you. They will put a sticker on it with your new address.
 - [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  

@@ -86,7 +86,7 @@ You can deregister by email at any *Bürgeramt*, but they all have different rul
 - **Lichtenberg** - <post.buergeramt@lichtenberg.berlin.de>  
     They will send your *Abmeldebescheinigung* by post[^6] and *sometimes* by email.[^7]
 - **Mitte** - <buergeramt@ba-mitte.berlin.de>  
-    They will send your *Abmeldebescheinigung* by post to an address in Germany, and sometimes in another country.[^8]
+    Do not use them; they take 2-3 months to answer.[^24] They will send your *Abmeldebescheinigung* by post to an address in Germany, and sometimes in another country.[^8]
 - **Neukölln** - <buergeramt@bezirksamt-neukoelln.de>  
     They will send your *Abmeldebescheinigung* by post to an address in Germany or in another country, and by email.
 - **Reinickendorf** - <buergeraemter@reinickendorf.berlin.de>  
@@ -216,3 +216,4 @@ If you already left Germany, you can do your *Abmeldung* by email or by mail.[^2
 [^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^22]: Oliver at [SympatMe](https://sympat.me) (April 2023)
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
+[^24]: Multiple complaints (September 2023)

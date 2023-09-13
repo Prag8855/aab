@@ -28,6 +28,8 @@ You can also download the original form and fill it yourself.
 
 The original form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf).
 
+If you register more than 2 people, use the [*Beiblatt zur Anmeldung* form](/documents/beiblatt-zur-anmeldung.pdf).
+
 ## How to fill this form
 
 Use my [Anmeldung form filler](#fill-the-form-online), it's easier.
@@ -86,6 +88,8 @@ If you fill the form yourself, use these instructions:
     - **Datum**: The date the document was issued on. Use the DD.MM.YYYY date format.
     - **Gültig bis**: The date of expiration of the document. Use the DD.MM.YYYY date format.
 - **Datum, Unterschrift [...]**: The date, and your signature. Use the DD.MM.YYYY date format. Your signature should be the same as on your passport or national ID.
+
+If you register more than 2 people, use the [*Beiblatt zur Anmeldung* form](/documents/beiblatt-zur-anmeldung.pdf).
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
 [^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (September 2023)
