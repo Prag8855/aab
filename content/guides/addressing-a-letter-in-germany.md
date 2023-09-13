@@ -44,7 +44,7 @@ German addresses are written in this order:
 
 ### Extra information
 
-Sometimes, an address is not enough. You must add extra information in the *Addresszusatz* field. This helps delivery people find your apartment. You might need it for your *[[Anmeldung]]*
+Sometimes, an address is not enough. You must add extra information in the *Addresszusatz* field. It helps delivery people find your apartment. The *[[Bürgeramt]]* might ask for this when you [register your address](/glossary/Anmeldung).
 
 - **Entrance**  
     Some buildings have multiple entrances. It can be hard to find your apartment.
@@ -53,16 +53,23 @@ Sometimes, an address is not enough. You must add extra information in the *Addr
     - *Vorderhaus* (entrance in the front)
     - *Hinterhaus* (entrance in the courtyard)
     - *Seitenflügel* (entrance on the side)
+    - *Remise* (small building in the back)
+
+![Parts of a building: Hinterhaus, Vorderhaus, Seitenflügel](/images/hinterhaus-vorderhaus-germany.jpg)
+
 - **Floor number**[^3]  
-    - *Erdgeschoß* or *EG* (ground floor)
-    - *1. Etage*, *1. Stock* or *1. OG* (first floor, above the ground floor)
-    - *2. Etage*, *2. Stock* or *2. OG* (second floor)
-    - *1. Untergeschoß*, *1. UG* or just *UG* (first basement, below the ground floor)
-    - *Dachgeschoß* or *DG* (top floor)
+    - Attic apartment: *Dachgeschoß* or *DG*
+    - 2nd floor: *2. Etage*, *2. Stock* or *2. OG*
+    - 1st floor (after the ground floor): *1. Etage*, *1. Stock* or *1. OG*
+    - Ground floor: *Erdgeschoß* or *EG*
+    - Basement: *1. Untergeschoß*, *1. UG* or just *UG*
+    
+![Floors/stories of a German building](/images/building-floors.jpg)
+
 - **Apartment number**  
     German apartment buildings rarely have apartment numbers. Apartment numbers are written as *#123*, *Whg. 123* or "W123".[^4]
-- **Side of building**  
-    If you don't have an apartment number, include the side of the building. For example, "4. Etage links" (4th floor, on the left side of the building).
+- **Side of floor**  
+    If there is no apartment number, include the side of the floor. For example, "4. Etage links" (4th floor on the left).
 
 ### Simple example
 
