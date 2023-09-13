@@ -50,11 +50,7 @@
 		<div class="form-group">
 			<label :for="uid('moveInDate') + '-day'">Move-in date</label>
 			<date-picker v-model="moveInDate" :id="uid('moveInDate')" :aria-describedby="uid('moveInDate-instructions')"></date-picker>
-			<details class="input-instructions" :id="uid('moveInDate-instructions')">
-				<summary>The date you moved to this address.</summary>
-				<p>Use the same date as on your <glossary>Wohnungsgeberbestätigung</glossary>.</p>
-				<p>After you move in, you have 2 weeks to register your address. In Berlin, <a target="_blank" href="/guides/anmeldung-in-english-berlin#do-i-need-to-register-within-14-days">this rule is not enforced</a>. Just register as soon as you can.</p>
-			</details>
+			<span class="input-instructions">Use the same date as on your <glossary>Wohnungsgeberbestätigung</glossary></span>
 		</div>
 	</template>
 	<template v-if="stage === 'oldAddress'">
@@ -66,7 +62,7 @@
 			<div class="input-group">
 				<select v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name">
 					<option disabled hidden default value="">Country of your previous address</option>
-					<option>Germany</option>
+					<option v-for="country in recommendedCountries">{{ country }}</option>
 					<option disabled>──────────</option>
 					<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
 				</select>
@@ -365,6 +361,9 @@
 
 					germanStates: germanStates,
 					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
+					recommendedCountries: new Set(
+						(navigator.languages || []).map(l => countries[l.substring(3)]).concat(['Germany']).filter(Boolean)
+					),
 					stages: [
 						'start',
 						'newAddress',
