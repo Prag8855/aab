@@ -48,7 +48,7 @@
 		<div class="form-group">
 			<label :for="uid('moveInDate') + '-day'">Move-in date</label>
 			<date-picker v-model="moveInDate" :id="uid('moveInDate')" :aria-describedby="uid('moveInDate-instructions')"></date-picker>
-			<span class="input-instructions">Use the same date as on your <glossary>Wohnungsgeberbestätigung</glossary></span>
+			<span class="input-instructions">Use the same date as on your <em><glossary>Wohnungsgeberbestätigung</glossary></em>.</span>
 		</div>
 	</template>
 	<template v-if="stage === 'oldAddress'">
@@ -64,7 +64,7 @@
 					<option disabled>──────────</option>
 					<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
 				</select>
-				<span :id="uid('oldCountry-instructions')" class="input-instructions" v-if="oldCountry && oldCountry !== 'Germany'">That's enough information. You don't need to share your foreign address.</span>
+				<span :id="uid('oldCountry-instructions')" class="input-instructions" v-if="oldCountry && oldCountry !== 'Germany'">You don't need to share your foreign address.</span>
 			</div>
 		</div>
 		<template v-if="oldCountry === 'Germany'">
@@ -215,6 +215,7 @@
 	<template v-if="stage === 'beiAddress'">
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
 		<p>German apartments don't have door numbers. If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. It's the only way to receive your mail.</p>
+		<hr>
 		<div class="input-group vertical">
 			<label class="checkbox">
 				<input v-model="namesAreOnMailbox" type="radio" :name="uid('namesAreOnMailbox')" :value="true"> {{ people.length > 1 ? 'Our names are' : 'My name is' }} on the mailbox
@@ -298,20 +299,20 @@
 					<p>You need an appointment to register your address.</p>
 				</div>
 			</a>
-			<button>
+			<a href="/out/red-tape-translation-interpreter" target="_blank">
 				{% endraw %}{% include "_css/icons/translator.svg" %}{% raw %}
 				<div>
-					<h3>Bring a translator</h3>
-					<p>The Anmeldung is easy. You probably don't need a translator, but you can bring one just in case.</p>
+					<h3>Hire a translator</h3>
+					<p>Bring someone who speaks German to your <em>Anmeldung</em> appointment.</p>
 				</div>
 			</button>
-			<button>
+			<a href="/out/red-tape-translation-anmeldung" target="_blank">
 				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
 				<div>
-					<h3>Pay someone to register you</h3>
-					<p>If you don't want to book an appointment and go to the Bürgeramt, hire someone else to do it for you.</p>
+					<h3>Let someone else do it</h3>
+					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Anmeldung.</p>
 				</div>
-			</button>
+			</a>
 		</div>
 	</template>
 	<hr>
