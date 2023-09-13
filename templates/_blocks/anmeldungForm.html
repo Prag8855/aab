@@ -24,18 +24,16 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('newBuildingDetails')">Building details</label>
-			<input
-				:id="uid('newBuildingDetails')"
-				:aria-describedby="uid('newBuildingDetails-instructions')"
-				type="text"
-				v-model="newBuildingDetails"
-				placeholder="Haus B, 2. Etage rechts"
-				autocomplete="address-line2">
-			<details class="input-instructions" :id="uid('newBuildingDetails-instructions')">
-				<summary>Your building number, floor number and apartment number</summary>
-				<p>The <em><glossary>Bürgeramt</glossary></em> often asks for this information during your <em>Anmeldung</em> appointment.</p>
-				<p><a href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details ➞</a></p>
-			</details>
+			<div class="input-group">
+				<input
+					:id="uid('newBuildingDetails')"
+					:aria-describedby="uid('newBuildingDetails-instructions')"
+					type="text"
+					v-model="newBuildingDetails"
+					placeholder="Haus B, 2. Etage rechts"
+					autocomplete="address-line2">
+				<a class="input-instructions" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details ➞</a>
+			</div>
 		</div>
 		<div class="form-group">
 			<label :for="uid('newPostCode')">
