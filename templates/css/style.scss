@@ -1278,14 +1278,11 @@ input:not([type=range]), textarea, select, .toggle{
 	box-sizing: border-box;
 
 	&[type=checkbox], &[type=radio]{
-		align-self: start;
 		flex-shrink: 0;
 
 		width: var(--w-checkbox);
 		height: var(--w-checkbox);
 		padding: 0;
-		margin-top: 0.15rem;
-		margin-right: var(--s-relative);
 
 		position: relative;
 		display: inline-grid;
@@ -1364,6 +1361,8 @@ select{
 label.checkbox{
 	display: flex;
 	cursor: pointer;
+	align-items: center;
+	gap: var(--s);
 }
 
 .month-input, select.year-input{
@@ -1584,7 +1583,6 @@ input[type=range] {
 
 		&.vertical{
 			display: grid;
-			gap:var(--s);
 		}
 
 		&:not(.vertical) .checkbox + .checkbox{margin-left:var(--l)}

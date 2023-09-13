@@ -115,7 +115,7 @@
 	</template>
 	<template v-if="stage === 'addPeople'">
 		<h2>Who is registering?</h2>
-		<p>You can register multiple people at the same time if you live together before and after the move.</p>
+		<p>You can register your whole family at the same time.</p>
 		<template v-for="(person, index) in people">
 			<hr>
 			<div class="form-group" v-if="person.showExtraFields">
@@ -215,7 +215,19 @@
 			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
 		</datalist>
 		<div class="buttons">
-			<button class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
+			<button class="button" @click="addPerson" v-if="people.length < 6"><i class="icon person" aria-hidden="true"></i> Add another person</button>
+		</div>
+	</template>
+	<template v-if="stage === 'beiAddress'">
+		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
+		<p>German apartments don't have door numbers. If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. It's the only way to receive your mail.</p>
+		<div class="input-group vertical">
+			<label class="checkbox">
+				<input v-model="namesAreOnMailbox" type="radio" :name="uid('namesAreOnMailbox')" :value="true"> {{ people.length > 1 ? 'Our names are' : 'My name is' }} on the mailbox
+			</label>
+			<label class="checkbox">
+				<input v-model="namesAreOnMailbox" type="radio" :name="uid('namesAreOnMailbox')" :value="false"> The name on {{ people.length > 1 ? 'our' : 'my' }} mailbox is <input type="text" v-model="nameOnMailbox" placeholder="Steffan Schmidt" autocomplete="off">
+			</label>
 		</div>
 	</template>
 	<template v-if="stage === 'idDocuments'">
@@ -261,7 +273,7 @@
 			</div>
 			<div class="form-group" v-if="person.documentType !== 'PA'">
 				<label :for="uid('documentIssuingAuthority-' + person.id)">Issuing authority</label>
-				<input type="text" placeholder="" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority">
+				<input type="text" placeholder="Ottawa" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority">
 				<span class="input-instructions" v-if="person.documentType !== 'PA'">It's written in your passport, on the photo page.</span>
 			</div>
 			<div class="form-group">
@@ -348,6 +360,8 @@
 					oldCountry: '',
 					oldState: defaultState.startsWith('be-') ? 'be' : defaultState,
 					people: [],
+					namesAreOnMailbox: true,
+					nameOnMailbox: '',
 
 					germanStates: germanStates,
 					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
@@ -356,6 +370,7 @@
 						'newAddress',
 						'oldAddress',
 						'addPeople',
+						'beiAddress',
 						'idDocuments',
 						'options',
 					],
@@ -429,10 +444,11 @@
 				},
 				async generatePDF(){
 					let oldStateName = this.germanStates[this.oldState] ? this.germanStates[this.oldState].germanName : '';
+					let beiAddress = this.namesAreOnMailbox ? '' : `(bei ${this.nameOnMailbox})`;
 					const textFields = {
 						'Tag des EinzugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
 						'Tag des AuszugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
-						'Straße Hausnummer ZusätzeRow1': this.mergeFields([this.newAddress, this.newBuildingDetails]),
+						'Straße Hausnummer ZusätzeRow1': this.mergeFields([this.newAddress, this.newBuildingDetails, beiAddress]),
 						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([this.newPostCode, this.newCity]),
 						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([this.oldAddress, this.oldBuildingDetails, oldStateName]),
 						'Postleitzahl GemeindeKreisLandRow1': this.mergeFields([this.oldPostCode, this.oldCity]),
