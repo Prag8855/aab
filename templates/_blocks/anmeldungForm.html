@@ -6,7 +6,7 @@
 	</template>
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
-		<p><strong>This tool helps you fill the <glossary>Anmeldung</glossary> form</strong>. It takes less than 5 minutes. At the end, you can download the completed form and print it. You need this form to <a href="/guides/anmeldung-in-english-berlin" target="_blank">register your address</a>.</p>
+		<p>Use this tool to <strong>fill the <glossary>Anmeldung</glossary> form</strong>. At the end, you can download the form and print it. It takes less than 5 minutes.</p>
 		<p>Your personal information stays on your computer. No one can see it.</p>
 	</template>
 	<template v-if="stage === 'newAddress'">

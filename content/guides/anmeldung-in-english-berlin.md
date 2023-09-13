@@ -45,7 +45,8 @@ Bring these documents to your appointment:
     - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need the permission of the landlord.[^5]
     - If you move with your spouse, they can give it to you. They don't need permission from the landlord.
     - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
-- [ ] **The filled [Anmeldung form](/docs/anmeldung)**
+- [ ] **The filled [Anmeldung form](/docs/anmeldung)**  
+    You can [fill the form online](/docs/anmeldung#fill-the-form-online), it's faster.
 - [ ] **A valid ID document**  
     Bring your original passport, not a photocopy. You can also use a EU national ID.[^7] If you have a national ID (*[[Personalausweis]]*), bring it with you. They will put a sticker on it with your new address.
 - [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  

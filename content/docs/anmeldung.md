@@ -8,22 +8,31 @@ Description: Instructions on how to fill the Anmeldung form. This is the documen
 Date_created: 2018-02-28
 Related_guides:
     guides/anmeldung-in-english-berlin.md
-    guides/moving-to-berlin.md
     guides/berlin-burgeramt-appointment.md
-    guides/replacement-meldebescheinigung.md
-    guides/abmeldung-deregister-in-berlin.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/moving-to-berlin.md
 ---
 
-This is the English translation of the official *[[Anmeldung]]* form. You must fill this form to [register your address](/glossary/Anmeldung) in Berlin. [Appmeldung](https://appmeldung.com/), [sorted.berlin](https://anmeldung.sorted.berlin/) and [Amty](https://amty.io/) can also also help you fill this form. The original form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf).
+This is the English translation of the official *[[Anmeldung]]* form. You must fill this form to [register your address](/glossary/Anmeldung) in Berlin.
 
 **[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
+## Fill the form online
+
+{% include "_blocks/anmeldungFormStatic.html" %}
+
 ## Download the Anmeldung form
+
+You can also download the original form and fill it yourself.
 
 {% include "_blocks/downloadDocuments.html"%}
 
+The original form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf).
+
 ## How to fill this form
+
+Use my [Anmeldung form filler](#fill-the-form-online), it's easier.
+
+If you fill the form yourself, use these instructions:
 
 - **Tagesstempel**: leave this field empty
 - **Amtl. Vermerke**: leave this field empty
