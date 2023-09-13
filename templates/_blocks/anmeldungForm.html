@@ -444,7 +444,7 @@
 				},
 				async generatePDF(){
 					let oldStateName = this.germanStates[this.oldState] ? this.germanStates[this.oldState].germanName : '';
-					let beiAddress = this.namesAreOnMailbox ? '' : `(bei ${this.nameOnMailbox})`;
+					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
 					const textFields = {
 						'Tag des EinzugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
 						'Tag des AuszugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),

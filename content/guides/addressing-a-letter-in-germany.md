@@ -26,7 +26,7 @@ It's the same as in most countries:
 German addresses are written in this order:
 
 - **Person or business name**  
-    German addresses start with the recipient's name. This name must be on the person's mailbox, or your letter won't be delivered.
+    German addresses start with the recipient's name. This name must be on the person's mailbox, or your letter won't be delivered.[^7]
     - **Intermediary**  
         If the recipient's name is not on their mailbox, add "bei" or "c/o" to the address. The postal worker will give your letter to this person or company. - [More information](#if-the-name-is-not-on-the-mailbox)
     - **Privacy details**  
@@ -77,27 +77,27 @@ If you want to write to your friend Max Mustermann, this is how you would write 
 
 ### If the name is not on the mailbox
 
-German apartments do not always have door numbers, so **if the person's name is not on the mailbox, they will not receive your letter**. You *must* include the name of the main tenant on the envelope. Use "bei [name]" or "[c/o](https://en.wiktionary.org/wiki/care_of) [name]".[^2] When addressing an employee at a company, use "z. Hd."[^6]
+German apartments do not always have door numbers, so **if the person's name is not on the mailbox, they will not receive your letter**. Add "bei [name on mailbox]" or "[c/o](https://en.wiktionary.org/wiki/care_of) [name on mailbox]" to the address.[^2] When you address an employee at a company, you can also use "z. Hd."[^6]
+
+> The person you are writing to  
+> **bei** The name on the mailbox  
+> Street and door number  
+> [Postal code](/glossary/Postleitzahl) and city  
+> Country
 
 For example, to send a letter to Max at his girlfriend Monika's address, write the address like this:[^0]
 
 ![Envelope with German address](/illustrations/envelope-german-address-bei-person.png)
 
-> The person you are writing to  
-> **bei** The person whose name is on the mailbox  
-> Street and door number  
-> [Postal code](/glossary/Postleitzahl) and city  
-> Country
-
 If you sent a letter to Max's office, address it like this:
 
-![Envelope with German address](/illustrations/envelope-german-address-bei-business.png)
-
 > The person you are writing to  
-> **z. Hd.** The name of the business  
+> **bei** or **z. Hd.** The name of the business  
 > Street and door number  
 > [Postal code](/glossary/Postleitzahl) and city  
 > Country
+
+![Envelope with German address](/illustrations/envelope-german-address-bei-business.png)
 
 ## How to mail a letter in Germany
 
@@ -110,3 +110,4 @@ If you sent a letter to Max's office, address it like this:
 [^4]: [gutefrage.net](https://www.gutefrage.net/frage/zimmernummer-wenn-kein-feld-fuer-adresszusatz)
 [^5]: [buero-kaizen.de](https://www.buero-kaizen.de/zu-haenden-abkuerzung/)
 [^6]: [Wikipedia](https://de.wikipedia.org/wiki/Zustellanweisung#pers%C3%B6nlich), [chip.de](https://praxistipps.chip.de/adresszusatz-was-ist-das_46872), [karrierebibel.de](https://karrierebibel.de/zu-haenden/)
+[^7]: [gutefrage.net](https://www.gutefrage.net/frage/was-passiert-mit-post-wenn-der-name-nicht-am-briefkasten-ist)
