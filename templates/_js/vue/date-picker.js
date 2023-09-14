@@ -22,7 +22,7 @@ Vue.component('date-picker', {
 		},
 		cleanYear() {
 			if(this.year && this.year.length === 2){ // 90 to 1990, 10 to 2010
-				if(Number('20' + this.year) > new Date().getFullYear()){
+				if(Number('20' + this.year) > (new Date().getFullYear() + 10)){
 					return '19' + this.year;
 				}
 			}
@@ -30,7 +30,7 @@ Vue.component('date-picker', {
 		},
 		yearValid() {
 			const year = Number(this.cleanYear);
-			return !isNaN(year) && year > 1900 && year <= new Date().getFullYear();
+			return !isNaN(year) && year > 1900;
 		},
 		monthValid() {
 			const month = Number(this.cleanMonth);
