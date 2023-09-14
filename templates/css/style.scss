@@ -220,6 +220,7 @@ $width-main-column: 860px;
 	--c-highlight: #da513d;
 	--c-text: #444;
 	--c-text-light: #777;
+	--c-text-placeholder: #999;
 	--c-text-heading: #000;
 	--c-text-link: #00e;
 	--c-text-link-visited: #61a;
@@ -277,6 +278,7 @@ $width-main-column: 860px;
 		--c-highlight: #9f3a2b;
 		--c-text: #bbb;
 		--c-text-light: #999;
+		--c-text-placeholder: #666;
 		--c-text-heading: #ddd;
 		--c-text-link: #bbf;
 		--c-text-link-visited: #a9d;
@@ -1268,6 +1270,11 @@ sup:target a{
 			@include form-input-hover;
 		}
 	}
+}
+
+::placeholder{
+	color: var(--c-text-placeholder);
+	opacity: 1; // Firefox
 }
 
 input:not([type=range]), textarea, select, .toggle{
@@ -2689,6 +2696,7 @@ details{
 		--c-highlight: #da513d;
 		--c-text: #000;
 		--c-text-light: #000;
+		--c-text-placeholder: transparent;
 		--c-text-heading: #000;
 		--c-text-link: #000;
 		--c-text-link-visited: #000;
