@@ -72,7 +72,7 @@
 					type="text"
 					v-model="oldAddress"
 					placeholder="Alte Straße 12"
-					autocomplete="address-line2">
+					autocomplete="address-line1">
 			</div>
 			<div class="form-group">
 				<label :for="uid('oldBuildingDetails')">Building details</label>
@@ -148,6 +148,7 @@
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
 				<input type="text"
 				  placeholder="Canada"
+				  autofill="country-name"
 				  :id="uid('nationality-' + person.id)"
 				  :list="uid('countries')"
 				  v-model="person.nationality">
@@ -190,6 +191,7 @@
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<div class="input-group">
 					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)">
+						<option disabled hidden default value="">Select your religion</option>
 						<option value="Evangelische Kirche">Evangelical Church</option>
 						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
 						<option value="Jüdische Gemeinde">Jewish Community</option>
@@ -349,7 +351,6 @@
 			el: el,
 			mixins: [uniqueIdsMixin],
 			data() {
-				const defaultState = getDefault('state', '');
 				return {
 					moveInDate: '',
 					newAddress: '',
@@ -358,10 +359,10 @@
 					newPostCode: '',
 					oldAddress: '',
 					oldBuildingDetails: '',
-					oldCity: defaultState.startsWith('be-') ? 'Berlin' : '',
+					oldCity: '',
 					oldPostCode: '',
 					oldCountry: '',
-					oldState: defaultState.startsWith('be-') ? 'be' : defaultState,
+					oldState: '',
 					people: [],
 					namesAreOnMailbox: true,
 					nameOnMailbox: '',
