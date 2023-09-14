@@ -2663,6 +2663,27 @@ details{
 	}
 }
 
+.anmeldung-form{
+	picture{
+		float: right;
+		max-height: 220px;
+		overflow: hidden;
+		margin: 0 0 0 var(--xl);
+
+		img{
+			margin:0 auto;
+			border-radius: 0;
+			width: 300px;
+		}
+
+		@include full-width-site{
+			display: none;
+		}
+	}
+	picture + p{margin-top:0}
+	picture ~ hr{clear: both}
+}
+
 @include only-print{
 	:root{
 		--c-highlight: #da513d;

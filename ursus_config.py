@@ -128,12 +128,12 @@ config.image_transforms = {
     },
     'previews': {
         'include': 'documents/*',
-        'max_size': (300, 500),
+        'max_size': (300, 600),
         'output_types': ('webp', 'png'),
     },
     'previews2x': {
         'include': 'documents/*',
-        'max_size': (600, 1000),
+        'max_size': (600, 1200),
         'output_types': ('webp', 'png'),
     },
 }
