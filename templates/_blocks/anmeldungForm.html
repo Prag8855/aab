@@ -280,11 +280,11 @@
 	<template v-if="stage === 'options'">
 		<h2>You're done!</h2>
 		<div class="health-insurance-options">
-			<button @click="generatePDF" :disabled="!pdfIsReady">
+			<button @click="generatePDF" :disabled="!pdfDoc">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
-					<h3 v-if="pdfIsReady">Download the filled form</h3>
-					<h3 v-if="!pdfIsReady">Preparing the form...</h3>
+					<h3 v-if="pdfDoc">Download the filled form</h3>
+					<h3 v-if="!pdfDoc">Preparing the form...</h3>
 					<p>Print the form, sign it, and bring it to your Anmeldung appointment</p>
 				</div>
 			</button>
@@ -374,7 +374,7 @@
 					],
 
 					stageIndex: 0,
-					pdfIsReady: false,
+					pdfDoc: null,
 				};
 			},
 			computed: {
@@ -432,13 +432,10 @@
 				async preloadPDF(){
 					// Load PDFLib and the PDF document in advance while the user fills the form
 					pdfLibScriptPromise = loadScript('/js/pdflib.js');
-					anmeldungFormDownloadPromise = fetch('/documents/anmeldung-original.pdf');
+					anmeldungFormDownloadPromise = fetch('/documents/anmeldung-with-beiblatt.pdf');
 
 					const [_, pdfResponse] = await Promise.all([pdfLibScriptPromise, anmeldungFormDownloadPromise]);
-					const pdfDoc = await PDFLib.PDFDocument.load(await pdfResponse.arrayBuffer());
-
-					this.pdfIsReady = true;
-					return pdfDoc;
+					this.pdfDoc = await PDFLib.PDFDocument.load(await pdfResponse.arrayBuffer());
 				},
 				async generatePDF(){
 					let oldStateName = this.germanStates[this.oldState] ? this.germanStates[this.oldState].germanName : '';
@@ -495,14 +492,17 @@
 						textFields['Name Vorname_2'] = [this.people[1].lastName, this.people[1].firstName].join(', ');
 					}
 
-					const pdfDoc = await this.preloadPDF();
-					return await fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf');
+					if(this.people.length <= 2 && this.pdfDoc.getPageCount() > 1){
+						// Remove the second page because it's not needed
+						this.pdfDoc.removePage(1);
+					}
+					return await fillAndSavePDF(this.pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf');
 				}
 			},
 			watch: {
-				stageIndex(newStageIndex){
+				async stageIndex(newStageIndex){
 					if(newStageIndex > 0 && pdfLibScriptPromise === null){
-						this.preloadPDF();
+						await this.preloadPDF();
 					}
 				}
 			},
