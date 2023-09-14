@@ -213,15 +213,17 @@
 	</template>
 	<template v-if="stage === 'beiAddress'">
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
-		<p>German apartments don't have door numbers. If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. It's the only way to receive your mail.</p>
+		<p>German apartments don't have door numbers. If your name is not on your mailbox, you will not receive your mail.</p>
 		<hr>
 		<div class="input-group vertical">
 			<label class="checkbox">
-				<input v-model="namesAreOnMailbox" type="radio" :name="uid('namesAreOnMailbox')" :value="true"> {{ people.length > 1 ? 'Our names are' : 'My name is' }} on the mailbox
+				<input v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our' : 'My name is on my' }} mailbox
 			</label>
-			<label class="checkbox">
-				<input v-model="namesAreOnMailbox" type="radio" :name="uid('namesAreOnMailbox')" :value="false"> The name on {{ people.length > 1 ? 'our' : 'my' }} mailbox is <input type="text" v-model="nameOnMailbox" placeholder="Steffan Schmidt" autocomplete="off">
-			</label>
+		</div>
+		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
+		<div class="form-group" v-if="!namesAreOnMailbox">
+			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
+			<input type="text" v-model="nameOnMailbox" placeholder="Müller">
 		</div>
 	</template>
 	<template v-if="stage === 'idDocuments'">

@@ -171,7 +171,8 @@ If you send someone else to do your *Anmeldung*, there are extra requirements:
 
 **Yes.** If your name is not on the mailbox, add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address when you register:[^22]
 
-> [your name] **bei [name of person on the mailbox]**  
+> [your name]  
+> **bei [name of person on the mailbox]**  
 > Musterstraße 123  
 > 10115 Berlin
 

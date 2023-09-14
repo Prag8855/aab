@@ -85,7 +85,8 @@ If your name is not on the lease, your landlord can refuse to put your name on t
 
 If you can't put your name on your mailbox, you must add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address. For example:
 
-> [your name] **bei [your roommate's name]** (the person whose name is on the mailbox)  
+> [your name]  
+> **bei [your roommate's name]** (the person whose name is on the mailbox)  
 > Musterstraße 17  
 > 12345 Berlin  
 > Deutschland
