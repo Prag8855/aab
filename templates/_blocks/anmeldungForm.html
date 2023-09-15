@@ -8,7 +8,7 @@
 	<template v-if="stage === 'start'">
 		{% endraw %}{% image 'documents/anmeldung-original.pdf', alt="German document preview", sizes="300px" %}{% raw %}
 		<p>This tools helps you <strong>fill the <glossary>Anmeldung</glossary> form</strong>. It takes less than 3 minutes. At the end, you can save the form and print it.</p>
-		<p>Your personal information stays on your computer. No one can see it.</p>
+		<p>Your personal information stays on your computer. No one else can see it.</p>
 	</template>
 	<template v-if="stage === 'newAddress'">
 		<h2>Your new address</h2>
@@ -131,7 +131,7 @@
 						placeholder="Smith"
 						autocomplete="family-name"
 						class="last-name-input">
-					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add title or birth name</a>
+					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or your name at birth</a>
 				</div>
 			</div>
 			<div class="form-group" v-if="person.showExtraFields">
@@ -191,7 +191,7 @@
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<div class="input-group">
 					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)">
-						<option disabled hidden default value="">Select your religion</option>
+						<option disabled hidden default value="">Choose a religion</option>
 						<option value="Evangelische Kirche">Evangelical Church</option>
 						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
 						<option value="Jüdische Gemeinde">Jewish Community</option>
@@ -208,7 +208,7 @@
 			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
 		</datalist>
 		<div class="buttons">
-			<button class="button" @click="addPerson" v-if="people.length < 6"><i class="icon person" aria-hidden="true"></i> Add another person</button>
+			<button class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
 		</div>
 	</template>
 	<template v-if="stage === 'beiAddress'">
@@ -408,7 +408,7 @@
 						lastName: '',
 						birthName: '',
 						nationality: '',
-						religion: 'Sonstiges, nicht kirchensteuerpflichtig',
+						religion: '',
 						dateOfBirth: '',
 						gender: '',
 						birthPlace: '',

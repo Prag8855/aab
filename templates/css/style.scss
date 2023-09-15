@@ -2673,7 +2673,8 @@ details{
 .anmeldung-form{
 	picture{
 		float: right;
-		max-height: 220px;
+		width: 302px; // Includes border
+		height: 220px;
 		overflow: hidden;
 		margin: 0 0 0 var(--xl);
 
