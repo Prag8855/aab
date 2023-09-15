@@ -345,15 +345,18 @@
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
 {% js %}
 	let pdfLibScriptPromise = null;
 	let anmeldungFormDownloadPromise = null;
 	document.querySelectorAll('.anmeldung-form').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [uniqueIdsMixin, trackedStagesMixin],
 			data() {
 				return {
+					trackAs: 'Anmeldung form',
+
 					moveInDate: '',
 					newAddress: '',
 					newBuildingDetails: '',
@@ -383,7 +386,6 @@
 						'idDocuments',
 						'options',
 					],
-
 					stageIndex: 0,
 					pdfBytes: null,
 				};
