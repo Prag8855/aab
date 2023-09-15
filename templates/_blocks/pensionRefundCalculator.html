@@ -7,13 +7,16 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [uniqueIdsMixin, trackedStagesMixin],
 			data() {
 				return {
+					trackAs: 'Pension refund calculator',
+
 					stage: 'start',
 					nationality: getDefault('nationality', ''),
 					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
@@ -71,7 +74,6 @@
 						},
 					],
 					selectedPartner: null,
-					trackedStages: new Set(),
 				};
 			},
 			mounted() {
@@ -228,23 +230,12 @@
 						}
 					);
 				},
-			},
-			watch: {
-				stage() {
-					Vue.nextTick(() => {
-						this.$refs.collapsible.$el.scrollIntoView({ block: 'start', behavior: 'auto' });
-						if(!this.trackedStages.has(this.stage)) {
-							plausible('Pension refund calculator', { props: { stage: this.stage }});
-							this.trackedStages.add(this.stage);
-						}
-					});
-				},
 			}
 		})
 	);
 {% endjs %}
 
-<collapsible class="pension-refund-calculator" aria-label="Pension refund calculator" ref="collapsible" {% if static|default %}static{% endif %}>
+<collapsible class="pension-refund-calculator" ref="collapsible" aria-label="Pension refund calculator" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>Calculate your pension refund</template>
 

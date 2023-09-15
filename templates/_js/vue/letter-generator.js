@@ -1,6 +1,8 @@
 {% include '_js/vue.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
 {% js %}{% raw %}
 Vue.component('letter-generator', {
+	mixins: [trackedStagesMixin],
 	props: {
 		static: Boolean,
 		trackAs: String,
@@ -37,19 +39,6 @@ Vue.component('letter-generator', {
 					plausible(this.trackAs, { props: { stage: 'print' }});
 				}
 			}
-		},
-	},
-	watch: {
-		stage() {
-			Vue.nextTick(() => {
-				this.$refs.collapsible.scrollIntoView({ block: 'start', behavior: 'auto' });
-				if(!this.trackedStages.has(this.stage)) {
-					if(this.trackAs){
-						plausible(this.trackAs, { props: { stage: this.stage }});
-					}
-					this.trackedStages.add(this.stage);
-				}
-			});
 		},
 	},
 	template: `

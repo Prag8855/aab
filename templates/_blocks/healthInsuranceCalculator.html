@@ -1,6 +1,6 @@
-{% include '_js/utils.js' %}
 {% include '_js/constants.js' %}
 {% include '_js/health-insurance-calculator.js' %}
+{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/collapsible.js' %}
@@ -9,14 +9,16 @@
 {% include '_js/vue/health-insurance-question.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/occupation-input.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.health-insurance-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [uniqueIdsMixin, trackedStagesMixin],
 			data: function() {
 				return {
+					trackAs: 'Health insurance calculator',
 					occupation: getDefault('occupation', 'employee'),
 					isMarried: getDefaultBoolean('isMarried'),
 					childrenCount: getDefaultNumber('childrenCount'),
@@ -26,7 +28,6 @@
 					pflegeversicherung,
 					stage: 'start',
 					healthInsurance,
-					trackedStages: new Set(),
 					useMonthlyIncome: getDefaultBoolean('useMonthlyIncome'),
 				}
 			},
@@ -128,15 +129,6 @@
 					if(this.occupation === 'unemployed') {
 						this.income = 0;
 					}
-				},
-				stage() {
-					Vue.nextTick(() => {
-						this.$refs.collapsible.$el.scrollIntoView({ block: 'start', behavior: 'auto' });
-						if(!this.trackedStages.has(this.stage)) {
-							plausible('Health insurance calculator', { props: { stage: this.stage }});
-							this.trackedStages.add(this.stage);
-						}
-					});
 				},
 			}
 		})

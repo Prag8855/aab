@@ -1,13 +1,14 @@
 {% include '_js/constants.js' %}
 {% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}{% raw %}
 Vue.component('health-insurance-question', {
-	mixins: [uniqueIdsMixin],
+	mixins: [uniqueIdsMixin, trackedStagesMixin],
 	props: {
 		occupation: String,
 		age: Number,
@@ -17,8 +18,9 @@ Vue.component('health-insurance-question', {
 	},
 	data: function() {
 		return {
+			trackAs: 'Health insurance question',
+
 			stage: 'contactInfo',
-			trackedStages: new Set(),
 			minFreiwilligMonthlyIncome: healthInsurance.minFreiwilligMonthlyIncome * 12,
 
 			question: '',
@@ -109,19 +111,8 @@ Vue.component('health-insurance-question', {
 			}
 		},
 	},
-	watch: {
-		stage() {
-			Vue.nextTick(() => {
-				this.$refs.form.scrollIntoView({ block: 'start', behavior: 'auto' });
-				if(!this.trackedStages.has(this.stage)) {
-					plausible('Health insurance question', { props: { stage: this.stage }});
-					this.trackedStages.add(this.stage);
-				}
-			});
-		},
-	},
 	template: `
-		<div ref="form" class="health-insurance-question">
+		<div ref="collapsible" class="health-insurance-question">
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<img

@@ -373,7 +373,7 @@
 		link.download=outputFileName;
 		link.click();
 
-		plausible('PDF generator', { props: { stage: 'download' }});
+		plausible(this.trackAs, { props: { stage: 'download' }});
 	}
 
 	function loadScript(src) {
