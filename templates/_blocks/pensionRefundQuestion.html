@@ -1,5 +1,5 @@
+{% include '_js/countries.js' %}
 {% include '_js/utils.js' %}
-{% include '_js/constants.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
@@ -14,10 +14,10 @@
 					emailAddress: '',
 					fullName: '',
 					question: '',
-					nationality: countries[getDefault('nationality')] || '',
-					countryOfResidence: countries[getDefault('countryOfResidence')] || '',
+					nationality: countries.all[getDefault('nationality')] || '',
+					countryOfResidence: countries.all[getDefault('countryOfResidence')] || '',
 					stage: 'contactInfo',
-					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
+					sortedCountryList: countries.getSortedList(),
 				};
 			},
 			methods: {

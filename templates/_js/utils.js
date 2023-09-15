@@ -7,13 +7,6 @@ function formatPercent(num, addSymbol=true) {
 	return addSymbol ? `${formattedNum}%` : formattedNum;
 }
 
-function stateName(stateObj) {
-	if(stateObj.englishName.startsWith('Berlin') || stateObj.englishName === stateObj.germanName) {
-		return stateObj.englishName;
-	}
-	return `${stateObj.englishName} (${stateObj.germanName})`;
-}
-
 function getDefault(key, fallback) {
 	if (typeof sessionStorage === 'object') {
 		try {

@@ -336,7 +336,8 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/constants.js' %}
+{% include '_js/countries.js' %}
+{% include '_js/germanStates.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/city-input.js' %}
 {% include '_js/vue/collapsible.js' %}
@@ -420,10 +421,10 @@
 					namesAreOnMailbox: true,
 					nameOnMailbox: '',
 
-					germanStates: germanStates,
-					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
+					germanStates,
+					sortedCountryList: countries.getSortedList(),
 					recommendedCountries: new Set(
-						(navigator.languages || []).map(l => countries[l.substring(3)]).concat(['Germany']).filter(Boolean)
+						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
 					),
 					stages: [
 						'start',
@@ -505,7 +506,7 @@
 					this.pdfBytes = new Uint8Array(await pdfResponse.arrayBuffer());
 				},
 				async generatePDF(person1, person2){
-					let oldStateName = this.germanStates[this.oldState] ? this.germanStates[this.oldState].germanName : '';
+					let oldStateName = germanStates[this.oldState] ? germanStates[this.oldState].germanName : '';
 					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
 					const textFields = {
 						'Tag des EinzugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),

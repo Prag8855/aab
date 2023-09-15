@@ -1,5 +1,6 @@
 {% include '_js/utils.js' %}
 {% include '_js/constants.js' %}
+{% include '_js/germanStates.js' %}
 {% include '_js/tax-calculator.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
@@ -28,7 +29,7 @@
 					return (+this.monthlyIncome) * 12 >= taxes.beitragsbemessungsgrenze.currentYear.east && this.occupation !== 'unemployed';
 				},
 				isInEastGermany: function() {
-					return this.germanStates[this.germanState].isInEastGermany;
+					return germanStates[this.germanState].isInEastGermany;
 				},
 				results: function() {
 					setDefault('occupation', this.occupation);

@@ -1,4 +1,4 @@
-{% include '_js/constants.js' %}
+{% include '_js/countries.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% include '_js/vue/date-picker.js' %}
@@ -21,7 +21,7 @@
 					customRecipientAddress: '',
 					currentDate: new Date(),
 					lastDayOfWork: '',
-					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
+					sortedCountryList: countries.getSortedList(),
 				};
 			},
 			computed: {

@@ -1,3 +1,5 @@
+{% include '_js/countries.js' %}
+{% include '_js/germanStates.js' %}
 {% include '_js/utils.js' %}
 {% include '_js/pension-refund-calculator.js' %}
 {% include '_js/vue.js' %}
@@ -19,7 +21,7 @@
 
 					stage: 'start',
 					nationality: getDefault('nationality', ''),
-					sortedCountryList: Object.entries(countries).sort((a, b) => a[1].localeCompare(b[1])),
+					sortedCountryList: countries.getSortedList(),
 					countryOfResidence: getDefault('countryOfResidence', ''),
 					yearlyIncome: getDefaultNumber('yearlyIncome'),
 					firstMonthOfWork: '',
@@ -109,12 +111,12 @@
 								headers: {'Content-Type': 'application/json; charset=utf-8',},
 								body: JSON.stringify({
 									'arrivalDate': `${this.firstYearOfWork}-${this.firstMonthOfWork}`,
-									'countryOfResidence': countries[this.countryOfResidence],
+									'countryOfResidence': countries.all[this.countryOfResidence],
 									'dateOfBirth': this.dateOfBirth,
 									'departureDate': `${this.lastYearOfWork}-${this.lastMonthOfWork}`,
 									'email': this.emailAddress,
 									'name': this.fullName,
-									'nationality': countries[this.nationality],
+									'nationality': countries.all[this.nationality],
 								}),
 							}
 						);

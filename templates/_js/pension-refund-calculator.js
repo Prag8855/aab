@@ -1,4 +1,5 @@
 {% include '_js/constants.js' %}
+{% include '_js/countries.js' %}
 {% js %}
 function monthsBetween(dateA, dateB) {
 	const startDate = new Date(dateA);
@@ -51,18 +52,18 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 	let refundAmount = null;
 
 	// EU resident
-	if(euCountries.has(countryOfResidence) && !eeaCountries.has(nationality)){
+	if(countries.eu.has(countryOfResidence) && !countries.eea.has(nationality)){
 		flags.add('not-eligible');
 		flags.add('eu-resident');
 	}
 
 	// EU
-	if (euCountries.has(nationality)){
+	if (countries.eu.has(nationality)){
 		flags.add('not-eligible');
 		flags.add('eu-national');
 	}
 	// EEA
-	else if (eeaCountries.has(nationality)){
+	else if (countries.eea.has(nationality)){
 		flags.add('not-eligible');
 		flags.add('eea-national');
 	}
