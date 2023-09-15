@@ -45,12 +45,4 @@ function setDefault(key, value) {
 function setDefaultString(key, value) { setDefault(key, value ? '1' : '')}
 function setDefaultNumber(key, value) { setDefault(key, +value)}
 function setDefaultBoolean(key, value) { setDefault(key, !!value)}
-
-const occupations = {
-	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),
-	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
-	isUnemployed: (occupation) => ['unemployed', 'student'].includes(occupation),
-	isMinijob: (occupation, monthlyIncome) => ['employee', 'studentEmployee'].includes(occupation) && monthlyIncome <= taxes.maxMinijobIncome,
-	isLowIncome: (monthlyIncome) => monthlyIncome <= taxes.maxMinijobIncome,
-};
 {% endjs %}

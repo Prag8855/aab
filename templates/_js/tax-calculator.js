@@ -1,4 +1,3 @@
-{% include '_js/utils.js' %}
 {% include '_js/constants.js' %}
 {% include '_js/health-insurance-calculator.js' %}
 {% include '_js/pension-refund-calculator.js' %}

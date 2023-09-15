@@ -266,6 +266,14 @@ const pensions = {
 	},
 }
 
+const occupations = {
+	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),
+	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
+	isUnemployed: (occupation) => ['unemployed', 'student'].includes(occupation),
+	isMinijob: (occupation, monthlyIncome) => ['employee', 'studentEmployee'].includes(occupation) && monthlyIncome <= taxes.maxMinijobIncome,
+	isLowIncome: (monthlyIncome) => monthlyIncome <= taxes.maxMinijobIncome,
+};
+
 const defaults = {  // Percentages are stored as full amounts, unlike elsewhere
 	age: 25,
 	childrenCount: 0,
