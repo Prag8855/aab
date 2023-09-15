@@ -210,7 +210,13 @@
 					if(!this.showExtraQuestions) {
 						// When collapsing the questions, make sure that the calculator stays in the viewport
 						Vue.nextTick(() => {
-							scrollIntoViewIfNeeded(this.$refs.$el.collapsible);
+							const collapsibleEl = this.$refs.collapsible.$el;
+							if(collapsibleEl.getBoundingClientRect().bottom > window.innerHeight) {
+								collapsibleEl.scrollIntoView(false);
+							}
+							if (collapsibleEl.getBoundingClientRect().top < 0) {
+								collapsibleEl.scrollIntoView();
+							}
 						});
 					}
 				},

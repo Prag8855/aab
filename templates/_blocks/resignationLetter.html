@@ -1,4 +1,3 @@
-{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/blank.js' %}
 {% include '_js/vue/glossary.js' %}
@@ -28,18 +27,45 @@
 			},
 			computed: {
 				recipientFullName() {
-					return formatPersonName(
-						this.recipientGender,
-						this.recipientFirstName,
-						this.recipientLastName
-					);
+					let displayGender = {
+						man: { en: 'Mr', de: 'Herr' },
+						woman: { en: 'Mrs', de: 'Frau' },
+						other: { en: '', de: '' },
+					}[this.recipientGender];
+
+					if(!this.recipientLastName){ // No "Dear Mr Firstname"
+						displayGender = '';
+					}
+					return {
+						en: [
+							displayGender.en, this.recipientFirstName, this.recipientLastName
+						].filter(Boolean).join(' '),
+						de: [
+							displayGender.de, this.recipientFirstName, this.recipientLastName
+						].filter(Boolean).join(' '),
+					};
 				},
 				salutations(){
-					return formatSalutations(
-						this.recipientGender,
-						this.recipientFirstName,
-						this.recipientLastName
-					);
+					if(!this.recipientLastName || (this.recipientGender === 'other' && !this.recipientFirstName)) {
+						return {
+							en: 'Dear Sir or Madam',
+							de: 'Sehr geehrte Damen und Herren'
+						};
+					}
+					return {
+						'man': {
+							en: `Dear Mr ${this.recipientLastName}`,
+							de: `Sehr geehrter Herr ${this.recipientLastName}`,
+						},
+						'woman': {
+							en: `Dear Mrs ${this.recipientLastName}`,
+							de: `Sehr geehrte Frau ${this.recipientLastName}`,
+						},
+						'other': {
+							en: `Dear ${this.recipientFirstName} ${this.recipientLastName}`,
+							de: `Sehr geehrte*r ${this.recipientFirstName} ${this.recipientLastName}`,
+						},
+					}[this.recipientGender];
 				},
 				hasRequestedAnyDocuments() {
 					return this.requestLetterOfReference || this.requestQualifiedLetterOfReference || this.requestVacationCertificate;
