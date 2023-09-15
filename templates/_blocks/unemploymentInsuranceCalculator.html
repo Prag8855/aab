@@ -51,56 +51,56 @@
 {% raw %}
 		<template v-slot:header>Unemployment insurance calculator</template>
 		<div class="form-group">
-				<label :for="uid('occupation')">
-						Occupation
-				</label>
-				<occupation-input :id="uid('occupation')" v-model="occupation"></occupation-input>
+			<label :for="uid('occupation')">
+				Occupation
+			</label>
+			<occupation-input :id="uid('occupation')" v-model="occupation"></occupation-input>
 		</div>
 		<div class="form-group show-errors" v-if="occupations.isEmployed(occupation)">
-				<label :for="uid('income')">
-						Income
-				</label>
-				<label class="input-group">
-						<income-input :id="uid('income')" v-model="monthlyIncome"></income-input>
-						€&nbsp;per&nbsp;month
-				</label>
+			<label :for="uid('income')">
+				Income
+			</label>
+			<label class="input-group">
+				<income-input :id="uid('income')" v-model="monthlyIncome"></income-input>
+				€&nbsp;per&nbsp;month
+			</label>
 		</div>
 		<div class="form-group" v-if="showStatePicker">
-				<label :for="uid('state')">
-						Where do you work?
-				</label>
-				<div class="input-group">
-					<select :id="uid('state')" v-model="germanState">
-						<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-					</select>
-					<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
-				</div>
+			<label :for="uid('state')">
+				Where do you work?
+			</label>
+			<div class="input-group">
+				<select :id="uid('state')" v-model="germanState">
+					<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+				</select>
+				<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
+			</div>
 		</div>
 		<hr>
 		<output class="large">
-				<eur :amount="results.unemploymentInsurance / 12"></eur><small class="no-mobile"> per month</small>
+			<eur :amount="results.unemploymentInsurance / 12"></eur><small class="no-mobile"> per month</small>
 		</output>
 		<p>
-				<template v-if="results.flags.has('none')">
-						<template v-if="results.flags.has('unemployed')">
-								You are unemployed, so you don't pay unemployment insurance.
-						</template>
-						<template v-else-if="results.flags.has('minijob')">
-								You earn less than <eur :amount="taxes.maxMinijobIncome"></eur> per month. When you have a <glossary>Minijob</glossary>, you don't pay unemployment insurance.
-						</template>
+			<template v-if="results.flags.has('none')">
+				<template v-if="results.flags.has('unemployed')">
+					You are unemployed, so you don't pay unemployment insurance.
 				</template>
-				<template v-else-if="results.flags.has('optional')">
-						When you are self-employed, you don't have to pay unemployment insurance. It's optional.
+				<template v-else-if="results.flags.has('minijob')">
+					You earn less than <eur :amount="taxes.maxMinijobIncome"></eur> per month. When you have a <glossary>Minijob</glossary>, you don't pay unemployment insurance.
 				</template>
-				<template v-else-if="results.flags.has('max-contribution')">
-						You earn more than <eur :amount="monthlyBeitragsbemessungsgrenze"></eur> per month (the <em><glossary>Beitragsbemessungsgrenze</glossary></em>), so you pay the maximum amount: {{ taxes.arbeitslosenversicherungRate * 100 }}% of <eur :amount="monthlyBeitragsbemessungsgrenze"></eur>.
-				</template>
-				<template v-else-if="results.flags.has('azubi')">
-						As an apprentice, you pay {{ taxes.arbeitslosenversicherungRate * 100 }}% of your income for unemployment insurance.
-				</template>
-				<template v-else>
-						You pay {{ taxes.arbeitslosenversicherungRate * 100 }}% of your income for unemployment insurance.
-				</template>
+			</template>
+			<template v-else-if="results.flags.has('optional')">
+				When you are self-employed, you don't have to pay unemployment insurance. It's optional.
+			</template>
+			<template v-else-if="results.flags.has('max-contribution')">
+				You earn more than <eur :amount="monthlyBeitragsbemessungsgrenze"></eur> per month (the <em><glossary>Beitragsbemessungsgrenze</glossary></em>), so you pay the maximum amount: {{ taxes.arbeitslosenversicherungRate * 100 }}% of <eur :amount="monthlyBeitragsbemessungsgrenze"></eur>.
+			</template>
+			<template v-else-if="results.flags.has('azubi')">
+				As an apprentice, you pay {{ taxes.arbeitslosenversicherungRate * 100 }}% of your income for unemployment insurance.
+			</template>
+			<template v-else>
+				You pay {{ taxes.arbeitslosenversicherungRate * 100 }}% of your income for unemployment insurance.
+			</template>
 		</p>
 {% endraw %}
 </collapsible>
