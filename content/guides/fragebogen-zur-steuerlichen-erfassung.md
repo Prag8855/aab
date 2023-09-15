@@ -117,7 +117,7 @@ In this section, you share information about you.
 - **Titel** - Title  
     For example, "Dr."
 - **Name** - Last name
-- **Gegebenenfalls Geburtsname** - Birth name, if applicable
+- **Gegebenenfalls Geburtsname** - Name at birth, if applicable
 - **Vorname** - First name
 - **Namensvorsatz** - Name prefix
 - **Namenszusatz** - Name suffix  
@@ -189,7 +189,7 @@ In this section, you share information about your spouse.
 - **Titel** - Title  
     For example, "Dr."
 - **Name** - Last name
-- **Gegebenenfalls Geburtsname** - Birth name, if applicable
+- **Gegebenenfalls Geburtsname** - Name at birth, if applicable
 - **Vorname** - First name
 - **Namensvorsatz** - Name prefix
 - **Namenszusatz** - Name suffix  

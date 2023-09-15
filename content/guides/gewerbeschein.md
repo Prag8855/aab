@@ -153,7 +153,7 @@ Click *Weiter* to continue.
 - First name (*Vorname*)
 - Last name (*Nachname*)
 - Gender (*Geschlecht*)
-- Birth name (*Geburtsname*)
+- Name at birth (*Geburtsname*), if it changed
 - Birth date (*Geburtstag*)
 
 [![Screenshot of step to apply for a Gewerbeschein online](/images/berlin-gewerbeanmeldung-20.png)](/images/berlin-gewerbeanmeldung-20.png)

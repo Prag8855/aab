@@ -67,8 +67,8 @@ If you fill the form yourself, use these instructions:
     - **Familienmitglied ist**: leave this space empty
     - **Familienname, ggf. Doktorgrad, Passname**: Your last name, doctoral degrees (e.g. "PhD")
     - **Vornamen**: Your first name. If you have multiple first names, underline the name you want to be called.
-    - **Geburtsname**: Your birth name
-    - **Geschlecht**: Your gender. Enter "männlich" for male, and "weiblich" for female.
+    - **Geburtsname**: Your name at birth, if you changed your name.
+    - **Geschlecht**: Your gender. Enter "männlich" for male, "weiblich" for female, or "divers" for other.
     - **Tag, Ort, Land der Geburt**: Your date, place and country of birth. For example, "23.10.1955, Montreal, Canada". Use the DD.MM.YYYY date format.
     - **Religionsgesellschaft**: Enter the religious community you are part of. This information is used to collect the [church tax](/glossary/Kirchensteuer).
     - **Staatsangehörigkeiten**: Your nationality. For example, "Frankreich" or "Französisch". You can enter multiple nationalities.
