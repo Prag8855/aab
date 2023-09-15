@@ -78,7 +78,7 @@ Vue.component('health-insurance-question', {
 	},
 	methods: {
 		submitForm() {
-			if(validateForm(this.$refs.form)) {
+			if(validateForm(this.$refs.collapsible)) {
 				fetch(
 					'/api/forms/health-insurance-question',
 					{
