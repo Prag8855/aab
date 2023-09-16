@@ -4,6 +4,11 @@
 	<meta charset="utf-8">
 	<title>{% if metatitle|default %}{{ metatitle }}{% if metatitle|length < 50 %} - {% endif %}{% if metatitle|length < 50 %}All About Berlin{% endif %}{% else %}All About Berlin{% endif %}</title>
 	{% if metadescription|default %}<meta name="description" content="{{ metadescription }}">{% endif %}
+
+	<link rel="preload" as="font" href="/fonts/librefranklin-400.woff2" type="font/woff2" crossorigin>
+	<link rel="preload" as="font" href="/fonts/librefranklin-400i.woff2" type="font/woff2" crossorigin>
+	<link rel="preload" as="font" href="/fonts/librefranklin-600.woff2" type="font/woff2" crossorigin>
+
 	<link rel="home" href="{{ site_url }}/">
 	<link rel="icon" type="image/png" href="/staticimages/favicon.png">
 	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss">
