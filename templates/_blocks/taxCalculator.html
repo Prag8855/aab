@@ -572,14 +572,15 @@
 				</p>
 				<p class="price">
 					Your employer pays
-					<output v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
+					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
 					<output>
 						<eur :amount="result.publicPension"></eur>
 					</output>
 				</p>
 				<p class="price">
 					You pay
-					<output v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
+					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
+					<output>
 						<eur :amount="result.publicPension"></eur>
 					</output>
 				</p>
@@ -605,14 +606,14 @@
 				</p>
 				<p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
 					Your employer pays
-					<output v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
+					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
 					<output>
 						<eur :amount="result.unemploymentInsurance"></eur>
 					</output>
 				</p>
 				<p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
 					You pay
-					<output v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
+					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
 					<output>
 						<eur :amount="result.unemploymentInsurance"></eur>
 					</output>
