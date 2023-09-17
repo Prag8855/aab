@@ -31,7 +31,7 @@ There are 3 conditions for getting a German pension refund:
 
 ### EU, [[EEA]] and Switzerland citizens
 
-If you are a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland, you can always contribute to your German pension, so you can't get a refund.[^40]
+If you are a citizen of the [[European Union]], Iceland, Liechtenstein, Norway or Switzerland, you can always contribute to your German pension, so you can't get a refund.[^40]
 
 There is an exception.[^1] You can get a refund if:
 

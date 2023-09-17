@@ -21,12 +21,12 @@ This guide shows you how to apply for a German work visa or EU Blue Card.
 You **need** a [residence permit](/glossary/Aufenthaltstitel) if:
 
 - You want to live and work in Germany
-- **and** you are not a citizen or [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the European Union, Liechtenstein, Norway or Switzerland
+- **and** you are not a citizen or [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the [[European Union]], Liechtenstein, Norway or Switzerland
 - **and** your current residence permit does not let you work in Germany. For example, the [German freelance visa](/glossary/Freelance%20visa) lets you work as a freelancer, but not as an employee.
 
 You **do not need** a residence permit if:
 
-- You are a [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, or a citizen of the European Union, Iceland, Liechtenstein, Norway or Switzerland[^0]
+- You are a [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, or a citizen of the [[European Union]], Iceland, Liechtenstein, Norway or Switzerland[^0]
 - **or** your current residence permit lets you work in Germany. For example, the German [student visa](/glossary/Student%20visa) lets you work up to 120 days or 240 half days per year.[^1]
 - **or** you want to be self-employed. You need a [freelance visa](/glossary/Freelance%20visa) for this.
 

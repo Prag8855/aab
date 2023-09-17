@@ -15,7 +15,7 @@ Most people need a residence permit to live in Germany for more than 3 months.
 
 It depends on your citizenship:
 
-- **European Union, Iceland, Liechtenstein or Norway**  
+- **[[European Union]], Iceland, Liechtenstein or Norway**  
     You don't need a residence permit. You can already live, work and study in Germany.[^0] If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
 - **Switzerland**  
     You need a residence permit. It's easier to get.[^1] [More information here](https://service.berlin.de/dienstleistung/324287/en/).

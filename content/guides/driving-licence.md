@@ -151,7 +151,7 @@ Just go to the *Fahrerlaubnisbehörde* with your temporary driving licence and y
 
 ### Get an International Driving Permit
 
-Your German driving licence is valid in all European Union countries. Outside the European Union, you might need an [International Driving Permit](/guides/international-driving-permit-germany). In my experience, you rarely need an International Driving Permit. I drove in over 50 countries, and don't remember ever using it.
+Your German driving licence is valid in all [[European Union]] countries. Outside the European Union, you might need an [International Driving Permit](/guides/international-driving-permit-germany). In my experience, you rarely need an International Driving Permit. I drove in over 50 countries, and don't remember ever using it.
 
 ## 8. Buy a vehicle
 

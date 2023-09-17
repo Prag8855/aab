@@ -415,7 +415,7 @@ Every year, the KSK verifies 5% of its members. They choose at random. If they v
 
 ### When you leave Germany
 
-If you leave the European Union, you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
+If you leave the [[European Union]], you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
 
 If you can't get your pension payments back, you will get a German pension when you retire, even if you live in another country.
 

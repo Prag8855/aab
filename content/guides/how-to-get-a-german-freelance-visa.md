@@ -18,7 +18,7 @@ If you apply for an [artist visa](/glossary/Artist%20visa) or a language teacher
 
 You **need** a German freelance visa if:
 
-- You are not a citizen or a [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the European Union, Iceland, Liechtenstein, Norway or Switzerland
+- You are not a citizen or a [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the [[European Union]], Iceland, Liechtenstein, Norway or Switzerland
 - **and** you want to freelance or run a business in Germany
 
 You **do not need** a visa to freelance in Germany if:

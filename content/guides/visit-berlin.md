@@ -236,7 +236,7 @@ In Germany, **[shops and supermarkets close on Sundays](/guides/open-on-sundays-
 
 ### VAT refund
 
-If you live outside the European Union, you can get a refund for the [VAT](/glossary/Umsatzsteuer) you paid in Germany. For example, if you buy a laptop in Germany and bring it home in the United States, you can get the {{VAT_RATE}}% VAT back. It's not easy to do.
+If you live outside the [[European Union]], you can get a refund for the [VAT](/glossary/Umsatzsteuer) you paid in Germany. For example, if you buy a laptop in Germany and bring it home in the United States, you can get the {{VAT_RATE}}% VAT back. It's not easy to do.
 
 **[VAT refund process](https://www.germany.info/us-en/service/09-Taxes/vat-refund/906296)** - Federal Foreign Office
 

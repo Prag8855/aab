@@ -11,7 +11,7 @@ This guide shows you what you must do if you run a website in Germany. It's base
 
 ## GDPR/[[DSGVO]] compliance
 
-Since May 2018, all websites that serve European Union customers must follow the General Data Protection Regulation (GDPR in English, DSGVO in German).
+Since May 2018, all websites that serve [[European Union]] customers must follow the General Data Protection Regulation (GDPR in English, DSGVO in German).
 
 Here are the basic principles of GDPR:
 
@@ -38,7 +38,7 @@ Here are resources that helped us understand and comply with this regulation.
 
 ### Who needs to do this?
 
-All websites that serve people in the European Union, no matter who runs the website or where it is hosted. It applies to personal, non-commercial websites too. See **[Who does the data protection law apply to?](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/application-regulation/who-does-data-protection-law-apply_en)** for more details.
+All websites that serve people in the [[European Union]], no matter who runs the website or where it is hosted. It applies to personal, non-commercial websites too. See **[Who does the data protection law apply to?](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/application-regulation/who-does-data-protection-law-apply_en)** for more details.
 
 ### Legal basis
 
@@ -83,7 +83,7 @@ Tools like [CookieBot](https://www.cookiebot.com/en/cookie-consent/) can help yo
 
 ### Legal basis
 
-In the European Union, cookies were regulated by the [Cookie Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:En:PDF) and now by the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/), particularly articles 6 and 7.
+In the [[European Union]], cookies were regulated by the [Cookie Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:En:PDF) and now by the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/), particularly articles 6 and 7.
 
 ### Examples
 
