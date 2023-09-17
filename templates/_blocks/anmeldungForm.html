@@ -353,6 +353,8 @@
 	async function fillAndSavePDF(pdfDoc, textFields, checkboxFields, outputFileName) {
 		const pdfForm = pdfDoc.getForm();
 
+		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 20 });
+
 		Object.entries(textFields || {}).forEach(([fieldName, value]) => {
 			pdfForm.getTextField(fieldName).setText(value);
 		});
