@@ -9,6 +9,8 @@ This tool calculates your German [net income](/glossary/Netto%20income), after t
 
 {% include '_blocks/taxCalculatorStatic.html' %}
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## The taxes you pay in Germany
 
 All German residents must pay taxes in Germany.
@@ -99,7 +101,7 @@ Revenue from cryptocurrencies is not taxed as an investment, but as a private tr
 
 Investment income is also subject to the [church tax](/glossary/Kirchensteuer) and [solidarity surcharge](/glossary/Solidaritätszuschlag).
 
-## Tax classes
+## German tax classes
 
 Your tax class affects how your [salary tax](/glossary/Lohnsteuer) is calculated. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only changes how much income tax you pay *in advance*, as salary tax.
 
@@ -126,9 +128,11 @@ There are 6 tax classes:
 
 ## Need help?
 
-A tax advisor can answer your questions and help you file your German taxes correctly.
+A tax advisor can answer your questions and help you file your German taxes correctly. You can also call or email your local *[[Finanzamt]]*.
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+**[Find your local Finanzamt ➞](/out/finanzamt-finder)**
 
 [^0]: [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
 [^1]: [selbststaendig.de](https://www.selbststaendig.de/wissen/steuerklasse-fuer-selbststaendige)
