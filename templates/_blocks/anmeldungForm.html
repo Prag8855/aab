@@ -207,9 +207,6 @@
 		<datalist :id="uid('countries')">
 			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
 		</datalist>
-		<div class="buttons">
-			<button class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
-		</div>
 	</template>
 	<template v-if="stage === 'beiAddress'">
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
@@ -331,8 +328,9 @@
 	<div class="buttons">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 1" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
 		<button v-if="stageIndex > 0 && stageIndex < stages.length - 2" class="button primary" @click="stageIndex += 1">Next step <i class="icon right" aria-hidden="true"></i></button>
-		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="stageIndex += 1">Finish <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="stageIndex += 1">Finish</button>
 	</div>
 {% endraw %}
 </collapsible>
