@@ -79,7 +79,7 @@ Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance pri
 3. **Check your insurance company on [Trustpilot](https://www.trustpilot.com/)**  
     See if people have problems getting paid by the insurance company.
 4. **Read your insurance policy**  
-    All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) have their contracts in English.
+    All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/feather-haftpflicht) and [GetSafe](/out/getsafe-haftpflicht) have their contracts in English.
 
 ### The minimum coverage you need
 
@@ -112,7 +112,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. [Muffin](/out/muffin-haftpflicht) is sells liability insurance from multiple companies, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht) and [GetSafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. [Muffin](/out/muffin-haftpflicht) sells liability insurance from multiple companies, and they speak English.
 
 You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [GetSafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
@@ -148,7 +148,7 @@ Some professions are required to have liability insurance:[^26]
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) sell dog liability insurance, and they speak English. They cover dangerous breeds.
+*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) sell dog liability insurance, and they speak English. Their insurance covers dangerous breeds.
 
 **[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
 

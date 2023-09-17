@@ -155,7 +155,7 @@ Your own things are not covered by liability insurance. To insure your furniture
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-[Muffin](/out/muffin-haftpflicht) helps you choose liability insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht) and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. These companies also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both at the same time. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options.
+[Muffin](/out/muffin-haftpflicht) helps you choose liability insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht) and [GetSafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. They also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both insurances at the same time. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options.
 
 ### Protect your rights
 

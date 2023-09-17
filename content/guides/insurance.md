@@ -25,7 +25,7 @@ If someone gets hurt because of you, you might pay thousands or even millions of
 
 83% of Germans have liability insurance.[^6] It costs around 5€ per month.
 
-[Muffin](/out/muffin-haftpflicht) helps you choose insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht), [GetSafe](/out/getsafe-haftpflicht), and [Luko](/out/luko-haftpflicht) sell liability insurance, and they speak English. I got my liability insurance from Feather, but I have not used it. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
+[Muffin](/out/muffin-haftpflicht) helps you choose insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht) and [GetSafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. I have liability insurance from Feather, but I have not used it. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -47,7 +47,7 @@ Dog liability insurance is **required in Berlin, Brandenburg, Hamburg, Lower Sax
 
 Dog liability insurance costs around 5€ per month. You sometimes pay less if you combine private liability insurance and dog liability insurance.
 
-If you don't speak German, [Feather](/out/feather-dogs), [GetSafe](/out/getsafe-dogs) and [Luko](/out/luko-dogs) offer dog liability insurance and speak English. They also cover dangerous breeds. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices.
+If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) sell dog liability insurance and they speak English. They also cover dangerous breeds. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices.
 
 ## Home contents insurance ([[Hausratversicherung]])
 
@@ -63,7 +63,7 @@ It sometimes covers laptops and bicycles away from home. It sometimes covers cal
 
 Get this insurance if you can't afford to replace everything after a fire. 76% of Germans have it.[^4]
 
-[Muffin](/out/muffin-hausrat) helps you choose insurance from multiple companies, and they speak English. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home), [Muffin](/out/muffin-hausrat) and [Luko](/out/luko-hausrat) sell household insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options.
+[Muffin](/out/muffin-hausrat) helps you choose insurance from multiple companies, and they speak English. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home) and [Muffin](/out/muffin-hausrat) sell household insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options.
 
 ## Health insurance (Krankenversicherung)
 
@@ -83,7 +83,7 @@ Pet health insurance (*[[Tierkrankenversicherung]]* or *Hundekrankenversicherung
 
 The price of pet insurance depends on the age, race and sex of your dog. It costs around 20€ per month if your dog is still young.
 
-If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Luko](/out/luko-pethealth) sell pet health insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare options.
+If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/feather-pethealth) sell pet health insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare options.
 
 **[Having a dog in Germany ➞](/guides/pet-ownership)**
 
