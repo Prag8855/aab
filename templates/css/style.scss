@@ -1888,9 +1888,14 @@ details{
 		&[hidden] + * {margin-top: 0}
 	}
 
-	details p {
-		@include text-block-compact;
-		font-size: var(--f-s);
+	details {
+		&[open]{
+			margin-bottom:var(--l-relative);
+		}
+		p {
+			@include text-block-compact;
+			font-size: var(--f-s);
+		}
 	}
 
 	&[open] > summary {
