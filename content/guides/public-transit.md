@@ -16,7 +16,7 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 ### Where to buy a ticket
 
 - **In the app**  
-    Buy a digital ticket on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it.
+    Buy a digital ticket on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
     - **[Jelbi app](https://www.jelbi.de/en/home/)**  
         You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German. You must create an account.
     - **[BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
@@ -31,6 +31,8 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
     Enter at the front of the bus, and buy a ticket from the driver. Tap your card or phone on the payment terminal near the driver.[^15] If you pay cash, ask the driver for a ticket.[^14]
 - **At [[S-Bahn]] and [[BVG]] service points**  
     Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). There is often a queue.
+
+If you arrive at BER airport, there are ticket machines on the way to the train platforms. You can also install the [BVG ticket app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) before you arrive in Berlin.
 
 ### What ticket to buy
 
