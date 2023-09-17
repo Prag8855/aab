@@ -1,5 +1,3 @@
-{% include "_js/tracking.js" %}
-
 {% js %}
 function validateForm(formElement) {
 	let formIsValid = true;
@@ -62,6 +60,4 @@ window.addEventListener("DOMContentLoaded", function() {
 		})
 	});
 });
-
-{% include "_js/currency.js" %}
 {% endjs %}

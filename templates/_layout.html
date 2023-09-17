@@ -8,11 +8,21 @@
 	<link rel="preload" as="font" href="/fonts/librefranklin-400.woff2" type="font/woff2" crossorigin>
 	<link rel="preload" as="font" href="/fonts/librefranklin-400i.woff2" type="font/woff2" crossorigin>
 	<link rel="preload" as="font" href="/fonts/librefranklin-600.woff2" type="font/woff2" crossorigin>
+	<link rel="preload" as="fetch" href="/api/exchangerates.json" crossorigin>
+	<script async defer data-api="{{ site_url }}/whoisthere/event" data-domain="allaboutberlin.com" src="{{ site_url }}/whoisthere.js"></script>
 
 	<link rel="home" href="{{ site_url }}/">
 	<link rel="icon" type="image/png" href="/staticimages/favicon.png">
 	<link rel="alternate" type="application/rss+xml" title="All About Berlin's latest guides" href="{{ site_url }}/guides/feed.rss">
+
+	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d">
+	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta property="og:site_name" content="All About Berlin">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@aboutberlin">
+	<meta name="twitter:site" content="@aboutberlin">
 	{% block postHead %}
 		{% if entry|default %}
 			<meta property="og:type" content="article">
@@ -28,18 +38,8 @@
 			<meta property="og:image" content="{{ site_url }}/staticimages/cover.png">
 		{% endif %}
 	{% endblock %}
+
 	<style>{% scss %}{% include "css/style.scss" %}{% endscss %}</style>
-
-	<script async defer data-api="{{ site_url }}/whoisthere/event" data-domain="allaboutberlin.com" src="{{ site_url }}/whoisthere.js"></script>
-
-	<meta property="og:site_name" content="All About Berlin">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:creator" content="@aboutberlin">
-	<meta name="twitter:site" content="@aboutberlin">
-	<meta name="theme-color" media="(prefers-color-scheme: light)" content="#da513d">
-	<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#9f3a2b">
-
-	{% include '_js/events.js' %}
 </head>
 <body>
 {% block body %}
@@ -73,8 +73,11 @@
 	</footer>
 {% endblock %}
 {% block postFooter %}
+	{% include '_js/tracking.js' %}
+	{% include '_js/events.js' %}
+	{% include "_js/currency.js" %}
 	{% include '_blocks/tooltip.html' %}
-	<script>
+	<script defer>
 		{% alljs %}
 	</script>
 	<script type="application/ld+json">
