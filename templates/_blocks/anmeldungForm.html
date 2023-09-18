@@ -7,7 +7,8 @@
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
 		{% endraw %}{% image 'documents/anmeldung-original.pdf', alt="German document preview", sizes="300px" %}{% raw %}
-		<p>This tools helps you <strong>fill the <glossary>Anmeldung</glossary> form</strong>. It takes less than 3 minutes. At the end, you can save the form and print it.</p>
+		<p>This tools helps you <strong>fill the <glossary>Anmeldung</glossary> form</strong>. It takes less than 3 minutes.</p>
+		<p>At the end, you can save the form, print it, and bring it to your <glossary>Bürgeramt</glossary> appointment.</p>
 		<p>Your personal information stays on your computer. No one else can see it.</p>
 	</template>
 	<template v-if="stage === 'newAddress'">
@@ -75,15 +76,6 @@
 					autocomplete="address-line1">
 			</div>
 			<div class="form-group">
-				<label :for="uid('oldBuildingDetails')">Building details</label>
-				<input
-					:id="uid('oldBuildingDetails')"
-					type="text"
-					v-model="oldBuildingDetails"
-					placeholder="Haus B, 2. Etage rechts"
-					autocomplete="address-line2">
-			</div>
-			<div class="form-group">
 				<label :for="uid('oldPostCode')">
 					<glossary term="Postleitzahl">Post code</glossary> and city
 				</label>
@@ -91,6 +83,15 @@
 					<postalcode-input class="show-errors" :id="uid('oldPostCode')" v-model="oldPostCode"></postalcode-input>
 					<city-input v-model="oldCity"></city-input>
 				</div>
+			</div>
+			<div class="form-group">
+				<label :for="uid('oldBuildingDetails')">Building details</label>
+				<input
+					:id="uid('oldBuildingDetails')"
+					type="text"
+					v-model="oldBuildingDetails"
+					placeholder="Haus B, 2. Etage rechts"
+					autocomplete="address-line2">
 			</div>
 			<div class="form-group">
 				<label :for="uid('state')">
@@ -191,7 +192,6 @@
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<div class="input-group">
 					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)">
-						<option disabled hidden default value="">Choose a religion</option>
 						<option value="Evangelische Kirche">Evangelical Church</option>
 						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
 						<option value="Jüdische Gemeinde">Jewish Community</option>

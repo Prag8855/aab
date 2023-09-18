@@ -19,4 +19,4 @@ The citizens' office (*Bürgeramt*) is where you do most of your bureaucracy. It
 
 **[List of Bürgeramt locations in Berlin](https://service.berlin.de/standorte/buergeraemter/)** - Berlin.de
 
-**[How to get a Bürgeramt appointment](/guides/berlin-burgeramt-appointment)**
+**[How to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
