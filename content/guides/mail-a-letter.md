@@ -13,7 +13,7 @@ This is how you can send a letter by post in Germany, even if you don't have a p
 
 Just prepare your envelope or package, and go to the post office. You don't need to buy stamps. They will take care of it. Bring cash; some post offices don't accept credit cards.
 
-You can also [get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html) with the Post & DHL app. You get a code that you put on your envelope. Drop the envelope in a mailbox or at a post office.
+You can **[get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html)** with the Post & DHL app. You get a code that you write on the envelope. Leave it the letter in a post box or at a post office. This does not work for international mail.
 
 **[How to address a letter ➞](/guides/addressing-a-letter-in-germany)**
 
