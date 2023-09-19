@@ -975,13 +975,18 @@ progress{
 	display: block;
 	margin: var(--xl) 0;
 	background: var(--c-border-box);
-	height: var(--xs);
+	height: var(--s);
 	border: none;
 	width: 100%;
 	accent-color: var(--c-highlight);
-}
-::-moz-progress-bar{
-	background: var(--c-highlight);
+	appearance: none;
+
+	&::-webkit-progress-bar{
+		background: var(--c-border-box);
+	}
+	&::-moz-progress-bar, &::-webkit-progress-value{
+		background: var(--c-highlight)!important;
+	}
 }
 
 ul, ol{
@@ -2674,6 +2679,8 @@ details{
 }
 
 .anmeldung-form{
+	overflow: hidden; // For the <progress> to appear under the rounded corner
+
 	picture{
 		float: right;
 		width: 302px; // Includes border
