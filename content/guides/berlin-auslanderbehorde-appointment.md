@@ -66,7 +66,7 @@ If you send all your documents, it counts as a residence permit application. Thi
 
 ### By fax
 
-Some people say that fax works faster than email.[^22] The experts I asked could not confirm this.[^24]
+Some people say that fax works better than email.[^22] Immigration experts are not sure.[^24]
 
 **[How to contact the Ausländerbehörde ↓](#how-to-contact-the-auslanderbehorde)**
 
@@ -229,5 +229,5 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)
 [^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/)
-[^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023)
+[^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), [rbb24](https://twitter.com/rbb24/status/1701885546161684677)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/sof7dm/beyond_frustrated_with_ausl%C3%A4nderbeh%C3%B6rde_please/hw8ax66/)
