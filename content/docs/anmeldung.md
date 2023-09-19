@@ -1,10 +1,10 @@
 ---
-Title: Anmeldung form in English
+Title: Anmeldung form in English, with instructions
 German_term: Anmeldung einer Wohnung
 English_term: Registration of a residence
 German_document: documents/anmeldung-original.pdf
 English_document: documents/anmeldung-translated-2021-v2.pdf
-Description: Instructions on how to fill the Anmeldung form. This is the document you must fill to register your address in Berlin.
+Description: You need this form to register your address in Berlin. Download the form, or use my tool to fill it.
 Date_created: 2018-02-28
 Related_guides:
     guides/anmeldung-in-english-berlin.md
@@ -78,7 +78,7 @@ If you fill the form yourself, use these instructions:
     - Married: *Verheiratet*
     - Widowed: *Verwitwet*
     - Civil union: *in eingetragener Lebenspartnerschaft*
-- **Dokumente**: During your *Anmeldung* appointment, you must show your passport or [German national ID](/glossary/Personalausweis). This section explains what ID document you want to use.
+- **Dokumente**: During your *Anmeldung* appointment, you must prove your identity. You need your passport or *[[Personalausweis]]*. This section describes your ID document.
     - **Art**: The type of document: "RP" for a passport, "PA" for a *[[Personalausweis]]*, or "KP" for a children's passport.
     - **Name, Vorname**: The last name and the first name of the person this document belongs to.
     - **Ausstellungsbehörde**: The authority that issued this document. For example, "Kanada Botschaft, Berlin".

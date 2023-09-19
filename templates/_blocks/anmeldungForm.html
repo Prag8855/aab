@@ -7,8 +7,7 @@
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
 		{% endraw %}{% image 'documents/anmeldung-original.pdf', alt="German document preview", sizes="300px" %}{% raw %}
-		<p>This tools helps you <strong>fill the <glossary>Anmeldung</glossary> form</strong>. It takes less than 3 minutes.</p>
-		<p>At the end, you can save the form, print it, and bring it to your <glossary>Bürgeramt</glossary> appointment.</p>
+		<p>This tools helps you <strong>fill the <glossary>Anmeldung</glossary> form</strong> in 3 minutes. You can save the completed form, print it, and bring it to your <glossary>Bürgeramt</glossary> appointment.</p>
 		<p>Your personal information stays on your computer. No one else can see it.</p>
 	</template>
 	<template v-if="stage === 'newAddress'">

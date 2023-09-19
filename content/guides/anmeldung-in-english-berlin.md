@@ -26,7 +26,7 @@ The *Anmeldung* is not a [residence permit](/glossary/Aufenthaltstitel). It does
 
 ### Step 1: Get a [[Bürgeramt]] appointment
 
-Get [an appointment to register your address](/out/appointment-anmeldung) online. Your appointment must be after you move in.[^1] You can go to any *[[Bürgeramt]]* in Berlin, but not in Brandenburg.
+Get [an appointment to register your address](/out/appointment-anmeldung) online. Your appointment must be after you move in.[^1] You can go to any *[[Bürgeramt]]* in Berlin, but not in [[Brandenburg]].
 
 {% include "_blocks/appointmentFinder.html" %}
 
@@ -34,19 +34,20 @@ Get [an appointment to register your address](/out/appointment-anmeldung) online
 
 If there are no appointments, look again in a few minutes. New appointments appear during working hours, mostly in the morning. You don't need to look really early in the morning.[^2]
 
-When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need this number when you go to your appointment. If you lose it, ask the *[[Bürgeramt]]* reception for it, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
+When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need this number when you go to your appointment. If you lose it, ask for it at the *[[Bürgeramt]]* reception, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
 
 ### Step 2: Prepare the required documents
 
 Bring these documents to your appointment:
 
 - [ ] **Your [Wohnungsgeberbestätigung](/docs/wohnungsgeberbestatigung)**  
-    You get it from the *[[Wohnungsgeber]]* before you [move in](/guides/moving-in). You can't register your address without this document. A lease is not enough.[^3] They accept copies, but the original document is better.[^4]
+    You get this document before you [move in](/guides/moving-in). You can't register your address without this document.[^3] If you can, bring the original, not a copy.[^4]
+    - Your landlord can give you this document.
     - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need the permission of the landlord.[^5]
     - If you move with your spouse, they can give it to you. They don't need permission from the landlord.
     - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
 - [ ] **The filled [Anmeldung form](/docs/anmeldung)**  
-    [Fill the form online](/docs/anmeldung#fill-the-form-online), it's faster. To register more than 2 people, use multiple forms.
+    [Fill the form online](/docs/anmeldung#fill-the-form-online). To register more than 2 people, use multiple forms.
 - [ ] **A valid ID document**  
     Bring your original passport, not a photocopy. You can also use a EU national ID.[^7] If you have a national ID (*[[Personalausweis]]*), bring it with you. They will put a sticker on it with your new address.
 - [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  
@@ -71,15 +72,17 @@ When you register an underage child's address, you might need a letter of consen
 
 ### Step 3: Go to your Bürgeramt appointment
 
-Go to the *Bürgeramt* with all your documents.
+Go to your *Bürgeramt* appointment. Bring all your documents.
 
-If you don't speak German, bring a friend or a translator. Some *Bürgeramt* employees speak English, but many don't. Translators like [Red Tape Translation](https://redtapetranslation.com/translation-services/take-a-translator-all-about-berlin/) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you. You can also go alone. The process is very simple. You will be okay.
+If you don't speak German, **bring a friend or a translator**. Some *Bürgeramt* employees only speak German. The *Anmeldung* appointment is simple, but sometimes they ask more questions. [Red Tape Translation](/out/red-tape-translation-interpreter) or [Booka Local](/out/booka-local) can go with you. Don't worry: if you go alone, it will still be okay.
 
-Arrive a few minutes before your appointment. You need time to find the waiting room. Wait until they call your appointment number on the screen. The screen tells you which office to go to.
+You can also **send someone else**. [Red Tape Translation](/out/red-tape-translation-anmeldung/) can book the appointment, take your documents, and go to the *Bürgeramt* for you. It costs 250€.
 
-You will sit at a desk, give your documents, and get your *[[Anmeldebestätigung]]*. They also will put a sticker with your new address on your *[[Personalausweis]]*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). This only takes a few minutes.
+Arrive a few minutes before your appointment. Find the correct waiting room, and wait until they call your appointment number on the screen. The screen tells you which office to go to.
 
-Check if the information on your *[[Anmeldebestätigung]]* is correct. Bürgeramt employees sometimes make mistakes.[^12]
+Sit at the desk, give your documents, and get your *[[Anmeldebestätigung]]*. They will put a sticker with your new address on your *[[Personalausweis]]*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). This only takes a few minutes.
+
+Check if the information on your *[[Anmeldebestätigung]]* is correct. The *Bürgeramt* employees often make mistakes.[^12]
 
 ### Step 4: Wait for your tax ID
 
