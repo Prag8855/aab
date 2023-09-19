@@ -16,7 +16,7 @@ This is the English translation of the official *[[Anmeldung]]* form. You must f
 
 **[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
-## Fill the form online
+## Fill the Anmeldung form online
 
 {% include "_blocks/anmeldungFormStatic.html" %}
 
@@ -30,7 +30,7 @@ The original form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?f
 
 ## How to fill this form
 
-Use my [Anmeldung form filler](#fill-the-form-online), it's easier.
+Use my [Anmeldung form filler](#fill-the-anmeldung-form-online), it's easier.
 
 If you fill the form yourself, use these instructions:
 
