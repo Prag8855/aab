@@ -99,12 +99,29 @@ For example, to send a letter to Max at his girlfriend Monika's address, write t
 If you sent a letter to Max's office, address it like this:
 
 > The person you are writing to  
-> **bei** or **z. Hd.** The name of the business  
+> **bei** The name of the business  
 > Street and door number  
 > [Postal code](/glossary/Postleitzahl) and city  
 > Country
 
 ![Envelope with German address](/illustrations/envelope-german-address-bei-business.png)
+
+You can also use "zu Handen" (z. Hd.):
+
+> The name of the business  
+> **z. Hd.** The person you are writing to  
+> Street and door number  
+> [Postal code](/glossary/Postleitzahl) and city  
+> Country
+
+If no one else should read this letter, add *Persönlich* (personal) or *Vertraulich* (confidential).[^5]
+
+> The name of the business  
+> z. Hd. The person you are writing to  
+> **- Vertraulich -**
+> Street and door number  
+> [Postal code](/glossary/Postleitzahl) and city  
+> Country
 
 ## How to mail a letter in Germany
 
