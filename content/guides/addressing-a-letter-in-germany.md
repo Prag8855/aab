@@ -58,11 +58,11 @@ Sometimes, an address is not enough. You must add extra information in the *Addr
 ![Parts of a building: Hinterhaus, Vorderhaus, Seitenflügel](/images/hinterhaus-vorderhaus-germany.jpg)
 
 - **Floor number**[^3]  
-    - Attic apartment: *Dachgeschoß* or *DG*
+    - Attic apartment: *Dachgeschoss* or *DG*
     - 2nd floor: *2. Etage*, *2. Stock* or *2. OG*
     - 1st floor (after the ground floor): *1. Etage*, *1. Stock* or *1. OG*
-    - Ground floor: *Erdgeschoß* or *EG*
-    - Basement: *1. Untergeschoß*, *1. UG* or just *UG*
+    - Ground floor: *Erdgeschoss* or *EG*
+    - Basement: *1. Untergeschoss*, *1. UG* or just *UG*
     
 ![Floors/stories of a German building](/images/building-floors.jpg)
 

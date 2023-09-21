@@ -76,7 +76,7 @@ Go to your *Bürgeramt* appointment. Bring all your documents.
 
 If you don't speak German, **bring a friend or a translator**. Some *Bürgeramt* employees only speak German. The *Anmeldung* appointment is simple, but sometimes they ask more questions. [Red Tape Translation](/out/red-tape-translation-interpreter) or [Booka Local](/out/booka-local) can go with you. Don't worry: if you go alone, it will still be okay.
 
-You can also **send someone else**. [Red Tape Translation](/out/red-tape-translation-anmeldung/) can book the appointment, take your documents, and go to the *Bürgeramt* for you. It costs 250€.
+You can also **send someone else**. [Red Tape Translation](/out/red-tape-translation-anmeldung/) can book your appointment, take your documents, and go to the *Bürgeramt* for you. It costs 250€.
 
 Arrive a few minutes before your appointment. Find the correct waiting room, and wait until they call your appointment number on the screen. The screen tells you which office to go to.
 
@@ -160,15 +160,14 @@ If you just change your address, your old address will be deregistered automatic
 
 ### Can someone do the Anmeldung for me?
 
-**Only if you already live in Berlin.** If this is your first *Anmeldung* in Berlin, you must do it in person.[^31] They will not let someone else do it for you.
+Usually, **yes**. [Red Tape Translation](/out/red-tape-translation-interpreter) offers this service. If this is your first Anmeldung, the Bürgeramt might ask you to go in person. This rarely happens, but it happens.[^31]
 
-If you already live in Berlin, and you want to change your address, someone else can go for you. [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) offer this service.
+When you send someone else to do your *Anmeldung*, they must bring:
 
-If you send someone else to do your *Anmeldung*, there are extra requirements:
+- [ ] A signed *[[Vollmacht]]*. Use [this template](/documents/Anmeldung-Vollmacht-template.pdf).
+- [ ] Your original passport, not a photocopy.
 
-1. The Bürgeramt needs a signed *[[Vollmacht]]*. You can use [this template](/documents/Anmeldung-Vollmacht-template.pdf).
-2. The Bürgeramt needs your original passport, not a photocopy.
-3. The signatures on your passport, on the [*Anmeldung* form](/docs/anmeldung) and on the *[[Vollmacht]]* must look the same.
+The signatures on your passport, on the [*Anmeldung* form](/docs/anmeldung) and on the *[[Vollmacht]]* must look the same.
 
 ### Can I do my Anmeldung if my name is not on the mailbox?
 
@@ -279,7 +278,7 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^28]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/d8o9vu/finding_my_anmeldung_appointment_confirmation/)
 [^29]: [§19 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0201)
 [^30]: [§17 Abs. 1 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
-[^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h86woq/registering_address_shall_i_fill_in_a_new/fuqs446/)
+[^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h86woq/registering_address_shall_i_fill_in_a_new/fuqs446/), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/)
 [^33]: [§17 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
 [^34]: [§29 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
