@@ -391,7 +391,7 @@
 	</template>
 	<template v-if="stage === 'insuranceOptions'">
 		<h3>Your options</h3>
-		<div class="health-insurance-options">
+		<div class="collapsible-options">
 			<div v-if="flag('alg-i-buergergeld')">
 				{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 				<div>
@@ -459,7 +459,7 @@
 		<p>
 			There are over 100 <glossary term="Krankenkasse">public health insurers</glossary>. Their price and coverage is almost the same, so you can't choose wrong.
 		</p>
-		<div class="health-insurance-options">
+		<div class="collapsible-options">
 			<a title="Sign up with Techniker Krankenkasse" :href="result.tarif === 'student' ? '/out/tk-calc-students' : '/out/tk-calc'" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
 				<div>
@@ -497,7 +497,7 @@
 		<p>
 			<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
 		</p>
-		<div class="health-insurance-options">
+		<div class="collapsible-options">
 			<a @click.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
 				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 				<div>
@@ -532,7 +532,7 @@
 	</template>
 	<template v-if="['publicInsuranceOptions', 'insuranceOptions'].includes(stage)">
 		<h3>Need help choosing?</h3>
-		<div class="health-insurance-options">
+		<div class="collapsible-options">
 			<a @click.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
 				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 				<div>

@@ -18,6 +18,7 @@
 			<label :for="uid('newAddress')">Street address</label>
 			<input
 				:id="uid('newAddress')"
+				ref="newAddressInput"
 				type="text"
 				v-model="newAddress"
 				placeholder="Neue Straße 123"
@@ -56,7 +57,7 @@
 		<hr>
 		<div class="form-group">
 			<label :for="uid('oldCountry')">Country</label>
-			<select v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name">
+			<select ref="oldAddressCountryInput" v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name">
 				<option disabled hidden default value="">Country of your previous address</option>
 				<option v-for="country in recommendedCountries">{{ country }}</option>
 				<option disabled>──────────</option>
@@ -123,6 +124,7 @@
 					<input type="text"
 						:id="uid('firstName-' + person.id)"
 						v-model="person.firstName"
+						ref="firstNameInput"
 						placeholder="Alex"
 						autocomplete="given-name"
 						class="first-name-input">
@@ -213,7 +215,7 @@
 		<hr>
 		<div class="input-group vertical">
 			<label class="checkbox">
-				<input v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our' : 'My name is on my' }} mailbox
+				<input ref="namesAreOnMailboxCheckbox" v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our' : 'My name is on my' }} mailbox
 			</label>
 		</div>
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
@@ -234,7 +236,7 @@
 				</span>
 				<div class="input-group">
 					<label class="checkbox">
-						<input type="radio" :name="uid('documentType-' + person.id)" v-model="person.documentType" value="RP">
+						<input type="radio" ref="documentTypePassportCheckbox" :name="uid('documentType-' + person.id)" v-model="person.documentType" value="RP">
 						Passport
 					</label>
 					<label class="checkbox">
@@ -278,7 +280,7 @@
 		<h2>You're done!</h2>
 		<template v-if="peoplePairs.length > 1">
 			<p>Print the forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
-			<div class="health-insurance-options">
+			<div class="collapsible-options">
 				<button v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="!pdfBytes">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
@@ -288,7 +290,7 @@
 				</button>
 			</div>
 		</template>
-		<div class="health-insurance-options">
+		<div class="collapsible-options">
 			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="!pdfBytes">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
@@ -299,7 +301,7 @@
 		</div>
 		<h3>What to do next</h3>
 		<p>To register your address, you must book a Bürgeramt appointment and go there in person. You can also send someone else to do it for you.</p>
-		<div class="health-insurance-options">
+		<div class="collapsible-options">
 			<a href="/guides/anmeldung-in-english-berlin#step-1-get-a-burgeramt-appointment" target="_blank">
 				{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
 				<div>
@@ -568,6 +570,22 @@
 					if(newStageIndex > 0 && pdfLibScriptPromise === null){
 						await this.preloadPDF();
 					}
+
+					Vue.nextTick(() => {
+						const inputToFocus = {
+							start: () => this.$refs.startButton,
+							newAddress: () => this.$refs.newAddressInput,
+							oldAddress: () => this.$refs.oldAddressCountryInput,
+							addPeople: () => this.$refs.firstNameInput[0],
+							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
+							idDocuments: () => this.$refs.documentTypePassportCheckbox[0],
+							options: () => null,
+						}[this.stages[newStageIndex]]();
+
+						if(inputToFocus){
+							inputToFocus.focus();
+						}
+					});
 				}
 			},
 			created() {

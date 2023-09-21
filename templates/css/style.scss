@@ -2552,13 +2552,16 @@ details{
 	}
 }
 
-.health-insurance-options{
+.collapsible-options{
 	@include text-block;
 	margin-bottom: var(--xl-relative);
 
 	> a, > button {
 		@include box-clickable;
 		text-align: inherit;
+		&:focus{
+			@include box-clickable-hover;
+		}
 	}
 
 	> * {
