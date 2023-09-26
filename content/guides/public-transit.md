@@ -116,6 +116,8 @@ The display shows a train's last stop, not its direction. For example, the S2's 
 
 ### Take the bus or tram
 
+When you get on the bus, you can use any door. You don't need to show your ticket to the driver.[^16]
+
 When your bus or tram arrives, let other people exit before you enter.
 
 Before your stop, press the yellow or red "STOP" button near you. You will hear a "ding" sound. You will see "STOP" in the corner of the information screen. The bus will stop at the next bus stop. 
@@ -247,3 +249,4 @@ These tickets do not let you bring children and other people with you:[^12]
 [^2]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-tickets/einzelfahrscheine/kurzstrecke)
 [^14]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2023/01/berlin-bvg-bus-bargeld-corona.html)
 [^15]: [YouTube](https://youtu.be/d-n__8zGQi4?t=18)
+[^16]: [reddit.com](https://old.reddit.com/r/berlin/comments/16rtm7a/do_you_show_your_bus_tickets_to_the_bus_driver/)
