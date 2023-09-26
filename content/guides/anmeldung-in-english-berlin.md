@@ -96,30 +96,36 @@ You can also get a tax ID without registering your address.
 
 Sometimes, you can't do you *Anmeldung* at your current address. If you don't have a registered address, you can't access certain government services. If you just moved to Germany, it can make your life harder.
 
+[HomeLike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. They give you more time to find a good, cheap apartment later.
+
 ### Can the landlord refuse to let me register?
 
-**No**, but there are many reasons why you can't register:
+**Yes**, but not always.
 
-1. **The landlord does not know that you live there**  
-    The tenant sublets the apartment without the landlord's permission. This is illegal. If the landlord finds out, they can kick you out. You will have 3 months to leave.[^14] The main tenant can also get kicked out. There are some exceptions:
-    - **Subletting a room**  
-        If the tenant still lives in the apartment, they have the right to sublet part of their apartment, [unless it's too small](#how-many-people-can-register-at-one-address).[^15] They still need the landlord's permission, but the landlord can't really refuse.[^16]
-    - **Subletting the whole apartment**  
-        The landlord can refuse to let the tenant sublet their entire apartment.[^15]
-    - **Spouse and children**  
-        Your spouse and your children can live with you without the landlord's permission. Your girlfriend or boyfriend needs the landlord's permission to live with you, but the landlord can't really refuse.[^15]
-    - **Visitors**  
-        Hosting visitors does not count as subletting. You don't need the landlord's permission to host people you know, even for a few weeks.[^15]
-2. **The landlord does not want to let you register there**  
-    This is illegal.[^30] If you have a lease, the landlord must let you register your address.[^29] If you tell the *[[Bürgeramt]]*, they will force the landlord to let you register.[^17]
-3. **It's a commercial accommodation**  
+There are two reasons why you can't register your address:
+
+1. **You are not allowed to live there**  
+    For example, someone sublets their apartment to you, but they don't have permission from their landlord. This is very common, but it's not legal. If the landlord learns this, they can kick you out with a 3 month notice.[^44]
+2. **It's a commercial accommodation**  
     The rules are different for hotels and commercial apartments.[^34] This is why some hotels and Airbnb apartments don't let you register.
     - **If you are already registered in Germany**  
         If you live there for more than 6 months, the accommodation must let you register.[^18]
     - **If you are not registered in Germany**  
         If you live there for more than 3 months, the accommodation must let you register.[^19]
 
-[HomeLike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. They give you more time to find a good, cheap apartment later.
+The landlord can refuse to let someone sublet their apartment. There are exceptions:
+
+- **Spouse, parents and children**  
+    They do not need the landlord's permission to move in.[^42]
+- **Boyfriends, girlfriends and life partners**
+    They need the landlord's permission to move in.[^41] The landlord can't refuse without a good reason.[^47] For example, because the apartment is too small.
+- **Guests and visitors**  
+    You have the right to have guests.[^40] Your landlord can't forbid guests. Your guests can't register their address at your apartment, because they don't live there.
+- **Legitimate interest**  
+    You can rent part of your apartment if there is a legitimate interest. The landlord needs a good reason to refuse. Examples of legitimate interest:
+    - To replace a roommate who moved out[^46]
+    - To rent your apartment while you work or study in another country[^45]
+    - Because you really need the money[^43]
 
 If you have questions, talk to a [tenant association](/glossary/Mieterverein), or use your [legal insurance](/guides/legal-insurance) to talk to a lawyer.
 
@@ -286,3 +292,12 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^36]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023), [reddit.com](https://old.reddit.com/r/germany/comments/ywpuht/do_i_need_german_birth_certificate_for_anmeldung/)
 [^37]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) ([October 2022](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1194390248102276&hoisted_section_header_type=recently_seen)), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/6dgobi/anmeldung_question_do_i_need_my_birth_certificate/), [Facebook](https://www.facebook.com/groups/148190775844249/?multi_permalinks=923430394986946), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=786357288905576)
 [^38]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023), [reddit.com](https://old.reddit.com/r/germany/comments/ywpuht/do_i_need_german_birth_certificate_for_anmeldung/)
+[^39]: [§553 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__553.html)
+[^40]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=in%20aller%20regel%20fur%20mehrere%20wochen)
+[^41]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=lebensgefahrten%20des%20mieters%20gehoren%20allerdings%20nicht), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=nicht%20wie%20ein%20ehegatte%20ist%20die%20lebenspartnerin)
+[^42]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=die%20aufnahme%20von%20nahen%20familienangehorigen), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=die%20aufnahme%20von%20nahen%20familienangehorigen)
+[^43]: [VIII ARZ 2/84](https://www.prinz.law/urteile/bgh/VIII_ARZ___2-84-ok)
+[^44]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=folge%20bei%20nicht-erteilung%20der%20erlaubnis)
+[^45]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=in%20einer%20anderen%20stadt%20oder%20im%20ausland)
+[^46]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=auszug%20eines%20mitglieds%20der%20wohngemeinschaft)
+[^47]: [VIII ZR 371/02](https://www.bmgev.de/mietrecht/urteile/detailansicht/aufnahme-des-lebensgefaehrten-in-die-wohnung/)
