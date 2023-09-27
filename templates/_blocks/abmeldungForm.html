@@ -404,7 +404,7 @@
 					}
 
 					const pdfDoc = await PDFLib.PDFDocument.load(this.pdfBytes);
-					return await pdf.fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'abmeldung-form-filled.pdf');
+					return await pdf.fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'abmeldung-form-filled.pdf', this.trackAs);
 				}
 			},
 			watch: {

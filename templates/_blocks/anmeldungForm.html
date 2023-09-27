@@ -512,7 +512,7 @@
 					}
 
 					const pdfDoc = await PDFLib.PDFDocument.load(this.pdfBytes);
-					return await pdf.fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf');
+					return await pdf.fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf', this.trackAs);
 				}
 			},
 			watch: {

@@ -2,7 +2,7 @@
 let pdfLibScriptPromise = null;
 
 const pdf = {
-	async fillAndSavePDF(pdfDoc, textFields, checkboxFields, outputFileName) {
+	async fillAndSavePDF(pdfDoc, textFields, checkboxFields, outputFileName, trackAs) {
 		const pdfForm = pdfDoc.getForm();
 
 		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 20 });
@@ -28,7 +28,7 @@ const pdf = {
 		link.download=outputFileName;
 		link.click();
 
-		plausible(this.trackAs, { props: { stage: 'download' }});
+		plausible(trackAs, { props: { stage: 'download' }});
 	},
 	loadPDFLib() {
 		if(pdfLibScriptPromise) {
