@@ -17,7 +17,7 @@ Fill this form to deregister your address in Germany (*[[Abmeldung]]*). In Berli
 
 **[How to do your Abmeldung in Berlin ➞](/guides/abmeldung-deregister-in-berlin)**
 
-## Fill the Anmeldung form online
+## Fill the Abmeldung form online
 
 {% include "_blocks/abmeldungFormStatic.html" %}
 
