@@ -133,7 +133,7 @@
 						placeholder="Smith"
 						autocomplete="family-name"
 						class="last-name-input">
-					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or your name at birth</a>
+					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
 				</div>
 			</div>
 			<div class="form-group" v-if="person.showExtraFields">
@@ -277,7 +277,7 @@
 		</template>
 	</template>
 	<template v-if="stage === 'options'">
-		<h2>You're done!</h2>
+		<h2>You are almost done!</h2>
 		<template v-if="peoplePairs.length > 1">
 			<p>Print the forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
 			<div class="collapsible-options">
@@ -285,7 +285,7 @@
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
 						<h3>Download part {{ index + 1 }} of the form</h3>
-						<p v-if="person1.firstName">For {{ person1.firstName }} <template v-if="person2">and {{ person2.firstName }}</template>.</p>
+						<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2"> and {{ person2.firstName }}</template>.</p>
 					</div>
 				</button>
 			</div>
@@ -337,6 +337,7 @@
 </collapsible>
 {% include '_js/countries.js' %}
 {% include '_js/germanStates.js' %}
+{% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/city-input.js' %}
 {% include '_js/vue/collapsible.js' %}
@@ -346,58 +347,7 @@
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% js %}
-	let pdfLibScriptPromise = null;
 	let anmeldungFormDownloadPromise = null;
-
-	async function fillAndSavePDF(pdfDoc, textFields, checkboxFields, outputFileName) {
-		const pdfForm = pdfDoc.getForm();
-
-		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 20 });
-
-		Object.entries(textFields || {}).forEach(([fieldName, value]) => {
-			pdfForm.getTextField(fieldName).setText(value);
-		});
-		Object.entries(checkboxFields || {}).forEach(([fieldName, value]) => {
-			if(value){
-				pdfForm.getCheckBox(fieldName).check(value);
-			}
-			else {
-				pdfForm.getCheckBox(fieldName).uncheck(value);
-			}
-		});
-
-		const blob = new Blob(
-			[new Uint8Array(await pdfDoc.save())],
-			{type: "application/pdf"}
-		);
-		const link = document.createElement('a');
-		link.href=window.URL.createObjectURL(blob);
-		link.download=outputFileName;
-		link.click();
-
-		plausible(this.trackAs, { props: { stage: 'download' }});
-	}
-
-	function loadScript(src) {
-		return new Promise(function(resolve, reject) {
-			const script = document.createElement('script');
-			let resolved = false;
-			script.type = 'text/javascript';
-			script.src = src;
-			script.async = true;
-			script.onerror = function(err) {
-				reject(err, s);
-			};
-			script.onload = script.onreadystatechange = function() {
-				if (!resolved && (!this.readyState || this.readyState == 'complete')) {
-					resolved = true;
-					resolve();
-				}
-			};
-			const t = document.getElementsByTagName('script')[0];
-			t.parentElement.insertBefore(script, t);
-		});
-	}
 
 	document.querySelectorAll('.anmeldung-form').forEach(
 		el => new Vue({
@@ -500,7 +450,7 @@
 				},
 				async preloadPDF(){
 					// Load PDFLib and the PDF document in advance while the user fills the form
-					pdfLibScriptPromise = loadScript('/js/pdflib.js');
+					pdf.loadPDFLib();
 					anmeldungFormDownloadPromise = fetch('/documents/anmeldung-original.pdf');
 
 					const [_, pdfResponse] = await Promise.all([pdfLibScriptPromise, anmeldungFormDownloadPromise]);
@@ -526,7 +476,7 @@
 					};
 
 					if(person1){
-						textFields['Familienname ggf Doktorgrad Passname'] = [person1.lastName, person1.title].join('\n');
+						textFields['Familienname ggf Doktorgrad Passname'] = [person1.lastName, person1.title].join(', ');
 						textFields['Vornamen Rufnamen unterstreichen'] = person1.firstName;
 						textFields['Geburtsname'] = person1.birthName;
 						textFields['Geschlecht'] = person1.gender;
@@ -544,7 +494,7 @@
 					}
 
 					if(person2){
-						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = [person2.lastName, person2.title].join('\n');
+						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = [person2.lastName, person2.title].join(', ');
 						textFields['Familienmitglied istVornamen Rufnamen unterstreichen'] = person2.firstName;
 						textFields['Familienmitglied istGeburtsname'] = person2.birthName;
 						textFields['Familienmitglied istGeschlecht'] = person2.gender;
@@ -562,7 +512,7 @@
 					}
 
 					const pdfDoc = await PDFLib.PDFDocument.load(this.pdfBytes);
-					return await fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf');
+					return await pdf.fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'anmeldung-form-filled.pdf');
 				}
 			},
 			watch: {

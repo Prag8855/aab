@@ -1,0 +1,429 @@
+<collapsible class="abmeldung-form" {% if static|default %}static{% endif %}>
+{% raw %}
+	<template v-slot:header>
+		<small>Fill the form online</small>
+		Address deregistration form
+	</template>
+	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
+	<template v-if="stage === 'start'">
+		{% endraw %}{% image 'documents/abmeldung-original.pdf', alt="German document preview", sizes="300px" %}{% raw %}
+		<p>This tools helps you <strong>fill the <glossary>Abmeldung</glossary> form</strong> in 3 minutes. You can save the completed form, sign it, and send it to the <glossary>Bürgeramt</glossary>.</p>
+		<p>Your personal information stays on your computer. No one else can see it.</p>
+	</template>
+	<template v-if="stage === 'oldAddress'">
+		<h2>Your old address</h2>
+		<p>Where did you live? Enter the address that you want to deregister.</p>
+		<hr>
+		<div class="form-group">
+			<label :for="uid('oldAddress')">Street address</label>
+			<input
+				:id="uid('oldAddress')"
+				ref="oldAddressInput"
+				type="text"
+				v-model="oldAddress"
+				placeholder="Alte Straße 123"
+				autocomplete="address-line1">
+		</div>
+		<div class="form-group">
+			<label :for="uid('oldPostCode')">
+				<glossary term="Postleitzahl">Post code</glossary> and city
+			</label>
+			<div class="input-group">
+				<postalcode-input class="show-errors" :id="uid('oldPostCode')" v-model="oldPostCode"></postalcode-input>
+				<city-input v-model="oldCity"></city-input>
+			</div>
+		</div>
+		<div class="form-group">
+			<label :for="uid('oldBuildingDetails')">Building details</label>
+			<input
+				:id="uid('oldBuildingDetails')"
+				:aria-describedby="uid('oldBuildingDetails-instructions')"
+				type="text"
+				v-model="oldBuildingDetails"
+				placeholder="Haus B, 2. Etage rechts"
+				autocomplete="address-line2">
+			<a class="input-instructions" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details ➞</a>
+		</div>
+		<hr>
+		<div class="form-group">
+			<label :for="uid('moveOutDate') + '-day'">Move-out date</label>
+			<date-picker v-model="moveOutDate" :id="uid('moveOutDate')" :aria-describedby="uid('moveOutDate-instructions')"></date-picker>
+		</div>
+	</template>
+	<template v-if="stage === 'newAddress'">
+		<h2>Your new address</h2>
+		<p>Where will you live after you leave Germany?</p>
+		<hr>
+		<div class="form-group">
+			<label :for="uid('newAddress')">Street address</label>
+			<input
+				:id="uid('newAddress')"
+				type="text"
+				ref="newAddressInput"
+				v-model="newAddress"
+				placeholder="123 Maple Street, Apt. 102"
+				autocomplete="address-line1">
+		</div>
+		<div class="form-group">
+			<label :for="uid('newCityAndPostCode')">
+				City and post code
+			</label>
+			<input
+				:for="uid('newCityAndPostCode')"
+				placeholder="Montreal, Quebec, H3E 1J4"
+				type="text"
+				v-model="newCityAndPostCode"
+				autocomplete="address-level2">
+		</div>
+		<div class="form-group">
+			<label :for="uid('newCountry')">Country</label>
+			<select v-model="newCountry" :id="uid('newCountry')" :aria-describedby="uid('newCountry-instructions')" autocomplete="country-name">
+				<option disabled hidden default value="">Country of your new address</option>
+				<option v-if="country !== 'Germany'" v-for="country in recommendedCountries">{{ country }}</option>
+				<option disabled>──────────</option>
+				<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
+			</select>
+			<span v-if="newCountry === 'Germany'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="https://allaboutberlin.com/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
+		</div>
+	</template>
+	<template v-if="stage === 'addPeople'">
+		<h2>Who is deregistering?</h2>
+		<p>You can deregister your whole family at the same time.</p>
+		<template v-for="(person, index) in people">
+			<hr>
+			<div class="form-group" v-if="person.showExtraFields">
+				<label :for="uid('title') + person.id">Title</label>
+				<input type="text"
+					:id="uid('title') + person.id"
+					v-model="person.title"
+					placeholder="Dr." 
+					class="anrede-input">
+			</div>
+			<div class="form-group">
+				<label :for="uid('firstName-' + person.id)">First and last name</label>
+				<div class="input-group">
+					<input type="text"
+						:id="uid('firstName-' + person.id)"
+						v-model="person.firstName"
+						ref="firstNameInput"
+						placeholder="Alex"
+						autocomplete="given-name"
+						class="first-name-input">
+					<input type="text"
+						v-model="person.lastName"
+						placeholder="Smith"
+						autocomplete="family-name"
+						class="last-name-input">
+					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
+				</div>
+			</div>
+			<div class="form-group" v-if="person.showExtraFields">
+				<label :for="uid('birthName-' + person.id)">Name at birth</label>
+				<input
+					type="text"
+					v-model="person.birthName"
+					:id="uid('birthName-' + person.id)"
+					:aria-describedby="uid('birthName-instructions-' + person.id)"
+					placeholder="Alex Gagnon">
+				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
+			</div>
+			<div class="form-group">
+				<label :for="uid('nationality-' + person.id)">Nationality</label>
+				<input type="text"
+				  placeholder="Canada"
+				  autofill="country-name"
+				  :id="uid('nationality-' + person.id)"
+				  :list="uid('countries')"
+				  v-model="person.nationality">
+			</div>
+			<div class="form-group">
+				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
+				<date-picker
+					:id="uid('dateOfBirth-' + person.id)"
+					v-model="person.dateOfBirth"
+					autocomplete="bday"></date-picker>
+			</div>
+			<div class="form-group">
+				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
+				<input
+					type="text"
+					v-model="person.birthPlace"
+					:id="uid('birthPlace-' + person.id)"
+					:aria-describedby="uid('birthPlace-instructions-' + person.id)"
+					placeholder="Montreal, Quebec, Canada">
+				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The country, region and city where you were born.</span>
+			</div>
+			<div class="form-group">
+				<span class="label">Gender</span>
+				<div class="input-group">
+					<label class="checkbox">
+						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Männlich">
+						Male
+					</label>
+					<label class="checkbox">
+						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Weiblich">
+						Female
+					</label>
+					<label class="checkbox">
+						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Divers">
+						Other
+					</label>
+				</div>
+			</div>
+			<div class="form-group">
+				<label :for="uid('religion-' + person.id)">Religion</label>
+				<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)">
+					<option value="Evangelische Kirche">Evangelical Church</option>
+					<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
+					<option value="Jüdische Gemeinde">Jewish Community</option>
+					<option value="Altkatholische Kirche">Old Catholic Church</option>
+					<option value="Freireligiöse Gemeinden">Free Religious communities</option>
+					<option disabled>──────────</option>
+					<option value="Sonstiges, nicht kirchensteuerpflichtig">Other / No religion</option>
+				</select>
+			</div>
+		</template>
+		<datalist :id="uid('countries')">
+			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
+		</datalist>
+	</template>
+	<template v-if="stage === 'options'">
+		<h2>You are almost done!</h2>
+		<template v-if="peopleTriples.length > 1">
+			<p>Print the forms, sign them, and bring them to your <em>Abmeldung</em> appointment.</p>
+			<div class="collapsible-options">
+				<button v-for="([person1, person2, person3], index) in peopleTriples" @click="generatePDF(person1, person2, person3)" :disabled="!pdfBytes">
+					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+					<div>
+						<h3>Download part {{ index + 1 }} of the form</h3>
+						<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2 && !person3"> and {{ person2.firstName }}</template><template v-if="person2 && person3">, {{ person2.firstName }} and {{ person3.firstName }}</template>.</p>
+					</div>
+				</button>
+			</div>
+		</template>
+		<div class="collapsible-options">
+			<button v-if="peopleTriples.length === 1" @click="generatePDF(people[0], people[1], people[2])" :disabled="!pdfBytes">
+				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+				<div>
+					<h3>Download the filled form</h3>
+					<p>Print and sign this form, then send it to the <em>Bürgeramt</em>.</p>
+				</div>
+			</button>
+		</div>
+		<h3>What to do next</h3>
+		<p>To deregister your address, you must send this form to the Bürgeramt. You can do this by email, by post or in person.</p>
+		<div class="collapsible-options">
+			<a href="/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt" target="_blank">
+				{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
+				<div>
+					<h3>Book a Bürgeramt appointment</h3>
+					<p>You need an appointment to register your address.</p>
+				</div>
+			</a>
+			<a href="/out/deregistrationde-abmeldung" target="_blank">
+				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
+				<div>
+					<h3>Let someone else do it</h3>
+					<p>Pay someone to deregister your address. They can also cancel TV tax and other services.</p>
+				</div>
+			</a>
+		</div>
+	</template>
+	<hr>
+	<div class="buttons">
+		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex > 1" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
+		<button v-if="stageIndex > 0 && stageIndex < stages.length - 2" class="button primary" @click="stageIndex += 1">Next step <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="stageIndex += 1">Finish</button>
+	</div>
+{% endraw %}
+</collapsible>
+{% include '_js/countries.js' %}
+{% include '_js/pdf.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/city-input.js' %}
+{% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/postalcode-input.js' %}
+{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
+{% js %}
+	let abmeldungFormDownloadPromise = null;
+
+	document.querySelectorAll('.abmeldung-form').forEach(
+		el => new Vue({
+			el: el,
+			mixins: [uniqueIdsMixin, trackedStagesMixin],
+			data() {
+				return {
+					trackAs: 'Abmeldung form',
+
+					moveOutDate: '',
+					oldAddress: '',
+					oldBuildingDetails: '',
+					oldCity: '',
+					oldPostCode: '',
+					newAddress: '',
+					newCityAndPostCode: '',
+					newCountry: '',
+					people: [],
+					namesAreOnMailbox: true,
+					nameOnMailbox: '',
+					sortedCountryList: countries.getSortedList(),
+					recommendedCountries: new Set(
+						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
+					),
+					stages: [
+						'start',
+						'oldAddress',
+						'newAddress',
+						'addPeople',
+						'options',
+					],
+					stageIndex: 0,
+					pdfBytes: null,
+				};
+			},
+			computed: {
+				stage(){
+					return this.stages[this.stageIndex];
+				},
+				peopleTriples(){
+					// Split this.people in arrays of 3 people
+					const peopleGroups = [];
+					for(let i = 0; i < this.people.length / 3; i++){
+						peopleGroups.push(this.people.slice(i*3, i*3 + 3));
+					}
+					return peopleGroups;
+				}
+			},
+			methods: {
+				addPerson(){
+					this.people.push({
+						id: Math.floor(Math.random() * 10000),
+						title: '',
+						firstName: '',
+						lastName: '',
+						birthName: '',
+						nationality: '',
+						religion: '',
+						dateOfBirth: '',
+						gender: '',
+						birthPlace: '',
+						showExtraFields: false,
+					})
+				},
+				dateFromString(str) {
+					if(str.match(/\d\d\d\d-\d\d-\d\d/)){
+						const [year, month, day] = str.split('-').map(n => Number(n, 10));
+						return new Date(year, month - 1, day);
+					}
+					return null;
+				},
+				formattedDate(date, locale) {
+					if(date) {
+						return (new Date(date)).toLocaleDateString(locale, {
+							year: '2-digit',
+							month: 'numeric',
+							day: 'numeric',
+						});
+					}
+					return '';
+				},
+				mergeFields(fields){
+					return fields.filter(Boolean).join(', ')
+				},
+				personName(person, index){
+					if(person.firstName || person.lastName){
+						return [person.firstName, person.lastName].filter(Boolean).join(' ');
+					}
+					return `person #${index}`;
+				},
+				async preloadPDF(){
+					// Load PDFLib and the PDF document in advance while the user fills the form
+					pdf.loadPDFLib();
+					abmeldungFormDownloadPromise = fetch('/documents/abmeldung-original.pdf');
+
+					const [_, pdfResponse] = await Promise.all([pdfLibScriptPromise, abmeldungFormDownloadPromise]);
+					this.pdfBytes = new Uint8Array(await pdfResponse.arrayBuffer());
+				},
+				async generatePDF(person1, person2, person3){
+					const textFields = {
+						'Tag des Auszugs': this.formattedDate(this.moveOutDate, 'de-DE'),
+						'Postleitzahl Gemeinde Ortsteil': this.mergeFields([this.oldPostCode, this.oldCity]),
+						'Straße Hausnummer Zusätze_2': this.mergeFields([this.oldAddress, this.oldBuildingDetails]),
+						'Postleitzahl GemeindeKreisLand falls Ausland Staat': this.mergeFields([this.newCityAndPostCode, this.newCountry]),
+						'Straße Hausnummer Zusätze': this.newAddress,
+					};
+					const checkboxFields = {
+						'alleinige': true,
+						'nein': true,
+						'alleinige_2': true,
+					};
+
+					if(person1){
+						textFields['Familienname ggf Doktorgrad Passname'] = [person1.lastName, person1.title].join(', ');
+						textFields['Vornamen Rufnamen unterstreichen'] = person1.firstName;
+						textFields['Geburtsname'] = person1.birthName;
+						textFields['Geschlecht'] = person1.gender;
+						textFields['Tag Ort Land der Geburt'] = this.mergeFields([person1.dateOfBirth, person1.birthPlace]);
+						textFields['Religionsgesellschaft'] = person1.religion;
+						textFields['Staatsangehörigkeiten'] = person1.nationality;
+						textFields['OrdensKünstlername'] = person1.artistName;
+					}
+
+					if(person2){
+						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = [person2.lastName, person2.title].join(', ');
+						textFields['Familienmitglied istVornamen Rufnamen unterstreichen'] = person2.firstName;
+						textFields['Familienmitglied istGeburtsname'] = person2.birthName;
+						textFields['Familienmitglied istGeschlecht'] = person2.gender;
+						textFields['Familienmitglied istTag Ort Land der Geburt'] = this.mergeFields([person2.dateOfBirth, person2.birthPlace]);
+						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
+						textFields['Familienmitglied istStaatsangehörigkeiten'] = person2.nationality;
+						textFields['Familienmitglied istOrdensKünstlername'] = person2.artistName;
+					}
+
+					if(person3){
+						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname_2'] = [person3.lastName, person3.title].join(', ');
+						textFields['Familienmitglied istVornamen Rufnamen unterstreichen_2'] = person3.firstName;
+						textFields['Familienmitglied istGeburtsname_2'] = person3.birthName;
+						textFields['Familienmitglied istGeschlecht_2'] = person3.gender;
+						textFields['Familienmitglied istTag Ort Land der Geburt_2'] = this.mergeFields([person3.dateOfBirth, person3.birthPlace]);
+						textFields['Familienmitglied istReligionsgesellschaft_2'] = person3.religion;
+						textFields['Familienmitglied istStaatsangehörigkeiten_2'] = person3.nationality;
+						textFields['Familienmitglied istOrdensKünstlername_2'] = person3.artistName;
+					}
+
+					const pdfDoc = await PDFLib.PDFDocument.load(this.pdfBytes);
+					return await pdf.fillAndSavePDF(pdfDoc, textFields, checkboxFields, 'abmeldung-form-filled.pdf');
+				}
+			},
+			watch: {
+				async stageIndex(newStageIndex){
+					if(newStageIndex > 0 && pdfLibScriptPromise === null){
+						await this.preloadPDF();
+					}
+
+					Vue.nextTick(() => {
+						const inputToFocus = {
+							start: () => this.$refs.startButton,
+							oldAddress: () => this.$refs.oldAddressInput,
+							newAddress: () => this.$refs.newAddressInput,
+							addPeople: () => this.$refs.firstNameInput[0],
+							options: () => null,
+						}[this.stages[newStageIndex]]();
+
+						if(inputToFocus){
+							inputToFocus.focus();
+						}
+					});
+				}
+			},
+			created() {
+				this.addPerson();
+			}
+		})
+	);
+{% endjs %}
