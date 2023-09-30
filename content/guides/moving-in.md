@@ -103,7 +103,7 @@ During your *Anmeldung*, you get a registration certificate ([*Anmeldebestätigu
 
 **[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
-Book your *Anmeldung* appointment as soon as you can. Appointments are hard to find, and can be far in the future. Your appointment date must be after you move in.
+Book your *Anmeldung* appointment as soon as you can. Appointments are hard to find, and they can be weeks in the future.[^11] Your appointment date must be after you move in.
 
 {% include "_blocks/appointmentFinder.html" %}
 
@@ -284,3 +284,4 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b1ifqb/tenants_associations_mietersch%C3%BCtzbund_etc/)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
 [^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/)
+[^11]: [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf) (August 2022)
