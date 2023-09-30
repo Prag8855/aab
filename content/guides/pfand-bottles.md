@@ -82,10 +82,13 @@ There are two types of containers with a deposit:
 
 If a business sells *Pfand* containers, it must accept *Pfand* returns. It must not accept container types it doesn't sell. For example, Aldi and Lidl only sell single-use (*Einweg*) bottles, so they don't accept multiple use (*Mehrweg*) bottles.[^4] If a store is larger than 200 m², it must accept containers from all brands, not just the brands it sells.
 
-- **Supermarkets:** look for a bottle return machine (*[[Pfandautomat]]*). [They look like this](/images/pfandautomat-edeka-bottle-return-machine.jpg). They are near the entrance, or at the back of the store. The machine will print a coupon. You must bring that coupon to the cash register to get your money back. Some grocery stores like Aldi and Lidl do not accept multiple-use (*Mehrweg*) bottles.[^5] Rewe and Edeka accept most bottles.
-- **Liquor stores (Getränkemarkt):** if you have a lot of bottles to return, this is the right place.
-- **Spätis:** [Spätis](/glossary/Sp%C3%A4ti) will accept the bottles they sold you. They are not a good place to return a lot of bottles.
-- **Charities:** Some charities will accept bottle donations. *[Pfandgeben](https://pfandgeben.de/)* is the best way to find them.
+- **Supermarket**  
+    Look for a bottle return machine (*[[Pfandautomat]]*). [They look like this](/images/pfandautomat-edeka-bottle-return-machine.jpg). They are near the entrance, or at the back of the store. The machine will print a coupon. You must bring that coupon to the cash register to get your money back. Some grocery stores like Aldi and Lidl do not accept multiple-use (*Mehrweg*) bottles.[^5] Rewe and Edeka accept most bottles.
+- **Liquor store** (*Getränkemarkt*)  
+    If you have a lot of bottles to return, bring them to a liquor store like *Getränke Hoffmann*.
+- **[[Späti]]**  
+    They will accept the bottles they sold you. It's not a good place to return a lot of bottles.
+- **Donate** your bottles to bottle collectors in your area. Use *[Pfandgeben](https://pfandgeben.de/)* to find them.
 
 It can be hard to return certain types of bottles. If one place does not accept all your bottles, try a different place.
 
