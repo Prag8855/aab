@@ -46,8 +46,8 @@ If you can't find an appointment online, you can:[^2]
 
 To do this, you must...
 
-1. [Find the correct department to email](#how-to-contact-the-auslanderbehorde)
-2. Write an email in German. It must include:
+1. [Find the correct department to contact](#how-to-contact-the-auslanderbehorde). You might need to use the official contact form.
+2. Write a message. Write in German if you can. Your message must include:
     - [ ] What you need
     - [ ] Your full name
     - [ ] Your date and place of birth
@@ -55,7 +55,7 @@ To do this, you must...
     - [ ] The expiration date of your visa or residence permit
     - [ ] If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 3. Attach *all* required documents for your residence permit application. Complete applications are processed faster.[^23]
-4. Send your email and wait for a response. It can take a few months.
+4. Send the message and wait. It can take a few months.
 5. They will review your documents and give you an appointment. You must go there in person to finish your application.[^12]
 
 **[How to contact the Ausländerbehörde ↓](#how-to-contact-the-auslanderbehorde)**
@@ -174,16 +174,18 @@ During your *Ausländerbehörde* appointment, the interviewer can give you a *[[
 
 ### How to contact the Ausländerbehörde
 
-The *Ausländerbehörde* is divided in departments. Each department (*Referat*) is responsible for a problem or a group of nationalities.
+The *Ausländerbehörde* removed emails and fax numbers from their website. You must use the **[contact form](/out/auslanderbehorde-departments)**, but [this organigram](/out/auslanderbehorde-organigram) (2022) shows the old email addresses and fax numbers. They might not work.
 
 To contact the *Ausländerbehörde*...
 
-1. **Find the correct department**  
-    Use [this page](/out/auslanderbehorde-departments) to find which department (*Referat*) is responsible for you. Use [this organigram](/out/auslanderbehorde-organigram) (October 2022) to find the email address and fax number of your department. The opening hours are [here](https://service.berlin.de/standort/121885/).
+1. **Find your department**  
+    Use [this page](/out/auslanderbehorde-departments) to find which department (*Referat*) is responsible for you.
 2. **Contact your department**  
-    Email, mail or fax your department. The *Ausländerbehörde* might answer weeks or months later.[^4] It depends on how urgent your situation is, and how complete your application is.
+    Use the [contact form](/out/auslanderbehorde-departments) to contact your department. Do not email or fax the *Ausländerbehörde*. You must use the contact form.
+3. **Wait**  
+    The *Ausländerbehörde* can take weeks or months to answer.[^4] It depends on how urgent your situation is, and how complete your application is.
 
-**[How to mail a letter ➞](/guides/mail-a-letter)**
+If you apply for a residence permit, and you don't get an answer after 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
 
 ### Do they speak English at the Ausländerbehörde?
 
@@ -213,7 +215,7 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)
 [^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
 [^8]: [fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
-[^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/)
+[^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/), [Red Tape Translation](https://redtapetranslation.com/faxhack/)
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)
 [^11]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=you%20can%20continue%20to%20work%20or%20study%20until%20your%20appointment), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20residence%20title%20(permit%20of%20residence%2C%20blue%20card%2C%20visa%20for%20long%20term%20residence)%20will%20be%20considered%20as%20lawful%20in%20germany)
 [^13]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=the%20prerequisite%20is%20that%20you%20have%20sent%20your%20e-mail%20before%20the%20expiry%20)
@@ -228,6 +230,6 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)
-[^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/)
+[^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/), [Twitter](https://twitter.com/Eva_Kappl/status/1701839353624793565)
 [^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), [rbb24](https://twitter.com/rbb24/status/1701885546161684677)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/sof7dm/beyond_frustrated_with_ausl%C3%A4nderbeh%C3%B6rde_please/hw8ax66/)
