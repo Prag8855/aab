@@ -5,7 +5,7 @@ Description: All the little things you should do when moving to a new address in
 Date_created: 2019-10-25
 ---
 
-After you [move to berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
+After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
 
 {% include "_blocks/tableOfContents.html" %}
 

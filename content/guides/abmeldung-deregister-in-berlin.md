@@ -176,7 +176,7 @@ If you own a business in Germany, you might also need to deregister your busines
 
 ## If you already moved out
 
-If you already left Germany, you can do your *Abmeldung* by email or by mail.[^23] It works.
+If you already left Germany, you can do your *Abmeldung* by email or by post.[^23] It works.
 
 ## What to do next
 

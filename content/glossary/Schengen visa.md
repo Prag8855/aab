@@ -21,7 +21,7 @@ With a Schengen visa, can't:
 
 - Work or study in Germany[^3]
 - Convert your Schengen visa to a [residence permit](/glossary/Aufenthaltstitel)[^1]
-- Extend your visa to stay longer (but there are exceptions)[^2]
+- Extend your visa to stay longer (with rare exceptions)[^2]
 
 **[Who needs a visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)** - Federal Foreign Office
 
