@@ -18,9 +18,9 @@ Liability insurance (*[[Haftpflichtversicherung]]*) protects you from such damag
 Personal liability insurance (*Privathaftpflichtversicherung*) protects you from most claims against you:[^1]
 
 - **Damage you cause to the apartment you rent** (doors, floors and walls, but not your own things)  
-    For example, if your washing machine breaks, floods the apartment you rent, and destroys the wooden floor, the insurance company will pay the repairs.
+    For example, if your washing machine breaks, floods the apartment you rent, and destroys the wooden floor, the insurance company will pay the repairs. It covers most apartment repairs when you [move out](/guides/moving-out).
 - **Damage you cause to other people's property**  
-    If you accidentally send someone a virus that breaks their computer, or scratch someone's car with your bicycle,[^2] they can sue you for damages. The insurance company will pay the legal fees and the reparations.
+    If you accidentally send someone a virus that breaks their computer, or scratch someone's car with your bicycle,[^2] they can sue you for damages. The insurance company will pay for the repairs and the legal fees.
 - **Damage caused by your spouse and children**  
     Liability insurance covers your family too, except your children under 7 years old.[^3] Your children over 6 years old are covered until they finish their studies.[^4]
 - **Injuries caused to other people**  
@@ -70,14 +70,16 @@ Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance pri
 
 ## How to pick liability insurance
 
-**Don't just pick the cheapest insurance**, and don't trust sponsored posts from random websites. You might regret it when you need to use your insurance. Instead, do your own research.
+If you feel lazy, **just choose [Getsafe](/out/getsafe-haftpflicht) or [Feather](/out/feather-haftpflicht).** Both options are fine. Both insurers speak English. I have insurance with Feather, but Getsafe is a little better: they sell their own insurance, their website clearly explains what it covers, and the contract is in English.
+
+To choose liability insurance yourself...
 
 1. **Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare prices**  
-    Tarifcheck only shows you the prices. It does not help you pick a *good* liability insurance.
+    Don't choose the cheapest option. Usually, it's cheaper because the coverage is not as good.
 2. **Use Test.de's [liability insurance checker](https://schnellcheck.test.de/haftpflichtversicherung/)**  
     This tool checks if your liability insurance covers the important things.
 3. **Check your insurance company on [Trustpilot](https://www.trustpilot.com/)**  
-    See if people have problems getting paid by the insurance company.
+    Read the negative reviews. See if people have problems getting paid by the insurance company.
 4. **Read your insurance policy**  
     All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) have their contracts in English.
 
