@@ -25,7 +25,7 @@ If someone gets hurt because of you, you might pay thousands or even millions of
 
 83% of Germans have liability insurance.[^6] It costs around 5€ per month.
 
-[Muffin](/out/muffin-haftpflicht) helps you choose insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht) and [GetSafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. I have liability insurance from Feather, but I have not used it. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
+[Muffin](/out/muffin-haftpflicht) helps you choose insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. I have liability insurance from Feather, but I have not used it. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare options.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -47,7 +47,7 @@ Dog liability insurance is **required in Berlin, Brandenburg, Hamburg, Lower Sax
 
 Dog liability insurance costs around 5€ per month. You sometimes pay less if you combine private liability insurance and dog liability insurance.
 
-If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) sell dog liability insurance and they speak English. They also cover dangerous breeds. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices.
+If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance and they speak English. They also cover dangerous breeds. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices.
 
 ## Home contents insurance ([[Hausratversicherung]])
 
@@ -63,7 +63,7 @@ It sometimes covers laptops and bicycles away from home. It sometimes covers cal
 
 Get this insurance if you can't afford to replace everything after a fire. 76% of Germans have it.[^4]
 
-[Muffin](/out/muffin-hausrat) helps you choose insurance from multiple companies, and they speak English. If you don't speak German, [Feather](/out/feather-hausrat), [GetSafe](/out/getsafe-home) and [Muffin](/out/muffin-hausrat) sell household insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options.
+[Muffin](/out/muffin-hausrat) helps you choose insurance from multiple companies, and they speak English. If you don't speak German, [Feather](/out/feather-hausrat), [Getsafe](/out/getsafe-home) and [Muffin](/out/muffin-hausrat) sell household insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options.
 
 ## Health insurance (Krankenversicherung)
 
@@ -96,7 +96,7 @@ If you drive a vehicle in Germany, it must be insured. There are two types of ca
 
 Some *Teilkasko* insurances also cover theft and vandalism. Read your policy carefully, and make sure it covers the right things for you.
 
-Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurances. If you don't speak German, [GetSafe](/out/getsafe-kfz) sells car insurance, and they speak English.
+Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurances. If you don't speak German, [Getsafe](/out/getsafe-kfz) sells car insurance, and they speak English.
 
 **[Car insurance in Germany ➞](/guides/car-insurance-germany)**
 
@@ -106,7 +106,7 @@ This translates to "professional disability insurance". If you have an accident 
 
 This insurance makes sense if you have people who depend on you, or a mortgage to pay. If you can't work, you can still take care of your family. Around 26% of Germans have disability insurance.[^4]
 
-[Muffin](/out/muffin) can help you choose disability insurance from different companies, and they speak English. If you don't speak German, [Feather](/out/feather-disability) and [GetSafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
+[Muffin](/out/muffin) can help you choose disability insurance from different companies, and they speak English. If you don't speak German, [Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
 
 ## Life insurance (Lebensversicherung)
 
@@ -122,7 +122,7 @@ There is private legal insurance (for you), and professional legal insurance (fo
 
 Around 46% of Germans have legal insurance.[^4] It's not as important as liability insurance, but it's good to have.
 
-[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance from different companies, and they speak English. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare options.
+[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance from different companies, and they speak English. If you don't speak German, [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-rechtsschutz) to compare options.
 
 **[How legal insurance works ➞](/guides/legal-insurance)**
 

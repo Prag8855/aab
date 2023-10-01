@@ -74,7 +74,7 @@ Here are a few examples where your legal insurance can help:
 - **Cases that you can't win**  
     Your legal insurance will not pay to go to court if you have no chance of winning.[^7]
 
-Sometimes, you still get a little coverage for these problems. For example, [GetSafe](/out/getsafe-rechtsschutz) covers consultation costs for online piracy,[^14] but not going to court. They cover marriage and inheritance, but only for a few hundred euros. They can cover intentional crimes, but that costs more.
+Sometimes, you still get a little coverage for these problems. For example, [Getsafe](/out/getsafe-rechtsschutz) covers consultation costs for online piracy,[^14] but not going to court. They cover marriage and inheritance, but only for a few hundred euros. They can cover intentional crimes, but that costs more.
 
 ### Fair use
 
@@ -132,7 +132,7 @@ To choose legal insurance:
 2. **Use a comparison website**  
     [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances. It's only in German.
 3. **Read your insurance policy**  
-    Every insurance is different. You must understand what your insurance covers. If you don't speak German, choose an English-speaking insurer. [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) speak English. GetSafe's insurance policy is [available in English](https://www.hellogetsafe.com/documents/legal_comfort_roland.pdf?lang=en).
+    Every insurance is different. You must understand what your insurance covers. If you don't speak German, choose an English-speaking insurer. [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) speak English. Getsafe's insurance policy is [available in English](https://www.hellogetsafe.com/documents/legal_comfort_roland.pdf?lang=en).
 
 ### What to cover
 
@@ -175,7 +175,7 @@ Some insurance policies have no deductible for first consultations. That means t
 
 ### English support
 
-If you don't speak German, [Feather](/out/feather-rechtsschutz) and [GetSafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.[^36] Feather has an English-speaking support hotline.
+If you don't speak German, [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) offer legal insurance, and they speak English.[^36] Feather has an English-speaking support hotline.
 
 ### Insurance comparison websites
 

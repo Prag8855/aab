@@ -85,7 +85,7 @@ This insurance does not cover you if your dog...
 
 In Berlin, your coverage must be at least 1 million euros.[^2] If you travel with your dog, make sure your insurance also covers you in other countries. If your dog is a [dangerous breed](/guides/pet-ownership#rules-for-dangerous-breeds), make sure your insurance covers dangerous breeds.
 
-*Hundehaftpflichtversicherung* is cheap. It costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [GetSafe](/out/getsafe-dogs) sell dog liability insurance, and they speak English. They cover dangerous breeds.
+*Hundehaftpflichtversicherung* is cheap. It costs less than 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance, and they speak English. They cover dangerous breeds.
 
 ### Pet health insurance
 

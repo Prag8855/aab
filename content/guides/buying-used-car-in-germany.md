@@ -124,7 +124,7 @@ After you bought the car, the rest is your problem. You will not need to talk to
 
 When you register a vehicle, you must prove that it will have insurance. You must get a quote from a car insurance company, and ask for an [eVB number](/glossary/eVB-Nummer). You can usually do this online. You will need this number when you register the vehicle.
 
-If you don't speak German, [GetSafe](/out/getsafe-kfz) sells car insurance, and they speak English. Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurance prices.
+If you don't speak German, [Getsafe](/out/getsafe-kfz) sells car insurance, and they speak English. Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurance prices.
 
 **[Car insurance in Germany ➞](/guides/car-insurance-germany)**
 
