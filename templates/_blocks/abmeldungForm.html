@@ -29,8 +29,8 @@
 				<glossary term="Postleitzahl">Post code</glossary> and city
 			</label>
 			<div class="input-group">
-				<postalcode-input class="show-errors" :id="uid('oldPostCode')" v-model="oldPostCode"></postalcode-input>
-				<city-input v-model="oldCity"></city-input>
+				<postalcode-input ref="oldPostCodeInput" class="show-errors" :id="uid('oldPostCode')" v-model="oldPostCode"></postalcode-input>
+				<city-input value="Berlin" disabled="disabled"></city-input>
 			</div>
 		</div>
 		<div class="form-group">
@@ -270,7 +270,6 @@
 					moveOutDate: '',
 					oldAddress: '',
 					oldBuildingDetails: '',
-					oldCity: '',
 					oldPostCode: '',
 					newAddress: '',
 					newCityAndPostCode: '',
@@ -359,7 +358,7 @@
 				async generatePDF(person1, person2, person3){
 					const textFields = {
 						'Tag des Auszugs': this.formattedDate(this.moveOutDate, 'de-DE'),
-						'Postleitzahl Gemeinde Ortsteil': this.mergeFields([this.oldPostCode, this.oldCity]),
+						'Postleitzahl Gemeinde Ortsteil': this.mergeFields([this.oldPostCode, 'Berlin']),
 						'Straße Hausnummer Zusätze_2': this.mergeFields([this.oldAddress, this.oldBuildingDetails]),
 						'Postleitzahl GemeindeKreisLand falls Ausland Staat': this.mergeFields([this.newCityAndPostCode, this.newCountry]),
 						'Straße Hausnummer Zusätze': this.newAddress,
@@ -412,7 +411,6 @@
 					if(newStageIndex > 0 && pdfLibScriptPromise === null){
 						await this.preloadPDF();
 					}
-
 					Vue.nextTick(() => {
 						const inputToFocus = {
 							start: () => this.$refs.startButton,
@@ -426,6 +424,10 @@
 							inputToFocus.focus();
 						}
 					});
+				},
+				oldPostCode(newVal) {
+					const postalCodeIsValid = Number(newVal) > 10100 && Number(newVal) < 14200;
+					this.$refs.oldPostCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
 				}
 			},
 			created() {
