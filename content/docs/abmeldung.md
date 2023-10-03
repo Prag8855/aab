@@ -8,7 +8,7 @@ Description: This is the document you must fill to deregister your address in Be
 Date_created: 2018-01-06
 Related_guides:
     guides/abmeldung-deregister-in-berlin.md
-    guides/moving-out.m
+    guides/moving-out.md
     guides/berlin-burgeramt-appointment.md
     guides/anmeldung-in-english-berlin.md
 ---
