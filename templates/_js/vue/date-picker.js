@@ -67,8 +67,8 @@ Vue.component('date-picker', {
 				// Input is full
 				e.target.value.length === e.target.maxLength
 				// Adding another digit would make the month invalid
-				|| (e.target === this.$refs.dayInput && parseInt(e.target.value, 10) > 3, 10)
-				|| (e.target === this.$refs.monthInput && parseInt(e.target.value, 10) > 2, 10)
+				|| (e.target === this.$refs.dayInput && (parseInt(e.target.value, 10) > 3))
+				|| (e.target === this.$refs.monthInput && (parseInt(e.target.value, 10) > 2))
 			);
 
 			if(switchInput){
