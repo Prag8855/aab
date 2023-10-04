@@ -323,7 +323,7 @@
 				},
 				dateFromString(str) {
 					if(str.match(/\d\d\d\d-\d\d-\d\d/)){
-						const [year, month, day] = str.split('-').map(n => Number(n, 10));
+						const [year, month, day] = str.split('-').map(n => parseInt(n, 10));
 						return new Date(year, month - 1, day);
 					}
 					return null;
@@ -426,7 +426,7 @@
 					});
 				},
 				oldPostCode(newVal) {
-					const postalCodeIsValid = Number(newVal) > 10100 && Number(newVal) < 14200;
+					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
 					this.$refs.oldPostCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
 				}
 			},

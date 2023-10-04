@@ -45,7 +45,7 @@ function eurToCurrency(eurValue, currencyCode) {
 }
 
 function getCurrencyTooltipText(elementText) {
-	const eurValue = Number(elementText.replaceAll(/[^0-9\.]/g, '') || NaN);
+	const eurValue = parseInt(elementText.replaceAll(/[^0-9\.]/g, '') || NaN, 10);
 	if(!exchangeRates || isNaN(eurValue) || eurValue === 0) {
 		return '';
 	}

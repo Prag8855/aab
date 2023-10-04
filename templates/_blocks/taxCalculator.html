@@ -120,7 +120,7 @@
 						6: occupations.isEmployed(this.occupation),
 					})
 						.filter(([key, value]) => value)
-						.map(([key, value]) => Number(key));
+						.map(([key, value]) => parseInt(key, 10));
 
 					// Pick different tax class if this one is not available.
 					if(!taxClasses.includes(this.taxClass)) {

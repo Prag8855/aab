@@ -22,22 +22,22 @@ Vue.component('date-picker', {
 		},
 		cleanYear() {
 			if(this.year && this.year.length === 2){ // 90 to 1990, 10 to 2010
-				if(Number('20' + this.year) > (new Date().getFullYear() + 10)){
+				if(parseInt('20' + this.year, 10) > (new Date().getFullYear() + 10)){
 					return '19' + this.year;
 				}
 			}
 			return this.year;
 		},
 		yearValid() {
-			const year = Number(this.cleanYear);
+			const year = parseInt(this.cleanYear, 10);
 			return !isNaN(year) && year > 1900;
 		},
 		monthValid() {
-			const month = Number(this.cleanMonth);
+			const month = parseInt(this.cleanMonth, 10);
 			return !isNaN(month) && month > 0 && month <= 12;
 		},
 		dayValid() {
-			const day = Number(this.cleanDay);
+			const day = parseInt(this.cleanDay, 10);
 			const daysInMonth = new Date(
 				this.yearValid ? this.year : new Date().getFullYear(),
 				this.monthValid ? this.month : 1,
@@ -67,8 +67,8 @@ Vue.component('date-picker', {
 				// Input is full
 				e.target.value.length === e.target.maxLength
 				// Adding another digit would make the month invalid
-				|| (e.target === this.$refs.dayInput && Number(e.target.value) > 3)
-				|| (e.target === this.$refs.monthInput && Number(e.target.value) > 2)
+				|| (e.target === this.$refs.dayInput && parseInt(e.target.value, 10) > 3, 10)
+				|| (e.target === this.$refs.monthInput && parseInt(e.target.value, 10) > 2, 10)
 			);
 
 			if(switchInput){

@@ -34,9 +34,9 @@ window.addEventListener("DOMContentLoaded", function() {
 	document.querySelectorAll('li.checkbox').forEach(checklistItem => {
 		checklistItem.addEventListener('click', (e) => {
 			if(
-			 e.target.tagName !== 'A'
-			 && e.target.tagName !== 'INPUT'
-			 && (e.target.parentElement && e.target.parentElement.tagName) !== 'A'
+				e.target.tagName !== 'A'
+				&& e.target.tagName !== 'INPUT'
+				&& (e.target.parentElement && e.target.parentElement.tagName) !== 'A'
 			){
 				const checkbox = checklistItem.querySelector('[type=checkbox]');
 				checkbox.checked = !checkbox.checked;
