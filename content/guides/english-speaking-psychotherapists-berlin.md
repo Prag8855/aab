@@ -112,13 +112,13 @@ They can diagnose mental health problems, prescribe medication and give therapy.
 
 Psychotherapists solve mental health problems with therapy.[^2] They **studied psychotherapy for 3 to 5 years**.[^3]
 
-They can diagnose mental health problems, give therapy and coach people. Some accept public health insurance, but most don't. They can't prescribe medication.
+They can diagnose mental health problems, give therapy and coach people. Some accept public health insurance, but most don't. They can't prescribe medication. They can't give you a [sick note](/glossary/Krankschreibung).
 
 ### Alternative practitioners
 
 Alternative practitioners for psychotherapy (*Heilpraktiker für Psychotherapie*) have **varied qualifications and training**. Some were licenced psychotherapists in another country. Others have no therapy training, and only passed a 60 minute exam.[^7]
 
-They can diagnose mental health problems, give therapy and coach people. They can't prescribe medication or call themselves psychotherapists. They are usually "therapists". Look for words like "Heilpraktikergesetz", "HeilprG" or "HPG" in their title.[^8]
+They can diagnose mental health problems, give therapy and coach people. They can't give you a [sick note](/glossary/Krankschreibung). They can't prescribe medication or call themselves psychotherapists. They are usually "therapists". Look for words like "Heilpraktikergesetz", "HeilprG" or "HPG" in their title.[^8]
 
 They are not covered by public health insurance.[^6]
 
@@ -126,7 +126,9 @@ They are not covered by public health insurance.[^6]
 
 Counsellors have **no specific qualifications**. It's not a protected title, so anyone can be a counsellor.[^4] Many therapists who move to Germany become counsellors because their diplomas are not recognised in Germany.[^5]
 
-They can only coach and advise people. They can't diagnose mental health problems, give therapy or prescribe medication. They are not covered by public health insurance.
+They can only coach and advise people. They can't diagnose mental health problems, give therapy, prescribe medication or give [sick notes](/glossary/Krankschreibung).
+
+They are not covered by public health insurance.
 
 ## How hard is it to find a psychotherapist?
 
