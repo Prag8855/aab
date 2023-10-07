@@ -46,7 +46,7 @@ If you can't find an appointment online, you can:[^2]
 
 To do this, you must...
 
-1. [Find the correct department to contact](#how-to-contact-the-auslanderbehorde). You might need to use the official contact form.
+1. [Find the correct department to contact](#how-to-contact-the-auslanderbehorde). You must use their official contact form.
 2. Write a message. Write in German if you can. Your message must include:
     - [ ] What you need
     - [ ] Your full name
@@ -66,7 +66,7 @@ If you send all your documents, it counts as a residence permit application. Thi
 
 ### By fax
 
-Some people say that fax works better than email.[^22] Immigration experts are not sure.[^24]
+The Ausländerbehörde does not accept fax messages. You must use the online contact form.
 
 **[How to contact the Ausländerbehörde ↓](#how-to-contact-the-auslanderbehorde)**
 
@@ -176,7 +176,7 @@ During your *Ausländerbehörde* appointment, the interviewer can give you a *[[
 
 ### How to contact the Ausländerbehörde
 
-The *Ausländerbehörde* removed emails and fax numbers from their website. You must use the **[contact form](/out/auslanderbehorde-departments)**, but [this organigram](/out/auslanderbehorde-organigram) (2022) shows the old email addresses and fax numbers. They might not work.
+The *Ausländerbehörde* removed emails and fax numbers from their website. You must use the **[contact form](/out/auslanderbehorde-departments)**.[^26]
 
 To contact the *Ausländerbehörde*...
 
@@ -236,3 +236,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), [rbb24](https://twitter.com/rbb24/status/1701885546161684677)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/sof7dm/beyond_frustrated_with_ausl%C3%A4nderbeh%C3%B6rde_please/hw8ax66/)
 [^25]: Multiple relocation consultants (October 2023)
+[^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
