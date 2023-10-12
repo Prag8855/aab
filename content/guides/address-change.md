@@ -76,17 +76,16 @@ You should also tell...
 
 ## Forward your mail
 
-You might still receive letters at your old address. You can pay to forward your mail. If you get mail at your old address, they will send it to your new address.
+You might still receive letters at your old address. You can pay to forward mail from your old address to your new address. Register for this service **before you move**.
 
-There are 2 mail forwarding services:
+**[Deutsche Post](https://shop.deutschepost.de/nachsendeservice-beauftragen)** - 30€ for 6 months
 
-- **[Deutsche Post](https://shop.deutschepost.de/nachsendeservice-beauftragen)**
-    It costs around 30€ for 6 months. It only works for Deutsche Post and DHL mail.
-- **[Deregistration.de](/out/deregistrationde-mail)**
-    It's much more expensive, but they speak English.
+Mail forwarding is **unreliable**. Official mail from the Bürgeramt, Finanzamt and Ausländerbehörde is not always forwarded.[^5] Forwarded mail can take a week longer to arrive.[^6] Packages are not forwarded.
 
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
 [^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)
+[^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), Oliver Frankfurth at Deregistration.de (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden)
+[^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
