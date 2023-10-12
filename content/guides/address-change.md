@@ -9,21 +9,23 @@ When you [move into a new apartment](/guides/moving-in), you must change your ad
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Put your name on the mailbox
+## Put your name on your mailbox
 
-German apartment buildings rarely have individual apartment numbers. You have the same address as everyone in your building. [If your name is not on your mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), you won't get mail addressed to you. You must add "c/o" or "bei" to your address.
+German apartments rarely have apartment numbers. Everyone in the building has the same address. Each person has a mailbox with their name on it. **If there is no mailbox with your name on it, you will not receive your mail.**
 
-**[How to put your name on the mailbox ➞](/guides/moving-in#put-your-name-on-the-mailbox)**
+![Illustration of German mailboxes (Briefkasten)](/illustrations/mailboxes-briefkasten-germany.png)
+
+Ask your landlord to put your name on your mailbox and doorbell. Your landlord can't charge you a fee for this.[^4] If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^3]
+
+If you can't put your name on your mailbox, [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox).
 
 ## Learn to write your new address
-
-German addresses are a little different. Learn to write yours correctly.
 
 **[How to address letters in Germany ➞](/guides/addressing-a-letter-in-germany)**
 
 ## Register your address
 
-Register your address at the *[[Bürgeramt]]*. This is called the *[[Anmeldung]]*.
+Register your address at the *[[Bürgeramt]]*. This is called the *[[Anmeldung]]*. If you can't put your name on the mailbox, [add "c/o" or "bei"](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) to your official address.
 
 **[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
@@ -81,3 +83,5 @@ Deregistration.de has also has a [mail forwarding service](/out/deregistrationde
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)
+[^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
+[^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)

@@ -75,25 +75,13 @@ If your current internet company can't service your new apartment, you can cance
 
 ## After the move
 
-### Put your name on the mailbox
+### Put your name on your mailbox
 
-German apartment buildings rarely have individual apartment numbers. You have the same address as everyone in your building. If your name is not on your mailbox, you won't get mail addressed to you. You must add "c/o" or "bei" to your address.
+Ask your landlord to put your name on your mailbox and your doorbell.
 
-When you move in, the landlord or the *[[Hausverwaltung]]* puts your name on your mailbox. They can't make you pay for this.[^1]
+German apartments rarely have apartment numbers. Everyone in the building has the same address. Each person has a mailbox with their name on it. If there is no mailbox with your name on it, you will not receive your mail.
 
-If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^2]
-
-If you can't put your name on your mailbox, you must add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address. For example:
-
-> [your name]  
-> **bei [your roommate's name]** (the person whose name is on the mailbox)  
-> Musterstraße 17  
-> 12345 Berlin  
-> Deutschland
-
-If your name is not on your mailbox, you must add "c/o" or "bei" to your official address when you [register your address](/guides/anmeldung-in-english-berlin).
-
-![Mailboxes briefkasten germany](/illustrations/mailboxes-briefkasten-germany.png)
+**[More information ➞](/guides/address-change#put-your-name-on-your-mailbox)**
 
 ### Register your address
 
@@ -272,8 +260,6 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
-[^1]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)
-[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^4]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
