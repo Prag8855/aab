@@ -19,11 +19,11 @@ After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment
 
 Don't sign the lease before you see the apartment in person. If you can't see the apartment in person, ask for a video call instead. There are many fake apartment ads online. Scammers show you a fake apartment, ask for a deposit, and disappear with your money.
 
-Don't pay anything before you sign a lease. Read your lease carefully. It can have information about rent increases, house rules, pets, and other important things.
-
-A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
+**Don't pay anything before you sign a lease.** Read your lease carefully. It can have information about rent increases, house rules, pets, and other important things.
 
 **[Guide to rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
+
+A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
 
 When you sign the lease, the apartment is yours. You can't change your decision. The landlord can't change their decision.
 
@@ -39,7 +39,8 @@ After you sign the lease, you will meet with the landlord to...
 
 - **Fill the [[Übergabeprotokoll]]**  
     This document describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken taps etc. Take a lot of pictures to prove it.
-- **Get the [[Wohnungsgeberbestätigung]]** Before or during the handover, you get a [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigung). You need it to [register your address](/guides/anmeldung-in-english-berlin) (*[[Anmeldung]]*).
+- **Get the [[Wohnungsgeberbestätigung]]**  
+    Before or during the handover, you get a [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigung). You need it to [register your address](/guides/anmeldung-in-english-berlin) (*[[Anmeldung]]*).
 - **Read the electricity meter**  
     When you sign an electricity contract, you need to give the electricity provider your meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*). The electricity meter is usually hidden in the basement.
 - **Get the apartment keys**  
@@ -49,7 +50,7 @@ After you sign the lease, you will meet with the landlord to...
 
 ### Pay the deposit
 
-You must pay the deposit (*[[Kaution]]*) before your lease starts. You don't have to pay immediately after you sign the lease.
+You must pay the deposit (*[[Kaution]]*) **before your lease starts**. You don't have to pay immediately after you sign the lease.
 
 You can pay the deposit in 3 instalments. If you don't have enough money, there are [other options](/guides/mietkaution#if-you-dont-have-enough-money).
 
@@ -59,7 +60,7 @@ You usually pay the rent and the deposit by [SEPA transfer](/glossary/SEPA-%C3%9
 
 ### Pay the rent
 
-You must pay the rent before your lease starts. You don't have to pay immediately after you sign the lease.
+You must pay the rent **before your lease starts**. You don't have to pay immediately after you sign the lease.
 
 You only need to pay rent if you can actually live there. For example, if your leases starts on January 1, but you only get the keys on January 15, you don't pay rent from January 1 to January 15.[^9]
 
@@ -107,7 +108,7 @@ You must choose an electricity provider and sign an electricity contract. Compar
 
 Most providers offer a lower price for the first year or two, then the price goes up. If you switch providers every year or two, you always get the lowest price. You can save a lot of money this way.
 
-If you already have an electricity contract, you can it transfer to your new address, usually for free. If you can cancel your contract, try to get a lower price from another provider.
+If you already have an electricity contract, you can transfer it to your new address, usually for free. If you can cancel your contract, try to get a lower price from another provider.
 
 The electricity contract is activated automatically. No one will visit your apartment. You just need to tell the electricity company your electricity meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You can check it when you sign the *[[Übergabeprotokoll]]*.
 
@@ -143,7 +144,7 @@ Your own things are not covered by liability insurance. To insure your furniture
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-[Muffin](/out/muffin-haftpflicht) helps you choose liability insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. They also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both insurances at the same time. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance options.
+[Muffin](/out/muffin-haftpflicht) helps you choose liability insurance from multiple companies, and they speak English. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. They also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both insurances at the same time.
 
 ### Protect your rights
 
