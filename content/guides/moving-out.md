@@ -79,7 +79,7 @@ To **stop paying the [dog tax](/glossary/Hundesteuer)** after you leave Berlin, 
 
 ## Change your address
 
-Tell everyone your new address, [deregister](/glossary/Abmeldung) your old address, and forward your mail to your new address.
+Tell everyone your new address, [deregister](/glossary/Abmeldung) your old address, and [forward your mail](/guides/address-change#forward-your-mail) to your new address.
 
 **[How to change your address ➞](/guides/address-change)**
 

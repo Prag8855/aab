@@ -76,9 +76,14 @@ You should also tell...
 
 ## Forward your mail
 
-Deutsche Post has a [mail forwarding service](https://shop.deutschepost.de/nachsendeservice-beauftragen). If you get mail at your old address, they will send it to your new address. It costs less than 30€ per year. It only works for Deutsche Post and DHL mail. It does not work for other delivery services.
+You might still receive letters at your old address. You can pay to forward your mail. If you get mail at your old address, they will send it to your new address.
 
-Deregistration.de has also has a [mail forwarding service](/out/deregistrationde-mail). It's cheaper.
+There are 2 mail forwarding services:
+
+- **[Deutsche Post](https://shop.deutschepost.de/nachsendeservice-beauftragen)**
+    It costs around 30€ for 6 months. It only works for Deutsche Post and DHL mail.
+- **[Deregistration.de](/out/deregistrationde-mail)**
+    It's much more expensive, but they speak English.
 
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
