@@ -146,7 +146,13 @@ def set_reminder(reminder_type):
         raise NotFound('Reminder type does not exist')
 
     form_data = request.get_json()
+
+    # Common bot hammering this API
+    if form_data.get('email', '').endswith('@email.tst'):
+        raise BadRequest()
+
     recipients = [form_data.get('email'), ]
+
     json_delivery_date = form_data.get('deliveryDate', None)
     if json_delivery_date:
         delivery_date = datetime.strptime(json_delivery_date, '%Y-%m-%dT%H:%M:%S.%fZ')
@@ -193,6 +199,11 @@ def send_form(form_type):
     message_config = config.message_types[message_type]
 
     form_data = request.get_json()
+
+    # Common bot hammering this API
+    if form_data.get('email', '').endswith('@email.tst'):
+        raise BadRequest()
+
     recipients = message_config['recipients']
     json_delivery_date = form_data.get('deliveryDate', None)
     if json_delivery_date:
