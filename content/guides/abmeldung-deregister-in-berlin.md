@@ -52,10 +52,10 @@ Here is how you can do your *Abmeldung* in person:
 2. Fill the [*Abmeldung* form](/docs/abmeldung)
 3. Go to your appointment. Bring:
     - [ ] The filled *Abmeldung* form
-    - [ ] Your passport or national ID
+    - [ ] Your passport or *[[Personalausweis]]*
     - [ ] If you deregister late, a proof of your move-out date[^22]
 
-You can do it alone, even if you don't speak German. It takes around 10 minutes.
+You can do it alone, even if you don't speak German. The appointment takes around 10 minutes.
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 
@@ -63,7 +63,7 @@ During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 
 Send these documents by [registered mail](/glossary/Einschreibebrief) to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/):
 
-- [ ] The filled and signed [*Abmeldung* form](/docs/abmeldung)
+- [ ] The filled and signed [*Abmeldung* form](/docs/abmeldung). You can [fill it online](/docs/abmeldung#fill-the-abmeldung-form-online).
 - [ ] A copy of your passport
 - [ ] If you deregister late, a proof of your move-out date[^22]
 
@@ -176,7 +176,7 @@ If you own a business in Germany, you might also need to deregister your busines
 
 ## If you already moved out
 
-If you already left Germany, you can do your *Abmeldung* by email or by post.[^23] It works.
+If you already left Germany, you can do your *Abmeldung* by email or by post.[^23] You will not be punished.
 
 ## What to do next
 

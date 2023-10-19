@@ -58,6 +58,8 @@ The Blue Card has more requirements:
 - **You need a university degree**  
     Your degree must be recognised in Germany. It must be listed as equivalent (*entspricht* or *äquivalent*) in the [Anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html) database.[^10] In other EU countries, you can get a Blue Card with no degree and 5 years of experience. This does not work in Germany, so you must have a university degree.[^11]
 
+**Note:** These requirements will change in November 2023. It will become easier to get a work visa or a Blue Card.
+
 In this guide, I show you how to get a Blue Card.
 
 ### Working Holiday Visa
@@ -79,6 +81,8 @@ In this guide, I show you how to get a Blue Card.
 **Everyone else** must apply for the work visa. It lets you work as an employee in Germany. In this guide, I show you how to get a work visa.
 
 ## German work visa requirements
+
+**Note:** These requirements will change in November 2023. It will become easier to get a work visa or a Blue Card.
 
 - [ ] **You have a job offer in Germany**. It must be a concrete job offer, not just a job listing.[^58]
 - [ ] **You have a university degree or a vocational qualification**[^60]  
@@ -364,7 +368,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     - [ ] **Your lease**
     - [ ] and your **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)
     - [ ] and your **registration certificate** *[[Anmeldebestätigung]]*  
-        If you did not register your address yet, ignore this.
+        If you did not [register your address](/glossary/Anmeldung) yet, ignore this.
 - [ ] **Proof of education** (*Ausbildungsnachweis*)  
     If you have a degree or any relevant training, bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...[^28]
     - A degree from a German *Hochschule* or a comparable qualification
@@ -415,6 +419,8 @@ You can get the Blue Card faster if your salary is over {{BLUE_CARD_MIN_INCOME|c
 ### Can I change jobs?
 
 **Yes**. You might need permission from the *Ausländerbehörde*. This can take a few weeks.
+
+**Note:** This will change in November 2023.
 
 **[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
