@@ -279,12 +279,12 @@
 	<template v-if="stage === 'options'">
 		<h2>You are almost done!</h2>
 		<template v-if="peoplePairs.length > 1">
-			<p>Print the forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
+			<p>Print these forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
 			<div class="collapsible-options">
 				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
-						<h3 :id="uid('h-btnDownload') + index">Download part {{ index + 1 }} of the form</h3>
+						<h3 :id="uid('h-btnDownload') + index">Download your Anmeldung form (part {{ index + 1 }})</h3>
 						<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2"> and {{ person2.firstName }}</template>.</p>
 					</div>
 				</button>
@@ -294,8 +294,8 @@
 			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
-					<h3 :id="uid('h-btnDownload')">Download the filled form</h3>
-					<p>Print and sign this form, then bring it to your <em>Anmeldung</em> appointment.</p>
+					<h3 :id="uid('h-btnDownload')">Download your Anmeldung form</h3>
+					<p>Print and sign this form, and bring it to your <em>Anmeldung</em> appointment.</p>
 				</div>
 			</button>
 		</div>
