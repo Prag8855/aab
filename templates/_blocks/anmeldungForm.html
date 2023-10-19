@@ -215,13 +215,13 @@
 		<hr>
 		<div class="input-group vertical">
 			<label class="checkbox">
-				<input ref="namesAreOnMailboxCheckbox" v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our' : 'My name is on my' }} mailbox
+				<input ref="namesAreOnMailboxCheckbox" v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our mailbox' : 'My name is on my mailbox' }}
 			</label>
 		</div>
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
 		<div class="form-group" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
-			<input type="text" v-model="nameOnMailbox" placeholder="Müller">
+			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller">
 		</div>
 	</template>
 	<template v-if="stage === 'idDocuments'">
@@ -281,20 +281,20 @@
 		<template v-if="peoplePairs.length > 1">
 			<p>Print the forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
 			<div class="collapsible-options">
-				<button v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="downloadInProgress">
+				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
-						<h3>Download part {{ index + 1 }} of the form</h3>
+						<h3 :id="uid('h-btnDownload') + index">Download part {{ index + 1 }} of the form</h3>
 						<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2"> and {{ person2.firstName }}</template>.</p>
 					</div>
 				</button>
 			</div>
 		</template>
 		<div class="collapsible-options">
-			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress">
+			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
-					<h3>Download the filled form</h3>
+					<h3 :id="uid('h-btnDownload')">Download the filled form</h3>
 					<p>Print and sign this form, then bring it to your <em>Anmeldung</em> appointment.</p>
 				</div>
 			</button>
@@ -330,7 +330,7 @@
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 1" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
-		<button v-if="stageIndex > 0 && stageIndex < stages.length - 2" class="button primary" @click="stageIndex += 1">Next step <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex > 0 && stageIndex < stages.length - 2" class="button primary" @click="stageIndex += 1">Continue <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="stageIndex += 1">Finish</button>
 	</div>
 {% endraw %}
