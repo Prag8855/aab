@@ -82,9 +82,11 @@ Arrive a few minutes before your appointment. Find the correct waiting room, and
 
 Sit at the desk, give your documents, and get your *[[Anmeldebestätigung]]*. They will put a sticker with your new address on your *[[Personalausweis]]*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). This only takes a few minutes.
 
-Check if the information on your *[[Anmeldebestätigung]]* is correct. The *Bürgeramt* employees often make mistakes.[^12]
+### Step 4: Verify your documents
 
-### Step 4: Wait for your tax ID
+Verify the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees often make mistakes.[^12] If you find an error, [email the Bürgeramt](/guides/berlin-burgeramt-appointment#how-to-contact-the-burgeramt).
+
+### Step 5: Wait for your tax ID
 
 If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 4 weeks later.[^13] If you don't receive it, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
@@ -117,7 +119,7 @@ The landlord can refuse to let someone sublet their apartment. There are excepti
 
 - **Spouse, parents and children**  
     They do not need the landlord's permission to move in.[^42]
-- **Boyfriends, girlfriends and life partners**
+- **Boyfriends, girlfriends and life partners**  
     They need the landlord's permission to move in.[^41] The landlord can't refuse without a good reason.[^47] For example, because the apartment is too small.
 - **Guests and visitors**  
     You have the right to have guests.[^40] Your landlord can't forbid guests. Your guests can't register their address at your apartment, because they don't live there.
@@ -267,10 +269,6 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
 [^13]: [Screenshot](/guides/german-tax-id-steuernummer)
-[^14]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9yk7dk/how_to_do_anmeldung_when_im_not_allowed_to/ea1yi5i/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bb5rnz/what_if_i_dont_find_a_place_with_anmeldung/ekghkk6/)
-[^15]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm)
-[^16]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dhr076/cheapest_option_for_anmeldung/f3th08u/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9joq9d/yet_another_anmeldung_question/e6tclno/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9exs5z/anmeldung_advice/e5s98lt/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5j106a/paying_landlord_a_monthly_fee_for_anmeldung/dbck29n/)
-[^17]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9yk7dk/how_to_do_anmeldung_when_im_not_allowed_to/ea1yi5i/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0201), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/bb5rnz/what_if_i_dont_find_a_place_with_anmeldung/ekghkk6/)
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^19]: [community.withairbnb.com](https://community.withairbnb.com/t5/Gastgeben/Wohnungsbest%C3%A4tigung/td-p/427851), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^20]: [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15247.pdf), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5utqom/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5w36it/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dgl6o8/are_there_consequences_for_completing_anmeldung/)
@@ -282,7 +280,6 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^26]: [steuerberater.com](https://www.steuerberater.com/en/church-tax-calculator)
 [^27]: [§7 WoAufG Bln](https://gesetze.berlin.de/bsbe/document/jlr-WoAufGBEV5P7)
 [^28]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/d8o9vu/finding_my_anmeldung_appointment_confirmation/)
-[^29]: [§19 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0201)
 [^30]: [§17 Abs. 1 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h86woq/registering_address_shall_i_fill_in_a_new/fuqs446/), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/)
@@ -292,7 +289,6 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^36]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023), [reddit.com](https://old.reddit.com/r/germany/comments/ywpuht/do_i_need_german_birth_certificate_for_anmeldung/)
 [^37]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) ([October 2022](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1194390248102276&hoisted_section_header_type=recently_seen)), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/6dgobi/anmeldung_question_do_i_need_my_birth_certificate/), [Facebook](https://www.facebook.com/groups/148190775844249/?multi_permalinks=923430394986946), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=786357288905576)
 [^38]: [nomadenberlin.com](https://www.nomadenberlin.com/anmeldung-berlin#:~:text=remember%20to%20bring%20your%20marriage%20certificate), [iamexpat.de](https://www.iamexpat.de/expat-info/german-expat-news/anmeldung-16-tips-getting-address-registered-germany#:~:text=6.%20get%20your%20certificates%20in%20order), email to the Bürgeramt (May 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (May 2023), [reddit.com](https://old.reddit.com/r/germany/comments/ywpuht/do_i_need_german_birth_certificate_for_anmeldung/)
-[^39]: [§553 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__553.html)
 [^40]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=in%20aller%20regel%20fur%20mehrere%20wochen)
 [^41]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=lebensgefahrten%20des%20mieters%20gehoren%20allerdings%20nicht), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=nicht%20wie%20ein%20ehegatte%20ist%20die%20lebenspartnerin)
 [^42]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=die%20aufnahme%20von%20nahen%20familienangehorigen), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=die%20aufnahme%20von%20nahen%20familienangehorigen)
