@@ -30,7 +30,7 @@
 			</label>
 			<div class="input-group">
 				<postalcode-input class="show-errors" :id="uid('newPostCode')" v-model="newPostCode"></postalcode-input>
-				<city-input v-model="newCity"></city-input>
+				Berlin
 			</div>
 		</div>
 		<div class="form-group">
@@ -360,7 +360,6 @@
 					moveInDate: '',
 					newAddress: '',
 					newBuildingDetails: '',
-					newCity: '',
 					newPostCode: '',
 					oldAddress: '',
 					oldBuildingDetails: '',
@@ -458,7 +457,7 @@
 						'Tag des EinzugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
 						'Tag des AuszugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
 						'Straße Hausnummer ZusätzeRow1': this.mergeFields([this.newAddress, this.newBuildingDetails, beiAddress]),
-						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([this.newPostCode, this.newCity]),
+						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([this.newPostCode, 'Berlin']),
 						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([this.oldAddress, this.oldBuildingDetails, oldStateName]),
 						'Postleitzahl GemeindeKreisLandRow1': this.mergeFields([this.oldPostCode, this.oldCity]),
 						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'Germany' ? '' : this.oldCountry,
