@@ -49,7 +49,7 @@ Bring these documents to your appointment:
 - [ ] **The filled [Anmeldung form](/docs/anmeldung)**  
     [Fill the form online](/docs/anmeldung#fill-the-anmeldung-form-online). To register more than 2 people, use multiple forms.
 - [ ] **Your passport or [[Personalausweis]]**  
-    Bring the original ID document, not a copy. You can also use a EU national ID.[^7] If you have a *[[Personalausweis]]*, bring it with you. They will put a sticker on it with your new address.
+    Bring the original ID document, not a copy. You can use a *Personalausweis* from any [EU](/glossary/European%20Union) country.[^7] If you have a *[[Personalausweis]]*, bring it with you. They will put a sticker on it with your new address.
 - [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a residence permit, bring it with you. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8]
 - [ ] **Your vehicle registration papers**  

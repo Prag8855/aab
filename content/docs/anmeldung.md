@@ -79,7 +79,7 @@ If you fill the form yourself, use these instructions:
     - Widowed: *Verwitwet*
     - Civil union: *in eingetragener Lebenspartnerschaft*
 - **Dokumente**: During your *Anmeldung* appointment, you must prove your identity. You need your passport or *[[Personalausweis]]*. This section describes your ID document.
-    - **Art**: The type of document: "RP" for a passport, "PA" for a *[[Personalausweis]]*, or "KP" for a children's passport.
+    - **Art**: The type of document: "RP" for a passport, "PA" for a *[[Personalausweis]]*, or "KP" for a children's passport. You can use a *Personalausweis* from another EU country.
     - **Name, Vorname**: The last name and the first name of the person this document belongs to.
     - **Ausstellungsbehörde**: The authority that issued this document. For example, "Kanada Botschaft, Berlin".
     - **Seriennummer**: The serial number of the ID document. For example, your passport number.

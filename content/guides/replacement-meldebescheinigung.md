@@ -32,7 +32,7 @@ To can [request a *Meldebescheinigung* online](https://service.berlin.de/dienstl
 
 1. [Get an appointment at any Bürgeramt](/guides/berlin-burgeramt-appointment) for "*[Meldebescheinigung beantragen](https://service.berlin.de/dienstleistung/120702/)*"
 2. When you go to your appointment, bring...
-    - [ ] Your passport or [personal ID](/glossary/Personalausweis)
+    - [ ] Your passport or *[[Personalausweis]]*
     - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or MasterCard. It depends on the Bürgeramt.
 
 ### By post or email
@@ -41,7 +41,7 @@ You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
 
 1. Transfer 10€ to [the *Bürgeramt's* bank account](http://www.berlin.de/labo/_assets/buergerdienste/bankverbindungen-der-buergeraemter.pdf)
 2. Write to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/). In you message, include...
-    - [ ] A copy of your passport or [personal ID](/glossary/Personalausweis)
+    - [ ] A copy of your passport or *[[Personalausweis]]*
     - [ ] Your [[IBAN]]
     - [ ] The date of your bank transfer
 
