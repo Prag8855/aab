@@ -12,7 +12,7 @@ Related_guides:
     guides/moving-to-berlin.md
 ---
 
-This is the English translation of the official *[[Anmeldung]]* form. You must fill this form to [register your address](/glossary/Anmeldung) in Berlin.
+This is the English translation of the official *[[Anmeldung]]* form. Fill this form to [register your address](/glossary/Anmeldung) in Berlin.
 
 **[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 

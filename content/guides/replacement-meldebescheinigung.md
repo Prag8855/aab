@@ -24,7 +24,7 @@ If you did not [register your address](/glossary/Anmeldung), you can't get a *Me
 
 ### Online
 
-To can [request a *Meldebescheinigung* online](https://service.berlin.de/dienstleistung/120702/). You must be [registered](/glossary/Anmeldung) in Berlin.
+To [request a *Meldebescheinigung* online](https://service.berlin.de/dienstleistung/120702/). You must be [registered](/glossary/Anmeldung) in Berlin.
 
 ![Meldebescheinigung online berlin](/images/meldebescheinigung-online-berlin.png "Click this button to request a Meldebescheinigung online")
 
@@ -40,7 +40,7 @@ To can [request a *Meldebescheinigung* online](https://service.berlin.de/dienstl
 You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
 
 1. Transfer 10€ to [the *Bürgeramt's* bank account](http://www.berlin.de/labo/_assets/buergerdienste/bankverbindungen-der-buergeraemter.pdf)
-2. Write to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/). In you message, include...
+2. Write to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/). In your message, include...
     - [ ] A copy of your passport or *[[Personalausweis]]*
     - [ ] Your [[IBAN]]
     - [ ] The date of your bank transfer
@@ -49,7 +49,7 @@ You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
 
 ## Erweiterte Meldebescheinigung
 
-The extended registration certificate (*erweiterte Meldebescheinigung*) is a more detailed *Meldebescheinigung*. It shows...
+The extended registration certificate (*erweiterte Meldebescheinigung*) **has more details** than the *Meldebescheinigung*. It shows...
 
 - Your previous addresses
 - Your registered spouse and children

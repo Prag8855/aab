@@ -13,7 +13,14 @@ If you have a [residence permit](/glossary/Aufenthaltstitel), and you [quit or l
 
 **[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
-If you have [permanent residence](/glossary/Niederlassungserlaubnis), or [EU](/glossary/European%20Union) or [[EEA]] citizenship, you don't need to do this.
+You must do this if...
+
+- You have a [residence permit](/glossary/Aufenthaltstitel) that requires you to have a job. For example, a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
+
+You don't need to do this if...
+
+- You have German [permanent residence](/glossary/Niederlassungserlaubnis)
+- or you are a [EU](/glossary/European%20Union) or [[EEA]] citizen.
 
 ## Letter template
 

@@ -13,7 +13,7 @@ Related_guides:
     guides/anmeldung-in-english-berlin.md
 ---
 
-Fill this form to deregister your address in Germany (*[[Abmeldung]]*). In Berlin, you can send the form to any *[[Bürgeramt]]* in Berlin. You can deliver the form in person, by email, or by [registered mail](/glossary/Einschreibebrief).
+Fill this form to deregister your address in Berlin (*[[Abmeldung]]*). You can send this form to any *[[Bürgeramt]]* in Berlin. You can deliver the form in person, by email, or by [registered mail](/glossary/Einschreibebrief).
 
 **[How to do your Abmeldung in Berlin ➞](/guides/abmeldung-deregister-in-berlin)**
 
@@ -42,6 +42,6 @@ The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularve
     
 ## How to send this form
 
-Send the form by [registered mail](/glossary/Einschreibebrief) as described [here](/guides/abmeldung-deregister-in-berlin#by-registered-mail).
+Send the form by [registered mail](/glossary/Einschreibebrief) as explained [here](/guides/abmeldung-deregister-in-berlin#by-registered-mail).
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)

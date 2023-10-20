@@ -27,9 +27,9 @@ The original form is [on the BZSt website](/out/taxid-form).
 
 People who need a tax ID, but can't [register their address](/glossary/Anmeldung):
 
-- People who work in Germany, but do not live in Germany.
-- People who live in Germany, but do not have a fixed address.
-- People who live in Germany, but [can't register their address](/guides/anmeldung-in-english-berlin#if-you-cant-register-your-address).
+- If you work in Germany, but do not live in Germany.
+- If you live in Germany, but do not have a fixed address.
+- If you live in Germany, but [can't register your address](/guides/anmeldung-in-english-berlin#if-you-cant-register-your-address).
 
 ## How to fill this form
 

@@ -27,13 +27,20 @@ The original template is on [Berlin.de](https://service.berlin.de/dienstleistung
 
 ## How to fill the revenue forecast
 
-You must describe your *estimated* income and expenses. It must be believable, but not perfectly accurate. Be ambitious! It's better to estimate too high than too low.[^1] If you convince the *[[Ausländerbehörde]]* that you will make a lot of money, you can get a longer freelance visa.
+This form describes your *estimated* income and expenses. Your estimated income should be realistic, but ambitious. It's better to estimate too high than too low.[^1] If your income is higher, you might get a longer freelance visa.
 
-Include health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glossary/Umsatzsteuer). Do not include your own rent and expenses.
+Include the cost of health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glossary/Umsatzsteuer). Do not include your own rent and expenses.
 
-- **Rent:** This is for your business rent. For example, rent for an office or a coworking space. Do not include your apartment rent.
-- **Trade tax:** You can calculate your trade tax (*[[Gewerbesteuer]]*) with the [*Gewerbesteuer* calculator](https://www.zinsen-berechnen.de/gewerbesteuer-rechner.php). If you are a *[[Freiberufler]]*, you don't need to pay any trade tax. - [More about the trade tax](/guides/gewerbesteuer)
-- **Other business taxes:** You can leave this field empty, or include your expected [income tax](/glossary/Einkommensteuer). Calculate your income tax with [this calculator](http://www.parmentier.de/steuer/index.php?site=einkommensteuerrechnerjava). If you pay trade tax (*[[Gewerbesteuer]]*), you pay less income tax. Write your total income tax minus your total trade tax.
+**[Health insurance cost calculator ➞](/tools/health-insurance-calculator)**
+
+**[Income tax calculator ➞](/tools/health-insurance-calculator)**
+
+- **Rent**  
+    For example, rent for a store, an office or a co-working space. Do not include your apartment rent.
+- **Trade tax** (*[[Gewerbesteuer]]*)  
+    Use the [*Gewerbesteuer* calculator](https://www.zinsen-berechnen.de/gewerbesteuer-rechner.php) to calculate your trade tax. If you are a *[[Freiberufler]]*, you don't pay trade tax. - [More information](/guides/gewerbesteuer)
+- **Other business taxes**  
+    Include your estimated [income tax](/glossary/Einkommensteuer), or leave this field empty. If you pay trade tax (*[[Gewerbesteuer]]*), you pay less income tax. Write your total income tax minus your total trade tax.
 
 
 [^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2022)
