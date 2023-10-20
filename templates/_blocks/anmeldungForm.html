@@ -127,11 +127,13 @@
 						ref="firstNameInput"
 						placeholder="Alex"
 						autocomplete="given-name"
+						title="First name"
 						class="first-name-input">
 					<input type="text"
 						v-model="person.lastName"
 						placeholder="Smith"
 						autocomplete="family-name"
+						title="Last name"
 						class="last-name-input">
 					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
 				</div>
