@@ -13,11 +13,11 @@ This guide shows you how to relocate to Berlin from another country, step by ste
 
 Before you move to Germany, you might need a [residence permit](/glossary/Aufenthaltstitel). A residence permit gives you the right to live in Germany.
 
-To get a residence permit, you usually need a job offer, [health insurance](/glossary/Krankenversicherung), and a place to live. The first step is to find a job, then an apartment and health insurance.
+To get a residence permit, you usually need a job offer, [health insurance](/glossary/Krankenversicherung), and a place to live. The first step is to [find a job](/guides/find-a-job-in-berlin), then [an apartment](/guides/find-a-flat-in-berlin) and [health insurance](/guides/german-health-insurance).
 
 Moving to Germany costs a lot of money. You need savings. Your employer might offer a relocation bonus, or pay some of your relocation costs.
 
-After you arrive in Germany, you need a bank account and a SIM card for your phone. When you move into your apartment, you must register your address.
+After you arrive in Germany, you need a [bank account](/guides/first-bank-account-in-germany) and a SIM card for your phone. When you move into your apartment, you must [register your address](/guides/anmeldung-in-english-berlin).
 
 ![Move to berlin boxes luggage](/illustrations/move-to-berlin-boxes-luggage.png)
 
