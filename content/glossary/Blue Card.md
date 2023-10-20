@@ -17,6 +17,4 @@ Related_guides:
 
 The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltstitel) for skilled workers with a university degree. It allows you to live and work in Germany.
 
-The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). It's not the same as a [work visa](/glossary/Work%20Visa), but it's similar.
-
-**[How to apply for a Blue Card ➞](/guides/german-work-visa)**
+**[How to apply for a Blue Card ➞](/guides/blue-card)**
