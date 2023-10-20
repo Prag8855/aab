@@ -14,6 +14,10 @@ This guide shows you how to apply for a German work visa or EU Blue Card.
 - The **[German work visa](/glossary/Work%20Visa)** is a [residence permit](/glossary/Aufenthaltstitel) that lets you work as an employee in Germany.
 - The **[EU Blue Card](/glossary/Blue%20Card)** is like a work visa, but better. The application process is almost the same.
 
+**Note:** An immigration reform is coming in November 2023. The Blue Card will have lower requirements. Some of the Blue Card requirements might be outdated. I am working on an update for this.
+
+**Note:** In Berlin, you can now apply for the Blue Card online. The application steps for the Blue Card might be outdated. I am working on a new guide for this.
+
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a work visa or Blue Card?
