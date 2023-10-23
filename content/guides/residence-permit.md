@@ -34,8 +34,8 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
 
 - **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/german-work-visa)  
     For skilled workers who live and work in Germany. You need a job offer from a German company to apply for this visa.[^5]
-- **[[Blue Card]]** - [How to apply](/guides/german-work-visa)  
-    For skilled workers who live and work in Germany. It's like a work visa, but better. You need a job offer and a university degree. There is a minimum income requirement.
+- **[[Blue Card]]** - [How to apply](/guides/blue-card)  
+    For skilled workers who live and work in Germany. It's like a work visa, but better. You need a job offer and a university degree. There is a minimum salary requirement.
 - **[Working holiday visa](/glossary/Working%20Holiday%20Visa)**  
     For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[Youth mobility visa](/glossary/Youth%20Mobility%20Visa)**  

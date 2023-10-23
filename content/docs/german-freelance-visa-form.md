@@ -8,6 +8,7 @@ Description: The official English translation of the German freelance visa appli
 Date_created: 2018-06-07
 Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
+    guides/blue-card.md
     guides/german-work-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
@@ -18,7 +19,7 @@ Related_guides:
     guides/freelance-visa-letter-of-intent.md
 ---
 
-When you [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa) or [work visa](/guides/german-work-visa), you must include this form with your application.
+When you apply for a [residence permit](/glossary/Aufenthaltstitel), you must include this form with your application.
 
 This is the official form for Berlin. The original document is [on Berlin.de](https://service.berlin.de/dienstleistung/305249/).
 

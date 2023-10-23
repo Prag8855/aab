@@ -180,11 +180,13 @@ If you are not sure about your contract, [ask for help](/guides/questions-about-
 
 If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for the residence permit.
 
-Your employer can hire a relocation consultant to help you. This helps a lot.
+Your employer can hire a relocation consultant to help you. It makes everything easier.
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-**[How to get a work visa or Blue Card ➞](/guides/german-work-visa)**
+**[How to get a work visa ➞](/guides/german-work-visa)**
+
+**[How to get a Blue Card ➞](/guides/blue-card)**
 
 ## Step 6: Start working
 

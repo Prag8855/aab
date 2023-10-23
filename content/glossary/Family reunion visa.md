@@ -6,6 +6,7 @@ Description: A residence permit for family members of German residents.
 Date_created: 2019-10-03
 Related_guides:
     guides/moving-to-berlin.md
+    guides/blue-card.md
     guides/german-work-visa.md
     guides/residence-permit.md
 ---

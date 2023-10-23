@@ -174,7 +174,7 @@ Get an appointment at [your local German embassy or consulate](https://www.auswa
 
 Before your embassy or consulate appointment, you must...
 
-- [ ] **Prepare the [required documents](/guides/german-work-visa#required-documents)**  
+- [ ] **Prepare the [required documents](#required-documents)**  
     This takes time. Start as soon as you can.
 - [ ] **Find a job**  
     You must have a job offer before you apply for the Blue Card. Your job must meet the [Blue Card requirements](#blue-card-requirements). - [How to find a job](/guides/find-a-job-in-berlin)
@@ -185,7 +185,7 @@ Before your embassy or consulate appointment, you must...
 
 ### 3. Go to your visa interview
 
-Go to your embassy or consulate interview, and give your documents. If you have all the [required documents](/guides/german-work-visa#required-documents), it only takes a few minutes.
+Go to your embassy or consulate interview, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
 ### 4. Receive your temporary visa
 
@@ -268,6 +268,10 @@ As a German resident, you can bring your family to Germany with the [family reun
 Your Blue Card is valid for up to 4 years. You can renew your Blue Card before it expires, or apply for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ### If you change jobs
+
+If you change jobs, you must tell the Ausländerbehörde. You might need permission from the Ausländerbehörde to start your new job.
+
+**[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ### If you lose your job
 

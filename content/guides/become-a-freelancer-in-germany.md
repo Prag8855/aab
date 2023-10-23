@@ -160,7 +160,7 @@ If you are not a EU or [[EEA]] citizen or permanent resident, you need a [reside
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-Everyone else needs a residence permit to work in Germany. To be self-employed, you must [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). This takes 3 to 6 months.[^8] You can't work before you get the residence permit. If you already have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa), it might allow you to freelance already.
+Everyone else needs a residence permit to work in Germany. To be self-employed, you must [apply for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). This takes 3 to 6 months.[^8] You can't work before you get the residence permit. If you already have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might allow you to freelance already.
 
 If you come from **{{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^6] You can come to Germany and apply for a freelance visa there. It's easier to prepare your freelance visa application if you are already in Germany, but you will spend more time in Germany without an income.
 

@@ -1,11 +1,12 @@
 ---
 Title: What is the Schengen visa or Tourist Visa?
-German_term: Schengen visum
+German_term: Schengen Visum
 English_term: Schengen visa
 Description: A visa that lets you visit Schengen countries, including Germany.
 Date_created: 2018-07-31
 Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
+    guides/blue-card.md
     guides/german-work-visa.md
     guides/residence-permit.md
 ---
@@ -19,7 +20,7 @@ With a Schengen visa, you can:
 
 With a Schengen visa, can't:
 
-- Work or study in Germany[^3]
+- [Work](/guides/find-a-job-in-berlin) or study in Germany[^3]
 - Convert your Schengen visa to a [residence permit](/glossary/Aufenthaltstitel)[^1]
 - Extend your visa to stay longer (with rare exceptions)[^2]
 

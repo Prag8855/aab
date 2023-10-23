@@ -10,6 +10,7 @@ Related_guides:
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md
+    guides/blue-card.md
     guides/german-work-visa.md
     guides/german-visa-health-insurance.md
     guides/residence-permit.md

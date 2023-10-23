@@ -6,12 +6,13 @@ Description: A type of residence permit that lets you work in Germany.
 Date_created: 2019-07-13
 Related_guides:
     guides/find-a-job-in-berlin.md
+    guides/german-work-visa.md
+    guides/blue-card.md
     guides/berlin-auslanderbehorde-appointment.md
     guides/how-to-get-a-german-freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md
-    guides/german-work-visa-to-freelance-visa.md
-    guides/german-work-visa.md
+    guides/german-work-visa-to-freelance-visa.m
     guides/german-visa-health-insurance.md
     guides/residence-permit.md
 ---

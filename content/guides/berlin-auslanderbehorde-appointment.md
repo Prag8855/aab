@@ -114,6 +114,8 @@ If you had a German residence permit for over 3 years, you might get an unrestri
 
 Your residence permit is a plastic card, not a sticker in your passport. Your address is written on the card. If you move to another address, they will update your residence permit during the *[[Anmeldung]]*. They just put a sticker with your new address on your residence permit.
 
+After you receive your plastic residence permit, [activate your eAT](#activate-your-eid).
+
 ### If your application is rejected
 
 If some documents are missing, they will give you a new appointment in a few days. This gives you time to get the missing documents and apply again.

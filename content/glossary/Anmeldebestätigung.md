@@ -17,7 +17,6 @@ Related_guides:
     guides/moving-to-berlin.md
     guides/german-banks-no-address.md
     guides/how-to-get-a-kitagutschein.md
-    guides/german-work-visa.md
 ---
 
 A registration certificate (*Anmeldebestätigung* or *Meldebestätigung*) proves that you live at a certain address.

@@ -115,9 +115,9 @@ You must prove that you are on a private pension plan that guarantees:[^14]
 
 There are two ways to apply for the German freelance visa:
 
-1. **[Apply in Germany](/guides/german-work-visa#how-to-apply-in-germany)**  
+1. **[Apply in Germany](#how-to-apply-in-germany)**  
     Come to Germany, prepare the documents, then apply for the residence permit at the *Ausländerbehörde*. You can't work until you have your freelance visa, but you can look for clients and prepare for your residence permit interview.[^45] It's easier to find clients, [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You can't work while you wait for your visa. You might have to wait a few months without any income. If you can't get a freelance visa, you must leave Germany. This is riskier and more expensive than applying in your country.
-2. **[Apply in your country](/guides/german-work-visa#how-to-apply-in-your-country)**  
+2. **[Apply in your country](#how-to-apply-in-your-country)**  
     Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a freelance visa. You can start working as soon as you arrive in Germany. This is safer and cheaper than applying in Germany. It takes around 4 months.
 
 The best option depends on your citizenship:

@@ -7,6 +7,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
     guides/how-to-get-a-german-freelance-visa.md
+    guides/blue-card.md
     guides/german-work-visa.md
     guides/renew-german-freelance-visa.md
 ---
