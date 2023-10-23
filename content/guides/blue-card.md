@@ -30,19 +30,13 @@ To get a Blue Card, you need...
 - [ ] **A job offer in Germany**  
     [Find a job](/guides/find-a-job-in-berlin) before you apply. You need a job offer to get a Blue Card. You must also have...
     - [ ] **A high income**  
-        You must make at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year. [This list](https://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
+        Your salary must be at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If there is a shortage of skilled workers in your field, you must make at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year. [This list](https://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
     - [ ] **Job experience**  
         You have the skills and experience to do this job. For example, you can't get a Blue Card as a programmer if you have no programming education or experience.
     - [ ] **Permission to do this job**  
         You must have all the qualifications and permits to do this job in Germany. For example, doctors, engineers and lawyers need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if your profession requires specific qualifications.
 - [ ] **A university degree**  
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
-
-???Anabin: what counts as recognised H+ or H+/-???
-
-If you are over 45 years old, you must also...
-
-- [ ] ...
 
 **You do not need to speak German** to get a Blue Card.
 
@@ -85,7 +79,7 @@ If you can't apply in Germany, you must [apply in your home country](#how-to-app
 
 **If you have a [tourist visa](/glossary/Schengen%20visa)**, you can't apply for a Blue Card. You can't look for work with a tourist visa. Your Blue Card application will be rejected.
 
-If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment.
+If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment. Make sure that you can [register your address](/glossary/Anmeldung) at this place.
 
 ### 2. Find a job
 
@@ -118,13 +112,28 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 **[Apply for the Blue Card](https://service.berlin.de/dienstleistung/324659/en/)** - berlin.de
 
-The application fee is {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens.
+The application fee is {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not cash.[^8]
 
 ### 5. Wait
 
 The *Ausländerbehörde* must process your application. This takes around 6 weeks, but it can take much longer.
 
 ???More sources???
+
+### 5. Go to your residence permit appointment
+
+You will be invited to the *[[Ausländerbehörde]]*. They will take your fingerprints for your Blue Card.
+
+When you go to your appointment, bring...[^7]
+
+- [ ] **Your appointment confirmation**  
+    If you can't prove that you have an appointment, you can't enter the *Ausländerbehörde*.
+- [ ] **Proof of your online application**  
+    You get this document at the end of your online application.
+- [ ] **1 biometric photo** (35 × 45 mm)  
+    You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
+
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### 6. Get your Blue Card
 
@@ -137,8 +146,6 @@ Your Blue Card is a plastic card. It's usually valid for 4 years. It can be vali
 ???Needs rephrasing???
 
 ???eID activation???
-
-??? **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)** ???
 
 ### 7: Start working in Germany
 
@@ -207,31 +214,30 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - ...be issued in the last 10 years
     - ...show your signature
 - [ ] **1 biometric photo** (35 × 45 mm)  
-    You do not need to cut the passport photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
+    You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Your job contract** (*Arbeitsvertrag*)  
-    Bring the original, not a copy.
-- [ ] **Proof of health insurance**
-    - [ ] **Mitgliedsbescheinigung**  
-        You can get this document from your health insurance company. If you have public health insurance, look for a *Mitgliedsbescheinigung nach 175 SGB V*. You can get a similar document for private health insurance.
+    Bring the original, not a copy. If you don't have a contract, bring a concrete job offer.
+- [ ] **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
+    Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
+- [ ] **Proof of health insurance**  
+    You must have [valid health insurance](/guides/german-visa-health-insurance). Travel insurance is not enough. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you [choose health insurance](/guides/german-health-insurance).
+    - [ ] **Mitgliedsbescheinigung** or *Nachweis der Krankenversicherung*  
+        Get this document from your health insurer or health insurance broker. If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), ask for a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)*. If you have [private health insurance](/glossary/private%20Krankenversicherung), you will get a similar document.
     - [ ] **Health insurance card**, if you have one.
     - [ ] **Proof of health insurance payments**  
-        If you have [private health insurance](/glossary/private%20Krankenversicherung), bring bank account statements that show health insurance payments.
+        If you have [private health insurance](/glossary/private%20Krankenversicherung), bring bank account statements that show health insurance payments.[^6]
 - [ ] **Proof of residence in Germany**  
     - [ ] **Lease**
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)
+        Some temporary apartments don't give you this document. ???then what???
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        If you did not [register your address](/glossary/Anmeldung) yet, you don't need a registration certificate.
-- [ ] **Proof of education** (*Ausbildungsnachweis*)  
-    If you have a degree or any relevant training, bring a proof of education. If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). A proof of education can be...
-    - A degree from a German *Hochschule* or a comparable qualification
-    - **or** a degree from a recognised university
-    - **or** a completed vocational training
+        If you did not [register your address](/glossary/Anmeldung) yet, it's okay. Just bring the lease and tenancy confirmation.[^5]
+- [ ] **University degree** (*Ausbildungsnachweis*)  
+    If it's not in English or German, get a [certified translation](/glossary/beglaubigte%20Übersetzung).
+- [ ] **Statement of comparability** (*Zeugnisbewertung*)  
+    If your university degree is not recognised in Germany, you must get a statement of comparability (*Zeugnisbewertung*) from the ZAB. - [More information](https://www.kmk.org/zab/statement-of-comparability.html)
 - [ ] **Occupation practice permit** (if applicable)  
     If you need specific qualifications to do your job in Germany, you must prove that you have them. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if your profession requires specific qualifications.
-- [ ] **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
-    Your employer should fill this form. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
-- [ ] **[The "application for issuance of a residence permit" form](/documents/Antrag-auf-Erteilung-eines-Aufenthaltstitels.pdf)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    Download the form [here](/docs/german-freelance-visa-form), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f72301-labo_agen1__antrag_engl_frz_ital_03_2017.pdf). This is the same form as for other [residence permits](/glossary/Aufenthaltstitel).
 
 **Use PDF documents.** Word documents and other formats are less reliable.
 
@@ -269,5 +275,9 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can
 
 [^1]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023)
 [^2]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/)
-[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=lasts%203%20months%20longer%20than%20your%20employment%20contract)
+[^3]: [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=lasts%203%20months%20longer%20than%20your%20employment%20contract)
 [^4]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=only%20possible%20online)
+[^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
+[^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
+[^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
+[^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card%2C%20paypal%2C%20giropay)
