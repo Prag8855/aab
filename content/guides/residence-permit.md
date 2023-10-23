@@ -98,7 +98,9 @@ You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home 
 
 It's better if you apply in your home country. You can start working as soon as you arrive in Germany, instead of living in Germany without any income.
 
-**[How to apply for a work visa or Blue Card ➞](/guides/german-work-visa)**
+**[How to apply for a work visa ➞](/guides/german-work-visa)**
+
+**[How to apply for a Blue Card ➞](/guides/blue-card)**
 
 **[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 

@@ -18,7 +18,7 @@ With a Blue Card, you can...
 - Live and work in Germany
 - Visit countries in the [Schengen area](https://www.axa-schengen.com/en/countries-schengen-area)
 - Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)
-- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after ??? months, and a German citizen after ??? months
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
 
 ## Who needs a Blue Card?
 
@@ -142,15 +142,17 @@ When you go to your appointment, bring...[^7]
 
 ### 6. Get your Blue Card
 
-Your Blue Card is a plastic card. It's usually valid for 4 years. It can be valid for a shorter time if you have a limited work contract. For example, if you have a 2 year work contract, your Blue Card will be valid for 2 years + 3 months.[^3]
+??? How is it delivered ???
+
+Your Blue Card is a plastic card. It's usually **valid for 4 years**. It can be valid for a shorter time if you have a limited work contract. For example, if you have a 2 year work contract, your Blue Card will be valid for 2 years + 3 months.[^3]
+
+Verify the information on your new Blue Card. *Ausländerbehörde* employees sometimes make mistakes.
 
 **[If your Blue Card is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
 **[If your Blue Card is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
 
-???Needs rephrasing???
-
-???eID activation???
+After you receive your plastic Blue Card, [activate your eID](#activate-your-eid).
 
 ### 7: Start working in Germany
 
@@ -189,9 +191,11 @@ Go to your embassy or consulate interview, and give your documents. If you have 
 
 A few weeks (or months) later, you must go to the embassy or consulate again. They will give you a temporary visa. It's [a sticker in your passport](/images/aufenthaltstitel.jpg).
 
+With the temporary visa, you can [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+
 ### 5. Come to Germany and start working
 
-With the temporary visa, you can [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+You can now travel to Germany. Your temporary visa allows you to work.
 
 After you arrive in Germany, you should [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/first-bank-account-in-germany).
 
@@ -208,6 +212,8 @@ You will get a Blue Card residence permit. It's valid for up to 4 years. You can
 ???Berlin won't do this until it's 8 weeks from expiration???
 
 ???The plastic residence permit has more power???
+
+After you receive your plastic Blue Card, [activate your eID](#activate-your-eid).
 
 ## Required documents
 
@@ -251,17 +257,17 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 ???The interviewer will scan your documents page by page. Do not staple the pages together. If possible, print everything on A4 paper. CDs, USB drives and website addresses will be ignored.???
 
-## After you get a Blue Card
+## After you get your Blue Card
 
-### How to bring your family to Germany
+### Bring your family to Germany
 
 As a German resident, you can bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members can work, freelance or start a business in Germany.
 
-### How to renew a Blue Card
+### How to renew your Blue Card
 
 Your Blue Card is valid for up to 4 years. You can renew your Blue Card before it expires, or apply for [permanent residence](/glossary/Niederlassungserlaubnis).
 
-### How to change jobs
+### If you change jobs
 
 ### If you lose your job
 
@@ -279,6 +285,12 @@ Your Blue Card lets you visit other [Schengen countries](https://www.axa-schenge
 
 If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can freelance or [start a business](/guides/start-a-business-in-germany). You can only do this as a side job; you must keep your main job. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
 
+### Activate your eID
+
+You can use your Blue Card to log into online government services. You must activate this feature at the *Ausländerbehörde*. Do this before you need it.
+
+**[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
+
 [^1]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023)
 [^2]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/)
 [^3]: [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=lasts%203%20months%20longer%20than%20your%20employment%20contract)
@@ -288,3 +300,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card%2C%20paypal%2C%20giropay)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^10]: [§18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/)

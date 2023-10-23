@@ -5,6 +5,7 @@ English_term: Blue Card
 Description: A residence permit for skilled workers.
 Date_created: 2019-09-03
 Related_guides:
+    guides/blue-card.md
     guides/find-a-job-in-berlin.md
     guides/berlin-auslanderbehorde-appointment.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
