@@ -33,7 +33,7 @@ To get a Blue Card, you need...[^18]
 - [ ] **A job offer in Germany**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] You must also have...
     - [ ] **A high income**  
-        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If there is a shortage of skilled workers in your field, you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year. - [Fields with a shortage of skilled workers](https://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf)
+        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] [If there is a shortage of skilled workers in your field](#shortage-occupations), you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.
     - [ ] **Job experience**  
         You have the skills and experience to do this job. For example, you can't get a Blue Card for a programming job if you have no programming education or experience.
     - [ ] **Permission to do this job**  
@@ -42,6 +42,23 @@ To get a Blue Card, you need...[^18]
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 
 **You do not need to speak German** to get a Blue Card.
+
+### Requirements for shortage occupations
+
+There is a shortage of these skilled workers in Germany:
+
+- Programmers and IT workers
+- Engineers
+- Architects
+- Doctors (but not dentists)
+- Graphic designers and multimedia designers
+- Mathematicians
+- Natural scientists
+- Urban planners
+
+If you work in one of those occupations, **you can get a Blue Card with a lower salary**. The minimum salary is {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year instead of {{BLUE_CARD_MIN_INCOME|cur}}€.[^21]
+
+If your salary is under {{BLUE_CARD_MIN_INCOME|cur}}€, your Blue Card application take a bit longer, because the *[[Ausländerbehörde]]* must get the [[ZAV]]'s approval.
 
 ## Blue Card alternatives
 
@@ -326,3 +343,4 @@ You can use your Blue Card to log into online government services. For example, 
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
+[^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
