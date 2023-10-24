@@ -144,7 +144,7 @@ After you pay and send your application, you will get a PDF by email. This is th
 
 ### 5. Wait
 
-The *Ausländerbehörde* must process your application. This takes around 6 weeks, but it can take much longer.
+The *Ausländerbehörde* must process your application. This can take a long time.
 
 Your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. If you don't get a decision after 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
 
@@ -169,7 +169,7 @@ When you go to your appointment, bring...[^7]
 
 ### 7. Get your Blue Card
 
-In a few weeks, you will receive two letters:
+Around 6 weeks after your *Ausländerbehörde* appointment,[^22] you will receive two letters:
 
 - **The eID activation code**  
     This letter arrives before your new Blue Card. You can use it to [activate the eID function](#activate-your-eid) of your Blue Card.
@@ -344,3 +344,4 @@ You can use your Blue Card to log into online government services. For example, 
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
