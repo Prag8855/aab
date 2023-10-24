@@ -13,7 +13,7 @@ Related_guides:
     guides/german-visa-health-insurance.md
 ---
 
-A National Visa is a type of German visa. It's also called a [[Category D visa]]. It lets you enter Germany to [work](/guides/find-a-job-in-berlin), study or [start a business](/guides/start-a-business-in-germany). It's valid for 3 to 12 months.[^1] You must convert it to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]* after you arrive in Germany.
+A National Visa (or [[Category D visa]]) is a type of German visa. It lets you enter Germany to [work](/guides/find-a-job-in-berlin), study or [start a business](/guides/start-a-business-in-germany). It's valid for 3 to 12 months.[^1] When you arrive in Germany, you must convert your National Visa into a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*.
 
 The [tourist visa](/glossary/Schengen%20visa) is not a National Visa.
 
