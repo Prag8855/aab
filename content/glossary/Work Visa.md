@@ -12,7 +12,7 @@ Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md
-    guides/german-work-visa-to-freelance-visa.m
+    guides/german-work-visa-to-freelance-visa.md
     guides/german-visa-health-insurance.md
     guides/residence-permit.md
 ---
