@@ -121,20 +121,28 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 The application fee is {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not cash.[^8]
 
+After you pay and send your application, you will get a PDF by email. This is the proof of your application. You must save it for later.
+
 ### 5. Wait
 
 The *Ausländerbehörde* must process your application. This takes around 6 weeks, but it can take much longer.
 
+Your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision.
+
+**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+
+In a few weeks, the *[[Ausländerbehörde]]* will send you an appointment invitation by email.
+
 ### 5. Go to your residence permit appointment
 
-The *[[Ausländerbehörde]]* will give you an appointment. During this appointment, they take your fingerprints for your Blue Card.
+During this appointment, they take your fingerprints for your Blue Card.
 
 When you go to your appointment, bring...[^7]
 
 - [ ] **Your appointment confirmation**  
     If you can't prove that you have an appointment, you can't enter the *Ausländerbehörde*.
 - [ ] **Proof of your online application**  
-    You get this document at the end of your online application.
+    You get this document by email after your online application.
 - [ ] **1 biometric photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 
@@ -142,15 +150,16 @@ When you go to your appointment, bring...[^7]
 
 ### 6. Get your Blue Card
 
+In a few weeks, you will receive two letters:
+
+- **The eID activation code**  
+    This letter arrives before your new Blue Card. You can use it to [activate the eID function](#activate-your-eid) of your Blue Card.
+- **Your new Blue Card**
+    You either get your Blue Card by post, or you get an invitation to collect your Blue Card at the *Ausländerbehörde*.
+
 Your Blue Card is a plastic card. It's usually **valid for 4 years**. It can be valid for a shorter time if you have a limited work contract. For example, if you have a 2 year work contract, your Blue Card will be valid for 2 years + 3 months.[^3]
 
 Verify the information on your new Blue Card. *Ausländerbehörde* employees sometimes make mistakes.
-
-**[If your Blue Card is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
-
-**[If your Blue Card is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
-
-After you receive your plastic Blue Card, [activate your eID](#activate-your-eid).
 
 ### 7: Start working in Germany
 
@@ -245,9 +254,9 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Occupation practice permit** (if applicable)  
     If you need specific qualifications to do your job in Germany, you must prove that you have them. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if your profession requires specific qualifications.
 
-**Use PDF documents.** Word documents and other formats are less reliable.
+**Use PDF documents.** Word documents and other formats don't always work.
 
-**If your documents are not in German**, bring a [certified translation](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept documents in English.
+**If your documents are not in German**, get a [certified translation](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept documents in English.
 
 ## After you get your Blue Card
 
