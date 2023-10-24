@@ -53,6 +53,8 @@ If you can't get a Blue Card, there are other options:
     Lets you work in Germany for 1 year. No income requirement. No education requirement. There is an age limit.
 - **[[Au pair visa]]**  
     Work as an [au pair](/glossary/Au%20pair). No income requirement. No education requirement.
+- **[[Student visa]]**  
+    Study in Germany and work up to 20 hours per week. No income requirement.
 - **[[Freelance visa]]**  
     For freelancing and self-employment. Very low income requirement. No education requirement. You must have clients in Germany. - [How to apply](/guides/how-to-get-a-german-freelance-visa)
 
