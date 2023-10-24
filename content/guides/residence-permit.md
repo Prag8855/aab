@@ -5,15 +5,13 @@ Description: This guide shows you if you need a residence permit (Aufenthaltstit
 Date_created: 2022-06-23
 ---
 
-Some people need a residence permit (*[[Aufenthaltstitel]]*) to live and work in Germany. This guide explains how German residence permit works.
+Some people need a residence permit (*[[Aufenthaltstitel]]*) to live, work and study in Germany. This guide explains how German residence permits work.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a German residence permit?
 
-Most people need a residence permit to live in Germany for more than 3 months.
-
-It depends on your citizenship:
+Most people need a residence permit to live in Germany for more than 3 months. It depends on your citizenship:
 
 - **[[European Union]], Iceland, Liechtenstein or Norway**  
     You don't need a residence permit. You can already live, work and study in Germany.[^0] If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
@@ -28,7 +26,7 @@ It depends on your citizenship:
 
 **If you want to visit Germany as a tourist**, you don't need a residence permit. You might need a [[Schengen visa]]. Use [this list](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) to know if you need a Schengen visa to visit Germany.
 
-Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check) to know which residence permit you need to stay in Germany.
+Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which residence permit you need to stay in Germany.
 
 ## Types of residence permits
 
@@ -52,7 +50,7 @@ Use [this tool](https://www.make-it-in-germany.com/en/visa-residence/quick-check
     For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract to apply for the visa.
 - **[[Family reunion visa]]**  
     For spouses and family members of German residents. This is how you can bring your family to Germany. With a family reunion visa, your spouse and your children can work or study in Germany.
-- [And many others…](https://www.make-it-in-germany.com/en/visa-residence/quick-check)
+- [And many others…](https://digital.diplo.de/navigator/en/visa)
 
 ### Residence permits to work
 
