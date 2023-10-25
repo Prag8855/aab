@@ -33,7 +33,7 @@ To get a Blue Card, you need...[^18]
 - [ ] **A job offer in Germany**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your employer must be in Germany. You must also have...
     - [ ] **A high income**  
-        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] [If there is a shortage of skilled workers in your field](#shortage-occupations), you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.
+        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/2023_Engpassberufe_EN.pdf), you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21]
     - [ ] **Job experience**  
         You have the skills and experience to do this job. For example, you can't get a Blue Card for a programming job if you have no programming education or experience.
     - [ ] **Permission to do this job**  
@@ -42,23 +42,6 @@ To get a Blue Card, you need...[^18]
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 
 **You do not need to speak German** to get a Blue Card.[^27]
-
-### Requirements for shortage occupations
-
-There is a shortage of these skilled workers in Germany:
-
-- Programmers and IT workers
-- Engineers
-- Architects
-- Doctors (but not dentists)
-- Graphic designers and multimedia designers
-- Mathematicians
-- Natural scientists
-- Urban planners
-
-If you work in one of those occupations, **you can get a Blue Card with a lower salary**. The minimum salary is {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year instead of {{BLUE_CARD_MIN_INCOME|cur}}€.[^21]
-
-If your salary is under {{BLUE_CARD_MIN_INCOME|cur}}€, your Blue Card application take a bit longer, because the *[[Ausländerbehörde]]* must get the [[ZAV]]'s approval.[^24]
 
 ## Blue Card alternatives
 
@@ -343,10 +326,9 @@ You can use your Blue Card to log into online government services. For example, 
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
-[^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://datenbank.nwb.de/Dokument/146138_18g/)
 [^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§42 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
-[^24]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card#:~:text=in%20such%20cases%2C%20the%20federal%20employment%20agency%20(ba)%20must%20approve%20your%20request%20for%20employment.%20)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
