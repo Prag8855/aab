@@ -11,16 +11,18 @@ After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/gu
 
 ## Why you need to register
 
-It's required by law.[^33] When you register your address, you get:
+All German residents must register their address. It's required by law.[^33] [If you can't register your address](#if-you-cant-register-your-address), it can make your life really hard.
+
+When you register your address, you get:
 
 - **A registration certificate** (*[[Anmeldebestätigung]]*)  
     It proves that you live in Berlin. You need it to access many government services. You sometimes need it to get a [bank account](/guides/first-bank-account-in-germany), a SIM card, an internet contract and [health insurance](/guides/german-health-insurance).
 - **A tax ID** (*[Steuer-ID](/glossary/Steueridentifikationsnummer)*)  
     Your employer needs this to calculate your [salary tax](/glossary/Lohnsteuer). You need it to [start a business](/guides/start-a-business-in-germany). You need your children's tax ID to get a [daycare voucher](/glossary/Kitagutschein) and [child benefits](/glossary/Kindergeld).[^0] If you can't register your address, you can still [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 - **A registered address**  
-    The government sends all important letters to your registered address, not anywhere else.
+    The government sends all important letters to your registered address. The government also requires a registered address for some services. For example, you need it to get a *[[Kitagutschein]]*.
 
-The *Anmeldung* is not a [residence permit](/glossary/Aufenthaltstitel). It does not give you the right to [live and work in Germany](/guides/moving-to-berlin). [If you need a residence permit](/guides/residence-permit), you must [apply for it](/guides/residence-permit#how-to-get-a-residence-permit).
+The *Anmeldung* is not a [residence permit](/glossary/Aufenthaltstitel). It does not give you the right to [live and work in Germany](/guides/moving-to-berlin). [If you need a residence permit](/guides/residence-permit) to live in Germany, you must [apply for it](/guides/residence-permit#how-to-get-a-residence-permit).
 
 ## How to register your address
 
@@ -96,7 +98,16 @@ You can also get a tax ID without registering your address.
 
 ## If you can't register your address
 
-Sometimes, you can't do you *Anmeldung* at your current address. If you don't have a registered address, you can't access certain government services. If you just moved to Germany, it can make your life harder.
+Some places don't give you a *[[Wohnungsgeberbestätigung]]* and don't let you do your *Anmeldung*. This is really bad for you.
+
+If you can't do your *Anmeldung*...
+
+- **You can't get a residence permit**  
+    When you apply for a [residence permit](/glossary/Aufenthaltstitel), the *[[Ausländerbehörde]]* asks for a [[Wohnungsgeberbestätigung]]. Without this document, you can't get a residence permit.[^14]
+- **You can't access government services**  
+    Many government services require an *[[Anmeldebestätigung]]*. You can't access those services if you don't officially live in Berlin.
+- **You can't easily verify your address**  
+    It's harder to [open a bank account](/guides/first-bank-account-in-germany) or get a SIM card for your phone. Many services ask for an *[[Anmeldebestätigung]]* to verify your address.
 
 [HomeLike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. They give you more time to find a good, cheap apartment later.
 
@@ -297,3 +308,4 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^45]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=in%20einer%20anderen%20stadt%20oder%20im%20ausland)
 [^46]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=auszug%20eines%20mitglieds%20der%20wohngemeinschaft)
 [^47]: [VIII ZR 371/02](https://www.bmgev.de/mietrecht/urteile/detailansicht/aufnahme-des-lebensgefaehrten-in-die-wohnung/)
+[^14]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023). Multiple relocation consultants (October 2023).
