@@ -2,7 +2,7 @@
 Title: How to get a Blue Card in Germany
 Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
-Date_created: 2023-10-24
+Date_created: 2023-11-18
 ---
 
 This guide shows you how to apply for a [[Blue Card]] in Germany.
