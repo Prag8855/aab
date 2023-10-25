@@ -76,7 +76,7 @@ You can get less unemployment benefits because of a *[Sperrzeit](#the-sperrzeit)
 
 ### Register as a job seeker
 
-Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. To register online, you need a valid electronic ID.[^24]
+Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. To register online, you need a valid electronic ID.[^24] If you have a [residence permit](/glossary/Aufenthaltstitel), and you did not [activate the eID function](/guides/eid-online-ausweisfunktion), you can't register online.
 
 **[Register as a job seeker](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
 

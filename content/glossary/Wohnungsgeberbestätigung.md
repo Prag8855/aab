@@ -11,7 +11,7 @@ Related_guides:
     guides/moving-in.md
 ---
 
-When you [move into an apartment](/guides/moving-in), you get a tenancy confirmation (*Wohnungsgeberbestätigung*). This document proves that you live there. You need it to [register your address](/glossary/Anmeldung).
+When you [move into an apartment](/guides/moving-in), you get a tenancy confirmation (*Wohnungsgeberbestätigung*). This document proves that you live there. You need it to [register your address](/glossary/Anmeldung), or to apply for a [residence permit](/glossary/Aufenthaltstitel).
 
 You get the *Wohnungsgeberbestätigung* from your landlord. If you live in a sublet or a [[WG]], you can also get it from the [main tenant](/glossary/Hauptmieter). They need the landlord's permission first.
 
