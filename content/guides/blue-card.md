@@ -7,6 +7,8 @@ Date_created: 2023-10-24
 
 This guide shows you how to apply for a [[Blue Card]] in Germany.
 
+The Blue Card rules changed in November 2023. This guide shows the new rules.
+
 {% include "_blocks/tableOfContents.html" %}
 
 ## What is a Blue Card?
@@ -32,14 +34,20 @@ To get a Blue Card, you need...[^18]
 
 - [ ] **A job offer in Germany**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your employer must be in Germany. You must also have...
-    - [ ] **A high income**  
-        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/2023_Engpassberufe_EN.pdf), you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21]
+    - [ ] **A high salary**  
+        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/en/pdfs/list-bottleneck-professions-2023), you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32]
     - [ ] **Job experience**  
-        You have the skills and experience to do this job. For example, you can't get a Blue Card for a programming job if you have no programming education or experience.
+        You have the skills and experience to do this job. For example, you can't get a Blue Card for a programming job if you have no programming skills.
     - [ ] **Permission to do this job**  
         You must have all the qualifications and permits to do this job in Germany.[^12] For example, doctors, engineers and lawyers need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if your profession requires specific qualifications.
 - [ ] **A university degree**  
-    Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
+    Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. Your job does not need to be related to your degree.[^24] - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
+
+You do not need a university degree if...[^31]
+
+- [ ] You are an IT specialist
+- [ ] **and** you have at least 3 years of experience
+- [ ] **and** your salary is over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year
 
 **You do not need to speak German** to get a Blue Card.[^27]
 
@@ -68,11 +76,12 @@ You can apply in Germany if...
 
 - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German residence permit, and you want to renew or change it
+- **or** you have a Blue Card from another EU country
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
-You must wait for your Blue Card to start working. You might need to wait a few months with no income. If you have a [job seeker visa](/glossary/Job%20seeker%20visa), you can work 10 hours per week for your new employer while you wait for your Blue Card.[^11]
+You must wait for your Blue Card to start working. You might need to wait a few months with no income. If you have a [job seeker visa](/glossary/Job%20seeker%20visa), you can work 10 hours per week for your new employer while you wait for your Blue Card.[^11] If you have a Blue Card from another EU country for at least 12 months, you can already start working.[^33]
 
 If you don't have a lot of savings, it's cheaper and safer to [apply in your home country](#how-to-apply-in-your-home-country).
 
@@ -84,11 +93,13 @@ If you don't have a lot of savings, it's cheaper and safer to [apply in your hom
 
 * **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you don't need a visa to travel to Germany. You can stay 90 days in Germany without a residence permit.[^9]
 
-* **If you are a citizen of any other country**, you need a [job seeker visa](/glossary/Job%20seeker%20visa) to come to Germany. It's cheaper and easier to [apply for the Blue Card in your home country](#how-to-apply-in-your-home-country).[^19]
-
 * **If you already have a [residence permit](/glossary/Aufenthaltstitel)**, you can stay in Germany. When you apply for a Blue Card, your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon) while you wait for your Blue Card, you don't have to leave Germany.
 
+* **If you have a Blue Card from another EU country**, you can come to Germany without a visa. If you had your Blue Card for at least 12 months, you can already move to German and start working.[^33] After you arrive, you must get a German Blue Card at the *[[Ausländerbehörde]]*.
+
 * **If you have a [tourist visa](/glossary/Schengen%20visa)**, you can't apply for a Blue Card. You can't look for work with a tourist visa. Your Blue Card application will be rejected.[^25]
+
+If these options don't apply to you, you need a [job seeker visa](/glossary/Job%20seeker%20visa) to come to Germany. It's easier to [apply for the Blue Card in your home country](#how-to-apply-in-your-home-country).[^19]
 
 ### 2. Find a job
 
@@ -335,3 +346,7 @@ You can use your Blue Card to log into online government services. For example, 
 [^28]: It depends on your case worker (October 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^30]: [afghanistan.diplo.de](https://afghanistan.diplo.de/blob/2162330/29c38f0a4c71b49d53b2605799224228/eng-merkblatt-erwerbstaetigkeit-data.pdf)
+[^24]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=abandonment%20of%20the%20link%20between%20qualification%20and%20employment)
+[^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
+[^32]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
+[^33]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)

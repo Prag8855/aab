@@ -276,10 +276,10 @@ config.context_globals = {
     # ==============================================================================
 
     # Minimum income (€/y) to get a Blue Card - §18b AufenthG
-    "BLUE_CARD_MIN_INCOME": 2 / 3 * beitragsbemessungsgrenze_west,
+    "BLUE_CARD_MIN_INCOME": 0.5 * beitragsbemessungsgrenze_west,
 
     # Minimum income (€/y) to get a Blue Card in shortage fields - §18b AufenthG
-    "BLUE_CARD_SHORTAGE_MIN_INCOME": 0.52 * beitragsbemessungsgrenze_west,
+    "BLUE_CARD_SHORTAGE_MIN_INCOME": 0.453 * beitragsbemessungsgrenze_west,
 
     # Visa fees (€)
     "SCHENGEN_VISA_FEE": 75,
