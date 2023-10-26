@@ -163,7 +163,7 @@ When you go to your appointment, bring...[^7]
 
 ### 7. Get your Blue Card
 
-Around 6 weeks after your *Ausländerbehörde* appointment,[^22] you will receive two letters:
+{{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
 - **The eID activation code**  
     This letter arrives before your new Blue Card. You can use it to [activate the eID function](#activate-your-eid) of your Blue Card.

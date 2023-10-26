@@ -16,17 +16,15 @@ To start a business in Germany, read [this guide](/guides/become-a-freelancer-in
 
 ### Can you work in Germany?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. Most of the time, you need a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], but there are [many other residence permit options](/guides/residence-permit#residence-permits-to-work).
+You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], but there are [many other options](/guides/residence-permit#residence-permits-to-work).
 
 **[Who needs a residence permit? ➞](/guides/residence-permit)**
 
-It takes around 2 months to get a residence permit, but it can take longer. You can't work before you get your residence permit.[^4] Get your permit before you arrive in Germany. This way, you can start working as soon as you arrive. This saves you a lot of money.
-
-Most employers know that this takes time, and they will wait for you. Some employers hire a relocation consultant to help you.
+It takes {{RESIDENCE_PERMIT_WAIT_TIME}} to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
 
 ### Do you need to speak German?
 
-No, but it helps a lot. You can find English-speaking jobs, but most companies want German speakers.
+**No, but it helps.** You can find English-speaking jobs, but most companies want German speakers.
 
 If you don't speak German, you can still find jobs in...
 
@@ -250,4 +248,3 @@ These people can help you get hired. For example, they can review your resume an
 [^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
 [^2]: [billomat.com](https://www.billomat.com/magazin/jobsuche-steuerlich-absetzen-hier-erfaehrst-du-wie-das-geht/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/bewerbungskosten-koennen-sie-von-der-steuer-absetzen.html), [karrierebibel.de](https://karrierebibel.de/bewerbungskosten-absetzen/)
 [^3]: [§614 BGB](https://www.gesetze-im-internet.de/bgb/__614.html)
-[^4]: [§4a Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html), [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php)
