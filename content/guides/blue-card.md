@@ -81,7 +81,7 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
-You must wait for your Blue Card to start working. You might need to wait a few months with no income. If you have a [job seeker visa](/glossary/Job%20seeker%20visa), you can work 10 hours per week for your new employer while you wait for your Blue Card.[^11] If you have a Blue Card from another EU country for at least 12 months, you can already start working.[^33]
+You must wait for your Blue Card to start working.[^35] You might need to wait a few months with no income. If you have a [job seeker visa](/glossary/Job%20seeker%20visa), you can work 10 hours per week for your new employer while you wait for your Blue Card.[^11] If you have a Blue Card from another EU country for at least 12 months, you can already start working.[^33]
 
 If you don't have a lot of savings, it's cheaper and safer to [apply in your home country](#how-to-apply-in-your-home-country).
 
@@ -134,7 +134,7 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 The application fee is {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8]
 
-After you pay and send your application, you will get a PDF by email. This is the proof of your application. You must save it for later.
+After you pay and send your application, you will get a PDF by email. This is the proof of your application. Save it for later.
 
 ### 5. Wait
 
@@ -165,14 +165,14 @@ When you go to your appointment, bring...[^7]
 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
-- **The eID activation code**  
-    This letter arrives before your new Blue Card. You can use it to [activate the eID function](#activate-your-eid) of your Blue Card.
-- **Your new Blue Card**  
-    You will get your Blue Card by post, or you will get an invitation to collect your Blue Card at the *Ausländerbehörde*.[^28]
+1. **The eID activation code**  
+    This letter comes first. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
+2. **Your new Blue Card**  
+    Around 2 weeks later, you receive your Blue Card, or an invitation to collect your Blue Card at the *Ausländerbehörde*.[^28]
 
-Your Blue Card is a plastic card. It's usually **valid for 4 years**.[^17] It can be valid for a shorter time if you have a limited work contract. For example, if you have a 2 year work contract, your Blue Card will be valid for 2 years + 3 months.[^3]
+Your new Blue Card is a plastic card. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card will be valid for 2 years + 3 months.[^3] The expiration date is written on the card.
 
-Verify the information on your new Blue Card. *Ausländerbehörde* employees sometimes make mistakes.
+Verify the information on your Blue Card. *Ausländerbehörde* employees sometimes make mistakes.
 
 ### 8. Start working in Germany
 
@@ -348,4 +348,5 @@ You can use your Blue Card to log into online government services. For example, 
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
 [^32]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
 [^33]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
-[^34]: Multiple relocation consultants (October 2023)
+[^34]: [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
+[^35]: [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
