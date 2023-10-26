@@ -180,19 +180,19 @@ Verify the information on your new Blue Card. *Ausländerbehörde* employees som
 
 ## How to apply in your home country
 
-You can apply for a Blue Card **before you move to Germany**.[^26] You must apply at the German embassy or consulate. You will get a [temporary visa](/glossary/National%20Visa) for up to 1 year. When you get your temporary visa, you can move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working). After you arrive, you must convert your temporary visa to a [residence permit](/glossary/Aufenthaltstitel).
+You can apply for a Blue Card **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
 
-This is **cheaper and safer**, because you can start working as soon as you arrive.
-
-The Blue Card application process is a little different at each embassy and consulate.
+1. Apply for a Blue Card at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen). The requirements are different in each country.
+2. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+3. After you arrive in Germany, convert your National Visa into a Blue Card.
 
 ### 1. Get an appointment at the German embassy or consulate
 
-Get an appointment at your local German embassy or consulate. It can be really hard to find an appointment. You might only get an appointment a few months later. Start looking as soon as you can.
+Get an appointment at your local German embassy or consulate. It can be hard to find an appointment. Your appointment might be in a few months.
 
 **[Find your German embassy or consulate ➞](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)**
 
-### 2. Prepare for your visa interview
+### 2. Prepare for your interview
 
 Before your embassy or consulate appointment, you must...
 
@@ -205,29 +205,27 @@ Before your embassy or consulate appointment, you must...
 - [ ] **Prepare the [required documents ↓](#required-documents)**  
     This takes time. Start as soon as you can.
 
-### 3. Go to your visa interview
+### 3. Go to your interview
 
 Go to your embassy or consulate interview, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
-### 4. Receive your temporary visa
+### 4. Receive your National Visa
 
-A few weeks (or months) later, you must go to the embassy or consulate again. They will give you a temporary visa. It's [a sticker in your passport](/images/aufenthaltstitel.jpg).
-
-With the temporary visa, you can [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. It's [a sticker in your passport](/images/aufenthaltstitel.jpg). This temporary visa that lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 
 ### 5. Come to Germany and start working
 
-You can now travel to Germany. Your temporary visa allows you to work.
+With a National Visa, you can travel to Germany and start working.
 
-After you arrive in Germany, you should [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/first-bank-account-in-germany).
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/first-bank-account-in-germany). These things will be useful later.
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-### 6. Convert your visa to a residence permit
+### 6. Convert your National Visa into a Blue Card
 
-Your temporary visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must go to the *[[Ausländerbehörde]]* and convert your temporary visa to a [residence permit](/glossary/Aufenthaltstitel).
+Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
 
 You will get a Blue Card residence permit. It's valid for up to 4 years. You can [renew your Blue Card](#how-to-renew-your-blue-card) before it expires.
 
@@ -277,7 +275,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 ### Bring your family to Germany
 
-As a German resident, you can bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members can work, freelance or start a business in Germany.
+You can bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa). Your family members can work, freelance or start a business in Germany.
 
 ### How to renew your Blue Card
 
@@ -285,7 +283,7 @@ Your Blue Card is valid for up to 4 years. You can renew your Blue Card before i
 
 ### If you change jobs
 
-If you change jobs, you must tell the Ausländerbehörde. You might need permission from the Ausländerbehörde to start your new job.
+If you change jobs, you must tell the *Ausländerbehörde*. You might need their permission to work for a different company.
 
 **[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
@@ -350,3 +348,4 @@ You can use your Blue Card to log into online government services. For example, 
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
 [^32]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
 [^33]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
+[^34]: Multiple relocation consultants (October 2023)
