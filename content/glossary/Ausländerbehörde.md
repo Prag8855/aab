@@ -17,4 +17,9 @@ The immigration office (*Ausländerbehörde*, *Landesamt für Einwanderung*, *LE
 
 In Berlin, the official name is *Landesamt für Einwanderung*, but most people call it the *Ausländerbehörde*.
 
+There are 2 *Ausländerbehörde* locations in Berlin:
+
+- [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/)
+- [Keplerstraße](https://service.berlin.de/standort/327437/)
+
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
