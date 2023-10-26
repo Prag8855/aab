@@ -70,7 +70,10 @@ If you can't get a Blue Card, there are other ways to work in Germany:
 
 ## How to apply in Berlin
 
-You can apply for a Blue Card **after you move to Germany**: first you come to Germany, then you apply for a Blue Card at your local *[[Ausländerbehörde]]*.
+You can apply for a Blue Card **after you move to Germany**:
+
+1. Come to Germany
+2. Apply for a Blue Card at your local *[[Ausländerbehörde]]*
 
 You can apply in Germany if...
 
@@ -81,11 +84,11 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
-While you wait for your Blue Card, you can't start working.[^35] You might need to wait a few months with no income. If you have a Blue Card from another EU country since at least 12 months, you can already start working.[^33] If you have a [job seeker visa](/glossary/Job%20seeker%20visa), you can already work 10 hours per week for your new employer.[^11]
+Usually, you can't start working before you get your Blue Card.[^35] You might need to wait a few months with no income. It's cheaper and safer to [apply in your home country](#how-to-apply-in-your-home-country).
 
-If you don't have a lot of savings, it's cheaper and safer to [apply in your home country](#how-to-apply-in-your-home-country).
+**If you have a Blue Card from another EU country** since at least 12 months, you can start working before you get your Blue Card.[^33]
 
-**The instructions below are only for Berlin**. The process is different in other German cities.
+**If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**, you can work 10 hours per week for your new employer while you wait for your Blue Card.[^11]
 
 ### 1. Come to Germany
 
@@ -95,7 +98,7 @@ If you don't have a lot of savings, it's cheaper and safer to [apply in your hom
 
 * **If you already have a [residence permit](/glossary/Aufenthaltstitel)**, you can stay in Germany. When you apply for a Blue Card, your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon) while you wait for your Blue Card, you don't have to leave Germany.
 
-* **If you have a Blue Card from another EU country**, you can come to Germany without a visa. If you had your Blue Card for at least 12 months, you can already move to German and start working.[^33] After you arrive, you must get a German Blue Card at the *[[Ausländerbehörde]]*.
+* **If you have a Blue Card from another EU country**, you can come to Germany without a visa. If you had your Blue Card for at least 12 months, you can already move to Germany and start working.[^33] After you arrive, you must get a German Blue Card at the *[[Ausländerbehörde]]*.
 
 * **If you have a [tourist visa](/glossary/Schengen%20visa)**, you can't apply for a Blue Card. You can't look for work with a tourist visa. Your Blue Card application will be rejected.[^25]
 
