@@ -19,4 +19,4 @@ The [tourist visa](/glossary/Schengen%20visa) is not a National Visa.
 
 **[More about visas and residence permits](/guides/residence-permit)**
 
-[^1]: https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php
+[^1]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)

@@ -98,7 +98,7 @@ Usually, you can't start working before you get your Blue Card.[^35] You might n
 
 * **If you already have a [residence permit](/glossary/Aufenthaltstitel)**, you can stay in Germany. When you apply for a Blue Card, your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon) while you wait for your Blue Card, you don't have to leave Germany.
 
-* **If you have a Blue Card from another EU country**, you can come to Germany without a visa. If you had your Blue Card for at least 12 months, you can already move to Germany and start working.[^33] After you arrive, you must get a German Blue Card at the *[[Ausländerbehörde]]*.
+* **If you have a Blue Card from another EU country**, you can come to Germany without a visa.[^38] If you had your Blue Card for at least 12 months, you can already move to Germany and start working.[^33] After you arrive, you must get a German Blue Card at the *[[Ausländerbehörde]]*.
 
 * **If you have a [tourist visa](/glossary/Schengen%20visa)**, you can't apply for a Blue Card. You can't look for work with a tourist visa. Your Blue Card application will be rejected.[^25]
 
@@ -218,7 +218,7 @@ In a few weeks (or a few months), you must go to the embassy or consulate again.
 
 ### 5. Come to Germany and start working
 
-With a National Visa, you can travel to Germany and start working.
+With a National Visa, you can travel to Germany and start working.[^40]
 
 After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/first-bank-account-in-germany). These things will be useful later.
 
@@ -229,6 +229,8 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 ### 6. Convert your National Visa into a Blue Card
 
 Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
+
+In Berlin, you can convert your National Visa **6 weeks before it expires**. The *Ausländerbehörde* sometimes refuse to do it sooner.[^39]
 
 You will get a Blue Card residence permit. It's valid for up to 4 years. You can [renew your Blue Card](#how-to-renew-your-blue-card) before it expires.
 
@@ -326,10 +328,10 @@ You can use your Blue Card to log into online government services. For example, 
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card%2C%20paypal%2C%20giropay)
-[^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/)
 [^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
-[^13]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html)
+[^13]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20travel%20to%20the%20following%20countries%20in%20the%20schengen%20area)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [§18 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^16]: [germany-visa.org](https://www.germany-visa.org/family-reunion-visa/)
@@ -345,13 +347,16 @@ You can use your Blue Card to log into online government services. For example, 
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: It depends on your case worker (October 2023)
-[^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [afghanistan.diplo.de](https://afghanistan.diplo.de/blob/2162330/29c38f0a4c71b49d53b2605799224228/eng-merkblatt-erwerbstaetigkeit-data.pdf)
 [^24]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=abandonment%20of%20the%20link%20between%20qualification%20and%20employment)
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
 [^32]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
 [^33]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
-[^34]: [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
-[^35]: [berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
+[^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
+[^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act)
 [^37]: Citation needed
+[^38]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=if%20you%20have%20a%20residence%20title%20of%20another%20schengen%20country)
+[^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), Elliot Herman [relocation consultant](https://www.sorted.berlin/) (October 2023)
+[^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
