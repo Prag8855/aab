@@ -41,7 +41,7 @@ Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which reside
 - **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/how-to-get-a-german-freelance-visa)  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
 - **[[Student visa]]**  
-    For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies.
+    For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies. You can work while you study.
 - **[[Internship visa]]**  
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
 - **[[Job seeker visa]]**  
