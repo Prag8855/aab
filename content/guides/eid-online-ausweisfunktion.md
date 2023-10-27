@@ -19,7 +19,7 @@ In Berlin, almost no other services use the eID.
 
 After you apply for your residence permit, you will get a letter with a PIN for your eID. It arrives 2 weeks before your new residence permit.
 
-After you receive your residence permit, you must activate it at the *[[Ausländerbehörde]]*:[^2]
+After you receive your residence permit, you must activate the eID function at the *[[Ausländerbehörde]]*:[^2]
 
 1. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment). There is no form or appointment category for this; you must use the general contact form. You can't activate your residence permit at the *[[Bürgeramt]]*.
 2. Receive an appointment at the Ausländerbehörde.
