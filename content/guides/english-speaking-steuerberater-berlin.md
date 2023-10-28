@@ -123,7 +123,6 @@ If you want the flexibility of a freelancer and the stability of a job, it's a g
 ### Other lists
 
 - [DATEV Kammersuchservice](http://www.datev.de/kasus/Start?KammerId=5&Suffix1=Berlin&Suffix2=Berlin) - search tax advisors by language
-- [tax-advisor.co](https://tax-advisor.co/de/berlin) - hand-compiled list with language filter
 
 [^0]: [Finanztip](https://www.finanztip.de/steuerberatungskosten/)
 [^1]: [Suat Göydeniz](https://stb-goeydeniz.de/) (2022)
