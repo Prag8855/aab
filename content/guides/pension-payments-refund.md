@@ -4,7 +4,7 @@ Short_title: How to get a pension refund
 Description: If you left Germany, you get your German pension payments back. It can be worth thousands of euros.
 Date_created: 2020-06-04
 Related_reviews:
-    reviews/pension-payments-refund/johannes-kühn.m
+    reviews/pension-payments-refund/johannes-kühn.md
     reviews/pension-payments-refund/christian-haas.md
 ---
 
