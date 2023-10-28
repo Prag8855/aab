@@ -5,12 +5,6 @@ Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
 ---
 
-This guide shows you how to apply for a [[Blue Card]] in Germany.
-
-{% include "_blocks/tableOfContents.html" %}
-
-## What is a Blue Card?
-
 The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltstitel) for skilled workers.
 
 With a Blue Card, you can...
@@ -20,9 +14,13 @@ With a Blue Card, you can...
 - Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)[^14]
 - Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
 
+This guide explains how to apply for a [[Blue Card]] in Berlin or in your home country.
+
+{% include "_blocks/tableOfContents.html" %}
+
 ## Who needs a Blue Card?
 
-If you are not a citizen of the [[European Union]], the [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The Blue Card is a type of residence permit.
+The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). If you are not a citizen of the [EU](/glossary/European%20Union), the [[EEA]] or Switzerland, you need a residence permit to live in Germany.
 
 **[Who needs a residence permit ➞](/guides/residence-permit)**
 
@@ -166,10 +164,10 @@ During the appointment, they take your fingerprints for your Blue Card.
 
 1. **The eID activation code**  
     This letter comes first. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
-2. **Your new Blue Card**  
+2. **Your Blue Card**  
     Around 2 weeks later, you receive your Blue Card, or an invitation to collect your Blue Card at the *Ausländerbehörde*.[^28]
 
-Your new Blue Card is a plastic card. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card will be valid for 2 years + 3 months.[^3] The expiration date is written on the card.
+Your Blue Card is a plastic card. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3] The expiration date is written on the card.
 
 Verify the information on your Blue Card. *Ausländerbehörde* employees sometimes make mistakes.
 
@@ -210,7 +208,7 @@ Go to your interview at the German embassy or consulate, and give your documents
 
 ### 4. Receive your National Visa
 
-In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. It's [a sticker in your passport](/images/aufenthaltstitel.jpg). This temporary visa that lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. This temporary visa that lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 
 ### 5. Come to Germany and start working
 
