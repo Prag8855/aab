@@ -277,10 +277,10 @@ config.context_globals = {
 
     "RESIDENCE_PERMIT_WAIT_TIME": "6 to 10 weeks",
 
-    # Minimum income (€/y) to get a Blue Card - §18b AufenthG
+    # Minimum income (€/y) to get a Blue Card - §18g AufenthG
     "BLUE_CARD_MIN_INCOME": 0.5 * beitragsbemessungsgrenze_west,
 
-    # Minimum income (€/y) to get a Blue Card in shortage fields - §18b AufenthG
+    # Minimum income (€/y) to get a Blue Card in shortage fields - §18g AufenthG
     "BLUE_CARD_SHORTAGE_MIN_INCOME": 0.453 * beitragsbemessungsgrenze_west,
 
     # Visa fees (€)
