@@ -29,7 +29,7 @@ The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). If yo
 To get a Blue Card, you need...[^18]
 
 - [ ] **A job offer in Germany**  
-    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your employer must be in Germany. You must also have...
+    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your employer must be in Germany. The job must be for 6 months or longer.[^24] You must also have...
     - [ ] **A high salary**  
         Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/en/pdfs/list-bottleneck-professions-2023), you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, you salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32]
     - [ ] **Job experience**  
@@ -329,14 +329,14 @@ You can use your Blue Card to log into online government services. For example, 
 [^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
 [^13]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20travel%20to%20the%20following%20countries%20in%20the%20schengen%20area)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
-[^15]: [§18 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
+[^15]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^16]: [germany-visa.org](https://www.germany-visa.org/family-reunion-visa/)
 [^12]: [§18 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^17]: [§18 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
-[^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://datenbank.nwb.de/Dokument/146138_18g/)
+[^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§42 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
@@ -345,11 +345,12 @@ You can use your Blue Card to log into online government services. For example, 
 [^28]: It depends on your case worker (October 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
-[^32]: [§18g AufenthG](https://datenbank.nwb.de/Dokument/146138_18g/), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
-[^33]: [§18i AufenthG](https://datenbank.nwb.de/Dokument/146138_18i/), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
+[^32]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
+[^33]: [§18i AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18i.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^37]: Citation needed
 [^38]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=if%20you%20have%20a%20residence%20title%20of%20another%20schengen%20country)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
+[^24]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
