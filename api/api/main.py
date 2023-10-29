@@ -169,27 +169,6 @@ def set_reminder(reminder_type):
     return {'status': 'success'}
 
 
-@app.route("/reminders", methods=['GET'])
-def get_reminders():
-    api_key = request.args.get('key', default='', type=str)
-    if api_key != '2258374419':
-        raise BadRequest()
-
-    messages = ScheduledMessage.query.all()
-    json_messages = []
-    for message in messages:
-        json_messages.append({
-            'messageType': message.message_type,
-            'recipients': message.recipients.split(','),
-            'deliveryDate': message.delivery_date,
-            'creationDate': message.creation_date,
-            'isSent': message.is_sent,
-            'templateValues': json.loads(message.template_values),
-        })
-
-    return {'messages': json_messages}
-
-
 @app.route("/forms/<form_type>", methods=['POST'])
 def send_form(form_type):
     message_type = f'forms/{form_type}'
