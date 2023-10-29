@@ -10,6 +10,7 @@ from werkzeug.exceptions import HTTPException, BadRequest, NotFound
 import config
 import logging
 import os
+import sqlite3
 import requests
 
 logging.basicConfig(**config.logging_config)
@@ -137,6 +138,24 @@ def send_queued_messages():
     else:
         logger.info(log_message)
     db.session.commit()
+
+
+def remove_old_personal_data():
+    connection = sqlite3.connect(
+        "/var/db/api.db",
+        detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES
+    )
+    cursor = connection.cursor()
+    cursor.execute('''
+        UPDATE scheduled_message
+        SET
+            template_values = NULL,
+            recipients = substr(recipients,1, 4) || '...@...'
+        WHERE creation_date < datetime('now', '-90 days')
+        AND is_sent = 1
+    ''')
+    connection.commit()
+    logger.info('Removed old personal data')
 
 
 @app.route("/reminders/<reminder_type>", methods=['POST'])
