@@ -172,7 +172,9 @@ Your foreign driving licence [might be valid in Germany](/guides/convert-to-germ
 
 Explore your new city! [Get a bicycle](/guides/bicycle-in-berlin) and explore everything inside and outside the *[Ring](/glossary/Ringbahn)*.
 
-If you move in the winter, Berlin will seem a little grey, but don't panic. It will be much nicer in the summer.
+If you move in the winter, Berlin can seem a little grey, but don't panic; it's much nicer in the summer.
+
+Follow [20percent.berlin](https://20percent.berlin/), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [Handpicked Berlin](https://handpickedberlin.com/) to know what's happening in Berlin.
 
 **[What to see and do in Berlin ➞](/guides/visit-berlin#what-to-see-and-do-in-berlin)**
 
@@ -210,6 +212,12 @@ If you don't speak German, you can still get help in English:
 - [English-speaking **barbers** and hair salons in Berlin](/guides/hairdressers-hairstylists-barbers-berlin)
 - [English-speaking **gynaecologists** in Berlin](/guides/english-speaking-gynecologists-berlin)
 
+### Find a doctor
+
+In Germany, when you have a health problem, you go to your *[[Hausarzt]]*. Find your *Hausarzt* before you need one. It will be easier to see a doctor when you are sick. This is useful when you need a [sick note](/glossary/Krankschreibung) for your employer.
+
+**[Find an English-speaking doctor ➞](/guides/english-speaking-doctors-berlin)**
+
 ## A new life in Germany
 
 After you are settled in Berlin, you can make new plans.
@@ -222,7 +230,9 @@ You can be self-employed in Germany. It's a little scary, but it's worth it.
 
 ### Permanent residence and citizenship
 
-After a few years in Germany, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis) and German citizenship. This gives you more freedom, and more security. You don't need to renew your residence permit. You can stay in Germany even if you lose your job.
+After a few years in Germany, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis) and German citizenship. Permanent residence gives you more freedom and more security. You don't need to renew your residence permit. You can stay in Germany even if you lose your job.
+
+With most [residence permits](/glossary/Aufenthaltstitel), you can get permanent residence after 5 years. If you have a [[Blue Card]], you can get permanent residence in 21 or 33 months.
 
 [^0]: [teltarif.de](https://www.teltarif.de/roaming/fair-use-policy.html)
 [^1]: [naylorengineering.com](http://web.archive.org/web/20220128231355/http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?utm_source=reddit&utm_medium=web2x&context=3)
