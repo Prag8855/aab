@@ -11,30 +11,32 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-All German residents must have health insurance. You need it to get a [residence permit](/glossary/Aufenthaltstitel).
-
-This guide explains how German health insurance works, and helps you choose the best health insurance for your situation.
+This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How German health insurance works
 
-You pay for health insurance every month. When you are sick, your health insurance pays for your healthcare. It covers all necessary healthcare, including medication, therapy and medical operations.
+All German residents must have health insurance.
 
-Germany has two health insurance systems:
+You pay for health insurance every month. When you are sick, your health insurance pays for all necessary healthcare. It covers medical operations, therapy and medication.
 
-- **Public health insurance** (*[[gesetzliche Krankenversicherung]]* or *[GKV](/glossary/gesetzliche%20Krankenversicherung)*)  
-    Managed by non-profit health insurance funds. It costs a percentage of your income. The price and coverage is almost the same between insurers. It's sometimes called statutory health insurance.
-- **Private health insurance** (*[[private Krankenversicherung]]* or *[PKV](/glossary/private%20Krankenversicherung)*)  
-    Managed by private insurance companies. The cost depends on your age and health condition when you sign up. The coverage is more flexible, and the costs vary a lot.
+There are 2 health insurance systems:
 
-Both systems are good. Each system has advantages and disadvantages. It really depends on your situation. This is why you should talk to an expert before choosing.
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    Managed by non-profit [health insurance funds](/glossary/Krankenkasse). The cost is a percentage of your income. The cost and coverage are almost the same with every public health insurer.
+- **[Private health insurance](/glossary/private%20Krankenversicherung)**  
+    Managed by private insurance companies. The cost depends on your age and health condition when you sign up. The coverage is more flexible, and the cost varies a lot.
+
+**Both systems are good.** The best option depends on your situation. Most people can only choose public health insurance.
 
 ## Your options
 
-Your insurance options depend on your occupation and your income. Use my [health insurance calculator](/tools/health-insurance-calculator) or Feather's [insurance recommendation tool](/out/feather-calc) to see your options.
+To know your options, use my health insurance calculator.
 
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+{% include '_blocks/healthInsuranceCalculator.html' %}
+
+Your options depend on your situation and your income:
 
 - **If you are an employee**, your options depend on your income. Your employer does not decide which insurance you can have. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance. 
     - **If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance.
@@ -48,7 +50,7 @@ Your insurance options depend on your occupation and your income. Use my [health
 
 ## Public health insurance
 
-89% of German residents have public health insurance (*[[gesetzliche Krankenversicherung]]* or *[GKV](/glossary/gesetzliche%20Krankenversicherung)*).[^2]
+89% of German residents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2]
 
 ### Cost of public health insurance
 
@@ -105,13 +107,11 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 ### Which public health insurance should I choose?
 
-**It does not really matter.** Public health insurance prices and coverage are set by law. [Public health insurance companies](/glossary/Krankenkasse) are almost the same. The biggest difference between them is their extra contribution (*[[Zusatzbeitrag]]*), and their customer service.[^15]
+**It does not really matter.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15]
 
-If you don't speak German, [Techniker Krankenkasse](/out/signup-tk) and [Barmer](/out/barmer) speak English.
+If you don't speak German, [Techniker Krankenkasse](/out/signup-tk) and [Barmer](/out/barmer) speak English. I used [Techniker Krankenkasse](/out/signup-tk) for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
 
-I was with [Techniker Krankenkasse](/out/signup-tk) for 6 years. [I was very happy with them](/guides/techniker-krankenkasse-review). [AOK](/out/feather-aok), [Barmer](/out/barmer) and [DAK](/out/dak) are three other big public health insurers.
-
-A health insurance broker can help you choose health insurance. Their help is free.
+[Ask an expert](#insurance-brokers) to help you choose. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
@@ -132,8 +132,6 @@ After you join, your health does not affect the cost of your insurance. If you g
 You can pay more and get better coverage. You can choose a higher deductible (*[[Selbstbeteiligung]]*) and pay less.[^17] Some insurers give you a discount if you don't use your insurance.
 
 **[Quick price estimation](/out/feather-private-estimate)** - Feather
-
-**[Price comparison tool](/out/tarifcheck-health)** (in German) - Tarifcheck
 
 Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself.[^18]
 
@@ -197,8 +195,6 @@ The best way to choose is to ask a health insurance broker. Their help is free. 
 [Feather](/out/feather-private) also offers private health insurance. They helped me get private health insurance, and I trust them. They are a health insurance broker, not a health insurer. This means that they sell insurance from different companies. They speak English. Their insurance works for [residence permit](/glossary/Aufenthaltstitel) applications.
 
 **[Quick price estimation](/out/feather-private-estimate)** - Feather
-
-**[Price comparator](/out/tarifcheck-health)** (in German) - Tarifcheck
 
 ### How to switch to public health insurance
 
