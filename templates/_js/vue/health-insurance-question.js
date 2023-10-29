@@ -139,7 +139,7 @@ Vue.component('health-insurance-question', {
 						<option value="other">Other</option>
 					</select>
 				</div>
-				<div class="form-group" v-if="!income">
+				<div class="form-group" v-if="income === undefined">
 					<span class="label"></span>
 					<div class="input-group">
 						<label class="checkbox">
@@ -147,7 +147,7 @@ Vue.component('health-insurance-question', {
 						</label>
 					</div>
 				</div>
-				<hr v-if="!income && !occupation">
+				<hr v-if="income === undefined && !occupation">
 				<div class="form-group required">
 					<label :for="uid('name')">
 						Name
