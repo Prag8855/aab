@@ -4,7 +4,14 @@ German_term: Fragebogen zur steuerlichen Erfassung
 English_term: Tax assessment form
 Description: 
 Date_created: 2018-07-31
-Related_guides: guides/german-tax-id-steuernummer.md, guides/handelsregisternummer-germany.md, guides/fragebogen-zur-steuerlichen-erfassung.md, guides/freiberufler-or-gewerbe.md, guides/start-a-business-in-germany.md, guides/website-compliance-germany.md
+Related_guides:
+    guides/start-a-business-in-germany.md
+    guides/german-tax-id-steuernummer.md
+    guides/handelsregisternummer-germany.md
+    guides/fragebogen-zur-steuerlichen-erfassung.md
+    guides/freiberufler-or-gewerbe.md
+    guides/taxes.md
+    guides/website-compliance-germany.md
 ---
 
 When you [start a business in Germany](/guides/start-a-business-in-germany), you must fill the *Fragebogen zur steuerlichen Erfassung*. This form is how you register your business with the *[[Finanzamt]]*.

@@ -19,7 +19,7 @@ In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) 
 
 {% include '_blocks/taxCalculator.html' %}
 
-**[How taxes work ➞](/tools/tax-calculator#the-taxes-you-pay-in-germany)**
+**[How taxes work ➞](/guides/taxes)**
 
 **[How to pay less taxes ➞](/guides/saving-money-germany#taxes-and-social-contributions)**
 
@@ -156,7 +156,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children.
 
-Use my [tax calculator](/tools/tax-calculator) to calculate your [net income](/glossary/Netto%20income).
+**[Calculate your taxes ➞](/tools/tax-calculator)**
 
 | Description | Monthly | Yearly  |
 |-------------|--------:|--------:|

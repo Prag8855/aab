@@ -7,6 +7,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/english-speaking-steuerberater-berlin.md
     guides/steuerberater-vs-buchhalter.md
+    guides/taxes.md
     guides/german-tax-software.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/german-versicherungsnummer.md

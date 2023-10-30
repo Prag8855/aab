@@ -4,7 +4,11 @@ German_term: Scheinselbstständigkeit
 English_term: Fake self-employment
 Description: When you are hired as a freelancer, but work like an employee.
 Date_created: 2018-07-31
-Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/become-a-freelancer-in-germany.md, guides/ksk-kuenstlersozialkasse.md
+Related_guides:
+    guides/start-a-business-in-germany.md
+    guides/how-to-get-a-german-freelance-visa.md
+    guides/become-a-freelancer-in-germany.md
+    guides/ksk-kuenstlersozialkasse.md
 ---
 
 Some employers hire "freelancers", but treat them like employees. This is called fake self-employment (*Scheinselbstständigkeit*).

@@ -24,7 +24,7 @@ Benefits of a working time account:
 - **You keep your residence permit**  
     If you quit your job, you might lose your [residence permit](/glossary/Aufenthaltstitel). The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] are tied to your job. After a few months without a job, you will need to leave Germany. With the working time account, you keep your job, so that's not a problem.
 - **You pay less income tax**  
-    You pay less [income tax](/glossary/Einkommensteuer) on 5 × 80% of your salary than on 4 × 100% of your salary. If you have a 50,000€ salary, you save around 5,200€ in income tax. [Calculate it yourself](/tools/tax-calculator).
+    You pay less [income tax](/glossary/Einkommensteuer) on 5 × 80% of your salary than on 4 × 100% of your salary. If you have a 50,000€ salary, you save around 5,200€ in income tax. - [Calculate your income tax](/tools/tax-calculator).
 
 Disadvantages:
 

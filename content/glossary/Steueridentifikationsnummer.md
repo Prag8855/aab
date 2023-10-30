@@ -10,6 +10,7 @@ Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/start-a-business-in-germany.md
+    guides/taxes.md
     guides/anmeldung-in-english-berlin.md
     guides/moving-to-berlin.md
 ---

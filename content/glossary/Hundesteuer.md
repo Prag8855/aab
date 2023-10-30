@@ -4,7 +4,12 @@ German_term: Hundesteuer
 English_term: Dog tax
 Description: 
 Date_created: 2020-12-17
-Related_guides: guides/abmeldung-deregister-in-berlin.md, guides/moving-out.md, guides/pet-ownership.md, guides/hundesteuer.md
+Related_guides:
+    guides/abmeldung-deregister-in-berlin.md
+    guides/moving-out.md
+    guides/pet-ownership.md
+    guides/hundesteuer.md
+    guides/taxes.md
 ---
 
 The dog tax (*Hundesteuer*) is a tax you pay when you own a dog in Berlin.
