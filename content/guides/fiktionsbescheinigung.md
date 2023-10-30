@@ -28,6 +28,8 @@ For example, the *[[Ausländerbehörde]]* can give you a *Fiktionsbescheinigung*
 - **By email**  
     [Email the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde). In your email, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] Explain why this trip is important. Attach proof of your travel plans, like plane tickets or an invitation.
 
+If they refuse to give you a *Fiktionsbescheinigung*, you must insist. It's your right and they have no reason to refuse.[^6]
+
 There is a fee of around 20€. Sometimes, you get the *Fiktionsbescheinigung* by post. Sometimes you must pick it up at the *Ausländerbehörde*.[^1] This can take a few weeks.
 
 If you currently have a [tourist visa](/glossary/Schengen%20visa), you can't get a *Fiktionsbescheinigung*. You can't convert a tourist visa to a residence permit. You must apply for a residence permit in your home country.[^3]
@@ -61,3 +63,4 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 [^4]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)
 [^5]: [twitter.com](https://twitter.com/Sarah_Kennedy03/status/1638523917403934722), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (June 2023), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (June 2023), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^6]: [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), confirmed by a relocation consultant (October 2023)
