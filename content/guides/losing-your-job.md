@@ -266,6 +266,14 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
+### Ask for a pension refund
+
+When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
+
+{% include '_blocks/pensionRefundCalculator.html' %}
+
+**[How to get a pension payments refund ➞](/guides/pension-payments-refund)**
+
 ## Checklist
 
 - [ ] Give your resignation letter, if you quit
@@ -280,6 +288,7 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
     - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
     - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
     - [ ] Health certificate (*Gesundheitszeugnis*), if you work in gastronomy
+- [ ] If you leave Germany, [get a pension payments refund](/guides/pension-payments-refund)
 
 ## Need help?
 
