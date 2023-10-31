@@ -109,6 +109,30 @@ Investment income is also subject to the [church tax](/glossary/Kirchensteuer) a
 
 All German households must pay the [TV tax](/glossary/Rundfunkbeitrag). If you run a business, you might need to pay the [trade tax](/glossary/Gewerbesteuer). Most things you buy have the [value added tax](/glossary/Umsatzsteuer) included in the price. There is also the [vehicle tax](/glossary/Kraftfahrzeugsteuer), the [dog tax](/glossary/Hundesteuer), [property tax](/glossary/Grundsteuer) and a few others.
 
+## Taxes for businesses
+
+If you are self-employed, you must pay...
+
+- [Income and salary tax](#income-and-salary-tax)
+- [Health insurance](#health-insurance)
+- [Nursing care insurance](#nursing-care-insurance)
+- [Church tax](#church-tax)
+- [Solidarity surcharge](#solidarity-surcharge)
+
+You can choose to pay...
+
+- [Public pension insurance](#public-pension-insurance)
+- [Unemployment insurance](#unemployment-insurance)
+
+Your business must also pay...
+
+- [Trade tax](/glossary/Gewerbesteuer) - [More information](/guides/gewerbesteuer)
+- [Value Added Tax](/glossary/Umsatzsteuer) (VAT) - [More information](/guides/value-added-tax)
+
+**[Cost of running a business ➞](/guides/start-a-business-in-germany#the-cost-of-running-a-business)**
+
+Since you are self-employed, your employer does not pay half of your health insurance, pension insurance and unemployment insurance. This means that you pay twice as much for social contributions.
+
 ## German tax classes
 
 Your tax class affects how your [salary tax](/glossary/Lohnsteuer) is calculated. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only changes how much income tax you pay *in advance*, as salary tax.
