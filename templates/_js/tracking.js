@@ -4,6 +4,9 @@ window.plausible = window.plausible || function() { (window.plausible.q = window
 // Log frontend errors to the server
 window.addEventListener('error', e => {
 	try{
+		if(e.message.includes('r["@context"]')){  // Safari JSON-LD parsing error
+			return;
+		}
 		navigator.sendBeacon(
 			'/api/error', 
 			`${e.filename.replace('{{ site_url }}', '')}:${e.lineno}.${e.colno} - ${e.message}`
