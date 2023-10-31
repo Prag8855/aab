@@ -11,6 +11,8 @@ This guide explains how taxes work in Germany, and how to pay less taxes.
 
 ## Tax calculator
 
+This tax calculator shows your salary after taxes. It works for employees, students and freelancers.
+
 {% include "_blocks/taxCalculator.html" %}
 
 ## The taxes you pay in Germany
@@ -40,6 +42,8 @@ All German residents pay income tax (*[[Einkommensteuer]]*). This tax is a perce
 If you earn less than {{GRUNDFREIBETRAG|cur}}€ per year, you pay no income tax. If you earn the [median income](/guides/salaries-in-germany#median-income), your income tax is around 18% of your income. The maximum income tax is {{INCOME_TAX_MAX_RATE}}% of your income.[^0]
 
 **If you are an employee**, you pay a salary tax (*[[Lohnsteuer]]*) on every paycheck. This is a prepayment of your *estimated* income tax. If you pay too much salary tax, you can make a [tax declaration](/glossary/Steuererklärung) and get money back.
+
+Usually, tips are not taxed.[^5]
 
 ### Health insurance
 
@@ -101,6 +105,10 @@ Revenue from cryptocurrencies is not taxed as an investment, but as a private tr
 
 Investment income is also subject to the [church tax](/glossary/Kirchensteuer) and [solidarity surcharge](/glossary/Solidaritätszuschlag).
 
+## Other taxes
+
+All German households must pay the [TV tax](/glossary/Rundfunkbeitrag). If you run a business, you might need to pay the [trade tax](/glossary/Gewerbesteuer). Most things you buy have the [value added tax](/glossary/Umsatzsteuer) included in the price. There is also the [vehicle tax](/glossary/Kraftfahrzeugsteuer), the [dog tax](/glossary/Hundesteuer), [property tax](/glossary/Grundsteuer) and a few others.
+
 ## German tax classes
 
 Your tax class affects how your [salary tax](/glossary/Lohnsteuer) is calculated. It does not affect how much [income tax](/glossary/Einkommensteuer) you pay. It only changes how much income tax you pay *in advance*, as salary tax.
@@ -139,3 +147,4 @@ A tax advisor can answer your questions and help you file your German taxes corr
 [^2]: [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
 [^3]: [§32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html)
 [^4]: [wendl-koehler.de](https://wendl-koehler.de/rechtliches/kryptowaehrung-steuererklaerung/)
+[^5]: [orderbird.com](https://www.orderbird.com/blog/trinkgeld-versteuern/#anker2)

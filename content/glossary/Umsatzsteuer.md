@@ -18,7 +18,7 @@ Value-added tax (VAT) is called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer*, (*M
 
 Most products and services sold in Germany have a {{ VAT_RATE }}% VAT.[^0] Some products and services have a reduced VAT of {{ VAT_RATE_REDUCED }}%.
 
-VAT is almost always included in the price you see. It's not added at checkout.
+VAT is almost always included in the price. It's not added at checkout.
 
 **[How VAT works in Germany ➞](/guides/value-added-tax)**
 
