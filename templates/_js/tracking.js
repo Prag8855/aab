@@ -1,6 +1,19 @@
 {% js %}
 window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
 
+// Log frontend errors to the server
+window.addEventListener('error', e => {
+	try{
+		navigator.sendBeacon(
+			'/api/error', 
+			`${e.filename.replace('{{ site_url }}', '')}:${e.lineno}.${e.colno} - ${e.message}`
+		);
+		console.warn('An error occured. A brief, anonymous error report was sent to All About Berlin. No personal data was sent.')
+	} catch(e) {
+		console.error(e, e.stack);
+	}
+})
+
 function getLinkEl(l) {
 	while (l && (typeof l.tagName === 'undefined' || l.tagName.toLowerCase() !== 'a' || !l.href)) {
 		l = l.parentNode
