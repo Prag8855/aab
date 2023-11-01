@@ -31,15 +31,9 @@ When you negotiate your salary, you negotiate your [gross income](/glossary/Brut
 
 In Germany, you pay [around 35% of your salary](/tools/tax-calculator) in taxes and social contributions.[^0] Your employer takes them directly from your paycheck.
 
-{% include '_blocks/taxCalculator.html' %}
+**[How taxes work ➞](/guides/taxes)**
 
-You pay these taxes and contributions:
-
-- [Health insurance](/glossary/Krankenversicherung)
-- [Nursing care insurance](/glossary/Pflegeversicherung)
-- [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung)
-- [Unemployment insurance](/glossary/Arbeitslosenversicherung)
-- [Church tax](/glossary/Kirchensteuer)
+**[Tax calculator ➞](/tools/tax-calculator)**
 
 ## Minimum wage and median income
 

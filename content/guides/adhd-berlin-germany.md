@@ -36,11 +36,14 @@ The hardest part is to find a psychiatrist and book an appointment. This is not 
 
 These Berlin psychiatrists speak English and diagnose people with ADHD:
 
-- [Dr. med. Ursula Bartholomew](https://www.dr-bartholomew.de/)[^1]
-- [Dr. med. Yrsa Werzinger](https://www.patienten-praxis.com/psychiatrie/dr-med-yrsa-wertzinger-fachaerztin-fuer-psychiatrie/)[^2]
-- [Dr. med. Nikolaos Riga](https://www.dr-rigas.de/)[^3]
+- [Dr. Ursula Bartholomew](https://www.dr-bartholomew.de/)[^1]
+- [Dr. Yrsa Werzinger](https://www.patienten-praxis.com/psychiatrie/dr-med-yrsa-wertzinger-fachaerztin-fuer-psychiatrie/)[^2]
+- [Dr. Nikolaos Riga](https://www.dr-rigas.de/)[^3]
 - [Charité Outpatient Center for Adult ADHD](https://psychiatrie.charite.de/en/department/ambulanzbereich/outpatient_center_for_adult_adhd/) - very hard to get an appointment
-- [Dr. med. Susanne Finke](https://privatpraxis-psychiatrie-berlin.de/) - no public health insurance
+- [Dr. Susanne Finke](https://privatpraxis-psychiatrie-berlin.de/) - no public health insurance
+- [Dr. Arne Kuhlmei](https://www.praxis-kuhlmei.de/)[^6]
+
+Try [this list of ADHD doctors](https://docs.google.com/spreadsheets/d/1E52j1v6zl-NwkY2PQlYzx2yUve09UySyfG00fxGHa5U/edit#gid=0). This is an unofficial list. It might not get updated.
 
 **[More English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
@@ -92,3 +95,4 @@ After you adjust your medication dosage, you can get prescriptions from your fam
 [^3]: [facebook.com](https://www.facebook.com/groups/1501180583530755/posts/2507204306261706/?comment_id=2659109251071210)
 [^4]: [reddit.com](https://old.reddit.com/r/ADHD/comments/vpd8vt/moving_to_germany_how_is_germany_with_managing/ieikpii/)
 [^5]: [reddit.com](https://old.reddit.com/r/askberliners/comments/124jitd/tk_insuranceprescribing_elvansevyvanse_adhd/)
+[^6]: [Google Sheet, unknown author](https://docs.google.com/spreadsheets/d/1E52j1v6zl-NwkY2PQlYzx2yUve09UySyfG00fxGHa5U/edit#gid=0)

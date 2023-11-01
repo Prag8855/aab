@@ -1,6 +1,28 @@
 {% js %}
 window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
 
+// Log frontend errors to the server
+window.addEventListener('error', e => {
+	try{
+		if(e.message.includes('r["@context"]')){  // Safari JSON-LD parsing error
+			return;
+		}
+		if(e.message.includes('Script error.')){  // "Script error." at 0:0
+			navigator.sendBeacon(
+				'/api/error', 
+				`Script error. (${window.location.href})`
+			);
+			return;
+		}
+		navigator.sendBeacon(
+			'/api/error', 
+			`${e.filename.replace('{{ site_url }}', '')}:${e.lineno}.${e.colno} - ${e.message}`
+		);
+	} catch(e) {
+		console.error(e, e.stack);
+	}
+})
+
 function getLinkEl(l) {
 	while (l && (typeof l.tagName === 'undefined' || l.tagName.toLowerCase() !== 'a' || !l.href)) {
 		l = l.parentNode

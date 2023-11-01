@@ -1,5 +1,5 @@
 ---
-Title: What is a German student visa?
+Title: What is the German student visa?
 German_term: Studentenvisum
 English_term: Student visa
 Description: A residence permit to study in Germany.

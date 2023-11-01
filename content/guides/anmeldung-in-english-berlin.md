@@ -226,7 +226,7 @@ Translators like [Red Tape Translation](/out/red-tape-translation-interpreter) a
 
 Church tax is 8% or 9% of your [income tax](/glossary/Einkommensteuer) (not 8-9% of your income).[^26] It's taken directly from your paycheck. A single person earning 50,000€ a year would pay 800 to 900€ per year in church tax.[^26]
 
-**[Church tax calculator ➞](/tools/tax-calculator)**
+**[Calculate your church tax ➞](/tools/tax-calculator)**
 
 If you were baptised in your home country, they might collect church tax [even if you register as an atheist](http://web.archive.org/web/20180913195533/https://global.handelsblatt.com/politics/expats-beware-germany-church-tax-922429). Watch your paychecks for unexpected church tax payments.
 

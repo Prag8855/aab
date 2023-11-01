@@ -142,7 +142,7 @@ In Berlin, it costs around 100€ per hour.[^0] Group therapy is usually cheaper
 
 **If you have [private health insurance](/glossary/private%20Krankenversicherung)**, your insurance will usually refund the costs. Check with your health insurer first, just to be sure.
 
-**If you are a student**, you can also get free therapy [from your *Studentenwerk*](https://www.stw.berlin/en/counselling.html#jump_psychological_counselling).
+**If you are a student**, you can also get free therapy [from your *Studentenwerk*](https://www.stw.berlin/en/counselling/psychologic-counselling/).
 
 ## List of therapists
 
@@ -169,7 +169,7 @@ These directories help you find English-speaking therapists:
 These resources can also help:
 
 - **[Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)** - Emergency help, 24/7, also in English
-- [StudentenWERK counselling services](https://www.stw.berlin/en/counselling.html#jump_psychological_counselling) - Counselling for students
+- [StudentenWERK counselling services](https://www.stw.berlin/en/counselling/psychologic-counselling/) - Counselling for students
 - [Schwulenberatung Berlin](https://schwulenberatungberlin.de/about-us/) - Counselling for LGBTQ people
 - [Frauentreffpunkt](https://skf-berlin.de/offene-sozialarbeit/anti-gewalt-bereich/frauentreffpunkt-gegen-haeusliche-gewalt/) - English, Spanish and German counselling for women who are victims of domestic violence
 - [GLADT](https://gladt.de/en/counseling/) - Help for people of colour and LGBTQ people

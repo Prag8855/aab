@@ -337,7 +337,7 @@ Landlords prefer quiet, long-term tenants who pay their rent on time. They want 
 Landlords want tenants with...
 
 - **A good income**  
-    Your rent should be less than 30% of your monthly [[Netto income]].[^34] Many landlords ask for this. Two incomes are better than one. If you have a good salary, include it in your introduction messages. If you make a lot of money, you can apply for more expensive apartments. There is less competition for those apartments.
+    Your rent should be less than 30-40% of your monthly [[Netto income]].[^34] Some landlords want this, some landlords don't care. Two incomes are better than one. It's better if you're not in your [probation period](/glossary/Probezeit). If you have a good salary, say it in your introduction message. Your income can also be too high.[^48]
 - **A stable job**  
     Landlords prefer tenants with a stable job. It's harder to find an apartment if you are self-employed, or if you are on your [probation period](/glossary/Probezeit). If you have a good job, include it in your introduction messages.
 - **A stable residence permit**  
@@ -479,3 +479,4 @@ There are 3 types of insurance that cover your apartment:
 [^21]: [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
 [^46]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
+[^48]: Multiple relocation consultants (October 2023)

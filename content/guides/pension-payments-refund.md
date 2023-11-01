@@ -5,7 +5,6 @@ Description: If you left Germany, you get your German pension payments back. It 
 Date_created: 2020-06-04
 Related_reviews:
     reviews/pension-payments-refund/johannes-kühn.md
-    reviews/pension-payments-refund/dr-rené-roy.md
     reviews/pension-payments-refund/christian-haas.md
 ---
 
@@ -321,7 +320,7 @@ These businesses can help you request a refund. They will fill the forms and req
 - **[⭐ Pension Refund Germany](/out/german-pension-refund)**  
     Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated the process, so you can do everything online. They pay you in the currency you prefer. They work with a lawyer.
 - **[⭐ FundsBack](/out/fundsback)**  
-    Their fee is 10% of your refund (minimum fee 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
+    Their fee is 9.9% of your refund (minimum fee 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
 - **[⭐ Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is 9.75% of your refund (no minimum or maximum fee).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
 - **[TaxBack](/out/taxback)**  
@@ -377,7 +376,7 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^26]: [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany)
 [^27]: [Screenshot](/images/drv-requirements-2022-08-23.png)
 [^28]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/Bund/DE/Beratung-und-Kontakt/sicherheit_post.html)
-[^29]: [fundsback.org](https://www.fundsback.org/en/fees/)
+[^29]: [fundsback.org](https://fundsback.org/pension-refund-germany/#:~:text=minimum%20fee%20of%20899%E2%82%AC%2C%20maximum%20of%202899%E2%82%AC)
 [^30]: [de.germanypensionrefund.com](https://de.germanypensionrefund.com/pricing)
 [^31]: [pension-refund.com](https://pension-refund.com/process-and-pricing.html?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^32]: [taxback.com](https://www.taxback.com/en/germany/pension-return/?utm_source=allaboutberlin)
