@@ -12,7 +12,7 @@ If you apply for a German visa or [residence permit](/glossary/Aufenthaltstitel)
 
 ## For a Schengen visa
 
-When you apply for a tourist visa ([[Schengen visa]]), **you just need travel insurance**.[^0] Your travel insurance must cover you for at least 30,000€,[^1] and it must be valid for the time of your stay. It must be valid in *all* Schengen countries, not just Germany.[^2]
+When you apply for a tourist visa ([[Schengen visa]]), **you just need travel insurance**.[^0] Your travel insurance must cover you for at least 30,000€,[^1] and it must be valid for the time of your stay. It must be valid in *all* [[Schengen area]] countries, not just Germany.[^2]
 
 ## For a [job seeker visa](/glossary/Job%20seeker%20visa)
 

@@ -11,12 +11,12 @@ Related_guides:
     guides/residence-permit.md
 ---
 
-The Schengen visa (also called tourist visa or Category C visa)[^0] lets you visit Germany and other [Schengen countries](https://www.axa-schengen.com/en/countries-schengen-area). They are valid for up to 90 days.
+The Schengen visa (also called tourist visa or Category C visa)[^0] lets you visit Germany and the [[Schengen area]]. They are valid for up to 90 days.
 
 With a Schengen visa, you can:
 
 - Visit Germany for up to 90 days
-- Visit other [Schengen countries](https://www.axa-schengen.com/en/countries-schengen-area)
+- Visit other countries in the [[Schengen area]]
 
 With a Schengen visa, you can't:
 

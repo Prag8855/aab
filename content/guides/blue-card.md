@@ -10,7 +10,7 @@ The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltsti
 With a Blue Card, you can...
 
 - Live and work in Germany
-- Visit countries in the [Schengen area](https://www.axa-schengen.com/en/countries-schengen-area)[^13]
+- Visit countries in the [[Schengen area]][^13]
 - Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)[^14]
 - Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
 
@@ -298,7 +298,7 @@ Your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-
 
 With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel longer, you must get permission from the *[[Ausländerbehörde]]*.
 
-Your Blue Card lets you visit other [Schengen countries](https://www.axa-schengen.com/en/countries-schengen-area) without a visa.
+Your Blue Card lets you visit other [[Schengen area]] countries without a visa.
 
 ### Self-employment with a Blue Card
 
