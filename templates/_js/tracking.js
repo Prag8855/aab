@@ -7,11 +7,17 @@ window.addEventListener('error', e => {
 		if(e.message.includes('r["@context"]')){  // Safari JSON-LD parsing error
 			return;
 		}
+		if(e.message.includes('Script error.')){  // "Script error." at 0:0
+			navigator.sendBeacon(
+				'/api/error', 
+				`Script error. (${window.location.href})`
+			);
+			return;
+		}
 		navigator.sendBeacon(
 			'/api/error', 
 			`${e.filename.replace('{{ site_url }}', '')}:${e.lineno}.${e.colno} - ${e.message}`
 		);
-		console.warn('An error occured. A brief, anonymous error report was sent to All About Berlin. No personal data was sent.')
 	} catch(e) {
 		console.error(e, e.stack);
 	}
