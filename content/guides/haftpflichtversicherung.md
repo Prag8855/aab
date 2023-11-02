@@ -101,6 +101,10 @@ I recommend liability insurance that covers lost keys. [Replacing a lost key](/g
 
 If you often rent vehicles, you can pay around 1€/month more to cover rented vehicles. This covers the car rental company's deductible if you damage the car.
 
+### Don't wait
+
+Get liability insurance before you need it. You can't get it *after* you have a problem. For example, if you get liability insurance just before you [move out](/guides/moving-out), it might not cover the things you already broke in the apartment.
+
 ### How to pay less
 
 Don't get the cheapest insurance. Pick good coverage with a good insurance company. There are other ways to pay less.
