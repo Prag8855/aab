@@ -45,9 +45,9 @@ Bring these documents to your appointment:
 - [ ] **Your [Wohnungsgeberbestätigung](/docs/wohnungsgeberbestatigung)**  
     You get this document before you [move in](/guides/moving-in). You can't register your address without this document.[^3] If you can, bring the original, not a copy.[^4]
     - Your landlord can give you this document.
-    - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need the permission of the landlord.[^5]
+    - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need permission from the landlord.[^5]
     - If you move with your spouse, they can give it to you. They don't need permission from the landlord.
-    - If you move with your boyfriend or girlfriend, they can give it to you. They need the permission of the landlord, but the landlord can't really refuse.[^6]
+    - If you move with your boyfriend or girlfriend, they can give it to you. They need permission from the landlord, but the landlord can't really refuse.[^6]
 - [ ] **The filled [Anmeldung form](/docs/anmeldung)**  
     [Fill the form online](/docs/anmeldung#fill-the-anmeldung-form-online). To register more than 2 people, use multiple forms.
 - [ ] **Your passport or [[Personalausweis]]**  

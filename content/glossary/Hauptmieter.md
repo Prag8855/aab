@@ -10,6 +10,6 @@ Related_guides:
     guides/moving-in.md
 ---
 
-The main tenant (*Hauptmieter*) is the person who is responsible for paying the rent to the landlord. The *Hauptmieter* can sublet the apartment with the permission of the landlord.
+The main tenant (*Hauptmieter*) is the person who is responsible for paying the rent to the landlord. The *Hauptmieter* can sublet the apartment, but they need permission from the landlord.
 
 The *Hauptmieter* can be the *[[Wohnungsgeber]]* and sign the *[[Wohnungsgeberbestätigung]]*. You need this document to [register your address](/guides/anmeldung-in-english-berlin).
