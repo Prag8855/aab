@@ -84,14 +84,16 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
-Usually, you can't start working while you wait for your Blue Card.[^35] The Blue Card application takes time. You might need to wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
+Usually, you can't work before you get the Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
+
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you. They take care of everything. It's much easier for you.
 
 ### 1. Come to Germany
 
 [Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [look for a job](/guides/find-a-job-in-berlin).
 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
-    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the Blue Card in Germany.[^9]
+    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the Blue Card in Germany.[^9] You can't work before you get your Blue Card.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
     Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you don't need to leave Germany.
 - **If you have a Blue Card from another EU country**  
@@ -142,7 +144,7 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 **[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index)** - berlin.de
 
-The application costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8]
+It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8] It's cheaper for Turkish citizens.
 
 After you pay and send your application, you get a PDF by email. This is a proof of application. Save it for later.
 
