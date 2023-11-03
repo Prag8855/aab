@@ -4,14 +4,8 @@ window.plausible = window.plausible || function() { (window.plausible.q = window
 // Log frontend errors to the server
 window.addEventListener('error', e => {
 	try{
-		if(e.message.includes('r["@context"]')){  // Safari JSON-LD parsing error
-			return;
-		}
-		if(e.message.includes('Script error.')){  // "Script error." at 0:0
-			navigator.sendBeacon(
-				'/api/error', 
-				`Script error. (${window.location.href})`
-			);
+		if(e.message.includes('r["@context"]') || e.message.includes('Script error.')){
+			// Safari JSON-LD parsing error
 			return;
 		}
 		navigator.sendBeacon(
