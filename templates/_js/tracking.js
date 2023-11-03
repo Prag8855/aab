@@ -4,7 +4,7 @@ window.plausible = window.plausible || function() { (window.plausible.q = window
 // Log frontend errors to the server
 window.addEventListener('error', e => {
 	try{
-		if(e.message.includes('r["@context"]') || e.message.includes('Script error.')){
+		if(e.lineno < 30 || e.message.includes('r["@context"]') || e.message.includes('Script error.')){
 			// Safari JSON-LD parsing error
 			return;
 		}
