@@ -170,7 +170,7 @@ If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
 
 ### Work visa or Blue Card
 
-After you inform the *Ausländerbehörde*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5] It depends on which *Ausländerbehörde* you go to.
+After you inform the *[[Ausländerbehörde]]*, nothing happens. **Your residence permit does not expire**, but it can be shortened. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5] It depends on which *Ausländerbehörde* you go to.
 
 When you [find a new job](/guides/find-a-job-in-berlin), you might need the *Ausländerbehörde*'s permission to start working. It depends on how long you had a residence permit for:
 
@@ -181,9 +181,11 @@ When you [find a new job](/guides/find-a-job-in-berlin), you might need the *Aus
 - **If you have a Blue Card, and your income is over {{BLUE_CARD_MIN_INCOME|cur}}€ per year**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^38] It could be different outside of Berlin.
 - **Everyone else**  
-    You need the *Ausländerbehörde*'s permission to start a new job. After you get a job offer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). This can take a few months.[^39] You must basically apply for a new work visa or Blue Card.[^37]
+    Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
+    - If your residence permit is connected to your employer, you must [change your residence permit](https://service.berlin.de/dienstleistung/326856/en/). You must basically apply for a new work visa or Blue Card.[^37] This can take a few months.[^39]
+    - If your residence permit is not connected to your employer, you don't need permission from the *Ausländerbehörde* to start a new job.
 
-If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. You can get a language course visa and stay up to 12 months longer.[^29] Your spouse can get a work visa and sponsor your family reunion visa.[^35]
+If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, you can get a language course visa and stay up to 12 months longer.[^29] Your spouse can get a [work visa](/glossary/Work%20Visa) and sponsor your [family reunion visa](/glossary/Family%20reunion%20visa).[^35]
 
 **[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
 
