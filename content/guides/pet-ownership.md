@@ -117,7 +117,11 @@ In Berlin, use the [Dog owners in Berlin](https://www.facebook.com/groups/dogown
 
 Most neighbourhoods have unofficial WhatsApp groups for dog owners. Ask other dog owners at the park, or on [Nebenan](https://nebenan.de/).
 
-## How to find a dog sitter
+## English-speaking vets
+
+**[English-speaking vets in Berlin ➞](/guides/english-speaking-vets)**
+
+## Dog sitters
 
 These apps that help you find a dog sitter:
 
