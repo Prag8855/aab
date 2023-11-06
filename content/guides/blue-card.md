@@ -314,13 +314,13 @@ You can use your Blue Card to log into online government services. For example, 
 
 ### Renew your Blue Card
 
-Your Blue Card is valid for up to 4 years. You must renew your Blue Card around 8 weeks it expires.
+Your Blue Card is valid for up to 4 years. You must renew it around 8 weeks it expires.
 
 You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 33 months, or 21 months if you speak B1 German.[^10]
 
 ### If you change jobs
 
-When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different company.
+When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
 
 **[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
