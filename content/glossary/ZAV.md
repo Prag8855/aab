@@ -5,7 +5,7 @@ English_term:
 Description: The office that gives foreigners permission to work in Germany.
 Date_created: 2019-10-03
 Related_guides:
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/blue-card.md
 ---
 

@@ -8,7 +8,7 @@ Related_guides:
     guides/residence-permit.md
     guides/berlin-auslanderbehorde-appointment.md
     guides/how-to-get-a-german-freelance-visa.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/blue-card.md
     guides/german-visa-health-insurance.md
 ---

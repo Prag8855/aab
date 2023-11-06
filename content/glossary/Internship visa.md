@@ -7,7 +7,7 @@ Date_created: 2021-07-22
 Related_guides:
     guides/residence-permit.md
     guides/find-a-job-in-berlin.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/blue-card.md
 ---
 

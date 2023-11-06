@@ -184,7 +184,7 @@ Your employer can hire a relocation consultant to help you. It makes everything 
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-**[How to get a work visa ➞](/guides/german-work-visa)**
+**[How to get a work visa ➞](/guides/work-visa)**
 
 **[How to get a Blue Card ➞](/guides/blue-card)**
 

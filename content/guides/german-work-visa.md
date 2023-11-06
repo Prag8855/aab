@@ -281,7 +281,7 @@ You need a few days to prepare the documents for your work visa application.
 
 ### Step 10: Go to your Ausländerbehörde appointment
 
-- **You need**: all the [required documents](/guides/german-work-visa#required-documents), [health insurance](/guides/german-visa-health-insurance)
+- **You need**: all the [required documents](/guides/work-visa#required-documents), [health insurance](/guides/german-visa-health-insurance)
 - **You get**: a confirmation letter
 - **How long it takes**: less than 1 hour
 
@@ -313,7 +313,7 @@ Get an appointment at [your local German embassy or consulate](https://www.auswa
 
 ### Step 2: Prepare for your visa interview
 
-Before you go to your visa interview, prepare the [required documents](/guides/german-work-visa#required-documents). You also need health insurance and a place to live in Germany.
+Before you go to your visa interview, prepare the [required documents](/guides/work-visa#required-documents). You also need health insurance and a place to live in Germany.
 
 You need a job offer *before* you go to your visa interview. If you apply for a Blue Card, your salary must be at least {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes). If there is a shortage of skilled workers in your field, your salary must be at least {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year. [This list](https://ec.europa.eu/eurostat/documents/1978984/6037342/ISCO-08.pdf) shows which fields have a shortage of skilled workers.
 

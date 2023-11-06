@@ -9,7 +9,7 @@ Date_created: 2018-06-07
 Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
     guides/blue-card.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/berlin-auslanderbehorde-appointment.md

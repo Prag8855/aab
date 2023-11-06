@@ -30,7 +30,7 @@ Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which reside
 
 ## Types of residence permits
 
-- **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/german-work-visa)  
+- **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/work-visa)  
     For skilled workers who live and work in Germany. You need a job offer from a German company to apply for this visa.[^5]
 - **[[Blue Card]]** - [How to apply](/guides/blue-card)  
     For skilled workers who live and work in Germany. It's like a work visa, but better. You need a job offer and a university degree. There is a minimum salary requirement.
@@ -45,7 +45,7 @@ Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which reside
 - **[[Internship visa]]**  
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
 - **[[Job seeker visa]]**  
-    For people who want to look for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you must [apply for a work visa or a Blue Card](/guides/german-work-visa) before you start working. [More information about the job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers).
+    For people who want to look for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
 - **[[Au pair visa]]**  
     For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract to apply for the visa.
 - **[[Family reunion visa]]**  
@@ -96,7 +96,7 @@ You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home 
 
 It's better if you apply in your home country. You can start working as soon as you arrive in Germany, instead of living in Germany without any income.
 
-**[How to apply for a work visa ➞](/guides/german-work-visa)**
+**[How to apply for a work visa ➞](/guides/work-visa)**
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 

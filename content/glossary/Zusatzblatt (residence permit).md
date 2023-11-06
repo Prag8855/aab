@@ -10,7 +10,7 @@ Related_guides:
     guides/german-work-visa-to-freelance-visa.md
     guides/ksk-kuenstlersozialkasse.md
     guides/blue-card.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/how-to-get-a-german-freelance-visa.md
 ---
 

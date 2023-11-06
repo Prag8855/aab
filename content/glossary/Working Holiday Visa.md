@@ -6,7 +6,7 @@ Description: This residence permit allows citizens of certain countries to work 
 Date_created: 2019-07-13
 Related_guides:
     guides/moving-to-berlin.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/blue-card.md
     guides/residence-permit.md
 ---

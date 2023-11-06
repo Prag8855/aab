@@ -56,7 +56,7 @@ You do not need a university degree if...[^31]
 If you can't get a Blue Card, there are other ways to work in Germany:
 
 - **[Work visa](/glossary/Work%20Visa)**  
-    For skilled workers with professional training. No minimum salary. No university degree required. You must have vocational training in your field. - [How to apply](/guides/german-work-visa)
+    For skilled workers with professional training. No minimum salary. No university degree required. You must have vocational training in your field. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     Lets you work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
 - **[[Internship visa]]**  

@@ -9,7 +9,7 @@ Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
     guides/moving-to-berlin.md
     guides/blue-card.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/german-visa-health-insurance.md
 ---
 

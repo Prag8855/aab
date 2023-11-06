@@ -7,7 +7,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/residence-permit.md
     guides/blue-card.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/how-to-get-a-german-freelance-visa.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md

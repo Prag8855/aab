@@ -4,7 +4,25 @@ German_term: Anmeldung
 English_term: Address registration
 Description: When you register your new address at the Bürgeramt
 Date_created: 2017-10-06
-Related_guides: guides/first-bank-account-in-germany.md, guides/free-schufa-berlin.md, guides/an-honest-review-of-n26.md, guides/berlin-burgeramt-appointment.md, guides/find-a-flat-in-berlin.md, guides/getting-married-in-germany.md, guides/german-tax-id-steuernummer.md, guides/abmeldung-deregister-in-berlin.md, guides/how-to-get-a-german-freelance-visa.md, guides/freiberufler-or-gewerbe.md, guides/start-a-business-in-germany.md, guides/anmeldung-in-english-berlin.md, guides/moving-to-berlin.md, guides/german-banks-no-address.md, guides/german-work-visa.md, guides/moving-in.md, tools/appointment-finder.md, guides/address-change.md
+Related_guides:
+    guides/first-bank-account-in-germany.md
+    guides/free-schufa-berlin.md
+    guides/an-honest-review-of-n26.md
+    guides/berlin-burgeramt-appointment.md
+    guides/find-a-flat-in-berlin.md
+    guides/getting-married-in-germany.md
+    guides/german-tax-id-steuernummer.md
+    guides/abmeldung-deregister-in-berlin.md
+    guides/how-to-get-a-german-freelance-visa.md
+    guides/freiberufler-or-gewerbe.md
+    guides/start-a-business-in-germany.md
+    guides/anmeldung-in-english-berlin.md
+    guides/moving-to-berlin.md
+    guides/german-banks-no-address.md
+    guides/work-visa.md
+    guides/moving-in.md
+    tools/appointment-finder.md
+    guides/address-change.md
 ---
 
 In Germany, you must register your address at the *[[Bürgeramt]]*. This will become your official address in Germany. This is called the *Anmeldung*.

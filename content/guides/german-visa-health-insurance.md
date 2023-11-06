@@ -28,7 +28,7 @@ If you have job offer, you can apply for [public health insurance](/glossary/ges
 
 Travel insurance is not accepted for a work visa or Blue Card application.
 
-**[How to apply for a work visa ➞](/guides/german-work-visa)**
+**[How to apply for a work visa ➞](/guides/work-visa)**
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 

@@ -6,7 +6,7 @@ Description: A type of residence permit that lets you work in Germany.
 Date_created: 2019-07-13
 Related_guides:
     guides/find-a-job-in-berlin.md
-    guides/german-work-visa.md
+    guides/work-visa.md
     guides/blue-card.md
     guides/berlin-auslanderbehorde-appointment.md
     guides/how-to-get-a-german-freelance-visa.md
@@ -21,4 +21,4 @@ The German work visa (*Aufenthaltserlaubnis zur Aufnahme einer Beschäftigung*) 
 
 The work visa is similar to the [[Blue Card]], but it's not the same.
 
-**[How to apply for a work visa ➞](/guides/german-work-visa)**
+**[How to apply for a work visa ➞](/guides/work-visa)**
