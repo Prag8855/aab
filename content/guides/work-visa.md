@@ -191,14 +191,14 @@ Check if the information on your work visa is correct. The *Ausländerbehörde* 
 
 ## How to apply in your home country
 
-You can also apply for a Blue Card **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
+You can also apply for a work visa **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
 
 To apply in your home country:
 
 1. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
 2. Submit your application documents. The required documents are different in each country. The list is on the embassy or consulate's website.
 3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
-4. After you arrive in Germany, convert your National Visa into a Blue Card.
+4. After you arrive in Germany, convert your National Visa into a work visa.
 
 ### 1. Get an appointment at the German embassy or consulate
 
@@ -211,14 +211,14 @@ Get an appointment at the German embassy or consulate in your country. It can be
 Before your embassy or consulate appointment, you must...
 
 - [ ] **Find a job**  
-    You must find a job before you apply for the Blue Card. The job must meet the [Blue Card requirements](#work-visa-requirements). - [How to find a job](/guides/find-a-job-in-berlin)
+    You must find a job before you apply for the work visa. The job must meet the [work visa requirements](#work-visa-requirements). - [How to find a job](/guides/find-a-job-in-berlin)
 - [ ] **Find a place to live in Germany**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
+    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
-    You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They help you choose health insurance for your Blue Card application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+    You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
 ### 3. Go to your National Visa appointment
@@ -239,23 +239,23 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-### 6. Convert your National Visa into a Blue Card
+### 6. Convert your National Visa into a work visa
 
-Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
+Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a work visa at the *[[Ausländerbehörde]]*.
 
 In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^39]
 
-To convert your National Visa into a Blue Card:
+To convert your National Visa into a work visa:
 
 1. **Book an Ausländerbehörde appointment**  
     [Look for an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment) 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
 2. **Go to your appointment**  
-    During the appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes.
-3. **Wait for your Blue Card**  
-    {{ RESIDENCE_PERMIT_WAIT_TIME }}, you get a letter. It's your Blue Card, or an invitation to collect your Blue Card at the *Ausländerbehörde*.
+    During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes.
+3. **Wait for your work visa**  
+    {{ RESIDENCE_PERMIT_WAIT_TIME }}, you get a letter. It's your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.
 4. **[Activate your eID](#activate-your-eid)** (optional)
 
-Your Blue Card is a plastic card. It's valid for up to 4 years. You can [renew it](#renew-your-work-visa) before it expires.
+Your work visa is a plastic card. It's valid for up to 3 years. You can [renew it](#renew-your-work-visa) before it expires.
 
 ## Required documents
 
@@ -279,7 +279,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - [ ] **Lease**  
         It must show the size of your apartment in square metres. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address), and you must make enough money to pay the rent.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
-        Some temporary apartments don't give you this document. You might not get a Blue Card if you don't have this document.[^1]
+        Some temporary apartments don't give you this document. You might not get a work visa if you don't have this document.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
         If you already [registered your address](/glossary/Anmeldung), bring this document. It's okay if you don't have this document.[^5]
 - [ ] **University degree**  
@@ -293,7 +293,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 **Use PDF files or photos.** Word documents and other formats don't always work.[^37]
 
-## After you get your Blue Card
+## After you get your work visa
 
 ### Bring your family to Germany
 
@@ -301,41 +301,41 @@ The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your
 
 ### Activate your eID
 
-You can use your Blue Card to log into online government services. For example, you can use it to apply for [unemployment benefits](/glossary/ALG%20I). You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
+You can use your work visa to log into online government services. For example, you can use it to apply for [unemployment benefits](/glossary/ALG%20I). You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
 
 **[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
 
-### Renew your Blue Card
+### Renew your work visa
 
-Your Blue Card is valid for up to 4 years. You must renew your Blue Card around 8 weeks it expires.
+Your work visa is valid for up to 3 years. You must renew it around 8 weeks it expires.
 
-You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 33 months, or 21 months if you speak B1 German.[^10]
+You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 60 months.[^10]
 
 ### If you change jobs
 
-When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different company.
+When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
 
-**[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
+**[What happens to your work visa ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ### If you lose your job
 
-If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job.
+If you [lose your job](/guides/losing-your-job), your work visa stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job.
 
 While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
 
-**[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
+**[What happens to your work visa ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 **[How to get unemployment benefits ➞](/guides/unemployment-benefits)**
 
-### If you travel with a Blue Card
+### If you travel with a work visa
 
-Your Blue Card lets you visit other [[Schengen area]] countries without a visa.
+Your work visa lets you visit other [[Schengen area]] countries without a visa.
 
-With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+With a work visa, you can leave Germany for up to 12 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
-### Self-employment with a Blue Card
+### Self-employment with a work visa
 
-If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
+If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
 
 ## Where to get help
 
