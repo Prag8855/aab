@@ -73,7 +73,7 @@ If you can't get a Blue Card, there are other ways to work in Germany:
 You can apply for a Blue Card **after you move to Germany**:
 
 1. Come to Germany
-2. Apply for a Blue Card at your local *[[Ausländerbehörde]]*
+2. Apply for a Blue Card at your local *[[Ausländerbehörde]]*. You must apply at the *Ausländerbehörde* where you live. You can't apply in another city.
 
 You can apply in Germany if...
 
@@ -84,11 +84,9 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
-You must apply at the *Ausländerbehörde* where you live. You can't apply in another city.
+Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
 
-Usually, you can't work before you get the Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
-
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you. They take care of everything. It's much easier for you. It costs 500 to 2,000€.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a Blue Card. They take care of everything. It's much easier for you. It costs 500 to 2,000€.[^42]
 
 ### 1. Come to Germany
 
@@ -154,13 +152,15 @@ After you pay and send your application, you get a PDF by email. This is a proof
 
 The *Ausländerbehörde* will process your application. It takes between 1 week and 5 months.
 
-Your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. If you don't get a decision after 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
+Your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. The conditions of your current residence permit apply until you get your new Blue Card.
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
-Later, the *[[Ausländerbehörde]]* will email you an appointment invitation.
+If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
 
 ### 6. Go to your Blue Card appointment
+
+Later, the *[[Ausländerbehörde]]* will email you an appointment invitation.
 
 When you go to your appointment, bring...[^7]
 
@@ -391,3 +391,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)
+[^42]: Multiple relocation consultants (November 2023)
