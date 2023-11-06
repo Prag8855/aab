@@ -223,10 +223,10 @@ If you just moved to Germany, [N26](/out/n26) is a good bank to start with. You 
 Is N26 the best bank for you? It depends. There are [many other options](/guides/first-bank-account-in-germany):
 
 - If you want an online bank with low fees, there is also [comdirect](/out/comdirect), [DKB](/out/dkb), [ING](/out/ing) and [bunq](/out/bunq).
-- If you don't speak German, there is also [bunq](/out/bunq), [Wise](/out/wise-account), [Revolut](/out/revolut), [Monese](/out/monese), and [Deutsche Bank](/out/deutsche-bank).
+- If you don't speak German, there is also [bunq](/out/bunq), [Wise](/out/wise-account), [Monese](/out/monese), and [Deutsche Bank](/out/deutsche-bank).
 - If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
 - If you don't have an *[[Anmeldung]]* yet, there are [many ways to open a bank account](/guides/german-banks-no-address).
-- If N26 does not support your passport type, [Wise](/out/wise-account), [Revolut](/out/revolut), [bunq](/out/bunq) and [Monese](/out/monese) support passports from more countries.
+- If N26 does not support your passport type, [Wise](/out/wise-account), [bunq](/out/bunq) and [Monese](/out/monese) support passports from more countries.
 
 **[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
 
