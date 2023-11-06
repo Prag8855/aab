@@ -188,7 +188,7 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 
 Your Blue Card is a plastic card. The expiration date is written on the card. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
-Check if the information on your Blue Card is correct. The *Ausländerbehörde* sometimes make mistakes.
+Check if the information on your Blue Card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 ### 8. Start working in Germany
 
