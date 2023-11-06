@@ -1,5 +1,5 @@
 ---
-Title: How to get a Blue Card in Germany
+Title: How to get a Blue Card for Germany
 Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
@@ -9,7 +9,7 @@ The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltsti
 
 With a Blue Card, you can...
 
-- Live and work in Germany
+- Live and work anywhere in Germany
 - Visit countries in the [[Schengen area]][^13]
 - Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)[^14]
 - Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
@@ -39,7 +39,7 @@ To get a Blue Card, you need...[^18]
 - [ ] **Qualifications for the job**  
     You must have the skills and experience to do this job. For example, you must be a programmer to get a programming job.
 - [ ] **Permission to do this job**  
-    If the job requires special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what specific qualifications you need.
+    If the job requires permits or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need.
 - [ ] **A university degree**  
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 
@@ -84,9 +84,11 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
+You must apply at the *Ausländerbehörde* where you live. You can't apply in another city.
+
 Usually, you can't work before you get the Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you. They take care of everything. It's much easier for you.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you. They take care of everything. It's much easier for you. It costs 500 to 2,000€.
 
 ### 1. Come to Germany
 
