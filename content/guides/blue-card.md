@@ -20,7 +20,7 @@ This guide explains how to apply for a [[Blue Card]] in Berlin or in your home c
 
 ## Who needs a Blue Card?
 
-The Blue Card is a [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
 **[Who needs a residence permit ➞](/guides/residence-permit)**
 
@@ -53,7 +53,7 @@ You do not need a university degree if...[^31]
 
 ## Blue Card alternatives
 
-If you can't get a Blue Card, there are other ways to work in Germany:
+If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
 - **[Work visa](/glossary/Work%20Visa)**  
     For skilled workers with professional training. No minimum salary. No university degree required. You must have vocational training in your field. - [How to apply](/guides/work-visa)
@@ -95,7 +95,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the Blue Card in Germany.[^9] You can't work before you get your Blue Card.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you don't need to leave Germany.
+    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon) while you wait, you don't need to leave Germany.
 - **If you have a Blue Card from another EU country**  
     You can come to Germany without a visa.[^38] If you have your Blue Card since at least 12 months, you can already start working in Germany.[^33] When you arrive in Germany, you have 1 month to convert your Blue Card to a German one at the *[[Ausländerbehörde]]*.[^41]
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
@@ -203,7 +203,7 @@ You can also apply for a Blue Card **before you move to Germany**.[^26] This is 
 To apply in your home country:
 
 1. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
-2. Submit your application documents. The required documents are different in each country. The list is on the embassy or consulate's website.
+2. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
 3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 4. After you arrive in Germany, convert your National Visa into a Blue Card.
 
