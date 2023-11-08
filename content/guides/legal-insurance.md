@@ -128,7 +128,7 @@ If you don't need full legal insurance, look at [cheaper options](/guides/questi
 To choose legal insurance:
 
 1. **Talk to an insurance broker**  
-    An independent insurance broker can help you pick the best insurance from multiple companies. Their help is free, because they are paid by commission. [Muffin](/out/muffin-rechtsschutz) is an English-speaking insurance broker in Berlin.
+    An independent insurance broker can help you pick the best insurance from multiple companies. Their help is free, because they are paid by commission.
 2. **Use a comparison website**  
     [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances. It's only in German.
 3. **Read your insurance policy**  

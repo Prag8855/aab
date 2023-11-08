@@ -54,7 +54,7 @@ Most insurance policies do not cover these accidents:
 - **Piracy and copyright infringement**  
     If you get in trouble for [illegally downloading movies](/guides/pirating-streaming-movies-in-germany), your liability insurance will not cover you.[^12]
 - **Locking yourself out**  
-    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths. [Muffin](/out/muffin-hausrat) sells household insurance that covers locksmiths, and they speak English.
+    If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.[^32] Household insurance (*[[Hausratversicherung]]*) sometimes covers locksmiths.
 
 ## Do I really need it?
 
@@ -112,7 +112,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 
 ### English-speaking insurers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. [Muffin](/out/muffin-haftpflicht) sells liability insurance from multiple companies, and they speak English.
+If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English.
 
 You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [Getsafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
 
@@ -164,7 +164,7 @@ When you drive a vehicle, you are covered by your car's insurance (*Kfz-Haftpfli
 
 There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs 16€ to 24€ per month.[^29] Professional legal insurance is more expensive. The price depends on what type of business you run.
 
-[Muffin](/out/muffin-rechtsschutz) can help you choose legal insurance, and they speak English. [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
+[Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
 
 **[More information about legal insurance ➞](/guides/legal-insurance)**
 
