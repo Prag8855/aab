@@ -275,12 +275,10 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
         Some temporary apartments don't give you this document. You might not get a work visa if you don't have this document.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
         If you already [registered your address](/glossary/Anmeldung), bring this document. It's okay if you don't have this document.[^5]
-- [ ] **University degree**  
-    If you are an IT specialist with at least 3 years of experience, you don't need a degree.[^31]
-- [ ] **Statement of comparability** (*Zeugnisbewertung*)  
-    If your university degree is not recognised in Germany, you must get a statement of comparability (*Zeugnisbewertung*) from the ZAB. If you are an IT specialist with at least 3 years of experience, you don't need this. - [More information](https://www.kmk.org/zab/statement-of-comparability.html)
+- [ ] **Proof of vocational training**  
+    A certificate or a degree that proves that you received training for your job.
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
-    If you need specific qualifications to do your job, bring all the required diplomas and permits. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
+    If you need a permit or specific qualifications to do your job, bring them. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
 - [ ] **Certified translations**  
     If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept documents in English, but it's not worth the risk.
 
