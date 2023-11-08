@@ -24,7 +24,7 @@ If you did not [register your address](/glossary/Anmeldung), you can't get a *Me
 
 ### Online
 
-To [request a *Meldebescheinigung* online](https://olmera.verwalt-berlin.de/ant/olav/meldebescheinigung?mbom=1&l=de). You must be [registered](/glossary/Anmeldung) in Berlin.
+**[Request a *Meldebescheinigung* online](https://olmera.verwalt-berlin.de/ant/olav/meldebescheinigung?mbom=1&l=de).** You must be [registered](/glossary/Anmeldung) in Berlin.
 
 ### In person
 
