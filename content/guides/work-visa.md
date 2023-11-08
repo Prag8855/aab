@@ -1,5 +1,5 @@
 ---
-Title: How to get a work visa for Germany
+Title: How to get a German work visa
 Short_title: How to get a work visa
 Description: This is how you apply for a work visa and work in Germany.
 Date_created: 2023-11-18
@@ -20,18 +20,16 @@ This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Ber
 
 ## Who needs a work visa?
 
-The work visa is a [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+The work visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
 **[Who needs a residence permit ➞](/guides/residence-permit)**
 
 ## Work visa requirements
 
-To get a work visa for skilled workers, you need...[^18]
+To get a work visa, you need...[^18]
 
 - [ ] **A job offer in Germany**  
-    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] The job must have...
-    - [ ] **A German employer**  
-        You must work for a German employer, or an employer with an office in Germany.[^30]
+    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your employer must have an office in Germany.[^30]
 - [ ] **Qualifications for the job**  
     You must have the skills and experience to do this job. For example, you must be a programmer to get a programming job.
 - [ ] **Permission to do this job**  
@@ -39,18 +37,18 @@ To get a work visa for skilled workers, you need...[^18]
 - [ ] **Vocational training**  
     This means that you received professional training to do this job. Your training must be related to the job.[^44] ???What constitutes vocational training???
 
+If you are over 45 years old, you must also have...[^43]
+
+- [ ] A [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year.
+- [ ] **or** a pension plan that guarantees your income after retirement. ???Clarify???
+
+**There is no minimum salary** to get a work visa.[^42] If you have a high salary, the [[Blue Card]] is a better option.
+
 **You do not need to speak German** to get a work visa.[^27]
-
-**There is no minimum salary** to get a work visa.[^42] If you have a high salary, get a [[Blue Card]] instead; it's better.
-
-**If you are over 45 years old**, you must have...[^43]
-
-- [ ] A pension plan that guarantees your income after retirement. ???Clarify???
-- [ ] **or** a [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year.
 
 ## Work visa alternatives
 
-If you can't get a work visa, there are other ways to work in Germany:
+If you can't get a work visa, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
 - **[[Blue Card]]**  
     For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. You can get the Blue Card faster. With a Blue Card, you also get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
@@ -91,7 +89,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the work visa in Germany.[^9] You can't work before you get your work visa.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you don't need to leave Germany.
+    Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon) while you wait, you don't need to leave Germany.
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. When you find a job, you can apply for the work visa. While you wait for your work visa, you can work 10 hours per week for your new employer.[^11]
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
@@ -101,14 +99,9 @@ If these options don't apply to you, you must [apply for the work visa in your h
 
 ### 2. Find a job
 
-You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15]
+You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your job offer must meet the [work visa requirements](#work-visa-requirements).
 
-Your job offer must meet the [work visa requirements](#work-visa-requirements):
-
-- [ ] Your employer is in Germany
-- [ ] and you have vocational training for this job
-- [ ] and you know how to do this job
-- [ ] and you have the permission to do this job
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
 ### 3. Prepare your work visa application
 
@@ -137,13 +130,13 @@ There are 2 ways to apply for the work visa in Berlin:
 - **Apply in person**  
     [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
 - or **send your documents online**  
-    Use the *Ausländerbehörde* contact form to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, you get an *Ausländerbehörde* appointment. Most of the time, it's your only option.
+    Use the [*Ausländerbehörde* contact form](/out/auslanderbehorde-contact) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Most of the time, this is your only option.
 
 ??? What appointment type to book ???
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes between 1 week and 5 months in total. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa.
+The *Ausländerbehörde* will process your application. It takes 1 week and 5 months to get an appointment. After the appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa.
 
 If you already have a residence permit, it stays valid until the *[[Ausländerbehörde]]* makes a decision. The conditions of your current residence permit apply until you get your new work visa.
 
@@ -196,7 +189,7 @@ You can also apply for a work visa **before you move to Germany**.[^26] This is 
 To apply in your home country:
 
 1. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
-2. Submit your application documents. The required documents are different in each country. The list is on the embassy or consulate's website.
+2. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
 3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 4. After you arrive in Germany, convert your National Visa into a work visa.
 
