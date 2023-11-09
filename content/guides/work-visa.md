@@ -35,12 +35,12 @@ To get a work visa, you need...[^18]
 - [ ] **Permission to do this job**  
     If the job requires a permit or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need.
 - [ ] **Vocational training**  
-    This means that you received professional training to do this job. Your training must be related to the job.[^44] ???What constitutes vocational training???
+    This means that you received professional training to do this job. {# What constitutes vocational training? How does it work? #}
 
 If you are over 45 years old, you must also have...[^43]
 
-- [ ] A [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year.
-- [ ] **or** a pension plan that guarantees your income after retirement. ???Clarify???
+- [ ] A [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year
+- [ ] **or** a pension plan that guarantees an income after retirement {# Give exact amount #}
 
 **There is no minimum salary** to get a work visa.[^42] If you have a high salary, the [[Blue Card]] is a better option.
 
@@ -132,7 +132,7 @@ There are 2 ways to apply for the work visa in Berlin:
 - or **send your documents online**  
     Use the [*Ausländerbehörde* contact form](/out/auslanderbehorde-contact) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Most of the time, this is your only option.
 
-??? What appointment type to book ???
+{# What appointment type to book #}
 
 ### 5. Wait
 
