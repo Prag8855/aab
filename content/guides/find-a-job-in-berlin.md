@@ -16,11 +16,11 @@ To start a business in Germany, read [this guide](/guides/become-a-freelancer-in
 
 ### Can you work in Germany?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], but there are [many other options](/guides/residence-permit#residence-permits-to-work).
+You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any other residence permit.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit)**
 
-It takes {{RESIDENCE_PERMIT_WAIT_TIME}} to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
+It takes *at least* {{ RESIDENCE_PERMIT_WAIT_TIME }} to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
 
 ### Do you need to speak German?
 
