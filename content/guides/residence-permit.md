@@ -16,11 +16,11 @@ Most people need a residence permit to live in Germany for more than 3 months. I
 - **[[European Union]], Iceland, Liechtenstein or Norway**  
     You don't need a residence permit. You can already live, work and study in Germany.[^0] If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
 - **Switzerland**  
-    You need a residence permit. It's easier to get.[^1] [More information here](https://service.berlin.de/dienstleistung/324287/en/).
+    You need a residence permit, but you can get any job you want.[^1] [More information here](https://service.berlin.de/dienstleistung/324287/en/).
 - **{{AUFENTHV_41_COUNTRIES}}**[^2]  
     You need a residence permit to work, study, or freelance in Germany. You can visit in Germany for up to 90 days without a visa.[^3] You can apply for a residence permit in Germany, or in your home country.
 - **Any other country**  
-    You need a residence permit to work, study, or freelance in Germany. You need a [job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers) look for work in Germany.[^3] You might need a [[Schengen visa]] to visit Germany as a tourist. You can't convert a tourist visa to a residence permit.[^4]
+    You need a [job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers) to come to Germany and [look for work](/guides/find-a-job-in-berlin).[^3] You need a residence permit to work, study, or freelance in Germany. You might need a [[Schengen visa]] to visit Germany as a tourist. You can't convert a tourist visa to a residence permit.[^4]
 
 **If you are a German [permanent resident](/glossary/Niederlassungserlaubnis)**, you can already live and work in Germany. You do not need another residence permit.
 
@@ -115,7 +115,7 @@ After a few years, you can apply for [permanent residence](/glossary/Niederlassu
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
-[^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/)
+[^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
 [^2]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^3]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
