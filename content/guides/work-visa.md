@@ -5,7 +5,7 @@ Description: This is how you apply for a work visa and work in Germany.
 Date_created: 2023-11-18
 ---
 
-The German [work visa](/glossary/Work%20Visa) is a [residence permit](/glossary/Aufenthaltstitel) for skilled workers.
+The German [work visa](/glossary/Work%20Visa) is a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
 
 With a work visa, you can...
 
@@ -37,12 +37,12 @@ To get a work visa, you need...[^18]
 - [ ] **Permission to do this job**  
     If your job requires a permit or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need. {# Rephrase #}
 
-If you are **not** from {{ BESCHV_26_COUNTRIES }}, you must have...[^48]
+If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^48]
 
 - [ ] **Vocational training**  
-    This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be similar to 2 years of professional training in Germany.
+    This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of professional training in Germany. {# Mention training obtained in Germany #}
 
-If you are **not** from {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
+If you are **not** a citizen of {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
 
 - [ ] **An employer in Germany**  
     You must work for a German employer, or an employer with an office in Germany.[^30]
@@ -60,10 +60,8 @@ If you can't get a work visa, there are other [residence permits](/glossary/Aufe
 
 - **[[Blue Card]]**  
     For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. You can get the Blue Card faster than a work visa.[^47] With a Blue Card, you also get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
-- **"Westbalkanregelung" work visa**
-    For citizens of {{ BESCHV_26_2_COUNTRIES }}. You can get a work visa for any job. No special skills or professional training needed.[^38]
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
-    Lets you work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
+    Work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
 - **[[Internship visa]]**  
     For university students who have an internship in Germany. It's valid for up to 6 months.
 - **[[Au pair visa]]**  
@@ -123,7 +121,9 @@ Before you apply for the work visa, you must...
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
-    You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+    You need [valid health insurance](/guides/german-visa-health-insurance). Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+- [ ] **Get your education recognised**  
+    {# TODO #}
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
 While you wait, you should also...
@@ -182,7 +182,7 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 1. **The eID activation code**  
     This letter arrives first. You need it to [activate the eID function](#activate-your-eid) of your work visa.
 2. **Your work visa**  
-    Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28] If you have not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit.
+    Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit.
 
 Your work visa is a plastic card. The expiration date is written on the card. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 
@@ -302,12 +302,17 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
         Some temporary apartments don't give you this document. You might not get a work visa if you don't have this document.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
         If you already [registered your address](/glossary/Anmeldung), bring this document. It's okay if you don't have this document.[^5]
-- [ ] **Proof of vocational training**  
-    A certificate or a degree that proves that you received training for your job.
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     If you need a permit or specific qualifications to do your job, bring them. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
 - [ ] **Certified translations**  
     If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept documents in English, but it's not worth the risk.
+
+If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
+
+- [ ] **Proof of vocational training**  
+    A certificate or a degree that proves that you received training for your job.
+- [ ] **Certificate of equivalence**  
+    Proof that your professional training is recognised in Germany.[^50] {# Clarify #}
 
 **Use PDF files or photos.** Word documents and other formats don't always work.[^37]
 
@@ -410,3 +415,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^47]: Citation needed
 [^48]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
+[^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)

@@ -31,9 +31,9 @@ Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which reside
 ## Types of residence permits
 
 - **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/work-visa)  
-    For skilled workers who live and work in Germany. You need a job offer from a German company to apply for this visa.[^5]
+    For working in Germany. You need a job offer to apply for this visa. You might need professional training. {# TODO: Phrasing #}
 - **[[Blue Card]]** - [How to apply](/guides/blue-card)  
-    For skilled workers who live and work in Germany. It's like a work visa, but better. You need a job offer and a university degree. There is a minimum salary requirement.
+    For working in Germany. Only for university graduates, or IT specialists with 3 years of experience. There is a minimum salary requirement.
 - **[Working holiday visa](/glossary/Working%20Holiday%20Visa)**  
     For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[Youth mobility visa](/glossary/Youth%20Mobility%20Visa)**  
@@ -119,7 +119,6 @@ After a few years, you can apply for [permanent residence](/glossary/Niederlassu
 [^2]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^3]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
-[^5]: [§18 AuftenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^8]: [Quora](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)

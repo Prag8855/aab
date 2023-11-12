@@ -56,11 +56,9 @@ You do not need a university degree if...[^31]
 If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
 - **[Work visa](/glossary/Work%20Visa)**  
-    For skilled workers with professional training. No minimum salary. No university degree required. You must have vocational training in your field. - [How to apply](/guides/work-visa)
-- **"Westbalkanregelung" work visa**
-    For citizens of {{ BESCHV_26_2_COUNTRIES }}. You can get a work visa for any job. No special skills or professional training needed.[^43]
+    No minimum salary. No university degree required. In some cases, you might need professional training. {# Ambiguous #} - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
-    Lets you work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
+    Work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
 - **[[Internship visa]]**  
     For university students who have an internship in Germany. It's valid for up to 6 months.
 - **[[Au pair visa]]**  
@@ -130,7 +128,7 @@ Before you apply for the Blue Card, you must...
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
-    You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your Blue Card application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+    You need [valid health insurance](/guides/german-visa-health-insurance). Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your Blue Card application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
 While you wait, you should also...
