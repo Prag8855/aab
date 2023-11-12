@@ -57,6 +57,8 @@ If you can't get a Blue Card, there are other [residence permits](/glossary/Aufe
 
 - **[Work visa](/glossary/Work%20Visa)**  
     For skilled workers with professional training. No minimum salary. No university degree required. You must have vocational training in your field. - [How to apply](/guides/work-visa)
+- **"Westbalkanregelung" work visa**
+    For citizens of {{ BESCHV_26_2_COUNTRIES }}. You can get a work visa for any job. No special skills or professional training needed.[^43]
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     Lets you work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
 - **[[Internship visa]]**  
@@ -392,3 +394,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)
 [^42]: Multiple relocation consultants (November 2023)
+[^43]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25), [German embassy in Belgrade](https://belgrad.diplo.de/rs-de/service/05-VisaEinreise/-/2310108)

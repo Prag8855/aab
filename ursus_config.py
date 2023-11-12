@@ -304,6 +304,9 @@ config.context_globals = {
     # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
     "AUFENTHV_41_COUNTRIES": "Australia, Canada, Israel, Japan, New Zealand, South Korea, the United Kingdom or the United States",
 
+    "BESCHV_26_1_COUNTRIES": "Australia, Canada, Israel, Japan, Monaco, New Zealand, San Marino, South Korea, the United Kingdom or the United States",
+    "BESCHV_26_2_COUNTRIES": "Albania, Bosnia and Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia",
+
     # ==============================================================================
     # TAXES
     # ==============================================================================
