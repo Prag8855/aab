@@ -33,6 +33,10 @@ def build_wikilinks_url(label, base, end):
     return '{}{}{}'.format(base, urllib.parse.quote(label), end)
 
 
+def or_join(items):
+    return ', '.join(items[:-1]) + ' or ' + items[-1]
+
+
 config.content_path = Path(__file__).parent / 'content'
 config.templates_path = Path(__file__).parent / 'templates'
 config.output_path = Path(__file__).parent.parent / 'output'
@@ -187,6 +191,39 @@ health_insurance_max_pflegeversicherung = 4
 health_insurance_min_zusatzbeitrag = 1
 health_insurance_max_zusatzbeitrag = 1.9
 
+aufenthv_41_countries = [
+    "Australia",
+    "Canada",
+    "Israel",
+    "Japan",
+    "New Zealand",
+    "South Korea",
+    "the United Kingdom",
+    "the United States",
+]
+
+beschv_26_1_countries = [
+    "Australia",
+    "Canada",
+    "Israel",
+    "Japan",
+    "Monaco",
+    "New Zealand",
+    "San Marino",
+    "South Korea",
+    "the United Kingdom",
+    "the United States",
+]
+
+beschv_26_2_countries = [
+    "Albania",
+    "Bosnia-Herzegovina",
+    "Kosovo",
+    "North Macedonia",
+    "Montenegro",
+    "Serbia",
+]
+
 config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
@@ -302,10 +339,11 @@ config.context_globals = {
     "WORK_VISA_MIN_INCOME": beitragsbemessungsgrenze_west * 0.55,
 
     # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
-    "AUFENTHV_41_COUNTRIES": "Australia, Canada, Israel, Japan, New Zealand, South Korea, the United Kingdom or the United States",
+    "AUFENTHV_41_COUNTRIES": or_join(aufenthv_41_countries),
 
-    "BESCHV_26_1_COUNTRIES": "Australia, Canada, Israel, Japan, Monaco, New Zealand, San Marino, South Korea, the United Kingdom or the United States",
-    "BESCHV_26_2_COUNTRIES": "Albania, Bosnia and Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia",
+    "BESCHV_26_COUNTRIES": or_join(sorted(beschv_26_1_countries + beschv_26_2_countries)),
+    "BESCHV_26_1_COUNTRIES": or_join(beschv_26_1_countries),
+    "BESCHV_26_2_COUNTRIES": or_join(beschv_26_2_countries),
 
     # ==============================================================================
     # TAXES

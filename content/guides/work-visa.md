@@ -28,23 +28,31 @@ The work visa is a type of [residence permit](/glossary/Aufenthaltstitel). You n
 
 To get a work visa, you need...[^18]
 
-- [ ] **A job offer in Germany**  
-    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your employer must have an office in Germany.[^30]
+- [ ] **A job offer**  
+    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15]
+- [ ] **A fair salary**  
+    You must earn the same salary as other people with the same job.[^32] If your salary is too low for your profession, you might not get a work visa. There is no minimum salary for the work visa.[^42] If you have a high salary, the [[Blue Card]] is a better option. - [Compare salaries in Germany](/guides/salaries-in-germany)
 - [ ] **Qualifications for the job**  
     You must have the skills and experience to do this job. For example, you must be a programmer to get a programming job.
 - [ ] **Permission to do this job**  
     If the job requires a permit or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need.
-- [ ] **Vocational training**  
-    This means that you received professional training to do this job. {# What constitutes vocational training? How does it work? #}
 
-If you are over 45 years old, you must also have...[^43]
+If you are **not** from {{ BESCHV_26_COUNTRIES }}, you must have...
+
+- [ ] **Vocational training**  
+    This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be similar to 2 years of professional training in Germany.
+
+If you are **not** from {{ BESCHV_26_1_COUNTRIES }}, you must have...
+
+- [ ] **An employer in Germany**  
+    You must work for a German employer, or an employer with an office in Germany.[^30]
+
+If you are over 45 years old, you must have...[^43]
 
 - [ ] A [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year
 - [ ] **or** a pension plan that guarantees an income after retirement {# Give exact amount #}
 
-**There is no minimum salary** to get a work visa.[^42] If you have a high salary, the [[Blue Card]] is a better option.
-
-**You do not need to speak German** to get a work visa.[^27]
+**You do not need to speak German** to get a work visa.[^27] {# Except if you can't do your job without it? #}
 
 ## Work visa alternatives
 
