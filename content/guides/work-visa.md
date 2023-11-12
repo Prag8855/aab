@@ -84,7 +84,7 @@ You can apply in Germany if...
 
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
-- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
+- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)[^41]
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
 
@@ -146,7 +146,7 @@ There are 2 ways to apply for the work visa in Berlin:
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes 1 week and 5 months to get an appointment. After the appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa.
+The *Ausländerbehörde* will process your application. It takes 1 week to 5 months to get an appointment. After the appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa.
 
 If you already have a residence permit, it stays valid until the *[[Ausländerbehörde]]* makes a decision. The conditions of your current residence permit apply until you get your new work visa.
 
@@ -168,6 +168,8 @@ When you go to your appointment, bring...[^7]
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. If you need an interpreter, I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
 - [ ] **The [required documents ↓](#required-documents)**  
     If you did not send your application online, bring all your application documents.
+- [ ] **Visa, MasterCard or [[Girocard]]**  
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You can't pay with cash. Sometimes you must pay later, when you pick up your work visa.
 
 The appointment takes around 15 minutes. During the appointment, they take your fingerprints for your work visa.
 
@@ -180,7 +182,7 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 1. **The eID activation code**  
     This letter arrives first. You need it to [activate the eID function](#activate-your-eid) of your work visa.
 2. **Your work visa**  
-    Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28]
+    Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28] If you have not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit.
 
 Your work visa is a plastic card. The expiration date is written on the card. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 
@@ -196,20 +198,33 @@ Check if the information on your work visa is correct. The *Ausländerbehörde* 
 
 You can also apply for a work visa **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
 
-To apply in your home country:
+To apply in your home country:[^4]
 
-1. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
-2. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
-3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
-4. After you arrive in Germany, convert your National Visa into a work visa.
+1. Get your vocational training recognised. Follow [the instructions on this website](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession).
+2. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
+3. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
+4. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+5. After you arrive in Germany, convert your National Visa into a work visa.
 
-### 1. Get an appointment at the German embassy or consulate
+### 1. Get your education recognised
 
-Get an appointment at the German embassy or consulate in your country. It can be really hard to find an appointment. Your appointment might be in a few months.
+To get a work visa, you must have professional training. Your training must be equivalent to 2 years of professional training in Germany. You must prove this with a recognition of equivalence ({# what's that called? #}).[^46]
+
+You must get your job training recognised *before* you apply for the work visa.
+
+The process depends on your profession.[^21] It can take a few weeks, or a few months.[^8] There might be an interview or a competence test.[^24] It might cost money.[^31] {# How much? #}
+
+{# This does not apply if you use the fast track procedure. Then you just submit everything at once. #}
+
+**[Learn how to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
+
+### 2. Get an appointment at the German embassy or consulate
+
+Get an appointment at the German embassy or consulate in your country. In some countries, it can take months to find an appointment.[^33] Your appointment might be in a few months.
 
 **[Find your German embassy or consulate ➞](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)**
 
-### 2. Prepare for your interview
+### 3. Prepare for your interview
 
 Before your embassy or consulate appointment, you must...
 
@@ -224,15 +239,15 @@ Before your embassy or consulate appointment, you must...
     You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
-### 3. Go to your National Visa appointment
+### 4. Go to your National Visa appointment
 
 Go to your appointment at the German embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
-### 4. Receive your National Visa
+### 5. Receive your National Visa
 
 In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 
-### 5. Come to Germany, start working
+### 6. Come to Germany, start working
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start working.[^40]
 
@@ -242,7 +257,7 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-### 6. Convert your National Visa into a work visa
+### 7. Convert your National Visa into a work visa
 
 Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a work visa at the *[[Ausländerbehörde]]*.
 
@@ -346,12 +361,12 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^2]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
+[^4]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=10) (page 8)
 [^3]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=lasts%203%20months%20longer%20than%20your%20employment%20contract), [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
-[^4]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=only%20possible%20online)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
-[^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card%2C%20paypal%2C%20giropay)
+[^8]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: Citation needed
 [^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
@@ -364,28 +379,29 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
-[^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§42 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0927)
-[^24]: Citation needed
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
-[^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
+[^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=15)
 [^28]: It depends on your case worker (October 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=the%20employer%20must%20have%20a%20place%20of%20business%20in%20germany)
-[^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
-[^32]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
-[^33]: [§18i AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18i.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
-[^38]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=if%20you%20have%20a%20residence%20title%20of%20another%20schengen%20country)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
-[^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)
 [^42]: Citation needed
-[^43]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=only%20if%20you%20are%20over%2045%20years%20of%20age)
-[^44]: [§18a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18a.html)
-[^45]: Multiple relocation consultants (November 2023)[^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25), [German embassy in Belgrade](https://belgrad.diplo.de/rs-de/service/05-VisaEinreise/-/2310108)
+[^43]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=only%20if%20you%20are%20over%2045%20years%20of%20age), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=for%20people%20aged%2045%20or%20over)
+[^45]: Multiple relocation consultants (November 2023)
+[^21]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
+[^24]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
+[^31]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=fees%20are%20charged%20for%20this%20procedure)
+[^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=12) (page 10), [Agentur für Arbeit](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland#:~:text=zustimmung%20zur%20beschaftigung)
+[^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
+[^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25), [German embassy in Belgrade](https://belgrad.diplo.de/rs-de/service/05-VisaEinreise/-/2310108)
+[^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)
+[^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
+[^46]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/1_Arbeiten_in_DE/2023_Jan_MiiG_Anleitung_anabin-Datenbank_EN.pdf)
