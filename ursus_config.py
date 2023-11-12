@@ -45,7 +45,6 @@ config.site_url = os.environ.get('SITE_URL', '')
 config.html_url_extension = ''
 
 config.checkbox_list_item_class = 'checkbox'
-config.footnote_superscript_text = '*'
 config.table_wrapper_class = 'table-wrapper'
 
 config.lunr_indexes = {
