@@ -10,9 +10,9 @@ The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltsti
 With a Blue Card, you can...
 
 - Live and work anywhere in Germany
-- Visit countries in the [[Schengen area]][^13]
-- Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)[^14]
-- Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
+- Bring your family to Germany[^14]
+- Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
 
 This guide explains how to apply for a [[Blue Card]] in Berlin or in your home country.
 
@@ -37,9 +37,9 @@ To get a Blue Card, you need...[^18]
     - [ ] **A long term contract**  
         Your job contract must be for at least 6 months.[^24]
 - [ ] **Qualifications for the job**  
-    You must have the skills and experience to do this job. For example, you must be a programmer to get a programming job.
+    You must know how to do your job. For example, to get a programming job, you must know how to program.
 - [ ] **Permission to do this job**  
-    If the job requires permits or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need.
+    If the job requires permits or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need. {# Rephrase #}
 - [ ] **A university degree**  
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 

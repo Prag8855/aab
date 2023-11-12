@@ -10,9 +10,9 @@ The German [work visa](/glossary/Work%20Visa) is a [residence permit](/glossary/
 With a work visa, you can...
 
 - Live and work anywhere in Germany
-- Visit countries in the [[Schengen area]][^13]
-- Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)[^14]
-- Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 60 months[^10]
+- Bring your family to Germany[^14]
+- Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 60 months[^10]
 
 This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Berlin or in your home country.
 
@@ -31,18 +31,18 @@ To get a work visa, you need...[^18]
 - [ ] **A job offer**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15]
 - [ ] **A fair salary**  
-    You must earn the same salary as other people with the same job.[^32] If your salary is too low for your profession, you might not get a work visa. There is no minimum salary for the work visa.[^42] If you have a high salary, the [[Blue Card]] is a better option. - [Compare salaries in Germany](/guides/salaries-in-germany)
-- [ ] **Qualifications for the job**  
-    You must have the skills and experience to do this job. For example, you must be a programmer to get a programming job.
+    There is no minimum salary, but your salary must be reasonable.[^42] You must have the same salary as Germans with a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
+- [ ] **Qualifications for your job**  
+    You must know how to do your job. For example, to get a programming job, you must know how to program.
 - [ ] **Permission to do this job**  
-    If the job requires a permit or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need.
+    If your job requires a permit or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need. {# Rephrase #}
 
-If you are **not** from {{ BESCHV_26_COUNTRIES }}, you must have...
+If you are **not** from {{ BESCHV_26_COUNTRIES }}, you must have...[^48]
 
 - [ ] **Vocational training**  
     This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be similar to 2 years of professional training in Germany.
 
-If you are **not** from {{ BESCHV_26_1_COUNTRIES }}, you must have...
+If you are **not** from {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
 
 - [ ] **An employer in Germany**  
     You must work for a German employer, or an employer with an office in Germany.[^30]
@@ -59,7 +59,7 @@ If you are over 45 years old, you must have...[^43]
 If you can't get a work visa, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
 - **[[Blue Card]]**  
-    For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. You can get the Blue Card faster. With a Blue Card, you also get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
+    For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. You can get the Blue Card faster than a work visa.[^47] With a Blue Card, you also get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
 - **"Westbalkanregelung" work visa**
     For citizens of {{ BESCHV_26_2_COUNTRIES }}. You can get a work visa for any job. No special skills or professional training needed.[^38]
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
@@ -405,3 +405,6 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
 [^46]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/1_Arbeiten_in_DE/2023_Jan_MiiG_Anleitung_anabin-Datenbank_EN.pdf)
+[^47]: Citation needed
+[^48]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
+[^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
