@@ -282,8 +282,8 @@ If you need to translate documents to German, use [Red Tape Translation](/out/re
 ### Basic documents
 
 - **Freelance visa application form, filled** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    *[Template](/docs/german-freelance-visa-form) - [detailed guide](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)*  
-    This form is available in [German, English, French and Italian](/docs/german-freelance-visa-form). For instructions on how to fill this form, see [this guide](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/). This is only required if you apply for the first time.[^25]
+    *[Template](/docs/residence-permit-application-form) - [detailed guide](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)*  
+    This form is available in [German, English, French and Italian](/docs/residence-permit-application-form). For instructions on how to fill this form, see [this guide](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/). This is only required if you apply for the first time.[^25]
 - **Appointment confirmation**  
     This document shows a lot of useful information about your appointment.
 - **2 passport photos**  

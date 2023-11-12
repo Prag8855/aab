@@ -1,14 +1,13 @@
 ---
 Title: German visa application form
 German_term: Antrag auf Erteilung eines Aufenthaltstitels
-English_term: Application for a Visa or Residence Permit
-German_document: documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
-English_document: documents/lea-agen1-antrag_engl_frz_ital-112021.pdf
-Description: The official English translation of the German freelance visa application form
+English_term: Application for a residence permit
+German_document: documents/residence-permit-application-form-2021.pdf
+English_document: documents/residence-permit-application-form-2021.pdf
+Description: The form to apply for a German residence permit like the work visa or freelance visa.
 Date_created: 2018-06-07
 Related_guides:
     guides/how-to-get-a-german-freelance-visa.md
-    guides/blue-card.md
     guides/work-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
@@ -43,4 +42,4 @@ You can download this form in 11 languages:
 
 ## How to fill this form
 
-**[How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** - Essential Packing Checklists
+**[How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** (2017 version) - Essential Packing Checklists

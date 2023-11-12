@@ -384,7 +384,7 @@ The interviewer will scan your documents page by page. Do not staple the pages t
     - [ ] **[The "job description" form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
         Your employer should fill this form. Download the form [here](/documents/Stellenbeschreibung.pdf), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
     - [ ] **[The "application for issuance of a residence permit" form](/documents/Antrag-auf-Erteilung-eines-Aufenthaltstitels.pdf)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-        Download the form [here](/docs/german-freelance-visa-form), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f72301-labo_agen1__antrag_engl_frz_ital_03_2017.pdf). This is the same form as for other [residence permits](/glossary/Aufenthaltstitel).
+        Download the form [here](/docs/residence-permit-application-form), or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f72301-labo_agen1__antrag_engl_frz_ital_03_2017.pdf). This is the same form as for other [residence permits](/glossary/Aufenthaltstitel).
 
 ## Questions and answers
 
