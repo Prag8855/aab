@@ -1,5 +1,7 @@
 {% js %}
-window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
+
+const plausibleFallback = function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
+window.plausible = window.plausible || plausibleFallback;
 
 // Log frontend errors to the server
 window.addEventListener('error', e => {
@@ -61,7 +63,9 @@ function sendLinkClickEvent(event, link, eventName, eventProps) {
 	}
 	if (openLinkAfterTracking(event, link)) {
 		plausible(eventName, { props: eventProps, callback: followLink });
-		setTimeout(followLink, 1500);
+
+		// Redirect after 1.5s if tracking fails, 0s if plausible script was blocked
+		setTimeout(followLink, window.plausible === plausibleFallback ? 0 : 1500);
 		event.preventDefault();
 	} else {
 		plausible(eventName, { props: eventProps });
