@@ -144,9 +144,9 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 **[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index)** - berlin.de
 
-It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8] It's cheaper for Turkish citizens.
+It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 
-After you pay and send your application, you get a PDF by email. This is a proof of application. Save it for later.
+After you pay and send your application, you can download a PDF. This is a proof of application. Save it for later.
 
 ### 5. Wait
 

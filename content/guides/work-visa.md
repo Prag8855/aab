@@ -169,7 +169,7 @@ When you go to your appointment, bring...[^7]
 - [ ] **The [required documents ↓](#required-documents)**  
     If you did not send your application online, bring all your application documents.
 - [ ] **Visa, MasterCard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You can't pay with cash. Sometimes you must pay later, when you pick up your work visa.
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You can't pay with cash. Sometimes you must pay later, when you pick up your work visa. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 
 The appointment takes around 15 minutes. During the appointment, they take your fingerprints for your work visa.
 
@@ -182,7 +182,7 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 1. **The eID activation code**  
     This letter arrives first. You need it to [activate the eID function](#activate-your-eid) of your work visa.
 2. **Your work visa**  
-    Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit.
+    Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 
 Your work visa is a plastic card. The expiration date is written on the card. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 
