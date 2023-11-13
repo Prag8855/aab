@@ -218,13 +218,19 @@ The process depends on your profession.[^21] It can take a few weeks, or a few m
 
 **[Learn how to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
 
-### 2. Get an appointment at the German embassy or consulate
+### 2. Find a job
+
+You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your job offer must meet the [work visa requirements](#work-visa-requirements).
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+### 3. Get an appointment at the German embassy or consulate
 
 Get an appointment at the German embassy or consulate in your country. In some countries, it can take months to find an appointment.[^33] Your appointment might be in a few months.
 
 **[Find your German embassy or consulate ➞](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)**
 
-### 3. Prepare for your interview
+### 4. Prepare for your interview
 
 Before your embassy or consulate appointment, you must...
 
@@ -239,15 +245,15 @@ Before your embassy or consulate appointment, you must...
     You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
-### 4. Go to your National Visa appointment
+### 5. Go to your National Visa appointment
 
 Go to your appointment at the German embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
-### 5. Receive your National Visa
+### 6. Receive your National Visa
 
 In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 
-### 6. Come to Germany, start working
+### 7. Come to Germany, start working
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start working.[^40]
 
@@ -257,7 +263,7 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-### 7. Convert your National Visa into a work visa
+### 8. Convert your National Visa into a work visa
 
 Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a work visa at the *[[Ausländerbehörde]]*.
 

@@ -107,16 +107,9 @@ If these options don't apply to you, you must [apply for the Blue Card in your h
 
 ### 2. Find a job
 
-You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15]
+You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
 
-Your job offer must meet the [Blue Card requirements](#blue-card-requirements):
-
-- [ ] Your employer is in Germany
-- [ ] and your salary is high enough
-- [ ] and you have a recognised university degree **or** you are an IT specialist with 3 years of experience
-- [ ] and your job contract is for 6 months or longer
-- [ ] and you know how to do this job
-- [ ] and you have the permission to do this job
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
 ### 3. Prepare your Blue Card application
 
@@ -207,18 +200,22 @@ To apply in your home country:
 3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 4. After you arrive in Germany, convert your National Visa into a Blue Card.
 
-### 1. Get an appointment at the German embassy or consulate
+### 1. Find a job
+
+You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+### 2. Get an appointment at the German embassy or consulate
 
 Get an appointment at the German embassy or consulate in your country. It can be really hard to find an appointment. Your appointment might be in a few months.
 
 **[Find your German embassy or consulate ➞](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)**
 
-### 2. Prepare for your interview
+### 3. Prepare for your interview
 
 Before your embassy or consulate appointment, you must...
 
-- [ ] **Find a job**  
-    You must find a job before you apply for the Blue Card. The job must meet the [Blue Card requirements](#blue-card-requirements). - [How to find a job](/guides/find-a-job-in-berlin)
 - [ ] **Find a place to live in Germany**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
@@ -228,15 +225,15 @@ Before your embassy or consulate appointment, you must...
     You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They help you choose health insurance for your Blue Card application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
-### 3. Go to your National Visa appointment
+### 4. Go to your National Visa appointment
 
 Go to your appointment at the German embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
-### 4. Receive your National Visa
+### 5. Receive your National Visa
 
 In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 
-### 5. Come to Germany, start working
+### 6. Come to Germany, start working
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start working.[^40]
 
@@ -246,7 +243,7 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
 
-### 6. Convert your National Visa into a Blue Card
+### 7. Convert your National Visa into a Blue Card
 
 Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
 
