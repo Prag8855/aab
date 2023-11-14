@@ -3,6 +3,8 @@ Title: How to get a Blue Card for Germany
 Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
+Related_reviews:
+    reviews/blue-card/debora-aust.md
 ---
 
 The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltstitel) for skilled workers.

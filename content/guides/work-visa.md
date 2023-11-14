@@ -3,6 +3,10 @@ Title: How to get a German work visa
 Short_title: How to get a work visa
 Description: This is how you apply for a work visa and work in Germany.
 Date_created: 2023-11-18
+Related_reviews:
+    reviews/work-visa/alexander-baron-von-engelhardt.md
+    reviews/work-visa/kathleen-parker.md
+    reviews/work-visa/johanna-sieben.md
 ---
 
 The German [work visa](/glossary/Work%20Visa) is a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
