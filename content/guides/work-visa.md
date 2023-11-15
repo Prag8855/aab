@@ -238,15 +238,10 @@ Get an appointment at the German embassy or consulate in your country. In some c
 
 Before your embassy or consulate appointment, you must...
 
-- [ ] **Find a job**  
-    You must find a job before you apply for the work visa. The job must meet the [work visa requirements](#work-visa-requirements). - [How to find a job](/guides/find-a-job-in-berlin)
 - [ ] **Find a place to live in Germany**  
-    It's really hard to find an apartment. Start looking as soon as you can.
-    - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
-    - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
+    It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
-    You need valid health insurance. Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
 ### 5. Go to your National Visa appointment
@@ -426,3 +421,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^48]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
+[^51]: Multiple relocation consultants (November 2023)
