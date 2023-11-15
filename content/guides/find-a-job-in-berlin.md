@@ -180,9 +180,9 @@ If you are not sure about your contract, [ask for help](/guides/questions-about-
 
 If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for the residence permit.
 
-Your employer can hire a relocation consultant to help you. It makes everything easier.
-
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
+
+Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
 
 **[How to get a work visa ➞](/guides/work-visa)**
 
@@ -198,10 +198,10 @@ Your employer can hire a relocation consultant to help you. It makes everything 
     Your employer will pay you by bank transfer. For this, you need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Any European bank account will work.
 - **Your [tax ID](/glossary/Steueridentifikationsnummer)** (*Steueridentifikationsnummer*)  
     You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, you can still get a tax ID. If you can't get a tax ID, you can still start working. - [More information](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)
-- **Your health insurance number** (*Krankenversicherungsnummer*)  
-    If you live in Germany, you must [choose health insurance](/guides/german-health-insurance). 2 to 7 days after you get health insurance, you get a *Krankenversicherungsnummer*. Your employer needs this number to take health insurance payments from your salary.
+- **Your [health insurance](/glossary/Krankenversicherung) number** (*Krankenversicherungsnummer*)  
+    You get a *Krankenversicherungsnummer* 2 to 7 days after you [choose health insurance](/guides/german-health-insurance). Your employer needs this number to take health insurance payments from your salary.
 - **Your [social insurance number](/guides/german-versicherungsnummer)** (*Sozialversicherungsnummer*)  
-    If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your employer can sometimes help you with this. More information [here](/guides/german-versicherungsnummer).
+    If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your employer can sometimes help you with this. - [How to get a social insurance number](/guides/german-versicherungsnummer)
 
 ### The probation period
 
@@ -211,11 +211,13 @@ During your first 6 months at a new company, you are in your probation period (*
 
 ### Things an employee must know
 
-Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung) once per month, [on the first day of the month](/guides/salaries-in-germany#when-do-i-get-paid).[^3] Your employer takes [salary tax](/glossary/Lohnsteuer), [health insurance](/glossary/Krankenversicherung), [pension insurance](/glossary/gesetzliche%20Rentenversicherung) and [unemployment insurance](/glossary/Arbeitslosenversicherung) from your paycheck. Use my [income tax calculator](/tools/tax-calculator) to know how much money you keep.
+Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung) once per month, [on the first day of the month](/guides/salaries-in-germany#when-do-i-get-paid).[^3] Your employer takes [salary tax](/glossary/Lohnsteuer), [health insurance](/glossary/Krankenversicherung), [pension insurance](/glossary/gesetzliche%20Rentenversicherung) and [unemployment insurance](/glossary/Arbeitslosenversicherung) from your paycheck. 
+
+**[Income tax calculator ➞](/tools/tax-calculator)**
 
 **[How taxes work ➞](/guides/taxes)**
 
-All employees in Germany get paid vacation days, and paid sick days.
+All employees in Germany get paid [vacation days](/guides/vacation-days), and paid [sick leave](/guides/sick-leave). You don't work on [public holidays](/guides/public-holidays), but you still get paid.
 
 **[How to take vacations ➞](/guides/vacation-days)**
 
@@ -240,8 +242,8 @@ If you started working in the middle of the year, you probably paid too much [sa
 
 These people can help you get hired. For example, they can review your resume and cover letter. Their fee is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
-- [Imagine Foundation](https://www.joinimagine.com/) - Free career coaching for software engineer and data scientists
-- [HalloGermany](https://hallogermany.com/services-for-internationals/p/career-coaching) - Career coaching
+- [Imagine Foundation](https://www.joinimagine.com/) - Free career coaching for software engineers and data scientists
+- [Hallo Germany](https://hallogermany.com/services-for-internationals/p/career-coaching) - Career coaching
 
 ### Other services
 
