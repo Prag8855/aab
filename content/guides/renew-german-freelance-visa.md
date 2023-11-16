@@ -60,13 +60,13 @@ Note: Immigration law uses the term "*Selbständiger*", and business law uses "*
 
 When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted.[^2] You need a real public or private health insurance.
 
-**[Health insurance for a freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
+**[Health insurance for the freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
 It usually takes 1 or 2 weeks to switch to another health insurance. In some cases, it takes up to 3 months. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose health insurance, and fill the paperwork for you. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 ### 3. Find a tax advisor
 

@@ -227,15 +227,29 @@ There are **3 reasons to get expat health insurance**:
 - **It's not accepted when you renew a residence permit**  
     Expat insurance is rarely accepted when you renew your [residence permit](/glossary/Aufenthaltstitel), or when you apply for a different residence permit.[^29] You must have real public or private health insurance.
 - **It can expire after 5 years**  
-    Some expat insurances are only valid for 5 years.[^22] Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive.[^30] If you settle in Germany, switch to real health insurance [as soon as possible](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance).
+    Some expat insurances are only valid for 5 years.[^22] Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive. If you settle in Germany, switch to real health insurance [as soon as possible](/guides/german-visa-health-insurance#dont-stay-on-expat-health-insurance).
 - **The price goes up faster**  
     The cost of expat insurance rises really quickly.[^22] If your expat insurance does not expire, it can become really expensive when you are old. If you stay in Germany for a long time, public or private health insurance is cheaper.
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a deductible for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
-**[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
+**[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
 You can get expat health insurance from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats), or any [health insurance broker](#insurance-brokers).
+
+## Don't stay on expat health insurance
+
+[[Expat health insurance]] is a temporary option. Switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) as soon as you can. If you wait too long, you can have problems:
+
+> **Example 1:** You are a freelancer, and you have expat insurance for 3 years. You regularly see a psychotherapist. You must [renew your freelance visa](/guides/renew-german-freelance-visa), so you need public or private health insurance. Since you see a therapist, no insurer wants to cover you. You can't find health insurance, so you can't renew your freelance visa.[^11]
+
+> **Example 2:** You have expat health insurance. You get cancer. After 5 years, your expat insurance expires, and no insurer wants to cover you.
+
+If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
+
+**If you are a freelancer**, switch to public or private health insurance as soon as possible. It's more expensive, but you don't really have a choice. You can get cheaper health insurance if you [join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse).
+
+**If you are a student**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university. If you wait too long, you will be stuck with expat insurance.
 
 ## Travel insurance
 
@@ -319,7 +333,6 @@ There are more types of insurance in Germany, but health and liability insurance
 [^27]: [abc-der-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/geringfuegig-beschaeftigte-minijob/)
 [^28]: [krankenkassenzentrale.de](http://web.archive.org/web/20220928194950/https://www.krankenkassenzentrale.de/wiki/krankenkasse-studenten)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
-[^30]: [allaboutberlin.com](/guides/german-visa-health-insurance#how-long-can-you-stay-on-expat-health-insurance)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)
 [^26]: [Feather Insurance](/out/feather) (May 2023)

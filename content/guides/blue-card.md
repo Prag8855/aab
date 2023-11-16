@@ -123,7 +123,7 @@ Before you apply for the Blue Card, you must...
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance). Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your Blue Card application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your Blue Card application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
 While you wait, you should also...
@@ -272,7 +272,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **[Job description form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
 - [ ] **Proof of health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance). Travel insurance is not accepted. To choose health insurance, [talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers).
+    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. To choose health insurance, [talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers).
     - [ ] **Mitgliedsbescheinigung** or *Nachweis der Krankenversicherung*  
         Get this document from your health insurer or health insurance broker. If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), ask for a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)*. If you have [private health insurance](/glossary/private%20Krankenversicherung), ask for a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*.[^6]
     - [ ] or **health insurance card** with photo, if you have one.
