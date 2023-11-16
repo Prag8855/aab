@@ -66,7 +66,7 @@ If you send all your documents, it counts as a residence permit application. Thi
 
 ### By fax
 
-The Ausländerbehörde does not accept fax messages. You must use the online contact form.
+The Ausländerbehörde does not accept fax messages. This trick does not work. You must use the online contact form.
 
 **[How to contact the Ausländerbehörde ↓](#how-to-contact-the-auslanderbehorde)**
 
@@ -114,7 +114,7 @@ If you had a German residence permit for over 3 years, you might get an unrestri
 
 Your residence permit is a plastic card, not a sticker in your passport. Your address is written on the card. If you move to another address, they will update your residence permit during the *[[Anmeldung]]*. They just put a sticker with your new address on your residence permit.
 
-After you receive your plastic residence permit, [activate your eAT](#activate-your-eid).
+After you receive your plastic residence permit, [activate your eAT](/guides/eid-online-ausweisfunktion).
 
 ### If your application is rejected
 
@@ -234,8 +234,6 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023)
-[^22]: [Instagram](https://www.instagram.com/p/CtL2b9wNC1V/), [Reddit](https://old.reddit.com/r/berlin/comments/14xk4ni/the_berlin_ausl%C3%A4nderbeh%C3%B6rde/), [Twitter](https://twitter.com/Eva_Kappl/status/1701839353624793565)
-[^24]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), [rbb24](https://twitter.com/rbb24/status/1701885546161684677)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/sof7dm/beyond_frustrated_with_ausl%C3%A4nderbeh%C3%B6rde_please/hw8ax66/)
 [^25]: Multiple relocation consultants (October 2023)
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)

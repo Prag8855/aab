@@ -36,7 +36,7 @@ You must do this before you apply for apartments:
 ### Things that are different in Germany
 
 - **The deposit**  
-    Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#pay-in-instalments). - [More about the deposit](/guides/mietkaution)
+    Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). - [More about the deposit](/guides/mietkaution)
 - **Cold rent and warm rent**  
     In Germany, there is the cold rent (*[[Kaltmiete]]*) and the warm rent (*[[Warmmiete]]*). The warm rent is the cold rent plus utilities (*[[Nebenkosten]]*). It's what you pay every month. The *Nebenkosten* are not a fixed cost; your landlord adjusts them once per year based on your usage.
 - **Nothing is included**  
@@ -295,7 +295,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 Here are a few tricks to avoid scams:
 
 - **Wait before you pay**  
-    Don't send any money before you see the apartment in person and sign the lease.[^26] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#pay-in-instalments). You never have to pay a fee to see an apartment, or to apply for it.[^42]
+    Don't send any money before you see the apartment in person and sign the lease.[^26] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You never have to pay a fee to see an apartment, or to apply for it.[^42]
 - **Wait before you send documents**  
     Don't send your pay slips, your *[[Steuerbescheid]]* or a copy of your passport before you see the apartment. You don't need to share these documents to visit an apartment, only to apply for it. You should censor the parts of the documents that they don't need to see.
 - **See the apartment in person**  
