@@ -124,14 +124,14 @@ There are two ways to apply for the work visa and the Blue Card:
 1. **[Apply in Germany](#how-to-apply-in-germany)**  
     Come to Germany, find a job, then apply for a work visa or Blue Card in Germany. You can't work until you have a work visa or Blue Card, but you can look for a job and prepare for your residence permit interview.[^41] It's easier to [find a job](/guides/find-a-job-in-berlin), [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You might have to wait a few months without any income. This is riskier and more expensive.
 2. **[Apply in your country](#how-to-apply-in-your-country)**  
-    Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a work visa or Blue Card. You can start working as soon as you arrive in Germany. This is safer and cheaper. It takes around 4 months.[^15]
+    Apply for a temporary visa at the [German embassy in your country](/out/consulate-finder), come to Germany, then convert your temporary visa to a work visa or Blue Card. You can start working as soon as you arrive in Germany. This is safer and cheaper. It takes around 4 months.[^15]
 
 The best option depends on your citizenship:
 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^16] You can come to Germany, find a job, then apply for a work visa or Blue Card in Germany.[^17] You can also apply in your home country.
 - **If you are a citizen of any other country**, there are two ways to get a work visa or Blue Card:
-    1. Apply for a work visa or Blue Card at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
-    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen),[^18] come to Germany, [find a job](/guides/find-a-job-in-berlin), then apply for a work visa or Blue Card in Germany.
+    1. Apply for a work visa or Blue Card at the [German embassy in your country](/out/consulate-finder).
+    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](/out/consulate-finder),[^18] come to Germany, [find a job](/guides/find-a-job-in-berlin), then apply for a work visa or Blue Card in Germany.
 
 ## How to apply in Germany
 
@@ -305,7 +305,7 @@ If you apply for a work visa, it's valid for up to 3 years.[^14] If you apply fo
 
 ### Step 1: Get your appointment at the German embassy or consulate
 
-Get an appointment at [your local German embassy or consulate](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen). It can be hard to find an appointment. You might only get an appointment 2-3 months later.[^30] Start looking as soon as possible.
+Get an appointment at [your local German embassy or consulate](/out/consulate-finder). It can be hard to find an appointment. You might only get an appointment 2-3 months later.[^30] Start looking as soon as possible.
 
 ### Step 2: Prepare for your visa interview
 

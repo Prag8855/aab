@@ -58,7 +58,7 @@ You do not need a university degree if...[^31]
 If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
 - **[Work visa](/glossary/Work%20Visa)**  
-    No minimum salary. No university degree required. In some cases, you might need professional training. {# Ambiguous #} - [How to apply](/guides/work-visa)
+    No minimum salary. No university degree required. In some cases, you might need professional training. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     Work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
 - **[[Internship visa]]**  
@@ -88,7 +88,7 @@ If you can't apply in Germany, you must [apply in your home country](#how-to-app
 
 Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a Blue Card. They take care of everything. It's much easier for you. It costs 500 to 2,000€.[^42]
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a Blue Card. They take care of everything. It's much easier for you. It costs 500 to 2,000€.[^42] Your employer might hire someone to help you.
 
 ### 1. Come to Germany
 
@@ -109,7 +109,7 @@ If these options don't apply to you, you must [apply for the Blue Card in your h
 
 ### 2. Find a job
 
-You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
+You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
@@ -197,14 +197,14 @@ You can also apply for a Blue Card **before you move to Germany**.[^26] This is 
 
 To apply in your home country:
 
-1. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
+1. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
 2. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
 3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 4. After you arrive in Germany, convert your National Visa into a Blue Card.
 
 ### 1. Find a job
 
-You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
+You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
@@ -212,7 +212,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the wor
 
 Get an appointment at the German embassy or consulate in your country. It can be really hard to find an appointment. Your appointment might be in a few months.
 
-**[Find your German embassy or consulate ➞](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)**
+**[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
 ### 3. Prepare for your interview
 
@@ -222,7 +222,8 @@ Before your embassy or consulate appointment, you must...
     It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents) ↓**
+- [ ] **Prepare the [required documents](#required-documents)**  
+    The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use the list of documents on their website.
 
 ### 4. Go to your National Visa appointment
 
@@ -262,7 +263,7 @@ Your Blue Card is a plastic card. It's valid for up to 4 years. You can [renew i
 
 ## Required documents
 
-These are the required documents **in Berlin**.[^2] If you apply elsewhere, they might require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
+These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
 
 - [ ] **Passport**
 - [ ] **1 biometric photo** (35 × 45 mm)  
@@ -388,4 +389,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)
 [^42]: Multiple relocation consultants (November 2023)
-[^44]: Multiple relocation consultants (November 2023)
+[^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)

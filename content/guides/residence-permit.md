@@ -37,7 +37,7 @@ Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which reside
 If you have a job offer:
 
 - **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/work-visa)  
-    For working in Germany. You need a job offer to apply for this visa. You might need professional training. {# TODO: Phrasing #}
+    For working in Germany. You need a job offer to apply for this visa. You might need professional training.
 - **[[Blue Card]]** - [How to apply](/guides/blue-card)  
     For working in Germany. Only for university graduates, or IT specialists with 3 years of experience. There is a minimum salary requirement.
 - **[Working holiday visa](/glossary/Working%20Holiday%20Visa)**  

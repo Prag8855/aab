@@ -118,14 +118,14 @@ There are two ways to apply for the German freelance visa:
 1. **[Apply in Germany](#how-to-apply-in-germany)**  
     Come to Germany, prepare the documents, then apply for the residence permit at the *Ausländerbehörde*. You can't work until you have your freelance visa, but you can look for clients and prepare for your residence permit interview.[^45] It's easier to find clients, [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You can't work while you wait for your visa. You might have to wait a few months without any income. If you can't get a freelance visa, you must leave Germany. This is riskier and more expensive than applying in your country.
 2. **[Apply in your country](#how-to-apply-in-your-country)**  
-    Apply for a temporary visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, then convert your temporary visa to a freelance visa. You can start working as soon as you arrive in Germany. This is safer and cheaper than applying in Germany. It takes around 4 months.
+    Apply for a temporary visa at the [German embassy in your country](/out/consulate-finder), come to Germany, then convert your temporary visa to a freelance visa. You can start working as soon as you arrive in Germany. This is safer and cheaper than applying in Germany. It takes around 4 months.
 
 The best option depends on your citizenship:
 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^15] You can come to Germany, find clients, then apply for the freelance visa Germany.[^16] You can't work while you wait for your freelance visa, so you need enough savings for a few months. You can also apply in your home country.
 - **If you are a citizen of any other country**, there are two ways to get a freelance visa:
-    1. Apply for the freelance visa at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen). This is safer and cheaper.
-    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen), come to Germany, find a clients, then apply for a freelance visa. This is riskier and more expensive. You must have a university degree or vocational training to get a job seeker visa.[^17]
+    1. Apply for the freelance visa at the [German embassy in your country](/out/consulate-finder). This is safer and cheaper.
+    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](/out/consulate-finder), come to Germany, find a clients, then apply for a freelance visa. This is riskier and more expensive. You must have a university degree or vocational training to get a job seeker visa.[^17]
 
 ## How to apply in Germany
 
@@ -235,7 +235,7 @@ Once you have your visa, you still have some work to do before you can run a bus
 
 ### Step 1: Get your appointment at the German embassy or consulate
 
-You must get an appointment at [your local German embassy or consulate](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen). It can be hard to find an appointment. You might only get an appointment 2-3 months later.[^24] Start looking as soon as possible.
+You must get an appointment at [your local German embassy or consulate](/out/consulate-finder). It can be hard to find an appointment. You might only get an appointment 2-3 months later.[^24] Start looking as soon as possible.
 
 ### Step 2: Prepare for your visa interview
 

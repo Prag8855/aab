@@ -92,7 +92,7 @@ If you can't apply in Germany, you must [apply in your home country](#how-to-app
 
 Usually, you can't work before you get your work visa.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a work visa. They take care of everything. It's much easier for you. It costs 500 to 2,000€.[^45]
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a work visa. They take care of everything. It costs 500 to 2,000€.[^45] Your employer might hire someone to help you.
 
 ### 1. Come to Germany
 
@@ -205,7 +205,7 @@ You can also apply for a work visa **before you move to Germany**.[^26] This is 
 To apply in your home country:[^4]
 
 1. Get your vocational training recognised. Follow [the instructions on this website](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession).
-2. Get an appointment at [the German embassy or consulate in your country](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen).
+2. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
 3. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
 4. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 5. After you arrive in Germany, convert your National Visa into a work visa.
@@ -232,7 +232,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the wor
 
 Get an appointment at the German embassy or consulate in your country. In some countries, it can take months to find an appointment.[^33] Your appointment might be in a few months.
 
-**[Find your German embassy or consulate ➞](https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen)**
+**[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
 ### 4. Prepare for your interview
 
@@ -242,7 +242,8 @@ Before your embassy or consulate appointment, you must...
     It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents) ↓**
+- [ ] **Prepare the [required documents](#required-documents)**  
+    The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use the list of documents on their website.
 
 ### 5. Go to your National Visa appointment
 
@@ -421,4 +422,4 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^48]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
-[^51]: Multiple relocation consultants (November 2023)
+[^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
