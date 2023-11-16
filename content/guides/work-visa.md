@@ -40,7 +40,7 @@ To get a work visa, you need...[^18]
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^48]
 
 - [ ] **Vocational training**  
-    This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of professional training in Germany. {# Mention training obtained in Germany #}
+    This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of training in Germany.
 
 If you are **not** a citizen of {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
 
@@ -52,7 +52,7 @@ If you are over 45 years old, you must have...[^43]
 - [ ] A [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year
 - [ ] **or** a pension plan that guarantees an income after retirement {# Give exact amount #}
 
-**You do not need to speak German** to get a work visa.[^27] {# Except if you can't do your job without it? #}
+**You do not need to speak German** to get a work visa.[^27]
 
 ## Work visa alternatives
 
@@ -122,11 +122,14 @@ Before you apply for the work visa, you must...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose health insurance for your work visa application. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Get your education recognised**  
-    {# TODO #}
 - [ ] **Prepare the [required documents](#required-documents) ↓**
 
-While you wait, you should also...
+If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
+
+- [ ] **Get your education recognised**  
+    Your professional training must be equivalent to 2 years of professional training in Germany. It must be recognised by the *[[Agentur für Arbeit]]*. The process depends on your profession.[^21] It can take a few weeks, or a few months.[^8] If you were trained in Germany, your it's already recognised. - [Learn how to get your education recognised](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+
+While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **Register your address** (*[[Anmeldung]]*)  
     When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). Your employer needs your tax ID when you start working. You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services. - [How to register your address](/guides/anmeldung-in-english-berlin)
@@ -142,7 +145,10 @@ There are 2 ways to apply for the work visa in Berlin:
 - or **send your documents online**  
     Use the [*Ausländerbehörde* contact form](/out/auslanderbehorde-contact) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Most of the time, this is your only option.
 
-{# What appointment type to book #}
+When you [book your *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), you must choose the type of residence permit:
+
+- If you have a university degree, choose "Economic activity", then "Residence permit for qualified skilled workers with an academic education (sect. 18b para. 1)"
+- If you have another kind of professional training, choose "Economic activity", then "Residence permit for qualified skilled workers with vocational training (sect. 18a)"
 
 ### 5. Wait
 

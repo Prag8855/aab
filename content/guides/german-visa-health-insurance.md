@@ -25,6 +25,8 @@ Your travel insurance must...[^1]
 
 [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for a Schengen visa application.
 
+[If you don't need a visa to visit Germany](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still good to have.
+
 ### For a National Visa
 
 To apply for a [[National Visa]], you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**. When you start working in Germany, you must switch to public or private health insurance.
