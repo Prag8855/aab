@@ -39,7 +39,7 @@ To get a work visa, you need...[^18]
 - [ ] **Qualifications for your job**  
     You must know how to do your job. For example, to get a programming job, you must know how to program.
 - [ ] **Permission to do this job**  
-    If your job requires a permit or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need. {# Rephrase #}
+    If you need a permit or special qualifications to do your job, you must have them.[^12] For example, doctors, engineers and lawyers need special qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to see what your job requires.
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^48]
 

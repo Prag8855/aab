@@ -41,7 +41,7 @@ To get a Blue Card, you need...[^18]
 - [ ] **Qualifications for the job**  
     You must know how to do your job. For example, to get a programming job, you must know how to program.
 - [ ] **Permission to do this job**  
-    If the job requires permits or special qualifications, you must have them.[^12] For example, doctors, engineers and lawyers need permits or specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know what qualifications you need. {# Rephrase #}
+    If you need a permit or special qualifications to do your job, you must have them.[^12] For example, doctors, engineers and lawyers need special qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to see what your job requires.
 - [ ] **A university degree**  
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 
