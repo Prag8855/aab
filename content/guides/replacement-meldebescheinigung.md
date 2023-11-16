@@ -18,15 +18,13 @@ This guide explains how to get a *Meldebescheinigung* if you already registered 
 
 ## How to get an Anmeldebestätigung
 
-You can request it **online or in person** from the *[[Bürgeramt]]*. It costs 10€.[^0]
+Request it **[online](https://olmera.verwalt-berlin.de/ant/olav/meldebescheinigung?mbom=1&l=de) or in person** from the *[[Bürgeramt]]*. It costs 10€.[^0]
 
 If you did not [register your address](/glossary/Anmeldung), you can't get a *Meldebescheinigung*.
 
 ### Online
 
-To [request a *Meldebescheinigung* online](https://service.berlin.de/dienstleistung/120702/). You must be [registered](/glossary/Anmeldung) in Berlin.
-
-![Meldebescheinigung online berlin](/images/meldebescheinigung-online-berlin.png "Click this button to request a Meldebescheinigung online")
+**[Request a *Meldebescheinigung* online](https://olmera.verwalt-berlin.de/ant/olav/meldebescheinigung?mbom=1&l=de).** You must be [registered](/glossary/Anmeldung) in Berlin.
 
 ### In person
 
@@ -34,18 +32,6 @@ To [request a *Meldebescheinigung* online](https://service.berlin.de/dienstleist
 2. When you go to your appointment, bring...
     - [ ] Your passport or *[[Personalausweis]]*
     - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or MasterCard. It depends on the Bürgeramt.
-
-### By post or email
-
-You can also request a *[[Meldebescheinigung]]* by post or email:[^0]
-
-1. Transfer 10€ to [the *Bürgeramt's* bank account](http://www.berlin.de/labo/_assets/buergerdienste/bankverbindungen-der-buergeraemter.pdf)
-2. Write to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/). In your message, include...
-    - [ ] A copy of your passport or *[[Personalausweis]]*
-    - [ ] Your [[IBAN]]
-    - [ ] The date of your bank transfer
-
-**[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
 ## Erweiterte Meldebescheinigung
 

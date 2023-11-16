@@ -86,6 +86,8 @@ Related_places:
     places/psychotherapie-mag-michaela-klien.md
     places/praxis-fur-psychotherapie-ninja-kattenbeck.md
     places/privatpraxis-fur-psychotherapie-coaching-dr-viola-kappel-kollegen.md
+Related_reviews:
+    reviews/english-speaking-psychotherapists-berlin/agata-slezak.md
 ---
 
 This guide explains:

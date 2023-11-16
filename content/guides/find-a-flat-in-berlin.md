@@ -260,7 +260,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 - **Crime**  
     Berlin is a safe city, even at night, but some parts are less safe. The areas next to big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas, but people will still leave you alone. You don't need to avoid the entire area, just the busy streets. Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area.
 - **Noise**  
-    Main roads are very noisy because of trams, cars and ambulances.[^15] Ambulances, trams and trains are *very* loud. You can hear even with your windows closed.[^16] Busy areas with lots of bars and restaurants are also loud, even late at night. Google Maps shows the busy areas in orange. If you want a quiet apartment, don't live in those areas. This old [noise map](https://interaktiv.morgenpost.de/laermkarte-berlin/) can help. The big red line is from Tegel airport, which closed in 2020.[^17]
+    Main roads are very noisy because of trams, cars and ambulances.[^15] Ambulances, trams and trains are *very* loud. You can hear even with your windows closed.[^16] Busy areas with lots of bars and restaurants are also loud, even late at night. Google Maps shows the busy areas in orange. If you want a quiet apartment, don't live in those areas. The [noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php) can help. The big red line is from Tegel airport, which closed in 2020.[^17]
 
 ![Berlin ambulance noise](/illustrations/berlin-ambulance-noise.png)
 
@@ -446,7 +446,7 @@ There are 3 types of insurance that cover your apartment:
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
 [^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/comment/gzdee8d/?utm_source=reddit&utm_medium=web2x&context=3)
 [^14]: [morgenpost.de](http://web.archive.org/web/20220426082551/https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
-[^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
+[^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [Berlin noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)

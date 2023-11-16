@@ -21,7 +21,7 @@ The landing page and some important parts of the registration process are only i
 
 ## Low fees
 
-As promised, **the fees are very low**. You usually pay less than 1€ per trade. Most banks charge 10-20€ per transaction *plus* monthly fees.
+As promised, **the fees are very low**. You usually around 1€ per trade. Most banks charge 10-20€ per transaction *plus* monthly fees.
 
 This is why I switched from Commerzbank to Degiro. Over time, I saved *hundreds* of euros in trading fees.
 

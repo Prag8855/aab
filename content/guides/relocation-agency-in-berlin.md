@@ -19,6 +19,7 @@ Related_places:
     places/von-wrede-relocation.md
     places/progedo.md
     places/gibbesch-consulting.md
+    places/expat-unity.md
 ---
 
 Relocation agencies make it easier to [move to Germany](/guides/moving-to-berlin).

@@ -15,8 +15,14 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 
 ### Where to buy a ticket
 
+To use **intercity trains** (IC and ICE), buy a ticket from the [Deutsche Bahn website](https://bahn.de), in the DB Navigator app, a DB Reisezentrum or a DB ticket machine. You can't buy tickets on the train.
+
+To use **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry) buy a local public transit ticket.
+
+You can buy local public transit tickets...
+
 - **In the app**  
-    Buy a digital ticket on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
+    Buy tickets on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
     - **[Jelbi app](https://www.jelbi.de/en/home/)**  
         You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German. You must create an account.
     - **[BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
@@ -32,11 +38,11 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 - **At [[S-Bahn]] and [[BVG]] service points**  
     Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). There is often a queue.
 
-If you arrive at BER airport, there are ticket machines on the way to the train platforms. You can also install the [BVG ticket app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) before you arrive in Berlin.
+At the airport, there are ticket machines on the way to the train platforms. You can also install the [BVG ticket app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) before you arrive in Berlin.
 
 ### What ticket to buy
 
-The buy the correct ticket...
+To buy a local public transit ticket...
 
 1. **Choose the [tariff zone](#tariff-zones)**  
     Berlin has [3 tariff zones](#tariff-zones): A, B and C. Buy an AB, BC or ABC ticket, depending on the zones you travel in.
@@ -49,13 +55,13 @@ Your ticket is valid for the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, 
 
 ### Tariff zones
 
-Berlin has 3 public transit zones: A, B and C:
+Berlin has 3 public transit zones: A, B and C.
 
-- **Zone A** is everything inside the *[[Ringbahn]]*.
+- **Zone A** is central Berlin. It's everything inside the *[[Ringbahn]]*.
 - **Zone B** is everything outside the *Ringbahn*, but inside Berlin.
-- **Zone C** includes parts of [[Brandenburg]] like the BER airport, Potsdam and Oranienburg.
+- **Zone C** is outside of Berlin. It includes parts of [[Brandenburg]] like the BER airport, Potsdam and Oranienburg.
 
-Buy an AB, BC or ABC ticket, depending on the zones you travel in.
+Most things are in Zone A or B, so you usually need an AB ticket. If you go to the airport, you need an ABC ticket.
 
 [![Bvg tarifbereiche](/images/bvg-tarifbereiche.svg "Berlin public transit tariff zones")](/images/bvg-tarifbereiche.svg)
 

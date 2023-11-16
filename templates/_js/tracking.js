@@ -1,17 +1,13 @@
 {% js %}
-window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
+
+const plausibleFallback = function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
+window.plausible = window.plausible || plausibleFallback;
 
 // Log frontend errors to the server
 window.addEventListener('error', e => {
 	try{
-		if(e.message.includes('r["@context"]')){  // Safari JSON-LD parsing error
-			return;
-		}
-		if(e.message.includes('Script error.')){  // "Script error." at 0:0
-			navigator.sendBeacon(
-				'/api/error', 
-				`Script error. (${window.location.href})`
-			);
+		if(e.lineno < 30 || e.message.includes('r["@context"]') || e.message.includes('Script error.')){
+			// Safari JSON-LD parsing error
 			return;
 		}
 		navigator.sendBeacon(
@@ -67,7 +63,9 @@ function sendLinkClickEvent(event, link, eventName, eventProps) {
 	}
 	if (openLinkAfterTracking(event, link)) {
 		plausible(eventName, { props: eventProps, callback: followLink });
-		setTimeout(followLink, 1500);
+
+		// Redirect after 1.5s if tracking fails, 0s if plausible script was blocked
+		setTimeout(followLink, window.plausible === plausibleFallback ? 0 : 1500);
 		event.preventDefault();
 	} else {
 		plausible(eventName, { props: eventProps });
