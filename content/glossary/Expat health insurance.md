@@ -15,4 +15,4 @@ When you arrive in Germany, you should switch to [public](/glossary/gesetzliche%
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
-**[List of expat insurance options ➞](/guides/german-health-insurance#expat-health-insurance-options)**
+**[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**

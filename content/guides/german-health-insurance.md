@@ -227,7 +227,7 @@ There are **3 reasons to get expat health insurance**:
 - **It's not accepted when you renew a residence permit**  
     Expat insurance is rarely accepted when you renew your [residence permit](/glossary/Aufenthaltstitel), or when you apply for a different residence permit.[^29] You must have real public or private health insurance.
 - **It can expire after 5 years**  
-    Some expat insurances are only valid for 5 years.[^22] Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive. If you settle in Germany, switch to real health insurance [as soon as possible](/guides/german-visa-health-insurance#dont-stay-on-expat-health-insurance).
+    Some expat insurances are only valid for 5 years.[^22] Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive. If you settle in Germany, switch to real health insurance [as soon as possible](#dont-stay-on-expat-health-insurance).
 - **The price goes up faster**  
     The cost of expat insurance rises really quickly.[^22] If your expat insurance does not expire, it can become really expensive when you are old. If you stay in Germany for a long time, public or private health insurance is cheaper.
 - **The coverage is not as good**  

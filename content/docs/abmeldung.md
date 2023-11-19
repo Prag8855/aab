@@ -31,7 +31,7 @@ The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularve
 
 ## How to fill this form
 
-- **Bisherige Wohnung / Gemeindekennzahl (left column)**: information about your last address in Germany. Use the information on your *[[Meldebestätigung]]*.
+- **Bisherige Wohnung / Gemeindekennzahl (left column)**: information about your last address in Germany. Use the information on your *[[Anmeldebestätigung]]*.
     - **Tag des Auszugs**: Your move-out date. You can deregister 7 days before you [move out](/guides/moving-out). You must do it maximum 14 days after you move out.[^0]
     - **Diese Wohnung hat bereits bestanden**: Choose this if you already registered your future address. If you are leaving Germany, choose *nein.*
     - **Die bisherige Wohnung war**: Choose this if this address was your only address (*alleinige Wohnung*), your main address (*Hauptwohnung*) or a secondary address (*Nebenwohnung*).
