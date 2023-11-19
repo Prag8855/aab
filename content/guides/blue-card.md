@@ -1,5 +1,5 @@
 ---
-Title: How to get a Blue Card for Germany
+Title: How to get a German Blue Card
 Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
@@ -16,13 +16,13 @@ With a Blue Card, you can...
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
 
-This guide explains how to apply for a [[Blue Card]] in Berlin or in your home country.
+This guide explains how to apply for a [[Blue Card]] in Berlin or in your country.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a Blue Card?
 
-The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
 **[Who needs a residence permit ➞](/guides/residence-permit)**
 
@@ -33,15 +33,15 @@ To get a Blue Card, you need...[^18]
 - [ ] **A job offer in Germany**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] The job must have...
     - [ ] **A German employer**  
-        You must work for a German employer, or an employer with an office in Germany.[^30]
+        You must work for a German employer, or an employer with an office in Germany.[^30] It can be a remote job. You must be an employee, not a freelancer.
     - [ ] **A high salary**  
         Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/en/pdfs/list-bottleneck-professions-2023), your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32]
     - [ ] **A long term contract**  
         Your job contract must be for at least 6 months.[^24]
-- [ ] **Qualifications for the job**  
+- [ ] **Qualifications for this job**  
     You must know how to do your job. For example, to get a programming job, you must know how to program.
 - [ ] **Permission to do this job**  
-    If you need a permit or special qualifications to do your job, you must have them.[^12] For example, doctors, engineers and lawyers need special qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to see what your job requires.
+    You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **A university degree**  
     Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 
@@ -57,16 +57,16 @@ You do not need a university degree if...[^31]
 
 If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
-- **[Work visa](/glossary/Work%20Visa)**  
-    No minimum salary. No university degree required. In some cases, you might need professional training. - [How to apply](/guides/work-visa)
+- **⭐️ [Work visa](/glossary/Work%20Visa)**  
+    No salary requirement. No university degree required. In some cases, you might need professional training. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
-    Work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
+    For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
 - **[[Internship visa]]**  
-    For university students who have an internship in Germany. It's valid for up to 6 months.
+    For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
-    Work as an [au pair](/glossary/Au%20pair). No income requirement. No education required.
+    Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
 - **[[Family reunion visa]]**  
-    For spouses of German residents. No income requirement. No education required. You can do any kind of work.[^16]
+    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No income needed. No education needed.
 
 **[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
 
@@ -84,11 +84,11 @@ You can apply in Germany if...
 - **or** you already have a Blue Card from another EU country
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
 
-If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
+If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
 
-Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
+Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a Blue Card. They take care of everything. It's much easier for you. It costs 500 to 2,000€.[^42] Your employer might hire someone to help you.
+**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^42] Your employer might pay for it, or hire someone to help you.
 
 ### 1. Come to Germany
 
@@ -103,9 +103,9 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. When you find a job, you can apply for the Blue Card. While you wait for your Blue Card, you can work 10 hours per week for your new employer.[^11]
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
-    You can't apply for a Blue Card with a tourist visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-home-country).[^25]
+    You can't apply for a Blue Card with a tourist visa. Your application will be rejected. You must [apply in your country](#how-to-apply-in-your-country).[^25]
 
-If these options don't apply to you, you must [apply for the Blue Card in your home country](#how-to-apply-in-your-home-country).[^19]
+If these options don't apply to you, you must [apply for the Blue Card in your country](#how-to-apply-in-your-country).[^19]
 
 ### 2. Find a job
 
@@ -124,7 +124,9 @@ Before you apply for the Blue Card, you must...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents) ↓**
+- [ ] **Prepare the [required documents](#required-documents)**
+
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
 
 While you wait for your *Ausländerbehörde* appointment, you should also...
 
@@ -145,22 +147,20 @@ After you pay and send your application, you can download a PDF. This is a proof
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes between 1 week and 5 months.
+The *Ausländerbehörde* will process your application. It takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
 
-Your current residence permit stays valid until the *[[Ausländerbehörde]]* makes a decision. The conditions of your current residence permit apply until you get your new Blue Card.
+If you already have a residence permit, it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
 
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
-
-If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
+**[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### 6. Go to your Blue Card appointment
 
-Later, the *[[Ausländerbehörde]]* will email you an appointment invitation.
+Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
 
 When you go to your appointment, bring...[^7]
 
 - [ ] **Your appointment confirmation**  
-    If you can't prove that you have an appointment, you can't enter the *Ausländerbehörde*. They check this document at the door.
+    You can't enter the *Ausländerbehörde* without it. They check at the door.
 - [ ] **Proof of your online application**  
     You get this document by email after you apply online.
 - [ ] **1 biometric photo** (35 × 45 mm)  
@@ -177,11 +177,13 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
 1. **The eID activation code**  
-    This letter arrives first. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
+    This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
 2. **Your Blue Card**  
     Around 2 weeks later, you receive your Blue Card, or an invitation to collect your Blue Card at the *Ausländerbehörde*.[^28]
 
-Your Blue Card is a plastic card. The expiration date is written on the card. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
+Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
+
+You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* that describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
 Check if the information on your Blue Card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -191,11 +193,11 @@ Check if the information on your Blue Card is correct. The *Ausländerbehörde* 
 
 **[Your first month in Germany ➞](/guides/moving-to-berlin#your-first-month-in-berlin)**
 
-## How to apply in your home country
+## How to apply in your country
 
 You can also apply for a Blue Card **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
 
-To apply in your home country:
+To apply in your country:
 
 1. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
 2. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
@@ -210,7 +212,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blu
 
 ### 2. Get an appointment at the German embassy or consulate
 
-Get an appointment at the German embassy or consulate in your country. It can be really hard to find an appointment. Your appointment might be in a few months.
+Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.
 
 **[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
@@ -223,7 +225,7 @@ Before your embassy or consulate appointment, you must...
 - [ ] **Get health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
-    The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use the list of documents on their website.
+    The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 
 ### 4. Go to your National Visa appointment
 
@@ -267,25 +269,26 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 - [ ] **Passport**
 - [ ] **1 biometric photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
+    The photo should be less than 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
 - [ ] **[Job description form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
 - [ ] **Proof of health insurance**  
     You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
-    - [ ] **Mitgliedsbescheinigung** or *Nachweis der Krankenversicherung*  
-        Get this document from your health insurer or health insurance broker. If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), ask for a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)*. If you have [private health insurance](/glossary/private%20Krankenversicherung), ask for a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*.[^6]
-    - [ ] or **health insurance card** with photo, if you have one.
+    - [ ] **Health insurance card**
+    - [ ] or **proof of public health insurance**  
+        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
-        If you have [private health insurance](/glossary/private%20Krankenversicherung), bring your insurance contract, bank statements that show health insurance payments and a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*.
-- [ ] **Proof that you have a place to live**  
+        Bring your insurance contract, bank statements that show health insurance payments, and a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*. You can get it from your health insurer or your health insurance broker.[^6]
+- [ ] **Proof of housing**  
+    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
     - [ ] **Lease**  
-        It must show the size of your apartment in square metres. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address), and you must make enough money to pay the rent.
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
-        Some temporary apartments don't give you this document. You might not get a Blue Card if you don't have this document.[^1]
+        Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        If you already [registered your address](/glossary/Anmeldung), bring this document. It's okay if you don't have this document.[^5]
+        If you already [registered your address](/glossary/Anmeldung), bring this document. If you don't have it yet, it's okay.[^5]
 - [ ] **University degree**  
     If you are an IT specialist with at least 3 years of experience, you don't need a degree.[^31]
 - [ ] **Statement of comparability** (*Zeugnisbewertung*)  
@@ -293,9 +296,9 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     If you need specific qualifications to do your job, bring all the required diplomas and permits. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
 - [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept documents in English, but it's not worth the risk.
+    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.
 
-**Use PDF files or photos.** Word documents and other formats don't always work.[^37]
+**Use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
 ## After you get your Blue Card
 
@@ -313,7 +316,7 @@ You can use your Blue Card to log into online government services. For example, 
 
 Your Blue Card is valid for up to 4 years. You must renew it around 8 weeks before it expires.
 
-You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 33 months, or 21 months if you speak B1 German.[^10]
+You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 33 months. If you speak B1 German, you can get it after 21 months.[^10]
 
 ### If you change jobs
 
@@ -340,6 +343,10 @@ With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel long
 ### Self-employment with a Blue Card
 
 If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
+
+### Make a tax declaration
+
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Where to get help
 

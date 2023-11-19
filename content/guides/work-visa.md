@@ -1,7 +1,7 @@
 ---
-Title: How to get a German work visa
+Title: How to apply for a German work visa
 Short_title: How to get a work visa
-Description: This is how you apply for a work visa and work in Germany.
+Description: This is how you apply for a work visa and start working in Germany.
 Date_created: 2023-11-18
 ---
 
@@ -14,13 +14,13 @@ With a work visa, you can...
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 60 months[^10]
 
-This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Berlin or in your home country.
+This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Berlin or in your country.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a work visa?
 
-The work visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+The work visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
 **[Who needs a residence permit ➞](/guides/residence-permit)**
 
@@ -29,23 +29,23 @@ The work visa is a type of [residence permit](/glossary/Aufenthaltstitel). You n
 To get a work visa, you need...[^18]
 
 - [ ] **A job offer**  
-    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15]
+    You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] It can be a short-term or part-time job. It can be a remote job. You must be an employee, not a freelancer.
 - [ ] **A fair salary**  
-    There is no minimum salary, but your salary must be reasonable.[^42] You must have the same salary as Germans with a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
-- [ ] **Qualifications for your job**  
+    There is no minimum salary, but you can't be underpaid.[^42] You must earn as much as Germans who have a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
+- [ ] **Qualifications for this job**  
     You must know how to do your job. For example, to get a programming job, you must know how to program.
 - [ ] **Permission to do this job**  
-    If you need a permit or special qualifications to do your job, you must have them.[^12] For example, doctors, engineers and lawyers need special qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to see what your job requires.
+    You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
-If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^48]
+If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^38]
 
-- [ ] **Vocational training**  
-    This means that you received professional training to do this job. Your training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of training in Germany.
+- [ ] **Vocational training** or a **university degree**  
+    You must be trained to do this job. Your education or training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of training in Germany. If you have a university degree, try to get a [[Blue Card]]; it's better.
 
 If you are **not** a citizen of {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
 
 - [ ] **An employer in Germany**  
-    You must work for a German employer, or an employer with an office in Germany.[^30]
+    Your employer must have an office in Germany, even it it's a remote job.[^30]
 
 If you are over 45 years old, you must have...[^43]
 
@@ -58,16 +58,16 @@ If you are over 45 years old, you must have...[^43]
 
 If you can't get a work visa, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
-- **[[Blue Card]]**  
-    For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. You can get the Blue Card faster than a work visa.[^47] With a Blue Card, you also get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
+- **⭐ [[Blue Card]]**  
+    For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. The Blue Card is better than the work visa: you get it faster, and you can get [permanent residence](/glossary/Niederlassungserlaubnis) faster.[^47] - [How to apply](/guides/blue-card)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
-    Work in Germany for 1 year. No minimum salary. No education required. Only for young people from certain countries.
+    For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
 - **[[Internship visa]]**  
-    For university students who have an internship in Germany. It's valid for up to 6 months.
+    For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
-    Work as an [au pair](/glossary/Au%20pair). No income requirement. No education required.
+    Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
 - **[[Family reunion visa]]**  
-    For spouses of German residents. No income requirement. No education required. You can do any kind of work.[^16]
+    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No income needed. No education needed.
 
 **[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
 
@@ -84,11 +84,11 @@ You can apply in Germany if...
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)[^41]
 
-If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-home-country).
+If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
 
-Usually, you can't work before you get your work visa.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-home-country).
+Usually, you can't work while you wait for your work visa.[^35] You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can help you apply for a work visa. They take care of everything. It costs 500 to 2,000€.[^45] Your employer might hire someone to help you.
+**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^45] Your employer might pay for it, or hire someone to help you.
 
 ### 1. Come to Germany
 
@@ -101,9 +101,9 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. When you find a job, you can apply for the work visa. While you wait for your work visa, you can work 10 hours per week for your new employer.[^11]
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
-    You can't apply for a work visa with a tourist visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-home-country).[^25]
+    You can't apply for a work visa with a tourist visa. Your application will be rejected. You must [apply in your country](#how-to-apply-in-your-country).[^25]
 
-If these options don't apply to you, you must [apply for the work visa in your home country](#how-to-apply-in-your-home-country).[^19]
+If these options don't apply to you, you must [apply for the work visa in your country](#how-to-apply-in-your-country).[^19]
 
 ### 2. Find a job
 
@@ -122,12 +122,14 @@ Before you apply for the work visa, you must...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents) ↓**
+- [ ] **Prepare the [required documents](#required-documents)**
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
 
 - [ ] **Get your education recognised**  
-    Your professional training must be equivalent to 2 years of professional training in Germany. It must be recognised by the *[[Agentur für Arbeit]]*. The process depends on your profession.[^21] It can take a few weeks, or a few months.[^8] If you were trained in Germany, your it's already recognised. - [Learn how to get your education recognised](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+    Your professional training must be equivalent to 2 years of professional training in Germany. It must be recognised by the *[[Agentur für Arbeit]]*. The recognition process depends on your profession.[^21] It takes weeks to a few months.[^8] If you studied in Germany, your education is already recognised. - [How to get your education recognised](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
 
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
@@ -138,44 +140,42 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the work visa
 
-There are 2 ways to apply for the work visa in Berlin:
+There are 2 ways to apply for a work visa in Berlin:
 
 - **Apply in person**  
     [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
 - or **send your documents online**  
-    Use the [*Ausländerbehörde* contact form](/out/auslanderbehorde-contact) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Most of the time, this is your only option.
+    Use the [*Ausländerbehörde* contact form](/out/auslanderbehorde-contact) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
-When you [book your *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), you must choose the type of residence permit:
+When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), you must choose the type of residence permit:
 
 - If you have a university degree, choose "Economic activity", then "Residence permit for qualified skilled workers with an academic education (sect. 18b para. 1)"
 - If you have another kind of professional training, choose "Economic activity", then "Residence permit for qualified skilled workers with vocational training (sect. 18a)"
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes 1 week to 5 months to get an appointment. After the appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa.
+The *Ausländerbehörde* will process your application. If you send your documents online, it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
 
-If you already have a residence permit, it stays valid until the *[[Ausländerbehörde]]* makes a decision. The conditions of your current residence permit apply until you get your new work visa.
+If you already have a residence permit, it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
 
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
-
-If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
+**[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
 ### 6. Go to your work visa appointment
 
-Later, the *[[Ausländerbehörde]]* will email you an appointment invitation.
+Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
 
 When you go to your appointment, bring...[^7]
 
 - [ ] **Your appointment confirmation**  
-    If you can't prove that you have an appointment, you can't enter the *Ausländerbehörde*. They check this document at the door.
+    You can't enter the *Ausländerbehörde* without it. They check at the door.
 - [ ] **1 biometric photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
-- [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. If you need an interpreter, I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
-- [ ] **The [required documents ↓](#required-documents)**  
+    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
+- [ ] **The [required documents](#required-documents)**  
     If you did not send your application online, bring all your application documents.
 - [ ] **Visa, MasterCard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You can't pay with cash. Sometimes you must pay later, when you pick up your work visa. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You can't pay with cash. You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+- [ ] **A translator** (optional)  
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. If you need an interpreter, I recommend [Red Tape Translation](/out/red-tape-translation-interpreter)
 
 The appointment takes around 15 minutes. During the appointment, they take your fingerprints for your work visa.
 
@@ -186,11 +186,13 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
 1. **The eID activation code**  
-    This letter arrives first. You need it to [activate the eID function](#activate-your-eid) of your work visa.
+    This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your work visa.
 2. **Your work visa**  
     Around 2 weeks later, you receive your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 
-Your work visa is a plastic card. The expiration date is written on the card. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
+Your work visa is a plastic card. The expiration date is written on it. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
+
+You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* that describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
 Check if the information on your work visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -200,29 +202,31 @@ Check if the information on your work visa is correct. The *Ausländerbehörde* 
 
 **[Your first month in Germany ➞](/guides/moving-to-berlin#your-first-month-in-berlin)**
 
-## How to apply in your home country
+## How to apply in your country
 
-You can also apply for a work visa **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
+You can also apply for a work visa **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
 
-To apply in your home country:[^4]
+To apply in your country:[^4]
 
-1. Get your vocational training recognised. Follow [the instructions on this website](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession).
+1. Get your vocational training recognised.
 2. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
-3. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
-4. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
+3. Go to your appointment and give your documents. The required documents are different in each country. Find the list on your embassy or consulate's.
+4. Receive a [[National Visa]]. It lets you to come to Germany and start working.
 5. After you arrive in Germany, convert your National Visa into a work visa.
 
 ### 1. Get your education recognised
 
-To get a work visa, you must have professional training. Your training must be equivalent to 2 years of professional training in Germany. You must prove this with a recognition of equivalence ({# what's that called? #}).[^46]
+To apply for the work visa, you must have a university or vocational training. Your education must be recognised in Germany. It must be equivalent to 2 years of training in Germany.[^46]
 
-You must get your job training recognised *before* you apply for the work visa.
+You must get your training recognised *before* you apply for your work visa. The process depends on your profession.[^21] It takes a few weeks to a few months.[^8] There might be an interview or a competence test, and you might need to pay for it.[^24]
 
-The process depends on your profession.[^21] It can take a few weeks, or a few months.[^8] There might be an interview or a competence test.[^24] It might cost money.[^31] {# How much? #}
+**[How to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
+
+If you are a citizen of {{ BESCHV_26_COUNTRIES }}, you don't need a degree or vocational training. Skip this step.
+
+If you studied in Germany, your education is already recognised.
 
 {# This does not apply if you use the fast track procedure. Then you just submit everything at once. #}
-
-**[Learn how to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
 
 ### 2. Find a job
 
@@ -232,7 +236,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the wor
 
 ### 3. Get an appointment at the German embassy or consulate
 
-Get an appointment at the German embassy or consulate in your country. In some countries, it can take months to find an appointment.[^33] Your appointment might be in a few months.
+Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.[^33]
 
 **[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
@@ -245,7 +249,9 @@ Before your embassy or consulate appointment, you must...
 - [ ] **Get health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
-    The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use the list of documents on their website.
+    The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
+
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
 
 ### 5. Go to your National Visa appointment
 
@@ -285,11 +291,11 @@ Your work visa is a plastic card. It's valid for up to 3 years. You can [renew i
 
 ## Required documents
 
-These are the required documents **in Berlin**.[^2] If you apply elsewhere, they might require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
+These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
 
 - [ ] **Passport**
 - [ ] **1 biometric photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
+    The photo should be under 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
 - [ ] **[Residence permit application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
@@ -297,23 +303,24 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **[Job description form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
 - [ ] **Proof of health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose insurance.
-    - [ ] **Mitgliedsbescheinigung** or *Nachweis der Krankenversicherung*  
-        Get this document from your health insurer or health insurance broker. If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), ask for a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)*. If you have [private health insurance](/glossary/private%20Krankenversicherung), ask for a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*.[^6]
-    - [ ] or **health insurance card** with photo, if you have one.
+    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
+    - [ ] **Health insurance card**
+    - [ ] or **proof of public health insurance**  
+        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
-        If you have [private health insurance](/glossary/private%20Krankenversicherung), bring your insurance contract, bank statements that show health insurance payments and a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*.
-- [ ] **Proof that you have a place to live**  
+        Bring your insurance contract, bank statements that show health insurance payments, and a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*. You can get it from your health insurer or your health insurance broker.[^6]
+- [ ] **Proof of housing**  
+    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
     - [ ] **Lease**  
-        It must show the size of your apartment in square metres. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address), and you must make enough money to pay the rent.
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
-        Some temporary apartments don't give you this document. You might not get a work visa if you don't have this document.[^1]
+        Some temporary apartments and sublets don't give you this document. You might not get a work visa without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        If you already [registered your address](/glossary/Anmeldung), bring this document. It's okay if you don't have this document.[^5]
+        If you already [registered your address](/glossary/Anmeldung), bring this document. If you don't have it yet, it's okay.[^5]
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
-    If you need a permit or specific qualifications to do your job, bring them. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
+    You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept documents in English, but it's not worth the risk.
+    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 
@@ -322,13 +329,15 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-**Use PDF files or photos.** Word documents and other formats don't always work.[^37]
+If you send your documents online, **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
 ## After you get your work visa
 
 ### Bring your family to Germany
 
 The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, freelance or start a business in Germany.
+
+You can apply for it at the same time as your work visa.
 
 ### Activate your eID
 
@@ -367,6 +376,10 @@ With a work visa, you can leave Germany for up to 12 months.[^23] To travel long
 ### Self-employment with a work visa
 
 If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
+
+### Make a tax declaration
+
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Where to get help
 
@@ -413,7 +426,6 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^45]: Multiple relocation consultants (November 2023)
 [^21]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
 [^24]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
-[^31]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=fees%20are%20charged%20for%20this%20procedure)
 [^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=12) (page 10), [Agentur für Arbeit](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland#:~:text=zustimmung%20zur%20beschaftigung)
 [^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
 [^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25), [German embassy in Belgrade](https://belgrad.diplo.de/rs-de/service/05-VisaEinreise/-/2310108)
@@ -421,7 +433,6 @@ If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
 [^46]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/1_Arbeiten_in_DE/2023_Jan_MiiG_Anleitung_anabin-Datenbank_EN.pdf)
 [^47]: Citation needed
-[^48]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
