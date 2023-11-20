@@ -23,7 +23,7 @@ Anyone who must to pay the trade tax (*[[Gewerbesteuer]]*). [Freelancers](/gloss
 
 ### Get the required documents
 
-You need a scan of your German [residence permit](/glossary/Aufenthaltstitel). If you are a German or EU citizen, you don't need this.
+You need a scan of your German [residence permit](/glossary/Aufenthaltstitel). If you are a German or EU citizen, you don't need it.
 
 ### Create a Berlin service account
 
@@ -217,7 +217,19 @@ Click *Weiter* to continue
 
 ## After you submit the form
 
-After you send your application, nothing happens. It takes around 4 weeks to get an answer.[^5]
+### Wait
+
+After you send your application, nothing happens. You must wait at least 4 weeks. In some districts, it takes much longer.[^5] You can track your application on the website where you applied.
+
+[![Gewerbeanmeldung status tracking part 1](/images/gewerbeanmeldung-status-1.png)](/images/gewerbeanmeldung-status-1.png)
+
+[![Gewerbeanmeldung status tracking part 2](/images/gewerbeanmeldung-status-2.png)](/images/gewerbeanmeldung-status-2.png)
+
+### Pay the fee
+
+You will get a letter from the Ordnungsamt. It will tell you to pay the application fee by [bank transfer](/glossary/SEPA-Überweisung).
+
+[![Gewerbeanmeldung - Letter showing the response from the Ordnungsamt](/images/gewerbeanmeldung-ordnungsamt-letter.png)](/images/gewerbeanmeldung-ordnungsamt-letter.png)
 
 ## Other ways to register
 
@@ -252,4 +264,4 @@ The next step is to [register your business with the *Finanzamt*](/guides/frageb
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Nebenerwerb), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_3/__138.html)
 [^3]: [gewerbe-anmelden.info](https://www.gewerbe-anmelden.info/gewerbeschein/gewerbeschein-formular-ausfuellen)
 [^4]: [Wikipedia](https://de.wikipedia.org/wiki/Reisegewerbe)
-[^5]: [Gründerplatform](https://gruenderplattform.de/unternehmen-gruenden/gewerbe-anmelden#:~:text=dauert%20in%20der%20regel%204%20wochen), [Ecovis](https://www.ecovis.com/berlin-gruendung/faq/gewerbeanmeldung/)
+[^5]: [Gründerplatform](https://gruenderplattform.de/unternehmen-gruenden/gewerbe-anmelden#:~:text=dauert%20in%20der%20regel%204%20wochen), [Ecovis](https://www.ecovis.com/berlin-gruendung/faq/gewerbeanmeldung/), [Berlin Senate](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12857.pdf)
