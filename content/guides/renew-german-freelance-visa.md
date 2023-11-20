@@ -24,68 +24,68 @@ To renew a German freelance visa, you must...
 
 A [relocation consultant](/guides/relocation-agency-in-berlin) can help you renew your residence permit. They can help you prepare your documents, find an *[[Ausländerbehörde]]* appointment, and go to the appointment with you.
 
-### 0. Check if you can renew your visa
+## Before you start
 
-**When:** Before you start
+### 1. Check if you can renew your visa
 
 When you renew your freelance visa, they verify that...
 
-- **You make enough money**  
+- [ ] **You make enough money**  
     They will check your invoices and your *Steuerbescheid* to verify your income. You must make enough money to support yourself.[^0]
-- **You have clients in Germany**  
+- [ ] **You have clients in Germany**  
     You must have some invoices from clients in Germany.[^0] If all your income comes from other countries, you can't renew your freelance visa.
-- **You have valid health insurance**  
+- [ ] **You have valid health insurance**  
     This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. There is more information about this [below](/guides/renew-german-freelance-visa#get-valid-health-insurance).
-- **You have a retirement plan**  
+- [ ] **You have a retirement plan**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.[^0] This is not required for citizens of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey and the United States.[^1]
 
 If you don't meet those requirements, you can't renew your freelance visa.
 
 These are the same requirements as when you apply for a freelance visa for the first time.[^15]
 
-### 1. Find if you are self-employed, or freelance
-
-**When:** Before you start
+### 2. Know if you are freelance or self-employed
 
 The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*).
 
 - If you see "§ 21 Abs. 5" [on your residence permit](/images/freelance-visa-germany-type.png), you are *[[Freiberufler]]*.
 - If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your residence permit](/images/freelance-visa-germany-type.png), you are a *Selbständiger*/*[[Gewerbetreibender]]*.
 
-Note: Immigration law uses the term "*Selbständiger*", and business law uses "*Gewerbetreibender*". These words mean the same thing.[^16]
+If your work changes, your status can also change. I was a freelancer, and I am now a tradesperson. When I renewed my freelance visa, I needed different documents.
 
-### 2. Get valid health insurance
+**[Are you a Freiberufler or Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
 
-**When:** 3 months before your visa appointment
+Note: Immigration law uses the term "*Selbständiger*" and business law uses "*Gewerbetreibender*". It means the same thing.[^16]
 
-When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted.[^2] You need a real public or private health insurance.
+### 3. Get valid health insurance
+
+When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted.[^2] You need a real [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 **[Health insurance for the freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
-It usually takes 1 or 2 weeks to switch to another health insurance. In some cases, it takes up to 3 months. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose health insurance, and fill the paperwork for you. Their help is free.
+It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-### 3. Find a tax advisor
+### 4. Find a tax advisor
 
-**When:** 2-5 months before your visa appointment
+If you don't have a tax advisor, start looking 2 to 5 months before your freelance visa appointment. Your tax advisor can be in another city.
 
-You need a [tax advisor](/glossary/Steuerberater). They must prepare documents for you:
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+Your tax advisor must prepare documents for you:
 
 - If you are a *[[Freiberufler]]*, you need a *[[Netto-Gewinnermittlung]]*. You can prepare it yourself, but it must be verified and stamped by a tax advisor.[^3]
 - If you are a *[[Gewerbetreibender]]*, you need a *[[Prüfungsbericht]]*. It must be verified and stamped by a tax advisor.
 
-**[Difference between Freiberufler and Gewerbetreibender ➞](/guides/freiberufler-or-gewerbe)**
+**[Are you a Freiberufler or a Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
 
-**If you already have a tax advisor**, and your finances are organised, you can get these documents in a few days. If your finances are not organised, it can take a few weeks.
+If your finances are organised, you can get these documents in a few days. If they are not organised, it can take a few weeks.
 
-**If you don't have a tax advisor**, you need a few weeks to find one. Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
+## Prepare your application
 
-### 4. Get an Ausländerbehörde appointment
-
-**When:** at least 3 months before your residence permit expires
+### 1. Get an Ausländerbehörde appointment
 
 Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It's really hard to find an appointment. It can take months to find one. The nearest appointment can be in a few months.
 
@@ -95,29 +95,29 @@ Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as s
 
 For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
 
-If you can't find an appointment, you can also [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). It's often the only way, because there are no appointments.
+If you can't find an appointment, you can also [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). It's often the only way, because there are no appointments. You can apply by email 8 weeks before your freelance visa expires. If you apply too early, they ignore you.
 
-**[If your visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+After you send your application, your residence permit stays valid until the *Ausländerbehörde* makes a decision. You can stay in Germany and work. You might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
 
-### 5. Prepare the required documents
+**[If your freelance visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
 
-**When:** 1-3 months before your appointment
+### 2. Prepare your documents
 
-Start preparing the required documents as soon as possible. Some documents take more time to prepare. If you don't have a tax advisor, or if your finances are not organised, it takes more time.
+Start preparing the [required documents](#required-documents) 1 to 3 months before your *Ausländerbehörde* appointment. Some documents take more time to prepare. If you don't have a tax advisor, or if your finances are not organised, you need time.
 
-If your documents are not in English or German, you might need certified translations. This takes more time and money.
+If your documents are not in English or German, you might need [certified translations](/glossary/beglaubigte%20Übersetzung). This also takes time.
 
-Go to the **[list of required documents ↓](/guides/renew-german-freelance-visa#required-documents)**
+Go to the **[list of required documents ↓](#required-documents)**
 
-### 6. Find a translator
+### 3. Find a translator
 
-**When:** 2-4 weeks before your appointment
+If you need a translator, find one 2 to 4 weeks before your *Ausländerbehörde* appointment.
 
-Many *[[Ausländerbehörde]]* employees only speak German.[^4] They will ask many questions. You must speak German, or bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). I have worked with them many times. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
+Many *Ausländerbehörde* employees only speak German.[^4] They will ask you many questions. If you don't speak German, bring a translator. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
 
-**[List of relocation consultants in Berlin ➞](/guides/relocation-agency-in-berlin)**
+**[Relocation consultants in Berlin ➞](/guides/relocation-agency-in-berlin)**
 
-### 7. Go to your Ausländerbehörde appointment
+### 4. Go to your Ausländerbehörde appointment
 
 **[What happens during your *Ausländerbehörde* appointment ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
@@ -250,3 +250,4 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 [^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [berlin.de](https://service.berlin.de/dienstleistung/121921/en/)
 [^15]: [§8 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__8.html)
 [^16]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
+[^17]: Health insurance broker Daniel Derosa
