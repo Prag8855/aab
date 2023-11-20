@@ -625,7 +625,7 @@ Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qo
 [^3]: [andrewcross.eu (archived)](https://web.archive.org/web/20300000000000/https://andrewcross.eu/vat-freelancers-germany/)
 [^4]: [haufe.de](https://www.haufe.de/finance/finance-office-professional/kleinunternehmer-4-optionsmoeglichkeit_idesk_PI11525_HI1342182.html)
 [^5]: [praxistipps.chip.de](https://praxistipps.chip.de/adresszusatz-was-ist-das_46872)
-[^6]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad)
+[^6]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad), [tagesspiegel.de](https://www.tagesspiegel.de/wirtschaft/funf-wochen-warten-auf-die-steuernummer-4419565.html)
 [^7]: [formulare-bfinv.de](https://www.formulare-bfinv.de/ffw/resources/9858611CB50017037213/form/Ausfuellhilfe_2016.pdf)
 [^8]: [wilhelm-data.de](http://www.wilhelm-data.de/cm/docs/Steuererfassung.pdf)
 [^9]: [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/brauche-ich-einen-handelsregistereintrag/), [dict.cc](https://www.dict.cc/?s=Gesellschaft+b%C3%BCrgerlichen+Rechts)
