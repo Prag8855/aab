@@ -167,7 +167,7 @@ If you don't have many things to move, hire a "man with a van". They are usually
 
 International moves are more expensive. Shipping and customs can be complicated. If you move to America or Asia, it's often cheaper to sell everything and buy it again.
 
-[Zapf](https://www.zapf.de/) is often recommended.[^25] [Smoovers](https://smoover-moving.de/) can book movers for you, but they have mixed reviews.
+[Zapf](https://www.zapf.de/) is often recommended.[^25] [Smoovers](https://smoover-moving.de/) can also book movers for you and they speak English.
 
 Your contract should say who pays for the damages the movers cause.[^39] For example, what happens if they scratch the walls while they move your couch? Most moving companies have insurance for this. The movers on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-mitte/umzug/k0l3518) are might not have insurance.
 

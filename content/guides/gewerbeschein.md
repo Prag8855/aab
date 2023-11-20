@@ -9,7 +9,7 @@ This is how you complete the trade registration (*[[Gewerbeanmeldung]]*), regist
 
 When you [start a business in Germany](/guides/start-a-business-in-germany), you must get a trade licence before you [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
-You can do this online. It takes around 1 hour and costs 15 to 26€. It's only in German, but it's very easy.
+You can do this online. It takes around 1 hour and costs 15€ to 26€. It's only in German, but it's easy.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -27,7 +27,7 @@ You need a scan of your German [residence permit](/glossary/Aufenthaltstitel). I
 
 ### Create a Berlin service account
 
-Before you begin, you must [create a ](/guides/service-konto-berlin)*[Service-Konto Berlin](/guides/service-konto-berlin)*. It only takes a few minutes.
+Before you begin, you must [create a *Service-Konto Berlin*](/guides/service-konto-berlin). It takes a few minutes.
 
 ## How to fill the registration form
 
@@ -215,6 +215,10 @@ Click *Weiter* to continue
 
 ▲ Click *Jetzt einreichen* to submit your case.
 
+## After you submit the form
+
+After you send your application, nothing happens. It takes around 4 weeks to get an answer.[^5]
+
 ## Other ways to register
 
 ### With eMeldung
@@ -248,3 +252,4 @@ The next step is to [register your business with the *Finanzamt*](/guides/frageb
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Nebenerwerb), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_3/__138.html)
 [^3]: [gewerbe-anmelden.info](https://www.gewerbe-anmelden.info/gewerbeschein/gewerbeschein-formular-ausfuellen)
 [^4]: [Wikipedia](https://de.wikipedia.org/wiki/Reisegewerbe)
+[^5]: [Gründerplatform](https://gruenderplattform.de/unternehmen-gruenden/gewerbe-anmelden#:~:text=dauert%20in%20der%20regel%204%20wochen), [Ecovis](https://www.ecovis.com/berlin-gruendung/faq/gewerbeanmeldung/)
