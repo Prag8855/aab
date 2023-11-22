@@ -12,7 +12,7 @@ With a work visa, you can...
 - Live and work anywhere in Germany
 - Bring your family to Germany[^14]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
-- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 60 months[^10]
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 4 years[^10]
 
 This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Berlin or in your country.
 
@@ -349,7 +349,7 @@ You can use your work visa to log into online government services. For example, 
 
 Your work visa is valid for up to 3 years. You must renew it around 8 weeks before it expires.
 
-You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 60 months.[^10]
+You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 4 years.[^10]
 
 ### If you change jobs
 
@@ -396,7 +396,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
-[^10]: [§9 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=besitz%20einer%20aufenthaltserlaubnis%20seit%205%20jahren)
+[^10]: [Berlin.de](https://service.berlin.de/dienstleistung/326558/), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/dauerhaft-in-deutschland/niederlassungserlaubnis)
 [^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
 [^12]: [§18 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)

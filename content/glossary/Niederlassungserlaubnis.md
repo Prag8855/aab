@@ -11,12 +11,12 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-German permanent residence (*Niederlassungserlaubnis*) lets you live, work and study in Germany.
+German permanent residence (*Niederlassungserlaubnis*) lets you live, work and study in Germany. You can get permanent residence after 21 to 60 months in Germany.
 
 It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
 - It's permanent. You don't need to renew it.
-- It's flexible. It's not tied to your income, job or studies.
+- It's flexible. It's not tied to your income or occupation.
 - It's more trusted. It's easier to get credit or a mortgage.
 
 It's not as good as German citizenship because...[^1]
