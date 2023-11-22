@@ -287,7 +287,7 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^22]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Meldeadresse-mit-co-Zeichnung--f212142.html)
 [^23]: [giga.de](https://www.giga.de/unternehmen/deutsche-post-ag/specials/c-o-bedeutung-der-angabe-bei-adressen-auf-briefen-post-und-paketen/), [focus.de](https://www.focus.de/finanzen/praxistipps/c-o-adresse-das-steckt-dahinter_id_7762940.html)
 [^24]: [Screenshot](/images/anmeldung-mit-bei-erlaubt-2022-12-23.png)
-[^25]: [Screenshot](/images/Anmeldung-mit-co-2022-12-09.png), [Screenshot](/images/Anmeldung-mit-c-o-2022-10-05.png)
+[^25]: [Screenshot](/images/Anmeldung-mit-co-2022-12-09.png), [Screenshot](/images/Anmeldung-mit-c-o-2022-10-05.png), [Reddit](https://old.reddit.com/r/askberliners/comments/180e5ye/does_it_require_a_stamp/)
 [^26]: [steuerberater.com](https://www.steuerberater.com/en/church-tax-calculator)
 [^27]: [§7 WoAufG Bln](https://gesetze.berlin.de/bsbe/document/jlr-WoAufGBEV5P7)
 [^28]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/d8o9vu/finding_my_anmeldung_appointment_confirmation/)
