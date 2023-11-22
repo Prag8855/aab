@@ -63,6 +63,8 @@ If you can't get a Blue Card, there are other [residence permits](/glossary/Aufe
     No salary requirement. No university degree required. In some cases, you might need professional training. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
+- **[[Job seeker visa]]**  
+    For looking for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you can apply for a work visa or a Blue Card.
 - **[[Internship visa]]**  
     For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
@@ -85,6 +87,7 @@ You can apply in Germany if...
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you already have a Blue Card from another EU country
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
+- **or** you have a [[National Visa]]. You just need to [convert it to a Blue Card](#convert-your-national-visa-into-a-blue-card).
 
 If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
 
@@ -223,7 +226,7 @@ Get an appointment at the German embassy or consulate in your country. It can ta
 Before your embassy or consulate appointment, you must...
 
 - [ ] **Find a place to live in Germany**  
-    It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
+    Some embassies and consulates ask for it.[^43] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
@@ -399,3 +402,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)
 [^42]: Multiple relocation consultants (November 2023)
 [^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
+[^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
