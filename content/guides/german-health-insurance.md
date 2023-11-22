@@ -213,14 +213,14 @@ If you are over 55 years old, you can't switch to public insurance anymore.[^21]
 
 ## Expat health insurance
 
-[[Expat health insurance]] is a kind of private health insurance. It's a **temporary solution** for people who move to Germany.
+[[Expat health insurance]] is a kind of private health insurance. It's a **temporary solution** for people who move to Germany. It has much better coverage than travel insurance.
 
 There are **3 reasons to get expat health insurance**:
 
 - You plan to live in Germany for less than 5 years. It's the cheapest short-term health insurance.
 - **or** you are applying for a German [residence permit](/glossary/Aufenthaltstitel) *for the first time*. Expat insurance is easier to get than public or private health insurance. It's a good *temporary* insurance, before you get something better.
 - **or** you have no other option, because public and private health insurers rejected you. If you are a freelancer and earn under ~30,000€ per year, it can happen. If you are over 50 years old, it can also happen.
-- **and** you are not a German citizen. German citizens can rarely get expat health insurance.[^33]
+- **and** you are not a [EU](/glossary/European%20Union) citizen. EU citizens can rarely get expat health insurance.[^33]
 
 ### Compared to public and private health insurance
 
@@ -236,6 +236,13 @@ There are **3 reasons to get expat health insurance**:
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
 You can get expat health insurance from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats), or any [health insurance broker](#insurance-brokers).
+
+### Compared to travel insurance
+
+- **It covers more**  
+    Travel insurance usually covers around 30,000€ of medical fees. Expat insurance has unlimited coverage. If you get very sick with travel insurance, you must end your trip and go home. With expat insurance, you can stay in Germany and recover.[^30]
+- **It lasts longer**  
+    Expat insurance can be valid for a few years. Travel insurance is only valid for a few months.
 
 ## Don't stay on expat health insurance
 
@@ -253,9 +260,11 @@ If your expat insurance stays valid, it gets more and more expensive. In the lon
 
 ## Travel insurance
 
-Travel insurance is valid **for visiting Germany**. You need it to get a [[Schengen visa]]. It's not good enough for a [residence permit](/glossary/Aufenthaltstitel) application.
+Travel insurance is valid **for visiting Germany**. You need it to get a [[Schengen visa]]. It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
 
-It only covers medical emergencies, and treatments that can't wait until you return home. It does not cover long term treatments, health check-ups or pre-existing conditions. You can buy travel insurance online in your country of origin.
+It only covers medical emergencies, and treatments that can't wait until you go back home. It does not cover long-term treatments, health check-ups or pre-existing conditions.
+
+You can buy travel insurance online in your country of origin. [HanseMerkur](/out/hansemerkur-travel)'s travel insurance is valid for a Schengen visa application.
 
 ## Other options
 
@@ -337,3 +346,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)
 [^26]: [Feather Insurance](/out/feather) (May 2023)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
+[^30]: Dr. Rob Schumacher at [Feather Insurance](/out/feather) (November 2023)

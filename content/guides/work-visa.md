@@ -1,7 +1,7 @@
 ---
 Title: How to apply for a German work visa
 Short_title: How to get a work visa
-Description: This is how you apply for a work visa and start working in Germany.
+Description: This is how you apply for a work permit and start working in Germany.
 Date_created: 2023-11-18
 ---
 
@@ -245,7 +245,7 @@ Get an appointment at the German embassy or consulate in your country. It can ta
 Before your embassy or consulate appointment, you must...
 
 - [ ] **Find a place to live in Germany**  
-    It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
+    Some embassies and consulates ask for it. It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **Get health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  

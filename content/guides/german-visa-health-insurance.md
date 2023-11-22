@@ -29,13 +29,17 @@ Your travel insurance must...[^1]
 
 ### For a National Visa
 
-To apply for a [[National Visa]], you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**. When you start working in Germany, you must switch to public or private health insurance.
+To apply for a [[National Visa]], you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
+
+When you start working in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
 
 ### For a job seeker visa
 
-**If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance). When you [start working in Germany](/guides/find-a-job-in-berlin#step-6-start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+**If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
 
 **If you lived in Germany before**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.[^3] If you come back to Germany, you can get the same type of insurance as before.
+
+When you [start working](/guides/find-a-job-in-berlin#step-6-start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 ### For a work visa or Blue Card
 
@@ -51,17 +55,17 @@ To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need *
 
 **If this is your first [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.
 
-**If you renew or change your current residence permit**, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). You can keep your current public or private health insurance. Expat health insurance is rarely accepted.[^0]
+**If you renew or change your current residence permit**, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted.[^0]
 
-Don't choose health insurance yourself. It's a *really* bad idea. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose.
+Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 **[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
 
 ### For a Working Holiday Visa
 
-To apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you need public, private or expat health insurance.
+To apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung), travel or [expat health insurance](/glossary/Expat%20health%20insurance).
 
-Travel insurance is enough to get the visa, but when you start working, you need public, private or expat health insurance.[^14]
+When you start working, you need public or private health insurance.[^14] If you have a [minijob](/glossary/Minijob), you can usually stay on travel or expat insurance.[^2]
 
 ### For other residence permits
 
@@ -83,8 +87,8 @@ Travel insurance is not accepted when you apply for a residence permit.
 
 These insurers usually work:
 
-- **[Feather](/out/feather-expats)** works really well.[^12] They have public, private and expat health insurance, so they sell you the best option for your situation. I often work with Feather, and I got my own insurance from them. I trust them the most.
-- **[Ottonova](/out/ottonova-expats)** is an insurance startup from Munich. They sell private and expat health insurance, and they speak English. Their insurance is always accepted.[^4] They are not the best or cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
+- **[Feather](/out/feather-expats)** works really well.[^12] They have public, private and expat health insurance. They speak English. I got my own insurance from them. I trust them the most.
+- **[Ottonova](/out/ottonova-expats)** works well too.[^4] They sell private and expat health insurance. They speak English. They are not the cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
 - **[Care Concept](/out/care-concept)** is usually accepted.[^5] It's not the best insurance, but it works.
 - **[April International](https://de.april-international.com/de)**[^7]
 - **[aLC](https://www.alchealth.com/)**[^6]
@@ -112,4 +116,5 @@ These insurers are less reliable:
 [^9]: Confirmed by a Cigna employee (2022), [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
 [^12]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)
-[^14]: Personal experience
+[^14]: Rob Schumacher at Feather (November 2023), personal experience (2015)
+[^2]: Rob Schumacher at Feather (November 2023)

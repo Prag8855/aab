@@ -13,6 +13,6 @@ Expat health insurance or incoming health insurance is a temporary health insura
 
 When you arrive in Germany, you should switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) as soon as possible.
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+**[How to choose German health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**

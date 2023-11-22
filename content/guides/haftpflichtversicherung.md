@@ -68,7 +68,7 @@ It usually costs **less than 5€ per month**, or around 60€ per year. You can
 
 ## How to pick liability insurance
 
-If you feel lazy, **just choose [Getsafe](/out/getsafe-haftpflicht) or [Feather](/out/feather-haftpflicht).** Both options are fine. Both insurers speak English. I have insurance with Feather, but Getsafe is a little better: they sell their own insurance, their website clearly explains what it covers, and the contract is in English.
+If you feel lazy, **just choose [Feather](/out/feather-haftpflicht) or [Getsafe](/out/getsafe-haftpflicht).** Both options are fine. They speak English. They have simple, clear contracts in English. I have my liability insurance with Feather since 2022.
 
 To choose liability insurance yourself...
 
