@@ -45,7 +45,7 @@ If you have a job offer:
 - **[Youth mobility visa](/glossary/Youth%20Mobility%20Visa)**  
     For Canadian citizens between 18 and 35 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[[Au pair visa]]**  
-    For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract to apply for the visa.
+    For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year.
 
 If you don't have a job offer:
 
@@ -119,3 +119,4 @@ After a few years, you might qualify for [permanent residence](/glossary/Niederl
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^8]: [Quora](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)
 [^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
+[^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
