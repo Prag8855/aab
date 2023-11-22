@@ -4,6 +4,7 @@ Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
 Related_reviews:
+    reviews/blue-card/emily-archer.md
     reviews/blue-card/charlotte-forestier.md
     reviews/blue-card/debora-aust.md
 ---
