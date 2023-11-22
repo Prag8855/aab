@@ -33,14 +33,14 @@ To get a work visa, you need...[^18]
 - [ ] **A fair salary**  
     There is no minimum salary, but you can't be underpaid.[^42] You must earn as much as Germans who have a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
 - [ ] **Qualifications for this job**  
-    You must know how to do your job. For example, to get a programming job, you must know how to program.
+    You must know how to do your job. For example, to get a car mechanic job, you must know how to fix cars. Your job can be unrelated to your education.[^31]
 - [ ] **Permission to do this job**  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^38]
 
 - [ ] **Vocational training** or a **university degree**  
-    You must be trained to do this job. Your education or training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of training in Germany. If you have a university degree, try to get a [[Blue Card]]; it's better.
+    You must be trained to do this job. Your education or training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of training in Germany. If you have a university degree, try to get a [[Blue Card]]; it's better. Your job can be unrelated to your education.[^31]
 
 If you are **not** a citizen of {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
 
@@ -436,3 +436,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
+[^31]: New in November 2023. [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=second%2C%20the%20restriction%20that%20individuals%20may%20only%20work%20on%20the%20basis), [§18a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18a.html), [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html)
