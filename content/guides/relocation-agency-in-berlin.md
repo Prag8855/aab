@@ -6,11 +6,11 @@ Date_created: 2018-03-26
 Related_places:
     places/red-tape-translation.md
     places/sorted-berlin.md
+    places/archer-relocation.md
     places/irc-berlin.md
     places/expath.md
     places/relokate.md
     places/nomaden-berlin.md
-    places/archer-relocation.md
     places/glogauer-str-25.md
     places/start-relocation.md
     places/myhelpbuddy.md
@@ -35,7 +35,7 @@ A relocation agency can help you...
 
 ## Relocation agency or immigration lawyer?
 
-**Relocation consultants** help you [move to Berlin](/guides/moving-to-berlin) and deal with German bureaucracy, but they can't give legal advice.
+**Relocation consultants** help you [move to Berlin](/guides/moving-to-berlin) and deal with German bureaucracy, but they can't give you legal advice.
 
 **Immigration lawyers** give legal advice. They only help you with immigration: residence permits, permanent residence and citizenship. If you have legal questions, you need a lawyer.
 
