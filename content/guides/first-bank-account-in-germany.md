@@ -17,19 +17,18 @@ You need a bank account to...
 
 - get paid by your employer
 - pay your rent
-- pay all kinds of taxes
-- buy things online
-- buy things in stores
+- pay all kinds of [taxes](/guides/taxes)
+- buy things online and in stores
 
-You need a bank that allows [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how your employer pays you, and how you pay your rent and your taxes.
+Your bank must allow [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how your employer pays you, and how you pay your rent and your taxes. All EU banks and most European banks allow SEPA transfers.[^0]
 
-All EU banks and most European banks allow SEPA transfers.[^0] This is why you need a European bank account. You don't need a German bank; just a bank in a European country.
+You don't need a German bank. You can open a bank account in any European country, including the United Kingdom.
 
 ## German banks for expats
 
-If you are new in Germany, it's harder to open a bank account. You have no [registered address](/glossary/Anmeldung), no [job](/guides/find-a-job-in-berlin), no [residence permit](/glossary/Aufenthaltstitel) and no credit history. Some banks don't accept your foreign passport.[^1]
+If you are new in Germany, it's harder to open a bank account. Banks often ask for a [registered address](/glossary/Anmeldung), a [job](/guides/find-a-job-in-berlin), a [residence permit](/glossary/Aufenthaltstitel) or credit history. Banks often refuse passports from certain countries.[^1]
 
-An expat-friendly bank lets you open an account anyway.
+An expat-friendly bank makes it easier to open an account.
 
 ### Expat-friendly banks
 
