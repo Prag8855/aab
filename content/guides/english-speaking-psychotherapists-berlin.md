@@ -17,9 +17,7 @@ Related_places:
     places/the-living-body-julianne-appel-opper.md
     places/frau-dipl-psych-heidi-hooper-amri.md
     places/dr-pheasant.md
-    places/sarah-jane.md
     places/auf-dem-helmholtzplatz.md
-    places/josh-flowers-counselling.md
     places/bismarckstraße-82.md
     places/dr-christian-dombrowe.md
     places/frau-dipl-psych-nadja-ursula-gogolin.md
