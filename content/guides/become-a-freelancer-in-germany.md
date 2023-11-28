@@ -98,13 +98,15 @@ Use [Tarifcheck](/out/tarifcheck-berufunfahigkeit) to compare disability insuran
 
 ### Legal insurance
 
-Legal insurance (*[[Rechtsschutzversicherung]]*) will cover your legal costs if you need a lawyer. For example, if a client refuses to pay you, or if you have problems with another business.
+Legal insurance (*[[Rechtsschutzversicherung]]*) covers your legal costs if you need a lawyer. For example, if a client refuses to pay you, or if you have problems with another business.
 
-You must get professional legal insurance. Private legal insurance does not cover business activities.
+You must get professional legal insurance. Private legal insurance rarely covers business activities.
 
 **[What does legal insurance cover? ➞](/guides/legal-insurance)**
 
-[Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances, but it's only in German.
+[Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. They sell the same legal insurance from Roland.
+
+[Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances, but it's only in German.
 
 ### Accounting costs
 
