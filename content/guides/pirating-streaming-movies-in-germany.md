@@ -7,7 +7,7 @@ Date_created: 2017-10-13
 
 *This guide is written information purposes only. I do not condone piracy. I encourage you to pay for the media you consume.*
 
-Downloading movies in Germany [is risky](https://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1,000€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
+Downloading movies in Germany [is risky](https://www.dw.com/en/internet-pirates-walk-a-fine-line-in-germany/a-36364095). Pirates in Germany can get big fines: 900€ to 1,500€ on average. But if you do it correctly, you can pirate movies without getting in trouble.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -43,7 +43,7 @@ While you do this, your IP address is visible to everyone, including the copyrig
 
 *Unless* you take precautions.
 
-If you add someone else between you and the torrent, their IP address will be visible, but not yours.show among the uploaders instead of yours. Copyright lawyers won't be able to trace the downloads back to you. This is what a VPN or a seedbox does.
+If you add someone else between you and the torrent, their IP address will be visible, but not yours. Copyright lawyers won't be able to trace the downloads back to you. This is what a VPN or a seedbox does.
 
 [Private torrent trackers](https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers) can also increase your privacy. Your IP address will only be visible to people who can use the tracker. You can still be caught if the copyright lawyer gets access to the tracker.
 
@@ -57,7 +57,7 @@ VPNs come with extra benefits:
 - They let you see websites that are blocked in your country
 - They increase your online privacy by adding a layer of anonymity
 
-However, VPNs are not risk-free. If your VPN connection drops, your torrent client might continue downloading copyrighted materials without it, exposing your IP address to the world. This is why you should set up a [VPN killswitch](https://www.vpnmentor.com/blog/kill-switch-features/) that cuts the internet connection if you are not connected to your VPN.
+However, VPNs are not risk-free. If your VPN connection drops, your torrent client might continue downloading copyrighted materials without it, exposing your IP address to the world. This is why you should set up a [VPN killswitch](https://www.vpnmentor.com/blog/kill-switch-features/) that cuts the internet connection if you are not connected to your VPN. I use [this docker-based killswitch](https://github.com/haugene/docker-transmission-openvpn/) since a few years.
 
 When choosing a VPN, you must look for a fast provider that allows torrenting and does not log IP addresses. Avoid free VPN services, as they usually sacrifice safety, privacy or performance. I use [Private Internet Access](/out/private-internet-access) since 2016. I never had any problems.
 
