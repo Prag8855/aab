@@ -6,7 +6,7 @@ Description: A residence permit for freelancers and self-employed people
 Date_created: 2018-09-12
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md

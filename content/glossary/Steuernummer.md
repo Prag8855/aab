@@ -6,7 +6,7 @@ Description: A number that identifies your business with the Finanzamt.
 Date_created: 2018-07-31
 Related_guides:
     guides/german-tax-id-steuernummer.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/start-a-business-in-germany.md
     guides/website-compliance-germany.md

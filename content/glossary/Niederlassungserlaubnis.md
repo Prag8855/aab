@@ -7,7 +7,7 @@ Date_created: 2020-02-07
 Related_guides:
     guides/residence-permit.md
     guides/find-a-job-in-berlin.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/ksk-kuenstlersozialkasse.md
 ---
 

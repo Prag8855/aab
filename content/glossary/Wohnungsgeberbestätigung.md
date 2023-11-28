@@ -6,7 +6,7 @@ Description: A document from the landlord or main tenant. It confirms that you m
 Date_created: 2018-07-31
 Related_guides:
     guides/find-a-flat-in-berlin.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/anmeldung-in-english-berlin.md
     guides/moving-in.md
 ---

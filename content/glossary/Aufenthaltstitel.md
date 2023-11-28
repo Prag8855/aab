@@ -8,7 +8,7 @@ Related_guides:
     guides/residence-permit.md
     guides/blue-card.md
     guides/work-visa.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md
     guides/become-a-freelancer-in-germany.md

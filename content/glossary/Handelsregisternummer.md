@@ -4,7 +4,10 @@ German_term: Handelsregisternummer
 English_term: Trade register number
 Description: 
 Date_created: 2018-07-31
-Related_guides: guides/how-to-get-a-german-freelance-visa.md, guides/handelsregisternummer-germany.md, guides/fragebogen-zur-steuerlichen-erfassung.md
+Related_guides:
+    guides/freelance-visa.md
+    guides/handelsregisternummer-germany.md
+    guides/fragebogen-zur-steuerlichen-erfassung.md
 ---
 
 The *Handelsregisternummer* is a number every business gets when it's listed in the German Trade Register (*Handelsregister*). You get a *Handelsregisternummer* by [filling the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung).

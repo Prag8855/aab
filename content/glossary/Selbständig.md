@@ -5,7 +5,7 @@ English_term: Self-employed
 Description: A self-employed person who is not a freelancer (Freiberufler).
 Date_created: 2018-07-31
 Related_guides:
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/freiberufler-or-gewerbe.md
     guides/website-freiberuf-or-gewerbe.md

@@ -8,7 +8,7 @@ Description: Instructions on how to write letters of intent for your German free
 Date_created: 2018-07-11
 Related_guides:
     guides/freelance-visa-letter-of-intent.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/berlin-auslanderbehorde-appointment.md
     guides/start-a-business-in-germany.md
     guides/renew-german-freelance-visa.md

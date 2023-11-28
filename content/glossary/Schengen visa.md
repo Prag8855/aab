@@ -5,7 +5,7 @@ English_term: Schengen visa
 Description: A visa that lets you visit Schengen countries, including Germany.
 Date_created: 2018-07-31
 Related_guides:
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/blue-card.md
     guides/work-visa.md
     guides/residence-permit.md

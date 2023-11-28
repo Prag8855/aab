@@ -7,7 +7,7 @@ English_document: documents/german-visa-Ertragsvorschau-2023.pdf
 Description: You must prepare this document for your German freelance visa interview. This is the official template for the Berlin Ausländerbehörde.
 Date_created: 2018-06-13
 Related_guides:
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/berlin-auslanderbehorde-appointment.md

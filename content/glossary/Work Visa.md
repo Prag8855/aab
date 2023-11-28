@@ -11,7 +11,7 @@ Related_guides:
     guides/find-a-job-in-berlin.md
     guides/moving-to-berlin.md
     guides/german-visa-health-insurance.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/german-work-visa-to-freelance-visa.md
     guides/residence-permit.md

@@ -9,7 +9,7 @@ Related_guides:
     guides/free-schufa-berlin.md
     guides/an-honest-review-of-n26.md
     guides/getting-married-in-germany.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/replacement-meldebescheinigung.md
     guides/convert-to-german-driving-licence.md
     guides/start-a-business-in-germany.md

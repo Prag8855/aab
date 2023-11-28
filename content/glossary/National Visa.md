@@ -6,7 +6,7 @@ Description: A visa that lets you enter Germany to work, study or start a busine
 Date_created: 2018-08-28
 Related_guides:
     guides/residence-permit.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/moving-to-berlin.md
     guides/blue-card.md
     guides/work-visa.md

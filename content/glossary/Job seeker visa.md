@@ -7,7 +7,7 @@ Date_created: 2018-08-28
 Related_guides:
     guides/residence-permit.md
     guides/berlin-auslanderbehorde-appointment.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/work-visa.md
     guides/blue-card.md
     guides/german-visa-health-insurance.md

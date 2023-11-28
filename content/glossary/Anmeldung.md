@@ -13,7 +13,7 @@ Related_guides:
     guides/getting-married-in-germany.md
     guides/german-tax-id-steuernummer.md
     guides/abmeldung-deregister-in-berlin.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/freiberufler-or-gewerbe.md
     guides/start-a-business-in-germany.md
     guides/anmeldung-in-english-berlin.md

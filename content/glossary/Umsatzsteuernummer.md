@@ -7,7 +7,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/value-added-tax.md
     guides/german-tax-id-steuernummer.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/start-a-business-in-germany.md
 ---

@@ -7,7 +7,7 @@ English_document: documents/finanzierungsplan-berlin-freelance-visa.pdf
 Description: This is a template for the Finanzierungsplan, a document you must bring to your German freelance visa interview
 Date_created: 2018-07-11
 Related_guides:
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/start-a-business-in-germany.md
     guides/berlin-auslanderbehorde-appointment.md
     guides/become-a-freelancer-in-germany.md

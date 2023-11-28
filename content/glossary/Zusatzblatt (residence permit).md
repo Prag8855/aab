@@ -11,7 +11,7 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
     guides/blue-card.md
     guides/work-visa.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
 ---
 
 When you get your [residence permit](/glossary/Aufenthaltstitel), you also get a sheet with more information. This sheet is the *Zusatzblatt*. It looks like this: [front](/images/aufenthaltstitel-zusatzblat-front-web.png), [back](/images/aufenthaltstitel-zusatzblat-back-web.png).

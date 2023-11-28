@@ -6,7 +6,7 @@ Description: When you are hired as a freelancer, but work like an employee.
 Date_created: 2018-07-31
 Related_guides:
     guides/start-a-business-in-germany.md
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/become-a-freelancer-in-germany.md
     guides/ksk-kuenstlersozialkasse.md
 ---

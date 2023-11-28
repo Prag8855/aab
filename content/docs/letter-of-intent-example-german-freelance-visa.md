@@ -7,7 +7,7 @@ English_document: documents/Absichtserklaerung-Example-English.pdf
 Description: An example letter of intent used to apply for the German freelance visa.
 Date_created: 2018-09-18
 Related_guides:
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/freelance-visa-letter-of-intent.md
     guides/become-a-freelancer-in-germany.md
     guides/renew-german-freelance-visa.md

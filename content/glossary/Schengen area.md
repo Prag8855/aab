@@ -5,7 +5,7 @@ English_term: Schengen area
 Description: If you have a Schengen visa, you can travel to these countries.
 Date_created: 2018-07-31
 Related_guides:
-    guides/how-to-get-a-german-freelance-visa.md
+    guides/freelance-visa.md
     guides/blue-card.md
     guides/work-visa.md
     guides/residence-permit.md
