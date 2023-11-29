@@ -82,7 +82,7 @@ You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel
 - **You sent your application documents**  
     You must submit a full residence permit application before your residence permit or National Visa expires.
 - or **you booked an Ausländerbehörde appointment**  
-    You must book the appointment before your residence permit or National Visa expires. The appointment date can be after the expiration date.
+    You must book the appointment before your residence permit or National Visa expires. The appointment date can be after it expires.
 
 While you wait for the *Ausländerbehörde*...
 

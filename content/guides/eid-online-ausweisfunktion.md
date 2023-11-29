@@ -29,7 +29,7 @@ If you don't have eID, you must do everything in person. It's slower.
 
 Download the [AusweisApp](https://www.ausweisapp.bund.de/en/home), and use your phone to scan your residence permit. The app will tell you if your eID already works.
 
-If you received your residence permit by mail, the eID is not activated. If you picked it up at the *Ausländerbehörde*, it's sometimes activated.[^4]
+If you received your residence permit by mail, the eID is not activated. If you picked it up at the *Ausländerbehörde*, it's sometimes activated.[^4] Ask them to activate it when you pick up the residence permit.
 
 After you apply for your residence permit, you will get a letter with a PIN for your eID. It arrives 2 weeks before your new residence permit.[^3]
 
@@ -40,6 +40,8 @@ After you receive your residence permit, you can activate the eID function at th
 1. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment). There is no form or appointment category for this; you must use the general contact form. You can't activate your residence permit at the *[[Bürgeramt]]*.
 2. Receive an appointment at the Ausländerbehörde.
 3. Go to your *Ausländerbehörde* appointment. The appointment only takes a few minutes.
+
+If you pick up your residence permit at the *Ausländerbehörde*, ask if they can activate the eID function while you are there.
 
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/)
 [^2]: [Reddit](https://old.reddit.com/r/berlin/comments/11tuxdm/trapped_in_bureaucratic_loop_eid_function_for/), [Reddit](https://old.reddit.com/r/berlin/comments/z3fd24/visiting_berlin_moving_here_going_clubbing_have_a/jaqlmvx/), [Reddit](https://old.reddit.com/r/berlin/comments/12ew8ct/how_do_i_activate_the_eid_functionality_on_my/)

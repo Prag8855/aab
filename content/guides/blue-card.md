@@ -171,7 +171,7 @@ When you go to your appointment, bring...[^7]
 - [ ] **1 biometric photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. If you need an interpreter, I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 The appointment takes around 15 minutes. During the appointment, they take your fingerprints for your Blue Card.
 
@@ -184,7 +184,7 @@ The appointment takes around 15 minutes. During the appointment, they take your 
 1. **The eID activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
 2. **Your Blue Card**  
-    Around 2 weeks later, you receive your Blue Card, or an invitation to collect your Blue Card at the *Ausländerbehörde*.[^28]
+    Around 2 weeks later, you receive your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
