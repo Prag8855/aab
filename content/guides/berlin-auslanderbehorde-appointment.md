@@ -4,48 +4,32 @@ Description: How to find a appointment for a residence permit at the immigration
 Date_created: 2017-09-22
 ---
 
-This guide explains how to get an appointment at the immigration office (*[[Ausländerbehörde]]*) in Berlin, and what to do if you can't find an appointment.
+This guide explains how to get an *[[Ausländerbehörde]]* appointment, and what to do if you can't find one.
+
+You need an *Ausländerbehörde* appointment to...[^3]
+
+- Apply for a [residence permit](/glossary/Aufenthaltstitel)
+- Renew or change your current residence permit
+- Convert your [[National Visa]] into a residence permit
+
+If you go to the *Ausländerbehörde* without an appointment, they will not help you.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How to get an appointment
 
-You can't visit the *Ausländerbehörde* without an appointment.[^3]
-
 There are 3 ways to get an appointment:[^2]
 
-- **[Book an appointment online](#book-an-appointment-online)**  
-    [Look for an appointment](/out/auslanderbehorde-appointment). Most of the time, there are no appointments. You must refresh the page hundreds of times before you find an appointment. Your appointment could be in a few months.
-- or **[send your documents online](#send-your-documents-online)** (recommended)  
-    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application documents. The *Ausländerbehörde* will process your application and email you. This is usually the best option.
-- or **[buy an appointment](#buy-an-auslanderbehorde-appointment)**  
-    Some businesses sell *Ausländerbehörde* appointments for around 50€.
+- **Send your documents and wait** ⭐️  
+    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option.
+- or **book an appointment online**  
+    Refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times, get an appointment in a few months.
+- or **buy an appointment**  
+    Pay around 50€, get an appointment. It's unethical, but it works.
 
-It can take weeks to find an appointment. The appointments are usually a few months later. You must plan for this. It's usually faster to [send your documents online](#send-your-documents-online).
+### Send your documents and wait
 
-**If your residence permit expires soon**, [send your documents online](#send-your-documents-online). It allows you to stay in Germany after your residence permit expires. - [More information ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)
-
-### Book an appointment online
-
-**[Book an appointment online](/out/auslanderbehorde-appointment)** on the *Ausländerbehörde* website.
-
-1. Open the official [appointment booking page](/out/auslanderbehorde-appointment)
-2. Choose your nationality and the type of residence permit.
-4. Click *Next*. If there are free appointments, you can select a date and book the appointment.
-
-**Usually, there are no appointments**. This is not a bug. It's really hard to find an appointment. Refresh the page every few minutes. You might need to do this hundreds of times. It can take a few weeks.[^0]
-
-New appointments appear at random times. There are more appointments during working hours. Short-term appointments appear on Wednesdays and Fridays.[^1]
-
-![The Berlin Ausländerbehörde appointment website showing no free appointments](/images/berlin-auslanderbehorde-no-appointments.png "No appointments found. This is normal.")
-
-If your residence permit expires soon, [send your documents online](#send-your-documents-online) instead. It's usually faster. - [More information ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)
-
-### Send your documents online
-
-You can **[use the contact form](/out/auslanderbehorde-contact)** to send your residence permit application. The *Ausländerbehörde* will give you an appointment when your residence permit is approved. This is usually the fastest option.
-
-If you send all your documents, it counts as a residence permit application. This allows you to stay in Germany even if your [residence permit](/glossary/Aufenthaltstitel) expires. - [More information ↓](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)
+Don't get an appointment. Instead, use the *Ausländerbehörde* contact form to send your residence permit application. This is usually the fastest option.
 
 To send your residence permit application...
 
@@ -56,33 +40,73 @@ To send your residence permit application...
     - [ ] Your date and place of birth
     - [ ] Your nationality
     - [ ] The expiration date of your visa or residence permit
-    - [ ] If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
+    - [ ] [If your residence permit expires soon](#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 2. **Attach your application documents**  
-    Include all required documents. Complete applications are processed faster.[^23]
-2. **Wait**  
-    The *Ausländerbehörde* takes a long time to answer. It takes a few days to a few months.
-3. **Get an Ausländerbehörde appointment**  
-    The *Ausländerbehörde* will email you after they process your application. They give usually you an appointment to bring missing documents and scan your fingerprints. This usually means that your residence permit is approved.[^12] You should get your residence permit in {{ RESIDENCE_PERMIT_WAIT_TIME }}.
+    Send all required documents. If your application is complete, it will be processed faster.[^23]
+3. **Wait a few weeks**  
+    It takes a few weeks to get an answer. You might wait for months. While you wait, you can usually stay in German even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
+4. **Get an Ausländerbehörde appointment**  
+    They will email you after they process your application. They usually give you an appointment to bring missing documents and scan your fingerprints. This usually means that your residence permit is approved.[^12] You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
 
-You can send also send your application by [registered mail](/glossary/Einschreibebrief). It's not better or faster.[^23] Do not send your application by fax or email. This does not work any more. You must use the contact form.
+You can send also send your application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not send your application by fax or email; it does not work. Use the contact form.
+
+### Book an appointment online
+
+It's really hard to find an appointment. **Usually, there are no appointments available**. Refresh the page every few minutes until you find one. It can take a few weeks to find an appointment.[^0] Your appointment can be in a few months.
+
+To book an appointment...
+
+1. Open the official [appointment booking page](/out/auslanderbehorde-appointment)
+2. Choose your nationality and the type of residence permit.
+4. Click *Next* to see appointment dates. Usually, there are no appointments. Try again until you find one.
+5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email.
+
+New appointments appear at random times. There are more appointments during working hours. Short-term appointments appear on Wednesdays and Fridays.[^1]
+
+**If your situation is urgent**, [contact the *Ausländerbehörde*](/out/auslanderbehorde-contact). They might give you an earlier appointment. Usually, they don't reply.
+
+**[If your visa or residence permit expires soon ↓](#if-your-residence-permit-expires-soon)**
 
 ### Buy an Ausländerbehörde appointment
 
-Some services sell *Ausländerbehörde* appointments for around 50€. They use scripts to book appointments before other people. Some of those services work, others just steal your money.[^22]
-
-These services are unethical. I will not share their name.
+Some services sell *Ausländerbehörde* appointments for around 50€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
 
 ## If your residence permit expires soon
 
-If your visa or residence expires soon, don't panic. You probably don't need to leave Germany.
+Your visa or residence permit might expire while you wait for the *Ausländerbehörde*. Don't panic! Usually, you can stay in Germany.[^20]
 
 ### If you have a residence permit or a National Visa
 
-You can stay in Germany until the *Ausländerbehörde* makes a decision if...
+You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel) or [[National Visa]] expires if...
 
-- You have an *Ausländerbehörde* appointment **and** you booked your appointment while your residence permit was valid[^21]
-- or you [sent your application online](#send-your-documents-online) while your residence permit was valid[^13]
-- or the *Ausländerbehörde* gives you a *[[Fiktionsbescheinigung]]*
+- **You sent your application documents**  
+    You must submit a full residence permit application before your residence permit or National Visa expires.
+- or **you booked an Ausländerbehörde appointment**  
+    You must book the appointment before your residence permit or National Visa expires. The appointment date can be after the expiration date.
+
+While you wait for the *Ausländerbehörde*...
+
+- **Work or study like before.**  
+    The conditions of your current residence permit or National Visa still apply. Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to know what you are allowed to do.
+- **Do not leave Germany.**  
+    You might be unable to re-enter Germany with an expired residence permit or National Visa. If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can usually travel in the [[Schengen area]], but this can change at any time. If you must travel outside Germany, [ask for a *Fiktionsbescheinigung*](/guides/fiktionsbescheinigung).
+
+### Everyone else
+
+**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for 90 days. You can stay longer if...
+
+- You have an *Ausländerbehörde* appointment **and** you booked the appointment in your first 90 days in Germany
+- or you sent your application documents in your first 90 days in Germany
+
+**If you have a Schengen visa**, you must leave Germany before your [[Schengen visa]] expires. Usually, you can't extend a Schengen visa. You can rarely convert a Schengen visa to a [residence permit](/glossary/Aufenthaltstitel).[^16]
+
+### If you have a residence permit or a National Visa
+
+You can stay in Germany if...
+
+- You have an *Ausländerbehörde* appointment **and** you booked your appointment while your residence permit was valid
+- or you [sent your application documents](#send-your-documents-and-wait) while your residence permit was valid
+- or the *Ausländerbehörde* gave you a *[[Fiktionsbescheinigung]]*
 
 In those cases, you can stay in Germany even if your residence permit expires.[^20] You can continue working, freelancing or studying until your appointment date.[^11] You must book the appointment while your residence permit is valid.
 
@@ -90,7 +114,7 @@ If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*. It
 
 If your residence permit expires, and you travel outside of Germany without a  *[[Fiktionsbescheinigung]]*, they might not let you re-enter Germany.[^14]
 
-**[Information about the Fiktionsbescheinigung ➞](/guides/fiktionsbescheinigung)**
+**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
 ### If you don't have a residence permit
 
@@ -169,7 +193,7 @@ If you don't get a residence permit, you pay nothing.
 
 ### If you don't get an answer
 
-If you apply for a [residence permit](/glossary/Aufenthaltstitel), and you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
+If you applied for a [residence permit](/glossary/Aufenthaltstitel), and you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
 
 If the *Ausländerbehörde* can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
@@ -185,8 +209,8 @@ To contact the *Ausländerbehörde*...
     Use [this page](/out/auslanderbehorde-departments) to find which department (*Referat*) is responsible for you.
 2. **Contact your department**  
     Use the [contact form](/out/auslanderbehorde-departments) to contact your department. Do not email or fax the *Ausländerbehörde*. You must use the contact form.
-3. **Wait**  
-    The *Ausländerbehörde* can take weeks or months to answer.[^4] It depends on how urgent your situation is, and how complete your application is.
+3. **Wait a few weeks**  
+    It takes a few weeks to get an answer. You might wait for months. You might never get an answer.
 
 If you apply for a residence permit, and you don't get an answer after 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
 
@@ -237,3 +261,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^25]: Multiple relocation consultants (October 2023)
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
+[^24]: Citation needed
