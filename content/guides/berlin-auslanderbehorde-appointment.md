@@ -23,18 +23,18 @@ There are 3 ways to get an appointment:[^2]
 - **Send your documents and wait** ⭐️  
     Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option.
 - or **book an appointment online**  
-    Refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times, get an appointment in a few months.
+    Refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times, and get an appointment in a few months.
 - or **buy an appointment**  
     Pay around 50€, get an appointment. It's unethical, but it works.
 
 ### Send your documents and wait
 
-Don't get an appointment. Instead, use the *Ausländerbehörde* contact form to send your residence permit application. This is usually the fastest option.
+Don't get an appointment. Instead, send your full residence permit application through the contact form, and wait. **This is usually the fastest option.**
 
-To send your residence permit application...
+To send your documents...
 
 1. **Use the [contact form](/out/auslanderbehorde-contact)**  
-    Write a message in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). In your message, include...
+    Write a message in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) to write. In your message, include...
     - [ ] What you need
     - [ ] Your full name
     - [ ] Your date and place of birth
@@ -42,13 +42,13 @@ To send your residence permit application...
     - [ ] The expiration date of your visa or residence permit
     - [ ] [If your residence permit expires soon](#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 2. **Attach your application documents**  
-    Send all required documents. If your application is complete, it will be processed faster.[^23]
+    If you send all the required documents, your application will be processed faster.[^23]
 3. **Wait a few weeks**  
-    It takes a few weeks to get an answer. You might wait for months. While you wait, you can usually stay in German even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
+    You must wait weeks or months to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
 4. **Get an Ausländerbehörde appointment**  
-    They will email you after they process your application. They usually give you an appointment to bring missing documents and scan your fingerprints. This usually means that your residence permit is approved.[^12] You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
+    After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
 
-You can send also send your application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not send your application by fax or email; it does not work. Use the contact form.
+You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not send your application by fax or email. Use the contact form.
 
 ### Book an appointment online
 
@@ -58,12 +58,12 @@ To book an appointment...
 
 1. Open the official [appointment booking page](/out/auslanderbehorde-appointment)
 2. Choose your nationality and the type of residence permit.
-4. Click *Next* to see appointment dates. Usually, there are no appointments. Try again until you find one.
+4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one.
 5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email.
 
 New appointments appear at random times. There are more appointments during working hours. Short-term appointments appear on Wednesdays and Fridays.[^1]
 
-**If your situation is urgent**, [contact the *Ausländerbehörde*](/out/auslanderbehorde-contact). They might give you an earlier appointment. Usually, they don't reply.
+**If your situation is urgent**, [contact the *Ausländerbehörde*](/out/auslanderbehorde-contact). They might give you an earlier appointment. Usually, they don't reply, but you should still try.
 
 **[If your visa or residence permit expires soon ↓](#if-your-residence-permit-expires-soon)**
 
@@ -86,116 +86,103 @@ You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel
 
 While you wait for the *Ausländerbehörde*...
 
-- **Work or study like before.**  
+- **Work or study like before**  
     The conditions of your current residence permit or National Visa still apply. Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to know what you are allowed to do.
-- **Do not leave Germany.**  
+- **Do not leave Germany**  
     You might be unable to re-enter Germany with an expired residence permit or National Visa. If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can usually travel in the [[Schengen area]], but this can change at any time. If you must travel outside Germany, [ask for a *Fiktionsbescheinigung*](/guides/fiktionsbescheinigung).
 
 ### Everyone else
 
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for 90 days. You can stay longer if...
+**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for 90 days without a visa.[^15][^20] You can stay longer if...
 
 - You have an *Ausländerbehörde* appointment **and** you booked the appointment in your first 90 days in Germany
 - or you sent your application documents in your first 90 days in Germany
 
-**If you have a Schengen visa**, you must leave Germany before your [[Schengen visa]] expires. Usually, you can't extend a Schengen visa. You can rarely convert a Schengen visa to a [residence permit](/glossary/Aufenthaltstitel).[^16]
+You need a residence permit to work, study or freelance. If you don't have one, you must wait.
 
-### If you have a residence permit or a National Visa
+**If you have a [[Schengen visa]]**, you must leave Germany before it expires. You can rarely extend a Schengen visa. You can rarely convert a Schengen visa to a [residence permit](/glossary/Aufenthaltstitel). You can't get a *[[Fiktionsbescheinigung]]*.[^27]
 
-You can stay in Germany if...
+## Before your appointment
 
-- You have an *Ausländerbehörde* appointment **and** you booked your appointment while your residence permit was valid
-- or you [sent your application documents](#send-your-documents-and-wait) while your residence permit was valid
-- or the *Ausländerbehörde* gave you a *[[Fiktionsbescheinigung]]*
+Read your appointment confirmation and follow the instructions. Usually, you must...
 
-In those cases, you can stay in Germany even if your residence permit expires.[^20] You can continue working, freelancing or studying until your appointment date.[^11] You must book the appointment while your residence permit is valid.
-
-If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*. It lets you travel outside of Germany after your residence permit expires.
-
-If your residence permit expires, and you travel outside of Germany without a  *[[Fiktionsbescheinigung]]*, they might not let you re-enter Germany.[^14]
-
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
-
-### If you don't have a residence permit
-
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**,[^15] you can stay in Germany for 90 days without a visa. If you have an *Ausländerbehörde* appointment or if you applied by email, you can stay in Germany until your appointment.[^20] You can't work, study or freelance while you wait for your residence permit.
-
-**You can rarely convert a [[Schengen visa]] to a residence permit**.[^16] You can't come to Germany on a [tourist visa](/glossary/Schengen%20visa), then apply for a [work visa](/glossary/Work%20Visa), [[Blue Card]] or [freelance visa](/glossary/Freelance%20visa).[^17] If you want a German residence permit, you must apply for it in your home country.
-
-**You can rarely extend a Schengen visa**.[^18] An *Ausländerbehörde* appointment does not extend your Schengen visa.[^19] You must leave Germany before your Schengen visa expires. You won't get a *[[Fiktionsbescheinigung]]* if you are on a Schengen visa.
-
-During your *Ausländerbehörde* appointment, the interviewer can give you a *[[Fiktionsbescheinigung]]*. This temporary residence permit lets you stay in Germany while you wait for your new residence permit. If you forgot some documents, the *[[Fiktionsbescheinigung]]* also gives you time to reapply.
+- [ ] **Prepare the required documents**  
+    This can take a few weeks. Bring all your documents, even if you're not sure you need them. Print everything. Don't staple the pages together. If you forget a document, you might need to come back in a few weeks. It wastes a lot of time.
+- [ ] **Hire a translator** (optional)  
+    Some *Ausländerbehörde* employees only speak German. If you don't speak German, bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). If you hire a [relocation consultant](/guides/relocation-agency-in-berlin) or an [immigration lawyer](/guides/english-speaking-lawyers-berlin), they can also translate for you.
 
 ## During your appointment
 
-### Going to your appointment
+### Go to the Ausländerbehörde
 
-Bring your appointment confirmation. You must have it to enter the Ausländerbehörde.[^3]
+Go to the correct *Ausländerbehörde*: [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9) or [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6). **Arrive early.** You need enough time to find the correct waiting room. If you are late, they might refuse to help you.
 
-Find the right office, floor and room. This information is in the email you get after you book your appointment.
+Bring your appointment confirmation. You need it to enter the *Ausländerbehörde*.[^3]
 
-Sit in the waiting room, and wait until your number is called on the television. When your number is called, go to the office number you see on the television.
+Inside the *Ausländerbehörde*, Find the right office, floor and room. This information is on your appointment confirmation.
 
 [![Berlin Ausländerbehörde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
 
-### The residence permit interview
+Sit in the correct waiting room. Wait until the television calls your number. Go to the office number (*Platz*) you see on the television.
 
-You will sit in front of an *Ausländerbehörde* employee, and show your documents. They will ask for specific documents one by one.
+### Go to your interview
 
-This appointment takes around 10 minutes.[^6] They will tell you to go in the waiting room again. They will call your number again in 5 to 45 minutes.
+The *Ausländerbehörde* employee will ask for your documents one by one. After a few minutes, they will send you back to the waiting room. 5 to 45 minutes later, you must go back to the same office.
 
-Some employees speak English, but many only speak German. If you don't speak German, bring a translator with you. [Red Tape Translation](/out/red-tape-translation) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+During your appointment, ask for a *[[Fiktionsbescheinigung]]*. It's a temporary residence permit. You might need it to travel outside of Germany.[^8]
 
-**If your current residence permit expires soon**, ask for a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany for a little longer. Some versions of the *Fiktionsbescheinigung* let you travel outside of Germany.[^8]
+**[What is a Fiktionsbescheinigung? ➞](/guides/fiktionsbescheinigung)**
 
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
+They might ask you to pay a fee. You must pay it at a payment machine in the same building.
 
-Some residence permits are approved on the same day, during your interview. You get a paper residence permit, pay the fee (if they ask you), and leave. Around 8 weeks later, you get your plastic residence permit by post.
+**[How to pay the residence permit fee ↓](#pay-the-fee)**
 
-Most residence permits are approved 1 to 6 months later.[^7]
+Your resident permit might be approved now or in a few weeks. Most residence permits are approved in a few weeks.[^7] If it's approved now, you get a paper certificate. In a few weeks, you will get a plastic residence permit by post.
 
+### Pay the fee
 
-### How to pay the residence permit fee
+When your residence permit is approved, you must pay a fee: {{ NATIONAL_VISA_FEE }}€ for a new residence permit or {{ NATIONAL_VISA_RENEWAL_FEE }}€ for a renewal.
 
-When your residence permit is approved, you must pay a fee. Some people have to pay now, and others have to pay later. You only pay the fee if your residence permit is approved. If it's rejected, you pay nothing.
+- **If you must pay now**, they will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you can also get cash from [this nearby ATM](https://goo.gl/maps/8cBy48WnTfbya13r6), even at night.
 
-**If you have to pay now**, they will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you can also get cash from [this nearby ATM](https://goo.gl/maps/8cBy48WnTfbya13r6), even at night.
-
-**If you have to pay later**, you will get an invoice by post. You will have 30 days to pay.[^25]
-
-![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
+- **If you must pay later**, you will get an invoice by post. You will have 30 days to pay.[^25] They might also ask you to pay during your next *Ausländerbehörde* visit.
 
 After you pay, you can go home. Keep your receipt; residence permit fees are [tax-deductible](/glossary/steuerlich%20absetzbar).
+
+![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
 
 ## After your appointment
 
 ### If your application is approved
 
-1 to 6 months after your application,[^7] you will get a letter with the PIN and PUK for your plastic residence permit (*elektronischer Aufenthaltstitel* or *eAT*). You don't need to do anything yet. A few weeks later, you will get your residence permit by post.
+{{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment, you get 2 letters:[^7]
 
-Your residence permit is valid between 6 months and 4 years. It depends on what residence permit you get, and how good your application is. Freelancers can get a shorter freelance visa if their income is low or if their health insurance is not good enough. When your residence permit is about to expire, you can renew it. The process is very similar.
+1. **The eID activation code**  
+    This letter arrives first. Save it for later. You need it to [activate the eID function](/guides/eid-online-ausweisfunktion) of your residence permit.
+2. **Your residence permit**  
+    Around 2 weeks later, you receive your residence permit, or an invitation to collect your it at the *Ausländerbehörde*.
 
-If you had a German residence permit for over 3 years, you might get an unrestricted residence permit. It lets you do any type of work you want. For example, you could get a full time job, study or even open a restaurant.
+If you had a German residence permit for over 3 years, you might get an unrestricted residence permit. It lets you do any type of work you want. For example, you can switch jobs, go to university or open a restaurant. You don't need permission from the *Ausländerbehörde* to do different things.
 
-Your residence permit is a plastic card, not a sticker in your passport. Your address is written on the card. If you move to another address, they will update your residence permit during the *[[Anmeldung]]*. They just put a sticker with your new address on your residence permit.
+Your residence permit is a plastic card. Your address is written on the card. If you move to another address, they will update your residence permit during the *[[Anmeldung]]*. They put a sticker with your new address on your residence permit.
 
-After you receive your plastic residence permit, [activate your eAT](/guides/eid-online-ausweisfunktion).
+Your residence permit has a chip in it. You can use it with the [AusweisApp](https://www.ausweisapp.bund.de/en/home) to log into online government services. By default this feature is not activated. You must [activate it yourself](/guides/eid-online-ausweisfunktion).
+
+**[How to activate the eID function ➞](/guides/eid-online-ausweisfunktion)**
 
 ### If your application is rejected
 
 If some documents are missing, they will give you a new appointment in a few days. This gives you time to get the missing documents and apply again.
 
-If your current visa expires soon, you might get a temporary visa (*[[Fiktionsbescheinigung]]*). It lets you stay in Germany a little longer. It gives you time to apply again.
+If your current visa expires soon, you might get a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany a bit longer.
 
-If you get a rejection letter later, it will ask for more information, or tell you why your application was rejected. You still have a month to respond or appeal. If this happens, you should probably [hire an immigration lawyer](/guides/english-speaking-lawyers-berlin) to help you.
-
-If you don't get a residence permit, you pay nothing.
+If you get a rejection letter, it will ask for more information, or tell you why your application was rejected. You have 1 month to respond or appeal. If this happen, you should [hire an immigration lawyer](/guides/english-speaking-lawyers-berlin) to help you.
 
 ### If you don't get an answer
 
-If you applied for a [residence permit](/glossary/Aufenthaltstitel), and you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. [Immigration lawyers](/guides/english-speaking-lawyers-berlin) can help you do this.
+After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) can help you do this.
 
-If the *Ausländerbehörde* can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
+If the *Ausländerbehörde* can't reach you because you changed your address, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
 ## Questions and answers
 
@@ -262,3 +249,4 @@ If you need someone to go with you, I recommend [Red Tape Translation](/out/red-
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
 [^24]: Citation needed
+[^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
