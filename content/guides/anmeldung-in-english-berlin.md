@@ -136,7 +136,7 @@ The landlord can refuse to let someone sublet their apartment. There are excepti
     You have the right to have guests.[^40] Your landlord can't forbid guests. Your guests can't register their address at your apartment, because they don't live there.
 - **Legitimate interest**  
     You can rent part of your apartment if there is a legitimate interest. The landlord needs a good reason to refuse. Examples of legitimate interest:
-    - To replace a roommate who moved out[^46]
+    - To replace a room mate who moved out[^46]
     - To rent your apartment while you work or study in another country[^45]
     - Because you really need the money[^43]
 
@@ -303,7 +303,7 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^40]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=in%20aller%20regel%20fur%20mehrere%20wochen)
 [^41]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=lebensgefahrten%20des%20mieters%20gehoren%20allerdings%20nicht), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=nicht%20wie%20ein%20ehegatte%20ist%20die%20lebenspartnerin)
 [^42]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=die%20aufnahme%20von%20nahen%20familienangehorigen), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=die%20aufnahme%20von%20nahen%20familienangehorigen)
-[^43]: [VIII ARZ 2/84](https://www.prinz.law/urteile/bgh/VIII_ARZ___2-84-ok)
+[^43]: [VIII ARZ 2/84](https://www.prinz.law/urteile/bgh/VIII_ARZ___2-84-ok), [Berliner Zeitung](https://www.berliner-zeitung.de/news/untervermieten-von-teilen-der-wohnung-erlaubt-bgh-gibt-berliner-mieter-recht-li.2160879)
 [^44]: [Kuhlen Rechtsanwälte](https://www.kuhlen-berlin.de/glossar/untervermietung#:~:text=folge%20bei%20nicht-erteilung%20der%20erlaubnis)
 [^45]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=in%20einer%20anderen%20stadt%20oder%20im%20ausland)
 [^46]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=auszug%20eines%20mitglieds%20der%20wohngemeinschaft)
