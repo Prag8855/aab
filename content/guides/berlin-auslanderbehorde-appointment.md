@@ -23,32 +23,33 @@ There are 3 ways to get an appointment:[^2]
 - **Send your documents and wait** ⭐️  
     Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option.
 - or **book an appointment online**  
-    Refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times, and get an appointment in a few months.
-- or **buy an appointment**  
-    Pay around 50€, get an appointment. It's unethical, but it works.
+    It's really hard to find an appointment. You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.
+
+**[Other solutions ↓](#other-solutions)**
 
 ### Send your documents and wait
 
-Don't get an appointment. Instead, send your full residence permit application through the contact form, and wait. **This is usually the fastest option.**
+Don't get an appointment. Instead, use the [contact form](/out/auslanderbehorde-contact), send your full [residence permit](/glossary/Aufenthaltstitel) application, and wait. **This is usually the fastest option**, but it can take a few months to get a reply.
 
 To send your documents...
 
 1. **Use the [contact form](/out/auslanderbehorde-contact)**  
-    Write a message in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) to write. In your message, include...
-    - [ ] What you need
-    - [ ] Your full name
-    - [ ] Your date and place of birth
-    - [ ] Your nationality
+    Write a message in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) to write it. Your message must include...
+    - [ ] What you want to do
     - [ ] The expiration date of your visa or residence permit
     - [ ] [If your residence permit expires soon](#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 2. **Attach your application documents**  
-    If you send all the required documents, your application will be processed faster.[^23]
-3. **Wait a few weeks**  
-    You must wait weeks or months to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
-4. **Get an Ausländerbehörde appointment**  
+    Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online.
+3. **Send your message**  
+    If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application.
+4. **Wait a few weeks**  
+    You must wait weeks or months to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#how-to-sue-the-auslanderbehorde).
+5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
 
 You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not send your application by fax or email. Use the contact form.
+
+**If you [apply for a Blue Card](/guides/blue-card)**, don't use the contact form. There is a [different form](/guides/blue-card#apply-for-the-blue-card-online) for the Blue Card.
 
 ### Book an appointment online
 
@@ -56,20 +57,25 @@ It's really hard to find an appointment. **Usually, there are no appointments av
 
 To book an appointment...
 
-1. Open the official [appointment booking page](/out/auslanderbehorde-appointment)
-2. Choose your nationality and the type of residence permit.
-4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one.
+1. Open the official [appointment booking page](/out/auslanderbehorde-appointment).
+2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, you must [use the contact form](#send-your-documents-and-wait).
+4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one. New appointments appear at random times, mostly during work hours.
 5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email.
 
-New appointments appear at random times. There are more appointments during working hours. Short-term appointments appear on Wednesdays and Fridays.[^1]
+**If you [apply for a Blue Card](/guides/blue-card)**, you don't need an appointment. [Apply for a Blue Card online](/guides/blue-card#apply-for-the-blue-card-online) instead.
 
 **If your situation is urgent**, [contact the *Ausländerbehörde*](/out/auslanderbehorde-contact). They might give you an earlier appointment. Usually, they don't reply, but you should still try.
 
 **[If your visa or residence permit expires soon ↓](#if-your-residence-permit-expires-soon)**
 
-### Buy an Ausländerbehörde appointment
+### Other solutions
 
-Some services sell *Ausländerbehörde* appointments for around 50€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
+- **Buy an Ausländerbehörde appointment**  
+    Some services sell *Ausländerbehörde* appointments for around 50€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
+- **Apply in another city**  
+    If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. If you [register your address](/glossary/Anmeldung) in another city, you can apply at the Ausländerbehörde there. Immigration offices in small cities are often faster.
+- **Hire a lawyer**  
+    When you hire an [immigration lawyer](/guides/english-speaking-lawyers-berlin). It can speed things up.
 
 ## If your residence permit expires soon
 
@@ -180,47 +186,32 @@ If you get a rejection letter, it will ask for more information, or tell you why
 
 ### If you don't get an answer
 
-After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) can help you do this.
+After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer, you can [sue the *Ausländerbehörde*](#how-to-sue-the-auslanderbehorde). It can speed things up.
 
 If the *Ausländerbehörde* can't reach you because you changed your address, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
-## Questions and answers
+## Contact the Ausländerbehörde
 
-### How to contact the Ausländerbehörde
-
-The *Ausländerbehörde* removed emails and fax numbers from their website. You must use the **[contact form](/out/auslanderbehorde-departments)**.[^26]
+The *Ausländerbehörde* is really hard to contact. They removed emails and fax numbers from their website. You must use the **[contact form](/out/auslanderbehorde-contact)**.[^26]
 
 To contact the *Ausländerbehörde*...
 
-1. **Find your department**  
-    Use [this page](/out/auslanderbehorde-departments) to find which department (*Referat*) is responsible for you.
-2. **Contact your department**  
-    Use the [contact form](/out/auslanderbehorde-departments) to contact your department. Do not email or fax the *Ausländerbehörde*. You must use the contact form.
+1. **Use the contact form**  
+    Use the [contact form](/out/auslanderbehorde-departments) to contact your department. Do not email or fax the *Ausländerbehörde*.
 3. **Wait a few weeks**  
     It takes a few weeks to get an answer. You might wait for months. You might never get an answer.
 
-If you apply for a residence permit, and you don't get an answer after 3 months, you can [sue the *Ausländerbehörde*](#if-you-dont-get-an-answer).
+### How to sue the Ausländerbehörde
 
-### Do they speak English at the Ausländerbehörde?
+After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. 
 
-**Sometimes, but not always**. You should bring an interpreter with you. [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) can go to the *Ausländerbehörde* with you. You can also [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin).
+In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) can help you do this.
 
-### Which Ausländerbehörde should I go to?
-
-If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. You can also [register your address](/glossary/Anmeldung) in Brandenburg, and apply to a Brandenburg Ausländerbehörde. It's sometimes faster.[^5]
-
-Berlin has two *Ausländerbehörden*: [Keplerstraße](https://service.berlin.de/standort/327437/en/) and [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/en/). They provide different services, and you must choose the correct one.
-
-- [List of services at Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/)
-- [List of services at Keplerstraße](https://service.berlin.de/standort/327437/en/)
+**[English-speaking lawyers ➞](/guides/english-speaking-lawyers-berlin)**
 
 ## Where to get help
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
-
-If you need someone to go with you, I recommend [Red Tape Translation](/out/red-tape-translation). Kathleen often helps me with *Ausländerbehörde* questions. They also offer help sessions for visa applications. [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
-
-[This Facebook group](https://www.facebook.com/groups/226825394858771/) answers questions about the *Ausländerbehörde*.
 
 [^0]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/posts/1252123768589657/)
 [^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)

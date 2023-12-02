@@ -53,8 +53,8 @@ If you register a *Gewerbe*, you must...
 
 Your *Freiberufler* or *Gewerbetreibender* status also affects...
 
-- **Your [freelance visa](/glossary/Freelance%20visa) application**  
-    The [required documents](/guides/how-to-get-a-german-freelance-visa#required-documents) are different for *Freiberufler* and *Gewerbetreibende*. You get a different kind of freelance visa, but it makes no difference to you.[^1]
+- **Your residence permit**  
+    When you apply for a [freelance visa](/glossary/Freelance%20visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the required documents for *Freiberufler* and *Gewerbetreibende* are different.[^1]
 - **The help you get**  
     The [[IHK]] helps *Gewerbetreibende* for free. They do not help *Freiberufler*.
 

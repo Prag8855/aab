@@ -159,7 +159,7 @@ When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbeho
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you send your documents online, it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#if-you-dont-get-an-answer).[^20]
+The *Ausländerbehörde* will process your application. If you send your documents online, it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#how-to-sue-the-auslanderbehorde).[^20]
 
 If you already have a residence permit, it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
 
