@@ -55,7 +55,7 @@ You can send your residence permit application by [registered mail](/glossary/Ei
 
 ### Book an appointment online
 
-It's really hard to find an appointment. **Usually, there are no appointments available**. Refresh the page every few minutes until you find one. It can take a few weeks to find an appointment.[^0] Your appointment can be in a few months.
+It's really hard to find an appointment. **Usually, there are no appointments available**. Refresh the page every few minutes until you find one. It can take a few weeks to find an appointment. Your appointment might be in a few months.
 
 To book an appointment...
 
@@ -215,7 +215,6 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: Citation needed
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
 [^2]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=What%20should%20I%20bring)
@@ -232,7 +231,6 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
-[^24]: Citation needed
 [^25]: Multiple relocation consultants (October 2023)
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
 [^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
