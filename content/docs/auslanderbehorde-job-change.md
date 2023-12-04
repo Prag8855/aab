@@ -30,7 +30,7 @@ You don't need to do this if...
 
 Send the letter to the department who is responsible for you. Include a copy of your resignation letter, your termination notice, and your new work contract.
 
-**[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde)**
+**[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
 The *Ausländerbehörde* will answer a few weeks later.[^1]
 

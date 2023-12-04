@@ -99,7 +99,7 @@ If you can't find an appointment, you can also [apply by email](/guides/berlin-a
 
 After you send your application, your residence permit stays valid until the *Ausländerbehörde* makes a decision. You can stay in Germany and work. You might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
 
-**[If your freelance visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon)**
+**[If your freelance visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
 ### 2. Prepare your documents
 

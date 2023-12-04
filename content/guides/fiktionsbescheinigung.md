@@ -26,9 +26,9 @@ For example, the *[[Ausländerbehörde]]* can give you a *Fiktionsbescheinigung*
 - **With your [residence permit](/glossary/Aufenthaltstitel) application**  
     If you send your residence permit application [by email](/guides/berlin-auslanderbehorde-appointment#by-email), ask for a *Fiktionsbescheinigung* in your application email.
 - **By email**  
-    [Email the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#how-to-contact-the-auslanderbehorde). In your email, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] Explain why this trip is important. Attach proof of your travel plans, like plane tickets or an invitation.
+    [Email the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). In your email, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] Explain why this trip is important. Attach proof of your travel plans, like plane tickets or an invitation.
 
-If they refuse to give you a *Fiktionsbescheinigung*, you must insist. It's your right and they have no reason to refuse.[^6]
+If they refuse to give you a *Fiktionsbescheinigung*, you must insist. It's your right. They have no reason to refuse.[^6]
 
 There is a fee of around 20€. Sometimes, you get the *Fiktionsbescheinigung* by post. Sometimes you must pick it up at the *Ausländerbehörde*.[^1] This can take a few weeks.
 
@@ -38,7 +38,7 @@ If you currently have a [tourist visa](/glossary/Schengen%20visa), you can't get
 
 **It depends.** If you have a ["§81 Abs. 4" Fiktionsbescheinigung](#fiktionsbescheinigung-types), you can travel outside of Germany. You can visit countries outside the Schengen area and the European Union, then re-enter Germany.
 
-Other types of *Fiktionsbescheinigung* do not let you travel outside of Germany. If you travel outside Germany, you might not be able to re-enter later.
+Other types of *Fiktionsbescheinigung* do not let you travel outside of Germany. If you travel outside Germany, you might not be able to re-enter later.[^7]
 
 ## Fiktionsbescheinigung types
 
@@ -58,9 +58,10 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 **[Where ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
+[^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (June 2023), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^2]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Wikipedia](https://de.wikipedia.org/wiki/Fiktionsbescheinigung), [Berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^3]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^4]: [§81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)
 [^5]: [twitter.com](https://twitter.com/Sarah_Kennedy03/status/1638523917403934722), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (June 2023), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
-[^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (June 2023), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^6]: [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), confirmed by a relocation consultant (October 2023)
+[^7]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=you%20are%20not%20allowed%20to%20re%2Dentry%20Germany)

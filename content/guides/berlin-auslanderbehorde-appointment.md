@@ -12,13 +12,13 @@ You need an *Ausländerbehörde* appointment to...[^3]
 - Renew or change your current residence permit
 - Convert your [[National Visa]] into a residence permit
 
-If you go to the *Ausländerbehörde* without an appointment, they will not help you.
+If you go to the *Ausländerbehörde* without an appointment, they will not help you.[^8]
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How to get an appointment
 
-There are 3 ways to get an appointment:[^2]
+There are 2 ways to get an appointment:[^2]
 
 - **Send your documents and wait** ⭐️  
     Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option.
@@ -29,7 +29,9 @@ There are 3 ways to get an appointment:[^2]
 
 ### Send your documents and wait
 
-Don't get an appointment. Instead, use the [contact form](/out/auslanderbehorde-contact), send your full [residence permit](/glossary/Aufenthaltstitel) application, and wait. **This is usually the fastest option**, but it can take a few months to get a reply.
+Don't get an appointment. Instead, use the [contact form](/out/auslanderbehorde-contact), send your full [residence permit](/glossary/Aufenthaltstitel) application, and wait.[^6] **This is usually the fastest option**, but it can take a few months to get a reply.
+
+If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], send your documents 8 weeks before it expires, not sooner.[^1] You must send your application before your residence permit expires.[^5]
 
 To send your documents...
 
@@ -43,7 +45,7 @@ To send your documents...
 3. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application.
 4. **Wait a few weeks**  
-    You must wait weeks or months to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#how-to-sue-the-auslanderbehorde).
+    You must wait weeks or months to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
 5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
 
@@ -58,9 +60,9 @@ It's really hard to find an appointment. **Usually, there are no appointments av
 To book an appointment...
 
 1. Open the official [appointment booking page](/out/auslanderbehorde-appointment).
-2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, you must [use the contact form](#send-your-documents-and-wait).
+2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, [use the contact form](#send-your-documents-and-wait).
 4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one. New appointments appear at random times, mostly during work hours.
-5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email.
+5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email. Save this email.
 
 **If you [apply for a Blue Card](/guides/blue-card)**, you don't need an appointment. [Apply for a Blue Card online](/guides/blue-card#apply-for-the-blue-card-online) instead.
 
@@ -73,7 +75,7 @@ To book an appointment...
 - **Buy an Ausländerbehörde appointment**  
     Some services sell *Ausländerbehörde* appointments for around 50€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
 - **Apply in another city**  
-    If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. If you [register your address](/glossary/Anmeldung) in another city, you can apply at the Ausländerbehörde there. Immigration offices in small cities are often faster.
+    If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. If you [register your address](/glossary/Anmeldung) in another city, you can apply at the Ausländerbehörde there. Immigration offices in small cities are often faster.[^4]
 - **Hire a lawyer**  
     When you hire an [immigration lawyer](/guides/english-speaking-lawyers-berlin). It can speed things up.
 
@@ -86,9 +88,9 @@ Your visa or residence permit might expire while you wait for the *Ausländerbeh
 You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel) or [[National Visa]] expires if...
 
 - **You sent your application documents**  
-    You must submit a full residence permit application before your residence permit or National Visa expires.
+    You must submit a full residence permit application before your residence permit or National Visa expires.[^5]
 - or **you booked an Ausländerbehörde appointment**  
-    You must book the appointment before your residence permit or National Visa expires. The appointment date can be after it expires.
+    You must book the appointment before your residence permit or National Visa expires. The appointment can be after it expires.
 
 While you wait for the *Ausländerbehörde*...
 
@@ -99,14 +101,14 @@ While you wait for the *Ausländerbehörde*...
 
 ### Everyone else
 
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for 90 days without a visa.[^15][^20] You can stay longer if...
+**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for 90 days without a visa.[^11] You can stay longer if...
 
 - You have an *Ausländerbehörde* appointment **and** you booked the appointment in your first 90 days in Germany
 - or you sent your application documents in your first 90 days in Germany
 
 You need a residence permit to work, study or freelance. If you don't have one, you must wait.
 
-**If you have a [[Schengen visa]]**, you must leave Germany before it expires. You can rarely extend a Schengen visa. You can rarely convert a Schengen visa to a [residence permit](/glossary/Aufenthaltstitel). You can't get a *[[Fiktionsbescheinigung]]*.[^27]
+**If you have a [[Schengen visa]]**, you must leave Germany before it expires. You can rarely extend a Schengen visa.[^16] You can rarely convert a Schengen visa to a [residence permit](/glossary/Aufenthaltstitel). You can't get a *[[Fiktionsbescheinigung]]*.[^27]
 
 ## Before your appointment
 
@@ -123,7 +125,7 @@ Read your appointment confirmation and follow the instructions. Usually, you mus
 
 Go to the correct *Ausländerbehörde*: [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9) or [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6). **Arrive early.** You need enough time to find the correct waiting room. If you are late, they might refuse to help you.
 
-Bring your appointment confirmation. You need it to enter the *Ausländerbehörde*.[^3]
+**Print your appointment confirmation** and bring it. You need it to enter the *Ausländerbehörde*.[^3]
 
 Inside the *Ausländerbehörde*, Find the right office, floor and room. This information is on your appointment confirmation.
 
@@ -135,7 +137,7 @@ Sit in the correct waiting room. Wait until the television calls your number. Go
 
 The *Ausländerbehörde* employee will ask for your documents one by one. After a few minutes, they will send you back to the waiting room. 5 to 45 minutes later, you must go back to the same office.
 
-During your appointment, ask for a *[[Fiktionsbescheinigung]]*. It's a temporary residence permit. You might need it to travel outside of Germany.[^8]
+During your appointment, ask for a *[[Fiktionsbescheinigung]]*. It's a temporary residence permit. You might need it to travel outside of Germany.
 
 **[What is a Fiktionsbescheinigung? ➞](/guides/fiktionsbescheinigung)**
 
@@ -186,7 +188,7 @@ If you get a rejection letter, it will ask for more information, or tell you why
 
 ### If you don't get an answer
 
-After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer, you can [sue the *Ausländerbehörde*](#how-to-sue-the-auslanderbehorde). It can speed things up.
+After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision.[^28] If you don't get an answer, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). It can speed things up.
 
 If the *Ausländerbehörde* can't reach you because you changed your address, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
@@ -201,7 +203,7 @@ To contact the *Ausländerbehörde*...
 3. **Wait a few weeks**  
     It takes a few weeks to get an answer. You might wait for months. You might never get an answer.
 
-### How to sue the Ausländerbehörde
+## Sue the Ausländerbehörde
 
 After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. 
 
@@ -213,31 +215,25 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/posts/1252123768589657/)
-[^1]: [berlin.de](https://www.berlin.de/einwanderung/en/residence/artikel.1089038.en.php), [berlin.de](https://service.berlin.de/standort/121885/)
-[^2]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
-[^4]: [reddit.com](https://old.reddit.com/r/berlin/comments/qbvek6/my_experience_of_blue_card_to_permanent_residence/), [reddit.com](https://old.reddit.com/r/berlin/comments/oo8sx3/help_with_my_visa/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/), [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jexldbt/)
-[^6]: [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [berlinlogs.com](https://berlinlogs.com)
+[^0]: Citation needed
+[^1]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
+[^2]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
+[^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=What%20should%20I%20bring)
+[^4]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
+[^5]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request)
+[^6]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=No%20appointments%20available)
 [^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
-[^8]: [fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
+[^8]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=Can%20I%20come%20even%20without%20an%20appointment)
 [^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/), [Red Tape Translation](https://redtapetranslation.com/faxhack/)
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)
-[^11]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=you%20can%20continue%20to%20work%20or%20study%20until%20your%20appointment), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20residence%20title%20(permit%20of%20residence%2C%20blue%20card%2C%20visa%20for%20long%20term%20residence)%20will%20be%20considered%20as%20lawful%20in%20germany)
-[^13]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=the%20prerequisite%20is%20that%20you%20have%20sent%20your%20e-mail%20before%20the%20expiry%20)
-[^14]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php)
-[^15]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049085.en.php)
-[^16]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en)
-[^17]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php)
-[^18]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
-[^19]: [Red Tape Translation](https://redtapetranslation.com/does-an-appointment-at-the-auslanderbehorde-extend-my-schengen-visa/#comment-1778)
-[^20]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Facebook](https://www.facebook.com/groups/226825394858771/posts/940638950144075/?comment_id=940981506776486&reply_comment_id=942997343241569), [reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
-[^21]: [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=top%20of%20page-,my%20residence%20title%20will%20expire%20before%20my%20appointment.,-Is%20that%20a), [§81 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732)
-[^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
-[^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/)
+[^11]: [§41 AufenthG](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023), Emily Archer at [Archer Relocation](https://archer-relocation.com/) (November 2023)
-[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/sof7dm/beyond_frustrated_with_ausl%C3%A4nderbeh%C3%B6rde_please/hw8ax66/)
+[^16]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
+[^20]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
+[^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
+[^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
+[^24]: Citation needed
 [^25]: Multiple relocation consultants (October 2023)
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
-[^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
-[^24]: Citation needed
-[^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
+[^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
+[^28]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html#:~:text=ablauf%20von%20drei%20monaten)
