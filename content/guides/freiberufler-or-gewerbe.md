@@ -12,7 +12,7 @@ In Germany, there are two types of self-employed people:
 - **Tradespeople** (*Gewerbetreibende*)  
     All other self-employed people. Their business is called a *Gewerbe*.
 
-This guide explains the differences between freelancers and tradespeople. You must understand this to [start a business](/guides/start-a-business-in-germany) or [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa).
+This guide explains the differences between freelancers and tradespeople. You must understand this to [start a business](/guides/start-a-business-in-germany) or [apply for a freelance visa](/guides/freelance-visa).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -68,7 +68,7 @@ It does not affect...
 
 If you are a *Gewerbetreibender*, you must register your business at the *Gewerbeamt*. This is called the *[[Gewerbeanmeldung]]*.
 
-This is how you get a trade certificate (*Gewerbeschein*). Your employer might ask for it. The *[[Ausländerbehörde]]* asks for it when you [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa).
+This is how you get a trade certificate (*Gewerbeschein*). Your employer might ask for it. The *[[Ausländerbehörde]]* asks for it when you [apply for a freelance visa](/guides/freelance-visa).
 
 In Berlin, you can [do your *Gewerbeanmeldung* online](https://service.berlin.de/dienstleistung/121921/en/). It costs 15€ to 31€.
 

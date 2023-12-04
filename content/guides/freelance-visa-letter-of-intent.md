@@ -6,7 +6,7 @@ Date_created: 2018-09-06
 Related_reviews: reviews/freelance-visa-letter-of-intent/johanna-sieben.md
 ---
 
-A letter of intent (*[[Absichtserklärung]]*) is a letter that says "I plan to hire this person to do this service for this price". You need letters of intent to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin.
+A letter of intent (*[[Absichtserklärung]]*) is a letter that says "I plan to hire this person to do this service for this price". You need letters of intent to [apply for a freelance visa](/guides/freelance-visa) in Berlin.
 
 A letter of intent is not a contract. The person who wrote the letter is not forced to do anything.
 
@@ -14,7 +14,7 @@ A letter of intent is not a contract. The person who wrote the letter is not for
 
 ## Why are letters of intent important?
 
-You need letters of intent to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin.[^4] They prove two things:
+You need letters of intent to [apply for a freelance visa](/guides/freelance-visa) in Berlin.[^4] They prove two things:
 
 - **You can find work and make money in Germany.**  
     To get a freelance visa, you must make enough money to support yourself.
@@ -25,7 +25,7 @@ If you just [moved to Berlin](/guides/moving-to-berlin) to [start your business]
 
 A better visa application can get you a longer freelance visa. Instead of 6 months or 1 year, you can get up to 3 years. It depends a lot on your letters of intent.
 
-**[How to apply for the German freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for the German freelance visa ➞](/guides/freelance-visa)**
 
 ## How many letters of intent are required?
 

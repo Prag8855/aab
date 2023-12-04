@@ -14,7 +14,7 @@ Related_guides:
     guides/renew-german-freelance-visa.md
 ---
 
-When you [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa), you must include [letters of intent](/glossary/Absichtserkl%C3%A4rung) from potential clients. It shows that you will find clients in Germany.
+When you [apply for the German freelance visa](/guides/freelance-visa), you must include [letters of intent](/glossary/Absichtserkl%C3%A4rung) from potential clients. It shows that you will find clients in Germany.
 
 **[More information about letters of intent ➞](/guides/freelance-visa-letter-of-intent)**
 

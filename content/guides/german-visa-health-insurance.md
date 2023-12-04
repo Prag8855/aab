@@ -59,7 +59,7 @@ To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need *
 
 Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
-**[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
 ### For a Working Holiday Visa
 

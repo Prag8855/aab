@@ -13,9 +13,9 @@ Related_guides:
     guides/become-a-freelancer-in-germany.md
 ---
 
-You need this form to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin. This document is called a financing plan (*Finanzierungsplan*) or a capital budget.
+You need this form to [apply for a freelance visa](/guides/freelance-visa) in Berlin. This document is called a financing plan (*Finanzierungsplan*) or a capital budget.
 
-**[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
 ## Download the template
 

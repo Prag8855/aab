@@ -18,7 +18,7 @@ This guide is only for people who live in Germany. It explains how to register a
 
 Accounting and bookkeeping is the hardest part. You usually do it every month. If you make a mistake, it can be expensive.
 
-If you are [moving to Germany to become a freelancer](/guides/become-a-freelancer-in-germany), it's harder. You must [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin) and [apply for a residence permit](/guides/how-to-get-a-german-freelance-visa), all at the same time. During that time, you can't work (because you don't have a residence permit), so you must have a lot of savings.
+If you are [moving to Germany to become a freelancer](/guides/become-a-freelancer-in-germany), it's harder. You must [find an apartment](/guides/find-a-flat-in-berlin), [register your address](/guides/anmeldung-in-english-berlin) and [apply for a residence permit](/guides/freelance-visa), all at the same time. During that time, you can't work (because you don't have a residence permit), so you must have a lot of savings.
 
 If you don't speak German, everything is *much* harder. All the documents are in German. The long [tax registration form](/guides/fragebogen-zur-steuerlichen-erfassung) is in German. The *[[Finanzamt]]* only writes in German. Most accounting tools are only in German. You will need help from someone who speaks German.
 
@@ -191,7 +191,7 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to be self-emplo
 
 [**Who needs a residence permit? ➞**](/guides/residence-permit)
 
-**[How to apply for the German freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for the German freelance visa ➞](/guides/freelance-visa)**
 
 ## Step 8: Tell your health insurer
 

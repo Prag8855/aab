@@ -13,4 +13,4 @@ The artist visa does not exist. It's just a [freelance visa](/glossary/Freelance
 
 In Berlin and Hamburg, freelance artists and journalists sometimes get a [freelance visa](/glossary/Freelance%20visa) faster. They get their freelance visa during their *[[Ausländerbehörde]]* interview, instead of waiting a few months.
 
-**[How to get a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to get a freelance visa ➞](/guides/freelance-visa)**

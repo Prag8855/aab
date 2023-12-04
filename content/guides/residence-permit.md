@@ -56,12 +56,12 @@ If you don't have a job offer:
 
 ### Residence permits to start a business
 
-- **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/how-to-get-a-german-freelance-visa)  
+- **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/freelance-visa)  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
 
 The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] sometimes let you freelance. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.
 
-By default, the [student visa](/glossary/Student%20visa) does not let you freelance. You must get permission from the *[[Ausländerbehörde]]* first. They will update your student visa, and let you study and run a business at the same time. - [More information](/guides/how-to-get-a-german-freelance-visa#for-students)
+By default, the [student visa](/glossary/Student%20visa) does not let you freelance. You must get permission from the *[[Ausländerbehörde]]* first. They will update your student visa, and let you study and run a business at the same time. - [More information](/guides/freelance-visa)
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
@@ -94,7 +94,7 @@ It's better if you apply in your home country. You can start working as soon as 
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
-**[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
 ## How to renew a residence permit
 

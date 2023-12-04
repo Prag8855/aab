@@ -74,7 +74,7 @@ In this guide, I show you how to get a Blue Card.
 
 ### Freelance visa
 
-**Business owners, freelancers and self-employed people** must [apply for the German freelance visa](/guides/how-to-get-a-german-freelance-visa). This is a completely different process.
+**Business owners, freelancers and self-employed people** must [apply for the German freelance visa](/guides/freelance-visa). This is a completely different process.
 
 ### Work Visa
 
@@ -436,7 +436,7 @@ Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berli
 
 ### Can I start my own business?
 
-**Sometimes**. If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you are allowed to freelance. You must keep your job. Freelancing can't be your main occupation.[^57] If you want to freelance as your main occupation, you must [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa). You must still [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need permission from your employer.
+**Sometimes**. If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you are allowed to freelance. You must keep your job. Freelancing can't be your main occupation.[^57] If you want to freelance as your main occupation, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-german-freelance-visa). You must still [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need permission from your employer.
 
 ## Need help?
 
@@ -444,7 +444,7 @@ Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berli
 
 [^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 [^1]: [topuniversities.com](https://www.topuniversities.com/student-info/careers-advice/how-work-germany-during-or-after-your-studies), [germany-visa.org](https://www.germany-visa.org/student-visa/student-visa-visum-zu-studienzwecken/)
-[^2]: [Screenshot](/guides/how-to-get-a-german-freelance-visa)
+[^2]: [Screenshot](/guides/freelance-visa)
 [^3]: [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html)
 [^4]: [eu-bluecard.com](https://visaguide.world/europe/eu-blue-card/)
 [^5]: [berlin.de](https://www.berlin.de/einwanderung/dienstleistungen/service.871055.php/dienstleistung/121864/en/)
@@ -494,7 +494,7 @@ Tell the *Ausländerbehörde*. Your work visa or Blue Card stays valid. In Berli
 [^53]: [Screenshot](/guides/german-versicherungsnummer)
 [^54]: [Quora](https://www.quora.com/How-do-I-apply-for-a-German-work-visa-when-Im-already-in-Germany)
 [^55]: [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa)
-[^57]: [allaboutberlin.com](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa)
+[^57]: [allaboutberlin.com](/guides/freelance-visa#who-needs-a-freelance-visa)
 [^58]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [berlin.de](https://service.berlin.de/dienstleistung/305304/)
 [^59]: [§18 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 [^60]: [§18a, §18b AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0389), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/quick-check)

@@ -18,4 +18,4 @@ Related_guides:
 
 The German freelance visa is a type of [residence permit](/glossary/Aufenthaltstitel). It allows you to [be self-employed](/guides/become-a-freelancer-in-germany) and [start a business in Germany](/guides/start-a-business-in-germany). The [artist visa](/glossary/Artist%20visa) is also a type of freelance visa.
 
-**[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for a freelance visa ➞](/guides/freelance-visa)**

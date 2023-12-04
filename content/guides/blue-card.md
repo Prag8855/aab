@@ -347,7 +347,7 @@ With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel long
 
 ### Self-employment with a Blue Card
 
-If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
+If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa).
 
 ### Make a tax declaration
 

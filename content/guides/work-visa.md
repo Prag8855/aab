@@ -380,7 +380,7 @@ With a work visa, you can leave Germany for up to 6 months.[^23] To travel longe
 
 ### Self-employment with a work visa
 
-If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa#who-needs-a-german-freelance-visa).
+If you have [this line](/images/aufenthaltstitel.jpg) on your work visa, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa).
 
 ### Make a tax declaration
 

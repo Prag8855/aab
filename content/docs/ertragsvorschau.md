@@ -13,9 +13,9 @@ Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
 ---
 
-You need this form to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa) in Berlin. It's called the revenue forecast (*Ertragsvorschau*).
+You need this form to [apply for a freelance visa](/guides/freelance-visa) in Berlin. It's called the revenue forecast (*Ertragsvorschau*).
 
-**[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
 This is the official template. You can use your own template, but some *[[Ausländerbehörde]]* employees prefer the official template.
 

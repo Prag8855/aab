@@ -284,7 +284,7 @@ If your website generates income, it's a business. If it's not part of a registe
     You must apply for a trade licence at your local *Gewerbeamt*. In Berlin, you can [do it online](/guides/gewerbeschein). If your business generates more than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in profit per year, you also need to pay the [trade tax (*Gewerbesteuer*)](/glossary/Gewerbesteuer).[^18] For more information, read my [*Gewerbesteuer* guide](/guides/gewerbesteuer).
 - **If your website generates income, you need to register it with the [[Finanzamt]].** You register by [filling the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung). You will then receive a tax number (*[[Steuernummer]]*), which you need to put in your website's [[Impressum]].
 - **Making money from your website is considered self-employment.**  
-    If you are not allowed to be self-employed in Germany, you will also need to [apply for a freelance visa](/guides/how-to-get-a-german-freelance-visa). You can get a freelance visa in addition to an existing visa.[^19]
+    If you are not allowed to be self-employed in Germany, you will also need to [apply for a freelance visa](/guides/freelance-visa). You can get a freelance visa in addition to an existing visa.[^19]
 
 **Related guides:**
 

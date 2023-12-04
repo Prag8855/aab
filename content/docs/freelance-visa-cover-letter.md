@@ -13,9 +13,9 @@ Related_guides:
     guides/become-a-freelancer-in-germany.md
 ---
 
-This is the cover letter I submitted when I [applied for a German freelance visa](/guides/how-to-get-a-german-freelance-visa). It's based on [this cover letter](/images/German-freelance-visa-cover-letter-example.png).
+This is the cover letter I submitted when I [applied for a German freelance visa](/guides/freelance-visa). It's based on [this cover letter](/images/German-freelance-visa-cover-letter-example.png).
 
-**[How to apply for a freelance visa ➞](/guides/how-to-get-a-german-freelance-visa)**
+**[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
 ## Download the template
 
