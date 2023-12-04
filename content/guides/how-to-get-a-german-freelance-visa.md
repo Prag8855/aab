@@ -1,155 +1,134 @@
 ---
-Title: How to apply for the German Freelance Visa
+Title: How to apply for the German freelance visa
 Short_title: How to get a freelance visa
-Description: The process and the requirements for obtaining a German freelance visa or a German artist visa. This is how you become self-employed in Germany.
+Description: The process and the requirements to get a German freelance visa or artist visa. This is how you become self-employed in Germany.
 Date_created: 2018-02-09
 Related_reviews:
     reviews/how-to-get-a-german-freelance-visa/kathleen-parker.md
     reviews/how-to-get-a-german-freelance-visa/johanna-sieben.md
 ---
 
-This guide shows you how to apply for the German freelance visa. This [residence permit](/glossary/Aufenthaltstitel) lets you move to Germany to [start a business](/guides/start-a-business-in-germany) or [become a freelancer](/guides/become-a-freelancer-in-germany).
+The freelance visa is a [residence permit](/glossary/Aufenthaltstitel) for self-employment in Germany.
 
-If you apply for an [artist visa](/glossary/Artist%20visa) or a language teacher visa, the process is the same.
+With a freelance visa, you can...
+
+- Live in Germany
+- [Start a business](/guides/start-a-business-in-germany) or [become a freelancer](/guides/become-a-freelancer-in-germany)
+- Bring your family to Germany[^14]
+- Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^54]
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 60 months[^55]
+
+The [artist visa](/glossary/Artist%20visa) and the language teacher visa are the same thing as the freelance visa.
+
+This guide explains how to apply for a freelance visa in Berlin or in your country.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Who needs a German freelance visa?
+## Who needs a freelance visa?
 
-You **need** a German freelance visa if:
+The freelance visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
-- You are not a citizen or a [permanent resident](/glossary/Niederlassungserlaubnis) of Germany, the [[European Union]], Iceland, Liechtenstein, Norway or Switzerland
-- **and** you want to freelance or run a business in Germany
+**[Who needs a residence permit ➞](/guides/residence-permit)**
 
-You **do not need** a visa to freelance in Germany if:
+Your current residence permit might allow self-employment:
 
-- You are a citizen or a permanent resident of Germany, the European Union, Iceland, Liechtenstein, Norway or Switzerland[^0]
-- **or** your current [residence permit](/glossary/Aufenthaltstitel) allows you to freelance. Look for [this line on your residence permit](/images/aufenthaltstitel.jpg). You must still use your residence permit for its main purpose. For example, if you have a [work visa](/glossary/Work%20Visa), you must keep your job. Freelancing can't become your main occupation or your main source of income.
+- **[[Work visa]]** or **[[Blue Card]]**  
+    Look on your Zusatzblatt. Your work visa or Blue Card might let you work and freelance at the same time. To freelance full-time, you need a freelance visa. Check your work contract; you might need your employer's permission to freelance.[^44]
+- **[[Student visa]]**  
+    Your student visa does not allow self-employment by default.[^1] The *[[Ausländerbehörde]]* can allow you to study and freelance at the same time.[^2]
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+    You can already be self-employed. You don't need a freelance visa.
+- **Other residence permits**  
+    If you live in Germany for a few years, you might have an unrestricted residence permit. It lets you do any kind of work you want. Check your Zusatzblatt to see what you can do.
 
-Since Brexit, UK citizens also need a freelance visa.
+## Freelance visa requirements
 
-**If you are a student**, your [student visa](/glossary/Student%20visa) does not allow you to freelance,[^1] but you can have a student visa *and* a freelance visa at the same time.[^2] More information [here](https://www.reddit.com/r/germany/comments/71aczx/approval_to_freelance_on_a_student_visa/?utm_source=amp&utm_medium&utm_content=post_body).
+To get a freelance visa, you need...
 
-**If you are an employee**, and you want to freelance at the same time, you might need permission from your employer.[^44] Some work contracts don't let you freelance in the same industry as your employer.
+- [ ] **Self-employed work**  
+    You must be self-employed. You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get the freelance visa.
+- [ ] **Clients in Germany**  
+    Some of your clients must be in Germany. If all your clients are in another country, you won't get a freelance visa.[^9] You must prove this with [letters of intent](/glossary/Absichtserkl%C3%A4rung). Your business must have a positive effect on the local economy.
+- [ ] **Enough income**  
+    You must make enough money to support yourself. In Berlin, your income must be more than your rent, plus your health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49] The minimum amount is different in other cities.[^53]
+- [ ] **Qualifications for your work**  
+    You must know how to do your job. For example, you can't be a freelance musician if you can't make music. You don't need professional training or a university degree.
+- [ ] **Permission to do this job**  
+    You must have all the permits and special qualifications needed for the job.[^56] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+- [ ] **A plan that makes sense**  
+    During the freelance visa interview, they check if your business idea makes sense, how much investment it requires, the effects on employment, and your contribution to innovation and research.[^7]
 
-## The German freelance visa requirements
+If you are over 45 years old, you must have...[^14]
 
-### General requirements
+- [ ] **A retirement pension**  
+    It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.
+- [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets**[^14]  
+    You must have this much value in assets by the time you are 67 years old. {# What does that mean? #}
 
-- [ ] **You live in Germany**  
-    You must have a [place to live in Germany](/guides/find-a-flat-in-berlin). You must prove this during your visa interview.
-- [ ] **You have health insurance**  
-    Many visa applications are rejected because of invalid health insurance. See [the health insurance section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) below.
-- [ ] **You make enough money**  
-    You must make enough money to support yourself. In Berlin, this means enough for your rent and health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49] The minimum amount is different in other states.[^53]
-- [ ] **You have clients in Germany**  
-    You can't get a freelance visa if all your clients are in another country. During your visa interview, you must show [letters of intent](/glossary/Absichtserkl%C3%A4rung) from German companies who want to hire you. When you renew your visa, you must prove that you had German clients.
+**You do not need to speak German** to get a freelance visa.[^57]
 
-### Are you really a freelancer?
+**You do not need a university degree** to get a freelance visa.
 
-Fake self-employment (*[[Scheinselbstständigkeit]]*) is when you are hired as a freelancer, but you should be an employee. This is not legal.[^3]
+## Freelance visa alternatives
 
-**[More information about fake self-employment ➞](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)**
+{# Working Holiday Visa? Job Seeker Visa? Work visa and Blue Card? #}
 
-If you plan to work for a single client, you will rarely get a freelance visa.
+If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you live in Germany.
 
-### Selbständiger or Freiberufler?
+**[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
 
-There is a legal difference between freelancers (*[[Freiberufler]]*) and tradespeople (*Selbständiger* or *[Gewerbetreibende](/glossary/Gewerbetreibender)*). The required documents are not the same.[^4]
+### Artist visa
 
-- **Freiberufler**: Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications.[^5]
-- **Selbständiger**/**[[Gewerbetreibender]]**: If you are not a *Freiberufler*, you are a *Gewerbetreibender*. You must prepare more documents for your freelance visa application.[^6]
+The [artist visa](/glossary/Artist%20visa) does not exist. It's just a freelance visa.
 
-Note: Immigration law uses the term "*Selbständiger*", and business law uses "*Gewerbetreibender*". These words mean the same thing.[^52]
+In Berlin and Hamburg, artists get a freelance visa faster. You get your freelance visa during the *Ausländerbehörde* interview.[^11] You don't wait a few weeks like other people.
 
-**[Difference between Freiberufler and Gewerbetreibender ➞](/guides/freiberufler-or-gewerbe)**
+This guide shows you how to get the freelance visa as an artist. The instructions are the same.
 
-### For tradespeople (Gewerbetreibender)
+### Language teacher visa
 
-If you are a *[[Gewerbetreibender]]*, these are the German freelance visa requirements:[^7]
-
-- There is an economic/cultural interest or a *regional* need for your work.[^8] The *regional* part is important; you will not get a freelance visa if all your clients are in another country.[^9]
-- Your business is expected to have positive effects on the economy.
-- You have personal capital or an approved loan to realize your business idea.
-
-In other words, you must prove that you can support yourself after moving to Germany. During your visa interview, they will check if your business idea makes sense, how much investment it requires, the effects on employment, and your contribution to innovation and research.[^7] The better you prepare, the easier this interview will be.
-
-### For freelancers (Freiberufler)
-
-If you are a *[[Freiberufler]]*, it's easier. You don't need as many documents.
-
-In Berlin, some *Freiberufler* get their freelance visa during their *[[Ausländerbehörde]]* interview. Most people must wait a few months.
-
-### For students
-
-Your student visa does not allow you to freelance. You must get permission from the *[[Ausländerbehörde]]*.[^10]
-
-If you study in Germany, and your freelance work is related to what you study, you don't need to prove that there is an economic or cultural interest for your work.[^7] [This guide](http://web.archive.org/web/20210514214936/https://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/) has more information.
-
-If your freelance work is not related to what you study, the freelance visa requirements are the same as for everyone else.
-
-### For artists and language teachers
-
-The [artist visa](/glossary/Artist%20visa) is exactly like the freelance visa. The only difference is that you get it instantly during your interview.[^11] The artist visa is for artists, language teachers and journalists who want to live in Berlin.[^12] It's only available in Berlin, not in the rest of Germany.
-
-### For people who already have a German visa
-
-If you already have a German residence permit that doesn't let you freelance, you can apply for a freelance visa *in addition* to your current visa.[^7] This allows you to freelance as a student,[^13] or to have a side business as a full-time employee.
-
-Sometimes, your visa or Blue Card already allows you to freelance. Look for [this line on your residence permit](/images/aufenthaltstitel.jpg). This allows you to have a side-business, but you must keep your job. If you *only* want to be self-employed, you need a freelance visa.
-
-### For permanent residents
-
-If you are a German permanent resident, you can already be self-employed. You don't need to apply for the freelance visa. You are ready to [start your business](/guides/start-a-business-in-germany).
-
-### For people over 45 years old
-
-If you are older than 45, you must also prove that you are prepared for retirement.[^7]
-
-You must prove that you are on a private pension plan that guarantees:[^14]
-
-- {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years by the time you are 67 years old
-- **or** at least {{FREELANCE_VISA_MIN_PENSION|cur}}€ worth of assets[^14] by the time you are 67 years old
-
-## Two ways to apply
-
-There are two ways to apply for the German freelance visa:
-
-1. **[Apply in Germany](#how-to-apply-in-germany)**  
-    Come to Germany, prepare the documents, then apply for the residence permit at the *Ausländerbehörde*. You can't work until you have your freelance visa, but you can look for clients and prepare for your residence permit interview.[^45] It's easier to find clients, [find an apartment](/guides/find-a-flat-in-berlin) and [get health insurance](/guides/german-health-insurance) if you are already in Germany. You can't work while you wait for your visa. You might have to wait a few months without any income. If you can't get a freelance visa, you must leave Germany. This is riskier and more expensive than applying in your country.
-2. **[Apply in your country](#how-to-apply-in-your-country)**  
-    Apply for a temporary visa at the [German embassy in your country](/out/consulate-finder), come to Germany, then convert your temporary visa to a freelance visa. You can start working as soon as you arrive in Germany. This is safer and cheaper than applying in Germany. It takes around 4 months.
-
-The best option depends on your citizenship:
-
-- **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^15] You can come to Germany, find clients, then apply for the freelance visa Germany.[^16] You can't work while you wait for your freelance visa, so you need enough savings for a few months. You can also apply in your home country.
-- **If you are a citizen of any other country**, there are two ways to get a freelance visa:
-    1. Apply for the freelance visa at the [German embassy in your country](/out/consulate-finder). This is safer and cheaper.
-    2. **or** apply for a [Job Seeker Visa](/glossary/Job%20seeker%20visa) at the [German embassy in your country](/out/consulate-finder), come to Germany, find a clients, then apply for a freelance visa. This is riskier and more expensive. You must have a university degree or vocational training to get a job seeker visa.[^17]
+The language teacher visa does not exist. It's just a freelance visa. This guide shows you how to get the freelance visa as a language teacher. The instructions are the same.
 
 ## How to apply in Germany
 
-### Step 1: Come to Germany
+### 1. Come to Germany
 
-Come to Germany, and start preparing for your freelance visa application. If you are already in Germany, it's easier to find clients and a place to live. You can't work before you get your freelance visa. You must have enough savings to wait for 3 to 9 months.
+[Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and prepare your freelance visa application.
 
-**[Cost of living in Berlin ➞](/guides/cost-of-living)**
+It's easier to find clients, [find an apartment](/guides/find-a-flat-in-berlin) and prepare your application if you are in Germany.
 
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can come to Germany without a visa. You can stay for 90 days before you need a residence permit.
+- **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
+    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^10] You can't work before you get your freelance visa. {# Not true, exception for artists #}
+- **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
+    Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) while you wait, you don't need to leave Germany. If your current residence permit allows self-employment, you can already start your business.
+- **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
+    You can come to Germany, look for clients, and apply for the freelance visa in Germany.[^15] {# Can you start freelancing then? #}
+- **If you have a [tourist visa](/glossary/Schengen%20visa)**  
+    You can't apply for a freelance visa with a tourist visa. Your application will be rejected. You must [apply in your country](#how-to-apply-in-your-country).[^18]
 
-**If you are a citizen of any other country**, you might need a [Job Seeker Visa](/glossary/Job%20seeker%20visa) to enter Germany. The Job Seeker Visa allows you to come to Germany and look for a job.[^15] It's valid for up to 6 months. It does not allow you to work in Germany. After you find a job, you can apply for a residence permit in Germany. The job. You can't do this with a tourist visa. **If you enter Germany with a [tourist visa](/glossary/Schengen%20visa), your work visa or Blue Card application will be rejected**.[^18]
+### 2. Prepare your freelance visa application
 
-If you can, [find an apartment](/guides/find-a-flat-in-berlin) before you come to Germany. It's really hard to find an apartment in some cities. It's easier to find an apartment if you already have a job offer. You can also stay in a temporary place: a friend's house, a hotel or a furnished apartment.
+Before you apply for the freelance visa, you must...
 
-### Step 2: Book your residence permit appointment
+- [ ] **Find a place to live**  
+    It's really hard to find an apartment. Start looking as soon as you can.
+    - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
+    - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
+    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
+- [ ] **Get health insurance**  
+    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+- [ ] **Prepare the [required documents](#required-documents)**
+    This takes time. Start a few weeks before your *[[Ausländerbehörde]]* appointment.
+
+### 2. Book your residence permit appointment
 
 You must get an appointment at the *[[Ausländerbehörde]]*. **Do this as soon as possible**, because it can take months to get an appointment.
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
-If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-visa-expires-soon), you can usually stay in Germany until you get your new residence permit.
+If you can't find an *Ausländerbehörde* appointment online, you can [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you can usually stay in Germany until you get your new residence permit.
 
-### Step 3: Open a bank account
+### 3. Open a bank account
 
 You don't need a bank account to apply for a freelance visa, but it will be useful later.[^19] You need a bank account to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), [find an apartment](/guides/find-a-flat-in-berlin), pay your visa application fee, pay your rent, and pay your taxes, etc.
 
@@ -161,7 +140,7 @@ If you can, have 2 bank accounts: one for you, and one for your business. It's n
 
 You will need money in your German bank account. I used [Wise](/out/transferwise) to transfer money from Canada to Germany.
 
-### Step 4: Register your address
+### 4. Register your address
 
 You don't need to [register your address](/guides/anmeldung-in-english-berlin) to get the freelance visa, but it will be useful later. You must register your address to get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need that to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*.
 
@@ -169,7 +148,7 @@ You don't need to [register your address](/guides/anmeldung-in-english-berlin) t
 
 If you can't register your address before your visa interview, bring your apartment lease and your *[[Wohnungsgeberbestätigung]]* instead.
 
-### Step 5: Get health insurance
+### 5. Get health insurance
 
 You need health insurance to get a German freelance visa.
 
@@ -191,13 +170,13 @@ I work with [Feather Insurance](/out/feather) since 2018. They helped me get pri
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
-### Step 6: Prepare the required documents
+### 6. Prepare the required documents
 
 You need a few weeks to prepare the documents for your application. The [letters of intent](/glossary/Absichtserkl%C3%A4rung) are the hardest to find. Look for them as soon as you can. Documents from your tax advisor can also take a long time to prepare.
 
-**[List of required documents ↓](/guides/how-to-get-a-german-freelance-visa#required-documents)**
+**[List of required documents ↓](/guides/freelance-visa#required-documents)**
 
-### Step 7: Go to your freelance visa interview
+### 7. Go to your freelance visa interview
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
@@ -205,7 +184,7 @@ You must go to your interview at the *[[Ausländerbehörde]]* [on Friedrich-Krau
 
 Your interview will probably be in German. Some interviewers speak English, but this is not guaranteed. If you don't speak German, bring an interpreter with you. If you can afford it, [bring an immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin). I usually work with Kathleen Parker at [Red Tape Translation](/out/red-tape-translation). [Booka Local](/out/booka-local) can also go to the *Ausländerbehörde* with you.
 
-### Step 8: Receive your freelance visa
+### 8. Receive your freelance visa
 
 **[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
@@ -217,7 +196,7 @@ When you get your freelance visa, it can be valid for 6 months to 3 years.[^22] 
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-### Step 9: Start your business
+### 9. Start your business
 
 Once you have your visa, you still have some work to do before you can run a business in Germany.
 
@@ -233,25 +212,25 @@ Once you have your visa, you still have some work to do before you can run a bus
 
 ## How to apply in your country
 
-### Step 1: Get your appointment at the German embassy or consulate
+### 1. Get your appointment at the German embassy or consulate
 
 You must get an appointment at [your local German embassy or consulate](/out/consulate-finder). It can be hard to find an appointment. You might only get an appointment 2-3 months later.[^24] Start looking as soon as possible.
 
-### Step 2: Prepare for your visa interview
+### 2. Prepare for your visa interview
 
-Before you go to your visa interview, prepare the [required documents](/guides/how-to-get-a-german-freelance-visa#required-documents). You also need [health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa) and [a place to live in Germany](/guides/find-a-flat-in-berlin). In your case, you might need expat health insurance for a few months, until you can get public or private health insurance. [[Expat health insurance]] from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is valid. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose the correct health insurance.
+Before you go to your visa interview, prepare the [required documents](/guides/freelance-visa#required-documents). You also need [health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa) and [a place to live in Germany](/guides/find-a-flat-in-berlin). In your case, you might need expat health insurance for a few months, until you can get public or private health insurance. [[Expat health insurance]] from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats) and [Care Concept](/out/care-concept) is valid. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you choose the correct health insurance.
 
 The list of required documents is different in each country. Check the website of your local embassy or consulate. The list on this page is for people who apply at the *[[Ausländerbehörde]]* in Berlin.
 
-### Step 3: Go to your visa interview
+### 3. Go to your visa interview
 
 You must go to your interview and give your documents. If you have all the required documents, the interview only takes a few minutes.
 
-### Step 4: Receive your temporary visa
+### 4. Receive your temporary visa
 
 You must go to the embassy or consulate again. They will give you a temporary visa that lets you enter Germany and start working. The temporary visa is [a sticker in your passport](/images/aufenthaltstitel.jpg).
 
-### Step 5: Come to Germany
+### 5. Come to Germany
 
 After you get your visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
@@ -259,11 +238,11 @@ You can start working as soon as you arrive in Germany. You will need to [find a
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
-### Step 5: Start your business
+### 5. Start your business
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
-### Step 6: Convert your temporary visa to a residence permit
+### 6. Convert your temporary visa to a residence permit
 
 Your temporary visa is usually valid for 6 months. You must go to the *[[Ausländerbehörde]]* and convert your temporary visa to a freelance visa. Your freelance visa will be valid for up to 3 years.
 
@@ -279,6 +258,19 @@ The interviewer will scan your documents page by page. Do not staple the pages t
 
 If you need to translate documents to German, use [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking-letters).
 
+### Selbständiger or Freiberufler?
+
+There are two types of self-employed people:
+
+- **Freelancers** (*Freiberufler*)  
+    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications.[^5] If you sell professional services, you might be a freelancer.
+- **Tradespeople** (Selbständiger/[[Gewerbetreibender]])  
+    If you are not a *Freiberufler*, you are a *Gewerbetreibender*. If you sell products, you are a *Gewerbetreibender*. Immigration law uses "*Selbständiger*". Tax law uses "*Gewerbetreibender*". It means the same thing.[^52] {# If you sell non-skilled work... #}
+
+The difference is important. You get a different type of freelance visa. The [required documents](#required-documents) are different.
+
+**[Difference between Freiberufler and Gewerbetreibender ➞](/guides/freiberufler-or-gewerbe)**
+
 ### Basic documents
 
 - **Freelance visa application form, filled** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
@@ -293,7 +285,7 @@ If you need to translate documents to German, use [Red Tape Translation](/out/re
     The [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) *Ausländerbehörde* accepts [[Girocard]], cash, Visa and Mastercard.[^28] The visa application fee is between 28€ and {{NATIONAL_VISA_FEE|cur}}€.[^25] You only pay when you get your freelance visa. If you don't get it, you don't need to pay anything. The *Ausländerbehörde* [now accepts credit cards](/guides/berlin-auslanderbehorde-appointment#how-to-pay-the-residence-permit-fee), but bring enough cash just in case.
 - **Proof of health insurance coverage**  
     *[Detailed guide](https://blog.holvi.com/expats-guide-health-insurance-in-germany-freelancers)*  
-    Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/how-to-get-a-german-freelance-visa#step-5-get-health-insurance) has more details.
+    Health insurance coverage is mandatory in Germany. You must prove that you are covered by an approved health insurance company. [The previous section](/guides/freelance-visa#step-5-get-health-insurance) has more details.
 - **Proof of residence in Berlin** *([[Anmeldebestätigung]] or [[Meldebescheinigung]])  
     [Detailed guide](/guides/replacement-meldebescheinigung)* - *[Wohnungsgeberbestätigung template](/docs/wohnungsgeberbestatigung)*  
     You must prove that you have a place to live in Berlin. It must be big enough: there must be at least 9 m^2^ per person in the apartment. If you rent a room, it must be at least 6 m^2^. Student residences and communal accommodations are also accepted.[^50]
@@ -409,7 +401,7 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 
 [^0]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa), [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/)
-[^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/96208-freelance-english-teaching-while-on-a-student-visa/)
+[^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/96208-freelance-english-teaching-while-on-a-student-visa/), [Reddit.com](https://www.reddit.com/r/germany/comments/71aczx/approval_to_freelance_on_a_student_visa/?utm_source=amp&utm_medium&utm_content=post_body)
 [^3]: [§7 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__7.html), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
 [^4]: [berlin.de](https://service.berlin.de/dienstleistung/328332/), [berlin.de](https://service.berlin.de/dienstleistung/305249/)
 [^5]: [berlin.de](https://service.berlin.de/dienstleistung/328332/)
@@ -417,7 +409,6 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^7]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0518)
 [^8]: [berlin.de \(archived\)](https://web.archive.org/web/20210505231153/https://berlin.de/willkommenszentrum/en/work-and-education/freelance-work/)
 [^9]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/)
-[^10]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/71aczx/approval_to_freelance_on_a_student_visa/)
 [^11]: [berlinlogs.com](https://berlinlogs.com), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/8ui2ez/visa_case_worker_consulting_local_institut_f%C3%BCr/e1hnxbz/)
 [^12]: [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/freelancer-visa/)
 [^13]: [wir-gruenden-in-deutschland.de](http://web.archive.org/web/20210514214936/https://www.wir-gruenden-in-deutschland.de/en/auslaendische-studierende-doktoranden-aus-nicht-eu-laendern/basisinfos/was-brauche-ich/)
@@ -461,3 +452,8 @@ In Berlin, you must earn **enough to pay for your rent and health insurance, plu
 [^51]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023)
 [^52]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^53]: [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Mindesteinkommen_2021.pdf)
+[^54]: Citation needed
+[^55]: Citation needed
+[^56]: Citation needed
+[^57]: Citation needed
+[^10]: Citation needed
