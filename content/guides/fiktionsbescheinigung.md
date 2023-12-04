@@ -24,7 +24,7 @@ For example, the *[[Ausländerbehörde]]* can give you a *Fiktionsbescheinigung*
 - **During your [[Ausländerbehörde]] appointment**  
     If you apply for a [residence permit](/glossary/Aufenthaltstitel) in person, ask for a *Fiktionsbescheinigung* during your appointment. Explain that you must travel outside of Germany, and that you need a *Fiktionsbescheinigung* for this. Bring proof of your travel plans.
 - **With your [residence permit](/glossary/Aufenthaltstitel) application**  
-    If you send your residence permit application [by email](/guides/berlin-auslanderbehorde-appointment#by-email), ask for a *Fiktionsbescheinigung* in your application email.
+    If you send your residence permit application [with the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), ask for a *Fiktionsbescheinigung* in your application email.
 - **By email**  
     [Email the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). In your email, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] Explain why this trip is important. Attach proof of your travel plans, like plane tickets or an invitation.
 

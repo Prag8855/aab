@@ -87,19 +87,9 @@ If your finances are organised, you can get these documents in a few days. If th
 
 ### 1. Get an Ausländerbehörde appointment
 
-Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. It's really hard to find an appointment. It can take months to find one. The nearest appointment can be in a few months.
+Get an appointment at the *[[Ausländerbehörde]]*. **Book your appointment as soon as possible**. If you can't find an appointment, [use their contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), send your documents, and wait.
 
-**[Book an appointment ➞](/out/auslanderbehorde-appointment?t=renew)**
-
-**[Other ways to get an appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
-
-For the freelance visa, you must go to the [Friedrich-Krause-Ufer *Ausländerbehörde*](https://service.berlin.de/standort/121885/), not the one on Keplerstraße.
-
-If you can't find an appointment, you can also [apply by email](/guides/berlin-auslanderbehorde-appointment#by-email). It's often the only way, because there are no appointments. You can apply by email 8 weeks before your freelance visa expires. If you apply too early, they ignore you.
-
-After you send your application, your residence permit stays valid until the *Ausländerbehörde* makes a decision. You can stay in Germany and work. You might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
-
-**[If your freelance visa expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 ### 2. Prepare your documents
 
@@ -149,7 +139,7 @@ Bring these documents to your visa interview. [The official list of documents](h
     You need a 35 × 45 mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
 - [ ] **Proof of sufficient income**  
     You must prove that you make enough income to support yourself in Berlin.
-    - **[If you are self-employed](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Gewerbetreibender]]*), bring these documents:
+    - **If you are self-employed** (*[[Gewerbetreibender]]*), bring these documents:
         - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
             The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor (*[[Steuerberater]]*). It can take a few days to prepare. If your finances are not organised, it can take a few weeks.
         - [ ] **and a proof of business registration** (*aktuelle Handelsregisterauszug*)  
@@ -158,7 +148,7 @@ Bring these documents to your visa interview. [The official list of documents](h
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - [ ] **and a certification of tax-related matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
             This proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€.[^8] It can take a few days to arrive.
-    - **[If you are a freelancer](/guides/renew-german-freelance-visa#find-if-you-are-self-employed-or-freelance)** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
+    - **If you are a freelancer** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
         - [ ] **Tax assessments** (*[[Steuerbescheid]]*)  
             When you make a tax declaration, the *[[Finanzamt]]* sends you a *[[Steuerbescheid]]* by post. It looks like [this](/images/Einkommensteuer-Bescheid-Muster-Example.png). If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
         - [ ] **and net profit determination** (*[[Netto-Gewinnermittlung]]*)  
