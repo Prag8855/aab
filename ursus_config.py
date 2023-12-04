@@ -154,7 +154,9 @@ config.renderers += (
 config.linters = (
     # 'extensions.linters.places.PlacesLinter',
     # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
+    'extensions.linters.footnotes.CitationNeededLinter',
     'extensions.linters.footnotes.FootnoteLocationLinter',
+    'extensions.linters.footnotes.QuestionMarkLinter',
     'extensions.linters.internal_links.MarkdownInternalLinksLinter',
     'extensions.linters.lists.MultilineListsLinter',
     'extensions.linters.metadata.DateUpdatedLinter',
