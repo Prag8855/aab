@@ -19,7 +19,7 @@ With a freelance visa, you can...
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 3 to 5 years[^10]
 
-The [artist visa](/glossary/Artist%20visa) and the language teacher visa are the same thing as the freelance visa.[^8]
+The [artist visa](/glossary/Artist%20visa) and the language teacher visa are the same thing as the freelance visa.[^8] The application process is the same.
 
 This guide explains how to apply for a freelance visa in Berlin or in your country.
 
@@ -47,35 +47,35 @@ To get a freelance visa, you need...[^18]
 - [ ] **Clients in Germany**  
     Some of your clients must be in Germany. You need [letters of intent](/glossary/Absichtserkl%C3%A4rung) to prove that you will have German clients. If all your clients are in another country, you will not get a freelance visa.
 - [ ] **Enough income**  
-    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] The minimum amount is different in other cities.[^53]
+    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] The minimum amount is different in other cities.
 - [ ] **Qualifications for your work**  
-    You must know how to do your job. For example, you can't be a freelance musician if you can't make music. You don't need professional training or a university degree.
+    You must know how to do your job.[^24] For example, you can't be a freelance musician if you can't make music. You don't need professional training or a university degree.
 - [ ] **Permission to do this job**  
-    You must have all the permits and special qualifications needed for the job.[^56] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+    You must have all the permits and special qualifications needed for the job.[^55] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **A realistic business plan**  
-    During your freelance visa interview, they check if your business makes sense. They check if you have enough money, and if your business contributes to the local economy.[^7]
+    During your freelance visa interview, they check if your plan makes sense. You must have enough savings to start your business, and your business must contribute to the local economy.
 
-If you are over 45 years old, you must have...[^14]
+If you are over 45 years old, you must have...[^43]
 
 - [ ] **A retirement pension**  
     It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.
-- [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets**[^14]  
+- [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets**  
     You must have this much value in assets by the time you are 67 years old. {# What does that mean? #}
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
-**You do not need a degree**, except if your profession requires one. For example, you can't be a freelance lawyer without a law degree. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+**You do not need a degree**, except if your profession requires one. For example, you can't be a freelance lawyer without a law degree.[^55] - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
 ## Freelance visa alternatives
 
 Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-employment:
 
 - **[[Work visa]]** or **[[Blue Card]]**  
-    [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need your employer's permission to freelance. To freelance full-time, you need a freelance visa.[^44]
+    [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need permission from your employer to freelance.[^21] To freelance full-time, you need a freelance visa.
 - **[[Student visa]]**  
     Your student visa does not allow self-employment by default.[^54] The *[[Ausländerbehörde]]* can allow you to study and freelance at the same time.[^2]
 - **Other residence permits**  
-    If you live in Germany for a few years, you might have an unrestricted residence permit. It lets you do any kind of work you want. Check your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to see what you can do.
+    If you live in Germany for over 3 years, you might have an unrestricted residence permit. It lets you do any kind of work you want. [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa).
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
     You can already be self-employed. You don't need a freelance visa.
 
@@ -105,7 +105,7 @@ Usually, you can't start working before you get your freelance visa.[^35] You mi
 [Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and prepare your freelance visa application.
 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
-    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't work before you get your freelance visa.
+    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't work before you get your freelance visa. {# Not true, exception for artists ??? Ask Sebastian #}
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
     Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your freelance visa application, you don't need to leave Germany.
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
@@ -122,8 +122,8 @@ Before you apply for the freelance visa, you must...
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
     - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent, plus your health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49]
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
+- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
+    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
 - [ ] **Prepare the [required documents](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -131,10 +131,10 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
-- [ ] **Register your address** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). You need this to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services. - [How to register your address](/guides/anmeldung-in-english-berlin)
+- [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
+    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). You need this to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services.
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**  
-    You need it to pay your rent, pay your freelance visa application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
+    You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
 
 ### 4. Apply for the freelance visa
 
@@ -216,7 +216,7 @@ Before your embassy or consulate appointment, you must...
 
 - [ ] **Find a place to live in Germany**  
     Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get health insurance**  
+- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
@@ -308,6 +308,12 @@ You can use your freelance visa to log into online government services. For exam
 
 **[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
 
+### Join the Künstlersozialkasse
+
+**If you are a freelance artist, publicist or art teacher**, you can apply for the *[[Künstlersozialkasse]]* after you get your freelance visa. They will pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). It's a really good deal.
+
+**[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
+
 ### Renew your freelance visa
 
 Your freelance visa is valid for up to 3 years. You must renew it around 8 weeks before it expires.
@@ -339,7 +345,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
-[^8]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
+[^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: Citation needed
 [^11]: [Example](/images/aufenthaltstitel.jpg)
@@ -349,16 +355,19 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^15]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit)
 [^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^17]: Citation needed
-[^18]: Citation needed
+[^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
+[^21]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/nebenberufliche-selbststaendigkeit/#:~:text=viele%20arbeitsvertrage%20enthalten%20regelungen), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)
 [^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
+[^24]: Citation needed
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
-[^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=15)
+[^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: It depends on your case worker (October 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
+[^30]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
 [^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
@@ -366,10 +375,11 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
-[^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
+[^44]: Citation needed
 [^45]: Multiple relocation consultants (November 2023)
 [^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^53]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^54]: Citation needed
+[^55]: Citation needed

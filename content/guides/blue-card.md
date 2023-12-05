@@ -127,7 +127,7 @@ Before you apply for the Blue Card, you must...
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get health insurance**  
+- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
     You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**
 
@@ -227,7 +227,7 @@ Before your embassy or consulate appointment, you must...
 
 - [ ] **Find a place to live in Germany**  
     Some embassies and consulates ask for it.[^43] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get health insurance**  
+- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
     The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
