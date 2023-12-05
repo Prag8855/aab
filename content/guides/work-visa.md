@@ -215,8 +215,8 @@ To apply in your country:[^4]
 
 1. Get your vocational training recognised.
 2. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
-3. Go to your appointment and give your documents. The required documents are different in each country. Find the list on your embassy or consulate's.
-4. Receive a [[National Visa]]. It lets you to come to Germany and start working.
+3. Go to your appointment and give your documents. The required documents are different in each country. Find the list on your embassy or consulate's website.
+4. Receive a [[National Visa]]. It lets you to come to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 5. After you arrive in Germany, convert your National Visa into a work visa.
 
 ### 1. Get your education recognised

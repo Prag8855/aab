@@ -205,7 +205,7 @@ You can also apply for a Blue Card **before you move to Germany**.[^26] This is 
 To apply in your country:
 
 1. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
-2. Go to your appointment and give your documents. The required documents are different in each country. The list is on the embassy or consulate's website.
+2. Go to your appointment and give your documents. The required documents are different in each country. Find the list on your embassy or consulate's website.
 3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
 4. After you arrive in Germany, convert your National Visa into a Blue Card.
 
