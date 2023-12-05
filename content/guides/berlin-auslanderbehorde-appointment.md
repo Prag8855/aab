@@ -73,7 +73,7 @@ To book an appointment...
 ### Other solutions
 
 - **Buy an Ausländerbehörde appointment**  
-    Some services sell *Ausländerbehörde* appointments for around 50€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
+    Some services sell *Ausländerbehörde* appointments for around 100€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
 - **Apply in another city**  
     If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. If you [register your address](/glossary/Anmeldung) in another city, you can apply at the Ausländerbehörde there. Immigration offices in small cities are often faster.[^4]
 - **Hire a lawyer**  
