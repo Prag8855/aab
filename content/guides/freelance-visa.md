@@ -19,7 +19,7 @@ With a freelance visa, you can...
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 3 to 5 years[^10]
 
-The [artist visa](/glossary/Artist%20visa) and the language teacher visa are the same thing as the freelance visa.[^52]
+The [artist visa](/glossary/Artist%20visa) and the language teacher visa are the same thing as the freelance visa.[^8]
 
 This guide explains how to apply for a freelance visa in Berlin or in your country.
 
@@ -30,6 +30,13 @@ This guide explains how to apply for a freelance visa in Berlin or in your count
 The freelance visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
 **[Who needs a residence permit ➞](/guides/residence-permit)**
+
+Your current residence permit might allow self-employment. Look for these lines on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*:
+
+- *[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)* (all occupations are allowed, including self-employment)[^15]
+- *[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)* (self-employment is allowed)[^11]
+
+If you have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must keep your main job, but you can freelance part-time. To freelance full-time, you need a freelance visa.[^16]
 
 ## Freelance visa requirements
 
@@ -64,9 +71,9 @@ If you are over 45 years old, you must have...[^14]
 Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-employment:
 
 - **[[Work visa]]** or **[[Blue Card]]**  
-    Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need your employer's permission to freelance. To freelance full-time, you need a freelance visa.[^44]
+    [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need your employer's permission to freelance. To freelance full-time, you need a freelance visa.[^44]
 - **[[Student visa]]**  
-    Your student visa does not allow self-employment by default. The *[[Ausländerbehörde]]* can allow you to study and freelance at the same time.[^2]
+    Your student visa does not allow self-employment by default.[^54] The *[[Ausländerbehörde]]* can allow you to study and freelance at the same time.[^2]
 - **Other residence permits**  
     If you live in Germany for a few years, you might have an unrestricted residence permit. It lets you do any kind of work you want. Check your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to see what you can do.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
@@ -346,8 +353,8 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^12]: Citation needed
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
-[^15]: Citation needed
-[^16]: [germany-visa.org](https://www.germany-visa.org/family-reunion-visa/)
+[^15]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit)
+[^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^17]: Citation needed
 [^18]: Citation needed
 [^19]: Multiple relocation consultants (October 2023)
@@ -383,5 +390,5 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
-[^52]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
+[^53]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^53]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)

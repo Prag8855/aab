@@ -347,7 +347,9 @@ With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel long
 
 ### Self-employment with a Blue Card
 
-If you have [this line](/images/aufenthaltstitel.jpg) on your Blue Card, you can freelance or [start a business](/guides/start-a-business-in-germany). You must keep your main job, but you can freelance part-time. To become a full-time freelancer, [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa).
+Your Blue Card might allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^45]
+
+To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa).
 
 ### Make a tax declaration
 
@@ -403,3 +405,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^42]: Multiple relocation consultants (November 2023)
 [^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
+[^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)

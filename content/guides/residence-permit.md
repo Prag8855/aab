@@ -59,9 +59,9 @@ If you don't have a job offer:
 - **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/freelance-visa)  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
 
-The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] sometimes let you freelance. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.
+The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] sometimes allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^10]
 
-By default, the [student visa](/glossary/Student%20visa) does not let you freelance. You must get permission from the *[[Ausländerbehörde]]* first. They will update your student visa, and let you study and run a business at the same time. - [More information](/guides/freelance-visa)
+By default, the [student visa](/glossary/Student%20visa) does allow self-employment. You must get permission from the *[[Ausländerbehörde]]* first. They will update your student visa, and let you study and run a business at the same time. - [More information](/guides/freelance-visa)
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
@@ -120,3 +120,4 @@ After a few years, you might qualify for [permanent residence](/glossary/Niederl
 [^8]: [Quora](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)
 [^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
+[^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
