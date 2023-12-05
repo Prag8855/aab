@@ -92,7 +92,7 @@ You can apply in Germany if...
 
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
-- **or** you have a [[National Visa]] for self-employment. You just need to [convert it to a freelance visa](#convert-your-national-visa-into-a-work-visa)
+- **or** you have a [[National Visa]] for self-employment. You just need to [convert it to a freelance visa](#convert-your-national-visa-into-a-freelance-visa)
 
 If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
 
@@ -292,13 +292,6 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Certified translations**  
     If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.
 
-If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
-
-- [ ] **Proof of vocational training**  
-    A certificate or a degree that proves that you received professional training to do this job.
-- [ ] **Certificate of equivalence**  
-    Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
-
 If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
 ## After you get your freelance visa
@@ -346,10 +339,10 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
-[^8]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
+[^8]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
-[^10]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/dauerhaft-in-deutschland/niederlassungserlaubnis)
-[^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
+[^10]: Citation needed
+[^11]: [Example](/images/aufenthaltstitel.jpg)
 [^12]: Citation needed
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
@@ -359,36 +352,24 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^18]: Citation needed
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
-[^21]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
 [^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
-[^24]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=15)
 [^28]: It depends on your case worker (October 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
-[^30]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=the%20employer%20must%20have%20a%20place%20of%20business%20in%20germany)
-[^31]: New in November 2023. [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=second%2C%20the%20restriction%20that%20individuals%20may%20only%20work%20on%20the%20basis), [§18a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18a.html), [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html)
-[^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=12) (page 10), [Agentur für Arbeit](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland#:~:text=zustimmung%20zur%20beschaftigung)
 [^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
-[^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25), [German embassy in Belgrade](https://belgrad.diplo.de/rs-de/service/05-VisaEinreise/-/2310108)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
-[^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)
-[^42]: [BAMF](https://www.bamf.de/SharedDocs/FAQ/DE/ZugangArbeitFluechtlinge/003-kriterien-zustimmung.html?nn=282388#:~:text=%20pruft%20insbesondere%20den%20verdienst), [Auswärtiges Amt](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/01-arbeitsmoeglichkeiten/606314#:~:text=wenn%20sie%20genauso%20viel%20verdienen%20wie%20vergleichbare%20inlandische)
-[^43]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=only%20if%20you%20are%20over%2045%20years%20of%20age), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=for%20people%20aged%2045%20or%20over)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
 [^45]: Multiple relocation consultants (November 2023)
-[^46]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/1_Arbeiten_in_DE/2023_Jan_MiiG_Anleitung_anabin-Datenbank_EN.pdf)
-[^47]: Citation needed
 [^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
-[^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^53]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
-[^53]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^54]: Citation needed
