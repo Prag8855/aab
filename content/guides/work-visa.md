@@ -102,7 +102,7 @@ Usually, you can't work while you wait for your work visa.[^35] You might wait a
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the work visa in Germany.[^9] You can't work before you get your work visa.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) while you wait, you don't need to leave Germany.
+    Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your work visa application, you don't need to leave Germany.
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. When you find a job, you can apply for the work visa. While you wait for your work visa, you can work 10 hours per week for your new employer.[^11]
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
@@ -150,7 +150,7 @@ There are 2 ways to apply for a work visa in Berlin:
 - **Apply in person**  
     [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
 - or **send your documents online**  
-    Use the [*Ausländerbehörde* contact form](/out/auslanderbehorde-contact) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
+    Use the [*Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
 When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), you must choose the type of residence permit:
 
@@ -159,9 +159,9 @@ When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbeho
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you send your documents online, it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-If you already have a residence permit, it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
+If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -313,7 +313,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
-        Bring your insurance contract, bank statements that show health insurance payments, and a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*. You can get it from your health insurer or your health insurance broker.[^6]
+        Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
     - [ ] **Lease**  
@@ -334,7 +334,7 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-If you send your documents online, **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
+If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
 ## After you get your work visa
 

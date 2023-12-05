@@ -102,7 +102,7 @@ Usually, you can't work before you get your Blue Card.[^35] It can take time. Yo
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the Blue Card in Germany.[^9] You can't work before you get your Blue Card.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) while you wait, you don't need to leave Germany.
+    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your Blue Card application, you don't need to leave Germany.
 - **If you have a Blue Card from another EU country**  
     You can come to Germany without a visa.[^38] If you have your Blue Card since at least 12 months, you can already start working in Germany.[^33] When you arrive in Germany, you have 1 month to convert your Blue Card to a German one at the *[[Ausländerbehörde]]*.[^41]
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
@@ -154,7 +154,7 @@ After you pay and send your application, you can download a PDF. This is a proof
 
 The *Ausländerbehörde* will process your application. It takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-If you already have a residence permit, it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
+If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
 
 **[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -285,7 +285,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
-        Bring your insurance contract, bank statements that show health insurance payments, and a *Bescheinigung über Umfang und Kosten der Versicherung (§ 257 Abs. 2 a SGB V)*. You can get it from your health insurer or your health insurance broker.[^6]
+        Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
     - [ ] **Lease**  
