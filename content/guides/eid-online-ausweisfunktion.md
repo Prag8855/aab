@@ -44,6 +44,6 @@ After you receive your residence permit, you can activate the eID function at th
 If you pick up your residence permit at the *Ausländerbehörde*, ask if they can activate the eID function while you are there.
 
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/)
-[^2]: [Reddit](https://old.reddit.com/r/berlin/comments/11tuxdm/trapped_in_bureaucratic_loop_eid_function_for/), [Reddit](https://old.reddit.com/r/berlin/comments/z3fd24/visiting_berlin_moving_here_going_clubbing_have_a/jaqlmvx/), [Reddit](https://old.reddit.com/r/berlin/comments/12ew8ct/how_do_i_activate_the_eid_functionality_on_my/)
+[^2]: [Reddit](https://old.reddit.com/r/berlin/comments/11tuxdm/trapped_in_bureaucratic_loop_eid_function_for/), [Reddit](https://old.reddit.com/r/berlin/comments/z3fd24/visiting_berlin_moving_here_going_clubbing_have_a/jaqlmvx/), [Reddit](https://old.reddit.com/r/berlin/comments/12ew8ct/how_do_i_activate_the_eid_functionality_on_my/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1438781530329812/)
 [^3]: [Reddit](https://old.reddit.com/r/germany/comments/13gq82g/i_received_instructions_on_activating_my/)
 [^4]: Multiple relocation consultants (November 2023)

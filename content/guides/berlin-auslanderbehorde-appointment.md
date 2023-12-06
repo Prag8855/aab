@@ -115,7 +115,7 @@ You need a residence permit to work, study or freelance. If you don't have one, 
 Read your appointment confirmation and follow the instructions. Usually, you must...
 
 - [ ] **Prepare the required documents**  
-    This can take a few weeks. Bring all your documents, even if you're not sure you need them. Print everything. Don't staple the pages together. If you forget a document, you might need to come back in a few weeks. It wastes a lot of time.
+    This can take a few weeks. Bring all your documents, even if you're not sure you need them. Print everything on A4 paper. Don't staple the pages together. If you forget a document, you might need to come back in a few weeks. It wastes a lot of time.
 - [ ] **Hire a translator** (optional)  
     Some *Ausländerbehörde* employees only speak German. If you don't speak German, bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). If you hire a [relocation consultant](/guides/relocation-agency-in-berlin) or an [immigration lawyer](/guides/english-speaking-lawyers-berlin), they can also translate for you.
 
@@ -152,7 +152,6 @@ Your resident permit might be approved now or in a few weeks. Most residence per
 When your residence permit is approved, you must pay a fee: {{ NATIONAL_VISA_FEE }}€ for a new residence permit or {{ NATIONAL_VISA_RENEWAL_FEE }}€ for a renewal.
 
 - **If you must pay now**, they will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you can also get cash from [this nearby ATM](https://goo.gl/maps/8cBy48WnTfbya13r6), even at night.
-
 - **If you must pay later**, you will get an invoice by post. You will have 30 days to pay.[^25] They might also ask you to pay during your next *Ausländerbehörde* visit.
 
 After you pay, you can go home. Keep your receipt; residence permit fees are [tax-deductible](/glossary/steuerlich%20absetzbar).
