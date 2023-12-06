@@ -265,20 +265,18 @@ Your freelance visa is a plastic card. It's valid for up to 3 years. You can [re
 
 These are the required documents **in Berlin**.[^18] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
 
-If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
+**If you apply online**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
-If you apply in person, **bring everything**. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your freelance visa application. Print everything on A4 paper. Do not staple the pages together.
+**If you apply in person**, **bring everything**. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your freelance visa application. Print everything on A4 paper. Do not staple the pages together.
 
 ### Two types of freelance visa
 
-There are two types of self-employed people:
+There are two types of self-employed people. They get a different kind of freelance visa. **The [required documents](#required-documents) are different.**[^18]
 
 - **Freelancers** (*Freiberufler*)  
     Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer.
-- **Tradespeople** (Selbständiger/[[Gewerbetreibender]])  
+- **Tradespeople** (*Selbständiger/[[Gewerbetreibender]]*)  
     If you are not a *Freiberufler*, you are a *Gewerbetreibender*. If you sell products, you are a *Gewerbetreibender*. Immigration law uses "*Selbständiger*". Tax law uses "*Gewerbetreibender*". It means the same thing.[^31] {# If you sell non-skilled work... ??? #}
-
-The difference is important. **The [required documents](#required-documents) are different.**[^18] You get a different type of freelance visa.
 
 **[Are you a Freiberufler or a Gewerbetreibender? ➞](/guides/freiberufler-or-gewerbe)**
 
@@ -289,7 +287,12 @@ The difference is important. **The [required documents](#required-documents) are
 - [ ] **Biometric photo** (35 × 45 mm)  
     Only if you go to the *Ausländerbehörde* in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **Proof of health insurance**  
-    ???
+    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
+    - [ ] **Health insurance card**
+    - [ ] or **proof of public health insurance**  
+        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
+    - [ ] or **proof of private health insurance**  
+        Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
     - [ ] **Lease**  
@@ -307,13 +310,13 @@ The difference is important. **The [required documents](#required-documents) are
 
 If you are over 45 years old...
 
-- ...
+- [ ] ...
 
-### Required documents for Freiberufler
+### Required documents for a [[Freiberufler]]
 
-- **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
+- [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
     Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. Some case workers prefer that you use the. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
-- 2 or more **letters of intent** (*[[Absichtserklärung]]*)  
+- [ ] 2 or more **letters of intent** (*[[Absichtserklärung]]*)  
     These are letters from potential clients that want to hire you. They are really important, because they prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You need at least 2 letters from German clients. If you have signed contracts, it's even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
 
 If you are an artist or a language teacher, you also need...
@@ -329,15 +332,15 @@ If you need permission to do your job (e.g. lawyers)...
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
-### Required documents for Selbständiger
+### Required documents for a [Selbständiger](/glossary/Selbständig)
 
-- Business plan
-- Financing plan
+- [ ] Business plan
+- [ ] Financing plan
 
 *If you can*, bring these documents:
 
-- Gewerbeanmeldung
-- Handelsregisterauszug
+- [ ] Gewerbeanmeldung
+- [ ] Handelsregisterauszug
 
 ### Required documents if you apply in person
 
@@ -350,14 +353,14 @@ If you need permission to do your job (e.g. lawyers)...
 
 ### Optional documents
 
-These documents are not required, but they help. Remember, you must convince them that your business will work.
+These documents are not required, but they make your application more convincing.
 
 - [ ] **Cover letter**  
     Your cover letter can explain what you do, and how your business works. It can help your case worker understand your plan. Write it in German. - [Cover letter example](/docs/freelance-visa-cover-letter)
-- **Portfolio / examples of your work**  
+- [ ] **Portfolio / examples of your work**  
     This helps you explain your work. If you are an artist, this is important. You need printed examples; a website address will not work.[^50]
-- **Contracts**  
-    Signed contracts are better than letters of intent. They prove that you have clients and will make money.
+- [ ] **Contracts**  
+    Signed contracts from clients are better than [letters of intent](/glossary/Absichtserklärung). They prove that you have clients and will make money.
 - [ ] 2 or more **recommendation letters**  
     Some interviewers ask for them, especially for scientists and researchers.[^46] These are letters from your previous employers, clients or professors that recommend you for your work. The letters must recommend you for the profession you are getting a visa for. These letters should be signed if possible.
 - [ ] **Proof or education**  
@@ -412,6 +415,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^3]: Citation needed
 [^4]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=10) (page 8)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
+[^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
