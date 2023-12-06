@@ -16,6 +16,7 @@ German ID cards have a chip in them. You can use your ID card and the [AusweisAp
 **To use online government services**.[^1] Some services require an eID:
 
 - Applying for [unemployment benefits](/glossary/ALG%20I) if you [lose your job](/guides/losing-your-job)
+- Apply for *[[Kindergeld]]*[^5]
 - Registering a vehicle after you [buy it](/guides/buying-used-car-in-germany)
 - [Requesting a replacement](/guides/replacement-meldebescheinigung) of your [registration certificate](/glossary/Meldebescheinigung)
 
@@ -47,3 +48,4 @@ If you pick up your residence permit at the *Ausländerbehörde*, ask if they ca
 [^2]: [Reddit](https://old.reddit.com/r/berlin/comments/11tuxdm/trapped_in_bureaucratic_loop_eid_function_for/), [Reddit](https://old.reddit.com/r/berlin/comments/z3fd24/visiting_berlin_moving_here_going_clubbing_have_a/jaqlmvx/), [Reddit](https://old.reddit.com/r/berlin/comments/12ew8ct/how_do_i_activate_the_eid_functionality_on_my/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1438781530329812/)
 [^3]: [Reddit](https://old.reddit.com/r/germany/comments/13gq82g/i_received_instructions_on_activating_my/)
 [^4]: Multiple relocation consultants (November 2023)
+[^5]: [Emily Archer](https://www.archer-relocation.com/) (December 2023)
