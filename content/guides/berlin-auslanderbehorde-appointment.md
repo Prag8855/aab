@@ -49,7 +49,7 @@ To send your documents...
 5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
 
-You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not send your application by fax or email. Use the contact form.
+You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not fax or email your application. Use the contact form.
 
 **If you [apply for a Blue Card](/guides/blue-card)**, don't use the contact form. There is a [different form](/guides/blue-card#apply-for-the-blue-card-online) for the Blue Card.
 
@@ -201,7 +201,11 @@ To contact the *Ausländerbehörde*...
 1. **Use the contact form**  
     Use the [contact form](/out/auslanderbehorde-departments) to contact your department. Do not email or fax the *Ausländerbehörde*.
 3. **Wait a few weeks**  
-    It takes a few weeks to get an answer. You might wait for months. You might never get an answer.
+    The *Ausländerbehörde* answers in a few weeks to a few months. You might never get an answer.
+
+### Fax the Ausländerbehörde
+
+**Fax does not work.**[^13] Do not fax the *Ausländerbehörde*. It's not better or faster. Use the [contact form](/out/auslanderbehorde-departments).
 
 ## Sue the Ausländerbehörde
 
@@ -227,6 +231,7 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)
 [^11]: [§41 AufenthG](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023), Emily Archer at [Archer Relocation](https://archer-relocation.com/) (November 2023)
+[^13]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1394576074750358/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1406105666930732/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1398591451015487/)
 [^16]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
