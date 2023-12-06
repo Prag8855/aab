@@ -145,6 +145,8 @@ There are 2 ways to apply for a freelance visa in Berlin:
 - or **send your documents online**  
     Use the [*Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+
 ### 5. Wait
 
 The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your freelance visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
@@ -164,15 +166,15 @@ When you go to your appointment, bring...[^7]
 - [ ] **1 biometric photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **The [required documents](#required-documents)**  
-    If you did not send your application online, bring all your application documents.
+    Bring all your application documents, even if you already sent them.[^47]
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
-The appointment takes around 15 minutes.
+The appointment takes 15 to 60 minutes. You spend most of that time waiting.
 
-**[Going to the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### 7. Get your freelance visa
 
@@ -249,8 +251,8 @@ In Berlin, you must convert your National Visa **8 weeks before it expires**, no
 
 To convert your National Visa into a freelance visa:
 
-1. **Book an Ausländerbehörde appointment**  
-    [Look for an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment) 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
+1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
+    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes.
 3. **Wait for your freelance visa**  
@@ -290,10 +292,11 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.
+    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
+If you apply in person, print everything. Use A4 paper. Do not staple the pages together.
 ## After you get your freelance visa
 
 ### Bring your family to Germany
@@ -377,6 +380,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^44]: Citation needed
 [^45]: Multiple relocation consultants (November 2023)
+[^47]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (December 2023)
 [^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)

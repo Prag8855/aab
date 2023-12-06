@@ -152,6 +152,8 @@ There are 2 ways to apply for a work visa in Berlin:
 - or **send your documents online**  
     Use the [*Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+
 When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), you must choose the type of residence permit:
 
 - If you have a university degree, choose "Economic activity", then "Residence permit for qualified skilled workers with an academic education (sect. 18b para. 1)"
@@ -176,15 +178,15 @@ When you go to your appointment, bring...[^7]
 - [ ] **1 biometric photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **The [required documents](#required-documents)**  
-    If you did not send your application online, bring all your application documents.
+    Bring all your application documents, even if you already sent them.[^47]
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
-The appointment takes around 15 minutes. During the appointment, they take your fingerprints for your work visa.
+The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your work visa.
 
-**[Going to the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### 7. Get your work visa
 
@@ -284,8 +286,8 @@ In Berlin, you must convert your National Visa **8 weeks before it expires**, no
 
 To convert your National Visa into a work visa:
 
-1. **Book an Ausländerbehörde appointment**  
-    [Look for an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment) 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
+1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
+    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes.
 3. **Wait for your work visa**  
@@ -325,7 +327,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.
+    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 
@@ -335,6 +337,8 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
 If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Word documents and other formats are unreliable.[^37]
+
+If you apply in person, print everything. Use A4 paper. Do not staple the pages together.
 
 ## After you get your work visa
 
@@ -438,6 +442,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
 [^45]: Multiple relocation consultants (November 2023)
 [^46]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/1_Arbeiten_in_DE/2023_Jan_MiiG_Anleitung_anabin-Datenbank_EN.pdf)
+[^47]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (December 2023)
 [^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)

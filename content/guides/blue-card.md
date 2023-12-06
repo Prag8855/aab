@@ -173,9 +173,9 @@ When you go to your appointment, bring...[^7]
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
-The appointment takes around 15 minutes. During the appointment, they take your fingerprints for your Blue Card.
+The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your Blue Card.
 
-**[Going to the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 ### 7. Get your Blue Card
 
@@ -258,8 +258,8 @@ In Berlin, you must convert your National Visa **8 weeks before it expires**, no
 
 To convert your National Visa into a Blue Card:
 
-1. **Book an Ausländerbehörde appointment**  
-    [Look for an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment) 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
+1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
+    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes.
 3. **Wait for your Blue Card**  
@@ -301,7 +301,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     If you need specific qualifications to do your job, bring all the required diplomas and permits. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
 - [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.
+    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 **Use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
