@@ -29,6 +29,8 @@ There are passport photo kiosks at the *[[Ausländerbehörde]]*, and at the *[[B
 
 The *Fotoautomat* prints 4 to 6 pictures on one paper. You do not need to cut them; the *Bürgeramt* and *Ausländerbehörde* have a tool for this.[^0]
 
+Get your passport photos in advance, not just before your appointment. If there is a problem with the photo machine, you must have time to find another one.
+
 ## Biometric pictures for other countries
 
 Other countries use different passport picture sizes. For example, India uses square pictures.

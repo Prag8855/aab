@@ -42,12 +42,12 @@ If you have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must ke
 
 To get a freelance visa, you need...[^18]
 
-- [ ] **Self-employed work**  
-    You must be self-employed. You can't be an employee or receive social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Clients in Germany**  
     Some of your clients must be in Germany. You need [letters of intent](/glossary/Absichtserkl%C3%A4rung) to prove that you will have German clients. If all your clients are in another country, you will not get a freelance visa.
 - [ ] **Enough income**  
     You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] The minimum amount is different in other cities.
+- [ ] **Self-employed work**  
+    You must be self-employed. You can't be an employee or receive social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Qualifications for your work**  
     You must know how to do your job.[^24] For example, you can't be a freelance musician if you can't make music. You don't need professional training or a university degree.
 - [ ] **Permission to do this job**  

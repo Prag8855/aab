@@ -289,7 +289,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent.
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent. It can be a temporary lease or a sublet.[^46]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
@@ -406,3 +406,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
+[^53]: [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
