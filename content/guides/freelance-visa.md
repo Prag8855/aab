@@ -49,9 +49,9 @@ To get a freelance visa, you need...[^18]
 - [ ] **Self-employed work**  
     You must be self-employed. You can't be an employee or receive social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Qualifications for your work**  
-    You must know how to do your job.[^24] For example, you can't be a freelance musician if you can't make music. You don't need professional training or a university degree.
+    You must know how to do your job. For example, you can't be a freelance musician if you have no music experience. You don't need professional training or a university degree.
 - [ ] **Permission to do this job**  
-    You must have all the permits and special qualifications needed for the job.[^55] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+    You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **A realistic business plan**  
     During your freelance visa interview, they check if your plan makes sense. You must have enough savings to start your business, and your business must contribute to the local economy.
 
@@ -65,7 +65,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
-**You do not need a degree**, except if your profession requires one. For example, you can't be a freelance lawyer without a law degree.[^55] - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+**You do not need a degree**, except if your profession requires one. For example, you can't be a freelance lawyer without a law degree.[^12] - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
 ## Freelance visa alternatives
 
@@ -106,7 +106,7 @@ Usually, you can't start working before you get your freelance visa.[^35] You mi
 [Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and prepare your freelance visa application.
 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
-    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't work before you get your freelance visa. {# Not true, exception for artists ??? Ask Sebastian #}
+    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't work before you get your freelance visa.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
     Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your freelance visa application, you don't need to leave Germany.
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
@@ -274,10 +274,10 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 
 There are two types of self-employed people. They get a different kind of freelance visa. **The [required documents](#required-documents) are different.**[^18]
 
-- **Freelancers** (*Freiberufler*)  
-    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer.
-- **Tradespeople** (*Selbständiger/[[Gewerbetreibender]]*)  
-    If you are not a *Freiberufler*, you are a *Gewerbetreibender*. If you sell products, you are a *Gewerbetreibender*. Immigration law uses "*Selbständiger*". Tax law uses "*Gewerbetreibender*". It means the same thing.[^31] {# If you sell non-skilled work... ??? #}
+- **Freelancers** (*[[Freiberufler]]*)  
+    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers and website operators are not freelancers.[^62]
+- **Tradespeople** (*[Selbständiger](/glossary/Selbständig)/[[Gewerbetreibender]]*)  
+    If you are not a *Freiberufler*, you are *Selbständig*. For example, you are *Selbständig* if you sell products. Immigration law uses "*Selbständiger*". Tax law uses "*Gewerbetreibender*". It means the same thing.[^31]
 
 **[Are you a Freiberufler or a Gewerbetreibender? ➞](/guides/freiberufler-or-gewerbe)**
 
@@ -336,7 +336,7 @@ If you need permission to do your job (e.g. lawyers)...
 
 ### Required documents for a [Selbständiger](/glossary/Selbständig)
 
-- [ ] **Business plan**
+- [ ] **Business plan**  
     This document is a roadmap for your business. It explains your goals, your strategy, your products and your customers. - [How to prepare a business plan](https://www.wir-gruenden-in-deutschland.de/en/planning-your-business/the-business-plan)
 - [ ] **[Financing plan](/docs/financing-plan-template)** (*Finanzierungsplan*)  
     This document details how you plan to finance your business. Use the [official template](/docs/financing-plan-template).
@@ -419,7 +419,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
-[^2]: Citation needed
+[^2]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/studium/#:~:text=auf%20antrag%20kann%20die%20selbstandige%20tatigkeit%20fur%20studenten%20), [§21 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [germany-visa.org](https://www.germany-visa.org/de/einwanderung-aufenthaltsgenehmigung/aufenthaltserlaubnis-internationale-studenten-deutschland/#:~:text=freiberufler%20und%20selbstandige), [Mainz University](https://www.studium.uni-mainz.de/files/2015/09/Arbeitsm%C3%B6glichkeiten-von-ausl%C3%A4ndischen-Studierenden-was-erlaubt-ist-und-was-zu-beachten-ist.pdf) (2015)
 [^3]: [Red Tape Translation](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/), [Reddit](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
 [^4]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=10) (page 8)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
@@ -427,9 +427,9 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
-[^10]: Citation needed
+[^10]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^11]: [Example](/images/aufenthaltstitel.jpg)
-[^12]: Citation needed
+[^12]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=eine%20erlaubnis%20erforderlich)
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit)
@@ -461,7 +461,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^41]: [VAB 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
 [^43]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/)
-[^44]: Citation needed
+[^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Gebuhren)
 [^45]: Multiple relocation consultants (November 2023)
 [^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://raptcat.com/2013/08/08/how-to-get-a-freelance-visa-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/500348680433840/?comment_id=500380820430626&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^47]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (December 2023)
@@ -471,11 +471,11 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
 [^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
-[^54]: Citation needed, [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
-[^55]: Citation needed
+[^54]: [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
 [^56]: Kathleen Parker (2018)
 [^57]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nachweise%20sonstiger%20regelma%C3%9Figer%20einkunfte)
 [^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^59]: [VAB 21.3](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^60]: [VAB 21.3 and 9.2.1.3a](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018)
+[^62]: [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/), [All About Berlin](/guides/website-freiberuf-or-gewerbe)

@@ -16,6 +16,8 @@ Related_guides:
 
 A freelancer (*Freiberufler*) is a self-employed professional *with special qualifications* who sells their services. Self-employed doctors, lawyers, accountants, engineers, IT professionals and architects are usually *Freiberufler*.
 
-If you are self-employed, but not a *Freiberufler*, you are a *[[Gewerbetreibender]]*.
+Not all self-employed people are *Freiberufler*. If you are self-employed, but not a *Freiberufler*, the tax office calls you a *[[Gewerbetreibender]]*, and the immigration office calls you *[Selbständig](/glossary/Selbständig)*.
+
+The difference is important: it affects your taxes and your type of residence permit.
 
 **[Freiberufler or Gewerbe: what is the difference? ➞](/guides/freiberufler-or-gewerbe)**

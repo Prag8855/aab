@@ -39,4 +39,4 @@ Other countries use different passport picture sizes. For example, India uses sq
 
 Photography studios can take pictures and cut them to the correct size. It costs 5€ to 15€.
 
-[^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/g68ebiq/)
+[^0]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (December 2023), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/g68ebiq/)

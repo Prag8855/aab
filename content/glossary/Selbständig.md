@@ -13,6 +13,8 @@ Related_guides:
     guides/gewerbesteuer.md
 ---
 
-A self-employed (*Selbständig*) person is someone who runs their own business.
+A self-employed (*Selbständig*) person is someone who runs their own business, but is not a freelancer (*[[Freiberufler]]*). In most cases, *Selbständiger* means the same thing as *[[Gewerbetreibender]]*.
 
-In some cases, like in immigration law, *Selbständiger* means the same thing as *[[Gewerbetreibender]]*: a self-employed person who is not a freelancer (*[[Freiberufler]]*).
+*Freiberufler* and *Selbständiger* must follow different rules and pay different taxes. They get a different kind of [residence permit](/glossary/Aufenthaltstitel).
+
+**[Difference between Freiberufler and Selbständiger ➞](/guides/freiberufler-or-gewerbe)**
