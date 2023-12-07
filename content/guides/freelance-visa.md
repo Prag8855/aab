@@ -55,12 +55,13 @@ To get a freelance visa, you need...[^18]
 - [ ] **A realistic business plan**  
     During your freelance visa interview, they check if your plan makes sense. You must have enough savings to start your business, and your business must contribute to the local economy.
 
-If you are over 45 years old, you must have...[^43]
+If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
 
-- [ ] **A retirement pension**  
-    It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.
-- [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets**  
-    You must have this much value in assets by the time you are 67 years old. {# What does that mean? #}
+- [ ] **A private retirement pension**  
+    It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.[^59]
+- [ ] or **a public pension**  
+    If you are entitled to a public pension in Germany, Australia, Bosnia-Herzegovina, Chile, India, Israel, Japan, Canada, Kosovo, Morocco, North Macedonia, Montenegro, Serbia, South Korea, Tunisia, Turkey or the United States. You are entitled to a public pension in Germany if you already made 5 years of public pension payments.[^60]
+- [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in business assets**
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
@@ -310,7 +311,8 @@ There are two types of self-employed people. They get a different kind of freela
 
 If you are over 45 years old...
 
-- [ ] ...
+- [ ] **Proof of retirement pension**  
+    Prove that you will get a public or private pension when you are 67 years old.
 
 ### Required documents for a [[Freiberufler]]
 
@@ -426,7 +428,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit)
 [^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
-[^17]: Citation needed
+[^17]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
@@ -434,7 +436,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^24]: Citation needed
-[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
+[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: It depends on your case worker (October 2023)
@@ -467,3 +469,6 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^55]: Citation needed
 [^56]: Kathleen Parker (2018)
 [^57]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nachweise%20sonstiger%20regelma%C3%9Figer%20einkunfte)
+[^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
+[^59]: [VAB 21.3](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
+[^60]: [VAB 21.3 and 9.2.1.3a](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)

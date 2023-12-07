@@ -226,6 +226,17 @@ beschv_26_2_countries = [
     "Serbia",
 ]
 
+aufenthg_21_2_countries = [  # Exempt from freelance visa pension requirement
+    "Dominican Republic",
+    "Indonesia",
+    "Iran",
+    "Japan",
+    "Philippines",
+    "Sri Lanka",
+    "Turkey",
+    "the United States",
+]
+
 config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
@@ -327,7 +338,7 @@ config.context_globals = {
     "NATIONAL_VISA_FEE": 100,
     "NATIONAL_VISA_RENEWAL_FEE": 96,
 
-    # Minimum pension value (€) to get a freelance visa above age 45
+    # Minimum pension value (€) to get a freelance visa above age 45 - A21.3 VAB
     "FREELANCE_VISA_MIN_PENSION": 206293,
 
     # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
@@ -341,8 +352,9 @@ config.context_globals = {
     "WORK_VISA_MIN_INCOME": beitragsbemessungsgrenze_west * 0.55,
 
     # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
-    "AUFENTHV_41_COUNTRIES": or_join(aufenthv_41_countries),
 
+    "AUFENTHG_21_2_COUNTRIES": or_join(aufenthg_21_2_countries),
+    "AUFENTHV_41_COUNTRIES": or_join(aufenthv_41_countries),
     "BESCHV_26_COUNTRIES": or_join(sorted(beschv_26_1_countries + beschv_26_2_countries)),
     "BESCHV_26_1_COUNTRIES": or_join(beschv_26_1_countries),
     "BESCHV_26_2_COUNTRIES": or_join(beschv_26_2_countries),
