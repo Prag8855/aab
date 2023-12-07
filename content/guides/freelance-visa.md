@@ -318,7 +318,7 @@ If you are over 45 years old...
 
 - [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
     Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. Some case workers prefer that you use the. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
-- [ ] 2 or more **letters of intent** (*[[Absichtserklärung]]*)  
+- [ ] 2 or more **[letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)  
     These are letters from potential clients that want to hire you. They are really important, because they prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You need at least 2 letters from German clients. If you have signed contracts, it's even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
 
 If you are an artist or a language teacher, you also need...
@@ -336,13 +336,17 @@ If you need permission to do your job (e.g. lawyers)...
 
 ### Required documents for a [Selbständiger](/glossary/Selbständig)
 
-- [ ] Business plan
-- [ ] Financing plan
+- [ ] **Business plan**
+    This document is a roadmap for your business. It explains your goals, your strategy, your products and your customers. - [How to prepare a business plan](https://www.wir-gruenden-in-deutschland.de/en/planning-your-business/the-business-plan)
+- [ ] **[Financing plan](/docs/financing-plan-template)** (*Finanzierungsplan*)  
+    This document details how you plan to finance your business. Use the [official template](/docs/financing-plan-template).
 
-*If you can*, bring these documents:
+If possible, bring these documents too:
 
-- [ ] Gewerbeanmeldung
-- [ ] Handelsregisterauszug
+- [ ] **Trade certificate** (*[[Gewerbeschein]]*)  
+    If you can, [register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible since it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.
+- [ ] **Trade register entry** (*Handelsregisterauszug*)  
+    If you can, [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) and get listed in the *[[Handelsregister]]*. For some businesses, this is not required. You can also do this later.
 
 ### Required documents if you apply in person
 
@@ -363,10 +367,12 @@ These documents are not required, but they make your application more convincing
     This helps you explain your work. If you are an artist, this is important. You need printed examples; a website address will not work.[^50]
 - [ ] **Contracts**  
     Signed contracts from clients are better than [letters of intent](/glossary/Absichtserklärung). They prove that you have clients and will make money.
-- [ ] 2 or more **recommendation letters**  
-    Some interviewers ask for them, especially for scientists and researchers.[^46] These are letters from your previous employers, clients or professors that recommend you for your work. The letters must recommend you for the profession you are getting a visa for. These letters should be signed if possible.
+- [ ] 2 or more **letters of reference**  
+    These are letters from your previous employers, clients or professors that recommend you for your work. Some interviewers ask for them, especially for scientists and researchers.[^46] The letters must be relevant to your freelance work.
 - [ ] **Proof or education**  
     If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38]
+- [ ] **Bank statements**  
+    Show how much savings you have in your bank account. 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61]
 
 ## After you get your freelance visa
 
@@ -414,7 +420,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^2]: Citation needed
-[^3]: Citation needed
+[^3]: [Red Tape Translation](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/), [Reddit](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
 [^4]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=10) (page 8)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
@@ -452,23 +458,24 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
-[^41]: [VAB, section 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
+[^41]: [VAB 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
 [^43]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/)
 [^44]: Citation needed
 [^45]: Multiple relocation consultants (November 2023)
-[^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://raptcat.com/2013/08/08/how-to-get-a-freelance-visa-in-germany/)
+[^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://raptcat.com/2013/08/08/how-to-get-a-freelance-visa-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/500348680433840/?comment_id=500380820430626&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^47]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (December 2023)
 [^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/475901026211939/?comment_id=475918202876888&reply_comment_id=475930016209040&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
-[^53]: [VAB, section 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
-[^54]: Citation needed
+[^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^54]: Citation needed, [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
 [^55]: Citation needed
 [^56]: Kathleen Parker (2018)
 [^57]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nachweise%20sonstiger%20regelma%C3%9Figer%20einkunfte)
 [^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^59]: [VAB 21.3](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^60]: [VAB 21.3 and 9.2.1.3a](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
+[^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018)
