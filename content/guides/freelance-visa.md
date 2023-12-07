@@ -152,7 +152,7 @@ There are 2 ways to apply for a freelance visa in Berlin:
 
 The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your freelance visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You don't have to leave Germany. You might not be able to travel outside of Germany. If your current residence does not allow self-employment, you must wait for your freelance visa to start your business.
+If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You don't have to leave Germany. You might not be able to travel outside of Germany. If your current residence does not allow self-employment, you must wait for your freelance visa to start working.[^55]
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -171,9 +171,9 @@ When you go to your appointment, bring...[^7]
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
-The appointment takes 15 to 60 minutes. You spend most of that time waiting.
+The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
@@ -232,7 +232,7 @@ Go to your appointment at the German embassy or consulate, and give your documen
 
 ### 4. Receive your National Visa
 
-In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start your busines](/guides/start-a-business-in-germany).
+In around 3 months, you must go to the embassy or consulate again.[^66] They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start your business](/guides/start-a-business-in-germany).
 
 ### 5. Come to Germany, start your business
 
@@ -306,8 +306,8 @@ There are two types of self-employed people. They get a different kind of freela
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
 - [ ] **Resume or CV**  
     Use it to prove your professional experience. Make your resume relevant to the freelance visa you apply for. Remove irrelevant experience or summer jobs.
-- [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
+- [ ] **Translations**  
+    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 If you are over 45 years old...
 
@@ -318,7 +318,7 @@ If you are over 45 years old...
 
 - [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
     Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. Some case workers prefer that you use the. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
-- [ ] 2 or more **[letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)  
+- [ ] 2 or more **[letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)[^67]  
     These are letters from potential clients that want to hire you. They are really important, because they prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You need at least 2 letters from German clients. If you have signed contracts, it's even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
 
 If you are an artist or a language teacher, you also need...
@@ -364,7 +364,7 @@ These documents are not required, but they make your application more convincing
 - [ ] **Cover letter**  
     Your cover letter can explain what you do, and how your business works. It can help your case worker understand your plan. Write it in German. - [Cover letter example](/docs/freelance-visa-cover-letter)
 - [ ] **Portfolio / examples of your work**  
-    This helps you explain your work. If you are an artist, this is important. You need printed examples; a website address will not work.[^50]
+    This helps you explain your work. If you are an artist, this is important.[^65] You need printed examples; a website address will not work.[^50]
 - [ ] **Contracts**  
     Signed contracts from clients are better than [letters of intent](/glossary/Absichtserklärung). They prove that you have clients and will make money.
 - [ ] 2 or more **letters of reference**  
@@ -449,8 +449,8 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
 [^31]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
-[^32]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023)
-[^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
+[^32]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=present%20your%20documents%20in%20german)
+[^33]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=weeks%20and%20months%20may%20pass), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
@@ -472,6 +472,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
 [^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^54]: [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
+[^55]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2419)
 [^56]: Kathleen Parker (2018)
 [^57]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nachweise%20sonstiger%20regelma%C3%9Figer%20einkunfte)
 [^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
@@ -479,3 +480,8 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^60]: [VAB 21.3 and 9.2.1.3a](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018)
 [^62]: [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/), [All About Berlin](/guides/website-freiberuf-or-gewerbe)
+[^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
+[^64]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=sit%20in%20the%20waiting%20room%20for%20about%2020-40%20minutes)
+[^65]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=it%20is%20necessary%20to%20provide%20proof%20of%20previous%20artistic%20activity)
+[^66]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=take%20three%20months%20to%20process)
+[^67]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=at%20least%20two%20non-binding%20letters%20of%20intent)

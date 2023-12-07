@@ -182,7 +182,7 @@ When you go to your appointment, bring...[^7]
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your work visa.
 
@@ -326,8 +326,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
         If you already [registered your address](/glossary/Anmeldung), bring this document. If you don't have it yet, it's okay.[^5]
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
-- [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
+- [ ] **Translations**  
+    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 
@@ -449,3 +449,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^52]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^53]: [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
+[^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)

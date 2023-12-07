@@ -171,7 +171,7 @@ When you go to your appointment, bring...[^7]
 - [ ] **1 biometric photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your Blue Card.
 
@@ -300,8 +300,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     If your university degree is not recognised in Germany, you must get a statement of comparability (*Zeugnisbewertung*) from the ZAB. If you are an IT specialist with at least 3 years of experience, you don't need this. - [More information](https://www.kmk.org/zab/statement-of-comparability.html)
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     If you need specific qualifications to do your job, bring all the required diplomas and permits. For example, doctors, engineers and tax advisors need specific qualifications. Use the [recognition finder](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession) to know if you need specific qualifications.
-- [ ] **Certified translations**  
-    If your documents are not in German, bring [certified translations](/glossary/beglaubigte%20Übersetzung) of them. They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
+- [ ] **Translations**  
+    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 **Use PDF files or photos.** Word documents and other formats are unreliable.[^37]
 
@@ -407,3 +407,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^53]: [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
+[^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)

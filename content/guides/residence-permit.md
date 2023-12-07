@@ -11,7 +11,7 @@ You might need a residence permit (*[[Aufenthaltstitel]]*) to live, work and stu
 
 ## Who needs a German residence permit?
 
-Most people need a residence permit to live in Germany for more than 3 months. It depends on your citizenship:
+Most people need a residence permit to live in Germany for more than 90 days.[^11] It depends on your citizenship:
 
 - **[[European Union]], Iceland, Liechtenstein or Norway**  
     You don't need a residence permit. You can already live, work and study in Germany.[^0] If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
@@ -79,7 +79,7 @@ By default, the [student visa](/glossary/Student%20visa) does allow self-employm
 
 ## How to get a residence permit
 
-You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.
+You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.[^12]
 
 - **At the [[Ausländerbehörde]] in Germany**  
     If you apply in Germany, you get a residence permit. Usually, it takes 2 to 3 months, but it can take longer.[^8] During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
@@ -98,7 +98,7 @@ It's better if you apply in your home country. You can start working as soon as 
 
 ## How to renew a residence permit
 
-Your residence permit is valid for 6 months to 4 years. Around months before it expires, you must go to the *[[Ausländerbehörde]]* to renew it.
+Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must go to the *[[Ausländerbehörde]]* to renew it.
 
 They will check if you still meet all the requirements. You might need to bring a lot of documents, so you should prepare in advance.
 
@@ -121,3 +121,5 @@ After a few years, you might qualify for [permanent residence](/glossary/Niederl
 [^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
+[^11]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
+[^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)

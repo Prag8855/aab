@@ -23,7 +23,7 @@ There are 2 ways to get an appointment:[^2]
 - **Send your documents and wait** ⭐️  
     Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option.
 - or **book an appointment online**  
-    It's really hard to find an appointment. You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.
+    It's really hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
 
 **[Other solutions ↓](#other-solutions)**
 
@@ -49,13 +49,13 @@ To send your documents...
 5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
 
-You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not fax or email your application. Use the contact form.
+You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not fax or email your application.[^17] Use the contact form.
 
 **If you [apply for a Blue Card](/guides/blue-card)**, don't use the contact form. There is a [different form](/guides/blue-card#apply-for-the-blue-card-online) for the Blue Card.
 
 ### Book an appointment online
 
-It's really hard to find an appointment. **Usually, there are no appointments available**. Refresh the page every few minutes until you find one. It can take a few weeks to find an appointment. Your appointment might be in a few months.
+It's really hard to find an appointment. **Usually, there are no appointments available**. Refresh the page every few minutes until you find one. It can take a few weeks to find an appointment. Your appointment might be in a few months.[^19]
 
 To book an appointment...
 
@@ -90,7 +90,7 @@ You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel
 - **You sent your application documents**  
     You must submit a full residence permit application before your residence permit or National Visa expires.[^5]
 - or **you booked an Ausländerbehörde appointment**  
-    You must book the appointment before your residence permit or National Visa expires. The appointment can be after it expires.
+    You must book the appointment before your residence permit or National Visa expires.[^18] The appointment can be after it expires.
 
 While you wait for the *Ausländerbehörde*...
 
@@ -219,7 +219,7 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
-[^2]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/)
+[^2]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-drama/), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=here%20are%20your%20options)
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=What%20should%20I%20bring)
 [^4]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
 [^5]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request)
@@ -232,7 +232,11 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^12]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023), Emily Archer at [Archer Relocation](https://archer-relocation.com/) (November 2023)
 [^13]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1394576074750358/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1406105666930732/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1398591451015487/)
 [^14]: [Twitter](https://twitter.com/mgill25/status/1732466237140062646) (December 2023)
+[^15]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=weeks%20and%20months%20may%20pass)
 [^16]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
+[^17]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1366344.php#:~:text=our%20clients%20can%20now%20only%20use) (September 2023)
+[^18]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=your%20stay%20in%20germany%20should%20be%20legal)
+[^19]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1336717.php#:~:text=the%20lead%20times%20for%20free%20appointments%20have%20risen%20to%20several%20months)
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
