@@ -104,7 +104,7 @@ They will check if you still meet all the requirements. You might need to bring 
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-After a few years, you might qualify for [permanent residence](/glossary/Niederlassungserlaubnis) or German citizenship.
+After a few years, you might qualify for German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship.
 
 ## Need help?
 
