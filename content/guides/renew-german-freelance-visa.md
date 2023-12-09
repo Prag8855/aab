@@ -136,7 +136,7 @@ Bring these documents to your visa interview. [The official list of documents](h
 - [ ] **Current residence permit**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
 - [ ] **1 passport photo**  
-    You need a 35 × 45 mm biometric picture. [There are many ways to get biometric photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
+    You need a 35 × 45 mm biometric picture. [There are many ways to get passport photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
 - [ ] **Proof of sufficient income**  
     You must prove that you make enough income to support yourself in Berlin.
     - **If you are self-employed** (*[[Gewerbetreibender]]*), bring these documents:
@@ -226,7 +226,7 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 [^0]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324288/en/)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [medium.com](https://medium.com/betahaus/renewing-the-german-freelance-visa-february-2019-a4a899eabe52)
-[^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/)
+[^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1095767750891927/) (2021, 2023)
 [^4]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/989234614878575/)
 [^5]: [berlin.de](https://service.berlin.de/standort/121885/)
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/)

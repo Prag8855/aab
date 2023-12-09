@@ -72,6 +72,8 @@ If you can't get a work visa, there are other [residence permits](/glossary/Aufe
     Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No income needed. No education needed.
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
+    You can already live and work in Germany. You don't need a residence permit.
 
 **[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
 
@@ -173,9 +175,9 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...[^7]
 
-- [ ] **Your appointment confirmation**  
-    You can't enter the *Ausländerbehörde* without it. They check at the door.
-- [ ] **1 biometric photo** (35 × 45 mm)  
+- [ ] **Your appointment confirmation**, printed  
+    You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
+- [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **The [required documents](#required-documents)**  
     Bring all your application documents, even if you already sent them.[^47]
@@ -301,7 +303,7 @@ Your work visa is a plastic card. It's valid for up to 3 years. You can [renew i
 These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
 
 - [ ] **Passport**
-- [ ] **1 biometric photo** (35 × 45 mm)  
+- [ ] **Passport photo** (35 × 45 mm)  
     The photo should be under 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.

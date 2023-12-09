@@ -123,7 +123,7 @@ Read your appointment confirmation and follow the instructions. Usually, you mus
 
 ### Go to the Ausländerbehörde
 
-Go to the correct *Ausländerbehörde*: [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9) or [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6). **Arrive early.** You need enough time to find the correct waiting room. If you are late, they might refuse to help you.
+Go to the correct *Ausländerbehörde*: [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9) or [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6). **Arrive early.** You need enough time to find the correct waiting room. If you are late, they might refuse to help you.[^24]
 
 **Print your appointment confirmation** and bring it. You need it to enter the *Ausländerbehörde*.[^3]
 
@@ -208,9 +208,9 @@ To contact the *Ausländerbehörde*...
 
 ## Sue the Ausländerbehörde
 
-After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster. 
+After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If you don't get an answer after 3 months, you can sue the *Ausländerbehörde* for inaction.[^9] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster.[^21] 
 
-In most cases, the state pays for your legal expenses. In other cases, it costs around 400€. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) can help you do this.
+In most cases, the state pays for your legal expenses. In other cases, it costs around 400€, because the *Ausländerbehörde* reacts without going to court. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) can help you do this.
 
 **[English-speaking lawyers ➞](/guides/english-speaking-lawyers-berlin)**
 
@@ -238,8 +238,10 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^18]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=your%20stay%20in%20germany%20should%20be%20legal)
 [^19]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1336717.php#:~:text=the%20lead%20times%20for%20free%20appointments%20have%20risen%20to%20several%20months)
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
+[^21]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/ein-insider-packt-aus-wie-termine-der-berliner-auslanderbehorde-abgegriffen-und-verkauft-werden-10673872.html), [taz](https://taz.de/Landesamt-fuer-Einwanderung-in-Berlin/!5967790/), [rbb24](https://www.rbb24.de/politik/beitrag/2023/11/berlin-landesamt-einwanderung-aufenthalt-online-handel-termine.html)
 [^23]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
+[^24]: [c/o Germany](https://co-germany.de/freelance-visa/#:~:text=you%20lost%20it%20and%20have%20no%20chance)
 [^25]: Multiple relocation consultants (October 2023)
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
 [^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)

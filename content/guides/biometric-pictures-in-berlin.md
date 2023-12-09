@@ -19,7 +19,7 @@ There are Fotofix machines everywhere in Berlin. You pay 6€ in coins, and you 
 
 **[List of passport photo machines](https://www.passbilder.net/ort/berlin)** - Passbilder.net
 
-These biometric photos are accepted by the [*Bürgeramt*](/glossary/Bürgeramt) and the [*Ausländerbehörde*](/glossary/Ausl%C3%A4nderbeh%C3%B6rde).
+These biometric photos are accepted by the *[[Bürgeramt]]* and the *[[Ausländerbehörde]]*.
 
 ## At the Bürgeramt/Ausländerbehörde
 

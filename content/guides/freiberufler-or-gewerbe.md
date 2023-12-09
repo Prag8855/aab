@@ -111,6 +111,7 @@ Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
+[^1]: [§21 Abs. 1, 2a or 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^3]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726#:~:text=zu%20den%20%22dienstleistungen%20hoherer%20art%22)
 [^4]: [ihk.de](https://www.ihk.de/stuttgart/fuer-unternehmen/recht-und-steuern/gesellschaftsrecht-unternehmensformen/handelsregistereintragung-677254#titleInText1)
 [^6]: [sevdesk.de](https://sevdesk.de/lexikon/eintragung-handelsregister/), [ihk.de](https://www.ihk.de/stuttgart/fuer-unternehmen/recht-und-steuern/gesellschaftsrecht-unternehmensformen/handelsregistereintragung-677254#titleInText1)
@@ -122,4 +123,3 @@ Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions
 [^17]: [allaboutberlin.com](/guides/website-freiberuf-or-gewerbe)
 [^18]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726), [selbststaendig.de](https://www.selbststaendig.de/geschaeftsideen/paketdienst), [uber.com](https://www.uber.com/de/de/drive/requirements/), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/fotografische-taetigkeit-freiberuflich-oder-gewerblich_idesk_PI20354_HI20924.html), [gewerbeanmeldung.de](https://www.gewerbeanmeldung.de/gewerbe-anmelden/fotograf#:~:text=grundlagen%20zur%20selbststandigen%20tatigkeit%20als%20fotograf%3A%20freiberuflich%20oder%20gewerblich%3F)
 [^21]: This happened to All About Berlin
-[^1]: [§21 Abs. 1, 2a or 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)

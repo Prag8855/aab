@@ -13,7 +13,7 @@ This guide shows you how to [move to Germany](/guides/moving-to-berlin) and [sta
 
 ## Are you really a freelancer?
 
-Some employers hire "freelancers", but treat them like employees. This way, they don't have to pay social and healthcare. This is called fake self-employment ([*Scheinselbstständigkeit*](/glossary/Scheinselbstst%C3%A4ndigkeit)), and it's illegal.[^0]
+Some employers hire "freelancers", but treat them like employees. This way, they don't have to pay social and healthcare. This is called fake self-employment (*[[Scheinselbstständigkeit]]*), and it's illegal.[^0]
 
 **[What is fake self-employment?](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)** - Red Tape Translation
 

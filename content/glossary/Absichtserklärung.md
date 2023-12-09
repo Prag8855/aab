@@ -13,4 +13,6 @@ A letter of intent (*Absichtserklärung*) is a letter that says "I plan to hire 
 
 A letter of intent is not a contract. The person who wrote the letter is not forced to hire you.
 
-**[Letters of intent for the freelance visa ➞](/guides/freelance-visa-letter-of-intent)**
+**[How to get letters of intent ➞](/guides/freelance-visa-letter-of-intent)**
+
+**[How to apply for the freelance visa ➞](/guides/freelance-visa)**

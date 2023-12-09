@@ -11,18 +11,18 @@ This guide explains how the *Fiktionsbescheinigung* works, how to apply for a *F
 
 ## What is a Fiktionsbescheinigung
 
-The *Fiktionsbescheinigung* is a temporary [residence permit](/glossary/Aufenthaltstitel).
+The *Fiktionsbescheinigung* is a temporary [residence permit](/glossary/Aufenthaltstitel). You get it while you wait for another residence permit.
 
 With a *Fiktionsbescheinigung*, you can...[^0]
 
-- Continue your work, studies or self-employment in Germany
-- Stay in Germany
-- In some cases, travel outside Germany
+- Stay in Germany after your visa or residence permit expires
+- Continue your work, studies or self-employment
+- [In some cases](#can-you-travel-with-a-fiktionsbescheinigung), travel outside Germany
 
 In Berlin, you get a *Fiktionsbescheinigung* if...
 
-- You applied for a residence permit (an appointment is not enough)[^9]
-- and your current visa or residence permit expires in the next 6 weeks
+- You applied for a residence permit[^9]
+- and your current visa or residence permit **expires in the next 6 weeks**
 
 [![Example German Fiktionsbescheinigung](/images/german-fiktionsbescheinigung.jpg "Example German Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung.jpg)
 
@@ -41,7 +41,7 @@ Your *Fiktionsbescheinigung* is valid until your real residence permit is approv
 
 If they refuse to give you a *Fiktionsbescheinigung*, you must insist. It's your right. They have no reason to refuse.[^6] In Berlin, they only give you one if your residence permit expires in the next 6 weeks.[^8]
 
-There is a fee of around 20€. Sometimes, you get the *Fiktionsbescheinigung* by post. Sometimes you must pick it up at the *Ausländerbehörde*.[^1] This can take a few weeks.
+There is *sometimes* a fee of 13€.[^11] Sometimes, you get the *Fiktionsbescheinigung* by post. Sometimes you must pick it up at the *Ausländerbehörde*.[^1] This can take a few weeks.
 
 If you currently have a [tourist visa](/glossary/Schengen%20visa), you can't get a *Fiktionsbescheinigung*. You can't convert a tourist visa to a residence permit. You must apply for a residence permit in your home country.[^3]
 
@@ -50,6 +50,8 @@ If you currently have a [tourist visa](/glossary/Schengen%20visa), you can't get
 **It depends.** You can travel outside of Germany if you have a [**§81 Abs. 4** Fiktionsbescheinigung](#fiktionsbescheinigung-types).
 
 Other types of *Fiktionsbescheinigung* do not let you travel outside of Germany. If you travel outside Germany, you might not be able to re-enter later, because it's not a valid residence permit.[^7]
+
+You must return to Germany before your *Fiktionsbescheinigung* expires. If it expires in less than 1 week, some airlines will not let you fly to Germany.[^10]
 
 ## Fiktionsbescheinigung types
 
@@ -77,4 +79,6 @@ There are 3 variants of the *Fiktionsbescheinigung*:[^2]
 [^6]: [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), confirmed by a relocation consultant (October 2023)
 [^7]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=you%20are%20not%20allowed%20to%20re%2Dentry%20Germany)
 [^8]: Email from the Ausländerbehörde (December 2023)
-[^9]: [VAB 81.3.0](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
+[^9]: [VAB 81.3.0](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535), [Berlin.de](https://service.berlin.de/dienstleistung/326233/#:~:text=antrag%20auf%20aufenthaltstitel)
+[^10]: [VAB 81.4.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
+[^11]: [VAB 81.5](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535), [§47 Abs. 1 s. 8](https://www.gesetze-im-internet.de/aufenthv/__47.html)

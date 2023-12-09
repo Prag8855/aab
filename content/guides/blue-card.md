@@ -71,6 +71,8 @@ If you can't get a Blue Card, there are other [residence permits](/glossary/Aufe
     Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No income needed. No education needed.
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
+    You can already live and work in Germany. You don't need a residence permit.
 
 **[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
 
@@ -164,11 +166,11 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...[^7]
 
-- [ ] **Your appointment confirmation**  
-    You can't enter the *Ausländerbehörde* without it. They check at the door.
+- [ ] **Your appointment confirmation**, printed  
+    You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Proof of your online application**  
     You get this document by email after you apply online.
-- [ ] **1 biometric photo** (35 × 45 mm)  
+- [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
@@ -273,7 +275,7 @@ Your Blue Card is a plastic card. It's valid for up to 4 years. You can [renew i
 These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
 
 - [ ] **Passport**
-- [ ] **1 biometric photo** (35 × 45 mm)  
+- [ ] **Passport photo** (35 × 45 mm)  
     The photo should be less than 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
