@@ -43,7 +43,7 @@ If your [work visa](/glossary/Work%20Visa) or [[Blue Card]] allows self-employme
 To get a freelance visa, you need...[^18]
 
 - [ ] **A local economic interest**  
-    You must have clients in Germany or support the German economy.[^71] This is very important. If you have no clients or employees in Germany, you might not get a freelance visa.[^68]
+    You must have clients in Germany or support the German economy.[^71] This is very important. If you don't plan to have clients or employees in Germany, you might not get a freelance visa.[^68]
 - [ ] **Enough income**  
     You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53] The minimum income is different in other cities.
 - [ ] **Self-employed work**  
@@ -52,8 +52,6 @@ To get a freelance visa, you need...[^18]
     You must know how to do your job. For example, you can't be a freelance musician if you have no music experience. You don't need professional training or a university degree; experience is enough.
 - [ ] **Permission to do this job**  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
-- [ ] **A realistic business plan**  
-    During your freelance visa interview, they check if your plan makes sense. You must have enough money to start your business, and your business must contribute to the local economy.
 
 If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
 
@@ -97,7 +95,7 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
 
-Usually, you can't start working before you get your freelance visa.[^35] You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
+Usually, you can't start working before you get your freelance visa.[^35] Some people do it anyway. You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
@@ -106,7 +104,7 @@ Usually, you can't start working before you get your freelance visa.[^35] You mi
 [Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and prepare your freelance visa application.
 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
-    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't work before you get your freelance visa.
+    You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't start working before you get your freelance visa. Some people do it anyway.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
     Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your freelance visa application, you don't need to leave Germany.
 - **If you have a [tourist visa](/glossary/Schengen%20visa)**  
@@ -133,7 +131,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). You need this to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services.
+    When you register your address, you get a[registration certificate](/glossary/Anmeldebestätigung) and a [tax ID](/glossary/Steueridentifikationsnummer) (not a [tax number](/glossary/Steuernummer)). You need this to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services.
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**  
     You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
 
@@ -383,7 +381,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Proof or education**  
     If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38]
 - [ ] **Bank statements**  
-    It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61]
+    It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
 
 ## After you get your freelance visa
 
@@ -429,7 +427,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 
 [Touring Artists](https://www.touring-artists.info/en/touring-artists/advice/our-helpdesk-service) helps artists immigrate and start a business. Their help is free. They speak English.
 
-[German freelance visa help] is a useful Facebook group. People help each other with their freelance visa application.
+[German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa/) is a useful Facebook group. People help each other with their freelance visa application.
 
 **[Other places to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
