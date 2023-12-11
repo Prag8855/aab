@@ -21,9 +21,9 @@ If you go to the *Ausländerbehörde* without an appointment, they will not help
 There are 2 ways to get an appointment:[^2]
 
 - **Send your documents and wait** ⭐️  
-    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option.
+    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). If you have too many documents, you can mail them instead.[^29]
 - or **book an appointment online**  
-    It's really hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
+    It's *really* hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
 
 **[Other solutions ↓](#other-solutions)**
 
@@ -41,7 +41,7 @@ To send your documents...
     - [ ] The expiration date of your visa or residence permit
     - [ ] [If your residence permit expires soon](#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 2. **Attach your application documents**  
-    Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online.
+    Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online. If you have too many documents, you can send them by post.[^29]
 3. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You will not get a confirmation email.[^14]
 4. **Wait a few weeks**  
@@ -72,12 +72,14 @@ To book an appointment...
 
 ### Other solutions
 
+- **Use the Business Immigration Service** (BIS)  
+    You can apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]] through BIS. It's free. Your need a bit of help from your employer. - [More information](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)
 - **Buy an Ausländerbehörde appointment**  
-    Some services sell *Ausländerbehörde* appointments for around 100€. They use scripts and bots to book appointments before other people. Some of those services are scams.[^22]
+    Some services sell *Ausländerbehörde* appointments for around 100€. They use scripts and bots to book appointments before other people. I will not help you find those services. Some of those services are scams.[^22]
 - **Apply in another city**  
     If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. If you [register your address](/glossary/Anmeldung) in another city, you can apply at the Ausländerbehörde there. Immigration offices in small cities are often faster.[^4]
 - **Hire a lawyer**  
-    When you hire an [immigration lawyer](/guides/english-speaking-lawyers-berlin). It can speed things up.
+    When you hire an [immigration lawyer](/guides/english-speaking-lawyers-berlin), things tend to go faster. A lawyer can also [sue the Ausländerbehörde](#sue-the-auslanderbehorde) when they take too long to process your case.
 
 ## If your residence permit expires soon
 
@@ -115,7 +117,7 @@ You need a residence permit to work, study or freelance. If you don't have one, 
 Read your appointment confirmation and follow the instructions. Usually, you must...
 
 - [ ] **Prepare the required documents**  
-    This can take a few weeks. Bring all your documents, even if you're not sure you need them. Print everything on A4 paper. Don't staple the pages together. If you forget a document, you might need to come back in a few weeks. It wastes a lot of time.
+    This can take a few weeks. Bring all your documents, even if you're not sure you need them. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Print everything on A4 paper. Don't staple the pages together. If you forget a document, it can delay your application by a few weeks.
 - [ ] **Hire a translator** (optional)  
     Some *Ausländerbehörde* employees only speak German. If you don't speak German, bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). If you hire a [relocation consultant](/guides/relocation-agency-in-berlin) or an [immigration lawyer](/guides/english-speaking-lawyers-berlin), they can also translate for you.
 
@@ -165,9 +167,9 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment, you get 2 letters:[^7]
 
 1. **The eID activation code**  
-    This letter arrives first. Save it for later. You need it to [activate the eID function](/guides/eid-online-ausweisfunktion) of your residence permit.
+    This letter arrives first. It has a PIN and a PUK to [activate the eID function](/guides/eid-online-ausweisfunktion) of your residence permit. You will need this later.
 2. **Your residence permit**  
-    Around 2 weeks later, you receive your residence permit, or an invitation to collect your it at the *Ausländerbehörde*.
+    2 to 4 weeks later, you receive your residence permit, or an invitation to collect your it at the *Ausländerbehörde*.[^30]
 
 If you had a German residence permit for over 3 years, you might get an unrestricted residence permit. It lets you do any type of work you want. For example, you can switch jobs, go to university or open a restaurant. You don't need permission from the *Ausländerbehörde* to do different things.
 
@@ -223,8 +225,8 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^3]: [reddit.com](https://old.reddit.com/r/berlin/comments/12bi674/the_ausl%C3%A4nderbeh%C3%B6rde_its_getting_ridiculous/jex1493/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=What%20should%20I%20bring)
 [^4]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
 [^5]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request)
-[^6]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=No%20appointments%20available)
-[^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
+[^6]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=No%20appointments%20available), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dramas/)
+[^7]: [Red Tape Translation](https://redtapetranslation.com/not-every-freelancer-in-berlin-can-get-an-artists-visa/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022), [michaliberlin.com](https://www.michaliberlin.com/en/pages/visas/job/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/367716-how-long-does-it-generally-take-to-receive-a-freelance-visa/), [bemytravelmuse.com](https://www.bemytravelmuse.com/how-to-get-german-freelance-visa/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/540573043078070/)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=Can%20I%20come%20even%20without%20an%20appointment)
 [^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/), [Red Tape Translation](https://redtapetranslation.com/faxhack/)
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)
@@ -246,3 +248,5 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^26]: Multiple relocation consultants, [an Ausländerbehörde employee](https://www.linkedin.com/posts/victoriamesserberlin_millenials-germanimmigration-activity-7107981650088636416-Pw5K/) (October 2023)
 [^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
 [^28]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html#:~:text=ablauf%20von%20drei%20monaten)
+[^29]: [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dramas/)
+[^30]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)

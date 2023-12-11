@@ -124,13 +124,13 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blu
 
 Before you apply for the Blue Card, you must...
 
-- [ ] **Find a place to live**  
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
@@ -148,7 +148,7 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 **[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index)** - berlin.de
 
-It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, MasterCard, PayPal or [[Girocard]], but not with cash.[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 
 After you pay and send your application, you can download a PDF. This is a proof of application. Save it for later.
 
@@ -156,7 +156,7 @@ After you pay and send your application, you can download a PDF. This is a proof
 
 The *Ausländerbehörde* will process your application. It takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
+In most cases, your current [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany.
 
 **[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -179,6 +179,8 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
+**[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
+
 ### 7. Get your Blue Card
 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
@@ -190,7 +192,7 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* that describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
+You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
 Check if the information on your Blue Card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -202,7 +204,7 @@ Check if the information on your Blue Card is correct. The *Ausländerbehörde* 
 
 ## How to apply in your country
 
-You can also apply for a Blue Card **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
+You can also apply for a Blue Card in your country, **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
 
 To apply in your country:
 
@@ -227,16 +229,16 @@ Get an appointment at the German embassy or consulate in your country. It can ta
 
 Before your embassy or consulate appointment, you must...
 
-- [ ] **Find a place to live in Germany**  
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
     Some embassies and consulates ask for it.[^43] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
     The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 
 ### 4. Go to your National Visa appointment
 
-Go to your appointment at the German embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
+Go to your appointment at the embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
 ### 5. Receive your National Visa
 
@@ -254,14 +256,14 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 ### 7. Convert your National Visa into a Blue Card
 
-Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
+Your National Visa is valid for 3 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
 
 In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^39]
 
 To convert your National Visa into a Blue Card:
 
 1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
-    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
+    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment. [If your National Visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it's faster.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes.
 3. **Wait for your Blue Card**  
@@ -272,9 +274,10 @@ Your Blue Card is a plastic card. It's valid for up to 4 years. You can [renew i
 
 ## Required documents
 
-These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
+These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
-- [ ] **Passport**
+- [ ] **Passport**  
+    If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go to the *Ausländerbehörde*, bring your passport. You get it back during the appointment; they do not keep it.
 - [ ] **Passport photo** (35 × 45 mm)  
     The photo should be less than 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
@@ -282,16 +285,16 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **[Job description form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
 - [ ] **Proof of health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
         Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
-    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
+    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).  If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent. It can be a temporary lease or a sublet.[^46]
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent. It can be a temporary lease or a sublet.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
@@ -355,11 +358,13 @@ To become self-employed full-time, you must [apply for a freelance visa](/guides
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Where to get help
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+
+The *Ausländerbehörde* can answer your questions, but they are very hard to contact. They can take months to answer. Sometimes they don't answer at all.
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
@@ -408,5 +413,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
-[^53]: [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)

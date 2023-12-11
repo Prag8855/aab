@@ -148,7 +148,7 @@ Will you bill per hour, per day or per project? Will you send an invoice bi-week
 
 ## Find your first clients
 
-If you need a freelance visa to work in Germany, you can't get it without clients in Germany. You must prove that German companies want to use your services. If you can't prove that, you won't get the visa.
+When you apply for a freelance visa in Berlin, you must usually prove that you will have clients in Germany.[^9] If you have no clients in Germany, you might not get a freelance visa. This rule might not apply in other German cities.
 
 This means you must approach German companies and get them to sign [letters of intent](/glossary/Absichtserkl%C3%A4rung). This is not a contract, just a letter that says they are interested in hiring you. German companies know about this, and won't mind signing those letters. You need at least two letters of intent for your visa application.
 
@@ -199,3 +199,4 @@ If you are a freelance artist, publicist or art teacher, you can apply for the *
 [^6]: [gtai.de](https://www.gtai.de/en/invest/investment-guide/who-needs-a-visa--558348), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa)
 [^7]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/krankengeldanspruch-selbststaendige-2006296)
 [^8]: [Berlin immigration office](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16238.pdf) (July 2023), [Berlin immigration office](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16605.pdf) (September 2023)
+[^9]: Kathleen Parker, Sebastian Hoffmann on [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1665701607231869/) (2023)

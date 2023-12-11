@@ -42,8 +42,8 @@ If your [work visa](/glossary/Work%20Visa) or [[Blue Card]] allows self-employme
 
 To get a freelance visa, you need...[^18]
 
-- [ ] **Clients in Germany**  
-    You must have some German clients. You must have contracts and [letters of intent](/glossary/Absichtserkl%C3%A4rung) to prove it. If all your clients are in another country, you will not get a freelance visa.[^68]
+- [ ] **A local economic interest**  
+    You must have clients in Germany or support the German economy.[^71] This is very important. If you have no clients or employees in Germany, you might not get a freelance visa.[^68]
 - [ ] **Enough income**  
     You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] The minimum income is different in other cities.
 - [ ] **Self-employed work**  
@@ -118,13 +118,13 @@ If these options don't apply to you, you must [apply for the freelance visa in y
 
 Before you apply for the freelance visa, you must...
 
-- [ ] **Find a place to live**  
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
-    - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent, plus your health insurance, plus {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^49]
+    - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53]
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
+    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
 - [ ] **Prepare the [required documents](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -144,7 +144,7 @@ There are 2 ways to apply for a freelance visa in Berlin:
 - **Apply in person**  
     [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
 - or **send your documents online**  
-    Use the [*Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
+    [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
@@ -152,7 +152,7 @@ There are 2 ways to apply for a freelance visa in Berlin:
 
 The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your freelance visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You don't have to leave Germany. You might not be able to travel outside of Germany. If your current residence does not allow self-employment, you must wait for your freelance visa to start working.[^55]
+In most cases, your current [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. If your current residence permit does not allow self-employment, you must wait for your freelance visa to start your business.[^55]
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -162,20 +162,22 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...[^7]
 
+- [ ] **The [required documents](#required-documents)**  
+    Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
-- [ ] **The [required documents](#required-documents)**  
-    Bring all your application documents, even if you already sent them.[^47]
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+
+**[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
 ### 7. Get your freelance visa
 
@@ -184,11 +186,11 @@ The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting
 1. **The eID activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your freelance visa.
 2. **Your freelance visa**  
-    Around 2 weeks later, you receive your freelance visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+    Around 2 weeks later, you receive your freelance visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 
-Your freelance visa is a plastic card. The expiration date is written on it. It's **valid for up to 3 years**.[^17] You might get a shorter residence permit if they are not sure that your business will work.[^24]
+Your freelance visa is a plastic card. The expiration date is written on it. It's **valid for up to 3 years**.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
 
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* that describes the conditions of your freelance visa. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It lets you do any kind of work you want.
+You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your freelance visa. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It lets you do any kind of work you want.
 
 Check if the information on your freelance visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -198,7 +200,7 @@ Check if the information on your freelance visa is correct. The *Ausländerbehö
 
 ## How to apply in your country
 
-You can also apply for a freelance visa **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
+You can also apply for a freelance visa in your country, **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
 
 To apply in your country:[^4]
 
@@ -217,9 +219,9 @@ Get an appointment at the German embassy or consulate in your country. It can ta
 
 Before your embassy or consulate appointment, you must...
 
-- [ ] **Find a place to live in Germany**  
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
     Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
@@ -228,7 +230,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 
 ### 3. Go to your National Visa appointment
 
-Go to your appointment at the German embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
+Go to your appointment at the embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
 ### 4. Receive your National Visa
 
@@ -238,7 +240,7 @@ In around 3 months, you must go to the embassy or consulate again.[^66] They wil
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start your business.[^40]
 
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany) and [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany) and [start your business](/guides/start-a-business-in-germany).
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
@@ -246,14 +248,14 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 ### 6. Convert your National Visa into a freelance visa
 
-Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a freelance visa at the *[[Ausländerbehörde]]*.
+Your National Visa is valid for 3 to 12 months.[^29] After your arrive in Germany, you must convert it into a freelance visa at the *[[Ausländerbehörde]]*.
 
 In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^39]
 
 To convert your National Visa into a freelance visa:
 
 1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
-    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
+    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment. [If your National Visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it's faster.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes.
 3. **Wait for your freelance visa**  
@@ -264,38 +266,36 @@ Your freelance visa is a plastic card. It's valid for up to 3 years. You can [re
 
 ## Required documents
 
-These are the required documents **in Berlin**.[^18] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
+These are the required documents **in Berlin**.[^18] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
-**If you apply online**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
+**If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
-**If you apply in person**, **bring everything**. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your freelance visa application. Print everything on A4 paper. Do not staple the pages together.
+**If you [apply in person](/guides/berlin-auslanderbehorde-appointment#)**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
 
 ### Two types of freelance visa
 
 There are two types of self-employed people. They get a different kind of freelance visa. **The [required documents](#required-documents) are different.**[^18]
 
 - **Freelancers** (*[[Freiberufler]]*)  
-    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers, website operators and most photographers are not freelancers.[^62]
+    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers, website operators, most photographers and some teachers are not freelancers.[^62]
 - **Tradespeople** (*[Selbständiger](/glossary/Selbständig)/[[Gewerbetreibender]]*)  
-    If you are not a *Freiberufler*, you are *Selbständig*. If you sell products or apps, if you run a website, or if you are a co-founder, you are usually *Selbständig*.[^71] Immigration law uses "*Selbständiger*". Tax law uses "*Gewerbetreibender*". It means the same thing.[^31]
+    If you are not a *Freiberufler*, you are *Selbständig*. If you sell products or apps, if you run a website, or if you are a co-founder, you are usually *Selbständig*.[^31]
 
-**[Are you a Freiberufler or a Gewerbetreibender? ➞](/guides/freiberufler-or-gewerbe)**
+**[Are you a Freiberufler or a Selbständiger? ➞](/guides/freiberufler-or-gewerbe)**
 
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go to the *Ausländerbehörde*, bring your passport.
-- [ ] **Passport photo** (35 × 45 mm)  
-    Only if you go to the *Ausländerbehörde* in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
+    If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go in person, bring your passport. You get it back during the appointment; they do not keep it.[^75]
 - [ ] **Proof of health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
         Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
-    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
+    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
         It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent. It can be a temporary lease, a sublet or a student residence.[^41]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
@@ -304,8 +304,8 @@ There are two types of self-employed people. They get a different kind of freela
         If you already [registered your address](/glossary/Anmeldung), bring this document. If you don't have it yet, it's okay.[^5]
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
-- [ ] **Resume or CV**  
-    Use it to prove your professional experience. Make your resume relevant to the freelance visa you apply for. Remove irrelevant experience or summer jobs.
+- [ ] **Resume** or **CV**  
+    It proves that you have professional experience. Remove irrelevant experience or summer jobs.
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
@@ -317,9 +317,9 @@ If you are over 45 years old...
 ### Required documents for a [[Freiberufler]]
 
 - [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
-    Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. Some case workers prefer that you use the. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
+    Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
 - [ ] 2 or more **[letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)[^67]  
-    These are letters from potential clients that want to hire you. They are really important, because they prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You need at least 2 letters from German clients. If you have signed contracts, it's even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
+    These are letters from potential clients that want to hire you. They are really important. They prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You should have at least 2 letters from German clients. Signed contracts are even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
 
 If you are an artist or a language teacher, you also need...
 
@@ -329,7 +329,7 @@ If you are an artist or a language teacher, you also need...
     - Regular bank transfers from your family
     - A letter from a guarantor
 
-If you need a permit to do your job (e.g. lawyers), you also need...
+If you need a permit to do your job (lawyers, doctors, engineers), you also need...
 
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
@@ -337,7 +337,10 @@ If you need a permit to do your job (e.g. lawyers), you also need...
 ### Required documents for a [Selbständiger](/glossary/Selbständig)
 
 - [ ] **Business plan**  
-    This document is a roadmap for your business. It explains your goals, your strategy, your products and your customers. - [How to prepare a business plan](https://www.wir-gruenden-in-deutschland.de/en/planning-your-business/the-business-plan)
+    This document is a roadmap for your business. It explains your goals, your strategy, your products and your customers. It should prove that there is a local interest for your products and services. - [How to prepare a business plan](https://www.wir-gruenden-in-deutschland.de/en/planning-your-business/the-business-plan)
+    - [ ] Firmenprofil
+    - [ ] Geschäftskonzept
+    - [ ] Kapitalbedarfsplan
 - [ ] **[Financing plan](/docs/financing-plan-template)** (*Finanzierungsplan*)  
     This document details how you plan to finance your business. Use the [official template](/docs/financing-plan-template).
 
@@ -348,35 +351,39 @@ If you start a business with other people, you also need...[^69]
 If you can, you should also bring...
 
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)  
-    If you can, [register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible since it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.[^70] Do it before you [renew your residence permit](/guides/renew-german-freelance-visa).
+    [Register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible, because it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.[^70] You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
 - [ ] **Trade register entry** (*Handelsregisterauszug*)  
-    If you can, [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) and get listed in the *[[Handelsregister]]*. For some businesses, this is not required. You can also do this later. Do it before you [renew your residence permit](/guides/renew-german-freelance-visa).
+    If you can, [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) and get listed in the *[[Handelsregister]]*. This is not required for [small businesses](/glossary/Kleinunternehmer). You can also do this later. You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
 
 ### Required documents if you apply in person
 
+- [ ] **Appointment confirmation**, printed  
+    You can't enter the *Ausländerbehörde* without an appointment.
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    If this is not your first residence permit application, you don't need this form.[^42] - [How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)
-- [ ] **Appointment confirmation**  
-    You need it to visit the *Ausländerbehörde*.
+    If this is your first residence permit application, you must fill this form.[^42] - [How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)
+- [ ] **Passport**  
+    You get your passport back during your appointment; they do not keep it.[^75]
+- [ ] **Passport photo** (35 × 45 mm)  
+    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 
 ### Optional documents
 
-These documents are not required, but they make your application more convincing.
+These documents are not required, but some *Ausländerbehörde* employees ask for them. They make your application more convincing.
 
 - [ ] **Cover letter**  
-    Your cover letter can explain what you do, and how your business works. It can help your case worker understand your plan. Write it in German. - [Cover letter example](/docs/freelance-visa-cover-letter)
-- [ ] **Portfolio / examples of your work**  
-    This helps you explain your work. If you are an artist, this is important.[^65] You need printed examples; a website address will not work.[^50]
+    It explains what you do, and how your business works. It helps *Ausländerbehörde* employees understand your plan. This is very useful if your German is not good. Write it in German. - [Cover letter example](/docs/freelance-visa-cover-letter)
+- [ ] **Portfolio** or **examples of your work**  
+    It explains what you do. If you are an artist, this is very important.[^65] For example, you can bring photos of your work, posters of your events, screenshots of your website or apps or newspaper articles about you. You need printed examples; a website address does not work.[^50] If you can, fit everything on A4 paper.
 - [ ] **Contracts**  
-    Signed contracts from clients are better than [letters of intent](/glossary/Absichtserklärung). They prove that you have clients and will make money.
-- [ ] 2 or more **letters of reference**  
-    These are letters from your previous employers, clients or professors that recommend you for your work. Some interviewers ask for them, especially for scientists and researchers.[^46] The letters must be relevant to your freelance work.
+    It proves that you have guaranteed work. Signed contracts are better than [letters of intent](/glossary/Absichtserklärung). They should explain what you will do, how long you will work and how much you will get paid.
+- [ ] **Letters of reference**  
+    These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do.
 - [ ] **Proof or education**  
     If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38]
 - [ ] **Bank statements**  
-    Show how much savings you have in your bank account. 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61]
+    It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61]
 
 ## After you get your freelance visa
 
@@ -394,7 +401,7 @@ You can use your freelance visa to log into online government services. For exam
 
 ### Join the Künstlersozialkasse
 
-**If you are a freelance artist, publicist or art teacher**, you can apply for the *[[Künstlersozialkasse]]* after you get your freelance visa. They will pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). It's a really good deal.
+**If you are a freelance artist, publicist or art teacher**, join the *[[Künstlersozialkasse]]* after you get your freelance visa. They will pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). It's a really good deal.
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
@@ -414,11 +421,19 @@ With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel 
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). Remember to include them when you make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Remember to include them when you make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Where to get help
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions.
+
+[Touring Artists](https://www.touring-artists.info/en/touring-artists/advice/our-helpdesk-service) helps artists immigrate and start a business. Their help is free. They speak English.
+
+[German freelance visa help] is a useful Facebook group. People help each other with their freelance visa application.
+
+**[Other places to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+
+The *Ausländerbehörde* can answer your questions, but they are very hard to contact. They can take months to answer. Sometimes they don't answer at all.
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
@@ -462,7 +477,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
-[^41]: [VAB 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
+[^41]: [VAB 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
 [^43]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Gebuhren)
@@ -470,11 +485,10 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://raptcat.com/2013/08/08/how-to-get-a-freelance-visa-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/500348680433840/?comment_id=500380820430626&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^47]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (December 2023)
 [^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
-[^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/475901026211939/?comment_id=475918202876888&reply_comment_id=475930016209040&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
-[^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
+[^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1726636964471666/) (2023)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
-[^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
+[^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), confirmed by an applicant (December 2023)
 [^54]: [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
 [^55]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2419)
 [^56]: Kathleen Parker (2018)
@@ -489,8 +503,10 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^65]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=it%20is%20necessary%20to%20provide%20proof%20of%20previous%20artistic%20activity)
 [^66]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=take%20three%20months%20to%20process)
 [^67]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=at%20least%20two%20non-binding%20letters%20of%20intent)
-[^68]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht)
+[^68]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1649272118874818/) (August 2023), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1513608149107883/) (December 2022), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1540612453074119/) (January 2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1687770631691633/) (2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1180423295759705/) (2021)
 [^69]: [VAB 21.4.2](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^70]: [VAB 21.1.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
-[^71]: Citation needed
+[^71]: [§21 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^72]: Employee at the Thai embassy in Berlin (December 2023)
+[^74]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/)
+[^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)

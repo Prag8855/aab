@@ -122,13 +122,13 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the wor
 
 Before you apply for the work visa, you must...
 
-- [ ] **Find a place to live**  
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
     - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card)**  
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents](#required-documents)**
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
@@ -152,7 +152,7 @@ There are 2 ways to apply for a work visa in Berlin:
 - **Apply in person**  
     [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
 - or **send your documents online**  
-    Use the [*Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
+    [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
@@ -165,7 +165,7 @@ When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbeho
 
 The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-If you already have a [residence permit](/glossary/Aufenthaltstitel), it stays valid while you wait. You can keep your old job. You don't have to leave Germany. You must wait for your work visa to start working at your new job.
+In most cases, your current [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany.
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -175,20 +175,22 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...[^7]
 
+- [ ] **The [required documents](#required-documents)**  
+    Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
-- [ ] **The [required documents](#required-documents)**  
-    Bring all your application documents, even if you already sent them.[^47]
 - [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your work visa.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+
+**[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
 ### 7. Get your work visa
 
@@ -197,11 +199,11 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 1. **The eID activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your work visa.
 2. **Your work visa**  
-    Around 2 weeks later, you receive your work visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar).
+    Around 2 weeks later, you receive your work visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 
 Your work visa is a plastic card. The expiration date is written on it. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* that describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
+You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
 Check if the information on your work visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -213,7 +215,7 @@ Check if the information on your work visa is correct. The *Ausländerbehörde* 
 
 ## How to apply in your country
 
-You can also apply for a work visa **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
+You can also apply for a work visa in your country, **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
 
 To apply in your country:[^4]
 
@@ -253,10 +255,10 @@ Get an appointment at the German embassy or consulate in your country. It can ta
 
 Before your embassy or consulate appointment, you must...
 
-- [ ] **Find a place to live in Germany**  
-    Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **Get [health insurance](/glossary/Krankenversicherung)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
+    Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung).
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free.
 - [ ] **Prepare the [required documents](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 
@@ -264,7 +266,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 
 ### 5. Go to your National Visa appointment
 
-Go to your appointment at the German embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
+Go to your appointment at the embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
 
 ### 6. Receive your National Visa
 
@@ -282,14 +284,14 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 ### 8. Convert your National Visa into a work visa
 
-Your National Visa is valid for 6 to 12 months.[^29] After your arrive in Germany, you must convert it into a work visa at the *[[Ausländerbehörde]]*.
+Your National Visa is valid for 3 to 12 months.[^29] After your arrive in Germany, you must convert it into a work visa at the *[[Ausländerbehörde]]*.
 
 In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^39]
 
 To convert your National Visa into a work visa:
 
 1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
-    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment.
+    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment. [If your National Visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it's faster.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes.
 3. **Wait for your work visa**  
@@ -300,9 +302,10 @@ Your work visa is a plastic card. It's valid for up to 3 years. You can [renew i
 
 ## Required documents
 
-These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply.
+These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
-- [ ] **Passport**
+- [ ] **Passport**  
+    If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go to the *Ausländerbehörde*, bring your passport. You get it back during the appointment; they do not keep it.
 - [ ] **Passport photo** (35 × 45 mm)  
     The photo should be under 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
@@ -312,16 +315,16 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **[Job description form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
 - [ ] **Proof of health insurance**  
-    You need [valid health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
         Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
-    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).
+    You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).  If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent. It can be a temporary lease or a sublet.[^53]
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address). You must make enough money to pay your rent. It can be a temporary lease or a sublet.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a work visa without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
@@ -390,11 +393,13 @@ Your work visa might allow self-employment. Look on your [residence permit](/glo
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Where to get help
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+
+The *Ausländerbehörde* can answer your questions, but they are very hard to contact. They can take months to answer. Sometimes they don't answer at all.
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
@@ -450,5 +455,4 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^52]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
-[^53]: [Kathleen Parker](https://www.facebook.com/groups/germanfreelancevisa/permalink/475842702884438/) at [Red Tape Translation](/out/red-tape-translation) (2018)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
