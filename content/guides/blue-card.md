@@ -95,7 +95,7 @@ If you can't apply in Germany, you must [apply in your country](#how-to-apply-in
 
 Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
-**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^42] Your employer might pay for it, or hire someone to help you.
+**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^42] Your employer might pay for it, or hire someone to help you.
 
 ### 1. Come to Germany
 

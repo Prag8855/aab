@@ -45,7 +45,7 @@ To get a freelance visa, you need...[^18]
 - [ ] **A local economic interest**  
     You must have clients in Germany or support the German economy.[^71] This is very important. If you have no clients or employees in Germany, you might not get a freelance visa.[^68]
 - [ ] **Enough income**  
-    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] The minimum income is different in other cities.
+    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53] The minimum income is different in other cities.
 - [ ] **Self-employed work**  
     You must be self-employed. You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Work experience**  
@@ -99,7 +99,7 @@ If you can't apply in Germany, you must [apply in your country](#how-to-apply-in
 
 Usually, you can't start working before you get your freelance visa.[^35] You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
-**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
+**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
 ### 1. Come to Germany
 
@@ -121,7 +121,7 @@ Before you apply for the freelance visa, you must...
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-one-address).
-    - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53]
+    - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
@@ -488,7 +488,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^50]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/475901026211939/?comment_id=475918202876888&reply_comment_id=475930016209040&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1726636964471666/) (2023)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
-[^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), confirmed by an applicant (December 2023)
+[^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), confirmed by an applicant (December 2023), Emily at [Archer Relocation](https://www.archer-relocation.com/) (December 2023) 
 [^54]: [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
 [^55]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2419)
 [^56]: Kathleen Parker (2018)
