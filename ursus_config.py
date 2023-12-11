@@ -344,8 +344,7 @@ config.context_globals = {
     # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
     "FREELANCE_VISA_MIN_MONTHLY_PENSION": 1432.59,
 
-    # Minimum income (€/mth) before health insurance and rent to get a freelance visa
-    # §2 Abs. 3 AufenthG + §13 BAföG, 2.3.1.1 VAB
+    # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12
     "FREELANCE_VISA_MIN_INCOME": 502,  # 2023. 2024: 563
 
     # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
