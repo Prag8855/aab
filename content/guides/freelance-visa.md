@@ -490,7 +490,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), confirmed by an applicant (December 2023), Emily at [Archer Relocation](https://www.archer-relocation.com/) (December 2023) 
 [^54]: [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
 [^55]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2419)
-[^56]: Kathleen Parker (2018)
+[^56]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (2018)
 [^57]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nachweise%20sonstiger%20regelma%C3%9Figer%20einkunfte)
 [^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^59]: [VAB 21.3](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
