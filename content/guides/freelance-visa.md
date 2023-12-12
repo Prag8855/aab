@@ -21,7 +21,7 @@ With a freelance visa, you can...
 
 The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is the same.
 
-This guide explains how to apply for a freelance visa in Berlin or in your country.
+This guide explains how to apply for a freelance visa in Berlin or in your country. In other German cities, the application process can be different.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -173,6 +173,8 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting.
 
+If your freelance visa is approved, they must print your plastic residence permit. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working now.
+
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
@@ -307,7 +309,7 @@ There are two types of self-employed people. They get a different kind of freela
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
-If you are over 45 years old...
+If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
 
 - [ ] **Proof of retirement pension**  
     Prove that you will get a public or private pension when you are 67 years old.
