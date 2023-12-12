@@ -27,14 +27,10 @@ The original template is on [Berlin.de](https://service.berlin.de/dienstleistung
 
 ## How to fill the revenue forecast
 
-This form describes your *estimated* income and expenses. Your estimated income should be realistic, but ambitious. It's better to estimate too high than too low.[^1] If your income is higher, you might get a longer freelance visa.
+This form describes your *estimated* income and expenses. Your estimated income should be **realistic, but ambitious**. It's better to estimate too high than too low.[^1] If your income is higher, you might get a longer freelance visa.
 
-Include the cost of health insurance, [income tax](/glossary/Einkommensteuer) and [VAT](/glossary/Umsatzsteuer). Do not include your own rent and expenses.
-
-**[Health insurance cost calculator ➞](/tools/health-insurance-calculator)**
-
-**[Income tax calculator ➞](/tools/health-insurance-calculator)**
-
+- **Drawn by** (*erstellt durch*)  
+    You can write your own name.[^2]
 - **Rent**  
     For example, rent for a store, an office or a co-working space. Do not include your apartment rent.
 - **Trade tax** (*[[Gewerbesteuer]]*)  
@@ -44,3 +40,4 @@ Include the cost of health insurance, [income tax](/glossary/Einkommensteuer) an
 
 
 [^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2022)
+[^2]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1732436883891674/) (2023)
