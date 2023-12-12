@@ -7,6 +7,8 @@ Date_created: 2023-10-23
 
 You can use your [residence permit](/glossary/Aufenthaltstitel) as an eID, but this feature is not always activated. This guide explains how to activate it.
 
+{% include "_blocks/tableOfContents.html" %}
+
 ## How the eID works
 
 German ID cards have a chip in them. You can use your ID card and the [AusweisApp](https://www.ausweisapp.bund.de/en/home) to log into online government services. This is feature is called *Online-Ausweisfunktion*, *eID*, *elektronischer Aufenthaltstitel* or *eAT*.

@@ -45,13 +45,13 @@ You can also bring letters of reference from previous clients. They do not repla
 
 Your letter of intent should contain this information:[^5]
 
-- **Who is hiring you.**  
+- **Who is hiring you**  
     The letter must come from a real company who wants to hire you. Ideally, it must come from a German company. Put the address of the company is on the letter, to prove that it's in Germany.[^6]
-- **Why they are hiring you.**
+- **Why they are hiring you**  
     The letter must explain what kind of work you will do. This must be the same job as the one on your visa application. If you apply as a freelance software developer, you must get letters of intent for software development work. It also helps if the letter explains why *you* are qualified for this job.
-- **Your name.**
+- **Your name**  
     The letter must clearly be about hiring *you*, not any person who can fill this role.
-- **How much they will pay you.**
+- **How much they will pay you**  
     Letters of intent must contain a clear amount or hourly rate.[^7]
 
 Letters of intent do not need to follow a specific format. Ideally, they should be recent. Some people just print emails from companies that are interested in hiring them.[^8]
