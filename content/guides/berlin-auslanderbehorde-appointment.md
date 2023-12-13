@@ -2,6 +2,8 @@
 Title: How to get an Ausländerbehörde appointment
 Description: How to find a appointment for a residence permit at the immigration office (Landesamt für Einwanderung), and what to do if there are no appointments.
 Date_created: 2017-09-22
+Related_reviews:
+    reviews/berlin-auslanderbehorde-appointment/elliot-herman.md
 ---
 
 This guide explains how to get an *[[Ausländerbehörde]]* appointment, and what to do if you can't find one.
@@ -21,7 +23,7 @@ If you go to the *Ausländerbehörde* without an appointment, they will not help
 There are 2 ways to get an appointment:[^2]
 
 - **Send your documents and wait** ⭐️  
-    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). If you have too many documents, you can mail them instead.[^29]
+    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). You can also mail your documents.[^29]
 - or **book an appointment online**  
     It's *really* hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
 
@@ -41,7 +43,7 @@ To send your documents...
     - [ ] The expiration date of your visa or residence permit
     - [ ] [If your residence permit expires soon](#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*[^23] - [More information](/guides/fiktionsbescheinigung)
 2. **Attach your application documents**  
-    Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online. If you have too many documents, you can send them by post.[^29]
+    Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online. If you have too many documents, send them by post.[^29]
 3. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You will not get a confirmation email.[^14]
 4. **Wait a few weeks**  
@@ -60,8 +62,8 @@ It's really hard to find an appointment. **Usually, there are no appointments av
 To book an appointment...
 
 1. Open the official [appointment booking page](/out/auslanderbehorde-appointment).
-2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, [use the contact form](#send-your-documents-and-wait).
-4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one. New appointments appear at random times, mostly during work hours.
+2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, [use the contact form](#send-your-documents-and-wait). For [permanent residence](/glossary/Niederlassungserlaubnis) applications, use the contact form.
+4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one. New appointments appear at random times, mostly during work hours. [This Chrome extension](https://chromewebstore.google.com/detail/berlin-appointment-helper/ngdeikpgeefjhldilcfpjnppmpaagnae) can refresh the page automatically.
 5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email. Save this email.
 
 **If you [apply for a Blue Card](/guides/blue-card)**, you don't need an appointment. [Apply for a Blue Card online](/guides/blue-card#apply-for-the-blue-card-online) instead.
@@ -73,7 +75,7 @@ To book an appointment...
 ### Other solutions
 
 - **Use the Business Immigration Service** (BIS)  
-    You can apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]] through BIS. It's free. Your need a bit of help from your employer. - [More information](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)
+    You can apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]] through BIS. Your employer or your relocation service must register for this service. It's free. - [More information](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)
 - **Buy an Ausländerbehörde appointment**  
     Some services sell *Ausländerbehörde* appointments for around 100€. They use scripts and bots to book appointments before other people. I will not help you find those services. Some of those services are scams.[^22]
 - **Apply in another city**  
@@ -117,7 +119,7 @@ You need a residence permit to work, study or freelance. If you don't have one, 
 Read your appointment confirmation and follow the instructions. Usually, you must...
 
 - [ ] **Prepare the required documents**  
-    This can take a few weeks. Bring all your documents, even if you're not sure you need them. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Print everything on A4 paper. Don't staple the pages together. If you forget a document, it can delay your application by a few weeks.
+    This can take a few weeks. Bring all your documents, even if you're not sure you need them. If your documents are old, bring a newer version. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Print everything on A4 paper. Don't staple the pages together. If you forget a document, it can delay your application by a few weeks.
 - [ ] **Hire a translator** (optional)  
     Some *Ausländerbehörde* employees only speak German. If you don't speak German, bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). If you hire a [relocation consultant](/guides/relocation-agency-in-berlin) or an [immigration lawyer](/guides/english-speaking-lawyers-berlin), they can also translate for you.
 
@@ -125,11 +127,11 @@ Read your appointment confirmation and follow the instructions. Usually, you mus
 
 ### Go to the Ausländerbehörde
 
-Go to the correct *Ausländerbehörde*: [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9) or [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6). **Arrive early.** You need enough time to find the correct waiting room. If you are late, they might refuse to help you.[^24]
+Go to the correct *Ausländerbehörde*: [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9), [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6) or [Fasanenstraße](https://maps.app.goo.gl/SGWoaKtse5phxsQj6). **Arrive early.** You need enough time to find the correct waiting room. If you are late, they might refuse to help you.[^24]
 
 **Print your appointment confirmation** and bring it. You need it to enter the *Ausländerbehörde*.[^3]
 
-Inside the *Ausländerbehörde*, Find the right office, floor and room. This information is on your appointment confirmation.
+Inside the *Ausländerbehörde*, Find the right office, floor and room. This information is on your appointment confirmation. The security staff can also help you.
 
 [![Berlin Ausländerbehörde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
 
@@ -143,7 +145,7 @@ During your appointment, ask for a *[[Fiktionsbescheinigung]]*. It's a temporary
 
 **[What is a Fiktionsbescheinigung? ➞](/guides/fiktionsbescheinigung)**
 
-They might ask you to pay a fee. You must pay it at a payment machine in the same building.
+They might ask you to pay a fee. You must pay it at a payment machine. The machine is somewhere else in the *Ausländerbehörde*.
 
 **[How to pay the residence permit fee ↓](#pay-the-fee)**
 
