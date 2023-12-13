@@ -97,7 +97,6 @@ N26 fees and conditions get worse every year:
 
 - When you open an account, you must pay 10€ to get a plastic MasterCard. It used to be free.
 - The free account has 3 free ATM withdrawals per month. It used to be 5.
-- If you keep more than 50,000€ in your account, you pay a fee.
 - The free account does not include Spaces.
 
 This is not just N26. **All banks got worse**. Every year, when I update my [comparison of German banks](/guides/first-bank-account-in-germany), I notice more fees and more limitations.
