@@ -36,6 +36,6 @@ The *Ausländerbehörde* will answer a few weeks later.[^1]
 
 ## What to do next
 
-**[Losing your job in Germany ➞](/guides/losing-your-job)**
+**[Losing or changing your job in Germany ➞](/guides/losing-your-job)**
 
 [^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report (July 2023)
