@@ -38,7 +38,7 @@ You can buy local public transit tickets...
 - **At [[S-Bahn]] and [[BVG]] service points**  
     Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). There is often a queue.
 
-**At the airport**, there are ticket machines on the way to the train platforms, just before you go downstairs. You can also install the [BVG ticket app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) before you arrive in Berlin.
+**At the airport**, there are ticket machines on the way to the train platforms, just before you go downstairs. You can also install the [BVG ticket app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) before you arrive in Berlin. The airport is in zone C, so you must buy an ABC ticket.
 
 ![A public transit ticket machine at the Berlin-Brandenburg airport](/images/ber-ticket-machine.jpg "Ticket machine at the Berlin-Brandenburg airport")
 
