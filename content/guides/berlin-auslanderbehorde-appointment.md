@@ -3,6 +3,7 @@ Title: How to get an Ausländerbehörde appointment
 Description: How to find a appointment for a residence permit at the immigration office (Landesamt für Einwanderung), and what to do if there are no appointments.
 Date_created: 2017-09-22
 Related_reviews:
+    reviews/berlin-auslanderbehorde-appointment/kathleen-parker.md
     reviews/berlin-auslanderbehorde-appointment/elliot-herman.md
 ---
 
@@ -149,7 +150,9 @@ They might ask you to pay a fee. You must pay it at a payment machine. The machi
 
 **[How to pay the residence permit fee ↓](#pay-the-fee)**
 
-Your resident permit might be approved now or in a few weeks. Most residence permits are approved in a few weeks.[^7] If it's approved now, you get a paper certificate. In a few weeks, you will get a plastic residence permit by post.
+If they approve your residence permit, they must print the plastic card. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.[^31]
+
+In a few weeks, you will get your plastic residence permit by post, or an invitation to collect it at the *Ausländerbehörde*.[^30]
 
 ### Pay the fee
 
@@ -171,21 +174,30 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 1. **The eID activation code**  
     This letter arrives first. It has a PIN and a PUK to [activate the eID function](/guides/eid-online-ausweisfunktion) of your residence permit. You will need this later.
 2. **Your residence permit**  
-    2 to 4 weeks later, you receive your residence permit, or an invitation to collect your it at the *Ausländerbehörde*.[^30]
-
-If you had a German residence permit for over 3 years, you might get an unrestricted residence permit. It lets you do any type of work you want. For example, you can switch jobs, go to university or open a restaurant. You don't need permission from the *Ausländerbehörde* to do different things.
+    2 to 4 weeks later, you receive your residence permit, or an invitation to collect it at the *Ausländerbehörde*.[^30]
 
 Your residence permit is a plastic card. Your address is written on the card. If you move to another address, they will update your residence permit during the *[[Anmeldung]]*. They put a sticker with your new address on your residence permit.
+
+**[How to change your address ➞](/guides/address-change)**
 
 Your residence permit has a chip in it. You can use it with the [AusweisApp](https://www.ausweisapp.bund.de/en/home) to log into online government services. By default this feature is not activated. You must [activate it yourself](/guides/eid-online-ausweisfunktion).
 
 **[How to activate the eID function ➞](/guides/eid-online-ausweisfunktion)**
 
+If you had a German residence permit for over 3 years, your new residence permit might say *Erwerbstätigkeit gestattet*. This give you permission to do more things, and change employers more easily.
+
+**[What does "Erwerbstätigkeit gestattet" mean?](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/)** - Red Tape Translation
+
 ### If your application is rejected
 
-If some documents are missing, they will give you a new appointment in a few days. This gives you time to get the missing documents and apply again.
+If some documents are missing, you have 2 options:
 
-If your current visa expires soon, you might get a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany a bit longer.
+- **Send your documents by email**  
+    If you have the missing documents at home, ask if you can email them. You will pay the fee and give your fingerprints, so you don't need another *Ausländerbehörde* visit.[^32]
+- or **get another appointment**  
+    They will give you another appointment in a few days. It gives you time to prepare the missing documents.
+
+If your current visa expires soon, ask for a *[[Fiktionsbescheinigung]]*. It lets you stay in Germany a bit longer. If they refuse, you can insist. You have the right to get one.
 
 If you get a rejection letter, it will ask for more information, or tell you why your application was rejected. You have 1 month to respond or appeal. If this happen, you should [hire an immigration lawyer](/guides/english-speaking-lawyers-berlin) to help you.
 
@@ -252,3 +264,5 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^28]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html#:~:text=ablauf%20von%20drei%20monaten)
 [^29]: [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dramas/)
 [^30]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)
+[^31]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)
+[^32]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)

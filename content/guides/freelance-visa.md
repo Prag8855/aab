@@ -72,7 +72,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-emp
 - **[[Student visa]]**  
     Your student visa does not allow self-employment by default.[^54] In Berlin, *some* student visas already allow self-employment.[^72] You can get permission from the *[[Ausländerbehörde]]* to study and freelance at the same time.[^2]
 - **Other residence permits**  
-    If you live in Germany for over 3 years, you might have an unrestricted residence permit. It lets you do any kind of work you want. [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa).
+    [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa) to see if self-employment is allowed.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
     You can already be self-employed. You don't need a freelance visa.
 
@@ -171,7 +171,7 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting.
 
-If your freelance visa is approved, they must print your plastic residence permit. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working now.
+If they approve your freelance visa, they must print the plastic card. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
@@ -266,7 +266,7 @@ Your freelance visa is a plastic card. It's valid for up to 3 years. You can [re
 
 These are the required documents **in Berlin**.[^18] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
-**If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
+**If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also mail your documents.
 
 **If you [apply in person](/guides/berlin-auslanderbehorde-appointment#)**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
 
