@@ -47,7 +47,7 @@ To get a freelance visa, you need...[^18]
 - [ ] **Enough income**  
     You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53] The minimum income is different in other cities.
 - [ ] **Self-employed work**  
-    You must be self-employed. You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
+    You must be self-employed.[^73] You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Permission to do this job**  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
@@ -507,5 +507,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^70]: [VAB 21.1.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^71]: [§21 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^72]: Employee at the Thai embassy in Berlin (December 2023)
+[^73]: [Fiona Macdonald](https://en.fmr-legal.de/general-8#:~:text=must%20be%20classified%20as%20freelance%20employment)
 [^74]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/)
 [^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)

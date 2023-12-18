@@ -263,6 +263,6 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^27]: [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
 [^28]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html#:~:text=ablauf%20von%20drei%20monaten)
 [^29]: [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dramas/)
-[^30]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)
+[^30]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1445160886358543/) (2023)
 [^31]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)
 [^32]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)
