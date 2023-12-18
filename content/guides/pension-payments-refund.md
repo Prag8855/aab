@@ -274,14 +274,13 @@ If you want to do it yourself, here are the steps:[^19]
         2. **or** [form V0901](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901.html) (English)
         3. **or** [form V0902](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0902.html) (French)
 4. **Download and fill the payment information form** (*Zahlungserklärung*)  
-    If you use a bank in another country, your refund will take 2 months longer.  
+    If you use a bank in another country, your refund will take 2 months longer. The payment information form asks for a PANR, a BXNR and a ZANR. You don't have those numbers.[^22] Leave those fields empty.  
     1. If the bank account is in Germany:
         1. If it's your bank account, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html). Transfers to German bank accounts are *much* faster.
         2. If it's not your bank account, fill [form A1313](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1313.html).
     2. If the bank account is in Canada or the United States, fill [form A1312](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1312.html).
     3. If the bank account is in Italy, fill [form A1311](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1311.html).
     4. If the bank account is in any other country, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html).  
-    The payment information form asks for a PANR, a BXNR and a ZANR. You don't have those numbers.[^22] Leave those fields empty.
 5. **Collect the other documents**[^39]
     - [ ] **A certified copy of your passport**  
         The German embassy or consulate can make a certified copy of your passport. The information in your passport must be the same as in the application forms.

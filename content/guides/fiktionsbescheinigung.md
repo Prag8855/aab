@@ -36,14 +36,14 @@ Your *Fiktionsbescheinigung* is valid until your real residence permit is approv
 
 In Berlin, you can get a *Fiktionsbescheinigung* if...
 
-- [ ] you applied for a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship[^9]
+- [ ] you have applied for a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship[^9]
 - [ ] your current residence permit must expire in less than 6 weeks[^8]
-- [ ] you must have an important reason to travel (like a business trip or a conference)
-- [ ] you must include proof of your travel plans (like flight tickets or invitations)
+- [ ] you have an important reason to travel (like a business trip or a conference)
+- [ ] you include proof of your travel plans (like flight tickets or invitations)
 
-You have the right to get a *Fiktionsbescheinigung*.[^15] In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. They have no legal reason to refuse.
+In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. You have the right to get a *Fiktionsbescheinigung*.[^15] They have no legal reason to refuse.
 
-You must pick up your *Fiktionsbescheinigung* in person at the *Ausländerbehörde*. They do not send it by post.[^1] It costs 0€ or 13€.[^11]
+You must pick up your *Fiktionsbescheinigung* in person at the *Ausländerbehörde*. They do not send it by post.[^1] There might be a 13€ fee.[^11]
 
 If you currently have a [tourist visa](/glossary/Schengen%20visa), you can't get a *Fiktionsbescheinigung*. You can't convert a tourist visa to a residence permit. You must apply for a residence permit in your home country.[^3]
 

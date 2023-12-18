@@ -1,7 +1,7 @@
 ---
 Title: What is a Family Reunion Visa?
 German_term: Family reunion visa
-English_term: 
+English_term:
 Description: A residence permit for family members of German residents.
 Date_created: 2019-10-03
 Related_guides:

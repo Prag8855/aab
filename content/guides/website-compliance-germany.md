@@ -48,7 +48,7 @@ Read the [General Data Protection Regulation](https://gdpr-info.eu/).
 
 All About Berlin does not collect personal data about its visitors (I use [Plausible analytics](https://plausible.io/)). It does not set tracking cookies.
 
-There are [a few forms](/tools) that collect user data. It only collects it for one purpose (contacting a broker). Once the job is done, the data is deleted.
+A few forms on the website collect user data, for example to send a message or submit a request. No data is sent without an action from you. The data is deleted from the server as soon as possible.
 
 All of this is explained in the [privacy policy](/terms#privacy-policy).
 
