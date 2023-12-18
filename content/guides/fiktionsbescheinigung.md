@@ -66,9 +66,11 @@ You must return to Germany before your *Fiktionsbescheinigung* expires. If it ex
 
 ## Travel without a Fiktionsbescheinigung
 
-If you are from {{AUFENTHV_41_COUNTRIES}}, you can travel without a *Fiktionsbescheinigung*. You can re-enter Germany with an expired residence permit.[^12]
+If you are a citizen of Australia, Canada, Japan, New Zealand or South Korea, you can travel without a *Fiktionsbescheinigung*. You can re-enter Germany with an expired residence permit.[^12]
 
-This is how the Federal Police currently see things. It can change at any time.
+This was confirmed by the *Bundespolizei* and a few travellers.[^12] It's not guaranteed to work for you. The rules can change at any time. [Ask the Bundespolizei](https://www.bundespolizei.de/Web/DE/Service/Kontakt/05Frage-stellen/kontakt_node.html) before you travel.
+
+Bring proof of your residence permit application. It can help you if you have problems with the border police.[^18]
 
 ## Fiktionsbescheinigung types
 
@@ -80,7 +82,7 @@ There are 4 variants of the *Fiktionsbescheinigung*:[^2]
     If have no residence permit, and you applied for a residence permit on time. It does not allow you to travel outside of Germany.[^14]
 - **§81 Abs. 3 Satz 2 AufenthG**  
     If have no residence permit, and you applied late for a residence permit. It does not allow you to travel outside of Germany.
-- **FreizügG/EU oder dem Abkommen EU-Schweiz**  
+- **FreizügG/EU oder Abkommen EU-Schweiz**  
     It allows you to travel outside of Germany.[^6]
 
 [![German Fiktionsbescheinigung type field](/images/german-fiktionsbescheinigung-types.jpg "The type is written on your Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung-types.jpg)
@@ -101,9 +103,10 @@ There are 4 variants of the *Fiktionsbescheinigung*:[^2]
 [^9]: [VAB 81.3.0](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535), [Berlin.de](https://service.berlin.de/dienstleistung/326233/#:~:text=antrag%20auf%20aufenthaltstitel)
 [^10]: [VAB 81.4.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^11]: [VAB 81.5](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535), [§47 Abs. 1 s. 8](https://www.gesetze-im-internet.de/aufenthv/__47.html)
-[^12]: Immigration lawyer (December 2023), Bundespolizei (November 2023), [Bundespolizei](https://www.info4alien.de/cgi-bin/forum/YaBB.cgi?num=1663089267/30#:~:text=dass%20ebenfalls%20bei%20jeder%20einreise%20bis%20zu%2090%20tage%20visumfreier%20aufenthalt) (October 2022), [§41 Abs. 1 and 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1197219931152641/) (October 2022)
+[^12]: Immigration lawyer (December 2023), Bundespolizei (December 2023), Bundespolizei (November 2023), [Bundespolizei](https://www.info4alien.de/cgi-bin/forum/YaBB.cgi?num=1663089267/30#:~:text=dass%20ebenfalls%20bei%20jeder%20einreise%20bis%20zu%2090%20tage%20visumfreier%20aufenthalt) (October 2022), [§41 Abs. 1 and 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1197219931152641/) (October 2022)
 [^13]: [Annex D3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/anlage_d3.html)
 [^14]: [18 B 8/09](https://openjur.de/u/135297.html) (2011)
 [^15]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (December 2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1194366428104658/) (October 2022), [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), confirmed by a relocation consultant (October 2023), [M 25 E 16.2114](https://openjur.de/u/2287211.html#:~:text=eine%20bescheinigung%20uber%20die%20wirkungen%20seiner%20antragstellung) (Munich, 2020), [18 B 850/19](https://openjur.de/u/2192644.html#:~:text=anspruch%20auf%20ausstellung%20einer%20fiktionsbescheinigung) (NRW, 2019), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1414261236115175/?comment_id=1414434422764523) (November 2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1398493864358579/?comment_id=1400502304157735) (October 2023)
 [^16]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1194366428104658/) (October 2022), [Twitter](https://twitter.com/oishik_dasgupta/status/1733836288111923315) (December 2023)
 [^17]: [Twitter](https://twitter.com/mgill25/status/1715331128377086036) (December 2023), [Twitter](https://twitter.com/flyaway_aoi/status/1712789114427240570) (October 2023), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1671544263314270/) (August 2023)
+[^18]: Email from the Bundespolizei (December 2023)
