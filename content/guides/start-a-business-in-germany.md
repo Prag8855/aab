@@ -161,7 +161,12 @@ Tax advisors are very expensive in Germany, but they will save you a lot of mone
 
 Later, you will need to [register your business with the tax office](/guides/fragebogen-zur-steuerlichen-erfassung) (*[[Finanzamt]]*). The tax office decides if you are a freelancer (*[[Freiberufler]]*) or a tradesperson (*[[Gewerbe]]*).
 
-The difference is *very* important. Tradespeople must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). They must usually be listed in the trade register (*[[Handelsregister]]*). They must sometimes follow different accounting rules.
+The difference is *very* important. Tradespeople must...
+
+- [Get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*)
+- [Pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*)
+- Get listed in the *Handelsregister* ([in some cases](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry))
+- Use double entry bookkeeping ([in some cases](/guides/freiberufler-or-gewerbe#double-entry-bookkeeping))
 
 Not every freelancer is a *[[Freiberufler]]*! This title is only for [specific professions](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8). Engineers, doctors, architects and teachers can be *Freiberufler*. Food delivery drivers and tour guides are not *Freiberufler*; they are a *[[Gewerbe]]*.[^13] Most commercial websites are registered as a *Gewerbe*.
 

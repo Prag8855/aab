@@ -16,5 +16,3 @@ Related_guides:
 The *Fiktionsbescheinigung* is a proof that you can stay in Germany without a residence permit. It's just a piece of paper. You get it while you wait for another residence permit.
 
 **[How to get a Fiktionsbescheinigung ➞](/guides/fiktionsbescheinigung)**
-
-[^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)

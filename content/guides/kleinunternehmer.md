@@ -18,10 +18,7 @@ You are a *Kleinunternehmer* if...[^1]
 - last year, you [revenue](/glossary/Umsatz) was below {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
 - **and** this year, your *expected* revenue is below {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
 
-If you are a *Kleinunternehmer*, you can:
-
-- *Choose* not to charge [VAT](/glossary/Umsatzsteuer).
-- *Choose* not to be listed in the trade register (*[[Handelsregister]]*).
+If you are a *Kleinunternehmer*, you can choose not to charge [VAT](/glossary/Umsatzsteuer).
 
 Freelancers (*[[Freiberufler]]*), tradespeople (*[[Gewerbe]]*) and limited liability companies (*UG*) can be a *Kleinunternehmer*.[^2]
 

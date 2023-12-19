@@ -350,8 +350,8 @@ If you can, you should also bring...
 
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)  
     [Register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible, because it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.[^70] You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
-- [ ] **Trade register entry** (*Handelsregisterauszug*)  
-    If you can, [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) and get listed in the *[[Handelsregister]]*. This is not required for [small businesses](/glossary/Kleinunternehmer). You can also do this later. You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
+- [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
+    You probably don't need a *Handelsregister* entry.[^77] If you need one, you can probably get it after you get your freelance visa. - [Who needs a *Handelsregister* entry?](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)
 
 ### Required documents if you apply in person
 
@@ -510,3 +510,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^73]: [Fiona Macdonald](https://en.fmr-legal.de/general-8#:~:text=must%20be%20classified%20as%20freelance%20employment)
 [^74]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/)
 [^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)
+[^77]: Immigration lawyer on [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1736457546822941/) (December 2023)
