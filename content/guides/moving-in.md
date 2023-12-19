@@ -114,15 +114,15 @@ The electricity contract is activated automatically. No one will visit your apar
 
 ### Buy furniture and appliances
 
-You can buy used appliances from [Kleinanzeigen](https://www.ebay-kleinanzeigen.de:443/). Used appliances are *much* cheaper. Professional sellers offer a 12 month warranty and free delivery. Only buy your appliances from sellers with old accounts. Some scammers create accounts, sell broken appliances for a few days, and disappear. I bought many appliances from [Wasch Max](https://www.ebay-kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
+You can buy used appliances from [Kleinanzeigen](https://www.kleinanzeigen.de:443/). Used appliances are *much* cheaper. Professional sellers offer a 12 month warranty and free delivery. Only buy your appliances from sellers with old accounts. Some scammers create accounts, sell broken appliances for a few days, and disappear. I bought many appliances from [Wasch Max](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
 
 **[Where to buy furniture and house supplies ➞](/guides/where-to-buy-what#furniture-and-house-supplies)**
 
-If you need help to move furniture, you can use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). You can find more moving services on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+If you need help to move furniture, you can use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). You can find more moving services on [Kleinanzeigen](https://www.kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
 
 ### Install light fixtures
 
-Most apartments come without light fixtures. You will need to get your own from Ikea or some other furniture store. You can hire a *Handwerker* to install them for you. You can find a *Handwerker* on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-berlin/handwerker/k0l3331).
+Most apartments come without light fixtures. You will need to get your own from Ikea or some other furniture store. You can hire a *Handwerker* to install them for you. You can find a *Handwerker* on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331).
 
 ### Change your address
 

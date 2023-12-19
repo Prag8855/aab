@@ -128,7 +128,7 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 ### Classified ads
 
 - **[ImmobilienScout24](https://www.immobilienscout24.de/)** - Biggest apartment listing site
-- **[Kleinanzeigen](https://www.ebay-kleinanzeigen.de:443/)** - Biggest classified ads site
+- **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)

@@ -144,7 +144,7 @@ If you live in a [[WG]], the deposit is smaller. Sometimes, there is no deposit.
 
 When you [move into your first apartment](/guides/moving-in), you must get new furniture, new appliances, kitchen equipment, etc. In Germany, you might even need to buy light fixtures, and a kitchen counter.
 
-To save money, buy used furniture. You can find free/cheap furniture on [Kleinanzeigen](https://www.ebay-kleinanzeigen.de/stadt/berlin/) and [various Facebook groups](/guides/how-do-i-buy-and-sell-used-things-in-berlin#facebook-groups).
+To save money, buy used furniture. You can find free/cheap furniture on [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [various Facebook groups](/guides/how-do-i-buy-and-sell-used-things-in-berlin#facebook-groups).
 
 **[Where to buy what in Berlin ➞](/guides/where-to-buy-what)**
 
