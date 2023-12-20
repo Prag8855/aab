@@ -7,7 +7,7 @@ Date_created: 2022-01-27
 Hi, I'm Nicolas. You can contact me to…
 
 - **Ask a question**  
-    Please [ask the right people](/guides/questions-about-berlin) first. I would love to help you, but I don't have enough time to answer everyone. I can't give legal or financial advice. I can't answer visa and residence permit questions.
+    Please [ask the right people](/guides/questions-about-berlin) first. I would love to help you, but I get a lot of questions, and I don't have enough time to answer everyone. I can't give legal or financial advice. I can't answer visa and residence permit questions.
 - **Give feedback**  
     If you have changes and suggestions to make, send them to me! It helps me improve the website for everyone.
 - **Say thanks**  
