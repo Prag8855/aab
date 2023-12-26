@@ -50,7 +50,7 @@ The median household income in Germany is {{MEDIAN_INCOME_GERMANY|cur}}€ per y
 
 ### Minimum wage
 
-The minimum wage (*[[Mindestlohn]]*) in Germany is **{{MINIMUM_WAGE|cur}}€ per hour**.[^3] After October 1, it will be 12€ per hour. [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
+The minimum wage (*[[Mindestlohn]]*) in Germany is **{{MINIMUM_WAGE|cur}}€ per hour**.[^3] [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
 
 Around 4% of jobs pay the minimum wage.[^4]
 
