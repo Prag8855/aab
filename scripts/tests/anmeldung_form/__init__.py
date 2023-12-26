@@ -1,5 +1,5 @@
 from playwright.sync_api import expect
-from test_data import people
+from ..test_data import people
 
 
 def next_step(page):

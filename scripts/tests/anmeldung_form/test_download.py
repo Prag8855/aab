@@ -1,6 +1,6 @@
 from playwright.sync_api import expect
-from test_data import people
-from anmeldung_form import fill_anmeldung_form_until
+from ..test_data import people
+from ..anmeldung_form import fill_anmeldung_form_until
 
 
 def test_download_button(page):
