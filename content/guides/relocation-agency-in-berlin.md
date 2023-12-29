@@ -20,6 +20,7 @@ Related_places:
     places/progedo.md
     places/gibbesch-consulting.md
     places/expat-unity.md
+    places/jetztpat.md
 ---
 
 Relocation agencies make it easier to [move to Germany](/guides/moving-to-berlin).
