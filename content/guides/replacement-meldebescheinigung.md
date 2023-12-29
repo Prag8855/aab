@@ -18,20 +18,22 @@ This guide explains how to get a *Meldebescheinigung* if you already registered 
 
 ## How to get an Anmeldebestätigung
 
-Request it **[online](https://olmera.verwalt-berlin.de/ant/olav/meldebescheinigung?mbom=1&l=de) or in person** from the *[[Bürgeramt]]*. It costs 10€.[^0]
+Request it **[online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung) or in person** from the *[[Bürgeramt]]*. It's free online, or 10€ in person.[^0]
 
 If you did not [register your address](/glossary/Anmeldung), you can't get a *Meldebescheinigung*.
 
 ### Online
 
-**[Request a *Meldebescheinigung* online](https://olmera.verwalt-berlin.de/ant/olav/meldebescheinigung?mbom=1&l=de).** You must be [registered](/glossary/Anmeldung) in Berlin.
+**[Request a *Meldebescheinigung* online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung).** You must be [registered](/glossary/Anmeldung) in Berlin.
+
+You must have an *Online-Ausweis*. If you have a residence permit, the *Online-Ausweis* is probably not activated, so you must go to the *Bürgeramt* in person to get a *Meldebescheinigung*.
 
 ### In person
 
 1. [Get an appointment at any Bürgeramt](/guides/berlin-burgeramt-appointment) for "*[Meldebescheinigung beantragen](https://service.berlin.de/dienstleistung/120702/)*"
 2. When you go to your appointment, bring...
     - [ ] Your passport or *[[Personalausweis]]*
-    - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or MasterCard. It depends on the Bürgeramt.
+    - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or MasterCard. It depends on the *Bürgeramt*.
 
 ## Erweiterte Meldebescheinigung
 
