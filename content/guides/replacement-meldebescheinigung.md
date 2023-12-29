@@ -24,7 +24,9 @@ If you did not [register your address](/glossary/Anmeldung), you can't get a *Me
 
 ### Online
 
-**[Request a *Meldebescheinigung* online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung).** You must be [registered](/glossary/Anmeldung) in Berlin.
+**[Request a *Meldebescheinigung* online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung).** You can download it as a PDF.
+
+You must be [registered](/glossary/Anmeldung) in Berlin.
 
 You must have an *Online-Ausweis*. If you have a residence permit, the *Online-Ausweis* is probably not activated, so you must go to the *Bürgeramt* in person to get a *Meldebescheinigung*.
 
