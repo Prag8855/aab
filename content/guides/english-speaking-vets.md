@@ -5,7 +5,7 @@ Description: This list helps you find a Tierarzt who speak English in Berlin.
 Date_created: 2023-05-02
 ---
 
-If you don't speak German, here are some veterinarians who speak English:
+If you don't speak German, these veterinarians speak English:
 
 - [Anne Gamalski](https://www.berlin-english-vet.com/)
 - [Dr. Beck](http://www.tierarztpraxis-dr-beck.de/)
@@ -17,6 +17,7 @@ If you don't speak German, here are some veterinarians who speak English:
 - [Dr. Pastor](https://www.tierarztpraxis-pastor.de/)
 - [Dr. Peter Vogel](https://www.drpetervogel.de/en)
 - [Dr. Rotgang Praxis](https://www.tierarztpraxis-rotgang.de/en-gb)
+- [Dr. Sven Stahlhut](https://www.tierarztamwestend.de/) - Tierarzt Westend
 - [Dr. Uwe Lenk](https://tierarztpraxis-lenk.de/)
 - [Ellen Laskawy](https://laskawy.jimdofree.com/)
 - [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
