@@ -6,8 +6,7 @@ Date_created: 2018-11-29
 Related_reviews:
     reviews/german-health-insurance/derrick-löhr.md
     reviews/german-health-insurance/marvin-ewald-hammor.md
-    reviews/german-health-insurance/dr-rob-schumacher.md
-    reviews/german-health-insurance/daniel-derosa.md
+    reviews/german-health-insurance/dr-rob-schumacher.m
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
