@@ -29,7 +29,6 @@ These bottles have a deposit.[^0] You can return them at any store that sells th
 - Aluminium cans - 0.25€
 - Single-use (*Einweg*) plastic bottles - 0.25€
 - Multiple-use (*Mehrweg*) glass and plastic bottles - 0.08€ to 0.15€[^1]
-- Plastic milk bottles
 - *Landliebe* yoghurt containers
 - Some wine bottles - 0.03€
 
@@ -37,7 +36,7 @@ These bottles have a deposit.[^0] You can return them at any store that sells th
 
 These bottles can still be recycled, but they don't have a deposit.
 
-- Milk cartons - They go in the yellow recycling bin
+- Milk cartons - They go in the yellow recycling bin. Plastic milk bottles have a deposit.
 - Most wine bottles - They go in the glass recycling bins
 - Containers with the [Grüne Punkt](/images/gruene-punkt-pfand.png) logo[^2] - They go in the yellow recycling bin
 - Bottles purchased in other countries
