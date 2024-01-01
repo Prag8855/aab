@@ -418,7 +418,10 @@
 				},
 				oldPostCode(newVal) {
 					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
-					this.$refs.oldPostCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
+					try{
+						this.$refs.oldPostCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
+					} catch (e) {}
+
 				}
 			},
 			created() {
