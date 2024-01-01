@@ -22,11 +22,11 @@ const healthInsurance = {
 		},
 		aok: {
 			name: 'AOK Nordost',
-			zusatzbeitrag: 1.9/100,
+			zusatzbeitrag: 2.7/100,
 		},
 		barmer: {
 			name: 'Barmer',
-			zusatzbeitrag: 1.5/100,
+			zusatzbeitrag: 2.19/100,
 		},
 		hkk: {
 			name: 'hkk',
@@ -106,22 +106,22 @@ const taxes = {
 			maxIncome: {{ GRUNDFREIBETRAG }},
 		},
 		2: {
-			formula: (x, y, z) => (979.18 * y + 1400) * y,
+			formula: (x, y, z) => (922.98 * y + 1400) * y,
 			minIncome: {{ GRUNDFREIBETRAG }},
 			maxIncome: {{ INCOME_TAX_TARIF_2_MAX_INCOME }},
 		},
 		3: {
-			formula: (x, y, z) => (192.59 * z + 2397) * z + 966.53,
+			formula: (x, y, z) => (181.19 * z + 2397) * z + 1025.38,
 			minIncome: {{ INCOME_TAX_TARIF_2_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_TARIF_3_MAX_INCOME }},
 		},
 		4: {
-			formula: (x, y, z) => 0.42 * x - 9972.98,
+			formula: (x, y, z) => 0.42 * x - 10602.13,
 			minIncome: {{ INCOME_TAX_TARIF_3_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_TARIF_4_MAX_INCOME }},
 		},
 		5: {
-			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 18307.73,
+			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 18936.88,
 			minIncome: {{ INCOME_TAX_TARIF_4_MAX_INCOME }},
 			maxIncome: Infinity,
 		},
@@ -193,7 +193,7 @@ const defaults = {  // Percentages are stored as full amounts, unlike elsewhere
 	useMonthlyIncome: false,
 	yearlyIncome: Math.round({{ MEDIAN_INCOME_GERMANY }}/100) * 100,
 	healthInsuranceType: 'unknown',
-	privateHealthInsuranceCost: 500, // € per month
+	privateHealthInsuranceCost: 550, // € per month
 	publicHealthInsuranceZusatzbeitrag: healthInsurance.companies.average.zusatzbeitrag * 100, // %
 };
 {% endjs %}
