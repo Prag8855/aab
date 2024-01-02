@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 from datetime import datetime
-from markdown.extensions.toc import slugify
 from pathlib import Path
 from ursus.config import config
 from ursus.utils import import_module_or_path
 import argparse
 import re
 import readline
-import rlcompleter
 
 
 if 'libedit' in readline.__doc__:
