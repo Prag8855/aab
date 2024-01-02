@@ -787,13 +787,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
 
-		describe(`an employee with a ${healthInsurance.maxMidijobIncome}€ job`, () => {
+		describe(`an employee with a ${healthInsurance.midijobMaxIncome}€ job`, () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: healthInsurance.maxMidijobIncome,
+				monthlyIncome: healthInsurance.midijobMaxIncome,
 			});
 
 			it('must pay the midijob tarif', () => {
@@ -813,13 +813,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
 
-		describe(`an employee with a ${healthInsurance.maxMidijobIncome + 1}€ job`, () => {
+		describe(`an employee with a ${healthInsurance.midijobMaxIncome + 1}€ job`, () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: healthInsurance.maxMidijobIncome + 1,
+				monthlyIncome: healthInsurance.midijobMaxIncome + 1,
 			});
 
 			it('must pay the employee tarif', () => {

@@ -33,6 +33,12 @@ def build_wikilinks_url(label, base, end):
     return '{}{}{}'.format(base, urllib.parse.quote(label), end)
 
 
+def fail_on(expiration_date: str) -> str:
+    # Fails when the expiration date is reached. Used to set content date limits.
+    assert datetime.strptime(expiration_date, "%Y-%m-%d") >= datetime.now(), f"Content expired on {expiration_date}"
+    return ''
+
+
 def or_join(items):
     return ', '.join(items[:-1]) + ' or ' + items[-1]
 
@@ -243,6 +249,7 @@ config.context_globals = {
     'now': datetime.now(),
     'site_url': config.site_url,
     'random_id': random_id,
+    'fail_on': fail_on,
     'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E',  # Frontend use
     'glossary_groups': glossary_groups,
 

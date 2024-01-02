@@ -1,4 +1,4 @@
-{% js %}
+{{ fail_on('2024-12-31') }}{% js %}
 const bafogBedarfssatz = {{ GKV_BAFOG_BEDARFSSATZ }};
 
 const healthInsurance = {
@@ -9,10 +9,10 @@ const healthInsurance = {
 	maxMonthlyIncome: {{ GKV_HÖCHSTBEITRAG_MIN_INCOME }}/12, // If you earn more than that, you pay the max tarif
 	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12, // You can get private above that amount
 	maxFamilienvericherungIncome: {{ GKV_FAMILIENVERSICHERUNG_MAX_INCOME }},
-	maxMidijobIncome: {{ MIDIJOB_MAX_INCOME }},
+	midijobMaxIncome: {{ MIDIJOB_MAX_INCOME }},
 	avgZusatzbeitrag: {{ GKV_AVERAGE_ZUSATZBEITRAG }}/100,
-	azubiFreibetrag: {{ GKV_AZUBI_MAX_FREE_INCOME }}, // Free health insurance below this amount
-	maxNebenjobIncome: {{ BEZUGSGRÖSSE_WEST }}*0.75, // Not a nebenjob above this income
+	azubiFreibetrag: {{ GKV_AZUBI_FREIBETRAG }}, // Free health insurance below this amount
+	nebenjobMaxIncome: {{ GKV_NEBENJOB_MAX_INCOME }}, // Not a nebenjob above this income
 	factorF: {{ GKV_FACTOR_F }},
 	kskMinimumIncome: {{ KSK_MIN_INCOME }},
 	companies: {
@@ -80,12 +80,12 @@ const taxes = {
 		2020: { west: 6900 * 12, east: 6450 * 12 },
 		2021: { west: 7100 * 12, east: 6700 * 12 },
 		2022: { west: 7050 * 12, east: 6750 * 12 },
+		2023: { west: 7300 * 12, east: 7100 * 12 },
 		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
-		2023: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
-		2024: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2023)
-		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2023)
-		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2023)
-		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2023)
+		2024: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
+		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
+		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
+		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
 	},
 	grundfreibetrag: {{ GRUNDFREIBETRAG }},
 	kinderfreibetrag: {{ KINDERFREIBETRAG }},
