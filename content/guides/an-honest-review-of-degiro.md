@@ -11,7 +11,7 @@ Degiro is an online broker with low fees. You can buy and sell stocks for a very
 
 ## In English and German
 
-In 2024, the Degiro website is in English and in German. Before, it was only in German. If you don't speak German, it's a big improvement.
+In 2024{{ fail_on('2024-12-31') }}, the Degiro website is in English and in German. Before, it was only in German. If you don't speak German, it's a big improvement.
 
 ![Screenshot of the Degiro website in English](/images/degiro-user-interface-2023-02-24.png "The Degiro user interface in English")
 
@@ -67,7 +67,7 @@ I transfered tens of thousands of euros in and out of Degiro without any issues.
 
 **Would I recommend Degiro?** Yes. I use it myself since a few years.
 
-Degiro is much better than before. They had many issues in 2018, but those are solved in 2024. If they showed you your profit/losses over time, Degiro would be perfect. Without that, it's still pretty good.
+Degiro is much better than before. They had many issues in 2018, but those are solved in 2024{{ fail_on('2024-12-31') }}. If they showed you your profit/losses over time, Degiro would be perfect. Without that, it's still pretty good.
 
 **[Visit the Degiro website ➞](/out/degiro)**
 

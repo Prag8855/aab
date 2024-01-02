@@ -105,7 +105,7 @@ This is not just N26. **All banks got worse**. Every year, when I update my [com
 
 The standard N26 account is free. The free account is not as good as before, but it's still great.
 
-In 2024, [most German banks](/guides/first-bank-account-in-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
+In 2024{{ fail_on('2024-12-31') }}, [most German banks](/guides/first-bank-account-in-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
 
 **[Banks with no monthly fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
 
