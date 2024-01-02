@@ -63,7 +63,7 @@ If you are an employee, your employer pays half of it. If you earn less than {{G
 
 ### Nursing care insurance
 
-Nursing care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_NO_SURCHARGE}}% of your income. If you are over 22 years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_WITH_SURCHARGE}}% of your income.
+Nursing care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_NO_SURCHARGE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_WITH_SURCHARGE}}% of your income.
 
 If you are an employee, your employer pays half of it.
 

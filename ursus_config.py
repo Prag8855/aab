@@ -257,32 +257,35 @@ config.context_globals = {
     # HEALTH INSURANCE
     # ==============================================================================
 
-    # Mindestbemessungsgrundlage (€/mth) - BEZUGSGRÖSSE_WEST / 90 * 30 - §240 Abs. 4 SGV IV
+    # Mindestbemessungsgrundlage (€/mth) - §240 Abs. 4 SGV IV
     "GKV_MIN_INCOME": bezugsgroesse_west / 90 * 30,
 
     # Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
     "GKV_FREIWILLIG_VERSICHERT_MIN_INCOME": 69300,
 
     # Above this income (€/mth), your employer pays for health insurance - §20 SGB IV
-    "GKV_AZUBI_MAX_FREE_INCOME": 325,
+    "GKV_AZUBI_FREIBETRAG": 325,
+
+    # Above this income, it's no longer a Nebenjob
+    "GKV_NEBENJOB_MAX_INCOME": bezugsgroesse_west * 0.75,
 
     # Besondere Versicherungspflichtgrenze - Above this income (€/y), you pay the Höchstbeitrag - SVBezGrV 2021 [BBGKVPV]
     "GKV_HÖCHSTBEITRAG_MIN_INCOME": gkv_hoechstbeitrag_min_income,
 
-    # Maximum daily Krankengeld - GKV_HÖCHSTBEITRAG_MIN_INCOME * 0.7 / 360 - § 47 SGB V
+    # Maximum daily Krankengeld - § 47 SGB V
     "GKV_KRANKENGELD_DAILY_LIMIT": gkv_hoechstbeitrag_min_income * 0.7 / 360,
 
-    # Above this income (€/m), you can't have Familienversicherung - 1/7 of BEZUGSGRÖSSE_WEST - §10 SGB V
+    # Above this income (€/m), you can't have Familienversicherung - §10 SGB V
     "GKV_FAMILIENVERSICHERUNG_MAX_INCOME": 1 / 7 * bezugsgroesse_west,
 
     # Base contribution (%), including Krankengeld - § 241 SGB V
     "GKV_BASE_CONTRIBUTION": health_insurance_base_contrib,
 
+    # Base contribution (%) for students - § 245 SGB V
+    "GKV_STUDENT_BASE_CONTRIBUTION": health_insurance_base_contrib * 0.7,
+
     # Base contribution (%), excluding Krankengeld - § 243 SGB V
     "GKV_SELF_EMPLOYED_BASE_CONTRIBUTION": 14,
-
-    # Average Zusatzbeitrag (%)
-    "GKV_AVERAGE_ZUSATZBEITRAG": 1.7,
 
     # Estimated minimum contribution (€/mth) without employer contribution
     # TODO (2024-01-01)
@@ -327,12 +330,20 @@ config.context_globals = {
     "PFLEGEVERSICHERUNG_WITH_SURCHARGE": health_insurance_max_pflegeversicherung,
     "PFLEGEVERSICHERUNG_NO_SURCHARGE": 3.4,
     "PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD": 0.25,
+    "PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE": 22,
 
     # BAFöG Bedarfssatz (€/y) - sum of §13 BAföG Abs 1.2 + 2.2
     "GKV_BAFOG_BEDARFSSATZ": 812,
 
     # Minimum income (€/y) to join the Künstlersozialkasse - § 3 Abs. 1 KSVG
     "KSK_MIN_INCOME": 3900,
+
+    # Zusatzbeiträge
+    "GKV_ZUSATZBEITRAG_AVERAGE": 1.7,
+    "GKV_ZUSATZBEITRAG_TK": 1.2,
+    "GKV_ZUSATZBEITRAG_AOK": 2.7,
+    "GKV_ZUSATZBEITRAG_BARMER": 2.19,
+    "GKV_ZUSATZBEITRAG_HKK": 0.98,
 
     # ==============================================================================
     # IMMIGRATION
@@ -428,6 +439,8 @@ config.context_globals = {
 
     # Above that income tax amount, you pay a 11.9% solidarity tax (€/y) - §3 SolzG 4a [SOLZFREI]
     "SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX": 18130,
+    "SOLIDARITY_TAX_MILDERUNGSZONE_RATE": 0.119,
+    "SOLIDARITY_TAX_MAX_RATE": 0.055,
 
     # (€/y) - §9a EStG
     "ARBEITNEHMERPAUSCHALE": 1230,

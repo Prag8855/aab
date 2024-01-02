@@ -1,40 +1,40 @@
-{{ fail_on('2024-12-31') }}{% js %}
+{% js %}
 const bafogBedarfssatz = {{ GKV_BAFOG_BEDARFSSATZ }};
 
 const healthInsurance = {
 	defaultTarif: {{ GKV_BASE_CONTRIBUTION }}/100,
-	selfEmployedTarif: {{ GKV_SELF_EMPLOYED_BASE_CONTRIBUTION }}/100, // The 0.6% disability tarif is optional for freelancers
-	studentTarif: 0.7 * {{ GKV_BASE_CONTRIBUTION }}/100, // https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/studenten/
-	minMonthlyIncome: {{ GKV_MIN_INCOME }}, // If you earn less than that, you pay the min tarif
-	maxMonthlyIncome: {{ GKV_HÖCHSTBEITRAG_MIN_INCOME }}/12, // If you earn more than that, you pay the max tarif
-	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12, // You can get private above that amount
+	selfEmployedTarif: {{ GKV_SELF_EMPLOYED_BASE_CONTRIBUTION }}/100,
+	studentTarif: {{ GKV_STUDENT_BASE_CONTRIBUTION }}/100,
+	minMonthlyIncome: {{ GKV_MIN_INCOME }},
+	maxMonthlyIncome: {{ GKV_HÖCHSTBEITRAG_MIN_INCOME }}/12,
+	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12,
 	maxFamilienvericherungIncome: {{ GKV_FAMILIENVERSICHERUNG_MAX_INCOME }},
 	midijobMaxIncome: {{ MIDIJOB_MAX_INCOME }},
-	avgZusatzbeitrag: {{ GKV_AVERAGE_ZUSATZBEITRAG }}/100,
-	azubiFreibetrag: {{ GKV_AZUBI_FREIBETRAG }}, // Free health insurance below this amount
-	nebenjobMaxIncome: {{ GKV_NEBENJOB_MAX_INCOME }}, // Not a nebenjob above this income
+	avgZusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}/100,
+	azubiFreibetrag: {{ GKV_AZUBI_FREIBETRAG }},
+	nebenjobMaxIncome: {{ GKV_NEBENJOB_MAX_INCOME }},
 	factorF: {{ GKV_FACTOR_F }},
 	kskMinimumIncome: {{ KSK_MIN_INCOME }},
 	companies: {
 		average: {
 			name: 'Average health insurance',
-			zusatzbeitrag: {{ GKV_AVERAGE_ZUSATZBEITRAG }}/100,
+			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}/100,
 		},
 		aok: {
 			name: 'AOK Nordost',
-			zusatzbeitrag: 2.7/100,
+			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AOK }}/100,
 		},
 		barmer: {
 			name: 'Barmer',
-			zusatzbeitrag: 2.19/100,
+			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_BARMER }}/100,
 		},
 		hkk: {
 			name: 'hkk',
-			zusatzbeitrag: 0.98/100,
+			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_HKK }}/100,
 		},
 		tk: {
 			name: 'Techniker Krankenkasse',
-			zusatzbeitrag: 1.2/100,
+			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_TK }}/100,
 		},
 	},
 }
@@ -46,7 +46,7 @@ const pflegeversicherung = {
 	minimumChildCountForDiscount: 2,
 	maximumChildCountForDiscount: 5,
 	employerTarif: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE }}/100/2, // Employer doesn't contribute to surcharge
-	defaultTarifMaxAge: 22, // Above this age, if you don't have kids, you pay the surchargeTarif
+	defaultTarifMaxAge: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE }}, // Above this age, if you don't have kids, you pay the surchargeTarif
 };
 
 const taxes = {
@@ -81,7 +81,7 @@ const taxes = {
 		2021: { west: 7100 * 12, east: 6700 * 12 },
 		2022: { west: 7050 * 12, east: 6750 * 12 },
 		2023: { west: 7300 * 12, east: 7100 * 12 },
-		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
+		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // {{ fail_on('2024-12-31') }}
 		2024: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
 		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
 		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
@@ -94,11 +94,12 @@ const taxes = {
 	kindergeldPerChild: {{ KINDERGELD }},
 	solidarity: { // https://www.finanztip.de/solidaritaetszuschlag/
 		minIncomeTax: {{ SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX }},  // Above this, you pay solidarity tax
-		milderungszoneRate: 0.119, // percent of incomeTax - minIncomeTax
-		maxRate: 0.055,
+		milderungszoneRate: {{ SOLIDARITY_TAX_MILDERUNGSZONE_RATE }}, // percent of incomeTax - minIncomeTax
+		maxRate: {{ SOLIDARITY_TAX_MAX_RATE }},
 	},
 	minVorsorgepauschal: {{ VORSORGEPAUSCHAL_MIN }},
 	minVorsorgepauschalTaxClass3: {{ VORSORGEPAUSCHAL_MIN_TAX_CLASS_3 }},
+	{{ fail_on('2024-12-31') }}
 	incomeTaxTarifZones: {  // §32a EStG
 		1: {
 			formula: (x, y, z) => 0,
@@ -167,11 +168,11 @@ const pensions = {
 		2020: 18.6,
 		2021: 18.6,
 		2022: 18.6,
-		currentYear: {{ RENTENVERSICHERUNG_TOTAL_CONTRIBUTION }},
 		2023: 18.6,
-		2024: 18.6, // ESTIMATED (2022)
-		2025: 18.6, // ESTIMATED (2022)
-		2026: 18.6, // ESTIMATED (2022)
+		2024: 18.6,
+		currentYear: {{ RENTENVERSICHERUNG_TOTAL_CONTRIBUTION }}, // {{ fail_on('2024-12-31') }}
+		2025: 18.6, // ESTIMATED (2024)
+		2026: 18.6, // ESTIMATED (2024)
 	},
 }
 
