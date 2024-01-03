@@ -28,6 +28,10 @@ const healthInsurance = {
 			name: 'Barmer',
 			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_BARMER }}/100,
 		},
+		dak: {
+			name: 'DAK',
+			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_DAK }}/100,
+		},
 		hkk: {
 			name: 'hkk',
 			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_HKK }}/100,

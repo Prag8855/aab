@@ -340,10 +340,11 @@ config.context_globals = {
 
     # Zusatzbeiträge
     "GKV_ZUSATZBEITRAG_AVERAGE": 1.7,
-    "GKV_ZUSATZBEITRAG_TK": 1.2,
     "GKV_ZUSATZBEITRAG_AOK": 2.7,
     "GKV_ZUSATZBEITRAG_BARMER": 2.19,
+    "GKV_ZUSATZBEITRAG_DAK": 1.7,
     "GKV_ZUSATZBEITRAG_HKK": 0.98,
+    "GKV_ZUSATZBEITRAG_TK": 1.2,
 
     # ==============================================================================
     # IMMIGRATION

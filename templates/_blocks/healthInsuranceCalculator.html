@@ -480,10 +480,20 @@
 				{% endraw %}{% include "_css/icons/health-insurance/logo-aok.svg" %}{% raw %}
 				<div>
 					<h3>AOK (Nordost)</h3>
-					<p>Another large public health insurer. There are different AOK branches for each part of Germany.</p>
+					<p>Another large public health insurer. They have branches for each part of Germany.</p>
 				</div>
 				<output>
 					<eur :amount="result.options.aok.total.personalContribution"></eur> <small>per month</small>
+				</output>
+			</a>
+			<a title="Sign up with DAK" href="/out/dak-calc" target="_blank">
+				{% endraw %}{% include "_css/icons/health-insurance/logo-dak.svg" %}{% raw %}
+				<div>
+					<h3>DAK</h3>
+					<p>Another large public health insurer.</p>
+				</div>
+				<output>
+					<eur :amount="result.options.dak.total.personalContribution"></eur> <small>per month</small>
 				</output>
 			</a>
 		</div>
