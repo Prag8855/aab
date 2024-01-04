@@ -17,4 +17,6 @@ Related_guides:
 
 You get a trade licence (*Gewerbeschein*) when you register your business at the trade office (*Gewerbeamt*). You usually need a *Gewerbeschein* to run a business.
 
+[![Example Gewerbeschein](/images/gewerbeschein.png)](/images/gewerbeschein.png "Example Gewerbeschein")
+
 **[How to get a Gewerbeschein in Berlin ➞](/guides/gewerbeschein)**
