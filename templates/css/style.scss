@@ -80,6 +80,12 @@ $width-main-column: 860px;
 	}
 }
 
+@mixin not-mouse {
+	@media (pointer: coarse) {
+		@content;
+	}
+}
+
 @mixin only-print {
 	@media print{
 		@content;
@@ -1447,7 +1453,10 @@ input[type=range] {
 		background: var(--c-highlight);
 		box-shadow: 0 2px 4px -3px var(--c-border-input-focused), inset 0 -4px 0px -2px #0001;
 		cursor: grab;
-
+		@include not-mouse{
+			width: var(--xxl);
+			height: var(--xxl);
+		}
 	}
 
 	&:active{

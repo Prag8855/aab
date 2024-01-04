@@ -70,9 +70,11 @@ You should also tell...
 - [ ] **The [[Ordnungsamt]]**  
     If you have a dog from a dangerous breed (pit-bull, American Staffordshire terrier, bullterrier), you must register it at the *[[Ordnungsamt]]* every time you move. If you live in Berlin, start [here](https://service.berlin.de/dienstleistung/326263/).
 - [ ] **The [Hunderegister](https://hunderegister.berlin.de/)**  
-    If you have a dog, you should update their address in the [*Hunderegister*](https://hunderegister.berlin.de/).
+    If you have a dog, update your address in the [*Hunderegister*](https://hunderegister.berlin.de/).
+- [ ] **The [[Ordnungsamt]]**  
+    If you have a business, and your business address changes, you must [tell the *Ordnungsamt*](/out/business-ummeldung).
 - [ ] **Your website**  
-    If you have a commercial website, update your [[Impressum]] with your new address.
+    If you have a commercial website, put your new address in your [[Impressum]].
 
 ## Forward your mail
 
