@@ -172,7 +172,6 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 - **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)** - Search all state-owned apartments
 - [Adler Group](https://www.adler-group.com/suche/wohnung)
-- [Akelius](https://rent.akelius.com/en/search/germany/apartment/berlin) - Big housing company with a bad reputation[^9]
 - [Charlottenburger Baugenossenschaft](https://charlotte1907.de/wohnungsangebote/woechentliche-angebote) - Housing cooperative
 - [Degewo](https://immosuche.degewo.de/de/search) - State-owned company
 - [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Big housing company
@@ -180,6 +179,7 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 - [Fortuna](https://www.fortuna-eg.de/wohnungsangebote/mietinformationen/)
 - [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html) - State-owned company
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned company
+- [Heimstaden](https://heimstaden.com/de/immobiliensuche-mietwohnungen-gewerbe/mietwohnungen-in-berlin/)
 - [Howoge](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html) - State-owned company
 - [Stadt und Land](https://www.stadtundland.de/) - State-owned company
 - [Vonovia](https://www.vonovia.de/en)
