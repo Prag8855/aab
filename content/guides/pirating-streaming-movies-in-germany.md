@@ -15,7 +15,7 @@ Downloading movies in Germany [is risky](https://www.dw.com/en/internet-pirates-
 
 When you torrent movies, your IP address is visible to others. Some law firms monitor torrents of famous movies, and collect the IP addresses of people who download them. If they see your IP address, they can ask your ISP to give them your real address. They can send you an *[[Abmahnung]]*: a formal request to **pay them between 500€ and 1,500€.**
 
-If you don't want to pay, you can hire a lawyer who will get your fee reduced to 100-300€. You must till pay the fine *and* your lawyer. In any case, it will be expensive for you. It's better if you don't get caught.
+If you don't want to pay, you can hire a lawyer who will get your fee reduced to 100-300€. You must still pay the fine *and* your lawyer. In any case, it will be expensive for you. It's better if you don't get caught.
 
 Usually, those **law firms go for the easy targets**. They will not try really hard to catch pirates. This is why you won't get prosecuted for using streaming sites, for example. It's just too much work. It's much easier to catch people who use torrents.
 
