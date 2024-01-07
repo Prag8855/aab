@@ -305,7 +305,7 @@ There are two types of self-employed people. They get a different kind of freela
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
 - [ ] **Translations**  
-    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
+    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking) or [Linguidoor](/out/linguidoor).
 
 If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
 
