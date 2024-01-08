@@ -224,7 +224,7 @@ Normally, you must buy a reduced price (*Ermäßigungstarif*) ticket for your do
 
 If you have a [[Deutschland Ticket]], you can bring a dog with you for free, but only in zones A, B and C. In the rest of Germany, the rules can be different.
 
-**[Having a dog in Berlin ➞](/guides/pet-ownership)**
+**[Having a dog in Berlin ➞](/guides/dog-ownership)**
 
 ## Bring other people for free
 

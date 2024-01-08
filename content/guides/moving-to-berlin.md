@@ -146,9 +146,9 @@ If you have children, you might need to send them to a daycare (*[[Kita]]*). It'
 
 **[How to find a Kita ➞](/guides/how-to-find-a-kita-in-berlin)**
 
-You can also bring your pets to Germany. If you bring your dog to Berlin, you must [microchip](/guides/pet-ownership#identification-badge-and-chip), [insure](/guides/pet-ownership#dog-liability-insurance) and [register](/guides/hundesteuer) it. You must also adjust to German dog culture.
+You can also bring your pets to Germany. If you bring your dog to Berlin, you must [microchip](/guides/dog-ownership#identification-chip), [insure](/guides/dog-ownership#dog-liability-insurance) and [register](/guides/dog-ownership#dog-register) it. You must also adjust to German dog culture.
 
-**[Dog ownership in Germany ➞](/guides/pet-ownership)**
+**[Guide for Berlin dog owners ➞](/guides/dog-ownership)**
 
 ### Get around in Berlin
 

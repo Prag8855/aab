@@ -43,7 +43,7 @@ Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) pays for the damage
 
 Dog liability insurance is **required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia**. Some states only require dog liability insurance for dangerous breeds.
 
-**[Having a dog in Germany ➞](/guides/pet-ownership)**
+**[Having a dog in Berlin ➞](/guides/dog-ownership)**
 
 Dog liability insurance costs around 5€ per month. You sometimes pay less if you combine private liability insurance and dog liability insurance.
 
@@ -85,7 +85,7 @@ The price of pet insurance depends on the age, race and sex of your dog. It cost
 
 If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/feather-pethealth) sell pet health insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare options.
 
-**[Having a dog in Germany ➞](/guides/pet-ownership)**
+**[Guide for Berlin dog owners ➞](/guides/dog-ownership)**
 
 ## Car insurance (Kfz-Versicherung)
 

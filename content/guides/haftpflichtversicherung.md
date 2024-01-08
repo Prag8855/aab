@@ -154,7 +154,7 @@ Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berl
 
 *Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance, and they speak English. Their insurance covers dangerous breeds.
 
-**[More about dog liability insurance ➞](/guides/pet-ownership#dog-liability-insurance)**
+**[More about dog liability insurance ➞](/guides/dog-ownership#dog-liability-insurance)**
 
 ### Liability insurance for drivers
 
@@ -178,7 +178,7 @@ There is private legal insurance (for you), and professional legal insurance (fo
 
 **No**. You are not required to have liability insurance, but it's a really good idea to have it. Most Germans have it.
 
-- **If you have a dog** in Berlin, Brandenburg, Hamburg, Lower Saxony or Thuringia, you must have [dog liability insurance](/guides/pet-ownership#dog-liability-insurance).
+- **If you have a dog** in Berlin, Brandenburg, Hamburg, Lower Saxony or Thuringia, you must have [dog liability insurance](/guides/dog-ownership#dog-liability-insurance).
 - **If you have a car or a motorcycle**, then you must have [vehicle insurance](/guides/car-insurance-germany). It includes liability insurance for when you are driving.
 - **In some professions**, you must have professional liability insurance.
 

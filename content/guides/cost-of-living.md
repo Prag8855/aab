@@ -122,7 +122,7 @@ If you have a dog, you must pay for dog food, [liability insurance](/glossary/Hu
 
 The dog tax is 120€ to 180€ per year. Dog liability insurance is required, and it costs around 5€ per month. Pet health insurance is optional, and it costs around 20€ per month. You can see the price of dog food [here](https://www.fressnapf.de/c/hund/hundefutter/trockenfutter/).
 
-**[Owning a dog in Germany ➞](/guides/pet-ownership)**
+**[Having a dog in Berlin ➞](/guides/dog-ownership)**
 
 ## One time expenses
 
