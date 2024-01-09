@@ -15,6 +15,8 @@ The Schufa report shows your Schufa score (*Basisscore*). The Schufa score is **
 
 If you are new in Germany, you might not have a Schufa score yet. Schufa has no information about you. You get a score when you [open a bank account](/guides/first-bank-account-in-germany) or a get a mobile phone contract for the first time.[^0]
 
+[![Example Schufa certificate](/images/schufa-example.png "Example Schufa certificate")](/images/schufa-example.png)
+
 ## Why you need a Schufa
 
 You might need it **to apply for an apartment** or to get a loan. Most landlords require a Schufa report.[^7] Applications without a Schufa are often ignored. Your Schufa should be less than 2 months old.[^8]
