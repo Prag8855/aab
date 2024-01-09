@@ -6,7 +6,7 @@ Description: A registration certificate (Anmeldebestätigung or Meldebestätigun
 Date_created: 2018-07-31
 Related_guides:
     guides/first-bank-account-in-germany.md
-    guides/free-schufa-berlin.md
+    guides/schufa.md
     guides/an-honest-review-of-n26.md
     guides/getting-married-in-germany.md
     guides/freelance-visa.md

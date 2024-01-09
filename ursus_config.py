@@ -539,6 +539,9 @@ config.context_globals = {
 
     # (€) - https://service.berlin.de/dienstleistung/327537/
     "DRIVING_LICENCE_CONVERSION_FEE": 36.30,
+
+    # (€) - https://www.meineschufa.de/de/datenkopie, https://bonitaetscheck.immobilienscout24.de/
+    "SCHUFA_REPORT_FEE": 29.95,
 }
 
 config.logging = {

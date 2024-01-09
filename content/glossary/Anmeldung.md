@@ -6,7 +6,7 @@ Description: When you register your new address at the Bürgeramt
 Date_created: 2017-10-06
 Related_guides:
     guides/first-bank-account-in-germany.md
-    guides/free-schufa-berlin.md
+    guides/schufa.md
     guides/an-honest-review-of-n26.md
     guides/berlin-burgeramt-appointment.md
     guides/find-a-flat-in-berlin.md

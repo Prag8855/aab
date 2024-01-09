@@ -8,7 +8,7 @@ Related_guides:
     guides/insurance.md
     guides/saving-money-germany.md
     guides/exchange-coins-berlin.md
-    guides/free-schufa-berlin.md
+    guides/schufa.md
     guides/english-speaking-steuerberater-berlin.md
     guides/german-tax-software.md
     guides/an-honest-review-of-n26.md

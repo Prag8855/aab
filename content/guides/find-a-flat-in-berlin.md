@@ -368,7 +368,7 @@ Only send documents after you see the apartment. Remove bank account numbers, pa
 You need these documents to apply for an apartment:
 
 - [ ] **[[Schufa]] report**  
-    This is like a credit report. You can [get one for free](/guides/free-schufa-berlin). If you are new in Germany, your *[[Schufa]]* is empty. You can bring a work contract or a tax return, to prove that you make enough money. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
+    This is like a credit report. You can [get one for free](/guides/schufa). If you are new in Germany, your *[[Schufa]]* is empty. You can bring a work contract or a tax return, to prove that you make enough money. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
 - [ ] **Passport or [[Personalausweis]]**  
     You must show it when you apply for the apartment. Bring photocopies of your ID, just in case.
 - [ ] **Proof of income**  
