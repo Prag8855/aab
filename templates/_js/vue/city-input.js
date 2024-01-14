@@ -4,7 +4,7 @@ Vue.component('city-input', {
 	props: ['value'],
 	template: `
 		<input
-			title="city"
+			title="City"
 			placeholder="Berlin"
 			type="text"
 			autocomplete="address-level2"

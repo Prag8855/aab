@@ -14,7 +14,7 @@
 		<h2>Your new address</h2>
 		<p>Where are you moving? Enter the address that you want to register.</p>
 		<hr>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('newAddress')">Street address</label>
 			<input
 				:id="uid('newAddress')"
@@ -22,14 +22,15 @@
 				type="text"
 				v-model="newAddress"
 				placeholder="Neue Straße 123"
-				autocomplete="address-line1">
+				autocomplete="address-line1"
+				required>
 		</div>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('newPostCode')">
 				<glossary term="Postleitzahl">Post code</glossary> and city
 			</label>
 			<div class="input-group">
-				<postalcode-input class="show-errors" :id="uid('newPostCode')" v-model="newPostCode"></postalcode-input>
+				<postalcode-input ref="newPostCodeInput" :id="uid('newPostCode')" v-model="newPostCode" required></postalcode-input>
 				Berlin
 			</div>
 		</div>
@@ -45,9 +46,9 @@
 			<a class="input-instructions" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details ➞</a>
 		</div>
 		<hr>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('moveInDate') + '-day'">Move-in date</label>
-			<date-picker v-model="moveInDate" :id="uid('moveInDate')" :aria-describedby="uid('moveInDate-instructions')"></date-picker>
+			<date-picker v-model="moveInDate" :id="uid('moveInDate')" :aria-describedby="uid('moveInDate-instructions')" required></date-picker>
 			<span class="input-instructions">Use the same date as on your <em><glossary>Wohnungsgeberbestätigung</glossary></em>.</span>
 		</div>
 	</template>
@@ -55,33 +56,34 @@
 		<h2>Your previous address</h2>
 		<p>Where did you live before? Your old address be deregistered automatically.</p>
 		<hr>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('oldCountry')">Country</label>
-			<select ref="oldAddressCountryInput" v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name">
+			<select ref="oldAddressCountryInput" v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name" required>
 				<option disabled hidden default value="">Country of your previous address</option>
-				<option v-for="country in recommendedCountries">{{ country }}</option>
+				<option :value="country" v-for="country in recommendedCountries" :key="country">{{ country }}</option>
 				<option disabled>──────────</option>
-				<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
+				<option :value="country[1]" v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
 			</select>
-			<span :id="uid('oldCountry-instructions')" class="input-instructions" v-if="oldCountry && oldCountry !== 'Germany'">You don't need to share your foreign address.</span>
+			<span v-if="oldCountry && oldCountry !== 'Germany'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
 		</div>
 		<template v-if="oldCountry === 'Germany'">
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('oldAddress')">Street address</label>
 				<input
 					:id="uid('oldAddress')"
 					type="text"
 					v-model="oldAddress"
 					placeholder="Alte Straße 12"
-					autocomplete="address-line1">
+					autocomplete="address-line1"
+					required>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('oldPostCode')">
 					<glossary term="Postleitzahl">Post code</glossary> and city
 				</label>
 				<div class="input-group">
-					<postalcode-input class="show-errors" :id="uid('oldPostCode')" v-model="oldPostCode"></postalcode-input>
-					<city-input v-model="oldCity"></city-input>
+					<postalcode-input :id="uid('oldPostCode')" v-model="oldPostCode" required></postalcode-input>
+					<city-input v-model="oldCity" required></city-input>
 				</div>
 			</div>
 			<div class="form-group">
@@ -93,11 +95,11 @@
 					placeholder="Haus B, 2. Etage rechts"
 					autocomplete="address-line2">
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('state')">
 					State
 				</label>
-				<select :id="uid('state')" v-model="oldState">
+				<select :id="uid('state')" v-model="oldState" required>
 					<option value="be">Berlin</option>
 					<option disabled>──────────</option>
 					<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr" v-if="!abbr.startsWith('be-')">{{ state.englishName }}</option>
@@ -118,7 +120,7 @@
 					placeholder="Dr." 
 					class="anrede-input">
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
 					<input type="text"
@@ -128,13 +130,15 @@
 						placeholder="Alex"
 						autocomplete="given-name"
 						title="First name"
-						class="first-name-input">
+						class="first-name-input"
+						required>
 					<input type="text"
 						v-model="person.lastName"
 						placeholder="Smith"
 						autocomplete="family-name"
 						title="Last name"
-						class="last-name-input">
+						class="last-name-input"
+						required>
 					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
 				</div>
 			</div>
@@ -148,36 +152,37 @@
 					placeholder="Alex Gagnon">
 				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<span class="label">Gender</span>
 				<div class="input-group">
 					<label class="checkbox">
-						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Männlich">
+						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Männlich" required>
 						Male
 					</label>
 					<label class="checkbox">
-						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Weiblich">
+						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Weiblich" required>
 						Female
 					</label>
 					<label class="checkbox">
-						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Divers">
+						<input type="radio" :name="uid('gender-' + person.id)" v-model="person.gender" value="Divers" required>
 						Other
 					</label>
 				</div>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
 				<input type="text"
 				  placeholder="Canada"
 				  autofill="country-name"
 				  :id="uid('nationality-' + person.id)"
 				  :list="uid('countries')"
-				  v-model="person.nationality">
+				  v-model="person.nationality"
+				  required>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<div class="input-group">
-					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)">
+					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)" required>
 						<option value="Evangelische Kirche">Evangelical Church</option>
 						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
 						<option value="Jüdische Gemeinde">Jewish Community</option>
@@ -189,22 +194,24 @@
 					<span :id="uid('religion-instructions-' + person.id)" class="input-instructions">Members of some religions must pay the <glossary term="Kirchensteuer">church tax</glossary>.</span>
 				</div>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
 				<date-picker
 					:key="person.id"
 					:id="uid('dateOfBirth-' + person.id)"
 					v-model="person.dateOfBirth"
-					autocomplete="bday"></date-picker>
+					autocomplete="bday"
+					required></date-picker>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
 				<input
 					type="text"
 					v-model="person.birthPlace"
 					:id="uid('birthPlace-' + person.id)"
 					:aria-describedby="uid('birthPlace-instructions-' + person.id)"
-					placeholder="Montreal, Quebec, Canada">
+					placeholder="Montreal, Quebec, Canada"
+					required>
 				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The city, region and country where you were born.</span>
 			</div>
 		</template>
@@ -222,9 +229,9 @@
 			</label>
 		</div>
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
-		<div class="form-group" v-if="!namesAreOnMailbox">
+		<div class="form-group required" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
-			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller">
+			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller" required>
 		</div>
 	</template>
 	<template v-if="stage === 'idDocuments'">
@@ -233,22 +240,22 @@
 		<template v-for="(person, index) in people">
 			<hr>
 			<h3 v-if="people.length > 1">ID document for {{ personName(person, index + 1) }}</h3>
-			<div class="form-group">
+			<div class="form-group required">
 				<span class="label">
 					Document type
 				</span>
 				<div class="input-group">
 					<label class="checkbox">
-						<input type="radio" ref="documentTypePassportCheckbox" :name="uid('documentType-' + person.id)" v-model="person.documentType" value="RP">
+						<input type="radio" ref="documentTypePassportCheckbox" :name="uid('documentType-' + person.id)" v-model="person.documentType" value="RP" required>
 						Passport
 					</label>
 					<label class="checkbox">
-						<input type="radio" :name="uid('documentType-' + person.id)" v-model="person.documentType" value="PA">
-						German ID card
+						<input type="radio" :name="uid('documentType-' + person.id)" v-model="person.documentType" value="PA" required>
+						EU national ID (<em><glossary>Personalausweis</glossary></em>)
 					</label>
 				</div>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('documentType-' + person.id)">
 					{{ person.documentType === 'RP' ? 'Passport' : 'ID card' }} number
 				</label>
@@ -257,25 +264,26 @@
 					ztype="text"
 					v-model="person.documentNumber"
 					:id="uid('documentType-' + person.id)"
-					:placeholder="person.documentType === 'RP' ? 'AB12345678' : 'A12B34C56'">
+					:placeholder="person.documentType === 'RP' ? 'AB12345678' : 'A12B34C56'"
+					required>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('documentIssueDate-' + person.id) + '-day'">Date issued</label>
-				<date-picker :key="person.id" :id="uid('documentIssueDate-' + person.id)" v-model="person.documentIssueDate"></date-picker>
+				<date-picker :key="person.id" :id="uid('documentIssueDate-' + person.id)" v-model="person.documentIssueDate" required></date-picker>
 			</div>
-			<div class="form-group" v-if="person.documentType === 'PA'">
+			<div class="form-group required" v-if="person.documentType === 'PA'">
 				<label :for="uid('documentIssuingAuthority-' + person.id)">Issuing authority</label>
-				<input type="text" placeholder="Berlin" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority">
+				<input type="text" placeholder="Berlin" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority" required>
 				<span class="input-instructions" >It's written on the back of your ID card.</span>
 			</div>
-			<div class="form-group" v-if="person.documentType !== 'PA'">
+			<div class="form-group required" v-if="person.documentType !== 'PA'">
 				<label :for="uid('documentIssuingAuthority-' + person.id)">Issuing authority</label>
-				<input type="text" placeholder="Ottawa" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority">
+				<input type="text" placeholder="Ottawa" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority" required>
 				<span class="input-instructions" v-if="person.documentType !== 'PA'">It's written in your passport, on the photo page.</span>
 			</div>
-			<div class="form-group">
+			<div class="form-group required">
 				<label :for="uid('documentExpirationDate-' + person.id) + '-day'">Expiration date</label>
-				<date-picker :key="person.id" :id="uid('documentExpirationDate-' + person.id)" v-model="person.documentExpirationDate"></date-picker>
+				<date-picker :key="person.id" :id="uid('documentExpirationDate-' + person.id)" v-model="person.documentExpirationDate" required></date-picker>
 			</div>
 		</template>
 	</template>
@@ -331,10 +339,13 @@
 	<hr>
 	<div class="buttons">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
-		<button v-if="stageIndex > 1" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
-		<button v-if="stageIndex > 0 && stageIndex < stages.length - 2" class="button primary" @click="stageIndex += 1">Continue <i class="icon right" aria-hidden="true"></i></button>
-		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="stageIndex += 1">Finish</button>
+		<button
+			v-if="stageIndex > 0 && stageIndex < stages.length - 2"
+			class="button primary"
+			@click="nextStage">Continue <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="nextStage">Finish</button>
 	</div>
 {% endraw %}
 </collapsible>
@@ -404,6 +415,11 @@
 				},
 			},
 			methods: {
+				nextStage(){
+					if(validateForm(this.$el)){
+						this.stageIndex += 1;
+					}
+				},
 				addPerson(){
 					this.people.push({
 						id: Math.floor(Math.random() * 10000),
@@ -562,7 +578,13 @@
 							inputToFocus.focus();
 						}
 					});
-				}
+				},
+				newPostCode(newVal) {
+					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
+					try{
+						this.$refs.newPostCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
+					} catch (e) {}
+				},
 			},
 			created() {
 				this.addPerson();
