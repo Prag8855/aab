@@ -3,11 +3,7 @@ from ..test_data import people
 from ..anmeldung_form import fill_anmeldung_form_until
 
 
-def test_download_button(page):
-    fill_anmeldung_form_until(page, 'options')
-
-
-def test_download_button_multiple_people(page):
+def test_download_buttons(page):
     fill_anmeldung_form_until(page, 'options', multiple_people=True)
 
     download_1 = page.get_by_role("button", name="Download your Anmeldung form (part 1)")
@@ -20,3 +16,25 @@ def test_download_button_multiple_people(page):
 
     download_3 = page.get_by_role("button", name="Download your Anmeldung form (part 3)")
     expect(download_3).to_contain_text(people[4]['first_name'])
+
+    with page.expect_download() as download_info:
+        # Perform the action that initiates download
+        download_1.click()
+        download = download_info.value
+        assert download.suggested_filename == 'anmeldung-form-filled.pdf'
+
+    with page.expect_download() as download_info:
+        # Perform the action that initiates download
+        download_2.click()
+        download = download_info.value
+        assert download.suggested_filename == 'anmeldung-form-filled.pdf'
+
+    with page.expect_download() as download_info:
+        # Perform the action that initiates download
+        download_3.click()
+        download = download_info.value
+        assert download.suggested_filename == 'anmeldung-form-filled.pdf'
+
+    expect(download_1).not_to_be_disabled()
+    expect(download_2).not_to_be_disabled()
+    expect(download_3).not_to_be_disabled()
