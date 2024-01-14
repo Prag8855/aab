@@ -18,7 +18,7 @@ const pdf = {
 
 		Object.entries(textFields || {}).forEach(([fieldName, value]) => {
 			const field = pdfForm.getTextField(fieldName);
-			field.setFontSize(9);
+			field.setFontSize(8);
 			field.setText(value);
 			field.setAlignment(0); // Left
 		});

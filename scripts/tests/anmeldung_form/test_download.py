@@ -18,22 +18,25 @@ def test_download_buttons(page):
     expect(download_3).to_contain_text(people[4]['first_name'])
 
     with page.expect_download() as download_info:
-        # Perform the action that initiates download
         download_1.click()
+        expect(download_1).to_be_disabled()
         download = download_info.value
         assert download.suggested_filename == 'anmeldung-form-filled.pdf'
+        download.save_as("/Users/nicolas/Downloads/anmeldung-1.pdf")
 
     with page.expect_download() as download_info:
-        # Perform the action that initiates download
         download_2.click()
+        expect(download_2).to_be_disabled()
         download = download_info.value
         assert download.suggested_filename == 'anmeldung-form-filled.pdf'
+        download.save_as("/Users/nicolas/Downloads/anmeldung-2.pdf")
 
     with page.expect_download() as download_info:
-        # Perform the action that initiates download
         download_3.click()
+        expect(download_3).to_be_disabled()
         download = download_info.value
         assert download.suggested_filename == 'anmeldung-form-filled.pdf'
+        download.save_as("/Users/nicolas/Downloads/anmeldung-3.pdf")
 
     expect(download_1).not_to_be_disabled()
     expect(download_2).not_to_be_disabled()
