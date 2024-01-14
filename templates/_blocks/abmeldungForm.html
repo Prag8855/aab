@@ -6,32 +6,13 @@
 	</template>
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
-		<div class="collapsible-options">
-			<button @click="stageIndex += 1;">
-				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
-				<div>
-					<h3>Fill the form and send it yourself</h3>
-					<p>Fill the Anmeldung form online, print it, and email it to your Bürgeramt.</p>
-				</div>
-				<output>
-					<span>Free</span>
-				</output>
-			</button>
-			<a href="/out/deregistrationde-abmeldung" target="_blank">
-				{% endraw %}{% include "_css/icons/online.svg" %}{% raw %}
-				<div>
-					<h3 :id="uid('h-btnOnline')">Do your Abmeldung online</h3>
-					<p>Let Deregistration.de do it. Get your deregistration certificate by email when it's ready.</p>
-				</div>
-				<output>
-					<eur :amount="digitalAbmeldungFee"></eur>
-				</output>
-			</a>
-		</div>
+		{% endraw %}{% image 'documents/abmeldung-original.pdf', alt="German document preview", sizes="300px" %}{% raw %}
+		<p>This tools helps you <strong>fill the <glossary>Abmeldung</glossary> form</strong> in 3 minutes. You can save the completed form, print it, and bring it to your <glossary>Bürgeramt</glossary> appointment.</p>
+		<p>Your personal information stays on your computer. No one else can see it.</p>
 	</template>
 	<template v-if="stage === 'oldAddress'">
 		<h2>Your old address</h2>
-		<p>Where did you live? Enter the address to deregister.</p>
+		<p>Where did you live? Enter the address that you want to deregister.</p>
 		<hr>
 		<div class="form-group required">
 			<label :for="uid('oldAddress')">Street address</label>
@@ -71,7 +52,7 @@
 		</div>
 	</template>
 	<template v-if="stage === 'newAddress'">
-		<h2>Your new address</h2>
+		<h2>Your next address</h2>
 		<p>Where will you live after you leave Germany?</p>
 		<hr>
 		<div class="form-group required">
@@ -199,7 +180,8 @@
 					:key="person.id"
 					:id="uid('dateOfBirth-' + person.id)"
 					v-model="person.dateOfBirth"
-					autocomplete="bday" required></date-picker>
+					autocomplete="bday"
+					required></date-picker>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
@@ -272,13 +254,13 @@
 			</a>
 		</div>
 	</template>
-	<hr v-if="stage !== 'start'">
-	<div class="buttons" v-if="stage !== 'start'">
+	<hr>
+	<div class="buttons">
+		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
-		<button v-if="stageIndex === 1" class="button primary" @click="nextStage">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button
-			v-if="stageIndex > 1 && stageIndex < stages.length - 2"
+			v-if="stageIndex > 0 && stageIndex < stages.length - 2"
 			class="button primary"
 			:disabled="!stageIsComplete"
 			@click="nextStage">Continue <i class="icon right" aria-hidden="true"></i></button>
@@ -289,7 +271,6 @@
 {% include '_js/countries.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/city-input.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
@@ -324,6 +305,13 @@
 					recommendedCountries: new Set(
 						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
 					),
+					stages: [
+						'start',
+						'oldAddress',
+						'newAddress',
+						'addPeople',
+						'offlineFinish',
+					],
 					stageIndex: 0,
 					downloadInProgress: false,
 					pdfUrl: '/documents/abmeldung-original.pdf',
@@ -335,15 +323,6 @@
 						return this.newCountry !== 'Germany';
 					}
 					return true;
-				},
-				stages() {
-					return [
-						'start',
-						'oldAddress',
-						'newAddress',
-						'addPeople',
-						'offlineFinish',
-					];
 				},
 				stage(){
 					return this.stages[this.stageIndex];
