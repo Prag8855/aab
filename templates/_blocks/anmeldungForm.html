@@ -453,15 +453,17 @@
 				async generatePDF(person1, person2){
 					this.downloadInProgress = true;
 
-					let oldStateName = germanStates[this.oldState] ? germanStates[this.oldState].germanName : '';
+					// The full state name can be too long. Just use the abbreviation.
+					let oldStateName = this.oldState.substring().slice(0,2).toUpperCase();
+
 					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
 					const textFields = {
 						'Tag des EinzugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
 						'Tag des AuszugsRow1': this.formattedDate(this.moveInDate, 'de-DE'),
 						'Straße Hausnummer ZusätzeRow1': this.mergeFields([this.newAddress, this.newBuildingDetails, beiAddress]),
 						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([this.newPostCode, 'Berlin']),
-						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([this.oldAddress, this.oldBuildingDetails, oldStateName]),
-						'Postleitzahl GemeindeKreisLandRow1': this.mergeFields([this.oldPostCode, this.oldCity]),
+						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([this.oldAddress, this.oldBuildingDetails]),
+						'Postleitzahl GemeindeKreisLandRow1': this.mergeFields([this.oldPostCode, this.oldCity, oldStateName]),
 						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'Germany' ? '' : this.oldCountry,
 					};
 					const checkboxFields = {
