@@ -2738,7 +2738,7 @@ details{
 			text-align: center;
 			span{
 				@include heading;
-				font-size: var(--xl);
+				font-size: var(--l);
 			}
 			@include not-phone{
 				small{

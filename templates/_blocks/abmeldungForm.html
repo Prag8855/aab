@@ -2,74 +2,32 @@
 {% raw %}
 	<template v-slot:header>
 		<small>Abmeldung</small>
-		Deregister your address online
+		Deregister your address
 	</template>
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
 		<div class="collapsible-options">
-			<button @click="finishOnline = true; stageIndex += 1;" :aria-labelledby="uid('h-btnOnline')">
-				{% endraw %}{% include "_css/icons/online.svg" %}{% raw %}
-				<div>
-					<h3 :id="uid('h-btnOnline')">Do your Abmeldung online</h3>
-					<p>Deregister in 5 minutes, get your Abmeldung certificate by email.</p>
-				</div>
-				<output>
-					<eur :amount="fee"></eur>
-				</output>
-			</button>
-			<button @click="finishOnline = false; stageIndex += 1;">
+			<button @click="stageIndex += 1;">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
 					<h3>Fill the form and send it yourself</h3>
-					<p>Fill the form online, print it, and send it to the Bürgeramt.</p>
+					<p>Fill the Anmeldung form online, print it, and email it to your Bürgeramt.</p>
 				</div>
 				<output>
-					Free
+					<span>Free</span>
 				</output>
 			</button>
+			<a href="/out/deregistrationde-abmeldung" target="_blank">
+				{% endraw %}{% include "_css/icons/online.svg" %}{% raw %}
+				<div>
+					<h3 :id="uid('h-btnOnline')">Do your Abmeldung online</h3>
+					<p>Let Deregistration.de do it. Get your deregistration certificate by email when it's ready.</p>
+				</div>
+				<output>
+					<eur :amount="digitalAbmeldungFee"></eur>
+				</output>
+			</a>
 		</div>
-	</template>
-	<template v-if="stage === 'howThisWorks' && finishOnline">
-		<h2>How this works</h2>
-		<ol>
-			<li>
-				Answer a few questions. It takes 3 minutes.
-			</li>
-			<li>
-				Pay <eur :amount="fee"></eur> with a credit card, PayPal, Apple Pay or Google Pay.
-			</li>
-			<li>
-				I deregister your address for you.
-			</li>
-			<li>
-				When I receive your <glossary term="Abmeldebescheinigung">Abmeldung certificate</glossary>, I email it to you.
-			</li>
-		</ol>
-		<details class="input-instructions">
-			<summary>How I protect your privacy</summary>
-			<p>This form asks many personal questions. I use your answers to fill your Abmeldung form.</p>
-			<p>Your personal information stays in your browser. On the last step, you can upload it to All About Berlin's server.</p>
-			<p>When your Abmeldung is done, your personal information is automatically deleted.</p>
-			<p>Your personal information is only used for your Abmeldung. It is not shared with anyone else. I will not email you for any other reason.</p>
-		</details>
-	</template>
-	<template v-if="stage === 'howThisWorks' && !finishOnline">
-		<h2>How this works</h2>
-		<ol>
-			<li>
-				Answer a few questions. It takes 3 minutes.
-			</li>
-			<li>
-				Download the filled Abmeldung form, print it and sign it.
-			</li>
-			<li>
-				Send your Abmeldung documents to your Bürgeramt.
-			</li>
-			<li>
-				Receive your <glossary term="Abmeldebescheinigung">Abmeldung certificate</glossary> by mail. This does not always work.
-			</li>
-		</ol>
-		<p>You can also <a href="#" @click.prevent="finishOnline = true">do your Abmeldung online</a> for <eur :amount="fee"></eur>. It's faster and more reliable.</p>
 	</template>
 	<template v-if="stage === 'oldAddress'">
 		<h2>Your old address</h2>
@@ -150,7 +108,7 @@
 	</template>
 	<template v-if="stage === 'addPeople'">
 		<h2>Who is deregistering?</h2>
-		<p>I use this information to fill your Abmeldung form. Enter the same information as on your <em><glossary term="Anmeldebestätigung">Anmeldebestätigung</glossary></em>.</p>
+		<p>Enter the same information as on your <em><glossary term="Anmeldebestätigung">Anmeldebestätigung</glossary></em>.</p>
 		<template v-for="(person, index) in people">
 			<hr>
 			<h3 v-if="people.length > 1">
@@ -260,44 +218,10 @@
 		<div class="form-group required">
 			<label :for="uid('email')">Your email</label>
 			<input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">
-			<span v-if="finishOnline" class="input-instructions">I will send your <glossary term="Abmeldebescheinigung">Abmeldung certificate</glossary> to this email address.</span>
 		</div>
 		<datalist :id="uid('countries')">
 			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
 		</datalist>
-	</template>
-	<template v-if="stage === 'permission'">
-		<h2>Give your permission</h2>
-		<div class="form-group required no-label">
-			<div class="input-group vertical">
-				<label class="checkbox">
-					<input type="checkbox" v-model="hasPermissionToDeregister" ref="basicPermissionCheckbox" required>
-					I allow All About Berlin to deregister my address at the Bürgeramt.
-				</label>
-				<label class="checkbox">
-					<input type="checkbox" v-model="hasPermissionToProcessData" ref="basicPermissionCheckbox" required>
-					I allow All About Berlin to process my data for this purpose.
-				</label>
-			</div>
-		</div>
-		<signature required :width="530" :height="70" :padding-x="20" :padding-y="50" v-model="signatureData" @signature="onSignature"></signature>
-		<details class="input-instructions">
-			<summary>Why I need your signature</summary>
-			<p>Your signature is for the Abmeldung form and the <em><glossary>Vollmacht</glossary></em>. You can review these documents before you finish.</p>
-		</details>
-	</template>
-	<template v-if="stage === 'documents'">
-		<h2>Add your ID documents</h2>
-		<p>The <glossary>Bürgeramt</glossary> must verify your identity. Add a photo of your passport or <em><glossary>Personalausweis</glossary></em>.</p>
-		<hr>
-		<file-input ref="documentInput" accept="image/png,image/jpeg,.pdf" type="documents" v-model="identificationDocuments">
-			{% endraw %}{% include "_css/icons/id.svg" %}{% raw %}
-			Add a photo of {{ people.length > 1 ? "everyone's ID documents" : "your ID document" }}.
-		</file-input>
-	</template>
-	<template v-if="stage === 'onlineFinish'">
-		<h2>One last thing</h2>
-		<p>Your documents are ready. Pay the <eur :amount="fee"></eur> fee to finish your Abmeldung.</p>
 	</template>
 	<template v-if="stage === 'offlineFinish'">
 		<h2>You are almost done!</h2>
@@ -318,7 +242,7 @@
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
 					<h3>Download the filled form</h3>
-					<p>Print and sign this form, then send it to the <em>Bürgeramt</em>.</p>
+					<p>Print this form, sign it, then send it to the <em>Bürgeramt</em>.</p>
 				</div>
 			</button>
 		</div>
@@ -342,8 +266,8 @@
 			<a href="/out/deregistrationde-abmeldung" target="_blank">
 				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
 				<div>
-					<h3>Let someone else do it</h3>
-					<p>Pay someone to deregister your address. They can also cancel TV tax and other services.</p>
+					<h3>Pay someone to do it</h3>
+					<p>Let someone deregister your address. It's easier, and you get your deregistration certificate by email..</p>
 				</div>
 			</a>
 		</div>
@@ -359,7 +283,6 @@
 			:disabled="!stageIsComplete"
 			@click="nextStage">Continue <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="nextStage">Finish</button>
-		<a v-if="stage === 'onlineFinish'" class="button primary" :href="paymentUrl">Pay and finish</a>
 	</div>
 {% endraw %}
 </collapsible>
@@ -374,7 +297,6 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
-{% include '_js/vue/signature.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
@@ -386,7 +308,6 @@
 				return {
 					trackAs: 'Abmeldung form',
 
-					finishOnline: false,
 					moveOutDate: '',
 					oldAddress: '',
 					oldBuildingDetails: '',
@@ -397,14 +318,8 @@
 					people: [],
 					emailAddress: '',
 					userId: 'allaboutberlin-' + Math.floor(Math.random() * 1000000).toString(36),
-					identificationDocuments: [],
-					hasPermissionToDeregister: false,
-					hasPermissionToProcessData: false,
 
-					signatureData: null, // List of points
-					signatureBlob: null, // PNG blob of the signature
-
-					fee: {{ DIGITAL_ABMELDUNG_FEE }},
+					digitalAbmeldungFee: {{ DIGITAL_ABMELDUNG_FEE }},
 					sortedCountryList: countries.getSortedList(),
 					recommendedCountries: new Set(
 						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
@@ -416,30 +331,14 @@
 			},
 			computed: {
 				stageIsComplete(){
-					if(this.stage === 'documents'){
-						return this.identificationDocuments.length > 0;
-					}
-					else if(this.stage === 'newAddress'){
+					if(this.stage === 'newAddress'){
 						return this.newCountry !== 'Germany';
 					}
 					return true;
 				},
 				stages() {
-					if(this.finishOnline){
-						return [
-							'start',
-							'howThisWorks',
-							'oldAddress',
-							'newAddress',
-							'addPeople',
-							'documents',
-							'permission',
-							'onlineFinish',
-						];
-					}
 					return [
 						'start',
-						'howThisWorks',
 						'oldAddress',
 						'newAddress',
 						'addPeople',
@@ -465,9 +364,6 @@
 				},
 			},
 			methods: {
-				onSignature($event) {
-					this.signatureBlob = $event;
-				},
 				nextStage(){
 					if(validateForm(this.$el)){
 						this.stageIndex += 1;
@@ -558,32 +454,8 @@
 
 					const pdfDoc = await PDFLib.PDFDocument.load(this.pdfBytes);
 
-					// TODO: Broken
-					await this.addSignature(pdfDoc, this.signatureBlob);
 					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, 'abmeldung-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
-				},
-				async addSignature(pdfDoc, signatureBlob) {
-					const arrayBuffer = await signatureBlob.arrayBuffer();
-					const pngImage = await pdfDoc.embedPng(arrayBuffer);
-					const page = pdfDoc.getPage(0)
-					await page.drawImage(pngImage, {
-						x: 315,
-						y: 10,
-						width: 260,
-						height: 77,
-					});
-				},
-				async addSignature(pdfDoc, signatureBlob) {
-					const arrayBuffer = await signatureBlob.arrayBuffer();
-					const pngImage = await pdfDoc.embedPng(arrayBuffer);
-					const page = pdfDoc.getPage(0)
-					await page.drawImage(pngImage, {
-						x: 315,
-						y: 10,
-						width: 260,
-						height: 77,
-					});
 				},
 			},
 			watch: {
@@ -591,13 +463,9 @@
 					Vue.nextTick(() => {
 						const inputToFocus = {
 							start: () => this.$refs.startButton,
-							howThisWorks: () => null,
 							oldAddress: () => this.$refs.oldAddressInput,
 							newAddress: () => this.$refs.newAddressInput,
 							addPeople: () => this.$refs.firstNameInput[0],
-							permission: () => this.$refs.basicPermissionCheckbox,
-							documents: () => this.$refs.documentInput.$refs.button,
-							onlineFinish: () => null,
 							offlineFinish: () => null,
 						}[this.stages[newStageIndex]]();
 
