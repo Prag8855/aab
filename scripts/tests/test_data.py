@@ -85,7 +85,7 @@ people = [
             "country": "Germany",
         },
         "id_document": {
-            "type": ["German ID card", "PA"],
+            "type": ["EU national ID", "PA"],
             "number": "D123456789",
             "authority": "Brandenburg",
             "issue_date": ["2025", "01", "01"],

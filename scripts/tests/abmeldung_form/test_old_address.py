@@ -10,7 +10,7 @@ def test_data_remembered(page):
     next_step(page)
     previous_step(page)
 
-    address = people[0]['local_address_2']
+    address = people[0]['local_address']
     expect(page.get_by_label("Street address")).to_have_value(address['street'])
     expect(page.get_by_label("Post code")).to_have_value(address['post_code'])
     expect(page.get_by_label("Building details")).to_have_value(address['zusatz'])
