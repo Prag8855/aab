@@ -17,7 +17,10 @@ const pdf = {
 		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 20 });
 
 		Object.entries(textFields || {}).forEach(([fieldName, value]) => {
-			pdfForm.getTextField(fieldName).setText(value);
+			const field = pdfForm.getTextField(fieldName);
+			field.setFontSize(9);
+			field.setText(value);
+			field.setAlignment(0); // Left
 		});
 		Object.entries(checkboxFields || {}).forEach(([fieldName, value]) => {
 			if(value){
@@ -27,6 +30,7 @@ const pdf = {
 				pdfForm.getCheckBox(fieldName).uncheck(value);
 			}
 		});
+
 
 		const blob = new Blob(
 			[new Uint8Array(await pdfDoc.save())],
