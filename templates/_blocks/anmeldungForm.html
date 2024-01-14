@@ -450,7 +450,7 @@
 				formattedDate(date, locale) {
 					if(date) {
 						return (new Date(date)).toLocaleDateString(locale, {
-							year: '2-digit',
+							year: 'numeric',
 							month: 'numeric',
 							day: 'numeric',
 						});
