@@ -146,7 +146,7 @@ Use these apps to find a dog sitter:
 
 ## Finding an apartment with a dog
 
-It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows dogs.[^12] Around 20% of apartments explicitly allow dogs. You need the landlord's permission to keep a dog in the apartment.[^13] The landlord can refuse tenants with dogs.[^14]
+It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows dogs.[^12] It's even harder with big dogs.[^14] Landlords can't ban all dogs, but they just give the apartment to someone else. Most of the time, you need the landlord's permission to have a dog.[^13]
 
 **[How to find an apartment in Berlin ➞](/guides/find-a-flat-in-berlin)**
 
@@ -162,9 +162,9 @@ It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows do
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/fvq6crb/?utm_source=reddit&utm_medium=web2x&context=3)
 [^10]: [§15 HungeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016pP15)
 [^11]: [zooplus.de](https://www.zooplus.de/magazin/hund/hundesport-spiel/hundestraende), [ostsee24.de](https://www.ostsee24.de/ostsee-urlaub/urlaub-mit-hund/hundestrand-ostsee)
-[^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/fvnsrwq/?utm_source=reddit&utm_medium=web2x&context=3)
-[^13]: [berlin.de \(archived\)](https://web.archive.org/web/20210421031002/http://www.berlin.de:80/special/immobilien-und-wohnen/mietrecht/1363973-739654-tierhaltungwanndervermieterzustimmenmuss.html), [perpetual.care](https://www.perpetual.care/arriving-in-berlin/)
-[^14]: [berlin.de \(archived\)](https://web.archive.org/web/20210421030458/https://berlin.de/special/immobilien-und-wohnen/mietrecht/2190683-739654-haustierhaltung-darf-von-eigentuemern-ve.html)
+[^12]: [mydog365.de](https://mydog365.de/magazin/recht/wohnung-finden-hund/), [wohnglueck.de](https://wohnglueck.de/artikel/wohnungssuche-mit-hund-8250#:~:text=gehort%20zu%20den%20schwierigsten%20disziplinen), [Reddit](https://old.reddit.com/r/berlin/comments/m6wybt/apartment_hunting_when_having_dog/) (March 2021), [Mietrecht.com](https://www.mietrecht.com/hundehaltung-mietwohnung/#:~:text=mit%20hund%20durchaus%20sehr%20schwierig)
+[^13]: [dogorama.app](https://dogorama.app/de-de/forum/Regionales/Wohnungssuche_mit_Hund-QZ8K9qEeuSSrVVpkYQPp/) (2023), [perpetual.care](https://www.perpetual.care/arriving-in-berlin/#:~:text=cannot%20outright%20ban%20pet%20ownership), [perpetual.care](https://perpetual.care/rental-laws-in-berlin/#:~:text=prior%20written%20permission), [test.de](https://www.test.de/Haustiere-Mietwohnung-5767892-0/#:~:text=manch%20haltungs%C2%ADverbot%20ist%20unwirk%C2%ADsam) (July 2021), [mietrecht.de](https://www.mietrecht.com/hundehaltung-mietwohnung/#:~:text=immer%20das%20einverstandnis%20des%20vermieters)
+[^14]: [dogorama.app](https://dogorama.app/de-de/forum/Regionales/Wohnungssuche_mit_Hund-QZ8K9qEeuSSrVVpkYQPp/) (2023)
 [^15]: [berlin.de \(archived\)](http://web.archive.org/web/20210421030058/https://www.berlin.de/special/immobilien-und-wohnen/mietrecht/1154997-739654-hundebellenmussnichtdauerhafthingenommen.html), [berlin.de \(archived\)](https://web.archive.org/web/20210421025306/https://berlin.de/special/immobilien-und-wohnen/mietrecht/1043463-739654-hundekotimgemeinschaftsgartenistk%C3%BCndigu.html)
 [^17]: [§19 HundeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016pP19/part/S)
 [^18]: [§14 HundeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016pP14)
