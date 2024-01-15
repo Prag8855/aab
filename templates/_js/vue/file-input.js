@@ -87,3 +87,74 @@ Vue.component('file-input', {
 	`,
 });
 {% endraw %}{% endjs %}
+
+.file-input{
+	margin: var(--l-relative) 0;
+
+	> .placeholder{
+		text-align: center;
+
+		svg{
+			display: block;
+			margin: 0 auto var(--xs);
+		}
+	}
+	ul{
+		margin: 0;
+		display: grid;
+		align-items: center;
+		gap: var(--s);
+	}
+	li{
+		@include box-m;
+		display: grid;
+		grid-template-columns: var(--w-img-logo) 1fr auto;
+		overflow: hidden;
+		line-height: var(--line-height-label);
+		align-items: center;
+
+		img, .placeholder{
+			margin: calc(var(--m) * -1) !important;
+			width: 100%;
+			height: var(--w-img-logo);
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			background: var(--c-bg-image);
+			border: none;
+			border-right: var(--b-box);
+			border-radius: 0;
+			color: var(--c-text-light);
+			object-fit: cover;
+			object-position: top left;
+		}
+
+		.input-error{
+			display: block;
+		}
+
+		&.error{
+			.placeholder, .input-error{
+				color: var(--c-text-error);
+			}
+		}
+
+		a{
+			color: var(--c-border-input);
+			&:hover{
+				color: var(--c-border-input-focused);
+			}
+		}
+
+		@include only-phone{
+			font-size: var(--f-s);
+		}
+	}
+	input{
+		display: none;
+	}
+
+	.buttons{
+		margin-bottom: 0;
+	}
+}

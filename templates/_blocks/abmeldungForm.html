@@ -266,7 +266,6 @@
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
-{% include '_js/vue/file-input.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
@@ -291,7 +290,6 @@
 					people: [],
 					userId: 'allaboutberlin-' + Math.floor(Math.random() * 1000000).toString(36),
 
-					digitalAbmeldungFee: {{ DIGITAL_ABMELDUNG_FEE }},
 					sortedCountryList: countries.getSortedList(),
 					recommendedCountries: new Set(
 						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)

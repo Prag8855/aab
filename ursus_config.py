@@ -518,8 +518,6 @@ config.context_globals = {
     # ADMINISTRATION
     # ==============================================================================
 
-    "DIGITAL_ABMELDUNG_FEE": 99.90,
-
     # € - service.berlin.de/dienstleistung/121921
     "GEWERBEANMELDUNG_FEE": 15,
 
