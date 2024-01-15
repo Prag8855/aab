@@ -107,6 +107,10 @@ Most private schools also offer online classes.
     Regular and intensive German classes in Prenzlauer Berg. Private lessons are available. They also offer accommodation,[^8] and summer camps for kids and teens.
 - **[Kapitel Zwei](https://kapitel-zwei.de/en/?utm_source=allaboutberlin&utm_medium=Artikel&utm_campaign=allaboutberlin&utm_content=Startseite%20EN)**  
     Regular and intensive German classes in Mitte, near Alexanderplatz. Private lessons and exam preparation courses are available. They also offer accommodation.[^9]
+- **[LOGO Sprachenschule](https://logosprachenschule.de/en/german-intensive/)**  
+    Regular and intensive German classes in Prenzlauer Berg, near S-Bahn Schönhauser Allee.
+- **[Mapamundi](https://connectingdiversity.com/)**  
+    Everyday and business German courses, online or in person.
 - **[Speakeasy](https://www.speakeasysprachzeug.de/en/)**  
     Regular, intensive and super intensive courses in Friedrichshain. Private lessons are available. They can also help with your language visa application. They sometimes organise workshops and events.
 - **[sprachart](https://www.sprachartberlin.de/en/)**  
