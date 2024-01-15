@@ -26,4 +26,6 @@ If you don't speak German, these veterinarians speak English:
 
 This list is not complete. To suggest another English-speaking veterinarian, [contact me](/contact).
 
-See also the [emergency vet list for Berlin](https://www.perpetual.care/be-bb-emergency-vets/) - PerPETual
+**[More English-speaking vets](https://perpetual.care/english-speaking-services-in-berlin/)** - PerPETual
+
+[Vets for emergencies](https://www.perpetual.care/be-bb-emergency-vets/) - PerPETual
