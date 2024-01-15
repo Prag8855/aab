@@ -4,6 +4,7 @@ Short_title: Changing or losing your job
 Description: What happens when you change jobs, resign or get laid off in Germany. What happens to your health insurance, residence permit, unemployment benefits etc.
 Date_created: 2023-07-17
 Related_reviews:
+    reviews/losing-your-job/alexander-baron-von-engelhardt.md
     reviews/losing-your-job/sebastian-hoffmann.md
     reviews/losing-your-job/carina-senf.md
 ---
@@ -172,8 +173,6 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 You must get your [salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*) and your last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
 
-If you work in gastronomy, ask for your *Gesundheitszeugnis*.[^32]
-
 ## What happens to your residence permit
 
 ### Work visa or Blue Card
@@ -185,13 +184,15 @@ When you [find a new job](/guides/find-a-job-in-berlin), you might need permissi
 - **If you have a Blue Card**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
 - **If you had <u>this</u> residence permit for at least 2 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Just email them a copy of your new work contract.[^4]
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Email them a copy of your new work contract.[^4]
 - **If you had <u>any</u> residence permit for at least 3 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission.[^42] Just email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission.[^42] Email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
 - **Everyone else**  
     You need permission from the *Ausländerbehörde* to start a new job.[^41] You must basically apply for a new work visa or Blue Card.[^37] This can take a few months.[^39]
 
-If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, you can get a language course visa and stay up to 12 months longer.[^29] Your spouse can get a [work visa](/glossary/Work%20Visa) and sponsor your [family reunion visa](/glossary/Family%20reunion%20visa).[^35]
+If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, you can get a language course visa and stay up to 12 months longer.[^29]
+
+If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it expires at the same time as your residence permit.[^43] Your spouse could get a [work visa](/glossary/Work%20Visa) and sponsor your [family reunion visa](/glossary/Family%20reunion%20visa).[^35]
 
 **[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
 
@@ -205,7 +206,7 @@ If your spouse is employed, you can switch roles: your spouse gets a [work visa]
 
 Nothing happens to your permanent residence or citizenship. You have the right to stay in Germany, even if you are unemployed.
 
-It should not affect your permanent residence or citizenship application.[^28]
+It should not affect your permanent residence or citizenship application.[^28] Your application could be delayed until you find a stable job.[^44]
 
 ## What happens to your health insurance
 
@@ -225,13 +226,13 @@ Your [private health insurance](/glossary/private%20Krankenversicherung) becomes
 - **If you get [unemployment benefits](/glossary/ALG%20I)**  
     You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance, so you are covered for free.[^1] In some cases, you can keep your private health insurance.[^2]
 - **If you don't get unemployment benefits**  
-    You keep your private health insurance.[^3] Your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€.
+    You keep your private health insurance.[^3] Your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€ alone without help.
 
 **[Who gets unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
 
 ## What happens to your pay and bonuses
 
-You get paid until your last day of work, at the end of your [notice period](/glossary/Kündigungsfrist). Your employer must pay your full salary, even if they don't make you work.[^23]
+You get paid until your last day of work, at the end of your [notice period](/glossary/Kündigungsfrist). Your employer must pay your full salary, even if you have no work to do.[^23]
 
 After your last day of work, you might get severance pay or [unemployment benefits](/glossary/ALG%20I). This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
 
@@ -251,13 +252,13 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
 
-Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*.
+Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*. Your case worker will decide if you can get free training.[^32]
 
 ### Find a new job
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*).
+You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*). You might need a different [residence permit](/glossary/Aufenthaltstitel) for this.
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 
@@ -293,7 +294,6 @@ When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% 
     - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
     - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
     - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
-    - [ ] Health certificate (*Gesundheitszeugnis*), if you work in gastronomy
 - [ ] If you leave Germany, [get a pension payments refund](/guides/pension-payments-refund)
 
 ## Need help?
@@ -302,8 +302,6 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
-I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered many of my questions for this guide. I chose them because they helped a colleague win against my last employer. They speak English.
-
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
@@ -311,9 +309,11 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
+[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
+[^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
 [^13]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.), [§312 SGB III](https://www.gesetze-im-internet.de/sgb_3/__312.html), [Agentur für Arbeit](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
@@ -328,17 +328,15 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit)
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)
 [^26]: [kanzlei-chevalier.de](https://www.kanzlei-chevalier.de/blog/abfindungszahlungen-im-ueberblick-ostdeutschland-weiterhin-benachteiligt)
-[^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
-[^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
-[^32]: [karrierebibel.de](https://karrierebibel.de/beendigung-arbeitsverhaeltnis/#:~:text=arbeitnehmer%2C%20die%20in%20der%20lebensmittelbranche%20oder%20gastronomie%20arbeiten)
-[^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
-[^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
-[^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^28]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/jskflcp/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/)
-[^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
-[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
+[^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
+[^32]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
+[^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
+[^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
+[^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
 [^36]: [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/)
 [^37]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023)
@@ -346,3 +344,5 @@ I usually work with [Rotwang Law](https://rotwang-law.de/en/). They answered man
 [^40]: [karrierebibel.de](https://karrierebibel.de/schneller-aus-dem-arbeitsvertrag/#:~:text=versuch%20einer%20einvernehmlichen%20einigung)
 [^41]: [§4a Abs. 3 Satz 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html)
 [^42]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023), Victoria Messer (December 2023)
+[^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
+[^44]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
