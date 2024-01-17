@@ -2954,10 +2954,6 @@ details{
 			gap: var(--m);
 			font-size: var(--f-s);
 
-			@include only-phone{
-				margin: var(--s) 0 0;
-			}
-
 			svg{
 				height: 1.5em;
 				width:auto;
@@ -2992,7 +2988,7 @@ details{
 			}
 		}
 	}
-	.features :last-child, .costs :last-child summary{
+	.features > :last-child, .costs > :last-child:not([open]) summary{
 		margin-bottom: 0;
 	}
 }

@@ -1,4 +1,9 @@
 {
+    "Dutch": {
+        "error": "No Dutch",
+        "description": "Dutch-speaking bank",
+        "group": "languages",
+    },
     "English": {
         "error": "No English",
         "description": "English-speaking bank",
@@ -64,6 +69,11 @@
         "group": "features",
         "description": "Go to the bank in person.",
         "error": "No physical branches",
+    },
+    "Joint account": {
+        "group": "features",
+        "error": "Share a bank account with someone else.",
+        "default": true,
     },
     "Blocking account": {
         "group": "features",

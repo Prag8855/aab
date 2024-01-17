@@ -56,7 +56,7 @@
 				<img :src="logo(account.bank)">
 			</a>
 			<h3>
-				<a :href="account.url" target="_blank">{{ account.bank.name }} {{ account.name }}</a>
+				<a :href="account.url" target="_blank">{{ account.bank.name }} {{ account.name }} <strong>+{{ account.score }}</strong></a>
 			</h3>
 			<p v-if="account.description" v-html="account.description" class="description"></p>
 			<div class="actions">
@@ -91,6 +91,8 @@
 							Monthly fee
 							<output><eur :amount="account.monthlyFee"></eur></output>
 						</summary>
+						<div v-if="account.monthlyFee">You pay <eur :amount="account.monthlyFee"></eur> per month for the account.</div>
+						<div v-if="!account.monthlyFee">The account is free. There is no monthly fee.</div>
 					</details>
 					<details>
 						<summary class="price">
@@ -98,21 +100,22 @@
 							<output v-if="account.creditCardOneTimeFee">one time {{ formatCurrency(account.creditCardOneTimeFee) }}</output>
 							<output v-if="!account.creditCardOneTimeFee"><eur :amount="account.creditCardMonthlyFee"></eur></output>
 						</summary>
-						<p v-html="account.creditCardFeeExplanation"></p>
+						<div v-if="account.creditCardFeeExplanation" v-html="account.creditCardFeeExplanation"></div>
+						<div>You pay this fee to get a credit card.</div>
 					</details>
 					<details>
 						<summary class="price">
 							Withdrawal fee
 							<output><eur :amount="account.atmFee"></eur></output>
 						</summary>
-						<p v-html="account.atmFeeExplanation"></p>
+						<div v-html="account.atmFeeExplanation"></div>
 					</details>
 					<details>
 						<summary class="price">
 							Interest rate
-							<output>5%</output>
+							<output>{{ account.interestRate.toLocaleString('en-GB', {minimumFractionDigits: 0, maximumFractionDigits: 2}) }}%</output>
 						</summary>
-						<p>Every year, you earn 5% interest on the money in your bank account.</p>
+						<div>Every year, you earn this much interest with this bank's savings account.</div>
 					</details>
 				</div>
 				<div class="requirements" v-if="account.bank.requirements">
@@ -171,6 +174,8 @@ const accounts = banks.reduce((allAccounts, bank) => {
 		account.bank = bank;
 		account.url = account.url || bank.url;
 		account.description = [bank.description, account.description].filter(Boolean).join(' ');
+		account.interestRate = account.interestRate || bank.interestRate;
+		account.boost = (account.boost || 0) + (bank.boost || 0);
 
 		// Combine bank and account tags
 		account.tags.push(...bank.tags);
@@ -245,7 +250,7 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 				account.score = (
 					account.missingTags.length * -10
 					+ account.tags.filter(t => t.selected).length * 10
-					+ account.bank.boost
+					+ account.boost
 					+ 1
 				);
 				return account;
