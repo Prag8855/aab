@@ -1,0 +1,63 @@
+[
+    {
+        "boost": 0,
+        "name": "Commerzbank",
+        "tags": [
+            "English",
+            "Girocard",
+            "Apple Pay / Google Pay",
+        ],
+        "url": "/out/commerzbank",
+        "accounts": []
+    },
+    {
+        "boost": 2,
+        "name": "N26",
+        "description": "An established, low-cost online bank that speaks multiple languages.",
+        "requirements": "A European passport or a German residence permit valid for at least one year. <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>More information ➞</a>",
+        "tags": [
+            "English", "French", "Italian", "Spanish",
+            "No Anmeldung",
+            "No ATM fee",
+        ],
+        "url": "/out/n26-plans",
+        "accounts": [
+            {
+                "name": "Standard",
+                "atmFee": 0,
+                "atmFeeExplanation": "",
+                "creditCardOneTimeFee": 0,
+                "creditCardMonthlyFee": 0,
+                "creditCardFeeExplanation": "",
+                "monthlyFee": 0,
+                "tags": [],
+            },
+            {
+                "name": "Smart",
+                "atmFee": 0,
+                "atmFeeExplanation": "",
+                "creditCardMonthlyFee": 0,
+                "monthlyFee": 0,
+                "tags": [],
+            },
+            {
+                "name": "You",
+                "description": null,
+                "atmFee": 0,
+                "atmFeeExplanation": "",
+                "creditCardMonthlyFee": 0,
+                "monthlyFee": 0,
+                "tags": [],
+            },
+            {
+                "name": "Metal",
+                "description": null,
+                "atmFee": 0,
+                "atmFeeExplanation": "",
+                "creditCardMonthlyFee": 0,
+                "monthlyFee": 0,
+                "tags": [],
+            },
+        ],
+    },
+]

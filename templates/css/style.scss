@@ -2911,7 +2911,7 @@ details{
 
 			display: grid;
 			grid-template-columns: var(--w-bank-logo) 1fr auto;
-			gap: 0 var(--m);
+			gap: var(--l) var(--m);
 			grid-template-areas:
 				"icon title actions"
 				". description description"
@@ -2945,7 +2945,7 @@ details{
 
 		.description{
 			grid-area: description;
-			margin: var(--s) 0 0;
+			margin: 0;
 		}
 
 		.actions{
@@ -2970,10 +2970,9 @@ details{
 		.details{
 			grid-area: details;
 			font-size: var(--f-s);
-			margin-top:var(--m);
 			display: grid;
 			grid-template-columns: 1fr 1fr;
-			gap: var(--xl);
+			gap: var(--l) var(--xxl);
 
 			@include only-phone{
 				grid-template-columns: 1fr;
@@ -2984,13 +2983,17 @@ details{
 				color: var(--c-text-error);
 			}
 
-			details:first-child summary{
-				margin-top: 0;
-			}
-			details:last-child summary{
-				margin-bottom: 0;
+			.requirements{
+				grid-column: 1 / -1;
+
+				p{
+					margin: var(--s-relative) 0 0;
+				}
 			}
 		}
+	}
+	.features :last-child, .costs :last-child summary{
+		margin-bottom: 0;
 	}
 }
 
