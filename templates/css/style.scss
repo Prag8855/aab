@@ -291,7 +291,7 @@ $width-main-column: 860px;
 	:root{
 		--c-highlight: #9f3a2b;
 		--c-text: #bbb;
-		--c-text-error: #{darken(#9f3a2b, 20%)};
+		--c-text-error: #{lighten(#9f3a2b, 20%)};
 		--c-text-heading: #ddd;
 		--c-text-light: #999;
 		--c-text-link-visited: #a9d;
