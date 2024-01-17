@@ -49,7 +49,7 @@ With Commerzbank, I sometimes had to take a 45 minute train ride to sign some pa
 
 ### The exchange rates are good
 
-The N26 MasterCard is good for travelling. There are no transaction fees and no currency conversion fees. You pay the real exchange rate.[^0] You only pay a fee if you withdraw money in other currencies.[^0] I used my N26 MasterCard in over 40 countries without any problems.
+The N26 Mastercard is good for travelling. There are no transaction fees and no currency conversion fees. You pay the real exchange rate.[^0] You only pay a fee if you withdraw money in other currencies.[^0] I used my N26 Mastercard in over 40 countries without any problems.
 
 If you travel a lot, the [N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts include unlimited ATM withdrawals in all currencies, and travel insurance.
 
@@ -95,7 +95,7 @@ There are also things I don't like about N26. Here they are, in order of importa
 
 N26 fees and conditions get worse every year:
 
-- When you open an account, you must pay 10€ to get a plastic MasterCard. It used to be free.
+- When you open an account, you must pay 10€ to get a plastic Mastercard. It used to be free.
 - The free account has 3 free ATM withdrawals per month. It used to be 5.
 - The free account does not include Spaces.
 
@@ -211,7 +211,7 @@ Here are things I don't like about it:
 
 ## Conclusion
 
-**Would I recommend N26? Yes.** I use N26 as my only bank account since 2016. I travelled all over the world with my N26 MasterCard. I am happy with them, and that's why I didn't switch to another bank. Many of my friends also use N26, and they are also happy with it.
+**Would I recommend N26? Yes.** I use N26 as my only bank account since 2016. I travelled all over the world with my N26 Mastercard. I am happy with them, and that's why I didn't switch to another bank. Many of my friends also use N26, and they are also happy with it.
 
 N26 has different account types. I use the free account. Since I opened my account a long time ago, I have better conditions. The current free account is more limited, but still very good.
 

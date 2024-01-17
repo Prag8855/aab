@@ -108,7 +108,7 @@ If you just [moved to Berlin](https://localhost/guides/moving-to-berlin), and yo
 
 ### Business credit card
 
-Most banks come with a MasterCard or Visa card. If you have employees, choose a bank that can issue multiple credit cards.
+Most banks come with a Mastercard or Visa card. If you have employees, choose a bank that can issue multiple credit cards.
 
 ### Sub-accounts for employees
 

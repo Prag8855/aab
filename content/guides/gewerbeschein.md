@@ -22,7 +22,7 @@ You can do this online. It takes 30 minutes to fill the form, and around 4 weeks
 
 To do your *Gewerbeanmeldung*, you need...
 
-- [ ] A credit card (Visa or MasterCard) to pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
+- [ ] A credit card (Visa or Mastercard) to pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
 - [ ] Permission to be self-employed in Germany. If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, [check if it allows self-employment](/guides/residence-permit#residence-permits-to-start-a-business). You must get your residence permit before you do the *Gewerbeanmeldung*.
 
 ## How to fill the registration form

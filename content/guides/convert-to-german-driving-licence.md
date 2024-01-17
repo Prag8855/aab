@@ -126,7 +126,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 - [ ] **Registration certificate** (*[[Anmeldebestätigung]]*)  
     This proves that you live in Berlin. Other proofs of residence might be accepted.[^2]
 - [ ] **A [[Girocard]] or cash**  
-    You must pay the fee of {{ DRIVING_LICENCE_CONVERSION_FEE|cur }}€. Visa and MasterCard are sometimes accepted.[^9]
+    You must pay the fee of {{ DRIVING_LICENCE_CONVERSION_FEE|cur }}€. Visa and Mastercard are sometimes accepted.[^9]
 
 If your licence is not from a EU or EEA country, you must also bring...
 

@@ -35,7 +35,7 @@ You must have an *Online-Ausweis*. If you have a residence permit, the *Online-A
 1. [Get an appointment at any Bürgeramt](/guides/berlin-burgeramt-appointment) for "*[Meldebescheinigung beantragen](https://service.berlin.de/dienstleistung/120702/)*"
 2. When you go to your appointment, bring...
     - [ ] Your passport or *[[Personalausweis]]*
-    - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or MasterCard. It depends on the *Bürgeramt*.
+    - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or Mastercard. It depends on the *Bürgeramt*.
 
 ## Erweiterte Meldebescheinigung
 

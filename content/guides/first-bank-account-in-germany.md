@@ -155,7 +155,7 @@ There are a few problems with non-German banks:
 - **You might get a non-German [[IBAN]]**  
     This is rarely a big problem, but sometimes, you need a German IBAN. IBAN discrimination is illegal, but it happens.[^45] For example, people had problems when paying the[ vehicle tax](/glossary/Kraftfahrzeugsteuer) at the *Hauptzollamt*.
 - **You can't get a [[Girocard]]**  
-    This type of bank card only exists in Germany.[^46] Many small businesses only accept cash and Girocards, not Visa or MasterCard. It's not a big problem, because you can always pay in cash. I have no Girocard since 2016, and I am fine.
+    This type of bank card only exists in Germany.[^46] Many small businesses only accept cash and Girocards, not Visa or Mastercard. It's not a big problem, because you can always pay in cash. I have no Girocard since 2016, and I am fine.
 
 ## How to open a bank account in Germany
 
@@ -194,7 +194,7 @@ Choose a bank...
 - that accepts your passport
 - without monthly fees
 - without ATM fees
-- with a free Visa or MasterCard
+- with a free Visa or Mastercard
 
 I am with [N26](/out/n26) since 2016. My [review of N26](/guides/an-honest-review-of-n26) explains why. I also use [Kontist](/out/kontist) for my business account, and [Degiro](/out/degiro) to trade stocks.
 

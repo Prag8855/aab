@@ -164,7 +164,7 @@ When you go to your appointment, bring...[^7]
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
-- [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
+- [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
@@ -363,7 +363,7 @@ If you can, you should also bring...
     You get your passport back during your appointment; they do not keep it.[^75]
 - [ ] **Passport photo** (35 × 45 mm)  
     Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
-- [ ] **Cash, Visa, MasterCard or [[Girocard]]**  
+- [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 
 ### Optional documents
