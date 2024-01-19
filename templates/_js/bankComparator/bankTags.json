@@ -73,7 +73,6 @@
     "Joint account": {
         "group": "features",
         "error": "Share a bank account with someone else.",
-        "default": true,
     },
     "Blocking account": {
         "group": "features",
