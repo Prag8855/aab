@@ -1,82 +1,67 @@
 {
     "Dutch": {
-        "error": "No Dutch",
         "description": "Dutch-speaking bank",
         "group": "languages",
     },
     "English": {
-        "error": "No English",
         "description": "English-speaking bank",
         "group": "languages",
         "default": true,
     },
     "French": {
-        "error": "No French",
         "description": "French-speaking bank",
         "group": "languages",
     },
     "Italian": {
-        "error": "No Italian",
         "description": "Italian-speaking bank",
         "group": "languages",
     },
     "Spanish": {
-        "error": "No Spanish",
         "description": "Spanish-speaking bank",
         "group": "languages",
     },
     "Apple Pay / Google Pay": {
-        "error": "No Apple Pay / Google Pay",
         "description": "Pay with your iPhone or Android phone",
         "group": "paymentMethods",
     },
     "Girocard": {
-        "error": "No Girocard",
         "description": "A common payment method in Germany",
         "group": "paymentMethods",
     },
     "Visa": {
-        "error": "No Visa",
         "group": "paymentMethods",
     },
     "Mastercard": {
-        "error": "No Mastercard",
         "group": "paymentMethods",
     },
     "No Anmeldung": {
-        "error": "Anmeldung needed",
         "description": "Open an account without registering your address.",
         "group": "requirements",
         "default": true,
     },
     "No residence permit": {
-        "error": "Residence permit needed",
         "description": "Open an account without a residence permit.",
         "group": "requirements",
     },
     "No monthly fee": {
         "group": "features",
-        "error": "Monthly fee",
         "default": true,
     },
-    "No ATM fee": {
+    "No withdrawal fee": {
         "group": "features",
         "description": "Get cash from any ATM without fees.",
-        "error": "ATM fee",
         "default": true,
     },
     "Physical branches": {
         "group": "features",
         "description": "Go to the bank in person.",
-        "error": "No physical branches",
     },
     "Joint account": {
         "group": "features",
-        "error": "Share a bank account with someone else.",
+        "description": "Share a bank account with your partner.",
     },
     "Blocking account": {
         "group": "features",
         "description": "Required for student, job seeker and language course visas.",
-        "error": "No blocking account",
     },
 }

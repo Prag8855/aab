@@ -236,6 +236,7 @@ $width-main-column: 860px;
 
 	--c-text-selection: #fd6;
 	--c-bg-input: var(--c-bg-page);
+	--c-bg-error: #da513d22;
 	--c-bg-input-error: #da513d11;
 	--c-bg-website: #f9f9f9;
 	--c-bg-page: #fff;
@@ -303,6 +304,7 @@ $width-main-column: 860px;
 		--c-bg-widget: #ffffff0c;
 		--c-bg-widget-opaque: #2c2c2c;
 		--c-bg-image: var(--c-bg-widget);
+		--c-bg-error: #9f3a2b22;
 		--c-bg-input-error: #9f3a2b11;
 		--c-border-box: #fff3;
 		--c-border-box-opaque: #4f4f4f;
@@ -1731,7 +1733,7 @@ input[type=range] {
 			text-align: center;
 	}
 }
-.show-errors :invalid, .show-errors:invalid, .error{
+.show-errors :invalid, .show-errors:invalid, .pension-refund-calculator .error{
 	border-color: var(--c-highlight)!important;
 	background-color: var(--c-bg-input-error);
 	box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
@@ -2975,8 +2977,13 @@ details{
 			}
 
 			.error{
-				font-weight: bold;
 				color: var(--c-text-error);
+				padding-left: var(--s);
+				margin-left: calc(var(--s) * -1);
+				padding-right: var(--s);
+				margin-right: calc(var(--s) * -1);
+				border-radius: var(--b-radius);
+				background-color: var(--c-bg-error);
 			}
 
 			.requirements{
@@ -3004,14 +3011,9 @@ details{
 		box-shadow: none;
 		padding: var(--xs) var(--s);
 		white-space: nowrap;
-		&.active:not(.error){
+		&.active{
 			border-color: var(--c-border-hint);
 			background: var(--c-bg-widget);
-		}
-
-		&.error{
-			color: var(--c-text-error)!important;
-			box-shadow: none!important
 		}
 	}
 }

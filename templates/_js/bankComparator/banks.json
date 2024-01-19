@@ -12,7 +12,7 @@
     {
         "name": "N26",
         "interestRate": 0,
-        "requirements": "A European passport or a plastic residence permit. <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>More information&nbsp;➞</a>",
+        "requirements": "A European passport or a German residence permit. – <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>Read more&nbsp;➞</a>",
         "tags": [
             "Apple Pay / Google Pay",
             "English",
@@ -20,7 +20,7 @@
             "Italian",
             "Mastercard",
             "No Anmeldung",
-            "No ATM fee",
+            "No withdrawal fee",
             "Spanish",
         ],
         "url": "/out/n26-plans",
@@ -34,7 +34,7 @@
                 "creditCardFeeExplanation": "Use a virtual card for free, or get a physical card for 10€.",
                 "creditCardOneTimeFee": 10,
                 "monthlyFee": 0,
-                "tags": [],
+                "tags": ["No monthly fee"],
             },
             {
                 "name": "Smart",
@@ -105,7 +105,7 @@
                 "atmFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
                 "creditCardMonthlyFee": 0,
                 "monthlyFee": 8.99,
-                "tags": ["Joint account", "No ATM fee"],
+                "tags": ["Joint account", "No withdrawal fee"],
             },
         ],
     }

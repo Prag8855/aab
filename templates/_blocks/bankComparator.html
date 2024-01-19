@@ -67,26 +67,26 @@
 			<div class="details">
 				<div class="features">
 					<h4>Features</h4>
-					<div class="price" :class="{error: hasTagError(account, 'Girocard')}">
-						<glossary term="Girocard">Girocard / EC-Karte</glossary>
-						<output>{{ hasTag(account, 'Girocard') }}</output>
+					<div class="price" :class="{error: hasLanguagesError(account)}">
+						Languages
+						<output>{{ languages(account) }}</output>
 					</div>
-					<div class="price" :class="{error: hasTagError(account, 'Apple Pay / Google Pay')}">
+					<div class="price" :class="{error: hasBranchesError(account)}">
+						Physical branches
+						<output>{{ hasTag(account, 'Physical branches') }}</output>
+					</div>
+					<div class="price" :class="{error: hasPaymentMethodsError(account)}">
+						{{ cardTypes(account).length > 1 ? 'Card types' : 'Card type' }}
+						<output>{{ cardTypes(account).join(', ') }}</output>
+					</div>
+					<div class="price" :class="{error: hasAppleGooglePayError(account)}">
 						Apple Pay / Google Pay
 						<output>{{ hasTag(account, 'Apple Pay / Google Pay') }}</output>
-					</div>
-					<div class="price" :class="{error: hasTagError(account, 'Visa')}">
-						Visa
-						<output>{{ hasTag(account, 'Visa') }}</output>
-					</div>
-					<div class="price" :class="{error: hasTagError(account, 'Mastercard')}">
-						Mastercard
-						<output>{{ hasTag(account, 'Mastercard') }}</output>
 					</div>
 				</div>
 				<div class="costs">
 					<h4>Costs</h4>
-					<details>
+					<details :class="{error: hasMonthlyFeeError(account)}">
 						<summary class="price">
 							Monthly fee
 							<output><eur :amount="account.monthlyFee"></eur></output>
@@ -101,9 +101,9 @@
 							<output v-if="!account.creditCardOneTimeFee"><eur :amount="account.creditCardMonthlyFee"></eur></output>
 						</summary>
 						<div v-if="account.creditCardFeeExplanation" v-html="account.creditCardFeeExplanation"></div>
-						<div>You pay this fee to get a credit card.</div>
+						<div v-if="!account.creditCardFeeExplanation">You pay this fee to get a credit card.</div>
 					</details>
-					<details>
+					<details :class="{error: hasWithdrawalFeeError(account)}">
 						<summary class="price">
 							Withdrawal fee
 							<output><eur :amount="account.atmFee"></eur></output>
@@ -120,7 +120,7 @@
 				</div>
 				<div class="requirements" v-if="account.bank.requirements">
 					<h4>Requirements</h4>
-					<p v-html="account.bank.requirements"></p>
+					<p :class="{error: hasRequirementsError(account)}" v-html="account.bank.requirements"></p>
 				</div>
 			</div>
 		</li>
@@ -196,12 +196,11 @@ Vue.component('tag', {
 	props: {
 		icon: String,
 		tag: Object,
-		error: Boolean,
 	},
 	template: `
-	<button :title="error ? '' : (tag.description || '')" :class="{active: tag.selected, error: error}" @click="tag.selected = !tag.selected">
+	<button :title="tag.description || ''" :class="{active: tag.selected}" @click="tag.selected = !tag.selected">
 		<i class="icon" :class="icon" v-if="icon"></i>
-		{{ error ? (tag.error || tag.name) : tag.name }}
+		{{ tag.name }}
 	</button>`,
 });
 Vue.component('tag-checkbox', {
@@ -218,6 +217,14 @@ Vue.component('tag-checkbox', {
 		</div>
 	</label>`,
 });
+
+const languageMap = {
+	"English": "EN",
+	"French": "FR",
+	"Spanish": "ES",
+	"Dutch": "NL",
+	"Italian": "IT",
+};
 
 document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 	el: el,
@@ -280,11 +287,42 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 		logo(bank){
 			return `/staticimages/banks/${bank.name.toLowerCase()}.png`;
 		},
+		cardTypes(account){
+			return ['Visa', 'Mastercard', 'Girocard'].filter(t => account.tags.includes(this.tags[t]));
+		},
+		languages(account) {
+			return account.tags.filter(t => t.group === this.tagGroups.languages).map(t => languageMap[t.name]).join(', ')
+		},
 		hasTag(account, tagName){
 			return account.tags.includes(this.tags[tagName]) ? "Yes" : "No";
 		},
-		hasTagError(account, tagName){
-			return this.tags[tagName].selected && !account.tags.includes(this.tags[tagName]);
+		hasTagError(account, tags){
+			return tags.some(t => t.selected && !account.tags.includes(t));
+		},
+		hasAppleGooglePayError(account){
+			return this.hasTagError(account, [this.tags['Apple Pay / Google Pay']]);
+		},
+		hasBranchesError(account){
+			return this.hasTagError(account, [this.tags['Physical branches']]);
+		},
+		hasLanguagesError(account){
+			return this.hasTagError(account, this.tagGroups.languages.tags);
+		},
+		hasMonthlyFeeError(account){
+			return this.hasTagError(account, [this.tags['No monthly fee']]);
+		},
+		hasPaymentMethodsError(account){
+			return this.hasTagError(account,[
+				this.tags['Mastercard'],
+				this.tags['Visa'],
+				this.tags['Girocard'],
+			]);
+		},
+		hasRequirementsError(account){
+			return this.hasTagError(account, this.tagGroups.requirements.tags);
+		},
+		hasWithdrawalFeeError(account){
+			return this.hasTagError(account, [this.tags['No withdrawal fee']]);
 		},
 	}
 }));
