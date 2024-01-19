@@ -83,6 +83,10 @@
 						Apple Pay / Google Pay
 						<output>{{ hasTag(account, 'Apple Pay / Google Pay') }}</output>
 					</div>
+					<div class="price" :class="{error: hasJointAccountError(account)}">
+						Joint account
+						<output>{{ hasTag(account, 'Joint account') }}</output>
+					</div>
 				</div>
 				<div class="costs">
 					<h4>Costs</h4>
@@ -106,9 +110,19 @@
 					<details :class="{error: hasWithdrawalFeeError(account)}">
 						<summary class="price">
 							Withdrawal fee
-							<output><eur :amount="account.atmFee"></eur></output>
+							<output><eur :amount="account.withdrawalFee"></eur></output>
 						</summary>
-						<div v-html="account.atmFeeExplanation"></div>
+						<div v-html="account.withdrawalFeeExplanation"></div>
+					</details>
+					<details :class="{error: hasDepositFeeError(account)}">
+						<summary class="price">
+							Deposit fee
+							<output>
+								<eur v-if="typeof account.depositFee === 'number'" :amount="account.depositFee"></eur>
+								<span v-if="typeof account.depositFee !== 'number'">{{ account.depositFee }}</eur>
+							</output>
+						</summary>
+						<div v-html="account.depositFeeExplanation"></div>
 					</details>
 					<details>
 						<summary class="price">
@@ -173,6 +187,8 @@ const accounts = banks.reduce((allAccounts, bank) => {
 	return bank.accounts.reduce((allAccounts, account) => {
 		account.bank = bank;
 		account.url = account.url || bank.url;
+		account.depositFee = account.depositFee || bank.depositFee;
+		account.depositFeeExplanation = account.depositFeeExplanation || bank.depositFeeExplanation;
 		account.description = [bank.description, account.description].filter(Boolean).join(' ');
 		account.interestRate = account.interestRate || bank.interestRate;
 		account.boost = (account.boost || 0) + (bank.boost || 0);
@@ -304,6 +320,12 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 		},
 		hasBranchesError(account){
 			return this.hasTagError(account, [this.tags['Physical branches']]);
+		},
+		hasDepositFeeError(account){
+			return this.hasTagError(account, [this.tags['No withdrawal fee']]);
+		},
+		hasJointAccountError(account){
+			return this.hasTagError(account, [this.tags['Joint account']]);
 		},
 		hasLanguagesError(account){
 			return this.hasTagError(account, this.tagGroups.languages.tags);

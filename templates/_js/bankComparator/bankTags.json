@@ -52,6 +52,10 @@
         "description": "Get cash from any ATM without fees.",
         "default": true,
     },
+    "No deposit fee": {
+        "group": "features",
+        "description": "Deposit cash and coins without fees.",
+    },
     "Physical branches": {
         "group": "features",
         "description": "Go to the bank in person.",
@@ -59,9 +63,5 @@
     "Joint account": {
         "group": "features",
         "description": "Share a bank account with your partner.",
-    },
-    "Blocking account": {
-        "group": "features",
-        "description": "Required for student, job seeker and language course visas.",
     },
 }
