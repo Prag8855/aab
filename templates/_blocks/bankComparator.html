@@ -56,7 +56,7 @@
 				<img :src="logo(account.bank)">
 			</a>
 			<h3>
-				<a :href="account.url" target="_blank">{{ account.bank.name }} {{ account.name }} <strong>+{{ account.score }}</strong></a>
+				<a :href="account.url" target="_blank">{{ account.bank.name }} {{ account.name }}</a>
 			</h3>
 			<p v-if="account.description" v-html="account.description" class="description"></p>
 			<div class="actions">
