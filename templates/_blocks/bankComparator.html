@@ -102,7 +102,7 @@
 					<details>
 						<summary class="price">
 							Card fee
-							<output v-if="account.creditCardOneTimeFee">one time {{ formatCurrency(account.creditCardOneTimeFee) }}</output>
+							<output v-if="account.creditCardOneTimeFee">{{ formatCurrency(account.creditCardOneTimeFee) }}, one time</output>
 							<output v-if="!account.creditCardOneTimeFee"><eur :amount="account.creditCardMonthlyFee"></eur></output>
 						</summary>
 						<div v-if="account.creditCardFeeExplanation" v-html="account.creditCardFeeExplanation"></div>
@@ -130,7 +130,7 @@
 							Interest rate
 							<output>{{ account.interestRate.toLocaleString('en-GB', {minimumFractionDigits: 0, maximumFractionDigits: 2}) }}%</output>
 						</summary>
-						<div>Every year, you earn this much interest with this bank's savings account.</div>
+						<div>Get {{ account.interestRate.toLocaleString('en-GB', {minimumFractionDigits: 0, maximumFractionDigits: 2}) }}% interest per year on your savings.</div>
 					</details>
 				</div>
 				<div class="requirements" v-if="account.bank.requirements">
@@ -140,6 +140,9 @@
 			</div>
 		</li>
 	</ul>
+	<a v-if="negativeScoreAccountsCount" class="no-print" :class="showNegativeScore ? 'hide-options' : 'show-options'" @click.prevent="showNegativeScore = !showNegativeScore" href="#">
+		{{ showNegativeScore ? "Hide" : "Show" }} {{ negativeScoreAccountsCount }} filtered bank{{ negativeScoreAccountsCount > 1 ? 's' : '' }}
+	</a>
 {% endraw %}
 </div>
 
@@ -273,7 +276,9 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 				});
 
 				account.score = (
-					account.missingTags.length * -10
+					+account.saved * 1000
+					+ +account.hidden * -1000
+					+ account.missingTags.length * -10
 					+ account.tags.filter(t => t.selected).length * 10
 					+ account.boost
 					+ 1
@@ -288,6 +293,9 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 				}
 				return b.score - a.score;
 			});
+		},
+		negativeScoreAccountsCount() {
+			return this.sortedAccounts.filter(a => a.score <= 0).length;
 		},
 		selectedTags(){
 			return Object.values(tags).filter(t => t.selected);

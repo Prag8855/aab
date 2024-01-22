@@ -1542,14 +1542,16 @@ input[type=range] {
 		cursor: e-resize;
 	}
 
-	.show-options, .hide-options{
-		flex:0 0 100%;
-		font-size: var(--f-s);
-		margin:0 auto;
-		display:block;
-		text-align:center;
-	}
+}
 
+.show-options, .hide-options{
+	flex:0 0 100%;
+	align-self: center;
+	font-size: var(--f-s);
+	margin:0 auto;
+	display:block;
+	text-align:center;
+}
 	.show-options{
 		@include expansible;
 	}
@@ -1557,7 +1559,6 @@ input[type=range] {
 		@include expansible;
 		@include collapsible;
 	}
-}
 
 .button, .tags > *{
 	@include text;
@@ -2920,12 +2921,12 @@ details{
 				". details details";
 
 			@include only-phone{
-				grid-template-columns: 1fr calc(var(--w-bank-logo) * 2);
+				grid-template-columns: 1fr var(--w-bank-logo);
 				grid-template-areas:
 					"title icon"
-					"actions icon"
 					"description description"
-					"details details";
+					"details details"
+					"actions actions";
 			}
 		}
 
