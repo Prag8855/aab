@@ -38,13 +38,13 @@ This website tracks statistics anonymously with [Plausible](https://plausible.io
 
 ### Local storage
 
-This website sometimes saves form data in your browser's local storage. This preserves the form data when you reload the page. This information is not shared with anyone, not even All About Berlin.
+This website sometimes saves form data in your browser's local storage. This preserves the form data when you reload the page. This information is not shared with anyone, not even All About Berlin. It's only visible to you in your browser.
 
 ### Forms
 
 The forms and tools on this website are designed for privacy. Your data stays in your browser. It is not shared your information with anyone, not even All About Berlin.
 
-When you ask a question or request a service on All About Berlin, your request is sent to All About Berlin's server. Your request is processed, then your data is deleted as fast as possible. In most cases, your data is deleted after a few minutes.
+When you ask a question or request a service on All About Berlin, your request is sent to All About Berlin's server. Your request is processed, then your data is deleted as fast as possible. In most cases, your data is deleted after a few minutes. No personal data is sent without a clear action from you.
 
 ### Other
 
