@@ -309,7 +309,7 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 			return ['Visa', 'Mastercard', 'Girocard'].filter(t => account.tags.includes(this.tags[t]));
 		},
 		languages(account) {
-			return account.tags.filter(t => t.group === this.tagGroups.languages).map(t => languageMap[t.name]).join(', ')
+			return account.tags.filter(t => t.group === this.tagGroups.languages).map(t => languageMap[t.name]).sort().join(', ')
 		},
 		hasTag(account, tagName){
 			return account.tags.includes(this.tags[tagName]) ? "Yes" : "No";
