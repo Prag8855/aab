@@ -35,7 +35,7 @@
 					<option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
 				</select>
 				<span class="input-instructions">
-					It's harder to open a bank account with certain passports.
+					Banks don't recognise certain passports, so it's harder to open an account.
 				</span>
 			</div>
 			<div class="form-group show-errors">
@@ -46,12 +46,13 @@
 					<income-input :id="uid('income')" v-model="income"></income-input>
 					€ per month
 				</div>
+				<span class="input-instructions">Some banks have no monthly fee if you deposit enough money every month.</span>
 			</div>
 			<hr>
 		</template>
 	</div>
 	<ul class="bank-options">
-		<li class="account" :class="{hidden: account.score < 0}" v-for="account in sortedAccounts" :key="account.bank.name + account.name">
+		<li class="account" v-show="account.score > 0 || showNegativeScore" v-for="account in sortedAccounts" :key="account.bank.name + account.name">
 			<a class="logo" :href="account.url" target="_blank">
 				<img :src="logo(account.bank)">
 			</a>
@@ -252,6 +253,7 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 			tags,
 			tagGroups,
 			showAllTags: false,
+			showNegativeScore: false,
 			nationality: '',
 			income: 0,
 			sortedCountryList: countries.getSortedList(),
