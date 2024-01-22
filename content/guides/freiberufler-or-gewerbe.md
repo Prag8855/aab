@@ -32,8 +32,6 @@ If you are self-employed, but not a *Freiberufler*, you are a tradesperson (*Gew
 
 Websites that are financed by ads or affiliate links are almost always a *Gewerbe*.[^17]
 
-**[What is the trade tax (Gewerbesteuer)? ➞](/guides/gewerbesteuer)**
-
 **[Is a website a Gewerbe? ➞](/guides/website-freiberuf-or-gewerbe)**
 
 ## What is the difference?

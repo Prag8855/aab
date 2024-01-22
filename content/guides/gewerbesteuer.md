@@ -5,9 +5,7 @@ Description: If you are self-employed in Germany, you might have to pay a trade 
 Date_created: 2021-01-19
 ---
 
-If you run a business in Germany, you will need to pay a trade tax (*Gewerbesteuer*). This tax is the most important source of revenue for your city, and it pays for many public services.[^8]
-
-This guide explains everything you need to know about this tax: how much it costs, who has to pay it, and how to pay it.
+Some German businesses must pay the trade tax (*Gewerbesteuer*). This guide explains how this tax works.
 
 {% include "_blocks/tableOfContents.html" %}
 
