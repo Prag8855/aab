@@ -2925,8 +2925,7 @@ details{
 				grid-template-areas:
 					"title icon"
 					"description description"
-					"details details"
-					"actions actions";
+					"details details";
 			}
 		}
 
@@ -2964,6 +2963,10 @@ details{
 				middle;
 				display:inline
 			}
+
+			@include only-phone{
+				display: none;
+			}
 		}
 
 		.details{
@@ -2989,6 +2992,10 @@ details{
 
 			.requirements{
 				grid-column: 1 / -1;
+
+				summary{
+					@include text-bold;
+				}
 
 				p{
 					margin: var(--s-relative) 0 0;

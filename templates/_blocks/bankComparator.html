@@ -133,10 +133,11 @@
 						<div>Get {{ account.interestRate.toLocaleString('en-GB', {minimumFractionDigits: 0, maximumFractionDigits: 2}) }}% interest per year on your savings.</div>
 					</details>
 				</div>
-				<div class="requirements" v-if="account.bank.requirements">
-					<h4>Requirements</h4>
+				</details>
+				<details class="requirements" v-if="account.bank.requirements">
+					<summary>Requirements</summary>
 					<p :class="{error: hasRequirementsError(account)}" v-html="account.bank.requirements"></p>
-				</div>
+				</details>
 			</div>
 		</li>
 	</ul>
@@ -278,7 +279,7 @@ document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 				account.score = (
 					+account.saved * 1000
 					+ +account.hidden * -1000
-					+ account.missingTags.length * -10
+					+ account.missingTags.length * -30
 					+ account.tags.filter(t => t.selected).length * 10
 					+ account.boost
 					+ 1
