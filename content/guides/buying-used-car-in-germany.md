@@ -147,7 +147,13 @@ The next step is to register the vehicle (*Kfz-Zulassung*). You can't drive the 
 
 If you are buying a scooter under 50cc, you can skip this step. When you get insurance for the scooter, you will receive [scooter plates](/glossary/Versicherungskennzeichen) from the insurance company.[^10] You don't need to register it.
 
-There are 3 ways to register a vehicle: in person, online, or at the dealership.
+There are 3 ways to register a vehicle: online, in person, or with a registration service.
+
+### Online
+
+You can register a vehicle online with your BundID account. This works for new and used vehicles. You might need a [residence permit](/glossary/Aufenthaltstitel) or a *[[Personalausweis]]* to do this.
+
+**[Register a vehicle online ➞](https://www.behoerden-serviceportal.de/onlineantraege/onlineantrag?prozessKey=m40191.zl&oeId=L100108.OE.L100108_121364&leistungId=99036008007002&p=110000)**
 
 ### At the Kfz-Zulassungsstelle
 
@@ -182,18 +188,6 @@ The employee will put a new [sticker](/images/berlin-licence-plate-sticker.jpg) 
 If you need a new licence plate, you can go to one of the kiosks in front of the *[[Kfz-Zulassungsstelle]]*. They will make a new plate for you. This costs around 15€, and it only takes a few minutes.
 
 ![Kfz Zulassungsstelle Berlin Schilder](/images/kfz-zulassungsstelle-berlin-schilder.jpg "The kiosks near the Kfz-Zulassungsstelle can make new licence plates for your car. New plates cost around 15€.")
-
-### Online
-
-In Berlin, you can register a vehicle online. This works for new and used vehicles. The fees are the same as in person.
-
-If you are buying a used vehicle, the old registration papers must have an [eID](/images/Zulassungsbescheinigung-eID.jpg). If they don't have an eID, you can't register the vehicle online. If the vehicle was registered in [[Brandenburg]], you can't register it online.
-
-![Zulassungsbescheinigung e ID](/images/Zulassungsbescheinigung-eID.jpg "If the old Zulassungsbescheinigung has an eID, you can register the vehicle online")
-
-**[Register a new vehicle online](https://www.berlin.de/labo/mobilitaet/kfz-zulassung/dienstleistungen/service.850473.php/dienstleistung/329030/)** (in German) - Berlin.de
-
-**[Register a used vehicle online](https://www.berlin.de/labo/mobilitaet/kfz-zulassung/dienstleistungen/service.850473.php/dienstleistung/329036/)** (in German) - Berlin.de 
 
 ### With a registration service
 
