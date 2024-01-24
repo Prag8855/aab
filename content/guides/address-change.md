@@ -38,7 +38,7 @@ The *Bürgeramt* will tell these people your new address:
 - **The Ausländerbehörde**  
     Bring your [residence permit](/glossary/Aufenthaltstitel) to your *Anmeldung* appointment. They will put a sticker on it with your new address. You don't need to go to the *[[Ausländerbehörde]]* to update your residence permit.
 - **The Kfz-Zulassungsstelle**  
-    Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle.
+    Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can also [change your vehicle's address online](https://service.berlin.de/dienstleistung/120918/).
 
 ## Notify everyone
 
@@ -62,7 +62,7 @@ You should also tell...
 - [ ] **The TV tax** (*[[Rundfunkbeitrag]]*)  
     The *[[ARD ZDF Deutschlandradio Beitragsservice]]* collects the [TV tax](/glossary/Rundfunkbeitrag). You can update your address [here](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html). [More information about the TV tax.](/guides/gez-rundfunkbeitrag)
 - [ ] **The Kfz-Zulassungsstelle**  
-    If you have a vehicle, you must update your registration papers. You can do this at the local *[[Kfz-Zulassungsstelle]]* or [online](https://service.berlin.de/dienstleistung/120918/). You will receive a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*.[^2]
+    If you have a vehicle, you must update your registration papers. You can do this at the local *[[Kfz-Zulassungsstelle]]* or [online](https://service.berlin.de/dienstleistung/120918/). You will get a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*.[^2]
 - [ ] **The Kita-Gutscheinstelle**  
     If you send your children to a [[Kita]], [request a Kitagutschein](/guides/how-to-get-a-kitagutschein) for your new address.
 - [ ] **The [Hunderegister](https://hunderegister.berlin.de/)**  

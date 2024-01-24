@@ -116,7 +116,7 @@ You should also get these things:
 - [ ] **Owner's manual**  
     The seller will usually have the owner's manual. If you're lucky, you will even get the service manual. The service manual is useful if you do your own repairs.
 - [ ] **Extra parts**  
-    The seller will often give you extra parts for the vehicle. For example, if they installed aftermarket parts, they will often give you the original parts too.
+    The seller will often give you extra parts for the vehicle. For example, if they installed after-market parts, they will often give you the original parts too.
 
 After you bought the car, the rest is your problem. You will not need to talk to the seller anymore. You are not allowed to drive the vehicle yet; you must register and insure it first. If the vehicle is still registered and insured, some sellers will let you drive it to your home.
 
