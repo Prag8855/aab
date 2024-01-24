@@ -365,12 +365,10 @@ config.context_globals = {
 
     # Minimum pension value (€) to get a freelance visa above age 45 - A21.3 VAB
     # 144 times FREELANCE_VISA_MIN_MONTHLY_PENSION, it seems
-    # TODO (2024-01-01)
-    "FREELANCE_VISA_MIN_PENSION": 206293,
+    "FREELANCE_VISA_MIN_PENSION": 216481,
 
     # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
-    # TODO (2024-01-01)
-    "FREELANCE_VISA_MIN_MONTHLY_PENSION": 1432.59,
+    "FREELANCE_VISA_MIN_MONTHLY_PENSION": 1503.34,
 
     # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12
     "FREELANCE_VISA_MIN_INCOME": 563,
