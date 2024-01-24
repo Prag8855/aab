@@ -200,6 +200,7 @@ health_insurance_min_pflegeversicherung = 2.4
 health_insurance_max_pflegeversicherung = 4
 health_insurance_min_zusatzbeitrag = 1
 health_insurance_max_zusatzbeitrag = 1.9
+freelance_visa_min_monthly_pension = 1503.34
 
 aufenthv_41_countries = [
     "Australia",
@@ -365,10 +366,10 @@ config.context_globals = {
 
     # Minimum pension value (€) to get a freelance visa above age 45 - A21.3 VAB
     # 144 times FREELANCE_VISA_MIN_MONTHLY_PENSION, it seems
-    "FREELANCE_VISA_MIN_PENSION": 216481,
+    "FREELANCE_VISA_MIN_PENSION": round(freelance_visa_min_monthly_pension * 144),
 
     # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
-    "FREELANCE_VISA_MIN_MONTHLY_PENSION": 1503.34,
+    "FREELANCE_VISA_MIN_MONTHLY_PENSION": freelance_visa_min_monthly_pension,
 
     # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12
     "FREELANCE_VISA_MIN_INCOME": 563,
