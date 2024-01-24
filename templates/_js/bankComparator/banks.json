@@ -99,7 +99,7 @@
                 "withdrawalFee": 0.99,
                 "withdrawalFeeExplanation": "5 withdrawals per month at 0.99€, then 2.99€ per withdrawal.",
                 "creditCardMonthlyFee": 0,
-                "monthlyFee": 2.99,
+                "monthlyFee": 3.99,
                 "tags": ["Joint account"],
             },
             {
@@ -108,7 +108,7 @@
                 "withdrawalFee": 0,
                 "withdrawalFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
                 "creditCardMonthlyFee": 0,
-                "monthlyFee": 8.99,
+                "monthlyFee": 9.99,
                 "tags": ["Joint account", "No withdrawal fee"],
             },
         ],
