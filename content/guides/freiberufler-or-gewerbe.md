@@ -41,7 +41,10 @@ A *Gewerbetreibender* has more obligations than a *Freiberufler*.
 If you register a *Gewerbe*, you must...
 
 - **Get a trade licence** (*[[Gewerbeschein]]*)
-- **Pay the trade tax** (*[[Gewerbesteuer]]*)
+- **Pay the trade tax** (*[[Gewerbesteuer]]*)  
+    In Berlin, sole proprietors give an extra {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of their profit for trade tax. - [How the trade tax works](/guides/gewerbesteuer)
+- **Join the [[IHK]] and pay membership fees**  
+    In many cities, IHK membership is mandatory for a *Gewerbe*. The membership fee is a percentage of your profits. - [Fee calculator for Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
 - **Get listed in the trade register** (*[[Handelsregister]]*)  
     If you are a sole proprietor (*Einzelunternehmer*), this is rarely required.
 - **Use double entry bookkeeping**  
@@ -54,7 +57,7 @@ Your *Freiberufler* or *Gewerbetreibender* status also affects...
 - **Your [residence permit](/glossary/Aufenthaltstitel)**  
     When you apply for a [freelance visa](/glossary/Freelance%20visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the required documents for *Freiberufler* and *Gewerbetreibende* are different.[^1]
 - **The help you get**  
-    The [[IHK]] helps *Gewerbetreibende* for free. They do not help *Freiberufler*.
+    The [[IHK]] helps *Gewerbetreibende* who pay the mandatory membership fee. They do not help *Freiberufler*.
 
 It does not affect...
 

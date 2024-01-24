@@ -30,7 +30,7 @@ Think about these costs:
 - **[Liability insurance](/glossary/Haftpflichtversicherung)** (optional)  
     If you make an expensive mistake, liability insurance covers for reparations and other legal costs. Personal liability insurance does not cover your business activities. You need a professional liability insurance. - [More information](/guides/haftpflichtversicherung)
 - **[Trade tax](/glossary/Gewerbesteuer)**  
-    [If you are a *Gewerbe*](/guides/freiberufler-or-gewerbe), you must pay trade tax (*[[Gewerbesteuer]]*). In Berlin, the costs an extra 1.05% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. - [More information](/guides/gewerbesteuer)
+    [If you are a *Gewerbe*](/guides/freiberufler-or-gewerbe), you must pay trade tax (*[[Gewerbesteuer]]*). In Berlin, the costs an extra {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. - [More information](/guides/gewerbesteuer)
 - **[VAT](/glossary/Umsatzsteuer)**  
     You must charge VAT on your products and services, and give that money to the *[[Finanzamt]]*. If you are a *Kleinunternehmer*, you can decide to charge VAT, but you don't have to. - [More information](/guides/value-added-tax)
 - **Pension and savings**  

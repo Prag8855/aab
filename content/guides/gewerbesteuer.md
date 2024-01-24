@@ -1,92 +1,78 @@
 ---
 Title: What is the trade tax (Gewerbesteuer)?
 Short_title: How the trade tax works
-Description: If you are self-employed in Germany, you might have to pay a trade tax. This is how it works, and how much it costs.
+Description: If you are self-employed in Germany, you might need to pay a trade tax. This is how it works, and how much it costs.
 Date_created: 2021-01-19
 ---
 
-Some German businesses must pay the trade tax (*Gewerbesteuer*). This guide explains how this tax works.
+Most German businesses must pay a trade tax (*[[Gewerbesteuer]]*) on their [profits](/glossary/Gewinn). If you [start a business in Germany](/guides/start-a-business-in-germany), you must understand how the trade tax works. This guide explains it.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How much is the Gewerbesteuer?
+## Who must pay trade tax
 
-The trade tax is a tax on profit ([*Gewinn*](/glossary/Umsatz)), not revenue (*[[Umsatz]]*). The trade tax is 3.5% of your profits, multiplied by the local tax factor (*Hebesatz*).[^0] The *Hebesatz* is [different in every city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/). In Berlin, the *Hebesatz* is 410%,[^1] so **the trade tax is 14.35% of your profit**.[^2]
+**Sole proprietorships, partnerships and corporations** must pay the trade tax. This includes *[[Kleinunternehmer]]*.
 
-> **Trade tax:** 3.5% (base tax) × 410% (*Hebesatz*) = **14.35%**
+Freelancers (*[[Freiberufler]]*) do not pay the trade tax. [Not all self-employed people](/guides/freiberufler-or-gewerbe) are freelancers. If you work alone, you might still need to pay the trade tax.
 
-If you run a sole proprietorship or a partnership, **you don't really pay that much**. When you pay the trade tax, you get a tax credit on your [income tax](/glossary/Einkommensteuer).[^3] Most of what you pay in trade tax, you save in income tax. The tax credit is 13.3% of your profit.[^1]
+## How much is the trade tax?
 
-> **Extra tax:** 14.35% (trade tax in Berlin) − 13.3% (income tax credit) = **1.05%**
+In Berlin, trade tax is {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_HEBESATZ_BERLIN }}% of your profit. As a sole proprietor, you get most of it back as tax credits.[^12] In the end **you pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes** in total.
 
-In other words, in Berlin, you only pay 1.05% more with the trade tax than without.
+To calculate your trade tax:
+
+1. Take your [profit](/glossary/Gewinn) for the year, and round it down to the nearest 100€.[^11]
+2. If you are a sole proprietor (*Einzelunternehmer*), remove {{GEWERBESTEUER_FREIBETRAG|cur}}€ (the tax-free amount).
+2. Multiply that by {{ GEWERBESTEUER_MESSBETRAG }}%.
+3. Multiply that by [the *Hebesatz* in your city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/). In Berlin, it's {{ GEWERBESTEUER_HEBESATZ_BERLIN }}%.
+
+> **Example trade tax calculation**  
+> For a sole proprietor in Berlin
+
+> 1. **{{45678|cur}}€ per year profit**, rounded down to {{45600|cur}}€
+> 2. {{45600|cur}}€ - {{GEWERBESTEUER_FREIBETRAG|cur}}€ tax-free amount = {{(45600 - GEWERBESTEUER_FREIBETRAG)|cur}}€ taxable profit
+> 3. {{(45600 - GEWERBESTEUER_FREIBETRAG)|cur}}€ × {{GEWERBESTEUER_MESSBETRAG}}% = {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG/100)|cur}}€
+> 4. {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG/100)|cur}}€ × 410% = **{{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*GEWERBESTEUER_HEBESATZ_BERLIN/100)|cur}}€ trade tax**
+
+If you are a sole proprietor (*Einzelunternehmer*), you get an income tax credit for the trade tax you pay.[^3] **You pay {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_HEBESATZ_BERLIN }}% trade tax, but you get {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_TAX_CREDIT }}% income tax back.** In other words, you only pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes in total.
+
+> {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*GEWERBESTEUER_HEBESATZ_BERLIN/100)|cur}}€ trade tax - {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*GEWERBESTEUER_TAX_CREDIT/100)|cur}}€ [income tax](/glossary/Einkommensteuer) credit = **{{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*(GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT)/100)|cur}}€ extra taxes**
+
+**[Trade tax calculator](https://www.smart-rechner.de/gewerbesteuer/rechner.php)** - Smart-Rechner.de (in German)
 
 ### Tax-free amount
 
-For most businesses, **the first {{GEWERBESTEUER_FREIBETRAG|cur}}€ in profit are not taxed**. For example, if you make 100,000€ in profit, you will only pay trade tax on 75,500€.[^2] This tax-free amount is called the *Freibetrag.*
+If you are a sole proprietor (*Einzelunternehmer*), the first {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year in profit are not taxed. If you have a society (*Verein*), the first 5,000€ per year in profit are not taxed.[^4] If you have a corporation (*Kapitalgesellschaft*, *AG*, *GmbH*), the entire profit is taxed.[^5]
 
-> **Taxable amount:** 100,000€ (profit) − {{GEWERBESTEUER_FREIBETRAG|cur}}€ (tax-free amount) = **75,500€**
+## IHK membership
 
-For a society (*Verein*), the first 5,000€ in profit are not taxed.[^4] For a corporation (*Kapitalgesellschaft*, *AG*, *GmbH*), the entire profit is taxed.[^5]
+In Berlin, all businesses that pay trade tax must join the [[IHK]] and pay the membership fee. The IHK membership fee is not the same as the trade tax.
 
-### Full example
+**[IHK membership fee calculator ➞](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)**
 
-If you are a sole proprietor in Berlin, and you earn a profit of 50,000€ per year, you would pay 3,659€ in trade tax.[^1]
-
-> Your profit: 50,000€  
-> Your taxable amount: 50,000€ − {{GEWERBESTEUER_FREIBETRAG|cur}}€ (tax-free amount) = 25,500€  
-> The trade tax rate in Berlin: 3.5% × 410% = 14.35% **Your trade tax:** 14.35% × 25,500€ = **3,659.25€**
-
-You will get most of the trade tax back as a tax credit on your [income tax](/glossary/Einkommensteuer):
-
-> Your taxable amount: 50,000€ − {{GEWERBESTEUER_FREIBETRAG|cur}}€ = 25,500€  
-> The tax credit rate: 3.5% × 380% = 13.3%  
-> Your tax credit: 13.3% × 25,500€ = 3,391.50€ **The difference:** 3,659.25€ − 3,391.50€ = **267.75€**
-
-After the income tax credit, you pay 267.75€ more with the trade tax than without it.
-
-### Trade tax calculators
-
-- [Trade tax calculator](https://www.smart-rechner.de/gewerbesteuer/rechner.php) - Smart-Rechner.de (in German)
-- [Trade tax calculator](https://www.gewerbeanmeldung.de/gewerbesteuer-hebesatz) - Gewerbeanmeldung.de (in German)
-- [*Hebesatz* by city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/) - Lexoffice (in German)
-
-## Who must pay the Gewerbesteuer?
-
-**Sole proprietorships, partnerships and corporations** must pay trade tax. If you are a *[[Kleinunternehmer]]*, you must also pay trade tax, but only if your profit is over {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year.
-
-These businesses do not pay trade tax:
-
-- **Freelancers** (**[[Freiberufler]]**)  
-    This is only if you are a *[[Freiberufler]]* according to the *[[Finanzamt]]*. For more information, see [this guide](/guides/freiberufler-or-gewerbe). If you have multiple businesses, including at least one *Gewerbe*, you must pay trade tax on your entire income. For example, I was a freelance developer, and [my website is a *Gewerbe*](/guides/website-freiberuf-or-gewerbe). I still had to pay trade tax on my freelance developer income.
-- **Agriculture and forestry businesses**
-- **Businesses who earn less than {{GEWERBESTEUER_FREIBETRAG|cur}}€ in profit per year**  
-    You must [register for the trade tax](/guides/gewerbeschein), but you will pay 0€ in trade tax.[^2]
-
-## When to pay the Gewerbesteuer
-
-First, you must [register for the trade tax](/guides/gewerbeschein) at the *Gewerbeamt*, and [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*). In Berlin, it costs 15€ to 31€.[^7]
-
-In Berlin, the [[IHK]] sends you a *Beitragsbescheid* by post every year.[^1] It tells you how much *Gewerbesteuer* you owe. You have 30 days to pay by [bank transfer](/glossary/SEPA-Überweisung).[^9] You can't automate it with a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^10]
+You get an IHK letter (*Beitragsbescheid*) every year. You have 30 days to pay. You can't automate payments with a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^10]
 
 [![Example IHK Beitragsbescheid](/images/ihk-berlin-beitragsbescheid-gewerbesteuer.png "A Beitragsbescheid from the IHK")](/images/ihk-berlin-beitragsbescheid-gewerbesteuer.png)
 
-If you have a high income, the *[[IHK]]* can request advance tax payments (*Vorauszahlungen*) every quarter:[^6] on February 15, May 15, August 15 and November 15.
+## How to pay the trade tax
+
+You start paying trade tax after you [do your *Gewerbeanmeldung*](/guides/gewerbeschein). Trade tax is collected by the *[[Finanzamt]]* at the same time as the [income tax](/glossary/Einkommensteuer).
+
+Every year, you must make a [tax declaration](/glossary/Steuererklärung) for your business. A bit later, the *Finanzamt* will send you a tax assessment for income tax (*Gewerbesteuerbescheid*) and trade tax (*Gewerbesteuerbescheid*). It tells you how much you need to pay.
+
+If you have a high income, the *Finanzamt* can request advance tax payments (*Vorauszahlungen*) every quarter:[^6] on February 15, May 15, August 15 and November 15. You pay income tax and trade tax in advance, and it's adjusted later.
 
 ## Need help?
 
-If you are [starting a business in Germany](/guides/start-a-business-in-germany), you should [hire a tax advisor](/guides/english-speaking-steuerberater-berlin) (*[[Steuerberater]]*). They will help you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), file your taxes, and help you with other business problems.
+When you [start a business in Germany](/guides/start-a-business-in-germany), you should [hire a tax advisor](/guides/english-speaking-steuerberater-berlin) (*[[Steuerberater]]*). They can help you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), file your taxes, and solve other tax problems.
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
-[^0]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/)
-[^1]: [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^2]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)
 [^4]: [§11 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
 [^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^6]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
-[^7]: [berlin.de](https://service.berlin.de/dienstleistung/121921/)
-[^8]: [consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax), [Wikipedia](https://fr.wikipedia.org/wiki/Gewerbesteuer_\(Allemagne\))
-[^9]: [ihk.de](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124#:~:text=fallig%20wird%20die%20gewerbesteuer%20ebenfalls%20einen%20monat%20nach%20erteilung%20des%20steuerbescheids%2C%20soweit%20sie%20nicht%20bereits%20durch%20vorauszahlungen%20ausgeglichen%20ist.)
 [^10]: [ttc.tax](https://ttc.tax/ihk-berlin-bietet-mitgliedern-keine-teilnahme-am-lastschriftverfahren-an/)
+[^11]: [§11 Abs. 3 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
+[^12]: [Haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/gewerbesteueranrechnung-steuerermaessigung-bei-gewerblich-31-grundfall_idesk_PI20354_HI2179474.html)

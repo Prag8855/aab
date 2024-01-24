@@ -1,7 +1,8 @@
 from datetime import datetime
-from ursus.config import config
+from decimal import Decimal
 from extensions.functions import glossary_groups
 from pathlib import Path
+from ursus.config import config
 import logging
 import os
 import secrets
@@ -469,8 +470,14 @@ config.context_globals = {
     "ENTLASTUNGSBETRAG_ALLEINERZIEHENDE_EXTRA_CHILD": 240,
 
     # Below that amount (€/y), you don't pay Gewerbesteuer - § 11 GewStG
-    # WARNING: If you change this, some example calculations in the content will be incorrect
     "GEWERBESTEUER_FREIBETRAG": 24500,
+
+    # Used as the basis, multiplied by the Hebesatz - § 11 GewStG
+    "GEWERBESTEUER_MESSBETRAG": Decimal('3.5'),
+
+    # Not watched
+    "GEWERBESTEUER_TAX_CREDIT": Decimal('3.8'),
+    "GEWERBESTEUER_HEBESATZ_BERLIN": Decimal('4.1'),
 
     # Above that amount (€/y), you are no longer a Kleinunternehmer - § 19 UStG
     "KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR": 22000,

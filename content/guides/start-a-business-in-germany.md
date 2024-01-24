@@ -41,11 +41,13 @@ This is for sole proprietors and partnerships. Corporations and limited liabilit
 
 ### Trade tax
 
-**Cost:** 0% to 3% of all profit above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year
+**Cost:** In Berlin, {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of all profit above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year. Similar in other cities.
 
-If your business is registered as a *[[Gewerbe]]*, you must pay the trade tax (*[[Gewerbesteuer]]*). This is a tax on all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. You can credit most of it from your [income tax](/glossary/Einkommensteuer). In Berlin, you pay 1.05% more taxes on your profit with the trade tax. In other German cities, you pay 0% to 3% of your profit.
+If your business is registered as a *[[Gewerbe]]*, you must pay the trade tax (*[[Gewerbesteuer]]*). This is a tax on all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. You can credit most of it from your [income tax](/glossary/Einkommensteuer). In Berlin, you pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes on your profit with the trade tax. In other German cities, you pay 0% to 3% of your profit.
 
 **[What is the trade tax? ➞](/guides/gewerbesteuer)**
+
+In Berlin and a few other cities, if you pay the trade tax, you are forced to join the [[IHK]] and pay the membership fee. This can cost up to a few hundred euros per year.
 
 ### Health insurance
 
