@@ -34,7 +34,7 @@ There are 2 ways to get an appointment:[^2]
 
 Don't get an appointment. Instead, use the [contact form](/out/auslanderbehorde-contact), send your full [residence permit](/glossary/Aufenthaltstitel) application, and wait.[^6] **This is usually the fastest option**, but it can take a few months to get a reply.
 
-If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], send your documents 8 weeks before it expires, not sooner.[^1] You must send your application before your residence permit expires.[^5] [If your visa or residence permit expires](#if-your-residence-permit-expires-soon), sending your documents usually allow you to stay in Germany.
+If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], send your documents 8 weeks before it expires, not sooner.[^1] You must send your application before your residence permit expires.[^5] [If your visa or residence permit expires](#if-your-residence-permit-expires-soon), sending your documents usually allows you to stay in Germany.
 
 To send your documents...
 
