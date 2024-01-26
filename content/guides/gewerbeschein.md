@@ -12,7 +12,7 @@ You must do your *Gewerbeanmeldung* to...
 - Get trade licence (*[[Gewerbeschein]]*)
 - Register for the trade tax (*[[Gewerbesteuer]]*)
 
-Freelancers (*[[Freiberufler]]*) and [small businesses](/glossary/Kleinunternehmer) do not need to do their *Gewerbeanmeldung*, because they [do not pay the trade tax](/guides/gewerbesteuer#who-must-pay-the-gewerbesteuer).[^0]
+Freelancers (*[[Freiberufler]]*) do not pay the trade tax. They don't need to do the *Gewerbeanmeldung*.[^0]
 
 You can do this online. It takes 30 minutes to fill the form, and around 4 weeks to get the *[[Gewerbeschein]]*. It costs {{GEWERBEANMELDUNG_FEE|cur}}€.
 
@@ -138,9 +138,11 @@ Pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
 
 After you send your application, nothing happens. Around 4 weeks later, you get an email that confirms your *Gewerbeanmeldung*. You can then download your *[[Gewerbeschein]]*. In some districts, it takes much longer.[^5]
 
-You are now registered for the trade tax (*[[Gewerbesteuer]]*).
+You are now registered for the trade tax (*[[Gewerbesteuer]]*). You also become a member of the [[IHK]], and must pay the membership fee. You don't have a choice.
 
-**[How the trade tax works ➞](/guides/gewerbesteuer#who-must-pay-the-gewerbesteuer)**
+**[How the trade tax works ➞](/guides/gewerbesteuer)**
+
+**[How the IHK membership works ➞](/guides/gewerbesteuer#ihk-membership)**
 
 ## Other ways to register
 

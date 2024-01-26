@@ -229,8 +229,8 @@ $width-main-column: 860px;
 	--c-text-error: #{darken(#da513d, 20%)};
 	--c-text-heading: #000;
 	--c-text-light: #757575;
-	--c-text-link: #00e;
-	--c-text-link-visited: #61a;
+	--c-text-link: #55f;
+	--c-text-link-visited: #77b;
 	--c-text-placeholder: #4447;
 	--c-text: #444;
 
@@ -295,8 +295,10 @@ $width-main-column: 860px;
 		--c-text-error: #{lighten(#9f3a2b, 20%)};
 		--c-text-heading: #ddd;
 		--c-text-light: #999;
-		--c-text-link-visited: #a9d;
-		--c-text-link: #bbf;
+
+		--c-text-link: #cc5;
+		--c-text-link-visited: #bb7;
+
 		--c-text-placeholder: #bbb7;
 		--c-text-selection: #550;
 		--c-bg-website: #111;
