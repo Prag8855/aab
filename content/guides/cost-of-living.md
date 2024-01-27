@@ -180,7 +180,7 @@ My budget includes a motorcycle, and a garage (120€/month). You don't need tho
 | [Rent](/glossary/Warmmiete)                       | 678€ | 8,136€ |
 | Groceries                        | 175€ | 2,100€ |
 | Electricity                      | 50€  | 600€   |
-| Public transit pass              | {{DEUTSCHLAND_TICKET_PRICE|cur}}€ | {{DEUTSCHLAND_TICKET_PRICE*12|cur}}€ |
+| Public transit pass              | {{DEUTSCHLAND_TICKET_PRICE|cur}}€ | {{(DEUTSCHLAND_TICKET_PRICE*12)|cur}}€ |
 | Internet                         | 40€  | 480€   |
 | [Vehicle insurance](/glossary/Kfz-Versicherung)          | 25€  | 304€   |
 | [TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag) | 18€  | 210€   |
