@@ -58,7 +58,7 @@ You get an IHK letter (*Beitragsbescheid*) every year. You have 30 days to pay. 
 
 You start paying trade tax after you [do your *Gewerbeanmeldung*](/guides/gewerbeschein). Trade tax is collected by the *[[Finanzamt]]* at the same time as the [income tax](/glossary/Einkommensteuer).
 
-Every year, you must make a [tax declaration](/glossary/Steuererklärung) for your business. A bit later, the *Finanzamt* will send you a tax assessment for income tax (*Gewerbesteuerbescheid*) and trade tax (*Gewerbesteuerbescheid*). It tells you how much you need to pay.
+Every year, you must make a [tax declaration](/glossary/Steuererklärung) for your business. A bit later, the *Finanzamt* will send you a tax assessment for income tax (*[Einkommensteuerbescheid](/glossary/Steuerbescheid)*) and trade tax (*Gewerbesteuerbescheid*). It tells you how much you need to pay.
 
 If you have a high income, the *Finanzamt* can request advance tax payments (*Vorauszahlungen*) every quarter:[^6] on February 15, May 15, August 15 and November 15. You pay income tax and trade tax in advance, and it's adjusted later.
 
