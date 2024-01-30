@@ -37,7 +37,7 @@ To get a Blue Card, you need...[^18]
     - [ ] **A German employer**  
         You must work for a German employer, or an employer with an office in Germany.[^30] It can be a remote job. You must be an employee, not a freelancer.
     - [ ] **A high salary**  
-        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/en/pdfs/list-bottleneck-professions-2023), your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32]
+        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/pdf-engpassberufe-en), your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32]
     - [ ] **A long term contract**  
         Your job contract must be for at least 6 months.[^24]
 - [ ] **Qualifications for this job**  
