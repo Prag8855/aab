@@ -4,7 +4,9 @@ Description: My name, email, address, IBAN, tax number and other contact informa
 Date_created: 2022-01-27
 ---
 
-Hi, I'm Nicolas. You can contact me to…
+Hi, I'm Nicolas. <mark>**I am currently on vacation**</mark> and I will not check my emails. You must [find someone else to help you](/guides/questions-about-berlin).
+
+When I am back, you can contact me to...
 
 - **Ask a question**  
     Please [ask the right people](/guides/questions-about-berlin) first. I would love to help you, but I get a lot of questions, and I don't have enough time to answer everyone. I can't give legal or financial advice. I can't answer visa and residence permit questions.
@@ -23,7 +25,7 @@ Hi, I'm Nicolas. You can contact me to…
 
 **Website owner**: [Nicolas Bouliane](https://nicolasbouliane.com)
 
-**Email**: <contact@allaboutberlin.com>
+**Email**: <contact@allaboutberlin.com> - <mark>**I am currently on vacation**</mark> and I will not check my emails.
 
 **Address**: Pasewalker Str. 65, 13127 Berlin
 
