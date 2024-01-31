@@ -47,7 +47,7 @@ You can't buy this ticket from a ticket machine or from the BVG app.
 
 You can only get the Deutschland Ticket as a subscription. This means that you pay automatically every month until you cancel your subscription.
 
-You must buy your ticket in advance. You have until the 10th day of the month to buy your ticket for the next month. For example, you have until May 10 to buy your ticket for June.
+You can buy the ticket at any time at the service centre. If you buy it online, you must buy it in advance, unless you buy it at the service. You have until the 10th day of the month to buy your ticket for the next month. For example, you have until May 10 to buy your ticket for June.
 
 When you buy the ticket, you sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), and pay by automatic [bank transfer](/glossary/SEPA-%C3%9Cberweisung) every month. You need a European [bank account](/guides/first-bank-account-in-germany) for this.
 
@@ -70,5 +70,7 @@ You can cancel your ticket...
 - On the [BVG website](https://abo.bvg.de/de/)
 - On the [S-Bahn Berlin website](https://www.abo-antrag.de/de/kuendigen/)
 - At a [BVG](https://www.bvg.de/en/service-and-support/customer-centers-and-shops) or [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) service centre
+
+If you cancel online, you must do it in advance. If you do it at the service centre, you can cancel at any time.
 
 [^0]: [bvg.de](https://www.bvg.de/en/deutschland-ticket), [sbahn.berlin](https://sbahn.berlin/aktuelles/artikel/deutschlandticket-lohnt-ein-wechsel/), [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/deutschland-ticket/?acc=a26619-t4), [rbb24.de](https://www.rbb24.de/politik/beitrag/2023/03/49-euro-ticket-deutschlandticket-nahverkehr.html)

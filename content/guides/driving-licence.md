@@ -129,6 +129,8 @@ The practical exam includes city driving, highway driving and a few technical ma
 
 You will then drive back to the Dekra or TÜV branch. This is still part of the exam, so be careful. If you passed the exam, the instructor will take your current driving licence (if you have one), and give you a temporary driving licence.
 
+If you are not sure, watch [videos of German driving exams](https://www.youtube.com/@GermanDrivingSchool). These videos describe exactly how the exam works, in English.
+
 ## 7. Get your driving licence
 
 When you pass your practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID.[^10] You also give back your current driving licence, so this is your only driving licence for now.

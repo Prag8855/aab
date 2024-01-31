@@ -44,6 +44,12 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 
 **[List of recycling centres in Berlin](https://www.bsr.de/recyclinghoefe-20503.php)** - [[Berliner Stadtreinigung]]
 
+### Bulk trash collection days
+
+On special days, you can bring furniture, mattresses and other big trash to special collection points in your neighbourhood. It's easier than going to the recycling centre.
+
+**[Bulk trash collection days](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)** - BSR
+
 ## Containers and packaging
 
 ### Paper and cardboard
@@ -158,8 +164,8 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
     If it's still good, [sell or donate it](/guides/how-do-i-buy-and-sell-used-things-in-berlin).
 - **Appliances ➞ [appliance collector](https://waschmaschinen-entsorgung-berlin.de/), [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement), or recycling centre**  
     Stores that sell appliances must also recycle them for free. When you buy an appliance, they often take back your old appliance. You can also contact [Wachmachinen Entsorgung Berlin](https://waschmaschinen-entsorgung-berlin.de/).
-- **Big items ➞ recycling centre**  
-    This includes furniture, appliance and mattresses. In Berlin, [BSR can pick up big items](https://www.bsr.de/sperrmuell-21705.php) (for a fee)
+- **Big items ➞ recycling centre or [collection days](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)**  
+    This includes furniture, appliance and mattresses. In Berlin, [BSR can pick up big items](https://www.bsr.de/sperrmuell-21705.php) (for a fee). You can also wait for [bulk trash collection days](#bulk-trash-collection-days) in most areas.
 
 ## Trees, soil and grass
 
