@@ -119,17 +119,19 @@ When you are ready to take the theoretical exam, go to your assigned Dekra or T�
 
 ## 6. Take the practical exam
 
-As soon as you pass the theoretical exam, your driving school can schedule your practical exam with Dekra or TÜV.
+As soon as you pass the theoretical exam, your driving school can schedule your practical exam with Dekra or TÜV. In Berlin, your exam will be in a few months.[^16]
 
-The practical exam is similar to what you practiced. Your driving instructor and the examiner will sit in the car with you. If you take the motorcycle exam, they will follow in a car behind you.
+The practical exam is similar to what you practised. Your driving instructor and the examiner will sit in the car with you. If you take the motorcycle exam, they will follow in a car behind you.
 
 **The examiners rarely speak English**. You must understand enough German to listen to their instructions.
 
 The practical exam includes city driving, highway driving and a few technical maneuvers. You will take a short trip from the Dekra or TÜV branch to a quiet street where you will be asked to perform some maneuvers.
 
-You will then drive back to the Dekra or TÜV branch. This is still part of the exam, so be careful. If you passed the exam, the instructor will take your current driving licence (if you have one), and give you a temporary driving licence.
+You must be well-prepared. **44% of students fail their first practical exam.**[^15]
 
 If you are not sure, watch [videos of German driving exams](https://www.youtube.com/@GermanDrivingSchool). These videos describe exactly how the exam works, in English.
+
+You will then drive back to the Dekra or TÜV branch. This is still part of the exam, so be careful. If you passed the exam, the instructor will take your current driving licence (if you have one), and give you a temporary driving licence.
 
 ## 7. Get your driving licence
 
@@ -176,3 +178,5 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
 [^13]: [reddit.com](https://old.reddit.com/r/berlin/comments/yv8dqx/impossible_to_get_an_appointment_at/)
 [^14]: [marlonbernardes.github.io](https://marlonbernardes.github.io/awesome-berlin/en/pages/obtaining-a-drivers-license.html#picking-up-your-permanent-license)
+[^15]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=in%20berlin%20fallen%2044%20prozent) (2024)
+[^16]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=etwa%20vier%20monate%20warten) (2024)
