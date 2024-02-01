@@ -31,13 +31,9 @@ You can get help from these communities and services.
     They offer legal help about immigration. They answer in English, and many other languages. They answer a few days later.
 - **["Working and Living in Germany" hotline](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
     This phone hotline helps people move to Germany. They speak English.
-- **[Legal advice service](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947832.en.php)** of the *[[Ausländerbehörde]]*   
-    The *[[Ausländerbehörde]]* offers [free immigration advice](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947832.en.php) in German, Turkish, Farsi and Arabic. You might also be able to get help in English.
 - [The Imagine Foundation](https://www.joinimagine.com/)  
     If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English.[^0]
-- [Fem.OS](https://femos.minor-kontor.de/en)  
-    They offer information and legal advice for female migrants. They speak 10 languages.
-- [Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/) - Facebook group
+- [Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/) - Facebook group for immigration advice.
 - [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa) - Facebook group
 - [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/) - Facebook group
 
