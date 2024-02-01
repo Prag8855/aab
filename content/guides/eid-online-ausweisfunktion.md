@@ -22,7 +22,7 @@ German ID cards have a chip in them. You can use your ID card and the [AusweisAp
 - Registering a vehicle after you [buy it](/guides/buying-used-car-in-germany)
 - [Requesting a replacement](/guides/replacement-meldebescheinigung) of your [registration certificate](/glossary/Meldebescheinigung)
 
-In Berlin, most services are not digital, or they don't require an eID.
+In Berlin, most services are not digital, or they don't require an eID. Most new digital services require an eID.
 
 If you don't have eID, you must do everything in person. It's slower.
 
@@ -30,11 +30,9 @@ If you don't have eID, you must do everything in person. It's slower.
 
 ### 1. Check if it's activated
 
-Download the [AusweisApp](https://www.ausweisapp.bund.de/en/home), and use your phone to scan your residence permit. The app will tell you if your eID already works.
+Some residence permits come with the eID feature already activated.[^4]
 
-If you received your residence permit by mail, the eID is not activated. If you picked it up at the *Ausländerbehörde*, it's sometimes activated.[^4] Ask them to activate it when you pick up the residence permit.
-
-After you apply for your residence permit, you will get a letter with a PIN for your eID. It arrives 2 weeks before your new residence permit.[^3]
+**[Download the AusweisApp](https://www.ausweisapp.bund.de/en/home)**, and use your phone to scan your residence permit. The app will tell you if your eID already works.
 
 ### 2. Activate your eID
 
@@ -49,5 +47,5 @@ If you pick up your residence permit at the *Ausländerbehörde*, ask if they ca
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/)
 [^2]: [Reddit](https://old.reddit.com/r/berlin/comments/11tuxdm/trapped_in_bureaucratic_loop_eid_function_for/), [Reddit](https://old.reddit.com/r/berlin/comments/z3fd24/visiting_berlin_moving_here_going_clubbing_have_a/jaqlmvx/), [Reddit](https://old.reddit.com/r/berlin/comments/12ew8ct/how_do_i_activate_the_eid_functionality_on_my/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1438781530329812/)
 [^3]: [Reddit](https://old.reddit.com/r/germany/comments/13gq82g/i_received_instructions_on_activating_my/)
-[^4]: Multiple relocation consultants (November 2023)
+[^4]: Multiple relocation consultants (November 2023), reader feedback (January 2024)
 [^5]: [Emily Archer](https://www.archer-relocation.com/) (December 2023)
