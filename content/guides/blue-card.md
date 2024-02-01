@@ -148,7 +148,7 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 **[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index)** - berlin.de
 
-It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, Mastercard, PayPal or [[Girocard]], but not with cash.[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
+It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, Mastercard or PayPal, but not with cash or [[Girocard]].[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20Absetzbar), so keep the receipt.
 
 After you pay and send your application, you can download a PDF. This is a proof of application. Save it for later.
 
@@ -375,7 +375,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
-[^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card%2C%20paypal%2C%20giropay)
+[^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/), [18c.2.3. VAB](https://www.berlin.de/einwanderung/_assets/20191129.pdf)
 [^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
