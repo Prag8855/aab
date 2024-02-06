@@ -11,9 +11,9 @@ Related_guides:
     guides/salaries-in-germany.md
 ---
 
-The salary tax (*Lohnsteuer*) is a tax that your employer deducts from your paychecks. It's an advance payment for your *estimated* income tax (*[[Einkommensteuer]]*).
+Every month, your employer deducts salary tax (*Lohnsteuer*) from your paycheck. Salary tax is a prepayment for [income tax](/glossary/Einkommensteuer).
 
-When you file a tax declaration ([[Steuererklärung]]), you calculate your real income tax. If you paid more salary tax than your real income tax, you will get money back.
+When you file a [tax declaration](/glossary/Steuererklärung), you calculate your real income tax. If you paid more salary tax than your real income tax, you get money back.
 
 **[Calculate your salary tax ➞](/tools/tax-calculator)**
 

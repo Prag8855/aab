@@ -216,7 +216,7 @@
 		Looking for appointments...
 	</p>
 	<label v-if="isConnected" class="checkbox">
-		<input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound when there are {{ appointments.length > 0 ? '' : 'new' }} appointments
+		<input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound on {{ appointments.length > 0 ? '' : 'new' }} appointments
 	</label>
 {% endraw %}
 </collapsible>

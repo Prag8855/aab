@@ -2629,6 +2629,11 @@ details{
 		> * + * { margin-top: var(--s) }
 		+ .timer{ margin-bottom:var(--s) }
 	}
+	.checkbox{
+		border-top: var(--b-box);
+		margin-top: var(--m);
+		padding-top: var(--m);
+	}
 }
 
 .collapsible-options{
