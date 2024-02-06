@@ -13,8 +13,6 @@ Every year in January, [BSR](/glossary/Berliner%20Stadtreinigung) collects old C
 
 **[Tree disposal calendar](https://www.bsr.de/frohe-umwelt-fur-unsere-weihnachten-23170.php#:~:text=wann%20wird%20mein%20weihnachtsbaum%20abgeholt%3F)** - Berliner Stadtreinigung
 
-[Calendar for January 2024](https://www.berlin.de/special/1590109-208-weihnachtsbaeume-abholtermine-der-bsr-im.html) - Berlin.de{{ fail_on('2024-02-01') }}
-
 ## Leave your tree on the sidewalk
 
 Remove all the decorations from the tree, and bring it outside 1 or 2 days before the collection date.[^0] Leave the tree on the sidewalk, close to the street. It should not get in the way or block the sidewalk.
