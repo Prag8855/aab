@@ -152,6 +152,24 @@
 				lastChecked() {
 					return this.lastMessage ? new Date(this.lastMessage.time) : null;
 				},
+				lastFoundMessage() {
+					if(this.appointments.length || !this.lastMessage || !this.lastMessage.lastAppointmentsFoundOn){
+						return null;
+					}
+
+					const lastFoundDate = new Date(this.lastMessage.lastAppointmentsFoundOn);
+					const secondsAgo = Math.floor((new Date() - lastFoundDate) / 1000) - 10;  // Leave 10s for the refresh
+
+					if (secondsAgo < 60) {
+						return "a minute";
+					} else if (secondsAgo < 3600) {
+						const minutesAgo = Math.floor(secondsAgo / 60);
+						return `${minutesAgo} minute${minutesAgo !== 1 ? 's' : ''}`;
+					} else {
+						const hoursAgo = Math.floor(secondsAgo / 3600);
+						return `${hoursAgo} hour${hoursAgo !== 1 ? 's' : ''}`;
+					}
+				},
 				isRateLimited() {
 					return this.lastMessage ? this.lastMessage.status === 502 : false;
 				},
@@ -198,7 +216,7 @@
 		<p>
 			<template v-if="isDuringOfficeHours">This happens often.</template>
 			<template v-if="!isDuringOfficeHours">There are more appointments on weekdays between 8:00 and 17:00.</template>
-			<a target="_blank" href="/out/appointment-anmeldung">Check Berlin.de</a>, <a href="tel:+49115">call 115</a> or <a href="/guides/berlin-burgeramt-appointment#email-the-burgeramt">email your <em>Bürgeramt</em></a>. It's sometimes faster.
+			<a target="_blank" href="/out/appointment-anmeldung">Check Berlin.de</a>, <a href="tel:+49115">call 115</a> or <a href="/guides/berlin-burgeramt-appointment#email-the-burgeramt">email your <em>Bürgeramt</em></a>. It might work better.
 		</p>
 	</template>
 	<div class="appointments" v-if="appointments.length > 0">
@@ -210,6 +228,7 @@
 		</a>
 	</div>
 	<p class="timer" v-if="isConnected && !hasError && secondsToNextMessage > 0">
+		<template v-if="lastFoundMessage">Last appointments found {{ lastFoundMessage }} ago.</template>
 		Checking again in {{ secondsToNextMessage }} {{ secondsToNextMessage > 1 ? 'seconds' : 'second' }}.
 	</p>
 	<p class="timer" v-if="isConnected && !hasError && secondsToNextMessage <= 0">
