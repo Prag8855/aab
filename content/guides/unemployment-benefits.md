@@ -9,6 +9,8 @@ Related_reviews:
 
 This guide shows you how to get unemployment benefits (*[[ALG I]]*) after you [lose your job](/guides/losing-your-job). *ALG I* pays 60% to 67% of your previous salary,[^3] and it pays for your [health insurance](/glossary/Krankenversicherung).
 
+**[Losing your job in Germany ➞](https://allaboutberlin.com/guides/losing-your-job)**
+
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who can get unemployment benefits?
