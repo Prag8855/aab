@@ -5,7 +5,7 @@ Description: This is how you activate the Online-Ausweisfunktion of your elektro
 Date_created: 2023-10-23
 ---
 
-You can use your [residence permit](/glossary/Aufenthaltstitel) as an eID, but this feature is not always activated. This guide explains how to activate it.
+You can use your [residence permit](/glossary/Aufenthaltstitel) as an eID. This allows you to log into online government services. This feature is not always activated. This guide explains how to activate it.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -33,6 +33,8 @@ If you don't have eID, you must do everything in person. It's slower.
 Some residence permits come with the eID feature already activated.[^4]
 
 **[Download the AusweisApp](https://www.ausweisapp.bund.de/en/home)**, and use your phone to scan your residence permit. The app will tell you if your eID already works.
+
+[![Screenshots of the AusweisApp showing active and inactive eIDs](/images/eid-ausweisapp-verification.jpg "Left: an activated eID. Right: a deactivated eID.")](/images/eid-ausweisapp-verification.jpg)
 
 ### 2. Activate your eID
 
