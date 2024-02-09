@@ -1,15 +1,17 @@
 ---
 Title: Review of Conny, the rent reduction service
 Short_title: Review of Conny rent reduction
-Description: A neutral, independently researched review of Conny (once called Wenigermiete), the service that promises to reduce your rent.
+Description: A neutral, independent review of Conny's rent reduction service.
 Date_created: 2020-07-29
 ---
 
-In 2015, Berlin passed the *[[Mietpreisbremse]]* law. It's a rent control law that limits the rents in Berlin.
+Berlin has [rent control laws](/glossary/Mietpreisbremse). If your rent is too high, you can get it reduced.
 
-[Conny](/out/conny) is a legal service that helps people apply the *Mietpreisbremse*, and reduce their rent. Before, it was called Wenigermiete. In this guide, I review their business model, their success rate, and their user reviews.
+[Conny](/out/conny) helps people reduce their rents, and sue their landlord if necessary. You only pay them if they reduce their rent.
 
-*This article was not suggested, written or approved by Conny. I have done independent research, and these opinions are my own.*
+In this guide, I review their business model, their success rate, and their user reviews.
+
+*This article was not suggested, written or approved by Conny. I have done independent research. These opinions are my own.*
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -20,21 +22,21 @@ This is how the rent reduction process goes:
 1. **Calculate your rent reduction**  
     Use [their rent reduction calculator](/out/conny-mietpreisbremse-calculator). You must answer a few questions about your apartment, and upload a copy of your lease. This takes around 10 minutes. You can do it in English. After you filled the form, they tell you how much you can save on rent. The average rent reduction is around 200€ per month. This is an optimistic calculation.[^0] Your rent reduction can be smaller than the estimation.
 2. **Send required documents**  
-    You will get an email from Conny. It will ask you to send them a signed *[[Vollmacht]]* and a copy of your lease. They need this document to represent you. The email also contains a link to your case. It allows you to check the status of your case.
+    You get an email from Conny. It asks you to send them a signed *[[Vollmacht]]*, and a copy of your lease. They need the *Vollmacht* to represent you. The email also contains a link to check the status of your case.
 3. **Wait**  
-    Once your case is accepted, you must wait. You might have to wait a few months. Some cases take a very long time to resolve.
+    If your case is accepted, you must wait. Some cases take a few months to resolve. Others take a few days.
 4. **Results**  
-    If the case is successful, you will receive a refund directly in your back account. If the case is not successful, you will receive a message explaining why.
+    If the case is successful, you receive the refund in your back account. If the case is not successful, you receive a message explaining why.
 
-## You only pay if it works
+## Costs
 
-[Conny](/out/conny-mietpreisbremse) tries to get your rent reduced. If they are successful, they keep 5 times the amount you save each month.[^13] If they are not successful, you pay nothing. If the case goes to court, you will not pay any extra fees.
+You only pay [Conny](/out/conny-mietpreisbremse) if they reduce your rent. If they are not successful, you pay nothing. For example, if they reduce your rent by 200€ per month, they keep 6 × 200€, or 1,200€.
 
-For example, if they reduce your rent by 200€ per month, they will keep 5 × 200€, or 1,000€.
+Their fee is 6 times the amount you save each month.[^13] If there is a long legal battle in court, you don't pay more.
 
 ## It takes a long time
 
-Most cases take months to process. If your case goes to court, you must wait around 12 months. Some cases are solved in 2 to 4 months. If you are lucky, it can be solved in 1 week. Even if it takes a long time, the refund is retroactive, so you are not losing more money while you wait.
+Most cases take months to process. If your case goes to court, you must wait around 12 months. Some cases are solved in 2 to 4 months. If you are lucky, it can be solved in 1 week. Even if it takes a long time, the refund is retroactive, so you don't lose more money if you wait.
 
 During that time, you don't get many updates. Many negative reviews mention the long wait times.[^1] This is not Conny's fault - it's just a very slow process. The landlords and the courts can delay cases for months.[^2]
 
@@ -62,11 +64,11 @@ The Conny team speaks English. [Their website](/out/conny-mietpreisbremse) is al
 
 **Yes, you can.** [Conny](/out/conny) does what it promises. It just takes a very long time, and that you will not get many updates while you wait. You must be patient.
 
-Conny has generally positive reviews.[^9] They received many positive mentions in the press. Almost all the negative reviews mention the lack of communication.[^10] Many also complain about the slow process.[^11]
+Conny has generally positive reviews.[^9] They received many positive mentions in the press. Almost all the negative reviews mention the lack of communication.[^10] Many also complain about the slow process.[^11] Review sites can hide negative reviews; look for reviews in forums and Facebook groups.
 
-If you try to get your rent reduced, your landlord could be angry at you. In my opinion, it's better to save money than to be friends with your landlord. That's the only risk. If you can't get a rent reduction, you don't pay anything.
+Reducing your rent can make your landlord angry. They can stop replying, or be really hard to work with. That's the only risk. If you can't get a rent reduction, you don't pay anything.
 
-In general, I think using Conny is a good idea, even if their service is not perfect. If you can save hundreds or even thousands of euros, it's worth the trouble. Just [visit their website](/out/conny-mietpreisbremse), [get a quote](/out/conny-mietpreisbremse-calculator), and decide if it's worth it for you.
+In general, I think using Conny is a good idea, even if their service is not perfect. If you can save hundreds or even thousands of euros, it's worth the trouble. [Visit their website](/out/conny-mietpreisbremse), [get a quote](/out/conny-mietpreisbremse-calculator), and decide if it's worth it for you.
 
 ## Alternatives to Conny
 
