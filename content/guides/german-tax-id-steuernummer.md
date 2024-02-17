@@ -5,17 +5,19 @@ Description: A brief guide to obtaining or finding your tax identification numbe
 Date_created: 2017-12-07
 ---
 
-German residents have different tax identification numbers. This guide helps you find them.
+German residents have different tax identification numbers. This guide explains what they are, and where to find them.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## The tax ID (Steuer-ID)
 
-This is your **unique, permanent tax identification number**. Every German resident has a tax ID. The *[[Finanzamt]]* uses this number to identify you. It has the format "**12 345 678 901**". The tax ID is permanent; it never changes. It's also called *Steuerliche Identifikationsnummer*, *Persönliche Identificationsnummer*, *Identifikationsnummer, Steuer-IdNr.*, *IdNr* or *Steuer-ID*.
+This is your **unique, permanent tax identification number**. Every German resident has a tax ID. The *[[Finanzamt]]* uses this number to identify you. It has the format "**12 345 678 901**". The tax ID is permanent; it never changes. 
+
+The tax ID is also called *Steuerliche Identifikationsnummer*, *Persönliche Identifikationsnummer*, *Identifikationsnummer, Steuer-IdNr.*, *IdNr* or *Steuer-ID*.
 
 ### Why you need a tax ID
 
-Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more salary tax.[^0] You will get that money back later, either on future paycheques, or when you file a [tax return](/glossary/Steuererkl%C3%A4rung).[^1]
+Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more salary tax.[^0] You will get that money back later, either on future paycheck, or when you file a [tax return](/glossary/Steuererkl%C3%A4rung).[^1]
 
 If you have children, you need their tax ID to apply for child benefits (*[[Kindergeld]]*), and to get a *[[Kitagutschein]]*.
 

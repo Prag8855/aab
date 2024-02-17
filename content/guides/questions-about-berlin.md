@@ -110,7 +110,7 @@ Don't be afraid to defend your rights. Your landlord can't kick you out or stop 
 - **Workers union** (*Gewerkschaft*)  
     If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
 - **Employment lawyer** (*Fachanwalt für Arbeitsrecht*)  
-    Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Hire a lawyer who specialises in employment law. They cost around 200€ per hour. Your [legal insurance](/glossary/Rechtsschutzversicherung) pay for it.
+    Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Hire a lawyer who specialises in employment law. They cost around 200€ per hour. Your [legal insurance](/glossary/Rechtsschutzversicherung) might pay for it.
 
 Don't be afraid to defend your rights. Your employer can't fire you or blacklist you because of it. It will not affect your job search.[^7]
 
