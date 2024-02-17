@@ -103,7 +103,7 @@
 						<summary class="price">
 							Card fee
 							<output v-if="account.creditCardOneTimeFee">{{ formatCurrency(account.creditCardOneTimeFee) }}, one time</output>
-							<output v-if="!account.creditCardOneTimeFee"><eur :amount="account.creditCardMonthlyFee"></eur></output>
+							<output v-if="!account.creditCardOneTimeFee"><eur :amount="account.creditCardYearlyFee"></eur>/y</output>
 						</summary>
 						<div v-if="account.creditCardFeeExplanation" v-html="account.creditCardFeeExplanation"></div>
 						<div v-if="!account.creditCardFeeExplanation">You pay this fee to get a credit card.</div>

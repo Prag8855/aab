@@ -88,11 +88,13 @@ Tax advisors are expensive and hard to find.[^5] Most of them refuse new clients
 
 ### Look outside of Berlin
 
-You don't need a Berlin-based tax advisor. Look for tax advisors in all of Germany.
+Your tax advisor can be anywhere in Germany. It's easier if you look outside of Berlin.
 
 ### Tax software
 
-If you have a simple tax situation, tax software is the best and cheapest way to do your taxes. If you don't speak German, there are English-speaking options.
+If your tax situation is simple, use tax software. For example, if you have a full-time job and no [tax-deductible](/glossary/steuerlich%20Absetzbar) expenses.
+
+Using tax software cheaper and easier than finding a tax advisor. There are English-speaking options.
 
 **[List of German tax software ➞](/guides/german-tax-software)**
 
