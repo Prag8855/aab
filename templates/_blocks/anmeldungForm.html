@@ -228,7 +228,7 @@
 				<input ref="namesAreOnMailboxCheckbox" v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our mailbox' : 'My name is on my mailbox' }}
 			</label>
 		</div>
-		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#can-i-do-my-anmeldung-if-my-name-is-not-on-the-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
+		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#if-your-name-is-not-on-your-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
 		<div class="form-group required" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
 			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller" required>
