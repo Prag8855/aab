@@ -203,6 +203,8 @@ Your employer can hire a [relocation consultant](/guides/relocation-agency-in-be
 - **Your [social insurance number](/guides/german-versicherungsnummer)** (*Sozialversicherungsnummer*)  
     If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your employer can sometimes help you with this. - [How to get a social insurance number](/guides/german-versicherungsnummer)
 
+Your employer can't ask for your *Anmeldung* to start working.[^4]
+
 ### The probation period
 
 During your first 6 months at a new company, you are in your probation period (*[[Probezeit]]*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
@@ -254,3 +256,4 @@ These people can help you get hired. For example, they can review your resume an
 [^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
 [^2]: [billomat.com](https://www.billomat.com/magazin/jobsuche-steuerlich-absetzen-hier-erfaehrst-du-wie-das-geht/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/bewerbungskosten-koennen-sie-von-der-steuer-absetzen.html), [karrierebibel.de](https://karrierebibel.de/bewerbungskosten-absetzen/)
 [^3]: [§614 BGB](https://www.gesetze-im-internet.de/bgb/__614.html)
+[^4]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/praxisleitfaden/arbeiten-ohne-meldeadresse#:%7E:text=Eine%20Meldeadresse%20ist%20keine%20Voraussetzung%20f%C3%BCr%20die%20Arbeitsaufnahme)

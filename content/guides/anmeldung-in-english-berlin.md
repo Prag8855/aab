@@ -1,68 +1,91 @@
 ---
-Title: The Anmeldung - How to register an address in Berlin
+Title: The Anmeldung - How to register your address in Berlin
 Short_title: Anmeldung - How to register your address
 Description: This guide shows you how register your address in Berlin. This is how you get a Meldebescheinigung and a tax ID.
 Date_created: 2018-04-30
 ---
 
-After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*.
+After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*. All German residents must do it.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Why you need to register
+## Why you must register your address
 
-All German residents must register their address. It's required by law.[^33] [If you can't register your address](#if-you-cant-register-your-address), it can make your life really hard.
+**All residents must register**, it's the law.[^33] [If you can't register](#if-you-cant-register-your-address), it makes your life harder. 
 
-When you register your address, you get:
+You must register your address to...
 
-- **A registration certificate** (*[[Anmeldebestätigung]]*)  
-    It proves that you live in Berlin. You need it to access many government services. You sometimes need it to get a [bank account](/guides/first-bank-account-in-germany), a SIM card, an internet contract and [health insurance](/guides/german-health-insurance).
-- **A tax ID** (*[Steuer-ID](/glossary/Steueridentifikationsnummer)*)  
-    Your employer needs this to calculate your [salary tax](/glossary/Lohnsteuer). You need it to [start a business](/guides/start-a-business-in-germany). You need your children's tax ID to get a [daycare voucher](/glossary/Kitagutschein) and [child benefits](/glossary/Kindergeld).[^0] If you can't register your address, you can still [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
-- **A registered address**  
-    The government sends all important letters to your registered address. The government also requires a registered address for some services. For example, you need it to get a *[[Kitagutschein]]*.
+- **Use government services**  
+    Without a registered address, you can't [start a business](/guides/start-a-business-in-germany), get [child benefits](/glossary/Kindergeld) or get a [daycare voucher](/glossary/Kitagutschein).[^0] These services are only for official Berlin residents.
+- **Get a [registration certificate](/glossary/Anmeldebestätigung)** (*Meldebestätigung*)  
+    You sometimes need it to prove your address, open a bank account, get a SIM card, and a few other things.
+- **Get a [tax ID](/glossary/Steueridentifikationsnummer)**  
+    You get a tax ID by post around 4 weeks after your *Anmeldung*. You can [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id). - [Why you need a tax ID](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id)
+    - **Get paid correctly**  
+        Your employer needs your [tax ID](/glossary/Steueridentifikationsnummer) to calculate your [salary tax](/glossary/Lohnsteuer). If you don't have a tax ID, you pay more [salary tax](/glossary/Lohnsteuer), so your paychecks are much smaller. You don't lose that money, but you must make a [tax declaration](/glossary/Steuererklärung) to get it back. - [More information](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id)
 
-The *Anmeldung* is not a [residence permit](/glossary/Aufenthaltstitel). It does not give you the right to [live and work in Germany](/guides/moving-to-berlin). [If you need a residence permit](/guides/residence-permit) to live in Germany, you must [apply for it](/guides/residence-permit#how-to-get-a-residence-permit).
+You don't need to register your address to...
+
+- **Apply for a [residence permit](/glossary/Aufenthaltstitel)**  
+    You can get a residence permit without an *Anmeldung*, but you still need a *[[Wohnungsgeberbestätigung]]*. Without that document, you might not get a residence permit.[^14]
+- **Start working**  
+    Your employer can't require an *Anmeldung*.[^17] They need your [tax ID](/glossary/Steueridentifikationsnummer) as soon as possible, but you can start working without it. You can also [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
+- **Open a bank account**  
+    Some banks ask for a [registration certificate](/glossary/Anmeldebestätigung), but there are [banks that don't need an *Anmeldung*](/guides/german-banks-no-address).[^15]
+
+### People who don't need to register
+
+You do not need to register if...
+
+- **You visit for less than 3 months**  
+    If you visit from another country, and you stay in Germany for less than 3 months, you don't need to register your address.[^35]
+- **You will move in the next 6 months**  
+    If you are already registered somewhere else, and you will stay at your new address for less than 6 month.[^35] For example, if you are registered at your parents' house, and you live with a friend for a few months.
 
 ## How to register your address
 
-### Step 1: Get a [[Bürgeramt]] appointment
+### 1. Get a [[Bürgeramt]] appointment
 
-Get [an appointment to register your address](/out/appointment-anmeldung) online. Your appointment must be after you move in.[^1] You can go to any *[[Bürgeramt]]* in Berlin, but not in [[Brandenburg]].
+You must do your *Anmeldung* **in person at the [[Bürgeramt]]**. You can go to any *[[Bürgeramt]]* in Berlin. **You need an appointment**. It must be after your move-in date.[^1] You have 14 days to register, but in Berlin nobody cares. You can take much longer.[^20]
 
 {% include "_blocks/appointmentFinder.html" %}
 
 **[Other ways to get an appointment ➞](/guides/berlin-burgeramt-appointment)**
 
-If there are no appointments, look again in a few minutes. New appointments appear during working hours, mostly in the morning. You don't need to look really early in the morning.[^2]
+**If you can't find an appointment**, try again later. New appointments appear during working hours, mostly in the morning.[^2]
 
-When you book your appointment, you get an appointment number (*Vorgangsnummer*). You need this number when you go to your appointment. If you lose it, ask for it at the *[[Bürgeramt]]* reception, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
+You can register **multiple people with one appointment** if you lived together and move together. For example, you can do the *Anmeldung* for your whole family at the same time.
 
-### Step 2: Prepare the required documents
+You will get an appointment number (*Vorgangsnummer*). You need it when you go to your appointment. If you lose it, ask for it at the *Bürgeramt* reception, or call [115](/glossary/B%C3%BCrgertelefon).[^28]
+
+### 2. Prepare your documents
 
 Bring these documents to your appointment:
 
-- [ ] **Your [Wohnungsgeberbestätigung](/docs/wohnungsgeberbestatigung)**  
-    You get this document before you [move in](/guides/moving-in). You can't register your address without this document.[^3] If you can, bring the original, not a copy.[^4]
-    - Your landlord can give you this document.
-    - If you rent a room or a sublet, the main tenant (*[[Hauptmieter]]*) can also give you this document. They need permission from the landlord.[^5]
-    - If you move with your spouse, they can give it to you. They don't need permission from the landlord.
-    - If you move with your boyfriend or girlfriend, they can give it to you. They need permission from the landlord, but the landlord can't really refuse.[^6]
-- [ ] **The filled [Anmeldung form](/docs/anmeldung)**  
-    [Fill the form online](/docs/anmeldung#fill-the-anmeldung-form-online). To register more than 2 people, use multiple forms.
-- [ ] **Your passport or [[Personalausweis]]**  
-    Bring the original ID document, not a copy. You can use a *[[Personalausweis]]* from any [EU](/glossary/European%20Union) country.[^7] If you have a *[[Personalausweis]]*, bring it with you. They will put a sticker on it with your new address.
-- [ ] **Your [residence permit](/glossary/Aufenthaltstitel)**  
-    If you have a residence permit, bring it with you. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8]
-- [ ] **Your vehicle registration papers**  
+- [ ] **[[Wohnungsgeberbestätigung]]**  
+    You get it before you [move in](/guides/moving-in). You can't register your address without it.[^3] Bring the original if you can, not a copy.[^4] You can get this document from...
+    - Your landlord
+    - The [main tenant](/glossary/Hauptmieter) of your sublet or [[WG]]. They need permission from the landlord.[^5]
+    - Your spouse if you move in with them.
+    - Your boyfriend or girlfriend if you move in with them. They need permission from the landlord, but the landlord can't really refuse.[^6]
+- [ ] **Anmeldung form**  
+    [Fill the form online](/docs/anmeldung#fill-the-anmeldung-form-online), print it and sign it. To register more than 2 people, use multiple forms.
+- [ ] **Passport or EU national ID**  
+    You can use a *[[Personalausweis]]* from any [EU](/glossary/European%20Union) country.[^7]
+
+You might also need these documents:
+
+- [ ] **[Residence permit](/glossary/Aufenthaltstitel)**  
+    If you have a residence permit, bring it. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8]
+- [ ] **Vehicle registration papers**  
     If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle.
 - [ ] **Cash** or a **[[Girocard]]**  
-    The *Anmeldung* is free, but if you have vehicles, it costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or a *Girocard*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
+    The *Anmeldung* costs nothing, but if you have vehicles, it costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or a *Girocard*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
 If this is your first *Anmeldung*, you must also bring:
 
 - [ ] **Your marriage certificate**  
-    It must be the original certificate or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^36]
+    Bring the original or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^36]
 
 When you register an underage child's address, you might need a letter of consent from their legal guardian.[^11]
 
@@ -70,57 +93,57 @@ When you register an underage child's address, you might need a letter of consen
     - If you are separated, and your child is moving with you, you need a letter of consent from the other parent. For example, if the child lived with their mother, and is moving with their father.
     - If the child does not live with their legal guardian, you need a letter of consent from their legal guardian.
 - [ ] **Your child's birth certificate**[^37]  
-    It must be the original certificate or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^38]
+    Bring the original or a notarized copy.[^10] If it's not in English or German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^38]
 
-### Step 3: Go to your Bürgeramt appointment
+**If you don't speak German**, bring a friend or a translator. Some *Bürgeramt* employees only speak German. The *Anmeldung* is simple, so will probably be okay, but sometimes they ask more questions.
 
-Go to your *Bürgeramt* appointment. Bring all your documents.
+**[Hire a translator ➞](/out/red-tape-translation-interpreter)**
 
-If you don't speak German, **bring a friend or a translator**. Some *Bürgeramt* employees only speak German. The *Anmeldung* appointment is simple, but sometimes they ask more questions. [Red Tape Translation](/out/red-tape-translation-interpreter) or [Booka Local](/out/booka-local) can go with you. Don't worry: if you go alone, it will still be okay.
+You can also **send someone else**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. It costs 250€. The *Anmeldung* is easy. You probably don't need this service.
 
-You can also **send someone else**. [Red Tape Translation](/out/red-tape-translation-anmeldung/) can book your appointment, take your documents, and go to the *Bürgeramt* for you. It costs 250€.
+**[Pay someone to do your Anmeldung ➞](/out/red-tape-translation-anmeldung)**
 
-Arrive a few minutes before your appointment. Find the correct waiting room, and wait until they call your appointment number on the screen. The screen tells you which office to go to.
+When you send someone else to do your *Anmeldung*, they must bring:
+
+- [ ] **A signed [[Vollmacht]]**  
+    Use [this template](/documents/Anmeldung-Vollmacht-template.pdf). The signatures on your passport, on the [*Anmeldung* form](/docs/anmeldung) and on the *[[Vollmacht]]* must look the same.
+
+### 3. Go to your Bürgeramt appointment
+
+Go to your *Bürgeramt* appointment. Bring all your documents. Arrive early.
+
+At the *Bürgeramt*, find the correct waiting room. When they call your number on the screen, go to the office number on the screen.
 
 Sit at the desk, give your documents, and get your *[[Anmeldebestätigung]]*. They will put a sticker with your new address on your *[[Personalausweis]]*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). This only takes a few minutes.
 
-### Step 4: Verify your documents
+![Meldebestätigung](/images/Meldebescheinigung_Berlin.jpg "You get a registration certificate (Meldebestätigung)")
 
-Verify the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees often make mistakes.[^12] If you find an error, [email the Bürgeramt](/guides/berlin-burgeramt-appointment#how-to-contact-the-burgeramt).
+### 4. Verify your documents
 
-### Step 5: Wait for your tax ID
+Check the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees often make mistakes.[^12] If you find an error, [email the Bürgeramt](/guides/berlin-burgeramt-appointment#how-to-contact-the-burgeramt).
 
-If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 4 weeks later.[^13] If you don't receive it, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
+### 5. Wait for your tax ID
 
-You can also get a tax ID without registering your address.
+If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 5 weeks later.[^13] If you don't receive it, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
-**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id)**
+You can also [get a tax ID without registering your address](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
+
+![German tax ID letter](/images/tax-id-document-bzst.jpg "You will get a letter with your tax ID")
 
 ## If you can't register your address
 
-Some places don't give you a *[[Wohnungsgeberbestätigung]]* and don't let you do your *Anmeldung*. This is really bad for you.
+When you [look for an apartment](/guides/find-a-flat-in-berlin), check if they let you do your *Anmeldung*. Some places don't give you a *[[Wohnungsgeberbestätigung]]*, and don't let you register your address. This is usually illegal, but you can rarely fight it. **Find another place.** 
 
-If you can't do your *Anmeldung*...
-
-- **You can't get a residence permit**  
-    When you apply for a [residence permit](/glossary/Aufenthaltstitel), the *[[Ausländerbehörde]]* asks for a [[Wohnungsgeberbestätigung]]. Without this document, you can't get a residence permit.[^14]
-- **You can't access government services**  
-    Many government services require an *[[Anmeldebestätigung]]*. You can't access those services if you don't officially live in Berlin.
-- **You can't easily verify your address**  
-    It's harder to [open a bank account](/guides/first-bank-account-in-germany) or get a SIM card for your phone. Many services ask for an *[[Anmeldebestätigung]]* to verify your address.
-
-[HomeLike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. They give you more time to find a good, cheap apartment later.
+[HomeLike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. It gives you more time to find a better, cheaper apartment.
 
 ### Can the landlord refuse to let me register?
 
-**Yes**, but not always.
+**No**. The landlord must let you register your address, but there are exceptions:
 
-There are two reasons why you can't register your address:
-
-1. **You are not allowed to live there**  
-    For example, someone sublets their apartment to you, but they don't have permission from their landlord. This is very common, but it's not legal. If the landlord learns this, they can kick you out with a 3 month notice.[^44]
-2. **It's a commercial accommodation**  
-    The rules are different for hotels and commercial apartments.[^34] This is why some hotels and Airbnb apartments don't let you register.
+- **You don't have permission to live there**  
+    For example, someone sublets their apartment to you, but they don't have permission from their landlord. If the landlord learns this, they can kick you out with a 3 month notice.[^44]
+- **It's a commercial accommodation**  
+    The rules are different for hotels and commercial apartments.[^34] Some hotels and Airbnb apartments don't let you register.
     - **If you are already registered in Germany**  
         If you live there for more than 6 months, the accommodation must let you register.[^18]
     - **If you are not registered in Germany**  
@@ -142,83 +165,34 @@ The landlord can refuse to let someone sublet their apartment. There are excepti
 
 If you have questions, talk to a [tenant association](/glossary/Mieterverein), or use your [legal insurance](/guides/legal-insurance) to talk to a lawyer.
 
-### Can I get a job without an Anmeldung?
+## If your name is not on your mailbox
 
-**Yes.** Your employer only needs your [tax ID](/glossary/Steueridentifikationsnummer). If you can't register your address, you can request a tax ID directly from the *[[Finanzamt]]*.
-
-**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id)**
-
-### Can I get a [tax ID](/glossary/Steueridentifikationsnummer) without an Anmeldung?
-
-**Yes.** See [how to get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
-
-## Questions and answers
-
-### Do I need to register my address?
-
-**Yes.** You must register your address.[^33] It's the law.
-
-There are exceptions:
-
-- **You visit for less than 3 months**  
-    If you visit from another country, and you stay in Germany for less than 3 months, you don't need to register your address.[^35]
-- **You will move in the next 6 months**  
-    If you are already registered somewhere else, and you will stay at your new address for less than 6 month.[^35] For example, if you are registered at your parents' house, and you live with a friend for a few months.
-
-### Do I need to register within 14 days?
-
-You should register within 14 days of your move-in date,[^30] but **this rule is not enforced in Berlin**.[^20] It's hard to get an appointment in only 14 days. If you take a few weeks to register, you will not get a fine. Just register as soon as you can.[^21]
-
-### Do I need to deregister my old address?
-
-**No**, you only need to do deregister if you leave Germany.
-
-If you just change your address, your old address will be deregistered automatically.
-
-**[Who needs to deregister? ➞](/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister)**
-
-### Can someone do the Anmeldung for me?
-
-Usually, **yes**. [Red Tape Translation](/out/red-tape-translation-interpreter) offers this service. If this is your first Anmeldung, the Bürgeramt might ask you to go in person. This rarely happens, but it happens.[^31]
-
-When you send someone else to do your *Anmeldung*, they must bring:
-
-- [ ] A signed *[[Vollmacht]]*. Use [this template](/documents/Anmeldung-Vollmacht-template.pdf).
-- [ ] Your original passport or *[[Personalausweis]]*, not a copy.
-
-The signatures on your passport, on the [*Anmeldung* form](/docs/anmeldung) and on the *[[Vollmacht]]* must look the same.
-
-### Can I do my Anmeldung if my name is not on the mailbox?
-
-**Yes.** If your name is not on the mailbox, add ["c/o" or "bei"](https://en.wiktionary.org/wiki/care_of) to your address when you register:[^22]
+German apartment buildings rarely have individual door numbers. You have the same address as everyone in your building. [If your name is not on your mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), you won't get mail addressed to you.[^23] **You must add "c/o" or "bei" to your address**. Write your address like this:
 
 > [your name]  
 > **bei [name of person on the mailbox]**  
 > Musterstraße 123  
 > 10115 Berlin
 
-If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^32] This happens often with temporary apartments.
+When do your *Anmeldung*, add "c/o" or "bei" to your registered address.[^24] My [Anmeldung form filler](/docs/anmeldung) helps you do it. The name on the mailbox must be a real person, not a business.[^25]
 
-German apartment buildings rarely have individual door numbers. You have the same address as everyone in your building. [If your name is not on your mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), you won't get mail addressed to you.[^23] You must add "c/o" or "bei" to your address.
+If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^32] This often happens with temporary apartments.
 
-The [[Bürgeramt]] allows you to use "bei" in your registered address.[^24] They sometimes require the name on the mailbox to be a real person, not a business.[^25]
+## Questions and answers
 
-### Can many people register with one appointment?
+### Do I need to deregister my old address?
 
-**Yes.** You can register with the same appointment if:
+**No**, you only need to do [deregister](/glossary/Abmeldung) when you leave Germany. If you just change your address, your old address is deregistered automatically.
 
-- you already live together
-- and you move together to the same address
+**[Who needs to deregister? ➞](/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister)**
 
-For example, you can do the *Anmeldung* for your whole family in one appointment.
+### Do I need to speak German?
 
-### Do I need to speak German to do my Anmeldung?
+**Maybe.** Some *[[Bürgeramt]]* employees speak English, but many don't. You should bring a translator or a friend who speaks German.
 
-**Probably.** Some *[[Bürgeramt]]* employees speak English, but many don't.
+The *Anmeldung* is easy, but the *Bürgeramt* employee can ask you a few questions in German. For example, which floor you live on, or how many people live with you.
 
-The *Anmeldung* is very simple, but the *Bürgeramt* employee can ask you a few questions in German. For example, which floor you live on, or how many people live with you.
-
-Translators like [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) can go to the *Bürgeramt* with you.
+Translators like [Red Tape Translation](/out/red-tape-translation-interpreter) can go to the *Bürgeramt* with you.
 
 ### Do I have to pay [church tax](/glossary/Kirchensteuer)?
 
@@ -234,15 +208,11 @@ If you were baptised in your home country, they might collect church tax [even i
 
 ### How much does the Anmeldung cost?
 
-**It's free**, but if you must update your vehicle registration papers, you must pay {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
+**It's free.** If you must update your vehicle registration papers, you must pay {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
-### How many people can register at one address?
+### How many people can register at the same address?
 
 In Berlin, every person needs 9 m^2^. Children up to 6 years old need 6 m^2^. For example, 10 people can register in a 90 m^2^ apartment. Two adults and a 5 year old child need at least 24 m^2^.[^27]
-
-### How can I do the Ummeldung?
-
-The *[[Ummeldung]]* and the *Anmeldung* are the same thing.
 
 ## What to do next
 
@@ -280,19 +250,18 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
 [^13]: [Screenshot](/guides/german-tax-id-steuernummer)
+[^14]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023). Multiple relocation consultants (October 2023).
+[^15]: [Reddit](https://old.reddit.com/r/AskAGerman/comments/xtjyap/opening_bank_account_without_anmeldung/)
+[^17]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/praxisleitfaden/arbeiten-ohne-meldeadresse#:%7E:text=Eine%20Meldeadresse%20ist%20keine%20Voraussetzung%20f%C3%BCr%20die%20Arbeitsaufnahme)
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^19]: [community.withairbnb.com](https://community.withairbnb.com/t5/Gastgeben/Wohnungsbest%C3%A4tigung/td-p/427851), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
-[^20]: [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15247.pdf), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5utqom/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5w36it/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dgl6o8/are_there_consequences_for_completing_anmeldung/)
-[^21]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9s3xzd/do_you_actually_receive_a_fine_for_a_late/)
-[^22]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Meldeadresse-mit-co-Zeichnung--f212142.html)
+[^20]: [§17 Abs. 1 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184), [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15247.pdf), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5utqom/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5w36it/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dgl6o8/are_there_consequences_for_completing_anmeldung/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9s3xzd/do_you_actually_receive_a_fine_for_a_late/), multiple relocation consultants (February 2024)
 [^23]: [giga.de](https://www.giga.de/unternehmen/deutsche-post-ag/specials/c-o-bedeutung-der-angabe-bei-adressen-auf-briefen-post-und-paketen/), [focus.de](https://www.focus.de/finanzen/praxistipps/c-o-adresse-das-steckt-dahinter_id_7762940.html)
-[^24]: [Screenshot](/images/anmeldung-mit-bei-erlaubt-2022-12-23.png)
+[^24]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Meldeadresse-mit-co-Zeichnung--f212142.html), [Screenshot](/images/anmeldung-mit-bei-erlaubt-2022-12-23.png)
 [^25]: [Screenshot](/images/Anmeldung-mit-co-2022-12-09.png), [Screenshot](/images/Anmeldung-mit-c-o-2022-10-05.png), [Reddit](https://old.reddit.com/r/askberliners/comments/180e5ye/does_it_require_a_stamp/)
 [^26]: [steuerberater.com](https://www.steuerberater.com/en/church-tax-calculator)
 [^27]: [§7 WoAufG Bln](https://gesetze.berlin.de/bsbe/document/jlr-WoAufGBEV5P7)
 [^28]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/d8o9vu/finding_my_anmeldung_appointment_confirmation/)
-[^30]: [§17 Abs. 1 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
-[^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h86woq/registering_address_shall_i_fill_in_a_new/fuqs446/), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/)
 [^33]: [§17 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184)
 [^34]: [§29 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
@@ -308,4 +277,3 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^45]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=in%20einer%20anderen%20stadt%20oder%20im%20ausland)
 [^46]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/urteile/detailansicht/untermiete-oder-gebrauchsueberlassung/#:~:text=auszug%20eines%20mitglieds%20der%20wohngemeinschaft)
 [^47]: [VIII ZR 371/02](https://www.bmgev.de/mietrecht/urteile/detailansicht/aufnahme-des-lebensgefaehrten-in-die-wohnung/)
-[^14]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023). Multiple relocation consultants (October 2023).

@@ -15,7 +15,9 @@ Related_guides:
     guides/moving-to-berlin.md
 ---
 
-The tax ID (*Steueridentifikationsnummer*) is a unique identification number all German residents have. This is the number the tax office (*[[Finanzamt]]*) uses to identify you. It has the format "**12 345 678 901**". You get that number after you [register your address in Germany](/guides/anmeldung-in-english-berlin).
+The tax ID (*Steueridentifikationsnummer*) is a unique identification number all German residents have. The *[[Finanzamt]]* uses this number to identify you. It has the format "**12 345 678 901**". You get that number after your first *[[Anmeldung]]*.
+
+**[How to get your tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)**
 
 The tax ID is also called...
 
@@ -25,7 +27,5 @@ The tax ID is also called...
 - *Steuer-IdNr.*
 - *SteuerID*
 - *IdNr*
-
-**[How to get your tax ID ➞](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)**
 
 The tax ID is not the same as the tax number (*[[Steuernummer]]*).
