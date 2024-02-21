@@ -5,7 +5,7 @@ Description: This guide shows you how to find a place to live in Berlin. It expl
 Date_created: 2017-09-20
 ---
 
-This guide helps you find your first apartment in Berlin.
+This guide helps you find a place to live after you [move to Berlin](/guides/moving-to-berlin).
 
 ![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
@@ -13,11 +13,7 @@ This guide helps you find your first apartment in Berlin.
 
 ## Is it hard to find an apartment?
 
-**Yes**. It's really hard.[^0] It's one of the hardest part of [moving to Berlin](/guides/moving-to-berlin). It can take months and hundreds of applications.[^1]
-
-During your search, you might need a temporary place to live. For example, you can stay with a friend, or rent a [short-term furnished apartment](#short-term-and-furnished-apartments).
-
-### Finding your first apartment
+**Yes.** It's *really* hard. It can take months and hundreds of applications.[^0] You might live in multiple short-term apartments before you find a permanent place to live.
 
 If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your [probation](/glossary/Probezeit) period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
 
@@ -431,8 +427,7 @@ There are 3 types of insurance that cover your apartment:
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x0ptam/3rd_flat_search_since_2014_it_has_never_been_this/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/)
-[^1]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/o6y1a2/searching_for_an_apartment_for_2_months/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/11i9riz/my_appartmentsearch_in_berlin_are_we_still_doing/)
+[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Reddit](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [Reddit](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/indhcc2/)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
