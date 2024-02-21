@@ -17,7 +17,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your [probation](/glossary/Probezeit) period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
 
-It's easier to find an apartment if you are already in Berlin. You can visit apartments in person, and avoid scams. If you look for a [flat share](/glossary/WG), you can meet potential roommates face to face.[^2]
+It's easier to find an apartment if you are already in Berlin. You can visit apartments in person, and avoid [scams](/guides/housing-scams). If you look for a [flat share](/glossary/WG), you can meet potential roommates face to face.[^2]
 
 ## Before you start
 
@@ -273,39 +273,7 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 
 ### Common apartment scams
 
-- **The landlord is in another country**  
-    This is a common scam.[^22] The landlord is not in Germany, but wants to mail the keys after you pay a [deposit](/glossary/Kaution). The apartment does not exist. They will steal your deposit money, and disappear.
-- **The lease is only for a few months**  
-    Fixed-term leases are only valid in some situations.[^19] The lease must specify *why* it's fixed term, or the clause is invalid, and you can stay for as long as you want. This also applies to sublets, but not to student residences and vacation apartments. This is not always a scam; many landlords just don't know the law.
-- **The apartment should be furnished, but it's not**  
-    Rents are limited by the *[[Mietpreisbremse]]*, but that does not apply to furnished apartments. Landlords pretend that the apartment is furnished to charge more rent. [Conny](/out/conny-mietpreisbremse) can help you reduce your rent.
-- **The previous tenant forces you to buy their furniture**  
-    Sometimes, the previous tenant (*Vormieter*) wants to sell all their furniture or kitchen to you.[^20] If you don't take the furniture, you don't get the apartment. They often charge too much, because they know that someone will buy it to get the apartment. Overcharging for furniture is illegal.[^43] If you paid too much for furniture, you can get your money back.[^46] [Get legal help.](/guides/questions-about-berlin#apartment-questions)
-- **You must pay a bribe**  
-    The landlord or the previous tenant can't ask for a finder's fee, a bribe or a *[[Provision]]* to get the apartment.[^45] If you paid a bribe to get your apartment, you can get your money back, and still keep the apartment.[^21] [Get legal help.](/guides/questions-about-berlin#apartment-questions)
-- **Agent fees**  
-    You never pay an agent fee (*[Maklergebühr](/glossary/Provision)** or *[[Provision]]*), unless *you* hired the agent.[^23] Temporary apartments might have a booking fee.[^24] If you did not hire the agent and still paid a *[[Provision]]*, you can get your money back, and still keep the apartment.[^21] [Get legal help.](/guides/questions-about-berlin#apartment-questions)
-- **Identity theft**  
-    The scammer creates fake apartment listings. When you apply for the apartment, you must send many documents, like a passport and a bank account statement. They use those documents you send to steal your identity.[^25]
-
-Here are a few tricks to avoid scams:
-
-- **Wait before you pay**  
-    Don't send any money before you see the apartment in person and sign the lease.[^26] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You never have to pay a fee to see an apartment, or to apply for it.[^42]
-- **Wait before you send documents**  
-    Don't send your pay slips, your *[[Steuerbescheid]]* or a copy of your passport before you see the apartment. You don't need to share these documents to visit an apartment, only to apply for it. You should censor the parts of the documents that they don't need to see.
-- **See the apartment in person**  
-    A scammer could show you any apartment in a video call. Even in person, they can show you an apartment that they rented for a few days.
-- **Only pay by bank transfer**  
-    In Germany, people pay their rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Never send money by Western Union or other payment services.[^27] If you pay with cash, ask for a receipt. Use [Wise](/out/transferwise) to transfer money from another country. You have until the day you [move in](/guides/moving-in) to pay the rent and the deposit, so you can also come to Germany, [open a bank account](/guides/german-banks-no-address), then pay your rent.
-- **Use common sense**  
-    If the rent is too low, it's probably a scam.[^28] There are no cheap furnished apartments in the centre. If it's too easy to get the apartment, it's probably a scam.
-- **Look at the account age**  
-    Scammers often use a new account to publish apartment listings. If the account is only a few days old, be careful.
-- **Use Google**  
-    Search the landlord's name and [[IBAN]] on Google. You can also search for parts of their messages on Google.[^29] If they are a scammer, you might find some warnings online, or identical ads with different photos. If the IBAN does not start with "DE", be careful.
-- **Use Google Street View**  
-    Scammers often use photos of a different apartment. Use [reverse image search](https://tineye.com/) to see if the photos come from another listing. Check if the apartment looks the same on the photos and on Google Street View. Is the balcony the same? Are the windows the same shape?
+**[Common housing scams ➞](/guides/housing-scams)**
 
 ## Step 3: Contact the landlord
 
@@ -435,7 +403,6 @@ There are 3 types of insurance that cover your apartment:
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pljlpm/finding_wg_room_has_become_a_tinder_game/)
 [^7]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6bfba/room_for_incoming_student/)
 [^8]: [crocodilian.de](https://crocodilian.de/short-term-rental-blog/documents-for-anmeldung/#:~:text=if%20you%20rent%20with%20crocodilian%2C%20you%20always%20get%20the%20wohnungsgeberbestatigung)
-[^9]: [akelius-vernetzung.de](https://www.akelius-vernetzung.de/material/dossier/)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ts8qtx/my_incomplete_berlin_makler_experiences/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/134z871/is_getting_a_relocation_agent_worth_it_for_berlin/)
 [^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q35pyh/no_flats_available_what_should_i_do/hfr4q8p/)
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
@@ -445,16 +412,7 @@ There are 3 types of insurance that cover your apartment:
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
-[^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
-[^20]: [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)[^21]
-[^22]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/6t1hwf/spotting_craigslistwggesucht_scams_a_guide/), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
-[^23]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm), [expatica.com](http://web.archive.org/web/20181214171031/https://www.expatica.com/de/housing/rent-in-germany_103803.html)
-[^24]: [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^25]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
-[^26]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
-[^27]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
-[^28]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
-[^29]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/comment/dulpxmj/?utm_source=reddit&utm_medium=web2x&context=3)
 [^30]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
 [^32]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/)
@@ -467,11 +425,6 @@ There are 3 types of insurance that cover your apartment:
 [^39]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
-[^42]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/)
-[^43]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
-[^45]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
-[^21]: [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
-[^46]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Multiple relocation consultants (October 2023)
