@@ -12,7 +12,7 @@ Related_guides:
 
 *SCHUFA* is a credit rating agency in Germany. They give a credit score to German residents. If you have a good Schufa score, it's easier to [find an apartment](/guides/find-a-flat-in-berlin) or get a loan. If you have a bad Schufa, some banks don't let you [open a bank account](/guides/first-bank-account-in-germany).
 
-When you [apply for an apartment](/guides/find-a-flat-in-berlin#what-to-bring-to-the-visit), you should include a *SCHUFA-Bonitätsauskunft* (credit report) with your application. This document shows your credit score.
+When you [apply for an apartment](/guides/find-a-flat-in-berlin#what-to-bring-to-the-visit), you often need a *SCHUFA-Bonitätsauskunft* (credit report) with your application. This document shows your credit score.
 
 [![Example Schufa certificate](/images/schufa-example.png "Example Schufa certificate")](/images/schufa-example.png)
 

@@ -13,11 +13,20 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] You might live in multiple short-term apartments before you find a permanent place to live.
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] People often live in multiple short-term apartments and even hostels before they find something permanent.
 
-If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your [probation](/glossary/Probezeit) period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
+It's harder if...
 
-It's easier to find an apartment if you are already in Berlin. You can visit apartments in person, and avoid [scams](/guides/housing-scams). If you look for a [flat share](/glossary/WG), you can meet potential roommates face to face.[^2]
+- You are not in Berlin
+- You don't speak German
+- You don't have a job
+- Your income is too low
+- You are in your [probation period](/glossary/Probezeit) at work
+- You are self-employed
+- You have a dog
+- You are not European or you have a foreign name[^9]
+
+If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your  period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
 
 ## Before you start
 
@@ -25,92 +34,34 @@ It's easier to find an apartment if you are already in Berlin. You can visit apa
 
 Before you [look for apartments](#step-1-look-for-apartments), you must...
 
-- [ ] **[Understand how housing works](#important-knowledge)**  
+- [ ] **Understand [how housing works](#important-knowledge)**  
     Things are a little different in Germany. Learn about those small differences.
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
     Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Save money**  
     You need enough money to pay the rent and the [deposit](/glossary/Kaution). The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
 - [ ] **Create your accounts**  
-    Make complete, detailed profiles on ImmobilienScout24, Kleinanzeigen and WG-Gesucht. You will need them to apply for apartments.
+    Make complete, detailed profiles on ImmobilienScout24, Kleinanzeigen and WG-Gesucht.[^2] You will need them to apply for apartments.
 - [ ] **Prepare the [required documents](#what-to-bring-to-the-visit)**  
     You must be ready to apply for an apartment as soon as it goes online. Your documents must be ready.
-
-## Your housing options
-
-### Regular apartment
-
-Regular apartments come without furniture, appliances, light fixtures, curtains or cookware. They are empty. In Berlin, apartments must come with a stove and a sink.[^3] You must buy everything else yourself. You must also get an internet connection and find an electricity company.
-
-Regular apartments are a good **long-term solution**, because they are cheaper. There is a lot of competition for those apartments, so they are hard to find.
-
-A regular apartment is cheaper in the long term. Your rent is lower, because you don't rent the furniture with it.
-
-**[Look for regular apartments ↓](#step-1-look-for-apartments)**
-
-### Short-term, furnished apartment
-
-Short-term apartments are very expensive, but they come with everything you need. They are a good **short-term solution** when you [move to Berlin](/guides/moving-to-berlin).
-
-Short-term apartments have many benefits:
-
-- **Fully furnished**  
-    They come with everything you need: furniture, appliances and cookware. You don't need to get an internet contract, an electricity contract, furniture, appliances or cookware. 
-- **Internet and utilities included**  
-    The internet and utilities are already connected. You can just move in, and focus on other problems.
-- **Immigrant-friendly**  
-    You can book an apartment before you arrive in Germany. They don't ask for documents that immigrants don't have, like a *[[Schufa]]*.
-- **Less competition**  
-    These apartments are overpriced, and too expensive for most people. There is less competition for them, so they are a little easier to find.
-
-Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer) (included in the price).[^5]
-
-**[Look for short-term apartments ↓](#short-term-and-furnished-apartments)**
-
-### Flat share ([[WG]])
-
-Sharing an apartment with other people is cheaper and easier. They are a **budget-friendly solution**.
-
-Shared apartments have many benefits:
-
-- **Shared costs**  
-    You can split the cost of rent, internet, electricity, [TV tax](/glossary/Rundfunkbeitrag) and other bills. You save a lot of money.
-- **Lower deposit**  
-    Your part of the rent is lower, so your part of the [deposit](/glossary/Kaution) is also lower. If you don't have a lot of savings, a [[WG]] could be your only option.
-- **Many things included**  
-    Your roommates might already have most of the furniture and cookware you need. You don't need to buy everything yourself. The internet and utilities are already connected.
-
-Finding a [[WG]] is a little easier than finding a full apartment, but still very hard.[^6]
-
-Usually, you must meet your roommates for an interview. Most WG interviews are like a personality test or culture fit test. Interviews for a *[[Zweck-WG]]* are more formal.
-
-**[Look for flat shares ↓](#wgs-flat-shares-and-roommates)**
-
-### Student housing
-
-Student dorms are the **cheapest option for students**, but they are hard to get. Student housing has long waiting lists.
-
-There is also luxury student housing. It's very expensive, but it comes with everything you need.
-
-**[Look for student housing ↓](#dorms-and-student-housing)**
-
-### Buying an apartment
-
-If you just moved to Berlin, **don't buy an apartment**. Buying is even harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage.
 
 ## Step 1: Look for apartments
 
 ### Ask your network
 
-Ask the people you know: friends, colleagues, classmates... Many people find an apartment this way. It's easier to get the apartment if you are recommended by someone.
+Ask the people you know if they have an apartment for you. Landlords prefer people they trust.
 
-**If you already live in Berlin**, ask your *[[Hausverwaltung]]* if they have other apartments to rent. They prefer to rent to someone they trust. They can put you on a waiting list, and show you unlisted apartments.
-
-**If you are in university**, go to help clinics for new students. There are also boards where they list apartments for rent.[^7]
+- **People you know**  
+    Tell your friends, family, colleagues and classmates that you need place to live. A lot of people find an apartment this way.
+- **Your [[Hausverwaltung]]**  
+    They prefer to rent to someone they trust. They can put you on a waiting list, and show you unlisted apartments.
+- **Your university**  
+    Universities have boards with apartment listings, and help clinics for new students.[^7]
 
 ### Classified ads
 
-- **[ImmobilienScout24](https://www.immobilienscout24.de/)** - Biggest apartment listing site
+- **[ImmobilienScout24](https://www.immobilienscout24.de/)**  
+    The main housing website. You should pay for the premium account.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
@@ -298,7 +249,7 @@ Landlords want tenants with...
 - **No dogs, no pets**  
     Landlords prefer people without pets. It's harder to find an apartment when you have a dog. Only 20% of apartments explicitly allow pets. Some websites let you filter for apartments that allow pets.
 - **No foreign names**  
-    People with foreign names get rejected more often.[^35] If you apply as a couple, let the person with the most German name apply for the apartment. You will get more responses.[^36]
+    People with foreign names get rejected more often.[^9] If you apply as a couple, let the person with the most German name apply for the apartment. You will get more responses.[^36]
 
 ## Step 4: Visit the apartment
 
@@ -398,18 +349,82 @@ There are 3 types of insurance that cover your apartment:
 - **The [TV tax](/guides/gez-rundfunkbeitrag)**  
     Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
 
+## Your housing options
+
+### Regular apartment
+
+Regular apartments come without furniture, appliances, light fixtures, curtains or cookware. They are empty. In Berlin, apartments must come with a stove and a sink.[^3] You must buy everything else yourself. You must also get an internet connection and find an electricity company.
+
+Regular apartments are a good **long-term solution**, because they are cheaper. There is a lot of competition for those apartments, so they are hard to find.
+
+A regular apartment is cheaper in the long term. Your rent is lower, because you don't rent the furniture with it.
+
+**[Look for regular apartments ↓](#step-1-look-for-apartments)**
+
+### Short-term, furnished apartment
+
+Short-term apartments are very expensive, but they come with everything you need. They are a good **short-term solution** when you [move to Berlin](/guides/moving-to-berlin).
+
+Short-term apartments have many benefits:
+
+- **Fully furnished**  
+    They come with everything you need: furniture, appliances and cookware. You don't need to get an internet contract, an electricity contract, furniture, appliances or cookware. 
+- **Internet and utilities included**  
+    The internet and utilities are already connected. You can just move in, and focus on other problems.
+- **Immigrant-friendly**  
+    You can book an apartment before you arrive in Germany. They don't ask for documents that immigrants don't have, like a *[[Schufa]]*.
+- **Less competition**  
+    These apartments are overpriced, and too expensive for most people. There is less competition for them, so they are a little easier to find.
+
+Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer) (included in the price).[^5]
+
+**[Look for short-term apartments ↓](#short-term-and-furnished-apartments)**
+
+### Flat share ([[WG]])
+
+Sharing an apartment with other people is cheaper and easier. They are a **budget-friendly solution**.
+
+Shared apartments have many benefits:
+
+- **Shared costs**  
+    You can split the cost of rent, internet, electricity, [TV tax](/glossary/Rundfunkbeitrag) and other bills. You save a lot of money.
+- **Lower deposit**  
+    Your part of the rent is lower, so your part of the [deposit](/glossary/Kaution) is also lower. If you don't have a lot of savings, a [[WG]] could be your only option.
+- **Many things included**  
+    Your roommates might already have most of the furniture and cookware you need. You don't need to buy everything yourself. The internet and utilities are already connected.
+
+Finding a [[WG]] is a little easier than finding a full apartment, but still very hard.[^6]
+
+Usually, you must meet your roommates for an interview. Most WG interviews are like a personality test or culture fit test. Interviews for a *[[Zweck-WG]]* are more formal.
+
+**[Look for flat shares ↓](#wgs-flat-shares-and-roommates)**
+
+### Student housing
+
+Student dorms are the **cheapest option for students**, but they are hard to get. Student housing has long waiting lists.
+
+There is also luxury student housing. It's very expensive, but it comes with everything you need.
+
+**[Look for student housing ↓](#dorms-and-student-housing)**
+
+### Buying an apartment
+
+If you just moved to Berlin, **don't buy an apartment**. Buying is even harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage.
+
 ## Need help?
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Reddit](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [Reddit](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/)
-[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/indhcc2/)
+[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/)
+[^1]: [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
+[^2]: [Reddit](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^5]: [deutschesmietrecht.de](https://deutschesmietrecht.de/steuern/365-untervermietung-steuern-freigrenzen-steuerhinterziehung.html#:~:text=umsatzsteuer%20bei%20kurzfristiger%20oder%20langfristiger%20vermietung), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/steuerbefreiung-bei-vermietungsleistungen-zu-4-nr12-ustg_idesk_PI20354_HI9097997.html)
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pljlpm/finding_wg_room_has_become_a_tinder_game/)
 [^7]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6bfba/room_for_incoming_student/)
 [^8]: [crocodilian.de](https://crocodilian.de/short-term-rental-blog/documents-for-anmeldung/#:~:text=if%20you%20rent%20with%20crocodilian%2C%20you%20always%20get%20the%20wohnungsgeberbestatigung)
+[^9]: [Focus](https://www.focus.de/politik/deutschland/mit-auslaendischem-namen-in-deutschland-eine-wohnung-finden-keine-chance_id_183290691.html) (2023), [Frankfurter Rundschau](https://www.fr.de/wirtschaft/diskriminierung-bei-der-wohnungssuche-wie-eine-immo-plattform-dagegen-vorgeht-92481122.html) (2023), [Süddeutsche Zeitung](https://www.sueddeutsche.de/leben/gesellschaft-auslaendischer-name-ist-bei-der-wohnungssuche-eine-huerde-dpa.urn-newsml-dpa-com-20090101-170622-99-952689) (2017), [Reddit](https://www.reddit.com/r/berlin/comments/hwyc3m/i_have_been_discriminated_for_an_apartment_viewing/)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ts8qtx/my_incomplete_berlin_makler_experiences/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/134z871/is_getting_a_relocation_agent_worth_it_for_berlin/)
 [^11]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q35pyh/no_flats_available_what_should_i_do/hfr4q8p/)
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
@@ -425,7 +440,6 @@ There are 3 types of insurance that cover your apartment:
 [^32]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/)
 [^33]: [reddit.com/r/Munich](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
 [^34]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/1-drittel-des-nettogehalts-miete-kalt-oder-warm), [immobilien.vr.de](https://immobilien.vr.de/immobilien/immobilie-mieten/wohnung-mieten/wie-viel-miete-kann-ich-mir-leisten.html)
-[^35]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/hwyc3m/i_have_been_discriminated_for_an_apartment_viewing/)
 [^36]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/)
 [^37]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054504)
 [^38]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
