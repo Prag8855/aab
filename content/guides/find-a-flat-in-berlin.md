@@ -5,7 +5,7 @@ Description: This guide shows you how to find a place to live in Berlin. It expl
 Date_created: 2017-09-20
 ---
 
-This guide shows you how to find your first apartment or *[[WG]]* in Berlin.
+This guide helps you find your first apartment in Berlin.
 
 ![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
@@ -13,13 +13,13 @@ This guide shows you how to find your first apartment or *[[WG]]* in Berlin.
 
 ## Is it hard to find an apartment?
 
-**Yes**. It's really hard.[^0] You must send hundreds of applications to find something.[^1] It can take months to find an apartment.
+**Yes**. It's really hard.[^0] It's one of the hardest part of [moving to Berlin](/guides/moving-to-berlin). It can take months and hundreds of applications.[^1]
 
 During your search, you might need a temporary place to live. For example, you can stay with a friend, or rent a [short-term furnished apartment](#short-term-and-furnished-apartments).
 
 ### Finding your first apartment
 
-If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your [probation ](/glossary/Probezeit)period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants.
+If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your [probation](/glossary/Probezeit) period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
 
 It's easier to find an apartment if you are already in Berlin. You can visit apartments in person, and avoid scams. If you look for a [flat share](/glossary/WG), you can meet potential roommates face to face.[^2]
 
@@ -27,9 +27,9 @@ It's easier to find an apartment if you are already in Berlin. You can visit apa
 
 ### Get everything you need
 
-You must do this before you apply for apartments:
+Before you start looking, you must...
 
-- [**Open a bank account**](/guides/first-bank-account-in-germany) to pay your rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Any European bank account works. You can also send money from another country with [Wise](/out/transferwise).
+- **[Open a bank account](/guides/first-bank-account-in-germany)** to pay your rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Any European bank account works. You can also send money from another country with [Wise](/out/transferwise).
 - **Save money** to pay the [deposit](/glossary/Kaution) and the first month of rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
 - **Prepare the [required documents](#what-to-bring-to-the-visit)** to apply for an apartment. If you find a place you like, you must apply quickly.
 
