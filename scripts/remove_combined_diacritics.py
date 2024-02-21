@@ -5,7 +5,6 @@
 # file names to the second representation. This script reverts file names to the
 # first representation.
 
-from pathlib import Path
 from unicodedata import normalize
 from ursus.config import config
 from ursus.utils import get_files_in_path
