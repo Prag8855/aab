@@ -13,7 +13,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes.** It's *really* hard. It can take months and hundreds of applications.[^0] You might live in multiple short-term apartments before you find a permanent place to live.
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] You might live in multiple short-term apartments before you find a permanent place to live.
 
 If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your [probation](/glossary/Probezeit) period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
 
@@ -21,33 +21,20 @@ It's easier to find an apartment if you are already in Berlin. You can visit apa
 
 ## Before you start
 
-### Get everything you need
+### Prepare
 
-Before you start looking, you must...
+Before you [look for apartments](#step-1-look-for-apartments), you must...
 
-- **[Open a bank account](/guides/first-bank-account-in-germany)** to pay your rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Any European bank account works. You can also send money from another country with [Wise](/out/transferwise).
-- **Save money** to pay the [deposit](/glossary/Kaution) and the first month of rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
-- **Prepare the [required documents](#what-to-bring-to-the-visit)** to apply for an apartment. If you find a place you like, you must apply quickly.
-
-### Things that are different in Germany
-
-- **The deposit**  
-    Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). - [More about the deposit](/guides/mietkaution)
-- **Cold rent and warm rent**  
-    In Germany, there is the cold rent (*[[Kaltmiete]]*) and the warm rent (*[[Warmmiete]]*). The warm rent is the cold rent plus utilities (*[[Nebenkosten]]*). It's what you pay every month. The *Nebenkosten* are not a fixed cost; your landlord adjusts them once per year based on your usage.
-- **Nothing is included**  
-    Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
-- **You pay rent by bank transfer**  
-    You usually pay the rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
-- **Rooms are not counted the same way**  
-    In Germany, the living room also counts as a room. A studio is a *1 Zimmer Wohnung*. A 2-bedroom apartment with a living room is a *3 Zimmer Wohnung*. The kitchen, the bathroom and the hallway do not count as rooms.
-
-[![Apartment floor plan berlin](/illustrations/apartment-floor-plan-berlin.png)](/illustrations/apartment-floor-plan-berlin.png)
-
-- **Floors are not counted the same way**  
-    In North America, the first floor is the ground floor. In Germany, there is the ground floor (*Erdgeschoss* or *EG*), then the first floor.
-- **The [TV tax](/guides/gez-rundfunkbeitrag)**  
-    Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
+- [ ] **[Understand how housing works](#important-knowledge)**  
+    Things are a little different in Germany. Learn about those small differences.
+- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
+    Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
+- [ ] **Save money**  
+    You need enough money to pay the rent and the [deposit](/glossary/Kaution). The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
+- [ ] **Create your accounts**  
+    Make complete, detailed profiles on ImmobilienScout24, Kleinanzeigen and WG-Gesucht. You will need them to apply for apartments.
+- [ ] **Prepare the [required documents](#what-to-bring-to-the-visit)**  
+    You must be ready to apply for an apartment as soon as it goes online. Your documents must be ready.
 
 ## Your housing options
 
@@ -390,6 +377,26 @@ There are 3 types of insurance that cover your apartment:
     If you have problems with your landlord, it pays for the legal costs. Landlords often take advantage of immigrants. Legal insurance allows you to defend yourself. It's optional, but good to have. - [More information](/guides/legal-insurance)
 3. **[Household insurance](/glossary/Hausratversicherung)** (*Hausratversicherung*)  
     It covers your things against theft and fires. It can also cover your bicycle. It's useful if you can't afford to replace your things.
+
+## Important knowledge
+
+- **The deposit**  
+    Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). - [More about the deposit](/guides/mietkaution)
+- **Cold rent and warm rent**  
+    In Germany, there is the cold rent (*[[Kaltmiete]]*) and the warm rent (*[[Warmmiete]]*). The warm rent is the cold rent plus utilities (*[[Nebenkosten]]*). It's what you pay every month. The *Nebenkosten* are not a fixed cost; your landlord adjusts them once per year based on your usage.
+- **Nothing is included**  
+    Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
+- **You pay rent by bank transfer**  
+    You usually pay the rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
+- **Rooms are not counted the same way**  
+    In Germany, the living room also counts as a room. A studio is a *1 Zimmer Wohnung*. A 2-bedroom apartment with a living room is a *3 Zimmer Wohnung*. The kitchen, the bathroom and the hallway do not count as rooms.
+
+[![Apartment floor plan berlin](/illustrations/apartment-floor-plan-berlin.png)](/illustrations/apartment-floor-plan-berlin.png)
+
+- **Floors are not counted the same way**  
+    In North America, the first floor is the ground floor. In Germany, there is the ground floor (*Erdgeschoss* or *EG*), then the first floor.
+- **The [TV tax](/guides/gez-rundfunkbeitrag)**  
+    Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
 
 ## Need help?
 
