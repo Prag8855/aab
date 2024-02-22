@@ -49,16 +49,14 @@ Before you [look for apartments](#step-1-look-for-apartments), you must...
 
 ### Ask your network
 
-Ask the people you know if they have an apartment for you. Landlords prefer people they trust.
-
 - **People you know**  
-    Tell your friends, family, colleagues and classmates that you need place to live. A lot of people find an apartment this way.
+    Tell your friends, family, colleagues and classmates that you need a place to live. People often find an apartment like this.
 - **Your [[Hausverwaltung]]**  
-    They prefer to rent to someone they trust. They can put you on a waiting list, and show you unlisted apartments.
+    Landlords prefer people they already know. They might give you priority when they have an apartment for rent.
 - **Your university**  
     Universities have boards with apartment listings, and help clinics for new students.[^7]
 
-### Classified ads
+### Apartment search websites
 
 - **[ImmobilienScout24](https://www.immobilienscout24.de/)**  
     The main housing website. You should pay for the premium account.[^1]
