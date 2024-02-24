@@ -28,22 +28,20 @@ It's harder if...
 
 ## Before you start
 
-### Prepare
+Before you [look for apartments](#step-1-look-for-apartments), you should...
 
-Before you [look for apartments](#step-1-look-for-apartments), you must...
-
-- [ ] **Understand [how housing works](#important-knowledge)**  
-    Things are a little different in Germany. Learn about those small differences.
+- [ ] **Understand [how things work](#important-knowledge) in Germany**  
+    Housing is a little different in Germany. Learn about those small differences.
 - [ ] **Know [your options](#your-housing-options)**  
     Should you get an apartment, a furnished apartment, a bedroom in a [[WG]] or student housing? It depends on your situation.
-- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
-    Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Save money**  
     You must pay the [deposit](/glossary/Kaution) and the first rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
-- [ ] **Create your accounts**  
-    Make complete, detailed profiles on ImmobilienScout24, Kleinanzeigen and WG-Gesucht.[^2] You will need them to apply for apartments.
+- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
+    Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
+- [ ] **Create accounts on housing websites**  
+    Make complete, detailed profiles on [ImmobilienScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.
 - [ ] **Prepare the [required documents](#what-to-bring-to-the-visit)**  
-    You must be ready to apply for an apartment as soon as it goes online. Your documents must be ready.
+    To find an apartment, you have to be fast. You must have your documents ready.
 
 ## Step 1: Look for apartments
 
@@ -327,23 +325,46 @@ There are 3 types of insurance that cover your apartment:
 
 ## Important knowledge
 
-- **The deposit**  
-    Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). - [More about the deposit](/guides/mietkaution)
-- **Cold rent and warm rent**  
-    In Germany, there is the cold rent (*[[Kaltmiete]]*) and the warm rent (*[[Warmmiete]]*). The warm rent is the cold rent plus utilities (*[[Nebenkosten]]*). It's what you pay every month. The *Nebenkosten* are not a fixed cost; your landlord adjusts them once per year based on your usage.
-- **Nothing is included**  
-    Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
-- **You pay rent by bank transfer**  
-    You usually pay the rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
-- **Rooms are not counted the same way**  
-    In Germany, the living room also counts as a room. A studio is a *1 Zimmer Wohnung*. A 2-bedroom apartment with a living room is a *3 Zimmer Wohnung*. The kitchen, the bathroom and the hallway do not count as rooms.
+### Deposit
+
+Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You must pay the first instalment before you [move in](/guides/moving-in).
+
+**[How the deposit works ➞](/guides/mietkaution)**
+
+### Cold rent and warm rent
+
+The warm rent (*[[Warmmiete]]*) is what you pay every month. It's the cold rent (*[[Kaltmiete]]*) plus utilities (*[[Nebenkosten]]*).
+
+The *Nebenkosten* usually include:
+
+- Heating
+- Hot water (most of the time)
+- Trash collection
+- Cleaning and landscaping
+
+The *Nebenkosten* are not a fixed cost, because you don't know how much water and heating you really use. Your landlord adjusts the *Nebenkosten* every year based on your usage. You pay what your landlord pays. Your landlord can't make a profit on *Nebenkosten*.
+
+### Nothing is included
+
+Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
+
+### Rent is paid by bank transfer
+
+You usually pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
+
+You need a European bank account to make bank transfers. You can also use [Wise](/out/transferwise) to transfer money from a non-EU country.
+
+### Rooms and floors
+
+Rooms and floors are not counted the same way everywhere.
+
+In Germany, the living room also counts as a room. A studio is a *1 Zimmer Wohnung*. A 2-bedroom apartment with a living room is a *3 Zimmer Wohnung*. The kitchen, the bathroom and the hallway do not count as rooms.
 
 [![Apartment floor plan berlin](/illustrations/apartment-floor-plan-berlin.png)](/illustrations/apartment-floor-plan-berlin.png)
 
-- **Floors are not counted the same way**  
-    In North America, the first floor is the ground floor. In Germany, there is the ground floor (*Erdgeschoss* or *EG*), then the first floor.
-- **The [TV tax](/guides/gez-rundfunkbeitrag)**  
-    Each household pays the TV tax (*[[Rundfunkbeitrag]]*). It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. If you live with other people, you can split the cost. - [More information](/guides/gez-rundfunkbeitrag)
+In many countries, the first floor is the ground floor. In Germany, the first floor is above the ground floor.
+
+[![Floors/stories of a German building](/images/building-floors.jpg)](/images/building-floors.jpg)
 
 ## Your housing options
 
@@ -413,7 +434,6 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/)
 [^1]: [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
-[^2]: [Reddit](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^5]: [deutschesmietrecht.de](https://deutschesmietrecht.de/steuern/365-untervermietung-steuern-freigrenzen-steuerhinterziehung.html#:~:text=umsatzsteuer%20bei%20kurzfristiger%20oder%20langfristiger%20vermietung), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/steuerbefreiung-bei-vermietungsleistungen-zu-4-nr12-ustg_idesk_PI20354_HI9097997.html)

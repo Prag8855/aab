@@ -122,7 +122,7 @@ If no one else should read this letter, add *Persönlich* (personal) or *Vertrau
 
 > The name of the business  
 > z. Hd. The person you are writing to  
-> **- Vertraulich -**
+> **- Vertraulich -**  
 > Street and door number  
 > [Postal code](/glossary/Postleitzahl) and city  
 > Country
