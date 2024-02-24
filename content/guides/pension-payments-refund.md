@@ -319,7 +319,7 @@ These businesses can help you request a refund. They will fill the forms and req
 - **[⭐ Pension Refund Germany](/out/german-pension-refund)**  
     Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated the process, so you can do everything online. They pay you in the currency you prefer. They work with a lawyer.
 - **[⭐ FundsBack](/out/fundsback)**  
-    Their fee is 9.9% of your refund (minimum fee 899€, maximum 2,899€).[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
+    Their fee is 9.9% of your refund (minimum fee 899€, maximum 2,899€), or 9.405% if you use the link above.[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
 - **[⭐ Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is 9.75% of your refund (no minimum or maximum fee).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
 - **[TaxBack](/out/taxback)**  
