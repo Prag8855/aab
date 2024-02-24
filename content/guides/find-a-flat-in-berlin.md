@@ -13,7 +13,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent. It can be hard on your mental health.[^2]
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent.[^23] It can be hard on your mental health.[^2]
 
 It's harder if...
 
@@ -42,7 +42,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
     Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Create accounts on housing websites**  
     Make complete, detailed profiles on [ImmobilienScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.
-- [ ] **Prepare the [required documents](#what-to-bring-to-the-visit)**  
+- [ ] **Prepare the [required documents](#required-documents)**  
     To find an apartment, you have to be fast. You must have your documents ready.
 
 ## Step 1: Look for apartments
@@ -213,7 +213,7 @@ People don't hire agents to find an apartment. They are mostly useless.[^10] The
 After you find apartments you like, contact the landlord now. Here are ways to improve your chances:
 
 - **Speak or write in German**  
-    You get more responses if you use German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to write your message.
+    You get more responses if you write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to write your message.
 - **Call and write**  
     Some landlords only answer phone calls. Others only answer emails. Call as soon as you can, then send a message.
 - **Introduce yourself**  
@@ -221,7 +221,7 @@ After you find apartments you like, contact the landlord now. Here are ways to i
 - **Send many applications**  
     You must send dozens of applications to find an apartment. Some people send hundreds of applications before they find an apartment.
 - **Be prepared**  
-    Landlords get hundreds of messages and dozens of applications *per hour*.[^22] Make their life as easy as possible. Fill the application form in advance, and bring all the required documents with you.
+    Landlords get hundreds of messages and dozens of applications *per hour*.[^22] Make their life as easy as possible. Fill the application form in advance, and bring all the [required documents](#required-documents) with you.
 - **Be flexible**  
     There are really nice apartments outside of Kreuzberg, Prenzlauer Berg, Friedrichshain or Neukölln. Search in all of Berlin, including outside the *[[Ringbahn]]*. Berlin has good public transportation; you don't need to live in the center.
 - **Be first**  
@@ -248,13 +248,13 @@ Landlords want tenants with...
 
 ## Step 4: Visit the apartment
 
-The landlord will invite you to visit the apartment (the *Besichtigung*). It might be a private visit (just you), or an open visit (many other people).
+If you are lucky, the landlord will invite you to see the apartment. Arrive early and bring all the required documents. It might be a private visit (just you), or an open visit (many other people).
 
 Do not go to mass viewings. They are a waste of time.[^20]
 
 You can usually apply for the apartment during your visit.
 
-### What to bring to the visit
+### Required documents
 
 To get the apartment, **come prepared**. Bring a copy of all your documents with you. If you like the apartment, you can apply during the visit.
 
@@ -264,7 +264,7 @@ You might have to send personal documents to people you don't know. Some scammer
 
 Only send documents after you see the apartment. Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again.
 
-You need these documents to apply for an apartment:[^19]
+Bring these documents with you:[^19]
 
 - [ ] **[[Schufa]] report**  
     This is like a credit report. You can [get one for free](/guides/schufa). If you are new in Germany, your *[[Schufa]]* is empty. You can bring a work contract or a tax return, to prove that you make enough money. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
@@ -433,7 +433,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/)
+[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/)
 [^1]: [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
 [^2]: [Berliner Zeitung](https://www.berliner-zeitung.de/mensch-metropole/berlin-und-die-wohnungsnot-panikattacken-existenzaengste-gehoeren-zum-alltag-li.288273) (2022), Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (February 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
@@ -467,7 +467,8 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Multiple relocation consultants (October 2023)
-[^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2)
-[^20]: [BerlinRelo](https://www.berlinrelo.de/) (January 2024)
+[^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2), [buendnis-neukoelln.de](https://www.buendnis-neukoelln.de/wp-content/uploads/2023/07/Finding-housing-in-Berlin-a-handbook-for-refugees-V1.2.pdf)
+[^20]: [BerlinRelo](https://www.berlinrelo.de/) (January 2024), [Reddit](https://old.reddit.com/r/berlin/comments/1aingxq/to_people_who_like_me_are_not_finding_a_flat_to/kpcm2mp/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/4y13g1/observations_on_the_berlin_housing_situation/#:~:text=%20turn%20down%20any%20mass%20viewings), [Prop.ID](https://www.prop.id/immobilien-glossar/massenbesichtigung)
 [^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/makler-packt-aus-funf-experten-tipps-um-an-eine-wohnung-in-berlin-zu-kommen-11204872.html) (February 2024)
+[^23]: [Reddit (Munich)](https://old.reddit.com/r/Munich/comments/pt4zz2/hell_hath_no_fury_like_the_housing_situation_in/hdtzb04/)
