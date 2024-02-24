@@ -5,7 +5,7 @@ Description: This is how you buy marijuana safely in Germany's capital.
 Date_created: 2017-09-01
 ---
 
-Weed [is not legal in Berlin](/guides/is-marijuana-legal), but many people still smoke it. This guide explains how people usually buy weed in Berlin.
+This guide explains how people usually buy weed in Berlin. Weed [is not legal in Berlin](/guides/is-marijuana-legal). It will become legal on April 1.
 
 ![Rolling paper grinder weed berlin s](/illustrations/rolling-paper-grinder-weed-berlin-s.png)
 
@@ -13,13 +13,13 @@ Weed [is not legal in Berlin](/guides/is-marijuana-legal), but many people still
 
 ## Is marijuana legal in Germany?
 
-**No**, but there are exceptions. For example, CBD oil and cannabis seeds are legal.
+**No**, but legalisation is planned for April 1.
 
 **[Is cannabis legal in Germany? ➞](/guides/is-marijuana-legal)**
 
 ## How much should does weed cost in Berlin?
 
-You should pay **around 10€ per gram**, but quality weed can be a bit more expensive.
+You should pay **around 10€ per gram**, but quality weed can be more expensive.
 
 ## Where do Berliners buy their weed?
 
@@ -28,6 +28,8 @@ There are 3 ways to buy weed in Berlin: on Telegram, from street dealers or thro
 1. **Your friends** might know a good dealer. Just ask. You will find at least one friend who has a safe, reliable dealer. You will get better, cheaper, safer weed this way. People you have just met will not always introduce you to their dealer.
 2. **[Telegram](https://telegram.org/)** is the easiest option if your friends don't know any dealers. It's a common way to buy weed in Berlin. There are many Telegram groups you can join. Some groups are run by a single dealer, and others let dealers and buyers find each other.
 3. **The parks** should be your last option. They sell very low quality weed in parks. It's often laced with dangerous chemicals.
+
+After legalisation, [cannabis clubs](/guides/is-marijuana-legal) will be the only legal way to buy weed in Germany. You must be a Berlin resident for at least 6 months to join a local cannabis club.[^11]
 
 ## Buying weed from Görlitzer and Hasenheide park
 
@@ -80,10 +82,6 @@ You *can't* see if your weed is contaminated with a synthetic cannabinoid test k
 - [Other reddit discussion](https://www.reddit.com/r/berlin/comments/kx3x04/marijuana_from_reputable_berlin_delivery_service/)
 - [Discussion about synthetic cannabinoid test kits](https://www.reddit.com/r/berlin/comments/kzwggs/spiced_weed_in_berlin_the_kits_we_have_used_are/)
 
-## Disclaimer
-
-This article is not written to promote the use of illegal drugs, but to make their consumption as safe as possible. **All About Berlin does not condone the consumption of cannabis**. If you choose to break the law, it's your decision. Be safe and responsible.
-
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6rlitzer_Park#Drug_trafficking)
 [^1]: [goo.gl](https://goo.gl/maps/ppjbvAoUMVMv8TDy9), [goo.gl](https://goo.gl/maps/YjDdmS7k7RUeB6U6A)
 [^2]: [berliner-zeitung.de](https://www.berliner-zeitung.de/news/polizeibericht-berlin/statistik-das-sind-die-gefaehrlichsten-parks-in-berlin-li.171833)
@@ -95,3 +93,4 @@ This article is not written to promote the use of illegal drugs, but to make the
 [^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kve48s/spice_laced_weed_is_in_berlin_watch_out/gixt3yr/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kve48s/spice_laced_weed_is_in_berlin_watch_out/gixuanh/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kve48s/spice_laced_weed_is_in_berlin_watch_out/gizrtd5/?utm_source=reddit&utm_medium=web2x&context=3), [legal-high-inhaltsstoffe.de](https://legal-high-inhaltsstoffe.de/de/news/2020/02/warnung-cannabis-mit-synthetischen-cannabinoiden.html)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kzwggs/spiced_weed_in_berlin_the_kits_we_have_used_are/)
 [^10]: [reddit.com/r/germantrees](https://old.reddit.com/r/germantrees/comments/iefo1b/frage_sind_synthetische_cannbinoide_erkennbar/)
+[^11]: [§1 Abs. 16 KCanG](https://dserver.bundestag.de/btd/20/104/2010426.pdf)
