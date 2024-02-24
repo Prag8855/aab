@@ -13,20 +13,18 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] People often live in multiple short-term apartments and even hostels before they find something permanent.
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent.
 
 It's harder if...
 
 - You are not in Berlin
 - You don't speak German
-- You don't have a job
-- Your income is too low
-- You are in your [probation period](/glossary/Probezeit) at work
+- You are unemployed or in your [probation period](/glossary/Probezeit)
 - You are self-employed
+- Your income is too low
+- You have no [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship
+- You have a foreign name[^9]
 - You have a dog
-- You are not European or you have a foreign name[^9]
-
-If you just [moved to Berlin](/guides/moving-to-berlin), it's harder to find an apartment. You are on your  period, you have no [credit history](/glossary/Schufa), and you might not have a [residence permit](/glossary/Aufenthaltstitel) yet. Landlords prefer more stable tenants. [Short-term furnished apartments](#short-term-and-furnished-apartments) might be your only option.
 
 ## Before you start
 
@@ -36,10 +34,12 @@ Before you [look for apartments](#step-1-look-for-apartments), you must...
 
 - [ ] **Understand [how housing works](#important-knowledge)**  
     Things are a little different in Germany. Learn about those small differences.
+- [ ] **Know [your options](#your-housing-options)**  
+    Should you get an apartment, a furnished apartment, a bedroom in a [[WG]] or student housing? It depends on your situation.
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
     Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Save money**  
-    You need enough money to pay the rent and the [deposit](/glossary/Kaution). The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
+    You must pay the [deposit](/glossary/Kaution) and the first rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
 - [ ] **Create your accounts**  
     Make complete, detailed profiles on ImmobilienScout24, Kleinanzeigen and WG-Gesucht.[^2] You will need them to apply for apartments.
 - [ ] **Prepare the [required documents](#what-to-bring-to-the-visit)**  
@@ -310,11 +310,9 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 
 You will sign a lease, pay the deposit, get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
 
-These guides explain how:
+**[How to move out ➞](/guides/moving-out)**
 
-**[How to move out of an apartment ➞](/guides/moving-out)**
-
-**[How to move into an apartment ➞](/guides/moving-in)**
+**[How to move in ➞](/guides/moving-in)**
 
 ## Step 6: Get insured
 
