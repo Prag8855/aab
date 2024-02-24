@@ -13,7 +13,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent.
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent. It can be hard on your mental health.[^2]
 
 It's harder if...
 
@@ -25,6 +25,8 @@ It's harder if...
 - You have no [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship
 - You have a foreign name[^9]
 - You have a dog
+
+**[What landlords want ↓](#what-landlords-want)**
 
 ## Before you start
 
@@ -45,10 +47,10 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 ## Step 1: Look for apartments
 
-### Ask your network
+### Ask everyone
 
 - **People you know**  
-    Tell your friends, family, colleagues and classmates that you need a place to live. People often find an apartment like this.
+    Tell your friends, family, colleagues and classmates that you need a place to live. People often find an apartment like this.[^21]
 - **Your [[Hausverwaltung]]**  
     Landlords prefer people they already know. They might give you priority when they have an apartment for rent.
 - **Your university**  
@@ -151,42 +153,41 @@ People don't hire agents to find an apartment. They are mostly useless.[^10] The
 
 ## Step 2: Choose apartments to visit
 
-Most people can't choose where they live. They take what they find.[^11] You should look for a place you like, but you can't be too picky.
+### Apartment checklist
 
-### How to choose an apartment
-
-- **Is the price fair?**  
+- [ ] **[Is it a scam?](/guides/housing-scams)**
+- [ ] **Is the price fair?**  
     The [ImmobilienScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are often much more expensive.
-- **Can you register your address there?**  
-    Always choose an apartment that lets you [register your address](/glossary/Anmeldung). If you can't register your address, it makes your life harder. - [More information](/guides/anmeldung-in-english-berlin)
-- **Should you live alone or in a WG?**  
-    To save money, rent a room in a flat share (*[[WG]]*). It's cheaper, and the apartment already has internet, electricity, appliances and sometimes furniture. It saves you a lot of work.
-- **What comes with the apartment?**  
+- [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
+    Always choose an apartment that lets you do your *Anmeldung*. [It's very important.](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
+- [ ] **Is the lease unlimited?**  
+    A limited lease means that you might have to move again in a few months. Most limited leases are illegal.
+- [ ] **What is included?**  
     Apartments often come without appliances, curtains, and light fixtures. When an apartment is *mit [[Einbauküche]]*, it includes a stove, fridge and sometimes a dishwasher. You must buy your own washing machine. [[WG]]s and furnished apartments usually include everything you need.
-- **Is the housing company good?**  
-    Check which housing company (*[[Hausverwaltung]]*) owns the apartment. When you have a problem with your apartment, you must talk to them. Some housing companies are really bad.
-- **Neubau or Altbau?**  
+- [ ] **How is the housing company?**  
+    Search the name of your landlord or housing company (*[[Hausverwaltung]]*). Some have a really bad reputation.
+- [ ] **Neubau or Altbau?**  
     New buildings (*Neubau*) are often quieter and better insulated. They have concrete walls and floors. You hear your neighbours less. Old buildings (*Altbau*) often have high ceilings, hardwood floors, and a lot more charm.
-- **Which floor?**
+- [ ] **Gas or electric?**  
+    Some apartments have gas heating and gas stoves.
+- [ ] **Which floor?**
     - **Top floor**   
         These apartments are quieter; you hear less traffic, and there is no neighbour above you. They get more sunlight. They are hotter in the summer,[^12] especially old apartments with bad insulation. Ask if they improved the insulation in the recent years. If you live in the attic (*Dachgeschoß*), the walls are at an angle, so the apartment can feel smaller.
     - **Upper floors**  
-        These apartments get more sunlight. There is less traffic noise. Check if there is an elevator. It's harder to [move in](/guides/moving-in) without an elevator.
+        These apartments get more sunlight. There is less traffic noise. Check if there is an elevator.
     - **Lower floors, ground floor**  
-        Apartments on the lower floors are darker and louder. They are less safe because of break-ins. Neighbours can often see inside your apartment.[^13] Some ground floor apartments come with a garden.
-- **Street or courtyard?**  
-    Does the apartment face the street or the courtyard? On the street side, you hear the traffic more. On the courtyard side, you hear your other neighbours more. The courtyard side often gets less sun.
-- **Balcony or not?**  
-    A balcony is nice to have, especially if you work from home. Some apartments come with garden or rooftop access.
-- **Storage and parking**  
-    Many apartments come with a storage room in the basement (*Kellerraum*), and bicycle racks in the interior courtyard. Some buildings have parking spaces in the basement. A parking space in the basement garage usually costs around 120€ per month. Check if there is street parking.
-- **Gas or electric?**  
-    Some apartments have gas heating and gas stoves.
+        Apartments on the lower floors are darker and louder. They are less safe because of break-ins. Neighbours can often see inside your apartment.[^13] Some ground floor apartments have a garden.
+- [ ] **Street or courtyard?**  
+    Does the apartment face the street or the courtyard? On the street side, you hear the traffic more. On the courtyard side, you hear your other neighbours more. The courtyard side gets less sun.
+- [ ] **Storage and parking**  
+    Is there a rack for your bicycle? A storage room in the basement (*Kellerraum*)? Is street parking easy to find? Is there a parking space in the basement? How much does it cost?
 
-### How to choose a location
+### Location checklist
 
-- **Neighbourhoods**  
+- **Neighbourhood**  
     Berlin has a few popular neighbourhoods (*Kiez*): Kreuzberg, Prenzlauer Berg, Friedrichshain, Neukölln, etc. These neighbourhoods are more interesting, but they are busier, louder and more expensive. There is a lot of competition for apartments in those areas. To save money or live in a quiet area, look for apartments outside the *[[Ringbahn]]*.
+- **Public transit connections and commute time**  
+    Berlin has good public transportation. You can live far from the centre if you live close to a train or tram station. Use [Mapnificient](https://www.mapnificent.net/berlin/) to see how far you are from work.
 - **Crime**  
     Berlin is a safe city, even at night, but some parts are less safe. The areas next to big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas, but people will still leave you alone. You don't need to avoid the entire area, just the busy streets. Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area.
 - **Noise**  
@@ -194,8 +195,6 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 
 ![Berlin ambulance noise](/illustrations/berlin-ambulance-noise.png)
 
-- **Public transportation**  
-    Berlin has good public transportation. You can live far from the centre if you live close to a train or tram station. Use [Mapnificient](https://www.mapnificent.net/berlin/) to see how far you are from work.
 - **Parking**  
     [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car). If you want a car, check if there is enough parking space nearby. In central neighbourhoods, parking spaces are harder to find, and you need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have a basement garage. Basement parking costs around 120€ per month. Single garages are harder to find. You can [park your motorcycle on the sidewalk](/guides/motorcycle-parking).
 - **Parks and nature**  
@@ -214,15 +213,15 @@ Most people can't choose where they live. They take what they find.[^11] You sho
 After you find apartments you like, contact the landlord now. Here are ways to improve your chances:
 
 - **Speak or write in German**  
-    You get more responses if you use German.
+    You get more responses if you use German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to write your message.
 - **Call and write**  
     Some landlords only answer phone calls. Others only answer emails. Call as soon as you can, then send a message.
 - **Introduce yourself**  
-    When you contact the landlord, include all the important details about you: your name, age, job, salary, when you want to move in, who will live with you, what documents you have,[^30] and a personal introduction. A cover letter and a photo can help.[^31] Use [example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application) to write your message. [Lingoking](/out/lingoking-letters) can translate your message and cover letter to German.
+    Include all the important details about you: your name, age, job, salary, when you want to move in, who will live with you, what documents you have,[^30] and a personal introduction. A cover letter and a photo can help.[^31] Use [example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application) to write your message. [Lingoking](/out/lingoking-letters) can translate your message and cover letter to German.
 - **Send many applications**  
-    You must apply for dozens of apartments, not just one or two. It's not enough. Some people send hundreds of applications before they find an apartment.
+    You must send dozens of applications to find an apartment. Some people send hundreds of applications before they find an apartment.
 - **Be prepared**  
-    Landlords get hundreds of messages and dozens of applications *per day*. Make their life as easy as possible. Fill the application form in advance, and bring all the required documents with you.
+    Landlords get hundreds of messages and dozens of applications *per hour*.[^22] Make their life as easy as possible. Fill the application form in advance, and bring all the required documents with you.
 - **Be flexible**  
     There are really nice apartments outside of Kreuzberg, Prenzlauer Berg, Friedrichshain or Neukölln. Search in all of Berlin, including outside the *[[Ringbahn]]*. Berlin has good public transportation; you don't need to live in the center.
 - **Be first**  
@@ -251,11 +250,13 @@ Landlords want tenants with...
 
 The landlord will invite you to visit the apartment (the *Besichtigung*). It might be a private visit (just you), or an open visit (many other people).
 
+Do not go to mass viewings. They are a waste of time.[^20]
+
 You can usually apply for the apartment during your visit.
 
 ### What to bring to the visit
 
-If you want to get the apartment, come prepared. Bring all your documents with you. If you like the apartment, you can apply during the visit.
+To get the apartment, **come prepared**. Bring a copy of all your documents with you. If you like the apartment, you can apply during the visit.
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
 
@@ -263,7 +264,7 @@ You might have to send personal documents to people you don't know. Some scammer
 
 Only send documents after you see the apartment. Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again.
 
-You need these documents to apply for an apartment:
+You need these documents to apply for an apartment:[^19]
 
 - [ ] **[[Schufa]] report**  
     This is like a credit report. You can [get one for free](/guides/schufa). If you are new in Germany, your *[[Schufa]]* is empty. You can bring a work contract or a tax return, to prove that you make enough money. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
@@ -434,6 +435,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/)
 [^1]: [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
+[^2]: [Berliner Zeitung](https://www.berliner-zeitung.de/mensch-metropole/berlin-und-die-wohnungsnot-panikattacken-existenzaengste-gehoeren-zum-alltag-li.288273) (2022), Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (February 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^5]: [deutschesmietrecht.de](https://deutschesmietrecht.de/steuern/365-untervermietung-steuern-freigrenzen-steuerhinterziehung.html#:~:text=umsatzsteuer%20bei%20kurzfristiger%20oder%20langfristiger%20vermietung), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/steuerbefreiung-bei-vermietungsleistungen-zu-4-nr12-ustg_idesk_PI20354_HI9097997.html)
@@ -451,7 +453,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
 [^25]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
-[^30]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
+[^30]: [Nerea Lopez](https://www.linkedin.com/feed/update/urn:li:activity:7165883275020869632?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7165883275020869632%2C7165963762615730176%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287165963762615730176%2Curn%3Ali%3Aactivity%3A7165883275020869632%29) (February 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
 [^32]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/)
 [^33]: [reddit.com/r/Munich](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
@@ -465,3 +467,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Multiple relocation consultants (October 2023)
+[^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2)
+[^20]: [BerlinRelo](https://www.berlinrelo.de/) (January 2024)
+[^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024)
+[^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/makler-packt-aus-funf-experten-tipps-um-an-eine-wohnung-in-berlin-zu-kommen-11204872.html) (February 2024)
