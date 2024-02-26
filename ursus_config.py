@@ -156,6 +156,7 @@ config.context_processors += (
 
 config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
+    'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
 )
 
 config.linters = (
@@ -189,7 +190,7 @@ config.jinja_filters = {
     'cur': to_currency,
 }
 
-config.google_maps_api_key = 'AIzaSyAke3v8wHo91JZBiU8B6q6zMtOPn9i_xeM'  # Backend use only
+config.google_maps_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'  # Backend use only
 
 
 minimum_wage = 12.41
