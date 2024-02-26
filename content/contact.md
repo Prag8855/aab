@@ -29,6 +29,15 @@ When I am back, you can contact me to...
 
 **Address**: Pasewalker Str. 65, 13127 Berlin
 
+### Social media
+
+- [Facebook](https://www.facebook.com/allaboutberlin)
+- [GitHub](https://github.com/all-about-berlin)
+- [Google Maps](https://maps.app.goo.gl/9JPTZeCRpkcxgqqp6)
+- [LinkedIn](https://www.linkedin.com/company/allaboutberlin/)
+- [Reddit](https://reddit.com/r/allaboutberlin)
+- [Twitter](https://twitter.com/aboutberlin)
+
 ## Payment information
 
 **Account holder:** Nicolas Bouliane  

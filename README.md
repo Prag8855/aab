@@ -1,6 +1,6 @@
 # All About Berlin
 
-This repo contains the templates and content used to render [allaboutberlin.com](https://allaboutberlin.com). All About Berlin is built on top of [Ursus](https://github.com/nicbou/ursus/), a static site generator.
+This repo contains the templates and content used to render [allaboutberlin.com](https://allaboutberlin.com). All About Berlin is built on top of [Ursus](https://github.com/all-about-berlin/ursus/), a static site generator.
 
 ## How to build
 
