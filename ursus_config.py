@@ -156,7 +156,7 @@ config.context_processors += (
 
 config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
-    'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
+    # 'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
 )
 
 config.linters = (
