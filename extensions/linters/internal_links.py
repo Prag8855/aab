@@ -5,6 +5,7 @@ import re
 class MarkdownInternalLinksLinter(OriginalInternalLinksLinter):
     ignored_urls = (
         re.compile("^/donate$"),
+        re.compile("^/google-maps$"),
         re.compile("^/out"),
         re.compile("^/suggest-[a-z]+$"),
     )
