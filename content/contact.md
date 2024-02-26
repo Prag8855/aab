@@ -13,7 +13,7 @@ When I am back, you can contact me to...
 - **Give feedback**  
     If you have changes and suggestions to make, send them to me! It helps me improve the website for everyone.
 - **Say thanks**  
-    I *love* to hear from happy readers! If my work helped you, you can also [donate a few euros](/donate) to support the website.
+    I *love* to hear from happy readers. It makes my day! You can also [leave a review on Google Maps](https://maps.app.goo.gl/9JPTZeCRpkcxgqqp6) or [donate a few euros](/donate) to support the website.
 - **Advertise your business**  
     Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) first. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
@@ -42,5 +42,7 @@ When I am back, you can contact me to...
 ### Donate
 
 This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me. You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), [Patreon](/out/patreon), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
+
+A positive review [on Google Maps](https://maps.app.goo.gl/9JPTZeCRpkcxgqqp6) also helps a lot.
 
 {% include "_blocks/tipJar.html"%}
