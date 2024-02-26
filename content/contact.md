@@ -29,7 +29,7 @@ When I am back, you can contact me to...
 
 **Address**: Pasewalker Str. 65, 13127 Berlin
 
-### Social media
+All About Berlin is also on...
 
 - [Facebook](https://www.facebook.com/allaboutberlin)
 - [GitHub](https://github.com/all-about-berlin)
