@@ -9,7 +9,7 @@ services:
       - "api_db:/var/db"
     restart: unless-stopped
   appointments:
-    build: https://github.com/nicbou/burgeramt-appointments-websockets.git#main
+    build: https://github.com/all-about-berlin/burgeramt-appointments.git#main
     environment:
       - "PYTHONUNBUFFERED=1"
       - "BOOKING_TOOL_ID"
