@@ -13,19 +13,13 @@ This guide shows you how to meet new people and make friends after you [move to 
 
 ### It's normal to feel lonely
 
-When you move to a new city, you reset your social life. At first, you might feel lonely, and that's normal. Everyone feels lonely in their first year. It takes time to build a community, and to find people who are there for you.
+**Everyone feels lonely in their first year.** It's a normal part of moving to a new city.
 
-Therapists can help you deal with those feelings. Use my [list of English-speaking therapists](/guides/english-speaking-psychotherapists-berlin) to find one.
+Your first friends might be nomads just like you. Many will leave, and it might hurt. **It gets easier with time.** You will meet people who choose to stay, just like you.
 
-### It's hard to make friends
+Berliners are not the friendliest strangers. It's normal to miss small talk and nice interactions. It gets better when you learn German, but you also get used to it. It just takes time.
 
-It's harder to make friends as an immigrant. You might feel like everyone has enough friends, and are not interested in making more friends.
-
-Recent immigrants come and go. People are afraid of making friends who will move away in a few months. You will also experience this. Your first friends will be other recent immigrants, and many of them will be gone in a year.
-
-Other people prefer friends who speak their language, because it's easier for them. Many Germans speak English, but they are more comfortable with German. It's a good reason to [learn German](/guides/learn-german).
-
-It gets easier with time. You will slowly rebuild your social life, and your friends will introduce you to their friends.
+Everyone feels lonely at first, but it gets better. You will slowly rebuild your social circle, discover new passions, meet new people. It just takes time and a bit of effort.
 
 ## How to meet people in Berlin
 
@@ -33,12 +27,12 @@ It gets easier with time. You will slowly rebuild your social life, and your fri
 
 - **[Meetup.com](https://www.meetup.com/)** (free)  
     There are meetup groups for all kinds of hobbies, and just for meeting people. Many meetups are in English.
+- **[Eventbrite](https://www.eventbrite.de/)
+- **[Facebook events](https://www.facebook.com/events/)**
 - **[InterNations](https://www.internations.org/berlin-expats)** (free)  
     They organise free events for immigrants.
 - **Board games**  
-    There are a few [board game meetups](/guides/board-games-in-berlin) that welcome English speakers.
-
-You can also find events on [Eventbrite](https://www.eventbrite.de/) and [Facebook](https://www.facebook.com/events/).
+    There are a few [board game meetups](/guides/board-games-in-berlin). English speakers are welcome.
 
 It's easier to meet people around a shared hobby like chess or bouldering. Meeting strangers is always a little awkward, but it's easier if you have something to do at the same time.
 
@@ -47,7 +41,7 @@ It's easier to meet people around a shared hobby like chess or bouldering. Meeti
 - **[Bumble BFF](https://bumble.com/en/bff)**  
     A dating app, but for making friends.
 - **[/r/berlinsocialclub](https://www.reddit.com/r/berlinsocialclub)**  
-    A subreddit for making friends in Berlin. Some people are new in Berlin, and others are looking for friends to attend events. They have a meetup every Tuesday at [Mendy und Edeltraut](https://www.facebook.com/Mendyundedeltraut/). Most of the attendees speak English.
+    A subreddit for making friends in Berlin. English speakers are welcome.
 
 ### Communities
 

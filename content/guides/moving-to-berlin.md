@@ -180,7 +180,7 @@ Follow [20percent.berlin](https://20percent.berlin/), [Berlin Events Weekly](htt
 
 ### Make friends
 
-It takes time to make friends in Berlin. It's normal to feel lonely in your first year. Berlin has a big expat community, so you will always find people to meet, even if you don't speak German.
+It takes time to make friends in Berlin. It's normal to feel lonely in your first year. Berlin has a big expat community, so you will find people to meet, even if you don't speak German.
 
 **[How to make friends ➞](/guides/making-friends)**
 
