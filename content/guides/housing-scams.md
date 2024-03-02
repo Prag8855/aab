@@ -21,6 +21,8 @@ The landlord says that they are in another country. They say that if you pay the
 
 The landlord invites you to see the apartment. The apartment does not belong to them. They only rented the place to show it to you. They will steal your deposit and disappear.[^15]
 
+This scam is harder to notice. Talk to the neighbours to verify that the scammer really lives there. Check if their name matches the name on the mailbox.
+
 ### Identity theft
 
 The scammer creates fake apartment listings. When you apply for the apartment, you must send many documents, like a passport and a bank account statement. They use those documents you send to steal your identity.[^6]
@@ -47,7 +49,7 @@ Commercial spaces are not protected by [rent control laws](/glossary/Mietpreisbr
 
 To get the apartment, you must pay a bribe. Bribes are more and more common.[^23] They are usually illegal.
 
-The landlord or the previous tenant can't charge a fee to give you the apartment.[^13] If you paid a bribe to get your apartment, you can get your money back and keep the apartment.[^16]
+The landlord or the previous tenant can't charge a fee to give you the apartment.[^13]
 
 ### Agent fees
 
@@ -84,6 +86,29 @@ If you paid too much, you can get your money back and keep the apartment.[^14] T
 
 ## How to avoid scams
 
+### Scam checklist
+
+Signs that it's a scam:[^26]
+
+- [ ] **Is it too good to be true?**  
+    If it's too easy to get the apartment, or if the price is too low, be careful.[^9]
+- [ ] **Is the apartment real?**  
+    Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the apartment photos come from somewhere else. Check if the text was copied from another listing. Check if the apartment has the same windows in the listing and on Google Street View.
+- [ ] **Is the landlord real?**  
+    Google the name of the landlord or *[[Hausverwaltung]]*. Some scammers make also make fake websites.
+- [ ] **How old is the account?**  
+    Look at the age of the landlord's account on the housing website. If it was created in the last few days, be careful. Scammers often create new accounts.
+- [ ] **How do you pay?**  
+    Germans pay the rent by [bank transfer](/glossary/SEPA-Überweisung). Bank transfers to other countries are suspicious; the landlord's [[IBAN]] should start with "DE".[^16] It should be the same IBAN as in their *[[Impressum]]*. Other payment methods like Paypal, Western Union, MoneyGram and cryptocurrencies are usually scams.
+- [ ] **Do the names match?**[^27]  
+    The names on the email, the doorbell, the mailbox and the website should be the same. Ask the neighbour who lives there.[^28] When you see the landlord in person, you can ask to see their ID.
+
+Some things are suspicious, but not always a scam:
+
+- [ ] The contract in English
+- [ ] The landlord speaks bad German
+- [ ] The landlord sends you their ID before you ask for it[^29]
+
 ### Wait before you pay
 
 Don't send any money before you see the apartment in person and sign the lease.[^7] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You never have to pay a fee to see an apartment, or to apply for it.[^11]
@@ -102,18 +127,6 @@ A scammer could show you any apartment in a video call. Even in person, they can
 
 In Germany, people pay their rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Never send money by Western Union or other payment services.[^8] If you pay with cash, ask for a receipt. Use [Wise](/out/transferwise) to transfer money from another country. You have until the day you [move in](/guides/moving-in) to pay the rent and the deposit, so you can also come to Germany, [open a bank account](/guides/german-banks-no-address), then pay your rent.
 
-### Know the signs
-
-Housing scams have a few tell-tale signs:[^26]
-
-- The apartment is too good to be true[^9]
-- It's too easy to get the apartment
-- Landlord in another country
-- Foreign IBAN or unusual payment method
-- False phone number
-- Names don't match[^27]
-- New account
-
 ### Use Google
 
 Search the landlord's name and [[IBAN]] on Google. You can also search for parts of their messages on Google.[^10] See if the contact information is the same as on their website. If they are a scammer, you might find some warnings online, or identical ads with different photos.
@@ -122,6 +135,10 @@ Search the landlord's name and [[IBAN]] on Google. You can also search for parts
 
 Scammers often use photos of a different apartment. Use [reverse image search](https://tineye.com/) to see if the photos come from another listing. Check if the apartment looks the same on the photos and on Google Street View. Is the balcony the same? Are the windows the same shape?
 
+### Report a scam
+
+**[Report a scam to the police ➞](https://www.bka.de/DE/KontaktAufnehmen/Onlinewachen/onlinewachen_node.html)**
+
 ## Where to get help
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
@@ -129,7 +146,7 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
 [^1]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=wer%20sich%20weigert%2C%20wird%20in%20der%20regel%20nicht%20als%20nachmieter%20vorgeschlagen) (2021), [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html), [Reddit](https://old.reddit.com/r/wohnen/comments/18rfw5t/abl%C3%B6se_von_20000_abl%C3%B6se_von_12000_aus_dem_post/)
 [^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#9-Was-sollten-Sie-tun-wenn-Sie-eine-ueberhoehte-oder-unzulaessige-Provision-zahlen-mussten), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)
-[^3]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460)
+[^3]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460), [Europäisches Verbraucherzentrum](https://www.evz.de/einkaufen-internet/vorsicht-falle/mietbetrug.html#:~:text=sich%20im%20ausland%20aufzuhalten), [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=dass%20er%20im%20ausland%20ist)
 [^4]: [§2 Abs. 1a WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=demnach%20zahlt%20derjenige%20den%20makler%2C%20der%20ihn%20beauftragt%20hat), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#2-Wie-funktioniert-das-Bestellerprinzip), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/)
 [^5]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#4-Die-zulaessige-Maklergebuehr), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/#H%C3%B6he), [§3 Abs. 2 WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__3.html)
 [^6]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
@@ -141,11 +158,11 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^12]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=die%20gesamte%20Wohnungsvermittlung.-,hohe%20abstandszahlungen,--%C2%A0Der%20eine%20oder), [HousingAnywhere](https://housinganywhere.com/de/Deutschland/abloesevereinbarung#:~:text=nicht%20mehr%20als%2050%20prozent) (2024), [Haus.de](https://www.haus.de/geld-recht/abloesevereinbarung-36182#:~:text=nicht%20mehr%20als%20das%20eineinhalbfache%20des%20zeitwerts) (2023)
 [^13]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
 [^14]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
-[^15]: Citation needed
-[^16]: Citation needed
+[^15]: [Reddit](https://old.reddit.com/r/germany/comments/s0ao9x/which_advice_should_we_give_to_immigrants_who/), [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/k2lbrc6/), [Europäisches Verbraucherzentrum](https://www.evz.de/einkaufen-internet/vorsicht-falle/mietbetrug.html#:~:text=mieten%20erst%20einmal%20fur%20sich%20eine%20ferienwohnung%20an)
+[^16]: [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=uberweisung%20ins%20ausland)
 [^17]: [Verivox](https://www.verivox.de/baufinanzierung/themen/maklerprovision/#:~:text=wann%20mieter%20keine%20provision%20zahlen%20mussen)
 [^18]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#7-Wann-hat-der-Makler-keinen-Anspruch-auf-Provision), [anwaltssuche.de](https://www.anwaltssuche.de/aws/maklerprovision_wann_gibt_s_geld_zurueck_3297.artikel#:~:text=fallt%20die%20provision%20weg%2C%20wenn%20der%20makler%20selbst%20eigentumer%20ist%3F%20), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
-[^19]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#7-Wann-hat-der-Makler-keinen-Anspruch-auf-Provision)
+[^19]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#7-Wann-hat-der-Makler-keinen-Anspruch-auf-Provision), [taz.de](https://taz.de/Erfolg-gegen-Vermieter/!5816947/)
 [^20]: [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=servicegebuhren%20-%20bisweilen%20bieten%20makler)
 [^21]: [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=besichtigungsgebuhren)
 [^22]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/magazin/online/mm0420/vermieter-umgehen-mietpreisbremse-mit-immer-neuen-tricks-teilgewerbliche-nutzung-hebelt-die-vorschrift-aus-042008a.htm)
@@ -154,3 +171,5 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^25]: Citation needed
 [^26]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460#:~:text=anzeichen%20einer%20betrugerischen%20immobilienanzeige)
 [^27]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
+[^28]: [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/k2lbrc6/) (2023)
+[^29]: [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/kaf3we2/)
