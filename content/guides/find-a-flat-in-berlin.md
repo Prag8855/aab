@@ -13,18 +13,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent.[^23] It can be hard on your mental health.[^2]
-
-It's harder if...
-
-- You are not in Berlin
-- You don't speak German
-- You are unemployed or in your [probation period](/glossary/Probezeit)
-- You are self-employed
-- Your income is too low
-- You have no [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship
-- You have a foreign name[^9]
-- You have a dog
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent.[^23] It can be hard on your mental health.[^2]
 
 **[What landlords want ↓](#what-landlords-want)**
 
@@ -453,6 +442,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
 [^25]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
+[^23]: [Reddit (Munich)](https://old.reddit.com/r/Munich/comments/pt4zz2/hell_hath_no_fury_like_the_housing_situation_in/hdtzb04/)
 [^30]: [Nerea Lopez](https://www.linkedin.com/feed/update/urn:li:activity:7165883275020869632?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7165883275020869632%2C7165963762615730176%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287165963762615730176%2Curn%3Ali%3Aactivity%3A7165883275020869632%29) (February 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
 [^32]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/)
