@@ -204,16 +204,16 @@ After you find apartments you like, contact the landlord now. Here are ways to i
 - **Speak or write in German**  
     You get more responses if you write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to write your message.
 - **Call and write**  
-    Some landlords only answer phone calls. Others only answer emails. Call as soon as you can, then send a message.
+    Some landlords only answer phone calls. Others only answer emails. Try both.
 - **Introduce yourself**  
-    Include all the important details about you: your name, age, job, salary, when you want to move in, who will live with you, what documents you have,[^30] and a personal introduction. A cover letter and a photo can help.[^31] Use [example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application) to write your message. [Lingoking](/out/lingoking-letters) can translate your message and cover letter to German.
+    In your message, include all important details: name, age, job, salary, when you want to move in, who will live with you, what documents you have, and a personal introduction.[^30] A cover letter and a photo helps.[^31] Use [example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application) to write your message.
 - **Send many applications**  
-    You must send dozens of applications to find an apartment. Some people send hundreds of applications before they find an apartment.
+    Some people send hundreds of applications before they find an apartment.
 - **Be prepared**  
     Landlords get hundreds of messages and dozens of applications *per hour*.[^22] Make their life as easy as possible. Fill the application form in advance, and bring all the [required documents](#required-documents) with you.
 - **Be flexible**  
     There are really nice apartments outside of Kreuzberg, Prenzlauer Berg, Friedrichshain or Neukölln. Search in all of Berlin, including outside the *[[Ringbahn]]*. Berlin has good public transportation; you don't need to live in the center.
-- **Be first**  
+- **Be fast**  
     If you find an apartment you like, act fast. Contact the landlord now.[^32] They get hundreds of message a day, so you can't wait. If you get ImmobilienScout24 Premium, you see the ads before others, and your messages go to the top of the list.[^33]
 
 ### What landlords want
