@@ -25,9 +25,7 @@ The landlord invites you to see the apartment. The apartment does not belong to 
 
 The scammer creates fake apartment listings. When you apply for the apartment, you must send many documents, like a passport and a bank account statement. They use those documents you send to steal your identity.[^6]
 
-## Scams by landlords
-
-Fixed-term leases are only valid in some situations.[^0] The lease must specify *why* it's fixed term, or the clause is invalid, and you can stay for as long as you want. This also applies to sublets, but not to student residences and vacation apartments. This is not always a scam; many landlords just don't know the law.
+## Scams by landlords and tenants
 
 ### Furnished apartments
 
@@ -37,7 +35,7 @@ Rents are limited by the *[[Mietpreisbremse]]*, but that does not apply to furni
 
 Usually, German leases are unlimited (*unbefristet*). You can live there as long as you want.
 
-Fixed-term leases are often illegal.
+Fixed-term leases are often illegal. The lease must say *why* it's fixed term, or the clause is invalid, and you can stay for as long as you want.[^25] This also applies to sublets, but not to student residences and vacation apartments. This is not always a scam; many landlords just don't know the law.
 
 ### Freelancers only
 
@@ -45,13 +43,11 @@ The landlord only accepts self-employed people. Part of the apartment is a comme
 
 Commercial spaces are not protected by [rent control laws](/glossary/Mietpreisbremse). The landlord uses this to raise your rent above the limit. This is illegal.[^22]
 
-## Scams by other tenants
-
 ### Bribes
 
-To get the apartment, you must pay a bribe. It's sometimes called an agent fee (*Maklergebühr*), a commission (*[[Provision]]*) or a finder's fee. This is more and more common.[^23]
+To get the apartment, you must pay a bribe. Bribes are more and more common.[^23] They are usually illegal.
 
-The landlord or the previous tenant can't ask for a finder's fee, a bribe or a *[[Provision]]* to get the apartment.[^13] If you paid a bribe to get your apartment, you can get your money back and keep the apartment.[^16]
+The landlord or the previous tenant can't charge a fee to give you the apartment.[^13] If you paid a bribe to get your apartment, you can get your money back and keep the apartment.[^16]
 
 ### Agent fees
 
@@ -73,13 +69,18 @@ If you paid a fee when you should not have, you have 3 years to request the mone
 You should never pay a fee to...
 
 - View an apartment[^21]
+- Apply for an apartment
 - Sign an apartment contract ("service fee")[^20]
 
-### Furniture for sale
+### Buy the furniture to get the flat
 
-To get the apartment, you must buy the furniture or the kitchen from the previous tenant. The price is ridiculously high. If you don't take the furniture, you don't get the apartment.[^1]
+To get the apartment, you must buy overpriced furniture from the previous tenant. If you don't take the furniture, you don't get the apartment.[^1]
 
-Overcharging for furniture is illegal.[^12] If you paid too much for furniture, you can get your money back and keep the apartment.[^14]
+Overcharging for furniture is illegal. You can't pay more than 150% of the items' current value.[^12] For example, the previous tenant can't sell you an old bed and a desk for 2,000€.
+
+The previous tenant does not choose who gets the apartment. Buying their furniture does not guarantee that you will get the apartment. If you already signed the lease, the previous tenant can't force you to buy anything.
+
+If you paid too much, you can get your money back and keep the apartment.[^14] This is not always easy; you might need a lawyer.[^24]
 
 ## How to avoid scams
 
@@ -101,17 +102,21 @@ A scammer could show you any apartment in a video call. Even in person, they can
 
 In Germany, people pay their rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Never send money by Western Union or other payment services.[^8] If you pay with cash, ask for a receipt. Use [Wise](/out/transferwise) to transfer money from another country. You have until the day you [move in](/guides/moving-in) to pay the rent and the deposit, so you can also come to Germany, [open a bank account](/guides/german-banks-no-address), then pay your rent.
 
-### Use common sense
+### Know the signs
 
-If the rent is too low, it's probably a scam.[^9] There are no cheap furnished apartments in the centre. If it's too easy to get the apartment, it's probably a scam.
+Housing scams have a few tell-tale signs:[^26]
 
-### Look at the account age
-
-Scammers often use a new account to publish apartment listings. If the account is only a few days old, be careful.
+- The apartment is too good to be true[^9]
+- It's too easy to get the apartment
+- Landlord in another country
+- Foreign IBAN or unusual payment method
+- False phone number
+- Names don't match[^27]
+- New account
 
 ### Use Google
 
-Search the landlord's name and [[IBAN]] on Google. You can also search for parts of their messages on Google.[^10] If they are a scammer, you might find some warnings online, or identical ads with different photos. If the IBAN does not start with "DE", be careful.
+Search the landlord's name and [[IBAN]] on Google. You can also search for parts of their messages on Google.[^10] See if the contact information is the same as on their website. If they are a scammer, you might find some warnings online, or identical ads with different photos.
 
 ### Use Google Street View
 
@@ -122,9 +127,9 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
-[^1]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht) (2021), [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)
+[^1]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=wer%20sich%20weigert%2C%20wird%20in%20der%20regel%20nicht%20als%20nachmieter%20vorgeschlagen) (2021), [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html), [Reddit](https://old.reddit.com/r/wohnen/comments/18rfw5t/abl%C3%B6se_von_20000_abl%C3%B6se_von_12000_aus_dem_post/)
 [^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#9-Was-sollten-Sie-tun-wenn-Sie-eine-ueberhoehte-oder-unzulaessige-Provision-zahlen-mussten), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)
-[^3]: Citation needed
+[^3]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460)
 [^4]: [§2 Abs. 1a WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=demnach%20zahlt%20derjenige%20den%20makler%2C%20der%20ihn%20beauftragt%20hat), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#2-Wie-funktioniert-das-Bestellerprinzip), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/)
 [^5]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#4-Die-zulaessige-Maklergebuehr), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/#H%C3%B6he), [§3 Abs. 2 WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__3.html)
 [^6]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
@@ -133,7 +138,7 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^9]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
 [^10]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/comment/dulpxmj/?utm_source=reddit&utm_medium=web2x&context=3)
 [^11]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/)
-[^12]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=die%20gesamte%20Wohnungsvermittlung.-,hohe%20abstandszahlungen,--%C2%A0Der%20eine%20oder)
+[^12]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=die%20gesamte%20Wohnungsvermittlung.-,hohe%20abstandszahlungen,--%C2%A0Der%20eine%20oder), [HousingAnywhere](https://housinganywhere.com/de/Deutschland/abloesevereinbarung#:~:text=nicht%20mehr%20als%2050%20prozent) (2024), [Haus.de](https://www.haus.de/geld-recht/abloesevereinbarung-36182#:~:text=nicht%20mehr%20als%20das%20eineinhalbfache%20des%20zeitwerts) (2023)
 [^13]: [§2 Abs. 2 WoVermittG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung)
 [^14]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
 [^15]: Citation needed
@@ -145,3 +150,7 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^21]: [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=besichtigungsgebuhren)
 [^22]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/magazin/online/mm0420/vermieter-umgehen-mietpreisbremse-mit-immer-neuen-tricks-teilgewerbliche-nutzung-hebelt-die-vorschrift-aus-042008a.htm)
 [^23]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=1000%20euro%20bakschisch) (2023)
+[^24]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=ein%20rechtsstreit%20ist%20allerdings%20immer%20mit%20unsicherheit%20und%20kosten%20verbunden) (2021)
+[^25]: Citation needed
+[^26]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460#:~:text=anzeichen%20einer%20betrugerischen%20immobilienanzeige)
+[^27]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
