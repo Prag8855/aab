@@ -218,22 +218,22 @@ After you find apartments you like, contact the landlord now. Here are ways to i
 
 ### What landlords want
 
-Landlords prefer quiet, long-term tenants who pay their rent on time. They want to avoid problems.
+**Stability.** Landlords prefer quiet, long-term tenants who pay their rent on time. They want to avoid problems.
 
 Landlords want tenants with...
 
 - **A good income**  
-    Your rent should be less than 30-40% of your monthly [[Netto income]].[^34] Some landlords want this, some landlords don't care. Two incomes are better than one. It's better if you're not in your [probation period](/glossary/Probezeit). If you have a good salary, say it in your introduction message. Your income can also be too high.[^48]
+    Your rent should be between 20% and 40% of your monthly [[Netto income]].[^34] If your income is too low or too high, you might not get the apartment. Two incomes are better than one. If you have a good salary, say it in your introduction message. Your income can be too high.[^48] {# How high is too high? #}
 - **A stable job**  
-    Landlords prefer tenants with a stable job. It's harder to find an apartment if you are self-employed, or if you are on your [probation period](/glossary/Probezeit). If you have a good job, include it in your introduction messages.
-- **A stable residence permit**  
-    It's easier to find an apartment if you have a EU citizenship, or a stable [residence permit](/glossary/Aufenthaltstitel). It's very hard to find an apartment if you are in another country. If you are not yet in Germany, try finding a [short-term furnished apartment](#short-term-and-furnished-apartments).
+    It's harder to find an apartment if you are self-employed, or if you are on your [probation period](/glossary/Probezeit). If you have a good job, mention it in your introduction message.
+- **A stable right of residence**  
+    You should have a [residence permit](/glossary/Aufenthaltstitel), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship. If you don't have that, get a [short-term furnished apartment](#short-term-and-furnished-apartments).
 - **German speakers**  
-    If you speak German, it's easier to find an apartment. It's less work for the landlord. It's another good reason to [learn German](/guides/learn-german).
+    If you speak German, it's less work for the landlord.
 - **No dogs, no pets**  
-    Landlords prefer people without pets. It's harder to find an apartment when you have a dog. Only 20% of apartments explicitly allow pets. Some websites let you filter for apartments that allow pets.
-- **No foreign names**  
-    People with foreign names get rejected more often.[^9] If you apply as a couple, let the person with the most German name apply for the apartment. You will get more responses.[^36]
+    It's much harder to find an apartment that allows dogs. Some websites let you filter for apartments that allow pets.
+- **No foreigners**  
+    People with foreign names get fewer responses and more rejections.[^9] Landlords prefer long-term residents. Recent immigrants are not stable tenants. Some landlord *prefer* foreigners because they pay more and don't know their rights.[^25]
 
 ## Step 4: Visit the apartment
 
@@ -248,10 +248,6 @@ You can usually apply for the apartment during your visit.
 To get the apartment, **come prepared**. Bring a copy of all your documents with you. If you like the apartment, you can apply during the visit.
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
-
-You might have to send personal documents to people you don't know. Some scammers pretend to be landlords. They create fake listings to get your documents and steal your identity.[^25]
-
-Only send documents after you see the apartment. Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again.
 
 Bring these documents with you:[^19]
 
@@ -272,6 +268,8 @@ Bring these documents with you:[^19]
 - [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form and fill it in advance. If you like the apartment you visit, you can apply immediately. You can usually find the application form on their website.
 - [ ] **Copies of everything**
+
+You must send your personal documents to people you don't know. Identity theft is a big risk.[^24] To protect yourself, [censor your documents](/guides/housing-scams#censor-your-documents).
 
 ### What to look for?
 
@@ -462,3 +460,4 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/makler-packt-aus-funf-experten-tipps-um-an-eine-wohnung-in-berlin-zu-kommen-11204872.html) (February 2024)
 [^23]: [Reddit (Munich)](https://old.reddit.com/r/Munich/comments/pt4zz2/hell_hath_no_fury_like_the_housing_situation_in/hdtzb04/)
+[^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
