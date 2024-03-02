@@ -161,7 +161,7 @@ People don't hire agents to find an apartment. They are mostly useless.[^10] The
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Always choose an apartment that lets you do your *Anmeldung*. [It's very important.](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
 - [ ] **Is the lease unlimited?**  
-    A limited lease means that you might have to move again in a few months. Most limited leases are illegal.
+    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Many fixed-term leases are illegal](/guides/housing-scams#short-term-lease).
 - [ ] **What is included?**  
     Apartments often come without appliances, curtains, and light fixtures. When an apartment is *mit [[Einbauküche]]*, it includes a stove, fridge and sometimes a dishwasher. You must buy your own washing machine. [[WG]]s and furnished apartments usually include everything you need.
 - [ ] **How is the housing company?**  
