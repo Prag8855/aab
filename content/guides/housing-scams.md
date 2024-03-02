@@ -49,7 +49,7 @@ The landlord or the previous tenant can't ask for a finder's fee, a bribe or a *
 
 ### Agent fees
 
-If you hire an agent (*[[Makler]]*) to help you find an apartment, they can charge a fee (*[[Provision]]*). The maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer).
+If you hire an agent (*[[Makler]]*) to help you find an apartment, they can charge a fee (*[[Provision]]*). The maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer).[^5]
 
 You must never pay an agent fee if...
 
@@ -107,9 +107,10 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
 [^1]: Citation needed, [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html)
-[^2]: [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)
+[^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#:~:text=der%20mieter%20kann%20seine%20zahlung%20zuruckfordern%2C%20sein%20anspruch%20verjahrt%20erst%20nach%20drei%20jahren), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)
 [^3]: Citation needed
 [^4]: [§2 Abs. 1a WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=demnach%20zahlt%20derjenige%20den%20makler%2C%20der%20ihn%20beauftragt%20hat), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#2-Wie-funktioniert-das-Bestellerprinzip), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/)
+[^5]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#4-Die-zulaessige-Maklergebuehr), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/#H%C3%B6he), [§3 Abs. 2 WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__3.html)
 [^6]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
 [^7]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
 [^8]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
