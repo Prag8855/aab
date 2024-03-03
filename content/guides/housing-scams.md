@@ -25,7 +25,7 @@ This scam is harder to notice. Talk to the neighbours to verify that the scammer
 
 ### Identity theft
 
-The scammer creates fake apartment listings. When you apply for the apartment, you must send many documents, like a passport and a bank account statement. They use those documents you send to steal your identity.[^6]
+The scammer creates fake apartment listings. When you apply for the apartment, you must send many personal documents. They use your documents to steal your identity.[^6]
 
 ## Scams by landlords and tenants
 
