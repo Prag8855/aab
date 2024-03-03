@@ -62,6 +62,8 @@ You can get help from these communities and services.
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), you can get their advice for free. If not, a lawyer costs around 200€ per hour.
     - [Conny](/out/conny-mietpreisbremse)  
         A legal service that helps people lower their rent. They speak English.
+- **[Tenant counsel](https://dielinke.berlin/beratung) by Die Linke**  
+    The political party *Die Linke* offers free legal advice for tenants (*Mieterberatung*) and help clinics (*Mietensprechstunde*). The sessions are in different neighbourhoods.
 
 **If you get housing benefits**, contact [your local *Sozialamt*](https://service.berlin.de/sozialaemter/). They can help with apartment problems.
 
