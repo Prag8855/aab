@@ -31,13 +31,30 @@ The scammer creates fake apartment listings. When you apply for the apartment, y
 
 ### Furnished apartments
 
-Rents are limited by the *[[Mietpreisbremse]]*, but that does not apply to furnished apartments. Landlords pretend that the apartment is furnished to charge more rent. [Conny](/out/conny-mietpreisbremse) can help you reduce your rent.
+More and more apartments are furnished.[^36] Landlords can charge much more for furnished apartments, because [rent control](/glossary/Mietpreisbremse) does not apply to them.[^37]
 
-### Short-term lease
+Furnished apartments are a temporary solution to move to Berlin. After you arrive, find an unfurnished apartment as soon as you can.
 
-Usually, German leases are unlimited (*unbefristet*). You can live there as long as you want.
+### Temporary leases
 
-Fixed-term leases are often illegal. The lease must say *why* it's fixed term, or the clause is invalid, and you can stay for as long as you want.[^25] This also applies to sublets, but not to student residences and vacation apartments. This is not always a scam; many landlords just don't know the law.
+Usually, German leases are unlimited (*unbefristet*).[^34] You can live there for as long as you want, and it's hard to kick you out. Some apartments have temporary leases: you must [move out](/guides/moving-out) on a certain date.
+
+**Many temporary leases are illegal**, but there are exceptions...[^30]
+
+- **Temporary sublets**  
+    People can sublet their room or apartment to you while they are on vacation.
+- **Room in the landlord's house**  
+    You live in the same house as the landlord, and your room is furnished by them.[^32]
+- **Planned personal use** (*Eigenbedarf*)  
+    The landlord needs the apartment for themself or their family. The lease must say exactly why the lease is limited, who will move in and why. If it just says "personal use", it's not valid.[^33] If they don't use the apartment in the end, you might be able to stay longer.[^38]
+- **Planned renovation**  
+    The landlord wants to completely renovate the apartment. The renovations must actually happen.
+
+The lease must say exactly why it's temporary. If there is no valid reason given in your lease, the expiration date is not valid. The lease becomes unlimited.[^31] Before you try this, talk to a lawyer or a *[[Mieterverein]]*. Everyone's situation is different.[^39]
+
+**[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
+
+**This does not apply to hotel rooms and holiday homes.** They can have a short-term lease.[^25] In Berlin, many "holiday homes" are not registered. Their temporary lease might still be illegal.[^40] Ask a lawyer or a *[[Mieterverein]]*.
 
 ### Freelancers only
 
@@ -63,8 +80,6 @@ You must never pay an agent fee if...
 - or you renew an existing lease[^19]
 
 If you paid a fee when you should not have, you have 3 years to request the money back.[^2]
-
-{# TODO: What about booking fees? #}
 
 ### Service fees
 
@@ -168,8 +183,18 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^22]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/magazin/online/mm0420/vermieter-umgehen-mietpreisbremse-mit-immer-neuen-tricks-teilgewerbliche-nutzung-hebelt-die-vorschrift-aus-042008a.htm)
 [^23]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=1000%20euro%20bakschisch) (2023)
 [^24]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=ein%20rechtsstreit%20ist%20allerdings%20immer%20mit%20unsicherheit%20und%20kosten%20verbunden) (2021)
-[^25]: Citation needed
+[^25]: [promietrecht.de](https://www.promietrecht.de/Wohnraummiete/Wohnraum-mit-verringertem-Kuendigungsschutz/zum-voruebergehenden-Gebrauch/Wohnung-zu-voruebergehendem-Gebrauch-zeitweise-mieten-E2183.htm#1), [§549 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__549.html)
 [^26]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460#:~:text=anzeichen%20einer%20betrugerischen%20immobilienanzeige)
 [^27]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^28]: [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/k2lbrc6/) (2023)
 [^29]: [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/kaf3we2/)
+[^30]: [§575 BGB](https://www.gesetze-im-internet.de/bgb/__575.html), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-18-zeitmietvertrag-das-mietverhaeltnis-auf-bestimmte-zeit.htm)
+[^31]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=bei%20unzulassiger%20befristung%20gilt%20der%20vertrag%20als%20unbefristet.), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-18-zeitmietvertrag-das-mietverhaeltnis-auf-bestimmte-zeit.htm#:~:text=1.9%20unwirksamer%20zeitmietvertrag)
+[^32]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=zum%20beispiel%20wenn%20die%20hauptmieterin%20oder%20der%20hauptmieter%20eine%20zeit%20im%20ausland) (2023), [§575 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__575.html)
+[^33]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=the%20reason%20must%20be%20mentioned%20in%20the%20lease%20concrete) (2018), [raschlosser.com](https://www.raschlosser.com/zivilrecht/mietrecht_weg-zivilrecht/unwirksame-befristung-eines-mietvertrages-kann-auch-zu-lasten-des-mieters-ausgehen/) (2022), [kostenlose-urteile.de](https://www.kostenlose-urteile.de/LG-Frankenthal-Pfalz_2-S-8621_Miete-von-Wohnraum-Vertrag-auf-Zeit-nur-in-engen-Grenzen-moeglich.news31468.htm)
+[^34]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-5-alles-wichtige-rund-um-den-mietvertrag-darauf-sollten-sie-bei-mietvertragsabschluss-achten-mit-checkliste.htm#:~:text=wird%20beim%20vertragsschluss%20nicht%20ausdrucklich%20ein%20endzeitpunkt)
+[^35]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=the%20reason%20must%20be%20mentioned%20in%20the%20lease%20concrete) (2018)
+[^36]: [Stern.de](https://www.stern.de/wirtschaft/immobilien/moebliertes-wohnen--so-krass-wird-die-miet-masche-in-berlin-und-anderen-staedten-ausgenutzt-33249092.html) (2023)
+[^38]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/kein-mieterschutz/#:~:text=auskunftsrecht%20und%20verlangerungsanspruch%20der%20mieter%2Finnen)
+[^39]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/kein-mieterschutz/#:~:text=mieter%2Finnen%20mit%20einem%20zeitmietvertrag%20sollten%20sich%20rechtzeitig%20beraten%20lassen)
+[^40]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=renting%20out%20an%20apartment%20for%20temporary%20use) (2018)
