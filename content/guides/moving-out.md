@@ -13,7 +13,9 @@ This guide shows you what you must do when you move out of your apartment in Ger
 
 ### When to end your lease
 
-You must end your lease **3 months in advance**, before the 3rd [work day](/glossary/Werktag) of the month.[^0] Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but the maximum is 3 month.[^29] The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30]
+You must end your lease **3 months in advance**, before the 3rd [work day](/glossary/Werktag) of the month.[^0] Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but the maximum is 3 month.[^29] Fixed-term leases can't be cancelled early.[^45]
+
+The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30]
 
 > **Example 1:** You tell your landlord on January 1. Your lease ends on March 31.[^1]
 
@@ -205,7 +207,7 @@ If your landlord tries to scam you, get help from your [tenants' association](/g
 
 ## Get a Mietschuldenfreiheitsbescheinigung
 
-Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#what-to-bring-to-the-visit).
+Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#step-5-apply-for-the-apartment).
 
 If you live in a [[WG]], you can also get a letter from your roommates to confirm that you always paid your rent on time.[^42]
 
@@ -288,3 +290,4 @@ After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [
 [^42]: [reddit.com](https://old.reddit.com/r/berlin/comments/b0o9zr/need_some_information_about/)
 [^43]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/auszug-aus-der-wohnung-was-sollte-im-uebergabeprotokoll-stehen-1.1735527#:~:text=ich%20wurde%20immer%20ein%20ubergabeprotokoll%20empfehlen)
 [^44]: [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=ein%20vermieter%20kann%20nach%20der%20unterzeichnung%20keine%20(weiteren)%20mangel)
+[^45]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=du%20kannst%20nicht%20kundigen)

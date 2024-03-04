@@ -17,11 +17,13 @@ After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment
 
 ### Sign the lease
 
-Don't sign the lease before you see the apartment in person. If you can't see the apartment in person, ask for a video call instead. There are many fake apartment ads online. Scammers show you a fake apartment, ask for a deposit, and disappear with your money.
+Visit the apartment before you sign the lease. There are many fake apartment listings online. Scammers can also show you someone else's apartment. They want to steal your deposit and disappear.
+
+**[How to avoid scams ➞](/guides/housing-scams)**
 
 **Don't pay anything before you sign a lease.** Read your lease carefully. It can have information about rent increases, house rules, pets, and other important things.
 
-**[Guide to rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
+**[Rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
 
 A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
 

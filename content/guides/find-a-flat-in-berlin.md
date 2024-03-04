@@ -150,7 +150,7 @@ People don't hire agents to find an apartment. They are mostly useless.[^10] The
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Always choose an apartment that lets you do your *Anmeldung*. [It's very important.](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
 - [ ] **Is the lease unlimited?**  
-    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Many fixed-term leases are illegal](/guides/housing-scams#short-term-lease).
+    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Many fixed-term leases are illegal](/guides/housing-scams#temporary-leases).
 - [ ] **What is included?**  
     Apartments often come without appliances, curtains, and light fixtures. When an apartment is *mit [[Einbauküche]]*, it includes a stove, fridge and sometimes a dishwasher. You must buy your own washing machine. [[WG]]s and furnished apartments usually include everything you need.
 - [ ] **How is the housing company?**  
@@ -290,11 +290,15 @@ You must send your personal documents to people you don't know. Identity theft i
 
 ### Visiting a flat share
 
-If you visit a *[[WG]]*, the process is different. It's not a visit, but an interview. You meet your future roommates, and they decide if they like you.[^41] These interviews can be very informal: you might meet to have a drink or even play board games together. This takes a lot of your time.
+*[[WG]]* visits are more like an interview. You meet your future roommates, and they decide if they like you.[^41] Some interviews are very informal: you might meet to have a drink or even play board games together.
 
 The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to save money. They don't care so much about being your friend.
 
-## Step 5: Sign the lease and move in
+## Step 5: Apply for the apartment
+
+{# TODO #}
+
+## Step 6: Sign the lease and move in
 
 You will sign a lease, pay the deposit, get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
 
@@ -336,7 +340,9 @@ The *Nebenkosten* are not a fixed cost, because you don't know how much water an
 
 ### Nothing is included
 
-Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany. [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything else.
+Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
+
+[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are expensive.
 
 ### Rent is paid by bank transfer
 

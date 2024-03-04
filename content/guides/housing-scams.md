@@ -5,9 +5,7 @@ Description: Apartment scams you must know about when looking for a place to liv
 Date_created: 2024-02-21
 ---
 
-In Germany, it's really hard to [find a place to live](/guides/find-a-flat-in-berlin). People are desperate to find an apartment, and scammers take advantage of that.
-
-This guide explains common apartment scams, and how to avoid them.
+This guide describes common apartment scams in Germany, and how to avoid them.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -15,31 +13,37 @@ This guide explains common apartment scams, and how to avoid them.
 
 ### Landlord in another country
 
-The landlord says that they are in another country. They say that if you pay the [deposit](/glossary/Kaution), they will send you the keys. The apartment does not exist. They will steal your money and disappear.[^3]
+The landlord says that they are in another country. To see the apartment, you must pay a deposit, and they will send you the key. The apartment does not exist. They will steal your money and disappear.[^3]
 
 ### Fake apartment visits
 
-The landlord invites you to see the apartment. The apartment does not belong to them. They only rented the place to show it to you. They will steal your deposit and disappear.[^15]
+Scammers rent someone's apartment while they are on vacation. You visit the apartment, sign a lease, pay a deposit and pay the rent. When it's time to [move in](/guides/moving-in), someone already lives there. The real tenant is back from their vacation. You can't move in. The scammers stole your money.[^15]
 
-This scam is harder to notice. Talk to the neighbours to verify that the scammer really lives there. Check if their name matches the name on the mailbox.
+This scam is hard to avoid. You must verify who really lives there:
+
+- Ask the neighbours.
+- Check the person's ID document.
+- Check if the person's name is on the doorbell.
 
 ### Identity theft
 
-The scammer creates fake apartment listings. When you apply for the apartment, you must send many personal documents. They use your documents to steal your identity.[^6]
+Scammers create fake apartment listings. To [apply for the apartment](/guides/find-a-flat-in-berlin#step-5-apply-for-the-apartment), you must send personal documents. They use your documents to [steal your identity](https://en.wikipedia.org/wiki/Identity_theft).[^6]
 
 ## Scams by landlords and tenants
 
 ### Furnished apartments
 
-More and more apartments are furnished.[^36] Landlords can charge much more for furnished apartments, because [rent control](/glossary/Mietpreisbremse) does not apply to them.[^37]
+More and more apartments are furnished, because landlords can charge more for them.[^36] [Rent control](/glossary/Mietpreisbremse) also applies to furnished apartments, but it's really hard to enforce.
 
-Furnished apartments are a temporary solution to move to Berlin. After you arrive, find an unfurnished apartment as soon as you can.
+Sometimes, you don't have a choice. Temporary furnished apartments are often your only option when you [move to Berlin](/guides/moving-to-berlin).
 
 ### Temporary leases
 
-Usually, German leases are unlimited (*unbefristet*).[^34] You can live there for as long as you want, and it's hard to kick you out. Some apartments have temporary leases: you must [move out](/guides/moving-out) on a certain date.
+Usually, German leases don't have an end date. They are unlimited (*unbefristet*).[^34]
 
-**Many temporary leases are illegal**, but there are exceptions...[^30]
+Some apartments have temporary leases. On a certain date, the lease expires and you must [move out](/guides/moving-out). Landlords prefer temporary leases, because [rent control laws](/glossary/Mietpreisbremse) don't apply to them, and you can't move out early.[^37]
+
+**Temporary leases are often illegal**, but there are exceptions...[^30]
 
 - **Temporary sublets**  
     People can sublet their room or apartment to you while they are on vacation.
@@ -50,7 +54,9 @@ Usually, German leases are unlimited (*unbefristet*).[^34] You can live there fo
 - **Planned renovation**  
     The landlord wants to completely renovate the apartment. The renovations must actually happen.
 
-The lease must say exactly why it's temporary. If there is no valid reason given in your lease, the expiration date is not valid. The lease becomes unlimited.[^31] Before you try this, talk to a lawyer or a *[[Mieterverein]]*. Everyone's situation is different.[^39]
+The lease must say exactly why it's temporary.[^35] If there is no valid reason on your lease, the expiration date is not valid. The lease becomes unlimited.[^31]
+
+Talk to a lawyer or a *[[Mieterverein]]* before you try this.[^39] Do it 4 months before your lease expires.[^41]
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
 
@@ -108,7 +114,7 @@ Signs that it's a scam:[^26]
 - [ ] **Is it too good to be true?**  
     If it's too easy to get the apartment, or if the price is too low, be careful.[^9]
 - [ ] **Is the apartment real?**  
-    Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the apartment photos come from somewhere else. Check if the text was copied from another listing. Check if the apartment has the same windows in the listing and on Google Street View.
+    If you can't visit the apartment, it's probably a scam. Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the apartment photos come from somewhere else. Check if the text was copied from another listing. Check if the apartment has the same windows in the listing and on Google Street View.
 - [ ] **Is the landlord real?**  
     Google the name of the landlord or *[[Hausverwaltung]]*. Some scammers make also make fake websites.
 - [ ] **How old is the account?**  
@@ -142,6 +148,12 @@ A scammer could show you any apartment in a video call. Even in person, they can
 
 In Germany, people pay their rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Never send money by Western Union or other payment services.[^8] If you pay with cash, ask for a receipt. Use [Wise](/out/transferwise) to transfer money from another country. You have until the day you [move in](/guides/moving-in) to pay the rent and the deposit, so you can also come to Germany, [open a bank account](/guides/german-banks-no-address), then pay your rent.
 
+### Pay later
+
+Wait before you send money.[^42] You must pay the rent and the 1/3 of the [deposit](/glossary/Kaution) before you [move in](/guides/moving-in). You never have to pay earlier.
+
+**[How to pay the rent and deposit ➞](/guides/moving-in#pay-the-rent)**
+
 ### Use Google
 
 Search the landlord's name and [[IBAN]] on Google. You can also search for parts of their messages on Google.[^10] See if the contact information is the same as on their website. If they are a scammer, you might find some warnings online, or identical ads with different photos.
@@ -158,7 +170,6 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2316), [expaturm.com](https://web.archive.org/web/20221203234518/https://www.expaturm.com/fixed-term-rental-contract/)
 [^1]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=wer%20sich%20weigert%2C%20wird%20in%20der%20regel%20nicht%20als%20nachmieter%20vorgeschlagen) (2021), [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html), [Reddit](https://old.reddit.com/r/wohnen/comments/18rfw5t/abl%C3%B6se_von_20000_abl%C3%B6se_von_12000_aus_dem_post/)
 [^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#9-Was-sollten-Sie-tun-wenn-Sie-eine-ueberhoehte-oder-unzulaessige-Provision-zahlen-mussten), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)
 [^3]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460), [Europäisches Verbraucherzentrum](https://www.evz.de/einkaufen-internet/vorsicht-falle/mietbetrug.html#:~:text=sich%20im%20ausland%20aufzuhalten), [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=dass%20er%20im%20ausland%20ist)
@@ -195,6 +206,9 @@ Scammers often use photos of a different apartment. Use [reverse image search](h
 [^34]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-5-alles-wichtige-rund-um-den-mietvertrag-darauf-sollten-sie-bei-mietvertragsabschluss-achten-mit-checkliste.htm#:~:text=wird%20beim%20vertragsschluss%20nicht%20ausdrucklich%20ein%20endzeitpunkt)
 [^35]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=the%20reason%20must%20be%20mentioned%20in%20the%20lease%20concrete) (2018)
 [^36]: [Stern.de](https://www.stern.de/wirtschaft/immobilien/moebliertes-wohnen--so-krass-wird-die-miet-masche-in-berlin-und-anderen-staedten-ausgenutzt-33249092.html) (2023)
+[^37]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=du%20kannst%20nicht%20kundigen)
 [^38]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/kein-mieterschutz/#:~:text=auskunftsrecht%20und%20verlangerungsanspruch%20der%20mieter%2Finnen)
 [^39]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/kein-mieterschutz/#:~:text=mieter%2Finnen%20mit%20einem%20zeitmietvertrag%20sollten%20sich%20rechtzeitig%20beraten%20lassen)
 [^40]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=renting%20out%20an%20apartment%20for%20temporary%20use) (2018)
+[^41]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-5-alles-wichtige-rund-um-den-mietvertrag-darauf-sollten-sie-bei-mietvertragsabschluss-achten-mit-checkliste.htm#:~:text=lassen%20sie%20sich%20im%20vierten%20monat%20vor%20ablauf%20der%20mietzeit%20beraten!)
+[^42]: [Test.de](https://www.test.de/Mietkaution-So-locken-Betrueger-Mietinteressierte-in-die-Falle-5549421-5549426/#:~:text=leisten%20sie%20niemals%20voraus%C2%ADzahlungen)
