@@ -233,7 +233,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 ## What to do next
 
-After you [find a new place to live](/guides/find-a-flat-in-berlin), it's time [move into your new apartment](/guides/moving-in).
+**[How to find an apartment ➞](/guides/find-a-flat-in-berlin)**
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 

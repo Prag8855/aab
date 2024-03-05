@@ -115,7 +115,7 @@ If that does not work, get help from your [tenant association](/glossary/Mieterv
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-## What's next?
+## What to do next
 
 **[How to move out of an apartment ➞](/guides/moving-out)**
 

@@ -67,7 +67,7 @@ If you donate your body to art, it will be used in [exhibitions about the human 
 
 **[Information and application documents ➞](https://koerperspende.de/en/bodydonation/#donor)**
 
-## What's next?
+## What to do next
 
 Tell your friends and family to become organ donors. Most people want to donate their organs, but don't carry an organ donor card. Germany has one of the lowest organ donation rates in Europe,[^17] but we can change that.
 
