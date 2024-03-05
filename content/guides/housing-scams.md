@@ -136,9 +136,9 @@ Don't send any money before you see the apartment in person and sign the lease.[
 
 ### Censor your documents
 
-**Watermark your documents.** The documents you send should be unusable by identity thieves. {# TODO: Watermarking tool #}
+**Watermark your documents.** The documents you send should be unusable by identity thieves. - [Watermark a PDF](https://tools.pdf24.org/en/add-watermark)
 
-**Censor your documents.** Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again. {# TODO: Censorship tool #}
+**Censor your documents.** Remove bank account numbers, passport numbers and [tax ID](/glossary/Steueridentifikationsnummer)s from your documents. The safest way to censor a document is to print it, censor it with a pen, and scan it again.
 
 ### See the apartment in person
 
