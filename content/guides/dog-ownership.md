@@ -146,7 +146,7 @@ Use these apps to find a dog sitter:
 
 ## Finding an apartment with a dog
 
-It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows dogs.[^12] It's even harder with big dogs.[^14] Landlords can't ban all dogs, but they just give the apartment to someone else. Most of the time, you need the landlord's permission to have a dog.[^13]
+It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows dogs.[^12] It's even harder with big dogs.[^14] Over 60% of landlords don't want dogs.[^16] Landlords can't ban all dogs, but they just give the apartment to someone else. Most of the time, you need the landlord's permission to have a dog.[^13]
 
 **[How to find an apartment in Berlin ➞](/guides/find-a-flat-in-berlin)**
 
@@ -166,6 +166,7 @@ It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows do
 [^13]: [dogorama.app](https://dogorama.app/de-de/forum/Regionales/Wohnungssuche_mit_Hund-QZ8K9qEeuSSrVVpkYQPp/) (2023), [perpetual.care](https://www.perpetual.care/arriving-in-berlin/#:~:text=cannot%20outright%20ban%20pet%20ownership), [perpetual.care](https://perpetual.care/rental-laws-in-berlin/#:~:text=prior%20written%20permission), [test.de](https://www.test.de/Haustiere-Mietwohnung-5767892-0/#:~:text=manch%20haltungs%C2%ADverbot%20ist%20unwirk%C2%ADsam) (July 2021), [mietrecht.de](https://www.mietrecht.com/hundehaltung-mietwohnung/#:~:text=immer%20das%20einverstandnis%20des%20vermieters)
 [^14]: [dogorama.app](https://dogorama.app/de-de/forum/Regionales/Wohnungssuche_mit_Hund-QZ8K9qEeuSSrVVpkYQPp/) (2023)
 [^15]: [berlin.de \(archived\)](http://web.archive.org/web/20210421030058/https://www.berlin.de/special/immobilien-und-wohnen/mietrecht/1154997-739654-hundebellenmussnichtdauerhafthingenommen.html), [berlin.de \(archived\)](https://web.archive.org/web/20210421025306/https://berlin.de/special/immobilien-und-wohnen/mietrecht/1043463-739654-hundekotimgemeinschaftsgartenistk%C3%BCndigu.html)
+[^16]: [immobilienscout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=sie%20durchaus%20Verst%C3%A4ndnis.-,wie%20tierlieb%20sind%20deutschlands%20vermieter%3Ainnen%3F,-Was%20die%20Tierhaltung)
 [^17]: [§19 HundeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016pP19/part/S)
 [^18]: [§14 HundeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016pP14)
 [^19]: [§28 HundeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016V1P28)
