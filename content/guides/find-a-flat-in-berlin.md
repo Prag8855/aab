@@ -359,17 +359,6 @@ You will sign a lease, pay the deposit, get the keys and move in. You must regis
 
 **[How to move in ➞](/guides/moving-in)**
 
-## Step 7: Get insured
-
-There are 3 types of insurance that cover your apartment:
-
-1. **[Liability insurance](/glossary/Haftpflichtversicherung)** (*Haftpflichtversicherung*)  
-    It covers damage to other people's things. For example, if you spill water and destroy the floor, or if you [lose your keys](/guides/lost-keys) and they must replace all the locks in the building. Everyone should have liability insurance. - [More information](/guides/haftpflichtversicherung)
-2. **[Legal insurance](/glossary/Rechtsschutzversicherung)** (*Rechtsschutzversicherung*)  
-    If you have problems with your landlord, it pays for the legal costs. Landlords often take advantage of immigrants. Legal insurance allows you to defend yourself. It's optional, but good to have. - [More information](/guides/legal-insurance)
-3. **[Household insurance](/glossary/Hausratversicherung)** (*Hausratversicherung*)  
-    It covers your things against theft and fires. It can also cover your bicycle. It's useful if you can't afford to replace your things.
-
 ## Important knowledge
 
 ### Deposit
@@ -520,7 +509,6 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^36]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^37]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054504)
 [^38]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
-[^39]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
 [^42]: Nerea Lopez (March 2024)
