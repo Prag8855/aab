@@ -306,6 +306,19 @@ You can usually apply for the apartment during your visit. Bring all the [requir
 
 The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to save money. They don't care so much about being your friend.
 
+### How to behave during the visit
+
+- **Dress well**  
+    A clean appearance makes a good impression. You don't need a suit, just clean clothes, clean shoes, and socks without holes.[^11]
+- **Be on time**  
+    Arrive a little early. If you are late, message the landlord.[^28]
+- **Be pleasant**  
+    Be friendly and polite. Greet the landlord or the agent. Use German if you can.
+- **Don't complain**  
+    If you start finding problems with the apartment, you look like you will be a difficult tenant.
+- **Don't negotiate**  
+    The rent is not negotiable. There are dozens of other candidates. The price will not go down.
+
 ## Step 5: Apply for the apartment
 
 ### Required documents
@@ -335,6 +348,8 @@ Bring these documents with you:[^19]
 - [ ] **Copies of everything**
 
 You must send your personal documents to people you don't know. Identity theft is a big risk. To protect yourself, [censor your documents](/guides/housing-scams#censor-your-documents).
+
+**Combine your documents** into one PDF. Landlords prefer that.[^42] Use a [PDF merging tool](https://www.adobe.com/acrobat/online/merge-pdf.html).
 
 ## Step 6: Sign the lease and move in
 
@@ -477,6 +492,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^8]: [crocodilian.de](https://crocodilian.de/short-term-rental-blog/documents-for-anmeldung/#:~:text=if%20you%20rent%20with%20crocodilian%2C%20you%20always%20get%20the%20wohnungsgeberbestatigung)
 [^9]: [Focus](https://www.focus.de/politik/deutschland/mit-auslaendischem-namen-in-deutschland-eine-wohnung-finden-keine-chance_id_183290691.html) (2023), [Frankfurter Rundschau](https://www.fr.de/wirtschaft/diskriminierung-bei-der-wohnungssuche-wie-eine-immo-plattform-dagegen-vorgeht-92481122.html) (2023), [Süddeutsche Zeitung](https://www.sueddeutsche.de/leben/gesellschaft-auslaendischer-name-ist-bei-der-wohnungssuche-eine-huerde-dpa.urn-newsml-dpa-com-20090101-170622-99-952689) (2017), [Reddit](https://www.reddit.com/r/berlin/comments/hwyc3m/i_have_been_discriminated_for_an_apartment_viewing/), [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/) (2021), [Twitter](https://www.twitterperlen.de/thread-alltagsrassismus-bei-der-wohnungssuche/)
 [^10]: [Reddit](https://old.reddit.com/r/berlin/comments/12hmny9/w%C3%BCrdet_ihr_euren_titel_bei_der_wohnungssuche/) (2023)
+[^11]: Nerea Lopez (March 2024)
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
 [^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/comment/gzdee8d/?utm_source=reddit&utm_medium=web2x&context=3)
 [^14]: [morgenpost.de](http://web.archive.org/web/20220426082551/https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
@@ -493,7 +509,8 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^25]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^26]: [Merkur.de](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=K%C3%B6ln%20%E2%80%93-,20%20minuten,-.%20So%20kurz%20ist), [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd#:~:text=within%20minutes) (2024), [Reddit](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3) (2021), [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
 [^27]: [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
-[^29]: [ImmobilienScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=Dauer%3A%201%3A06h-,personlicher%20eindruck%20und%20einkommen%20sind%20am%20wichtigsten,-Vermieter%3Ainnen%20sind)
+[^28]: Nerea Lopez (March 2024)
+[^29]: [ImmobilienScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=Dauer%3A%201%3A06h-,personlicher%20eindruck%20und%20einkommen%20sind%20am%20wichtigsten,-Vermieter%3Ainnen%20sind), Nerea Lopez (March 2024)
 [^30]: [Nerea Lopez](https://www.linkedin.com/feed/update/urn:li:activity:7165883275020869632?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7165883275020869632%2C7165963762615730176%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287165963762615730176%2Curn%3Ali%3Aactivity%3A7165883275020869632%29) (February 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
 [^32]: [ImmobilienScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#an-wen-wird-am-liebsten-vermietet_lhtjd)
@@ -506,6 +523,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^39]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
+[^42]: Nerea Lopez (March 2024)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
