@@ -7,7 +7,7 @@ Date_created: 2017-09-20
 
 This guide helps you find a place to live after you [move to Berlin](/guides/moving-to-berlin).
 
-![Berlin apartment different architecture](/illustrations/berlin-apartment-different-architecture.png)
+![Berlin apartments with different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -172,24 +172,22 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 - [ ] **Street or courtyard?**  
     Which side is the apartment on? On the street side, you hear traffic more. On the courtyard side, you hear other neighbours more. The courtyard side gets less sun.
 - [ ] **Storage and parking**  
-    Is there a rack for your bicycle? A storage room in the basement (*Kellerraum*)? Is street parking easy to find? Is there a parking space in the basement? How much does it cost?
+    Is there a place for your bicycle? A storage room in the basement (*Kellerraum*)? How much does a parking space cost? Is there street parking?
 
 ### Location checklist
 
-- **Neighbourhood**  
+- [ ] **Neighbourhood**  
     Berlin has a few popular neighbourhoods (*Kiez*): Kreuzberg, Prenzlauer Berg, Friedrichshain, Neukölln, etc. These neighbourhoods are more interesting, but they are busier, louder and more expensive. There is a lot of competition for apartments in those areas. To save money or live in a quiet area, look for apartments outside the *[[Ringbahn]]*.
-- **Public transit connections and commute time**  
-    Berlin has good public transportation. You can live far from the centre if you live close to a train or tram station. Use [Mapnificient](https://www.mapnificent.net/berlin/) to see how far you are from work.
-- **Crime**  
-    Berlin is a safe city, even at night, but some parts are less safe. The areas next to big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas, but people will still leave you alone. You don't need to avoid the entire area, just the busy streets. Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area.
-- **Noise**  
-    Main roads are very noisy because of trams, cars and ambulances.[^15] Ambulances, trams and trains are *very* loud. You can hear even with your windows closed.[^16] Busy areas with lots of bars and restaurants are also loud, even late at night. Google Maps shows the busy areas in orange. If you want a quiet apartment, don't live in those areas. The [noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php) can help. The big red line is from Tegel airport, which closed in 2020.[^17]
-
-![Berlin ambulance noise](/illustrations/berlin-ambulance-noise.png)
-
-- **Parking**  
+- [ ] **Public transit access**  
+    How is the train or tram connection? Use [Mapnificient](https://www.mapnificent.net/berlin/) and Google Maps to see how far you are from work.
+- [ ] **Crime**  
+    Areas next to big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas, but people will still leave you alone. You don't need to avoid the entire area, just the busy streets. Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area.
+- [ ] **Noise**  
+    Main roads are noisy because of trams, cars and ambulances.[^15] Ambulances, trams and trains are *very* loud, even when you close your windows.[^16] Nearby restaurants, bars and [Spätis](/glossary/Späti) can be loud, even at night. - [Noise map of Berlin](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php)
+- [ ] **Parking**  
     [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car). If you want a car, check if there is enough parking space nearby. In central neighbourhoods, parking spaces are harder to find, and you need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have a basement garage. Basement parking costs around 120€ per month. Single garages are harder to find. You can [park your motorcycle on the sidewalk](/guides/motorcycle-parking).
-- **Parks and nature**  
+- [ ] **Supermarkets and Spätis**
+- [ ] **Parks and nature**  
     Berlin is one of the greenest cities in Europe.[^18] There are many parks and green spaces, even in the centre. To be closer to nature, live near [[Brandenburg]] or [Grunewald](https://goo.gl/maps/7bo9CKBKtQ8ysHB46).
 
 [![Berlin busy areas](/images/berlin-busy-areas.png "In Google Maps, orange areas are interesting areas. They have good bars and restaurants, but they are busy and loud.")](/images/berlin-busy-areas.png)
@@ -311,7 +309,7 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 - **Dress well**  
     A clean appearance makes a good impression. You don't need a suit, just clean clothes, clean shoes, and socks without holes.[^11]
 - **Be on time**  
-    Arrive a little early. If you are late, message the landlord.[^28]
+    Arrive a little early. You get more time to meet the landlord. If you are late, message the landlord.[^28]
 - **Be pleasant**  
     Be friendly and polite. Greet the landlord or the agent. Use German if you can.
 - **Don't complain**  
@@ -489,11 +487,10 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^14]: [morgenpost.de](http://web.archive.org/web/20220426082551/https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
 [^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [Berlin noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
-[^17]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_Tegel_Airport#Closure_and_legacy_of_Tegel_Airport)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
-[^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2), [buendnis-neukoelln.de](https://www.buendnis-neukoelln.de/wp-content/uploads/2023/07/Finding-housing-in-Berlin-a-handbook-for-refugees-V1.2.pdf)
+[^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2), [buendnis-neukoelln.de](https://www.buendnis-neukoelln.de/wp-content/uploads/2023/07/Finding-housing-in-Berlin-a-handbook-for-refugees-V1.2.pdf), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/) (2023)
 [^20]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/1aingxq/to_people_who_like_me_are_not_finding_a_flat_to/kpcm2mp/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/4y13g1/observations_on_the_berlin_housing_situation/#:~:text=%20turn%20down%20any%20mass%20viewings), [Prop.ID](https://www.prop.id/immobilien-glossar/massenbesichtigung)
-[^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024)
+[^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/#:~:text=let%20all%20my%20friends%20and%20their%20friends%20know%20that%20i'm%20looking%20for%20an%20apartment.%20) (2023)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/makler-packt-aus-funf-experten-tipps-um-an-eine-wohnung-in-berlin-zu-kommen-11204872.html) (February 2024)
 [^23]: [Reddit (Munich)](https://old.reddit.com/r/Munich/comments/pt4zz2/hell_hath_no_fury_like_the_housing_situation_in/hdtzb04/)
 [^24]: [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd) (2023), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (2023)
