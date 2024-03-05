@@ -157,7 +157,13 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 - [ ] **Is the lease unlimited?**  
     Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Short-term leases are often illegal](/guides/housing-scams#temporary-leases).
 - [ ] **What is included?**  
-    Most apartments come with nothing. No kitchen, appliances, curtains or light fixtures. You must buy and install everything. [[WG]]s usually come with most of those things. Furnished apartments are overpriced. Apartments *mit [[Einbauküche]]* include a stove, a fridge and sometimes a dishwasher.
+    Most apartments come with nothing. [[WG]]s usually come with most of those things. Furnished apartments are common, but overpriced.
+    - **Electricity**  
+        Is hot water included in your warm rent? If there is a central water heater, it's usually included. If you have a personal water heater, it's not included, and your electricity bill will be higher.
+    - **Kitchen**  
+        Is the kitchen (counter, sink, stove, fridge) included? Apartments *mit [[Einbauküche]]* include a kitchen. Sometimes, you must buy the kitchen from the previous tenant at a ridiculous price. [It's a common scam.](/guides/housing-scams#buy-the-furniture-to-get-the-flat)
+    - **Furniture**  
+        Most apartments come with nothing. No furniture, appliances, curtains or light fixtures. You must buy and install everything yourself.
 - [ ] **How is the housing company?**  
     Search the name of your landlord or housing company (*[[Hausverwaltung]]*). Some are really bad.
 - [ ] **Neubau or Altbau?**  
