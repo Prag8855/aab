@@ -145,32 +145,32 @@ To get an apartment, you must be fast. Tools help you find apartments and messag
 
 ## Step 2: Choose apartments to visit
 
+In Berlin, **you can't be picky**, but you can be careful. If you choose the wrong place, it hurts for a long time.
+
 ### Apartment checklist
 
 - [ ] **[Is it a scam?](/guides/housing-scams)**
 - [ ] **Is the price fair?**  
     The [ImmobilienScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are often much more expensive.
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
-    Always choose an apartment that lets you do your *Anmeldung*. [It's very important.](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
+    Always choose an apartment that lets you do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address), especially for recent immigrants.
 - [ ] **Is the lease unlimited?**  
-    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Many fixed-term leases are illegal](/guides/housing-scams#temporary-leases).
+    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Short-term leases are often illegal](/guides/housing-scams#temporary-leases).
 - [ ] **What is included?**  
-    Apartments often come without appliances, curtains, and light fixtures. When an apartment is *mit [[Einbauküche]]*, it includes a stove, fridge and sometimes a dishwasher. You must buy your own washing machine. [[WG]]s and furnished apartments usually include everything you need.
+    Most apartments come with nothing. No kitchen, appliances, curtains or light fixtures. You must buy and install everything. [[WG]]s usually come with most of those things. Furnished apartments are overpriced. Apartments *mit [[Einbauküche]]* include a stove, a fridge and sometimes a dishwasher.
 - [ ] **How is the housing company?**  
-    Search the name of your landlord or housing company (*[[Hausverwaltung]]*). Some have a really bad reputation.
+    Search the name of your landlord or housing company (*[[Hausverwaltung]]*). Some are really bad.
 - [ ] **Neubau or Altbau?**  
-    New buildings (*Neubau*) are often quieter and better insulated. They have concrete walls and floors. You hear your neighbours less. Old buildings (*Altbau*) often have high ceilings, hardwood floors, and a lot more charm.
-- [ ] **Gas or electric?**  
-    Some apartments have gas heating and gas stoves.
+    New buildings (*Neubau*) are often quieter and better insulated. They have concrete walls and floors. You hear your neighbours less. Old buildings (*Altbau*) often look nicer: high ceilings, hardwood floors, and a lot more charm.
 - [ ] **Which floor?**
-    - **Top floor**   
-        These apartments are quieter; you hear less traffic, and there is no neighbour above you. They get more sunlight. They are hotter in the summer,[^12] especially old apartments with bad insulation. Ask if they improved the insulation in the recent years. If you live in the attic (*Dachgeschoß*), the walls are at an angle, so the apartment can feel smaller.
+    - **Top floor**  
+        These apartments are quieter; you hear less traffic, and there is no neighbour above you. They get more sunlight. They are hotter in the summer, especially old apartments with bad insulation.[^12] Ask if they improved the insulation in the recent years. If you live in the attic (*Dachgeschoß*), the walls are at an angle, so the apartment can feel smaller.
     - **Upper floors**  
         These apartments get more sunlight. There is less traffic noise. Check if there is an elevator.
     - **Lower floors, ground floor**  
-        Apartments on the lower floors are darker and louder. They are less safe because of break-ins. Neighbours can often see inside your apartment.[^13] Some ground floor apartments have a garden.
+        Lower floors are darker and louder. Break-ins can happen. Neighbours can see inside your apartment.[^13] Some ground floor apartments have a garden.
 - [ ] **Street or courtyard?**  
-    Does the apartment face the street or the courtyard? On the street side, you hear the traffic more. On the courtyard side, you hear your other neighbours more. The courtyard side gets less sun.
+    Which side is the apartment on? On the street side, you hear traffic more. On the courtyard side, you hear other neighbours more. The courtyard side gets less sun.
 - [ ] **Storage and parking**  
     Is there a rack for your bicycle? A storage room in the basement (*Kellerraum*)? Is street parking easy to find? Is there a parking space in the basement? How much does it cost?
 
