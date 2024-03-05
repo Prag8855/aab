@@ -13,7 +13,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in multiple temporary places before you find something permanent.[^23] It can be hard on your mental health.[^2]
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in many temporary places before you find a home.[^23] It can be hard on your mental health.[^2]
 
 **[What landlords want ↓](#what-landlords-want)**
 
@@ -22,15 +22,15 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 - [ ] **Understand [how things work](#important-knowledge) in Germany**  
-    Housing is a little different in Germany. Learn about those small differences.
+    Things are different in Germany. Learn about those small differences.
 - [ ] **Know [your options](#your-housing-options)**  
-    Should you get an apartment, a furnished apartment, a bedroom in a [[WG]] or student housing? It depends on your situation.
+    Your options depend on your situation. Don't waste time on apartments that you won't get.
 - [ ] **Save money**  
-    You must pay the [deposit](/glossary/Kaution) and the first rent. The deposit is usually 3 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
+    You need enough money for the [deposit](/glossary/Kaution) and the first rent. In total, you need around 4 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
-    Germans pay their rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you can't open a bank account, use [Wise](/out/transferwise) to send money from another country.
+    Germans pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you don't have a EU bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Create accounts on housing websites**  
-    Make complete, detailed profiles on [ImmobilienScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.[^27]
+    Create detailed profiles on [ImmobilienScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.[^27]
 - [ ] **Prepare the [required documents](#required-documents)**  
     To find an apartment, you have to be fast. You must have your documents ready.
 
@@ -128,13 +128,16 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 ### Real estate agents
 
-People don't hire agents to find an apartment. They are mostly useless.[^10] They cost a lot of money, but they don't improve your chances. Many agents only accept clients with a high budget (over 3,000€ per month).
+An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
 
-### Other tricks
+### Bots and automation
 
-- Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and enable notifications for new apartment listings.[^44]
-- Follow [@berlinflatsbot on Telegram](https://t.me/berlinflatsbot)
-- Turn on push notifications for the Facebook housing groups you follow.
+To get an apartment, you must be fast. Tools help you find apartments and message landlords first.
+
+- **Apartment bots**  
+    Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot) and [Flathunters](https://flathunter.codders.io/).
+- **Alerts and notifications**  
+    Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and create alerts for new apartment listings.[^44] Turn on push notifications for the Facebook groups you follow.
 
 ![Facebook group notifications 1](/images/facebook-group-notifications-1.png)
 
