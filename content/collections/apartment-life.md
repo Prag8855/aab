@@ -3,6 +3,7 @@ Title: Apartment life
 Description: Guides for feeling at home in Berlin 
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    guides/housing-scams.md
     guides/schufa.md
     guides/anmeldung-in-english-berlin.md
     guides/moving-in.md
