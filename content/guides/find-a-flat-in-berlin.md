@@ -13,7 +13,7 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of messages.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in a few temporary places before you find a home.[^23] It can affect your mental health.[^2]
+**Yes, it's really hard**. It can take months and hundreds of messages.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in a few temporary places before you find a home.
 
 **[Your housing options ↓](#your-housing-options)**
 
@@ -29,7 +29,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
     Germans pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you don't have a EU bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Create accounts on housing websites**  
-    Create detailed profiles on [ImmobilienScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.[^27]
+    Create detailed profiles on [ImmoScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.[^27]
 - [ ] **Prepare the [required documents](#required-documents)**  
     Speed is important. To apply for an apartment as fast as possible, your documents must be ready.
 
@@ -46,7 +46,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 ### Apartment search websites
 
-- **[ImmobilienScout24](https://www.immobilienscout24.de/)**  
+- **[ImmoScout24](https://www.immobilienscout24.de/)**  
     The biggest housing website. Without a premium account, you have no chance.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
@@ -150,7 +150,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 
 - [ ] **[Is it a scam?](/guides/housing-scams)**
 - [ ] **Is the price fair?**  
-    The [ImmobilienScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are often much more expensive.
+    The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are often much more expensive.
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Always choose an apartment that lets you do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address), especially for recent immigrants.
 - [ ] **Is the lease unlimited?**  
@@ -228,7 +228,7 @@ If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [Cha
 To improve your chances...
 
 - **Be really fast**  
-    Listings only stay online for a few minutes. Landlords get hundreds of messages per hour. Pay for ImmobilienScout24 Premium; it lets you message landlords first.[^33] Push notifications, bots and message templates help.
+    Listings only stay online for a few minutes. Landlords get hundreds of messages per hour. Pay for ImmoScout24 Premium; it lets you message landlords first.[^33] Push notifications, bots and message templates help.
 - **Send a lot of messages**  
     You might need to send hundreds of messages. Searching for an apartment is a full time job.
 - **Be prepared**  
@@ -236,7 +236,7 @@ To improve your chances...
 - **Write and call**  
     Most landlords prefer emails, but some prefer calls.[^35] Try both.
 - **Have a detailed profile**  
-    Create a detailed profile on ImmobilienScout24 and other websites. When you message a landlord, include all the important information.
+    Create a detailed profile on ImmoScout24 and other websites. When you message a landlord, include all the important information.
 - **Don't be picky**  
     You probably won't get a cheap apartment in a good neighbourhood. Be ready to choose a less-than-perfect apartment. If you are a recent immigrant, be ready to accept anything.
 
@@ -481,7 +481,6 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/)
 [^1]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
-[^2]: [Berliner Zeitung](https://www.berliner-zeitung.de/mensch-metropole/berlin-und-die-wohnungsnot-panikattacken-existenzaengste-gehoeren-zum-alltag-li.288273) (2022), Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (February 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^5]: [deutschesmietrecht.de](https://deutschesmietrecht.de/steuern/365-untervermietung-steuern-freigrenzen-steuerhinterziehung.html#:~:text=umsatzsteuer%20bei%20kurzfristiger%20oder%20langfristiger%20vermietung), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/steuerbefreiung-bei-vermietungsleistungen-zu-4-nr12-ustg_idesk_PI20354_HI9097997.html)
@@ -502,19 +501,18 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^20]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/1aingxq/to_people_who_like_me_are_not_finding_a_flat_to/kpcm2mp/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/4y13g1/observations_on_the_berlin_housing_situation/#:~:text=%20turn%20down%20any%20mass%20viewings), [Prop.ID](https://www.prop.id/immobilien-glossar/massenbesichtigung)
 [^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/#:~:text=let%20all%20my%20friends%20and%20their%20friends%20know%20that%20i'm%20looking%20for%20an%20apartment.%20) (2023)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/makler-packt-aus-funf-experten-tipps-um-an-eine-wohnung-in-berlin-zu-kommen-11204872.html) (February 2024)
-[^23]: [Reddit (Munich)](https://old.reddit.com/r/Munich/comments/pt4zz2/hell_hath_no_fury_like_the_housing_situation_in/hdtzb04/)
 [^24]: [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd) (2023), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (2023)
 [^25]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^26]: [Merkur.de](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=K%C3%B6ln%20%E2%80%93-,20%20minuten,-.%20So%20kurz%20ist), [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd#:~:text=within%20minutes) (2024), [Reddit](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3) (2021), [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
 [^27]: [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
 [^28]: Nerea Lopez (March 2024)
-[^29]: [ImmobilienScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=Dauer%3A%201%3A06h-,personlicher%20eindruck%20und%20einkommen%20sind%20am%20wichtigsten,-Vermieter%3Ainnen%20sind), Nerea Lopez (March 2024)
+[^29]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=Dauer%3A%201%3A06h-,personlicher%20eindruck%20und%20einkommen%20sind%20am%20wichtigsten,-Vermieter%3Ainnen%20sind), Nerea Lopez (March 2024)
 [^30]: [Nerea Lopez](https://www.linkedin.com/feed/update/urn:li:activity:7165883275020869632?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7165883275020869632%2C7165963762615730176%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287165963762615730176%2Curn%3Ali%3Aactivity%3A7165883275020869632%29) (February 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
-[^32]: [ImmobilienScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#an-wen-wird-am-liebsten-vermietet_lhtjd)
+[^32]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#an-wen-wird-am-liebsten-vermietet_lhtjd)
 [^33]: [reddit.com/r/Munich](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
 [^34]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/1-drittel-des-nettogehalts-miete-kalt-oder-warm), [immobilien.vr.de](https://immobilien.vr.de/immobilien/immobilie-mieten/wohnung-mieten/wie-viel-miete-kann-ich-mir-leisten.html)
-[^35]: [ImmobilienScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=kurz%20vor%20Vertragsschluss.-,kontaktaufnahme%20am%20liebsten%20per%20mail,-Ziemlich%20einig%20sind)
+[^35]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=kurz%20vor%20Vertragsschluss.-,kontaktaufnahme%20am%20liebsten%20per%20mail,-Ziemlich%20einig%20sind)
 [^36]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^37]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054504)
 [^38]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
