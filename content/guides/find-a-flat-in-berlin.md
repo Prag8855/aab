@@ -13,33 +13,32 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in many temporary places before you find a home.[^23] It can be hard on your mental health.[^2]
+**Yes, it's really hard**. It can take months and hundreds of messages.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in a few temporary places before you find a home.[^23] It can affect your mental health.[^2]
 
-**[What landlords want ↓](#what-landlords-want)**
+**[Your housing options ↓](#your-housing-options)**
 
 ## Before you start
 
 Before you [look for apartments](#step-1-look-for-apartments), you should...
 
-- [ ] **Understand [how things work](#important-knowledge) in Germany**  
-    Things are different in Germany. Learn about those small differences.
-- [ ] **Know [your options](#your-housing-options)**  
-    Your options depend on your situation. Don't waste time on apartments that you won't get.
+- [ ] **Understand [how housing works](#important-knowledge) in Germany**
+- [ ] **Know [your housing options](#your-housing-options)**  
+    Your options depend on your situation and your income. Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
 - [ ] **Save money**  
-    You need enough money for the [deposit](/glossary/Kaution) and the first rent. In total, you need around 4 times the [cold rent](/glossary/Kaltmiete). You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
+    You need around 4 times the [cold rent](/glossary/Kaltmiete). That covers the [deposit](/glossary/Kaution) and the first month's rent. You must also [buy furniture, appliances, and house supplies](/guides/where-to-buy-what#furniture-and-house-supplies).
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
     Germans pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you don't have a EU bank account, use [Wise](/out/transferwise) to send money from another country.
 - [ ] **Create accounts on housing websites**  
     Create detailed profiles on [ImmobilienScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.[^27]
 - [ ] **Prepare the [required documents](#required-documents)**  
-    To find an apartment, you have to be fast. You must have your documents ready.
+    Speed is important. To apply for an apartment as fast as possible, your documents must be ready.
 
 ## Step 1: Look for apartments
 
 ### Ask everyone
 
 - **People you know**  
-    Tell your friends, family, colleagues and classmates that you need a place to live. People often find an apartment like this.[^21]
+    Tell your friends, family, colleagues and classmates that you need a place to live. People often find an apartment this way.[^21]
 - **Your [[Hausverwaltung]]**  
     Landlords prefer people they already know. They might give you priority when they have an apartment for rent.
 - **Your university**  
@@ -48,7 +47,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 ### Apartment search websites
 
 - **[ImmobilienScout24](https://www.immobilienscout24.de/)**  
-    The main housing website. You should pay for the premium account.[^1]
+    The biggest housing website. Without a premium account, you have no chance.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
@@ -85,9 +84,9 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 ### Dorms and student housing
 
-- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** - Affordable student housing
+- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** - Affordable student housing. There are long waiting lists.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments
-- [Smartments](https://www.smartments-student.de/en/) - All-included student housing. Expensive.
+- [Smartments](https://www.smartments-student.de/en/) - All-included student housing. Very expensive.
 
 ### Housing companies
 
@@ -179,6 +178,8 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
     Which side is the apartment on? On the street side, you hear traffic more. On the courtyard side, you hear other neighbours more. The courtyard side gets less sun.
 - [ ] **Storage and parking**  
     Is there a place for your bicycle? A storage room in the basement (*Kellerraum*)? How much does a parking space cost? Is there street parking?
+- [ ] **Do you need a [WBS](/glossary/Wohnberechtigungsschein)?**  
+    Some apartments require a *[[Wohnberechtigungsschein]]*. If you don't have one, you can't live there.
 
 ### Location checklist
 
@@ -258,7 +259,7 @@ Landlords prefer...
 - **A good income**  
     Your rent should be 20% to 40% of your monthly [[Netto income]].[^34] Your income can't be too low or too high.[^48] Two incomes are better than one.
 - **A stable job**  
-    If you are self-employed, it's much harder to find an apartment. If you are unemployed, it's impossible. If you are in your [probation period](/glossary/Probezeit), it's a little harder.[^36]
+    If you are self-employed, it's much harder to find an apartment.[^17] If you are unemployed, it's impossible. If you are in your [probation period](/glossary/Probezeit), it's a little harder.[^36]
 - **A good first impression**  
     Personal impression is very important.[^29] Your personality matters in your messages and during your apartment visit. Be nice and pleasant.
 - **A stable right of residence**  
@@ -462,11 +463,13 @@ Usually, you must meet your roommates for an interview. Most WG interviews are l
 
 ### Student housing
 
-Student dorms are the **cheapest option for students**, but they are hard to get. Student housing has long waiting lists.
+Student dorms are the **cheapest option for students**, but they are hard to get. Student housing has long waiting lists.[^43]
+
+**[How to apply for student housing](https://www.stw.berlin/wohnen/faq-wohnen/wie-bewerbe-ich-mich-um-einen-wohnplatz.html)** (in German) - StudierendenWERK Berlin
+
+**[Look for student housing ➞](#dorms-and-student-housing)**
 
 There is also luxury student housing. It's very expensive, but it comes with everything you need.
-
-**[Look for student housing ↓](#dorms-and-student-housing)**
 
 ### Buying an apartment
 
@@ -493,6 +496,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^14]: [morgenpost.de](http://web.archive.org/web/20220426082551/https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
 [^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [Berlin noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
+[^17]: [Red Tape Translation](https://redtapetranslation.com/whats-a-wbs-and-how-to-get-it/#:~:text=as%20a%20freelance%20artist%2C%20you%20are%20most%20likely%20at%20the%20bottom%20of%20the%20list)
 [^18]: [theculturetrip.com](https://theculturetrip.com/europe/germany/berlin/articles/is-berlin-the-greenest-city-in-the-world/)
 [^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2), [buendnis-neukoelln.de](https://www.buendnis-neukoelln.de/wp-content/uploads/2023/07/Finding-housing-in-Berlin-a-handbook-for-refugees-V1.2.pdf), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/) (2023)
 [^20]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/1aingxq/to_people_who_like_me_are_not_finding_a_flat_to/kpcm2mp/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/4y13g1/observations_on_the_berlin_housing_situation/#:~:text=%20turn%20down%20any%20mass%20viewings), [Prop.ID](https://www.prop.id/immobilien-glossar/massenbesichtigung)
@@ -517,6 +521,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is even harder t
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
 [^42]: Nerea Lopez (March 2024)
+[^43]: [rbb24](https://www.rbb24.de/panorama/beitrag/2023/10/semesterstart-berlin-studierende-ohne-wohnung-universitaet.html) (2023), [Reddit](https://old.reddit.com/r/rwth/comments/15mw8d7/warteliste_studierendenwerk/)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
