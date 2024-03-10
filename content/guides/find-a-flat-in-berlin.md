@@ -42,12 +42,12 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 - **Your [[Hausverwaltung]]**  
     Landlords prefer people they already know. They might give you priority when they have an apartment for rent.
 - **Your university**  
-    Universities have boards with apartment listings, and help clinics for new students.[^7]
+    Universities have boards with apartment listings, and help clinics for new students.[^7] Join the waiting list for [student housing](#student-housing).
 
 ### Apartment search websites
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)**  
-    The biggest housing website. You must pay for a premium account. Without it, you have no chance.[^1]
+    The biggest housing website. You can pay for a premium account to message landlords first. Without the premium account, you have no chance.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
@@ -357,51 +357,6 @@ You will sign a lease, pay the deposit, get the keys and move in. You must regis
 
 **[How to move in ➞](/guides/moving-in)**
 
-## Important knowledge
-
-### Deposit
-
-Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You must pay the first instalment before you [move in](/guides/moving-in).
-
-**[How the deposit works ➞](/guides/mietkaution)**
-
-### Cold rent and warm rent
-
-The warm rent (*[[Warmmiete]]*) is what you pay every month. It's the cold rent (*[[Kaltmiete]]*) plus utilities (*[[Nebenkosten]]*).
-
-The *Nebenkosten* usually include:
-
-- Heating
-- Hot water (most of the time)
-- Trash collection
-- Cleaning and landscaping
-
-The *Nebenkosten* are not a fixed cost, because you don't know how much water and heating you really use. Your landlord adjusts the *Nebenkosten* every year based on your usage. You pay what your landlord pays. Your landlord can't make a profit on *Nebenkosten*.
-
-### Nothing is included
-
-Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
-
-[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are expensive.
-
-### Rent is paid by bank transfer
-
-You usually pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
-
-You need a European bank account to make bank transfers. You can also use [Wise](/out/transferwise) to transfer money from a non-EU country.
-
-### Rooms and floors
-
-Rooms and floors are not counted the same way everywhere.
-
-In Germany, the living room also counts as a room. A studio is a *1 Zimmer Wohnung*. A 2-bedroom apartment with a living room is a *3 Zimmer Wohnung*. The kitchen, the bathroom and the hallway do not count as rooms.
-
-[![Apartment floor plan berlin](/illustrations/apartment-floor-plan-berlin.png)](/illustrations/apartment-floor-plan-berlin.png)
-
-In many countries, the first floor is the ground floor. In Germany, the first floor is above the ground floor.
-
-[![Floors/stories of a German building](/images/building-floors.jpg)](/images/building-floors.jpg)
-
 ## Your housing options
 
 ### Regular apartment
@@ -454,17 +409,62 @@ Usually, you must meet your roommates for an interview. Most WG interviews are l
 
 ### Student housing
 
-Student dorms are the **cheapest option for students**, but they are hard to get. Student housing has long waiting lists.[^43]
+Student dorms are the **cheapest option for students**, but they are hard to get. There are long waiting lists.[^43]
 
 **[How to apply for student housing](https://www.stw.berlin/wohnen/faq-wohnen/wie-bewerbe-ich-mich-um-einen-wohnplatz.html)** (in German) - StudierendenWERK Berlin
 
-**[Look for student housing ➞](#dorms-and-student-housing)**
-
 There is also luxury student housing. It's very expensive, but it comes with everything you need.
+
+**[Look for student housing ➞](#dorms-and-student-housing)**
 
 ### Buying an apartment
 
-If you just moved to Berlin, **don't buy an apartment**. Buying is even harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage.
+If you just moved to Berlin, **don't buy an apartment**. Buying is harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage.
+
+## Important knowledge
+
+### Deposit
+
+Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You must pay the first instalment before you [move in](/guides/moving-in).
+
+**[How the deposit works ➞](/guides/mietkaution)**
+
+### Cold rent and warm rent
+
+The warm rent (*[[Warmmiete]]*) is what you pay every month. It's the cold rent (*[[Kaltmiete]]*) plus utilities (*[[Nebenkosten]]*).
+
+The *Nebenkosten* usually include:
+
+- Heating
+- Hot water (most of the time)
+- Trash collection
+- Cleaning and landscaping
+
+The *Nebenkosten* are not a fixed cost, because you don't know how much water and heating you really use. Your landlord adjusts the *Nebenkosten* every year based on your usage. You pay what your landlord pays. Your landlord can't make a profit on *Nebenkosten*.
+
+### Nothing is included
+
+Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
+
+[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are expensive.
+
+### Rent is paid by bank transfer
+
+You usually pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
+
+You need a European bank account to make bank transfers. You can also use [Wise](/out/transferwise) to transfer money from a non-EU country.
+
+### Rooms and floors
+
+Rooms and floors are not counted the same way everywhere.
+
+In Germany, the living room also counts as a room. A studio is a *1 Zimmer Wohnung*. A 2-bedroom apartment with a living room is a *3 Zimmer Wohnung*. The kitchen, the bathroom and the hallway do not count as rooms.
+
+[![Apartment floor plan berlin](/illustrations/apartment-floor-plan-berlin.png)](/illustrations/apartment-floor-plan-berlin.png)
+
+In many countries, the first floor is the ground floor. In Germany, the first floor is above the ground floor.
+
+[![Floors/stories of a German building](/images/building-floors.jpg)](/images/building-floors.jpg)
 
 ## Where to get help
 
