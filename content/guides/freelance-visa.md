@@ -129,7 +129,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    When you register your address, you get a [registration certificate](/glossary/Anmeldebestätigung) and a [tax ID](/glossary/Steueridentifikationsnummer) (not a [tax number](/glossary/Steuernummer)). You need this to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung). You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services.
+    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^76] - [Why the *Anmeldung* is important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**  
     You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
 
@@ -301,7 +301,7 @@ There are two types of self-employed people. They get a different kind of freela
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a work visa without it.[^1] Bring it even if you registered your address.[^43]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        You must [registered your address](/glossary/Anmeldung) to get this document. The *Ausländerbehörde* might accept other proofs of your address, or a [*Bürgeramt* appointment](/guides/berlin-burgeramt-appointment) confirmation.[^5]
+        You must [registered your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) might be enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
 - [ ] **Translations**  
@@ -513,3 +513,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^74]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/)
 [^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)
 [^77]: Immigration lawyer on [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1736457546822941/) (December 2023)
+[^76]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)

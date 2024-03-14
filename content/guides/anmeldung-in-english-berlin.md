@@ -27,7 +27,7 @@ You must register your address to...
 You don't need to register your address to...
 
 - **Apply for a [residence permit](/glossary/Aufenthaltstitel)**  
-    You can get a residence permit without an *Anmeldung*, but you still need a *[[Wohnungsgeberbestätigung]]*. Without that document, you might not get a residence permit.[^14]
+    The *[[Ausländerbehörde]]* asks for your *Anmeldung*, or at least your *[[Wohnungsgeberbestätigung]]*. Without that document, you might not get a residence permit.[^14]
 - **Start working**  
     Your employer can't require an *Anmeldung*.[^17] They need your [tax ID](/glossary/Steueridentifikationsnummer) as soon as possible, but you can start working without it. You can also [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 - **Open a bank account**  
@@ -250,7 +250,7 @@ When you move into an apartment, you must do a few things: lower your rent, put 
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
 [^13]: [Screenshot](/guides/german-tax-id-steuernummer)
-[^14]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023). Multiple relocation consultants (October 2023).
+[^14]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023), Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024), multiple relocation consultants (October 2023)
 [^15]: [Reddit](https://old.reddit.com/r/AskAGerman/comments/xtjyap/opening_bank_account_without_anmeldung/)
 [^17]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/praxisleitfaden/arbeiten-ohne-meldeadresse#:%7E:text=Eine%20Meldeadresse%20ist%20keine%20Voraussetzung%20f%C3%BCr%20die%20Arbeitsaufnahme)
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)

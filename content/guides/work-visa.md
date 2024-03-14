@@ -140,10 +140,10 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
-- [ ] **Register your address** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). Your employer needs your tax ID when you start working. You might need a registration certificate to [open a bank account](/guides/first-bank-account-in-germany), get a SIM card, find a [[Kita]] for your children, and use government services. - [How to register your address](/guides/anmeldung-in-english-berlin)
-- [ ] **Open a bank account**  
-    You need it to pay your rent, pay your work visa application fee, and get paid by your employer. You can choose a bank from any EU country. - [How to choose a bank](/guides/first-bank-account-in-germany)
+- [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
+    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^53] - [Why the *Anmeldung* is important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
+- [ ] **[Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**  
+    You need it to pay your rent, pay your work visa application fee, and get paid by your employer. You can choose a bank from any EU country.
 
 ### 4. Apply for the work visa
 
@@ -330,7 +330,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a work visa without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        You must [registered your address](/glossary/Anmeldung) to get this document. The *Ausländerbehörde* might accept other proofs of your address, or a [*Bürgeramt* appointment](/guides/berlin-burgeramt-appointment) confirmation.[^5]
+        You must [registered your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) might be enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **Translations**  
@@ -457,4 +457,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^52]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
+[^53]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
