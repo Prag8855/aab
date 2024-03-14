@@ -59,7 +59,9 @@ Kontist uses AI to guess the correct VAT rate for each transaction. It's often w
 
 Since I have to double-check every transaction, the AI just creates more work for me. There is no way to turn it off.
 
-Instead, I do everything in [Lexoffice](/out/lexoffice), and I ignore what Kontist tells me. The automatic VAT feature is useless to me. If you don't speak German, [Accountable](/out/accountable) is an English-speaking alternative to Lexoffice.
+Kontist integrates with [Lexoffice](/out/lexoffice), where I do all of my bookkeeping. All of my transactions are categorised there already. They already have the right VAT. Kontist sees this information, and still sets the VAT wrong. The Kontist support confirmed this.
+
+**The automatic VAT feature is useless.** It does not work.
 
 [![Screenshot of Kontist app: setting the VAT on a transaction](/images/kontist-sort-transactions.png "You must set the VAT on each transaction. The AI does it automatically, but it's often wrong")](/images/kontist-sort-transactions.png)
 
