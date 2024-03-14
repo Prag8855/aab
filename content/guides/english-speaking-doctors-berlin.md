@@ -30,6 +30,7 @@ Related_places:
     places/dr-med-elke-schröter.md
     places/dr-johanna-morguet-sahar-abdul-majeed.md
     places/mvz-kopenick.md
+    places/katharina-dembinski.md
 ---
 
 This is how you can find an English-speaking doctor or GP.

@@ -9,7 +9,7 @@ If you don't speak German, these veterinarians speak English:
 
 - [Anne Gamalski](https://www.berlin-english-vet.com/)
 - [Dr. Beck](http://www.tierarztpraxis-dr-beck.de/)
-- [Dr. Layla Hourani](https://tiermedizinzentrum.de/) - Tiermedizinzentrum Berlin
+- [Dr. Layla Hourani](https://tierarztpraxis-am-lietzenseepark.de/team/) - Tierarztpraxis am Lietzenseepark
 - [Dr. Manuela Wight](https://www.tierarztpraxisgruenau.de/) - Tierarztpraxis Grünau
 - [Dr. Marton](https://www.tierarztberlin.com/home)
 - [Dr. Michael Förster](https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/10559-berlin/dr-michael-foerster/2252/)

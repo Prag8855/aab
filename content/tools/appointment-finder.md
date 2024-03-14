@@ -16,7 +16,7 @@ This tool only finds *Anmeldung* appointments. It can't find other *Bürgeramt* 
 
 This tool makes 1 request every 3 minutes. To find more appointment types, it must make more requests. If it makes more requests, it gets blocked.
 
-There are other ways to find an appointment. You can also [run this tool on your computer](https://github.com/nicbou/burgeramt-appointments-websockets) and look for other appointment types.
+There are other ways to find an appointment. You can also [run this tool on your computer](https://github.com/all-about-berlin/burgeramt-appointments) and look for other appointment types.
 
 **[How to find a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
 
@@ -24,4 +24,4 @@ There are other ways to find an appointment. You can also [run this tool on your
 
 ## About this tool
 
-I built this tool in 2022. It's approved by the city of Berlin. You can [learn why I made it](https://nicolasbouliane.com/projects/appointment-finder), [contribute to its development](https://github.com/nicbou/burgeramt-appointments-websockets), [run it yourself](https://github.com/nicbou/burgeramt-appointments-websockets) or [donate a few euros](/donate) to support my work.
+I built this tool in 2022. It's approved by the city of Berlin. You can [learn why I made it](https://nicolasbouliane.com/projects/appointment-finder), [contribute to its development](https://github.com/all-about-berlin/burgeramt-appointments), [run it yourself](https://github.com/all-about-berlin/burgeramt-appointments) or [donate a few euros](/donate) to support my work.

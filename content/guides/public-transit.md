@@ -17,18 +17,18 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 
 To use **intercity trains** (IC and ICE), buy a ticket from the [Deutsche Bahn website](https://bahn.de), in the DB Navigator app, a DB Reisezentrum or a DB ticket machine. You can't buy tickets on the train.
 
-To use **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry) buy a local public transit ticket. If you travel within Berlin, this is what you need.
+To travel **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry) buy a local public transit ticket. This lets you travel in Berlin and parts of Brandenburg.
 
 You can buy local public transit tickets...
 
 - **In the app**  
     Buy tickets on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
-    - **[Jelbi app](https://www.jelbi.de/en/home/)**  
-        You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German. You must create an account.
+    - **[Jelbi app](https://www.jelbi.de/en/home/)** ⭐️  
+        You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German.
     - **[BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
-        It's in English and German. You must create an account.
+        It's in English and German.
     - **[VBB app](https://www.vbb.de/en/driving-information/apps/)**  
-        You can buy tickets for Berlin and [[Brandenburg]]. It's a little harder to use. You must create an account.
+        You can buy tickets for Berlin and [[Brandenburg]]. It's a little harder to use.
 - **At a ticket machine**  
     Find a [yellow or red ticket machine](/images/VBB-ticket-machine.jpg) at the train station. The machines are on the train platforms, near the exits. You can pay with coins, bills, credit cards and [Girocards](/glossary/Girocard). You can sometimes pay with Apple Pay and Google Pay. The ticket machines speak many languages.
 - **On the tram**  
@@ -36,7 +36,7 @@ You can buy local public transit tickets...
 - **On the bus**  
     Enter at the front of the bus, and buy a ticket from the driver. Tap your card or phone on the payment terminal near the driver.[^15] If you pay cash, ask the driver for a ticket.[^14]
 - **At [[S-Bahn]] and [[BVG]] service points**  
-    Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). There is often a queue.
+    Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops).
 
 **At the airport**, there are ticket machines on the way to the train platforms, just before you go downstairs. You can also install the [BVG ticket app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) before you arrive in Berlin. The airport is in zone C, so you must buy an ABC ticket.
 
@@ -47,15 +47,15 @@ You can buy local public transit tickets...
 To buy a local public transit ticket...
 
 1. **Choose the [tariff zone](#tariff-zones)**  
-    Berlin has [3 tariff zones](#tariff-zones): A, B and C. Buy an AB or ABC ticket, depending on the zones you travel in. Most things are in zone A and B. The airport is in zone C.
+    Berlin has [3 tariff zones](#tariff-zones): A, B and C. Buy an AB or ABC ticket, depending on the zones you travel in. **Most things are in zone A or B.** The airport is in zone C.
 2. **Choose the [duration of the ticket](#ticket-duration)**  
-    Single tickets are valid for 2 hours in one direction. Short trip tickets are only valid for a few stops. There are also daily, weekly and monthly passes.
+    Single tickets are valid for 2 hours in one direction. There are daily, weekly and monthly passes. Short trip tickets (*Kurzstrecke*) let you travel just a few stops.
 3. **Choose the [type of ticket](#ticket-types)**  
     There are cheaper tickets for children, students, apprentices and [dogs](#dogs-on-public-transit). You need a [ticket for your bicycle](#bicycles-on-public-transit). Daily, weekly and monthly passes sometimes let you bring people for free.
 
 Your ticket is valid for the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, regional trains (RE) and [*some* IC and ICE trains](https://www.vbb.de/vbb-services/umsteigen-und-weiterfahren/bahn/#c1155). It's not valid for private buses (Flixbus, *Hop-On, Hop-Off*) and tour boats.
 
-![A digital Deutschland Ticket in the BVG app](/images/bvg-app-digital-deutschland-ticket.jpg)
+![A digital Deutschland Ticket in the BVG app](/images/bvg-app-digital-deutschland-ticket.jpg "A digital ticket in the BVG app")
 
 ### Tariff zones
 
@@ -65,7 +65,7 @@ Berlin has 3 public transit zones: A, B and C.
 - **Zone B** is everything outside the *Ringbahn*, but inside Berlin.
 - **Zone C** is outside of Berlin. It includes parts of [[Brandenburg]] like the Berlin-Brandenburg airport, Potsdam and Oranienburg.
 
-Most things are in Zone A or B, so you usually need an AB ticket. If you go to the airport, you need an ABC ticket.
+Most things are in zone A or B, so you usually need an AB ticket. If you go to the airport, you need an ABC ticket.
 
 [![Bvg tarifbereiche](/images/bvg-tarifbereiche.svg "Berlin public transit tariff zones")](/images/bvg-tarifbereiche.svg)
 
@@ -75,9 +75,9 @@ If you have a [[Deutschland Ticket]], you can travel in all zones.
 
 ### Ticket duration
 
-**Short trip tickets** let you travel 3 train tops, or 6 bus or tram stops. If you buy them in the app, they are valid for 20 minutes.[^2]
-
 **Single tickets** are valid for 2 hours in one direction. You can take as many trains, buses and ferries as you want with the same ticket. You can stop, do some shopping, and take the train again. Your ticket only works in one direction. To go back, you must buy a new ticket.
+
+**Short trip tickets** let you travel 3 train tops, or 6 bus or tram stops. If you buy them in the app, they are valid for 20 minutes.[^2]
 
 **Daily, monthly and weekly passes** are cheaper. They usually let you [bring other people for free](#bring-other-people-for-free).
 
