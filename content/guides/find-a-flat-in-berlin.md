@@ -15,23 +15,21 @@ This guide helps you find a place to live after you [move to Berlin](/guides/mov
 
 **Yes, it's really hard**. It can take months and hundreds of messages.[^0] It's much harder for recent immigrants. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might live in a few temporary places before you find a home.
 
-**[Your housing options ↓](#your-housing-options)**
-
 ## Before you start
 
 Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 - [ ] **Understand [how housing works](#important-knowledge) in Germany**
-- [ ] **Know [your housing options](#your-housing-options)**  
-    Your options depend on your situation and your income. Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
+- [ ] **Know [your options](#your-housing-options)**  
+    Don't waste time on apartments that you can't get. Your options depend on your situation and your income. If you are new in Berlin, you have fewer options.
 - [ ] **Save money**  
     You need enough money for the [deposit](/glossary/Kaution) and the first month of rent. You must also buy furniture, appliances, and house supplies.
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
-    Germans pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), so you need a bank account. You can send money from another country with [Wise](/out/transferwise).
+    Germans pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), so you need a bank account. You can also transfer money from another country with [Wise](/out/transferwise).
 - [ ] **Create accounts on housing websites**  
     Create detailed profiles on [ImmoScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to apply for apartments. A detailed profile improves your chances.[^27]
 - [ ] **Prepare the [required documents](#required-documents)**  
-    Speed is important. To apply for an apartment as fast as possible, your documents must be ready.
+    To apply for an apartment, you must have all the required documents. Speed is important.
 
 ## Step 1: Look for apartments
 
@@ -40,7 +38,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 - **People you know**  
     Tell your friends, family, colleagues and classmates that you need a place to live. People often find an apartment this way.[^21]
 - **Your [[Hausverwaltung]]**  
-    Landlords prefer people they already know. They might give you priority when they have an apartment for rent.
+    Landlords often give priority to people they already know.
 - **Your university**  
     Universities have boards with apartment listings, and help clinics for new students.[^7] Join the waiting list for [student housing](#student-housing).
 
@@ -48,7 +46,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)**  
     The biggest housing website. You can pay for a premium account to message landlords first. Without the premium account, you have no chance.[^1]
-- **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site
+- **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads site.
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing site
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
@@ -127,7 +125,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 To get an apartment, you must be fast. Tools help you find apartments and message landlords first.
 
 - **Apartment bots**  
-    Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot) and [Flathunters](https://flathunter.codders.io/).
+    Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot) and [Flathunters](https://flathunter.codders.io/). You get a notification when there are new apartments.
 - **Alerts and notifications**  
     Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and create alerts for new apartment listings.[^44] Turn on push notifications for the Facebook groups you follow.
 
@@ -151,13 +149,13 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 - [ ] **What is included?**  
     Most apartments come with nothing. [[WG]]s usually come with most of those things. Furnished apartments are common, but overpriced.
     - **Electricity**  
-        Is hot water included in your warm rent? If there is a central water heater, it's usually included. If you have a personal water heater, it's not included, and your electricity bill will be higher.
+        Is hot water included in your warm rent? If the building has central water heating, it's usually included in your *[[Nebenkosten]]*. If the apartment has a [tankless water heater](https://en.wikipedia.org/wiki/Tankless_water_heating) (*Durchlauferhitzer*), hot water is not included.[^3] Your *Nebenkosten* are lower, but your electric bills are higher.
     - **Kitchen**  
         Is the kitchen (counter, sink, stove, fridge) included? Apartments *mit [[Einbauküche]]* include a kitchen. Sometimes, you must buy the kitchen from the previous tenant at a ridiculous price. [It's a common scam.](/guides/housing-scams#buy-the-furniture-to-get-the-flat)
     - **Furniture**  
         Most apartments come with nothing. No furniture, appliances, curtains or light fixtures. You must buy and install everything yourself.
 - [ ] **How is the housing company?**  
-    Search the name of your landlord or housing company (*[[Hausverwaltung]]*). Some are really bad.
+    Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). Some are famous for scamming tenants.
 - [ ] **Neubau or Altbau?**  
     New buildings (*Neubau*) are often quieter and better insulated. They have concrete walls and floors. You hear your neighbours less. Old buildings (*Altbau*) often look nicer: high ceilings, hardwood floors, and a lot more charm.
 - [ ] **Which floor?**
@@ -193,10 +191,6 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 [![Berlin busy areas](/images/berlin-busy-areas.png "In Google Maps, orange areas are interesting areas. They have good bars and restaurants, but they are busy and loud.")](/images/berlin-busy-areas.png)
 
 [![Berlin tram lines](/images/berlin-tram-lines.png "If you live next to a tram line, you hear trams all day. They are very loud.")](/images/berlin-tram-lines.png)
-
-### Common apartment scams
-
-**[Common housing scams ➞](/guides/housing-scams)**
 
 ## Step 3: Contact the landlord
 
@@ -425,7 +419,7 @@ If you just moved to Berlin, **don't buy an apartment**. Buying is harder than r
 
 ### Deposit
 
-Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back when you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You must pay the first instalment before you [move in](/guides/moving-in).
+Almost all apartments require a deposit (*[[Kaution]]*). It's usually 3 times the [cold rent](/glossary/Kaltmiete). You get it back after you [move out](/guides/moving-out). You can [pay it in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You must pay the first instalment before you [move in](/guides/moving-in). If you don't have enough money, there are [other options](/guides/mietkaution#if-you-dont-have-enough-money).
 
 **[How the deposit works ➞](/guides/mietkaution)**
 
@@ -446,7 +440,7 @@ The *Nebenkosten* are not a fixed cost, because you don't know how much water an
 
 Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
 
-[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are expensive.
+[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are very expensive.
 
 ### Rent is paid by bank transfer
 

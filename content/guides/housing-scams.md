@@ -37,6 +37,8 @@ More and more apartments are furnished, because landlords can charge more for th
 
 Sometimes, you don't have a choice. Temporary furnished apartments are often your only option when you [move to Berlin](/guides/moving-to-berlin).
 
+{# TODO: Fake-furnished apartments #}
+
 ### Temporary leases
 
 Usually, German leases don't have an end date. They are unlimited (*unbefristet*).[^34]
@@ -68,7 +70,7 @@ The landlord only accepts self-employed people. Part of the apartment is a comme
 
 Commercial spaces are not protected by [rent control laws](/glossary/Mietpreisbremse). The landlord uses this to raise your rent above the limit. This is illegal.[^22]
 
-### Bribes
+### Pay a bribe to get the apartment
 
 To get the apartment, you must pay a bribe. Bribes are more and more common.[^23] They are usually illegal.
 
@@ -114,9 +116,9 @@ Signs that it's a scam:[^26]
 - [ ] **Is it too good to be true?**  
     If it's too easy to get the apartment, or if the price is too low, be careful.[^9]
 - [ ] **Is the apartment real?**  
-    If you can't visit the apartment, it's probably a scam. Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the apartment photos come from somewhere else. Check if the text was copied from another listing. Check if the apartment has the same windows in the listing and on Google Street View.
+    If you can't visit the apartment, it's probably a scam. Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0). See if you find other listings with the same photos. Check if the text was copied from another listing. Check if the apartment has the same windows in the listing and on Google Street View.
 - [ ] **Is the landlord real?**  
-    Google the name of the landlord or *[[Hausverwaltung]]*. Some scammers make also make fake websites.
+    Google the name and [[IBAN]] of the landlord or *[[Hausverwaltung]]*. Check if there are warnings about them. Check if the contact information is the same as on their website. Check if they used the same message to scam other people.[^10]
 - [ ] **How old is the account?**  
     Look at the age of the landlord's account on the housing website. If it was created in the last few days, be careful. Scammers often create new accounts.
 - [ ] **How do you pay?**  
@@ -124,11 +126,12 @@ Signs that it's a scam:[^26]
 - [ ] **Do the names match?**[^27]  
     The names on the email, the doorbell, the mailbox and the website should be the same. Ask the neighbour who lives there.[^28] When you see the landlord in person, you can ask to see their ID.
 
-Some things are suspicious, but not always a scam:
+Some behaviours are suspicious, but not always a scam:
 
 - [ ] The contract in English
 - [ ] The landlord speaks bad German
 - [ ] The landlord sends you their ID before you ask for it[^29]
+- [ ] You can't meet the landlord, only a friend or a relative. Video calls are not possible.
 
 ### Wait before you pay
 
@@ -154,15 +157,9 @@ Wait before you send money.[^42] You must pay the rent and the 1/3 of the [depos
 
 **[How to pay the rent and deposit ➞](/guides/moving-in#pay-the-rent)**
 
-### Use Google
+### Report scams
 
-Search the landlord's name and [[IBAN]] on Google. You can also search for parts of their messages on Google.[^10] See if the contact information is the same as on their website. If they are a scammer, you might find some warnings online, or identical ads with different photos.
-
-### Use Google Street View
-
-Scammers often use photos of a different apartment. Use [reverse image search](https://tineye.com/) to see if the photos come from another listing. Check if the apartment looks the same on the photos and on Google Street View. Is the balcony the same? Are the windows the same shape?
-
-### Report a scam
+When you see a scam, report it to the housing website. The scammers did not get you, but they might get other people.
 
 **[Report a scam to the police ➞](https://www.bka.de/DE/KontaktAufnehmen/Onlinewachen/onlinewachen_node.html)**
 
