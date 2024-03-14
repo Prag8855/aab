@@ -9,7 +9,9 @@ Related_guides:
     guides/mietkaution.md
 ---
 
-These utility costs (*Nebenkosten*) are included in your [warm rent](/glossary/Warmmiete):
+Utility costs (*Nebenkosten*) are services that are included in your [warm rent](/glossary/Warmmiete).
+
+Usually, these services are included in your *Nebenkosten*:
 
 - Heating
 - Hot water (most of the time)
