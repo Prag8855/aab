@@ -70,7 +70,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-emp
 - **[[Work visa]]** or **[[Blue Card]]**  
     [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need permission from your employer to freelance.[^21] To freelance full-time, you need a freelance visa.
 - **[[Student visa]]**  
-    Your student visa does not allow self-employment by default.[^54] In Berlin, *some* student visas already allow self-employment.[^72] You can get permission from the *[[Ausländerbehörde]]* to study and freelance at the same time.[^2]
+    Usually, student visas do not allow self-employment.[^54] In Berlin, *some* student visas already allow self-employment.[^72] You can get permission from the *[[Ausländerbehörde]]* to study and freelance at the same time.[^2]
 - **Other residence permits**  
     [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa) to see if self-employment is allowed.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
