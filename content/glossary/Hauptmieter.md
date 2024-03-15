@@ -2,7 +2,7 @@
 Title: What is the Hauptmieter?
 German_term: Hauptmieter
 English_term: Main tenant
-Description: A person who sublets their apartment. Their name is on the rent contract.
+Description: A person who sublets their apartment. Their name is on the lease.
 Date_created: 2018-07-31
 Related_guides:
     guides/find-a-flat-in-berlin.md
