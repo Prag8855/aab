@@ -120,6 +120,8 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
 
+- **[BerlinRelo](https://www.berlinrelo.de/)** - Graham is really good at his job. He accepts a small number of customers, and guarantees results.
+
 ### Bots and automation
 
 To get an apartment, you must be fast. Tools help you find apartments and message landlords first.
