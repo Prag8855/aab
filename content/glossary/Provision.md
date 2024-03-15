@@ -9,7 +9,7 @@ Related_guides:
     guides/housing-scams.md
 ---
 
-When you hire an agent (*[[Makler]]*) to [find an apartment](/guides/find-a-flat-in-berlin), you pay a commission (*Provision* or *Maklergebühr*). If you did not hire the agent, you should not pay a commission.[^2]
+When you hire an agent (*[[Makler]]*) to [find an apartment](/guides/find-a-flat-in-berlin), you pay a commission (*Provision* or *Maklergebühr*). [If you did not hire the agent, you should not pay a commission](/guides/housing-scams#agent-fees).[^2]
 
 If an apartment seeker hires a *Makler*, the maximum commission is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer).[^1]
 
