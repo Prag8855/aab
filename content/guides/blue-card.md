@@ -294,7 +294,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).  If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease or a sublet.
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent.[^47] It can be a temporary lease or a sublet.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
@@ -414,4 +414,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^46]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
+[^47]: [Fiona Macdonald](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)

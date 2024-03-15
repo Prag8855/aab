@@ -145,7 +145,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 
 - [ ] **[Is it a scam?](/guides/housing-scams)**
 - [ ] **Is the price fair?**  
-    The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are often much more expensive.
+    The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are often much more expensive. If you can't afford the rent, the [immigration office](/glossary/Ausländerbehörde) can reject your [residence permit](/glossary/Aufenthaltstitel) application.[^2]
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Always choose an apartment that lets you do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address), especially for recent immigrants.
 - [ ] **Is the lease unlimited?**  
@@ -470,6 +470,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/), [Get The Flat](https://gettheflat.com/) (March 2024)
 [^1]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
+[^2]: [Fiona Macdonald, immigration lawyer](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
 [^5]: [deutschesmietrecht.de](https://deutschesmietrecht.de/steuern/365-untervermietung-steuern-freigrenzen-steuerhinterziehung.html#:~:text=umsatzsteuer%20bei%20kurzfristiger%20oder%20langfristiger%20vermietung), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/steuerbefreiung-bei-vermietungsleistungen-zu-4-nr12-ustg_idesk_PI20354_HI9097997.html)
