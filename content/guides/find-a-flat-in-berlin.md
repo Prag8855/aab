@@ -178,6 +178,10 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
     Is there a place for your bicycle? A storage room in the basement (*Kellerraum*)? How much does a parking space cost? Is there street parking?
 - [ ] **Do you need a [WBS](/glossary/Wohnberechtigungsschein)?**  
     Some apartments require a *[[Wohnberechtigungsschein]]*. If you don't have one, you can't live there.
+- [ ] **Internet access**  
+    Some buildings can't get a fast internet connection. Use [this tool](https://www.check24.de/dsl/verfuegbarkeit/) to see your internet options.
+- [ ] **Pets**  
+    Are pets allowed in this apartment? Most apartment listings show this information.
 
 ### Location checklist
 
@@ -284,16 +288,14 @@ It can be a private visit (just you), or an open visit (many other people). Do n
 
 - [ ] **Appliances**  
     Check what appliances fit in the apartment. Do you need a smaller washing machine? Is there room for a dishwasher? Does your bed fit in the bedroom?
-- [ ] **Hausordnung**  
-    Each building has different house rules (*[[Hausordnung]]*). For example, some buildings have [quiet hours](/guides/quiet-hours) from 13:00 to 16:00.[^40] The *Hausordnung* often has rules about quiet hours, BBQs, ventilation, musical instruments, vehicles and pets.
-- [ ] **Neighbours**  
-    Check who your neighbours are. For example, if they have pets and children, you will sometimes hear them. If you visit the apartment during the day, it can be quieter than in the evening, when all your neighbours are at home.
 - [ ] **Noise**  
     How is the soundproofing? Can you hear the neighbours? Can you hear the noise outside? Traffic, ambulances, bars and other noise can be a problem.
-- [ ] **Pets**  
-    Are pets allowed in this apartment? Most apartment listings show this information.
-- [ ] **Internet access**  
-    Some buildings can't get a fast internet connection. Use [this tool](https://www.check24.de/dsl/verfuegbarkeit/) to see if you can get fast internet there.
+- [ ] **Neighbours**  
+    Check who your neighbours are. For example, pets and children can be loud. If you visit the apartment during the day, it can be quieter than in the evening, when all your neighbours are at home.
+- [ ] **Mold**  
+    Look for [mold stains](https://commons.wikimedia.org/wiki/File:Moldy_livingroom_Panewniki_01.jpg) around windows and in the corners of the rooms. Mold problems can be hard to fix.
+- [ ] **Hausordnung**  
+    Each building has different house rules (*[[Hausordnung]]*). For example, some buildings have [quiet hours](/guides/quiet-hours) from 13:00 to 16:00.[^40] The *Hausordnung* often has rules about quiet hours, BBQs, ventilation, musical instruments, vehicles and pets.
 
 ### Visiting a flat share
 
