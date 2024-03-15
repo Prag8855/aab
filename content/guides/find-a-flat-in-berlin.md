@@ -118,9 +118,12 @@ You can rent a vacation apartment. You rent by the day, and you can rarely do yo
 
 ### Real estate agents
 
-An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
+An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23]
+
+Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
 
 - **[BerlinRelo](https://www.berlinrelo.de/)** - Graham is really good at his job. He accepts a small number of customers, and guarantees results.
+- **[HomeSK](https://www.homesk.de/Search)**
 
 ### Bots and automation
 
@@ -491,6 +494,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^20]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/1aingxq/to_people_who_like_me_are_not_finding_a_flat_to/kpcm2mp/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/4y13g1/observations_on_the_berlin_housing_situation/#:~:text=%20turn%20down%20any%20mass%20viewings), [Prop.ID](https://www.prop.id/immobilien-glossar/massenbesichtigung)
 [^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/#:~:text=let%20all%20my%20friends%20and%20their%20friends%20know%20that%20i'm%20looking%20for%20an%20apartment.%20) (2023)
 [^22]: [Tagesspiegel](https://www.tagesspiegel.de/berlin/makler-packt-aus-funf-experten-tipps-um-an-eine-wohnung-in-berlin-zu-kommen-11204872.html) (February 2024)
+[^23]: [Reddit](https://old.reddit.com/r/berlin/comments/y4kjgd/are_these_finders_fee_apartment_seekers_annoying/isejkni/) (2023)
 [^24]: [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd) (2023), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (2023)
 [^25]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^26]: [Merkur.de](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=K%C3%B6ln%20%E2%80%93-,20%20minuten,-.%20So%20kurz%20ist), [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd#:~:text=within%20minutes) (2024), [Reddit](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3) (2021), [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
