@@ -64,17 +64,21 @@ Talk to a lawyer or a *[[Mieterverein]]* before you try this.[^39] Do it 4 month
 
 **This does not apply to hotel rooms and holiday homes.** They can have a short-term lease.[^25] In Berlin, many "holiday homes" are not registered. Their temporary lease might still be illegal.[^40] Ask a lawyer or a *[[Mieterverein]]*.
 
-### Freelancers only
-
-The landlord only accepts self-employed people. Part of the apartment is a commercial space (*Teilgewerblich*).
-
-Commercial spaces are not protected by [rent control laws](/glossary/Mietpreisbremse). The landlord uses this to raise your rent above the limit. This is illegal.[^22]
-
 ### Pay a bribe to get the apartment
 
 To get the apartment, you must pay a bribe. Bribes are more and more common.[^23] They are usually illegal.
 
 The landlord or the previous tenant can't charge a fee to give you the apartment.[^13]
+
+### Buy the furniture to get the flat
+
+To get the apartment, you must buy overpriced furniture from the previous tenant. If you don't take the furniture, you don't get the apartment.[^1]
+
+Overcharging for furniture is illegal. You can't pay more than 150% of the items' current value.[^12] For example, the previous tenant can't sell you an old bed and a desk for 2,000€.
+
+The previous tenant does not choose who gets the apartment. Buying their furniture does not guarantee that you will get the apartment. If you already signed the lease, the previous tenant can't force you to buy anything.
+
+If you paid too much, you can get your money back and keep the apartment.[^14] This is not always easy; you might need a lawyer.[^24]
 
 ### Agent fees
 
@@ -91,21 +95,19 @@ If you paid a fee when you should not have, you have 3 years to request the mone
 
 ### Service fees
 
+Don't pay anything before you sign a lease. You must pay the rent and 1/3 of the [deposit](/glossary/Kaution) before the day your lease starts. There should be no other fees.
+
 You should never pay a fee to...
 
 - View an apartment[^21]
 - Apply for an apartment
 - Sign an apartment contract ("service fee")[^20]
 
-### Buy the furniture to get the flat
+### Freelancers only
 
-To get the apartment, you must buy overpriced furniture from the previous tenant. If you don't take the furniture, you don't get the apartment.[^1]
+The landlord only accepts self-employed people. Part of the apartment is a commercial space (*Teilgewerblich*).
 
-Overcharging for furniture is illegal. You can't pay more than 150% of the items' current value.[^12] For example, the previous tenant can't sell you an old bed and a desk for 2,000€.
-
-The previous tenant does not choose who gets the apartment. Buying their furniture does not guarantee that you will get the apartment. If you already signed the lease, the previous tenant can't force you to buy anything.
-
-If you paid too much, you can get your money back and keep the apartment.[^14] This is not always easy; you might need a lawyer.[^24]
+Commercial spaces are not protected by [rent control laws](/glossary/Mietpreisbremse). The landlord uses this to raise your rent above the limit. This is illegal.[^22]
 
 ## How to avoid scams
 
