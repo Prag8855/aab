@@ -16,7 +16,7 @@ With a Blue Card, you can...
 - Live and work anywhere in Germany
 - Bring your family to Germany[^14]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
-- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^10]
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 27 months (21 months if you speak B1 German)[^10]
 
 This guide explains how to apply for a [[Blue Card]] in Berlin or in your country.
 
@@ -298,7 +298,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        You must [registered your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) might be enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
+        You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
 - [ ] **University degree**  
     If you are an IT specialist with at least 3 years of experience, you don't need a degree.[^31]
 - [ ] **Statement of comparability** (*Zeugnisbewertung*)  
@@ -326,7 +326,7 @@ You can use your Blue Card to log into online government services. For example, 
 
 Your Blue Card is valid for up to 4 years. You must renew it around 8 weeks before it expires.
 
-You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 33 months. If you speak B1 German, you can get it after 21 months.[^10]
+You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you can get it after 21 months.[^10]
 
 ### If you change jobs
 

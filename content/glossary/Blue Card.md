@@ -23,7 +23,7 @@ With a Blue Card, you can...
 - Live and work in Germany
 - Visit countries in the [[Schengen area]][^1]
 - Bring your family to Germany with the [family reunion visa](/glossary/Family%20reunion%20visa)[^2]
-- Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 33 months (21 months if you speak B1 German)[^3]
+- Become a German [permanent resident](/glossary/Niederlassungserlaubnis) after 27 months (21 months if you speak B1 German)[^3]
 
 ![Example German Blue Card](/images/german-blue-card.jpg)
 
@@ -31,4 +31,4 @@ With a Blue Card, you can...
 
 [^1]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html)
 [^2]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
-[^3]: [§18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/)
+[^3]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/)
