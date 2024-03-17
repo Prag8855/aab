@@ -298,7 +298,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        You must [registered your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) might be enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
+        You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
 - [ ] **University degree**  
     If you are an IT specialist with at least 3 years of experience, you don't need a degree.[^31]
 - [ ] **Statement of comparability** (*Zeugnisbewertung*)  
