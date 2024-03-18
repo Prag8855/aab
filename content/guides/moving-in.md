@@ -153,7 +153,7 @@ Your own things are not covered by liability insurance. To insure your furniture
 Landlords often take advantage of immigrants. You must be ready to defend yourself. There are many ways to do this:
 
 - **Join a tenants' association** (*[[Mieterverein]]*)  
-    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest associations in Berlin. The Berliner Mieterverein offers help in English.[^10]
+    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein offers help in English.[^10]
 - or **get legal insurance** (*[[Rechtsschutzversicherung]]*)  
     It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
 - or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**  
@@ -168,11 +168,11 @@ German rent prices are limited by law. If your rent too high, you can get it red
 If your rent is too high, these people can help you:
 
 - **[Conny](/out/conny-mietpreisbremse)**  
-    They specialise in reducing people's rent. You only pay them if they are successful. [It works really well](/guides/wenigermiete-review).
+    They specialise in lowering people's rent. You only pay them if they are successful. [It works well](/guides/wenigermiete-review), but it's not cheap.
 - **Tenants' associations** (*[[Mieterverein]]*)  
     If you are a member, they can help you reduce your rent.[^12] For example, [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can [check your lease](https://www.berliner-mieterverein.de/mietrecht/berliner-mietspiegel-mietcheck/mietcheck-bei-neuvermietung.htm), and tell you if you are paying too much rent.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
-    They are more expensive, but your [legal insurance](/guides/legal-insurance) might cover the costs.
+    They are more expensive, but your [legal insurance](/guides/legal-insurance) might pay for it.
 
 ### Stop junk mail
 
