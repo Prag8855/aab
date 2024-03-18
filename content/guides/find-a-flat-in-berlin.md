@@ -59,9 +59,12 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 ### Short-term and furnished apartments
 
 - **[HomeLike](/out/homelike)** - Shows when the *[[Anmeldung]]* is possible.
-- **[HousingAnywhere](/out/housinganywhere)** - Shows when the *[[Anmeldung]]* is possible.
-- **[Wunderflats](/out/wunderflats)** - Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
-- **[Spotahome](/out/spotahome)** - Listings have video tours and lots of photos.
+- **[HousingAnywhere](/out/housinganywhere)**  
+    Shows when the *[[Anmeldung]]* is possible. To avoid scams, the landlord only gets paid after you move in.[^39]
+- **[Spotahome](/out/spotahome)**  
+    Landlords are verified. Listings have video tours and lots of photos.
+- **[Wunderflats](/out/wunderflats)**  
+    Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required. There are scam listings, and no protection from scammers.[^18]
 - [Crocodilian](https://crocodilian.de/) - *[Anmeldung](/glossary/Schufa)* always possible.[^8]
 - [Berlinovo](https://www.berlinovo.de/en/apartments/search)
 - [coming home](https://www.coming-home.com/)
@@ -71,7 +74,9 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 - [Nestpick](https://www.nestpick.com/berlin/) - Mostly listings from other websites
 - [FarAwayHome](https://www.farawayhome.com/) - Luxury apartments
 
-You can rent a vacation apartment. You rent by the day, and you can rarely do your *[[Anmeldung]]* there.
+These websites do not rent apartments directly. They just connect tenants and landlords. If you have a problem with the landlord, they might not help you. There are scams on those websites too.
+
+You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day like a hotel. You can rarely do your *[[Anmeldung]]* there.
 
 - **[Airbnb](https://www.airbnb.com/)**
 - [9flats](https://www.9flats.com/de/berlin-deutschland)
@@ -493,6 +498,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [Berlin noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
 [^17]: [Red Tape Translation](https://redtapetranslation.com/whats-a-wbs-and-how-to-get-it/#:~:text=as%20a%20freelance%20artist%2C%20you%20are%20most%20likely%20at%20the%20bottom%20of%20the%20list)
+[^18]: [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/1bhays9/wunderflats_scam_my_nightmare_moving_experience/) (March 2024), [Trustpilot](https://www.trustpilot.com/reviews/655d386878ea281557fb0bd6) (November 2023), [Reddit](https://old.reddit.com/r/germany/comments/1b8zaur/wunderflats_a_terrible_apartment_rental_experience/) (March 2024), [Reddit](https://old.reddit.com/r/berlin/comments/11hc9re/wunderflats_question/jaud2cm/) (2023)
 [^19]: [Berlin.de](https://www.berlin.de/willkommenszentrum/wohnen/wohnungssuche/#2), [buendnis-neukoelln.de](https://www.buendnis-neukoelln.de/wp-content/uploads/2023/07/Finding-housing-in-Berlin-a-handbook-for-refugees-V1.2.pdf), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/) (2023)
 [^20]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/1aingxq/to_people_who_like_me_are_not_finding_a_flat_to/kpcm2mp/) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/4y13g1/observations_on_the_berlin_housing_situation/#:~:text=%20turn%20down%20any%20mass%20viewings), [Prop.ID](https://www.prop.id/immobilien-glossar/massenbesichtigung)
 [^21]: [Jonny Whitlam](https://twitter.com/WhitlamsBerlin/status/1760376902194225601) (February 2024), [Reddit](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/#:~:text=let%20all%20my%20friends%20and%20their%20friends%20know%20that%20i'm%20looking%20for%20an%20apartment.%20) (2023)
@@ -513,6 +519,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^36]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^37]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054504)
 [^38]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
+[^39]: [HousingAnywhere](https://answers.housinganywhere.com/en/articles/2498908-how-can-i-be-sure-a-listing-is-real-and-protect-myself-from-scammers), [HousingAnywhere](https://housinganywhere.com/pricing/tenants)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
 [^42]: Nerea Lopez (March 2024)
