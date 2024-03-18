@@ -157,7 +157,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 
 - [ ] **[Is it a scam?](/guides/housing-scams)**
 - [ ] **Is the price fair?**  
-    The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are much more expensive. If you can't afford the rent, the [immigration office](/glossary/Ausländerbehörde) can reject your [residence permit](/glossary/Aufenthaltstitel) application.[^2]
+    The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are much more expensive. If you can't afford the rent, the [immigration office](/glossary/Ausländerbehörde) can reject your [residence permit](/glossary/Aufenthaltstitel) application.[^2] If the price is too low, it might be a scam.
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Choose an apartment where you can do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address), especially for recent immigrants.
 - [ ] **Is the lease unlimited?**  
@@ -247,7 +247,7 @@ To improve your chances...
 
 ### What landlords want
 
-Landlords want **stability**. They want quiet tenants who pay the rent on time.
+Landlords want **stability**. They want quiet tenants who pay rent on time.
 
 In order, they prefer...[^32]
 
@@ -345,7 +345,7 @@ Bring these documents with you:[^19]
 - [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
     This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It does not have a standard format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). You can also use bank statements to show that you pay rent every month.[^47]
 - [ ] **[[Mietbürgschaft]]** (optional)  
-    If you have a low or unstable income, someone can be your guarantor. If you don't pay the rent, they must pay it for you. It's useful for students and freelancers. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
+    If you have a low or unstable income, someone can be your guarantor. If you don't pay rent, they must pay it for you. It's useful for students and freelancers. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
 - [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form (*Selbstauskunft*) and fill it in advance.
 - [ ] **Copies of everything**  
@@ -458,11 +458,13 @@ Apartments usually come without a washing machine, curtains, light fixtures or a
 
 [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are very expensive.
 
+Sometimes, the previous tenants want you to buy their furniture. They usually ask for a really high price, because they know you want the apartment. It's a [common scam](/guides/housing-scams#buy-the-furniture-to-get-the-flat).
+
 ### Rent is paid by bank transfer
 
-You usually pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay the rent with cash, and never with cheques.
+You usually pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay rent with cash, and never with cheques. If the landlord uses another payment method, it's probably a [scam](/guides/housing-scams).
 
-You need a European bank account to make bank transfers. You can also use [Wise](/out/transferwise) to transfer money from a non-EU country.
+You need a European bank account to make bank transfers. Use [Wise](/out/transferwise) to transfer money from a non-EU country.
 
 ### Rooms and floors
 
