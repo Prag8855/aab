@@ -11,7 +11,9 @@ When you [move into an apartment](/guides/moving-in), you must pay a deposit (*K
 
 ## How much is the Kaution?
 
-The maximum *[[Kaution]]* is **3 times your [cold rent](/glossary/Kaltmiete)**.[^2] Most landlords ask for the maximum *Kaution*. [Short-term rentals](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments) often have a smaller *Kaution*.[^13]
+The maximum *[[Kaution]]* is **3 times your [cold rent](/glossary/Kaltmiete)**.[^2] Most landlords ask for the maximum *Kaution*.
+
+[Short-term rentals](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments) often have a smaller *Kaution*.[^13] Some [HousingAnywhere](/out/housinganywhere) and [Spotahome](/out/spotahome) apartments have no *Kaution*.
 
 ## When to pay the Kaution
 

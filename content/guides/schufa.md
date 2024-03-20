@@ -21,7 +21,7 @@ If you are new in Germany, you might not have a Schufa score yet. Schufa has no 
 
 You might need it **to apply for an apartment** or to get a loan. Most landlords require a Schufa report.[^7] Applications without a Schufa are often ignored. Your Schufa should be less than 2 months old.[^8]
 
-Short-term apartments (from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
+Short-term apartments (from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
 
 **[Look for short-term apartments ➞](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
 

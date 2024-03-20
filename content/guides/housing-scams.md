@@ -168,7 +168,7 @@ Don't pay anything before you see the apartment in person, sign the lease and ge
 
 A scammer could show you any apartment in a video call. Even in person, they can show you an apartment that they rented for a few days.
 
-If you are not in Germany yet, try [HousingAnywhere](/out/housinganywhere). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
+If you are not in Germany, use a platform with verified landlords like [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
 
 ### Only pay by bank transfer
 

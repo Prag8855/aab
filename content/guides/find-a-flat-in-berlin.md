@@ -48,9 +48,9 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 ### Apartment search websites
 
-- **[ImmoScout24](https://www.immobilienscout24.de/)**  
+- ⭐️ **[ImmoScout24](https://www.immobilienscout24.de/)**  
     The biggest housing website. The premium account is worth it. Without it, you have no chance.[^1]
-- **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads website.
+- ⭐️ **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** - Biggest classified ads website.
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing website
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
@@ -58,11 +58,12 @@ Before you [look for apartments](#step-1-look-for-apartments), you should...
 
 ### Short-term and furnished apartments
 
-- **[HomeLike](/out/homelike)** - Shows when the *[[Anmeldung]]* is possible.
-- **[HousingAnywhere](/out/housinganywhere)**  
-    Shows when the *[[Anmeldung]]* is possible. To avoid scams, the landlord only gets paid after you move in.[^39]
+- ⭐️ **[Homelike](/out/homelike)**  
+    Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* required.[^51]
+- ⭐️ **[HousingAnywhere](/out/housinganywhere)**  
+    Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - **[Spotahome](/out/spotahome)**  
-    Landlords are verified. Listings have video tours and lots of photos.
+    *[[Anmeldung]]* not guaranteed.[^50] Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
 - **[Wunderflats](/out/wunderflats)**  
     Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required. There are scam listings, and no protection from scammers.[^18]
 - [Crocodilian](https://crocodilian.de/) - *[Anmeldung](/glossary/Schufa)* always possible.[^8]
@@ -86,7 +87,7 @@ You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day li
 
 ### [[WG]]s, flat shares and roommates
 
-- **[WG-Gesucht](https://www.wg-gesucht.de/)** - Most popular website. Very competitive.
+- ⭐️ **[WG-Gesucht](https://www.wg-gesucht.de/)** - Most popular website for flat shares. Very competitive.
 - [WG Suche](https://www.wg-suche.de/wg-zimmer/deutschland-berlin)
 
 ### Dorms and student housing
@@ -393,6 +394,8 @@ Short-term apartments have many benefits:
     You can book an apartment before you arrive in Germany. They don't ask for documents that immigrants don't have, like a *[[Schufa]]*.
 - **Less competition**  
     These apartments are overpriced, and too expensive for most people. There is less competition for them, so they are a little easier to find.
+- **No [deposit](/glossary/Kaution) required**  
+    Some furnished apartments have no deposit. You don't need thousands of euros for the deposit. You don't need to fight to get your deposit back.
 
 Some furnished apartments have a booking fee or a cleaning fee.[^4] If you rent for less than 6 months, you might pay {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer) (included in the price).[^5]
 
@@ -527,5 +530,10 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^42]: Nerea Lopez (March 2024)
 [^43]: [rbb24](https://www.rbb24.de/panorama/beitrag/2023/10/semesterstart-berlin-studierende-ohne-wohnung-universitaet.html) (2023), [Reddit](https://old.reddit.com/r/rwth/comments/15mw8d7/warteliste_studierendenwerk/)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
+[^45]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360019389160-What-is-virtual-verification) (2024)
+[^46]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360014619980-When-will-I-receive-the-first-payment) (2024)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
+[^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
+[^50]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/213013309-Is-local-registration-possible) (2024)
+[^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)

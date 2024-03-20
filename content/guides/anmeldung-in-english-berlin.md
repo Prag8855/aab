@@ -136,9 +136,9 @@ You can also [get a tax ID without registering your address](/guides/german-tax-
 
 ## If you can't register your address
 
-When you [look for an apartment](/guides/find-a-flat-in-berlin), check if they let you do your *Anmeldung*. Some places don't give you a *[[Wohnungsgeberbestätigung]]*, and don't let you register your address. This is usually illegal, but you can rarely fight it. **Find another place.** 
+When you [look for an apartment](/guides/find-a-flat-in-berlin), check if they let you do your *Anmeldung*. Some places don't give you a *[[Wohnungsgeberbestätigung]]*, and don't let you register your address. This is usually illegal, but you can rarely fight it. **Find another place.**
 
-[HomeLike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. It gives you more time to find a better, cheaper apartment.
+[Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register your address. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. That gives you more time to find a better, cheaper apartment.
 
 ### Can the landlord refuse to let me register?
 
