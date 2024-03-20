@@ -11,17 +11,17 @@ When you [move into an apartment](/guides/moving-in), you must pay a deposit (*K
 
 ## How much is the Kaution?
 
-The *[[Kaution]]* is maximum **3 times your [cold rent](/glossary/Kaltmiete)**.[^2] Short-term rentals sometimes have a smaller *Kaution*.[^13]
+The maximum *[[Kaution]]* is **3 times your [cold rent](/glossary/Kaltmiete)**.[^2] Most landlords ask for the maximum *Kaution*. [Short-term rentals](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments) often have a smaller *Kaution*.[^13]
 
 ## When to pay the Kaution
 
 You can pay your *Kaution* in 3 parts:[^17]
 
 - 1/3 before your lease starts
-- 1/3 one month after your lease starts
+- 1/3 a month after your lease starts
 - 1/3 two months after your lease starts
 
-> **Example:** Your *Kaution* is 3,000€. You move in on January 1. You must pay 1,000€ before January 1, 1,000€ before February 1, and 1,000€ before March 1.
+> **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, 1,000€ before February 1, and 1,000€ before March 1.
 
 Your lease starts when you can [move in](/guides/moving-in), not when you sign the contract.[^3]
 
@@ -31,13 +31,13 @@ Your landlord can't force you to...
 - ...pay the whole *Kaution* before you move in[^1]
 - ...pay anything before you sign a lease.[^19]
 
-Don't pay anything before you see the apartment in person. There are many fake apartment listings online. Don't pay a *Kaution* for a fake apartment.
+Don't pay the *Kaution* before you see the apartment in person. There are many fake apartment listings online. Scammers show you a fake apartment, steal your *Kaution*, and disappear.
 
-**[Common apartment scams ➞](/guides/find-a-flat-in-berlin#common-apartment-scams)**
+**[How to avoid scams ➞](/guides/housing-scams)**
 
 ## How to pay the Kaution
 
-Pay the *Kaution* **by [bank transfer](/glossary/SEPA-%C3%9Cberweisung)**. You can pay in cash, but it's not common. If you pay in cash, always ask for a proof of payment. If your landlord asks you to pay with PayPal or wire transfer, it's probably a scam.
+Pay the *Kaution* **by [bank transfer](/glossary/SEPA-%C3%9Cberweisung)**. You can pay in cash, but it's not common. If you pay in cash, always ask for a proof of payment. If your landlord asks you to pay with PayPal or wire transfer, it's probably a [scam](/guides/housing-scams).
 
 If you don't have a bank account in the [EU](/glossary/European%20Union), use [Wise](/out/transferwise) to transfer money from another country. I used it many times.
 
