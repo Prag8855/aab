@@ -15,7 +15,7 @@ This guide describes common apartment scams in Germany, and how to avoid them.
 
 The landlord says that they are in another country. To see the apartment, you must pay a deposit, and they will send you the key. The apartment does not exist. They will steal your money and disappear.[^3]
 
-Scammers often write in bad German or English. They often send a photo of their passport. They often use fake accounts that are only a few days old.
+Scammers often write in bad German or English. They might send a passport photo before you ask for it. They often use fake accounts that are only a few days old.
 
 ### Fake apartment visits
 
@@ -40,6 +40,8 @@ Furnished apartments are convenient, but usually overpriced. Sometimes, you don'
 If you rent a furnished apartment, it should actually have all the furniture you need. Some landlords include minimum furniture just to bypass rent control laws. Make sure you get all the furniture mentioned on the lease.
 
 [Rent control](/glossary/Mietpreisbremse) also applies to furnished apartments, but it's really hard to enforce. [Get legal help.](/guides/questions-about-berlin#apartment-questions)
+
+**[Find a furnished apartment ➞](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
 
 ### Temporary leases
 
