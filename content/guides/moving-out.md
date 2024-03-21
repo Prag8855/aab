@@ -207,7 +207,7 @@ If your landlord tries to scam you, get help from your [tenants' association](/g
 
 ## Get a Mietschuldenfreiheitsbescheinigung
 
-Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#step-5-apply-for-the-apartment).
+Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment).
 
 If you live in a [[WG]], you can also get a letter from your roommates to confirm that you always paid your rent on time.[^42]
 

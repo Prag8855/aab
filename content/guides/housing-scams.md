@@ -25,7 +25,7 @@ This scam is harder to avoid. Verify who really lives there. Check if their name
 
 ### Identity theft
 
-Scammers create fake apartment listings. To [apply for the apartment](/guides/find-a-flat-in-berlin#step-5-apply-for-the-apartment), you must send personal documents. They use your documents to [steal your identity](https://en.wikipedia.org/wiki/Identity_theft).[^6]
+Scammers create fake apartment listings. To [apply for the apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment), you must send personal documents. They use your documents to [steal your identity](https://en.wikipedia.org/wiki/Identity_theft).[^6]
 
 [Censor and watermark](#censor-your-documents) your documents. Don't send documents before you need to.
 

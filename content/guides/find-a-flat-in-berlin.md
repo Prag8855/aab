@@ -21,7 +21,7 @@ If you are not already in Berlin, it's almost impossible to find an apartment. [
 
 ## Before you start
 
-Before you [look for apartments](#step-1-look-for-apartments), you must...
+Before you [look for apartments](#look-for-apartments), you must...
 
 - [ ] **Know [your options](#your-housing-options)**  
     Don't waste time on apartments that you can't get. If you are new in Berlin, your have fewer housing options. If you are not yet in Berlin, a [short-term apartment](#short-term-furnished-apartment) might be your only option.
@@ -36,7 +36,7 @@ Before you [look for apartments](#step-1-look-for-apartments), you must...
 - [ ] **Prepare the [required documents](#required-documents)**  
     To apply get the apartment, you must be fast. Your documents must be ready.
 
-## Step 1: Look for apartments
+## 1. Look for apartments
 
 ### Ask everyone
 
@@ -71,14 +71,14 @@ These websites do not rent apartments directly. If you have a problem with the l
     Some landlords are verified.[^45] No *[[Anmeldung]]* filter, but most apartments allow it.[^50] To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
 - **[Wunderflats](/out/wunderflats)**  
     Landlords are verified, but people still get scammed. Wunderflats offers no protection.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
-- [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* always possible.[^8]
 - [Berlinovo](https://www.berlinovo.de/en/apartments/search)
 - [coming home](https://www.coming-home.com/)
+- [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* always possible.[^8]
 - [exBerliner](http://exflat.exberliner.com/)
+- [FarAwayHome](https://www.farawayhome.com/) - Luxury apartments
+- [Nestpick](https://www.nestpick.com/berlin/)
 - [Smartments](/out/smartments) - Business apartments
 - [White Apartments](https://white-apartments.com/)
-- [Nestpick](https://www.nestpick.com/berlin/) - Mostly listings from other websites
-- [FarAwayHome](https://www.farawayhome.com/) - Luxury apartments
 
 You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day like a hotel. You can rarely do your *[[Anmeldung]]* there.
 
@@ -88,7 +88,7 @@ You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day li
 - [Monteurzimmer.de](https://www.monteurzimmer.de/en)
 - [Wimdu](https://www.wimdu.de/)
 
-There are [hotels and hostels that let you do your *Anmeldung*](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/). This is a good option when you [move to Berlin](/guides/moving-to-berlin).
+There are also [hotels and hostels that let you do your *Anmeldung*](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/).
 
 ### [[WG]]s, flat shares and roommates
 
@@ -160,7 +160,7 @@ To get an apartment, you must be fast. Tools help you find apartments and messag
 
 ![Facebook group notifications 2](/images/facebook-group-notifications-2.png)
 
-## Step 2: Choose apartments to visit
+## 2. Choose apartments to visit
 
 In Berlin, **you can't be picky**, but you can be careful. If you choose the wrong place, it hurts for a long time.
 
@@ -180,7 +180,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
     - **Kitchen**  
         Is the kitchen (counter, sink, stove, fridge) included? Apartments *mit [[Einbauküche]]* include a kitchen. Sometimes, you must buy the kitchen from the previous tenant at a ridiculous price. [It's a common scam.](/guides/housing-scams#buy-the-furniture-to-get-the-flat)
 - [ ] **How is the housing company?**  
-    Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). Some are known for scamming tenants.
+    Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). You might find a really bad landlord or a [housing scam](/guides/housing-scams).
 - [ ] **Neubau or Altbau?**  
     New buildings (*Neubau*) are often quieter and better insulated. They have concrete walls and floors. You hear your neighbours less. Old buildings (*Altbau*) often look nicer: high ceilings, hardwood floors, and a lot more charm.
 - [ ] **Which floor?**
@@ -199,7 +199,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 - [ ] **Internet access**  
     Some buildings can't get a fast internet connection. Use [this tool](https://www.check24.de/dsl/verfuegbarkeit/) to see your internet options.
 - [ ] **Pets**  
-    Are pets allowed in this apartment? Most apartment listings show this information.
+    Are pets allowed? Cats are usually allowed, but not dogs.
 - [ ] **Amenities**  
     In general, German apartment buildings don't have a pool or a gym. Some might have a shared garden or bicycle storage.
 
@@ -222,7 +222,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 
 [![Berlin tram lines](/images/berlin-tram-lines.png "If you live next to a tram line, you hear trams all day. They are very loud.")](/images/berlin-tram-lines.png)
 
-## Step 3: Contact the landlord
+## 3. Contact the landlord
 
 When you find an apartment you like, contact the landlord and ask to visit the apartment. Do not wait.
 
@@ -239,9 +239,9 @@ In your message, include...[^30]
 - [ ] A photo of you (optional, but it helps)[^31]
 - [ ] Anything that shows that you have [what landlords want](#what-landlords-want)
 
-Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to translate your message.
+Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to translate your message. Use the [example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application) from WG-Gesucht.
 
-**[Example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application)** - WG-Gesucht
+Do not include your documents yet. Only send your documents when you apply for the apartment.
 
 To improve your chances...
 
@@ -297,7 +297,7 @@ Landlords often avoid...
 - Students
 - [Dog owners](/guides/dog-ownership#finding-an-apartment-with-a-dog)
 
-## Step 4: Visit the apartment
+## 4. Visit the apartment
 
 If you are lucky, you will get invited to an apartment visit. Arrive early. Bring all the [required documents](#required-documents). You can usually apply for the apartment at the end of the visit.
 
@@ -335,7 +335,7 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 - **Don't negotiate**  
     The rent is not negotiable. There are dozens of other candidates. The price will not go down.
 
-## Step 5: Apply for the apartment
+## 5. Apply for the apartment
 
 If you like the apartment, apply for it as soon as you can. Prepare the [required documents](#required-documents) in advance.
 
@@ -369,11 +369,11 @@ To apply for an apartment, you need these documents:[^19]
 
 Identity theft is a big risk. To protect yourself, [censor your documents](/guides/housing-scams#censor-your-documents) before you send them.
 
-## Step 6: Sign the lease and move in
+## 6. Sign the lease and move in
 
 If the landlord chooses you, they will ask for your documents.
 
-You will sign a lease, pay the deposit, get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
+You will sign a lease, pay the [deposit](/glossary/Kaution), get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
 
 **[How to move out ➞](/guides/moving-out)**
 
@@ -389,7 +389,7 @@ Regular apartments are a good **long-term solution**, because the rent is cheape
 
 A regular apartment is cheaper in the long term. Your rent is lower, because you don't rent the furniture with it.
 
-**[Look for regular apartments ↑](#step-1-look-for-apartments)**
+**[Look for regular apartments ↑](#look-for-apartments)**
 
 ### Short-term, furnished apartment
 
@@ -548,7 +548,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^39]: [HousingAnywhere](https://answers.housinganywhere.com/en/articles/2498908-how-can-i-be-sure-a-listing-is-real-and-protect-myself-from-scammers), [HousingAnywhere](https://housinganywhere.com/pricing/tenants)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
-[^42]: Nerea Lopez (March 2024)
+[^42]: Nerea Lopez (March 2024), [Reddit](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/ja2ahd2/) (2023)
 [^43]: [rbb24](https://www.rbb24.de/panorama/beitrag/2023/10/semesterstart-berlin-studierende-ohne-wohnung-universitaet.html) (2023), [Reddit](https://old.reddit.com/r/rwth/comments/15mw8d7/warteliste_studierendenwerk/)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^45]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360019389160-What-is-virtual-verification) (2024)
