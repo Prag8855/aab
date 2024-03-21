@@ -26,17 +26,15 @@ Before you [look for apartments](#step-1-look-for-apartments), you must...
 - [ ] **Know [your options](#your-housing-options)**  
     Don't waste time on apartments that you can't get. If you are new in Berlin, your have fewer housing options. If you are not yet in Berlin, a [short-term apartment](#short-term-furnished-apartment) might be your only option.
 - [ ] **Save money**  
-    You need enough money for the [deposit](/glossary/Kaution) and the first month of rent. You must also buy furniture, appliances, and house supplies. You might need an expensive short-term apartment for a few months.
+    You need enough money for the [deposit](/glossary/Kaution) and the first month of rent. You must also buy furniture, appliances, and house supplies.
 - [ ] **Understand [how housing works](#important-knowledge) in Germany**  
-    If you come from another country, there are little differences that you must understand.
+    If you are new in Germany, there are little differences that you must know about.
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
     Germans pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), so you need a bank account. You can also transfer money from another country with [Wise](/out/transferwise).
 - [ ] **Create accounts on housing websites**  
-    Create detailed profiles on [ImmoScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/). You will need them to create alerts and apply for apartments. A detailed profile improves your chances.[^27]
+    Create [ImmoScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/) profiles. A detailed profile improves your chances.[^27]
 - [ ] **Prepare the [required documents](#required-documents)**  
-    To apply for an apartment, you must have all the required documents. Speed is important.
-- [ ] **Make time**  
-    You need a lot of time to write to landlords and visit apartments. It's like a part time job.
+    To apply get the apartment, you must be fast. Your documents must be ready.
 
 ## Step 1: Look for apartments
 
@@ -56,7 +54,7 @@ People often find an apartment through friends.[^21] Most apartments are never l
 - **[ImmoScout24](https://www.immobilienscout24.de/)** ⭐️  
     The biggest housing website. It's very competitive. You might send hundreds of messages and never get a reply. The premium account is worth it. Without it, you have no chance.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** ⭐️ - Biggest classified ads website.
-- **[Immowelt](https://www.immowelt.de/)** - Second biggest apartment listing website
+- **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
 - [Wohnungsbörse](https://www.wohnungsboerse.net/)
@@ -144,7 +142,8 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
 
 - **[BerlinRelo](https://www.berlinrelo.de/)** - Graham is really good at his job. He accepts a small number of customers, and guarantees results.
-- [HomeSK](https://www.homesk.de/Search) - Very expensive apartments.
+- [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) 
+- [HomeSK](https://www.homesk.de/Search) - Very expensive
 
 ### Bots and automation
 
@@ -507,7 +506,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/), [Get The Flat](https://gettheflat.com/) (March 2024)
+[^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/), [5](https://old.reddit.com/r/berlin/comments/13dn8ow/its_done/), [Get The Flat](https://gettheflat.com/) (March 2024)
 [^1]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
 [^2]: [Fiona Macdonald, immigration lawyer](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
