@@ -137,9 +137,7 @@ Be careful. There are a lot of [housing scams](/guides/housing-scams) on Faceboo
 
 ### Real estate agents
 
-An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23]
-
-Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
+An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
 
 - **[BerlinRelo](https://www.berlinrelo.de/)** - Graham is really good at his job. He accepts a small number of customers, and guarantees results.
 - [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) 
@@ -174,22 +172,19 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 - [ ] **Is the lease unlimited?**  
     Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Short-term leases are often illegal](/guides/housing-scams#temporary-leases).
 - [ ] **What is included?**  
-    Most apartments come with nothing. No furniture, appliances, curtains or light fixtures. [[WG]]s might come with most of what you need. Furnished apartments come with everything, but they are expensive.
+    Most apartments come empty. No furniture, appliances, curtains or light fixtures. [[WG]]s might come with most of what you need. Furnished apartments come with everything, but they are expensive.
     - **Electricity**  
         Is hot water included in your warm rent? If the building has central water heating, it's usually included in your *[[Nebenkosten]]*. If the apartment has a [tankless water heater](https://en.wikipedia.org/wiki/Tankless_water_heating) (*Durchlauferhitzer*), hot water is not included.[^3] Your *Nebenkosten* are lower, but your electric bills are higher.
     - **Kitchen**  
         Is the kitchen (counter, sink, stove, fridge) included? Apartments *mit [[Einbauküche]]* include a kitchen. Sometimes, you must buy the kitchen from the previous tenant at a ridiculous price. [It's a common scam.](/guides/housing-scams#buy-the-furniture-to-get-the-flat)
 - [ ] **How is the housing company?**  
-    Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). You might find a really bad landlord or a [housing scam](/guides/housing-scams).
+    Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). It could be a really bad landlord or a [housing scam](/guides/housing-scams).
 - [ ] **Neubau or Altbau?**  
-    New buildings (*Neubau*) are often quieter and better insulated. They have concrete walls and floors. You hear your neighbours less. Old buildings (*Altbau*) often look nicer: high ceilings, hardwood floors, and a lot more charm.
+    New buildings (*Neubau*) are usually quieter and better insulated. They have concrete walls and floors. Old buildings (*Altbau*) have more charm with their high ceilings and hardwood floors.
 - [ ] **Which floor?**
-    - **Top floor**  
-        These apartments are quieter; you hear traffic, and there are no neighbours above you. They get more sunlight. They are hotter in the summer, especially old apartments with bad insulation.[^12] Ask if they improved the insulation in the recent years. If you live in the attic (*Dachgeschoß*), the walls are at an angle, so the apartment can feel smaller.
-    - **Upper floors**  
-        These apartments get more sunlight. There is less traffic noise. Check if there is an elevator.
-    - **Lower floors, ground floor**  
-        Lower floors are darker and louder. Break-ins can happen. Neighbours can see inside your apartment.[^13] Some ground floor apartments have a garden.
+    - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Ask if they improved the insulation in the recent years. Attic apartments (*Dachgeschosswohnung*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
+    - **Upper floor apartments** get more sunlight. There is less traffic noise. Check if there is an elevator.
+    - **Lower floors and ground floor appartments** are darker and louder. Break-ins can happen. Neighbours can see inside your apartment.[^13] Some ground floor apartments have a garden.
 - [ ] **Street or courtyard?**  
     Which side is the apartment on? On the street side, you hear traffic more. On the courtyard side, you hear other neighbours more. The courtyard side gets less sun.
 - [ ] **Storage and parking**  
