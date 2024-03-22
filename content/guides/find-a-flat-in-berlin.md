@@ -71,13 +71,13 @@ These websites do not rent apartments directly. If you have a problem with the l
     Some landlords are verified.[^45] No *[[Anmeldung]]* filter, but most apartments allow it (under *House Rules*).[^50] To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
 - **[Wunderflats](/out/wunderflats)**  
     Landlords are verified, but people still get scammed. Wunderflats offers no protection.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
-- [Berlinovo](https://www.berlinovo.de/en/apartments/search)
+- [Smartments](/out/smartments) - *[[Anmeldung]]* possible
+- [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible
+- [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible.[^8]
+- [The Base](https://www.jointhebase.co/berlin) - *[[Anmeldung]]* possible if you stay over 1 month
 - [coming home](https://www.coming-home.com/)
-- [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* always possible.[^8]
-- [exBerliner](http://exflat.exberliner.com/)
-- [FarAwayHome](https://www.farawayhome.com/) - Luxury apartments
+- [FarAwayHome](https://www.farawayhome.com/)
 - [Nestpick](https://www.nestpick.com/berlin/)
-- [Smartments](/out/smartments) - Business apartments
 - [White Apartments](https://white-apartments.com/)
 
 You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day like a hotel. You can rarely do your *[[Anmeldung]]* there.
@@ -101,6 +101,7 @@ There are also [hotels and hostels that let you do your *Anmeldung*](https://nom
 - **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** - Affordable student housing. There are long waiting lists.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. Very expensive.
+- [Berlinovo](https://www.berlinovo.de/en/apartments/search) - They have some student housing
 
 ### Housing companies
 
@@ -141,6 +142,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 
 - **[BerlinRelo](https://www.berlinrelo.de/)** - For long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
 - [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) - Short-term and long-term apartments. They improve your chances a lot, but they can't guarantee you an apartment.
+- [exBerliner](http://exflat.exberliner.com/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
 ### Bots and automation
@@ -148,7 +150,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 To get an apartment, you must be fast. Tools help you find apartments and message landlords first.
 
 - **Apartment bots**  
-    Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot) and [Flathunters](https://flathunter.codders.io/). You get a notification when there are new apartments.
+    Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot), [Flathunters](https://flathunter.codders.io/) and [Homeboy](https://www.homeboy.immo/en). You get a notification when there are new apartments.
 - **Automatic messaging**  
     [Get The Flat](https://gettheflat.com/) automatically writes to the landlord when it finds apartments that fit your needs. It's expensive.
 - **Alerts and push notifications**  
