@@ -37,7 +37,7 @@ To get a Blue Card, you need...[^18]
     - [ ] **A German employer**  
         You must work for a German employer, or an employer with an office in Germany.[^30] It can be a remote job. You must be an employee, not a freelancer.
     - [ ] **A high salary**  
-        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/pdf-engpassberufe-en), your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32]
+        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/pdf-engpassberufe-en), your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32] Your salary must cover the cost of living for you and your family.
     - [ ] **A long term contract**  
         Your job contract must be for at least 6 months.[^24]
 - [ ] **Qualifications for this job**  
@@ -127,7 +127,7 @@ Before you apply for the Blue Card, you must...
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address).
-    - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
+    - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)

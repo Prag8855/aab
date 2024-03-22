@@ -125,7 +125,7 @@ Before you apply for the work visa, you must...
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address).
-    - [ ] Your apartment must be affordable. Your rent can't be higher than your income.
+    - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
