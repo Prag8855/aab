@@ -52,7 +52,7 @@ People often find an apartment through friends.[^21] Most apartments are never l
 ### Apartment search websites
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)** ⭐️  
-    The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. The premium account is worth it. Without it, you have no chance.[^1]
+    The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. The premium account is worth it. Without it, it's almost impossible to find an apartment.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** ⭐️ - Biggest classified ads website.
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
 - [Immonet](https://www.immonet.de/)
@@ -64,11 +64,11 @@ People often find an apartment through friends.[^21] Most apartments are never l
 These websites do not rent apartments directly. If you have a problem with the landlord, they might not help you.
 
 -  **[Homelike](/out/homelike)** ⭐️  
-    Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* required.[^51]
+    Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* required.[^51] Preferred by relocation consultants.
 -  **[HousingAnywhere](/out/housinganywhere)** ⭐️  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - **[Spotahome](/out/spotahome)**  
-    Some landlords are verified.[^45] No *[[Anmeldung]]* filter, but most apartments allow it.[^50] To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
+    Some landlords are verified.[^45] No *[[Anmeldung]]* filter, but most apartments allow it (under *House Rules*).[^50] To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
 - **[Wunderflats](/out/wunderflats)**  
     Landlords are verified, but people still get scammed. Wunderflats offers no protection.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
 - [Berlinovo](https://www.berlinovo.de/en/apartments/search)
@@ -139,9 +139,9 @@ Be careful. There are a lot of [housing scams](/guides/housing-scams) on Faceboo
 
 An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
 
-- **[BerlinRelo](https://www.berlinrelo.de/)** - Graham is really good at his job. He accepts a small number of customers, and guarantees results.
-- [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) 
-- [HomeSK](https://www.homesk.de/Search) - Very expensive
+- **[BerlinRelo](https://www.berlinrelo.de/)** - For long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
+- [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) - Short-term and long-term apartments. They improve your chances a lot, but they can't guarantee you an apartment.
+- [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
 ### Bots and automation
 
@@ -160,7 +160,7 @@ To get an apartment, you must be fast. Tools help you find apartments and messag
 
 ## 2. Choose apartments to visit
 
-In Berlin, **you can't be picky**, but you can be careful. If you choose the wrong place, it hurts for a long time.
+In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housing-scams) and bad apartments.
 
 ### Apartment checklist
 
@@ -221,7 +221,7 @@ In Berlin, **you can't be picky**, but you can be careful. If you choose the wro
 
 When you find an apartment you like, contact the landlord and ask to visit the apartment. Do not wait.
 
-In your message, include...[^30]
+Write a short message that includes...[^30]
 
 - [ ] Your occupation ⭐️
 - [ ] Your salary ⭐️
@@ -232,16 +232,18 @@ In your message, include...[^30]
 - [ ] Who will move in with you
 - [ ] A personal introduction
 - [ ] A photo of you (optional, but it helps)[^31]
-- [ ] Anything that shows that you have [what landlords want](#what-landlords-want)
+- [ ] Anything that [landlords want](#what-landlords-want)
 
 Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to translate your message. Use the [example messages](https://www.wg-gesucht.de/artikel/accommodation-search-example-of-a-successful-flat-application) from WG-Gesucht.
 
-Do not include your documents yet. Only send your documents when you apply for the apartment.
+Do not send all your documents yet. It just annoys landlords.[^52]
 
 To improve your chances...
 
 - **Be fast**  
-    If you like an apartment, do not wait. Landlords get hundreds of messages per hour.[^22] Most apartment listings disappear after a few minutes.[^26] Use [bots, notifications and message templates](#bots-and-automation) to be the fastest to apply . ImmoScout24 Premium lets you message landlords before others.[^33]
+    If you like an apartment, do not wait. Landlords get hundreds of messages per hour.[^22] Most apartment listings disappear after a few minutes.[^26] Use [bots, notifications and message templates](#bots-and-automation) to be the fastest to apply . Get ImmoScout24 Premium to message landlords before others.[^33]
+- **Don't be picky**  
+    You probably won't get a cheap apartment in a good neighbourhood. Be ready to take what you find. If you are a recent immigrant, [your options](#your-housing-options) are very limited.
 - **Send a lot of messages**  
     You might need to send hundreds of messages. Searching for an apartment is a full time job. It can take months.
 - **Be prepared**  
@@ -250,8 +252,8 @@ To improve your chances...
     Most landlords prefer emails, but some prefer calls.[^35] Try both.
 - **Have a detailed profile**  
     Create a detailed profile on ImmoScout24 and other websites. When you message a landlord, include all the important information. The first impression is important.
-- **Don't be picky**  
-    You probably won't get a cheap apartment in a good neighbourhood. Be ready to take what you find. If you are a recent immigrant, you don't have many options.
+- **Be brief**  
+    Don't make landlords read. Write message short and simple messages. Only send the important parts of your documents.
 
 ### What landlords want
 
@@ -332,7 +334,7 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 
 ## 5. Apply for the apartment
 
-If you like the apartment, apply for it as soon as you can. Prepare the [required documents](#required-documents) in advance.
+If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents).
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
 
@@ -343,13 +345,13 @@ To apply for an apartment, you need these documents:[^19]
 - [ ] **[[Schufa]] report**  
     You can [get one for free](/guides/schufa). If you can't get a Schufa, bring a work contract or a [tax return](/glossary/Steuerbescheid) to prove your income. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
 - [ ] **Passport or [[Personalausweis]]**
-- [ ] **Proof of income**  
-    There are many ways to prove your income:
-    - [ ] Work contract
-    - [ ] Last 3 payslips
-    - [ ] Profit and loss statement (if self-employed)
-    - [ ] Last [tax statement](/glossary/Steuerbescheid)
-    - [ ] Bank account statement, but landlords trust them less[^38]
+- [ ] **Proof of income** (*Einkommensnachweis*)
+    - **If you are an employee**  
+        Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
+    - **If you are self-employed**  
+        Bring a profit and loss statement stamped by your [tax advisor](/glossary/Steuerberater), or a recent *[[Steuerbescheid]]*. A *betriebswirtschaftliche Auswertung* also works. Bank account statements help, but landlords trust them less.[^38]
+    - **If you are a student**  
+        Bring a *[[Mietbürgschaft]]*, and proof of your guarantor's income.[^5]
 - [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
     This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It does not have a standard format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). You can also use bank statements to show that you pay rent every month.[^47]
 - [ ] **[[Mietbürgschaft]]** (optional)  
@@ -361,6 +363,8 @@ To apply for an apartment, you need these documents:[^19]
 - [ ] **Pen**
 
 **Combine your documents** into one PDF. Landlords prefer that.[^42] Use a [PDF merging tool](https://www.adobe.com/acrobat/online/merge-pdf.html).
+
+Make your documents easy to read. Remove the useless parts, and highlight the important parts. Make it easy for the landlord; it improves your chances.[^4]
 
 Identity theft is a big risk. To protect yourself, [censor your documents](/guides/housing-scams#censor-your-documents) before you send them.
 
@@ -497,11 +501,11 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/), [5](https://old.reddit.com/r/berlin/comments/13dn8ow/its_done/), [Get The Flat](https://gettheflat.com/) (March 2024)
-[^1]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
+[^1]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
 [^2]: [Fiona Macdonald, immigration lawyer](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024), [Christine Gerkrath, relocation consultant](https://www.moveto-berlin.com/en/) (March 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
-[^4]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054566), [housinganywhere.com](https://housinganywhere.com/pricing/tenants)
-[^5]: [deutschesmietrecht.de](https://deutschesmietrecht.de/steuern/365-untervermietung-steuern-freigrenzen-steuerhinterziehung.html#:~:text=umsatzsteuer%20bei%20kurzfristiger%20oder%20langfristiger%20vermietung), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/steuerbefreiung-bei-vermietungsleistungen-zu-4-nr12-ustg_idesk_PI20354_HI9097997.html)
+[^4]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^5]: [Suat Göydeniz](https://stb-goeydeniz.de/), tax advisor and landlord (March 2024)
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pljlpm/finding_wg_room_has_become_a_tinder_game/)
 [^7]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6bfba/room_for_incoming_student/)
 [^8]: [crocodilian.de](https://crocodilian.de/short-term-rental-blog/documents-for-anmeldung/#:~:text=if%20you%20rent%20with%20crocodilian%2C%20you%20always%20get%20the%20wohnungsgeberbestatigung)
@@ -538,7 +542,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^39]: [HousingAnywhere](https://answers.housinganywhere.com/en/articles/2498908-how-can-i-be-sure-a-listing-is-real-and-protect-myself-from-scammers), [HousingAnywhere](https://housinganywhere.com/pricing/tenants)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
-[^42]: Nerea Lopez (March 2024), [Reddit](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/ja2ahd2/) (2023)
+[^42]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), Nerea Lopez (March 2024), [Reddit](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/ja2ahd2/) (2023)
 [^43]: [rbb24](https://www.rbb24.de/panorama/beitrag/2023/10/semesterstart-berlin-studierende-ohne-wohnung-universitaet.html) (2023), [Reddit](https://old.reddit.com/r/rwth/comments/15mw8d7/warteliste_studierendenwerk/)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^45]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360019389160-What-is-virtual-verification) (2024)
@@ -548,3 +552,4 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
 [^50]: Spotahome employee (March 2024), [Spotahome](https://help.spotahome.com/hc/en-us/articles/213013309-Is-local-registration-possible) (2024)
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
+[^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
