@@ -7,7 +7,7 @@ Date_created: 2020-07-29
 
 Berlin has [rent control laws](/glossary/Mietpreisbremse). If your rent is too high, you can get it reduced.
 
-[Conny](/out/conny) helps people reduce their rents, and sue their landlord if necessary. You only pay them if they reduce their rent.
+[Conny](/out/conny) helps people reduce their rents, and sue their landlord if necessary. You only pay them if they reduce your rent.
 
 In this guide, I review their business model, their success rate, and their user reviews.
 
