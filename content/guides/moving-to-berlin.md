@@ -15,6 +15,8 @@ Before you move to Germany, you might need a [residence permit](/glossary/Aufent
 
 To get a residence permit, you usually need a job offer, [health insurance](/glossary/Krankenversicherung), and a place to live. The first step is to [find a job](/guides/find-a-job-in-berlin), then [an apartment](/guides/find-a-flat-in-berlin) and [health insurance](/guides/german-health-insurance).
 
+Finding an apartment is usually the hardest step. If you are not yet in Berlin, you don't have many options. You might need expensive short-term housing.
+
 Moving to Germany costs a lot of money. You need savings. Your employer might offer a relocation bonus, or pay some of your relocation costs.
 
 After you arrive in Germany, you need a [bank account](/guides/first-bank-account-in-germany) and a SIM card for your phone. When you move into your apartment, you must [register your address](/guides/anmeldung-in-english-berlin).
@@ -55,6 +57,8 @@ You don't need to speak German to work in Berlin, but it really helps. There are
 It's *really* hard to find an apartment in Berlin. It's harder if you are not in Berlin, you don't have a stable job, and you don't speak German. Start looking as soon as you can.
 
 **[How to find an apartment in Berlin ➞](/guides/find-a-flat-in-berlin)**
+
+The best option is to get a temporary furnished apartment, come to Berlin, then look for something better. It's almost impossible to find a good apartment if you are not in Berlin.
 
 Before you [move in](/guides/moving-in), you must pay the first month's rent, and the deposit (*[[Kaution]]*). In Germany, you pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/first-bank-account-in-germany), or use [Wise](/out/transferwise) to send money from another country.
 
