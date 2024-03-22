@@ -145,7 +145,6 @@ Ask the people you know: friends, colleagues, classmates... Many people find an 
 - [coming home](https://www.coming-home.com/)
 - [exBerliner](http://exflat.exberliner.com/)
 - [Smartments](/out/smartments) - Business apartments
-- [White Apartments](https://white-apartments.com/)
 - [Nestpick](https://www.nestpick.com/berlin/) - Mostly listings from other websites
 - [FarAwayHome](https://www.farawayhome.com/) - Luxury apartments
 
