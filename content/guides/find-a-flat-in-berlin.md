@@ -43,9 +43,9 @@ Before you [look for apartments](#look-for-apartments), you must...
 People often find an apartment through friends.[^21] Most apartments are never listed online.
 
 - **Tell everyone you know**  
-    Ask you friends, family, colleagues and classmates to help you find a place.
+    You friends, family, colleagues or classmates might know someone who has a place to rent.
 - **Ask your [[Hausverwaltung]]**  
-    They might have other apartments. They might put you on a waiting list.
+    They might have other apartments to rent. They might put you on a waiting list.
 - **Get help from your university**  
     They have help clinics and a board with apartment listings.[^7] Join the waiting list for [student housing](#student-housing).
 
@@ -57,6 +57,7 @@ People often find an apartment through friends.[^21] Most apartments are never l
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
+- [meinestadt.de](https://www.meinestadt.de/berlin/immobilien/wohnungen)
 - [Wohnungsbörse](https://www.wohnungsboerse.net/)
 
 ### Short-term and furnished apartments
@@ -300,7 +301,7 @@ Landlords often avoid...
 
 If you are lucky, you will get invited to an apartment visit. Arrive early. Bring all the [required documents](#required-documents). You can usually apply for the apartment at the end of the visit.
 
-It can be a private visit (just you), or an open visit (many other people). Do not go to mass viewings with more than 40 people. They are a waste of time.[^20]
+It can be a private viewing (just you) or an open viewing (many other people). Viewings with more than 40 people are usually a waste of time.[^20]
 
 ### Apartment visit checklist
 
@@ -326,7 +327,7 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 - **Dress well**  
     Make a good impression. You don't need a suit, just clean clothes, clean shoes, and socks without holes.[^11]
 - **Be on time**  
-    Arrive a little early. You will have more time to find the place and meet the landlord. If you are late, message the landlord as soon as possible.[^28]
+    Arrive a little early. You will have more time to find the place and meet the landlord. If you are late, tell the landlord as soon as you can.[^28]
 - **Be pleasant**  
     Be polite and friendly. Greet the landlord or the agent. Speak German if you can.
 - **Don't complain**  

@@ -121,6 +121,14 @@ Berlin has [rent control laws](/glossary/Mietpreisbremse). Ask [Conny](/out/conn
 
 When you [move in](/guides/moving-in), try to get the last tenant's lease. It really helps to lower your rent.
 
+### Eigenbedarf
+
+Landlords need a valid reason to end your lease and kick you out. If they need the apartment for their family or themselves, they can kick you out. This is called *Eigenbedarf*.[^45]
+
+Landlords often use *Eigenbedarf* to kick you out, but never move in. Instead, they sell the empty apartment for a higher price, or raise the rent and find another tenant.[^46]
+
+If this happens to you, [get legal help](/guides/questions-about-berlin#apartment-questions). You can usually stop or delay it.
+
 ### Landlord does not return deposit
 
 After you [move out](/guides/moving-out), the landlord must return your [deposit](/glossary/Kaution). It can take a few months. Landlords often try to keep your deposit for illegal reasons.
@@ -236,3 +244,5 @@ Report the scam to the website it's on. The scammers did not get you, but they c
 [^42]: [Test.de](https://www.test.de/Mietkaution-So-locken-Betrueger-Mietinteressierte-in-die-Falle-5549421-5549426/#:~:text=leisten%20sie%20niemals%20voraus%C2%ADzahlungen)
 [^43]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_2_Rental_Costs_Are_Too_Round)
 [^44]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/mieturteile/03303.htm), [Court ruling](https://lexetius.com/2010,6022) (2010), [Reddit](https://old.reddit.com/r/germany/comments/1b42zsk/wunderflats_asking_service_fee_for_cancelled/ksx1zv7/) (2024)
+[^45]: [§573 BGB](https://www.gesetze-im-internet.de/bgb/__573.html)
+[^46]: [rbb24](https://www.rbb-online.de/fernsehen/programm/09_04_2024/1946740.html#:~:text=%20dass%20die%20zahl%20der%20beratungen%20im%20fall%20von%20eigenbedarfskundigung%20deutlich%20steigt) (April 2024), [rbb24](https://www.rbb24.de/wirtschaft/beitrag/2023/08/berlin-wohnen-kuendigung-eigenbedarf-mieter-vermieter-haertefall.html) (August 2023)
