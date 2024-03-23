@@ -13,9 +13,9 @@ This guide helps you find a place to live when you [move to Berlin](/guides/movi
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). It can take months and hundreds of messages.[^0] It's much harder for recent immigrants. You might need to live in temporary places until you find a home. It can be hard on your mental health.
+**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might need to live in temporary places until you find a home.
 
-If you are not in Berlin yet, it's almost impossible to find an apartment. [Short-term housing](#short-term-furnished-apartment) might be your only option.
+If you are not in Berlin yet, it's almost impossible. You must get [short-term housing](#short-term-housing), move to Berlin, then look for a better place.
 
 **[Your housing options ↓](#your-housing-options)**
 
@@ -24,26 +24,25 @@ If you are not in Berlin yet, it's almost impossible to find an apartment. [Shor
 Before you [look for apartments](#look-for-apartments), you must...
 
 - [ ] **Know [your options](#your-housing-options)**  
-    Don't waste time on apartments that you can't get. If you are new in Berlin, your have fewer housing options. If you are not yet in Berlin, a [short-term apartment](#short-term-furnished-apartment) might be your only option.
+    Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
 - [ ] **Save money**  
     You need enough money for the [deposit](/glossary/Kaution) and the first month of rent. You must also buy furniture, appliances, and house supplies.
 - [ ] **Understand [how housing works](#important-knowledge) in Germany**  
     If you are new in Germany, there are little differences that you must know about.
-- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
-    Germans pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), so you need a bank account. You can also transfer money from another country with [Wise](/out/transferwise).
+- [ ] **Prepare the [required documents](#required-documents)**
 - [ ] **Create accounts on housing websites**  
     Create [ImmoScout24](https://www.immobilienscout24.de/), [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/berlin/) and [WG-Gesucht](https://www.wg-gesucht.de/) profiles. A detailed profile improves your chances.[^27]
-- [ ] **Prepare the [required documents](#required-documents)**  
-    To apply get the apartment, you must be fast. Your documents must be ready.
+- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
+    Germans pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), so you need a bank account. Use [Wise](/out/transferwise) to transfer money from another country.
 
 ## 1. Look for apartments
 
 ### Ask everyone
 
-People often find an apartment through friends.[^21] Most apartments are never listed online.
+People often find an apartment through friends.[^21] Many apartments are never listed online.
 
 - **Tell everyone you know**  
-    You friends, family, colleagues or classmates might know someone who has a place to rent.
+    You friends, family, colleagues or classmates might know someone who has a place to rent. They might host you for a few weeks.
 - **Ask your [[Hausverwaltung]]**  
     They might have other apartments to rent. They might put you on a waiting list.
 - **Get help from your university**  
@@ -81,7 +80,7 @@ These websites do not rent apartments directly. If you have a problem with the l
 - [Nestpick](https://www.nestpick.com/berlin/)
 - [White Apartments](https://white-apartments.com/)
 
-You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day like a hotel. You can rarely do your *[[Anmeldung]]* there.
+You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day, like a hotel. You can rarely do your *[[Anmeldung]]* there.
 
 - **[Airbnb](https://www.airbnb.com/)**
 - [9flats](https://www.9flats.com/de/berlin-deutschland)
@@ -99,7 +98,8 @@ There are also [hotels and hostels that let you do your *Anmeldung*](https://nom
 
 ### Dorms and student housing
 
-- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** - Affordable student housing. There are long waiting lists.
+- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** ⭐️  
+    Affordable student housing. There are long waiting lists.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. Very expensive.
 - [Berlinovo](https://www.berlinovo.de/en/apartments/search) - They have some student housing
@@ -117,49 +117,47 @@ There are also [hotels and hostels that let you do your *Anmeldung*](https://nom
 
 ### Facebook groups
 
-Be careful. There are a lot of [housing scams](/guides/housing-scams) on Facebook.
+Be careful. There are a lot of [scams](/guides/housing-scams) on Facebook.
 
-- [Berlin Apartments](https://www.facebook.com/groups/183048595060764/) - 110,000+ members
-- [Flats in Berlin](https://www.facebook.com/groups/393237407451209/) - 100,000+ members
-- [WG, Zimmer und Wohnung in Berlin](https://www.facebook.com/groups/easy.wg/) - 100,000+ members
-- [Berlin Housing (Nestpick)](https://www.facebook.com/groups/316886635183491/) - 55,000+ members
-- [Berlin WG, Zimmer, Wohnung](https://www.facebook.com/groups/flatmate.berlin/) - 54,000+ members
-- [Berliner Wohnungsbörse](https://www.facebook.com/groups/547530108636607/) - 50,000+ members
-- [Berlin Housing](https://www.facebook.com/groups/156793591673300/) - 50,000+ members
-- [Berlin apartments & rooms for rent ](https://www.facebook.com/groups/307681233184179/)- 35,000+ members
-- [Wohnungen Berlin und Umgebung](https://www.facebook.com/groups/775519839130669/) - 28,000+ members
-- [Zimmer in Berlin, Zwischenmiete](https://www.facebook.com/groups/251856141592447/) - 25,000+ members
-- [Berlin startup flats](https://www.facebook.com/groups/666822796665326/) - 20,000+ members
-- [Berlin rooms and flats to rent](https://www.facebook.com/groups/berlinrooms/) - 19,000+ members
-- [Roomigo](https://www.facebook.com/groups/BerlinRoomies/) - 18,000+ members
-- [Temporary flat rentals in Berlin](https://www.facebook.com/groups/890919300923458/) - 15,000+ members
-- [Berlin LONG TERM flats](https://www.facebook.com/groups/692914578117333/) - 10,000+ members
-- [Berlin LONG TERM rooms/flats](https://www.facebook.com/groups/212595059151674/) - 10,000+ members
-- [Queer housing Berlin](https://www.facebook.com/groups/246356795796053/) - 10,000+ members
+- [WG, Zimmer und Wohnung in Berlin](https://www.facebook.com/groups/easy.wg/) - 125,000+ members, run by miettraum.com
+- [Berlin Housing](https://www.facebook.com/groups/316886635183491/) - 125,000+ members, run by Nestpick
+- [Flats in Berlin](https://www.facebook.com/groups/393237407451209/) - 120,000+ members
+- [Berlin WG, Zimmer, Wohnung](https://www.facebook.com/groups/flatmate.berlin/) - 65,000+ members
+- [Freie Wohnung / WG in Berlin](https://www.facebook.com/groups/567947953673046/) - 80,000+ members
+- [Berlin apartments & rooms for rent ](https://www.facebook.com/groups/307681233184179/)- 75,000+ members
+- [Wohnungssuche&Angebote Berlin](https://www.facebook.com/groups/420217034693983/) - 70,000+ members
+- [Wohnung in Berlin WG Zimmer](https://www.facebook.com/groups/berlin.flat/) - 35,000+ members
+- [Berlin LONG TERM flats](https://www.facebook.com/groups/692914578117333/) - 30,000+ members
+- [Wohnung/WG in Berlin gesucht](https://www.facebook.com/groups/100980936759658/) - 25,000+ members
+- [Berlin rooms and flats to rent](https://www.facebook.com/groups/berlinrooms/) - 21,000+ members, run by [Spotahome](/out/spotahome)
+- [Queer housing Berlin](https://www.facebook.com/groups/246356795796053/) - 15,000+ members
+
+Turn on push notifications for the Facebook groups that you follow.
+
+![Facebook group notifications 1](/images/facebook-group-notifications-1.png)
+
+![Facebook group notifications 2](/images/facebook-group-notifications-2.png)
 
 ### Real estate agents
 
-An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). If you did not hire the agent, don't pay an agent fee; [it's a scam](/guides/housing-scams#agent-fees).
+An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). Don't pay an agent fee if you did not hire the agent.
 
-- **[BerlinRelo](https://www.berlinrelo.de/)** - For long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
+- **[BerlinRelo](https://www.berlinrelo.de/)** ⭐️  
+    Long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
 - [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) - Short-term and long-term apartments. They improve your chances a lot, but they can't guarantee you an apartment.
 - [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
 ### Bots and automation
 
-To get an apartment, you must be fast. Tools help you find apartments and message landlords first.
+To get an apartment, you must be fast. Use tools to find apartments and message landlords first.
 
 - **Apartment bots**  
     Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot), [Flathunters](https://flathunter.codders.io/) and [Homeboy](https://www.homeboy.immo/en). You get a notification when there are new apartments.
 - **Automatic messaging**  
     [Get The Flat](https://gettheflat.com/) automatically writes to the landlord when it finds apartments that fit your needs. It's expensive.
 - **Alerts and push notifications**  
-    Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and create alerts for new apartment listings.[^44] Turn on push notifications for the Facebook groups you follow.
-
-![Facebook group notifications 1](/images/facebook-group-notifications-1.png)
-
-![Facebook group notifications 2](/images/facebook-group-notifications-2.png)
+    Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and create alerts for new apartment listings.[^44] Turn on push notifications for the [Facebook groups](#facebook-groups) that you follow.
 
 ## 2. Choose apartments to visit
 
@@ -254,7 +252,7 @@ To improve your chances...
 - **Write and call**  
     Most landlords prefer emails, but some prefer calls.[^35] Try both.
 - **Have a detailed profile**  
-    Create a detailed profile on ImmoScout24 and other websites. When you message a landlord, include all the important information. The first impression is important.
+    Create a detailed profile on housing websites. It helps you make a good impression when you message a landlord.
 - **Be brief**  
     Don't make landlords read. Write message short and simple messages. Only send the important parts of your documents.
 
@@ -365,38 +363,31 @@ To apply for an apartment, you need these documents:[^19]
     Give censored copies to the landlord. Keep the originals.
 - [ ] **Pen**
 
-**Combine your documents** into one PDF. Landlords prefer that.[^42] Use a [PDF merging tool](https://www.adobe.com/acrobat/online/merge-pdf.html).
+**Combine your documents** with a [PDF merging tool](https://www.adobe.com/acrobat/online/merge-pdf.html). Landlords prefer to get a single PDF.[^42]
 
-Make your documents easy to read. Remove the useless parts, and highlight the important parts. Make it easy for the landlord; it improves your chances.[^4]
+Make your documents easy to read. Remove useless pages, and highlight the important information.[^4]
 
-Identity theft is a big risk. To protect yourself, [censor your documents](/guides/housing-scams#censor-your-documents) before you send them.
+[Censor and watermark your documents](/guides/housing-scams#censor-your-documents) before you send them. It helps prevent identity theft.
 
 ## 6. Sign the lease and move in
 
-If the landlord chooses you, they will ask for your documents.
+If the landlord chooses you, they will ask for your documents. Send everything as a single PDF.
 
 You will sign a lease, pay the [deposit](/glossary/Kaution), get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
 
-**[How to move in ➞](/guides/moving-in)**
+**[How to sign the lease and move in ➞](/guides/moving-in)**
 
 ## Your housing options
 
-### Regular apartment
+Your options depends on your situation.
 
-Regular apartments are a **long-term solution**. They are hard to get, because everyone wants them. If you are unemployed, if you are a student, or if you are not in Germany yet, regular apartments are almost impossible to get.
+**If you are not in Berlin yet**, it's impossible to find a long-term apartment. Landlords always pick someone else. It's very hard to find a room in a [[WG]] without meeting the other tenants in person. You must get [short-term housing](#short-term-housing), move to Berlin, then look for something better.
 
-With a regular apartment...
+**If you are a recent immigrant**, it's harder to find an apartment. You need more time to look for an apartment. You might need [short-term housing](#short-term-housing) while you search. Always get a place where you can [register your address](/glossary/Anmeldung). [It's very important.](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
 
-- **Nothing is included**  
-    They come with no furniture, appliances, light fixtures or curtains. They are completely empty. You must buy everything yourself. You must also get an internet contract and an electricity contract. In Berlin, they must come with a stove and a sink.[^3]
-- **You can stay forever**  
-    The lease is unlimited (*unbefristet*). Once you move in, it's your home. It's really hard to kick you out.
+### Short-term housing
 
-**[Look for a regular apartment ↑](#look-for-apartments)**
-
-### Short-term, furnished apartment
-
-Furnished apartments are a **temporary solution**. Use them to move to Berlin, then look for something better. If you are not in Germany yet, it might be your only option.
+Short-term, furnished apartments are a **temporary solution**. Use them to [move to Berlin](/guides/moving-to-berlin), then find something better. If you are not in Germany yet, it might be your only option.
 
 Furnished apartments are...
 
@@ -415,9 +406,22 @@ There are also [hotels and hostels where you can do your *Anmeldung*](https://no
 
 **[Look for short-term housing ↑](#short-term-and-furnished-apartments)**
 
+### Regular apartment
+
+Regular apartments are a **long-term solution**. They are hard to get, because everyone wants them. If you are unemployed, if you are a student, or if you are not in Germany yet, regular apartments are almost impossible to get.
+
+With a regular apartment...
+
+- **Nothing is included**  
+    They come with no furniture, appliances, light fixtures or curtains. They are completely empty. You must buy everything yourself. You must also get an internet contract and an electricity contract. In Berlin, they must come with a stove and a sink.[^3]
+- **You can stay forever**  
+    The lease is unlimited (*unbefristet*). Once you move in, it's your home. It's really hard to kick you out. You must give a 3-month notice before you [move out](/guides/moving-out).
+
+**[Look for a regular apartment ↑](#look-for-apartments)**
+
 ### Room in a [[WG]]
 
-Renting a room in a [shared apartment](/glossary/WG) is a **cheaper solution**. Rooms in a WG are really hard to find.[^6]
+Renting a room in a [shared apartment](/glossary/WG) is a **cheap, long-term solution**. Rooms in a WG are really hard to find.[^6]
 
 Short-term rooms are easier to find. You usually rent someone's room they travel. Usually, you can't do your *[[Anmeldung]]* there, so they are a bad option.
 
@@ -500,6 +504,8 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 [![Floors/stories of a German building](/images/building-floors.jpg)](/images/building-floors.jpg)
 
 ## Where to get help
+
+A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[Mieterverein]]* or a [lawyer](/guides/english-speaking-lawyers-berlin) can answer your legal questions.
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
