@@ -143,7 +143,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 
 - **[BerlinRelo](https://www.berlinrelo.de/)** - For long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
 - [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) - Short-term and long-term apartments. They improve your chances a lot, but they can't guarantee you an apartment.
-- [exBerliner](http://exflat.exberliner.com/)
+- [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
 ### Bots and automation
