@@ -25,7 +25,7 @@ Visit the apartment before you sign the lease. There are many fake apartment lis
 
 **[Rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
 
-A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
+Ask a lawyer or a tenants' union (*[[Mieterverein]]*) to check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
 
 When you sign the lease, the apartment is yours. You can't change your decision. The landlord can't change their decision.
 

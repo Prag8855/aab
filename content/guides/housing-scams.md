@@ -119,15 +119,15 @@ Commercial spaces are not protected by [rent control laws](/glossary/Mietpreisbr
 
 Berlin has [rent control laws](/glossary/Mietpreisbremse). Ask [Conny](/out/conny-mietpreisbremse), a *[[Mieterverein]]* or a lawyer to verify your lease. If your rent is too high, they can help you lower it. Your landlord can't kick you out because you lower your rent.
 
-When you [move in](/guides/moving-in), try to get the last tenant's lease. It really helps to lower your rent.
+When you [move in](/guides/moving-in), try to get the last tenant's lease. It's easier to lower your rent when you have that.
 
 ### Eigenbedarf
 
-Landlords need a valid reason to end your lease and kick you out. If they need the apartment for their family or themselves, they can kick you out. This is called *Eigenbedarf*.[^45]
+Landlords need a valid reason to end your lease and kick you out. If they need the apartment for their family or themselves, they can kick you out. This is called personal use (*Eigenbedarf*).[^45]
 
-Landlords often use *Eigenbedarf* to kick you out, but never move in. Instead, they sell the empty apartment for a higher price, or raise the rent and find another tenant.[^46]
+Landlords often use *Eigenbedarf* to kick tenants out, even if they don't need the apartment. Instead of moving in, they sell the empty apartment for a higher price, or raise the rent and find another tenant.[^46]
 
-If this happens to you, [get legal help](/guides/questions-about-berlin#apartment-questions). You can usually stop or delay it.
+If this happens to you, [get legal help](/guides/questions-about-berlin#apartment-questions).[^47] You can usually stop, delay it, or get paid to move out.
 
 ### Landlord does not return deposit
 
@@ -190,9 +190,9 @@ Wait before you send money.[^42] You must pay the rent and the 1/3 of the [depos
 
 **[How to pay the rent and deposit ➞](/guides/moving-in#pay-the-rent)**
 
-### Report a scam
+### Report scams
 
-Report the scam to the website it's on. The scammers did not get you, but they can get someone else.
+When you find a scam, report it. The scammers did not get you, but they can get someone else. Websites usually remove scam listings when you report them.
 
 **[Report a scam to the police ➞](https://www.bka.de/DE/KontaktAufnehmen/Onlinewachen/onlinewachen_node.html)**
 
@@ -245,4 +245,5 @@ Report the scam to the website it's on. The scammers did not get you, but they c
 [^43]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_2_Rental_Costs_Are_Too_Round)
 [^44]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/mieturteile/03303.htm), [Court ruling](https://lexetius.com/2010,6022) (2010), [Reddit](https://old.reddit.com/r/germany/comments/1b42zsk/wunderflats_asking_service_fee_for_cancelled/ksx1zv7/) (2024)
 [^45]: [§573 BGB](https://www.gesetze-im-internet.de/bgb/__573.html)
-[^46]: [rbb24](https://www.rbb-online.de/fernsehen/programm/09_04_2024/1946740.html#:~:text=%20dass%20die%20zahl%20der%20beratungen%20im%20fall%20von%20eigenbedarfskundigung%20deutlich%20steigt) (April 2024), [rbb24](https://www.rbb24.de/wirtschaft/beitrag/2023/08/berlin-wohnen-kuendigung-eigenbedarf-mieter-vermieter-haertefall.html) (August 2023)
+[^46]: [rbb24](https://www.rbb-online.de/fernsehen/programm/09_04_2024/1946740.html#:~:text=%20dass%20die%20zahl%20der%20beratungen%20im%20fall%20von%20eigenbedarfskundigung%20deutlich%20steigt) (April 2024), [rbb24](https://www.rbb24.de/wirtschaft/beitrag/2023/08/berlin-wohnen-kuendigung-eigenbedarf-mieter-vermieter-haertefall.html) (August 2023), [Reddit](https://old.reddit.com/r/berlin/comments/12p455k/an_conversation_overheard_about_eigenbedarf/) (2023)
+[^47]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-67-die-eigenbedarfskuendigung.htm#5-Ist-die-Kuendigungsbegruendung-wirksam)
