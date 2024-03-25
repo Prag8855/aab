@@ -301,6 +301,8 @@ If you are lucky, you will get invited to an apartment visit. Arrive early. Brin
 
 It can be a private viewing (just you) or an open viewing (many other people). Viewings with more than 40 people are usually a waste of time.[^20]
 
+When you visit apartments, your travel costs are [tax-deductible](/glossary/steuerlich%20Absetzbar). You can deduct 0.30€ per kilometre.
+
 ### Apartment visit checklist
 
 - [ ] **Appliances**  
@@ -565,4 +567,4 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^50]: Spotahome employee (March 2024), [Spotahome](https://help.spotahome.com/hc/en-us/articles/213013309-Is-local-registration-possible) (2024)
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
-[^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)

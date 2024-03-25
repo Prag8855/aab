@@ -36,7 +36,7 @@ You need enough money to survive until you get paid. You need money for...
 - **Your [living expenses](/guides/cost-of-living)**  
     You must buy food and things for your apartment. You might also need to buy furniture and appliances. It's easier if you find a furnished apartment or a [[WG]]; it comes with everything you need.
 - **Your relocation expenses**  
-    If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).[^4] Save the receipts for your [tax declaration](/glossary/Steuererklärung).
+    If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation and moving expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).[^4] Save the receipts for your [tax declaration](/glossary/Steuererklärung).
 - **Winter clothes**  
     German winters are cold and wet. It's 0ºC on average, and as low as -10ºC.[^5] You need winter clothes: a jacket, boots, gloves, and a hat.
 
@@ -221,6 +221,10 @@ If you don't speak German, you can still get help in English:
 In Germany, when you have a health problem, you go to your *[[Hausarzt]]*. Find your *Hausarzt* before you need one. It will be easier to see a doctor when you are sick. This is useful when you need a [sick note](/glossary/Krankschreibung) for your employer.
 
 **[Find an English-speaking doctor ➞](/guides/english-speaking-doctors-berlin)**
+
+### Make a tax declaration
+
+Your relocation expenses are [tax-deductible](/glossary/steuerlich%20Absetzbar). If you move in the middle of the year, you probably paid too much [salary tax](/glossary/Lohnsteuer). Make a [tax declaration](/glossary/Steuererklärung) to get some money back.
 
 ## A new life in Germany
 

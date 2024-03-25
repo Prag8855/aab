@@ -11,36 +11,34 @@ After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment
 
 ## Before the move
 
-**[How to find an apartment ➞](/guides/find-a-flat-in-berlin)**
+### Visit the apartment
 
-**[How to move out of an apartment ➞](/guides/moving-out)**
+**Always see the apartment in person** before you sign the lease. There are many [housing scams](/guides/housing-scams) online.
+
+If you are not in Germany and you can't visit the apartment, get [short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) from a verified landlord. [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Spotahome](/out/spotahome) have verified landlords.
 
 ### Sign the lease
 
-Visit the apartment before you sign the lease. There are many fake apartment listings online. Scammers can also show you someone else's apartment. They want to steal your deposit and disappear.
+**Read your lease carefully.** It can have information about rent increases, [house rules](/glossary/Hausordnung), pets, and other important things.
 
-**[How to avoid scams ➞](/guides/housing-scams)**
-
-**Don't pay anything before you sign a lease.** Read your lease carefully. It can have information about rent increases, house rules, pets, and other important things.
+A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
 
 **[Rental contracts in Germany](https://redtapetranslation.com/a-guide-to-rental-contracts-in-germany/)** - Red Tape Translation
 
-Ask a lawyer or a tenants' union (*[[Mieterverein]]*) to check your lease. They can tell you if your rent is too high, or if parts of the lease are illegal.
+**After you sign the lease, you can't change your decision.** The lease is yours. The landlord can't change their decision either. Even if you don't sign a lease, a spoken promise can be legally binding. If you promise that you will take the apartment, you might be forced to take it.[^1]
 
-When you sign the lease, the apartment is yours. You can't change your decision. The landlord can't change their decision.
+After you sign the lease, you get...
 
-After you sign the lease, you get 3 important documents:
-
-1. The signed lease - You need this to register your address (*[[Anmeldung]]*), and to apply for a [residence permit](/glossary/Aufenthaltstitel).
-2. The *[[Wohnungsgeberbestätigung]]* - You need this to register your address.
-3. The *[[Übergabeprotokoll]]* - You usually get this document after you get the apartment keys.
+- The tenancy confirmation (*[[Wohnungsgeberbestätigung]]*) - You need it to register your address.
+- The handover document (*[[Übergabeprotokoll]]*) - You usually get this after you get the apartment keys.
+- The signed lease - You need this to register your address (*[[Anmeldung]]*), and to apply for a [residence permit](/glossary/Aufenthaltstitel).
 
 ### Get the keys
 
-After you sign the lease, you will meet with the landlord to...
+After you sign the lease, you meet with the landlord to...
 
-- **Fill the [[Übergabeprotokoll]]**  
-    This document describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken taps etc. Take a lot of pictures to prove it.
+- **Fill the handover document** (*[[Übergabeprotokoll]]*)  
+    It describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken taps and other problems.
 - **Get the [[Wohnungsgeberbestätigung]]**  
     Before or during the handover, you get a [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigung). You need it to [register your address](/guides/anmeldung-in-english-berlin) (*[[Anmeldung]]*).
 - **Read the electricity meter**  
@@ -48,79 +46,91 @@ After you sign the lease, you will meet with the landlord to...
 - **Get the apartment keys**  
     You will get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[[Übergabeprotokoll]]*. Some landlords ask you to pay the [deposit](/glossary/Kaution) before they give you the keys, but that's not legal, even if it's written in your lease.[^0]
 
+During the handover, **take a lot of pictures**. When you [move out](/guides/moving-out), the landlord might try to make you pay for damages that were already there. These photos can help you [get your deposit back](/guides/mietkaution#how-to-get-your-kaution-back).
+
 ![Apartment keys](/illustrations/apartment-keys.png)
 
 ### Pay the deposit
 
-You must pay the deposit (*[[Kaution]]*) **before your lease starts**. You don't have to pay immediately after you sign the lease.
+Most apartments have a deposit (*[[Kaution]]*). It can't be more than 3 times your [cold rent](/glossary/Kaltmiete). [Short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) usually has a smaller deposit. You get your deposit back when you [move out](/guides/moving-out).
 
-You can pay the deposit in 3 instalments. If you don't have enough money, there are [other options](/guides/mietkaution#if-you-dont-have-enough-money).
+If you don't have enough money for the deposit, there are [other options](/guides/mietkaution#if-you-dont-have-enough-money).
 
 **[How the apartment deposit works ➞](/guides/mietkaution)**
 
-You usually pay the rent and the deposit by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). If you pay with cash, always ask for a receipt. You can also use [Wise](/out/transferwise) to send money from another country.
+You must pay 1/3 of the deposit **before your lease starts**. Your lease starts when you can move in, not when you sign the contract. The landlord can't force you to pay the deposit earlier, or to pay the full deposit at once.
+
+Pay as late as you can. It's a good way to avoid deposit scams. Scammers always try to get your deposit as soon as possible.
+
+**[When to pay the deposit](/guides/mietkaution#when-to-pay-the-kaution)**
+
+Pay the rent and the deposit by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you pay with cash, always ask for a receipt. You can also use [Wise](/out/transferwise) to send money from another country. If the landlord asks for another payment method, it might be a [scam](/guides/housing-scams).
 
 ### Pay the rent
 
-You must pay the rent **before your lease starts**. You don't have to pay immediately after you sign the lease.
+You must pay the rent by **before your lease starts**. You don't have to pay immediately after you sign the lease. Paying later helps you avoid [scams](/guides/housing-scams).
 
 You only need to pay rent if you can actually live there. For example, if your leases starts on January 1, but you only get the keys on January 15, you don't pay rent from January 1 to January 15.[^9]
 
 ### Get an internet contract
 
-Sign an internet contract as soon as possible. It takes a few weeks for the company to connect the internet.
+Sign an internet contract as soon as possible. It can take a few weeks for the company to connect the internet. Sometimes it only takes a day.
 
 Use [Verivox](/out/verivox-internet) or [Check24](/out/check24-internet) to compare internet service providers.
 
 If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee. For example, Vodafone charges 40€.
 
-If your current internet company can't service your new apartment, you can cancel your contract and find another company.
+If your current internet company can't service your new apartment, you can cancel your contract and find another company. If they can service your new apartment, you can't cancel your contract. You must stay with the same company.
 
 ## After the move
 
 ### Put your name on your mailbox
 
-Ask your landlord to put your name on your mailbox and your doorbell.
+Ask your landlord or *[[Hausverwaltung]]* to put your name on your mailbox and your doorbell. If you don't do this, you will not receive your mail.
 
-German apartments rarely have apartment numbers. Everyone in the building has the same address. Each person has a mailbox with their name on it. If there is no mailbox with your name on it, you will not receive your mail.
+**[How to put your name on the mailbox ➞](/guides/address-change#put-your-name-on-your-mailbox)**
 
-**[More information ➞](/guides/address-change#put-your-name-on-your-mailbox)**
+If you can't put your name on your mailbox, you must [add "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) every time.
+
+**[How to write your address ➞](/guides/addressing-a-letter-in-germany)**
+
+![Illustration of German mailboxes (Briefkasten)](/illustrations/mailboxes-briefkasten-germany.png)
 
 ### Register your address
 
-You must must [register your new address](/glossary/Anmeldung) at the *[[Bürgeramt]]* (the *[[Anmeldung]]*).
-
-During your *Anmeldung*, you get a registration certificate ([*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung)). If this is the first time you register, you also get a [tax ID](/glossary/Steueridentifikationsnummer) in the mail a few weeks later.
+You must must [register your new address](/glossary/Anmeldung) at the *[[Bürgeramt]]* (the *[[Anmeldung]]*). [It's important.](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
 
 **[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
-Book your *Anmeldung* appointment as soon as you can. Appointments are hard to find, and they can be weeks in the future.[^11] Your appointment date must be after you move in.
+[Book your *Anmeldung* appointment](/guides/berlin-burgeramt-appointment) as soon as you can. Appointments are hard to find. They can be months in the future.[^11] Your appointment date must be after you move in.
 
 {% include "_blocks/appointmentFinder.html" %}
 
-If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin). You only need to deregister if you leave Germany.
+If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin).
 
 ### Get an electricity contract
 
-Your warm rent (*[[Warmmiete]]*) usually includes central heating and hot water. It does not include the electricity inside your apartment (lights, appliances, ...). You need to get your own electricity contract.
+Your warm rent (*[[Warmmiete]]*) usually includes central heating and hot water. It does not include the electricity inside your apartment (lights, appliances, ...). You must get your own electricity contract.
 
 **[How electric bills work in Germany ➞](/guides/electric-bill-berlin)**
 
 You must choose an electricity provider and sign an electricity contract. Compare options with [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity). If you don't speak German, [Ostrom](/out/ostrom) speaks English.
 
-Most providers offer a lower price for the first year or two, then the price goes up. If you switch providers every year or two, you always get the lowest price. You can save a lot of money this way.
+Most providers offer a lower price for 1 or 2 years, then the price goes up. If you switch providers every year or two, you always get the lowest price, and you save money.
 
 If you already have an electricity contract, you can transfer it to your new address, usually for free. If you can cancel your contract, try to get a lower price from another provider.
 
-The electricity contract is activated automatically. No one will visit your apartment. You just need to tell the electricity company your electricity meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You can check it when you sign the *[[Übergabeprotokoll]]*.
+The electricity contract is activated automatically. They don't need to visit your apartment. You just need to tell the electricity company your meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You should check it when you sign the *[[Übergabeprotokoll]]*.
 
 ### Buy furniture and appliances
 
-You can buy used appliances from [Kleinanzeigen](https://www.kleinanzeigen.de:443/). Used appliances are *much* cheaper. Professional sellers offer a 12 month warranty and free delivery. Only buy your appliances from sellers with old accounts. Some scammers create accounts, sell broken appliances for a few days, and disappear. I bought many appliances from [Wasch Max](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
+Used appliances are much cheaper. Buy them on [Kleinanzeigen](https://www.kleinanzeigen.de:443/). Professional sellers offer a 12 month warranty and free delivery. Choose a seller with old accounts. New accounts are more likely to be scammers that sell broken appliances. I bought my appliances from [Wasch Max](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
 
 **[Where to buy furniture and house supplies ➞](/guides/where-to-buy-what#furniture-and-house-supplies)**
 
-If you need help to move furniture, you can use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). You can find more moving services on [Kleinanzeigen](https://www.kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+To move heavy furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). Find more moving services on [Kleinanzeigen](https://www.kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+
+**[How to move your things ➞](/guides/moving-out#move-your-things)**
 
 ### Install light fixtures
 
@@ -128,32 +138,28 @@ Most apartments come without light fixtures. You must buy your own and install t
 
 ### Change your address
 
-The address change is not automatic. When you register your new address, the *[[Bürgeramt]]* will tell some people, but not everyone.
+Tell everyone your new address. The address change is not automatic. When you register your new address, the *[[Bürgeramt]]* will tell some people, but not everyone.
 
 **[How to change your address ➞](/guides/address-change)**
 
 ### Get liability insurance
 
-Liability insurance (*[[Haftpflichtversicherung]]*) is really important in Germany. Everyone should have it. 85% of German homes have it.[^3] It costs around 5€ per month.
-
-If you cause an accident in Germany, the victim can sue you. If the victim wins, you have to pay reparations.[^4] A lawsuit like that can easily ruin you. Liability insurance protects you from such damage claims. If you cause an accident, your insurance company will pay the legal fees and the reparations. For example, if your washing machine breaks and floods your neighbour's apartment, your insurance will pay for it.
-
-If you rent a furnished apartment, choose a liability insurance that covers rented things (*geliehene Sachen*). This will also cover the rented furniture.
+Liability insurance (*[[Haftpflichtversicherung]]*) is optional, but **everyone should have it**. 85% of German homes have it.[^3] It costs around 5€ per month. I have liability insurance from [Feather](/out/feather-haftpflicht).
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
-Your own things are not covered by liability insurance. To insure your furniture, your electronics or your bicycle, get household insurance (*[[Hausratversicherung]]*).[^5]
+If you rent a furnished apartment, choose a liability insurance that covers rented things (*geliehene Sachen*). It covers the furniture you rent.
+
+Your own things are not covered by liability insurance. To insure your own furniture, electronics or bicycle, get household insurance (*[[Hausratversicherung]]*).[^5] This is less important. You can sometimes get liability and household insurance together for a lower price.
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-[Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. I got my liability insurance from Feather. They also sell household insurance (*[[Hausratversicherung]]*). You sometimes pay less when you get both insurances at the same time.
+### Defend your rights
 
-### Protect your rights
+Landlords often [try to scam](/guides/housing-scams#scams-by-landlords-and-tenants) immigrants. You must be ready to defend yourself. There are many ways to do this:
 
-Landlords often take advantage of immigrants. You must be ready to defend yourself. There are many ways to do this:
-
-- **Join a tenants' association** (*[[Mieterverein]]*)  
-    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein offers help in English.[^10]
+- **Join a tenants' association** (*[[Mieterverein]]*) ⭐️  
+    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein speaks English.[^10]
 - or **get legal insurance** (*[[Rechtsschutzversicherung]]*)  
     It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
 - or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**  
@@ -165,7 +171,7 @@ Landlords often take advantage of immigrants. You must be ready to defend yourse
 
 German rent prices are limited by law. If your rent too high, you can get it reduced. Use [the rent limit calculator](/out/conny-mietpreisbremse-calculator) to check if you pay too much rent.
 
-If your rent is too high, these people can help you:
+These people can help you reduce your rent:
 
 - **[Conny](/out/conny-mietpreisbremse)**  
     They specialise in lowering people's rent. You only pay them if they are successful. [It works well](/guides/wenigermiete-review), but it's not cheap.
@@ -176,40 +182,40 @@ If your rent is too high, these people can help you:
 
 ### Stop junk mail
 
-To stop getting junk mail:
+Advertisers will put a lot of junk mail in your mailbox. To stop getting junk mail...
 
-1. Put a [*Keine Werbung* sticker](https://www.amazon.de/s?k=keine+werbung&crid=SNI1PKPSMQIB&sprefix=keine+werbung,aps,100&linkCode=sl2&tag=nicolasboulia-21&linkId=3544edfb5887e8423bdbb5b22bdc7650&language=en_GB&ref_=as_li_ss_tl) on your mailbox. It works really well. If your mailbox is outside, get a UV-resistant sticker, or it will fade after a few months.
-2. Put your name on [Robinson lists](https://en.wikipedia.org/wiki/Robinson_list) to unsubscribe from most mail advertising:
-    1. Join the [DDV Robinson list](https://www.ichhabediewahl.de/?id=122&cid=43)
-    2. Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
-3. If you still get junk mail, use the [Appmelder app](https://www.appmelder.de/) to report it. They will unsubscribe you. If you still get junk mail, they will send a [legal warning](/glossary/Abmahnung) to the spammer.[^6] It's completely free.
+- [ ] Put a [*Keine Werbung* sticker](https://www.amazon.de/s?k=keine+werbung&crid=SNI1PKPSMQIB&sprefix=keine+werbung,aps,100&linkCode=sl2&tag=nicolasboulia-21&linkId=3544edfb5887e8423bdbb5b22bdc7650&language=en_GB&ref_=as_li_ss_tl) on your mailbox. It works really well. If your mailbox is outside, get a UV-resistant sticker, or it will fade after a few months.
+- [ ] Put your name on [Robinson lists](https://en.wikipedia.org/wiki/Robinson_list) to unsubscribe from most mail advertising:
+    - [ ] Join the [DDV Robinson list](https://www.ichhabediewahl.de/?id=122&cid=43)
+    - [ ] Join the [IDI Robinson list](https://www.robinsonliste.de/verwalten/schutzkonto_erstellen)
+- [ ] If you still get junk mail, use the [Appmelder app](https://www.appmelder.de/) to report it. They will unsubscribe you. If you still get junk mail, they will send a [legal warning](/glossary/Abmahnung) to the spammer.[^6] It's completely free.
 
 ### Deduct your moving costs
 
-If you move for professional reasons, your moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar).[^13] Deduct those expenses in your [tax declaration](/glossary/Steuererklärung) to pay less [income tax](/glossary/Einkommensteuer).
+If you move for work, your moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar).[^13] Deduct those expenses in your [tax declaration](/glossary/Steuererklärung) to pay less [income tax](/glossary/Einkommensteuer).
 
 You can only deduct moving costs if:
 
-- **You move closer to your workplace**  
-    You must move at least 30 minutes closer to your workplace (in one direction).
-- **Your workplace changes**  
-    For example, if you [find a job](/guides/find-a-job-in-berlin) in another city, or your company moves somewhere else.
 - **You move from another country**
+- or **you move closer to your workplace**  
+    You must move at least 30 minutes closer to your workplace (in one direction).
+- or **your workplace changes**  
+    For example, if you [find a job](/guides/find-a-job-in-berlin) in another city, or your company moves somewhere else.
 
 These expenses are tax-deductible:
 
 - **Visiting apartments**  
-    You can deduct 0.30€ per kilometre when you travel to visit apartments.
+    You can deduct 0.30€ per kilometre when you travel to [visit apartments](/guides/find-a-flat-in-berlin#visit-the-apartment).
 - **Double rent**  
     If you must pay two rents at once, you can deduct one of them.
     - The rent of your old apartment, if you can't end your lease now. You can deduct up to 6 months of rent.
     - The rent of your new apartment, if you can't live there yet. You can deduct up to 3 months of rent.
 - **Moving your things**  
-    For example, renting a moving truck, hiring a moving company, or paying people to help you.
+    For example, [renting a moving truck](/guides/moving-out#move-your-things), hiring a moving company, or paying people to help you.
 - **Renovations**  
     For example, painting your old apartment, or installing lights and kitchen cabinets in the new apartment.
 
-New furniture and appliances are not tax-deductible. Costs that are refunded by your employer are not tax-deductible.
+New furniture and appliances are not tax-deductible. Costs that are covered by your employer are not tax-deductible.
 
 ## First apartment in Berlin?
 
@@ -219,22 +225,20 @@ If you just [moved to Berlin](/guides/moving-to-berlin), you must learn a few th
 
 Berlin has quiet hours. During that time, you can't play loud music or disturb your neighbours. Your building can have its own quiet hours.
 
-If your neighbours are too loud, you can also [make a noise complaint](/guides/noise-complaint).
+When your neighbours are too loud, you can [make a noise complaint](/guides/noise-complaint).
 
 **[Quiet hours and noise laws in Berlin ➞](/guides/quiet-hours)**
 
 ### Hard water
 
-The tap water in Berlin is hard water.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
+The tap water in Berlin is hard.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
 
 - Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl) or in any supermarket.
 - Boil the water 2 to 3 times to remove the taste. The minerals will deposit at the bottom of the kettle. You can also use a water filter.
 
-**[Water hardness in Berlin](http://web.archive.org/web/20220626225848/https://www.bwb.de/en/1619.php)** - Berliner Wasserbetriebe
-
 ### Recycling
 
-Learn to sort your trash and recycle properly. It's not so simple.
+Germans take recycling very seriously. Learn to sort your trash and recycle properly. It's not so simple.
 
 **[How to sort your trash ➞](/guides/sorting-trash-in-germany)**
 
@@ -256,15 +260,15 @@ Some newer apartments have heated floors instead of radiators. You control them 
 
 **[More information](https://berlincheap.com/heating/)** - Berlin Cheap
 
-Sometimes, your landlord will remove air in your radiators with an *[Entlüftungsschlüßel](https://www.google.de/search?tbm=isch&q=entlüftungsschlüssel)*. This takes a few seconds, and it makes your radiator work better.
+Sometimes, your landlord will remove air in your radiators with an *[Entlüftungsschlüßel](https://www.google.de/search?tbm=isch&q=entlüftungsschlüssel)*. You can do it yourself; it's very easy. It takes a few seconds, and it makes your radiators work better.
 
 ## Need help?
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
+[^1]: [jurarat.de](https://jurarat.de/muendlicher-mietvertrag#:~:text=In%20K%C3%BCrze%3A-,ein%20mundlicher%20mietvertrag%20ist%20bindend,-und%20entsteht%20durch) (2022), [dahag.de](https://www.dahag.de/c/ebs/zivilrecht/begruendet-die-muendliche-zusage-einen-mietvertrag-4292) (2012), [movinga.com](https://www.movinga.com/de/de/hub/muendlicher-mietvertrag/)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
-[^4]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)
 [^7]: [bwb.de](http://web.archive.org/web/20220626225848/https://www.bwb.de/en/1619.php)

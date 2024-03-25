@@ -23,9 +23,9 @@ You can pay your *Kaution* in 3 parts:[^17]
 - 1/3 a month after your lease starts
 - 1/3 two months after your lease starts
 
-> **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, 1,000€ before February 1, and 1,000€ before March 1.
+Your lease starts when you *can* [move in](/guides/moving-in), not when you sign the contract, and not when you actually move in.[^3]
 
-Your lease starts when you can [move in](/guides/moving-in), not when you sign the contract.[^3]
+> **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, 1,000€ before February 1, and 1,000€ before March 1.
 
 Your landlord can't force you to...
 
@@ -39,7 +39,7 @@ Don't pay the *Kaution* before you see the apartment in person. There are many f
 
 ## How to pay the Kaution
 
-Pay the *Kaution* **by [bank transfer](/glossary/SEPA-%C3%9Cberweisung)**. You can pay in cash, but it's not common. If you pay in cash, always ask for a proof of payment. If your landlord asks you to pay with PayPal or wire transfer, it's probably a [scam](/guides/housing-scams).
+Pay the *Kaution* **by [bank transfer](/glossary/SEPA-%C3%9Cberweisung)**. You can pay in cash, but it's not common. If you pay in cash, always ask for a payment receipt. If your landlord for another payment method, it might be a [scam](/guides/housing-scams).
 
 If you don't have a bank account in the [EU](/glossary/European%20Union), use [Wise](/out/transferwise) to transfer money from another country. I used it many times.
 
@@ -53,6 +53,8 @@ The *Kaution* can be thousands of euros. If you don't have enough money, you can
     Get a loan from a bank or a friend, and pay it back when you can. If you just moved to Germany, it's harder to get a loan.
 - **Get help from the Agentur für Arbeit**[^4]  
     If you receive [[ALG I]] or [[Bürgergeld]], the *[[Agentur für Arbeit]]* or the *[[Jobcenter]]* can pay your *Kaution*.
+- **Find cheaper housing**  
+    The deposit for a room in a [[WG]] is lower, because the rent is lower. [Short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) usually has a smaller deposit, but the rent is much higher.
 
 Your landlord can't ask for a *Kaution* and a *Mietbürgschaft*. It's one or the other, not both.[^24]
 

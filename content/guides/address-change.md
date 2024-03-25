@@ -15,7 +15,7 @@ German apartments rarely have apartment numbers. Everyone in the building has th
 
 ![Illustration of German mailboxes (Briefkasten)](/illustrations/mailboxes-briefkasten-germany.png)
 
-Ask your landlord to put your name on your mailbox and doorbell. Your landlord can't charge you a fee for this.[^4] If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^3]
+Ask your landlord or *[[Hausverwaltung]]* to put your name on your mailbox and doorbell. Your landlord can't charge you a fee for this.[^4] If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^3] If you put the name yourself, your landlord can remove it.[^7]
 
 If you can't put your name on your mailbox, [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox).
 
@@ -89,3 +89,4 @@ Mail forwarding is **unreliable**. Official mail from the Bürgeramt, Finanzamt 
 [^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)
 [^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), Oliver Frankfurth at Deregistration.de (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden)
 [^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
+[^7]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)

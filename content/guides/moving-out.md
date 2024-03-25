@@ -113,6 +113,8 @@ Your lease can ask you to paint the walls in light or neutral colours. It can't 
 
 You can do the repairs yourself. You can't be forced to use a contractor.[^33]
 
+Renovation expenses are [tax-deductible](/glossary/steuerlich%20Absetzbar).
+
 ## Complete the handover
 
 When you are ready to move out, your landlord will meet you to...
@@ -213,6 +215,12 @@ If you live in a [[WG]], you can also get a letter from your roommates to confir
 
 Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Some landlords charge around 50€ for it.[^2]
 
+## Deduct your moving expenses
+
+If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20Absetzbar). Include them in your next [tax declaration](/glossary/Steuererklärung) to get some money back.
+
+**[How to deduct moving expenses ➞](/guides/moving-in#deduct-your-moving-costs)**
+
 ## Checklist
 
 - [ ] Give a [cancellation letter](/glossary/Kündigungsschreiben) to your landlord
@@ -230,6 +238,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 - [ ] Change your address
 - [ ] Get your deposit (*[[Kaution]]*) back
 - [ ] Get a *[[Mietschuldenfreiheitsbescheinigung]]*
+- [ ] Deduct your moving expenses in your next [tax declaration](/glossary/Steuererklärung)
 
 ## What to do next
 
