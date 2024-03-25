@@ -196,7 +196,7 @@ When you find a scam, report it. The scammers did not get you, but they can get 
 
 **[Report a scam to the police ➞](https://www.bka.de/DE/KontaktAufnehmen/Onlinewachen/onlinewachen_node.html)**
 
-## Where to get help
+## Need help?
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 

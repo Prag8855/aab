@@ -48,7 +48,7 @@ If the test is not covered by your health insurance, it costs **between 10€ an
 - **If you have travel or expat insurance**  
     STI tests are almost never covered. Some insurances like April and aLC include a 300€ per year budget for tests and check-ups.
 
-## Where to get help
+## Need help?
 
 - **Counselling Center for Sexual Health** - Gesundheitsamt  
     Free counselling in many languages.

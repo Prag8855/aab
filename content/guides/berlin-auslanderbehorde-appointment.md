@@ -232,7 +232,7 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 
 **[English-speaking lawyers ➞](/guides/english-speaking-lawyers-berlin)**
 
-## Where to get help
+## Need help?
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 

@@ -506,7 +506,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 
 [![Floors/stories of a German building](/images/building-floors.jpg)](/images/building-floors.jpg)
 
-## Where to get help
+## Need help?
 
 A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[Mieterverein]]* or a [lawyer](/guides/english-speaking-lawyers-berlin) can answer your legal questions.
 

@@ -360,7 +360,7 @@ To become self-employed full-time, you must [apply for a freelance visa](/guides
 
 Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
-## Where to get help
+## Need help?
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
