@@ -335,7 +335,7 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 
 ## 5. Apply for the apartment
 
-If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents).
+If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents). Some landlords accept printed documents during the visit.
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
 
@@ -359,9 +359,10 @@ To apply for an apartment, you need these documents:[^19]
     If you have a low or unstable income, someone can be your guarantor. If you don't pay rent, they must pay it for you. It's useful for students and freelancers. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
 - [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form (*Selbstauskunft*) and fill it in advance.
+- [ ] **Proof of [liability insurance](/glossary/Haftpflichtversicherung)** (very optional)  
+    Landlords can't require liability insurance, but some ask for it anyway. Having it can make a small difference. You should have liability insurance anyway.[^53] - [More information](https://allaboutberlin.com/guides/haftpflichtversicherung)
 - [ ] **Copies of everything**  
-    Give censored copies to the landlord. Keep the originals.
-- [ ] **Pen**
+    Use them to apply for the apartment during the visit. Keep the originals.
 
 **Combine your documents** with a [PDF merging tool](https://www.adobe.com/acrobat/online/merge-pdf.html). Landlords prefer to get a single PDF.[^42]
 
@@ -376,6 +377,8 @@ If the landlord chooses you, they will ask for your documents. Send everything a
 You will sign a lease, pay the [deposit](/glossary/Kaution), get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
 
 **[How to sign the lease and move in ➞](/guides/moving-in)**
+
+![Apartment keys](/illustrations/apartment-keys.png)
 
 ## Your housing options
 
@@ -562,3 +565,4 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^50]: Spotahome employee (March 2024), [Spotahome](https://help.spotahome.com/hc/en-us/articles/213013309-Is-local-registration-possible) (2024)
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)

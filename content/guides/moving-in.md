@@ -5,7 +5,7 @@ Description: All the little things you should do when moving to a new address in
 Date_created: 2019-10-25
 ---
 
-After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you what there is to do.
+After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment](/guides/find-a-flat-in-berlin), you must move in. This guide shows you how it works.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -124,7 +124,7 @@ If you need help to move furniture, you can use a [Möbel Taxi](https://www.moeb
 
 ### Install light fixtures
 
-Most apartments come without light fixtures. You will need to get your own from Ikea or some other furniture store. You can hire a *Handwerker* to install them for you. You can find a *Handwerker* on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331).
+Most apartments come without light fixtures. You must buy your own and install them. A *Handwerker* can install them for you. Find one on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331).
 
 ### Change your address
 

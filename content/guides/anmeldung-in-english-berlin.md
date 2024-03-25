@@ -236,7 +236,7 @@ You should get [liability insurance](/glossary/Haftpflichtversicherung) for your
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
-When you move into an apartment, you must do a few things: lower your rent, put your name on the mailbox, deduct your moving costs, and more.
+When you move into an apartment, you must do a few things: lower your rent, get your name on your mailbox, deduct your moving costs, and more.
 
 **[Moving into a new apartment ➞](/guides/moving-in#after-the-move)**
 
