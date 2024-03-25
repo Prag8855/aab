@@ -100,15 +100,14 @@ There are also [hotels and hostels that let you do your *Anmeldung*](https://nom
 
 - **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** ⭐️  
     Affordable student housing. There are long waiting lists.
-- [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments
-- [Smartments](https://www.smartments-student.de/en/) - All-included student housing. Very expensive.
-- [Berlinovo](https://www.berlinovo.de/en/apartments/search) - They have some student housing
+- [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments.
+- [Smartments](https://www.smartments-student.de/en/) - All-included student housing. *[[Anmeldung]]* possible.
+- [Berlinovo](https://www.berlinovo.de/en/apartments/search) - They have some student housing.
 
 ### Housing companies
 
 - **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)** ⭐️  
     Search apartments from all state-owned companies: [Degewo](https://immosuche.degewo.de/de/search), [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html), [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/), [Howoge](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html), [Stadt und Land](https://www.stadtundland.de/) and [WBM](https://www.wbm.de/wohnungen-berlin/angebote/)
-- [Charlottenburger Baugenossenschaft](https://charlotte1907.de/wohnungsangebote/woechentliche-angebote) - Housing cooperative
 - [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Biggest housing company in Berlin
 - [Vonovia](https://www.vonovia.de/en) - Second biggest housing company
 - [DPF](https://www.dpfonline.de/interessenten/immobilien/)
@@ -181,7 +180,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **How is the housing company?**  
     Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). It could be a really bad landlord or a [housing scam](/guides/housing-scams).
 - [ ] **Neubau or Altbau?**  
-    New buildings (*Neubau*) are usually quieter and better insulated. They have concrete walls and floors. Old buildings (*Altbau*) have more charm with their high ceilings and hardwood floors.
+    New buildings (*Neubau*) are usually quieter and better insulated. They have concrete walls and floors. Old buildings (*Altbau*) have more charm with their high ceilings and hardwood floors, but they're usually louder and more expensive to heat.
 - [ ] **Which floor?**
     - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Ask if they improved the insulation in the recent years. Attic apartments (*Dachgeschosswohnung*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
     - **Upper floor apartments** get more sunlight. There is less traffic noise. Check if there is an elevator.
@@ -202,17 +201,17 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 ### Location checklist
 
 - [ ] **Neighbourhood**  
-    Berlin has a few popular neighbourhoods (*Kiez*): Kreuzberg, Prenzlauer Berg, Friedrichshain, Neukölln, etc. These neighbourhoods are more interesting, but they are busier, louder and more expensive. There is a lot of competition for apartments in those areas. To save money or live in a quiet area, look for apartments outside the *[[Ringbahn]]*.
+    Kreuzberg, Prenzlauer Berg, Friedrichshain, Neukölln are popular neighbourhoods, but there are other options. A less popular neighbourhood can be cheaper, safer and quieter. Berlin has good public transit; you don't need to live in the central areas. Look for places outside the *[[Ringbahn]]*
 - [ ] **Public transit access**  
     How is the train or tram connection? Use [Mapnificient](https://www.mapnificent.net/berlin/) and Google Maps to see how far you are from work.
 - [ ] **Crime**  
-    Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area. Areas next to big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas. You don't need to avoid the entire area, just the busy streets.
+    Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area. Areas next to some big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz, Leopoldplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas. You don't need to avoid the entire area, just the busy streets.
 - [ ] **Parking**  
     [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car). If you want a car, check if there is enough street parking. In central neighbourhoods, you might need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have basement parking. It usually costs around 120€ per month. You can [park motorcycles on the sidewalk](/guides/motorcycle-parking).
 - [ ] **Nearby services**  
     Check if there are supermarkets, [Spätis](/glossary/Späti), cafés and other businesses nearby.
 - [ ] **Noise**  
-    Main roads are noisy because of trams, cars and ambulances.[^15] Ambulances, trams and trains are *very* loud, even when you close your windows.[^16] Nearby restaurants, bars and [Spätis](/glossary/Späti) can be loud, even at night. - [Noise map of Berlin](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php)
+    Main roads are noisy because of cars, trams and ambulances.[^15] Ambulances, trams and trains are *very* loud, even when you close your windows.[^16] Nearby restaurants, bars and [Spätis](/glossary/Späti) can be loud, even at night. - [Noise map of Berlin](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php)
 
 [![Berlin busy areas](/images/berlin-busy-areas.png "In Google Maps, orange areas are interesting areas. They have good bars and restaurants, but they are busy and loud.")](/images/berlin-busy-areas.png)
 
@@ -318,7 +317,7 @@ When you visit apartments, your travel costs are [tax-deductible](/glossary/steu
 
 ### Visiting a flat share
 
-*[[WG]]* visits are more like an interview. You meet your future roommates, and they decide if they like you.[^41] Some interviews are very informal: you might meet to have a drink or even play board games together.
+*[[WG]]* visits are more like an interview. You meet your future roommates, and you decide if you like each other.[^41] Some interviews are very informal: you might meet to have a drink or even play board games together.
 
 The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to save money. They don't care so much about being your friend.
 
@@ -376,7 +375,7 @@ Make your documents easy to read. Remove useless pages, and highlight the import
 
 If the landlord chooses you, they will ask for your documents. Send everything as a single PDF.
 
-You will sign a lease, pay the [deposit](/glossary/Kaution), get the keys and move in. You must register your address, put your name on the mailbox, and change your address.
+You will sign a lease, pay the [deposit](/glossary/Kaution), get the keys and move in. You must register your address, put your name on the mailbox, and change your address. Be careful, it can still be a [scam](/guides/housing-scams).
 
 **[How to sign the lease and move in ➞](/guides/moving-in)**
 
@@ -510,7 +509,7 @@ In many countries, the first floor is the ground floor. In Germany, the first fl
 
 ## Need help?
 
-A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[Mieterverein]]* or a [lawyer](/guides/english-speaking-lawyers-berlin) can answer your legal questions.
+A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[Mieterverein]]* or a [lawyer](/guides/english-speaking-lawyers-berlin) can answer your legal questions. Join a *[[Mieterverein]]* or get [legal insurance](/glossary/Rechtsschutzversicherung) before you need it.
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
