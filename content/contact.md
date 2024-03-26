@@ -35,6 +35,7 @@ All About Berlin is also on...
 - [GitHub](https://github.com/all-about-berlin)
 - [Google Maps](/google-maps)
 - [LinkedIn](https://www.linkedin.com/company/allaboutberlin/)
+- [Mastodon](https://berlin.social/@allaboutberlin)
 - [Reddit](https://reddit.com/r/allaboutberlin)
 - [Twitter](https://twitter.com/aboutberlin)
 
