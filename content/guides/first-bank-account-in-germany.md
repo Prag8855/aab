@@ -134,7 +134,7 @@ Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)*
 
 ### Blocked account (Sperrkonto) for the student visa
 
-If you want to apply for a [student visa](/glossary/Student%20visa), you usually need a blocked account (*[[Sperrkonto]]*)[^40] as a [proof of financial resources](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/) (*Finanzierungsnachweis*). If you need a blocked account, a few **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** branches offer them.[^41] Some lesser-known banks such as **[Fintiba](/out/fintiba)** and **[Expatrio](https://www.expatrio.com:443/blocked-account)** also offer this service. Deutsche Bank stopped offering blocked accounts.[^42]
+If you want to apply for a [student visa](/glossary/Student%20visa), you usually need a blocked account (*[[Sperrkonto]]*)[^40] as a [proof of financial resources](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/) (*Finanzierungsnachweis*). If you need a blocked account, a few **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** branches offer them.[^41] Some lesser-known banks such as **[Fintiba](/out/fintiba)** and **[Expatrio](https://www.expatrio.com/blocked-account)** also offer this service. Deutsche Bank stopped offering blocked accounts.[^42]
 
 If you are Indian, you can open a blocking account with **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, and use it to get a German student visa.[^43]
 

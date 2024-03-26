@@ -124,7 +124,7 @@ The electricity contract is activated automatically. They don't need to visit yo
 
 ### Buy furniture and appliances
 
-Used appliances are much cheaper. Buy them on [Kleinanzeigen](https://www.kleinanzeigen.de:443/). Professional sellers offer a 12 month warranty and free delivery. Choose a seller with old accounts. New accounts are more likely to be scammers that sell broken appliances. I bought my appliances from [Wasch Max](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
+Used appliances are much cheaper. Buy them on [Kleinanzeigen](https://www.kleinanzeigen.de/). Professional sellers offer a 12 month warranty and free delivery. Choose a seller with old accounts. New accounts are more likely to be scammers that sell broken appliances. I bought my appliances from [Wasch Max](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=30162989).
 
 **[Where to buy furniture and house supplies ➞](/guides/where-to-buy-what#furniture-and-house-supplies)**
 

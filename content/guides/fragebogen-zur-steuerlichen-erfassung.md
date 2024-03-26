@@ -396,7 +396,7 @@ There are 4 columns to fill:
 In this section, you choose how you report your income to the *Finanzamt*.
 
 - **Gewinnermittlungsart** - Type of profit assessment  
-    This is how you report your profit to the *Finanzamt*. Read [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalancemoney.com:443/what-is-best-single-entry-or-double-entry-bookkeeping-393004) to compare single and double entry bookkeeping. If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).
+    This is how you report your profit to the *Finanzamt*. Read [this guide](https://basicaccountinghelp.com/double-entry-bookkeeping.html) or [this guide](https://www.thebalancemoney.com/what-is-best-single-entry-or-double-entry-bookkeeping-393004) to compare single and double entry bookkeeping. If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin).
     - **Gewinn- und Verlustrechnung** - Profit and loss statement  
         Also known as double entry bookkeeping. In some cases, you are forced to use double entry bookkeeping.
         - If you will be registered in the *[[Handelsregister]]*, you must choose this option.[^2]

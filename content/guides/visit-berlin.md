@@ -219,8 +219,8 @@ There is no "down town Berlin". There are many popular neighbourhoods, and each 
 
 [![2000Px S Bahn Ring Berlin Svg](/images/2000px-S-Bahn-Ring_Berlin.svg.png "The central parts of Berlin are inside the Ringbahn.")](/images/2000px-S-Bahn-Ring_Berlin.svg.png)
 
-- **Hotels:** [Booking.com](http://booking.com/)
-- **Hostels:** [Hostelworld](https://www.hostelworld.com:443/)
+- **Hotels:** [Booking.com](https://booking.com/)
+- **Hostels:** [Hostelworld](https://www.hostelworld.com/)
 - **Vacation apartments:** [Airbnb](https://www.airbnb.com/) or [Wimdu](https://www.wimdu.de/)
 - **Long term apartments:** see [How to find an apartment in Berlin](/guides/find-a-flat-in-berlin)
 
