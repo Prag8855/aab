@@ -39,21 +39,19 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### Ask everyone
 
-People often find an apartment through friends.[^21] Many apartments are never listed online.
-
 - **Tell everyone you know**  
-    You friends, family, colleagues or classmates might know someone who has a place to rent. They might host you for a few weeks.
+    You friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung).
 - **Ask your [[Hausverwaltung]]**  
-    They might have other apartments to rent. They might put you on a waiting list.
+    They might give you another apartment, or you on a waiting list.
 - **Get help from your university**  
     They have help clinics and a board with apartment listings.[^7] Join the waiting list for [student housing](#student-housing).
 
 ### Apartment search websites
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)** ⭐️  
-    The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. The premium account is worth it. Without it, it's almost impossible to find an apartment.[^1]
+    The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. Without the premium account, it's almost impossible to get replies.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de/)** ⭐️ - Biggest classified ads website.
-- **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
+- [Immowelt](https://www.immowelt.de/) - Second biggest housing website
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
 - [meinestadt.de](https://www.meinestadt.de/berlin/immobilien/wohnungen)
@@ -64,25 +62,25 @@ People often find an apartment through friends.[^21] Many apartments are never l
 These websites do not rent apartments directly. If you have a problem with the landlord, they might not help you.
 
 -  **[Homelike](/out/homelike)** ⭐️  
-    Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* required.[^51] Preferred by relocation consultants.
+    Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* needed.[^51] Preferred by relocation consultants.
 -  **[HousingAnywhere](/out/housinganywhere)** ⭐️  
-    Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.[^49] Some apartments have no [deposit](/glossary/Kaution).
+    Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - **[Spotahome](/out/spotahome)**  
-    Some landlords are verified.[^45] No *[[Anmeldung]]* filter, but most apartments allow it (under *House Rules*).[^50] To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
+    Some landlords are verified.[^45] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
 - **[Wunderflats](/out/wunderflats)**  
-    Landlords are verified, but people still get scammed. Wunderflats offers no protection.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* required.
+    They offer little protection against scams. Landlords are verified, but people still get scammed.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
-- [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible
-- [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible.[^8]
+- [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible if you stay over 1 month
+- [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible[^8]
 - [The Base](https://www.jointhebase.co/berlin) - *[[Anmeldung]]* possible if you stay over 1 month
 - [coming home](https://www.coming-home.com/)
 - [FarAwayHome](https://www.farawayhome.com/)
-- [Nestpick](https://www.nestpick.com/berlin/)
+- [Nestpick](https://www.nestpick.com/berlin/) - Listings from other websites
 - [White Apartments](https://white-apartments.com/)
 
 **Furnished rooms** are often cheaper on [Kleinanzeigen](https://www.kleinanzeigen.de/) and in [Facebook groups](#facebook-groups).[^55]
 
-You can also rent a **hotel, hostel or vacation apartment**. [Some hotels and hostels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) let you do your *Anmeldung*. Most of them don't allow it.
+You can also rent a **hotel, hostel or vacation apartment**. [Some hotels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) let you do your *Anmeldung*. Most of them don't allow it.
 
 - **[Airbnb](https://www.airbnb.com/)**
 - [9flats](https://www.9flats.com/de/berlin-deutschland)
@@ -145,7 +143,10 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 
 - **[BerlinRelo](https://www.berlinrelo.de/)** ⭐️  
     Long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
-- [Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/) - Short-term and long-term apartments. They improve your chances a lot, but they can't guarantee you an apartment.
+- **[Get The Flat](https://gettheflat.com/)**  
+    They help you prepare your documents and apply for apartments. They use bots to find apartments and automatically write to landlords.
+- **[Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/)**  
+    Short-term and long-term apartments. They help you prepare your documents and apply for apartments.
 - [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
@@ -155,8 +156,6 @@ To get an apartment, you must be fast. Use tools to find apartments and message 
 
 - **Apartment bots**  
     Use the [Hypofriend apartment bot](https://hypofriend.de/en/lp/immofriend), [@berlinflatsbot](https://t.me/berlinflatsbot), [Flathunters](https://flathunter.codders.io/) and [Homeboy](https://www.homeboy.immo/en). You get a notification when there are new apartments.
-- **Automatic messaging**  
-    [Get The Flat](https://gettheflat.com/) automatically writes to the landlord when it finds apartments that fit your needs. It's expensive.
 - **Alerts and push notifications**  
     Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and create alerts for new apartment listings.[^44] Turn on push notifications for the [Facebook groups](#facebook-groups) that you follow.
 
@@ -170,7 +169,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Is the price fair?**  
     The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are much more expensive. If you can't afford the rent, the [immigration office](/glossary/Ausländerbehörde) can reject your [residence permit](/glossary/Aufenthaltstitel) application.[^2] If the price is too low, it might be a scam.
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
-    Choose an apartment where you can do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address), especially for recent immigrants.
+    Choose an apartment where you can do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address) for recent immigrants.
 - [ ] **Is the lease unlimited?**  
     Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Short-term leases are often illegal](/guides/housing-scams#temporary-leases).
 - [ ] **What is included?**  
@@ -182,9 +181,9 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **How is the housing company?**  
     Search for reviews of your landlord or housing company (*[[Hausverwaltung]]*). It could be a really bad landlord or a [housing scam](/guides/housing-scams).
 - [ ] **Neubau or Altbau?**  
-    New buildings (*Neubau*) are usually quieter and better insulated. They have concrete walls and floors. Old buildings (*Altbau*) have more charm with their high ceilings and hardwood floors, but they're usually louder and more expensive to heat.
+    New buildings (*Neubau*) are usually quieter and better insulated. They have concrete walls and floors. Old buildings (*Altbau*) have beautiful high ceilings and hardwood floors, but they're usually louder and more expensive to heat.
 - [ ] **Which floor?**
-    - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Ask if they improved the insulation in the recent years. Attic apartments (*Dachgeschosswohnung*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
+    - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Attic apartments (*Dachgeschosswohnung*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
     - **Upper floor apartments** get more sunlight. There is less traffic noise. Check if there is an elevator.
     - **Lower floors and ground floor appartments** are darker and louder. Break-ins can happen. Neighbours can see inside your apartment.[^13] Some ground floor apartments have a garden.
 - [ ] **Street or courtyard?**  
@@ -205,11 +204,11 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Neighbourhood**  
     Kreuzberg, Prenzlauer Berg, Friedrichshain, Neukölln are popular neighbourhoods, but there are other options. A less popular neighbourhood can be cheaper, safer and quieter. Berlin has good public transit; you don't need to live in the central areas. Look for places outside the *[[Ringbahn]]*
 - [ ] **Public transit access**  
-    How is the train or tram connection? Use [Mapnificient](https://www.mapnificent.net/berlin/) and Google Maps to see how far you are from work.
+    How is the train or tram connection? Berlin has good public transit. You don't need to live in the centre. Use [Mapnificient](https://www.mapnificent.net/berlin/) and Google Maps to measure your commute.
 - [ ] **Crime**  
     Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area. Areas next to some big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz, Leopoldplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas. You don't need to avoid the entire area, just the busy streets.
 - [ ] **Parking**  
-    [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car). If you want a car, check if there is enough street parking. In central neighbourhoods, you might need a [parking permit](/guides/car-cost-of-ownership-germany#parking). Your building might have basement parking. It usually costs around 120€ per month. You can [park motorcycles on the sidewalk](/guides/motorcycle-parking).
+    [You don't need a car in Berlin](/guides/buying-used-car-in-germany#do-you-need-a-car). Is enough street parking? Do you need a [parking permit](/guides/car-cost-of-ownership-germany#parking)? Does your building have basement parking? How much does it cost? You can [park motorcycles on the sidewalk](/guides/motorcycle-parking).
 - [ ] **Nearby services**  
     Check if there are supermarkets, [Spätis](/glossary/Späti), cafés and other businesses nearby.
 - [ ] **Noise**  
@@ -229,10 +228,10 @@ Write a short message that includes...[^30]
 - [ ] Your salary ⭐️
 - [ ] Your name (and doctor title)
 - [ ] Your age
-- [ ] Your residence status
+- [ ] Your residence status: residence permit, permanent residence, EU citizenship
 - [ ] When you want to move in
 - [ ] Who will move in with you
-- [ ] A personal introduction
+- [ ] A unique personal introduction
 - [ ] A photo of you (optional, but it helps)[^31]
 - [ ] Anything that [landlords want](#what-landlords-want)
 
@@ -243,17 +242,17 @@ Do not send all your documents yet. It just annoys landlords.[^52]
 To improve your chances...
 
 - **Be fast**  
-    If you like an apartment, do not wait. Landlords get hundreds of messages per hour.[^22] Most apartment listings disappear after a few minutes.[^26] Use [bots, notifications and message templates](#bots-and-automation) to be the fastest to apply . Get ImmoScout24 Premium to message landlords before others.[^33]
+    If you like an apartment, do not wait. Landlords get hundreds of messages per hour.[^22] Most apartment listings disappear after a few minutes.[^26] Use [bots, notifications and message templates](#bots-and-automation) to apply faster. Get ImmoScout24 Premium to message landlords before others.[^33]
 - **Don't be picky**  
-    You probably won't get a cheap apartment in a good neighbourhood. Be ready to take what you find. If you are a recent immigrant, [your options](#your-housing-options) are very limited.
+    You probably won't get a cheap apartment in a cool neighbourhood. Be ready to take what you find. If you are a recent immigrant, [your options](#your-housing-options) are limited.
 - **Send a lot of messages**  
-    You might need to send hundreds of messages. Searching for an apartment is a full time job. It can take months.
+    You might need to send hundreds of messages to get a few visits. Searching for an apartment is a full time job. It can take months.
 - **Be prepared**  
     Prepare all the [required documents](#required-documents) in advance. Be ready to send them quickly.
 - **Write and call**  
     Most landlords prefer emails, but some prefer calls.[^35] Try both.
 - **Have a detailed profile**  
-    Create a detailed profile on housing websites. It helps you make a good impression when you message a landlord.
+    Create a detailed profile on housing websites, and upload your documents. It helps you make a good impression when you message a landlord.
 - **Be brief**  
     Don't make landlords read. Write message short and simple messages. Only send the important parts of your documents.
 
@@ -263,13 +262,13 @@ Landlords want **stability**. They want quiet tenants who pay rent on time.
 
 In order, they prefer...[^32]
 
-- Couples without children 👍👍👍
-- Singles without children 👍👍
+- Couples without children 👍 👍 👍
+- Single people without children 👍 👍
 - Families with children 👍
 - Retirees 👎
-- Students 👎👎
-- Single parents 👎👎
-- [Flatshares](/glossary/WG) 👎👎👎
+- Students 👎 👎
+- Single parents 👎 👎
+- [Flatshares](/glossary/WG) 👎 👎 👎
 
 Landlords prefer...
 
@@ -289,7 +288,7 @@ Landlords prefer...
 Landlords often avoid...
 
 - **Recent immigrants**  
-    Recent immigrants often lose their job, lose their residence permit or move away. Landlords prefer stable tenants. Discrimination also happens.[^9] Some landlords *prefer* immigrants because they pay more and don't know their rights.[^25]
+    They are more likely to lose their job, lose their residence permit or move away. Discrimination also happens.[^9] Some landlords *prefer* immigrants because they pay more and don't know their rights.[^25]
 - **People who know their rights**  
     Landlords avoid people who know the rules, like lawyers and government employees.[^24]
 - Parents[^29]
@@ -298,24 +297,24 @@ Landlords often avoid...
 
 ## 4. Visit the apartment
 
-If you are lucky, you will get invited to an apartment visit. Arrive early. Bring all the [required documents](#required-documents). You can usually apply for the apartment at the end of the visit.
+If you are lucky, you will get invited to an apartment viewing. Arrive early. Bring all the [required documents](#required-documents). You can usually apply for the apartment at the end of the visit.
 
-It can be a private viewing (just you) or an open viewing (many other people). Viewings with more than 40 people are usually a waste of time.[^20]
+It can be a private viewing (just you) or an open viewing (many other people). Don't go to a viewing with more than 40 people; they are usually a waste of time.[^20]
 
 When you visit apartments, your travel costs are [tax-deductible](/glossary/steuerlich%20Absetzbar). You can deduct 0.30€ per kilometre.
 
-### Apartment visit checklist
+### Apartment viewing checklist
 
-- [ ] **Appliances**  
-    Check what appliances fit in the apartment. Do you need a smaller washing machine? Is there room for a dishwasher? Does your bed fit in the bedroom?
 - [ ] **Noise**  
     How is the soundproofing? Can you hear the neighbours? Can you hear the noise outside? Traffic, ambulances, bars and other noise can be a problem.
 - [ ] **Neighbours**  
-    Check who your neighbours are. If you visit the apartment during the day, it can be quieter than in the evening, when all your neighbours are at home.
+    Check who your neighbours are. Children and dogs can make a lot of noise. If you visit the apartment during the day, it can be quieter than in the evening, when all your neighbours are at home.
 - [ ] **Mold**  
     Look for [mold stains](https://commons.wikimedia.org/wiki/File:Moldy_livingroom_Panewniki_01.jpg) around windows and in the corners of the rooms. Mold problems can be hard to fix.
 - [ ] **Hausordnung**  
-    Each building has different house rules (*[[Hausordnung]]*). The *Hausordnung* often has rules about [quiet hours](/guides/quiet-hours), grilling, ventilation, musical instruments, vehicles and pets.[^40]
+    Each building has different house rules (*[[Hausordnung]]*). It has rules about [quiet hours](/guides/quiet-hours), grilling, ventilation, musical instruments, vehicles and pets.[^40]
+- [ ] **Appliances**  
+    Check what appliances fit in the apartment. Do you need a smaller washing machine? Is there room for a dishwasher? Does your bed fit in the bedroom?
 
 ### Visiting a flat share
 
@@ -330,15 +329,15 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 - **Be on time**  
     Arrive a little early. You will have more time to find the place and meet the landlord. If you are late, tell the landlord as soon as you can.[^28]
 - **Be pleasant**  
-    Be polite and friendly. Greet the landlord or the agent. Speak German if you can.
+    Be polite and friendly. Greet the landlord or the agent. Speak German if you can. It's important to make a good impression.
 - **Don't complain**  
     If you start finding problems with the apartment, you look like you will be a difficult tenant.
 - **Don't negotiate**  
-    The rent is not negotiable. There are dozens of other candidates. The price will not go down.
+    The rent is not negotiable. There are dozens of other people who want this apartment. The price will not go down, and you won't get the apartment.
 
 ## 5. Apply for the apartment
 
-If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents). Some landlords accept printed documents during the visit.
+If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents). You can sometimes apply during the viewing.
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
 
@@ -347,8 +346,7 @@ If you like the apartment, apply for it as soon as you can. Send the [required d
 To apply for an apartment, you need these documents:[^19]
 
 - [ ] **[[Schufa]] report**  
-    You can [get one for free](/guides/schufa). If you can't get a Schufa, bring a work contract or a [tax return](/glossary/Steuerbescheid) to prove your income. Furnished apartments from [Homelike](/out/homelike), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats) don't ask for a Schufa.[^37]
-- [ ] **Passport or [[Personalausweis]]**
+    You can [get one for free](/guides/schufa). It's also included with the ImmoScout24 premium account. If you can't get a Schufa, bring more proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
 - [ ] **Proof of income** (*Einkommensnachweis*)
     - **If you are an employee**  
         Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
@@ -360,6 +358,7 @@ To apply for an apartment, you need these documents:[^19]
     This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It does not have a standard format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). You can also use bank statements to show that you pay rent every month.[^47]
 - [ ] **[[Mietbürgschaft]]** (optional)  
     If you have a low or unstable income, someone can be your guarantor. If you don't pay rent, they must pay it for you. It's useful for students and freelancers. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
+- [ ] **Passport or [[Personalausweis]]**
 - [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form (*Selbstauskunft*) and fill it in advance.
 - [ ] **Proof of [liability insurance](/glossary/Haftpflichtversicherung)** (very optional)  
@@ -369,9 +368,9 @@ To apply for an apartment, you need these documents:[^19]
 
 **Combine your documents** with a [PDF merging tool](https://www.adobe.com/acrobat/online/merge-pdf.html). Landlords prefer to get a single PDF.[^42]
 
-Make your documents easy to read. Remove useless pages, and highlight the important information.[^4]
+**Make your documents easy to read.** Remove useless pages, and highlight the important information.[^4] Make it easy for landlords.
 
-[Censor and watermark your documents](/guides/housing-scams#censor-your-documents) before you send them. It helps prevent identity theft.
+**[Censor and watermark your documents](/guides/housing-scams#censor-your-documents)** before you send them. It helps prevent identity theft.
 
 ## 6. Sign the lease and move in
 
@@ -402,7 +401,7 @@ Furnished apartments are...
 - **Convenient**  
     They include everything you need: furniture, appliances, cookware, internet and electricity. You can just [move in](/guides/moving-in) and focus on other problems.
 - **Temporary**  
-    You have a temporary lease. When it ends, you must move out. Usually, you can't move out early, and you can't stay longer.
+    You have a short-term lease. You must move out when your lease ends. Usually, you can't move out early, and you can't stay longer.
 - **Overpriced**  
     They are *very* expensive; more than twice the price of a regular apartment. They are a really bad deal. If you have a low budget, rent a room in a [[WG]].
 
@@ -424,6 +423,8 @@ With a regular apartment...
     They come with no furniture, appliances, light fixtures or curtains. They are completely empty. You must buy everything yourself. You must also get an internet contract and an electricity contract. In Berlin, they must come with a stove and a sink.[^3]
 - **You can stay forever**  
     The lease is unlimited (*unbefristet*). Once you move in, it's your home. It's really hard to kick you out. You must give a [3-month notice](/glossary/Kündigungsfrist) before you [move out](/guides/moving-out).
+- **You save money in the long term**  
+    You must buy everything for the apartment, but the rent is much lower. Over time, you save a lot of money.
 
 Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 40% of your monthly [net income](/glossary/Netto%20income).[^34]
 
@@ -431,9 +432,9 @@ Start looking for a regular apartments 1 to 3 months before you [move in](/guide
 
 ### Room in a [[WG]]
 
-Renting a room in a [shared apartment](/glossary/WG) is a **cheap, long-term solution**. Rooms in a WG are really hard to find.[^6]
+Renting a room in a [shared apartment](/glossary/WG) is a **cheaper long-term solution**. Rooms in a WG are really hard to find.[^6]
 
-Short-term rooms are easier to find. You usually rent someone's room they travel. Usually, you can't do your *[[Anmeldung]]* there, so they are a bad option.
+Usually, you must meet your roommates for an interview. Most WG interviews are like a personality test or a culture fit test. Interviews for a *[[Zweck-WG]]* are more formal.
 
 Rooms in a WG are...
 
@@ -442,7 +443,7 @@ Rooms in a WG are...
 - **Convenient**  
     Your roommates already have some furniture and cookware that you can use. The internet and utilities are already connected. You might only need furniture for your room. You don't need to furnish a whole apartment.
 
-Usually, you must meet your roommates for an interview. Most WG interviews are like a personality test or a culture fit test. Interviews for a *[[Zweck-WG]]* are more formal.
+Sometimes, people sublet their furnished room while they travel. These short-term rooms are much easier to find. Usually, you can't [register your address](/glossary/Anmeldung) there, and [that can be a problem](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address).
 
 **[Look for a room in a WG ↑](#wgs-flat-shares-and-roommates)**
 
@@ -458,13 +459,13 @@ You can also get luxury student housing. It's very expensive, but it's easier to
 
 ### Buying an apartment
 
-If you just moved to Berlin, **don't buy an apartment**. Buying is harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage.
+If you just moved to Berlin, **don't buy an apartment**. Buying is harder than renting. If you just started a new job, you won't get a mortgage. If you don't have EU citizenship or [permanent residence](/glossary/Niederlassungserlaubnis), you won't get a mortgage. If you don't know the housing market well, you can make really bad decisions.
 
 ## Important knowledge
 
 ### Anmeldung
 
-Always choose a place where you can register your address (the *[[Anmeldung]]*). If you can't register your address, it will make your life much harder. Some short-term apartments don't allow the *Anmeldung*. Don't choose those places.
+The *[[Anmeldung]]* is really important. Always choose a place where the *Anmeldung* is allowed. If you can't register your address, it makes your life much harder.
 
 **[Why the Anmeldung is important ➞](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)**
 
@@ -482,7 +483,7 @@ The warm rent (*[[Warmmiete]]*) is what you pay every month. It's the cold rent 
 
 The *Nebenkosten* usually include:
 
-- Heating
+- Heating (most of the time)
 - Hot water (most of the time)
 - Trash collection
 - Cleaning and landscaping
@@ -493,15 +494,17 @@ The *Nebenkosten* are not a fixed cost, because you don't know how much water an
 
 Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
 
-[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are very expensive.
+[Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are much more expensive.
 
-Sometimes, the previous tenants want you to buy their furniture. They usually ask for a really high price, because they know you want the apartment. It's a [common scam](/guides/housing-scams#buy-the-furniture-to-get-the-flat).
+Sometimes, the previous tenant wants to sell their furniture to you. If you don't buy the furniture, you don't get the apartment. The price is often really high, because they know that you want the apartment. It's a [common scam](/guides/housing-scams#buy-the-furniture-to-get-the-flat).
 
 ### Rent is paid by bank transfer
 
 You usually pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay rent with cash, and never with cheques. If the landlord uses another payment method, it's probably a [scam](/guides/housing-scams).
 
 You need a European bank account to make bank transfers. Use [Wise](/out/transferwise) to transfer money from a non-EU country.
+
+**[Open a bank account ➞](/guides/first-bank-account-in-germany)**
 
 ### Rooms and floors
 
@@ -558,7 +561,6 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^34]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/1-drittel-des-nettogehalts-miete-kalt-oder-warm), [immobilien.vr.de](https://immobilien.vr.de/immobilien/immobilie-mieten/wohnung-mieten/wie-viel-miete-kann-ich-mir-leisten.html)
 [^35]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=kurz%20vor%20Vertragsschluss.-,kontaktaufnahme%20am%20liebsten%20per%20mail,-Ziemlich%20einig%20sind)
 [^36]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
-[^37]: [wunderflats.com](https://wunderflats.com/en/help/post/75000054504)
 [^38]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
 [^39]: [HousingAnywhere](https://answers.housinganywhere.com/en/articles/2498908-how-can-i-be-sure-a-listing-is-real-and-protect-myself-from-scammers), [HousingAnywhere](https://housinganywhere.com/pricing/tenants)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
@@ -571,7 +573,6 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
-[^50]: Spotahome employee (March 2024), [Spotahome](https://help.spotahome.com/hc/en-us/articles/213013309-Is-local-registration-possible) (2024)
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)
