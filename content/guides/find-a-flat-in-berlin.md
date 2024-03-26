@@ -26,7 +26,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 - [ ] **Know [your options](#your-housing-options)**  
     Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
 - [ ] **Save money**  
-    You need enough money for the [deposit](/glossary/Kaution) and the first month of rent. You must also buy furniture, appliances, and house supplies.
+    You need enough money for the [deposit](/glossary/Kaution) and the first month of rent. You must also buy furniture, appliances, and house supplies. If you have a low budget, rent a room in a [[WG]].
 - [ ] **Understand [how housing works](#important-knowledge) in Germany**  
     If you are new in Germany, there are little differences that you must know about.
 - [ ] **Prepare the [required documents](#required-documents)**
@@ -52,7 +52,7 @@ People often find an apartment through friends.[^21] Many apartments are never l
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)** ⭐️  
     The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. The premium account is worth it. Without it, it's almost impossible to find an apartment.[^1]
-- **[Kleinanzeigen](https://www.kleinanzeigen.de:443/)** ⭐️ - Biggest classified ads website.
+- **[Kleinanzeigen](https://www.kleinanzeigen.de/)** ⭐️ - Biggest classified ads website.
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
 - [Immonet](https://www.immonet.de/)
 - [Immobilo](https://www.immobilo.de/)
@@ -80,7 +80,9 @@ These websites do not rent apartments directly. If you have a problem with the l
 - [Nestpick](https://www.nestpick.com/berlin/)
 - [White Apartments](https://white-apartments.com/)
 
-You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day, like a hotel. You can rarely do your *[[Anmeldung]]* there.
+**Furnished rooms** are often cheaper on [Kleinanzeigen](https://www.kleinanzeigen.de/) and in [Facebook groups](#facebook-groups).[^55]
+
+You can also rent a **hotel, hostel or vacation apartment**. [Some hotels and hostels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) let you do your *Anmeldung*. Most of them don't allow it.
 
 - **[Airbnb](https://www.airbnb.com/)**
 - [9flats](https://www.9flats.com/de/berlin-deutschland)
@@ -88,18 +90,18 @@ You can also rent a vacation apartment (*Ferienwohnung*). You rent by the day, l
 - [Monteurzimmer.de](https://www.monteurzimmer.de/en)
 - [Wimdu](https://www.wimdu.de/)
 
-There are also [hotels and hostels that let you do your *Anmeldung*](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/).
-
 ### [[WG]]s, flat shares and roommates
 
 - **[WG-Gesucht](https://www.wg-gesucht.de/)** ⭐️  
     The most popular website for flat shares. It's very competitive. You might send hundreds of messages and never get a reply.
 - [WG Suche](https://www.wg-suche.de/wg-zimmer/deutschland-berlin)
 
+Short-term furnished rooms on [Kleinanzeigen](https://www.kleinanzeigen.de/) and [Facebook](#facebook-groups) are cheaper than on [short-term housing websites](#short-term-and-furnished-apartments).[^55]
+
 ### Dorms and student housing
 
 - **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** ⭐️  
-    Affordable student housing. There are long waiting lists.
+    Affordable student housing. There are long waiting lists. Only for students of partner universities.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments.
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. *[[Anmeldung]]* possible.
 - [Berlinovo](https://www.berlinovo.de/en/apartments/search) - They have some student housing.
@@ -396,17 +398,19 @@ Short-term, furnished apartments are a **temporary solution**. Use them to [move
 Furnished apartments are...
 
 - **Immigrant-friendly**  
-    You can book them months before you come to Germany. You don't need to speak German. You don't need a stable job, a [residence permit](/glossary/Aufenthaltstitel), a *[[Schufa]]* or a [deposit](/glossary/Kaution).
+    You can book them long before you arrive in Germany. You don't need to speak German. You don't need a stable job, a [residence permit](/glossary/Aufenthaltstitel), a *[[Schufa]]* or a [deposit](/glossary/Kaution).
 - **Convenient**  
     They include everything you need: furniture, appliances, cookware, internet and electricity. You can just [move in](/guides/moving-in) and focus on other problems.
 - **Temporary**  
-    Your lease has an end date. When it ends, you must move out. You can't leave early, and you usually can't stay longer.
+    You have a temporary lease. When it ends, you must move out. Usually, you can't move out early, and you can't stay longer.
 - **Overpriced**  
-    They are *very* expensive; more than twice the price of a regular apartment. They are a really bad deal.
+    They are *very* expensive; more than twice the price of a regular apartment. They are a really bad deal. If you have a low budget, rent a room in a [[WG]].
 
-You can also rent someone's furnished room while they travel. It gives you a place to stay for a few weeks. Usually, you can't do your *[[Anmeldung]]* there, so it's a bad option. The *Anmeldung* is [really important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address).
+**Furnished rooms** in a [[WG]] are cheaper. People often sublet their rooms while they travel. You can live there for a few weeks. Usually, you can't do your *[[Anmeldung]]* there, and [that can be a problem](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address).
 
-There are also [hotels and hostels where you can do your *Anmeldung*](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/).
+There are also [**hotels and hostels** where you can do your *Anmeldung*](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/).
+
+Start looking for short-term housing as soon as you know your move-in date.[^54] You can usually book it long in advance.
 
 **[Look for short-term housing ↑](#short-term-and-furnished-apartments)**
 
@@ -420,6 +424,8 @@ With a regular apartment...
     They come with no furniture, appliances, light fixtures or curtains. They are completely empty. You must buy everything yourself. You must also get an internet contract and an electricity contract. In Berlin, they must come with a stove and a sink.[^3]
 - **You can stay forever**  
     The lease is unlimited (*unbefristet*). Once you move in, it's your home. It's really hard to kick you out. You must give a [3-month notice](/glossary/Kündigungsfrist) before you [move out](/guides/moving-out).
+
+Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 40% of your monthly [net income](/glossary/Netto%20income).[^34]
 
 **[Look for a regular apartment ↑](#look-for-apartments)**
 
@@ -442,9 +448,11 @@ Usually, you must meet your roommates for an interview. Most WG interviews are l
 
 ### Student housing
 
-Student dorms are the **cheapest option for students**, but they are hard to get. There are long waiting lists.[^43] You can get luxury student housing. It's very expensive, but it comes with everything you need.
+Student dorms are the **cheapest option for students**, but they are hard to get. There are long waiting lists.[^43] It's only available for public universities and *some* private universities.[^56]
 
 **[How to apply for student housing](https://www.stw.berlin/wohnen/faq-wohnen/wie-bewerbe-ich-mich-um-einen-wohnplatz.html)** (in German) - StudierendenWERK Berlin
+
+You can also get luxury student housing. It's very expensive, but it's easier to get, and it comes with everything you need.
 
 **[Look for student housing ↑](#dorms-and-student-housing)**
 
@@ -567,3 +575,6 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)
+[^54]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^55]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^56]: Padcha, Thai Embassy in Berlin (March 2024)
