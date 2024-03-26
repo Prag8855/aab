@@ -5,6 +5,7 @@ English_term: Apartment handover
 Description: Returning the keys and signing a handover document before moving out of an apartment.
 Date_created: 2020-06-12
 Related_guides:
+    guides/find-a-flat-in-berlin.md
     guides/moving-in.md
     guides/moving-out.md
 ---

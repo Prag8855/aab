@@ -5,18 +5,14 @@ English_term: Registration certificate
 Description: A registration certificate (Anmeldebestätigung or Meldebestätigung) proves that you live at a certain address.
 Date_created: 2018-07-31
 Related_guides:
-    guides/first-bank-account-in-germany.md
-    guides/schufa.md
-    guides/an-honest-review-of-n26.md
-    guides/getting-married-in-germany.md
-    guides/freelance-visa.md
-    guides/replacement-meldebescheinigung.md
-    guides/convert-to-german-driving-licence.md
-    guides/start-a-business-in-germany.md
     guides/anmeldung-in-english-berlin.md
+    guides/find-a-flat-in-berlin.md
     guides/moving-to-berlin.md
+    guides/moving-in.md
+    guides/address-change.md
+    guides/replacement-meldebescheinigung.md
+    guides/first-bank-account-in-germany.md
     guides/german-banks-no-address.md
-    guides/how-to-get-a-kitagutschein.md
 ---
 
 A registration certificate (*Anmeldebestätigung* or *Meldebestätigung*) proves that you live at a certain address.

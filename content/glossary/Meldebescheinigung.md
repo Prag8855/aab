@@ -9,6 +9,8 @@ Related_guides:
     guides/anmeldung-in-english-berlin.md
     guides/replacement-meldebescheinigung.md
     guides/german-banks-no-address.md
+    guides/anmeldung-in-english-berlin.md
+    guides/moving-in.md
 ---
 
 The *Meldebescheinigung* is a copy of your registration certificate (*[[Anmeldebestätigung]]*). It's a proof of where you live.

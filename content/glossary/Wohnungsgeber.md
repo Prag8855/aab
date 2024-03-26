@@ -4,7 +4,9 @@ German_term: Wohnungsgeber
 English_term: Landlord or apartment-giver
 Description: The person who rents or sublets an apartment.
 Date_created: 2018-07-31
-Related_guides: guides/anmeldung-in-english-berlin.md
+Related_guides:
+    guides/anmeldung-in-english-berlin.md
+    guides/moving-in.md
 ---
 
 The *Wohnungsgeber* (the "apartment-giver") is the person who gives you a room or an apartment to rent. It can be the landlord, or the main tenant (*[[Hauptmieter]]*).[^0] The main tenant must get permission from the landlord to sublet a room or the entire apartment. [In some situations](/guides/anmeldung-in-english-berlin#can-the-landlord-refuse-to-let-me-register), the landlord can refuse.[^1]

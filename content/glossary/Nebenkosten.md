@@ -6,7 +6,9 @@ Description: What you pay for utilities every month. It includes hot water, heat
 Date_created: 2018-08-21
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    guides/moving-in.md
     guides/mietkaution.md
+    guides/cost-of-living.md
 ---
 
 Utility costs (*Nebenkosten*) are services that are included in your [warm rent](/glossary/Warmmiete).

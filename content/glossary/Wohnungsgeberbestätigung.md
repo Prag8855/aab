@@ -7,9 +7,6 @@ Date_created: 2018-07-31
 Related_guides:
     guides/find-a-flat-in-berlin.md
     guides/anmeldung-in-english-berlin.md
-    guides/freelance-visa.md
-    guides/work-visa.md
-    guides/blue-card.md
     guides/moving-in.md
 ---
 

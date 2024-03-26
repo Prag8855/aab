@@ -9,6 +9,8 @@ Related_guides:
     guides/wenigermiete-review.md
     guides/mietendeckel-repealed.md
     guides/legal-insurance.md
+    guides/housing-scams.md
+    guides/find-a-flat-in-berlin.md
 ---
 
 A tenant association (*Mieterverein* or *Mieterschutzverein*) gives legal assistance to renters. When you are a member of a Mieterverein, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment.
