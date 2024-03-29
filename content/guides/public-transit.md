@@ -17,7 +17,7 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 
 To use **intercity trains** (IC and ICE), buy a ticket from the [Deutsche Bahn website](https://bahn.de), in the DB Navigator app, a DB Reisezentrum or a DB ticket machine. You can't buy tickets on the train.
 
-To travel **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry) buy a local public transit ticket. This lets you travel in Berlin and parts of Brandenburg.
+To use **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry), buy a local public transit ticket. It lets you travel in Berlin and parts of Brandenburg.
 
 You can buy local public transit tickets...
 
