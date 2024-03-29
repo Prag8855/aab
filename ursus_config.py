@@ -485,8 +485,8 @@ config.context_globals = {
     "KLEINUNTERNEHMER_MAX_INCOME": 50000,
 
     # Above that amount (€/y), you must use double entry bookkeeping - § 241a HGB
-    "DOUBLE_ENTRY_MIN_REVENUE": 600000,
-    "DOUBLE_ENTRY_MIN_INCOME": 60000,
+    "DOUBLE_ENTRY_MIN_REVENUE": 800000,
+    "DOUBLE_ENTRY_MIN_INCOME": 80000,
 
     # (€/m) - monitored
     "RUNDFUNKBEITRAG_FEE": 18.36,
