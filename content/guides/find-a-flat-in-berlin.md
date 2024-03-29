@@ -171,7 +171,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Choose an apartment where you can do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address) for recent immigrants.
 - [ ] **Is the lease unlimited?**  
-    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Short-term leases are often illegal](/guides/housing-scams#temporary-leases).
+    Look for an unlimited (*unbefristet*) contract. A short-term lease means that you must move again in a few months. [Short-term leases are often illegal](/guides/housing-scams#short-term-leases).
 - [ ] **What is included?**  
     Most apartments come empty. No furniture, appliances, curtains or light fixtures. [[WG]]s might come with most of what you need. Furnished apartments come with everything, but they are expensive.
     - **Electricity**  
@@ -370,7 +370,7 @@ To apply for an apartment, you need these documents:[^19]
 
 **Make your documents easy to read.** Remove useless pages, and highlight the important information.[^4] Make it easy for landlords.
 
-**[Censor and watermark your documents](/guides/housing-scams#censor-your-documents)** before you send them. It helps prevent identity theft.
+**Censor and [watermark](https://tools.pdf24.org/en/add-watermark) your documents** before you send them. It helps prevent identity theft.
 
 ## 6. Sign the lease and move in
 
