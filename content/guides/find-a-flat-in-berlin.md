@@ -183,7 +183,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Neubau or Altbau?**  
     New buildings (*Neubau*) are usually quieter and better insulated. They have concrete walls and floors. Old buildings (*Altbau*) have beautiful high ceilings and hardwood floors, but they're usually louder and more expensive to heat.
 - [ ] **Which floor?**
-    - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Attic apartments (*Dachgeschosswohnung*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
+    - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Attic apartments (*[[Dachgeschosswohnung]]*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
     - **Upper floor apartments** get more sunlight. There is less traffic noise. Check if there is an elevator.
     - **Lower floors and ground floor appartments** are darker and louder. Break-ins can happen. Neighbours can see inside your apartment.[^13] Some ground floor apartments have a garden.
 - [ ] **Street or courtyard?**  

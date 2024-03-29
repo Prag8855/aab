@@ -58,7 +58,7 @@ Sometimes, an address is not enough. You must add extra information in the *Addr
 ![Parts of a building: Hinterhaus, Vorderhaus, Seitenflügel](/images/hinterhaus-vorderhaus-germany.jpg)
 
 - **Floor number**[^3]  
-    - Attic apartment: *Dachgeschoss* or *DG*
+    - Attic: *Dachgeschoss* or *DG*
     - 2nd floor: *2. Etage*, *2. Stock* or *2. OG*
     - 1st floor (after the ground floor): *1. Etage*, *1. Stock* or *1. OG*
     - Ground floor: *Erdgeschoss* or *EG*
