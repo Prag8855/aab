@@ -37,10 +37,6 @@ Landlords make more money with furnished apartments, so they are more and more o
 
 [Rent control](/glossary/Mietpreisbremse) applies to furnished apartments too. Landlords can't overcharge for furniture either. The cost of furniture (*Möblierungszuschlag*) must match the actual value of the furniture.[^48]
 
-Ask a lawyer or a *[[Mieterverein]]* to check your lease. They can tell you if your rent is too high.
-
-**[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
-
 ### Short-term leases
 
 Most German leases are unlimited (*unbefristet*). They have no end date.[^34]
@@ -63,8 +59,6 @@ Some apartments have short-term leases. When the lease ends, you must [move out]
 The lease must say exactly why it's temporary.[^35] If there is no valid reason, the expiration date is not valid. The lease becomes unlimited.[^31]
 
 To extend a short-term lease, talk to a lawyer or a *[[Mieterverein]]*.[^39] Do it 4 months before your lease expires.[^41]
-
-**[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
 
 ### Pay a bribe to get the apartment
 
@@ -123,7 +117,7 @@ Landlords often use fake *Eigenbedarf* to kick tenants out. Instead of moving in
 
 If this happens to you, [get legal help](/guides/questions-about-berlin#apartment-questions).[^47] You can usually stop it, delay it, or get paid to move out.
 
-### Landlord does not give the deposit back
+### Landlord does not return the deposit
 
 After you [move out](/guides/moving-out), the landlord must return your [deposit](/glossary/Kaution). It can take up to 6 months.
 
@@ -137,21 +131,20 @@ The landlord can only use your deposit to repair damage that you caused. It must
 
 Signs of a scam:
 
-- The price is too good to be true[^9]
-- The rent and *[[Nebenkosten]]* round numbers like 800€[^13]
+- ⚠️ The price is too good to be true[^9]
+- ⚠️ The rent and *[[Nebenkosten]]* are round numbers like 800€ and 75€[^13]
 
-Check if the apartment really exists.  Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the photos are used on other websites.
-
-Use Google search to check if the listing text is used on other websites.
+Check if the apartment really exists.  Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the photos are used on other websites. Use Google search to check if the listing text is used on other websites.
 
 ### When you contact the landlord
 
 Signs of a scam:
 
-- The landlord's user account is only a few days old
-- The landlord is German, but speaks bad German
-- The landlord is from an has an English name, but speaks bad English
-- The landlord sends you a scan of their passport[^29]
+- 🛑 The landlord is in another country
+- 🛑 The landlord is German, but speaks bad German
+- 🛑 The landlord has an English name, but speaks bad English
+- 🛑 The landlord sends you a scan of their passport[^29]
+- ⚠️ The landlord's account is only a few days old
 
 Google the name, email address and [[IBAN]] of the landlord or *[[Hausverwaltung]]*. Check if they really exist, and if there are warnings about them. Google parts of their message. Check if they used the same message to scam other people.[^10]
 
@@ -165,14 +158,15 @@ Really bad German or English grammar
 
 ### When you visit the apartment
 
+Signs of a scam:
+
+- 🛑 You can't visit the apartment
+- 🛑 You must pay to visit the apartment
+- ⚠️ There is a [key safe](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) in the entrance. It might be scammers renting a vacation apartment.
+
 Always see the apartment in person. If you are not in Germany, **use a platform with verified landlords** like [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
 
 **Don't pay anything** before you see the apartment and sign a lease.
-
-Signs of a scam:
-
-- You can't visit the apartment
-- There is a [key safe](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) in the entrance. It might be scammers renting a vacation apartment.
 
 ### When you apply for the apartment
 
@@ -184,8 +178,8 @@ Signs of a scam:
 
 Signs of a scam:
 
-- The lease is in English
-- The landlord wants the [deposit](/glossary/Kaution) right after sign the lease[^26]
+- 🛑 The landlord asks you to pay as soon as you sign the lease[^26]
+- ⚠️ The lease is in English
 
 Ask *[[Mieterverein]]* or a lawyer to verify your lease. [Red Tape Translation](/out/red-tape-translation-lease) can translate and summarise your lease.
 
@@ -199,10 +193,10 @@ If your rent is too high, [Conny](/out/conny-mietpreisbremse), a lawyer or a *[[
 
 Signs of a scam:
 
-- The landlord asks you to pay as soon as you sign the lease
-- The landlord asks you to pay with Paypal, Western Union, MoneyGram, cryptocurrencies or cash
-- The landlord asks you to finish the booking on a different website
-- The landlord's bank is in another country
+- 🛑 The landlord asks you to pay with Paypal, Western Union, MoneyGram, cryptocurrencies or cash
+- 🛑 The landlord asks you to pay as soon as you sign the lease[^26]
+- 🛑 The landlord asks you to finish the booking on a different website
+- ⚠️ The landlord's bank is in another country
 
 **Always pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).** Bank transfers to other countries are suspicious; the landlord's [[IBAN]] should start with "DE".[^16] Use [Wise](/out/transferwise) to make bank transfers from another country. If you pay in cash, ask for a receipt. Never pay with Paypal, Western Union or other payment services.[^8]
 
@@ -214,7 +208,7 @@ Signs of a scam:
 
 ### When you move in
 
-Take a lot of pictures. They might help you [get your deposit back](/guides/mietkaution#how-to-get-your-kaution-back).
+Take a lot of pictures. It might help you [get your deposit back](/guides/mietkaution#how-to-get-your-kaution-back).
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
@@ -228,7 +222,7 @@ Landlords might try to steal your deposit. Always sign an *[[Übergabeprotokoll]
 
 ## How to report scams
 
-When you find a scam, report it to the website it's on. The scammers did not get you, but they might get someone else.
+When you find a scam, report it to the website. The scammers did not get you, but they might get someone else.
 
 You can also [report scams to the police](https://www.bka.de/DE/KontaktAufnehmen/Onlinewachen/onlinewachen_node.html).
 
