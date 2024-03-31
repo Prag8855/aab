@@ -4,6 +4,7 @@ Short_title: How to find an apartment
 Description: This guide shows you how to find a place to live in Berlin. It explains everything from the apartment search to moving in.
 Date_created: 2017-09-20
 Related_reviews:
+    reviews/find-a-flat-in-berlin/kevin-hiller.md
     reviews/find-a-flat-in-berlin/christine-gerkrath.md
 ---
 
@@ -42,7 +43,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 ### Ask everyone
 
 - **Tell everyone you know**  
-    You friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung).
+    Your friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung).
 - **Ask your [[Hausverwaltung]]**  
     They might give you another apartment, or you on a waiting list.
 - **Get help from your university**  
@@ -51,7 +52,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 ### Apartment search websites
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)** ⭐️  
-    The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. Without the premium account, it's almost impossible to get replies.[^1]
+    The biggest housing website. It's *very* competitive. You might send hundreds of messages and never get a reply. Without the premium account, it's much harder to find an apartment.[^1]
 - **[Kleinanzeigen](https://www.kleinanzeigen.de/)** ⭐️ - Biggest classified ads website.
 - [Immowelt](https://www.immowelt.de/) - Second biggest housing website
 - [Immonet](https://www.immonet.de/)
@@ -93,7 +94,7 @@ You can also rent a **hotel, hostel or vacation apartment**. [Some hotels](https
 ### [[WG]]s, flat shares and roommates
 
 - **[WG-Gesucht](https://www.wg-gesucht.de/)** ⭐️  
-    The most popular website for flat shares. It's very competitive. You might send hundreds of messages and never get a reply.
+    The most popular website for shared apartments. It's very competitive. You might send hundreds of messages and never get a reply.
 - [WG Suche](https://www.wg-suche.de/wg-zimmer/deutschland-berlin)
 
 Short-term furnished rooms on [Kleinanzeigen](https://www.kleinanzeigen.de/) and [Facebook](#facebook-groups) are cheaper than on [short-term housing websites](#short-term-and-furnished-apartments).[^55]
@@ -206,7 +207,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Neighbourhood**  
     Kreuzberg, Prenzlauer Berg, Friedrichshain, Neukölln are popular neighbourhoods, but there are other options. A less popular neighbourhood can be cheaper, safer and quieter. Berlin has good public transit; you don't need to live in the central areas. Look for places outside the *[[Ringbahn]]*
 - [ ] **Public transit access**  
-    How is the train or tram connection? Berlin has good public transit. You don't need to live in the centre. Use [Mapnificient](https://www.mapnificent.net/berlin/) and Google Maps to measure your commute.
+    How is the train or tram connection? Berlin has good public transit. You don't need to live in the centre. Use [Mapnificent](https://www.mapnificent.net/berlin/) and Google Maps to measure your commute.
 - [ ] **Crime**  
     Use the [crime atlas](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html) to find a safe area. Areas next to some big train stations (Alexanderplatz, Görlitzer Bahnhof, Kottbusser Tor, Hermannplatz, Leopoldplatz) are more dangerous.[^14] There are more drunk people, drug addicts, street fights, vandalism and theft in those areas. You don't need to avoid the entire area, just the busy streets.
 - [ ] **Parking**  
@@ -244,7 +245,7 @@ Do not send all your documents yet. It just annoys landlords.[^52]
 To improve your chances...
 
 - **Be fast**  
-    If you like an apartment, do not wait. Landlords get hundreds of messages per hour.[^22] Most apartment listings disappear after a few minutes.[^26] Use [bots, notifications and message templates](#bots-and-automation) to apply faster. Get ImmoScout24 Premium to message landlords before others.[^33]
+    If you like an apartment, do not wait. Landlords get hundreds of messages per hour.[^22] Most apartment listings disappear after a few minutes.[^26] Use [bots, notifications and message templates](#bots-and-automation) to apply faster. Get ImmoScout24 Premium to message landlords before others.[^1]
 - **Don't be picky**  
     You probably won't get a cheap apartment in a cool neighbourhood. Be ready to take what you find. If you are a recent immigrant, [your options](#your-housing-options) are limited.
 - **Send a lot of messages**  
@@ -270,7 +271,7 @@ In order, they prefer...[^32]
 - Retirees 👎
 - Students 👎 👎
 - Single parents 👎 👎
-- [Flatshares](/glossary/WG) 👎 👎 👎
+- [Shared apartments](/glossary/WG) 👎 👎 👎
 
 Landlords prefer...
 
@@ -527,7 +528,7 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/), [5](https://old.reddit.com/r/berlin/comments/13dn8ow/its_done/), [Get The Flat](https://gettheflat.com/) (March 2024)
-[^1]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/)
+[^1]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/), [7](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
 [^2]: [Fiona Macdonald, immigration lawyer](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024), [Christine Gerkrath, relocation consultant](https://www.moveto-berlin.com/en/) (March 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
 [^4]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
@@ -559,7 +560,6 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^30]: [Nerea Lopez](https://www.linkedin.com/feed/update/urn:li:activity:7165883275020869632?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7165883275020869632%2C7165963762615730176%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287165963762615730176%2Curn%3Ali%3Aactivity%3A7165883275020869632%29) (February 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/n40smo/comment/gwvxcw9/)
 [^31]: [nomadandinlove.com](https://nomadandinlove.com/rent-apartments-in-berlin/#Documents_Required_To_Rent_Apartments_in_Berlin), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/9frib4/blpt_for_hunting_an_apartment_inspired_by_that/)
 [^32]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#an-wen-wird-am-liebsten-vermietet_lhtjd)
-[^33]: [reddit.com/r/Munich](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
 [^34]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/1-drittel-des-nettogehalts-miete-kalt-oder-warm), [immobilien.vr.de](https://immobilien.vr.de/immobilien/immobilie-mieten/wohnung-mieten/wie-viel-miete-kann-ich-mir-leisten.html)
 [^35]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=kurz%20vor%20Vertragsschluss.-,kontaktaufnahme%20am%20liebsten%20per%20mail,-Ziemlich%20einig%20sind)
 [^36]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
