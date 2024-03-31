@@ -189,6 +189,8 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
     - **Top floor apartments** are quieter; you hear traffic less, and there are no neighbours above you. They get more sunlight, but they are hotter in the summer, especially old apartments with bad insulation.[^12] Attic apartments (*[[Dachgeschosswohnung]]*) feel smaller because of [angled walls and wooden beams](/images/dachgeschosswohnung-berlin.jpg).
     - **Upper floor apartments** get more sunlight. There is less traffic noise. Check if there is an elevator.
     - **Lower floors and ground floor appartments** are darker and louder. Break-ins can happen. Neighbours can see inside your apartment.[^13] Some ground floor apartments have a garden.
+- [ ] **Elevator?**  
+    If you live on a higher floor, check if your building has an elevator.
 - [ ] **Street or courtyard?**  
     Which side is the apartment on? On the street side, you hear traffic more. On the courtyard side, you hear other neighbours more. The courtyard side gets less sun.
 - [ ] **Storage and parking**  
