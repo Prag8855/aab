@@ -2,7 +2,7 @@
 Title: Common housing scams in Germany
 Short_title: Common housing scams
 Description: Apartment scams you must know about when looking for a place to live in Germany.
-Date_created: 2024-03-29
+Date_created: 2024-03-31
 ---
 
 This guide describes common apartment scams in Germany, and how to avoid them.
