@@ -128,7 +128,7 @@ Turn on push notifications for the Facebook groups that you follow.
 - **Tell everyone you know**  
     Your friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung).
 - **Ask your [[Hausverwaltung]]**  
-    They might give you another apartment, or you on a waiting list.
+    They might give you another apartment, or put you on a waiting list.
 - **Get help from your university**  
     They have help clinics and a board with apartment listings.[^7] Join the waiting list for [student housing](#student-housing).
 
