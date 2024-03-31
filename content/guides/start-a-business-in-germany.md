@@ -155,7 +155,11 @@ If you get a *Pfändungsschutzkonto* (*P-Konto*), you can access some of your mo
 
 ## Step 3: Find a tax advisor
 
-Tax advisors are very expensive in Germany, but they will save you a lot of money. They can [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein) for you, and take care of your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
+A tax advisor can [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
+
+You need a tax advisor to [renew a freelance visa](/guides/renew-german-freelance-visa). They must prepare and stamp some of the required documents.
+
+It's hard to find a tax advisor. It can take a few weeks.
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
