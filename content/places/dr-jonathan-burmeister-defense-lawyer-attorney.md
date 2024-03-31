@@ -1,6 +1,6 @@
 ---
 Name: Dr. Jonathan Burmeister
-Description: Defense lawyer and attorney. Criminal law, migration law and tenancy law.
+Description: Defense lawyer and attorney. Criminal law and migration law.
 Website: https://ra-burmeister.de/
 Email: hannesjaacks@gmail.com
 Address: Stralauer Pl. 34
