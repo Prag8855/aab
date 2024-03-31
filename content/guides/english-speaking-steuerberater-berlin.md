@@ -75,7 +75,7 @@ Hire a tax advisor when...
 - **You are in trouble**  
     If you have problems with the *[[Finanzamt]]*, and you don't know what to do. They can take care of all communications with the *Finanzamt*. They can quickly solve your problem.
 
-If you have a simple tax situation, you don't need a tax advisor. The *[[Finanzamt]]* already knows how much you earned from your job. You might not need to make a [tax declaration](/glossary/Steuererklärung). Just use [[ELSTER]] or [tax software](/guides/german-tax-software) to declare [tax-deductible](/glossary/steuerlich%20Absetzbar) expenses.
+If you have a simple tax situation, you don't need a tax advisor. The *[[Finanzamt]]* already knows how much you earned from your job. You might not need to make a [tax declaration](/glossary/Steuererklärung). Just use [[ELSTER]] or [tax software](/guides/german-tax-software) to declare [tax-deductible](/glossary/steuerlich%20absetzbar) expenses.
 
 ## Cost of a tax advisor
 
@@ -95,7 +95,7 @@ Your tax advisor can be anywhere in Germany. It's easier if you look outside of 
 
 ### Tax software
 
-If your tax situation is simple, use tax software. For example, if you have a full-time job and no [tax-deductible](/glossary/steuerlich%20Absetzbar) expenses.
+If your tax situation is simple, use tax software. For example, if you have a full-time job and no [tax-deductible](/glossary/steuerlich%20absetzbar) expenses.
 
 Using tax software cheaper and easier than finding a tax advisor. There are English-speaking options.
 

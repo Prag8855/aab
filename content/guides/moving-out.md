@@ -113,7 +113,7 @@ Your lease can ask you to paint the walls in light or neutral colours. It can't 
 
 You can do the repairs yourself. You can't be forced to use a contractor.[^33]
 
-Renovation expenses are [tax-deductible](/glossary/steuerlich%20Absetzbar).
+Renovation expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ## Complete the handover
 
@@ -217,7 +217,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 ## Deduct your moving expenses
 
-If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20Absetzbar). Include them in your next [tax declaration](/glossary/Steuererklärung) to get some money back.
+If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Include them in your next [tax declaration](/glossary/Steuererklärung) to get some money back.
 
 **[How to deduct moving expenses ➞](/guides/moving-in#deduct-your-moving-costs)**
 

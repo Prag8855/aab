@@ -302,7 +302,7 @@ If you are lucky, you will get invited to an apartment viewing. Arrive early. Br
 
 It can be a private viewing (just you) or an open viewing (many other people). Don't go to a viewing with more than 40 people; they are usually a waste of time.[^20]
 
-When you visit apartments, your travel costs are [tax-deductible](/glossary/steuerlich%20Absetzbar). You can deduct 0.30€ per kilometre.
+When you visit apartments, your travel costs are [tax-deductible](/glossary/steuerlich%20absetzbar). You can deduct 0.30€ per kilometre.
 
 ### Apartment viewing checklist
 
