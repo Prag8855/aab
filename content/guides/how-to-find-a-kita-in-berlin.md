@@ -3,7 +3,9 @@ Title: How to find a Kita in Berlin
 Short_title: How to find a Kita
 Description: This guide shows how to find a place for your child in a Kindergarten.
 Date_created: 2018-08-27
-Related_reviews: reviews/how-to-find-a-kita-in-berlin/lisa-hübner-moreno.md, reviews/how-to-find-a-kita-in-berlin/amy-deverell.md
+Related_reviews:
+    reviews/how-to-find-a-kita-in-berlin/lisa-hübner-moreno.md
+    reviews/how-to-find-a-kita-in-berlin/amy-deverell.md
 ---
 
 Before starting elementary school (*[[Grundschule]]*), most children under 6 years old attend childcare (*[[Kita]]*). *Kita* is short for *Kindertagesstätte*. It's a type of preschool or daycare centre.
@@ -25,7 +27,7 @@ Kitas can charge up to 60€ for sports, special food (such as vegan food or org
 
 ## How hard is it to find a Kita?
 
-**It's really hard**; even harder than [finding an apartment](/guides/find-a-flat-in-berlin).[^2] **It can take more than a year** to find a *Kita* for your child. Parents have sued the state and protested because of this.[^4]
+**It's really hard**; even harder than [finding an apartment](/guides/find-a-flat-in-berlin).[^2] **It can take more than a year** to find a *Kita* for your child. Parents have sued the state and protested because of this.[^4] There is a shortage of 17,000 Kita places in Berlin.[^3]
 
 Most *Kitas* have **6 to 18 month waiting lists**. Some parents start searching for a *Kita* during pregnancy, or while their child is a young baby, even if their child will only need a *Kita* in a few years.
 
@@ -94,11 +96,11 @@ When you visit a *Kita*, ask the following questions:
 
 You should also look at the *Kita*'s reviews on Google Maps to make sure others had a good experience there. Some parents share their experience on various parenting Facebook groups.
 
-## Step 5: Signing a contract
+## Step 5: Sign a contract
 
-Once you have found a *Kita*, ask them for a contract. You must sign the contract and send it back with a copy of your *[[Kitagutschein]]*.
+After you find a *Kita*, ask them for a contract. Sign the contract and send it back with a copy of your *[[Kitagutschein]]*.
 
-Food is not usually covered by the *Kitagutschein*. It will usually cost around 23€ extra per month. If your Kita offers language lessons or special activities, you might need to pay extra. Each individual *Kita* will explain this to you.
+Food is not usually covered by the *Kitagutschein*. It costs around 23€ per month extra. If your Kita offers language lessons or special activities, it might cost more. Each individual *Kita* will explain this to you.
 
 ## Step 6: Your child's first days at the Kita
 
@@ -118,16 +120,17 @@ When you choose a Kita start date and a date to begin work, factor in several we
 
 ### Kita search services
 
-- [Kietzee](https://www.kietzee.com/en) has a map of Kitas with reviews,[^12] example Kita application letters, and guides for parents. You must pay to see some of their guides.
-- [Kita Applications](https://www.kitaapplications.com/) automates Kita applications. You can pay to call them and ask questions.
-- [Julia Zehavi](http://www.familyrelocation.de/en/kita) offers relocation and Kita search services for parents. She also helps parents [get a *Kitagutschein*](/guides/how-to-get-a-kitagutschein).[^13]
-- [Maternita Kita](https://www.maternita-kita.de/) can find Kitas for you. They have workshops for parents. You can pay to call them and ask questions.
-- [Berlin Kita](https://berlinkita.com/) sells a list of Kitas in Microsoft Excel format
-- Some[ relocation consultants](/guides/relocation-agency-in-berlin) can find a Kita for you
+- **[Kietzee](https://www.kietzee.com/en)** has a map of Kitas with reviews,[^12] example Kita application letters, and guides for parents. They also help with pregnancy and early childhood. You must pay to see some of their guides.
+- **[Kita Applications](https://www.kitaapplications.com/)** automates Kita applications. You can pay to call them and ask questions.
+- **[Julia Zehavi](http://www.familyrelocation.de/en/kita)** offers relocation and Kita search services for parents. She also helps parents [get a *Kitagutschein*](/guides/how-to-get-a-kitagutschein).[^13]
+- **[Maternita Kita](https://www.maternita-kita.de/)** can find Kitas for you. They have workshops for parents. You can pay to call them and ask questions.
+- **[Berlin Kita](https://berlinkita.com/)** sells a list of Kitas in Microsoft Excel format
+- Some [relocation consultants](/guides/relocation-agency-in-berlin) can find a Kita for you
 
 [^0]: [Settle in Berlin](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/), [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)
 [^1]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrjmq3/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/61ocy7/rant_kitas_and_lack_of_transperency/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7ve1h1/kitaplatz_hunting_service_in_berlin/dtrlf0a/)
+[^3]: [bertelsmann-stiftung.de](https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2022/oktober/2023-fehlen-in-deutschland-rund-384000-kita-plaetze) (October 2022)
 [^4]: [berliner-zeitung.de](https://www.berliner-zeitung.de/mensch-metropole/statt-klage-so-ungewoehnlich-will-eine-berliner-mutter-einen-kita-platz-ergattern-li.27934?pid=true), [kitakriseberlin.org](https://kitakriseberlin.org/)
 [^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/dpuip98/)
 [^6]: [web.archive.org](https://web.archive.org/web/20210730105858/http://www.berlinforallthefamily.com/childcare--schools/how-to-apply-for-a-kita-spot-in-berlin-kita-gutschein-waiting-lists-fees-explained)
