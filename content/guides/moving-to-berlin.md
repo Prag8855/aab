@@ -112,7 +112,9 @@ To activate your SIM card, you need your passport and your [registration certifi
 
 You can use a SIM card from another [EU](/glossary/European%20Union) country. It will work for a few months with no extra cost. After some time, your foreign SIM card might stop working, and you will need a German SIM card.[^0]
 
-Use [Verivox](/out/verivox-cellphone) to compare cellphone plans. I use [Vodafone CallYa](/out/vodafone-callya) since 2015. [Aldi Talk](/out/aldi-talk) is another good, cheap option. 
+Use [Verivox](/out/verivox-cellphone) to compare cellphone plans. I use [Vodafone CallYa](/out/vodafone-callya) since 2015. [Aldi Talk](/out/aldi-talk) is another good, cheap option.
+
+If you need a temporary SIM, try [Nomad](https://www.getnomad.app/germany-eSIM). I use it a lot when I travel. Your phone must support eSIM.
 
 ### Move in
 
@@ -224,7 +226,7 @@ In Germany, when you have a health problem, you go to your *[[Hausarzt]]*. Find 
 
 ### Make a tax declaration
 
-Your relocation expenses are [tax-deductible](/glossary/steuerlich%20Absetzbar). If you move in the middle of the year, you probably paid too much [salary tax](/glossary/Lohnsteuer). Make a [tax declaration](/glossary/Steuererklärung) to get some money back.
+Your relocation expenses are [tax-deductible](/glossary/steuerlich%20Absetzbar). If you move in the middle of the year, you probably paid too much [salary tax](/glossary/Lohnsteuer). Make a [tax declaration](/glossary/Steuererklärung) to get some money back. A [tax advisor](/guides/english-speaking-steuerberater-berlin) can help you.
 
 ## A new life in Germany
 
