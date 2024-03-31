@@ -403,7 +403,7 @@ Furnished apartments are...
 - **Temporary**  
     You have a short-term lease. You must move out when your lease ends. Usually, you can't move out early, and you can't stay longer.
 - **Overpriced**  
-    They are *very* expensive; more than twice the price of a regular apartment. They are a really bad deal. If you have a low budget, rent a room in a [[WG]].
+    They are 60% more expensive than regular apartments.[^37] They are a really bad deal. If you have a low budget, rent a room in a [[WG]].
 
 **Furnished rooms** in a [[WG]] are cheaper. People often sublet their rooms while they travel. You can live there for a few weeks. Usually, you can't do your *[[Anmeldung]]* there, and [that can be a problem](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address).
 
@@ -561,6 +561,7 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^34]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/1-drittel-des-nettogehalts-miete-kalt-oder-warm), [immobilien.vr.de](https://immobilien.vr.de/immobilien/immobilie-mieten/wohnung-mieten/wie-viel-miete-kann-ich-mir-leisten.html)
 [^35]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=kurz%20vor%20Vertragsschluss.-,kontaktaufnahme%20am%20liebsten%20per%20mail,-Ziemlich%20einig%20sind)
 [^36]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
+[^37]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-98-moeblierungszuschlag-und-moeblierte-vermietung.htm#:~:text=liegen%20mittlerweile%20um-,60%20%25%20hoher,-als%20die%20Mieten) (2023)
 [^38]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
 [^39]: [HousingAnywhere](https://answers.housinganywhere.com/en/articles/2498908-how-can-i-be-sure-a-listing-is-real-and-protect-myself-from-scammers), [HousingAnywhere](https://housinganywhere.com/pricing/tenants)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)

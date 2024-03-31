@@ -21,15 +21,19 @@ Scammers rent someone's apartment, and pretend to live there. They make you visi
 
 This scam is very hard to avoid, because everything looks normal until you move in. You visit a real apartment, sign real documents and even get apartment keys.
 
+Look for signs of a vacation apartment like a [key safe](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg). Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the apartment is listed as a vacation rental on other websites. Ask the neighbours who really lives there.
+
 ### Identity theft
 
-Scammers create fake apartment listings. When you [apply for the apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment), they steal your documents, and use them to [steal your identity](https://en.wikipedia.org/wiki/Identity_theft).[^6] They might use your documents to scam other people.
+Scammers create fake apartment listings. When you [apply for the apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment), they steal your documents. They use your documents to [steal your identity](https://en.wikipedia.org/wiki/Identity_theft) or scam other people.[^6]
+
+Always censor and watermark your documents. Send your documents after you visit the apartment in person.
 
 ## Scams by landlords and tenants
 
 ### Furnished apartments
 
-Landlords make more money with furnished apartments, so they are more and more common.[^36] They are convenient, but around 60% more expensive.[^49]
+Landlords make more money with furnished apartments, so they are more and more of them.[^36] They are convenient, overpriced.
 
 [Rent control](/glossary/Mietpreisbremse) applies to furnished apartments too. Landlords can't overcharge for furniture either. The cost of furniture (*Möblierungszuschlag*) must match the actual value of the furniture.[^48]
 
@@ -91,13 +95,13 @@ If you paid a fee when you should not have, you have 3 years to request the mone
 
 ### Service fees
 
-Don't pay anything before you sign a lease. You must pay the rent and 1/3 of the [deposit](/glossary/Kaution) before the day your lease starts. There should be no other fees.
-
 You must never pay a fee to...
 
 - View an apartment[^21]
 - Apply for an apartment
 - Sign an apartment contract ("service fee")[^20]
+
+Don't pay anything before you sign a lease. You must pay the rent and 1/3 of the [deposit](/glossary/Kaution) before the day your lease starts, never earlier.
 
 Some housing websites websites charge a platform fee or a booking fee. These might be illegal.[^44]
 
@@ -131,11 +135,14 @@ The landlord can only use your deposit to repair damage that you caused. It must
 
 ### When you look for apartments
 
-If you can't visit the apartment, it's probably a scam. Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the photos come from another website. Check if the text was copied from another listing. Check if the apartment has the same windows in the listing and on Google Street View.
+Signs of a scam:
 
-Round numbers are suspicious. If the rent is exactly 800€ and the *[[Nebenkosten]]* are exactly 75€, it might be a scam.[^43] *Nebenkosten* are based on usage, so they are rarely a round number.
+- The price is too good to be true[^9]
+- The rent and *[[Nebenkosten]]* round numbers like 800€[^13]
 
-If the price is too good to be true, it's probably a scam.[^9]
+Check if the apartment really exists.  Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the photos are used on other websites.
+
+Use Google search to check if the listing text is used on other websites.
 
 ### When you contact the landlord
 
@@ -165,6 +172,7 @@ Always see the apartment in person. If you are not in Germany, **use a platform 
 Signs of a scam:
 
 - You can't visit the apartment
+- There is a [key safe](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) in the entrance. It might be scammers renting a vacation apartment.
 
 ### When you apply for the apartment
 
@@ -174,46 +182,49 @@ Signs of a scam:
 
 ### When you sign the lease
 
-Ask [Conny](/out/conny-mietpreisbremse), a *[[Mieterverein]]* or a lawyer to verify your lease. If your rent is too high, they can help you lower it. Your landlord can't kick you out because you lower your rent.
-
-Red Tape Translation can also check your lease.
-
-**[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
-
 Signs of a scam:
 
 - The lease is in English
+- The landlord wants the [deposit](/glossary/Kaution) right after sign the lease[^26]
+
+Ask *[[Mieterverein]]* or a lawyer to verify your lease. [Red Tape Translation](/out/red-tape-translation-lease) can translate and summarise your lease.
+
+**[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
+
+If your rent is too high, [Conny](/out/conny-mietpreisbremse), a lawyer or a *[[Mieterverein]]* can help you lower it. Your landlord can't kick you out because you lowered your rent.
+
+**[How to lower your rent ➞](/guides/moving-in#lower-your-rent)**
 
 ### When you pay the rent and deposit
 
-In Germany, people pay rent by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Never send money by Western Union or other payment services.[^8] If you pay with cash, ask for a receipt. Use [Wise](/out/transferwise) to transfer money from another country. You have until the day you [move in](/guides/moving-in) to pay the rent and the deposit, so you can also come to Germany, [open a bank account](/guides/german-banks-no-address), then pay your rent.
+Signs of a scam:
 
-Germans pay the rent by [bank transfer](/glossary/SEPA-Überweisung). Bank transfers to other countries are suspicious; the landlord's [[IBAN]] should start with "DE".[^16] It should be the same IBAN as in their *[[Impressum]]*.
+- The landlord asks you to pay as soon as you sign the lease
+- The landlord asks you to pay with Paypal, Western Union, MoneyGram, cryptocurrencies or cash
+- The landlord asks you to finish the booking on a different website
+- The landlord's bank is in another country
 
-Wait before you send money.[^42] You must pay the rent and the 1/3 of the [deposit](/glossary/Kaution) before you [move in](/guides/moving-in). You never have to pay earlier.
+**Always pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).** Bank transfers to other countries are suspicious; the landlord's [[IBAN]] should start with "DE".[^16] Use [Wise](/out/transferwise) to make bank transfers from another country. If you pay in cash, ask for a receipt. Never pay with Paypal, Western Union or other payment services.[^8]
 
-Don't pay anything before you see the apartment in person, sign the lease and get the keys.[^7] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and the [deposit](/glossary/Kaution). You can [pay the deposit in 3 instalments](/guides/mietkaution#when-to-pay-the-kaution). You never have to pay a fee to see an apartment, or to apply for it.[^11]
+**Never pay in advance.** Don't pay before you visit the apartment, sign the lease and get the keys.[^7] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and 1/3 of the [deposit](/glossary/Kaution). Your landlord can't kick you out because you pay at the last minute.
+
+**Never pay a fee** to visit an apartment or sign a lease. These fees are always illegal. Some short-term housing platforms have a booking fee.
 
 **[How to pay the rent and deposit ➞](/guides/moving-in#pay-the-rent)**
 
-Signs of a scam:
-
-- The landlord wants you to pay with cash, Paypal, Western Union, MoneyGram or cryptocurrencies.
-- The landlord wants you to pay on a different platform.
-- The landlord wants you to pay sooner
-- The landlord's bank is in another country. The [[IBAN]] does not start with "DE".
-
 ### When you move in
 
-Take a lot of pictures.
+Take a lot of pictures. They might help you [get your deposit back](/guides/mietkaution#how-to-get-your-kaution-back).
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
 ### When you move out
 
-**[How to move out of an apartment ➞](/guides/moving-in)**
+Landlords might try to steal your deposit. Always sign an *[[Übergabeprotokoll]]*. Don't pay for anything that is not on this document. Ask for an itemised invoice of the repairs.
 
 **[How to get your deposit back ➞](/guides/mietkaution#how-to-get-your-kaution-back)**
+
+**[How to move out of an apartment ➞](/guides/moving-in)**
 
 ## How to report scams
 
@@ -227,16 +238,16 @@ You can also [report scams to the police](https://www.bka.de/DE/KontaktAufnehmen
 
 [^1]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=wer%20sich%20weigert%2C%20wird%20in%20der%20regel%20nicht%20als%20nachmieter%20vorgeschlagen) (2021), [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html), [Reddit](https://old.reddit.com/r/wohnen/comments/18rfw5t/abl%C3%B6se_von_20000_abl%C3%B6se_von_12000_aus_dem_post/)
 [^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#9-Was-sollten-Sie-tun-wenn-Sie-eine-ueberhoehte-oder-unzulaessige-Provision-zahlen-mussten), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)
-[^3]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460), [Europäisches Verbraucherzentrum](https://www.evz.de/einkaufen-internet/vorsicht-falle/mietbetrug.html#:~:text=sich%20im%20ausland%20aufzuhalten), [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=dass%20er%20im%20ausland%20ist), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_3_The_Landlord_is_Abroad_Berlin_Apartment_Scam)
+[^3]: [Hamburg police](https://www.polizei.hamburg/betruegerische-wohnungsanzeigen-556460), [Europäisches Verbraucherzentrum](https://www.evz.de/einkaufen-internet/vorsicht-falle/mietbetrug.html#:~:text=sich%20im%20ausland%20aufzuhalten), [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=dass%20er%20im%20ausland%20ist), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_3_The_Landlord_is_Abroad_Berlin_Apartment_Scam), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=der%20trick%20mit%20der%20vorkasse)
 [^4]: [§2 Abs. 1a WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__2.html), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=demnach%20zahlt%20derjenige%20den%20makler%2C%20der%20ihn%20beauftragt%20hat), [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#2-Wie-funktioniert-das-Bestellerprinzip), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/)
 [^5]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#4-Die-zulaessige-Maklergebuehr), [kampmeyer.com](https://www.kampmeyer.com/blog/ratgeber/maklerprovision-vermietung/#H%C3%B6he), [§3 Abs. 2 WoVermRG](https://www.gesetze-im-internet.de/wovermrg/__3.html)
 [^6]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/p5hng9/is_it_safe_spamming_your_flat_application/)
-[^7]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany)
+[^7]: [iamexpat.de](https://www.iamexpat.de/housing/real-estate-news/5-ways-avoid-getting-scammed-when-looking-place-germany), [Test.de](https://www.test.de/Mietkaution-So-locken-Betrueger-Mietinteressierte-in-die-Falle-5549421-5549426/#:~:text=leisten%20sie%20niemals%20voraus%C2%ADzahlungen), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
 [^8]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
 [^9]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
 [^10]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/comment/dulpxmj/?utm_source=reddit&utm_medium=web2x&context=3)
-[^11]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/could_it_be_an_apartment_scam/)
 [^12]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=die%20gesamte%20Wohnungsvermittlung.-,hohe%20abstandszahlungen,--%C2%A0Der%20eine%20oder), [HousingAnywhere](https://housinganywhere.com/de/Deutschland/abloesevereinbarung#:~:text=nicht%20mehr%20als%2050%20prozent) (2024), [Haus.de](https://www.haus.de/geld-recht/abloesevereinbarung-36182#:~:text=nicht%20mehr%20als%20das%20eineinhalbfache%20des%20zeitwerts) (2023)
+[^13]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_2_Rental_Costs_Are_Too_Round)
 [^14]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
 [^15]: [Reddit](https://old.reddit.com/r/germany/comments/tazghf/housing_scammers_are_finding_new_ways_to_scam/), [Reddit](https://old.reddit.com/r/germany/comments/s0ao9x/which_advice_should_we_give_to_immigrants_who/), [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/k2lbrc6/), [Europäisches Verbraucherzentrum](https://www.evz.de/einkaufen-internet/vorsicht-falle/mietbetrug.html#:~:text=mieten%20erst%20einmal%20fur%20sich%20eine%20ferienwohnung%20an)
 [^16]: [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=uberweisung%20ins%20ausland)
@@ -249,6 +260,7 @@ You can also [report scams to the police](https://www.bka.de/DE/KontaktAufnehmen
 [^23]: [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=1000%20euro%20bakschisch) (2023)
 [^24]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=ein%20rechtsstreit%20ist%20allerdings%20immer%20mit%20unsicherheit%20und%20kosten%20verbunden) (2021)
 [^25]: [promietrecht.de](https://www.promietrecht.de/Wohnraummiete/Wohnraum-mit-verringertem-Kuendigungsschutz/zum-voruebergehenden-Gebrauch/Wohnung-zu-voruebergehendem-Gebrauch-zeitweise-mieten-E2183.htm#1), [§549 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__549.html)
+[^26]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/fakewohnungen-im-internet-so-erkennen-sie-gefaelschte-immobilienanzeigen-27576#:~:text=betrug%20mit%20vorkaution), [Sabine Schrader](https://www.lostintranslation.de/) (March 2024)
 [^27]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
 [^28]: [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/k2lbrc6/) (2023)
 [^29]: [Reddit](https://old.reddit.com/r/askberliners/comments/16nr3q3/mod_post_help_creating_a_housing_scam_thread_to/kaf3we2/)
@@ -259,16 +271,12 @@ You can also [report scams to the police](https://www.bka.de/DE/KontaktAufnehmen
 [^34]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-5-alles-wichtige-rund-um-den-mietvertrag-darauf-sollten-sie-bei-mietvertragsabschluss-achten-mit-checkliste.htm#:~:text=wird%20beim%20vertragsschluss%20nicht%20ausdrucklich%20ein%20endzeitpunkt)
 [^35]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=the%20reason%20must%20be%20mentioned%20in%20the%20lease%20concrete) (2018)
 [^36]: [Stern.de](https://www.stern.de/wirtschaft/immobilien/moebliertes-wohnen--so-krass-wird-die-miet-masche-in-berlin-und-anderen-staedten-ausgenutzt-33249092.html) (2023)
-[^37]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=du%20kannst%20nicht%20kundigen)
 [^38]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/kein-mieterschutz/#:~:text=auskunftsrecht%20und%20verlangerungsanspruch%20der%20mieter%2Finnen)
 [^39]: [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/kein-mieterschutz/#:~:text=mieter%2Finnen%20mit%20einem%20zeitmietvertrag%20sollten%20sich%20rechtzeitig%20beraten%20lassen)
 [^40]: [ikb-law.blog](https://ikb-law.blog/en/2018/04/09/zeitmietvertraege/#:~:text=renting%20out%20an%20apartment%20for%20temporary%20use) (2018), [Berlin.de](https://service.berlin.de/dienstleistung/326217/)
 [^41]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-5-alles-wichtige-rund-um-den-mietvertrag-darauf-sollten-sie-bei-mietvertragsabschluss-achten-mit-checkliste.htm#:~:text=lassen%20sie%20sich%20im%20vierten%20monat%20vor%20ablauf%20der%20mietzeit%20beraten!)
-[^42]: [Test.de](https://www.test.de/Mietkaution-So-locken-Betrueger-Mietinteressierte-in-die-Falle-5549421-5549426/#:~:text=leisten%20sie%20niemals%20voraus%C2%ADzahlungen)
-[^43]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_2_Rental_Costs_Are_Too_Round)
 [^44]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/mieturteile/03303.htm), [Court ruling](https://lexetius.com/2010,6022) (2010), [Reddit](https://old.reddit.com/r/germany/comments/1b42zsk/wunderflats_asking_service_fee_for_cancelled/ksx1zv7/) (2024)
 [^45]: [§573 BGB](https://www.gesetze-im-internet.de/bgb/__573.html)
 [^46]: [rbb24](https://www.rbb-online.de/fernsehen/programm/09_04_2024/1946740.html#:~:text=%20dass%20die%20zahl%20der%20beratungen%20im%20fall%20von%20eigenbedarfskundigung%20deutlich%20steigt) (April 2024), [rbb24](https://www.rbb24.de/wirtschaft/beitrag/2023/08/berlin-wohnen-kuendigung-eigenbedarf-mieter-vermieter-haertefall.html) (August 2023), [Reddit](https://old.reddit.com/r/berlin/comments/12p455k/an_conversation_overheard_about_eigenbedarf/) (2023)
 [^47]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-67-die-eigenbedarfskuendigung.htm#5-Ist-die-Kuendigungsbegruendung-wirksam)
-[^48]: Citation needed
-[^49]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-98-moeblierungszuschlag-und-moeblierte-vermietung.htm#:~:text=liegen%20mittlerweile%20um-,60%20%25%20hoher,-als%20die%20Mieten) (2023)
+[^48]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-98-moeblierungszuschlag-und-moeblierte-vermietung.htm) (2020)
