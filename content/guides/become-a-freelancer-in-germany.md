@@ -184,6 +184,10 @@ If you are a freelance artist, publicist or art teacher, you can apply for the *
 
 **[How to apply for the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
+## Join VG Wort
+
+If you publish texts or run a website, you should also join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
+
 ## Need help?
 
 **[Where to ask immigration questions](/guides/questions-about-berlin#immigration-questions)**
