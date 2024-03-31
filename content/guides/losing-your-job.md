@@ -202,11 +202,13 @@ If your spouse and children have a [family reunion visa](/glossary/Family%20reun
 
 If your spouse is employed, you can switch roles: your spouse gets a [work visa](/glossary/Work%20Visa), [freelance visa](/glossary/Freelance%20visa) or [[Blue Card]], and you get a family reunion visa.[^35]
 
-### EU citizens and permanent residents
+### Citizenship and permanent residence
 
-Nothing happens to your permanent residence or citizenship. You have the right to stay in Germany, even if you are unemployed.
+If you are a **EU citizen** or a **German [permanent resident](/glossary/Niederlassungserlaubnis)**, nothing happens. You have the right to stay in Germany, even if you are unemployed.
 
-It should not affect your permanent residence or citizenship application.[^28] Your application could be delayed until you find a stable job.[^44]
+If you *currently* get *[[ALG I]]*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34] Your application could be delayed until you find a job. If you have a good chance of finding another job, your application might be approved anyway.[^28]
+
+If you got *ALG I* in the past, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
 
 ## What happens to your health insurance
 
@@ -329,7 +331,7 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)
 [^26]: [kanzlei-chevalier.de](https://www.kanzlei-chevalier.de/blog/abfindungszahlungen-im-ueberblick-ostdeutschland-weiterhin-benachteiligt)
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
-[^28]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/jskflcp/), [reddit.com](https://old.reddit.com/r/berlin/comments/1532uet/losing_or_quitting_your_job_its_gonna_be_alright/)
+[^28]: [Fiona Macdonald](https://en.fmr-legal.de/) (March 2024), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/) (2023), [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^30]: [§4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
 [^31]: [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/)
@@ -345,4 +347,3 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^41]: [§4a Abs. 3 Satz 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html)
 [^42]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023), Victoria Messer (December 2023)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
-[^44]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
