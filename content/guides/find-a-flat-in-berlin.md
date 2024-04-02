@@ -124,7 +124,7 @@ Turn on push notifications for the Facebook groups that you follow.
 ### People you know
 
 - **Tell everyone you know**  
-    Your friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung).
+    Your friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung). Your religious community might also help.[^50]
 - **Ask your [[Hausverwaltung]]**  
     They might give you another apartment, or put you on a waiting list.
 - **Get help from your university**  
@@ -573,6 +573,7 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
+[^50]: [Reddit](https://old.reddit.com/r/berlin/comments/1bs7hxc/this_is_the_berlin_housing_market_in_2024/kxdydoa/) (April 2024)
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)
