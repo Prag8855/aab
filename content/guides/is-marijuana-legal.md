@@ -27,7 +27,7 @@ This guide explains the current laws about cannabis in Germany.
 
 - You can't smoke around people who are under 18 years old.[^7]
 - You can't smoke in pedestrian zones between 7:00 and 20:00.[^9]
-- You can't smoke within sight of schools, kindergartens, playgrounds and sports facilities.[^9] You can smoke if you are out of sight of the entrances, or more than 100 metres away.
+- You can't smoke within sight of schools, kindergartens, playgrounds, sports facilities and cannabis clubs.[^9] You can smoke if you are out of sight of the entrances, or more than 100 metres away.
 
 There is currently **no way to buy weed**. There are no cannabis stores. You must grow it yourself or join a [cannabis club](#cannabis-clubs).
 
@@ -40,10 +40,14 @@ There is currently **no way to buy weed**. There are no cannabis stores. You mus
 Rules for cannabis clubs:[^17]
 
 - You must become a member of a cannabis club to get cannabis.
-- Clubs can have up to 500 members.
-- Clubs can give members 25 grams of cannabis per day, or 50 grams per month.
-- Clubs can give members under 22 years old 30 grams of cannabis per month.
-- Clubs can't advertise.
+- Clubs are non-profit organisations, and need permission to operate.
+- Clubs can have up to 500 members.[^24]
+- Clubs can give members 25 grams of cannabis per day, or 50 grams per month.[^20]
+- Clubs can give members under 22 years old 30 grams of cannabis per month.[^21]
+- You can't share the weed from cannabis clubs with other people.[^22]
+- Clubs can only sell cannabis flowers, not cannabis products.[^19]
+- Clubs can't ship or deliver cannabis.[^23]
+- Clubs can't advertise or sponsor.[^11]
 
 To join a club, you must...[^18]
 
@@ -85,6 +89,8 @@ It's a lot easier to buy quality weed in the Netherlands, or even in the Czech R
 [^7]: [§5 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__5.html)
 [^8]: [Reddit](https://old.reddit.com/r/berlin/comments/1bt4g8s/megathread_cannabis_legalisation_in_germany/kxjp1rq/) (April 2024)
 [^9]: [§5 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__5.html)
+[^10]: [§9 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__9.html)
+[^11]: [§6 KCanG](https://www.buzer.de/6_KCanG.htm)
 [^12]: [§3 Abs. 1 and 2 KCanG](https://www.gesetze-im-internet.de/kcang/__3.html)
 [^13]: [Quora](https://www.quora.com/Can-you-buy-marijuana-in-Amsterdam-and-travel-out/answer/Ziadesa-Yazid?ch=10&oid=78957569&share=e689b30e&srid=u1YC&target_type=answer)
 [^14]: [§4 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__4.html)
@@ -92,4 +98,9 @@ It's a lot easier to buy quality weed in the Netherlands, or even in the Czech R
 [^16]: [yourhighnesscannabis.ca](https://yourhighnesscannabis.ca/thc-percentage-chart/#:~:text=strain%20or%20product.-,thc%20percentage%20chart,-Average%20THC%20Percentage), [Canadian government](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/about.html#:~:text=in%20the%201980s-,to%20around%2015%25%20today,-.%20Some%20strains%20can), [dutch-passion.com](https://dutch-passion.com/en/blog/what-is-a-high-amount-of-thc-for-cannabis-n969#high-thc)
 [^17]: [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
 [^18]: [KCanG](https://dserver.bundestag.de/btd/20/087/2008704.pdf)
-[^10]: [§9 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__9.html)
+[^19]: [§19 KCanG](https://www.buzer.de/19_KCanG.htm)
+[^20]: [§19 Abs. 3 KCanG](https://www.buzer.de/19_KCanG.htm)
+[^21]: [§19 Abs. 2 KCanG](https://www.buzer.de/19_KCanG.htm)
+[^22]: [§19 Abs. 4 KCanG](https://www.buzer.de/19_KCanG.htm)
+[^23]: [§19 Abs. 4 KCanG](https://www.buzer.de/19_KCanG.htm)
+[^24]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
