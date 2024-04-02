@@ -11,23 +11,33 @@ This guide explains the current laws about cannabis in Germany.
 
 ## Is recreational marijuana legal?
 
-**Yes.** Recreational marijuana is legal since April 1.{{ fail_on('2024-12-01')}} There are many restrictions:[^15]
+**Yes, recreational marijuana is legal** since April 1.{{ fail_on('2024-12-01')}} There are many restrictions:[^15]
 
-- You must be at least 18 years old to have cannabis.[^5]
-- You can have up to **25 grams on you**, and **50 grams at home**.
-- You can grow up to **3 plants at home**. 3 plants per person, not per household.
-- You can't smoke within 100 metres of schools, kindergartens, playgrounds and sports facilities. Between 7:00 and 20:00, you can't smoke in the pedestrian zones of city centres.
-- Cannabis can't have more than 10% THC. The average is around 15%.[^16]
+**Who** can smoke:
+
+- You must be at least 18 years old to have or grow cannabis.[^5]
+
+**What** you can possess:
+
+- You can have up to **25 grams on you**, and **50 grams at home**.[^12]
+- You can grow up to **3 plants at home**. 3 plants per person, not per household. You can't sell the cannabis that you grow.[^6]
+- You can't give the cannabis you grow to other people, not even for free.[^10]
+
+**Where** you can smoke:
+
+- You can't smoke around people who are under 18 years old.[^7]
+- You can't smoke in pedestrian zones between 7:00 and 20:00.[^9]
+- You can't smoke within sight of schools, kindergartens, playgrounds and sports facilities.[^9] You can smoke if you are out of sight of the entrances, or more than 100 metres away.
 
 There is currently **no way to buy weed**. There are no cannabis stores. You must grow it yourself or join a [cannabis club](#cannabis-clubs).
 
-**Things can still change.** Legalisation is very recent. Some laws are still unclear, and every state can implement them differently. I will update this guide when we get more answers.
+**Things can still change.** Cannabis just became legal. Some laws are still unclear.
 
 ### Cannabis clubs
 
-**You can't buy weed from a store.** To buy weed, you must join a cannabis club. Clubs can start growing cannabis on July 1 2024.
+**You can't buy weed** from a store. To buy weed, you must join a cannabis club. Clubs can start growing cannabis on July 1 2024.
 
-The rules for cannabis clubs:[^17]
+Rules for cannabis clubs:[^17]
 
 - You must become a member of a cannabis club to get cannabis.
 - Clubs can have up to 500 members.
@@ -54,11 +64,7 @@ You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shop
 
 ## Are cannabis seeds legal?
 
-**Yes.** Cannabis seeds are legal.
-
-You can buy cannabis seeds on the internet. [Royal Queen Seeds](https://www.royalqueenseeds.com/) and [Samenwahl](https://www.samenwahl.com/) are popular options from other countries.[^7] Websites like [Royal Queen Seeds](https://www.royalqueenseeds.com/) and [Samenwahl](https://www.samenwahl.com/) accept payment in bitcoins.
-
-People already seeds without problems before legalisation, but German customs sometimes seized cannabis seeds sent by post.[^9] [Sensi Seeds](https://sensiseeds.com/) stopped shipping seeds to Germany because of this.[^10] The people who ordered the seeds got a letter from the police. They are not in big trouble, but they might need to hire a lawyer.[^11]
+**Yes.** Cannabis seeds are legal. You can also buy seeds from other EU countries.[^14]
 
 ## Can I bring weed from another country?
 
@@ -74,14 +80,16 @@ It's a lot easier to buy quality weed in the Netherlands, or even in the Czech R
 [^2]: [soll-galabau.de](https://www.soll-galabau.de/aktuelle-news/ansicht-aktuelles/datum/2021/09/14/cbd-die-aktuelle-rechtslage-in-deutschland.html#:~:text=dies%20bedeutet%20zusammenfassend), [§2 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__2.html)
 [^3]: [soll-galabau.de](https://www.soll-galabau.de/aktuelle-news/ansicht-aktuelles/datum/2021/09/14/cbd-die-aktuelle-rechtslage-in-deutschland.html#:~:text=ist%20cbd-ol%20legal%20in%20deutschland)
 [^4]: [soll-galabau.de](https://www.soll-galabau.de/aktuelle-news/ansicht-aktuelles/datum/2021/09/14/cbd-die-aktuelle-rechtslage-in-deutschland.html#:~:text=wie%20kann%20der%20verkauf%20von%20cbd-bluten%20stattfinden)
-[^5]: [§2 Abs. 3 KCanG](https://www.gesetze-im-internet.de/kcang/__2.html)
-[^7]: [reddit.com](https://old.reddit.com/r/germantrees/comments/ug6p5i/erfahrungen_mit_seedshops/)
+[^5]: [§2 Abs. 3 KCanG](https://www.gesetze-im-internet.de/kcang/__2.html), [§9 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__9.html)
+[^6]: [§2 Abs. 4 KCanG](https://www.gesetze-im-internet.de/kcang/__2.html), [§3 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__3.html), [§9 KCanG](https://www.gesetze-im-internet.de/kcang/__9.html)
+[^7]: [§5 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__5.html)
 [^8]: [Reddit](https://old.reddit.com/r/berlin/comments/1bt4g8s/megathread_cannabis_legalisation_in_germany/kxjp1rq/) (April 2024)
-[^9]: [reddit.com](https://old.reddit.com/r/germantrees/comments/ug6p5i/erfahrungen_mit_seedshops/), [Twitter](https://twitter.com/markochinsky/status/1027159741271863299), [anwalt.de](https://www.anwalt.de/rechtstipps/sensi-seeds-cannabis-samen-ermittlungsverfahren-durch-den-zoll-welche-strafe-droht-mir-rechtsanwalt-schueller-hilft-188355.html), [hanfjournal.de](https://hanfjournal.de/2021/03/15/5-800-postsendungen-mit-cannabis-samen-abgefangen/)
-[^10]: [Screenshot](/images/sensi-seeds-shipping-germany.png), [anwalt.de](https://www.anwalt.de/rechtstipps/sensi-seeds-cannabis-samen-ermittlungsverfahren-durch-den-zoll-welche-strafe-droht-mir-rechtsanwalt-schueller-hilft-188355.html#:~:text=diese%20firma%20hat%20zwischenzeitlich%20den%20versand%20von%20cannabis%20samen%20nach%20deutschland%20eingestellt)
-[^11]: [anwalt.de](https://www.anwalt.de/rechtstipps/sensi-seeds-cannabis-samen-ermittlungsverfahren-durch-den-zoll-welche-strafe-droht-mir-rechtsanwalt-schueller-hilft-188355.html#:~:text=dieser%20moment%20ist%20der%20richtige%2C%20um%20einen%20anwalt%20zu%20konsultieren)
+[^9]: [§5 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__5.html)
+[^12]: [§3 Abs. 1 and 2 KCanG](https://www.gesetze-im-internet.de/kcang/__3.html)
 [^13]: [Quora](https://www.quora.com/Can-you-buy-marijuana-in-Amsterdam-and-travel-out/answer/Ziadesa-Yazid?ch=10&oid=78957569&share=e689b30e&srid=u1YC&target_type=answer)
+[^14]: [§4 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__4.html)
 [^15]: [Deutsche Welle](https://www.dw.com/en/cannabis-will-be-legal-in-germany-within-limits/a-68353166), [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
 [^16]: [yourhighnesscannabis.ca](https://yourhighnesscannabis.ca/thc-percentage-chart/#:~:text=strain%20or%20product.-,thc%20percentage%20chart,-Average%20THC%20Percentage), [Canadian government](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/about.html#:~:text=in%20the%201980s-,to%20around%2015%25%20today,-.%20Some%20strains%20can), [dutch-passion.com](https://dutch-passion.com/en/blog/what-is-a-high-amount-of-thc-for-cannabis-n969#high-thc)
 [^17]: [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
 [^18]: [KCanG](https://dserver.bundestag.de/btd/20/087/2008704.pdf)
+[^10]: [§9 Abs. 2 KCanG](https://www.gesetze-im-internet.de/kcang/__9.html)
