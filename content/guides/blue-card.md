@@ -282,8 +282,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     The photo should be less than 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
-- [ ] **[Job description form](/documents/Stellenbeschreibung.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
-    Your employer should fill this form and sign it. Download the form [here](/documents/Stellenbeschreibung.pdf) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/mdb-f50329-stellenbeschreibung_2017.pdf).
+- [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
+    Your employer should fill this form and sign it. Download the form [here](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf) or [on Berlin.de](https://www.berlin.de/einwanderung/_assets/stellenbeschreibung.pdf).
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**
