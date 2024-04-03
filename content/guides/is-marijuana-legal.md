@@ -40,6 +40,7 @@ There is currently **no way to buy weed**. There are no cannabis stores. You mus
 Rules for cannabis clubs:[^17]
 
 - You must become a member of a cannabis club to get cannabis.
+- You can only be a member of 1 cannabis club.[^25]
 - Clubs are non-profit organisations, and need permission to operate.
 - Clubs can have up to 500 members.[^24]
 - Clubs can give members 25 grams of cannabis per day, or 50 grams per month.[^20]
@@ -52,7 +53,7 @@ Rules for cannabis clubs:[^17]
 To join a club, you must...[^18]
 
 - Be at least 18 years old
-- Be a resident for at least 6 months
+- Be a resident for at least 6 months[^26]
 
 ### Is medicinal marijuana legal?
 
@@ -74,7 +75,7 @@ You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shop
 
 **No.** For example, you can't buy weed in the Netherlands, and bring it to Germany. They sometimes check buses, trains and cars that come from the Netherlands.[^13] They sometimes use dogs to detect drugs.
 
-It's a lot easier to buy quality weed in the Netherlands, or even in the Czech Republic, but it's risky to bring it back to Germany.
+This might have changed with legalisation, but it's not confirmed.
 
 ## Where can I buy weed in Berlin?
 
@@ -104,3 +105,5 @@ It's a lot easier to buy quality weed in the Netherlands, or even in the Czech R
 [^22]: [§19 Abs. 4 KCanG](https://www.buzer.de/19_KCanG.htm)
 [^23]: [§19 Abs. 4 KCanG](https://www.buzer.de/19_KCanG.htm)
 [^24]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
+[^25]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
+[^26]: [§16 Abs. 4 KCanG](https://www.buzer.de/16_KCanG.htm)
