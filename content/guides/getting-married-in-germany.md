@@ -5,53 +5,92 @@ Description: This guide explains the process of getting married in Germany.
 Date_created: 2017-10-09
 ---
 
-*This guide was kindly submitted by Lucile Danilov. Thank you for sharing your experience with the community!*
+This guide explains how to get married in Berlin and the rest of Germany. It explains how to register your marriage and make it official (the *Eheschließung*), not how to plan a wedding ceremony.
 
 {% include "_blocks/tableOfContents.html" %}
 
-First off, although it sounds obvious, you want to make sure to get the legal proceedings out of the way and settle on a date for the ceremony as soon as possible, preferably before any of the other preparations (reception, invitations, etc.). Despite being in 2017, Germany does love its paper trail, and you will often end up waiting weeks in front of your physical mailbox for “that one last paper”. Of course, you can have a reception without a prior visit to the local city office (or *[Standesamt](http://www.berlin.de/standesamt/standesaemter-in-berlin/)*), but if you’re bringing guests over, you may as well hit two birds with one stone, right?
+## How hard is it?
 
-You may also want to know that this process will be expensive, especially if you do not speak fluent German, as you will have to bring a sworn interpreter at your side for both the initial appointment and the ceremony itself (emphasis on the “sworn” - you cannot bring just a friend who speaks German, the credentials of the interpreter you bring will be checked).
+**It's a bureaucratic nightmare.** It takes 8 to 10 months and it costs hundreds of euros.[^3] People often [get married in Denmark](#get-married-in-denmark) because it's cheaper, faster and easier.
 
-Finally, of course, your mileage may vary – this that this is based off my own experience as a foreigner, living in Germany and marrying a German citizen who was born abroad. You may not be asked for these exact documents or go through the exact same steps, but this should give you a rough outline.
+You must prepare a lot of original documents. If you are an immigrant, you need a lot of documents from your home country. They must be certified by both countries, then translated by a certified translator. It's expensive.
 
-## The requirements
+## How much does it cost?
 
-As a EU citizen (in my case, French), you will need the following:
+**A few hundred euros.** It costs more if you were born in another country or if you don't speak German. You need certified translations for everything, and they are expensive.[^7] You might also need a sworn interpreter.
 
-- **A certified copy of your birth certificate** (not a simple photocopy). You can usually request one to be sent free of charge through your birth’s city website. If it's not in German or English, you need a [certified translation](/glossary/beglaubigte%20Übersetzung).
-- **A registration certificate for your current address in Germany** (*[Anmeldebestätigung](/guides/replacement-meldebescheinigung) or [Meldebescheinigung](/guides/replacement-meldebescheinigung)*). This document must be dated less than 3 weeks. It must reflect your current address. If you have been stupid like me and forgot to register yourself when you moved back to Germany, you will have to pay an extra fee. Keep in mind that you need to [register yourself in Germany](/guides/anmeldung-in-english-berlin) at the civil office (*Bürgeramt*) as soon as you can
-- **A valid passport**. Make sure your passport is not expiring anytime soon. You will need to bring the original document and the city office will make a copy themselves
-- **An income certificate** (*Einkommensbescheinigung*). If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](http://www.dautphetal.de/media/custom/2224_71_1.PDF?1366885698) (here's [a copy](/images/2224_71_1.pdf)) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
-- **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*) This certificate is delivered by your embassy and can be sent by postal mail provided you send them all the necessary elements. [Here is a page](https://de.ambafrance.org/Se-marier-en-Allemagne-et-apres-le-mariage) from the French embassy on the “*certificat de capacité à mariage*”. In order to obtain this certificate, you will need to provide yet another copy of some documents mentioned above, so make sure to do multiple copies of each. Note that some countries are not allowed to provide the *Ehefähigkeitszeugnis* in the name of Germany while some other are. France’s certificate is not legally an *Ehefähigkeitszeugnis* and had to be approved by the superior court *Kammergericht*, this obviously also costs money and time. In our case, we had to pay around €75 but got lucky on the waiting and got our papers within a week – we were told it can take between 1 and 5 weeks.
+## How to get married
 
-Of course, your fiancé(e) will need to bring the same papers, [translated to German](/out/lingoking) if necessary. In my case, my husband’s name was changed after emigrating from Ukraine, so he had to get a certificate of name change (*Bescheinigung über Namensänderung*) as well as a certificate of nationality (*Staatsangehörigkeitsurkunde*). Fun times.
+This is how you register your marriage and become officially married. It's called the *Eheschließung*. Your names are added to the *Eheregister*.
 
-## The proceedings
+### 1. Prepare the required documents
 
-Ideally, you want to start the procedure **8 to 10 months before your planned ceremony date**, especially during the “wedding season” (May to October) when city registries are overwhelmed with applicants. We’ve been insanely lucky to be able to book a ceremony less than 2 month in advance, but you definitely do not want to follow our example.
+You need these documents to get married.[^2] Your city might require more documents.
 
-Here’s a timeline idea:
+For each person, you need...
 
-- **9 months before**: [Book an appointment at your local citizens registration office](/guides/berlin-burgeramt-appointment) (*[[Bürgeramt]]*) to get the list of documents you need in your specific case.
-- **8 months before:** Request all important documents from abroad.
-- **7 months before:** Send over required documents to your embassy. The process takes around 3 weeks.
-- **4 months before**: Once you have assembled all required documents, book an appointment at your local registry office (*Standesamt*) to bring all the papers. Both people applying for marriage must be present, as well as an interpreter if needed.
+- [ ] **Passport**
+- [ ] **Official copy of your birth certificate**  
+    It must be less than 6 months old.[^4] If it's not a EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
+- [ ] **Registration certificate** (*[[Anmeldebestätigung]]*)  
+    You might need a [recent copy](/guides/replacement-meldebescheinigung) of it (*[[Meldebescheinigung]]*) that is less than 3 weeks old.
+- [ ] **Income certificate** (*Einkommensbescheinigung*)  
+    If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](http://www.dautphetal.de/media/custom/2224_71_1.PDF?1366885698) (here's [a copy](/images/2224_71_1.pdf)) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
+- [ ] **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*)  
+    You can usually get it from your embassy. To get this document, you might need to send more documents. It can take a few weeks. Some countries don't to give a valid *Ehefähigkeitszeugnis*. Your certificate might need to be approved by a *Kammergericht* for around 75€.
+- [ ] **Divorce certificate**  
+    If you were married before, you need it to prove your divorce. If it's not a EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
 
-After your application has been approved (approx. 2 to 4 weeks), you will receive a document that confirms you are able to get married, and can start calling your local registry offices and set a date for the ceremony. Once you find a suitable registry office, both parties applying for marriage must be present once again for a “final” appointment where you will be given all the details and regulations regarding the ceremony (max. amount of people authorized, music, duration, etc.)
+If your name, gender or nationality changed, you might need certificates to prove it:
 
-Note that with your certificate in hand, you can get married anywhere in Germany, and you have multiple choices of locations in Berlin alone. However, some offices do not offer ceremonies on Saturdays.
+- [ ] **Naturalisation certificate** (*Einbürgerungsurkunde*)  
+    If you became a German citizen, bring this document.
+- [ ] **Name change certificate** (*Namensänderungsurkunde*)  
+    If you changed your name, bring this document.
 
-## The costs
+**All your documents must be in German.**[^9] If your original documents are in a different alphabet, make sure that your names are always translated the same way.
 
-While a wedding is generally an expensive affair, I wholly underestimated the total cost of the legal proceedings. Once again, this is just a reference and your mileage may vary.
+They might ask for **documents that don't exist** or that are impossible to get. You must convince them that you can't get those documents. Your only option might be to get married in another EU country.
 
-- [ ] [Certified translation of birth certificate](/out/lingoking-birth-certificate) (French to German) = 52.98€
-- [ ] [Certified translation of birth certificate](/out/lingoking-birth-certificate) (Ukrainian to German) = 52.98€
-- [ ] Initial proceedings = 105€
-- [ ] Ceremony = 150€
-- [ ] Kammergericht = 75€
-- [ ] Sworn interpret for the initial proceedings = 150€
-- [ ] Sworn interpret for the ceremony = 150€
+Sometimes, **your documents might expire** while you wait. Your application might be rejected, and you might need to get a newer version of the documents.[^5]
 
-That brings us to a whopping **680€**. Note that if you speak fluent German, you can cut that amount in half and do without an interpreter. However, if the *Standesamt* deems that your language level is not sufficient to read and sign the documents provided (some parts are in legalese), your application may be rejected.
+### 2. Get a Standesamt appointment
+
+Get an appointment at the *Bürgeramt* or *Standesamt*, depending on your city. In some cities, appointments can be hard to find. They can be months later.
+
+In Berlin, some *Standesamt* locations have no appointments. You must contact them and ask for instructions.
+
+**[Book an appointment in Berlin ➞](https://service.berlin.de/dienstleistung/318962/)**
+
+### 3. Find an interpreter
+
+If you don't speak German, you must bring a sworn interpreter to the *Standesamt* appointment.[^6] You can't just bring a friend who speaks German. In Berlin, I recommend [Red Tape Translation](https://allaboutberlin.com/out/red-tape-translation-interpreter).
+
+**[Find a sworn interpreter ➞](https://www.justiz-dolmetscher.de/Recherche/en/)**
+
+### 4. Go to your appointment
+
+Both spouses must go to the appointment. Bring all the [required documents](#prepare-the-required-documents). If you don't speak German, bring a sworn interpreter.
+
+### 5. Get approved
+
+2 to 4 weeks after your *Standesamt* appointment, you get a certificate that confirms that you can get married. In Berlin, you have 6 months to get married after you get that certificate.
+
+## Get married in Denmark
+
+People often **get married in Denmark**. It's cheaper, faster and *much* easier than getting married in Germany.[^1] You can book everything online, and go to Denmark to get married a few weeks later. You need fewer documents, *Apostille* and certified translations, so it's cheaper.
+
+**[Get married in Denmark](https://familieretshuset.dk/en/your-life-situation/your-life-situation/international-marriages/if-you-wish-to-get-married-in-denmark)** - Danish Agency of Family Law
+
+After your get married in another country, you must register your marriage in Germany (*Nachbeurkundung*). If you got married in the EU, it's easy.
+
+**[Register a foreign marriage in Berlin ➞](https://service.berlin.de/dienstleistung/318966/)**
+
+[^1]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/mub3rf/looking_to_get_married_in_germany_both_noneu/) (2021), [Settle in Berlin](https://www.settle-in-berlin.com/marriage-registration-in-germany/#:~:text=it%20is%20often%20easier%20to%20get%20married%20abroad)
+[^2]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kx1ji8r/) (2024)
+[^3]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kx1ji8r/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/7wnwem/getting_married_in_berlin/) (2018)
+[^4]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kx1ji8r/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx57rl/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwxfcpn/) (2024)
+[^5]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwyrekf/) (2024)
+[^6]: [Berlin.de](https://service.berlin.de/dienstleistung/318968/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx6a0f/) (2024)
+[^7]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx72qi/) (2024)
+[^9]: [Berlin.de](https://service.berlin.de/dienstleistung/318962/)
