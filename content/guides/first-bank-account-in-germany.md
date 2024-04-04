@@ -72,7 +72,7 @@ Some banks charge monthly fees just to have a bank account. Other banks don't ha
 ### Banks with no monthly fees
 
 - **[DKB](/out/dkb)** - No monthly fees.[^16] They don't let recent immigrants open an account.
-- **[N26](/out/n26)** - No monthly fees if your balance is below 50,000€[^17]
+- **[N26](/out/n26)** - No monthly fees.
 
 ### Banks with no monthly fees if you deposit money every month
 
