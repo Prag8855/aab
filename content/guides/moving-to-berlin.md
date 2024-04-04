@@ -88,6 +88,10 @@ Germany has 220 volt type F power sockets. Check if your devices work in Germany
 
 **[Power sockets in Germany ➞](/guides/power-sockets)**
 
+### Get a temporary SIM card
+
+[Buy a temporary SIM card](/out/airalo), and activate it when you arrive. This gives you mobile data as soon as you are in Germany. It's very convenient. Later, you can [get a mobile phone contract](#get-a-mobile-phone-contract).
+
 ## Your first month in Berlin
 
 ### Open a bank account
@@ -102,19 +106,19 @@ Use [Wise](/out/transferwise) to send money from another country. You can use it
 
 ### Get a mobile phone contract
 
-You can buy get a SIM card from...
+**Before you arrive**, [buy a temporary SIM card](/out/airalo). You can buy it online, and activate it when you arrive. This gives you mobile data as soon as you are in Germany. You can get a temporary SIM at a kiosk at the airport, but it's more expensive.
+
+**After you arrive**, get a SIM card from...
 
 - Vodafone, Telekom and O2 stores
-- Saturn and MediaMarkt
+- Saturn, MediaMarkt and [other electronics stores](/guides/where-to-buy-what#electronics)
 - Aldi and Lidl supermarkets
 
-To activate your SIM card, you need your passport and your [registration certificate](/glossary/Anmeldebest%C3%A4tigung).[^1] If you don't have a registration certificate, it's not a problem. Most store employees just use your temporary address.[^2]
+To activate your SIM card, you usually need your passport and your [registration certificate](/glossary/Anmeldebest%C3%A4tigung).[^1] If you don't have a registration certificate, they might just use your temporary address.[^2]
 
-You can use a SIM card from another [EU](/glossary/European%20Union) country. It will work for a few months with no extra cost. After some time, your foreign SIM card might stop working, and you will need a German SIM card.[^0]
+You can use a SIM card from any other [EU](/glossary/European%20Union) country. It will work for a few months at no extra cost. After some time, your foreign SIM card might stop working, and you will need a German SIM card.[^0]
 
 Use [Verivox](/out/verivox-cellphone) to compare cellphone plans. I use [Vodafone CallYa](/out/vodafone-callya) since 2015. [Aldi Talk](/out/aldi-talk) is another good, cheap option.
-
-If you need a temporary SIM, try [Nomad](https://www.getnomad.app/germany-eSIM). I use it a lot when I travel. Your phone must support eSIM.
 
 ### Move in
 

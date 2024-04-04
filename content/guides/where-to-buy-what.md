@@ -47,6 +47,8 @@ Most dm and Rossmann stores are closed on Sundays, but there are [some exception
 - [Medimax](https://www.medimax.de/) - Electronics and appliances
 - [Conrad](https://www.conrad.de/) - Electronics and parts for hobbyists
 
+Most electronics stores sell SIM cards for your phone.
+
 ## Books
 
 - Thalia - Book store chain

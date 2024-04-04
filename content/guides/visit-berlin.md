@@ -263,15 +263,22 @@ If you don't have mobile data, you can find free Wi-Fi everywhere:
 
 ### Prepaid SIM cards for tourists
 
-You can buy a prepaid SIM card at the airport, and at Vodafone, Telekom and O2 stores. Saturn and MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card, but store employees will just use your passport and the address of your hotel.[^11]
+If you want mobile data while you visit Berlin, you should get a temporary SIM card.
 
-**[Information about SIM cards in Germany ➞](https://prepaid-data-sim-card.fandom.com/wiki/Germany)**
+There are 3 ways to buy a SIM card:
+
+- **Buy a digital SIM card** (eSIM)  
+    This is the easiest way. Buy an eSIM from [Airalo](/out/airalo), and activate it when you arrive in Berlin. It's very easy. I use it all the time when I travel. Your phone must support eSIMs.
+- **Get a SIM card at the airport**  
+    Go to the mobile phone kiosks at the airport, and buy a SIM card. It takes 15 to 30 minutes, but it can take longer when it's busy. Temporary SIM cards are more expensive.
+- **Get a SIM card at a mobile phone shop**  
+    Buy a SIM card from a Vodafone, Telekom or O2 shop. Electronics stores like Saturn or MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card, but store employees will just use your passport and the address of your hotel.[^11]
 
 ### Maps
 
 [Google Maps](https://www.google.com/maps) works really well in Berlin. If you need offline maps, use [OsmAnd](https://osmand.net/) or [Maps.me](https://maps.me/). Google Maps [also works offline](https://support.google.com/maps/answer/6291838?co=GENIE.Platform=Android&hl=en), but you can't get directions.
 
-You should also download the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) or the [Jelbi app](https://www.jelbi.de/en/home/) to buy train tickets. It's easier than the ticket machines, and it's in English. The Jelbi app also lets you book cars, scooters, bicycles and taxis.
+You should also download the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) or the [Jelbi app](https://www.jelbi.de/en/home/) to buy train tickets. They have more accurate train schedules. It's easier than the ticket machines, and it's in English. The Jelbi app also lets you book cars, scooters, bicycles and taxis.
 
 ## Be a good tourist
 
