@@ -15,10 +15,8 @@ Related_places:
     places/sevim-fahrschule.md
     places/fahrschule-aktiv.md
     places/2drive-fahrschule.md
-    places/driving-school-on-fennpfuhl-lichtenberg.md
     places/fahrschule-dynamic.md
     places/fahrschule-next-in-berlin.md
-    places/fahrschule-performance.md
 ---
 
 To [get a German driving licence](/guides/driving-licence), you must take driving lessons. This guide lists places where you can take driving classes in English.
