@@ -230,9 +230,11 @@ If you are more patient, you can also use [CouchSurfing](https://www.couchsurfin
 
 In Germany, **[shops and supermarkets close on Sundays](/guides/open-on-sundays-in-berlin)**. Most restaurants, tourist attractions, *[Spätis](/glossary/Sp%C3%A4ti)* and gas stations stay open on Sundays.
 
-**Always have cash with you**. Some restaurants and businesses only accept cash and [Girocards](/glossary/Girocard). Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash. Cards are rarely accepted for small transactions.
+Germans pay with cash, Girocard, Visa and Mastercard. **Always have cash with you**. Many restaurants only accept cash. Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash.
 
-![Berlin cash only sign](/illustrations/berlin-cash-only-sign.png)
+**[Payment methods in Germany ➞](/guides/banking#common-payment-methods)**
+
+![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
 
 ### VAT refund
 

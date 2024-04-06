@@ -22,7 +22,7 @@ You need a bank account to...
 
 Your bank must allow [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how your employer pays you, and how you pay your rent and your taxes. All EU banks and most European banks allow SEPA transfers.[^0]
 
-You don't need a German bank. You can open a bank account in any European country, including the United Kingdom.
+You don't need a German bank. You can open a bank account in any EU country.
 
 ## German banks for expats
 
@@ -104,13 +104,11 @@ These banks remove the monthly fees if you deposit money in your account every m
 
 ## German banks with no ATM fees
 
-Some banks charge you to withdraw cash at an ATM. This can get really expensive. You should choose a bank with no ATM fees.
-
-[Tarifcheck](/out/tarifcheck-girokonto) lets you find banks with no ATM fees. It also lets you filter banks by ATM network.
+Some banks charge a fee to withdraw money from ATMs. It's usually around 7€ per withdrawal. On average, Germans use ATMs 3 times per month.[^12]
 
 ### Banks with free ATM withdrawals
 
-These banks let you withdraw money from any ATM without paying fees. This is very convenient.
+These banks let you use any ATM for free.
 
 - **[bunq](/out/bunq)** - 4 to 5 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
 - **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Free withdrawals from Cash Group ATMs (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
@@ -120,7 +118,7 @@ These banks let you withdraw money from any ATM without paying fees. This is ver
 
 ### Bank with free withdrawals on their ATM network
 
-Some banks let you withdraw money for free, but only if you use their cash machines. I don't recommend those banks. You sometimes need to walk an extra 10 minutes to find a free ATM. This is why I closed my Commerzbank account.
+Some banks have free ATM withdrawals, but only if you use their ATM network. In my experience, this is annoying. You sometimes need to walk an extra 10 minutes to find a free ATM.
 
 - **[1822direkt](/out/1822direkt)** - 4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
 - **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Free withdrawals from Sparkasse ATMs (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
@@ -214,11 +212,11 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^9]: [Twitter](https://twitter.com/n26/status/1020293086730248194)
 [^10]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf?s_id=173058848)
 [^11]: [support.n26.com](https://support.n26.com/en-eu/account-and-personal-details/personal-information-and-data/how-to-find-my-iban-or-account-number)
+[^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [reddit.com](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [reddit.com](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592)
 [^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
-[^17]: [docs.n26.com](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
 [^19]: [nordbayern.de](https://www.nordbayern.de/wirtschaft/kaum-noch-gratis-girokonten-auch-comdirect-erhebt-jetzt-gebuhren-1.10843383)
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
