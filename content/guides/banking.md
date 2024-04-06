@@ -23,28 +23,47 @@ When you [start a business](/guides/start-a-business-in-germany), you should als
 
 Foreign students might need a blocking account (*Sperrkonto*) to get a residence permit.
 
-## Payment methods in Germany
+## Common payment methods
 
-Germans use 4 payment methods:
+Germans use 4 payment methods: bank transfers, cash, Girocard and Visa/Mastercard. Other payment methods are rarely used.
 
-1. **Bank transfers**  
-    You can transfer money to any account in Europe for free. Transfers take 1 to 3 days. You can pay a small fee (under 1€) for instant transfers. It's the common way to send a lot of money.
-2. **Cash**  
-    Germans use cash a lot. You must always carry cash on you, because cards are rarely accepted for small purchases (under 5€). Many restaurants only accept cash. Some only accept cards.
-3. **Girocard/EC-Karte**  
-    This type of payment card only works in Germany. Some stores don't accept Visa or Mastercard, but accept Girocards because they pay less fees. Some government offices only accept Girocards. Few websites accept Girocard, so you should have a Visa or Mastercard.
-4. **Visa and Mastercard**  
-    Most businesses accept Visa and Mastercard. Many restaurants and *[Spätis](/glossary/Späti)* only accept cash.
+### Bank transfers
 
-Germans do not use checks or QR code payments. They sometimes use Paypal.
+In the European Union, bank transfers are free. It's the **standard way to send money** to other people. Bank transfers take 1 to 3 days, but instant transfers are also possible. Some banks offer free instant transfers. Others charge a small fee like 0.50€.
 
-Apple Pay and Google Pay is very common. Most credit card terminals accept it. Most banks have it.
+A company can regularly take money from your bank account with a direct debit authorisation (*[[SEPA-Lastschriftmandat]]*). People often pay bills and taxes that way.
 
-## Credit cards
+### Cash
+
+Germans love cash. 58% of their transactions are paid with cash.[^3] They usually have around 100€ in their wallet, and use an ATM around 3 times per month.[^3]
+
+Many restaurants only accept cash. Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash.
+
+**Always have cash with you**. [Choose a bank](/guides/first-bank-account-in-germany) with low ATM fees.
+
+![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
+
+### Girocard/EC-Karte
+
+A type of payment card that's only in Germany. It's still very common.[^3] Many stores only accept cash and Girocards, not Visa or Mastercard. A few websites accept Girocard.
+
+Many banks don't offer Girocards. You don't really need one.[^1] If you can pay with Girocard, you can pay with cash.
+
+### Visa and Mastercard
+
+More and more businesses accept Visa and Mastercard, but you still need cash. Many restaurants and *[Spätis](/glossary/Späti)* only accept cash. Most websites accept Visa and Mastercard.
+
+In Berlin, some government offices don't accept Visa or Mastercard.
+
+### Other payment methods
+
+Germans do not use checks or QR code payments. There is no system like Alipay, Cash App, Line Pay, UPI or WeChat Pay. American Express is very rare.[^2] Paypal is common for online purchases.[^3]
+
+## Credit cards in Germany
 
 Most bank accounts come with a Visa or Mastercard *debit* card. The card only works if there is money in your account.
 
-Real credit cards are harder to get, especially for recent immigrants. You might get a very small limit like 500€.
+Real credit cards are rare.[^3] Immigrants can rarely get one. You might get a very small limit like 500€.
 
 Some bank accounts only include a **virtual card**. That means that you get a credit card number, an expiration code and CVV code, but you don't get a plastic card. You can only use it with Apple Pay, Google Pay or for online payments. You can usually get a plastic card for a small fee.
 
@@ -55,3 +74,7 @@ German credit cards rarely have **benefits** like cashback or points. Some cards
 Online banks and offline banks
 
 You can also use a bank in another EU country.
+
+[^1]: [Twitter](https://twitter.com/aboutberlin/status/1776203137264840763) (April 2024)
+[^2]: [Statista](https://www.statista.com/statistics/972307/germany-payment-cards-share/) (2016 to 2022)
+[^3]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
