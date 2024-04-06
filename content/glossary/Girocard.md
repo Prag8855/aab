@@ -8,8 +8,10 @@ Related_guides:
     guides/first-bank-account-in-germany.md
 ---
 
-Girocard (*Girokarte* or *EC-Karte*) is a type of debit card in Germany. You can use it to buy things.
+Girocard (*Girokarte* or *EC-Karte*) is a type of debit card in Germany. You can use it to buy things and withdraw money.[^1]
 
-Girocard is still an important payment system in Germany. Many German businesses accept cash and Girocard, but not Visa and Mastercard. This is because businesses pay higher fees for Visa and Mastercard payments.[^0]
+You can pay with Girocard in most stores. Many German businesses accept Girocard, but not Visa or Mastercard.
 
-[^0]: [einzelhandel.de](https://einzelhandel.de/themeninhalte/zahlungssysteme/528-themen/zahlungssystemeundkartenzahlung/8047-kartenzahlungimeinzelhandel)
+**[Payment methods in Germany ➞](/guides/banking#common-payment-methods)**
+
+[^1]: [Stripe.com](https://stripe.com/en-my/resources/more/girocard-vs-credit-card#what-is-a-girocard)
