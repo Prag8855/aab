@@ -132,11 +132,20 @@ Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)*
 
 ### Blocked account (Sperrkonto) for the student visa
 
-If you want to apply for a [student visa](/glossary/Student%20visa), you usually need a blocked account (*[[Sperrkonto]]*)[^40] as a [proof of financial resources](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/) (*Finanzierungsnachweis*). If you need a blocked account, a few **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** branches offer them.[^41] Some lesser-known banks such as **[Fintiba](/out/fintiba)** and **[Expatrio](https://www.expatrio.com/blocked-account)** also offer this service. Deutsche Bank stopped offering blocked accounts.[^42]
+To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*): a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
 
-If you are Indian, you can open a blocking account with **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, and use it to get a German student visa.[^43]
+Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
 
-A blocked account is not always required for a student visa. A scholarship, a proof of parental income or a guarantee can also work. If you need help with your student visa, ask your German embassy or consulate, or [a relocation consultant](/guides/relocation-agency-in-berlin).
+You can open a blocked account with...
+
+- **[Coracle](/out/coracle)**
+- **[Expatrio](https://www.expatrio.com/blocked-account)**
+- **[Fintiba](/out/fintiba)**
+- **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
+    Only some branches offer blocked accounts.[^41]
+- **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, if you are Indian.[^43]
+
+Deutsche Bank does not offer blocked accounts anymore.[^42]
 
 ## Banks in other EU countries
 
@@ -217,6 +226,7 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^14]: [reddit.com](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [reddit.com](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592)
 [^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
+[^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
 [^19]: [nordbayern.de](https://www.nordbayern.de/wirtschaft/kaum-noch-gratis-girokonten-auch-comdirect-erhebt-jetzt-gebuhren-1.10843383)
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
