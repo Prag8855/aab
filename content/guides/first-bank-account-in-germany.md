@@ -5,39 +5,38 @@ Description: This guide compares the best banks in Germany for foreigners. It co
 Date_created: 2017-09-01
 ---
 
-This guide helps you choose your first bank account in Germany.
+This guide helps you choose your first bank account in Germany. It lists the best German banks for foreigners.
 
 ![Cash coins cards german banks](/illustrations/cash-coins-cards-german-banks.png)
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Why you need a bank account
+## Before you start
 
-You need a bank account to...
+Everything is a little different in Germany. Before you start, learn how banking works in Germany. It helps you choose better.
 
-- get paid by your employer
-- pay your rent
-- pay all kinds of [taxes](/guides/taxes)
-- buy things online and in stores
-
-Your bank must allow [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how your employer pays you, and how you pay your rent and your taxes. All EU banks and most European banks allow SEPA transfers.[^0]
-
-You don't need a German bank. You can open a bank account in any EU country.
+**[How banking works in Germany ➞](/guides/banking)**
 
 ## German banks for expats
 
-If you are new in Germany, it's harder to open a bank account. Banks often ask for a [registered address](/glossary/Anmeldung), a [job](/guides/find-a-job-in-berlin), a [residence permit](/glossary/Aufenthaltstitel) or credit history. Banks often refuse passports from certain countries.[^1]
+As a foreigner, it's harder to open a bank account. German banks might not recognise your passport. Banks often ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They might not recognise your foreign passport.
 
-An expat-friendly bank makes it easier to open an account.
+If you just moved to Germany, and you need a bank account *now*, you need an expat-friendly bank.
 
 ### Expat-friendly banks
 
-- **[bunq](/out/bunq)** - They speak 7 languages.[^2] They accept [many passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification). They don't need an *[[Anmeldung]]*. You get a German IBAN.[^3] When you open an account, their app uses GPS to check if you are in Germany.[^4] You can bypass this if you contact customer support.
-- **[Commerzbank](/out/commerzbank)** - They have basic online banking in English. The rest is in German. If you open an account in person, they accept most passport types.[^5] You must have a [residence permit](/glossary/Aufenthaltstitel), and it must be valid for at least 6 months.[^6]
-- **[Deutsche Bank](/out/deutsche-bank)** - Online banking, customer service and some documents are in English.[^7] The rest is in German. If you open an account in person, they accept most passport types.[^8] They offer [blocking accounts](/glossary/Sperrkonto) for foreign students.
-- **[Monese](/out/monese)** - They speak 14 languages. They don't ask for an *[[Anmeldung]]*. You get a Belgian [[IBAN]].
-- **[N26](/out/n26)** - They speak 5 languages.[^9] They accept [many passport types](/out/n26-supported-passports). You need a plastic [residence permit](/glossary/Aufenthaltstitel) that is valid for at least 1 year.[^10] They don't ask for an *[[Anmeldung]]*. If you open an account from Germany, you get a German [[IBAN]].[^11] You need a German address to receive your bank card, but you don't need a [registered address](/glossary/Anmeldung).
-- **[Wise](/out/transferwise)** - They speak 14 languages. They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). They don't ask for an *[[Anmeldung]]*. You might get a Belgian [[IBAN]].
+- **[bunq](/out/bunq)**  
+    They speak 7 languages.[^2] They accept [many passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification). They don't need an *[[Anmeldung]]*. You get a German IBAN.[^3] When you open an account, their app uses GPS to check if you are in Germany.[^4] You can bypass this if you contact customer support.
+- **[Commerzbank](/out/commerzbank)**  
+    They have basic online banking in English. The rest is in German. If you open an account in person, they accept most passport types.[^5] You must have a [residence permit](/glossary/Aufenthaltstitel), and it must be valid for at least 6 months.[^6]
+- **[Deutsche Bank](/out/deutsche-bank)**  
+    Online banking, customer service and some documents are in English.[^7] The rest is in German. If you open an account in person, they accept most passport types.[^8] They offer [blocking accounts](/glossary/Sperrkonto) for foreign students.
+- **[Monese](/out/monese)**  
+    They speak 14 languages. They don't ask for an *[[Anmeldung]]*. You get a Belgian [[IBAN]].
+- **[N26](/out/n26)**  
+    They speak 5 languages.[^9] They accept [many passport types](/out/n26-supported-passports). You need a plastic [residence permit](/glossary/Aufenthaltstitel) that is valid for at least 1 year.[^10] They don't ask for an *[[Anmeldung]]*. If you open an account from Germany, you get a German [[IBAN]].[^11] You need a German address to receive your bank card, but you don't need a [registered address](/glossary/Anmeldung).
+- **[Wise](/out/transferwise)**  
+    They speak 14 languages. They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). They don't ask for an *[[Anmeldung]]*. You might get a Belgian [[IBAN]].
 
 ### Banks that are not expat-friendly
 
@@ -209,7 +208,6 @@ If you speak German, look at [DKB](/out/dkb) and [ING](/out/ing). People often r
 
 If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Online banks like [bunq](/out/bunq), [Monese](/out/monese) and [Wise](/out/wise-account) also accept more passport types.
 
-[^0]: [ecb.europa.eu](https://www.ecb.europa.eu/paym/integration/retail/sepa/html/index.en.html)
 [^1]: [reddit.com](https://old.reddit.com/r/germany/comments/p8u1gt/deleted_by_user/)
 [^2]: [together.bunq.com](https://together.bunq.com/d/8819-together-translations)
 [^3]: [together.bunq.com](https://together.bunq.com/d/43672-deutsche-ibans-hallo-deutschland)

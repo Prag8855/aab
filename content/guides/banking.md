@@ -9,6 +9,21 @@ This is an introduction to German banking for immigrants. It explains how bank a
 
 To open a bank account, read my guide on **[how to choose a bank](/guides/first-bank-account-in-germany)**.
 
+## Bank accounts
+
+### Why you need a bank account
+
+You need a bank account to...
+
+- get paid by your employer
+- pay your rent
+- pay all kinds of [taxes](/guides/taxes)
+- buy things online and in stores
+
+Your bank must allow [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how your employer pays you, and how you pay your rent and your taxes. All EU banks and most European banks allow SEPA transfers.[^0]
+
+You don't need a German bank. You can open a bank account in any EU country.
+
 ## Types of bank accounts
 
 In Germany, everyone has the right to a bank account. Germans pay many things by bank transfer. You can't go far without a bank account. Opening a bank account is one of the first things you must do when you move to Germany.
@@ -75,6 +90,7 @@ Online banks and offline banks
 
 You can also use a bank in another EU country.
 
+[^0]: [ecb.europa.eu](https://www.ecb.europa.eu/paym/integration/retail/sepa/html/index.en.html)
 [^1]: [Twitter](https://twitter.com/aboutberlin/status/1776203137264840763) (April 2024)
 [^2]: [Statista](https://www.statista.com/statistics/972307/germany-payment-cards-share/) (2016 to 2022)
 [^3]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
