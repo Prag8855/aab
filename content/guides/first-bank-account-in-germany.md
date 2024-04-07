@@ -1,7 +1,7 @@
 ---
-Title: What is the best German bank for you?
+Title: What is the best German bank for expats?
 Short_title: How to choose a bank
-Description: This guide shows you how to choose a bank in Germany. It compares German banks and their fees.
+Description: This guide compares the best banks in Germany for foreigners. It compares the required documents, the fees and the features of each bank.
 Date_created: 2017-09-01
 ---
 
