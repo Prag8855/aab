@@ -19,31 +19,55 @@ Everything is a little different in Germany. Before you start, learn how banking
 
 ## German banks for expats
 
-As a foreigner, it's harder to open a bank account. German banks might not recognise your passport. Banks often ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They might not recognise your foreign passport.
+As a foreigner, it's **harder to open a bank account**. German banks might not recognise your passport. Banks often ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They might not recognise your foreign passport.
 
-If you just moved to Germany, and you need a bank account *now*, you need an expat-friendly bank.
+German banks are too strict. If you just moved to Germany, and you need a bank account *now*, the best solution is a **bank in another EU country**. 
 
 ### Expat-friendly banks
 
-- **[bunq](/out/bunq)**  
-    They speak 7 languages.[^2] They accept [many passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification). They don't need an *[[Anmeldung]]*. You get a German IBAN.[^3] When you open an account, their app uses GPS to check if you are in Germany.[^4] You can bypass this if you contact customer support.
-- **[Commerzbank](/out/commerzbank)**  
-    They have basic online banking in English. The rest is in German. If you open an account in person, they accept most passport types.[^5] You must have a [residence permit](/glossary/Aufenthaltstitel), and it must be valid for at least 6 months.[^6]
-- **[Deutsche Bank](/out/deutsche-bank)**  
-    Online banking, customer service and some documents are in English.[^7] The rest is in German. If you open an account in person, they accept most passport types.[^8] They offer [blocking accounts](/glossary/Sperrkonto) for foreign students.
-- **[Monese](/out/monese)**  
-    They speak 14 languages. They don't ask for an *[[Anmeldung]]*. You get a Belgian [[IBAN]].
-- **[N26](/out/n26)**  
-    They speak 5 languages.[^9] They accept [many passport types](/out/n26-supported-passports). You need a plastic [residence permit](/glossary/Aufenthaltstitel) that is valid for at least 1 year.[^10] They don't ask for an *[[Anmeldung]]*. If you open an account from Germany, you get a German [[IBAN]].[^11] You need a German address to receive your bank card, but you don't need a [registered address](/glossary/Anmeldung).
+- **[N26](/out/n26)** ⭐️  
+    An online bank based in Berlin. It's the bank I use since 2016, and [I recommend it](/guides/an-honest-review-of-n26).
+    - They speak English, French, German, Italian, Spanish.
+    - They accept [many passport types](/out/n26-supported-passports). Some nationalities need a plastic [residence permit](/glossary/Aufenthaltstitel) valid for at least 1 year. No *[[Anmeldung]]* needed.
+    - If you open an account from Germany, you get a German [[IBAN]].[^11]
+- **[bunq](/out/bunq)** ⭐️  
+    A Dutch online bank. They are very similar to N26, but they accept more documents and have slightly higher fees.
+    - They speak English, Dutch, German, Spanish, Italian, French and Portuguese.
+    - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
 - **[Wise](/out/transferwise)**  
-    They speak 14 languages. They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). They don't ask for an *[[Anmeldung]]*. You might get a Belgian [[IBAN]].
+    An English online bank. They specialise in low-cost foreign currency payments. You get a Belgian [[IBAN]].
+    - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
+    - They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). No *[[Anmeldung]]* needed.
+    - You might get a Belgian [[IBAN]].
+- **[Monese](/out/monese)**  
+    - They speak English, French, German, Brazilian Portuguese, European Portuguese, Bulgarian, Italian, Spanish, Romanian, Polish, Czech, Turkish, Estonian, Lithuanian and Ukrainian.
+    - No *[[Anmeldung]]* needed.
+
+If you need a traditional bank with physical banks, you have two options:
+
+- **[Deutsche Bank](/out/deutsche-bank)**  
+    A German traditional bank. They are old-fashioned and their online banking is bad, but it's easy to open an account. If you need a bank with physical branches, this can work.
+    - They speak mostly German. Online banking, customer service and some documents are in English.[^7]
+    - They accept all passport types.[^8]
+- **[Commerzbank](/out/commerzbank)**  
+    You must make an appointment to open an account. 
+    - They speak mostly German. Online banking partly in English.
+    - You need a [residence permit](/glossary/Aufenthaltstitel) that is valid for at least 6 months.[^6] They accept all passport types.
 
 ### Banks that are not expat-friendly
 
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - They require a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13]
-- **[comdirect](/out/comdirect)** - If you don't have a [registered address](/glossary/Anmeldung), you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/) to open an account. They only speak German.
-- **[DKB](/out/dkb)** - Recent immigrants can rarely open an account.[^14] They only speak German.
-- **[ING](/out/ing)** - You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15] Some students could open an account with a residence permit. Their customer support speaks English.
+- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
+    You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13]
+- **[comdirect](/out/comdirect)**  
+    You need a [registered address](/glossary/Anmeldung), or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
+- **[DKB](/out/dkb)**  
+    They refuse all recent immigrants.[^14] They only speak German.
+- **[ING](/out/ing)**  
+    You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15]
+
+### Banks for Russians, Iranians and Syrians
+
+Due to international sanctions, it's really hard for some immigrants to open a bank account.[^1] Their accounts can get randomly frozen or closed. In Germany, **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** is often the only option.[^2]
 
 ## German banks with English support
 
@@ -140,8 +164,7 @@ You can open a blocked account with...
 - **[Coracle](/out/coracle)**
 - **[Expatrio](https://www.expatrio.com/blocked-account)**
 - **[Fintiba](/out/fintiba)**
-- **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
-    Only some branches offer blocked accounts.[^41]
+- **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Only at some branches[^41]
 - **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, if you are Indian.[^43]
 
 Deutsche Bank does not offer blocked accounts anymore.[^42]
@@ -208,10 +231,8 @@ If you speak German, look at [DKB](/out/dkb) and [ING](/out/ing). People often r
 
 If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Online banks like [bunq](/out/bunq), [Monese](/out/monese) and [Wise](/out/wise-account) also accept more passport types.
 
-[^1]: [reddit.com](https://old.reddit.com/r/germany/comments/p8u1gt/deleted_by_user/)
-[^2]: [together.bunq.com](https://together.bunq.com/d/8819-together-translations)
-[^3]: [together.bunq.com](https://together.bunq.com/d/43672-deutsche-ibans-hallo-deutschland)
-[^4]: [together.bunq.com](https://together.bunq.com/d/39663-app-not-accepting-address-during-sign-up)
+[^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
+[^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/)
 [^5]: [Screenshot](/images/Screenshot-2021-10-11-at-10.35.05.png), [Screenshot](/images/Screenshot-2021-10-11-at-10.55.05.png)
 [^6]: [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png)
 [^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
