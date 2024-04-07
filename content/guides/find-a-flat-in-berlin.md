@@ -1,7 +1,7 @@
 ---
 Title: How to find an apartment in Berlin
 Short_title: How to find an apartment
-Description: This guide shows you how to find a place to live in Berlin. It explains everything from the apartment search to moving in.
+Description: This guide helps you find an apartment for rent in Berlin. It explains everything from the housing search to moving in.
 Date_created: 2017-09-20
 Related_reviews:
     reviews/find-a-flat-in-berlin/tal-gibbesch.md
@@ -9,7 +9,7 @@ Related_reviews:
     reviews/find-a-flat-in-berlin/christine-gerkrath.md
 ---
 
-This guide helps you find a place to live when you [move to Berlin](/guides/moving-to-berlin).
+This guide helps you rent an apartment or a room when you [move to Berlin](/guides/moving-to-berlin).
 
 ![Berlin apartments with different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
@@ -414,9 +414,9 @@ Start looking for short-term housing as soon as you know your move-in date.[^54]
 
 **[Look for short-term housing ↑](#short-term-and-furnished-apartments)**
 
-### Regular apartment
+### Long-term apartment
 
-Regular apartments are a **long-term solution**. They are hard to get, because everyone wants them. If you are unemployed, if you are a student, or if you are not in Germany yet, regular apartments are almost impossible to get.
+Most apartments are long-term apartments. They are the best **long-term solution**. They are hard to get, because everyone wants them. If you are unemployed, if you are a student, or if you are not in Germany yet, regular apartments are almost impossible to get.
 
 With a regular apartment...
 
