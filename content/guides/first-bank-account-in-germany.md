@@ -7,28 +7,24 @@ Date_created: 2017-09-01
 
 This guide helps you choose your first bank account in Germany. It lists the best German banks for foreigners.
 
+Before you start, learn [how banking works in Germany](/guides/banking). It helps you choose better.
+
 ![Cash coins cards german banks](/illustrations/cash-coins-cards-german-banks.png)
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Before you start
-
-Everything is a little different in Germany. Before you start, learn how banking works in Germany. It helps you choose better.
-
-**[How banking works in Germany ➞](/guides/banking)**
-
 ## German banks for expats
 
-As a foreigner, it's **harder to open a bank account**. German banks might not recognise your passport. Banks often ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They might not recognise your foreign passport.
+As a foreigner, it's **harder to open a bank account**. German banks might not recognise your passport. Banks often ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They might not recognise your foreign passport. EU citizens don't have that problem.
 
-German banks are too strict. If you just moved to Germany, and you need a bank account *now*, the best solution is a **bank in another EU country**. 
+If you just moved to Germany, and you need a bank account *now*, you need an expat-friendly bank.
 
 ### Expat-friendly banks
 
 - **[N26](/out/n26)** ⭐️  
     An online bank based in Berlin. It's the bank I use since 2016, and [I recommend it](/guides/an-honest-review-of-n26).
     - They speak English, French, German, Italian, Spanish.
-    - They accept [many passport types](/out/n26-supported-passports). Some nationalities need a plastic [residence permit](/glossary/Aufenthaltstitel) valid for at least 1 year. No *[[Anmeldung]]* needed.
+    - They accept [many passport types](/out/n26-supported-passports). Some nationalities need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
     - If you open an account from Germany, you get a German [[IBAN]].[^11]
 - **[bunq](/out/bunq)** ⭐️  
     A Dutch online bank. They are very similar to N26, but they accept more documents and have slightly higher fees.
@@ -45,19 +41,17 @@ German banks are too strict. If you just moved to Germany, and you need a bank a
 
 If you need a traditional bank with physical banks, you have two options:
 
+**Traditional banks** are old-fashioned and paper-based, but they have physical branches. When you go in person, they accept all passport types.[^8] If they don't let you open an account, you can try in a different branch.
+
 - **[Deutsche Bank](/out/deutsche-bank)**  
-    A German traditional bank. They are old-fashioned and their online banking is bad, but it's easy to open an account. If you need a bank with physical branches, this can work.
-    - They speak mostly German. Online banking, customer service and some documents are in English.[^7]
-    - They accept all passport types.[^8]
+    They speak mostly German. Online banking, customer service and some documents are in English.[^7] No residence permit needed.
 - **[Commerzbank](/out/commerzbank)**  
-    You must make an appointment to open an account. 
-    - They speak mostly German. Online banking partly in English.
-    - You need a [residence permit](/glossary/Aufenthaltstitel) that is valid for at least 6 months.[^6] They accept all passport types.
+    They speak German. Online banking is partly in English. You need a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6]
+- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
+    You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] They accept citizens of Russia, Iran, Syria and other sanctioned countries.[^2]
 
 ### Banks that are not expat-friendly
 
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
-    You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13]
 - **[comdirect](/out/comdirect)**  
     You need a [registered address](/glossary/Anmeldung), or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
 - **[DKB](/out/dkb)**  
@@ -243,7 +237,7 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [reddit.com](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [reddit.com](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
-[^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592)
+[^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592), [Twitter](https://twitter.com/baykara__/status/1425369761504968706)
 [^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
 [^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
