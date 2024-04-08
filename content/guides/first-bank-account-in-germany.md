@@ -21,47 +21,43 @@ If you just moved to Germany, and you need a bank account *now*, you need an exp
 
 ### Expat-friendly banks
 
-- **[N26](/out/n26)** ⭐️  
-    An online bank based in Berlin. It's the bank I use since 2016, and [I recommend it](/guides/an-honest-review-of-n26).
+Most online banks are expat-friendly. They accept most documents, and rarely require an *[[Anmeldung]]*.
+
+- **[N26](/out/n26)**  
+    An German online bank. I use this bank since 2016, and [I recommend it](/guides/an-honest-review-of-n26).
     - They speak English, French, German, Italian, Spanish.
     - They accept [many passport types](/out/n26-supported-passports). Some nationalities need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
-    - If you open an account from Germany, you get a German [[IBAN]].[^11]
-- **[bunq](/out/bunq)** ⭐️  
-    A Dutch online bank. They are very similar to N26, but they accept more documents and have slightly higher fees.
+- **[bunq](/out/bunq)**  
+    A Dutch online bank. They accept more people than N26. You get a German [[IBAN]].
     - They speak English, Dutch, German, Spanish, Italian, French and Portuguese.
-    - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
+    - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55]
+- **[Revolut](/out/revolut)**  
+    A British online bank. They accept the most people.[^3] You get a Lithuanian [[IBAN]].
+    - They speak German and English.
+    - They accept most passports. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
 - **[Wise](/out/transferwise)**  
-    An English online bank. They specialise in low-cost foreign currency payments. You get a Belgian [[IBAN]].
+    An English online bank. They specialise in international bank transfers. I use them a lot to send money abroad. You get a Belgian [[IBAN]].
     - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
     - They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). No *[[Anmeldung]]* needed.
-    - You might get a Belgian [[IBAN]].
-- **[Monese](/out/monese)**  
-    - They speak English, French, German, Brazilian Portuguese, European Portuguese, Bulgarian, Italian, Spanish, Romanian, Polish, Czech, Turkish, Estonian, Lithuanian and Ukrainian.
-    - No *[[Anmeldung]]* needed.
 
-If you need a traditional bank with physical banks, you have two options:
+[Monese](/out/monese), [Vivid](https://vivid.money) and [Tomorrow](https://www.tomorrow.one/en-EU/) are also good options.
 
-**Traditional banks** are old-fashioned and paper-based, but they have physical branches. When you go in person, they accept all passport types.[^8] If they don't let you open an account, you can try in a different branch.
+**Traditional banks** can be expat-friendly, but I don't recommend them. You must sometimes go to the bank in person, with an appointment, just to sign documents.[^53] Their online banking apps are bad. They have physical branches, but employees might not speak English.
 
 - **[Deutsche Bank](/out/deutsche-bank)**  
-    They speak mostly German. Online banking, customer service and some documents are in English.[^7] No residence permit needed.
+    They speak mostly German. Online banking, customer service and some documents are in English.[^7] They sometimes need a residence permit.[^54]
 - **[Commerzbank](/out/commerzbank)**  
     They speak German. Online banking is partly in English. You need a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6]
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
-    You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] They accept citizens of Russia, Iran, Syria and other sanctioned countries.[^2]
+- **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
+    You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] They accept Russians, Iranians, Syrians and citizens of other sanctioned countries.[^2]
+
+If a traditional bank does not let you open an account, try again at a different branch.
 
 ### Banks that are not expat-friendly
 
-- **[comdirect](/out/comdirect)**  
-    You need a [registered address](/glossary/Anmeldung), or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
-- **[DKB](/out/dkb)**  
-    They refuse all recent immigrants.[^14] They only speak German.
-- **[ING](/out/ing)**  
-    You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15]
-
-### Banks for Russians, Iranians and Syrians
-
-Due to international sanctions, it's really hard for some immigrants to open a bank account.[^1] Their accounts can get randomly frozen or closed. In Germany, **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** is often the only option.[^2]
+- **[DKB](/out/dkb)** - They refuse all recent immigrants.[^14] They only speak German.
+- **[ING](/out/ing)** - You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15]
+- **[comdirect](/out/comdirect)** - You need an *[[Anmeldung]]*, or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
 
 ## German banks with English support
 
@@ -80,7 +76,7 @@ These banks let you do some things in English, but you will sometimes need to un
 - **[Deutsche Bank](/out/deutsche-bank)** - Customer service and online banking in English. Some documents are only in German. They're the best option if you want a [blocking account](/glossary/Sperrkonto) or a bank with branches, but you don't speak German.
 - **[Commerzbank](/out/commerzbank)** - Basic online banking in English. Everything else is in German.
 
-If you go to your local branch, you can usually find someone who speaks English, but all the documents and contracts will be in German.
+If you go to the bank in person, you can usually find someone who speaks English, but all the letters and documents are in German.
 
 ## German banks with no monthly fees
 
@@ -88,15 +84,15 @@ Some banks charge monthly fees just to have a bank account. Other banks don't ha
 
 ### Banks with no monthly fees
 
-- **[DKB](/out/dkb)** - No monthly fees.[^16] They don't let recent immigrants open an account.
 - **[N26](/out/n26)** - No monthly fees.
+- **[DKB](/out/dkb)** - No monthly fees.[^16] They don't let recent immigrants open an account.
 
 ### Banks with no monthly fees if you deposit money every month
 
 These banks remove the monthly fees if you deposit money in your account every month. In other words, if you receive your paycheck there, you don't pay monthly fees.
 
-- **[1822direkt](/out/1822direkt)** - 3.90€ monthly fee if you deposit less than 700€ per month.[^18]
-- **[comdirect](/out/comdirect)** - 4.90€ monthly fee if your deposit less than 700€ per month.[^19] No fees if you use Google Pay or Apple Pay at least 3 times per month.[^20]
+- **[1822direkt](/out/1822direkt)** - 3.90€ monthly fee, no fee if you deposit over 700€ per month.[^18]
+- **[comdirect](/out/comdirect)** - 4.90€ monthly fee, no fee if your deposit over 700€ per month, or if you use Google Pay or Apple Pay at least 3 times per month.[^20]
 - **[Commerzbank](/out/commerzbank)** - 9.90€ monthly fee if your deposit less than 700€ per month.[^21] A credit card costs 39.90€ per year.
 - **[ING](/out/ing)** - 4.90€ monthly fee if you deposit less than 700€ per month.[^22]
 
@@ -143,15 +139,11 @@ Some banks have free ATM withdrawals, but only if you use their ATM network. In 
 - **[Deutsche Bank](/out/deutsche-bank)** - Free withdrawals from Cash Group ATMs (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
 - **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
 
-## German banks for students
-
 Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)**
 
-### Blocked account (Sperrkonto) for the student visa
+## Blocked account for students
 
-To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*): a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
-
-Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
+To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*). That means a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
 
 You can open a blocked account with...
 
@@ -162,6 +154,8 @@ You can open a blocked account with...
 - **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, if you are Indian.[^43]
 
 Deutsche Bank does not offer blocked accounts anymore.[^42]
+
+Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
 
 ## Banks in other EU countries
 
@@ -226,14 +220,10 @@ If you speak German, look at [DKB](/out/dkb) and [ING](/out/ing). People often r
 If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Online banks like [bunq](/out/bunq), [Monese](/out/monese) and [Wise](/out/wise-account) also accept more passport types.
 
 [^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
-[^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/)
-[^5]: [Screenshot](/images/Screenshot-2021-10-11-at-10.35.05.png), [Screenshot](/images/Screenshot-2021-10-11-at-10.55.05.png)
+[^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
+[^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399)
 [^6]: [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png)
 [^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
-[^8]: [reddit.com/r/Finanzen](https://old.reddit.com/r/Finanzen/comments/9rdnxo/which_online_bank_allow_indian_citizen_living_in/e8wsprl/), [Screenshot](/images/Screenshot-2021-10-11-at-10.35.11.png), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/p8u1gt/deleted_by_user/)
-[^9]: [Twitter](https://twitter.com/n26/status/1020293086730248194)
-[^10]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf?s_id=173058848)
-[^11]: [support.n26.com](https://support.n26.com/en-eu/account-and-personal-details/personal-information-and-data/how-to-find-my-iban-or-account-number)
 [^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [reddit.com](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [reddit.com](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
@@ -241,7 +231,6 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
 [^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
-[^19]: [nordbayern.de](https://www.nordbayern.de/wirtschaft/kaum-noch-gratis-girokonten-auch-comdirect-erhebt-jetzt-gebuhren-1.10843383)
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
 [^21]: [commerzbank.de](https://www.commerzbank.de/portal/media/efw-dokumente/preis_leistungsverzeichnis.pdf)
 [^22]: [ing.de](https://www.ing.de/girokonto/konditionen/)
@@ -275,3 +264,6 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^50]: [americansoverseas.org](https://americansoverseas.org/de/nachrichten/faz-zufallig-amerikaner-verlieren-konto/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/dywhd6/bank_account_termination_question/)
 [^51]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/Verification/T&C%20DE-EN,%20SC%20-%20last%20update_%20April%202021.pdf)
 [^52]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken)
+[^53]: [Twitter](https://twitter.com/rednafi/status/1775817482265092341) (2024), [Twitter](https://twitter.com/toolroom_knight/status/1775805302777983248) (2024)
+[^54]: [Twitter](https://twitter.com/jackiewmacharia/status/1776516950786466154) (2024), [Twitter](https://twitter.com/de1m0s242/status/1776865850051485978) (2024)
+[^55]: [Twitter](https://twitter.com/herovych/status/1775801170327384530) (2022)
