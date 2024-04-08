@@ -21,6 +21,13 @@ function issue_selfsigned_cert() {
     -subj '/CN=localhost'
 }
 
+function reload_nginx_on_config_changes () {
+  while inotifywait -e modify /var/www/html/redirects/301.map /var/www/html/redirects/302.map; do
+      echo "Config changed, reloading nginx..."
+      nginx -s reload
+  done
+}
+
 if [ ! -f "$CERT_CHAIN_PATH" ]; then
   echo "No SSL certificate found. Issuing a self-signed certificate to let nginx start."
   issue_selfsigned_cert
@@ -47,6 +54,9 @@ if [ "$SSL_DOMAIN" != "localhost" ]; then
 else
   echo "Domain is 'localhost'. Using self-signed certificate."
 fi
+
+echo "Monitoring changes to redirects files"
+reload_nginx_on_config_changes &
 
 echo "Starting nginx..."
 nginx -g "daemon off;"
