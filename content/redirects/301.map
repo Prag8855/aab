@@ -1,0 +1,100 @@
+# Calculators -> Tools
+/appointments "/tools/appointment-finder";
+/calculators "/tools";
+/calculators/arbeitslosenversicherung "/tools/arbeitslosenversicherung-calculator";
+/calculators/health-insurance "/tools/health-insurance-calculator";
+/calculators/pension-refund "/tools/pension-refund-calculator";
+/calculators/tax-calculator "/tools/tax-calculator";
+/pension-refund "/tools/pension-refund-calculator";
+
+# Categories -> Collections
+/guides/categories/life-in-berlin "/collections/moving-to-berlin";
+/guides/categories/life-in-germany "/guides";
+/guides/categories/visas-immigration "/collections/immigration";
+/guides/categories/apartment "/collections/apartment-life";
+/guides/categories/health "/collections/healthcare";
+/guides/categories/health/coronavirus "/collections/healthcare";
+/guides/categories/family-friends-pets "/collections/family-and-friends";
+/guides/categories/family-friends-pets/pets "/collections/dogs";
+/guides/categories/family-friends-pets/children-and-parenting "/collections/family-and-friends";
+/guides/categories/business "/collections/starting-a-business";
+/guides/categories/money "/collections/personal-finance";
+/guides/categories/mobility "/collections/getting-around";
+/guides/categories/mobility/driving "/collections/driving";
+/guides/categories/mobility/public-transport "/collections/getting-around";
+
+# Deleted categories
+/guides/categories/living-in-berlin "/guides";
+/guides/categories/living-in-berlin/animals "/guides/dog-ownership";
+/guides/categories/living-in-berlin/apartment-life "/guides/find-a-flat-in-berlin";
+/guides/categories/living-in-berlin/banking "/collections/personal-finance";
+/guides/categories/living-in-berlin/children-and-parenting "/collections/family-and-friends";
+/guides/categories/living-in-berlin/entertainment "/guides";
+/guides/categories/living-in-berlin/getting-around "/collections/getting-around";
+/guides/categories/living-in-berlin/getting-around/driving "/collections/driving";
+/guides/categories/living-in-berlin/getting-around/public-transport "/guides/public-transit";
+/guides/categories/living-in-berlin/healthcare "/guides/german-health-insurance";
+/guides/categories/living-in-berlin/healthcare/coronavirus "/guides";
+/guides/categories/living-in-berlin/reviews "/guides";
+/guides/categories/living-in-berlin/working "/guides/find-a-job-in-berlin";
+/guides/categories/living-in-berlin/working/freelancing-in-berlin "/guides/become-a-freelancer-in-germany";
+/guides/categories/living-in-berlin/working/starting-a-business-in-berlin "/guides/start-a-business-in-germany";
+/guides/categories/moving-to-berlin "/guides/moving-to-berlin";
+/guides/categories/moving-to-berlin/after-moving "/guides/moving-to-berlin";
+/guides/categories/moving-to-berlin/before-moving "/guides/moving-to-berlin";
+/guides/categories/moving-to-berlin/essential-knowledge "/guides/moving-to-berlin";
+/guides/categories/visiting-berlin "/guides/visit-berlin";
+/guides/categories/visiting-berlin/food "/guides/visit-berlin";
+/guides/categories/visiting-berlin/shopping "/guides/visit-berlin";
+/guides/categories/visiting-berlin/sights-attractions "/guides/visit-berlin";
+
+# Plausible API move
+/js/whoisthere.js "/whoisthere.js";
+/api/event "/whoisthere/event";
+
+# Search page removal
+/search /guides;
+
+# Renamed or removed content
+"/glossary/Bundesagentur für Arbeit" "/glossary/Agentur für Arbeit";
+"/glossary/Bundesagentur für Arbeit​" "/glossary/Agentur für Arbeit";
+"/glossary/zertifierte Teststelle" /guides;
+/collections/personal-finances /collections/personal-finance;
+/docs/german-freelance-visa-form /docs/residence-permit-application-form;
+/documents/Absichtserklärung-Example-English.pdf /documents/Absichtserklaerung-Example-English.pdf;
+/documents/Absichtserklärung-Example-German.pdf /documents/Absichtserklaerung-Example-German.pdf;
+/documents/Absichtserklärung-Muster.pdf /documents/Absichtserklaerung-Muster.pdf;
+/documents/anmeldung-translated-finished.pdf /documents/anmeldung-translated-2021-v2.pdf;
+/documents/german-visa-Ertragsvorschau.pdf /documents/german-visa-Ertragsvorschau-2023.pdf;
+/documents/documents/lea-agen1-antrag_engl_frz_ital-112021.pdf /documents/residence-permit-application-form-2021.pdf;
+/documents/Stellenbeschreibung.pdf /documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf;
+/glossary/Berufsunfaehigkeitsversicherung /glossary/Berufsunfähigkeitsversicherung;
+/glossary/Gewerbetreibende /glossary/Gewerbetreibender;
+/glossary/Mietaval /glossary/Mietbürgschaft;
+/guides/abmahnung-creative-commons "https://nicolasbouliane.com/blog/abmahnung-creative-commons";
+/guides/anmeldung-berlin-coronavirus /guides;
+/guides/bafin-approved-insurance /guides/german-visa-health-insurance;
+/guides/berlin-auslanderbehorde-same-day-appointment /guides/berlin-auslanderbehorde-appointment;
+/guides/berlin-bvg-font /guides/germany-sign-fonts;
+/guides/bvg-10-uhr-karte /guides/public-transit;
+/guides/canadian-german-driving-license /guides/convert-to-german-driving-licence;
+/guides/coronavirus /guides;
+/guides/coronavirus-test /guides;
+/guides/english-speaking-psychiatrists-psychotherapists-berlin /guides/english-speaking-psychotherapists-berlin;
+/guides/german-work-visa /guides/work-visa;
+/guides/how-to-get-a-german-freelance-visa /guides/freelance-visa;
+/guides/how-to-learn-german-with-zero-discipline /guides/learn-german;
+/guides/kraftfahrzeugsteuerbescheid /glossary/Kraftfahrzeugsteuerbescheid;
+/guides/motorcycle-licence-in-germany /guides/driving-licence;
+/guides/null /guides;
+/guides/planning-a-trip-to-berlin /guides/visit-berlin;
+/guides/hundesteuer /guides/dog-ownership;
+/guides/pet-ownership /guides/dog-ownership;
+/guides/free-schufa-berlin /guides/schufa;
+/illustrations/apartment-floor-plan-germany.png /illustrations/apartment-floor-plan-berlin.png;
+/illustrations/apartment-floor-plan-germany_2022-12-05-172443_fjyy.png /illustrations/apartment-floor-plan-berlin.png;
+/illustrations/apartment-floor-plan-germany_2022-12-05-172825_kvzc.png /illustrations/apartment-floor-plan-berlin.png;
+/images/SteuerID_auf_Lohnsteuerbescheinigung.png /images/Lohnsteuerbescheinigung-SteuerID.png;
+/impressum /contact;
+/support /contact;
+/tools/null /guides;
