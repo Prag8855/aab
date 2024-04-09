@@ -64,7 +64,7 @@ Pay as late as you can. It's a good way to avoid deposit scams. Scammers always 
 
 **[When to pay the deposit](/guides/mietkaution#when-to-pay-the-kaution)**
 
-Pay the rent and the deposit by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you pay with cash, always ask for a receipt. You can also use [Wise](/out/transferwise) to send money from another country. If the landlord asks for another payment method, it might be a [scam](/guides/housing-scams).
+Pay the rent and the deposit by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you pay with cash, always ask for a receipt. You can also use [Wise](/out/wise) to send money from another country. If the landlord asks for another payment method, it might be a [scam](/guides/housing-scams).
 
 ### Pay the rent
 

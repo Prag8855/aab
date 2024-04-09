@@ -60,7 +60,7 @@ It's *really* hard to find an apartment in Berlin. It's harder if you are not in
 
 The best option is to get a temporary furnished apartment, come to Berlin, then look for something better. It's almost impossible to find a good apartment if you are not in Berlin.
 
-Before you [move in](/guides/moving-in), you must pay the first month's rent, and the deposit (*[[Kaution]]*). In Germany, you pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/first-bank-account-in-germany), or use [Wise](/out/transferwise) to send money from another country.
+Before you [move in](/guides/moving-in), you must pay the first month's rent, and the deposit (*[[Kaution]]*). In Germany, you pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/first-bank-account-in-germany), or use [Wise](/out/wise) to send money from another country.
 
 ### Get health insurance
 
@@ -102,7 +102,7 @@ If you are not a EU citizen, it can be hard to open a bank account. Banks often 
 
 **[List of expat-friendly banks ➞](/guides/first-bank-account-in-germany)**
 
-Use [Wise](/out/transferwise) to send money from another country. You can use it to pay rent without a EU bank account, or to add money to your new bank account.
+Use [Wise](/out/wise) to send money from another country. You can use it to pay rent without a EU bank account, or to add money to your new bank account.
 
 ### Get a mobile phone contract
 

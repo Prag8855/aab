@@ -195,8 +195,6 @@
 /out/tk-calc                                  "/out/signup-tk";
 /out/tk-calc-students                         "/out/feather-students";
 /out/tomorrow                                 "https://www.financeads.net/tc.php?t=28713C313862738T";
-/out/transferwise                             "https://wise.prf.hn/click/camref:1100l7vdA";
-/out/transferwise-borderless                  "https://transferwise.prf.hn/click/camref:1100l7vdA/destination:https%3A%2F%2Ftransferwise.com%2Fborderless%2F";
 /out/verivox-cellphone                        "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=559395&linkid=2482508&clickref=";
 /out/verivox-electricity                      "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=559395&linkid=2482504&clickref=";
 /out/verivox-internet                         "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=559395&linkid=2482507&clickref=";
@@ -204,6 +202,7 @@
 /out/vivid                                    "https://vivid.money";
 /out/vodafone-callya                          "https://www.vodafone.de/privat/handys-tablets-tarife/prepaid-ohne-vertrag.html";
 /out/volksbank                                "https://www.berliner-volksbank.de/homepage.html";
+/out/wise                                     "https://wise.prf.hn/click/camref:1100l7vdA";
 /out/wise-account                             "https://wise.prf.hn/l/78EGvPw";
 /out/wise-supported-passports                 "https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin";
 /out/wunderflats                              "https://en-master.wunderflats.xyz/#a_aid=allaboutberlin&a_bid=11110007";
@@ -234,5 +233,7 @@
 /out/popsure-expats                           "/out/feather-expats";
 /out/popsure-haftpflicht                      "/out/feather-haftpflicht";
 /out/popsure-students                         "/out/feather-students";
+/out/transferwise                             "/out/wise";
+/out/transferwise-borderless                  "/out/wise-account";
 /out/wenigermiete                             "/out/conny";
 /out/wenigermiete-mietpreisbremse-calculator  "/out/conny-mietpreisbremse-calculator";

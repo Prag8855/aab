@@ -58,7 +58,7 @@ You can pay the fine with a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Ju
 
 ## What if I live in another country?
 
-You should still pay the fine. If you live in Europe, you can still make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). If you don't live in Europe, you can use [Wise](/out/transferwise) to transfer money to the BVG.
+You should still pay the fine. If you live in Europe, you can still make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). If you don't live in Europe, you can use [Wise](/out/wise) to transfer money to the BVG.
 
 ## What if I lost the fine?
 

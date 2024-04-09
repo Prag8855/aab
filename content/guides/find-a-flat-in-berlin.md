@@ -32,7 +32,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 - [ ] **Save money**  
     You need enough for the rent, the [deposit](/glossary/Kaution), and some furniture and house supplies. If you have a low budget, rent a room in a [[WG]].
 - [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
-    Pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or send money from another country with [Wise](/out/transferwise).
+    Pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or send money from another country with [Wise](/out/wise).
 - [ ] **Understand [how housing works](#important-knowledge)**
 - [ ] **Prepare the [required documents](#required-documents)**
 
@@ -501,7 +501,7 @@ Sometimes, the previous tenant wants to sell their furniture to you. If you don'
 
 You usually pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay rent with cash, and never with cheques. If the landlord uses another payment method, it's probably a [scam](/guides/housing-scams).
 
-You need a European bank account to make bank transfers. Use [Wise](/out/transferwise) to transfer money from a non-EU country.
+You need a European bank account to make bank transfers. Use [Wise](/out/wise) to transfer money from a non-EU country.
 
 **[Open a bank account ➞](/guides/first-bank-account-in-germany)**
 

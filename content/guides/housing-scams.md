@@ -198,7 +198,7 @@ Signs of a scam:
 - 🛑 The landlord asks you to finish the booking on a different website
 - ⚠️ The landlord's bank is in another country
 
-**Always pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).** Bank transfers to other countries are suspicious; the landlord's [[IBAN]] should start with "DE".[^16] Use [Wise](/out/transferwise) to make bank transfers from another country. If you pay in cash, ask for a receipt. Never pay with Paypal, Western Union or other payment services.[^8]
+**Always pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).** Bank transfers to other countries are suspicious; the landlord's [[IBAN]] should start with "DE".[^16] Use [Wise](/out/wise) to make bank transfers from another country. If you pay in cash, ask for a receipt. Never pay with Paypal, Western Union or other payment services.[^8]
 
 **Never pay in advance.** Don't pay before you visit the apartment, sign the lease and get the keys.[^7] You have [until the day you move in](/guides/mietkaution#when-to-pay-the-kaution) to pay the rent and 1/3 of the [deposit](/glossary/Kaution). Your landlord can't kick you out because you pay at the last minute.
 

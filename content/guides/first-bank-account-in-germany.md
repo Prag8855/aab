@@ -33,7 +33,7 @@ Most online banks are expat-friendly. They make it easy to open an account. They
     A British online bank. They accept the most people.[^3] You get a Lithuanian [[IBAN]]. You can withdraw 200€ per month for free.
     - They speak German and English.
     - They accept most passports. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
-- **[Wise](/out/transferwise)**  
+- **[Wise](/out/wise)**  
     A British online bank. You get a Belgian [[IBAN]]. You can withdraw 200€ per month for free.
     - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
     - They accept [most passport types](/out/wise-supported-passports). No *[[Anmeldung]]* needed.
@@ -65,7 +65,7 @@ If a traditional bank does not let you open an account, try again at a different
 - **[Monese](/out/monese)** - English and 13 other languages
 - **[N26](/out/n26)** - English and 4 other languages
 - **[Revolut](/out/revolut)** - English
-- **[Wise](/out/transferwise)** - English and 13 other languages
+- **[Wise](/out/wise)** - English and 13 other languages
 
 ### Banks with some English support
 
@@ -152,7 +152,7 @@ These banks are based in other EU countries. They let you open an account from G
 
 - **[bunq](/out/bunq)** - Licenced in Belgium. Accounts can have a German [[IBAN]]s.
 - **[Monese](/out/monese)** - Licenced in Belgium. Accounts have Belgian [[IBAN]]s.
-- **[Wise](/out/transferwise)** - Licenced in Belgium. Accounts have Belgian [[IBAN]]s.
+- **[Wise](/out/wise)** - Licenced in Belgium. Accounts have Belgian [[IBAN]]s.
 
 There are a few problems with non-German banks:
 
@@ -190,7 +190,7 @@ These banks are often more flexible. They accept most passport types, and they l
 
 ### Transfer money from another country
 
-After you open a German bank account, use [Wise](/out/transferwise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly in the N26 app.
+After you open a German bank account, use [Wise](/out/wise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly in the N26 app.
 
 ## Which bank should I choose?
 

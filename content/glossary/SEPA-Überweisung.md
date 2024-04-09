@@ -15,6 +15,6 @@ A SEPA transfer (*SEPA-Überweisung*) is how you transfer money between European
 
 You can make a SEPA transfer at the bank, in your banking app, or with online banking. You can also sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat).
 
-If you can't make a SEPA transfer, use [Wise](/out/transferwise), [PayPal](https://www.paypal.com/) or wire transfers.
+If you can't make a SEPA transfer, use [Wise](/out/wise), [PayPal](https://www.paypal.com/) or wire transfers.
 
 **[How banking works in Germany ➞](/guides/banking)**
