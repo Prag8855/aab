@@ -156,6 +156,7 @@ config.context_processors += (
 
 config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
+    'extensions.renderers.nginx_map.NginxMapRenderer'
     # 'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
 )
 

@@ -1,7 +1,7 @@
 ---
 Title: How to find an apartment in Berlin
 Short_title: How to find an apartment
-Description: This guide shows you how to find a place to live in Berlin. It explains everything from the apartment search to moving in.
+Description: This guide helps you find an apartment for rent in Berlin. It explains everything from the housing search to moving in.
 Date_created: 2017-09-20
 Related_reviews:
     reviews/find-a-flat-in-berlin/tal-gibbesch.md
@@ -9,7 +9,7 @@ Related_reviews:
     reviews/find-a-flat-in-berlin/christine-gerkrath.md
 ---
 
-This guide helps you find a place to live when you [move to Berlin](/guides/moving-to-berlin).
+This guide helps you rent an apartment or a room when you [move to Berlin](/guides/moving-to-berlin).
 
 ![Berlin apartments with different architecture](/illustrations/berlin-apartment-different-architecture.png)
 
@@ -53,11 +53,9 @@ Before you [look for apartments](#look-for-apartments), you must...
     Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* needed.[^51] Preferred by relocation consultants.
 -  **[HousingAnywhere](/out/housinganywhere)** ⭐️  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
-- **[Spotahome](/out/spotahome)**  
-    Some landlords are verified.[^45] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). To avoid scams, the landlord only gets paid after you move in.[^46] Some apartments have no [deposit](/glossary/Kaution).
-- **[Wunderflats](/out/wunderflats)**  
-    They offer little protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
-- [Hope Apartments](/out/hope-apartments) - 3 to 12 month stay. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
+- [Wunderflats](/out/wunderflats) - They offer little protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
+- [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
+- [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution).
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
 - [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible[^8]
 - [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible if you stay over 1 month
@@ -414,9 +412,9 @@ Start looking for short-term housing as soon as you know your move-in date.[^54]
 
 **[Look for short-term housing ↑](#short-term-and-furnished-apartments)**
 
-### Regular apartment
+### Long-term apartment
 
-Regular apartments are a **long-term solution**. They are hard to get, because everyone wants them. If you are unemployed, if you are a student, or if you are not in Germany yet, regular apartments are almost impossible to get.
+Most apartments are long-term apartments. They are the best **long-term solution**. They are hard to get, because everyone wants them. If you are unemployed, if you are a student, or if you are not in Germany yet, regular apartments are almost impossible to get.
 
 With a regular apartment...
 

@@ -146,7 +146,7 @@ Signs of a scam:
 - 🛑 The landlord sends you a scan of their passport[^29]
 - ⚠️ The landlord's account is only a few days old
 
-Google the name, email address and [[IBAN]] of the landlord or *[[Hausverwaltung]]*. Check if they really exist, and if there are warnings about them. Google parts of their message. Check if they used the same message to scam other people.[^10]
+Google the name, email address and [[IBAN]] of the landlord or *[[Hausverwaltung]]*. Check if they really exist, and if there are warnings about them. Look if they have a Facebook or LinkedIn profile. Google parts of their message. Check if they used the same message to scam other people.[^10]
 
 You can't meet the landlord, only a friend or a relative. Video calls are not possible.
 
