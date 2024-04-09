@@ -78,40 +78,32 @@ If you go to the bank in person, you can usually find someone who speaks English
 
 ## German banks with no monthly fees
 
-Some banks charge monthly fees just to have a bank account. Other banks don't have monthly fees. [Tarifcheck](/out/tarifcheck-girokonto) lets you compare banks with no monthly fees.
-
-### Banks with no monthly fees
+These banks offer a **free bank account**:
 
 - **[N26](/out/n26)** - No monthly fees.
-- **[DKB](/out/dkb)** - No monthly fees.[^16] They don't let recent immigrants open an account.
+- **[DKB](/out/dkb)** - No monthly fees.[^16] They reject recent immigrants.
 
-### Banks with no monthly fees if you deposit money every month
+These banks have no monthly fee **if you deposit at least 700€ per month**:
 
-These banks remove the monthly fees if you deposit money in your account every month. In other words, if you receive your paycheck there, you don't pay monthly fees.
+- **[1822direkt](/out/1822direkt)**[^18]
+- **[comdirect](/out/comdirect)**[^20]
+- **[Commerzbank](/out/commerzbank)**[^21]
+- **[ING](/out/ing)**[^22]
 
-- **[1822direkt](/out/1822direkt)** - 3.90€ monthly fee, no fee if you deposit over 700€ per month.[^18]
-- **[comdirect](/out/comdirect)** - 4.90€ monthly fee, no fee if your deposit over 700€ per month, or if you use Google Pay or Apple Pay at least 3 times per month.[^20]
-- **[Commerzbank](/out/commerzbank)** - 9.90€ monthly fee if your deposit less than 700€ per month.[^21] A credit card costs 39.90€ per year.
-- **[ING](/out/ing)** - 4.90€ monthly fee if you deposit less than 700€ per month.[^22]
+These banks have no monthly fee **for young people**:
 
-### Banks with no monthly fee for students
+- **[1822direkt](/out/1822direkt)** - No fee under 27 years old.[^23]
 
-- **[1822direkt](/out/1822direkt)** - No monthly fee for all people under 27 years old.[^23]
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - No monthly fee for students under 26 years old.[^24] 8.50€ per year for a debit card. Some branches offer a *[[Sperrkonto]]*.
-- **[comdirect](/out/comdirect)** - No monthly fee for students under 28 years old.[^20]
-- **[Commerzbank](/out/commerzbank)** - No monthly fee for students under 27 years old ([*StartKonto*](/out/commerzbank-students)).[^21] The credit card is free if you deposit over 300€ per month.
-- **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25] 6.90€ for non-EU students.[^26] They offer a *[[Sperrkonto]]* for the German [student visa](/glossary/Student%20visa).
-- **[ING](/out/ing-students)** - No monthly fee for students. 1€ per month fee for a debit card.
+These banks have no monthly fee **for students**:
+
+- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - No fee for students under 26 years old.[^24] 8.50€ per year for a debit card.
+- **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25]
+- **[comdirect](/out/comdirect)** - No fee for students under 28 years old.[^20]
+- **[Commerzbank](/out/commerzbank-students)** - No fee for students under 27 years old.[^21]
+- **[ING](/out/ing)** - Just 1€ per month for the debit card.[^22]
 - **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - No monthly fee for students.[^27]
 
-### Banks with monthly fees
-
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - 3€ monthly fee,[^28] or 1€ + 0.30€ per debit card transaction.[^29] 2.50€ per month for a credit card.[^24]
-- **[bunq](/out/bunq)** - Minimum 3€ per month for the card. No other monthly fee.
-- **[Deutsche Bank](/out/deutsche-bank)** - 6.90€ monthly fee.[^30]
-- **[Volksbank](https://www.berliner-volksbank.de/homepage.html):** 6€ monthly fee + 0.50€ for debit card.[^31]
-
-**Some banks charge a fee for their credit cards**. For example, Commerzbank's cheapest credit card is 39.90€ per year.[^32]
+Even if a bank has no monthly fee, you might still pay a fee for the credit card, or to get money from an ATM. Choose a bank with no ATM fees; it's very important.
 
 ## German banks with no ATM fees
 
