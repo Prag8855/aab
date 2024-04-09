@@ -15,4 +15,4 @@ Related_guides:
 
 [Ottonova](/out/ottonova) is a [private health insurance](/glossary/private%20Krankenversicherung) startup in Germany. It's a 100% digital insurance company that offers English customer support.
 
-**[My review of Ottonova ➞](/guides/ottonova-review.md)**
+**[My review of Ottonova ➞](/guides/ottonova-review)**

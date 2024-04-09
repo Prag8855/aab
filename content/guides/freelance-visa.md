@@ -67,7 +67,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-employment:
 
-- **[[Work visa]]** or **[[Blue Card]]**  
+- **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
     [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need permission from your employer to freelance.[^21] To freelance full-time, you need a freelance visa.
 - **[[Student visa]]**  
     Usually, student visas do not allow self-employment.[^54] In Berlin, *some* student visas already allow self-employment.[^72] You can get permission from the *[[Ausländerbehörde]]* to study and freelance at the same time.[^2]
