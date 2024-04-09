@@ -17,7 +17,7 @@ Related_guides:
 
 A registration certificate (*Anmeldebestätigung* or *Meldebestätigung*) proves that you live at a certain address.
 
-![Meldebestätigung](/images/Meldebescheinigung_Berlin.jpg "A Meldebestätigung issued in Berlin")
+![Meldebestätigung issued in Berlin](/images/Meldebescheinigung_Berlin.jpg "A Meldebestätigung issued in Berlin")
 
 You get an *Anmeldebestätigung* when you register your address (the *[[Anmeldung]]*). You get it during the appointment.
 
