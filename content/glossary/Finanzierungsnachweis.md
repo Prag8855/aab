@@ -11,6 +11,6 @@ Related_guides:
 
 A proof of financial resources (*Finanzierungsnachweis*) is required when applying for foreign student, au-pair, language student and job-seeker visas. 
 
-Usually, this means you must open a blocking account (*[[Sperrkonto]]*). [Coracle](/out/coracle), [Fintiba](/out/fintiba), [Expatrio](https://www.expatrio.com/blocked-account) and *some* Sparkasse branches offer blocking accounts.
+Usually, this means you must open a blocking account (*[[Sperrkonto]]*). [Coracle](/out/coracle), [Fintiba](/out/fintiba), [Expatrio](/out/expatrio-sperrkonto) and *some* Sparkasse branches offer blocking accounts.
 
 **[More information](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/)** - Study in Germany

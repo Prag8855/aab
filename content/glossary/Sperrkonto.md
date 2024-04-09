@@ -13,7 +13,7 @@ A blocking account (*Sperrkonto*) is a special type of bank account. A *Sperrkon
 
 Unlike a normal bank account, a blocked account only lets you withdraw a fixed amount every month.
 
-[Coracle](/out/coracle), [Fintiba](/out/fintiba), [Expatrio](https://www.expatrio.com/blocked-account) and *some* Sparkasse branches offer blocking accounts. Deutsche Bank stopped offering them.[^0]
+[Coracle](/out/coracle), [Fintiba](/out/fintiba), [Expatrio](/out/expatrio-sperrkonto) and *some* Sparkasse branches offer blocking accounts. Deutsche Bank stopped offering them.[^0]
 
 **[How to choose a bank ➞](/guides/first-bank-account-in-germany)
 

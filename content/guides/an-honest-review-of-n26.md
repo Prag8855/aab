@@ -139,7 +139,7 @@ This was a problem when I opened my account in 2016. It might be solved now.
 
 If you lose access to your phone, you lose access to your bank account. To use the desktop website, you must confirm the login on your phone. To transfer money from the desktop website, you must confirm the transfer on your phone.
 
-If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 does not have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
+If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 does not have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
 
 ### It's hard to get rid of coins
 
@@ -155,11 +155,11 @@ CASH26 does not work if you have a lot of coins. You must [exchange your coins a
 
 **[How to exchange coins in Berlin ➞](/guides/exchange-coins-berlin)**
 
-Other online banks have the same problem. Only [Comdirect](/out/comdirect) lets you deposit coins at Commerzbank branches. Traditional banks like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html) let you deposit coins more easily.
+Other online banks have the same problem. Only [Comdirect](/out/comdirect) lets you deposit coins at Commerzbank branches. Traditional banks like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse) let you deposit coins more easily.
 
 ### Limited services
 
-N26 is good for everyday banking, but it does not offer many investing options. If you want to invest your money, get a fancy credit card or get a mortgage, you need a traditional bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
+N26 is good for everyday banking, but it does not offer many investing options. If you want to invest your money, get a fancy credit card or get a mortgage, you need a traditional bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
 
 You don't need to have one bank for everything. You can have multiple bank accounts. I use [Degiro](/out/degiro) to trade stocks, and [I recommend it](/guides/an-honest-review-of-degiro). I use [Kontist](/out/kontist) as my business bank, and [I don't recommend it](/guides/kontist-review).
 
@@ -223,7 +223,7 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 
 - If you want an online bank with low fees, there is also [comdirect](/out/comdirect), [DKB](/out/dkb), [ING](/out/ing) and [bunq](/out/bunq).
 - If you don't speak German, there is also [bunq](/out/bunq), [Wise](/out/wise-account), [Monese](/out/monese), and [Deutsche Bank](/out/deutsche-bank).
-- If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
+- If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](/out/sparkasse).
 - If you don't have an *[[Anmeldung]]* yet, there are [many ways to open a bank account](/guides/german-banks-no-address).
 - If N26 does not support your passport type, [Wise](/out/wise-account), [bunq](/out/bunq) and [Monese](/out/monese) support passports from more countries.
 

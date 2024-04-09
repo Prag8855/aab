@@ -22,13 +22,13 @@ If you need a bank account *now*, choose an expat-friendly bank. You don't need 
 Most online banks are expat-friendly. They make it easy to open an account. They accept most documents, and rarely require an *[[Anmeldung]]*.
 
 - **[N26](/out/n26)**  
-    An German online bank. I use this bank since 2016, and [I recommend it](/guides/an-honest-review-of-n26). They have 3 free ATM withdrawals per month.
+    An German online bank. I use them since 2016, and [I recommend them](/guides/an-honest-review-of-n26). You get 3 free ATM withdrawals per month.
     - They speak English, French, German, Italian and Spanish.
     - They accept [many passport types](/out/n26-supported-passports). Some nationals need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
 - **[bunq](/out/bunq)**  
-    A Dutch online bank. They accept more people than N26. You get a German [[IBAN]]. They have 6 free ATM withdrawals per month.
+    A Dutch online bank. They accept more people than N26. You get a German [[IBAN]]. You get 6 free ATM withdrawals per month.
     - They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
-    - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55] They use your phone GPS to check if you are in Germany.
+    - They accept [more passport types](/out/bunq-supported-passports) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55] They use your phone GPS to check if you are in Germany.
 - **[Revolut](/out/revolut)**  
     A British online bank. They accept the most people.[^3] You get a Lithuanian [[IBAN]]. You can withdraw 200€ per month for free.
     - They speak German and English.
@@ -36,9 +36,9 @@ Most online banks are expat-friendly. They make it easy to open an account. They
 - **[Wise](/out/transferwise)**  
     A British online bank. You get a Belgian [[IBAN]]. You can withdraw 200€ per month for free.
     - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
-    - They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). No *[[Anmeldung]]* needed.
+    - They accept [most passport types](/out/wise-supported-passports). No *[[Anmeldung]]* needed.
 
-[Monese](/out/monese), [Vivid](https://vivid.money) and [Tomorrow](https://www.tomorrow.one/en-EU/) are also good options.
+[Monese](/out/monese), [Tomorrow](/out/tomorrow) and [Vivid](/out/vivid) are also good options.
 
 **Traditional banks** can be expat-friendly, but I don't recommend them. It takes too long to open an account.[^4] You must sometimes go to the bank in person, with an appointment, just to sign documents.[^53] Their online banking apps are bad. They have physical branches, but employees might not speak English.
 
@@ -46,7 +46,7 @@ Most online banks are expat-friendly. They make it easy to open an account. They
     They speak mostly German. Online banking, customer service and some documents are in English.[^7] They sometimes need a residence permit.[^54]
 - **[Commerzbank](/out/commerzbank)**  
     Basic online banking in English, everything else in German. You need a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6]
-- **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
+- **[Sparkasse](/out/sparkasse)**  
     Basic online banking in English, everything else in German. You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] They accept Russians, Iranians, Syrians and citizens of other sanctioned countries.[^2]
 
 If a traditional bank does not let you open an account, try again at a different branch.
@@ -73,7 +73,7 @@ These banks let you do some things in English. If you go to the bank in person, 
 
 - **[Deutsche Bank](/out/deutsche-bank)** - Customer service and online banking in English. Some documents are only in German. They're the best option if you want a [blocking account](/glossary/Sperrkonto) or a bank with branches, but you don't speak German.
 - **[Commerzbank](/out/commerzbank)** - Basic online banking in English. Everything else is in German.
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Basic online banking in English. Everything else is in German.
+- **[Berliner Sparkasse](/out/sparkasse)** - Basic online banking in English. Everything else is in German.
 
 ## German banks with no monthly fees
 
@@ -95,12 +95,12 @@ These banks have no monthly fee **for young people**:
 
 These banks have no monthly fee **for students**:
 
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - No fee for students under 26 years old.[^24] 8.50€ per year for a debit card.
+- **[Berliner Sparkasse](/out/sparkasse)** - No fee for students under 26 years old.[^24] 8.50€ per year for a debit card.
 - **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25]
 - **[comdirect](/out/comdirect)** - No fee for students under 28 years old.[^20]
 - **[Commerzbank](/out/commerzbank-students)** - No fee for students under 27 years old.[^21]
 - **[ING](/out/ing)** - Just 1€ per month for the debit card.[^22]
-- **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - No monthly fee for students.[^27]
+- **[Volksbank](/out/volksbank)** - No monthly fee for students.[^27]
 
 Even if a bank has no monthly fee, you might still pay a fee for the credit card, or to get money from an ATM. Choose a bank with no ATM fees; it's very important.
 
@@ -110,7 +110,7 @@ Some banks charge a fee to withdraw money from ATMs. It's usually around 7€ pe
 
 ### Banks with free ATM withdrawals
 
-These banks let you use any ATM for free.
+These banks let you use any ATM for free:
 
 - **[DKB](/out/dkb)** - Free withdrawals from any ATM.[^35]
 - **[ING](/out/ing)** - Free withdrawals from any ATM.[^36] Minimum withdrawal is 50€.
@@ -125,10 +125,10 @@ These banks let you use any ATM for free.
 Some banks have free ATM withdrawals, but only if you use their ATM network. In my experience, this is annoying. You sometimes need to walk an extra 10 minutes to find a free ATM.
 
 - **[1822direkt](/out/1822direkt)** - 4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Free withdrawals from Sparkasse ATMs (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
+- **[Berliner Sparkasse](/out/sparkasse)** - Free withdrawals from Sparkasse ATMs (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
 - **[Commerzbank](/out/commerzbank)** - Free withdrawals from Cash Group ATMs (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
 - **[Deutsche Bank](/out/deutsche-bank)** - Free withdrawals from Cash Group ATMs (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
-- **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
+- **[Berliner Volksbank](/out/volksbank)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
 
 ## Blocked account for students
 
@@ -137,10 +137,10 @@ To apply for a [student visa](/glossary/Student%20visa), you usually need a proo
 You can open a blocked account with...
 
 - **[Coracle](/out/coracle)**
-- **[Expatrio](https://www.expatrio.com/blocked-account)**
+- **[Expatrio](/out/expatrio-sperrkonto)**
 - **[Fintiba](/out/fintiba)**
-- **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Only at some branches[^41]
-- **[Kotak Mahindra Bank](https://web.archive.org/web/20210228121845/https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)**, if you are Indian.[^43]
+- **[Sparkasse](/out/sparkasse)** - Only at some branches[^41]
+- **[Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html)**, if you are Indian.[^43]
 
 Deutsche Bank does not offer blocked accounts anymore.[^42]
 
@@ -184,13 +184,13 @@ With online banks, you can sometimes open your account from another country, bef
 
 ### Open a bank account in person
 
-Some banks like [Commerzbank](/out/commerzbank), [Sparkasse](https://www.berliner-sparkasse.de/de/home.html), [Deutsche Bank](/out/deutsche-bank) and [Volksbank](https://www.berliner-volksbank.de/homepage.html) let you open an account in person at their branches. The employees there sometimes speak English.
+Some banks like [Commerzbank](/out/commerzbank), [Sparkasse](/out/sparkasse), [Deutsche Bank](/out/deutsche-bank) and [Volksbank](/out/volksbank) let you open an account in person at their branches. The employees there sometimes speak English.
 
 These banks are often more flexible. They accept most passport types, and they let you open a bank account without a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung).
 
 ### Transfer money from another country
 
-After you open a German bank account, use [Wise](/out/transferwise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly [in the N26 app](https://n26.com/en-de/wise).
+After you open a German bank account, use [Wise](/out/transferwise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly in the N26 app.
 
 ## Which bank should I choose?
 
