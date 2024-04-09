@@ -1,13 +1,11 @@
 ---
 Title: What is the best German bank for expats?
 Short_title: How to choose a bank
-Description: This guide compares the best bank accounts for foreigners. It compares the required documents, the fees and the features of each bank.
+Description: This guide compares the best bank accounts for foreigners. It reviews the features, fees and requirements of each bank.
 Date_created: 2017-09-01
 ---
 
-This guide helps you open your first bank account in Germany. It lists the best options for foreigners.
-
-Before you start, learn [how banking works in Germany](/guides/banking). It helps you choose better.
+This guide helps you open your first bank account in Germany. Before you start, learn [how banking works in Germany](/guides/banking). It helps you choose better.
 
 ![Cash coins cards german banks](/illustrations/cash-coins-cards-german-banks.png)
 
