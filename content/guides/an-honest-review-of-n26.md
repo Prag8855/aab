@@ -7,9 +7,9 @@ Date_created: 2017-09-02
 
 In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) because they charge fees for everything.
 
-**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. This is not common in Germany.
+**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. There are very few [banks with no ATM fees](/guides/first-bank-account-in-germany#german-banks-with-no-atm-fees).
 
-I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in 2024.
+I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in {{ now.strftime('%Y') }}.
 
 ![N26 credit cards](/images/n26-credit-card-allaboutberlin.jpg)
 
@@ -105,7 +105,7 @@ This is not just N26. **All banks got worse**. Every year, when I update my [com
 
 The standard N26 account is free. The free account is not as good as before, but it's still great.
 
-In 2024{{ fail_on('2024-12-31') }}, [most German banks](/guides/first-bank-account-in-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
+In {{ now.strftime('%Y') }}, [most German banks](/guides/first-bank-account-in-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
 
 **[Banks with no monthly fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
 
