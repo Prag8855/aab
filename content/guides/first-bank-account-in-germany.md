@@ -1,11 +1,11 @@
 ---
 Title: What is the best German bank for expats?
 Short_title: How to choose a bank
-Description: This guide compares the best banks in Germany for foreigners. It compares the required documents, the fees and the features of each bank.
+Description: This guide compares the best bank accounts for foreigners. It compares the required documents, the fees and the features of each bank.
 Date_created: 2017-09-01
 ---
 
-This guide helps you choose your first bank account in Germany. It lists the best German banks for foreigners.
+This guide helps you open your first bank account in Germany. It lists the best options for foreigners.
 
 Before you start, learn [how banking works in Germany](/guides/banking). It helps you choose better.
 
@@ -15,34 +15,34 @@ Before you start, learn [how banking works in Germany](/guides/banking). It help
 
 ## German banks for expats
 
-As a foreigner, it's **harder to open a bank account**. German banks might not recognise your passport. Banks often ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They might not recognise your foreign passport. EU citizens don't have that problem.
+As a foreigner, it's **harder to open a bank account**. German banks don't recognise all passports. They can ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung).
 
-If you just moved to Germany, and you need a bank account *now*, you need an expat-friendly bank.
+If you need a bank account *now*, choose an expat-friendly bank. You don't need a German bank; any bank in the [EU](/glossary/European%20Union) works.
 
 ### Expat-friendly banks
 
-Most online banks are expat-friendly. They accept most documents, and rarely require an *[[Anmeldung]]*.
+Most online banks are expat-friendly. They make it easy to open an account. They accept most documents, and rarely require an *[[Anmeldung]]*.
 
 - **[N26](/out/n26)**  
     An German online bank. I use this bank since 2016, and [I recommend it](/guides/an-honest-review-of-n26).
-    - They speak English, French, German, Italian, Spanish.
-    - They accept [many passport types](/out/n26-supported-passports). Some nationalities need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
+    - They speak English, French, German, Italian and Spanish.
+    - They accept [many passport types](/out/n26-supported-passports). Some nationals need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
 - **[bunq](/out/bunq)**  
     A Dutch online bank. They accept more people than N26. You get a German [[IBAN]].
-    - They speak English, Dutch, German, Spanish, Italian, French and Portuguese.
-    - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55]
+    - They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+    - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55] They use your phone GPS to check if you are in Germany.
 - **[Revolut](/out/revolut)**  
     A British online bank. They accept the most people.[^3] You get a Lithuanian [[IBAN]].
     - They speak German and English.
     - They accept most passports. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
 - **[Wise](/out/transferwise)**  
-    An English online bank. They specialise in international bank transfers. I use them a lot to send money abroad. You get a Belgian [[IBAN]].
+    A British online bank. They specialise in international bank transfers. I use them a lot to send money abroad. You get a Belgian [[IBAN]].
     - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
     - They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). No *[[Anmeldung]]* needed.
 
 [Monese](/out/monese), [Vivid](https://vivid.money) and [Tomorrow](https://www.tomorrow.one/en-EU/) are also good options.
 
-**Traditional banks** can be expat-friendly, but I don't recommend them. You must sometimes go to the bank in person, with an appointment, just to sign documents.[^53] Their online banking apps are bad. They have physical branches, but employees might not speak English.
+**Traditional banks** can be expat-friendly, but I don't recommend them. It takes too long to open an account.[^4] You must sometimes go to the bank in person, with an appointment, just to sign documents.[^53] Their online banking apps are bad. They have physical branches, but employees might not speak English.
 
 - **[Deutsche Bank](/out/deutsche-bank)**  
     They speak mostly German. Online banking, customer service and some documents are in English.[^7] They sometimes need a residence permit.[^54]
@@ -222,6 +222,7 @@ If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Onlin
 [^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399)
+[^4]: [Twitter](https://twitter.com/jackiewmacharia/status/1776516950786466154) (2024)
 [^6]: [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png)
 [^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
 [^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
