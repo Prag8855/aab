@@ -22,19 +22,19 @@ If you need a bank account *now*, choose an expat-friendly bank. You don't need 
 Most online banks are expat-friendly. They make it easy to open an account. They accept most documents, and rarely require an *[[Anmeldung]]*.
 
 - **[N26](/out/n26)**  
-    An German online bank. I use this bank since 2016, and [I recommend it](/guides/an-honest-review-of-n26).
+    An German online bank. I use this bank since 2016, and [I recommend it](/guides/an-honest-review-of-n26). They have 3 free ATM withdrawals per month.
     - They speak English, French, German, Italian and Spanish.
     - They accept [many passport types](/out/n26-supported-passports). Some nationals need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
 - **[bunq](/out/bunq)**  
-    A Dutch online bank. They accept more people than N26. You get a German [[IBAN]].
+    A Dutch online bank. They accept more people than N26. You get a German [[IBAN]]. They have 6 free ATM withdrawals per month.
     - They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
     - They accept [more passport types](https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55] They use your phone GPS to check if you are in Germany.
 - **[Revolut](/out/revolut)**  
-    A British online bank. They accept the most people.[^3] You get a Lithuanian [[IBAN]].
+    A British online bank. They accept the most people.[^3] You get a Lithuanian [[IBAN]]. You can withdraw 200€ per month for free.
     - They speak German and English.
     - They accept most passports. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
 - **[Wise](/out/transferwise)**  
-    A British online bank. They specialise in international bank transfers. I use them a lot to send money abroad. You get a Belgian [[IBAN]].
+    A British online bank. You get a Belgian [[IBAN]]. You can withdraw 200€ per month for free.
     - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
     - They accept [most passport types](https://wise.com/help/articles/2949801/how-does-wise-verify-my-identity?utm_source=allaboutberlin). No *[[Anmeldung]]* needed.
 
@@ -45,9 +45,9 @@ Most online banks are expat-friendly. They make it easy to open an account. They
 - **[Deutsche Bank](/out/deutsche-bank)**  
     They speak mostly German. Online banking, customer service and some documents are in English.[^7] They sometimes need a residence permit.[^54]
 - **[Commerzbank](/out/commerzbank)**  
-    They speak German. Online banking is partly in English. You need a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6]
+    Basic online banking in English, everything else in German. You need a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6]
 - **[Sparkasse](https://www.berliner-sparkasse.de/de/home.html)**  
-    You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] They accept Russians, Iranians, Syrians and citizens of other sanctioned countries.[^2]
+    Basic online banking in English, everything else in German. You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] They accept Russians, Iranians, Syrians and citizens of other sanctioned countries.[^2]
 
 If a traditional bank does not let you open an account, try again at a different branch.
 
@@ -64,17 +64,16 @@ If a traditional bank does not let you open an account, try again at a different
 - **[bunq](/out/bunq)** - English and 6 other languages
 - **[Monese](/out/monese)** - English and 13 other languages
 - **[N26](/out/n26)** - English and 4 other languages
+- **[Revolut](/out/revolut)** - English
 - **[Wise](/out/transferwise)** - English and 13 other languages
 
 ### Banks with some English support
 
-These banks let you do some things in English, but you will sometimes need to understand German.
+These banks let you do some things in English. If you go to the bank in person, you might find someone who speaks English, but all their letters and documents are in German.
 
-- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Basic online banking in English. Everything else is in German.
 - **[Deutsche Bank](/out/deutsche-bank)** - Customer service and online banking in English. Some documents are only in German. They're the best option if you want a [blocking account](/glossary/Sperrkonto) or a bank with branches, but you don't speak German.
 - **[Commerzbank](/out/commerzbank)** - Basic online banking in English. Everything else is in German.
-
-If you go to the bank in person, you can usually find someone who speaks English, but all the letters and documents are in German.
+- **[Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html)** - Basic online banking in English. Everything else is in German.
 
 ## German banks with no monthly fees
 
@@ -113,11 +112,13 @@ Some banks charge a fee to withdraw money from ATMs. It's usually around 7€ pe
 
 These banks let you use any ATM for free.
 
-- **[bunq](/out/bunq)** - 4 to 5 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
-- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Free withdrawals from Cash Group ATMs (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
 - **[DKB](/out/dkb)** - Free withdrawals from any ATM.[^35]
 - **[ING](/out/ing)** - Free withdrawals from any ATM.[^36] Minimum withdrawal is 50€.
+- **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
 - **[N26](/out/n26)** - 3 free withdrawals per month. After that, you pay 2€ per withdrawal.
+- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Free withdrawals from Cash Group ATMs (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
+
+[Wise](/out/wise-account) and [Revolut](/out/revolut) only let you withdraw up to 200€ per month for free. Germans [love to use cash](/guides/banking#cash), and 200€ is not always enough.[^5]
 
 ### Bank with free withdrawals on their ATM network
 
@@ -128,8 +129,6 @@ Some banks have free ATM withdrawals, but only if you use their ATM network. In 
 - **[Commerzbank](/out/commerzbank)** - Free withdrawals from Cash Group ATMs (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
 - **[Deutsche Bank](/out/deutsche-bank)** - Free withdrawals from Cash Group ATMs (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
 - **[Volksbank](https://www.berliner-volksbank.de/homepage.html)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
-
-Go to **[German banks with no monthly fees](#german-banks-with-no-monthly-fees)**
 
 ## Blocked account for students
 
@@ -204,16 +203,19 @@ Choose a bank that...
 - gives a free Visa or Mastercard
 - gives you a German [[IBAN]], if possible
 
-**The best banks for foreigners** are **[N26](/out/n26)** and **[bunq](/out/bunq)**. **[Revolut](/out/revolut)** and **[Wise](/out/wise-account)** are also good, but they don't give you a German [[IBAN]]. Any of these banks will be fine. I use N26 since 2016, and [I reviewed them](/guides/an-honest-review-of-n26).
+**The best banks for foreigners** are **[N26](/out/n26)** and **[bunq](/out/bunq)**. I use N26 since 2016, and [I recommend them](/guides/an-honest-review-of-n26).
 
-**If you can't open an account** anywhere, try [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse). They accept pretty much everyone.
+[Wise](/out/wise-account) and [Revolut](/out/revolut) are also good options. The only problems are the low free withdrawal limits, and the non-German IBAN [[IBAN]].
 
-**The best German-speaking banks** are [DKB](/out/dkb) and [ING](/out/ing). Everyone loves them, but they don't accept recent immigrants.
+**If you can't open an account anywhere**, [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse) might work. They accept pretty much everyone.[^3]
+
+**The best German-speaking banks** are [DKB](/out/dkb) and [ING](/out/ing), but they don't accept recent immigrants.
 
 [^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399)
 [^4]: [Twitter](https://twitter.com/jackiewmacharia/status/1776516950786466154) (2024)
+[^5]: [Twitter](https://twitter.com/aboutberlin/status/1777619503502807197) (2024)
 [^6]: [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png)
 [^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
 [^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
