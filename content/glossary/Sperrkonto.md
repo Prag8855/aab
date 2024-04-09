@@ -15,6 +15,6 @@ Unlike a normal bank account, a blocked account only lets you withdraw a fixed a
 
 [Coracle](/out/coracle), [Fintiba](/out/fintiba), [Expatrio](https://www.expatrio.com/blocked-account) and *some* Sparkasse branches offer blocking accounts. Deutsche Bank stopped offering them.[^0]
 
-**[German banks for students ➞](/guides/first-bank-account-in-germany#german-banks-for-students)
+**[How to choose a bank ➞](/guides/first-bank-account-in-germany)
 
 [^0]: [Twitter](https://twitter.com/DeutscheBank/status/1547823819171061761)
