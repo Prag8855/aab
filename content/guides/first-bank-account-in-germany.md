@@ -54,7 +54,7 @@ If a traditional bank does not let you open an account, try again at a different
 ### Banks that are not expat-friendly
 
 - **[DKB](/out/dkb)** - They refuse all recent immigrants.[^14] They only speak German.
-- **[ING](/out/ing)** - You need German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship to open an account.[^15]
+- **[ING](/out/ing)** - You need German [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship to open an account.[^15]
 - **[comdirect](/out/comdirect)** - You need an *[[Anmeldung]]*, or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
 
 ## German banks with English support
@@ -193,21 +193,22 @@ These banks are often more flexible. They accept most passport types, and they l
 
 After you open a German bank account, use [Wise](/out/transferwise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly [in the N26 app](https://n26.com/en-de/wise).
 
-## Which bank should I pick?
+## Which bank should I choose?
 
-Choose a bank...
+Choose a bank that...
 
-- that speaks your language
-- that accepts your passport
-- without monthly fees
-- without ATM fees
-- with a free Visa or Mastercard
+- speaks your language
+- accepts your passport
+- has no monthly fees
+- has no ATM fees
+- gives a free Visa or Mastercard
+- gives you a German [[IBAN]], if possible
 
-I am with [N26](/out/n26) since 2016. My [review of N26](/guides/an-honest-review-of-n26) explains why. I also use [Kontist](/out/kontist) for my business account, and [Degiro](/out/degiro) to trade stocks.
+**The best banks for foreigners** are **[N26](/out/n26)** and **[bunq](/out/bunq)**. **[Revolut](/out/revolut)** and **[Wise](/out/wise-account)** are also good, but they don't give you a German [[IBAN]]. Any of these banks will be fine. I use N26 since 2016, and [I reviewed them](/guides/an-honest-review-of-n26).
 
-If you speak German, look at [DKB](/out/dkb) and [ING](/out/ing). People often recommend them.
+**If you can't open an account** anywhere, try [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse). They accept pretty much everyone.
 
-If no banks accept your passport, try [Deutsche Bank](/out/deutsche-bank). Online banks like [bunq](/out/bunq), [Monese](/out/monese) and [Wise](/out/wise-account) also accept more passport types.
+**The best German-speaking banks** are [DKB](/out/dkb) and [ING](/out/ing). Everyone loves them, but they don't accept recent immigrants.
 
 [^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
