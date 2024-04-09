@@ -7,32 +7,21 @@ Date_created: 2024-04-10
 
 This is an introduction to German banking for immigrants. It explains how bank accounts, credit cards and bank transfers work in Germany.
 
-To open a bank account, read my guide on **[how to choose a bank](/guides/first-bank-account-in-germany)**.
+To choose a bank account, read my guide on **[how to choose a bank](/guides/first-bank-account-in-germany)**.
 
 ## Bank accounts
 
-### Why you need a bank account
+In Germany, everyone has the right to a bank account. You need a bank account to get paid by your employer, pay your rent, pay taxes and buy things online. Many things are only paid by [bank transfer](/glossary/SEPA-Überweisung). You should open a bank account as soon as you arrive in Germany.
 
-You need a bank account to...
+You can use a bank from another EU country. It will work fine in Germany.
 
-- get paid by your employer
-- pay your rent
-- pay all kinds of [taxes](/guides/taxes)
-- buy things online and in stores
-
-Your bank must allow [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how your employer pays you, and how you pay your rent and your taxes. All EU banks and most European banks allow SEPA transfers.[^0]
-
-You don't need a German bank. You can open a bank account in any EU country.
-
-## Types of bank accounts
-
-In Germany, everyone has the right to a bank account. Germans pay many things by bank transfer. You can't go far without a bank account. Opening a bank account is one of the first things you must do when you move to Germany.
+### Types of bank accounts
 
 Germans usually have 3 bank accounts:
 
-- **A current account** (*Girokonto*) to pay for everyday things. It's a bad place to keep a lot of money, because it pays near 0% interest.
-- **An instant savings account** (*Tagesgeldkonto*) to park money. It pays 1% to 3% interest, it has zero risk of losing money, and it's easy to access your money.
-- **A stock account** (*Depot*) to invest in stocks and ETFs.
+- **A current account** (*Girokonto*) to pay for everyday things. It's a bad place to keep a lot of money, because it pays near 0% interest. People usually keep around 2,000€ in their *Girokonto*.
+- **An instant savings account** (*Tagesgeldkonto*) to store money, but keep it easy to access. It pays 1% to 3% interest, and has zero risk.
+- **A trading account** (*Depot*) to invest in stocks and ETFs.
 
 When you [start a business](/guides/start-a-business-in-germany), you should also have a separate bank account for your business.
 

@@ -53,7 +53,7 @@ Before you [look for apartments](#look-for-apartments), you must...
     Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* needed.[^51] Preferred by relocation consultants.
 -  **[HousingAnywhere](/out/housinganywhere)** ⭐️  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
-- [Wunderflats](/out/wunderflats) - They offer little protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
+- [Wunderflats](/out/wunderflats) - They offer less protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
 - [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
 - [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution).
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
@@ -67,7 +67,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 **Furnished rooms** are also listed on [Kleinanzeigen](https://www.kleinanzeigen.de/) and [Facebook](#facebook-groups). They are cheaper there.[^55]
 
-**Hotels, hostels and vacation apartments** are not a good option, because you can't [register your address](/glossary/Anmeldung) there. [Some hotels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) allow it.
+**Hotels, hostels and vacation rentals** are not a good option, because you can't [register your address](/glossary/Anmeldung) there. [Some hotels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) allow it.
 
 - **[Airbnb](https://www.airbnb.com/)**
 - **[Booking.com](https://www.booking.com/)**
