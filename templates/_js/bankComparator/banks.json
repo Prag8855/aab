@@ -4,6 +4,7 @@
         "tags": [
             "Apple Pay / Google Pay",
             "English",
+            "German IBAN",
             "Girocard",
         ],
         "url": "/out/commerzbank",
@@ -11,11 +12,14 @@
     },
     {
         "name": "N26",
-        "requirements": "A European passport or a German residence permit. – <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>Read more&nbsp;➞</a>",
+        "country": "Germany",
+        "requirements": "A European passport or a German residence permit.",
+        "requirementsUrl": "https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf",
         "tags": [
             "Apple Pay / Google Pay",
             "English",
             "French",
+            "German IBAN",
             "Italian",
             "Mastercard",
             "No Anmeldung",
@@ -46,7 +50,10 @@
                 "withdrawalFeeExplanation": "5 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 4.9,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                ],
             },
             {
                 "name": "You",
@@ -55,16 +62,22 @@
                 "withdrawalFeeExplanation": "5 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 9.9,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                ],
             },
             {
                 "name": "Metal",
                 "description": "The N26 Metal adds phone insurance and a fancy metal card. It's not worth the extra cost.",
                 "withdrawalFee": 0,
-                "withdrawalFeeExplanation": "5 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
+                "withdrawalFeeExplanation": "8 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 16.9,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                ],
             },
         ],
     },
@@ -73,7 +86,9 @@
         "requirements": "",
         "tags": [
             "English", "Dutch", "French", "Italian", "Spanish",
+            "German IBAN",
             "No Anmeldung",
+            "No residence permit",
             "Mastercard",
             "Apple Pay / Google Pay",
         ],
@@ -90,7 +105,10 @@
                 "creditCardFeeExplanation": "Use a virtual card for free, or pay 9.99€ per year for a physical card.",
                 "creditCardYearlyFee": 9.99,
                 "monthlyFee": 0,
-                "tags": ["No monthly fee"],
+                "tags": [
+                    "Free instant transfers",
+                    "No monthly fee",
+                ],
             },
             {
                 "name": "Easy Bank",
@@ -100,7 +118,10 @@
                 "withdrawalFeeExplanation": "5 withdrawals per month at 0.99€, then 2.99€ per withdrawal.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 3.99,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                ],
             },
             {
                 "name": "Easy Money",
@@ -109,7 +130,11 @@
                 "withdrawalFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 9.99,
-                "tags": ["Joint account", "No withdrawal fee"],
+                "tags": [
+                    "Joint account",
+                    "Free instant transfers",
+                    "No withdrawal fee"
+                ],
             },
         ],
     }
