@@ -7,11 +7,11 @@ Date_created: 2022-01-27
 Hi, I'm Nicolas. You can contact me to…
 
 - **Ask a question**  
-    Please [ask the right people](/guides/questions-about-berlin) first. I would love to help you, but I get a lot of questions, and I don't have enough time to answer everyone. I can't give legal or financial advice. I can't answer visa and residence permit questions.
+    Please [ask the right people](/guides/questions-about-berlin) first. I get a lot of questions, but I can't answer everyone. I can't give legal or financial advice. I can't answer visa and residence permit questions.
 - **Give feedback**  
-    If you have changes and suggestions to make, send them to me! It helps me improve the website for everyone.
+    Send me your fixes and suggestions. It makes my job much easier.
 - **Say thanks**  
-    I *love* to hear from happy readers. It makes my day! You can also [leave a review on Google Maps](/google-maps) or [donate a few euros](/donate) to support the website.
+    I *love* to hear from happy readers! You can also [donate a few euros](/donate) or [leave a review on Google Maps](/google-maps). It helps a lot.
 - **Advertise your business**  
     Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) first. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
