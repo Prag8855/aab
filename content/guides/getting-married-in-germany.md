@@ -11,13 +11,13 @@ This guide explains how to get married in Berlin and the rest of Germany. It exp
 
 ## How hard is it?
 
-**It's a bureaucratic nightmare.** It takes 8 to 10 months and it costs hundreds of euros.[^3] People often [get married in Denmark](#get-married-in-denmark) because it's cheaper, faster and easier.
+**It's a bureaucratic nightmare.** It takes 2 to 10 months.[^3] It costs a few hundred euros. People often [get married in Denmark](#get-married-in-denmark) because it's cheaper, faster and easier.
 
-You must prepare a lot of original documents. If you are an immigrant, you need a lot of documents from your home country. They must be certified by both countries, then translated by a certified translator. It's expensive.
+You must prepare a lot of documents. If you are an immigrant, you need a lot of original documents from your home country. They must be certified by both countries, then translated by a certified translator. It's expensive.
 
 ## How much does it cost?
 
-**A few hundred euros.** It costs more if you were born in another country or if you don't speak German. You need certified translations for everything, and they are expensive.[^7] You might also need a sworn interpreter.
+**A few hundred euros.** It costs more if you were born in another country or if you don't speak German. You need certified translations for everything, and they are expensive.[^7] If you don't speak German, you also need a sworn interpreter.
 
 ## How to get married
 

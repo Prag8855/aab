@@ -225,9 +225,9 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 - If you don't speak German, there is also [bunq](/out/bunq), [Wise](/out/wise-account), [Monese](/out/monese), and [Deutsche Bank](/out/deutsche-bank).
 - If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](/out/sparkasse).
 - If you don't have an *[[Anmeldung]]* yet, there are [many ways to open a bank account](/guides/german-banks-no-address).
-- If N26 does not support your passport type, [Wise](/out/wise-account), [bunq](/out/bunq) and [Monese](/out/monese) support passports from more countries.
+- If N26 does not support your passport type, there are [expat-friendly banks](/guides/first-bank-account-in-germany) that support more passport types.
 
-**[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
+**[Best German banks for expats ➞](/guides/first-bank-account-in-germany)**
 
 [^0]: [docs.n26.com](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf)
 [^1]: [facebook.com](https://www.facebook.com/deutschepost/posts/1727000207317159), [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](https://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)

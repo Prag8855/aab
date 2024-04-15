@@ -49,7 +49,7 @@ Many restaurants only accept cash. Most street food kiosks and *[Spätis](/gloss
 
 ### Girocard/EC-Karte
 
-A type of payment card that's only in Germany. It's still very common.[^3] Many stores only accept cash and Girocards, not Visa or Mastercard. A few websites accept Girocard.
+A type of payment card that's only in Germany. It's still very common.[^3] Many stores only accept cash and [Girocards](/glossary/Girocard), not Visa or Mastercard. Some European websites accept Girocards.
 
 Many banks don't offer Girocards. You don't really need one.[^1] If you can pay with Girocard, you can pay with cash.
 

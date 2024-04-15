@@ -118,7 +118,7 @@ These banks let you use any ATM for free:
 - **[N26](/out/n26)** - 3 free withdrawals per month. After that, you pay 2€ per withdrawal.
 - **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Free withdrawals from Cash Group ATMs (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
 
-[Wise](/out/wise-account) and [Revolut](/out/revolut) only let you withdraw up to 200€ per month for free. Germans [love to use cash](/guides/banking#cash), and 200€ is not always enough.[^5]
+[Wise](/out/wise-account) and [Revolut](/out/revolut) only let you withdraw up to 200€ per month for free. It's enough for most people.[^5]
 
 ### Bank with free withdrawals on their ATM network
 

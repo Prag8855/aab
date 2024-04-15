@@ -142,7 +142,7 @@
 		</li>
 	</ul>
 	<a v-if="negativeScoreAccountsCount" class="no-print" :class="showNegativeScore ? 'hide-options' : 'show-options'" @click.prevent="showNegativeScore = !showNegativeScore" href="#">
-		{{ showNegativeScore ? "Hide" : "Show" }} {{ negativeScoreAccountsCount }} filtered bank{{ negativeScoreAccountsCount > 1 ? 's' : '' }}
+		{{ showNegativeScore ? "Hide" : "Show" }} {{ negativeScoreAccountsCount }} excluded bank{{ negativeScoreAccountsCount > 1 ? 's' : '' }}
 	</a>
 {% endraw %}
 </div>
