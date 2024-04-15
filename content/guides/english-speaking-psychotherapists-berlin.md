@@ -12,7 +12,6 @@ Related_places:
     places/rodenbergstraße-6.md
     places/anja-benesch.md
     places/individual-therapy-berlin-ghazaleh-bailey.md
-    places/dipl-psych-monika-mitchell.md
     places/carrie-argent.md
     places/the-living-body-julianne-appel-opper.md
     places/frau-dipl-psych-heidi-hooper-amri.md
