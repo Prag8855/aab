@@ -11,7 +11,7 @@ This guide shows you how to deposit a lot of coins, or exchange them for euro bi
 
 ## At your bank
 
-You can deposit your coins at a deposit machine (*Einzahlautomat*). They are next to other cash machines, usually near the entrance of the bank. The money will go in your bank account.
+You can deposit your coins at a deposit machine (*Einzahlautomat*). They are next to other ATMs, usually near the entrance of the bank. The money will go in your bank account.
 
 - **Commerzbank**  
     You can use the Commerzbank coin machines for free. [Search for Commerzbank branches](https://filialsuche.commerzbank.de/) with *Einzahlautomaten.*
