@@ -21,8 +21,6 @@ This guide helps you rent an apartment or a room when you [move to Berlin](/guid
 
 If you are not in Berlin yet, it's almost impossible. Get [short-term housing](#short-term-housing), move to Berlin, then look for a better place.
 
-**[Your housing options ↓](#your-housing-options)**
-
 ## Before you start
 
 Before you [look for apartments](#look-for-apartments), you must...
