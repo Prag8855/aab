@@ -160,7 +160,7 @@ In a few weeks, you will get your plastic residence permit by post, or an invita
 
 When your residence permit is approved, you must pay a fee: {{ NATIONAL_VISA_FEE }}€ for a new residence permit or {{ NATIONAL_VISA_RENEWAL_FEE }}€ for a renewal.
 
-- **If you must pay now**, they will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you can also get cash from [this nearby ATM](https://goo.gl/maps/8cBy48WnTfbya13r6), even at night.
+- **If you must pay now**, they will give you a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring that card to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find the payment machines. These machines accept cash, EC cards, Visa and Mastercard.[^10] If your card is not accepted, you must get cash from an ATM.
 - **If you must pay later**, you will get an invoice by post. You will have 30 days to pay.[^25] They might also ask you to pay during your next *Ausländerbehörde* visit.
 
 After you pay, you can go home. Keep your receipt; residence permit fees are [tax-deductible](/glossary/steuerlich%20absetzbar).
