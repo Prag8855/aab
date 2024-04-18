@@ -381,7 +381,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Letters of reference**  
     These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do.
 - [ ] **Proof or education**  
-    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.
+    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.[^78]
 - [ ] **Bank statements**  
     It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
 
@@ -518,3 +518,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)
 [^77]: Immigration lawyer on [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1736457546822941/) (December 2023)
 [^76]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
+[^78]: Aydan Baghirova, [career coach](https://aydanbaghirova.de/) (April 2024)
