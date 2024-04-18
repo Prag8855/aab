@@ -154,7 +154,9 @@ Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https:/
 
 ### Events
 
-You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin) and [Resident Advisor](https://ra.co/events/de/berlin). You can find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php).
+Find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin), and [Berlin Events Weekly](https://www.berlineventsweekly.com/).
+
+Find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php). [@berlingig](https://t.me/berlingigs) is a Telegram channel that posts cheap concerts every week.
 
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
