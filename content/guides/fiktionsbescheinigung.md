@@ -19,9 +19,11 @@ With a *Fiktionsbescheinigung*, you can...[^0]
 - Continue your work, studies or self-employment
 - [In some cases](#travel-with-a-fiktionsbescheinigung), travel outside Germany
 
-[![Example German Fiktionsbescheinigung](/images/german-fiktionsbescheinigung.jpg "Example German Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung.jpg)
+A *Fiktionsbescheinigung* gives you the same rights as your previous residence permit. It's not a permission to start a new job, start studying or become self-employed. It only lets you do the same things as before.
 
 Your *Fiktionsbescheinigung* is valid until your real residence permit is approved or rejected.[^4]
+
+[![Example German Fiktionsbescheinigung](/images/german-fiktionsbescheinigung.jpg "Example German Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung.jpg)
 
 ## How to get a Fiktionsbescheinigung
 
