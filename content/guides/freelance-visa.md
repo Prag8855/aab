@@ -61,7 +61,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
-**You do not need a degree**, except if your profession requires one. For example, you can't be a freelance lawyer without a law degree.[^12] - [Find the requirements for your profession](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+**You do not need a degree** or relevant education, except [if your profession requires it](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession). For example, you can't be a lawyer without a law degree, but you can be a software developer or a photographer.[^12]
 
 ## Freelance visa alternatives
 
@@ -381,7 +381,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Letters of reference**  
     These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do.
 - [ ] **Proof or education**  
-    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38]
+    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.
 - [ ] **Bank statements**  
     It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
 
