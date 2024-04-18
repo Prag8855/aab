@@ -111,7 +111,7 @@ You don't need to rent a car in Berlin. It's easier to use public transit. If yo
 
 ## What to see and do in Berlin
 
-There are many lists of things to see in Berlin. See [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https://en.wikivoyage.org/wiki/Berlin) and [Lonely Planet](https://www.amazon.com/Lonely-Planet-Berlin-Travel-Guide/dp/1786572257/ref=as_li_ss_tl?ie=UTF8&qid=1533201606&sr=8-1&keywords=lonely+planet+berlin&linkCode=sl1&tag=kickawishl-20&linkId=0d121d328aea2481af56b20ad0bd7294&language=en_US).
+Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https://en.wikivoyage.org/wiki/Berlin) and [Lonely Planet](https://www.amazon.com/Lonely-Planet-Berlin-Travel-Guide/dp/1786572257/ref=as_li_ss_tl?ie=UTF8&qid=1533201606&sr=8-1&keywords=lonely+planet+berlin&linkCode=sl1&tag=kickawishl-20&linkId=0d121d328aea2481af56b20ad0bd7294&language=en_US). To see what's happening in Berlin, check [tipBerlin](https://www.tip-berlin.de/) and [Mit Vergnügen](https://mitvergnuegen.com/) (in German).
 
 ### Main attractions
 
@@ -297,7 +297,7 @@ In Germany, tipping is optional. In general, people tip up to 10% for good servi
 ### Things you should not do
 
 - **Do not walk on the bike paths**  
-    Look down, and make sure you're not blocking a bicycle path. If you walk on the bike path, cyclists will ring their bell, scream at you or even bump into you.
+    The bicycle path is usually a 1 meter wide red brick path on the sidewalk. If you walk on the bike path, cyclists will ring their bell, shout at you or even bump into you.
 - **Do not put your glass bottles in the trash**  
     People collect empty bottles and [return them for money](/guides/pfand-bottles). Don't make people search for bottles in the trash. Put your empty bottles next to the bin. In some parks, bottle collectors (*Flaschensammler*) will walk around and ask for your empty bottles.
 - **Do not joke about Nazis and the war**  

@@ -182,9 +182,16 @@ Your foreign driving licence [might be valid in Germany](/guides/convert-to-germ
 
 Explore your new city! [Get a bicycle](/guides/bicycle-in-berlin) and explore everything inside and outside the *[Ring](/glossary/Ringbahn)*.
 
-If you move in the winter, Berlin can seem a little grey, but don't panic; it's much nicer in the summer.
+To find things to do in Berlin, check...
 
-Follow [20percent.berlin](https://20percent.berlin/), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [Handpicked Berlin](https://handpickedberlin.com/) to know what's happening in Berlin.
+- [Mit Vergnügen](https://mitvergnuegen.com/) (in German)
+- [tipBerlin](https://www.tip-berlin.de/) (in German)
+- [Berlin Events Weekly](https://www.berlineventsweekly.com/)
+
+To follow what's happening, check...
+
+- [20percent.berlin](https://20percent.berlin/)
+- [Handpicked Berlin](https://handpickedberlin.com/)
 
 **[What to see and do in Berlin ➞](/guides/visit-berlin#what-to-see-and-do-in-berlin)**
 
