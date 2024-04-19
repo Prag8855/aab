@@ -72,7 +72,7 @@ To get a rent reduction, you must prove that the noise is a serious problem.[^2]
 There are exceptions. Church bells, children playing and car traffic are normal noises.[^3] If you move near an airport, above a busy street, or next to a bar, you know that it will be noisy. You can't get a rent reduction for these problems.[^4]
 
 [^0]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/beschlagnahmung-der-musikanlage-nach-ruhestoerung), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig_1968/__117.html)
-[^1]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html?utm_source=pocket_reader#:~:text=mindestens%20zwei%20wochen%20lang)
-[^2]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html?utm_source=pocket_reader#:~:text=dass%20es%20eine-,wesentliche%20beeintrachtigung,-gibt%2C%20die%20ein)
-[^3]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html?utm_source=pocket_reader#:~:text=%E2%80%9Csozialadaquatem%20larm%E2%80%9C), [mietrecht.com](https://www.mietrecht.com/mietminderung-laerm/#:~:text=L%C3%A4rm%2C%20der-,sozial%20ublich,-ist%2C%20muss%20vom)
+[^1]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html#:~:text=mindestens%20zwei%20wochen%20lang)
+[^2]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html#:~:text=dass%20es%20eine-,wesentliche%20beeintrachtigung,-gibt%2C%20die%20ein)
+[^3]: [hausverwaltung-ratgeber.de](https://www.hausverwaltung-ratgeber.de/laermprotokoll.html#:~:text=%E2%80%9Csozialadaquatem%20larm%E2%80%9C), [mietrecht.com](https://www.mietrecht.com/mietminderung-laerm/#:~:text=L%C3%A4rm%2C%20der-,sozial%20ublich,-ist%2C%20muss%20vom)
 [^4]: [mietrecht.com](https://www.mietrecht.com/mietminderung-laerm/#:~:text=keine%20ortsubliche%20gegebenheit)

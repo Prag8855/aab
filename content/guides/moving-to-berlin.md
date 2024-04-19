@@ -256,7 +256,7 @@ After a few years in Germany, you can apply for [permanent residence](/glossary/
 With most [residence permits](/glossary/Aufenthaltstitel), you can get permanent residence after 5 years. If you have a [[Blue Card]], you can get permanent residence in 21 or 27 months.
 
 [^0]: [teltarif.de](https://www.teltarif.de/roaming/fair-use-policy.html)
-[^1]: [naylorengineering.com](http://web.archive.org/web/20220128231355/http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?utm_source=reddit&utm_medium=web2x&context=3)
+[^1]: [naylorengineering.com](http://web.archive.org/web/20220128231355/http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?context=3)
 [^2]: [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)
 [^4]: [Scheller International](https://scheller-international.com/blog-beitraege/deductible-relocation-expenses-in-germany.html)
 [^5]: [worlddata.info](https://www.worlddata.info/europe/germany/climate.php)
