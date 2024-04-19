@@ -2206,6 +2206,32 @@ details{
 	}
 }
 
+.recommended{
+	position:absolute;
+	top: -2px;
+	left: 0;
+	border: 1px solid transparent;
+	border-radius: var(--b-radius);
+	background: var(--c-bg-page);
+	white-space: nowrap;
+	width: 15px;
+	overflow: hidden;
+
+	&:before{
+		content: '★ This is the recommended option';
+	}
+
+	&:hover{
+		top: -4px;
+		left: calc(var(--xs) * -1);
+		padding: 2px var(--xs);
+		border-color: var(--c-border-box);
+		background: var(--c-bg-widget-opaque);
+		z-index: 1000;
+		width: auto;
+	}
+}
+
 .price{
 	@include text-block-compact;
 
@@ -3067,7 +3093,7 @@ details{
 
 	body, main{display:block;}
 
-	sup, #footnotes{
+	sup, #footnotes, .recommended{
 		display:none!important;
 	}
 }

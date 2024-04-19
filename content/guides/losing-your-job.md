@@ -11,10 +11,10 @@ Related_reviews:
 
 This guide shows you what to do when:
 
-* You get fired (your employer is not happy with you)
-* You get laid off (your employer has no work for you)
-* You quit (you choose to leave)
-* You change jobs
+- You get fired (your employer is not happy with you)
+- You get laid off (your employer has no work for you)
+- You quit (you choose to leave)
+- You change jobs
 
 It only applies to employees, not freelancers.
 

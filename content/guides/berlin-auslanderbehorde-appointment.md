@@ -23,7 +23,7 @@ If you go to the *Ausländerbehörde* without an appointment, they will not help
 
 There are 2 ways to get an appointment:[^2]
 
-- **Send your documents and wait** ⭐️  
+- **Send your documents and wait**{% include '_blocks/recommended.html' %}  
     Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). You can also mail your documents.[^29]
 - or **book an appointment online**  
     It's *really* hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]

@@ -23,7 +23,7 @@ You can buy local public transit tickets...
 
 - **In the app**  
     Buy tickets on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
-    - **[Jelbi app](https://www.jelbi.de/en/home/)** ⭐️  
+    - **[Jelbi app](https://www.jelbi.de/en/home/)**{% include '_blocks/recommended.html' %}  
         You can also rent cars, bicycles, scooters and mopeds with this app. It's in English and German.
     - **[BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps)**  
         It's in English and German.
