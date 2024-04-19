@@ -41,8 +41,7 @@ Start looking for *Kitas* after you [move to Berlin](/guides/moving-to-berlin), 
 
 There are many places to look for *Kitas*:
 
-- [Kita Navigator](https://kita-navigator.berlin.de/) - official resource
-- [KITA-Suche Berlin](https://kita-suche.berlin/) - really good tool
+- [Kita Navigator](https://kita-navigator.berlin.de/) - official resource, might not show up-to-date availability
 - [Kita.de Kita Finder](https://www.kita.de/kitas/berlin)
 - [Kietzee](https://www.kietzee.com/en/dashboard) - list of Kitas with some reviews
 - [ExpatBabies Berlin](https://www.facebook.com/groups/107498526067436/) - Facebook
@@ -121,7 +120,7 @@ When you choose a Kita start date and a date to begin work, factor in several we
 ### Kita search services
 
 - **[Kietzee](https://www.kietzee.com/en)** has a map of Kitas with reviews,[^12] example Kita application letters, and guides for parents. They also help with pregnancy and early childhood. You must pay to see some of their guides.
-- **[Kita Applications](https://www.kitaapplications.com/)** automates Kita applications. You can pay to call them and ask questions.
+- **[Kita Applications](https://www.kitaapplications.com/)** helps with the whole process: writing application letters, applying for Kitas, and applying for a *[[Kitagutschein]]*. They have courses and phone consultations.
 - **[Julia Zehavi](http://www.familyrelocation.de/en/kita)** offers relocation and Kita search services for parents. She also helps parents [get a *Kitagutschein*](/guides/how-to-get-a-kitagutschein).[^13]
 - **[Maternita Kita](https://www.maternita-kita.de/)** can find Kitas for you. They have workshops for parents. You can pay to call them and ask questions.
 - **[Berlin Kita](https://berlinkita.com/)** sells a list of Kitas in Microsoft Excel format
