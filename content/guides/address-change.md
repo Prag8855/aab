@@ -33,8 +33,6 @@ The *Bürgeramt* will tell these people your new address:
 
 - **Your church**  
     If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
-- **The TV tax** (*[[Rundfunkbeitrag]]*)  
-    The *[[ARD ZDF Deutschlandradio Beitragsservice]]* knows when you change your address. They will collect the TV tax for your new address.
 - **The Ausländerbehörde**  
     Bring your [residence permit](/glossary/Aufenthaltstitel) to your *Anmeldung* appointment. They will put a sticker on it with your new address. You don't need to go to the *[[Ausländerbehörde]]* to update your residence permit.
 - **The Kfz-Zulassungsstelle**  
@@ -42,7 +40,7 @@ The *Bürgeramt* will tell these people your new address:
 
 ## Notify everyone
 
-Use [**umziehen.de**](https://umziehen.de/formular/umzugsmitteilung) to tell over 1000 companies your new address. It's a free service from Deutsche Post. They only share your new address with businesses that already know your old address.
+Use **[umziehen.de](https://umziehen.de/formular/umzugsmitteilung)** to tell over 1000 companies your new address. It's a free service from Deutsche Post. They only share your new address with businesses that already know your old address.
 
 You should also tell...
 
@@ -60,9 +58,9 @@ You should also tell...
     - [ ] **If you have a business**  
         If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/ELSTER), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]
 - [ ] **The TV tax** (*[[Rundfunkbeitrag]]*)  
-    The *[[ARD ZDF Deutschlandradio Beitragsservice]]* collects the [TV tax](/glossary/Rundfunkbeitrag). You can update your address [here](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html). [More information about the TV tax.](/guides/gez-rundfunkbeitrag)
+    The *[[ARD ZDF Deutschlandradio Beitragsservice]]* collects the [TV tax](/glossary/Rundfunkbeitrag). You can [update your address online](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html).
 - [ ] **The Kfz-Zulassungsstelle**  
-    If you have a vehicle, you must update your registration papers. You can do this at the local *[[Kfz-Zulassungsstelle]]* or [online](https://service.berlin.de/dienstleistung/120918/). You will get a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*.[^2]
+    If you did not bring your vehicle papers to your *Anmeldung* appointment, you must update your registration papers. You can do this [online](https://service.berlin.de/dienstleistung/120918/), or at the local *[[Kfz-Zulassungsstelle]]*. You will get a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*, or a sticker with your new address.[^2]
 - [ ] **The Kita-Gutscheinstelle**  
     If you send your children to a [[Kita]], [request a Kitagutschein](/guides/how-to-get-a-kitagutschein) for your new address.
 - [ ] **The [Hunderegister](https://hunderegister.berlin.de/)**  
