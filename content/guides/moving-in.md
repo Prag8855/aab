@@ -231,10 +231,13 @@ When your neighbours are too loud, you can [make a noise complaint](/guides/nois
 
 ### Hard water
 
-The tap water in Berlin is hard.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
+The tap water in Berlin is hard.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head.
 
-- Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl) or in any supermarket.
-- Boil the water 2 to 3 times to remove the taste. The minerals will deposit at the bottom of the kettle. You can also use a water filter.
+![Limescale deposit in a cooking pot](/images/limescale.jpg "Limescale in a cooking pot")
+
+To remove limescale deposits, use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*). You can buy them in any supermarket, or [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl).
+
+To make tea, use a water filter, or boil the water 2 to 3 times. It will remove the taste of hard water.
 
 ### Recycling
 
