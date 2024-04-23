@@ -160,7 +160,7 @@ config.context_processors.extend([
 ])
 
 config.markdown_extensions['toc']['slugify'] = patched_slugify
-config.markdown_extensions['wikilinks']['base_url'] = f'{config.site_url}/glossary'
+config.markdown_extensions['wikilinks']['base_url'] = f'{config.site_url}/glossary/'
 config.markdown_extensions['wikilinks']['build_url'] = build_wikilinks_url
 config.markdown_extensions['tasklist']['list_item_class'] = 'checkbox'
 config.add_markdown_extension('extensions.markdown:WrappedTableExtension', {'wrapper_class': 'table-wrapper'})
