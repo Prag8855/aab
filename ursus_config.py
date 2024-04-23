@@ -167,8 +167,6 @@ config.markdown_extensions['extensions.markdown:WrappedTableExtension'] = {'wrap
 config.markdown_extensions['extensions.markdown:CurrencyExtension'] = {}
 config.markdown_extensions['extensions.markdown:TypographyExtension'] = {}
 
-print(config.markdown_extensions)
-
 config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
     'extensions.renderers.nginx_map.NginxMapRenderer'
