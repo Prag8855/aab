@@ -154,24 +154,24 @@ config.image_transforms = {
     },
 }
 
-config.context_processors += (
+config.context_processors.extend([
     'extensions.renderers.entry_images.EntryImageUrlProcessor',
-    'ursus.context_processors.git_date.GitDateProcessor',
-)
+    'ursus.context_processors.git_date.GitDateProcessor'
+])
 
 config.markdown_extensions['toc']['slugify'] = patched_slugify
 config.markdown_extensions['wikilinks']['base_url'] = f'{config.site_url}/glossary'
 config.markdown_extensions['wikilinks']['build_url'] = build_wikilinks_url
 config.markdown_extensions['tasklist']['list_item_class'] = 'checkbox'
-config.markdown_extensions['extensions.markdown:WrappedTableExtension'] = {'wrapper_class': 'table-wrapper'}
-config.markdown_extensions['extensions.markdown:CurrencyExtension'] = {}
-config.markdown_extensions['extensions.markdown:TypographyExtension'] = {}
+config.add_markdown_extension('extensions.markdown:WrappedTableExtension', {'wrapper_class': 'table-wrapper'})
+config.add_markdown_extension('extensions.markdown:CurrencyExtension')
+config.add_markdown_extension('extensions.markdown:TypographyExtension')
 
-config.renderers += (
+config.renderers.extend([
     'extensions.renderers.entry_images.EntryImageRenderer',
     'extensions.renderers.nginx_map.NginxMapRenderer'
     # 'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
-)
+])
 
 config.linters = (
     # 'extensions.linters.places.PlacesLinter',
