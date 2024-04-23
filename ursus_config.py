@@ -1,6 +1,7 @@
 from datetime import datetime
 from decimal import Decimal
 from extensions.functions import glossary_groups
+from markdown.extensions.toc import slugify
 from pathlib import Path
 from ursus.config import config
 import logging
@@ -34,6 +35,13 @@ def build_wikilinks_url(label, base, end):
     return '{}{}{}'.format(base, urllib.parse.quote(label), end)
 
 
+def patched_slugify(value, separator, keep_unicode=False):
+    """
+    Removes leading numbers from slugs
+    """
+    return slugify(value.lstrip(' 0123456789'), separator, keep_unicode)
+
+
 def fail_on(expiration_date: str) -> str:
     # Fails when the expiration date is reached. Used to set content date limits.
     assert datetime.strptime(expiration_date, "%Y-%m-%d") >= datetime.now(), f"Content expired on {expiration_date}"
@@ -50,9 +58,6 @@ config.output_path = Path(__file__).parent.parent / 'output'
 
 config.site_url = os.environ.get('SITE_URL', '')
 config.html_url_extension = ''
-
-config.checkbox_list_item_class = 'checkbox'
-config.table_wrapper_class = 'table-wrapper'
 
 config.lunr_indexes = {
     'indexed_fields': ('title', 'short_title', 'description', 'german_term', 'english_term',),
@@ -154,6 +159,16 @@ config.context_processors += (
     'ursus.context_processors.git_date.GitDateProcessor',
 )
 
+config.markdown_extensions['toc']['slugify'] = patched_slugify
+config.markdown_extensions['wikilinks']['base_url'] = f'{config.site_url}/glossary'
+config.markdown_extensions['wikilinks']['build_url'] = build_wikilinks_url
+config.markdown_extensions['tasklist']['list_item_class'] = 'checkbox'
+config.markdown_extensions['extensions.markdown:WrappedTableExtension'] = {'wrapper_class': 'table-wrapper'}
+config.markdown_extensions['extensions.markdown:CurrencyExtension'] = {}
+config.markdown_extensions['extensions.markdown:TypographyExtension'] = {}
+
+print(config.markdown_extensions)
+
 config.renderers += (
     'extensions.renderers.entry_images.EntryImageRenderer',
     'extensions.renderers.nginx_map.NginxMapRenderer'
@@ -181,15 +196,6 @@ config.linters = (
 
 config.minify_js = True
 config.minify_css = True
-
-config.wikilinks_base_url = f'{config.site_url}/glossary'
-config.wikilinks_url_builder = build_wikilinks_url
-config.jinja_filters = {
-    'number': to_number,
-    'num': to_number,
-    'currency': to_currency,
-    'cur': to_currency,
-}
 
 config.google_maps_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'  # Backend use only
 
@@ -550,6 +556,13 @@ config.context_globals = {
 
     # (€) - https://www.meineschufa.de/de/datenkopie, https://bonitaetscheck.immobilienscout24.de/
     "SCHUFA_REPORT_FEE": 29.95,
+}
+
+config.jinja_filters = {
+    'number': to_number,
+    'num': to_number,
+    'currency': to_currency,
+    'cur': to_currency,
 }
 
 config.logging = {
