@@ -245,7 +245,7 @@ beschv_26_2_countries = [
 aufenthg_21_2_countries = [  # Exempt from freelance visa pension requirement
     "Dominican Republic",
     "Indonesia",
-    "Iran",
+    # "Iran",  # Missing from VAB since at least 2018
     "Japan",
     "Philippines",
     "Sri Lanka",
