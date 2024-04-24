@@ -2,7 +2,9 @@
 Title: How to get a Kitagutschein
 Description: This is how you get a Kitagutschein, the document you need when looking for a Kita in Germany.
 Date_created: 2018-08-27
-Related_reviews: reviews/how-to-get-a-kitagutschein/lisa-hübner-moreno.md, reviews/how-to-get-a-kitagutschein/amy-deverell.md
+Related_reviews:
+    reviews/how-to-get-a-kitagutschein/amy-deverell.md
+    reviews/how-to-get-a-kitagutschein/lisa-hübner-moreno.md
 ---
 
 A *[[Kitagutschein]]* is a voucher that provides your child with free childcare in Berlin. A number of factors determine your child’s eligibility for a *Kitagutschein.* Childcare in a *Kita* is free for all children. However, you must still apply for a *Kitagutschein*. You may also need to pay extra costs to the *Kita* for food, outings, and special events.
