@@ -43,7 +43,7 @@ In Berlin, you can get a *Fiktionsbescheinigung* if...
 - [ ] you have an important reason to travel (like a business trip or a conference)
 - [ ] you include proof of your travel plans (like flight tickets or invitations)
 
-In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. You have the right to get a *Fiktionsbescheinigung*.[^15] They have no legal reason to refuse.
+In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. You have the right to get a *Fiktionsbescheinigung*.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one.
 
 You must pick up your *Fiktionsbescheinigung* in person at the *Ausländerbehörde*. They do not send it by post.[^1] There might be a 13€ fee.[^11]
 
