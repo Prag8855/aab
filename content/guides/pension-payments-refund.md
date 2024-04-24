@@ -312,7 +312,7 @@ You can let someone take care of everything. There are good reasons to get help:
 - **You get your money faster**  
     If you want to receive your refund in a non-German bank account, you must wait an extra 2 months. Germany Pension Refund, FundsBack and TaxBack can receive the money in a German bank account, and transfer it directly to you. This saves you two months of waiting. They also offer more payment options than the [[Deutsche Rentenversicherung]].
 - **You pay lower transaction fees**  
-    Germany Pension Refund and FundsBack offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/transferwise) to transfer the money with lower transaction fees.
+    They offer more payment options than the [[Deutsche Rentenversicherung]]. They can pay you in your currency, with lower currency exchange fees.
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.
 
@@ -325,7 +325,7 @@ These businesses can help you request a refund. They will fill the forms and req
 - **[TaxBack](/out/taxback)**  
     Their fee is 19.8% of your refund,[^32] or minimum 60€. I do not recommend them. They don't specialise in pension refunds, and their fee is too high.
 - **[Germany Mantra](/out/germany-mantra)**  
-    Unknown fees. This company is based in India.[^33] They offer relocation services for Indians since at least 2011.[^34] They never answered my emails.
+    Unknown fees. This company is based in India.[^33] They offer relocation services for Indians since at least 2011.[^34] They don't answer my emails.
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. You can also write in English, but they will answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
