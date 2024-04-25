@@ -240,7 +240,7 @@ If you live in the United Kingdom, there is one more condition:
 
 ## How much money will I get back?
 
-You will get a refund for all your pension payments.[^37] That's **around {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your [brutto](/glossary/Brutto%20income) income**. That means you usually get a few thousand euros back.[^14] Use the [pension refund calculator](/tools/pension-refund-calculator) to get an exact answer.
+You will get a refund for all your pension payments.[^37] That's **around {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your [gross income](/glossary/Brutto%20income)**. That means you usually get a few thousand euros back.[^14] Use the [pension refund calculator](/tools/pension-refund-calculator) to get an exact answer.
 
 You will not get a refund for your employer's contributions.[^15] If you already benefits from the Deutsche Rentenversicherung, the refund will be smaller.[^38] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
 
