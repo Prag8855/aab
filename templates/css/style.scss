@@ -1125,7 +1125,7 @@ sup:target a{
 		text-align: right;
 	}
 
-	a[href*="/glossary/"]{
+	a[href*="/glossary/"]:not(.recommended){
 		@include text-hint;
 		cursor: help;
 	}
@@ -2207,28 +2207,20 @@ details{
 }
 
 .recommended{
-	position:absolute;
-	top: -2px;
-	left: 0;
-	border: 1px solid transparent;
+	background: var(--c-bg-widget);
 	border-radius: var(--b-radius);
-	background: var(--c-bg-page);
+	padding: 2px var(--xs);
+	font-size: var(--f-s);
+	color: var(--c-text-light);
 	white-space: nowrap;
-	width: 15px;
-	overflow: hidden;
+	cursor: help;
 
 	&:before{
-		content: '★ This is a recommended option';
+		content: '✦ Recommended';
 	}
 
 	&:hover{
-		top: -4px;
-		left: calc(var(--xs) * -1);
-		padding: 2px var(--xs);
-		border-color: var(--c-border-box);
-		background: var(--c-bg-widget-opaque);
-		z-index: 1000;
-		width: auto;
+		text-decoration: none;
 	}
 }
 
