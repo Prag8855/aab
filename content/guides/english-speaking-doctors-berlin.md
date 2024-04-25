@@ -61,6 +61,8 @@ These databases have more doctors:
 - [Doctena](https://www.doctena.de/en/) - Find doctors by language, make an appointment online
 - [Ärzte Berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php) - Find doctors by language
 
+The information on these website can be inaccurate. Some doctors don't speak the language that they list.[^1]
+
 Ask your health insurance too. [TK](/glossary/Techniker%20Krankenkasse) has a list of English-speaking doctors. They can even [book an appointment for you](https://www.tk.de/service/form/2028156/terminservice.form).
 
 ## Doctor hotlines
@@ -74,3 +76,5 @@ This free hotline can:
 - Book a doctor visit to your house
 
 For emergencies, call [112](tel:112). They speak English.
+
+[^1]: [Elliot Herman](https://www.sorted.berlin/) (April 2024)
