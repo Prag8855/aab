@@ -11,7 +11,7 @@ This guide lists fonts that are used in Germany.
 
 ## Official font for Berlin
 
-**[Berlin Type](https://www.hvdfonts.com/custom-cases/berlin-type)** is the official font of Berlin since 2021. It's free to use.
+**[Berlin Type](https://wir.berlin/en/be-a-part/the-new-berlin-font)** is the official font of Berlin since 2021. It's free to use.
 
 ## BVG font
 
