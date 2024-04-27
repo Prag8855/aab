@@ -55,11 +55,12 @@ This service is free. Your [public health insurance](/glossary/gesetzliche%20Kra
 
 ## Other doctor databases
 
-These databases have more doctors:
+These databases have more English-speaking doctors:
 
-- [Doctolib](https://www.doctolib.de/) - Find doctors by language, make an appointment online
-- [Doctena](https://www.doctena.de/en/) - Find doctors by language, make an appointment online
-- [Ärzte Berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php) - Find doctors by language
+- [Doctolib](https://www.doctolib.de/) - You can make an appointment online
+- [Doctena](https://www.doctena.de/en/) - You can make an appointment online
+- [Ärzte Berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php)
+- [116117.de](https://www.116117.de/de/englisch.php#content1292)
 
 The information on these website can be inaccurate. Some doctors don't speak the language that they list.[^1]
 
@@ -67,7 +68,7 @@ Ask your health insurance too. [TK](/glossary/Techniker%20Krankenkasse) has a li
 
 ## Doctor hotlines
 
-Call [116117](tel:+49116117). They might not speak English.
+Call [116117](https://www.116117.de/de/englisch.php). They might not speak English.
 
 This free hotline can:
 

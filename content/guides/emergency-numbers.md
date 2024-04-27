@@ -25,7 +25,7 @@ You can also use [their online service](https://ordnungsamt.berlin.de/frontend/d
 
 Call **[112](tel:112)** to call an ambulance in Berlin. This number works for all emergencies, everywhere in Europe. They speak English.
 
-If it's not urgent, call [116117](tel:+49116117). They might not speak English.
+If it's not urgent, call [116117](https://www.116117.de/de/englisch.php). They might not speak English.
 
 ## Fire brigade: 112
 
