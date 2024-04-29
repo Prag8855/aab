@@ -522,7 +522,7 @@
 						textFields['ArtRow1'] = person1.documentType;
 						textFields['AusstellungsbehördeRow1'] = person1.documentIssuingAuthority;
 						textFields['SeriennummerRow1'] = person1.documentNumber;
-						textFields['DatumRow1'] = person1.documentIssueDate;
+						textFields['DatumRow1'] = this.formattedDate(person1.documentIssueDate);
 						textFields['gültig bisRow1'] = this.formattedDate(person1.documentExpirationDate, 'de-DE');
 						textFields['Name Vorname'] = this.mergeFields([
 							person1.lastName,
@@ -549,7 +549,7 @@
 						textFields['ArtRow1_2'] = person2.documentType;
 						textFields['AusstellungsbehördeRow1_2'] = person2.documentIssuingAuthority;
 						textFields['SeriennummerRow1_2'] = person2.documentNumber;
-						textFields['DatumRow1_2'] = person2.documentIssueDate;
+						textFields['DatumRow1_2'] = this.formattedDate(person2.documentIssueDate);
 						textFields['gültig bisRow1_2'] = this.formattedDate(person2.documentExpirationDate, 'de-DE');
 						textFields['Name Vorname_2'] = this.mergeFields([
 							person2.lastName,
