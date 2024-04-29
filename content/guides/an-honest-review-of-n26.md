@@ -51,7 +51,7 @@ With Commerzbank, I sometimes had to take a 45 minute train ride to sign some pa
 
 The N26 Mastercard is good for travelling. There are no transaction fees and no currency conversion fees. You pay the real exchange rate.[^0] You only pay a fee if you withdraw money in other currencies.[^0] I used my N26 Mastercard in over 40 countries without any problems.
 
-If you travel a lot, the [N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts include unlimited ATM withdrawals in all currencies, and travel insurance.
+If you travel a lot, the [N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts include unlimited ATM withdrawals in all currencies, travel insurance, and a higher interest rate for your savings.
 
 ### Push notifications for transactions
 
