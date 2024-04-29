@@ -91,6 +91,11 @@ def schedule_message(message_type: str, recipients: List[str], delivery_date: da
 
 def send_message(message_type: str, recipients: List[str], template_values: dict):
     message_path = os.path.join(config.base_path, config.message_types[message_type]['template_path'])
+
+    if not recipients:
+        logger.error(f"Ignored message with no recipients: {template_values}")
+        return
+
     with open(message_path, 'r') as message_file:
         message_body = message_file.read()
 
