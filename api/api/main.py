@@ -94,16 +94,22 @@ def send_message(message_type: str, recipients: List[str], template_values: dict
     with open(message_path, 'r') as message_file:
         message_body = message_file.read()
 
+    message_data = {
+        "from": "All About Berlin <contact@allaboutberlin.com>",
+        "to": recipients,
+        "subject": config.message_types[message_type]['title'].format(**template_values),
+        "html": message_body.format(**template_values),
+    }
+
+    if config.message_types[message_type].get('reply_to_sender') and template_values.get('email'):
+        message_data['h:Reply-To'] = template_values['email']
+
     response = requests.post(
         "https://api.eu.mailgun.net/v3/allaboutberlin.com/messages",
         auth=("api", os.environ['MAILGUN_API_KEY']),
-        data={
-            "from": "All About Berlin <contact@allaboutberlin.com>",
-            "to": recipients,
-            "subject": config.message_types[message_type]['title'].format(**template_values),
-            "html": message_body.format(**template_values),
-        }
+        data=message_data
     )
+
     if response.status_code != 200:
         raise Exception("Mailgun request returned status %s and message %s" % (response.status_code, response.json()))
 
