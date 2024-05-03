@@ -169,8 +169,8 @@ config.add_markdown_extension('extensions.markdown:TypographyExtension')
 
 config.renderers.extend([
     'extensions.renderers.entry_images.EntryImageRenderer',
-    'extensions.renderers.nginx_map.NginxMapRenderer'
-    # 'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
+    'extensions.renderers.nginx_map.NginxMapRenderer',
+    'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
 ])
 
 config.linters = (
@@ -197,6 +197,7 @@ config.minify_css = True
 
 config.google_maps_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'  # Backend use only
 
+config.google_tts_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'
 
 minimum_wage = 12.41
 beitragsbemessungsgrenze_west = 90600
