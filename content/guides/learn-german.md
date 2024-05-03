@@ -265,5 +265,5 @@ I use [DeepL](https://www.deepl.com/en/translator) to translate longer texts. It
 [^11]: [berlin.de](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/), [berlin.de](https://www.berlin.de/vhs/_assets/biurlg.pdf)
 [^12]: [bildungsurlaub.de](https://www.bildungsurlaub.de/infos?id_seite=32&seo_titel=berlin)
 [^13]: [berlin.de](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/)
-[^14]: [smartsteuer.de](https://www.smartsteuer.de/online/steuertipps/wenn-auslaender-deutsch-lernen/), [toytowngermany.com](https://www.toytowngermany.com/forum/topic/372618-is-language-course-deductible/#comment-3597099)
-[^15]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/116200-tax-rebates-for-german-courses/#comment-1465176)
+[^14]: [smartsteuer.de](https://www.smartsteuer.de/online/steuertipps/wenn-auslaender-deutsch-lernen/)
+[^15]: [toytowngermany.com](https://web.archive.org/web/20220520202021/https://www.toytowngermany.com/forum/topic/116200-tax-rebates-for-german-courses/#comment-1465176)

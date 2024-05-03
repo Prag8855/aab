@@ -18,9 +18,8 @@ You can get help from these communities and services.
 - [Free Advice Berlin](https://www.facebook.com/groups/FreeAdviceBerlin/) - Facebook group
 - [Berlin EXPATS](https://www.facebook.com/groups/berlinexpats/) - Facebook group
 - [Berlin4Beginners](https://www.facebook.com/groups/Berlin4Beginners/) - Facebook group
-- [/r/berlin](https://www.reddit.com/r/berlin) - Reddit community
+- [/r/askberliners](https://www.reddit.com/r/askberliners) - Reddit community
 - [/r/germany](https://www.reddit.com/r/germany) - Reddit community
-- [Toytown Germany](https://www.toytowngermany.com/) - Forum. Less active than before.
 - [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Questions and answers website
 
 ## Immigration questions

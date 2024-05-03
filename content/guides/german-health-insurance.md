@@ -335,7 +335,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^19]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/2hffzw/what_is_the_worst_financial_mistake_you_made/cks7b7j/), [wiwo.de](https://www.wiwo.de/finanzen/vorsorge/raus-aus-der-pkv-so-gelingt-privatversicherten-die-flucht-vor-hohen-beitraegen/21221640.html)
 [^20]: [Finanztip](https://www.finanztip.de/pkv/pkv-rueckkehr-gkv/), [wiwo.de](https://www.wiwo.de/finanzen/vorsorge/raus-aus-der-pkv-so-gelingt-privatversicherten-die-flucht-vor-hohen-beitraegen/21221640.html)
 [^21]: [Finanztip](https://www.finanztip.de/pkv/pkv-rueckkehr-gkv/#c13914)
-[^22]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
+[^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/3245370-i-have-a-mini-job-how-do-i-get-insured)
 [^27]: [abc-der-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/geringfuegig-beschaeftigte-minijob/)

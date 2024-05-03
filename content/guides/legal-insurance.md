@@ -202,7 +202,7 @@ For quick business or immigration questions, try Alexander von Engelhardt's lega
 
 [^0]: [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html), [Finanztip](https://www.finanztip.de/anwaltskosten/)
 [^1]: [Finanztip](https://www.finanztip.de/anwaltskosten/)
-[^2]: [toytowngermany.com](https://www.toytowngermany.com/forum/topic/66395-legal-insurance/?page=3), [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/freie-anwaltswahl/)
+[^2]: [toytowngermany.com](https://web.archive.org/web/20220627211106/https://www.toytowngermany.com/forum/topic/66395-legal-insurance/?page=3), [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/freie-anwaltswahl/)
 [^3]: [aerzteblatt.de](https://www.aerzteblatt.de/archiv/12335/Haftpflicht-Hausrat-Rechtsschutz-Wie-lange-Kinder-mitversichert-sind)
 [^4]: [reddit.com/r/AskAGerman](https://old.reddit.com/r/AskAGerman/comments/ph3wum/should_i_get_legal_insurance_to_protect_myself/hbh4l1s/)
 [^5]: [limmer-reutemann.de](https://www.limmer-reutemann.de/berufsunfaehigkeitsversicherung)
