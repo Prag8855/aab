@@ -60,6 +60,7 @@ class GlossaryAudioRenderer(Renderer):
                 },
             ).json()
 
+            audio_path.parent.mkdir(parents=True, exist_ok=True)
             with audio_path.open('wb') as audio_file:
                 audio_file.write(base64.b64decode(response['audioContent']))
 
