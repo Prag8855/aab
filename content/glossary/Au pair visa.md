@@ -1,7 +1,7 @@
 ---
 Title: What is an au pair visa?
-German_term: Au pair visa
-English_term: 
+German_term: Au pair Visum
+English_term: Au pair visa
 Description: A residence permit to work in Germany as an au pair.
 Date_created: 2021-06-03
 Related_guides:

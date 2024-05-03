@@ -1,5 +1,6 @@
 from ursus.config import config
 from ursus.renderers import Renderer
+from pathlib import Path
 import base64
 import logging
 import requests
@@ -16,27 +17,37 @@ class GlossaryAudioRenderer(Renderer):
         files_to_keep = set()
 
         german_terms_to_render = [
-            entry['german_term'] for (entry_uri, entry) in context['entries'].items()
+            (entry.get('ssml', entry['german_term']), entry_uri)
+            for (entry_uri, entry) in context['entries'].items()
             if entry_uri.startswith('glossary/')
             and entry.get('german_term')
         ]
 
-        for german_term in german_terms_to_render:
-            audio_path = config.output_path / 'glossary' / 'audio' / f'{german_term}.mp3'
+        for text_to_pronounce, entry_uri in german_terms_to_render:
+            file_name = Path(entry_uri).stem
+            audio_path = config.output_path / 'glossary' / 'audio' / f'{file_name}.mp3'
             files_to_keep.add(audio_path.relative_to(config.output_path))
 
             if audio_path.exists():
                 continue
 
-            logger.info(f"Rendering audio for {german_term}")
+            logger.info(f"Rendering pronounciation for {entry_uri}")
             response = requests.post(
                 url="https://texttospeech.googleapis.com/v1beta1/text:synthesize",
                 json={
                     "input": {
-                        "text": german_term
+                        "ssml":
+                            "<speak>"
+                            f"  <s>{text_to_pronounce}</s>"
+                            "   <break time=\"1s\"/><prosody rate=\"x-slow\">"
+                            "       <emphasis level=\"strong\">"
+                            f"          <s>{text_to_pronounce}</s>"
+                            "       </emphasis>"
+                            "   </prosody>"
+                            "</speak>",
                     },
                     "voice": {
-                        "name": "de-DE-Neural2-B",
+                        "name": "de-DE-Neural2-C",
                         "languageCode": "de-DE"
                     },
                     "audioConfig": {

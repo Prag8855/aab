@@ -1,7 +1,8 @@
 ---
 Title: What is the German Work Visa?
-German_term: Work Visa
-English_term: 
+German_term: Arbeitsvisum
+English_term: Work Visa
+ssml: <voice language="en-GB">Work visa</voice>
 Description: A type of residence permit that lets you work in Germany.
 Date_created: 2019-07-13
 Related_guides:

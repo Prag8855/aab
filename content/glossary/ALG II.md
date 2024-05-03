@@ -2,6 +2,7 @@
 Title: What was Hartz IV or ALG II?
 German_term: ALG II
 English_term: Welfare
+ssml: <say-as interpret-as="characters">ALG 2</say-as>
 Description: German welfare. Replaced by Bürgergeld in 2023.
 Date_created: 2020-04-07
 Related_guides:

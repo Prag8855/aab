@@ -1,6 +1,6 @@
 ---
 Title: What is the Netto income? (Germany)
-German_term: Netto income
+German_term: Nettoeinkommen
 English_term: Net income
 Description: Your income after taxes and social contributions.
 Date_created: 2020-03-05

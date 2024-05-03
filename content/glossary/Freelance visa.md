@@ -1,7 +1,8 @@
 ---
 Title: What is the German freelance visa?
 German_term: Freelance visa
-English_term: 
+English_term: Freelance visa
+ssml: <voice language="en-GB">Freelance visa</voice>
 Description: A residence permit for freelancers and self-employed people
 Date_created: 2018-09-12
 Related_guides:
