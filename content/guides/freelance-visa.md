@@ -405,7 +405,7 @@ You can use your freelance visa to log into online government services. For exam
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
-## Join VG Wort
+### Join VG Wort
 
 **If you publish texts or run a website**, you should also join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
 
