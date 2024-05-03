@@ -17,7 +17,7 @@ This guide helps you rent an apartment or a room when you [move to Berlin](/guid
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might need to live in temporary places until you find a home.
+**Yes, it's really hard**. It can take months and hundreds of messages.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might need to live in temporary places until you find a home.
 
 If you are not in Berlin yet, it's almost impossible. Get [short-term housing](#short-term-housing), move to Berlin, then look for a better place.
 
@@ -123,7 +123,7 @@ Turn on push notifications for the Facebook groups that you follow.
 ### People you know
 
 - **Tell everyone you know**  
-    Your friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung). Your religious community might also help.[^50]
+    Your friends, family, colleagues or classmates might know someone who has a place to rent. Ask on your employer's internal message board.[^57] People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung). Your religious community might also help.[^50]
 - **Ask your [[Hausverwaltung]]**  
     They might give you another apartment, or put you on a waiting list.
 - **Get help from your university**  
@@ -189,7 +189,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Storage and parking**  
     Is there a place for your bicycle? A storage room in the basement (*Kellerraum*)? How much does a parking space cost? Is there street parking?
 - [ ] **Do you need a [WBS](/glossary/Wohnberechtigungsschein)?**  
-    Some apartments require a *[[Wohnberechtigungsschein]]*. If you don't have one, you can't live there.
+    Some apartments require a *[[Wohnberechtigungsschein]]*. If you don't have one, you can't live there, so you must exclude them from your search.
 - [ ] **Internet access**  
     Some buildings can't get a fast internet connection. Use [this tool](https://www.check24.de/dsl/verfuegbarkeit/) to see your internet options.
 - [ ] **Pets**  
@@ -271,7 +271,7 @@ In order, they prefer...[^32]
 Landlords prefer...
 
 - **A good income**  
-    Your rent should be 20% to 40% of your monthly [net income](/glossary/Netto%20income).[^34] Your income can't be too low or too high.[^48] Two incomes are better than one.
+    Your rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34] Your income can't be too low or too high.[^48] Two incomes are better than one.
 - **A stable job**  
     If you are in your [probation period](/glossary/Probezeit), it's a little harder to find an apartment.[^36] If you are self-employed, it's much harder.[^17] If you are unemployed, it's impossible.
 - **A good first impression**  
@@ -424,7 +424,7 @@ With a regular apartment...
 - **You save money in the long term**  
     You must buy everything for the apartment, but the rent is much lower. Over time, you save a lot of money.
 
-Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 40% of your monthly [net income](/glossary/Netto%20income).[^34]
+Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34]
 
 **[Look for a regular apartment ↑](#look-for-apartments)**
 
@@ -490,7 +490,7 @@ The *Nebenkosten* are not a fixed cost, because you don't know how much water an
 
 ### Nothing is included
 
-Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
+Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink if you request it,[^3] but not in the rest of Germany.
 
 [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are much more expensive.
 
@@ -579,3 +579,4 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^54]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^55]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^56]: Padcha, Thai Embassy in Berlin (March 2024)
+[^57]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (April 2024)
