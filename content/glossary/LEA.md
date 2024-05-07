@@ -3,6 +3,7 @@ Title: What is the LEA?
 German_term: LEA
 English_term: Immigration office
 Description: The Berlin immigration office (Ausländerbehörde) handles German visas and residence permits.
+ssml: Landesamt für Einwanderung
 Date_created: 2021-06-08
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md

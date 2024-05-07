@@ -1,7 +1,8 @@
 ---
 Title: What was the Mini One Stop Shop (MOSS)?
 German_term: Mini One Stop Shop
-English_term: 
+English_term: Mini One Stop Shop
+ssml: <voice language="en-GB">Mini One Stop Shop</voice>
 Description: 
 Date_created: 2018-07-31
 Related_guides:

@@ -159,7 +159,7 @@ It's harder to [find an apartment](/guides/find-a-flat-in-berlin) that allows do
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/121822/)
 [^7]: [Berlin.de](https://hunderegister.berlin.de/faq/#question-64)
 [^8]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/krankenversicherungen-fuer-haustiere-sinnvoll-oder-ueberfluessig-10781#2)
-[^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/fvq6crb/?utm_source=reddit&utm_medium=web2x&context=3)
+[^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hdw3r4/berlin_und_hund/fvq6crb/?context=3)
 [^10]: [§15 HungeG](https://gesetze.berlin.de/bsbe/document/jlr-HuHGBE2016pP15)
 [^11]: [zooplus.de](https://www.zooplus.de/magazin/hund/hundesport-spiel/hundestraende), [ostsee24.de](https://www.ostsee24.de/ostsee-urlaub/urlaub-mit-hund/hundestrand-ostsee)
 [^12]: [mydog365.de](https://mydog365.de/magazin/recht/wohnung-finden-hund/), [wohnglueck.de](https://wohnglueck.de/artikel/wohnungssuche-mit-hund-8250#:~:text=gehort%20zu%20den%20schwierigsten%20disziplinen), [Reddit](https://old.reddit.com/r/berlin/comments/m6wybt/apartment_hunting_when_having_dog/) (March 2021), [Mietrecht.com](https://www.mietrecht.com/hundehaltung-mietwohnung/#:~:text=mit%20hund%20durchaus%20sehr%20schwierig)

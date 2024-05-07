@@ -1,7 +1,8 @@
 ---
 Title: What is the German internship visa?
 German_term: Internship visa
-English_term: 
+English_term: Internship visa
+ssml: <voice language="en-GB">Internship visa</voice>
 Description: A residence permit to do an internship in Germany
 Date_created: 2021-07-22
 Related_guides:

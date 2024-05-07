@@ -19,9 +19,11 @@ With a *Fiktionsbescheinigung*, you can...[^0]
 - Continue your work, studies or self-employment
 - [In some cases](#travel-with-a-fiktionsbescheinigung), travel outside Germany
 
-[![Example German Fiktionsbescheinigung](/images/german-fiktionsbescheinigung.jpg "Example German Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung.jpg)
+A *Fiktionsbescheinigung* gives you the same rights as your previous residence permit. It's not a permission to start a new job, start studying or become self-employed. It only lets you do the same things as before.
 
 Your *Fiktionsbescheinigung* is valid until your real residence permit is approved or rejected.[^4]
+
+[![Example German Fiktionsbescheinigung](/images/german-fiktionsbescheinigung.jpg "Example German Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung.jpg)
 
 ## How to get a Fiktionsbescheinigung
 
@@ -41,7 +43,7 @@ In Berlin, you can get a *Fiktionsbescheinigung* if...
 - [ ] you have an important reason to travel (like a business trip or a conference)
 - [ ] you include proof of your travel plans (like flight tickets or invitations)
 
-In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. You have the right to get a *Fiktionsbescheinigung*.[^15] They have no legal reason to refuse.
+In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. You have the right to get a *Fiktionsbescheinigung*.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one.
 
 You must pick up your *Fiktionsbescheinigung* in person at the *Ausländerbehörde*. They do not send it by post.[^1] There might be a 13€ fee.[^11]
 
@@ -68,7 +70,7 @@ You must return to Germany before your *Fiktionsbescheinigung* expires. If it ex
 
 If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can travel without a *Fiktionsbescheinigung*. You can re-enter Germany with an expired residence permit.[^12]
 
-This was confirmed by the *Bundespolizei* and a few travellers.[^12] It's not guaranteed to work for you. The rules can change at any time. [Ask the Bundespolizei](https://www.bundespolizei.de/Web/DE/Service/Kontakt/05Frage-stellen/kontakt_node.html) before you travel.
+This is confirmed by the *Bundespolizei*, a few travellers, and my own experience.[^12] It's not guaranteed to work for you. The rules can change at any time. [Ask the Bundespolizei](https://www.bundespolizei.de/Web/DE/Service/Kontakt/05Frage-stellen/kontakt_node.html) before you travel.
 
 Bring proof of your residence permit application. It can help you if you have problems with the border police.[^18]
 
@@ -103,7 +105,7 @@ There are 4 variants of the *Fiktionsbescheinigung*:[^2]
 [^9]: [VAB 81.3.0](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535), [Berlin.de](https://service.berlin.de/dienstleistung/326233/#:~:text=antrag%20auf%20aufenthaltstitel)
 [^10]: [VAB 81.4.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535)
 [^11]: [VAB 81.5](https://www.berlin.de/einwanderung/_assets/20191129.pdf?ts=1700578535), [§47 Abs. 1 s. 8](https://www.gesetze-im-internet.de/aufenthv/__47.html)
-[^12]: Immigration lawyer (December 2023), Bundespolizei (December 2023), Bundespolizei (November 2023), [Bundespolizei](https://www.info4alien.de/cgi-bin/forum/YaBB.cgi?num=1663089267/30#:~:text=dass%20ebenfalls%20bei%20jeder%20einreise%20bis%20zu%2090%20tage%20visumfreier%20aufenthalt) (October 2022), [§41 Abs. 1 and 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1197219931152641/) (October 2022), an American reader (January 2024)
+[^12]: Immigration lawyer (December 2023), Bundespolizei (December 2023), Bundespolizei (November 2023), [Bundespolizei](https://www.info4alien.de/cgi-bin/forum/YaBB.cgi?num=1663089267/30#:~:text=dass%20ebenfalls%20bei%20jeder%20einreise%20bis%20zu%2090%20tage%20visumfreier%20aufenthalt) (October 2022), [§41 Abs. 1 and 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1197219931152641/) (October 2022), an American reader (January 2024), my own experience (April 2024)
 [^13]: [Annex D3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/anlage_d3.html)
 [^14]: [18 B 8/09](https://openjur.de/u/135297.html) (2011)
 [^15]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (December 2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1194366428104658/) (October 2022), [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html), confirmed by a relocation consultant (October 2023), [M 25 E 16.2114](https://openjur.de/u/2287211.html#:~:text=eine%20bescheinigung%20uber%20die%20wirkungen%20seiner%20antragstellung) (Munich, 2020), [18 B 850/19](https://openjur.de/u/2192644.html#:~:text=anspruch%20auf%20ausstellung%20einer%20fiktionsbescheinigung) (NRW, 2019), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1414261236115175/?comment_id=1414434422764523) (November 2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1398493864358579/?comment_id=1400502304157735) (October 2023)

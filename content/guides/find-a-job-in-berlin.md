@@ -56,9 +56,10 @@ Know [how much you should earn](/guides/salaries-in-germany), and [how much taxe
 - **[LinkedIn](https://www.linkedin.com/jobs/search/?geoId=103620271&location=Berlin)** - Networking website with a big jobs section. Very popular.
 - [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the *[[Agentur für Arbeit]]*
 - [Talent Berlin](https://talent.berlin/en/jobs/job-search) - Run by the state of Berlin. You can't filter by language.
+- [HeyJobs](https://www.heyjobs.co/de-de/jobs-in-Berlin) - Job listing website. Made in Berlin.
+- [ArbeitNow](https://www.arbeitnow.com/berlin-jobs) - Job listing website. Made in Berlin.
 - [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language.
 - [Xing](https://www.xing.com/) - Similar to LinkedIn. You can't filter by language.
-- [ArbeitNow](https://www.arbeitnow.com/berlin-jobs) - Job listing website. Made in Berlin.
 - [Glassdoor ](https://www.glassdoor.de/index.htm)- Company reviews, salary reports and job listings. You need an account.
 
 ### English-speaking jobs

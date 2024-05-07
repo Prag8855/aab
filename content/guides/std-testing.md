@@ -11,12 +11,12 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
 
 ## How hard is it to get tested
 
-**It's not hard**, if you know where to go. There are many ways to get tested. At some places, you need an appointment.
+**It's easy** if you know where to go. There are many ways to get tested. You might need an appointment.
 
 ## Where to get tested in Berlin
 
 - **At any medical clinic**  
-    Medical clinics can test for HIV and other STIs. You can ask your general practitioner (*[[Hausarzt]]*). Urologists and gynaecologists usually offer HIV and STI tests.
+    Medical clinics can test for HIV and other STIs. You can ask your general practitioner (*[[Hausarzt]]*), but they might not know how to do STI testing. Urologists and gynaecologists usually offer HIV and STI tests.
     - **[Dr. Cordes](https://www.drcordes.de/en__es/)** - (English, Spanish, German)
     - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)** - (English, German)
     - **[Viropraxis](https://www.viropraxis.de/)** (English, Spanish, German)
@@ -32,6 +32,8 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
     HIV and other STI tests for LGBTQ+ people. Tests cost between 5€ and 25€.
 - **[Mann-o-meter](https://www.mann-o-meter.de/angebote/tests-auf-hiv-und-andere-stis)** (German)  
     HIV and other STI tests for LGBTQ+ people. Complete test for 15€.
+
+**[More testing options](https://www.hivandmore.de/aerzteverzeichnis/index.shtml)** - hivandmore.de
 
 ## How much does a test cost?
 

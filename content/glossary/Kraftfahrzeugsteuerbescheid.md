@@ -1,7 +1,7 @@
 ---
 Title: What is a Kraftfahrzeugsteuerbescheid?
-German_term: Kraftfahrzeugsteuer
-English_term: Vehicle tax
+German_term: Kraftfahrzeugsteuerbescheid
+English_term: Vehicle tax notification
 Description: The Kraftfahrzeugsteuerbescheid tells you how much vehicle tax you owe.
 Date_created: 2018-04-12
 Related_guides:

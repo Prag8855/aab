@@ -1,7 +1,8 @@
 ---
 Title: What is the German job seeker visa?
-German_term: Job seeker visa
-English_term: 
+German_term: Visum zur Arbeitsplatzsuche
+English_term: Job seeker visa
+ssml: <voice language="en-GB">Job seeker visa</voice>
 Description: A visa that lets you come to Germany and look for a job.
 Date_created: 2018-08-28
 Related_guides:

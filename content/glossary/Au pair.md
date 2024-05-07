@@ -1,7 +1,7 @@
 ---
 Title: What is an au pair?
 German_term: Au pair
-English_term: 
+English_term: Au pair
 Description: A person who lives and work for a host family, usually in another country.
 Date_created: 2022-01-11
 ---

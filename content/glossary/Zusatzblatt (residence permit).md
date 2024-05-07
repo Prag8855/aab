@@ -1,6 +1,6 @@
 ---
 Title: What is a Zusatzblatt (residence permit)?
-German_term: Zusatzblatt (residence permit)
+German_term: Zusatzblatt
 English_term: Additional information sheet
 Description: A paper sheet that comes with your residence permit. It explains the extra conditions of your residence permit.
 Date_created: 2022-01-21

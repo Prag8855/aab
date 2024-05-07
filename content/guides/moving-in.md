@@ -158,7 +158,7 @@ Your own things are not covered by liability insurance. To insure your own furni
 
 Landlords often [try to scam](/guides/housing-scams#scams-by-landlords-and-tenants) immigrants. You must be ready to defend yourself. There are many ways to do this:
 
-- **Join a tenants' association** (*[[Mieterverein]]*) ⭐️  
+- **Join a tenants' association** (*[[Mieterverein]]*){% include '_blocks/recommended.html' %}  
     If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein speaks English.[^10]
 - or **get legal insurance** (*[[Rechtsschutzversicherung]]*)  
     It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
@@ -231,10 +231,13 @@ When your neighbours are too loud, you can [make a noise complaint](/guides/nois
 
 ### Hard water
 
-The tap water in Berlin is hard.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head. It also tastes different in tea.
+The tap water in Berlin is hard.[^7] Hard water is safe to drink, but it leaves limescale deposits on your kettle, coffee machine, clothes iron, toilet, faucet and shower head.
 
-- Use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*) to clean limescale. It's much easier. You can buy it [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl) or in any supermarket.
-- Boil the water 2 to 3 times to remove the taste. The minerals will deposit at the bottom of the kettle. You can also use a water filter.
+![Limescale deposit in a cooking pot](/images/limescale.jpg "Limescale in a cooking pot")
+
+To remove limescale deposits, use decalcifier (*Entkalker*), citric acid (*Zitronensäure*) or vinegar (*Essig*). You can buy them in any supermarket, or [on Amazon](https://www.amazon.de/s?k=entkalker&crid=6MP4O9YFEDPP&sprefix=entkalker,aps,109&linkCode=sl2&tag=nicolasboulia-21&linkId=789a91fe1c76fdc0e84e01a0d509a9b1&language=en_GB&ref_=as_li_ss_tl).
+
+To make tea, use a water filter, or boil the water 2 to 3 times. It will remove the taste of hard water.
 
 ### Recycling
 

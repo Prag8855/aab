@@ -11,11 +11,15 @@ This is how you can send a letter by post in Germany, even if you don't have a p
 
 ## At the post office
 
-Just prepare your envelope or package, and go to the post office. You don't need to buy stamps. They will take care of it. Bring cash; some post offices don't accept credit cards.
+[Write your address](/guides/addressing-a-letter-in-germany) on the envelope or package, and bring it to the post office. You don't need a stamp; you can buy it there. Bring cash; some post offices don't accept Visa or Mastercard.
 
-You can **[get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html)** with the Post & DHL app. You get a code that you write on the envelope. Leave it the letter in a post box or at a post office. This does not work for international mail.
+**[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 
-**[How to address a letter ➞](/guides/addressing-a-letter-in-germany)**
+## In a mailbox
+
+[Write your address](/guides/addressing-a-letter-in-germany) on the envelope, then [get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html) from the Post & DHL app. You get a code that you must write on the envelope. It does not work for international mail.
+
+Put the letter to a yellow Deutsche Post post box.
 
 **[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 
@@ -25,7 +29,7 @@ If you don't have a printer at home, or you want to save time, send a letter fro
 
 To mail a letter from a computer, use these services:
 
-- [**Superpost**](https://www.superpost.com/en/) (English) — Send text or PDF documents in any format. More expensive, but easier to use. No account needed.
+- **[Superpost](https://www.superpost.com/en/)** (English) — Send text or PDF documents in any format. More expensive, but easier to use. No account needed.
 - [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben) (German) — Send text or PDF documents in any format. You must create an account and add at least 5€ in funds.
 - [eBrief](https://www.ebrief.de/) (German) — Send PDF documents in the [DIN 5008 format](https://de.wikipedia.org/wiki/DIN_5008#/media/Datei:DIN_5008,_Form_A.svg). You must create an account.
 

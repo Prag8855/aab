@@ -13,7 +13,7 @@
     {
         "name": "N26",
         "country": "Germany",
-        "requirements": "A European passport or a German residence permit.",
+        "requirements": "A European passport or a German residence permit, and a proof of address like bills, receipts or a lease. – <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>Read more&nbsp;➞</a>",
         "requirementsUrl": "https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf",
         "tags": [
             "Apple Pay / Google Pay",
@@ -50,6 +50,7 @@
                 "withdrawalFeeExplanation": "5 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 4.9,
+                "interestRate": 2.26,
                 "tags": [
                     "Free instant transfers",
                     "Joint account",
@@ -62,6 +63,7 @@
                 "withdrawalFeeExplanation": "5 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 9.9,
+                "interestRate": 2.26,
                 "tags": [
                     "Free instant transfers",
                     "Joint account",
@@ -69,11 +71,12 @@
             },
             {
                 "name": "Metal",
-                "description": "The N26 Metal adds phone insurance and a fancy metal card. It's not worth the extra cost.",
+                "description": "The N26 Metal adds higher interest rates for your savings, phone insurance, a fancy metal card. It's not worth the extra cost.",
                 "withdrawalFee": 0,
                 "withdrawalFeeExplanation": "8 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 16.9,
+                "interestRate": 4,
                 "tags": [
                     "Free instant transfers",
                     "Joint account",

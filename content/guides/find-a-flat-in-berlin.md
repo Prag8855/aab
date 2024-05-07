@@ -17,11 +17,9 @@ This guide helps you rent an apartment or a room when you [move to Berlin](/guid
 
 ## Is it hard to find an apartment?
 
-**Yes, it's really hard**. It can take months and hundreds of applications.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might need to live in temporary places until you find a home.
+**Yes, it's really hard**. It can take months and hundreds of messages.[^0] It's one of the hardest parts of [moving to Berlin](/guides/moving-to-berlin). You might need to live in temporary places until you find a home.
 
 If you are not in Berlin yet, it's almost impossible. Get [short-term housing](#short-term-housing), move to Berlin, then look for a better place.
-
-**[Your housing options ↓](#your-housing-options)**
 
 ## Before you start
 
@@ -40,18 +38,19 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### Apartment search websites
 
-- **[ImmoScout24](https://www.immobilienscout24.de/)** ⭐️  
+- **[ImmoScout24](https://www.immobilienscout24.de/)**{% include '_blocks/recommended.html' %}  
     The biggest housing website. It's very competitive. Without the premium account, it's much harder to find an apartment.[^1] Create a detailed profile to improve your chances.[^27]
-- **[Kleinanzeigen](https://www.kleinanzeigen.de/)** ⭐️ - Biggest classified ads website.
+- **[Kleinanzeigen](https://www.kleinanzeigen.de/)**{% include '_blocks/recommended.html' %}  
+    Biggest classified ads website.
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
 
 [Immonet](https://www.immonet.de/), [Immobilo](https://www.immobilo.de/), [meinestadt.de](https://www.meinestadt.de/berlin/immobilien/wohnungen) and [Wohnungsbörse](https://www.wohnungsboerse.net/) do not have many unique listings.
 
 ### Short-term and furnished apartments
 
--  **[Homelike](/out/homelike)** ⭐️  
+- **[Homelike](/out/homelike)**{% include '_blocks/recommended.html' %}  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* needed.[^51] Preferred by relocation consultants.
--  **[HousingAnywhere](/out/housinganywhere)** ⭐️  
+- **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - [Wunderflats](/out/wunderflats) - They offer less protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
 - [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
@@ -76,7 +75,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### [[WG]]s, flat shares and roommates
 
-- **[WG-Gesucht](https://www.wg-gesucht.de/)** ⭐️  
+- **[WG-Gesucht](https://www.wg-gesucht.de/)**{% include '_blocks/recommended.html' %}  
     The most popular website for shared apartments. It's very competitive. You might send hundreds of messages and never get a reply.
 - [WG Suche](https://www.wg-suche.de/wg-zimmer/deutschland-berlin)
 
@@ -84,7 +83,7 @@ Short-term furnished rooms are cheaper on [Kleinanzeigen](https://www.kleinanzei
 
 ### Dorms and student housing
 
-- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)** ⭐️  
+- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)**{% include '_blocks/recommended.html' %}  
     Affordable student housing. There are long waiting lists. Only for students of partner universities.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments.
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. *[[Anmeldung]]* possible.
@@ -92,7 +91,7 @@ Short-term furnished rooms are cheaper on [Kleinanzeigen](https://www.kleinanzei
 
 ### Housing companies
 
-- **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)** ⭐️  
+- **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)**{% include '_blocks/recommended.html' %}  
     Search apartments from all state-owned companies: [Degewo](https://immosuche.degewo.de/de/search), [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html), [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/), [Howoge](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html), [Stadt und Land](https://www.stadtundland.de/) and [WBM](https://www.wbm.de/wohnungen-berlin/angebote/)
 - [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Biggest housing company in Berlin
 - [Vonovia](https://www.vonovia.de/en) - Second biggest housing company
@@ -124,7 +123,7 @@ Turn on push notifications for the Facebook groups that you follow.
 ### People you know
 
 - **Tell everyone you know**  
-    Your friends, family, colleagues or classmates might know someone who has a place to rent. People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung). Your religious community might also help.[^50]
+    Your friends, family, colleagues or classmates might know someone who has a place to rent. Ask on your employer's internal message board.[^57] People often find an apartment through their connections.[^21] They can also host you for a few weeks, and give you a way to [register your address](/glossary/Anmeldung). Your religious community might also help.[^50]
 - **Ask your [[Hausverwaltung]]**  
     They might give you another apartment, or put you on a waiting list.
 - **Get help from your university**  
@@ -134,7 +133,7 @@ Turn on push notifications for the Facebook groups that you follow.
 
 An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). Don't pay an agent fee if you did not hire the agent.
 
-- **[BerlinRelo](https://www.berlinrelo.de/)** ⭐️  
+- **[BerlinRelo](https://www.berlinrelo.de/)**{% include '_blocks/recommended.html' %}  
     Long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
 - **[Get The Flat](https://gettheflat.com/)**  
     They help you prepare your documents and apply for apartments. They use bots to find apartments and automatically write to landlords.
@@ -190,7 +189,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 - [ ] **Storage and parking**  
     Is there a place for your bicycle? A storage room in the basement (*Kellerraum*)? How much does a parking space cost? Is there street parking?
 - [ ] **Do you need a [WBS](/glossary/Wohnberechtigungsschein)?**  
-    Some apartments require a *[[Wohnberechtigungsschein]]*. If you don't have one, you can't live there.
+    Some apartments require a *[[Wohnberechtigungsschein]]*. If you don't have one, you can't live there, so you must exclude them from your search.
 - [ ] **Internet access**  
     Some buildings can't get a fast internet connection. Use [this tool](https://www.check24.de/dsl/verfuegbarkeit/) to see your internet options.
 - [ ] **Pets**  
@@ -223,8 +222,8 @@ When you find an apartment you like, contact the landlord and ask to visit the a
 
 Write a short message that includes...[^30]
 
-- [ ] Your occupation ⭐️
-- [ ] Your salary ⭐️
+- [ ] Your occupation
+- [ ] Your salary
 - [ ] Your name (and doctor title)
 - [ ] Your age
 - [ ] Your residence status: residence permit, permanent residence, EU citizenship
@@ -272,7 +271,7 @@ In order, they prefer...[^32]
 Landlords prefer...
 
 - **A good income**  
-    Your rent should be 20% to 40% of your monthly [net income](/glossary/Netto%20income).[^34] Your income can't be too low or too high.[^48] Two incomes are better than one.
+    Your rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34] Your income can't be too low or too high.[^48] Two incomes are better than one.
 - **A stable job**  
     If you are in your [probation period](/glossary/Probezeit), it's a little harder to find an apartment.[^36] If you are self-employed, it's much harder.[^17] If you are unemployed, it's impossible.
 - **A good first impression**  
@@ -425,7 +424,7 @@ With a regular apartment...
 - **You save money in the long term**  
     You must buy everything for the apartment, but the rent is much lower. Over time, you save a lot of money.
 
-Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 40% of your monthly [net income](/glossary/Netto%20income).[^34]
+Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34]
 
 **[Look for a regular apartment ↑](#look-for-apartments)**
 
@@ -491,7 +490,7 @@ The *Nebenkosten* are not a fixed cost, because you don't know how much water an
 
 ### Nothing is included
 
-Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink,[^3] but not in the rest of Germany.
+Apartments usually come without a washing machine, curtains, light fixtures or a furnished kitchen (stove, fridge, sink). You must buy your own, or buy them from the previous tenant. In Berlin, apartments *must* include a stove and a sink if you request it,[^3] but not in the rest of Germany.
 
 [Furnished apartments](#short-term-and-furnished-apartments) come with the kitchen, furniture and everything you need, but they are much more expensive.
 
@@ -536,7 +535,7 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^10]: [Reddit](https://old.reddit.com/r/berlin/comments/12hmny9/w%C3%BCrdet_ihr_euren_titel_bei_der_wohnungssuche/) (2023)
 [^11]: Nerea Lopez (March 2024)
 [^12]: [furnishedinside.com](https://www.furnishedinside.com/dachgeschosswohnung)
-[^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/comment/gzdee8d/?utm_source=reddit&utm_medium=web2x&context=3)
+[^13]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/nkk7hs/comment/gzdee8d/?context=3)
 [^14]: [morgenpost.de](http://web.archive.org/web/20220426082551/https://www.morgenpost.de/berlin/article129650925/Kriminalitaet-in-Berlin-So-gefaehrlich-ist-Ihr-Kiez.html?config=interactive), [kriminalitaetsatlas.berlin.de](https://www.kriminalitaetsatlas.berlin.de/K-Atlas/atlas.html)
 [^15]: [interaktiv.morgenpost.de](https://interaktiv.morgenpost.de/laermkarte-berlin/), [Berlin noise map](https://www.berlin.de/umweltatlas/verkehr-laerm/laermbelastung/2022/karten/artikel.1305256.php), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/og558q/strong_noise_from_tram_line/)
 [^16]: [youtu.be](https://youtu.be/zxjJYEQLLiA?t=573)
@@ -549,7 +548,7 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/y4kjgd/are_these_finders_fee_apartment_seekers_annoying/isejkni/) (2023)
 [^24]: [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd) (2023), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (2023)
 [^25]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024)
-[^26]: [Merkur.de](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=K%C3%B6ln%20%E2%80%93-,20%20minuten,-.%20So%20kurz%20ist), [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd#:~:text=within%20minutes) (2024), [Reddit](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?utm_source=reddit&utm_medium=web2x&context=3) (2021), [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
+[^26]: [Merkur.de](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=K%C3%B6ln%20%E2%80%93-,20%20minuten,-.%20So%20kurz%20ist), [FT](https://www.ft.com/content/83316182-2f25-4006-99e6-b567fd94e5fd#:~:text=within%20minutes) (2024), [Reddit](https://www.reddit.com/r/berlin/comments/n40smo/comment/gww0wzd/?context=3) (2021), [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
 [^27]: [Reddit](https://www.reddit.com/r/berlin/comments/o6y1a2/comment/h2yuurr/) (2021)
 [^28]: Nerea Lopez (March 2024)
 [^29]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=Dauer%3A%201%3A06h-,personlicher%20eindruck%20und%20einkommen%20sind%20am%20wichtigsten,-Vermieter%3Ainnen%20sind), Nerea Lopez (March 2024)
@@ -580,3 +579,4 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^54]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^55]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^56]: Padcha, Thai Embassy in Berlin (March 2024)
+[^57]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (April 2024)

@@ -60,7 +60,7 @@ If you are over 45 years old, you must have...[^43]
 
 If you can't get a work visa, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
-- **⭐ [[Blue Card]]**  
+- **[[Blue Card]]**{% include '_blocks/recommended.html' %}  
     For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. The Blue Card is better than the work visa: you get it faster, and you can get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.

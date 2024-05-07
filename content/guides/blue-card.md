@@ -59,7 +59,7 @@ You do not need a university degree if...[^31]
 
 If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
-- **[Work visa](/glossary/Work%20Visa)** ⭐️  
+- **[Work visa](/glossary/Work%20Visa)**{% include '_blocks/recommended.html' %}  
     No salary requirement. No university degree required. In some cases, you might need professional training. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
@@ -146,7 +146,7 @@ While you wait for your *Ausländerbehörde* appointment, you should also...
 
 You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbehörde]]* appointment. It takes 15 minutes.
 
-**[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index)** - berlin.de
+**[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index?lang=en)** - berlin.de
 
 It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, Mastercard or PayPal, but not with cash or [[Girocard]].[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 

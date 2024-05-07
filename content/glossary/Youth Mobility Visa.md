@@ -1,7 +1,8 @@
 ---
 Title: What is a Youth Mobility Visa?
 German_term: Youth Mobility Visa
-English_term: 
+English_term: Youth Mobility Visa
+ssml: <voice language="en-GB">Youth mobility visa</voice>
 Description: This residence permit allows citizens of certain countries to work in Germany for up to 1 year.
 Date_created: 2019-07-13
 Related_guides:

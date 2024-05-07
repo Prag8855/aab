@@ -12,7 +12,6 @@ Related_places:
     places/rodenbergstraße-6.md
     places/anja-benesch.md
     places/individual-therapy-berlin-ghazaleh-bailey.md
-    places/dipl-psych-monika-mitchell.md
     places/carrie-argent.md
     places/the-living-body-julianne-appel-opper.md
     places/frau-dipl-psych-heidi-hooper-amri.md
@@ -133,13 +132,13 @@ They are not covered by public health insurance.
 
 ## How hard is it to find a psychotherapist?
 
-**It's very hard.**  If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), it's harder, because many therapists only accept private health insurance and self-pay.[^0] Many therapists are too busy, and don't accept new clients. If you are lucky, it takes a week. If you are not lucky, it can take months.
+**It's really hard.** If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), it's harder, because most therapists only accept private health insurance and self-pay.[^0]
 
 ## How much does psychotherapy cost?
 
 In Berlin, it costs around 100€ per hour.[^0] Group therapy is usually cheaper.
 
-**If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, find a therapist that accepts public insurance. Your insurance will cover the therapy. You don't have to pay anything.
+**If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, find a therapist that accepts public insurance. You won't have to pay anything. Ask your insurance company to recommend a therapist. Few therapists accept public insurance, so you might need to pay for a private therapist.
 
 **If you have [private health insurance](/glossary/private%20Krankenversicherung)**, your insurance will usually refund the costs. Check with your health insurer first, just to be sure.
 
@@ -167,15 +166,27 @@ These directories help you find English-speaking therapists:
 
 **Your employer** and **your university** might give you access to psychotherapy. It could be easier than finding a therapist yourself.
 
+**Your health insurance** can suggest a therapist that they cover.
+
+**Your [[Hausarzt]]** can refer you to a therapist. It might be faster.
+
 These resources can also help:
 
 - **[Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)** - Emergency help, 24/7, also in English
 - [StudentenWERK counselling services](https://www.stw.berlin/en/counselling/psychologic-counselling/) - Counselling for students
-- [Schwulenberatung Berlin](https://schwulenberatungberlin.de/about-us/) - Counselling for LGBTQ people
-- [Frauentreffpunkt](https://skf-berlin.de/offene-sozialarbeit/anti-gewalt-bereich/frauentreffpunkt-gegen-haeusliche-gewalt/) - English, Spanish and German counselling for women who are victims of domestic violence
-- [GLADT](https://gladt.de/en/counseling/) - Help for people of colour and LGBTQ people
-- [Vista Berlin](https://vistaberlin.de/sprachen/english/) - Help for people with alcohol or drug addiction
-- [Mental State Berlin](https://www.facebook.com/groups/1501180583530755) - Facebook group about mental health in Berlin
+- [Frauentreffpunkt](https://skf-berlin.de/offene-sozialarbeit/anti-gewalt-bereich/frauentreffpunkt-gegen-haeusliche-gewalt/) - For female victims of domestic violence
+- [Vista Berlin](https://vistaberlin.de/sprachen/english/) - For alcohol or drug addiction
+
+### For LGBTQ+ people
+
+- [GLADT](https://gladt.de/en/counseling/) - For people of colour and LGBTQ people
+- [Lesbian Counselling Center](https://lesbenberatung-berlin.de/en/about-us)
+- [MANEO](https://www.maneo.de/en/home/) - For victims of violence against gays
+- [Schwulenberatung Berlin](https://schwulenberatungberlin.de/about-us/)
+
+### Communities and self-help
+
+- [Mental State Berlin](https://www.facebook.com/groups/1501180583530755) - Facebook group about mental health
 
 ## Emergency help
 

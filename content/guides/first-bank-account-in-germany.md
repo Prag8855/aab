@@ -122,7 +122,7 @@ These banks let you use any ATM for free:
 
 ### Bank with free withdrawals on their ATM network
 
-Some banks have free ATM withdrawals, but only if you use their ATM network. In my experience, this is annoying. You sometimes need to walk an extra 10 minutes to find a free ATM.
+Some banks let you withdraw money for free, but only if you use their ATMs. I don't recommend those banks. You sometimes need to walk an extra 10 minutes to find a free ATM. This is why I closed my Commerzbank account.
 
 - **[1822direkt](/out/1822direkt)** - 4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
 - **[Berliner Sparkasse](/out/sparkasse)** - Free withdrawals from Sparkasse ATMs (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]

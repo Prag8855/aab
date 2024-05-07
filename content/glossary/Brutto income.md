@@ -1,6 +1,6 @@
 ---
 Title: What is your Brutto income? (Germany)
-German_term: Brutto income
+German_term: Bruttoeinkommen
 English_term: Gross income
 Description: Your income before taxes and other deductions.
 Date_created: 2020-03-05

@@ -1,32 +1,34 @@
 ---
 Title: How to choose liability insurance in Germany
 Short_title: How to choose liability insurance
-Description: All about the second most important type of insurance in Germany: private liability insurance (Haftpflichtversicherung)
+Description: What liability insurance covers, why you must have it, and how to pick the best German liability insurance.
 Date_created: 2018-09-28
 ---
 
-If you cause an accident in Germany, you can be sued by the victim. If the victim wins, you will have to pay reparations.[^0] This could easily ruin you.
+Liability insurance (*[[Haftpflichtversicherung]]*) is **the most important insurance** after health insurance. Most Germans have it.
 
-Liability insurance (*[[Haftpflichtversicherung]]*) protects you from such damage claims. If you cause an accident, your insurance company covers the legal fees and the reparations.
+This guide explains how German liability insurance works, what it covers, and how to choose the best liability insurance.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## What does liability insurance cover?
 
+Liability insurance covers **damage and injuries to other people**. For example, if your washer breaks, floods your neighbour's apartment, and causes thousands of euros of damage. The cost of repairs could bankrupt you, but your liability insurance pays for it.
+
 ### Private liability insurance
 
-Personal liability insurance (*Privathaftpflichtversicherung*) protects you from most claims against you:[^1]
+Personal liability insurance (*Privathaftpflichtversicherung*) covers...[^1]
 
 - **Damage you cause to the apartment you rent** (doors, floors and walls, but not your own things)  
-    For example, if your washing machine breaks, floods the apartment you rent, and destroys the wooden floor, the insurance company will pay the repairs. It covers most apartment repairs when you [move out](/guides/moving-out).
+    For example, if your washing machine breaks, floods the apartment you rent, and destroys the wooden floor, the insurance company covers the repairs. It covers most apartment repairs when you [move out](/guides/moving-out).
 - **Damage you cause to other people's property**  
     If you accidentally send someone a virus that breaks their computer, or scratch someone's car with your bicycle,[^2] they can sue you for damages. The insurance company will pay for the repairs and the legal fees.
 - **Damage caused by your spouse and children**  
     Liability insurance covers your family too, except your children under 7 years old.[^3] Your children over 6 years old are covered until they finish their studies.[^4]
 - **Injuries caused to other people**  
-    If you accidentally trip someone and they break their leg, they can sue you for damages. The insurance company will pay the legal fees and the reparations.
+    If you accidentally trip someone and they break their leg, or you kick a ball in someone's face at the park. The insurance company will pay the legal fees and the reparations.
 
-Some insurance policies will cover these accidents:
+Some insurance policies also cover...
 
 - **Lost keys**  
     If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some leases require liability insurance that covers lost keys, but that's not legal.[^28]
@@ -37,16 +39,16 @@ Some insurance policies will cover these accidents:
 - **Other people's insurances not paying you** (*Forderungsausfall*)  
     If someone else hurts you, and they cannot pay the damages, your liability insurance will pay you.
 
-Most insurance policies do not cover these accidents:
+Most insurance policies do not cover...
 
 - **Damage to your own things**  
-    The things you have in your apartment are not covered by the liability insurance. If you want to insure your furniture, your electronics or your bicycle, you need a household insurance (*[[Hausratversicherung]]*).[^11] Liability insurance covers damage to a rented apartment, but not to an apartment that you own. It still covers damage to your neighbours' apartments.
+    The things you have in your apartment are not covered by the liability insurance. To insure them, get household insurance (*[[Hausratversicherung]]*).[^11] Liability insurance does not cover damage to an apartment you that you rent, but not to an apartment that you own. It covers damage to your neighbours' apartments.
 - **Damage caused by your business activities**  
-    If you are a freelancer or a business owner, you will need professional liability insurance (*Betriebshaftpflichtversicherung*) to cover your business activities.
+    If you are a freelancer or a business owner, only professional liability insurance (*Betriebshaftpflichtversicherung*) to cover your business activities.
 - **Damage caused by children under 7 years old**  
     Your young children are not covered by most liability insurances.[^3] You must pay more for this. Your children over 6 years old are covered by your liability insurance until they finish their studies.[^4]
 - **Damage or injuries caused by your pets**  
-    This is covered by a separate dog liability insurance (*[[Hundehaftpflichtversicherung]]*). It's required for all dog owners in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia.
+    For this, you need dog liability insurance (*[[Hundehaftpflichtversicherung]]*). It's required for all dog owners in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia.
 - **Car accidents**  
     If you drive a car, damage to other people and their cars is covered by your [car insurance](/guides/car-insurance-germany), not by your personal liability insurance.
 - **Legal disputes**  
@@ -66,9 +68,9 @@ Most insurance policies do not cover these accidents:
 
 It usually costs **less than 5€ per month**, or around 60€ per year. You can pay less if you get multiple insurances from the same company.
 
-## How to pick liability insurance
+## The best liability insurance
 
-If you feel lazy, **just choose [Feather](/out/feather-haftpflicht) or [Getsafe](/out/getsafe-haftpflicht).** Both options are fine. They speak English. They have simple, clear contracts in English. I have my liability insurance with Feather since 2022.
+If you feel lazy, **choose [Feather](/out/feather-haftpflicht) or [Getsafe](/out/getsafe-haftpflicht).** Both options are fine. They both speak English, cover lost keys, and have contracts in English. I have my liability insurance with Feather since 2022.
 
 To choose liability insurance yourself...
 
@@ -97,7 +99,7 @@ Your liability insurance must cover you well. This is the minimum it should cove
 
 Use [this tool](https://schnellcheck.test.de/haftpflichtversicherung/) to check if your liability insurance covers these things.
 
-I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys#replacing-lost-keys-in-germany) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most liability insurances cover this.
+I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys#replacing-lost-keys-in-germany) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most insurers cover lost keys, including [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht).
 
 If you often rent vehicles, you can pay around 1€/month more to cover rented vehicles. This covers the car rental company's deductible if you damage the car.
 
@@ -114,17 +116,18 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 - **Choose a higher deductible** (*[[Selbstbeteiligung]]*). If your deductible is higher, your insurance is cheaper. The price difference is small, so it's better to pay more, and have a small deductible.[^23]
 - **Declare it on your [tax return](/glossary/Steuererklärung)**. Liability insurance payments are [tax-deductible](/glossary/steuerlich%20absetzbar).[^24]
 
-### English-speaking insurers
+### Liability insurance for English speakers
 
-If you don't speak German, pick an English-speaking insurer. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English.
+These insurers speak English and sell liability insurance:
 
-You must understand your insurance contract. It's important. [Feather](/out/feather-haftpflicht) has most of its contracts in English. [Getsafe](/out/getsafe-haftpflicht) only has the summary in English, not the contract.
+- **[Feather](/out/feather-haftpflicht)** - This is the one I have.
+- **[Getsafe](/out/getsafe-haftpflicht)**
 
-You can also talk to an English-speaking insurance broker. They will help you pick the best liability insurance. Choose an *independent* insurance broker. They will recommend products from different insurers. For liability insurance, it's less important.
+Both companies have English-speaking support, and send documents in English. Feather's insurance contract is also in English.
 
 ### My personal choice
 
-I have liability insurance with [Feather](/out/feather-haftpflicht), but I have not used it yet. I chose them for a few reasons:
+I have liability insurance from [Feather](/out/feather-haftpflicht), but I have not used it yet. I chose them for a few reasons:
 
 - Their liability insurance meets all the requirements above.
 - They speak English. Even their insurance contract is in English. I like the convenience.
@@ -199,9 +202,9 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 [^4]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=familien%20brauchen%20nur%20einen%20vertrag)
 [^5]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/75gkrz/apartment_backup_key_lost_consequences/)
 [^6]: [signal-iduna.de](https://www.signal-iduna.de/haftpflichtversicherung/privathaftpflicht/mietsachschaeden-blog.php#:~:text=Sie%20mieten%20eine-,moblierte%20wohnung,-%3F%20Gemietete%20und%20geliehene)
-[^7]: [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=hotels%20besuchst%20oder%20ferienwohnungen%20mietest)
-[^8]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=ob%20die%20versicherung%20zahlt%2C%20wenn%20eine%20geliehene%20sache%20kaputt%C2%ADgeht), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=geliehenes%20mitversichern)
-[^9]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=den%20ich%20bei%20einem%20umzug%20eines%20freundes%20verursache), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung?utm_source=pocket_mylist#:~:text=deine%20Firmenschl%C3%BCssel%20verlierst.-,gefalligkeitsschaden,-Als%20Gef%C3%A4lligkeitssch%C3%A4den%20gelten)
+[^7]: [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung#:~:text=hotels%20besuchst%20oder%20ferienwohnungen%20mietest)
+[^8]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=ob%20die%20versicherung%20zahlt%2C%20wenn%20eine%20geliehene%20sache%20kaputt%C2%ADgeht), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung#:~:text=geliehenes%20mitversichern)
+[^9]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=den%20ich%20bei%20einem%20umzug%20eines%20freundes%20verursache), [versicherungenmitkopf.de](https://www.versicherungenmitkopf.de/private-haftpflichtversicherung#:~:text=deine%20Firmenschl%C3%BCssel%20verlierst.-,gefalligkeitsschaden,-Als%20Gef%C3%A4lligkeitssch%C3%A4den%20gelten)
 [^10]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=viele%20neuere%20tarife%20springen%20auch%20bei%20gefal%C2%ADligkeits%C2%ADschaden%20ein)
 [^11]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^12]: [geldsparen.de \(archived\)](https://web.archive.org/web/20170628040748/https://www.geldsparen.de/haftpflichtversicherung/illegale-downloads-urheberrechtsverletzungen.php)

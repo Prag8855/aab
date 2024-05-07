@@ -73,11 +73,11 @@ If you fill the form yourself, use these instructions:
     - **Religionsgesellschaft**: Enter the religious community you are part of. This information is used to collect the [church tax](/glossary/Kirchensteuer).
     - **Staatsangehörigkeiten**: Your nationality. For example, "Frankreich" or "Französisch". You can enter multiple nationalities.
     - **Ordens- Künstlername**: Religious name, artist's name or pseudonym. You can leave this field empty.
-- **Familienstand:** Your civil status. Here are some of the options:
-    - Single: *Ledig*
-    - Married: *Verheiratet*
-    - Widowed: *Verwitwet*
-    - Civil union: *in eingetragener Lebenspartnerschaft*
+- **Familienstand:** The civil status of person #1 and person #2. Here are the possible answers:
+    - Single (*Ledig* or *LD*)
+    - Married (*Verheiratet* or *VH*) - Write the place and date of your marriage.
+    - Widowed (*Verwitwet* or *VW*)
+    - Civil union (*Lebenspartnerschaft* or *LP*)
 - **Dokumente**: During your *Anmeldung* appointment, you must prove your identity. You need your passport or *[[Personalausweis]]*. This section describes your ID document.
     - **Art**: The type of document: "RP" for a passport, "PA" for a *[[Personalausweis]]*, or "KP" for a children's passport. You can use a *Personalausweis* from another EU country.
     - **Name, Vorname**: The last name and the first name of the person this document belongs to.

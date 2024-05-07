@@ -2,6 +2,7 @@
 Title: What was Hartz IV?
 German_term: Hartz IV
 English_term: Social benefits
+ssml: Hartz 4
 Description: A nickname for ALG II social benefits. It was replaced by Bürgergeld.
 Date_created: 2018-07-31
 ---

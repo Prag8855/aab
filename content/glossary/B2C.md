@@ -2,6 +2,7 @@
 Title: What does B2C mean?
 German_term: B2C
 English_term: Business to consumer
+ssml: <voice language="en-GB">B2C</voice>
 Description: Business done directly with consumers, and not other businesses.
 Date_created: 2022-10-20
 Related_guides:

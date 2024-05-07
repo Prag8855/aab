@@ -2,6 +2,7 @@
 Title: What is fake self-employment (Scheinselbstständigkeit)?
 German_term: Scheinselbstständigkeit
 English_term: Fake self-employment
+ssml: Scheinselbständigkeit
 Description: When you are hired as a freelancer, but work like an employee.
 Date_created: 2018-07-31
 Related_guides:

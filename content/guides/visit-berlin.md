@@ -111,7 +111,7 @@ You don't need to rent a car in Berlin. It's easier to use public transit. If yo
 
 ## What to see and do in Berlin
 
-There are many lists of things to see in Berlin. See [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https://en.wikivoyage.org/wiki/Berlin) and [Lonely Planet](https://www.amazon.com/Lonely-Planet-Berlin-Travel-Guide/dp/1786572257/ref=as_li_ss_tl?ie=UTF8&qid=1533201606&sr=8-1&keywords=lonely+planet+berlin&linkCode=sl1&tag=kickawishl-20&linkId=0d121d328aea2481af56b20ad0bd7294&language=en_US).
+Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https://en.wikivoyage.org/wiki/Berlin) and [Lonely Planet](https://www.amazon.com/Lonely-Planet-Berlin-Travel-Guide/dp/1786572257/ref=as_li_ss_tl?ie=UTF8&qid=1533201606&sr=8-1&keywords=lonely+planet+berlin&linkCode=sl1&tag=kickawishl-20&linkId=0d121d328aea2481af56b20ad0bd7294&language=en_US). To see what's happening in Berlin, check [tipBerlin](https://www.tip-berlin.de/) and [Mit Vergnügen](https://mitvergnuegen.com/) (in German).
 
 ### Main attractions
 
@@ -154,7 +154,9 @@ There are many lists of things to see in Berlin. See [visitBerlin.de](https://ww
 
 ### Events
 
-You can find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin) and [Resident Advisor](https://ra.co/events/de/berlin). You can find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php).
+Find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin), and [Berlin Events Weekly](https://www.berlineventsweekly.com/).
+
+Find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php). [@berlingig](https://t.me/berlingigs) is a Telegram channel that posts cheap concerts every week.
 
 - **[Berlinale film festival](https://www.berlinale.de/en/home.html)** - February  
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
@@ -299,7 +301,7 @@ In Germany, tipping is optional. In general, people tip up to 10% for good servi
 ### Things you should not do
 
 - **Do not walk on the bike paths**  
-    Look down, and make sure you're not blocking a bicycle path. If you walk on the bike path, cyclists will ring their bell, scream at you or even bump into you.
+    The bicycle path is usually a 1 meter wide red brick path on the sidewalk. If you walk on the bike path, cyclists will ring their bell, shout at you or even bump into you.
 - **Do not put your glass bottles in the trash**  
     People collect empty bottles and [return them for money](/guides/pfand-bottles). Don't make people search for bottles in the trash. Put your empty bottles next to the bin. In some parks, bottle collectors (*Flaschensammler*) will walk around and ask for your empty bottles.
 - **Do not joke about Nazis and the war**  
@@ -333,8 +335,8 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^6]: [berlin.de](https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/ordnung/strassenverkehr-parken/artikel.217586.php), [hotel.de](https://www.hotel.de/blog/parken-in-berlin/)
-[^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/c02948/why_is_nightlife_the_way_it_is/), [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
-[^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?utm_source=reddit&utm_medium=web2x&context=3)
-[^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt0k4we/?utm_source=reddit&utm_medium=web2x&context=3)
+[^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/c02948/why_is_nightlife_the_way_it_is/), [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?context=3)
+[^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?context=3)
+[^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt0k4we/?context=3)
 [^10]: [unternehmen.lidl.de](https://unternehmen.lidl.de/pressreleases/2020/200609_kunden-wlan), [kaufda.de](https://www.kaufda.de/insights/wlan-bei-lidl-rewe-aldi-co-welche-supermaerkte-und-discounter-bieten-den-service-an/)
 [^11]: [expatica.com](https://www.expatica.com/de/living/household/german-sim-card-244240/#can), [traveltomtom.net](https://www.traveltomtom.net/destinations/europe/germany/best-prepaid-german-sim-card-for-tourists), [teltarif.de](https://www.teltarif.de/prepaid-registrierung-wohnungslos-ohne-adresse/news/77928.html), [prepaid-data-sim-card.fandom.com](https://prepaid-data-sim-card.fandom.com/wiki/Germany#Activation_and_registration)

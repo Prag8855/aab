@@ -1,0 +1,115 @@
+from markdown.extensions import Extension
+from markdown.extensions.smarty import SubstituteTextPattern
+from markdown.preprocessors import Preprocessor
+from markdown.treeprocessors import InlineProcessor, Treeprocessor
+from xml.etree import ElementTree
+import re
+
+
+class JinjaCurrencyPreprocessor(Preprocessor):
+    """
+    Wraps jinja template variables followed with "€" in a <span class="currency"> tag
+    """
+    JINJA_RE = re.compile('({{([^}]+)}})€', re.MULTILINE | re.DOTALL)
+
+    def run(self, lines):
+        text = "\n".join(lines)
+
+        def replace_match(match):
+            placeholder = self.md.htmlStash.store(f'<span class="currency">{match[1]}</span>€')
+            return placeholder
+
+        return re.sub(self.JINJA_RE, replace_match, text).split("\n")
+
+
+class CurrencyExtension(Extension):
+    """
+    Wraps currency in a <span class="currency"> tag
+    """
+    def extendMarkdown(self, md):
+        inline_processor = InlineProcessor(md)
+
+        # 1,234.56€
+        currencyPattern = SubstituteTextPattern(
+            r'((\d+(,\d{3})*(\.\d{2})?))€',
+            ('<span class="currency">', 1, '</span>€'), md
+        )
+        inline_processor.inlinePatterns.register(currencyPattern, 'currency', 65)
+        md.treeprocessors.register(inline_processor, 'currency', 2)
+
+        md.preprocessors.register(JinjaCurrencyPreprocessor(md), 'jinja-cur', 26)
+
+
+class TypographyExtension(Extension):
+    """
+    Minor typographic improvements
+    """
+    def extendMarkdown(self, md):
+        inline_processor = InlineProcessor(md)
+
+        sectionPattern = SubstituteTextPattern(r'§ ', ('§&nbsp;',), md)
+        inline_processor.inlinePatterns.register(sectionPattern, 'typo-section', 10)
+
+        arrowPattern = SubstituteTextPattern(r' ➞', ('&nbsp;➞',), md)
+        inline_processor.inlinePatterns.register(arrowPattern, 'typo-arrow', 10)
+
+        ellipsisPattern = SubstituteTextPattern(r'\.\.\.', ('&hellip;',), md)
+        inline_processor.inlinePatterns.register(ellipsisPattern, 'typo-ellipsis', 10)
+
+        ellipsisPattern = SubstituteTextPattern(r' - ', ('&nbsp;–&nbsp;',), md)
+        inline_processor.inlinePatterns.register(ellipsisPattern, 'typo-emdash', 10)
+
+        squaredPattern = SubstituteTextPattern(r'\^2\^', ('²',), md)
+        inline_processor.inlinePatterns.register(squaredPattern, 'squared', 65)
+
+        cubedPattern = SubstituteTextPattern(r'\^3\^', ('³',), md)
+        inline_processor.inlinePatterns.register(cubedPattern, 'cubed', 65)
+
+        md.treeprocessors.register(inline_processor, 'typography', 2)
+
+
+class WrappedTableProcessor(Treeprocessor):
+    """
+    Wrap tables in a <div> to allow scrollable tables on mobile.
+    """
+    def wrap_table(self, table, parent):
+        wrapper = ElementTree.Element('div', attrib={
+            'class': self.md.getConfig('wrapper_class')
+        })
+        wrapper.append(table)
+
+        for index, element in enumerate(parent):
+            if element == table:
+                parent[index] = wrapper
+                wrapper.tail = table.tail
+                return
+
+    def run(self, root):
+        parent_map = {}
+        for parent in root.iter():
+            for child in parent:
+                parent_map[child] = parent
+
+        for table in root.iter('table'):
+            child = table
+            parents = []
+            while parent := parent_map.get(child):
+                parents.append(parent)
+                child = parent
+
+            self.wrap_table(table, parents[0])
+
+
+class WrappedTableExtension(Extension):
+    """
+    Tables are wrapped in a <div>
+    """
+    def __init__(self, **kwargs):
+        self.config = {
+            "wrapper_class": ['', 'CSS class to add to the <div> element that wraps the table'],
+        }
+        super().__init__(**kwargs)
+
+    def extendMarkdown(self, md):
+        if self.getConfig('wrapper_class'):
+            md.treeprocessors.register(WrappedTableProcessor(self), 'wrappedtable', 0)
