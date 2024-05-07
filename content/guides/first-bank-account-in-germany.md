@@ -137,7 +137,7 @@ To apply for a [student visa](/glossary/Student%20visa), you usually need a proo
 You can open a blocked account with...
 
 - **[Coracle](/out/coracle)**
-- **[Expatrio](/out/expatrio-sperrkonto)**
+- **[Expatrio](/out/expatrio)**
 - **[Fintiba](/out/fintiba)**
 - **[Sparkasse](/out/sparkasse)** - Only at some branches[^41]
 - **[Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html)**, if you are Indian.[^43]
