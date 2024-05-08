@@ -7,7 +7,6 @@ Date_created: 2020-03-10
 Related_guides:
     guides/first-bank-account-in-germany.md
     guides/banking.md
-    guides/german-banks-no-address.md
 ---
 
 *Postident* lets you verify your identity at the post office. You might need it to [open a bank account](/guides/first-bank-account-in-germany) if verification by video call does not work.

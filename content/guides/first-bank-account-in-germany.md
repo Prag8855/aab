@@ -21,7 +21,7 @@ An expat-friendly bank...
 - Lets you open an account quickly
 - Accepts foreign passports and documents
 - Does not ask for a [residence permit](/glossary/Aufenthaltstitel)
-- Does not ask for a [registration certificate](/glossary/Anmeldebestätigung)
+- Does not ask for an *[[Anmeldung]]* and [registration certificate](/glossary/Anmeldebestätigung)
 
 These banks are **expat-friendly**:
 
@@ -51,7 +51,7 @@ These banks are **not expat-friendly**:
 - **[Deutsche Bank](/out/deutsche-bank)**  
     It takes too long to open an account.[^10] They mostly speak German. Online banking, customer service and some documents are in English.[^7] You might need a [residence permit](/glossary/Aufenthaltstitel).[^54]
 - **[Commerzbank](/out/commerzbank)**  
-    It takes too long to open an account.[^9] You need a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6] Basic online banking is in English, everything else is in German.
+    It takes too long to open an account.[^9] You need a [registration certificate](/glossary/Anmeldebestätigung) and a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6] Basic online banking is in English, everything else is in German.
 - **[ING](/out/ing)**  
     It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^15] They only speak German.
 - **[DKB](/out/dkb)**  
@@ -144,6 +144,21 @@ Deutsche Bank does not offer blocked accounts anymore.[^42]
 
 Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
 
+## Banks that don't require an Anmeldung
+
+Many banks ask for a [registration certificate](/glossary/Anmeldebestätigung). You only get it after you [find an apartment](/guides/find-a-flat-in-berlin) and [register your address](/glossary/Anmeldung). If you just moved to Germany, this is not possible.
+
+These banks don't require an *[[Anmeldung]]* or a registration certificate:
+
+- **[N26](/out/n26)**{% include '_blocks/recommended.html' %}
+- **[bunq](/out/bunq)**{% include '_blocks/recommended.html' %}
+- **[Revolut](/out/revolut)**{% include '_blocks/recommended.html' %}
+- **[Wise](/out/wise-account)**
+- **[Deutsche Bank](/out/deutsche-bank)**
+- **[DKB](/out/dkb)**[^4]
+- **[Monese](/out/monese)**
+- **[Vivid](/out/vivid)**
+
 ## Banks in other EU countries
 
 You don't need a German bank. You can use a bank in any EU country.
@@ -168,15 +183,16 @@ Your money is insured up to 100,000€ in all EU countries.[^8] Your money is sa
 [^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399)
-[^6]: [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png)
-[^7]: [reddit.com](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
+[^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
+[^6]: [Twitter](https://twitter.com/rednafi/status/1775817482265092341) (2024), [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png) (2022), [Twitter](https://twitter.com/jecfish/status/1602254120261410818), [Twitter](https://twitter.com/Cankatzkan/status/1587370017066213376) (2022)
+[^7]: [Reddit](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
 [^8]: [European Banking Authority](https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/depositor-protection/deposit-guarantee-schemes) (2024)
 [^9]: [Twitter](https://twitter.com/rednafi/status/1775817482265092341) (2024), [Twitter](https://twitter.com/jackiewmacharia/status/1776516950786466154) (2024)
 [^10]: [Twitter](https://twitter.com/toolroom_knight/status/1775805302777983248) (2024)
 [^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021), [Twitter](https://twitter.com/aboutberlin/status/1777619503502807197) (2024)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
-[^14]: [reddit.com](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [reddit.com](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
-[^15]: [reddit.com](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592), [Twitter](https://twitter.com/baykara__/status/1425369761504968706)
+[^14]: [Reddit](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [Reddit](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
+[^15]: [Reddit](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592), [Twitter](https://twitter.com/baykara__/status/1425369761504968706)
 [^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
 [^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)

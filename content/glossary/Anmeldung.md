@@ -8,7 +8,6 @@ Related_guides:
     guides/anmeldung-in-english-berlin.md
     tools/appointment-finder.md
     guides/berlin-burgeramt-appointment.md
-    guides/german-banks-no-address.md
     guides/find-a-flat-in-berlin.md
     guides/german-tax-id-steuernummer.md
     guides/abmeldung-deregister-in-berlin.md

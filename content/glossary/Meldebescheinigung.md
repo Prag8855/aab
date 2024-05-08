@@ -8,7 +8,6 @@ Related_guides:
     guides/moving-to-berlin.md
     guides/anmeldung-in-english-berlin.md
     guides/replacement-meldebescheinigung.md
-    guides/german-banks-no-address.md
     guides/anmeldung-in-english-berlin.md
     guides/moving-in.md
 ---

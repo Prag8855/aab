@@ -79,13 +79,13 @@ N26 is still the only German bank that operates 100% in English. Most German ban
 
 ### There are other options
 
-N26 is fine, but you should still look at [the other options](/guides/first-bank-account-in-germany).
+N26 is fine, but you should still look at the other options.
 
-[ING](/out/ing), [DKB](/out/dkb), [Comdirect](/out/comdirect) and [bunq](/out/bunq) don't have ATM fees. [Many banks](/guides/german-banks-no-address) let you open an account without an *[[Anmeldung]]*. [bunq](/out/bunq) offers full English support. [Deutsche Bank](/out/deutsche-bank) offers limited English support.
+**[Best German banks for expats ➞](/guides/first-bank-account-in-germany)**
+
+[ING](/out/ing), [DKB](/out/dkb), [Comdirect](/out/comdirect) and [bunq](/out/bunq) don't have ATM fees. [Many banks](/guides/first-bank-account-in-germany#banks-that-dont-require-an-anmeldung) let you open an account without an *[[Anmeldung]]*. [bunq](/out/bunq) offers full English support. [Deutsche Bank](/out/deutsche-bank) offers limited English support.
 
 If I had to choose another bank, I would choose [ING](/out/ing) or [DKB](/out/dkb). If I didn't speak German, I would choose [bunq](/out/bunq).
-
-**[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
 
 ## What do I dislike about N26?
 
@@ -224,7 +224,6 @@ Is N26 the best bank for you? It depends. There are [many other options](/guides
 - If you want an online bank with low fees, there is also [comdirect](/out/comdirect), [DKB](/out/dkb), [ING](/out/ing) and [bunq](/out/bunq).
 - If you don't speak German, there is also [bunq](/out/bunq), [Wise](/out/wise-account), [Monese](/out/monese), and [Deutsche Bank](/out/deutsche-bank).
 - If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](/out/sparkasse).
-- If you don't have an *[[Anmeldung]]* yet, there are [many ways to open a bank account](/guides/german-banks-no-address).
 - If N26 does not support your passport type, there are [expat-friendly banks](/guides/first-bank-account-in-germany) that support more passport types.
 
 **[Best German banks for expats ➞](/guides/first-bank-account-in-germany)**

@@ -139,8 +139,6 @@ If you don't have a bank account, look at [my comparison of German banks](/guide
 
 **[How to choose a German bank ➞](/guides/first-bank-account-in-germany)**
 
-**[Banks that don't need a registered address ➞](/guides/german-banks-no-address)**
-
 ### Two bank accounts is better
 
 You should have two bank accounts: one for you, and one for your business. If you keep business transactions in a separate account, bookkeeping is easier.

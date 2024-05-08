@@ -12,7 +12,6 @@ Related_guides:
     guides/address-change.md
     guides/replacement-meldebescheinigung.md
     guides/first-bank-account-in-germany.md
-    guides/german-banks-no-address.md
 ---
 
 A registration certificate (*Anmeldebestätigung* or *Meldebestätigung*) proves that you live at a certain address. You get an *Anmeldebestätigung* when you register your address (the *[[Anmeldung]]*). You get it during the appointment.
