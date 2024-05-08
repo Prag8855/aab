@@ -128,11 +128,11 @@ Check the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees of
 
 ### 5. Wait for your tax ID
 
-If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 5 weeks later.[^13] If you don't receive it, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
+If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 5 weeks later.[^13] You can also [get a tax ID without registering your address](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
-You can also [get a tax ID without registering your address](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
+**If you did not get your tax ID** after 2 months, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id). It happens to a lot of people.
 
-![German tax ID letter](/images/tax-id-document-bzst.jpg "You will get a letter with your tax ID")
+![German tax ID letter](/images/tax-id-document-bzst.jpg "You will get your tax ID by post. The letter looks like this.")
 
 ## If you can't register your address
 
