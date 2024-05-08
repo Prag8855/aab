@@ -21,15 +21,17 @@ You don't need a German bank. You can use a bank from any EU country. It makes n
 
 ### Types of bank accounts
 
-Germans usually have 3 bank accounts:
+The **Girokonto** or checking account is your default bank account. You use it to send and receive money. This account pays near 0% interest, so don't keep a lot of money in it. People usually keep around 2,000€ in their *Girokonto*.
 
-- **A current account** (*Girokonto*) to pay for everyday things. It's a bad place to keep a lot of money, because it pays near 0% interest. People usually keep around 2,000€ in their *Girokonto*.
-- **An instant savings account** (*Tagesgeldkonto*) to store money, but keep it easy to access. It pays 1% to 3% interest, and has zero risk.
-- **A trading account** (*Depot*) to invest in stocks and ETFs.
+The **Tagesgeldkonto** or savings account is where you keep your extra money. This account pays up to 4% interest.
 
-When you [start a business](/guides/start-a-business-in-germany), you should also have a separate bank account for your business.
+Use a **Depot** or trading account to invest in stocks and ETFs. This is a popular way to invest money in Germany.
 
-Foreign students might need a blocking account (*Sperrkonto*) to get a residence permit.
+Business owners should open a **business account** for their business. It's optional, but [it's a really good idea](/guides/start-a-business-in-germany#two-bank-accounts-is-better).
+
+Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
+
+The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to 100,000€. Even if the bank closes, you get your money back. Money in your *Depot* account is not insured.[^4]
 
 ## Common payment methods
 
@@ -87,3 +89,4 @@ You can also use a bank in another EU country.
 [^1]: [Twitter](https://twitter.com/aboutberlin/status/1776203137264840763) (April 2024)
 [^2]: [Statista](https://www.statista.com/statistics/972307/germany-payment-cards-share/) (2016 to 2022)
 [^3]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
+[^4]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/risiko-und-einlagensicherung-fragen-und-antworten-zur-geldanlage-5417) (2023)
