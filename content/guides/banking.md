@@ -5,15 +5,19 @@ Description: An introduction to banking, credit cards, savings and bank accounts
 Date_created: 2024-04-10
 ---
 
-This is an introduction to German banking for immigrants. It explains how bank accounts, credit cards and bank transfers work in Germany.
+This guide explains how bank accounts, credit cards and bank transfers work in Germany. It's an introduction to banking for immigrants.
 
-To choose a bank account, read my guide on **[how to choose a bank](/guides/first-bank-account-in-germany)**.
+To open a bank account, read **[how to choose a bank](/guides/first-bank-account-in-germany)**.
+
+{% include "_blocks/tableOfContents.html" %}
 
 ## Bank accounts
 
-In Germany, everyone has the right to a bank account. You need a bank account to get paid by your employer, pay your rent, pay taxes and buy things online. Many things are only paid by [bank transfer](/glossary/SEPA-Überweisung). You should open a bank account as soon as you arrive in Germany.
+Open a bank account as soon as you arrive in Germany. You need one to get paid by your employer, pay your rent, pay taxes and buy things online. Many things are only paid by [bank transfer](/glossary/SEPA-Überweisung).
 
-You can use a bank from another EU country. It will work fine in Germany.
+**[Best banks for expats ➞](/guides/first-bank-account-in-germany)**
+
+You don't need a German bank. You can use a bank from any EU country. It makes no difference.
 
 ### Types of bank accounts
 
