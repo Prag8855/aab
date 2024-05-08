@@ -112,21 +112,21 @@ Some banks charge a fee to get cash from ATMs. It's usually around 7€ per with
 
 These banks let you **use any ATM for free**:
 
-- **[DKB](/out/dkb)** - Free withdrawals from any ATM.[^35]
-- **[ING](/out/ing)** - Free withdrawals from any ATM.[^36] Minimum withdrawal is 50€.
+- **[DKB](/out/dkb)**[^35]
+- **[ING](/out/ing)**[^36] - Minimum withdrawal is 50€.
 - **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
-- **[N26](/out/n26)** - 3 free withdrawals per month. After that, you pay 2€ per withdrawal.
-- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Free withdrawals from Cash Group ATMs (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
+- **[N26](/out/n26)** - 3 free withdrawals per month, then 2€ per withdrawal.
 - **[Wise](/out/wise-account)** - Withdraw up to 200€ per month for free.
 - **[Revolut](/out/revolut)** - Withdraw up to 200€ per month for free.
+- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Use Cash Group ATMs for free (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
 
 These banks only let you **use some ATMs for free**. You might need to walk another 10 minutes to find a free ATM. I don't recommend them.
 
+- **[Berliner Sparkasse](/out/sparkasse)** - Use Sparkasse ATMs for free (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
+- **[Berliner Volksbank](/out/volksbank)** - Use BVR ATMs for free (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
+- **[Commerzbank](/out/commerzbank)** - Use Cash Group ATMs for free (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
+- **[Deutsche Bank](/out/deutsche-bank)** - Use Cash Group ATMs for free (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
 - **[1822direkt](/out/1822direkt)** - 4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
-- **[Berliner Sparkasse](/out/sparkasse)** - Free withdrawals from Sparkasse ATMs (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
-- **[Commerzbank](/out/commerzbank)** - Free withdrawals from Cash Group ATMs (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
-- **[Deutsche Bank](/out/deutsche-bank)** - Free withdrawals from Cash Group ATMs (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
-- **[Berliner Volksbank](/out/volksbank)** - Free withdrawals from BVR ATMs (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
 
 ## Blocked account for students
 
