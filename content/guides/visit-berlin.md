@@ -154,7 +154,7 @@ Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https:/
 
 ### Events
 
-Find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin), and [Berlin Events Weekly](https://www.berlineventsweekly.com/).
+Find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [Rausgegangen](https://rausgegangen.de/en/).
 
 Find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php). [@berlingig](https://t.me/berlingigs) is a Telegram channel that posts cheap concerts every week.
 
