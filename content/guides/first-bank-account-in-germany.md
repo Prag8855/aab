@@ -5,7 +5,7 @@ Description: This guide compares the best bank accounts for foreigners. It revie
 Date_created: 2017-09-01
 ---
 
-This guide helps you open your first bank account in Germany. You need a bank account to pay rent, get paid by your employer, and many other things.
+This guide helps you pick a bank in Germany. You need a bank account to pay rent, get paid by your employer, and many other things.
 
 Before you start, learn [how banking works in Germany](/guides/banking). It helps you choose better.
 
@@ -15,34 +15,42 @@ Before you start, learn [how banking works in Germany](/guides/banking). It help
 
 ## German banks for expats
 
+When you open your first bank account, choose an expat-friendly bank like [N26](/out/n26), [bunq](/out/bunq), [Revolut](/out/revolut), [Wise](/out/wise), [Monese](/out/monese), [Tomorrow](/out/tomorrow) or [Vivid](/out/vivid).
+
 An expat-friendly bank...
 
 - Speaks your language
 - Lets you open an account quickly
 - Accepts foreign passports and documents
-- Does not ask for a [residence permit](/glossary/Aufenthaltstitel)
-- Does not ask for an *[[Anmeldung]]* and [registration certificate](/glossary/Anmeldebestätigung)
+- Does not ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registration certificate](/glossary/Anmeldebestätigung)
 
-These banks are **expat-friendly**:
+### [N26](/out/n26)
 
-- **[N26](/out/n26)**{% include '_blocks/recommended.html' %}  
-    An German online bank. It's my bank since 2016, and [I recommend them](/guides/an-honest-review-of-n26). You get 3 free ATM withdrawals per month.
-    - They speak English, French, German, Italian and Spanish.
-    - They accept [many passport types](/out/n26-supported-passports). Some nationals need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 1 year. No *[[Anmeldung]]* needed.
-- **[bunq](/out/bunq)**{% include '_blocks/recommended.html' %}  
-    A Dutch online bank. They accept more passport types than N26. You get a German [[IBAN]]. You get 6 free ATM withdrawals per month.
-    - They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
-    - They accept [more passport types](/out/bunq-supported-passports) than N26. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.[^55] They use your phone GPS to check if you are in Germany.
-- **[Revolut](/out/revolut)**  
-    A British online bank. It's very easy to open an account. They accept the most passport types.[^3] You get a Lithuanian [[IBAN]]. You can withdraw 200€ per month for free.
-    - They speak German and English.
-    - They accept most passports. No [residence permit](/glossary/Aufenthaltstitel) or *[[Anmeldung]]* needed.
-- **[Wise](/out/wise)**  
-    A British online bank. You get a Belgian [[IBAN]]. You can withdraw 200€ per month for free.
-    - They speak English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
-    - They accept [most passport types](/out/wise-supported-passports). No *[[Anmeldung]]* needed.
+In my opinion, N26 is the most expat-friendly German bank. I use them since 2016. They let you open an account quickly, without an *[[Anmeldung]]*. They speak English, French, German, Italian and Spanish.
 
-[Monese](/out/monese), [Tomorrow](/out/tomorrow) and [Vivid](/out/vivid) are also expat-friendly.
+Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience. I recommend N26 because I use it since 2016.
+
+The biggest disadvantage: [the required documents](/out/n26-supported-passports). Depending on your nationality, you might need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for 1 year. This is a problem for recent immigrants.
+
+**[My review of N26 ➞](/guides/an-honest-review-of-n26)**
+
+### [bunq](/out/bunq)
+
+A Dutch online bank. It's a **good alternative to N26** if N26 does not accept your passport, because bunq [accepts more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+
+Their free account is too limited, but **the cheapest account has everything you need**: free ATM withdrawals, multiple languages, a German [[IBAN]] and a good mobile app.
+
+### [Revolut](/out/revolut) and [Wise](/out/wise-account)
+
+Two British online banks. Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3]
+
+You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
+
+The free accounts **include most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. Wise gives you a Belgian [[IBAN]]. Revolut gives you a Lithuanian IBAN.
+
+Revolut speaks English and German. Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
+
+### Banks that are not expat-friendly
 
 These banks are **not expat-friendly**:
 
@@ -64,10 +72,10 @@ These banks are **not expat-friendly**:
 These banks let you do **everything in English**. Their online banking, documents and customer service are in English.
 
 - **[bunq](/out/bunq)** - English and 6 other languages
-- **[Monese](/out/monese)** - English and 13 other languages
 - **[N26](/out/n26)** - English and 4 other languages
 - **[Revolut](/out/revolut)** - English
 - **[Wise](/out/wise)** - English and 13 other languages
+- **[Monese](/out/monese)** - English and 13 other languages
 
 These banks let you do **some things in English**. They have physical branches, and some employees might speak English.
 
@@ -77,17 +85,24 @@ These banks let you do **some things in English**. They have physical branches, 
 
 ## Banks with no monthly fees
 
+I strongly recommend to get a free bank account. Don't pay your bank to hold your money. In theory, every bank must offer a free account (the *Basiskonto*), but this account is often too limited.
+
 These banks offer a **free bank account** with no monthly fees:
 
-- **[N26](/out/n26)** - No monthly fees.
-- **[DKB](/out/dkb)** - No monthly fees.[^16] They reject recent immigrants.
+- **[N26](/out/n26)**{% include '_blocks/recommended.html' %}  
+    The best free bank account in my opinion. It covers all your basic banking needs.
+- **[bunq](/out/bunq)**  
+    The free account is very limited: no free ATM withdrawals, no payment card, and no German [[IBAN]]. The paid accounts make more sense.
+- **[Revolut](/out/revolut)**
+- **[Wise](/out/wise)**
 
 These banks have no monthly fee **if you deposit at least 700€ per month**:
 
+- **[DKB](/out/dkb)**
+- **[ING](/out/ing)**[^22]
 - **[1822direkt](/out/1822direkt)**[^18]
 - **[comdirect](/out/comdirect)**[^20]
 - **[Commerzbank](/out/commerzbank)**[^21]
-- **[ING](/out/ing)**[^22]
 
 These banks have no monthly fee **for young people**:
 
@@ -134,13 +149,13 @@ To apply for a [student visa](/glossary/Student%20visa), you usually need a proo
 
 You can open a blocked account with...
 
-- **[Expatrio](/out/expatrio)**
-- **[Fintiba](/out/fintiba)**
-- **[Coracle](/out/coracle)**
-- **[Sparkasse](/out/sparkasse)** - Only at some branches[^41]
-- **[Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html)**, if you are Indian.[^43]
+- [Expatrio](/out/expatrio)
+- [Fintiba](/out/fintiba)
+- [Coracle](/out/coracle)
+- [Sparkasse](/out/sparkasse), but only at some branches[^41]
+- [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]
 
-Deutsche Bank does not offer blocked accounts anymore.[^42]
+Deutsche Bank stopped offering blocked accounts.[^42]
 
 Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
 
@@ -148,20 +163,20 @@ Usually, you only need a blocked account for the first year. When you renew your
 
 Many banks ask for a [registration certificate](/glossary/Anmeldebestätigung). You only get it after you [find an apartment](/guides/find-a-flat-in-berlin) and [register your address](/glossary/Anmeldung). If you just moved to Germany, this is not possible.
 
-These banks don't require an *[[Anmeldung]]* or a registration certificate:
+These banks don't ask for a registration certificate:
 
-- **[N26](/out/n26)**{% include '_blocks/recommended.html' %}
-- **[bunq](/out/bunq)**{% include '_blocks/recommended.html' %}
-- **[Revolut](/out/revolut)**{% include '_blocks/recommended.html' %}
-- **[Wise](/out/wise-account)**
-- **[Deutsche Bank](/out/deutsche-bank)**
-- **[DKB](/out/dkb)**[^4]
-- **[Monese](/out/monese)**
-- **[Vivid](/out/vivid)**
+- [N26](/out/n26)
+- [bunq](/out/bunq)
+- [Revolut](/out/revolut)
+- [Wise](/out/wise-account)
+- [Deutsche Bank](/out/deutsche-bank)
+- [DKB](/out/dkb)[^4]
+- [Monese](/out/monese)
+- [Vivid](/out/vivid)
 
 ## Banks in other EU countries
 
-You don't need a German bank. You can use a bank in any EU country.
+You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to 100,000€.[^8]
 
 There are only two differences:
 
@@ -169,20 +184,19 @@ There are only two differences:
     IBAN discrimination is illegal, but it still happens.[^45] Some businesses refuse foreign bank account numbers ([[IBAN]]). If your IBAN does not start with "DE", you might get an error. If you can, choose a bank that gives you a German IBAN.
 - **No [[Girocard]]**  
     Girocards are a common payment method in Germany. Only German banks give you a Girocard. Many small businesses only accept cash and Girocards, no Visa or Mastercard. It's rarely a problem; you can just pay with cash. I have no Girocard since 2016, and I never had a problem.
-
-Your money is insured up to 100,000€ in all EU countries.[^8] Your money is safe in any EU bank account.
+- **No [[Schufa]] record**  
+    Usually, opening a bank account is a good way to get your first Schufa record. Non-German banks don't create a Schufa record.
 
 ## Which bank should I choose?
 
-**The best banks for foreigners** are [N26](/out/n26) and [bunq](/out/bunq). I use N26 since 2016, and [I recommend them](/guides/an-honest-review-of-n26). [Revolut](/out/revolut) and [Wise](/out/wise-account) are also good options, but they have a low free withdrawal limit, and no German [[IBAN]]. 
+**The best banks for foreigners** are [N26](/out/n26) and [bunq](/out/bunq). I use N26 since 2016, and [I recommend them](/guides/an-honest-review-of-n26). [Revolut](/out/revolut) and [Wise](/out/wise-account) are also good options, but they have a low free withdrawal limit, and no German [[IBAN]].
 
-**If you can't open an account anywhere**, [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse) might work. They accept pretty much everyone.[^3]
+**If you can't open an account anywhere**, [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse) might work. They accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse might accept you.[^2]
 
 **The best German-speaking banks** are [DKB](/out/dkb) and [ING](/out/ing), but they don't accept recent immigrants.
 
-[^1]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
-[^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399)
+[^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399), [6](https://twitter.com/DeusFoxy/status/1752302987295269173)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
 [^6]: [Twitter](https://twitter.com/rednafi/status/1775817482265092341) (2024), [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png) (2022), [Twitter](https://twitter.com/jecfish/status/1602254120261410818), [Twitter](https://twitter.com/Cankatzkan/status/1587370017066213376) (2022)
 [^7]: [Reddit](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
@@ -215,11 +229,6 @@ Your money is insured up to 100,000€ in all EU countries.[^8] Your money is sa
 [^42]: [Twitter](https://twitter.com/DeutscheBank/status/1547823819171061761)
 [^43]: [Quora](https://www.quora.com/Which-is-the-best-option-for-opening-a-blocked-account-in-Germany-as-an-international-student-Sutor-Bank-online-app-Fintiba-or-Deutsche-Bank-1), [msingermany.co.in](https://msingermany.co.in/kotak-mahindra-bank-procedure-blocked-account/)
 [^45]: [acceptmyiban.org](https://www.acceptmyiban.org/), [together.bunq.com](https://together.bunq.com/d/42477-bunq-in-deutschland/30), [Twitter](https://twitter.com/search?q=iban%20diskriminierung&src=typed_query)
-[^47]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pdr7di/banking_in_berlin/)
-[^48]: [support.n26.com](https://support.n26.com/en-fr/account-and-personal-details/opening-an-account/sign-up-identification)
-[^49]: [Twitter](https://twitter.com/claraa826/status/1143639719072423936), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eakszf/got_a_letter_from_deutsche_bank_regarding_fatca/)
-[^50]: [americansoverseas.org](https://americansoverseas.org/de/nachrichten/faz-zufallig-amerikaner-verlieren-konto/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/dywhd6/bank_account_termination_question/)
-[^51]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/Verification/T&C%20DE-EN,%20SC%20-%20last%20update_%20April%202021.pdf)
 [^52]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken)
 [^54]: [Twitter](https://twitter.com/jackiewmacharia/status/1776516950786466154) (2024), [Twitter](https://twitter.com/de1m0s242/status/1776865850051485978) (2024)
 [^55]: [Twitter](https://twitter.com/herovych/status/1775801170327384530) (2022)
