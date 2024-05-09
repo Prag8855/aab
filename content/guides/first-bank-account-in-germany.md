@@ -42,11 +42,9 @@ Their free account is too limited, but **the cheapest account has everything you
 
 ### [Revolut](/out/revolut) and [Wise](/out/wise-account)
 
-Two British online banks. Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3]
+Two British online banks. Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
-You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
-
-The free accounts **include most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. Wise gives you a Belgian [[IBAN]]. Revolut gives you a Lithuanian IBAN.
+The free accounts **include most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN. Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN.
 
 Revolut speaks English and German. Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
 
@@ -63,7 +61,7 @@ These banks are **not expat-friendly**:
 - **[ING](/out/ing)**  
     It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^15] They only speak German.
 - **[DKB](/out/dkb)**  
-    It's a good bank, but they refuse all recent immigrants.[^14] They only speak German.
+    It's a good bank, but they refuse recent immigrants.[^14] They only speak German.
 - **[comdirect](/out/comdirect)**  
     You need an *[[Anmeldung]]*, or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
 
@@ -121,14 +119,12 @@ These banks might still charge for a credit card, or to withdraw money from an A
 
 ## Banks with no ATM fees
 
-Some banks charge a fee to get cash from ATMs. It's usually around 7€ per withdrawal. On average, Germans use ATMs around 3 times per month. They withdraw less than 200€ per month.[^12]
-
-### Banks with free ATM withdrawals
+**Choose a bank with free ATM withdrawals.** In Germany, you often need cash. On average, Germans withdraw cash 3 times per month. They withdraw around 200€ per month.[^12] Don't pay 5€ to 7€ every time you use an ATM. It's a waste of money.
 
 These banks let you **use any ATM for free**:
 
-- **[DKB](/out/dkb)**[^35]
-- **[ING](/out/ing)**[^36] - Minimum withdrawal is 50€.
+- **[DKB](/out/dkb)**
+- **[ING](/out/ing)** - Minimum withdrawal is 50€.[^36]
 - **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
 - **[N26](/out/n26)** - 3 free withdrawals per month, then 2€ per withdrawal.
 - **[Wise](/out/wise-account)** - Withdraw up to 200€ per month for free.
@@ -207,7 +203,6 @@ There are only two differences:
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [Reddit](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [Reddit](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
 [^15]: [Reddit](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592), [Twitter](https://twitter.com/baykara__/status/1425369761504968706)
-[^16]: [dok.dkb.de](https://dok.dkb.de/pdf/plv_pk.pdf)
 [^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
@@ -219,8 +214,7 @@ There are only two differences:
 [^27]: [berliner-volksbank.de](https://www.berliner-volksbank.de/privatkunden/junge-leute/kostenloses-girokonto.html)
 [^33]: [bunq.com](https://www.bunq.com/documents/pricing)
 [^34]: [together.bunq.com](https://together.bunq.com/d/6635-what-are-my-daily-limits)
-[^35]: [dkb.de](https://bank.dkb.de/privatkunden/girokonto)
-[^36]: [ing-diba.de](https://www.ing.de/girokonto/konditionen/)
+[^36]: [ing.de](https://www.ing.de/girokonto/konditionen/#:~:text=bargeldauszahlung%20mit%20der%20visa%20card)
 [^37]: [1822direkt.de](https://www.1822direkt.de/fileadmin/Home/Dokumente/PDF/pv_aktuelle_Produkte_1822direkt.pdf)
 [^38]: [Wikipedia](https://de.wikipedia.org/wiki/Cash_Group)
 [^39]: [berliner-volksbank.de](https://www.berliner-volksbank.de/content/dam/f0120-0/webn/dokumente/service/agb-und-sonderbedingungen/preisverzeichnis.pdf)
