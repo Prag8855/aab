@@ -17,7 +17,7 @@ Open a bank account as soon as you arrive in Germany. You need one to get paid b
 
 **[Best banks for expats ➞](/guides/first-bank-account-in-germany)**
 
-You don't need a German bank. You can use a bank from any EU country. It makes no difference.
+You don't need a German bank account. You can use a bank from any [EU](/glossary/European%20Union) country. It makes no difference.
 
 ### Types of bank accounts
 
@@ -32,6 +32,29 @@ Business owners should open a **business account** for their business. It's opti
 Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
 
 The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to 100,000€. Even if the bank closes, you get your money back. Money in your *Depot* account is not insured.[^4]
+
+## How to open a bank account in Germany
+
+The requirements to open a bank account are the same for most banks:
+
+- **A proof of German residency** (your *[Meldebescheinigung](/guides/replacement-meldebescheinigung)*). [Some banks](/guides/first-bank-account-in-germany#banks-that-dont-require-an-anmeldung) let you open an account without one.
+- **A proof of identity** (your passport or national ID, and sometimes a [residence permit](/glossary/Aufenthaltstitel))
+
+Some banks require a minimum income or financial history in Germany. Other banks require [permanent residence](/glossary/Niederlassungserlaubnis) in Germany. For example, [DKB](/out/dkb) often rejects foreigners.[^47] Some online banks only support certain passports,[^48] or ask for a [residence permit](/glossary/Aufenthaltstitel).
+
+If you are American, you need extra forms to open a German bank account, because of [FATCA](https://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act).[^49] Some banks don't let Americans open an account.[^50]
+
+If you are from a sanctioned country, it's harder to open a bank account.[^5]
+
+Some banks like [N26](/out/n26), [bunq](/out/bunq), [DKB](/out/dkb), [ING](/out/ing), [Comdirect](/out/comdirect) and [Wise](/out/wise-account) let you open an account with their app. You can do it at home. They start a video call, and they ask you to show both sides of your ID or passport. This only works with passports from certain countries.[^51] If they don't accept your passport, you must use [[Postident]] to verify your documents. This takes longer, and it doesn't always work.
+
+With online banks, you can sometimes open your account from another country, before you arrive in Germany. They still need to send your bank card to a German address. Some people sent the bank card to their office, or to a friend's address.
+
+Some banks like [Commerzbank](/out/commerzbank), [Sparkasse](/out/sparkasse), [Deutsche Bank](/out/deutsche-bank) and [Volksbank](/out/volksbank) only let you open an account in person at a physical branch. The employees there sometimes speak English. These banks can be more flexible. They might accept most passport types, and let you open a bank account without a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung).
+
+### Transfer money from another country
+
+After you open a German bank account, use [Wise](/out/wise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly in the N26 app.
 
 ## Common payment methods
 
@@ -79,14 +102,13 @@ Some bank accounts only include a **virtual card**. That means that you get a cr
 
 German credit cards rarely have **benefits** like cashback or points. Some cards have a yearly fee, and come with travel insurance. You can usually get separate travel insurance for cheaper.
 
-## Banks in Germany
-
-Online banks and offline banks
-
-You can also use a bank in another EU country.
-
-[^0]: [ecb.europa.eu](https://www.ecb.europa.eu/paym/integration/retail/sepa/html/index.en.html)
 [^1]: [Twitter](https://twitter.com/aboutberlin/status/1776203137264840763) (April 2024)
 [^2]: [Statista](https://www.statista.com/statistics/972307/germany-payment-cards-share/) (2016 to 2022)
 [^3]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021)
 [^4]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/risiko-und-einlagensicherung-fragen-und-antworten-zur-geldanlage-5417) (2023)
+[^5]: [Reddit](https://old.reddit.com/r/Revolut/comments/18cv28a/should_i_open_an_account/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/yyd3t1/my_daughter_needs_to_open_a_bank_account_in/) (2023) [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/15li6s5/no_bank_for_me/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/cbdrsb/commerzbank_wants_to_cancel_my_banking_services/) (2020), [sueddeutsche.de](https://www.sueddeutsche.de/muenchen/sanktioniert-in-der-bankfiliale-girokonto-fuer-einen-gebuertigen-iraner-machen-wir-nicht-1.3688197) (2017)
+[^49]: [Twitter](https://twitter.com/claraa826/status/1143639719072423936), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eakszf/got_a_letter_from_deutsche_bank_regarding_fatca/)
+[^47]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pdr7di/banking_in_berlin/)
+[^48]: [support.n26.com](https://support.n26.com/en-fr/account-and-personal-details/opening-an-account/sign-up-identification)
+[^50]: [americansoverseas.org](https://americansoverseas.org/de/nachrichten/faz-zufallig-amerikaner-verlieren-konto/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/dywhd6/bank_account_termination_question/)
+[^51]: [docs.n26.com](https://docs.n26.com/cs/Support%20Center/Verification/T&C%20DE-EN,%20SC%20-%20last%20update_%20April%202021.pdf)
