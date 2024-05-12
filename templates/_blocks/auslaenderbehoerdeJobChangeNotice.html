@@ -43,7 +43,7 @@
 				},
 				formattedDate(date, locale) {
 					if(date) {
-						return this.dateFromString(date).toLocaleDateString(locale);
+						return (new Date(date)).toLocaleDateString(locale);
 					}
 					return '';
 				}
