@@ -48,9 +48,9 @@ If you work in an English-speaking office, you can write your resignation letter
 
 Your resignation letter must be **printed and signed**. An email, a fax, an instant message or a conversation is not enough.[^1] Your resignation is only official when your employer receives your resignation letter.
 
-There are two ways to give your resignation letter.
+There are 2 ways to give your resignation letter.
 
-- **In person** (recommended)[^8]  
+- **In person** (recommended)[^8]{% include '_blocks/recommended.html' %}  
     Give your resignation letter to your employer in person. Bring a witness that can confirm that it happened.[^5] This is the best option, because you can guarantee that your employer received your resignation. It's also more polite.
 - **By post**  
     Send your resignation letter by [registered mail](/glossary/Einschreibebrief). Your notice period begins when your employer receives your resignation, not when you send it.[^12] This can delay your resignation.

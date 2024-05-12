@@ -269,7 +269,7 @@ If you want mobile data while you visit Berlin, you should get a temporary SIM c
 
 There are 3 ways to buy a SIM card:
 
-- **Buy a digital SIM card** (eSIM)  
+- **Buy a digital SIM card** (eSIM){% include '_blocks/recommended.html' %}  
     This is the easiest way. Buy an eSIM from [Airalo](/out/airalo), and activate it when you arrive in Berlin. It's very easy. I use it all the time when I travel. Your phone must support eSIMs.
 - **Get a SIM card at the airport**  
     Go to the mobile phone kiosks at the airport, and buy a SIM card. It takes 15 to 30 minutes, but it can take longer when it's busy. Temporary SIM cards are more expensive.

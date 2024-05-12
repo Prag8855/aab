@@ -139,7 +139,7 @@ There are 2 ways to apply for a freelance visa in Berlin:
 
 - **Apply in person**  
     [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
-- or **send your documents online**  
+- or **send your documents online**{% include '_blocks/recommended.html' %}  
     [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**

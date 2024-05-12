@@ -262,9 +262,9 @@ You can [hire an expert](/guides/ksk-kuenstlersozialkasse#need-help) to review y
 
 After you fill the registration form, you have 4 weeks to send your documents.
 
-There are two ways to send your documents:
+There are 2 ways to send your documents:
 
-- **By post** (recommended)  
+- **By post**{% include '_blocks/recommended.html' %}  
     Put all your documents in an envelope, and send it [by registered mail](/glossary/Einschreibebrief) to *Künstlersozialkasse, Gökerstraße 14, 26384 Wilhelmshaven*.
 - **By De-Mail**  
     If you have a [De-Mail](https://en.wikipedia.org/wiki/De-Mail) account, you can use it to send your documents. It's easier to apply by post, but De-Mail is useful if you are currently travelling, and you can't receive post.
@@ -392,7 +392,7 @@ What happens depends on the health insurance you had while you waited:
 
 ### You pay every month
 
-You must pay the KSK every month. There are two ways to do it:
+You must pay the KSK every month. There are 2 ways to do it:
 
 - Automatically with a [direct debit authorization](/glossary/SEPA-Lastschriftmandat). When you apply for the KSK, include [this form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/SEPA-Lastschriftmandat_Versicherte.pdf). This is the easiest way.
 - Manually with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
