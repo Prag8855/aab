@@ -2,7 +2,7 @@
 Title: German resignation letter generator
 German_term: Kündigungsschreiben
 English_term: Job resignation letter
-Description: Use this resignation letter template to quit your job in Germany.
+Description: A resignation letter generator to quit your job in Germany.
 Date_created: 2023-07-21
 Related_guides:
     guides/german-resignation-letter.md

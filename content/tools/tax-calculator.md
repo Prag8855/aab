@@ -1,7 +1,7 @@
 ---
 Title: German income tax calculator
 Short_title: Income tax calculator
-Description: This tool calculates your net income after income tax, health insurance, pension insurance and other deductions.
+Description: Calculate your net income in Germany, after income tax, health insurance, pension insurance and other deductions.
 Date_created: 2022-01-20
 Categories:
     calculator

@@ -4,7 +4,7 @@ German_term: Anschreiben
 English_term: Cover letter
 German_document: documents/Freelance-visa-cover-letter-German.pdf
 English_document: documents/Freelance-visa-cover-letter-English.pdf
-Description: When you apply for the German freelance visa, it's useful to write a good cover letter. Here's an example.
+Description: Cover letter example for a German freelance visa application. It's in English and in German.
 Date_created: 2018-10-22
 Related_guides:
     guides/freelance-visa.md

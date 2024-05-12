@@ -4,7 +4,7 @@ German_term: Absichtserklärung Muster
 English_term: Letter of intent example
 German_document: documents/Absichtserklaerung-Example-German.pdf
 English_document: documents/Absichtserklaerung-Example-English.pdf
-Description: An example letter of intent used to apply for the German freelance visa.
+Description: An example letter of intent to apply for the German freelance visa in Berlin.
 Date_created: 2018-09-18
 Related_guides:
     guides/freelance-visa.md

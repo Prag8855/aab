@@ -4,7 +4,7 @@ German_term: Antrag auf Erteilung eines Aufenthaltstitels
 English_term: Application for a residence permit
 German_document: documents/residence-permit-application-form-2021.pdf
 English_document: documents/residence-permit-application-form-2021.pdf
-Description: The form to apply for a German residence permit like the work visa or freelance visa.
+Description: Fill this form to apply for a German residence permit like the work visa or freelance visa. It's in English, German and 9 other languages.
 Date_created: 2018-06-07
 Related_guides:
     guides/freelance-visa.md

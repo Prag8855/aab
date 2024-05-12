@@ -4,7 +4,7 @@ German_term: Antrag auf Vergabe einer steuerlichen Identifikationsnummer für ni
 English_term: Tax ID application form
 German_document: documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf
 English_document: documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-English.pdf
-Description: Apply for a tax ID when you can't register your address.
+Description: Use this form to get a tax ID without an Anmeldung. It comes with an English translation.
 Date_created: 2022-12-21
 Related_guides:
     guides/german-tax-id-steuernummer.md

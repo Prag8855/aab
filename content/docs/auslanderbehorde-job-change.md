@@ -2,7 +2,7 @@
 Title: Inform the Ausländerbehörde of a job change
 German_term: Mitteilung über Jobwechsel
 English_term: Job change notice
-Description: Notify the Ausländerbehörde when you change jobs or lose your job.
+Description: Letter to inform the Ausländerbehörde when you change jobs or lose your job.
 Date_created: 2023-07-17
 Related_guides:
     guides/losing-your-job.md
