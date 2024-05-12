@@ -43,7 +43,8 @@
 				},
 				formattedDate(date, locale) {
 					if(date) {
-						return (new Date(date)).toLocaleDateString(locale);
+						const [y, m, d] = date.split('-').map(Number);
+						return (new Date(y, m - 1, d)).toLocaleDateString(locale);
 					}
 					return '';
 				}
