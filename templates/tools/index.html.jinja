@@ -8,7 +8,7 @@
 {% endblock %}
 
 {% macro preview(entry) %}
-	{% if entry.url.startswith('/docs/') %}
+	{% if entry.url.startswith(site_url + '/docs/') %}
 		{% set id = random_id() %}
 		<li class="document" aria-labelledby="h-doc-{{ id }}">
 			<h3 id="h-doc-{{ id }}">
@@ -17,7 +17,7 @@
 			</h3>
 			<p>{{ entry.description }}</p>
 		</li>
-	{% elif entry.url.startswith('/tools/') %}
+	{% elif entry.url.startswith(site_url + '/tools/') %}
 		{% set id = random_id() %}
 		<li aria-labelledby="h-tool-{{ id }}">
 			<h3 id="h-tool-{{ id }}">
