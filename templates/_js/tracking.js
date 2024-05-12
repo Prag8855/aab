@@ -3,22 +3,6 @@
 const plausibleFallback = function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
 window.plausible = window.plausible || plausibleFallback;
 
-// Log frontend errors to the server
-window.addEventListener('error', e => {
-	try{
-		if(e.lineno < 30 || e.message.includes('r["@context"]') || e.message.includes('Script error.')){
-			// Safari JSON-LD parsing error
-			return;
-		}
-		navigator.sendBeacon(
-			'/api/error', 
-			`${e.filename.replace('{{ site_url }}', '')}:${e.lineno}.${e.colno} - ${e.message}`
-		);
-	} catch(e) {
-		console.error(e, e.stack);
-	}
-})
-
 function getLinkEl(l) {
 	while (l && (typeof l.tagName === 'undefined' || l.tagName.toLowerCase() !== 'a' || !l.href)) {
 		l = l.parentNode
