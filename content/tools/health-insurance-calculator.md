@@ -3,6 +3,8 @@ Title: German health insurance calculator
 Short_title: Health insurance calculator
 Description: This calculator helps you choose health insurance in Germany. It shows you insurance prices for employees, students and freelancers.
 Date_created: 2022-01-18
+Categories:
+    calculator
 ---
 
 This calculator helps you choose health insurance in Germany. It tells you how much [health insurance](/glossary/Krankenversicherung) costs, and how to pay less.

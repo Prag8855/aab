@@ -10,6 +10,8 @@ Related_guides:
     guides/anmeldung-in-english-berlin.md
     guides/berlin-burgeramt-appointment.md
     guides/moving-to-berlin.md
+Categories:
+    buergeramt
 ---
 
 This is the English translation of the official *[[Anmeldung]]* form. Fill this form to [register your address](/glossary/Anmeldung) in Berlin.

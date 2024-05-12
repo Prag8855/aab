@@ -12,6 +12,8 @@ Related_guides:
     guides/moving-in.md
     guides/berlin-burgeramt-appointment.md
     guides/moving-to-berlin.md
+Categories:
+    buergeramt
 ---
 
 The *[[Wohnungsgeberbestätigung]]* is a document you need to [register your address](/glossary/Anmeldung). It must be signed by the landlord or [main tenant](/glossary/Hauptmieter) when you [move into an apartment](/guides/moving-in).[^0]

@@ -2,6 +2,8 @@
 Title: Anmeldung appointment finder
 Description: This bot helps you find an appointment to register your address at the Bürgeramt in Berlin.
 Date_created: 2022-06-15
+Categories:
+    buergeramt
 ---
 
 This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*.

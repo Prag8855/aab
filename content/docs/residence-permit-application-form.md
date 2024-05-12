@@ -16,6 +16,8 @@ Related_guides:
     guides/german-work-visa-to-freelance-visa.md
     guides/german-visa-health-insurance.md
     guides/freelance-visa-letter-of-intent.md
+Categories:
+    auslaenderbehoerde
 ---
 
 When you apply for a [residence permit](/glossary/Aufenthaltstitel), you must include this form with your application.
