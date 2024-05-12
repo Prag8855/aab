@@ -349,8 +349,7 @@
 				},
 				formattedDate(date, locale) {
 					if(date) {
-						const [y, m, d] = date.split('-').map(Number);
-						return (new Date(y, m - 1, d)).toLocaleDateString(locale, {
+						return this.dateFromString(date).toLocaleDateString(locale, {
 							year: 'numeric',
 							month: 'numeric',
 							day: 'numeric',
