@@ -71,6 +71,12 @@ You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shop
 
 **Yes.** Cannabis seeds are legal. You can also buy seeds from other EU countries.[^14]
 
+### Is HHC legal
+
+**Yes.** As of May 2024, Hexahydrocannabinol (HHC) is legal. The government could ban it in the future.[^27] HHC is synthetic cannabis. It might not feel the same as natural cannabis.
+
+You can find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]
+
 ## Can I bring weed from another country?
 
 **No.** For example, you can't buy weed in the Netherlands, and bring it to Germany. They sometimes check buses, trains and cars that come from the Netherlands.[^13] They sometimes use dogs to detect drugs.
@@ -107,3 +113,5 @@ This might have changed with legalisation, but it's not confirmed.
 [^24]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^25]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^26]: [§16 Abs. 4 KCanG](https://www.buzer.de/16_KCanG.htm)
+[^27]: [mdr.de](https://www.mdr.de/nachrichten/deutschland/politik/hhc-verbot-deutschland-droge-vergiftung-kinder-102.html) (February 2024), [natur-breit.de](https://natur-breit.de/hhc-verbot-in-deutschland/) (January 2024), [bfarm.de](https://www.bfarm.de/DE/Bundesopiumstelle/Betaeubungsmittel/Sachverstaendigenausschuss/Sitzungen/Ergebnisse_59.html)
+[^28]: [Reddit](https://old.reddit.com/r/LSD/comments/1c29pe3/found_lsd_and_hhc_in_frankfort_germany/), [1](https://old.reddit.com/r/trees/comments/10fwyp2/hhc_carts_for_45_each_in_germany_what_do_you_think/), [2](https://old.reddit.com/r/askberliners/comments/1cq9z73/foreigner_in_berlin_would_like_to_buy_some_hhc/) (2024)
