@@ -51,7 +51,9 @@ In Berlin, they often ignore you or refuse to give you one.[^17] You must insist
 
 They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a 13€ fee.[^11]
 
-If you currently have a [tourist visa](/glossary/Schengen%20visa), you can't get a *Fiktionsbescheinigung*. You can't convert a tourist visa to a residence permit. You must apply for a residence permit in your home country.[^3]
+**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you get an *Ausländerbehörde* appointment or apply for a residence permit, the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
+
+**If you currently have a [tourist visa](/glossary/Schengen%20visa)**, you can't get a *Fiktionsbescheinigung*. Usually, you can't convert a tourist visa to a residence permit. You must [apply for a residence permit](/guides/residence-permit#how-to-get-a-residence-permit) in your home country.[^3]
 
 ## Travel with a Fiktionsbescheinigung
 
