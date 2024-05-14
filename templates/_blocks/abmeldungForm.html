@@ -242,7 +242,7 @@
 				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
 				<div>
 					<h3>Pay someone to do it</h3>
-					<p>Let someone deregister your address. It's easier, and you get your deregistration certificate by email.</p>
+					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Abmeldung. It's easier, and you get your deregistration certificate by email.</p>
 				</div>
 			</a>
 		</div>
@@ -349,7 +349,7 @@
 				},
 				formattedDate(date, locale) {
 					if(date) {
-						return (new Date(date)).toLocaleDateString(locale, {
+						return this.dateFromString(date).toLocaleDateString(locale, {
 							year: 'numeric',
 							month: 'numeric',
 							day: 'numeric',

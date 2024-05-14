@@ -4,13 +4,15 @@ German_term: Ertragsvorschau
 English_term: Revenue forecast
 German_document: documents/german-visa-Ertragsvorschau-2023.pdf
 English_document: documents/german-visa-Ertragsvorschau-2023.pdf
-Description: You must prepare this document for your German freelance visa interview. This is the official template for the Berlin Ausländerbehörde.
+Description: Fill this form when you apply for a German freelance visa. This is the official template from the Berlin Ausländerbehörde.
 Date_created: 2018-06-13
 Related_guides:
     guides/freelance-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/berlin-auslanderbehorde-appointment.md
+Categories:
+    auslaenderbehoerde
 ---
 
 You need this form to [apply for a freelance visa](/guides/freelance-visa) in Berlin. It's called the revenue forecast (*Ertragsvorschau*).

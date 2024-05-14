@@ -55,6 +55,9 @@
 # Search page removal
 /search /guides;
 
+# Tools and docs pages merge
+/docs /tools;
+
 # Renamed or removed content
 "/glossary/Bundesagentur für Arbeit" "/glossary/Agentur für Arbeit";
 "/glossary/Bundesagentur für Arbeit​" "/glossary/Agentur für Arbeit";

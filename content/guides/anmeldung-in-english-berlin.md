@@ -41,7 +41,7 @@ You do not need to register if...
 
 - **You visit for less than 3 months**  
     If you visit from another country, and you stay in Germany for less than 3 months, you don't need to register your address.[^35]
-- **You will move in the next 6 months**  
+- or **you will move in the next 6 months**  
     If you are already registered somewhere else, and you will stay at your new address for less than 6 month.[^35] For example, if you are registered at your parents' house, and you live with a friend for a few months.
 
 ## How to register your address

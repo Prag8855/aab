@@ -1,27 +1,88 @@
 {% extends "_layout.html" %}
-{% set metatitle = "Tools and calculators" %}
-{% set metadescription = "Tools for German bureaucracy: tax calculators, Bürgeramt appointment finder and more." %}
+{% set metatitle = "Tools, forms and templates" %}
+{% set metadescription = "Tools for German bureaucracy: translated forms, document templates, tax calculators, Bürgeramt appointment finder and more." %}
 
 {% block postHead %}
 	{{ super() }}
 	<link rel="canonical" href="{{ site_url }}/tools">
 {% endblock %}
 
-{% block precontent %}
-	<header class="intro">
-		<h1>Tools and calculators</h1>
-	</header>
-{% endblock %}
-
-{% block content %}
-	<ol class="previews">
-	{% for tool in get_entries('tools', sort_by=('short_title', 'title')) %}
-		<li class="tool">
-			<h3>
-				<a title="{{ tool.title }}" rel="bookmark" href="{{ tool.url }}">{{ tool.short_title|default(tool.title) }}</a>
+{% macro preview(entry) %}
+	{% if entry.url.startswith(site_url + '/docs/') %}
+		{% set id = random_id() %}
+		<li class="document" aria-labelledby="h-doc-{{ id }}">
+			<h3 id="h-doc-{{ id }}">
+				<a title="{{ entry.german_term }}" rel="bookmark" href="{{ entry.url }}" lang="de">{{ entry.german_term }}</a>
+				{{ entry.english_term }}
 			</h3>
-			<p>{{ tool.description }}</p>
+			<p>{{ entry.description }}</p>
 		</li>
-	{% endfor %}
-	</ol>
+	{% elif entry.url.startswith(site_url + '/tools/') %}
+		{% set id = random_id() %}
+		<li aria-labelledby="h-tool-{{ id }}">
+			<h3 id="h-tool-{{ id }}">
+				<a title="{{ entry.title }}" rel="bookmark" href="{{ entry.url }}">{{ entry.short_title|default(entry.title) }}</a>
+			</h3>
+			<p>{{ entry.description }}</p>
+		</li>
+	{% endif %}
+{% endmacro %}
+
+
+{% block main %}
+	<main aria-label="Main page">
+		<header class="intro">
+			<h1>Tools, forms and templates</h1>
+		</header>
+		<article class="section">
+			<h2>Calculators</h2>
+			<ol class="previews">
+			{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
+				{% if 'calculator' in entry.categories %}		    
+					{{ preview(entry) }}
+				{% endif %}
+			{% endfor %}
+			</ol>
+		</article>
+		<article class="section">
+			<h2>For the Bürgeramt</h2>
+			<ol class="previews">
+			{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
+				{% if 'buergeramt' in entry.categories %}
+					{{ preview(entry) }}
+				{% endif %}
+			{% endfor %}
+			</ol>
+		</article>
+		<article class="section">
+			<h2>For the Ausländerbehörde</h2>
+			<ol class="previews">
+			{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
+				{% if 'auslaenderbehoerde' in entry.categories %}		    
+					{{ preview(entry) }}
+				{% endif %}
+			{% endfor %}
+			</ol>
+		</article>
+		<article class="section">
+			<h2>For the Finanzamt</h2>
+			<ol class="previews">
+			{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
+				{% if 'finanzamt' in entry.categories %}		    
+					{{ preview(entry) }}
+				{% endif %}
+			{% endfor %}
+			</ol>
+		</article>
+		<article class="section">
+			<h2>For the Agentur für Arbeit</h2>
+			<ol class="previews">
+			{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
+				{% if 'agentur_fuer_arbeit' in entry.categories %}		    
+					{{ preview(entry) }}
+				{% endif %}
+			{% endfor %}
+			</ol>
+		</article>
+	</main>
 {% endblock %}

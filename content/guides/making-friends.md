@@ -55,6 +55,7 @@ There are Facebook groups and organisations for every nationality in Berlin. Her
 - [Dutch in Berlin](https://www.facebook.com/groups/nederlandersinberlijn/)
 - [French speakers in Berlin](https://www.facebook.com/groups/les.francais.de.berlin/)
 - [Indians in Berlin](https://www.facebook.com/groups/2606668189644850)
+- [Koreans in Berlin](http://berlinreport.com/)
 - [Poles in Berlin](https://www.facebook.com/groups/1427056394268433/)
 - [Russians in Berlin](https://www.facebook.com/groups/russenberlin/)
 - [Turks in Berlin](https://www.facebook.com/groups/turklerberlinde/)

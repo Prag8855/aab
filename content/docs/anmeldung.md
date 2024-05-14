@@ -4,12 +4,14 @@ German_term: Anmeldung einer Wohnung
 English_term: Registration of a residence
 German_document: documents/anmeldung-original.pdf
 English_document: documents/anmeldung-translated-2021-v2.pdf
-Description: You need this form to register your address in Berlin. Download the form, or use my tool to fill it.
+Description: Fill the Anmeldung form online, in English. You need this form to register your address in Berlin.
 Date_created: 2018-02-28
 Related_guides:
     guides/anmeldung-in-english-berlin.md
     guides/berlin-burgeramt-appointment.md
     guides/moving-to-berlin.md
+Categories:
+    buergeramt
 ---
 
 This is the English translation of the official *[[Anmeldung]]* form. Fill this form to [register your address](/glossary/Anmeldung) in Berlin.

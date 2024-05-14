@@ -19,7 +19,7 @@ This is how you can send a letter by post in Germany, even if you don't have a p
 
 [Write your address](/guides/addressing-a-letter-in-germany) on the envelope, then [get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html) from the Post & DHL app. You get a code that you must write on the envelope. It does not work for international mail.
 
-Put the letter to a yellow Deutsche Post post box.
+Put the letter in a yellow Deutsche Post post box.
 
 **[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 

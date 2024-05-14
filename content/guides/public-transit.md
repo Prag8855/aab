@@ -118,13 +118,13 @@ If you buy a ticket on the bus or tram, it's already stamped. Monthly passes are
 
 ## Step 3: Use public transport
 
-Get on the bus, tram, train or ferry, and go where you want to go. Get directions from [Google Maps](https://maps.google.com/) ([iOS](https://apps.apple.com/us/app/google-maps/id585027354) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app).
+Get on the bus, tram, train or ferry, and go where you want to go. Get directions from [Google Maps](https://maps.google.com/) ([iOS](https://apps.apple.com/us/app/google-maps/id585027354) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app). BVG Fahrinfo has more accurate information.
 
 ### Go in the right direction
 
 [![BVG daisy status display](/images/bvg-daisy-display.jpg)](/images/bvg-daisy-display.jpg)
 
-The display shows a train's last stop, not its direction. For example, the S2's last stop could be in Bernau, Buch or Blankenburg. These trains all go in the same direction, but they have different last stops.
+The display shows a train's last stop, not its direction. For example, the S2's last stop could be in Bernau, Buch or Blankenburg. These trains all go in the same direction, but their last stops are not the same.
 
 ### Take the bus or tram
 
@@ -145,7 +145,7 @@ To open the doors, you might need to press a button near the doors.
 - **U-Bahn trains**  
     The [yellow U-Bahn trains](https://commons.wikimedia.org/wiki/File:Berlin_U-Bahn_IK_at_Olympia-Stadion_\(3\).jpg) use their own rail network. They travel everywhere in Berlin. They are run by the [[BVG]]. U-Bahn line names start with a U (U1, U2, ...). The "U" is for "underground", but U-Bahn lines are not always underground. At night, U-Bahn trains are replaced by night buses.
 - **Trams** (*Straßenbahn*)  
-    Some tram lines start with an M (M1, M2...), and others have just a number (50, 68...). Most trams are in the east. Before the [reunification](https://en.wikipedia.org/wiki/German_reunification), there were no trams in West Berlin. At night, some tram lines are replaced by night buses. Other tram lines also at night.
+    Some tram lines start with an M (M1, M2...), and others have just a number (50, 68...). Most trams are in the east. Before the [reunification](https://en.wikipedia.org/wiki/German_reunification), there were no trams in West Berlin. At night, some tram lines are replaced by night buses. Some tram lines also run at night.
 - **Buses**  
     Bus stops have an ["H" sign](https://commons.wikimedia.org/wiki/File:Bushaltestelle_S%2BU_Potsdamer_Platz_in_Berlin.jpg) or [post](https://commons.wikimedia.org/wiki/File:Berlin-Stadtrundfahrt_Bus_100.jpg). There are night buses that replace U-Bahn and tram lines.[^5] Night bus lines start with the letter N (N6, N7, ...). Their number is the same as the bus or train line they replace (U6 and N6, 50 and N50...).
 - **Ferries**  

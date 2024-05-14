@@ -76,11 +76,9 @@ To choose liability insurance yourself...
 
 1. **Use [Tarifcheck](/out/tarifcheck-haftpflicht) to see options**  
     Don't choose the cheapest option. Usually, it's cheaper because the coverage is not as good.
-2. **Use Test.de's [liability insurance checker](https://schnellcheck.test.de/haftpflichtversicherung/)**  
-    This tool checks if your liability insurance covers the important things.
-3. **Check your insurance company on [Trustpilot](https://www.trustpilot.com/)**  
+2. **Check your insurance company on [Trustpilot](https://www.trustpilot.com/)**  
     Read the negative reviews. See if people have problems getting paid by the insurance company.
-4. **Read your insurance policy**  
+3. **Read your insurance policy**  
     All EU insurance policies come with an Insurance Product Information Document ([[IPID]]).[^17] This one-page summary tells you what your liability insurance covers. Then you should read your entire contract. It takes less than an hour, and it's really worth it. If you don't speak German, [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) have their contracts in English.
 
 ### The minimum coverage you need

@@ -4,13 +4,15 @@ German_term: Abmeldung einer Wohnung
 English_term: Deregistration of a residence
 German_document: documents/abmeldung-original.pdf
 English_document: documents/abmeldung-translated-finished.pdf
-Description: This is the document you must fill to deregister your address in Berlin. It's also called the "Abmeldeformular".
+Description: Fill the Abmeldung form online, in English. You need this form to deregister your address in Berlin. It's also called the "Abmeldeformular".
 Date_created: 2018-01-06
 Related_guides:
     guides/abmeldung-deregister-in-berlin.md
     guides/moving-out.md
     guides/berlin-burgeramt-appointment.md
     guides/anmeldung-in-english-berlin.md
+Categories:
+    buergeramt
 ---
 
 Fill this form to deregister your address in Berlin (*[[Abmeldung]]*). You can send this form to any *[[Bürgeramt]]* in Berlin. You can deliver the form in person, by email, or by [registered mail](/glossary/Einschreibebrief).
