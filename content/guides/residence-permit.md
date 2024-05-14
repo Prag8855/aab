@@ -86,7 +86,7 @@ You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home 
     - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
     - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  
-    If you apply in your country, you get a [[National Visa]]. It's valid for up to 12 months. When you get the National Visa, you can move to Germany and start working or studying. When you arrive in Germany, you must convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You must do this before your visa expires.[^9]
+    If you apply in the country where you live, you get a [[National Visa]]. It's valid for up to 12 months. When you get the National Visa, you can move to Germany and start working or studying. When you arrive in Germany, you must convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You must do this before your visa expires.[^9]
 
 It's better if you apply in your home country. You can start working as soon as you arrive in Germany, instead of living in Germany without any income.
 
