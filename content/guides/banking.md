@@ -59,9 +59,9 @@ Many restaurants only accept cash. Most street food kiosks and *[Spätis](/gloss
 
 **Always have cash with you**. [Choose a bank](/guides/best-bank-germany) with low ATM fees.
 
-![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
-
 When you often pay with cash, you have a lot of coins. There are many ways to [get rid of your coins](/guides/exchange-coins-berlin).
+
+![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
 
 ### Girocard/EC-Karte
 
@@ -71,7 +71,7 @@ Many banks don't offer Girocards. You don't really need one.[^1] If you can pay 
 
 ### Visa and Mastercard
 
-More and more businesses accept Visa and Mastercard, but you still need cash. Many restaurants and *[Spätis](/glossary/Späti)* only accept cash. Most websites accept Visa and Mastercard.
+Most businesses accept Visa and Mastercard, but you still need cash. Many restaurants and *[Spätis](/glossary/Späti)* only accept cash. Most websites accept Visa and Mastercard.
 
 In Berlin, some government offices don't accept Visa or Mastercard.
 
