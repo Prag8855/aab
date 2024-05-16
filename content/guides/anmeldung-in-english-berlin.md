@@ -1,19 +1,19 @@
 ---
 Title: The Anmeldung - How to register your address in Berlin
 Short_title: Anmeldung - How to register your address
-Description: This guide shows you how register your address in Berlin. This is how you get a Meldebescheinigung and a tax ID.
+Description: This guide explains how to do your Anmeldung in Berlin. This is how you register your address, and how you get a Meldebescheinigung and a tax ID.
 Date_created: 2018-04-30
 Related_reviews:
     reviews/anmeldung-in-english-berlin/kathleen-parker.md
 ---
 
-After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*. All German residents must do it.
+After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*. This guide explains how to do it.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Why you must register your address
 
-**All residents must register**, it's the law.[^33] [If you can't register](#if-you-cant-register-your-address), it makes your life harder. 
+All residents must register, it's the law.[^33] [If you can't register](#if-you-cant-register-your-address), it makes your life harder.
 
 You must register your address to...
 
@@ -22,7 +22,7 @@ You must register your address to...
 - **Get a [registration certificate](/glossary/Anmeldebestätigung)** (*Meldebestätigung*)  
     You sometimes need it to prove your address, open a bank account, get a SIM card, and a few other things.
 - **Get a [tax ID](/glossary/Steueridentifikationsnummer)**  
-    You get a tax ID by post around 4 weeks after your *Anmeldung*. You can [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id). - [Why you need a tax ID](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id)
+    You get a tax ID by post around 4 weeks after your *Anmeldung*. The tax ID [is very important](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id). You can [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
     - **Get paid correctly**  
         Your employer needs your [tax ID](/glossary/Steueridentifikationsnummer) to calculate your [salary tax](/glossary/Lohnsteuer). If you don't have a tax ID, you pay more [salary tax](/glossary/Lohnsteuer), so your paychecks are much smaller. You don't lose that money, but you must make a [tax declaration](/glossary/Steuererklärung) to get it back. - [More information](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id)
 - **Apply for a [residence permit](/glossary/Aufenthaltstitel)**  
@@ -31,9 +31,9 @@ You must register your address to...
 You don't need to register your address to...
 
 - **Start working**  
-    Your employer can't require an *Anmeldung*.[^17] They need your [tax ID](/glossary/Steueridentifikationsnummer) as soon as possible, but you can start working without it. You can also [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
+    Your employer needs your [tax ID](/glossary/Steueridentifikationsnummer), but it can wait. You can also [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 - **Open a bank account**  
-    Some banks ask for a [registration certificate](/glossary/Anmeldebestätigung), but there are [expat-friendly banks](/guides/german-banks-no-address) that don't need an *Anmeldung*.
+    There are [banks that don't require an *Anmeldung*](/guides/german-banks-no-address).
 
 ### People who don't need to register
 
@@ -97,7 +97,7 @@ When you register an underage child's address, you might need a letter of consen
 - [ ] **Your child's birth certificate**[^37]  
     Bring the original or a notarized copy.[^10] If it's not in German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung).[^38] Certificates in English are usually accepted.
 
-**If you don't speak German**, bring a friend or a translator. Some *Bürgeramt* employees only speak German. The *Anmeldung* is simple, so will probably be okay, but sometimes they ask more questions.
+**If you don't speak German**, bring a friend or a translator. Some *Bürgeramt* employees only speak German. The *Anmeldung* is simple, but sometimes they ask more questions.
 
 **[Hire a translator ➞](/out/red-tape-translation-interpreter)**
 
