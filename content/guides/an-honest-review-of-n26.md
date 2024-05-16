@@ -81,11 +81,9 @@ N26 is still the only German bank that operates 100% in English. Most German ban
 
 N26 is fine, but you should still look at the other options.
 
-**[Best German banks for expats ➞](/guides/best-bank-germany)**
+If you look at my list of **[best German banks for expats](/guides/best-bank-germany)**, you can find English-speaking banks with no monthly fees, no ATM fees, and more.
 
-[ING](/out/ing), [DKB](/out/dkb), [Comdirect](/out/comdirect) and [bunq](/out/bunq) don't have ATM fees. [Many banks](/guides/best-bank-germany#banks-that-dont-require-an-anmeldung) let you open an account without an *[[Anmeldung]]*. [bunq](/out/bunq) offers full English support. [Deutsche Bank](/out/deutsche-bank) offers limited English support.
-
-If I had to choose another bank, I would choose [ING](/out/ing) or [DKB](/out/dkb). If I didn't speak German, I would choose [bunq](/out/bunq).
+If I had to choose another bank, I would choose [C24](/out/c24) or [DKB](/out/dkb). If I didn't speak German, I would choose [bunq](/out/bunq).
 
 ## What do I dislike about N26?
 
@@ -99,7 +97,7 @@ N26 fees and conditions get worse every year:
 - The free account has 3 free ATM withdrawals per month. It used to be 5.
 - The free account does not include Spaces.
 
-This is not just N26. **All banks got worse**. Every year, when I update my [comparison of German banks](/guides/best-bank-germany), I notice more fees and more limitations.
+This is not just N26. Other banks also got worse. Every year, when I update my [comparison of German banks](/guides/best-bank-germany), I notice more fees and more limitations.
 
 ### There are no monthly fees
 

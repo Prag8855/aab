@@ -19,7 +19,7 @@ When you open your first bank account, choose an expat-friendly bank like [N26](
 
 An expat-friendly bank...
 
-- Speaks your language
+- Speaks English and other languages
 - Lets you open an account quickly
 - Accepts foreign passports and documents
 - Does not ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registration certificate](/glossary/Anmeldebestätigung)
@@ -30,7 +30,7 @@ In my opinion, N26 is the most expat-friendly German bank. I use them since 2016
 
 Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience. I recommend N26 because I use it since 2016.
 
-The biggest disadvantage: [the required documents](/out/n26-supported-passports). Depending on your nationality, you might need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for 1 year. This is a problem for recent immigrants.
+The biggest disadvantage: [the required documents](/out/n26-supported-passports). Depending on your nationality, you might need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for 1 year. This is a problem for some recent immigrants.
 
 **[My review of N26 ➞](/guides/an-honest-review-of-n26)**
 
@@ -44,7 +44,7 @@ Their free account is too limited, but **the cheapest account has everything you
 
 Two British online banks. Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
-The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN.
+The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN. This is [not a big problem](#banks-in-other-eu-countries).
 
 Revolut speaks English and German. Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
 
@@ -90,7 +90,7 @@ I strongly recommend to get a free bank account. Don't pay your bank to hold you
 These banks offer a **free bank account** with no monthly fees:
 
 - **[C24](/out/c24)**{% include '_blocks/recommended.html' %}  
-    The best free bank account in my opinion. It's the only free account that includes a Girocard. They only speak German.
+    The best free bank account in my opinion. It's the only free account that includes a [[Girocard]]. They only speak German.
 - **[N26](/out/n26)**{% include '_blocks/recommended.html' %}  
     The best free bank account if you don't speak German. It covers all your basic banking needs.
 - **[bunq](/out/bunq)**  
@@ -125,7 +125,7 @@ These banks might still charge for a credit card, or to withdraw money from an A
 
 Choose a bank with free ATM withdrawals. In Germany, you often need cash. On average, Germans withdraw cash 3 times per month. They withdraw around 200€ per month.[^12] Don't pay 5€ to 7€ every time you use an ATM. It's a waste of money.
 
-These banks let you **use any ATM for free**:
+These banks let you **use any ATM in Germany for free**:
 
 - **[DKB](/out/dkb)**
 - **[ING](/out/ing)** - Minimum withdrawal is 50€.[^36]
@@ -138,11 +138,48 @@ These banks let you **use any ATM for free**:
 
 These banks only let you **use some ATMs for free**. You might need to walk another 10 minutes to find a free ATM. I don't recommend them.
 
-- **[Berliner Sparkasse](/out/sparkasse)** - Use Sparkasse ATMs for free (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
-- **[Berliner Volksbank](/out/volksbank)** - Use BVR ATMs for free (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
-- **[Commerzbank](/out/commerzbank)** - Use Cash Group ATMs for free (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
-- **[Deutsche Bank](/out/deutsche-bank)** - Use Cash Group ATMs for free (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
-- **[1822direkt](/out/1822direkt)** - 4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
+- **[Berliner Sparkasse](/out/sparkasse)**  
+    Use Sparkasse ATMs for free (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
+- **[Berliner Volksbank](/out/volksbank)**  
+    Use BVR ATMs for free (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
+- **[Commerzbank](/out/commerzbank)**  
+    Use Cash Group ATMs for free (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
+- **[Deutsche Bank](/out/deutsche-bank)**  
+    Use Cash Group ATMs for free (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
+- **[1822direkt](/out/1822direkt)**  
+    4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
+
+## Banks that don't require an Anmeldung
+
+Many banks ask for a [registration certificate](/glossary/Anmeldebestätigung). You only get it after you [find an apartment](/guides/find-a-flat-in-berlin) and [register your address](/glossary/Anmeldung). If you just moved to Germany, this is not possible.
+
+These banks don't ask for a registration certificate:
+
+- [bunq](/out/bunq)
+- [C24](/out/c24)
+- [DKB](/out/dkb)[^4]
+- [Monese](/out/monese)
+- [N26](/out/n26)
+- [Revolut](/out/revolut)
+- [Vivid](/out/vivid)
+- [Wise](/out/wise-account)
+
+These banks don't always ask for a registration certificate:
+
+- [Deutsche Bank](/out/deutsche-bank)
+
+## Banks in other EU countries
+
+You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to 100,000€.[^8]
+
+There are a few differences:
+
+- **Foreign [[IBAN]]**  
+    IBAN discrimination is illegal, but it still happens.[^45] Some businesses refuse foreign bank account numbers ([[IBAN]]). If your IBAN does not start with "DE", you might get an error. If you can, choose a bank that gives you a German IBAN.
+- **No [[Girocard]]**  
+    Girocards are a common payment method in Germany. Only German banks give you a Girocard. Many small businesses only accept cash and Girocards, no Visa or Mastercard. It's rarely a problem; you can just pay with cash. I have no Girocard since 2016, and I never had a problem.
+- **No [[Schufa]] record**  
+    Usually, opening a bank account is a good way to get your first Schufa record. Non-German banks don't create a Schufa record.
 
 ## Blocking account for students
 
@@ -159,35 +196,6 @@ You can open a blocked account with...
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]
 
 Deutsche Bank stopped offering blocked accounts.[^42]
-
-## Banks that don't require an Anmeldung
-
-Many banks ask for a [registration certificate](/glossary/Anmeldebestätigung). You only get it after you [find an apartment](/guides/find-a-flat-in-berlin) and [register your address](/glossary/Anmeldung). If you just moved to Germany, this is not possible.
-
-These banks don't ask for a registration certificate:
-
-- [bunq](/out/bunq)
-- [C24](/out/c24)
-- [Deutsche Bank](/out/deutsche-bank)
-- [DKB](/out/dkb)[^4]
-- [Monese](/out/monese)
-- [N26](/out/n26)
-- [Revolut](/out/revolut)
-- [Vivid](/out/vivid)
-- [Wise](/out/wise-account)
-
-## Banks in other EU countries
-
-You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to 100,000€.[^8]
-
-There are a few differences:
-
-- **Foreign [[IBAN]]**  
-    IBAN discrimination is illegal, but it still happens.[^45] Some businesses refuse foreign bank account numbers ([[IBAN]]). If your IBAN does not start with "DE", you might get an error. If you can, choose a bank that gives you a German IBAN.
-- **No [[Girocard]]**  
-    Girocards are a common payment method in Germany. Only German banks give you a Girocard. Many small businesses only accept cash and Girocards, no Visa or Mastercard. It's rarely a problem; you can just pay with cash. I have no Girocard since 2016, and I never had a problem.
-- **No [[Schufa]] record**  
-    Usually, opening a bank account is a good way to get your first Schufa record. Non-German banks don't create a Schufa record.
 
 ## Which bank should I choose?
 
