@@ -189,7 +189,7 @@ $width-main-column: 860px;
 		--xl-relative: 1.5em; // Text blocks
 	--l: 1.25rem;
 		--l-relative: 1.25em; // Text blocks
-	--m: 17px; // Separate but related elements
+	--m: 19px; // Separate but related elements
 		--m-relative: 1em; // Separate but related elements
 	--s: 0.5rem; // Space between parts of a component, list items
 		--s-relative: 0.5em; // Compact text blocks
@@ -286,6 +286,7 @@ $width-main-column: 860px;
 @include only-phone{
 	:root{
 		--w-page-border: var(--m);
+		--m: 17px;
 	}
 }
 
