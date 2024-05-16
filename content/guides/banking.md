@@ -13,21 +13,21 @@ To open a bank account, read **[how to choose a bank](/guides/first-bank-account
 
 ## Bank accounts
 
-Open a bank account as soon as you arrive in Germany. You need one to get paid by your employer, pay your rent, pay taxes and buy things online. Many things are only paid by [bank transfer](/glossary/SEPA-Überweisung).
+You need a bank account to get paid by your employer, pay your rent, pay taxes and buy things online. Many things are only payable by [bank transfer](/glossary/SEPA-Überweisung). Open a bank account as soon as you arrive in Germany.
 
 **[Best banks for expats ➞](/guides/first-bank-account-in-germany)**
 
-You don't need a German bank account. You can use a bank from any [EU](/glossary/European%20Union) country. It makes no difference.
+You don't need a German bank account. You can use a bank from any [EU](/glossary/European%20Union) country. Only German banks give you a [[Girocard]] and a German [[IBAN]], but you don't really need them.
 
 ### Types of bank accounts
 
-The **Girokonto** or checking account is your default bank account. You use it to send and receive money. This account pays near 0% interest, so don't keep a lot of money in it. People usually keep around 2,000€ in their *Girokonto*.
+The **Girokonto** or checking account is your default bank account. You use it to send and receive money. This account pays near 0% interest, so don't keep a lot of money in it. People usually keep around 2,000€ in their *Girokonto*. All banks must offer a free *Girokonto* called the *Basiskonto*.
 
 The **Tagesgeldkonto** or savings account is where you keep your extra money. This account pays up to 4% interest.
 
 Use a **Depot** or trading account to invest in stocks and ETFs. This is a popular way to invest money in Germany.
 
-Business owners should open a **business account** for their business. It's optional, but [it's a really good idea](/guides/start-a-business-in-germany#two-bank-accounts-is-better).
+Open a **business account** for your business. It's optional, but [it's a really good idea](/guides/start-a-business-in-germany#two-bank-accounts-is-better).
 
 Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
 
