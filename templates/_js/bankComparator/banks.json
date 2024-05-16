@@ -11,6 +11,18 @@
         "accounts": []
     },
     {
+        "name": "C24",
+        "tags": [
+            "Apple Pay / Google Pay",
+            "German IBAN",
+            "Girocard",
+        ],
+        "url": "/out/c24",
+        "accounts": [
+            
+        ]
+    },
+    {
         "name": "N26",
         "lastUpdated": "2024-05-16",
         "country": "Germany",
