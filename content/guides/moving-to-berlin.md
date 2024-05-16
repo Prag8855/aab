@@ -110,7 +110,7 @@ After you [find an apartment](/guides/find-a-flat-in-berlin), you must move in. 
 
 ### Register your address
 
-You must [register your address](/glossary/Anmeldung) after you move in. You will get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). This will be very important later.
+You must [register your address](/glossary/Anmeldung) after you move in. You will get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need the registration certificate to access government services. Your employer needs your tax ID to pay you correctly.
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
