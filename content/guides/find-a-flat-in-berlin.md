@@ -29,7 +29,7 @@ Before you [look for apartments](#look-for-apartments), you must...
     Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
 - [ ] **Save money**  
     You need enough for the rent, the [deposit](/glossary/Kaution), and some furniture and house supplies. If you have a low budget, rent a room in a [[WG]].
-- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
+- [ ] **[Open a bank account](/guides/best-bank-germany)**  
     Pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or send money from another country with [Wise](/out/wise).
 - [ ] **Understand [how housing works](#important-knowledge)**
 - [ ] **Prepare the [required documents](#required-documents)**
@@ -502,7 +502,7 @@ You usually pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You ra
 
 You need a European bank account to make bank transfers. Use [Wise](/out/wise) to transfer money from a non-EU country.
 
-**[Open a bank account ➞](/guides/first-bank-account-in-germany)**
+**[Open a bank account ➞](/guides/best-bank-germany)**
 
 ### Rooms and floors
 

@@ -248,7 +248,7 @@ In a few weeks (or a few months), you must go to the embassy or consulate again.
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start working.[^40]
 
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/first-bank-account-in-germany). These things will be useful later.
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/best-bank-germany). These things will be useful later.
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 

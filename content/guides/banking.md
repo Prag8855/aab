@@ -7,7 +7,7 @@ Date_created: 2024-04-10
 
 This guide explains how bank accounts, credit cards and bank transfers work in Germany. It's an introduction to banking for immigrants.
 
-To open a bank account, read **[how to choose a bank](/guides/first-bank-account-in-germany)**.
+To open a bank account, read **[how to choose a bank](/guides/best-bank-germany)**.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -15,7 +15,7 @@ To open a bank account, read **[how to choose a bank](/guides/first-bank-account
 
 You need a bank account to get paid by your employer, pay your rent, pay taxes and buy things online. Many things are only payable by [bank transfer](/glossary/SEPA-Überweisung). Open a bank account as soon as you arrive in Germany.
 
-**[Best banks for expats ➞](/guides/first-bank-account-in-germany)**
+**[Best banks for expats ➞](/guides/best-bank-germany)**
 
 You don't need a German bank account. You can use a bank from any [EU](/glossary/European%20Union) country. Only German banks give you a [[Girocard]] and a German [[IBAN]], but you don't really need them.
 
@@ -57,7 +57,7 @@ Germans love cash. 58% of their transactions are paid with cash.[^3] They usuall
 
 Many restaurants only accept cash. Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash.
 
-**Always have cash with you**. [Choose a bank](/guides/first-bank-account-in-germany) with low ATM fees.
+**Always have cash with you**. [Choose a bank](/guides/best-bank-germany) with low ATM fees.
 
 ![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
 

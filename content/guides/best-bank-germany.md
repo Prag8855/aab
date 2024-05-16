@@ -139,7 +139,7 @@ These banks only let you **use some ATMs for free**. You might need to walk anot
 - **[Deutsche Bank](/out/deutsche-bank)** - Use Cash Group ATMs for free (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
 - **[1822direkt](/out/1822direkt)** - 4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
 
-## Blocked account for students
+## Blocking account for students
 
 To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*) like a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
 

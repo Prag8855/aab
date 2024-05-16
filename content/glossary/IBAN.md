@@ -6,7 +6,7 @@ Description: A number you use for bank transfers in Europe.
 Date_created: 2018-10-23
 Related_guides:
     guides/banking.md
-    guides/first-bank-account-in-germany.md
+    guides/best-bank-germany.md
     guides/gez-rundfunkbeitrag.md
 ---
 

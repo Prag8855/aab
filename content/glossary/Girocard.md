@@ -5,7 +5,8 @@ English_term: Girocard
 Description: A payment method that only exists in Germany
 Date_created: 2022-05-17
 Related_guides:
-    guides/first-bank-account-in-germany.md
+    guides/banking.md
+    guides/best-bank-germany.md
 ---
 
 Girocard (*Girokarte* or *EC-Karte*) is a type of debit card in Germany. You can use it to buy things and withdraw money.[^1]

@@ -104,7 +104,7 @@ A basic pay-as-you-go data plan costs around 10€ per month. Plans that include
 
 Some banks charge a monthly fee. It's usually around 10€ per month. Some banks also charge 5€ to 10€ when you use an ATM from another network.
 
-**[Compare German banks ➞](/guides/first-bank-account-in-germany)**
+**[Compare German banks ➞](/guides/best-bank-germany)**
 
 ### Liability insurance
 

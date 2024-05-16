@@ -120,7 +120,7 @@ Your employer can also put false information in your *Arbeitsbescheinigung*. Thi
 
 ALG I is paid on the first [business day](/glossary/Arbeitstag) of the next month.[^15] For example, if you get ALG I in May, it's paid on June 1.
 
-ALG I is paid by [bank transfer](/glossary/SEPA-Überweisung), so you need a [bank account](/guides/first-bank-account-in-germany).[^16] You do not need a German bank account; just an account that accepts [SEPA transfers](/glossary/SEPA-Überweisung).[^17]
+ALG I is paid by [bank transfer](/glossary/SEPA-Überweisung), so you need a [bank account](/guides/best-bank-germany).[^16] You do not need a German bank account; just an account that accepts [SEPA transfers](/glossary/SEPA-Überweisung).[^17]
 
 ### Conditions to get ALG I
 

@@ -81,7 +81,7 @@ If you don't get a relocation bonus, your relocation are still [tax-deductible](
 
 In Germany, most people are paid **once per month, usually on the 1st or 15th** day of the month. You get your first paycheck after 30 or 45 days after you start working. If you are just [moving to Germany](/guides/moving-to-berlin), you need enough savings to survive the first 6 weeks.
 
-Almost everyone is paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you start working in Germany, [you need a bank account](/guides/first-bank-account-in-germany) that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Your bank can be in another European country.
+Almost everyone is paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you start working in Germany, [open a bank account](/guides/best-bank-germany) that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Your bank can be in another European country.
 
 [^0]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Realloehne-Nettoverdienste/Tabellen/liste-entwicklung-nettoverdienste.html)
 [^1]: [Arbeitsagentur](https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=21424&topic_f=beschaeftigung-entgelt-entgelt), [focus.de](https://www.focus.de/finanzen/interaktive-karte-mit-3426-euro-gehoeren-sie-in-deutschland-zur-oberen-haelfte-jedoch-nicht-in-allen-regionen_id_13522236.html) (2020), [bz-berlin.de](https://www.bz-berlin.de/berlin/tabuthema-gehalt-das-verdienen-die-berliner) (2020)

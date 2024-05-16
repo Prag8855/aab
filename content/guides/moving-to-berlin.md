@@ -19,7 +19,7 @@ Finding an apartment is usually the hardest step. If you are not yet in Berlin, 
 
 Moving to Germany costs a lot of money. You need savings. Your employer might offer a relocation bonus, or pay some of your relocation costs.
 
-After you arrive in Germany, you need a [bank account](/guides/first-bank-account-in-germany) and a SIM card for your phone. When you move into your apartment, you must [register your address](/guides/anmeldung-in-english-berlin).
+After you arrive in Germany, you need a [bank account](/guides/best-bank-germany) and a SIM card for your phone. When you move into your apartment, you must [register your address](/guides/anmeldung-in-english-berlin).
 
 ![Move to berlin boxes luggage](/illustrations/move-to-berlin-boxes-luggage.png)
 
@@ -60,7 +60,7 @@ It's *really* hard to find an apartment in Berlin. It's harder if you are not in
 
 The best option is to get a temporary furnished apartment, come to Berlin, then look for something better. It's almost impossible to find a good apartment if you are not in Berlin.
 
-Before you [move in](/guides/moving-in), you must pay the first month's rent, and the deposit (*[[Kaution]]*). In Germany, you pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/first-bank-account-in-germany), or use [Wise](/out/wise) to send money from another country.
+Before you [move in](/guides/moving-in), you must pay the first month's rent, and the deposit (*[[Kaution]]*). In Germany, you pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/best-bank-germany), or use [Wise](/out/wise) to send money from another country.
 
 ### Get health insurance
 
@@ -100,7 +100,7 @@ You need a bank account in the [[European Union]] to make [bank transfers](/glos
 
 If you are not a EU citizen, it can be hard to open a bank account. Banks often require a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung). They don't accept all passports.
 
-**[List of expat-friendly banks ➞](/guides/first-bank-account-in-germany)**
+**[Best German banks for expats ➞](/guides/best-bank-germany)**
 
 Use [Wise](/out/wise) to send money from another country. You can use it to pay rent without a EU bank account, or to add money to your new bank account.
 

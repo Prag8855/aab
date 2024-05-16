@@ -6,7 +6,7 @@ Description: The standard way to send money in Germany.
 Date_created: 2019-01-07
 Related_guides:
     guides/banking.md
-    guides/first-bank-account-in-germany.md
+    guides/best-bank-germany.md
     guides/gez-rundfunkbeitrag.md
     guides/buying-used-car-in-germany.md
 ---

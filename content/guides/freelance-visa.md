@@ -238,7 +238,7 @@ In around 3 months, you must go to the embassy or consulate again.[^66] They wil
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start your business.[^40]
 
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany) and [start your business](/guides/start-a-business-in-germany).
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/best-bank-germany) and [start your business](/guides/start-a-business-in-germany).
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
