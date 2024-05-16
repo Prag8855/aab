@@ -161,13 +161,17 @@ When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbeho
 - If you have a university degree, choose "Economic activity", then "Residence permit for qualified skilled workers with an academic education (sect. 18b para. 1)"
 - If you have another kind of professional training, choose "Economic activity", then "Residence permit for qualified skilled workers with vocational training (sect. 18a)"
 
+During your work visa appointment, **ask for a [[Fiktionsbescheinigung]]**. It might allow you to travel outside of Germany with an expired residence permit.
+
 ### 5. Wait
 
 The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
 
-In most cases, your current [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany.
+In most cases, your current [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
 
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
+**[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
+
+**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
 ### 6. Go to your work visa appointment
 
