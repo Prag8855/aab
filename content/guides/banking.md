@@ -33,28 +33,13 @@ Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [
 
 The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to 100,000€. Even if the bank closes, you get your money back. Money in your *Depot* account is not insured.[^4]
 
-## How to open a bank account in Germany
+### Types of banks
 
-The requirements to open a bank account are the same for most banks:
+**Traditional banks** have physical locations. If you have a problem, you can go to the bank in person. Usually, these banks are old-fashioned: they rely on mail and in-person appointments. Their online services are not so good.
 
-- **A proof of German residency** (your *[Meldebescheinigung](/guides/replacement-meldebescheinigung)*). [Some banks](/guides/first-bank-account-in-germany#banks-that-dont-require-an-anmeldung) let you open an account without one.
-- **A proof of identity** (your passport or national ID, and sometimes a [residence permit](/glossary/Aufenthaltstitel))
+**Online banks** have no branches. You do everything online. Usually, they have lower fees and much better online banking. It's much easier to open an account, because you do it directly in their app.
 
-Some banks require a minimum income or financial history in Germany. Other banks require [permanent residence](/glossary/Niederlassungserlaubnis) in Germany. For example, [DKB](/out/dkb) often rejects foreigners.[^47] Some online banks only support certain passports,[^48] or ask for a [residence permit](/glossary/Aufenthaltstitel).
-
-If you are American, you need extra forms to open a German bank account, because of [FATCA](https://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act).[^49] Some banks don't let Americans open an account.[^50]
-
-If you are from a sanctioned country, it's harder to open a bank account.[^5]
-
-Some banks like [N26](/out/n26), [bunq](/out/bunq), [DKB](/out/dkb), [ING](/out/ing), [Comdirect](/out/comdirect) and [Wise](/out/wise-account) let you open an account with their app. You can do it at home. They start a video call, and they ask you to show both sides of your ID or passport. This only works with passports from certain countries.[^51] If they don't accept your passport, you must use [[Postident]] to verify your documents. This takes longer, and it doesn't always work.
-
-With online banks, you can sometimes open your account from another country, before you arrive in Germany. They still need to send your bank card to a German address. Some people sent the bank card to their office, or to a friend's address.
-
-Some banks like [Commerzbank](/out/commerzbank), [Sparkasse](/out/sparkasse), [Deutsche Bank](/out/deutsche-bank) and [Volksbank](/out/volksbank) only let you open an account in person at a physical branch. The employees there sometimes speak English. These banks can be more flexible. They might accept most passport types, and let you open a bank account without a [residence permit](/glossary/Aufenthaltstitel) or a [registered address](/glossary/Anmeldung).
-
-### Transfer money from another country
-
-After you open a German bank account, use [Wise](/out/wise) or [XE.com](https://www.xe.com/) to transfer money from another country. They have better exchange rates and lower fees than banks. I used Wise when I moved to Germany. I still use it when I need to send money abroad. You can use Wise directly in the N26 app.
+In my experience, online banks are better, but traditional banks offer more services. If you need a mortgage or a loan, you usually need a traditional bank.
 
 ## Common payment methods
 
