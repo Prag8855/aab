@@ -11,7 +11,7 @@ In Germany, if you are too sick or injured to work, you take a sick day. This gu
 
 ## It's okay to take sick days
 
-On average, German employees take 11 sick days per year.[^0] You can take as many sick days as you need, even during your [probation period](/glossary/Probezeit).
+On average, German employees take 15 sick days per year.[^0] You can take as many sick days as you need, even during your [probation period](/glossary/Probezeit).
 
 Your employer can't punish you because you take sick days. If you take more than 30 sick days per year, you *could* get fired.[^1] To fire you, your employer must prove that you will not get better, that it's bad for the company, and that there are no other options (like a transfer or reduced hours).[^2]
 
