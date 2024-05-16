@@ -58,6 +58,8 @@ These banks are **not expat-friendly**:
     It takes too long to open an account.[^10] They mostly speak German. Online banking, customer service and some documents are in English.[^7] You might need a [residence permit](/glossary/Aufenthaltstitel).[^54]
 - **[Commerzbank](/out/commerzbank)**  
     It takes too long to open an account.[^9] You need a [registration certificate](/glossary/Anmeldebestätigung) and a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6] Basic online banking is in English, everything else is in German.
+- **[C24](/out/c24)**  
+    It's an excellent bank, but they [accept fewer passports](https://go.idnow.de/bafin2017/documents) and might require a residence permit.[^1] They only speak German.
 - **[ING](/out/ing)**  
     It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^15] They only speak German.
 - **[DKB](/out/dkb)**  
@@ -87,8 +89,10 @@ I strongly recommend to get a free bank account. Don't pay your bank to hold you
 
 These banks offer a **free bank account** with no monthly fees:
 
+- **[C24](/out/c24)**{% include '_blocks/recommended.html' %}  
+    The best free bank account in my opinion. It's the only free account that includes a Girocard. They only speak German.
 - **[N26](/out/n26)**{% include '_blocks/recommended.html' %}  
-    The best free bank account in my opinion. It covers all your basic banking needs.
+    The best free bank account if you don't speak German. It covers all your basic banking needs.
 - **[bunq](/out/bunq)**  
     The free account is very limited: no free ATM withdrawals, no payment card, and no German [[IBAN]]. The paid accounts make more sense.
 - **[Revolut](/out/revolut)**
@@ -126,6 +130,7 @@ These banks let you **use any ATM for free**:
 - **[DKB](/out/dkb)**
 - **[ING](/out/ing)** - Minimum withdrawal is 50€.[^36]
 - **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
+- **[C24](/out/c24)** - 4 free withdrawals per month.
 - **[N26](/out/n26)** - 3 free withdrawals per month, then 2€ per withdrawal.
 - **[Wise](/out/wise-account)** - Withdraw up to 200€ per month for free.
 - **[Revolut](/out/revolut)** - Withdraw up to 200€ per month for free.
@@ -161,14 +166,15 @@ Many banks ask for a [registration certificate](/glossary/Anmeldebestätigung). 
 
 These banks don't ask for a registration certificate:
 
-- [N26](/out/n26)
 - [bunq](/out/bunq)
-- [Revolut](/out/revolut)
-- [Wise](/out/wise-account)
+- [C24](/out/c24)
 - [Deutsche Bank](/out/deutsche-bank)
 - [DKB](/out/dkb)[^4]
 - [Monese](/out/monese)
+- [N26](/out/n26)
+- [Revolut](/out/revolut)
 - [Vivid](/out/vivid)
+- [Wise](/out/wise-account)
 
 ## Banks in other EU countries
 
@@ -187,10 +193,13 @@ There are a few differences:
 
 **The best banks for foreigners** are [N26](/out/n26) and [bunq](/out/bunq). I use N26 since 2016, and [I recommend them](/guides/an-honest-review-of-n26). [Revolut](/out/revolut) and [Wise](/out/wise-account) are also good options, but they have a low free withdrawal limit, and no German [[IBAN]].
 
-**If you can't open an account anywhere**, [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse) might work. They accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse might accept you.[^2]
+None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is a really good option, but they only speak German.
 
-**The best German-speaking banks** are [DKB](/out/dkb) and [ING](/out/ing), but they don't accept recent immigrants.
+**If you can't open an account anywhere**, [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse is the best option.[^2]
 
+**The best German-speaking bank** is [C24](/out/c24). [DKB](/out/dkb) and [ING](/out/ing) are also great, but they don't accept recent immigrants.
+
+[^1]: [C24](https://hilfe.c24.de/hc/de/articles/360012128719-Welche-Ausweisdokumente-kann-ich-zur-Identifizierung-verwenden) (May 2024)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399), [6](https://twitter.com/DeusFoxy/status/1752302987295269173)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
