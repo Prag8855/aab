@@ -49,7 +49,7 @@ You can only get the Deutschland Ticket as a subscription. This means that you p
 
 You can buy the ticket at any time at the service centre. If you buy it online, you must buy it in advance, unless you buy it at the service. You have until the 20th day of the month to buy your ticket for the next month. For example, you have until May 20 to buy your ticket for June.
 
-When you buy the ticket, you sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), and pay by automatic [bank transfer](/glossary/SEPA-%C3%9Cberweisung) every month. You need a European [bank account](/guides/first-bank-account-in-germany) for this. It can take 2 days for the tickets to appear in the BVG app.
+When you buy the ticket, you sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), and pay by automatic [bank transfer](/glossary/SEPA-%C3%9Cberweisung) every month. You need a European [bank account](/guides/best-bank-germany) for this. It can take 2 days for the tickets to appear in the BVG app.
 
 The rules can be different in other German states.
 

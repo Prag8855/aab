@@ -12,7 +12,7 @@ If you [move to Berlin](/guides/moving-to-berlin), you should learn German. In t
 
 ## Do I need to speak German in Berlin?
 
-**No, but it's a good idea.** You can live in Berlin without speaking German. Many Germans speak English. Most immigrants speak English. There are many [English-speaking jobs in Berlin](/guides/find-a-job-in-berlin#english-speaking-jobs). There are English-speaking [doctors](/guides/english-speaking-doctors-berlin), [lawyers](/guides/english-speaking-lawyers-berlin), [accountants](/guides/english-speaking-steuerberater-berlin) and [banks](/guides/first-bank-account-in-germany#german-banks-with-english-support). Many people live in Berlin for years, and never learn German.
+**No, but it's a good idea.** You can live in Berlin without speaking German. Many Germans speak English. Most immigrants speak English. There are many [English-speaking jobs in Berlin](/guides/find-a-job-in-berlin#english-speaking-jobs). There are English-speaking [doctors](/guides/english-speaking-doctors-berlin), [lawyers](/guides/english-speaking-lawyers-berlin), [accountants](/guides/english-speaking-steuerberater-berlin) and [banks](/guides/best-bank-germany#german-banks-with-english-support). Many people live in Berlin for years, and never learn German.
 
 But **if you don't speak German, life is more stressful**:
 

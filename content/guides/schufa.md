@@ -13,7 +13,7 @@ To [apply for an apartment](/guides/find-a-flat-in-berlin), you often need a *Sc
 
 The Schufa report shows your Schufa score (*Basisscore*). The Schufa score is **like a credit score**. A good score shows that you pay on time.
 
-If you are new in Germany, you might not have a Schufa score yet. Schufa has no information about you. You get a score when you [open a bank account](/guides/first-bank-account-in-germany) or a get a mobile phone contract for the first time.[^0]
+If you are new in Germany, you might not have a Schufa score yet. Schufa has no information about you. You get a score when you [open a bank account](/guides/best-bank-germany) or a get a mobile phone contract for the first time.[^0]
 
 [![Example Schufa certificate](/images/schufa-example.png "Example Schufa certificate")](/images/schufa-example.png)
 

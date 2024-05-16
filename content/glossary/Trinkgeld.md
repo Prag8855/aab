@@ -14,4 +14,4 @@ When you get a good service, you can leave a tip. In German, it's called *Trinkg
 
 In Germany, tipping is always optional. You only leave a tip when you get a good service.
 
-**[How tipping works in Germany ➞](/guides/tipping)**)
+**[How tipping works in Germany ➞](/guides/tipping)**

@@ -193,7 +193,6 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-[^0]: [§823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)
 [^1]: [cosmosdirekt.de](https://www.cosmosdirekt.de/private-haftpflichtversicherung/haftpflichtversicherung-mietsachschaeden/)
 [^2]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891)
 [^3]: [test.de](https://www.test.de/Versicherungsirrtuemer-Was-Sie-ueber-Versicherungen-unbedingt-wissen-sollten-4954310-0/#:~:text=schaden%2C%20die%20kleine%20kinder%20verursachen), [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=kinder%20unter%20sieben%20jahren)

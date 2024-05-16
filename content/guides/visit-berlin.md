@@ -154,7 +154,7 @@ Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https:/
 
 ### Events
 
-Find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin), and [Berlin Events Weekly](https://www.berlineventsweekly.com/).
+Find events on [visitBerlin.de](https://www.visitberlin.de/en/events-berlin), [Facebook](https://www.facebook.com/events/search/?q=berlin), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [Rausgegangen](https://rausgegangen.de/en/).
 
 Find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsintown](https://www.bandsintown.com/de/c/berlin-be-germany-be-germany), [Songkick](https://www.songkick.com/metro-areas/28443-germany-berlin) and [Echtzeitmusik](https://www.echtzeitmusik.de/index.php). [@berlingig](https://t.me/berlingigs) is a Telegram channel that posts cheap concerts every week.
 
@@ -232,9 +232,11 @@ If you are more patient, you can also use [CouchSurfing](https://www.couchsurfin
 
 In Germany, **[shops and supermarkets close on Sundays](/guides/open-on-sundays-in-berlin)**. Most restaurants, tourist attractions, *[Spätis](/glossary/Sp%C3%A4ti)* and gas stations stay open on Sundays.
 
-**Always have cash with you**. Some restaurants and businesses only accept cash and [Girocards](/glossary/Girocard). Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash. Cards are rarely accepted for small transactions.
+Germans pay with cash, Girocard, Visa and Mastercard. **Always have cash with you**. Many restaurants only accept cash. Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash.
 
-![Berlin cash only sign](/illustrations/berlin-cash-only-sign.png)
+**[Payment methods in Germany ➞](/guides/banking#common-payment-methods)**
+
+![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
 
 ### VAT refund
 

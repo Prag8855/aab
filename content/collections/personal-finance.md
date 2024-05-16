@@ -3,7 +3,8 @@ Title: Personal finance
 Description: Guides for keeping control of your money
 Related_guides:
     guides/cost-of-living.md
-    guides/first-bank-account-in-germany.md
+    guides/best-bank-germany.md
+    guides/banking.md
     guides/taxes.md
     guides/insurance.md
     guides/saving-money-germany.md

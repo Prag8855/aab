@@ -134,19 +134,19 @@
 					</details>
 				</div>
 				</details>
-				<details class="requirements" v-if="account.bank.requirements">
-					<summary>Requirements</summary>
-					<p :class="{error: hasRequirementsError(account)}" v-html="account.bank.requirements"></p>
+				<details class="requirements" :class="{error: hasRequirementsError(account)}" v-if="account.bank.requirements">
+					<summary>Required documents</summary>
+					<p v-html="account.bank.requirements"></p>
+					<p v-if="account.bank.requirementsUrl"><strong><a :href="account.bank.requirementsUrl" target="_blank">Read more ➞</a></strong></p>
 				</details>
 			</div>
 		</li>
 	</ul>
 	<a v-if="negativeScoreAccountsCount" class="no-print" :class="showNegativeScore ? 'hide-options' : 'show-options'" @click.prevent="showNegativeScore = !showNegativeScore" href="#">
-		{{ showNegativeScore ? "Hide" : "Show" }} {{ negativeScoreAccountsCount }} filtered bank{{ negativeScoreAccountsCount > 1 ? 's' : '' }}
+		{{ showNegativeScore ? "Hide" : "Show" }} {{ negativeScoreAccountsCount }} excluded bank{{ negativeScoreAccountsCount > 1 ? 's' : '' }}
 	</a>
 {% endraw %}
 </div>
-
 
 {% include '_js/countries.js' %}
 {% include '_js/currency.js' %}

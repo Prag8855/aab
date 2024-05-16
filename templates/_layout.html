@@ -34,10 +34,11 @@
 			<link rel="canonical" href="{{ entry.url }}">
 		{% else %}
 			<meta property="og:type" content="website">
-			<meta property="og:title" content="{{ metatitle }}">
+			<meta property="og:title" content="{% if metatitle|default %}{{ metatitle }}{% else %}All About Berlin{% endif%}">
 			<meta property="og:description" content="{{ metadescription }}">
 			<meta property="og:image" content="{{ site_url }}/staticimages/cover.png">
 		{% endif %}
+		<meta property="og:logo" content="{{ site_url }}/staticimages/logo.png" />
 	{% endblock %}
 
 	<style>{% scss %}{% include "css/style.scss" %}{% endscss %}</style>

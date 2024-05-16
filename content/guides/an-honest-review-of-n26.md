@@ -7,9 +7,9 @@ Date_created: 2017-09-02
 
 In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) because they charge fees for everything.
 
-**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. This is not common in Germany.
+**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. There are very few [banks with no ATM fees](/guides/best-bank-germany#german-banks-with-no-atm-fees).
 
-I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in 2024.
+I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in {{ now.strftime('%Y') }}.
 
 ![N26 credit cards](/images/n26-credit-card-allaboutberlin.jpg)
 
@@ -67,7 +67,7 @@ Some banks require a registration certificate (*[[Meldebescheinigung]]*) to open
 
 For some passports, N26 also requires a plastic [residence permit](/glossary/Aufenthaltstitel) that is valid for 1 year.[^2] If this is a problem for you, there are other options.
 
-**[Expat-friendly German banks ➞](/guides/first-bank-account-in-germany#german-banks-for-expats)**
+**[Best German banks for expats ➞](/guides/best-bank-germany#german-banks-for-expats)**
 
 ### Support is available in English
 
@@ -79,13 +79,11 @@ N26 is still the only German bank that operates 100% in English. Most German ban
 
 ### There are other options
 
-N26 is fine, but you should still look at [the other options](/guides/first-bank-account-in-germany).
+N26 is fine, but you should still look at the other options.
 
-[ING](/out/ing), [DKB](/out/dkb), [Comdirect](/out/comdirect) and [bunq](/out/bunq) don't have ATM fees. [Many banks](/guides/german-banks-no-address) let you open an account without an *[[Anmeldung]]*. [bunq](/out/bunq) offers full English support. [Deutsche Bank](/out/deutsche-bank) offers limited English support.
+If you look at my list of **[best German banks for expats](/guides/best-bank-germany)**, you can find English-speaking banks with no monthly fees, no ATM fees, and more.
 
-If I had to choose another bank, I would choose [ING](/out/ing) or [DKB](/out/dkb). If I didn't speak German, I would choose [bunq](/out/bunq).
-
-**[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
+If I had to choose another bank, I would choose [C24](/out/c24) or [DKB](/out/dkb). If I didn't speak German, I would choose [bunq](/out/bunq).
 
 ## What do I dislike about N26?
 
@@ -99,23 +97,23 @@ N26 fees and conditions get worse every year:
 - The free account has 3 free ATM withdrawals per month. It used to be 5.
 - The free account does not include Spaces.
 
-This is not just N26. **All banks got worse**. Every year, when I update my [comparison of German banks](/guides/first-bank-account-in-germany), I notice more fees and more limitations.
+This is not just N26. Other banks also got worse. Every year, when I update my [comparison of German banks](/guides/best-bank-germany), I notice more fees and more limitations.
 
 ### There are no monthly fees
 
 The standard N26 account is free. The free account is not as good as before, but it's still great.
 
-In 2024{{ fail_on('2024-12-31') }}, [most German banks](/guides/first-bank-account-in-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
+In {{ now.strftime('%Y') }}, [most German banks](/guides/best-bank-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
 
-**[Banks with no monthly fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-monthly-fees)**
+**[Banks with no monthly fees ➞](/guides/best-bank-germany#german-banks-with-no-monthly-fees)**
 
 ### Some passports are not supported
 
 When you create your account, you must start a video chat and verify your passport. [Some passport types](/out/n26-supported-passports) are not supported. If video ID doesn't work, you must print a document and bring it to the post office. The person at the post office will verify your identity, and you will get your N26 card a few days later. The post office does not support all passport types either.[^1]
 
-If you can't open an N26 account with your passport, [these banks](/guides/first-bank-account-in-germany#german-banks-for-expats) might accept your passport.
+If you can't open an N26 account with your passport, [these banks](/guides/best-bank-germany#german-banks-for-expats) might accept your passport.
 
-**[Banks for expats ➞](/guides/first-bank-account-in-germany#german-banks-for-expats)**
+**[Best German banks for expats ➞](/guides/best-bank-germany#german-banks-for-expats)**
 
 ### Only 3 free ATM withdrawals per month
 
@@ -123,9 +121,9 @@ In Germany, you always need cash. Fast food kiosks, *[Spätis](/glossary/Sp%C3%A
 
 The free N26 account lets you withdraw money 3 times per month for free. After that, you pay 2€ each time you withdraw money. My account is older, and it still has 5 free withdrawals per month. It's enough for me, but it's not a lot. [The N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts have no withdrawal fees, but they have a monthly fee.
 
-Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees.[ Other banks](/guides/first-bank-account-in-germany#german-banks-with-no-atm-fees) charge even higher fees to withdraw money.
+Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees. [Other banks](/guides/best-bank-germany#german-banks-with-no-atm-fees) charge even higher fees to withdraw money.
 
-**[Banks with no ATM fees ➞](/guides/first-bank-account-in-germany#german-banks-with-no-atm-fees)**
+**[Banks with no ATM fees ➞](/guides/best-bank-germany#german-banks-with-no-atm-fees)**
 
 ### Account creation problems (fixed?)
 
@@ -139,7 +137,7 @@ This was a problem when I opened my account in 2016. It might be solved now.
 
 If you lose access to your phone, you lose access to your bank account. To use the desktop website, you must confirm the login on your phone. To transfer money from the desktop website, you must confirm the transfer on your phone.
 
-If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 does not have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
+If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 does not have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
 
 ### It's hard to get rid of coins
 
@@ -155,11 +153,11 @@ CASH26 does not work if you have a lot of coins. You must [exchange your coins a
 
 **[How to exchange coins in Berlin ➞](/guides/exchange-coins-berlin)**
 
-Other online banks have the same problem. Only [Comdirect](/out/comdirect) lets you deposit coins at Commerzbank branches. Traditional banks like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html) let you deposit coins more easily.
+Other online banks have the same problem. Only [Comdirect](/out/comdirect) lets you deposit coins at Commerzbank branches. Traditional banks like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse) let you deposit coins more easily.
 
 ### Limited services
 
-N26 is good for everyday banking, but it does not offer many investing options. If you want to invest your money, get a fancy credit card or get a mortgage, you need a traditional bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
+N26 is good for everyday banking, but it does not offer many investing options. If you want to invest your money, get a fancy credit card or get a mortgage, you need a traditional bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
 
 You don't need to have one bank for everything. You can have multiple bank accounts. I use [Degiro](/out/degiro) to trade stocks, and [I recommend it](/guides/an-honest-review-of-degiro). I use [Kontist](/out/kontist) as my business bank, and [I don't recommend it](/guides/kontist-review).
 
@@ -219,15 +217,14 @@ N26 has different account types. I use the free account. Since I opened my accou
 
 If you just moved to Germany, [N26](/out/n26) is a good bank to start with. You don't need an *[[Anmeldung]]*, and you can do everything in English. The fees are low, and the N26 app is also nice (I love the push notifications and the spaces). The biggest problem is the slow customer support.
 
-Is N26 the best bank for you? It depends. There are [many other options](/guides/first-bank-account-in-germany):
+Is N26 the best bank for you? It depends. There are [many other options](/guides/best-bank-germany):
 
 - If you want an online bank with low fees, there is also [comdirect](/out/comdirect), [DKB](/out/dkb), [ING](/out/ing) and [bunq](/out/bunq).
 - If you don't speak German, there is also [bunq](/out/bunq), [Wise](/out/wise-account), [Monese](/out/monese), and [Deutsche Bank](/out/deutsche-bank).
-- If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](https://www.berliner-sparkasse.de/de/home.html).
-- If you don't have an *[[Anmeldung]]* yet, there are [many ways to open a bank account](/guides/german-banks-no-address).
-- If N26 does not support your passport type, [Wise](/out/wise-account), [bunq](/out/bunq) and [Monese](/out/monese) support passports from more countries.
+- If you prefer a bank with branches you can go to, there is [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) and [Berliner Sparkasse](/out/sparkasse).
+- If N26 does not support your passport type, there are [expat-friendly banks](/guides/best-bank-germany) that support more passport types.
 
-**[Comparison of German banks ➞](/guides/first-bank-account-in-germany)**
+**[Best German banks for expats ➞](/guides/best-bank-germany)**
 
 [^0]: [docs.n26.com](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf)
 [^1]: [facebook.com](https://www.facebook.com/deutschepost/posts/1727000207317159), [deutscheskonto.org](https://www.deutscheskonto.org/de/postident-problem/), [migazin.de](https://www.migazin.de/2011/11/17/wie-der-ehemalige-staatsbetrieb-auslander-diskriminiert/)

@@ -1,10 +1,15 @@
 ---
 Title: What is Deutsche Bank?
 German_term: Deutsche Bank
-English_term: 
+English_term: Deutsche Bank
 Description: One of the biggest banks in Germany.
 Date_created: 2018-08-14
-Related_guides: guides/an-honest-review-of-n26.md, guides/german-banks-no-address.md
+Related_guides:
+    guides/best-bank-germany.md
+    guides/banking.md
+    guides/an-honest-review-of-n26.md
 ---
 
-[Deutsche Bank](/out/deutsche-bank) is a German bank. It's popular with immigrants because it's the only big bank to offer service in English. [N26](/out/n26) and [bunq](/out/bunq) also offer service in English.
+[Deutsche Bank](/out/deutsche-bank) is one of the large German banks. They offer general and business banking services to German residents. They offer some of their services in English.
+
+**[Best German banks for expats ➞](/guides/best-bank-germany)**

@@ -29,8 +29,8 @@ Before you [look for apartments](#look-for-apartments), you must...
     Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
 - [ ] **Save money**  
     You need enough for the rent, the [deposit](/glossary/Kaution), and some furniture and house supplies. If you have a low budget, rent a room in a [[WG]].
-- [ ] **[Open a bank account](/guides/first-bank-account-in-germany)**  
-    Pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or send money from another country with [Wise](/out/transferwise).
+- [ ] **[Open a bank account](/guides/best-bank-germany)**  
+    Pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or send money from another country with [Wise](/out/wise).
 - [ ] **Understand [how housing works](#important-knowledge)**
 - [ ] **Prepare the [required documents](#required-documents)**
 
@@ -52,7 +52,7 @@ Before you [look for apartments](#look-for-apartments), you must...
     Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* needed.[^51] Preferred by relocation consultants.
 - **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
-- [Wunderflats](/out/wunderflats) - They offer little protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
+- [Wunderflats](/out/wunderflats) - They offer less protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
 - [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
 - [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution).
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
@@ -66,7 +66,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 **Furnished rooms** are also listed on [Kleinanzeigen](https://www.kleinanzeigen.de/) and [Facebook](#facebook-groups). They are cheaper there.[^55]
 
-**Hotels, hostels and vacation apartments** are not a good option, because you can't [register your address](/glossary/Anmeldung) there. [Some hotels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) allow it.
+**Hotels, hostels and vacation rentals** are not a good option, because you can't [register your address](/glossary/Anmeldung) there. [Some hotels](https://nomadandinlove.com/anmeldung-apartment-hotels-berlin/) allow it.
 
 - **[Airbnb](https://www.airbnb.com/)**
 - **[Booking.com](https://www.booking.com/)**
@@ -500,9 +500,9 @@ Sometimes, the previous tenant wants to sell their furniture to you. If you don'
 
 You usually pay rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). You rarely pay rent with cash, and never with cheques. If the landlord uses another payment method, it's probably a [scam](/guides/housing-scams).
 
-You need a European bank account to make bank transfers. Use [Wise](/out/transferwise) to transfer money from a non-EU country.
+You need a European bank account to make bank transfers. Use [Wise](/out/wise) to transfer money from a non-EU country.
 
-**[Open a bank account ➞](/guides/first-bank-account-in-germany)**
+**[Open a bank account ➞](/guides/best-bank-germany)**
 
 ### Rooms and floors
 

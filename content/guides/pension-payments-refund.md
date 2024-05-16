@@ -312,7 +312,7 @@ You can let someone take care of everything. There are good reasons to get help:
 - **You get your money faster**  
     If you want to receive your refund in a non-German bank account, you must wait an extra 2 months. Germany Pension Refund, FundsBack and TaxBack can receive the money in a German bank account, and transfer it directly to you. This saves you two months of waiting. They also offer more payment options than the [[Deutsche Rentenversicherung]].
 - **You pay lower transaction fees**  
-    They offer more payment options than the [[Deutsche Rentenversicherung]]. They can pay you in your currency, with lower currency exchange fees.
+    Germany Pension Refund and FundsBack offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/wise) to transfer the money with lower transaction fees.
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.
 

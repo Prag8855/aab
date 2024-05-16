@@ -4,18 +4,35 @@
         "tags": [
             "Apple Pay / Google Pay",
             "English",
+            "German IBAN",
             "Girocard",
         ],
         "url": "/out/commerzbank",
         "accounts": []
     },
     {
+        "name": "C24",
+        "tags": [
+            "Apple Pay / Google Pay",
+            "German IBAN",
+            "Girocard",
+        ],
+        "url": "/out/c24",
+        "accounts": [
+            
+        ]
+    },
+    {
         "name": "N26",
-        "requirements": "A European passport or a German residence permit, and a proof of address like bills, receipts or a lease. – <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>Read more&nbsp;➞</a>",
+        "lastUpdated": "2024-05-16",
+        "country": "Germany",
+        "requirements": "A passport and any proof of address (lease, power bills, registration certificate). Depending on your nationality, you might or a plastic German residence permit that is valid for at least 1 year.",
+        "requirementsUrl": "/out/n26-supported-passports",
         "tags": [
             "Apple Pay / Google Pay",
             "English",
             "French",
+            "German IBAN",
             "Italian",
             "Mastercard",
             "No Anmeldung",
@@ -47,7 +64,10 @@
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 4.9,
                 "interestRate": 2.26,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                ],
             },
             {
                 "name": "You",
@@ -57,26 +77,38 @@
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 9.9,
                 "interestRate": 2.26,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                    "Travel insurance",
+                ],
             },
             {
                 "name": "Metal",
                 "description": "The N26 Metal adds higher interest rates for your savings, phone insurance, a fancy metal card. It's not worth the extra cost.",
                 "withdrawalFee": 0,
-                "withdrawalFeeExplanation": "5 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
+                "withdrawalFeeExplanation": "8 free ATM withdrawals per month in Germany, then 2€ per withdrawal. Unlimited free withdrawals in the EU.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 16.9,
                 "interestRate": 4,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                    "Travel insurance",
+                ],
             },
         ],
     },
     {
         "name": "Bunq",
-        "requirements": "",
+        "lastUpdated": "2024-05-16",
+        "requirements": "One of the supported passports. No Anmeldung or residence permit required.",
+        "requirementsUrl": "/out/bunq-supported-passports",
         "tags": [
             "English", "Dutch", "French", "Italian", "Spanish",
+            "German IBAN",
             "No Anmeldung",
+            "No residence permit",
             "Mastercard",
             "Apple Pay / Google Pay",
         ],
@@ -93,7 +125,10 @@
                 "creditCardFeeExplanation": "Use a virtual card for free, or pay 9.99€ per year for a physical card.",
                 "creditCardYearlyFee": 9.99,
                 "monthlyFee": 0,
-                "tags": ["No monthly fee"],
+                "tags": [
+                    "Free instant transfers",
+                    "No monthly fee",
+                ],
             },
             {
                 "name": "Easy Bank",
@@ -103,16 +138,37 @@
                 "withdrawalFeeExplanation": "5 withdrawals per month at 0.99€, then 2.99€ per withdrawal.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 3.99,
-                "tags": ["Joint account"],
+                "tags": [
+                    "Free instant transfers",
+                    "Joint account",
+                ],
             },
             {
-                "name": "Easy Money",
+                "name": "Easy Bank Pro",
                 "description": "Free ATM withdrawals, 1% cashback, low foreign exchange fees, multiple currencies and investing options. Bunq accepts more passports than other banks.",
                 "withdrawalFee": 0,
                 "withdrawalFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
                 "creditCardYearlyFee": 0,
                 "monthlyFee": 9.99,
-                "tags": ["Joint account", "No withdrawal fee"],
+                "tags": [
+                    "Joint account",
+                    "Free instant transfers",
+                    "No withdrawal fee"
+                ],
+            },
+            {
+                "name": "Easy Bank Pro XL",
+                "description": "Free ATM withdrawals, 1% cashback, low foreign exchange fees, multiple currencies, investing options and travel insurance. Bunq accepts more passports than other banks.",
+                "withdrawalFee": 0,
+                "withdrawalFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
+                "creditCardYearlyFee": 0,
+                "monthlyFee": 9.99,
+                "tags": [
+                    "Joint account",
+                    "Free instant transfers",
+                    "No withdrawal fee",
+                    "Travel insurance",
+                ],
             },
         ],
     }

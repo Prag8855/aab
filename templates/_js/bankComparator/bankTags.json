@@ -54,14 +54,26 @@
     },
     "No deposit fee": {
         "group": "features",
-        "description": "Deposit cash and coins without fees.",
+        "description": "Deposit cash and coins without paying a fee.",
     },
     "Physical branches": {
         "group": "features",
-        "description": "Go to the bank in person.",
+        "description": "Go to the bank in person when you need to.",
     },
     "Joint account": {
         "group": "features",
         "description": "Share a bank account with your partner.",
+    },
+    "German IBAN": {
+        "description": "People see that your bank is in Germany.",
+        "group": "features",
+    },
+    "Free instant transfers": {
+        "description": "Transfer money go through instantly, instead of taking 1-3 days.",
+        "group": "features",
+    },
+    "Travel insurance": {
+        "description": "Get insured against trip cancellations, lost luggage and healthcare while you travel.",
+        "group": "features",
     },
 }

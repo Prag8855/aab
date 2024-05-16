@@ -51,7 +51,7 @@ There are exceptions. You don't need their permission if...
 
 You can't share a photo of without their consent if it's against the person's legitimate interests:[^17]
 
-- You can use a photo of a famous person for an article or book *about them*. You can't use a photo of them to promote an unrelated product.[^7] For example, you can't use the photo of Barack Obama to sell vacuum cleaners.[^18]
+- You can use a photo of a famous person for an article or book *about them*. You can't use a photo of them to promote an unrelated product.[^7] For example, you can't use a photo of Barack Obama to sell vacuum cleaners.[^18]
 - You can't share photos of people if it severely damages their reputation.[^8] Don't share embarrassing photos of people.
 - You must respect people's right to privacy, even if they are famous.
 

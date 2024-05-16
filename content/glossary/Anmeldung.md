@@ -8,7 +8,6 @@ Related_guides:
     guides/anmeldung-in-english-berlin.md
     tools/appointment-finder.md
     guides/berlin-burgeramt-appointment.md
-    guides/german-banks-no-address.md
     guides/find-a-flat-in-berlin.md
     guides/german-tax-id-steuernummer.md
     guides/abmeldung-deregister-in-berlin.md
@@ -19,6 +18,6 @@ Related_guides:
 
 In Germany, you must register your address at the *[[Bürgeramt]]*. This will become your official address in Germany. This is called the *Anmeldung*.
 
-During the *Anmeldung* appointment, you get a registration certificate (*[[Anmeldebestätigung]]*). This document confirms your official address in Germany. You often need it to [open a bank account](/guides/first-bank-account-in-germany) or get a cellphone contract. After your first *Anmeldung*, you will also get a tax ID (*[[Steueridentifikationsnummer]]*).
+During the *Anmeldung* appointment, you get a registration certificate (*[[Anmeldebestätigung]]*). This document confirms your official address in Germany. You often need it to [open a bank account](/guides/best-bank-germany) or get a cellphone contract. After your first *Anmeldung*, you will also get a tax ID (*[[Steueridentifikationsnummer]]*).
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**

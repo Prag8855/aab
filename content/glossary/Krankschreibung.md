@@ -15,7 +15,7 @@ Most German employers ask for a sick note if you are sick for more than 3 days.[
 
 Since 2023, sick notes are digital. You get a paper copy. Your employer and your health insurer get a digital copy from your doctor.[^1]
 
-![Krankschreibung](/images/Krankschreibung-AU-schein-sick-note-germany.jpg)
+![Krankschreibung example](/images/Krankschreibung-AU-schein-sick-note-germany.jpg)
 
 **[How sick leave works in Germany ➞](/guides/sick-leave)**
 

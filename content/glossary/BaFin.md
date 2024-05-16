@@ -5,6 +5,9 @@ English_term: Federal Financial Supervisory Authority
 Description: BaFin (*Bundesanstalt für Finanzdienstleistungsaufsicht*) supervises German banks, financial services and insurance companies.
 Date_created: 2018-07-31
 Related_guides:
+    guides/banking.md
+    guides/insurance.md
+    guides/german-health-insurance.md
     guides/freelance-visa.md
     guides/ottonova-review.md
 ---

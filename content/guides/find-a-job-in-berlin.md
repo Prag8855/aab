@@ -195,7 +195,7 @@ Your employer can hire a [relocation consultant](/guides/relocation-agency-in-be
 
 **During your first month at a new company**, your employer needs a few things:
 
-- **A [bank account](/guides/first-bank-account-in-germany)**  
+- **A [bank account](/guides/best-bank-germany)**  
     Your employer will pay you by bank transfer. For this, you need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Any European bank account will work.
 - **Your [tax ID](/glossary/Steueridentifikationsnummer)** (*Steueridentifikationsnummer*)  
     You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, you can still get a tax ID. If you can't get a tax ID, you can still start working. - [More information](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)

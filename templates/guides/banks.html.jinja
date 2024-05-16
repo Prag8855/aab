@@ -1,5 +1,5 @@
 {% extends "_layout.html" %}
-{% set entry = entries['guides/first-bank-account-in-germany.md'] %}
+{% set entry = entries['guides/best-bank-germany.md'] %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
 {% set related_collections = [] %}
@@ -30,7 +30,7 @@
         {% with pageType='guide' %}
             {% include "_blocks/donationPrompt.html" %}
         {% endwith %}
-        <aside class="section no-print" aria-label="Affiliate links notice">
+        <aside class="section no-print" aria-label="Affiliate links notice" data-nosnippet>
             <p>
                 <strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
             </p>

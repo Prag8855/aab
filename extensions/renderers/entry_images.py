@@ -46,7 +46,7 @@ def make_cover_image(text: str, templates_path: Path) -> Image:
     line_spacing = 25
     image_size = (1200, 630)
     logo_size = (70, 70)
-    logo_position = (720, image_size[1] - logo_size[1] - 30)
+    logo_position = (700, image_size[1] - logo_size[1] - 30)
 
     image = Image.new("RGB", image_size, (218, 81, 61))
     imgdraw = ImageDraw.Draw(image)
@@ -81,7 +81,7 @@ def make_cover_image(text: str, templates_path: Path) -> Image:
 
     logo_font = ImageFont.truetype(str(templates_path / 'fonts/librefranklin-400.ttf'), 50)
     imgdraw.multiline_text(
-        (logo_position[0] + 60, logo_position[1] + 1), "All About Berlin",
+        (logo_position[0] + logo_size[0], logo_position[1] + 1), "All About Berlin",
         font=logo_font, fill=(255, 255, 255)
     )
 

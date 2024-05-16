@@ -67,7 +67,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-employment:
 
-- **[[Work visa]]** or **[[Blue Card]]**  
+- **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
     [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need permission from your employer to freelance.[^21] To freelance full-time, you need a freelance visa.
 - **[[Student visa]]**  
     Usually, student visas do not allow self-employment.[^54] In Berlin, *some* student visas already allow self-employment.[^72] You can get permission from the *[[Ausländerbehörde]]* to study and freelance at the same time.[^2]
@@ -238,7 +238,7 @@ In around 3 months, you must go to the embassy or consulate again.[^66] They wil
 
 With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start your business.[^40]
 
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/first-bank-account-in-germany) and [start your business](/guides/start-a-business-in-germany).
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/best-bank-germany) and [start your business](/guides/start-a-business-in-germany).
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
