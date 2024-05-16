@@ -101,9 +101,7 @@ When you register an underage child's address, you might need a letter of consen
 
 **[Hire a translator ➞](/out/red-tape-translation-interpreter)**
 
-You can also **send someone else**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. It costs 250€. The *Anmeldung* is easy. You probably don't need this service.
-
-**[Pay someone to do your Anmeldung ➞](/out/red-tape-translation-anmeldung)**
+You can also **[pay someone else to do it](/out/red-tape-translation-anmeldung)**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. It costs 250€. The *Anmeldung* is easy. You probably don't need this service.
 
 When you send someone else to do your *Anmeldung*, they must bring:
 

@@ -18,6 +18,11 @@ Related_guides:
 
 In Germany, you must register your address at the *[[Bürgeramt]]*. This will become your official address in Germany. This is called the *Anmeldung*.
 
-During the *Anmeldung* appointment, you get a registration certificate (*[[Anmeldebestätigung]]*). This document confirms your official address in Germany. You often need it to [open a bank account](/guides/best-bank-germany) or get a cellphone contract. After your first *Anmeldung*, you will also get a tax ID (*[[Steueridentifikationsnummer]]*).
+When you do your *Anmeldung*, you get...
+
+- A registration certificate (*[[Anmeldebestätigung]]*)
+- A tax ID (*[[Steueridentifikationsnummer]]*)
+
+In Berlin, you can do your Abmeldung in person, or [pay someone to do it for you](/out/red-tape-translation-anmeldung).
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
