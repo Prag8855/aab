@@ -102,7 +102,6 @@ This might have changed with legalisation, but it's not confirmed.
 [^13]: [Quora](https://www.quora.com/Can-you-buy-marijuana-in-Amsterdam-and-travel-out/answer/Ziadesa-Yazid?ch=10&oid=78957569&share=e689b30e&srid=u1YC&target_type=answer)
 [^14]: [§4 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__4.html)
 [^15]: [Deutsche Welle](https://www.dw.com/en/cannabis-will-be-legal-in-germany-within-limits/a-68353166), [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
-[^16]: [yourhighnesscannabis.ca](https://yourhighnesscannabis.ca/thc-percentage-chart/#:~:text=strain%20or%20product.-,thc%20percentage%20chart,-Average%20THC%20Percentage), [Canadian government](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/about.html#:~:text=in%20the%201980s-,to%20around%2015%25%20today,-.%20Some%20strains%20can), [dutch-passion.com](https://dutch-passion.com/en/blog/what-is-a-high-amount-of-thc-for-cannabis-n969#high-thc)
 [^17]: [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
 [^18]: [KCanG](https://dserver.bundestag.de/btd/20/087/2008704.pdf)
 [^19]: [§19 KCanG](https://www.buzer.de/19_KCanG.htm)
