@@ -214,6 +214,8 @@ During your first 6 months at a new company, you are in your probation period (*
 
 ### Things an employee must know
 
+In Germany, most people are paid once per month, usually on the 1st or 15th day of the month. You get your first paycheck after 30 or 45 days after you start working. You usually get paid by [bank transfer](/glossary/SEPA-Überweisung).
+
 Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung) once per month, [on the first day of the month](/guides/salaries-in-germany#when-do-i-get-paid).[^3] Your employer takes [salary tax](/glossary/Lohnsteuer), [health insurance](/glossary/Krankenversicherung), [pension insurance](/glossary/gesetzliche%20Rentenversicherung) and [unemployment insurance](/glossary/Arbeitslosenversicherung) from your paycheck. 
 
 **[Income tax calculator ➞](/tools/tax-calculator)**
