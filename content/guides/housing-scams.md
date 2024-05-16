@@ -154,8 +154,6 @@ When you visit the apartment, check if the landlord really owns the apartment.
 
 The names on the email, the doorbell, the mailbox and the website should be the same.[^27] Ask the neighbour who lives there.[^28] When you see the landlord in person, you can ask to see their ID.
 
-Really bad German or English grammar
-
 ### When you visit the apartment
 
 Signs of a scam:
