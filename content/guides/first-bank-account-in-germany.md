@@ -36,7 +36,7 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 ### [bunq](/out/bunq)
 
-A Dutch online bank. It's a **good alternative to N26** if N26 does not accept your passport, because bunq [accepts more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+A Dutch online bank. They are a **good alternative to N26**, because they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
 
 Their free account is too limited, but **the cheapest account has everything you need**: free ATM withdrawals, multiple languages, a German [[IBAN]] and a good mobile app.
 
@@ -44,7 +44,7 @@ Their free account is too limited, but **the cheapest account has everything you
 
 Two British online banks. Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
-The free accounts **include most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN. Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN.
+The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN.
 
 Revolut speaks English and German. Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
 
@@ -69,11 +69,11 @@ These banks are **not expat-friendly**:
 
 These banks let you do **everything in English**. Their online banking, documents and customer service are in English.
 
-- **[bunq](/out/bunq)** - English and 6 other languages
-- **[N26](/out/n26)** - English and 4 other languages
-- **[Revolut](/out/revolut)** - English
-- **[Wise](/out/wise)** - English and 13 other languages
+- **[Wise](/out/wise)** - English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian
+- **[bunq](/out/bunq)** - English, Dutch, French, German, Italian, Portuguese and Spanish
+- **[N26](/out/n26)** - English, French, German, Italian and Spanish
 - **[Monese](/out/monese)** - English and 13 other languages
+- **[Revolut](/out/revolut)** - English
 
 These banks let you do **some things in English**. They have physical branches, and some employees might speak English.
 
@@ -119,7 +119,7 @@ These banks might still charge for a credit card, or to withdraw money from an A
 
 ## Banks with no ATM fees
 
-**Choose a bank with free ATM withdrawals.** In Germany, you often need cash. On average, Germans withdraw cash 3 times per month. They withdraw around 200€ per month.[^12] Don't pay 5€ to 7€ every time you use an ATM. It's a waste of money.
+Choose a bank with free ATM withdrawals. In Germany, you often need cash. On average, Germans withdraw cash 3 times per month. They withdraw around 200€ per month.[^12] Don't pay 5€ to 7€ every time you use an ATM. It's a waste of money.
 
 These banks let you **use any ATM for free**:
 
@@ -141,7 +141,9 @@ These banks only let you **use some ATMs for free**. You might need to walk anot
 
 ## Blocked account for students
 
-To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*). That means a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
+To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*) like a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
+
+Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
 
 You can open a blocked account with...
 
@@ -152,8 +154,6 @@ You can open a blocked account with...
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]
 
 Deutsche Bank stopped offering blocked accounts.[^42]
-
-Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
 
 ## Banks that don't require an Anmeldung
 
@@ -174,7 +174,7 @@ These banks don't ask for a registration certificate:
 
 You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to 100,000€.[^8]
 
-There are only two differences:
+There are a few differences:
 
 - **Foreign [[IBAN]]**  
     IBAN discrimination is illegal, but it still happens.[^45] Some businesses refuse foreign bank account numbers ([[IBAN]]). If your IBAN does not start with "DE", you might get an error. If you can, choose a bank that gives you a German IBAN.
