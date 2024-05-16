@@ -23,6 +23,8 @@ Put the letter in a yellow Deutsche Post post box.
 
 **[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 
+![A yellow Deutsche Post mailbox](/images/deutsche-post-mailbox.jpg "A Deutsche Post mailbox")
+
 ## From your computer
 
 If you don't have a printer at home, or you want to save time, send a letter from your computer. You type text or upload a PDF, and it's delivered by post.
