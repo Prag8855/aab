@@ -6,7 +6,7 @@ Date_created: 2017-09-21
 Related_reviews: reviews/find-a-job-in-berlin/greg-tomasik.md
 ---
 
-This guide helps you find a job in Germany.
+This guide helps you find a job in Berlin, from finding job listings to your first day at work.
 
 {% include "_blocks/tableOfContents.html" %}
 
