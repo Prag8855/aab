@@ -12,9 +12,10 @@
     },
     {
         "name": "N26",
+        "lastUpdated": "2024-05-16",
         "country": "Germany",
-        "requirements": "A European passport or a German residence permit, and a proof of address like bills, receipts or a lease. – <a target='_blank' href='https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf'>Read more&nbsp;➞</a>",
-        "requirementsUrl": "https://docs.n26.com/cs/Support%20Center/id-docs/de/iddocs-de-en.pdf",
+        "requirements": "A passport and any proof of address (lease, power bills, registration certificate). Depending on your nationality, you might or a plastic German residence permit that is valid for at least 1 year.",
+        "requirementsUrl": "/out/n26-supported-passports",
         "tags": [
             "Apple Pay / Google Pay",
             "English",
@@ -88,7 +89,9 @@
     },
     {
         "name": "Bunq",
-        "requirements": "",
+        "lastUpdated": "2024-05-16",
+        "requirements": "One of the supported passports. No Anmeldung or residence permit required.",
+        "requirementsUrl": "/out/bunq-supported-passports",
         "tags": [
             "English", "Dutch", "French", "Italian", "Spanish",
             "German IBAN",
