@@ -104,7 +104,7 @@ If you took the photo by accident, you can delete the picture without punishment
 
 ### Can I film the police in Germany?
 
-There is no exception for police officers. The same rules apply when you take photos or videos of the police.[^14]
+You can film the police, but you should not share the photos or videos without permission.
 
 ## Need help?
 
@@ -138,7 +138,7 @@ There is no exception for police officers. The same rules apply when you take ph
 [^11]: [ra-plutte.de](https://www.ra-plutte.de/faq-recht-am-eigenen-bild-beispiele/#Geb%C3%A4ude), [§59 UrhG](http://www.gesetze-im-internet.de/urhg/__59.html)
 [^12]: [§33 KunstUrhG](https://www.gesetze-im-internet.de/kunsturhg/__33.html)
 [^13]: [web.archive.org](http://web.archive.org/web/20210728110315/https://www.goethe.de/en/kul/med/20849366.html), [anwalt.org](https://www.anwalt.org/201a-stgb/)
-[^14]: [datenschutzbeauftragter-info.de](https://www.dr-datenschutz.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/), [prigge-recht.de](https://www.prigge-recht.de/wann-polizisten-fotografiert-und-gefilmt-werden-duerfen/#Wann_sind_Fotos_und_Videos_erlaubt)
+[^14]: [prigge-recht.de](https://www.prigge-recht.de/wann-polizisten-fotografiert-und-gefilmt-werden-duerfen/#:~:text=Tonaufnahmen%20in%20Betracht.-,faustformel,-Wer%20nicht%20Betroffener)
 [^15]: [§201a StGB](https://www.gesetze-im-internet.de/stgb/__201a.html), [kanzlei.law](https://www.kanzlei.law/strafrecht/strafverteidigung/anwalt-sexualstrafrecht-berlin/verletzung-des-hoechstpersoenlichen-lebensbereichs-durch-bildaufnahmen/#Haeufige_Begehungsformen_des_%C2%A7_201a_StGB_%E2%80%93_Verletzung_des_hoechstpersoenlichen_Lebensbereichs_durch_Bildaufnahmen)
 [^16]: [datenschutzbeauftragter-info.de](https://www.dr-datenschutz.de/smartphone-gaffer-wenn-unfallbilder-zur-straftat-werden/)
 [^17]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/kunsturhg/__23.html)
