@@ -729,6 +729,11 @@ body > header {
 		display: none;
 	}
 
+	h2{
+		margin-top: calc((var(--xxl) - var(--l)) / 2);
+		font-size: var(--l);
+	}
+
 	li{
 		@include list-marker-ul-compact;
 		@include list-marker-light;
