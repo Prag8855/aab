@@ -157,16 +157,13 @@ These banks don't ask for a registration certificate:
 
 - [bunq](/out/bunq)
 - [C24](/out/c24)
+- [Deutsche Bank](/out/deutsche-bank)
 - [DKB](/out/dkb)[^4]
 - [Monese](/out/monese)
 - [N26](/out/n26)
 - [Revolut](/out/revolut)
 - [Vivid](/out/vivid)
 - [Wise](/out/wise-account)
-
-These banks don't always ask for a registration certificate:
-
-- [Deutsche Bank](/out/deutsche-bank)
 
 ## Banks in other EU countries
 
