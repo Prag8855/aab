@@ -67,6 +67,7 @@
                 "tags": [
                     "Free instant transfers",
                     "Joint account",
+                    "Travel insurance",
                 ],
             },
             {
@@ -80,6 +81,7 @@
                 "tags": [
                     "Free instant transfers",
                     "Joint account",
+                    "Travel insurance",
                 ],
             },
         ],
@@ -127,7 +129,7 @@
                 ],
             },
             {
-                "name": "Easy Money",
+                "name": "Easy Bank Pro",
                 "description": "Free ATM withdrawals, 1% cashback, low foreign exchange fees, multiple currencies and investing options. Bunq accepts more passports than other banks.",
                 "withdrawalFee": 0,
                 "withdrawalFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
@@ -137,6 +139,20 @@
                     "Joint account",
                     "Free instant transfers",
                     "No withdrawal fee"
+                ],
+            },
+            {
+                "name": "Easy Bank Pro XL",
+                "description": "Free ATM withdrawals, 1% cashback, low foreign exchange fees, multiple currencies, investing options and travel insurance. Bunq accepts more passports than other banks.",
+                "withdrawalFee": 0,
+                "withdrawalFeeExplanation": "6 free withdrawals per month in Europe, then 0.99€ per withdrawal.",
+                "creditCardYearlyFee": 0,
+                "monthlyFee": 9.99,
+                "tags": [
+                    "Joint account",
+                    "Free instant transfers",
+                    "No withdrawal fee",
+                    "Travel insurance",
                 ],
             },
         ],

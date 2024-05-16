@@ -69,7 +69,11 @@
         "group": "features",
     },
     "Free instant transfers": {
-        "description": "Transfer money instantly, instead of waiting 1-3 days.",
+        "description": "Transfer money go through instantly, instead of taking 1-3 days.",
+        "group": "features",
+    },
+    "Travel insurance": {
+        "description": "Get insured against trip cancellations, lost luggage and healthcare while you travel.",
         "group": "features",
     },
 }
