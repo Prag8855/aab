@@ -22,6 +22,7 @@ function shouldTrackUrl(url){
 	return (
 		url.startsWith('/out/')
 		|| url.startsWith('{{ site_url }}/out/')
+		|| url.startsWith('{{ site_url }}/donate')
 		|| url.startsWith('mailto:')
 		|| (url.startsWith('http') && !url.startsWith('{{ site_url }}' || '/'))
 	);
