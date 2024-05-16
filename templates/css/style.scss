@@ -14,24 +14,18 @@ table{border-collapse:collapse;border-spacing:0}
 
 @font-face {
 	font-display: swap;
-	font-family: 'Libre Franklin';
-	font-style: normal;
-	font-weight: 400;
-	src: url('/fonts/librefranklin-400.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    font-family: 'Libre Franklin';
+    font-weight: 100 900;
+    font-style: italic;
+	src: url('/fonts/librefranklin-variable-i.woff2') format('woff2');
+
 }
 @font-face {
 	font-display: swap;
-	font-family: 'Libre Franklin';
-	font-style: italic;
-	font-weight: 400;
-	src: url('/fonts/librefranklin-400i.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-@font-face {
-	font-display: swap;
-	font-family: 'Libre Franklin';
-	font-style: normal;
-	font-weight: 600;
-	src: url('/fonts/librefranklin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    font-family: 'Libre Franklin';
+    font-weight: 100 900;
+    font-style: normal;
+	src: url('/fonts/librefranklin-variable.woff2') format('woff2');
 }
 
 /*******************************************************************************
@@ -407,10 +401,9 @@ $width-main-column: 860px;
 }
 
 @mixin heading{
-	font-weight: 400;
+	font-weight: 500;
 	line-height: var(--line-height-heading);
 	color: var(--c-text-heading);
-	letter-spacing: -0.01em;
 
 	// Break long words
 	overflow: hidden;
@@ -695,13 +688,8 @@ body > header {
 }
 
 .table-of-contents{
-	h2{
-		margin: calc(var(--xxl) - var(--xl)) 0 var(--xl)!important;
-	}
-
 	@include only-phone{
 		h2{
-			margin: 0!important;
 			font-size: var(--l);
 		}
 	}
@@ -1123,7 +1111,7 @@ sup:target a{
 		font-size: var(--f-s);
 		line-height: var(--line-height-label);
 		box-shadow: var(--shadow-s);
-		font-weight: normal!important;
+		font-weight: 400!important;
 		text-align: right;
 	}
 
@@ -1194,7 +1182,7 @@ sup:target a{
 			background: var(--c-bg-widget);
 
 			small{
-				font-weight:normal;
+				font-weight: 400;
 			}
 		}
 
