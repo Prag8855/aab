@@ -15,10 +15,12 @@ Related_guides:
     guides/german-visa-health-insurance.md
 ---
 
-If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you usually need a residence permit (*Aufenthaltstitel* or *Aufenthaltserlaubnis*) to live in Germany. You apply for a residence permit at the *[[Ausländerbehörde]]*, the German embassy or the German consulate.
+If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you usually need a residence permit (*Aufenthaltstitel* or *Aufenthaltserlaubnis*) to live in Germany. You apply for a residence permit at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
+
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
 
 There are different residence permits for different purposes: working, studying, starting a business and more. The [[Blue Card]], the [work visa](/glossary/Work%20Visa), the [student visa](/glossary/Student%20visa) and the [freelance visa](/glossary/Freelance%20visa) are residence permits.
 
-The residence permit is a [plastic card](/images/aufenthaltstitel-german-residence-permit.jpg).
+**[Types of residence permits ➞](/guides/residence-permit#types-of-residence-permits)**
 
-**[More information about residence permits ➞](/guides/residence-permit)**
+The residence permit is a [plastic card](/images/aufenthaltstitel-german-residence-permit.jpg).
