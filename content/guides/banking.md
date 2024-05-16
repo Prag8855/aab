@@ -61,6 +61,8 @@ Many restaurants only accept cash. Most street food kiosks and *[Spätis](/gloss
 
 ![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
 
+When you often pay with cash, you have a lot of coins. There are many ways to [get rid of your coins](/guides/exchange-coins-berlin).
+
 ### Girocard/EC-Karte
 
 A type of payment card that's only in Germany. It's still very common.[^3] Many stores only accept cash and [Girocards](/glossary/Girocard), not Visa or Mastercard. Some European websites accept Girocards.
