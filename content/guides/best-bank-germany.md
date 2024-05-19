@@ -36,9 +36,9 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 ### [bunq](/out/bunq)
 
-They are a **good alternative to N26**, because they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+They are a **good alternative to N26**. They're more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
 
-Their free account is too limited, but **the cheapest account has everything you need**: free ATM withdrawals, multiple languages, a German [[IBAN]] and a good mobile app.
+The free account is a little limited. The paid accounts have free ATM withdrawals. If you pay more, you get a German [[IBAN]].
 
 ### [Revolut](/out/revolut) and [Wise](/out/wise-account)
 
