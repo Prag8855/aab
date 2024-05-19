@@ -28,7 +28,7 @@ An expat-friendly bank...
 
 In my opinion, N26 is the most expat-friendly German bank. I use them since 2016. They let you open an account quickly, without an *[[Anmeldung]]*. They speak English, French, German, Italian and Spanish.
 
-Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience. I recommend N26 because I use it since 2016.
+Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience.
 
 The biggest disadvantage: [the required documents](/out/n26-supported-passports). Depending on your nationality, you might need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for 1 year. This is a problem for some recent immigrants.
 
@@ -36,13 +36,13 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 ### [bunq](/out/bunq)
 
-A Dutch online bank. They are a **good alternative to N26**, because they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+They are a **good alternative to N26**, because they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
 
 Their free account is too limited, but **the cheapest account has everything you need**: free ATM withdrawals, multiple languages, a German [[IBAN]] and a good mobile app.
 
 ### [Revolut](/out/revolut) and [Wise](/out/wise-account)
 
-Two British online banks. Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
+Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
 The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN. This is [not a big problem](#banks-in-other-eu-countries).
 
@@ -72,9 +72,9 @@ These banks are **not expat-friendly**:
 These banks let you do **everything in English**. Their online banking, documents and customer service are in English.
 
 - **[Wise](/out/wise)** - English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian
+- **[Monese](/out/monese)** - English, French, German, Brazilian Portuguese, European Portuguese, Bulgarian, Italian, Spanish, Romanian, Polish, Czech, Turkish, Estonian, Lithuanian and Ukrainian
 - **[bunq](/out/bunq)** - English, Dutch, French, German, Italian, Portuguese and Spanish
 - **[N26](/out/n26)** - English, French, German, Italian and Spanish
-- **[Monese](/out/monese)** - English and 13 other languages
 - **[Revolut](/out/revolut)** - English
 
 These banks let you do **some things in English**. They have physical branches, and some employees might speak English.
