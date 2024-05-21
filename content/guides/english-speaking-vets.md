@@ -19,6 +19,7 @@ If you don't speak German, these veterinarians speak English:
 - [Dr. Peter Vogel](https://www.drpetervogel.de/en)
 - [Dr. Rotgang Praxis](https://www.tierarztpraxis-rotgang.de/en-gb)
 - [Dr. Sven Stahlhut](https://www.tierarztamwestend.de/) - Tierarzt Westend
+- [Dr. Till Robl](https://www.tierarztpraxis-robl.de/)
 - [Dr. Uwe Lenk](https://tierarztpraxis-lenk.de/)
 - [Ellen Laskawy](https://laskawy.jimdofree.com/)
 - [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
