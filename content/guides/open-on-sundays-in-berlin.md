@@ -15,10 +15,11 @@ These businesses can open on Sundays:[^3]
 
 - Shops in train stations, airports and bus terminals
 - Restaurants and food delivery
+- Cafés
+- Bakeries
+- Many *[Spätis](/glossary/Sp%C3%A4ti)*[^4]
 - Petrol stations
 - Pharmacies (*Apotheken*)
-- Many *[Spätis](/glossary/Sp%C3%A4ti)*[^4]
-- Bakeries
 - Tourist attractions and souvenir shops
 - Flea markets and art markets
 - Museums
