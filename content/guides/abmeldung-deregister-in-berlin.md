@@ -89,6 +89,8 @@ You can deregister by email at any *Bürgeramt*, but they all have different rul
     Do not use them; they take 2-3 months to answer.[^24] They will send your *Abmeldebescheinigung* by post to an address in Germany, and sometimes in another country.[^8]
 - **Neukölln** - <buergeramt@bezirksamt-neukoelln.de>  
     They will send your *Abmeldebescheinigung* by post to an address in Germany or in another country, and by email.
+- **Pankow** - <buergeramt@ba-pankow.berlin.de>  
+    They will send your *Abmeldebescheinigung* by post to an address in Germany or in another country.
 - **Reinickendorf** - <buergeraemter@reinickendorf.berlin.de>  
     They will send your *Abmeldebescheinigung* by email, or to an address in Germany.[^9]
 - **Spandau** - <buergeramt@ba-spandau.berlin.de>  
