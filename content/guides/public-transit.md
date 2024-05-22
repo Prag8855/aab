@@ -21,6 +21,8 @@ To use **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry), buy a loc
 
 You can buy local public transit tickets...
 
+- **At a ticket machine**  
+    Find a [yellow or red ticket machine](/images/VBB-ticket-machine.jpg) at the train station. The machines are on the train platforms, near the exits. You can pay with coins, bills, credit cards and [Girocards](/glossary/Girocard). You can sometimes pay with Apple Pay and Google Pay. The ticket machines speak many languages. Don't forget to [stamp your ticket](#step-2-validate-your-ticket).
 - **In the app**  
     Buy tickets on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
     - **[Jelbi app](https://www.jelbi.de/en/home/)**{% include '_blocks/recommended.html' %}  
@@ -29,8 +31,6 @@ You can buy local public transit tickets...
         It's in English and German.
     - **[VBB app](https://www.vbb.de/en/driving-information/apps/)**  
         You can buy tickets for Berlin and [[Brandenburg]]. It's a little harder to use.
-- **At a ticket machine**  
-    Find a [yellow or red ticket machine](/images/VBB-ticket-machine.jpg) at the train station. The machines are on the train platforms, near the exits. You can pay with coins, bills, credit cards and [Girocards](/glossary/Girocard). You can sometimes pay with Apple Pay and Google Pay. The ticket machines speak many languages.
 - **On the tram**  
     Find a [yellow ticket machine](/images/berlin-bvg-tram-ticket-machine.jpg) near the middle of the tram. The old machines only accept coins. The new machines only accept cards.[^1]
 - **On the bus**  
