@@ -127,6 +127,8 @@ Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https:/
     In November and December, you can visit Berlin's Christmas markets. There are dozens of them. Many are in scenic locations. There are dozens of kiosks that sell hot drinks, food, sweets and home-made goods. The Christmas markets are open from the middle of November to the end of December.
 - **[East Side Gallery](https://goo.gl/maps/R18gdTWvTqdSxHqn7)**  
     A long mural painted directly on the Berlin wall.
+- **[Flea markets](https://www.visitberlin.de/en/flea-markets)**  
+    Every Sunday, there are flea markets all over the city. You can find great souvenirs there. There are also [weekly markets](https://www.visitberlin.de/en/weekly-markets) that focus on food. I like [the one at Maybachufer](https://www.visitberlin.de/en/neukollner-wochenmarkte-am-maybachufer) on Tuesdays and Fridays.
 - **[Mauerpark](https://g.page/mauerpark-berlin)**  
     Every Sunday, this park hosts a big flea market and an open air karaoke. Many musicians also play music there.
 - **[Memorial to the Murdered Jews of Europe](https://goo.gl/maps/S1XLSpUHffWfMJsh7)**  
@@ -162,6 +164,8 @@ Find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsinto
     This is the third largest film festival in the world, after Cannes and Venice. You can meet movie stars, and see all kinds of films.
 - **Cherry blossom** - April and May  
     After the reunification, a Japanese TV channel donated 10,000 cherry trees to Berlin. Most of them were planted where the Berlin wall was. Every spring, the cherry trees bloom and cover the alleys in rose petals.
+- **[Karneval der Kulturen](https://karneval.berlin/)** - May, during Pentecost  
+    A big cultural festival with street food, music and shows from all over the world. There is a parade on Sunday. Go earlier in the day, before it's super crowded.
 - **[Fête de la Musique](https://www.fetedelamusique.de/)** - June 21  
     A music festival in the entire city. There are musicians and concerts in every part of the city.
 - **[Zug der Liebe](https://zugderliebe.org/)** - End of August  
@@ -177,7 +181,7 @@ Find live music on [Resident Advisor](https://ra.co/guide/de/berlin), [Bandsinto
 
 ### Walking tours
 
-Guided tours are a great way to discover Berlin. Use [GetYourGuide](https://www.getyourguide.com/s/?q=Berlin,%20Germany) or [Airbnb experiences](https://www.airbnb.com/s/Berlin--Germany/experiences) to find walking tours, or look at [this list](https://www.visitberlin.de/en/guided-walking-tour-berlin). I highly recommend the [Berliner Unterwelten](https://www.berliner-unterwelten.de/en/index.html) tours.
+Guided tours are a great way to discover Berlin. Use [GetYourGuide](https://www.getyourguide.com/s/?q=Berlin,%20Germany) or [Airbnb experiences](https://www.airbnb.com/s/Berlin--Germany/experiences) to find walking tours, or look at [this list](https://www.visitberlin.de/en/guided-walking-tour-berlin). I recommend the [Berliner Unterwelten](https://www.berliner-unterwelten.de/en/index.html) tours.
 
 ### Outside of Berlin
 
