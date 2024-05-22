@@ -64,7 +64,7 @@ You can travel outside of Germany if your Fiktionsbescheinigung says...
 
 Other types of *Fiktionsbescheinigung* do not let you travel outside of Germany. If you travel outside Germany, you might not be able to re-enter later.[^7]
 
-**[Fiktionsbescheinigung types ↓](#fiktionsbescheinigung-types)**
+**[Fiktionsbescheinigung types ➞](#fiktionsbescheinigung-types)**
 
 You might still have problems when you return to Germany. Airline employees and foreign border agents might not recognise your *Fiktionsbescheinigung*.[^16] If you can, take a direct flight to Germany, and only deal with the German border police. They are better informed.
 

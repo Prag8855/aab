@@ -6,6 +6,43 @@ from xml.etree import ElementTree
 import re
 
 
+class ArrowLinkIconProcessor(Treeprocessor):
+    def run(self, root):
+        sections_before_this_link = set()
+        for el in root.iter():
+            if el.tag in ('h1', 'h2', 'h3') and (section_id := el.attrib.get('id')):
+                sections_before_this_link.add('#' + section_id)
+            elif el.tag == 'a':
+                text = (el.text or "")
+
+                if text.strip().endswith('➞'):
+                    el.text = el.text.rstrip('➞').rstrip()
+
+                    link_class = 'internal-link'
+                    if el.attrib['href'].startswith(('http://', 'https://')):
+                        link_class = 'external-link'
+                    elif el.attrib['href'].startswith('#'):
+                        el.attrib['title'] = 'Scroll to this section'
+                        if el.attrib['href'] in sections_before_this_link:
+                            link_class = 'section-link before'
+                        else:
+                            link_class = 'section-link after'
+
+                    el.attrib['class'] = el.attrib.get('class', '') + ' arrow-link ' + link_class
+        return root
+
+
+class ArrowLinkIconExtension(Extension):
+    """
+    Replaces the "➞" after a link with the appropriate icon
+    """
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+
+    def extendMarkdown(self, md):
+        md.treeprocessors.register(ArrowLinkIconProcessor(self), "linkicon", 0)
+
+
 class JinjaCurrencyPreprocessor(Preprocessor):
     """
     Wraps jinja template variables followed with "€" in a <span class="currency"> tag
@@ -49,9 +86,6 @@ class TypographyExtension(Extension):
 
         sectionPattern = SubstituteTextPattern(r'§ ', ('§&nbsp;',), md)
         inline_processor.inlinePatterns.register(sectionPattern, 'typo-section', 10)
-
-        arrowPattern = SubstituteTextPattern(r' ➞', ('&nbsp;➞',), md)
-        inline_processor.inlinePatterns.register(arrowPattern, 'typo-arrow', 10)
 
         ellipsisPattern = SubstituteTextPattern(r'\.\.\.', ('&hellip;',), md)
         inline_processor.inlinePatterns.register(ellipsisPattern, 'typo-ellipsis', 10)

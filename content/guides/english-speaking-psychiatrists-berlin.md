@@ -26,7 +26,7 @@ This guide explains:
 - How to find an English-speaking psychiatrist
 - The difference between psychiatrists and psychotherapists
 
-**[Go to the list of psychiatrists ↓](#list-of-english-speaking-psychiatrists)**
+**[Go to the list of psychiatrists ➞](#list-of-english-speaking-psychiatrists)**
 
 {% include "_blocks/tableOfContents.html" %}
 

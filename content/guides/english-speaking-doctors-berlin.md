@@ -35,7 +35,7 @@ Related_places:
 
 This is how you can find an English-speaking doctor or GP.
 
-**[Go to the list of doctors ↓](#list-of-doctors-and-gps)**
+**[Go to the list of doctors ➞](#list-of-doctors-and-gps)**
 
 {% include "_blocks/tableOfContents.html" %}
 

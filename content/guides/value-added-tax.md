@@ -91,7 +91,7 @@ During the registration, you can give the *Finanzamt* a [direct debit authorizat
 
 You must charge VAT to all your German customers, and some of your EU customers.
 
-**[When to charge VAT ↓](/guides/value-added-tax#when-to-charge-vat)**
+**[When to charge VAT ➞](/guides/value-added-tax#when-to-charge-vat)**
 
 If you forget to charge your customers VAT, you must still pay VAT to the *[[Finanzamt]]*.[^13] For example, if you make a 100€ invoice, and you forget to charge 19€ for VAT, the *Finanzamt* still collects 19€ from you. If you write incorrect invoices, you can lose money.
 

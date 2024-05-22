@@ -131,7 +131,7 @@ To inform the *Ausländerbehörde*, you must...
 
 If you are changing jobs, you might need permission from the *Ausländerbehörde* to work for a new employer. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
 
-**[What happens to your residence permit ↓](#what-happens-to-your-residence-permit)**
+**[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
 ### Register as unemployed
 
@@ -143,7 +143,7 @@ When you know your last day of work, register as unemployed at the *[[Agentur f�
 
 When you are unemployed, you keep your [health insurance](/glossary/Krankenversicherung). The coverage does not change, but the price can change.[^6] If you have [private health insurance](/glossary/private%20Krankenversicherung) and you get [unemployment benefits](/glossary/ALG%20I), you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
-**[What happens to your health insurance ↓](#what-happens-to-your-health-insurance)**
+**[What happens to your health insurance ➞](#what-happens-to-your-health-insurance)**
 
 ### Get a letter of reference
 
@@ -167,7 +167,7 @@ A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacati
 
 Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
-**[What happens to your vacation days ↓](#what-happens-to-your-unused-vacation-days)**
+**[What happens to your vacation days ➞](#what-happens-to-your-unused-vacation-days)**
 
 ### Get all other documents
 

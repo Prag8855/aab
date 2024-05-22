@@ -25,14 +25,14 @@ If you are not in Berlin yet, it's almost impossible. Get [short-term housing](#
 
 Before you [look for apartments](#look-for-apartments), you must...
 
-- [ ] **Know [your options](#your-housing-options)**  
+- [ ] **Know [your options ➞](#your-housing-options)**  
     Recent immigrants have fewer options. Don't waste time on apartments that you can't get.
 - [ ] **Save money**  
     You need enough for the rent, the [deposit](/glossary/Kaution), and some furniture and house supplies. If you have a low budget, rent a room in a [[WG]].
 - [ ] **[Open a bank account](/guides/best-bank-germany)**  
     Pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung), or send money from another country with [Wise](/out/wise).
-- [ ] **Understand [how housing works](#important-knowledge)**
-- [ ] **Prepare the [required documents](#required-documents)**
+- [ ] **Understand [how housing works ➞](#important-knowledge)**
+- [ ] **Prepare the [required documents ➞](#required-documents)**
 
 ## 1. Look for apartments
 
@@ -409,7 +409,7 @@ There are also [**hotels and hostels** where you can do your *Anmeldung*](https:
 
 Start looking for short-term housing as soon as you know your move-in date.[^54] You can usually book it long in advance.
 
-**[Look for short-term housing ↑](#short-term-and-furnished-apartments)**
+**[Look for short-term housing ➞](#short-term-and-furnished-apartments)**
 
 ### Long-term apartment
 
@@ -426,7 +426,7 @@ With a regular apartment...
 
 Start looking for a regular apartments 1 to 3 months before you [move in](/guides/moving-in). The rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34]
 
-**[Look for a regular apartment ↑](#look-for-apartments)**
+**[Look for a regular apartment ➞](#look-for-apartments)**
 
 ### Room in a [[WG]]
 
@@ -443,7 +443,7 @@ Rooms in a WG are...
 
 Sometimes, people sublet their furnished room while they travel. These short-term rooms are much easier to find. Usually, you can't [register your address](/glossary/Anmeldung) there, and [that can be a problem](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address).
 
-**[Look for a room in a WG ↑](#wgs-flat-shares-and-roommates)**
+**[Look for a room in a WG ➞](#wgs-flat-shares-and-roommates)**
 
 ### Student housing
 
@@ -453,7 +453,7 @@ Student dorms are the **cheapest option for students**, but they are hard to get
 
 You can also get luxury student housing. It's very expensive, but it's easier to get, and it comes with everything you need.
 
-**[Look for student housing ↑](#dorms-and-student-housing)**
+**[Look for student housing ➞](#dorms-and-student-housing)**
 
 ### Buying an apartment
 

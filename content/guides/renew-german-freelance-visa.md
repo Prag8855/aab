@@ -97,7 +97,7 @@ Start preparing the [required documents](#required-documents) 1 to 3 months befo
 
 If your documents are not in English or German, you might need [certified translations](/glossary/beglaubigte%20Übersetzung). This also takes time.
 
-Go to the **[list of required documents ↓](#required-documents)**
+Go to the **[list of required documents ➞](#required-documents)**
 
 ### 3. Find a translator
 

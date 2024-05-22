@@ -28,7 +28,7 @@ There are 2 ways to get an appointment:[^2]
 - or **book an appointment online**  
     It's *really* hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
 
-**[Other solutions ↓](#other-solutions)**
+**[Other solutions ➞](#other-solutions)**
 
 ### Send your documents and wait
 
@@ -71,7 +71,7 @@ To book an appointment...
 
 **If your situation is urgent**, [contact the *Ausländerbehörde*](/out/auslanderbehorde-contact). They might give you an earlier appointment. Usually, they don't reply, but you should still try.
 
-**[If your visa or residence permit expires soon ↓](#if-your-residence-permit-expires-soon)**
+**[If your visa or residence permit expires soon ➞](#if-your-residence-permit-expires-soon)**
 
 ### Other solutions
 
@@ -150,7 +150,7 @@ During your appointment, ask for a *[[Fiktionsbescheinigung]]*. It's a temporary
 
 They might ask you to pay a fee. You must pay it at a payment machine. The machine is somewhere else in the *Ausländerbehörde*.
 
-**[How to pay the residence permit fee ↓](#pay-the-fee)**
+**[How to pay the residence permit fee ➞](#pay-the-fee)**
 
 If they approve your residence permit, they must print the plastic card. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.[^31]
 

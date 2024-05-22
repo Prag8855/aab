@@ -75,7 +75,7 @@ Only a few *Kitas* will answer emails. If they don't answer, call and ask to vis
 
 If you don't get a reply the first time you contact a *Kita*, or they say they have no place available, try contacting them again later.[^10] Sometimes, children will leave, and new places will become available.
 
-**[List of Kita search services ↓](/guides/how-to-find-a-kita-in-berlin#kita-search-services)**
+**[List of Kita search services ➞](/guides/how-to-find-a-kita-in-berlin#kita-search-services)**
 
 ## Step 4: Visit Kitas
 

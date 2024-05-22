@@ -256,7 +256,7 @@ These documents must prove that you meet the [KSK requirements](/guides/ksk-kuen
 
 You can [hire an expert](/guides/ksk-kuenstlersozialkasse#need-help) to review your documents. They can improve your chances of getting accepted.
 
-**[List of required documents ↓](/guides/ksk-kuenstlersozialkasse#required-documents)**
+**[List of required documents ➞](/guides/ksk-kuenstlersozialkasse#required-documents)**
 
 ### Step 5: Send everything to the KSK
 

@@ -166,6 +166,7 @@ config.markdown_extensions['tasklist']['list_item_class'] = 'checkbox'
 config.add_markdown_extension('extensions.markdown:WrappedTableExtension', {'wrapper_class': 'table-wrapper'})
 config.add_markdown_extension('extensions.markdown:CurrencyExtension')
 config.add_markdown_extension('extensions.markdown:TypographyExtension')
+config.add_markdown_extension('extensions.markdown:ArrowLinkIconExtension')
 
 config.renderers.extend([
     'extensions.renderers.entry_images.EntryImageRenderer',
