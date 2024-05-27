@@ -22,7 +22,7 @@ function issue_selfsigned_cert() {
 }
 
 function reload_nginx_on_config_changes () {
-  while inotifywait -e modify /var/www/html/redirects/301.map /var/www/html/redirects/302.map; do
+  while inotifywait -e modify -e move -e create /var/www/html/redirects/301.map /var/www/html/redirects/302.map; do
       echo "Config changed, reloading nginx..."
       nginx -s reload
   done
