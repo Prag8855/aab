@@ -46,11 +46,11 @@ You can buy local public transit tickets...
 
 To buy a local public transit ticket...
 
-1. **Choose the [tariff zone](#tariff-zones)**  
+1. **Choose the [tariff zone ➞](#tariff-zones)**  
     Berlin has [3 tariff zones](#tariff-zones): A, B and C. Buy an AB or ABC ticket, depending on the zones you travel in. **Most things are in zone A or B.** The airport is in zone C.
-2. **Choose the [duration of the ticket](#ticket-duration)**  
+2. **Choose the [duration of the ticket ➞](#ticket-duration)**  
     Single tickets are valid for 2 hours in one direction. There are daily, weekly and monthly passes. Short trip tickets (*Kurzstrecke*) let you travel just a few stops.
-3. **Choose the [type of ticket](#ticket-types)**  
+3. **Choose the [type of ticket ➞](#ticket-types)**  
     There are cheaper tickets for children, students, apprentices and [dogs](#dogs-on-public-transit). You need a [ticket for your bicycle](#bicycles-on-public-transit). Daily, weekly and monthly passes sometimes let you bring people for free.
 
 Your ticket is valid for the [[S-Bahn]], the [[U-Bahn]], trams, buses, ferries, regional trains (RE) and [*some* IC and ICE trains](https://www.vbb.de/vbb-services/umsteigen-und-weiterfahren/bahn/#c1155). It's not valid for private buses (Flixbus, *Hop-On, Hop-Off*) and tour boats.

@@ -73,8 +73,8 @@ Where did you get your driving licence? The requirements are different for each 
     - [ ] Pass a theoretical driving exam (only for [some countries](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html))
     - [ ] Pass a practical driving exam (only for [some countries](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html))
 - **Other countries**
-    - [ ] [Take a first aid course](#take-a-first-aid-course)
-    - [ ] [Get an eye test](#get-an-eye-test)
+    - [ ] [Take a first aid course ➞](#take-a-first-aid-course)
+    - [ ] [Get an eye test ➞](#get-an-eye-test)
     - [ ] Pass a theoretical driving exam
     - [ ] Pass a practical driving exam
 

@@ -15,8 +15,8 @@ This guide was written for freelancers in Berlin. If you live in another city, t
 
 To renew a German freelance visa, you must...
 
-1. Prepare the [required documents](#required-documents)
-2. [Get an appointment at the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment)
+1. Prepare the [required documents ➞](#required-documents)
+2. [Get an appointment at the *Ausländerbehörde* ➞](/guides/berlin-auslanderbehorde-appointment)
 3. Go to your appointment
 4. Wait for your new residence permit
 

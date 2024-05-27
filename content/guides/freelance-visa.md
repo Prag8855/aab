@@ -121,7 +121,7 @@ Before you apply for the freelance visa, you must...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
-- [ ] **Prepare the [required documents](#required-documents)**  
+- [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
@@ -160,7 +160,7 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...[^7]
 
-- [ ] **The [required documents](#required-documents)**  
+- [ ] **The [required documents ➞](#required-documents)**  
     Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
@@ -223,7 +223,7 @@ Before your embassy or consulate appointment, you must...
     Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents)**  
+- [ ] **Prepare the [required documents ➞](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
@@ -260,7 +260,7 @@ To convert your National Visa into a freelance visa:
     During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes.
 3. **Wait for your freelance visa**  
     {{ RESIDENCE_PERMIT_WAIT_TIME }}, you get a letter. It's your freelance visa, or an invitation to collect your freelance visa at the *Ausländerbehörde*.
-4. **[Activate your eID](#activate-your-eid)** (optional)
+4. **[Activate your eID ➞](#activate-your-eid)** (optional)
 
 Your freelance visa is a plastic card. It's valid for up to 3 years. You can [renew it](/guides/renew-german-freelance-visa) before it expires.
 

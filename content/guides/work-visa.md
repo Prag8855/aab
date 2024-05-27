@@ -129,7 +129,7 @@ Before you apply for the work visa, you must...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents)**
+- [ ] **Prepare the [required documents ➞](#required-documents)**
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
 
@@ -179,7 +179,7 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...[^7]
 
-- [ ] **The [required documents](#required-documents)**  
+- [ ] **The [required documents ➞](#required-documents)**  
     Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
@@ -265,7 +265,7 @@ Before your embassy or consulate appointment, you must...
     Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung).
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free.
-- [ ] **Prepare the [required documents](#required-documents)**  
+- [ ] **Prepare the [required documents ➞](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
@@ -302,7 +302,7 @@ To convert your National Visa into a work visa:
     During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes.
 3. **Wait for your work visa**  
     {{ RESIDENCE_PERMIT_WAIT_TIME }}, you get a letter. It's your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.
-4. **[Activate your eID](#activate-your-eid)** (optional)
+4. **[Activate your eID ➞](#activate-your-eid)** (optional)
 
 Your work visa is a plastic card. It's valid for up to 3 years. You can [renew it](#renew-your-work-visa) before it expires.
 

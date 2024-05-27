@@ -131,7 +131,7 @@ Before you apply for the Blue Card, you must...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents)**
+- [ ] **Prepare the [required documents ➞](#required-documents)**
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
 
@@ -235,7 +235,7 @@ Before your embassy or consulate appointment, you must...
     Some embassies and consulates ask for it.[^43] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
-- [ ] **Prepare the [required documents](#required-documents)**  
+- [ ] **Prepare the [required documents ➞](#required-documents)**  
     The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 
 ### 4. Go to your National Visa appointment
@@ -270,7 +270,7 @@ To convert your National Visa into a Blue Card:
     During the appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes.
 3. **Wait for your Blue Card**  
     {{ RESIDENCE_PERMIT_WAIT_TIME }}, you get a letter. It's your Blue Card, or an invitation to collect your Blue Card at the *Ausländerbehörde*.
-4. **[Activate your eID](#activate-your-eid)** (optional)
+4. **[Activate your eID ➞](#activate-your-eid)** (optional)
 
 Your Blue Card is a plastic card. It's valid for up to 4 years. You can [renew it](#renew-your-blue-card) before it expires.
 
