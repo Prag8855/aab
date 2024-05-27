@@ -360,7 +360,7 @@ To apply for an apartment, you need these documents:[^19]
 - [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form (*Selbstauskunft*) and fill it in advance.
 - [ ] **Proof of [liability insurance](/glossary/Haftpflichtversicherung)** (very optional)  
-    Landlords can't require liability insurance, but some ask for it anyway. Having it can make a small difference. You should have liability insurance anyway.[^53] - [More information](https://allaboutberlin.com/guides/haftpflichtversicherung)
+    Landlords can't require liability insurance, but some ask for it anyway. Having it can make a small difference. You should have liability insurance anyway.[^53] - [More information](/guides/haftpflichtversicherung)
 - [ ] **Copies of everything**  
     Use them to apply for the apartment during the visit. Keep the originals.
 
