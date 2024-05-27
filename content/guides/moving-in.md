@@ -134,7 +134,7 @@ To move heavy furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/
 
 ### Install light fixtures
 
-Most apartments come without light fixtures. You must buy your own and install them. A *Handwerker* can install them for you for 40€ to 120€.[^14] You can find cheaper ones on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331) or [TaskRabbit](https://www.taskrabbit.com/).
+Most apartments come without light fixtures. You must buy your own and install them. A *Handwerker* can install them for you for 40€ to 120€.[^14] You can find cheaper ones on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331), [TaskRabbit](https://www.taskrabbit.com/) or [Driller Queens](https://www.drillerqueens.com/).
 
 ### Change your address
 
