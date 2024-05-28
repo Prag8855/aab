@@ -28,7 +28,7 @@ If you don't speak German, you can still find jobs in...
 
 - [Tech companies](#tech-jobs)
 - Companies with English-speaking offices
-- Delivery services like [Lieferando](https://www.lieferando.de/en/courier), [Wolt](https://wolt.com/en/jobs/search), [Flink](https://careers.smartrecruiters.com/Flink3/joinus) and [Gorillas](https://gorillas.io/en/ride-with-us)
+- Delivery services like [Lieferando](https://www.lieferando.de/en/courier), [Wolt](https://wolt.com/en/jobs/search) and [Flink](https://careers.smartrecruiters.com/Flink3/joinus)
 - Customer service and call centres
 - Restaurants and bars
 

@@ -29,7 +29,7 @@ The tourism industry needs English-speaking tour guides, hostel staff, counsello
 
 ### Food delivery
 
-Food delivery companies like [Lieferando](https://careers.justeattakeaway.com/global/en), [Wolt](https://wolt.com/en/couriers), [Getir](https://career.getir.com/) and [Gorillas](https://gorillas.io/en/ride-with-us) hire delivery people who don't speak German.
+Food delivery companies like [Lieferando](https://careers.justeattakeaway.com/global/en), [Wolt](https://wolt.com/en/couriers) and [Flink](https://careers.smartrecruiters.com/Flink3/joinus) hire delivery people who don't speak German.
 
 ### Gastronomy
 
