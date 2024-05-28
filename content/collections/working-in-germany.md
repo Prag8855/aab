@@ -9,8 +9,9 @@ Related_guides:
     guides/taxes.md
     guides/probezeit.md
     guides/sick-leave.md
-    guides/sabbatical-leave.md
     guides/vacation-days.md
+    guides/sabbatical-leave.md
+    guides/bildungsurlaub.md
     guides/losing-your-job.md
     guides/german-resignation-letter.md
     guides/job-notice-period.md
