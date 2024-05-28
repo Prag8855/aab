@@ -93,9 +93,9 @@ If you need time off because of your mental health, get a [sick note](/glossary/
 
 **[Sick leave in Germany ➞](/guides/sick-leave)**
 
-If you want to get training for your job, take a *[[Bildungsurlaub]]*.
+If you want to get training for your job, take a *[[Bildungsurlaub]]*. It's a paid vacation to improve your skills.
 
-**[What is a Bildungsurlaub? ➞](/guides/learn-german#educational-leave-bildungsurlaub)**
+**[Educational leave in Germany ➞](/guides/bildungsurlaub)**
 
 [^0]: [arbeitsrechte.de](https://www.arbeitsrechte.de/unbezahlter-urlaub/#Wann_kann_man_unbezahlten_Urlaub_nehmen)
 [^1]: [arbeitsrechte.de](https://www.arbeitsrechte.de/unbezahlter-urlaub/anspruch/#:~:text=nein.%20ein%20gesetzlicher%20anspruch%20auf%20unbezahlten%20urlaub%20existiert%20nicht.)

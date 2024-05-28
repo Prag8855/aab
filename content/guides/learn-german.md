@@ -200,20 +200,9 @@ The German Academic Exchange Service (DAAD) offers scholarships (*Stipendium*) f
 
 ### Educational leave ([[Bildungsurlaub]])
 
-You have the right to take vacations to improve your education. This is an educational leave (*[[Bildungsurlaub]]*). During your *Bildungsurlaub*, your employer keeps paying your salary.
+You can take up to 10 days off to study German. During that time, you still get paid. This is your right. Your employer must allow it, with a few exceptions.
 
-If you work full-time, you get 10 days of educational leave every two years.[^11] If you are under 26 years old, you get 10 days every year.[^11] You must be an employee for at least 6 months.[^12] You must apply at least 6 weeks before your leave.[^12] It must last at least 1 day.
-
-Educational leave is a right. Your employer must allow it, unless it conflicts with the business operations, or if over 50% of the employees already took their *Bildungsurlaub*.
-
-You must take classes in a public school, a community college (*[[Volkshochschule]]*), a public university (*Hochschule*), or a recognised private school. In Berlin, many private language schools are recognised.[^13] You can find recognised courses [here](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/).
-
-If your course is not recognised, you must ask for permission [here](https://bildungszeit.berlin.de/veranstalter/). This is useful if you want to make a language trip in another country.
-
-**Useful links:**
-
-- [*Bildungsurlaub* course finder](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/) (German) - Berlin.de
-- [*Bildungsurlaub* information](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/) (German) - Berlin.de
+**[How the Bildungsurlaub works ➞](/guides/bildungsurlaub)**
 
 ### Are German classes [tax-deductible](/glossary/steuerlich%20absetzbar)?
 
@@ -262,8 +251,5 @@ I use [DeepL](https://www.deepl.com/en/translator) to translate longer texts. It
 [^8]: [gls-german-courses.de](https://www.gls-german-courses.de/german-course-with-accommodation-berlin.html)
 [^9]: [kapitel-zwei.de](https://kapitel-zwei.de/en/living-in-berlin/berlin-appartments/)
 [^10]: [support.italki.com](https://support.italki.com/hc/en-us/articles/206353108-What-device-software-do-I-need-to-take-classes-)
-[^11]: [berlin.de](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/), [berlin.de](https://www.berlin.de/vhs/_assets/biurlg.pdf)
-[^12]: [bildungsurlaub.de](https://www.bildungsurlaub.de/infos?id_seite=32&seo_titel=berlin)
-[^13]: [berlin.de](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/)
 [^14]: [smartsteuer.de](https://www.smartsteuer.de/online/steuertipps/wenn-auslaender-deutsch-lernen/)
 [^15]: [toytowngermany.com](https://web.archive.org/web/20220520202021/https://www.toytowngermany.com/forum/topic/116200-tax-rebates-for-german-courses/#comment-1465176)

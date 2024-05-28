@@ -22,9 +22,9 @@ In Germany, all employees get paid vacation days.[^0]
 | 5 days per week | 20 days per year      |
 | 6 days per week | 24 days per year      |
 
-If you work 5 days per week, you get *at least* 20 vacation days per year.[^1] Most full-time employees get 25 to 30 vacation days.[^2] Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
+If you work 5 days per week, you get *at least* 20 vacation days per year, plus paid [public holidays](/guides/public-holidays).[^1] Employees under 18 years old [get more vacation days](https://www.gesetze-im-internet.de/jarbschg/__19.html).
 
-When you [get a job offer](/guides/find-a-job-in-berlin#step-4-the-job-offer), you can negotiate more vacation days.
+When you [get a job offer](/guides/find-a-job-in-berlin#step-4-the-job-offer), you can negotiate more vacation days. Most full-time employees get 25 to 30 vacation days.[^2]
 
 When you start a new job, your vacation days days are prorated: you unlock 1/12 of your vacation days every month.[^3] This is true even if you don't have a [probation period](/glossary/Probezeit). After 6 months, you can use all of your vacation days.[^4] [More information here.](/guides/probezeit#vacations)
 
@@ -72,6 +72,12 @@ Sabbatical leave is a long, unpaid vacation from work. People usually take a sab
 If you are sick, you get paid sick leave. You don't need to use your vacation days. If you are sick while on vacation, [you get your vacation days back](/guides/sick-leave#if-you-are-sick-while-on-vacation).
 
 **[Sick leave in Germany ➞](/guides/sick-leave)**
+
+## Educational leave
+
+You can take time off to improve your education. During that time, you still get paid. This is called educational leave (*[[Bildungsurlaub]]*)
+
+**[Educational leave in Germany ➞](/guides/bildungsurlaub)**
 
 ## If you change jobs
 
