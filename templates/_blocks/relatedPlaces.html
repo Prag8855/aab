@@ -1,5 +1,6 @@
 <aside id="places">
-	<div id="places-map" class="no-print">
+	<div id="places-map" class="no-print not-loaded">
+		<button class="load-map-button button primary">Show map</button>
 		<noscript>This map needs JavaScript to work.</noscript>
 	</div>
 	<ol>
@@ -29,8 +30,9 @@
 </aside>
 {% js %}{% include "_js/googleMapsMarkerClusterer.js" %}{% endjs %}
 <script>
+const placesMap = document.getElementById('places-map');
+
 function initMap() {
-	const placesMap = document.getElementById('places-map');
 	const googleMap = new google.maps.Map(placesMap, {
 		disableDefaultUI: true,
 		zoomControl: true,
@@ -70,5 +72,25 @@ function initMap() {
 	})
 	googleMap.fitBounds(bounds);
 }
+
+function loadGoogleMaps(){
+	const script = document.createElement('script');
+	script.type = 'text/javascript';
+	script.src = 'https://maps.googleapis.com/maps/api/js?key={{ google_maps_api_key }}&callback=initMap';
+	script.async = true;
+	script.onload = script.onreadystatechange = function() {
+		if (this.readyState == 'complete') {
+			placesMap.classList.remove('not-loaded');
+		}
+	};
+	const t = document.getElementsByTagName('script')[0];
+	t.parentElement.insertBefore(script, t);
+	placesMap.querySelector('.load-map-button').disabled = true;
+	placesMap.querySelector('.load-map-button').innerHTML = "Loading...";
+}
+
+window.addEventListener("DOMContentLoaded", function() {
+	placesMap.querySelector('.load-map-button').addEventListener('click', loadGoogleMaps);
+});
+
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ google_maps_api_key }}&callback=initMap"></script>
