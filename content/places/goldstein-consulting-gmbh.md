@@ -1,6 +1,5 @@
 ---
 Name: Goldstein Consulting GmbH
-Description: Tax and accounting services offered in German and English.
 Website: https://goldsteinconsulting.de/en/
 Email: 
 Address: Fasanenstraße 77

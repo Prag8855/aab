@@ -1,6 +1,5 @@
 ---
 Name: Steuerberater Thomas Langer
-Description: Tax and accounting services offered in German and English.
 Website: https://www.stblanger.de/en/
 Email: 
 Address: Charlottenstraße 35/36

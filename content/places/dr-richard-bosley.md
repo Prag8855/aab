@@ -1,6 +1,6 @@
 ---
 Name: Dr. Richard Bosley
-Description: American and German tax return services offered in German and possibly English.
+Description: American and German tax return services.
 Website: http://stb-bosley.de/
 Email: 
 Address: Am Zirkus 4

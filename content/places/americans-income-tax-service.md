@@ -1,6 +1,6 @@
 ---
 Name: Americans' Income Tax Service
-Description: American and German tax return services offered in German and English.
+Description: American and German tax return services.
 Website: http://usataxberlin.com/
 Email: 
 Address: Katharinenstraße 12

@@ -1,6 +1,6 @@
 ---
 Name: Steuerberater Suat Göydeniz
-Description: Tax and accounting services offered in German and English. Suat is my tax advisor since 2018. I strongly recommend him.
+Description: Suat is my tax advisor since 2018.
 Website: https://stb-goeydeniz.de/english-tax-advisor-berlin/
 Email: 
 Address: Kottbusser Damm 68

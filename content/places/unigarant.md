@@ -1,6 +1,5 @@
 ---
 Name: Unigarant
-Description: Tax and accounting services offered in German and English.
 Website: https://www.unigarant.de/en
 Email: 
 Address: Berolinahaus, Alexanderpl. 1

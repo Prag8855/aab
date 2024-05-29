@@ -1,6 +1,5 @@
 ---
 Name: Merla Ganschow & Partner
-Description: Tax and accounting services offered in German and English.
 Website: https://www.mgp-steuerberater.de/
 Email: 
 Address: Tauentzienstraße 9-12

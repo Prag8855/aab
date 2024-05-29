@@ -1,6 +1,6 @@
 ---
 Name: Steuerberaterin Helga Vellmann
-Description: Tax and accounting services offered in English and Russian.
+Description: They speak English and Russian.
 Website: https://www.steuerberaterin-vellmann.de/?language=en
 Email: 
 Address: Ehrenbergstraße 4

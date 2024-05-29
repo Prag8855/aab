@@ -1,6 +1,6 @@
 ---
 Name: Lanza & Remuss
-Description: Tax and accounting services offered in German, English and Spanish.
+Description: They speak German, English and Spanish.
 Website: https://www.lanza-remuss.de/
 Email: 
 Address: Brandenburgische Str. 24

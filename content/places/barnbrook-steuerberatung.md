@@ -1,6 +1,6 @@
 ---
 Name: Barnbrook tax consultant
-Description: Tax and accounting services offered in German, English and Polish.
+Description: They speak German, English and Polish.
 Website: https://www.barnbrook.tax/index_eng.html
 Email: 
 Address: Wallstraße 58/59

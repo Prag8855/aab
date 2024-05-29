@@ -1,6 +1,5 @@
 ---
 Name: ArtevanaTax Steuerberatungsgesellschaft
-Description: Tax and accounting services offered in German and English.
 Website: http://www.artevana.de/
 Email: 
 Address: Knesebeckstraße 54

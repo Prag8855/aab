@@ -1,6 +1,5 @@
 ---
 Name: Schubert & Kollegen Steuerberatungsgesellschaft mbH
-Description: Tax and accounting services offered in German and English.
 Website: https://www.schubert-stb.de/
 Email: 
 Address: Länderallee 27

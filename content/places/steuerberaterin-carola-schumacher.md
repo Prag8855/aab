@@ -1,6 +1,6 @@
 ---
 Name: Steuerberaterin Carola Schumacher
-Description: Tax and accounting services offered in English and German
+Description: They speak English and German
 Website: http://www.stb-carola-schumacher.de/index_en.html
 Email: 
 Address: Schlesische Str. 38

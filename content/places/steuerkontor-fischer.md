@@ -1,6 +1,6 @@
 ---
 Name: Steuerkontor Fischer
-Description: Tax and accounting services offered in German and English. Specializes in property investments.
+Description: They specialise in property investments.
 Website: http://www.steuerkontor-fischer.de/
 Email: 
 Address: Knesebeckstraße 32

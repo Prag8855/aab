@@ -1,6 +1,5 @@
 ---
 Name: Eschenhagen Steuerberatungs GmbH
-Description: Tax and accounting services offered in German and English.
 Website: http://www.eschenhagen.berlin/
 Email: 
 Address: Wundtstraße 48/50

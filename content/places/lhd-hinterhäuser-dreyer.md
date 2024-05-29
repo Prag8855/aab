@@ -1,6 +1,6 @@
 ---
 Name: LHD Hinterhäuser Dreyer
-Description: Tax and accounting services offered in German, English and Italian.
+Description: They speak German, English and Italian.
 Website: https://www.lhd-berlin.eu/?lang=en
 Email: 
 Address: Katharinenstraße 12

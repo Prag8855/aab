@@ -1,6 +1,6 @@
 ---
 Name: Amy Valenzuela CPA
-Description: American tax and accounting services offered in English.
+Description: American tax and accounting services
 Website: https://www.alvcpa.com/
 Email: 
 Address: Baerwaldstraße 50

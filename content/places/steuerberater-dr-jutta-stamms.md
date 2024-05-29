@@ -1,6 +1,5 @@
 ---
 Name: Tax Accountant Dr. Jutta Stamms
-Description: Tax and accounting services offered in German and English.
 Website: https://www.steuerberater-stamms.de/
 Email: 
 Address: Albrechtstraße 10F

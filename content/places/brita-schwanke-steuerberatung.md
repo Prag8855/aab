@@ -1,6 +1,5 @@
 ---
 Name: Brita Schwanke Steuerberatung
-Description: Tax and accounting services offered in German and English.
 Website: http://schwanke-steuerberatung.de/
 Email: 
 Address: Transvaalstraße 14

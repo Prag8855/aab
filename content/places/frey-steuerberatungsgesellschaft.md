@@ -1,6 +1,5 @@
 ---
 Name: Frey Steuerberatungsgesellschaft
-Description: Tax and accounting services offered in German and English.
 Website: http://www.frey-steuerberatung.de/
 Email: 
 Address: Saarbrücker Str. 24/Haus B

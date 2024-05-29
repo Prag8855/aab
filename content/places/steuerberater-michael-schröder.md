@@ -1,6 +1,5 @@
 ---
 Name: Steuerberater Michael Schröder
-Description: Tax and accounting services offered in German and English.
 Website: http://www.steuerschroeder.de/
 Email: 
 Address: Schmiljanstraße 7

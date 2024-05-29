@@ -1,6 +1,5 @@
 ---
 Name: Dr. Georgi Steuerberatung
-Description: Tax and accounting services offered in German and English.
 Website: https://www.steuerberater-berlin.de/
 Email: 
 Address: Prinz-Handjery-Straße 77
