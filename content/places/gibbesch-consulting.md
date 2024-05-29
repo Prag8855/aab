@@ -1,5 +1,5 @@
 ---
-Name: Gibbesch Consulting
+Name: Gibbesch Consulting GmbH
 Description: 
 Website: https://www.gibbesch-consulting.com/
 Email: info@gibbesch-consulting.com
