@@ -24,7 +24,7 @@ Freelancers (*[[Freiberufler]]*), tradespeople (*[[Gewerbe]]*) and limited liabi
 
 ## Should you be a Kleinunternehmer?
 
-It depends. A *Kleinunternehmer* does not charge VAT. Before you decide, understand [how VAT works in Germany](/guides/value-added-tax).
+It depends. A *Kleinunternehmer* does not charge [VAT](/glossary/Umsatzsteuer). Before you decide, understand [how VAT works in Germany](/guides/value-added-tax).
 
 If you don't charge VAT, it means:
 

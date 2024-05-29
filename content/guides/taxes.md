@@ -113,7 +113,7 @@ All German households must pay the [TV tax](/glossary/Rundfunkbeitrag). If you r
 
 If you are self-employed, you must pay...
 
-- [Income and salary tax](#income-and-salary-tax)
+- [Income tax](#income-and-salary-tax)
 - [Health insurance](#health-insurance)
 - [Nursing care insurance](#nursing-care-insurance)
 - [Church tax](#church-tax)

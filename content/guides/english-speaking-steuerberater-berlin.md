@@ -83,7 +83,7 @@ If you have a simple tax situation, you don't need a tax advisor. The *[[Finanza
 
 **If you are self-employed**, you must pay more. If you don't charge [VAT](/glossary/Umsatzsteuer), it costs 300€ to 800€ per year. If you charge VAT, it costs 700€ to 2,000€ per year. The prices vary a lot. The only way to know is to call and ask.
 
-Tax advisor fees are [tax-deductible](/glossary/steuerlich%20absetzbar).[^0]
+The cost of a tax advisor is [tax-deductible](/glossary/steuerlich%20absetzbar).[^0]
 
 ## Alternatives to a tax advisor
 
