@@ -2511,8 +2511,8 @@ details{
 				position: absolute;
 				width: 100%;
 				height: 100%;
-				filter: blur(3px) grayscale(60%);
-				background: url('/images/berlin-tram-lines.png');
+				filter: blur(3px) grayscale(40%) brightness(1.1);
+				background: url('/staticimages/berlin-map.jpg');
 				background-size: cover;
 			}
 
