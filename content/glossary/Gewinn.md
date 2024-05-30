@@ -12,6 +12,6 @@ Related_guides:
 
 Profit (*Gewinn*) is how much money you make after expenses. Profit is not the same as revenue (*[[Umsatz]]*).
 
-For example, if you have a product that costs 6€ to make, and you sell it for 10€, your profit is 4€ per sale. If you sell 100 units, your total revenue is 1,000€, but your profit is only 400€. The other 600€ are your business expenses.
+For example, you have a product that costs 6€ to make, and sells for 10€. Your revenue is 10€ per unit, and your profit is 4€ per unit.
 
-You only pay [income tax](/glossary/Einkommensteuer) and [trade tax](/glossary/Gewerbesteuer) on your profit, not your income.
+You only pay [income tax](/glossary/Einkommensteuer) and [trade tax](/glossary/Gewerbesteuer) on your profit, not your revenue.
