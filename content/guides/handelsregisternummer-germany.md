@@ -44,6 +44,8 @@ A *Handelsregister* entry has some benefits, but it mostly means more effort and
 
 You must list your business in the *Handelsregister*. You can ask for this when you fill the *[[Fragebogen zur steuerlichen Erfassung]]* in [[ELSTER]].
 
+**[How to fill the Fragebogen zur steuerlichen Erfassung ➞](/guides/fragebogen-zur-steuerlichen-erfassung)**
+
 ## Where do I find a company's Registernummer?
 
 - On the imprint (*[[Impressum]]*) page of their website. All commercial websites in Germany have this page. There is usually a link to the *Impressum* at the bottom of every page.
