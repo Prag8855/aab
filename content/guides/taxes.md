@@ -121,8 +121,8 @@ If you are self-employed, you must pay...
 
 You can choose to pay...
 
-- [Public pension insurance](#public-pension-insurance)
-- [Unemployment insurance](#unemployment-insurance)
+- [Unemployment insurance](/glossary/Arbeitslosenversicherung). If you don't pay for it, and you don't get [unemployment benefits](/glossary/ALG%20I).
+- [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you don't pay for it, and you don't get a public pension. You must make your own retirement plans.
 
 Your business must also pay...
 
@@ -132,7 +132,7 @@ Your business must also pay...
 
 **[Cost of running a business ➞](/guides/start-a-business-in-germany#the-cost-of-running-a-business)**
 
-Since you are self-employed, your employer does not pay half of your health insurance, pension insurance and unemployment insurance. This means that you pay twice as much for social contributions.
+Since you are self-employed, your employer does not pay half of your health insurance, pension insurance or unemployment insurance. This means that you pay twice as much for social contributions.
 
 ## German tax classes
 
