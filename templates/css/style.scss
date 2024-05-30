@@ -1115,28 +1115,26 @@ sup:target a{
 		cursor: help;
 	}
 
-	@mixin not-print{
-		.arrow-link{
-			padding-right: calc(var(--xs) + var(--w-icon-s));
+	.arrow-link{
+		padding-right: calc(var(--xs) + var(--w-icon-s));
 
-			&::after{
-				content: '';
-				width: 1em;
-				height: calc(1em * var(--line-height-text));
-				display: inline-block;
-				mask-position: center;
-				mask-repeat: no-repeat;
-				mask-size: cover;
-				background-color:currentColor;
-				vertical-align: center;
+		&::after{
+			content: '';
+			width: 1em;
+			height: calc(1em * var(--line-height-text));
+			display: inline-block;
+			mask-position: center;
+			mask-repeat: no-repeat;
+			mask-size: cover;
+			background-color:currentColor;
+			vertical-align: center;
 
-				position: absolute;
-				margin-left:var(--s);
-				margin-top: 1px;
-				transition: transform 0.2s;
+			position: absolute;
+			margin-left:var(--s);
+			margin-top: 1px;
+			transition: transform 0.2s;
 
-				mask-image: var(--i-right);
-			}
+			mask-image: var(--i-right);
 		}
 	}
 
