@@ -128,6 +128,7 @@ Your business must also pay...
 
 - [Trade tax](/glossary/Gewerbesteuer) - [More information](/guides/gewerbesteuer)
 - [Value Added Tax](/glossary/Umsatzsteuer) (VAT) - [More information](/guides/value-added-tax)
+- [[IHK]] membership fee - [More information](/guides/start-a-business-in-germany#ihk-membership)
 
 **[Cost of running a business ➞](/guides/start-a-business-in-germany#the-cost-of-running-a-business)**
 
