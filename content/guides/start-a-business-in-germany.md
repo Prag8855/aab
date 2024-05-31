@@ -110,19 +110,19 @@ When you register your address for the first time, you get a tax ID (*[[Steuerid
 
 ### Open a bank account
 
-You need a bank account to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung), and to pay your taxes. You don't need a *German* bank account; you can use any bank that allows [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung).[^0]
+You need a bank account to pay taxes, pay for health insurance, and to get paid by your customers. You can use any European bank.[^0]
 
-If you are a *[[Freiberufler]]* or a *[[Gewerbe]]*, you don't need a business bank account.[^1] You can use your personal bank account. Check your bank's terms and conditions; some banks don't let you use your personal account for your business.[^2]
+**Use a separate bank account** for your business. Bookkeeping is easier when your personal and business transactions are separate. Some banks don't let you use your personal account for business.[^2]
 
-If you form a corporation (GmbH, UG, AG or KGaA), you need a separate business account (*[[Geschäftskonto]]*).[^2] It's required.
-
-If you don't have a bank account, look at [my comparison of German banks](/guides/best-bank-germany). Business banks like [Holvi](/out/holvi), [Qonto](/out/qonto), [Kontist](/out/kontist) and [Finom](/out/finom) help with your accounting. I use [Kontist](/out/kontist) since January 2022, but [I don't recommend it](/guides/kontist-review).
+Business banks like [Holvi](/out/holvi), [Qonto](/out/qonto), [Kontist](/out/kontist) and [Finom](/out/finom) help with your accounting. I use [Kontist](/out/kontist) since January 2022, but [I don't recommend it](/guides/kontist-review).
 
 **[Best German banks for expats ➞](/guides/best-bank-germany)**
 
-### Two bank accounts is better
+**The [[Finanzamt]] can freeze your bank accounts** if you don't pay your taxes. They will freeze all of your accounts, not just your business account. They can also freeze your accounts in other EU countries.[^3] When the *Finanzamt* freezes your bank account, you can't withdraw money or make bank transfers.[^4]
 
-You should have two bank accounts: one for you, and one for your business. If you keep business transactions in a separate account, bookkeeping is easier.
+Sometimes, they freeze your account by mistake. It happened to me, and to other people I know. Even if it's not your fault, it can take a few days to fix. During that time, you can't withdraw money.
+
+**Get a P-Konto** (*[[Pfändungsschutzkonto]]*). It lets you access some of your money when your account is frozen, so you can buy food and pay your bills. You can get a *P-Konto* for free, but it can affect your *[[Schufa]]* score.
 
 ### The Finanzamt can freeze your account
 
@@ -234,6 +234,10 @@ If you are an artist, publicist or art teacher, join the *[[Künstlersozialkasse
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
+### Do your taxes
+
+Every year, you must make a [tax declaration](/glossary/Steuererklärung). Remember that most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar): tax advisor, tax software, insurance, transportation, computers, internet, mobile phone, banking fees, part of your rent and a lot more. This reduces your taxable income, so you pay less taxes.
+
 ## Need help?
 
 There are tools that make it easier:
@@ -250,7 +254,6 @@ There are tools that make it easier:
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^0]: [Screenshot](/images/steuerberater-business-bank-account-question.png)
-[^1]: [billomat.com](https://www.billomat.com/magazin/geschaeftskonto-selbststaendige-pflicht/)
 [^2]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/geschaeftskonto/)
 [^3]: [together.bunq.com](https://together.bunq.com/d/5116-deutsche-pf-ndbarkeit-auf-niederl-ndisches-konto/3)
 [^4]: [juraforum.de](https://www.juraforum.de/lexikon/kontosperrung)
