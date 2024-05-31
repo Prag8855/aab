@@ -83,7 +83,7 @@ Short-term furnished rooms are cheaper on [Kleinanzeigen](https://www.kleinanzei
 
 ### Dorms and student housing
 
-- **[StudierendenWERK Berlin](https://www.stw.berlin/wohnraumb%C3%B6rse/inserate.html)**{% include '_blocks/recommended.html' %}  
+- **[StudierendenWERK Berlin](https://www.stw.berlin/en/housing/housing-portal.html)**{% include '_blocks/recommended.html' %}  
     Affordable student housing. There are long waiting lists. Only for students of partner universities.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments.
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. *[[Anmeldung]]* possible.
