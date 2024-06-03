@@ -68,7 +68,6 @@ When you [start a business in Germany](/guides/start-a-business-in-germany), you
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
-[^2]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)
 [^4]: [§11 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
 [^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
