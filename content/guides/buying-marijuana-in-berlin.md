@@ -5,7 +5,7 @@ Description: This is how you buy marijuana safely in Germany's capital.
 Date_created: 2017-09-01
 ---
 
-This guide explains how people usually buy weed in Berlin. Weed [is legal in Germany](/guides/is-marijuana-legal) since April 1, but there is no legal way to buy it.{{ fail_on('2024-06-01')}}
+This guide explains how people usually buy weed in Berlin. Weed [is legal in Germany](/guides/is-marijuana-legal) since April 1. The only legal way to buy weed is to [join a cannabis club](/guides/is-marijuana-legal#cannabis-clubs).
 
 ![Rolling paper and a grinder](/illustrations/rolling-paper-grinder-weed-berlin-s.png)
 
@@ -13,7 +13,7 @@ This guide explains how people usually buy weed in Berlin. Weed [is legal in Ger
 
 ## Is weed legal in Germany?
 
-**Yes**, it's legal but there are [many restrictions](/guides/is-marijuana-legal). Currently, it's still illegal to sell weed. There is no way to buy cannabis legally.{{ fail_on('2024-06-01')}}
+**Yes**, it's legal but there are [many restrictions](/guides/is-marijuana-legal). Currently, it's still illegal to sell weed. The only way to buy weed legally is to [join a cannabis club](/guides/is-marijuana-legal#cannabis-clubs).
 
 **[Is marijuana legal in Germany? ➞](/guides/is-marijuana-legal)**
 

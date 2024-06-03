@@ -35,7 +35,7 @@ There is currently **no way to buy weed**. There are no cannabis stores. You mus
 
 ### Cannabis clubs
 
-**You can't buy weed** from a store. To buy weed, you must join a cannabis club. Clubs can start growing cannabis on July 1 2024.
+**You can't buy weed** from a store. To buy weed, you must join a cannabis club. Clubs can start growing cannabis on July 1 2024.{{ fail_on('2024-07-01') }}
 
 Rules for cannabis clubs:[^17]
 
