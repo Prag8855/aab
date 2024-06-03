@@ -1,42 +1,55 @@
 ---
 Title: How to apply for German permanent residence
 Short_title: How to apply for permanent residence
-Description: The process and the requirements to get the German Niederlassungserlaubnis or permanent residence.
+Description: The process and the requirements to get a Niederlassungserlaubnis and become a permanent resident.
 Date_created: 2024-07-01
 ---
 
-The **permanent residence** allows you to live in Germany. It's better than a residence permit, but not as good as German citizenship.
+If you live in Germany for a few years, you can become a permanent resident. Permanent residence is better than a [residence permit](/glossary/Aufenthaltstitel), but not as good as German citizenship.
 
 As a permanent resident, you can...
 
 - Live in Germany
+- Work, study and freelance
 - Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
-This guide explains how to apply for permanent residence in Berlin. In other German cities, the application process can be different.
+This guide explains how to apply for permanent residence in Berlin. It can be different in other German cities.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Why get permanent residence
+## Why you should get permanent residence
 
-Pros:
+Permanent residence is better than a residence permit for a few reasons:
 
-- No more Ausländerbehörde visits
-- Residence status not tied to employment, can get Bürgergeld
+- **No more Ausländerbehörde visits**  
+    Your permanent residence does not expire. You don't have to renew it like a [residence permit](/glossary/Aufenthaltstitel). This means that you don't need to deal with the *Ausländerbehörde* anymore.
+- **You can do what you want**  
+    You can change jobs, start a business or study in Germany. You don't need permission from the *Ausländerbehörde*.
+- **Residence is not tied to employment**  
+    Your right to live in Germany is not tied to your income or occupation. You don't need to prove your income. If you [lose your job](/guides/losing-your-job), you can stay in Germany.
+- You can get Bürgergeld
 - Faster than citizenship
+- **No Wehrpflicht**  
+    Citizens can be drafted in the military, but not permanent residents.
 
-Cons:
+Permanent residence is not as good as citizenship for a few reasons:
 
-- Still can't vote?
+- **You can't vote**  
+    Permanent residents can't vote like citizens.
+- **Deportation is still possible**  
+    Permanent residence can still be deported if they commit serious crimes.
 
 ## Permanent residence requirements
 
-To become a permanent residence, you must...
+To become a permanent resident, you must...
 
+- [ ] **Live in Germany for a long time**  
+    21 to ??? months, depending on your history.
 - [ ] **Support yourself**  
     ...
 - [ ] **Speak German**  
-    ...
+    You don't need a language certificate.[^3]
 - [ ] **Have savings for retirement**  
     ...
     - [ ] **A public pension**  
@@ -57,51 +70,29 @@ If you qualify for permanent residence, you might also qualify for German citize
 
 ### 1. Prepare your permanent residence application
 
-Before you apply for the freelance visa, you must...
+Before you apply for permanent residence, you must **prepare the [required documents](#required-documents)**. If you are an employee, it's easy.
 
-- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
-    It's really hard to find an apartment. Start looking as soon as you can.
-    - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address).
-    - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [Health insurance options for a freelance visa](/guides/german-visa-health-insurance#for-a-freelance-visa)
-- [ ] **Prepare the [required documents](#required-documents)**  
-    This takes a few weeks. Start as soon as you can.
+If you are self-employed, you need more documents. Some documents must be prepared by a [tax advisor](/glossary/Steuerberater). It can take a few weeks to prepare all your documents.
 
-If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
-
-While you wait for an *Ausländerbehörde* appointment, you should also...
-
-- [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^76] - [Why the *Anmeldung* is important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
-- [ ] **[Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**  
-    You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
-
-If you are self-employed, find a tax advisor.
+**[Find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
 
 ### 2. Apply for permanent residence
 
-There are 2 ways to apply for a freelance visa in Berlin:
-
-- **Apply in person**  
-    [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your permanent residence. It's almost impossible to get an appointment.
-- or **send your documents online**{% include '_blocks/recommended.html' %}  
-    [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
+You can't get an Ausländerbehörde appointment for permanent. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment.
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents. When they have all the documents they need, they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment.
 
 Sometimes, it takes so long that they will ask for updated documents.
 
-In Berlin, it takes up to 1 year in total.  If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
+In Berlin, it usually takes 5 to 10 months.[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
 
-If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few months to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your freelance visa.
+After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.
 
-In most cases, your current [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. If your current residence permit does not allow self-employment, you must wait for your freelance visa to start your business.[^55]
+Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -112,7 +103,7 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 When you go to your appointment, bring...[^7]
 
 - [ ] **The [required documents](#required-documents)**  
-    Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
+    Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
@@ -122,7 +113,11 @@ When you go to your appointment, bring...[^7]
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
-The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting.
+In the email, they might ask for more documents. Sometimes, the process takes so long that they ask for an updated version of your documents.
+
+The appointment takes 15 to 60 minutes.[^4] You spend most of that time waiting.
+
+The *[[Ausländerbehörde]]* employee will ask you questions in German. It's just a simple conversation to see if you can speak German.[^1]
 
 If they approve your freelance visa, they must print the plastic card. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.
 
@@ -174,6 +169,8 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
         You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
+- [ ] **Language certificate** (optional)  
+    You must prove that you speak German. If you don't have a language certificate, they will ask you questions in German during your *[[Ausländerbehörde]]* appointment, to see if you speak German.
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
@@ -182,20 +179,13 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 - [ ] **Proof of retirement pension**  
     Prove that you will get a public or private pension when you are 67 years old.
 
+### Required documents for employees
+
+...
+
 ### Required documents for self-employed people
 
-- [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
-    Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
-- [ ] 2 or more **[letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)[^67]  
-    These are letters from potential clients that want to hire you. They are really important. They prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You should have at least 2 letters from German clients. Signed contracts are even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
-
-If you are an artist or a language teacher, you can also bring...
-
-- [ ] **Proof of financial support**[^57]  
-    If you can't prove that your will make enough money, bring proofs of financial support. For example...
-    - Your own savings
-    - Regular bank transfers from your family
-    - A letter from a guarantor
+- [ ] ...
 
 If you need a permit to do your job (lawyers, doctors, engineers), you must also bring...
 
@@ -209,10 +199,6 @@ If you can, you should also bring...
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
     You probably don't need a *Handelsregister* entry.[^77] If you need one, you can probably get it after you get your freelance visa. - [Who needs a *Handelsregister* entry?](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)
 
-### Required documents for employees
-
-...
-
 ### Required documents if you apply in person
 
 - [ ] **Appointment confirmation**, printed  
@@ -224,7 +210,7 @@ If you can, you should also bring...
 - [ ] **Passport photo** (35 × 45 mm)  
     Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the 113€ to 147€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 ### Optional documents
 
@@ -267,7 +253,7 @@ With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel 
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Remember to include them when you make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Need help?
 
@@ -278,3 +264,9 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 The *Ausländerbehörde* can answer your questions, but they are very hard to contact. They can take months to answer. Sometimes they don't answer at all.
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
+
+[^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024)
+[^2]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
+[^3]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024)
+[^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
+[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)

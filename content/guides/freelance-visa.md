@@ -21,7 +21,7 @@ With a freelance visa, you can...
 
 The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is the same.
 
-This guide explains how to apply for a freelance visa in Berlin or in your country. In other German cities, the application process can be different.
+This guide explains how to apply for a freelance visa in Berlin or in your country. It can be different in other German cities.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -427,7 +427,7 @@ With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel 
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Remember to include them when you make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
 ## Need help?
 
