@@ -3,17 +3,19 @@ Title: How educational leave works (Bildungsurlaub)
 Short_title: How educational leave works
 Description: How to take a paid vacation to improve your education in Berlin. It's also called "Bildungszeit".
 Date_created: 2024-05-28
+Related_reviews:
+    reviews/bildungsurlaub/lara-koerber.md
 ---
 
 In Berlin, you can take educational leave. You get a paid vacation to improve your education. It's called *Bildungsurlaub* or *Bildungszeit*.
 
 ## What the Bildungsurlaub is for
 
-You can use a *Bildungsurlaub* to take courses or attend seminars and training events. The training should be related to your job, or at least indirectly benefit your employer.[^11]
+You can use a *Bildungsurlaub* to take courses or attend seminars and training events. The training should benefit your employer directly or indirectly.[^11] For example, you can take German classes or learn a new tool that makes you more productive.
 
 ## How long is a Bildungsurlaub?
 
-If you work full-time, you get **5 days of paid educational leave per year**. If you are under 26 years old, you get 10 days. If you work part time, you get less.[^1]
+If you work full-time, you get **5 days of paid educational leave per year**. If you work part time, you get less.[^1]
 
 You can combine this year and next year's allowance, and get 10 days of educational leave. For example, you can use your allowance for {{ now.year }} and {{ now.year + 1 }}, and get 10 days off.[^4]
 
@@ -32,9 +34,9 @@ To get educational leave, you must...
 - [ ] Take at least 1 day of educational leave.
 - [ ] Take a [recognised course](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/) in a public school, a community college (*[[Volkshochschule]]*), a public university (*Hochschule*), or a recognised private school. In Berlin, many private language schools are recognised.[^9]
 
-**[Find recognised courses ➞](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/)**
+**[Find recognised courses ➞](https://www.berlin.de/sen/arbeit/weiterbildung/bildungszeit/suche/)** or use [bildungsurlauber.de](https://www.bildungsurlauber.de/)
 
-If your course is not recognised, you must [ask for permission](https://bildungszeit.berlin.de/veranstalter/). For example, you need permission to take a language trip in another country.
+If your course is not officially recognised for a *Bildungsurlaub*, the course provider must [get recognised](https://bildungszeit.berlin.de/veranstalter/) first.
 
 **Educational leave is a right.** Your employer must allow it, but there are times exceptions. Your employer can refuse your educational leave if...
 

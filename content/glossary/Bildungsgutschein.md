@@ -7,6 +7,7 @@ Date_created: 2021-04-01
 Related_guides:
     guides/unemployment-benefits.md
     guides/losing-your-job.md
+    guides/bildungsurlaub.md
     guides/learn-german.md
     guides/start-a-business-in-germany.md
 ---
