@@ -76,13 +76,13 @@ To book an appointment...
 ### Other solutions
 
 - **Use the Business Immigration Service** (BIS)  
-    You can apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]] through BIS. Your employer or your relocation service must register for this service. It's free. - [More information](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)
+    You can apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]] through BIS. It's usually faster. Your employer or your relocation service must register for this service. It's free. - [More information](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)
 - **Buy an Ausländerbehörde appointment**  
     Some services sell *Ausländerbehörde* appointments for around 100€. They use scripts and bots to book appointments before other people. I will not help you find those services. Some of those services are scams.[^22]
 - **Apply in another city**  
     If you are a Berlin resident, you must go to the Berlin Ausländerbehörde. If you [register your address](/glossary/Anmeldung) in another city, you can apply at the Ausländerbehörde there. Immigration offices in small cities are often faster.[^4]
 - **Hire a lawyer**  
-    When you hire an [immigration lawyer](/guides/english-speaking-lawyers-berlin), things tend to go faster. A lawyer can also [sue the Ausländerbehörde](#sue-the-auslanderbehorde) when they take too long to process your case.
+    Lawyers can't get an appointment faster, but they can pressure the *Ausländerbehörde* to process a case faster. A lawyer can also [sue the Ausländerbehörde](#sue-the-auslanderbehorde) when they are too slow. - [Find a lawyer](/guides/english-speaking-lawyers-berlin)
 
 ## If your residence permit expires soon
 
