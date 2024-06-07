@@ -24,7 +24,7 @@ If you go to the *Ausländerbehörde* without an appointment, they will not help
 There are 2 ways to get an appointment:[^2]
 
 - **Send your documents and wait**{% include '_blocks/recommended.html' %}  
-    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). You can also mail your documents.[^29]
+    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). For some residence permit types, it's the only option. You can also mail your documents.[^29]
 - or **book an appointment online**  
     It's *really* hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
 
@@ -63,7 +63,7 @@ It's really hard to find an appointment. **Usually, there are no appointments av
 To book an appointment...
 
 1. Open the official [appointment booking page](/out/auslanderbehorde-appointment).
-2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, [use the contact form](#send-your-documents-and-wait). For [permanent residence](/glossary/Niederlassungserlaubnis) applications, use the contact form.
+2. Choose your nationality and the type of residence permit. If your type of residence permit is not in the list, [use the contact form](#send-your-documents-and-wait). For [permanent residence](/glossary/Niederlassungserlaubnis) applications and [[Blue Card]] renewals, use the contact form.
 4. Click *Weiter* to see appointment dates. Usually, there are no appointments. Try again until you find one. New appointments appear at random times, mostly during work hours. [This Chrome extension](https://chromewebstore.google.com/detail/berlin-appointment-helper/ngdeikpgeefjhldilcfpjnppmpaagnae) can refresh the page automatically.
 5. If there are free appointments, you can select a date and book the appointment. You will get an appointment confirmation by email. Save this email.
 

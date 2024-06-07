@@ -326,7 +326,7 @@ You can use your Blue Card to log into online government services. For example, 
 
 ### Renew your Blue Card
 
-Your Blue Card is valid for up to 4 years. You must renew it around 8 weeks before it expires.
+Your Blue Card is valid for up to 4 years. You must renew it around 8 weeks before it expires. To renew your Blue Card, you must use [the same form](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index?lang=en) you used to apply for your Blue Card, or [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait). You can't get an appointment for this.
 
 You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you can get it after 21 months.[^10]
 
