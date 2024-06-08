@@ -1,0 +1,303 @@
+{% include '_js/countries.js' %}
+{% include '_js/germanStates.js' %}
+{% include '_js/utils.js' %}
+{% include '_js/pension-refund-calculator.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/eur.js' %}
+{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
+{% js %}
+	document.querySelectorAll('collapsible.permanent-residence-check').forEach(
+		el => new Vue({
+			el: el,
+			mixins: [uniqueIdsMixin, trackedStagesMixin],
+			data() {
+				return {
+					trackAs: 'Permanent residence check',
+					stageHistory: ['start'],
+					occupation: null,
+					residencePermit: null,
+					languageLevel: null,
+					hasStudiedInGermany: null,
+					monthsInGermany: null,
+				};
+			},
+			methods: {
+				goToStage(stage){
+					console.log(stage)
+					this.stageHistory.push(stage);
+				},
+				nextStage(){
+					if(this.languageLevel === null){
+						this.goToStage('languageLevel');
+					}
+					else if(this.languageLevel >= 'A1'){
+						if(this.monthsInGermany === null){
+							this.goToStage('monthsInGermany');
+						}
+						else if(this.monthsInGermany >= 60){
+							// General
+						}
+						else if(this.monthsInGermany >= 36){
+							// Blue Card with A1 German
+							// Spouse
+							// Fachkräfte
+							// Self-employed (not freelancer)
+						}
+						else if(this.monthsInGermany >= 27){
+							// Blue Card with A1 German
+							// Fachkräfte who studied in Germany
+
+							if(this.residencePermit === null){
+								this.goToStage('residencePermit');
+							}
+							else if(this.residencePermit === 'blueCard'){
+								this.goToStage('qualified');
+							}
+							else if(this.residencePermit === 'professional' && this.languageLevel >= 'B1'){
+								// Must have studied in Germany
+								if(this.hasStudiedInGermany === null){
+									this.goToStage('hasStudiedInGermany');
+								}
+								else if(this.hasStudiedInGermany){
+									this.goToStage('qualified');
+								}
+								else{
+									this.goToStage('notQualified');
+								}
+							}
+							else {
+								this.goToStage('notQualified');	
+							}
+						}
+						else if(this.monthsInGermany >= 24){
+							// Blue Card with B1 German
+							// Fachkräfte who studied in Germany
+
+							if(this.languageLevel < 'B1'){
+								this.goToStage('notQualified');
+							}
+
+							if(this.residencePermit === null){
+								this.goToStage('residencePermit');
+							}
+							else if(this.residencePermit === 'blueCard'){
+								this.goToStage('qualified');
+							}
+							else if(this.residencePermit === 'professional'){
+								// Must have studied in Germany
+								if(this.hasStudiedInGermany === null){
+									this.goToStage('hasStudiedInGermany');
+								}
+								else if(this.hasStudiedInGermany){
+									this.goToStage('qualified');
+								}
+								else{
+									this.goToStage('notQualified');
+								}
+							}
+							else {
+								this.goToStage('notQualified');	
+							}
+						}
+						else if(this.monthsInGermany >= 21){
+							// Blue Card with B1 German
+
+							if(this.residencePermit === null){
+								this.goToStage('residencePermit');
+							}
+							else if(this.residencePermit === 'blueCard'){
+								if(this.germanLevel === null){
+									this.goToStage('germanLevelB1');
+								}
+								else if(this.germanLevel >= 'B1'){
+									this.goToStage('qualified');
+								}
+								else {
+									this.goToStage('notQualified');
+								}
+							}
+							else {
+								this.goToStage('notQualified');	
+							}
+						}
+						else{
+							this.goToStage('notQualified');
+						}
+					}
+					else{
+						this.goToStage('notQualified');
+					}
+				},
+				previousStage(){
+					this.stageHistory.pop();
+				},
+			},
+			computed: {
+				stage(){
+					return this.stageHistory[this.stageHistory.length - 1];
+				},
+				ruleset(){
+					if(this.occupation === 'employee' && this.residencePermit === 'blueCard'){
+						return 'blueCard';
+					}
+					else if(this.occupation === 'employee' && this.residencePermit === 'workVisa'){
+						return 'professional'; // § 18a, § 18b oder § 18d
+					}
+					else if(this.hasGermanRelative){
+						return 'family';
+					}
+					else if(this.occupation === 'selfEmployed'){
+						return 'selfEmployed';
+					}
+				}
+			}
+		})
+	);
+{% endjs %}
+
+<collapsible class="permanent-residence-check" ref="collapsible" aria-label="Pension refund check" {% if static|default %}static{% endif %}>
+{% raw %}
+	<template v-slot:header>Can you apply for permanent residence?</template>
+	<template v-if="stage === 'start'">
+		<p>This tool tells you if you qualify for permanent residence.</p>
+	</template>
+	<template v-if="stage === 'languageLevel'">
+		<h3>How is your German?</h3>
+		<div class="form-group no-label">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" v-model="languageLevel" value="B1" :name="uid('languageLevel')">
+					<div>
+						<strong>Intermediate (B1 or better)</strong>
+						<br>
+						You understand people when they talk in a simple language about certain topics. You can do things like open a bank account without help.
+					</div>
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="languageLevel" value="A1" :name="uid('languageLevel')">
+					<div>
+						<strong>Beginner (A1 or better)</strong>
+						<br>
+						You know very simple sentences for specific situations. You can answer simple questions about yourself, or order at the restaurant.
+					</div>
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="languageLevel" value="A0" :name="uid('languageLevel')">
+					<div>
+						<strong>No German</strong>
+						<br> You do not speak German.
+					</div>
+				</label>
+			</div>
+		</div>
+	</template>
+	<template v-if="stage === 'monthsInGermany'">
+		<h3>How long have you been in Germany?</h3>
+		<div class="form-group no-label">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" v-model="monthsInGermany" :value="60" :name="uid('monthsInGermany')">
+					<strong>5 years</strong> or longer
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="monthsInGermany" :value="36" :name="uid('monthsInGermany')">
+					<strong>3 years</strong> or longer
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="monthsInGermany" :value="27" :name="uid('monthsInGermany')">
+					<strong>27 months</strong> or longer
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="monthsInGermany" :value="24" :name="uid('monthsInGermany')">
+					<strong>24 months</strong> or longer
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="monthsInGermany" :value="21" :name="uid('monthsInGermany')">
+					<strong>21 months</strong> or longer
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="monthsInGermany" :value="20" :name="uid('monthsInGermany')">
+					Less than 21 months
+				</label>
+			</div>
+		</div>
+	</template>
+	<template v-if="stage === 'residencePermit'">
+		<h3>What residence permit do you have?</h3>
+		<div class="form-group no-label">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" v-model="residencePermit" value="blueCard" :name="uid('residencePermit')">
+					<strong>Blue Card</strong>
+				</label>
+				<label class="checkbox" v-if="monthsInGermany >= 24">
+					<input type="radio" v-model="residencePermit" value="professional" :name="uid('residencePermit')">
+					<div>
+						<strong>Work visa for skilled professionals</strong>
+						&mdash; § 18a, § 18b or § 18d
+					</div>
+				</label>
+				<label class="checkbox" v-if="monthsInGermany >= 36">
+					<input type="radio" v-model="residencePermit" value="freelanceVisa" :name="uid('residencePermit')">
+					<div>
+						<strong>Freelance visa</strong>
+						&mdash; § 21 Abs. 1 or § 21 Abs. 2a
+					</div>
+				</label>
+				<label class="checkbox" v-if="monthsInGermany >= 60">
+					<input type="radio" v-model="residencePermit" value="freelanceVisa" :name="uid('residencePermit')">
+					<div>
+						<strong>Freelance visa</strong>
+					&mdash; § 21 Abs. 5
+					</div>
+				</label>
+				<label class="checkbox" v-if="monthsInGermany >= 36">
+					<input type="radio" v-model="residencePermit" value="freelanceVisa" :name="uid('residencePermit')">
+					<strong>Family reunion visa</strong>
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="residencePermit" value="other" :name="uid('residencePermit')">
+					<strong>Something else</strong>
+				</label>
+			</div>
+		</div>
+	</template>
+	<template v-if="stage === 'hasStudiedInGermany'">
+		<h3>Have you studied in Germany?</h3>
+		<p>Did you graduate from a German university, or complete professional training in Germany?</p>
+		<div class="form-group no-label">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" v-model="hasStudiedInGermany" :value="true" :name="uid('hasStudiedInGermany')">
+					Yes
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="hasStudiedInGermany" :value="false" :name="uid('hasStudiedInGermany')">
+					No
+				</label>
+			</div>
+		</div>
+	</template>
+	<template v-if="stage === 'qualified'">
+		<h3>You qualify for permanent residence</h3>
+		<p>Cool.</p>
+	</template>
+	<template v-if="stage === 'notQualified'">
+		<h3>You do not qualify for permanent residence</h3>
+		<p>Sorry.</p>
+	</template>
+	<div class="buttons">
+		<button class="button" v-if="stageHistory.length > 1" @click="previousStage">
+			<i class="icon left" aria-hidden="true"></i> Go back
+		</button>
+		<button class="button primary" v-if="!['qualified', 'notQualified'].includes(stage)" @click="nextStage">
+			Continue <i class="icon right" aria-hidden="true"></i>
+		</button>
+	</div>
+{% endraw %}
+</collapsible>
