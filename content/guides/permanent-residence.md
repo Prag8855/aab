@@ -20,20 +20,18 @@ This guide explains how to apply for permanent residence in Berlin. The rules ca
 
 ## Why you should get permanent residence
 
-Permanent residence is better than a residence permit for a few reasons:
+Permanent residence is better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
-- **No more [[Ausländerbehörde]] visits**  
-    You don't need to renew your permanent residence every few years like a [residence permit](/glossary/Aufenthaltstitel). You don't need to deal with the *Ausländerbehörde* anymore.
+- **You don't need to deal with the [[Ausländerbehörde]]**  
+    You don't need to renew your permanent residence every few years like a [residence permit](/glossary/Aufenthaltstitel). You will never need to deal with the *Ausländerbehörde* again.
 - **You can do what you want**  
-    Permanent residence is not tied to your income or occupation. You can change jobs, start a business or study in Germany. You don't need permission from the *Ausländerbehörde*. If you [lose your job](/guides/losing-your-job), nothing happens. You don't lose your permanent residence.
+    Permanent residence is not tied to your income or occupation. You can change jobs, start a business or study without asking the *Ausländerbehörde*. If you [lose your job](/guides/losing-your-job), you don't lose your permanent residence.
 - **You can get [[Bürgergeld]]**
 
-Permanent residence is not as good as citizenship for a few reasons:
+Permanent residence is not as good as citizenship because...
 
-- **You can't vote**  
-    Permanent residents can't vote like citizens.
-- **You can get deported**  
-    As a permanent resident, you can still be deported if you commit serious crimes.
+- You can't vote
+- You can get deported for serious crimes
 
 You might also qualify for German citizenship. Citizenship might be easier to get than permanent residence.
 
@@ -45,18 +43,13 @@ To become a permanent resident, you must...
     You must live in Germany for at least 60 months, but there are exceptions.
     - **If you have a [[Blue Card]]**, you can get permanent residence in 27 months, or 21 months if you speak B1 German.
     - **If you have a German spouse**, you can get permanent residence after 3 years together.
-    - **If you have a [freelance visa](/glossary/Freelance%20visa)**, you can get permanent residence after 3 years. If you have a *§21 Abs. 5* freelance visa, you must wait 5 years.[^6]
+    - **If you have a [freelance visa](/glossary/Freelance%20visa)**, you can get permanent residence after 3 years. If you have a *[§21 Abs. 5](/images/freelance-visa-germany-type.png)* freelance visa, you must wait 5 years.[^6]
 - [ ] **Support yourself**  
     Your income must cover your cost of living.
 - [ ] **Speak German**  
     You don't need a language certificate.[^3]
 - [ ] **Have savings for retirement**  
     ...
-    - [ ] **A public pension**  
-        If you are entitled to a public pension in Germany, Australia, Bosnia-Herzegovina, Chile, India, Israel, Japan, Canada, Kosovo, Morocco, North Macedonia, Montenegro, Serbia, South Korea, Tunisia, Turkey or the United States. You are entitled to a public pension in Germany if you already made 5 years of public pension payments.
-    - [ ] or **a private retirement pension**  
-        It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.
-    - [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in business assets**
 
 If you don't qualify for permanent residence, you might still qualify for German citizenship.
 
