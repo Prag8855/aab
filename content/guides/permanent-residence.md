@@ -14,7 +14,7 @@ As a permanent resident, you can...
 - Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
-This guide explains how to apply for permanent residence in Berlin. It can be different in other German cities.
+This guide explains how to apply for permanent residence in Berlin. The rules can be different in other cities.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -22,32 +22,32 @@ This guide explains how to apply for permanent residence in Berlin. It can be di
 
 Permanent residence is better than a residence permit for a few reasons:
 
-- **No more Ausländerbehörde visits**  
-    Your permanent residence does not expire. You don't have to renew it like a [residence permit](/glossary/Aufenthaltstitel). This means that you don't need to deal with the *Ausländerbehörde* anymore.
+- **No more [[Ausländerbehörde]] visits**  
+    You don't need to renew your permanent residence every few years like a [residence permit](/glossary/Aufenthaltstitel). You don't need to deal with the *Ausländerbehörde* anymore.
 - **You can do what you want**  
-    You can change jobs, start a business or study in Germany. You don't need permission from the *Ausländerbehörde*.
-- **Residence is not tied to employment**  
-    Your right to live in Germany is not tied to your income or occupation. You don't need to prove your income. If you [lose your job](/guides/losing-your-job), you can stay in Germany.
-- You can get Bürgergeld
-- Faster than citizenship
-- **No Wehrpflicht**  
-    Citizens can be drafted in the military, but not permanent residents.
+    Permanent residence is not tied to your income or occupation. You can change jobs, start a business or study in Germany. You don't need permission from the *Ausländerbehörde*. If you [lose your job](/guides/losing-your-job), nothing happens. You don't lose your permanent residence.
+- **You can get [[Bürgergeld]]**
 
 Permanent residence is not as good as citizenship for a few reasons:
 
 - **You can't vote**  
     Permanent residents can't vote like citizens.
-- **Deportation is still possible**  
-    Permanent residence can still be deported if they commit serious crimes.
+- **You can get deported**  
+    As a permanent resident, you can still be deported if you commit serious crimes.
+
+You might also qualify for German citizenship. Citizenship might be easier to get than permanent residence.
 
 ## Permanent residence requirements
 
 To become a permanent resident, you must...
 
 - [ ] **Live in Germany for a long time**  
-    21 to ??? months, depending on your history.
+    You must live in Germany for at least 60 months, but there are exceptions.
+    - **If you have a [[Blue Card]]**, you can get permanent residence in 27 months, or 21 months if you speak B1 German.
+    - **If you have a German spouse**, you can get permanent residence after 3 years together.
+    - **If you have a [freelance visa](/glossary/Freelance%20visa)**, you can get permanent residence after 3 years. If you have a *§21 Abs. 5* freelance visa, you must wait 5 years.[^6]
 - [ ] **Support yourself**  
-    ...
+    Your income must cover your cost of living.
 - [ ] **Speak German**  
     You don't need a language certificate.[^3]
 - [ ] **Have savings for retirement**  
@@ -58,11 +58,7 @@ To become a permanent resident, you must...
         It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.
     - [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in business assets**
 
-If you are self-employed, ...
-
-## Permanent residence alternatives
-
-If you qualify for permanent residence, you might also qualify for German citizenship.
+If you don't qualify for permanent residence, you might still qualify for German citizenship.
 
 ## How to apply in Berlin
 
@@ -270,3 +266,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^3]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
+[^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
