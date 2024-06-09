@@ -10,7 +10,7 @@ In Germany, there are two types of self-employed people:
 - **Freelancers** (*Freiberufler*)  
     Professionals with special qualifications who sell their services. Their occupation is called a *freier Beruf*.
 - **Tradespeople** (*Gewerbetreibende*)  
-    All other self-employed people. Their business is called a *Gewerbe*.
+    All other self-employed people. Their business is called a *[[Gewerbe]]*.
 
 This guide explains the differences between freelancers and tradespeople. You must understand this to [start a business](/guides/start-a-business-in-germany) or [apply for a freelance visa](/guides/freelance-visa).
 
@@ -56,7 +56,9 @@ Your *Freiberufler* or *Gewerbetreibender* status also affects...
 
 - **Your [residence permit](/glossary/Aufenthaltstitel)**  
     When you apply for a [freelance visa](/glossary/Freelance%20visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the required documents for *Freiberufler* and *Gewerbetreibende* are different.[^1]
-- **The help you get**  
+- **Applying for permanent residence**  
+    *Gewerbetreibende* can apply for permanent residence after 3 years. *Freiberufler* must wait 5 years.[^2]
+- **Getting help**  
     The [[IHK]] helps *Gewerbetreibende* who pay the mandatory membership fee. They do not help *Freiberufler*.
 
 It does not affect...
@@ -112,6 +114,7 @@ Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
 [^1]: [§21 Abs. 1, 2a or 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^2]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
 [^3]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726#:~:text=zu%20den%20%22dienstleistungen%20hoherer%20art%22)
 [^12]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/buchfuehrung/bilanzierung/)
 [^14]: [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)
