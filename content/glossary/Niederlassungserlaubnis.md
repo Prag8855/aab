@@ -2,16 +2,17 @@
 Title: What is permanent residence (Niederlassungserlaubnis)?
 German_term: Niederlassungserlaubnis
 English_term: Permanent residence
-Description: Better than a residence permit, not as good as German citizenship. It lets you live, work, study or start a business in Germany.
+Description: Permanent residence (PR) is than a residence permit, but not as good as German citizenship. It lets you live, work, study or start a business in Germany.
 Date_created: 2020-02-07
 Related_guides:
+    guides/permanent-residence.md
     guides/residence-permit.md
     guides/find-a-job-in-berlin.md
     guides/freelance-visa.md
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-German permanent residence (*Niederlassungserlaubnis*) lets you live, work and study in Germany. You can get permanent residence after 21 to 60 months in Germany.
+German permanent residence (*PR* or *Niederlassungserlaubnis*) lets you live, work and study in Germany. You can get permanent residence after 21 to 60 months in Germany.
 
 It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
