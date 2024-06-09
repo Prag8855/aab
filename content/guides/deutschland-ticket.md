@@ -12,8 +12,8 @@ Summary:
 - It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month
 - It lets you use local public transit everywhere in Germany
 - It's only available as a monthly subscription, payable by bank transfer
-- Tourists must buy it from a different place
-- In Berlin, you can get it from the [BVG](/out/deutschland-ticket-bvg), the [Deutsche Bahn](/out/deutschland-ticket-s-bahn) or [Free Now](https://support.free-now.com/hc/de/articles/11060332622098-Wie-kann-ich-das-Deutschland-Ticket-abonnieren)
+- Tourists should buy it from [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket) or Hamburg's [hvv Switch app]
+- In Berlin, you can get it from the [BVG](/out/deutschland-ticket-bvg) or the [Deutsche Bahn](/out/deutschland-ticket-s-bahn)
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -39,23 +39,21 @@ You can't...
 
 In Berlin, you can buy a Deutschland Ticket...
 
-- On the [BVG website](/out/deutschland-ticket-bvg)
-- On the [S-Bahn Berlin website](/out/deutschland-ticket-s-bahn)
+- **From Hamburg's [hvv Switch](https://www.hvv-switch.de/en/) app**{% include '_blocks/recommended.html' %}  
+    You can pay with credit cards and PayPal. The ticket is valid immediately, not at the start of the next month. It's easier to cancel. Your ticket will work in Berlin.[^1]
+- **On [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**{% include '_blocks/recommended.html' %}  
+    It works like the hvv Switch app. The ticket is valid immediately and it's easy to cancel.
+- **On the [BVG website](/out/deutschland-ticket-bvg)**  
+    You can only pay by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat), so you need a European bank account. You must buy the ticket before the 20th day of the month. It's only valid on the first day of the next month. You can get the ticket as a plastic card, or as a digital ticket in the app. It can take 2 days for the ticket to appear in the app. It's a little hard to cancel the ticket.
+- **On the [S-Bahn Berlin website](/out/deutschland-ticket-s-bahn)**  
+    It works like the BVG website. You see your ticket in the Deutsche Bahn app.[^2]
 - At a [BVG](https://www.bvg.de/en/service-and-support/customer-centers-and-shops) or [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) service centre
 
 You can't buy this ticket from a ticket machine or from the BVG app.
 
-You can only get the Deutschland Ticket as a subscription. This means that you pay automatically every month until you cancel your subscription.
-
-You can buy the ticket at any time at the service centre. If you buy it online, you must buy it in advance, unless you buy it at the service. You have until the 20th day of the month to buy your ticket for the next month. For example, you have until May 20 to buy your ticket for June.
-
-When you buy the ticket, you sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat), and pay by automatic [bank transfer](/glossary/SEPA-%C3%9Cberweisung) every month. You need a European [bank account](/guides/best-bank-germany) for this. It can take 2 days for the tickets to appear in the BVG app.
-
-The rules can be different in other German states.
-
 ### For tourists
 
-Tourists can buy a Deutschland Ticket from [mo.pla](https://www.mopla.solutions/de/tickets/deutschlandticket). You can pay with a regular credit card. They also make it easier to cancel the ticket after your trip. Check the app reviews before you try.
+Tourists can buy a Deutschland Ticket from the [hvv Switch](https://www.hvv-switch.de/en/) app or [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket). You can pay with a regular credit card. They also make it easier to cancel the ticket after your trip. Check the app reviews before you try.
 
 **[Buy a Deutschland Ticket from Mopla ➞](https://www.mopla.solutions/de/tickets/deutschlandticket)**
 
@@ -74,3 +72,5 @@ You can cancel your ticket...
 If you cancel online, you must do it in advance. If you do it at the service centre, you can cancel at any time.
 
 [^0]: [bvg.de](https://www.bvg.de/en/deutschland-ticket), [sbahn.berlin](https://sbahn.berlin/aktuelles/artikel/deutschlandticket-lohnt-ein-wechsel/), [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/deutschland-ticket/?acc=a26619-t4), [rbb24.de](https://www.rbb24.de/politik/beitrag/2023/03/49-euro-ticket-deutschlandticket-nahverkehr.html)
+[^1]: [Twitter](https://x.com/StevenBirrell/status/1797703674116128799) (June 2024), [Twitter](https://x.com/ChaWiBiker/status/1776333529405640920) (April 2024)
+[^2]: [Twitter](https://x.com/aboutberlin/status/1799707011086754180) (June 2024)
