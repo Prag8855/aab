@@ -7,7 +7,7 @@ Date_created: 2020-08-27
 
 This guide shows you how to **renew** a [German freelance visa](/glossary/Freelance%20visa) before it expires. To apply for a new German freelance visa, read [this guide](/guides/freelance-visa).
 
-This guide was written for freelancers in Berlin. If you live in another city, the process can be a little different.
+This guide was written for self-employed people in Berlin. If you live in another city, the process can be a little different.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -42,6 +42,10 @@ When you renew your freelance visa, they verify that...
 If you don't meet those requirements, you can't renew your freelance visa.
 
 These are the same requirements as when you apply for a freelance visa for the first time.[^15]
+
+**You might qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** If you lived in Germany for at least 5 years, you can get permanent residence. If you have a *§21 Abs. 1* or *§21 Abs. 2a* freelance visa, you can get permanent residence after 3 years.[^18] Permanent residence is better than a freelance visa.
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
 ### 2. Know if you are freelance or self-employed
 
@@ -219,6 +223,14 @@ If some documents are missing, you will get a new appointment. You must go home,
 
 If your documents were not convincing enough, you could get a shorter visa, usually 1 year.
 
+## What to do next
+
+### Apply for permanent residence
+
+If you have a freelance visa, you qualify for [permanent residence](/glossary/Niederlassungserlaubnis) after 5 years. If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your freelance visa](/images/freelance-visa-germany-type.png), you qualify after 3 years.[^18]
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
 ## Need help?
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
@@ -241,3 +253,4 @@ If your documents were not convincing enough, you could get a shorter visa, usua
 [^15]: [§8 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__8.html)
 [^16]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^17]: Health insurance broker Daniel Derosa
+[^18]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)

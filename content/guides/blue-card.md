@@ -362,6 +362,12 @@ To become self-employed full-time, you must [apply for a freelance visa](/guides
 
 Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. At the end of your first year, make a [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
+### Apply for permanent residence
+
+If you have a Blue Card, you qualify for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you qualify after 21 months. Permanent residence is better than a Blue Card, because it's not tied to your job.
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
 ## Need help?
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
