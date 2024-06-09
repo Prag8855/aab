@@ -39,15 +39,20 @@ You might also qualify for German citizenship. Citizenship might be easier to ge
 
 To become a permanent resident, you must...
 
-- [ ] **Live in Germany for a long time**  
-    You must live in Germany for at least 60 months, but there are exceptions.
-    - **If you have a [[Blue Card]]**, you can get permanent residence in 27 months, or 21 months if you speak B1 German.
-    - **If you have a German spouse**, you can get permanent residence after 3 years together.
-    - **If you have a [freelance visa](/glossary/Freelance%20visa)**, you can get permanent residence after 3 years. If you have a *[§21 Abs. 5](/images/freelance-visa-germany-type.png)* freelance visa, you must wait 5 years.[^6]
+- [ ] **Live in Germany for a few years**  
+    You must live in Germany for at least 60 months, but there are exceptions. It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
+    - **[[Blue Card]]**  
+        You can get permanent residence in 27 months, or 21 months if you speak B1 German.
+    - **[Work visa](/glossary/Work%20Visa)** - §18a, §18b or §18d  
+        You can get permanent residence after 3 years. If you graduated from a German university, you can get it after 2 years.
+    - **[[Freelance visa]]** - §21 Abs. 1 or §21 Abs. 2a  
+        You can get permanent residence after 3 years. If you have a *§21 Abs. 5* freelance visa, you must wait 5 years.[^6]
+    - **Spouse of a German citizen**  
+        You can get permanent residence after 3 years together in Germany.
 - [ ] **Support yourself**  
-    Your income must cover your cost of living.
+    Your income must cover your cost of living. If you are currently unemployed, find a job before you apply for permanent residence.
 - [ ] **Speak German**  
-    You don't need a language certificate.[^3]
+    You must speak B1 German. If you have a [[Blue Card]], you can get permanent residence with A1 German after 27 months.
 - [ ] **Have savings for retirement**  
     ...
 
@@ -73,9 +78,9 @@ You can't get an Ausländerbehörde appointment for permanent. You must [use the
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment. This can take many months.
 
-Sometimes, it takes so long that they will ask for updated documents.
+Sometimes, it takes so long that you must send an updated version of the same documents.
 
 In Berlin, it usually takes 5 to 10 months.[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
 
@@ -159,7 +164,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
 - [ ] **Language certificate** (optional)  
-    You must prove that you speak German. If you don't have a language certificate, they will ask you questions in German during your *[[Ausländerbehörde]]* appointment, to see if you speak German.
+    You must prove that you speak German. If you don't have a language certificate, they will ask you questions in German during your *[[Ausländerbehörde]]* appointment, to see if you speak German.[^3]
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
