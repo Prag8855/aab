@@ -12,7 +12,7 @@ Summary:
 - It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month
 - It lets you use local public transit everywhere in Germany
 - It's only available as a monthly subscription, payable by bank transfer
-- Tourists should buy it from [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket) or Hamburg's [hvv Switch app]
+- Tourists should buy it from [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket) or Hamburg's [hvv Switch app](https://www.hvv-switch.de/en/)
 - In Berlin, you can get it from the [BVG](/out/deutschland-ticket-bvg) or the [Deutsche Bahn](/out/deutschland-ticket-s-bahn)
 
 {% include "_blocks/tableOfContents.html" %}
