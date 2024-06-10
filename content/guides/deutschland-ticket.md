@@ -1,7 +1,7 @@
 ---
-Title: How to buy a Deutschland Ticket in Berlin
+Title: How to buy a Deutschland Ticket
 Short_title: How to buy a Deutschland Ticket
-Description: This guide explains how the 49-Euro-Ticket, D-Ticket or Deutschland Ticket works in Berlin.
+Description: This guide explains how the 49-Euro-Ticket, D-Ticket or Deutschland Ticket works as a tourist or as a resident.
 Date_created: 2023-04-13
 ---
 
