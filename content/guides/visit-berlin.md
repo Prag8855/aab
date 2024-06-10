@@ -270,10 +270,11 @@ If you don't have mobile data, you can find free Wi-Fi everywhere:
 
 - All **U-Bahn stations** have free Wi-Fi. Look for the "BVG Free WiFi" network.
 - Some **S-Bahn stations** also have free Wi-Fi. Look for the "WIFI@DB" network.
+- All **trams** have free Wi-Fi. Look for the "BVG Free WiFi" network.
 - **REWE and Lidl supermarkets** have free Wi-Fi.[^10] Some Edeka supermarkets also have free Wi-Fi.
 - **Hotels and hostels** have free Wi-Fi for their guests.
 
-[Map of public Wi-Fi hotspots](https://www.publicwifi.de/) - publicwifi.eu
+**[Map of public Wi-Fi hotspots ➞](https://www.publicwifi.de/)**
 
 ### Prepaid SIM cards for tourists
 
