@@ -12,4 +12,4 @@ Related_guides:
 
 The Deutschland Ticket is a public transit pass that is valid in all of Germany. It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month. It's also called the {{DEUTSCHLAND_TICKET_PRICE|cur}}-Euro-Ticket or D-Ticket.
 
-**[How the Deutschland Ticket works ➞](/guides/deutschland-ticket)**
+**[How to buy a Deutschland Ticket ➞](/guides/deutschland-ticket)**

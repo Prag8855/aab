@@ -71,8 +71,8 @@ Rent is the biggest expense for most people. There are ways to pay less rent:
 
 ## Transportation
 
-- **[Get the Deutschland Ticket](/guides/deutschland-ticket)**  
-    It's the cheapest monthly ticket, and it lets you use public transit everywhere in Germany. This is the best option for most people.
+- **[Get the Deutschland Ticket](/guides/deutschland-ticket)**{% include '_blocks/recommended.html' %}  
+    It's the cheapest monthly ticket, and it lets you use public transit everywhere in Germany.
 - **Get a yearly ticket**  
     If you can't get the Deutschland Ticket, get a yearly subscription. Most tickets are cheaper if you pay yearly.
 - **Get a student ticket**  
