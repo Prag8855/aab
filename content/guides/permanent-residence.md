@@ -5,7 +5,7 @@ Description: The process and the requirements to get a Niederlassungserlaubnis a
 Date_created: 2024-07-01
 ---
 
-If you live in Germany for a few years, you can become a permanent resident. Permanent residence is better than a [residence permit](/glossary/Aufenthaltstitel), but not as good as German citizenship.
+If you live in Germany for a few years, you can become a permanent resident.
 
 As a permanent resident, you can...
 
@@ -20,22 +20,25 @@ This guide explains how to apply for permanent residence in Berlin. The rules ca
 
 ## Why you should get permanent residence
 
-Permanent residence is better than a [residence permit](/glossary/Aufenthaltstitel) because...
+Permanent residence means **more stability**. It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
-- **You don't need to deal with the [[Ausländerbehörde]]**  
-    You don't need to renew your permanent residence every few years like a [residence permit](/glossary/Aufenthaltstitel). You will never need to deal with the *Ausländerbehörde* again.
 - **You can do what you want**  
-    Permanent residence is not tied to your income or occupation. You can change jobs, start a business or study without asking the *Ausländerbehörde*. If you [lose your job](/guides/losing-your-job), you don't lose your permanent residence.
-- **You can get [[Bürgergeld]]**
+    It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study. You don't need permission from the *Ausländerbehörde*.
+- **You are done with the [[Ausländerbehörde]]**  
+    You don't need to renew it every 1-3 years. You don't need permission from the *Ausländerbehörde* to change jobs or do something else.
 
-Permanent residence is not as good as citizenship because...
+There are other smaller benefits:
 
-- You can't vote
-- You can get deported for serious crimes
-
-You might also qualify for German citizenship. Citizenship might be easier to get than permanent residence.
+- **It's easier to [find an apartment](/guides/find-a-flat-in-berlin)**  
+    Landlords prefer stable tenants who will live there for a long time. Permanent residence shows that you won't leave Germany soon.[^9]
+- **It's easier to get a mortgage**  
+    You usually need to be a citizen or a permanent resident to get a mortgage. You get a lower interest rate than with a residence permit.
+- **You can get [[BAFöG]]**  
+    Permanent residents can get financial aid to study in Germany.[^8]
 
 ## Permanent residence requirements
+
+{% include "_blocks/permanentResidenceCheck.html" %}
 
 To become a permanent resident, you must...
 
@@ -50,13 +53,13 @@ To become a permanent resident, you must...
     - **Spouse of a German citizen**  
         You can get permanent residence after 3 years together in Germany.
 - [ ] **Support yourself**  
-    Your income must cover your cost of living. If you are currently unemployed, find a job before you apply for permanent residence.
+    Your income must cover your cost of living. *[[Bürgergeld]]* does not count as a source of income.[^7] If you are currently unemployed, find a job before you apply for permanent residence.
 - [ ] **Speak German**  
     You must speak B1 German. If you have a [[Blue Card]], you can get permanent residence with A1 German after 27 months.
 - [ ] **Have savings for retirement**  
     ...
 
-If you don't qualify for permanent residence, you might still qualify for German citizenship.
+**You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked.
 
 ## How to apply in Berlin
 
@@ -72,7 +75,7 @@ If you are self-employed, you need more documents. Some documents must be prepar
 
 ### 2. Apply for permanent residence
 
-You can't get an Ausländerbehörde appointment for permanent. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment.
+You can't get an Ausländerbehörde appointment for permanent. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you.
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
@@ -265,3 +268,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
+[^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
+[^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024)
+[^9]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
