@@ -44,20 +44,15 @@ There are **many ways to qualify** for permanent residence. For example, you get
 
 To become a permanent resident, you must...
 
-- [ ] **Live in Germany for a few years**  
+- [ ] **Live in Germany for some time**  
     It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
-    - **[[Blue Card]]**  
-        You can get permanent residence in 27 months if you speak A1 German, or 21 months if you speak B1 German.[^10]
-    - **[Work visa](/glossary/Work%20Visa)** (for skilled professionals and researchers)  
-        You can get permanent residence after 3 years. If you graduated from a German university, you can get it after 2 years.[^11]
-    - **[[Freelance visa]]**  
-        You can get permanent residence after 3 years. If you have a *§21 Abs. 5* freelance visa, you must wait 5 years.[^6]
-    - **Spouse of a German citizen**  
-        You can get permanent residence after living 3 years together in Germany.[^12]
-    - **Everyone else**  
-        You can get permanent residence after 5 years.[^13]
+    - **[[Blue Card]]:** 27 months, or 21 months if you speak B1 German.[^10]
+    - **[Work visa](/glossary/Work%20Visa):** 3 years, or 2 years if you graduated from a German university.[^11]
+    - **[[Freelance visa]]**: 3 years, or 5 years if you have a *§21 Abs. 5* freelance visa.[^6]
+    - **[[Family reunion visa]]**: 3 years living with a spouse, parent or child who is a German citizen.[^12]
+    - **Everyone else:** 5 years.[^13]
 - [ ] **Speak German**  
-    You must speak at least B1 German.[^14] If you have a [[Blue Card]] since at least 27 months, you only need A1 German.[^10]
+    You must speak at least B1 German.[^14] If you have a [[Blue Card]] since 27 months, you only need A1 German.[^10]
 - [ ] **Support yourself**  
     Your income must cover your cost of living. If you are currently unemployed, find a job before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
     - If you are a spouse, child or parent of a EU citizen, their income can support you. You don't need an independent income.[^16]
