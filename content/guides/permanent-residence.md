@@ -23,9 +23,9 @@ This guide explains how to apply for permanent residence (PR) in Berlin. The rul
 Permanent residence means **more stability**. It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
 - **You can do what you want**  
-    It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study. You don't need permission from the *Ausländerbehörde*.
+    It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
 - **You are done with the [[Ausländerbehörde]]**  
-    You don't need to renew it every 1 to 3 years. You don't need permission from the *Ausländerbehörde* to change jobs or do something else.
+    You don't need their permission to change jobs or do something else. You don't need to renew your permanent residence every 1-3 years.
 
 There are other smaller benefits:
 
