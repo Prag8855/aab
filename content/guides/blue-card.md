@@ -296,7 +296,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).  If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent.[^47] It can be a temporary lease or a sublet.
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent.[^47] It can be a temporary lease, a [[WG]] or a sublet.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  

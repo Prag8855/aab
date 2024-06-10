@@ -299,9 +299,9 @@ There are two types of self-employed people. They get a different kind of freela
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a sublet or a student residence.[^41]
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.[^41]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
-        Some temporary apartments and sublets don't give you this document. You might not get a work visa without it.[^1] Bring it even if you registered your address.[^43]
+        Some temporary apartments and sublets don't give you this document. You might not get a freelance visa without it.[^1] Bring it even if you registered your address.[^43]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
         You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
     - [ ] and **proof of rent payments**  
@@ -366,7 +366,7 @@ If you can, you should also bring...
 - [ ] **Passport photo** (35 × 45 mm)  
     Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 ### Optional documents
 
