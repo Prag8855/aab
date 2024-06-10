@@ -14,7 +14,7 @@ As a permanent resident, you can...
 - Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
-This guide explains how to apply for permanent residence in Berlin. The rules can be different in other cities.
+This guide explains how to apply for permanent residence (PR) in Berlin. The rules can be different in other cities.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -67,7 +67,7 @@ To become a permanent resident, you must...
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
-### 1. Prepare your permanent residence application
+### 1. Prepare your [PR](/glossary/Niederlassungserlaubnis) application
 
 Before you apply for permanent residence, you must **prepare the [required documents](#required-documents)**. If you are an employee, it's easy.
 
@@ -75,7 +75,7 @@ If you are self-employed, you need more documents. Some documents must be prepar
 
 **[Find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
 
-### 2. Apply for permanent residence
+### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
 You can't get an Ausländerbehörde appointment for permanent. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you.
 
@@ -95,7 +95,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while yo
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
-### 4. Go to your permanent residence appointment
+### 4. Go to your [PR](/glossary/Niederlassungserlaubnis) appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
 
@@ -163,7 +163,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] **Lease**  
         It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a sublet or a student residence.[^41]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
-        Some temporary apartments and sublets don't give you this document. You might not get a work visa without it.[^1] Bring it even if you registered your address.[^43]
+        Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it.[^1] Bring it even if you registered your address.[^43]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
         You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
     - [ ] and **proof of rent payments**  
