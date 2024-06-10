@@ -2246,7 +2246,8 @@ details{
 	border-radius: var(--b-radius);
 	padding: 2px var(--xs);
 	font-size: var(--f-s);
-	color: var(--c-text-light);
+	font-weight: 400;
+	color: var(--c-text-light)!important;
 	white-space: nowrap;
 	cursor: help;
 
@@ -2256,6 +2257,7 @@ details{
 
 	&:hover{
 		text-decoration: none;
+		color:var(--c-text)!important;
 	}
 }
 
