@@ -25,12 +25,12 @@ Permanent residence means **more stability**. It's better than a [residence perm
 - **You can do what you want**  
     It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study. You don't need permission from the *Ausländerbehörde*.
 - **You are done with the [[Ausländerbehörde]]**  
-    You don't need to renew it every 1-3 years. You don't need permission from the *Ausländerbehörde* to change jobs or do something else.
+    You don't need to renew it every 1 to 3 years. You don't need permission from the *Ausländerbehörde* to change jobs or do something else.
 
 There are other smaller benefits:
 
 - **It's easier to [find an apartment](/guides/find-a-flat-in-berlin)**  
-    Landlords prefer stable tenants who will live there for a long time. Permanent residence shows that you won't leave Germany soon.[^9]
+    Landlords prefer stable tenants. Permanent residence shows you will probably live there for a long time.[^9]
 - **It's easier to get a mortgage**  
     You usually need to be a citizen or a permanent resident to get a mortgage. You get a lower interest rate than with a residence permit.
 - **You can get [[BAFöG]]**  
@@ -40,24 +40,27 @@ There are other smaller benefits:
 
 {% include "_blocks/permanentResidenceCheck.html" %}
 
+There are **many ways to qualify** for permanent residence. For example, you get it faster if you have a Blue Card or if you marry a German citizen.
+
 To become a permanent resident, you must...
 
 - [ ] **Live in Germany for a few years**  
-    You must live in Germany for at least 60 months, but there are exceptions. It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
+    It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
     - **[[Blue Card]]**  
         You can get permanent residence in 27 months if you speak A1 German, or 21 months if you speak B1 German.[^10]
-    - **[Work visa](/glossary/Work%20Visa)** - §18a, §18b, §18d or §18g  
+    - **[Work visa](/glossary/Work%20Visa)** (for skilled professionals and researchers)  
         You can get permanent residence after 3 years. If you graduated from a German university, you can get it after 2 years.[^11]
-    - **[[Freelance visa]]** - §21 Abs. 1 or §21 Abs. 2a  
+    - **[[Freelance visa]]**  
         You can get permanent residence after 3 years. If you have a *§21 Abs. 5* freelance visa, you must wait 5 years.[^6]
     - **Spouse of a German citizen**  
         You can get permanent residence after living 3 years together in Germany.[^12]
+    - **Everyone else**  
+        You can get permanent residence after 5 years.[^13]
 - [ ] **Speak German**  
-    You must speak at least B1 German. If you have a Blue Card, you only need A1 German.[^10]
+    You must speak at least B1 German.[^14] If you have a [[Blue Card]] since at least 27 months, you only need A1 German.[^10]
 - [ ] **Support yourself**  
     Your income must cover your cost of living. If you are currently unemployed, find a job before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
-- [ ] **Speak German**  
-    You must speak B1 German. If you have a [[Blue Card]], you can get permanent residence with A1 German after 27 months.
+    - If you are a spouse, child or parent of a EU citizen, their income can support you. You don't need an independent income.[^16]
 - [ ] **Have savings for retirement**  
     ...
 
@@ -77,9 +80,7 @@ If you are self-employed, you need more documents. Some documents must be prepar
 
 ### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
-You can't get an Ausländerbehörde appointment for permanent. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you.
-
-**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you.
 
 ### 3. Wait
 
@@ -150,9 +151,9 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go in person, bring your passport. You get it back during the appointment; they do not keep it.[^75]
+    If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go in person, bring your passport. You get it back during the appointment; they do not keep it.
 - [ ] **Proof of health insurance**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted.
     - [ ] **Health insurance card**
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
@@ -161,7 +162,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a sublet or a student residence.[^41]
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.[^41]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it.[^1] Bring it even if you registered your address.[^43]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
@@ -180,7 +181,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 ### For people with a Blue Card
 
-**[Full requirements for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/)**
+**[Full requirements for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
 
 ### For people with a freelance visa
 
@@ -196,11 +197,15 @@ If you can, you should also bring...
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
     You probably don't need a *Handelsregister* entry.[^77] If you need one, you can probably get it after you get your freelance visa. - [Who needs a *Handelsregister* entry?](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)
 
-**[Full requirements for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/)**
+**[Full requirements for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/en/)**
 
 ### For spouses of German citizens
 
-**[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/327012/)**
+**[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
+
+### For spouses of EU/EEA citizens
+
+**[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/324283/en/)**
 
 ### Required documents if you apply in person
 
@@ -280,3 +285,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
+[^13]: [§9 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
+[^15]: [§4a Abs. 1 FreizügG/EU](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4a.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/) (June 2024)
+[^16]: Citation needed
