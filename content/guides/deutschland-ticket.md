@@ -34,13 +34,13 @@ The Deutschland Ticket always **starts on the first day of the month**.[^3] This
 | **Ticket in Apple Wallet** | ✓ | ✓ | ✓ | ✗ |
 | **Ticket in Google Wallet** | ✓ | ✓ | ✗ | ✗ |
 
-**I recommend [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts more payment options, and it's the easiest to cancel. Their app is only on the German app store, but you can use their web app and download your ticket as a PDF.
+**I recommend [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts more payment options, and it's the easiest to cancel. They also support Apple Wallet and Google Wallet.
 
 ### For tourists
 
-Tourists should **get a ticket from [deutschland-ticket.store](https://deutschland-ticket.store/)**. It's the easiest option because it cancels automatically.[^5] Your ticket is a printable QR code. It takes a few days to process, so buy it in advance.[^1]
+Tourists should **get a Deutschland Ticket from [deutschland-ticket.store](https://deutschland-ticket.store/)**. It's the easiest option because it cancels automatically.[^5] Your ticket is a printable QR code. It takes a few days to process, so buy it in advance.[^1]
 
-**The other option is [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it's also easy to cancel. Their app is only on the German app store, but you can use their web app instead. You can get a digital ticket in the app, or a printable ticket.
+**The other option is [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts credit cards and it's easy to cancel. Their app is only on the German app store, but you can use their web app instead. You can get a digital ticket in the app, or a printable ticket.
 
 Other options require a European bank account, and are harder to cancel.
 
