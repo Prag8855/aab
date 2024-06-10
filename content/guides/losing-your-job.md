@@ -205,7 +205,7 @@ If your spouse is employed, you can switch roles: your spouse gets a [work visa]
 
 If you are a **EU citizen** or a **German [permanent resident](/glossary/Niederlassungserlaubnis)**, nothing happens. You have the right to stay in Germany, even if you are unemployed.
 
-If you *currently* get *[[ALG I]]*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34] Your application could be delayed until you find a job. If you have a good chance of finding another job, your application might be approved anyway.[^28]
+If you *currently* get *[[ALG I]]*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34] Your application might be delayed until you find a job. If you have a good chance of finding another job, your application might be approved anyway.[^28]
 
 If you got *ALG I* in the past, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
 

@@ -45,21 +45,23 @@ To become a permanent resident, you must...
 - [ ] **Live in Germany for a few years**  
     You must live in Germany for at least 60 months, but there are exceptions. It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
     - **[[Blue Card]]**  
-        You can get permanent residence in 27 months, or 21 months if you speak B1 German.
-    - **[Work visa](/glossary/Work%20Visa)** - §18a, §18b or §18d  
-        You can get permanent residence after 3 years. If you graduated from a German university, you can get it after 2 years.
+        You can get permanent residence in 27 months if you speak A1 German, or 21 months if you speak B1 German.[^10]
+    - **[Work visa](/glossary/Work%20Visa)** - §18a, §18b, §18d or §18g  
+        You can get permanent residence after 3 years. If you graduated from a German university, you can get it after 2 years.[^11]
     - **[[Freelance visa]]** - §21 Abs. 1 or §21 Abs. 2a  
         You can get permanent residence after 3 years. If you have a *§21 Abs. 5* freelance visa, you must wait 5 years.[^6]
     - **Spouse of a German citizen**  
-        You can get permanent residence after 3 years together in Germany.
+        You can get permanent residence after living 3 years together in Germany.[^12]
+- [ ] **Speak German**  
+    You must speak at least B1 German. If you have a Blue Card, you only need A1 German.[^10]
 - [ ] **Support yourself**  
-    Your income must cover your cost of living. *[[Bürgergeld]]* does not count as a source of income.[^7] If you are currently unemployed, find a job before you apply for permanent residence.
+    Your income must cover your cost of living. If you are currently unemployed, find a job before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
 - [ ] **Speak German**  
     You must speak B1 German. If you have a [[Blue Card]], you can get permanent residence with A1 German after 27 months.
 - [ ] **Have savings for retirement**  
     ...
 
-**You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked.
+**You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked, and it doesn't expire if you leave Germany for a long time.
 
 ## How to apply in Berlin
 
@@ -176,13 +178,11 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 - [ ] **Proof of retirement pension**  
     Prove that you will get a public or private pension when you are 67 years old.
 
-### Required documents for employees
+### For people with a Blue Card
 
-...
+**[Full requirements for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/)**
 
-### Required documents for self-employed people
-
-- [ ] ...
+### For people with a freelance visa
 
 If you need a permit to do your job (lawyers, doctors, engineers), you must also bring...
 
@@ -195,6 +195,12 @@ If you can, you should also bring...
     [Register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible, because it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.[^70] You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
     You probably don't need a *Handelsregister* entry.[^77] If you need one, you can probably get it after you get your freelance visa. - [Who needs a *Handelsregister* entry?](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)
+
+**[Full requirements for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/)**
+
+### For spouses of German citizens
+
+**[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/327012/)**
 
 ### Required documents if you apply in person
 
@@ -271,3 +277,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024)
 [^9]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
+[^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024)
+[^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
+[^12]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)

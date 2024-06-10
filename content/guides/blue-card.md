@@ -364,7 +364,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 ### Apply for permanent residence
 
-If you have a Blue Card, you qualify for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you qualify after 21 months. Permanent residence is better than a Blue Card, because it's not tied to your job.
+If you have a Blue Card, you qualify for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you qualify after 21 months.[^48] Permanent residence is better than a Blue Card, because it's not tied to your job.
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
@@ -423,4 +423,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^46]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^47]: [Fiona Macdonald](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
+[^48]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/) (June 2024), [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
