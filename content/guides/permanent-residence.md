@@ -40,26 +40,56 @@ There are other smaller benefits:
 
 {% include "_blocks/permanentResidenceCheck.html" %}
 
-There are **many ways to qualify** for permanent residence. For example, you get it faster if you have a Blue Card or if you marry a German citizen.
+There are **many ways to qualify** for permanent residence. For example, you get it faster if you have a [[Blue Card]] or if you marry a German citizen.
 
 To become a permanent resident, you must...
 
 - [ ] **Live in Germany for some time**  
     It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
-    - **[[Blue Card]]:** 27 months, or 21 months if you speak B1 German.[^10]
-    - **[Work visa](/glossary/Work%20Visa):** 3 years, or 2 years if you graduated from a German university.[^11]
-    - **[[Freelance visa]]**: 3 years, or 5 years if you have a *§21 Abs. 5* freelance visa.[^6]
-    - **[[Family reunion visa]]**: 3 years living with a spouse, parent or child who is a German citizen.[^12]
-    - **Everyone else:** 5 years.[^13]
+    - **[[Blue Card]]**  
+        27 months after you get your Blue Card, or 21 months if you also speak B1 German.[^10]
+    - **[Work visa](/glossary/Work%20Visa)**  
+        3 years of employment, or 2 years if you also graduated from a German university.[^11]
+    - **[[Freelance visa]]**  
+        3 years of self-employment, or 5 years if you have a *§21 Abs. 5* freelance visa.[^6]
+    - **[[Student visa]]**  
+        You can't apply for permanent residence.[^21]
+    - **[[Family reunion visa]]**  
+        3 years living with your spouse, parent or child. They must be a German citizen.[^12] 5 years if they are not a German citizen. 3 years if they're not a German citizen but they have a work visa, and you work at least 20 hours a week.[^20]
+    - **Everyone else**  
+        5 years in Germany.[^13]
 - [ ] **Speak German**  
     You must speak at least B1 German.[^14] If you have a [[Blue Card]] since 27 months, you only need A1 German.[^10]
 - [ ] **Support yourself**  
-    Your income must cover your cost of living. If you are currently unemployed, find a job before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
-    - If you are a spouse, child or parent of a EU citizen, their income can support you. You don't need an independent income.[^16]
-- [ ] **Have savings for retirement**  
-    ...
+    Your income must cover your cost of living. If you are currently unemployed, you *might* get a PR anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
+    - If you are a spouse, child or parent of a EU citizen, their income can support you. You don't need your own income.[^16]
+- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+- [ ] **[Have a retirement pension ➞](#pension-requirements)**
 
 **You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked, and it doesn't expire if you leave Germany for a long time.
+
+### Pension requirement
+
+You must have an adequate retirement pension.[^17] There are 3 ways to do this:
+
+- **Contribute to your public pension**  
+    If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute.
+    - **If you have a [[Blue Card]]**  
+        You can get a PR in 21 or 27 months, so you only need 21 or 27 months of pension contributions.
+    - **If you have a [work visa](/glossary/Work%20Visa)**  
+        You can get a PR in 24 or 36 months, so you only need 24 or 36 months of pension contributions.[^19]
+    - **If you have a [freelance visa](/glossary/Freelance%20visa)**  
+        Do you only need 36 months of pension contributions? Not sure. If you have a *§21 Abs. 5* freelance visa, you need 60 months of pension contributions.
+    - **If you are married**  
+        If your spouse made 60 months of pension contributions, it's enough.[^18]
+    - **Everyone else**  
+        You must contribute to your public pension for 60 months.
+- or **have a comparable private pension**  
+    Usually, this means a private pension that *guarantees* an income when you retire.
+- or **have investments**  
+    This is where things get really unclear and complicated. It seems like having property qualifies you?
+
+Just having money in your bank account is not enough. They don't care if you have a million euros, because it could be gone by the time your retire.
 
 ## How to apply in Berlin
 
@@ -277,10 +307,15 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024)
 [^9]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
-[^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024)
+[^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
 [^13]: [§9 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
 [^15]: [§4a Abs. 1 FreizügG/EU](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4a.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/) (June 2024)
 [^16]: Citation needed
+[^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024)
+[^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
+[^20]: Citation needed. [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=und%20sie%20mindestens%2020%20stunden%20pro%20woche) (June 2024)
+[^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
