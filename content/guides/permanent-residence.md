@@ -5,7 +5,7 @@ Description: The process and the requirements to get a Niederlassungserlaubnis a
 Date_created: 2024-07-01
 ---
 
-If you live in Germany for a few years, you can become a permanent resident.
+If you lived in Germany for a few years, you can become a permanent resident.
 
 As a permanent resident, you can...
 
@@ -24,7 +24,7 @@ Permanent residence means **more stability**. It's better than a [residence perm
 
 - **You can do what you want**  
     It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
-- **You are done with the [[Ausländerbehörde]]**  
+- **You don't need to deal with the [[Ausländerbehörde]]**  
     You don't need their permission to change jobs or do something else. You don't need to renew your permanent residence every 1-3 years.
 
 There are other smaller benefits:
@@ -234,7 +234,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Bank statements**  
     It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
 
-## After you get your permanent residence
+## After you get your PR
 
 ### Activate your eID
 
