@@ -36,6 +36,8 @@ There are other smaller benefits:
 - **You can get [[BAFöG]]**  
     Permanent residents can get financial aid to study in Germany.[^8]
 
+The PR has one small disadvantage: if you travel outside of Germany for more than 6 months, it residence expires. Other residence permits also expire after 6 months, but the Blue Card only expires after 12 months.[^20]
+
 ## Permanent residence requirements
 
 {% include "_blocks/permanentResidenceCheck.html" %}
@@ -55,7 +57,7 @@ To become a permanent resident, you must...
     - **[[Student visa]]**  
         You can't apply for permanent residence.[^21]
     - **[[Family reunion visa]]**  
-        3 years living with your spouse, parent or child. They must be a German citizen.[^12] 5 years if they are not a German citizen. 3 years if they're not a German citizen but they have a work visa, and you work at least 20 hours a week.[^20]
+        5 years living with your spouse, parent or child. 3 years if your spouse, parent or child is a German citizen. 3 years if your spouse is a Blue Card holder and you work at least 20 hours per week.[^12]
     - **Everyone else**  
         5 years in Germany.[^13]
 - [ ] **Speak German**  
@@ -213,7 +215,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 If you need a permit to do your job (lawyers, doctors, engineers), you must also bring...
 
 - [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
-    You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+    You must have all the permits and special qualifications needed for the job. For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
 If you can, you should also bring...
 
@@ -280,9 +282,9 @@ Your permanent residence *card* can expire. To renew it...
 
 ### If you travel as a permanent resident
 
-Your freelance visa lets you visit other [[Schengen area]] countries without a visa.
+Your PR lets you visit other [[Schengen area]] countries without a visa.
 
-With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+With a PR, you can leave Germany for up to 6 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
 ### Make a tax declaration
 
@@ -309,7 +311,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^9]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
-[^12]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
+[^12]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
 [^13]: [§9 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
 [^15]: [§4a Abs. 1 FreizügG/EU](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4a.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/) (June 2024)
@@ -317,5 +319,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024)
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
-[^20]: Citation needed. [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=und%20sie%20mindestens%2020%20stunden%20pro%20woche) (June 2024)
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
+[^20]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (June 2024)
