@@ -51,8 +51,8 @@ These are the same requirements as when you apply for a freelance visa for the f
 
 The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*).
 
-- If you see "§ 21 Abs. 5" [on your residence permit](/images/freelance-visa-germany-type.png), you are *[[Freiberufler]]*.
-- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your residence permit](/images/freelance-visa-germany-type.png), you are a *Selbständiger*/*[[Gewerbetreibender]]*.
+- If you see "§ 21 Abs. 5" [on your residence permit](/illustrations/freelance-visa-type.png), you are *[[Freiberufler]]*.
+- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your residence permit](/illustrations/freelance-visa-type.png), you are a *Selbständiger*/*[[Gewerbetreibender]]*.
 
 If your work changes, your status can also change. I was a freelancer, and I am now a tradesperson. When I renewed my freelance visa, I needed different documents.
 

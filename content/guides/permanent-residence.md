@@ -33,48 +33,98 @@ There is one small disadvantage: if you travel outside of Germany for more than 
 
 ## Permanent residence requirements
 
-{% include "_blocks/permanentResidenceCheck.html" %}
+There are **many ways to qualify** for permanent residence. The requirements are different for everyone.
 
-There are **many ways to qualify** for permanent residence. For example, you get it faster if you have a [[Blue Card]] or if you marry a German citizen.
+### If you have a [[Blue Card]]
 
-To become a permanent resident, you must...
+You can get a [PR](/glossary/Niederlassungserlaubnis) in 21 to 27 months. You must...
 
-- [ ] **Live in Germany for some time**  
-    It depends on which [residence permit](/glossary/Aufenthaltstitel) you have:
-    - **[[Blue Card]]**  
-        27 months after you get your Blue Card, or 21 months if you also speak B1 German.[^10]
-    - **[Work visa](/glossary/Work%20Visa)**  
-        3 years of employment, or 2 years if you also graduated from a German university.[^11]
-    - **[[Freelance visa]]**  
-        3 years of self-employment, or 5 years if you have a *§21 Abs. 5* freelance visa.[^6]
-    - **[[Student visa]]**  
-        You can't apply for permanent residence.[^21]
-    - **[[Family reunion visa]]**  
-        5 years living with your spouse, parent or child. 3 years if your spouse, parent or child is a German citizen. 3 years if your spouse is a Blue Card holder and you work at least 20 hours per week.[^12]
-    - **Everyone else**  
-        5 years in Germany.[^13]
-- [ ] **Speak German**  
-    You must speak at least B1 German.[^14] If you have a [[Blue Card]] since 27 months, you only need A1 German.[^10]
+- [ ] **Speak A1 German**  
+    You must know basic words and expressions. You know very simple sentences for specific situations. If you speak B1 German, you can get a PR faster.
+- [ ] **Have a Blue Card for 21 to 27 months**  
+    27 months if you speak A1 German, or 21 months if you speak B1 German.[^10]
 - [ ] **Support yourself**  
-    Your income must cover your cost of living. If you are currently unemployed, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
-    - If you are a spouse, child or parent of a EU citizen, their income can support you. You don't need your own income.[^16]
+    Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+- [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
+    If you are employed, you do this automatically. You must pay 27 months of pension insurance, or 21 months if you speak B1 German.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
-- [ ] **[Have a retirement pension ➞](#pension-requirements)**
+
+### If you have a [work visa](/glossary/Work%20Visa)
+
+You can get a [PR](/glossary/Niederlassungserlaubnis) after 2 to 3 years. You must...
+
+- [ ] **Speak B1 German**[^14]  
+    You can understand what people say when they talk in a simple language about certain topics.
+- [ ] **Have a work visa for 2 to 3 years**  
+    2 years if you graduated from a German university, or 3 years otherwise.[^11] If you lived in Germany for 5 years, you can also apply.
+- [ ] **Support yourself**  
+    Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+- [ ] **Pay pension insurance**  
+    If you are employed, you do this automatically. You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19]
+- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+
+### If you have a [freelance visa](/glossary/Freelance%20visa)
+
+You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It depends on the kind of freelance visa you have.[^6]
+
+[Look on your residence permit.](/illustrations/freelance-visa-type.png) If it's written "§21 Abs. 1" or "§21 Abs. 2a" you must...
+
+- [ ] **Have a freelance visa for 3 years**
+- [ ] **Support yourself**  
+    Your freelance income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+    You must have valid German health insurance. Public and private health insurance are accepted. [[Expat health insurance]] is not enough.
+- [ ] **Have a retirement pension**  
+    There are many ways to do this:
+    - **Have a public pension**  
+        Do you only need 36 months of pension contributions? Not sure.
+    - or have a private pension
+    - or have investments
+
+If it's written "§21 Abs. 5", you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
+
+### If you have a German spouse, parent or child
+
+3 years living with your spouse, parent or child.
+
+If you are the spouse, child or parent of a EU citizen, their income can support you. You don't need your own income.[^16]
+
+### If your spouse has a Blue Card
+
+5 years living with your spouse, or 3 years if you also work at least 20 hours per week.[^12]
+
+### If you have a [student visa](/glossary/Student%20visa)
+
+You can't apply for permanent residence.[^21] You can apply later when you get a different [residence permit](/glossary/Aufenthaltstitel) like a Blue Card, a work visa or a freelance visa.
+
+Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis), but it's divided by half. For example, if you studied for 4 years, it counts as 2 years for your PR.[^9]
+
+### Everyone else
+
+5 years in Germany.[^13]
+
+- [ ] **Speak B1 German**[^14]  
+    You can understand what people say when they talk in a simple language about certain topics.
+- [ ] **Live in Germany for 5 years**  
+    Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis).
+- [ ] **Support yourself**
+    Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+- [ ] **Pay pension insurance**  
+    You must pay 5 years of pension insurance and qualify for a public pension.
+- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+
+**If you are currently unemployed**, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
+
+## Permanent residence alternatives
 
 **You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked, and it doesn't expire if you leave Germany for a long time.
 
-### Pension requirement
+### Pension
 
 You must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
 - **Contribute to your public pension**  
     If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute.
-    - **If you have a [[Blue Card]]**  
-        You can get a [PR](/glossary/Niederlassungserlaubnis) in 21 or 27 months, so you only need 21 or 27 months of pension contributions.
-    - **If you have a [work visa](/glossary/Work%20Visa)**  
-        You can get a [PR](/glossary/Niederlassungserlaubnis) in 24 or 36 months, so you only need 24 or 36 months of pension contributions.[^19]
-    - **If you have a [freelance visa](/glossary/Freelance%20visa)**  
-        Do you only need 36 months of pension contributions? Not sure. If you have a *§21 Abs. 5* freelance visa, you need 60 months of pension contributions.
     - **If you are married**  
         If your spouse made 60 months of pension contributions, it's enough.[^18]
     - **Everyone else**  
@@ -275,7 +325,7 @@ Your permanent residence *card* can expire. To renew it...
 
 ### If you travel as a permanent resident
 
-Your PR lets you visit other [[Schengen area]] countries without a visa.
+Your [PR](/glossary/Niederlassungserlaubnis) lets you visit other [[Schengen area]] countries without a visa.
 
 With a PR, you can leave Germany for up to 6 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
@@ -300,8 +350,8 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
-[^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024)
-[^9]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
+[^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
+[^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)

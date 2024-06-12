@@ -12,7 +12,7 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-German permanent residence (*PR* or *Niederlassungserlaubnis*) lets you live, work and study in Germany. You can get permanent residence after 21 to 60 months in Germany.
+German permanent residence (*PR*, *settlement permit* or *Niederlassungserlaubnis*) lets you live, work and study in Germany. You can get permanent residence after 21 to 60 months in Germany.
 
 It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
