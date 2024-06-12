@@ -56,7 +56,7 @@ To become a permanent resident, you must...
 - [ ] **Speak German**  
     You must speak at least B1 German.[^14] If you have a [[Blue Card]] since 27 months, you only need A1 German.[^10]
 - [ ] **Support yourself**  
-    Your income must cover your cost of living. If you are currently unemployed, you *might* get a PR anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
+    Your income must cover your cost of living. If you are currently unemployed, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
     - If you are a spouse, child or parent of a EU citizen, their income can support you. You don't need your own income.[^16]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 - [ ] **[Have a retirement pension ➞](#pension-requirements)**
@@ -70,9 +70,9 @@ You must have an adequate retirement pension.[^17] There are 3 ways to do this:
 - **Contribute to your public pension**  
     If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute.
     - **If you have a [[Blue Card]]**  
-        You can get a PR in 21 or 27 months, so you only need 21 or 27 months of pension contributions.
+        You can get a [PR](/glossary/Niederlassungserlaubnis) in 21 or 27 months, so you only need 21 or 27 months of pension contributions.
     - **If you have a [work visa](/glossary/Work%20Visa)**  
-        You can get a PR in 24 or 36 months, so you only need 24 or 36 months of pension contributions.[^19]
+        You can get a [PR](/glossary/Niederlassungserlaubnis) in 24 or 36 months, so you only need 24 or 36 months of pension contributions.[^19]
     - **If you have a [freelance visa](/glossary/Freelance%20visa)**  
         Do you only need 36 months of pension contributions? Not sure. If you have a *§21 Abs. 5* freelance visa, you need 60 months of pension contributions.
     - **If you are married**  
@@ -259,7 +259,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Bank statements**  
     It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
 
-## After you get your PR
+## After you get your [PR](/glossary/Niederlassungserlaubnis)
 
 ### Activate your eID
 
