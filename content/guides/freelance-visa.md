@@ -270,7 +270,7 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 
 **Your documents must convince the Ausländerbehörde** that your business will work, and that you will make enough money to support yourself.
 
-**If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also mail your documents.
+**If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter).
 
 **If you [apply in person](/guides/berlin-auslanderbehorde-appointment#)**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
 
