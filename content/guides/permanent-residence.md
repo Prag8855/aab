@@ -85,12 +85,14 @@ You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It dep
 
 If it's written "§21 Abs. 5", you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
 
-### If you have a German spouse, parent or child
+### If you live with a German citizen
+
+If you live with a spouse, parent or child who is a German citizen, you can get permanent residence in 3 years.
 
 You must...[^27]
 
 - [ ] **Have lived together for 3 years**  
-    This only includes the time that you lived in Germany with your German spouse, parent or child.
+    This only includes the time that you lived together in Germany.
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Support yourself**  
@@ -186,9 +188,9 @@ You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use th
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment. This can take many months.
+The *Ausländerbehörde* will process your application. This can take a few months. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment.
 
-Sometimes, it takes so long that you must send an updated version of the same documents.
+Sometimes, it takes so long that you must send a more recent version of the same documents.
 
 In Berlin, it usually takes 5 to 10 months.[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
 
@@ -206,6 +208,8 @@ When you go to your appointment, bring...[^7]
 
 - [ ] **The [required documents](#required-documents)**  
     Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
+- [ ] **Updated documents**  
+    The *Ausländerbehörde* might ask for more recent versions of your documents. For example, they might ask for updated proofs of employment and proofs of income.
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
@@ -232,15 +236,11 @@ If they approve your freelance visa, they must print the plastic card. This take
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
 1. **The eID activation code**  
-    This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your freelance visa.
-2. **Your freelance visa**  
-    Around 2 weeks later, you receive your freelance visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
+2. **Your permanent residence card**  
+    Around 2 weeks later, you receive your permanent residence card, or an invitation to collect it at the *Ausländerbehörde*.[^24] If you did not pay the fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
-Your freelance visa is a plastic card. The expiration date is written on it. It's **valid for up to 3 years**.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
-
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your freelance visa. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to be self-employed, and have a side job. - [More information](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/)
-
-Check if the information on your freelance visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
+Check if the information on your permanent residence card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 ## Required documents
 
@@ -253,8 +253,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go in person, bring your passport. You get it back during the appointment; they do not keep it.
-- [ ] **Current residence permit**[^24]
+    When you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. When you go in person, bring your passport. You get it back during the appointment; they do not keep it.
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted.
     - [ ] **Health insurance card**
@@ -268,19 +267,19 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
         It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.[^41]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it.[^1] Bring it even if you registered your address.[^43]
-    - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
-        You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
-    - [ ] and **proof of rent payments**  
-        You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
+    - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)
+    - [ ] and **proof of rent payments** (optional)
+        Print recent bank statements that show rent payments.[^52]
+- [ ] **Integration course certificate** (optional)
 - [ ] **Language certificate** (optional)  
     You must prove that you speak German. If you don't have a language certificate, they will ask you questions in German during your *[[Ausländerbehörde]]* appointment, to see if you speak German.[^3]
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
-If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
+If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterngeld*, *Betreuungsgeld* and other social benefits, you must bring...
 
-- [ ] **Proof of retirement pension**  
-    Prove that you will get a public or private pension when you are 67 years old.
+- [ ] **Proof of social benefits**  
+    Bring certificates and other documents that prove that you receive those social benefits.
 
 ### For people with a Blue Card
 
@@ -378,7 +377,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 
 [^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
-[^3]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024)
+[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
@@ -402,5 +401,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^24]: Citation needed
 [^25]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
 [^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
-[^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
+[^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^32]: Citation needed
+[^52]: Citation needed
