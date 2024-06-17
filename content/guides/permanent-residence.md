@@ -25,7 +25,7 @@ Permanent residence means **more stability**. It's better than a [residence perm
 - **You can do what you want**  
     It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
 - **You don't need to deal with the [[Ausländerbehörde]]**  
-    After you get your [PR](/glossary/Niederlassungserlaubnis), you don't need their permission to change jobs or do something else. You don't need to renew your permanent residence every 1-3 years.
+    After you get your [PR](/glossary/Niederlassungserlaubnis), you don't need their permission to change jobs or do something else. You don't need to renew your permanent residence every 1-3 years.[^25]
 
 There are other benefits: it's easier to find an apartment or get a mortgage, and you can get [[BAFöG]] if you study.[^8]
 
@@ -48,7 +48,7 @@ You must...
 - [ ] **Support yourself**  
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    If you are employed, you do this automatically. You must pay 27 months of pension insurance, or 21 months if you speak B1 German.
+    You must pay 27 months of pension insurance, or 21 months if you speak B1 German. When you are employed, you automatically pay pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 
 ### If you have a [work visa](/glossary/Work%20Visa)
@@ -56,13 +56,13 @@ You must...
 You must...
 
 - [ ] **Have a work visa for 2 to 3 years**  
-    2 years if you graduated from a German university, or 3 years otherwise.[^11] If you lived in Germany for 5 years, you can also apply.
+    2 years if you graduated from a German university, or 3 years otherwise.[^11]
 - [ ] **Speak B1 German**[^14]  
     You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Support yourself**  
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    If you are employed, you do this automatically. You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19]
+    You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you automatically pay pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
@@ -74,8 +74,8 @@ You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It dep
 - [ ] **Have a freelance visa for 3 years**
 - [ ] **Support yourself**  
     Your freelance income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
-- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
-    You must have valid German health insurance. Public and private health insurance are accepted. [[Expat health insurance]] is not enough.
+- [ ] **Have valid [health insurance](/glossary/Krankenversicherung)**
+    Public and private health insurance are accepted. [[Expat health insurance]] or travel insurance is not enough.
 - [ ] **Have a retirement pension**  
     There are many ways to do this:
     - **Have a public pension**  
@@ -87,13 +87,22 @@ If it's written "§21 Abs. 5", you must wait 5 years like everybody else. See th
 
 ### If you have a German spouse, parent or child
 
-3 years living with your spouse, parent or child.
+You must...[^27]
 
-If you are the spouse, child or parent of a EU citizen, their income can support you. You don't need your own income.[^16]
+- [ ] **Have lived together for 3 years**  
+    This only includes the time that you lived in Germany with your German spouse, parent or child.
+- [ ] **Speak B1 German**  
+    You can understand what people say when they talk in a simple language about certain topics.
+- [ ] **Support yourself**  
+    Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.[^16]
 
-### If your spouse has a Blue Card
+### If your spouse has a Blue Card or a work visa
 
-5 years living with your spouse, or 3 years if you also work at least 20 hours per week.[^12]
+You must...
+
+- [ ] **Live with your spouse for 3 to 5 years**[^28]  
+    5 years living with your spouse, or 3 years if you also work at least 20 hours per week.
+
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
@@ -114,6 +123,16 @@ Spouse's income can suffice
 
 ### Everyone else
 
+There are more exceptions for...
+
+- Minors
+- Minors who became adults after entering Germany (§ 35 Abs. 1 S. 2 AufenthG)
+- Retirees
+- Former German citizens (§ 38 Abs. 1 S. 1
+AufenthG)
+
+These exceptions are not covered in this guide. If they apply to you, get help from a professional.
+
 If other options don't apply to you, you must...
 
 - [ ] **Live in Germany for 5 years**  
@@ -123,7 +142,7 @@ If other options don't apply to you, you must...
 - [ ] **Support yourself**
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    You must pay 5 years of pension insurance.
+    You or your spouse must have paid 5 years of pension insurance.[^26]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 
 **If you are currently unemployed**, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
@@ -235,6 +254,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 
 - [ ] **Passport**  
     If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go in person, bring your passport. You get it back during the appointment; they do not keep it.
+- [ ] **Current residence permit**[^24]
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted.
     - [ ] **Health insurance card**
@@ -367,7 +387,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
-[^12]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
+[^12]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^13]: [§9 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
 [^15]: [§4a Abs. 1 FreizügG/EU](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4a.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/) (June 2024)
@@ -379,3 +399,8 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (June 2024)
 [^22]: [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 11, 2022)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html)
+[^24]: Citation needed
+[^25]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
+[^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/) (June 2024)
+[^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
