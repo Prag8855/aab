@@ -37,12 +37,14 @@ There are **many ways to qualify** for permanent residence. The requirements are
 
 ### If you have a [[Blue Card]]
 
-You can get a [PR](/glossary/Niederlassungserlaubnis) in 21 to 27 months. You must...
+You must...
 
-- [ ] **Speak A1 German**  
-    You must know basic words and expressions. You know very simple sentences for specific situations. If you speak B1 German, you can get a PR faster.
 - [ ] **Have a Blue Card for 21 to 27 months**  
-    27 months if you speak A1 German, or 21 months if you speak B1 German.[^10]
+    27 months if you speak A1 German, or 21 months if you speak B1 German.[^10] This includes the time with a [[National Visa]] before you converted it to a Blue Card.[^22]
+- [ ] **Speak A1 or B1 German**  
+    If you speak B1 German, you can get your PR faster.
+    - **A1** means that you know basic words and expressions, and very simple sentences for specific situations.
+    - **B1** means that you can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Support yourself**  
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
@@ -51,15 +53,15 @@ You can get a [PR](/glossary/Niederlassungserlaubnis) in 21 to 27 months. You mu
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
-You can get a [PR](/glossary/Niederlassungserlaubnis) after 2 to 3 years. You must...
+You must...
 
-- [ ] **Speak B1 German**[^14]  
-    You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Have a work visa for 2 to 3 years**  
     2 years if you graduated from a German university, or 3 years otherwise.[^11] If you lived in Germany for 5 years, you can also apply.
+- [ ] **Speak B1 German**[^14]  
+    You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Support yourself**  
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
-- [ ] **Pay pension insurance**  
+- [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     If you are employed, you do this automatically. You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 
@@ -99,18 +101,29 @@ You can't apply for permanent residence.[^21] You can apply later when you get a
 
 Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis), but it's divided by half. For example, if you studied for 4 years, it counts as 2 years for your PR.[^9]
 
+### If you are a refugee
+
+- [ ] **Live in Germany for 5 years**  
+    You must have a residence permit for the last 5 years, or 3 years if you speak C1 German.
+- [ ] **Speak A2 or C1 German**[^23]  
+    If you speak C1 German, you can get your PR faster.
+    - **A2** means that you understand a few sentences and expressions about family, shopping, work and giving directions. You can have simple, direct conversations about certain topics.
+    - **C1** means that you can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics.
+    
+Spouse's income can suffice
+
 ### Everyone else
 
-5 years in Germany.[^13]
+If other options don't apply to you, you must...
 
-- [ ] **Speak B1 German**[^14]  
-    You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Live in Germany for 5 years**  
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis).
+- [ ] **Speak B1 German**[^14]  
+    You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Support yourself**
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
-- [ ] **Pay pension insurance**  
-    You must pay 5 years of pension insurance and qualify for a public pension.
+- [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
+    You must pay 5 years of pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 
 **If you are currently unemployed**, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
@@ -348,7 +361,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^3]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
-[^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
+[^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
 [^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
@@ -364,3 +377,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (June 2024)
+[^22]: [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 11, 2022)
+[^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html)
