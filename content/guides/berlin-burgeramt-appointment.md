@@ -17,7 +17,7 @@ Choose a service in [the list of services](https://service.berlin.de/dienstleist
 
 **If there are no appointments**, try again every few minutes. Most new appointments appear during working hours. There are more appointments in the morning, between 8:00 and 11:00.[^0] Look for appointments everywhere in Berlin, not just near you.
 
-The Bürgeramt does not release all available appointments online. Some appointments are only for people who call 115. Other appointments are only given by Bürgeramt employees.[^1]
+The Bürgeramt does not release all available appointments online. Some appointments are only for people who call [115](/glossary/Bürgertelefon). Other appointments are only given by Bürgeramt employees.[^1]
 
 ### Use my appointment finder
 
