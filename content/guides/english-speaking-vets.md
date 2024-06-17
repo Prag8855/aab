@@ -8,6 +8,7 @@ Date_created: 2023-05-02
 If you don't speak German, these veterinarians speak English:
 
 - [Anne Gamalski](https://www.berlin-english-vet.com/)
+- [Ellen Laskawy](https://laskawy.jimdofree.com/)
 - [Dr. Beck](http://www.tierarztpraxis-dr-beck.de/)
 - [Dr. Layla Hourani](https://tierarztpraxis-am-lietzenseepark.de/team/) - Tierarztpraxis am Lietzenseepark
 - [Dr. Manuela Wight](https://www.tierarztpraxisgruenau.de/) - Tierarztpraxis Grünau
@@ -21,9 +22,9 @@ If you don't speak German, these veterinarians speak English:
 - [Dr. Sven Stahlhut](https://www.tierarztamwestend.de/) - Tierarzt Westend
 - [Dr. Till Robl](https://www.tierarztpraxis-robl.de/)
 - [Dr. Uwe Lenk](https://tierarztpraxis-lenk.de/)
-- [Ellen Laskawy](https://laskawy.jimdofree.com/)
 - [Dr. Pascal Klunder](https://tierarzt-mobil-berlin.de/) - mobile vet, also speaks French
 - [Tierarzt Bärenwiese](https://tierarzt-baerenwiese.de/en/home/) - English website, online appointments
+- [Tierarztpraxis Chung und Wahle](https://tierarztpraxis-chung-wahle.com/en/home/) - English website, online appointments
 - [Tierarztpraxis Watson](https://www.tierarzt-watson.de/)
 
 This list is not complete. To suggest another English-speaking veterinarian, [contact me](/contact).
