@@ -219,6 +219,8 @@ When you go to your appointment, bring...[^7]
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
+If you apply as the spouse, parent or child of a German citizen, they must come with you to the appointment.[^30]
+
 In the email, they might ask for more documents. Sometimes, the process takes so long that they ask for an updated version of your documents.
 
 The appointment takes 15 to 60 minutes.[^4] You spend most of that time waiting.
@@ -404,6 +406,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
+[^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=appointment%20is%20required-,Your%20German%20family%20member,rights%20must%20be%20submitted.,-Proof%20of%20Income) (June 2024)
 [^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (September 2023)
 [^32]: Citation needed
 [^52]: Citation needed
