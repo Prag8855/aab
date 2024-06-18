@@ -44,7 +44,7 @@ You must...
 - [ ] **Speak A1 or B1 German**  
     If you speak B1 German, you can get your PR faster.
     - **A1** means that you know basic words and expressions, and very simple sentences for specific situations.
-    - **B1** means that you can understand what people say when they talk in a simple language about certain topics.
+    - **B1** means that you can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
@@ -58,7 +58,7 @@ You must...
 - [ ] **Have a work visa for 2 to 3 years**  
     2 years if you graduated from a German university, or 3 years otherwise.[^11]
 - [ ] **Speak B1 German**[^14]  
-    You can understand what people say when they talk in a simple language about certain topics.
+    You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
     Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
@@ -92,9 +92,9 @@ If you live with a spouse, parent or child who is a German citizen, you can get 
 You must...[^27]
 
 - [ ] **Have lived together for 3 years**  
-    This only includes the time that you lived together in Germany.
+    You must live together, in Germany, for 3 years without interruption.[^29]
 - [ ] **Speak B1 German**  
-    You can understand what people say when they talk in a simple language about certain topics.
+    You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
     Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.[^16]
 
@@ -270,9 +270,9 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)
     - [ ] and **proof of rent payments** (optional)
         Print recent bank statements that show rent payments.[^52]
-- [ ] **Integration course certificate** (optional)
-- [ ] **Language certificate** (optional)  
-    You must prove that you speak German. If you don't have a language certificate, they will ask you questions in German during your *[[Ausländerbehörde]]* appointment, to see if you speak German.[^3]
+- [ ] **Integration course certificate** (optional in Berlin)
+- [ ] **Language certificate** (optional in Berlin)  
+    This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
@@ -377,7 +377,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 
 [^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
-[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024)
+[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
@@ -403,5 +403,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
 [^32]: Citation needed
 [^52]: Citation needed
