@@ -121,7 +121,7 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
     - **A2** means that you understand a few sentences and expressions about family, shopping, work and giving directions. You can have simple, direct conversations about certain topics.
     - **C1** means that you can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics.
     
-Spouse's income can suffice
+Spouse's income can suffice?
 
 ### Everyone else
 
@@ -148,6 +148,8 @@ If other options don't apply to you, you must...
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
 
 **If you are currently unemployed**, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
+
+**If your work contact ends in the next 6 months**, wait until you have a new contract before you apply.[^33]
 
 ## Permanent residence alternatives
 
@@ -188,11 +190,11 @@ You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use th
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. This can take a few months. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment.
 
 Sometimes, it takes so long that you must send a more recent version of the same documents.
 
-In Berlin, it usually takes 5 to 10 months.[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
+**In Berlin, it usually takes 5 to 10 months.**[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
 
 After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.
 
@@ -381,7 +383,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
 [^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
-[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024)
+[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
@@ -400,7 +402,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^20]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (June 2024)
 [^22]: [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 11, 2022)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html)
-[^24]: Citation needed
+[^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023)
 [^25]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
 [^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
@@ -409,4 +411,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=appointment%20is%20required-,Your%20German%20family%20member,rights%20must%20be%20submitted.,-Proof%20of%20Income) (June 2024)
 [^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (September 2023)
 [^32]: Citation needed
+[^33]: Citation needed
 [^52]: Citation needed
