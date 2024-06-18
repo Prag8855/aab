@@ -192,7 +192,7 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your work visa.
 
-If they approve your freelance visa, they must print the plastic card. This takes a few weeks. You might get a [temporary certificate](/images/temporary-freelance-visa.jpg) while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.
+If they approve your work visa, they must print the plastic card. This takes a few weeks. You might get a temporary certificate while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
