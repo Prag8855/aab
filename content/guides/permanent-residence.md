@@ -196,7 +196,7 @@ Sometimes, it takes so long that you must send a more recent version of the same
 
 **In Berlin, it usually takes 5 to 10 months.**[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
 
-After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.
+After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.[^34]
 
 Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
@@ -274,6 +274,9 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)
     - [ ] and **proof of rent payments** (optional)
         Print recent bank statements that show rent payments.[^52]
+- [ ] **Proof of pension**  
+    - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]
+        You can [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It will arrive by post in a few days. If you have a working [eID](/guides/eid-online-ausweisfunktion#how-the-eid-works), you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
 - [ ] **Integration course certificate** (optional in Berlin)
 - [ ] **Language certificate** (optional in Berlin)  
     This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
@@ -412,4 +415,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (September 2023)
 [^32]: Citation needed
 [^33]: Citation needed
+[^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021)
+[^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021)
 [^52]: Citation needed
