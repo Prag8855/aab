@@ -26,7 +26,8 @@ The Deutschland Ticket always **starts on the first day of the month**.[^3] This
 |-|:-:|:-:|:-:|:-:|
 | **Buy a ticket for the current month** | ✓ | ✓ | ✗ | ✓ |
 | **Cancellation deadline** | Anytime | 10th of the month | 25th of the month | 10th of the month |
-| **Pay with credit card** | ✓ | ✓ | ✗ | ✗ |
+| **Pay with foreign credit card** | ✓ | ✓ | ✗ | ✗ |
+| **Pay with German credit card** | ✓ | ✗ | ✗ | ✗ |
 | **Pay with PayPal** | ✓ | ✓ | ✗ | ✗ |
 | **Book ticket in English** | ✗ | ✓ | ✗ | ✗ |
 | **App is in English** | ✗ | ✓ | ✓ | ✓ |
@@ -36,13 +37,15 @@ The Deutschland Ticket always **starts on the first day of the month**.[^3] This
 
 **I recommend [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts more payment options, and it's the easiest to cancel. They also support Apple Wallet and Google Wallet.
 
+You can't use [hvv Switch](https://www.hvv-switch.de/en/) with foreign credit cards, even if you use PayPal.[^2]
+
 ### For tourists
 
 Tourists should **get a Deutschland Ticket from [deutschland-ticket.store](https://deutschland-ticket.store/)**. It's the easiest option because it cancels automatically.[^5] Your ticket is a printable QR code. It takes a few days to process, so buy it in advance.[^1]
 
 **The other option is [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts credit cards and it's easy to cancel. Their app is only on the German app store, but you can use their web app instead. You can get a digital ticket in the app, or a printable ticket.
 
-Other options require a European bank account, and are harder to cancel.
+Other options require a European bank account or a German credit card, and their Deutschland Ticket subscription is harder to cancel.
 
 It can be easier to buy a regular daily, weekly or monthly ticket. You can buy them from a ticket machine at the train station. You can pay with cash or credit cards.
 
@@ -76,5 +79,6 @@ You can cancel your ticket where you bought it.
 
 [^0]: [bvg.de](https://www.bvg.de/en/deutschland-ticket), [sbahn.berlin](https://sbahn.berlin/aktuelles/artikel/deutschlandticket-lohnt-ein-wechsel/), [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/deutschland-ticket/?acc=a26619-t4), [rbb24.de](https://www.rbb24.de/politik/beitrag/2023/03/49-euro-ticket-deutschlandticket-nahverkehr.html)
 [^1]: [Twitter](https://x.com/MesoTraChannel/status/1767945848363622561) (March 2024)
+[^2]: Reader feedback (June 2024)
 [^3]: [seat61.com](https://www.seat61.com/train-travel-in-germany.htm#Deutschlandticket) (June 2024)
 [^5]: [Reddit](https://old.reddit.com/r/germany/comments/16j7q22/can_tourist_from_non_eu_country_buy_49euro_ticket/k0t9n48/)
