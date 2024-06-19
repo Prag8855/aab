@@ -50,6 +50,8 @@ You must...
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 27 months of pension insurance, or 21 months if you speak B1 German. When you are employed, you automatically pay pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
@@ -64,6 +66,8 @@ You must...
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you automatically pay pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
 
@@ -76,6 +80,8 @@ You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It dep
     Your freelance income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
 - [ ] **Have valid [health insurance](/glossary/Krankenversicherung)**
     Public and private health insurance are accepted. [[Expat health insurance]] or travel insurance is not enough.
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 - [ ] **Have a retirement pension**  
     There are many ways to do this:
     - **Have a public pension**  
@@ -97,6 +103,10 @@ You must...[^27]
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
     Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.[^16]
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
+
+Spouses might need an integration course.[^37]
 
 ### If your spouse has a Blue Card or a work visa
 
@@ -104,7 +114,10 @@ You must...
 
 - [ ] **Live with your spouse for 3 to 5 years**[^28]  
     5 years living with your spouse, or 3 years if you also work at least 20 hours per week.
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
+Spouses might need an integration course.[^37]
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
@@ -120,6 +133,8 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
     If you speak C1 German, you can get your PR faster.
     - **A2** means that you understand a few sentences and expressions about family, shopping, work and giving directions. You can have simple, direct conversations about certain topics.
     - **C1** means that you can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics.
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
     
 Spouse's income can suffice?
 
@@ -146,6 +161,8 @@ If other options don't apply to you, you must...
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You or your spouse must have paid 5 years of pension insurance.[^26]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
 **If you are currently unemployed**, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
 
@@ -250,7 +267,7 @@ Check if the information on your permanent residence card is correct. The *Ausl�
 
 These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**When you apply online**, use PDF files or photos. Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
+**When you apply online**, use PDF files or photos. Word documents and other formats are unreliable. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
 
 **When you go in person**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
 
@@ -277,8 +294,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Proof of pension**  
     - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]
         You can [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It will arrive by post in 1 to 3 weeks.[^36] If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
-- [ ] **Integration course certificate** (optional in Berlin)
-- [ ] **Language certificate** (optional in Berlin)  
+- [ ] **Language certificate** or **integration course certificate** (optional in Berlin)  
     This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
@@ -380,7 +396,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
 [^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
-[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021)
+[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
@@ -412,4 +428,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021)
 [^36]: Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
+[^37]: Padcha (June 2024)
 [^52]: Citation needed
