@@ -239,7 +239,7 @@ If they approve your permanent residence, they must print the plastic card. This
 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
-1. **The eID activation code**  
+1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
 2. **Your permanent residence card**  
     Around 2 weeks later, you receive your permanent residence card, or an invitation to collect it at the *Ausländerbehörde*.[^24] If you did not pay the fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
@@ -276,7 +276,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
     - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]
-        You can [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It will arrive by post in a few days. If you have a working [eID](/guides/eid-online-ausweisfunktion#how-the-eid-works), you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
+        You can [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It will arrive by post in 1 to 3 weeks.[^36] If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
 - [ ] **Integration course certificate** (optional in Berlin)
 - [ ] **Language certificate** (optional in Berlin)  
     This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
@@ -350,17 +350,11 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 
 ## After you get your [PR](/glossary/Niederlassungserlaubnis)
 
-### Activate your eID
+### Activate your [[eID]]
 
-You can use your freelance visa to log into online government services. For example, you need it for the *[[Gewerbeanmeldung]]*. You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
+You can use your permanent residence card to log into online government services. You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
 
 **[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
-
-### Renew your permanent residence
-
-Your permanent residence does not expire. You don't need to go to the immigration office.
-
-Your permanent residence *card* can expire. To renew it...
 
 ### If you travel as a permanent resident
 
@@ -417,4 +411,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^33]: Citation needed
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021)
+[^36]: Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^52]: Citation needed

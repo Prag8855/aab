@@ -187,7 +187,7 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
-1. **The eID activation code**  
+1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
 2. **Your Blue Card**  
     Around 2 weeks later, you receive your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
@@ -318,7 +318,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, freelance or start a business in Germany.
 
-### Activate your eID
+### Activate your [[eID]]
 
 You can use your Blue Card to log into online government services. For example, you can use it to apply for [unemployment benefits](/glossary/ALG%20I). You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
 

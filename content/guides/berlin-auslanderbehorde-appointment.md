@@ -173,7 +173,7 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment, you get 2 letters:[^7]
 
-1. **The eID activation code**  
+1. **The [[eID]] activation code**  
     This letter arrives first. It has a PIN and a PUK to [activate the eID function](/guides/eid-online-ausweisfunktion) of your residence permit. You will need this later.
 2. **Your residence permit**  
     2 to 4 weeks later, you receive your residence permit, or an invitation to collect it at the *Ausländerbehörde*.[^30]

@@ -202,7 +202,7 @@ If they approve your work visa, they must print the plastic card. This takes a f
 
 {{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
 
-1. **The eID activation code**  
+1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your work visa.
 2. **Your work visa**  
     Around 2 weeks later, you receive your work visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
@@ -359,7 +359,7 @@ The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your
 
 You can apply for it at the same time as your work visa.
 
-### Activate your eID
+### Activate your [[eID]]
 
 You can use your work visa to log into online government services. For example, you can use it to apply for [unemployment benefits](/glossary/ALG%20I). You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
 

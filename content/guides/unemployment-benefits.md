@@ -78,9 +78,9 @@ You can get less unemployment benefits because of a *[Sperrzeit](#the-sperrzeit)
 
 ### Register as a job seeker
 
-Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Jobcenter*. To register online, you need a valid electronic ID.[^24] If you have a [residence permit](/glossary/Aufenthaltstitel), and you did not [activate the eID function](/guides/eid-online-ausweisfunktion), you can't register online.
+Register as seeking employment at the *[[Agentur für Arbeit]]*. You can register as a job seeker [online](https://www.arbeitsagentur.de/arbeitslos-melden/), [by phone](tel:+498004555500) or in person at the *Agentur für Arbeit*. To register online, you need a valid [[eID]].[^24] If you have a [residence permit](/glossary/Aufenthaltstitel), and you did not [activate the eID function](/guides/eid-online-ausweisfunktion), you can't register online; you must go in person.
 
-**[Register as a job seeker](https://www.arbeitsagentur.de/arbeitslos-melden/)** - Agentur für Arbeit
+**[Register as a job seeker ➞](https://www.arbeitsagentur.de/arbeitslos-melden/)**
 
 Do this **at least 3 months before your last day of work**. If that's impossible, then do it within 3 days after you learn that you will be unemployed.[^2] If you don't register on time, you lose 1 week of *ALG I* as a punishment (15% of your monthly income).
 

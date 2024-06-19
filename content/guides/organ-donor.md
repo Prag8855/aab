@@ -22,6 +22,8 @@ To do become an organ donor, you must...
 - [ ] **Write it in your will**[^5]
 - [ ] **Inform your family or your next of kin**  
     If the doctors can't find your organ donor card, they ask your next of kin. Your next of kin must guess if you wanted to give your organs.[^7] It can be a hard decision for them, so tell them what you want.
+- [ ] **Join the [organ donor registry](https://organspende-register.de/)**  
+    Add your name to the organ donor registry. For this, you need an [[eID]].
 
 [![German organ donor card](/images/german-organspendeausweis-english.png "A German organ donor card (Organspendeausweis)")](/images/german-organspendeausweis-english.png)
 
