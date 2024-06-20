@@ -26,4 +26,6 @@ It's not as good as German citizenship because...[^1]
 - If you leave Germany for a long time, you lose it.
 - If you commit a serious crime, you can lose it.
 
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
 [^1]: [migrando.de](https://migrando.de/niederlassungserlaubnis/)

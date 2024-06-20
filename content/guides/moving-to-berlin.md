@@ -229,9 +229,15 @@ Your relocation expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ### Permanent residence and citizenship
 
-After a few years in Germany, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis) or German citizenship. Permanent residence gives you more freedom and more security. You don't need to renew your residence permit. You can stay in Germany even if you lose your job. Citizenship also gives you a German passport and the right to vote.
+After a few years in Germany, you can apply for [permanent residence](/glossary/Niederlassungserlaubnis) or German citizenship.
 
-With most [residence permits](/glossary/Aufenthaltstitel), you can get permanent residence after 5 years. If you have a [[Blue Card]], you can get permanent residence in 21 or 27 months.
+Permanent residence gives you more freedom and more security. You don't need to renew it like a residence permit. You can stay in Germany even if you lose your job.
+
+Depending on your [residence permit](/glossary/Aufenthaltstitel), you can become a permanent resident after 21 to 60 months in Germany.
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
+Citizenship is better than permanent residence. You get a German passport, and you can vote in elections.
 
 [^0]: [teltarif.de](https://www.teltarif.de/roaming/fair-use-policy.html)
 [^1]: [naylorengineering.com](http://web.archive.org/web/20220128231355/http://www.naylorengineering.com/handyvertrag-ohne-wohnsitz-in-deutschland/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/al0xcd/postident_in_berlin/efav1r4/?context=3)
