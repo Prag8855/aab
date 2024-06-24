@@ -308,19 +308,22 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 **[Full requirements for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
 
-### For people with a freelance visa
+### For self-employed people
 
-If you need a permit to do your job (lawyers, doctors, engineers), you must also bring...
+- [ ] **Proof of income**
+    - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)
+        If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*.
+    - [ ] **[[Netto-Gewinnermittlung]]**  
+        It shows your income. Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater).
+- [ ] **Certificate of tax matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
+    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
 
-- [ ] **Occupation practice permit** (*Berufsausübungserlaubnis*)  
-    You must have all the permits and special qualifications needed for the job. For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
-
-If you can, you should also bring...
+If you have it, you should also bring...
 
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)  
-    [Register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible, because it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.[^70] You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
+    If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*.
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
-    You probably don't need a *Handelsregister* entry.[^77] If you need one, you can probably get it after you get your freelance visa. - [Who needs a *Handelsregister* entry?](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)
+    [If you need a *Handelsregister* entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*.
 
 **[Full requirements for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/en/)**
 

@@ -538,6 +538,9 @@ config.context_globals = {
     # € - hunderegister.berlin.de
     "HUNDEREGISTER_FEE": 17.50,
 
+    # € - service.berlin.de/dienstleistung/324713
+    "BESCHEINIGUNG_IN_STEUERSACHEN_FEE": 17.90,
+
     # Dog tax (€/y) - §4 HuStG BE
     "HUNDESTEUER_FIRST_DOG": 120,
     "HUNDESTEUER_MORE_DOGS": 180,

@@ -1877,13 +1877,29 @@ input[type=range] {
 
 }
 
-output.placeholder{
-	border-radius: var(--b-radius);
+
+output.placeholder, .recommended{
 	background: var(--c-bg-widget);
 	box-decoration-break: clone;
-	color: var(--c-text-light);
-	padding: 0 var(--xs);
+	border-radius: var(--b-radius);
+	padding: 2px var(--xs);
+	font-weight: 400;
+	color: var(--c-text-light)!important;
+	white-space: nowrap;
 }
+.recommended{
+	&:before{
+		font-size: var(--f-s);
+		content: '✦ Recommended';
+	}
+
+	&:hover{
+		cursor: help;
+		text-decoration: none;
+		color:var(--c-text)!important;
+	}
+}
+
 output.large{
 	@include box-s;
 	font-size: var(--xxl);
@@ -2185,6 +2201,7 @@ details{
 
 	&.language-picker{
 		float: right;
+		margin-left: var(--m);
 	}
 	@include full-width-site{
 		&.language-picker{
@@ -2238,26 +2255,6 @@ details{
 	}
 	&.sound::after{
 		mask-image: var(--i-sound)
-	}
-}
-
-.recommended{
-	background: var(--c-bg-widget);
-	border-radius: var(--b-radius);
-	padding: 2px var(--xs);
-	font-size: var(--f-s);
-	font-weight: 400;
-	color: var(--c-text-light)!important;
-	white-space: nowrap;
-	cursor: help;
-
-	&:before{
-		content: '✦ Recommended';
-	}
-
-	&:hover{
-		text-decoration: none;
-		color:var(--c-text)!important;
 	}
 }
 

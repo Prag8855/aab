@@ -150,8 +150,8 @@ Bring these documents to your visa interview. [The official list of documents](h
             [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] It can take a few days to receive this document.
         - [ ] **and a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
-        - [ ] **and a certification of tax-related matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
-            This proves that you paid your taxes to the *Finanzamt*. You can request it in writing from the *[[Finanzamt]]* where your business is registered. It costs 17.90€.[^8] It can take a few days to arrive.
+        - [ ] **and a certificate of tax matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
+            It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.[^8]
     - **If you are a freelancer** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
         - [ ] **Tax assessments** (*[[Steuerbescheid]]*)  
             When you make a tax declaration, the *[[Finanzamt]]* sends you a *[[Steuerbescheid]]* by post. It looks like [this](/images/Einkommensteuer-Bescheid-Muster-Example.png). If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
@@ -209,7 +209,7 @@ A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or betw
 Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:
 
 - The *aktuelle Handelsregisterauszug* costs 10€.[^7]
-- The *Bescheinigung in Steuersachen* costs 17.90€.[^8]
+- The *Bescheinigung in Steuersachen* costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€.[^8]
 - The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
 - The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
