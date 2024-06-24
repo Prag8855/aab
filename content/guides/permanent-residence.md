@@ -234,7 +234,7 @@ When you go to your appointment, bring...[^7]
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
@@ -282,6 +282,8 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)* from your health insurer or your health insurance broker.
     - [ ] or **proof of private health insurance**  
         Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
+- [ ] **Proof of health insurance payments**  
+    Bring recent bank account statements that show health insurance payments.
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
@@ -335,37 +337,21 @@ If you have it, you should also bring...
 
 **[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/324283/en/)**
 
-### Required documents if you apply in person
+### Required documents when you go in person
 
-- [ ] **Appointment confirmation**, printed  
-    You can't enter the *Ausländerbehörde* without an appointment.
-- [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    If this is your first residence permit application, you must fill this form.[^42] - [How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)
 - [ ] **Passport**  
     You get your passport back during your appointment; they do not keep it.[^75]
+- [ ] **Appointment confirmation**, printed  
+    You can't enter the *Ausländerbehörde* without an appointment.
 - [ ] **Passport photo** (35 × 45 mm)  
-    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
+    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the 113€ to 147€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 ### Optional documents
 
-These documents are not required, but some *Ausländerbehörde* employees ask for them. They make your application more convincing.
-
-- [ ] **Resume** or **CV**  
-    It proves that you have experience in your field. Remove irrelevant experience or summer jobs. Work experience is not required, but it helps.[^49]
-- [ ] **Cover letter**  
-    It explains what you do, and how your business works. It helps *Ausländerbehörde* employees understand your plan. This is very useful if your German is not good. Write it in German. - [Cover letter example](/docs/freelance-visa-cover-letter)
-- [ ] **Portfolio** or **examples of your work**  
-    It explains what you do. If you are an artist, this is very important.[^65] For example, you can bring photos of your work, posters of your events, screenshots of your website or apps or newspaper articles about you. You need printed examples; a website address does not work.[^50] If you can, fit everything on A4 paper.
-- [ ] **Contracts**  
-    It proves that you have guaranteed work. Signed contracts are better than [letters of intent](/glossary/Absichtserklärung). They should explain what you will do, how long you will work and how much you will get paid.
-- [ ] **Letters of reference**  
-    These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do.
-- [ ] **Proof or education**  
-    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.[^78]
-- [ ] **Bank statements**  
-    It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
+- [ ] Language certificate
+- [ ] Integration course certificate
 
 ## After you get your [PR](/glossary/Niederlassungserlaubnis)
 
@@ -399,7 +385,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
 [^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
-[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024)
+[^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/1djlvnw/my_8_month_pr_experience/) (June 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
@@ -432,4 +418,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021)
 [^36]: Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^37]: Padcha (June 2024)
+[^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^52]: Citation needed
