@@ -13,7 +13,7 @@ If you're new in Germany, it's hard to know what the supermarkets, furniture sto
 
 - Aldi - Discount supermarket.
 - Bio Company - Bio supermarket
-- denn's Biomarkt - Bio supermarket
+- Denns Biomarkt - Bio supermarket
 - Edeka - Regular supermarket. Slightly higher prices.
 - Kaufland - Large supermarket
 - Lidl - Discount supermarket.

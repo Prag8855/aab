@@ -28,15 +28,15 @@ These businesses can open on Sundays:[^3]
 
 Those train station supermarkets open on Sundays:[^0]
 
-- [Friedrichstraße](https://goo.gl/maps/P897ukgBngY9SSVv8) (Mitte): [Edeka](https://goo.gl/maps/ya9LorGVAwUbLiQn9)
-- [Gesundbrunnen](https://goo.gl/maps/1ZHTFnXouwpTgpvT9) (Wedding): [Denn's Biomarkt](https://g.page/denns-s-bahnhof?share)
-- [Hauptbahnhof](https://goo.gl/maps/GhQgnFVGQ63frsMV9) (Mitte): [SPAR Express](https://goo.gl/maps/Yn2ewT3PS27GcLvu9) and [REWE City](https://goo.gl/maps/AFGc4tZ8hVSZFie29)
+- [Friedrichstraße](https://goo.gl/maps/P897ukgBngY9SSVv8) (Mitte): [Edeka](https://goo.gl/maps/ya9LorGVAwUbLiQn9), [go Asia](https://maps.app.goo.gl/DfbE9rkPrYnVyMfQ7) and [Vitalia](https://maps.app.goo.gl/QD4MpQVXKG5AduZJ8)
+- [Gesundbrunnen](https://goo.gl/maps/1ZHTFnXouwpTgpvT9) (Wedding): [Denns Biomarkt](https://g.page/denns-s-bahnhof?share)
+- [Hauptbahnhof](https://goo.gl/maps/GhQgnFVGQ63frsMV9) (Mitte): [REWE City](https://goo.gl/maps/AFGc4tZ8hVSZFie29) and [Denns Biomarkt](https://maps.app.goo.gl/hoKG6sKyknssvUwS8)
 - [Lichtenberg](https://goo.gl/maps/Bs15P78jwAxAmnYM9): [Edeka](https://goo.gl/maps/kRz1Ryj4MpESzeAo7)
 - [Ostbahnhof](https://goo.gl/maps/JevkYf3VbVWUP8wq7) (Friedrichshain): [REWE](https://goo.gl/maps/YRN5AhniErckRtQc7) and [Penny](https://goo.gl/maps/X6KDyzZQKfkxBkRZA)
-- [Ostkreuz](https://goo.gl/maps/cZwYf3byoQvgNMHPA) (Friedrichshain): [Denn's Biomarkt](https://goo.gl/maps/fGYmtoMxbaJgDi88A)
-- [Potsdamer Platz](https://goo.gl/maps/7ZFBsMzS1KGZchE36) (Mitte): Spar Express and [go asia](https://goo.gl/maps/UmKhL6oN58TjaK5s9)
+- [Ostkreuz](https://goo.gl/maps/cZwYf3byoQvgNMHPA) (Friedrichshain): [Denns Biomarkt](https://goo.gl/maps/fGYmtoMxbaJgDi88A)
+- [Potsdamer Platz](https://goo.gl/maps/7ZFBsMzS1KGZchE36) (Mitte): [SPAR Express](https://maps.app.goo.gl/TYdEf2rWPGz4fVEw6) and [go asia](https://goo.gl/maps/UmKhL6oN58TjaK5s9)
 - [Südkreuz](https://goo.gl/maps/4oQxTmyQGkdMGEYT6) (Schöneberg): [Edeka](https://goo.gl/maps/QT3kv7QwvvfdseQy7)
-- [Zoologischer Garten](https://goo.gl/maps/bAT6otC1fZFvyq5z7) (Charlottenburg): [Ullrich](https://goo.gl/maps/qFxfHAstAYaKTsTb6)
+- [Zoologischer Garten](https://goo.gl/maps/bAT6otC1fZFvyq5z7) (Charlottenburg): [Ullrich](https://goo.gl/maps/qFxfHAstAYaKTsTb6), [Denns Biomarkt](https://maps.app.goo.gl/KhLavqqEDgCYK3yL7) and [SPAR Express](https://maps.app.goo.gl/N2UpebxKJ86fSRuk7)
 
 On Sundays, these grocery stores are very busy. There is often a queue outside the store.
 
@@ -44,7 +44,7 @@ You can also buy food and drinks in *[Spätis](/glossary/Sp%C3%A4ti)* and petrol
 
 Grocery delivery services are closed on Sundays.[^1]
 
-### Apotheke, Rossmann and dm
+### Pharmacies and drug stores
 
 Those train station pharmacies and drug stores are open on Sundays:[^2]
 
@@ -56,9 +56,11 @@ Those train station pharmacies and drug stores are open on Sundays:[^2]
 - [Südkreuz](https://goo.gl/maps/4oQxTmyQGkdMGEYT6) (Schöneberg): [Apotheke](https://goo.gl/maps/pTLvmHzT2qkYVfCt6) and [dm](https://goo.gl/maps/GsFkUL9n5d8pm4ue6)
 - [Zoologischer Garten](https://goo.gl/maps/bAT6otC1fZFvyq5z7) (Charlottenburg): [Apotheke](https://goo.gl/maps/FZvZKC1aGyKwFeKv9)
 
+[Some other pharmacies](https://www.google.com/maps/search/pharmacy/@52.531136,13.3457693,12z/data=!4m6!2m5!5m3!20m2!2e7!3e1!6e2?entry=ttu) also open on Sundays.
+
 ### Restaurants, Spätis and flea markets
 
-Most restaurants are open on Sundays. Food delivery services also work.
+Most restaurants open on Sundays. Food delivery services also work.
 
 Most *[Spätis](/glossary/Sp%C3%A4ti)* open on Sundays.
 
