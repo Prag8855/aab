@@ -165,7 +165,11 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 ### Greece
 
-- [Grigorios Commatas](http://www.commatas.de/): Greek supermarket
+- [Grigorios Commatas](http://www.commatas.de/)
+
+### Italy
+
+- [Centro Italia](https://centro-italia.de/)
 
 ### Latin America
 
