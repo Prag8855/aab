@@ -124,14 +124,6 @@ Sometimes, they freeze your account by mistake. It happened to me, and to other 
 
 **Get a P-Konto** (*[[Pfändungsschutzkonto]]*). It lets you access some of your money when your account is frozen, so you can buy food and pay your bills. You can get a *P-Konto* for free, but it can affect your *[[Schufa]]* score.
 
-### The Finanzamt can freeze your account
-
-If you don't pay your taxes, the *[[Finanzamt]]* can freeze your bank accounts. They will freeze all of your accounts, not just your business account. They can also freeze your accounts in other EU countries.[^3] When the *Finanzamt* freezes your bank account, you can't withdraw money or make bank transfers.[^4]
-
-Sometimes, the *Finanzamt* can freeze your accounts by mistake. It happened to me, and to other people I know. Even if it's not your fault, it can take a few days to fix. During that time, you can't withdraw money.
-
-If you get a *Pfändungsschutzkonto* (*P-Konto*), you can access some of your money, even if your bank account is frozen.[^5] It gives you enough money to buy food and pay your bills.[^6] You can switch to a *P-Konto* for free,[^7] but it can affect your *[[Schufa]]* score.[^8]
-
 ### Find a tax advisor
 
 A tax advisor can [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
@@ -257,10 +249,6 @@ There are tools that make it easier:
 [^2]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/geschaeftskonto/)
 [^3]: [together.bunq.com](https://together.bunq.com/d/5116-deutsche-pf-ndbarkeit-auf-niederl-ndisches-konto/3)
 [^4]: [juraforum.de](https://www.juraforum.de/lexikon/kontosperrung)
-[^5]: [support.n26.com](https://support.n26.com/en-de/account-and-personal-details/ganrishment-insolvency-p-account/how-to-get-a-p-account), [auslandsueberweisung-guenstig.de](https://www.auslandsueberweisung-guenstig.de/ist-ein-konto-im-ausland-pfaendungssicher-alle-infos/)
-[^6]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944)
-[^7]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kredit-schulden-insolvenz/das-pkonto-als-schutz-vor-kontopfaendung-5944)
-[^8]: [schutzkonto.de](https://www.schutzkonto.de/news/vor-und-nachteile-des-p-kontos/#:~:text=mitteilung%20der%20bank%20an%20die%20schufa)
 [^9]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^11]: [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
