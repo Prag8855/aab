@@ -6,7 +6,7 @@ Description: Affordable legal assistance for apartment renters.
 Date_created: 2020-02-02
 Related_guides:
     guides/moving-in.md
-    guides/wenigermiete-review.md
+    guides/conny-review.md
     guides/mietendeckel-repealed.md
     guides/legal-insurance.md
     guides/housing-scams.md

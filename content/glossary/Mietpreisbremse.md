@@ -7,7 +7,7 @@ Date_created: 2020-07-29
 Related_guides:
     guides/find-a-flat-in-berlin.md
     guides/housing-scams.md
-    guides/wenigermiete-review.md
+    guides/conny-review.md
     guides/saving-money-germany.md
     guides/mietendeckel-repealed.md
 ---

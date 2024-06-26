@@ -7,7 +7,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/anmeldung-in-english-berlin.md
     guides/how-to-get-a-kitagutschein.md
-    guides/wenigermiete-review.md
+    guides/conny-review.md
 ---
 
 The power of attorney (*Vollmacht*) is a document that lets someone else act in your name. For example, you can sign a *Vollmacht* to let someone else [register your address](/glossary/Anmeldung) for you.

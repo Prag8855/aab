@@ -102,7 +102,7 @@ The *Mietpreisbremse* does not cover all apartments, and it can take a long time
 There are many ways to get your rent reduced with the *[[Mietpreisbremse]]*:
 
 - Your **tenants' association** (*[[Mieterverein]]*) can check your lease, and tell you if you pay too much rent. They can also help you ask for a rent reduction. You must be a member to use this service. It costs around 10€ per month.
-- **[Conny](/out/conny-mietpreisbremse)** specialises in reducing your rent with the *Mietpreisbremse*. You only pay if they are successful. I wrote a [review of this service](/guides/wenigermiete-review).
+- **[Conny](/out/conny-mietpreisbremse)** specialises in reducing your rent with the *Mietpreisbremse*. They are expensive, but you only pay if they are successful. I wrote a [review of this service](/guides/conny-review).
 - A **lawyer**. Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), you can get their advice for free. If you don't have legal insurance, this option can be very expensive, especially if you must go to court.
 
 ## Questions and answers

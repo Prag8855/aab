@@ -55,12 +55,12 @@ You can get help from these communities and services.
 
 - **Tenant associations** (*[[Mieterverein]]*)  
     A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 120€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English. 
-- **[Tenant counsel](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)** (*Mieterberatung*)  
-    There are [dozens of locations in Berlin](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php). You can contact them and ask questions. This is a free service from the city of Berlin. They might not speak English.
+- **[Tenant counsel](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/)** (*Mieterberatung*)  
+    This is a free service from the city of Berlin. They have [many branches](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/). You might need to go in person. They might not speak English.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
-    Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), you can get their advice for free. If not, a lawyer costs around 200€ per hour.
-    - [Conny](/out/conny-mietpreisbremse)  
-        A legal service that helps people lower their rent. They speak English.
+    Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), it might pay for your lawyer. If not, a lawyer costs around 200€ per hour.
+    - **[Conny](/out/conny-mietpreisbremse)**  
+        A legal service that helps people lower their rent. They speak English. Read my [review of Conny](/guides/conny-review).
 - **[Tenant counsel](https://dielinke.berlin/beratung) by Die Linke**  
     The political party *Die Linke* offers free legal advice for tenants (*Mieterberatung*) and help clinics (*Mietensprechstunde*). The sessions are in different neighbourhoods.
 
@@ -85,7 +85,7 @@ Don't be afraid to defend your rights. Your landlord can't kick you out or stop 
     - **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
         Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **Legaltech** (*Rechtsdienstleister*)  
-    Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/moving-in#lower-your-rent) and many other things. I reviewed them [here](/guides/wenigermiete-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
+    Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/moving-in#lower-your-rent) and many other things. I reviewed them [here](/guides/conny-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get.
 
 **If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local ](https://www.gerichtsverzeichnis.de/verzeichnis.php)*[Amtsgericht](https://www.gerichtsverzeichnis.de/verzeichnis.php)*.[^5] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^6] You will probably need to speak German.
 

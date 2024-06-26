@@ -107,7 +107,7 @@ The landlord only accepts self-employed tenants. Part of the apartment is a comm
 
 ### The rent is too high
 
-Berlin has [rent control laws](/glossary/Mietpreisbremse). Landlords can't charge what they want. If you sue your landlord to lower your rent, they can't kick you out. You pay less rent, but keep the apartment.
+Berlin has [rent control laws](/glossary/Mietpreisbremse). Landlords can't charge what they want. If you sue your landlord to lower your rent, they can't kick you out. You pay less rent, but keep the apartment. Services like [Conny](/guides/conny-review) can help you lower your rent.
 
 ### Eigenbedarf
 
@@ -183,7 +183,7 @@ Ask *[[Mieterverein]]* or a lawyer to verify your lease. [Red Tape Translation](
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
 
-If your rent is too high, [Conny](/out/conny-mietpreisbremse), a lawyer or a *[[Mieterverein]]* can help you lower it. Your landlord can't kick you out because you lowered your rent.
+If your rent is too high, a *[[Mieterverein]]*, [Conny](/out/conny-mietpreisbremse) or a lawyer can help you lower it. Your landlord can't kick you out because you lowered your rent.
 
 **[How to lower your rent ➞](/guides/moving-in#lower-your-rent)**
 
