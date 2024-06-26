@@ -17,12 +17,14 @@ Request it from the *[[Finanzamt]]*, online or in person. It costs {{ BESCHEINIG
 
 1. **Find your Finanzamt**  
     [Find your Finanzamt](https://www.elster.de/finanzamt), then [find its contact information](/out/finanzamt-finder).
-2. **Pay the application fee**  
-    Make a [bank transfer](/glossary/SEPA-Überweisung) of {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€ to the *Finanzamt*. Use the [Finanzamt's bank details](https://service.berlin.de/dienstleistung/326135/). In the payment message, include your [tax ID](/glossary/Steueridentifikationsnummer), your name and "Bescheinigung in Steuersachen".[^5]
+2. **Fill the [application form](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/informationen-fuer-steuerzahler-/steuerklassen/antrag-auf-erteilung-einer-bescheinigung-in-steuersachen-2016.pdf)**  
+    [Download the form](https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/informationen-fuer-steuerzahler-/steuerklassen/antrag-auf-erteilung-einer-bescheinigung-in-steuersachen-2016.pdf), fill it, print it and sign it.
 3. **Contact your Finanzamt**  
-    Email the *Finanzamt* in German. Ask for a *Bescheinigung in Steuersachen*. Attach a proof of your bank transfer.[^3] Use the letter generator below.
+    Email the *Finanzamt* in German. Use the letter generator below to write the message. Ask for a *Bescheinigung in Steuersachen*. Attach the signed application form and a proof of your bank transfer.[^3]
 4. **Wait**  
-    You will receive the document by post in 1 to 3 weeks.[^4]
+    You will get the document by post in 1 to 3 weeks.[^4] You might also get an invoice for the {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€ application fee.
+5. **Pay the application fee**  
+    Make a [bank transfer](/glossary/SEPA-Überweisung) of {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€ to the *Finanzamt*. Use the [Finanzamt's bank details](https://service.berlin.de/dienstleistung/326135/). In the payment message, include your [tax ID](/glossary/Steueridentifikationsnummer), your name and "Bescheinigung in Steuersachen".[^5]
 
 {% include "_blocks/bescheinigungInSteuersachen.html" %}
 
@@ -35,10 +37,10 @@ You can also get the document if you go to the *Finanzamt* in person. It's not f
 2. **Go to the Finanzamt**  
     Go to the Finanzamt without an appointment, and ask for a *Bescheinigung in Steuersachen*. Pay the {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€ fee.
 3. **Wait**  
-    You will receive the document by post in a few days. It can take up to 3 weeks.[^2]
+    You will get the document by post in a few days. It can take up to 3 weeks.[^2]
 
 [^1]: [Berlin.de](https://service.berlin.de/dienstleistung/324713/en/) (June 2024)
-[^2]: [Reddit](https://old.reddit.com/r/germany/comments/1bc8lkk/how_long_does_it_take_to_receive_a_bescheinigung/) (March 2024)
+[^2]: [Reddit](https://old.reddit.com/r/germany/comments/1bc8lkk/how_long_does_it_take_to_receive_a_bescheinigung/) (March 2024), Finanzamt call (June 2024)
 [^3]: [Berlin.de](https://service.berlin.de/dienstleistung/324713/en/) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1bc8lkk/how_long_does_it_take_to_receive_a_bescheinigung/) (March 2024)
 [^4]: Personal experience (2024), [Berlin.de](https://service.berlin.de/dienstleistung/324713/en/) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1bc8lkk/how_long_does_it_take_to_receive_a_bescheinigung/) (March 2024), [Red Tape Translation](https://redtapetranslation.com/bescheinigung-in-steuersachen/#:~:text=how%20long%20does%20it%20take%3F) (2024)
 [^5]: [Berlin.de](https://service.berlin.de/dienstleistung/326135/) (June 2024)
