@@ -53,8 +53,8 @@ Before you [look for apartments](#look-for-apartments), you must...
 - **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - [Wunderflats](/out/wunderflats) - They offer less protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
-- [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
 - [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution).
+- [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
 - [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible[^8]
 - [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible if you stay over 1 month
