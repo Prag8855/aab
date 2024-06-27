@@ -30,11 +30,14 @@ You can get help from these communities and services.
     They offer legal help about immigration. They answer in English, and many other languages. They answer a few days later.
 - **["Working and Living in Germany" hotline](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
     This phone hotline helps people move to Germany. They speak English.
-- [The Imagine Foundation](https://www.joinimagine.com/)  
+- **Facebook groups**  
+    The information on Facebook is often incorrect or misleading. Don't trust what you read.
+    - [Problems and challenges with the Ausländerbehörde](https://www.facebook.com/groups/226825394858771/)
+    - [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa)
+    - [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/)
+- **[/r/GermanCitizenship](https://old.reddit.com/r/GermanCitizenship/)** - Reddit community
+- **[The Imagine Foundation](https://www.joinimagine.com/)**  
     If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English.[^0]
-- [Problems and challenges with the Ausländerbehörde (Berlin)](https://www.facebook.com/groups/226825394858771/) - Facebook group for immigration advice.
-- [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa) - Facebook group
-- [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/) - Facebook group
 
 ### Paid help
 
