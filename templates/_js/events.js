@@ -9,10 +9,6 @@ function validateForm(formElement) {
 		}
 	});
 
-	if(formElement.querySelectorAll('.signature-input.empty[required]').length > 0){
-		formIsValid = false;
-	}
-
 	if(honeypotField && honeypotField.value){
 		formIsValid = false; // Rudimentary bot prevention
 	}
