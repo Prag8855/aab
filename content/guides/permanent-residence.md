@@ -193,7 +193,7 @@ You can...
 - or **get a private pension**  
     Your pension must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years.[^42]
 
-If you don't meet the pension requirement, you might still qualify for citizenship. German citizenship does not have a pension requirement.[^41]
+If you don't have a valid pension, you might still qualify for German citizenship. German citizenship does not have a pension requirement.[^41]
 
 ## Permanent residence alternatives
 
@@ -206,6 +206,8 @@ To become a German citizen, you must...[^43]
 - Support yourself and your family without social benefits
 - Take the citizenship test (*Einbürgerungstest*)
 - Not have a conviction for a criminal offence
+
+**If you are self-employed**, it might be easier to get citizenship, because there is no [pension requirement](#pension-requirements-for-the-pr).[^46]
 
 ## How to apply in Berlin
 
@@ -445,4 +447,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
+[^46]: [Reddit](https://old.reddit.com/r/GermanCitizenship/comments/1bl80qp/60_months_of_payment_into_pension_for_citizenship/) (2024)
 [^52]: Citation needed
