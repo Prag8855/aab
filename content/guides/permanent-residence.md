@@ -22,14 +22,14 @@ This guide explains how to apply for permanent residence (PR) in Berlin. The rul
 
 Permanent residence means **more stability**. It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
-- **You can do what you want**  
-    It's not tied to your income or occupation. It does not expire if you [lose your job](/guides/losing-your-job). You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
-- **You don't need to deal with the [[Ausländerbehörde]]**  
-    After you get your [PR](/glossary/Niederlassungserlaubnis), you don't need their permission to change jobs or do something else. You don't need to renew your permanent residence every 1-3 years.[^25]
+- **You can do anything you want**  
+    Your [PR](/glossary/Niederlassungserlaubnis) is not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*. It does not expire if you [lose your job](/guides/losing-your-job).
+- **You don't need the [[Ausländerbehörde]]**  
+    After you get your [PR](/glossary/Niederlassungserlaubnis), you never need to go to the *Ausländerbehörde* again. You don't need to renew your PR every 1-3 years like a residence permit.[^25]
 
 There are other benefits: it's easier to find an apartment or get a mortgage, and you can get [[BAFöG]] if you study.[^8]
 
-There is one small disadvantage: if you travel outside of Germany for more than 6 months, your [PR](/glossary/Niederlassungserlaubnis) expires. Other [residence permits](/glossary/Aufenthaltstitel) also expire after 6 months, but the [[Blue Card]] only expires after 12 months.[^20] For this, the Blue Card is a little better.
+There is **one small disadvantage**: if you travel outside of Germany for more than 6 months, your [PR](/glossary/Niederlassungserlaubnis) expires. Other [residence permits](/glossary/Aufenthaltstitel) also expire after 6 months, but the [[Blue Card]] only expires after 12 months.[^20] For this, the Blue Card is a little better.
 
 ## Permanent residence requirements
 
@@ -37,16 +37,15 @@ There are **many ways to qualify** for permanent residence. The requirements are
 
 ### If you have a [[Blue Card]]
 
-You must...
+To get a [PR](/glossary/Niederlassungserlaubnis), you must...
 
 - [ ] **Have a Blue Card for 21 to 27 months**  
     27 months if you speak A1 German, or 21 months if you speak B1 German.[^10] This includes the time with a [[National Visa]] before you converted it to a Blue Card.[^22]
 - [ ] **Speak A1 or B1 German**  
-    If you speak B1 German, you can get your PR faster.
-    - **A1** means that you know basic words and expressions, and very simple sentences for specific situations.
-    - **B1** means that you can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
+    - **A1** means that you know basic words and expressions, and very simple sentences for specific situations. You can get a PR after 27 months.
+    - **B1** means that you can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help. You can get a PR after 21 months.
 - [ ] **Support yourself**  
-    Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 27 months of pension insurance, or 21 months if you speak B1 German. When you are employed, you automatically pay pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
@@ -55,14 +54,14 @@ You must...
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
-You must...
+To get a [PR](/glossary/Niederlassungserlaubnis), you must...
 
 - [ ] **Have a work visa for 2 to 3 years**  
-    2 years if you graduated from a German university, or 3 years otherwise.[^11]
+    2 years if you graduated from a German university, or 3 years otherwise.[^11] You must have a §18a, §18b or §18d work visa.[^38] It's [written on your residence permit](/illustrations/freelance-visa-type.png).
 - [ ] **Speak B1 German**[^14]  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
-    Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you automatically pay pension insurance.
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
@@ -71,25 +70,22 @@ You must...
 
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
 
-You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It depends on the kind of freelance visa you have.[^6]
+You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It depends on the kind of freelance visa you have. It's [written on your residence permit.](/illustrations/freelance-visa-type.png)
 
-[Look on your residence permit.](/illustrations/freelance-visa-type.png) If it's written "§21 Abs. 1" or "§21 Abs. 2a" you must...
+**If it's written "§21 Abs. 1" or "§21 Abs. 2a"** you must...
 
-- [ ] **Have a freelance visa for 3 years**
+- [ ] **Have a freelance visa for 3 years**  
+    You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. You must have a "§21 Abs. 1" or "§21 Abs. 2a" freelance visa, not "§21 Abs. 5".[^6]
 - [ ] **Support yourself**  
-    Your freelance income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^40]
 - [ ] **Have valid [health insurance](/glossary/Krankenversicherung)**
     Public and private health insurance are accepted. [[Expat health insurance]] or travel insurance is not enough.
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
-- [ ] **Have a retirement pension**  
-    There are many ways to do this:
-    - **Have a public pension**  
-        Do you only need 36 months of pension contributions? Not sure.
-    - or have a private pension
-    - or have investments
 
-If it's written "§21 Abs. 5", you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
+Officially, there is no pension or language requirement, but the *Ausländerbehörde* might still ask for it.[^39]
+
+**If it's written "§21 Abs. 5"**, you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
 
 ### If you live with a German citizen
 
@@ -102,7 +98,7 @@ You must...[^27]
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
-    Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.[^16]
+    Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^16]
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
@@ -157,7 +153,7 @@ If other options don't apply to you, you must...
 - [ ] **Speak B1 German**[^14]  
     You can understand what people say when they talk in a simple language about certain topics.
 - [ ] **Support yourself**
-    Your income covers your cost of living. If you have children or an unemployed spouse, it also covers their cost of living.
+    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You or your spouse must have paid 5 years of pension insurance.[^26]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**
@@ -168,13 +164,9 @@ If other options don't apply to you, you must...
 
 **If your work contact ends in the next 6 months**, wait until you have a new contract before you apply.[^33]
 
-## Permanent residence alternatives
+### Pension requirement for the PR
 
-**You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked, and it doesn't expire if you leave Germany for a long time.
-
-### Pension
-
-You must have an adequate retirement pension.[^17] There are 3 ways to do this:
+To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
 - **Contribute to your public pension**  
     If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute.
@@ -188,6 +180,10 @@ You must have an adequate retirement pension.[^17] There are 3 ways to do this:
     This is where things get really unclear and complicated. It seems like having property qualifies you?
 
 Just having money in your bank account is not enough. They don't care if you have a million euros, because it could be gone by the time your retire.
+
+## Permanent residence alternatives
+
+**You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked, and it doesn't expire if you leave Germany for a long time.
 
 ## How to apply in Berlin
 
@@ -294,12 +290,15 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] and **proof of rent payments** (optional)
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
-    - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]
-        You can [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It will arrive by post in 1 to 3 weeks.[^36] If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
-- [ ] **Language certificate** or **integration course certificate** (optional in Berlin)  
-    This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
+    - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
+        [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks.[^36] If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
+
+In Berlin, these documents are optional, but they can help:
+
+- [ ] **Language certificate** or **integration course certificate**  
+    This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
 
 If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterngeld*, *Betreuungsgeld* and other social benefits, you must bring...
 
@@ -418,5 +417,8 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021)
 [^36]: Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^37]: Padcha (June 2024)
+[^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
+[^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
+[^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^52]: Citation needed
