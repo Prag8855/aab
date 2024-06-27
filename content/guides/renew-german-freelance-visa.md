@@ -231,6 +231,10 @@ If you have a freelance visa, you qualify for [permanent residence](/glossary/Ni
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
+If you plan to become a permanent resident, you should make voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. A private pension can also work.
+
+**[Pension requirements for the PR ➞](/guides/permanent-residence#pension-requirements-for-the-pr)**
+
 ## Need help?
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**

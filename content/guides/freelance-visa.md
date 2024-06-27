@@ -411,14 +411,6 @@ You can use your freelance visa to log into online government services. For exam
 
 **If you publish texts or run a website**, you should also join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
 
-### Renew your freelance visa
-
-Your freelance visa is valid for up to 3 years. You must renew it around 8 weeks before it expires.
-
-**[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
-
-You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 3 to 5 years.[^10]
-
 ### If you travel with a freelance visa
 
 Your freelance visa lets you visit other [[Schengen area]] countries without a visa.
@@ -428,6 +420,22 @@ With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel 
 ### Make a tax declaration
 
 Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+
+### Renew your freelance visa
+
+Your freelance visa is valid for up to 3 years. You must renew it around 8 weeks before it expires.
+
+**[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
+
+### Apply for permanent residence
+
+If you have a freelance visa, you qualify for [permanent residence](/glossary/Niederlassungserlaubnis) after 5 years. If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your freelance visa](/images/freelance-visa-germany-type.png), you qualify after 3 years.
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
+If you plan to become a permanent resident, you should make voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. A private pension can also work.
+
+**[Pension requirements for the PR ➞](/guides/permanent-residence#pension-requirements-for-the-pr)**
 
 ## Need help?
 
