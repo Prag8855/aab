@@ -24,7 +24,7 @@
 	);
 {% endjs %}
 
-<letter-generator class="bescheinigung-in-steueresachen-letter" track-as="Bescheinigung in Steuersachen letter" {% if static|default %}static{% endif %}>
+<letter-generator :printable="false" class="bescheinigung-in-steueresachen-letter" track-as="Bescheinigung in Steuersachen letter" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>Request for a Bescheinigung in Steuersachen</template>
 
@@ -50,20 +50,20 @@
 
 	<template v-slot:letter-body="{ language, stage }">
 		<p v-if="language === 'en'">
-			<strong>Subject: Request for a Bescheinigung in Steuersachen</strong>
+			<strong>Request for a Bescheinigung in Steuersachen</strong>
 		</p>
 		<p v-if="language === 'de'">
-			<strong>Betreff: Antrag auf Erteilung einer Bescheinigung in Steuersachen</strong>
+			<strong>Antrag auf Erteilung einer Bescheinigung in Steuersachen</strong>
 		</p>
 
 		<p v-if="language === 'en'">Dear Sir or Madam,</p>
 		<p v-if="language === 'de'">Sehr geehrte Damen und Herren,</p>
 
 		<p v-if="language === 'en'">
-			I am applying for the issuance of a Bescheinigung in Steursachen. The application is made for me personally.
+			I am applying for the issuance of a <em>Bescheinigung in Steursachen</em>. The application form is attached.
 		</p>
 		<p v-if="language === 'de'">
-			hiermit beantrage ich die Erteilung einer Bescheinigung in Steursachen. Die Antragstellung erfolgt für mich persönlich.
+			hiermit beantrage ich die Erteilung einer Bescheinigung in Steursachen. Das Antragsformular ist beigefügt.
 		</p>
 
 		<p v-if="language === 'en'">
@@ -156,7 +156,7 @@
 				<label class="checkbox">
 					<input type="checkbox" v-model="hasPaidFee">
 					<div>
-						I already transferred {% endraw %}{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€{% raw %} to the <em>Finanzamt</em><br>
+						I already transferred {% endraw %}{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€{% raw %} to the <em>Finanzamt</em>(optional)
 					</div>
 				</label>
 			</div>

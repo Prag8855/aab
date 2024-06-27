@@ -6,6 +6,10 @@ Vue.component('letter-generator', {
 	props: {
 		static: Boolean,
 		trackAs: String,
+		printable: {
+			type: Boolean,
+			default: true,
+		}
 	},
 	data() {
 		return {
@@ -85,22 +89,26 @@ Vue.component('letter-generator', {
 			<template v-if="stage === 'start'">
 				<hr>
 				<div class="buttons no-print">
-					<button class="button primary" @click="stage = 'edit'">
-						Customize and print <i class="icon right"></i>
+					<button class="button primary" @click="stage = 'edit'" >
+						{{ printable ? "Customize and print" : "Customize" }} <i class="icon right"></i>
 					</button>
 				</div>
 			</template>
 			<template v-if="stage === 'edit'">
-				<p>Fill the missing information to get a printable letter.</p>
+				<p v-if="printable">Fill the missing information to get a printable letter.</p>
+				<p v-if="!printable">Fill the missing information to get a message template.</p>
 				<hr>
 				<slot name="form" :language="language" :stage="stage"></slot>
 				<hr>
 				<div class="buttons no-print">
-					<button class="button" @click="stage = 'start'">
+					<button v-if="printable" class="button" @click="stage = 'start'">
 						<i class="icon left"></i> Back
 					</button>
-					<button class="button primary" @click="language = 'de'; stage = 'printPreview'">
+					<button v-if="printable" class="button primary" @click="language = 'de'; stage = 'printPreview'">
 						Preview and print <i class="icon right"></i>
+					</button>
+					<button v-if="!printable" class="button primary" @click="language = 'de'; stage = 'start'">
+						<i class="icon left"></i> Preview
 					</button>
 				</div>
 			</template>
