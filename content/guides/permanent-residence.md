@@ -25,7 +25,7 @@ Permanent residence means **more stability**. It's better than a [residence perm
 - **You can do anything you want**  
     Your [PR](/glossary/Niederlassungserlaubnis) is not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*. It does not expire if you [lose your job](/guides/losing-your-job).
 - **You don't need the [[Ausländerbehörde]]**  
-    After you get your [PR](/glossary/Niederlassungserlaubnis), you never need to go to the *Ausländerbehörde* again. You don't need to renew your PR every 1-3 years like a residence permit.[^25]
+    After you get your [PR](/glossary/Niederlassungserlaubnis), you never need to go to the *Ausländerbehörde* again. You don't need to renew your PR every 1-3 years like a residence permit.[^12]
 
 There are other benefits: it's easier to find an apartment or get a mortgage, and you can get [[BAFöG]] if you study.[^8]
 
@@ -58,8 +58,8 @@ To get a [PR](/glossary/Niederlassungserlaubnis), you must...
 
 - [ ] **Have a work visa for 2 to 3 years**  
     2 years if you graduated from a German university, or 3 years otherwise.[^11] You must have a §18a, §18b or §18d work visa.[^38] It's [written on your residence permit](/illustrations/freelance-visa-type.png).
-- [ ] **Speak B1 German**[^14]  
-    You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
+- [ ] **Speak B1 German**  
+    You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.[^14]
 - [ ] **Support yourself**  
     Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
@@ -78,7 +78,7 @@ You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It dep
     You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. You must have a "§21 Abs. 1" or "§21 Abs. 2a" freelance visa, not "§21 Abs. 5".[^6]
 - [ ] **Support yourself**  
     Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^40]
-- [ ] **Have valid [health insurance](/glossary/Krankenversicherung)**
+- [ ] **Have valid [health insurance](/glossary/Krankenversicherung)**  
     Public and private health insurance are accepted. [[Expat health insurance]] or travel insurance is not enough.
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
@@ -108,8 +108,8 @@ Spouses might need an integration course.[^37]
 
 You must...
 
-- [ ] **Live with your spouse for 3 to 5 years**[^28]  
-    5 years living with your spouse, or 3 years if you also work at least 20 hours per week.
+- [ ] **Live with your spouse for 3 to 5 years**  
+    5 years living with your spouse, or 3 years if you also work at least 20 hours per week.[^28]
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
@@ -141,8 +141,7 @@ There are more exceptions for...
 - Minors
 - Minors who became adults after entering Germany (§ 35 Abs. 1 S. 2 AufenthG)
 - Retirees
-- Former German citizens (§ 38 Abs. 1 S. 1
-AufenthG)
+- Former German citizens (§ 38 Abs. 1 S. 1 AufenthG)
 
 These exceptions are not covered in this guide. If they apply to you, get help from a professional.
 
@@ -150,9 +149,9 @@ If other options don't apply to you, you must...
 
 - [ ] **Live in Germany for 5 years**  
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis).
-- [ ] **Speak B1 German**[^14]  
-    You can understand what people say when they talk in a simple language about certain topics.
-- [ ] **Support yourself**
+- [ ] **Speak B1 German**  
+    You can understand what people say when they talk in a simple language about certain topics.[^14]
+- [ ] **Support yourself**  
     Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You or your spouse must have paid 5 years of pension insurance.[^26]
@@ -169,7 +168,7 @@ If other options don't apply to you, you must...
 To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
 - **Contribute to your public pension**  
-    If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute.
+    If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute, but you can make voluntary payments.[^25]
     - **If you are married**  
         If your spouse made 60 months of pension contributions, it's enough.[^18]
     - **Everyone else**  
@@ -180,6 +179,10 @@ To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways
     This is where things get really unclear and complicated. It seems like having property qualifies you?
 
 Just having money in your bank account is not enough. They don't care if you have a million euros, because it could be gone by the time your retire.
+
+Pensions from other countries also apply. Especially other EU countries.
+
+If you don't meet the pension requirement, you might still qualify for citizenship. German citizenship does not have a pension requirement.[^41]
 
 ## Permanent residence alternatives
 
@@ -222,25 +225,23 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 When you go to your appointment, bring...[^7]
 
 - [ ] **The [required documents](#required-documents)**  
-    Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
+    Bring all your application documents, even if you already sent them online. In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
 - [ ] **Updated documents**  
     The *Ausländerbehörde* might ask for more recent versions of your documents. For example, they might ask for updated proofs of employment and proofs of income.
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
+    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+- [ ] **Your family**  
+    If you apply as the spouse, parent or child of a German citizen, they must come with you to the appointment.[^30]
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
-
-If you apply as the spouse, parent or child of a German citizen, they must come with you to the appointment.[^30]
+    Many *Ausländerbehörde* employees only speak German. You can bring a translator or a German-speaking friend. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 In the email, they might ask for more documents. Sometimes, the process takes so long that they ask for an updated version of your documents.
 
-The appointment takes 15 to 60 minutes.[^4] You spend most of that time waiting.
-
-The *[[Ausländerbehörde]]* employee will ask you questions in German. It's just a simple conversation to see if you can speak German.[^1]
+The appointment takes 15 to 60 minutes.[^4] You spend most of that time waiting. The *[[Ausländerbehörde]]* employee might ask you questions in German, to see if you speak German.[^1]
 
 If they approve your permanent residence, they must print the plastic card. This takes a few weeks. You might get a temporary certificate while you wait.[^31] It allows you to stay in Germany, but it's not a valid travel document. It does not allow you to re-enter Germany.
 
@@ -283,11 +284,11 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.[^41]
+        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
-        Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it.[^1] Bring it even if you registered your address.[^43]
+        Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it.[^1] Bring it even if you registered your address.
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)
-    - [ ] and **proof of rent payments** (optional)
+    - [ ] and **proof of rent payments**  
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
     - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
@@ -312,7 +313,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 ### For self-employed people
 
 - [ ] **Proof of income**
-    - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)
+    - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)  
         If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*.
     - [ ] **[[Netto-Gewinnermittlung]]**  
         It shows your income. Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater).
@@ -339,7 +340,7 @@ If you have it, you should also bring...
 ### Required documents when you go in person
 
 - [ ] **Passport**  
-    You get your passport back during your appointment; they do not keep it.[^75]
+    You get your passport back during your appointment; they do not keep it.
 - [ ] **Appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without an appointment.
 - [ ] **Passport photo** (35 × 45 mm)  
@@ -391,10 +392,10 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
-[^12]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
-[^13]: [§9 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
+[^13]: .
 [^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
-[^15]: [§4a Abs. 1 FreizügG/EU](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4a.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/) (June 2024)
+[^15]: .
 [^16]: Citation needed
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024)
@@ -404,7 +405,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^22]: [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 11, 2022)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html)
 [^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023)
-[^25]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
+[^25]: [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/02_Pflicht-und-freiwillig-Versicherte/pflicht-und-freiwillig-versicherte_Inhalt_01_selbstaendig_und_pflichtversichert.html), [Sebastian Hoffmann](https://www.facebook.com/groups/berlinfreelancers/posts/2796580587088974/) (2020)
 [^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
@@ -421,4 +422,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
 [^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
+[^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
 [^52]: Citation needed
+[^41]: Citation needed
