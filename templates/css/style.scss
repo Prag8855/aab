@@ -608,7 +608,7 @@ body > header {
         }
     }
 
-    :is(.logo, .logo:visited, #sections > a, #sections > a:visited){
+    .logo, #sections > a, #sections > a:visited{
         @include header-link;
         display: block;
     }

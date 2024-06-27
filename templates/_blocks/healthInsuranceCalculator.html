@@ -562,7 +562,7 @@
 			</button>
 		</template>
 		<template v-slot:after-confirmation>
-			<div class="buttons left">
+			<div class="buttons">
 				<button class="button" @click="stage = 'start'">
 					<i class="icon left" aria-hidden="true"></i> Back to calculator
 				</button>
@@ -570,12 +570,12 @@
 		</template>
 	</health-insurance-question>
 
-	<div class="buttons left" v-if="stage === 'publicInsuranceOptions' || stage === 'privateInsuranceOptions'">
+	<div class="buttons" v-if="stage === 'publicInsuranceOptions' || stage === 'privateInsuranceOptions'">
 		<button class="button" @click="stage = 'insuranceOptions'">
 			<i class="icon left" aria-hidden="true"></i> Back to options
 		</button>
 	</div>
-	<div class="buttons left" v-if="stage === 'insuranceOptions'">
+	<div class="buttons" v-if="stage === 'insuranceOptions'">
 		<button class="button" @click="stage = 'start'" v-if="stage === 'insuranceOptions'">
 			<i class="icon left" aria-hidden="true"></i> Back to calculator
 		</button>
