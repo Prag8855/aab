@@ -203,8 +203,10 @@ config.google_tts_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'
 minimum_wage = 12.41
 beitragsbemessungsgrenze_west = 90600
 gkv_hoechstbeitrag_min_income = 62100
+geringfuegigkeitsgrenze = round(minimum_wage * 130 / 3)
 bezugsgroesse_west = 3535
 health_insurance_base_contrib = 14.6
+pension_insurance_base_contrib = 18.6
 health_insurance_min_pflegeversicherung = 2.4
 health_insurance_max_pflegeversicherung = 4
 health_insurance_min_zusatzbeitrag = 1
@@ -405,7 +407,7 @@ config.context_globals = {
     "AU_PAIR_MIN_ALLOWANCE": 280,
 
     # Below this income (€/mth), you have a minijob - § 8 SGB IV
-    "MINIJOB_MAX_INCOME": round(minimum_wage * 130 / 3),
+    "MINIJOB_MAX_INCOME": geringfuegigkeitsgrenze,
 
     # Below this income (€/mth), you have a midijob - §20 SGB IV
     "MIDIJOB_MAX_INCOME": 2000,
@@ -420,7 +422,8 @@ config.context_globals = {
 
     # Public pension contribution (%) - RVBeitrSBek 202X
     "RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION": 9.3,
-    "RENTENVERSICHERUNG_TOTAL_CONTRIBUTION": 18.6,
+    "RENTENVERSICHERUNG_TOTAL_CONTRIBUTION": pension_insurance_base_contrib,
+    "RENTENVERSICHERUNG_MIN_CONTRIBUTION": pension_insurance_base_contrib * geringfuegigkeitsgrenze / 100,
 
     # Minimum Vorsorgepauschale - §39b Abs. 2.3 EStG
     "VORSORGEPAUSCHAL_MIN": 1900,

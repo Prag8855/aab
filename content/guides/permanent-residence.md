@@ -163,7 +163,7 @@ If other options don't apply to you, you must...
 
 **If your work contact ends in the next 6 months**, wait until you have a new contract before you apply.[^33]
 
-### Pension requirement for the PR
+### Pension requirements for the PR
 
 To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
@@ -181,6 +181,17 @@ To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways
 Just having money in your bank account is not enough. They don't care if you have a million euros, because it could be gone by the time your retire.
 
 Pensions from other countries also apply. Especially other EU countries.
+
+**If you are self-employed**, pension contributions are the hardest requirement to meet. You must make 60 months of pension payments, but by default, you don't make pension payments.
+
+You can...
+
+- **Make voluntary public pension payments**  
+    You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions.
+- or **join the [[Künstlersozialkasse]]**  
+    If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
+- or **get a private pension**  
+    Your pension must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years.[^42]
 
 If you don't meet the pension requirement, you might still qualify for citizenship. German citizenship does not have a pension requirement.[^41]
 
@@ -237,7 +248,7 @@ When you go to your appointment, bring...[^7]
 - [ ] **Your family**  
     If you apply as the spouse, parent or child of a German citizen, they must come with you to the appointment.[^30]
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. You can bring a translator or a German-speaking friend. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+    You can bring a translator or a German-speaking friend. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 In the email, they might ask for more documents. Sometimes, the process takes so long that they ask for an updated version of your documents.
 
@@ -421,7 +432,8 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
 [^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^41]: Citation needed
+[^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
 [^52]: Citation needed
-[^41]: Citation needed
