@@ -26,10 +26,12 @@ Permanent residence means **more stability**. It's better than a [residence perm
     You don't need to renew it like a residence permit.[^12] It does not expire if you [lose your job](/guides/losing-your-job).
 - **It's flexible**  
     It's not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
-- **It's more trusted**
+- **It's more trusted**  
     It's easier to get a loan, get a mortgage, or find an apartment.[^8]
 
 There is **one small disadvantage**: if you travel outside of Germany for more than 6 months, your [PR](/glossary/Niederlassungserlaubnis) expires. Other [residence permits](/glossary/Aufenthaltstitel) also expire after 6 months, but the [[Blue Card]] only expires after 12 months.[^20] For this, the Blue Card is a little better.
+
+You might also [qualify for German citizenship](#citizenship). It's better than permanent residence.
 
 ## Permanent residence requirements
 
@@ -89,7 +91,7 @@ Officially, there is no pension or language requirement, but the *Ausländerbeh�
 
 ### If you live with a German citizen
 
-If you live with a spouse, parent or child who is a German citizen, you can get permanent residence in 3 years.
+If you live with a spouse, parent or child who is a German citizen, you can get permanent residence in 3 years. You can also [become a German citizen](#citizenship) after 3 years.
 
 To become a permanent resident, you must...[^27]
 
@@ -121,7 +123,7 @@ You can't apply for permanent residence.[^21] You can apply later when you get a
 
 Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis), but it's divided by half. For example, if you studied for 4 years, it counts as 2 years for your PR.[^9]
 
-If you lived in Germany for at least 5 years, you can still apply for German citizenship.
+If you lived in Germany for at least 5 years, you can [become a German citizen](#citizenship).
 
 ### If you are a refugee
 
@@ -138,19 +140,10 @@ Spouse's income can suffice?
 
 ### Everyone else
 
-There are more exceptions for...
-
-- Minors
-- Minors who became adults after entering Germany (§ 35 Abs. 1 S. 2 AufenthG)
-- Retirees
-- Former German citizens (§ 38 Abs. 1 S. 1 AufenthG)
-
-These exceptions are not covered in this guide. If they apply to you, get help from a professional.
-
-If other options don't apply to you, you must...
+To become a permanent resident, you must...
 
 - [ ] **Live in Germany for 5 years**  
-    Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis).
+    Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis). After 5 years in Germany, you can also [become a German citizen](#citizenship).
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics.[^14]
 - [ ] **Support yourself**  
@@ -195,21 +188,31 @@ You can...
 - or **get a private pension**  
     Your pension must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years.[^42]
 
-If you don't have a valid pension, you might still qualify for German citizenship. German citizenship does not have a pension requirement.[^41]
+If you don't have a valid pension, you can still [become a German citizen](#citizenship). Citizenship has no pension requirement.[^41]
 
 ## Permanent residence alternatives
 
-**You might qualify for German citizenship**, even if you can't get permanent residence. Citizenship is better because you get a German passport, you can work in other EU countries, you can vote in elections. Citizenship can't be revoked, and it doesn't expire if you leave Germany for a long time.
+### Citizenship
+
+**You might qualify for German citizenship**, even if you can't get permanent residence.
 
 To become a German citizen, you must...[^43]
 
-- Live in Germany for 5 years
-- Speak B1 German
-- Support yourself and your family without social benefits
-- Take the citizenship test (*Einbürgerungstest*)
-- Not have a conviction for a criminal offence
+- [ ] Live in Germany for 5 years, or 3 years if you have a German spouse[^47]
+- [ ] Speak B1 German[^48]
+- [ ] Support yourself and your family without social benefits
+- [ ] Take the citizenship test (*Einbürgerungstest*)
+- [ ] Not be convicted for a crime
 
-**If you are self-employed**, it might be easier to get citizenship, because there is no [pension requirement](#pension-requirements-for-the-pr).[^46]
+Citizenship is better than permanent residence because...
+
+- You get a German passport
+- You can live and work in other [EU](/glossary/European%20Union) countries
+- You can't lose your citizenship
+- Your citizenship does not expire if you leave Germany
+- You don't need a pension to qualify[^46]
+
+Permanent residence might be better if your country does not allow dual citizenship. China, India, Indonesia, Japan, Kazakhstan, Malaysia, Nepal, and Singapore don't allow dual citizenship.[^49] If you become a German citizen, you lose the citizenship of these countries.
 
 ## How to apply in Berlin
 
@@ -411,7 +414,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/1djlvnw/my_8_month_pr_experience/) (June 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
-[^8]: [Hamburg](https://www.hamburg.com/welcome/newcomers/study/11872974/financial-support/#:~:text=for%20example%2C%20persons%20with%20a%20permanent%20residence%20permit) (June 2024), [Leipzig](https://www.studentenwerk-leipzig.de/en/bafoeg-financing/bafog-international-students/#:~:text=Settlement%20permit) (June 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
+[^8]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
 [^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
@@ -450,4 +453,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
 [^46]: [Reddit](https://old.reddit.com/r/GermanCitizenship/comments/1bl80qp/60_months_of_payment_into_pension_for_citizenship/) (2024)
+[^47]: [§9 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__9.html)
+[^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
+[^49]: [Wikipedia](https://en.wikipedia.org/wiki/Multiple_citizenship#Multiple_citizenship_avoided) (June 2024)
 [^52]: Citation needed
