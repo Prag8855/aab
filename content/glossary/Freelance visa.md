@@ -15,6 +15,7 @@ Related_guides:
     guides/german-work-visa-to-freelance-visa.md
     guides/blue-card.md
     guides/work-visa.md
+    guides/permanent-residence.md
     guides/german-visa-health-insurance.md
 ---
 

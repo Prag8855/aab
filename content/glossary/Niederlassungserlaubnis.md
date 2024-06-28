@@ -8,6 +8,8 @@ Related_guides:
     guides/permanent-residence.md
     guides/residence-permit.md
     guides/find-a-job-in-berlin.md
+    guides/work-visa.md
+    guides/blue-card.md
     guides/freelance-visa.md
     guides/ksk-kuenstlersozialkasse.md
 ---
@@ -24,7 +26,7 @@ It's not as good as German citizenship because...[^1]
 
 - You can't vote in elections.
 - If you leave Germany for a long time, you lose it.
-- If you commit a serious crime, you can lose it.
+- You can still get deported.
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 

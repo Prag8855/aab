@@ -10,6 +10,8 @@ Related_guides:
     guides/moving-to-berlin.md
     guides/work-visa.md
     guides/blue-card.md
+    guides/freelance-visa.md
+    guides/permanent-residence.md
 ---
 
 The German student visa allows you to study in Germany. With a student visa, you can also work during your studies.[^1] The student visa is a type of [residence permit](/glossary/Aufenthaltstitel).

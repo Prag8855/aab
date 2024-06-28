@@ -22,12 +22,12 @@ This guide explains how to apply for permanent residence (PR) in Berlin. The rul
 
 Permanent residence means **more stability**. It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
-- **You can do anything you want**  
-    Your [PR](/glossary/Niederlassungserlaubnis) is not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*. It does not expire if you [lose your job](/guides/losing-your-job).
-- **You don't need the [[Ausländerbehörde]]**  
-    After you get your [PR](/glossary/Niederlassungserlaubnis), you never need to go to the *Ausländerbehörde* again. You don't need to renew your PR every 1-3 years like a residence permit.[^12]
-
-There are other benefits: it's easier to find an apartment or get a mortgage, and you can get [[BAFöG]] if you study.[^8]
+- **It's permanent**  
+    You don't need to renew it like a residence permit.[^12] It does not expire if you [lose your job](/guides/losing-your-job).
+- **It's flexible**  
+    It's not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
+- **It's more trusted**
+    It's easier to get a loan, get a mortgage, or find an apartment.[^8]
 
 There is **one small disadvantage**: if you travel outside of Germany for more than 6 months, your [PR](/glossary/Niederlassungserlaubnis) expires. Other [residence permits](/glossary/Aufenthaltstitel) also expire after 6 months, but the [[Blue Card]] only expires after 12 months.[^20] For this, the Blue Card is a little better.
 
@@ -37,7 +37,7 @@ There are **many ways to qualify** for permanent residence. The requirements are
 
 ### If you have a [[Blue Card]]
 
-To get a [PR](/glossary/Niederlassungserlaubnis), you must...
+To become a permanent resident, you must...
 
 - [ ] **Have a Blue Card for 21 to 27 months**  
     27 months if you speak A1 German, or 21 months if you speak B1 German.[^10] This includes the time with a [[National Visa]] before you converted it to a Blue Card.[^22]
@@ -54,7 +54,7 @@ To get a [PR](/glossary/Niederlassungserlaubnis), you must...
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
-To get a [PR](/glossary/Niederlassungserlaubnis), you must...
+To become a permanent resident, you must...
 
 - [ ] **Have a work visa for 2 to 3 years**  
     2 years if you graduated from a German university, or 3 years otherwise.[^11] You must have a §18a, §18b or §18d work visa.[^38] It's [written on your residence permit](/illustrations/freelance-visa-type.png).
@@ -91,7 +91,7 @@ Officially, there is no pension or language requirement, but the *Ausländerbeh�
 
 If you live with a spouse, parent or child who is a German citizen, you can get permanent residence in 3 years.
 
-You must...[^27]
+To become a permanent resident, you must...[^27]
 
 - [ ] **Have lived together for 3 years**  
     You must live together, in Germany, for 3 years without interruption.[^29]
@@ -106,7 +106,7 @@ Spouses might need an integration course.[^37]
 
 ### If your spouse has a Blue Card or a work visa
 
-You must...
+To become a permanent resident, you must...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
     5 years living with your spouse, or 3 years if you also work at least 20 hours per week.[^28]
@@ -117,9 +117,11 @@ Spouses might need an integration course.[^37]
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
-You can't apply for permanent residence.[^21] You can apply later when you get a different [residence permit](/glossary/Aufenthaltstitel) like a Blue Card, a work visa or a freelance visa.
+You can't apply for permanent residence.[^21] You can apply later when you get a different [residence permit](/glossary/Aufenthaltstitel) like a [[Blue Card]], a [work visa](/glossary/Work%20Visa) or a [freelance visa](/glossary/Freelance%20visa).
 
 Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis), but it's divided by half. For example, if you studied for 4 years, it counts as 2 years for your PR.[^9]
+
+If you lived in Germany for at least 5 years, you can still apply for German citizenship.
 
 ### If you are a refugee
 

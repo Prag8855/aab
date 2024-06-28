@@ -10,6 +10,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/blue-card.md
     guides/work-visa.md
+    guides/permanent-residence.md
     guides/renew-german-freelance-visa.md
 ---
 
