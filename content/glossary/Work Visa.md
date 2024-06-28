@@ -19,8 +19,15 @@ Related_guides:
     guides/german-work-visa-to-freelance-visa.m
 ---
 
-The German work visa (*Aufenthaltserlaubnis zur Aufnahme einer Beschäftigung*) is a type of [residence permit](/glossary/Aufenthaltstitel). It lets you live and work in Germany. It's also called a work permit.
+The German work visa (*Aufenthaltserlaubnis zur Aufnahme einer Beschäftigung*) is a type of [residence permit](/glossary/Aufenthaltstitel). It's also called a work permit.
 
-The work visa is similar to the [[Blue Card]], but the requirements are different.
+With a work visa, you can...
+
+- Live and work anywhere in Germany
+- Bring your family to Germany
+- Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 2 to 3 years
+
+The work visa is similar to a [[Blue Card]], but the requirements are different.
 
 **[How to apply for a work visa ➞](/guides/work-visa)**
