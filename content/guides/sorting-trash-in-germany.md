@@ -26,7 +26,7 @@ You find these bins in your apartment building:
 - ♻️ **[Glass recycling bins](/glossary/Altglascontainer)** (*Glasiglus*)  
     For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers.[^3] If your building has no glass recycling bins, [find them in your neighbourhood](https://www.berlin-recycling.de/service/standorte-glasiglus). There are 3 bin types:
     - 🟤 The *Braunglas* bin for brown glass
-    - 🟢 The *Grunglas* bin for green, red and blue glass[^4]
+    - 🟢 The *Grünglas* bin for green, red and blue glass[^4]
     - ⚪ The *Weißglas* bin for transparent glass
 
 ### Other types of recycling bins
