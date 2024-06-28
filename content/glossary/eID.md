@@ -4,6 +4,7 @@ German_term: eID
 English_term: eID
 Description: A function of German ID cards that lets you use online services.
 Date_created: 2024-06-19
+ssml: <say-as interpret-as="characters">eID</say-as>
 Related_guides:
     guides/eid-online-ausweisfunktion.md
 ---
