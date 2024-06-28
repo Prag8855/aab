@@ -11,4 +11,4 @@ Related_guides:
     guides/find-a-flat-in-berlin.md
 ---
 
-A bank account statement (*Kontoauszug*) shows how much money you have in your bank account. It also shows your recent transactions. It does not have a specific format. You can usually get it online from your bank. You can even use a screenshot of your bank account.
+A bank account statement (*Kontoauszug*) shows how much money you have in your bank account. It also shows your recent transactions. It has no specific format. You can usually get it online from your bank. You can even use a screenshot of your bank account.

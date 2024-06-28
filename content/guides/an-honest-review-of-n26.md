@@ -137,7 +137,7 @@ This was a problem when I opened my account in 2016. It might be solved now.
 
 If you lose access to your phone, you lose access to your bank account. To use the desktop website, you must confirm the login on your phone. To transfer money from the desktop website, you must confirm the transfer on your phone.
 
-If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 does not have a local branch. If this is a big problem for you, you should avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
+If your phone is lost or stolen, you can't pay the rent. Other banks have the same problem, but you can always go to a local branch. N26 has no local branch. If this is a big problem for you, avoid online banks and choose a bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
 
 ### It's hard to get rid of coins
 

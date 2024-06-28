@@ -24,7 +24,7 @@ You can deposit your coins at a deposit machine (*Einzahlautomat*). They are nex
 - **Sparkasse**   
     You can use the Sparkasse coin machines for free.[^3] [Search for Sparkasse branches](https://www.sparkasse.de/service/filialsuche.html) with an *Ein- und Auszahlungsautomat*. You also deposit coins at the counter for a 7.50€ fee.[^9] If you have a lot of coins, you might need many bags.[^4]
 
-If your bank does not have branches in Berlin, you can deposit coins at the Bundesbank.
+If your bank has no branch in Berlin, deposit coins at the Bundesbank.
 
 ## At the Bundesbank
 

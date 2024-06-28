@@ -158,7 +158,7 @@ Bring these documents to your visa interview. [The official list of documents](h
         - [ ] **and net profit determination** (*[[Netto-Gewinnermittlung]]*)  
             You must get this document from a tax advisor. It shows how much profit you have made. It can have different formats. It must be verified and stamped by a tax advisor (*[[Steuerberater]]*).
         - [ ] **and bank statement** (*[[Kontoauszug]]*)  
-            Your bank account statement must show that you have a regular source of income. It should also show your health insurance payments and your rent payments. You can request this document from your bank. It does not have a specific format.
+            Your bank account statement must show that you have a regular source of income. It should also show your health insurance payments and your rent payments. You can request this document from your bank. It has no specific format.
         - [ ] **and invoices** (*Abrechnungen*)  
             Bring invoices from your clients or customers. Those show how you make money as a freelancer. Bring all invoices, not just a sample. The invoices must be sorted by date.
         - [ ] **and contracts from your clients**  

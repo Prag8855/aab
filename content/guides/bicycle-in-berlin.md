@@ -130,7 +130,7 @@ Report the theft to the Berlin police. You can do it online. If your bicycle is 
 Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin Police sometimes controls bicycles.
 
 - [ ] **[Lights](https://www.amazon.de/s/ref=as_li_ss_tl?k=stvzo+fahrradbeleuchtung&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AZ7Q8F9D9AJ3&sprefix=stvzo+fahrrad,aps,215&ref=nb_sb_ss_i_1_13&linkCode=sl2&tag=nicolasboulia-21&linkId=9f73421a651437357fb9a83c139353ff&language=de_DE)** (*Scheinwerfer*)  
-    Your bicycle must have a white light in the front, and a red light in the back.[^5] Your light must be [StVZO-compliant](https://www.bikeradar.com/advice/buyers-guides/stvzo-bike-lights/). This means that it's designed to avoid blinding others. Blinking lights are not allowed.[^6] If your bicycle does not have lights, you can get a 20 to 35€ fine.[^7] You can get a fine even during the day.
+    Your bicycle must have a white light in the front, and a red light in the back.[^5] Your light must be [StVZO-compliant](https://www.bikeradar.com/advice/buyers-guides/stvzo-bike-lights/). This means that it's designed to avoid blinding others. Blinking lights are not allowed.[^6] If your bicycle has no lights, you can get a 20 to 35€ fine.[^7] You can get a fine even during the day.
     - [ ] **Headlight**  
         One white front light, powered by a battery or dynamo. StVZO-compliant. Must not blind other people.
     - [ ] **Rear light**  

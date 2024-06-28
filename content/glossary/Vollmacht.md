@@ -12,4 +12,4 @@ Related_guides:
 
 The power of attorney (*Vollmacht*) is a document that lets someone else act in your name. For example, you can sign a *Vollmacht* to let someone else [register your address](/glossary/Anmeldung) for you.
 
-A *Vollmacht* does not have a specific format. It's just a letter with your signature on it.
+A *Vollmacht* has no specific format. It's just a letter with your signature on it.
