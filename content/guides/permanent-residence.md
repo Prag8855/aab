@@ -255,7 +255,7 @@ When you go to your appointment, bring...
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Passport photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
+    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Your family**  
@@ -280,7 +280,7 @@ If they approve your permanent residence, they must print the plastic card. This
 1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
 2. **Your permanent residence card**  
-    2 to 6 weeks later, you receive your permanent residence card, or an invitation to collect it at the *Ausländerbehörde*.[^24] If you did not pay the fee, you must pay it during your *Ausländerbehörde* visit.[^33] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    Around 2 weeks later, you get your permanent residence card, or an invitation to collect it at the *Ausländerbehörde*.[^24] If you did not pay the fee, you must pay it during your *Ausländerbehörde* visit.[^33] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 Check if the information on your permanent residence card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
