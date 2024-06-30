@@ -33,6 +33,7 @@ You can get help from these communities and services.
 - **Facebook groups**  
     The information on Facebook is often incorrect or misleading. Don't trust what you read.
     - [Problems and challenges with the Ausländerbehörde](https://www.facebook.com/groups/226825394858771/)
+    - [Einbürgerung in Berlin](https://www.facebook.com/groups/1331414823711459/)
     - [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa)
     - [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/)
 - **[/r/GermanCitizenship](https://old.reddit.com/r/GermanCitizenship/)** - Reddit community

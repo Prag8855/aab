@@ -209,6 +209,8 @@ If you *currently* get *[[ALG I]]*, it can affect your [permanent residence](/gl
 
 If you got *ALG I* in the past, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
 
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
 ## What happens to your health insurance
 
 ### With public health insurance
