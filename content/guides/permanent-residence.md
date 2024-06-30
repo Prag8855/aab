@@ -234,7 +234,7 @@ The *Ausländerbehörde* will process your application. They might contact you m
 
 Sometimes, it takes so long that you must bring a more recent version of your documents.[^32]
 
-**In Berlin, it usually takes 5 to 10 months.**[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).
+**In Berlin, it usually takes 4 to 10 months.**[^5] It took me 9 months. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
 
 After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.[^34]
 

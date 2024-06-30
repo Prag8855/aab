@@ -362,6 +362,7 @@ config.context_globals = {
     # IMMIGRATION
     # ==============================================================================
 
+    # Time needed to receive the residence card after the LEA visit
     "RESIDENCE_PERMIT_WAIT_TIME": "4 to 8 weeks",
 
     # Minimum income (€/y) to get a Blue Card - §18g AufenthG
