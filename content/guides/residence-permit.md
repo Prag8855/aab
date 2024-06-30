@@ -52,16 +52,18 @@ If you don't have a job offer:
 - **[[Job seeker visa]]**  
     For people who want to look for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
 
-[Permanent residents](/glossary/Niederlassungserlaubnis) can have any job they want. They don't need permission.
+If you are a [permanent residents](/glossary/Niederlassungserlaubnis), you can have any job. You don't need permission from the *[[Ausländerbehörde]]*.
 
 ### Residence permits to start a business
 
 - **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/freelance-visa)  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
 
-The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] sometimes allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^10]
+The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] sometimes allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says *[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)* or *[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)*, you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^10]
 
 By default, the [student visa](/glossary/Student%20visa) does allow self-employment. You must get permission from the *[[Ausländerbehörde]]* first. They will update your student visa, and let you study and run a business at the same time. - [More information](/guides/freelance-visa)
+
+If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you can be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
@@ -71,6 +73,8 @@ By default, the [student visa](/glossary/Student%20visa) does allow self-employm
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies. You can work while you study.
 - **[[Internship visa]]**  
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
+
+If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you can study in Germany. You don't need permission from the *[[Ausländerbehörde]]*.
 
 ### Residence permits for your family
 
@@ -96,6 +100,8 @@ It's better if you apply in your home country. You can start working as soon as 
 
 **[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
 ## How to renew a residence permit
 
 Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must go to the *[[Ausländerbehörde]]* to renew it.
@@ -104,7 +110,7 @@ They will check if you still meet all the requirements. You might need to bring 
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-After a few years, you might qualify for German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship.
+After a few years, you might qualify for German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. These don't need to be renewed.
 
 ## Need help?
 
