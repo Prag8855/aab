@@ -10,7 +10,7 @@ If you lived in Germany for a few years, you can become a permanent resident.
 As a permanent resident, you can...
 
 - Live in Germany
-- Work, study and freelance
+- Work, study and freelance without the *[[Ausländerbehörde]]*'s permission
 - Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
@@ -28,8 +28,6 @@ Permanent residence means **more stability**. It's better than a [residence perm
     It's not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
 - **It's more trusted**  
     It's easier to get a loan, get a mortgage, or find an apartment.[^8]
-
-There is **one small disadvantage**: if you travel outside of Germany for more than 6 months, your [PR](/glossary/Niederlassungserlaubnis) expires. Other [residence permits](/glossary/Aufenthaltstitel) also expire after 6 months, but the [[Blue Card]] only expires after 12 months.[^20] For this, the Blue Card is a little better.
 
 You might also [qualify for German citizenship](#citizenship). It's better than permanent residence.
 
@@ -72,9 +70,9 @@ To become a permanent resident, you must...
 
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
 
-You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It depends on the kind of freelance visa you have. It's [written on your residence permit.](/illustrations/freelance-visa-type.png)
+It depends on the kind of freelance visa you have. [Look on your residence permit.](/illustrations/freelance-visa-type.png)
 
-**If it's written "§21 Abs. 1" or "§21 Abs. 2a"** you must...
+If it says "§21 Abs. 1" or "§21 Abs. 2a" you must...
 
 - [ ] **Have a freelance visa for 3 years**  
     You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. You must have a "§21 Abs. 1" or "§21 Abs. 2a" freelance visa, not "§21 Abs. 5".[^6]
@@ -87,11 +85,11 @@ You can get a [PR](/glossary/Niederlassungserlaubnis) after 3 to 5 years. It dep
 
 Officially, there is no pension or language requirement, but the *Ausländerbehörde* might still ask for it.[^39]
 
-**If it's written "§21 Abs. 5"**, you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
+If it says "§21 Abs. 5", you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
 
 ### If you live with a German citizen
 
-If you live with a spouse, parent or child who is a German citizen, you can get permanent residence in 3 years. You can also [become a German citizen](#citizenship) after 3 years.
+If you are the spouse, parent or child of a German citizen, you can become a permanent resident in 3 years. You can also [become a German citizen](#citizenship) in 3 years.
 
 To become a permanent resident, you must...[^27]
 
@@ -100,7 +98,7 @@ To become a permanent resident, you must...[^27]
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Support yourself**  
-    Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^16]
+    Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living. *[[Bürgergeld]]* and *Grundsicherung* do not count as income.[^16]
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
@@ -119,11 +117,9 @@ Spouses might need an integration course.[^37]
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
-You can't apply for permanent residence.[^21] You can apply later when you get a different [residence permit](/glossary/Aufenthaltstitel) like a [[Blue Card]], a [work visa](/glossary/Work%20Visa) or a [freelance visa](/glossary/Freelance%20visa).
+You can't become a permanent resident yet.[^21] You can apply later, when you get a different [residence permit](/glossary/Aufenthaltstitel) like a [[Blue Card]], a [work visa](/glossary/Work%20Visa) or a [freelance visa](/glossary/Freelance%20visa). You can also [become a German citizen](#citizenship) instead.
 
 Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis), but it's divided by half. For example, if you studied for 4 years, it counts as 2 years for your PR.[^9]
-
-If you lived in Germany for at least 5 years, you can [become a German citizen](#citizenship).
 
 ### If you are a refugee
 
@@ -154,9 +150,9 @@ To become a permanent resident, you must...
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
-**If you are currently unemployed**, you *might* get a [PR](/glossary/Niederlassungserlaubnis) anyway, [find a job](/guides/find-a-job-in-berlin) before you apply for permanent residence. *[[Bürgergeld]]* does not count as a source of income.[^7]
+**If you are currently unemployed**, you probably won't get a [PR](/glossary/Niederlassungserlaubnis). Apply after you [find a job](/guides/find-a-job-in-berlin).
 
-**If your work contact ends in the next 6 months**, wait until you have a new contract before you apply.[^33]
+**If you are in your [probation period](/glossary/Probezeit)**, you might not get a PR. If you can, apply after your probation period ends.[^41]
 
 ### Pension requirements for the PR
 
@@ -188,7 +184,7 @@ You can...
 - or **get a private pension**  
     Your pension must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years.[^42]
 
-If you don't have a valid pension, you can still [become a German citizen](#citizenship). Citizenship has no pension requirement.[^41]
+If you don't have a valid pension, you can still [become a German citizen](#citizenship). Citizenship has no pension requirement.
 
 ## Permanent residence alternatives
 
@@ -248,7 +244,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while yo
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
 
-When you go to your appointment, bring...[^7]
+When you go to your appointment, bring...
 
 - [ ] **The [required documents](#required-documents)**  
     Bring all your application documents, even if you already sent them online. In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
@@ -265,9 +261,9 @@ When you go to your appointment, bring...[^7]
 - [ ] **A translator** (optional)  
     You can bring a translator or a German-speaking friend. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
-In the email, they might ask for more documents. Sometimes, the process takes so long that they ask for an updated version of your documents.
+In the email, they might ask for more documents. If you wait a really long time for an appointment, they might ask for more recent documents.[^32]
 
-The appointment takes 15 to 60 minutes.[^4] You spend most of that time waiting. The *[[Ausländerbehörde]]* employee might ask you questions in German, to see if you speak German.[^1]
+The appointment takes 15 to 60 minutes.[^4] You spend most of that time waiting. The *[[Ausländerbehörde]]* employee might ask you questions in German, to see if you speak German. Be ready to answer questions about your height and your eye colour.[^1]
 
 If they approve your permanent residence, they must print the plastic card. This takes a few weeks. You might get a temporary certificate while you wait.[^31] It allows you to stay in Germany, but it's not a valid travel document. It does not allow you to re-enter Germany.
 
@@ -282,7 +278,7 @@ If they approve your permanent residence, they must print the plastic card. This
 1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
 2. **Your permanent residence card**  
-    Around 2 weeks later, you receive your permanent residence card, or an invitation to collect it at the *Ausländerbehörde*.[^24] If you did not pay the fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    2 to 6 weeks later, you receive your permanent residence card, or an invitation to collect it at the *Ausländerbehörde*.[^24] If you did not pay the fee, you must pay it during your *Ausländerbehörde* visit.[^33] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 Check if the information on your permanent residence card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -318,9 +314,9 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
     - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
-        [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks.[^36] If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
+        [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks. If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
 - [ ] **Translations**  
-    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
+    If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
 In Berlin, these documents are optional, but they can help:
 
@@ -333,6 +329,8 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
     Bring certificates and other documents that prove that you receive those social benefits.
 
 ### For people with a Blue Card
+
+- [ ] Pay slips[^15]
 
 **[Full requirements for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
 
@@ -370,7 +368,7 @@ If you have it, you should also bring...
 - [ ] **Appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without an appointment.
 - [ ] **Passport photo** (35 × 45 mm)  
-    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
+    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
@@ -387,11 +385,11 @@ You can use your permanent residence card to log into online government services
 
 **[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
 
-### If you travel as a permanent resident
+### Travel as a permanent resident
 
 Your [PR](/glossary/Niederlassungserlaubnis) lets you visit other [[Schengen area]] countries without a visa.
 
-With a PR, you can leave Germany for up to 6 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+If you leave Germany for more than 6 months, your PR expires.[^23] If you have a EU PR, it expires after 12 months.[^13] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
 ### Make a tax declaration
 
@@ -407,47 +405,44 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
-[^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024)
+[^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hfzktnz/) (2023)
 [^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
-[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023)
+[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6r3nh7/) (2023)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/1djlvnw/my_8_month_pr_experience/) (June 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
-[^7]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20durfen%20keine%20offentlichen%20leistungen%20von%20einem%20jobcenter) (June 2024)
 [^8]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
 [^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
-[^13]: .
+[^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
-[^15]: .
-[^16]: Citation needed
+[^15]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/en/#:~:text=the%20last%206-,months,-Lease%20or%20proof) (June 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023)
+[^16]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein)
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024)
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
-[^20]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (June 2024)
 [^22]: [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 11, 2022)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html)
-[^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023)
+[^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/helc3kp/) (2021), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/) (2023)
 [^25]: [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/02_Pflicht-und-freiwillig-Versicherte/pflicht-und-freiwillig-versicherte_Inhalt_01_selbstaendig_und_pflichtversichert.html), [Sebastian Hoffmann](https://www.facebook.com/groups/berlinfreelancers/posts/2796580587088974/) (2020)
 [^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=appointment%20is%20required-,Your%20German%20family%20member,rights%20must%20be%20submitted.,-Proof%20of%20Income) (June 2024)
-[^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (September 2023)
-[^32]: Citation needed
-[^33]: Citation needed
+[^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6nyx2m/) (2023)
+[^32]: Personal experience (2024)
+[^33]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=super%20smooth%20and-,at%20the%20end%20i%20paid,-113%20euros.%20I) (2023)
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021)
-[^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021)
-[^36]: Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
+[^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^37]: Padcha (June 2024)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
 [^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
-[^41]: Citation needed
+[^41]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
@@ -456,4 +451,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^47]: [§9 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__9.html)
 [^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
 [^49]: [Wikipedia](https://en.wikipedia.org/wiki/Multiple_citizenship#Multiple_citizenship_avoided) (June 2024)
-[^52]: Citation needed
+[^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024)

@@ -190,7 +190,7 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
 2. **Your Blue Card**  
-    Around 2 weeks later, you receive your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
+    2 to 6 weeks later, you receive your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
