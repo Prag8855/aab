@@ -15,7 +15,7 @@ Before you start, learn [how banking works in Germany](/guides/banking). It help
 
 ## German banks for expats
 
-When you open your first bank account, choose an expat-friendly bank like [N26](/out/n26), [bunq](/out/bunq), [Revolut](/out/revolut), [Wise](/out/wise), [Monese](/out/monese), [Tomorrow](/out/tomorrow) or [Vivid](/out/vivid).
+When you open your first bank account, choose an expat-friendly bank like [N26](/out/n26), [bunq](/out/bunq), [Wise](/out/wise), [Monese](/out/monese), [Tomorrow](/out/tomorrow), [Vivid](/out/vivid) and [Revolut](/out/revolut).
 
 An expat-friendly bank...
 
@@ -40,13 +40,13 @@ They are a **good alternative to N26**. They're more expensive, but they [accept
 
 The free account is a little limited. The paid accounts have free ATM withdrawals. If you pay more, you get a German [[IBAN]].
 
-### [Revolut](/out/revolut) and [Wise](/out/wise-account)
+### [Wise](/out/wise-account) and Revolut
 
-Revolut and Wise are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
+Wise and Revolut are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
 The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN. This is [not a big problem](#banks-in-other-eu-countries).
 
-Revolut speaks English and German. Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
+Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian. Revolut speaks English and German.
 
 ### Banks that are not expat-friendly
 
@@ -59,7 +59,7 @@ These banks are **not expat-friendly**:
 - **[Commerzbank](/out/commerzbank)**  
     It takes too long to open an account.[^9] You need a [registration certificate](/glossary/Anmeldebestätigung) and a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6] Basic online banking is in English, everything else is in German.
 - **[C24](/out/c24)**  
-    It's an excellent bank, but they [accept fewer passports](https://go.idnow.de/bafin2017/documents) and might require a residence permit.[^1] They only speak German.
+    It's an excellent bank, but they [accept fewer passports](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen) and might require a residence permit.[^1] They only speak German. They don't accept US citizens.[^5]
 - **[ING](/out/ing)**  
     It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^15] They only speak German.
 - **[DKB](/out/dkb)**  
@@ -95,8 +95,8 @@ These banks offer a **free bank account** with no monthly fees:
     The best free bank account if you don't speak German. It covers all your basic banking needs.
 - **[bunq](/out/bunq)**  
     The free account is very limited: no free ATM withdrawals, no payment card, and no German [[IBAN]]. The paid accounts make more sense.
-- **[Revolut](/out/revolut)**
 - **[Wise](/out/wise)**
+- **[Revolut](/out/revolut)**
 
 These banks have no monthly fee **if you deposit at least 700€ per month**:
 
@@ -132,9 +132,9 @@ These banks let you **use any ATM in Germany for free**:
 - **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
 - **[C24](/out/c24)** - 4 free withdrawals per month.
 - **[N26](/out/n26)** - 3 free withdrawals per month, then 2€ per withdrawal.
+- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Use Cash Group ATMs for free (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
 - **[Wise](/out/wise-account)** - Withdraw up to 200€ per month for free.
 - **[Revolut](/out/revolut)** - Withdraw up to 200€ per month for free.
-- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Use Cash Group ATMs for free (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
 
 These banks only let you **use some ATMs for free**. You might need to walk another 10 minutes to find a free ATM. I don't recommend them.
 
@@ -196,11 +196,11 @@ Deutsche Bank stopped offering blocked accounts.[^42]
 
 ## Which bank should I choose?
 
-**The best banks for foreigners** are [N26](/out/n26) and [bunq](/out/bunq). I use N26 since 2016, and [I recommend them](/guides/an-honest-review-of-n26). [Revolut](/out/revolut) and [Wise](/out/wise-account) are also good options, but they have a low free withdrawal limit, and no German [[IBAN]].
+**The best banks for foreigners** are [N26](/out/n26) and [bunq](/out/bunq). I use N26 since 2016, and [I recommend them](/guides/an-honest-review-of-n26). [Wise](/out/wise-account) is also a good option, but they have a low free withdrawal limit, and no German [[IBAN]].
 
 None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is a really good option, but they only speak German.
 
-**If you can't open an account anywhere**, [Revolut](/out/revolut) or [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse is the best option.[^2]
+**If you can't open an account anywhere**, [Wise](/out/wise-account) and [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse is the best option.[^2]
 
 **The best German-speaking bank** is [C24](/out/c24). [DKB](/out/dkb) and [ING](/out/ing) are also great, but they don't accept recent immigrants.
 
@@ -208,6 +208,7 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399), [6](https://twitter.com/DeusFoxy/status/1752302987295269173)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
+[^5]: [C24.de](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen), [Reddit](https://old.reddit.com/r/askberliners/comments/1du9jbf/any_suggestions_for_banks_for_expats/lbf1x21/) (June 2024)
 [^6]: [Twitter](https://twitter.com/rednafi/status/1775817482265092341) (2024), [Screenshot](/images/commerzbank-aufenthaltstitel-2022-03-14.png) (2022), [Twitter](https://twitter.com/jecfish/status/1602254120261410818), [Twitter](https://twitter.com/Cankatzkan/status/1587370017066213376) (2022)
 [^7]: [Reddit](https://old.reddit.com/r/germany/comments/pp850v/any_n26_alternatives/hd24svl/)
 [^8]: [European Banking Authority](https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/depositor-protection/deposit-guarantee-schemes) (2024)
