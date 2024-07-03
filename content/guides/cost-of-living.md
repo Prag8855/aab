@@ -66,9 +66,9 @@ You get a TV tax invoice by post every 3 months. You can pay it manually with a 
 
 ## Food
 
-**Cost:** around 250€ per month
+**Cost:** around 200€ per month
 
-If you only eat at home, you should pay around 250€ per month for groceries. If you eat out, you will spend a lot more.
+If you only eat at home, you should pay around 200€ per month for groceries. If you eat out, you will spend a lot more.
 
 **[Cost of food and restaurants in Berlin](https://www.numbeo.com/cost-of-living/in/Berlin)** - numbeo
 
@@ -76,7 +76,7 @@ If you only eat at home, you should pay around 250€ per month for groceries. I
 
 ### Public transit
 
-**Cost (Berlin):** 44€ to 86€ per month (monthly pass), or {{ BVG_AB_TICKET }}€ per ride
+**Cost (Berlin):** 42€ to 99€ per month (monthly pass), or {{ BVG_AB_TICKET }}€ per ride
 
 ### Vehicles
 
@@ -130,7 +130,7 @@ The dog tax is 120€ to 180€ per year. Dog liability insurance is required, a
 
 **Who pays it:** People who rent an apartment
 
-**Cost:** around 3 times your [cold rent (*Kaltmiete*)](/glossary/Kaltmiete)
+**Cost:** 3 times your [cold rent (*Kaltmiete*)](/glossary/Kaltmiete)
 
 When you [move into an apartment](/guides/moving-in), you must pay a deposit (*[[Kaution]]*). You can't touch that money until you [move out](/guides/moving-out).
 
