@@ -14,20 +14,18 @@ As a permanent resident, you can...
 - Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
-This guide explains how to apply for permanent residence (PR) in Berlin. The rules can be different in other cities.
-
 {% include "_blocks/tableOfContents.html" %}
 
-## Why you should get permanent residence
+## Why become a permanent resident
 
 Permanent residence means **more stability**. It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
 - **It's permanent**  
-    You don't need to renew it like a residence permit.[^12] It does not expire if you [lose your job](/guides/losing-your-job).
+    You don't need to renew it like a residence permit.[^12] It does not expire if you [lose your job](/guides/losing-your-job). It only expires if you [travel outside of Germany](#travel-as-a-permanent-resident) for a long time, or if you get deported.
 - **It's flexible**  
-    It's not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *Ausländerbehörde*.
-- **It's more trusted**  
-    It's easier to get a loan, get a mortgage, or find an apartment.[^8]
+    It's not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *[[Ausländerbehörde]]*.
+- **It's trusted**  
+    It's easier to get a loan, get a mortgage, or find an apartment when you are a permanent resident.[^8]
 
 You might also [qualify for German citizenship](#citizenship). It's better than permanent residence.
 
