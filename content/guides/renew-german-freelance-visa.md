@@ -233,7 +233,7 @@ If you have a freelance visa, you qualify for [permanent residence](/glossary/Ni
 
 If you plan to become a permanent resident, you should make voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. A private pension can also work.
 
-**[Pension requirements for the PR ➞](/guides/permanent-residence#pension-requirements-for-the-pr)**
+**[Pension requirements for the PR ➞](/guides/permanent-residence#pension-requirements)**
 
 ## Need help?
 
@@ -248,7 +248,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/327144/standort/326311/)
 [^8]: [berlin.de](https://service.berlin.de/dienstleistung/324713/)
-[^9]: [berlin.de](https://service.berlin.de/dienstleistung/324288/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/)
+[^9]: [berlin.de](https://service.berlin.de/dienstleistung/324288/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/), [VAB 21.5](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lciddy/my_ausl%C3%A4nderbeh%C3%B6rde_adventure_part_1/)
 [^11]: [stb-franke.de](https://www.stb-franke.de/steuerbuero-berlin-steuerberater/pruefungsbericht-auslaenderbehoerde.html)
 [^12]: [berlin.de](https://service.berlin.de/dienstleistung/324288/)

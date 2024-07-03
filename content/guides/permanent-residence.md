@@ -31,112 +31,107 @@ You might also [qualify for German citizenship](#citizenship). It's better than 
 
 ## Permanent residence requirements
 
-There are **many ways to qualify** for permanent residence. The requirements are different for everyone.
+### Basic requirements
 
-**If you are in your [probation period](/glossary/Probezeit)**, you might get a PR, but it's not guaranteed. If you can, apply after your probation period ends.[^41] It's okay to change jobs after you send your application.[^20]
+To become a permanent resident, you must also...
 
-**If you are currently unemployed**, you probably won't get a [PR](/glossary/Niederlassungserlaubnis). If you can, apply after you [find a job](/guides/find-a-job-in-berlin). If you have a good chance of finding another job, you might get the PR anyway.[^50]
+- [ ] **Support yourself**  
+    Your income or your spouse's income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^40] Social benefits do not count as income.[^16]
+- [ ] **Have a place to live**  
+    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family. You need 10 to 13 m^2^ per person.[^51]
+- [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
+    You need public or private health insurance. Public and private health insurance are accepted. [[Expat health insurance]] and travel insurance are not accepted.[^53]
 
-**If your work contract ends soon**, you might not get a PR. People often get rejected if their contract ends in less than 6 months.[^36]
+There are more requirements. The requirements depend on your situation.
+
 
 ### If you have a [[Blue Card]]
 
-To become a permanent resident, you must...
+To become a permanent resident, you must also...
 
+- [ ] **Have a job**  
+    If you are unemployed, or if your contract ends in under 6 months, you probably won't get a PR.[^36] Sometimes, they also reject people in their [probation period](/glossary/Probezeit).[^50]
 - [ ] **Have a Blue Card for 21 to 27 months**  
-    27 months if you speak A1 German, or 21 months if you speak B1 German.[^10] This includes the time with a [[National Visa]] before you converted it to a Blue Card.[^22]
+    27 months if you speak A1 German, or 21 months if you speak B1 German.[^10] It also includes time that you work under Blue Card conditions, even if you did not have a Blue Card.[^41]
 - [ ] **Speak A1 or B1 German**  
     - **A1** means that you know basic words and expressions, and very simple sentences for specific situations. You can get a PR after 27 months.
     - **B1** means that you can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help. You can get a PR after 21 months.
-- [ ] **Support yourself**  
-    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    You must pay 27 months of pension insurance, or 21 months if you speak B1 German. When you are employed, you automatically pay pension insurance.
-- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
+    You must pay 27 months of public pension insurance, or 21 months if you speak B1 German. When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
-To become a permanent resident, you must...
+If you have a §18a, §18b or §18d work visa, you can get a PR faster.[^38] The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
 
-- [ ] **Have a work visa for 2 to 3 years**  
-    2 years if you graduated from a German university, or 3 years otherwise.[^11] You must have a §18a, §18b or §18d work visa.[^38] It's [written on your residence permit](/illustrations/freelance-visa-type.png).
+To become a permanent resident, you must also...
+
+- [ ] **Work for 2 to 3 years**  
+    2 years if you graduated from a German university, or 3 years otherwise.[^11] It also includes time that you work as a skilled worker, even if you did not have a work visa.[^41]
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.[^14]
-- [ ] **Support yourself**  
-    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you automatically pay pension insurance.
-- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
+    You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
 
-It depends on the kind of freelance visa you have. [Look on your residence permit.](/illustrations/freelance-visa-type.png)
+To become a permanent resident, you must also...
 
-If it says "§21 Abs. 1" or "§21 Abs. 2a" you must...
-
+- [ ] **Have a "§21 Abs. 1" or "§21 Abs. 2a" freelance visa**[^6]  
+    The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for everybody else](#everybody-else).
 - [ ] **Have a freelance visa for 3 years**  
-    You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. You must have a "§21 Abs. 1" or "§21 Abs. 2a" freelance visa, not "§21 Abs. 5".[^6]
+    In Berlin, it's okay if you had different businesses during that time. Your latest business must be successful and profitable.[^26]
+- [ ] **Have a profitable business**  
+    You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
 - [ ] **Support yourself**  
-    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^40]
-- [ ] **Have valid [health insurance](/glossary/Krankenversicherung)**  
-    Public and private health insurance are accepted. [[Expat health insurance]] or travel insurance is not enough.
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
+    In Berlin, they only check your own income from self-employment. Income from investments, from social benefits or from your spouse does not count.[^22]
 
-Officially, there is no pension or language requirement, but the *Ausländerbehörde* might still ask for it.[^39]
-
-If it says "§21 Abs. 5", you must wait 5 years like everybody else. See the [requirements for everybody else](#everybody-else).
+In Berlin, there should be no pension or language requirement.[^39]
 
 ### If you live with a German citizen
 
-If you are the spouse, parent or child of a German citizen, you can become a permanent resident in 3 years. You can also [become a German citizen](#citizenship) in 3 years.
+To become a permanent resident, you must also...[^27]
 
-To become a permanent resident, you must...[^27]
-
-- [ ] **Have lived together for 3 years**  
+- [ ] **Have a German spouse, child or parent**
+- [ ] **Live together for 3 years**  
     You must live together, in Germany, for 3 years without interruption.[^29]
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
-- [ ] **Support yourself**  
-    Your income or your spouse's income covers your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living. *[[Bürgergeld]]* and *Grundsicherung* do not count as income.[^16]
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
-Spouses might need an integration course.[^37]
+There is no pension requirement.[^56] You can also [become a citizen](#citizenship) after 3 years.
 
 ### If your spouse has a Blue Card or a work visa
 
-To become a permanent resident, you must...
+To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
-    5 years living with your spouse, or 3 years if you also work at least 20 hours per week.[^28]
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
+    5 years living with your spouse, or 3 years if you work at least 20 hours per week.[^28]
 
-Spouses might need an integration course.[^37]
+Your spouse must...
+
+- [ ] **Have a job**  
+    If they are unemployed, or if their contract ends in under 6 months, you probably won't get a PR. They might also reject you if your spouse is in their [probation period](/glossary/Probezeit).
+- [ ] **Have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)**  
+    It must be a Blue Card, or a §18a, §18b or §18d work visa.
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
-You can't become a permanent resident yet.[^21] You can apply later, when you get a different [residence permit](/glossary/Aufenthaltstitel) like a [[Blue Card]], a [work visa](/glossary/Work%20Visa) or a [freelance visa](/glossary/Freelance%20visa). You can also [become a German citizen](#citizenship) instead.
+You can't become a permanent resident while on a student visa.[^21] Wait until you have a different [residence permit](/glossary/Aufenthaltstitel) like a [[Blue Card]], a [work visa](/glossary/Work%20Visa) or a [freelance visa](/glossary/Freelance%20visa).
 
 Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis), but it's divided by half. For example, if you studied for 4 years, it counts as 2 years for your PR.[^9]
 
-### If you are a refugee
+### If you are a refugee or asylum seeker
 
-- [ ] **Live in Germany for 5 years**  
-    You must have a residence permit for the last 5 years, or 3 years if you speak C1 German.
-- [ ] **Speak A2 or C1 German**[^23]  
-    If you speak C1 German, you can get your PR faster.
-    - **A2** means that you understand a few sentences and expressions about family, shopping, work and giving directions. You can have simple, direct conversations about certain topics.
-    - **C1** means that you can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics.
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
-    
-Spouse's income can suffice?
+To become a permanent resident, you must...[^23]
+
+- [ ] **Live in Germany for 3 to 5 years**  
+    You must have a residence permit for the last 5 years, or 3 years if you speak C1 German. This includes the asylum process time.[^54]
+- [ ] **Speak A2 or C1 German**  
+    - **A2** means that you understand a few sentences and expressions about family, shopping, work and giving directions. You can have simple, direct conversations about certain topics. You can get a PR after 5 years.
+    - **C1** means that you can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. You can get a PR after 3 years.
+
+There is no pension requirement for refugees and asylum seekers.[^55]
 
 ### Everyone else
 
@@ -146,24 +141,37 @@ To become a permanent resident, you must...
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis). After 5 years in Germany, you can also [become a German citizen](#citizenship).
 - [ ] **Speak B1 German**  
     You can understand what people say when they talk in a simple language about certain topics.[^14]
-- [ ] **Support yourself**  
-    Your income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.
-- [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    You or your spouse must have paid 5 years of pension insurance.[^26]
-- [ ] **Have [health insurance](/glossary/Krankenversicherung)**
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
+- [ ] **Have a retirement pension**  
+    You must have a public pension, or an equivalent private pension. See the [pension requirements](#pension-requirements).
 
-### Pension requirements for the PR
+## Pension requirements
 
 To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
-- **Contribute to your public pension**  
-    If you're an employee, you do this automatically, so if you worked for 60 months, you contributed for 60 months. If you're a student or self-employed, you usually don't contribute, but you can make voluntary payments.[^25]
-    - **If you are married**  
-        If your spouse made 60 months of pension contributions, it's enough.[^18]
-    - **Everyone else**  
-        You must contribute to your public pension for 60 months.
+- Pay into the public pension system
+- Have an equivalent private pension
+- Have real estate or other investments
+
+**If you are married**, it's enough if your spouse has an adequate pension.[^18]
+
+**If you can't get a pension**, you can still [become a German citizen](#citizenship). There is no pension requirement for citizenship.
+
+### With a public pension
+
+Usually, you must contribute at least 60 months into the public pension scheme to get a PR.
+
+**If you are an employee**, you automatically pay pension insurance. If you worked for 10 months, you contributed for 10 months. If you're a student or self-employed, you usually don't contribute, but you can make voluntary payments.[^25]
+
+**If you have a Blue Card**, you only need 27 months of pension contributions, or 21 months if you speak B1 German.
+
+**If you have a work visa**, you only need 36 months of pension contributions, or 24 months if you graduated from a German university.
+
+**If you are self-employed**, you usually don't pay for a public pension. You can make voluntary payments of at least {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. It might be easier to just [become a German citizen](#citizenship), because citizenship has no pension requirement.
+
+### With a private pension
+
+If you don't have a public pension, you can have a private pension instead. Your private pension must be comparable to the public pension.
+
 - or **have a comparable private pension**  
     Usually, this means a private pension that *guarantees* an income when you retire.
 - or **have investments**  
@@ -196,7 +204,7 @@ To become a German citizen, you must...[^43]
 
 - [ ] Live in Germany for 5 years, or 3 years if you have a German spouse[^47]
 - [ ] Speak B1 German[^48]
-- [ ] Support yourself and your family without social benefits
+- [ ] Support yourself and your family, without social benefits
 - [ ] Take the citizenship test (*Einbürgerungstest*)
 - [ ] Not be convicted for a crime
 
@@ -208,7 +216,7 @@ Citizenship is better than permanent residence because...
 - Your citizenship does not expire if you leave Germany
 - You don't need a pension to qualify[^46]
 
-Permanent residence might be better if your country does not allow dual citizenship. China, India, Indonesia, Japan, Kazakhstan, Malaysia, Nepal, and Singapore don't allow dual citizenship.[^49] If you become a German citizen, you lose the citizenship of these countries.
+If your country does not allow dual citizenship, becoming a German citizen means losing your old citizenship. Permanent residence might be a better option.
 
 ## How to apply in Berlin
 
@@ -237,6 +245,8 @@ Sometimes, it takes so long that you must bring a more recent version of your do
 After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.[^34]
 
 Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
+
+It's okay to change jobs after you send your application.[^20]
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -273,7 +283,7 @@ If they approve your permanent residence, they must print the plastic card. This
 
 ### 5. Get your permanent residence card
 
-{{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
+{{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment, you get 2 letters:
 
 1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
@@ -391,7 +401,7 @@ You can use your permanent residence card to log into online government services
 
 Your [PR](/glossary/Niederlassungserlaubnis) lets you visit other [[Schengen area]] countries without a visa.
 
-If you leave Germany for more than 6 months, your PR expires.[^23] If you have a EU PR, it expires after 12 months.[^13] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+If you leave Germany for more than 6 months, your PR expires. If you have a EU PR, it expires after 12 months.[^13] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
 ### Make a tax declaration
 
@@ -415,26 +425,26 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
 [^7]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
 [^8]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
-[^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/) (June 2024)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
 [^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
 [^15]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/en/#:~:text=the%20last%206-,months,-Lease%20or%20proof) (June 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
-[^16]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein)
+[^16]: Citation needed (for different permits), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
-[^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024)
+[^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=it%20is%20sufficient%20that%20one%20of%20you%20fulfills%20this%20requirement), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
 [^20]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1516872735854024/) (2024)
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
-[^22]: [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 11, 2022)
-[^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html)
+[^22]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
+[^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/helc3kp/) (2021), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/) (2023)
 [^25]: [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/02_Pflicht-und-freiwillig-Versicherte/pflicht-und-freiwillig-versicherte_Inhalt_01_selbstaendig_und_pflichtversichert.html), [Sebastian Hoffmann](https://www.facebook.com/groups/berlinfreelancers/posts/2796580587088974/) (2020)
-[^26]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^26]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
-[^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=appointment%20is%20required-,Your%20German%20family%20member,rights%20must%20be%20submitted.,-Proof%20of%20Income) (June 2024)
 [^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6nyx2m/) (2023)
@@ -442,12 +452,11 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^33]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=super%20smooth%20and-,at%20the%20end%20i%20paid,-113%20euros.%20I) (2023)
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1118435285697773/) (2022)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
-[^36]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
-[^37]: Padcha (June 2024)
+[^36]: Citation needed, [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
-[^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
-[^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
-[^41]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024)
+[^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
+[^40]: Citation needed (other residence permits) [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
@@ -455,6 +464,10 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^46]: [Reddit](https://old.reddit.com/r/GermanCitizenship/comments/1bl80qp/60_months_of_payment_into_pension_for_citizenship/) (2024)
 [^47]: [§9 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__9.html)
 [^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
-[^49]: [Wikipedia](https://en.wikipedia.org/wiki/Multiple_citizenship#Multiple_citizenship_avoided) (June 2024)
-[^50]: [Fiona Macdonald](https://en.fmr-legal.de/) (March 2024), [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1533k7c/losing_or_quitting_your_job_its_gonna_be_alright/jsjzu4b/) (2023), [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
+[^50]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
+[^51]: Citation needed
+[^53]: Citation needed
+[^54]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
+[^55]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
+[^56]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
