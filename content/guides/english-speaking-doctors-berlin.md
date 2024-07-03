@@ -49,7 +49,7 @@ This list is compiled by hand. If a doctor is missing, [contact me](/contact).
 
 A video call is faster and easier than a doctor visit. It's a good way to get a [sick note](/glossary/Krankschreibung).
 
-The [TeleClinic](https://www.teleclinic.com/) and [Doktor.de](https://doktor.de) apps let you schedule a video call with a doctor. It's only in German, but some doctors speak English.
+The [TeleClinic](https://www.teleclinic.com/sick-note/) and [Doktor.de](https://doktor.de) apps let you schedule a video call with a doctor. It's only in German, but some doctors speak English.
 
 This service is free. Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) pays for it. Your [private health insurance](/glossary/private%20Krankenversicherung) reimburses it.
 
