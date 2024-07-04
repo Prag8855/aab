@@ -61,6 +61,8 @@ At the moment, Berlin has no process for approving cannabis clubs.[^16] Even if 
 
 **Yes**. Medical marijuana is legal. It is rarely prescribed. Only a few hundred people have a prescription.[^1] With legalisation, it became easier to prescribe.[^8]
 
+**[How to get a cannabis prescription ➞](/guides/buying-marijuana-in-berlin#cannabis-prescription)**
+
 ### Is CBD legal?
 
 **It depends.** Cannabis flowers are legal, but processed cannabis is illegal.

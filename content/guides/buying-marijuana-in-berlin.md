@@ -34,6 +34,8 @@ There are 3 ways to buy weed in Berlin: on Telegram, from street dealers or thro
 
 You can join a **[cannabis club](/guides/is-marijuana-legal)** to legally buy weed. It's the only legal way to buy weed. You must be a German resident for at least 6 months to join a local club, so tourists might not be able to buy weed.[^11]
 
+You can also **[get a prescription](#cannabis-prescription)** for medical marijuana.
+
 ## Buying weed from Görlitzer and Hasenheide park
 
 In Berlin, two parks have the most drug dealers:
@@ -85,6 +87,14 @@ You *can't* see if your weed is contaminated with a synthetic cannabinoid test k
 - [Other reddit discussion](https://www.reddit.com/r/berlin/comments/kx3x04/marijuana_from_reputable_berlin_delivery_service/)
 - [Discussion about synthetic cannabinoid test kits](https://www.reddit.com/r/berlin/comments/kzwggs/spiced_weed_in_berlin_the_kits_we_have_used_are/)
 
+## Cannabis prescription
+
+All doctors can prescribe cannabis, but few doctors do it.
+
+You can get a medical prescription for cannabis online.[^12] It's the easiest way to get medical marijuana. You book a video call with a doctor, pay around 50€, and get a prescription for cannabis. You can renew your prescription for around 20€.[^13]
+
+You can get a prescription from [TeleCan](https://www.telecan.eu/), [CannGo](https://canngo.express/), [DrAnsay](https://dransay.com/cannabis-rezept-online/) or Algea Care. TeleCan and CannGo have good reviews. Algea has bad reviews.
+
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6rlitzer_Park#Drug_trafficking)
 [^1]: [goo.gl](https://goo.gl/maps/ppjbvAoUMVMv8TDy9), [goo.gl](https://goo.gl/maps/YjDdmS7k7RUeB6U6A)
 [^2]: [berliner-zeitung.de](https://www.berliner-zeitung.de/news/polizeibericht-berlin/statistik-das-sind-die-gefaehrlichsten-parks-in-berlin-li.171833)
@@ -97,3 +107,5 @@ You *can't* see if your weed is contaminated with a synthetic cannabinoid test k
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kzwggs/spiced_weed_in_berlin_the_kits_we_have_used_are/)
 [^10]: [reddit.com/r/germantrees](https://old.reddit.com/r/germantrees/comments/iefo1b/frage_sind_synthetische_cannbinoide_erkennbar/)
 [^11]: [§1 Abs. 16 KCanG](https://www.gesetze-im-internet.de/kcang/__1.html#:~:text=%20an%20dem%20eine%20person%20seit%20mindestens%20sechs%20monaten)
+[^12]: [Reddit](https://old.reddit.com/r/germantrees/comments/1ca6bp9/telecaneu/) (April 2024)
+[^13]: [telecan.eu](https://www.telecan.eu/index.php/behandlungskosten-preise/)
