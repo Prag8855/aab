@@ -35,7 +35,7 @@ There is currently **no way to buy weed**. There are no cannabis stores. You mus
 
 ### Cannabis clubs
 
-**You can't buy weed** from a store. To buy weed, you must join a cannabis club. Clubs can start growing cannabis on July 1 2024.{{ fail_on('2024-07-01') }}
+**You can't buy weed** from a store. To buy weed, you must join a cannabis club.
 
 Rules for cannabis clubs:[^17]
 
@@ -54,6 +54,8 @@ To join a club, you must...[^18]
 
 - Be at least 18 years old
 - Be a resident for at least 6 months[^26]
+
+At the moment, Berlin has no process for approving cannabis clubs.[^16] Even if they are legal, it's not really possible to create one. It could take a few months before you can get weed from a club.{{ fail_on('2024-08-15') }}
 
 ### Is medicinal marijuana legal?
 
@@ -102,6 +104,7 @@ This might have changed with legalisation, but it's not confirmed.
 [^13]: [Quora](https://www.quora.com/Can-you-buy-marijuana-in-Amsterdam-and-travel-out/answer/Ziadesa-Yazid?ch=10&oid=78957569&share=e689b30e&srid=u1YC&target_type=answer)
 [^14]: [§4 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__4.html)
 [^15]: [Deutsche Welle](https://www.dw.com/en/cannabis-will-be-legal-in-germany-within-limits/a-68353166), [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
+[^16]: [TheBerliner](https://www.the-berliner.com/english-news-berlin/berlin-stalls-july-1-on-implementing-cannabis-social-clubs/) (July 2024)
 [^17]: [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
 [^18]: [KCanG](https://dserver.bundestag.de/btd/20/087/2008704.pdf)
 [^19]: [§19 KCanG](https://www.buzer.de/19_KCanG.htm)

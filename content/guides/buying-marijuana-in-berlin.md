@@ -32,7 +32,7 @@ There are 3 ways to buy weed in Berlin: on Telegram, from street dealers or thro
 3. **The parks**  
     This should be your last option. They sell very low quality weed in parks. It's often laced with dangerous chemicals.
 
-After July 1, you can join a **[cannabis club](/guides/is-marijuana-legal)** to legally buy weed. It will the only legal way to buy weed. You must be a German resident for at least 6 months to join a local cannabis club, so tourists might not be able to buy weed.[^11]
+You can join a **[cannabis club](/guides/is-marijuana-legal)** to legally buy weed. It's the only legal way to buy weed. You must be a German resident for at least 6 months to join a local club, so tourists might not be able to buy weed.[^11]
 
 ## Buying weed from Görlitzer and Hasenheide park
 
