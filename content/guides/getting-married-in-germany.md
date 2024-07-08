@@ -62,7 +62,10 @@ Get an appointment at the *Bürgeramt* or *Standesamt*, depending on your city. 
 
 In Berlin, some *Standesamt* locations have no appointments. You must contact them and ask for instructions.
 
-**[Book an appointment in Berlin ➞](https://service.berlin.de/dienstleistung/318962/)**
+Book an appointment in Berlin:
+
+- [Marriage with a foreign spouse ➞](https://service.berlin.de/dienstleistung/318962/)
+- [Marriage between two German citizens ➞](https://service.berlin.de/dienstleistung/318961/)
 
 ### 3. Find an interpreter
 
