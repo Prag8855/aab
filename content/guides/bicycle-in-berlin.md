@@ -81,7 +81,7 @@ If you are a refugee, you can get a free bicycle from [Rückenwind](https://ruec
     Some employers pay for your bicycle, or for a bicycle rental service. You can get a free bicycle, or a big rebate on your bicycle purchase.
 - **Therapy bike**  
     If you need a special bicycle for your therapy, your health insurer must pay for it.[^3]
-- **Buy a used bike**  
+- **[Buy a used bike](#buying-a-used-bicycle)**  
     Old bicycles are reliable and easy to maintain. You don't need a new bicycle, even if you know nothing about bicycle repair. Used bicycles are much cheaper than new ones.
 
 ## Bicycle repairs and maintenance
