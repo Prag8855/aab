@@ -37,7 +37,6 @@ Related_places:
     places/dr-birgit-hansen.md
     places/katie-knight-berlin-counseling.md
     places/philip-sheldon.md
-    places/dr-anja-westram.md
     places/dipl-psych-kristina-oelschläger.md
     places/christiane-klingner.md
     places/sean-carden.md
