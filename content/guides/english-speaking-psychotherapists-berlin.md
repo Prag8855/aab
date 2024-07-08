@@ -156,6 +156,7 @@ These directories help you find English-speaking therapists:
 - [It's Complicated](https://www.complicated.life/en/find-a-therapist) - Find therapists by language and insurance type
 - [Berlin therapist directory](https://www.therapistinberlin.com/therapist-directory.html) - List of therapists with language information
 - [Doctolib](https://www.doctolib.de/) - Find doctors and therapists by language
+- [Jameda](https://www.jameda.de/suchen?loc=Berlin) - Find doctors and therapists by language
 - [AngloInfo's English-speaking therapist directory](https://www.angloinfo.com/berlin/directory/berlin-counselling-therapists-477)
 - [Stillpoint Spaces](https://www.stillpointspaces.com/berlin-space/) - Find therapists by language
 

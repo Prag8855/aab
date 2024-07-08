@@ -54,6 +54,7 @@ These directories help you find English-speaking psychiatrists:
 
 - **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find psychiatrists who accept public health insurance by language
 - **[Doctolib](https://www.doctolib.de/)** - Find psychiatrists by language
+- **[Jameda](https://www.jameda.de/suchen?loc=Berlin)** - Find psychiatrists by language
 - [Doctena](https://www.doctena.de/en/) - Find psychiatrists by language
 
 **[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**

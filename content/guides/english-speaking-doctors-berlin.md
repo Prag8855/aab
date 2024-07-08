@@ -57,8 +57,9 @@ This service is free. Your [public health insurance](/glossary/gesetzliche%20Kra
 
 These databases have more English-speaking doctors:
 
-- [Doctolib](https://www.doctolib.de/) - You can make an appointment online
-- [Doctena](https://www.doctena.de/en/) - You can make an appointment online
+- [Doctolib](https://www.doctolib.de/) - Online appointments, language filter
+- [Jameda](https://www.jameda.de/suchen?loc=Berlin) - Online appointments, language filter
+- [Doctena](https://www.doctena.de/en/) - Online appointments, language filter
 - [Ärzte Berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php)
 - [116117.de](https://www.116117.de/de/englisch.php#content1292)
 
