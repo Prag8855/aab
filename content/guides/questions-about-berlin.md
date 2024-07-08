@@ -57,6 +57,7 @@ You can get help from these communities and services.
     A *Mieterverein* protects tenants from landlords. When you are a member of a *Mieterverein*, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 120€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English. 
 - **[Tenant counsel](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/)** (*Mieterberatung*)  
     This is a free service from the city of Berlin. They have [many branches](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/). You might need to go in person. They might not speak English.
+    - [asum Berlin](https://www.asum-berlin.de/english/) - Free counselling for tenants
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), it might pay for your lawyer. If not, a lawyer costs around 200€ per hour.
     - **[Conny](/out/conny-mietpreisbremse)**  
@@ -72,11 +73,14 @@ Don't be afraid to defend your rights. Your landlord can't kick you out or stop 
 
 ## Medical questions
 
-- [How to find English-speaking medical professionals in Berlin](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)
-- [List of English-speaking **doctors** and GPs in Berlin](/guides/english-speaking-doctors-berlin)
-- [List of English-speaking **dentists** in Berlin](/guides/list-of-english-speaking-dentists-in-berlin)
-- [List of English-speaking **psychiatrists** in Berlin](/guides/english-speaking-psychiatrists-berlin)
-- [List of English-speaking **psychotherapists** in Berlin](/guides/english-speaking-psychotherapists-berlin)
+Use my lists of English-speaking professionals:
+
+- [Doctors](/guides/english-speaking-doctors-berlin)
+- [Dentists](/guides/list-of-english-speaking-dentists-in-berlin)
+- [Gynecologists and obstetricians](/english-speaking-gynecologists-berlin)
+- [Psychiatrists](/guides/english-speaking-psychiatrists-berlin)
+- [Psychotherapists](/guides/english-speaking-psychotherapists-berlin)
+- [Other medical professionals](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)
 
 ## Legal questions
 
