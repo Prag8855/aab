@@ -34,10 +34,8 @@ Used bicycles are cheaper. There are many places where you can buy them:
     There are flea markets every Sunday in Berlin. Many of them sell bicycles. Do not buy a bicycle there. The bicycles are too old, too expensive, and often stolen.
 - **[Sell Your Bike Berlin](https://www.facebook.com/groups/sellyourbikeberlin/)**  
     Facebook group with over 30 000 members. If you speak French, there is also [Les vélos de Berlin](https://www.facebook.com/groups/lesvelosdeberlin/). Watch for [stolen bicycles](#buying-a-stolen-bicycle).
-- **Bicycle auctions**  
-    There are regular auctions for [lost and found](/guides/lost-and-found-berlin) items:
-    - [S-Bahn bicycle auctions](https://sbahn.berlin/aktuelles/artikel/vergessene-fahrraeder-unterm-hammer/)
-    - [Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)
+- **[Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)**  
+    There are regular auctions for [lost and found](/guides/lost-and-found-berlin) bicycles. You can bid online.
 
 The quality of used bicycles varies a lot. Always try the bike before you buy it. Check if the brakes work, the gears change smoothly, the frame is not cracked, the wheels are straight, etc. [This guide](https://bikefair.org/blog/how-to-choose-a-second-hand-bike#:~:text=check%20the%20bike) can help you.
 
