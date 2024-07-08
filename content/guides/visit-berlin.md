@@ -193,9 +193,9 @@ In the last week of April, you can also see the [Baumblütenfest](https://www.ba
 
 Berlin is famous for its techno clubs. It can be hard to get into certain clubs. Clubs don't let everyone in. For example, they often reject tourists, big groups, drunk people, and people under 21 years old.[^7]
 
-In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Ask the locals what the unofficial dress code is.
+In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Each club has its own unofficial dress code. Ask the locals what the dress code is.
 
-Most clubs have a cover charge. You must pay 5€ to 15€ to get in. Clubs in Berlin stay open until the morning. The party starts late, and the busiest time is around 2AM. You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9]
+Most clubs have a cover charge. You must pay 5€ to 25€ to get in. Clubs in Berlin stay open all night. The party starts late, and the busiest time is around 2AM. You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9] If you don't get in, you get your money back.[^5]
 
 Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow clubs on Facebook and Instagram.
 
@@ -338,6 +338,7 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 [^2]: [bvg.de](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/single-tickets/single-ticket)
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
+[^5]: [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/1d07ae3/bought_a_ticket_to_about_blank_and_was_not_let_in/) (2024)
 [^6]: [berlin.de](https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/ordnung/strassenverkehr-parken/artikel.217586.php), [hotel.de](https://www.hotel.de/blog/parken-in-berlin/)
 [^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/c02948/why_is_nightlife_the_way_it_is/), [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?context=3)
 [^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlincomments/7rvjsq/comment/dt34o56/?context=3)
