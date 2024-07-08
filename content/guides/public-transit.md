@@ -168,21 +168,25 @@ To open the doors, you might need to press a button near the doors.
 
 ### Rent a scooter
 
-You can rent electric scooters (🛴) with the [Jelbi](https://www.jelbi.de/en/home/), [Bolt](https://bolt.eu/en-de/scooters/), [Lime](https://www.li.me/en-de/), [Tier](https://www.tier.app/de/how-tier-works/) or [Voi](https://www.voi.com/de/) apps. You do not need a driving licence.
+You can rent electric scooters (🛴) from [Bolt](https://bolt.eu/en-de/scooters/), [Lime](https://www.li.me/en-de/), [Tier](https://www.tier.app/de/how-tier-works/) or [Voi](https://www.voi.com/city/berlin). You do not need a driving licence. You can book all of them in the [Jelbi](https://www.jelbi.de/en/home/) app.
 
 ### Rent a moped
 
-You can rent motor scooters (🛵) with the [Jelbi](https://www.jelbi.de/en/home/), [Emmy](https://emmy-sharing.de/en/), [Felyx](https://felyx.com/de/en), [Lime](https://www.li.me/en-de/) or [Tier](https://www.tier.app/de/how-tier-works/) apps. There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they're only valid for 6 months after you move to Germany.
+You can rent motor scooters (🛵) from [Emmy](https://emmy-sharing.de/en/). You can book them in the [Jelbi](https://www.jelbi.de/en/home/) app too.
+
+There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they're only valid for 6 months after you move to Germany.
 
 ### Rent a car
 
-You can rent a car from [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car. You can also use car sharing services like [Miles](https://miles-mobility.com/en-de) and [Share Now](https://www.share-now.com/de/en/berlin/). The [Jelbi](https://www.jelbi.de/en/home/) app lets you use different car sharing services. Car sharing services let you rent a car for just one trip, and park it when you are finished.
+Rent a car for a single ride with [Miles](https://miles-mobility.com/en-de) or [Share Now](https://www.share-now.com/de/en/berlin/). Miles cars are bookable in the [Jelbi](https://www.jelbi.de/en/home/) app.
+
+Rent a car for a few days with [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car.
 
 You need a valid driving licence to use those services. Car sharing services don't always accept non-EU licences, because they're only valid for 6 months after you move to Germany.
 
 ### Call a taxi
 
-People rarely use taxis in Berlin, because they are very expensive.[^8] You can get a taxi from [BerlKönig](https://unternehmen.bvg.de/pressemitteilung/berlkoenig-geht-neue-angebote-kommen/), [Bolt](https://bolt.eu/en/cities/berlin/), [FreeNow](https://www.free-now.com/de/taxi-berlin/), [Uber](https://www.uber.com/global/en/cities/berlin/), and standard taxi services. The [Jelbi app](https://www.jelbi.de/en/home/) also lets you book a taxi.
+People rarely use taxis in Berlin, because they are very expensive.[^8] You can get a taxi from [Bolt](https://bolt.eu/en/cities/berlin/), [FreeNow](https://www.free-now.com/de/taxi-berlin/), [Uber](https://www.uber.com/global/en/cities/berlin/), and standard taxi services. The [Jelbi app](https://www.jelbi.de/en/home/) also lets you book a taxi.
 
 German taxis must accept cash and credit cards.[^8] The Jelbi app also accepts PayPal.
 
