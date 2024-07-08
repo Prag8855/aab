@@ -44,7 +44,7 @@ The paid version is better for apartment applications.[^7] The free version is b
 There are other ways to get a Schufa report:
 
 - **With [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)** ({{SCHUFA_REPORT_FEE|cur}}€)  
-    It's free with their [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/). It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.
+    It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).
 - **In person at the bank** ({{SCHUFA_REPORT_FEE|cur}}€)  
     You can get a Schufa in person [from a partner bank](https://www.meineschufa.de/de/filialfinder). Go to the bank and ask for a *SCHUFA-Bonitätsauskunft*. There are no partner banks in Berlin.
 

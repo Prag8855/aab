@@ -272,7 +272,7 @@ In order, they prefer...[^32]
 Landlords prefer...
 
 - **A good income**  
-    Your rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34] Your income can't be too low or too high.[^48] Two incomes are better than one.
+    Your rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34] Two incomes are better than one. If your income is too high, landlords
 - **A stable job**  
     If you are in your [probation period](/glossary/Probezeit), it's a little harder to find an apartment.[^36] If you are self-employed, it's much harder.[^17] If you are unemployed, it's impossible.
 - **A good first impression**  
@@ -345,7 +345,7 @@ If you like the apartment, apply for it as soon as you can. Send the [required d
 To apply for an apartment, you need these documents:[^19]
 
 - [ ] **[[Schufa]] report**  
-    You can [get one for free](/guides/schufa). It's also included with the ImmoScout24 premium account. If you can't get a Schufa, bring more proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
+    It costs {{SCHUFA_REPORT_FEE|cur}}€, but you can [get it for free](/guides/schufa). If you can't get a Schufa, bring more proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
 - [ ] **Proof of income** (*Einkommensnachweis*)
     - **If you are an employee**  
         Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
