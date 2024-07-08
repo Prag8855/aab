@@ -6,4 +6,4 @@ Website: https://www.berlinrelo.de
 Picture: experts/photos/graham-pugh.jpg
 ---
 
-Graham founded [BerlinRelo](https://www.berlinrelo.de) in 2021. He specializes in finding apartments with unlimited leases for his clients.
+[Graham](https://www.linkedin.com/in/pughgraham/) founded [BerlinRelo](https://www.berlinrelo.de) in 2021. He specializes in finding apartments with unlimited leases for his clients.
