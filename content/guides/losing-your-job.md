@@ -4,6 +4,7 @@ Short_title: Changing or losing your job
 Description: What happens when you change jobs, resign or get laid off in Germany. What happens to your health insurance, residence permit, unemployment benefits etc.
 Date_created: 2023-07-17
 Related_reviews:
+    reviews/losing-your-job/dr-christian-drees.md
     reviews/losing-your-job/alexander-baron-von-engelhardt.md
     reviews/losing-your-job/sebastian-hoffmann.md
     reviews/losing-your-job/carina-senf.md
@@ -60,7 +61,7 @@ After your probation period ends, your employer needs a valid reason to fire you
 
 ### Calculate your notice period
 
-Your job has a notice period (*[[Kündigungsfrist]]*), even during your [probation period](/glossary/Probezeit). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send your on [garden leave](https://en.wikipedia.org/wiki/Garden_leave). If you have unused vacation days, your employer usually forces you to go on vacation.
+Your job has a notice period (*[[Kündigungsfrist]]*), even during your [probation period](/glossary/Probezeit). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave). If you have unused vacation days, your employer usually forces you to go on vacation.
 
 If you get fired for misconduct, there might be no notice period.[^10]
 
@@ -68,7 +69,7 @@ If you get fired for misconduct, there might be no notice period.[^10]
 
 ### Negotiate severance pay
 
-If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign a termination agreement (*Aufhebungsvertrag*) to get severance pay. In other words, your employer pays you to leave without suing them.
+If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign a termination agreement (*Abwicklungsvertrag*) to get severance pay. In other words, your employer pays you to leave without suing them.
 
 You can negotiate how much severance pay you get.[^26] Severance pay in Germany is lower than in North America. You usually get 0.5× your [gross](/glossary/Brutto%20income) monthly income for each year of employment.[^21] For example, if you work 5 years for an employer, your severance pay is 2.5 months of income.
 
@@ -91,15 +92,13 @@ If you sign a termination agreement...[^19]
 - **You lose dismissal protection** (*Kündigungsschutz*)  
     You can't sue your employer for firing you, because you agreed to leave. Your employer wants you to sign an *Aufhebungsvertrag* because it's safer for them.
 - **You can negotiate better severance pay** (*Abfindung*)  
-    Usually, severance pay depends on signing an *Aufhebungsvertrag*. This is the biggest benefit for you.
+    Usually, severance pay depends on signing an *Aufhebungsvertrag*. This is the biggest benefit for you. You don't always need an *Aufhebungsvertrag*. You might get more severance pay if you wait to get fired, then sue your employer.[^44]
 - **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
-    You can agree to leave sooner. This is good if you already found another job.
+    You can agree to leave sooner. This is good if you already found another job. If you leave early, you sometimes get less [unemployment benefits](/glossary/ALG%20I).[^45]
 - **You can lose 3 months of [unemployment benefits](/glossary/ALG%20I)**  
-    Since you *choose* to leave, you can lose 3 months of unemployment benefits.[^24] It depends on what's in your *Aufhebungsvertrag*. - [How unemployment benefits work](/guides/unemployment-benefits)
+    If you *choose* to leave, you can lose 3 months of unemployment benefits.[^24] It depends on what's in your *Aufhebungsvertrag*. - [How unemployment benefits work](/guides/unemployment-benefits)
 
-When you sign an *Aufhebungsvertrag*, you make a deal with your employer. You get more money, they get less problems.
-
-You can accept, refuse or negotiate this deal. Your employer can't force you to sign an *Aufhebungsvertrag*.[^20] If you are not sure, [get legal help](#need-help).
+When you sign an *Aufhebungsvertrag*, you make a deal with your employer. You get more money, they get less problems. You can accept, refuse or negotiate this deal. Your employer can't force you to sign an *Aufhebungsvertrag*.[^20] If you are not sure, [get legal help](#need-help).
 
 ## Before you stop working
 
@@ -347,3 +346,5 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^41]: [§4a Abs. 3 Satz 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html)
 [^42]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023), Victoria Messer (December 2023)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
+[^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
+[^45]: [Dr. Drees](https://www.dr-drees.com/aufhebungsvertrag-ohne-frist/#:~:text=sperrfrist%20wegen%20des%20aufhebungsvertrages) (July 2024)
