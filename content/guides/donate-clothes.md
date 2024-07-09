@@ -37,8 +37,8 @@ Many clothes donation bins are operated by charities. Look for donation bins wit
 - **[Berliner Obdachlosenhilfe](https://www.berliner-obdachlosenhilfe.de/sachspende/)**  
     *[Lynarstraße 38, Wedding](https://g.page/b-obdachlosenhilfe?share)*  
     The clothes will be used to help the homeless in Berlin.
-- **[Berliner Stadtmission](https://www.berliner-stadtmission.de/komm-sieh/kleiderspenden)**  
-    *[Map of collection points](https://www.berliner-stadtmission.de/komm-sieh/kleiderspenden)*  
+- **[Berliner Stadtmission](https://www.berliner-stadtmission.de/komm-sieh/clothingdonations)**  
+    *[Map of collection points](https://www.berliner-stadtmission.de/komm-sieh/clothingdonations)*  
     The clothes will be used to help the homeless in Berlin.
 - **[Diakonie](https://www.diakonie-stadtmitte.de/)**  
     *[Information page](https://www.diakonie-stadtmitte.de/spenden/sachspenden)*  
