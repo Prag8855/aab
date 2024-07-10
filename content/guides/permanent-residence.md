@@ -50,14 +50,14 @@ There are more requirements. The requirements depend on your situation.
 To become a permanent resident, you must also...
 
 - [ ] **Have a job**  
-    If you are unemployed, or if your contract ends in under 6 months, you probably won't get a PR.[^36] Sometimes, they also reject people in their [probation period](/glossary/Probezeit).[^50]
+    If you are unemployed, or if your contract ends in under 6 months, you probably won't get a [PR](/glossary/Niederlassungserlaubnis).[^36] Sometimes, they also reject people in their [probation period](/glossary/Probezeit).[^50]
 - [ ] **Have a Blue Card for 21 to 27 months**  
-    27 months if you speak A1 German, or 21 months if you speak B1 German.[^10] It also includes time that you work under Blue Card conditions, even if you did not have a Blue Card.[^41]
-- [ ] **Speak A1 or B1 German**  
-    - **A1** means that you know basic words and expressions, and very simple sentences for specific situations. You can get a PR after 27 months.
-    - **B1** means that you can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help. You can get a PR after 21 months.
+    This includes the time when your job met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), even if you had a different residence permit.[^41]
+    - 27 months if you speak [[A1]] German
+    - 21 months if you speak [[B1]] German.[^10]
+- [ ] **Speak [[A1]] or [[B1]] German**
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
-    You must pay 27 months of public pension insurance, or 21 months if you speak B1 German. When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
+    You must pay 27 months of public pension insurance, or 21 months if you speak [[B1]] German. When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
@@ -67,8 +67,7 @@ To become a permanent resident, you must also...
 
 - [ ] **Work for 2 to 3 years**  
     2 years if you graduated from a German university, or 3 years otherwise.[^11] It also includes time that you work as a skilled worker, even if you did not have a work visa.[^41]
-- [ ] **Speak B1 German**  
-    You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.[^14]
+- [ ] **Speak [[B1]] German**[^14]
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
@@ -94,7 +93,7 @@ To become a permanent resident, you must also...[^27]
 - [ ] **Have a German spouse, child or parent**
 - [ ] **Live together for 3 years**  
     You must live together, in Germany, for 3 years without interruption.[^29]
-- [ ] **Speak B1 German**  
+- [ ] **Speak [[B1]] German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
@@ -126,10 +125,8 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
 To become a permanent resident, you must...[^23]
 
 - [ ] **Live in Germany for 3 to 5 years**  
-    You must have a residence permit for the last 5 years, or 3 years if you speak C1 German. This includes the asylum process time.[^54]
-- [ ] **Speak A2 or C1 German**  
-    - **A2** means that you understand a few sentences and expressions about family, shopping, work and giving directions. You can have simple, direct conversations about certain topics. You can get a PR after 5 years.
-    - **C1** means that you can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. You can get a PR after 3 years.
+    You must have a residence permit for the last 5 years, or 3 years if you speak [[C1]] German. This includes the asylum process time.[^54]
+- [ ] **Speak [[A2]] or [[C1]] German**
 
 There is no pension requirement for refugees and asylum seekers.[^55]
 
@@ -139,8 +136,7 @@ To become a permanent resident, you must...
 
 - [ ] **Live in Germany for 5 years**  
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis). After 5 years in Germany, you can also [become a German citizen](#citizenship).
-- [ ] **Speak B1 German**  
-    You can understand what people say when they talk in a simple language about certain topics.[^14]
+- [ ] **Speak [[B1]] German**[^14]
 - [ ] **Have a retirement pension**  
     You must have a public pension, or an equivalent private pension. See the [pension requirements](#pension-requirements).
 
@@ -162,7 +158,7 @@ Usually, you must contribute at least 60 months into the public pension scheme t
 
 **If you are an employee**, you automatically pay pension insurance. If you worked for 10 months, you contributed for 10 months. If you're a student or self-employed, you usually don't contribute, but you can make voluntary payments.[^25]
 
-**If you have a Blue Card**, you only need 27 months of pension contributions, or 21 months if you speak B1 German.
+**If you have a Blue Card**, you only need 27 months of pension contributions, or 21 months if you speak [[B1]] German.
 
 **If you have a work visa**, you only need 36 months of pension contributions, or 24 months if you graduated from a German university.
 
@@ -203,7 +199,7 @@ If you don't have a valid pension, you can still [become a German citizen](#citi
 To become a German citizen, you must...[^43]
 
 - [ ] Live in Germany for 5 years, or 3 years if you have a German spouse[^47]
-- [ ] Speak B1 German[^48]
+- [ ] Speak [[B1]] German[^48]
 - [ ] Support yourself and your family, without social benefits
 - [ ] Take the citizenship test (*Einbürgerungstest*)
 - [ ] Not be convicted for a crime
@@ -430,7 +426,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
 [^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
-[^14]: [Focus.de](https://praxistipps.focus.de/niederlassungserlaubnis-ohne-sprachniveau-b1-geht-das_157249#:~:text=dem%20sprachniveau%20b%201%20entsprechen) (March 2023)
+[^14]: Citation needed
 [^15]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/en/#:~:text=the%20last%206-,months,-Lease%20or%20proof) (June 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
 [^16]: Citation needed (for different permits), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
