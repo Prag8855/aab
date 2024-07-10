@@ -28,26 +28,6 @@
 {% raw %}
 	<template v-slot:header>Request for a Bescheinigung in Steuersachen</template>
 
-	<template v-slot:letter-recipient="{ language, stage }">
-		<span class="letter-return-address" v-if="address">
-			{{ fullName }}<template v-if="fullName && address">, </template>
-			{{ address.replaceAll('\n', ', ') }}
-		</span>
-		<span class="letter-return-address" v-else></span>
-		<template v-if="finanzamt">Finanzamt {{ finanzamt }}</template>
-	</template>
-
-	<template v-slot:letter-details="{ language, stage }">
-		<template v-if="language === 'en'">
-			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-			<strong>Date:</strong> {{ currentDate.toLocaleDateString("en-US") }}
-		</template>
-		<template v-if="language === 'de'">
-			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
-			<strong>Datum:</strong> {{ currentDate.toLocaleDateString("de-DE") }}
-		</template>
-	</template>
-
 	<template v-slot:letter-body="{ language, stage }">
 		<p v-if="language === 'en'">
 			<strong>Request for a Bescheinigung in Steuersachen</strong>
@@ -138,12 +118,6 @@
 					:id="uid('date-of-birth')"
 					autocomplete="bday"></date-picker>
 			</div>
-		</div>
-		<hr>
-		<div class="form-group no-print required">
-			<label :for="uid('fullName')">Finanzamt</label>
-			<input type="text" :id="uid('finanzamt')" v-model="finanzamt" placeholder="Pankow/Weißensee">
-			<span class="input-instructions"><a href="/out/assigned-finanzamt-finder" target="_blank">Find your <em>Finanzamt</em> ➞</a></span>
 		</div>
 		<div class="form-group no-print required">
 			<label :for="uid('taxID')">Tax ID</label>

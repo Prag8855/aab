@@ -2331,6 +2331,7 @@ details{
             font-size: var(--f-s);
             display: block; // Applies the line-height to this font size
             margin: var(--xs) 0 0;
+            line-height: var(--line-height-label);
         }
         img{
             border-radius: 0;
