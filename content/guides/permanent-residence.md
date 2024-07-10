@@ -20,12 +20,12 @@ As a permanent resident, you can...
 
 Permanent residence means **more stability**. It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 
+- **It's more flexible**  
+    It's not tied to your income or occupation. You can change jobs, start a business or study. You don't need permission from the *[[Ausländerbehörde]]*.
 - **It's permanent**  
-    You don't need to renew it like a residence permit.[^12] It does not expire if you [lose your job](/guides/losing-your-job). It only expires if you [travel outside of Germany](#travel-as-a-permanent-resident) for a long time, or if you get deported.
-- **It's flexible**  
-    It's not tied to your income or occupation. You can change jobs, start a business or study, without permission from the *[[Ausländerbehörde]]*.
-- **It's trusted**  
-    It's easier to get a loan, get a mortgage, or find an apartment when you are a permanent resident.[^8]
+    You don't need to renew it every 2-3 years.[^12] It does not expire if you [lose your job](/guides/losing-your-job). It only expires if you get deported or [travel outside of Germany](#travel-as-a-permanent-resident) for a long time.
+- **It's more trusted**  
+    It's easier to open a bank account, get a loan, get a mortgage, or find an apartment when you are a permanent resident.[^8]
 
 You might also [qualify for German citizenship](#citizenship). It's better than permanent residence.
 
@@ -33,7 +33,7 @@ You might also [qualify for German citizenship](#citizenship). It's better than 
 
 ### Basic requirements
 
-To become a permanent resident, you must also...
+To become a permanent resident, you must...
 
 - [ ] **Support yourself**  
     Your income or your spouse's income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^40] Social benefits do not count as income.[^16]
@@ -42,7 +42,7 @@ To become a permanent resident, you must also...
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
     You need public or private health insurance. Public and private health insurance are accepted. [[Expat health insurance]] and travel insurance are not accepted.[^53]
 
-There are more requirements. The requirements depend on your situation.
+There are more requirements, depending on your situation.
 
 
 ### If you have a [[Blue Card]]
@@ -52,21 +52,19 @@ To become a permanent resident, you must also...
 - [ ] **Have a job**  
     If you are unemployed, or if your contract ends in under 6 months, you probably won't get a [PR](/glossary/Niederlassungserlaubnis).[^36] Sometimes, they also reject people in their [probation period](/glossary/Probezeit).[^50]
 - [ ] **Have a Blue Card for 21 to 27 months**  
-    This includes the time when your job met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), even if you had a different residence permit.[^41]
-    - 27 months if you speak [[A1]] German
-    - 21 months if you speak [[B1]] German.[^10]
+    27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when your job met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), even if you had a different residence permit.[^41]
 - [ ] **Speak [[A1]] or [[B1]] German**
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 27 months of public pension insurance, or 21 months if you speak [[B1]] German. When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
 ### If you have a [work visa](/glossary/Work%20Visa)
 
-If you have a §18a, §18b or §18d work visa, you can get a PR faster.[^38] The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
-
 To become a permanent resident, you must also...
 
-- [ ] **Work for 2 to 3 years**  
-    2 years if you graduated from a German university, or 3 years otherwise.[^11] It also includes time that you work as a skilled worker, even if you did not have a work visa.[^41]
+- [ ] **Have a §18a, §18b or §18d work visa**[^38]  
+    The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different type of residence permit, follow the [requirements for everybody else](#everybody-else).
+- [ ] **Work for 2 to 3 years**[^11]  
+    2 years if you graduated from a German university, or 3 years otherwise. This includes the time when your job met the [work visa requirements](/guides/work-visa#work-visa-requirements), even if you had a different residence permit.[^41]
 - [ ] **Speak [[B1]] German**[^14]
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
@@ -75,10 +73,10 @@ To become a permanent resident, you must also...
 
 To become a permanent resident, you must also...
 
-- [ ] **Have a "§21 Abs. 1" or "§21 Abs. 2a" freelance visa**[^6]  
+- [ ] **Have a §21 Abs. 1 or 2a freelance visa**[^6]  
     The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for everybody else](#everybody-else).
 - [ ] **Have a freelance visa for 3 years**  
-    In Berlin, it's okay if you had different businesses during that time. Your latest business must be successful and profitable.[^26]
+    In Berlin, it's okay if you had different businesses during that time. Your current business must be successful and profitable.[^26]
 - [ ] **Have a profitable business**  
     You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
 - [ ] **Support yourself**  
@@ -92,27 +90,25 @@ To become a permanent resident, you must also...[^27]
 
 - [ ] **Have a German spouse, child or parent**
 - [ ] **Live together for 3 years**  
-    You must live together, in Germany, for 3 years without interruption.[^29]
+    You must live together, in Germany, for 3 years without interruption.[^29] You can also [become a citizen](#citizenship) after 3 years.
 - [ ] **Speak [[B1]] German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
-- [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family.
 
-There is no pension requirement.[^56] You can also [become a citizen](#citizenship) after 3 years.
+There is no pension requirement.[^56]
 
-### If your spouse has a Blue Card or a work visa
+### If your spouse has a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)
 
 To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
-    5 years living with your spouse, or 3 years if you work at least 20 hours per week.[^28]
+    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28]
 
 Your spouse must...
 
 - [ ] **Have a job**  
     If they are unemployed, or if their contract ends in under 6 months, you probably won't get a PR. They might also reject you if your spouse is in their [probation period](/glossary/Probezeit).
 - [ ] **Have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)**  
-    It must be a Blue Card, or a §18a, §18b or §18d work visa.
+    It must be a Blue Card, or a §18a, §18b or §18d work visa. The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
@@ -125,7 +121,7 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
 To become a permanent resident, you must...[^23]
 
 - [ ] **Live in Germany for 3 to 5 years**  
-    You must have a residence permit for the last 5 years, or 3 years if you speak [[C1]] German. This includes the asylum process time.[^54]
+    3 years if you speak [[C1]] German, or 5 years otherwise. This includes the asylum process time.[^54]
 - [ ] **Speak [[A2]] or [[C1]] German**
 
 There is no pension requirement for refugees and asylum seekers.[^55]
@@ -144,51 +140,24 @@ To become a permanent resident, you must...
 
 To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
-- Pay into the public pension system
-- Have an equivalent private pension
-- Have real estate or other investments
+- **Pay into the public pension system**  
+    If you are an employee, you automatically pay into the public pension system. If you worked for 12 months, you contributed for 12 months.
+- or **use your spouse's pension**
+    If you are married, it's enough if your spouse has an adequate pension.[^18]
+- or **get a private pension**  
+    It must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire.[^42]
+- or **have real estate or other investments**
 
-**If you are married**, it's enough if your spouse has an adequate pension.[^18]
+If you don't have a pension, you can still [become a German citizen](#citizenship). There is no pension requirement for citizenship.
 
-**If you can't get a pension**, you can still [become a German citizen](#citizenship). There is no pension requirement for citizenship.
-
-### With a public pension
-
-Usually, you must contribute at least 60 months into the public pension scheme to get a PR.
-
-**If you are an employee**, you automatically pay pension insurance. If you worked for 10 months, you contributed for 10 months. If you're a student or self-employed, you usually don't contribute, but you can make voluntary payments.[^25]
-
-**If you have a Blue Card**, you only need 27 months of pension contributions, or 21 months if you speak [[B1]] German.
-
-**If you have a work visa**, you only need 36 months of pension contributions, or 24 months if you graduated from a German university.
-
-**If you are self-employed**, you usually don't pay for a public pension. You can make voluntary payments of at least {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. It might be easier to just [become a German citizen](#citizenship), because citizenship has no pension requirement.
-
-### With a private pension
-
-If you don't have a public pension, you can have a private pension instead. Your private pension must be comparable to the public pension.
-
-- or **have a comparable private pension**  
-    Usually, this means a private pension that *guarantees* an income when you retire.
-- or **have investments**  
-    This is where things get really unclear and complicated. It seems like having property qualifies you?
-
-Just having money in your bank account is not enough. They don't care if you have a million euros, because it could be gone by the time your retire.
-
-Pensions from other countries also apply. Especially other EU countries.
-
-**If you are self-employed**, pension contributions are the hardest requirement to meet. You must make 60 months of pension payments, but by default, you don't make pension payments.
-
-You can...
+If you are self-employed, you don't pay for a public pension. Instead, you can...
 
 - **Make voluntary public pension payments**  
-    You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).
+    You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25]
 - or **join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
-- or **get a private pension**  
-    Your pension must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years.[^42]
-
-If you don't have a valid pension, you can still [become a German citizen](#citizenship). Citizenship has no pension requirement.
+- or **get a private pension**
+- or **use your spouse's pension**
 
 ## Permanent residence alternatives
 
