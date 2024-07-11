@@ -221,12 +221,15 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 When you go to your appointment, bring...
 
+- [ ] **Your appointment confirmation**, printed  
+    You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **The [required documents](#required-documents)**  
     Bring all your application documents, even if you already sent them online. In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
 - [ ] **Updated documents**  
-    If you wait a really long time for an appointment, they might ask for more recent documents.[^32] For example, they might ask for updated proofs of employment and proofs of income.
-- [ ] **Your appointment confirmation**, printed  
-    You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
+    If you wait a really long time for an appointment, they might ask for more recent documents.[^32] For example, an updated proof of income, proof of employment, proof of health insurance, and more.
+- [ ] **Passport**  
+    You get your passport back during your appointment; they do not keep it.
+    - [ ] **Passport of your spouse, parent or child**[^7] (if applicable)
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
@@ -303,7 +306,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 - [ ] **Proof of social benefits**  
     Bring certificates and other documents that prove that you receive those social benefits.
 
-### For people with a Blue Card
+### For employees
 
 - [ ] **Pay slips** (*[[Gehaltsabrechnung]]*)[^15]
 - [ ] Employment certificate
@@ -316,14 +319,11 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
     - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)  
         If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*.
     - [ ] **[[Netto-Gewinnermittlung]]**  
-        It shows your income. Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater).
-- [ ] **Certificate of tax matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
+        Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater).
+- [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)  
     It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
-
-If you have it, you should also bring...
-
-- [ ] **Trade certificate** (*[[Gewerbeschein]]*)  
-    If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*.
+- [ ] **Trade certificate** (*Gewerbeschein*)  
+    If your business is a *[[Gewerbe]]*, bring your *[[Gewerbeschein]]*.
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
     [If you need a *Handelsregister* entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*.
 
@@ -335,24 +335,7 @@ If you have it, you should also bring...
 
 ### For spouses of EU/EEA citizens
 
-**[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/324283/en/)**
-
-### Required documents when you go in person
-
-- [ ] **Passport**  
-    You get your passport back during your appointment; they do not keep it.
-    - [ ] Passport of German spouse, parent or child[^7]
-- [ ] **Appointment confirmation**, printed  
-    You can't enter the *Ausländerbehörde* without an appointment.
-- [ ] **Passport photo** (35 × 45 mm)  
-    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
-- [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
-
-### Optional documents
-
-- [ ] Language certificate
-- [ ] Integration course certificate
+**[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/324283/en/)**
 
 ## After you get your [PR](/glossary/Niederlassungserlaubnis)
 
