@@ -189,11 +189,11 @@ If your country does not allow dual citizenship, becoming a German citizen means
 
 ### 1. Prepare your [PR](/glossary/Niederlassungserlaubnis) application
 
-Before you apply for permanent residence, you must **prepare the [required documents](#required-documents)**. If you are an employee, it's easy.
+Before you apply for permanent residence, prepare your documents.
 
-If you are self-employed, you need more documents. Some documents must be prepared by a [tax advisor](/glossary/Steuerberater). It can take a few weeks to prepare all your documents.
+**[Required documents ➞](#required-documents)**
 
-**[Find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
+If you are self-employed, some documents must be prepared by a [tax advisor](/glossary/Steuerberater). It can be hard to [find a tax advisor](/guides/english-speaking-steuerberater-berlin). It can take a few weeks to prepare the documents.
 
 ### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
@@ -226,7 +226,7 @@ When you go to your appointment, bring...
 - [ ] **The [required documents](#required-documents)**  
     Bring all your application documents, even if you already sent them online. In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2]
 - [ ] **Updated documents**  
-    If you wait a really long time for an appointment, they might ask for more recent documents.[^32] For example, an updated proof of income, proof of employment, proof of health insurance, and more.
+    If you wait a really long time for an appointment, they might ask for more recent proof of income, employment, health insurance and rent payments.[^32]
 - [ ] **Passport**  
     You get your passport back during your appointment; they do not keep it.
     - [ ] **Passport of your spouse, parent or child**[^7] (if applicable)
@@ -308,8 +308,11 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 ### For employees
 
-- [ ] **Pay slips** (*[[Gehaltsabrechnung]]*)[^15]
-- [ ] Employment certificate
+- [ ] **Work contract** (*Arbeitsvertrag*)[^49]
+- [ ] **Pay slips** (*[[Gehaltsabrechnung]]*)[^15]  
+    Bring your pay slips for the last 6 months.
+- [ ] **Employment certificate** (*[[Arbeitsbescheinigung]]*)[^37]  
+    It must be less than 14 days old. Get it from your employer.
 
 **[Required documents for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
 
@@ -318,8 +321,8 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 - [ ] **Proof of income**
     - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)  
         If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*.
-    - [ ] **[[Netto-Gewinnermittlung]]**  
-        Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater).
+    - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)  
+        Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater). It takes a few days to prepare.
 - [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)  
     It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
 - [ ] **Trade certificate** (*Gewerbeschein*)  
@@ -333,9 +336,9 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 **[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
 
-### For spouses of EU/EEA citizens
+### For refugees and asylum seekers
 
-**[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/324283/en/)**
+**[Required documents for refugees and asylum seekers ➞](https://service.berlin.de/dienstleistung/326554/en/)**
 
 ## After you get your [PR](/glossary/Niederlassungserlaubnis)
 
@@ -374,12 +377,12 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^7]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
 [^8]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (June 2024)
 [^9]: [§9 Abs. 4 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/) (June 2024)
-[^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024)
+[^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024), [Berlin.de](https://service.berlin.de/dienstleistung/326556/en/#:~:text=for%20the%20duration%20of%20your%20employment)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
 [^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^14]: Citation needed
-[^15]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/en/#:~:text=the%20last%206-,months,-Lease%20or%20proof) (June 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
+[^15]: [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022). For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=der%20letzten%206-,monate.,-Bei%20Selbst%C3%A4ndigen%20und) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=letzten%206%20Monate-,und,-Rentenversicherungsverlauf).
 [^16]: Citation needed (for different permits), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=it%20is%20sufficient%20that%20one%20of%20you%20fulfills%20this%20requirement), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
@@ -401,6 +404,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1118435285697773/) (2022)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^36]: Citation needed, [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
+[^37]: [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers) and [for everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
 [^40]: Citation needed (other residence permits) [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
@@ -412,9 +416,10 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^46]: [Reddit](https://old.reddit.com/r/GermanCitizenship/comments/1bl80qp/60_months_of_payment_into_pension_for_citizenship/) (2024)
 [^47]: [§9 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__9.html)
 [^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
-[^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
+[^49]: For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=Arbeitsvertrag), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=Arbeitsvertrag), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=Arbeitsvertrag) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=Arbeitsvertrag).
 [^50]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^51]: Citation needed
+[^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
 [^53]: Citation needed
 [^54]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^55]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
