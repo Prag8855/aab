@@ -132,7 +132,7 @@ To become a permanent resident, you must...
 
 - [ ] **Live in Germany for 5 years**  
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis). After 5 years in Germany, you can also [become a German citizen](#citizenship).
-- [ ] **Speak [[B1]] German**[^14]
+- [ ] **Speak [[B1]] German**[^20]
 - [ ] **Have a retirement pension**  
     You must have a public pension, or an equivalent private pension. See the [pension requirements](#pension-requirements).
 
@@ -142,7 +142,7 @@ To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways
 
 - **Pay into the public pension system**  
     If you are an employee, you automatically pay into the public pension system. If you worked for 12 months, you contributed for 12 months.
-- or **use your spouse's pension**
+- or **use your spouse's pension**  
     If you are married, it's enough if your spouse has an adequate pension.[^18]
 - or **get a private pension**  
     It must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire.[^42]
@@ -211,8 +211,6 @@ After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMI
 
 Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
-It's okay to change jobs after you send your application.[^20]
-
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
 ### 4. Go to your [PR](/glossary/Niederlassungserlaubnis) appointment
@@ -280,7 +278,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] or **proof of private health insurance**  
         Bring your insurance contract, a *Mitgliedsbescheinigung*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of health insurance payments**  
-    Bring recent bank account statements that show health insurance payments.
+    Bring bank account statements that show recent health insurance payments.[^58]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
@@ -291,8 +289,10 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] and **proof of rent payments**  
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
-    - **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
+    - [ ] **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
         [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks. If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
+    - [ ] or **proof of private pension**  
+        Bring your pension contract, and bank account statements that show pension payments.
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
@@ -304,7 +304,7 @@ In Berlin, these documents are optional, but they can help:
 If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterngeld*, *Betreuungsgeld* and other social benefits, you must bring...
 
 - [ ] **Proof of social benefits**  
-    Bring certificates and other documents that prove that you receive those social benefits.
+    Bring certificates and other documents that prove that you receive those social benefits.[^57]
 
 ### For employees
 
@@ -316,19 +316,23 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 **[Required documents for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
 
+**[Required documents for work visa holders ➞](https://service.berlin.de/dienstleistung/326558/en/)**
+
 ### For self-employed people
 
 - [ ] **Proof of income**
-    - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)  
-        If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*.
-    - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)  
+    - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
+        The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor. It takes a few days to prepare. If your finances are not organised, it can take a few weeks.
+    - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)[^59]  
+        If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*. It's not in the required documents, but they usually ask for it.
+    - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)[^59]  
         Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater). It takes a few days to prepare.
-- [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)  
-    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
-- [ ] **Trade certificate** (*Gewerbeschein*)  
-    If your business is a *[[Gewerbe]]*, bring your *[[Gewerbeschein]]*.
-- [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
+- [ ] **Trade certificate** (*[[Gewerbeschein]]*)[^59]  
+    If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*.
+- [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)[^59]  
     [If you need a *Handelsregister* entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*.
+- [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)[^59]  
+    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
 
 **[Required documents for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/en/)**
 
@@ -381,13 +385,13 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
 [^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
-[^14]: Citation needed
+[^14]: [§18c Abs. 1 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^15]: [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022). For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=der%20letzten%206-,monate.,-Bei%20Selbst%C3%A4ndigen%20und) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=letzten%206%20Monate-,und,-Rentenversicherungsverlauf).
 [^16]: Citation needed (for different permits), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=it%20is%20sufficient%20that%20one%20of%20you%20fulfills%20this%20requirement), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
-[^20]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1516872735854024/) (2024)
+[^20]: 
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
 [^22]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
@@ -424,3 +428,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^54]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^55]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^56]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
+[^57]: Citation needed
+[^58]: Personal experience (July 2024)
+[^59]: It's required with the Prüfungsbericht. Personal experience (July 2024)
