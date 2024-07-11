@@ -136,7 +136,7 @@ To become a permanent resident, you must...
 - [ ] **Have a retirement pension**  
     You must have a public pension, or an equivalent private pension. See the [pension requirements](#pension-requirements).
 
-## Pension requirements
+### Pension requirements
 
 To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
 
@@ -308,7 +308,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 - [ ] **Pay slips** (*[[Gehaltsabrechnung]]*)[^15]
 - [ ] Employment certificate
 
-**[Full requirements for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
+**[Required documents for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
 
 ### For self-employed people
 
@@ -327,11 +327,11 @@ If you have it, you should also bring...
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
     [If you need a *Handelsregister* entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*.
 
-**[Full requirements for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/en/)**
+**[Required documents for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/en/)**
 
 ### For spouses of German citizens
 
-**[Full requirements for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
+**[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
 
 ### For spouses of EU/EEA citizens
 
