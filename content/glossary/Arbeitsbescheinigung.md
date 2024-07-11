@@ -2,13 +2,24 @@
 Title: What is an Arbeitsbescheinigung?
 German_term: Arbeitsbescheinigung
 English_term: Certificate of employment
-Description: A document from your employer. It's required by the Agentur für Arbeit to get unemployment benefits.
-Date_created: 2023-08-06
+Description: A document from your employer. It confirms that you work there. It usually lists your salary and your position. It's sometimes called an Arbeitgeberbescheinigung.
+Date_created: 2018-05-06
 Related_guides:
     guides/losing-your-job.md
     guides/unemployment-benefits.md
+    guides/permanent-residence.md
+    guides/find-a-flat-in-berlin.md
+    guides/find-a-job-in-berlin.md
 ---
 
-When you leave a job, your employer must send an employment certificate (*Arbeitsbescheinigung*) to the *[[Agentur für Arbeit]]*. The *[[Agentur für Arbeit]]* needs this to give you *[unemployment benefits](/glossary/ALG%20I)*
+A certificate of employment (*Arbeitsbescheinigung* or *Arbeitgeberbescheinigung*) proves that you work for your employer. It can describe your job, your responsibilities, your salary and other details.
 
-**[How to get an Arbeitsbescheinigung ➞](/guides/losing-your-job#get-an-arbeitsbescheinigung)**
+You might need an *Arbeitsbescheinigung* to...
+
+- Apply for [permanent residence](/glossary/Niederlassungserlaubnis) at the *[[Ausländerbehörde]]*
+- Apply for [unemployment benefits](/glossary/ALG%20I) at the *[[Agentur für Arbeit]]*
+- Apply for an apartment. It's easier to read than a long work contract.[^1]
+
+You can request an *Arbeitsbescheinigung* from your employer.
+
+[^1]: [vermieterwelt.de](https://www.vermieterwelt.de/lexikon/arbeitgeberbescheinigung/)
