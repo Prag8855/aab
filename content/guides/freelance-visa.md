@@ -45,7 +45,7 @@ To get a freelance visa, you need...[^18]
 - [ ] **A local economic interest**  
     You must have clients in Germany or support the German economy.[^71] This is very important. If you don't plan to have clients or employees in Germany, you might not get a freelance visa.[^68]
 - [ ] **Enough income**  
-    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53] The minimum income is different in other cities.
+    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53] The minimum income is different in other cities. The minimum income is higher if you have children and dependents.[^79]
 - [ ] **Self-employed work**  
     You must be self-employed.[^73] You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Permission to do this job**  
@@ -529,3 +529,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^77]: Immigration lawyer on [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1736457546822941/) (December 2023)
 [^76]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^78]: Aydan Baghirova, [career coach](https://aydanbaghirova.de/) (April 2024)
+[^79]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf) (July 2024)
