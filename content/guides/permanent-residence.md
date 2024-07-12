@@ -36,11 +36,11 @@ You might also [qualify for German citizenship](#citizenship). It's better than 
 To become a permanent resident, you must...
 
 - [ ] **Support yourself**  
-    Your income or your spouse's income must cover your cost of living. If you have children or an unemployed spouse, it must also cover their cost of living.[^40] Social benefits do not count as income.[^16]
+    Your income or your spouse's income must cover your cost of living.[^60] If you have children or an unemployed spouse, it must also cover their cost of living.[^40] Social benefits like *[[Bürgergeld]]* and *Sozialhilfe* do not count as income. *[[Kindergeld]]*, *Elterngeld*, *Kinderzuschlag* and *Erziehungsgeld* count as income.[^16]
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family. You need 10 to 13 m^2^ per person.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
-    You need public or private health insurance. Public and private health insurance are accepted. [[Expat health insurance]] and travel insurance are not accepted.[^53]
+    You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted.[^53]
 
 There are more requirements, depending on your situation.
 
@@ -134,7 +134,7 @@ To become a permanent resident, you must...
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis). After 5 years in Germany, you can also [become a German citizen](#citizenship).
 - [ ] **Speak [[B1]] German**[^20]
 - [ ] **Have a retirement pension**  
-    You must have a public pension, or an equivalent private pension. See the [pension requirements](#pension-requirements).
+    See the [pension requirements](#pension-requirements).
 
 ### Pension requirements
 
@@ -145,10 +145,10 @@ To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways
 - or **use your spouse's pension**  
     If you are married, it's enough if your spouse has an adequate pension.[^18]
 - or **get a private pension**  
-    It must guarantee an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire.[^42]
+    It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must also guarantee a pension in case of disability.[^42]
 - or **have real estate or other investments**
 
-If you don't have a pension, you can still [become a German citizen](#citizenship). There is no pension requirement for citizenship.
+You need a *guaranteed* pension. Stocks or money in your bank account are not enough.[^61]
 
 If you are self-employed, you don't pay for a public pension. Instead, you can...
 
@@ -158,6 +158,10 @@ If you are self-employed, you don't pay for a public pension. Instead, you can..
     If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
 - or **get a private pension**
 - or **use your spouse's pension**
+
+If you are a refugee or an asylum seeker, you don't need a pension.[^55]
+
+If you don't have a pension, you can still [become a German citizen](#citizenship). There is no pension requirement for citizenship.
 
 ## Permanent residence alternatives
 
@@ -289,6 +293,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
     - [ ] and **proof of rent payments**  
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
+    See the [pension requirements](#pension-requirements).
     - [ ] **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
         [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks. If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
     - [ ] or **proof of private pension**  
@@ -309,7 +314,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 ### For employees
 
 - [ ] **Work contract** (*Arbeitsvertrag*)[^49]
-- [ ] **Pay slips** (*[[Gehaltsabrechnung]]*)[^15]  
+- [ ] **Recent pay slips** (*[[Gehaltsabrechnung]]*)[^15]  
     Bring your pay slips for the last 6 months.
 - [ ] **Employment certificate** (*[[Arbeitsbescheinigung]]*)[^37]  
     It must be less than 14 days old. Get it from your employer.
@@ -328,7 +333,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
     - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)[^59]  
         Bring this if you don't have a recent tax return. You must get it from your [tax advisor](/glossary/Steuerberater). It takes a few days to prepare.
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)[^59]  
-    If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*.
+    If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*. If you are a *[[Freiberufler]]*, you don't need this.
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)[^59]  
     [If you need a *Handelsregister* entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*.
 - [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)[^59]  
@@ -387,11 +392,11 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^14]: [§18c Abs. 1 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^15]: [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022). For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=der%20letzten%206-,monate.,-Bei%20Selbst%C3%A4ndigen%20und) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=letzten%206%20Monate-,und,-Rentenversicherungsverlauf).
-[^16]: Citation needed (for different permits), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
+[^16]: [§2 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [§9 Abs. 2 S. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
-[^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=it%20is%20sufficient%20that%20one%20of%20you%20fulfills%20this%20requirement), [§9 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=it%20is%20sufficient%20that%20one%20of%20you%20fulfills%20this%20requirement), [§9 Abs. 3 S. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
-[^20]: 
+[^20]: Citation needed
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
 [^22]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
@@ -413,7 +418,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
 [^40]: Citation needed (other residence permits) [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022)
-[^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024)
+[^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
@@ -431,3 +436,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^57]: Citation needed
 [^58]: Personal experience (July 2024)
 [^59]: It's required with the Prüfungsbericht. Personal experience (July 2024)
+[^60]: [§9 Abs. 2 S. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=zum%20einkommen%20auch%20durch%20ehegatten%20oder%20lebenspartner%20erbracht%20werden) (2024)
+[^61]: [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
