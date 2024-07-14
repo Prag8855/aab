@@ -83,7 +83,7 @@ The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin
 
 ### How to find your way around Berlin
 
-[Google Maps](https://www.google.com/maps/) works really well in Berlin. It also works offline. The [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) and the [Jelbi app](https://www.jelbi.de/en/home/) let you see train schedules and buy train tickets, but it does not work offline. [Maps.me](https://maps.me/) and [OsmAnd](https://osmand.net/) have offline maps and directions.
+[Google Maps](https://www.google.com/maps/) works really well in Berlin. It also works offline. The [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps) and the [Jelbi app](https://www.jelbi.de/en/home/) let you see train schedules and buy train tickets, but they don't work offline. [Maps.me](https://maps.me/) and [OsmAnd](https://osmand.net/) have offline maps and directions.
 
 ### How to use public transit in Berlin
 
@@ -234,13 +234,19 @@ If you are more patient, you can also use [CouchSurfing](https://www.couchsurfin
 
 ## Shopping in Berlin
 
-In Germany, **[shops and supermarkets close on Sundays](/guides/open-on-sundays-in-berlin)**. Most restaurants, tourist attractions, *[Spätis](/glossary/Sp%C3%A4ti)* and gas stations stay open on Sundays.
+### You need cash
 
 Germans pay with cash, Girocard, Visa and Mastercard. **Always have cash with you**. Many restaurants only accept cash. Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash.
 
 **[Payment methods in Germany ➞](/guides/banking#common-payment-methods)**
 
 ![Sign that says "Cash only"](/illustrations/berlin-cash-only-sign.png)
+
+### Shops close on sundays
+
+In Germany, shops and supermarkets close on Sundays. Most restaurants, tourist attractions, *[Spätis](/glossary/Sp%C3%A4ti)* and gas stations stay open on Sundays.
+
+**[What stays open on Sundays ➞](/guides/open-on-sundays-in-berlin)**
 
 ### VAT refund
 
@@ -250,7 +256,7 @@ If you live outside the [[European Union]], you can get a refund for the [VAT](/
 
 ## Stay connected
 
-If you visit from another EU country, your SIM card will also work in Germany. You make calls, send SMS and use mobile data without any extra costs.
+If you visit from another [EU](/glossary/European%20Union) country, your EU SIM card will also work in Germany. You make calls, send SMS and use mobile data without any extra costs.
 
 ### German power outlets
 
@@ -276,17 +282,23 @@ If you want mobile data while you visit Berlin, you should get a temporary SIM c
 There are 3 ways to buy a SIM card:
 
 - **Buy a digital SIM card** (eSIM){% include '_blocks/recommended.html' %}  
-    This is the easiest way. Buy an eSIM from [Airalo](/out/airalo), and activate it when you arrive in Berlin. It's very easy. I use it all the time when I travel. Your phone must support eSIMs.
-- **Get a SIM card at the airport**  
-    Go to the mobile phone kiosks at the airport, and buy a SIM card. It takes 15 to 30 minutes, but it can take longer when it's busy. Temporary SIM cards are more expensive.
+    This is the cheapest and easiest way. I use it all the time. You buy an eSIM from [Airalo](/out/airalo), and activate it when you arrive in Berlin. Your phone must support eSIMs.
 - **Get a SIM card at a mobile phone shop**  
     Buy a SIM card from a Vodafone, Telekom or O2 shop. Electronics stores like Saturn or MediaMarkt also sell and activate SIM cards. You must show your passport and a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) to activate the SIM card, but store employees will just use your passport and the address of your hotel.[^11]
+- **Get a SIM card at the airport**  
+    [The Wall Store](https://ber.berlin-airport.de/de/cafes-shops-service/sgs-poi/055-the-wall-store-berlin-t1.html) and [Travelex](https://ber.berlin-airport.de/de/cafes-shops-service/sgs-poi/069-travelex-t1.html) sell SIM cards at the Berlin. The Wall's SIM cards are much cheaper than Travelex. There is often a long queue to buy them, so [Airalo](/out/airalo) is much easier.
+
+![The Wall Store at Berlin airport](/images/the-wall-store-berlin-airport.jpg "The Wall Store at Berlin airport sells SIM cards, but they are too expensive.")
+
+![Travelex at Berlin airport](/images/travelex-berlin-airport.jpg "Travelex at Berlin airport sells SIM cards, but they are too expensive.")
 
 ### Maps
 
 [Google Maps](https://www.google.com/maps) works really well in Berlin. If you need offline maps, use [OsmAnd](https://osmand.net/) or [Maps.me](https://maps.me/). Google Maps [also works offline](https://support.google.com/maps/answer/6291838?co=GENIE.Platform=Android&hl=en), but you can't get directions.
 
-You should also download the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) or the [Jelbi app](https://www.jelbi.de/en/home/) to buy train tickets. They have more accurate train schedules. It's easier than the ticket machines, and it's in English. The Jelbi app also lets you book cars, scooters, bicycles and taxis.
+For more accurate public transport directions, get the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app).
+
+To buy public transport tickets, get the [BVG app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) or the [Jelbi app](https://www.jelbi.de/en/home/) to buy train tickets. They have more accurate train schedules. It's easier than the ticket machines, and it's in English. The Jelbi app also lets you book cars, scooters, bicycles and taxis.
 
 ## Be a good tourist
 
