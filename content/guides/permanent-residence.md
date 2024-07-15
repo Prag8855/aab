@@ -7,7 +7,7 @@ Date_created: 2024-07-01
 
 If you lived in Germany for a few years, you can become a permanent resident.
 
-As a permanent resident, you can...
+Permanent residents can...
 
 - Live in Germany
 - Work, study and freelance without the *[[Ausländerbehörde]]*'s permission
@@ -23,9 +23,9 @@ Permanent residence means **more stability**. It's better than a [residence perm
 - **It's more flexible**  
     It's not tied to your income or occupation. You can change jobs, start a business or study. You don't need permission from the *[[Ausländerbehörde]]*.
 - **It's permanent**  
-    You don't need to renew it every 2-3 years.[^12] It does not expire if you [lose your job](/guides/losing-your-job). It only expires if you get deported or [travel outside of Germany](#travel-as-a-permanent-resident) for a long time.
+    You don't need to renew it every 2 or 3 years.[^12] It does not expire if you [lose your job](/guides/losing-your-job). It only expires if you [travel outside of Germany](#travel-as-a-permanent-resident) for a long time.
 - **It's more trusted**  
-    It's easier to open a bank account, get a loan, get a mortgage, or find an apartment when you are a permanent resident.[^8]
+    It's easier to [open a bank account](/guides/best-bank-germany), get a loan, get a mortgage, or [find an apartment](/guides/find-a-flat-in-berlin) as a permanent resident.[^8]
 
 You might also [qualify for German citizenship](#citizenship). It's better than permanent residence.
 
@@ -36,7 +36,7 @@ You might also [qualify for German citizenship](#citizenship). It's better than 
 To become a permanent resident, you must...
 
 - [ ] **Support yourself**  
-    Your income or your spouse's income must cover your cost of living.[^60] If you have children or an unemployed spouse, it must also cover their cost of living.[^40] Social benefits like *[[Bürgergeld]]* and *Sozialhilfe* do not count as income. *[[Kindergeld]]*, *Elterngeld*, *Kinderzuschlag* and *Erziehungsgeld* count as income.[^16]
+    Your income or your spouse's income must cover your cost of living.[^60] It must also cover your children and unemployed spouse's cost of living.[^40] Income from social benefits like *[[Bürgergeld]]* and *Sozialhilfe* do not count. Income from *[[Kindergeld]]*, *Elterngeld*, *Kinderzuschlag* and *Erziehungsgeld* counts.[^16]
 - [ ] **Have a place to live**  
     Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family. You need 10 to 13 m^2^ per person.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
@@ -50,9 +50,9 @@ There are more requirements, depending on your situation.
 To become a permanent resident, you must also...
 
 - [ ] **Have a job**  
-    If you are unemployed, or if your contract ends in under 6 months, you probably won't get a [PR](/glossary/Niederlassungserlaubnis).[^36] Sometimes, they also reject people in their [probation period](/glossary/Probezeit).[^50]
+    If you are unemployed, or if your work contract ends in the next 6 months, you probably won't get a [PR](/glossary/Niederlassungserlaubnis).[^36] They sometimes reject people in their [probation period](/glossary/Probezeit).[^50]
 - [ ] **Have a Blue Card for 21 to 27 months**  
-    27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when your job met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), even if you had a different residence permit.[^41]
+    27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when you met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), but had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[A1]] or [[B1]] German**
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 27 months of public pension insurance, or 21 months if you speak [[B1]] German. When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
@@ -64,7 +64,7 @@ To become a permanent resident, you must also...
 - [ ] **Have a §18a, §18b or §18d work visa**[^38]  
     The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different type of residence permit, follow the [requirements for everybody else](#everybody-else).
 - [ ] **Work for 2 to 3 years**[^11]  
-    2 years if you graduated from a German university, or 3 years otherwise. This includes the time when your job met the [work visa requirements](/guides/work-visa#work-visa-requirements), even if you had a different residence permit.[^41]
+    2 years if you graduated from a German university, or 3 years otherwise. This includes the time when you met the [work visa requirements](/guides/work-visa#work-visa-requirements), but had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[B1]] German**[^14]
 - [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
@@ -73,16 +73,16 @@ To become a permanent resident, you must also...
 
 To become a permanent resident, you must also...
 
-- [ ] **Have a §21 Abs. 1 or 2a freelance visa**[^6]  
+- [ ] **Have a §21 Abs. 1 or 2a freelance visa for 3 years**[^6]  
     The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for everybody else](#everybody-else).
-- [ ] **Have a freelance visa for 3 years**  
-    In Berlin, it's okay if you had different businesses during that time. Your current business must be successful and profitable.[^26]
 - [ ] **Have a profitable business**  
-    You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *Ausländerbehörde* thinks that your business is successful and sustainable. The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
+    You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *[[Ausländerbehörde]]* thinks that your business is successful, profitable and sustainable.
 - [ ] **Support yourself**  
-    In Berlin, they only check your own income from self-employment. Income from investments, from social benefits or from your spouse does not count.[^22]
+    In Berlin, they only check your own income from self-employment. Income from investments does not count. Income from your spouse does not count.[^22]
 
 In Berlin, there should be no pension or language requirement.[^39]
+
+If you don't meet those requirements, follow the [requirements for everybody else](#everybody-else).
 
 ### If you live with a German citizen
 
@@ -90,11 +90,13 @@ To become a permanent resident, you must also...[^27]
 
 - [ ] **Have a German spouse, child or parent**
 - [ ] **Live together for 3 years**  
-    You must live together, in Germany, for 3 years without interruption.[^29] You can also [become a citizen](#citizenship) after 3 years.
+    You must live together, in Germany, for 3 years without interruption.[^29]
 - [ ] **Speak [[B1]] German**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 
 There is no pension requirement.[^56]
+
+You can also [become a citizen](#citizenship) after 3 years.
 
 ### If your spouse has a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)
 
