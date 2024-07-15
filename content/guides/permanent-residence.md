@@ -122,6 +122,8 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
 
 To become a permanent resident, you must...[^23]
 
+- [ ] **Have the correct residence permit**  
+    You must have a *§25 Abs. 1*, *§25 Abs. 2 S. 1*, or *§23 Abs. 4* residence permit.[^26] The type is [written on your residence permit](/illustrations/freelance-visa-type.png).
 - [ ] **Live in Germany for 3 to 5 years**  
     3 years if you speak [[C1]] German, or 5 years otherwise. This includes the asylum process time.[^54]
 - [ ] **Speak [[A2]] or [[C1]] German**
@@ -197,9 +199,9 @@ If your country does not allow dual citizenship, becoming a German citizen means
 
 Before you apply for permanent residence, prepare your documents.
 
-**[Required documents ➞](#required-documents)**
-
 If you are self-employed, some documents must be prepared by a [tax advisor](/glossary/Steuerberater). It can be hard to [find a tax advisor](/guides/english-speaking-steuerberater-berlin). It can take a few weeks to prepare the documents.
+
+**[Required documents ➞](#required-documents)**
 
 ### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
@@ -412,6 +414,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/helc3kp/) (2021), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/) (2023)
 [^25]: [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/02_Pflicht-und-freiwillig-Versicherte/pflicht-und-freiwillig-versicherte_Inhalt_01_selbstaendig_und_pflichtversichert.html), [Sebastian Hoffmann](https://www.facebook.com/groups/berlinfreelancers/posts/2796580587088974/) (2020)
+[^26]: [Berlin.de](https://service.berlin.de/dienstleistung/326554/#:~:text=Die%20Aufenthaltserlaubnis%20muss,Dienstleistung%20%22Niederlassungserlaubnis%20(allgemein)%22.) (July 2024)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
