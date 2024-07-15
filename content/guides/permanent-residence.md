@@ -38,7 +38,7 @@ To become a permanent resident, you must...
 - [ ] **Support yourself**  
     Your income or your spouse's income must cover your cost of living.[^60] It must also cover your children and unemployed spouse's cost of living.[^40] Income from social benefits like *[[Bürgergeld]]* and *Sozialhilfe* do not count. Income from *[[Kindergeld]]*, *Elterngeld*, *Kinderzuschlag* and *Erziehungsgeld* counts.[^16]
 - [ ] **Have a place to live**  
-    Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address) for you and your family. You need 10 to 13 m^2^ per person.[^51]
+    Your apartment must be big enough for you and your family. You need 9 m^2^ per adult, and 6 m^2^ per child.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
     You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted.[^53]
 
@@ -50,7 +50,7 @@ There are more requirements, depending on your situation.
 To become a permanent resident, you must also...
 
 - [ ] **Have a job**  
-    If you are unemployed, or if your work contract ends in the next 6 months, you probably won't get a [PR](/glossary/Niederlassungserlaubnis).[^36] They sometimes reject people in their [probation period](/glossary/Probezeit).[^50]
+    You must have a stable, long-term income. If you are unemployed, if you are in your [probation period](/glossary/Probezeit), or if your work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If you have a history of stable employment, you might get it anyway.[^36]
 - [ ] **Have a Blue Card for 21 to 27 months**  
     27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when you met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), but had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[A1]] or [[B1]] German**
@@ -103,7 +103,7 @@ You can also [become a citizen](#citizenship) after 3 years.
 To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
-    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28]
+    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] It should not be a new job or a temporary job.[^63] Self-employment is allowed.[^62]
 
 Your spouse must...
 
@@ -288,7 +288,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.
+        It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^51] You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it. Bring it even if you registered your address.
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)
@@ -398,7 +398,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^17]: [§9 Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^18]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=Rentenversicherung%20geleistet%20haben%20\(-,diese%20voraussetzung%20kann%20auch%20durch%20ehegatten%20erfullt%20werden) (June 2024), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=it%20is%20sufficient%20that%20one%20of%20you%20fulfills%20this%20requirement), [§9 Abs. 3 S. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^19]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=36%20monate%20pflichtbeitrage) (June 2024)
-[^20]: Citation needed
+[^20]: [§9 Abs. 2 S. 7 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§9a Abs. 2 S. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html)
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
 [^22]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
@@ -414,7 +414,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^33]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=super%20smooth%20and-,at%20the%20end%20i%20paid,-113%20euros.%20I) (2023)
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1118435285697773/) (2022)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
-[^36]: Citation needed, [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
+[^36]: [VAB 2.3.1.10](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
 [^37]: [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers) and [for everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
@@ -428,8 +428,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^47]: [§9 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__9.html)
 [^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
 [^49]: For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=Arbeitsvertrag), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=Arbeitsvertrag), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=Arbeitsvertrag) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=Arbeitsvertrag).
-[^50]: [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
-[^51]: Citation needed
+[^51]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
 [^53]: Citation needed
 [^54]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
@@ -440,3 +439,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^59]: It's required with the Prüfungsbericht. Personal experience (July 2024)
 [^60]: [§9 Abs. 2 S. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=zum%20einkommen%20auch%20durch%20ehegatten%20oder%20lebenspartner%20erbracht%20werden) (2024)
 [^61]: [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
+[^62]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
+[^63]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)

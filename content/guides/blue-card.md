@@ -126,7 +126,7 @@ Before you apply for the Blue Card, you must...
 
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
-    - [ ] Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address).
+    - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^49]
     - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a Blue Card.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
@@ -296,7 +296,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).  If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be [big enough](/guides/anmeldung-in-english-berlin#how-many-people-can-register-at-the-same-address). You must make enough money to pay your rent.[^47] It can be a temporary lease, a [[WG]] or a sublet.
+        It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^49] You must make enough money to pay your rent.[^47] It can be a temporary lease, a [[WG]] or a sublet.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a Blue Card without it.[^1]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
@@ -424,4 +424,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^46]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^47]: [Fiona Macdonald](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
 [^48]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/) (June 2024), [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
+[^49]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
