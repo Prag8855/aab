@@ -40,7 +40,7 @@ To become a permanent resident, you must...
 - [ ] **Have a place to live**  
     Your apartment must be big enough for you and your family. You need 9 m^2^ per adult, and 6 m^2^ per child.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
-    You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted.[^53]
+    You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted.
 
 There are more requirements, depending on your situation.
 
@@ -345,6 +345,14 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 ### For spouses of German citizens
 
+If you depend on your spouse's income, bring...[^50]
+
+- [ ] **Work contract** (*Arbeitsvertrag*)
+- [ ] **Recent pay slips** (*[[Gehaltsabrechnung]]*)  
+    Bring their pay slips for the last 6 months.
+- [ ] **Employment certificate** (*[[Arbeitsbescheinigung]]*)  
+    It must be less than 14 days old. Get it from their employer.
+
 **[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
 
 ### For refugees and asylum seekers
@@ -404,7 +412,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^24]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0azu8k/) (September 2023), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/helc3kp/) (2021), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/) (2023)
 [^25]: [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/02_Pflicht-und-freiwillig-Versicherte/pflicht-und-freiwillig-versicherte_Inhalt_01_selbstaendig_und_pflichtversichert.html), [Sebastian Hoffmann](https://www.facebook.com/groups/berlinfreelancers/posts/2796580587088974/) (2020)
-[^26]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
@@ -418,7 +425,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^37]: [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers) and [for everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
-[^40]: Citation needed (other residence permits) [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
@@ -430,14 +437,14 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^49]: For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=Arbeitsvertrag), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=Arbeitsvertrag), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=Arbeitsvertrag) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=Arbeitsvertrag).
 [^51]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
-[^53]: Citation needed
 [^54]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^55]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^56]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
-[^57]: Citation needed
+[^57]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=Nachweise%20%C3%BCber%20den,z.%20B.%20Bescheid)
 [^58]: Personal experience (July 2024)
 [^59]: It's required with the Prüfungsbericht. Personal experience (July 2024)
 [^60]: [§9 Abs. 2 S. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=zum%20einkommen%20auch%20durch%20ehegatten%20oder%20lebenspartner%20erbracht%20werden) (2024)
 [^61]: [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^62]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^63]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
+[^50]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=%20your%20spouse%20or%20same-sex%20life%20partner%20may%20also%20provide%20proof%20of%20income.%20) (July 2024)
