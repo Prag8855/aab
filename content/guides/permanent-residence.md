@@ -27,7 +27,7 @@ Permanent residence means **more stability**. It's better than a [residence perm
 - **It's more trusted**  
     It's easier to [open a bank account](/guides/best-bank-germany), get a loan, get a mortgage, or [find an apartment](/guides/find-a-flat-in-berlin) as a permanent resident.[^8]
 
-You might also [qualify for German citizenship](#citizenship). It's better than permanent residence.
+You might also [qualify for German citizenship](#citizenship). Citizenship is better than permanent residence.
 
 ## Permanent residence requirements
 
@@ -388,6 +388,8 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 Your permanent residence does not expire, but when you renew your passport, you must update your permanent residence card. You can do this at the *Bürgeramt* or at the *Ausländerbehörde*. You need your old passport and your new passport.
 
+You will get a new permanent residence card a few weeks after your appointment.[^64]
+
 **[Update your permanent residence card ➞](https://service.berlin.de/dienstleistung/324280/en/)**
 
 ## Need help?
@@ -463,3 +465,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^63]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=%20your%20spouse%20or%20same-sex%20life%20partner%20may%20also%20provide%20proof%20of%20income.%20) (July 2024)
 [^53]: [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024)
+[^64]: [ArbeitNow](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin#:~:text=around%203%20weeks%20after%20the%20appointment) (2023)
