@@ -384,6 +384,12 @@ If you leave Germany for more than 6 months, your PR expires. If you have a EU P
 
 Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
 
+### Renew your permanent residence
+
+Your permanent residence does not expire, but when you renew your passport, you must update your permanent residence card. You can do this at the *Bürgeramt* or at the *Ausländerbehörde*. You need your old passport and your new passport.
+
+**[Update your permanent residence card ➞](https://service.berlin.de/dienstleistung/324280/en/)**
+
 ## Need help?
 
 An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions.
