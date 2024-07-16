@@ -145,7 +145,7 @@ Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https:/
     There are many memorials to the Red Army, who liberated Berlin in 1945. There are big memorials in [Tiergarten](https://goo.gl/maps/TrTKfFqkAvgddp2B6), [Treptower Park](https://goo.gl/maps/eG2tX5kstHTv6aeu8), and in [Schönholzer Heide](https://goo.gl/maps/sGbEj8xHFn6w3VJq5). The biggest one is in Treptower Park.
 - **[Tempelhof airfield](https://goo.gl/maps/C3RTE5V9PYnCiZjP6)** (*Tempelhofer Feld*)  
     This giant former airfield is where many Berliners go to relax, drink beer, skate, kite surf and cycle. It's a great place to visit on a sunny day.
-- **[Teufelsberg**](https://goo.gl/maps/2FeB6UnVv4LohpQR9)**  
+- **[Teufelsberg](https://goo.gl/maps/2FeB6UnVv4LohpQR9)**  
     Teufelsberg is an artificial hill. There is a cold war listening station at the top. It's now an open air gallery with a really good view of Berlin. If you don't want to pay to visit Teufelsberg, you can visit Drachenberg, the other hill next to it.
 - **[TV tower](https://goo.gl/maps/svPnugSozyyAiQ1v7)** (*Fernsehturm*)  
     The TV tower in Alexanderplatz is visible from almost anywhere in Berlin. You can take an elevator to the top of the tower, and get a panoramic view of Berlin.
@@ -203,9 +203,12 @@ Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow
 
 ### Typical Berlin street food
 
-- **[Currywurst](https://en.wikipedia.org/wiki/Currywurst)** - Currywurst is street food. It's a pork sausage with a curry and ketchup sauce. It's usually served with fries (*mit Pommes*) in a cardboard plate. [Curry 36](https://www.google.com/maps/search/Curry+36/@52.540513,13.3772295,13z/) is a good place to try a *Currywurst mit Pommes*. [Konnopke's Imbiss](https://goo.gl/maps/Kh2gtdq55ccLzDQeA) is another famous place.
-- **Döner kebab** - The standard street food in Berlin. The best kebab places are a secret, but the [worst kebabs](https://www.reddit.com/r/berlin/comments/77vdgd/where_is_the_worst_kebab_in_berlin/) are usually in train stations and tourist areas.
-- **Gemüse döner** (also called a chicken döner) - A döner kebab with chicken and fried vegetables. [Mustafa's](https://goo.gl/maps/RLhvoLhZNAhjABheA), [K'Ups](https://goo.gl/maps/FVVnfPsZLfYNoF5r9) and [Rüyam](https://g.page/rueyam) are some of the most famous chicken Döner places.
+- **[Currywurst](https://en.wikipedia.org/wiki/Currywurst)**  
+    Currywurst is street food. It's a pork sausage with a curry and ketchup sauce. It's usually served with fries (*mit Pommes*) in a cardboard plate. [Curry 36](https://www.google.com/maps/search/Curry+36/@52.540513,13.3772295,13z/) and [Konnopke's Imbiss](https://goo.gl/maps/Kh2gtdq55ccLzDQeA) are two famous options.
+- **Döner kebab**  
+    The standard street food in Berlin. The best kebab places are a secret, but the [worst kebabs](https://www.reddit.com/r/berlin/comments/77vdgd/where_is_the_worst_kebab_in_berlin/) are usually in train stations and tourist areas.
+- **Gemüse Döner** (or chicken Döner)  
+    A Döner kebab with chicken and fried vegetables. [Mustafa's](https://goo.gl/maps/RLhvoLhZNAhjABheA) and [Rüyam](https://g.page/rueyam) are some of the most famous chicken Döner places. I like [K'Ups](https://goo.gl/maps/FVVnfPsZLfYNoF5r9) and [Superhahn](https://maps.app.goo.gl/ph8hMNRE3JtpvTbB6).
 
 ### Typical Berlin dishes
 
