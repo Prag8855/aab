@@ -386,11 +386,9 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 ### Renew your permanent residence
 
-Your permanent residence does not expire, but when you renew your passport, you must update your permanent residence card. You can do this at the *Bürgeramt* or at the *Ausländerbehörde*. You need your old passport and your new passport.
+**When you get a new passport**, your permanent residence *card* becomes invalid. You are still a permanent resident, but you need an updated permanent residence card.
 
-You will get a new permanent residence card a few weeks after your appointment.[^64]
-
-**[Update your permanent residence card ➞](https://service.berlin.de/dienstleistung/324280/en/)**
+You must [get a Bürgeramt appointment](https://service.berlin.de/dienstleistung/324280/en/), go in person, pay {{RESIDENCE_PERMIT_REPLACEMENT_FEE|cur}}€, and wait a few weeks for a new card.[^64] The [[eID]] function might be deactivated on your new card. You need [another *Bürgeramt* appointment](https://service.berlin.de/dienstleistung/329830/) to activate it.[^65]
 
 ## Need help?
 
@@ -465,4 +463,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^63]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=%20your%20spouse%20or%20same-sex%20life%20partner%20may%20also%20provide%20proof%20of%20income.%20) (July 2024)
 [^53]: [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024)
-[^64]: [ArbeitNow](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin#:~:text=around%203%20weeks%20after%20the%20appointment) (2023)
+[^64]: [ArbeitNow](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin#:~:text=around%203%20weeks%20after%20the%20appointment) (2023), [§45c AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45c.html)
+[^65]: [Adithya Srinivasan](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin) (July 2024)

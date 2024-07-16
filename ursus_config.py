@@ -375,6 +375,7 @@ config.context_globals = {
     "SCHENGEN_VISA_FEE": 75,
     "NATIONAL_VISA_FEE": 100,
     "NATIONAL_VISA_RENEWAL_FEE": 96,
+    "RESIDENCE_PERMIT_REPLACEMENT_FEE": 67,  # After a passport change (€) - §45c AufenthV
 
     # Minimum pension value (€) to get a freelance visa above age 45 - A21.3 VAB
     # 144 times FREELANCE_VISA_MIN_MONTHLY_PENSION, it seems
