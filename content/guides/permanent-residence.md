@@ -205,11 +205,16 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
-You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you.
+You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. You might not get a confirmation email.
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. They might contact you multiple times to ask for more documents.[^2] When they have all the documents they need, they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. You might get no response for a few months. When I applied, they took 3 months to reply.
+
+They might email you and ask for more documents.[^2] Read the email carefully.
+If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send more documents.[^53]
+
+When they have all the documents they need, they will invite you for an appointment.
 
 Sometimes, it takes so long that you must bring a more recent version of your documents.[^32]
 
@@ -390,7 +395,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
 [^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hfzktnz/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
-[^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024)
+[^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024)
 [^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6r3nh7/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/791422385065733/) (2021)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/1djlvnw/my_8_month_pr_experience/) (June 2024)
@@ -451,3 +456,4 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^62]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^63]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=%20your%20spouse%20or%20same-sex%20life%20partner%20may%20also%20provide%20proof%20of%20income.%20) (July 2024)
+[^53]: [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024)

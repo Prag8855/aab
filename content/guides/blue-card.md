@@ -154,7 +154,7 @@ After you pay and send your application, you can download a PDF. This is a proof
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+The *Ausländerbehörde* will process your application. You might get no response for a few weeks. Then they will invite you for an appointment.
 
 In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
 
@@ -185,12 +185,14 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 
 ### 7. Get your Blue Card
 
-{{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
+After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+
+You will get 2 letters:[^22]
 
 1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
 2. **Your Blue Card**  
-    Around 2 weeks later, you get your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
+    Around 2 weeks after you get the eID activation code, you get your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 

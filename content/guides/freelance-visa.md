@@ -146,7 +146,7 @@ There are 2 ways to apply for a freelance visa in Berlin:
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get invited for an appointment. After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your freelance visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), you might get no response for a few weeks. Then they will invite you for an appointment.
 
 In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
 
@@ -181,12 +181,14 @@ If they approve your freelance visa, they must print the plastic card. This take
 
 ### 7. Get your freelance visa
 
-{{ RESIDENCE_PERMIT_WAIT_TIME }} after your *Ausländerbehörde* appointment,[^22] you get 2 letters:
+After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your freelance visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+
+You will get two letters:[^22]
 
 1. **The [[eID]] activation code**  
     This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your freelance visa.
 2. **Your freelance visa**  
-    Around 2 weeks later, you get your freelance visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    Around 2 weeks after you get the eID activation code, you get your freelance visa, or an invitation to collect it at the *Ausländerbehörde*.[^28] If you did not pay the {{ NATIONAL_VISA_FEE|cur }}€ fee, you must pay it during your *Ausländerbehörde* visit. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 Your freelance visa is a plastic card. The expiration date is written on it. It's **valid for up to 3 years**.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
 
