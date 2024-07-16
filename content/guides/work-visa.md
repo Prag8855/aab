@@ -349,7 +349,7 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Word documents and other formats are unreliable.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also mail your documents.
+If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), **use PDF files or photos.** Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also mail your documents.
 
 If you apply in person, print everything. Use A4 paper. Do not staple the pages together.
 

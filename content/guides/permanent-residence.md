@@ -275,7 +275,7 @@ Check if the information on your permanent residence card is correct. The *Ausl�
 
 These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**When you apply online**, use PDF files or photos. Word documents and other formats are unreliable. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
+**When you apply online**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
 
 **When you go in person**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
 
