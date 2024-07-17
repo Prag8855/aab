@@ -172,7 +172,7 @@ You can rent electric scooters (🛴) from [Bolt](https://bolt.eu/en-de/scooters
 
 ### Rent a moped
 
-You can rent motor scooters (🛵) from [Emmy](https://emmy-sharing.de/en/). You can book them in the [Jelbi](https://www.jelbi.de/en/home/) app too.
+You can rent motor scooters (🛵) from [Emmy](https://emmy-sharing.de/en/). You can book them in the [Jelbi](https://www.jelbi.de/en/home/) app too. Create an account in advance, because their verification process is unreliable.
 
 There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they're only valid for 6 months after you move to Germany.
 
