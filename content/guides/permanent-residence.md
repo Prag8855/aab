@@ -303,7 +303,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
         Print recent bank statements that show rent payments.[^52]
 - [ ] **Proof of pension**  
     See the [pension requirements](#pension-requirements).
-    - [ ] **Versicherungsverlauf** from the [[Deutsche Rentenversicherung]]  
+    - [ ] **[[Versicherungsverlauf]]** from the [[Deutsche Rentenversicherung]]  
         [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks. If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
     - [ ] or **proof of private pension**  
         Bring your pension contract, and bank account statements that show pension payments.

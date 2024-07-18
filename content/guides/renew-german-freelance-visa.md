@@ -150,7 +150,7 @@ Bring these documents to your visa interview. [The official list of documents](h
             [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] It can take a few days to receive this document.
         - [ ] **and a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
-        - [ ] **and a certificate of tax matters** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
+        - [ ] **and a [certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
             It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.[^8]
     - **If you are a freelancer** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
         - [ ] **Tax assessments** (*[[Steuerbescheid]]*)  
@@ -206,10 +206,10 @@ You must print hundreds of pages. I printed around 350 pages for my appointment.
 
 A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or between 22.80€ and 37€ for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, you must pay 13€.[^13]
 
-Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:
+Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:{{ fail_on('2024-12-31') }}
 
 - The *aktuelle Handelsregisterauszug* costs 10€.[^7]
-- The *Bescheinigung in Steuersachen* costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€.[^8]
+- The *Bescheinigung in Steuersachen* costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€, if you need it.[^8]
 - The *[[Gewerbeschein]]* costs 15€ to 31€.[^14] You probably have it already.
 - The *[[Prüfungsbericht]]* requires a tax advisor (*[[Steuerberater]]*), and costs up to 800€.[^11]
 - The *[[Netto-Gewinnermittlung]]* requires a tax advisor (*Steuerberater*), and costs 100€ to 150€.
