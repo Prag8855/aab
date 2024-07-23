@@ -6,6 +6,7 @@ Description: A document that shows your history of pension payments
 Date_created: 2024-07-18
 Related_guides:
     guides/permanent-residence.md
+    guides/pension-payments-refund.md
 ---
 
 A *Versicherungsverlauf* shows your history of public pension insurance payments. You can request it online from the [[Deutsche Rentenversicherung]].
