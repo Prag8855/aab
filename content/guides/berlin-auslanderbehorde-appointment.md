@@ -100,9 +100,9 @@ You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel
 While you wait for the *Ausländerbehörde*...
 
 - **Work or study like before**  
-    After you send a residence permit application, the conditions of your *current* residence permit or National Visa still apply. You can work or study like before. Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to know what you are allowed to do.
+    After you send a residence permit application, the conditions of your *current* residence permit or National Visa still apply. You can work or study like before. Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to know what you are allowed to do. Some employers don't know that, and they might think they have to fire you.
 - **Do not leave Germany**  
-    You might be unable to re-enter Germany with an expired residence permit or National Visa. Citizens of {{AUFENTHV_41_COUNTRIES}} can usually travel. Others need a *[[Fiktionsbescheinigung]]*.
+    You might be unable to re-enter Germany with an expired residence permit or National Visa. Citizens of {{AUFENTHV_41_COUNTRIES}} [can usually travel](/guides/fiktionsbescheinigung#travel-without-a-fiktionsbescheinigung). Others need a *[[Fiktionsbescheinigung]]*.
 
 **[Travel with an expired residence permit ➞](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung)**
 
