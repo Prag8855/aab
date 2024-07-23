@@ -2,14 +2,19 @@
 Title: What is an Arbeitgeberbescheinigung?
 German_term: Arbeitgeberbescheinigung
 English_term: Certificate of employment
-Description: A document from your employer. It confirms that you work there. It usually lists your salary and your position. It's sometimes called an Arbeitsbescheinigung.
-Date_created: 2018-05-06
+Description: A document from your employer. It confirms that you work there. It usually lists your salary and your position. You might need it to renew your residence permit.
+Date_created: 2024-07-23
 Related_guides:
-    guides/losing-your-job.md
-    guides/unemployment-benefits.md
     guides/permanent-residence.md
     guides/find-a-flat-in-berlin.md
     guides/find-a-job-in-berlin.md
 ---
 
-See [[Arbeitsbescheinigung]]
+A certificate of employment (*Arbeitgeberbescheinigung*) proves that you work for your employer. It describes your job, your responsibilities, your salary and other details.
+
+You can request an *Arbeitgeberbescheinigung* from your employer. It has no specific format. You might need it to renew your [residence permit](/glossary/Aufenthaltstitel), or to [apply for permanent residence](/guides/permanent-residence). You can also use it as a proof of income when you [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment).[^1]
+
+The *Arbeitgeberbescheinigung* is not the same thing as the *[[Arbeitsbescheinigung]]*.[^2]
+
+[^1]: [vermieterwelt.de](https://www.vermieterwelt.de/lexikon/arbeitgeberbescheinigung/)
+[^2]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2024)

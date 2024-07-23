@@ -349,7 +349,7 @@ To apply for an apartment, you need these documents:[^19]
     It costs {{SCHUFA_REPORT_FEE|cur}}€, but you can [get it for free](/guides/schufa). If you can't get a Schufa, bring more proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
 - [ ] **Proof of income** (*Einkommensnachweis*)
     - **If you are an employee**  
-        Bring your work contract or a [certificate of employment](/glossary/Arbeitsbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
+        Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
     - **If you are self-employed**  
         Bring a profit and loss statement stamped by your [tax advisor](/glossary/Steuerberater), or a recent *[[Steuerbescheid]]*. A *betriebswirtschaftliche Auswertung* also works. [Bank account statements](/glossary/Kontoauszug) help, but landlords trust them less.[^38]
     - **If you are a student**  

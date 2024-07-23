@@ -325,7 +325,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 - [ ] **Work contract** (*Arbeitsvertrag*)[^49]
 - [ ] **Recent pay slips** (*[[Gehaltsabrechnung]]*)[^15]  
     Bring your pay slips for the last 6 months.
-- [ ] **Employment certificate** (*[[Arbeitsbescheinigung]]*)[^37]  
+- [ ] **Employment certificate** (*[[Arbeitgeberbescheinigung]]*)[^37]  
     It must be less than 14 days old. Get it from your employer.
 
 **[Required documents for Blue Card holders ➞](https://service.berlin.de/dienstleistung/326556/en/)**
@@ -357,7 +357,7 @@ If you depend on your spouse's income, bring...[^50]
 - [ ] **Work contract** (*Arbeitsvertrag*)
 - [ ] **Recent pay slips** (*[[Gehaltsabrechnung]]*)  
     Bring their pay slips for the last 6 months.
-- [ ] **Employment certificate** (*[[Arbeitsbescheinigung]]*)  
+- [ ] **Employment certificate** (*[[Arbeitgeberbescheinigung]]*)  
     It must be less than 14 days old. Get it from their employer.
 
 **[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
