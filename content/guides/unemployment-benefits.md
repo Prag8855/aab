@@ -35,15 +35,17 @@ You can get **[[ALG I]]** with a [residence permit](/glossary/Aufenthaltstitel) 
 
 Some *[[Agentur für Arbeit]]* case workers refuse to give *[[ALG I]]* to people with residence permits. This is wrong, and you can force them to pay unemployment benefits.[^31]
 
-If you *currently* get *ALG I*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34]
+If you *currently* get *ALG I*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34] Find a job before you apply. If you have a history of stable employment, you might get permanent residence anyway.
 
-If you got *ALG I* before, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
+If you got *ALG I* in the past, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
 
 You can rarely get **[[Bürgergeld]]** with a residence permit. If your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* says "Erlischt mit Bezug von Leistungen nach dem SGB II oder ...", you can't get *Bürgergeld*.[^33]
 
 ## When do I get unemployment benefits?
 
-Usually, **as soon as you stop working**, except if there is a disqualification period (*Sperrzeit*). You get paid at the end of the month.
+Usually, **as soon as you stop working**, except if there is a disqualification period (*Sperrzeit*).
+
+You get paid at the end of the month. For example, you get the February unemployment benefits at the end of February.
 
 ### The Sperrzeit
 

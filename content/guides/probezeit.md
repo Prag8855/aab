@@ -47,9 +47,15 @@ During your probation period, it's easier to quit your job. Your [notice period]
 
 **[How to quit your job ➞](/guides/losing-your-job)**
 
-### Other things you should know
+### Finding an apartment
 
 It's harder to get a loan or [find an apartment](/guides/find-a-flat-in-berlin) during your probation period, because you can easily lose your job.[^8] Landlords want tenants that have a stable job. Banks won't give you money if you don't have a stable income.
+
+### Permanent residence
+
+To apply for [permanent residence](/glossary/Niederlassungserlaubnis), you need a stable, long-term income. If you are in your probation period, you might not get a [PR](/glossary/Niederlassungserlaubnis). If you have a history of stable employment, you might get it anyway.[^13]
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
 ## After your probation
 
@@ -78,3 +84,4 @@ After your probation is over, you can use all your vacation days for the year.[^
 [^10]: [karrierebibel.de](https://karrierebibel.de/lange-kuendigungsfrist/)
 [^11]: [reddit.com](https://old.reddit.com/r/germany/comments/s1cx6t/notice_period_when_quitting_a_job_whats_the/)
 [^12]: [howtogermany.com](https://www.howtogermany.com/pages/employee-rights.html), [personio.de](http://web.archive.org/web/20230216130453/https://www.personio.de/hr-lexikon/urlaubsanspruch-berechnen/)
+[^13]: [VAB 2.3.1.10](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
