@@ -345,7 +345,7 @@ config.context_globals = {
     "PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE": 22,
 
     # BAFöG Bedarfssatz (€/y) - sum of §13 BAföG Abs 1.2 + 2.2
-    "GKV_BAFOG_BEDARFSSATZ": 812,
+    "GKV_BAFOG_BEDARFSSATZ": 855,
 
     # Minimum income (€/y) to join the Künstlersozialkasse - § 3 Abs. 1 KSVG
     "KSK_MIN_INCOME": 3900,
