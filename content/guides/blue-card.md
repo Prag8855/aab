@@ -185,7 +185,7 @@ The appointment takes 15 to 60 minutes. You spend most of that time waiting. Dur
 
 ### 7. Get your Blue Card
 
-After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
 You will get 2 letters:[^22]
 

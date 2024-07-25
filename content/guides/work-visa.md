@@ -200,7 +200,7 @@ If they approve your work visa, they must print the plastic card. This takes a f
 
 ### 7. Get your work visa
 
-After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months after you apply, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde).[^20]
+After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your work visa. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
 You will get two letters:[^22]
 
