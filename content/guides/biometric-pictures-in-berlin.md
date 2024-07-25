@@ -13,7 +13,7 @@ This guide shows you how to get biometric pictures or passport photos in Berlin.
 
 You can get 35 × 45 mm passport pictures at a photo booth (*Fotoautomat*).
 
-There are Fotofix machines everywhere in Berlin. You pay 6€ in coins, and you follow the instructions on the screen. The machine will print 5 copies of your photo.
+There are Fotofix machines everywhere in Berlin. You pay 10€ in coins, and you follow the instructions on the screen. The machine will print 5 copies of your photo.
 
 **[List of photo machines](https://www.google.com/maps?q=fotoautomat)** - Google Maps
 
