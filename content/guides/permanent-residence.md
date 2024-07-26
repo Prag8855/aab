@@ -304,15 +304,15 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
-In Berlin, these documents are optional, but they can help:
-
-- [ ] **Language certificate** or **integration course certificate**  
-    This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
-
 If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterngeld*, *Betreuungsgeld* and other social benefits, you must bring...
 
 - [ ] **Proof of social benefits**  
     Bring certificates and other documents that prove that you receive those social benefits.[^57]
+
+In Berlin, these documents are optional:
+
+- [ ] **Language certificate** or **integration course certificate**  
+    This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
 
 ### For employees
 
