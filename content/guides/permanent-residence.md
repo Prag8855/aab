@@ -269,9 +269,9 @@ You will also get a letter with **the activation code for your [[eID]]**. You ne
 
 These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**When you apply online**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
+**[When you apply online](#apply-for-pr)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
 
-**When you go in person**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
+**[When you go to your appointment](#go-to-your-pr-appointment)**, don't bring the documents that you already sent. Only bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together.
 
 ### Required documents for everyone
 
@@ -417,6 +417,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^21]: [RA Sven Hasse](https://jurati.de/downloads/Niederlassungserlaubnis%20-%20Daueraufenthalt-EU.pdf) (2017), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 2, 2022)
 [^22]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^23]: [§26 Abs. 3 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__26.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
+[^24]: Ausländerbehörde case worker (July 2024)
 [^25]: [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/02_Pflicht-und-freiwillig-Versicherte/pflicht-und-freiwillig-versicherte_Inhalt_01_selbstaendig_und_pflichtversichert.html), [Sebastian Hoffmann](https://www.facebook.com/groups/berlinfreelancers/posts/2796580587088974/) (2020)
 [^26]: [Berlin.de](https://service.berlin.de/dienstleistung/326554/#:~:text=Die%20Aufenthaltserlaubnis%20muss,Dienstleistung%20%22Niederlassungserlaubnis%20(allgemein)%22.) (July 2024)
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
