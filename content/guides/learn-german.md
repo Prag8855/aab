@@ -49,15 +49,15 @@ If you speak German, you can get the German citizenship 2 years earlier.[^2]
 
 There are 6 levels of German.[^3] The levels are often divided in two. For example, B1.1, and B1.2. To know your level, take a [placement test](https://www.sprachschule-aktiv-muenchen.de/en/german-test-online/). Most language schools can do placement tests on the phone.
 
-- **A1 - Beginner**  
+- **[[A1]] - Beginner**  
     You know basic words and expressions. You know very simple sentences for specific situations. You can answer simple questions about yourself, or order at the restaurant.
-- **A2 - Basic**  
+- **[[A2]] - Basic**  
     You understand a few sentences and expressions about family, shopping, work and giving directions. You have simple, direct conversations about certain topics.
-- **B1 - Intermediate**  
+- **[[B1]] - Intermediate**  
     You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
 - **B2 - Upper intermediate**  
     You can understand complex texts, and complex discussions about topics you understand. You can express yourself, and have a conversation with native German speakers.
-- **C1 - Fluent**  
+- **[[C1]] - Fluent**  
     You can express yourself easily. You don't need to think about what you will say. You can write texts about complex topics. Many native German speakers are at this level.[^4]
 - **C2 - Master**  
     You speak and write better than many native speakers. You can read and write academic texts.
