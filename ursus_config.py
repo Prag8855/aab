@@ -211,7 +211,7 @@ health_insurance_min_pflegeversicherung = 2.4
 health_insurance_max_pflegeversicherung = 4
 health_insurance_min_zusatzbeitrag = 1
 health_insurance_max_zusatzbeitrag = 1.9
-freelance_visa_min_monthly_pension = 1503.34
+freelance_visa_min_monthly_pension = 1503.34  # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
 
 aufenthv_41_countries = [
     "Australia",

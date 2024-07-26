@@ -152,12 +152,12 @@ To get a PR, you need a retirement pension.[^17] There are 4 ways to do this:
 - or **have real estate or other investments**  
     Stable income from your investments can replace a pension.[^32]
 
-In Berlin, you need a *guaranteed* pension. Stocks or money in your bank account are not enough.[^61]
+In Berlin, you need a *guaranteed* pension. Stocks or money in your bank account are not enough.[^61] Investments that bring a stable income might be enough. There is no clear information about this.
 
 If you are self-employed, you don't pay for a public pension. Instead, you can...
 
 - **Make voluntary public pension payments**  
-    You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25]
+    You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25] You can make retroactive payments for up to 1 year.
 - or **join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
 - or **get a private pension**
