@@ -44,7 +44,6 @@ To become a permanent resident, you must...
 
 There are more requirements, depending on your situation.
 
-
 ### If you have a [[Blue Card]]
 
 To become a permanent resident, you must also...
@@ -142,17 +141,18 @@ To become a permanent resident, you must...
 
 ### Pension requirements
 
-To get a PR, you must have an adequate retirement pension.[^17] There are 3 ways to do this:
+To get a PR, you need a retirement pension.[^17] There are 4 ways to do this:
 
 - **Pay into the public pension system**  
     If you are an employee, you automatically pay into the public pension system. If you worked for 12 months, you contributed for 12 months.
 - or **use your spouse's pension**  
     If you are married, it's enough if your spouse has an adequate pension.[^18]
 - or **get a private pension**  
-    It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must also guarantee a pension in case of disability.[^42]
-- or **have real estate or other investments**
+    It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must include a pension in case of disability.[^42]
+- or **have real estate or other investments**  
+    Stable income from your investments can replace a pension.[^32]
 
-You need a *guaranteed* pension. Stocks or money in your bank account are not enough.[^61]
+In Berlin, you need a *guaranteed* pension. Stocks or money in your bank account are not enough.[^61]
 
 If you are self-employed, you don't pay for a public pension. Instead, you can...
 
@@ -425,14 +425,15 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=appointment%20is%20required-,Your%20German%20family%20member,rights%20must%20be%20submitted.,-Proof%20of%20Income) (June 2024)
 [^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6nyx2m/) (2023)
+[^32]: [VAB 9a.2.1.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^34]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=electronic%20card%20in-,6%20to%208%20weeks) (April 2021), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1118435285697773/) (2022)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^36]: [VAB 2.3.1.10](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
 [^37]: [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers) and [for everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
-[^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024)
+[^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024), [Twitter](https://x.com/GomezCamilo/status/1816007686950961326) (2024)
 [^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
-[^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022)
+[^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1569107900630507/) (2024)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
