@@ -165,7 +165,7 @@ If you are self-employed, you don't pay for a public pension. Instead, you can..
 
 If you are a refugee or an asylum seeker, you don't need a pension.[^55]
 
-If you don't have a pension, you can still [become a German citizen](#citizenship). There is no pension requirement for citizenship.
+If you don't have a pension, you can [become a German citizen](#citizenship) instead. There is no pension requirement for citizenship.
 
 ## Permanent residence alternatives
 
@@ -380,9 +380,9 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 ### Renew your permanent residence
 
-**When you get a new passport**, your permanent residence *card* becomes invalid. You are still a permanent resident, but you need an updated permanent residence card.
+**When you get a new passport**, your permanent residence *card* becomes invalid. You are still a permanent resident, but you must get a new card.
 
-You must [get a Bürgeramt appointment](https://service.berlin.de/dienstleistung/324280/en/), go in person, pay {{RESIDENCE_PERMIT_REPLACEMENT_FEE|cur}}€, and wait a few weeks for a new card.[^64] The [[eID]] function might be deactivated on your new card. You need [another *Bürgeramt* appointment](https://service.berlin.de/dienstleistung/329830/) to activate it.[^65]
+To get a new card, [get a Bürgeramt appointment](https://service.berlin.de/dienstleistung/324280/en/), go in person, pay {{RESIDENCE_PERMIT_REPLACEMENT_FEE|cur}}€, and wait a few weeks.[^64] You should get the card by post. The [[eID]] function might be deactivated on your new card. You might need [another *Bürgeramt* appointment](https://service.berlin.de/dienstleistung/329830/) to activate it.[^65]
 
 ## Need help?
 
