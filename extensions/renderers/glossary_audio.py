@@ -13,14 +13,14 @@ class GlossaryAudioRenderer(Renderer):
     """
     Creates TTS files for glossary entries
     """
+
     def render(self, context: dict, changed_files: set = None) -> set:
         files_to_keep = set()
 
         german_terms_to_render = [
             (entry.get('ssml', entry['german_term']), entry_uri)
             for (entry_uri, entry) in context['entries'].items()
-            if entry_uri.startswith('glossary/')
-            and entry.get('german_term')
+            if entry_uri.startswith('glossary/') and entry.get('german_term')
         ]
 
         for text_to_pronounce, entry_uri in german_terms_to_render:
