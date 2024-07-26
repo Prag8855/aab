@@ -1666,6 +1666,9 @@ input[type=range] {
         > * {
             grid-column-start: 1;
         }
+        .input-group .checkbox{
+        	padding-top: 0;
+        }
     }
 
     .input-group {
