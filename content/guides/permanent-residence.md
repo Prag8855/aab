@@ -2,7 +2,7 @@
 Title: How to apply for German permanent residence
 Short_title: How to apply for permanent residence
 Description: The process and the requirements to get a Niederlassungserlaubnis and become a permanent resident.
-Date_created: 2024-07-01
+Date_created: 2024-07-30
 ---
 
 If you lived in Germany for a few years, you can become a permanent resident.
@@ -261,7 +261,7 @@ You might get a temporary certificate while you wait.[^31] It allows you to stay
 
 ### 5. Get your permanent residence card
 
-In a few weeks, you can go to your second appointment, and collect your permanent residence card. Check if the information on your permanent residence card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+A few weeks later, go to your second appointment, and collect your permanent residence card. Check if the information on your permanent residence card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
 
@@ -459,6 +459,6 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^64]: [ArbeitNow](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin#:~:text=around%203%20weeks%20after%20the%20appointment) (2023), [§45c AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45c.html)
 [^65]: [Adithya Srinivasan](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin) (July 2024)
 [^66]: Personal experience (July 2024)
-[^67]: Ausländerbehörde employee (July 2024)
+[^67]: Ausländerbehörde employee (July 2024), [Elliot Herman](https://www.sorted.berlin/) (July 2024), [Aydan Baghirova](https://aydanbaghirova.de/) (July 2024)
 [^68]: Personal experience (July 2024)
 [^69]: Ausländerbehörde case worker (July 2024)

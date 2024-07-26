@@ -6,7 +6,7 @@ German_document: documents/antrag-auf-erteilung-einer-bescheinigung-in-steuersac
 English_document: documents/antrag-auf-erteilung-einer-bescheinigung-in-steuersachen.pdf
 German_term: Antrag auf Erteilung einer Bescheinigung in Steuersachen
 English_term: Request for a Bescheinigung in Steuersachen
-Date_created: 2024-07-20
+Date_created: 2024-07-30
 ---
 
 When you [apply for a freelance visa](/guides/freelance-visa) or for [permanent residence](/guides/permanent-residence), you might need a certificate of tax matters (*Bescheinigung in Steuersachen* or *steuerliche Unbedenklichkeitsbescheinigung*). This document confirms that you paid your taxes on time, and that you don't owe the *[[Finanzamt]]* money.
