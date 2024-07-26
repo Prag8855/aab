@@ -371,11 +371,13 @@ config.context_globals = {
     # Minimum income (€/y) to get a Blue Card in shortage fields - §18g AufenthG
     "BLUE_CARD_SHORTAGE_MIN_INCOME": 0.453 * beitragsbemessungsgrenze_west,
 
-    # Visa fees (€) - §44 AufenthV
+    # Visa fees (€) - §44 and §45 AufenthV
     "SCHENGEN_VISA_FEE": 75,
     "NATIONAL_VISA_FEE": 100,
     "NATIONAL_VISA_RENEWAL_FEE": 96,
     "RESIDENCE_PERMIT_REPLACEMENT_FEE": 67,  # After a passport change (€) - §45c AufenthV
+    "MIN_PERMANENT_RESIDENCE_FEE": 109,  # §44a AufenthV
+    "MAX_PERMANENT_RESIDENCE_FEE": 147,  # §44 AufenthV
 
     # Minimum pension value (€) to get a freelance visa above age 45 - A21.3 VAB
     # 144 times FREELANCE_VISA_MIN_MONTHLY_PENSION, it seems

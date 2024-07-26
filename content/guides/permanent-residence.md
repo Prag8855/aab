@@ -241,7 +241,7 @@ When you go to your appointment, bring...
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the application fee. It costs 109€ to 147€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the application fee. It costs {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Your family**  
     If you apply as the spouse, parent or child of a German citizen, they must come with you to the appointment.[^30]
 - [ ] **A translator** (optional)  
@@ -249,7 +249,7 @@ When you go to your appointment, bring...
 
 The appointment takes around 15 minutes.[^4] They call your number on the screen, you meet your case worker, give your documents, and answer a few questions. They ask you questions in German about your height, your eye colour, and the size of your apartment.[^1]
 
-If they approve your permanent residence, you must pay the 109€ to 147€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can leave.
+If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can leave.
 
 They must print your permanent residence card. This takes a few weeks. You will get a second appointment to pick up the card. They will not mail the card to you.[^67]
 
