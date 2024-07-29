@@ -376,7 +376,7 @@ config.context_globals = {
     "NATIONAL_VISA_FEE": 100,
     "NATIONAL_VISA_RENEWAL_FEE": 96,
     "RESIDENCE_PERMIT_REPLACEMENT_FEE": 67,  # After a passport change (€) - §45c AufenthV
-    "MIN_PERMANENT_RESIDENCE_FEE": 109,  # §44a AufenthV
+    "MIN_PERMANENT_RESIDENCE_FEE": 37,  # For Turkish citizens
     "MAX_PERMANENT_RESIDENCE_FEE": 147,  # §44 AufenthV
 
     # Minimum pension value (€) to get a freelance visa above age 45 - A21.3 VAB
