@@ -102,7 +102,7 @@ You can also [become a citizen](#citizenship) after 3 years.
 To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
-    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] It should not be a new job or a temporary job.[^63] Self-employment is allowed.[^62]
+    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] It should not be a temporary job, and you should not be in your [probation period](/glossary/Probezeit).[^63] Self-employment is allowed.[^62]
 
 Your spouse must...
 
@@ -223,17 +223,17 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
-You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. You might not get a confirmation email.
+You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. This can take a few months. You might not get a confirmation email.
+
+When you use the contact form, choose the correct department. It could be a different department this time.
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. You might get no response for a few months. When I applied, they took 3 months to reply.
+The *Ausländerbehörde* will process your application. You might wait a few months without a response. When I applied, they took 3 months to reply.
 
-When they reply, they might ask for more documents.[^2] They might need more recent
+When they reply, they might ask for more documents.[^2] If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send documents.[^53]
 
-If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send more documents.[^53]
-
-When they have the documents they need, they will give you an appointment. In the appointment invitation, they might ask for more documents.
+When they have the documents they need, they will give you an appointment. In the appointment invitation, they might ask for more documents. Bring those documents to your appointment.
 
 After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.[^34]
 
@@ -267,7 +267,7 @@ The appointment takes around 15 minutes.[^4] They call your number on the screen
 
 If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can leave.
 
-They must print your permanent residence card. This takes a few weeks. You will get a second appointment to pick up the card. They will not mail the card to you.[^67]
+They must print your permanent residence card. This takes a few weeks.[^34] You will get a second appointment to pick up the card. They will not mail the card to you.[^67]
 
 You might get a temporary certificate while you wait.[^31] It allows you to stay in Germany, but it's not a valid travel document. It does not allow you to re-enter Germany. If you have a *[[Fiktionsbescheinigung]]*, they can extend it until your second appointment date.[^68]
 
