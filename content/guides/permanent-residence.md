@@ -11,7 +11,7 @@ Permanent residents can...
 
 - Live in Germany
 - Work, study and freelance without the *[[Ausländerbehörde]]*'s permission
-- Bring your family to Germany
+- Bring their family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
 {% include "_blocks/tableOfContents.html" %}
@@ -40,7 +40,7 @@ To become a permanent resident, you must...
 - [ ] **Have a place to live**  
     Your apartment must be big enough for you and your family. You need 9 m^2^ per adult, and 6 m^2^ per child.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
-    You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted.
+    You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted. If you need health insurance, [talk to a broker](/guides/german-health-insurance#insurance-brokers).
 
 There are more requirements, depending on your situation.
 
@@ -51,9 +51,9 @@ To become a permanent resident, you must also...
 - [ ] **Have a job**  
     You must have a stable, long-term income. If you are unemployed, if you are in your [probation period](/glossary/Probezeit), or if your work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If you have a history of stable employment, you might get it anyway.[^36]
 - [ ] **Have a Blue Card for 21 to 27 months**  
-    27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when you met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), but had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
+    27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when you met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), even if you had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[A1]] or [[B1]] German**
-- [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
+- [x] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 27 months of public pension insurance, or 21 months if you speak [[B1]] German. When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
 ### If you have a [work visa](/glossary/Work%20Visa)
@@ -61,11 +61,11 @@ To become a permanent resident, you must also...
 To become a permanent resident, you must also...
 
 - [ ] **Have a §18a, §18b or §18d work visa**[^38]  
-    The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different type of residence permit, follow the [requirements for everybody else](#everybody-else).
+    The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everybody-else). 
 - [ ] **Work for 2 to 3 years**[^11]  
-    2 years if you graduated from a German university, or 3 years otherwise. This includes the time when you met the [work visa requirements](/guides/work-visa#work-visa-requirements), but had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
+    2 years if you graduated from a German university, 3 years otherwise. This includes the time when you met the [work visa requirements](/guides/work-visa#work-visa-requirements), even if you had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[B1]] German**[^14]
-- [ ] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
+- [x] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
@@ -75,13 +75,13 @@ To become a permanent resident, you must also...
 - [ ] **Have a §21 Abs. 1 or 2a freelance visa for 3 years**[^6]  
     The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for everybody else](#everybody-else).
 - [ ] **Have a profitable business**  
-    You can get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *[[Ausländerbehörde]]* thinks that your business is successful, profitable and sustainable.
+    You can only get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *[[Ausländerbehörde]]* thinks that your business is successful, profitable and sustainable. Your *[[Ausländerbehörde]]* case worker will decide this.
 - [ ] **Support yourself**  
-    In Berlin, they only check your own income from self-employment. Income from investments does not count. Income from your spouse does not count.[^22]
+    In Berlin, they only consider your self-employment income. They ignore income from your spouse and income from investments.[^22]
 
 In Berlin, there should be no pension or language requirement.[^39]
 
-If you don't meet those requirements, follow the [requirements for everybody else](#everybody-else).
+If you don't meet those requirements, follow the [requirements for everybody else](#everybody-else). In this case you will need a pension. It might be easier to [apply for citizenship](#citizenship), because citizenship does not require a pension.
 
 ### If you live with a German citizen
 
@@ -90,10 +90,9 @@ To become a permanent resident, you must also...[^27]
 - [ ] **Have a German spouse, child or parent**
 - [ ] **Live together for 3 years**  
     You must live together, in Germany, for 3 years without interruption.[^29]
-- [ ] **Speak [[B1]] German**  
-    You can understand what people say when they talk in a simple language about certain topics. You can do things like open a bank account without help.
+- [ ] **Speak [[B1]] German**
 
-There is no pension requirement.[^56]
+There is no pension requirement for the family of German citizens.[^56]
 
 You can also [become a citizen](#citizenship) after 3 years.
 
@@ -102,12 +101,12 @@ You can also [become a citizen](#citizenship) after 3 years.
 To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
-    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] It should not be a temporary job, and you should not be in your [probation period](/glossary/Probezeit).[^63] Self-employment is allowed.[^62]
+    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] Your job should not be temporary, and you should not be in your [probation period](/glossary/Probezeit).[^63] Self-employment is allowed.[^62]
 
 Your spouse must...
 
 - [ ] **Have a job**  
-    If they are unemployed, or if their contract ends in under 6 months, you probably won't get a PR. They might also reject you if your spouse is in their [probation period](/glossary/Probezeit).
+    They must have a stable, long-term income. If they are unemployed, if they are in their [probation period](/glossary/Probezeit), or if their work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If they have a history of stable employment, you might get it anyway.[^36]
 - [ ] **Have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)**  
     It must be a Blue Card, or a §18a, §18b or §18d work visa. The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
 
@@ -122,9 +121,9 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
 To become a permanent resident, you must...[^23]
 
 - [ ] **Have the correct residence permit**  
-    You must have a *§25 Abs. 1*, *§25 Abs. 2 S. 1*, or *§23 Abs. 4* residence permit.[^26] The type is [written on your residence permit](/illustrations/freelance-visa-type.png).
+    You must have a *§ 25 Abs. 1*, *§ 25 Abs. 2 S. 1*, or *§ 23 Abs. 4* residence permit.[^26] The type is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everybody-else).
 - [ ] **Live in Germany for 3 to 5 years**  
-    3 years if you speak [[C1]] German, or 5 years otherwise. This includes the asylum process time.[^54]
+    3 years if you speak [[C1]] German, or 5 years if you speak [[A2]] German. This includes the time when they processed your request for asylum.[^54]
 - [ ] **Speak [[A2]] or [[C1]] German**
 
 There is no pension requirement for refugees and asylum seekers.[^55]
@@ -139,7 +138,7 @@ To become a permanent resident, your child must...[^33]
 - [ ] **Speak [[B1]] German**  
     If your child is 18 years old, they must speak B1 German. If they are 16 or 17 years old, there is no language requirement.
 - [ ] **Be supported by your income**  
-    Your income and your spouse's income must cover your child's cost of living.
+    You, your spouse and your child's income must cover your child's cost of living.
 
 If one parent is a German citizen, your child could get permanent residence in 3 years.
 
@@ -150,23 +149,25 @@ If one parent is a German citizen, your child could get permanent residence in 3
 To become a permanent resident, you must...
 
 - [ ] **Live in Germany for 5 years**  
-    Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis). After 5 years in Germany, you can also [become a German citizen](#citizenship).
+    Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis).
 - [ ] **Speak [[B1]] German**[^20]
 - [ ] **Have a retirement pension**  
-    See the [pension requirements](#pension-requirements).
+    You need 60 months of public pension payments, or equivalent retirement savings. See the [pension requirements](#pension-requirements).
+
+If you live 5 years in Germany, you can also [become a German citizen](#citizenship). Citizenship is usually better.
 
 ### Pension requirements
 
-To get a PR, you need a retirement pension.[^17] There are 4 ways to do this:
+To get a PR, you need savings for retirement.[^17] There are 4 ways to do this:
 
-- **Pay into the public pension system**  
-    If you are an employee, you automatically pay into the public pension system. If you worked for 12 months, you contributed for 12 months.
+- **Pay into the [public pension system](/glossary/gesetzliche%20Rentenversicherung)**  
+    If you are an employee, you automatically pay into the public pension system. If you worked for 60 months, you contributed for 60 months. If you are self-employed or unemployed, you probably don't make public pension payments. To know how many pension payments you made, get a *[[Versicherungsverlauf]]*.
 - or **use your spouse's pension**  
-    If you are married, it's enough if your spouse has an adequate pension.[^18]
+    If you are married, and your spouse has a valid pension, you can use their pension. For example, if your spouse has made 60 months of public pension payments, it's enough.[^18]
 - or **get a private pension**  
     It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must include a pension in case of disability.[^42]
 - or **have real estate or other investments**  
-    Stable income from your investments can replace a pension.[^32]
+    Stable income from your investments might replace a pension.[^32] There is no clear information about this.
 
 In Berlin, you need a *guaranteed* pension. Stocks or money in your bank account are not enough.[^61] Investments that bring a stable income might be enough. There is no clear information about this.
 
@@ -187,25 +188,25 @@ If you don't have a pension, you can [become a German citizen](#citizenship) ins
 
 ### Citizenship
 
-**You might qualify for German citizenship**, even if you can't get permanent residence.
+If you can't get permanent residence, you might still qualify for German citizenship.
 
 To become a German citizen, you must...[^43]
 
 - [ ] Live in Germany for 5 years, or 3 years if you have a German spouse[^47]
 - [ ] Speak [[B1]] German[^48]
-- [ ] Support yourself and your family, without social benefits
+- [ ] Support yourself and your family, without using social benefits
 - [ ] Take the citizenship test (*Einbürgerungstest*)
-- [ ] Not be convicted for a crime
+- [ ] Not be convicted of a crime
 
 Citizenship is better than permanent residence because...
 
 - You get a German passport
-- You can live and work in other [EU](/glossary/European%20Union) countries
+- You can live and work in other [EU](/glossary/European%20Union) countries without a residence permit
 - You can't lose your citizenship
-- Your citizenship does not expire if you leave Germany
+- Your citizenship does not expire if you [leave Germany for over 6 months](#travel-as-a-permanent-resident)
 - You don't need a pension to qualify[^46]
 
-If your country does not allow dual citizenship, becoming a German citizen means losing your old citizenship. Permanent residence might be a better option.
+If your country does not allow dual citizenship, becoming a German citizen means losing your old citizenship. In this case, permanent residence might be a better option.
 
 ## How to apply in Berlin
 
@@ -223,19 +224,17 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
 
-You can't get an *[[Ausländerbehörde]]* appointment for this. You must [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. This can take a few months. You might not get a confirmation email.
+This is no *[[Ausländerbehörde]]* appointment for this. You must **[use the Ausländerbehörde contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)** to send all the [required documents](#required-documents), and wait for them to contact you. This can take a few months. You might not get a confirmation email.
 
 When you use the contact form, choose the correct department. It could be a different department this time.
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. You might wait a few months without a response. When I applied, they took 3 months to reply.
+The *Ausländerbehörde* will process your application. It takes a few months to get a response. When I applied, it took 3 months.
 
 When they reply, they might ask for more documents.[^2] If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send documents.[^53]
 
-When they have the documents they need, they will give you an appointment. In the appointment invitation, they might ask for more documents. Bring those documents to your appointment.
-
-After your *Ausländerbehörde* appointment, it usually takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your permanent residence.[^34]
+When they have all the documents they need, they will give you an appointment. In the appointment invitation, they might ask for more documents. Bring those documents to your appointment.
 
 Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
@@ -243,7 +242,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while yo
 
 ### 4. Go to your [PR](/glossary/Niederlassungserlaubnis) appointment
 
-Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
+After you send your application, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. The appointment could be a in few months. My appointment was 8 months after I sent my documents.
 
 When you go to your appointment, bring...
 
@@ -259,33 +258,33 @@ When you go to your appointment, bring...
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. It costs {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Your family**  
-    If you apply as the spouse, parent or child of a German citizen, they must come with you to the appointment.[^30]
+    If you apply as the spouse, parent or child of a German citizen, the German citizen must come with you to the appointment.[^30]
 - [ ] **A translator** (optional)  
     You can bring a translator or a German-speaking friend. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 
 The appointment takes around 15 minutes.[^4] They call your number on the screen, you meet your case worker, give your documents, and answer a few questions. They ask you questions in German about your height, your eye colour, and the size of your apartment.[^1]
 
-If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can leave.
-
-They must print your permanent residence card. This takes a few weeks.[^34] You will get a second appointment to pick up the card. They will not mail the card to you.[^67]
-
-You might get a temporary certificate while you wait.[^31] It allows you to stay in Germany, but it's not a valid travel document. It does not allow you to re-enter Germany. If you have a *[[Fiktionsbescheinigung]]*, they can extend it until your second appointment date.[^68]
-
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+
+If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine in the building, and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can go home.
+
+They must print your permanent residence card. This takes {{ RESIDENCE_PERMIT_WAIT_TIME }} weeks.[^34] You will get a second appointment to pick up the card. They do not mail the card to you.[^67]
+
+You will get a document. It confirms that your permanent residence application was approved, that your card must be printed, and that your previous residence permit is still valid.[^31] This is not a valid travel document. It does not allow you to re-enter Germany. If your current residence permit has expired, you might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
 ### 5. Get your permanent residence card
 
-A few weeks later, go to your second appointment, and collect your permanent residence card. Check if the information on your permanent residence card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+Go to your second *[[Ausländerbehörde]]* appointment, and pick up your permanent residence card.[^34] Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.[^70]
 
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card.
+You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
 
 ## Required documents
 
 These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**[When you apply online](#apply-for-pr)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter).
+**[When you apply online](#apply-for-pr)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guide/mail-a-letter), but it's not better or faster.
 
 **[When you go to your appointment](#go-to-your-pr-appointment)**, don't bring the documents that you already sent. Only bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together.
 
@@ -314,7 +313,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Proof of pension**  
     See the [pension requirements](#pension-requirements).
     - [ ] **[[Versicherungsverlauf]]** from the [[Deutsche Rentenversicherung]]  
-        [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks. If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
+        [Request a *Versicherungsverlauf*](/out/drv-pension-payments-info) online. It arrives by post in 1 to 3 weeks. If you have an [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).[^35]
     - [ ] or **proof of private pension**  
         Bring your pension contract, and bank account statements that show pension payments.
 - [ ] **Translations**  
@@ -351,12 +350,12 @@ In Berlin, these documents are optional:
         If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*. It's not in the required documents, but they usually ask for it.
     - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)[^59]  
         Bring this if you don't have a recent tax return. It must be stamped by a [tax advisor](/glossary/Steuerberater).[^66] It takes a few days to prepare.
+- [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)[^59]  
+    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)[^59]  
     If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*. If you are a *[[Freiberufler]]*, you don't need this.
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)[^59]  
     [If you need a *Handelsregister* entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*.
-- [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)[^59]  
-    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
 
 **[Required documents for self-employed people ➞](https://service.berlin.de/dienstleistung/326564/en/)**
 
@@ -364,10 +363,10 @@ In Berlin, these documents are optional:
 
 If you depend on your spouse's income, bring...[^50]
 
-- [ ] **Work contract** (*Arbeitsvertrag*)
-- [ ] **Recent pay slips** (*[[Gehaltsabrechnung]]*)  
+- [ ] **Your spouse's work contract** (*Arbeitsvertrag*)
+- [ ] **Their recent pay slips** (*[[Gehaltsabrechnung]]*)  
     Bring their pay slips for the last 6 months.
-- [ ] **Employment certificate** (*[[Arbeitgeberbescheinigung]]*)  
+- [ ] **Their employment certificate** (*[[Arbeitgeberbescheinigung]]*)  
     It must be less than 14 days old. Get it from their employer.
 
 **[Required documents for spouses ➞](https://service.berlin.de/dienstleistung/327012/en/)**
@@ -384,19 +383,19 @@ If you depend on your spouse's income, bring...[^50]
 
 ### Activate your [[eID]]
 
-You can use your permanent residence card to log into online government services. You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
+You can use your permanent residence card to log into online government services. If you pick up your card at the *[[Ausländerbehörde]]*, it should already be activated. Make sure it works before you really need it.
 
 **[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
 
 ### Travel as a permanent resident
 
-Your [PR](/glossary/Niederlassungserlaubnis) lets you visit other [[Schengen area]] countries without a visa.
+With a [PR](/glossary/Niederlassungserlaubnis), you can visit other [[Schengen area]] countries without a visa.
 
 If you leave Germany for more than 6 months, your PR expires. If you have a EU PR, it expires after 12 months.[^13] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay less [income tax](/glossary/Einkommensteuer).
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay a little less [income tax](/glossary/Einkommensteuer). If you hire a lawyer or a relocation consultant, their fee is also tax-deductible.
 
 ### Renew your permanent residence
 
@@ -406,13 +405,9 @@ To get a new card, [get a Bürgeramt appointment](https://service.berlin.de/dien
 
 ## Need help?
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. Some organisations can also help you for free.
 
-**[Other places to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
-
-The *Ausländerbehörde* can answer your questions, but they are very hard to contact. They can take months to answer. Sometimes they don't answer at all.
-
-**[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
+**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hfzktnz/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)
 [^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1090992265108742/) (2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1118435285697773/) (2022)
@@ -443,7 +438,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
-[^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=appointment%20is%20required-,Your%20German%20family%20member,rights%20must%20be%20submitted.,-Proof%20of%20Income) (June 2024)
+[^30]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^31]: [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6nyx2m/) (2023)
 [^32]: [VAB 9a.2.1.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^33]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=deutschen%20Sprache%20verf%C3%BCgen.-,familienangehorige%20von%20auslandischen%20personen,-Bei%20Ehegatten%2C%20die), [§35 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__35.html), [Berlin.de](https://service.berlin.de/dienstleistung/324863/) (July 2024), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/niederlassungserlaubnis/kinder/) (July 2024)
@@ -455,7 +450,7 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024), [Twitter](https://x.com/GomezCamilo/status/1816007686950961326) (2024)
 [^40]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1569107900630507/) (2024)
-[^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
+[^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024), [VAB 9.2.1.3.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024), Willkommenszentrum (November 2021)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
 [^44]: [§44 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44.html), [§44a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__44a.html)
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
@@ -481,5 +476,5 @@ The *Ausländerbehörde* can answer your questions, but they are very hard to co
 [^65]: [Adithya Srinivasan](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin) (July 2024)
 [^66]: Personal experience (July 2024)
 [^67]: Ausländerbehörde employee (July 2024), [Elliot Herman](https://www.sorted.berlin/) (July 2024), [Aydan Baghirova](https://aydanbaghirova.de/) (July 2024)
-[^68]: Personal experience (July 2024)
 [^69]: Ausländerbehörde case worker (July 2024)
+[^70]: Personal experience (2021)

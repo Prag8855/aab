@@ -24,7 +24,7 @@ If you go to the *Ausländerbehörde* without an appointment, they will not help
 There are 2 ways to get an appointment:[^2]
 
 - **Send your documents and wait**{% include '_blocks/recommended.html' %}  
-    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). For some residence permit types, it's the only option. You can also [mail your documents](/guides/mail-a-letter).[^29]
+    Use the [contact form](/out/auslanderbehorde-contact) to send your residence permit application, and wait for a response. This is usually the fastest option, especially [if your residence permit expires soon](#if-your-residence-permit-expires-soon). For some residence permit types, it's the only option. You can also [mail your documents](/guides/mail-a-letter), but it won't help.[^29]
 - or **book an appointment online**  
     It's *really* hard to find an appointment.[^15] You must refresh the [appointment booking page](/out/auslanderbehorde-appointment) hundreds of times. Your appointment might be in a few months.[^19]
 
@@ -166,6 +166,8 @@ When your residence permit is approved, you must pay a fee: {{ NATIONAL_VISA_FEE
 After you pay, you can go home. Keep your receipt; residence permit fees are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
+
+![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat-2.jpg "Payment machines at the Ausländerbehörde")
 
 ## After your appointment
 

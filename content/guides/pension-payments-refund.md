@@ -248,7 +248,7 @@ If you are a freelancer, you will only get 50% of your pension payments back ({{
 
 {% include '_blocks/pensionRefundCalculator.html' %}
 
-To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) from the [[Deutsche Rentenversicherung]]. It will arrive by post in 1 to 3 weeks. If you have a working [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).
+To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) from the [[Deutsche Rentenversicherung]]. It will arrive by post in 1 to 3 weeks. If you have an [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).
 
 [Germany Pension Refund](/out/germany-pension-refund) and [FundsBack](/out/fundsback) can also check the pension refund amount for you, for free.
 
