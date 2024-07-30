@@ -208,6 +208,21 @@ Citizenship is better than permanent residence because...
 
 If your country does not allow dual citizenship, becoming a German citizen means losing your old citizenship. In this case, permanent residence might be a better option.
 
+### EU Permanent Residence
+
+There are two types of permanent residence: German permanent residence (*Niederlassungserlaubnis*) and EU permanent residence (*Daueraufenthalt-EU*). They are almost the same.
+
+EU permanent residence is a little better because...
+
+- **You can leave Germany for a longer period**  
+    German [PR](/glossary/Niederlassungserlaubnis) expires after 6 months outside of Germany. EU permanent residence expires after 12 to 24 months outside the EU, or 6 years in another EU country.[^13]
+- **It's easier to move to another EU country**  
+    With the EU PR, you can move to another country, then apply for a residence permit there. With the German PR, you might need to apply for a residence permit at the embassy in Germany, then move to that country.[^71]
+
+You can only get a EU [PR](/glossary/Niederlassungserlaubnis) after 5 years in Germany. You can sometimes get a German PR faster.
+
+The requirements and the application process are the same. If you qualify for the EU PR, you get the EU PR. Usually, if you lived in Germany for 5 years, you get the EU PR.
+
 ## How to apply in Berlin
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
@@ -256,7 +271,7 @@ When you go to your appointment, bring...
 - [ ] **Passport photo** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the application fee. It costs {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€.[^44] You must sometimes pay later, when you pick up your permanent residence card. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the application fee. It costs {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€.[^44] This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Your family**  
     If you apply as the spouse, parent or child of a German citizen, the German citizen must come with you to the appointment.[^30]
 - [ ] **A translator** (optional)  
@@ -391,7 +406,7 @@ You can use your permanent residence card to log into online government services
 
 With a [PR](/glossary/Niederlassungserlaubnis), you can visit other [[Schengen area]] countries without a visa.
 
-If you leave Germany for more than 6 months, your PR expires. If you have a EU PR, it expires after 12 months.[^13] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+If you have German permanent residence, it expires after 6 months outside of Germany. If you have [EU permanent residence](#eu-permanent-residence), it expires after 12 to 24 months outside the EU, or 6 years in another EU country.[^13] To travel longer, you can get permission from the *[[Ausländerbehörde]]*.
 
 ### Make a tax declaration
 
@@ -421,7 +436,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [§2 Abs. 9 and 11 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Make it in Germany](https://www.make-it-in-germany.com/de/visum-aufenthalt/arten/blaue-karte-eu#:~:text=wird%20das%20sprachniveau%20b1%20erreicht) (June 2024), [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=mit%20Blaue-Karte--,eu,-Wenn%20Sie%20eine) (June 2024), [Berlin.de](https://service.berlin.de/dienstleistung/326556/en/#:~:text=for%20the%20duration%20of%20your%20employment)
 [^11]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^12]: [strafverteidiger-salzgitter.de](https://www.strafverteidiger-salzgitter.de/auslaenderrecht/unbefristete-aufenthaltserlaubnis/#:~:text=muss%20nicht%20verlangert%20werden)
-[^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
+[^13]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [se-legal.de](https://se-legal.de/services/immigration-lawyer-germany/permanent-eu-residence-permit/?lang=en#:~:text=if%20you%20reside%20outside%20of%20germany%20for%20a%20sufficient%20time) (July 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/#DA-EU) (July 2024), [Hamburg](https://welcome.hamburg.com/entry-and-residence/residence-permit/permanent-ec-17654) (July 2024)
 [^14]: [§18c Abs. 1 S. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^15]: [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hekttwe/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022). For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=der%20letzten%20sechs-,monate,-aktuelle%20Arbeitgeber-Bescheinigung), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=der%20letzten%206-,monate.,-Bei%20Selbst%C3%A4ndigen%20und) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=letzten%206%20Monate-,und,-Rentenversicherungsverlauf).
 [^16]: [§2 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [§9 Abs. 2 S. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/#:~:text=muss%20aus%20eigenem%20einkommen%20gesichert%20sein), [rtpartner.de](https://www.rtpartner.de/en/immigration/niederlassungserlaubnis-berlin/#:~:text=the%20livelihood%20of%20you%20and%20your%20family%20must%20be%20secured)
@@ -478,3 +493,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^67]: Ausländerbehörde employee (July 2024), [Elliot Herman](https://www.sorted.berlin/) (July 2024), [Aydan Baghirova](https://aydanbaghirova.de/) (July 2024)
 [^69]: Ausländerbehörde case worker (July 2024)
 [^70]: Personal experience (2021)
+[^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
