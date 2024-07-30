@@ -264,7 +264,7 @@ When you go to your appointment, bring...
 - [ ] **Your appointment confirmation**, printed  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
 - [ ] **Extra required documents**  
-    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2] They might need for more recent proof of income, employment, health insurance and rent payments. Print them and bring them. Do not bring the documents that you already sent.[^69]
+    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2] They might ask for more recent proof of income, employment, health insurance and rent payments. Print them and bring them. Do not bring the documents that you already sent.[^69]
 - [ ] **Passport**  
     You get your passport back during your appointment; they do not keep it.
     - [ ] **Passport of your spouse, parent or child**[^7] (if applicable)
