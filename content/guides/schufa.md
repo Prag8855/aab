@@ -41,18 +41,16 @@ There are 2 versions of the Schufa:[^5]
 
 The paid version is better for apartment applications.[^7] The free version is better for your own use.
 
-There are other ways to get a Schufa report:
+You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).{{ fail_on('2024-12-31') }}
 
-- **With [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)** ({{SCHUFA_REPORT_FEE|cur}}€)  
-    It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).
-- **In person at the bank** ({{SCHUFA_REPORT_FEE|cur}}€)  
-    You can get a Schufa in person [from a partner bank](https://www.meineschufa.de/de/filialfinder). Go to the bank and ask for a *SCHUFA-Bonitätsauskunft*. There are no partner banks in Berlin.
+You can't get a Schufa in person at the bank. They stopped offering this service.[^1]
 
 ## What to do next
 
 After you get your Schufa report, you can [look for an apartment](/guides/find-a-flat-in-berlin).
 
 [^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa)
+[^1]: Wendelin Winkelmann, meineSchufa.de (July 2024)
 [^3]: [GDPR Article 5](https://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm)
 [^5]: [kreditvergleich.net](https://www.kreditvergleich.net/ratgeber/schufa-kostenlose-kostenpflichtige-selbstauskunft/)
 [^6]: [immobilienscout24.de](https://www.immobilienscout24.de/wissen/mieten/schufa-auskunft-kostenlos.html#:~:text=Dokumente%20vertraulich%20behandeln.-,es%20konnen%20sensible%20informationen%20enthalten%20sein,-%2C%C2%A0die%20nicht%20f%C3%BCr), [Reddit](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/#:~:text=the%20bonitatscheck%20will%20give%20him%20that%20information%20without%20disclosing%20all%20your%20private%20stuff%20to%20him.)
