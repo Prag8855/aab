@@ -227,6 +227,8 @@ Before your embassy or consulate appointment, you must...
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
+- [ ] **Save money**  
+    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They often ask for around 10,000€ in savings.[^81]
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
 
@@ -387,7 +389,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Proof or education**  
     If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.[^78]
 - [ ] **Bank statements**  
-    It shows how much savings you have.[^74] 3,000€ to 5,000€ in savings is enough. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
+    It shows how much savings you have.[^74] In Berlin, 3,000€ to 5,000€ in savings is enough. In other cities, you might need around 10,000€. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
 
 ## After you get your freelance visa
 
@@ -529,3 +531,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^78]: Aydan Baghirova, [career coach](https://aydanbaghirova.de/) (April 2024)
 [^79]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/_assets/20191129.pdf) (July 2024)
 [^80]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
+[^81]: Multiple relocation consultants (July 2024)
