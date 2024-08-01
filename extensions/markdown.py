@@ -36,6 +36,7 @@ class ArrowLinkIconExtension(Extension):
     """
     Replaces the "➞" after a link with the appropriate icon
     """
+
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
 
@@ -63,6 +64,7 @@ class CurrencyExtension(Extension):
     """
     Wraps currency in a <span class="currency"> tag
     """
+
     def extendMarkdown(self, md):
         inline_processor = InlineProcessor(md)
 
@@ -81,6 +83,7 @@ class TypographyExtension(Extension):
     """
     Minor typographic improvements
     """
+
     def extendMarkdown(self, md):
         inline_processor = InlineProcessor(md)
 
@@ -106,6 +109,7 @@ class WrappedTableProcessor(Treeprocessor):
     """
     Wrap tables in a <div> to allow scrollable tables on mobile.
     """
+
     def wrap_table(self, table, parent):
         wrapper = ElementTree.Element('div', attrib={
             'class': self.md.getConfig('wrapper_class')
@@ -138,6 +142,7 @@ class WrappedTableExtension(Extension):
     """
     Tables are wrapped in a <div>
     """
+
     def __init__(self, **kwargs):
         self.config = {
             "wrapper_class": ['', 'CSS class to add to the <div> element that wraps the table'],
