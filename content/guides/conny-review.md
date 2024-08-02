@@ -124,8 +124,5 @@ In general, I think using Conny is a good idea. If you can save hundreds or even
 [^6]: [goo.gl](https://goo.gl/maps/yDtRj5GfFBFzwbAz5)
 [^7]: [engine.wenigermiete.de](https://www.engine.wenigermiete.de/contract-termination?language=en)
 [^8]: [goo.gl](https://goo.gl/maps/b3wWBDhezXqioAqAA)
-[^9]: [Trustpilot](https://de.trustpilot.com/review/wenigermiete.de), [goo.gl](https://goo.gl/maps/ZsvMUSsbkapPigux8)
-[^10]: [goo.gl](https://goo.gl/maps/dLTGJt5mFKnexKgA6), [Trustpilot](https://de.trustpilot.com/reviews/5ee78b4f7dd7530828c1738b), [Trustpilot](https://de.trustpilot.com/reviews/5ec9938325e5d20a889db7fc), [Trustpilot](https://de.trustpilot.com/reviews/5ebd0e9b25e5d209b8ea8130)
-[^11]: [Trustpilot](https://de.trustpilot.com/reviews/5f2ae88a1a5a6907a47b7a78), [Trustpilot](https://de.trustpilot.com/reviews/5f23e9c31a5a6907a477830b), [Trustpilot](https://de.trustpilot.com/reviews/5ea41021086b6409543fe1aa)
 [^12]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/mitgliedsbeitraege-und-leistungen.htm#:~:text=mit%20einer%20dreimonatigen%20wartefrist%20), [mieterbund-siegerland.de](https://www.mieterbund-siegerland.de/infos/faqs/nichtmitglieder/kuemmert-sich-der-mieterbund-auch-noch-um-probleme-die-ich-bereits-habe-wenn-ich-beitreten-moechte#:~:text=eine%203-monatige%20wartezeit%20ab%20beginn%20der%20versicherungszeit%20besteht)
 [^14]: [Conny](https://conny.de/en/rent/prices) (June 2024)

@@ -572,7 +572,6 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^45]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360019389160-What-is-virtual-verification) (2024)
 [^46]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360014619980-When-will-I-receive-the-first-payment) (2024)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
-[^48]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2024)
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
 [^50]: [Reddit](https://old.reddit.com/r/berlin/comments/1bs7hxc/this_is_the_berlin_housing_market_in_2024/kxdydoa/) (April 2024)
 [^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)

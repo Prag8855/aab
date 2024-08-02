@@ -322,5 +322,3 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 [^20]: [gdpr-info.eu](https://gdpr-info.eu/art-5-gdpr/)
 [^21]: [mynewsdesk.com](https://www.mynewsdesk.com/de/mynewsdesk/blog_posts/werbung-mit-affiliate-links-was-ist-rechtlich-zu-beachten-40948)
 [^22]: [Art. 6.1](https://gdpr-info.eu/art-6-gdpr/), [Art. 7.4](https://gdpr-info.eu/art-7-gdpr/)
-[^23]: [Art. 6.1](https://gdpr-info.eu/art-6-gdpr/)
-[^24]: [Art. 5](https://gdpr-info.eu/art-5-gdpr/)
