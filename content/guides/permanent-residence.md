@@ -68,6 +68,8 @@ To become a permanent resident, you must also...
 - [x] **Pay [pension insurance](/glossary/gesetzliche%20Rentenversicherung)**  
     You must pay 3 years of pension insurance, or 2 years if you graduated from a German university.[^19] When you are employed, you do this automatically. See the [pension requirements](#pension-requirements).
 
+If you have a work visa, but you qualify for a Blue Card, you can become a permanent resident in 21 to 27 months.[^41] Apply as if you had a Blue Card. See the [requirements for Blue Card holders](#if-you-have-a-blue-card).
+
 ### If you have a [freelance visa](/glossary/Freelance%20visa)
 
 To become a permanent resident, you must also...
@@ -96,7 +98,7 @@ There is no pension requirement for the family of German citizens.[^56]
 
 You can also [become a citizen](#citizenship) after 3 years.
 
-### If your spouse has a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)
+### If your spouse is a permanent resident
 
 To become a permanent resident, you must also...
 
@@ -105,10 +107,11 @@ To become a permanent resident, you must also...
 
 Your spouse must...
 
+- [ ] **Be a permanent resident**
+- [ ] **Be a skilled worker**  
+    Their last residence permit must have been a [[Blue Card]], or a §18a, §18b or §18d [work visa](/glossary/Work%20Visa).[^68]
 - [ ] **Have a job**  
     They must have a stable, long-term income. If they are unemployed, if they are in their [probation period](/glossary/Probezeit), or if their work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If they have a history of stable employment, you might get it anyway.[^36]
-- [ ] **Have a [[Blue Card]] or a [work visa](/glossary/Work%20Visa)**  
-    It must be a Blue Card, or a §18a, §18b or §18d work visa. The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png).
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
@@ -491,6 +494,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^65]: [Adithya Srinivasan](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin) (July 2024)
 [^66]: Personal experience (July 2024)
 [^67]: Ausländerbehörde employee (July 2024), [Elliot Herman](https://www.sorted.berlin/) (July 2024), [Aydan Baghirova](https://aydanbaghirova.de/) (July 2024)
+[^68]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^69]: Ausländerbehörde case worker (July 2024)
 [^70]: Personal experience (2021)
 [^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
