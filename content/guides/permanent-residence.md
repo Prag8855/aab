@@ -104,6 +104,7 @@ To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
     3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] Your job should not be temporary, and you should not be in your [probation period](/glossary/Probezeit).[^63] Self-employment is allowed.[^62]
+- [ ] **Speak [[B1]] German**[^72]
 
 Your spouse must...
 
@@ -498,3 +499,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^69]: Ausländerbehörde case worker (July 2024)
 [^70]: Personal experience (2021)
 [^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
+[^72]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
