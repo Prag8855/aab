@@ -61,7 +61,7 @@ To become a permanent resident, you must also...
 To become a permanent resident, you must also...
 
 - [ ] **Have a §18a, §18b or §18d work visa**[^38]  
-    The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everybody-else). 
+    The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everyone-else). 
 - [ ] **Work for 2 to 3 years**[^11]  
     2 years if you graduated from a German university, 3 years otherwise. This includes the time when you met the [work visa requirements](/guides/work-visa#work-visa-requirements), even if you had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[B1]] German**[^14]
@@ -75,7 +75,7 @@ If you have a work visa, but you qualify for a Blue Card, you can become a perma
 To become a permanent resident, you must also...
 
 - [ ] **Have a §21 Abs. 1 or 2a freelance visa for 3 years**[^6]  
-    The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for everybody else](#everybody-else).
+    The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for ev](#everyone-else).
 - [ ] **Have a profitable business**  
     You can only get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *[[Ausländerbehörde]]* thinks that your business is successful, profitable and sustainable. Your *[[Ausländerbehörde]]* case worker will decide this.
 - [ ] **Support yourself**  
@@ -83,7 +83,7 @@ To become a permanent resident, you must also...
 
 In Berlin, there should be no pension or language requirement.[^39]
 
-If you don't meet those requirements, follow the [requirements for everybody else](#everybody-else). In this case you will need a pension. It might be easier to [apply for citizenship](#citizenship), because citizenship does not require a pension.
+If you don't meet those requirements, follow the [requirements for everybody else](#everyone-else). In this case you will need a pension. It might be easier to [apply for citizenship](#citizenship), because citizenship does not require a pension.
 
 ### If you live with a German citizen
 
@@ -125,7 +125,7 @@ Your time as a student counts toward your [PR](/glossary/Niederlassungserlaubnis
 To become a permanent resident, you must...[^23]
 
 - [ ] **Have the correct residence permit**  
-    You must have a *§ 25 Abs. 1*, *§ 25 Abs. 2 S. 1*, or *§ 23 Abs. 4* residence permit.[^26] The type is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everybody-else).
+    You must have a *§ 25 Abs. 1*, *§ 25 Abs. 2 S. 1*, or *§ 23 Abs. 4* residence permit.[^26] The type is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everyone-else).
 - [ ] **Live in Germany for 3 to 5 years**  
     3 years if you speak [[C1]] German, or 5 years if you speak [[A2]] German. This includes the time when they processed your request for asylum.[^54]
 - [ ] **Speak [[A2]] or [[C1]] German**
@@ -233,7 +233,7 @@ The requirements and the application process are the same. If you qualify for th
 
 In Berlin, **it takes 4 to 10 months** to get permanent residence.[^5] It took me 10 months in total. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
 
-### 1. Prepare your [PR](/glossary/Niederlassungserlaubnis) application
+### 1. Prepare your application
 
 Before you apply for permanent residence, prepare your documents.
 
@@ -241,7 +241,7 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 **[Required documents ➞](#required-documents)**
 
-### 2. Apply for [PR](/glossary/Niederlassungserlaubnis)
+### 2. Apply for permanent residence
 
 This is no *[[Ausländerbehörde]]* appointment for this. You must **[use the Ausländerbehörde contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)** to send all the [required documents](#required-documents), and wait for them to contact you. This can take a few months. You might not get a confirmation email.
 
@@ -259,7 +259,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) stays valid while yo
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
-### 4. Go to your [PR](/glossary/Niederlassungserlaubnis) appointment
+### 4. Go to your appointment
 
 After you send your application, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. The appointment could be a in few months. My appointment was 8 months after I sent my documents.
 
@@ -303,9 +303,9 @@ You will also get a letter with **the activation code for your [[eID]]**. You ne
 
 These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**[When you apply online](#apply-for-pr)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+**[When you apply online](#apply-for-permanent-residence)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
-**[When you go to your appointment](#go-to-your-pr-appointment)**, don't bring the documents that you already sent. Only bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together.
+**[When you go to your appointment](#go-to-your-appointment)**, don't bring the documents that you already sent. Only bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together.
 
 ### Required documents for everyone
 
