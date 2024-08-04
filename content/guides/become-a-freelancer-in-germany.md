@@ -35,7 +35,7 @@ If you [start a business in Germany](/guides/start-a-business-in-germany), you m
 
 **[Cost of living in Germany ➞](/guides/cost-of-living)**
 
-**[Cost of running a business ➞](/guides/start-a-business-in-germany#the-cost-of-running-a-business)**
+**[Cost of running a business ➞](/guides/start-a-business-in-germany#cost-of-running-a-business)**
 
 You also need savings to get started. If you need a [residence permit](/glossary/Aufenthaltstitel) to freelance in Germany, you can't work before you get the permit. Applying for a freelance visa can take *months*, and you need enough savings to wait. If you don't have enough savings, [apply for the residence permit in your home country](/guides/freelance-visa#how-to-apply-in-your-country), and move to Germany after you get the permit. It's cheaper and safer.
 

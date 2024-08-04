@@ -85,7 +85,7 @@ Rent is the biggest expense for most people. There are ways to pay less rent:
 ## Finances
 
 - **Choose a bank with low fees**  
-    Find a bank that has no monthly fee and no ATM fees. [N26](/out/n26), [ING](/out/ing) and [DKB](/out/dkb) are the most popular ones, but there are [many other options](/guides/best-bank-germany#german-banks-with-no-monthly-fees).
+    Find a bank that has no monthly fee and no ATM fees. [N26](/out/n26), [ING](/out/ing) and [DKB](/out/dkb) are the most popular ones, but there are [many other options](/guides/best-bank-germany#banks-with-no-monthly-fees).
 - **Combine your insurance policies**  
     If you get all your insurances from the same company, you sometimes pay less. Combined [liability](/glossary/Haftpflichtversicherung) and [household insurance](/glossary/Hausratversicherung) can be cheaper.[^2] Don't [legal insurance](/glossary/Rechtsschutzversicherung) from the same company, in case you need to sue the insurance company.[^3]
 - **Talk to a financial advisor**  

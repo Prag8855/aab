@@ -10,4 +10,4 @@ Related_guides:
     guides/quiet-hours.md
 ---
 
-The house rules (*Hausordnung*) tell you how to behave in your apartment building. It often has rules about [quiet hours](/guides/quiet-hours), grilling, [ventilation](Stoßlüften), vehicles and pets.
+The house rules (*Hausordnung*) tell you how to behave in your apartment building. It often has rules about [quiet hours](/guides/quiet-hours), grilling, [ventilation](/glossary/Stoßlüften), vehicles and pets.

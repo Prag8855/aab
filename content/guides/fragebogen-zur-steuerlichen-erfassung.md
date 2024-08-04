@@ -60,7 +60,7 @@ If you have a tax ID, but you don't have a registered address, you can still reg
 
 You need a bank account that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). This is how you pay your taxes. You a bank account before you fill this form.
 
-**[How to open a business bank account ➞](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**
+**[How to open a business bank account ➞](/guides/start-a-business-in-germany#open-a-bank-account)**
 
 ### Create an ELSTER account
 

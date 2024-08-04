@@ -21,8 +21,8 @@ class MarkdownInternalLinksLinter(OriginalInternalLinksLinter):
                     self.redirects.add(line.strip().split(' ')[0].strip('" '))
 
     def validate_link_url(self, url: str, is_image: bool, current_file_path: Path):
-        if not url.startswith('/out'):
-            return super().validate_link_url(url, is_image, current_file_path)
-
-        if url not in self.redirects:
-            yield "URL redirect not found", logging.ERROR
+        if url.startswith('/out'):
+            if url not in self.redirects:
+                yield "URL redirect not found", logging.ERROR
+        else:
+            yield from super().validate_link_url(url, is_image, current_file_path)

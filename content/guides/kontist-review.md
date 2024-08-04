@@ -190,7 +190,7 @@ Bloggers get paid to promote Kontist.[^7] When you open an account, they get aro
 
 Read [reviews from real users](https://www.trustpilot.com/review/kontist.com) instead, and decide for yourself.
 
-## Konstist alternatives
+## Kontist alternatives
 
 If you need a business bank account to [start a business in Germany](/guides/start-a-business-in-germany), there are many other options.
 

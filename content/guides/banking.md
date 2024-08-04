@@ -27,7 +27,7 @@ The **Tagesgeldkonto** or savings account is where you keep your extra money. Th
 
 Use a **Depot** or trading account to invest in stocks and ETFs. This is a popular way to invest money in Germany.
 
-Open a **business account** for your business. It's optional, but [it's a really good idea](/guides/start-a-business-in-germany#two-bank-accounts-is-better). Some banks don't let you use your personal account for your business. Having a separate business account makes accounting much easier.
+Open a **business account** for your business. It's optional, but [it's a really good idea](/guides/start-a-business-in-germany#open-a-bank-account). Some banks don't let you use your personal account for your business. Having a separate business account makes accounting easier.
 
 Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
 

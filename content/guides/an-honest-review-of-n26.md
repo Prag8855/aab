@@ -7,7 +7,7 @@ Date_created: 2017-09-02
 
 In 2016, I switched to [N26](/out/n26). I left [Commerzbank](/out/commerzbank) because they charge fees for everything.
 
-**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. There are very few [banks with no ATM fees](/guides/best-bank-germany#german-banks-with-no-atm-fees).
+**N26 is free**. No withdrawal fees, no monthly fees, no credit card fees. *Free!* I get money from the sketchiest ATMs in Berlin, and I don't pay any fees. There are very few [banks with no ATM fees](/guides/best-bank-germany#banks-with-no-atm-fees).
 
 I am an N26 customer since 2016. It's my main bank account. This is my experience as an N26 customer in {{ now.strftime('%Y') }}.
 
@@ -105,7 +105,7 @@ The standard N26 account is free. The free account is not as good as before, but
 
 In {{ now.strftime('%Y') }}, [most German banks](/guides/best-bank-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
 
-**[Banks with no monthly fees ➞](/guides/best-bank-germany#german-banks-with-no-monthly-fees)**
+**[Banks with no monthly fees ➞](/guides/best-bank-germany#banks-with-no-monthly-fees)**
 
 ### Some passports are not supported
 
@@ -121,9 +121,9 @@ In Germany, you always need cash. Fast food kiosks, *[Spätis](/glossary/Sp%C3%A
 
 The free N26 account lets you withdraw money 3 times per month for free. After that, you pay 2€ each time you withdraw money. My account is older, and it still has 5 free withdrawals per month. It's enough for me, but it's not a lot. [The N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts have no withdrawal fees, but they have a monthly fee.
 
-Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees. [Other banks](/guides/best-bank-germany#german-banks-with-no-atm-fees) charge even higher fees to withdraw money.
+Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees. [Other banks](/guides/best-bank-germany#banks-with-no-atm-fees) charge even higher fees to withdraw money.
 
-**[Banks with no ATM fees ➞](/guides/best-bank-germany#german-banks-with-no-atm-fees)**
+**[Banks with no ATM fees ➞](/guides/best-bank-germany#banks-with-no-atm-fees)**
 
 ### Account creation problems (fixed?)
 

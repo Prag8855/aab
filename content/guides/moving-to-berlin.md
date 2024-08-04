@@ -42,7 +42,7 @@ There are [English-speaking jobs in Berlin](/guides/english-speaking-jobs-berlin
 
 You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You must get a job offer, then apply for a residence permit, then start working. You can't work before you get a residence permit.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
 
 ### Find a place to live
 
@@ -70,7 +70,7 @@ If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insur
 
 If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You can't work before you get your residence permit. If you can't get a residence permit, you can't move to Germany.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
 
 You can apply for a residence permit at a German embassy or consulate in your home country. If you are from {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*.
 

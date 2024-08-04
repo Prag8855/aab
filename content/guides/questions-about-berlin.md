@@ -81,7 +81,7 @@ Use my lists of English-speaking professionals:
 
 - [Doctors](/guides/english-speaking-doctors-berlin)
 - [Dentists](/guides/list-of-english-speaking-dentists-in-berlin)
-- [Gynecologists and obstetricians](/english-speaking-gynecologists-berlin)
+- [Gynecologists and obstetricians](/guides/english-speaking-gynecologists-berlin)
 - [Psychiatrists](/guides/english-speaking-psychiatrists-berlin)
 - [Psychotherapists](/guides/english-speaking-psychotherapists-berlin)
 - [Other medical professionals](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)

@@ -33,7 +33,7 @@ You don't need to register your address to...
 - **Start working**  
     Your employer needs your [tax ID](/glossary/Steueridentifikationsnummer), but it can wait. You can also [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 - **Open a bank account**  
-    There are [banks that don't require an *Anmeldung*](/guides/german-banks-no-address).
+    There are [banks that don't require an *Anmeldung*](/guides/best-bank-germany#banks-that-dont-require-an-anmeldung).
 
 ### People who don't need to register
 

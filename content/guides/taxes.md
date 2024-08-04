@@ -130,7 +130,7 @@ Your business must also pay...
 - [Value Added Tax](/glossary/Umsatzsteuer) (VAT) - [More information](/guides/value-added-tax)
 - [[IHK]] membership fee - [More information](/guides/start-a-business-in-germany#ihk-membership)
 
-**[Cost of running a business ➞](/guides/start-a-business-in-germany#the-cost-of-running-a-business)**
+**[Cost of running a business ➞](/guides/start-a-business-in-germany#cost-of-running-a-business)**
 
 Since you are self-employed, your employer does not pay half of your health insurance, pension insurance or unemployment insurance. This means that you pay twice as much for social contributions.
 

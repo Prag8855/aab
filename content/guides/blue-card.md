@@ -139,7 +139,7 @@ While you wait for your *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
     When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^46] - [Why the *Anmeldung* is important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
-- [ ] **[Open a bank account](/guides/start-a-business-in-germany#step-2-open-a-bank-account)**  
+- [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
     You need it to pay your rent, pay your Blue Card application fee, and get paid by your employer. You can choose a bank from any EU country.
 
 ### 4. Apply for the Blue Card online
