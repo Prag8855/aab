@@ -24,7 +24,7 @@ class MultilineListsLinter(LineLinter):
 
         # List item first line
         if match:
-            self.item_indent = len(match['indent'])//4
+            self.item_indent = len(match['indent']) // 4
             assert len(match['indent']) % 4 == 0
 
             self.item_has_double_space = match['content'].endswith('  ')
@@ -36,9 +36,9 @@ class MultilineListsLinter(LineLinter):
         elif self.item_indent is not None:
             required_indent = ' ' * (self.item_indent + 1) * 4
             if not line.startswith(required_indent):
-                yield "Incorrect line indent", logging.ERROR
+                yield (0, self.item_indent * 4), "Incorrect line indent", logging.ERROR
             elif not self.item_has_double_space:
-                yield "Missing double space before line break in list", logging.ERROR
+                yield (len(line) - 3, len(line) - 1), "Missing double space before line break in list", logging.ERROR
             self.item_indent = None
         # Normal line
         else:
