@@ -48,7 +48,7 @@ If you fill this form because you can't register your current address:
 - **Zweck**  
     If you are an employee, tick *Lohnsteuerabzug*. If you want to [start a business](/guides/start-a-business-in-germany), write "bevorstehende Gewerbeanmeldung" in *the Sonstiger Zweck* field.
 - **Anschrift in Deutschland**  
-    If you don't have an address in Germany, write "nicht vorhanden".[^2]
+    If you don't have an address in Germany, write "nicht vorhanden" (not available) or "noch nicht bekannt" (not known yet).[^2]
 
 ## Where to send this form
 
