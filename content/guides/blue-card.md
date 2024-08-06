@@ -162,6 +162,8 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
+If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
+
 ### 6. Go to your Blue Card appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
@@ -179,26 +181,21 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your Blue Card.
 
+If they approve your Blue Card, they must print the plastic card. You will get a second appointment to collect your Blue Card in {{ RESIDENCE_PERMIT_WAIT_TIME }}. You might get a temporary document that confirms that your Blue Card was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
+
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
 ### 7. Get your Blue Card
 
-After your *Ausländerbehörde* appointment, it takes {{ RESIDENCE_PERMIT_WAIT_TIME }} to get your Blue Card. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
-
-You will get 2 letters:[^22]
-
-1. **The [[eID]] activation code**  
-    This letter arrives first. Save it for later. You need it to [activate the eID function](#activate-your-eid) of your Blue Card.
-2. **Your Blue Card**  
-    Around 2 weeks after you get the eID activation code, you get your Blue Card, or an invitation to collect it at the *Ausländerbehörde*.[^28]
+Go to your second *[[Ausländerbehörde]]* appointment, and pick up your Blue Card. Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
 You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
-Check if the information on your Blue Card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your Blue Card. This lets you use your Blue Card to log into online government services.
 
 ### 8. Start working in Germany
 
@@ -397,13 +394,11 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
-[^22]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^23]: [§51 Abs. 10 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^24]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
-[^28]: It depends on your case worker (October 2023)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/)
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)

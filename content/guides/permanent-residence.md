@@ -289,7 +289,7 @@ If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESID
 
 They must print your permanent residence card. This takes {{ RESIDENCE_PERMIT_WAIT_TIME }} weeks.[^34] You will get a second appointment to pick up the card. They do not mail the card to you.[^67]
 
-You will get a document. It confirms that your permanent residence application was approved, that your card must be printed, and that your previous residence permit is still valid.[^31] This is not a valid travel document. It does not allow you to re-enter Germany. If your current residence permit has expired, you might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
+You will get a document. It confirms that your permanent residence application was approved, that your card must be printed, and that your previous residence permit is still valid.[^31] This is not a valid travel document. It does not allow you to leave and re-enter Germany. If your current residence permit has expired, you might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 

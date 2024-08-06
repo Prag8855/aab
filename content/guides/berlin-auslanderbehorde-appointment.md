@@ -152,7 +152,7 @@ They might ask you to pay a fee. You must pay it at a payment machine. The machi
 
 **[How to pay the residence permit fee ➞](#pay-the-fee)**
 
-If they approve your residence permit, they must print the plastic card. This takes a few weeks. You might get a temporary certificate while you wait. It allows you to start working, but it's not a valid travel document. It does not allow you to re-enter Germany.[^31]
+If they approve your residence permit, they must print the plastic card. This takes a few weeks. You might get a temporary document that confirms that your residence permit was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.[^31]
 
 In a few weeks, you will get your plastic residence permit by post, or an invitation to collect it at the *Ausländerbehörde*.[^30]
 
