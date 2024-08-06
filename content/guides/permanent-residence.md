@@ -103,14 +103,14 @@ You can also [become a citizen](#citizenship) after 3 years.
 To become a permanent resident, you must also...
 
 - [ ] **Live with your spouse for 3 to 5 years**  
-    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] Your job should not be temporary, and you should not be in your [probation period](/glossary/Probezeit).[^63] Self-employment is allowed.[^62]
+    3 years if you work at least 20 hours per week, or 5 years otherwise.[^28] This includes the time before your spouse became a permanent resident.[^73] Your job should not be temporary, and you should not be in your [probation period](/glossary/Probezeit).[^63] Self-employment is allowed.[^62]
 - [ ] **Speak [[B1]] German**[^72]
 
 Your spouse must...
 
 - [ ] **Be a permanent resident**
 - [ ] **Be a skilled worker**  
-    Their last residence permit must have been a [[Blue Card]], or a §18a, §18b or §18d [work visa](/glossary/Work%20Visa).[^68]
+    Their last residence permit must have been a [[Blue Card]], or a §18a, §18b or §18d [work visa](/glossary/Work%20Visa).[^68] If they had a different residence permit, follow the [requirements for everybody else](#everyone-else).
 - [ ] **Have a job**  
     They must have a stable, long-term income. If they are unemployed, if they are in their [probation period](/glossary/Probezeit), or if their work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If they have a history of stable employment, you might get it anyway.[^36]
 
@@ -500,3 +500,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^70]: Personal experience (2021)
 [^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
 [^72]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
+[^73]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (August 2024)
