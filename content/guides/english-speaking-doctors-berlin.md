@@ -28,27 +28,18 @@ Related_places:
     places/dr-johanna-morguet-sahar-abdul-majeed.md
     places/mvz-kopenick.md
     places/katharina-dembinski.md
+    places/ovid-clinic-berlin.md
 ---
 
 This is how you can find an English-speaking doctor or GP.
-
-**[Go to the list of doctors ➞](#list-of-doctors-and-gps)**
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## List of doctors and GPs
 
-This list is compiled by hand. If a doctor is missing, [contact me](/contact).
+If a doctor is missing from this list, [fill this form](/suggest-business).
 
 {% include '_blocks/relatedPlaces.html' %}
-
-## Video call with a doctor
-
-A video call is faster and easier than a doctor visit. It's a good way to get a [sick note](/glossary/Krankschreibung).
-
-The [TeleClinic](https://www.teleclinic.com/sick-note/) and [Doktor.de](https://doktor.de) apps let you schedule a video call with a doctor. It's only in German, but some doctors speak English.
-
-This service is free. Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) pays for it. Your [private health insurance](/glossary/private%20Krankenversicherung) reimburses it.
 
 ## Other doctor databases
 
@@ -75,5 +66,13 @@ This free hotline can:
 - Book a doctor visit to your house
 
 For emergencies, call [112](tel:112). They speak English.
+
+## Video call with a doctor
+
+A video call is faster and easier than a doctor visit. It's a good way to get a [sick note](/glossary/Krankschreibung).
+
+The [TeleClinic](https://www.teleclinic.com/sick-note/) and [Doktor.de](https://doktor.de) apps let you schedule a video call with a doctor. It's only in German, but some doctors speak English.
+
+This service is free. Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) pays for it. Your [private health insurance](/glossary/private%20Krankenversicherung) reimburses it.
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (April 2024)
