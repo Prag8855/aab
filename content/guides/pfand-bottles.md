@@ -82,8 +82,8 @@ There are two types of containers with a deposit:
 
 If a business sells *Pfand* containers, it must accept *Pfand* returns. It must not accept container types it doesn't sell. For example, Aldi and Lidl only sell single-use (*Einweg*) bottles, so they don't accept multiple use (*Mehrweg*) bottles.[^4] If a store is larger than 200 m², it must accept containers from all brands, not just the brands it sells.
 
-- **Supermarket**  
-    Look for a bottle return machine (*[[Pfandautomat]]*). [They look like this](/images/pfandautomat-edeka-bottle-return-machine.jpg). They are near the entrance, or at the back of the store. The machine will print a coupon. You must bring that coupon to the cash register to get your money back. Some grocery stores like Aldi and Lidl do not accept multiple-use (*Mehrweg*) bottles.[^5] Rewe and Edeka accept most bottles.
+- **Supermarket**{% include '_blocks/recommended.html' %}  
+    Look for a bottle return machine (*[[Pfandautomat]]*). [They look like this](/images/pfandautomat-edeka-bottle-return-machine.jpg). They are near the entrance, or at the back of the store. The machine will print a coupon. You must bring that coupon to the cash register to get your money back. Some grocery stores like Aldi and Lidl do not accept multiple-use (*Mehrweg*) bottles like beer bottles.[^5] Rewe and Edeka accept most bottles.
 - **Liquor store** (*Getränkemarkt*)  
     If you have a lot of bottles to return, bring them to a liquor store like *Getränke Hoffmann*.
 - **[[Späti]]**  
@@ -105,5 +105,5 @@ In Berlin, some people collect empty bottles to earn money. Leave your bottle ne
 [^2]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/kennzeichnung-von-mehr-und-einwegflaschen-regierung-will-pfandsystem-entwirren-1.1592681)
 [^3]: [bluhmsysteme.com](https://www.bluhmsysteme.com/blog/kennzeichnung-von-pfandflaschen-verwirrend/)
 [^4]: [merkur.de](https://www.merkur.de/verbraucher/unfaire-regelung-darum-muessen-aldi-und-lidl-keine-mehrweg-pfandflaschen-annehmen-zr-12817386.html)
-[^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/gyyehp/where_to_return_nonstandard_pfand_bottles/ftd42am/), [mehrweg.org](https://www.mehrweg.org/einkaufen/maerkte/)
+[^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/gyyehp/where_to_return_nonstandard_pfand_bottles/ftd42am/), [mehrweg.org](https://www.mehrweg.org/einkaufen/maerkte/), [Focus.de](https://www.focus.de/finanzen/news/unternehmen/lidl-darum-muss-der-discounter-keine-glas-und-mehrwegflaschen-annehmen_id_10898048.html#:~:text=glasflaschen%20oder%20mehrwegflaschen%20werden%20vom%20automaten%20nicht%20akzeptiert)
 [^6]: [lachers-getraenkewelt.de](https://www.lachers-getraenkewelt.de/pfandkunde.html)
