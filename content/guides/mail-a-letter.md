@@ -11,15 +11,18 @@ This is how you can send a letter by post in Germany, even if you don't have a p
 
 ## At the post office
 
-[Write your address](/guides/addressing-a-letter-in-germany) on the envelope or package, and bring it to the post office. You don't need a stamp; you can buy it there. Bring cash; some post offices don't accept Visa or Mastercard.
+1. [Write your address](/guides/addressing-a-letter-in-germany) on the envelope or package
+2. Bring it to the post office.
+
+You don't need a stamp; you can buy it at the post office. Bring cash; some post offices only accept cash and [[Girocard]], no Visa or Mastercard.
 
 **[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 
 ## In a mailbox
 
-[Write your address](/guides/addressing-a-letter-in-germany) on the envelope, then [get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html) from the Post & DHL app. You get a code that you must write on the envelope. It does not work for international mail.
-
-Put the letter in a yellow Deutsche Post post box.
+1. [Write your address](/guides/addressing-a-letter-in-germany) on the envelope.
+2. [Get a digital stamp](https://www.deutschepost.de/de/m/mobile-briefmarke.html) from the [Post & DHL app](https://www.dhl.de/en/privatkunden/kampagnenseiten/dhl-app.html). You get a code that you must write on the envelope. You can pay with PayPal, Google Pay, Apple Pay or credit card. It does not work for international mail.
+3. Put the letter in a yellow Deutsche Post post box.
 
 **[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 
@@ -31,9 +34,12 @@ If you don't have a printer at home, or you want to save time, send a letter fro
 
 To mail a letter from a computer, use these services:
 
-- **[Superpost](https://www.superpost.com/en/)** (English) — Send text or PDF documents in any format. More expensive, but easier to use. No account needed.
-- [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben) (German) — Send text or PDF documents in any format. You must create an account and add at least 5€ in funds.
-- [eBrief](https://www.ebrief.de/) (German) — Send PDF documents in the [DIN 5008 format](https://de.wikipedia.org/wiki/DIN_5008#/media/Datei:DIN_5008,_Form_A.svg). You must create an account.
+- **[Superpost](https://www.superpost.com/en/)** (English)  
+    Send text or PDF documents in any format. More expensive, but easier to use. No account needed.
+- [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben) (German)  
+    Send text or PDF documents in any format. You must create an account and add at least 5€ in funds.
+- [eBrief](https://www.ebrief.de/) (German)  
+    Send PDF documents in the [DIN 5008 format](https://de.wikipedia.org/wiki/DIN_5008#/media/Datei:DIN_5008,_Form_A.svg). You must create an account.
 
 ## By registered mail
 
@@ -55,7 +61,7 @@ Registered letters are not faster than normal letters.[^2] The recipient can be 
 
 ### How to send a registered letter
 
-You can go to the post office, or send it from a computer with [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben).
+Go to the post office, or send it from your computer with [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben).
 
 [^0]: [deutschepost.de](https://www.deutschepost.de/de/e/einschreiben.html), [paketda.de](https://www.paketda.de/verschicken/einschreiben.html)
 [^1]: [deutschepost.de](https://www.deutschepost.de/de/e/einschreiben/kuendigung-abo-themen/wohnung-kuendigen.html)
