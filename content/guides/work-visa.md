@@ -293,8 +293,8 @@ In Berlin, you must convert your National Visa **8 weeks before it expires**, no
 
 To convert your National Visa into a work visa:
 
-1. **[Book an Ausländerbehörde appointment](/guides/berlin-auslanderbehorde-appointment)**  
-    Start looking for an appointment 3 to 4 months before your National Visa expires. It's really hard to find an appointment. [If your National Visa expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it's faster.
+1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
+    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes.
 3. **Wait for your work visa**  
