@@ -1,7 +1,7 @@
 ---
 Name: Filmtheater am Friedrichshain (Yorck)
 Description: 
-Website: https://yorck.de/filme/english
+Website: https://www.yorck.de/kinos/filmtheater-am-friedrichshain
 Email: 
 Address: Bötzowstraße 1-5
 Latitude: 52.529045

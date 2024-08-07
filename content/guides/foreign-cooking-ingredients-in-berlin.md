@@ -5,7 +5,6 @@ Description: This guide shows you where to get exotic foods and ingredients in B
 Date_created: 2017-09-27
 Related_places:
     places/australia-shopping-world-berlin.md
-    places/american-lifestyle.md
     places/kaufhaus-des-westens.md
     places/broken-english.md
     places/chili-paprika.md

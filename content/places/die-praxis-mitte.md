@@ -1,7 +1,7 @@
 ---
 Name: Die Praxis Mitte
 Description: 
-Website: https://www.die-praxis.berlin/en/
+Website: https://www.die-praxis.berlin/
 Email: 
 Address: Münzstraße 5
 Latitude: 52.524077

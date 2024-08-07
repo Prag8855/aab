@@ -6,13 +6,11 @@ Date_created: 2017-09-12
 Related_places:
     places/david-barnes.md
     places/psychotherapie-blagec.md
-    places/diplom-psychologin-sybille-aßmann.md
     places/praxis-für-paartherapie-julia-bellabarba.md
     places/dr-med-cordula-dietrich.md
     places/rodenbergstraße-6.md
     places/anja-benesch.md
     places/individual-therapy-berlin-ghazaleh-bailey.md
-    places/carrie-argent.md
     places/the-living-body-julianne-appel-opper.md
     places/frau-dipl-psych-heidi-hooper-amri.md
     places/dr-pheasant.md
@@ -21,7 +19,6 @@ Related_places:
     places/dr-christian-dombrowe.md
     places/frau-dipl-psych-nadja-ursula-gogolin.md
     places/blanka-leeker-ma.md
-    places/dr-babette-gekeler.md
     places/mittelweg-50.md
     places/dipl-psych-jana-harthauß.md
     places/sandra-cotta-psychologische-psychotherapeutin.md
@@ -31,14 +28,12 @@ Related_places:
     places/anne-piotrowski.md
     places/360-psychotherapie.md
     places/psychotherapy-rachel-karsen-hafermaas.md
-    places/dipl-psych-miriam-reer.md
     places/ariane-fuechtner.md
     places/dr-grace-omalley.md
     places/dr-birgit-hansen.md
     places/katie-knight-berlin-counseling.md
     places/philip-sheldon.md
     places/dipl-psych-kristina-oelschläger.md
-    places/christiane-klingner.md
     places/sean-carden.md
     places/dr-michael-cugialy.md
     places/johannes-mittermair.md
@@ -50,7 +45,6 @@ Related_places:
     places/ana-morin.md
     places/psychotherapist-lisa-maria-aldinger.md
     places/praxis-berenike-l-franzen.md
-    places/dipl-psych-caroll-meier-liehl.md
     places/dr-phil-ralph-piotrowski.md
     places/susanne-baberg-dipl-psych-m-sc.md
     places/praxis-für-psychotherapie-hypnotherapie-klangtherapie.md
@@ -58,7 +52,6 @@ Related_places:
     places/dr-med-lazaros-giousmpasis.md
     places/psychologie-halensee.md
     places/dott-gaia-porcelli.md
-    places/dipl-psych-marius-presterud.md
     places/dipl-psych-christiane-köhler.md
     places/yara-thomale-ma-hpg.md
     places/aloka-levitin.md

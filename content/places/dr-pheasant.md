@@ -2,7 +2,7 @@
 Name: Dr. Brian L. Pheasant
 Description: American psychotherapist
 Accepts_public_insurance: No
-Website: http://www.pw-psychotherapie.de/therapy-in-english.html
+Website: http://www.pw-psychotherapie.de/
 Email: 
 Address: Kuglerstraße 26
 Latitude: 52.55217

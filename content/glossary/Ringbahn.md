@@ -4,7 +4,9 @@ German_term: Ringbahn
 English_term: Ring railroad
 Description: The railway that runs a circle around the central areas of Berlin.
 Date_created: 2018-07-31
-Related_guides: guides/visit-berlin.md, guides/find-a-flat-in-berlin.md
+Related_guides:
+    guides/visit-berlin.md
+    guides/find-a-flat-in-berlin.md
 ---
 
 The *Ringbahn* is a railroad that runs around Berlin. The S41 train goes around the *Ringbahn* in one direction, while the S42 goes in the opposite direction. The *Ringbahn* is often used to separate what's in central Berlin, and what is not.

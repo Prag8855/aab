@@ -4,7 +4,9 @@ German_term: Azubi
 English_term: Apprentice
 Description: 
 Date_created: 2018-07-31
-Related_guides: guides/gez-rundfunkbeitrag.md, guides/german-health-insurance.md
+Related_guides:
+    guides/gez-rundfunkbeitrag.md
+    guides/german-health-insurance.md
 ---
 
 An apprentice (*Azubi* or *Auszubildender*) is a student who must complete an apprenticeship (*Ausbildung*) to graduate.[^0] *Azubis* learn their job by doing it.

@@ -4,7 +4,9 @@ German_term: Hauptuntersuchung
 English_term: Vehicle inspection
 Description: 
 Date_created: 2021-01-17
-Related_guides: guides/buying-used-car-in-germany.md, guides/car-cost-of-ownership-germany.md
+Related_guides:
+    guides/buying-used-car-in-germany.md
+    guides/car-cost-of-ownership-germany.md
 ---
 
 In Germany, vehicles must be inspected regularly - usually every 2 years. If a vehicle does not pass inspection, it can't drive on Germany roads. The inspection is very thorough. They check everything: lights, brakes, seats, seatbelts, horn, leaks, emissions, and much more.

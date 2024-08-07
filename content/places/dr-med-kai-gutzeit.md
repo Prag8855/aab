@@ -2,7 +2,7 @@
 Name: Dr. med Kai Gutzeit
 Description: Speaks English, Spanish and German.
 Accepts_public_insurance: No
-Website: https://drgutzeit.de/english/
+Website: http://drgutzeit.de/
 Email: dr.gutzeit@gmail.com
 Address: Lenaustraße 8
 Latitude: 52.490018

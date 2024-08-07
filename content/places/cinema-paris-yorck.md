@@ -1,7 +1,7 @@
 ---
 Name: Cinema Paris (Yorck)
 Description: They play French movies in their original language.
-Website: https://yorck.de/filme/english
+Website: https://www.yorck.de/en/cinemas/cinema-paris
 Email: 
 Address: Kurfürstendamm 211
 Latitude: 52.502042

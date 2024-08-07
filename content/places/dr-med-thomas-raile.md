@@ -1,7 +1,7 @@
 ---
 Name: Dr. Thomas Raile
 Description: 
-Website: http://hausarzt-raile.de/language/en/
+Website: http://hausarzt-raile.de/
 Email: 
 Address: Mohrenstraße 6
 Latitude: 52.511767

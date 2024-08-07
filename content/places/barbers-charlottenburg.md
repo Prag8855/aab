@@ -1,7 +1,7 @@
 ---
 Name: Berlin Barbers Charlottenburg
 Description: 
-Website: https://app.uppaman.com/booking
+Website: https://berlin-barbers.com/
 Email: 
 Address: Zillestraße 79
 Latitude: 52.513335

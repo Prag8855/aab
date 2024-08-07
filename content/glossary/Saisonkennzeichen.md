@@ -4,7 +4,10 @@ German_term: Saisonkennzeichen
 English_term: Seasonal licence plates
 Description: 
 Date_created: 2019-01-08
-Related_guides: guides/motorcycle-parking.md, guides/buying-used-car-in-germany.md, guides/car-insurance-germany.md
+Related_guides:
+    guides/motorcycle-parking.md
+    guides/buying-used-car-in-germany.md
+    guides/car-insurance-germany.md
 ---
 
 Seasonal plates (*Saisonkennzeichen*) are vehicle registration plates that only let you drive during certain months. For example, a motorcycle can have *Saisonkennzeichen* from April to October, or March to November. You can choose the dates when you register the vehicle.

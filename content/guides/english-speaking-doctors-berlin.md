@@ -8,13 +8,10 @@ Related_places:
     places/herr-dr-med-anton-kugler.md
     places/dr-ilker-a-aydin.md
     places/dr-michael-latzke.md
-    places/dr-ajay-bindra.md
     places/dr-med-thomas-raile.md
     places/gemeinschaftspraxis-schlesisches-tor.md
-    places/dr-sylvia-kollmann.md
     places/dr-med-petra-jordan.md
     places/dr-med-nadja-dreysse.md
-    places/dr-med-lisa-liccini.md
     places/martina-schreen-allgemeinmedizin-hausarzt-berlin.md
     places/praxis-dr-peter-oblaski.md
     places/andreas-stein-facharzt-für-allgemeinmedizin.md

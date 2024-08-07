@@ -1,7 +1,7 @@
 ---
 Name: FitX Fitnessstudio Tempelhof
 Description: 
-Website: https://www.fitx.de/fitnessstudios/berlin-tempelhof?utm_source=google&utm_medium=yext&utm_campaign=00056
+Website: https://www.fitx.de/fitnessstudios/berlin-tempelhof
 Email: 
 Address: Ullsteinstraße 128
 Latitude: 52.454114

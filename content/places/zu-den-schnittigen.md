@@ -1,7 +1,7 @@
 ---
 Name: Zu den Schnittigen
 Description: 
-Website: http://www.zu-den-schnittigen.com/
+Website: https://zudenschnittigen.wordpress.com/
 Email: 
 Address: Wichertstraße 7
 Latitude: 52.549965

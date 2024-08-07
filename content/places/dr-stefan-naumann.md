@@ -1,7 +1,7 @@
 ---
 Name: Dr. Stefan Naumann
 Description: 
-Website: http://www.dr-naumann.berlin/
+Website: https://www.zahnarzt-naumann-berlin.de/
 Email: 
 Address: Auguste-Viktoria-Straße 7
 Latitude: 52.491802

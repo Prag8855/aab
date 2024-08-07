@@ -4,7 +4,9 @@ German_term: Pfandautomat
 English_term: Bottle return machine
 Description: A bottle return machine (Pfandautomat) allows you to return bottles that have a deposit (Pfand).
 Date_created: 2022-05-17
-Related_guides: guides/sorting-trash-in-germany.md, guides/pfand-bottles.md
+Related_guides:
+    guides/sorting-trash-in-germany.md
+    guides/pfand-bottles.md
 ---
 
 A bottle return machine (*Pfandautomat*) allows you to return bottles and bottle crates that have a deposit (*[[Pfand]]*).

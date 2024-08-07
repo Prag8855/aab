@@ -1,7 +1,7 @@
 ---
 Name: Börsing Pohl & Partner
 Description: They speak German, English, Spanish and Russian.
-Website: http://www.boersing-pohl.de/Englisch_Boersing_Pohl_Berlin.htm
+Website: https://www.boersing-pohl.de/
 Email: 
 Address: Lietzenburger Str. 46
 Latitude: 52.50062

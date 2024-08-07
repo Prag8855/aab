@@ -2,8 +2,8 @@
 Name: Böttges-Papendorf-Weller Steuerberater
 Website: http://www.bpw-online.de/
 Email: 
-Address: Müllerstraße 138B
-Latitude: 52.549632
-Longitude: 13.352895
+Address: Lindower Str. 19
+Latitude: 52.543728
+Longitude: 13.367631
 Google_Place_ID: ChIJWVII7tVTqEcRhD79vETHjJc
 ---

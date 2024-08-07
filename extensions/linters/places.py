@@ -16,25 +16,32 @@ class PlacesLinter(Linter):
 
     def parse_place(self, place_path: Path):
         place = {}
+        field_positions = {}
         with (config.content_path / place_path).open() as place_file:
-            for line in place_file.readlines():
+            for line_no, line in enumerate(place_file.readlines()):
                 if line.strip() and line.strip() != '---':
                     field, value = line.split(':', 1)
                     place[field.strip()] = value.strip()
-        return place
+                    field_positions[field] = (line_no, 0, len(line) - 1)
+        return place, field_positions
 
     def lint(self, file_path: Path):
         if file_path.is_relative_to(Path('places')):
-            place = self.parse_place(file_path)
+            place, field_positions = self.parse_place(file_path)
 
-            if not place.get('Google_Place_ID'):
-                return None, "Place has no place ID", logging.WARNING
+            if 'Google_Place_ID' not in place:
+                yield (0, 0, 3), "Place has no place ID", logging.ERROR
+                return
 
-            google_place = self.google_maps.place(place['Google_Place_ID'], language="en")['result']
+            try:
+                google_place = self.google_maps.place(place['Google_Place_ID'], language="en")['result']
+            except googlemaps.exceptions.ApiError:
+                yield (0, 0, 3), "Place error", logging.ERROR
+                return
 
             if google_place.get('website') and place.get('Website') != google_place.get('website'):
                 yield (
-                    None,
+                    field_positions.get('Website'),
                     f"Website does not match with Google: {place.get('Website')} -> {google_place.get('website')}",
                     logging.WARNING
                 )
@@ -42,7 +49,7 @@ class PlacesLinter(Linter):
             google_address = re.sub(r"(, (\d{5} )?Berlin)?, Germany$", "", google_place['formatted_address']).strip()
             if place.get('Address') != google_address:
                 yield (
-                    None,
+                    field_positions.get('Address'),
                     f"Address does not match with Google: {place.get('Address')} -> {google_address}",
                     logging.ERROR
                 )
@@ -55,8 +62,10 @@ class PlacesLinter(Linter):
             lng = float(place['Longitude'])
             g_lat = round(google_place['geometry']['location']['lat'], 6)
             g_lng = round(google_place['geometry']['location']['lng'], 6)
-            if lat != g_lat or lng != g_lng:
-                yield None, "Coordinates do not match with Google: {lat}, {lng} -> {g_lat}, {g_lng}", logging.ERROR
+            if str(lat) != str(g_lat):
+                yield field_positions.get('Latitude'), f"Latitude does not match with Google: {lat} -> {g_lat}", logging.ERROR
+            if str(lng) != str(g_lng):
+                yield field_positions.get('Longitude'), f"Longitude does not match with Google: {lng} -> {g_lng}", logging.ERROR
 
 
 class UnusedPlacesLinter(Linter):

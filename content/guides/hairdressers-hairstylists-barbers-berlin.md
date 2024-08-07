@@ -13,9 +13,7 @@ Related_places:
     places/maoc-modern-art-of-cutting-hair.md
     places/nomad-barber-berlin.md
     places/latelier-friseur-berlin.md
-    places/art-of-hair-by-sherina.md
     places/swinging-scissors.md
-    places/ben-madle.md
     places/viktor-leske-kreuzberg.md
     places/haarspree-frisöre.md
     places/neoberlin-gmbh.md
@@ -45,10 +43,8 @@ Related_places:
     places/çetin.md
     places/mado-barbershop.md
     places/barbers-charlottenburg.md
-    places/barbers.md
     places/the-blade-barbershop.md
     places/barber-shop-by-meti.md
-    places/beauty-by-gesa.md
     places/renasanz-salon.md
 ---
 

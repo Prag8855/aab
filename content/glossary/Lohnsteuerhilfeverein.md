@@ -4,7 +4,7 @@ German_term: Lohnsteuerhilfeverein
 English_term: Tax help union
 Description: A non-profit organisation that helps people file their taxes.
 Date_created: 2023-05-08
-Related_guides
+Related_guides:
     guides/english-speaking-steuerberater-berlin.md
     guides/german-tax-software.md
     guides/taxes.md

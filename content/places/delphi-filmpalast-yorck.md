@@ -1,7 +1,7 @@
 ---
 Name: Delphi Filmpalast (Yorck)
 Description: 
-Website: https://yorck.de/filme/english
+Website: https://www.yorck.de/en/cinemas/delphi-filmpalast
 Email: 
 Address: Kantstraße 12A
 Latitude: 52.506032

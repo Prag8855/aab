@@ -1,7 +1,7 @@
 ---
 Name: FitX Fitnessstudio Waidmannslust
 Description: 
-Website: https://www.fitx.de/fitnessstudios/berlin-waidmannslust?utm_source=google&utm_medium=yext&utm_campaign=00029
+Website: https://www.fitx.de/fitnessstudios/berlin-waidmannslust
 Email: 
 Address: Oraniendamm 6
 Latitude: 52.607878

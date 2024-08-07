@@ -18,7 +18,6 @@ Related_places:
     places/legal-skills-international-business-lawyers.md
     places/büdding-legal.md
     places/rechtsanwaltskanzlei-andrea-blumenthal.md
-    places/dr-ulf-björner.md
     places/kanzlei-am-oranienplatz.md
     places/rechtsanwälte-rosbach-fremy.md
     places/wf-frank-partner-rechtsanwälte.md

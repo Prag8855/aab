@@ -4,7 +4,9 @@ German_term: Beitragsbemessungsgrenze
 English_term: Contribution assessment ceiling
 Description: 
 Date_created: 2022-02-14
-Related_guides: tools/arbeitslosenversicherung-calculator.md, guides/ksk-kuenstlersozialkasse.md
+Related_guides:
+    tools/arbeitslosenversicherung-calculator.md
+    guides/ksk-kuenstlersozialkasse.md
 ---
 
 In Germany, the contribution assessment ceiling (*Beitragsbemessungsgrenze*) limits how much you pay for social security. It affects your public pension and [unemployment insurance](/glossary/Arbeitslosenversicherung) payments.

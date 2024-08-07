@@ -3,7 +3,9 @@ Title: Types of insurance in Germany
 Short_title: Types of insurance
 Description: An overview of the different types of insurance in Germany. This guide explains each type of insurance and why they are important.
 Date_created: 2018-12-11
-Related_reviews: reviews/insurance/derrick-löhr.md, reviews/insurance/dr-rob-schumacher.md
+Related_reviews:
+    reviews/insurance/derrick-löhr.md
+    reviews/insurance/dr-rob-schumacher.md
 ---
 
 This is an overview of the common types of insurance in Germany, and why they are important.
