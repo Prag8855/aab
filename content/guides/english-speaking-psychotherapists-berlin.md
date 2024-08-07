@@ -46,14 +46,12 @@ Related_places:
     places/psychotherapist-lisa-maria-aldinger.md
     places/praxis-berenike-l-franzen.md
     places/dr-phil-ralph-piotrowski.md
-    places/susanne-baberg-dipl-psych-m-sc.md
     places/praxis-für-psychotherapie-hypnotherapie-klangtherapie.md
     places/archana-golla.md
     places/dr-med-lazaros-giousmpasis.md
     places/psychologie-halensee.md
     places/dott-gaia-porcelli.md
     places/dipl-psych-christiane-köhler.md
-    places/yara-thomale-ma-hpg.md
     places/aloka-levitin.md
     places/dr-joseph-hamer.md
     places/ben-lemme.md
