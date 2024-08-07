@@ -191,6 +191,7 @@ config.linters = (
     'ursus.linters.images.UnusedImagesLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
+    'ursus.linters.markdown.RelatedEntriesLinter',
 )
 
 config.minify_js = True

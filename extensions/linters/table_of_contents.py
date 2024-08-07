@@ -19,4 +19,4 @@ class TableOfContentsLinter(Linter):
                 if '_blocks/tableOfContents.html' in line:
                     return
 
-        yield (1, 0, 5), "No table of contents", logging.WARNING
+        yield (0, 0, 3), "No table of contents", logging.WARNING
