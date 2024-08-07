@@ -53,7 +53,7 @@ Bottle crates also have a deposit. It's usually 1,50€. You can return bottle c
 
 ### Pfand symbols
 
-If you see one of these symbols on a container, it has a deposit.[^3]
+If you see one of these symbols on a container, it has a deposit.
 
 ![Pfand logos germany](/images/pfand-logos-germany.png "Bottles with these logos have a deposit.")
 
@@ -103,7 +103,6 @@ In Berlin, some people collect empty bottles to earn money. Leave your bottle ne
 [^0]: [mehrweg.org](https://www.mehrweg.org/einkaufen/pfand/)
 [^1]: [dpg-pfandsystem.de](https://dpg-pfandsystem.de/index.php/de/das-einwegpfandsystem/wissenswertes/105-mitteilungen/265-der-pfand-machts.html)
 [^2]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/kennzeichnung-von-mehr-und-einwegflaschen-regierung-will-pfandsystem-entwirren-1.1592681)
-[^3]: [bluhmsysteme.com](https://www.bluhmsysteme.com/blog/kennzeichnung-von-pfandflaschen-verwirrend/)
 [^4]: [merkur.de](https://www.merkur.de/verbraucher/unfaire-regelung-darum-muessen-aldi-und-lidl-keine-mehrweg-pfandflaschen-annehmen-zr-12817386.html)
 [^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/gyyehp/where_to_return_nonstandard_pfand_bottles/ftd42am/), [mehrweg.org](https://www.mehrweg.org/einkaufen/maerkte/), [Focus.de](https://www.focus.de/finanzen/news/unternehmen/lidl-darum-muss-der-discounter-keine-glas-und-mehrwegflaschen-annehmen_id_10898048.html#:~:text=glasflaschen%20oder%20mehrwegflaschen%20werden%20vom%20automaten%20nicht%20akzeptiert)
 [^6]: [lachers-getraenkewelt.de](https://www.lachers-getraenkewelt.de/pfandkunde.html)
