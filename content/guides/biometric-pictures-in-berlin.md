@@ -35,7 +35,7 @@ Get your passport photos in advance, not just before your appointment. If there 
 
 Other countries use different passport picture sizes. For example, India uses square pictures.
 
-**[Passport photo requirements by country](https://www.persofoto.com/passport-photo-size)** - persofoto.com
+**[Passport photo requirements by country ➞](https://passport-photo.online/blog/passport-photo-size/)**
 
 Photography studios can take pictures and cut them to the correct size. It costs 5€ to 15€.
 
