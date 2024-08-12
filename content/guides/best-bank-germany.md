@@ -165,6 +165,19 @@ These banks don't ask for a registration certificate:
 - [Vivid](/out/vivid)
 - [Wise](/out/wise-account)
 
+## Banks with physical branches
+
+Some banks have no physical branches. You do everything online or in their app.
+
+Other banks still have physical branches. You can go there in person. In my opinion, you don't need this. Going in person is not better or faster.
+
+These banks have branches in Berlin:
+
+- [Commerzbank](/out/commerzbank)
+- [Deutsche Bank](/out/deutsche-bank)
+- [Postbank](https://www.postbank.de/)
+- [Sparkasse](/out/sparkasse)
+
 ## Banks in other EU countries
 
 You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to 100,000€.[^8]
