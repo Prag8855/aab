@@ -117,6 +117,12 @@ Landlords often use fake *Eigenbedarf* to kick tenants out. Instead of moving in
 
 If this happens to you, [get legal help](/guides/questions-about-berlin#apartment-questions).[^47] You can usually stop it, delay it, or get paid to move out.
 
+### Separate rent for the cellar
+
+Most apartments come with storage in the basement (*Kellerraum*).
+
+In this scam, the landlord makes two rent contracts: one for the apartment, and one for the basement storage. You apartment rent is below the [legal limit](/glossary/Mietpreisbremse), but your total rent is higher. This is usually illegal.[^11]
+
 ### Landlord does not return the deposit
 
 After you [move out](/guides/moving-out), the landlord must return your [deposit](/glossary/Kaution). It can take up to 6 months.
@@ -238,6 +244,7 @@ You can also [report scams to the police](https://www.bka.de/DE/KontaktAufnehmen
 [^8]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
 [^9]: [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments), [reddit.com/r/germany](https://www.reddit.com/r/germany/wiki/living/problems/#wiki_scams_when_looking_for_apartments)
 [^10]: [reddit.com/r/germany](https://www.reddit.com/r/germany/comments/7z69bx/comment/dulpxmj/?context=3)
+[^11]: [dk-ra.de](https://www.dk-ra.de/kann-man-separate-kellermiete-vereinbaren/) (November 2021)
 [^12]: [mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/mietrecht-a-b-c/abstandszahlungen.html), [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm), [Finanztip](https://www.finanztip.de/maklerprovision-vermietung/#:~:text=die%20gesamte%20Wohnungsvermittlung.-,hohe%20abstandszahlungen,--%C2%A0Der%20eine%20oder), [HousingAnywhere](https://housinganywhere.com/de/Deutschland/abloesevereinbarung#:~:text=nicht%20mehr%20als%2050%20prozent) (2024), [Haus.de](https://www.haus.de/geld-recht/abloesevereinbarung-36182#:~:text=nicht%20mehr%20als%20das%20eineinhalbfache%20des%20zeitwerts) (2023)
 [^13]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (March 2024), [nomadandinlove.com](https://nomadandinlove.com/berlin-apartment-scams/#Tip_2_Rental_Costs_Are_Too_Round)
 [^14]: [promietrecht.de](https://www.promietrecht.de/Wohnungsvermittler/Zu-viel-Abstand-Abloese-fuer-Wohnung-an-Vormieter-Vermieter-bezahlt-E2181.htm)
