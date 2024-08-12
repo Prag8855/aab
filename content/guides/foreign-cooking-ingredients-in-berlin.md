@@ -13,6 +13,8 @@ Related_places:
     places/mehlstübchen.md
     places/kasatschok.md
     places/americanfood4u.md
+    places/pyza.md
+    places/u-zosi-polnische-lebensmittel.md
 ---
 
 This is a list of foreign cooking ingredients, and where to find them in Berlin. If something is missing, [let me know](/contact).
@@ -149,9 +151,9 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 ### International
 
-- [Galeria Kaufhof](https://www.galeria-kaufhof.de/): Large selection of international products
-- [KaDeWe](https://www.kadewe.de/): Large selection of international products
-- [Mehlstübchen](https://www.mehlstuebchen.de/): Flours from all over the world
+- [Galeria Kaufhof](https://www.galeria-kaufhof.de/) - Large selection of international products
+- [KaDeWe](https://www.kadewe.de/) - Large selection of international products
+- [Mehlstübchen](https://www.mehlstuebchen.de/) - Flours from all over the world
 
 ### Australia
 
@@ -159,8 +161,8 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 ### Eastern Europe
 
-- [Kasatschok](https://www.yelp.de/biz/kasatschok-russische-lebensmittel-berlin): Russian supermarket
-- [LEDO](https://www.ledo-supermarkt.de/): Russian supermarket
+- [Kasatschok](https://www.yelp.de/biz/kasatschok-russische-lebensmittel-berlin) - Russian supermarket
+- [LEDO](https://www.ledo-supermarkt.de/) - Russian supermarket
 
 ### Greece
 
@@ -172,12 +174,17 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 ### Latin America
 
-- [Aqui España](http://aqui-espana.de/): Carries some Latin American products
-- [Chili & Paprika](http://www.chiliundpaprika.de/): Food from Mexico, Brasil, Colombia, Argentina, Peru
+- [Aqui España](http://aqui-espana.de/) - They have some Latin American products
+- [Chili & Paprika](http://www.chiliundpaprika.de/) - Food from Mexico, Brasil, Colombia, Argentina, Peru
+
+### Poland
+
+- [Pyza](https://maps.app.goo.gl/bJ1qDXTSW3FQDMdC8)
+- [u Zosi](https://maps.app.goo.gl/3xTrJzCeVgSRhFit8)
 
 ### Spain
 
-- [Aqui España](http://aqui-espana.de/): Spanish products
+- [Aqui España](http://aqui-espana.de/)
 
 ### United Kingdom
 

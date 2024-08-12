@@ -79,6 +79,12 @@ You can take time off to improve your education. During that time, you still get
 
 **[Educational leave in Germany ➞](/guides/bildungsurlaub)**
 
+## Brückentage
+
+You can combine [public holidays](/guides/public-holidays) and vacation days to get more time off. For example, if Thursday is a public holiday, you can take Friday off and get a 4-day weekend. Friday is a bridge day (*Brückentag*) This is very common in Germany.
+
+There are many public holidays in May and December. This is a good time to use Brückentage and get a longer vacation.[^13]
+
 ## If you change jobs
 
 If you [quit or lose your job](/guides/losing-your-job), you don't lose your unused vacation days (*Resturlaub*).
@@ -116,3 +122,4 @@ Get an *[[Urlaubsbescheinigung]]* from your employer. If you [find a new job](/g
 [^10]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
 [^11]: [§7 Abs. 4 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
 [^12]: [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=wie%20berechnet%20sich%20urlaubsanspruch%20nach%20der%20kundigung%3F), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#Was_geschieht_mit_dem_Resturlaub_nach_einer_Kuendigung)
+[^13]: [urlaubspiraten.de](https://www.urlaubspiraten.de/reisethemen/reisekalender/brueckentage)
