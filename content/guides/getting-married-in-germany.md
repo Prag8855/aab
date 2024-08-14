@@ -37,7 +37,7 @@ For each person, you need...
 - [ ] **Registration certificate** (*[[Anmeldebestätigung]]*)  
     You might need a [recent copy](/guides/replacement-meldebescheinigung) of it (*[[Meldebescheinigung]]*) that is less than 3 weeks old.
 - [ ] **Income certificate** (*Einkommensbescheinigung*)  
-    If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](http://www.dautphetal.de/media/custom/2224_71_1.PDF?1366885698) (here's [a copy](/images/2224_71_1.pdf)) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
+    If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](/images/2224_71_1.pdf) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
 - [ ] **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*)  
     You can usually get it from your embassy. To get this document, you might need to send more documents. It can take a few weeks. Some countries don't to give a valid *Ehefähigkeitszeugnis*. Your certificate might need to be approved by a *Kammergericht* for around 75€.
 - [ ] **Divorce certificate**  

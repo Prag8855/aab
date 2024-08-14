@@ -131,7 +131,7 @@ If you want the flexibility of a freelancer and the stability of a job, it's a g
 
 [^0]: [Finanztip](https://www.finanztip.de/steuerberatungskosten/)
 [^1]: [Suat Göydeniz](https://stb-goeydeniz.de/) (2022)
-[^2]: [bubolz-bartsch.de](https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/), [reddit.com](https://www.reddit.com/r/FragReddit/comments/upzib1/lohnt_sich_ein_lohnsteuerhilfeverein_oder_reicht/)
-[^3]: [bubolz-bartsch.de](https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/#:~:text=wen%20darf%20der%20lohnsteuerhilfeverein%20nicht%20beraten%3F)
-[^4]: [bubolz-bartsch.de](https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/#:~:text=kosten%20bei%20einem%20steuerverein)
+[^2]: [bubolz-bartsch.de](https://web.archive.org/web/20240804204416/https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/) (August 2019), [reddit.com](https://www.reddit.com/r/FragReddit/comments/upzib1/lohnt_sich_ein_lohnsteuerhilfeverein_oder_reicht/)
+[^3]: [bubolz-bartsch.de](https://web.archive.org/web/20240804204416/https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/#:~:text=wen%20darf%20der%20lohnsteuerhilfeverein%20nicht%20beraten%3F) (August 2019)
+[^4]: [bubolz-bartsch.de](https://web.archive.org/web/20240804204416/https://bubolz-bartsch.de/lohnsteuerhilfeverein-oder-steuerberater-was-lohnt-sich-mehr/#:~:text=kosten%20bei%20einem%20steuerverein) (August 2019)
 [^5]: [reddit.com/r/finanzen](https://old.reddit.com/r/Finanzen/comments/scgrpu/steuerberater_als_freelancer/hu64wbv/)

@@ -91,7 +91,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 - **[Berlin Startup Jobs](https://berlinstartupjobs.com/)** - English-speaking jobs in startups and tech companies
 - [Startup Sucht](https://startupsucht.com/) (in German)
 - [tbd\* job board](https://www.tbd.community/de/jobs) (in German) - tbd\* is a website for entrepreneurs. You can filter by language.
-- [Angel.co](https://angel.co/) - International startup job portal
+- [Wellfound](https://wellfound.com/) - International startup job portal
 - [Germany Startup Jobs](https://germanystartupjobs.com/) - You can filter jobs by language and salary
 - [Berlin Startup Jobs](https://www.facebook.com/groups/BerlinStartupJobs/?ref=group_header) - Facebook group, 56,000+ members
 - [Berlin Startup Jobs, Internships & Co-founders](https://www.facebook.com/groups/StartupJobsBerlin/?ref=group_header) - Facebook group, 14,000+ members
@@ -114,7 +114,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 
 ### Restaurant jobs
 
-- [Berlin Food Stories](https://berlinfoodstories.com/berlinrestaurantjobs/) - Restaurant jobs in Berlin
+- [Berlin Food Stories](https://berlinfoodstories.com/jobs) - Restaurant jobs in Berlin
 - [Huntler](http://www.huntler.de/) - English-speaking restaurant jobs in Berlin
 
 ## Step 2: Apply for jobs

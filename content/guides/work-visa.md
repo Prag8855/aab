@@ -443,7 +443,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
-[^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25), [German embassy in Belgrade](https://belgrad.diplo.de/rs-de/service/05-VisaEinreise/-/2310108)
+[^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25)
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)

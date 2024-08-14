@@ -280,7 +280,7 @@ If you move for work, your relocation costs are [tax-deductible](/glossary/steue
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
-[^28]: [taxback.com](https://www.taxback.com/en/germany/pension-return/), [toytowngermany.com](https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
+[^28]: [taxback.com](https://www.taxback.com/en/germany/pension-return/), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^29]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289)
 [^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4p3wz6/whats_the_process_for_getting_someone_to_take/d4htm8i/)
