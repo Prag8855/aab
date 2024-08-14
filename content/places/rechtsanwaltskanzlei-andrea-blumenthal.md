@@ -1,7 +1,7 @@
 ---
 Name: Andrea Blumenthal
 Description: English, French, Spanish and German-speaking lawyer
-Website: http://ra-blumenthal.de/en-start.html
+Website: http://www.ra-blumenthal.de/en-start.html
 Email: 
 Address: Kreuznacher Str. 16
 Latitude: 52.46729

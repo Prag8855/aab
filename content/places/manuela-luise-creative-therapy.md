@@ -2,9 +2,10 @@
 Name: Manuela Luise, Creative Therapy
 Description: Alternative practitioner for psychotherapy. Speaks English, Spanish and Italian.
 Accepts_public_insurance: No
-Website: https://manuelaluise.com/portfolio/category/en/
+Website: http://www.manuelaluise.com/
 Email: info@manuelaluise.com
-Address: Heidelberger Str. 16
-Latitude: 52.488709
-Longitude: 13.447119
+Address: Ebelingstraße 14a
+Latitude: 52.523821
+Longitude: 13.450998
+Google_Place_ID: ChIJrQdC6pPaGEwRjnpbqf0tGrw
 ---

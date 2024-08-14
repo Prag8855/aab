@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from markdown.extensions.meta import BEGIN_RE, META_RE, META_MORE_RE, END_RE
 from pathlib import Path
+from urllib.parse import urlparse
 from ursus.config import config
 from ursus.linters import Linter
 from ursus.utils import get_files_in_path
@@ -35,11 +36,11 @@ class PlacesLinter(Linter):
 
             try:
                 google_place = self.google_maps.place(place['Google_Place_ID'], language="en")['result']
-            except googlemaps.exceptions.ApiError:
-                yield (0, 0, 3), "Place error", logging.ERROR
+            except googlemaps.exceptions.ApiError as e:
+                yield (0, 0, 3), "Place error" + str(e), logging.ERROR
                 return
 
-            if google_place.get('website') and place.get('Website') != google_place.get('website'):
+            if google_place.get('website') and urlparse(place.get('Website')).netloc != urlparse(google_place.get('website')).netloc:
                 yield (
                     field_positions.get('Website'),
                     f"Website does not match with Google: {place.get('Website')} -> {google_place.get('website')}",

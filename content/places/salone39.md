@@ -1,7 +1,7 @@
 ---
 Name: Salone39
 Description: They speak English and Italian
-Website: https://www.facebook.com/salone39berlino/
+Website: https://www.salone39.com
 Email: 
 Address: Silvio-Meier-Straße 2
 Latitude: 52.515407

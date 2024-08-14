@@ -5,6 +5,7 @@ Accepts_public_insurance: No
 Website: https://www.arzt-auskunft.de/arzt/psychologische-psychotherapeutin/berlin/archana-golla-6744401
 Email: archana_golla@hotmail.com
 Address: Calvinstraße 23
-Latitude: 52.521873
-Longitude: 13.351813
+Latitude: 52.521861
+Longitude: 13.351843
+Google_Place_ID: ChIJI64Ds6ZRqEcR1OAYEoCtyVQ
 ---

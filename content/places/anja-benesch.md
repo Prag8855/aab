@@ -1,7 +1,7 @@
 ---
 Name: Anja Benesch
 Accepts_public_insurance: No
-Website: http://anjabenesch.com/de/english/
+Website: http://anjabenesch.com/
 Email: 
 Address: Florastraße 79A
 Latitude: 52.565761

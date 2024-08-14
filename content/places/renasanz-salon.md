@@ -1,7 +1,7 @@
 ---
 Name: Renasanz Salon
 Description: Owned by a Chilean woman. Service in Spanish and English.
-Website: https://renasanzsalon.com/
+Website: https://www.renasanzsalon.com/
 Email: santiagolobov@gmail.com
 Address: Grünberger Str. 24
 Latitude: 52.512618

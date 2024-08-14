@@ -1,7 +1,7 @@
 ---
 Name: Fahrschule Aktiv
 Description: English, German and Turkish
-Website: https://www.fahrschuleaktiv.de/
+Website: http://www.fahrschuleaktiv.de/
 Email: 
 Address: Reinickendorfer Str. 54
 Latitude: 52.551589

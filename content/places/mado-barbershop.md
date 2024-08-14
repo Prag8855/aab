@@ -1,7 +1,7 @@
 ---
 Name: Mado barber shop
 Description: Abbas speaks English
-Website: https://7map.top/mado-barber-shop
+Website: http://mado-barbershop.com
 Email: 
 Address: Schönhauser Allee 49
 Latitude: 52.542359

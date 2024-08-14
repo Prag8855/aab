@@ -2,8 +2,8 @@
 Name: Guhr Steuerberatung Berlin
 Website: https://guhr-steuerberatung.de/en/
 Email: info@guhr-steuerberatung.de
-Address: Auerstraße 14
-Latitude: 52.519041
-Longitude: 13.444257
+Address: Weidenweg 19
+Latitude: 52.517896
+Longitude: 13.445956
 Google_Place_ID: ChIJ72W4I7FPqEcRML-NbBJWI18
 ---

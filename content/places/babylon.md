@@ -1,7 +1,7 @@
 ---
 Name: BABYLON
 Description: Independent cinema. Hosts free silent film nights on occasion.
-Website: https://babylonberlin.eu/english-for-you/english-ov
+Website: http://babylonberlin.eu/
 Email: 
 Address: Rosa-Luxemburg-Straße 30
 Latitude: 52.525938

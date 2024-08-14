@@ -1,7 +1,7 @@
 ---
 Name: Koudous International Law Office
 Description: 
-Website: http://www.koudous-law.de/
+Website: http://koudous-law.de/
 Email: info@koudous-law.de
 Address: Kurfürstendamm 67
 Latitude: 52.500566

@@ -15,7 +15,6 @@ Related_places:
     places/frau-dipl-psych-heidi-hooper-amri.md
     places/dr-pheasant.md
     places/auf-dem-helmholtzplatz.md
-    places/bismarckstraße-82.md
     places/dr-christian-dombrowe.md
     places/frau-dipl-psych-nadja-ursula-gogolin.md
     places/blanka-leeker-ma.md
@@ -42,7 +41,6 @@ Related_places:
     places/dipl-psych-wiebke-hannig.md
     places/dr-valentin-zahrnt.md
     places/dipl-psych-özgür-cengiz.md
-    places/ana-morin.md
     places/psychotherapist-lisa-maria-aldinger.md
     places/praxis-berenike-l-franzen.md
     places/dr-phil-ralph-piotrowski.md

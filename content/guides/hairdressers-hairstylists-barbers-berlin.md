@@ -13,12 +13,10 @@ Related_places:
     places/maoc-modern-art-of-cutting-hair.md
     places/nomad-barber-berlin.md
     places/latelier-friseur-berlin.md
-    places/swinging-scissors.md
     places/viktor-leske-kreuzberg.md
     places/haarspree-frisöre.md
     places/neoberlin-gmbh.md
     places/viktor-leske-mitte.md
-    places/ingrid-stern-design.md
     places/die-pauls-sisters-gmbh.md
     places/the-bananad-bouffant.md
     places/friseur-viktor-leske-mitte.md

@@ -34,7 +34,6 @@ Related_places:
     places/rechtsanwalt-philipp-schläger.md
     places/christoph-tometten-ll-m.md
     places/fürstenow-law-office.md
-    places/rbb-partner.md
     places/anwaltskanzlei-johann-trülzsch.md
     places/dr-jonathan-burmeister-defense-lawyer-attorney.md
     places/blüming-partner-mbb-steuerberater-rechtsanwälte.md
@@ -53,7 +52,6 @@ Related_places:
     places/goddeke-aakb.md
     places/hogertz.md
     places/koudous-international.md
-    places/rechtsanwalt-raphael-kneer.md
 ---
 
 This list of English, French and Spanish-speaking attorneys will help you with any legal issues you might encounter while living in Berlin. If you are looking for an immigration lawyer, there are some in the list below.

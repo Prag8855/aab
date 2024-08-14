@@ -6,6 +6,6 @@ Website: http://thelivingbody.de/
 Email: julianne.ao@web.de
 Address: Fröaufstraße 6
 Latitude: 52.466646
-Longitude: 13.325498
+Longitude: 13.325499
 Google_Place_ID: ChIJG6gGSn9QqEcRBVIZIsfphYo
 ---

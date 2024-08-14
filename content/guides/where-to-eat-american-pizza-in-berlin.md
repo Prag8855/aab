@@ -8,7 +8,6 @@ Related_places:
     places/villa-di-wow.md
     places/liberty-pizza.md
     places/manhattan-pizza.md
-    places/american-pan-pizza.md
 ---
 
 Once in a while, the thin Italian slices are not good enough, and you want a thick, nasty slice of American pizza. Few make New York or Chicago-style pizza in Berlin, but they exist!

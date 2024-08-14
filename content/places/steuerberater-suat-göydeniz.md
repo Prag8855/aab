@@ -1,7 +1,7 @@
 ---
 Name: Steuerberater Suat Göydeniz
 Description: Suat is my tax advisor since 2018.
-Website: https://stb-goeydeniz.de/english-tax-advisor-berlin/
+Website: https://www.stb-goeydeniz.de/english-tax-advisor-berlin/
 Email: 
 Address: Kottbusser Damm 68
 Latitude: 52.489191

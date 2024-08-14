@@ -1,7 +1,7 @@
 ---
 Name: Marylise Dumont
 Description: Alternative practitioner for psychotherapy. Couples therapist. Speaks English, French and German.
-Website: https://en.international-coupletherapy-berlin.com/
+Website: https://www.international-coupletherapy-berlin.com/
 Email: marylise@international-coupletherapy-berlin.com
 Address: Tempelhofer Ufer 16A
 Latitude: 52.49836

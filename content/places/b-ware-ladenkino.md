@@ -1,7 +1,7 @@
 ---
 Name: b-ware Ladenkino
 Description: 
-Website: https://ladenkino.de/programm/kino-fuer-nicht-deutschsprachige/
+Website: http://www.ladenkino.de/
 Email: 
 Address: Gärtnerstraße 19
 Latitude: 52.511858

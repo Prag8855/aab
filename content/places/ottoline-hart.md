@@ -4,7 +4,8 @@ Description: UK-licenced therapist. Humanistic therapy - cognitive, anxiety, dep
 Accepts_public_insurance: No
 Website: https://www.ottolinehart.com/
 Email: ottoline.hart@gmail.com
-Address: Braunschweiger Str. 40
-Latitude: 52.471533
-Longitude: 13.448647
+Address: Okerstraße 38
+Latitude: 52.473777
+Longitude: 13.424308
+Google_Place_ID: ChIJLxLNZZZPqEcR55SQh22HQA0
 ---

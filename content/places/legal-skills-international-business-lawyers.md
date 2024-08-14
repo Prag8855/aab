@@ -1,7 +1,7 @@
 ---
 Name: Legal Skills International Business Lawyers
 Description: Dr. Martin Duerr speaks English
-Website: http://www.legalskills.info/
+Website: http://legalskills.berlin/
 Email: 
 Address: Karl-Marx-Allee 90A
 Latitude: 52.516371

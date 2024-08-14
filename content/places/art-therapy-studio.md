@@ -5,6 +5,7 @@ Accepts_public_insurance: No
 Website: https://www.praxis-guerteltier.de/en
 Email: info@praxis-guerteltier.de
 Address: Gürtelstraße 12
-Latitude: 52.545105
-Longitude: 13.453008
+Latitude: 52.545106
+Longitude: 13.453012
+Google_Place_ID: ChIJC0Fprt1NqEcRBF3syO4qbu4
 ---

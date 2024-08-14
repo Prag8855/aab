@@ -1,7 +1,7 @@
 ---
 Name: Rechtsanwalt Johann Trülzsch
 Description: English, French, German, Russian and Italian-speaking lawyers
-Website: https://www.ra-truelzsch.de/german-lawyer-berlin/
+Website: http://ra-truelzsch.de
 Email: anwalt@ra-truelzsch.de
 Address: Schloßstraße 120
 Latitude: 52.462834
