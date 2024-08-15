@@ -8,6 +8,11 @@ services:
     volumes:
       - "api_db:/var/db"
     restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
   appointments:
     build: https://github.com/all-about-berlin/burgeramt-appointments.git#main
     environment:
@@ -16,6 +21,11 @@ services:
       - "BOOKING_TOOL_EMAIL"
       - "BOOKING_TOOL_URL=https://service.berlin.de/dienstleistung/120686/"
     restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "3"
   proxy:
     build:
       context: ./proxy
@@ -34,6 +44,11 @@ services:
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
     restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 volumes:
   acme_sh:
   api_db:
