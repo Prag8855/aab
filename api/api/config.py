@@ -12,10 +12,6 @@ logging_config = {
 }
 
 message_types = {
-    'reminders/pension': {
-        'title': 'Reminder: you can now get a refund for your German pension payments',
-        'template_path': 'messages/pension-reminder.html'
-    },
     'forms/pension-refund-question': {
         'title': 'Pension refund question from {name} (All About Berlin)',
         'template_path': 'messages/pension-refund-question.html',
@@ -49,6 +45,11 @@ message_types = {
     'reminders/health-insurance-question-reminder': {
         'title': 'Feather will contact you soon',
         'template_path': 'messages/health-insurance-question-reminder.html',
+        'reply_to_sender': False,
+    },
+    'reminders/pension': {
+        'title': 'Reminder: you can now get a refund for your German pension payments',
+        'template_path': 'messages/pension-reminder.html',
         'reply_to_sender': False,
     },
 }

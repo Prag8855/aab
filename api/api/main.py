@@ -1,4 +1,5 @@
 from datetime import datetime
+from email_validator import validate_email, EmailNotValidError
 from flask import Flask
 from flask import json
 from flask import request
@@ -10,7 +11,6 @@ from werkzeug.exceptions import HTTPException, BadRequest, NotFound
 import config
 import logging
 import os
-import sqlite3
 import requests
 
 logging.basicConfig(**config.logging_config)
@@ -33,7 +33,8 @@ def handle_http_exception(e):
     response.content_type = 'application/json'
 
     if e.code != 404:
-        logger.error(response.data)
+        level = logging.INFO if 400 <= e.code < 500 else logging.ERROR
+        logger.log(level, f"{e.code}: {e.description}")
     return response
 
 
@@ -77,6 +78,15 @@ class ScheduledMessage(db.Model):
     is_sent = db.Column(db.Boolean, default=False)
 
 
+def email_is_valid(email: str) -> bool:
+    try:
+        validate_email(email, check_deliverability=True)
+    except EmailNotValidError:
+        return False
+    else:
+        return True
+
+
 def schedule_message(message_type: str, recipients: List[str], delivery_date: datetime, template_values: dict):
     logger.info('Scheduling 1 message of type %s' % message_type)
     scheduled_message = ScheduledMessage(
@@ -91,14 +101,7 @@ def schedule_message(message_type: str, recipients: List[str], delivery_date: da
 
 def send_message(message_type: str, recipients: List[str], template_values: dict):
     message_path = os.path.join(config.base_path, config.message_types[message_type]['template_path'])
-
-    if not recipients:
-        logger.error(f"Ignored message with no recipients: {template_values}")
-        return
-
-    with open(message_path, 'r') as message_file:
-        message_body = message_file.read()
-
+    message_body = message_path.read_text()
     message_data = {
         "from": "All About Berlin <contact@allaboutberlin.com>",
         "to": recipients,
@@ -106,7 +109,7 @@ def send_message(message_type: str, recipients: List[str], template_values: dict
         "html": message_body.format(**template_values),
     }
 
-    if config.message_types[message_type].get('reply_to_sender') and template_values.get('email'):
+    if config.message_types[message_type]['reply_to_sender'] and template_values.get('email'):
         message_data['h:Reply-To'] = template_values['email']
 
     response = requests.post(
@@ -116,26 +119,26 @@ def send_message(message_type: str, recipients: List[str], template_values: dict
     )
 
     if response.status_code != 200:
-        raise Exception("Mailgun request returned status %s and message %s" % (response.status_code, response.json()))
+        raise Exception("Mailgun request returned status %s. %s" % (response.status_code, response.json()))
 
 
 def send_queued_messages():
     messages = ScheduledMessage.query.filter(
         ScheduledMessage.is_sent == False, # noqa
         ScheduledMessage.delivery_date <= datetime.now()
-    )
+    ).all()
     logger.info('Sending scheduled messages')
     successes = 0
     failures = 0
     for message in messages:
         try:
-            full_template_values = json.loads(message.template_values)
-            full_template_values.update({
+            all_template_values = json.loads(message.template_values)
+            all_template_values.update({
                 'recipients': ", ".join(message.recipients),
                 'creationDate': message.creation_date,
                 'deliveryDate': message.delivery_date,
             })
-            send_message(message.message_type, message.recipients, full_template_values)
+            send_message(message.message_type, message.recipients, all_template_values)
             message.is_sent = True
             db.session.add(message)
             successes += 1
@@ -151,47 +154,30 @@ def send_queued_messages():
     db.session.commit()
 
 
-def remove_old_personal_data():
-    connection = sqlite3.connect(
-        "/var/db/api.db",
-        detect_types=sqlite3.PARSE_DECLTYPES | sqlite3.PARSE_COLNAMES
-    )
-    cursor = connection.cursor()
-    cursor.execute('''
-        UPDATE scheduled_message
-        SET
-            template_values = NULL,
-            recipients = substr(recipients,1, 4) || '...@...'
-        WHERE creation_date < datetime('now', '-90 days')
-        AND is_sent = 1
-    ''')
-    connection.commit()
-    logger.info('Removed old personal data')
-
-
 @app.route("/reminders/<reminder_type>", methods=['POST'])
-def set_reminder(reminder_type):
+def set_reminder(reminder_type: str):
     message_type = f'reminders/{reminder_type}'
     if message_type not in config.message_types:
         raise NotFound('Reminder type does not exist')
 
     form_data = request.get_json()
+    recipient_email = form_data.get('email')
 
-    # Common bot hammering this API
-    if form_data.get('email', '').endswith('@email.tst'):
-        raise BadRequest()
+    if not email_is_valid(recipient_email):
+        raise BadRequest(f"Invalid email: {recipient_email}")
 
-    recipients = [form_data.get('email'), ]
-
-    json_delivery_date = form_data.get('deliveryDate', None)
+    json_delivery_date = form_data.get('deliveryDate')
     if json_delivery_date:
-        delivery_date = datetime.strptime(json_delivery_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        try:
+            delivery_date = datetime.strptime(json_delivery_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        except ValueError:
+            raise BadRequest(f"Invalid deliveryDate: {json_delivery_date}")
     else:
         delivery_date = datetime.now()
 
     schedule_message(
         message_type,
-        recipients,
+        [recipient_email, ],
         delivery_date,
         form_data,
     )
@@ -200,29 +186,28 @@ def set_reminder(reminder_type):
 
 
 @app.route("/forms/<form_type>", methods=['POST'])
-def send_form(form_type):
+def send_form(form_type: str):
     message_type = f'forms/{form_type}'
     if message_type not in config.message_types:
-        raise BadRequest('Form type does not exist')
-
-    message_config = config.message_types[message_type]
+        raise BadRequest(f'Form type does not exist: {form_type}')
 
     form_data = request.get_json()
 
-    # Common bot hammering this API
-    if form_data.get('email', '').endswith('@email.tst'):
-        raise BadRequest()
+    if not email_is_valid(form_data.get('email')):
+        raise BadRequest(f"Invalid email: {form_data.get('email')}")
 
-    recipients = message_config['recipients']
-    json_delivery_date = form_data.get('deliveryDate', None)
+    json_delivery_date = form_data.get('deliveryDate')
     if json_delivery_date:
-        delivery_date = datetime.strptime(json_delivery_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        try:
+            delivery_date = datetime.strptime(json_delivery_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        except ValueError:
+            raise BadRequest(f"Invalid deliveryDate: {json_delivery_date}")
     else:
         delivery_date = datetime.now()
 
     schedule_message(
         message_type,
-        recipients,
+        config.message_types[message_type]['recipients'],
         delivery_date,
         form_data
     )
