@@ -34,7 +34,6 @@ Related_places:
     places/eshk-neukölln.md
     places/wallacewallace.md
     places/maxbarberberlin.md
-    places/zu-den-schnittigen.md
     places/salone39.md
     places/badfish-barbershop.md
     places/fade-club-cutbusser.md
