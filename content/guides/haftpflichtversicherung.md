@@ -88,14 +88,12 @@ Your liability insurance must cover you well. This is the minimum it should cove
 - **Minimum insured sum**  
     These are the minimum sums a good liability insurance should cover.
     - At least 10 million euros[^18] in damages to other people. 50 million euros is better.[^19]
-    - At least 300,000€ in damages to the apartment you rent.[^20]
-    - At least 50,000€ in damages while using a computer.[^20]
+    - At least 300,000€ in damages to the apartment you rent.
+    - At least 50,000€ in damages while using a computer.
 - **Worldwide coverage**  
-    It should cover you anywhere in the world, not just in Germany.[^20]
+    It should cover you anywhere in the world, not just in Germany.
 - **Coverage for rented things** (*geliehene Sachen*)  
     If you rent a furnished apartment, it should cover rented things. This covers you if you break the furniture.
-
-Use [this tool](https://schnellcheck.test.de/haftpflichtversicherung/) to check if your liability insurance covers these things.
 
 I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys#replacing-lost-keys-in-germany) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most insurers cover lost keys, including [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht).
 
@@ -209,9 +207,8 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 [^15]: [reddit.com](https://old.reddit.com/r/germany/comments/s2d2q5/haftpflichtversicherung/)
 [^16]: [gdv.de](https://www.gdv.de/de/themen/news/versicherungsschutz-versicherungsdichte-ueberversicherung-49418)
 [^17]: [cignaglobal.com](https://www.cignaglobal.com/individuals-families/members/resources/insurance-product-information-documents)
-[^18]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891), [schnellcheck.test.de](https://schnellcheck.test.de/haftpflichtversicherung/singleTariff/comfortc5501ystand-01-09-2021-1)
+[^18]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891)
 [^19]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/#:~:text=deckungssummen%20mussen%20hoch%20genug%20sein), [youtube.com](https://www.youtube.com/watch?v=yMBfA2DN470)
-[^20]: [schnellcheck.test.de](https://schnellcheck.test.de/haftpflichtversicherung/singleTariff/comfortc5501ystand-01-09-2021-1)
 [^21]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891#:~:text=meist%20ist%20es%20gunstiger%2C%20den%20versicherungsbeitrag%20einmal%20im%20jahr%20zu%20zahlen)
 [^22]: [huk24.de](https://www.huk24.de/hausratversicherung/ratgeber-wohnen/haftpflicht-und-hausratversicherung-kombi), [allianz.de](https://www.allianz.de/recht-und-eigentum/privatschutz/)
 [^23]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/weitere-versicherungen/private-haftpflichtversicherung-ein-absolutes-muss-fuer-jeden-13891#:~:text=die%20vereinbarung%20einer%20selbstbeteiligung)

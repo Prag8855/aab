@@ -35,7 +35,7 @@ Many clothes donation bins are operated by charities. Look for donation bins wit
 - **[aktion-hoffnung](https://www.aktion-hoffnung.de)**  
     *[Map of collection points](https://altkleiderspenden.de/)*
 - **[Berliner Obdachlosenhilfe](https://www.berliner-obdachlosenhilfe.de/sachspende/)**  
-    *[Lynarstraße 38, Wedding](https://g.page/b-obdachlosenhilfe?share)*  
+    *[Lynarstraße 38, Wedding](https://maps.app.goo.gl/nLbdkDV9Tj1JvcD99)*  
     The clothes will be used to help the homeless in Berlin.
 - **[Berliner Stadtmission](https://www.berliner-stadtmission.de/komm-sieh/clothingdonations)**  
     *[Map of collection points](https://www.berliner-stadtmission.de/komm-sieh/clothingdonations)*  
@@ -46,12 +46,9 @@ Many clothes donation bins are operated by charities. Look for donation bins wit
 - **[German Red Cross](https://www.drk-berlin.de/index.html)*  
     **[Map of donation bins](https://www.drk-berlin.de/angebote/kleidercontainer-suchergebnis.html)*  
     They have donation bins in every neighbourhood.
-- [**Oxfam foundation**](https://www.oxfam.de/)  
+- **[Oxfam foundation](https://www.oxfam.de/)**  
     *[Map of Oxfam shops](https://shops.oxfam.de/shops)*  
     The clothes will be resold. The profits go to the Oxfam foundation.[^3]
-- [**Straßenfenger**](https://strassenfeger.org/)  
-    *[Storkower Str. 139d, Prenzlauer Berg](https://goo.gl/maps/2izztwVEUQ53dBaK9)*  
-    The clothes are for the homeless in Berlin.
 
 Berliner Stadtreinigung also has a [list of collection points for clothes](https://www.bsr.de/spenden-statt-wegwerfen-21204.php). All of them are operated by charities. [This map](https://www.remap-berlin.de/karte?c=Kleidung&s=1) also shows collection points.
 

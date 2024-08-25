@@ -35,7 +35,7 @@ American cheese, the square, "radioactive yellow" cheese that's also known as Kr
 
 ### Baking soda
 
-Sodium bicarbonate is called *Natron* in Germany. It's sold in small paper packets and boxes. You can find it in the baking section of all grocery stores. Look for the green [Kaiser Natron boxes](https://www.amazon.de/Kaiser-Natron-Sparpack-10-250/dp/B000T28YGQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1478691802&sr=1-2&keywords=natron&linkCode=sl1&tag=nicolasboulia-21&linkId=fa7d9c532402f7653bf05dbae042d61b) and [packets](https://www.amazon.de/Holste-Kaiser-Natron-50-g/dp/B00HL731VU/). You can find Arm & Hammer baking soda at some Asian grocery stores like [Asia24 near Rathaus Steglitz](https://g.page/asia24-asien-supermarkt?share).
+Sodium bicarbonate is called *Natron* in Germany. It's sold in small paper packets and boxes. You can find it in the baking section of all grocery stores. Look for the green [Kaiser Natron boxes](https://www.amazon.de/Kaiser-Natron-Sparpack-10-250/dp/B000T28YGQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1478691802&sr=1-2&keywords=natron&linkCode=sl1&tag=nicolasboulia-21&linkId=fa7d9c532402f7653bf05dbae042d61b) and [packets](https://www.amazon.de/Holste-Kaiser-Natron-50-g/dp/B00HL731VU/). You can find Arm & Hammer baking soda at some Asian supermarkets.
 
 ### Baking powder
 
@@ -193,7 +193,7 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 ### United States and Canada
 
 - [American Lifestyle](https://www.us-shop-berlin.de/)
-- [AmericanFood4U](https://www.americanfood4u.de/)
+- [AmericanFood4U](https://maps.app.goo.gl/GmfFvak3PAYn1TPg7)
 
 ## Map of international shops
 

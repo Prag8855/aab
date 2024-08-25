@@ -68,7 +68,7 @@ If you *already* have [public health insurance](/glossary/gesetzliche%20Krankenv
 
 ### If you have private health insurance
 
-If you have [private health insurance](/glossary/private%20Krankenversicherung), and you never had [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before, you probably don't have a *Sozialversicherungsnummer* yet.[^7] **You must [ask the Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) to give you one**.[^8]
+If you have [private health insurance](/glossary/private%20Krankenversicherung), and you never had [public health insurance](/glossary/gesetzliche%20Krankenversicherung) before, you probably don't have a *Sozialversicherungsnummer* yet.[^7] **[Ask the Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) to give you one**.[^8]
 
 There are many ways to do this:
 
@@ -121,6 +121,6 @@ If you don't know those numbers, enter your *Versicherungsnummer* and leave thos
 [^5]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/Meldeverfahren_nach_DEUEV/Meldung-nach-DEUV.html)
 [^6]: [helpster.de](https://www.helpster.de/sozialversicherungsausweis-fuer-auslaender-hinweise_204795), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/rentenversicherungsnummer-wo-die-versicherungsnummer-steht-und-was-sie-dazu-wissen-muessen-/24479984.html)
 [^7]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/ber350/tourists_visitors_international_students_people/eptkgav/)
-[^8]: [forum.allianz.de](https://forum.allianz.de/service/private-krankenversicherung--nachweis/frage/wie-bekommt-man-einen-sozialversicherungsausweis), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
+[^8]: [forum.allianz.de](https://web.archive.org/web/20230323205046/https://forum.allianz.de/service/private-krankenversicherung--nachweis/frage/wie-bekommt-man-einen-sozialversicherungsausweis) (2014), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
 [^9]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
 [^10]: [mawista.com](https://www.mawista.com/studieren-deutschland/arbeiten-und-sozialversicherung-in-deutschland/)

@@ -35,7 +35,7 @@ To get from the airport to the city, you can...
 - **Take a taxi**  
     There are taxis outside the BER airport. A ride from the airport to the city centre costs at least 50€.[^3] You can also book a taxi with [Uber](https://www.uber.com/global/en/airports/ber/) or [FreeNow](https://www.free-now.com/de/flughafen). You can pay with cash or a credit card.[^4]
 - **Rent a car**  
-    You can rent a car at the airport. There are kiosks for different car rental companies. You can also rent a [Miles](https://miles-mobility.com/en-de/airport) car.
+    You can rent a car at the airport. There are kiosks for different car rental companies. You can also rent a [Miles](https://miles-mobility.com/en-de/car-sharing/berlin) car.
 
 ### By intercity bus
 
@@ -204,7 +204,7 @@ Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow
 ### Typical Berlin street food
 
 - **[Currywurst](https://en.wikipedia.org/wiki/Currywurst)**  
-    Currywurst is street food. It's a pork sausage with a curry and ketchup sauce. It's usually served with fries (*mit Pommes*) in a cardboard plate. [Curry 36](https://www.google.com/maps/search/Curry+36/@52.540513,13.3772295,13z/) and [Konnopke's Imbiss](https://goo.gl/maps/Kh2gtdq55ccLzDQeA) are two famous options.
+    A pork sausage with a curry and ketchup sauce. It's usually served with fries (*mit Pommes*) in a cardboard plate. [Curry 36](https://www.google.com/maps/search/Curry+36/@52.540513,13.3772295,13z/) and [Konnopke's Imbiss](https://maps.app.goo.gl/my1KakAy5AnCKgJo9) are two famous options.
 - **Döner kebab**  
     The standard street food in Berlin. The best kebab places are a secret, but the [worst kebabs](https://www.reddit.com/r/berlin/comments/77vdgd/where_is_the_worst_kebab_in_berlin/) are usually in train stations and tourist areas.
 - **Gemüse Döner** (or chicken Döner)  
@@ -350,7 +350,7 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 **[Where to find lost things in Berlin ➞](/guides/lost-and-found-berlin)**
 
 [^0]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744)
-[^1]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/blob/231160/e877774faf4de7c2c552bd8d4439362d/gebuehrenmerkblatt-data.pdf)
+[^1]: [§46 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__46.html)
 [^2]: [bvg.de](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/single-tickets/single-ticket)
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)

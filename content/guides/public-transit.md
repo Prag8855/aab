@@ -178,7 +178,7 @@ There are also [scooter rental businesses](https://www.google.com/maps?q=scooter
 
 ### Rent a car
 
-Rent a car for a single ride with [Miles](https://miles-mobility.com/en-de) or [Share Now](https://www.share-now.com/de/en/berlin/). Miles cars are bookable in the [Jelbi](https://www.jelbi.de/en/home/) app.
+Rent a car for a single ride with [Miles](https://miles-mobility.com/en-de/car-sharing/berlin) or [Share Now](https://www.share-now.com/de/en/berlin/). Miles cars are bookable in the [Jelbi](https://www.jelbi.de/en/home/) app.
 
 Rent a car for a few days with [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car.
 

@@ -247,7 +247,7 @@ There are tools that make it easier:
 
 [^0]: [Screenshot](/images/steuerberater-business-bank-account-question.png)
 [^2]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/geschaeftskonto/)
-[^3]: [together.bunq.com](https://together.bunq.com/d/5116-deutsche-pf-ndbarkeit-auf-niederl-ndisches-konto/3)
+[^3]: [together.bunq.com](https://web.archive.org/web/20231129105449/https://together.bunq.com/d/5116-deutsche-pf-ndbarkeit-auf-niederl-ndisches-konto) (2018)
 [^4]: [juraforum.de](https://www.juraforum.de/lexikon/kontosperrung)
 [^9]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)

@@ -128,7 +128,7 @@ Used appliances are much cheaper. Buy them on [Kleinanzeigen](https://www.kleina
 
 **[Where to buy furniture and house supplies ➞](/guides/where-to-buy-what#furniture-and-house-supplies)**
 
-To move heavy furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de). Find more moving services on [Kleinanzeigen](https://www.kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
+To move heavy furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/), or rent a van with [Miles](https://miles-mobility.com/en-de/car-sharing/berlin). Find more moving services on [Kleinanzeigen](https://www.kleinanzeigen.de/s-umzug-transport/berlin/c296l3331).
 
 **[How to move your things ➞](/guides/moving-out#move-your-things)**
 

@@ -107,7 +107,7 @@ After you move out, the landlord has 6 months to find what must be repaired.[^12
 
 ### If your landlord won't return your Kaution
 
-If you don't get your deposit back, send a request by registered mail. Use [this template](https://kanzlei-tholl.de/mietrecht/mietkaution-rueckzahlung-kostenloser-musterbrief).
+If you don't get your deposit back, send a request by registered mail. Use [this template](https://kautionsfrei.de/assets/files/rueckzahlung-der-mietkaution_anschreiben-vorlage.pdf).
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 

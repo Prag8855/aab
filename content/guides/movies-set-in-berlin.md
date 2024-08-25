@@ -31,7 +31,7 @@ Towards the end of the movie, Colonel Hans Landa meets Lt. Aldo Raine at [Clärc
 
 The entire movie is set in East Berlin during and shortly after the fall of the Berlin wall, and prominently features Karl-Marx-Allee and its surroundings. No movie gives you a better glimpse at life behind the wall.
 
-[IMDb](https://www.imdb.com/title/tt0301357/?ref_=fn_al_tt_1) - [Flying Lenin scene on Karl-Marx-Allee](https://www.youtube.com/watch?v=-ho5gGW9eOU)
+[IMDb](https://www.imdb.com/title/tt0301357/?ref_=fn_al_tt_1)
 
 ## The Lives of Others (2006)
 
@@ -55,7 +55,7 @@ This dark comedy about the unexplained return of Hitler in modern days shows var
 
 *Der Untergang* is a grim depiction of the last days of the second world war in Hitler's bunker*.* It features former Berlin buildings such as the [New Reich Chancellery](https://en.wikipedia.org/wiki/Reich_Chancellery#New_Reich_Chancellery), the Führerbunker and the air raid shelters. It's featured in IMDb's [Top 250](https://www.imdb.com/chart/top).
 
-[IMDb](https://www.imdb.com/title/tt0363163/?ref_=nv_sr_1) - [Bunker scene](https://www.youtube.com/watch?v=xoEHFisDV78) - [Air raid schelter scene](https://www.youtube.com/watch?v=LpoXEKJfeCs) - [New Reich's Chancellery scene](https://www.youtube.com/watch?v=rdMTAH40cVg)
+[IMDb](https://www.imdb.com/title/tt0363163/?ref_=nv_sr_1) - [Bunker scene](https://www.youtube.com/watch?v=xoEHFisDV78) - [New Reich's Chancellery scene](https://www.youtube.com/watch?v=rdMTAH40cVg)
 
 ## Valkyrie (2008)
 

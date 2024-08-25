@@ -447,7 +447,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
 [^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)
-[^42]: [BAMF](https://www.bamf.de/SharedDocs/FAQ/DE/ZugangArbeitFluechtlinge/003-kriterien-zustimmung.html?nn=282388#:~:text=%20pruft%20insbesondere%20den%20verdienst), [Auswärtiges Amt](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/01-arbeitsmoeglichkeiten/606314#:~:text=wenn%20sie%20genauso%20viel%20verdienen%20wie%20vergleichbare%20inlandische)
+[^42]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/01-arbeitsmoeglichkeiten/606314#:~:text=wenn%20sie%20genauso%20viel%20verdienen%20wie%20vergleichbare%20inlandische)
 [^43]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=only%20if%20you%20are%20over%2045%20years%20of%20age), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=for%20people%20aged%2045%20or%20over)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=for%20the%20first%20issuance)
 [^45]: Multiple relocation consultants (November 2023)

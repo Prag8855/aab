@@ -177,7 +177,7 @@ Your contract should say who pays for the damages the movers cause.[^39] For exa
 
 ### Rent a moving truck
 
-Moving trucks are much cheaper than moving companies, but you must move the furniture yourself. [Miles](https://miles-mobility.com/berlin/) is a car sharing service that rents vans.
+Moving trucks are much cheaper than moving companies, but you must move the furniture yourself. [Miles](https://miles-mobility.com/en-de/car-sharing/berlin) is a car sharing service that rents vans.
 
 You must park the truck somewhere while you load your things. To reserve a parking spot (*Halteverbot*), you must [get permission from the Bezirksamt](https://service.berlin.de/dienstleistung/325649/).[^26] This takes around 4 weeks.[^27] A service like [halteverbotszonen.com](https://halteverbotszonen.com/) can do it for you.
 

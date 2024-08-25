@@ -52,9 +52,8 @@ Those train station pharmacies and drug stores are open on Sundays:[^2]
 - [Friedrichstraße](https://goo.gl/maps/P897ukgBngY9SSVv8) (Mitte): [Rossmann](https://goo.gl/maps/xCnyvAP5pVpcDwrn8)
 - [Hauptbahnhof](https://goo.gl/maps/GhQgnFVGQ63frsMV9) (Mitte): [Apotheke](https://goo.gl/maps/nG6tY1YrrvQoKj4Q9) and [Rossmann](https://goo.gl/maps/UAP7UrJf5FHencSX8)
 - [Lichtenberg](https://goo.gl/maps/Bs15P78jwAxAmnYM9): [Apotheke](https://goo.gl/maps/PXfsTZQZJBoTBe2g9) and [Rossmann](https://goo.gl/maps/mDcpMo3tcJx3Pp4N7)
-- [Ostbahnhof](https://goo.gl/maps/JevkYf3VbVWUP8wq7) (Friedrichshain): [Apotheke](https://g.page/bahnapo?share) and [Rossmann](https://goo.gl/maps/BdSG1qTnUwzDviyi7)
+- [Ostbahnhof](https://goo.gl/maps/JevkYf3VbVWUP8wq7) (Friedrichshain): [Apotheke](https://maps.app.goo.gl/esKQ2UUTBGVCqra67) and [Rossmann](https://goo.gl/maps/BdSG1qTnUwzDviyi7)
 - [Südkreuz](https://goo.gl/maps/4oQxTmyQGkdMGEYT6) (Schöneberg): [Apotheke](https://goo.gl/maps/pTLvmHzT2qkYVfCt6) and [dm](https://goo.gl/maps/GsFkUL9n5d8pm4ue6)
-- [Zoologischer Garten](https://goo.gl/maps/bAT6otC1fZFvyq5z7) (Charlottenburg): [Apotheke](https://goo.gl/maps/FZvZKC1aGyKwFeKv9)
 
 [Some other pharmacies](https://www.google.com/maps/search/pharmacy/@52.531136,13.3457693,12z/data=!4m6!2m5!5m3!20m2!2e7!3e1!6e2?entry=ttu) also open on Sundays.
 

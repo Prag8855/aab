@@ -15,7 +15,7 @@ If you are locked out of your apartment, you must call a locksmith (*Schlüsseld
 
 When you call a locksmith, ask for the price on the telephone. If possible, ask for a fixed price. Call multiple locksmiths if necessary. There are many dishonest locksmiths who charge special fees.[^0] After they open the door, they charge you hundreds of euros.
 
-I personally recommend [Albert Schlüsseldienst](https://g.page/schluesseldienstberlinalbert?share). I have used them 3 times already. They charge 50€ to 90€ to open a door.[^4] [AS Schlüsseldienst](https://g.page/AS_Schluesseldienst?share) is often recommended too, but they charge more.
+I used [Albert Schlüsseldienst](https://maps.app.goo.gl/cg9FMAuMY3rCwpj88) 3 times in the past. They charged 50€ to 90€ to open a door.[^4] [AS Schlüsseldienst](https://maps.app.goo.gl/ycoJ8YEV9bhtmQo37) is often recommended too, but they charge more.
 
 After the locksmith opens your door, you must prove that you live there. You can show your passport or your *[[Meldebescheinigung]]*. Ask for a receipt and keep it. Your household insurance (*[[Hausratversicherung]]*) might cover the cost of calling a locksmith. For example, [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^1] and they speak English. Liability insurance (*[[Haftpflichtversicherung]]*) does not cover this.
 

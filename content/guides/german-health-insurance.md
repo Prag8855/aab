@@ -279,7 +279,7 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 **[What is the European Health Insurance Card?](https://ec.europa.eu/social/main.jsp?catId=559&langId=en)** - europa.eu
 
-**[Information for EU students](https://faq.feather-insurance.com/en/articles/3365282-i-m-a-university-student-from-the-eu-how-do-i-get-covered?utm_source=allaboutberlin)** - Feather Insurance
+**[Information for EU students](https://faq.feather-insurance.com/en/articles/28737-i-m-a-university-student-from-europe-how-do-i-get-covered)** - Feather Insurance
 
 ### The Künstlersozialkasse (KSK)
 
@@ -337,7 +337,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^21]: [Finanztip](https://www.finanztip.de/pkv/pkv-rueckkehr-gkv/#c13914)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
-[^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/3245370-i-have-a-mini-job-how-do-i-get-insured)
+[^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
 [^27]: [abc-der-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/geringfuegig-beschaeftigte-minijob/)
 [^28]: [krankenkassenzentrale.de](http://web.archive.org/web/20220928194950/https://www.krankenkassenzentrale.de/wiki/krankenkasse-studenten)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)

@@ -53,11 +53,11 @@ If you lost your passport, report it to the police immediately, and to your loca
 
 ## Lost pets
 
-Lost pets are kept at [the Tiersammelstelle in Falkenberg](https://goo.gl/maps/yLhci9Uho1MtME3NA). You can find more information [here](https://tierschutz-berlin.de/tierheim/fundtiere/).
+Lost pets are kept at [Tierheim Berlin](https://maps.app.goo.gl/meNZDT2FhqojNkTNA). You can find more information [here](https://tierschutz-berlin.de/tierheim/fundtiere/).
 
-- **Where to go:** [Tiersammelstelle, Tierschutzverein für Berlin](https://goo.gl/maps/yLhci9Uho1MtME3NA), Hausvaterweg 39, Falkenberg
+- **Where to go:** [Tierheim Berlin](https://maps.app.goo.gl/meNZDT2FhqojNkTNA), Hausvaterweg 39, Falkenberg
 - **When to go:** As soon as you lost your pet
-- **Special instructions:** You can call the Tiersammelstelle at +03076888200, or email them at <tiersammelstelle@tierschutz-berlin.de>.
+- **Special instructions:** You can call the Tiersammelstelle at [+03076888200](tel:+03076888200), or email them at <tiersammelstelle@tierschutz-berlin.de>.
 
 ## Lost packages
 
