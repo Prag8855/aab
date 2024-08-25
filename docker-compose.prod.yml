@@ -15,7 +15,6 @@ services:
     volumes:
       - "ursus_files:/var/ursus/site"
       - "static_site:/var/ursus/final_output"
-      - "nginx_redirects:/etc/nginx/configs/redirects"
     logging:
       driver: "json-file"
       options:
@@ -24,7 +23,6 @@ services:
   proxy:
     volumes:
       - "static_site:/var/www/html"
-      - "nginx_redirects:/etc/nginx/configs/redirects"
     logging:
       driver: "json-file"
       options:
@@ -33,4 +31,3 @@ services:
 volumes:
   ursus_files:
   static_site:
-  nginx_redirects:

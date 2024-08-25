@@ -56,6 +56,10 @@ else
 fi
 
 echo "Monitoring changes to redirects files"
+# In production, those files don't exist until ursus_builder has run once.
+# This prevents nginx from starting, so we create placeholders.
+mkdir -p /var/www/html/redirects
+touch /var/www/html/redirects/301.map /var/www/html/redirects/302.map;
 reload_nginx_on_config_changes &
 
 echo "Starting nginx..."
