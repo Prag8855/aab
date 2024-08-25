@@ -177,6 +177,7 @@ config.renderers.extend([
 config.linters = (
     # 'extensions.linters.places.PlacesLinter',
     # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
+    # 'extensions.linters.redirects.RedirectsLinter',
     'extensions.linters.footnotes.CitationNeededLinter',
     'extensions.linters.footnotes.FootnoteLocationLinter',
     'extensions.linters.footnotes.QuestionMarkLinter',

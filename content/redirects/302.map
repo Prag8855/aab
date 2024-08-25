@@ -137,13 +137,6 @@
 /out/meineschufa                              "https://www.awin1.com/awclick.php?gid=325475&mid=9350&awinaffid=559395&linkid=2065496&clickref=";
 /out/mister-spex                              "https://www.awin1.com/awclick.php?gid=333001&mid=10118&awinaffid=559395&linkid=2126738&clickref=";
 /out/monese                                   "https://monese.com/de/en";
-/out/muffin                                   "https://mffn.cc/aabgeneral";
-/out/muffin-disability                        "/out/muffin";
-/out/muffin-haftpflicht                       "https://mffn.cc/aabliability";
-/out/muffin-hausrat                           "https://mffn.cc/aabhousehold";
-/out/muffin-health                            "https://mffn.cc/aabhealth";
-/out/muffin-calc                              "https://mffn.cc/aabhealth";
-/out/muffin-rechtsschutz                      "https://mffn.cc/aablegal";
 /out/n26                                      "https://n26-eu.c2nwa3.net/c/1377567/670551/10375";
 /out/n26-business                             "https://n26-eu.c2nwa3.net/kj1rM0";
 /out/n26-cash26                               "https://n26-eu.c2nwa3.net/dov0V3";
@@ -174,7 +167,7 @@
 /out/sevdesk                                  "https://www.awin1.com/awclick.php?gid=361518&mid=15944&awinaffid=559395&linkid=2944081&clickref=";
 /out/signup-tk                                "https://feather-insurance.com/public-health-insurance/tk?utm_source=allaboutberlin";
 /out/sixt                                     "https://www.awin1.com/awclick.php?gid=393141&mid=14761&awinaffid=559395&linkid=2480872&clickref=";
-/out/smart-coop                               "https://smart-eg.de/oinz";
+/out/smart-coop                               "https://smartde.coop/home-english-2/";
 /out/smartments                               "https://www.awin1.com/awclick.php?gid=368887&mid=16928&awinaffid=559395&linkid=2444483&clickref=";
 /out/sorted-fragebogen                        "https://en.getsorted.de/become-self-employed?ref=nicolasbouliane1";
 /out/sorted-taxes                             "https://en.getsorted.de?ref=nicolasbouliane1";
@@ -216,7 +209,7 @@
 
 # Legacy/unused links
 /out/amtio-pension-refund                     "/guides/pension-payments-refund#get-help-from-someone";
-/out/axa-haftpflictversicherung               "https://www.financeads.net/tc.php?t=28713C34621593B";
+/out/axa-haftpflictversicherung               "/out/feather-haftpflicht";
 /out/basler-mietkaution                       "https://www.financeads.net/tc.php?t=28713C70922012B";
 /out/brille24                                 "https://www.awin1.com/awclick.php?gid=325207&mid=11199&awinaffid=559395&linkid=2062354&clickref=";
 /out/brille24-in-store                        "https://www.awin1.com/awclick.php?gid=325207&mid=11199&awinaffid=559395&linkid=2062357&clickref=";
@@ -231,9 +224,15 @@
 /out/gehalt-salaries                          "https://www.gehalt.de/";
 /out/hkk-calc                                 "https://www.hkk.de/english-information";
 /out/joonko                                   "/out/verivox-kfz";
-/out/meinemietkaution                         "https://www.meinemietkaution.com/";
-/out/patreon                                  "https://www.patreon.com/allaboutberlin";
-/out/penta                                    "/out/qonto";
+/out/muffin                                   "/out/feather";
+/out/muffin-disability                        "/out/feather";
+/out/muffin-haftpflicht                       "/out/feather";
+/out/muffin-hausrat                           "/out/feather";
+/out/muffin-health                            "/out/feather";
+/out/muffin-calc                              "/out/feather";
+/out/muffin-rechtsschutz                      "/out/feather";
+/out/patreon                                  "/donate";
+/out/penta                                    "/guides/best-bank-germany";
 /out/popsure                                  "/out/feather";
 /out/popsure-aok                              "/out/feather-aok";
 /out/popsure-expats                           "/out/feather-expats";
