@@ -55,7 +55,7 @@ To join a club, you must...[^18]
 - Be at least 18 years old
 - Be a resident for at least 6 months[^26]
 
-At the moment, Berlin has no process for approving cannabis clubs.[^16] Even if they are legal, it's not really possible to create one. It could take a few months before you can get weed from a club.{{ fail_on('2024-08-15') }}
+At the moment, Berlin has no process for approving cannabis clubs.[^16] Even if they are legal, it's not really possible to create one. It could take a few months before you can get weed from a club.{{ fail_on('2024-10-15') }}
 
 ### Is medicinal marijuana legal?
 
