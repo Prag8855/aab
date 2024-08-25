@@ -270,7 +270,7 @@ In this section, you share information about the business you register.
 
 - **Art der Tätigkeit** - Type of occupation  
     A description of what you do as a freelancer or what your business does. You must write it in German, and you must be as specific as possible. If necessary, find a translator to help you. The *[[Finanzamt]]* will use this description to decide if you are a tradesperson (*[[Gewerbe]]*) or a freelancer (*[[Freiberufler]]*),[^6] so [this is very important](/guides/freiberufler-or-gewerbe).  
-    Official examples for this field:[^7]
+    Official examples for this field:
     - *Handel mit Hilfsmitteln zum Schweißen oder Löten* - Store that sells tools for soldering and metal welding
     - *Bäckerei (Handel mit Bäckereierzeugnissen - Brötchen, Brot, Backwaren)* - Bakery (commerce with baked goods: bread, rolls, pastries)
     - *Arzt - Internist* - Doctor, internist
@@ -623,7 +623,6 @@ Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qo
 [^4]: [haufe.de](https://www.haufe.de/finance/finance-office-professional/kleinunternehmer-4-optionsmoeglichkeit_idesk_PI11525_HI1342182.html)
 [^5]: [praxistipps.chip.de](https://praxistipps.chip.de/adresszusatz-was-ist-das_46872)
 [^6]: [tiahardyrobinson.medium.com](https://tiahardyrobinson.medium.com/how-to-do-the-fragebogen-zur-steuerlichen-erfassung-in-english-2021-online-edition-for-4963c51292ad), [tagesspiegel.de](https://www.tagesspiegel.de/wirtschaft/funf-wochen-warten-auf-die-steuernummer-4419565.html)
-[^7]: [formulare-bfinv.de](https://www.formulare-bfinv.de/ffw/resources/9858611CB50017037213/form/Ausfuellhilfe_2016.pdf)
 [^10]: [berlin.de (archived)](https://web.archive.org/web/20160502035209/https://berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/betriebseroeffnung-betriebseinstellung/ausf__llhilfe_selbst__ndige_t__tigkeit_beteiligung_persges.pdf)
 [^11]: [mutebuttonblog.wordpress.com](https://mutebuttonblog.wordpress.com/2012/02/21/kleinunternehmerregelung-in-germany-to-apply-or-not-to-apply-that-is-the-question/)
 [^12]: [economywatch.com](https://www.economywatch.com/)

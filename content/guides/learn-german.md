@@ -149,7 +149,7 @@ There are also many language learning apps for German:
     Private video lessons with a private teacher. You can book lessons every hour, so you can make your own schedule. Your teacher helps you complete exercises, and asks you questions. You can skip exercises you understand, or slow down to ask questions. If you don't like your teacher, you can find a new one. It's a great way to practice German conversations. In my opinion, this is the best way to learn German.
 - **[Duolingo](https://www.duolingo.com/)** - free  
     This is a famous language learning app. It's more interesting than Babbel, but the mobile app does not explain the grammar really well. I find Duolingo too limited. I recommend Babbel or Chatterbug instead.
-- **[Expath](https://www.expath.com/for-individuals/online-courses/?utm_source=referral&utm_medium=blog&utm_campaign=AAB&utm_content=self_study)**  
+- **[Expath](https://www.expath.com/for-individuals/online-german?utm_source=referral&utm_medium=blog&utm_campaign=AAB&utm_content=self_study)**  
     The teachers at Expath have recorded videos of their German lessons. You can stream them online. Use the code "AAB2021" for a 10€ discount.
 - **[Italki](https://www.italki.com/)**  
     Private video lessons with language teachers. Each teacher charges a different price. You can talk with your teacher on the Italki website, Zoom, Facetime, Skype or another tool.[^10]
@@ -237,7 +237,7 @@ I use [DeepL](https://www.deepl.com/en/translator) to translate longer texts. It
 ### Other tips
 
 - Switch your browser to German. When you search for something on Google, you get German results first. It forces you to read more German. You will also get the German version of the page.
-- I like to read news with Google News, and watch German documentaries on [Arte](https://www.youtube.com/c/IrgendwasmitARTEundKultur/videos). [Karambolage](https://www.youtube.com/playlist?list=PLhGeNYH-50KYB2uDTcVnELmcs5mP2-RpX) is really interesting. I play documentaries in the background when I work. I also listen to the news in German with the [rbb24 podcast](https://www.rbb24.de/panorama/thema/podcast/podcast.html). Deutsche Welle also has a [podcast](https://www.dw.com/en/langsam-gesprochene-nachrichten-learning-german/a-2925601) where someone reads the news slowly. It's much easier to understand.
+- I like to read news with Google News, and watch German documentaries on [Arte](https://www.youtube.com/c/IrgendwasmitARTEundKultur/videos). [Karambolage](https://www.youtube.com/playlist?list=PLhGeNYH-50KYB2uDTcVnELmcs5mP2-RpX) is really interesting. I play documentaries in the background when I work. I also listen to the news in German with the [rbb24 podcast](https://www.rbb24.de/panorama/thema/podcast/podcast.html). Deutsche Welle also has a [podcast](https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332) where someone reads the news slowly. It's much easier to understand.
 - There are many language learning communities. I like [/r/german](https://www.reddit.com/r/german/) a lot. Their [wiki](https://www.reddit.com/r/German/wiki/index/) has a lot of useful information.
 
 [^0]: [mygermanuniversity.com](https://www.mygermanuniversity.com/articles/language-requirements-german), [studying-in-germany.org](https://www.studying-in-germany.org/proof-of-language-proficiency-german-english/)

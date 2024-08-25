@@ -272,14 +272,11 @@ If you want to do it yourself, here are the steps:[^19]
     If you need help to fill the forms, you can [book an appointment with the DRV](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You can also call them, but they only speak German.
     1. If you are Turkish, you must fill form [form E5816](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/E5816.html) (previously A5800). This form is in Turkish and German. The instructions are in [document E5817](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/E5817.html) (previously A5801) (in German).
     2. If you are not Turkish, you must fill the standard form.[^21] The instructions are in [document V0910](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0910.html) (in German).
-        1. [Form V0900](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0900.html) (German)
-        2. **or** [form V0901](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901.html) (English)
-        3. **or** [form V0902](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0902.html) (French)
+        - [Form V0900](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0900.html) in German, 
+        - **or** form V0901 in [English](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_englisch.html), [French](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_franzoesisch.html), [Italian](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_italienisch.html) or [Spanish](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_spanisch.html)
 4. **Download and fill the payment information form** (*Zahlungserklärung*)  
     If you use a bank in another country, your refund will take 2 months longer. The payment information form asks for a PANR, a BXNR and a ZANR. You don't have those numbers.[^22] Leave those fields empty.  
-    1. If the bank account is in Germany:
-        1. If it's your bank account, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html). Transfers to German bank accounts are *much* faster.
-        2. If it's not your bank account, fill [form A1313](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1313.html).
+    1. If the bank account is in Germany, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html). Transfers to German bank accounts are *much* faster.
     2. If the bank account is in Canada or the United States, fill [form A1312](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1312.html).
     3. If the bank account is in Italy, fill [form A1311](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1311.html).
     4. If the bank account is in any other country, fill [form A1310](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/A1310.html).  

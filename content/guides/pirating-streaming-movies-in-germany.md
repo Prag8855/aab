@@ -23,7 +23,7 @@ Usually, those **law firms go for the easy targets**. They will not try really h
 
 Before October 2017, if anyone pirated movies on your internet connection, you were responsible. This is why there were so few public Wi-Fi hotspots in Germany.
 
-The so called *Mitstörerhaftung* (co-perpetrator liability) was repealed.[^0] The updated law is simple: **you are not responsible for copyright violations on your network** if you don't cause or facilitate them.[^2]
+The so called *Mitstörerhaftung* (co-perpetrator liability) was repealed. The updated law is simple: **you are not responsible for copyright violations on your network** if you don't cause or facilitate them.
 
 ## Is streaming movies safe in Germany?
 
@@ -93,7 +93,5 @@ This article was not written to promote sharing copyrighted material without per
 
 **[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
 
-[^0]: [§8 TMG](https://www.gesetze-im-internet.de/tmg/__8.html)
 [^1]: [Finanztip](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
-[^2]: [§8 TMG](https://www.gesetze-im-internet.de/tmg/__8.html)
 [^3]: [Wikipedia](https://en.wikipedia.org/wiki/Pornography_in_Germany)

@@ -277,8 +277,6 @@ If you don't have mobile data, you can find free Wi-Fi everywhere:
 - **REWE and Lidl supermarkets** have free Wi-Fi.[^10] Some Edeka supermarkets also have free Wi-Fi.
 - **Hotels and hostels** have free Wi-Fi for their guests.
 
-**[Map of public Wi-Fi hotspots ➞](https://www.publicwifi.de/)**
-
 ### Prepaid SIM cards for tourists
 
 If you want mobile data while you visit Berlin, you should get a temporary SIM card.

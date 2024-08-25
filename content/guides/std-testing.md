@@ -17,7 +17,7 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
 
 - **At any medical clinic**  
     Medical clinics can test for HIV and other STIs. You can ask your general practitioner (*[[Hausarzt]]*), but they might not know how to do STI testing. Urologists and gynaecologists usually offer HIV and STI tests.
-    - **[Dr. Cordes](https://www.drcordes.de/en__es/)** - (English, Spanish, German)
+    - **[Dr. Cordes](https://www.drcordes.de/en__es__fr/)** - (English, Spanish, German)
     - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)** - (English, German)
     - **[Viropraxis](https://www.viropraxis.de/)** (English, Spanish, German)
 - **At home**  

@@ -475,7 +475,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
 [^46]: [Reddit](https://old.reddit.com/r/GermanCitizenship/comments/1bl80qp/60_months_of_payment_into_pension_for_citizenship/) (2024)
 [^47]: [§9 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__9.html)
-[^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
+[^48]: [§10 Abs. 1 S. 6 StAG](https://www.gesetze-im-internet.de/stag/__10.html), [BMI](https://web.archive.org/web/20240430212116/https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/migration/staatsang/Erwerb_der_deutschen_Staatsbuergerschaft_durch_Eingbuergerung_en.html#doc9400756bodyText4) (June 2024)
 [^49]: For [Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=Arbeitsvertrag), [work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=Arbeitsvertrag), [refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=Arbeitsvertrag) and [everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=Arbeitsvertrag).
 [^51]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^52]: [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjzfozc/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022)

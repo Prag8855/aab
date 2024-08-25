@@ -246,7 +246,7 @@ The application form is in German. The instructions are at the end of the form. 
 
 **[KSK application form ➞](/out/ksk-application-form)**
 
-[**Form instructions**](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Allg._Infos_u._Anmeldeunterlagen/Ausfuellhinweise.pdf) (in German)
+**[Form instructions](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Allg._Infos_u._Anmeldeunterlagen/Paket_Anlagen_Anmeldeunterlagen.pdf)** (in German)
 
 ### Step 4: Collect the required documents
 

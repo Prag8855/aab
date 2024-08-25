@@ -196,7 +196,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 
 [^0]: [finanzfrage.net](https://www.finanzfrage.net/g/frage/ist-es-erlaubt-papiermuell-im-plastikbeutel-in-die-blaue-tonne-zu-schmeissen)
 [^1]: [bund-berlin.de](https://www.bund-berlin.de/themen/klima-ressourcen/abfall/bioabfaelle/)
-[^2]: [bsr.de](https://www.bsr.de/bioabfall-20009.php), [wirfuerbio.de](https://www.wirfuerbio.de/bsr/), [trenntstadt-berlin.de](https://www.trenntstadt-berlin.de/muelltrennung/biogut.html)
+[^2]: [bsr.de](https://www.bsr.de/bioabfall-20009.php), [trenntstadt-berlin.de](https://www.trenntstadt-berlin.de/muelltrennung/biogut.html)
 [^3]: [bsr.de](https://www.bsr.de/die-berliner-stadtreinigung-in-englischer-sprache-26142.php#:~:text=jars%20and%20bottles%20do%20not%20need%20to%20be%20rinsed)
 [^4]: [trenntstadt-berlin.de](https://www.trenntstadt-berlin.de/muelltrennung/glas.html)
 [^5]: [deutsche-handwerks-zeitung.de](https://www.deutsche-handwerks-zeitung.de/elektroschrott-166055/)

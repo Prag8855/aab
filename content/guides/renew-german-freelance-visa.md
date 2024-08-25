@@ -147,7 +147,7 @@ Bring these documents to your visa interview. [The official list of documents](h
         - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
             The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor (*[[Steuerberater]]*). It can take a few days to prepare. If your finances are not organised, it can take a few weeks.
         - [ ] **and a proof of business registration** (*aktuelle Handelsregisterauszug*)  
-            [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.do). It costs 10€.[^7] It can take a few days to receive this document.
+            [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.xhtml). It costs 10€.[^7] It can take a few days to receive this document.
         - [ ] **and a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - [ ] **and a [certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  

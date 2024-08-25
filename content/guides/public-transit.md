@@ -251,18 +251,18 @@ These tickets do not let you bring children and other people with you:[^12]
 - The 65 Plus ticket.
 
 [^1]: [berlin.de](https://www.berlin.de/tourismus/infos/verkehr/6082352-4289888-bargeldlos-zahlen-in-der-tram-bvg-testet.html)
+[^2]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-tickets/einzelfahrscheine/kurzstrecke)
 [^3]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-apps/faq-ticketkauf-per-app#:~:text=ab%20wann%20ist%20mein%20erworbenes%20bvg-handyticket%20gultig%3F), [rbb24.de](https://www.rbb24.de/panorama/beitrag/2022/04/vbb-schafft-zwei-minuten-regel-ab-handyticket-bvg.html)
 [^4]: [sbahn.berlin](https://sbahn.berlin/tickets/alle-tickets/wochen-monats-abo-jahrestickets/vbb-umweltkarte/?acc=a3861-t1)
 [^5]: [berlin.de](https://www.berlin.de/tourismus/infos/nahverkehr/1859225-1721041-nachtbusse-nachtlinien.html)
 [^6]: [berlin.de](https://www.berlin.de/tourismus/dampferfahrten/faehren/)
 [^7]: [dbregio-berlin-brandenburg.de](https://www.dbregio-berlin-brandenburg.de/db-regio-no/Fahren/Fahrplaene)
 [^8]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
-[^9]: [bvg.de](https://www.bvg.de/de/fahrrad/fahrradmitnahme)
+[^9]: [bvg.de](https://www.bvg.de/de/fahrrad)
 [^10]: [berlin.de](https://www.berlin.de/tourismus/fahrradtouren/2012604-1740418-mit-dem-fahrrad-s-und-ubahn-nutzen.html)
 [^11]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/tarifzonen-und-tarifbestimmungen), [vbb.de](https://www.vbb.de/tickets/tarifinformationen-services/mitnahmemoeglichkeiten/), [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin)
 [^12]: [Students and apprentices](https://sbahn.berlin/en/tickets/all-tickets/school-students-apprentice-students/monthly-subscription-ticket-for-apprentices/school-students/?tabs=tbc-tfeatures), [10-Uhr-Karte](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/10am-ticket/?tabs=tbc-tfeatures), [short trip ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/), [FlexTicket](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-flexticket/?tabs=tbc-tfeatures)
 [^13]: [Weekly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/7-day-ticket/?tabs=tbc-tfeatures) and [monthly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-umweltkarte/?tabs=tbc-tfeatures) tickets
-[^2]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-tickets/einzelfahrscheine/kurzstrecke)
 [^14]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2023/01/berlin-bvg-bus-bargeld-corona.html)
 [^15]: [YouTube](https://youtu.be/d-n__8zGQi4?t=18)
 [^16]: [reddit.com](https://old.reddit.com/r/berlin/comments/16rtm7a/do_you_show_your_bus_tickets_to_the_bus_driver/)

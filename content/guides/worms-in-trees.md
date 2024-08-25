@@ -39,11 +39,11 @@ Ermin moth larvae are not dangerous to you or your pets, but they often kill the
 
 [![Ermine moth larvae hanging from tree](/images/worm-hanging-from-tree.jpg "These worms sometimes hang from trees by their silk.")](/images/worm-hanging-from-tree.jpg)
 
-[^0]: [berlin.de](https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/umwelteinfluesse/eichenprozessionsspinner/#:~:text=%20mitte%20mai%20bis%20ende%20juli)
-[^1]: [sr.de](https://www.sr.de/sr/sr3/themen/ratgeber/verwechslungsgefahr_gespinstmotte_eichenprozessionsspinner_100.html#:~:text=kontakt%20mit%20eichenprozessionsspinnern%20meiden)
+[^0]: [berlin.de](https://web.archive.org/web/20230612055859/https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/umwelteinfluesse/eichenprozessionsspinner/#:~:text=%20mitte%20mai%20bis%20ende%20juli)
+[^1]: [sr.de](https://web.archive.org/web/20221120235435/https://www.sr.de/sr/sr3/themen/ratgeber/verwechslungsgefahr_gespinstmotte_eichenprozessionsspinner_100.html#:~:text=kontakt%20mit%20eichenprozessionsspinnern%20meiden)
 [^2]: [dw.com](https://www.dw.com/en/toxic-caterpillar-infestation-plagues-germany/a-49470544#:~:text=itchy%2C%20blistering%20rashes%2C%20which%20can%20last%20for%20weeks), [rbb24.de](https://www.rbb24.de/panorama/beitrag/2022/05/berlin-eichenprozessionsspinner-nester-raupen-umwelt.html#:~:text=eine%20schnellere%20Entwicklung.-,flachen%20werden%20in%20der%20regel%20gekennzeichnet,-Befallene%20Fl%C3%A4chen%20werden)
 [^3]: [dw.com](https://www.dw.com/en/toxic-caterpillar-infestation-plagues-germany/a-49470544#:~:text=people%20to%20feel-,dizzy%20or%20feverish,-and%20bring%20on)
-[^4]: [sr.de](https://www.sr.de/sr/sr3/themen/ratgeber/verwechslungsgefahr_gespinstmotte_eichenprozessionsspinner_100.html#:~:text=von%20bereits%20abgesperrten%20bereichen%20fernzuhalten), [berlin.de](https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/umwelteinfluesse/eichenprozessionsspinner/#:~:text=in%20der%20regel%20mit%20deutlichen%20warnplakaten%20gekennzeichnet)
+[^4]: [sr.de](https://web.archive.org/web/20221120235435/https://www.sr.de/sr/sr3/themen/ratgeber/verwechslungsgefahr_gespinstmotte_eichenprozessionsspinner_100.html#:~:text=von%20bereits%20abgesperrten%20bereichen%20fernzuhalten), [berlin.de](https://web.archive.org/web/20230612055859/https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/umwelteinfluesse/eichenprozessionsspinner/#:~:text=in%20der%20regel%20mit%20deutlichen%20warnplakaten%20gekennzeichnet)
 [^5]: [dw.com](https://www.dw.com/en/toxic-caterpillar-infestation-plagues-germany/a-49470544)
 [^6]: [hedgexpress.co.uk](https://hedgexpress.co.uk/the-destruction-ermine-moths-can-cause-to-hedge-plants/)
-[^7]: [sr.de](https://www.sr.de/sr/sr3/themen/ratgeber/verwechslungsgefahr_gespinstmotte_eichenprozessionsspinner_100.html#:~:text=sie%20sind%20fur%20den%20menschen%20zwar%20ungefahrlich)
+[^7]: [sr.de](https://web.archive.org/web/20221120235435/https://www.sr.de/sr/sr3/themen/ratgeber/verwechslungsgefahr_gespinstmotte_eichenprozessionsspinner_100.html#:~:text=sie%20sind%20fur%20den%20menschen%20zwar%20ungefahrlich)

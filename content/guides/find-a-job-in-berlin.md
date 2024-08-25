@@ -102,7 +102,6 @@ These websites only have English-speaking jobs, or let you filter by language:
 - [BSIG - Berlin Startup Internships](https://www.facebook.com/groups/BerlinStartupInternships/?ref=group_header) - Facebook group, 10,000+ members
 - [Foreign Young Professionals in Berlin](https://www.facebook.com/groups/1459276421005507/?ref=group_header) - Facebook group, 8,000+ members
 - [Jobsuche der Bundesagentur](https://www.arbeitsagentur.de/jobsuche/) (in German) - Run by the *[[Agentur für Arbeit]]*. Has a filter for internships.
-- [Timeworkers](https://www.timeworkers.de/) (in German) - Temporary jobs
 - [Adecco](https://www.adecco.de//stellenangebote/?k=english&l=berlin&xy=52.5200%2C13.4050&display=15) (in German) - Large temp work agency
 - [Manpower](https://www.manpower.de/de/search) (in German) - Large temp work agency
 - [Randstad](https://www.randstad.de/) (in German) - Large temp work agency

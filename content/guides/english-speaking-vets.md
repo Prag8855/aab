@@ -15,7 +15,6 @@ If you don't speak German, these veterinarians speak English:
 - [Dr. Marton](https://www.tierarztberlin.com/home)
 - [Dr. Michael Förster](https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/10559-berlin/dr-michael-foerster/2252/)
 - [Dr. Miriam Bertram](https://www.facebook.com/praxistierzuliebe/) - Praxis Tierzuliebe
-- [Dr. Molkentin](https://www.goldakupunktur-berlin.de/)
 - [Dr. Pastor](https://www.tierarztpraxis-pastor.de/)
 - [Dr. Peter Vogel](https://www.drpetervogel.de/en)
 - [Dr. Rotgang Praxis](https://www.tierarztpraxis-rotgang.de/en-gb)

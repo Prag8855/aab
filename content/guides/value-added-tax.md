@@ -124,7 +124,7 @@ After you submit your VAT return, you must pay the *[[Finanzamt]]* by [bank tran
 
 If the VAT you paid is more than the VAT you charged, you get a refund from the *Finanzamt*.[^19]
 
-**Due date:** The VAT payment is due on the same day as the VAT return: before the 10th day of the next month.[^18] You have 3 more days for the bank transfer to go through.[^20]
+**Due date:** The VAT payment is due on the same day as the VAT return: before the 10th day of the next month.[^18] You have 3 more days for the bank transfer to go through.
 
 > **Late submission example 1:** You pay your March VAT on April 10. The payment goes through on April 13. You don't pay a fine, because you paid your VAT on time.
 
@@ -199,7 +199,6 @@ For example, if you sell goods or services to customers in the United States, yo
 [^17]: [steuern.de](https://www.steuern.de/verspaetungszuschlag#c11407), [hellotax.com](https://hellotax.com/blog/de/steuer/umsatzsteuer/verspaetungszuschlag/)
 [^18]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=das%20finanzamt%20erwartet%20die%20meldungen%2C%20also%20auch%20die%20zahlungen)
 [^19]: [sumup.com](https://www.sumup.com/de-de/rechnungen/lexikon/umsatzsteuerzahllast/#:~:text=negative%20umsatzsteuerzahllast)
-[^20]: [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/umsatzsteuer-voranmeldung-2019-161-saeumniszuschlaege_idesk_PI20354_HI12006193.html)
 [^21]: [§240 AO](https://www.gesetze-im-internet.de/ao_1977/__240.html)
 [^22]: [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/s/saeumniszuschlag/#:~:text=Barzahlung%20oder%20Scheckhingabe.-,beispiel%202%3A,-Der%20Unternehmer%20in)
 [^23]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/umsatzsteuervoranmeldung/#:~:text=die%20jahrliche%20umsatzsteuererklarung%20fasst%20alle%20umsatzsteuervoranmeldungen%20zusammen%20)

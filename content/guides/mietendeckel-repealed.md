@@ -74,7 +74,7 @@ By default, you must return the money now. That means maximum April 30.[^1] Do n
 
 **If you receive asylum seeker benefits**, contact the *Landesamt für Flüchtlingsangelegenheiten*. If you must pay your landlord back, they will cover the costs.[^16]
 
-**If you have a low income**, you can get an [interest-free loan](https://www.ibb.de/de/immobilienfoerderung/themen/mietendeckel/mietendeckel.html) from the city (the *Sicher-Wohnen-Hilfe*). This helps you pay back your landlord now, but you must still pay the loan back.[^17] To get this loan, your household must earn less than the income limit:[^18]
+**If you have a low income**, you can get an [interest-free loan](https://web.archive.org/web/20220519162045/https://www.ibb.de/de/immobilienfoerderung/themen/mietendeckel/mietendeckel.html) from the city (the *Sicher-Wohnen-Hilfe*). This helps you pay back your landlord now, but you must still pay the loan back.[^17] To get this loan, your household must earn less than the income limit:[^18]
 
 - 1 person living alone: less than 33,600€ per year
 - 2 people living together: 50,400€ per year in total

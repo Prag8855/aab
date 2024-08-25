@@ -270,7 +270,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
-[^1]: [jurarat.de](https://jurarat.de/muendlicher-mietvertrag#:~:text=In%20K%C3%BCrze%3A-,ein%20mundlicher%20mietvertrag%20ist%20bindend,-und%20entsteht%20durch) (2022), [dahag.de](https://www.dahag.de/c/ebs/zivilrecht/begruendet-die-muendliche-zusage-einen-mietvertrag-4292) (2012), [movinga.com](https://www.movinga.com/de/de/hub/muendlicher-mietvertrag/)
+[^1]: [jurarat.de](https://jurarat.de/muendlicher-mietvertrag#:~:text=In%20K%C3%BCrze%3A-,ein%20mundlicher%20mietvertrag%20ist%20bindend,-und%20entsteht%20durch) (2022), [dahag.de](https://www.dahag.de/c/ebs/zivilrecht/begruendet-die-muendliche-zusage-einen-mietvertrag-4292) (2012), [movinga.com](https://web.archive.org/web/20240521140817/https://www.movinga.com/de/de/hub/muendlicher-mietvertrag/)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)

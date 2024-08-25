@@ -37,7 +37,7 @@ German licence plates use **FE-Schrift** (*Fälschungserschwerende Schrift*)sinc
 
 A large number of East German signs were made by [DEWAG](https://de.wikipedia.org/wiki/Deutsche_Werbe-_und_Anzeigengesellschaft). They often used variants of the **Erbar Grotesk** font. Erbar is used for Berlin's street name signs, and many warning signs.
 
-There are several digital releases of Erbar: [URW Erbar](https://www.fonts.com/de/font/urw-type-foundry/erbar), [Dunbar](https://cjtype.com/dunbar/), and Peter Wiegel's [Osterbar](http://www.peter-wiegel.de/Osterbar.html).
+There are several digital releases of Erbar: [URW Erbar](https://www.myfonts.com/de/collections/erbar-font-urw), [Dunbar](https://cjtype.com/dunbar/), and Peter Wiegel's [Osterbar](http://www.peter-wiegel.de/Osterbar.html).
 
 ## "The German font"
 

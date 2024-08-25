@@ -143,7 +143,7 @@ Any German resident or company who runs a commercial website, even if the websit
 
 ### Legal basis
 
-- [§ 5 Telemediengesetz (TMG)](https://www.gesetze-im-internet.de/tmg/__5.html)
+- [§ 5 Digitale-Dienst-Gesetz (DDG)](https://www.gesetze-im-internet.de/ddg/__5.html)
 - [§ 55 Rundfunkstaatsvertrag (RStV)](http://www.urheberrecht.org/law/normen/rstv/RStV-13/text/2010_06.php3)
 - [§ 2 DL-InfoV](https://www.gesetze-im-internet.de/dlinfov/__2.html)
 
@@ -302,14 +302,14 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 [^0]: [gruender.de](https://www.gruender.de/recht/dsgvo-cookie-law/), [cookiebot.com](https://www.cookiebot.com/en/cookie-consent/)
 [^1]: [techblog.bozho.net](https://techblog.bozho.net/tracking-cookies-gdpr/)
 [^2]: [anbieterkennung.de](http://www.anbieterkennung.de/gesetze.htm)
-[^3]: [rockit-internet.de](https://www.rockit-internet.de/en/what-is-an-impressum/)
-[^4]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/tmg/__5.html)
+[^3]: [bmuv.de](https://www.bmuv.de/themen/verbraucherschutz/digitaler-verbraucherschutz/impressumspflicht#c66866)
+[^4]: [§5 DDG](https://www.gesetze-im-internet.de/ddg/__5.html)
 [^5]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
 [^6]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=in%20der%20regel%20sind%20das%20e-mail-adresse%20und%20telefonnummer%2C)
 [^7]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=elektronisch%20als%20auch%20nicht%20elektronisch)
 [^8]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=nicht%20ausreichend%20ist%20ein%20postfach)
 [^9]: [anbieterkennung.de](http://www.anbieterkennung.de/index.htm), [shopbetreiber-blog.de](https://shopbetreiber-blog.de/2008/10/16/eugh-website-betreiber-muessen-im-impressum-keine-telefonnummer-nennen/)
-[^10]: [recht-freundlich.de](https://www.recht-freundlich.de/wettbewerbsrecht/abmahnung-der-portfolio-management-gmbh-wegen-fehlendem-impressum-bei-facebook), [blog.sowhy.de](https://blog.sowhy.de/2014/02/14/abmahneritis-weitere-anwalte-betroffen-abmahnung-zur-ansicht/), [linkedin.com](https://www.linkedin.com/pulse/what-impressum-why-does-facebook-want-one-chris-bangs/), [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
+[^10]: [recht-freundlich.de](https://www.recht-freundlich.de/wettbewerbsrecht/abmahnung-der-portfolio-management-gmbh-wegen-fehlendem-impressum-bei-facebook), [blog.sowhy.de](https://blog.sowhy.de/2014/02/14/abmahneritis-weitere-anwalte-betroffen-abmahnung-zur-ansicht/), [linkedin.com](https://www.linkedin.com/pulse/what-impressum-why-does-facebook-want-one-chris-bangs/), [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html), [e-recht24.de](https://www.e-recht24.de/artikel/datenschutz/209.html#)
 [^11]: [kuhlen-berlin.de](https://web.archive.org/web/20211201151350/https://kuhlen-berlin.de/glossar/agb-sprache)
 [^12]: [datenschutz.org](https://www.datenschutz.org/datenschutzerklaerung-website/)
 [^13]: [gdpr-info.eu](https://gdpr-info.eu/art-13-gdpr/)

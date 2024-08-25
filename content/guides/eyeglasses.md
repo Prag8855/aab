@@ -102,12 +102,12 @@ You must deduct it as an exceptional burden (*außergewöhnliche Belastung*).[^1
 You can't deduct glasses as a business expense (*Werbungskosten*),[^14] unless you only use them at work. For example, if you buy safety goggles for work, you can deduct them as a business expense.
 
 [^0]: [aok.de](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html), [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/hilfsmittel.html)
-[^1]: [patientenberatung.de](https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html)
+[^1]: [patientenberatung.de](https://web.archive.org/web/20231129020135/https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen) (2022), [§33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html)
 [^2]: [brille24.de](https://www.brille24.de/ratgeber/augengesundheit/brille-auf-rezept)
-[^3]: [patientenberatung.de](https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen)
+[^3]: [patientenberatung.de](https://web.archive.org/web/20231129020135/https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen) (2022)
 [^4]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen/bestimmung-sehschaerfe-kassenleistung-2004628), [brillen-sehhilfen.de](https://www.brillen-sehhilfen.de/brillenversicherung/brillen-krankenkasse.php), [aok.de](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/)
 [^5]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen/bestimmung-sehschaerfe-kassenleistung-2004628)
-[^6]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/arbschg/__3.html), [blickcheck.de](https://www.blickcheck.de/sehhilfen/brillen/im-alltag/am-arbeitsplatz/zahlt-der-arbeitgeber-die-brille/), [ihk.de](https://www.ihk.de/rhein-neckar/gruendung/unternehmensfuehrung/arbeits-sicher/unterordner-betriebsarzt/bildschirmarbeitsplatzbrillen-4439208)
+[^6]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/arbschg/__3.html), [blickcheck.de](https://www.blickcheck.de/sehhilfen/brillen/im-alltag/am-arbeitsplatz/zahlt-der-arbeitgeber-die-brille/)
 [^7]: [versicherungsmonitor.de](https://versicherungsmonitor.de/2011/06/21/unversichert-sieht-man-besser/)
 [^8]: [verti.de](https://www.verti.de/ratgeber/brillenversicherung/)
 [^9]: [misterspex.de](https://www.misterspex.de/c/rat/165)
