@@ -272,7 +272,7 @@ In order, they prefer...[^32]
 Landlords prefer...
 
 - **A good income**  
-    Your rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34] Two incomes are better than one. If your income is too high, landlords
+    Your rent should be 20% to 35% of your monthly [net income](/glossary/Netto%20income).[^34] Two incomes are better than one. If your income is too low, they think that you won't pay the rent. If your income is too high, they think that you won't stay long.
 - **A stable job**  
     If you are in your [probation period](/glossary/Probezeit), it's a little harder to find an apartment.[^36] If you are self-employed, it's much harder.[^17] If you are unemployed, it's impossible.
 - **A good first impression**  
