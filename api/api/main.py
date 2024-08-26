@@ -100,7 +100,7 @@ def schedule_message(message_type: str, recipients: List[str], delivery_date: da
 
 
 def send_message(message_type: str, recipients: List[str], template_values: dict):
-    message_path = os.path.join(config.base_path, config.message_types[message_type]['template_path'])
+    message_path = config.base_path / config.message_types[message_type]['template_path']
     message_body = message_path.read_text()
     message_data = {
         "from": "All About Berlin <contact@allaboutberlin.com>",

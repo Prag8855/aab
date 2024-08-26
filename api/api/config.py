@@ -1,9 +1,9 @@
+from pathlib import Path
 import logging
-import os
 
 db_url = 'sqlite:////var/db/api.db'
 
-base_path = os.path.dirname(os.path.abspath(__file__))
+base_path = Path(__file__).parent.resolve()
 
 logging_config = {
     'datefmt': '%Y-%m-%d %H:%M:%S',
