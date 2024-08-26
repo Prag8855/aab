@@ -54,7 +54,7 @@
 	<template v-slot:header>Ask a pension refund expert</template>
 	{% include "_blocks/formHoneypot.html" %}
 	<template v-if="stage === 'contactInfo'">
-		<p>Chris helps people get their pension refund. You can ask him questions. He will answer in 1 to 3 business days. This is a free service.</p>
+		<p>FundsBack helps people get their pension refund. You can ask them questions. They will answer in 1 to 3 business days. This is a free service.</p>
 		<hr>
 		<div class="form-group required">
 			<label :for="uid('question')">Your question</label>
@@ -97,10 +97,10 @@
 		<hr>
 		<p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
 		<div class="buttons">
-			<button class="button primary no-print" @click="submitForm">Ask Chris</button>
+			<button class="button primary no-print" @click="submitForm">Ask FundsBack</button>
 		</div>
 	</template>
 	<template v-if="stage === 'thank-you'">
-		<p><strong>Message sent!</strong> Chris will contact you today or during the next business day. Expect an email from "FundsBack".</p>
+		<p><strong>Message sent!</strong> FundsBack will contact you today or during the next business day.</p>
 	</template>
 </collapsible>
