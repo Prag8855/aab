@@ -7,7 +7,7 @@ base_path = os.path.dirname(os.path.abspath(__file__))
 
 logging_config = {
     'datefmt': '%Y-%m-%d %H:%M:%S',
-    'format': '[%(asctime)s] %(levelname)s [%(name)s.%(funcName)s:%(lineno)d] %(message)s',
+    'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
     'level': logging.INFO,
 }
 

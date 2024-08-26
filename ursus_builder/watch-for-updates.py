@@ -5,12 +5,18 @@ from pathlib import Path
 from subprocess import run, check_output, STDOUT
 from time import sleep
 from urllib import request
+import coloredlogs
 import json
 import logging
 import os
 import sys
 
 
+coloredlogs.install(
+    datefmt='%Y-%m-%d %H:%M:%S',
+    fmt='%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
+    level=logging.INFO,
+)
 logger = logging.getLogger(__name__)
 
 
