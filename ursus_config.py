@@ -11,13 +11,6 @@ import string
 import urllib
 
 
-logging.addLevelName(logging.DEBUG, ' D ')
-logging.addLevelName(logging.INFO, '\033[37m\033[0;100m I \033[0m')
-logging.addLevelName(logging.WARNING, '\033[37m\033[43m W \033[0m')
-logging.addLevelName(logging.ERROR, '\033[37m\033[41m E \033[0m')
-logging.addLevelName(logging.CRITICAL, '\033[37m\033[41m C \033[0m')
-
-
 def to_number(value):
     return "{:,}".format(value) if value else ''
 
@@ -578,7 +571,7 @@ config.jinja_filters = {
 }
 
 config.logging = {
-    'datefmt': '%H:%M:%S',
+    'datefmt': '%Y-%m-%d %H:%M:%S',
     'fmt': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
     'level': logging.INFO,
 }
