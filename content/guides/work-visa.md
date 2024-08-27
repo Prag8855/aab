@@ -252,6 +252,8 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the wor
 
 Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.[^33]
 
+At some embassies and consulates, you can [apply for a work visa online](https://digital.diplo.de/visa), without an appointment.
+
 **[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
 ### 4. Prepare for your interview

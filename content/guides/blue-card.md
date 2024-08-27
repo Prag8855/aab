@@ -224,6 +224,8 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blu
 
 Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.
 
+At some embassies and consulates, you can [apply for a Blue Card online](https://digital.diplo.de/blaue-karte), without an appointment.
+
 **[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
 ### 3. Prepare for your interview
