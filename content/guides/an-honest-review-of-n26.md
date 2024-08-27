@@ -105,7 +105,7 @@ The standard N26 account is free. The free account is not as good as before, but
 
 In {{ now.strftime('%Y') }}, [most German banks](/guides/best-bank-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
 
-**[Banks with no monthly fees ➞](/guides/best-bank-germany#banks-with-no-monthly-fees)**
+**[Best free bank accounts ➞](/guides/best-bank-germany#free-bank-accounts)**
 
 ### Some passports are not supported
 

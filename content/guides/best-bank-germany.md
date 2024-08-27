@@ -83,7 +83,7 @@ These banks let you do **some things in English**. They have physical branches, 
 - **[Commerzbank](/out/commerzbank)** - Basic online banking in English.
 - **[Berliner Sparkasse](/out/sparkasse)** - Basic online banking in English.
 
-## Banks with no monthly fees
+## Free bank accounts
 
 I strongly recommend to get a free bank account. Don't pay your bank to hold your money. In theory, every bank must offer a free account (the *Basiskonto*), but this account is often too limited.
 
