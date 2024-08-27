@@ -5,7 +5,7 @@ Description: A list of common grocery stores, hardware stores, furniture stores 
 Date_created: 2019-11-14
 ---
 
-If you're new in Germany, it's hard to know what the supermarkets, furniture stores or hardware stores are called. This guide will help you find them.
+If you are new in Germany, it's hard to know what the supermarkets, furniture stores or hardware stores are called. This guide will help you find them.
 
 {% include "_blocks/tableOfContents.html" %}
 

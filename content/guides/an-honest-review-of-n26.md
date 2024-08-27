@@ -127,7 +127,7 @@ Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees. [Other banks](
 
 ### Account creation problems (fixed?)
 
-When everything goes well, you can open an account in 10 minutes. You open the app, start a video chat, show your passport to the customer service agent, and you're done! A few days later, you receive your bank card in the mail.
+When everything goes well, you can open an account in 10 minutes. You open the app, start a video chat, show your passport to the customer service agent, and you are done! A few days later, you receive your bank card in the mail.
 
 It doesn't always go well. Some people had problems when verifying their ID, or had to wait a long time for their new card. Others have to go to the post office to validate their ID. If you need a bank account *right now*, it's very annoying.
 

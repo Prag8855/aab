@@ -532,7 +532,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 			tarif = 'student';
 		}
 
-		// You're earning too much to be considered a student
+		// You are earning too much to be considered a student
 		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
 		const hoursWorked = 20; // TODO: Accept different values
 		if(hoursWorked <= 20 && monthlyIncome > 0.75*healthInsurance.nebenjobMaxIncome) {

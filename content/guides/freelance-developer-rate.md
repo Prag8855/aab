@@ -68,7 +68,7 @@ If you say that you charge 500€ per day, your client will expect to pay 500€
 
 "**I was just offered up to 1,200€ per day** (~250,000€) for a freelance consultant position with the requirement of strong knowledge of AWS. And I live here in Berlin." - [/u/forsgren123](https://www.reddit.com/r/berlin/comments/9ldlx6/comment/e77fefk/), October 2018
 
-"If you're a contractor with experience and clean reputation, **you can easily get 6 month contracts for 500€ brutto per day**." - [/u/GuyWithLag](https://www.reddit.com/r/berlin/comments/9ldlx6/comment/e76msde/), October 2018
+"If you are a contractor with experience and clean reputation, **you can easily get 6 month contracts for 500€ brutto per day**." - [/u/GuyWithLag](https://www.reddit.com/r/berlin/comments/9ldlx6/comment/e76msde/), October 2018
 
 "Never talk about hourly rates, thats not the kind of work you want, talk about day rates and discounts for taking 20 day packages. Whether your day rate is 350 or 1,200€ depends a lot of what exactly you are doing. **I pay designers 350-550€ and devs 450-1,200€ per day**." - Anonymous, September 2018
 

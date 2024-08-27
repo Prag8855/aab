@@ -19,7 +19,7 @@ Legal insurance is also called legal protection insurance or legal expenses insu
 
 For example, if you have a problem with your landlord, you can talk to a lawyer for free. The lawyer can write a letter to your landlord. If the letter doesn't solve the problem, you can sue your landlord. Your legal insurance will pay for everything.[^0]
 
-If you don't have legal insurance, you must decide between paying 200€ per hour[^1] for a lawyer, or giving up. In Germany, the loser pays for the winner's legal fees (except with employment law), but if you're not 100% sure of winning, it's risky. If the case is settled out of court, you still need to pay your lawyer. People often let their landlord or their employer win, because they can't afford a lawyer. With legal insurance, you can always defend yourself. When people know that you can defend yourself, they don't mess with you.
+If you don't have legal insurance, you must decide between paying 200€ per hour[^1] for a lawyer, or giving up. In Germany, the loser pays for the winner's legal fees (except with employment law), but if you are not 100% sure of winning, it's risky. If the case is settled out of court, you still need to pay your lawyer. People often let their landlord or their employer win, because they can't afford a lawyer. With legal insurance, you can always defend yourself. When people know that you can defend yourself, they don't mess with you.
 
 ## What does legal insurance cover?
 

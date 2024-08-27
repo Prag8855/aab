@@ -100,7 +100,7 @@ You need a residence permit to work, study or freelance. If you don't have one, 
 Read your appointment confirmation and follow the instructions. Usually, you must...
 
 - [ ] **Prepare the required documents**  
-    This can take a few weeks. Bring all your documents, even if you're not sure you need them. If your documents are old, bring a newer version. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Print everything on A4 paper. Don't staple the pages together. If you forget a document, it can delay your application by a few weeks.
+    This can take a few weeks. Bring all your documents, even if you are not sure you need them. If your documents are old, bring a newer version. Some case workers look at every document. Some ignore half of them. You never know, so you must bring everything. Print everything on A4 paper. Don't staple the pages together. If you forget a document, it can delay your application by a few weeks.
 - [ ] **Hire a translator** (optional)  
     Some *Ausländerbehörde* employees only speak German. If you don't speak German, bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). If you hire a [relocation consultant](/guides/relocation-agency-in-berlin) or an [immigration lawyer](/guides/english-speaking-lawyers-berlin), they can also translate for you.
 

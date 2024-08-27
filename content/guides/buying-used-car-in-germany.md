@@ -114,7 +114,7 @@ You should also get these things:
     Germans religiously collect invoices for every oil change, repair and inspection. You should get all those papers with the vehicle. These papers show that the vehicle was well-maintained. It's important to keep them.
 - [ ] **All vehicle keys**
 - [ ] **Owner's manual**  
-    The seller will usually have the owner's manual. If you're lucky, you will even get the service manual. The service manual is useful if you do your own repairs.
+    The seller will usually have the owner's manual. If you are lucky, you will even get the service manual. The service manual is useful if you do your own repairs.
 - [ ] **Extra parts**  
     The seller will often give you extra parts for the vehicle. For example, if they installed after-market parts, they will often give you the original parts too.
 
@@ -166,7 +166,7 @@ In Berlin, this can take a few weeks. Appointments are hard to get. The nearest 
 When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these documents with you:
 
 - [ ] **Your old licence plate**  
-    Always bring the old licence plate with you. Even if you're keeping the same plate number, they will need to see it.
+    Always bring the old licence plate with you. Even if you are keeping the same plate number, they will need to see it.
 - [ ] **Your passport or a valid photo ID**
 - [ ] **Your [Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)**  
     If your ID does not show your address, you must bring your *[Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)*.

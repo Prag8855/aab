@@ -5,7 +5,7 @@ Description: What to do if you forgot something on the train, or simply lost it 
 Date_created: 2019-11-28
 ---
 
-Lost something in Berlin? You're not alone. Hundreds of thousands of lost items are found in Berlin each year. Here's what you have to get your things back.
+Lost something in Berlin? You are not alone. Hundreds of thousands of lost items are found in Berlin each year. Here's what you have to get your things back.
 
 {% include "_blocks/tableOfContents.html" %}
 

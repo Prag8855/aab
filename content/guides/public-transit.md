@@ -174,7 +174,7 @@ You can rent electric scooters (🛴) from [Bolt](https://bolt.eu/en-de/scooters
 
 You can rent motor scooters (🛵) from [Emmy](https://emmy-sharing.de/en/). You can book them in the [Jelbi](https://www.jelbi.de/en/home/) app too. Create an account in advance, because their verification process is unreliable.
 
-There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they're only valid for 6 months after you move to Germany.
+There are also [scooter rental businesses](https://www.google.com/maps?q=scooter+rental+berlin). You need a valid driving licence. Scooter rental services don't always accept non-EU driving licences, because they are only valid for 6 months after you move to Germany.
 
 ### Rent a car
 
@@ -182,7 +182,7 @@ Rent a car for a single ride with [Miles](https://miles-mobility.com/en-de/car-s
 
 Rent a car for a few days with [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de). [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car.
 
-You need a valid driving licence to use those services. Car sharing services don't always accept non-EU licences, because they're only valid for 6 months after you move to Germany.
+You need a valid driving licence to use those services. Car sharing services don't always accept non-EU licences, because they are only valid for 6 months after you move to Germany.
 
 ### Call a taxi
 
