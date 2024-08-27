@@ -52,14 +52,14 @@ Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Ja
 
 These banks are **not expat-friendly**:
 
+- **[C24](/out/c24)**  
+    It's an excellent bank, but they [accept fewer passports](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen) and might require a residence permit.[^1] They only speak German. They don't accept US citizens.[^5]
 - **[Sparkasse](/out/sparkasse)**  
     If you want a traditional bank with physical branches, this is the best option. They accept Russians, Iranians, Syrians and citizens of other sanctioned countries.[^2] You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] Basic online banking is in English, everything else is in German.
 - **[Deutsche Bank](/out/deutsche-bank)**  
     It takes too long to open an account.[^10] They mostly speak German. Online banking, customer service and some documents are in English.[^7] You might need a [residence permit](/glossary/Aufenthaltstitel).[^54]
 - **[Commerzbank](/out/commerzbank)**  
     It takes too long to open an account.[^9] You need a [registration certificate](/glossary/Anmeldebestätigung) and a [residence permit](/glossary/Aufenthaltstitel) that's valid for at least 6 months.[^6] Basic online banking is in English, everything else is in German.
-- **[C24](/out/c24)**  
-    It's an excellent bank, but they [accept fewer passports](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen) and might require a residence permit.[^1] They only speak German. They don't accept US citizens.[^5]
 - **[ING](/out/ing)**  
     It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^15] They only speak German.
 - **[DKB](/out/dkb)**  
@@ -155,15 +155,15 @@ Many banks ask for a [registration certificate](/glossary/Anmeldebestätigung). 
 
 These banks don't ask for a registration certificate:
 
+- [N26](/out/n26)
 - [bunq](/out/bunq)
 - [C24](/out/c24)
-- [Deutsche Bank](/out/deutsche-bank)
 - [DKB](/out/dkb)[^4]
-- [Monese](/out/monese)
-- [N26](/out/n26)
-- [Revolut](/out/revolut)
-- [Vivid](/out/vivid)
 - [Wise](/out/wise-account)
+- [Deutsche Bank](/out/deutsche-bank)
+- [Vivid](/out/vivid)
+- [Monese](/out/monese)
+- [Revolut](/out/revolut)
 
 ## Banks with physical branches
 
