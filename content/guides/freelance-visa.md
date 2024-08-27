@@ -225,7 +225,7 @@ Before your embassy or consulate appointment, you must...
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 - [ ] **Save money**  
-    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They often ask for around 10,000€ in savings.[^81]
+    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They usually ask for around 10,000€ in savings.[^81]
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
 
@@ -386,7 +386,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 - [ ] **Proof or education**  
     If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.[^78]
 - [ ] **Bank statements**  
-    It shows how much savings you have.[^74] In Berlin, 3,000€ to 5,000€ in savings is enough. In other cities, you might need around 10,000€. If possible, use a German bank.[^61] If it's in another currency, convert it to euros.
+    It shows how much savings you have.[^74] In Berlin, 3,000€ to 5,000€ in savings is usually enough.[^28] In other cities, you might need around 10,000€.[^22] You don't need a [blocking account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
 
 ## After you get your freelance visa
 
@@ -469,11 +469,13 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^21]: [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/nebenberufliche-selbststaendigkeit/#:~:text=viele%20arbeitsvertrage%20enthalten%20regelungen), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)
+[^22]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1872525116549516/) (July 2024)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^24]: [VAB 21.4.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
+[^28]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/) (2022)
 [^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
 [^31]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
@@ -506,7 +508,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^59]: [VAB 21.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^60]: [VAB 21.3 and 9.2.1.3a](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
-[^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018)
+[^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/756383954830310/) (2019), [Tal Gibbesch](https://www.gibbesch-consulting.com/) (2024)
 [^62]: [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/), [All About Berlin](/guides/website-freiberuf-or-gewerbe)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
 [^64]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=sit%20in%20the%20waiting%20room%20for%20about%2020-40%20minutes)
