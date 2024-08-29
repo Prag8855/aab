@@ -4,6 +4,9 @@ version: '3.2'
 # git repo has new commits
 
 services:
+  api:
+    volumes:
+      - "${DB_BACKUPS_PATH:-./db-backups}:/var/db-backups"
   ursus_builder:
     build:
       context: "./ursus_builder"

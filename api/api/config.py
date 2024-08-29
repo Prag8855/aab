@@ -1,7 +1,9 @@
 from pathlib import Path
 import logging
 
-db_url = 'sqlite:////var/db/api.db'
+backup_dir = Path('/var/db-backups')
+db_path = Path('/var/db/api.db')
+db_url = f'sqlite:///{str(db_path)}'
 
 base_path = Path(__file__).parent.resolve()
 
