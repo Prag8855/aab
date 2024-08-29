@@ -577,5 +577,6 @@ if os.environ.get('BETTERSTACK_SOURCE_TOKEN'):
 
 config.logging = {
     'level': logging.INFO,
+    'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
     'handlers': log_handlers
 }
