@@ -1,6 +1,7 @@
 from datetime import datetime
 from decimal import Decimal
 from extensions.functions import glossary_groups
+from logtail import LogtailHandler
 from markdown.extensions.toc import slugify
 from pathlib import Path
 from ursus.config import config
@@ -570,8 +571,11 @@ config.jinja_filters = {
     'cur': to_currency,
 }
 
+log_handlers = [logging.StreamHandler(), ]
+if os.environ.get('BETTERSTACK_SOURCE_TOKEN'):
+    log_handlers.append(LogtailHandler(source_token=os.environ['BETTERSTACK_SOURCE_TOKEN']))
+
 config.logging = {
-    'datefmt': '%Y-%m-%d %H:%M:%S',
-    'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
     'level': logging.INFO,
+    'handlers': log_handlers
 }
