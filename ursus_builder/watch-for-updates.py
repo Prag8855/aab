@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Pulls the latest version of All About Berlin and rebuilds it as needed
 
+from logtail import LogtailHandler
 from pathlib import Path
 from subprocess import run, check_output, STDOUT
 from time import sleep
@@ -10,6 +11,14 @@ import logging
 import os
 import sys
 
+log_handlers = [logging.StreamHandler(), ]
+if os.environ.get('BETTERSTACK_SOURCE_TOKEN'):
+    log_handlers.append(LogtailHandler(source_token=os.environ['BETTERSTACK_SOURCE_TOKEN']))
+
+logging.basicConfig(
+    level=logging.INFO,
+    handlers=log_handlers,
+)
 
 logger = logging.getLogger(__name__)
 

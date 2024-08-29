@@ -1,17 +1,21 @@
+from logtail import LogtailHandler
 from pathlib import Path
 import logging
+import os
 
+log_handlers = [logging.StreamHandler(), ]
+if os.environ.get('BETTERSTACK_SOURCE_TOKEN'):
+    log_handlers.append(LogtailHandler(source_token=os.environ['BETTERSTACK_SOURCE_TOKEN']))
+
+logging_config = {
+    'level': logging.INFO,
+    'handlers': log_handlers
+}
+
+base_path = Path(__file__).parent.resolve()
 backup_dir = Path('/var/db-backups')
 db_path = Path('/var/db/api.db')
 db_url = f'sqlite:///{str(db_path)}'
-
-base_path = Path(__file__).parent.resolve()
-
-logging_config = {
-    'datefmt': '%Y-%m-%d %H:%M:%S',
-    'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
-    'level': logging.INFO,
-}
 
 message_types = {
     'forms/pension-refund-question': {
