@@ -7,7 +7,7 @@ services:
   api:
     environment:
       - "MAILGUN_API_KEY"
-      - "BETTERSTACK_SOURCE_TOKEN=BETTERSTACK_SOURCE_TOKEN_API"
+      - "BETTERSTACK_SOURCE_TOKEN=${BETTERSTACK_SOURCE_TOKEN_API}"
     volumes:
       - "${DB_BACKUPS_PATH:-./db-backups}:/var/db-backups"
   ursus_builder:
@@ -18,7 +18,7 @@ services:
       - "SITE_URL"
       - "CLOUDFLARE_ZONE"
       - "CLOUDFLARE_API_KEY"
-      - "BETTERSTACK_SOURCE_TOKEN=BETTERSTACK_SOURCE_TOKEN_URSUS"
+      - "BETTERSTACK_SOURCE_TOKEN=${BETTERSTACK_SOURCE_TOKEN_URSUS}"
     volumes:
       - "ursus_files:/var/ursus/site"
       - "static_site:/var/ursus/final_output"
