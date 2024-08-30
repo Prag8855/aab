@@ -195,7 +195,7 @@
 	);
 {% endjs %}
 
-<collapsible class="appointment-finder no-print" aria-label="Anmeldung appointment finder" {% if static|default %}static{% endif %}>
+<collapsible class="appointment-finder no-print" aria-label="Anmeldung appointment finder" {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>Anmeldung appointment finder</template>
 

@@ -43,7 +43,7 @@
 	);
 {% endjs %}
 
-<collapsible class="permanent-residence-check" ref="collapsible" aria-label="Pension refund check" {% if static|default %}static{% endif %}>
+<collapsible class="permanent-residence-check" ref="collapsible" aria-label="Pension refund check" {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>Permanent residence qualification check</template>
 	<template v-if="stage === 'start'">

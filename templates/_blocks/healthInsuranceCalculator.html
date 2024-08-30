@@ -135,7 +135,7 @@
 	);
 {% endjs %}
 
-<collapsible class="health-insurance-calculator" ref="collapsible" {% if static|default %}static{% endif %}>
+<collapsible class="health-insurance-calculator" ref="collapsible" {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>Health insurance calculator</template>
 
