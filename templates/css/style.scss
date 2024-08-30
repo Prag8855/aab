@@ -1766,7 +1766,7 @@ input[type=range] {
         border-color: var(--c-border-input-focused);
     }
 
-    :is(input, input:invalid){
+    input, input:invalid{
         background: transparent!important;
         border: none!important;
         box-shadow: none!important;
