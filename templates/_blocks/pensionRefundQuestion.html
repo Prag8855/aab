@@ -11,6 +11,7 @@
 			mixins: [uniqueIdsMixin],
 			data: function() {
 				return {
+					isLoading: false,
 					emailAddress: '',
 					fullName: '',
 					question: '',
@@ -21,9 +22,10 @@
 				};
 			},
 			methods: {
-				submitForm() {
+				async submitForm() {
 					if(validateForm(this.$refs.collapsible.$el)) {
-						fetch(
+						this.isLoading = true;
+						const response = await fetch(
 							'/api/forms/pension-refund-question',
 							{
 								method: 'POST',
@@ -38,7 +40,8 @@
 								}),
 							}
 						);
-						this.stage = 'thank-you';
+						this.isLoading = false;
+						this.stage = response.ok ? 'thank-you' : 'error';
 						Vue.nextTick(() => {
 							this.$refs.collapsible.$el.scrollIntoView({ block: 'start', behavior: 'auto' });
 							plausible('Pension refund question', { props: { stage: this.stage }});
@@ -97,10 +100,13 @@
 		<hr>
 		<p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
 		<div class="buttons">
-			<button class="button primary no-print" @click="submitForm">Ask FundsBack</button>
+			<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask FundsBack</button>
 		</div>
 	</template>
 	<template v-if="stage === 'thank-you'">
 		<p><strong>Message sent!</strong> FundsBack will contact you today or during the next business day.</p>
+	</template>
+	<template v-if="stage === 'error'">
+		<p><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 	</template>
 </collapsible>
