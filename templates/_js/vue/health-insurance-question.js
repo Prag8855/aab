@@ -31,6 +31,8 @@ Vue.component('health-insurance-question', {
 			inputAge: this.age || getDefaultNumber('age', ''),
 			inputOccupation: this.occupation || getDefault('occupation', 'employee'),
 			incomeOverLimit: this.income >= (healthInsurance.minFreiwilligMonthlyIncome * 12),
+
+			isLoading: false,
 		};
 	},
 	created(){
@@ -77,9 +79,10 @@ Vue.component('health-insurance-question', {
 		this.question +=  '\n\nWhich health insurance should I choose?';
 	},
 	methods: {
-		submitForm() {
+		async submitForm() {
 			if(validateForm(this.$refs.collapsible)) {
-				fetch(
+				this.isLoading = true;
+				const response = await fetch(
 					'/api/forms/health-insurance-question',
 					{
 						method: 'POST',
@@ -95,7 +98,10 @@ Vue.component('health-insurance-question', {
 							question: this.question,
 						}),
 					}
-				).then(() => {
+				);
+				this.isLoading = false;
+				if(response.ok){
+					this.stage = 'thank-you';
 					fetch(
 					'/api/reminders/health-insurance-question-reminder',
 						{
@@ -108,8 +114,10 @@ Vue.component('health-insurance-question', {
 							}),
 						}
 					);
-				});
-				this.stage = 'thank-you';
+				}
+				else {
+					this.stage = 'error';
+				}
 			}
 		},
 	},
@@ -189,11 +197,15 @@ Vue.component('health-insurance-question', {
 				</div>
 				<div class="buttons">
 					<slot name="form-buttons"></slot>
-					<button class="button primary no-print" @click="submitForm">Send question</button>
+					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Send question</button>
 				</div>
 			</template>
 			<template v-if="stage === 'thank-you'">
 				<p><strong>Message sent!</strong> Rob will contact you today or during the next business day. Expect an email from Feather Insurance.</p>
+				<slot name="after-confirmation"></slot>
+			</template>
+			<template v-if="stage === 'error'">
+				<p><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 				<slot name="after-confirmation"></slot>
 			</template>
 		</div>

@@ -20,6 +20,7 @@
 					trackAs: 'Pension refund calculator',
 
 					stage: 'start',
+					isLoading: false,
 					nationality: getDefault('nationality', ''),
 					sortedCountryList: countries.getSortedList(),
 					countryOfResidence: getDefault('countryOfResidence', ''),
@@ -86,52 +87,59 @@
 					return this.results.flags.has(flag);
 				},
 				stateName,
-				setReminder() {
-					fetch(
-						'/api/reminders/pension',
-						{
-							method: 'POST',
-							keepalive: true,
-							headers: {'Content-Type': 'application/json; charset=utf-8',},
-							body: JSON.stringify({
-								'email': this.emailAddress,
-								'refundAmount': this.results.refundAmount,
-								'eligibilityDate': this.eligibilityDateString,
-								'deliveryDate': this.eligibilityDate.toISOString(),
-							}),
-						}
-					);
-					this.stage = 'reminderConfirmation';
+				async setReminder() {
+					if(validateForm(this.$refs.reminderForm)) {
+						this.isLoading = true;
+						const response = await fetch(
+							'/api/reminders/pension',
+							{
+								method: 'POST',
+								keepalive: true,
+								headers: {'Content-Type': 'application/json; charset=utf-8',},
+								body: JSON.stringify({
+									email: this.emailAddress,
+									refundAmount: this.results.refundAmount,
+									eligibilityDate: this.eligibilityDateString,
+									deliveryDate: this.eligibilityDate.toISOString(),
+								}),
+							}
+						);
+						this.isLoading = false;
+						this.stage = response.ok ? 'reminderConfirmation' : 'error';
+					}
 				},
-				sendRefundRequest() {
+				async sendRefundRequest() {
 					if(validateForm(this.$refs.contactForm)) {
-						fetch(
+						this.isLoading = true;
+						const response = await fetch(
 							this.selectedPartner.apiEndpoint,
 							{
 								method: 'POST',
 								keepalive: true,
 								headers: {'Content-Type': 'application/json; charset=utf-8',},
 								body: JSON.stringify({
-									'arrivalDate': `${this.firstYearOfWork}-${this.firstMonthOfWork}`,
-									'countryOfResidence': countries.all[this.countryOfResidence],
-									'dateOfBirth': this.dateOfBirth,
-									'departureDate': `${this.lastYearOfWork}-${this.lastMonthOfWork}`,
-									'email': this.emailAddress,
-									'name': this.fullName,
-									'nationality': countries.all[this.nationality],
+									arrivalDate: `${this.firstYearOfWork}-${this.firstMonthOfWork}`,
+									countryOfResidence: countries.all[this.countryOfResidence],
+									dateOfBirth: this.dateOfBirth,
+									departureDate: `${this.lastYearOfWork}-${this.lastMonthOfWork}`,
+									email: this.emailAddress,
+									name: this.fullName,
+									nationality: countries.all[this.nationality],
 								}),
 							},
 						);
-						plausible('Pension refund request', { props: { partner: this.selectedPartner.name }});
-						this.stage = 'requestConfirmation';
+						this.isLoading = false;
+						if(response.ok){
+							plausible('Pension refund request', { props: { partner: this.selectedPartner.name }});
+							this.stage = 'requestConfirmation';
+						}
+						else{
+							this.stage = 'error';
+						}
 					}
 				}
 			},
 			computed: {
-				emailAddressValid() {
-					const re = /\S+@\S+\.\S+/;
-					return re.test(this.emailAddress);
-				},
 				firstDayOfWork() {
 					if(this.firstMonthOfWork && this.firstYearOfWork) {
 						return new Date(`${this.firstYearOfWork}-${this.firstMonthOfWork}-01T00:00:00`);
@@ -375,9 +383,9 @@
 					<template v-if="hasFlag('eligible-later')">
 						<p>You can apply for a refund in <strong>{{ monthsUntilEligible }}</strong>. That's 2 years after your last pension contribution.</p>
 						<p class="no-print">Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
-						<div class="input-group email-reminder no-print">
-							<input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email">
-							<button class="button primary" @click="setReminder" :disabled="!emailAddressValid">
+						<div class="input-group email-reminder no-print" ref="reminderForm">
+							<input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email" required>
+							<button class="button primary" @click="setReminder" :disabled="isLoading" :class="{loading: isLoading}">
 								Remind me in {{ monthsUntilEligible }}
 							</button>
 						</div>
@@ -472,13 +480,19 @@
 		</div>
 		<div class="buttons">
 			<button class="button" @click="stage = 'partnerSelection'"><i class="icon left" aria-hidden="true"></i> Back</button>
-			<button class="button primary" target="_blank" @click="sendRefundRequest">Send request</button>
+			<button class="button primary" target="_blank" @click="sendRefundRequest" :disabled="isLoading" :class="{loading: isLoading}">Send request</button>
 		</div>
 	</template>
 	<template v-if="stage === 'requestConfirmation'">
 		<p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
 		<div class="buttons">
 			<button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back</button>
+		</div>
+	</template>
+	<template v-if="stage === 'error'">
+		<p><strong>An error occured.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
+		<div class="buttons left">
+			<button class="button" @click="emailAddress = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
 		</div>
 	</template>
 {% endraw %}
