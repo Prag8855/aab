@@ -121,7 +121,7 @@ You can also get a pension refund if:[^1]
 
 You can't get a refund while you live in Japan.[^6]
 
-You can get a pension refund if:
+You can't get a pension refund if:
 
 - you live in Japan
 - **and** your last pension payment was more than 24 months ago
