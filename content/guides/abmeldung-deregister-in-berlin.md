@@ -52,7 +52,7 @@ Here is how you can do your *Abmeldung* in person:
 2. Fill the [*Abmeldung* form](/docs/abmeldung)
 3. Go to your appointment. Bring:
     - [ ] The filled *Abmeldung* form
-    - [ ] Your passport or *[[Personalausweis]]*
+    - [ ] Your passport or *[[Personalausweis]]*, not a copy[^27]
     - [ ] If you deregister late, a proof of your move-out date[^22]
 
 You can do it alone, even if you don't speak German. The appointment takes around 10 minutes.
@@ -214,8 +214,9 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1050), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^20]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0120)
 [^21]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0120), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0029)
-[^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
-[^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^22]: Oliver at [SympatMe](https://sympat.me) (April 2023)
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
 [^24]: Multiple complaints (September 2023)
+[^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
+[^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
+[^27]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
