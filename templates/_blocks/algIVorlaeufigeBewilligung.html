@@ -1,3 +1,4 @@
+{% include '_js/letterUtils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/glossary.js' %}
@@ -12,20 +13,16 @@
 					fullName: '',
 					address: '',
 					agenturFurArbeitAddress: '',
-					caseWorkerGender: 'Other',
-					caseWorkerLastName: '',
+					recipientGender: 'man',
+					recipientFirstName: '',
+					recipientLastName: '',
 					caseNumber: '',
 					currentDate: new Date(),
 				};
 			},
-			computed: {
-				caseWorkerGenderEnglish() {
-					return {
-						'Frau': 'Mrs',
-						'Herr': 'Mr',
-						'Other': 'Sir or Madam',
-					}[this.caseWorkerGender];
-				}
+			methods: {
+				formatName,
+				formatSalutations,
 			}
 		})
 	);
@@ -42,11 +39,8 @@
 		</span>
 		<span class="letter-return-address" v-else></span>
 
-		<template v-if="language === 'en' && caseWorkerGender !== 'Other' && caseWorkerLastName">
-			{{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }}<br>
-		</template>
-		<template v-if="language === 'de' && caseWorkerGender !== 'Other' && caseWorkerLastName">
-			{{ caseWorkerGender }} {{ caseWorkerLastName }}<br>
+		<template v-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
+			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}<br>
 		</template>
 		<span v-html="agenturFurArbeitAddress.replaceAll('\n', '<br>')"></span>
 	</template>
@@ -72,22 +66,7 @@
 			<strong>Betreff: Antrag auf vorläufige Entscheidung (ALG I)</strong>
 		</p>
 
-		<template v-if="language === 'en'">
-			<p v-if="caseWorkerGender !== 'Other' && caseWorkerLastName">
-				Dear {{ caseWorkerGenderEnglish }} {{ caseWorkerLastName }},
-			</p>
-			<p v-if="(caseWorkerGender === 'Other' || !caseWorkerLastName )">
-				Dear Sir or Madam,
-			</p>
-		</template>
-		<template v-if="language === 'de'">
-			<p v-if="caseWorkerGender !== 'Other' && caseWorkerLastName">
-				Sehr {{ caseWorkerGender === 'Frau' ? 'geehrte Frau' : 'geehrter Herr' }} {{ caseWorkerLastName }},
-			</p>
-			<p v-if="(caseWorkerGender === 'Other' || !caseWorkerLastName )">
-				Sehr geehrte Damen und Herren,
-			</p>
-		</template>
+		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
 
 		<p v-if="language === 'en'">
 			Since the processing of my application requires more time, I hereby submit an application for a provisional decision in accordance with § 328 paragraph 1 sentence 3 SGB III, i.e. a provisional grant of unemployment benefits. The requirements for my unemployment benefits claim are met with sufficient probability. I am not responsible for the circumstances that still stand in the way of an immediate final decision.
@@ -145,15 +124,26 @@
 				</a>
 			</div>
 		</div>
-		<div class="form-group no-print">
-			<label>Case worker</label>
+		<div class="form-group no-print required">
+			<span class="label">Case worker</span>
 			<div class="input-group">
-				<select v-model="caseWorkerGender" class="anrede-input">
-					<option value="Frau">Madam</option>
-					<option value="Herr">Mister</option>
-					<option value="Other">Mr or Mrs</option>
+				<select v-model="recipientGender" autocomplete="honorific-prefix">
+					<option value="man">Mister</option>
+					<option value="woman">Madam</option>
+					<option value="other">Other</option>
 				</select>
-				<input type="text" v-model="caseWorkerLastName" placeholder="Müller">
+				<input type="text"
+					:name="uid('employer-first-name')"
+					v-model="recipientFirstName"
+					placeholder="First name"
+					autocomplete="off"
+					class="first-name-input">
+				<input type="text"
+					:name="uid('employer-last-name')"
+					v-model="recipientLastName"
+					placeholder="Last name"
+					autocomplete="off"
+					class="last-name-input">
 				<span class="input-instructions">
 					This is the employee who helps you at the <glossary>Agentur für Arbeit</glossary>.
 				</span>
