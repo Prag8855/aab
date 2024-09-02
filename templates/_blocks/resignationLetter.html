@@ -1,3 +1,4 @@
+{% include '_js/letterUtils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/letter-generator.js' %}
@@ -25,50 +26,13 @@
 				};
 			},
 			computed: {
-				recipientFullName() {
-					let displayGender = {
-						man: { en: 'Mr', de: 'Herr' },
-						woman: { en: 'Mrs', de: 'Frau' },
-						other: { en: '', de: '' },
-					}[this.recipientGender];
-
-					if(!this.recipientLastName){ // No "Dear Mr Firstname"
-						displayGender = '';
-					}
-					return {
-						en: [
-							displayGender.en, this.recipientFirstName, this.recipientLastName
-						].filter(Boolean).join(' '),
-						de: [
-							displayGender.de, this.recipientFirstName, this.recipientLastName
-						].filter(Boolean).join(' '),
-					};
-				},
-				salutations(){
-					if(!this.recipientLastName || (this.recipientGender === 'other' && !this.recipientFirstName)) {
-						return {
-							en: 'Dear Sir or Madam',
-							de: 'Sehr geehrte Damen und Herren'
-						};
-					}
-					return {
-						'man': {
-							en: `Dear Mr ${this.recipientLastName}`,
-							de: `Sehr geehrter Herr ${this.recipientLastName}`,
-						},
-						'woman': {
-							en: `Dear Mrs ${this.recipientLastName}`,
-							de: `Sehr geehrte Frau ${this.recipientLastName}`,
-						},
-						'other': {
-							en: `Dear ${this.recipientFirstName} ${this.recipientLastName}`,
-							de: `Sehr geehrte*r ${this.recipientFirstName} ${this.recipientLastName}`,
-						},
-					}[this.recipientGender];
-				},
 				hasRequestedAnyDocuments() {
 					return this.requestLetterOfReference || this.requestQualifiedLetterOfReference || this.requestVacationCertificate;
 				}
+			},
+			methods: {
+				formatName,
+				formatSalutations,
 			}
 		})
 	);
@@ -88,8 +52,8 @@
 		<template v-if="employerCompanyName">
 			{{ employerCompanyName }}<br>
 		</template>
-		<template v-if="recipientFullName[language]">
-			{{ recipientFullName[language] }}<br>
+		<template v-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
+			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}<br>
 		</template>
 		<span v-html="employerAddress.replaceAll('\n', '<br>')"></span>
 	</template>
@@ -117,7 +81,7 @@
 			<template v-if="employeeNumber"><br>Personalnummer: {{ employeeNumber }}</template>
 		</p>
 
-		<p>{{ salutations[language] }},</p>
+		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
 
 		<p v-if="language === 'en'">
 			I hereby terminate my employment contract with due notice as of the earliest possible date.
