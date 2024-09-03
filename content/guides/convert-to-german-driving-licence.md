@@ -47,7 +47,7 @@ When your driving licence becomes invalid, you can...
 
 You can convert **driving licences from any other country**. You can do this **anytime after you move to Germany**.[^7] I applied over 1 year after my *[[Anmeldung]]*.
 
-You can't always convert truck or motorcycle licences. It depends on the country it comes from. For example, you can't a Canadian motorcycle licence. This is not a problem with EU and [[EEA]] driving licences.
+You can't always convert truck or motorcycle licences. It depends on the country it comes from. For example, you can't convert a Canadian motorcycle licence. This is not a problem with EU and [[EEA]] driving licences.
 
 You can convert an expired EU or [[EEA]] driving licence.[^8] You can't convert an expired driving licence from other countries.[^6] You can't convert a temporary licence or a learner's permit.
 
