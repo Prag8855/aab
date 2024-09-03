@@ -441,13 +441,6 @@
 						documentExpirationDate: '',
 					})
 				},
-				dateFromString(str) {
-					if(str.match(/\d\d\d\d-\d\d-\d\d/)){
-						const [year, month, day] = str.split('-').map(n => parseInt(n, 10));
-						return new Date(year, month - 1, day);
-					}
-					return null;
-				},
 				formatDate,
 				mergeFields(fields){
 					return fields.filter(Boolean).join(', ')
