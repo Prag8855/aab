@@ -41,7 +41,7 @@ You can't use [hvv Switch](https://www.hvv-switch.de/en/) with foreign credit ca
 
 ### For tourists
 
-Tourists should **get a Deutschland Ticket from [deutschland-ticket.store](https://deutschland-ticket.store/autobus-oberbayern?lang=en)**. You can pay with foreign credit cards.[^4] It's the easiest option because it cancels automatically.[^5] Your ticket is a QR code. You can print it or show it in the [Bconn app](https://play.google.com/store/apps/details?id=de.bconn.wallet&hl=en_US). It might take time to process, so buy it in advance.[^1]
+Tourists should **get a Deutschland Ticket from [deutschland-ticket.store](https://deutschland-ticket.store/autobus-oberbayern?lang=en)**. You can pay with foreign credit cards.[^4] It's the easiest option because it cancels automatically.[^5] Your ticket is a QR code. You can see your ticket it in the [Bconn app](https://play.google.com/store/apps/details?id=de.bconn.wallet&hl=en_US). It might take time to process, so buy it in advance.[^1]
 
 **The other option is [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts credit cards and it's easy to cancel. Their app is only on the German app store, but you can use their web app instead. You can get a digital ticket in the app, or a printable ticket.
 
