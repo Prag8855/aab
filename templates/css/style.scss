@@ -1745,7 +1745,8 @@ input[type=range] {
 .input-instructions{
     font-size: var(--f-s);
     flex: 1 0 100%;
-    line-height: var(--line-height-labe);
+    line-height: var(--line-height-label);
+   	color: var(--c-text-light);
 
     summary:after{
         float: none;
