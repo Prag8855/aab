@@ -67,9 +67,10 @@ Your landlord can't ask for a *Kaution* and a *Mietbürgschaft*. It's one or the
 Your landlord holds your *Kaution* until...
 
 - Everything in the *[[Übergabeprotokoll]]* is repaired
-- The *[[Nebenkostenabrechnung]]* is ready, and you paid for the extra *[[Nebenkosten]]*
+- and you received the last *[[Betriebskostenabrechnung]]*
+- and you paid for any extra *[[Nebenkosten]]*
 
-Your landlord can't hold back more money than needed. They can't hold back your whole *Kaution* for a few small repairs. You should get part of your *Kaution* back now, and get the rest when the repairs are finished.[^10] For example, your landlord can't hold back a 3,000€ *Kaution* to repair a few holes in the wall.
+Your landlord can't hold back more money than needed. For example, they can't keep your whole deposit just for the last *[[Betriebskostenabrechnung]]*, or for a few small repairs. You should get part of your *Kaution* back now, and get the rest when the repairs are finished.[^10] For example, your landlord can't hold back a 3,000€ *Kaution* to repair a few holes in the wall.
 
 If everything is paid, your landlord must return your *Kaution* without waiting.[^25]
 
