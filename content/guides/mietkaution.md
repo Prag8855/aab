@@ -5,7 +5,7 @@ Description: Here's how you pay your apartment deposit (Mietkaution) in Germany,
 Date_created: 2018-06-19
 ---
 
-When you [move into an apartment](/guides/moving-in), you must pay a deposit (*Kaution*). If you break something in the apartment, your landlord uses your *Kaution* to pay for the repairs. If there is nothing to repair, you get your *Kaution* back when you [move out](/guides/moving-out).
+When you [move into an apartment](/guides/moving-in), you must pay a deposit (*Kaution*). If you break something in the apartment, your landlord uses your *Kaution* to pay for the repairs. You get your *Kaution* back after you [move out](/guides/moving-out).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -13,19 +13,19 @@ When you [move into an apartment](/guides/moving-in), you must pay a deposit (*K
 
 The maximum *[[Kaution]]* is **3 times your [cold rent](/glossary/Kaltmiete)**.[^2] Most landlords ask for the maximum *Kaution*.
 
-[Short-term rentals](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments) often have a smaller *Kaution*.[^13] Some [HousingAnywhere](/out/housinganywhere) and [Spotahome](/out/spotahome) apartments have no *Kaution*.
+[Short-term rentals](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments) often have a smaller *Kaution*.[^13] Some apartments from [HousingAnywhere](/out/housinganywhere) and [Spotahome](/out/spotahome) have no *Kaution*.
 
 ## When to pay the Kaution
 
 You can pay your *Kaution* in 3 parts:[^17]
 
 - 1/3 before your lease starts
-- 1/3 a month after your lease starts
-- 1/3 two months after your lease starts
+- 1/3 one month later
+- 1/3 two months later
 
-Your lease starts when you *can* [move in](/guides/moving-in), not when you sign the contract, and not when you actually move in.[^3]
+Your lease starts when you can [move in](/guides/moving-in), not when you sign your lease, and not when you actually move in.[^3]
 
-> **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, 1,000€ before February 1, and 1,000€ before March 1.
+> **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, then 1,000€ before February 1, then 1,000€ before March 1.
 
 Your landlord can't force you to...
 
@@ -41,7 +41,7 @@ Don't pay the *Kaution* before you see the apartment in person. There are many f
 
 Pay the *Kaution* **by [bank transfer](/glossary/SEPA-%C3%9Cberweisung)**. You can pay in cash, but it's not common. If you pay in cash, always ask for a payment receipt. If your landlord for another payment method, it might be a [scam](/guides/housing-scams).
 
-If you don't have a bank account in the [EU](/glossary/European%20Union), use [Wise](/out/wise) to transfer money from another country. I used it many times.
+If you don't have a bank account in the [EU](/glossary/European%20Union), use [Wise](/out/wise) to transfer money from another country. I have used it many times.
 
 ## If you don't have enough money
 
@@ -87,18 +87,18 @@ Your landlord can use your deposit to...
 - **Pay your debts**  
     For example if you leave without paying your rent or your *[[Nebenkosten]]*.[^9]
 - **Replace missing keys**  
-    If you lost some of your apartment keys. You only pay for the cost of replacement. The landlord might replace all the locks in the building, but [this is rarely necessary](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks), and you rarely have to pay for it.
+    If you lost some of your apartment keys. You only pay for the cost of replacing the keys. The landlord might replace all the locks in the building, but [this is rarely necessary](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks), and you rarely have to pay for it.
 
 Your landlord can't use your deposit to...
 
+- **Punish you**  
+    You only pay for the real cost of repairs. Your landlord can't make you pay a fine or a convenience fee.
 - **Repair normal wear and tear**[^8]  
     Walls, wallpapers, floors and furniture get old and wear out. There will be scratches and scuff marks. This is normal and expected. You do not have to pay for this. [You don't always need to repaint the apartment](/guides/moving-out#repaint-the-apartment).
 - **Repair damage that is not your fault**  
     You should not pay for damage that was already there when you [moved in](/guides/moving-in), or damage that you did not cause.[^14]
 - **Repair damage that is not in the [[Übergabeprotokoll]]**  
     If it's not in the *Übergabeprotokoll* you signed, don't pay for it.[^16] This is why you should always sign an *Übergabeprotokoll*.
-- **Punish you**  
-    You only pay for the real cost of repairs. Your landlord can't make you pay a fine or a convenience fee.
 
 **If you have [liability insurance](/glossary/Haftpflichtversicherung)**, it covers most of those repairs, so you can get your whole *Kaution* back.[^15] Everyone should [get liability insurance](/guides/haftpflichtversicherung). [Household insurance](/glossary/Hausratversicherung) covers damage to appliances. [Pet liability insurance](/glossary/Hundehaftpflichtversicherung) pays for damage caused by your cat or dog.
 
