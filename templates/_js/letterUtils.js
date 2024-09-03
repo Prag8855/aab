@@ -39,4 +39,15 @@ function formatSalutations(gender, firstName, lastName, language='en'){
 		},
 	}[gender][language];
 }
+
+function formatDate(date, locale){
+	if(date) {
+		return this.dateFromString(date).toLocaleDateString(locale, {
+			year: 'numeric',
+			month: 'numeric',
+			day: 'numeric',
+		});
+	}
+	return '';
+}
 {% endjs %}

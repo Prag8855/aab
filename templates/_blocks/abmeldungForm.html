@@ -261,6 +261,7 @@
 {% endraw %}
 </collapsible>
 {% include '_js/countries.js' %}
+{% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
@@ -347,23 +348,14 @@
 					}
 					return null;
 				},
-				formattedDate(date, locale) {
-					if(date) {
-						return this.dateFromString(date).toLocaleDateString(locale, {
-							year: 'numeric',
-							month: 'numeric',
-							day: 'numeric',
-						});
-					}
-					return '';
-				},
+				formatDate,
 				mergeFields(fields){
 					return fields.filter(Boolean).join(', ')
 				},
 				async generatePDF(person1, person2, person3){
 					this.downloadInProgress = true;
 					const textFields = {
-						'Tag des Auszugs': this.formattedDate(this.moveOutDate, 'de-DE'),
+						'Tag des Auszugs': this.formatDate(this.moveOutDate, 'de-DE'),
 						'Postleitzahl Gemeinde Ortsteil bisherige Wohnung': this.mergeFields([
 							this.oldPostCode,
 							'Berlin'
@@ -393,7 +385,7 @@
 						textFields['Person 1 Geburtsname'] = person1.birthName;
 						textFields['Person 1 Geschlecht'] = person1.gender;
 						textFields['Person 1 Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formattedDate(person1.dateOfBirth, 'de-DE'),
+							this.formatDate(person1.dateOfBirth, 'de-DE'),
 							person1.birthPlace
 						]);
 						textFields['Person 1 Religionsgesellschaft'] = person1.religion;
@@ -410,7 +402,7 @@
 						textFields['Person 2 Familienmitglied ist Geburtsname'] = person2.birthName;
 						textFields['Person 2 Familienmitglied istGeschlecht'] = person2.gender;
 						textFields['Person 2 Familienmitglied ist Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formattedDate(person2.dateOfBirth, 'de-DE'),
+							this.formatDate(person2.dateOfBirth, 'de-DE'),
 							person2.birthPlace
 						]);
 						textFields['Person 2 Familienmitglied ist Religionsgesellschaft'] = person2.religion;
@@ -427,7 +419,7 @@
 						textFields['Person 3 Familienmitglied ist Geburtsname'] = person3.birthName;
 						textFields['Person 3 Familienmitglied ist Geschlecht'] = person3.gender;
 						textFields['Person 3 Familienmitglied ist Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formattedDate(person3.dateOfBirth, 'de-DE'),
+							this.formatDate(person3.dateOfBirth, 'de-DE'),
 							person3.birthPlace
 						]);
 						textFields['Person 3 Familienmitglied ist Religionsgesellschaft'] = person3.religion;
