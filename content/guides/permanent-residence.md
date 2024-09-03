@@ -210,7 +210,7 @@ Citizenship is better than permanent residence because...
 - Your citizenship does not expire if you [leave Germany for over 6 months](#travel-as-a-permanent-resident)
 - You don't need a pension to qualify[^46]
 
-If your country does not allow dual citizenship, becoming a German citizen means losing your old citizenship. In this case, permanent residence might be a better option.
+If your country does not allow dual citizenship, becoming a German citizen means losing your old citizenship. In this case, permanent residence might be a better option. For example, China, India and Colombia don't allow dual citizenship.
 
 ### EU Permanent Residence
 
