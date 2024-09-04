@@ -50,7 +50,8 @@ function dateFromString(str) {
 
 function formatDate(date, locale){
 	if(date) {
-		return dateFromString(date).toLocaleDateString(locale, {
+		const dateObj = (date instanceof Date) ? date : dateFromString(date);
+		return dateObj.toLocaleDateString(locale, {
 			year: 'numeric',
 			month: 'numeric',
 			day: 'numeric',
