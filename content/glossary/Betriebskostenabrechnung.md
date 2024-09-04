@@ -15,4 +15,4 @@ The utilities bill (*Betriebskostenabrechnung* or *Nebenkostenabrechnung*) is ca
 
 You already pay the *estimated* utility costs (*[[Nebenkosten]]*) every month with the rent. If you used more than you paid for, you get an invoice. If you used less, you get money back.
 
-After you [move out of an apartment](/guides/moving-out), the landlord waits until the *Nebenkostenabrechnung* to [return your deposit](/guides/mietkaution#when-do-i-get-my-kaution-back) (*[[Kaution]]*).
+After you [move out of an apartment](/guides/moving-out), the landlord waits until the *Betriebskostenabrechnung* to [return your deposit](/guides/mietkaution#when-do-i-get-my-kaution-back) (*[[Kaution]]*).
