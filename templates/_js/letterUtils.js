@@ -1,5 +1,5 @@
 {% js %}
-function formatName(gender, firstName, lastName, language='en'){
+function formatName(gender, firstName, lastName, language='en', alwaysIncludeFirstName=true){
 	let displayGender = {
 		man: { en: 'Mr', de: 'Herr' },
 		woman: { en: 'Mrs', de: 'Frau' },
@@ -10,7 +10,7 @@ function formatName(gender, firstName, lastName, language='en'){
 		displayGender = '';
 	}
 
-	if(displayGender && lastName){
+	if(displayGender && lastName && !alwaysIncludeFirstName){
 		return [displayGender, lastName].join(' '); 
 	}
 

@@ -1746,11 +1746,13 @@ input[type=range] {
     font-size: var(--f-s);
     flex: 1 0 100%;
     line-height: var(--line-height-label);
-   	color: var(--c-text-light);
 
     summary:after{
         float: none;
     }
+}
+.input-instructions:not(a){
+	color: var(--c-text-light);
 }
 
 .date-picker{
