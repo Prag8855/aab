@@ -37,7 +37,6 @@
 			{{ fullName }}<template v-if="fullName && address">, </template>
 			{{ address.replaceAll('\n', ', ') }}
 		</span>
-		<span class="letter-return-address" v-else></span>
 
 		<template v-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}<br>
