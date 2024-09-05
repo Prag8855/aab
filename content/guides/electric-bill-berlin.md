@@ -21,7 +21,7 @@ In Germany, you get 2 power bills
 
 Your [warm rent](/glossary/Warmmiete) includes the *estimated* cost of utilities (*[[Nebenkosten]]*). Heating and hot water are usually included with your rent.
 
-Every year, your landlord calculates how much water and energy you really used, and sends you a bill (*[[Betriebskostenabrechnung]]*). If you paid too much *Nebenkosten*, you get money back. If you did not pay enough, you get an invoice.
+Every year, your landlord calculates how much water and energy you really used, and sends you a bill (*[[Nebenkostenabrechnung]]*). If you paid too much *Nebenkosten*, you get money back. If you did not pay enough, you get an invoice.
 
 If your apartment has a [tankless water heater](https://en.wikipedia.org/wiki/Tankless_water_heating) (*Durchlauferhitzer*), hot water is not included in your rent.[^3] Your *Nebenkosten* and warm rent are lower, but your electric bills are higher.
 

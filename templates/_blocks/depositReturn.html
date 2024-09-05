@@ -28,7 +28,7 @@
 					remainingKautionAmount: '',
 					bankAccountName: '',
 					bankAccountIBAN: '',
-					hasReceivedBetriebskostenabrechnung: true,
+					hasReceivedNebenkostenabrechnung: true,
 					hasReceivedPartOfKaution: false,
 
 					currentDate: new Date(),
@@ -100,10 +100,10 @@
 		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
 
 		<p v-if="language === 'en'">
-			Our tenancy for the apartment mentioned below has been terminated since <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'en-US') }}</blank>. The apartment has been vacated and properly handed over to you<template v-if="hasReceivedBetriebskostenabrechnung">, and there is no outstanding utility bill</template>.
+			Our tenancy for the apartment mentioned below has been terminated since <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'en-US') }}</blank>. The apartment has been vacated and properly handed over to you<template v-if="hasReceivedNebenkostenabrechnung">, and there is no outstanding utility bill</template>.
 		</p>
 		<p v-if="language === 'de'">
-			Unsere Mietverhältnis über das unter genannte Wohnung ist seit dem <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'de-DE') }}</blank> beendet und die Wohnung wurde geräumt und ordnungsgemäß an Sie herausgegeben<template v-if="hasReceivedBetriebskostenabrechnung">, und es gibt keine offenen Nebenkostenabrechnungen</template>.
+			Unsere Mietverhältnis über das unter genannte Wohnung ist seit dem <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'de-DE') }}</blank> beendet und die Wohnung wurde geräumt und ordnungsgemäß an Sie herausgegeben<template v-if="hasReceivedNebenkostenabrechnung">, und es gibt keine offenen Nebenkostenabrechnungen</template>.
 		</p>
 
 		<p v-if="language === 'en'">
@@ -117,10 +117,10 @@
 			Name des Mieters/der Mieterin: <blank placeholder="Full name" key="fullName">{{ fullName }}</blank>
 		</p>
 
-		<p v-if="language === 'en' && !hasReceivedBetriebskostenabrechnung && !hasReceivedPartOfKaution">
+		<p v-if="language === 'en' && !hasReceivedNebenkostenabrechnung && !hasReceivedPartOfKaution">
 			The outstanding utility bill does not entitle you to retain the entire deposit, but only an amount equivalent to the expected utility costs.
 		</p>
-		<p v-if="language === 'de' && !hasReceivedBetriebskostenabrechnung && !hasReceivedPartOfKaution">
+		<p v-if="language === 'de' && !hasReceivedNebenkostenabrechnung && !hasReceivedPartOfKaution">
 			Die ausstehende Nebenkostenabrechnung berechtigt nicht zur Einbehaltung der gesamten Kaution, sondern nur zur Einbehaltung eines Betrages in Höhe der zu erwartenden Nebenkosten.
 		</p>
 
@@ -246,13 +246,13 @@
 		<div class="form-group">
 			<span class="label">Utilities bill</span>
 			<label class="checkbox">
-				<input type="checkbox" v-model="hasReceivedBetriebskostenabrechnung">
+				<input type="checkbox" v-model="hasReceivedNebenkostenabrechnung">
 				<div>
-					I received the last <glossary>Betriebskostenabrechnung</glossary>
+					I received the last <glossary>Nebenkostenabrechnung</glossary>
 				</div>
 			</label>
 			<span class="input-instructions">
-				Landlords wait for the Betriebskostenabrechnung to return your deposit. This can take up to 12 months. They can only keep a part of your deposit for this.
+				Landlords wait for the Nebenkostenabrechnung to return your deposit. This can take up to 12 months. They can only keep a part of your deposit for this.&nbsp;&mdash;&nbsp;<a href="/guides/mietkaution#when-do-i-get-my-kaution-back" target="_blank">More information ➞</a>
 			</span>
 		</div>
 		<hr>
