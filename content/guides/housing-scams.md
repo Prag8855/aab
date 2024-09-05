@@ -125,9 +125,9 @@ In this scam, the landlord makes two rent contracts: one for the apartment, and 
 
 ### Landlord does not return the deposit
 
-After you [move out](/guides/moving-out), the landlord must return your [deposit](/glossary/Kaution). It can take up to 6 months.
+After you [move out](/guides/moving-out), the landlord must return your [deposit](/glossary/Kaution). It often takes up to 6 months. It can take up to 12 months.
 
-The landlord can only use your deposit to repair damage that you caused. It must pay for the exact cost of the damages. The landlord must give you an itemised invoice of the repairs. You can also do the repairs yourself. They can't use the deposit to punish you or fine you.
+The landlord can only use your deposit to repair damages that you caused. You must only pay for the exact cost of the damages. Your landlord can't use your deposit to punish you or fine you. They must give you an itemised invoice of the repairs that they did. You must have the option to make the repairs yourself.
 
 **[How to get your deposit back ➞](/guides/mietkaution#how-to-get-your-kaution-back)**
 

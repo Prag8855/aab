@@ -23,7 +23,7 @@ You can pay your *Kaution* in 3 parts:[^17]
 - 1/3 one month later
 - 1/3 two months later
 
-Your lease starts when you can [move in](/guides/moving-in), not when you sign your lease, and not when you actually move in.[^3]
+Your lease starts when you can [move in](/guides/moving-in), not when you sign your lease, and not when you actually move in.[^3] This is when you must pay the first 1/3 of your *Kaution*.
 
 > **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, then 1,000€ before February 1, then 1,000€ before March 1.
 
@@ -108,7 +108,9 @@ After you move out, the landlord has 6 months to find what must be repaired.[^12
 
 ### If your landlord won't return your Kaution
 
-If you don't get your deposit back, send a request by registered mail. Use [this template](https://kautionsfrei.de/assets/files/rueckzahlung-der-mietkaution_anschreiben-vorlage.pdf).
+If you don't get your deposit back, send a request by [registered mail](/glossary/Einschreibebrief). Use my letter generator for this.
+
+{% include "_blocks/depositReturn.html"%}
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 

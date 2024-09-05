@@ -9,7 +9,7 @@ Related_guides:
     guides/losing-your-job.md
     guides/unemployment-benefits.md
 Categories:
-    agentur_fuer_arbeit
+    employer
 ---
 
 To [quit your job](/guides/losing-your-job), you must give your employer a resignation letter. Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your resignation letter.
