@@ -295,10 +295,6 @@
 						documentExpirationDate: '',
 					})
 				},
-				formatDate,
-				mergeFields(fields){
-					return fields.filter(Boolean).join(', ')
-				},
 				personName(person, index){
 					if(person.firstName || person.lastName){
 						return [person.firstName, person.lastName].filter(Boolean).join(' ');

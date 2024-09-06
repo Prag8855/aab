@@ -441,10 +441,6 @@
 						documentExpirationDate: '',
 					})
 				},
-				formatDate,
-				mergeFields(fields){
-					return fields.filter(Boolean).join(', ')
-				},
 				personName(person, index){
 					if(person.firstName || person.lastName){
 						return [person.firstName, person.lastName].filter(Boolean).join(' ');
@@ -459,22 +455,22 @@
 
 					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
 					const textFields = {
-						'Tag des EinzugsRow1': this.formatDate(this.moveInDate, 'de-DE'),
-						'Tag des AuszugsRow1': this.formatDate(this.moveInDate, 'de-DE'),
-						'Straße Hausnummer ZusätzeRow1': this.mergeFields([
+						'Tag des EinzugsRow1': formatDate(this.moveInDate, 'de-DE'),
+						'Tag des AuszugsRow1': formatDate(this.moveInDate, 'de-DE'),
+						'Straße Hausnummer ZusätzeRow1': mergeFields([
 							this.newAddress,
 							this.newBuildingDetails,
 							beiAddress
 						]),
-						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([
+						'Postleitzahl Gemeinde OrtsteilRow1': mergeFields([
 							this.newPostCode,
 							'Berlin'
 						]),
-						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([
+						'Straße Hausnummer ZusätzeRow1_2': mergeFields([
 							this.oldAddress,
 							this.oldBuildingDetails
 						]),
-						'Postleitzahl GemeindeKreisLandRow1': this.mergeFields([
+						'Postleitzahl GemeindeKreisLandRow1': mergeFields([
 							this.oldPostCode,
 							this.oldCity,
 							oldStateName
@@ -489,15 +485,15 @@
 					};
 
 					if(person1){
-						textFields['Familienname ggf Doktorgrad Passname'] = this.mergeFields([
+						textFields['Familienname ggf Doktorgrad Passname'] = mergeFields([
 							person1.lastName,
 							person1.title
 						]);
 						textFields['Vornamen Rufnamen unterstreichen'] = person1.firstName;
 						textFields['Geburtsname'] = person1.birthName;
 						textFields['Geschlecht'] = person1.gender;
-						textFields['Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person1.dateOfBirth, 'de-DE'),
+						textFields['Tag Ort Land der Geburt'] = mergeFields([
+							formatDate(person1.dateOfBirth, 'de-DE'),
 							person1.birthPlace
 						]);
 						textFields['Religionsgesellschaft'] = person1.religion;
@@ -507,24 +503,24 @@
 						textFields['ArtRow1'] = person1.documentType;
 						textFields['AusstellungsbehördeRow1'] = person1.documentIssuingAuthority;
 						textFields['SeriennummerRow1'] = person1.documentNumber;
-						textFields['DatumRow1'] = this.formatDate(person1.documentIssueDate, 'de-DE');
-						textFields['gültig bisRow1'] = this.formatDate(person1.documentExpirationDate, 'de-DE');
-						textFields['Name Vorname'] = this.mergeFields([
+						textFields['DatumRow1'] = formatDate(person1.documentIssueDate, 'de-DE');
+						textFields['gültig bisRow1'] = formatDate(person1.documentExpirationDate, 'de-DE');
+						textFields['Name Vorname'] = mergeFields([
 							person1.lastName,
 							person1.firstName
 						]);
 					}
 
 					if(person2){
-						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = this.mergeFields([
+						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = mergeFields([
 							person2.lastName,
 							person2.title
 						]);
 						textFields['Familienmitglied istVornamen Rufnamen unterstreichen'] = person2.firstName;
 						textFields['Familienmitglied istGeburtsname'] = person2.birthName;
 						textFields['Familienmitglied istGeschlecht'] = person2.gender;
-						textFields['Familienmitglied istTag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person2.dateOfBirth, 'de-DE'),
+						textFields['Familienmitglied istTag Ort Land der Geburt'] = mergeFields([
+							formatDate(person2.dateOfBirth, 'de-DE'),
 							person2.birthPlace
 						]);
 						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
@@ -534,9 +530,9 @@
 						textFields['ArtRow1_2'] = person2.documentType;
 						textFields['AusstellungsbehördeRow1_2'] = person2.documentIssuingAuthority;
 						textFields['SeriennummerRow1_2'] = person2.documentNumber;
-						textFields['DatumRow1_2'] = this.formatDate(person2.documentIssueDate, 'de-DE');
-						textFields['gültig bisRow1_2'] = this.formatDate(person2.documentExpirationDate, 'de-DE');
-						textFields['Name Vorname_2'] = this.mergeFields([
+						textFields['DatumRow1_2'] = formatDate(person2.documentIssueDate, 'de-DE');
+						textFields['gültig bisRow1_2'] = formatDate(person2.documentExpirationDate, 'de-DE');
+						textFields['Name Vorname_2'] = mergeFields([
 							person2.lastName,
 							person2.firstName
 						]);
