@@ -2874,7 +2874,7 @@ details{
     }
 }
 
-:is(.anmeldung-form, .abmeldung-form){
+:is(.anmeldung-form, .abmeldung-form, .tax-id-form){
     overflow: hidden; // For the <progress> to appear under the rounded corner
 
     picture{

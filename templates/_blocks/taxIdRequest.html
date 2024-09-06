@@ -1,0 +1,420 @@
+<collapsible class="tax-id-form" {% if static|default %}static{% endif %} v-cloak>
+{% raw %}
+	<template v-slot:header>
+		<small>Fill the form online</small>
+		Request a new tax ID
+	</template>
+	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
+	<template v-if="stage === 'start'">
+		{% endraw %}{% image 'documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf', alt="German document preview", sizes="300px" %}{% raw %}
+		<p>This tool helps you request a new <glossary term="Steueridentifikationsnummer">tax ID</glossary>. You can save the completed form, print it, and send it to your local <glossary>Finanzamt</glossary>.</p>
+		<p>You automatically get a tax ID when you <glossary term="Anmeldung">register your address</glossary>. Only <strong>use this form if you can't register your address</strong>.</p>
+	</template>
+	<template v-if="stage === 'purpose'">
+		<h2>Why are you using this form?</h2>
+		<div class="form-group no-label">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="noAnmeldung">
+					I need a tax ID, but I can't register my address
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="abroad">
+					I need a tax ID, but I don't live in Germany
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="forgot">
+					I forgot my tax ID
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="business">
+					I need a tax number to start a business
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="other">
+					Something else
+				</label>
+			</div>
+		</div>
+	</template>
+	<template v-if="stage === 'address'">
+		<h2>Your address</h2>
+		<p>Where do you live? Enter the address where you want to receive your tax ID.</p>
+		<hr>
+		<div class="form-group required">
+			<label :for="uid('country')">Country</label>
+			<select ref="countryInput" v-model="country" :id="uid('country')" :aria-describedby="uid('country-instructions')" autocomplete="country-name" required>
+				<option v-for="country in recommendedCountries">{{ country }}</option>
+				<option disabled>──────────</option>
+				<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
+			</select>
+			<span v-if="country === 'Germany'" class="input-instructions">You get a tax ID when you register your address for the first time. You might not need to fill this form. &nbsp;&mdash;&nbsp;<a href="/guides/german-tax-id-steuernummer#how-to-get-your-tax-id" target="_blank">More information</a></span>
+		</div>
+		<div class="form-group required">
+			<label :for="uid('address')">Street address</label>
+			<input
+				:id="uid('address')"
+				type="text"
+				ref="addressInput"
+				v-model="address"
+				:placeholder="country === 'Germany' ? 'Berliner Str. 123' : '123 Maple Street, Apt. 102'"
+				autocomplete="address-line1"
+				required>
+		</div>
+		<div class="form-group required">
+			<label :for="uid('cityAndPostCode')">
+				City and post code
+			</label>
+			<input
+				:id="uid('cityAndPostCode')"
+				:placeholder="country === 'Germany' ? '10115 Berlin' : 'Montreal, Quebec, H3E 1J4'"
+				type="text"
+				v-model="cityAndPostCode"
+				autocomplete="address-level2" required>
+		</div>
+	</template>
+	<template v-if="stage === 'addPeople'">
+		<h2>Who needs a tax ID?</h2>
+		<p>You can request a tax ID for multiple people at the same time.</p>
+		<template v-for="(person, index) in people">
+			<hr>
+			<div class="form-group" v-if="person.showExtraFields">
+				<label :for="uid('title') + person.id">Title</label>
+				<input type="text"
+					:id="uid('title') + person.id"
+					v-model="person.title"
+					placeholder="Dr." 
+					class="anrede-input">
+			</div>
+			<div class="form-group required">
+				<label :for="uid('firstName-' + person.id)">First and last name</label>
+				<div class="input-group">
+					<input type="text"
+						:id="uid('firstName-' + person.id)"
+						v-model="person.firstName"
+						ref="firstNameInput"
+						placeholder="Alex"
+						autocomplete="given-name"
+						title="First name"
+						class="first-name-input"
+						required>
+					<input type="text"
+						v-model="person.lastName"
+						placeholder="Smith"
+						autocomplete="family-name"
+						title="Last name"
+						class="last-name-input"
+						required>
+					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
+				</div>
+			</div>
+			<div class="form-group" v-if="person.showExtraFields">
+				<label :for="uid('birthName-' + person.id)">Name at birth</label>
+				<input
+					type="text"
+					v-model="person.birthName"
+					:id="uid('birthName-' + person.id)"
+					:aria-describedby="uid('birthName-instructions-' + person.id)"
+					placeholder="Alex Gagnon">
+				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
+			</div>
+			<div class="form-group required">
+				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
+				<date-picker
+					:key="person.id"
+					:id="uid('dateOfBirth-' + person.id)"
+					v-model="person.dateOfBirth"
+					autocomplete="bday"
+					required></date-picker>
+			</div>
+			<div class="form-group required">
+				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
+				<input
+					type="text"
+					v-model="person.birthPlace"
+					:id="uid('birthPlace-' + person.id)"
+					:aria-describedby="uid('birthPlace-instructions-' + person.id)"
+					placeholder="Montreal, Quebec, Canada"
+					required>
+				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The city, region and country where you were born.</span>
+			</div>
+		</template>
+		<datalist :id="uid('countries')">
+			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
+		</datalist>
+	</template>
+	<template v-if="stage === 'beiAddress'">
+		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
+		<p>German apartments don't have door numbers. If your name is not on your mailbox, you will not receive your mail.</p>
+		<hr>
+		<div class="input-group vertical">
+			<label class="checkbox">
+				<input ref="namesAreOnMailboxCheckbox" v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our mailbox' : 'My name is on my mailbox' }}
+			</label>
+		</div>
+		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#if-your-name-is-not-on-your-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
+		<div class="form-group required" v-if="!namesAreOnMailbox">
+			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
+			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller" required>
+		</div>
+	</template>
+	<template v-if="stage === 'options'">
+		<h2>You are almost done!</h2>
+		<template v-if="peoplePairs.length > 1">
+			<p>Print these forms, sign them, and send them to your <em>Finanzamt</em>.</p>
+			<div class="collapsible-options">
+				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="(person, index) in people" @click="generatePDF(person)" :disabled="downloadInProgress">
+					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+					<div>
+						<h3 :id="uid('h-btnDownload') + index">Download the application form for {{ person1.firstName }}</h3>
+					</div>
+				</button>
+			</div>
+		</template>
+		<div class="collapsible-options">
+			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
+				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+				<div>
+					<h3 :id="uid('h-btnDownload')">Download your application form</h3>
+					<p>Print and sign this form, and send it to your local <em>Finanzamt</em>.</p>
+				</div>
+			</button>
+		</div>
+		<h3>What to do next</h3>
+		<div class="collapsible-options">
+			<a href="/out/finanzamt-finder" target="_blank">
+				{% endraw %}{% include "_css/icons/find-location.svg" %}{% raw %}
+				<div>
+					<h3>Find your Finanzamt</h3>
+					<p>You must send this form to your local Finanzamt.</p>
+				</div>
+			</a>
+			<a href="/guides/mail-a-letter" target="_blank">
+				{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
+				<div>
+					<h3>Mail your form and a copy of your passport</h3>
+					<p>Learn how to send your form and documents to the Finanzamt.</p>
+				</div>
+			</a>
+		</div>
+	</template>
+	<hr>
+	<div class="buttons">
+		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
+		<button
+			v-if="stageIndex > 0 && stageIndex < stages.length - 2"
+			class="button primary"
+			@click="nextStage">Continue <i class="icon right" aria-hidden="true"></i></button>
+		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="nextStage">Finish</button>
+	</div>
+{% endraw %}
+</collapsible>
+{% include '_js/countries.js' %}
+{% include '_js/germanStates.js' %}
+{% include '_js/letterUtils.js' %}
+{% include '_js/pdf.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/postalcode-input.js' %}
+{% include '_js/vue/preloadPDFMixin.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
+{% js %}
+	document.querySelectorAll('.tax-id-form').forEach(
+		el => new Vue({
+			el: el,
+			mixins: [uniqueIdsMixin, trackedStagesMixin, preloadPDFMixin],
+			data() {
+				return {
+					trackAs: 'Tax ID request form',
+
+					purpose: null,
+					address: '',
+					cityAndPostCode: '',
+					country: 'Germany',
+					people: [],
+					namesAreOnMailbox: true,
+					nameOnMailbox: '',
+
+					germanStates,
+					sortedCountryList: countries.getSortedList(),
+					recommendedCountries: new Set(
+						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
+					),
+					stages: [
+						'start',
+						'purpose',
+						'address',
+						'addPeople',
+						'beiAddress',
+						'options',
+					],
+					stageIndex: 0,
+					downloadInProgress: false,
+					pdfUrl: '/documents/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf',
+				};
+			},
+			computed: {
+				stage(){
+					return this.stages[this.stageIndex];
+				},
+				peoplePairs(){
+					// Split this.people in arrays of two people
+					return this.people
+						.slice(this.people.length/2)
+						.map((_,i) => this.people.slice(i*=2,i+2));
+				},
+			},
+			methods: {
+				nextStage(){
+					if(validateForm(this.$el)){
+						this.stageIndex += 1;
+					}
+				},
+				addPerson(){
+					this.people.push({
+						id: Math.floor(Math.random() * 10000),
+						title: '',
+						firstName: '',
+						lastName: '',
+						birthName: '',
+						nationality: '',
+						religion: '',
+						dateOfBirth: '',
+						gender: '',
+						birthPlace: '',
+						showExtraFields: false,
+						documentType: 'RP',
+						documentNumber: '',
+						documentIssueDate: '',
+						documentIssuingAuthority: '',
+						documentExpirationDate: '',
+					})
+				},
+				formatDate,
+				mergeFields(fields){
+					return fields.filter(Boolean).join(', ')
+				},
+				personName(person, index){
+					if(person.firstName || person.lastName){
+						return [person.firstName, person.lastName].filter(Boolean).join(' ');
+					}
+					return `person #${index}`;
+				},
+				async generatePDF(person1, person2){
+					this.downloadInProgress = true;
+					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
+					const textFields = {
+						'Straße Hausnummer ZusätzeRow1': this.mergeFields([
+							this.address,
+							beiAddress
+						]),
+						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([
+							this.postCode,
+							'Berlin'
+						]),
+						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([
+							this.oldAddress,
+						]),
+						'Bei Zuzug aus dem Ausland StaatRow1': this.country === 'Germany' ? '' : this.country,
+					};
+					const checkboxFields = {
+						'alleinige': true,
+						'alleinige_2': true,
+						'Nein': true,
+						'Nein_2': true,
+					};
+
+					if(person1){
+						textFields['Familienname ggf Doktorgrad Passname'] = this.mergeFields([
+							person1.lastName,
+							person1.title
+						]);
+						textFields['Vornamen Rufnamen unterstreichen'] = person1.firstName;
+						textFields['Geburtsname'] = person1.birthName;
+						textFields['Geschlecht'] = person1.gender;
+						textFields['Tag Ort Land der Geburt'] = this.mergeFields([
+							this.formatDate(person1.dateOfBirth, 'de-DE'),
+							person1.birthPlace
+						]);
+						textFields['Religionsgesellschaft'] = person1.religion;
+						textFields['Staatsangehörigkeiten'] = person1.nationality;
+						textFields['OrdensKünstlername'] = person1.artistName;
+
+						textFields['ArtRow1'] = person1.documentType;
+						textFields['AusstellungsbehördeRow1'] = person1.documentIssuingAuthority;
+						textFields['SeriennummerRow1'] = person1.documentNumber;
+						textFields['DatumRow1'] = this.formatDate(person1.documentIssueDate, 'de-DE');
+						textFields['gültig bisRow1'] = this.formatDate(person1.documentExpirationDate, 'de-DE');
+						textFields['Name Vorname'] = this.mergeFields([
+							person1.lastName,
+							person1.firstName
+						]);
+					}
+
+					if(person2){
+						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = this.mergeFields([
+							person2.lastName,
+							person2.title
+						]);
+						textFields['Familienmitglied istVornamen Rufnamen unterstreichen'] = person2.firstName;
+						textFields['Familienmitglied istGeburtsname'] = person2.birthName;
+						textFields['Familienmitglied istGeschlecht'] = person2.gender;
+						textFields['Familienmitglied istTag Ort Land der Geburt'] = this.mergeFields([
+							this.formatDate(person2.dateOfBirth, 'de-DE'),
+							person2.birthPlace
+						]);
+						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
+						textFields['Familienmitglied istStaatsangehörigkeiten'] = person2.nationality;
+						textFields['Familienmitglied istOrdensKünstlername'] = person2.artistName;
+
+						textFields['ArtRow1_2'] = person2.documentType;
+						textFields['AusstellungsbehördeRow1_2'] = person2.documentIssuingAuthority;
+						textFields['SeriennummerRow1_2'] = person2.documentNumber;
+						textFields['DatumRow1_2'] = this.formatDate(person2.documentIssueDate, 'de-DE');
+						textFields['gültig bisRow1_2'] = this.formatDate(person2.documentExpirationDate, 'de-DE');
+						textFields['Name Vorname_2'] = this.mergeFields([
+							person2.lastName,
+							person2.firstName
+						]);
+					}
+
+					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, 'anmeldung-form-filled.pdf', this.trackAs);
+					this.downloadInProgress = false;
+				}
+			},
+			watch: {
+				stageIndex(newStageIndex){
+					Vue.nextTick(() => {
+						const inputToFocus = {
+							start: () => this.$refs.startButton,
+							purpose: () => null,
+							address: () => this.$refs.addressInput,
+							addPeople: () => this.$refs.firstNameInput[0],
+							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
+							idDocuments: () => this.$refs.documentTypePassportCheckbox[0],
+							options: () => null,
+						}[this.stages[newStageIndex]]();
+
+						if(inputToFocus){
+							inputToFocus.focus();
+						}
+					});
+				},
+				postCode(newVal) {
+					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
+					try{
+						this.$refs.postCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
+					} catch (e) {}
+				},
+			},
+			created() {
+				this.addPerson();
+			}
+		})
+	);
+{% endjs %}
