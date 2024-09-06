@@ -103,7 +103,7 @@
 			Our tenancy for the apartment mentioned below has been terminated since <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'en-US') }}</blank>. The apartment has been vacated and properly handed over to you<template v-if="hasReceivedNebenkostenabrechnung">, and there is no outstanding utility bill</template>.
 		</p>
 		<p v-if="language === 'de'">
-			Unser Mietverhältnis über die unten genannte Wohnung ist seit dem <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'de-DE') }}</blank> beendet und die Wohnung wurde geräumt und ordnungsgemäß an Sie herausgegeben<template v-if="hasReceivedNebenkostenabrechnung">, und es gibt keine offenen Nebenkostenabrechnungen</template>.
+			Unser Mietverhältnis über die unten genannte Wohnung ist seit dem <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'de-DE') }}</blank> beendet und die Wohnung wurde geräumt und ordnungsgemäß an Sie übergeben<template v-if="hasReceivedNebenkostenabrechnung">, und es gibt keine offenen Nebenkostenabrechnungen</template>.
 		</p>
 
 		<p v-if="language === 'en'">
