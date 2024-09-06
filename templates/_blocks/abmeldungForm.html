@@ -416,7 +416,7 @@
 						textFields['Person 3 Familienmitglied ist OrdensKünstlername'] = person3.artistName;
 					}
 
-					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, 'abmeldung-form-filled.pdf', this.trackAs);
+					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, null, 'abmeldung-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
 				},
 			},

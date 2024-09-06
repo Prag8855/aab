@@ -72,20 +72,20 @@
 				v-model="cityAndPostCode"
 				autocomplete="address-level2" required>
 		</div>
+		<div class="form-group">
+			<label :for="uid('state')">
+				State
+			</label>
+			<select :id="uid('state')" v-model="germanState">
+				<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+			</select>
+		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
 		<h2>Who needs a tax ID?</h2>
 		<p>You can request a tax ID for multiple people at the same time.</p>
 		<template v-for="(person, index) in people">
 			<hr>
-			<div class="form-group" v-if="person.showExtraFields">
-				<label :for="uid('title') + person.id">Title</label>
-				<input type="text"
-					:id="uid('title') + person.id"
-					v-model="person.title"
-					placeholder="Dr." 
-					class="anrede-input">
-			</div>
 			<div class="form-group required">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
@@ -160,7 +160,7 @@
 	</template>
 	<template v-if="stage === 'options'">
 		<h2>You are almost done!</h2>
-		<template v-if="peoplePairs.length > 1">
+		<template v-if="people.length > 1">
 			<p>Print these forms, sign them, and send them to your <em>Finanzamt</em>.</p>
 			<div class="collapsible-options">
 				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="(person, index) in people" @click="generatePDF(person)" :disabled="downloadInProgress">
@@ -172,7 +172,7 @@
 			</div>
 		</template>
 		<div class="collapsible-options">
-			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
+			<button v-if="people.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
 					<h3 :id="uid('h-btnDownload')">Download your application form</h3>
@@ -235,6 +235,7 @@
 					purpose: null,
 					address: '',
 					cityAndPostCode: '',
+					germanState: '',
 					country: 'Germany',
 					people: [],
 					namesAreOnMailbox: true,
@@ -255,18 +256,14 @@
 					],
 					stageIndex: 0,
 					downloadInProgress: false,
-					pdfUrl: '/documents/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf',
+					pdfUrl: '/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf',
 				};
 			},
 			computed: {
 				stage(){
 					return this.stages[this.stageIndex];
 				},
-				peoplePairs(){
-					// Split this.people in arrays of two people
-					return this.people
-						.slice(this.people.length/2)
-						.map((_,i) => this.people.slice(i*=2,i+2));
+				isInGermany(){
 				},
 			},
 			methods: {
@@ -278,21 +275,12 @@
 				addPerson(){
 					this.people.push({
 						id: Math.floor(Math.random() * 10000),
-						title: '',
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						nationality: '',
-						religion: '',
 						dateOfBirth: '',
-						gender: '',
 						birthPlace: '',
 						showExtraFields: false,
-						documentType: 'RP',
-						documentNumber: '',
-						documentIssueDate: '',
-						documentIssuingAuthority: '',
-						documentExpirationDate: '',
 					})
 				},
 				personName(person, index){
@@ -301,85 +289,34 @@
 					}
 					return `person #${index}`;
 				},
-				async generatePDF(person1, person2){
+				async generatePDF(person){
 					this.downloadInProgress = true;
 					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
+
 					const textFields = {
-						'Straße Hausnummer ZusätzeRow1': this.mergeFields([
-							this.address,
-							beiAddress
+						lastName: mergeFields([
+							person.lastName,
+							person.birthName
 						]),
-						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([
-							this.postCode,
-							'Berlin'
-						]),
-						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([
-							this.oldAddress,
-						]),
-						'Bei Zuzug aus dem Ausland StaatRow1': this.country === 'Germany' ? '' : this.country,
+						firstName: person.firstName,
+						placeOfBirth: person.birthPlace,
+						foreignAddress1: 'Nicht zutreffend',
+						foreignAddress2: 'Nicht zutreffend',
+						germanAddress1: this.address,
+						germanAddress2: mergeFields([this.cityAndPostCode, germanStates[this.germanState].germanName]),
+						deliveryAddress: mergeFields([this.address, cityAndPostCode, this.country]),
+						dateOfBirthDay: person.dateOfBirth.substring(8, 10),
+						dateOfBirthMonth: person.dateOfBirth.substring(5, 7),
+						dateOfBirthYear: person.dateOfBirth.substring(0, 4),
 					};
 					const checkboxFields = {
-						'alleinige': true,
-						'alleinige_2': true,
-						'Nein': true,
-						'Nein_2': true,
+						purposeIsLohnsteuerabzug: true,
 					};
-
-					if(person1){
-						textFields['Familienname ggf Doktorgrad Passname'] = this.mergeFields([
-							person1.lastName,
-							person1.title
-						]);
-						textFields['Vornamen Rufnamen unterstreichen'] = person1.firstName;
-						textFields['Geburtsname'] = person1.birthName;
-						textFields['Geschlecht'] = person1.gender;
-						textFields['Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person1.dateOfBirth, 'de-DE'),
-							person1.birthPlace
-						]);
-						textFields['Religionsgesellschaft'] = person1.religion;
-						textFields['Staatsangehörigkeiten'] = person1.nationality;
-						textFields['OrdensKünstlername'] = person1.artistName;
-
-						textFields['ArtRow1'] = person1.documentType;
-						textFields['AusstellungsbehördeRow1'] = person1.documentIssuingAuthority;
-						textFields['SeriennummerRow1'] = person1.documentNumber;
-						textFields['DatumRow1'] = this.formatDate(person1.documentIssueDate, 'de-DE');
-						textFields['gültig bisRow1'] = this.formatDate(person1.documentExpirationDate, 'de-DE');
-						textFields['Name Vorname'] = this.mergeFields([
-							person1.lastName,
-							person1.firstName
-						]);
+					const radioFields = {
+						isInGermany: this.isInGermany ? 'Ja' : 'Nein',
 					}
 
-					if(person2){
-						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = this.mergeFields([
-							person2.lastName,
-							person2.title
-						]);
-						textFields['Familienmitglied istVornamen Rufnamen unterstreichen'] = person2.firstName;
-						textFields['Familienmitglied istGeburtsname'] = person2.birthName;
-						textFields['Familienmitglied istGeschlecht'] = person2.gender;
-						textFields['Familienmitglied istTag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person2.dateOfBirth, 'de-DE'),
-							person2.birthPlace
-						]);
-						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
-						textFields['Familienmitglied istStaatsangehörigkeiten'] = person2.nationality;
-						textFields['Familienmitglied istOrdensKünstlername'] = person2.artistName;
-
-						textFields['ArtRow1_2'] = person2.documentType;
-						textFields['AusstellungsbehördeRow1_2'] = person2.documentIssuingAuthority;
-						textFields['SeriennummerRow1_2'] = person2.documentNumber;
-						textFields['DatumRow1_2'] = this.formatDate(person2.documentIssueDate, 'de-DE');
-						textFields['gültig bisRow1_2'] = this.formatDate(person2.documentExpirationDate, 'de-DE');
-						textFields['Name Vorname_2'] = this.mergeFields([
-							person2.lastName,
-							person2.firstName
-						]);
-					}
-
-					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, 'anmeldung-form-filled.pdf', this.trackAs);
+					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, radioFields, 'tax-id-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
 				}
 			},
@@ -392,7 +329,6 @@
 							address: () => this.$refs.addressInput,
 							addPeople: () => this.$refs.firstNameInput[0],
 							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
-							idDocuments: () => this.$refs.documentTypePassportCheckbox[0],
 							options: () => null,
 						}[this.stages[newStageIndex]]();
 
@@ -400,12 +336,6 @@
 							inputToFocus.focus();
 						}
 					});
-				},
-				postCode(newVal) {
-					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
-					try{
-						this.$refs.postCodeInput.$el.setCustomValidity(postalCodeIsValid ? '' : 'This is not a valid Berlin post code.');
-					} catch (e) {}
 				},
 			},
 			created() {

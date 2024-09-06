@@ -2,7 +2,7 @@
 const _pdfPromises = {};
 
 const pdf = {
-	async fillAndSavePDF(pdfUrl, textFields, checkboxFields, outputFileName, trackAs) {
+	async fillAndSavePDF(pdfUrl, textFields, checkboxFields, radioFields, outputFileName, trackAs) {
 		await pdf.loadPDFLib();
 		const pdfDoc = await PDFLib.PDFDocument.load(await pdf.loadPDF(pdfUrl));
 		const pdfForm = pdfDoc.getForm();
@@ -29,6 +29,9 @@ const pdf = {
 			else {
 				pdfForm.getCheckBox(fieldName).uncheck(value);
 			}
+		});
+		Object.entries(radioFields || {}).forEach(([fieldName, value]) => {
+			pdfForm.getRadioGroup(fieldName).select(value);
 		});
 
 
