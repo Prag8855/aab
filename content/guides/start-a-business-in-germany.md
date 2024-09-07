@@ -175,7 +175,7 @@ Your [tax advisor](/glossary/Steuerberater) can register your business for you. 
 
 You might need a [residence permit](/glossary/Aufenthaltstitel) to be self-employed in Germany. It depends on your nationality. It takes around 3 months to get a residence permit, sometimes longer.
 
-[**Who needs a residence permit? ➞**](/guides/residence-permit)
+**[Who needs a residence permit? ➞](/guides/residence-permit)**
 
 **[How to apply for the German freelance visa ➞](/guides/freelance-visa)**
 
