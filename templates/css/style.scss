@@ -384,6 +384,9 @@ $width-main-column: 860px;
         box-shadow: none;
         color: var(--c-text-placeholder)!important;
         cursor: not-allowed;
+        * {
+        	color: var(--c-text-placeholder)!important;
+        }
     }
 
     &:not([disabled]){
