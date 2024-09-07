@@ -196,7 +196,7 @@
 				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="(person, index) in people" @click="generatePDF(person)" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
-						<h3 :id="uid('h-btnDownload') + index">Download the application form for {{ person1.firstName }}</h3>
+						<h3 :id="uid('h-btnDownload') + index">Download the application form for {{ person.firstName }}</h3>
 					</div>
 				</button>
 			</div>
