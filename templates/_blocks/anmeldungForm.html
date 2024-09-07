@@ -231,7 +231,7 @@
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#if-your-name-is-not-on-your-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
 		<div class="form-group required" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
-			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller" required>
+			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Max Mustermann" required>
 		</div>
 	</template>
 	<template v-if="stage === 'idDocuments'">
