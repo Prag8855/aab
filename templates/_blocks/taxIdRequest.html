@@ -320,20 +320,17 @@
 				},
 				async generatePDF(person){
 					this.downloadInProgress = true;
-					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
+					let beiAddress = this.namesAreOnMailbox ? '' : `(bei ${this.nameOnMailbox})`;
 
 					const textFields = {
 						lastName: mergeFields([
 							person.lastName,
-							person.birthName
+							person.birthName ? `(geb. ${person.birthName})` : null,
 						]),
 						firstName: person.firstName,
 						placeOfBirth: person.birthPlace,
-						foreignAddress1: 'Nicht zutreffend',
-						foreignAddress2: 'Nicht zutreffend',
-						germanAddress1: this.address,
-						germanAddress2: mergeFields([this.cityAndPostCode, germanStates[this.germanState].germanName]),
-						deliveryAddress: mergeFields([this.address, cityAndPostCode, this.country]),
+						deliveryName: [this.firstName, this.lastName, beiAddress].join(' '),
+						deliveryAddress: mergeFields([this.address, this.cityAndPostCode, this.country]),
 						dateOfBirthDay: person.dateOfBirth.substring(8, 10),
 						dateOfBirthMonth: person.dateOfBirth.substring(5, 7),
 						dateOfBirthYear: person.dateOfBirth.substring(0, 4),
@@ -343,11 +340,29 @@
 							other: 'Sonstiges',
 						}[this.purpose],
 					};
+
+					if(this.country === 'Germany'){
+						textFields.germanAddress1 = [this.address, beiAddress].join(' ');
+						textFields.germanAddress2 = mergeFields([
+							this.cityAndPostCode,
+							germanStates[this.germanState].germanName
+						]);
+						textFields.foreignAddress1 = 'Nicht zutreffend';
+						textFields.foreignAddress2 = 'Nicht zutreffend';
+					}
+					else {
+						textFields.germanAddress1 = 'Nicht zutreffend';
+						textFields.germanAddress2 = 'Nicht zutreffend';
+						textFields.foreignAddress1 = mergeFields([this.address, beiAddress]);
+						textFields.foreignAddress2 = mergeFields([this.cityAndPostCode, this.country]);
+					}
+
 					const checkboxFields = {
+						reasonIsEmployer: true,
 						purposeIsLohnsteuerabzug: true,
 					};
 					const radioFields = {
-						isInGermany: this.country === 'Germany',
+						isInGermany: this.country === 'Germany' ? 'Ja' : 'Nein',
 					}
 
 					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, radioFields, 'tax-id-form-filled.pdf', this.trackAs);
