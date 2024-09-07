@@ -28,7 +28,7 @@ You can also download the original form and fill it yourself. If you register mo
 
 {% include "_blocks/downloadDocuments.html"%}
 
-The original form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf).
+The same form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/anmeldung_bei_der_meldebehoerde.pdf).
 
 ## How to fill this form
 

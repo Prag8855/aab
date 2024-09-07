@@ -29,7 +29,7 @@ You can also download the original form and fill it yourself. If you deregister 
 
 {% include "_blocks/downloadDocuments.html"%}
 
-The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402609-20151120_abmeldung.pdf).
+The same form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402609-20151120_abmeldung.pdf).
 
 ## How to fill this form
 
