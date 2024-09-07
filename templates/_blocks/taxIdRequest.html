@@ -7,31 +7,31 @@
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
 		{% endraw %}{% image 'documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf', alt="German document preview", sizes="300px" %}{% raw %}
-		<p>This tool helps you request a new <glossary term="Steueridentifikationsnummer">tax ID</glossary>. You can save the completed form, print it, and send it to your local <glossary>Finanzamt</glossary>.</p>
-		<p>You automatically get a tax ID when you <glossary term="Anmeldung">register your address</glossary>. Only <strong>use this form if you can't register your address</strong>.</p>
+		<p>This tool helps you request a new <glossary term="Steueridentifikationsnummer">tax ID</glossary>.</p>
+		<p>You normally get a tax ID when you <glossary term="Anmeldung">register your address</glossary> for the first time. <strong>Only use this form if you can't register your address.</strong></p>
 	</template>
 	<template v-if="stage === 'purpose'">
-		<h2>What do you need?</h2>
+		<h2>What is your situation?</h2>
 		<div class="form-group no-label">
 			<div class="input-group vertical">
 				<label class="checkbox">
-					<input type="radio" v-model="purpose" :name="uid('purpose')" value="noAnmeldung">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="noAnmeldung" required>
 					I can't register my address, but I need a tax ID
 				</label>
 				<label class="checkbox">
-					<input type="radio" v-model="purpose" :name="uid('purpose')" value="abroad">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="abroad" required>
 					I don't live in Germany, but I need a tax ID
 				</label>
 				<label class="checkbox">
-					<input type="radio" v-model="purpose" :name="uid('purpose')" value="forgot">
-					I forgot my tax ID
-				</label>
-				<label class="checkbox">
-					<input type="radio" v-model="purpose" :name="uid('purpose')" value="business">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="business" required>
 					I have a business, and I need a tax number or a VAT number
 				</label>
 				<label class="checkbox">
-					<input type="radio" v-model="purpose" :name="uid('purpose')" value="other">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="forgot" required>
+					I forgot my tax ID
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="other" required>
 					Something else
 				</label>
 			</div>
@@ -102,11 +102,11 @@
 				v-model="cityAndPostCode"
 				autocomplete="address-level2" required>
 		</div>
-		<div class="form-group">
+		<div class="form-group required" v-if="country === 'Germany'">
 			<label :for="uid('state')">
 				State
 			</label>
-			<select :id="uid('state')" v-model="germanState">
+			<select :id="uid('state')" v-model="germanState" required>
 				<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
 			</select>
 		</div>
@@ -223,7 +223,7 @@
 				{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
 				<div>
 					<h3>Mail your form and a copy of your passport</h3>
-					<p>Learn how to send your form and documents to the Finanzamt.</p>
+					<p>Learn how to mail your documents to the Finanzamt.</p>
 				</div>
 			</a>
 		</div>
@@ -236,7 +236,7 @@
 		<button
 			v-if="stageIndex > 0 && stageIndex < stages.length - 2"
 			class="button primary"
-			:disabled="['business', 'forgot'].includes(purpose)"
+			:disabled="['business', 'forgot', 'other'].includes(purpose)"
 			@click="nextStage">Continue <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="nextStage">Finish</button>
 	</div>
