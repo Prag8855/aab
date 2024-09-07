@@ -37,27 +37,35 @@
 			</div>
 		</div>
 		<template v-if="purpose === 'business'">
+			<hr>
 			<p>
 				This form is not for you. The <glossary term="Steueridentifikationsnummer">tax ID</glossary>, the <glossary term="Steuernummer">tax number</glossary> and the <glossary term="Umsatzsteuernummer">VAT number</glossary> are different things.
 			</p>
 			<p>
-				<strong><a href="/guides/german-tax-id-steuernummer#how-to-get-a-steuernummer" target="_blank">How to get a tax number ➞</a></strong>
+				<strong><a class="internal-link" href="/guides/german-tax-id-steuernummer#how-to-get-a-steuernummer" target="_blank">How to get a tax number</a></strong>
 			</p>
 			<p>
-				<strong><a href="/guides/german-tax-id-steuernummer#how-to-get-a-german-vat-number" target="_blank">How to get a VAT number ➞</a></strong>
+				<strong><a class="internal-link" href="/guides/german-tax-id-steuernummer#how-to-get-a-german-vat-number" target="_blank">How to get a VAT number</a></strong>
 			</p>
 		</template>
 		<template v-if="purpose === 'forgot'">
+			<hr>
 			<p>
 				If you already have a tax ID, this form is not for you.
 			</p>
 			<p>
-				<strong><a href="/guides/german-tax-id-steuernummer#where-to-find-your-tax-id" target="_blank">How to find your tax ID ➞</a></strong>
+				<strong><a class="internal-link" href="/guides/german-tax-id-steuernummer#where-to-find-your-tax-id" target="_blank">How to find your tax ID</a></strong>
 			</p>
 		</template>
-		<p v-if="purpose === 'other'">
-			This form is to request a new <glossary term="Steueridentifikationsnummer">tax ID</glossary>. You usually get a tax ID when you <glossary term="Anmeldung">register your address</glossary>. Only use this form if you can't register your address.
-		</p>
+		<template v-if="purpose === 'other'">
+			<hr>
+			<p>
+				You probably don't need this tool to get a tax ID. You normally get a tax ID when you <glossary term="Anmeldung">register your address</glossary> for the first time.
+			</p>
+			<p>
+				<strong><a class="internal-link" href="/guides/german-tax-id-steuernummer#how-to-get-your-tax-id" target="_blank">How to get a tax ID</a></strong>
+			</p>
+		</template>
 	</template>
 	<template v-if="stage === 'address'">
 		<h2>Your address</h2>

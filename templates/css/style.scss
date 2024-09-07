@@ -1115,7 +1115,7 @@ sup:target a{
         cursor: help;
     }
 
-    .arrow-link{
+    .internal-link, .external-link, .section-link{
         padding-right: calc(var(--xs) + var(--w-icon-s));
 
         &::after{
@@ -1127,9 +1127,9 @@ sup:target a{
             mask-repeat: no-repeat;
             mask-size: cover;
             background-color:currentColor;
-            vertical-align: center;
+            vertical-align: middle;
 
-            position: absolute;
+            // position: absolute; // Prevents line wrap before arrow, but breaks vertical alignment with --line-height-label
             margin-left:var(--s);
             margin-top: 1px;
             transition: transform 0.2s;

@@ -28,7 +28,7 @@ class ArrowLinkIconProcessor(Treeprocessor):
                         else:
                             link_class = 'section-link after'
 
-                    el.attrib['class'] = el.attrib.get('class', '') + ' arrow-link ' + link_class
+                    el.attrib['class'] = el.attrib.get('class', '') + ' ' + link_class
         return root
 
 

@@ -137,7 +137,7 @@
 				<details class="requirements" :class="{error: hasRequirementsError(account)}" v-if="account.bank.requirements">
 					<summary>Required documents</summary>
 					<p v-html="account.bank.requirements"></p>
-					<p v-if="account.bank.requirementsUrl"><strong><a :href="account.bank.requirementsUrl" target="_blank">Read more ➞</a></strong></p>
+					<p v-if="account.bank.requirementsUrl"><strong><a class="external-link" :href="account.bank.requirementsUrl" target="_blank">Read more</a></strong></p>
 				</details>
 			</div>
 		</li>
