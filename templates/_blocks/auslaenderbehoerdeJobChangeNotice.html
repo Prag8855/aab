@@ -1,10 +1,12 @@
 {% include '_js/countries.js' %}
+{% include '_js/germanCountries.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/blank.js' %}
+{% include '_js/vue/country-input.js' %}
+{% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/letter-generator.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.auslaenderbehoerde-job-change').forEach(
 		el => new Vue({
@@ -22,7 +24,6 @@
 					customRecipientAddress: '',
 					currentDate: new Date(),
 					lastDayOfWork: '',
-					sortedCountryList: countries.getSortedList(),
 				};
 			},
 			computed: {
@@ -76,7 +77,7 @@
 				Dear Sir or Madam,
 			</p>
 			<p>
-				My name is <blank placeholder="Name">{{ fullName }}</blank>. I am a citizen of <blank placeholder="Country">{{ nationality }}</blank>. I was born on <blank placeholder="Date of birth">{{ formatDate(dateOfBirth, 'en-US') }}</blank> in <blank placeholder="Birthplace">{{ placeOfBirth }}</blank>.
+				My name is <blank placeholder="Name">{{ fullName }}</blank>. I am a citizen of <blank placeholder="Country">{{ countries.all[nationality] }}</blank>. I was born on <blank placeholder="Date of birth">{{ formatDate(dateOfBirth, 'en-US') }}</blank> in <blank placeholder="Birthplace">{{ placeOfBirth }}</blank>.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				I am writing to inform the Ausländerbehörde that I have quit my job.
@@ -110,7 +111,7 @@
 				Sehr geehrte Damen und Herren,
 			</p>
 			<p>
-				Mein Name ist <blank placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank placeholder="Land">{{ nationality }}</blank>. Ich wurde am <blank placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
+				Mein Name ist <blank placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank placeholder="Land">{{ germanCountries.all[nationality] }}</blank>. Ich wurde am <blank placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				Ich schreibe, um die Ausländerbehörde darüber zu informieren, dass ich meinen Job gekündigt habe.
@@ -198,17 +199,13 @@
 			</div>
 		</div>
 		<div class="form-group">
-			<label :for="uid('nationality')">
-				Nationality
-			</label>
-			<input type="text"
-				placeholder="Canada"
+			<label :for="uid('nationality')">Nationality</label>
+			<country-input
+				country-code
+				v-model="nationality"
 				:id="uid('nationality')"
-				:list="uid('countries')"
-				v-model="nationality">
-			<datalist :id="uid('countries')">
-				<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-			</datalist>
+				:aria-describedby="uid('oldCountry-instructions')"
+				required></country-input>
 		</div>
 		<hr>
 		<div class="form-group no-print">
