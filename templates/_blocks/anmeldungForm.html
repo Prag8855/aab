@@ -173,13 +173,11 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
-				<input type="text"
-				  placeholder="Canada"
-				  autofill="country-name"
-				  :id="uid('nationality-' + person.id)"
-				  :list="uid('countries')"
-				  v-model="person.nationality"
-				  required>
+				<country-input
+					v-model="person.nationality"
+					ref="oldAddressCountryInput"
+					:id="uid('nationality-' + person.id)"
+					required></country-input>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>

@@ -79,12 +79,12 @@
 		</div>
 		<div class="form-group required">
 			<label :for="uid('newCountry')">Country</label>
-			<select ref="newCountryInput" v-model="newCountry" :id="uid('newCountry')" :aria-describedby="uid('newCountry-instructions')" autocomplete="country-name" required>
-				<option v-if="country !== 'Germany'" v-for="country in recommendedCountries">{{ country }}</option>
-				<option disabled>──────────</option>
-				<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
-			</select>
-			<span v-if="newCountry === 'Germany'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="https://allaboutberlin.com/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
+			<country-input
+				v-model="newCountry"
+				ref="newCountryInput"
+				:id="uid('newCountry')"
+				required></country-input>
+			<span v-if="newCountry === 'Germany'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
 		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
@@ -155,13 +155,10 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
-				<input type="text"
-				 	placeholder="Canada"
-				 	autofill="country-name"
-				 	:id="uid('nationality-' + person.id)"
-				 	:list="uid('countries')"
-				 	v-model="person.nationality"
-				 	required>
+				<country-input
+					v-model="person.nationality"
+					:id="uid('nationality-' + person.id)"
+					required></country-input>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>
@@ -195,9 +192,6 @@
 					required>
 			</div>
 		</template>
-		<datalist :id="uid('countries')">
-			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-		</datalist>
 	</template>
 	<template v-if="stage === 'offlineFinish'">
 		<h2>You are almost done!</h2>
@@ -261,11 +255,11 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/countries.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
@@ -292,10 +286,6 @@
 					people: [],
 					userId: 'allaboutberlin-' + Math.floor(Math.random() * 1000000).toString(36),
 
-					sortedCountryList: countries.getSortedList(),
-					recommendedCountries: new Set(
-						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
-					),
 					stages: [
 						'start',
 						'oldAddress',

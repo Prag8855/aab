@@ -45,4 +45,4 @@ def test_data_germany(page):
 
     next_step(page)
 
-    expect(page.locator('.abmeldung-form')).not_to_have_class(re.compile(r'.*show-errors.*'))
+    expect(page.locator('.abmeldung-form')).to_have_class(re.compile(r'.*show-errors.*'))

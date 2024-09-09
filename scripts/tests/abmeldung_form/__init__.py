@@ -54,7 +54,7 @@ def fill_person(page, index=0):
     page.get_by_text(person['gender'], exact=True).nth(index).set_checked(True)
 
     page.get_by_label("Place of birth").nth(index).fill(person['birth_place'])
-    page.get_by_label("Nationality").nth(index).fill(person['nationality'])
+    page.get_by_label("Nationality").nth(index).select_option(person['nationality'])
     page.get_by_label("Religion").nth(index).select_option(person['religion'][0])
 
     year, month, day = person['birth_date']
