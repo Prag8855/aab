@@ -59,15 +59,16 @@
 		<div class="form-group required">
 			<label :for="uid('oldCountry')">Country</label>
 			<country-input
+				country-code
 				v-model="oldCountry"
 				ref="oldAddressCountryInput"
 				:id="uid('oldCountry')"
 				placeholder="Country of your previous address"
 				:aria-describedby="uid('oldCountry-instructions')"
 				required></country-input>
-			<span v-if="oldCountry && oldCountry !== 'Germany'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
+			<span v-if="oldCountry && oldCountry !== 'DE'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
 		</div>
-		<template v-if="oldCountry === 'Germany'">
+		<template v-if="oldCountry === 'DE'">
 			<div class="form-group required">
 				<label :for="uid('oldAddress')">Street address</label>
 				<input
@@ -174,6 +175,7 @@
 			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
 				<country-input
+					country-code
 					v-model="person.nationality"
 					ref="oldAddressCountryInput"
 					:id="uid('nationality-' + person.id)"
@@ -215,9 +217,6 @@
 				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The city, region and country where you were born.</span>
 			</div>
 		</template>
-		<datalist :id="uid('countries')">
-			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-		</datalist>
 	</template>
 	<template v-if="stage === 'beiAddress'">
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
@@ -350,6 +349,7 @@
 {% endraw %}
 </collapsible>
 {% include '_js/countries.js' %}
+{% include '_js/germanCountries.js' %}
 {% include '_js/germanStates.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
@@ -387,7 +387,6 @@
 					nameOnMailbox: '',
 
 					germanStates,
-					sortedCountryList: countries.getSortedList(),
 					stages: [
 						'start',
 						'newAddress',
@@ -473,7 +472,7 @@
 							this.oldCity,
 							oldStateName
 						]),
-						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'Germany' ? '' : this.oldCountry,
+						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'DE' ? '' : germanCountries.all[this.oldCountry],
 					};
 					const checkboxFields = {
 						'alleinige': true,
@@ -495,7 +494,7 @@
 							person1.birthPlace
 						]);
 						textFields['Religionsgesellschaft'] = person1.religion;
-						textFields['Staatsangehörigkeiten'] = person1.nationality;
+						textFields['Staatsangehörigkeiten'] = germanCountries.all[person1.nationality];
 						textFields['OrdensKünstlername'] = person1.artistName;
 
 						textFields['ArtRow1'] = person1.documentType;
@@ -522,7 +521,7 @@
 							person2.birthPlace
 						]);
 						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
-						textFields['Familienmitglied istStaatsangehörigkeiten'] = person2.nationality;
+						textFields['Familienmitglied istStaatsangehörigkeiten'] = germanCountries.all[person2.nationality];
 						textFields['Familienmitglied istOrdensKünstlername'] = person2.artistName;
 
 						textFields['ArtRow1_2'] = person2.documentType;
