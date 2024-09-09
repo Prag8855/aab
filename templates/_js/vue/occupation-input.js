@@ -3,7 +3,7 @@
 Vue.component('occupation-input', {
   props: ['value'],
   template: `
-	<select class="select" :value="value" v-on:input="$emit('input', $event.target.value)">
+	<select :value="value" v-on:input="$emit('input', $event.target.value)">
 		<optgroup label="Employee">
 			<option value="employee">Employee</option>
 			<option value="azubi">Apprentice (Azubi)</option>
