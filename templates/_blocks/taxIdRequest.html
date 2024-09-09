@@ -97,7 +97,7 @@
 			</label>
 			<input
 				:id="uid('cityAndPostCode')"
-				:placeholder="country === 'Germany' ? '10115 Berlin' : 'Montreal, Quebec, H3E 1J4'"
+				:placeholder="country === 'Germany' ? 'Berlin 10115' : 'Montreal, Quebec, H3E 1J4'"
 				type="text"
 				v-model="cityAndPostCode"
 				autocomplete="address-level2" required>
@@ -107,7 +107,9 @@
 				State
 			</label>
 			<select :id="uid('state')" v-model="germanState" required>
-				<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
+				<option value="Berlin">Berlin</option>
+				<option disabled>──────────</option>
+				<option v-for="(state, abbr) in germanStates" :key="abbr" :value="state.germanName" v-if="!abbr.startsWith('be-')">{{ state.germanName }}</option>
 			</select>
 		</div>
 	</template>
@@ -345,7 +347,7 @@
 						textFields.germanAddress1 = [this.address, beiAddress].join(' ');
 						textFields.germanAddress2 = mergeFields([
 							this.cityAndPostCode,
-							germanStates[this.germanState].germanName
+							germanState
 						]);
 						textFields.foreignAddress1 = 'Nicht zutreffend';
 						textFields.foreignAddress2 = 'Nicht zutreffend';
