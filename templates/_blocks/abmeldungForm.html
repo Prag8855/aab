@@ -80,11 +80,12 @@
 		<div class="form-group required">
 			<label :for="uid('newCountry')">Country</label>
 			<country-input
+				country-code
 				v-model="newCountry"
 				ref="newCountryInput"
 				:id="uid('newCountry')"
 				required></country-input>
-			<span v-if="newCountry === 'Germany'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
+			<span v-if="newCountry === 'DE'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
 		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
@@ -156,6 +157,7 @@
 			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
 				<country-input
+					country-code
 					v-model="person.nationality"
 					:id="uid('nationality-' + person.id)"
 					required></country-input>
@@ -255,6 +257,7 @@
 	</div>
 {% endraw %}
 </collapsible>
+{% include '_js/germanCountries.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
@@ -346,7 +349,7 @@
 						]),
 						'Postleitzahl Gemeinde Kreis Land (falls Ausland: Staat) künftige Wohnung': mergeFields([
 							this.newCityAndPostCode,
-							this.newCountry
+							germanCountries.all[this.newCountry]
 						]),
 						'Straße Hausnummer Zusätze künftige Wohnung': this.newAddress,
 					};
@@ -369,7 +372,7 @@
 							person1.birthPlace
 						]);
 						textFields['Person 1 Religionsgesellschaft'] = person1.religion;
-						textFields['Person 1 Staatsangehörigkeiten'] = person1.nationality;
+						textFields['Person 1 Staatsangehörigkeiten'] = germanCountries.all[person1.nationality];
 						textFields['Person 1 Ordens- Künstlername'] = person1.artistName;
 					}
 
@@ -386,7 +389,7 @@
 							person2.birthPlace
 						]);
 						textFields['Person 2 Familienmitglied ist Religionsgesellschaft'] = person2.religion;
-						textFields['Person 2 Familienmitglied ist Staatsangehörigkeiten'] = person2.nationality;
+						textFields['Person 2 Familienmitglied ist Staatsangehörigkeiten'] = germanCountries.all[person2.nationality];
 						textFields['Person 2 Familienmitglied ist Ordens- Künstlername'] = person2.artistName;
 					}
 
@@ -403,7 +406,7 @@
 							person3.birthPlace
 						]);
 						textFields['Person 3 Familienmitglied ist Religionsgesellschaft'] = person3.religion;
-						textFields['Person 3 Familienmitglied istStaatsangehörigkeiten'] = person3.nationality;
+						textFields['Person 3 Familienmitglied istStaatsangehörigkeiten'] = germanCountries.all[person3.nationality];
 						textFields['Person 3 Familienmitglied ist OrdensKünstlername'] = person3.artistName;
 					}
 
@@ -435,7 +438,7 @@
 				},
 				newCountry(newVal) {
 					try{
-						this.$refs.newCountryInput.$el.setCustomValidity(newVal === 'Germany' ? "You probably don't need to deregister." : '');
+						this.$refs.newCountryInput.$el.setCustomValidity(newVal === 'DE' ? "You probably don't need to deregister." : '');
 					} catch (e) {}
 				},
 			},
