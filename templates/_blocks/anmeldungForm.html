@@ -58,12 +58,13 @@
 		<hr>
 		<div class="form-group required">
 			<label :for="uid('oldCountry')">Country</label>
-			<select ref="oldAddressCountryInput" v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name" required>
-				<option disabled hidden default value="">Country of your previous address</option>
-				<option :value="country" v-for="country in recommendedCountries" :key="country">{{ country }}</option>
-				<option disabled>──────────</option>
-				<option :value="country[1]" v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
-			</select>
+			<country-input
+				v-model="oldCountry"
+				ref="oldAddressCountryInput"
+				:id="uid('oldCountry')"
+				placeholder="Country of your previous address"
+				:aria-describedby="uid('oldCountry-instructions')"
+				required></country-input>
 			<span v-if="oldCountry && oldCountry !== 'Germany'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
 		</div>
 		<template v-if="oldCountry === 'Germany'">
@@ -356,6 +357,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/city-input.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
@@ -387,9 +389,6 @@
 
 					germanStates,
 					sortedCountryList: countries.getSortedList(),
-					recommendedCountries: new Set(
-						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
-					),
 					stages: [
 						'start',
 						'newAddress',
@@ -548,7 +547,7 @@
 						const inputToFocus = {
 							start: () => this.$refs.startButton,
 							newAddress: () => this.$refs.newAddressInput,
-							oldAddress: () => this.$refs.oldAddressCountryInput,
+							oldAddress: () => this.$refs.oldAddressCountryInput.$el,
 							addPeople: () => this.$refs.firstNameInput[0],
 							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
 							idDocuments: () => this.$refs.documentTypePassportCheckbox[0],

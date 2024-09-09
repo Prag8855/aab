@@ -71,14 +71,9 @@
 		<h2>Your address</h2>
 		<p>Where do you live? Enter the address where you want to receive your tax ID.</p>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group required" v-if="purpose !== 'noAnmeldung'">
 			<label :for="uid('country')">Country</label>
-			<select ref="countryInput" v-model="country" :id="uid('country')" :aria-describedby="uid('country-instructions')" autocomplete="country-name" required>
-				<option v-for="country in recommendedCountries">{{ country }}</option>
-				<option disabled>──────────</option>
-				<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
-			</select>
-			<span v-if="country === 'Germany'" class="input-instructions">You get a tax ID when you register your address for the first time. You might not need to fill this form. &nbsp;&mdash;&nbsp;<a href="/guides/german-tax-id-steuernummer#how-to-get-your-tax-id" target="_blank">More information</a></span>
+			<country-input v-model="country" :id="uid('country')" exclude-germany required></country-input>
 		</div>
 		<div class="form-group required">
 			<label :for="uid('address')">Street address</label>
@@ -171,9 +166,6 @@
 				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The city, region and country where you were born.</span>
 			</div>
 		</template>
-		<datalist :id="uid('countries')">
-			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-		</datalist>
 	</template>
 	<template v-if="stage === 'beiAddress'">
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
@@ -188,6 +180,27 @@
 		<div class="form-group required" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
 			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Max Mustermann" required>
+		</div>
+	</template>
+	<template v-if="stage === 'beiAddress'">
+		<h2>Where do you want to receive your tax ID?</h2>
+		<p>The Finanzamt can send your tax ID to you or to your employer.</p>
+		<hr>
+		<div class="form-group no-label">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="noAnmeldung" required>
+					Send it to my employer
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="abroad" required>
+					Send it to my German address
+				</label>
+				<label class="checkbox">
+					<input type="radio" v-model="purpose" :name="uid('purpose')" value="business" required>
+					Send it to my foreign address
+				</label>
+			</div>
 		</div>
 	</template>
 	<template v-if="stage === 'options'">
@@ -250,6 +263,7 @@
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
@@ -269,16 +283,12 @@
 					address: '',
 					cityAndPostCode: '',
 					germanState: '',
-					country: 'Germany',
+					country: '',
 					people: [],
 					namesAreOnMailbox: true,
 					nameOnMailbox: '',
 
 					germanStates,
-					sortedCountryList: countries.getSortedList(),
-					recommendedCountries: new Set(
-						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
-					),
 					stages: [
 						'start',
 						'purpose',
@@ -331,15 +341,14 @@
 						]),
 						firstName: person.firstName,
 						placeOfBirth: person.birthPlace,
-						deliveryName: [this.firstName, this.lastName, beiAddress].join(' '),
+						deliveryName: [person.firstName, person.lastName, beiAddress].join(' '),
 						deliveryAddress: mergeFields([this.address, this.cityAndPostCode, this.country]),
-						dateOfBirthDay: person.dateOfBirth.substring(8, 10),
-						dateOfBirthMonth: person.dateOfBirth.substring(5, 7),
+						dateOfBirthDay: person.dateOfBirth.substring(8, 10).split('').join(' '), // A space between characters align them with the form field
+						dateOfBirthMonth: person.dateOfBirth.substring(5, 7).split('').join(' '),
 						dateOfBirthYear: person.dateOfBirth.substring(0, 4),
 						reasonForIssuance: {
-							noAnmeldung: 'Neu in Deutschland. Anmeldung zurzeit nicht möglich.',
+							noAnmeldung: 'Kürzlich nach Deutschland gezogen. Wohnsitzanmeldung derzeit nicht möglich.',
 							abroad: 'Grenzarbeiter. Kein Wohnsitz in Deutschland.',
-							other: 'Sonstiges',
 						}[this.purpose],
 					};
 
@@ -353,10 +362,10 @@
 						textFields.foreignAddress2 = 'Nicht zutreffend';
 					}
 					else {
+						textFields.foreignAddress1 = [this.address, beiAddress].join(' ');
+						textFields.foreignAddress2 = mergeFields([this.cityAndPostCode, this.country]);
 						textFields.germanAddress1 = 'Nicht zutreffend';
 						textFields.germanAddress2 = 'Nicht zutreffend';
-						textFields.foreignAddress1 = mergeFields([this.address, beiAddress]);
-						textFields.foreignAddress2 = mergeFields([this.cityAndPostCode, this.country]);
 					}
 
 					const checkboxFields = {
@@ -388,6 +397,14 @@
 						}
 					});
 				},
+				purpose(newPurpose){
+					if(newPurpose === 'noAnmeldung'){
+						this.country = 'Germany';
+					}
+					else if(newPurpose === 'abroad' && this.country === 'Germany'){
+						this.country = '';
+					}
+				}
 			},
 			created() {
 				this.addPerson();
