@@ -1,96 +1,28 @@
 {% js %}
 const germanStates = {
-	'bw': {
-		isInEastGermany: false,
-		englishName: 'Baden-Württemberg',
-		germanName: 'Baden-Württemberg',
-	},
-	'by': {
-		isInEastGermany: false,
-		englishName: 'Bavaria',
-		germanName: 'Bayern',
-	},
-	'be-east': {
-		isInEastGermany: true,
-		englishName: 'Berlin (East)',
-		germanName: 'Berlin (Ost)',
-	},
-	'be-west': {
-		isInEastGermany: false,
-		englishName: 'Berlin (West)',
-		germanName: 'Berlin (West)',
-	},
-	'bb': {
-		isInEastGermany: true,
-		englishName: 'Brandenburg',
-		germanName: 'Brandenburg',
-	},
-	'hb': {
-		isInEastGermany: false,
-		englishName: 'Bremen',
-		germanName: 'Bremen',
-	},
-	'hh': {
-		isInEastGermany: false,
-		englishName: 'Hamburg',
-		germanName: 'Hamburg',
-	},
-	'hr': {
-		isInEastGermany: false,
-		englishName: 'Hesse',
-		germanName: 'Hessen',
-	},
-	'ni': {
-		isInEastGermany: false,
-		englishName: 'Lower Saxony',
-		germanName: 'Niedersachsen',
-	},
-	'mv': {
-		isInEastGermany: false,
-		englishName: 'Mecklenburg-Western Pomerania',
-		germanName: 'Mecklenburg-Vorpommern',
-	},
-	'nw': {
-		isInEastGermany: false,
-		englishName: 'North Rhine-Westphalia',
-		germanName: 'Nordrhein-Westfalen',
-	},
-	'rp': {
-		isInEastGermany: false,
-		englishName: 'Rhineland-Palatinate',
-		germanName: 'Rheinland-Pfalz',
-	},
-	'sl': {
-		isInEastGermany: false,
-		englishName: 'Saarland',
-		germanName: 'Saarland',
-	},
-	'sn': {
-		isInEastGermany: false,
-		englishName: 'Saxony',
-		germanName: 'Sachsen',
-	},
-	'st': {
-		isInEastGermany: false,
-		englishName: 'Saxony-Anhalt',
-		germanName: 'Sachsen-Anhalt',
-	},
-	'sh': {
-		isInEastGermany: false,
-		englishName: 'Schleswig-Holstein',
-		germanName: 'Schleswig-Holstein',
-	},
-	'th': {
-		isInEastGermany: false,
-		englishName: 'Thuringia',
-		germanName: 'Thüringen',
-	},
-};
+	names: {
+		bb: {en: 'Brandenburg', de: 'Brandenburg'},
+		bw: {en: 'Baden-Württemberg', de: 'Baden-Württemberg'},
+		by: {en: 'Bavaria', de: 'Bayern'},
+		hb: {en: 'Bremen', de: 'Bremen'},
+		hh: {en: 'Hamburg', de: 'Hamburg'},
+		hr: {en: 'Hesse', de: 'Hessen'},
+		mv: {en: 'Mecklenburg-Western Pomerania', de: 'Mecklenburg-Vorpommern'},
+		ni: {en: 'Lower Saxony', de: 'Niedersachsen'},
+		nw: {en: 'North Rhine-Westphalia', de: 'Nordrhein-Westfalen'},
+		rp: {en: 'Rhineland-Palatinate', de: 'Rheinland-Pfalz'},
+		sh: {en: 'Schleswig-Holstein', de: 'Schleswig-Holstein'},
+		sl: {en: 'Saarland', de: 'Saarland'},
+		sn: {en: 'Saxony', de: 'Sachsen'},
+		st: {en: 'Saxony-Anhalt', de: 'Sachsen-Anhalt'},
+		th: {en: 'Thuringia', de: 'Thüringen'},
 
-function stateName(stateObj) {
-	if(stateObj.englishName.startsWith('Berlin') || stateObj.englishName === stateObj.germanName) {
-		return stateObj.englishName;
+		be: {en: 'Berlin', de: 'Berlin'},
+		'be-east': {en: 'Berlin (East)', de: 'Berlin (Ost)'},
+		'be-west': {en: 'Berlin (West)', de: 'Berlin (West)'},
+	},
+	isEastGerman(state){
+		return ['bb', 'be-east', 'mv', 'sn', 'st', 'th'].includes(state)
 	}
-	return `${stateObj.englishName} (${stateObj.germanName})`;
-}
+};
 {% endjs %}

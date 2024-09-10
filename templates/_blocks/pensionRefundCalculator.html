@@ -1,7 +1,7 @@
 {% include '_js/countries.js' %}
 {% include '_js/germanStates.js' %}
-{% include '_js/utils.js' %}
 {% include '_js/pension-refund-calculator.js' %}
+{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/country-input.js' %}
@@ -9,8 +9,9 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-calculator').forEach(
 		el => new Vue({
@@ -49,7 +50,6 @@
 						{number: '11', name: 'November'},
 						{number: '12', name: 'December'},
 					],
-					germanStates,
 					partners: [
 						{
 							name: 'FundsBack',
@@ -86,7 +86,6 @@
 				hasFlag(flag) {
 					return this.results.flags.has(flag);
 				},
-				stateName,
 				async setReminder() {
 					if(validateForm(this.$refs.reminderForm)) {
 						this.isLoading = true;
@@ -156,7 +155,6 @@
 					return null;
 				},
 				results() {
-					const isInEastGermany = this.germanStates[this.germanState].isInEastGermany;
 					setDefaultNumber('yearlyIncome', this.yearlyIncome);
 					setDefault('state', this.germanState);
 					setDefault('nationality', this.nationality);
@@ -167,7 +165,7 @@
 						this.firstDayOfWork,
 						this.lastDayOfWork,
 						this.yearlyIncome,
-						isInEastGermany
+						germanStates.isEastGerman(this.germanState)
 					);
 				},
 				isCountriesSelected() {
@@ -354,9 +352,7 @@
 						Where did you work?
 					</label>
 					<div class="input-group">
-						<select :id="uid('state')" v-model="germanState" aria-describedby="uid('instructions-east-west')">
-							<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-						</select>
+						<state-input east-west-berlin :id="uid('state')" v-model="germanState" :aria-describedby="uid('instructions-east-west')"></state-input>
 						<span class="input-instructions" :id="uid('instructions-east-west')">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
 					</div>
 				</div>
@@ -467,7 +463,7 @@
 			<div class="form-group required">
 				<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
 				<div class="input-group">
-					<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" aria-describedby="uid('instructions-date-of-birth')"></date-picker>
+					<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" :aria-describedby="uid('instructions-date-of-birth')"></date-picker>
 					<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the Deutsche Rentenversicherung</span>
 				</div>
 			</div>

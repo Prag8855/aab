@@ -101,11 +101,7 @@
 				<label :for="uid('state')">
 					State
 				</label>
-				<select :id="uid('state')" v-model="oldState" required>
-					<option value="be">Berlin</option>
-					<option disabled>──────────</option>
-					<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr" v-if="!abbr.startsWith('be-')">{{ state.englishName }}</option>
-				</select>
+				<state-input :id="uid('state')" v-model="oldState" required></state-input>
 			</div>
 		</template>
 	</template>
@@ -350,7 +346,6 @@
 </collapsible>
 {% include '_js/countries.js' %}
 {% include '_js/germanCountries.js' %}
-{% include '_js/germanStates.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
@@ -361,6 +356,7 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
@@ -385,8 +381,6 @@
 					people: [],
 					namesAreOnMailbox: true,
 					nameOnMailbox: '',
-
-					germanStates,
 					stages: [
 						'start',
 						'newAddress',
@@ -447,9 +441,6 @@
 				async generatePDF(person1, person2){
 					this.downloadInProgress = true;
 
-					// The full state name can be too long. Just use the abbreviation.
-					let oldStateName = this.oldState.substring().slice(0,2).toUpperCase();
-
 					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
 					const textFields = {
 						'Tag des EinzugsRow1': formatDate(this.moveInDate, 'de-DE'),
@@ -470,7 +461,7 @@
 						'Postleitzahl GemeindeKreisLandRow1': mergeFields([
 							this.oldPostCode,
 							this.oldCity,
-							oldStateName
+							this.oldState.toUpperCase() // Just the abbreviation
 						]),
 						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'DE' ? '' : germanCountries.all[this.oldCountry],
 					};

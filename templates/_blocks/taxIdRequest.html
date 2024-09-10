@@ -73,7 +73,7 @@
 		<hr>
 		<div class="form-group required" v-if="purpose !== 'noAnmeldung'">
 			<label :for="uid('country')">Country</label>
-			<country-input v-model="country" :id="uid('country')" exclude-germany required></country-input>
+			<country-input country-code v-model="country" :id="uid('country')" exclude-germany required></country-input>
 		</div>
 		<div class="form-group required">
 			<label :for="uid('address')">Street address</label>
@@ -82,30 +82,22 @@
 				type="text"
 				ref="addressInput"
 				v-model="address"
-				:placeholder="country === 'Germany' ? 'Berliner Str. 123' : '123 Maple Street, Apt. 102'"
+				:placeholder="country === 'DE' ? 'Berliner Str. 123' : '123 Maple Street, Apt. 102'"
 				autocomplete="address-line1"
 				required>
 		</div>
 		<div class="form-group required">
-			<label :for="uid('cityAndPostCode')">
-				City and post code
-			</label>
+			<label :for="uid('cityAndPostCode')">City and post code</label>
 			<input
 				:id="uid('cityAndPostCode')"
-				:placeholder="country === 'Germany' ? 'Berlin 10115' : 'Montreal, Quebec, H3E 1J4'"
+				:placeholder="country === 'DE' ? 'Berlin 10115' : 'Montreal, Quebec, H3E 1J4'"
 				type="text"
 				v-model="cityAndPostCode"
 				autocomplete="address-level2" required>
 		</div>
-		<div class="form-group required" v-if="country === 'Germany'">
-			<label :for="uid('state')">
-				State
-			</label>
-			<select :id="uid('state')" v-model="germanState" required>
-				<option value="Berlin">Berlin</option>
-				<option disabled>──────────</option>
-				<option v-for="(state, abbr) in germanStates" :key="abbr" :value="state.germanName" v-if="!abbr.startsWith('be-')">{{ state.germanName }}</option>
-			</select>
+		<div class="form-group required" v-if="country === 'DE'">
+			<label :for="uid('state')">State</label>
+			<state-input :id="uid('state')" v-model="germanState" output="germanName" required></state-input>
 		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
@@ -257,8 +249,8 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/germanStates.js' %}
 {% include '_js/letterUtils.js' %}
+{% include '_js/germanCountries.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
@@ -267,6 +259,7 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
@@ -287,7 +280,6 @@
 					namesAreOnMailbox: true,
 					nameOnMailbox: '',
 
-					germanStates,
 					stages: [
 						'start',
 						'purpose',
@@ -341,7 +333,7 @@
 						firstName: person.firstName,
 						placeOfBirth: person.birthPlace,
 						deliveryName: [person.firstName, person.lastName, beiAddress].join(' '),
-						deliveryAddress: mergeFields([this.address, this.cityAndPostCode, this.country]),
+						deliveryAddress: mergeFields([this.address, this.cityAndPostCode, germanCountries.all[this.country]]),
 						dateOfBirthDay: person.dateOfBirth.substring(8, 10).split('').join(' '), // A space between characters align them with the form field
 						dateOfBirthMonth: person.dateOfBirth.substring(5, 7).split('').join(' '),
 						dateOfBirthYear: person.dateOfBirth.substring(0, 4),
@@ -351,18 +343,18 @@
 						}[this.purpose],
 					};
 
-					if(this.country === 'Germany'){
+					if(this.country === 'DE'){
 						textFields.germanAddress1 = [this.address, beiAddress].join(' ');
 						textFields.germanAddress2 = mergeFields([
 							this.cityAndPostCode,
-							germanState
+							this.germanState
 						]);
 						textFields.foreignAddress1 = 'Nicht zutreffend';
 						textFields.foreignAddress2 = 'Nicht zutreffend';
 					}
 					else {
 						textFields.foreignAddress1 = [this.address, beiAddress].join(' ');
-						textFields.foreignAddress2 = mergeFields([this.cityAndPostCode, this.country]);
+						textFields.foreignAddress2 = mergeFields([this.cityAndPostCode, germanCountries.all[this.country]]);
 						textFields.germanAddress1 = 'Nicht zutreffend';
 						textFields.germanAddress2 = 'Nicht zutreffend';
 					}
@@ -372,7 +364,7 @@
 						purposeIsLohnsteuerabzug: true,
 					};
 					const radioFields = {
-						isInGermany: this.country === 'Germany' ? 'Ja' : 'Nein',
+						isInGermany: this.country === 'DE' ? 'Ja' : 'Nein',
 					}
 
 					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, radioFields, 'tax-id-form-filled.pdf', this.trackAs);
@@ -398,9 +390,9 @@
 				},
 				purpose(newPurpose){
 					if(newPurpose === 'noAnmeldung'){
-						this.country = 'Germany';
+						this.country = 'DE';
 					}
-					else if(newPurpose === 'abroad' && this.country === 'Germany'){
+					else if(newPurpose === 'abroad' && this.country === 'DE'){
 						this.country = '';
 					}
 				}
