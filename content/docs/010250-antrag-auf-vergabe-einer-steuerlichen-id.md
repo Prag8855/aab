@@ -15,7 +15,7 @@ Categories:
 
 Normally, you get a [tax ID](/glossary/Steueridentifikationsnummer) after you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, but you still need a tax ID, fill this form and send it to the *[[Finanzamt]]*.
 
-**This form is not reliable.** You might not receive your tax ID. It might be sent to your address in another country. It might be sent to your employer.
+**This form is not reliable.** You might not receive your tax ID. It might be sent to your address in another country. It might be sent to your employer.[^3]
 
 If you already did your *[[Anmeldung]]*, you don't need this form. You can wait for your tax ID or [request it again](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 
@@ -67,3 +67,4 @@ It might be sent to your address in another country, even if you also gave an ad
 [^0]: [Screenshot](/images/tax-id-form-instructions.png), [Screenshot](/images/anmeldung-taxid-info-2022-12-22.png)
 [^1]: Multiple readers (March to October 2023)
 [^2]: Finanzamt (July 2024)
+[^3]: Reader feedback (October 2023)
