@@ -43,6 +43,7 @@ There are many places to look for *Kitas*:
 
 - [Kita Navigator](https://kita-navigator.berlin.de/) - official resource, might not show up-to-date availability
 - [Kita.de Kita Finder](https://www.kita.de/kitas/berlin)
+- [HeyAva's Kita Finder](https://www.heyava.de/kitasuche)
 - [Kietzee](https://www.kietzee.com/en/dashboard) - list of Kitas with some reviews
 - [ExpatBabies Berlin](https://www.facebook.com/groups/107498526067436/) - Facebook
 - [Berlin Kita](https://berlinkita.com/) sells a list of Kitas in Microsoft Excel format
