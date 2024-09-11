@@ -169,7 +169,7 @@ To get a PR, you need savings for retirement.[^17] There are 4 ways to do this:
 - or **use your spouse's pension**  
     If you are married, and your spouse has a valid pension, you can use their pension. For example, if your spouse has made 60 months of public pension payments, it's enough.[^18]
 - or **get a private pension**  
-    It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must include a pension in case of disability.[^42]
+    It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must include a pension in case of disability.[^42] A Rürüp pension like [the one Feather sells](/out/feather-basis-pension) should work fine.
 - or **have real estate or other investments**  
     Stable income from your investments might replace a pension.[^32] There is no clear information about this.
 
