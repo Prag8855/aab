@@ -345,7 +345,7 @@
 {% endraw %}
 </collapsible>
 {% include '_js/countries.js' %}
-{% include '_js/germanCountries.js' %}
+{% include '_js/countriesInGerman.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
@@ -463,7 +463,7 @@
 							this.oldCity,
 							this.oldState.toUpperCase() // Just the abbreviation
 						]),
-						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'DE' ? '' : germanCountries.all[this.oldCountry],
+						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'DE' ? '' : countriesInGerman.all[this.oldCountry],
 					};
 					const checkboxFields = {
 						'alleinige': true,
@@ -485,7 +485,7 @@
 							person1.birthPlace
 						]);
 						textFields['Religionsgesellschaft'] = person1.religion;
-						textFields['Staatsangehörigkeiten'] = germanCountries.all[person1.nationality];
+						textFields['Staatsangehörigkeiten'] = countriesInGerman.all[person1.nationality];
 						textFields['OrdensKünstlername'] = person1.artistName;
 
 						textFields['ArtRow1'] = person1.documentType;
@@ -512,7 +512,7 @@
 							person2.birthPlace
 						]);
 						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
-						textFields['Familienmitglied istStaatsangehörigkeiten'] = germanCountries.all[person2.nationality];
+						textFields['Familienmitglied istStaatsangehörigkeiten'] = countriesInGerman.all[person2.nationality];
 						textFields['Familienmitglied istOrdensKünstlername'] = person2.artistName;
 
 						textFields['ArtRow1_2'] = person2.documentType;

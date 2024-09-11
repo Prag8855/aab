@@ -257,7 +257,7 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/germanCountries.js' %}
+{% include '_js/countriesInGerman.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
@@ -349,7 +349,7 @@
 						]),
 						'Postleitzahl Gemeinde Kreis Land (falls Ausland: Staat) künftige Wohnung': mergeFields([
 							this.newCityAndPostCode,
-							germanCountries.all[this.newCountry]
+							countriesInGerman.all[this.newCountry]
 						]),
 						'Straße Hausnummer Zusätze künftige Wohnung': this.newAddress,
 					};
@@ -372,7 +372,7 @@
 							person1.birthPlace
 						]);
 						textFields['Person 1 Religionsgesellschaft'] = person1.religion;
-						textFields['Person 1 Staatsangehörigkeiten'] = germanCountries.all[person1.nationality];
+						textFields['Person 1 Staatsangehörigkeiten'] = countriesInGerman.all[person1.nationality];
 						textFields['Person 1 Ordens- Künstlername'] = person1.artistName;
 					}
 
@@ -389,7 +389,7 @@
 							person2.birthPlace
 						]);
 						textFields['Person 2 Familienmitglied ist Religionsgesellschaft'] = person2.religion;
-						textFields['Person 2 Familienmitglied ist Staatsangehörigkeiten'] = germanCountries.all[person2.nationality];
+						textFields['Person 2 Familienmitglied ist Staatsangehörigkeiten'] = countriesInGerman.all[person2.nationality];
 						textFields['Person 2 Familienmitglied ist Ordens- Künstlername'] = person2.artistName;
 					}
 
@@ -406,7 +406,7 @@
 							person3.birthPlace
 						]);
 						textFields['Person 3 Familienmitglied ist Religionsgesellschaft'] = person3.religion;
-						textFields['Person 3 Familienmitglied istStaatsangehörigkeiten'] = germanCountries.all[person3.nationality];
+						textFields['Person 3 Familienmitglied istStaatsangehörigkeiten'] = countriesInGerman.all[person3.nationality];
 						textFields['Person 3 Familienmitglied ist OrdensKünstlername'] = person3.artistName;
 					}
 

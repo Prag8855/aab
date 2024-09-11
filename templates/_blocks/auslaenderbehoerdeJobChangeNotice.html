@@ -1,5 +1,5 @@
 {% include '_js/countries.js' %}
-{% include '_js/germanCountries.js' %}
+{% include '_js/countriesInGerman.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/blank.js' %}
@@ -25,7 +25,7 @@
 					currentDate: new Date(),
 					lastDayOfWork: '',
 
-					germanCountries,
+					countriesInGerman,
 				};
 			},
 			computed: {
@@ -113,7 +113,7 @@
 				Sehr geehrte Damen und Herren,
 			</p>
 			<p>
-				Mein Name ist <blank placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank placeholder="Land">{{ germanCountries.all[nationality] }}</blank>. Ich wurde am <blank placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
+				Mein Name ist <blank placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank placeholder="Land">{{ countriesInGerman.all[nationality] }}</blank>. Ich wurde am <blank placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				Ich schreibe, um die Ausländerbehörde darüber zu informieren, dass ich meinen Job gekündigt habe.
