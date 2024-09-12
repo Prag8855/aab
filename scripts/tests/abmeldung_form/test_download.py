@@ -1,10 +1,10 @@
 from playwright.sync_api import expect
 from ..test_data import people
-from ..tax_id_form import fill_tax_id_form_until
+from ..abmeldung_form import fill_abmeldung_form_until
 
 
 def test_download_buttons(page):
-    fill_tax_id_form_until(page, 'options', multiple_people=True)
+    fill_abmeldung_form_until(page, 'options', multiple_people=True)
 
     download_1 = page.get_by_role("button", name="Download part 1 of the form")
     expect(download_1).to_contain_text(people[0]['first_name'])

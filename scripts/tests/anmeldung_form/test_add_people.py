@@ -21,7 +21,7 @@ def test_data_remembered(page):
         expect(page.get_by_text(person['gender'], exact=True).nth(index)).to_be_checked()
 
         expect(page.get_by_label("Place of birth").nth(index)).to_have_value(person['birth_place'])
-        expect(page.get_by_label("Nationality").nth(index)).to_have_value(person['nationality'])
+        expect(page.get_by_label("Nationality").nth(index)).to_have_value(person['nationality_code'])
         expect(page.get_by_label("Religion").nth(index)).to_have_value(person['religion'][1])
 
         year, month, day = person['birth_date']

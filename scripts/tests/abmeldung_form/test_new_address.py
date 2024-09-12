@@ -13,7 +13,7 @@ def test_data_remembered(page):
     address = people[0]['foreign_address']
     expect(page.get_by_label("Street address")).to_have_value(address['street'])
     expect(page.get_by_label("City and post code")).to_have_value(address['city'])
-    expect(page.get_by_label("Country")).to_have_value(address['country'])
+    expect(page.get_by_label("Country")).to_have_value(address['country_code'])
 
 
 def test_data_validity_check(page):
