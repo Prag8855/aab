@@ -87,7 +87,7 @@
 				required>
 		</div>
 		<div class="form-group required">
-			<label :for="uid('postCode')">City and post code</label>
+			<label :for="uid(country === 'DE' ? 'postCode' : 'foreignCityAndPostCode')">City and post code</label>
 			<div v-if="country === 'DE'" class="input-group">
 				<postalcode-input :id="uid('postCode')" v-model="germanPostCode" required></postalcode-input>
 				<city-input v-model="germanCity" required></city-input>

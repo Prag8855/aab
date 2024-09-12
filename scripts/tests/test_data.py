@@ -23,6 +23,8 @@ people = [
             "street": "456 Elm Street",
             "city": "New York",
             "country": "United States",
+            "country_code": "US",
+            "post_code": "10012",
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -60,6 +62,8 @@ people = [
             "street": "987 Birch Rd",
             "city": "Budapest",
             "country": "Hungary",
+            "country_code": "HU",
+            "post_code": "1XYZ",
         },
         "gender": "Male",
         "nationality": "Hungary",
@@ -83,6 +87,8 @@ people = [
             "street": "Berliner Allee 23",
             "city": "Brandenburg",
             "country": "Germany",
+            "country_code": "DE",
+            "post_code": "23023",
         },
         "id_document": {
             "type": ["EU national ID", "PA"],
@@ -111,7 +117,9 @@ people = [
         "foreign_address": {
             "street": "ul. Warsawa 10",
             "city": "Kraków",
-            "post_code": "Poland"
+            "country": "Poland",
+            "country_code": "PL",
+            "post_code": "60-900",
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -141,6 +149,8 @@ people = [
             "street": "123 Rue du Château",
             "city": "Saint-Étienne-du-Rouvray",
             "country": "France",
+            "country_code": "FR",
+            "post_code": "12334"
         },
         "id_document": {
             "type": ["Passport", "RP"],
