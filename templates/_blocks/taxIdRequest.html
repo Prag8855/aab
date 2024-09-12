@@ -87,13 +87,19 @@
 				required>
 		</div>
 		<div class="form-group required">
-			<label :for="uid('cityAndPostCode')">City and post code</label>
+			<label :for="uid('postCode')">City and post code</label>
+			<div v-if="country === 'DE'" class="input-group">
+				<postalcode-input :id="uid('postCode')" v-model="germanPostCode" required></postalcode-input>
+				<city-input v-model="germanCity" required></city-input>
+			</div>
 			<input
-				:id="uid('cityAndPostCode')"
-				:placeholder="country === 'DE' ? 'Berlin 10115' : 'Montreal, Quebec, H3E 1J4'"
+				v-if="country !== 'DE'"
+				:id="uid('foreignCityAndPostCode')"
+				placeholder="Montreal, Quebec, H3E 1J4"
 				type="text"
-				v-model="cityAndPostCode"
-				autocomplete="address-level2" required>
+				v-model="foreignCityAndPostCode"
+				autocomplete="address-level2"
+				required>
 		</div>
 		<div class="form-group required" v-if="country === 'DE'">
 			<label :for="uid('state')">State</label>
@@ -254,6 +260,7 @@
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/city-input.js' %}
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
@@ -273,7 +280,9 @@
 
 					purpose: null,
 					address: '',
-					cityAndPostCode: '',
+					foreignCityAndPostCode: '',
+					germanCity: '',
+					germanPostCode: '',
 					germanState: '',
 					country: '',
 					people: [],
@@ -333,7 +342,7 @@
 						firstName: person.firstName,
 						placeOfBirth: person.birthPlace,
 						deliveryName: [person.firstName, person.lastName, beiAddress].join(' '),
-						deliveryAddress: mergeFields([this.address, this.cityAndPostCode, germanCountries.all[this.country]]),
+						deliveryAddress: mergeFields([this.address, this.foreignCityAndPostCode, countriesInGerman.all[this.country]]),
 						dateOfBirthDay: person.dateOfBirth.substring(8, 10).split('').join(' '), // A space between characters align them with the form field
 						dateOfBirthMonth: person.dateOfBirth.substring(5, 7).split('').join(' '),
 						dateOfBirthYear: person.dateOfBirth.substring(0, 4),
@@ -346,7 +355,7 @@
 					if(this.country === 'DE'){
 						textFields.germanAddress1 = [this.address, beiAddress].join(' ');
 						textFields.germanAddress2 = mergeFields([
-							this.cityAndPostCode,
+							[this.germanPostCode, this.germanCity].join(' '),
 							this.germanState
 						]);
 						textFields.foreignAddress1 = 'Nicht zutreffend';
@@ -354,7 +363,7 @@
 					}
 					else {
 						textFields.foreignAddress1 = [this.address, beiAddress].join(' ');
-						textFields.foreignAddress2 = mergeFields([this.cityAndPostCode, germanCountries.all[this.country]]);
+						textFields.foreignAddress2 = mergeFields([this.foreignCityAndPostCode, countriesInGerman.all[this.country]]);
 						textFields.germanAddress1 = 'Nicht zutreffend';
 						textFields.germanAddress2 = 'Nicht zutreffend';
 					}
