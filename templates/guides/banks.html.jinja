@@ -22,7 +22,9 @@
             {% include "_blocks/postMeta.html" %}
             {% with entry=entry, showRelatedEntriesLink=related_collections|length %}
                 <div class="article-body">
+                {% with static=True %}
                    {% include "_blocks/taxIdRequest.html" %}
+                {% endwith %}
                 </div>
             {% endwith %}
         </article>
