@@ -211,7 +211,7 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('employerPostCode')">City and post code</label>
-				<div v-if="country === 'DE'" class="input-group">
+				<div class="input-group">
 					<postalcode-input :id="uid('employerPostCode')" v-model="employerPostCode" required></postalcode-input>
 					<city-input v-model="employerCity" required></city-input>
 				</div>
