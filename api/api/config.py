@@ -53,6 +53,11 @@ message_types = {
         'template_path': 'messages/health-insurance-question-reminder.html',
         'reply_to_sender': False,
     },
+    'reminders/tax-id-request-feedback-reminder': {
+        'title': 'Did you get your tax ID?',
+        'template_path': 'messages/tax-id-request-feedback-reminder.html',
+        'reply_to_sender': False,
+    },
     'reminders/pension': {
         'title': 'Reminder: you can now get a refund for your German pension payments',
         'template_path': 'messages/pension-reminder.html',
