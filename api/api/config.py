@@ -9,7 +9,8 @@ if os.environ.get('BETTERSTACK_SOURCE_TOKEN'):
 
 logging_config = {
     'level': logging.INFO,
-    'handlers': log_handlers
+    'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
+    'handlers': log_handlers,
 }
 
 base_path = Path(__file__).parent.resolve()
