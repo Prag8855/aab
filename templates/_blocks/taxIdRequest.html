@@ -457,6 +457,8 @@
 
 					if(!this.feedbackReminderSent){
 						this.feedbackReminderSent = true;
+						const deliveryDate = new Date();
+						deliveryDate.setDate(deliveryDate.getDate() + 7 * 8); // 8 weeks
 						fetch(
 							'/api/reminders/tax-id-request-feedback-reminder',
 							{
@@ -466,6 +468,7 @@
 								body: JSON.stringify({
 									name: [this.firstName, this.lastName].join(' '),
 									email: this.emailAddress,
+									deliveryDate: deliveryDate.toISOString(),
 								}),
 							}
 						);
