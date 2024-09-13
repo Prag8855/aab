@@ -14,7 +14,7 @@ const pdf = {
 		   return rawUpdateFieldAppearances(customFont);
 		};
 
-		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 20 });
+		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 5 });
 
 		Object.entries(textFields || {}).forEach(([fieldName, value]) => {
 			const field = pdfForm.getTextField(fieldName);
