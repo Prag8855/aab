@@ -91,5 +91,11 @@ If you fill the form yourself, use these instructions:
 
 If you register more than 2 people, use multiple forms.
 
+## How to send this form
+
+You must get a *[[Bürgeramt]]* appointment and bring the form in person.
+
+**[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin#how-to-register-your-address)**
+
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
 [^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (September 2023)
