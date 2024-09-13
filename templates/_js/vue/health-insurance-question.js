@@ -103,7 +103,7 @@ Vue.component('health-insurance-question', {
 				if(response.ok){
 					this.stage = 'thank-you';
 					fetch(
-					'/api/reminders/health-insurance-question-reminder',
+						'/api/reminders/health-insurance-question-reminder',
 						{
 							method: 'POST',
 							keepalive: true,
