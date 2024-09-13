@@ -380,7 +380,7 @@
 				},
 				async generatePDF(person){
 					this.downloadInProgress = true;
-					const beiAddress = this.namesAreOnMailbox ? '' : `(bei ${this.nameOnMailbox})`;
+					const beiAddress = (this.country === 'DE' && this.namesAreOnMailbox) ? '' : `(bei ${this.nameOnMailbox})`;
 
 					const textFields = {
 						lastName: mergeFields([
