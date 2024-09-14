@@ -175,3 +175,11 @@ people = [
         "religion": ["Other / No religion", "Sonstiges, nicht kirchensteuerpflichtig"],
     },
 ]
+
+companies = [{
+    "name": "Musterfirma GmbH",
+    "address": "Firmastraße 567",
+    "city": "Berlin",
+    "post_code": "10115",
+    "state": ["Berlin", "be"],
+}]

@@ -1,5 +1,5 @@
 from playwright.sync_api import expect
-from ..test_data import people
+from ..test_data import people, companies
 
 
 def next_step(page):
@@ -98,7 +98,21 @@ def fill_documents(page, multiple_people=False):
         page.get_by_title("Year").nth(index * 2 + 1).fill(year)
 
 
-def fill_tax_id_form_until(page, step=None, multiple_people=False, purpose="I can't register my address, but I need a tax ID"):
+def fill_employer(page, send_to_employer=False):
+    page.get_by_label("Send the tax ID to my employer").set_checked(send_to_employer)
+    if send_to_employer:
+        page.get_by_label("Employer name").fill(companies[0]['name'])
+        page.get_by_label("Address").fill(companies[0]['address'])
+        page.get_by_placeholder("12345").fill(companies[0]['post_code'])
+        page.get_by_placeholder("Berlin", exact=True).fill(companies[0]['city'])
+        page.get_by_label("State").select_option(companies[0]['state'][0])
+
+
+def fill_feedback(page):
+    page.get_by_label("Email").fill('test@emailaddress.com')
+
+
+def fill_tax_id_form_until(page, step=None, multiple_people=False, purpose="I can't register my address, but I need a tax ID", send_to_employer=False):
     load_tax_id_form(page)
     start_form(page)
 
@@ -123,5 +137,20 @@ def fill_tax_id_form_until(page, step=None, multiple_people=False, purpose="I ca
     if step == 'beiAddress':
         return
 
-    fill_bei_address(page, multiple_people)
+    # This step is skipped if someone lives outside of Germany
+    if purpose == "I can't register my address, but I need a tax ID":
+        fill_bei_address(page, multiple_people)
+        next_step(page)
+
+    if step == 'employer':
+        return
+
+    fill_employer(page, send_to_employer)
+    next_step(page)
+
+    if step == 'feedback':
+        return
+
+    fill_feedback(page)
+
     page.get_by_role("button", name="Finish").click()

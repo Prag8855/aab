@@ -9,7 +9,7 @@ def test_data_remembered(page):
     expect(page.get_by_label('My name is on my mailbox')).not_to_be_checked()
     expect(page.get_by_label('Name on mailbox')).to_have_value("Müller")
 
-    page.get_by_role("button", name="Finish").click()
+    next_step(page)
     previous_step(page)
 
     expect(page.get_by_label('My name is on my mailbox')).not_to_be_checked()
