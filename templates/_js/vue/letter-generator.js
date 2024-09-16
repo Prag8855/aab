@@ -86,6 +86,9 @@ Vue.component('letter-generator', {
 					<slot name="letter-body" :language="language" :stage="stage"></slot>
 				</div>
 			</div>
+			<p v-if="stage === 'printPreview'">
+				If this tool helped you, <a href="/donate" target="_blank">donate a few euros</a> to support my work.
+			</p>
 			<template v-if="stage === 'start'">
 				<hr>
 				<div class="buttons no-print">
