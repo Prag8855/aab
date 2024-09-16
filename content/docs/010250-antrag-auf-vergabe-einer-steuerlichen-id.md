@@ -48,12 +48,14 @@ You can also download the original form and fill it yourself. If you need a tax 
 
 ## How to fill this form
 
-If you fill this form because you can't register your current address:
+Use my [form filler](#fill-the-form-online), it's easier.
+
+If you fill this form because you can't [register your current address](/glossary/Anmeldung):
 
 - **Derzeitiger Aufenthalt in Deutschland**  
     Tick "ja".
 - **Grund für die Vergabe der IdNr.**  
-    In the *Sonstiger Grund* field, write "Anmeldung zurzeit nicht möglich". If you are an employee, tick *Arbeitnehmer*.
+    In the *Sonstiger Grund* field, write "Wohnsitzanmeldung derzeit nicht möglich". If you are an employee, also tick *Arbeitnehmer*.
 - **Zweck**  
     If you are an employee, tick *Lohnsteuerabzug*. If you want to [start a business](/guides/start-a-business-in-germany), write "bevorstehende Gewerbeanmeldung" in *the Sonstiger Zweck* field.
 - **Anschrift in Deutschland**  
@@ -73,7 +75,7 @@ If you are an employee, mail the form to your employer's local *[[Finanzamt]]*. 
 
 ## What happens next?
 
-4 to 6 weeks later, you will get a tax ID by post. It will come in a letter from the *Bundeszentralamt für Steuern* (*BZSt*).
+4 to 6 weeks later, you will get a tax ID by post. It will be a letter from the *Bundeszentralamt für Steuern* (*BZSt*).
 
 They usually send your tax ID to your employer, or to your foreign address, even if you gave an address in Germany.[^1]
 
