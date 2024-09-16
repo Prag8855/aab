@@ -261,8 +261,15 @@
 			<a href="/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id#how-to-send-this-form" target="_blank">
 				{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
 				<div>
-					<h3>Submit this form</h3>
-					<p>Learn how to send this form to the Finanzamt.</p>
+					<h3>Submit your {{ people.length > 1 ? 'forms' : 'form' }}</h3>
+					<p>Learn how to send {{ people.length > 1 ? 'these forms' : 'this form' }} to the Finanzamt.</p>
+				</div>
+			</a>
+			<a href="/donate" target="_blank">
+				{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
+				<div>
+					<h3>Buy me a beer</h3>
+					<p>Donate a few euros to support All About Berlin.</p>
 				</div>
 			</a>
 		</div>
