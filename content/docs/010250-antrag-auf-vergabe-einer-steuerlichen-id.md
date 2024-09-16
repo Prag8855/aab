@@ -75,7 +75,7 @@ Include a copy of your passport or *[[Personalausweis]]* with the form. You can 
 
 They usually send your tax ID to your employer, or to your foreign address, even if you gave an address in Germany.[^1]
 
-They might create your tax ID even if they don't send it to you. If you did not receive your tax ID after 6 weeks, [ask your *Finanzamt*](/guides/german-tax-id-steuernummer#if-you-lost-your-tax-id).
+They might create your tax ID even if they don't send it to you. If you did not receive your tax ID after 6 weeks, [ask your *Finanzamt*](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
 [^0]: [Screenshot](/images/tax-id-form-instructions.png), [Screenshot](/images/anmeldung-taxid-info-2022-12-22.png)
 [^1]: Multiple readers (March to October 2023), reader feedback (September 2024)

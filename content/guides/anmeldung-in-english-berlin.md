@@ -22,7 +22,7 @@ You must register your address to...
 - **Get a [registration certificate](/glossary/Anmeldebestätigung)** (*Meldebestätigung*)  
     You sometimes need it to prove your address, open a bank account, get a SIM card, and a few other things.
 - **Get a [tax ID](/glossary/Steueridentifikationsnummer)**  
-    You get a tax ID by post around 4 weeks after your *Anmeldung*. The tax ID [is very important](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id). You can [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
+    You get a tax ID by post around 4 to 6 weeks after your first *Anmeldung*. The tax ID [is very important](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id). You can [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
     - **Get paid correctly**  
         Your employer needs your [tax ID](/glossary/Steueridentifikationsnummer) to calculate your [salary tax](/glossary/Lohnsteuer). If you don't have a tax ID, you pay more [salary tax](/glossary/Lohnsteuer), so your paychecks are much smaller. You don't lose that money, but you must make a [tax declaration](/glossary/Steuererklärung) to get it back. - [More information](/guides/german-tax-id-steuernummer#why-you-need-a-tax-id)
 - **Apply for a [residence permit](/glossary/Aufenthaltstitel)**  
