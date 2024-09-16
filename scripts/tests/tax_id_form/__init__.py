@@ -1,5 +1,5 @@
 from playwright.sync_api import expect
-from ..test_data import people
+from ..test_data import people, companies
 
 
 def next_step(page):
@@ -10,34 +10,30 @@ def previous_step(page):
     page.get_by_role("button", name="Go back").click()
 
 
-def load_anmeldung_form(page):
-    page.goto("/docs/anmeldung")
+def load_tax_id_form(page):
+    page.goto("/guides/banks")
 
 
-def start_anmeldung(page):
+def start_form(page):
     page.get_by_role("button", name="Start").click()
 
 
-def fill_new_address(page):
-    address = people[0]['local_address']
-    page.get_by_label("Street address").fill(address['street'])
-    page.get_by_label("Post code").fill(address['post_code'])
-    page.get_by_label("Building details").fill(address['zusatz'])
-
-    year, month, day = people[0]['move_out_date']
-    page.get_by_title("Day of the month").fill(day)
-    page.get_by_title("Month", exact=True).fill(month)
-    page.get_by_title("Year").fill(year)
+def fill_purpose(page, purpose):
+    page.get_by_text(purpose, exact=True).set_checked(True)
 
 
-def fill_old_address(page):
-    address = people[0]['local_address_2']
-    page.get_by_label("Country").select_option(address['country'])
-    page.get_by_label("Street address").fill(address['street'])
-    page.get_by_placeholder("12345").fill(address['post_code'])
-    page.get_by_placeholder("Berlin").fill(address['city'])
-    page.get_by_label("Building details").fill(address['zusatz'])
-    page.get_by_label("State").select_option(address['state'][0])
+def fill_address(page, purpose):
+    if purpose == "I can't register my address, but I need a tax ID":
+        address = people[0]['local_address']
+        page.get_by_label("Street address").fill(address['street'])
+        page.get_by_placeholder("12345").fill(address['post_code'])
+        page.get_by_placeholder("Berlin", exact=True).fill(address['city'])
+        page.get_by_label("State").select_option(address['state'][0])
+    elif purpose == "I don't live in Germany, but I need a tax ID":
+        address = people[0]['foreign_address']
+        page.get_by_label("Country").select_option(address['country'])
+        page.get_by_label("Street address").fill(address['street'])
+        page.get_by_label("City and post code").fill(" ".join([address['city'], address['post_code']]))
 
 
 def add_person(page):
@@ -47,24 +43,19 @@ def add_person(page):
 def fill_person(page, index=0):
     person = people[index]
 
-    # Note: this link disappears after clicking, so we can't select by index
     page.get_by_title("First name").nth(index).fill(person['first_name'])
     page.get_by_title("Last name").nth(index).fill(person['last_name'])
 
+    # Note: this link disappears after clicking, so we can't select by index
     page.get_by_role("link", name="Add a title or birth name").nth(0).click()
-    page.get_by_label("Title").nth(index).fill(person['title'])
     page.get_by_label("Name at birth").nth(index).fill(person['birth_name'])
-
-    page.get_by_text(person['gender'], exact=True).nth(index).set_checked(True)
-
-    page.get_by_label("Place of birth").nth(index).fill(person['birth_place'])
-    page.get_by_label("Nationality").nth(index).select_option(person['nationality'])
-    page.get_by_label("Religion").nth(index).select_option(person['religion'][0])
 
     year, month, day = person['birth_date']
     page.get_by_title("Day of the month").nth(index).fill(day)
     page.get_by_title("Month", exact=True).nth(index).fill(month)
     page.get_by_title("Year").nth(index).fill(year)
+
+    page.get_by_label("Place of birth").nth(index).fill(person['birth_place'])
 
 
 def fill_people(page, multiple_people=False):
@@ -107,20 +98,34 @@ def fill_documents(page, multiple_people=False):
         page.get_by_title("Year").nth(index * 2 + 1).fill(year)
 
 
-def fill_anmeldung_form_until(page, step=None, multiple_people=False):
-    load_anmeldung_form(page)
-    start_anmeldung(page)
+def fill_employer(page, send_to_employer=False):
+    page.get_by_label("Send the tax ID to my employer").set_checked(send_to_employer)
+    if send_to_employer:
+        page.get_by_label("Employer name").fill(companies[0]['name'])
+        page.get_by_label("Address").fill(companies[0]['address'])
+        page.get_by_placeholder("12345").fill(companies[0]['post_code'])
+        page.get_by_placeholder("Berlin", exact=True).fill(companies[0]['city'])
+        page.get_by_label("State").select_option(companies[0]['state'][0])
 
-    if step == 'newAddress':
+
+def fill_feedback(page):
+    page.get_by_label("Email").fill('test@emailaddress.com')
+
+
+def fill_tax_id_form_until(page, step=None, multiple_people=False, purpose="I can't register my address, but I need a tax ID", send_to_employer=False):
+    load_tax_id_form(page)
+    start_form(page)
+
+    if step == 'purpose':
         return
 
-    fill_new_address(page)
+    fill_purpose(page, purpose)
     next_step(page)
 
-    if step == 'oldAddress':
+    if step == 'address':
         return
 
-    fill_old_address(page)
+    fill_address(page, purpose)
     next_step(page)
 
     if step == 'addPeople':
@@ -132,11 +137,20 @@ def fill_anmeldung_form_until(page, step=None, multiple_people=False):
     if step == 'beiAddress':
         return
 
-    fill_bei_address(page, multiple_people)
-    next_step(page)
+    # This step is skipped if someone lives outside of Germany
+    if purpose == "I can't register my address, but I need a tax ID":
+        fill_bei_address(page, multiple_people)
+        next_step(page)
 
-    if step == 'idDocuments':
+    if step == 'employer':
         return
 
-    fill_documents(page, multiple_people)
+    fill_employer(page, send_to_employer)
+    next_step(page)
+
+    if step == 'feedback':
+        return
+
+    fill_feedback(page)
+
     page.get_by_role("button", name="Finish").click()

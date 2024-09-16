@@ -17,7 +17,7 @@
 /out/appointment-driving-licence              "https://service.berlin.de/terminvereinbarung/termin/all/121627/";
 /out/appointment-international-driving-permit "https://service.berlin.de/terminvereinbarung/termin/all/121591/";
 /out/appointment-kfz-zulassungsstelle         "https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120906&dienstleisterlist=121364,121362&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120906%2F";
-/out/assigned-finanzamt-finder                "https://www.elster.de/finanzamt";
+/out/assigned-finanzamt-finder                "https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/GemFa/finanzamtsuche_node.html";
 /out/auslanderbehorde-appointment             "/guides/berlin-auslanderbehorde-appointment";
 /out/auslanderbehorde-contact                 "https://www.berlin.de/einwanderung/ueber-uns/kontakt/";
 /out/auslanderbehorde-departments             "/out/auslanderbehorde-contact";
@@ -86,6 +86,7 @@
 /out/feather-haftpflicht                      "https://feather-insurance.com/personal-liability-insurance?utm_source=allaboutberlin";
 /out/feather-hausrat                          "https://feather-insurance.com/household-insurance?utm_source=allaboutberlin";
 /out/feather-pethealth                        "https://feather-insurance.com/pet-health-insurance?utm_source=allaboutberlin";
+/out/feather-basis-pension                    "https://feather-insurance.com/en-de/pension-insurance/basis?utm_source=allaboutberlin";
 /out/feather-private                          "https://feather-insurance.com/private-health-insurance?utm_source=allaboutberlin";
 /out/feather-private-estimate                 "https://feather-insurance.com/private-health-insurance?utm_source=allaboutberlin#price-estimate";
 /out/feather-rechtsschutz                     "https://feather-insurance.com/legal-insurance?utm_source=allaboutberlin";

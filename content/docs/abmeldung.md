@@ -29,9 +29,11 @@ You can also download the original form and fill it yourself. If you deregister 
 
 {% include "_blocks/downloadDocuments.html"%}
 
-The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402609-20151120_abmeldung.pdf).
+The same form is [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402609-20151120_abmeldung.pdf).
 
 ## How to fill this form
+
+Use my [Abmeldung form filler](#fill-the-abmeldung-form-online), it's easier.
 
 - **Bisherige Wohnung / Gemeindekennzahl (left column)**: information about your last address in Germany. Use the information on your *[[Anmeldebestätigung]]*.
     - **Tag des Auszugs**: Your move-out date. You can deregister 7 days before you [move out](/guides/moving-out). You must do it maximum 14 days after you move out.[^0]
@@ -41,9 +43,19 @@ The original *Abmeldung* form is [on Berlin.de](https://www.berlin.de/formularve
 - **Weitere Wohnungen**: Information about your other addresses in Germany. If you only had one address, leave this section empty.
     - **Anschrift**: Your other addresses in Germany.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).
-    
+- **Ort, Datum, Unterschrift**: The date, the city, and your signature. Use the DD.MM.YYYY date format. Your signature should be the same as on your passport or national ID.
+
+If you deregister more than 3 people, use multiple forms.
+
 ## How to send this form
 
-Send the form by [registered mail](/glossary/Einschreibebrief) as explained [here](/guides/abmeldung-deregister-in-berlin#by-registered-mail).
+There are two ways to do this:
+
+- Get a *[[Bürgeramt]]* appointment, and [go in person](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt). Bring your passport or *[[Personalausweis]]*.
+- Mail the form to [any *Bürgeramt* in Berlin](https://service.berlin.de/dienstleistung/120335/#service_locationlist_checkboxgroup). Include a copy of your passport.
+
+**[How to do your Abmeldung in Berlin ➞](/guides/abmeldung-deregister-in-berlin)**
+
+**[How to mail a letter ➞](/guides/mail-a-letter)**
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)

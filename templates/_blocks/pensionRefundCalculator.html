@@ -1,15 +1,17 @@
 {% include '_js/countries.js' %}
 {% include '_js/germanStates.js' %}
-{% include '_js/utils.js' %}
 {% include '_js/pension-refund-calculator.js' %}
+{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-calculator').forEach(
 		el => new Vue({
@@ -22,7 +24,6 @@
 					stage: 'start',
 					isLoading: false,
 					nationality: getDefault('nationality', ''),
-					sortedCountryList: countries.getSortedList(),
 					countryOfResidence: getDefault('countryOfResidence', ''),
 					yearlyIncome: getDefaultNumber('yearlyIncome'),
 					firstMonthOfWork: '',
@@ -49,7 +50,6 @@
 						{number: '11', name: 'November'},
 						{number: '12', name: 'December'},
 					],
-					germanStates,
 					partners: [
 						{
 							name: 'FundsBack',
@@ -86,7 +86,6 @@
 				hasFlag(flag) {
 					return this.results.flags.has(flag);
 				},
-				stateName,
 				async setReminder() {
 					if(validateForm(this.$refs.reminderForm)) {
 						this.isLoading = true;
@@ -156,7 +155,6 @@
 					return null;
 				},
 				results() {
-					const isInEastGermany = this.germanStates[this.germanState].isInEastGermany;
 					setDefaultNumber('yearlyIncome', this.yearlyIncome);
 					setDefault('state', this.germanState);
 					setDefault('nationality', this.nationality);
@@ -167,7 +165,7 @@
 						this.firstDayOfWork,
 						this.lastDayOfWork,
 						this.yearlyIncome,
-						isInEastGermany
+						germanStates.isEastGerman(this.germanState)
 					);
 				},
 				isCountriesSelected() {
@@ -258,27 +256,23 @@
 			<label :for="uid('nationality')">
 				Nationality
 			</label>
-			<select
-			  placeholder="Choose a country"
-			  :class="{'error': !isNationalityEligible}"
-			  :id="uid('nationality')"
-			  v-model="nationality">
-				<option value="" disabled selected hidden>Choose a country</option>
-				<option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
-			</select>
+			<country-input
+				country-code
+				:class="{'error': !isNationalityEligible}"
+				:id="uid('nationality')"
+				v-model="nationality"
+				required></country-input>
 		</div>
 		<div class="form-group">
 			<label :for="uid('country-of-residence')">
 				Where do you live?
 			</label>
-			<select
-			  placeholder="Choose a country"
-			  :class="{'error': !isCountryOfResidenceEligible}"
-			  :id="uid('country-of-residence')"
-			  v-model="countryOfResidence">
-				<option value="" disabled selected hidden>Choose a country</option>
-				<option v-for="country in sortedCountryList" :key="country[0]" :value="country[0]">{{ country[1] }}</option>
-			</select>
+			<country-input
+				country-code
+				:class="{'error': !isCountryOfResidenceEligible}"
+				:id="uid('country-of-residence')"
+				v-model="countryOfResidence"
+				required></country-input>
 		</div>
 		<template v-if="!isCountriesEligible">
 			<hr>
@@ -358,9 +352,7 @@
 						Where did you work?
 					</label>
 					<div class="input-group">
-						<select :id="uid('state')" v-model="germanState" aria-describedby="uid('instructions-east-west')">
-							<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-						</select>
+						<state-input east-west-berlin :id="uid('state')" v-model="germanState" :aria-describedby="uid('instructions-east-west')"></state-input>
 						<span class="input-instructions" :id="uid('instructions-east-west')">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
 					</div>
 				</div>
@@ -407,7 +399,7 @@
 		</div>
 	</template>
 	<template v-if="stage === 'partnerSelection'">
-		<p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="https://allaboutberlin.com/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
+		<p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
 		<div class="form-group">
 			<span class="label">Choose a helper</span>
 			<label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
@@ -421,7 +413,7 @@
 		<hr>
 		<template v-if="selectedPartner.name === 'Do it yourself'">
 			<p>You can apply for a pension refund without help. It's harder, but if you speak German, it's not so bad.</p>
-			<p><strong><a href="/guides/pension-payments-refund#do-it-yourself">How to apply without help ➞</a></strong></p>
+			<p><strong><a class="internal-link" href="/guides/pension-payments-refund#do-it-yourself">How to apply without help</a></strong></p>
 		</template>
 		<template v-if="selectedPartner.name !== 'Do it yourself'">
 			<div class="form-group">
@@ -463,7 +455,7 @@
 				</div>
 			</div>
 			<div class="form-group required">
-				<label :for="uid('email')">Email</label>
+				<label :for="uid('email')">Email address</label>
 				<div class="input-group">
 					<input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
@@ -471,7 +463,7 @@
 			<div class="form-group required">
 				<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
 				<div class="input-group">
-					<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" aria-describedby="uid('instructions-date-of-birth')"></date-picker>
+					<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" :aria-describedby="uid('instructions-date-of-birth')"></date-picker>
 					<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the Deutsche Rentenversicherung</span>
 				</div>
 			</div>

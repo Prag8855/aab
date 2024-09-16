@@ -16,7 +16,7 @@ Creating an account is easy, but you must do it in German. **It takes around 1 w
 
 To create an ELSTER account, you need a [tax ID](/glossary/Steueridentifikationsnummer). You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. You can also request one from the *Finanzamt*.
 
-[**How to get your tax ID ➞**](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id)
+**[How to get your tax ID ➞](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id)**
 
 ### Do you need an ELSTER account?
 

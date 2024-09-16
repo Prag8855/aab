@@ -103,7 +103,7 @@ Vue.component('health-insurance-question', {
 				if(response.ok){
 					this.stage = 'thank-you';
 					fetch(
-					'/api/reminders/health-insurance-question-reminder',
+						'/api/reminders/health-insurance-question-reminder',
 						{
 							method: 'POST',
 							keepalive: true,
@@ -169,7 +169,7 @@ Vue.component('health-insurance-question', {
 				</div>
 				<div class="form-group required">
 					<label :for="uid('email')">
-						Email
+						Email address
 					</label>
 					<div class="input-group">
 						<input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">

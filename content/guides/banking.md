@@ -39,7 +39,15 @@ The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to 100,
 
 **Online banks** have no branches. You do everything online. Usually, they have lower fees and much better online banking. It's much easier to open an account, because you do it directly in their app.
 
-In my experience, online banks are better, but traditional banks offer more services. If you need a mortgage or a loan, you usually need a traditional bank.
+In my experience, online banks are better, but traditional banks offer more services. If you need a mortgage or a loan, you usually need a traditional bank. If you want to do everything digitally, online banks usually do it better.
+
+### How to open a bank account
+
+With online banks you usually install their app and follow the instructions. You usually need to have a video call and take photos of your passport. It usually takes around 15 minutes.
+
+With traditional banks, you usually need to go to one of their branches in person. You might need an appointment. You usually need your passport or *[[Personalausweis]]*, and sometimes your *[[Anmeldebestätigung]]*.
+
+Some banks might ask for your [tax ID](/glossary/Steueridentifikationsnummer). If you just moved to Germany, you might not have this yet. You might need to choose another bank.
 
 ## Common payment methods
 

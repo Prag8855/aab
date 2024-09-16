@@ -10,6 +10,7 @@ people = [
             "post_code": "10115",
             "state": ["Berlin", "be"],
             "country": "Germany",
+            "country_code": "DE",
         },
         "local_address_2": {
             "street": "Nordbahnstr. 456",
@@ -18,11 +19,14 @@ people = [
             "post_code": "13131",
             "state": ["Berlin", "be"],
             "country": "Germany",
+            "country_code": "DE",
         },
         "foreign_address": {
             "street": "456 Elm Street",
             "city": "New York",
             "country": "United States",
+            "country_code": "US",
+            "post_code": "10012",
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -33,6 +37,7 @@ people = [
         },
         "gender": "Male",
         "nationality": "Spain",
+        "nationality_code": "ES",
         "birth_date": ["1978", "05", "15"],
         "birth_place": "València, Spain",
         "move_out_date": ["2022", "09", "30"],
@@ -60,9 +65,12 @@ people = [
             "street": "987 Birch Rd",
             "city": "Budapest",
             "country": "Hungary",
+            "country_code": "HU",
+            "post_code": "1XYZ",
         },
         "gender": "Male",
         "nationality": "Hungary",
+        "nationality_code": "HU",
         "birth_date": ["1983", "08", "23"],
         "birth_place": "Budapest, Hungary",
         "move_out_date": ["2021", "12", "15"],
@@ -83,6 +91,8 @@ people = [
             "street": "Berliner Allee 23",
             "city": "Brandenburg",
             "country": "Germany",
+            "country_code": "DE",
+            "post_code": "23023",
         },
         "id_document": {
             "type": ["EU national ID", "PA"],
@@ -93,6 +103,7 @@ people = [
         },
         "gender": "Female",
         "nationality": "Germany",
+        "nationality_code": "DE",
         "birth_date": ["1990", "02", "10"],
         "birth_place": "Munich, Germany",
         "move_out_date": ["2023", "04", "05"],
@@ -111,7 +122,9 @@ people = [
         "foreign_address": {
             "street": "ul. Warsawa 10",
             "city": "Kraków",
-            "post_code": "Poland"
+            "country": "Poland",
+            "country_code": "PL",
+            "post_code": "60-900",
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -122,6 +135,7 @@ people = [
         },
         "gender": "Female",
         "nationality": "Poland",
+        "nationality_code": "PL",
         "birth_date": ["1988", "12", "03"],
         "birth_place": "Kraków, Poland",
         "move_out_date": ["2022", "07", "10"],
@@ -141,6 +155,8 @@ people = [
             "street": "123 Rue du Château",
             "city": "Saint-Étienne-du-Rouvray",
             "country": "France",
+            "country_code": "FR",
+            "post_code": "12334"
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -151,6 +167,7 @@ people = [
         },
         "gender": "Female",
         "nationality": "France",
+        "nationality_code": "FR",
         "birth_date": ["1987", "03", "20"],
         "birth_place": "Paris, France",
         "move_out_date": ["2022", "08", "30"],
@@ -158,3 +175,11 @@ people = [
         "religion": ["Other / No religion", "Sonstiges, nicht kirchensteuerpflichtig"],
     },
 ]
+
+companies = [{
+    "name": "Musterfirma GmbH",
+    "address": "Firmastraße 567",
+    "city": "Berlin",
+    "post_code": "10115",
+    "state": ["Berlin", "be"],
+}]

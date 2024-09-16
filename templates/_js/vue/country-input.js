@@ -1,0 +1,55 @@
+{% include '_js/vue.js' %}
+{% include '_js/countries.js' %}
+{% js %}{% raw %}
+Vue.component('country-input', {
+	props: {
+		value: String,
+		placeholder: {
+			type: String,
+			default: 'Choose a country',
+		},
+		excludeGermany: {
+			type: Boolean,
+			default: false,
+		},
+		countryCode: {
+			type: Boolean,
+			default: false,
+		},
+	},
+	data() {
+		return {
+			sortedCountries: countries.getSortedList().filter(c => c[0] !== 'DE' || !this.excludeGermany),
+		}
+	},
+	computed: {
+		recommendedCountries(){
+			const recommendations = new Set(
+				(navigator.languages || [])
+					.map(lang => lang.substring(3).toUpperCase())
+					.filter(countryCode => countryCode !== 'DE')
+					.map(countryCode => countryCode in countries.all ? [countryCode, countries.all[countryCode]] : null)
+					.filter(Boolean)
+			);
+			if(!this.excludeGermany){
+				recommendations.add(["DE", countries.all['DE']]);
+			}
+			return recommendations;
+		},
+	},
+	template: `
+		<select autocomplete="country-name" :value="value" v-on:input="$emit('input', $event.target.value)">
+			<option disabled hidden default value="">{{ placeholder }}</option>
+			<option
+				:value="countryCode ? code : name"
+				v-for="[code, name] in recommendedCountries"
+				:key="countryCode">{{ name }}</option>
+			<option disabled v-if="recommendedCountries">──────────</option>
+			<option
+				:value="countryCode ? code : name"
+				v-for="[code, name] in sortedCountries"
+				:key="countryCode">{{ name }}</option>
+		</select>
+	`,
+});
+{% endraw %}{% endjs %}

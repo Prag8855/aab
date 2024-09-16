@@ -113,7 +113,7 @@ Use my lists of English-speaking professionals:
 - **[BEMA](https://bema.berlin/en/)**  
     Free help for immigrants and asylum seekers. They speak English and many other languages.
 - **[BMAS Bürgertelefon](https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html)**  
-    Free help for immigrants and asylum seekers. They speak English and many other languages.
+    Free help for immigrants and asylum seekers. They mostly speak German.
 - **Your works council** (*Betriebsrat*)  
     If your company has a *Betriebsrat*, they can advise you for free. They work for you, not your employer.
 - **Workers union** (*Gewerkschaft*)  

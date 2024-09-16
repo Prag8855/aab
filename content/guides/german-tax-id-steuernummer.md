@@ -11,45 +11,57 @@ German residents have different tax identification numbers. This guide explains 
 
 ## The tax ID (Steuer-ID)
 
-This is your **unique, permanent tax identification number**. Every German resident has a tax ID. The *[[Finanzamt]]* uses this number to identify you. It has the format "**12 345 678 901**". The tax ID is permanent; it never changes. 
+This is your **unique, permanent tax identification number**. Every German resident has a tax ID. The *[[Finanzamt]]* uses your tax ID to identify you. It has the format "**12 345 678 901**". Your tax ID is permanent; it never changes.
 
-The tax ID is also called *Steuerliche Identifikationsnummer*, *Persönliche Identifikationsnummer*, *Identifikationsnummer, Steuer-IdNr.*, *IdNr* or *Steuer-ID*.
+The tax ID is also called...
+
+- *Steuerliche Identifikationsnummer*
+- *Persönliche Identificationsnummer*
+- *Identifikationsnummer*
+- *Steuer-IdNr.*
+- *SteuerID*
+- *IdNr*
 
 ### Why you need a tax ID
 
-Your employer needs your tax ID to calculate your [salary tax](/glossary/Lohnsteuer). **You do not need a tax ID to start working**, but you need one to pay the right amount of salary tax. If you don't have a tax ID, your employer puts you in [tax class](/glossary/Steuerklasse) 6, and you pay more salary tax.[^0] You will get that money back later, either on future paycheck, or when you file a [tax return](/glossary/Steuererkl%C3%A4rung).[^1]
+You need a tax ID to...
 
-If you have children, you need their tax ID to apply for child benefits (*[[Kindergeld]]*), and to get a *[[Kitagutschein]]*.
-
-You also need a tax ID to [start a business](/guides/start-a-business-in-germany).
+- **Get paid correctly**  
+    If you don't have a tax ID, you can still work and get paid, but you pay more [salary tax](/glossary/Lohnsteuer).[^0] You can get that money back later by filing a [tax return](/glossary/Steuererkl%C3%A4rung).[^1] Some employers think that you can't work without a tax ID, but they are wrong.
+- **[Open a bank account](/guides/best-bank-germany)**  
+    Some banks ask for a tax ID when you open an account.
+- **Apply for [[Kindergeld]] and Elterngeld**
+- **[Get a Kitagutschein](/guides/how-to-get-a-kitagutschein)**  
+    Your children need a tax ID to get a *[[Kitagutschein]]* and send them to daycare.
+- **[Start a business](/guides/start-a-business-in-germany)**  
+    You need a tax ID to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
 ### How to get your tax ID
 
-You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. 2 to 6 weeks later, you get a letter from the *Bundeszentralamt für Steuern*. Your tax ID is in the top right corner.
+You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time.[^8] 4 to 6 weeks later, you get [a letter from the *Bundeszentralamt für Steuern*](/images/tax-id-document-bzst.jpg) with your tax ID.
 
-[![Bundeszentralamt Für Steuern Zuteilung Identifikationsnummer](/images/tax-id-document-bzst.jpg)](/images/tax-id-document-bzst.jpg)
+**If you can't register your address**, fill [this form](/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id). You will get your tax ID by post 4 to 6 weeks later. This does not always work.
 
 **If you registered your address before**, you already have a tax ID. You just need to [find it](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
-**If you can't register your address**, fill [this form](/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id). You will get your tax ID by post 2 to 6 weeks later.
-
-There is no way to get your tax ID faster. You can't go to the *[[Finanzamt]]* just after your *[[Anmeldung]]*. You must wait for the letter. If you don't get a letter after 6 weeks, go to your [local Finanzamt](https://service.berlin.de/standorte/finanzaemter/) with your passport, and ask for your tax ID.[^2] You don't need an appointment.
+**If you did not get your tax ID** after 6 weeks, [request it again](https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Steuerliche_IDNr/Mitteilung_IdNr/mitteilung_IdNr_node.html). You can also go to [your local *Finanzamt*](/out/assigned-finanzamt-finder) with your passport, and ask for your tax ID.[^2] You don't need an appointment. A lot of people never get their tax ID letter.
 
 ### Where to find your tax ID
 
-**If you already have a tax ID**, you can find it here:
+If you already have a tax ID, you can find it on...
 
-- On the document you get from the *[Bundeszentralamt für Steuern](/images/tax-id-document-bzst.jpg)*, after you [register your address](/glossary/Anmeldung) for the first time, as "Persönliche Identificationsnummer" - [example](/images/tax-id-document-bzst.jpg)
-- On your pay slip (*[[Gehaltsabrechnung]]*) as "Steuer ID" - [example](/images/Gehaltsabrechnung-muster-steuerID.png)
-- On your salary tax statement (*[[Lohnsteuerbescheinigung]]*) as "Identifikationsnummer" - [example](/images/Lohnsteuerbescheinigung-SteuerID.png)
-- On your income tax report (*[[Steuerbescheid]]*) as "IdNr" - [example](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png)
-- On your *Entgeltabrechnung*
-- Your employer and your [tax advisor](/glossary/Steuerberater) know your tax ID. Ask them.
+- [The letter from the *Bundeszentralamt für Steuern*](/images/tax-id-document-bzst.jpg). You get it 4 to 6 weeks after your first *[[Anmeldung]]*
+- Your [pay slip](/images/Gehaltsabrechnung-muster-steuerID.png) (*[[Gehaltsabrechnung]]*)
+- Your [salary tax statement](/images/Lohnsteuerbescheinigung-SteuerID.png) (*[[Lohnsteuerbescheinigung]]*) as "Identifikationsnummer"
+- Your [income tax report](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png) (*[[Steuerbescheid]]*) as "IdNr"
+- In [[ELSTER]] [under *Meine Profile*](/images/elster-tax-id.png)
 
-**If you lost your tax ID**, there are 2 ways to find it:
+If you can't find your tax ID...
 
-- Go to your [local Finanzamt](https://service.berlin.de/standorte/finanzaemter/) with your passport, and ask for your tax ID.[^2] You don't need an appointment.
-- Fill [this form](https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Steuerliche_IDNr/Mitteilung_IdNr/mitteilung_IdNr_node.html), and the *[[Finanzamt]]* will send you a letter with your tax ID. It around 4 weeks, sometimes longer. They will send it to the address you [registered](/glossary/Anmeldung), not anywhere else.
+- Go to your [local *Finanzamt*](/out/finanzamt-finder) with your passport, and ask for your tax ID.[^2] You don't need an appointment. If they won't help you, go to another *Finanzamt*.
+- Fill [this form](https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Steuerliche_IDNr/Mitteilung_IdNr/mitteilung_IdNr_node.html), and get a letter from the *[[Finanzamt]]* in around 4 weeks. They will send it to the address you [registered](/glossary/Anmeldung), not anywhere else. Make sure that [your name is on your mailbox](/guides/address-change#put-your-name-on-your-mailbox).
+
+Your employer and your [tax advisor](/glossary/Steuerberater) also know your tax ID. Ask them.
 
 ## The tax number (Steuernummer)
 
@@ -65,10 +77,11 @@ When you get your *Steuernummer*, you must put it in your [[Impressum]], and on 
 
 ### Where to find your Steuernummer
 
-If you have a Steuernummer, you can find it here:
+If you have a Steuernummer, you can find it...
 
-- On your income tax report (*[[Steuerbescheid]]*) - [example](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png)
-- On most documents you get from the *[[Finanzamt]]*
+- On your [income tax report](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png) (*[[Steuerbescheid]]*)
+- On most letters from the *[[Finanzamt]]*
+- In [[ELSTER]] [under *Meine Profile*](/images/elster-tax-number.png)
 
 ### Where to find a business' tax number
 
@@ -76,9 +89,13 @@ You can usually find a business' *Steuernummer* on their website (in their [[Imp
 
 ## The VAT number (Umsatzsteuer-Id)
 
-The *Umsatzsteuer-ID* is **the German VAT number**. It's a 9 digit number with the format "**DE123456789**". It's also called *Umsatzsteuer-Identifikationsnummer*, *USt-Identifikationsnummer* or *USt-IdNr.*
+The *Umsatzsteuer-ID* is **the German VAT number**. It's a 9 digit number with the format "**DE123456789**". This number identifies your business for [[B2B]] transactions in the [[European Union]]. It proves that you are a business and not a private consumer. Your VAT number must appear on your B2B invoices for [EU](/glossary/European%20Union) customers.
 
-This number identifies your business for [[B2B]] transactions in the European Union. It proves that you are a business and not a private consumer. Your VAT number must appear on your B2B invoices for [EU](/glossary/European%20Union) customers.
+The VAT number is also called...
+
+- *Umsatzsteuer-Identifikationsnummer*
+- *USt-Identifikationsnummer*
+- *USt-IdNr.*
 
 You can have a VAT number even if you don't charge VAT. You can also charge VAT without a VAT number.[^3]
 
@@ -90,7 +107,7 @@ You get a VAT number when you [register your business with the *Finanzamt*](/gui
 
 A small business (*[[Kleinunternehmer]]*) that does not charge VAT might not have a VAT number.
 
-When you get your VAT number, you must put it in your [[Impressum]], and on your invoices to EU customers.
+When you get your VAT number, you must put it in your [[Impressum]], and on your invoices for EU customers.
 
 ### Where to find a business' VAT number
 
@@ -110,3 +127,4 @@ You can [check if a VAT number is valid](https://www.iban.com/vat-checker), but 
 [^5]: [lexikon.fastbill.com](https://www.fastbill.com/steuernummer-pruefen)
 [^6]: [sumup.de](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/steuernummer-oder-umsatzsteuer-id/)
 [^7]: [Screenshot](/guides/fragebogen-zur-steuerlichen-erfassung)
+[^8]: [ginmon.de](https://www.ginmon.de/wiki/steueridentifikationsnummer/#:~:text=nachdem%20sie%20sich%20beim%20einwohnermeldeamt%20gemeldet%20haben)

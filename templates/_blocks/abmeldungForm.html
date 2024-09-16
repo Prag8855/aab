@@ -43,7 +43,7 @@
 				v-model="oldBuildingDetails"
 				placeholder="Haus B, 2. Etage rechts"
 				autocomplete="address-line2">
-			<a class="input-instructions" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details ➞</a>
+			<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details</a>
 		</div>
 		<hr>
 		<div class="form-group required">
@@ -79,12 +79,13 @@
 		</div>
 		<div class="form-group required">
 			<label :for="uid('newCountry')">Country</label>
-			<select ref="newCountryInput" v-model="newCountry" :id="uid('newCountry')" :aria-describedby="uid('newCountry-instructions')" autocomplete="country-name" required>
-				<option v-if="country !== 'Germany'" v-for="country in recommendedCountries">{{ country }}</option>
-				<option disabled>──────────</option>
-				<option v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
-			</select>
-			<span v-if="newCountry === 'Germany'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="https://allaboutberlin.com/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
+			<country-input
+				country-code
+				v-model="newCountry"
+				ref="newCountryInput"
+				:id="uid('newCountry')"
+				required></country-input>
+			<span v-if="newCountry === 'DE'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
 		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
@@ -100,6 +101,7 @@
 				<input type="text"
 					:id="uid('title') + person.id"
 					v-model="person.title"
+					autocomplete="honorific-prefix"
 					placeholder="Dr." 
 					class="anrede-input">
 			</div>
@@ -154,13 +156,11 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
-				<input type="text"
-				 	placeholder="Canada"
-				 	autofill="country-name"
-				 	:id="uid('nationality-' + person.id)"
-				 	:list="uid('countries')"
-				 	v-model="person.nationality"
-				 	required>
+				<country-input
+					country-code
+					v-model="person.nationality"
+					:id="uid('nationality-' + person.id)"
+					required></country-input>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>
@@ -194,9 +194,6 @@
 					required>
 			</div>
 		</template>
-		<datalist :id="uid('countries')">
-			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-		</datalist>
 	</template>
 	<template v-if="stage === 'offlineFinish'">
 		<h2>You are almost done!</h2>
@@ -224,7 +221,7 @@
 		<h3>What to do next</h3>
 		<p>To deregister your address, you must send this form to the Bürgeramt. You can do this by email, by post or in person.</p>
 		<div class="collapsible-options">
-			<a href="https://allaboutberlin.com/guides/abmeldung-deregister-in-berlin#by-registered-mail" target="_blank">
+			<a href="/guides/abmeldung-deregister-in-berlin#by-registered-mail" target="_blank">
 				{% endraw %}{% include "_css/icons/mail.svg" %}{% raw %}
 				<div>
 					<h3>Send the Abmeldung form</h3>
@@ -241,8 +238,15 @@
 			<a href="/out/deregistrationde-abmeldung" target="_blank">
 				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
 				<div>
-					<h3>Pay someone to do it</h3>
+					<h3>Pay someone to deregister you</h3>
 					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Abmeldung. It's easier, and you get your deregistration certificate by email.</p>
+				</div>
+			</a>
+			<a href="/donate" target="_blank">
+				{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
+				<div>
+					<h3>Support this website</h3>
+					<p>Donate a few euros to help me build more free tools.</p>
 				</div>
 			</a>
 		</div>
@@ -260,11 +264,12 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/countries.js' %}
+{% include '_js/countriesInGerman.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
@@ -291,10 +296,6 @@
 					people: [],
 					userId: 'allaboutberlin-' + Math.floor(Math.random() * 1000000).toString(36),
 
-					sortedCountryList: countries.getSortedList(),
-					recommendedCountries: new Set(
-						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
-					),
 					stages: [
 						'start',
 						'oldAddress',
@@ -341,25 +342,21 @@
 						showExtraFields: false,
 					})
 				},
-				formatDate,
-				mergeFields(fields){
-					return fields.filter(Boolean).join(', ')
-				},
 				async generatePDF(person1, person2, person3){
 					this.downloadInProgress = true;
 					const textFields = {
-						'Tag des Auszugs': this.formatDate(this.moveOutDate, 'de-DE'),
-						'Postleitzahl Gemeinde Ortsteil bisherige Wohnung': this.mergeFields([
+						'Tag des Auszugs': formatDate(this.moveOutDate, 'de-DE'),
+						'Postleitzahl Gemeinde Ortsteil bisherige Wohnung': mergeFields([
 							this.oldPostCode,
 							'Berlin'
 						]),
-						'Straße Hausnummer Zusätze bisherige Wohnung': this.mergeFields([
+						'Straße Hausnummer Zusätze bisherige Wohnung': mergeFields([
 							this.oldAddress,
 							this.oldBuildingDetails
 						]),
-						'Postleitzahl Gemeinde Kreis Land (falls Ausland: Staat) künftige Wohnung': this.mergeFields([
+						'Postleitzahl Gemeinde Kreis Land (falls Ausland: Staat) künftige Wohnung': mergeFields([
 							this.newCityAndPostCode,
-							this.newCountry
+							countriesInGerman.all[this.newCountry]
 						]),
 						'Straße Hausnummer Zusätze künftige Wohnung': this.newAddress,
 					};
@@ -370,57 +367,57 @@
 					};
 
 					if(person1){
-						textFields['Person 1 Familienname ggf Doktorgrad Zeile 1'] = this.mergeFields([
+						textFields['Person 1 Familienname ggf Doktorgrad Zeile 1'] = mergeFields([
 							person1.lastName,
 							person1.title
 						]);
 						textFields['Person 1 Vornamen Rufnamen unterstreichen'] = person1.firstName;
 						textFields['Person 1 Geburtsname'] = person1.birthName;
 						textFields['Person 1 Geschlecht'] = person1.gender;
-						textFields['Person 1 Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person1.dateOfBirth, 'de-DE'),
+						textFields['Person 1 Tag Ort Land der Geburt'] = mergeFields([
+							formatDate(person1.dateOfBirth, 'de-DE'),
 							person1.birthPlace
 						]);
 						textFields['Person 1 Religionsgesellschaft'] = person1.religion;
-						textFields['Person 1 Staatsangehörigkeiten'] = person1.nationality;
+						textFields['Person 1 Staatsangehörigkeiten'] = countriesInGerman.all[person1.nationality];
 						textFields['Person 1 Ordens- Künstlername'] = person1.artistName;
 					}
 
 					if(person2){
-						textFields['Person 2 Familienmitglied ist Familienname ggf Doktorgrad'] = this.mergeFields([
+						textFields['Person 2 Familienmitglied ist Familienname ggf Doktorgrad'] = mergeFields([
 							person2.lastName,
 							person2.title
 						]);
 						textFields['Person 2 Familienmitglied ist Vornamen Rufnamen unterstreichen'] = person2.firstName;
 						textFields['Person 2 Familienmitglied ist Geburtsname'] = person2.birthName;
 						textFields['Person 2 Familienmitglied istGeschlecht'] = person2.gender;
-						textFields['Person 2 Familienmitglied ist Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person2.dateOfBirth, 'de-DE'),
+						textFields['Person 2 Familienmitglied ist Tag Ort Land der Geburt'] = mergeFields([
+							formatDate(person2.dateOfBirth, 'de-DE'),
 							person2.birthPlace
 						]);
 						textFields['Person 2 Familienmitglied ist Religionsgesellschaft'] = person2.religion;
-						textFields['Person 2 Familienmitglied ist Staatsangehörigkeiten'] = person2.nationality;
+						textFields['Person 2 Familienmitglied ist Staatsangehörigkeiten'] = countriesInGerman.all[person2.nationality];
 						textFields['Person 2 Familienmitglied ist Ordens- Künstlername'] = person2.artistName;
 					}
 
 					if(person3){
-						textFields['Person 3 Familienmitglied ist Familienname ggf Doktorgrad'] = this.mergeFields([
+						textFields['Person 3 Familienmitglied ist Familienname ggf Doktorgrad'] = mergeFields([
 							person3.lastName,
 							person3.title
 						]);
 						textFields['Person 3 Familienmitglied ist Vornamen Rufnamen unterstreichen'] = person3.firstName;
 						textFields['Person 3 Familienmitglied ist Geburtsname'] = person3.birthName;
 						textFields['Person 3 Familienmitglied ist Geschlecht'] = person3.gender;
-						textFields['Person 3 Familienmitglied ist Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person3.dateOfBirth, 'de-DE'),
+						textFields['Person 3 Familienmitglied ist Tag Ort Land der Geburt'] = mergeFields([
+							formatDate(person3.dateOfBirth, 'de-DE'),
 							person3.birthPlace
 						]);
 						textFields['Person 3 Familienmitglied ist Religionsgesellschaft'] = person3.religion;
-						textFields['Person 3 Familienmitglied istStaatsangehörigkeiten'] = person3.nationality;
+						textFields['Person 3 Familienmitglied istStaatsangehörigkeiten'] = countriesInGerman.all[person3.nationality];
 						textFields['Person 3 Familienmitglied ist OrdensKünstlername'] = person3.artistName;
 					}
 
-					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, 'abmeldung-form-filled.pdf', this.trackAs);
+					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, null, 'abmeldung-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
 				},
 			},
@@ -448,7 +445,7 @@
 				},
 				newCountry(newVal) {
 					try{
-						this.$refs.newCountryInput.$el.setCustomValidity(newVal === 'Germany' ? "You probably don't need to deregister." : '');
+						this.$refs.newCountryInput.$el.setCustomValidity(newVal === 'DE' ? "You probably don't need to deregister." : '');
 					} catch (e) {}
 				},
 			},

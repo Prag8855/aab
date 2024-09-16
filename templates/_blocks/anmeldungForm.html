@@ -43,7 +43,7 @@
 				v-model="newBuildingDetails"
 				placeholder="Haus B, 2. Etage rechts"
 				autocomplete="address-line2">
-			<a class="input-instructions" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details ➞</a>
+			<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details</a>
 		</div>
 		<hr>
 		<div class="form-group required">
@@ -58,15 +58,17 @@
 		<hr>
 		<div class="form-group required">
 			<label :for="uid('oldCountry')">Country</label>
-			<select ref="oldAddressCountryInput" v-model="oldCountry" :id="uid('oldCountry')" :aria-describedby="uid('oldCountry-instructions')" autocomplete="country-name" required>
-				<option disabled hidden default value="">Country of your previous address</option>
-				<option :value="country" v-for="country in recommendedCountries" :key="country">{{ country }}</option>
-				<option disabled>──────────</option>
-				<option :value="country[1]" v-for="country in sortedCountryList" :key="country[0]">{{ country[1] }}</option>
-			</select>
-			<span v-if="oldCountry && oldCountry !== 'Germany'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
+			<country-input
+				country-code
+				v-model="oldCountry"
+				ref="oldAddressCountryInput"
+				:id="uid('oldCountry')"
+				placeholder="Country of your previous address"
+				:aria-describedby="uid('oldCountry-instructions')"
+				required></country-input>
+			<span v-if="oldCountry && oldCountry !== 'DE'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
 		</div>
-		<template v-if="oldCountry === 'Germany'">
+		<template v-if="oldCountry === 'DE'">
 			<div class="form-group required">
 				<label :for="uid('oldAddress')">Street address</label>
 				<input
@@ -99,11 +101,7 @@
 				<label :for="uid('state')">
 					State
 				</label>
-				<select :id="uid('state')" v-model="oldState" required>
-					<option value="be">Berlin</option>
-					<option disabled>──────────</option>
-					<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr" v-if="!abbr.startsWith('be-')">{{ state.englishName }}</option>
-				</select>
+				<state-input :id="uid('state')" v-model="oldState" required></state-input>
 			</div>
 		</template>
 	</template>
@@ -117,6 +115,7 @@
 				<input type="text"
 					:id="uid('title') + person.id"
 					v-model="person.title"
+					autocomplete="honorific-prefix"
 					placeholder="Dr." 
 					class="anrede-input">
 			</div>
@@ -171,13 +170,12 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
-				<input type="text"
-				  placeholder="Canada"
-				  autofill="country-name"
-				  :id="uid('nationality-' + person.id)"
-				  :list="uid('countries')"
-				  v-model="person.nationality"
-				  required>
+				<country-input
+					country-code
+					v-model="person.nationality"
+					ref="oldAddressCountryInput"
+					:id="uid('nationality-' + person.id)"
+					required></country-input>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>
@@ -215,9 +213,6 @@
 				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The city, region and country where you were born.</span>
 			</div>
 		</template>
-		<datalist :id="uid('countries')">
-			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-		</datalist>
 	</template>
 	<template v-if="stage === 'beiAddress'">
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
@@ -231,7 +226,7 @@
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#if-your-name-is-not-on-your-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
 		<div class="form-group required" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
-			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Müller" required>
+			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Max Mustermann" required>
 		</div>
 	</template>
 	<template v-if="stage === 'idDocuments'">
@@ -330,8 +325,15 @@
 			<a href="/out/red-tape-translation-anmeldung" target="_blank">
 				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
 				<div>
-					<h3>Let someone else do it</h3>
-					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Anmeldung.</p>
+					<h3>Pay someone to register you</h3>
+					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Anmeldung. It's more convenient.</p>
+				</div>
+			</a>
+			<a href="/donate" target="_blank">
+				{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
+				<div>
+					<h3>Support this website</h3>
+					<p>Donate a few euros to help me build more free tools.</p>
 				</div>
 			</a>
 		</div>
@@ -350,16 +352,18 @@
 {% endraw %}
 </collapsible>
 {% include '_js/countries.js' %}
-{% include '_js/germanStates.js' %}
+{% include '_js/countriesInGerman.js' %}
 {% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/city-input.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
@@ -384,12 +388,6 @@
 					people: [],
 					namesAreOnMailbox: true,
 					nameOnMailbox: '',
-
-					germanStates,
-					sortedCountryList: countries.getSortedList(),
-					recommendedCountries: new Set(
-						(navigator.languages || []).map(l => countries.all[l.substring(3)]).concat(['Germany']).filter(Boolean)
-					),
 					stages: [
 						'start',
 						'newAddress',
@@ -441,10 +439,6 @@
 						documentExpirationDate: '',
 					})
 				},
-				formatDate,
-				mergeFields(fields){
-					return fields.filter(Boolean).join(', ')
-				},
 				personName(person, index){
 					if(person.firstName || person.lastName){
 						return [person.firstName, person.lastName].filter(Boolean).join(' ');
@@ -454,32 +448,29 @@
 				async generatePDF(person1, person2){
 					this.downloadInProgress = true;
 
-					// The full state name can be too long. Just use the abbreviation.
-					let oldStateName = this.oldState.substring().slice(0,2).toUpperCase();
-
 					let beiAddress = this.namesAreOnMailbox ? '' : `bei ${this.nameOnMailbox}`;
 					const textFields = {
-						'Tag des EinzugsRow1': this.formatDate(this.moveInDate, 'de-DE'),
-						'Tag des AuszugsRow1': this.formatDate(this.moveInDate, 'de-DE'),
-						'Straße Hausnummer ZusätzeRow1': this.mergeFields([
+						'Tag des EinzugsRow1': formatDate(this.moveInDate, 'de-DE'),
+						'Tag des AuszugsRow1': formatDate(this.moveInDate, 'de-DE'),
+						'Straße Hausnummer ZusätzeRow1': mergeFields([
 							this.newAddress,
 							this.newBuildingDetails,
 							beiAddress
 						]),
-						'Postleitzahl Gemeinde OrtsteilRow1': this.mergeFields([
+						'Postleitzahl Gemeinde OrtsteilRow1': mergeFields([
 							this.newPostCode,
 							'Berlin'
 						]),
-						'Straße Hausnummer ZusätzeRow1_2': this.mergeFields([
+						'Straße Hausnummer ZusätzeRow1_2': mergeFields([
 							this.oldAddress,
 							this.oldBuildingDetails
 						]),
-						'Postleitzahl GemeindeKreisLandRow1': this.mergeFields([
+						'Postleitzahl GemeindeKreisLandRow1': mergeFields([
 							this.oldPostCode,
 							this.oldCity,
-							oldStateName
+							this.oldState.toUpperCase() // Just the abbreviation
 						]),
-						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'Germany' ? '' : this.oldCountry,
+						'Bei Zuzug aus dem Ausland StaatRow1': this.oldCountry === 'DE' ? '' : countriesInGerman.all[this.oldCountry],
 					};
 					const checkboxFields = {
 						'alleinige': true,
@@ -489,60 +480,60 @@
 					};
 
 					if(person1){
-						textFields['Familienname ggf Doktorgrad Passname'] = this.mergeFields([
+						textFields['Familienname ggf Doktorgrad Passname'] = mergeFields([
 							person1.lastName,
 							person1.title
 						]);
 						textFields['Vornamen Rufnamen unterstreichen'] = person1.firstName;
 						textFields['Geburtsname'] = person1.birthName;
 						textFields['Geschlecht'] = person1.gender;
-						textFields['Tag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person1.dateOfBirth, 'de-DE'),
+						textFields['Tag Ort Land der Geburt'] = mergeFields([
+							formatDate(person1.dateOfBirth, 'de-DE'),
 							person1.birthPlace
 						]);
 						textFields['Religionsgesellschaft'] = person1.religion;
-						textFields['Staatsangehörigkeiten'] = person1.nationality;
+						textFields['Staatsangehörigkeiten'] = countriesInGerman.all[person1.nationality];
 						textFields['OrdensKünstlername'] = person1.artistName;
 
 						textFields['ArtRow1'] = person1.documentType;
 						textFields['AusstellungsbehördeRow1'] = person1.documentIssuingAuthority;
 						textFields['SeriennummerRow1'] = person1.documentNumber;
-						textFields['DatumRow1'] = this.formatDate(person1.documentIssueDate, 'de-DE');
-						textFields['gültig bisRow1'] = this.formatDate(person1.documentExpirationDate, 'de-DE');
-						textFields['Name Vorname'] = this.mergeFields([
+						textFields['DatumRow1'] = formatDate(person1.documentIssueDate, 'de-DE');
+						textFields['gültig bisRow1'] = formatDate(person1.documentExpirationDate, 'de-DE');
+						textFields['Name Vorname'] = mergeFields([
 							person1.lastName,
 							person1.firstName
 						]);
 					}
 
 					if(person2){
-						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = this.mergeFields([
+						textFields['Familienmitglied istFamilienname ggf Doktorgrad Passname'] = mergeFields([
 							person2.lastName,
 							person2.title
 						]);
 						textFields['Familienmitglied istVornamen Rufnamen unterstreichen'] = person2.firstName;
 						textFields['Familienmitglied istGeburtsname'] = person2.birthName;
 						textFields['Familienmitglied istGeschlecht'] = person2.gender;
-						textFields['Familienmitglied istTag Ort Land der Geburt'] = this.mergeFields([
-							this.formatDate(person2.dateOfBirth, 'de-DE'),
+						textFields['Familienmitglied istTag Ort Land der Geburt'] = mergeFields([
+							formatDate(person2.dateOfBirth, 'de-DE'),
 							person2.birthPlace
 						]);
 						textFields['Familienmitglied istReligionsgesellschaft'] = person2.religion;
-						textFields['Familienmitglied istStaatsangehörigkeiten'] = person2.nationality;
+						textFields['Familienmitglied istStaatsangehörigkeiten'] = countriesInGerman.all[person2.nationality];
 						textFields['Familienmitglied istOrdensKünstlername'] = person2.artistName;
 
 						textFields['ArtRow1_2'] = person2.documentType;
 						textFields['AusstellungsbehördeRow1_2'] = person2.documentIssuingAuthority;
 						textFields['SeriennummerRow1_2'] = person2.documentNumber;
-						textFields['DatumRow1_2'] = this.formatDate(person2.documentIssueDate, 'de-DE');
-						textFields['gültig bisRow1_2'] = this.formatDate(person2.documentExpirationDate, 'de-DE');
-						textFields['Name Vorname_2'] = this.mergeFields([
+						textFields['DatumRow1_2'] = formatDate(person2.documentIssueDate, 'de-DE');
+						textFields['gültig bisRow1_2'] = formatDate(person2.documentExpirationDate, 'de-DE');
+						textFields['Name Vorname_2'] = mergeFields([
 							person2.lastName,
 							person2.firstName
 						]);
 					}
 
-					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, 'anmeldung-form-filled.pdf', this.trackAs);
+					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, null, 'anmeldung-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
 				}
 			},
@@ -552,7 +543,7 @@
 						const inputToFocus = {
 							start: () => this.$refs.startButton,
 							newAddress: () => this.$refs.newAddressInput,
-							oldAddress: () => this.$refs.oldAddressCountryInput,
+							oldAddress: () => this.$refs.oldAddressCountryInput.$el,
 							addPeople: () => this.$refs.firstNameInput[0],
 							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
 							idDocuments: () => this.$refs.documentTypePassportCheckbox[0],

@@ -1,9 +1,9 @@
 {% include '_js/vue.js' %}
 {% js %}{% raw %}
 Vue.component('occupation-input', {
-  props: ['value'],
-  template: `
-	<select class="select" :value="value" v-on:input="$emit('input', $event.target.value)">
+	props: ['value'],
+ 	template: `
+	<select :value="value" v-on:input="$emit('input', $event.target.value)">
 		<optgroup label="Employee">
 			<option value="employee">Employee</option>
 			<option value="azubi">Apprentice (Azubi)</option>
@@ -18,6 +18,6 @@ Vue.component('occupation-input', {
 			<option value="unemployed">Unemployed</option>
 		</optgroup>
 	</select>
-  `,
+	`,
 });
 {% endraw %}{% endjs %}

@@ -19,7 +19,7 @@ class ArrowLinkIconProcessor(Treeprocessor):
                     el.text = el.text.rstrip('➞').rstrip()
 
                     link_class = 'internal-link'
-                    if el.attrib['href'].startswith(('http://', 'https://')):
+                    if el.attrib['href'].startswith(('http://', 'https://', '/out/')):
                         link_class = 'external-link'
                     elif el.attrib['href'].startswith('#'):
                         el.attrib['title'] = 'Scroll to this section'
@@ -28,7 +28,7 @@ class ArrowLinkIconProcessor(Treeprocessor):
                         else:
                             link_class = 'section-link after'
 
-                    el.attrib['class'] = el.attrib.get('class', '') + ' arrow-link ' + link_class
+                    el.attrib['class'] = el.attrib.get('class', '') + ' ' + link_class
         return root
 
 

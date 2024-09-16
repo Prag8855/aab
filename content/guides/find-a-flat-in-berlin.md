@@ -54,7 +54,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 - **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - [Wunderflats](/out/wunderflats) - They offer less protection against scams.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
-- [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution).
+- [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution). You must pay *before* you can read the lease, and it's hard to get your money back.
 - [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
 - [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible[^8]
@@ -140,6 +140,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
     They help you prepare your documents and apply for apartments. They use bots to find apartments and automatically write to landlords.
 - **[Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/)**  
     Short-term and long-term apartments. They help you prepare your documents and apply for apartments.
+- [Nest Finder Berlin](https://nestfinderberlin.com/)
 - [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 

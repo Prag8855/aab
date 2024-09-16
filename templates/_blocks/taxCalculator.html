@@ -9,6 +9,7 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/occupation-input.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.income-tax-calculator').forEach(
@@ -23,6 +24,7 @@
 					customZusatzbeitrag: getDefaultNumber('publicHealthInsuranceZusatzbeitrag'),
 					formatPercent,
 					germanState: getDefault('state'),
+					germanStates,
 					healthInsuranceType: getDefault('healthInsuranceType'),
 					income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
 					isMarried: getDefaultBoolean('isMarried'),
@@ -50,7 +52,6 @@
 						disposableIncome: '#4A7BB7',
 						totalDeductions: '#CD683D',
 					},
-					germanStates,
 					healthInsuranceMaxMonthlyIncome: healthInsurance.maxMonthlyIncome,
 				}
 			},
@@ -70,7 +71,7 @@
 
 				disposableIncomeRatio() { return Math.round(Math.max(this.result.disposableIncome / this.income, 0) * 100)},
 
-				isInEastGermany() { return germanStates[this.germanState].isInEastGermany },
+				isInEastGermany() { return germanStates.isEastGerman(this.germanState) },
 				isPayingChurchTax() { return this.church !== 'other' },
 				monthOrYear() { return this.useMonthlyIncome ? 'month' : 'year' },
 
@@ -200,7 +201,6 @@
 				},
 			},
 			methods: {
-				stateName,
 				spouseTaxClass(taxClass) {
 					if(taxClass === 3) return 5;
 					else if(taxClass === 5) return 3;
@@ -286,9 +286,7 @@
 			<label :for="uid('state')">
 				Where do you work?
 			</label>
-			<select :id="uid('state')" v-model="germanState">
-				<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-			</select>
+			<state-input east-west-berlin :id="uid('state')" v-model="germanState"></state-input>
 		</div>
 		<hr>
 		<div class="form-group show-errors">
@@ -669,7 +667,7 @@
 						<eur :amount="result.churchTax"></eur>
 					</output>
 				</summary>
-				<p>Your church collects a <glossary term="Kirchensteuer">church tax</glossary>. In {{ germanStates[germanState].englishName }}, the church tax is {{ formatPercent(result.churchTaxRate * 100) }} of your <glossary term="Einkommensteuer">income tax</glossary>.</p>
+				<p>Your church collects a <glossary term="Kirchensteuer">church tax</glossary>. In {{ germanStates.names[germanState].en }}, the church tax is {{ formatPercent(result.churchTaxRate * 100) }} of your <glossary term="Einkommensteuer">income tax</glossary>.</p>
 				<p v-if="result.churchTax === 0 && result.incomeTax === 0">Your income is too low to pay income tax, so you don't pay church tax.</p>
 			</details>
 			<details class="total">

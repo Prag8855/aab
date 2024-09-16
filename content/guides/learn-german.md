@@ -101,8 +101,6 @@ Most private schools also offer online classes.
     Regular and intensive classes in Prenzlauer Berg. Private lessons are available.
 - **[DeutSCHule](https://www.die-deutschule.de/en/german-course-berlin/)**  
     Intensive classes in Neukölln.
-- **[Expath](https://www.expath.com/for-individuals/?utm_source=referral&utm_medium=blog&utm_campaign=AAB2021&utm_content=discount_code)**  
-    Regular and intensive German classes in Prenzlauer Berg and Neukölln. Private lessons are available. They also offer relocation services.
 - **[GLS Language School](https://www.gls-german-courses.de/index.html)**  
     Regular and intensive German classes in Prenzlauer Berg. Private lessons are available. They also offer accommodation,[^8] and summer camps for kids and teens.
 - **[Kapitel Zwei](https://kapitel-zwei.de/en/?utm_source=allaboutberlin&utm_medium=Artikel&utm_campaign=allaboutberlin&utm_content=Startseite%20EN)**  
@@ -149,8 +147,8 @@ There are also many language learning apps for German:
     Private video lessons with a private teacher. You can book lessons every hour, so you can make your own schedule. Your teacher helps you complete exercises, and asks you questions. You can skip exercises you understand, or slow down to ask questions. If you don't like your teacher, you can find a new one. It's a great way to practice German conversations. In my opinion, this is the best way to learn German.
 - **[Duolingo](https://www.duolingo.com/)** - free  
     This is a famous language learning app. It's more interesting than Babbel, but the mobile app does not explain the grammar really well. I find Duolingo too limited. I recommend Babbel or Chatterbug instead.
-- **[Expath](https://www.expath.com/for-individuals/online-german?utm_source=referral&utm_medium=blog&utm_campaign=AAB&utm_content=self_study)**  
-    The teachers at Expath have recorded videos of their German lessons. You can stream them online. Use the code "AAB2021" for a 10€ discount.
+- **[Deutschable](https://deutschable.com/enjoy-10e-off-a-premium-membership-all-about-berlin/)**  
+    Stream recorded videos of real beginner German lessons online.
 - **[Italki](https://www.italki.com/)**  
     Private video lessons with language teachers. Each teacher charges a different price. You can talk with your teacher on the Italki website, Zoom, Facetime, Skype or another tool.[^10]
 - **[Lingoda](/out/lingoda)** - 32€ per lesson  

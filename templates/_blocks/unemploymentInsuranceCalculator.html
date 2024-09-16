@@ -8,6 +8,7 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/occupation-input.js' %}
+{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.unemployment-insurance-calculator').forEach(
@@ -19,7 +20,6 @@
 					occupation: getDefault('occupation'),
 					monthlyIncome: Math.round(getDefaultNumber('yearlyIncome')/12),
 					germanState: getDefault('state'),
-					germanStates,
 					occupations,
 					taxes,
 				}
@@ -28,22 +28,16 @@
 				showStatePicker: function() {
 					return (+this.monthlyIncome) * 12 >= taxes.beitragsbemessungsgrenze.currentYear.east && this.occupation !== 'unemployed';
 				},
-				isInEastGermany: function() {
-					return germanStates[this.germanState].isInEastGermany;
-				},
 				results: function() {
 					setDefault('occupation', this.occupation);
 					setDefaultNumber('yearlyIncome', this.monthlyIncome*12);
 					setDefault('state', this.germanState);
-					return calculateUnemploymentInsurance(+this.monthlyIncome * 12, this.occupation, this.isInEastGermany);
+					return calculateUnemploymentInsurance(+this.monthlyIncome * 12, this.occupation, germanStates.isEastGerman(this.germanState));
 				},
 				monthlyBeitragsbemessungsgrenze: function() {
-					return taxes.beitragsbemessungsgrenze.currentYear[this.isInEastGermany ? 'east' : 'west'];
+					return taxes.beitragsbemessungsgrenze.currentYear[germanStates.isEastGerman(this.germanState) ? 'east' : 'west'];
 				},
 			},
-			methods: {
-				stateName,
-			}
 		})
 	);
 {% endjs %}
@@ -71,9 +65,7 @@
 				Where do you work?
 			</label>
 			<div class="input-group">
-				<select :id="uid('state')" v-model="germanState">
-					<option v-for="(state, abbr) in germanStates" :key="abbr" :value="abbr">{{ stateName(state) }}</option>
-				</select>
+				<state-input east-west-berlin :id="uid('state')" v-model="germanState"></state-input>
 				<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
 			</div>
 		</div>

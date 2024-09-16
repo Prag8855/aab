@@ -15,7 +15,6 @@ function calculateTax(yearlyIncome, opts) {
 	const age = +opts.age;  // TODO: §24 EStG for 64+
 	const childrenCount = +opts.childrenCount;
 	const germanStateAbbr = opts.germanState; // State where you WORK, not live
-	const germanState = germanStates[opts.germanState]; // State where you WORK, not live
 	const isPayingChurchTax = !!opts.isPayingChurchTax;
 	const occupation = opts.occupation;
 	const taxClass = +opts.taxClass;
@@ -27,7 +26,7 @@ function calculateTax(yearlyIncome, opts) {
 	const healthInsuranceType = opts.healthInsuranceType;
 
 	const isEmployed = occupations.isEmployed(occupation);
-	const isInEastGermany = germanState.isInEastGermany;
+	const isInEastGermany = germanStates.isEastGerman(germanStateAbbr);
 	const hasChildren = childrenCount > 0;
 
 	yearlyIncome = +yearlyIncome;
@@ -334,8 +333,8 @@ function calculateSolidarityTax(incomeTax, isSplittingTarif=false) {
 	}
 }
 
-function calculateChurchTax(incomeTax, germanState) {
-	const churchTaxRate = taxes.church[germanState] || taxes.church.default;
+function calculateChurchTax(incomeTax, germanStateAbbr) {
+	const churchTaxRate = taxes.church[germanStateAbbr] || taxes.church.default;
 	return {
 		churchTax: incomeTax * churchTaxRate,
 		churchTaxRate,
@@ -343,8 +342,8 @@ function calculateChurchTax(incomeTax, germanState) {
 }
 
 // TODO: unused
-function calculateCapitalGainsTax(income, germanState) {
-	const churchTaxRate = taxes.church[germanState] || taxes.church.default;
+function calculateCapitalGainsTax(income, germanStateAbbr) {
+	const churchTaxRate = taxes.church[germanStateAbbr] || taxes.church.default;
 	return income / (4 + churchTaxRate);
 }
 

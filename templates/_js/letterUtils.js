@@ -59,4 +59,10 @@ function formatDate(date, locale){
 	}
 	return '';
 }
+
+
+function mergeFields(fields){
+	return fields.filter(Boolean).join(', ')
+}
+
 {% endjs %}

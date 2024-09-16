@@ -157,7 +157,7 @@ There are 6 tax classes:
 
 ## How to pay less taxes
 
-**[How to save money ➞ Taxes](/guides/saving-money-germany#taxes-and-social-contributions)**
+**[How to pay less taxes ➞](/guides/saving-money-germany#taxes-and-social-contributions)**
 
 ## Need help?
 

@@ -25,7 +25,7 @@ This is the official template. You can use your own template, but some *[[Auslä
 
 {% include "_blocks/downloadDocuments.html"%}
 
-The original template is on [Berlin.de](https://service.berlin.de/dienstleistung/305249/).
+The same template is on [Berlin.de](https://service.berlin.de/dienstleistung/305249/).
 
 ## How to fill the revenue forecast
 

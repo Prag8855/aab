@@ -2,7 +2,7 @@
 const _pdfPromises = {};
 
 const pdf = {
-	async fillAndSavePDF(pdfUrl, textFields, checkboxFields, outputFileName, trackAs) {
+	async fillAndSavePDF(pdfUrl, textFields, checkboxFields, radioFields, outputFileName, trackAs) {
 		await pdf.loadPDFLib();
 		const pdfDoc = await PDFLib.PDFDocument.load(await pdf.loadPDF(pdfUrl));
 		const pdfForm = pdfDoc.getForm();
@@ -14,7 +14,7 @@ const pdf = {
 		   return rawUpdateFieldAppearances(customFont);
 		};
 
-		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 20 });
+		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 5 });
 
 		Object.entries(textFields || {}).forEach(([fieldName, value]) => {
 			const field = pdfForm.getTextField(fieldName);
@@ -29,6 +29,9 @@ const pdf = {
 			else {
 				pdfForm.getCheckBox(fieldName).uncheck(value);
 			}
+		});
+		Object.entries(radioFields || {}).forEach(([fieldName, value]) => {
+			pdfForm.getRadioGroup(fieldName).select(value);
 		});
 
 
