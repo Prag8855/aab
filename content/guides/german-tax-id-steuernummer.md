@@ -40,7 +40,7 @@ You need a tax ID to...
 
 You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time.[^8] 4 to 6 weeks later, you get [a letter from the *Bundeszentralamt für Steuern*](/images/tax-id-document-bzst.jpg) with your tax ID.
 
-**If you can't register your address**, fill [this form](/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id). You will get your tax ID by post 2 to 6 weeks later. This does not always work.
+**If you can't register your address**, fill [this form](/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id). You will get your tax ID by post 4 to 6 weeks later. This does not always work.
 
 **If you registered your address before**, you already have a tax ID. You just need to [find it](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 

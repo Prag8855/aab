@@ -138,6 +138,8 @@ When you [look for an apartment](/guides/find-a-flat-in-berlin), check if they l
 
 [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Wunderflats](/out/wunderflats) show you if you can register your address. Those furnished apartments are very expensive, but they let you [move in](/guides/moving-in) and focus on other problems. That gives you more time to find a better, cheaper apartment.
 
+When you register your address for the first time, you get a tax ID. If you can't register your address [you can still get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
+
 ### Can the landlord refuse to let me register?
 
 **No**. The landlord must let you register your address, but there are exceptions:
