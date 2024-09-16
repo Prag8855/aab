@@ -380,13 +380,13 @@
 				},
 				async generatePDF(person){
 					this.downloadInProgress = true;
-					const beiAddress = (this.country === 'DE' && this.namesAreOnMailbox) ? '' : `(bei ${this.nameOnMailbox})`;
+					const beiAddress = (this.namesAreOnMailbox || this.country !== 'DE') ? '' : `(bei ${this.nameOnMailbox})`;
 
 					const textFields = {
-						lastName: mergeFields([
+						lastName: [
 							person.lastName,
 							person.birthName ? `(geb. ${person.birthName})` : null,
-						]),
+						].join(' '),
 						firstName: person.firstName,
 						placeOfBirth: person.birthPlace,
 						dateOfBirthDay: person.dateOfBirth.substring(8, 10).split('').join(' '), // A space between characters align them with the form field
@@ -455,7 +455,7 @@
 					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, radioFields, 'tax-id-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
 
-					if(!this.feedbackReminderSent){
+					if(this.emailAddress && !this.feedbackReminderSent){
 						this.feedbackReminderSent = true;
 						const deliveryDate = new Date();
 						deliveryDate.setDate(deliveryDate.getDate() + 7 * 8); // 8 weeks
@@ -466,7 +466,7 @@
 								keepalive: true,
 								headers: {'Content-Type': 'application/json; charset=utf-8',},
 								body: JSON.stringify({
-									name: [this.firstName, this.lastName].join(' '),
+									name: [person.firstName, person.lastName].join(' '),
 									email: this.emailAddress,
 									deliveryDate: deliveryDate.toISOString(),
 								}),
