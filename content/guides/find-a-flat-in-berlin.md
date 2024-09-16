@@ -140,6 +140,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
     They help you prepare your documents and apply for apartments. They use bots to find apartments and automatically write to landlords.
 - **[Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/)**  
     Short-term and long-term apartments. They help you prepare your documents and apply for apartments.
+- [Nest Finder Berlin](https://nestfinderberlin.com/)
 - [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
