@@ -12,4 +12,4 @@ A *Postleitzahl* or *PLZ* is a German post code or zip code. It always has 5 dig
 
 Always include the *Postleitzahl* when you [write a German address](/guides/addressing-a-letter-in-germany). In big cities, two streets can have the same name. Only their post code is different.
 
-**[Postal code finder](https://www.postdirekt.de/plzserver/)** - Deutsche Post
+**[Find your post code ➞](https://www.postdirekt.de/plzserver/)**

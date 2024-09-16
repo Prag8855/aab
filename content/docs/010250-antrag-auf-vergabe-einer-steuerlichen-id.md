@@ -65,11 +65,11 @@ If you fill this form because you can't register your current address:
 
 ## How to send this form
 
-If you are an employee, send it to your employer's local *[[Finanzamt]]*. If not, send it to your local *[[Finanzamt]]*.[^0]
+If you are an employee, mail the form to your employer's local *[[Finanzamt]]*. If not, mail it to your local *[[Finanzamt]]*.[^0] Include a copy of your passport or *[[Personalausweis]]*.
 
 **[Find your local Finanzamt ➞](/out/finanzamt-finder)**
 
-Include a copy of your passport or *[[Personalausweis]]* with the form. You can use a *Personalausweis* from another EU country.
+**[How to mail a letter ➞](/guides/mail-a-letter)**
 
 ## What happens next?
 

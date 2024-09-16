@@ -61,7 +61,7 @@
 		<template v-if="purpose === 'other'">
 			<hr>
 			<p>
-				You probably don't need this tool to get a tax ID. You normally get a tax ID when you <glossary term="Anmeldung">register your address</glossary> for the first time.
+				You probably don't need this form to get a tax ID. You normally get a tax ID when you <glossary term="Anmeldung">register your address</glossary> for the first time.
 			</p>
 			<p>
 				<strong><a class="internal-link" href="/guides/german-tax-id-steuernummer#how-to-get-your-tax-id" target="_blank">How to get a tax ID</a></strong>
@@ -86,14 +86,16 @@
 				autocomplete="address-line1"
 				required>
 		</div>
-		<div class="form-group required">
-			<label :for="uid(country === 'DE' ? 'postCode' : 'foreignCityAndPostCode')">City and post code</label>
-			<div v-if="country === 'DE'" class="input-group">
+		<div v-if="country === 'DE'" class="form-group required">
+			<label :for="uid('postCode')"><glossary term="Postleitzahl">Post code</glossary> and city</label>
+			<div class="input-group">
 				<postalcode-input :id="uid('postCode')" v-model="germanPostCode" required></postalcode-input>
 				<city-input v-model="germanCity" required></city-input>
 			</div>
+		</div>
+		<div v-if="country !== 'DE'" class="form-group required">
+			<label :for="uid('foreignCityAndPostCode')">City and post code</label>
 			<input
-				v-if="country !== 'DE'"
 				:id="uid('foreignCityAndPostCode')"
 				placeholder="Montreal, Quebec, H3E 1J4"
 				type="text"
@@ -108,7 +110,6 @@
 	</template>
 	<template v-if="stage === 'addPeople'">
 		<h2>Who needs a tax ID?</h2>
-		<p>You can request a tax ID for multiple people at the same time.</p>
 		<template v-for="(person, index) in people">
 			<hr>
 			<div class="form-group required">
@@ -182,7 +183,7 @@
 	</template>
 	<template v-if="stage === 'employer'">
 		<h2>Send your tax ID to your employer</h2>
-		<p>The Finanzamt can send your tax ID to your employer. <template v-if="country === 'DE'">It's more reliable than sending it to your home address.</template></p>
+		<p>The <glossary>Finanzamt</glossary> can send your tax ID directly to your employer. It's more reliable than sending it to your {{ country === 'DE' ? 'home' : 'foreign'}} address.</p>
 		<hr>
 		<div class="input-group vertical">
 			<label class="checkbox">
@@ -210,7 +211,7 @@
 					required>
 			</div>
 			<div class="form-group required">
-				<label :for="uid('employerPostCode')">City and post code</label>
+				<label :for="uid('employerPostCode')"><glossary term="Postleitzahl">Post code</glossary> and city</label>
 				<div class="input-group">
 					<postalcode-input :id="uid('employerPostCode')" v-model="employerPostCode" required></postalcode-input>
 					<city-input v-model="employerCity" required></city-input>
@@ -224,10 +225,10 @@
 	</template>
 	<template v-if="stage === 'feedback'">
 		<h2>Volunteer to give feedback</h2>
-		<p>In 8 weeks, I want to ask for your feedback. I want to know if this form worked for you. It's optional, but it helps me do a better job.</p>
+		<p>In 8 weeks, I want to ask you if you got your tax ID. Your feedback will help me improve this form.</p>
 		<hr>
-		<div class="form-group">
-			<label :for="uid('email')">Email address</label>
+		<div class="form-group optional">
+			<label :for="uid('email')">Email</label>
 			<input ref="emailInput" v-model="emailAddress" type="email" :id="uid('email')" autocomplete="email">
 			<span class="input-instructions" v-if="!emailAddress">You will get a single email in 8 weeks. Nothing else.</span>
 			<span class="input-instructions" v-if="emailAddress">Thank you! Your feedback will be really helpful.</span>
@@ -257,18 +258,11 @@
 		</div>
 		<h3>What to do next</h3>
 		<div class="collapsible-options">
-			<a href="/out/finanzamt-finder" target="_blank">
-				{% endraw %}{% include "_css/icons/find-location.svg" %}{% raw %}
-				<div>
-					<h3>Find your Finanzamt</h3>
-					<p>You must send this form to your local Finanzamt.</p>
-				</div>
-			</a>
-			<a href="/guides/mail-a-letter" target="_blank">
+			<a href="/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id#how-to-send-this-form" target="_blank">
 				{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
 				<div>
-					<h3>Mail your form and a copy of your passport</h3>
-					<p>Learn how to mail your documents to the Finanzamt.</p>
+					<h3>Submit this form</h3>
+					<p>Learn how to send this form to the Finanzamt.</p>
 				</div>
 			</a>
 		</div>
@@ -283,7 +277,7 @@
 			class="button primary"
 			:disabled="['business', 'forgot', 'other'].includes(purpose)"
 			@click="nextStage">Continue <i class="icon right" aria-hidden="true"></i></button>
-		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="nextStage">{{ emailAddress ? 'Finish' : 'Skip and finish'}}</button>
+		<button v-if="stageIndex === stages.length - 2" class="button primary" @click="nextStage">Finish</button>
 	</div>
 {% endraw %}
 </collapsible>

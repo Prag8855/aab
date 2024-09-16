@@ -1727,6 +1727,15 @@ input[type=range] {
             }
         }
     }
+    &.optional {
+        > :is(label, .label):first-child{
+            &:after{
+                content: ' (optional)';
+                color: var(--c-text-light);
+                font-weight: 400;
+            }
+        }
+    }
 
     > * {
         grid-column-start: 2;
