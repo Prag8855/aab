@@ -15,7 +15,7 @@ Categories:
 
 Normally, you get a [tax ID](/glossary/Steueridentifikationsnummer) after you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, but you still need a tax ID, fill this form and send it to the *[[Finanzamt]]*.
 
-**This form does not always work.** You might not receive your tax ID. They might send your tax ID to your foreign address, or to your employer.[^3]
+**This form does not always work.** They might send your tax ID to your foreign address, or to your employer.[^3] You might not receive your tax ID.
 
 If you already did your *[[Anmeldung]]*, you don't need this form. You can wait for your tax ID or [request it again](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
 
@@ -74,6 +74,8 @@ Include a copy of your passport or *[[Personalausweis]]* with the form. You can 
 4 to 6 weeks later, you will get a tax ID by post. It will come in a letter from the *Bundeszentralamt für Steuern* (*BZSt*).
 
 They usually send your tax ID to your employer, or to your foreign address, even if you gave an address in Germany.[^1]
+
+They might create your tax ID even if they don't send it to you. If you did not receive your tax ID after 6 weeks, [ask your *Finanzamt*](/guides/german-tax-id-steuernummer#if-you-lost-your-tax-id).
 
 [^0]: [Screenshot](/images/tax-id-form-instructions.png), [Screenshot](/images/anmeldung-taxid-info-2022-12-22.png)
 [^1]: Multiple readers (March to October 2023), reader feedback (September 2024)
