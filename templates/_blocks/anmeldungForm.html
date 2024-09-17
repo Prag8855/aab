@@ -38,7 +38,6 @@
 			<label :for="uid('newBuildingDetails')">Building details</label>
 			<input
 				:id="uid('newBuildingDetails')"
-				:aria-describedby="uid('newBuildingDetails-instructions')"
 				type="text"
 				v-model="newBuildingDetails"
 				placeholder="Haus B, 2. Etage rechts"
@@ -48,7 +47,7 @@
 		<hr>
 		<div class="form-group required">
 			<label :for="uid('moveInDate') + '-day'">Move-in date</label>
-			<date-picker v-model="moveInDate" :id="uid('moveInDate')" :aria-describedby="uid('moveInDate-instructions')" required></date-picker>
+			<date-picker v-model="moveInDate" :id="uid('moveInDate')" required></date-picker>
 			<span class="input-instructions">Use the same date as on your <em><glossary>Wohnungsgeberbestätigung</glossary></em>.</span>
 		</div>
 	</template>
