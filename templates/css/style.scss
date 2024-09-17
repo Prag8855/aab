@@ -1441,6 +1441,9 @@ select{
     background-size: 1rem;
     padding-right: var(--xl);
     text-overflow:ellipsis;
+    &.placeholder{
+    	color: var(--c-text-placeholder);
+    }
 }
 
 label.checkbox{

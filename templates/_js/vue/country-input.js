@@ -38,7 +38,7 @@ Vue.component('country-input', {
 		},
 	},
 	template: `
-		<select autocomplete="country-name" :value="value" v-on:input="$emit('input', $event.target.value)">
+		<select autocomplete="country-name" :value="value" @input="$emit('input', $event.target.value)" :class="{placeholder: !value}">
 			<option disabled hidden default value="">{{ placeholder }}</option>
 			<option
 				:value="countryCode ? code : name"

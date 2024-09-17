@@ -1,9 +1,16 @@
 {% include '_js/vue.js' %}
 {% js %}{% raw %}
 Vue.component('occupation-input', {
-	props: ['value'],
+	props: {
+		value: String,
+		placeholder: {
+			type: String,
+			default: 'Choose an occupation',
+		},
+	},
  	template: `
-	<select :value="value" v-on:input="$emit('input', $event.target.value)">
+	<select :value="value" @input="$emit('input', $event.target.value)" :class="{placeholder: !value}">
+		<option disabled hidden default value="">{{ placeholder }}</option>
 		<optgroup label="Employee">
 			<option value="employee">Employee</option>
 			<option value="azubi">Apprentice (Azubi)</option>

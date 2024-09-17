@@ -290,7 +290,7 @@
 				<div class="input-group date-input">
 					  <select
 						class="month-input"
-						:class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !firstMonthOfWork}"
 						aria-label="First month of work in Germany"
 						:aria-describedby="uid('instructions-time-in-germany')"
 						title="First month of work in Germany"
@@ -300,7 +300,7 @@
 					  </select>
 					  <select
 						class="year-input"
-						:class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !firstYearOfWork}"
 						aria-label="Last year of work in Germany"
 						:aria-describedby="uid('instructions-time-in-germany')"
 						title="Last year of work in Germany"
@@ -315,7 +315,7 @@
 				<div class="input-group date-input">
 					<select
 					  class="month-input"
-					  :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+					  :class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !lastMonthOfWork}"
 					  aria-label="Last month of work in Germany"
 					  :aria-describedby="uid('instructions-time-in-germany')"
 					  title="Last month of work in Germany"
@@ -325,7 +325,7 @@
 					</select>
 					<select
 					  class="year-input"
-					  :class="{'error': isDateRangeSelected && !isDateRangeEligible}"
+					  :class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !lastYearOfWork}"
 					  aria-label="Last year of work in Germany"
 					  :aria-describedby="uid('instructions-time-in-germany')"
 					  title="Last year of work in Germany"
@@ -363,7 +363,7 @@
 					</output>
 					<p>You can get <eur :amount="results.refundAmount"></eur> back. This is what you paid into the German pension system.</p>
 					<template v-if="hasFlag('eligible')">
-						<p>You can already ask for a pension refund, because your last pension contribution was over 2 years ago.</p>
+						<p>You can already apply for a pension refund, because your last pension contribution was over 2 years ago.</p>
 						<div class="buttons">
 							<button class="button primary" target="_blank" @click="stage = 'partnerSelection'">
 								Apply for a refund <i class="icon right" aria-hidden="true"></i>

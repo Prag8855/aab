@@ -40,7 +40,7 @@ Vue.component('state-input', {
 		}
 	},
 	template: `
-	<select :value="value" @input="onInput">
+	<select :value="value" @input="onInput" :class="{placeholder: !value}">
 		<option disabled hidden default value="">{{ placeholder }}</option>
 		<option v-for="[abbr, state] in states" :key="abbr" :value="optionValue(abbr)">{{ state.en }}</option>
 	</select>
