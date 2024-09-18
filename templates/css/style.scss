@@ -1119,8 +1119,6 @@ sup:target a{
     }
 
     .internal-link, .external-link, .section-link{
-        padding-right: calc(var(--xs) + var(--w-icon-s));
-
         &::after{
             content: '';
             width: 1em;
@@ -1132,7 +1130,6 @@ sup:target a{
             background-color:currentColor;
             vertical-align: middle;
 
-            // position: absolute; // Prevents line wrap before arrow, but breaks vertical alignment with --line-height-label
             margin-left:var(--s);
             margin-top: 1px;
             transition: transform 0.2s;

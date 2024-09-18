@@ -34,7 +34,7 @@ German addresses are written in this order:
 - **Street name and house number**  
     Put the street name before the door number. For example, "Musterstraße 17". A building can have multiple entrances like "17A" and "17B".
 - **Extra information** (*Addresszusatz*)  
-    See [below ➞](#extra-information).
+    See [below ➞](#extra-information)
 - **Postal code** (*[[Postleitzahl]]*)  
     Germany uses 5-digit postal codes. Always include it in the address, because big cities can have two streets with the same name. The [postal code finder](https://www.postdirekt.de/plzserver/) can help.
 - **City name** (*Ort*)  
