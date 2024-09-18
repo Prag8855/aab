@@ -103,9 +103,9 @@ Double entry bookkeeping is more work for you. You can be exempted from double e
 
 ## How to choose?
 
-**You have no choice.** The *[[Finanzamt]]* decides what you are when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).[^16] The *[[Ausländerbehörde]]* uses the same definition as the *Finanzamt* when you apply for a freelance visa.
+**You have no choice.** The *[[Finanzamt]]* decides what you are when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).[^16] The *[[Ausländerbehörde]]* uses the same definition as the *Finanzamt* when you [apply for a freelance visa](/guides/freelance-visa).
 
-If you register as a *Freiberufler*, but the *Finanzamt* decides that you are a *Gewerbetreibender*, they can retroactively make you pay [trade tax](/glossary/Gewerbesteuer).[^21]
+If you register as a *Freiberufler*, but the *Finanzamt* decides that you are a *Gewerbetreibender*, they can make you pay [trade tax](/glossary/Gewerbesteuer) retroactively.[^21]
 
 Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions-about-berlin#business-questions).
 

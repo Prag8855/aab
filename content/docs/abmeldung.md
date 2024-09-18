@@ -45,7 +45,7 @@ Use my [Abmeldung form filler](#fill-the-abmeldung-form-online), it's easier.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).
 - **Ort, Datum, Unterschrift**: The date, the city, and your signature. Use the DD.MM.YYYY date format. Your signature should be the same as on your passport or national ID.
 
-If you deregister more than 3 people, use multiple forms.
+If you deregister more than 3 people, use multiple forms.[^1]
 
 ## How to send this form
 
@@ -59,3 +59,4 @@ There are two ways to do this:
 **[How to mail a letter ➞](/guides/mail-a-letter)**
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
+[^1]: [berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=benutzen%20sie%20bitte%20weitere%20meldescheine) (September 2024)

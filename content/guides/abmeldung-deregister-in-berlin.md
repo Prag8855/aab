@@ -14,16 +14,16 @@ This guide explains why and how to do your *Abmeldung* in Berlin.
 
 ## Who needs to deregister
 
-**You must do your Abmeldung if:**
+You must do your Abmeldung if:
 
 - **You move out of Germany**, and you will not return to your current address.
 - **You leave one of multiple homes**. For example, if you have two registered apartments, and you sell one of them.
 
-**You don't need to do your Abmeldung if:**
+You don't need to do your Abmeldung if:
 
 - **You temporarily move out of Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
 - **You move to another address in Germany**. When you [register your new address](/guides/anmeldung-in-english-berlin), your old address is automatically deregistered.
-- **You have not registered your address**.
+- **You have not [registered](/glossary/Anmeldung) your address**.
 
 ## Why you must deregister
 
@@ -55,6 +55,11 @@ Here is how you can do your *Abmeldung* in person:
     - [ ] Your passport or *[[Personalausweis]]*, not a copy[^27]
     - [ ] If you deregister late, a proof of your move-out date[^22]
 
+If you deregister multiple people, you must also bring:
+
+- [ ] Their passport or *[[Personalausweis]]*, not a copy[^30]
+- [ ] If they can't come to the appointment, a signed *[[Vollmacht]]* that allows you to deregister them.
+
 You can do it alone, even if you don't speak German. The appointment takes around 10 minutes.
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
@@ -64,8 +69,12 @@ During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 Send these documents by [registered mail](/glossary/Einschreibebrief) to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/):
 
 - [ ] The filled and signed [*Abmeldung* form](/docs/abmeldung). You can [fill it online](/docs/abmeldung#fill-the-abmeldung-form-online).
-- [ ] A copy of your passport or *[[Personalausweis]]*
+- [ ] A copy of your passport or *[[Personalausweis]]*[^29]
 - [ ] If you deregister late, a proof of your move-out date[^22]
+
+If you deregister multiple people, you must also include:
+
+- [ ] A copy of their passport or *[[Personalausweis]]*
 
 Write your new address on the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form.
 
@@ -195,7 +204,7 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: Oliver at [SympatMe](https://sympat.me) (April 2023), [facebook.com](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
-[^3]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/psnrmh/deregistration_wohnung_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/eztva8/abmeldung/)
+[^3]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/psnrmh/deregistration_wohnung_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/eztva8/abmeldung/), [Twitter](https://x.com/hollowlegs/status/1688115017013514240) (2023)
 [^4]: [Screenshot](/images/ba-charlottenburg-abmeldung.png)
 [^5]: [Screenshot](/images/ba-friedrichshain-kreuzberg-abmeldung-by-email-2022-01-13.png)
 [^6]: [Screenshot](/images/ba-lichtenberg-abmeldung-by-email.png)
@@ -220,3 +229,5 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
 [^27]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
+[^29]: [berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=eine%20kopie%20von%20ihrem%20personalausweis%20oder%20reisepass) (September 2024)
+[^30]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
