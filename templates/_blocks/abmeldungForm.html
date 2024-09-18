@@ -188,8 +188,10 @@
 					type="text"
 					v-model="person.birthPlace"
 					:id="uid('birthPlace-' + person.id)"
-					placeholder="Montreal, Canada"
+					:aria-describedby="uid('birthPlace-instructions-' + person.id)"
+					placeholder="Montreal, Quebec, Canada"
 					required>
+				<span class="input-instructions" :id="uid('birthPlace-instructions-' + person.id)">The city, region and country where you were born.</span>
 			</div>
 		</template>
 	</template>
