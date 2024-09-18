@@ -75,8 +75,8 @@ Some people pay less, or don't pay anything:
     If you get financial aid ([*BAföG*](/glossary/BAföG)),[^6] you don't pay the TV tax.
 - **Apprentices** ([*Azubis*](/glossary/Azubi))  
     If you get financial aid (*Ausbildungsgeld*), you don't pay the TV tax. Most apprentices have to pay the TV tax.[^7]
-- **[[ALG I]], [[Bürgergeld]] and social benefit recipients**  
-    If you receive social benefits, you do not pay the TV tax.[^6]
+- **[[Bürgergeld]] and social benefit recipients**  
+    If you receive *Bürgergeld* or *Grundsicherung*, you do not pay the TV tax. If you receive [[ALG I]], *Wohngeld* or *Übergangsgeld*, you must still pay the TV tax.[^6]
 - **People with disabilities**   
     If you have *RF* in your disabled person's pass (*Schwerbehindertenausweis*), you pay 1/3 of the fee.[^9]
 - **Senior citizens**  
@@ -100,7 +100,7 @@ If you leave Germany, you must tell the *Beitragsservice*. You will stop getting
 [^3]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/informationen_zum_meldedatenabgleich/index_ger.html)
 [^4]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/bankverbindung/index_ger.html)
 [^5]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/welcome/englisch/students_and_apprentices/index_ger.html), [test.de](https://www.test.de/Rundfunkbeitrag-Wer-zahlen-muss-4502522-0/#:~:text=studenten%C2%ADwohn%C2%ADheimen)
-[^6]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/empfaenger_von_sozialleistungen/index_ger.html?highlight=befreiung.%20befreiung)
+[^6]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/empfaenger_von_sozialleistungen/index_ger.html#:~:text=empfanger%20von%20arbeits%C2%ADlosen%C2%ADgeld%20i%2C%20wohn%C2%ADgeld%20oder%20uber%C2%ADgangs%C2%ADgeld%20haben%20keinen%20an%C2%ADspruch%20auf%20eine%20be%C2%ADfreiung.)
 [^7]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/empfaenger_von_sozialleistungen/index_ger.html?highlight=ausbildungs%C2%ADgeld%20Ausbildungsgeld#befreiung_von_der_rundfunkbeitragspflicht__voraussetzungen)
 [^8]: [fr.de](https://www.fr.de/wirtschaft/rundfunkbeitrag-gez-pfaendung-schufa-eintrag-drohen-aerger-vermeiden-13282534.html)
 [^9]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/informationen/menschen_mit_behinderung/index_ger.html), [§5.3 RBStV](https://bravors.brandenburg.de/vertraege/rbstv)
