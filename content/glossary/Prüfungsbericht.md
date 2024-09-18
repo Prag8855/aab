@@ -9,4 +9,4 @@ Related_guides:
     guides/renew-german-freelance-visa.md
 ---
 
-An audit report (*Prüfungsbericht*) is a document created by a tax advisor. It's sometimes required to [renew a freelance visa](/guides/renew-german-freelance-visa).
+An audit report (*Prüfungsbericht*) is a document created by a [tax advisor](/glossary/Steuerberater). It's sometimes required to [renew a freelance visa](/guides/renew-german-freelance-visa).
