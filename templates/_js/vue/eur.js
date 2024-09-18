@@ -6,10 +6,11 @@ Vue.component('eur', {
 		amount: Number,
 		cents: Boolean,
 		noSymbol: Boolean,
+		locale: String,
 	},
 	computed: {
 		value() {
-			return formatCurrency(this.amount, this.cents, false, false);
+			return formatCurrency(this.amount, this.cents, false, false, this.locale);
 		},
 		tooltipText() {
 			return (this.value === '0' ? null : getCurrencyTooltipText(this.value));

@@ -6,10 +6,10 @@ function roundCurrency(num, roundDown=false) {
 	return Math.round(num * 100) / 100;
 }
 
-function formatCurrency(num, includeCents=false, currency='€', html=false) {
+function formatCurrency(num, includeCents=false, currency='€', html=false, locale='en-GB') {
 	const decimalsToShow = includeCents ? 2 : 0;
 	let formattedNum = roundCurrency(num)
-		.toLocaleString('en-GB', {
+		.toLocaleString(locale, {
 			minimumFractionDigits: decimalsToShow,
 			maximumFractionDigits: decimalsToShow,
 		});
