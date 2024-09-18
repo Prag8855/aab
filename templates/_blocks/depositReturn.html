@@ -128,14 +128,14 @@
 			I politely request that you transfer
 			<template v-if="hasReceivedPartOfKaution">
 				the remaining
-				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
+				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
 				of the
-				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur :amount="kautionAmount" v-if="kautionAmount"></eur>
+				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
 				deposit
 			</template>
 			<template v-if="!hasReceivedPartOfKaution">
 				the deposit of
-				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur :amount="kautionAmount" v-if="kautionAmount"></eur>
+				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
 			</template>
 			plus interest to my account by <blank placeholder="Deadline" key="deadlineEn">{{ deadline(language) }}</blank> at the latest.
 		</p>
@@ -143,13 +143,13 @@
 			Ich fordere Sie höflich auf,
 			<template v-if="hasReceivedPartOfKaution">
 				die restlichen
-				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
+				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
 				der
-				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur> Kaution
+				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur> Kaution
 			</template>
 			<template v-if="!hasReceivedPartOfKaution">
 				die Kaution in Höhe von
-				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur>
+				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur>
 			</template>
 			zuzüglich Zinsen bis spätestens <blank placeholder="Deadline" key="deadlineDe">{{ deadline(language) }}</blank> auf mein Konto zu überweisen.
 		</p>
