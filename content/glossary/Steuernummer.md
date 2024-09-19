@@ -18,6 +18,6 @@ You obtain this number when you submit the *[Fragebogen zur steuerlichen Erfassu
 
 Your *Steuernummer* is not private. It should appear on your invoices, and in your [[Impressum]]. If you move to a different area, your *Steuernummer* will change.
 
-**[How to find your Steuernummer ➞](/guides/german-tax-id-steuernummer)**
+**[How to find your Steuernummer ➞](/guides/german-tax-id-steuernummer#where-to-find-your-steuernummer)**
 
 [^0]: [Wikipedia](https://de.wikipedia.org/wiki/Steuernummer), [steuererklaerung.de](https://steuererklaerung.de/ratgeber-steuern/steuer-id-steuernummer/)

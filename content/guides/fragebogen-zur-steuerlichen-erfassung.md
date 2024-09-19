@@ -79,7 +79,7 @@ If you register as a *[[Freiberufler]]*, you don't need a *Gewerbeschein*.[^17]
 **Related guides:**
 
 - [How to get a *Gewerbeschein* in Berlin](/guides/gewerbeschein)
-- [How to find your tax ID](/guides/german-tax-id-steuernummer)
+- [How to find your tax ID](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id)
 - [What is the trade tax (*Gewerbesteuer*)?](/guides/gewerbesteuer)
 - [*Freiberufler* or *Gewerbe*: what's the difference?](/guides/freiberufler-or-gewerbe)
 

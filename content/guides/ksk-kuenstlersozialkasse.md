@@ -240,7 +240,7 @@ After you fill this form, you have 4 weeks to send the [required documents](/gui
 
 ### Step 3: Fill the application form
 
-Download [the application form](/out/ksk-application-form) and fill it. This takes around 1 hour. You must know your [social insurance number](/glossary/Sozialversicherungsnummer) and your [tax ID](/guides/german-tax-id-steuernummer).
+Download [the application form](/out/ksk-application-form) and fill it. This takes around 1 hour. You must know your [social insurance number](/glossary/Sozialversicherungsnummer) and your [tax ID](/glossary/Steueridentifikationsnummer).
 
 The application form is in German. The instructions are at the end of the form. [These English instructions](https://www.settle-in-berlin.com/wp-content/uploads/2021/01/ZineFGRG_KSK_Desktop.pdf) can help.
 

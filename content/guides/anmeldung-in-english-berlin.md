@@ -126,9 +126,9 @@ Check the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees of
 
 ### 5. Wait for your tax ID
 
-If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 5 weeks later.[^13] You can also [get a tax ID without registering your address](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
+If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steueridentifikationsnummer) by post 2 to 5 weeks later. You can also [get a tax ID without registering your address](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id).
 
-**If you did not get your tax ID** after 2 months, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id). It happens to a lot of people.
+**If you did not get your tax ID** after 6 weeks, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id). It happens to a lot of people.
 
 ![German tax ID letter](/images/tax-id-document-bzst.jpg "You will get your tax ID by post. The letter looks like this.")
 
@@ -253,7 +253,6 @@ When you move into an apartment, you must do a few things: lower your rent, get 
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lua6cx/deleted_by_user/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5ibzo4/anmeldung_registration_for_the_family_nongerman/)
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
-[^13]: [Screenshot](/guides/german-tax-id-steuernummer)
 [^14]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024), Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^16]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (March 2024)
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)

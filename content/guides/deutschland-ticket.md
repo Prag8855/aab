@@ -69,6 +69,12 @@ You can't...
 - Bring a bicycle with you for free
 - Let someone else use your ticket
 
+## Deutschland Ticket alternatives
+
+In Berlin, there is also the [29€ ticket](https://www.bvg.de/de/abos-und-tickets/berlin-abo). It's cheaper, but you can only buy it for 12 months, and it only works in Berlin ([tariff zones A and B](/guides/public-transit#tariff-zones)).
+
+**[What ticket to buy ➞](/guides/public-transit#what-ticket-to-buy)**
+
 ## How to cancel a Deutschland Ticket
 
 You can cancel your ticket where you bought it.

@@ -71,7 +71,7 @@ Most things are in zone A or B, so you usually need an AB ticket. If you go to t
 
 If you already have an AB ticket, and you want to go to zone C, get an [extention ticket (*Anschlussfahrausweis*)](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/extension-ticket/). It's cheaper than an ABC ticket.
 
-If you have a [[Deutschland Ticket]], you can travel in all zones.
+If you have a [[Deutschland Ticket]], you can travel in all zones. If you have the 29€ Ticket, you can only travel in zones A and B.
 
 ### Ticket duration
 
@@ -82,6 +82,8 @@ If you have a [[Deutschland Ticket]], you can travel in all zones.
 **Daily, monthly and weekly passes** are cheaper. They usually let you [bring other people for free](#bring-other-people-for-free).
 
 **The [Deutschland Ticket](/guides/deutschland-ticket)** is a monthly subscription. You can use all public transit in Germany for {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month.
+
+**The 29€ Ticket** is a yearly subscription. It costs 29€ per month. It only works in Berlin ([tariff zones A and B](#tariff-zones)).
 
 ### Ticket types
 
