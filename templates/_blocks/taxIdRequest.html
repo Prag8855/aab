@@ -37,6 +37,12 @@
 				</label>
 			</div>
 		</div>
+		<template v-if="purpose === 'noAnmeldung'">
+			<hr>
+			<p>
+				This tool helps you fill <a href="/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf" target="_blank">form 010250</a>. That form is not designed for your situation, but it might work anyway. It's the only way to get a tax ID without <glossary term="Anmeldung">registering your address</glossary>.
+			</p>
+		</template>
 		<template v-if="purpose === 'business'">
 			<hr>
 			<p>
