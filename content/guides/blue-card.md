@@ -60,7 +60,7 @@ You do not need a university degree if...[^31]
 If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
 
 - **[Work visa](/glossary/Work%20Visa)**{% include '_blocks/recommended.html' %}  
-    No salary requirement. No university degree required. In some cases, you might need professional training. - [How to apply](/guides/work-visa)
+    No salary requirement. No university degree required. In some cases, you might need professional training. It's almost as good as a Blue Card. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
 - **[[Job seeker visa]]**  
@@ -91,9 +91,9 @@ You can apply in Germany if...
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
 - **or** you have a [[National Visa]]. You just need to [convert it to a Blue Card](#convert-your-national-visa-into-a-blue-card).
 
-If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
+If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
+Usually, you can't work before you get your Blue Card.[^35] It can take time. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^42] Your employer might pay for it, or hire someone to help you.
 
@@ -109,8 +109,8 @@ Usually, you can't work before you get your Blue Card.[^35] It can take time. Yo
     You can come to Germany without a visa.[^38] If you have your Blue Card since at least 12 months, you can already start working in Germany.[^33] When you arrive in Germany, you have 1 month to convert your Blue Card to a German one at the *[[Ausländerbehörde]]*.[^41]
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. When you find a job, you can apply for the Blue Card. While you wait for your Blue Card, you can work 10 hours per week for your new employer.[^11]
-- **If you have a [tourist visa](/glossary/Schengen%20visa)**  
-    You can't apply for a Blue Card with a tourist visa. Your application will be rejected. You must [apply in your country](#how-to-apply-in-your-country).[^25]
+- **If you have a [[Schengen visa]]**  
+    You can't apply for a Blue Card with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
 If these options don't apply to you, you must [apply for the Blue Card in your country](#how-to-apply-in-your-country).[^19]
 

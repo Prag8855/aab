@@ -279,9 +279,9 @@ Landlords prefer...
 - **A good first impression**  
     Be nice and pleasant. Your personality matters a lot.[^29]
 - **A stable right of residence**  
-    You must have a long-term right to live in Germany. If you have a [[National Visa]], it's harder to find an apartment. If you have a [tourist visa](/glossary/Schengen%20visa) or no visa, it's *much* harder. If you are a recent immigrant, you can get a [short-term furnished apartment](#short-term-and-furnished-apartments) or a room in a [[WG]].
+    You must have a long-term right to live in Germany. If you have a [[National Visa]], it's harder to find an apartment. If you have a [[Schengen visa]] or no visa, it's *much* harder. If you are a recent immigrant, you can get a [short-term furnished apartment](#short-term-and-furnished-apartments) or a room in a [[WG]].
 - **German speakers**  
-    If you speak German, it's less work for the landlord. Write in German. Use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to translate messages.
+    If you speak German, it's easier for the landlord. Write in German. Use [Deepl](https://www.deepl.com/translator) or [ChatGPT](https://chat.openai.com/) to translate your messages.
 - **Titles**  
     Landlords prefer doctors and professors.[^10] Use your title (*Dr* or *Prof*) when you write to the landlord.
 

@@ -2,7 +2,7 @@
 Title: List of countries in the Schengen area
 German_term: Schengen-Raum
 English_term: Schengen area
-Description: If you have a Schengen visa, you can travel to these countries.
+Description: If you have a Schengen visa, you can travel to these countries. These countries are part of the Schengen area.
 Date_created: 2018-07-31
 Related_guides:
     guides/freelance-visa.md

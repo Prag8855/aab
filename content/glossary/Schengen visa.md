@@ -11,20 +11,22 @@ Related_guides:
     guides/residence-permit.md
 ---
 
-The Schengen visa (also called tourist visa or Category C visa)[^0] lets you visit Germany and the [[Schengen area]]. They are valid for up to 90 days.
+The Schengen visa (also called tourist visa, short stay visa or Category C visa)[^0] lets you visit Germany and the [[Schengen area]]. They are valid for up to 90 days.
 
 With a Schengen visa, you can:
 
-- Visit Germany for up to 90 days
+- Visit Germany for up to 90 days in a 180 days period
 - Visit other countries in the [[Schengen area]]
 
 With a Schengen visa, you can't:
 
 - [Work](/guides/find-a-job-in-berlin) or study in Germany[^3]
-- Convert your Schengen visa to a [residence permit](/glossary/Aufenthaltstitel) (with exceptions)[^1]
+- Convert your Schengen visa to a [residence permit](/glossary/Aufenthaltstitel) (with rare exceptions)[^1]
 - Extend your visa to stay longer (with rare exceptions)[^2]
 
-**[Who needs a visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)** - Federal Foreign Office
+People from [some countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) can enter Germany without a visa. They don't need a Schengen visa because they have visa-free entry.
+
+**[Who needs a visa to visit Germany? ➞](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**
 
 [^0]: [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp67-emn-wechsel-aufenthaltstiteln-aufenthaltszwecken.pdf?__blob=publicationFile&v=17), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php)
 [^1]: [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#headline_1_60_0_11), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#extension)

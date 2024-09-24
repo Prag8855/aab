@@ -164,9 +164,9 @@ If you are not a EU or [[EEA]] citizen or permanent resident, you need a [reside
 
 Everyone else needs a residence permit to work in Germany. To be self-employed, you must [apply for a German freelance visa](/guides/freelance-visa). This takes 3 to 6 months.[^8] You can't work before you get the residence permit. If you already have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might allow you to freelance already.
 
-If you come from **{{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for up to 90 days without a visa.[^6] You can come to Germany and apply for a freelance visa there. It's easier to prepare your freelance visa application if you are already in Germany, but you will spend more time in Germany without an income.
+If you are a citizen of **{{AUFENTHV_41_COUNTRIES}}**, you can visit Germany for up to 90 days without a visa.[^6] You can come to Germany and apply for a freelance visa in Germany. It's easier to prepare your freelance visa application if you are already in Germany, but you might spend more time in Germany without an income.
 
-If you come from another country, you need a [job seeker visa](/glossary/Job%20seeker%20visa) to come to Germany. A tourist visa is not enough. Once you are in Germany, you can apply for the freelance visa. You can also apply for a German freelance visa from your home country.
+If you come from another country, you need a [job seeker visa](/glossary/Job%20seeker%20visa) to come to Germany. A [[Schengen visa]] is not enough. Once you are in Germany, you can apply for the freelance visa. You can also apply for a German freelance visa from your home country.
 
 [Getting a visa appointment](/guides/berlin-auslanderbehorde-appointment) can take up to 6 months in Berlin. You could get the visa immediately at the end of your appointment, or you could receive it 1 to 3 months later. You will get a temporary visa (*[[Fiktionsbescheinigung]]*) while you wait for the decision. It lets you stay in Germany, but it does not let you work. You need enough savings to survive until you get your visa.
 

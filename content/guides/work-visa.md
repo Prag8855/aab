@@ -91,9 +91,9 @@ You can apply in Germany if...
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)[^41]
 - **or** you have a [[National Visa]]. You just need to [convert it to a work visa](#convert-your-national-visa-into-a-work-visa).
 
-If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
+If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work while you wait for your work visa.[^35] You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
+Usually, you can't work while you wait for your work visa.[^35] You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^45] Your employer might pay for it, or hire someone to help you.
 
@@ -107,8 +107,8 @@ Usually, you can't work while you wait for your work visa.[^35] You might wait a
     Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your work visa application, you don't need to leave Germany.
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. When you find a job, you can apply for the work visa. While you wait for your work visa, you can work 10 hours per week for your new employer.[^11]
-- **If you have a [tourist visa](/glossary/Schengen%20visa)**  
-    You can't apply for a work visa with a tourist visa. Your application will be rejected. You must [apply in your country](#how-to-apply-in-your-country).[^25]
+- **If you have a [[Schengen visa]]**  
+    You can't apply for a work visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
 If these options don't apply to you, you must [apply for the work visa in your country](#how-to-apply-in-your-country).[^19]
 

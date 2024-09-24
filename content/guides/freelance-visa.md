@@ -91,9 +91,9 @@ You can apply in Germany if...
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you have a [[National Visa]] for self-employment. You just need to [convert it to a freelance visa](#convert-your-national-visa-into-a-freelance-visa)
 
-If you can't apply in Germany, you must [apply in your country](#how-to-apply-in-your-country).
+If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't start working before you get your freelance visa.[^35] Some people do it anyway. You might wait a few months with no income. It's cheaper and safer if you [apply in your country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
+Usually, you can't start working before you get your freelance visa.[^35] Some people do it anyway. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
@@ -105,8 +105,8 @@ Usually, you can't start working before you get your freelance visa.[^35] Some p
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't start working before you get your freelance visa. Some people do it anyway.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
     Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your freelance visa application, you don't need to leave Germany.
-- **If you have a [tourist visa](/glossary/Schengen%20visa)**  
-    You can't apply for a freelance visa with a tourist visa. Your application will be rejected. You must [apply in your country](#how-to-apply-in-your-country).[^25]
+- **If you have a [[Schengen visa]]**  
+    You can't apply for a freelance visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
 If these options don't apply to you, you must [apply for the freelance visa in your country](#how-to-apply-in-your-country).[^19]
 

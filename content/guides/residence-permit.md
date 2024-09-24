@@ -20,13 +20,15 @@ Most people need a residence permit to live in Germany for more than 90 days.[^1
 - **{{AUFENTHV_41_COUNTRIES}}**[^2]  
     You need a residence permit to work, study, or freelance in Germany. You can visit in Germany for up to 90 days without a visa.[^3] You can apply for a residence permit in Germany, or in your home country.
 - **Any other country**  
-    You need a [job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers) to visit Germany and [look for work](/guides/find-a-job-in-berlin).[^3] You need a residence permit to work, study, or freelance in Germany. You might also need a [touirst visa](/glossary/Schengen%20visa) to visit Germany as a tourist. You can't convert a tourist visa to a residence permit.[^4]
+    You need a [job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers) to [look for work](/guides/find-a-job-in-berlin) in Germany.[^3] You need a residence permit to work, study, or freelance in Germany. You might need a [[Schengen visa]] to visit Germany as a tourist. You can't convert a Schengen visa to a residence permit.[^4]
 
 **If you are a German [permanent resident](/glossary/Niederlassungserlaubnis)**, you can already live, work and study in Germany. You do not need another residence permit. You don't need permission to change jobs or start a business.
 
-**If you want to visit Germany as a tourist**, you don't need a residence permit. You might need a [[Schengen visa]]. Use [this list](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148) to know if you need a Schengen visa to visit Germany.
+**If you want to visit Germany as a tourist**, you don't need a residence permit, but you might need a [[Schengen visa]].
 
-Use [this tool](https://digital.diplo.de/navigator/en/visa) to know which residence permit you need to stay in Germany.
+**[Who needs a visa to visit Germany? ➞](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**
+
+**[Which visa should you apply for? ➞](https://digital.diplo.de/navigator/en/visa)**
 
 ## Types of residence permits
 
