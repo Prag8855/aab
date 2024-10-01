@@ -610,7 +610,7 @@ If you are [starting a business in Germany](/guides/start-a-business-in-germany)
 
 **[List of English-speaking tax advisors ➞](/guides/english-speaking-steuerberater-berlin)**
 
-You can also use tax software like [Sorted](/out/sorted-taxes) or [Lexoffice](/out/lexoffice) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations.
+You can also use tax software like [Sorted](/out/sorted-taxes) or [Lexware Office](/out/lexoffice) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations.
 
 **[List of tax software for freelancers ➞](/guides/german-tax-software#tax-software-for-freelancers)**
 

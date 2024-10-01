@@ -35,7 +35,7 @@ English-speaking options:
 
 German-speaking options:
 
-- [Lexoffice](/out/lexoffice) (this is what I use)
+- [Lexware Office](/out/lexoffice) (this is what I use)
 - [FastBill](/out/fastbill)
 
 Some business banks help you with invoicing, bookkeeping and [VAT reporting](/glossary/Umsatzsteuervoranmeldung). I don't recommend them. You can have a good bank or good tax software, but you can't have both in one product. Keep those services separate.

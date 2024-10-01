@@ -56,7 +56,7 @@ Kontist uses AI to guess the correct VAT rate for each transaction. It's wrong m
 
 Since I have to double-check every transaction, the AI just creates more work for me. There is no way to turn it off.
 
-Like other banks, Kontist integrates with [Lexoffice](/out/lexoffice), where I do all of my bookkeeping. All of my transactions are categorised in Lexoffice already. They already have the right VAT. Kontist sees this information, and still sets the VAT wrong. The Kontist support confirmed this.
+Like other banks, Kontist integrates with [Lexware Office](/out/lexoffice), where I do all of my bookkeeping. All of my transactions are categorised in Lexware Office already. They already have the right VAT. Kontist sees this information, and still sets the VAT wrong. The Kontist support confirmed this.
 
 **The automatic VAT feature is useless.** It does not work, but it can't be turned off.
 
@@ -82,7 +82,7 @@ In the end, this feature is too crude to help.
 
 You can create invoices in Kontist, but Kontist does not send them for you. You must download them and email them manually.
 
-If you don't send many invoices, the invoicing tool is good enough. If you plan to grow your business, get real invoicing software. I use [Lexoffice](/out/lexoffice).
+If you don't send many invoices, the invoicing tool is good enough. If you plan to grow your business, get real invoicing software. I use [Lexware Office](/out/lexoffice).
 
 When your client pays an invoice you created in Kontist, Kontist marks the invoice as paid. This is a nice feature.
 
@@ -90,7 +90,7 @@ When your client pays an invoice you created in Kontist, Kontist marks the invoi
 
 You can see how much you have, and how much you owe the *[[Finanzamt]]*. That's all.
 
-You can't see how much you made last month, or last year. If your income varies a lot, this information is really important. Most accounting software shows you this. [Holvi](/out/holvi) is a business bank that shows this information. [Lexoffice](/out/lexoffice)'s reports are much better.
+You can't see how much you made last month, or last year. If your income varies a lot, this information is really important. Most accounting software shows you this. [Holvi](/out/holvi) is a business bank that shows this information. [Lexware Office](/out/lexoffice)'s reports are much better.
 
 ### Exporting your data
 
@@ -102,17 +102,17 @@ Kontist makes it too hard to reliably export your data. If you want to use other
 
 ### Integration with other services
 
-Kontist only syncs with [Lexoffice](/out/lexoffice) and [FastBill](https://www.fastbill.com/). It does not integrate with any English-speaking tax software.
+Kontist only syncs with [Lexware Office](/out/lexoffice) and [FastBill](https://www.fastbill.com/). It does not integrate with any English-speaking tax software.
 
-You can match Kontist bank transactions to receipts and invoices in Lexoffice. Most other banks also sync with Lexoffice, so this is nothing special.
+You can match Kontist bank transactions to receipts and invoices in Lexware Office. Most other banks also sync with Lexware Office, so this is nothing special.
 
-**One time, some transactions did not sync.** One time, a client paid me. I could see the transaction in Kontist, but not in Lexoffice. All other transactions were there. I manually marked the invoice as paid.
+**One time, some transactions did not sync.** One time, a client paid me. I could see the transaction in Kontist, but not in Lexware Office. All other transactions were there. I manually marked the invoice as paid.
 
-A few months later, the missing transaction appeared in Lexoffice. There were a dozen more transactions, all of them very late. If this happened a little later, my [tax declaration](/glossary/Steuererkl%C3%A4rung) would have been wrong, and I could have been fined by the *Finanzamt*. This is really bad!
+A few months later, the missing transaction appeared in Lexware Office. There were a dozen more transactions, all of them very late. If this happened a little later, my [tax declaration](/glossary/Steuererkl%C3%A4rung) would have been wrong, and I could have been fined by the *Finanzamt*. This is really bad!
 
-Kontist also syncs in the other direction. You can do your bookkeeping in Lexoffice, and see the changes in Kontist. This is sometimes buggy, and transactions do not sync properly.
+Kontist also syncs in the other direction. You can do your bookkeeping in Lexware Office, and see the changes in Kontist. This is sometimes buggy, and transactions do not sync properly.
 
-In other cases, a transaction type exists in Lexoffice, but not in Kontist. A [trade tax](/glossary/Gewerbesteuer) payment can appear as an expense, and it makes the income tax calculation completely wrong. In other words, **syncing from Lexoffice to Kontist does not work**.
+In other cases, a transaction type exists in Lexware Office, but not in Kontist. A [trade tax](/glossary/Gewerbesteuer) payment can appear as an expense, and it makes the income tax calculation completely wrong. In other words, **syncing from Lexware Office to Kontist does not work**.
 
 ### Tax advisor access
 
@@ -172,7 +172,7 @@ Kontist was supposed to make my bookkeeping easier, but **it makes too many erro
 
 - Banking works reliably
 - The web app and mobile apps are reliable
-- The Kontist Duo plan with Lexoffice is a good deal
+- The Kontist Duo plan with Lexware Office is a good deal
 - The invoicing tool is basic, but good enough for some people
 
 ### The bad
@@ -180,7 +180,7 @@ Kontist was supposed to make my bookkeeping easier, but **it makes too many erro
 - Transaction fees are too high
 - The free account is not really free for most people
 - Auto-categorization does not work. The AI keeps making mistakes
-- Synchronisation issues with Lexoffice
+- Synchronisation issues with Lexware Office
 - The income tax estimation is not precise enough to be useful
 - The invoicing tool is very basic
 
