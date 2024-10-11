@@ -176,6 +176,7 @@ Yeast is called *Backhefe* in Germany. You can find it in [small paper packets](
 
 - [Aqui España](http://aqui-espana.de/) - They have some Latin American products
 - [Chili & Paprika](http://www.chiliundpaprika.de/) - Food from Mexico, Brasil, Colombia, Argentina, Peru
+- [La Bodega](https://maps.app.goo.gl/31iZcP95yK1prZBR9)
 
 ### Poland
 
