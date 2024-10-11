@@ -29,6 +29,10 @@ You can get unemployment benefits if:[^0]
 
 **If you can't get ALG I**, you should still register at the *Agentur für Arbeit*. You could get *[[Bürgergeld]]*, free professional training, job search help or good advice.[^27]
 
+### It's okay to get unemployment benefits
+
+It's normal and socially acceptable to receive unemployment benefits, even if you don't need it. If you can receive ALG I, do it. This is your money. You paid for those benefits.
+
 ### Unemployment benefits for immigrants
 
 You can get **[[ALG I]]** with a [residence permit](/glossary/Aufenthaltstitel) (like a [work visa](/glossary/Work%20Visa) or [[Blue Card]]), [permanent residence](/glossary/Niederlassungserlaubnis) or EU citizenship. Your immigration status does not affect your unemployment benefits.

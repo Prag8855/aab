@@ -30,14 +30,14 @@ You don't need to do this if...
 
 ## How to send this letter
 
-Send the letter to the department who is responsible for you. Include a copy of your resignation letter, your termination notice, and your new work contract.
+In Berlin, use the [*Ausländerbehörde*'s contact form]. Send the letter to the department who is responsible for you. Include a copy of your resignation letter, your termination notice, and your new work contract.
 
 **[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
 
-The *Ausländerbehörde* will answer a few weeks later.[^1]
+The *Ausländerbehörde* takes a few weeks to reply. Sometimes, they don't reply at all.[^1]
 
 ## What to do next
 
 **[Losing or changing your job in Germany ➞](/guides/losing-your-job)**
 
-[^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report (July 2023)
+[^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report (July 2023), Victoria Messer (October 2024)

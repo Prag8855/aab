@@ -126,7 +126,7 @@ To inform the *Ausländerbehörde*, you must...
 3. Include these documents with your message:[^2]
     - [ ] A copy of your termination notice or [resignation letter](/glossary/Kündigungsschreiben)
 4. Send your letter with [the official contact form](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post.
+5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take a long time to reply. They might not reply at all.
 
 If you are changing jobs, you might need permission from the *Ausländerbehörde* to work for a new employer. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
 
