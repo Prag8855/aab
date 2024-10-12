@@ -52,17 +52,25 @@ You must take a first aid course and an eyesight test. Then you must go to the *
 
 ### First aid course
 
-[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day, around 8 hours.[^4] There is no exam at the end.[^5]
+[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day, around 8 hours.[^4] There is no exam at the end.[^5] The exam certificate is valid for 2 years.
 
 You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
 
 ### Eyesight test
 
-You can get a [free eyesight test at Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/). They have [branches everywhere in Germany](https://www.fielmann.de/niederlassungen/).
+You can take an eye test (*Sehtest*)...
 
-[Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), and [Fahrschule Oscar](https://www.fahrschule-oscar.de/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
+- **At the optometrist** (*Optiker*)  
+    You can get a free test from [Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/) or [Apollo](https://www.apollo.de/service/sehtest).
+- **Any eye doctor** (*Augenarzt*)
+- **At your driving school**  
+    Some driving schools like [Fahrschule Oscar](https://www.fahrschule-oscar.de/) offer the first aid and eyesight test.
+- **With your first aid class**  
+    [Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
 
-Try to pass the eyesight test without wearing glasses, or you will need glasses every time you drive.
+The eye test takes around 15 minutes. You must bring an ID document to the test.[^18]
+
+You can wear glasses or contact lenses for the test. If you pass the test with contact lenses or glasses, you must always wear them when you drive.[^17]
 
 ### Protective gear
 
@@ -180,3 +188,5 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^14]: [marlonbernardes.github.io](https://marlonbernardes.github.io/awesome-berlin/en/pages/obtaining-a-drivers-license.html#picking-up-your-permanent-license)
 [^15]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=in%20berlin%20fallen%2044%20prozent) (2024)
 [^16]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=etwa%20vier%20monate%20warten) (2024)
+[^17]: [§12 Abs. 7 FeV](https://www.gesetze-im-internet.de/fev_2010/__12.html), [brille24.de](https://www.brille24.de/ratgeber/augenoptik/fuehrerschein-sehtest#:~:text=Pkw%20leider%20verzichten.-,fuhrerschein%20mit%20brille%3A%20was%20musst%20du%20wissen%3F%20,-Grunds%C3%A4tzlich%20musst%20du), [Apollo.de](https://www.apollo.de/service/fuehrerschein-sehtest) (2024)
+[^18]: [§12 Abs. 2 FeV](https://www.gesetze-im-internet.de/fev_2010/__12.html)
