@@ -5,7 +5,7 @@ Description: This is how you get an appointment at the citizens' office in Berli
 Date_created: 2017-09-18
 ---
 
-If you must to the Berlin *[[Bürgeramt]]*, you need an appointment. This guide shows you how to get one.
+To go to a Berlin *[[Bürgeramt]]*, you need an appointment. This guide explains how to get an appointment faster.
 
 {% include "_blocks/tableOfContents.html" %}
 

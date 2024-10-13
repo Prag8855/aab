@@ -30,7 +30,7 @@ If you don't have eID, you must do everything in person. It's slower.
 
 ### 1. Check if it's activated
 
-Some residence permits come with the eID feature already activated.[^4] Usually, if they mailed the residence permit to you, the eID feature is not activated. If you picked it up at the *[[Ausländerbehörde]]*, it's probably activated.
+Some residence permits come with the eID feature already activated.[^4] Usually, if you got your residence permit by post, the eID feature is not activated. If you picked it up at the *[[Ausländerbehörde]]*, it's probably activated.
 
 **[Download the AusweisApp](https://www.ausweisapp.bund.de/en/home)**, and use your phone to scan your residence permit. The app will tell you if your eID already works.
 

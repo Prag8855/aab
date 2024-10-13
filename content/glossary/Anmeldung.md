@@ -23,6 +23,6 @@ When you do your *Anmeldung*, you get...
 - A registration certificate (*[[Anmeldebestätigung]]*)
 - A tax ID (*[[Steueridentifikationsnummer]]*)
 
-In Berlin, you can do your Abmeldung in person, or [pay someone to do it for you](/out/red-tape-translation-anmeldung).
+In Berlin, you can do your Abmeldung online or in person. You can also [pay someone to do it for you](/out/red-tape-translation-anmeldung).
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**

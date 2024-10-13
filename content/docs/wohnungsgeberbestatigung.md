@@ -34,7 +34,7 @@ This template is an official example from Berlin.de. You can also use your own t
 
 ## How to send this form
 
-You must register your address in person at the *[[Bürgeramt]]*.
+You can register your address online, or in person at the *[[Bürgeramt]]*.
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 

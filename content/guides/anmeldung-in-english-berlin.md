@@ -44,11 +44,25 @@ You do not need to register if...
 - or **you will move in the next 6 months**  
     If you are already registered somewhere else, and you will stay at your new address for less than 6 month.[^35] For example, if you are registered at your parents' house, and you live with a friend for a few months.
 
-## How to register your address
+## How to register your address online
+
+Since October 2024, you can **[do your Anmeldung online](/out/anmeldung-online)**.{{ fail_on('2025-01-01') }} The online process is buggy and complicated, but it's faster than going in person.
+
+To register online, you must...[^13]
+
+- Be a [EU](/glossary/European%20Union) citizen
+- Have an EU passport
+- Have an [[eID]]
+- Have a BundID account
+- Move from one German address to another German address
+
+If this is your first *Anmeldung*, or if you are not a EU citizen, you must [do your *Anmeldung* in person](#how-to-register-your-address-in-person).
+
+## How to register your address in person
 
 ### 1. Get a [[Bürgeramt]] appointment
 
-You must do your *Anmeldung* **in person at the [[Bürgeramt]]**. You can go to any *[[Bürgeramt]]* in Berlin. **You need an appointment**. It must be after your move-in date.[^1] You have 14 days to register, but in Berlin nobody cares. You can do it months later.[^20]
+If you can't do your *Anmeldung* online, you must do it **in person at the [[Bürgeramt]]**. You can go to any *[[Bürgeramt]]* in Berlin. **You need an appointment**. It must be after your move-in date.[^1] You have 14 days to register, but in Berlin nobody cares. You can do it months later.[^20]
 
 {% include "_blocks/appointmentFinder.html" %}
 
@@ -253,6 +267,7 @@ When you move into an apartment, you must do a few things: lower your rent, get 
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lua6cx/deleted_by_user/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5ibzo4/anmeldung_registration_for_the_family_nongerman/)
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
+[^13]: [Berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^14]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024), Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^16]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (March 2024)
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
