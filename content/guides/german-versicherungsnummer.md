@@ -73,7 +73,7 @@ If you have [private health insurance](/glossary/private%20Krankenversicherung),
 There are many ways to do this:
 
 - **By email**  
-    Write an email to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You can write in English. Include a copy of your passport, and a copy of your *[[Anmeldebestätigung]]*.
+    Write an email to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Kontaktformular/kontaktformular_node.html). You can write in English. Include a copy of your passport, and a copy of your *[[Anmeldebestätigung]]*.
 - **In person**  
     You can visit [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You do not need an appointment. Bring your passport and your [*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung). This is the fastest way. You will get your *Sozialversicherungsnummer* instantly.
 - **Ask your health insurance broker**  
