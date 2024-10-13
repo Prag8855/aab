@@ -170,6 +170,8 @@ To get a PR, you need savings for retirement.[^17] There are 4 ways to do this:
     If you are married, and your spouse has a valid pension, you can use their pension. For example, if your spouse has made 60 months of public pension payments, it's enough.[^18]
 - or **get a private pension**  
     It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must include a pension in case of disability.[^42] A Rürüp pension like [the one Feather sells](/out/feather-basis-pension) should work fine.
+- or **use your foreign pension**  
+    A guaranteed pension from another country also counts.[^74]
 - or **have real estate or other investments**  
     Stable income from your investments might replace a pension.[^32] There is no clear information about this.
 
@@ -181,8 +183,11 @@ If you are self-employed, you don't pay for a public pension. Instead, you can..
     You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25] You can make retroactive payments for up to 1 year.
 - or **join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
+- or **use your foreign pension**
 - or **get a private pension**
 - or **use your spouse's pension**
+- or **have enough savings**  
+    It looks like you need at least {{ FREELANCE_VISA_MIN_PENSION|cur }}€ in savings.[^75] There is no clear information about this. It might not work. If you try it, [let me know](/contact).
 
 If you are a refugee or an asylum seeker, you don't need a pension.[^55]
 
@@ -501,3 +506,5 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
 [^72]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^73]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (August 2024)
+[^74]: [VAB 9a.2.1.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (October 2024)
+[^75]: [VAB 9.2.1.3.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (October 2024)
