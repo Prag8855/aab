@@ -13,7 +13,6 @@ Related_places:
     places/elke-hillemann.md
     places/dr-med-gerhard-perchalla.md
     places/dr-nicolaus-rigas.md
-    places/dr-med-anne-kleiber.md
     places/ole-georg-munkvold.md
     places/privatpraxis-dima-salloum.md
     places/psychiatrie-am-sterndamm.md
