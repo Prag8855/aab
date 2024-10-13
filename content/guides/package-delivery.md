@@ -27,7 +27,7 @@ Your package won't always be delivered to your door. It can be delivered somewhe
 - **Still in the delivery truck**  
     If you just got a delivery slip, your package is probably still in the truck. Your package will be delivered to a Paketshop in the evening or the next day.
 
-**If your name is not on your mailbox**, you will not get your packages. You must [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), or [put your name on your mailbox](/guides/moving-in#put-your-name-on-your-mailbox) or send your mail elsewhere.
+**If your name is not on your mailbox**, you will not get your packages. You must [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), [put your name on your mailbox](/guides/moving-in#put-your-name-on-your-mailbox), or send your mail elsewhere.
 
 Delivery drivers don't always try to deliver your package. They don't always ring your doorbell. They give your package to the first person who opens the door.
 
