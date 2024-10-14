@@ -1,5 +1,6 @@
 {% include '_js/letterUtils.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
@@ -19,6 +20,7 @@
 					employerCompanyName: '',
 					employeeNumber: '',
 					currentDate: new Date(),
+					lastDayOfWork: null,
 
 					requestLetterOfReference: true,
 					requestQualifiedLetterOfReference: false,
@@ -84,10 +86,10 @@
 		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
 
 		<p v-if="language === 'en'">
-			I hereby terminate my employment contract with due notice as of the earliest possible date.
+			I hereby terminate my employment contract with due notice with effect from {{ lastDayOfWork ? formatDate(lastDayOfWork, 'en-US') : 'the earliest possible date' }}.
 		</p>
 		<p v-if="language === 'de'">
-			hiermit kündige ich mein Arbeitsverhältnis fristgerecht zum nächstmöglichen Termin.
+			hiermit kündige ich mein Arbeitsverhältnis fristgerecht zum {{ lastDayOfWork ? formatDate(lastDayOfWork, 'de-DE') : 'nächstmöglichen Termin' }}.
 		</p>
 
 		<p v-if="language === 'en'">
@@ -196,6 +198,15 @@
 			</div>
 		</div>
 		<hr>
+		<div class="form-group">
+			<label :for="uid('last-workday') + '-day'">Last day of work</label>
+			<div class="input-group">
+				<date-picker
+					v-model="lastDayOfWork"
+					:id="uid('last-workday')"></date-picker>
+				<span class="input-instruction">To resign at the earliest possible date, leave this field empty.</span>
+			</div>
+		</div>
 		<div class="form-group no-print">
 			<span class="label">Ask for documents</span>
 			<div class="input-group vertical">
