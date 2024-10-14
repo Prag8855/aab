@@ -79,6 +79,11 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 			flags.add('over-5-years');
 		}
 	}
+	// UK gets treated the same as EU citizens, basically.
+	else if (nationality == 'GB'){
+		flags.add('not-eligible');
+		flags.add('uk-national');
+	}
 	// Israeli
 	else if (nationality === 'IL') {
 		flags.add('israel-national');
@@ -135,29 +140,14 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 			flags.add('over-5-years');
 		}
 	}
-	else if (nationality === 'GB') {
-		flags.add('uk-national');
-		if (entryDate < brexitDate) {
-			flags.add('not-eligible');
-			flags.add('uk-prebrexit');
-		}
-		else {
-			flags.add('uk-postbrexit');
-		}
-	}
 	else {
 		flags.add('noncontracting-national');
 	}
 
-	if(countryOfResidence === 'GB') {
+	// UK residents get treated like EU residents, basically
+	if (countryOfResidence == 'GB'){
+		flags.add('not-eligible');
 		flags.add('uk-resident');
-		if (entryDate < brexitDate) {
-			flags.add('not-eligible');
-			flags.add('uk-prebrexit');
-		}
-		else {
-			flags.add('uk-postbrexit');
-		}
 	}
 
 	if(!flags.has('not-eligible')) {
