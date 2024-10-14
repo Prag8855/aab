@@ -420,7 +420,7 @@ With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel 
 
 ### Make a tax declaration
 
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay a little less [income tax](/glossary/Einkommensteuer). If you hire a lawyer or a relocation consultant, their fee is also tax-deductible.
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts and proofs of payment. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay a little less [income tax](/glossary/Einkommensteuer). If you hire a lawyer or a relocation consultant, their fee is also tax-deductible.
 
 ### Renew your freelance visa
 
