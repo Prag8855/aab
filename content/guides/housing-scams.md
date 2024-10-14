@@ -109,6 +109,8 @@ The landlord only accepts self-employed tenants. Part of the apartment is a comm
 
 Berlin has [rent control laws](/glossary/Mietpreisbremse). Landlords can't charge what they want. If you sue your landlord to lower your rent, they can't kick you out. You pay less rent, but keep the apartment. Services like [Conny](/guides/conny-review) can help you lower your rent.
 
+Rent control laws also apply to [[WG]]s and furnished apartments.
+
 ### Eigenbedarf
 
 Landlords need a valid reason to end your lease and kick you out. Personal use (*Eigenbedarf*) is a valid reason If landlord needs the apartment for their family or themselves, they can kick you out.[^45]
