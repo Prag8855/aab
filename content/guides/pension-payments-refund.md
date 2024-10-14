@@ -26,7 +26,7 @@ There are 3 conditions for getting a German pension refund:
 
 1. You are not forced to contribute to the German pension system
 2. **and** you can't contribute voluntarily to the German pension system
-3. **and** your last pension payment in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey was more than 24 months ago[^0]
+3. **and** your last pension payment in the [[European Union]], Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey was more than 24 months ago[^0]
 
 ### EU, [[EEA]] and Switzerland citizens
 
@@ -59,7 +59,7 @@ You can get a pension refund if:
 
 - you made less than 60 monthly pension payments in Germany
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -77,7 +77,7 @@ You can get a pension refund if:[^2]
 
 - you made less than 60 monthly German pension payments
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -95,7 +95,7 @@ You can get a pension refund if:
 
 - You did not work in Germany before Brexit (January 1, 2021)
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you worked in Germany before Brexit, you can't get a pension refund,[^4] not even for your pension payments after Brexit. When you are 67 years old, you will get a German pension.
 
@@ -105,7 +105,7 @@ You can get a pension refund if:[^5]
 
 - you do not live in Israel
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -131,7 +131,7 @@ You can get a pension refund if:[^7]
 
 - you do not live in Japan
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -153,7 +153,7 @@ You can get a pension refund if:[^2]
 
 - you made less than 60 monthly German pension payments
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -171,7 +171,7 @@ You can get a pension refund if:[^2]
 
 - you made less than 60 monthly German pension payments
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -189,7 +189,7 @@ You can get a pension refund if:[^2]
 
 - you made less than 60 monthly German pension payments
 - **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you live in the United Kingdom, there is one more condition:
 
@@ -205,7 +205,7 @@ You can also get a pension refund if:[^1]
 
 **You can get a pension refund if**:[^8]
 
-- Your last pension payment was more than 24 months ago **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- Your last pension payment was more than 24 months ago **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 - **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
 
 If you live in the United Kingdom, there is one more condition:
@@ -221,17 +221,24 @@ If you live in Tunisia, you must use a Tunisian bank account for your refund.[^9
 - you made less than 60 monthly German pension payments[^11] **or** you live in Turkey since at least 24 months[^12]
 - **and** you don't pay social security contributions in Turkey[^13]
 
-If you live in the United Kingdom, there is one more condition:
-
-- **and** you did not work in Germany before Brexit (January 1, 2021)
+If you live in the United Kingdom, you can't get a pension refund.
 
 If you are a Turkish citizen, and you work in Turkey, you can't get a pension refund,[^13] because you pay social security contributions in Turkey. If you are not a Turkish citizen, but you live and work in Turkey, you can still get a pension refund.[^9]
+
+### UK citizens
+
+If you are a citizen of the United Kingdom, you can always contribute to your German pension, so you can't get a refund.[^3]
+
+There is an exception. You can get a refund if:
+
+- you are at least 67 years old
+- **and** you don't qualify for a German pension
 
 ### Citizens of other countries
 
 You can get a pension refund if:[^8]
 
-- Your last pension payment was more than 24 months ago **and** you do not live in the European Union, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia
+- Your last pension payment was more than 24 months ago **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia
 - **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
 
 If you live in the United Kingdom, there is one more condition:
@@ -349,6 +356,7 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^0]: [Screenshot](/images/rene-pension-refund-answers-2022-02-15.png)
 [^1]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=gesetzlichen%20Rentenversicherung%20zahlt.-,beitragserstattung%20bei%20erreichen%20der%20regelaltersgrenze,-Als%20n%C3%A4chstes%20werde)
 [^2]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=aufhalten.%20Hierzu%20geh%C3%B6ren%3A-,bosnien-herzegowina%2C%20kosovo%2C%20montenegro%20und%20serbien,-Staatsangeh%C3%B6rige%20der%20Staaten)
+[^3]: Georg from Pension Refund Germany (October 2024)
 [^4]: Georg from Pension Refund Germany (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^5]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=bei%20staatsangehorigen%20des%20staates%20israel)
 [^6]: [Screenshot](/images/rene-pension-japan-2022-01-20.png)
