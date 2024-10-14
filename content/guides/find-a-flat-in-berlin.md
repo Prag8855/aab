@@ -357,7 +357,7 @@ To apply for an apartment, you need these documents:[^19]
 - [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
     This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It has no specific format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). You can also use bank statements to show that you pay rent every month.[^47]
 - [ ] **[[Mietbürgschaft]]** (optional)  
-    If you have a low or unstable income, someone can be your guarantor. If you don't pay rent, they must pay it for you. It's useful for students and freelancers. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
+    If you have a low or unstable income, someone can be your guarantor. If you don't pay rent, they must pay it for you. It's useful for students and freelancers. Landlords don't like it. Some leases don't allow it. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
 - [ ] **Passport or [[Personalausweis]]**
 - [ ] **Application form** (optional)  
     If an agency listed the apartment, download their application form (*Selbstauskunft*) and fill it in advance.
