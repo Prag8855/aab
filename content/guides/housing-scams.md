@@ -210,7 +210,7 @@ Signs of a scam:
 
 **Never pay a fee** to visit an apartment or sign a lease. These fees are always illegal. Some short-term housing platforms have a booking fee.
 
-**Go to the [[Amtsgericht]]** and ask who the real landlord is. It's free, and you don't need an appointment. Bring your passport or *[[Personalausweis]]*
+**Go to the [[Amtsgericht]]** and ask who the real landlord is. It's free, and you don't need an appointment. Bring your passport or *[[Personalausweis]]*, and your lease. Do this before you pay anything to your landlord.
 
 **[How to pay the rent and deposit ➞](/guides/moving-in#pay-the-rent)**
 
