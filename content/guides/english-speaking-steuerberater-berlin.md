@@ -91,7 +91,7 @@ Tax advisors are expensive and hard to find.[^5] Most of them refuse new clients
 
 ### Look outside of Berlin
 
-Your tax advisor can be anywhere in Germany. It's easier if you look outside of Berlin.
+Your tax advisor can be anywhere in Germany. It's easier if you look in other German cities.
 
 ### Tax software
 
