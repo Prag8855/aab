@@ -55,10 +55,10 @@ On special days, you can bring furniture, mattresses and other big trash to spec
 ### Paper and cardboard
 
 - **🔵 Paper and cardboard ➞ blue bin**  
-    This includes egg cartons, bread bags, envelopes (even with plastic windows[^6]). newspapers and magazines. Flatten boxes before you put them in the bin.[^7]
+    This includes egg cartons, paper bread bags, envelopes (even with plastic windows[^6]). newspapers and magazines. Flatten boxes before you put them in the bin.[^7]
 - **🟡 [Grüner Punkt logo](/glossary/Gr%C3%BCner%20Punkt) or [Tetra Pak logo](/glossary/Tetra%20Pak) ➞ yellow bin**
 - **🟡 Paper + plastic packaging ➞ yellow bin**  
-    This includes bread bags with plastic windows,[^8] but not envelopes with plastic windows.[^9]
+    This includes plastic bread bags, but not paper bread bags with transparent windows, and not paper envelopes with transparent windows.[^9]
 - **🟡 Milk cartons ➞ yellow bin**[^10]  
     Plastic milk bottles have a *[[Pfand]]*.
 - **🟡 Tetra Pak ➞ yellow bin**
@@ -202,7 +202,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 [^5]: [deutsche-handwerks-zeitung.de](https://www.deutsche-handwerks-zeitung.de/elektroschrott-166055/)
 [^6]: [berlin-recycling.de](https://www.berlin-recycling.de/wissen/muelltrennung/was-gehoert-in-welche-tonne/blaue-tonne), [trenntstadt-berlin.de](https://www.trenntstadt-berlin.de/muelltrennung/papier.html)
 [^7]: [trenntstadt-berlin.de](https://www.trenntstadt-berlin.de/muelltrennung/papier.html)
-[^8]: [t-online.de](https://www.t-online.de/heim-garten/haushaltstipps/id_87205140/altpapier-gelber-sack-oder-restmuell-in-diesen-muell-kommen-broetchentueten.html)
+[^8]: [Reddit](https://www.reddit.com/r/Muelltrennung/comments/1akwz0t/brottüten/) (2024)
 [^9]: [berlin-recycling.de](https://www.berlin-recycling.de/wissen/muelltrennung/was-gehoert-in-welche-tonne/blaue-tonne)
 [^10]: [nordseemilch.com](https://www.nordseemilch.com/node/40), [bsr.de](https://www.bsr.de/wertstoffe-20075.php), [bsr.de](https://www.bsr.de/abfall-abc-20563.php)
 [^11]: [trenntstadt-berlin.de](https://www.trenntstadt-berlin.de/muelltrennung/glas.html), [bvse.de](https://www.bvse.de/recycling-glas/nachrichten-glasrecycling/6947-glasverpackungen-richtig-entsorgen-im-altglascontainer.html)
