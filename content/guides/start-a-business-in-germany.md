@@ -17,7 +17,7 @@ This guide explains how to form a single proprietorship (*Einzelunternehmen*), n
 
 ## How hard is it?
 
-**It's not so bad.** It's a lot of work at in the first year. There is a lot to learn, and a lot of paperwork to do. You must be organised. After a year or two, it's easier.
+**It's not so bad.** It's a lot of work in the first year. There is a lot to learn, and a lot of paperwork to do. You must be organised. After a year or two, it's easier.
 
 **If you need a [residence permit](/glossary/Aufenthaltstitel)** to live in Germany, it's harder because you must deal with the [immigration office](/glossary/Ausländerbehörde). It takes a few months to [get a freelance visa](/guides/freelance-visa), and you must renew it every few years. This adds a lot of costs, delays and paperwork.
 
