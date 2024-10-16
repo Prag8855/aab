@@ -1770,7 +1770,6 @@ input[type=range] {
 .date-picker{
     @include form-input;
     width: fit-content;
-    padding: 0;
     flex: 0 0 fit-content;
     display: inline-flex;
     align-items: baseline;
