@@ -33,7 +33,7 @@ To apply for a [[National Visa]], you need **[public](/glossary/gesetzliche%20Kr
 
 When you start working in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
 
-### For a job seeker visa
+### For a [job seeker visa](/glossary/Job%20seeker%20visa)
 
 **If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
 

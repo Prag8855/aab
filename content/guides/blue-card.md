@@ -63,8 +63,10 @@ If you can't get a Blue Card, there are other [residence permits](/glossary/Aufe
     No salary requirement. No university degree required. In some cases, you might need professional training. It's almost as good as a Blue Card. - [How to apply](/guides/work-visa)
 - **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
     For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
+- **[Opportunity Card](/glossary/Chancenkarte)**  
+    For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours a week. To work full time, you need a work visa or Blue Card.
 - **[[Job seeker visa]]**  
-    For looking for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you can apply for a work visa or a Blue Card.
+    For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you need a work visa or a Blue Card. The [opportunity card](/glossary/Chancenkarte) is usually a better option.
 - **[[Internship visa]]**  
     For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
@@ -88,7 +90,7 @@ You can apply in Germany if...
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you already have a Blue Card from another EU country
-- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
+- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
 - **or** you have a [[National Visa]]. You just need to [convert it to a Blue Card](#convert-your-national-visa-into-a-blue-card).
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
@@ -107,8 +109,10 @@ Usually, you can't work before you get your Blue Card.[^35] It can take time. Yo
     Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your Blue Card application, you don't need to leave Germany.
 - **If you have a Blue Card from another EU country**  
     You can come to Germany without a visa.[^38] If you have your Blue Card since at least 12 months, you can already start working in Germany.[^33] When you arrive in Germany, you have 1 month to convert your Blue Card to a German one at the *[[Ausländerbehörde]]*.[^41]
+- **If you have an [opportunity card](/glossary/Chancenkarte)**  
+    You can come to Germany and look for a job. You can work 20 hours per week. To work full time, you must switch to a Blue Card or a [work visa](/glossary/Work%20Visa).
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
-    You can come to Germany and look for a job. When you find a job, you can apply for the Blue Card. While you wait for your Blue Card, you can work 10 hours per week for your new employer.[^11]
+    You can come to Germany and look for a job. To start working, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).[^11]
 - **If you have a [[Schengen visa]]**  
     You can't apply for a Blue Card with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
