@@ -18,7 +18,7 @@ This guide explains how to get a *Meldebescheinigung* if you already registered 
 
 ## How to get an Anmeldebestätigung
 
-Request it **[online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung) or in person** from the *[[Bürgeramt]]*. It's free online, or 10€ in person.[^0]
+Request it **[online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung) or in person** from the *[[Bürgeramt]]*. It's free online, or 10€ in person.
 
 If you did not [register your address](/glossary/Anmeldung), you can't get a *Meldebescheinigung*.
 
@@ -44,8 +44,13 @@ The extended registration certificate (*erweiterte Meldebescheinigung*) **has mo
 - Your previous addresses
 - Your registered spouse and children
 
-You rarely need an *erweiterte Meldebescheinigung*. You must get it in person at the *[[Bürgeramt]]*. You can't request it online.[^0]
+You rarely need an *erweiterte Meldebescheinigung*. The regular *Meldebescheinigung* is usually good enough.
 
-**[Book a Bürgeramt appointment ➞](https://service.berlin.de/dienstleistung/120702/)**
+To get an *erweiterte Meldebescheinigung*, you must...
 
-[^0]: [berlin.de](https://service.berlin.de/dienstleistung/120702/)
+- **Apply in person at the [[Bürgeramt]]**  
+    [Book an appointment](https://service.berlin.de/dienstleistung/120702/) and go to the *Bürgeramt* in person. Bring your passport or *[[Personalausweis]]*.
+- **Ask for it by email**  
+    Email your *Bürgeramt* and ask for it. Attach a scan of your passport, and a proof of [bank transfer](/glossary/SEPA-Überweisung) for the 10€ fee. They will send the *erweiterte Meldebescheinigung* by post.[^1]
+
+[^1]: Reader feedback (October 2024)
