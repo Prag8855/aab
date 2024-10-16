@@ -6,13 +6,14 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/multiStageMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.permanent-residence-check').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, trackedStagesMixin],
+			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 			data() {
 				return {
 					trackAs: 'Permanent residence check',
@@ -22,7 +23,6 @@
 						'extraQuestions',
 						'results',
 					],
-					stageIndex: 0,
 
 					residencePermit: 'other',
 					languageLevel: 'A0',
@@ -31,11 +31,6 @@
 					spouseHasWorkVisaOrBlueCard: false,
 					monthsInGermany: 20,
 				};
-			},
-			computed: {
-				stage(){
-					return this.stages[this.stageIndex];
-				},
 			},
 		})
 	);

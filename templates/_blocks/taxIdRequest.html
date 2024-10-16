@@ -303,6 +303,7 @@
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/multiStageMixin.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
 {% include '_js/vue/state-input.js' %}
@@ -312,7 +313,7 @@
 	document.querySelectorAll('.tax-id-form').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, trackedStagesMixin, preloadPDFMixin],
+			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin, preloadPDFMixin],
 			data() {
 				return {
 					trackAs: 'Tax ID request form',
@@ -346,16 +347,10 @@
 						'feedback',
 						'options',
 					],
-					stageIndex: 0,
 					downloadInProgress: false,
 					feedbackReminderSent: false,
 					pdfUrl: '/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf',
 				};
-			},
-			computed: {
-				stage(){
-					return this.stages[this.stageIndex];
-				},
 			},
 			methods: {
 				nextStage(){

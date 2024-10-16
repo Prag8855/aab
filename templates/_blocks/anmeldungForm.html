@@ -360,6 +360,7 @@
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/multiStageMixin.js' %}
 {% include '_js/vue/postalcode-input.js' %}
 {% include '_js/vue/preloadPDFMixin.js' %}
 {% include '_js/vue/state-input.js' %}
@@ -369,7 +370,7 @@
 	document.querySelectorAll('.anmeldung-form').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, trackedStagesMixin, preloadPDFMixin],
+			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin, preloadPDFMixin],
 			data() {
 				return {
 					trackAs: 'Anmeldung form',
@@ -396,15 +397,11 @@
 						'idDocuments',
 						'options',
 					],
-					stageIndex: 0,
 					downloadInProgress: false,
 					pdfUrl: '/documents/anmeldung-original.pdf',
 				};
 			},
 			computed: {
-				stage(){
-					return this.stages[this.stageIndex];
-				},
 				peoplePairs(){
 					// Split this.people in arrays of two people
 					return this.people
@@ -413,11 +410,6 @@
 				},
 			},
 			methods: {
-				nextStage(){
-					if(validateForm(this.$el)){
-						this.stageIndex += 1;
-					}
-				},
 				addPerson(){
 					this.people.push({
 						id: Math.floor(Math.random() * 10000),

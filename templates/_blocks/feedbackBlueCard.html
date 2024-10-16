@@ -1,39 +1,18 @@
-{% include '_js/countries.js' %}
-{% include '_js/germanStates.js' %}
-{% include '_js/pension-refund-calculator.js' %}
-{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
-{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/eur.js' %}
-{% include '_js/vue/glossary.js' %}
-{% include '_js/vue/income-input.js' %}
-{% include '_js/vue/state-input.js' %}
+{% include '_js/vue/multiStageMixin.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.feedback-blue-card').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, trackedStagesMixin],
+			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 			data() {
 				return {
-					trackAs: 'Pension refund calculator',
+					trackAs: 'Blue Card feedback',
 					isLoading: false,
-					nationality: '',
-
-					hasApplied: false,
-					applicationDate: null,
-
-					hasReceivedResponse: false,
-					responseDate: null,
-					
-					hasReceivedAppointment: false,
-					appointmentDate: null,
-
-					hasReceivedResidencePermit: false,
-					pickupDate: null,
 
 					emailAddress: null,
 
@@ -68,15 +47,9 @@
 						'start',
 						'email',
 					],
-					stageIndex: 0,
 				};
 			},
 			methods: {
-				nextStage(){
-					if(validateForm(this.$el)){
-						this.stageIndex += 1;
-					}
-				},
 				onStepCompletionChange(key){
 					const changedStepIndex = Object.keys(this.steps).indexOf(key);
 					Object.values(this.steps).forEach((step, index) => {
@@ -91,11 +64,6 @@
 						}
 					})
 				}
-			},
-			computed: {
-				stage(){
-					return this.stages[this.stageIndex];
-				},
 			},
 		})
 	);
