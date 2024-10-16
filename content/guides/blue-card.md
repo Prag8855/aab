@@ -189,7 +189,9 @@ If they approve your Blue Card, they must print the plastic card. You will get a
 
 ### 7. Get your Blue Card
 
-Go to your second *[[Ausländerbehörde]]* appointment, and pick up your Blue Card. Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+Go to your second *[[Ausländerbehörde]]* appointment to pick up your Blue Card. Bring your passport and your old residence permit.
+
+Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 

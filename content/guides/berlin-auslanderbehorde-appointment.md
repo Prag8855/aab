@@ -149,9 +149,9 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 
 ### If your application is approved
 
-Go to your second *[[Ausländerbehörde]]* appointment, and pick up your new residence permit. Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+Go to your second *[[Ausländerbehörde]]* appointment to pick up your new residence permit. Bring your passport and your old residence permit.
 
-Your residence permit is a plastic card. The expiration date is written on it.
+Your residence permit is a plastic card. The expiration date is written on it. Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 You might also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your residence permit. For example, it might say that you can change employers, or that self-employment is allowed.
 

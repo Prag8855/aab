@@ -185,7 +185,9 @@ If they approve your freelance visa, they must print the plastic card. You will 
 
 ### 7. Get your freelance visa
 
-Go to your second *[[Ausländerbehörde]]* appointment, and pick up your freelance visa. Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+Go to your second *[[Ausländerbehörde]]* appointment to pick up your freelance visa. Bring your passport and your old residence permit.
+
+Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 Your freelance visa is a plastic card. The expiration date is written on it. It's **valid for up to 3 years**.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
 

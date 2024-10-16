@@ -202,7 +202,9 @@ If they approve your work visa, they must print the plastic card. You will get a
 
 ### 7. Get your work visa
 
-Go to your second *[[Ausländerbehörde]]* appointment, and pick up your work visa. Check if the information on your work visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
+Go to your second *[[Ausländerbehörde]]* appointment to pick up your work visa. Bring your passport and your old residence permit.
+
+Check if the information on your work visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 Your work visa is a plastic card. The expiration date is written on it. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 

@@ -300,7 +300,9 @@ You will get a document. It confirms that your permanent residence application w
 
 ### 5. Get your permanent residence card
 
-Go to your second *[[Ausländerbehörde]]* appointment, and pick up your permanent residence card.[^34] Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.[^70]
+Go to your second *[[Ausländerbehörde]]* appointment to pick up your permanent residence card.[^34] Bring your passport and your old residence permit.
+
+Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.[^70]
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
 
