@@ -1754,6 +1754,14 @@ input[type=range] {
         }
     }
 }
+.inter-step{
+    border-left: var(--b-box);
+    margin: calc(var(--l-relative) * -1) 0 calc(var(--l-relative) * -1) calc(var(--w-checkbox) / 2);
+    padding: var(--s-relative) 0 var(--s-relative) calc(var(--w-checkbox) / 2 + var(--s));
+    font-size: var(--f-s);
+}
+
+
 .input-instructions{
     font-size: var(--f-s);
     flex: 1 0 100%;

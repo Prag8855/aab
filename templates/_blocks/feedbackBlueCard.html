@@ -1,0 +1,146 @@
+{% include '_js/countries.js' %}
+{% include '_js/germanStates.js' %}
+{% include '_js/pension-refund-calculator.js' %}
+{% include '_js/utils.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
+{% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/eur.js' %}
+{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/state-input.js' %}
+{% include '_js/vue/trackedStagesMixin.js' %}
+{% include '_js/vue/uniqueIdsMixin.js' %}
+{% js %}
+	document.querySelectorAll('collapsible.feedback-blue-card').forEach(
+		el => new Vue({
+			el: el,
+			mixins: [uniqueIdsMixin, trackedStagesMixin],
+			data() {
+				return {
+					trackAs: 'Pension refund calculator',
+					isLoading: false,
+					nationality: '',
+
+					hasApplied: false,
+					applicationDate: null,
+
+					hasReceivedResponse: false,
+					responseDate: null,
+					
+					hasReceivedAppointment: false,
+					appointmentDate: null,
+
+					hasReceivedResidencePermit: false,
+					pickupDate: null,
+
+					emailAddress: null,
+
+					steps: {
+						application: {
+							checkboxTitle: "I have sent my documents to the Ausländerbehörde",
+							dateFieldTitle: "Application date",
+							completed: null,
+							date: null,
+						},
+						response: {
+							checkboxTitle: "The Ausländerbehörde responded",
+							dateFieldTitle: "First response date",
+							completed: null,
+							date: null,
+						},
+						appointment: {
+							checkboxTitle: "The Ausländerbehörde gave me an appointment",
+							dateFieldTitle: "Appointment date",
+							completed: null,
+							date: null,
+						},
+						pickup: {
+							checkboxTitle: "I received my Blue Card",
+							dateFieldTitle: "Pick-up date",
+							completed: null,
+							date: null,
+						},
+					},
+
+					stages: [
+						'start',
+						'email',
+					],
+					stageIndex: 0,
+				};
+			},
+			methods: {
+				nextStage(){
+					if(validateForm(this.$el)){
+						this.stageIndex += 1;
+					}
+				},
+				onStepCompletionChange(key){
+					const changedStepIndex = Object.keys(this.steps).indexOf(key);
+					Object.values(this.steps).forEach((step, index) => {
+						// Tick all previous steps
+						if(index < changedStepIndex && this.steps[key].completed){
+							step.completed = true;
+						}
+
+						// Untick all following steps
+						if(index > changedStepIndex && !this.steps[key].completed){
+							step.completed = false;
+						}
+					})
+				}
+			},
+			computed: {
+				stage(){
+					return this.stages[this.stageIndex];
+				},
+			},
+		})
+	);
+{% endjs %}
+
+<collapsible class="feedback-blue-card" ref="collapsible" aria-label="Feedback: Blue Card" {% if static|default %}static{% endif %} v-cloak>
+{% raw %}
+	<template v-slot:header>
+		<small>Give feedback, help others</small>
+		How is your Blue Card application going?
+	</template>
+	<template v-if="stage === 'start'">
+		<template  v-for="(step, key, index) in steps" :key="key">
+			<div class="form-group no-label">
+				<div class="input-group vertical">
+					<label class="checkbox">
+						<input type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
+						{{ step.checkboxTitle }}
+					</label>
+				</div>
+			</div>
+			<div class="inter-step" v-if="!step.completed && index != Object.keys(steps).length - 1"></div>
+			<div class="form-group inter-step required" v-if="step.completed">
+				<label :for="uid(key) + '-date-day'">{{ step.dateFieldTitle }}</label>
+				<date-picker v-model="step.date" :id="uid(key) + '-date-day'" required></date-picker>
+			</div>
+		</template>
+	</template>
+	<template v-if="stage === 'email'">
+		<p>
+			<strong>Thank you!</strong> Can you give more feedback when you get your residence permit? I can remind you by email in 2 months.
+		</p>
+		<hr>
+		<div class="form-group">
+			<label :for="uid('email')">Email address</label>
+			<input ref="emailInput" v-model="emailAddress" type="email" :id="uid('email')" autocomplete="email">
+			<span class="input-instructions" v-if="!emailAddress">You will get a reminder in 2 months and in 6 months. Nothing else.</span>
+			<span class="input-instructions" v-if="emailAddress">Thank you! Your feedback will be really helpful.</span>
+		</div>
+	</template>
+	<hr v-if="steps.application.completed">
+	<div class="buttons" v-if="steps.application.completed">
+		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button class="button primary" v-if="stage === 'start'" @click="nextStage">Send feedback</button>
+		<button class="button primary" v-if="stage === 'email'" @click="nextStage">Remind me</button>
+	</div>
+{% endraw %}
+</collapsible>
