@@ -385,7 +385,7 @@ $width-main-column: 860px;
         color: var(--c-text-placeholder)!important;
         cursor: not-allowed;
         * {
-        	color: var(--c-text-placeholder)!important;
+            color: var(--c-text-placeholder)!important;
         }
     }
 
@@ -1439,7 +1439,7 @@ select{
     padding-right: var(--xl);
     text-overflow:ellipsis;
     &.placeholder{
-    	color: var(--c-text-placeholder);
+        color: var(--c-text-placeholder);
     }
 }
 
@@ -1629,11 +1629,11 @@ input[type=range] {
     }
 
     &.loading{
-    	color: transparent!important;
-    	background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='M10.14,1.16a11,11,0,0,0-9,8.92A1.59,1.59,0,0,0,2.46,12,1.52,1.52,0,0,0,4.11,10.7a8,8,0,0,1,6.66-6.61A1.42,1.42,0,0,0,12,2.69h0A1.57,1.57,0,0,0,10.14,1.16Z' class='spinner'/>%3Cstyle%3E.spinner%7Btransform-origin%3Acenter%3Banimation%3Aspinner_svv2%20.75s%20infinite%20linear%7D%40keyframes%20spinner_svv2%7B100%25%7Btransform%3Arotate%28360deg%29%7D%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22M10.14%2C1.16a11%2C11%2C0%2C0%2C0-9%2C8.92A1.59%2C1.59%2C0%2C0%2C0%2C2.46%2C12%2C1.52%2C1.52%2C0%2C0%2C0%2C4.11%2C10.7a8%2C8%2C0%2C0%2C1%2C6.66-6.61A1.42%2C1.42%2C0%2C0%2C0%2C12%2C2.69h0A1.57%2C1.57%2C0%2C0%2C0%2C10.14%2C1.16Z%22%20class%3D%22spinner%22%2F%3E</svg>");
-    	background-size: var(--w-icon-s);
-    	background-repeat: no-repeat;
-    	background-position: center;
+        color: transparent!important;
+        background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='M10.14,1.16a11,11,0,0,0-9,8.92A1.59,1.59,0,0,0,2.46,12,1.52,1.52,0,0,0,4.11,10.7a8,8,0,0,1,6.66-6.61A1.42,1.42,0,0,0,12,2.69h0A1.57,1.57,0,0,0,10.14,1.16Z' class='spinner'/>%3Cstyle%3E.spinner%7Btransform-origin%3Acenter%3Banimation%3Aspinner_svv2%20.75s%20infinite%20linear%7D%40keyframes%20spinner_svv2%7B100%25%7Btransform%3Arotate%28360deg%29%7D%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22M10.14%2C1.16a11%2C11%2C0%2C0%2C0-9%2C8.92A1.59%2C1.59%2C0%2C0%2C0%2C2.46%2C12%2C1.52%2C1.52%2C0%2C0%2C0%2C4.11%2C10.7a8%2C8%2C0%2C0%2C1%2C6.66-6.61A1.42%2C1.42%2C0%2C0%2C0%2C12%2C2.69h0A1.57%2C1.57%2C0%2C0%2C0%2C10.14%2C1.16Z%22%20class%3D%22spinner%22%2F%3E</svg>");
+        background-size: var(--w-icon-s);
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
     @include only-print{
@@ -1679,7 +1679,7 @@ input[type=range] {
             grid-column-start: 1;
         }
         .input-group .checkbox{
-        	padding-top: 0;
+            padding-top: 0;
         }
     }
 
@@ -1764,7 +1764,7 @@ input[type=range] {
     }
 }
 .input-instructions:not(a){
-	color: var(--c-text-light);
+    color: var(--c-text-light);
 }
 
 .date-picker{
@@ -1789,6 +1789,7 @@ input[type=range] {
         flex: 0 0 auto!important;
         text-align: center;
         width: 3ch!important; // A bit wider because of the placeholder
+        padding: 0;
     }
     .year-input, .year-input:invalid{
         width: 5ch!important;

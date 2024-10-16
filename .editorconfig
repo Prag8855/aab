@@ -1,4 +1,9 @@
-[*.{html,jinja,js,scss,css,svg}]
+[*.{html,jinja,js,svg}]
 indent_style = tab
+indent_size = 4
+tab_width = 4
+
+[*.{scss,css}]
+indent_style = space
 indent_size = 4
 tab_width = 4
