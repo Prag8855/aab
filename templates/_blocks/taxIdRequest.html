@@ -347,6 +347,16 @@
 						'feedback',
 						'options',
 					],
+					inputsToFocus: {
+						start: () => this.$refs.startButton,
+						purpose: () => null,
+						address: () => this.country === 'DE' ? this.$refs.addressInput : this.$refs.countryInput.$el,
+						addPeople: () => this.$refs.firstNameInput[0],
+						beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
+						employer: () => this.$refs.sendToEmployerCheckbox,
+						feedback: () => this.$refs.emailInput,
+						options: () => null,
+					},
 					downloadInProgress: false,
 					feedbackReminderSent: false,
 					pdfUrl: '/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf',
@@ -478,24 +488,6 @@
 				}
 			},
 			watch: {
-				stageIndex(newStageIndex){
-					Vue.nextTick(() => {
-						const inputToFocus = {
-							start: () => this.$refs.startButton,
-							purpose: () => null,
-							address: () => this.country === 'DE' ? this.$refs.addressInput : this.$refs.countryInput.$el,
-							addPeople: () => this.$refs.firstNameInput[0],
-							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
-							employer: () => this.$refs.sendToEmployerCheckbox,
-							feedback: () => this.$refs.emailInput,
-							options: () => null,
-						}[this.stages[newStageIndex]]();
-
-						if(inputToFocus){
-							inputToFocus.focus();
-						}
-					});
-				},
 				purpose(newPurpose){
 					if(newPurpose === 'noAnmeldung'){
 						this.country = 'DE';

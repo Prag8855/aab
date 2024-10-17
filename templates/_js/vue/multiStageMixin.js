@@ -4,6 +4,7 @@ const multiStageMixin = {
 		return {
 			stages: [],
 			stageIndex: 0,
+			inputsToFocus: {},
 		}
 	},
 	computed: {
@@ -18,5 +19,16 @@ const multiStageMixin = {
 			}
 		},
 	},
+	watch: {
+		stageIndex(newStageIndex){
+			Vue.nextTick(() => {
+				// Focus on the first form item in the list when changing steps
+				const inputToFocusFunction = this.inputsToFocus[this.stages[newStageIndex]];
+				if(inputToFocusFunction){
+					inputToFocusFunction().focus();
+				}
+			});
+		},
+	}
 }
 {% endjs %}

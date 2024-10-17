@@ -397,6 +397,15 @@
 						'idDocuments',
 						'options',
 					],
+					inputsToFocus: {
+						start: () => this.$refs.startButton,
+						newAddress: () => this.$refs.newAddressInput,
+						oldAddress: () => this.$refs.oldAddressCountryInput.$el,
+						addPeople: () => this.$refs.firstNameInput[0],
+						beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
+						idDocuments: () => this.$refs.documentTypePassportCheckbox[0],
+						options: () => null,
+					},
 					downloadInProgress: false,
 					pdfUrl: '/documents/anmeldung-original.pdf',
 				};
@@ -529,23 +538,6 @@
 				}
 			},
 			watch: {
-				stageIndex(newStageIndex){
-					Vue.nextTick(() => {
-						const inputToFocus = {
-							start: () => this.$refs.startButton,
-							newAddress: () => this.$refs.newAddressInput,
-							oldAddress: () => this.$refs.oldAddressCountryInput.$el,
-							addPeople: () => this.$refs.firstNameInput[0],
-							beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
-							idDocuments: () => this.$refs.documentTypePassportCheckbox[0],
-							options: () => null,
-						}[this.stages[newStageIndex]]();
-
-						if(inputToFocus){
-							inputToFocus.focus();
-						}
-					});
-				},
 				newPostCode(newVal) {
 					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
 					try{

@@ -303,6 +303,13 @@
 						'addPeople',
 						'offlineFinish',
 					],
+					inputsToFocus: {
+						start: () => this.$refs.startButton,
+						oldAddress: () => this.$refs.oldAddressInput,
+						newAddress: () => this.$refs.newAddressInput,
+						addPeople: () => this.$refs.firstNameInput[0],
+						offlineFinish: () => null,
+					},
 					downloadInProgress: false,
 					pdfUrl: '/documents/abmeldung-original.pdf',
 				};
@@ -413,21 +420,6 @@
 				},
 			},
 			watch: {
-				async stageIndex(newStageIndex){
-					Vue.nextTick(() => {
-						const inputToFocus = {
-							start: () => this.$refs.startButton,
-							oldAddress: () => this.$refs.oldAddressInput,
-							newAddress: () => this.$refs.newAddressInput,
-							addPeople: () => this.$refs.firstNameInput[0],
-							offlineFinish: () => null,
-						}[this.stages[newStageIndex]]();
-
-						if(inputToFocus){
-							inputToFocus.focus();
-						}
-					});
-				},
 				oldPostCode(newVal) {
 					const postalCodeIsValid = parseInt(newVal, 10) > 10100 && parseInt(newVal, 10) < 14200;
 					try{
