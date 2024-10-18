@@ -18,4 +18,6 @@ The opportunity card (*Chancenkarte*) is a type of [[National Visa]]. It allows 
 
 The opportunity card lets you work 20 hours per week while you look for a full time job.[^1] To work full time, you must get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
 
+You must apply for a job seeker visa at the German embassy or consulate in your home country.
+
 [^1]: [§20a Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html)

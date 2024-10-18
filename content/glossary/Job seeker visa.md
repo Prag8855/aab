@@ -24,4 +24,6 @@ You can get a job seeker visa when...
 
 To start working, you must apply for a [work visa](/glossary/Work%20Visa), a [[Blue Card]] or a [freelance visa](/glossary/Freelance%20visa).
 
+You must apply for a job seeker visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
+
 **[Information about the job seeker visa ➞](https://service.berlin.de/dienstleistung/324661/en/)**

@@ -28,6 +28,8 @@ People from [some countries](https://www.auswaertiges-amt.de/en/einreiseundaufen
 
 **[Who needs a visa to visit Germany? ➞](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**
 
+You must apply for the Schengen visa at the German embassy or consulate in your home country. You can also get a Schengen visa for another Schengen area country, then visit Germany.
+
 [^0]: [Bundesamt für Migration und Flüchtlinge](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp67-emn-wechsel-aufenthaltstiteln-aufenthaltszwecken.pdf?__blob=publicationFile&v=17), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php)
 [^1]: [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#headline_1_60_0_11), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#extension)
 [^2]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734)
