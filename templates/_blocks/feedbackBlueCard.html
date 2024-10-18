@@ -13,12 +13,13 @@
 				return {
 					trackAs: 'Blue Card feedback',
 					isLoading: false,
-
-					emailAddress: null,
+					nationality: null,
+					userNotes: '',
+					emailAddress: '',
 
 					steps: {
 						application: {
-							checkboxTitle: "I have sent my documents to the Berlin Ausländerbehörde",
+							checkboxTitle: "I have applied in Berlin",
 							dateFieldTitle: "Application date",
 							completed: null,
 							date: null,
@@ -46,6 +47,7 @@
 					stages: [
 						'start',
 						'email',
+						'finish',
 					],
 					inputsToFocus: {
 						email: () => this.$refs.emailInput,
@@ -53,6 +55,17 @@
 				};
 			},
 			methods: {
+				nextStage(){
+					if(validateForm(this.$el)){
+						const allStagesComplete = Object.values(this.steps).every(s => s.completed);
+						if(this.stage === 'start' && allStagesComplete){
+							this.stageIndex += 2; // Skip email step if there is no more feedback to give
+						}
+						else{
+							this.stageIndex += 1;
+						}
+					}
+				},
 				onStepCompletionChange(key){
 					const changedStepIndex = Object.keys(this.steps).indexOf(key);
 					Object.values(this.steps).forEach((step, index) => {
@@ -66,7 +79,11 @@
 							step.completed = false;
 						}
 					})
-				}
+				},
+				submitFeedback(){
+				},
+				setFeedbackReminder(){
+				},
 			},
 		})
 	);
@@ -94,23 +111,43 @@
 				<date-picker v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
 			</div>
 		</template>
+		<template v-if="steps.application.completed">
+			<hr>
+			<div class="form-group required">
+				<label :for="uid('nationality')">Nationality</label>
+				<country-input
+					country-code
+					v-model="nationality"
+					:id="uid('nationality')"
+					required></country-input>
+				<span class="input-instructions">Your nationality affects the processing time</span>
+			</div>
+			<div class="form-group">
+				<label :for="uid('userNotes')">Notes and advice</label>
+				<textarea placeholder="Add helpful information for other readers" v-model="userNotes" :id="uid('userNotes')"></textarea>
+			</div>
+		</template>
 	</template>
 	<template v-if="stage === 'email'">
 		<p>
-			<strong>Thank you!</strong> I really appreciate your help.
+			<strong>Thank you for your feedback!</strong> It will help a lot of people.
 		</p>
 		<hr>
 		<p>Can you give more feedback when you get your residence permit? It would be very helpful. I can remind you by email.</p>
 		<div class="form-group">
 			<label :for="uid('email')">Email address</label>
-			<input ref="emailInput" v-model="emailAddress" type="email" :id="uid('email')" autocomplete="email">
-			<span class="input-instructions" v-if="!emailAddress">You will get a reminder in 2 months and in 6 months. Nothing else.</span>
-			<span class="input-instructions" v-if="emailAddress">Thank you! Your feedback will be really helpful.</span>
+			<input ref="emailInput" v-model="emailAddress" type="email" :id="uid('email')" autocomplete="email" required>
+			<span class="input-instructions">You will get a reminder in 2 months and in 6 months. Nothing else.</span>
 		</div>
 	</template>
-	<hr v-if="steps.application.completed">
-	<div class="buttons" v-if="steps.application.completed">
-		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+	<template v-if="stage === 'finish'">
+		<p>
+			<strong>Thank you for your feedback!</strong> It will help a lot of people.
+		</p>
+	</template>
+	<hr v-if="steps.application.completed && stage !== 'finish'">
+	<div class="buttons" v-if="steps.application.completed && stage !== 'finish'">
+		<button v-if="stage !== 'start' && stage !== 'finish'" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button class="button primary" v-if="stage === 'start'" @click="nextStage">Send feedback</button>
 		<button class="button primary" v-if="stage === 'email'" @click="nextStage">Remind me</button>
 	</div>
