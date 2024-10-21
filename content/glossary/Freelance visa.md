@@ -31,4 +31,6 @@ With a freelance visa, you can...
 
 The [artist visa](/glossary/Artist%20visa) and the language teacher visa are the same thing as the freelance visa. The application process is the same.
 
+You must apply for a freelance visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
+
 **[How to apply for a freelance visa ➞](/guides/freelance-visa)**

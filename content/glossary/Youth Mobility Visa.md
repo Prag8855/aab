@@ -14,4 +14,6 @@ Related_guides:
 
 The Youth Mobility Visa allows Canadian citizens between 18 and 35 years old to work in Germany for up to 12 months.[^0] It is similar to the [[Working Holiday Visa]].
 
+You must apply for the Youth Mobility Visa at the German embassy or consulate in your home country.
+
 [^0]: [canada.diplo.de](https://canada.diplo.de/ca-en/consular-services/visa/-/1674826)

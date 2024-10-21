@@ -51,8 +51,10 @@ If you have a job offer:
 
 If you don't have a job offer:
 
+- **[Opportunity card](/glossary/Chancenkarte)**  
+    For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours per week. To work full time, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
 - **[[Job seeker visa]]**  
-    For people who want to look for work in Germany. It gives you 6 months to [find a job](/guides/find-a-job-in-berlin). When you find a job, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
+    For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card). The [opportunity card](/glossary/Chancenkarte) is a better option, because you can work 20 hours per week.
 
 If you are a [permanent residents](/glossary/Niederlassungserlaubnis), you can have any job. You don't need permission from the *[[Ausländerbehörde]]*.
 

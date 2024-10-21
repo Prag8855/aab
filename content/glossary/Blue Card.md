@@ -28,6 +28,8 @@ With a Blue Card, you can...
 
 ![Example German Blue Card](/images/german-blue-card.jpg)
 
+You must apply for a Blue Card at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
+
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
 [^1]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html)

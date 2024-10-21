@@ -30,4 +30,6 @@ With a work visa, you can...
 
 The work visa is similar to a [[Blue Card]], but the requirements are different.
 
+You must apply for a work visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
+
 **[How to apply for a work visa ➞](/guides/work-visa)**

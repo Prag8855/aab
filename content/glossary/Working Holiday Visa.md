@@ -18,4 +18,6 @@ Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New 
 
 Canadian citizens between 18 and 35 years old can apply for a [[Youth Mobility Visa]]. It's almost the same thing.
 
+You must apply for the Working Holiday Visa at the German embassy or consulate in your home country.
+
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/Working_holiday_visa#Germany)
