@@ -38,6 +38,7 @@ Related_places:
     places/superfit-neukölln.md
     places/superfit-tegel.md
     places/superfit-steglitz.md
+    places/sqwod-pod.md
 ---
 
 This is a map of gyms that are open 24 hour a day in Berlin. If a place is missing, [contact me](/contact).
