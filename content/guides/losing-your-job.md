@@ -126,7 +126,7 @@ To inform the *Ausländerbehörde*, you must...
 3. Include these documents with your message:[^2]
     - [ ] A copy of your termination notice or [resignation letter](/glossary/Kündigungsschreiben)
 4. Send your letter with [the official contact form](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take a long time to reply. They might not reply at all.
+5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take many weeks to reply.[^46] They might not reply at all.
 
 If you are changing jobs, you might need permission from the *Ausländerbehörde* to work for a new employer. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
 
@@ -350,3 +350,4 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
 [^45]: [Dr. Drees](https://www.dr-drees.com/aufhebungsvertrag-ohne-frist/#:~:text=sperrfrist%20wegen%20des%20aufhebungsvertrages) (July 2024)
+[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024)
