@@ -109,7 +109,7 @@ If you don't take driving lessons, read Route to Germany's [guide to driving in 
 
 Book a *[[Bürgeramt]]* appointment. In Berlin, appointments are hard to find. The nearest appointment could be in a few weeks.
 
-**[Book an appointment](/out/appointment-convert-driving-licence-eu)** (EU or EEA driving licence)
+**[Book an appointment](/out/appointment-convert-driving-licence-eu)** ([EU](/glossary/European%20Union) or [[EEA]] driving licence)
 
 **[Book an appointment](https://service.berlin.de/terminvereinbarung/termin/all/327537/)** (Annex 11 and other countries)
 
@@ -131,9 +131,9 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 If your licence is not from a EU or EEA country, you must also bring...
 
 - [ ] **Certified translation of your driving licence**  
-    If your driving licence is not in English or German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€.
+    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€. In some cities, they only accept certified translations, not International Driving Permits.[^14]
 
-If your licence is not from a EU, EEA or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must also bring...
+If your licence is not from a [EU](/glossary/European%20Union), [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must also bring...
 
 - [ ] **Eye test certificate**
 - [ ] **First aid course certificate**
@@ -159,21 +159,22 @@ After a few weeks, you get a letter. It tells you to pick up your new driver lic
 - [Use car sharing services](/guides/public-transit#rent-a-car)
 
 [^0]: [bmvi.de](https://www.bmvi.de/SharedDocs/EN/Articles/StV/Roadtraffic/validity-foreign-driving-licences-in-germany.html), [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=innerhalb%20der%20eu%20sind%20fuhrerscheine%20grenzubergreifend%20gultig), [bmdv.bund.de](https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.pdf?__blob=publicationFile)
+[^1]: [bmdv.bund.de](https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.pdf?__blob=publicationFile)
+[^2]: [berlin.de](https://service.berlin.de/dienstleistung/327537/#:~:text=nachweis%20uber%20zuzugsdatum)
 [^3]: [aaa.com](https://www.aaa.com/vacation/idpf.html)
 [^4]: [caasco.com](https://www.caasco.com/travel/travel-information/international-driving-permit), [caaquebec.com](https://www.caaquebec.com/en/contact-us/travel-centres/)
 [^5]: [travel.gc.ca](https://travel.gc.ca/travelling/documents/international-driving-permit)
+[^6]: [berlin.de](https://service.berlin.de/dienstleistung/327537/#:~:text=der%20deutschen%20Fahrerlaubnis-,noch%20gultig%20sein,-und%20im%20Original), [ebureaucracy.com](https://ebureaucracy.com/germany/how-to-convert-a-foreign-driving-license#:~:text=it%20is%20okay%20if%20your%20home-country%E2%80%99s%20license%20has%20expired%20since%20moving%20to%20germany%2C%20but%20then%20you%20need%20to%20obtain%20a%20renewed%20version)
 [^7]: [Red Tape Translation](https://redtapetranslation.com/exchanging-your-foreign-drivers-licence-in-germany/)
+[^8]: [berlin.de](https://service.berlin.de/dienstleistung/121598/#:~:text=bereits%20abgelaufen%20ist)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/qr1w7o/credit_cards_are_finally_accepted_at_the/hk6mpwi/?context=3)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/6bilah/getting_an_update_from_the_b%C3%BCrgeramt/), [toytowngermany.com](https://web.archive.org/web/20230520093526/https://www.toytowngermany.com/forum/topic/130747-changing-a-canadian-drivers-licence-to-german/#comment-1611766), [awesomesauceasshattery.wordpress.com](http://web.archive.org/web/20211205222224/https://awesomesauceasshattery.wordpress.com/2011/10/22/canadian-to-german-driving-licence-in-just-4-steps/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8paad4/the_wait_time_for_a_drivers_licence_is_five/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9bj5dm/to_anyone_waiting_for_his_driving_licence_to_be/), [ebureaucracy.com](https://ebureaucracy.com/germany/how-to-convert-a-foreign-driving-license#:~:text=then%20some%20weeks%20later%20i%20got%20a%20letter%20saying)
-[^13]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
-[^15]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6h6adp/trading_a_foreign_driver_licence_for_a_german_one/)
 [^11]: [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=wenn%20sie%20etwa%20nur%20in%20deutschland%20urlaub%20machen%20wollen%2C%20kann%20unter%20umstanden%20ein%20zusatzlicher%20internationaler%20fuhrerschein%20erforderlich%20sein)
+[^12]: [da-direkt.de](https://www.da-direkt.de/autoversicherung/ratgeber/erste-hilfe-kurs), [Fahrschule Oscar](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
+[^13]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
+[^14]: Reader from Munich (October 2024)
+[^15]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6h6adp/trading_a_foreign_driver_licence_for_a_german_one/)
+[^16]: [Fahrschule Oscar](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
 [^17]: [Directive 2006/126/EC, Article 2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0126), [Article 7](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0126), [Article 11](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0126), [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=wurde%20ihr%20auslandischer%20fuhrerschein%20in%20einem%20anderen%20eu-mitgliedsstaat%20ausgestellt)
 [^18]: [bmdv.bund.de](https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.pdf?__blob=publicationFile), [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=in%20der%20regel%20bis%20zu%20sechs%20monate%20gultig), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/auslaendischer-fuehrerschein/#:~:text=sie%20mussen%20mindestens%20sechs%20monate%20lang%20ihren%20hauptwohnsitz%20in%20dem%20land%20haben%2C%20in%20dem%20sie%20den%20neuen%20eu-fuhrerschein%20machen.)
-[^1]: [bmdv.bund.de](https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.pdf?__blob=publicationFile)
 [^20]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
-[^6]: [berlin.de](https://service.berlin.de/dienstleistung/327537/#:~:text=der%20deutschen%20Fahrerlaubnis-,noch%20gultig%20sein,-und%20im%20Original), [ebureaucracy.com](https://ebureaucracy.com/germany/how-to-convert-a-foreign-driving-license#:~:text=it%20is%20okay%20if%20your%20home-country%E2%80%99s%20license%20has%20expired%20since%20moving%20to%20germany%2C%20but%20then%20you%20need%20to%20obtain%20a%20renewed%20version)
-[^8]: [berlin.de](https://service.berlin.de/dienstleistung/121598/#:~:text=bereits%20abgelaufen%20ist)
-[^12]: [da-direkt.de](https://www.da-direkt.de/autoversicherung/ratgeber/erste-hilfe-kurs), [Fahrschule Oscar](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^16]: [Fahrschule Oscar](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^2]: [berlin.de](https://service.berlin.de/dienstleistung/327537/#:~:text=nachweis%20uber%20zuzugsdatum)
