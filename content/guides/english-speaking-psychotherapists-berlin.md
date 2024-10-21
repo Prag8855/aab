@@ -92,7 +92,7 @@ This guide explains:
 
 Psychiatrists solve mental health problems with medical treatments. They are **doctors who studied medicine**.[^1]
 
-They can diagnose mental health problems, prescribe medication and give therapy. Many accept [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
+They can diagnose mental health problems, prescribe medication and give therapy. They can also give therapy if they took therapy training. Many accept [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
 **[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 

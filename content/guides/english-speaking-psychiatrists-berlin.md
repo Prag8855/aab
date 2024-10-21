@@ -31,7 +31,7 @@ This guide explains:
 
 ## Psychiatrist or psychotherapist?
 
-**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication.
+**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. They can also give therapy if they took therapy training.
 
 **Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems. They can't prescribe medication.[^2]
 
