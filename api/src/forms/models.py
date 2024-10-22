@@ -1,4 +1,5 @@
 from django.db import models
+from django_countries.fields import CountryField
 
 
 class MessageStatus(models.IntegerChoices):
@@ -18,8 +19,8 @@ class ScheduledMessage(models.Model):
 class PensionRefundQuestion(ScheduledMessage):
     name = models.CharField(max_length=150)
     email = models.EmailField()
-    nationality = models.CharField(max_length=150)
-    country_of_residence = models.CharField(max_length=150)
+    nationality = CountryField()
+    country_of_residence = CountryField()
     question = models.TextField()
 
     template_name = 'pension-refund-question.html'
