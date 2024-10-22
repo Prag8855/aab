@@ -349,13 +349,11 @@
 					],
 					inputsToFocus: {
 						start: () => this.$refs.startButton,
-						purpose: () => null,
 						address: () => this.country === 'DE' ? this.$refs.addressInput : this.$refs.countryInput.$el,
 						addPeople: () => this.$refs.firstNameInput[0],
 						beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
 						employer: () => this.$refs.sendToEmployerCheckbox,
 						feedback: () => this.$refs.emailInput,
-						options: () => null,
 					},
 					downloadInProgress: false,
 					feedbackReminderSent: false,

@@ -25,7 +25,10 @@ const multiStageMixin = {
 				// Focus on the first form item in the list when changing steps
 				const inputToFocusFunction = this.inputsToFocus[this.stages[newStageIndex]];
 				if(inputToFocusFunction){
-					inputToFocusFunction().focus();
+					const inputToFocus = inputToFocusFunction();
+					if(inputToFocus){
+						inputToFocus.focus();
+					}
 				}
 			});
 		},
