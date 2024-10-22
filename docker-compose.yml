@@ -5,6 +5,7 @@ services:
     build: ./api
     volumes:
       - "api_db:/var/db"
+      - "./api/src:/srv/app"
     restart: unless-stopped
     logging:
       driver: "json-file"
