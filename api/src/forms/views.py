@@ -1,15 +1,8 @@
-from django.http import JsonResponse
-from django.views import View
+from forms.models import PensionRefundQuestion
+from forms.serializers import PensionRefundQuestionSerializer
+from rest_framework import viewsets
 
 
-class TestView(View):
-    def get(self, request, *args, **kwargs):
-        data = {
-            'message': 'Hello, World!',
-            'status': 'success',
-            'data': {
-                'id': 1,
-                'name': 'Example Item',
-            }
-        }
-        return JsonResponse(data)
+class PensionRefundQuestionViewSet(viewsets.ModelViewSet):
+    queryset = PensionRefundQuestion.objects.all()
+    serializer_class = PensionRefundQuestionSerializer

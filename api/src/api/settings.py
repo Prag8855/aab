@@ -31,6 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
     'forms.apps.FormsConfig',
 ]
 
@@ -40,6 +42,8 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'api.urls'
+APPEND_SLASH = False
+
 
 WSGI_APPLICATION = 'api.wsgi.application'
 

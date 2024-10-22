@@ -1,6 +1,10 @@
-from django.urls import path
-from .views import TestView
+from django.urls import include, path
+from forms.views import PensionRefundQuestionViewSet
+from rest_framework import routers
+
+router = routers.DefaultRouter(trailing_slash=False)
+router.register(r'pension-refund-question', PensionRefundQuestionViewSet)
 
 urlpatterns = [
-    path('', TestView.as_view()),
+    path('', include(router.urls)),
 ]
