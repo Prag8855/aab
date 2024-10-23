@@ -1,4 +1,3 @@
-{% include '_js/countries.js' %}
 {% include '_js/germanStates.js' %}
 {% include '_js/pension-refund-calculator.js' %}
 {% include '_js/utils.js' %}
@@ -53,27 +52,26 @@
 					partners: [
 						{
 							name: 'FundsBack',
+							key: 'fundsback',
 							description: "9.405% fee. Minimum 899€, maximum 2,899€. No refund, no fee.",
 							fee: x => Math.min(Math.max(x * 0.09405, 899), 2899),
-							apiEndpoint: '/api/forms/pension-refund-fundsback',
 						},
 						{
 							name: 'Germany Pension Refund',
+							key: 'germanypensionrefund',
 							description: "9.75% fee. No refund, no fee.",
 							fee: x => x * 0.0975,
-							apiEndpoint: '/api/forms/pension-refund-germanypensionrefund',
 						},
 						{
 							name: 'Pension Refund Germany',
+							key: 'pensionrefundgermany',
 							description: "10% fee. Maximum 2,800€. No refund, no fee.",
 							fee: x => Math.min(x * 0.1, 2800),
-							apiEndpoint: '/api/forms/pension-refund-pensionrefundgermany',
 						},
 						{
 							name: 'Do it yourself',
 							description: 'Apply without help. No fee.',
 							fee: x => 0,
-							apiEndpoint: '',
 						},
 					],
 					selectedPartner: null,
@@ -90,16 +88,15 @@
 					if(validateForm(this.$refs.reminderForm)) {
 						this.isLoading = true;
 						const response = await fetch(
-							'/api/reminders/pension',
+							'/api/forms/pension-refund-reminder',
 							{
 								method: 'POST',
 								keepalive: true,
 								headers: {'Content-Type': 'application/json; charset=utf-8',},
 								body: JSON.stringify({
 									email: this.emailAddress,
-									refundAmount: this.results.refundAmount,
-									eligibilityDate: this.eligibilityDateString,
-									deliveryDate: this.eligibilityDate.toISOString(),
+									refund_amount: Math.round(this.results.refundAmount),
+									delivery_date: this.eligibilityDate,
 								}),
 							}
 						);
@@ -111,19 +108,20 @@
 					if(validateForm(this.$refs.contactForm)) {
 						this.isLoading = true;
 						const response = await fetch(
-							this.selectedPartner.apiEndpoint,
+							'/api/forms/pension-refund-request',
 							{
 								method: 'POST',
 								keepalive: true,
-								headers: {'Content-Type': 'application/json; charset=utf-8',},
+								headers: {'Content-Type': 'application/json; charset=utf-8'},
 								body: JSON.stringify({
-									arrivalDate: `${this.firstYearOfWork}-${this.firstMonthOfWork}`,
-									countryOfResidence: countries.all[this.countryOfResidence],
-									dateOfBirth: this.dateOfBirth,
-									departureDate: `${this.lastYearOfWork}-${this.lastMonthOfWork}`,
+									arrival_date: `${this.firstYearOfWork}-${this.firstMonthOfWork}-01`,
+									departure_date: `${this.lastYearOfWork}-${this.lastMonthOfWork}-01`,
+									birth_date: this.dateOfBirth,
+									nationality: this.nationality,
+									country_of_residence: this.countryOfResidence,
 									email: this.emailAddress,
 									name: this.fullName,
-									nationality: countries.all[this.nationality],
+									partner: this.selectedPartner.key,
 								}),
 							},
 						);
