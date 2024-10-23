@@ -100,24 +100,7 @@ Vue.component('health-insurance-question', {
 					}
 				);
 				this.isLoading = false;
-				if(response.ok){
-					this.stage = 'thank-you';
-					fetch(
-						'/api/reminders/health-insurance-question-reminder',
-						{
-							method: 'POST',
-							keepalive: true,
-							headers: {'Content-Type': 'application/json; charset=utf-8',},
-							body: JSON.stringify({
-								name: this.fullName,
-								email: this.emailAddress,
-							}),
-						}
-					);
-				}
-				else {
-					this.stage = 'error';
-				}
+				this.stage = response.ok ? 'thank-you' : 'error';
 			}
 		},
 	},
