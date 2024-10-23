@@ -4,8 +4,10 @@ from django_countries.fields import CountryField
 from typing import List
 from django.template.loader import render_to_string
 from django.utils import timezone
+import logging
 
 
+logger = logging.getLogger(__name__)
 filler_string = "AAAAA"
 filler_email = "AAAAA@AAAAA.COM"
 filler_datetime = datetime(year=2000, month=1, day=1)
@@ -23,6 +25,10 @@ class ScheduledMessage(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
     delivery_date = models.DateTimeField(default=timezone.now)
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
+
+    def save(self, *args, **kwargs):
+        logger.info(f'Scheduling 1 message of type {self.__class__.__name__}')
+        super(HealthInsuranceQuestion, self).save(*args, **kwargs)
 
     def remove_personal_data(self):
         self.status = MessageStatus.REDACTED

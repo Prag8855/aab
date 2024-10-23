@@ -61,5 +61,5 @@ class Command(BaseCommand):
             f'Sent scheduled messages. {successes} sent, {failures} failed.'
         )
 
-        if not settings.DEBUG_EMAILS:
+        if not (settings.DEBUG or settings.DEBUG_EMAILS):
             requests.get('https://betteruptime.com/api/v1/heartbeat/Y3Kth6cKVWVp3yVijwQ3nojP')
