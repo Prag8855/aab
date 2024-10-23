@@ -6,6 +6,7 @@ version: '3.2'
 services:
   api:
     environment:
+      - "DEBUG=0"
       - "MAILGUN_API_KEY"
       - "BETTERSTACK_SOURCE_TOKEN=${BETTERSTACK_SOURCE_TOKEN_API}"
     volumes:

@@ -3,6 +3,8 @@ version: '3.2'
 services:
   api:
     build: ./api
+    environment:
+      - "DEBUG=1"
     volumes:
       - "api_db:/var/db"
       - "./api/src:/srv/app"

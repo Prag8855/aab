@@ -117,9 +117,7 @@ def send_message(message_type: str, recipients: List[str], template_values: dict
         auth=("api", os.environ['MAILGUN_API_KEY']),
         data=message_data
     )
-
-    if response.status_code != 200:
-        raise Exception("Mailgun request returned status %s. %s" % (response.status_code, response.json()))
+    response.raise_for_status()
 
 
 def send_queued_messages():
