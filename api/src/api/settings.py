@@ -63,11 +63,16 @@ LOGGING = {
             'level': 'INFO',
             'class': 'logging.StreamHandler',
             'formatter': 'default',
-        }
+        },
+        'betterstack': {
+            'class': 'logtail.LogtailHandler',
+            'formatter': 'default',
+            'source_token': os.environ.get('BETTERSTACK_SOURCE_TOKEN')
+        },
     },
     'loggers': {
         '': {
-            'handlers': ['console'],
+            'handlers': ['console', 'betterstack'] if os.environ.get('BETTERSTACK_SOURCE_TOKEN') else ['console'],
             'level': 'INFO',
             'propagate': True,
         },
