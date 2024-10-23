@@ -38,6 +38,34 @@ class ScheduledMessage(models.Model):
         abstract = True
 
 
+class HealthInsuranceQuestion(ScheduledMessage):
+    name = models.CharField(max_length=150)
+    email = models.EmailField()
+    phone = models.CharField(max_length=30, blank=True)
+    income_over_limit = models.BooleanField()  # Above or below the Versicherungspflichtgrenze
+    occupation = models.CharField(max_length=50)  # "Self-employed"
+    age = models.PositiveSmallIntegerField()
+    question = models.TextField()
+
+    def remove_personal_data(self):
+        super().remove_personal_data()
+        self.name = filler_string
+        self.email = filler_email
+        self.phone = filler_string
+
+    def get_recipients(self) -> List[str]:
+        return ['hello@feather-insurance.com', ]
+
+    def get_subject(self) -> str:
+        return f"Health insurance question from {self.name} (All About Berlin)"
+
+    def get_body(self) -> str:
+        return render_to_string('health-insurance-question.html', {'message': self})
+
+    def get_reply_to(self) -> str:
+        return self.email
+
+
 class PensionRefundQuestion(ScheduledMessage):
     name = models.CharField(max_length=150)
     email = models.EmailField()
@@ -62,10 +90,8 @@ class PensionRefundQuestion(ScheduledMessage):
     def get_reply_to(self) -> str:
         return self.email
 
-    class PrivacyMeta:
-        fields = ['name', 'email']
-
 
 scheduled_message_models = [
     PensionRefundQuestion,
+    HealthInsuranceQuestion,
 ]
