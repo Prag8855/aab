@@ -1,7 +1,7 @@
-from datetime import datetime
 from django.conf import settings
 from django.core.management.base import BaseCommand
 from forms.models import MessageStatus, scheduled_message_models
+from django.utils import timezone
 from forms.utils import send_email
 from requests.exceptions import HTTPError
 import logging
@@ -27,7 +27,7 @@ class Command(BaseCommand):
         failures = 0
 
         for model in scheduled_message_models:
-            scheduled_messages = model.objects.filter(status=MessageStatus.SCHEDULED, delivery_date__lte=datetime.now())
+            scheduled_messages = model.objects.filter(status=MessageStatus.SCHEDULED, delivery_date__lte=timezone.now())
             for message in scheduled_messages:
                 try:
                     if settings.DEBUG_EMAILS:
