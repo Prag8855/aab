@@ -1,6 +1,5 @@
 from pathlib import Path
 import os
-import sys
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -82,6 +81,12 @@ LOGGING = {
             'propagate': True,
         }
     },
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework.authentication.BasicAuthentication',
+    ),
 }
 
 # Internationalization
