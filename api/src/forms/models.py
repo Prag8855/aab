@@ -105,7 +105,7 @@ class HealthInsuranceQuestionConfirmation(ScheduledMessage):
         return [self.email, ]
 
     def get_subject(self) -> str:
-        return f"Feather Insurance will contact you soon"
+        return f"Feather will contact you soon"
 
     def get_body(self) -> str:
         return render_to_string('health-insurance-question-confirmation.html', {'message': self})
@@ -176,7 +176,7 @@ class PensionRefundReminder(ScheduledReminder):
     refund_amount = models.PositiveIntegerField()
 
     def get_subject(self) -> str:
-        return f"Reminder: you can now get a refund for your German pension payments"
+        return f"Reminder: you can now get your German pension payments back"
 
     def get_body(self) -> str:
         return render_to_string('pension-refund-reminder.html', {'message': self})
@@ -191,7 +191,7 @@ class TaxIdRequestFeedbackReminder(ScheduledReminder):
     delivery_date = models.DateTimeField(default=in_8_weeks)
 
     def get_subject(self) -> str:
-        return f"Did you get your tax ID?"
+        return f"Did you receive your tax ID?"
 
     def get_body(self) -> str:
         return render_to_string('tax-id-request-feedback-reminder.html', {'message': self})
