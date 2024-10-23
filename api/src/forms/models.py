@@ -1,8 +1,9 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from django.db import models
 from django_countries.fields import CountryField
 from typing import List
 from django.template.loader import render_to_string
+from django.utils import timezone
 
 
 filler_string = "AAAAA"
@@ -20,7 +21,7 @@ class MessageStatus(models.IntegerChoices):
 
 class ScheduledMessage(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
-    delivery_date = models.DateTimeField(default=datetime.now)
+    delivery_date = models.DateTimeField(default=timezone.now)
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
 
     def remove_personal_data(self):
@@ -52,6 +53,9 @@ class ScheduledReminder(ScheduledMessage):
         super().remove_personal_data()
         self.email = filler_email
 
+    class Meta:
+        abstract = True
+
 
 class HealthInsuranceQuestion(ScheduledMessage):
     name = models.CharField(max_length=150)
@@ -61,6 +65,12 @@ class HealthInsuranceQuestion(ScheduledMessage):
     occupation = models.CharField(max_length=50)  # "Self-employed"
     age = models.PositiveSmallIntegerField()
     question = models.TextField()
+
+    def save(self, *args, **kwargs):
+        if not self.pk:
+            confirmation_message = HealthInsuranceQuestionConfirmation(email=self.email, name=self.name)
+            confirmation_message.save()
+        super(HealthInsuranceQuestion, self).save(*args, **kwargs)
 
     def remove_personal_data(self):
         super().remove_personal_data()
@@ -79,6 +89,20 @@ class HealthInsuranceQuestion(ScheduledMessage):
 
     def get_reply_to(self) -> str:
         return self.email
+
+
+class HealthInsuranceQuestionConfirmation(ScheduledMessage):
+    name = models.CharField(max_length=150)
+    email = models.EmailField()
+
+    def get_recipients(self) -> List[str]:
+        return [self.email, ]
+
+    def get_subject(self) -> str:
+        return f"Feather Insurance will contact you soon"
+
+    def get_body(self) -> str:
+        return render_to_string('health-insurance-question-confirmation.html', {'message': self})
 
 
 class PensionRefundQuestion(ScheduledMessage):
@@ -152,8 +176,25 @@ class PensionRefundReminder(ScheduledReminder):
         return render_to_string('pension-refund-reminder.html', {'message': self})
 
 
+def in_8_weeks():
+    return timezone.now() + timedelta(days=7 * 8)
+
+
+class TaxIdRequestFeedbackReminder(ScheduledReminder):
+    delivery_date = models.DateTimeField(default=in_8_weeks)
+
+    def get_subject(self) -> str:
+        return f"Did you get your tax ID?"
+
+    def get_body(self) -> str:
+        return render_to_string('tax-id-request-feedback-reminder.html', {'message': self})
+
+
 scheduled_message_models = [
     HealthInsuranceQuestion,
+    HealthInsuranceQuestionConfirmation,
     PensionRefundQuestion,
     PensionRefundRequest,
+    PensionRefundReminder,
+    TaxIdRequestFeedbackReminder,
 ]

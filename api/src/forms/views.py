@@ -1,6 +1,8 @@
-from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest
-from forms.serializers import HealthInsuranceQuestionSerializer, PensionRefundQuestionSerializer, \
-    PensionRefundReminderSerializer, PensionRefundRequestSerializer
+from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
+    PensionRefundReminder, PensionRefundRequest, TaxIdRequestFeedbackReminder
+from forms.serializers import HealthInsuranceQuestionSerializer, HealthInsuranceQuestionConfirmationSerializer, \
+    PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
+    TaxIdRequestFeedbackReminderSerializer
 from rest_framework import mixins, permissions, viewsets
 
 
@@ -23,6 +25,12 @@ class HealthInsuranceQuestionViewSet(MessageViewset):
     serializer_class = HealthInsuranceQuestionSerializer
 
 
+class HealthInsuranceQuestionConfirmationViewSet(MessageViewset):
+    http_method_names = ['get']  # This model is created automatically
+    queryset = HealthInsuranceQuestionConfirmation.objects.all()
+    serializer_class = HealthInsuranceQuestionConfirmationSerializer
+
+
 class PensionRefundQuestionViewSet(MessageViewset):
     queryset = PensionRefundQuestion.objects.all()
     serializer_class = PensionRefundQuestionSerializer
@@ -36,3 +44,8 @@ class PensionRefundReminderViewSet(MessageViewset):
 class PensionRefundRequestViewSet(MessageViewset):
     queryset = PensionRefundRequest.objects.all()
     serializer_class = PensionRefundRequestSerializer
+
+
+class TaxIdRequestFeedbackReminderViewSet(MessageViewset):
+    queryset = TaxIdRequestFeedbackReminder.objects.all()
+    serializer_class = TaxIdRequestFeedbackReminderSerializer

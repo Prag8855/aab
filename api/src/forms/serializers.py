@@ -1,6 +1,14 @@
 from django_countries.serializers import CountryFieldMixin
-from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest
-from rest_framework.serializers import HyperlinkedModelSerializer, DateField, IntegerField
+from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
+    PensionRefundReminder, PensionRefundRequest, TaxIdRequestFeedbackReminder
+from rest_framework.serializers import HyperlinkedModelSerializer, IntegerField
+
+
+default_fields = [
+    'creation_date',
+    'delivery_date',
+    'status',
+]
 
 
 class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
@@ -9,6 +17,7 @@ class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
     class Meta:
         model = HealthInsuranceQuestion
         fields = [
+            *default_fields,
             'age',
             'email',
             'income_over_limit',
@@ -16,7 +25,18 @@ class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
             'occupation',
             'phone',
             'question',
-            'status',
+        ]
+
+
+class HealthInsuranceQuestionConfirmationSerializer(HyperlinkedModelSerializer):
+    status = IntegerField(read_only=True)
+
+    class Meta:
+        model = HealthInsuranceQuestionConfirmation
+        fields = [
+            *default_fields,
+            'email',
+            'name',
         ]
 
 
@@ -26,12 +46,12 @@ class PensionRefundQuestionSerializer(CountryFieldMixin, HyperlinkedModelSeriali
     class Meta:
         model = PensionRefundQuestion
         fields = [
+            *default_fields,
             'country_of_residence',
             'email',
             'name',
             'nationality',
             'question',
-            'status',
         ]
 
 
@@ -41,10 +61,9 @@ class PensionRefundReminderSerializer(CountryFieldMixin, HyperlinkedModelSeriali
     class Meta:
         model = PensionRefundReminder
         fields = [
+            *default_fields,
             'email',
             'refund_amount',
-            'delivery_date',
-            'status',
         ]
 
 
@@ -54,6 +73,7 @@ class PensionRefundRequestSerializer(CountryFieldMixin, HyperlinkedModelSerializ
     class Meta:
         model = PensionRefundRequest
         fields = [
+            *default_fields,
             'arrival_date',
             'birth_date',
             'country_of_residence',
@@ -62,5 +82,16 @@ class PensionRefundRequestSerializer(CountryFieldMixin, HyperlinkedModelSerializ
             'name',
             'nationality',
             'partner',
-            'status',
+        ]
+
+
+class TaxIdRequestFeedbackReminderSerializer(HyperlinkedModelSerializer):
+    status = IntegerField(read_only=True)
+
+    class Meta:
+        model = TaxIdRequestFeedbackReminder
+        fields = [
+            *default_fields,
+            'email',
+            'name',
         ]
