@@ -1,5 +1,6 @@
 from pathlib import Path
 import os
+import sys
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -48,6 +49,35 @@ TEMPLATES = [
         "APP_DIRS": True,
     }
 ]
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'default': {
+            'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)s] %(message)s'
+        },
+    },
+    'handlers': {
+        'console': {
+            'level': 'INFO',
+            'class': 'logging.StreamHandler',
+            'formatter': 'default',
+        }
+    },
+    'loggers': {
+        '': {
+            'handlers': ['console'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+        'gunicorn': {
+            'handlers': ['console'],
+            'level': 'INFO',
+            'propagate': True,
+        }
+    },
+}
 
 # Internationalization
 LANGUAGE_CODE = 'en-us'

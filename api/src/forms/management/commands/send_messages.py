@@ -7,14 +7,17 @@ import logging
 import requests
 
 
+logger = logging.getLogger(__name__)
+
+
 class Command(BaseCommand):
     help = 'Send all scheduled messages'
 
     def handle(self, *args, **options):
         if settings.DEBUG_EMAILS:
-            self.stdout.write('Pretending to send scheduled messages...')
+            logger.info('Pretending to send scheduled messages...')
         else:
-            self.stdout.write('Sending scheduled messages...')
+            logger.info('Sending scheduled messages...')
 
             if not settings.MAILGUN_API_KEY:
                 raise Exception("MAILGUN_API_KEY is not set")
@@ -27,7 +30,7 @@ class Command(BaseCommand):
             for message in scheduled_messages:
                 try:
                     if settings.DEBUG_EMAILS:
-                        self.stdout.write(
+                        logger.info(
                             "EMAIL MESSAGE\n"
                             f"To: {', '.join(message.get_recipients())}\n"
                             f"Reply-To: {message.get_reply_to()}\n"
@@ -44,19 +47,18 @@ class Command(BaseCommand):
                     message.status = MessageStatus.SENT
                     successes += 1
                 except HTTPError as exc:
-                    logging.exception(f"Could not send scheduled message (HTTP {exc.response.status_code})")
+                    logger.exception(f"Could not send scheduled message (HTTP {exc.response.status_code})")
                     if 400 <= exc.response.status_code < 500:
                         message.status = MessageStatus.FAILED
                 except:
-                    logging.exception("Could not send scheduled message")
+                    logger.exception("Could not send scheduled message")
                     failures += 1
                 message.save()
 
-        message = f'Sent scheduled messages. {successes} sent, {failures} failed.'
-        if failures:
-            self.stdout.write(self.style.ERROR(message))
-        else:
-            self.stdout.write(self.style.SUCCESS(message))
+        logger.log(
+            logging.ERROR if failures else logging.INFO,
+            f'Sent scheduled messages. {successes} sent, {failures} failed.'
+        )
 
         if not settings.DEBUG_EMAILS:
             requests.get('https://betteruptime.com/api/v1/heartbeat/Y3Kth6cKVWVp3yVijwQ3nojP')
