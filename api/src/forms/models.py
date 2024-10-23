@@ -28,7 +28,7 @@ class ScheduledMessage(models.Model):
 
     def save(self, *args, **kwargs):
         logger.info(f'Scheduling 1 message of type {self.__class__.__name__}')
-        super(HealthInsuranceQuestion, self).save(*args, **kwargs)
+        super().save(*args, **kwargs)
 
     def remove_personal_data(self):
         self.status = MessageStatus.REDACTED
@@ -76,7 +76,7 @@ class HealthInsuranceQuestion(ScheduledMessage):
         if not self.pk:
             confirmation_message = HealthInsuranceQuestionConfirmation(email=self.email, name=self.name)
             confirmation_message.save()
-        super(HealthInsuranceQuestion, self).save(*args, **kwargs)
+        super().save(*args, **kwargs)
 
     def remove_personal_data(self):
         super().remove_personal_data()
@@ -187,6 +187,7 @@ def in_8_weeks():
 
 
 class TaxIdRequestFeedbackReminder(ScheduledReminder):
+    name = models.CharField(max_length=150)
     delivery_date = models.DateTimeField(default=in_8_weeks)
 
     def get_subject(self) -> str:
