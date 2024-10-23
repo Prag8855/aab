@@ -264,13 +264,13 @@
 				required></country-input>
 		</div>
 		<div class="form-group">
-			<label :for="uid('country-of-residence')">
+			<label :for="uid('countryOfResidence')">
 				Where do you live?
 			</label>
 			<country-input
 				country-code
 				:class="{'error': !isCountryOfResidenceEligible}"
-				:id="uid('country-of-residence')"
+				:id="uid('countryOfResidence')"
 				v-model="countryOfResidence"
 				required></country-input>
 		</div>

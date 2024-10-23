@@ -92,9 +92,9 @@ Vue.component('health-insurance-question', {
 							name: this.fullName,
 							email: this.emailAddress,
 							phone: this.phoneNumber || '',
-							income: this.incomeOverLimit ? `Over ${this.minFreiwilligMonthlyIncome}€/year` : `Under ${this.minFreiwilligMonthlyIncome}€/year`,
+							income_over_limit: this.incomeOverLimit,
 							occupation: this.inputOccupation,
-							dateOfBirth: `${this.inputAge} years old`,
+							age: this.inputAge,
 							question: this.question,
 						}),
 					}
