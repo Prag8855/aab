@@ -1,3 +1,4 @@
+from datetime import datetime
 from django.db import models
 from django_countries.fields import CountryField
 from typing import List
@@ -6,6 +7,8 @@ from django.template.loader import render_to_string
 
 filler_string = "AAAAA"
 filler_email = "AAAAA@AAAAA.COM"
+filler_datetime = datetime(year=2000, month=1, day=1)
+filler_date = filler_datetime.date()
 
 
 class MessageStatus(models.IntegerChoices):
@@ -91,7 +94,44 @@ class PensionRefundQuestion(ScheduledMessage):
         return self.email
 
 
+pension_refund_partners = {
+    'fundsback': 'partner@fundsback.org',
+    'germanypensionrefund': 'refund@germanypensionrefund.com',
+    'pensionrefundgermany': 'support@pension-refund.com',
+}
+
+
+class PensionRefundRequest(ScheduledMessage):
+    name = models.CharField(max_length=150)
+    email = models.EmailField()
+    nationality = CountryField()
+    country_of_residence = CountryField()
+    arrival_date = models.DateField()
+    departure_date = models.DateField()
+    birth_date = models.DateField()
+    partner = models.CharField(max_length=30, choices=pension_refund_partners)
+
+    def remove_personal_data(self):
+        super().remove_personal_data()
+        self.name = filler_string
+        self.email = filler_email
+        self.birth_date = filler_date
+
+    def get_recipients(self) -> List[str]:
+        return [pension_refund_partners[self.partner], ]
+
+    def get_subject(self) -> str:
+        return f"Pension refund request from {self.name} (All About Berlin)"
+
+    def get_body(self) -> str:
+        return render_to_string('pension-refund-request.html', {'message': self})
+
+    def get_reply_to(self) -> str:
+        return self.email
+
+
 scheduled_message_models = [
-    PensionRefundQuestion,
     HealthInsuranceQuestion,
+    PensionRefundQuestion,
+    PensionRefundRequest,
 ]
