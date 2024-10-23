@@ -1,6 +1,11 @@
-from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundRequest
-from forms.serializers import HealthInsuranceQuestionSerializer, PensionRefundQuestionSerializer, PensionRefundRequestSerializer
-from rest_framework import viewsets
+from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest
+from forms.serializers import HealthInsuranceQuestionSerializer, PensionRefundQuestionSerializer, \
+    PensionRefundReminderSerializer, PensionRefundRequestSerializer
+from rest_framework import mixins, viewsets
+
+
+class MessageViewset(mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.GenericViewSet):
+    http_method_names = ['get', 'post']
 
 
 class HealthInsuranceQuestionViewSet(viewsets.ModelViewSet):
@@ -11,6 +16,11 @@ class HealthInsuranceQuestionViewSet(viewsets.ModelViewSet):
 class PensionRefundQuestionViewSet(viewsets.ModelViewSet):
     queryset = PensionRefundQuestion.objects.all()
     serializer_class = PensionRefundQuestionSerializer
+
+
+class PensionRefundReminderViewSet(viewsets.ModelViewSet):
+    queryset = PensionRefundReminder.objects.all()
+    serializer_class = PensionRefundReminderSerializer
 
 
 class PensionRefundRequestViewSet(viewsets.ModelViewSet):

@@ -20,6 +20,7 @@ class MessageStatus(models.IntegerChoices):
 
 class ScheduledMessage(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
+    delivery_date = models.DateTimeField(default=datetime.now)
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
 
     def remove_personal_data(self):
@@ -39,6 +40,17 @@ class ScheduledMessage(models.Model):
 
     class Meta:
         abstract = True
+
+
+class ScheduledReminder(ScheduledMessage):
+    email = models.EmailField()
+
+    def get_recipients(self):
+        return [self.email, ]
+
+    def remove_personal_data(self):
+        super().remove_personal_data()
+        self.email = filler_email
 
 
 class HealthInsuranceQuestion(ScheduledMessage):
@@ -128,6 +140,16 @@ class PensionRefundRequest(ScheduledMessage):
 
     def get_reply_to(self) -> str:
         return self.email
+
+
+class PensionRefundReminder(ScheduledReminder):
+    refund_amount = models.PositiveIntegerField()
+
+    def get_subject(self) -> str:
+        return f"Reminder: you can now get a refund for your German pension payments"
+
+    def get_body(self) -> str:
+        return render_to_string('pension-refund-reminder.html', {'message': self})
 
 
 scheduled_message_models = [
