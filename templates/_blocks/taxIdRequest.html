@@ -467,10 +467,8 @@
 
 					if(this.emailAddress && !this.feedbackReminderSent){
 						this.feedbackReminderSent = true;
-						const deliveryDate = new Date();
-						deliveryDate.setDate(deliveryDate.getDate() + 7 * 8); // 8 weeks
 						fetch(
-							'/api/reminders/tax-id-request-feedback-reminder',
+							'/api/forms/tax-id-request-feedback-reminder',
 							{
 								method: 'POST',
 								keepalive: true,
@@ -478,7 +476,6 @@
 								body: JSON.stringify({
 									name: [person.firstName, person.lastName].join(' '),
 									email: this.emailAddress,
-									deliveryDate: deliveryDate.toISOString(),
 								}),
 							}
 						);
