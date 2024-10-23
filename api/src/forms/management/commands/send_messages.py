@@ -16,11 +16,11 @@ class Command(BaseCommand):
         else:
             self.stdout.write('Sending scheduled messages...')
 
+            if not settings.MAILGUN_API_KEY:
+                raise Exception("MAILGUN_API_KEY is not set")
+
         successes = 0
         failures = 0
-
-        if not settings.MAILGUN_API_KEY and not settings.DEBUG_EMAILS:
-            raise Exception("MAILGUN_API_KEY is not set")
 
         for model in scheduled_message_models:
             scheduled_messages = model.objects.filter(status=MessageStatus.SCHEDULED)
@@ -35,7 +35,12 @@ class Command(BaseCommand):
                             f"Body: \n{message.get_body()}"
                         )
                     else:
-                        send_email(message.get_recipients(), message.get_subject(), message.get_body(), message.get_reply_to())
+                        send_email(
+                            message.get_recipients(),
+                            message.get_subject(),
+                            message.get_body(),
+                            message.get_reply_to()
+                        )
                     message.status = MessageStatus.SENT
                     successes += 1
                 except HTTPError as exc:
@@ -53,4 +58,5 @@ class Command(BaseCommand):
         else:
             self.stdout.write(self.style.SUCCESS(message))
 
-        requests.get('https://betteruptime.com/api/v1/heartbeat/Y3Kth6cKVWVp3yVijwQ3nojP')
+        if not settings.DEBUG_EMAILS:
+            requests.get('https://betteruptime.com/api/v1/heartbeat/Y3Kth6cKVWVp3yVijwQ3nojP')
