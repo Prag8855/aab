@@ -7,17 +7,44 @@ from rest_framework import mixins, permissions, viewsets
 
 
 class MessagePermission(permissions.BasePermission):
+    """
+    Messages can be posted anonymously, but only read by admins
+    """
+
     def has_permission(self, request, view):
         if request.method in ('POST', 'PUT'):
             return True
         elif request.method == 'GET':
-            return request.user and request.user.is_authenticated
+            return request.user and request.user.is_superuser
         return False
 
 
 class MessageViewSet(mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.GenericViewSet):
     http_method_names = ['get', 'post']
     permission_classes = [MessagePermission]
+
+
+class FeedbackPermission(permissions.BasePermission):
+    """
+    Feedback can be posted anonymously.
+    It can be read with people who have the modification_key.
+    It can only be listed by admins.
+    """
+
+    def has_permission(self, request, view):
+        if request.method in ('POST', 'PUT'):
+            return True
+        elif request.method == 'GET':
+            if view.action == 'retrieve':
+                return True
+            else:
+                return request.user and request.user.is_superuser
+        return False
+
+
+class FeedbackViewSet(mixins.UpdateModelMixin, mixins.RetrieveModelMixin, mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.GenericViewSet):
+    http_method_names = ['get', 'post', 'put']
+    permission_classes = [FeedbackPermission]
 
 
 class HealthInsuranceQuestionViewSet(MessageViewSet):
@@ -46,8 +73,7 @@ class PensionRefundRequestViewSet(MessageViewSet):
     serializer_class = PensionRefundRequestSerializer
 
 
-class ResidencePermitFeedbackViewSet(mixins.UpdateModelMixin, MessageViewSet):
-    http_method_names = ['get', 'post', 'put']
+class ResidencePermitFeedbackViewSet(FeedbackViewSet):
     queryset = ResidencePermitFeedback.objects.all()
     serializer_class = ResidencePermitFeedbackSerializer
 
