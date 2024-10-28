@@ -1,6 +1,5 @@
 {% include '_js/germanStates.js' %}
 {% include '_js/pension-refund-calculator.js' %}
-{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/country-input.js' %}
@@ -8,6 +7,7 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
@@ -15,24 +15,24 @@
 	document.querySelectorAll('collapsible.pension-refund-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, trackedStagesMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
 			data() {
 				return {
 					trackAs: 'Pension refund calculator',
 
 					stage: 'start',
 					isLoading: false,
-					nationality: getDefault('nationality', ''),
-					countryOfResidence: getDefault('countryOfResidence', ''),
-					yearlyIncome: getDefaultNumber('yearlyIncome'),
+					nationality: userDefaults.nationality,
+					countryOfResidence: userDefaults.countryOfResidence,
+					yearlyIncome: userDefaults.yearlyIncome,
 					firstMonthOfWork: '',
 					firstYearOfWork: '',
 					lastMonthOfWork: '',
 					lastYearOfWork: '',
-					germanState: getDefault('state'),
-					fullName: '',
-					emailAddress: '',
-					dateOfBirth: '',
+					germanState: userDefaults.germanState,
+					fullName: userDefaults.fullName,
+					email: userDefaults.email,
+					dateOfBirth: userDefaults.dateOfBirth,
 					showRefundRequestForm: false,
 					yearOptions: Array.from({ length: ((new Date()).getFullYear() + 2 - 2000) + 1}, (_, i) => 2000 + i), // From 2000 to currentYear + 2
 					monthOptions: [
@@ -94,7 +94,7 @@
 								keepalive: true,
 								headers: {'Content-Type': 'application/json; charset=utf-8',},
 								body: JSON.stringify({
-									email: this.emailAddress,
+									email: this.email,
 									refund_amount: Math.round(this.results.refundAmount),
 									delivery_date: this.eligibilityDate,
 								}),
@@ -119,7 +119,7 @@
 									birth_date: this.dateOfBirth,
 									nationality: this.nationality,
 									country_of_residence: this.countryOfResidence,
-									email: this.emailAddress,
+									email: this.email,
 									name: this.fullName,
 									partner: this.selectedPartner.key,
 								}),
@@ -153,10 +153,6 @@
 					return null;
 				},
 				results() {
-					setDefaultNumber('yearlyIncome', this.yearlyIncome);
-					setDefault('state', this.germanState);
-					setDefault('nationality', this.nationality);
-					setDefault('countryOfResidence', this.countryOfResidence);
 					return calculatePensionRefund(
 						this.nationality,
 						this.countryOfResidence,
@@ -346,11 +342,11 @@
 					</label>
 				</div>
 				<div class="form-group" v-if="showStatePicker">
-					<label :for="uid('state')">
+					<label :for="uid('germanState')">
 						Where did you work?
 					</label>
 					<div class="input-group">
-						<state-input east-west-berlin :id="uid('state')" v-model="germanState" :aria-describedby="uid('instructions-east-west')"></state-input>
+						<state-input east-west-berlin :id="uid('germanState')" v-model="germanState" :aria-describedby="uid('instructions-east-west')"></state-input>
 						<span class="input-instructions" :id="uid('instructions-east-west')">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
 					</div>
 				</div>
@@ -372,7 +368,7 @@
 						<p>You can apply for a refund in <strong>{{ monthsUntilEligible }}</strong>. That's 2 years after your last pension contribution.</p>
 						<p class="no-print">Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
 						<div class="input-group email-reminder no-print" ref="reminderForm">
-							<input type="email" placeholder="Your email address" v-model="emailAddress" autocomplete="email" required>
+							<input type="email" placeholder="Your email address" v-model="email" autocomplete="email" required>
 							<button class="button primary" @click="setReminder" :disabled="isLoading" :class="{loading: isLoading}">
 								Remind me in {{ monthsUntilEligible }}
 							</button>
@@ -393,7 +389,7 @@
 	<template v-if="stage === 'reminderConfirmation'">
 		<p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
 		<div class="buttons left">
-			<button class="button" @click="emailAddress = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
+			<button class="button" @click="email = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
 		</div>
 	</template>
 	<template v-if="stage === 'partnerSelection'">
@@ -455,7 +451,7 @@
 			<div class="form-group required">
 				<label :for="uid('email')">Email address</label>
 				<div class="input-group">
-					<input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">
+					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
 			</div>
 			<div class="form-group required">
@@ -480,7 +476,7 @@
 	<template v-if="stage === 'error'">
 		<p><strong>An error occured.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 		<div class="buttons left">
-			<button class="button" @click="emailAddress = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
+			<button class="button" @click="email = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
 		</div>
 	</template>
 {% endraw %}

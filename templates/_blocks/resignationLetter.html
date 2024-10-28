@@ -4,14 +4,15 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.job-resignation-letter').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data() {
 				return {
-					fullName: '',
+					fullName: userDefaults.fullName,
 					address: '',
 					recipientGender: 'man',
 					recipientFirstName: '',

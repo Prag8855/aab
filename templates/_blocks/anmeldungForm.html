@@ -97,10 +97,10 @@
 					autocomplete="address-line2">
 			</div>
 			<div class="form-group required">
-				<label :for="uid('state')">
+				<label :for="uid('germanState')">
 					State
 				</label>
-				<state-input :id="uid('state')" v-model="oldState" required></state-input>
+				<state-input :id="uid('germanState')" v-model="oldState" required></state-input>
 			</div>
 		</template>
 	</template>
@@ -425,9 +425,9 @@
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						nationality: '',
-						religion: '',
-						dateOfBirth: '',
+						nationality: userDefaults.nationality,
+						religion: userDefaults.religion,
+						dateOfBirth: userDefaults.dateOfBirth,
 						gender: '',
 						birthPlace: '',
 						showExtraFields: false,

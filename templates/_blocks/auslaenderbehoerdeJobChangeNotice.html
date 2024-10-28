@@ -7,19 +7,20 @@
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.auslaenderbehoerde-job-change').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data() {
 				return {
-					fullName: '',
+					fullName: userDefaults.fullName,
 					address: '',
-					dateOfBirth: '',
+					dateOfBirth: userDefaults.dateOfBirth,
 					letterType: 'termination',
 					placeOfBirth: '',
-					nationality: '',
+					nationality: userDefaults.nationality,
 					auslaenderbehoerde: 'friedrich-krause-ufer',
 					customRecipientAddress: '',
 					currentDate: new Date(),

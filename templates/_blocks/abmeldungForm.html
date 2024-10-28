@@ -278,11 +278,12 @@
 {% include '_js/vue/preloadPDFMixin.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.abmeldung-form').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin, preloadPDFMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin, preloadPDFMixin],
 			data() {
 				return {
 					trackAs: 'Abmeldung form',
@@ -293,7 +294,7 @@
 					oldPostCode: '',
 					newAddress: '',
 					newCityAndPostCode: '',
-					newCountry: '',
+					newCountry: userDefaults.countryOfResidence,
 					people: [],
 
 					stages: [
@@ -331,9 +332,9 @@
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						nationality: '',
-						religion: '',
-						dateOfBirth: '',
+						nationality: this.people.length === 0 ? userDefaults.nationality : '',
+						religion: this.people.length === 0 ? userDefaults.religion : '',
+						dateOfBirth: this.people.length === 0 ? userDefaults.dateOfBirth : '',
 						gender: '',
 						birthPlace: '',
 						showExtraFields: false,

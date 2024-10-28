@@ -8,6 +8,7 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% include '_js/vue/occupation-input.js' %}
 {% include '_js/vue/state-input.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
@@ -15,30 +16,25 @@
 	document.querySelectorAll('collapsible.income-tax-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data() {
 				return {
-					age: getDefaultNumber('age'),
-					childrenCount: getDefaultNumber('childrenCount'),
-					church: getDefault('church'),
-					customZusatzbeitrag: getDefaultNumber('publicHealthInsuranceZusatzbeitrag'),
-					formatPercent,
-					germanState: getDefault('state'),
-					germanStates,
-					healthInsuranceType: getDefault('healthInsuranceType'),
-					income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
-					isMarried: getDefaultBoolean('isMarried'),
-					occupation: getDefault('occupation'),
-					occupations,
-					pensions,
-					pflegeversicherung,
-					privateHealthInsuranceCost: getDefaultNumber('privateHealthInsuranceCost'), // Only for private
-					taxClass: getDefaultNumber('taxClass', 1),
-					taxes,
+					age: userDefaults.age,
+					childrenCount: userDefaults.childrenCount,
+					church: userDefaults.church,
+					customZusatzbeitrag: userDefaults.customZusatzbeitrag,
+					germanState: userDefaults.germanState,
+					healthInsuranceType: userDefaults.healthInsuranceType,
+					yearlyIncome: userDefaults.yearlyIncome,
+					inputIncome: 0,
+					isMarried: userDefaults.isMarried,
+					occupation: userDefaults.occupation,
+					privateHealthInsuranceCost: userDefaults.privateHealthInsuranceCost,
+					taxClass: userDefaults.taxClass,
 
 					// Non-tax settings
 					showExtraQuestions: false,
-					useMonthlyIncome: getDefaultBoolean('useMonthlyIncome'),
+					useMonthlyIncome: userDefaults.useMonthlyIncome,
 					highlightedSection: null,
 
 					// Constants
@@ -52,7 +48,21 @@
 						disposableIncome: '#4A7BB7',
 						totalDeductions: '#CD683D',
 					},
+					formatPercent,
+					germanStates,
+					occupations,
+					pensions,
+					pflegeversicherung,
 					healthInsuranceMaxMonthlyIncome: healthInsurance.maxMonthlyIncome,
+					taxes,
+				}
+			},
+			mounted(){
+				if(this.useMonthlyIncome){
+					this.inputIncome = Math.round(this.yearlyIncome / 12);
+				}
+				else{
+					this.inputIncome = this.yearlyIncome;
 				}
 			},
 			computed: {
@@ -69,7 +79,7 @@
 				isPayingNormalHealthInsurancePrice() { return !this.isPayingMinHealthInsurancePrice && !this.isPayingMaxHealthInsurancePrice },
 				hasSponsoredHealthInsurance() { return hasSponsoredHealthInsurance(this.healthInsuranceType) },
 
-				disposableIncomeRatio() { return Math.round(Math.max(this.result.disposableIncome / this.income, 0) * 100)},
+				disposableIncomeRatio() { return Math.round(Math.max(this.result.disposableIncome / this.inputIncome, 0) * 100)},
 
 				isInEastGermany() { return germanStates.isEastGerman(this.germanState) },
 				isPayingChurchTax() { return this.church !== 'other' },
@@ -101,8 +111,7 @@
 					return taxes.beitragsbemessungsgrenze.currentYear[this.isInEastGermany ? 'east' : 'west'];
 				},
 
-				monthlyIncome() { return this.useMonthlyIncome ? this.income : this.income / 12 },
-				yearlyIncome() { return this.useMonthlyIncome ? this.income * 12 : this.income },
+				monthlyIncome() { return this.useMonthlyIncome ? this.inputIncome : this.inputIncome / 12 },
 				incomeInputRange() {
 					return {
 						min: this.useMonthlyIncome ? 250 : 5000,
@@ -178,7 +187,7 @@
 						'healthInsurance', 'publicPension', 'unemploymentInsurance', 'incomeTax', 'solidarityTax', 'churchTax', 'disposableIncome',
 						'totalDeductions', // This must stay at the end
 					].reduce((paths, key) => {
-						const percentage = this.result[key] / this.income;
+						const percentage = this.result[key] / this.inputIncome;
 						if(key === 'totalDeductions'){ cumulativeRadians = 0 } // The pie slice for totalDeductions starts over at 0deg 
 						const circleStartCoordinates = [Math.cos(cumulativeRadians), Math.sin(cumulativeRadians)];
 						cumulativeRadians += 2 * Math.PI * percentage;
@@ -193,12 +202,14 @@
 				}
 			},
 			watch: {
-				useMonthlyIncome(){
-					this.income = this.useMonthlyIncome ? Math.round(this.income / 12) : Math.round(this.income * 12 / 10) * 10;
-				},
-				result() {
-					this.updateDefaultValues();
-				},
+				inputIncome(newIncome){
+					if(this.useMonthlyIncome){
+						this.yearlyIncome = newIncome * 12;
+					}
+					else{
+						this.yearlyIncome = newIncome;
+					}
+				}
 			},
 			methods: {
 				spouseTaxClass(taxClass) {
@@ -221,20 +232,15 @@
 						});
 					}
 				},
-				updateDefaultValues() {
-					setDefault('church', this.church);
-					setDefault('occupation', this.occupation);
-					setDefault('state', this.germanState);
-					setDefaultBoolean('isMarried', this.isMarried);
-					setDefaultBoolean('useMonthlyIncome', this.useMonthlyIncome);
-					setDefaultNumber('age', this.age);
-					setDefaultNumber('childrenCount', this.childrenCount);
-					setDefaultNumber('yearlyIncome', this.yearlyIncome);
-					setDefault('healthInsuranceType', this.healthInsuranceType);
-					setDefaultNumber('privateHealthInsuranceCost', this.privateHealthInsuranceCost);
-					setDefaultNumber('publicHealthInsuranceZusatzbeitrag', this.healthInsuranceZusatzbeitrag);
-					setDefaultNumber('taxClass', this.taxClass);
-				},
+				toggleUseMonthlyIncome(){
+					this.useMonthlyIncome = !this.useMonthlyIncome;
+					if(this.useMonthlyIncome){
+						this.inputIncome = Math.round(this.inputIncome / 12);
+					}
+					else{
+						this.inputIncome *= 12;
+					}
+				}
 			}
 			// TODO: Spouse's familienversicherung
 		})
@@ -247,13 +253,13 @@
 
 	<div class="range-input">
 		<label :for="uid('range-income')">
-			<strong><eur :amount="income"></eur></strong>/{{ monthOrYear }} {{ salaryOrIncome }}
+			<strong><eur :amount="inputIncome"></eur></strong>/{{ monthOrYear }} {{ salaryOrIncome }}
 		</label>
 		<span class="range-prefix no-mobile no-print">€</span>
 		<input
 			:aria-labelledby="uid('range-income')"
 			:id="uid('range-income')"
-			v-model.number="income"
+			v-model.number="inputIncome"
 			type="range"
 			class="no-print"
 			:step="incomeInputRange.step"
@@ -271,9 +277,9 @@
 				{{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
 			</label>
 			<div class="input-group">
-				<income-input :id="uid('income')" v-model="income"></income-input>
+				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
 				€
-				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ monthOrYear }}</button>
+				<button class="toggle" @click="toggleUseMonthlyIncome">per {{ monthOrYear }}</button>
 			</div>
 		</div>
 		<div class="form-group">
@@ -283,10 +289,10 @@
 			<occupation-input :id="uid('occupation')" v-model="occupation"></occupation-input>
 		</div>
 		<div class="form-group">
-			<label :for="uid('state')">
+			<label :for="uid('germanState')">
 				Where do you work?
 			</label>
-			<state-input east-west-berlin :id="uid('state')" v-model="germanState"></state-input>
+			<state-input east-west-berlin :id="uid('germanState')" v-model="germanState"></state-input>
 		</div>
 		<hr>
 		<div class="form-group show-errors">

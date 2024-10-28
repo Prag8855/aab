@@ -4,16 +4,17 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.bescheinigung-in-steueresachen-letter').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data() {
 				return {
-					fullName: '',
+					fullName: userDefaults.fullName,
 					address: '',
-					dateOfBirth: '',
+					dateOfBirth: userDefaults.dateOfBirth,
 					taxID: '',
 					finanzamt: '',
 					currentDate: new Date(),
