@@ -21,7 +21,7 @@ I switched to N26 to save money. I didn't want to pay fees to withdraw money. Th
 
 ### There are no ATM withdrawal fees
 
-With N26, you get 3 free withdrawals every month (before, it was 5).[^4] Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations. There is no withdrawal limit for [CASH26 withdrawals](/out/n26-cash26).
+With N26, you get 2 free withdrawals every month (before, it was 5).[^4] Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations. There is no withdrawal limit for [CASH26 withdrawals](/out/n26-cash26).
 
 This is my favourite feature. I really hate to pay to access my own money. I also hate to walk a kilometre to the next free ATM. With N26, I see an ATM, I use it.
 
@@ -115,7 +115,7 @@ If you can't open an N26 account with your passport, [these banks](/guides/best-
 
 **[Best German banks for expats ➞](/guides/best-bank-germany#german-banks-for-expats)**
 
-### Only 3 free ATM withdrawals per month
+### Only 2 free ATM withdrawals per month
 
 In Germany, you always need cash. Fast food kiosks, *[Spätis](/glossary/Sp%C3%A4ti)* and even some restaurants only accept cash. No credit cards or debit cards.
 
