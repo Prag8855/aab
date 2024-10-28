@@ -4,4 +4,5 @@ django~=5.1
 email-validator~=2.2
 gunicorn~=23.0
 logtail-python~=0.3
+python-dateutil~=2.9
 requests~=2.32

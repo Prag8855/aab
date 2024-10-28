@@ -1,7 +1,7 @@
 from django.urls import include, path
 from forms.views import HealthInsuranceQuestionViewSet, HealthInsuranceQuestionConfirmationViewSet, \
     PensionRefundQuestionViewSet, PensionRefundReminderViewSet, PensionRefundRequestViewSet, \
-    TaxIdRequestFeedbackReminderViewSet
+    ResidencePermitFeedbackViewSet, TaxIdRequestFeedbackReminderViewSet
 from rest_framework import routers
 
 router = routers.DefaultRouter(trailing_slash=False)
@@ -10,6 +10,7 @@ router.register('health-insurance-question-confirmation', HealthInsuranceQuestio
 router.register('pension-refund-question', PensionRefundQuestionViewSet)
 router.register('pension-refund-reminder', PensionRefundReminderViewSet)
 router.register('pension-refund-request', PensionRefundRequestViewSet)
+router.register('residence-permit-feedback', ResidencePermitFeedbackViewSet)
 router.register('tax-id-request-feedback-reminder', TaxIdRequestFeedbackReminderViewSet)
 
 urlpatterns = [

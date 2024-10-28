@@ -1,16 +1,20 @@
 from django.conf import settings
-from email_validator import validate_email, EmailNotValidError
+from django.core.exceptions import ValidationError
+from email_validator import validate_email as original_validate_email, EmailNotValidError
 from typing import List
+import random
 import requests
 
 
-def email_is_valid(email: str) -> bool:
+def random_key():
+    return '{k:032x}'.format(k=random.getrandbits(128))
+
+
+def validate_email(email: str) -> bool:
     try:
-        validate_email(email, check_deliverability=True)
-    except EmailNotValidError:
-        return False
-    else:
-        return True
+        original_validate_email(email, check_deliverability=True)
+    except EmailNotValidError as exc:
+        raise ValidationError("Invalid email") from exc
 
 
 def send_email(recipients: List[str], subject: str, body: str, reply_to: str = None):
