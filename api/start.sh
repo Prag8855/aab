@@ -17,4 +17,9 @@ printenv > /etc/environment
 crontab /srv/crontab.conf
 service cron start
 
-gunicorn --reload --config /srv/gunicorn_config.py api.wsgi:application
+# Disable live reload if DEBUG is false
+if [ "${DEBUG:-0}" -eq 1 ]; then
+    gunicorn --reload --config /srv/gunicorn_config.py api.wsgi:application
+else
+    gunicorn --config /srv/gunicorn_config.py api.wsgi:application
+fi

@@ -36,10 +36,12 @@ APPEND_SLASH = False
 
 WSGI_APPLICATION = 'api.wsgi.application'
 
+DATABASE_BACKUPS_DIR = Path('/var/db-backups')
+DATABASE_PATH = Path('/var/db/api.db')
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': Path('/var/db/api.db'),
+        'NAME': DATABASE_PATH,
     }
 }
 
