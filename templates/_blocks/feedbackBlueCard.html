@@ -1,6 +1,8 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
+{% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/localStorageMixin.js' %}
 {% include '_js/vue/multiStageMixin.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
@@ -8,14 +10,18 @@
 	document.querySelectorAll('collapsible.feedback-blue-card').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
+			mixins: [localStorageMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 			data() {
+				const residencePermitName = "Blue Card";
+				const residencePermitType = "BLUE_CARD";
 				return {
-					trackAs: 'Blue Card feedback',
+					residencePermitName: residencePermitName,
+					residencePermitType: residencePermitType,
 					isLoading: false,
+					modificationKey: null,
 					nationality: null,
 					userNotes: '',
-					emailAddress: '',
+					email: null,
 
 					steps: {
 						application: {
@@ -37,7 +43,7 @@
 							date: null,
 						},
 						pickup: {
-							checkboxTitle: "I received my Blue Card",
+							checkboxTitle: `I received my ${residencePermitName}`,
 							dateFieldTitle: "Pick-up date",
 							completed: null,
 							date: null,
@@ -54,10 +60,45 @@
 					},
 				};
 			},
+			async mounted(){
+				if(this.modificationKey){
+					const response = await fetch(this.apiEndpoint);
+					responseJson = await response.json();
+
+					this.steps.application.date = responseJson.application_date;
+					this.steps.application.completed = !!responseJson.application_date;
+
+					this.steps.response.date = responseJson.first_response_date;
+					this.steps.response.completed = !!responseJson.first_response_date;
+
+					this.steps.appointment.date = responseJson.appointment_date;
+					this.steps.appointment.completed = !!responseJson.appointment_date;
+
+					this.steps.pickup.date = responseJson.pick_up_date;
+					this.steps.pickup.completed = !!responseJson.pick_up_date;
+
+					this.email = responseJson.email || this.email;
+					this.nationality = responseJson.nationality;
+					this.userNotes = responseJson.notes;
+				}
+			},
+			computed: {
+				apiEndpoint(){
+					if(this.modificationKey){
+						return `/api/forms/residence-permit-feedback/${this.modificationKey}`;
+					}
+					return '/api/forms/residence-permit-feedback';
+				},
+				trackAs(){
+					return `Feedback (${this.residencePermitName})`;
+				},
+			},
 			methods: {
-				nextStage(){
+				async nextStage(){
 					if(validateForm(this.$el)){
 						const allStagesComplete = Object.values(this.steps).every(s => s.completed);
+
+						const responseOk = await this.submitFeedback();
 						if(this.stage === 'start' && allStagesComplete){
 							this.stageIndex += 2; // Skip email step if there is no more feedback to give
 						}
@@ -80,20 +121,43 @@
 						}
 					})
 				},
-				submitFeedback(){
-				},
-				setFeedbackReminder(){
+				async submitFeedback(){
+					this.isLoading = true;
+					const response = await fetch(
+						this.apiEndpoint,
+						{
+							method: this.modificationKey ? 'PUT' : 'POST',
+							keepalive: true,
+							headers: {'Content-Type': 'application/json; charset=utf-8',},
+							body: JSON.stringify({
+								application_date: (this.steps.application.completed ? this.steps.application.date : null),
+								appointment_date: (this.steps.appointment.completed ? this.steps.appointment.date : null),
+								email: this.email || null,
+								first_response_date: (this.steps.response.completed ? this.steps.response.date : null),
+								nationality: this.nationality,
+								notes: this.userNotes,
+								pick_up_date: (this.steps.pickup.completed ? this.steps.pickup.date : null),
+								residence_permit_type: this.residencePermitType,
+							}),
+						}
+					);
+					this.isLoading = false;
+					if(response.ok){
+						const responseJson = await response.json();
+						this.modificationKey = responseJson.modification_key;
+					}
+					return response.ok;
 				},
 			},
 		})
 	);
 {% endjs %}
 
-<collapsible class="feedback-blue-card" aria-label="Feedback form: Blue Card" {% if static|default %}static{% endif %} v-cloak>
+<collapsible class="feedback-blue-card" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>
 		<small>Give feedback, help others</small>
-		How is your Blue Card application going?
+		How is your {{ residencePermitName }} application going?
 	</template>
 	<template v-if="stage === 'start'">
 		<template  v-for="(step, key, index) in steps" :key="key">
@@ -124,7 +188,8 @@
 			</div>
 			<div class="form-group">
 				<label :for="uid('userNotes')">Notes and advice</label>
-				<textarea placeholder="Add helpful information for other readers" v-model="userNotes" :id="uid('userNotes')"></textarea>
+				<textarea placeholder="" v-model="userNotes" :id="uid('userNotes')"></textarea>
+				<span class="input-instructions">Describe your experience and add helpful information for others</span>
 			</div>
 		</template>
 	</template>
@@ -136,7 +201,7 @@
 		<p>Can you give more feedback when you get your residence permit? It would be very helpful. I can remind you by email.</p>
 		<div class="form-group">
 			<label :for="uid('email')">Email address</label>
-			<input ref="emailInput" v-model="emailAddress" type="email" :id="uid('email')" autocomplete="email" required>
+			<input ref="emailInput" v-model="email" type="email" :id="uid('email')" autocomplete="email" required>
 			<span class="input-instructions">You will get a reminder in 2 months and in 6 months. Nothing else.</span>
 		</div>
 	</template>
@@ -148,7 +213,7 @@
 	<hr v-if="steps.application.completed && stage !== 'finish'">
 	<div class="buttons" v-if="steps.application.completed && stage !== 'finish'">
 		<button v-if="stage !== 'start' && stage !== 'finish'" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
-		<button class="button primary" v-if="stage === 'start'" @click="nextStage">Send feedback</button>
+		<button class="button primary" v-if="stage === 'start'" @click="nextStage">{{ modificationKey ? 'Update' : 'Send' }} feedback</button>
 		<button class="button primary" v-if="stage === 'email'" @click="nextStage">Remind me</button>
 	</div>
 {% endraw %}
