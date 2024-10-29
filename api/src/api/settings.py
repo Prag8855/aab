@@ -78,6 +78,9 @@ LOGGING = {
             'level': 'INFO',
             'propagate': True,
         },
+        'django.request': {
+            'level': 'ERROR',
+        },
         'gunicorn': {
             'handlers': ['console'],
             'level': 'INFO',
