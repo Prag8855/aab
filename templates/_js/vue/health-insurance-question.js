@@ -168,7 +168,7 @@ Vue.component('health-insurance-question', {
 					</div>
 				</div>
 				<hr>
-				<div class="form-group" v-if="!age">
+				<div class="form-group required" v-if="!age">
 					<label :for="uid('age')">
 						Age
 					</label>
