@@ -61,8 +61,19 @@
 				};
 			},
 			async mounted(){
+				// Load the key from the URL hash
+				const keyFromHash = (new URLSearchParams(window.location.hash.substring(1))).get('feedbackKey');
+				if(keyFromHash){
+					this.modificationKey = keyFromHash;
+					history.replaceState(null, null, ' '); // Remove the hash
+				}
+
 				if(this.modificationKey){
 					const response = await fetch(this.apiEndpoint);
+					if(!response.ok){
+						this.modificationKey = null;
+						return;
+					}
 					responseJson = await response.json();
 
 					this.steps.application.date = responseJson.application_date;

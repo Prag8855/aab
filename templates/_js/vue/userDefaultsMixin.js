@@ -92,14 +92,13 @@ const userDefaultsMixin = {
 		},
 		setDefault(key, value) {
 			if(value === null || value === undefined){
+				localStorage.removeItem(key);
 				return;
 			}
 			try {
 				localStorage.setItem(key, value);
 				userDefaults[key] = value;
-				return true;
 			} catch (e) {}
-			return false;
 		},
 		setDefaultNumber(key, value) {
 			this.setDefault(key, +value)
