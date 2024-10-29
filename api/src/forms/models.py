@@ -103,6 +103,8 @@ class HealthInsuranceQuestion(EmailMixin, ScheduledMessage):
 
     def remove_personal_data(self):
         super().remove_personal_data()
+        self.age = 0
+        self.occupation = 'unknown'
         self.name = filler_string
         self.phone = filler_string
 
