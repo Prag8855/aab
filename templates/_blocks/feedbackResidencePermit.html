@@ -12,11 +12,17 @@
 			el: el,
 			mixins: [userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 			data() {
-				const residencePermitName = "Blue Card";
-				const residencePermitType = "BLUE_CARD";
+				const residencePermitType = "{{ residencePermitType }}";
+				const residencePermitName = {
+					"BLUE_CARD": "Blue Card",
+					"WORK_VISA": "work visa",
+					"FREELANCE_VISA": "freelance visa",
+					"PERMANENT_RESIDENCE": "permanent residence",
+				}[residencePermitType];
+
 				return {
-					residencePermitName: residencePermitName,
-					residencePermitType: residencePermitType,
+					residencePermitType,
+					residencePermitName,
 					isLoading: false,
 					modificationKey: userDefaults.modificationKey,
 					nationality: userDefaults.nationality,
@@ -95,10 +101,7 @@
 			},
 			computed: {
 				apiEndpoint(){
-					if(this.modificationKey){
-						return `/api/forms/residence-permit-feedback/${this.modificationKey}`;
-					}
-					return '/api/forms/residence-permit-feedback';
+					return this.modificationKey ? `/api/forms/residence-permit-feedback/${this.modificationKey}` : '/api/forms/residence-permit-feedback';
 				},
 				trackAs(){
 					return `Feedback (${this.residencePermitName})`;
@@ -167,7 +170,6 @@
 <collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>
-		<small>Give feedback, help others</small>
 		How is your {{ residencePermitName }} application going?
 	</template>
 	<template v-if="stage === 'start'">
@@ -195,21 +197,18 @@
 					v-model="nationality"
 					:id="uid('nationality')"
 					required></country-input>
-				<span class="input-instructions">Your nationality affects the processing time</span>
+				<span class="input-instructions">Your nationality affects the processing time.</span>
 			</div>
 			<div class="form-group">
 				<label :for="uid('userNotes')">Notes and advice</label>
 				<textarea placeholder="" v-model="userNotes" :id="uid('userNotes')"></textarea>
-				<span class="input-instructions">Describe your experience and add helpful information for others</span>
+				<span class="input-instructions">Describe your experience and share useful tips. Other people can see this message.</span>
 			</div>
 		</template>
 	</template>
 	<template v-if="stage === 'email'">
-		<p>
-			<strong>Thank you for your feedback!</strong> It will help a lot of people.
-		</p>
-		<hr>
-		<p>Can you give more feedback when you get your residence permit? It would be very helpful. I can remind you by email.</p>
+		<p><strong>Thank you for your feedback!</strong> It will help a lot of people.</p>
+		<p>Can you complete your feedback when you get your residence permit? I can remind you by email.</p>
 		<div class="form-group">
 			<label :for="uid('email')">Email address</label>
 			<input ref="emailInput" v-model="email" type="email" :id="uid('email')" autocomplete="email" required>
