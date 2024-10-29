@@ -49,7 +49,7 @@ Fill this application form, print it and sign it. You must know your [tax ID](/g
 
 If you apply online, use this email template, and attach the application form.
 
-{% with static=true %}{% include "_blocks/bescheinigungInSteuersachen.html" %}{% endwith %}
+{% include "_blocks/bescheinigungInSteuersachenStatic.html" %}
 
 [^1]: [Berlin.de](https://service.berlin.de/dienstleistung/324713/en/) (June 2024)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/1bc8lkk/how_long_does_it_take_to_receive_a_bescheinigung/) (March 2024), Finanzamt call (June 2024), [Berlin.de](https://service.berlin.de/dienstleistung/324713/en/) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1bc8lkk/how_long_does_it_take_to_receive_a_bescheinigung/) (March 2024), [Red Tape Translation](https://redtapetranslation.com/bescheinigung-in-steuersachen/#:~:text=how%20long%20does%20it%20take%3F) (2024)
