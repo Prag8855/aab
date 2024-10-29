@@ -93,6 +93,7 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework.authentication.BasicAuthentication',
     ),
+    'EXCEPTION_HANDLER': 'forms.views.exception_handler',
 }
 
 # Internationalization
