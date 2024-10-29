@@ -28,18 +28,6 @@ class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
         ]
 
 
-class HealthInsuranceQuestionConfirmationSerializer(HyperlinkedModelSerializer):
-    status = IntegerField(read_only=True)
-
-    class Meta:
-        model = HealthInsuranceQuestionConfirmation
-        fields = [
-            *message_fields,
-            'email',
-            'name',
-        ]
-
-
 class PensionRefundQuestionSerializer(CountryFieldMixin, HyperlinkedModelSerializer):
     status = IntegerField(read_only=True)
 

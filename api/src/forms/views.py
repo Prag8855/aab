@@ -1,6 +1,6 @@
-from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
+from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, \
     PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
-from forms.serializers import HealthInsuranceQuestionSerializer, HealthInsuranceQuestionConfirmationSerializer, \
+from forms.serializers import HealthInsuranceQuestionSerializer, \
     PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
     ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
 from rest_framework import mixins, permissions, viewsets
@@ -50,12 +50,6 @@ class FeedbackViewSet(mixins.UpdateModelMixin, mixins.RetrieveModelMixin, mixins
 class HealthInsuranceQuestionViewSet(MessageViewSet):
     queryset = HealthInsuranceQuestion.objects.all()
     serializer_class = HealthInsuranceQuestionSerializer
-
-
-class HealthInsuranceQuestionConfirmationViewSet(MessageViewSet):
-    http_method_names = ['get']  # This model is created automatically
-    queryset = HealthInsuranceQuestionConfirmation.objects.all()
-    serializer_class = HealthInsuranceQuestionConfirmationSerializer
 
 
 class PensionRefundQuestionViewSet(MessageViewSet):
