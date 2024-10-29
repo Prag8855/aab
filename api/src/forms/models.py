@@ -54,7 +54,7 @@ class ScheduledMessage(BaseModel):
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
 
     def save(self, *args, **kwargs):
-        logger.info(f'Scheduling 1 message of type {self.__class__.__name__}')
+        logger.info(f'Scheduling 1 message ({self.__class__.__name__})')
         super().save(*args, **kwargs)
 
     def remove_personal_data(self):
@@ -98,8 +98,7 @@ class HealthInsuranceQuestion(EmailMixin, ScheduledMessage):
 
     def save(self, *args, **kwargs):
         if not self.pk:
-            confirmation_message = HealthInsuranceQuestionConfirmation(email=self.email, name=self.name)
-            confirmation_message.save()
+            HealthInsuranceQuestionConfirmation.objects.create(email=self.email, name=self.name)
         super().save(*args, **kwargs)
 
     def remove_personal_data(self):
