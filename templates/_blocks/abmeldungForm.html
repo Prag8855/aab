@@ -1,8 +1,8 @@
 <collapsible class="abmeldung-form" {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>
-		<small>Abmeldung</small>
-		Deregister your address
+		<small>Fill the form online</small>
+		Abmeldung form
 	</template>
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
