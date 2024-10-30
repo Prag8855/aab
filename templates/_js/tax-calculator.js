@@ -21,7 +21,7 @@ function calculateTax(yearlyIncome, opts) {
 	const isMarried = !!opts.isMarried;
 	const year = (new Date()).getFullYear();
 
-	const zusatzbeitrag = Number.isNaN(+opts.zusatzbeitrag) ? defaults.publicHealthInsuranceZusatzbeitrag/100 : +opts.zusatzbeitrag;
+	const zusatzbeitrag = Number.isNaN(+opts.zusatzbeitrag) ? healthInsurance.companies.average.zusatzbeitrag : +opts.zusatzbeitrag;
 	const fixedHealthInsuranceCost = Number.isNaN(+opts.fixedHealthInsuranceCost) ? undefined : +opts.fixedHealthInsuranceCost; // Monthly value
 	const healthInsuranceType = opts.healthInsuranceType;
 

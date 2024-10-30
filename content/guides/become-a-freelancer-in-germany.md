@@ -172,6 +172,8 @@ If you come from another country, you need a [job seeker visa](/glossary/Job%20s
 
 **[How to apply for the German freelance visa ➞](/guides/freelance-visa)**
 
+{% include "_blocks/feedbackFreelanceVisa.html" %}
+
 ## Start your business
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**

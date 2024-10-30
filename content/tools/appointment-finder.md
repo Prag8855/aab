@@ -20,9 +20,9 @@ This tool makes 1 request every 3 minutes. To find more appointment types, it mu
 
 There are other ways to find an appointment. You can also [run this tool on your computer](https://github.com/all-about-berlin/burgeramt-appointments) and look for other appointment types.
 
-**[How to find a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
+**[How to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
 
-**[How to find an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
 ## About this tool
 

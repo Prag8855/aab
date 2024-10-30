@@ -4,6 +4,8 @@ Vue.component('date-picker', {
 		id: String,
 		value: String,
 		autocomplete: String,
+		min: String,
+		max: String,
 		required: Boolean,
 	},
 	data(){
@@ -28,6 +30,9 @@ Vue.component('date-picker', {
 			}
 			return this.year;
 		},
+		cleanDate(){
+			return `${this.cleanYear}-${this.cleanMonth}-${this.cleanDay}`;
+		},
 		yearValid() {
 			const year = parseInt(this.cleanYear, 10);
 			return !isNaN(year) && year > 1900;
@@ -45,8 +50,14 @@ Vue.component('date-picker', {
 			).getDate();
 			return !isNaN(day) && day > 0 && this.month <= daysInMonth;
 		},
+		dateTooSmall(){
+			return this.dayValid && this.monthValid && this.yearValid && this.min && this.cleanDate < this.min;
+		},
+		dateTooBig(){
+			return this.dayValid && this.monthValid && this.yearValid && this.max && this.cleanDate > this.max;
+		},
 		valid() {
-			return this.dayValid && this.monthValid && this.yearValid;
+			return this.dayValid && this.monthValid && this.yearValid && !this.dateTooSmall && !this.dateTooBig;
 		},
 	},
 	mounted() {
@@ -60,7 +71,19 @@ Vue.component('date-picker', {
 			this.$refs.dayInput.setCustomValidity(this.dayValid ? '' : 'Invalid day');
 			this.$refs.monthInput.setCustomValidity(this.monthValid ? '' : 'Invalid month');
 			this.$refs.yearInput.setCustomValidity(this.yearValid ? '' : 'Invalid year');
-			this.$emit('input', this.valid ? `${this.cleanYear}-${this.cleanMonth}-${this.cleanDay}` : '');
+			if(this.dateTooSmall){
+				this.$refs.fieldset.setCustomValidity(`Date must be after ${this.min}`);
+				this.$refs.dayInput.setCustomValidity(`Date must be after ${this.min}`);
+				this.$refs.monthInput.setCustomValidity(`Date must be after ${this.min}`);
+				this.$refs.yearInput.setCustomValidity(`Date must be after ${this.min}`);
+			}
+			if(this.dateTooBig){
+				this.$refs.fieldset.setCustomValidity(`Date must be before ${this.max}`);
+				this.$refs.dayInput.setCustomValidity(`Date must be before ${this.max}`);
+				this.$refs.monthInput.setCustomValidity(`Date must be before ${this.max}`);
+				this.$refs.yearInput.setCustomValidity(`Date must be before ${this.max}`);
+			}
+			this.$emit('input', this.valid ? this.cleanDate : '');
 		},
 		onInput(e) {
 			const switchInput = (
@@ -118,6 +141,8 @@ Vue.component('date-picker', {
 		day() { this.onChange() },
 		month() { this.onChange() },
 		year() { this.onChange() },
+		min() { this.onChange() },
+		max() { this.onChange() },
 	},
 	template: `
 		<fieldset class="date-picker" :required="required" ref="fieldset">

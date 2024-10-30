@@ -135,14 +135,13 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the freelance visa
 
-There are 2 ways to apply for a freelance visa in Berlin:
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment.
 
-- **Apply in person**  
-    [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
-- or **send your documents online**{% include '_blocks/recommended.html' %}  
-    [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
+This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
-**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+[If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit.
+
+{% include "_blocks/feedbackFreelanceVisa.html" %}
 
 ### 5. Wait
 
@@ -157,6 +156,8 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
+
+{% include "_blocks/feedbackFreelanceVisa.html" %}
 
 ### 6. Go to your freelance visa appointment
 
@@ -183,6 +184,8 @@ If they approve your freelance visa, they must print the plastic card. You will 
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
+{% include "_blocks/feedbackFreelanceVisa.html" %}
+
 ### 7. Get your freelance visa
 
 Go to your second *[[Ausländerbehörde]]* appointment to pick up your freelance visa. Bring your passport and your old residence permit.
@@ -194,6 +197,8 @@ Your freelance visa is a plastic card. The expiration date is written on it. It'
 You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your freelance visa. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to be self-employed, and have a side job. - [More information](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/)
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your freelance visa. This lets you use your freelance visa to log into online government services.
+
+{% include "_blocks/feedbackFreelanceVisa.html" %}
 
 ### 8. Start your business
 
@@ -392,9 +397,15 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 
 ## After you get your freelance visa
 
+### Give feedback
+
+Your feedback helps me improve the information on this website. It will help thousands of people plan their freelance visa application.
+
+{% include "_blocks/feedbackFreelanceVisa.html" %}
+
 ### Bring your family to Germany
 
-The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, freelance or start a business in Germany.
+The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
 
 You can apply for it at the same time as your freelance visa.
 

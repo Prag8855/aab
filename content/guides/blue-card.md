@@ -72,7 +72,7 @@ If you can't get a Blue Card, there are other [residence permits](/glossary/Aufe
 - **[[Au pair visa]]**  
     Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
 - **[[Family reunion visa]]**  
-    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No income needed. No education needed.
+    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No minimum income. No education needed.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
     You can already live and work in Germany. You don't need a residence permit.
 
@@ -168,6 +168,8 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
+{% include "_blocks/feedbackBlueCard.html" %}
+
 ### 6. Go to your Blue Card appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
@@ -191,6 +193,8 @@ If they approve your Blue Card, they must print the plastic card. You will get a
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
+{% include "_blocks/feedbackBlueCard.html" %}
+
 ### 7. Get your Blue Card
 
 Go to your second *[[Ausländerbehörde]]* appointment to pick up your Blue Card. Bring your passport and your old residence permit.
@@ -202,6 +206,8 @@ Your Blue Card is a plastic card. The expiration date is written on it. It's usu
 You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your Blue Card. This lets you use your Blue Card to log into online government services.
+
+{% include "_blocks/feedbackBlueCard.html" %}
 
 ### 8. Start working in Germany
 
@@ -321,9 +327,15 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 ## After you get your Blue Card
 
+### Give feedback
+
+Your feedback helps me improve the information on this website. It will help thousands of people plan their Blue Card application.
+
+{% include "_blocks/feedbackBlueCard.html" %}
+
 ### Bring your family to Germany
 
-The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, freelance or start a business in Germany.
+The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
 
 ### Activate your [[eID]]
 

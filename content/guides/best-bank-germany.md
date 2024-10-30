@@ -131,8 +131,8 @@ These banks let you **use any ATM in Germany for free**:
 - **[ING](/out/ing)** - Minimum withdrawal is 50€.[^36]
 - **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
 - **[C24](/out/c24)** - 4 free withdrawals per month.
-- **[N26](/out/n26)** - 3 free withdrawals per month, then 2€ per withdrawal.
 - **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Use Cash Group ATMs for free (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
+- **[N26](/out/n26)** - 2 free withdrawals per month, then 2€ per withdrawal.
 - **[Wise](/out/wise-account)** - Withdraw up to 200€ per month for free.
 - **[Revolut](/out/revolut)** - Withdraw up to 200€ per month for free.
 

@@ -187,18 +187,4 @@ const occupations = {
 	isMinijob: (occupation, monthlyIncome) => ['employee', 'studentEmployee'].includes(occupation) && monthlyIncome <= taxes.maxMinijobIncome,
 	isLowIncome: (monthlyIncome) => monthlyIncome <= taxes.maxMinijobIncome,
 };
-
-const defaults = {  // Percentages are stored as full amounts, unlike elsewhere
-	age: 25,
-	childrenCount: 0,
-	church: 'other',
-	isMarried: false,
-	occupation: 'employee',
-	state: 'be-east',
-	useMonthlyIncome: false,
-	yearlyIncome: Math.round({{ MEDIAN_INCOME_GERMANY }}/100) * 100,
-	healthInsuranceType: 'unknown',
-	privateHealthInsuranceCost: 550, // € per month
-	publicHealthInsuranceZusatzbeitrag: healthInsurance.companies.average.zusatzbeitrag * 100, // %
-};
 {% endjs %}

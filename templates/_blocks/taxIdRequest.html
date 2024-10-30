@@ -110,8 +110,8 @@
 				required>
 		</div>
 		<div class="form-group required" v-if="country === 'DE'">
-			<label :for="uid('state')">State</label>
-			<state-input :id="uid('state')" v-model="germanState" output="germanName" required></state-input>
+			<label :for="uid('germanState')">State</label>
+			<state-input :id="uid('germanState')" v-model="germanState" output="germanName" required></state-input>
 		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
@@ -235,9 +235,9 @@
 		<hr>
 		<div class="form-group optional">
 			<label :for="uid('email')">Email</label>
-			<input ref="emailInput" v-model="emailAddress" type="email" :id="uid('email')" autocomplete="email">
-			<span class="input-instructions" v-if="!emailAddress">You will get a single email in 8 weeks. Nothing else.</span>
-			<span class="input-instructions" v-if="emailAddress">Thank you! Your feedback will be really helpful.</span>
+			<input ref="emailInput" v-model="email" type="email" :id="uid('email')" autocomplete="email">
+			<span class="input-instructions" v-if="!email">You will get a single email in 8 weeks. Nothing else.</span>
+			<span class="input-instructions" v-if="email">Thank you! Your feedback will be really helpful.</span>
 		</div>
 	</template>
 	<template v-if="stage === 'options'">
@@ -283,7 +283,7 @@
 	<hr>
 	<div class="buttons">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
-		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button v-if="stageIndex > 0" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
 		<button
 			v-if="stageIndex > 0 && stageIndex < stages.length - 2"
@@ -309,11 +309,12 @@
 {% include '_js/vue/state-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.tax-id-form').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, multiStageMixin, trackedStagesMixin, preloadPDFMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin, preloadPDFMixin],
 			data() {
 				return {
 					trackAs: 'Tax ID request form',
@@ -323,7 +324,7 @@
 					foreignCityAndPostCode: '',
 					germanCity: '',
 					germanPostCode: '',
-					germanState: '',
+					germanState: userDefaults.germanState,
 					country: '',
 					people: [],
 					namesAreOnMailbox: true,
@@ -335,7 +336,7 @@
 					employerCity: '',
 					employerPostCode: '',
 					employerState: '',
-					emailAddress: '',
+					email: userDefaults.email,
 
 					stages: [
 						'start',
@@ -377,7 +378,7 @@
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						dateOfBirth: '',
+						dateOfBirth: this.people.length === 0 ? userDefaults.dateOfBirth : '',
 						birthPlace: '',
 						showExtraFields: false,
 					})
@@ -465,20 +466,17 @@
 					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, radioFields, 'tax-id-form-filled.pdf', this.trackAs);
 					this.downloadInProgress = false;
 
-					if(this.emailAddress && !this.feedbackReminderSent){
+					if(this.email && !this.feedbackReminderSent){
 						this.feedbackReminderSent = true;
-						const deliveryDate = new Date();
-						deliveryDate.setDate(deliveryDate.getDate() + 7 * 8); // 8 weeks
 						fetch(
-							'/api/reminders/tax-id-request-feedback-reminder',
+							'/api/forms/tax-id-request-feedback-reminder',
 							{
 								method: 'POST',
 								keepalive: true,
 								headers: {'Content-Type': 'application/json; charset=utf-8',},
 								body: JSON.stringify({
 									name: [person.firstName, person.lastName].join(' '),
-									email: this.emailAddress,
-									deliveryDate: deliveryDate.toISOString(),
+									email: this.email,
 								}),
 							}
 						);

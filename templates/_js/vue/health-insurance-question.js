@@ -1,14 +1,14 @@
 {% include '_js/constants.js' %}
-{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}{% raw %}
 Vue.component('health-insurance-question', {
-	mixins: [uniqueIdsMixin, trackedStagesMixin],
+	mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
 	props: {
 		occupation: String,
 		age: Number,
@@ -24,12 +24,12 @@ Vue.component('health-insurance-question', {
 			minFreiwilligMonthlyIncome: healthInsurance.minFreiwilligMonthlyIncome * 12,
 
 			question: '',
-			fullName: '',
-			emailAddress: '',
-			phoneNumber: '',
+			fullName: userDefaults.fullName,
+			email: userDefaults.email,
+			phone: userDefaults.phone,
 
-			inputAge: this.age || getDefaultNumber('age', ''),
-			inputOccupation: this.occupation || getDefault('occupation', 'employee'),
+			inputAge: this.age,
+			inputOccupation: this.occupation,
 			incomeOverLimit: this.income >= (healthInsurance.minFreiwilligMonthlyIncome * 12),
 
 			isLoading: false,
@@ -90,34 +90,17 @@ Vue.component('health-insurance-question', {
 						headers: {'Content-Type': 'application/json; charset=utf-8',},
 						body: JSON.stringify({
 							name: this.fullName,
-							email: this.emailAddress,
-							phone: this.phoneNumber || '',
-							income: this.incomeOverLimit ? `Over ${this.minFreiwilligMonthlyIncome}€/year` : `Under ${this.minFreiwilligMonthlyIncome}€/year`,
+							email: this.email,
+							phone: this.phone || '',
+							income_over_limit: this.incomeOverLimit,
 							occupation: this.inputOccupation,
-							dateOfBirth: `${this.inputAge} years old`,
+							age: this.inputAge,
 							question: this.question,
 						}),
 					}
 				);
 				this.isLoading = false;
-				if(response.ok){
-					this.stage = 'thank-you';
-					fetch(
-						'/api/reminders/health-insurance-question-reminder',
-						{
-							method: 'POST',
-							keepalive: true,
-							headers: {'Content-Type': 'application/json; charset=utf-8',},
-							body: JSON.stringify({
-								name: this.fullName,
-								email: this.emailAddress,
-							}),
-						}
-					);
-				}
-				else {
-					this.stage = 'error';
-				}
+				this.stage = response.ok ? 'thank-you' : 'error';
 			}
 		},
 	},
@@ -172,7 +155,7 @@ Vue.component('health-insurance-question', {
 						Email address
 					</label>
 					<div class="input-group">
-						<input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">
+						<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 					</div>
 				</div>
 				<div class="form-group">
@@ -180,12 +163,12 @@ Vue.component('health-insurance-question', {
 						Phone number
 					</label>
 					<div class="input-group">
-						<input v-model="phoneNumber" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')">
+						<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')">
 						<span class="input-instructions" :id="uid('instructions-phone')">Only if you prefer a phone call.</span>
 					</div>
 				</div>
 				<hr>
-				<div class="form-group" v-if="!age">
+				<div class="form-group required" v-if="!age">
 					<label :for="uid('age')">
 						Age
 					</label>

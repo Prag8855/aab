@@ -155,6 +155,7 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 
 {% js %}
 
@@ -249,7 +250,7 @@ const languageMap = {
 
 document.querySelectorAll('.bank-comparator').forEach(el => new Vue({
 	el: el,
-	mixins: [uniqueIdsMixin],
+	mixins: [userDefaultsMixin, uniqueIdsMixin],
 	data() {
 		return {
 			banks,

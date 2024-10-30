@@ -1,4 +1,3 @@
-{% include '_js/utils.js' %}
 {% include '_js/constants.js' %}
 {% include '_js/germanStates.js' %}
 {% include '_js/tax-calculator.js' %}
@@ -7,6 +6,7 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% include '_js/vue/occupation-input.js' %}
 {% include '_js/vue/state-input.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
@@ -14,27 +14,32 @@
 	document.querySelectorAll('collapsible.unemployment-insurance-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
-			data: function() {
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
+			data() {
 				return {
-					occupation: getDefault('occupation'),
-					monthlyIncome: Math.round(getDefaultNumber('yearlyIncome')/12),
-					germanState: getDefault('state'),
+					occupation: userDefaults.occupation,
+					yearlyIncome: userDefaults.yearlyIncome,
+					germanState: userDefaults.germanState,
 					occupations,
 					taxes,
 				}
 			},
 			computed: {
-				showStatePicker: function() {
-					return (+this.monthlyIncome) * 12 >= taxes.beitragsbemessungsgrenze.currentYear.east && this.occupation !== 'unemployed';
+				monthlyIncome: {
+					get(){
+						return Math.round(this.yearlyIncome / 12);
+					},
+					set(newVal){
+						this.yearlyIncome = newVal * 12;
+					},
 				},
-				results: function() {
-					setDefault('occupation', this.occupation);
-					setDefaultNumber('yearlyIncome', this.monthlyIncome*12);
-					setDefault('state', this.germanState);
-					return calculateUnemploymentInsurance(+this.monthlyIncome * 12, this.occupation, germanStates.isEastGerman(this.germanState));
+				showStatePicker() {
+					return this.yearlyIncome >= taxes.beitragsbemessungsgrenze.currentYear.east && this.occupation !== 'unemployed';
 				},
-				monthlyBeitragsbemessungsgrenze: function() {
+				results() {
+					return calculateUnemploymentInsurance(this.yearlyIncome, this.occupation, germanStates.isEastGerman(this.germanState));
+				},
+				monthlyBeitragsbemessungsgrenze() {
 					return taxes.beitragsbemessungsgrenze.currentYear[germanStates.isEastGerman(this.germanState) ? 'east' : 'west'];
 				},
 			},
@@ -61,11 +66,11 @@
 			</label>
 		</div>
 		<div class="form-group" v-if="showStatePicker">
-			<label :for="uid('state')">
+			<label :for="uid('germanState')">
 				Where do you work?
 			</label>
 			<div class="input-group">
-				<state-input east-west-berlin :id="uid('state')" v-model="germanState"></state-input>
+				<state-input east-west-berlin :id="uid('germanState')" v-model="germanState"></state-input>
 				<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
 			</div>
 		</div>

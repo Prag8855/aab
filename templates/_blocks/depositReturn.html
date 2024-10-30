@@ -7,14 +7,15 @@
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.deposit-return').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data() {
 				return {
-					fullName: '',
+					fullName: userDefaults.fullName,
 					oldAddress: '',
 					newAddress: '',
 

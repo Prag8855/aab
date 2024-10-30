@@ -1,24 +1,22 @@
-{% include '_js/countries.js' %}
-{% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-question').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin],
+			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data: function() {
 				return {
 					isLoading: false,
-					emailAddress: '',
-					fullName: '',
+					email: userDefaults.email,
+					fullName: userDefaults.fullName,
 					question: '',
-					nationality: countries.all[getDefault('nationality')] || '',
-					countryOfResidence: countries.all[getDefault('countryOfResidence')] || '',
+					nationality: userDefaults.nationality,
+					countryOfResidence: userDefaults.countryOfResidence,
 					stage: 'contactInfo',
-					sortedCountryList: countries.getSortedList(),
 				};
 			},
 			methods: {
@@ -33,10 +31,10 @@
 								headers: {'Content-Type': 'application/json; charset=utf-8'},
 								body: JSON.stringify({
 									name: this.fullName,
-									email: this.emailAddress,
+									email: this.email,
 									question: this.question,
 									nationality: this.nationality,
-									'country-of-residence': this.countryOfResidence,
+									country_of_residence: this.countryOfResidence,
 								}),
 							}
 						);
@@ -78,25 +76,26 @@
 				Email address
 			</label>
 			<div class="input-group">
-				<input v-model="emailAddress" type="email" :id="uid('email')" required autocomplete="email">
+				<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 			</div>
 		</div>
 		<hr>
 		<div class="form-group required">
 			<label :for="uid('nationality')">Nationality</label>
-			<div class="input-group">
-				<input type="text" v-model="nationality" :id="uid('nationality')" :list="uid('countries')" required>
-			</div>
+			<country-input
+				country-code
+				v-model="nationality"
+				:id="uid('nationality')"
+				required></country-input>
 		</div>
 		<div class="form-group required">
-			<label :for="uid('country-of-residence')">Where do you live?</label>
-			<div class="input-group">
-				<input type="text" v-model="countryOfResidence" :id="uid('country-of-residence')" :list="uid('countries')" required>
-			</div>
+			<label :for="uid('countryOfResidence')">Where do you live?</label>
+			<country-input
+				country-code
+				v-model="countryOfResidence"
+				:id="uid('countryOfResidence')"
+				required></country-input>
 		</div>
-		<datalist :id="uid('countries')">
-			<option v-for="country in sortedCountryList" :key="country[0]" :value="country[1]"></option>
-		</datalist>
 		<hr>
 		<p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
 		<div class="buttons">

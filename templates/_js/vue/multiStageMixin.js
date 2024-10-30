@@ -18,6 +18,12 @@ const multiStageMixin = {
 				this.stageIndex += 1;
 			}
 		},
+		previousStage(){
+			this.stageIndex -= 1;
+		},
+		goToStage(stageName){
+			this.stageIndex = this.stages.indexOf(stageName);
+		}
 	},
 	watch: {
 		stageIndex(newStageIndex){

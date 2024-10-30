@@ -2,7 +2,7 @@
 {% raw %}
 	<template v-slot:header>
 		<small>Fill the form online</small>
-		Address registration form
+		Anmeldung form
 	</template>
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 	<template v-if="stage === 'start'">
@@ -97,10 +97,10 @@
 					autocomplete="address-line2">
 			</div>
 			<div class="form-group required">
-				<label :for="uid('state')">
+				<label :for="uid('germanState')">
 					State
 				</label>
-				<state-input :id="uid('state')" v-model="oldState" required></state-input>
+				<state-input :id="uid('germanState')" v-model="oldState" required></state-input>
 			</div>
 		</template>
 	</template>
@@ -340,7 +340,7 @@
 	<hr>
 	<div class="buttons">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
-		<button v-if="stageIndex > 0" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
+		<button v-if="stageIndex > 0" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
 		<button
 			v-if="stageIndex > 0 && stageIndex < stages.length - 2"
@@ -425,9 +425,9 @@
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						nationality: '',
-						religion: '',
-						dateOfBirth: '',
+						nationality: userDefaults.nationality,
+						religion: userDefaults.religion,
+						dateOfBirth: userDefaults.dateOfBirth,
 						gender: '',
 						birthPlace: '',
 						showExtraFields: false,

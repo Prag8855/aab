@@ -551,7 +551,10 @@ html, body{
 
     @include only-phone{
         text-size-adjust: none;
+        overflow-wrap: break-word;
         word-wrap: break-word;
+        word-break: break-word;
+        hyphens: auto;
     }
 }
 
@@ -768,7 +771,6 @@ main{
     gap: var(--m);
 
     .section{
-        overflow:hidden; // Makes text-overflow: break-word work.
         background: var(--c-bg-page);
         border-radius: var(--b-radius);
         box-shadow: var(--shadow-l);

@@ -8,6 +8,7 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/health-insurance-question.js' %}
 {% include '_js/vue/income-input.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% include '_js/vue/occupation-input.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
@@ -15,30 +16,34 @@
 	document.querySelectorAll('collapsible.health-insurance-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [uniqueIdsMixin, trackedStagesMixin],
-			data: function() {
+			mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
+			data() {
 				return {
 					trackAs: 'Health insurance calculator',
-					occupation: getDefault('occupation', 'employee'),
-					isMarried: getDefaultBoolean('isMarried'),
-					childrenCount: getDefaultNumber('childrenCount'),
-					income: getDefaultBoolean('useMonthlyIncome') ? Math.round(getDefaultNumber('yearlyIncome')/12) : getDefaultNumber('yearlyIncome'),
-					age: getDefaultNumber('age', ''),
+					occupation: userDefaults.occupation,
+					isMarried: userDefaults.isMarried,
+					childrenCount: userDefaults.childrenCount,
+					yearlyIncome: userDefaults.yearlyIncome,
+					inputIncome: 0,
+					age: userDefaults.age,
+					stage: 'start',
+					useMonthlyIncome: userDefaults.useMonthlyIncome,
+					
 					formatPercent,
 					pflegeversicherung,
-					stage: 'start',
 					healthInsurance,
-					useMonthlyIncome: getDefaultBoolean('useMonthlyIncome'),
+				}
+			},
+			mounted(){
+				if(this.useMonthlyIncome){
+					this.inputIncome = this.monthlyIncome;
+				}
+				else{
+					this.inputIncome = this.yearlyIncome;
 				}
 			},
 			computed: {
-				result: function() {
-					setDefaultBoolean('isMarried', this.isMarried);
-					setDefault('occupation', this.occupation);
-					setDefaultNumber('yearlyIncome', this.monthlyIncome * 12);
-					setDefaultNumber('age', this.age);
-					setDefaultNumber('childrenCount', this.childrenCount);
-
+				result() {
 					return calculateHealthInsuranceContributions({
 						age: +this.age,
 						monthlyIncome: +this.monthlyIncome,
@@ -55,22 +60,19 @@
 						step: this.useMonthlyIncome ? 250 : 1000,
 					};
 				},
-				monthlyIncome: function() {
-					return this.useMonthlyIncome ? this.income : Math.round(this.income/12);
+				monthlyIncome() {
+					return this.yearlyIncome / 12;
 				},
-				yearlyIncome: function() {
-					return this.useMonthlyIncome ? this.income * 12 : this.income;
-				},
-				minTotal: function() {
+				minTotal() {
 					return this.result.options.cheapest.total;
 				},
-				maxTotal: function() {
+				maxTotal() {
 					return this.result.options.mostExpensive.total;
 				},
-				baseContributionPercentage: function() {
+				baseContributionPercentage() {
 					return (this.result.baseContribution.totalRate * 100).toFixed(1);
 				},
-				tarifName: function() {
+				tarifName() {
 					return {
 						employee: 'employee',
 						midijob: 'midijob',
@@ -80,7 +82,7 @@
 						azubi: 'apprentice',
 					}[this.result.tarif];
 				},
-				yourSponsorsHave: function() {
+				yourSponsorsHave() {
 					if(this.flag('familienversicherung-parents') && this.flag('familienversicherung-spouse')){
 						return 'your parents or your spouse have';
 					}
@@ -99,35 +101,42 @@
 				eur(num) {
 					return formatCurrency(num, false, '€', false);
 				},
+				toggleUseMonthlyIncome(){
+					this.useMonthlyIncome = !this.useMonthlyIncome;
+					if(this.useMonthlyIncome){
+						this.inputIncome = Math.round(this.inputIncome / 12);
+					}
+					else{
+						this.inputIncome *= 12;
+					}
+				}
 			},
 			watch: {
-				useMonthlyIncome() {
-					setDefaultBoolean('useMonthlyIncome', this.useMonthlyIncome);
-					if(this.useMonthlyIncome) {
-						this.income = Math.round(this.income/12);
+				inputIncome(newIncome){
+					if(this.useMonthlyIncome){
+						this.yearlyIncome = newIncome * 12;
 					}
-					else {
-						this.income *= 12;
+					else{
+						this.yearlyIncome = newIncome;
 					}
 				},
-				yearlyIncome() {
-					setDefaultNumber('yearlyIncome', this.yearlyIncome);
-					if(this.yearlyIncome > 0 && this.occupation === 'unemployed'){
+				yearlyIncome(newYearlyIncome) {
+					if(newYearlyIncome > 0 && this.occupation === 'unemployed'){
 						this.occupation = 'employee';
 					}
-					else if(this.yearlyIncome === 0 && this.occupation === 'employee'){
+					else if(newYearlyIncome === 0 && this.occupation === 'employee'){
 						this.occupation = 'unemployed';
 					}
-					else if(this.yearlyIncome > 0 && this.occupation === 'student'){
+					else if(newYearlyIncome > 0 && this.occupation === 'student'){
 						this.occupation = 'studentEmployee';
 					}
-					else if(this.yearlyIncome === 0 && this.occupation === 'studentEmployee'){
+					else if(newYearlyIncome === 0 && this.occupation === 'studentEmployee'){
 						this.occupation = 'student';
 					}
 				},
-				occupation() {
-					if(this.occupation === 'unemployed') {
-						this.income = 0;
+				occupation(newOccupation) {
+					if(newOccupation === 'unemployed') {
+						this.yearlyIncome = 0;
 					}
 				},
 			}
@@ -142,17 +151,17 @@
 	<template v-if="stage === 'start'">
 		<div class="range-input">
 			<label :for="uid('range-income')">
-				<strong v-if="income === 0">No income</strong>
-				<template v-if="income > 0"><strong><eur :amount="income"></eur></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}</template>
-				<template v-if="income >= incomeInputRange.max">or more</template>
-				<template v-if="income > incomeInputRange.min && income < incomeInputRange.max">{{ salaryOrIncome }}</template>
+				<strong v-if="inputIncome === 0">No income</strong>
+				<template v-if="inputIncome > 0"><strong><eur :amount="inputIncome"></eur></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}</template>
+				<template v-if="inputIncome >= incomeInputRange.max">or more</template>
+				<template v-if="inputIncome > incomeInputRange.min && inputIncome < incomeInputRange.max">{{ salaryOrIncome }}</template>
 			</label>
 			<span class="no-mobile no-print range-prefix">€</span>
 			<input
 				aria-label="Salary"
 				class="no-print"
 				:id="uid('range-income')"
-				v-model.number="income"
+				v-model.number="inputIncome"
 				type="range"
 				:step="incomeInputRange.step"
 				:min="incomeInputRange.min"
@@ -171,9 +180,9 @@
 				{{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
 			</label>
 			<div class="input-group">
-				<income-input :id="uid('income')" v-model="income"></income-input>
+				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
 				€
-				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
+				<button class="toggle" @click="toggleUseMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 			</div>
 		</div>
 		<div class="form-group show-errors">

@@ -107,6 +107,8 @@ Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid 
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
+{% include "_blocks/feedbackFreelanceVisa.html" %}
+
 ### 3. Find a translator
 
 If you need a translator, find one 2 to 4 weeks before your *Ausländerbehörde* appointment.
@@ -126,6 +128,8 @@ The *Ausländerbehörde* might ask you to bring new or updated documents to your
 **If some documents are missing**, you will not get a freelance visa. You will get a new appointment. You must go home, get the missing documents, and come back for your next appointment. If your current visa has expired, you will get a *[[Fiktionsbescheinigung]]*.
 
 **[What happens during your Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+
+{% include "_blocks/feedbackFreelanceVisa.html" %}
 
 ### 8. Receive your new residence permit
 
@@ -207,6 +211,12 @@ Some of the [required documents](/guides/renew-german-freelance-visa#required-do
 Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ## What to do next
+
+### Give feedback
+
+Your feedback helps me improve the information on this website. It will help thousands of people plan their freelance visa application.
+
+{% include "_blocks/feedbackFreelanceVisa.html" %}
 
 ### Apply for permanent residence
 

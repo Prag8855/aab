@@ -73,7 +73,7 @@ If you can't get a work visa, there are other [residence permits](/glossary/Aufe
 - **[[Au pair visa]]**  
     Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
 - **[[Family reunion visa]]**  
-    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No income needed. No education needed.
+    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No minimum income. No education needed.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
     You can already live and work in Germany. You don't need a residence permit.
 
@@ -151,21 +151,13 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the work visa
 
-There are 2 ways to apply for a work visa in Berlin:
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment.
 
-- **Apply in person**  
-    [Get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), go to your appointment, give your documents, and wait for your residence permit. It's almost impossible to get an appointment.
-- or **send your documents online**{% include '_blocks/recommended.html' %}  
-    [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment. Usually, this is your only option.
+This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
-**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+[If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit.
 
-When you [book an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment), you must choose the type of residence permit:
-
-- If you have a university degree, choose "Economic activity", then "Residence permit for qualified skilled workers with an academic education (sect. 18b para. 1)"
-- If you have another kind of professional training, choose "Economic activity", then "Residence permit for qualified skilled workers with vocational training (sect. 18a)"
-
-During your work visa appointment, **ask for a [[Fiktionsbescheinigung]]**. It might allow you to travel outside of Germany with an expired residence permit.
+{% include "_blocks/feedbackWorkVisa.html" %}
 
 ### 5. Wait
 
@@ -178,6 +170,8 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
+
+{% include "_blocks/feedbackWorkVisa.html" %}
 
 ### 6. Go to your work visa appointment
 
@@ -204,6 +198,8 @@ If they approve your work visa, they must print the plastic card. You will get a
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
+{% include "_blocks/feedbackWorkVisa.html" %}
+
 ### 7. Get your work visa
 
 Go to your second *[[Ausländerbehörde]]* appointment to pick up your work visa. Bring your passport and your old residence permit.
@@ -215,6 +211,8 @@ Your work visa is a plastic card. The expiration date is written on it. It's usu
 You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your work visa. This lets you use your work visa to log into online government services.
+
+{% include "_blocks/feedbackWorkVisa.html" %}
 
 ### 8. Start working in Germany
 
@@ -358,9 +356,15 @@ If you apply in person, print everything. Use A4 paper. Do not staple the pages 
 
 ## After you get your work visa
 
+### Give feedback
+
+Your feedback helps me improve the information on this website. It will help thousands of people plan their work visa application.
+
+{% include "_blocks/feedbackWorkVisa.html" %}
+
 ### Bring your family to Germany
 
-The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, freelance or start a business in Germany.
+The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
 
 You can apply for it at the same time as your work visa.
 
