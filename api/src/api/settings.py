@@ -16,7 +16,7 @@ MAILGUN_API_KEY = os.environ.get('MAILGUN_API_KEY')
 DEBUG = bool(int(os.environ.get('DEBUG', '0')))
 DEBUG_EMAILS = DEBUG  # Print emails instead of sending them
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['allaboutberlin.com', 'localhost']
 
 INSTALLED_APPS = [
     'django.contrib.auth',
