@@ -11,7 +11,7 @@ Categories:
     auslaenderbehoerde
 ---
 
-Your feedback helps us measure waiting times at the Berlin *[[Ausländerbehörde]]*. This information helps other people plan their [residence permit](/glossary/Aufenthaltstitel) application.
+Your feedback helps us measure wait times at the Berlin *[[Ausländerbehörde]]*. This information helps other people plan their [residence permit](/glossary/Aufenthaltstitel) application.
 
 {% include "_blocks/feedbackResidencePermitStatic.html" %}
 
