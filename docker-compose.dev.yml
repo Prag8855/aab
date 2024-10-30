@@ -1,0 +1,15 @@
+version: '3.2'
+
+# Development docker file. Adds API live reload and enables debugging features.
+
+services:
+  api:
+    build:
+      target: dev
+      args:
+        - "SSL_DOMAIN=localhost"
+    volumes:
+      - "./api/src:/srv/app"
+  proxy:
+    volumes:
+      - "${STATIC_SITE_PATH}:/var/www/html"

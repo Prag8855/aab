@@ -3,39 +3,19 @@ version: '3.2'
 services:
   api:
     build: ./api
-    environment:
-      - "DEBUG=1"
     volumes:
       - "api_db:/var/db"
-      - "./api/src:/srv/app"
-    restart: unless-stopped
-    logging:
-      driver: "json-file"
-      options:
-        max-size: "10m"
-        max-file: "3"
   proxy:
     build:
       context: ./proxy
-      args:
-        - "SSL_DOMAIN"
-        - "SSL_EMAIL"
     ports:
       - "80:80"
       - "443:443"
     depends_on:
       - "api"
     volumes:
-      # STATIC_SITE_PATH is the path to your generated website.
-      - "${STATIC_SITE_PATH}:/var/www/html"
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
-    restart: unless-stopped
-    logging:
-      driver: "json-file"
-      options:
-        max-size: "10m"
-        max-file: "3"
 volumes:
   acme_sh:
   api_db:
