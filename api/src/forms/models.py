@@ -46,6 +46,11 @@ class MessageStatus(models.IntegerChoices):
 
 class ResidencePermitTypes(models.TextChoices):
     BLUE_CARD = 'BLUE_CARD', "Blue Card"
+    FAMILY_REUNION_VISA = 'FAMILY_REUNION_VISA', "Family reunion visa"
+    FREELANCE_VISA = 'FREELANCE_VISA', "Freelance visa"
+    PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
+    STUDENT_VISA = 'STUDENT_VISA', "Student visa"
+    WORK_VISA = 'WORK_VISA', "Work visa"
 
 
 class ScheduledMessage(BaseModel):
