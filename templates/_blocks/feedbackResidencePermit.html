@@ -18,31 +18,34 @@
 					residencePermitTypes: {
 						"BLUE_CARD": {
 							normal: "Blue Card",
-							capitalized: "Blue Card"
+							capitalized: "Blue Card",
 						},
 						"FAMILY_REUNION_VISA": {
 							normal: "family reunion visa",
-							capitalized: "Family reunion visa"
+							capitalized: "Family reunion visa",
 						},
 						"FREELANCE_VISA": {
 							normal: "freelance visa",
-							capitalized: "Freelance visa"
+							capitalized: "Freelance visa",
 						},
 						"PERMANENT_RESIDENCE": {
 							normal: "permanent residence",
-							capitalized: "Permanent residence"
+							capitalized: "Permanent residence",
 						},
 						"STUDENT_VISA": {
 							normal: "student visa",
-							capitalized: "Student visa"
+							capitalized: "Student visa",
 						},
 						"WORK_VISA": {
 							normal: "work visa",
-							capitalized: "Work visa"
+							capitalized: "Work visa",
 						},
 					},
 					isLoading: false,
+
+					// The primary key of the Feedback item, plus a two-letter prefix denoting the residencePermitType
 					modificationKey: userDefaults.modificationKey,
+
 					nationality: userDefaults.nationality,
 					userNotes: '',
 					email: userDefaults.email,
@@ -94,7 +97,7 @@
 					history.replaceState(null, null, ' '); // Remove the hash
 				}
 
-				if(this.modificationKey){
+				if(this.modificationKey && this.modificationKeyMatchesResidencePermitType){
 					const response = await fetch(this.apiEndpoint);
 					if(!response.ok){
 						this.modificationKey = null;
@@ -120,11 +123,21 @@
 				}
 			},
 			computed: {
+				modificationKeyMatchesResidencePermitType(){
+					return (
+						this.residencePermitType
+						&& this.modificationKey
+						&& this.modificationKey.endsWith(this.residencePermitType)
+					);
+				},
 				apiEndpoint(){
-					return this.modificationKey ? `/api/forms/residence-permit-feedback/${this.modificationKey}` : '/api/forms/residence-permit-feedback';
+					if(this.modificationKeyMatchesResidencePermitType){
+						return `/api/forms/residence-permit-feedback/${this.modificationKey.split('~')[0]}`
+					}
+					return '/api/forms/residence-permit-feedback';
 				},
 				trackAs(){
-					return `Feedback (${this.residencePermitName})`;
+					return `Feedback (${this.residencePermitType})`;
 				},
 				residencePermitName(){
 					const type = this.residencePermitTypes[this.residencePermitType];
@@ -164,7 +177,7 @@
 					const response = await fetch(
 						this.apiEndpoint,
 						{
-							method: this.modificationKey ? 'PUT' : 'POST',
+							method: this.modificationKeyMatchesResidencePermitType ? 'PUT' : 'POST',
 							keepalive: true,
 							headers: {'Content-Type': 'application/json; charset=utf-8',},
 							body: JSON.stringify({
@@ -182,7 +195,7 @@
 					this.isLoading = false;
 					if(response.ok){
 						const responseJson = await response.json();
-						this.modificationKey = responseJson.modification_key;
+						this.modificationKey = `${responseJson.modification_key}~${this.residencePermitType}`;
 					}
 					return response.ok;
 				},
@@ -261,7 +274,7 @@
 	<hr v-if="steps.application.completed && stage !== 'finish'">
 	<div class="buttons" v-if="steps.application.completed && stage !== 'finish'">
 		<button v-if="stage !== 'start' && stage !== 'finish'" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
-		<button class="button primary" v-if="stage === 'start'" @click="nextStage">{{ modificationKey ? 'Update' : 'Send' }} feedback</button>
+		<button class="button primary" v-if="stage === 'start'" @click="nextStage">{{ modificationKeyMatchesResidencePermitType ? 'Update' : 'Send' }} feedback</button>
 		<button class="button primary" v-if="stage === 'email'" @click="nextStage">Remind me</button>
 	</div>
 {% endraw %}
