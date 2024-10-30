@@ -12,17 +12,35 @@
 			el: el,
 			mixins: [userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 			data() {
-				const residencePermitType = "{{ residencePermitType }}";
-				const residencePermitName = {
-					"BLUE_CARD": "Blue Card",
-					"WORK_VISA": "work visa",
-					"FREELANCE_VISA": "freelance visa",
-					"PERMANENT_RESIDENCE": "permanent residence",
-				}[residencePermitType];
-
 				return {
-					residencePermitType,
-					residencePermitName,
+					showResidencePermitField: true,
+					residencePermitType: null,
+					residencePermitTypes: {
+						"BLUE_CARD": {
+							normal: "Blue Card",
+							capitalized: "Blue Card"
+						},
+						"FAMILY_REUNION_VISA": {
+							normal: "family reunion visa",
+							capitalized: "Family reunion visa"
+						},
+						"FREELANCE_VISA": {
+							normal: "freelance visa",
+							capitalized: "Freelance visa"
+						},
+						"PERMANENT_RESIDENCE": {
+							normal: "permanent residence",
+							capitalized: "Permanent residence"
+						},
+						"STUDENT_VISA": {
+							normal: "student visa",
+							capitalized: "Student visa"
+						},
+						"WORK_VISA": {
+							normal: "work visa",
+							capitalized: "Work visa"
+						},
+					},
 					isLoading: false,
 					modificationKey: userDefaults.modificationKey,
 					nationality: userDefaults.nationality,
@@ -31,25 +49,21 @@
 
 					steps: {
 						application: {
-							checkboxTitle: "I have applied in Berlin",
 							dateFieldTitle: "Application date",
 							completed: null,
 							date: null,
 						},
 						response: {
-							checkboxTitle: "The Ausländerbehörde responded",
 							dateFieldTitle: "First response date",
 							completed: null,
 							date: null,
 						},
 						appointment: {
-							checkboxTitle: "The Ausländerbehörde gave me an appointment",
 							dateFieldTitle: "Appointment date",
 							completed: null,
 							date: null,
 						},
 						pickup: {
-							checkboxTitle: `I received my ${residencePermitName}`,
 							dateFieldTitle: "Pick-up date",
 							completed: null,
 							date: null,
@@ -67,6 +81,12 @@
 				};
 			},
 			async mounted(){
+				// The residence permit type can be pre-selected with the data-type attribute
+				if(this.$el.dataset.type){
+					this.showResidencePermitField = false;
+					this.residencePermitType = this.$el.dataset.type;
+				}
+
 				// Load the key from the URL hash
 				const keyFromHash = (new URLSearchParams(window.location.hash.substring(1))).get('feedbackKey');
 				if(keyFromHash){
@@ -105,6 +125,10 @@
 				},
 				trackAs(){
 					return `Feedback (${this.residencePermitName})`;
+				},
+				residencePermitName(){
+					const type = this.residencePermitTypes[this.residencePermitType];
+					return type ? type.normal : "residence permit";
 				},
 			},
 			methods: {
@@ -162,12 +186,20 @@
 					}
 					return response.ok;
 				},
+				stepName(key){
+					return {
+						application: "I have applied in Berlin",
+						response: "The Ausländerbehörde responded",
+						appointment: "The Ausländerbehörde gave me an appointment",
+						pickup: `I received my ${this.residencePermitName}`,
+					}[key];
+				},
 			},
 		})
 	);
 {% endjs %}
 
-<collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if static|default %}static{% endif %} v-cloak>
+<collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %}  {% if static|default %}static{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>
 		How is your {{ residencePermitName }} application going?
@@ -178,7 +210,7 @@
 				<div class="input-group vertical">
 					<label class="checkbox">
 						<input type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
-						{{ step.checkboxTitle }}
+						{{ stepName(key) }}
 					</label>
 				</div>
 			</div>
@@ -190,6 +222,13 @@
 		</template>
 		<template v-if="steps.application.completed">
 			<hr>
+			<div class="form-group required" v-if="showResidencePermitField">
+				<label :for="uid('residencePermitType')">Residence permit</label>
+				<select :id="uid('residencePermitType')" v-model="residencePermitType" :class="{placeholder: !residencePermitType}" required>
+					<option disabled hidden default :value="null">Choose a residence permit</option>
+					<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key">{{ name.capitalized }}</option>
+				</select>
+			</div>
 			<div class="form-group required">
 				<label :for="uid('nationality')">Nationality</label>
 				<country-input
@@ -197,18 +236,17 @@
 					v-model="nationality"
 					:id="uid('nationality')"
 					required></country-input>
-				<span class="input-instructions">Your nationality affects the processing time.</span>
 			</div>
 			<div class="form-group">
 				<label :for="uid('userNotes')">Notes and advice</label>
 				<textarea placeholder="" v-model="userNotes" :id="uid('userNotes')"></textarea>
-				<span class="input-instructions">Describe your experience and share useful tips. Other people can see this message.</span>
+				<span class="input-instructions">Describe your experience and give tips to other readers.</span>
 			</div>
 		</template>
 	</template>
 	<template v-if="stage === 'email'">
 		<p><strong>Thank you for your feedback!</strong> It will help a lot of people.</p>
-		<p>Can you complete your feedback when you get your residence permit? I can remind you by email.</p>
+		<p>Can you complete your feedback when you get your {{ residencePermitName }}? I can remind you by email.</p>
 		<div class="form-group">
 			<label :for="uid('email')">Email address</label>
 			<input ref="emailInput" v-model="email" type="email" :id="uid('email')" autocomplete="email" required>
