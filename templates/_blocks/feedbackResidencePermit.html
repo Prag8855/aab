@@ -16,30 +16,12 @@
 					showResidencePermitField: true,
 					residencePermitType: null,
 					residencePermitTypes: {
-						"BLUE_CARD": {
-							normal: "Blue Card",
-							capitalized: "Blue Card",
-						},
-						"FAMILY_REUNION_VISA": {
-							normal: "family reunion visa",
-							capitalized: "Family reunion visa",
-						},
-						"FREELANCE_VISA": {
-							normal: "freelance visa",
-							capitalized: "Freelance visa",
-						},
-						"PERMANENT_RESIDENCE": {
-							normal: "permanent residence",
-							capitalized: "Permanent residence",
-						},
-						"STUDENT_VISA": {
-							normal: "student visa",
-							capitalized: "Student visa",
-						},
-						"WORK_VISA": {
-							normal: "work visa",
-							capitalized: "Work visa",
-						},
+						BLUE_CARD: "Blue Card",
+						FAMILY_REUNION_VISA: "family reunion visa",
+						FREELANCE_VISA: "freelance visa",
+						PERMANENT_RESIDENCE: "permanent residence",
+						STUDENT_VISA: "student visa",
+						WORK_VISA: "work visa",
 					},
 					isLoading: false,
 
@@ -140,21 +122,27 @@
 					return `Feedback (${this.residencePermitType})`;
 				},
 				residencePermitName(){
-					const type = this.residencePermitTypes[this.residencePermitType];
-					return type ? type.normal : "residence permit";
+					return this.residencePermitTypes[this.residencePermitType] || "residence permit";
 				},
+				showRestOfForm(){
+					return this.steps.application.completed;
+				}
 			},
 			methods: {
 				async nextStage(){
 					if(validateForm(this.$el)){
-						const allStagesComplete = Object.values(this.steps).every(s => s.completed);
-
-						const responseOk = await this.submitFeedback();
-						if(this.stage === 'start' && allStagesComplete){
-							this.stageIndex += 2; // Skip email step if there is no more feedback to give
+						if(this.stage === 'start'){
+							const allStepsComplete = Object.values(this.steps).every(s => s.completed);
+							const isUpdatingExistingFeedback = this.modificationKeyMatchesResidencePermitType && this.email;
+							if(allStepsComplete || isUpdatingExistingFeedback){
+								this.goToStage('finish');
+							}
+							else{
+								this.goToStage('email');
+							}
 						}
 						else{
-							this.stageIndex += 1;
+							this.goToStage('finish');
 						}
 					}
 				},
@@ -173,31 +161,34 @@
 					})
 				},
 				async submitFeedback(){
-					this.isLoading = true;
-					const response = await fetch(
-						this.apiEndpoint,
-						{
-							method: this.modificationKeyMatchesResidencePermitType ? 'PUT' : 'POST',
-							keepalive: true,
-							headers: {'Content-Type': 'application/json; charset=utf-8',},
-							body: JSON.stringify({
-								application_date: (this.steps.application.completed ? this.steps.application.date : null),
-								appointment_date: (this.steps.appointment.completed ? this.steps.appointment.date : null),
-								email: this.email || null,
-								first_response_date: (this.steps.response.completed ? this.steps.response.date : null),
-								nationality: this.nationality,
-								notes: this.userNotes,
-								pick_up_date: (this.steps.pickup.completed ? this.steps.pickup.date : null),
-								residence_permit_type: this.residencePermitType,
-							}),
+					if(validateForm(this.$el)){
+						this.isLoading = true;
+						const response = await fetch(
+							this.apiEndpoint,
+							{
+								method: this.modificationKeyMatchesResidencePermitType ? 'PUT' : 'POST',
+								keepalive: true,
+								headers: {'Content-Type': 'application/json; charset=utf-8',},
+								body: JSON.stringify({
+									application_date: this.steps.application.date,
+									appointment_date: (this.steps.appointment.completed ? this.steps.appointment.date : null),
+									email: this.email || null,
+									first_response_date: (this.steps.response.completed ? this.steps.response.date : null),
+									nationality: this.nationality,
+									notes: this.userNotes,
+									pick_up_date: (this.steps.pickup.completed ? this.steps.pickup.date : null),
+									residence_permit_type: this.residencePermitType,
+								}),
+							}
+						);
+						this.isLoading = false;
+						if(response.ok){
+							const responseJson = await response.json();
+							this.modificationKey = `${responseJson.modification_key}~${this.residencePermitType}`;
 						}
-					);
-					this.isLoading = false;
-					if(response.ok){
-						const responseJson = await response.json();
-						this.modificationKey = `${responseJson.modification_key}~${this.residencePermitType}`;
+						this.isLoading = false;
+						this.nextStage();
 					}
-					return response.ok;
 				},
 				stepName(key){
 					return {
@@ -207,6 +198,9 @@
 						pickup: `I received my ${this.residencePermitName}`,
 					}[key];
 				},
+				capitalizeFirstLetter(str){
+					return String(str).charAt(0).toUpperCase() + String(str).slice(1);
+				}
 			},
 		})
 	);
@@ -233,13 +227,13 @@
 				<date-picker v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
 			</div>
 		</template>
-		<template v-if="steps.application.completed">
+		<template v-if="showRestOfForm">
 			<hr>
 			<div class="form-group required" v-if="showResidencePermitField">
 				<label :for="uid('residencePermitType')">Residence permit</label>
 				<select :id="uid('residencePermitType')" v-model="residencePermitType" :class="{placeholder: !residencePermitType}" required>
 					<option disabled hidden default :value="null">Choose a residence permit</option>
-					<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key">{{ name.capitalized }}</option>
+					<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key">{{ capitalizeFirstLetter(name) }}</option>
 				</select>
 			</div>
 			<div class="form-group required">
@@ -271,11 +265,18 @@
 			<strong>Thank you for your feedback!</strong> It will help a lot of people.
 		</p>
 	</template>
-	<hr v-if="steps.application.completed && stage !== 'finish'">
-	<div class="buttons" v-if="steps.application.completed && stage !== 'finish'">
-		<button v-if="stage !== 'start' && stage !== 'finish'" class="button" @click="stageIndex -= 1"><i class="icon left" aria-hidden="true"></i> Go back</button>
-		<button class="button primary" v-if="stage === 'start'" @click="nextStage">{{ modificationKeyMatchesResidencePermitType ? 'Update' : 'Send' }} feedback</button>
-		<button class="button primary" v-if="stage === 'email'" @click="nextStage">Remind me</button>
-	</div>
+	<template v-if="showRestOfForm && stage !== 'finish'">
+		<hr>
+		<div class="buttons" v-if="showRestOfForm && stage !== 'finish'">
+			<button v-if="stage == 'email'" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
+			<button
+				class="button primary"
+				v-if="stage === 'start'"
+				:disabled="isLoading"
+				:class="{loading: isLoading}"
+				@click="submitFeedback">{{ modificationKeyMatchesResidencePermitType ? 'Update' : 'Send' }} feedback</button>
+			<button class="button primary" v-if="stage === 'email'" @click="submitFeedback">Remind me</button>
+		</div>
+	</template>
 {% endraw %}
 </collapsible>
