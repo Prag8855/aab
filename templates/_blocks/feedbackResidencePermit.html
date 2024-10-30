@@ -59,6 +59,7 @@
 						'start',
 						'email',
 						'finish',
+						'error',
 					],
 					inputsToFocus: {
 						email: () => this.$refs.emailInput,
@@ -78,6 +79,10 @@
 					this.modificationKey = keyFromHash;
 					history.replaceState(null, null, ' '); // Remove the hash
 				}
+
+				// Set the residencePermitType from the modificationKey, but don't override a hard-coded type
+				const residencePermitTypeFromKey = this.modificationKey.split('~')[1];
+				this.residencePermitType = this.residencePermitType || residencePermitTypeFromKey;
 
 				if(this.modificationKey && this.modificationKeyMatchesResidencePermitType){
 					const response = await fetch(this.apiEndpoint);
@@ -126,20 +131,16 @@
 				},
 				showRestOfForm(){
 					return this.steps.application.completed;
+				},
+				feedbackComplete(){
+					return Object.values(this.steps).every(s => s.completed);
 				}
 			},
 			methods: {
 				async nextStage(){
 					if(validateForm(this.$el)){
 						if(this.stage === 'start'){
-							const allStepsComplete = Object.values(this.steps).every(s => s.completed);
-							const isUpdatingExistingFeedback = this.modificationKeyMatchesResidencePermitType && this.email;
-							if(allStepsComplete || isUpdatingExistingFeedback){
-								this.goToStage('finish');
-							}
-							else{
-								this.goToStage('email');
-							}
+							this.goToStage(this.feedbackComplete ? 'finish' : 'email');
 						}
 						else{
 							this.goToStage('finish');
@@ -183,11 +184,15 @@
 						);
 						this.isLoading = false;
 						if(response.ok){
+							this.nextStage();
 							const responseJson = await response.json();
-							this.modificationKey = `${responseJson.modification_key}~${this.residencePermitType}`;
+							
+							// No need to modify complete feedback, so the key gets cleared
+							this.modificationKey = this.feedbackComplete ? null : `${responseJson.modification_key}~${this.residencePermitType}`;
 						}
-						this.isLoading = false;
-						this.nextStage();
+						else{
+							this.goToStage('error');
+						}
 					}
 				},
 				stepName(key){
@@ -261,14 +266,15 @@
 		</div>
 	</template>
 	<template v-if="stage === 'finish'">
-		<p>
-			<strong>Thank you for your feedback!</strong> It will help a lot of people.
-		</p>
+		<p><strong>Thank you for your feedback!</strong> This information will help a lot of people.</p>
+	</template>
+	<template v-if="stage === 'error'">
+		<p><strong>An error occured.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 	</template>
 	<template v-if="showRestOfForm && stage !== 'finish'">
 		<hr>
 		<div class="buttons" v-if="showRestOfForm && stage !== 'finish'">
-			<button v-if="stage == 'email'" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
+			<button v-if="stage === 'email' || stage === 'error'" class="button" @click="goToStage('start')"><i class="icon left" aria-hidden="true"></i> Go back</button>
 			<button
 				class="button primary"
 				v-if="stage === 'start'"
