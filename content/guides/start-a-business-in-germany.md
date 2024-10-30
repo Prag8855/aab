@@ -19,9 +19,9 @@ This guide explains how to form a single proprietorship (*Einzelunternehmen*), n
 
 **It's not so bad.** It's a lot of work in the first year. There is a lot to learn, and a lot of paperwork to do. You must be organised. After a year or two, it's easier.
 
-**If you need a [residence permit](/glossary/Aufenthaltstitel)** to live in Germany, it's harder because you must deal with the [immigration office](/glossary/Ausländerbehörde). It takes a few months to [get a freelance visa](/guides/freelance-visa), and you must renew it every few years. This adds a lot of costs, delays and paperwork.
+**If you need a [residence permit](/glossary/Aufenthaltstitel)** to live in Germany, it's harder. You might need to apply for a [freelance visa](/glossary/Freelance%20visa). It adds costs, delays and paperwork. Your current residence permit might allow part-time self-employment, but you might need a freelance visa for full-time self-employment.
 
-**If you don't speak German**, it's much harder. You will need a lot of help. Important letters, online information and official forms are only in German. Most Bürgeramt, Ausländerbehörde and Finanzamt employees only speak German. If you have a problem, you need German to solve it.
+**If you don't speak German**, it's much harder. You will need a lot of help. Important letters, online information and official forms are only in German. Most [[Bürgeramt]], [[Ausländerbehörde]] and [[Finanzamt]] employees only speak German. If you have a problem, you must speak German to solve it.
 
 ## Cost of running a business
 
