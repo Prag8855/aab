@@ -81,8 +81,9 @@
 				}
 
 				// Set the residencePermitType from the modificationKey, but don't override a hard-coded type
-				const residencePermitTypeFromKey = this.modificationKey.split('~')[1];
-				this.residencePermitType = this.residencePermitType || residencePermitTypeFromKey;
+				if(this.modificationKey && !this.residencePermitType){
+					this.residencePermitType = this.modificationKey.split('~')[1];
+				}
 
 				if(this.modificationKey && this.modificationKeyMatchesResidencePermitType){
 					const response = await fetch(this.apiEndpoint);
@@ -164,6 +165,10 @@
 				async submitFeedback(){
 					if(validateForm(this.$el)){
 						this.isLoading = true;
+
+						// Don't set the email before the email stage, even if it's not empty
+						const emailAddress = (this.stage === 'email' && this.email) ? this.email : null;
+
 						const response = await fetch(
 							this.apiEndpoint,
 							{
@@ -173,7 +178,7 @@
 								body: JSON.stringify({
 									application_date: this.steps.application.date,
 									appointment_date: (this.steps.appointment.completed ? this.steps.appointment.date : null),
-									email: this.email || null,
+									email: emailAddress,
 									first_response_date: (this.steps.response.completed ? this.steps.response.date : null),
 									nationality: this.nationality,
 									notes: this.userNotes,
@@ -198,8 +203,8 @@
 				stepName(key){
 					return {
 						application: "I have applied in Berlin",
-						response: "The Ausländerbehörde responded",
-						appointment: "The Ausländerbehörde gave me an appointment",
+						response: "The Ausländerbehörde has replied",
+						appointment: "I have an Ausländerbehörde appointment",
 						pickup: `I received my ${this.residencePermitName}`,
 					}[key];
 				},
