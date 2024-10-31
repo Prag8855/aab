@@ -1,14 +1,14 @@
 {% load humanize %}<p>Hi there,</p>
 
-<p>{{ message.application_date|naturaltime|capfirst }}, you applied for a residence permit at the Berlin immigration office. You gave us a bit of feedback about your experience, but some information is still missing.</p>
+<p>{{ message.feedback.application_date|naturaltime|capfirst }}, you applied for a residence permit at the Berlin immigration office. You gave us a bit of feedback about your experience, but some information is still missing.</p>
 
 <p>This is the information you gave us:</p>
 
 <ul>
-    <li>Application date: {{ message.application_date|date:"F j, Y" }}</li>
-    <li>First Ausländerbehörde response: {% if message.first_response_date %}{{ message.first_response_date|date:"F j, Y" }}{% else %}Missing{% endif %}</li>
-    <li>Appointment date: {% if message.appointment_date %}{{ message.appointment_date|date:"F j, Y" }}{% else %}Missing{% endif %}</li>
-    <li>Residence permit pick-up date: {% if message._date %}{{ message._date|date:"F j, Y" }}{% else %}Missing{% endif %}</li>
+    <li>Application date: {{ message.feedback.application_date|date:"F j, Y" }}</li>
+    <li>First Ausländerbehörde response: {% if message.feedback.first_response_date %}{{ message.feedback.first_response_date|date:"F j, Y" }}{% else %}Missing{% endif %}</li>
+    <li>Appointment date: {% if message.feedback.appointment_date %}{{ message.feedback.appointment_date|date:"F j, Y" }}{% else %}Missing{% endif %}</li>
+    <li>Residence permit pick-up date: {% if message.feedback.pick_up_date %}{{ message.feedback.pick_up_date|date:"F j, Y" }}{% else %}Missing{% endif %}</li>
 </ul>
 
 <p>Can you <a href="https://allaboutberlin.com/tools/residence-permit-feedback?utm_source=email_reminder#feedbackKey={{ message.feedback.modification_key }}~{{ message.feedback.residence_permit_type }}">add missing information about your experience</a>? It will take a minute, and it will help thousands of people.</p>

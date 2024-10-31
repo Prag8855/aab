@@ -104,7 +104,7 @@ class ScheduledMessage(BaseModel):
         self.status = MessageStatus.REDACTED
 
     def get_body(self) -> str:
-        return render_to_string(self.template(), {'message': self})
+        return render_to_string(self.template, {'message': self})
 
     class Meta:
         abstract = True
