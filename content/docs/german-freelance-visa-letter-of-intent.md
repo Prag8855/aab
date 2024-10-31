@@ -10,6 +10,7 @@ Related_guides:
     guides/freelance-visa-letter-of-intent.md
     guides/freelance-visa.md
     guides/berlin-auslanderbehorde-appointment.md
+    guides/residence-permit.md
     guides/start-a-business-in-germany.md
     guides/renew-german-freelance-visa.md
 Categories:

@@ -7,6 +7,7 @@ English_document: documents/residence-permit-application-form-2021.pdf
 Description: Fill this form to apply for a German residence permit like the work visa or freelance visa. It's in English, German and 9 other languages.
 Date_created: 2018-06-07
 Related_guides:
+    guides/residence-permit.md
     guides/freelance-visa.md
     guides/work-visa.md
     guides/start-a-business-in-germany.md
