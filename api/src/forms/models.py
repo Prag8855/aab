@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
+from django.conf import settings
 from django.core.exceptions import ValidationError
 from django.db import models
 from django.template.loader import render_to_string
@@ -26,6 +27,18 @@ class EmailMixin(models.Model):
 
     class Meta:
         abstract = True
+
+
+class ReplyToSenderMixin:
+    @property
+    def reply_to(self) -> str:
+        return self.email
+
+
+class RecipientIsSenderMixin:
+    @property
+    def recipients(self) -> str:
+        return [self.email, ]
 
 
 class NameMixin(models.Model):
@@ -69,36 +82,30 @@ class ScheduledMessage(BaseModel):
     delivery_date = models.DateTimeField(default=timezone.now)
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
 
+    recipients: List[str] = []
+    subject: str = ''
+    template: str = None
+    reply_to: str = None
+
     def save(self, *args, **kwargs):
         logger.info(f'Scheduling 1 message ({self.__class__.__name__})')
+        if settings.DEBUG_EMAILS:
+            logger.info(
+                "NEW EMAIL MESSAGE\n"
+                f"Created on: \n{self.creation_date}\n"
+                f"Deliver on: \n{self.delivery_date}\n"
+                f"To: {', '.join(self.recipients)}\n"
+                f"Reply-To: {self.reply_to}\n"
+                f"Subject: {self.subject}\n"
+                f"Body: \n{self.get_body()}"
+            )
         super().save(*args, **kwargs)
 
     def remove_personal_data(self):
         self.status = MessageStatus.REDACTED
 
-    def get_recipients(self) -> List[str]:
-        raise NotImplemented()
-
-    def get_subject(self) -> str:
-        raise NotImplemented()
-
     def get_body(self) -> str:
-        raise NotImplemented()
-
-    def get_reply_to(self) -> str:
-        return None
-
-    class Meta:
-        abstract = True
-
-
-class ScheduledReminder(EmailMixin, ScheduledMessage):
-    """
-    Reminders are sent to the sender, not to a third party
-    """
-
-    def get_recipients(self):
-        return [self.email, ]
+        return render_to_string(self.template(), {'message': self})
 
     class Meta:
         abstract = True
@@ -114,12 +121,15 @@ class Feedback(EmailMixin, BaseModel):
         abstract = True
 
 
-class HealthInsuranceQuestion(NameMixin, EmailMixin, ScheduledMessage):
+class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
     age = models.PositiveSmallIntegerField()
     income_over_limit = models.BooleanField()  # Above or below the Versicherungspflichtgrenze
     occupation = models.CharField(max_length=50)  # "Self-employed"
     phone = models.CharField(max_length=30, blank=True)
     question = models.TextField()
+
+    recipients = ['hello@feather-insurance.com', ]
+    template = 'health-insurance-question.html'
 
     def save(self, *args, **kwargs):
         if not self.pk:
@@ -132,28 +142,14 @@ class HealthInsuranceQuestion(NameMixin, EmailMixin, ScheduledMessage):
         self.occupation = 'unknown'
         self.phone = filler_string
 
-    def get_recipients(self) -> List[str]:
-        return ['hello@feather-insurance.com', ]
-
-    def get_subject(self) -> str:
+    @property
+    def subject(self) -> str:
         return f"Health insurance question from {self.name} (All About Berlin)"
 
-    def get_body(self) -> str:
-        return render_to_string('health-insurance-question.html', {'message': self})
 
-    def get_reply_to(self) -> str:
-        return self.email
-
-
-class HealthInsuranceQuestionConfirmation(NameMixin, EmailMixin, ScheduledMessage):
-    def get_recipients(self) -> List[str]:
-        return [self.email, ]
-
-    def get_subject(self) -> str:
-        return f"Feather will contact you soon"
-
-    def get_body(self) -> str:
-        return render_to_string('health-insurance-question-confirmation.html', {'message': self})
+class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+    subject = 'Feather will contact you soon'
+    template = 'health-insurance-question-confirmation.html'
 
 
 class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
@@ -161,17 +157,12 @@ class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
     country_of_residence = CountryField()
     question = models.TextField()
 
-    def get_recipients(self) -> List[str]:
-        return ['partner@fundsback.org', ]
+    recipients = ['partner@fundsback.org', ]
+    template = 'pension-refund-question.html'
 
-    def get_subject(self) -> str:
+    @property
+    def subject(self) -> str:
         return f"Pension refund question from {self.name} (All About Berlin)"
-
-    def get_body(self) -> str:
-        return render_to_string('pension-refund-question.html', {'message': self})
-
-    def get_reply_to(self) -> str:
-        return self.email
 
 
 pension_refund_partners = {
@@ -181,7 +172,7 @@ pension_refund_partners = {
 }
 
 
-class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
+class PensionRefundRequest(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
     arrival_date = models.DateField()
     birth_date = models.DateField()
     country_of_residence = CountryField()
@@ -189,31 +180,26 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
     nationality = CountryField()
     partner = models.CharField(max_length=30, choices=pension_refund_partners)
 
+    template = 'pension-refund-request.html'
+
     def remove_personal_data(self):
         super().remove_personal_data()
         self.birth_date = filler_date
 
-    def get_recipients(self) -> List[str]:
+    @property
+    def recipients(self) -> List[str]:
         return [pension_refund_partners[self.partner], ]
 
-    def get_subject(self) -> str:
+    @property
+    def subject(self) -> str:
         return f"Pension refund request from {self.name} (All About Berlin)"
 
-    def get_body(self) -> str:
-        return render_to_string('pension-refund-request.html', {'message': self})
 
-    def get_reply_to(self) -> str:
-        return self.email
-
-
-class PensionRefundReminder(ScheduledReminder):
+class PensionRefundReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     refund_amount = models.PositiveIntegerField()
 
-    def get_subject(self) -> str:
-        return f"Reminder: you can now get your German pension payments back"
-
-    def get_body(self) -> str:
-        return render_to_string('pension-refund-reminder.html', {'message': self})
+    subject = "Reminder: you can now get your German pension payments back"
+    template = 'pension-refund-reminder.html'
 
 
 def in_8_weeks():
@@ -262,24 +248,18 @@ class ResidencePermitFeedback(Feedback):
                 )
 
 
-class ResidencePermitFeedbackReminder(ScheduledReminder):
+class ResidencePermitFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     feedback = models.ForeignKey(ResidencePermitFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
 
-    def get_subject(self) -> str:
-        return f"Did you get your residence permit?"
-
-    def get_body(self) -> str:
-        return render_to_string('residence-permit-feedback-reminder.html', {'message': self})
+    subject = "Did you get your residence permit?"
+    template = 'residence-permit-feedback-reminder.html'
 
 
-class TaxIdRequestFeedbackReminder(NameMixin, ScheduledReminder):
+class TaxIdRequestFeedbackReminder(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     delivery_date = models.DateTimeField(default=in_8_weeks)
 
-    def get_subject(self) -> str:
-        return f"Did you receive your tax ID?"
-
-    def get_body(self) -> str:
-        return render_to_string('tax-id-request-feedback-reminder.html', {'message': self})
+    subject = "Did you receive your tax ID?"
+    template = 'tax-id-request-feedback-reminder.html'
 
 
 scheduled_message_models = [

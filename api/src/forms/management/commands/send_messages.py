@@ -33,17 +33,17 @@ class Command(BaseCommand):
                     if settings.DEBUG_EMAILS:
                         logger.info(
                             "EMAIL MESSAGE\n"
-                            f"To: {', '.join(message.get_recipients())}\n"
-                            f"Reply-To: {message.get_reply_to()}\n"
-                            f"Subject: {message.get_subject()}\n"
+                            f"To: {', '.join(message.recipients)}\n"
+                            f"Reply-To: {message.reply_to}\n"
+                            f"Subject: {message.subject}\n"
                             f"Body: \n{message.get_body()}"
                         )
                     else:
                         send_email(
-                            message.get_recipients(),
-                            message.get_subject(),
+                            message.recipients,
+                            message.subject,
                             message.get_body(),
-                            message.get_reply_to()
+                            message.reply_to
                         )
                     message.status = MessageStatus.SENT
                     successes += 1
