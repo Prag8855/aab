@@ -1,5 +1,5 @@
 from django_countries.serializers import CountryFieldMixin
-from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
+from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, \
     PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from rest_framework.serializers import HyperlinkedModelSerializer, IntegerField, CharField
 
