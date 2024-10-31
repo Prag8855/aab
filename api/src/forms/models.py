@@ -28,6 +28,17 @@ class EmailMixin(models.Model):
         abstract = True
 
 
+class NameMixin(models.Model):
+    name = models.CharField(max_length=150)
+
+    def remove_personal_data(self):
+        super().remove_personal_data()
+        self.name = filler_string
+
+    class Meta:
+        abstract = True
+
+
 class BaseModel(models.Model):
     def save(self, *args, **kwargs):
         self.full_clean()
@@ -93,12 +104,21 @@ class ScheduledReminder(EmailMixin, ScheduledMessage):
         abstract = True
 
 
-class HealthInsuranceQuestion(EmailMixin, ScheduledMessage):
-    name = models.CharField(max_length=150)
-    phone = models.CharField(max_length=30, blank=True)
+class Feedback(EmailMixin, BaseModel):
+    modification_key = models.CharField(primary_key=True, max_length=32, unique=True, default=random_key)
+    creation_date = models.DateTimeField(auto_now_add=True)
+    modification_date = models.DateTimeField(auto_now=True)
+    email = models.EmailField(validators=[validate_email], blank=True, null=True)
+
+    class Meta:
+        abstract = True
+
+
+class HealthInsuranceQuestion(NameMixin, EmailMixin, ScheduledMessage):
+    age = models.PositiveSmallIntegerField()
     income_over_limit = models.BooleanField()  # Above or below the Versicherungspflichtgrenze
     occupation = models.CharField(max_length=50)  # "Self-employed"
-    age = models.PositiveSmallIntegerField()
+    phone = models.CharField(max_length=30, blank=True)
     question = models.TextField()
 
     def save(self, *args, **kwargs):
@@ -110,7 +130,6 @@ class HealthInsuranceQuestion(EmailMixin, ScheduledMessage):
         super().remove_personal_data()
         self.age = 0
         self.occupation = 'unknown'
-        self.name = filler_string
         self.phone = filler_string
 
     def get_recipients(self) -> List[str]:
@@ -126,9 +145,7 @@ class HealthInsuranceQuestion(EmailMixin, ScheduledMessage):
         return self.email
 
 
-class HealthInsuranceQuestionConfirmation(EmailMixin, ScheduledMessage):
-    name = models.CharField(max_length=150)
-
+class HealthInsuranceQuestionConfirmation(NameMixin, EmailMixin, ScheduledMessage):
     def get_recipients(self) -> List[str]:
         return [self.email, ]
 
@@ -139,15 +156,10 @@ class HealthInsuranceQuestionConfirmation(EmailMixin, ScheduledMessage):
         return render_to_string('health-insurance-question-confirmation.html', {'message': self})
 
 
-class PensionRefundQuestion(EmailMixin, ScheduledMessage):
-    name = models.CharField(max_length=150)
+class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
     nationality = CountryField()
     country_of_residence = CountryField()
     question = models.TextField()
-
-    def remove_personal_data(self):
-        super().remove_personal_data()
-        self.name = filler_string
 
     def get_recipients(self) -> List[str]:
         return ['partner@fundsback.org', ]
@@ -169,18 +181,16 @@ pension_refund_partners = {
 }
 
 
-class PensionRefundRequest(EmailMixin, ScheduledMessage):
-    name = models.CharField(max_length=150)
-    nationality = CountryField()
-    country_of_residence = CountryField()
+class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
     arrival_date = models.DateField()
-    departure_date = models.DateField()
     birth_date = models.DateField()
+    country_of_residence = CountryField()
+    departure_date = models.DateField()
+    nationality = CountryField()
     partner = models.CharField(max_length=30, choices=pension_refund_partners)
 
     def remove_personal_data(self):
         super().remove_personal_data()
-        self.name = filler_string
         self.birth_date = filler_date
 
     def get_recipients(self) -> List[str]:
@@ -208,27 +218,6 @@ class PensionRefundReminder(ScheduledReminder):
 
 def in_8_weeks():
     return timezone.now() + timedelta(weeks=8)
-
-
-class TaxIdRequestFeedbackReminder(ScheduledReminder):
-    name = models.CharField(max_length=150)
-    delivery_date = models.DateTimeField(default=in_8_weeks)
-
-    def get_subject(self) -> str:
-        return f"Did you receive your tax ID?"
-
-    def get_body(self) -> str:
-        return render_to_string('tax-id-request-feedback-reminder.html', {'message': self})
-
-
-class Feedback(BaseModel):
-    modification_key = models.CharField(primary_key=True, max_length=32, unique=True, default=random_key)
-    creation_date = models.DateTimeField(auto_now_add=True)
-    modification_date = models.DateTimeField(auto_now=True)
-    email = models.EmailField(validators=[validate_email], blank=True, null=True)
-
-    class Meta:
-        abstract = True
 
 
 class ResidencePermitFeedback(Feedback):
@@ -281,6 +270,16 @@ class ResidencePermitFeedbackReminder(ScheduledReminder):
 
     def get_body(self) -> str:
         return render_to_string('residence-permit-feedback-reminder.html', {'message': self})
+
+
+class TaxIdRequestFeedbackReminder(NameMixin, ScheduledReminder):
+    delivery_date = models.DateTimeField(default=in_8_weeks)
+
+    def get_subject(self) -> str:
+        return f"Did you receive your tax ID?"
+
+    def get_body(self) -> str:
+        return render_to_string('tax-id-request-feedback-reminder.html', {'message': self})
 
 
 scheduled_message_models = [
