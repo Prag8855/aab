@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-rm#p9c7f!%q1&=-l+m6lx^9=cl2f301=+d3eu0n3x^yfy1yg51
 # SECURITY WARNING: don't run with debug turned on in production!
 MAILGUN_API_KEY = os.environ.get('MAILGUN_API_KEY')
 DEBUG = bool(int(os.environ.get('DEBUG', '0')))
-DEBUG_EMAILS = DEBUG  # Print emails instead of sending them
+DEBUG_EMAILS = bool(int(os.environ.get('DEBUG_EMAILS', '0')))  # Print emails instead of sending them
 
 ALLOWED_HOSTS = ['allaboutberlin.com', 'localhost']
 

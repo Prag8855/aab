@@ -91,9 +91,8 @@ class ScheduledMessage(BaseModel):
         logger.info(f'Scheduling 1 message ({self.__class__.__name__})')
         if settings.DEBUG_EMAILS:
             logger.info(
-                "NEW EMAIL MESSAGE\n"
-                f"Created on: \n{self.creation_date}\n"
-                f"Deliver on: \n{self.delivery_date}\n"
+                "SCHEDULING EMAIL MESSAGE\n"
+                f"Deliver on: {self.delivery_date}\n"
                 f"To: {', '.join(self.recipients)}\n"
                 f"Reply-To: {self.reply_to}\n"
                 f"Subject: {self.subject}\n"

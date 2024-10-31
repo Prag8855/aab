@@ -8,6 +8,8 @@ services:
       target: dev
       args:
         - "SSL_DOMAIN=localhost"
+    environment:
+      - "DEBUG_EMAILS"
     volumes:
       - "./api/src:/srv/app"
   proxy:

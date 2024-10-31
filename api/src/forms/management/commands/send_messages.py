@@ -20,7 +20,7 @@ class Command(BaseCommand):
         else:
             logger.info('Sending scheduled messages...')
 
-            if not settings.MAILGUN_API_KEY:
+            if not settings.DEBUG and not settings.MAILGUN_API_KEY:
                 raise Exception("MAILGUN_API_KEY is not set")
 
         successes = 0
@@ -30,14 +30,17 @@ class Command(BaseCommand):
             scheduled_messages = model.objects.filter(status=MessageStatus.SCHEDULED, delivery_date__lte=timezone.now())
             for message in scheduled_messages:
                 try:
-                    if settings.DEBUG_EMAILS:
-                        logger.info(
-                            "EMAIL MESSAGE\n"
-                            f"To: {', '.join(message.recipients)}\n"
-                            f"Reply-To: {message.reply_to}\n"
-                            f"Subject: {message.subject}\n"
-                            f"Body: \n{message.get_body()}"
-                        )
+                    if settings.DEBUG:
+                        if settings.DEBUG_EMAILS:
+                            logger.info(
+                                "SENDING EMAIL MESSAGE\n"
+                                f"To: {', '.join(message.recipients)}\n"
+                                f"Reply-To: {message.reply_to}\n"
+                                f"Subject: {message.subject}\n"
+                                f"Body: \n{message.get_body()}"
+                            )
+                        else:
+                            logger.info(f"Pretending to send 1 message ({message.__class__.__name__})")
                     else:
                         send_email(
                             message.recipients,
