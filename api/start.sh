@@ -2,7 +2,10 @@
 set -e
 set -x
 
-python3 manage.py makemigrations
+if [ "${DEBUG:-0}" -eq 1 ]; then
+    # Do not generate migrations in production
+    python3 manage.py makemigrations
+fi
 python3 manage.py migrate --noinput
 
 # Capture cron logs
