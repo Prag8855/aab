@@ -49,6 +49,8 @@ You can send your residence permit application by [registered mail](/glossary/Ei
 
 **If you [apply for a Blue Card](/guides/blue-card)**, don't use the contact form. There is a [different form](/guides/blue-card#apply-for-the-blue-card-online) for the Blue Card.
 
+{% include "_blocks/feedbackResidencePermitStatic.html" %}
+
 ### Book an appointment online
 
 You can't book an appointment online. The *Ausländerbehörde* disabled its appointment system in August 2024.
@@ -146,6 +148,12 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 ![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat-2.jpg "Payment machines at the Ausländerbehörde")
 
 ## After your appointment
+
+### Give feedback
+
+Your feedback helps me improve the information on this website. It will help thousands of people plan their residence permit application.
+
+{% include "_blocks/feedbackResidencePermitStatic.html" %}
 
 ### If your application is approved
 
