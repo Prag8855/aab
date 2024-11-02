@@ -70,11 +70,25 @@ class MessageStatus(models.IntegerChoices):
 
 class ResidencePermitTypes(models.TextChoices):
     BLUE_CARD = 'BLUE_CARD', "Blue Card"
+    CITIZENSHIP = 'CITIZENSHIP', "Citizenship"
     FAMILY_REUNION_VISA = 'FAMILY_REUNION_VISA', "Family reunion visa"
     FREELANCE_VISA = 'FREELANCE_VISA', "Freelance visa"
     PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
     STUDENT_VISA = 'STUDENT_VISA', "Student visa"
     WORK_VISA = 'WORK_VISA', "Work visa"
+
+
+class Departments(models.TextChoices):
+    A1_A5 = 'A1_A5', "A1, A5"
+    A2_A3_A4 = 'A2_A3_A4', "A2, A3, A4"
+    B1_B2_B3_B4 = 'B1_B2_B3_B4', "B1, B2, B3, B4"
+    B6 = 'B6', "B6"
+    E1 = 'E1', "E1"
+    E2 = 'E2', "E2"
+    E3 = 'E3', "E3"
+    E4 = 'E4', "E4"
+    E5 = 'E5', "E5"
+    E6 = 'E6', "E6"
 
 
 class ScheduledMessage(BaseModel):
@@ -207,12 +221,13 @@ def in_8_weeks():
 
 class ResidencePermitFeedback(Feedback):
     residence_permit_type = models.CharField(choices=ResidencePermitTypes, max_length=30)
+
     application_date = models.DateField()
     first_response_date = models.DateField(null=True, blank=True)
     appointment_date = models.DateField(null=True, blank=True)
     pick_up_date = models.DateField(null=True, blank=True)
 
-    nationality = CountryField()
+    department = models.CharField(max_length=30, choices=Departments)
     notes = models.TextField(blank=True)
 
     def clean(self):

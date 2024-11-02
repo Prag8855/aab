@@ -80,11 +80,12 @@ class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
         model = ResidencePermitFeedback
         fields = [
             'modification_key',
+            'creation_date',
             'application_date',
             'appointment_date',
             'email',
             'first_response_date',
-            'nationality',
+            'department',
             'notes',
             'pick_up_date',
             'residence_permit_type',
