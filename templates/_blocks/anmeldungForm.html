@@ -179,8 +179,8 @@
 			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<div class="input-group">
-					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)" required>
-						<option disabled hidden default value="">Choose a church</option>
+					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)"  :class="{placeholder: !person.religion}" required>
+						<option disabled hidden default :value="null">Choose a church</option>
 						<option value="Evangelische Kirche">Evangelical Church</option>
 						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
 						<option value="Jüdische Gemeinde">Jewish Community</option>
