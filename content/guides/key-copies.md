@@ -17,8 +17,6 @@ If you [lost your keys](/guides/lost-keys), or if you want keys for your friends
 
 **[What to do if you lost your keys ➞](/guides/lost-keys)**
 
-![Apartment keys](/illustrations/apartment-keys.png)
-
 ## How to get extra keys
 
 ### Regular keys
