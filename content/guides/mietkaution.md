@@ -87,7 +87,7 @@ Your landlord can use your deposit to...
 - **Pay your debts**  
     For example if you leave without paying your rent or your *[[Nebenkosten]]*.[^9]
 - **Replace missing keys**  
-    If you lost some of your apartment keys. You only pay for the cost of replacing the keys. The landlord might replace all the locks in the building, but [this is rarely necessary](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks), and you rarely have to pay for it.
+    If you [lost your apartment keys](/guides/lost-keys). You only pay for the cost of replacing the keys. The landlord might replace all the locks in the building, but [this is rarely necessary](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks), and you rarely have to pay for it.
 
 Your landlord can't use your deposit to...
 

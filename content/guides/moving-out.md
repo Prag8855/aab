@@ -128,7 +128,7 @@ This meeting - the *[[Wohnungsübergabe]]* - is very important. Always be there 
 
 ### Return the keys
 
-You must give your apartment keys back to your landlord. There should be as many keys as when you moved in.
+You must give your apartment keys back to your landlord. There should be as many keys as when you moved in. If you [made copies of your keys](/guides/key-copies), you must give back all the copies too.
 
 ### Read the electricity meter
 

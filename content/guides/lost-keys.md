@@ -9,29 +9,33 @@ Locking yourself out happens to everyone. This guide shows you how to get back i
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Calling a locksmith in Berlin
+## If you lost your keys
 
-If you are locked out of your apartment, you must call a locksmith (*Schlüsseldienst*). It should cost 50€ to 150€ to open a door, depending on the the time. Locksmiths charge more at night and during the weekend.
+If your keys were lost or stolen, you must **tell your landlord**. Then you can [make copies](/guides/key-copies) to replace the lost keys.
 
-When you call a locksmith, ask for the price on the telephone. If possible, ask for a fixed price. Call multiple locksmiths if necessary. There are many dishonest locksmiths who charge special fees.[^0] After they open the door, they charge you hundreds of euros.
+The landlord might want to replace all the locks in the building. It costs thousands of euros. They might try to make you pay for it. In most cases, you don't have to pay. If you have [liability insurance](/glossary/Haftpflichtversicherung), your insurance pays for it.
 
-I used [Albert Schlüsseldienst](https://maps.app.goo.gl/cg9FMAuMY3rCwpj88) 3 times in the past. They charged 50€ to 90€ to open a door.[^4] [AS Schlüsseldienst](https://maps.app.goo.gl/ycoJ8YEV9bhtmQo37) is often recommended too, but they charge more.
+**[More information ➞](#do-i-need-to-pay-to-replace-the-locks)**
 
-After the locksmith opens your door, you must prove that you live there. You can show your passport or your *[[Meldebescheinigung]]*. Ask for a receipt and keep it. Your household insurance (*[[Hausratversicherung]]*) might cover the cost of calling a locksmith. For example, [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^1] and they speak English. Liability insurance (*[[Haftpflichtversicherung]]*) does not cover this.
+## If you locked yourself out
 
-## Replacing lost keys in Germany
+If you are locked out of your apartment, you must **call a locksmith** (*Schlüsseldienst*). It should cost 50€ to 150€ to open a door, depending on the the time. Locksmiths charge more at night and during the weekend.
 
-Replacing your keys is cheap and easy: just go to any locksmith (*Schlüsseldienst*) and ask them for a new key. We paid around 5€ per key.
+When you call a locksmith, **ask for a fixed price**. Call multiple locksmiths if needed. Many dishonest locksmiths give one price, but add lots of special fees. After they opened the door, they ask for a much higher price.[^0]
 
-The only exception is your building key (the key you use to enter the building). You need permission from your *[[Hausverwaltung]]* to replace a building key.[^2] The *Hausverwaltung* will give you a card (*Schlüsselkarte* or *Schließplan*) that you must bring to the locksmith. Building keys are more expensive to replace: around 50€ per key.
+I used [Albert Schlüsseldienst](https://maps.app.goo.gl/cg9FMAuMY3rCwpj88) 3 times in the past. They charged 50€ to 90€ to open a door.[^4] [AS Schlüsseldienst](https://maps.app.goo.gl/ycoJ8YEV9bhtmQo37) is often recommended too.
 
-Some locksmiths will replace your building key without permission from the *Hausverwaltung*.[^5] Your new key might look different. If you move out, you need to give your keys back. Your landlord might notice that one key looks different.
+After the locksmith opens your door, you must prove that you live there. You can show your passport or your *[[Meldebescheinigung]]*.
 
-Vehicle keys can be replaced at the dealership.[^6]
+**Ask for a receipt** and keep it. Your household insurance (*[[Hausratversicherung]]*) might cover the cost of calling a locksmith. For example, [Feather](/out/feather-hausrat)'s household insurance covers locksmiths,[^1] and they speak English. Liability insurance (*[[Haftpflichtversicherung]]*) does not cover this.
+
+## How to replace lost keys
+
+**[How to get copies of your keys ➞](/guides/key-copies)**
 
 ## Do I need to pay to replace the locks?
 
-**It depends** on what happened to your keys.
+**Probably not.** It depends on what happened to your keys.
 
 When you [move out of your apartment](/guides/moving-out), you must give your keys back. If some keys are missing, your landlord can charge you to replace the keys and all the locks in the building. This can be *very* expensive. They can take the money from your *[[Kaution]]*.
 
@@ -59,11 +63,8 @@ Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtvers
 
 [^0]: [stern.de](https://www.stern.de/wirtschaft/news/schluesseldienst-betrug--rechnung-ueber-1240-euro-fuer-einmal-tuer-aufmachen-8485766.html), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hlohza/looks_like_i_got_scammed_of_400_euros_by/)
 [^1]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
-[^2]: [berlinerisch.com](http://berlinerisch.com/blog/2018/09/20/lose-your-german-apartment-keys/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/277492/lost_my_apartment_key/)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^4]: [a-schluesseldienstberlin.de](https://a-schluesseldienstberlin.de/tueroeffnung-berlin/)
-[^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4bmolo/copying_an_apartment_key_without_the/d1an7l0/)
-[^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9gyyeu/lost_my_car_keys_by_the_canal_by_the_landwehr/)
 [^7]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/bgh/bgh1409.htm)
 [^8]: [mieterbund.de](https://www.mieterbund.de/mietrecht/bgh-urteile-mietrecht/bgh-urteil-detailansicht/article/23920-mieter-muss-bei-schluesselverlust-unter-umstaenden-neue-schliessanlage-bezahlen.html)
 [^9]: [focus.de](https://www.focus.de/immobilien/mieten/tausende-euro-mehrkosten-vermeiden-schluessel-verloren-wenn-sie-nicht-aufpassen-kann-es-richtig-teuer-werden_id_4849172.html)

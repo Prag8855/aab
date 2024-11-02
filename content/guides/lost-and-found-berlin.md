@@ -19,7 +19,7 @@ If you lost something in the S-Bahn, U-Bahn, tram or bus, you must go to the [BV
 
 - **Where to go:** [BVG- und S-Bahn-Fundbüro](https://goo.gl/maps/GJZxQegzo6Ay57AJ6), Rudolfstraße 1-8, Friedrichshain.
 - **When to go:** Wait at least 5 days, but no more than 6 weeks. Found objects arrive at the Fundbüro in around 5 days.[^0] Keys and personal documents are destroyed after 6 weeks.
-- **Special instructions:** When you go to the Fundbüro, bring an ID document with you. If you lost keys, bring a copy of the lost keys. This is how you prove that the keys are yours. If you find your things, you get them back immediately. You don't need to pay anything.[^0]
+- **Special instructions:** When you go to the Fundbüro, bring an ID document with you. If you [lost your keys](/guides/lost-keys), bring a copy of the lost keys. This is how you prove that the keys are yours. If you find your things, you get them back immediately. You don't need to pay anything.[^0]
 
 If you lost something on a Flixbus bus, you must their [lost item search](https://help.flixbus.com/s/lost-and-found?language=de)
 
@@ -62,6 +62,10 @@ Lost pets are kept at [Tierheim Berlin](https://maps.app.goo.gl/meNZDT2FhqojNkTN
 ## Lost packages
 
 When you order a package, it's often delivered to a neighbour or nearby shop. The tracking number or the delivery slip often have more information. If you don't know where your package is, read [this guide](/guides/package-delivery#where-is-my-package).
+
+## Lost keys
+
+**[What to do if you lose your keys ➞](/guides/lost-keys)
 
 ## Other lost and found objects
 

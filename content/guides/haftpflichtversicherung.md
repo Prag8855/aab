@@ -31,7 +31,7 @@ Personal liability insurance (*Privathaftpflichtversicherung*) covers...[^1]
 Some insurance policies also cover...
 
 - **Lost keys**  
-    If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks).[^5] This can get *really* expensive. You should get insurance that covers this. Some leases require liability insurance that covers lost keys, but that's not legal.[^28]
+    If you lose your apartment keys, the landlord might need to [replace the locks for the entire building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks), and you might have to pay for it.[^5] This can cost thousands of euros. Get liability insurance that covers this. Some leases require liability insurance that covers lost keys, but that's not legal.[^28]
 - **Damage to things you rent or borrow** (*geliehene Sachen*)  
     For example, you break the couch in your furnished apartment,[^6] you damage a hotel room while you are on vacation,[^7] or you borrow a neighbour's drill and you break it.[^8]
 - **Damage while helping a friend** (*Gefälligkeitsschäden*)  
@@ -70,7 +70,7 @@ It usually costs **less than 5€ per month**, or around 60€ per year. You can
 
 ## The best liability insurance
 
-If you feel lazy, **choose [Feather](/out/feather-haftpflicht) or [Getsafe](/out/getsafe-haftpflicht).** Both options are fine. They both speak English, cover lost keys, and have contracts in English. I have my liability insurance with Feather since 2022.
+If you feel lazy, **choose [Feather](/out/feather-haftpflicht) or [Getsafe](/out/getsafe-haftpflicht).** Both options are fine. They both speak English, cover [lost keys](/guides/lost-keys), and have contracts in English. I have my liability insurance with Feather since 2022.
 
 To choose liability insurance yourself...
 
@@ -95,7 +95,7 @@ Your liability insurance must cover you well. This is the minimum it should cove
 - **Coverage for rented things** (*geliehene Sachen*)  
     If you rent a furnished apartment, it should cover rented things. This covers you if you break the furniture.
 
-I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys#replacing-lost-keys-in-germany) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most insurers cover lost keys, including [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht).
+I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most insurers cover lost keys, including [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht).
 
 If you often rent vehicles, you can pay around 1€/month more to cover rented vehicles. This covers the car rental company's deductible if you damage the car.
 

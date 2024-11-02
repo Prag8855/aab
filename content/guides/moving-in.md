@@ -29,22 +29,25 @@ A lawyer or a tenants' union (*[[Mieterverein]]*) can check your lease. They can
 
 After you sign the lease, you get...
 
-- The tenancy confirmation (*[[Wohnungsgeberbestätigung]]*) - You need it to register your address.
-- The handover document (*[[Übergabeprotokoll]]*) - You usually get this after you get the apartment keys.
-- The signed lease - You need this to register your address (*[[Anmeldung]]*), and to apply for a [residence permit](/glossary/Aufenthaltstitel).
+- **The tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
+    You need it to [register your address](/glossary/Anmeldung). You might need it to apply for a [residence permit](/glossary/Aufenthaltstitel).
+- **The handover document** (*[[Übergabeprotokoll]]*)  
+    You get it during the handover (*[[Wohnungsübergabe]]*). It describes the condition of the apartment.
+- **The signed lease**  
+    You need this to register your address, and to apply for a residence permit.
 
 ### Get the keys
 
 After you sign the lease, you meet with the landlord to...
 
 - **Fill the handover document** (*[[Übergabeprotokoll]]*)  
-    It describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken taps and other problems.
+    It describes the condition of the apartment. You must return the apartment in the same condition. It should describe everything: scratches on the floor, holes in the wall, broken taps and other problems. It also tells you how many apartment keys you received.
 - **Get the [[Wohnungsgeberbestätigung]]**  
-    Before or during the handover, you get a [*Wohnungsgeberbestätigung*](/glossary/Wohnungsgeberbest%C3%A4tigung). You need it to [register your address](/guides/anmeldung-in-english-berlin) (*[[Anmeldung]]*).
+    Before or during the handover, you get a *[[Wohnungsgeberbestätigung]]*. You need it to [register your address](/glossary/Anmeldung), and to apply for a [residence permit](/glossary/Aufenthaltstitel).
 - **Read the electricity meter**  
-    When you sign an electricity contract, you need to give the electricity provider your meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*). The electricity meter is usually hidden in the basement.
+    When you sign an electricity contract, you need to give the electricity provider your meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*). The electricity meter is usually in the basement, or in a small panel inside your apartment.
 - **Get the apartment keys**  
-    You will get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[[Übergabeprotokoll]]*. Some landlords ask you to pay the [deposit](/glossary/Kaution) before they give you the keys, but that's not legal, even if it's written in your lease.[^0]
+    Get the keys for your apartment, your mailbox, and the cellar. You should get the same number of keys as in the *[[Übergabeprotokoll]]*. Your landlord can't ask you to pay the [deposit](/glossary/Kaution) before they give you the keys.[^0] Every adult in the household should get one free set of keys.[^2] You can [make more copies](/guides/key-copies) later.
 
 During the handover, **take a lot of pictures**. When you [move out](/guides/moving-out), the landlord might try to make you pay for damages that were already there. These photos can help you [get your deposit back](/guides/mietkaution#how-to-get-your-kaution-back).
 
@@ -52,7 +55,7 @@ During the handover, **take a lot of pictures**. When you [move out](/guides/mov
 
 ### Pay the deposit
 
-Most apartments have a deposit (*[[Kaution]]*). It can't be more than 3 times your [cold rent](/glossary/Kaltmiete). [Short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) usually has a smaller deposit. You get your deposit back when you [move out](/guides/moving-out).
+Almost all apartments have a deposit (*[[Kaution]]*). It can't be more than 3 times your [cold rent](/glossary/Kaltmiete). [Short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) usually has a smaller deposit. You get your deposit back when you [move out](/guides/moving-out).
 
 If you don't have enough money for the deposit, there are [other options](/guides/mietkaution#if-you-dont-have-enough-money).
 
@@ -251,7 +254,7 @@ Germans ventilate their apartments every day, even in winter. They open all the 
 
 Ventilation is sometimes required in your lease, because it helps prevents mold.
 
-**[More information](https://berlincheap.com/heating/)** - Berlin Cheap
+**[More information ➞](https://berlincheap.com/heating/)**
 
 ### Heating and radiators
 
@@ -261,9 +264,11 @@ You control the heating in your apartment with the dial on your radiators. The �
 
 Some newer apartments have heated floors instead of radiators. You control them with a thermostat on the wall.
 
-**[More information](https://berlincheap.com/heating/)** - Berlin Cheap
+**[More information ➞](https://berlincheap.com/heating/)**
 
-Sometimes, your landlord will remove air in your radiators with an *[Entlüftungsschlüßel](https://www.google.de/search?tbm=isch&q=entlüftungsschlüssel)*. You can do it yourself; it's very easy. It takes a few seconds, and it makes your radiators work better.
+Sometimes, your landlord will remove air in your radiators with an *[Entlüftungsschlüssel](/images/entlueftungschluessel.jpg)*. You can do it yourself; it's very easy. It takes a few seconds, and it makes your radiators work better. You should do it every year.
+
+![Entlüftungsschlüssel](/images/entlueftungschluessel.jpg "Use an Entlüftungsschlüssel to remove air in your radiator")
 
 ## Need help?
 
@@ -271,6 +276,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
 [^1]: [jurarat.de](https://jurarat.de/muendlicher-mietvertrag#:~:text=In%20K%C3%BCrze%3A-,ein%20mundlicher%20mietvertrag%20ist%20bindend,-und%20entsteht%20durch) (2022), [dahag.de](https://www.dahag.de/c/ebs/zivilrecht/begruendet-die-muendliche-zusage-einen-mietvertrag-4292) (2012), [movinga.com](https://web.archive.org/web/20240521140817/https://www.movinga.com/de/de/hub/muendlicher-mietvertrag/)
+[^2]: [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/immobilien-meinen-schluessel-darf-ich-geben-wem-ich-will-dpa.urn-newsml-dpa-com-20090101-220623-99-771523) (2022)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)

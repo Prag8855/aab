@@ -14,6 +14,7 @@ Related_guides:
     guides/gez-rundfunkbeitrag.md
     guides/package-delivery.md
     guides/lost-keys.md
+    guides/key-copies.md
     guides/conny-review.md
 Order: 040
 ---
