@@ -6,11 +6,13 @@ Categories:
     buergeramt
 ---
 
-This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*.
+This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*. You can also [do your *Anmeldung* online](/guides/anmeldung-in-english-berlin#how-to-register-your-address-online).
 
 {% include "_blocks/appointmentFinderStatic.html" %}
 
 **[Other ways to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
+
+**[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
 ## Other appointment types
 

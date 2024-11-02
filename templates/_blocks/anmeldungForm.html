@@ -180,6 +180,7 @@
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<div class="input-group">
 					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)" required>
+						<option disabled hidden default value="">Choose a church</option>
 						<option value="Evangelische Kirche">Evangelical Church</option>
 						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
 						<option value="Jüdische Gemeinde">Jewish Community</option>
@@ -188,7 +189,7 @@
 						<option disabled>──────────</option>
 						<option value="Sonstiges, nicht kirchensteuerpflichtig">Other / No religion</option>
 					</select>
-					<span :id="uid('religion-instructions-' + person.id)" class="input-instructions">Members of some religions must pay the <glossary term="Kirchensteuer">church tax</glossary>.</span>
+					<span :id="uid('religion-instructions-' + person.id)" class="input-instructions">Members of some churches must pay the <glossary term="Kirchensteuer">church tax</glossary>.</span>
 				</div>
 			</div>
 			<div class="form-group required">
