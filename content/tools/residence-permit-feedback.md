@@ -7,6 +7,7 @@ Related_guides:
     guides/blue-card.md
     guides/work-visa.md
     guides/freelance-visa.md
+    guides/berlin-auslanderbehorde-appointment.md
 Categories:
     auslaenderbehoerde
 ---
