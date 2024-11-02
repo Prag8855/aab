@@ -15,14 +15,14 @@ Before you start, learn [how banking works in Germany](/guides/banking). It help
 
 ## German banks for expats
 
-When you open your first bank account, choose an expat-friendly bank like [N26](/out/n26), [bunq](/out/bunq), [Wise](/out/wise), [Monese](/out/monese), [Tomorrow](/out/tomorrow), [Vivid](/out/vivid) and [Revolut](/out/revolut).
+When you open your first bank account, choose an expat-friendly bank like [N26](/out/n26), [bunq](/out/bunq), [Wise](/out/wise), [Monese](/out/monese), [Tomorrow](/out/tomorrow) and [Vivid](/out/vivid)
 
 An expat-friendly bank...
 
 - Speaks English and other languages
 - Lets you open an account quickly
 - Accepts foreign passports and documents
-- Does not ask for a [residence permit](/glossary/Aufenthaltstitel) or a [registration certificate](/glossary/Anmeldebestätigung)
+- Does not ask for a [residence permit](/glossary/Aufenthaltstitel), a [registration certificate](/glossary/Anmeldebestätigung) or a [tax ID](/glossary/Steueridentifikationsnummer).
 
 ### [N26](/out/n26)
 
@@ -42,11 +42,11 @@ The free account is a little limited. The paid accounts have free ATM withdrawal
 
 ### [Wise](/out/wise-account) and Revolut
 
-Wise and Revolut are the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
+Wise is the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
-The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]], and Revolut gives you a Lithuanian IBAN. This is [not a big problem](#banks-in-other-eu-countries).
+The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]]. This is [not a big problem](#banks-in-other-eu-countries).
 
-Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian. Revolut speaks English and German.
+Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
 
 ### Banks that are not expat-friendly
 
@@ -54,6 +54,8 @@ These banks are **not expat-friendly**:
 
 - **[C24](/out/c24)**  
     It's an excellent bank, but they [accept fewer passports](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen) and might require a residence permit.[^1] They only speak German. They don't accept US citizens.[^5]
+- **[Revolut](/out/revolut)**  
+    You need a [tax ID](/glossary/Steueridentifikationsnummer) to open an account.[^11] You only get it after you [register your address](/glossary/Anmeldung) for the first time.
 - **[Sparkasse](/out/sparkasse)**  
     If you want a traditional bank with physical branches, this is the best option. They accept Russians, Iranians, Syrians and citizens of other sanctioned countries.[^2] You need a [registered address](/glossary/Anmeldung) and a [residence permit](/glossary/Aufenthaltstitel).[^13] Basic online banking is in English, everything else is in German.
 - **[Deutsche Bank](/out/deutsche-bank)**  
@@ -227,6 +229,7 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 [^8]: [European Banking Authority](https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/depositor-protection/deposit-guarantee-schemes) (2024)
 [^9]: [Twitter](https://twitter.com/rednafi/status/1775817482265092341) (2024), [Twitter](https://twitter.com/jackiewmacharia/status/1776516950786466154) (2024)
 [^10]: [Twitter](https://twitter.com/toolroom_knight/status/1775805302777983248) (2024)
+[^11]: Reader feedback (November 2024)
 [^12]: [Bundesbank study](https://www.bundesbank.de/resource/blob/894118/6c67bcce826d5ab16a837bbea31a1aa9/mL/zahlungsverhalten-in-deutschland-2021-data.pdf) (2021), [Twitter](https://twitter.com/aboutberlin/status/1777619503502807197) (2024)
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [Reddit](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [Reddit](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
