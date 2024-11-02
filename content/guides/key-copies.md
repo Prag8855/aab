@@ -36,11 +36,11 @@ There are two ways to copy building keys:
 - **Get an official copy** - 30€ to 80€ per key  
     Get permission from your *Hausverwaltung*. They will give you a letter (*Berechtigungsschein*) or a code card (*Sicherungskarte*). Bring it to the locksmith. Bring an ID document with you. It can take a few days.[^13]
 
-![Apartment keys](/illustrations/apartment-keys.png)
-
 ### Car keys
 
 To copy a vehicle key, go to a car dealership.[^6]
+
+![Apartment keys](/illustrations/apartment-keys.png)
 
 ## Tell your landlord
 
