@@ -1,5 +1,3 @@
-version: '3.2'
-
 # Production docker file. Adds ursus_builder to rebuild the website when the
 # git repo has new commits. Enables features such as email-sending. Disables
 # debugging features.
