@@ -46,7 +46,7 @@ Recycling centres accept almost everything. This is where you get rid of big ite
 
 ### Bulk trash collection days
 
-On special days, you can bring furniture, mattresses and other big trash to special collection points in your neighbourhood. It's easier than going to the recycling centre.
+On special days, you can bring furniture, mattresses and other big trash to special collection points in your neighbourhood. It's easier than going to the [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php).
 
 **[Bulk trash collection days](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)** - BSR
 
@@ -92,13 +92,13 @@ On special days, you can bring furniture, mattresses and other big trash to spec
 - **⚫ Crystal, porcelain and ceramic ➞ grey bin**[^13]
 - ⚫ **Light bulbs (incandescent or halogen) ➞ grey bin**
     - LED lights ➞ electronics recycling bin
-    - Energy-saving light bulbs ➞ recycling centre[^14]
+    - Energy-saving light bulbs ➞ [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php)[^14]
 
 ### Styrofoam
 
 - 🟡 **Styrofoam ➞ yellow bin**[^15]  
     This includes food containers and packing material.
-- **Styrofoam isolation for buildings ➞ recycling centre**
+- **Styrofoam isolation for buildings ➞ [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php)**
 
 ### Other
 
@@ -116,7 +116,7 @@ On special days, you can bring furniture, mattresses and other big trash to spec
 
 - 🎁 **Sell or donate**  
     If they are still good, [sell](/guides/how-do-i-buy-and-sell-used-things-in-berlin) or [donate them](/guides/donate-clothes)
-- **Old textiles ➞ recycling centre**
+- **Old textiles ➞ [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php)**
 
 **[Where to donate clothes in Berlin ➞](/guides/donate-clothes)**
 
@@ -135,15 +135,16 @@ Recycling centres accept all electronics and appliances.
 - 🎁 **Sell or donate**  
     If they are still good, [sell or donate them](/guides/how-do-i-buy-and-sell-used-things-in-berlin). You can also bring them to a repair café.
 - **Electronics ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), [supermarkets](/guides/where-to-buy-what#groceries), [recycling centres](https://www.remap-berlin.de/karte?c=Elektro&s=1)**  
-- **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), [supermarkets](/guides/where-to-buy-what#groceries), [recycling centres](https://www.remap-berlin.de/karte?c=Elektro&s=1)**
+- **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), [supermarkets](/guides/where-to-buy-what#groceries), [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
+    Supermarkets have a collection box near the cash registers. Car and motorcycle batteries have a *[[Pfand]]*. If you still have the receipt, bring them back to the store where you bought them, and you will get some money back.
 
 ### Batteries
 
 [Supermarkets](/guides/where-to-buy-what#groceries), [electronics stores](/guides/where-to-buy-what#electronics) and [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) have battery recycling bins, usually near the door. Rossmann and dm also recycle batteries.
 
 - **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) and [supermarkets](/guides/where-to-buy-what#groceries)**
-- **Car batteries ➞ [auto parts store](/guides/where-to-buy-what#car-and-motorcycle-parts)**  
-    They have a 7.50€ *[[Pfand]]*.[^17] [A.T.U](https://www.atu.de/filialen/) accepts car batteries.
+- **Car batteries ➞ [auto parts store](/guides/where-to-buy-what#car-and-motorcycle-parts), some [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
+    They have a 7.50€ *[[Pfand]]*.[^17] [A.T.U](https://www.atu.de/filialen/) accepts car batteries. You must have the receipt to get the *Pfand* backs. Some recycling centres recycle batteries for free, but only if they accept dangerous materials (*Schadstoffe*).
 
 ![Battery recycling bin at Lidl](/images/lidl-battery-recycling-akku-entsorgung.jpg "A battery recycling bin in a Lidl supermarket")
 
@@ -155,16 +156,16 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 
 - Incandescent light bulbs ➞ [glass recycling bins](/glossary/Altglascontainer)
 - Fluorescent light bulbs ➞ [glass recycling bins](/glossary/Altglascontainer)
-- Energy-saving light bulbs ➞ [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement) or recycling centre
-- Neon lights ➞ [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement) or recycling centre
+- Energy-saving light bulbs ➞ [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement) or [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php)
+- Neon lights ➞ [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement) or [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php)
 
 ## Furniture and appliances
 
 - 🎁 **Sell or donate**  
     If it's still good, [sell or donate it](/guides/how-do-i-buy-and-sell-used-things-in-berlin).
-- **Appliances ➞ [appliance collector](https://waschmaschinen-entsorgung-berlin.de/), [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement), or recycling centre**  
-    Stores that sell appliances must also recycle them for free. When you buy an appliance, they often take back your old appliance. You can also contact [Wachmachinen Entsorgung Berlin](https://waschmaschinen-entsorgung-berlin.de/).
-- **Big items ➞ recycling centre or [collection days](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)**  
+- **Appliances ➞ [appliance collector](https://waschmaschinen-entsorgung-berlin.de/), [hardware store](/guides/where-to-buy-what#hardware-and-home-improvement), or [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php)**  
+    Stores that sell appliances must also recycle them for free. When you buy an appliance, they often take back your old appliance. You can also contact [Wachmachinen Entsorgung Berlin](https://waschmaschinen-entsorgung-berlin.de/). You can bring broken appliances to BSR recycling centres.
+- **Big items ➞ [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php) or [collection days](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)**  
     This includes furniture, appliance and mattresses. In Berlin, [BSR can pick up big items](https://www.bsr.de/sperrmuell-21705.php) (for a fee). You can also wait for [bulk trash collection days](#bulk-trash-collection-days) in most areas.
 
 ## Trees, soil and grass
@@ -175,10 +176,12 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 
 ## Oil and paint
 
-- **Paints, oils and lacquers ➞ [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement)**  
-    [Bauhaus](https://www.bauhaus.info/entsorgungshinweise), [Hellweg](https://www.hellweg.de/service/entsorgungsservice/), [Hornbach](https://www.hornbach.de/services/entsorgungsservices/) and [OBI](https://www.obi.de/baumarkt/services/markt-services/wertstoff-ruecknahme/) will take it.
-- **Car oil ➞ garages, [car parts stores](/guides/where-to-buy-what#car-and-motorcycle-parts) and [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement)**  
-    If a business sells car oil, they must accept your old oil.[^18]
+- **Paints, oils and lacquers ➞ [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), some [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
+    [Bauhaus](https://www.bauhaus.info/entsorgungshinweise), [Hellweg](https://www.hellweg.de/service/entsorgungsservice/), [Hornbach](https://www.hornbach.de/services/entsorgungsservices/) and [OBI](https://www.obi.de/baumarkt/services/markt-services/wertstoff-ruecknahme/) will take it. Check if your recycling store accepts dangerous materials (*Schadstoffe*). They charge a small fee per kilo.
+- **Car oil ➞ garages, [car parts stores](/guides/where-to-buy-what#car-and-motorcycle-parts), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), some [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
+    If a business sells car oil, they must accept your old oil.[^18] Usually, they only take oil if you bought it from them. If you ask nicely, they will take oil from other places. Check if your recycling store accepts dangerous materials (*Schadstoffe*). They charge a small fee per kilo.
+- **Car tires ➞ garages, [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
+    At the recycling centre, you must pay around 3€ per tire.
 - **⚫ Cooking oil ➞ grey bin**
 
 ## Other things
