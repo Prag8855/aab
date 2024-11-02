@@ -1,9 +1,9 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
-from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, \
-    PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
+from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
+    ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.serializers import HealthInsuranceQuestionSerializer, \
     PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
-    ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
+    PublicResidencePermitFeedbackSerializer, ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
 from rest_framework import mixins, permissions, viewsets
 from rest_framework.exceptions import ValidationError as DRFValidationError
 from rest_framework.serializers import as_serializer_error
@@ -48,7 +48,6 @@ class FeedbackPermission(permissions.BasePermission):
 
 class FeedbackViewSet(mixins.UpdateModelMixin, mixins.RetrieveModelMixin, mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.GenericViewSet):
     http_method_names = ['get', 'post', 'put']
-    permission_classes = [FeedbackPermission]
 
 
 class HealthInsuranceQuestionViewSet(MessageViewSet):
@@ -73,7 +72,11 @@ class PensionRefundRequestViewSet(MessageViewSet):
 
 class ResidencePermitFeedbackViewSet(FeedbackViewSet):
     queryset = ResidencePermitFeedback.objects.all()
-    serializer_class = ResidencePermitFeedbackSerializer
+
+    def get_serializer_class(self):
+        if self.request.method == 'GET' and not self.request.user.is_authenticated:
+            return PublicResidencePermitFeedbackSerializer
+        return ResidencePermitFeedbackSerializer
 
 
 class TaxIdRequestFeedbackReminderViewSet(MessageViewSet):

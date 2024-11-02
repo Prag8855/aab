@@ -70,45 +70,57 @@ class FeedbackEndpointMixin:
             updated_request['email']
         )
 
-    def test_list_unauthenticated_401(self):
+    def test_list_200(self):
+        # When authenticated, return full object including private data
+        new_object = self.model.objects.create(**self.example_request)
+        User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
+        response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'testpassword'))
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.json()[0]['modification_key'], new_object.modification_key)
+        self.assertEqual(response.json()[0]['email'], new_object.email)
+
+    def test_retrieve_200(self):
+        # When authenticated, return full object including private data
+        new_object = self.model.objects.create(**self.example_request)
+        User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
+        response = self.client.get(f'{self.endpoint}/{new_object.modification_key}', headers=basic_auth_headers('myuser', 'testpassword'))
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.json()['modification_key'], new_object.modification_key)
+        self.assertEqual(response.json()['email'], new_object.email)
+
+    def test_list_unauthenticated_filtered_200(self):
+        # When not authenticated, return censored object without private data
+        self.model.objects.create(**self.example_request)
         response = self.client.get(self.endpoint)
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 200)
+        self.assertNotIn('email', response.json()[0])
+        self.assertNotIn('modification_key', response.json()[0])
 
     def test_list_invalidcredentials_401(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'WRONGpassword'))
         self.assertEqual(response.status_code, 401)
 
-    def test_list_200(self):
-        User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
-        response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'testpassword'))
-        self.assertEqual(response.status_code, 200)
-
-    def test_retrieve_200(self):
-        new_object = self.model.objects.create(**self.example_request)
-        response = self.client.get(f'{self.endpoint}/{new_object.modification_key}')
-        self.assertEqual(response.status_code, 200)
-
     def test_retrieve_404(self):
         response = self.client.get(f'{self.endpoint}/invalidmodificationkey')
         self.assertEqual(response.status_code, 404)
 
-    def test_delete_all_401(self):
+    def test_delete_all_405(self):
         response = self.client.delete(self.endpoint)
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 405)
 
-    def test_delete_one_401(self):
+    def test_delete_one_405(self):
         new_object = self.model.objects.create(**self.example_request)
         response = self.client.delete(f'{self.endpoint}/{new_object.pk}')
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 405)
 
-    def test_delete_one_authenticated_403(self):
+    def test_delete_one_authenticated_405(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         new_object = self.model.objects.create(**self.example_request)
         response = self.client.delete(
             f'{self.endpoint}/{new_object.pk}', headers=basic_auth_headers('myuser', 'testpassword')
         )
-        self.assertEqual(response.status_code, 403)
+        self.assertEqual(response.status_code, 405)
 
 
 class HealthInsuranceQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
@@ -135,7 +147,7 @@ class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
     example_request = {
         'name': 'John Test',
         'email': 'contact@nicolasbouliane.com',
-        'nationality': 'CA',
+        'department': 'E2',
         'country_of_residence': 'CA',
         'question': 'I am John and I have questions',
     }
@@ -148,7 +160,7 @@ class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
         'arrival_date': '2017-07-01',
         'departure_date': '2020-01-01',
         'birth_date': '1990-10-01',
-        'nationality': 'CA',
+        'department': 'E2',
         'country_of_residence': 'CA',
         'email': 'contact@nicolasbouliane.com',
         'name': 'John Test',
@@ -214,7 +226,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         'first_response_date': '2023-02-02',
         'appointment_date': None,
         'pick_up_date': None,
-        'nationality': 'CA',
+        'department': 'E2',
         'notes': 'Just some notes',
         'residence_permit_type': 'BLUE_CARD',
     }
@@ -223,7 +235,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         request = {
             'application_date': '2023-02-02',
             'first_response_date': '2023-01-01',  # Smaller than application_date
-            'nationality': 'CA',
+            'department': 'E2',
             'residence_permit_type': 'BLUE_CARD',
         }
         response = self.client.post(self.endpoint, request, format='json')
@@ -233,7 +245,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             'application_date': '2023-02-02',
             'first_response_date': '2023-03-03',
             'appointment_date': '2023-02-02',  # Smaller than first_response_date
-            'nationality': 'CA',
+            'department': 'E2',
             'residence_permit_type': 'BLUE_CARD',
         }
         response = self.client.post(self.endpoint, request, format='json')
@@ -244,7 +256,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             'first_response_date': '2023-03-03',
             'appointment_date': '2023-04-04',
             'pick_up_date': '2023-03-03',  # Smaller than appointment_date
-            'nationality': 'CA',
+            'department': 'E2',
             'residence_permit_type': 'BLUE_CARD',
         }
         response = self.client.post(self.endpoint, request, format='json')

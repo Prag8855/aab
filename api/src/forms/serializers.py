@@ -92,6 +92,21 @@ class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
         ]
 
 
+class PublicResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
+    class Meta:
+        model = ResidencePermitFeedback
+        fields = [
+            'creation_date',
+            'application_date',
+            'appointment_date',
+            'first_response_date',
+            'department',
+            'notes',
+            'pick_up_date',
+            'residence_permit_type',
+        ]
+
+
 class TaxIdRequestFeedbackReminderSerializer(HyperlinkedModelSerializer):
     status = IntegerField(read_only=True)
 
