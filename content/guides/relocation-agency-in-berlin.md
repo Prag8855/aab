@@ -19,7 +19,6 @@ Related_places:
     places/von-wrede-relocation.md
     places/progedo.md
     places/gibbesch-consulting.md
-    places/expat-unity.md
     places/jetztpat.md
 ---
 
