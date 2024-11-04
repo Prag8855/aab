@@ -11,11 +11,9 @@ Locking yourself out happens to everyone. This guide shows you how to get back i
 
 ## If you lost your keys
 
-If your keys were lost or stolen, you must **tell your landlord**. Then you can [make copies](/guides/key-copies) to replace the lost keys.
+If your keys were lost or stolen, you must **inform your landlord**.[^5] Then you can [make copies](/guides/key-copies) to replace the lost keys.
 
-The landlord might want to replace all the locks in the building. It costs thousands of euros. They might try to make you pay for it. In most cases, you don't have to pay. If you have [liability insurance](/glossary/Haftpflichtversicherung), your insurance pays for it.
-
-**[More information ➞](#do-i-need-to-pay-to-replace-the-locks)**
+The landlord might want to change all the locks in the building, to prevent theft. Usually, [you don't have to pay for this](#do-i-need-to-pay-to-replace-the-locks).
 
 ## If you locked yourself out
 
@@ -35,36 +33,44 @@ After the locksmith opens your door, you must prove that you live there. You can
 
 ## Do I need to pay to replace the locks?
 
-**Probably not.** It depends on what happened to your keys.
+If you lose your keys, the landlord might want to change all the locks in the building to prevent theft. This costs thousands of euros. **Usually, you don't need to pay for this.**
 
-When you [move out of your apartment](/guides/moving-out), you must give your keys back. If some keys are missing, your landlord can charge you to replace the keys and all the locks in the building. This can be *very* expensive. They can take the money from your *[[Kaution]]*.
+You only pay to replace the locks if...
 
-If you lost a key, your landlord can *sometimes* charge you to change the locks for the entire building.
+- **It's your fault**  
+    If you lost your keys, it's your fault. If your keys were stolen, it's not your fault.[^11] If it's not your fault, you must not pay anything.
+- and **there is a reason to change the locks**  
+    Your landlord only needs to change the locks if there is a risk of theft or misuse. For example, if your keys fell in a lake, nothing can happen. If someone finds your keys, but they can't find where you live, nothing can happen.[^10] If nothing can happen, there is no reason to change the locks, so you don't need to pay. If your lease says that they must always change the locks, ignore it.[^8]
+- and **the landlord changes the locks**  
+    You must only pay for the cost of changing the locks. If the landlord does not do anything, you do not pay anything.[^6] The landlord can't fine you for losing keys.
 
-- **If your keys were stolen**, the landlord can't charge you to change the locks, because it's not your fault.[^7]
-- **If you lost your keys**, it depends. If someone finds your keys, but can't find where you live, nothing can happen. If you dropped your keys in a lake, nothing can happen. Your landlord can't charge you to change the locks, because it's not necessary.[^7] If someone can find your keys and find where you live, then the locks need to be changed, and you will have to pay for it.
-
-Your lease can't force you to pay to replace the locks. That would be an invalid clause.[^8]
-
-Your [liability insurance (*Haftpflichtversicherung*)](/glossary/Haftpflichtversicherung) might cover the cost of replacing the locks.[^9] This is why having liability insurance is important. Otherwise, it can cost you over 1,000€ to replace all the locks. Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance that covers lost keys, and they speak English.
+Your [liability insurance](/glossary/Haftpflichtversicherung) might cover the cost of changing the locks.[^9] Use [Tarifcheck](/out/tarifcheck-haftpflicht) to compare liability insurance prices. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance that covers lost keys, and they speak English.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
+## When you move out
+
+When you [move out](/guides/moving-out), you must give all your keys back, including the copies that you have made.[^2] If some keys are missing, your landlord can charge you to replace the keys. They can use your *[[Kaution]]* to pay for it.
+
 ## Other good advice
 
-- **Check if someone found your keys**  
+- [ ] **Check if someone found your keys**  
     If your keys are lost or stolen, you might be able to get them back. [This guide](/guides/lost-and-found-berlin) explains how to find your lost keys.
-- **Give a key to a trusted friend**  
+- [ ] **Give a key to a trusted friend**  
     If you lock yourself out, you can call your friend instead of a locksmith.
-- **Get [liability insurance](/glossary/Haftpflichtversicherung)**  
+- [ ] **Get [liability insurance](/glossary/Haftpflichtversicherung)**  
     It covers the cost of replacing all the locks, and it costs less than 5€ per month. Liability insurance is the most important insurance to have - 85% of Germans have it.[^3] [This guide](/guides/haftpflichtversicherung) explains why it's so important. [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance for under 5€ per month. They cover lost keys for rented apartments, and they speak English.
-- **Get [household insurance](/glossary/Hausratversicherung)**  
-    Some policies cover the cost of a locksmith. Use [Tarifcheck](/out/tarifcheck-hausrat) to find other home contents insurances that cover locksmiths.
+- [ ] **Get [household insurance](/glossary/Hausratversicherung)**  
+    Some policies cover the cost of a locksmith. Use [Tarifcheck](/out/tarifcheck-hausrat) to find other household insurance that cover locksmiths.
 
 [^0]: [stern.de](https://www.stern.de/wirtschaft/news/schluesseldienst-betrug--rechnung-ueber-1240-euro-fuer-einmal-tuer-aufmachen-8485766.html), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/hlohza/looks_like_i_got_scammed_of_400_euros_by/)
 [^1]: [de.luko.eu](https://de.luko.eu/service/tipps/12-tipps-fuer-die-hausratversicherung/#3.-haus--und-wohnungsschutzbrief-mit-schlusseldienst-inklusive?)
+[^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/magazin/online/mm1015/101511c.htm) (2015)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
 [^4]: [a-schluesseldienstberlin.de](https://a-schluesseldienstberlin.de/tueroeffnung-berlin/)
-[^7]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/bgh/bgh1409.htm)
-[^8]: [mieterbund.de](https://www.mieterbund.de/mietrecht/bgh-urteile-mietrecht/bgh-urteil-detailansicht/article/23920-mieter-muss-bei-schluesselverlust-unter-umstaenden-neue-schliessanlage-bezahlen.html)
+[^5]: [anwalt.de](https://www.anwalt.de/rechtstipps/mietrecht-wieviele-wohnungsschluessel-bekommt-der-mieter_183655.html#:~:text=ist%20hieruber%20sofort%20der%20vermieter%20zu%20informieren.) (2020), [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/schluessel-1/#:~:text=wenn%20schlussel%20verloren%20gehen)
+[^6]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/magazin/online/mm1214/121424a.htm#:~:text=ersatzanspruch%20des%20vermieters%20jedoch%20ab) (2014), [court ruling](https://www.berliner-mieterverein.de/recht/bgh/bgh1409.htm) (2014)
+[^8]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/bgh/bgh1409.htm#:~:text=des%20Schl%C3%BCssels%20ausgeschlossen.-,im%20ubrigen,-%3A%20Eine%20Formularklausel%20im) (2014), [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/schluessel-1/#:~:text=allerdings%20ist%20eine%20formularmietvertragsklausel)
 [^9]: [focus.de](https://www.focus.de/immobilien/mieten/tausende-euro-mehrkosten-vermeiden-schluessel-verloren-wenn-sie-nicht-aufpassen-kann-es-richtig-teuer-werden_id_4849172.html)
+[^10]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/magazin/online/mm1214/121424a.htm#:~:text=wurde%20der%20schlussel%20gestohlen) (2014), [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/schluessel-1/#:~:text=es%20muss%20vielmehr%20die%20tatsachliche%20gefahr%20des%20schlusselmissbrauchs), [anwalt.de](https://www.anwalt.de/rechtstipps/schluesselverlust-schluessel-weg-wann-muss-der-mieter-haften_181400.html) (2020)
+[^11]: [anwalt.de](https://www.anwalt.de/rechtstipps/schluesselverlust-schluessel-weg-wann-muss-der-mieter-haften_181400.html#:~:text=grobe%20fahrlassigkeit) (2020), [Berliner Mietergemeinschaft](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/schluessel-1/#:~:text=sind%20die%20schlussel%20unverschuldet%20abhanden%20gekommen)
