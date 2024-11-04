@@ -88,7 +88,6 @@ Short-term furnished rooms are cheaper on [Kleinanzeigen](https://www.kleinanzei
     Affordable student housing. There are long waiting lists. Only for students of partner universities.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments.
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. *[[Anmeldung]]* possible.
-- [Uniplaces](/out/uniplaces) - Mostly rooms in [[WG]]s. No *[[Anmeldung]]* information.
 - [Berlinovo](https://www.berlinovo.de/en/apartments/search) - They have some student housing.
 
 ### Housing companies
