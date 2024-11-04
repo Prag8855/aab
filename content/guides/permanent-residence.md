@@ -256,7 +256,7 @@ When you use the contact form, choose the correct department. It could be a diff
 
 The *Ausländerbehörde* will process your application. It takes a few months to get a response. When I applied, it took 3 months.
 
-When they reply, they might ask for more documents.[^2] If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send documents.[^53]
+When they reply, they might ask for more documents.[^2] If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send more documents.[^53]
 
 When they have all the documents they need, they will give you an appointment. In the appointment invitation, they might ask for more documents. Bring those documents to your appointment.
 
@@ -336,7 +336,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^51] You must make enough money to pay your rent. It can be a temporary lease, a WG, a sublet or a student residence.
+        It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^51] You must make enough money to pay your rent. It can be a temporary lease, a [[WG]], a sublet or a student residence.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it. Bring it even if you registered your address.
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)
