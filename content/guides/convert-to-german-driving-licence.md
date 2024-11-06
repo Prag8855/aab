@@ -131,7 +131,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 If your licence is not from a EU or EEA country, you must also bring...
 
 - [ ] **Certified translation of your driving licence**  
-    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€. In some cities, they only accept certified translations, not International Driving Permits.[^14]
+    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). In Berlin, they also accept driving licences in English.[^19] Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€. In some cities, they only accept certified translations, not International Driving Permits.[^14]
 
 If your licence is not from a [EU](/glossary/European%20Union), [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must also bring...
 
@@ -177,4 +177,5 @@ After a few weeks, you get a letter. It tells you to pick up your new driver lic
 [^16]: [Fahrschule Oscar](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
 [^17]: [Directive 2006/126/EC, Article 2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0126), [Article 7](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0126), [Article 11](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32006L0126), [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=wurde%20ihr%20auslandischer%20fuhrerschein%20in%20einem%20anderen%20eu-mitgliedsstaat%20ausgestellt)
 [^18]: [bmdv.bund.de](https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.pdf?__blob=publicationFile), [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=in%20der%20regel%20bis%20zu%20sechs%20monate%20gultig), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/auslaendischer-fuehrerschein/#:~:text=sie%20mussen%20mindestens%20sechs%20monate%20lang%20ihren%20hauptwohnsitz%20in%20dem%20land%20haben%2C%20in%20dem%20sie%20den%20neuen%20eu-fuhrerschein%20machen.)
+[^19]: Bürgeramt (2024)
 [^20]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
