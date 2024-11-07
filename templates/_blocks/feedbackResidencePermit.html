@@ -29,18 +29,6 @@
 					modificationKey: userDefaults.modificationKey,
 
 					department: '',
-					departments: {
-						A1_A5: 'A1, A5 - Syria',
-						A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
-						B1_B2_B3_B4: 'B1, B2, B3, B4 - Skilled immigration',
-						B6: 'B6 - Business Immigration Service',
-						E1: 'E1 - Middle East',
-						E2: 'E2 - Africa, America, Israel',
-						E3: 'E3 - India, Turkey, etc.',
-						E4: 'E4 - Asia, Australia, New Zealand, Russia',
-						E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
-						E6: 'E6 - Europe',
-					},
 					notes: '',
 					email: userDefaults.email,
 
@@ -147,6 +135,64 @@
 				},
 				feedbackComplete(){
 					return Object.values(this.steps).every(s => s.completed);
+				},
+				departments(){
+					return {
+						BLUE_CARD: {
+							B1_B2_B3_B4: 'Online application (B1, B2, B3, B4)',
+							B6: 'Business Immigration Service (B6)',
+						},
+						FAMILY_REUNION_VISA: {
+							A1_A5: 'A1, A5 - Syria',
+							A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
+							B1_B2_B3_B4: 'B1, B2, B3, B4 - Family of skilled workers',
+							B6: 'B6 - Business Immigration Service',
+							E1: 'E1 - Middle East',
+							E2: 'E2 - Africa, America, Israel',
+							E3: 'E3 - India, Turkey, etc.',
+							E4: 'E4 - Asia, Australia, New Zealand, Russia',
+							E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
+							E6: 'E6 - Europe',
+						},
+						FREELANCE_VISA: {
+							A1_A5: 'A1, A5 - Syria',
+							A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
+							E1: 'E1 - Middle East',
+							E2: 'E2 - Africa, America, Israel',
+							E3: 'E3 - India, Turkey, etc.',
+							E4: 'E4 - Asia, Australia, New Zealand, Russia',
+							E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
+							E6: 'E6 - Europe',
+						},
+						PERMANENT_RESIDENCE: {
+							A1_A5: 'A1, A5 - Syria',
+							A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
+							E1: 'E1 - Middle East',
+							E2: 'E2 - Africa, America, Israel',
+							E3: 'E3 - India, Turkey, etc.',
+							E4: 'E4 - Asia, Australia, New Zealand, Russia',
+							E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
+							E6: 'E6 - Europe',
+						},
+						STUDENT_VISA: {
+							B1_B2_B3_B4: 'B1, B2, B3, B4 - Students',
+						},
+						WORK_VISA: {
+							B1_B2_B3_B4: 'B1, B2, B3, B4 - Skilled workers',
+							B6: 'B6 - Business Immigration Service',
+						},
+					}[this.residencePermitType] || {
+						A1_A5: 'A1, A5 - Syria',
+						A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
+						B1_B2_B3_B4: 'B1, B2, B3, B4 - Students, workers, researchers',
+						B6: 'B6 - Business Immigration Service',
+						E1: 'E1 - Middle East',
+						E2: 'E2 - Africa, America, Israel',
+						E3: 'E3 - India, Turkey, etc.',
+						E4: 'E4 - Asia, Australia, New Zealand, Russia',
+						E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
+						E6: 'E6 - Europe',
+					};
 				}
 			},
 			methods: {
@@ -227,6 +273,17 @@
 				},
 				capitalizeFirstLetter(str){
 					return String(str).charAt(0).toUpperCase() + String(str).slice(1);
+				}
+			},
+			watch: {
+				residencePermitType(newType){
+					console.log(this.department, Object.keys(this.departments));
+					if(Object.keys(this.departments).length === 1){
+						this.department = Object.keys(this.departments)[0];
+					}
+					else if(this.department && !(this.department in this.departments)){
+						this.department = null;
+					}
 				}
 			}
 		})
