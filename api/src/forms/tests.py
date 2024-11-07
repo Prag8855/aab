@@ -18,21 +18,21 @@ def basic_auth_headers(username: str, password: str) -> dict:
 class ScheduledMessageEndpointMixin:
     def test_create(self):
         response = self.client.post(self.endpoint, self.example_request, format='json')
-        self.assertEqual(response.status_code, 201)
+        self.assertEqual(response.status_code, 201, response.json())
 
     def test_list_unauthenticated_401(self):
         response = self.client.get(self.endpoint)
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 401, response.json())
 
     def test_list_invalidcredentials_401(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'WRONGpassword'))
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 401, response.json())
 
     def test_list_200(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'testpassword'))
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 200, response.json())
 
     def test_retrieve_exists_404(self):
         new_object = self.model.objects.create(**self.example_request)
@@ -45,7 +45,7 @@ class ScheduledMessageEndpointMixin:
 
     def test_delete_all_401(self):
         response = self.client.delete(self.endpoint)
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 401, response.json())
 
     def test_delete_one_404(self):
         new_object = self.model.objects.create(**self.example_request)
@@ -56,7 +56,7 @@ class ScheduledMessageEndpointMixin:
 class FeedbackEndpointMixin:
     def test_create(self):
         response = self.client.post(self.endpoint, self.example_request, format='json')
-        self.assertEqual(response.status_code, 201)
+        self.assertEqual(response.status_code, 201, response.json())
         self.assertIn('modification_key', response.json())
 
     def test_update(self):
@@ -64,7 +64,7 @@ class FeedbackEndpointMixin:
         updated_request = copy(self.example_request)
         updated_request['email'] = "contact@allaboutberlin.com"
         response = self.client.put(f"{self.endpoint}/{new_object.modification_key}", updated_request, format='json')
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 200, response.json())
         self.assertEqual(
             self.model.objects.get(modification_key=new_object.modification_key).email,
             updated_request['email']
@@ -75,7 +75,7 @@ class FeedbackEndpointMixin:
         new_object = self.model.objects.create(**self.example_request)
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'testpassword'))
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 200, response.json())
         self.assertEqual(response.json()[0]['modification_key'], new_object.modification_key)
         self.assertEqual(response.json()[0]['email'], new_object.email)
 
@@ -84,7 +84,7 @@ class FeedbackEndpointMixin:
         new_object = self.model.objects.create(**self.example_request)
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(f'{self.endpoint}/{new_object.modification_key}', headers=basic_auth_headers('myuser', 'testpassword'))
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 200, response.json())
         self.assertEqual(response.json()['modification_key'], new_object.modification_key)
         self.assertEqual(response.json()['email'], new_object.email)
 
@@ -92,14 +92,14 @@ class FeedbackEndpointMixin:
         # When not authenticated, return censored object without private data
         self.model.objects.create(**self.example_request)
         response = self.client.get(self.endpoint)
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 200, response.json())
         self.assertNotIn('email', response.json()[0])
         self.assertNotIn('modification_key', response.json()[0])
 
     def test_list_invalidcredentials_401(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'WRONGpassword'))
-        self.assertEqual(response.status_code, 401)
+        self.assertEqual(response.status_code, 401, response.json())
 
     def test_retrieve_404(self):
         response = self.client.get(f'{self.endpoint}/invalidmodificationkey')
@@ -107,12 +107,12 @@ class FeedbackEndpointMixin:
 
     def test_delete_all_405(self):
         response = self.client.delete(self.endpoint)
-        self.assertEqual(response.status_code, 405)
+        self.assertEqual(response.status_code, 405, response.json())
 
     def test_delete_one_405(self):
         new_object = self.model.objects.create(**self.example_request)
         response = self.client.delete(f'{self.endpoint}/{new_object.pk}')
-        self.assertEqual(response.status_code, 405)
+        self.assertEqual(response.status_code, 405, response.json())
 
     def test_delete_one_authenticated_405(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
@@ -120,7 +120,7 @@ class FeedbackEndpointMixin:
         response = self.client.delete(
             f'{self.endpoint}/{new_object.pk}', headers=basic_auth_headers('myuser', 'testpassword')
         )
-        self.assertEqual(response.status_code, 405)
+        self.assertEqual(response.status_code, 405, response.json())
 
 
 class HealthInsuranceQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
@@ -147,8 +147,8 @@ class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
     example_request = {
         'name': 'John Test',
         'email': 'contact@nicolasbouliane.com',
-        'department': 'E2',
         'country_of_residence': 'CA',
+        'nationality': 'CA',
         'question': 'I am John and I have questions',
     }
 
@@ -160,8 +160,8 @@ class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
         'arrival_date': '2017-07-01',
         'departure_date': '2020-01-01',
         'birth_date': '1990-10-01',
-        'department': 'E2',
         'country_of_residence': 'CA',
+        'nationality': 'CA',
         'email': 'contact@nicolasbouliane.com',
         'name': 'John Test',
         'partner': 'fundsback',
@@ -171,19 +171,19 @@ class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
         bad_request = copy(self.example_request)
         bad_request['nationality'] = 'XX'
         response = self.client.post(self.endpoint, bad_request, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 400, response.json())
 
     def test_create_invalid_country_of_residence_400(self):
         bad_request = copy(self.example_request)
         bad_request['country_of_residence'] = 'XX'
         response = self.client.post(self.endpoint, bad_request, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 400, response.json())
 
     def test_create_invalid_partner_400(self):
         bad_request = copy(self.example_request)
         bad_request['partner'] = 'notapartner'
         response = self.client.post(self.endpoint, bad_request, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 400, response.json())
 
 
 class PensionRefundReminderTestCase(ScheduledMessageEndpointMixin, APITestCase):
@@ -239,7 +239,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             'residence_permit_type': 'BLUE_CARD',
         }
         response = self.client.post(self.endpoint, request, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 400, response.json())
 
         request = {
             'application_date': '2023-02-02',
@@ -249,7 +249,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             'residence_permit_type': 'BLUE_CARD',
         }
         response = self.client.post(self.endpoint, request, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 400, response.json())
 
         request = {
             'application_date': '2023-02-02',
@@ -260,7 +260,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             'residence_permit_type': 'BLUE_CARD',
         }
         response = self.client.post(self.endpoint, request, format='json')
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 400, response.json())
 
     def test_schedule_feedback_email(self):
         response = self.client.post(self.endpoint, self.example_request, format='json')

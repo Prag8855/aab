@@ -76,6 +76,11 @@ class PensionRefundRequestSerializer(CountryFieldMixin, HyperlinkedModelSerializ
 class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
     modification_key = CharField(read_only=True)
 
+    def validate(self, attrs):
+        instance = ResidencePermitFeedback(**attrs)
+        instance.clean()
+        return attrs
+
     class Meta:
         model = ResidencePermitFeedback
         fields = [

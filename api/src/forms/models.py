@@ -52,15 +52,6 @@ class NameMixin(models.Model):
         abstract = True
 
 
-class BaseModel(models.Model):
-    def save(self, *args, **kwargs):
-        self.full_clean()
-        return super().save(*args, **kwargs)
-
-    class Meta:
-        abstract = True
-
-
 class MessageStatus(models.IntegerChoices):
     SCHEDULED = 0, "Scheduled"
     FAILED = 1, "Error"
@@ -91,7 +82,7 @@ class Departments(models.TextChoices):
     E6 = 'E6', "E6"
 
 
-class ScheduledMessage(BaseModel):
+class ScheduledMessage(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
     delivery_date = models.DateTimeField(default=timezone.now)
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
@@ -125,7 +116,7 @@ class ScheduledMessage(BaseModel):
         abstract = True
 
 
-class Feedback(EmailMixin, BaseModel):
+class Feedback(EmailMixin, models.Model):
     modification_key = models.CharField(primary_key=True, max_length=32, unique=True, default=random_key)
     creation_date = models.DateTimeField(auto_now_add=True)
     modification_date = models.DateTimeField(auto_now=True)
