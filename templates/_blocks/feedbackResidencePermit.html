@@ -335,12 +335,14 @@
 					<option disabled hidden default value="">Choose a department</option>
 					<option v-for="(name, key) in departments" :value="key" :key="key">{{ name }}</option>
 				</select>
-				<a class="input-instructions external-link" target="_blank" href="/out/auslanderbehorde-departments">Find your Ausländerbehörde department</a>
+				<span class="input-instructions">
+					<a target="_blank" href="/out/auslanderbehorde-departments">Find your Ausländerbehörde department.</a> Don't choose a random department.
+				</span>
 			</div>
 			<div class="form-group">
 				<label :for="uid('notes')">Notes and advice</label>
 				<textarea placeholder="" v-model="notes" :id="uid('notes')"></textarea>
-				<span class="input-instructions">Describe your experience and give tips to other readers. Do not ask questions here.</span>
+				<span class="input-instructions">Add information about your situation and give advice to other readers. Do not ask questions here.</span>
 			</div>
 		</template>
 	</template>
