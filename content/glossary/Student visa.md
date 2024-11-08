@@ -14,7 +14,14 @@ Related_guides:
     guides/permanent-residence.md
 ---
 
-The German student visa allows you to study in Germany. With a student visa, you can also work during your studies.[^1] The student visa is a type of [residence permit](/glossary/Aufenthaltstitel).
+The German student visa (*Studentenvisum*) is a [residence permit](/glossary/Aufenthaltstitel) to study in Germany.
+
+With a work visa, you can...
+
+- Live and work anywhere in Germany
+- Study in Germany
+- Work during your studies[^1]
+- Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
 
 You must apply for a student visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
 
