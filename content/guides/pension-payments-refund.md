@@ -8,25 +8,25 @@ Related_reviews:
     reviews/pension-payments-refund/christian-haas.md
 ---
 
-When you work in Germany, you give {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income to the public pension system (*[[gesetzliche Rentenversicherung]]*). If you leave Germany, you can get your pension payments back. You can get thousands of euros back.
+When you work in Germany, {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get those pension payments back. You can get thousands of euros back.
 
-In this guide, I show you if you can get a pension refund, and how to apply for it.
+This guide explains when you can get a pension refund, and how to apply for it.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who can get a refund?
 
-**Short answer:** use the pension refund calculator.
-
 {% include '_blocks/pensionRefundCalculator.html' %}
 
-**Long answer:** It depends on your citizenship, and the country you live in. The rules are different for every country.
+It depends on your nationality, and the country you live in. The rules are different for every country. Use the [pension refund calculator](/tools/pension-refund-calculator) to see if you can get a refund.
 
-There are 3 conditions for getting a German pension refund:
+You can get a refund if...
 
-1. You are not forced to contribute to the German pension system
-2. **and** you can't contribute voluntarily to the German pension system
-3. **and** your last pension payment in the [[European Union]], Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey was more than 24 months ago[^0]
+- [ ] You are not forced to contribute to the German pension system
+- [ ] **and** you can't contribute voluntarily to the German pension system
+- [ ] **and** your last pension payment in the [[European Union]], Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey was more than 24 months ago[^0]
+
+To see the exact requirements, find your nationality below, or just use the [pension refund calculator](/tools/pension-refund-calculator).
 
 ### EU, [[EEA]] and Switzerland citizens
 
