@@ -215,7 +215,7 @@ You will get a refund for all your pension payments.[^37] That's **around {{RENT
 
 {% include '_blocks/pensionRefundCalculator.html' %}
 
-You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, the refund will be smaller.[^38] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
+You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, your refund will be smaller.[^38] You get no refund for the time you received *Elterngeld* or *[[ALG I]]*.[^32] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
 
 If you are self-employed, you will only get 50% of your payments back ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income).[^17] By default, self-employed do not make public pension payments. If you made no pension payments, you got no money back.
 
@@ -323,8 +323,8 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^0]: [Screenshot](/images/rene-pension-refund-answers-2022-02-15.png)
 [^1]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=gesetzlichen%20Rentenversicherung%20zahlt.-,beitragserstattung%20bei%20erreichen%20der%20regelaltersgrenze,-Als%20n%C3%A4chstes%20werde)
 [^2]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=aufhalten.%20Hierzu%20geh%C3%B6ren%3A-,bosnien-herzegowina%2C%20kosovo%2C%20montenegro%20und%20serbien,-Staatsangeh%C3%B6rige%20der%20Staaten)
-[^3]: Georg from Pension Refund Germany (October 2024)
-[^4]: Georg from Pension Refund Germany (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
+[^3]: Georg from [Pension Refund Germany](/out/german-pension-refund) (October 2024)
+[^4]: Georg from [Pension Refund Germany](/out/german-pension-refund) (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^5]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=bei%20staatsangehorigen%20des%20staates%20israel)
 [^6]: [Screenshot](/images/rene-pension-japan-2022-01-20.png)
 [^7]: [germanypensionrefund.com](https://www.germanypensionrefund.com/japan)
@@ -358,3 +358,4 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^38]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung)
 [^39]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/?page=1)
 [^40]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [Regulation (EEC) No 1408/71, §10 para. 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)
+[^32]: Georg from [Pension Refund Germany](/out/german-pension-refund) (October 2024)
