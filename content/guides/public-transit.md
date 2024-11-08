@@ -34,7 +34,7 @@ You can buy local public transit tickets...
 - **On the tram**  
     Find a [yellow ticket machine](/images/berlin-bvg-tram-ticket-machine.jpg) near the middle of the tram. The old machines only accept coins. The new machines only accept cards.[^1]
 - **On the bus**  
-    Enter at the front of the bus, and buy a ticket from the driver. Tap your card or phone on the payment terminal near the driver.[^15] If you pay cash, ask the driver for a ticket.[^14]
+    Enter at the front of the bus, and tap your phone or credit card to pay. You can't pay with cash.
 - **At [[S-Bahn]] and [[BVG]] service points**  
     Buy tickets at [S-Bahn](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/) and [BVG service points](https://www.bvg.de/en/service-and-support/customer-centers-and-shops).
 
@@ -265,6 +265,4 @@ These tickets do not let you bring children and other people with you:[^12]
 [^11]: [bvg.de](https://www.bvg.de/de/abos-und-tickets/tarifzonen-und-tarifbestimmungen), [vbb.de](https://www.vbb.de/tickets/tarifinformationen-services/mitnahmemoeglichkeiten/), [bvg.de](https://www.bvg.de/de/abos-und-tickets/alle-abos/schuelerticket-berlin)
 [^12]: [Students and apprentices](https://sbahn.berlin/en/tickets/all-tickets/school-students-apprentice-students/monthly-subscription-ticket-for-apprentices/school-students/?tabs=tbc-tfeatures), [10-Uhr-Karte](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/10am-ticket/?tabs=tbc-tfeatures), [short trip ticket](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/short-trip-ticket/), [FlexTicket](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-flexticket/?tabs=tbc-tfeatures)
 [^13]: [Weekly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/7-day-ticket/?tabs=tbc-tfeatures) and [monthly](https://sbahn.berlin/en/tickets/all-tickets/weekly-monthly-annual-tickets/vbb-umweltkarte/?tabs=tbc-tfeatures) tickets
-[^14]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2023/01/berlin-bvg-bus-bargeld-corona.html)
-[^15]: [YouTube](https://youtu.be/d-n__8zGQi4?t=18)
 [^16]: [reddit.com](https://old.reddit.com/r/berlin/comments/16rtm7a/do_you_show_your_bus_tickets_to_the_bus_driver/)
