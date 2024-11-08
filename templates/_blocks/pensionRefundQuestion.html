@@ -1,3 +1,4 @@
+{% include '_js/pension-refund-calculator.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
@@ -47,6 +48,23 @@
 					}
 				},
 			},
+			computed: {
+				isEligible() {
+					const threeYearsAgo = new Date();
+					threeYearsAgo.setYear(threeYearsAgo.getFullYear() - 3);
+					const fourYearsAgo = new Date();
+					fourYearsAgo.setYear(fourYearsAgo.getFullYear() - 4);
+
+					return calculatePensionRefund(
+						this.nationality,
+						this.countryOfResidence,
+						threeYearsAgo,
+						fourYearsAgo,
+						40000,
+						false,
+					).flags.has('eligible');
+				}
+			}
 		})
 	);
 {% endjs %}
@@ -95,9 +113,9 @@
 				v-model="countryOfResidence"
 				:id="uid('countryOfResidence')"
 				required></country-input>
+			<span class="input-instructions error" v-if="!isEligible">You do not qualify for a pension refund.</span>
 		</div>
 		<hr>
-		<p>Remember, <strong>if you are a EU citizen, or you currently live in the EU, EEA or UK</strong>, you can't get a pension refund. Use my <a target="_blank" href="/tools/pension-refund-calculator">pension refund calculator</a> to know your options.</p>
 		<div class="buttons">
 			<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask FundsBack</button>
 		</div>

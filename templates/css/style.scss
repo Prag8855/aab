@@ -1769,6 +1769,10 @@ input[type=range] {
     flex: 1 0 100%;
     line-height: var(--line-height-label);
 
+    &.error{
+        color: var(--c-text-error);
+    }
+
     summary:after{
         float: none;
     }
