@@ -516,7 +516,7 @@ Many organisations offer **free** consultations, support and workshops for artis
 - **[MKK Consult](https://mkk-consult.de/)**  
     Consultant for freelancers in arts, media and culture. KSK expert. He speaks English.
 
-### Communities who can help
+### Communities that can help
 
 - **[KSK - Künstlersozialkasse](https://www.facebook.com/groups/398576963891545/)** on Facebook  
     Unofficial group for KSK questions. You can also ask questions in English.
