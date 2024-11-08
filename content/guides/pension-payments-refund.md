@@ -284,18 +284,16 @@ You can let someone take care of everything. There are good reasons to get help:
 - **You pay lower transaction fees**  
     Germany Pension Refund and FundsBack offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/wise) to transfer the money with lower transaction fees.
 
-These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.
+These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-01-01') }}
 
 - **[Pension Refund Germany](/out/german-pension-refund)**{% include '_blocks/recommended.html' %}  
     Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated the process, so you do everything online. They pay you in the currency you prefer. They work with a lawyer.
 - **[Germany Pension Refund](/out/germany-pension-refund)**{% include '_blocks/recommended.html' %}  
     Their fee is 9.75% of your refund (no minimum or maximum fee).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
 - **[FundsBack](/out/fundsback)**{% include '_blocks/recommended.html' %}  
-    Their fee is 9.9% of your refund (minimum fee 899€, maximum 2,899€), or 9.405% if you use the link above.[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
-- **[TaxBack](/out/taxback)**  
-    Their fee is 19.8% of your refund,[^32] or minimum 60€. I do not recommend them. They don't specialise in pension refunds, and their fee is too high.
-- **[Germany Mantra](/out/germany-mantra)**  
-    Unknown fees. This company is based in India.[^33] They offer relocation services for Indians since at least 2011.[^34] They don't answer my emails.
+    Their fee is 9.9% of your refund (minimum fee 899€, maximum 2,899€){{ fail_on('2025-01-01') }}, or 9.405% if you use the link above.[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
+- **Other options**  
+    [TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) or [Pension Redemption](https://www.pension-redemption.com/) can also help you with your pension refund. Their fee is too high, so I don't recommend them.
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. You can also write in English, but they will answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
@@ -309,9 +307,12 @@ The *[[Deutsche Rentenversicherung]]* will transfer the money to your bank accou
 
 ## Need help?
 
-If you have questions, write to the [[Deutsche Rentenversicherung]]. Their email is <meinefrage@drv-bund.de>. You can write in English, but they will reply in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) with them, or call them. I called them many times, and they always helped, but they only speak German.
+If you need help, ask...
 
-[Germany Pension Refund](/out/germany-pension-refund), [FundsBack](/out/fundsback), [Pension Refund Germany](/out/german-pension-refund), [Taxback](/out/taxback) or [Germany Mantra](/out/germany-mantra) can request a refund for you. They will take care of everything, but they charge a fee for their service.
+- **The [[Deutsche Rentenversicherung]]**  
+    Call them, email <meinefrage@drv-bund.de>, or [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). I have called them many times and they always helped, but they only speak German.
+- **Pension refund services**  
+    [Germany Pension Refund](/out/germany-pension-refund), [Pension Refund Germany](/out/german-pension-refund) and [FundsBack](/out/fundsback) can request a refund for you. They speak English. They take care of everything, but they keep around 10% of your refund.
 
 {% include '_blocks/pensionRefundQuestion.html' %}
 
@@ -349,9 +350,6 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^29]: [fundsback.org](https://fundsback.org/pension-refund-germany/#:~:text=minimum%20fee%20of%20899%E2%82%AC%2C%20maximum%20of%202899%E2%82%AC)
 [^30]: [de.germanypensionrefund.com](https://de.germanypensionrefund.com/pricing)
 [^31]: [pension-refund.com](https://pension-refund.com/process-and-pricing.html?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
-[^32]: [taxback.com](https://www.taxback.com/en/germany/pension-return/?utm_source=allaboutberlin)
-[^33]: [ssr.germanymantra.com](https://ssr.germanymantra.com/contact-us)
-[^34]: [web.archive.org](https://web.archive.org/web/20110310055547/http://ssr.germanymantra.com/faqs)
 [^35]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [Settle in Berlin](https://www.settle-in-berlin.com/pension-refund-when-leaving-germany/), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-3317004), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/)
 [^36]: [Screenshot](/images/pension-refund-bank-account-2022-04-09.png)
 [^37]: [§210 SGB VI](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308)
