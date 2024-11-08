@@ -14,7 +14,7 @@ In this guide, I show you if you can get a pension refund, and how to apply for 
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Who can get a pension payments refund?
+## Who can get a refund?
 
 **Short answer:** use the pension refund calculator.
 
@@ -223,7 +223,7 @@ To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-pa
 
 [Germany Pension Refund](/out/germany-pension-refund) and [FundsBack](/out/fundsback) can also check the pension refund amount for you, for free.
 
-## How to ask for a pension refund
+## How to get your pension payments back
 
 The pension refund is not automatic. You must apply for it. You can do it yourself, or [pay someone to do it for you](#get-help-from-someone).
 
@@ -297,13 +297,15 @@ These businesses can help you request a refund. They will fill the forms and req
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
-## How long does it take to get a refund?
+## How long it takes
 
-You must wait at least 24 months after your last pension payment.[^17] After 24 months, you can ask for a refund. After you submit the form, it takes **1 to 6 months** to get a refund.[^35] It's a long process, and it's sometimes complicated.[^18] You can start the process a few months before you are eligible for a refund. This gives you more time to prepare the documents you need.
+To request a pension payments refund, you must wait at least 2 years after your last pension payment.[^17]
 
-## How is the money refunded?
+After 24 months, you can ask for a refund. After you apply for a refund, it takes **1 to 6 months** to get your money back.[^35] It's a long process, and it's sometimes complicated.[^18] You can start preparing a few months before you are eligible.
 
-The *[[Deutsche Rentenversicherung]]* will transfer the money to your bank account. They can send the money to any bank account, not just German bank accounts.[^36] Transfers to German bank accounts are *much* faster.
+## How the money is refunded
+
+The *[[Deutsche Rentenversicherung]]* will transfer the money to your bank account. They can send the money to any bank account, in Germany or elsewhere.[^36] Transfers to German bank accounts are *much* faster.
 
 ## Need help?
 
