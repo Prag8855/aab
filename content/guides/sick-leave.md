@@ -100,7 +100,7 @@ After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if y
 
 ### How to protect yourself
 
-- If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), pay a little more to get *[[Krankengeld]]* when you are sick. You will pay {{GKV_BASE_CONTRIBUTION}}% of your income instead of {{GKV_SELF_EMPLOYED_BASE_CONTRIBUTION}}%. You get *Krankengeld* after 6 weeks of sick leave, but you can pay more to get it faster (*Krankengeld Wahltarif*).[^17]
+- If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), pay a little more to get *[[Krankengeld]]* when you are sick. You will pay {{GKV_BASE_RATE}}% of your income instead of {{GKV_SELF_EMPLOYED_BASE_RATE}}%. You get *Krankengeld* after 6 weeks of sick leave, but you can pay more to get it faster (*Krankengeld Wahltarif*).[^17]
 - If you have [private health insurance](/glossary/private%20Krankenversicherung), get *[[Krankentagegeld]]* insurance.
 - Get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are permanently unable to do your job. If you have a family or a mortgage, this is important.
 - In your contracts, define what happens if you are too sick to finish a project in time.

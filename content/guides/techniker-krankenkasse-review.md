@@ -47,7 +47,7 @@ At the dentist, TK only covers the least expensive treatment. For example, if yo
 
 The cost of TK health insurance depends on your income. If you earn more, it's more expensive. This is true for all public health insurers, not just TK.
 
-If you are a freelancer, it's more expensive because your employer does not pay half of your health insurance. If you earn a lot, you can pay up to {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month in health insurance!
+If you are a freelancer, it's more expensive because your employer does not pay half of your health insurance. If you earn a lot, you can pay up to {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month in health insurance!
 
 On the other hand, the price of [private health insurance](/glossary/private%20Krankenversicherung) depends on your age and your health. If you are young, healthy, child-free, freelance and well-paid, private health insurance can be *much* cheaper.
 

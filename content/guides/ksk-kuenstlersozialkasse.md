@@ -26,7 +26,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 ### Advantages
 
 - **They pay half of your health insurance**  
-    Normally, freelancers pay [{{GKV_ESTIMATED_MIN_CONTRIBUTION|cur}}€ to {{GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION|cur}}€ per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You keep the same coverage.
+    Normally, freelancers pay [{{GKV_MIN_COST|cur}}€ to {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You keep the same coverage.
 - **They pay half of your public pension insurance**  
     [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required, but the KSK pays half of it. You get a public pension for half the price.
 - **It lets you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  

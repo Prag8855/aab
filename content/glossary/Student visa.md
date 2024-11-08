@@ -6,12 +6,12 @@ Description: A residence permit to study in Germany.
 Date_created: 2019-08-07
 Related_guides:
     guides/residence-permit.md
-    guides/find-a-job-in-berlin.md
     guides/moving-to-berlin.md
     guides/work-visa.md
     guides/blue-card.md
     guides/freelance-visa.md
     guides/permanent-residence.md
+    guides/find-a-job-in-berlin.md
 ---
 
 The German student visa (*Studentenvisum*) is a [residence permit](/glossary/Aufenthaltstitel) to study in Germany.

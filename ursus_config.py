@@ -201,12 +201,16 @@ beitragsbemessungsgrenze_west = 90600
 gkv_hoechstbeitrag_min_income = 62100
 geringfuegigkeitsgrenze = round(minimum_wage * 130 / 3)
 bezugsgroesse_west = 3535
-health_insurance_base_contrib = 14.6
-pension_insurance_base_contrib = 18.6
+health_insurance_base_rate = 14.6
+health_insurance_base_rate_student = health_insurance_base_rate * 0.7
+pension_insurance_base_rate = 18.6
+bafog_bedarfssatz = 855
 health_insurance_min_pflegeversicherung = 2.4
 health_insurance_max_pflegeversicherung = 4
 health_insurance_min_zusatzbeitrag = 1
 health_insurance_max_zusatzbeitrag = 1.9
+health_insurance_avg_zusatzbeitrag = 1.7
+health_insurance_min_income = bezugsgroesse_west / 90 * 30
 freelance_visa_min_monthly_pension = 1503.34  # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
 
 aufenthv_41_countries = [
@@ -266,7 +270,7 @@ config.context_globals = {
     # ==============================================================================
 
     # Mindestbemessungsgrundlage (€/mth) - §240 Abs. 4 SGV IV
-    "GKV_MIN_INCOME": bezugsgroesse_west / 90 * 30,
+    "GKV_MIN_INCOME": health_insurance_min_income,
 
     # Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
     "GKV_FREIWILLIG_VERSICHERT_MIN_INCOME": 69300,
@@ -287,50 +291,85 @@ config.context_globals = {
     "GKV_FAMILIENVERSICHERUNG_MAX_INCOME": 1 / 7 * bezugsgroesse_west,
 
     # Base contribution (%), including Krankengeld - § 241 SGB V
-    "GKV_BASE_CONTRIBUTION": health_insurance_base_contrib,
+    "GKV_BASE_RATE": health_insurance_base_rate,
 
     # Base contribution (%) for students - § 245 SGB V
-    "GKV_STUDENT_BASE_CONTRIBUTION": health_insurance_base_contrib * 0.7,
+    "GKV_BASE_RATE_STUDENT": health_insurance_base_rate_student,
 
     # Base contribution (%), excluding Krankengeld - § 243 SGB V
-    "GKV_SELF_EMPLOYED_BASE_CONTRIBUTION": 14,
+    "GKV_SELF_EMPLOYED_BASE_RATE": 14,
 
     # Estimated minimum contribution (€/mth) without employer contribution
-    # TODO (2024-01-01)
-    "GKV_ESTIMATED_MIN_CONTRIBUTION": 210,
+    "GKV_MIN_COST": round(
+        health_insurance_min_income * (
+            health_insurance_base_rate
+            + health_insurance_min_pflegeversicherung
+            + health_insurance_min_zusatzbeitrag
+        ) / 100,
+        -1
+    ),
 
-    # Estimated maximum contribution for employees (€/mth)
-    # TODO (2024-01-01)
-    "GKV_ESTIMATED_EMPLOYEE_MAX_CONTRIBUTION": 470,
+    # Maximum health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
+    "GKV_MAX_COST_EMPLOYEE": round(
+        gkv_hoechstbeitrag_min_income / 12 * (
+            health_insurance_base_rate
+            + health_insurance_max_pflegeversicherung
+            + health_insurance_avg_zusatzbeitrag
+        ) / 100
+        / 2,
+        -1
+    ),
 
-    # Estimated maximum contribution for freelancers (€/mth)
-    # TODO (2024-01-01)
-    "GKV_ESTIMATED_SELF_EMPLOYED_MAX_CONTRIBUTION": 925,
+    # Maximum health insurance cost for freelancers (€/mth), with avg. Zusatzbeitrag
+    "GKV_MAX_COST_SELF_EMPLOYED": round(
+        gkv_hoechstbeitrag_min_income / 12 * (
+            health_insurance_base_rate
+            + health_insurance_max_pflegeversicherung
+            + health_insurance_avg_zusatzbeitrag
+        ) / 100,
+        -1
+    ),
 
-    # Estimated contribution for students (€/mth)
-    # TODO (2024-01-01)
-    "GKV_ESTIMATED_STUDENT_CONTRIBUTION": 120,
+    # Contribution for students (€/mth), with average Zusatzbeitrag
+    "GKV_COST_STUDENT": round(
+        bafog_bedarfssatz * (
+            health_insurance_base_rate_student
+            + health_insurance_max_pflegeversicherung
+            + health_insurance_avg_zusatzbeitrag
+        ) / 100,
+        -1
+    ),
 
     # Used to calculate health insurance for a midijob - § 20 SGB IV - monitored
     "GKV_FACTOR_F": 0.6846,
 
     # Not quite accurate, but good enough
     "GKV_MIN_EMPLOYEE_RATE": round(
-        (health_insurance_base_contrib + health_insurance_min_pflegeversicherung + health_insurance_min_zusatzbeitrag)
-        / 2,
+        (
+            health_insurance_base_rate
+            + health_insurance_min_pflegeversicherung
+            + health_insurance_min_zusatzbeitrag
+        ) / 2,
         1
     ),
-    "GKV_MAX_EMPLOYEE_RATE": round(
-        (health_insurance_base_contrib + health_insurance_max_pflegeversicherung + health_insurance_max_zusatzbeitrag)
-        / 2,
+    "GKV_MAX_RATE_EMPLOYEE": round(
+        (
+            health_insurance_base_rate
+            + health_insurance_max_pflegeversicherung
+            + health_insurance_max_zusatzbeitrag
+        ) / 2,
         1
     ),
     "GKV_MIN_FREELANCER_RATE": round(
-        health_insurance_base_contrib + health_insurance_min_pflegeversicherung + health_insurance_min_zusatzbeitrag,
+        health_insurance_base_rate
+        + health_insurance_min_pflegeversicherung
+        + health_insurance_min_zusatzbeitrag,
         1
     ),
-    "GKV_MAX_FREELANCER_RATE": round(
-        health_insurance_base_contrib + health_insurance_max_pflegeversicherung + health_insurance_max_zusatzbeitrag,
+    "GKV_MAX_RATE_SELF_EMPLOYED": round(
+        health_insurance_base_rate
+        + health_insurance_max_pflegeversicherung
+        + health_insurance_max_zusatzbeitrag,
         1
     ),
 
@@ -341,13 +380,13 @@ config.context_globals = {
     "PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE": 22,
 
     # BAFöG Bedarfssatz (€/y) - sum of §13 BAföG Abs 1.2 + 2.2
-    "GKV_BAFOG_BEDARFSSATZ": 855,
+    "BAFOG_BEDARFSSATZ": bafog_bedarfssatz,
 
     # Minimum income (€/y) to join the Künstlersozialkasse - § 3 Abs. 1 KSVG
     "KSK_MIN_INCOME": 3900,
 
     # Zusatzbeiträge
-    "GKV_ZUSATZBEITRAG_AVERAGE": 1.7,
+    "GKV_ZUSATZBEITRAG_AVERAGE": health_insurance_avg_zusatzbeitrag,
     "GKV_ZUSATZBEITRAG_AOK": 2.7,
     "GKV_ZUSATZBEITRAG_BARMER": 2.19,
     "GKV_ZUSATZBEITRAG_DAK": 1.7,
@@ -422,8 +461,8 @@ config.context_globals = {
 
     # Public pension contribution (%) - RVBeitrSBek 202X
     "RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION": 9.3,
-    "RENTENVERSICHERUNG_TOTAL_CONTRIBUTION": pension_insurance_base_contrib,
-    "RENTENVERSICHERUNG_MIN_CONTRIBUTION": pension_insurance_base_contrib * geringfuegigkeitsgrenze / 100,
+    "RENTENVERSICHERUNG_TOTAL_CONTRIBUTION": pension_insurance_base_rate,
+    "RENTENVERSICHERUNG_MIN_CONTRIBUTION": pension_insurance_base_rate * geringfuegigkeitsgrenze / 100,
 
     # Minimum Vorsorgepauschale - §39b Abs. 2.3 EStG
     "VORSORGEPAUSCHAL_MIN": 1900,
