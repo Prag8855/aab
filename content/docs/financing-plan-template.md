@@ -24,3 +24,13 @@ You need this form to [apply for a freelance visa](/guides/freelance-visa) in Be
 {% include "_blocks/downloadDocuments.html"%}
 
 This is the official example from [Berlin.de](https://service.berlin.de/dienstleistung/305249/). The Berlin *[[Ausländerbehörde]]* prefers that you use this template, but you can also make your own *Finanzierungsplan*.
+
+## How to fill this form
+
+Only fill this form if you are *[[Selbständig]]*. If you are a *[[Freiberufler]]*, fill a [revenue forecast](/docs/ertragsvorschau) instead.
+
+This form describes your *estimated* income and expenses. Your estimated income should be **realistic, but ambitious**. It's better to estimate too high than too low.[^1] If your income is higher, you might get a longer freelance visa.
+
+Some fields might not apply to your business. You can leave them empty.
+
+[^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2022)

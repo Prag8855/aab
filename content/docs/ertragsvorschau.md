@@ -29,6 +29,8 @@ The same template is on [Berlin.de](https://service.berlin.de/dienstleistung/305
 
 ## How to fill the revenue forecast
 
+Only fill this form if you are a *[[Freiberufler]]*. If you are *[[Selbständig]]*, fill a [financing plan](/docs/financing-plan-template) instead.
+
 This form describes your *estimated* income and expenses. Your estimated income should be **realistic, but ambitious**. It's better to estimate too high than too low.[^1] If your income is higher, you might get a longer freelance visa.
 
 - **Drawn by** (*erstellt durch*)  
@@ -40,6 +42,7 @@ This form describes your *estimated* income and expenses. Your estimated income 
 - **Other business taxes**  
     Include your estimated [income tax](/glossary/Einkommensteuer), or leave this field empty. If you pay trade tax (*[[Gewerbesteuer]]*), you pay less income tax. Write your total income tax minus your total trade tax.
 
+Some fields might not apply to your business. You can leave them empty.
 
 [^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2022)
 [^2]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1732436883891674/) (2023)
