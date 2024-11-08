@@ -601,6 +601,18 @@ config.context_globals = {
 
     # (€) - https://www.meineschufa.de/de/datenkopie, https://bonitaetscheck.immobilienscout24.de/
     "SCHUFA_REPORT_FEE": 29.95,
+
+    # ==============================================================================
+    # PENSION_REFUNDS
+    # ==============================================================================
+
+    # (%)
+    "FUNDSBACK_FEE": '9.405',
+    "FUNDSBACK_MIN_FEE": 899,
+    "FUNDSBACK_MAX_FEE": 2899,
+    "GERMANYPENSIONREFUND_FEE": '9.75',
+    "PENSIONREFUNDGERMANY_FEE": '10',
+    "PENSIONREFUNDGERMANY_MAX_FEE": 2800,
 }
 
 config.jinja_filters = {

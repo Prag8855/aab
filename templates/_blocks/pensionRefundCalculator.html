@@ -53,32 +53,25 @@
 						{
 							name: 'FundsBack',
 							key: 'fundsback',
-							description: "9.405% fee. Minimum 899€, maximum 2,899€. No refund, no fee.",
-							fee: x => Math.min(Math.max(x * 0.09405, 899), 2899),
+							fee: x => Math.min(Math.max(x * {{ FUNDSBACK_FEE }}/100, {{ FUNDSBACK_MIN_FEE }}), {{ FUNDSBACK_MAX_FEE }}),
 						},
 						{
 							name: 'Germany Pension Refund',
 							key: 'germanypensionrefund',
-							description: "9.75% fee. No refund, no fee.",
-							fee: x => x * 0.0975,
+							fee: x => x * {{ GERMANYPENSIONREFUND_FEE }}/100,
 						},
 						{
 							name: 'Pension Refund Germany',
 							key: 'pensionrefundgermany',
-							description: "10% fee. Maximum 2,800€. No refund, no fee.",
-							fee: x => Math.min(x * 0.1, 2800),
+							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
 						},
 						{
 							name: 'Do it yourself',
-							description: 'Apply without help. No fee.',
 							fee: x => 0,
 						},
 					],
 					selectedPartner: null,
 				};
-			},
-			mounted() {
-				this.selectedPartner = this.sortedPartners[0];
 			},
 			methods: {
 				hasFlag(flag) {
@@ -234,6 +227,11 @@
 						}
 					);
 				},
+			},
+			watch: {
+				results(){
+					this.selectedPartner = this.sortedPartners[0];
+				}
 			}
 		})
 	);
@@ -400,7 +398,9 @@
 				<input type="radio" :name="uid('partner')" :value="partner" v-model="selectedPartner"/>
 				<div>
 					{{ partner.name }}
-					<br><small>{{ partner.description }}</small>
+					<br>
+					<small v-if="partner.name != 'Do it yourself'"><eur :amount="partner.fee(results.refundAmount)"></eur> fee if you get a refund.</small>
+					<small v-if="partner.name === 'Do it yourself'">Apply without help. No fee.</small>
 				</div>
 			</label>
 		</div>
@@ -411,7 +411,7 @@
 		</template>
 		<template v-if="selectedPartner.name !== 'Do it yourself'">
 			<div class="form-group">
-				<span class="label">Cost estimation</span>
+				<span class="label">Estimated refund</span>
 				<div>
 					<p class="price">
 						Your pension refund

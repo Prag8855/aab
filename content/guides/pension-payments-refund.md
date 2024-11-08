@@ -225,7 +225,7 @@ To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-pa
 
 ## How to ask for a pension refund
 
-The pension refund is not automatic. You must apply for it. You can do it yourself, or ask someone to do it for you.
+The pension refund is not automatic. You must apply for it. You can do it yourself, or [pay someone to do it for you](#get-help-from-someone).
 
 ### Do it yourself
 
@@ -239,10 +239,10 @@ If you want to do it yourself, here are the steps:[^19]
     After your last mandatory pension payment, you must wait 24 months to apply for a refund.[^20] Your last payment usually is one month after your last day of work. For example, if your last day of work was on March 5, 2018, your last payment was in April 2018. You can apply for a refund in May 2020. While you wait, you can still prepare the documents. It's easier if you prepare the documents while you are in Germany.
 2. **Find your [tax ID](/glossary/Steueridentifikationsnummer) and your [social insurance number](/glossary/Sozialversicherungsnummer)**  
     You need those numbers to fill the forms. Use [this guide](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id) to find your tax ID, and [this guide](/guides/german-versicherungsnummer) to find your social insurance number.
-3. **Download [this form package](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/Formularpakete/01_versicherte/01_vor_der_rente/_DRV_Paket_Versicherung_Erstattung_von_Beitr%C3%A4gen.html), and fill the correct form**  
-    If you need help to fill the forms, you can [book an appointment with the DRV](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You can also call them, but they only speak German.
-    1. If you are Turkish, you must fill form [form E5816](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/E5816.html) (previously A5800). This form is in Turkish and German. The instructions are in [document E5817](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/E5817.html) (previously A5801) (in German).
-    2. If you are not Turkish, you must fill the standard form.[^21] The instructions are in [document V0910](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0910.html) (in German).
+3. **Download [the form package](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/Formularpakete/01_versicherte/01_vor_der_rente/_DRV_Paket_Versicherung_Erstattung_von_Beitr%C3%A4gen.html), and fill the correct form**  
+    If you need help to fill the forms, you can call the *[[Deutsche Rentenversicherung]]* or [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html).
+    1. If you are Turkish, you must fill form [form E5816](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/E5816.html). This form is in Turkish and German. Follow the German instructions in [document E5817](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/E5817.html).
+    2. If you are not Turkish, you must fill the standard form.[^21] Follow the German instructions in [document V0910](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0910.html).
         - [Form V0900](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0900.html) in German, 
         - **or** form V0901 in [English](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_englisch.html), [French](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_franzoesisch.html), [Italian](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_italienisch.html) or [Spanish](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0901_spanisch.html)
 4. **Download and fill the payment information form** (*Zahlungserklärung*)  
@@ -263,8 +263,8 @@ If you want to do it yourself, here are the steps:[^19]
     - [ ] **Power of attorney** (*[[Vollmacht]]*)  
         If you apply for someone else, or someone else applies for you, include a *Vollmacht*.
 6. **Send everything to the Deutsche Rentenversicherung**  
-    Send all the required forms and documents to *Deutsche Rentenversicherung Bund 10704 Berlin.*[^24] Don't send the documents before the end of the 2 year waiting period. If you send your documents too early, they will send them back to you.
-7. **Wait for an answer**  
+    Send all the required forms and documents to *Deutsche Rentenversicherung Bund, 10704 Berlin.*[^24] Don't send your documents before the end of the 2 year waiting period. If you send your documents too early, they will send them back to you.
+7. **Wait for a response**  
     The Deutsche Rentenversicherung will review your case. If they need more documents, they will contact you.[^25] They will contact you by post, in German. You might need to mail more documents later.[^26] You might need to go to the German embassy or consulate to prove that you live in that country. Each employee wants something different. You must be patient.
 8. **Get your refund**  
     The Deutsche Rentenversicherung will send you a letter to confirm that you want your refund.[^27] After you confirm, you might wait another 6 weeks before you get your refund.
@@ -286,16 +286,16 @@ You can let someone take care of everything. There are good reasons to get help:
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-01-01') }}
 
-- **[Pension Refund Germany](/out/german-pension-refund)**{% include '_blocks/recommended.html' %}  
-    Their fee is 10% of your refund (maximum fee 2,800€).[^31] They automated the process, so you do everything online. They pay you in the currency you prefer. They work with a lawyer.
 - **[Germany Pension Refund](/out/germany-pension-refund)**{% include '_blocks/recommended.html' %}  
-    Their fee is 9.75% of your refund (no minimum or maximum fee).[^30] They specialise in pension refunds since 2007. They helped me a lot, and they verified this guide many times. Every case goes through their lawyers.
+    Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30] The process is fully digital. They specialise in pension refunds since 2007.
+- **[Pension Refund Germany](/out/german-pension-refund)**{% include '_blocks/recommended.html' %}  
+    Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31] The process is fully digital.
 - **[FundsBack](/out/fundsback)**{% include '_blocks/recommended.html' %}  
-    Their fee is 9.9% of your refund (minimum fee 899€, maximum 2,899€){{ fail_on('2025-01-01') }}, or 9.405% if you use the link above.[^29] They specialise in pension refunds since 2017. Their lawyer helped me a lot, and he verified this guide many times. Every case goes through their lawyer.
+    Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee {{FUNDSBACK_MIN_FEE}}€, maximum {{FUNDSBACK_MAX_FEE|cur}}€).[^29]
 - **Other options**  
-    [TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) or [Pension Redemption](https://www.pension-redemption.com/) can also help you with your pension refund. Their fee is too high, so I don't recommend them.
+    [TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) can also help you with your pension refund. Their fee is too high, so I don't recommend them.
 
-The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. You can also write in English, but they will answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
+The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
 ## How long does it take to get a refund?
 
