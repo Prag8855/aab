@@ -1,7 +1,7 @@
 from django_countries.serializers import CountryFieldMixin
 from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, \
     PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
-from rest_framework.serializers import HyperlinkedModelSerializer, IntegerField, CharField
+from rest_framework.serializers import HyperlinkedModelSerializer, IntegerField, CharField, DateTimeField
 
 
 message_fields = [
@@ -73,8 +73,22 @@ class PensionRefundRequestSerializer(CountryFieldMixin, HyperlinkedModelSerializ
         ]
 
 
+residence_permit_feedback_fields = [
+    'application_date',
+    'appointment_date',
+    'creation_date',
+    'department',
+    'first_response_date',
+    'modification_date',
+    'notes',
+    'pick_up_date',
+    'residence_permit_type',
+]
+
+
 class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
     modification_key = CharField(read_only=True)
+    modification_date = DateTimeField(read_only=True)
 
     def validate(self, attrs):
         instance = ResidencePermitFeedback(**attrs)
@@ -84,32 +98,16 @@ class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
     class Meta:
         model = ResidencePermitFeedback
         fields = [
-            'modification_key',
-            'creation_date',
-            'application_date',
-            'appointment_date',
+            *residence_permit_feedback_fields,
             'email',
-            'first_response_date',
-            'department',
-            'notes',
-            'pick_up_date',
-            'residence_permit_type',
+            'modification_key',
         ]
 
 
 class PublicResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
     class Meta:
         model = ResidencePermitFeedback
-        fields = [
-            'creation_date',
-            'application_date',
-            'appointment_date',
-            'first_response_date',
-            'department',
-            'notes',
-            'pick_up_date',
-            'residence_permit_type',
-        ]
+        fields = residence_permit_feedback_fields
 
 
 class TaxIdRequestFeedbackReminderSerializer(HyperlinkedModelSerializer):

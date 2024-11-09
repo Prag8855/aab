@@ -124,6 +124,7 @@ class Feedback(EmailMixin, models.Model):
 
     class Meta:
         abstract = True
+        ordering = ['-modification_date']
 
 
 class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):

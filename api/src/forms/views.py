@@ -28,24 +28,6 @@ class MessageViewSet(mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.Ge
     permission_classes = [MessagePermission]
 
 
-class FeedbackPermission(permissions.BasePermission):
-    """
-    Feedback can be posted anonymously.
-    It can be read with people who have the modification_key.
-    It can only be listed by admins.
-    """
-
-    def has_permission(self, request, view):
-        if request.method in ('POST', 'PUT'):
-            return True
-        elif request.method == 'GET':
-            if view.action == 'retrieve':
-                return True
-            else:
-                return request.user and request.user.is_superuser
-        return False
-
-
 class FeedbackViewSet(mixins.UpdateModelMixin, mixins.RetrieveModelMixin, mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.GenericViewSet):
     http_method_names = ['get', 'post', 'put']
 
