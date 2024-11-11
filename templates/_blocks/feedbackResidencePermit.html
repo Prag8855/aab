@@ -262,8 +262,8 @@
 					return {
 						application: "I have applied in Berlin",
 						response: "The Ausländerbehörde has replied",
-						appointment: "I have an appointment date",
-						pickup: `I have received my ${this.residencePermitName}`,
+						appointment: "I got an appointment",
+						pickup: `I got my ${this.residencePermitName}`,
 					}[key];
 				},
 				minimumStepDate(step){
@@ -293,7 +293,7 @@
 <collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %}  {% if open|default %}open{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>
-		How is your {{ residencePermitName }} application going?
+		How is your <span class="no-mobile">{{ residencePermitName }}</span> application going?
 	</template>
 	<template v-if="stage === 'start'">
 		<template  v-for="(step, key, index) in steps" :key="key">
