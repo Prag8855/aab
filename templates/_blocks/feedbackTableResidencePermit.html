@@ -1,0 +1,175 @@
+{% include '_js/vue.js' %}
+{% js %}
+	document.querySelectorAll('.residence-permit-feedback-table').forEach(
+		el => new Vue({
+			el: el,
+			mixins: [],
+			data() {
+				return {
+					currentPage: 1,
+					isLoading: true,
+					results: [],
+					residencePermitType: null,
+					residencePermitTypes: {
+						BLUE_CARD: "Blue Card",
+						FAMILY_REUNION_VISA: "Family reunion visa",
+						FREELANCE_VISA: "Freelance visa",
+						PERMANENT_RESIDENCE: "Permanent residence",
+						STUDENT_VISA: "Student visa",
+						WORK_VISA: "Work visa",
+					},
+					department: null,
+					departments: {
+						A1_A5: 'A1, A5',
+						A2_A3_A4: 'A2, A3, A4',
+						B1_B2_B3_B4: 'B1, B2, B3, B4',
+						B6: 'B6',
+						E1: 'E1',
+						E2: 'E2',
+						E3: 'E3',
+						E4: 'E4',
+						E5: 'E5',
+						E6: 'E6',
+					},
+				};
+			},
+			async mounted(){
+				this.results = (await (await fetch('/api/forms/residence-permit-feedback.json')).json()).map(r => {
+					r.modification_date = new Date(r.modification_date);
+					r.application_date = new Date(r.application_date);
+					r.first_response_date = r.first_response_date ? new Date(r.first_response_date) : null;
+					r.appointment_date = r.appointment_date ? new Date(r.appointment_date) : null;
+					r.pick_up_date = r.pick_up_date ? new Date(r.pick_up_date) : null;
+					return r;
+				});
+			},
+			computed: {
+				filteredResults(){
+					return this.results.filter(r => 
+						(r.department === this.department || !this.department)
+						&& (r.residence_permit_type === this.residencePermitType || !this.residencePermitType)
+					)
+				},
+				paginatedResults(){
+					const start = (this.currentPage - 1) * 10;
+					return this.filteredResults.slice(start, start + 10);
+				},
+				pageCount(){
+					return Math.ceil(this.filteredResults.length / 10);
+				},
+				pages(){
+					return Array.from({length: this.pageCount}, (_, i) => i + 1);
+				}
+			},
+			methods: {
+				goToPage(page){
+					this.currentPage = page;
+					this.$refs.topOfPage.scrollIntoView();
+				},
+				formatDate(date){
+					if(date) {
+						const dateObj = (date instanceof Date) ? date : dateFromString(date);
+						return dateObj.toLocaleDateString("en-US", {
+							year: 'numeric',
+							month: 'short',
+							day: 'numeric',
+						});
+					}
+					return '';
+				},
+				timeBetween(date1, date2) {
+					const years = date2.getFullYear() - date1.getFullYear();
+					const months = date2.getMonth() - date1.getMonth();
+					const monthCount = (years * 12 + months);
+					if(monthCount < 2){
+						const millisecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
+						const differenceInMilliseconds = Math.abs(date2.getTime() - date1.getTime());
+						const weekCount = Math.floor(differenceInMilliseconds / millisecondsPerWeek);
+						if(weekCount === 0){
+							return 'Waited a few days';
+						}
+						weeks = (weekCount === 1 ? ' week' : ' weeks')
+						return `Waited ${weekCount} ${weeks}`;
+					}
+					return  `Waited ${monthCount} months`;
+				},
+			},
+			watch: {
+				department(){
+					this.currentPage = 1;
+				},
+				residencePermitType(){
+					this.currentPage = 1;
+				}
+			}
+		})
+	);
+{% endjs %}
+
+{% raw %}
+<div class="residence-permit-feedback-table">
+	<div class="filter-group" ref="topOfPage">
+		<select v-model="residencePermitType">
+			<option :value="null">All residence permits</option>
+			<option disabled>──────────</option>
+			<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key">{{ name }}</option>
+		</select>
+		<select v-model="department">
+			<option :value="null">All departments</option>
+			<option disabled>──────────</option>
+			<option v-for="(name, key) in departments" :key="key" :value="key">{{ name }}</option>
+		</select>
+	</div>
+	<div class="feedback-list">
+		<div v-for="result in paginatedResults">
+			<h3>
+				{{ residencePermitTypes[result.residence_permit_type] }} &mdash; {{ departments[result.department] }}
+			</h3>
+
+			<div class="step completed">
+				<input type="checkbox" checked disabled>
+				<span class="description">Applied on {{ formatDate(result.application_date) }}</span>
+				<span class="duration" v-if="result.first_response_date">{{ timeBetween(result.application_date, result.first_response_date) }}</span>
+				<span class="duration" v-if="!result.first_response_date">{{ timeBetween(result.application_date, result.modification_date) }}</span>
+			</div>
+
+			<div class="step">
+				<input type="checkbox" :checked="result.first_response_date" disabled>
+				<span v-if="result.first_response_date" class="description">First response on {{ formatDate(result.first_response_date) }}</span>
+				<span v-if="!result.first_response_date" class="description">No response as of {{ formatDate(result.modification_date) }}</span>
+				<span class="duration" v-if="result.first_response_date">{{ timeBetween(result.first_response_date, result.modification_date) }}</span>
+			</div>
+
+			<div class="step">
+				<input type="checkbox" :checked="result.appointment_date" disabled>
+				<span v-if="result.appointment_date" class="description">Appointment on {{ formatDate(result.appointment_date) }}</span>
+				<span v-if="!result.appointment_date" class="description">No appointment <template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template></span>
+				<span class="duration" v-if="result.appointment_date">
+					{{ timeBetween(result.appointment_date, result.modification_date) }}
+					<template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template>
+				</span>
+			</div>
+
+			<div class="step">
+				<input type="checkbox" :checked="result.pick_up_date" disabled>
+				<span v-if="result.pick_up_date" class="description">Picked up the residence permit</span>
+				<span v-if="!result.pick_up_date" class="description">
+					No pick-up date
+					<template v-if="result.appointment_date">as of {{ formatDate(result.modification_date) }}</template>
+				</span>
+			</div>
+
+			<div v-if="result.notes.length" class="notes">{{ result.notes.trim() }}</div>
+		</div>
+		<nav class="pagination" aria-label="Pagination">
+			<button v-if="currentPage > 1" @click.prevent="goToPage(currentPage - 1)"><i class="icon left"></i></button>
+			<button :class="{current: currentPage === page}"
+				v-for="page in pages" :key="page"
+				@click.prevent="goToPage(page)"
+				:title="'Go to page ' + page"
+				:disabled="currentPage === page">{{ page }}</button>
+			<button v-if="currentPage < pageCount" @click.prevent="goToPage(currentPage + 1)"><i class="icon right"></i></button>
+		</nav>
+	</div>
+</div>
+{% endraw %}
