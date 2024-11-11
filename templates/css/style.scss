@@ -1346,12 +1346,14 @@ sup:target a{
     outline: none;
     box-shadow: 0 0 0 1px transparent;
 
-    &:focus, &:focus-within, &:active{
-        @include form-input-hover;
+    &:not([disabled]){
+        &:focus, &:focus-within, &:active{
+            @include form-input-hover;
+        }
     }
 
     @media (hover: hover) {
-        &:hover{
+        &:not([disabled]):hover{
             @include form-input-hover;
         }
     }
@@ -1382,7 +1384,9 @@ input:not([type=range],[type=file]), textarea, select, .toggle{
         display: inline-grid;
         place-items: center;
 
-        cursor: pointer;
+        &:not([disabled]){
+            cursor: pointer;
+        }
 
         &:after{
             font-family: 'Tahoma';
@@ -1761,6 +1765,20 @@ input[type=range] {
     margin: calc(var(--l-relative) * -1) 0 calc(var(--l-relative) * -1) calc(var(--w-checkbox) / 2);
     padding: var(--s-relative) 0 var(--s-relative) calc(var(--w-checkbox) / 2 + var(--s));
     font-size: var(--f-s);
+}
+
+
+.filter-group{
+    display: flex;
+    justify-content: flex-start;
+    gap: var(--m);
+    flex-wrap: wrap;
+    align-items: center;
+    @include only-phone{
+        > * {
+            flex:1 0 100%;
+        }
+    }
 }
 
 
@@ -2881,6 +2899,78 @@ details{
 
     @include only-phone{
         grid-template-columns: 1fr;
+    }
+}
+
+.feedback-list {
+    > div{
+        @include box-l;
+        margin: var(--l-relative) 0;
+        .department{
+            width: 10em;
+            display: inline-block;
+            float:right;
+        }
+        h3{
+            margin-bottom: var(--l);
+        }
+        .step{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            position: relative;
+            margin-left: calc(var(--w-checkbox) / 2);
+            border-left: var(--b-box);
+            align-items: flex-start;
+            line-height: var(--line-height-label);
+            
+            [type=checkbox]{
+                position: relative;
+                left: calc(var(--w-checkbox) / -2);
+            }
+
+            .description{
+                flex:1 0 auto;
+            }
+
+            .duration{
+                flex: 1 0 100%;
+                font-size: var(--f-s);
+                color: var(--c-text-light);
+                margin: var(--m) 0 0 var(--w-checkbox);
+                display: block;
+            }
+            + .step{
+                padding-top: var(--m);
+            }
+        }
+        .notes{
+            border-top: var(--b-box);
+            margin-top: var(--l);
+            padding-top: var(--l);
+            white-space: pre-wrap;
+        }
+    }
+}
+
+.pagination{
+    @include text-block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:var(--s);
+    text-align: center;
+
+    > *{
+        padding: var(--s) var(--l);
+        border-radius: var(--b-radius);
+        @include box-s;
+        &:not(.current){
+            @include box-clickable;
+        }
+        &.current{
+            @include text-bold;
+        }
     }
 }
 
