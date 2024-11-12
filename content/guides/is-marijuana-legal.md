@@ -77,7 +77,7 @@ You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shop
 
 ### Is HHC legal
 
-**Yes.** As of May 2024, Hexahydrocannabinol (HHC) is legal. The government could ban it in the future.[^27] HHC is synthetic cannabis. It might not feel the same as natural cannabis.
+**Yes.** As of May 2024, Hexahydrocannabinol (HHC) is legal. The government could ban it in the future.[^27] HHC is synthetic cannabis. It might not feel the same as natural cannabis.{{ fail_on('2025-02-01') }}
 
 You can find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]
 
