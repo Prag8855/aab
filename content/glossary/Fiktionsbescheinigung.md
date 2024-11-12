@@ -7,7 +7,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/fiktionsbescheinigung.md
     guides/berlin-auslanderbehorde-appointment.md
-    tools/residence-permit-feedback.md
+    tools/auslanderbehorde-wait-times.md
     guides/freelance-visa.md
     guides/blue-card.md
     guides/work-visa.md

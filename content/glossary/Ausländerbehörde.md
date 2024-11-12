@@ -6,7 +6,7 @@ Description: The foreigners' office. It's responsible for German immigration, vi
 Date_created: 2017-09-22
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
-    tools/residence-permit-feedback.md
+    tools/auslanderbehorde-wait-times.md
     guides/residence-permit.md
     guides/blue-card.md
     guides/work-visa.md
@@ -26,4 +26,4 @@ There are 2 *Ausländerbehörde* locations in Berlin:
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
 
-**[Berlin Ausländerbehörde wait times ➞](/tools/residence-permit-feedback)**
+**[Berlin Ausländerbehörde wait times ➞](/tools/auslanderbehorde-wait-times)**

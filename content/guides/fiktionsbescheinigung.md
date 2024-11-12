@@ -11,7 +11,7 @@ This guide explains how the *Fiktionsbescheinigung* works, how to apply for a *F
 
 ## What is a Fiktionsbescheinigung?
 
-In Germany, it can take [months](/tools/residence-permit-feedback) to get a residence permit. You get a *Fiktionsbescheinigung* if your visa or [residence permit](/glossary/Aufenthaltstitel) expires while you wait for a new residence permit. The *Fiktionsbescheinigung* proves that you can stay in Germany while you wait.
+In Germany, it can take [months](/tools/auslanderbehorde-wait-times) to get a residence permit. You get a *Fiktionsbescheinigung* if your visa or [residence permit](/glossary/Aufenthaltstitel) expires while you wait for a new residence permit. The *Fiktionsbescheinigung* proves that you can stay in Germany while you wait.
 
 ![How a Fiktionsbescheinigung works](/illustrations/fiktionsbescheinigung-explanation.png)
 

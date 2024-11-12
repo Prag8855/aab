@@ -95,7 +95,7 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work before you get your Blue Card.[^35] It can take [a long time](/tools/residence-permit-feedback). You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
+Usually, you can't work before you get your Blue Card.[^35] It can take [a long time](/tools/auslanderbehorde-wait-times). You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^42] Your employer might pay for it, or hire someone to help you.
 
@@ -158,9 +158,9 @@ After you pay and send your application, you can download a PDF. This is a proof
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes [a few weeks](/tools/residence-permit-feedback) to get a response. Then they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. It takes [a few weeks](/tools/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
 
-**[Berlin Ausländerbehörde wait times ➞](/tools/residence-permit-feedback)**
+**[Berlin Ausländerbehörde wait times ➞](/tools/auslanderbehorde-wait-times)**
 
 In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
 
@@ -189,7 +189,7 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your Blue Card.
 
-If they approve your Blue Card, they must print the plastic card. You will get a second appointment to collect your Blue Card in [around 8 weeks](/tools/residence-permit-feedback).{{ fail_on('2025-01-15') }} You might get a temporary document that confirms that your Blue Card was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
+If they approve your Blue Card, they must print the plastic card. You will get a second appointment to collect your Blue Card in [around 8 weeks](/tools/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }} You might get a temporary document that confirms that your Blue Card was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
@@ -280,9 +280,9 @@ In Berlin, you must convert your National Visa **8 weeks before it expires**, no
 To convert your National Visa into a Blue Card:
 
 1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
-    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take [a really long time](/tools/residence-permit-feedback) to reply. When they reply, they will give you an appointment.
+    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take [a really long time](/tools/auslanderbehorde-wait-times) to reply. When they reply, they will give you an appointment.
 2. **Go to your appointment**  
-    During your appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/tools/residence-permit-feedback) to pick up your Blue Card.{{ fail_on('2025-01-15') }}
+    During your appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/tools/auslanderbehorde-wait-times) to pick up your Blue Card.{{ fail_on('2025-01-15') }}
 3. **Pick up your Blue Card**  
     Go to your second *Ausländerbehörde* appointment to collect your Blue Card. Bring your passport and your old residence permit.
 4. **[Activate your eID ➞](#activate-your-eid)** (optional)
@@ -335,7 +335,7 @@ Your feedback helps thousands of people plan their Blue Card application.
 
 {% include "_blocks/feedbackBlueCard.html" %}
 
-**[See other people's feedback ➞](/tools/residence-permit-feedback)**
+**[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 
 ### Bring your family to Germany
 

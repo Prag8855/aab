@@ -37,7 +37,7 @@ If you [start a business in Germany](/guides/start-a-business-in-germany), you m
 
 **[Cost of running a business ➞](/guides/start-a-business-in-germany#cost-of-running-a-business)**
 
-You also need savings to get started. If you need a [residence permit](/glossary/Aufenthaltstitel) to freelance in Germany, you can't work before you get the permit. [It can take months](/tools/residence-permit-feedback) to get a freelance visa, and you need enough savings to wait. If you don't have enough savings, [apply for the residence permit in your home country](/guides/freelance-visa#how-to-apply-in-your-country), and move to Germany after you get the permit. It's cheaper and safer.
+You also need savings to get started. If you need a [residence permit](/glossary/Aufenthaltstitel) to freelance in Germany, you can't work before you get the permit. [It can take months](/tools/auslanderbehorde-wait-times) to get a freelance visa, and you need enough savings to wait. If you don't have enough savings, [apply for the residence permit in your home country](/guides/freelance-visa#how-to-apply-in-your-country), and move to Germany after you get the permit. It's cheaper and safer.
 
 ### Business registration
 
@@ -126,7 +126,7 @@ You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). T
 
 ## Build some savings
 
-If you need a [freelance visa](/glossary/Freelance%20visa) to be self-employed, you need enough savings to survive until you get it. In Berlin, this takes [a few months](/tools/residence-permit-feedback).[^4]
+If you need a [freelance visa](/glossary/Freelance%20visa) to be self-employed, you need enough savings to survive until you get it. In Berlin, this takes [a few months](/tools/auslanderbehorde-wait-times).[^4]
 
 **[Cost of living in Germany ➞](/guides/cost-of-living)**
 
@@ -162,7 +162,7 @@ If you are not a EU or [[EEA]] citizen or permanent resident, you need a [reside
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-If you need a residence permit, you must [apply for a German freelance visa](/guides/freelance-visa). [It takes a few months](/tools/residence-permit-feedback) to get it.[^8] You can't start working without it. If you already have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might allow you to freelance already.
+If you need a residence permit, you must [apply for a German freelance visa](/guides/freelance-visa). [It takes a few months](/tools/auslanderbehorde-wait-times) to get it.[^8] You can't start working without it. If you already have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might allow you to freelance already.
 
 If you are a citizen of **{{AUFENTHV_41_COUNTRIES}}**, you can visit Germany for up to 90 days without a visa.[^6] You can come to Germany and apply for a freelance visa in Germany. It's easier to prepare your freelance visa application if you are already in Germany, but you might spend more time in Germany without an income.
 
