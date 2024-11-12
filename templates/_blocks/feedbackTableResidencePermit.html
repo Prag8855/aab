@@ -1,4 +1,5 @@
 {% include '_js/vue.js' %}
+{% include '_js/utils.js' %}
 {% js %}
 	document.querySelectorAll('.residence-permit-feedback-table').forEach(
 		el => new Vue({
@@ -77,25 +78,7 @@
 					}
 					return '';
 				},
-				timeBetween(date1, date2) {
-					const years = date2.getFullYear() - date1.getFullYear();
-					const months = date2.getMonth() - date1.getMonth();
-					const monthCount = (years * 12 + months);
-					if(monthCount < 2){
-						const millisecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
-						const differenceInMilliseconds = date2.getTime() - date1.getTime();
-						const weekCount = Math.floor(differenceInMilliseconds / millisecondsPerWeek);
-						if(weekCount === 0){
-							return 'a few days';
-						}
-						else if(weekCount < 0){
-							return 'Still waiting';
-						}
-						weeks = (weekCount === 1 ? ' week' : ' weeks')
-						return `${weekCount} ${weeks}`;
-					}
-					return  `${monthCount} months`;
-				},
+				formatTimeDelta,
 			},
 			watch: {
 				department(){
@@ -127,7 +110,7 @@
 		<div v-for="result in paginatedResults">
 			<h3>
 				{{ residencePermitTypes[result.residence_permit_type] }}
-				<template v-if="result.pick_up_date">in {{ timeBetween(result.application_date, result.pick_up_date) }}</template>
+				<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
 				&mdash; {{ departments[result.department] }}
 			</h3>
 
@@ -136,10 +119,10 @@
 				<span class="description">Applied on {{ formatDate(result.application_date) }}</span>
 				<span class="duration">
 					<template v-if="result.first_response_date">
-						Waited {{ timeBetween(result.application_date, result.first_response_date) }}
+						Waited {{ formatTimeDelta(result.application_date, result.first_response_date) }}
 					</template>
 					<template v-else>
-						Waited {{ timeBetween(result.application_date, result.modification_date) }}
+						Waited {{ formatTimeDelta(result.application_date, result.modification_date) }}
 					</template>
 				</span>
 			</div>
@@ -156,10 +139,10 @@
 				</span>
 				<span class="duration">
 					<template v-if="result.appointment_date">
-						Waited {{ timeBetween(result.first_response_date, result.appointment_date) }}
+						Waited {{ formatTimeDelta(result.first_response_date, result.appointment_date) }}
 					</template>
 					<template v-if="result.first_response_date && !result.appointment_date">
-						Waited {{ timeBetween(result.first_response_date, result.modification_date) }}
+						Waited {{ formatTimeDelta(result.first_response_date, result.modification_date) }}
 					</template>
 				</span>
 			</div>
@@ -176,13 +159,13 @@
 				</span>
 				<span class="duration">
 					<template v-if="result.pick_up_date">
-						Waited {{ timeBetween(result.appointment_date, result.pick_up_date) }}
+						Waited {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }}
 					</template>
 					<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date > result.modification_date">
 						Still waiting
 					</template>
 					<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
-						Waited {{ timeBetween(result.appointment_date, result.modification_date) }}
+						Waited {{ formatTimeDelta(result.appointment_date, result.modification_date) }}
 					</template>
 				</span>
 			</div>
