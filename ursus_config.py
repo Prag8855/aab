@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, date
 from decimal import Decimal
 from extensions.functions import glossary_groups
 from logtail import LogtailHandler
@@ -607,7 +607,7 @@ config.context_globals = {
     # ==============================================================================
 
     # (%)
-    "FUNDSBACK_FEE": '9.405',
+    "FUNDSBACK_FEE": '9.405' if date.today() < date(2024, 12, 31) else '9.9',
     "FUNDSBACK_MIN_FEE": 899,
     "FUNDSBACK_MAX_FEE": 2899,
     "GERMANYPENSIONREFUND_FEE": '9.75',
