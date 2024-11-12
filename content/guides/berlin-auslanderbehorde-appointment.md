@@ -25,7 +25,9 @@ Since August 2024, **there is no appointment booking system**. The only way to g
 
 ### Send your documents and wait
 
-Use the [contact form](/out/auslanderbehorde-contact), send your complete [residence permit](/glossary/Aufenthaltstitel) application, and wait a few weeks.[^6] **This is the only way to get an appointment.**
+Use the [contact form](/out/auslanderbehorde-contact), send your complete [residence permit](/glossary/Aufenthaltstitel) application, and wait.[^6] It takes a few weeks to a few months to get an answer. **This is the only way to get an appointment.**
+
+**[Ausländerbehörde wait times ➞](/tools/residence-permit-feedback)**
 
 If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], send your documents 8 weeks before it expires, not sooner.[^1] You must send your application before your residence permit expires.[^5] [If your visa or residence permit expires soon](#if-your-residence-permit-expires-soon), sending your documents usually allows you to stay in Germany.
 
@@ -40,8 +42,8 @@ To send your documents...
     Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online. If you have too many documents, send them by post.[^29]
 3. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You might not get a confirmation email.[^14]
-4. **Wait a few weeks**  
-    You must wait [weeks or months](/tools/residence-permit-feedback) to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
+4. **Wait**  
+    You must wait [a few weeks to a few months](/tools/residence-permit-feedback) to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
 5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit [around 8 weeks](/tools/residence-permit-feedback) after the appointment.{{ fail_on('2025-01-15') }}
 
@@ -186,7 +188,7 @@ If you get a rejection letter, it will ask for more information, or tell you why
 
 After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision.[^28] If you don't get an answer, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). It does not always help.
 
-**[Berlin Ausländerbehörde wait times ➞](/tools/residence-permit-feedback)**
+**[Ausländerbehörde wait times ➞](/tools/residence-permit-feedback)**
 
 If the *Ausländerbehörde* can't reach you because you changed your address, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
