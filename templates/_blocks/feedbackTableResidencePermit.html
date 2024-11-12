@@ -83,15 +83,18 @@
 					const monthCount = (years * 12 + months);
 					if(monthCount < 2){
 						const millisecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
-						const differenceInMilliseconds = Math.abs(date2.getTime() - date1.getTime());
+						const differenceInMilliseconds = date2.getTime() - date1.getTime();
 						const weekCount = Math.floor(differenceInMilliseconds / millisecondsPerWeek);
 						if(weekCount === 0){
-							return 'Waited a few days';
+							return 'a few days';
+						}
+						else if(weekCount < 0){
+							return 'Still waiting';
 						}
 						weeks = (weekCount === 1 ? ' week' : ' weeks')
-						return `Waited ${weekCount} ${weeks}`;
+						return `${weekCount} ${weeks}`;
 					}
-					return  `Waited ${monthCount} months`;
+					return  `${monthCount} months`;
 				},
 			},
 			watch: {
@@ -123,39 +126,76 @@
 	<div class="feedback-list">
 		<div v-for="result in paginatedResults">
 			<h3>
-				{{ residencePermitTypes[result.residence_permit_type] }} &mdash; {{ departments[result.department] }}
+				{{ residencePermitTypes[result.residence_permit_type] }}
+				<template v-if="result.pick_up_date">in {{ timeBetween(result.application_date, result.pick_up_date) }}</template>
+				&mdash; {{ departments[result.department] }}
 			</h3>
 
 			<div class="step completed">
 				<input type="checkbox" checked disabled>
 				<span class="description">Applied on {{ formatDate(result.application_date) }}</span>
-				<span class="duration" v-if="result.first_response_date">{{ timeBetween(result.application_date, result.first_response_date) }}</span>
-				<span class="duration" v-if="!result.first_response_date">{{ timeBetween(result.application_date, result.modification_date) }}</span>
+				<span class="duration">
+					<template v-if="result.first_response_date">
+						Waited {{ timeBetween(result.application_date, result.first_response_date) }}
+					</template>
+					<template v-else>
+						Waited {{ timeBetween(result.application_date, result.modification_date) }}
+					</template>
+				</span>
 			</div>
 
 			<div class="step">
 				<input type="checkbox" :checked="result.first_response_date" disabled>
-				<span v-if="result.first_response_date" class="description">First response on {{ formatDate(result.first_response_date) }}</span>
-				<span v-if="!result.first_response_date" class="description">No response as of {{ formatDate(result.modification_date) }}</span>
-				<span class="duration" v-if="result.first_response_date">{{ timeBetween(result.first_response_date, result.modification_date) }}</span>
+				<span class="description">
+					<template v-if="result.first_response_date">
+						First response on {{ formatDate(result.first_response_date) }}
+					</template>
+					<template v-else>
+						No response as of {{ formatDate(result.modification_date) }}
+					</template>
+				</span>
+				<span class="duration">
+					<template v-if="result.appointment_date">
+						Waited {{ timeBetween(result.first_response_date, result.appointment_date) }}
+					</template>
+					<template v-if="result.first_response_date && !result.appointment_date">
+						Waited {{ timeBetween(result.first_response_date, result.modification_date) }}
+					</template>
+				</span>
 			</div>
 
 			<div class="step">
 				<input type="checkbox" :checked="result.appointment_date" disabled>
-				<span v-if="result.appointment_date" class="description">Appointment on {{ formatDate(result.appointment_date) }}</span>
-				<span v-if="!result.appointment_date" class="description">No appointment <template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template></span>
-				<span class="duration" v-if="result.appointment_date">
-					{{ timeBetween(result.appointment_date, result.modification_date) }}
-					<template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template>
+				<span class="description">
+					<template v-if="result.appointment_date">
+						Appointment on {{ formatDate(result.appointment_date) }}
+					</template>
+					<template v-else>
+						No appointment <template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template>
+					</template>
+				</span>
+				<span class="duration">
+					<template v-if="result.pick_up_date">
+						Waited {{ timeBetween(result.appointment_date, result.pick_up_date) }}
+					</template>
+					<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date > result.modification_date">
+						Still waiting
+					</template>
+					<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
+						Waited {{ timeBetween(result.appointment_date, result.modification_date) }}
+					</template>
 				</span>
 			</div>
 
 			<div class="step">
 				<input type="checkbox" :checked="result.pick_up_date" disabled>
-				<span v-if="result.pick_up_date" class="description">Picked up the residence permit</span>
-				<span v-if="!result.pick_up_date" class="description">
-					No pick-up date
-					<template v-if="result.appointment_date">as of {{ formatDate(result.modification_date) }}</template>
+				<span class="description">
+					<template v-if="result.pick_up_date">
+						Picked up residence permit on {{ formatDate(result.pick_up_date) }}
+					</template>
+					<template v-else>
+						No pick-up date <template v-if="result.appointment_date">as of {{ formatDate(result.modification_date) }}</template>
+					</template>
 				</span>
 			</div>
 
