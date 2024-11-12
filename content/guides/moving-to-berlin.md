@@ -24,7 +24,7 @@ You need enough money for...
 - **The first month of rent**  
     You must pay it by [bank transfer](/glossary/SEPA-Überweisung) before you [move in](/guides/moving-in).
 - **Your [living expenses](/guides/cost-of-living)**  
-    You must buy food and things for your apartment. You might also need to buy furniture and appliances. It's easier if you find a furnished apartment or a [[WG]]; it comes with everything you need.
+    You must buy food and things for your apartment. You might also need to buy furniture and appliances. If you find a furnished apartment or a [[WG]]; it comes with everything you need.
 - **Your relocation expenses**  
     If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation and moving expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).[^4] Save the receipts for your [tax declaration](/glossary/Steuererklärung).
 - **Winter clothes**  
@@ -46,19 +46,19 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work
 
 ### Find a place to live
 
-It's *really* hard to find an apartment in Berlin. Rent a temporary furnished apartment, then move to Berlin and look for something better. Temporary housing is expensive, but it might be your only option.
+It's *really* hard to find an apartment in Berlin. It can take months. Rent a temporary furnished apartment, then move to Berlin, then find something better. Temporary housing is expensive, but it might be your only option.
 
 **[How to find an apartment ➞](/guides/find-a-flat-in-berlin)**
 
-Before you [move in](/guides/moving-in), you must pay the first month's rent, and 1/3 of the deposit (*[[Kaution]]*). You pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/best-bank-germany), or use [Wise](/out/wise) to send money from another country.
+Before you [move in](/guides/moving-in), you must pay the first month's rent, and 1/3 of the deposit (*[[Kaution]]*). You pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/best-bank-germany) or use [Wise](/out/wise) to send money from another country.
 
 Be careful while looking for apartments. There are a lot of [housing scams](/guides/housing-scams). If you are not in Germany, use a platform with verified landlords like [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
 
 ### Get health insurance
 
-If you live in Germany, you must have [health insurance](/glossary/Krankenversicherung). You need health insurance to get a [residence permit](/glossary/Aufenthaltstitel).
+If you live in Germany, you need [health insurance](/glossary/Krankenversicherung). It's required when you apply for a [residence permit](/glossary/Aufenthaltstitel).
 
-Use my [health insurance calculator](/guides/german-health-insurance) to see your options. The best way to choose health insurance is to [talk to an insurance broker](/guides/german-health-insurance#insurance-brokers). Their help is free.
+Use my [health insurance calculator](/guides/german-health-insurance) to see your options, then [talk to an insurance broker](/guides/german-health-insurance#insurance-brokers). It's the best way to get health insurance.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
@@ -68,57 +68,59 @@ If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insur
 
 ### Apply for a residence permit
 
-If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You can't work before you get your residence permit. If you can't get a residence permit, you can't move to Germany.
+If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You need a residence permit to start working or studying.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
 
-You can apply for a residence permit at a German embassy or consulate in your home country. If you are from {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*.
+You can apply for a residence permit at a German embassy or consulate in your home country. If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*.
 
-It's still better to apply in your home country, and move once you have permission to start working.
+It takes a few months to get a residence permit. Apply as soon as you can. If you apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], apply as soon as you get a job offer.
+
+It's safer to apply for a residence permit in your home country, and move to Germany when you have permission to start working. You save a lot of money while you wait.
 
 ## Your first month in Berlin
 
 ### Open a bank account
 
-Open a bank account as soon as you can. You need it to pay your rent and receive your paychecks. A bank account in another European country works too.
+Open a bank account as soon as you can. You need it to pay rent and receive paychecks. You can use a bank from any European country.
 
-Some banks might reject your passport, or ask for documents that you don't have. Choose an [expat-friendly bank](/guides/best-bank-germany#german-banks-for-expats) that will accept you.
+Some banks don't let immigrants open an account. They don't accept all passports, or they ask for documents that you don't have. Choose an [expat-friendly bank](/guides/best-bank-germany#german-banks-for-expats).
 
 **[Best German banks for expats ➞](/guides/best-bank-germany)**
 
-To transfer money from another country, use [Wise](/out/wise).
+To send money from another country, use [Wise](/out/wise).
 
 ### Get a mobile phone contract
 
-**Before you arrive**, [buy a temporary eSIM card](/out/airalo). Buy it online, and activate it when you arrive. You will have mobile data as soon as you arrive in Germany. Kiosks at the airport also sell temporary SIM cards.
+**Before you arrive**, [buy a temporary eSIM card](/out/airalo). Buy it online, and activate it when you arrive. You will have mobile data as soon as you arrive in Germany. You can buy a temporary SIM card at the airport, but they are more expensive.
+
+You can also use a SIM card from another [EU](/glossary/European%20Union) country. It will work for a few months at no extra cost. When it stops working, you need a German SIM card.[^0]
 
 **After you arrive**, get a cheaper phone plan from...
 
 - Vodafone, Telekom and O2 stores
 - Saturn, MediaMarkt and [other electronics stores](/guides/where-to-buy-what#electronics)
-- Aldi and Lidl supermarkets
+- Aldi and Lidl supermarkets, at the counter
 
-Use [Verivox](/out/verivox-cellphone) to compare cellphone plans. I use [Vodafone CallYa](/out/vodafone-callya) since 2015. [Aldi Talk](/out/aldi-talk) is another good, cheap option.
+Use [Verivox](/out/verivox-cellphone) to compare cellphone plans. Prepaid plans are often much cheaper. I use [Vodafone CallYa](/out/vodafone-callya) since 2015. [Aldi Talk](/out/aldi-talk) is another good, cheap option.
 
-To activate your SIM card, you usually need your passport and your [registration certificate](/glossary/Anmeldebest%C3%A4tigung).[^1] If you don't have a registration certificate, they might just use your temporary address.[^2]
-
-You can use a SIM card from any other [EU](/glossary/European%20Union) country. It will work for a few months at no extra cost. After some time, it might stop working, and you will need a German SIM card.[^0]
+To activate your SIM card, you might need your passport and your [registration certificate](/glossary/Anmeldebest%C3%A4tigung).[^1] If you don't have a registration certificate, they might just use your temporary address.[^2]
 
 ### Move into your apartment
 
-After you [find an apartment](/guides/find-a-flat-in-berlin), you must move in. There is a lot to do after you move into your new apartment. You [register your address](/guides/anmeldung-in-english-berlin), learn to [sort your trash](/guides/sorting-trash-in-germany), put your name on your mailbox and a lot more.
+After you [find an apartment](/guides/find-a-flat-in-berlin), you must move in. You must [register your address](/guides/anmeldung-in-english-berlin), learn to [sort your trash](/guides/sorting-trash-in-germany), put your name on your mailbox and a lot more.
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 
 ### Register your address
 
-You must [register your address](/glossary/Anmeldung) after you move in. You will get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need the registration certificate to use government services. Your employer needs your tax ID to pay you correctly.
+You must [register your address](/glossary/Anmeldung) after you move in. It's mandatory. This is how you get a [registration certificate](/glossary/Anmeldebest%C3%A4tigung) and a [tax ID](/glossary/Steueridentifikationsnummer). You need the registration certificate to use government services. Your employer needs your tax ID to pay you correctly.
 
 **[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
 ### Get liability insurance
 
-After you move in, get [liability insurance](/glossary/Haftpflichtversicherung). It's cheap, but but it's the most important insurance after health insurance. Most people have it.
+After you move in, get [liability insurance](/glossary/Haftpflichtversicherung). It's the most important insurance after health insurance. Most people have it.
 
 **[What is liability insurance? ➞](/guides/haftpflichtversicherung)**
 
