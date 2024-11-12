@@ -22,7 +22,7 @@ An expat-friendly bank...
 - Speaks English and other languages
 - Lets you open an account quickly
 - Accepts foreign passports and documents
-- Does not ask for a [residence permit](/glossary/Aufenthaltstitel), a [registration certificate](/glossary/Anmeldebestätigung) or a [tax ID](/glossary/Steueridentifikationsnummer).
+- Does not require a [residence permit](/glossary/Aufenthaltstitel), a [registration certificate](/glossary/Anmeldebestätigung) or a [tax ID](/glossary/Steueridentifikationsnummer).
 
 ### [N26](/out/n26)
 

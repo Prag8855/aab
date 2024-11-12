@@ -6,6 +6,8 @@ Description: The foreigners' office. It's responsible for German immigration, vi
 Date_created: 2017-09-22
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
+    tools/residence-permit-feedback.md
+    guides/residence-permit.md
     guides/blue-card.md
     guides/work-visa.md
     guides/freelance-visa.md
@@ -23,3 +25,5 @@ There are 2 *Ausländerbehörde* locations in Berlin:
 - [Keplerstraße](https://service.berlin.de/standort/327437/)
 
 **[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+
+**[Berlin Ausländerbehörde wait times ➞](/tools/residence-permit-feedback)**

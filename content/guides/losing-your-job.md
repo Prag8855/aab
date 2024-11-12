@@ -117,7 +117,7 @@ If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](
 To inform the *Ausländerbehörde*, you must...
 
 1. [Choose the right department to contact](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)
-2. Write a letter in German. It must include:
+2. Write a letter in German. Use my [letter generator](/docs/auslanderbehorde-job-change). It must include:
     - [ ] Your full name
     - [ ] Your date and place of birth
     - [ ] Your nationality

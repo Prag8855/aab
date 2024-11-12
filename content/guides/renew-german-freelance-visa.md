@@ -97,11 +97,11 @@ Go to the **[list of required documents ➞](#required-documents)**
 
 ### 2. Send your documents
 
-You can't book an *Ausländerbehörde* appointment. You must use their contact form to send your documents, then wait for a response. They can take a few months to reply.
+You can't book an *Ausländerbehörde* appointment. You must use their contact form to send your documents, then wait for a response. They can take [a few months](/tools/residence-permit-feedback) to reply.
 
 **[How to send your documents ➞](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**
 
-When they reply, they will give you an appointment. This appointment can be in a few months. They might also ask for more documents.
+When they reply, they will give you an appointment. This appointment can be [in a few months](/tools/residence-permit-feedback). They might also ask for more documents.
 
 Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
@@ -131,7 +131,7 @@ The *Ausländerbehörde* might ask you to bring new or updated documents to your
 
 {% include "_blocks/feedbackFreelanceVisa.html" %}
 
-### 8. Receive your new residence permit
+### 5. Receive your new residence permit
 
 **[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
 
@@ -197,7 +197,7 @@ Bring these documents to your visa interview. [The official list of documents](h
 
 ### How much does it cost?
 
-A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or between 22.80€ and 37€ for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost 13€.[^13]
+A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or between 22.80€ and 37€ for Turkish citizens{{ fail_on('2025-06-01') }}.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost 13€.[^13]
 
 Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:{{ fail_on('2024-12-31') }}
 
@@ -214,9 +214,11 @@ Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20ab
 
 ### Give feedback
 
-Your feedback helps me improve the information on this website. It will help thousands of people plan their freelance visa application.
+Your feedback helps thousands of people plan their freelance visa application.
 
 {% include "_blocks/feedbackFreelanceVisa.html" %}
+
+**[See other people's feedback ➞](/tools/residence-permit-feedback)**
 
 ### Apply for permanent residence
 

@@ -397,9 +397,6 @@ config.context_globals = {
     # IMMIGRATION
     # ==============================================================================
 
-    # Time needed to receive the residence card after the LEA visit
-    "RESIDENCE_PERMIT_WAIT_TIME": "4 to 8 weeks",
-
     # Minimum income (€/y) to get a Blue Card - §18g AufenthG
     "BLUE_CARD_MIN_INCOME": 0.5 * beitragsbemessungsgrenze_west,
 
@@ -428,7 +425,6 @@ config.context_globals = {
     "WORK_VISA_MIN_INCOME": beitragsbemessungsgrenze_west * 0.55,
 
     # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
-
     "AUFENTHG_21_2_COUNTRIES": or_join(aufenthg_21_2_countries),
     "AUFENTHV_41_COUNTRIES": or_join(aufenthv_41_countries),
     "BESCHV_26_COUNTRIES": or_join(sorted(beschv_26_1_countries + beschv_26_2_countries)),

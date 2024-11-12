@@ -40,7 +40,7 @@ There are [English-speaking jobs in Berlin](/guides/english-speaking-jobs-berlin
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You must get a job offer, then apply for a residence permit, then start working. You can't work before you get a residence permit.
+You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You must get a job offer, then apply for a residence permit, then start working. You can't work before you get a residence permit. It can take [a few months](/tools/residence-permit-feedback) to get a residence permit.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
 
@@ -72,9 +72,9 @@ If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
 
-You can apply for a residence permit at a German embassy or consulate in your home country. If you are from {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*.
+You can apply for a residence permit at a German embassy or consulate in your home country. If you are from {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*. It can take [a few months](/tools/residence-permit-feedback) to get a residence permit.
 
-It's still better to apply in your home country, and move once you have permission to start working.
+It's usually better to apply in your home country, and move once you have permission to start working.
 
 ## Your first month in Berlin
 

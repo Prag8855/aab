@@ -14,11 +14,11 @@ This guide helps you find a job in Berlin, from finding job listings to your fir
 
 ### Can you work in Germany?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any other residence permit.
+You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any [residence permit that allows employment](/guides/residence-permit#residence-permits-to-work).
 
 **[Who needs a residence permit? ➞](/guides/residence-permit)**
 
-It takes *at least* {{ RESIDENCE_PERMIT_WAIT_TIME }} to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
+It can take [a few months](/tools/residence-permit-feedback) to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
 
 ### Do you need to speak German?
 
@@ -176,11 +176,11 @@ If you are not sure about your contract, [ask for help](/guides/questions-about-
 
 ## Step 5: Get a residence permit
 
-If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for the residence permit.
+If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for a residence permit.
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
+It can take [a few months](/tools/residence-permit-feedback) to get a residence permit. You can't start working before you get your residence permit. Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
 
 **[How to get a work visa ➞](/guides/work-visa)**
 
@@ -240,6 +240,8 @@ If you started working in the middle of the year, you probably paid too much [sa
 
 ## Need help?
 
+**[Where to get help about work ➞](/guides/questions-about-berlin#work-questions)**
+
 ### Career coaching
 
 These people can help you get hired. For example, they can review your resume and cover letter. Their fee is [tax-deductible](/glossary/steuerlich%20absetzbar).
@@ -247,10 +249,6 @@ These people can help you get hired. For example, they can review your resume an
 - [Imagine Foundation](https://www.joinimagine.com/) - Free career coaching for software engineers and data scientists
 - [Hallo Germany](https://hallogermany.com/services-for-internationals/p/career-coaching) - Career coaching
 
-### Other services
-
-- [Working and living in Germany](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html) - Free hotline from the Office for Migration and Refugees
-- [Resume and cover letter translations](/out/lingoking-resume) - Lingoking
 
 [^0]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/21ehgp/im_looking_for_a_job_in_germany_and_have_a/)
 [^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
