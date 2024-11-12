@@ -1,5 +1,5 @@
 ---
-Title: Residence permit feedback
+Title: Ausländerbehörde wait times
 Description: See how long it takes to get a residence permit at the Ausländerbehörde in Berlin.
 Date_created: 2024-10-30
 Related_guides:
@@ -16,8 +16,6 @@ Your feedback helps us measure wait times at the Berlin *[[Ausländerbehörde]]*
 
 {% include "_blocks/feedbackResidencePermitStatic.html" %}
 
-## Why this is important
+## Berlin Ausländerbehörde wait times
 
-The Berlin *[[Ausländerbehörde]]* does not measure residence permit processing times. Nobody knows how long their application will take. Some applications take 2 weeks, and others take 10 months.
-
-With better information, people can prepare better. Waiting is less stressful when you know how long you need to wait.
+{% include "_blocks/feedbackTableResidencePermit.html" %}
