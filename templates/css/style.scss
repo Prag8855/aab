@@ -622,7 +622,7 @@ body > header {
     .search-form{
         order: 999;
 
-        &:not(:focus-within){
+        &:not([disabled]):not(:focus-within){  // the first :not is just to raise priority
             background-color: transparent;
             box-shadow: none;
             border-radius: 0;
@@ -1096,7 +1096,7 @@ sup:target a{
         @include text-hint;
         position: relative;
     }
-    .currency[data-currencies]:hover::after{
+    .currency[data-currencies]:hover:after{
         @include box-s;
         z-index: 1000;
         position: absolute;
@@ -1121,7 +1121,7 @@ sup:target a{
     }
 
     .internal-link, .external-link, .section-link{
-        &::after{
+        &:after{
             content: '';
             width: 1em;
             height: calc(1em * var(--line-height-text));
@@ -1140,16 +1140,16 @@ sup:target a{
         }
     }
 
-    .internal-link:hover::after{
+    .internal-link:hover:after{
         transform: translateX(var(--xs));
     }
 
-    .external-link::after{
+    .external-link:after{
         mask-image: var(--i-external);
     }
 
     .section-link.before{
-        &::after{
+        &:after{
             transform: rotate(-90deg);
         }
         &:hover:after{
@@ -1157,7 +1157,7 @@ sup:target a{
         }
     }
     .section-link.after{
-        &::after{
+        &:after{
             transform: rotate(90deg);
         }
         &:hover:after{
@@ -1232,7 +1232,7 @@ sup:target a{
         }
 
         :is(td, th){
-            &:last-child .currency[data-currencies]:hover::after{
+            &:last-child .currency[data-currencies]:hover:after{
                 left: auto!important;
                 right: 0!important;
             }
@@ -1371,55 +1371,10 @@ input:not([type=range],[type=file]), textarea, select, .toggle{
     max-width: 400px;
     box-sizing: border-box;
 
-    &[type=checkbox], &[type=radio]{
-        flex-shrink: 0;
-        flex:0 0 auto!important;
-        
-        width: var(--w-checkbox);
-        height: var(--w-checkbox);
-        padding: 0;
+}
 
-        position: relative;
-        overflow: hidden; // The radio tick might be too high by a fraction of a pixel
-        display: inline-grid;
-        place-items: center;
-
-        &:not([disabled]){
-            cursor: pointer;
-        }
-
-        &:after{
-            font-family: 'Tahoma';
-            content: '✓';
-            color: transparent;
-            line-height: calc(var(--w-checkbox) - 2px); // Minus border height
-            aspect-ratio: 1 / 1;
-            transform: scale(1.3);
-        }
-
-        &:checked:after{
-            color:var(--c-text-heading);
-            transform: scale(1);
-            transition: color 0.15s, transform 0.15s;
-        }
-    }
-
-    &[type=radio]:after{
-        font-family: 'Courier New'; // This font has a centred dot
-    }
-
-    &[type=radio]{
-        border-radius:50%;
-
-        &:checked:after{
-            content: '●';
-        }
-    }
-
-    &[type=number] {
-        -moz-appearance: textfield;
-    }
-
+input[type=number] {
+    -moz-appearance: textfield;
     &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
         -webkit-appearance:none;margin:0;
     }
@@ -1446,6 +1401,51 @@ select{
     text-overflow:ellipsis;
     &.placeholder{
         color: var(--c-text-placeholder);
+    }
+}
+
+input[type=checkbox], input[type=radio]{
+    flex-shrink: 0;
+    flex:0 0 auto!important;
+    
+    width: var(--w-checkbox);
+    height: var(--w-checkbox);
+    padding: 0;
+
+    position: relative;
+    overflow: hidden; // The radio tick might be too high by a fraction of a pixel
+    display: inline-grid;
+    place-items: center;
+
+    &:not([disabled]){
+        cursor: pointer;
+    }
+
+    &:after{
+        font-family: 'Tahoma';
+        content: '✓';
+        color: transparent;
+        line-height: calc(var(--w-checkbox) - 2px); // Minus border height
+        aspect-ratio: 1 / 1;
+        transform: scale(1.3);
+    }
+
+    &:checked:after{
+        color:var(--c-text-heading);
+        transform: scale(1);
+        transition: color 0.15s, transform 0.15s;
+    }
+}
+
+input[type=radio]{
+    border-radius:50%;
+
+    &:after{
+        font-family: 'Courier New'; // This font has a centred dot
+    }
+
+    &:checked:after{
+        content: '●';
     }
 }
 
@@ -1767,7 +1767,6 @@ input[type=range] {
     font-size: var(--f-s);
 }
 
-
 .filter-group{
     display: flex;
     justify-content: flex-start;
@@ -1780,7 +1779,6 @@ input[type=range] {
         }
     }
 }
-
 
 .input-instructions{
     font-size: var(--f-s);
@@ -1827,18 +1825,6 @@ input[type=range] {
     }
 }
 
-.input-symbols{
-    align-self: center;
-    display: flex;
-
-    &:after{
-        border-radius: 50%;
-        line-height: 1;
-        width: 1em;
-        height: 1em;
-            text-align: center;
-    }
-}
 .show-errors :invalid, .show-errors:invalid, .pension-refund-calculator .error{
     border-color: var(--c-highlight)!important;
     background-color: var(--c-bg-input-error);
@@ -1876,8 +1862,6 @@ input[type=range] {
             -webkit-appearance:none;
         }
     }
-
-
 
     svg{
         width: 1rem;
@@ -1932,7 +1916,6 @@ input[type=range] {
     }
 
 }
-
 
 output.placeholder, .recommended{
     background: var(--c-bg-widget);
@@ -2273,7 +2256,7 @@ details{
     vertical-align:middle;
     display:inline-block;
 
-    &::after{
+    &:after{
         content: '';
         width: 100%;
         height: 100%;
@@ -2284,32 +2267,32 @@ details{
         background-color:currentColor;
     }
 
-    &.calendar::after{
+    &.calendar:after{
         mask-image: var(--i-calendar)
     }
-    &.person::after{
+    &.person:after{
         mask-image: var(--i-person)
     }
-    &.verified::after{
+    &.verified:after{
         mask-image: var(--i-verified)
     }
-    &.close::after{
+    &.close:after{
         mask-image: var(--i-close)
     }
-    &.right::after{
+    &.right:after{
         mask-image: var(--i-right);
     }
-    &.add::after{
+    &.add:after{
         mask-image: var(--i-add)
     }
-    &.left::after{
+    &.left:after{
         mask-image: var(--i-right);
         transform: scaleX(-1);
     }
-    &.filter::after{
+    &.filter:after{
         mask-image: var(--i-filter);
     }
-    &.sound::after{
+    &.sound:after{
         mask-image: var(--i-sound)
     }
 }
@@ -2340,7 +2323,7 @@ details{
         text-decoration:none!important;
         right: 0;
 
-        &:hover::after{
+        &:hover:after{
             left: auto!important;
             right: 0!important;
         }
@@ -2568,7 +2551,7 @@ details{
             position: relative;
             overflow: hidden;
 
-            &::before{
+            &:before{
                 content: '';
                 position: absolute;
                 width: calc(100% + 10px);
