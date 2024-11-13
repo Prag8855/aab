@@ -455,9 +455,8 @@ config.context_globals = {
     "BEZUGSGRÖSSE_WEST": bezugsgroesse_west,
 
     # Median income (€/y) - rounded
-    # TODO (2024-01-01)
-    "MEDIAN_INCOME_BERLIN": 43572,  # 2021
-    "MEDIAN_INCOME_GERMANY": 42192,  # 2021
+    "MEDIAN_INCOME_BERLIN": 47784,  # 2023
+    "MEDIAN_INCOME_GERMANY": 45552,  # 2023
 
     # Public pension contribution (%) - RVBeitrSBek 202X
     "RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION": 9.3,
