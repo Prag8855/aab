@@ -1650,9 +1650,9 @@ input[type=range] {
 }
 
 .buttons{
+    @include text-block;
     display: flex;
     gap: var(--m);
-    margin: var(--l-relative) 0;
     justify-content: center;
     &.left{
         justify-content: flex-start;
@@ -1673,11 +1673,11 @@ input[type=range] {
 }
 
 .form-group{
+    @include text-block;
     align-items: flex-start; // Can't use baseline because of safari bug
     display: grid;
     grid-template-columns: var(--w-label-column) minmax(0, 1fr); // Prevents grid blowout with super long select elements
     gap: var(--s) var(--m);
-    margin: var(--l-relative) 0;
 
     &.no-label{
         grid-template-columns: minmax(0, 1fr);
@@ -2888,7 +2888,7 @@ details{
 .feedback-list {
     > div{
         @include box-l;
-        margin: var(--l-relative) 0;
+        @include text-block;
         .department{
             width: 10em;
             display: inline-block;
