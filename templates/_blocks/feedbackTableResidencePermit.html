@@ -7,9 +7,12 @@
 			mixins: [],
 			data() {
 				return {
-					currentPage: 1,
 					isLoading: true,
-					results: [],
+					resultPages: [], // An array of arrays. First a list of pages, then items on that page
+					page: null,
+					resultCount: 0,
+					itemsPerPage: 10,
+
 					residencePermitType: null,
 					residencePermitTypes: {
 						BLUE_CARD: "Blue Card",
@@ -35,37 +38,50 @@
 				};
 			},
 			async mounted(){
-				this.results = (await (await fetch('/api/forms/residence-permit-feedback.json')).json()).map(r => {
-					r.modification_date = new Date(r.modification_date);
-					r.application_date = new Date(r.application_date);
-					r.first_response_date = r.first_response_date ? new Date(r.first_response_date) : null;
-					r.appointment_date = r.appointment_date ? new Date(r.appointment_date) : null;
-					r.pick_up_date = r.pick_up_date ? new Date(r.pick_up_date) : null;
-					return r;
-				});
+				this.goToPage(1);
 			},
 			computed: {
-				filteredResults(){
-					return this.results.filter(r => 
-						(r.department === this.department || !this.department)
-						&& (r.residence_permit_type === this.residencePermitType || !this.residencePermitType)
-					)
-				},
-				paginatedResults(){
-					const start = (this.currentPage - 1) * 10;
-					return this.filteredResults.slice(start, start + 10);
+				apiEndpoint(){
+					const querystring = new URLSearchParams({ page: this.page });
+					if(this.residencePermitType){
+						querystring.append('residence_permit_type', this.residencePermitType);
+					}
+					if(this.department){
+						querystring.append('department', this.department);
+					}
+					return '/api/forms/residence-permit-feedback.json?' + querystring.toString();
 				},
 				pageCount(){
-					return Math.ceil(this.filteredResults.length / 10);
+					return Math.ceil(this.resultCount / this.itemsPerPage);
 				},
-				pages(){
+				pageNumbers(){
 					return Array.from({length: this.pageCount}, (_, i) => i + 1);
+				},
+				results(){
+					return this.isLoading ? [] : this.resultPages[this.page];
 				}
 			},
 			methods: {
-				goToPage(page){
-					this.currentPage = page;
-					this.$refs.topOfPage.scrollIntoView();
+				async goToPage(page){
+					this.page = page;
+					Vue.nextTick(() => {
+						this.$refs.topOfPage.scrollIntoView();
+					});
+
+					if(!this.resultPages[page]){
+						this.isLoading = true;
+						response = await (await fetch(this.apiEndpoint)).json();
+						this.resultCount = response.count;
+						this.resultPages[page] = response.results.map(r => {
+							r.modification_date = new Date(r.modification_date);
+							r.application_date = new Date(r.application_date);
+							r.first_response_date = r.first_response_date ? new Date(r.first_response_date) : null;
+							r.appointment_date = r.appointment_date ? new Date(r.appointment_date) : null;
+							r.pick_up_date = r.pick_up_date ? new Date(r.pick_up_date) : null;
+							return r;
+						});
+						this.isLoading = false;
+					}
 				},
 				formatDate(date){
 					if(date) {
@@ -82,18 +98,20 @@
 			},
 			watch: {
 				department(){
-					this.currentPage = 1;
+					this.resultPages = [];
+					this.goToPage(1);
 				},
 				residencePermitType(){
-					this.currentPage = 1;
-				}
+					this.resultPages = [];
+					this.goToPage(1);
+				},
 			}
 		})
 	);
 {% endjs %}
 
 {% raw %}
-<div class="residence-permit-feedback-table">
+<div class="residence-permit-feedback-table feedback-table">
 	<div class="filter-group" ref="topOfPage">
 		<select v-model="residencePermitType">
 			<option :value="null">All residence permits</option>
@@ -106,93 +124,92 @@
 			<option v-for="(name, key) in departments" :key="key" :value="key">{{ name }}</option>
 		</select>
 	</div>
-	<div class="feedback-list">
-		<div v-for="result in paginatedResults">
-			<h3>
-				{{ residencePermitTypes[result.residence_permit_type] }}
-				<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
-				&mdash; {{ departments[result.department] }}
-			</h3>
+	<div class="loading" v-if="isLoading"></div>
+	<div class="feedback-item" v-for="result in results" v-if="!isLoading">
+		<h3>
+			{{ residencePermitTypes[result.residence_permit_type] }}
+			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
+			&mdash; {{ departments[result.department] }}
+		</h3>
 
-			<div class="step completed">
-				<input type="checkbox" checked disabled>
-				<span class="description">Applied on {{ formatDate(result.application_date) }}</span>
-				<span class="duration">
-					<template v-if="result.first_response_date">
-						Waited {{ formatTimeDelta(result.application_date, result.first_response_date) }}
-					</template>
-					<template v-else>
-						Waited {{ formatTimeDelta(result.application_date, result.modification_date) }}
-					</template>
-				</span>
-			</div>
-
-			<div class="step">
-				<input type="checkbox" :checked="result.first_response_date" disabled>
-				<span class="description">
-					<template v-if="result.first_response_date">
-						First response on {{ formatDate(result.first_response_date) }}
-					</template>
-					<template v-else>
-						No response as of {{ formatDate(result.modification_date) }}
-					</template>
-				</span>
-				<span class="duration">
-					<template v-if="result.appointment_date">
-						Waited {{ formatTimeDelta(result.first_response_date, result.appointment_date) }}
-					</template>
-					<template v-if="result.first_response_date && !result.appointment_date">
-						Waited {{ formatTimeDelta(result.first_response_date, result.modification_date) }}
-					</template>
-				</span>
-			</div>
-
-			<div class="step">
-				<input type="checkbox" :checked="result.appointment_date" disabled>
-				<span class="description">
-					<template v-if="result.appointment_date">
-						Appointment on {{ formatDate(result.appointment_date) }}
-					</template>
-					<template v-else>
-						No appointment <template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template>
-					</template>
-				</span>
-				<span class="duration">
-					<template v-if="result.pick_up_date">
-						Waited {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }}
-					</template>
-					<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date > result.modification_date">
-						Still waiting
-					</template>
-					<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
-						Waited {{ formatTimeDelta(result.appointment_date, result.modification_date) }}
-					</template>
-				</span>
-			</div>
-
-			<div class="step">
-				<input type="checkbox" :checked="result.pick_up_date" disabled>
-				<span class="description">
-					<template v-if="result.pick_up_date">
-						Picked up residence permit on {{ formatDate(result.pick_up_date) }}
-					</template>
-					<template v-else>
-						No pick-up date <template v-if="result.appointment_date">as of {{ formatDate(result.modification_date) }}</template>
-					</template>
-				</span>
-			</div>
-
-			<div v-if="result.notes.length" class="notes">{{ result.notes.trim() }}</div>
+		<div class="step completed">
+			<input type="checkbox" checked disabled>
+			<span class="description">Applied on {{ formatDate(result.application_date) }}</span>
+			<span class="duration">
+				<template v-if="result.first_response_date">
+					Waited {{ formatTimeDelta(result.application_date, result.first_response_date) }}
+				</template>
+				<template v-else>
+					Waited {{ formatTimeDelta(result.application_date, result.modification_date) }}
+				</template>
+			</span>
 		</div>
-		<nav class="pagination" aria-label="Pagination">
-			<button v-if="currentPage > 1" @click.prevent="goToPage(currentPage - 1)"><i class="icon left"></i></button>
-			<button :class="{current: currentPage === page}"
-				v-for="page in pages" :key="page"
-				@click.prevent="goToPage(page)"
-				:title="'Go to page ' + page"
-				:disabled="currentPage === page">{{ page }}</button>
-			<button v-if="currentPage < pageCount" @click.prevent="goToPage(currentPage + 1)"><i class="icon right"></i></button>
-		</nav>
+
+		<div class="step">
+			<input type="checkbox" :checked="result.first_response_date" disabled>
+			<span class="description">
+				<template v-if="result.first_response_date">
+					First response on {{ formatDate(result.first_response_date) }}
+				</template>
+				<template v-else>
+					No response as of {{ formatDate(result.modification_date) }}
+				</template>
+			</span>
+			<span class="duration">
+				<template v-if="result.appointment_date">
+					Waited {{ formatTimeDelta(result.first_response_date, result.appointment_date) }}
+				</template>
+				<template v-if="result.first_response_date && !result.appointment_date">
+					Waited {{ formatTimeDelta(result.first_response_date, result.modification_date) }}
+				</template>
+			</span>
+		</div>
+
+		<div class="step">
+			<input type="checkbox" :checked="result.appointment_date" disabled>
+			<span class="description">
+				<template v-if="result.appointment_date">
+					Appointment on {{ formatDate(result.appointment_date) }}
+				</template>
+				<template v-else>
+					No appointment <template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template>
+				</template>
+			</span>
+			<span class="duration">
+				<template v-if="result.pick_up_date">
+					Waited {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }}
+				</template>
+				<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date > result.modification_date">
+					Still waiting
+				</template>
+				<template v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
+					Waited {{ formatTimeDelta(result.appointment_date, result.modification_date) }}
+				</template>
+			</span>
+		</div>
+
+		<div class="step">
+			<input type="checkbox" :checked="result.pick_up_date" disabled>
+			<span class="description">
+				<template v-if="result.pick_up_date">
+					Picked up residence permit on {{ formatDate(result.pick_up_date) }}
+				</template>
+				<template v-else>
+					No pick-up date <template v-if="result.appointment_date">as of {{ formatDate(result.modification_date) }}</template>
+				</template>
+			</span>
+		</div>
+
+		<div v-if="result.notes.length" class="notes">{{ result.notes.trim() }}</div>
 	</div>
+	<nav class="pagination" aria-label="Pagination">
+		<button v-if="page > 1" @click.prevent="goToPage(page - 1)"><i class="icon left"></i></button>
+		<button :class="{current: pageNumber === page}"
+			v-for="pageNumber in pageNumbers" :key="pageNumber"
+			@click.prevent="goToPage(pageNumber)"
+			:title="'Go to page ' + pageNumber"
+			:disabled="page === pageNumber">{{ pageNumber }}</button>
+		<button v-if="page < pageCount" @click.prevent="goToPage(page + 1)"><i class="icon right"></i></button>
+	</nav>
 </div>
 {% endraw %}
