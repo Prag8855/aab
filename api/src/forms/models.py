@@ -114,6 +114,7 @@ class ScheduledMessage(models.Model):
 
     class Meta:
         abstract = True
+        ordering = ['-creation_date']
 
 
 class Feedback(EmailMixin, models.Model):

@@ -60,6 +60,19 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
             return PublicResidencePermitFeedbackSerializer
         return ResidencePermitFeedbackSerializer
 
+    def get_queryset(self):
+        """
+        Optionally restricts the returned purchases to a given user,
+        by filtering against a `username` query parameter in the URL.
+        """
+        params = ['residence_permit_type', 'department']
+        filters = {
+            param: self.request.query_params[param]
+            for param in params
+            if param in self.request.query_params
+        }
+        return self.queryset.filter(**filters)
+
 
 class TaxIdRequestFeedbackReminderViewSet(MessageViewSet):
     queryset = TaxIdRequestFeedbackReminder.objects.all()

@@ -76,8 +76,8 @@ class FeedbackEndpointMixin:
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         response = self.client.get(self.endpoint, headers=basic_auth_headers('myuser', 'testpassword'))
         self.assertEqual(response.status_code, 200, response.json())
-        self.assertEqual(response.json()[0]['modification_key'], new_object.modification_key)
-        self.assertEqual(response.json()[0]['email'], new_object.email)
+        self.assertEqual(response.json()['results'][0]['modification_key'], new_object.modification_key)
+        self.assertEqual(response.json()['results'][0]['email'], new_object.email)
 
     def test_retrieve_200(self):
         # When authenticated, return full object including private data
@@ -93,8 +93,8 @@ class FeedbackEndpointMixin:
         self.model.objects.create(**self.example_request)
         response = self.client.get(self.endpoint)
         self.assertEqual(response.status_code, 200, response.json())
-        self.assertNotIn('email', response.json()[0])
-        self.assertNotIn('modification_key', response.json()[0])
+        self.assertNotIn('email', response.json()['results'][0])
+        self.assertNotIn('modification_key', response.json()['results'][0])
 
     def test_list_invalidcredentials_401(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
@@ -230,6 +230,57 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         'notes': 'Just some notes',
         'residence_permit_type': 'BLUE_CARD',
     }
+
+    def test_list_filter(self):
+        # Filter the list with querystring params
+        e2_pr = {
+            'email': 'contact@nicolasbouliane.com',
+            'application_date': '2023-01-01',
+            'first_response_date': '2023-02-02',
+            'appointment_date': None,
+            'pick_up_date': None,
+            'department': 'E2',
+            'notes': 'Just some notes',
+            'residence_permit_type': 'PERMANENT_RESIDENCE',
+        }
+        b1_b2_b3_b4_bc = {
+            'email': 'contact@nicolasbouliane.com',
+            'application_date': '2023-01-01',
+            'first_response_date': '2023-02-02',
+            'appointment_date': None,
+            'pick_up_date': None,
+            'department': 'B1_B2_B3_B4',
+            'notes': 'Just some notes',
+            'residence_permit_type': 'BLUE_CARD',
+        }
+        b1_b2_b3_b4_pr = {
+            'email': 'contact@nicolasbouliane.com',
+            'application_date': '2023-01-01',
+            'first_response_date': '2023-02-02',
+            'appointment_date': None,
+            'pick_up_date': None,
+            'department': 'B1_B2_B3_B4',
+            'notes': 'Just some notes',
+            'residence_permit_type': 'PERMANENT_RESIDENCE',
+        }
+        self.model.objects.create(**e2_pr)
+        self.model.objects.create(**b1_b2_b3_b4_bc)
+        self.model.objects.create(**b1_b2_b3_b4_pr)
+
+        response = self.client.get(f'{self.endpoint}?department=B1_B2_B3_B4')
+        self.assertEqual(response.json()['count'], 2)
+        self.assertEqual(response.json()['results'][0]['department'], 'B1_B2_B3_B4')
+        self.assertEqual(response.json()['results'][1]['department'], 'B1_B2_B3_B4')
+
+        response = self.client.get(f'{self.endpoint}?residence_permit_type=PERMANENT_RESIDENCE')
+        self.assertEqual(response.json()['count'], 2)
+        self.assertEqual(response.json()['results'][0]['residence_permit_type'], 'PERMANENT_RESIDENCE')
+        self.assertEqual(response.json()['results'][1]['residence_permit_type'], 'PERMANENT_RESIDENCE')
+
+        response = self.client.get(f'{self.endpoint}?department=B1_B2_B3_B4&residence_permit_type=PERMANENT_RESIDENCE')
+        self.assertEqual(response.json()['count'], 1)
+        self.assertEqual(response.json()['results'][0]['department'], 'B1_B2_B3_B4')
+        self.assertEqual(response.json()['results'][0]['residence_permit_type'], 'PERMANENT_RESIDENCE')
 
     def test_date_order_400(self):
         request = {
