@@ -57,7 +57,7 @@
 				pageNumbers(){
 					return Array.from({length: this.pageCount}, (_, i) => i + 1);
 				},
-				results(){
+				resultsPage(){
 					return this.isLoading ? [] : this.resultPages[this.page];
 				}
 			},
@@ -131,7 +131,7 @@
 		</select>
 	</div>
 	<div class="loading" v-if="isLoading"></div>
-	<div class="feedback-item" v-for="result in results" v-if="!isLoading">
+	<div v-cloak class="feedback-item" v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
 		<h3>
 			{{ residencePermitTypes[result.residence_permit_type] }}
 			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
@@ -203,7 +203,7 @@
 
 		<div v-if="result.notes.length" class="notes">{{ result.notes.trim() }}</div>
 	</div>
-	<nav class="pagination" aria-label="Pagination">
+	<nav v-cloak class="pagination" aria-label="Pagination">
 		<button v-if="page > 1" @click.prevent="goToPage(page - 1)"><i class="icon left"></i></button>
 		<button :class="{current: pageNumber === page}"
 			v-for="pageNumber in pageNumbers" :key="pageNumber"
