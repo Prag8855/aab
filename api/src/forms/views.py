@@ -1,5 +1,7 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
 from django.db import connection
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
     ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.serializers import HealthInsuranceQuestionSerializer, \
@@ -76,6 +78,7 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
         }
         return self.queryset.filter(**filters)
 
+    @method_decorator(cache_page(60 * 60 * 6))  # Cache for 6 hours
     @action(detail=False, methods=['get'])
     def summary(self, request, format=None):
         def get_date_range(cursor, date_column_start, date_column_end, residence_permit_type, department):
