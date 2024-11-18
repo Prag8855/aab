@@ -13,6 +13,7 @@ from rest_framework.exceptions import ValidationError as DRFValidationError
 from rest_framework.response import Response
 from rest_framework.serializers import as_serializer_error
 from rest_framework.views import exception_handler as drf_exception_handler
+import logging
 
 
 class MessagePermission(permissions.BasePermission):
@@ -113,16 +114,23 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
                         ROW_NUMBER() over (order by time_diff) as rownum
                     FROM time_diffs, percentile_rows
                 )
-                SELECT time_diff
-                FROM numbered_rows
+                SELECT time_diff, total_rows
+                FROM numbered_rows, total_rows
                 WHERE rownum IN (row_20, row_80)
             """
             cursor.execute(percentiles_query, {
                 'residence_permit_type': residence_permit_type,
                 'department': department,
             })
-            percentile_20, percentile_80 = [row[0] for row in cursor.fetchall()]
-            return percentile_20, percentile_80
+            percentiles, total_rows = zip(*cursor.fetchall())
+
+            logging.info(percentiles_query)
+            logging.info(total_rows[0])
+            return {
+                'percentile_20': percentiles[0],
+                'percentile_80': percentiles[1],
+                'count': total_rows[0],
+            }
 
         with connection.cursor() as cursor:
             residence_permit_type = self.request.query_params.get('residence_permit_type')
