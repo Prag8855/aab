@@ -2,33 +2,24 @@
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
 {% include '_js/vue/multiStageMixin.js' %}
+{% include '_js/vue/residencePermitFeedbackMixin.js' %}
 {% include '_js/vue/trackedStagesMixin.js' %}
 {% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.feedback-form').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
+			mixins: [residencePermitFeedbackMixin, userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 			data() {
 				return {
 					showResidencePermitField: true,
-					residencePermitType: null,
-					residencePermitTypes: {
-						BLUE_CARD: "Blue Card",
-						FAMILY_REUNION_VISA: "family reunion visa",
-						FREELANCE_VISA: "freelance visa",
-						PERMANENT_RESIDENCE: "permanent residence",
-						STUDENT_VISA: "student visa",
-						WORK_VISA: "work visa",
-					},
 					isLoading: false,
 
 					// The primary key of the Feedback item, plus a two-letter prefix denoting the residencePermitType
 					modificationKey: userDefaults.modificationKey,
 
-					department: '',
 					notes: '',
 					email: userDefaults.email,
 
@@ -128,7 +119,8 @@
 					return `Feedback (${this.residencePermitType})`;
 				},
 				residencePermitName(){
-					return this.residencePermitTypes[this.residencePermitType] || "residence permit";
+					const rp = this.residencePermitTypes[this.residencePermitType];
+					return rp ? rp.normal : "residence permit";
 				},
 				showRestOfForm(){
 					return this.steps.application.completed;
@@ -136,64 +128,6 @@
 				feedbackComplete(){
 					return Object.values(this.steps).every(s => s.completed);
 				},
-				departments(){
-					return {
-						BLUE_CARD: {
-							B1_B2_B3_B4: 'Online application (B1, B2, B3, B4)',
-							B6: 'Business Immigration Service (B6)',
-						},
-						FAMILY_REUNION_VISA: {
-							A1_A5: 'A1, A5 - Syria',
-							A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
-							B1_B2_B3_B4: 'B1, B2, B3, B4 - Family of skilled workers',
-							B6: 'B6 - Business Immigration Service',
-							E1: 'E1 - Middle East',
-							E2: 'E2 - Africa, America, Israel',
-							E3: 'E3 - India, Turkey, etc.',
-							E4: 'E4 - Asia, Australia, New Zealand, Russia',
-							E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
-							E6: 'E6 - Europe',
-						},
-						FREELANCE_VISA: {
-							A1_A5: 'A1, A5 - Syria',
-							A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
-							E1: 'E1 - Middle East',
-							E2: 'E2 - Africa, America, Israel',
-							E3: 'E3 - India, Turkey, etc.',
-							E4: 'E4 - Asia, Australia, New Zealand, Russia',
-							E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
-							E6: 'E6 - Europe',
-						},
-						PERMANENT_RESIDENCE: {
-							A1_A5: 'A1, A5 - Syria',
-							A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
-							E1: 'E1 - Middle East',
-							E2: 'E2 - Africa, America, Israel',
-							E3: 'E3 - India, Turkey, etc.',
-							E4: 'E4 - Asia, Australia, New Zealand, Russia',
-							E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
-							E6: 'E6 - Europe',
-						},
-						STUDENT_VISA: {
-							B1_B2_B3_B4: 'B1, B2, B3, B4 - Students',
-						},
-						WORK_VISA: {
-							B1_B2_B3_B4: 'B1, B2, B3, B4 - Skilled workers',
-							B6: 'B6 - Business Immigration Service',
-						},
-					}[this.residencePermitType] || {
-						A1_A5: 'A1, A5 - Syria',
-						A2_A3_A4: 'A2, A3, A4 - Asylum seekers',
-						B1_B2_B3_B4: 'B1, B2, B3, B4 - Students, workers, researchers',
-						B6: 'B6 - Business Immigration Service',
-						E1: 'E1 - Middle East',
-						E2: 'E2 - Africa, America, Israel',
-						E3: 'E3 - India, Turkey, etc.',
-						E4: 'E4 - Asia, Australia, New Zealand, Russia',
-						E5: 'E5 - Balkans, Belarus, Georgia, Ukraine',
-						E6: 'E6 - Europe',
-					};
-				}
 			},
 			methods: {
 				async nextStage(){
@@ -271,26 +205,12 @@
 					const previousStep = stepList[stepList.indexOf(step) - 1];
 					return previousStep ? previousStep.date : null;
 				},
-				capitalizeFirstLetter(str){
-					return String(str).charAt(0).toUpperCase() + String(str).slice(1);
-				}
-			},
-			watch: {
-				residencePermitType(newType){
-					console.log(this.department, Object.keys(this.departments));
-					if(Object.keys(this.departments).length === 1){
-						this.department = Object.keys(this.departments)[0];
-					}
-					else if(this.department && !(this.department in this.departments)){
-						this.department = null;
-					}
-				}
 			}
 		})
 	);
 {% endjs %}
 
-<collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %}  {% if open|default %}open{% endif %} v-cloak>
+<collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %} {% if open|default %}open{% endif %} v-cloak>
 {% raw %}
 	<template v-slot:header>
 		How is your <span class="no-mobile">{{ residencePermitName }}</span> application going?
@@ -326,14 +246,14 @@
 				<label :for="uid('residencePermitType')">Residence permit</label>
 				<select :id="uid('residencePermitType')" v-model="residencePermitType" :class="{placeholder: !residencePermitType}" required>
 					<option disabled hidden default :value="null">Choose a residence permit</option>
-					<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key">{{ capitalizeFirstLetter(name) }}</option>
+					<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key" v-text="name.capitalized"></option>
 				</select>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('department')">Department</label>
 				<select :id="uid('department')" v-model="department" :class="{placeholder: !department}" required>
-					<option disabled hidden default value="">Choose a department</option>
-					<option v-for="(name, key) in departments" :value="key" :key="key">{{ name }}</option>
+					<option disabled hidden default :value="null">Choose a department</option>
+					<option v-for="(name, key) in departments" :value="key" :key="key" v-text="name"></option>
 				</select>
 				<span class="input-instructions">
 					<a target="_blank" href="/out/auslanderbehorde-departments">Find your Ausländerbehörde department.</a> Don't choose a random department.

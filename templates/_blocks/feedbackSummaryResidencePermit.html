@@ -1,0 +1,152 @@
+{% include '_js/utils.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/residencePermitFeedbackMixin.js' %}
+{% js %}
+	document.querySelectorAll('.residence-permit-feedback-summary').forEach(
+		el => new Vue({
+			el: el,
+			mixins: [residencePermitFeedbackMixin],
+			data() {
+				return {
+					isLoading: true,
+					showResidencePermitField: true,
+					steps: {
+						response: {
+							waitTime: 'Loading...',
+							count: 0,
+						},
+						appointment: {
+							waitTime: 'Loading...',
+							count: 0,
+						},
+						pickup: {
+							waitTime: 'Loading...',
+							count: 0,
+						},
+					}
+				};
+			},
+			async mounted(){
+				// The residence permit type can be pre-selected with the data-type attribute
+				if(this.$el.dataset.type){
+					this.showResidencePermitField = false;
+					this.residencePermitType = this.$el.dataset.type;
+				}
+
+				this.loadResults();
+			},
+			computed: {
+				title(){
+					if(this.residencePermitType && !this.showResidencePermitField){
+						return `${this.residencePermitTypes[this.residencePermitType].capitalized} wait times in Berlin`;
+					}
+					else{
+						return `Ausländerbehörde wait times in Berlin`;
+					}
+				}
+			},
+			methods: {
+				async loadResults(){
+					this.isLoading = true;
+					const querystring = new URLSearchParams();
+					if(this.residencePermitType){
+						querystring.append('residence_permit_type', this.residencePermitType);
+					}
+					if(this.department){
+						querystring.append('department', this.department);
+					}
+					const response = await fetch(
+						'/api/forms/residence-permit-feedback/summary.json?' + querystring.toString(),
+						{ method: 'GET', headers: {'Content-Type': 'application/json; charset=utf-8'} }
+					);
+					if(response.ok){
+						this.isLoading = false;
+						const responseJson = await response.json();
+						
+						this.steps.response.waitTime = this.formatXtoYdays(responseJson.first_response.wait_from, responseJson.first_response.wait_to);
+						this.steps.response.count = responseJson.first_response.count;
+						
+						this.steps.appointment.waitTime = this.formatXtoYdays(responseJson.appointment.wait_from, responseJson.appointment.wait_to);
+						this.steps.appointment.count = responseJson.appointment.count;
+
+						this.steps.pickup.waitTime = this.formatXtoYdays(responseJson.pick_up.wait_from, responseJson.pick_up.wait_to);
+						this.steps.pickup.count = responseJson.pick_up.count;
+					}
+				},
+				formatXtoYdays(x, y){
+					if(x === null){
+						return 'Unknown wait time';
+					}
+
+					const now = new Date();
+
+					const xDate = new Date();
+					xDate.setDate(xDate.getDate() + x);
+
+					const yDate = new Date();
+					yDate.setDate(yDate.getDate() + y);
+
+					xString = this.formatTimeDelta(now, xDate);
+					yString = this.formatTimeDelta(now, yDate);
+					if(xString === yString){ // 7 weeks to 7 weeks
+						return `Wait ${xString}`;
+					}
+					if(xString.split(' ')[1] === yString.split(' ')[1]){ // 4 weeks to 7 weeks
+						return `Wait ${xString.split(' ')[0]} to ${yString}`;
+					}
+					return `Wait ${xString} to ${yString}`;
+				},
+				nextStep(step){
+					const stepList = Object.values(this.steps);
+					const nextStep = stepList[stepList.indexOf(step) + 1];
+					return nextStep ? nextStep : null;
+				},
+			},
+			watch: {
+				department(){
+					this.loadResults();
+				},
+				residencePermitType(){
+					this.loadResults();
+				},
+			}
+		})
+	);
+{% endjs %}
+
+<div class="residence-permit-feedback-summary feedback-summary" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %}>
+{% raw %}
+	<div class="filter-group">
+		<select v-model="residencePermitType" v-if="showResidencePermitField">
+			<option :value="null">All residence permits</option>
+			<option disabled>──────────</option>
+			<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key" v-text="name.capitalized"></option>
+		</select>
+		<select v-model="department">
+			<option :value="null">All departments</option>
+			<option disabled>──────────</option>
+			<option v-for="(name, key) in departments" :key="key" :value="key" v-text="name"></option>
+		</select>
+	</div>
+	<hr>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Send your documents</span>
+		<span class="duration" v-text="steps.response.waitTime">Loading...</span>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Ausländerbehörde replies</span>
+		<span class="duration" v-text="steps.appointment.waitTime">Loading...</span>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Go to Ausländerbehörde appointment</span>
+		<span class="duration" v-text="steps.pickup.waitTime">Loading...</span>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Pick up residence card</span>
+	</div>
+{% endraw %}
+</div>

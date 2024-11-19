@@ -1785,6 +1785,7 @@ input[type=range] {
 }
 
 .filter-group{
+    @include text-block;
     display: flex;
     justify-content: flex-start;
     gap: var(--m);
@@ -1793,6 +1794,7 @@ input[type=range] {
     @include only-phone{
         > * {
             flex:1 0 100%;
+            width: 100%;
         }
     }
 }
@@ -2902,13 +2904,19 @@ details{
     }
 }
 
-.feedback-table {
+.feedback-table, .feedback-summary {
+    h2{
+        margin-bottom: var(--l);
+    }
+
     .loading{
         @include text-block;
     }
+    .vote-count{
+        float: right;
+    }
 }
-.feedback-item {
-    @include box-l;
+.feedback-item, .feedback-summary{
     @include text-block;
     .department{
         width: 10em;
@@ -2954,6 +2962,9 @@ details{
         padding-top: var(--l);
         white-space: pre-wrap;
     }
+}
+.feedback-item{
+    @include box-l;
 }
 
 .pagination{

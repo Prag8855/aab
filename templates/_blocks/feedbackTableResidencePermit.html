@@ -1,10 +1,11 @@
-{% include '_js/vue.js' %}
 {% include '_js/utils.js' %}
+{% include '_js/vue.js' %}
+{% include '_js/vue/residencePermitFeedbackMixin.js' %}
 {% js %}
 	document.querySelectorAll('.residence-permit-feedback-table').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [],
+			mixins: [residencePermitFeedbackMixin],
 			data() {
 				return {
 					isLoading: true,
@@ -12,33 +13,10 @@
 					page: null,
 					resultCount: 0,
 					itemsPerPage: 10,
-
-					residencePermitType: null,
-					residencePermitTypes: {
-						BLUE_CARD: "Blue Card",
-						FAMILY_REUNION_VISA: "Family reunion visa",
-						FREELANCE_VISA: "Freelance visa",
-						PERMANENT_RESIDENCE: "Permanent residence",
-						STUDENT_VISA: "Student visa",
-						WORK_VISA: "Work visa",
-					},
-					department: null,
-					departments: {
-						A1_A5: 'A1, A5',
-						A2_A3_A4: 'A2, A3, A4',
-						B1_B2_B3_B4: 'B1, B2, B3, B4',
-						B6: 'B6',
-						E1: 'E1',
-						E2: 'E2',
-						E3: 'E3',
-						E4: 'E4',
-						E5: 'E5',
-						E6: 'E6',
-					},
 				};
 			},
 			async mounted(){
-				this.goToPage(1);
+				this.goToPage(1, false);
 			},
 			computed: {
 				apiEndpoint(){
@@ -59,14 +37,16 @@
 				},
 				resultsPage(){
 					return this.isLoading ? [] : this.resultPages[this.page];
-				}
+				},
 			},
 			methods: {
-				async goToPage(page){
+				async goToPage(page, scrollToTop=true){
 					this.page = page;
-					Vue.nextTick(() => {
-						this.$refs.topOfPage.scrollIntoView();
-					});
+					if(scrollToTop){
+						Vue.nextTick(() => {
+							this.$refs.topOfPage.scrollIntoView();
+						});
+					}
 
 					if(!this.resultPages[page]){
 						this.isLoading = true;
@@ -83,23 +63,11 @@
 						this.isLoading = false;
 					}
 				},
-				formatDate(date){
-					if(date) {
-						const dateObj = (date instanceof Date) ? date : dateFromString(date);
-						return dateObj.toLocaleDateString("en-US", {
-							year: 'numeric',
-							month: 'long',
-							day: 'numeric',
-						});
-					}
-					return '';
-				},
-				formatTimeDelta,
 				waitTime(date1, date2) {
 					if(date2 > date1){
-						`Will wait ${formatTimeDelta(date1, date2)}`
+						`Will wait ${this.formatTimeDelta(date1, date2)}`
 					}
-					return `${formatTimeDelta(date1, date2)} passed`;
+					return `${this.formatTimeDelta(date1, date2)} passed`;
 				}
 			},
 			watch: {
@@ -117,30 +85,18 @@
 {% endjs %}
 
 {% raw %}
-<div class="residence-permit-feedback-table feedback-table">
-	<div class="filter-group" ref="topOfPage">
-		<select v-model="residencePermitType">
-			<option :value="null">All residence permits</option>
-			<option disabled>──────────</option>
-			<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key">{{ name }}</option>
-		</select>
-		<select v-model="department">
-			<option :value="null">All departments</option>
-			<option disabled>──────────</option>
-			<option v-for="(name, key) in departments" :key="key" :value="key">{{ name }}</option>
-		</select>
-	</div>
+<div class="residence-permit-feedback-table feedback-table" ref="topOfPage">
 	<div class="loading" v-if="isLoading"></div>
 	<div v-cloak class="feedback-item" v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
 		<h3>
-			{{ residencePermitTypes[result.residence_permit_type] }}
+			{{ residencePermitTypes[result.residence_permit_type].capitalized }}
 			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
-			&mdash; {{ departments[result.department] }}
+			&mdash; {{ departments[result.department].split(' — ')[0] }}
 		</h3>
 
 		<div class="step completed">
 			<input type="checkbox" checked disabled>
-			<span class="description">Applied on {{ formatDate(result.application_date) }}</span>
+			<span class="description">Applied on {{ formatLongDate(result.application_date) }}</span>
 			<span class="duration">
 				<template v-if="result.first_response_date">
 					{{ waitTime(result.application_date, result.first_response_date) }}
@@ -155,10 +111,10 @@
 			<input type="checkbox" :checked="result.first_response_date" disabled>
 			<span class="description">
 				<template v-if="result.first_response_date">
-					First response on {{ formatDate(result.first_response_date) }}
+					First response on {{ formatLongDate(result.first_response_date) }}
 				</template>
 				<template v-else>
-					No response as of {{ formatDate(result.modification_date) }}
+					No response as of {{ formatLongDate(result.modification_date) }}
 				</template>
 			</span>
 			<span class="duration" v-if="result.first_response_date || result.appointment_date">
@@ -175,10 +131,10 @@
 			<input type="checkbox" :checked="result.appointment_date" disabled>
 			<span class="description">
 				<template v-if="result.appointment_date">
-					Appointment on {{ formatDate(result.appointment_date) }}
+					Appointment on {{ formatLongDate(result.appointment_date) }}
 				</template>
 				<template v-else>
-					No appointment <template v-if="result.first_response_date">as of {{ formatDate(result.modification_date) }}</template>
+					No appointment <template v-if="result.first_response_date">as of {{ formatLongDate(result.modification_date) }}</template>
 				</template>
 			</span>
 			<span class="duration" v-if="result.appointment_date && result.pick_up_date">
@@ -193,10 +149,10 @@
 			<input type="checkbox" :checked="result.pick_up_date" disabled>
 			<span class="description">
 				<template v-if="result.pick_up_date">
-					Picked up residence permit on {{ formatDate(result.pick_up_date) }}
+					Picked up residence permit on {{ formatLongDate(result.pick_up_date) }}
 				</template>
 				<template v-else>
-					No pick-up date <template v-if="result.appointment_date">as of {{ formatDate(result.modification_date) }}</template>
+					No pick-up date <template v-if="result.appointment_date">as of {{ formatLongDate(result.modification_date) }}</template>
 				</template>
 			</span>
 		</div>
