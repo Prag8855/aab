@@ -1,5 +1,4 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
-from django.db import connection
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
 from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
@@ -7,13 +6,11 @@ from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, Pension
 from forms.serializers import HealthInsuranceQuestionSerializer, \
     PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
     PublicResidencePermitFeedbackSerializer, ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
+from forms.utils import readable_date_range
 from rest_framework import mixins, permissions, viewsets
-from rest_framework.decorators import action
 from rest_framework.exceptions import ValidationError as DRFValidationError
-from rest_framework.response import Response
 from rest_framework.serializers import as_serializer_error
 from rest_framework.views import exception_handler as drf_exception_handler
-import logging
 
 
 class MessagePermission(permissions.BasePermission):
@@ -79,82 +76,24 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
         }
         return self.queryset.filter(**filters)
 
-    @method_decorator(cache_page(60 * 60 * 6))  # Cache for 6 hours
-    @action(detail=False, methods=['get'])
-    def summary(self, request, format=None):
-        def get_date_range(cursor, date_column_start, date_column_end, residence_permit_type, department):
-            residence_permit_type_filter = "AND residence_permit_type=%(residence_permit_type)s" if residence_permit_type else ''
-            department_filter = "AND department=%(department)s" if department else ''
-            percentiles_query = f"""
-                WITH time_diffs AS (
-                    SELECT
-                        CAST( (julianday({date_column_end}) - julianday({date_column_start})) AS INT) AS time_diff
-                    FROM forms_residencepermitfeedback
-                    WHERE
-                        {date_column_end} IS NOT NULL
-                        AND {date_column_start} IS NOT NULL
-                        {residence_permit_type_filter}
-                        {department_filter}
-                    ORDER BY time_diff ASC
-                ),
-                total_rows AS (
-                    SELECT COUNT(*) AS total_rows FROM time_diffs
-                ),
-                percentile_rows AS(
-                    SELECT
-                        CAST((total_rows * 0.2) AS INT) AS row_20,
-                        CAST((total_rows * 0.8) AS INT) AS row_80
-                    FROM total_rows
-                ),
-                numbered_rows AS (
-                    SELECT
-                        time_diff,
-                        row_20,
-                        row_80,
-                        ROW_NUMBER() over (order by time_diff) as rownum
-                    FROM time_diffs, percentile_rows
-                )
-                SELECT time_diff, total_rows
-                FROM numbered_rows, total_rows
-                WHERE rownum IN (row_20, row_80)
-            """
-            cursor.execute(percentiles_query, {
-                'residence_permit_type': residence_permit_type,
-                'department': department,
-            })
-            percentiles, total_rows = zip(*cursor.fetchall())
+    def list(self, request, *args, **kwargs):
+        response = super().list(request, *args, **kwargs)
+        rpt = request.query_params.get('residence_permit_type')
+        d = request.query_params.get('department')
+        response.data['stats'] = {
+            'first_response_date': ResidencePermitFeedback.objects.wait_time('application_date', 'first_response_date', rpt, d),
+            'appointment_date': ResidencePermitFeedback.objects.wait_time('first_response_date', 'appointment_date', rpt, d),
+            'pick_up_date': ResidencePermitFeedback.objects.wait_time('appointment_date', 'pick_up_date', rpt, d),
+        }
 
-            logging.info(percentiles_query)
-            logging.info(total_rows[0])
-            return {
-                'percentile_20': percentiles[0],
-                'percentile_80': percentiles[1],
-                'count': total_rows[0],
-            }
+        # Add human-readable range string like "1 week to 6 months"
+        for stats_dict in response.data['stats'].values():
+            if stats_dict['percentile_20'] and stats_dict['percentile_80']:
+                stats_dict['readable_range'] = readable_date_range(days_1=stats_dict['percentile_20'], days_2=stats_dict['percentile_80'])
+            else:
+                stats_dict['readable_range'] = None
 
-        with connection.cursor() as cursor:
-            residence_permit_type = self.request.query_params.get('residence_permit_type')
-            department = self.request.query_params.get('department')
-            response_data = {
-                'steps': {
-                    'response_range': get_date_range(
-                        cursor,
-                        'application_date', 'first_response_date',
-                        residence_permit_type, department
-                    ),
-                    'appointment_range': get_date_range(
-                        cursor,
-                        'first_response_date', 'appointment_date',
-                        residence_permit_type, department
-                    ),
-                    'pick_up_range': get_date_range(
-                        cursor,
-                        'appointment_date', 'pick_up_date',
-                        residence_permit_type, department
-                    ),
-                },
-            }
-        return Response(response_data, status=200)
+        return response
 
 
 class TaxIdRequestFeedbackReminderViewSet(MessageViewSet):

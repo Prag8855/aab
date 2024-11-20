@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 from django.conf import settings
 from django.core.exceptions import ValidationError
-from django.db import models
+from django.db import models, connection
 from django.template.loader import render_to_string
 from django.utils import timezone
 from django_countries.fields import CountryField
@@ -213,6 +213,65 @@ def in_8_weeks():
     return timezone.now() + timedelta(weeks=8)
 
 
+class ResidencePermitFeedbackManager(models.Manager):
+    def wait_time(self, date_column_start, date_column_end, residence_permit_type, department):
+        residence_permit_type_filter = "AND residence_permit_type=%(residence_permit_type)s" if residence_permit_type else ''
+        department_filter = "AND department=%(department)s" if department else ''
+        percentiles_query = f"""
+            WITH time_diffs AS (
+                SELECT
+                    CAST( (julianday({date_column_end}) - julianday({date_column_start})) AS INT) AS time_diff
+                FROM {self.model._meta.db_table}
+                WHERE
+                    {date_column_end} IS NOT NULL
+                    AND {date_column_start} IS NOT NULL
+                    {residence_permit_type_filter}
+                    {department_filter}
+                ORDER BY time_diff ASC
+            ),
+            row_count AS (
+                SELECT COUNT(*) AS row_count FROM time_diffs
+            ),
+            percentile_rows AS(
+                SELECT
+                    CAST((row_count * 0.2) AS INT) AS row_20,
+                    CAST((row_count * 0.8) AS INT) AS row_80
+                FROM row_count
+            ),
+            numbered_rows AS (
+                SELECT
+                    time_diff,
+                    row_20,
+                    row_80,
+                    ROW_NUMBER() over (order by time_diff) as rownum
+                FROM time_diffs, percentile_rows
+            )
+            SELECT time_diff, row_count
+            FROM numbered_rows, row_count
+            WHERE rownum IN (row_20, row_80)
+        """
+        with connection.cursor() as cursor:
+            cursor.execute(percentiles_query, {
+                'residence_permit_type': residence_permit_type,
+                'department': department,
+            })
+            results = list(zip(*cursor.fetchall()))
+        if results and len(results[0]) == 2:
+            percentile_20 = results[0][0]
+            percentile_80 = results[0][1]
+            row_count = results[1][0]
+        else:  # No data
+            percentile_20 = None
+            percentile_80 = None
+            row_count = 0
+
+        return {
+            'percentile_20': percentile_20,
+            'percentile_80': percentile_80,
+            'count': row_count,
+        }
+
+
 class ResidencePermitFeedback(Feedback):
     residence_permit_type = models.CharField(choices=ResidencePermitTypes, max_length=30)
 
@@ -223,6 +282,8 @@ class ResidencePermitFeedback(Feedback):
 
     department = models.CharField(max_length=30, choices=Departments)
     notes = models.TextField(blank=True)
+
+    objects = ResidencePermitFeedbackManager()
 
     def clean(self):
         if self.first_response_date and self.application_date > self.first_response_date:

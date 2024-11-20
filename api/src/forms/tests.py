@@ -6,7 +6,9 @@ from django.contrib.auth.models import User
 from django.utils import timezone
 from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
     PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
+from forms.utils import readable_date_range
 from rest_framework.test import APITestCase
+import unittest
 
 
 def basic_auth_headers(username: str, password: str) -> dict:
@@ -355,3 +357,17 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         response = self.client.post(self.endpoint, request, format='json')
         new_object = self.model.objects.get(modification_key=response.json()['modification_key'])
         self.assertEqual(new_object.feedback_reminders.count(), 0)
+
+
+class ReadableDateRangeTestCase(unittest.TestCase):
+    def test_days(self):
+        self.assertEqual(readable_date_range(0, 0), "0 days")
+        self.assertEqual(readable_date_range(0, 7), "0 to 7 days")
+        self.assertEqual(readable_date_range(7, 14), "7 to 14 days")
+        self.assertEqual(readable_date_range(7, 15), "7 days to 2 weeks")
+        self.assertEqual(readable_date_range(15, 17), "2 weeks")
+        self.assertEqual(readable_date_range(15, 18), "2 to 3 weeks")
+        self.assertEqual(readable_date_range(15, 7 * 8), "2 to 8 weeks")
+        self.assertEqual(readable_date_range(15, 7 * 8 + 1), "2 weeks to 2 months")
+        self.assertEqual(readable_date_range(2 * 30, 6 * 30), "2 to 6 months")
+        self.assertEqual(readable_date_range(6 * 30, 6 * 30), "6 months")
