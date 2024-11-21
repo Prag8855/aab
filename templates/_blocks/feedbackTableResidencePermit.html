@@ -52,6 +52,10 @@
 				resultsPage(){
 					return this.isLoading ? [] : this.resultPages[this.page];
 				},
+				residencePermitName(){
+					const rp = this.residencePermitTypes[this.residencePermitType];
+					return rp ? rp.capitalized : "Residence permit";
+				},
 			},
 			methods: {
 				async loadPage(page, scrollToTop=true){
@@ -145,23 +149,23 @@
 		<option v-for="(name, key) in departments" :key="key" :value="key" v-text="name"></option>
 	</select>
 </div>
-<h2>Residence permit application timeline</h2>
-<p>This is how long it takes to apply for a residence permit at the <em>Landesamt für Einwanderung</em> in Berlin. It varies between departments and residence permit types.</p>
+<h2 v-text="`${residencePermitName} wait times`">Residence permit wait times</h2>
+<p>This is how long it takes to apply for a residence permit at the <em>Landesamt für Einwanderung</em> in Berlin. Wait times vary between departments and residence permit types.</p>
 <div class="residence-permit-feedback-summary feedback-summary">
 	<div class="step completed">
 		<input type="checkbox" disabled>
 		<span class="description">Send your documents</span>
-		<span class="duration" v-text="stats.response.waitTime">Loading…</span>
+		<div class="duration" v-text="stats.response.waitTime">Loading…</div>
 	</div>
 	<div class="step completed">
 		<input type="checkbox" disabled>
 		<span class="description">Ausländerbehörde replies</span>
-		<span class="duration" v-text="stats.appointment.waitTime">Loading…</span>
+		<div class="duration" v-text="stats.appointment.waitTime">Loading…</div>
 	</div>
 	<div class="step completed">
 		<input type="checkbox" disabled>
 		<span class="description">Go to your Ausländerbehörde appointment</span>
-		<span class="duration" v-text="stats.pickup.waitTime">Loading…</span>
+		<div class="duration" v-text="stats.pickup.waitTime">Loading…</div>
 	</div>
 	<div class="step completed">
 		<input type="checkbox" disabled>
