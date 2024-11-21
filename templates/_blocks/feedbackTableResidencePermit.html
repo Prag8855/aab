@@ -2,7 +2,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/residencePermitFeedbackMixin.js' %}
 {% js %}
-	document.querySelectorAll('.article-body').forEach(
+	document.querySelectorAll('main .article-body').forEach(
 		el => new Vue({
 			el: el,
 			mixins: [residencePermitFeedbackMixin],
