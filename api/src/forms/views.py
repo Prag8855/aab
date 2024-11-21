@@ -1,6 +1,7 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
+from django.views.decorators.vary import vary_on_headers
 from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
     ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.serializers import HealthInsuranceQuestionSerializer, \
@@ -76,6 +77,8 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
         }
         return self.queryset.filter(**filters)
 
+    @method_decorator(cache_page(60 * 60 * 2))
+    @method_decorator(vary_on_headers("Authorization"))
     def list(self, request, *args, **kwargs):
         response = super().list(request, *args, **kwargs)
         rpt = request.query_params.get('residence_permit_type')
