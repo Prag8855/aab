@@ -1788,12 +1788,6 @@ input[type=range] {
         }
     }
 }
-.inter-step{
-    border-left: var(--b-box);
-    margin: calc(var(--l-relative) * -1) 0 calc(var(--l-relative) * -1) calc(var(--w-checkbox) / 2);
-    padding: var(--s-relative) 0 var(--s-relative) calc(var(--w-checkbox) / 2 + var(--s));
-    font-size: var(--f-s);
-}
 
 .filter-group{
     display: flex;
@@ -2927,7 +2921,7 @@ details{
         float: right;
     }
 }
-.feedback-item, .feedback-summary{
+.feedback-form, .feedback-item, .feedback-summary{
     @include text-block;
     h3{
         margin-bottom: var(--l);
@@ -2956,7 +2950,13 @@ details{
             font-size: var(--f-s);
             color: var(--c-text-light);
             margin: var(--m) 0 0 var(--w-checkbox);
-            display: block;
+            @include only-phone{
+                &.form-group label{
+                    padding-top: 0;
+                    font-weight: normal;
+                    color: var(--c-text-light);
+                }
+            }
         }
         + .step{
             padding-top: var(--m);

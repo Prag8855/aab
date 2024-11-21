@@ -216,21 +216,14 @@
 		How is your <span class="no-mobile">{{ residencePermitName }}</span> application going?
 	</template>
 	<template v-if="stage === 'start'">
-		<template  v-for="(step, key, index) in steps" :key="key">
-			<div class="form-group no-label">
-				<div class="input-group vertical">
-					<label class="checkbox">
-						<input type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
-						{{ stepName(key) }}
-					</label>
-				</div>
-			</div>
-			<div class="inter-step" v-if="!step.completed && index != Object.keys(steps).length - 1"></div>
-			<div class="form-group inter-step required" v-if="step.completed">
-				<label :for="uid(key) + '-date-day'">{{ step.dateFieldTitle }}</label>
+		<div class="step" v-for="(step, key, index) in steps" :key="key">
+			<input :id="uid('checkbox' + key)" type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
+			<label :for="uid('checkbox' + key)" class="description" v-text="stepName(key)"></label>
+			<div class="duration form-group required" v-if="step.completed">
+				<label :for="uid(key) + '-date-day'" v-text="step.dateFieldTitle"></label>
 				<date-picker :min="minimumStepDate(step)" v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
 			</div>
-		</template>
+		</div>
 		<template v-if="!showRestOfForm">
 			<hr>
 			<div class="icon-paragraph">
