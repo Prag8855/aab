@@ -2,7 +2,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/residencePermitFeedbackMixin.js' %}
 {% js %}
-	document.querySelectorAll('.residence-permit-feedback-table').forEach(
+	document.querySelectorAll('.article-body').forEach(
 		el => new Vue({
 			el: el,
 			mixins: [residencePermitFeedbackMixin],
@@ -13,10 +13,24 @@
 					page: null,
 					resultCount: 0,
 					itemsPerPage: 10,
+					stats: {
+						response: {
+							waitTime: 'Loading…',
+							count: 0,
+						},
+						appointment: {
+							waitTime: 'Loading…',
+							count: 0,
+						},
+						pickup: {
+							waitTime: 'Loading…',
+							count: 0,
+						},
+					}
 				};
 			},
 			async mounted(){
-				this.goToPage(1, false);
+				this.loadPage(1, false);
 			},
 			computed: {
 				apiEndpoint(){
@@ -40,11 +54,11 @@
 				},
 			},
 			methods: {
-				async goToPage(page, scrollToTop=true){
+				async loadPage(page, scrollToTop=true){
 					this.page = page;
 					if(scrollToTop){
 						Vue.nextTick(() => {
-							this.$refs.topOfPage.scrollIntoView();
+							this.$refs.topOfList.scrollIntoView();
 						});
 					}
 
@@ -60,38 +74,109 @@
 							r.pick_up_date = r.pick_up_date ? new Date(r.pick_up_date) : null;
 							return r;
 						});
+
+						const unknown = 'for an unknown duration';
+
+						this.stats.response.waitTime = `Wait ${response.stats.first_response_date.readable_range || unknown}`;
+						this.stats.response.count = response.stats.first_response_date.count;
+						
+						this.stats.appointment.waitTime = `Wait ${response.stats.appointment_date.readable_range || unknown}`;
+						this.stats.appointment.count = response.stats.appointment_date.count;
+
+						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range || unknown}`;
+						this.stats.pickup.count = response.stats.pick_up_date.count;
+
 						this.isLoading = false;
 					}
 				},
-				waitTime(date1, date2) {
-					if(date2 > date1){
-						`Will wait ${this.formatTimeDelta(date1, date2)}`
+				formatTimeDelta(date1, date2){
+					const millisecondsPerDay = 1000 * 60 * 60 * 24;
+					const days = Math.ceil((date2.getTime() - date1.getTime()) / millisecondsPerDay);
+					let qty, unit = null;
+					if(days <= 7 * 2){
+						qty = days
+						unit = (qty === 1 ? 'day' : 'days');
 					}
-					return `${this.formatTimeDelta(date1, date2)} passed`;
-				}
+					else if(days <= 7 * 8){
+						qty = Math.round(days / 7);
+						unit = (qty === 1 ? 'week' : 'weeks');
+					}
+					else{
+						qty = Math.round(days / 30)
+						unit = (qty === 1 ? 'month' : 'months');
+					}
+
+					return `${qty} ${unit}`;
+				},
+				waitTime(date1, date2, stillWaiting=false) {
+					if(stillWaiting){
+						const timeDelta = this.formatTimeDelta(date1, date2);
+						return timeDelta.startsWith('1 ') ? `${timeDelta} has passed` : `${timeDelta} have passed`;
+					}
+					else if(date2 > date1){
+						return `Waited ${this.formatTimeDelta(date1, date2)}`
+					}
+					return `Waiting ${this.formatTimeDelta(date1, date2)}`;
+				},
 			},
 			watch: {
 				department(){
 					this.resultPages = [];
-					this.goToPage(1);
+					this.loadPage(1, false);
 				},
 				residencePermitType(){
 					this.resultPages = [];
-					this.goToPage(1);
+					this.loadPage(1, false);
 				},
 			}
 		})
 	);
 {% endjs %}
-
 {% raw %}
-<div class="residence-permit-feedback-table feedback-table" ref="topOfPage">
-	<div class="loading" v-if="isLoading"></div>
+<div class="filter-group">
+	<select v-model="residencePermitType">
+		<option :value="null">All residence permits</option>
+		<option disabled>──────────</option>
+		<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key" v-text="name.capitalized"></option>
+	</select>
+	<select v-model="department">
+		<option :value="null">All departments</option>
+		<option disabled>──────────</option>
+		<option v-for="(name, key) in departments" :key="key" :value="key" v-text="name"></option>
+	</select>
+</div>
+<h2>Residence permit application timeline</h2>
+<p>This is how long it takes to apply for a residence permit at the <em>Landesamt für Einwanderung</em> in Berlin. It varies between departments and residence permit types.</p>
+<div class="residence-permit-feedback-summary feedback-summary">
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Send your documents</span>
+		<span class="duration" v-text="stats.response.waitTime">Loading…</span>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Ausländerbehörde replies</span>
+		<span class="duration" v-text="stats.appointment.waitTime">Loading…</span>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Go to your Ausländerbehörde appointment</span>
+		<span class="duration" v-text="stats.pickup.waitTime">Loading…</span>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Pick up residence card</span>
+	</div>
+</div>
+<h2 ref="topOfList">Feedback from readers</h2>
+<p>Your feedback helps other people plan their residence permit application.</p>
+<div class="feedback-table">
+	<div class="loading" v-if="isLoading">Loading results&hellip;</div>
 	<div v-cloak class="feedback-item" v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
 		<h3>
 			{{ residencePermitTypes[result.residence_permit_type].capitalized }}
 			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
-			&mdash; {{ departments[result.department].split(' — ')[0] }}
+			&mdash; {{ (departments[result.department] || '').split(' — ')[0] }}
 		</h3>
 
 		<div class="step completed">
@@ -102,7 +187,7 @@
 					{{ waitTime(result.application_date, result.first_response_date) }}
 				</template>
 				<template v-else>
-					{{ waitTime(result.application_date, result.modification_date) }}
+					{{ waitTime(result.application_date, result.modification_date, true) }}
 				</template>
 			</span>
 		</div>
@@ -111,7 +196,7 @@
 			<input type="checkbox" :checked="result.first_response_date" disabled>
 			<span class="description">
 				<template v-if="result.first_response_date">
-					First response on {{ formatLongDate(result.first_response_date) }}
+					Got a response on {{ formatLongDate(result.first_response_date) }}
 				</template>
 				<template v-else>
 					No response as of {{ formatLongDate(result.modification_date) }}
@@ -122,7 +207,7 @@
 					{{ waitTime(result.first_response_date, result.appointment_date) }}
 				</template>
 				<template v-if="result.first_response_date && !result.appointment_date">
-					{{ waitTime(result.first_response_date, result.modification_date) }}
+					{{ waitTime(result.first_response_date, result.modification_date, true) }}
 				</template>
 			</span>
 		</div>
@@ -141,7 +226,7 @@
 				{{ waitTime(result.appointment_date, result.pick_up_date) }}
 			</span>
 			<span class="duration" v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
-				{{ waitTime(result.appointment_date, result.modification_date) }}
+				{{ waitTime(result.appointment_date, result.modification_date, true) }}
 			</span>
 		</div>
 
@@ -160,13 +245,13 @@
 		<div v-if="result.notes.length" class="notes">{{ result.notes.trim() }}</div>
 	</div>
 	<nav v-cloak class="pagination" aria-label="Pagination">
-		<button v-if="page > 1" @click.prevent="goToPage(page - 1)"><i class="icon left"></i></button>
+		<button v-if="page > 1" @click.prevent="loadPage(page - 1)"><i class="icon left"></i></button>
 		<button :class="{current: pageNumber === page}"
 			v-for="pageNumber in pageNumbers" :key="pageNumber"
-			@click.prevent="goToPage(pageNumber)"
+			@click.prevent="loadPage(pageNumber)"
 			:title="'Go to page ' + pageNumber"
 			:disabled="page === pageNumber">{{ pageNumber }}</button>
-		<button v-if="page < pageCount" @click.prevent="goToPage(page + 1)"><i class="icon right"></i></button>
+		<button v-if="page < pageCount" @click.prevent="loadPage(page + 1)"><i class="icon right"></i></button>
 	</nav>
 </div>
 {% endraw %}
