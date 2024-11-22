@@ -1,5 +1,6 @@
 {% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/feedback-residence-permit.js' %}
 {% include '_js/vue/residencePermitFeedbackMixin.js' %}
 {% js %}
 	document.querySelectorAll('main .article-body').forEach(
@@ -182,7 +183,9 @@
 	</div>
 </div>
 <h2 ref="topOfList">Feedback from readers</h2>
-<p>Your feedback helps other people plan their residence permit application.</p>
+<p>
+	<strong><a class="section-link after" href="#add-feedback">Add your feedback</a></strong>
+</p>
 <div class="feedback-table">
 	<div class="loading" v-if="isLoading">Loading results&hellip;</div>
 	<div v-cloak class="feedback-item" v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">

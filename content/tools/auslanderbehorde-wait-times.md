@@ -2,7 +2,7 @@
 Title: Berlin Ausländerbehörde wait times
 Short_title: Ausländerbehörde wait times
 Description: See how long it takes to get a residence permit at the Berlin immigration office (Landesamt für Einwanderung).
-Date_created: 2024-11-19
+Date_created: 2024-11-30
 Related_guides:
     guides/residence-permit.md
     guides/blue-card.md
@@ -15,3 +15,9 @@ Categories:
 ---
 
 {% include "_blocks/feedbackTableResidencePermit.html"%}
+
+## Add feedback
+
+Your feedback helps other people plan their residence permit application.
+
+<feedback-residence-permit open></feedback-residence-permit>
