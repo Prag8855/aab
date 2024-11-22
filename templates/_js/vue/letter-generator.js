@@ -46,7 +46,7 @@ Vue.component('letter-generator', {
 		},
 	},
 	template: `
-		<details class="collapsible" ref="collapsible" :open="static" v-cloak>
+		<details class="collapsible" ref="collapsible" :open="static">
 			<summary :hidden="static">
 				<small>Letter generator</small>
 				<slot name="header"></slot>

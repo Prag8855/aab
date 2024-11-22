@@ -210,7 +210,7 @@
 	);
 {% endjs %}
 
-<collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %} {% if open|default %}open{% endif %} v-cloak>
+<collapsible class="feedback-form" :aria-label="`Feedback form: ${residencePermitName} processing time`" {% if residencePermitType|default %}data-type="{{ residencePermitType }}"{% endif %} {% if open|default %}open{% endif %}>
 {% raw %}
 	<template v-slot:header>
 		How is your <span class="no-mobile">{{ residencePermitName }}</span> application going?

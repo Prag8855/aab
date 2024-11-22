@@ -1603,7 +1603,7 @@ input[type=range] {
         @include collapsible;
     }
 
-.loading{
+.loading, collapsible, letter-generator{
     min-height: var(--w-icon-s);
     color: var(--c-text-light);
     position: relative;
@@ -2096,9 +2096,23 @@ details{
     }
 }
 
+collapsible, letter-generator{  // Vue element before it loads
+    @include widget;
+    background: transparent!important;
+    box-shadow: none;
+    display: block;
+    padding: var(--m) var(--w-page-border);
+    color: var(--c-text-light);
+    &:after{
+        content: 'Loading…';
+    }
+    > *{
+        display: none!important;
+    }
+}
+
 .collapsible{
     @include widget;
-
     > summary {
         padding: var(--m) var(--w-page-border);
 
