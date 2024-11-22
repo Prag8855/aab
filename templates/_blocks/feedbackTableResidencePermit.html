@@ -56,6 +56,14 @@
 					const rp = this.residencePermitTypes[this.residencePermitType];
 					return rp ? rp.capitalized : "Residence permit";
 				},
+				supportLink(){
+					return {
+						BLUE_CARD: '/guides/blue-card',
+						WORK_VISA: '/guides/work-visa',
+						FREELANCE_VISA: '/guides/freelance-visa',
+						PERMANENT_RESIDENCE: '/guides/permanent-residence',
+					}[this.residencePermitType] || null;
+				}
 			},
 			methods: {
 				async loadPage(page, scrollToTop=true){
@@ -150,7 +158,10 @@
 	</select>
 </div>
 <h2 v-text="`${residencePermitName} wait times`">Residence permit wait times</h2>
-<p>This is how long it takes to apply for a residence permit at the <em>Landesamt für Einwanderung</em> in Berlin. Wait times vary between departments and residence permit types.</p>
+<p>It takes this long to get a {{ residencePermitType ? residencePermitTypes[residencePermitType].normal : 'residence permit' }} at the <em>Ausländerbehörde</em> in Berlin. Wait times vary between departments<template v-if="!residencePermitType">and residence permit types</template>.</p>
+<p v-if="supportLink" v-cloak>
+	<strong><a :href="supportLink" class="internal-link">How to apply for the {{ residencePermitTypes[residencePermitType].normal }}</a></strong>
+</p>
 <div class="residence-permit-feedback-summary feedback-summary">
 	<div class="step completed">
 		<input type="checkbox" disabled>
@@ -159,7 +170,7 @@
 	</div>
 	<div class="step completed">
 		<input type="checkbox" disabled>
-		<span class="description">Ausländerbehörde replies</span>
+		<span class="description">Get a response</span>
 		<div class="duration" v-text="stats.appointment.waitTime">Loading…</div>
 	</div>
 	<div class="step completed">
@@ -169,7 +180,7 @@
 	</div>
 	<div class="step completed">
 		<input type="checkbox" disabled>
-		<span class="description">Pick up residence card</span>
+		<span class="description">Pick up your residence card</span>
 	</div>
 </div>
 <h2 ref="topOfList">Feedback from readers</h2>
@@ -196,7 +207,7 @@
 			</span>
 		</div>
 
-		<div class="step">
+		<div class="step" :class="{completed: !!result.first_response_date}">
 			<input type="checkbox" :checked="result.first_response_date" disabled>
 			<span class="description">
 				<template v-if="result.first_response_date">
@@ -216,7 +227,7 @@
 			</span>
 		</div>
 
-		<div class="step">
+		<div class="step" :class="{completed: !!result.appointment_date}">
 			<input type="checkbox" :checked="result.appointment_date" disabled>
 			<span class="description">
 				<template v-if="result.appointment_date">
@@ -234,7 +245,7 @@
 			</span>
 		</div>
 
-		<div class="step">
+		<div class="step" :class="{completed: !!result.pick_up_date}">
 			<input type="checkbox" :checked="result.pick_up_date" disabled>
 			<span class="description">
 				<template v-if="result.pick_up_date">

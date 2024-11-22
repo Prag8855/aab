@@ -2923,6 +2923,9 @@ details{
         float: right;
     }
 }
+.feedback-summary .description{
+    @include text-bold;
+}
 .feedback-form, .feedback-item, .feedback-summary{
     @include text-block;
     h3{
