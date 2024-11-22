@@ -53,8 +53,10 @@
 					return this.isLoading ? [] : this.resultPages[this.page];
 				},
 				residencePermitName(){
-					const rp = this.residencePermitTypes[this.residencePermitType];
-					return rp ? rp.capitalized : "Residence permit";
+					return this.residencePermitTypes[this.residencePermitType] || {
+						normal: "residence permit",
+						capitalized: "Residence permit"
+					}
 				},
 				supportLink(){
 					return {
@@ -90,13 +92,9 @@
 						const unknown = 'for an unknown duration';
 
 						this.stats.response.waitTime = `Wait ${response.stats.first_response_date.readable_range || unknown}`;
-						this.stats.response.count = response.stats.first_response_date.count;
-						
 						this.stats.appointment.waitTime = `Wait ${response.stats.appointment_date.readable_range || unknown}`;
-						this.stats.appointment.count = response.stats.appointment_date.count;
-
 						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range || unknown}`;
-						this.stats.pickup.count = response.stats.pick_up_date.count;
+						this.stats.total.waitTime = response.stats.total.readable_range || 'an unknown time';
 
 						this.isLoading = false;
 					}
@@ -157,8 +155,8 @@
 		<option v-for="(name, key) in departments" :key="key" :value="key" v-text="name"></option>
 	</select>
 </div>
-<h2 v-text="`${residencePermitName} wait times`">Residence permit wait times</h2>
-<p>It takes this long to get a {{ residencePermitType ? residencePermitTypes[residencePermitType].normal : 'residence permit' }} at the <em>Ausländerbehörde</em> in Berlin. Wait times vary between departments<template v-if="!residencePermitType">and residence permit types</template>.</p>
+<h2 v-text="`${residencePermitName.capitalized} wait times`">Residence permit wait times</h2>
+<p>It takes <strong v-text="stats.total.waitTime">a few months</strong> to get your <span v-text="residencePermitName.normal">residence permit</span> at the <em>Ausländerbehörde</em> in Berlin. Wait times vary between departments<span v-if="!residencePermitType">&nbsp;and residence permit types</span>.</p>
 <p v-if="supportLink" v-cloak>
 	<strong><a :href="supportLink" class="internal-link">How to apply for the {{ residencePermitTypes[residencePermitType].normal }}</a></strong>
 </p>
