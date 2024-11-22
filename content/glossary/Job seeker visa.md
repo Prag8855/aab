@@ -9,6 +9,7 @@ Related_guides:
     guides/residence-permit.md
     guides/find-a-job-in-berlin.md
     guides/berlin-auslanderbehorde-appointment.md
+    tools/auslanderbehorde-wait-times.md
     guides/freelance-visa.md
     guides/work-visa.md
     guides/blue-card.md

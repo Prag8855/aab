@@ -11,6 +11,7 @@ Related_guides:
     guides/permanent-residence.md
     guides/find-a-job-in-berlin.md
     guides/berlin-auslanderbehorde-appointment.md
+    tools/auslanderbehorde-wait-times.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md

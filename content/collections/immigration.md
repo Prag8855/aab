@@ -9,6 +9,7 @@ Related_guides:
     guides/renew-german-freelance-visa.md
     guides/permanent-residence.md
     guides/berlin-auslanderbehorde-appointment.md
+    tools/auslanderbehorde-wait-times.md
     guides/fiktionsbescheinigung.md
     guides/biometric-pictures-in-berlin.md
     guides/german-visa-health-insurance.md
