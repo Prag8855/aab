@@ -274,12 +274,12 @@
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
-{% include '_js/vue/multiStageMixin.js' %}
+{% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/postalcode-input.js' %}
-{% include '_js/vue/preloadPDFMixin.js' %}
-{% include '_js/vue/trackedStagesMixin.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/preloadPDFMixin.js' %}
+{% include '_js/vue/mixins/trackedStagesMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.abmeldung-form').forEach(
 		el => new Vue({

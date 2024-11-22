@@ -1,7 +1,7 @@
 {% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/feedback-residence-permit.js' %}
-{% include '_js/vue/residencePermitFeedbackMixin.js' %}
+{% include '_js/vue/mixins/residencePermitFeedbackMixin.js' %}
 {% js %}
 	document.querySelectorAll('main .article-body').forEach(
 		el => new Vue({
@@ -270,4 +270,6 @@
 		<button v-if="page < pageCount" @click.prevent="loadPage(page + 1)"><i class="icon right"></i></button>
 	</nav>
 </div>
+<h2 id="add-feedback">Add feedback</h2>
+<feedback-residence-permit open></feedback-residence-permit>
 {% endraw %}

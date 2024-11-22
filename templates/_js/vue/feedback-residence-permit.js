@@ -2,11 +2,11 @@
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/multiStageMixin.js' %}
-{% include '_js/vue/residencePermitFeedbackMixin.js' %}
-{% include '_js/vue/trackedStagesMixin.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/multiStageMixin.js' %}
+{% include '_js/vue/mixins/residencePermitFeedbackMixin.js' %}
+{% include '_js/vue/mixins/trackedStagesMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}{% raw %}
 Vue.component('feedback-residence-permit', {
 	props: {

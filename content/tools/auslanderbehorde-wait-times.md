@@ -15,9 +15,3 @@ Categories:
 ---
 
 {% include "_blocks/feedbackTableResidencePermit.html"%}
-
-## Add feedback
-
-Your feedback helps other people plan their residence permit application.
-
-<feedback-residence-permit open></feedback-residence-permit>

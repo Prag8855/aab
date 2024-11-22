@@ -3,9 +3,9 @@
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
-{% include '_js/vue/trackedStagesMixin.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/trackedStagesMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}{% raw %}
 Vue.component('health-insurance-question', {
 	mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
