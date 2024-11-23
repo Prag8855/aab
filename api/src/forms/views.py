@@ -87,6 +87,7 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
             'first_response_date': ResidencePermitFeedback.objects.wait_time('application_date', 'first_response_date', rpt, d),
             'appointment_date': ResidencePermitFeedback.objects.wait_time('first_response_date', 'appointment_date', rpt, d),
             'pick_up_date': ResidencePermitFeedback.objects.wait_time('appointment_date', 'pick_up_date', rpt, d),
+            'total': ResidencePermitFeedback.objects.wait_time('application_date', 'pick_up_date', rpt, d),
         }
 
         # Add human-readable range string like "1 week to 6 months"
