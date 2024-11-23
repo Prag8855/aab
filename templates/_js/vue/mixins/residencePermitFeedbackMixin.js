@@ -17,6 +17,10 @@ const residencePermitFeedbackMixin = {
 					capitalized: "Freelance visa",
 					normal: "freelance visa",
 				},
+				JOB_SEEKER_VISA: {
+					capitalized: "Job seeker visa",
+					normal: "job seeker visa",
+				},
 				PERMANENT_RESIDENCE: {
 					capitalized: "Permanent residence",
 					normal: "permanent residence",
