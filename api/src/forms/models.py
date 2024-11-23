@@ -64,6 +64,7 @@ class ResidencePermitTypes(models.TextChoices):
     CITIZENSHIP = 'CITIZENSHIP', "Citizenship"
     FAMILY_REUNION_VISA = 'FAMILY_REUNION_VISA', "Family reunion visa"
     FREELANCE_VISA = 'FREELANCE_VISA', "Freelance visa"
+    JOB_SEEKER_VISA = 'JOB_SEEKER_VISA', "Job seeker visa"
     PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
     STUDENT_VISA = 'STUDENT_VISA', "Student visa"
     WORK_VISA = 'WORK_VISA', "Work visa"
