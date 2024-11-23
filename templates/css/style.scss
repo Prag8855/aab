@@ -1603,7 +1603,7 @@ input[type=range] {
         @include collapsible;
     }
 
-.loading, collapsible, letter-generator{
+.loading, collapsible, letter-generator, feedback-residence-permit{
     min-height: var(--w-icon-s);
     color: var(--c-text-light);
     position: relative;
@@ -2096,7 +2096,7 @@ details{
     }
 }
 
-collapsible, letter-generator{  // Vue element before it loads
+collapsible, letter-generator, feedback-residence-permit{  // Vue element before it loads
     @include widget;
     background: transparent!important;
     box-shadow: none;
