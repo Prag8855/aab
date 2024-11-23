@@ -264,7 +264,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid 
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 ### 4. Go to your appointment
 
@@ -300,7 +300,7 @@ You will get a document. It confirms that your permanent residence application w
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 ### 5. Get your permanent residence card
 
@@ -310,7 +310,7 @@ Check if the information on your card is correct. The *Ausländerbehörde* somet
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 ## Required documents
 
@@ -417,7 +417,7 @@ If you depend on your spouse's income, bring...[^50]
 
 Your feedback helps thousands of people plan their permanent residence application.
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 **[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 

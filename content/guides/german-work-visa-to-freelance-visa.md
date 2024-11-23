@@ -41,7 +41,7 @@ Next, you must [apply for the freelance visa](/guides/freelance-visa). This can 
 
 **The freelance visa will replace your current residence permit**. You can't have both at the same time. As soon as you get the freelance visa, your old residence permit will become invalid. You must stop working for your employer as soon as you get the freelance visa, but you don't know when you will get the freelance visa. This can be hard to synchronise.
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### Tell your health insurance company
 

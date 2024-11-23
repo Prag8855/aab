@@ -54,7 +54,7 @@ If you pick up a new residence permit at the *Ausländerbehörde*, ask if they c
 
 If you just got your residence permit, **tell us how long you waited**. Your feedback helps other people plan their residence permit application.
 
-{% include "_blocks/feedbackResidencePermitStatic.html" %}
+{% include "_blocks/feedbackResidencePermit/allTypesStatic.html" %}
 
 **[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 

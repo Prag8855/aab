@@ -107,7 +107,7 @@ Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid 
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 3. Find a translator
 
@@ -129,7 +129,7 @@ The *Ausländerbehörde* might ask you to bring new or updated documents to your
 
 **[What happens during your Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 5. Receive your new residence permit
 
@@ -216,7 +216,7 @@ Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20ab
 
 Your feedback helps thousands of people plan their freelance visa application.
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 **[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 

@@ -157,7 +157,7 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit.
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 5. Wait
 
@@ -171,7 +171,7 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 6. Go to your work visa appointment
 
@@ -198,7 +198,7 @@ If they approve your work visa, they must print the plastic card. You will get a
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 7. Get your work visa
 
@@ -212,7 +212,7 @@ You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your work visa. This lets you use your work visa to log into online government services.
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 8. Start working in Germany
 
@@ -360,7 +360,7 @@ If you apply in person, print everything. Use A4 paper. Do not staple the pages 
 
 Your feedback helps thousands of people plan their work visa application.
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 **[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 

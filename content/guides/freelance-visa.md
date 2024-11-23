@@ -141,7 +141,7 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit.
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 5. Wait
 
@@ -157,7 +157,7 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 6. Go to your freelance visa appointment
 
@@ -184,7 +184,7 @@ If they approve your freelance visa, they must print the plastic card. You will 
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 7. Get your freelance visa
 
@@ -198,7 +198,7 @@ You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your freelance visa. This lets you use your freelance visa to log into online government services.
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 8. Start your business
 
@@ -401,7 +401,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 
 Your feedback helps thousands of people plan their freelance visa application.
 
-{% include "_blocks/feedbackFreelanceVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 **[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 

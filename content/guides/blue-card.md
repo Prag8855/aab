@@ -170,7 +170,7 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
-{% include "_blocks/feedbackBlueCard.html" %}
+{% include "_blocks/feedbackResidencePermit/blueCard.html" %}
 
 ### 6. Go to your Blue Card appointment
 
@@ -195,7 +195,7 @@ If they approve your Blue Card, they must print the plastic card. You will get a
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackBlueCard.html" %}
+{% include "_blocks/feedbackResidencePermit/blueCard.html" %}
 
 ### 7. Get your Blue Card
 
@@ -209,7 +209,7 @@ You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your Blue Card. This lets you use your Blue Card to log into online government services.
 
-{% include "_blocks/feedbackBlueCard.html" %}
+{% include "_blocks/feedbackResidencePermit/blueCard.html" %}
 
 ### 8. Start working in Germany
 
@@ -333,7 +333,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 Your feedback helps thousands of people plan their Blue Card application.
 
-{% include "_blocks/feedbackBlueCard.html" %}
+{% include "_blocks/feedbackResidencePermit/blueCard.html" %}
 
 **[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 
