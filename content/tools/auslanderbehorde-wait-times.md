@@ -28,4 +28,6 @@ Categories:
 
 ## Share your experience
 
+Tell me how your residence permit application went. Your feedback helps thousands of people plan their application.
+
 {% include "_blocks/feedbackResidencePermit/form.html"%}
