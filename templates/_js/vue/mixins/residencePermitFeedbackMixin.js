@@ -41,13 +41,13 @@ const residencePermitFeedbackMixin = {
 			return {
 				BLUE_CARD: {
 					B1_B2_B3_B4: 'B1, B2, B3, B4 — Online application',
-					B6: 'B6 — Business Immigration Service',
+					B6: 'BIS — Business Immigration Service',
 				},
 				FAMILY_REUNION_VISA: {
 					A1_A5: 'A1, A5 — Syria',
 					A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
 					B1_B2_B3_B4: 'B1, B2, B3, B4 — Family of skilled workers',
-					B6: 'B6 — Business Immigration Service',
+					B6: 'BIS — Business Immigration Service',
 					E1: 'E1 — Middle East',
 					E2: 'E2 — Africa, America, Israel',
 					E3: 'E3 — India, Turkey, etc.',
@@ -86,7 +86,7 @@ const residencePermitFeedbackMixin = {
 				A1_A5: 'A1, A5 — Syria',
 				A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
 				B1_B2_B3_B4: 'B1, B2, B3, B4 — Students, workers, researchers',
-				B6: 'B6 — Business Immigration Service',
+				B6: 'BIS — Business Immigration Service',
 				E1: 'E1 — Middle East',
 				E2: 'E2 — Africa, America, Israel',
 				E3: 'E3 — India, Turkey, etc.',
