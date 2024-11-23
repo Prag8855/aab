@@ -18,8 +18,6 @@ Categories:
 
 ## Residence permit wait times
 
-It takes **a few months** to get a residence permit at the Berlin *[[Ausländerbehörde]]*. Wait times vary by department and residence permit type.
-
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
 **[Tell us how your application went ➞](#share-your-experience)**
