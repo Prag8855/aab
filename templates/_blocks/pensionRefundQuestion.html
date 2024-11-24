@@ -2,8 +2,8 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-question').forEach(
 		el => new Vue({
@@ -69,7 +69,7 @@
 	);
 {% endjs %}
 
-<collapsible class="pension-refund-question" aria-label="Ask a question about pension refunds" ref="collapsible" {% if static|default %}static{% endif %} v-cloak>
+<collapsible class="pension-refund-question" aria-label="Ask a question about pension refunds" ref="collapsible" {% if static|default %}static{% endif %}>
 	<template v-slot:header>Ask a pension refund expert</template>
 	{% include "_blocks/formHoneypot.html" %}
 	<template v-if="stage === 'contactInfo'">

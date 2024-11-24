@@ -3,8 +3,8 @@
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/letter-generator.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.bescheinigung-in-steueresachen-letter').forEach(
 		el => new Vue({

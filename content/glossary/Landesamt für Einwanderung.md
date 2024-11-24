@@ -6,6 +6,7 @@ Description: The foreigner's office. It's responsible for German immigration, vi
 Date_created: 2021-06-08
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
+    tools/auslanderbehorde-wait-times.md
     guides/residence-permit.md
 ---
 

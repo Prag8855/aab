@@ -1,5 +1,5 @@
 {% include '_js/vue.js' %}
-{% include '_js/vue/trackedStagesMixin.js' %}
+{% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% js %}{% raw %}
 Vue.component('letter-generator', {
 	mixins: [trackedStagesMixin],
@@ -46,7 +46,7 @@ Vue.component('letter-generator', {
 		},
 	},
 	template: `
-		<details class="collapsible" ref="collapsible" :open="static" v-cloak>
+		<details class="collapsible" ref="collapsible" :open="static">
 			<summary :hidden="static">
 				<small>Letter generator</small>
 				<slot name="header"></slot>

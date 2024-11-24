@@ -21,11 +21,13 @@ If you go to the *Ausländerbehörde* without an appointment, they will not help
 
 ## How to get an appointment
 
-Since August 2024, **there is no appointment booking system**. The only way to get an Ausländerbehörde appointment is to use their contact form.[^2]
+Since August 2024, **there is no appointment booking system**. The only way to get an *Ausländerbehörde* appointment is to use their [contact form](/out/auslanderbehorde-contact).[^2]
 
 ### Send your documents and wait
 
-Use the [contact form](/out/auslanderbehorde-contact), send your complete [residence permit](/glossary/Aufenthaltstitel) application, and wait a few weeks.[^6] **This is the only way to get an appointment.**
+Use the [contact form](/out/auslanderbehorde-contact), send your complete [residence permit](/glossary/Aufenthaltstitel) application, and wait.[^6] It takes a few weeks to a few months to get an answer. **This is the only way to get an appointment.**
+
+**[Ausländerbehörde wait times ➞](/tools/auslanderbehorde-wait-times)**
 
 If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], send your documents 8 weeks before it expires, not sooner.[^1] You must send your application before your residence permit expires.[^5] [If your visa or residence permit expires soon](#if-your-residence-permit-expires-soon), sending your documents usually allows you to stay in Germany.
 
@@ -40,20 +42,20 @@ To send your documents...
     Send all the required documents. Complete applications are processed faster.[^23] You can only upload 5 small documents. If possible, use PDF documents. You can [merge PDF documents](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make PDFs smaller](https://www.adobe.com/acrobat/online/compress-pdf.html) online. If you have too many documents, send them by post.[^29]
 3. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You might not get a confirmation email.[^14]
-4. **Wait a few weeks**  
-    You must wait weeks or months to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
+4. **Wait**  
+    You must wait [a few weeks to a few months](/tools/auslanderbehorde-wait-times) to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
 5. **Get an Ausländerbehörde appointment**  
-    After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit {{ RESIDENCE_PERMIT_WAIT_TIME }} after the appointment.
+    After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit [around 8 weeks](/tools/auslanderbehorde-wait-times) after the appointment.{{ fail_on('2025-01-15') }}
 
-You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not fax or email your application.[^17] Use the contact form.
+You can send your residence permit application by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^23] Do not fax your application.[^17] Use the contact form.
 
-**If you [apply for a Blue Card](/guides/blue-card)**, don't use the contact form. There is a [different form](/guides/blue-card#apply-for-the-blue-card-online) for the Blue Card.
+**If you [apply for a Blue Card](/guides/blue-card)**{{ fail_on('2025-01-01') }}, don't use the contact form. There is a [different form](/guides/blue-card#apply-for-the-blue-card-online) for the Blue Card.
 
-{% include "_blocks/feedbackResidencePermitStatic.html" %}
+{% include "_blocks/feedbackResidencePermit/allTypesStatic.html" %}
 
 ### Book an appointment online
 
-You can't book an appointment online. The *Ausländerbehörde* disabled its appointment system in August 2024.
+You can't book an appointment online. The *Ausländerbehörde* disabled its appointment system in August 2024. You must use the contact form, send your documents, and wait for a reply. It can take [a few months](/tools/auslanderbehorde-wait-times).
 
 ### Other solutions
 
@@ -66,7 +68,7 @@ You can't book an appointment online. The *Ausländerbehörde* disabled its appo
 
 ## If your residence permit expires soon
 
-Your visa or residence permit might expire while you wait for the *Ausländerbehörde*. Don't panic! Usually, **you can usually stay in Germany**.[^20]
+[It takes months](/tools/auslanderbehorde-wait-times) to get a residence permit. Your current visa or residence permit might expire while you wait for the *Ausländerbehörde*. Don't panic! Usually, **you can usually stay in Germany**.[^20]
 
 ### If you have a residence permit or a National Visa
 
@@ -132,7 +134,7 @@ They might ask you to pay a fee. You must pay it at a payment machine. The machi
 
 **[How to pay the residence permit fee ➞](#pay-the-fee)**
 
-If they approve your residence permit, they must print the plastic card. You will get a second appointment to collect your residence permit in {{ RESIDENCE_PERMIT_WAIT_TIME }}. You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your residence permit was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
+If they approve your residence permit, they must print the plastic card. You will get a second appointment to collect your residence permit [in around 8 weeks](/tools/auslanderbehorde-wait-times). You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your residence permit was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
 
 ### Pay the fee
 
@@ -151,9 +153,11 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 
 ### Give feedback
 
-Your feedback helps me improve the information on this website. It will help thousands of people plan their residence permit application.
+Tell me how your *Ausländerbehörde* appointment went. Your feedback helps thousands of people plan their residence permit application.
 
-{% include "_blocks/feedbackResidencePermitStatic.html" %}
+{% include "_blocks/feedbackResidencePermit/allTypesStatic.html" %}
+
+**[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 
 ### If your application is approved
 
@@ -184,6 +188,8 @@ If you get a rejection letter, it will ask for more information, or tell you why
 
 After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision.[^28] If you don't get an answer, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). It does not always help.
 
+**[Ausländerbehörde wait times ➞](/tools/auslanderbehorde-wait-times)**
+
 If the *Ausländerbehörde* can't reach you because you changed your address, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
 ## Contact the Ausländerbehörde
@@ -195,7 +201,7 @@ To contact the *Ausländerbehörde*...
 1. **Use the contact form**  
     Use the [contact form](/out/auslanderbehorde-departments) to contact your department. Do not email or fax the *Ausländerbehörde*.
 3. **Wait a few weeks**  
-    The *Ausländerbehörde* answers in a few weeks to a few months. You might never get an answer.
+    The *Ausländerbehörde* [takes weeks or months](/tools/auslanderbehorde-wait-times) to answer.
 
 ### Fax the Ausländerbehörde
 

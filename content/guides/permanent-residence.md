@@ -236,7 +236,7 @@ The requirements and the application process are the same. If you qualify for th
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
-In Berlin, **it takes 4 to 10 months** to get permanent residence.[^5] It took me 10 months in total. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
+In Berlin, **it takes [4 to 10 months](/tools/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-01-15') }} It took me 10 months in total. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
 
 ### 1. Prepare your application
 
@@ -254,7 +254,7 @@ When you use the contact form, choose the correct department. It could be a diff
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. It takes a few months to get a response. When I applied, it took 3 months.
+The *Ausländerbehörde* will process your application. It takes [a few months](/tools/auslanderbehorde-wait-times) to get a response. When I applied, it took 3 months.
 
 When they reply, they might ask for more documents.[^2] If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send more documents.[^53]
 
@@ -264,11 +264,11 @@ Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid 
 
 **[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 ### 4. Go to your appointment
 
-After you send your application, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. The appointment could be a in few months. My appointment was 8 months after I sent my documents.
+After you send your application, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. The appointment could be [in a few months](/tools/auslanderbehorde-wait-times). My appointment was 8 months after I sent my documents.
 
 When you go to your appointment, bring...
 
@@ -294,13 +294,13 @@ The appointment takes around 15 minutes.[^4] They call your number on the screen
 
 If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine in the building, and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can go home.
 
-They must print your permanent residence card. This takes {{ RESIDENCE_PERMIT_WAIT_TIME }} weeks.[^34] You will get a second appointment to pick up the card. They do not mail the card to you.[^67]
+They must print your permanent residence card. This takes [around 8 weeks](/tools/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }}[^34] You will get a second appointment to pick up the card. They do not mail the card to you.[^67]
 
 You will get a document. It confirms that your permanent residence application was approved, that your card must be printed, and that your previous residence permit is still valid.[^31] This is not a valid travel document. It does not allow you to leave and re-enter Germany. If your current residence permit has expired, you might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 ### 5. Get your permanent residence card
 
@@ -310,7 +310,7 @@ Check if the information on your card is correct. The *Ausländerbehörde* somet
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
 ## Required documents
 
@@ -415,9 +415,11 @@ If you depend on your spouse's income, bring...[^50]
 
 ### Give feedback
 
-Your feedback helps me improve the information on this website. It will help thousands of people plan their permanent residence application.
+Your feedback helps thousands of people plan their permanent residence application.
 
-{% include "_blocks/feedbackPermanentResidence.html" %}
+{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
+
+**[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 
 ### Activate your [[eID]]
 

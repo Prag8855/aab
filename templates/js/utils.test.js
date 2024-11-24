@@ -1,5 +1,3 @@
-import { hasFlags } from './test-utils.js';
-
 describe('formatCurrency', () => {
 	const testCases = [
 		{

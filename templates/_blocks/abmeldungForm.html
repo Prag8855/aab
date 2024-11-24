@@ -1,4 +1,4 @@
-<collapsible class="abmeldung-form" {% if static|default %}static{% endif %} v-cloak>
+<collapsible class="abmeldung-form" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>
 		<small>Fill the form online</small>
@@ -93,7 +93,7 @@
 		<template v-for="(person, index) in people">
 			<hr>
 			<h3 v-if="people.length > 1">
-				<i class="icon person"></i> {{ person.firstName ? `${person.title} ${person.firstName} ${person.lastName}` : `Person #${ index + 1 }` }}
+				<i class="icon person" aria-hidden="true"></i> {{ person.firstName ? `${person.title} ${person.firstName} ${person.lastName}` : `Person #${ index + 1 }` }}
 			</h3>
 			<div class="form-group" v-if="person.showExtraFields">
 				<label :for="uid('title') + person.id">Title</label>
@@ -274,12 +274,12 @@
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
-{% include '_js/vue/multiStageMixin.js' %}
+{% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/postalcode-input.js' %}
-{% include '_js/vue/preloadPDFMixin.js' %}
-{% include '_js/vue/trackedStagesMixin.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/preloadPDFMixin.js' %}
+{% include '_js/vue/mixins/trackedStagesMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('.abmeldung-form').forEach(
 		el => new Vue({

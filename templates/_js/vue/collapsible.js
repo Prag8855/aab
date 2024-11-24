@@ -5,7 +5,7 @@ Vue.component('collapsible', {
 		static: Boolean,
 	},
 	template: `
-		<details class="collapsible" v-cloak :open="static">
+		<details class="collapsible" :open="static">
 			<summary :hidden="static">
 				<slot name="header"></slot>
 			</summary>

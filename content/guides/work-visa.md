@@ -95,7 +95,7 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work while you wait for your work visa.[^35] You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you are allowed to work.
+Usually, you can't work while you wait for your work visa.[^35] You might wait [a few months](/tools/auslanderbehorde-wait-times) with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^45] Your employer might pay for it, or hire someone to help you.
 
@@ -138,7 +138,7 @@ Before you apply for the work visa, you must...
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
 
 - [ ] **Get your education recognised**  
-    Your professional training must be equivalent to 2 years of professional training in Germany. It must be recognised by the *[[Agentur für Arbeit]]*. The recognition process depends on your profession.[^21] It takes weeks to a few months.[^8] If you studied in Germany, your education is already recognised. - [How to get your education recognised](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
+    Your professional training must be equivalent to 2 years of professional training in Germany. It must be recognised by the *[[Agentur für Arbeit]]*. The recognition process depends on your profession.[^21] It can take a few months.[^8] If you studied in Germany, your education is already recognised. - [How to get your education recognised](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
 
@@ -157,11 +157,11 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 [If your current residence permit expires soon](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit.
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes a few weeks to get a response. Then they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes [a few weeks](/tools/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
 
 In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
 
@@ -171,7 +171,7 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 6. Go to your work visa appointment
 
@@ -192,13 +192,13 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your work visa.
 
-If they approve your work visa, they must print the plastic card. You will get a second appointment to collect your work visa in {{ RESIDENCE_PERMIT_WAIT_TIME }}. You might get a temporary document that confirms that your work visa was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
+If they approve your work visa, they must print the plastic card. You will get a second appointment to collect your work visa in [in around 8 weeks](/tools/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }} You might get a temporary document that confirms that your work visa was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 7. Get your work visa
 
@@ -212,7 +212,7 @@ You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your work visa. This lets you use your work visa to log into online government services.
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 ### 8. Start working in Germany
 
@@ -302,9 +302,9 @@ To convert your National Visa into a work visa:
 1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
     Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment.
 2. **Go to your appointment**  
-    During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes.
-3. **Wait for your work visa**  
-    {{ RESIDENCE_PERMIT_WAIT_TIME }}, you get a letter. It's your work visa, or an invitation to collect your work visa at the *Ausländerbehörde*.
+    During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/tools/auslanderbehorde-wait-times) to pick up your work visa.{{ fail_on('2025-01-15') }}
+3. **Pick up your work visa**  
+    Go to your second *Ausländerbehörde* appointment to collect your work visa. Bring your passport and your old residence permit.
 4. **[Activate your eID ➞](#activate-your-eid)** (optional)
 
 Your work visa is a plastic card. It's valid for up to 3 years. You can [renew it](#renew-your-work-visa) before it expires.
@@ -358,9 +358,11 @@ If you apply in person, print everything. Use A4 paper. Do not staple the pages 
 
 ### Give feedback
 
-Your feedback helps me improve the information on this website. It will help thousands of people plan their work visa application.
+Your feedback helps thousands of people plan their work visa application.
 
-{% include "_blocks/feedbackWorkVisa.html" %}
+{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
+
+**[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
 
 ### Bring your family to Germany
 

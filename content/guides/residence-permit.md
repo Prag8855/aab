@@ -90,13 +90,13 @@ If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you can st
 You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.[^12]
 
 - **At the [[Ausländerbehörde]] in Germany**  
-    If you apply in Germany, you get a residence permit. Usually, it takes 2 to 3 months, but it can take longer.[^8] During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
+    If you apply in Germany, you get a residence permit. [It takes a few months](/tools/auslanderbehorde-wait-times). During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
     - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
     - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  
     If you apply in the country where you live, you get a [[National Visa]]. It's valid for up to 12 months. When you get the National Visa, you can move to Germany and start working or studying. When you arrive in Germany, you must convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You must do this before your visa expires.[^9] In some cases, you can [apply for a National Visa online](https://digital.diplo.de/visa).
 
-It's better if you apply in your home country. You can start working as soon as you arrive in Germany, instead of living in Germany without any income.
+It's better if you apply in your home country. You can start working as soon as you arrive in Germany. It's better than living in Germany for a few months without any income.
 
 **[How to apply for a work visa ➞](/guides/work-visa)**
 
@@ -110,9 +110,11 @@ It's better if you apply in your home country. You can start working as soon as 
 
 Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must go to the *[[Ausländerbehörde]]* to renew it.
 
-They will check if you still meet all the requirements. You might need to bring a lot of documents, so you should prepare in advance.
+They will check if you still meet all the requirements. You might need to bring a lot of documents, so you should prepare in advance. [It can take a few months](/tools/auslanderbehorde-wait-times) to get a new residence permit.{{ fail_on('2025-06-01') }}
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
+
+**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)
 
 After a few years, you might qualify for German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. These don't need to be renewed.
 
@@ -127,7 +129,6 @@ After a few years, you might qualify for German [permanent residence](/glossary/
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
-[^8]: [Quora](https://www.quora.com/How-much-time-would-it-take-to-get-a-German-national-visa-work-permit), [Quora](https://www.quora.com/How-long-does-it-take-to-get-a-German-working-visa), [Quora](https://www.quora.com/How-much-time-does-it-take-to-get-a-German-work-visa-after-an-interview)
 [^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)

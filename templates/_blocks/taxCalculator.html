@@ -8,10 +8,10 @@
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
-{% include '_js/vue/userDefaultsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% include '_js/vue/occupation-input.js' %}
 {% include '_js/vue/state-input.js' %}
-{% include '_js/vue/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.income-tax-calculator').forEach(
 		el => new Vue({
@@ -247,7 +247,7 @@
 	);
 {% endjs %}
 
-<collapsible class="income-tax-calculator" ref="collapsible" {% if static|default %}static{% endif %} v-cloak>
+<collapsible class="income-tax-calculator" ref="collapsible" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>German tax calculator</template>
 

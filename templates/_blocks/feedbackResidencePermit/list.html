@@ -1,0 +1,87 @@
+{% raw %}
+<div class="feedback-table">
+	<div class="loading" v-if="isLoading">Loading results&hellip;</div>
+	<div v-cloak class="feedback-item" v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
+		<button class="button" v-if="result.modification_key" @click="deleteResult(result.modification_key)">Delete</button>
+		<h3>
+			{{ residencePermitTypes[result.residence_permit_type].capitalized }}
+			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
+			&mdash; {{ (departments[result.department] || '').split(' — ')[0] }}
+		</h3>
+
+		<div class="step completed">
+			<input type="checkbox" checked disabled>
+			<span class="description">Applied on {{ formatLongDate(result.application_date) }}</span>
+			<span class="duration">
+				<template v-if="result.first_response_date">
+					{{ waitTime(result.application_date, result.first_response_date) }}
+				</template>
+				<template v-else>
+					{{ waitTime(result.application_date, result.modification_date, true) }}
+				</template>
+			</span>
+		</div>
+
+		<div class="step" :class="{completed: !!result.first_response_date}">
+			<input type="checkbox" :checked="result.first_response_date" disabled>
+			<span class="description">
+				<template v-if="result.first_response_date">
+					Got a response on {{ formatLongDate(result.first_response_date) }}
+				</template>
+				<template v-else>
+					No response as of {{ formatLongDate(result.modification_date) }}
+				</template>
+			</span>
+			<span class="duration" v-if="result.first_response_date || result.appointment_date">
+				<template v-if="result.appointment_date">
+					{{ waitTime(result.first_response_date, result.appointment_date) }}
+				</template>
+				<template v-if="result.first_response_date && !result.appointment_date">
+					{{ waitTime(result.first_response_date, result.modification_date, true) }}
+				</template>
+			</span>
+		</div>
+
+		<div class="step" :class="{completed: !!result.appointment_date}">
+			<input type="checkbox" :checked="result.appointment_date" disabled>
+			<span class="description">
+				<template v-if="result.appointment_date">
+					Appointment on {{ formatLongDate(result.appointment_date) }}
+				</template>
+				<template v-else>
+					No appointment <template v-if="result.first_response_date">as of {{ formatLongDate(result.modification_date) }}</template>
+				</template>
+			</span>
+			<span class="duration" v-if="result.appointment_date && result.pick_up_date">
+				{{ waitTime(result.appointment_date, result.pick_up_date) }}
+			</span>
+			<span class="duration" v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
+				{{ waitTime(result.appointment_date, result.modification_date, true) }}
+			</span>
+		</div>
+
+		<div class="step" :class="{completed: !!result.pick_up_date}">
+			<input type="checkbox" :checked="result.pick_up_date" disabled>
+			<span class="description">
+				<template v-if="result.pick_up_date">
+					Picked up residence permit on {{ formatLongDate(result.pick_up_date) }}
+				</template>
+				<template v-else>
+					No pick-up date <template v-if="result.appointment_date">as of {{ formatLongDate(result.modification_date) }}</template>
+				</template>
+			</span>
+		</div>
+
+		<div v-if="result.notes.length" class="notes">{{ result.notes.trim() }}</div>
+	</div>
+	<nav v-cloak class="pagination" aria-label="Pagination">
+		<button v-if="page > 1" @click.prevent="loadPage(page - 1)"><i class="icon left"></i></button>
+		<button :class="{current: pageNumber === page}"
+			v-for="pageNumber in pageNumbers" :key="pageNumber"
+			@click.prevent="loadPage(pageNumber)"
+			:title="'Go to page ' + pageNumber"
+			:disabled="page === pageNumber">{{ pageNumber }}</button>
+		<button v-if="page < pageCount" @click.prevent="loadPage(page + 1)"><i class="icon right"></i></button>
+	</nav>
+</div>
+{% endraw %}

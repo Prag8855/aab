@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Ü can be represented in two ways: Ü, or U + umlaut character. This website
-# uses the first representation. # File operations (such as rsync) might convert
+# uses the first representation. # File operations (such as syncthing) might convert
 # file names to the second representation. This script reverts file names to the
 # first representation.
 

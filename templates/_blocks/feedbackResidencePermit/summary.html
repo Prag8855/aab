@@ -1,0 +1,27 @@
+{% raw %}
+<p>It takes <strong v-text="stats.total.waitTime">a few months</strong> to get your <span v-text="residencePermitName.normal">residence permit</span> at the <em>Ausländerbehörde</em> in Berlin. Wait times vary between departments<span v-if="!residencePermitType">&nbsp;and residence permit types</span>.</p>
+<div class="residence-permit-feedback-summary feedback-summary">
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Send your documents</span>
+		<div class="duration" v-text="stats.response.waitTime">Loading…</div>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Get a response</span>
+		<div class="duration" v-text="stats.appointment.waitTime">Loading…</div>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Go to your Ausländerbehörde appointment</span>
+		<div class="duration" v-text="stats.pickup.waitTime">Loading…</div>
+	</div>
+	<div class="step completed">
+		<input type="checkbox" disabled>
+		<span class="description">Pick up your residence card</span>
+	</div>
+</div>
+<p v-if="supportLink" v-cloak>
+	<strong><a :href="supportLink" class="internal-link">Learn how to apply for the {{ residencePermitTypes[residencePermitType].normal }}</a></strong>
+</p>
+{% endraw %}

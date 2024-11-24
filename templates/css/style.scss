@@ -621,6 +621,8 @@ body > header {
 
     .search-form{
         order: 999;
+        box-shadow: none!important;
+        border: none!important;
 
         &:not(:focus-within){
             background-color: transparent;
@@ -1096,7 +1098,7 @@ sup:target a{
         @include text-hint;
         position: relative;
     }
-    .currency[data-currencies]:hover::after{
+    .currency[data-currencies]:hover:after{
         @include box-s;
         z-index: 1000;
         position: absolute;
@@ -1121,7 +1123,7 @@ sup:target a{
     }
 
     .internal-link, .external-link, .section-link{
-        &::after{
+        &:after{
             content: '';
             width: 1em;
             height: calc(1em * var(--line-height-text));
@@ -1140,16 +1142,16 @@ sup:target a{
         }
     }
 
-    .internal-link:hover::after{
+    .internal-link:hover:after{
         transform: translateX(var(--xs));
     }
 
-    .external-link::after{
+    .external-link:after{
         mask-image: var(--i-external);
     }
 
     .section-link.before{
-        &::after{
+        &:after{
             transform: rotate(-90deg);
         }
         &:hover:after{
@@ -1157,7 +1159,7 @@ sup:target a{
         }
     }
     .section-link.after{
-        &::after{
+        &:after{
             transform: rotate(90deg);
         }
         &:hover:after{
@@ -1232,7 +1234,7 @@ sup:target a{
         }
 
         :is(td, th){
-            &:last-child .currency[data-currencies]:hover::after{
+            &:last-child .currency[data-currencies]:hover:after{
                 left: auto!important;
                 right: 0!important;
             }
@@ -1346,12 +1348,14 @@ sup:target a{
     outline: none;
     box-shadow: 0 0 0 1px transparent;
 
-    &:focus, &:focus-within, &:active{
-        @include form-input-hover;
+    &:not([disabled]){
+        &:focus, &:focus-within, &:active{
+            @include form-input-hover;
+        }
     }
 
     @media (hover: hover) {
-        &:hover{
+        &:not([disabled]):hover{
             @include form-input-hover;
         }
     }
@@ -1369,53 +1373,10 @@ input:not([type=range],[type=file]), textarea, select, .toggle{
     max-width: 400px;
     box-sizing: border-box;
 
-    &[type=checkbox], &[type=radio]{
-        flex-shrink: 0;
-        flex:0 0 auto!important;
-        
-        width: var(--w-checkbox);
-        height: var(--w-checkbox);
-        padding: 0;
+}
 
-        position: relative;
-        overflow: hidden; // The radio tick might be too high by a fraction of a pixel
-        display: inline-grid;
-        place-items: center;
-
-        cursor: pointer;
-
-        &:after{
-            font-family: 'Tahoma';
-            content: '✓';
-            color: transparent;
-            line-height: calc(var(--w-checkbox) - 2px); // Minus border height
-            aspect-ratio: 1 / 1;
-            transform: scale(1.3);
-        }
-
-        &:checked:after{
-            color:var(--c-text-heading);
-            transform: scale(1);
-            transition: color 0.15s, transform 0.15s;
-        }
-    }
-
-    &[type=radio]:after{
-        font-family: 'Courier New'; // This font has a centred dot
-    }
-
-    &[type=radio]{
-        border-radius:50%;
-
-        &:checked:after{
-            content: '●';
-        }
-    }
-
-    &[type=number] {
-        -moz-appearance: textfield;
-    }
-
+input[type=number] {
+    -moz-appearance: textfield;
     &::-webkit-outer-spin-button, &::-webkit-inner-spin-button {
         -webkit-appearance:none;margin:0;
     }
@@ -1442,6 +1403,51 @@ select{
     text-overflow:ellipsis;
     &.placeholder{
         color: var(--c-text-placeholder);
+    }
+}
+
+input[type=checkbox], input[type=radio]{
+    flex-shrink: 0;
+    flex:0 0 auto!important;
+    
+    width: var(--w-checkbox);
+    height: var(--w-checkbox);
+    padding: 0;
+
+    position: relative;
+    overflow: hidden; // The radio tick might be too high by a fraction of a pixel
+    display: inline-grid;
+    place-items: center;
+
+    &:not([disabled]){
+        cursor: pointer;
+    }
+
+    &:after{
+        font-family: 'Tahoma';
+        content: '✓';
+        color: transparent;
+        line-height: calc(var(--w-checkbox) - 2px); // Minus border height
+        aspect-ratio: 1 / 1;
+        transform: scale(1.3);
+    }
+
+    &:checked:after{
+        color:var(--c-text-heading);
+        transform: scale(1);
+        transition: color 0.15s, transform 0.15s;
+    }
+}
+
+input[type=radio]{
+    border-radius:50%;
+
+    &:after{
+        font-family: 'Courier New'; // This font has a centred dot
+    }
+
+    &:checked:after{
+        content: '●';
     }
 }
 
@@ -1597,6 +1603,38 @@ input[type=range] {
         @include collapsible;
     }
 
+.loading, collapsible, letter-generator, feedback-residence-permit{
+    min-height: var(--w-icon-s);
+    color: var(--c-text-light);
+    position: relative;
+
+    // Standalone: fill entire parent with spinner
+    &:before{
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: var(--c-text);
+        content: '';
+        width: 100%;
+        display: inline-block;
+        vertical-align: middle;
+        mask-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='M10.14,1.16a11,11,0,0,0-9,8.92A1.59,1.59,0,0,0,2.46,12,1.52,1.52,0,0,0,4.11,10.7a8,8,0,0,1,6.66-6.61A1.42,1.42,0,0,0,12,2.69h0A1.57,1.57,0,0,0,10.14,1.16Z' class='spinner'/>%3Cstyle%3E.spinner%7Btransform-origin%3Acenter%3Banimation%3Aspinner_svv2%20.75s%20infinite%20linear%7D%40keyframes%20spinner_svv2%7B100%25%7Btransform%3Arotate%28360deg%29%7D%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22M10.14%2C1.16a11%2C11%2C0%2C0%2C0-9%2C8.92A1.59%2C1.59%2C0%2C0%2C0%2C2.46%2C12%2C1.52%2C1.52%2C0%2C0%2C0%2C4.11%2C10.7a8%2C8%2C0%2C0%2C1%2C6.66-6.61A1.42%2C1.42%2C0%2C0%2C0%2C12%2C2.69h0A1.57%2C1.57%2C0%2C0%2C0%2C10.14%2C1.16Z%22%20class%3D%22spinner%22%2F%3E</svg>");
+        mask-position: center;
+        mask-repeat: no-repeat;
+        mask-size: var(--w-icon-s);
+        background-color:currentColor;
+    }
+
+    // With content: add spinner as an icon
+    &:not(:empty):before{
+        position: relative;
+        width: 1em;
+        height: 1em;
+        mask-size: 1em;
+        margin-right: var(--s);
+    }
+}
+
 :is(.button, .tags > *){
     @include text;
     @include box-s;
@@ -1632,10 +1670,6 @@ input[type=range] {
 
     &.loading{
         color: transparent!important;
-        background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='M10.14,1.16a11,11,0,0,0-9,8.92A1.59,1.59,0,0,0,2.46,12,1.52,1.52,0,0,0,4.11,10.7a8,8,0,0,1,6.66-6.61A1.42,1.42,0,0,0,12,2.69h0A1.57,1.57,0,0,0,10.14,1.16Z' class='spinner'/>%3Cstyle%3E.spinner%7Btransform-origin%3Acenter%3Banimation%3Aspinner_svv2%20.75s%20infinite%20linear%7D%40keyframes%20spinner_svv2%7B100%25%7Btransform%3Arotate%28360deg%29%7D%7D%3C%2Fstyle%3E%3Cpath%20d%3D%22M10.14%2C1.16a11%2C11%2C0%2C0%2C0-9%2C8.92A1.59%2C1.59%2C0%2C0%2C0%2C2.46%2C12%2C1.52%2C1.52%2C0%2C0%2C0%2C4.11%2C10.7a8%2C8%2C0%2C0%2C1%2C6.66-6.61A1.42%2C1.42%2C0%2C0%2C0%2C12%2C2.69h0A1.57%2C1.57%2C0%2C0%2C0%2C10.14%2C1.16Z%22%20class%3D%22spinner%22%2F%3E</svg>");
-        background-size: var(--w-icon-s);
-        background-repeat: no-repeat;
-        background-position: center;
     }
 
     @include only-print{
@@ -1646,9 +1680,9 @@ input[type=range] {
 }
 
 .buttons{
+    @include text-block;
     display: flex;
     gap: var(--m);
-    margin: var(--l-relative) 0;
     justify-content: center;
     &.left{
         justify-content: flex-start;
@@ -1669,11 +1703,11 @@ input[type=range] {
 }
 
 .form-group{
+    @include text-block;
     align-items: flex-start; // Can't use baseline because of safari bug
     display: grid;
     grid-template-columns: var(--w-label-column) minmax(0, 1fr); // Prevents grid blowout with super long select elements
     gap: var(--s) var(--m);
-    margin: var(--l-relative) 0;
 
     &.no-label{
         grid-template-columns: minmax(0, 1fr);
@@ -1756,13 +1790,25 @@ input[type=range] {
         }
     }
 }
-.inter-step{
-    border-left: var(--b-box);
-    margin: calc(var(--l-relative) * -1) 0 calc(var(--l-relative) * -1) calc(var(--w-checkbox) / 2);
-    padding: var(--s-relative) 0 var(--s-relative) calc(var(--w-checkbox) / 2 + var(--s));
-    font-size: var(--f-s);
-}
 
+.filter-group{
+    display: flex;
+    justify-content: flex-start;
+    gap: var(--m);
+    flex-wrap: wrap;
+    align-items: center;
+    margin: var(--xl) 0; // Should be --s-text-block, but .post-meta has --xl
+
+    @include only-phone{
+        > * {
+            flex:1 0 100%;
+            width: 100%;
+        }
+    }
+    + h2{
+        margin-top: 0;
+    }
+}
 
 .input-instructions{
     font-size: var(--f-s);
@@ -1809,18 +1855,6 @@ input[type=range] {
     }
 }
 
-.input-symbols{
-    align-self: center;
-    display: flex;
-
-    &:after{
-        border-radius: 50%;
-        line-height: 1;
-        width: 1em;
-        height: 1em;
-            text-align: center;
-    }
-}
 .show-errors :invalid, .show-errors:invalid, .pension-refund-calculator .error{
     border-color: var(--c-highlight)!important;
     background-color: var(--c-bg-input-error);
@@ -1848,8 +1882,8 @@ input[type=range] {
         width: 100%;
         flex: 1 1 auto;
         padding: 0;
-        border: none;
-        box-shadow: none;
+        border: none!important;
+        box-shadow: none!important;
 
         &::-webkit-search-decoration,
         &::-webkit-search-cancel-button,
@@ -1858,8 +1892,6 @@ input[type=range] {
             -webkit-appearance:none;
         }
     }
-
-
 
     svg{
         width: 1rem;
@@ -1914,7 +1946,6 @@ input[type=range] {
     }
 
 }
-
 
 output.placeholder, .recommended{
     background: var(--c-bg-widget);
@@ -2065,9 +2096,23 @@ details{
     }
 }
 
+collapsible, letter-generator, feedback-residence-permit{  // Vue element before it loads
+    @include widget;
+    background: transparent!important;
+    box-shadow: none;
+    display: block;
+    padding: var(--m) var(--w-page-border);
+    color: var(--c-text-light);
+    &:after{
+        content: 'Loading…';
+    }
+    > *{
+        display: none!important;
+    }
+}
+
 .collapsible{
     @include widget;
-
     > summary {
         padding: var(--m) var(--w-page-border);
 
@@ -2255,7 +2300,7 @@ details{
     vertical-align:middle;
     display:inline-block;
 
-    &::after{
+    &:after{
         content: '';
         width: 100%;
         height: 100%;
@@ -2266,32 +2311,32 @@ details{
         background-color:currentColor;
     }
 
-    &.calendar::after{
+    &.calendar:after{
         mask-image: var(--i-calendar)
     }
-    &.person::after{
+    &.person:after{
         mask-image: var(--i-person)
     }
-    &.verified::after{
+    &.verified:after{
         mask-image: var(--i-verified)
     }
-    &.close::after{
+    &.close:after{
         mask-image: var(--i-close)
     }
-    &.right::after{
+    &.right:after{
         mask-image: var(--i-right);
     }
-    &.add::after{
+    &.add:after{
         mask-image: var(--i-add)
     }
-    &.left::after{
+    &.left:after{
         mask-image: var(--i-right);
         transform: scaleX(-1);
     }
-    &.filter::after{
+    &.filter:after{
         mask-image: var(--i-filter);
     }
-    &.sound::after{
+    &.sound:after{
         mask-image: var(--i-sound)
     }
 }
@@ -2322,7 +2367,7 @@ details{
         text-decoration:none!important;
         right: 0;
 
-        &:hover::after{
+        &:hover:after{
             left: auto!important;
             right: 0!important;
         }
@@ -2550,7 +2595,7 @@ details{
             position: relative;
             overflow: hidden;
 
-            &::before{
+            &:before{
                 content: '';
                 position: absolute;
                 width: calc(100% + 10px);
@@ -2881,6 +2926,93 @@ details{
 
     @include only-phone{
         grid-template-columns: 1fr;
+    }
+}
+
+.feedback-table, .feedback-summary {
+    .loading{
+        @include text-block;
+    }
+    .vote-count{
+        float: right;
+    }
+}
+.feedback-summary .description{
+    @include text-bold;
+}
+.feedback-form, .feedback-item, .feedback-summary{
+    @include text-block;
+    h3{
+        margin-bottom: var(--l);
+    }
+    .step{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        position: relative;
+        margin-left: calc(var(--w-checkbox) / 2);
+        border-left: var(--b-box);
+        align-items: flex-start;
+        line-height: var(--line-height-label);
+        
+        [type=checkbox]{
+            position: relative;
+            left: calc(var(--w-checkbox) / -2);
+        }
+
+        .description{
+            flex:1 1;
+        }
+
+        .duration{
+            flex: 1 1 100%;
+            font-size: var(--f-s);
+            color: var(--c-text-light);
+            margin: var(--m) 0 0 var(--w-checkbox);
+            @include only-phone{
+                &.form-group label{
+                    padding-top: 0;
+                    font-weight: normal;
+                    color: var(--c-text-light);
+                }
+            }
+        }
+        + .step{
+            padding-top: var(--m);
+        }
+    }
+    .notes{
+        border-top: var(--b-box);
+        margin-top: var(--l);
+        padding-top: var(--l);
+        white-space: pre-wrap;
+    }
+}
+.feedback-item{
+    @include box-l;
+    .button{
+        float:right;
+    }
+}
+
+.pagination{
+    @include text-block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:var(--s);
+    text-align: center;
+
+    > *{
+        padding: var(--s) var(--l);
+        border-radius: var(--b-radius);
+        @include box-s;
+        &:not(.current){
+            @include box-clickable;
+        }
+        &.current{
+            @include text-bold;
+        }
     }
 }
 

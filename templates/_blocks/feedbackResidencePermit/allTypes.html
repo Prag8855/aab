@@ -1,0 +1,7 @@
+{% include '_js/vue.js' %}
+{% include '_js/vue/feedback-residence-permit.js' %}
+{% js %}
+	document.querySelectorAll('feedback-residence-permit').forEach(el => new Vue({ el }));
+{% endjs %}
+
+<feedback-residence-permit data-type="{{ residencePermitType|default }}" {% if open|default %}open{% endif %}></feedback-residence-permit>

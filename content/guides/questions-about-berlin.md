@@ -110,6 +110,8 @@ Use my lists of English-speaking professionals:
 
 ## Work questions
 
+- **[Working and living in Germany](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
+    Free hotline from the Office for Migration and Refugees.
 - **[BEMA](https://bema.berlin/en/)**  
     Free help for immigrants and asylum seekers. They speak English and many other languages.
 - **[BMAS Bürgertelefon](https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html)**  
