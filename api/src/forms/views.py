@@ -85,8 +85,6 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
         }
         return self.queryset.filter(**filters)
 
-    @method_decorator(cache_page(60 * 60 * 2))
-    @method_decorator(vary_on_headers("Authorization"))
     def list(self, request, *args, **kwargs):
         response = super().list(request, *args, **kwargs)
         rpt = request.query_params.get('residence_permit_type')
