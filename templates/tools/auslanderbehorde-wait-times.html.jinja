@@ -99,10 +99,10 @@
 
 						const unknown = 'for an unknown duration';
 
-						this.stats.response.waitTime = `Wait ${response.stats.first_response_date.readable_range || unknown}`;
-						this.stats.appointment.waitTime = `Wait ${response.stats.appointment_date.readable_range || unknown}`;
-						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range || unknown}`;
-						this.stats.total.waitTime = response.stats.total.readable_range || 'an unknown time';
+						this.stats.response.waitTime = `Wait ${response.stats.first_response_date.readable_range ?? unknown}`;
+						this.stats.appointment.waitTime = `Wait ${response.stats.appointment_date.readable_range ?? unknown}`;
+						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range ?? unknown}`;
+						this.stats.total.waitTime = response.stats.total.readable_range ?? 'an unknown time';
 
 						this.isLoading = false;
 					}
