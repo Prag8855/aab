@@ -92,7 +92,7 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
 
         # Add human-readable range string like "1 week to 6 months"
         for stats_dict in response.data['stats'].values():
-            if stats_dict['percentile_20'] and stats_dict['percentile_80']:
+            if stats_dict['percentile_20'] is not None and stats_dict['percentile_80'] is not None:
                 stats_dict['readable_range'] = readable_date_range(days_1=stats_dict['percentile_20'], days_2=stats_dict['percentile_80'])
             else:
                 stats_dict['readable_range'] = None
