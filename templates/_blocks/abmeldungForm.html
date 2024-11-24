@@ -93,7 +93,7 @@
 		<template v-for="(person, index) in people">
 			<hr>
 			<h3 v-if="people.length > 1">
-				<i class="icon person"></i> {{ person.firstName ? `${person.title} ${person.firstName} ${person.lastName}` : `Person #${ index + 1 }` }}
+				<i class="icon person" aria-hidden="true"></i> {{ person.firstName ? `${person.title} ${person.firstName} ${person.lastName}` : `Person #${ index + 1 }` }}
 			</h3>
 			<div class="form-group" v-if="person.showExtraFields">
 				<label :for="uid('title') + person.id">Title</label>
