@@ -3,13 +3,13 @@ from copy import copy
 from datetime import date, timedelta
 from dateutil.relativedelta import relativedelta
 from django.contrib.auth.models import User
+from django.core.cache import cache
 from django.utils import timezone
 from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
     PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.utils import readable_date_range
 from rest_framework.test import APITestCase
 import unittest
-import math
 
 
 def basic_auth_headers(username: str, password: str) -> dict:
@@ -57,6 +57,10 @@ class ScheduledMessageEndpointMixin:
 
 
 class FeedbackEndpointMixin:
+    def tearDown(self):
+        super().tearDown()
+        cache.clear()
+
     def test_create(self):
         response = self.client.post(self.endpoint, self.example_request, format='json')
         self.assertEqual(response.status_code, 201, response.json())
@@ -108,22 +112,39 @@ class FeedbackEndpointMixin:
         response = self.client.get(f'{self.endpoint}/invalidmodificationkey')
         self.assertEqual(response.status_code, 404)
 
-    def test_delete_all_405(self):
+    def test_delete_all_unauthenticated_401(self):
         response = self.client.delete(self.endpoint)
-        self.assertEqual(response.status_code, 405, response.json())
+        self.assertEqual(response.status_code, 401, response.json())
 
-    def test_delete_one_405(self):
+    def test_delete_one_unauthenticated_401(self):
         new_object = self.model.objects.create(**self.example_request)
         response = self.client.delete(f'{self.endpoint}/{new_object.pk}')
-        self.assertEqual(response.status_code, 405, response.json())
+        self.assertEqual(response.status_code, 401, response.json())
 
-    def test_delete_one_authenticated_405(self):
+    def test_delete_all_authenticated_405(self):
+        User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
+        self.model.objects.create(**self.example_request)
+        response = self.client.delete(self.endpoint, headers=basic_auth_headers('myuser', 'testpassword'))
+        self.assertEqual(response.status_code, 405, response.json())
+        self.assertEqual(self.model.objects.count(), 1)
+
+    def test_delete_one_authenticated_204(self):
         User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
         new_object = self.model.objects.create(**self.example_request)
         response = self.client.delete(
             f'{self.endpoint}/{new_object.pk}', headers=basic_auth_headers('myuser', 'testpassword')
         )
-        self.assertEqual(response.status_code, 405, response.json())
+        self.assertEqual(response.status_code, 204)
+        self.assertEqual(self.model.objects.count(), 0)
+
+    def test_delete_one_invalidcredentials_401(self):
+        User.objects.create_superuser('myuser', 'myemail@test.com', 'testpassword')
+        new_object = self.model.objects.create(**self.example_request)
+        response = self.client.delete(
+            f'{self.endpoint}/{new_object.pk}', headers=basic_auth_headers('myuser', 'WRONGpassword')
+        )
+        self.assertEqual(response.status_code, 401)
+        self.assertEqual(self.model.objects.count(), 1)
 
 
 class HealthInsuranceQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):

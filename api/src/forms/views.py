@@ -32,8 +32,16 @@ class MessageViewSet(mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.Ge
     permission_classes = [MessagePermission]
 
 
-class FeedbackViewSet(mixins.UpdateModelMixin, mixins.RetrieveModelMixin, mixins.CreateModelMixin, mixins.ListModelMixin, viewsets.GenericViewSet):
-    http_method_names = ['get', 'post', 'put']
+class FeedbackPermission(permissions.BasePermission):
+    def has_permission(self, request, view):
+        if request.method == 'DELETE':
+            return request.user and request.user.is_superuser
+        return True
+
+
+class FeedbackViewSet(viewsets.ModelViewSet):
+    http_method_names = ['get', 'post', 'put', 'delete']
+    permission_classes = [FeedbackPermission]
 
 
 class HealthInsuranceQuestionViewSet(MessageViewSet):
