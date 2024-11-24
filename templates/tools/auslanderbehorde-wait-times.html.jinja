@@ -80,7 +80,7 @@
 					this.page = page;
 					if(scrollToTop){
 						Vue.nextTick(() => {
-							this.$el.querySelector('#feedback-from-readers').scrollIntoView();
+							this.$el.querySelector('#feedback-from-readers').scrollIntoView(true);
 						});
 					}
 
