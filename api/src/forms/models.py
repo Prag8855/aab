@@ -235,8 +235,8 @@ class ResidencePermitFeedbackManager(models.Manager):
             ),
             percentile_rows AS(
                 SELECT
-                    CAST((row_count * 0.2) AS INT) AS row_20,
-                    CAST((row_count * 0.8) AS INT) AS row_80
+                    CAST(CEIL(row_count * 0.2) AS INT) AS row_20,
+                    CAST(FLOOR(row_count * 0.8) AS INT) + 1 AS row_80
                 FROM row_count
             ),
             numbered_rows AS (
@@ -247,7 +247,7 @@ class ResidencePermitFeedbackManager(models.Manager):
                     ROW_NUMBER() over (order by time_diff) as rownum
                 FROM time_diffs, percentile_rows
             )
-            SELECT time_diff, row_count
+            SELECT time_diff, row_count, rownum, row_20, row_80
             FROM numbered_rows, row_count
             WHERE rownum IN (row_20, row_80)
         """

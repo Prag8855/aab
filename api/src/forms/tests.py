@@ -1,6 +1,6 @@
 from base64 import b64encode
 from copy import copy
-from datetime import timedelta
+from datetime import date, timedelta
 from dateutil.relativedelta import relativedelta
 from django.contrib.auth.models import User
 from django.utils import timezone
@@ -9,6 +9,7 @@ from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirm
 from forms.utils import readable_date_range
 from rest_framework.test import APITestCase
 import unittest
+import math
 
 
 def basic_auth_headers(username: str, password: str) -> dict:
@@ -357,6 +358,118 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         response = self.client.post(self.endpoint, request, format='json')
         new_object = self.model.objects.get(modification_key=response.json()['modification_key'])
         self.assertEqual(new_object.feedback_reminders.count(), 0)
+
+    def test_stats_fewer_rows(self):
+        date_start = date.today()
+
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=3),
+            appointment_date=date_start + timedelta(days=6),
+            pick_up_date=date_start + timedelta(days=9),
+            department='E2', residence_permit_type='BLUE_CARD',
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=4),
+            appointment_date=date_start + timedelta(days=8),
+            pick_up_date=date_start + timedelta(days=12),
+            department='E2', residence_permit_type='BLUE_CARD',
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=5),
+            appointment_date=date_start + timedelta(days=10),
+            pick_up_date=date_start + timedelta(days=15),
+            department='E2', residence_permit_type='BLUE_CARD',
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=6),
+            appointment_date=date_start + timedelta(days=12),
+            pick_up_date=None,
+            department='E2', residence_permit_type='BLUE_CARD',
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=7),
+            appointment_date=None,
+            pick_up_date=None,
+            department='E2', residence_permit_type='BLUE_CARD',
+        )
+        response = self.client.get(self.endpoint, format='json').json()
+
+        # 3 out of 5 objects. Percentiles are 1st and 3rd objects.
+        self.assertEqual(response['stats']['total']['count'], 3)
+        self.assertEqual(response['stats']['total']['percentile_20'], 9)
+        self.assertEqual(response['stats']['total']['percentile_80'], 15)
+
+        # 5 out of 5 objects. Percentiles are 1st and 5th objects.
+        self.assertEqual(response['stats']['first_response_date']['count'], 5)
+        self.assertEqual(response['stats']['first_response_date']['percentile_20'], 3)
+        self.assertEqual(response['stats']['first_response_date']['percentile_80'], 7)
+
+        # 4 out of 5 objects. Percentiles are 1st and 4rd objects.
+        self.assertEqual(response['stats']['appointment_date']['count'], 4)
+        self.assertEqual(response['stats']['appointment_date']['percentile_20'], 6 - 3)
+        self.assertEqual(response['stats']['appointment_date']['percentile_80'], 12 - 6)
+
+        # 3 out of 5 objects. Percentiles are 1st and 3rd objects.
+        self.assertEqual(response['stats']['pick_up_date']['count'], 3)
+        self.assertEqual(response['stats']['pick_up_date']['percentile_20'], 9 - 6)
+        self.assertEqual(response['stats']['pick_up_date']['percentile_80'], 15 - 10)
+
+    def test_stats_more_rows(self):
+        date_start = date.today()
+        for i in range(0, 50):
+            self.model.objects.create(
+                application_date=date_start,
+                first_response_date=date_start + timedelta(days=i),
+                appointment_date=date_start + timedelta(days=i * 2),
+                pick_up_date=date_start + timedelta(days=i * 3),
+                department='E2', residence_permit_type='BLUE_CARD',
+            )
+        response = self.client.get(self.endpoint, format='json').json()
+
+        # 5 objects. Percentiles are 10th and 40th objects.
+        self.assertEqual(response['stats']['total']['count'], 50)
+        self.assertEqual(response['stats']['total']['percentile_20'], (10 - 1) * 3)
+        self.assertEqual(response['stats']['total']['percentile_80'], 40 * 3)
+
+    def test_stats_filtered_rows(self):
+        date_start = date.today()
+        for i in range(0, 50):
+            self.model.objects.create(
+                application_date=date_start,
+                first_response_date=date_start + timedelta(days=i),
+                appointment_date=date_start + timedelta(days=i * 2),
+                pick_up_date=date_start + timedelta(days=i * 3),
+                department='B1_B2_B3_B4', residence_permit_type='BLUE_CARD',
+            )
+
+        # Ignored by residence_permit_type
+        for i in range(0, 20):
+            self.model.objects.create(
+                application_date=date_start,
+                first_response_date=date_start + timedelta(days=i * 1000),
+                appointment_date=date_start + timedelta(days=i * 2000),
+                pick_up_date=date_start + timedelta(days=i * 3000),
+                department='E2', residence_permit_type='PERMANENT_RESIDENCE',
+            )
+
+        # Ignored by department
+        for i in range(0, 20):
+            self.model.objects.create(
+                application_date=date_start,
+                first_response_date=date_start + timedelta(days=i * 111),
+                appointment_date=date_start + timedelta(days=i * 222),
+                pick_up_date=date_start + timedelta(days=i * 333),
+                department='B6', residence_permit_type='BLUE_CARD',
+            )
+        response = self.client.get(self.endpoint + '?residence_permit_type=BLUE_CARD&department=B1_B2_B3_B4', format='json').json()
+        self.assertEqual(response['stats']['total']['count'], 50)
+        self.assertEqual(response['stats']['total']['percentile_20'], (10 - 1) * 3)
+        self.assertEqual(response['stats']['total']['percentile_80'], 40 * 3)
 
 
 class ReadableDateRangeTestCase(unittest.TestCase):
