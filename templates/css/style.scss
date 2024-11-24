@@ -2990,6 +2990,9 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 }
 .feedback-item{
     @include box-l;
+    .button{
+        float:right;
+    }
 }
 
 .pagination{

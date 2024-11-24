@@ -2,6 +2,7 @@
 <div class="feedback-table">
 	<div class="loading" v-if="isLoading">Loading results&hellip;</div>
 	<div v-cloak class="feedback-item" v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
+		<button class="button" v-if="result.modification_key" @click="deleteResult(result.modification_key)">Delete</button>
 		<h3>
 			{{ residencePermitTypes[result.residence_permit_type].capitalized }}
 			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>

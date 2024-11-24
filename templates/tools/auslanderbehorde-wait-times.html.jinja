@@ -107,6 +107,19 @@
 						this.isLoading = false;
 					}
 				},
+				async deleteResult(modificationKey){
+					if(confirm('Delete this item?')){
+						await fetch(
+							`/api/forms/residence-permit-feedback/${modificationKey}`, {
+								method: 'DELETE',
+								keepalive: true,
+								headers: {'Content-Type': 'application/json; charset=utf-8'}
+							}
+						);
+						this.resultPages.splice(0, this.resultPages.length);
+						this.loadPage(this.page);
+					}
+				},
 				formatTimeDelta(date1, date2){
 					const millisecondsPerDay = 1000 * 60 * 60 * 24;
 					const days = Math.ceil((date2.getTime() - date1.getTime()) / millisecondsPerDay);
