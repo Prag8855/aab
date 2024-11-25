@@ -56,9 +56,9 @@ Know [how much you should earn](/guides/salaries-in-germany), and [how much taxe
 - [Talent Berlin](https://talent.berlin/en/jobs/job-search) - Run by the state of Berlin. You can't filter by language.
 - [HeyJobs](https://www.heyjobs.co/de-de/jobs-in-Berlin) - Job listing website. Made in Berlin.
 - [ArbeitNow](https://www.arbeitnow.com/berlin-jobs) - Job listing website. Made in Berlin.
-- [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language.
+- [Jobted](https://de.jobted.com/jobs-berlin)
 - [Xing](https://www.xing.com/) - Similar to LinkedIn. You can't filter by language.
-- [Glassdoor ](https://www.glassdoor.de/index.htm)- Company reviews, salary reports and job listings. You need an account.
+- [Glassdoor](https://www.glassdoor.de/index.htm) - Company reviews, salary reports and job listings. You need an account.
 
 ### English-speaking jobs
 
@@ -66,10 +66,10 @@ These websites only have English-speaking jobs, or let you filter by language:
 
 - **[Berlin Startup Jobs](https://berlinstartupjobs.com/)** - Most jobs are in English-speaking offices
 - [Englishjobs.de](https://englishjobs.de/in/berlin) - Only English-speaking jobs
-- [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language
 - [JobsInBerlin.eu](https://www.jobsinberlin.eu/) - You can filter jobs by language
 - [Germany Startup Jobs](https://germanystartupjobs.com/) - You can filter jobs by language and salary
 - [The Local jobs](https://www.thelocal.de/jobs/) - Run by a popular English-speaking newspaper
+- [Jobted](https://de.jobted.com/english-jobs-berlin)
 - [English-speaking jobs in Berlin](https://www.facebook.com/groups/jobinberlin/) - Facebook group, 89,000+ members
 - [English jobs in Berlin](https://www.facebook.com/groups/English.Jobs.Berlin/) - Facebook group, 43,000+ members
 
