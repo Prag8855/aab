@@ -7,7 +7,7 @@ ssml: Landesamt für Einwanderung
 Date_created: 2021-06-08
 Related_guides:
     guides/berlin-auslanderbehorde-appointment.md
-    tools/auslanderbehorde-wait-times.md
+    guides/auslanderbehorde-wait-times.md
     guides/residence-permit.md
 ---
 

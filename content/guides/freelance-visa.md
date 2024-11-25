@@ -135,7 +135,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the freelance visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. [A few months](/tools/auslanderbehorde-wait-times) later, they will give you an appointment.
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. [A few months](/guides/auslanderbehorde-wait-times) later, they will give you an appointment.
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
@@ -145,7 +145,7 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it can take [a few months](/tools/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it can take [a few months](/guides/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
 
 If your current residence permit does not allow self-employment, you must wait for your freelance visa to start your business.[^55]
 
@@ -178,7 +178,7 @@ When you go to your appointment, bring...[^7]
 
 The appointment takes 15 to 60 minutes.[^64] You spend most of that time waiting.
 
-If they approve your freelance visa, they must print the plastic card. You will get a second appointment to collect your freelance visa [in around 8 weeks](/tools/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }} You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your freelance visa was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
+If they approve your freelance visa, they must print the plastic card. You will get a second appointment to collect your freelance visa [in around 8 weeks](/guides/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }} You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your freelance visa was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
 
 **[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
 
@@ -265,7 +265,7 @@ To convert your National Visa into a freelance visa:
 1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
     Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment.
 2. **Go to your appointment**  
-    During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/tools/auslanderbehorde-wait-times) to pick up your freelance visa.{{ fail_on('2025-01-15') }}
+    During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your freelance visa.{{ fail_on('2025-01-15') }}
 3. **Pick up your freelance visa**  
     Go to your second *Ausländerbehörde* appointment to collect your freelance visa. Bring your passport and your old residence permit.
 4. **[Activate your eID ➞](#activate-your-eid)** (optional)
@@ -403,7 +403,7 @@ Your feedback helps thousands of people plan their freelance visa application.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
-**[See other people's feedback ➞](/tools/auslanderbehorde-wait-times)**
+**[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
 
 ### Bring your family to Germany
 

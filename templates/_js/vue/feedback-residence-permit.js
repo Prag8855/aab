@@ -238,7 +238,7 @@ Vue.component('feedback-residence-permit', {
 								Your feedback helps others plan their {{ residencePermitName }} application.
 							</p>
 							<p>
-								<strong><a class="internal-link" target="_blank" href="/tools/auslanderbehorde-wait-times">See other people's feedback</a></strong>
+								<strong><a class="internal-link" target="_blank" href="/guides/auslanderbehorde-wait-times">See other people's feedback</a></strong>
 							</p>
 						</div>
 					</div>

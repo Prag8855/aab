@@ -9,7 +9,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/renew-german-freelance-visa.md
     guides/berlin-auslanderbehorde-appointment.md
-    tools/auslanderbehorde-wait-times.md
+    guides/auslanderbehorde-wait-times.md
     guides/start-a-business-in-germany.md
     guides/residence-permit.md
     guides/fragebogen-zur-steuerlichen-erfassung.md

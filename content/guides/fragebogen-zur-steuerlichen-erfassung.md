@@ -34,7 +34,7 @@ There are 3 ways to register your business with the *[[Finanzamt]]*:
 
 ### Can you be self-employed?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. Your current residence permit might not allow you to be self-employed. It usually takes [a few months](/tools/auslanderbehorde-wait-times) to change your residence permit.
+You might need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. Your current residence permit might not allow you to be self-employed. It usually takes [a few months](/guides/auslanderbehorde-wait-times) to change your residence permit.
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 

@@ -90,7 +90,7 @@ If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you can st
 You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.[^12]
 
 - **At the [[Ausländerbehörde]] in Germany**  
-    If you apply in Germany, you get a residence permit. [It takes a few months](/tools/auslanderbehorde-wait-times). During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
+    If you apply in Germany, you get a residence permit. [It takes a few months](/guides/auslanderbehorde-wait-times). During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
     - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
     - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  
@@ -110,7 +110,7 @@ It's better if you apply in your home country. You can start working as soon as 
 
 Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must go to the *[[Ausländerbehörde]]* to renew it.
 
-They will check if you still meet all the requirements. You might need to bring a lot of documents, so you should prepare in advance. [It can take a few months](/tools/auslanderbehorde-wait-times) to get a new residence permit.{{ fail_on('2025-06-01') }}
+They will check if you still meet all the requirements. You might need to bring a lot of documents, so you should prepare in advance. [It can take a few months](/guides/auslanderbehorde-wait-times) to get a new residence permit.{{ fail_on('2025-06-01') }}
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 

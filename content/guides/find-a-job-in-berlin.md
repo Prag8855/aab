@@ -18,7 +18,7 @@ You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germa
 
 **[Who needs a residence permit? ➞](/guides/residence-permit)**
 
-It can take [a few months](/tools/auslanderbehorde-wait-times) to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
+It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
 
 ### Do you need to speak German?
 
@@ -179,7 +179,7 @@ If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany,
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-It can take [a few months](/tools/auslanderbehorde-wait-times) to get a residence permit. You can't start working before you get your residence permit. Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
+It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You can't start working before you get your residence permit. Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
 
 **[How to get a work visa ➞](/guides/work-visa)**
 
