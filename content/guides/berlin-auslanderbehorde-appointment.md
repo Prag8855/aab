@@ -43,7 +43,7 @@ To send your documents...
 3. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Just send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You might not get a confirmation email.[^14]
 4. **Wait**  
-    You must wait [a few weeks to a few months](/guides/auslanderbehorde-wait-times) to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
+    It takes [a few weeks to a few months](/guides/auslanderbehorde-wait-times) to get an answer. While you wait, you can usually stay in Germany, even [if your residence permit expires](#if-your-residence-permit-expires-soon). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).
 5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit [around 8 weeks](/guides/auslanderbehorde-wait-times) after the appointment.{{ fail_on('2025-01-15') }}
 

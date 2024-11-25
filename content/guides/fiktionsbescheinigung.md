@@ -11,7 +11,7 @@ This guide explains how the *Fiktionsbescheinigung* works, how to apply for a *F
 
 ## What is a Fiktionsbescheinigung?
 
-In Germany, it can take [months](/guides/auslanderbehorde-wait-times) to get a residence permit. You get a *Fiktionsbescheinigung* if your visa or [residence permit](/glossary/Aufenthaltstitel) expires while you wait for a new residence permit. The *Fiktionsbescheinigung* proves that you can stay in Germany while you wait.
+In Germany, it can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. While you wait, you get a *Fiktionsbescheinigung*. It proves that you can stay in Germany while you wait, even if your visa or [residence permit](/glossary/Aufenthaltstitel) expires.
 
 ![How a Fiktionsbescheinigung works](/illustrations/fiktionsbescheinigung-explanation.png)
 
@@ -51,7 +51,7 @@ In Berlin, they often ignore you or refuse to give you one.[^17] You must insist
 
 They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a 13€ fee.[^11]
 
-**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you get an *Ausländerbehörde* appointment or apply for a residence permit, the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
+**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment) or apply for a residence permit, the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
 
 **If you currently have a [[Schengen visa]]**, you can't get a *Fiktionsbescheinigung*. Usually, you can't convert a [[Schengen visa]] to a residence permit. You must [apply for a residence permit](/guides/residence-permit#how-to-get-a-residence-permit) in your home country.[^3]
 
