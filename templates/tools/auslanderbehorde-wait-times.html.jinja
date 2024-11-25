@@ -33,6 +33,7 @@
 						},
 						total: {
 							waitTime: 'this long',
+							count: 'many',
 						}
 					}
 				};
@@ -103,6 +104,8 @@
 						this.stats.appointment.waitTime = `Wait ${response.stats.appointment_date.readable_range ?? unknown}`;
 						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range ?? unknown}`;
 						this.stats.total.waitTime = response.stats.total.readable_range ?? 'an unknown time';
+						console.log(response.stats)
+						this.stats.total.count = response.stats.total.count ?? this.stats.total.count;
 
 						this.isLoading = false;
 					}

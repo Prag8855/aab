@@ -2945,40 +2945,53 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     h3{
         margin-bottom: var(--l);
     }
-    .step{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        position: relative;
-        margin-left: calc(var(--w-checkbox) / 2);
-        border-left: var(--b-box);
-        align-items: flex-start;
-        line-height: var(--line-height-label);
-        
-        [type=checkbox]{
+    .steps{
+        .step{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
             position: relative;
-            left: calc(var(--w-checkbox) / -2);
-        }
-
-        .description{
-            flex:1 1;
-        }
-
-        .duration{
-            flex: 1 1 100%;
-            font-size: var(--f-s);
-            color: var(--c-text-light);
-            margin: var(--m) 0 0 var(--w-checkbox);
-            @include only-phone{
-                &.form-group label{
-                    padding-top: 0;
-                    font-weight: normal;
-                    color: var(--c-text-light);
+            margin-left: calc(var(--w-checkbox) / 2);
+            padding-bottom: var(--m);
+            border-left: var(--b-input);
+            align-items: flex-start;
+            line-height: var(--line-height-label);
+            
+            [type=checkbox]{
+                position: relative;
+                left: calc(var(--w-checkbox) / -2);
+                border-radius: 50%;
+                &:checked{
+                    border-color: transparent;
+                    background: var(--c-text-light);
+                    &:after{
+                        color: #fff;
+                    }
                 }
             }
-        }
-        + .step{
-            padding-top: var(--m);
+
+            .description{
+                flex:1 1;
+            }
+
+            .duration{
+                flex: 1 1 100%;
+                font-size: var(--f-s);
+                color: var(--c-text-light);
+                margin: var(--m) 0 0 var(--w-checkbox);
+                @include only-phone{
+                    &.form-group label{
+                        padding-top: 0;
+                        font-weight: normal;
+                        color: var(--c-text-light);
+                    }
+                }
+            }
+
+            &:last-child{
+                padding-bottom: 0;
+                border-left-color: transparent;
+            }
         }
     }
     .notes{

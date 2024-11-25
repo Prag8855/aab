@@ -219,12 +219,14 @@ Vue.component('feedback-residence-permit', {
 				How is your <span class="no-mobile">{{ residencePermitName }}</span> application going?
 			</template>
 			<template v-if="stage === 'start'">
-				<div class="step" v-for="(step, key, index) in steps" :key="key">
-					<input :id="uid('checkbox' + key)" type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
-					<label :for="uid('checkbox' + key)" class="description" v-text="stepName(key)"></label>
-					<div class="duration form-group required" v-if="step.completed">
-						<label :for="uid(key) + '-date-day'" v-text="step.dateFieldTitle"></label>
-						<date-picker :min="minimumStepDate(step)" v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
+				<div class="steps">
+					<div class="step" v-for="(step, key, index) in steps" :key="key">
+						<input :id="uid('checkbox' + key)" type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
+						<label :for="uid('checkbox' + key)" class="description" v-text="stepName(key)"></label>
+						<div class="duration form-group required" v-if="step.completed">
+							<label :for="uid(key) + '-date-day'" v-text="step.dateFieldTitle"></label>
+							<date-picker :min="minimumStepDate(step)" v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
+						</div>
 					</div>
 				</div>
 				<template v-if="!showRestOfForm">
