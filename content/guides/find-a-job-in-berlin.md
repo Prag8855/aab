@@ -65,7 +65,6 @@ Know [how much you should earn](/guides/salaries-in-germany), and [how much taxe
 These websites only have English-speaking jobs, or let you filter by language:
 
 - **[Berlin Startup Jobs](https://berlinstartupjobs.com/)** - Most jobs are in English-speaking offices
-- [Expat job seeker](https://expatjobseeker.de/cat/english/#!search/job_category=english&location=berlin) - You can filter jobs by language
 - [Englishjobs.de](https://englishjobs.de/in/berlin) - Only English-speaking jobs
 - [Jobted](https://de.jobted.com/jobs-berlin) - You can filter jobs by language
 - [JobsInBerlin.eu](https://www.jobsinberlin.eu/) - You can filter jobs by language
