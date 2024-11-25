@@ -2956,16 +2956,18 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
             border-left: var(--b-input);
             align-items: flex-start;
             line-height: var(--line-height-label);
-            
+
             [type=checkbox]{
                 position: relative;
                 left: calc(var(--w-checkbox) / -2);
                 border-radius: 50%;
-                &:checked{
-                    border-color: transparent;
-                    background: var(--c-text-light);
-                    &:after{
-                        color: #fff;
+                @include not-print{
+                    &:checked{
+                        border-color: transparent;
+                        background: var(--c-text-light);
+                        &:after{
+                            color: var(--c-bg-page);
+                        }
                     }
                 }
             }
