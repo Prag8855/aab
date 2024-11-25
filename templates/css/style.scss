@@ -2930,6 +2930,9 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 }
 
 .feedback-table, .feedback-summary {
+    .feedback-item{margin: 0};
+    .feedback-item + .feedback-item{margin-top: var(--s-text-block)}
+
     .loading{
         @include text-block;
     }
