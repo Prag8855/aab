@@ -24,6 +24,7 @@
 					stats: {
 						response: {
 							waitTime: 'Loading…',
+							count: 'many',
 						},
 						appointment: {
 							waitTime: 'Loading…',
@@ -33,7 +34,6 @@
 						},
 						total: {
 							waitTime: 'this long',
-							count: 'many',
 						}
 					}
 				};
@@ -81,7 +81,7 @@
 					this.page = page;
 					if(scrollToTop){
 						Vue.nextTick(() => {
-							this.$el.querySelector('#feedback-from-readers').scrollIntoView(true);
+							this.$el.querySelector('#feedback-from-other-people').scrollIntoView(true);
 						});
 					}
 
@@ -105,7 +105,7 @@
 						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range ?? unknown}`;
 						this.stats.total.waitTime = response.stats.total.readable_range ?? 'an unknown time';
 						console.log(response.stats)
-						this.stats.total.count = response.stats.total.count ?? this.stats.total.count;
+						this.stats.response.count = response.stats.first_response_date.count ?? this.stats.response.count;
 
 						this.isLoading = false;
 					}

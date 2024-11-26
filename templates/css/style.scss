@@ -1248,7 +1248,7 @@ sup:target a{
     > ol > li, > :not(.collapsible, .bank-comparator, .table-of-contents) ol > li{
         @include list-marker-ol;
     }
-    > ul > li, > :not(.collapsible, .bank-comparator, .table-of-contents) ul > li{
+    > ul:not(.feedback-list) > li, > :not(.collapsible, .bank-comparator, .table-of-contents) ul > li{
         @include list-marker-ul;
     }
     li.checkbox{
@@ -2930,8 +2930,8 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 }
 
 .feedback-table, .feedback-summary {
-    .feedback-item{margin: 0};
-    .feedback-item + .feedback-item{margin-top: var(--s-text-block)}
+    li{margin: 0};
+    li + li{margin-top: var(--s-text-block)}
 
     .loading{
         @include text-block;
@@ -2943,7 +2943,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 .feedback-summary .description{
     @include text-bold;
 }
-.feedback-form, .feedback-item, .feedback-summary{
+.feedback-form, .feedback-list > li, .feedback-summary{
     @include text-block;
     h3{
         margin-bottom: var(--l);
@@ -3006,8 +3006,24 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         white-space: pre-wrap;
     }
 }
-.feedback-item{
+.feedback-list > li{
     @include box-l;
+    h3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: var(--s);
+
+        .department{
+            font-size: var(--m);
+            font-weight: normal;
+            color: var(--c-text-light);
+            @include only-phone{
+                flex:1 0 100%
+            }
+        }
+    }
     .button{
         float:right;
     }
@@ -3017,7 +3033,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     @include text-block;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     gap:var(--s);
     text-align: center;
 

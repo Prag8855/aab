@@ -265,7 +265,7 @@ Vue.component('feedback-residence-permit', {
 					<div class="form-group">
 						<label :for="uid('notes')">Notes and advice</label>
 						<textarea placeholder="" v-model="notes" :id="uid('notes')"></textarea>
-						<span class="input-instructions">Add information about your situation and give advice to other readers. Do not ask questions here.</span>
+						<span class="input-instructions">Add information about your situation and give advice to other people. Do not ask questions here.</span>
 					</div>
 				</template>
 			</template>

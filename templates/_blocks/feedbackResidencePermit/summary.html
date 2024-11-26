@@ -1,25 +1,25 @@
-{% raw %}
 <p>
 	It takes <strong v-text="stats.total.waitTime">a few months</strong> to get your <span v-text="residencePermitName.normal">residence permit</span> at the <em>Ausländerbehörde</em> in Berlin.
 	Wait times vary by department<span v-if="!residencePermitType">&nbsp;and residence permit type</span>.
-	This information is based on <a href="#feedback-from-readers">feedback from <span v-text="stats.total.count">many</span> people</a>.
 </p>
+{% include "_blocks/feedbackResidencePermit/filters.html"%}
+{% raw %}
 <div class="residence-permit-feedback-summary feedback-summary">
 	<div class="steps">
 		<div class="step completed">
 			<input type="checkbox" checked disabled>
 			<span class="description">Send your documents</span>
-			<div class="duration" v-text="stats.response.waitTime">Loading…</div>
+			<small class="duration" v-text="stats.response.waitTime">Loading…</small>
 		</div>
 		<div class="step completed">
 			<input type="checkbox" checked disabled>
 			<span class="description">Get a response</span>
-			<div class="duration" v-text="stats.appointment.waitTime">Loading…</div>
+			<small class="duration" v-text="stats.appointment.waitTime">Loading…</small>
 		</div>
 		<div class="step completed">
 			<input type="checkbox" checked disabled>
 			<span class="description">Go to your Ausländerbehörde appointment</span>
-			<div class="duration" v-text="stats.pickup.waitTime">Loading…</div>
+			<small class="duration" v-text="stats.pickup.waitTime">Loading…</small>
 		</div>
 		<div class="step completed">
 			<input type="checkbox" checked disabled>
@@ -27,6 +27,7 @@
 		</div>
 	</div>
 </div>
+<p>This timeline is based on <a href="#feedback-from-other-people">feedback from <span v-text="stats.response.count"></span> people</a>. Your feedback would really help.</p>
 <p v-if="supportLink" v-cloak>
 	<strong><a :href="supportLink" class="internal-link">Learn how to apply for the {{ residencePermitTypes[residencePermitType].normal }}</a></strong>
 </p>

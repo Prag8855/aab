@@ -5,15 +5,13 @@ Description: See how long it takes to get a residence permit at the Berlin immig
 Date_created: 2024-11-30
 ---
 
-{% include "_blocks/feedbackResidencePermit/filters.html"%}
-
 ## Residence permit wait times
 
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
-**[Tell us how your application went ➞](#share-your-experience)**
+**[Share your experience ➞](#share-your-experience)**
 
-## Feedback from readers
+## Feedback from other people
 
 {% include "_blocks/feedbackResidencePermit/list.html"%}
 
