@@ -1,7 +1,4 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
-from django.utils.decorators import method_decorator
-from django.views.decorators.cache import cache_page
-from django.views.decorators.vary import vary_on_headers
 from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
     ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.serializers import HealthInsuranceQuestionSerializer, \
@@ -83,7 +80,7 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
             for param in params
             if param in self.request.query_params
         }
-        return self.queryset.filter(**filters)
+        return self.queryset.filter(first_response_date__isnull=False, **filters)
 
     def list(self, request, *args, **kwargs):
         response = super().list(request, *args, **kwargs)
