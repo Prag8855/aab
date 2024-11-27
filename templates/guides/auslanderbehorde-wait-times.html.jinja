@@ -147,7 +147,7 @@
 						const timeDelta = this.formatTimeDelta(date1, date2);
 						return timeDelta.startsWith('1 ') ? `${timeDelta} has passed` : `${timeDelta} have passed`;
 					}
-					else if(date2 > date1){
+					else if(date2 >= date1 && date2 < new Date()){
 						return `Waited ${this.formatTimeDelta(date1, date2)}`
 					}
 					return `Waiting ${this.formatTimeDelta(date1, date2)}`;

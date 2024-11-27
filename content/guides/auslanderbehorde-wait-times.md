@@ -9,8 +9,6 @@ Date_created: 2024-11-30
 
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
-**[Share your experience ➞](#share-your-experience)**
-
 ## Feedback from other people
 
 {% include "_blocks/feedbackResidencePermit/list.html"%}
@@ -22,5 +20,7 @@ Tell me how your residence permit application went. Your feedback helps thousand
 {% include "_blocks/feedbackResidencePermit/form.html"%}
 
 ## Need help?
+
+**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
