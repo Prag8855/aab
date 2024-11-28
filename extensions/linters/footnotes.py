@@ -8,7 +8,7 @@ class FootnoteLocationLinter(RegexLinter):
     """
     Verifies that footnotes appear after punctuation, not before.
     """
-    file_suffixes = '.md'
+    file_suffixes = ('.md', )
     regex = re.compile(r'(?<!^)\[\^\d+\][\.,;:].{0,15}')
 
     def handle_match(self, file_path: Path, match: re.Match):
@@ -19,7 +19,7 @@ class CitationNeededLinter(RegexLinter):
     """
     Raises error on "Citation needed"
     """
-    file_suffixes = '.md'
+    file_suffixes = ('.md', )
     regex = re.compile(r'.{0,5}[Cc]itation needed.*')
 
     def handle_match(self, file_path: Path, match: re.Match):
@@ -30,7 +30,7 @@ class QuestionMarkLinter(RegexLinter):
     """
     Raises error on "???"
     """
-    file_suffixes = '.md'
+    file_suffixes = ('.md', )
     regex = re.compile(r'.{0,5}\?{3}.{0,5}')
 
     def handle_match(self, file_path: Path, match: re.Match):

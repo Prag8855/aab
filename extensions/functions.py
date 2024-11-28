@@ -1,3 +1,4 @@
+from ursus.context_processors import Entry
 import re
 
 
@@ -18,8 +19,8 @@ def glossary_sorter(entry: dict):
     return remove_accents(entry['german_term'])
 
 
-def glossary_groups(entries):
-    entry_groups = {}
+def glossary_groups(entries: list[Entry]) -> dict[str, list[Entry]]:
+    entry_groups: dict[str, list[Entry]] = {}
     for entry in entries:
         group_name = re.sub(r'[^a-z]', '#', remove_accents(entry['german_term']), flags=re.IGNORECASE)[0]
         entry_groups.setdefault(group_name, [])

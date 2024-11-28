@@ -1,7 +1,8 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
+from PIL.Image import Image as ImageType
 from ursus.config import config
-from ursus.context_processors import EntryContextProcessor
+from ursus.context_processors import EntryContextProcessor, Entry
 from ursus.renderers import Renderer
 import hashlib
 import logging
@@ -41,7 +42,7 @@ def text_width(text: str, font):
     return max(font.getmask(line).getbox()[2] for line in text.split('\n'))
 
 
-def make_cover_image(text: str, templates_path: Path) -> Image:
+def make_cover_image(text: str, templates_path: Path) -> ImageType:
     padding = 50
     line_spacing = 25
     image_size = (1200, 630)
@@ -92,7 +93,7 @@ class EntryImageUrlProcessor(EntryContextProcessor):
     def __init__(self):
         super().__init__()
 
-    def process_entry(self, context: dict, entry_uri: str, changed_files: set = None):
+    def process_entry(self, context, entry_uri, changed_files=None):
         context['entries'][entry_uri]['image_url'] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
 
 
@@ -100,13 +101,14 @@ class EntryImageRenderer(Renderer):
     """
     Creates social media images for entries
     """
-    def get_image_text(self, entry: dict) -> str:
+
+    def get_image_text(self, entry: Entry) -> str:
         return entry.get('short_title') or entry.get('title')
 
-    def get_hash(self, entry: dict) -> str:
+    def get_hash(self, entry: Entry) -> str:
         return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
 
-    def render(self, context: dict, changed_files: set = None) -> set:
+    def render(self, context, changed_files=None) -> set:
         files_to_keep = set()
         for entry_uri, entry in context['entries'].items():
             if not self.get_image_text(entry):
