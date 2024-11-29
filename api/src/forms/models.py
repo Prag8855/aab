@@ -29,16 +29,22 @@ class EmailMixin(models.Model):
         abstract = True
 
 
-class ReplyToSenderMixin:
+class ReplyToSenderMixin(EmailMixin):
     @property
     def reply_to(self) -> str:
         return self.email
 
+    class Meta:
+        abstract = True
 
-class RecipientIsSenderMixin:
+
+class RecipientIsSenderMixin(EmailMixin):
     @property
-    def recipients(self) -> str:
+    def recipients(self) -> list[str]:
         return [self.email, ]
+
+    class Meta:
+        abstract = True
 
 
 class NameMixin(models.Model):
@@ -90,8 +96,8 @@ class ScheduledMessage(models.Model):
 
     recipients: List[str] = []
     subject: str = ''
-    template: str = None
-    reply_to: str = None
+    template: str | None = None
+    reply_to: str | None = None
 
     def save(self, *args, **kwargs):
         if not self.pk:
@@ -160,7 +166,7 @@ class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, Ema
     template = 'health-insurance-question-confirmation.html'
 
 
-class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
+class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
     nationality = CountryField()
     country_of_residence = CountryField()
     question = models.TextField()

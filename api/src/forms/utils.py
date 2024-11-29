@@ -39,14 +39,14 @@ def readable_date_range(days_1: int, days_2: int) -> str:
     return f"{qty_1} {pluralize(qty_1, unit_1)} to {qty_2} {pluralize(qty_2, unit_2)}"
 
 
-def validate_email(email: str) -> bool:
+def validate_email(email: str) -> None:
     try:
         original_validate_email(email, check_deliverability=True)
     except EmailNotValidError as exc:
         raise ValidationError("Invalid email") from exc
 
 
-def send_email(recipients: List[str], subject: str, body: str, reply_to: str = None):
+def send_email(recipients: List[str], subject: str, body: str, reply_to: str | None = None):
     message_data = {
         "from": "All About Berlin <contact@allaboutberlin.com>",
         "to": recipients,
