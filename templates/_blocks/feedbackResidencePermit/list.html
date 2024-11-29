@@ -68,7 +68,7 @@
 				<input type="checkbox" :checked="result.pick_up_date" disabled>
 				<span class="description">
 					<template v-if="result.pick_up_date">
-						Picked up residence permit on {{ formatLongDate(result.pick_up_date) }}
+						{{ isInTheFuture(result.pick_up_date) ? 'Will pick up' : 'Picked up' }} residence permit on {{ formatLongDate(result.pick_up_date) }}
 					</template>
 					<template v-else>
 						No pick-up date <template v-if="result.appointment_date">as of {{ formatLongDate(result.modification_date) }}</template>
