@@ -21,21 +21,7 @@
 					page: null,
 					resultCount: 0,
 					itemsPerPage: 10,
-					stats: {
-						response: {
-							waitTime: 'Loading…',
-							count: 'many',
-						},
-						appointment: {
-							waitTime: 'Loading…',
-						},
-						pickup: {
-							waitTime: 'Loading…',
-						},
-						total: {
-							waitTime: 'this long',
-						}
-					}
+					stats: {}
 				};
 			},
 			async mounted(){
@@ -67,6 +53,15 @@
 						capitalized: "Residence permit"
 					}
 				},
+				feedbackCount(){
+					return this.stats?.first_response_date?.count || 0;
+				},
+				totalWaitAverage(){
+					return this.stats?.total?.readable_average ?? 'unknown';
+				},
+				totalWaitRange(){
+					return this.stats?.total?.readable_range ?? 'a few months';
+				},
 				supportLink(){
 					return {
 						BLUE_CARD: '/guides/blue-card',
@@ -97,16 +92,7 @@
 							r.pick_up_date = r.pick_up_date ? new Date(r.pick_up_date) : null;
 							return r;
 						});
-
-						const unknown = 'for an unknown duration';
-
-						this.stats.response.waitTime = `Wait ${response.stats.first_response_date.readable_range ?? unknown}`;
-						this.stats.appointment.waitTime = `Wait ${response.stats.appointment_date.readable_range ?? unknown}`;
-						this.stats.pickup.waitTime = `Wait ${response.stats.pick_up_date.readable_range ?? unknown}`;
-						this.stats.total.waitTime = response.stats.total.readable_range ?? 'an unknown time';
-						console.log(response.stats)
-						this.stats.response.count = response.stats.first_response_date.count ?? this.stats.response.count;
-
+						this.stats = response.stats;
 						this.isLoading = false;
 					}
 				},
@@ -141,6 +127,16 @@
 					}
 
 					return `${qty} ${unit}`;
+				},
+				stepWaitRange(stepKey){
+					if(this.isLoading){
+						return 'Loading…';
+					}
+					range = this.stats[stepKey]?.readable_range;
+					average = this.stats[stepKey]?.readable_average;
+					return range && average ?
+						`Wait ${range} — ${average} on average`
+						: 'Wait for an unknown duration';
 				},
 				waitTime(date1, date2, stillWaiting=false) {
 					if(stillWaiting){
