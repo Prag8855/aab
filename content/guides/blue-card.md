@@ -137,7 +137,7 @@ Before you apply for the Blue Card, you must...
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
 - [ ] **Prepare the [required documents ➞](#required-documents)**
 
-If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare their documents too.
 
 While you wait for your *Ausländerbehörde* appointment, you should also...
 
@@ -154,11 +154,11 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, Mastercard or PayPal, but not with cash or [[Girocard]].[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
-After you pay and send your application, you can download a PDF. This is a proof of application. Save it for later.
+After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes [a few weeks](/guides/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. It takes [a few weeks](/guides/auslanderbehorde-wait-times) to get a response. Then they will email you an appointment date.
 
 **[Berlin Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 

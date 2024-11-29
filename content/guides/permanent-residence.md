@@ -248,9 +248,9 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for permanent residence
 
-This is no *[[Ausländerbehörde]]* appointment for this. You must **[use the Ausländerbehörde contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)** to send all the [required documents](#required-documents), and wait for them to contact you. This can take a few months. You might not get a confirmation email.
+This is no *[[Ausländerbehörde]]* appointment for this. You must **[use the Ausländerbehörde contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, send all the [required documents](#required-documents), and wait for them to contact you. This can take [a few months](/guides/auslanderbehorde-wait-times). You might not get a confirmation email.
 
-When you use the contact form, choose the correct department. It could be a different department this time.
+When you use the contact form, choose departments E1 to E6. Do not choose departments B1 to B4.[^76]
 
 ### 3. Wait
 
@@ -524,3 +524,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^73]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (August 2024)
 [^74]: [VAB 9a.2.1.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (October 2024)
 [^75]: [VAB 9.2.1.3.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (October 2024)
+[^76]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php) (November 2024)

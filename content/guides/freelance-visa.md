@@ -124,7 +124,7 @@ Before you apply for the freelance visa, you must...
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
-If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare their documents too.
 
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
@@ -135,7 +135,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the freelance visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. [A few months](/guides/auslanderbehorde-wait-times) later, they will give you an appointment.
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), send all the [required documents](#required-documents), and wait for them to contact you. [A few months later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment.
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
@@ -145,7 +145,7 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it can take [a few months](/guides/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it can take [a few months](/guides/auslanderbehorde-wait-times) to get a response. Then they will email you an appointment date.
 
 If your current residence permit does not allow self-employment, you must wait for your freelance visa to start your business.[^55]
 

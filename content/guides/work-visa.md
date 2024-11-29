@@ -140,7 +140,7 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
 - [ ] **Get your education recognised**  
     Your professional training must be equivalent to 2 years of professional training in Germany. It must be recognised by the *[[Agentur für Arbeit]]*. The recognition process depends on your profession.[^21] It can take a few months.[^8] If you studied in Germany, your education is already recognised. - [How to get your education recognised](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 
-If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare these documents too.
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare their documents too.
 
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
@@ -151,7 +151,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the work visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send all the [required documents](#required-documents), and wait for them to contact you. A few weeks later, they will give you an appointment.
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to department B1, B2, B3 or B4. Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment.
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
@@ -161,7 +161,7 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes [a few weeks](/guides/auslanderbehorde-wait-times) to get a response. Then they will invite you for an appointment.
+The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes [a few weeks](/guides/auslanderbehorde-wait-times) to get a response. Then they will email you an appointment date.
 
 In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
 
