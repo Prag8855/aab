@@ -15,7 +15,7 @@ def fuzzy_readable_duration(days: int) -> Tuple[int, str]:
     Turns a number of days like 45 into a fuzzy duration tuple like (6, 'weeks')
     """
     if days <= 7 * 2:
-        return (days, 'days')
+        return (round(days), 'days')
     elif days <= 7 * 8:
         return (round(days / 7), 'weeks')
     else:
