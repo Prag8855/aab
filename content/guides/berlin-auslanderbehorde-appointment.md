@@ -161,7 +161,7 @@ Tell me how your *Ausländerbehörde* appointment went. Your feedback helps thou
 
 ### If your application is approved
 
-Go to your second *[[Ausländerbehörde]]* appointment to pick up your new residence permit. Bring your passport and your old residence permit.
+Go to your second *[[Ausländerbehörde]]* appointment to pick up your new residence permit. Bring your passport and your old residence permit. If you pick up a residence permit for a child, they don't need to come with you.[^7]
 
 Your residence permit is a plastic card. The expiration date is written on it. Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
@@ -225,6 +225,7 @@ In most cases, the state pays for your legal expenses. In other cases, it costs 
 [^4]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
 [^5]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request)
 [^6]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=No%20appointments%20available), [Red Tape Translation](https://redtapetranslation.com/applying-for-a-residence-permit-without-the-technical-dramas/)
+[^7]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1661970501344246/) (November 2024)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=Can%20I%20come%20even%20without%20an%20appointment)
 [^9]: [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/), [Red Tape Translation](https://redtapetranslation.com/faxhack/)
 [^10]: [berlin.de](https://service.berlin.de/standort/121885/en/), [reddit.com](https://old.reddit.com/r/berlin/comments/pjujv5/i_paid_with_my_visa_card_for_blue_card_fees_what/)
