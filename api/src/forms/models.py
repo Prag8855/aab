@@ -253,9 +253,14 @@ class ResidencePermitFeedbackManager(models.Manager):
                     ROW_NUMBER() over (order by time_diff) as rownum
                 FROM time_diffs, percentile_rows
             )
-            SELECT time_diff, row_count, rownum, row_20, row_80
+            SELECT
+                time_diff,
+                row_count,
+                AVG(time_diff) OVER () AS average
             FROM numbered_rows, row_count
-            WHERE rownum IN (row_20, row_80)
+            WHERE
+                rownum >= row_20
+                AND rownum <= row_80
         """
         with connection.cursor() as cursor:
             cursor.execute(percentiles_query, {
@@ -263,19 +268,22 @@ class ResidencePermitFeedbackManager(models.Manager):
                 'department': department,
             })
             results = list(zip(*cursor.fetchall()))
-        if results and len(results[0]) == 2:
+        if results and len(results[0]) >= 2:
             percentile_20 = results[0][0]
-            percentile_80 = results[0][1]
+            percentile_80 = results[0][-1]
             row_count = results[1][0]
+            average = results[2][0]
         else:  # No data
             percentile_20 = None
             percentile_80 = None
             row_count = 0
+            average = None
 
         return {
             'percentile_20': percentile_20,
             'percentile_80': percentile_80,
             'count': row_count,
+            'average': average,
         }
 
 

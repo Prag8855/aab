@@ -4,7 +4,7 @@ from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, Pension
 from forms.serializers import HealthInsuranceQuestionSerializer, \
     PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
     PublicResidencePermitFeedbackSerializer, ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
-from forms.utils import readable_date_range
+from forms.utils import readable_date_range, readable_duration
 from rest_framework import mixins, permissions, viewsets
 from rest_framework.exceptions import ValidationError as DRFValidationError
 from rest_framework.serializers import as_serializer_error
@@ -97,8 +97,10 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
         for stats_dict in response.data['stats'].values():
             if stats_dict['percentile_20'] is not None and stats_dict['percentile_80'] is not None:
                 stats_dict['readable_range'] = readable_date_range(days_1=stats_dict['percentile_20'], days_2=stats_dict['percentile_80'])
+                stats_dict['readable_average'] = readable_duration(stats_dict['average'])
             else:
                 stats_dict['readable_range'] = None
+                stats_dict['readable_average'] = None
 
         return response
 

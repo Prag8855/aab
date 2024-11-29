@@ -22,13 +22,19 @@ def fuzzy_readable_duration(days: int) -> Tuple[int, str]:
         return (round(days / 30), 'months')
 
 
+def pluralize(qty, unit):
+    # 0 days, 1 day, 2 days...
+    return unit.removesuffix('s') if qty == 1 else unit
+
+
+def readable_duration(days: int) -> str:
+    qty, unit = fuzzy_readable_duration(days)
+    return f"{qty} {pluralize(qty, unit)}"
+
+
 def readable_date_range(days_1: int, days_2: int) -> str:
     qty_1, unit_1 = fuzzy_readable_duration(days_1)
     qty_2, unit_2 = fuzzy_readable_duration(days_2)
-
-    def pluralize(qty, unit):
-        # 0 days, 1 day, 2 days...
-        return unit.removesuffix('s') if qty == 1 else unit
 
     if unit_1 == unit_2:
         if qty_1 == qty_2:  # 3 weeks
