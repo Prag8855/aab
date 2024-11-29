@@ -73,7 +73,7 @@ If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign
 
 You can negotiate how much severance pay you get.[^26] Severance pay in Germany is lower than in North America. You usually get 0.5× your [gross](/glossary/Brutto%20income) monthly income for each year of employment.[^21] For example, if you work 5 years for an employer, your severance pay is 2.5 months of income.
 
-A labour [lawyer](/guides/english-speaking-lawyers-berlin) can help you negotiate better severance pay, because they know how much money you can get.
+A labour lawyer can help you negotiate better severance pay, because they know how much money you can get.
 
 **[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
 
@@ -110,13 +110,13 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 ### Tell the Ausländerbehörde
 
-If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
+If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
 To inform the *Ausländerbehörde*, you must...
 
-1. [Choose the right department to contact](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)
+1. [Choose the right department to contact](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). For a work visa or a Blue Cards, it's department B1/B2/B3/B4.
 2. Write a letter in German. Use my [letter generator](/docs/auslanderbehorde-job-change). It must include:
     - [ ] Your full name
     - [ ] Your date and place of birth
@@ -128,7 +128,7 @@ To inform the *Ausländerbehörde*, you must...
 4. Send your letter with [the official contact form](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
 5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take many weeks to reply.[^46] They might not reply at all.
 
-If you are changing jobs, you might need permission from the *Ausländerbehörde* to work for a new employer. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
+**If you change jobs**, you might need permission from the *Ausländerbehörde* to start working. [It depends](#what-happens-to-your-residence-permit) on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for. With a Blue Card, you can immediately start your new job.
 
 **[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
@@ -181,7 +181,7 @@ After you inform the *[[Ausländerbehörde]]*, nothing happens. **Your [residenc
 When you [find a new job](/guides/find-a-job-in-berlin), you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
 
 - **If you have a Blue Card**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission, but you must inform them of the job change. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
 - **If you had <u>this</u> residence permit for at least 2 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Email them a copy of your new work contract.[^4]
 - **If you had <u>any</u> residence permit for at least 3 years**  

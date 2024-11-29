@@ -151,7 +151,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the work visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to department B1, B2, B3 or B4. Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment.
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to department B1/B2/B3/B4. Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment.
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
