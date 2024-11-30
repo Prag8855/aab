@@ -28,3 +28,5 @@ To start working, you must apply for a [work visa](/glossary/Work%20Visa), a [[B
 You must apply for a job seeker visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
 
 **[Information about the job seeker visa ➞](https://service.berlin.de/dienstleistung/324661/en/)**
+
+**[How to apply for a job seeker visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**

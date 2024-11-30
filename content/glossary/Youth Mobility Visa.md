@@ -16,4 +16,6 @@ The Youth Mobility Visa allows Canadian citizens between 18 and 35 years old to 
 
 You must apply for the Youth Mobility Visa at the German embassy or consulate in your home country.
 
+**[How to apply for a Youth Mobility Visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
+
 [^0]: [canada.diplo.de](https://canada.diplo.de/ca-en/consular-services/visa/-/1674826)

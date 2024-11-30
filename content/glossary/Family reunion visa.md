@@ -17,3 +17,5 @@ The family reunion visa is a [residence permit](/glossary/Aufenthaltstitel) for 
 If you have a family reunion visa, you can work, study or freelance in Germany.
 
 You must apply for a family reunion visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
+
+**[How to apply for a family reunion visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**

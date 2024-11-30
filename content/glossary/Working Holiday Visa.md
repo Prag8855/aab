@@ -20,4 +20,6 @@ Canadian citizens between 18 and 35 years old can apply for a [[Youth Mobility V
 
 You must apply for the Working Holiday Visa at the German embassy or consulate in your home country.
 
+**[How to apply for a Working Holiday Visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
+
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/Working_holiday_visa#Germany)

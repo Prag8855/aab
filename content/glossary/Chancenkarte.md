@@ -21,4 +21,6 @@ The opportunity card lets you work 20 hours per week while you look for a full t
 
 You must apply for a job seeker visa at the German embassy or consulate in your home country.
 
+**[How to apply for an opportunity card ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
+
 [^1]: [§20a Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html)

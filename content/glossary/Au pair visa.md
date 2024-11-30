@@ -13,4 +13,6 @@ The German au pair visa lets you work as an [au pair](/glossary/Au%20pair) in Ge
 
 You must apply for the au pair visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
 
+**[How to apply for an au pair visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
+
 [^1]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)

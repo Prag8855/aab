@@ -17,7 +17,9 @@ A National Visa (or [[Category D visa]]) is a type of German visa. It lets you e
 
 You must apply for a National Visa at the German embassy or consulate in your home country. When you arrive in Germany, you must convert your National Visa into a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*.
 
-The [[Schengen visa]] is not a National Visa.
+The [[Schengen visa]] is not a National Visa. You can't convert a Schengen visa into a residence permit.
+
+**[How to apply for a National Visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
 **[More about visas and residence permits](/guides/residence-permit)**
 

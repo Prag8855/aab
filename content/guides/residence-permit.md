@@ -106,16 +106,23 @@ Other residence permits sometimes allow self-employment:
 
 ## How to get a residence permit
 
-You can apply for a [residence permit](/glossary/Aufenthaltstitel) in your home country, or in Germany.[^12]
+You can apply for a residence permit...[^12]
 
-- **At the [[Ausländerbehörde]] in Germany**  
-    If you apply in Germany, you get a residence permit. [It takes a few months](/guides/auslanderbehorde-wait-times). During that time, you can't work or study, so you must have enough savings to survive. You can only apply in Germany if...
-    - You are a citizen of of {{AUFENTHV_41_COUNTRIES}}[^2]
-    - **or** you already have a German residence permit, and you want to renew or change it.
 - **At the German embassy or consulate in your country**  
-    If you apply in the country where you live, you get a [[National Visa]]. It's valid for up to 12 months. When you get the National Visa, you can move to Germany and start working or studying. When you arrive in Germany, you must convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You must do this before your visa expires.[^9] In some cases, you can [apply for a National Visa online](https://digital.diplo.de/visa).
+    Apply for a [[National Visa]], come to Germany, and convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*.
+- **At the [immigration office](/glossary/Ausländerbehörde) in Germany**  
+    Come to Germany, and apply for a residence permit at the *[[Ausländerbehörde]]*.
 
-It's better if you apply in your home country. You can start working as soon as you arrive in Germany. It's better than living in Germany for a few months without any income.
+Your options depend on your situation:
+
+- **German residents**  
+    If you already have a residence permit, you can change or renew it at your local *[[Ausländerbehörde]]* in Germany. You must do this before your current residence permit expires.
+- **Privileged countries**  
+    If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can come to Germany without a visa. After you arrive, you have 90 days to apply for a residence permit at the *[[Ausländerbehörde]]*.[^2] You can also apply for it at the German embassy or consulate in your home country.
+- **Everyone else**  
+    You must apply for a [[National Visa]] - not a [[Schengen visa]] - at the German embassy or consulate in your country. When you get your National Visa, you can move to Germany. After you arrive, you must convert your visa into a residence permit.
+
+It's often better if you apply in your home country. You can start working as soon as you arrive in Germany, so you don't need to wait in Germany without an income.
 
 **[How to apply for a work visa ➞](/guides/work-visa)**
 
@@ -127,15 +134,26 @@ It's better if you apply in your home country. You can start working as soon as 
 
 ## How to renew a residence permit
 
-Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must go to the *[[Ausländerbehörde]]* to renew it.
+Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must renew it at the *[[Ausländerbehörde]]*. It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-06-01') }}
 
-They will check if you still meet all the requirements. You might need to bring a lot of documents, so you should prepare in advance. [It can take a few months](/guides/auslanderbehorde-wait-times) to get a new residence permit.{{ fail_on('2025-06-01') }}
+The *[[Ausländerbehörde]]* will check if you still meet all the requirements for your residence permit. You might need to bring a lot of documents, so you must prepare in advance.
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)
+If you qualify, you can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship.
 
-After a few years, you might qualify for German [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. These don't need to be renewed.
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
+## How to read your Zusatzblatt
+
+Your current residence permit might allow self-employment. Look for these lines on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*:
+
+- *[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)* (all occupations are allowed, including self-employment)[^16]
+- *[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)* (self-employment is allowed)[^17]
+
+If your [work visa](/glossary/Work%20Visa) or [[Blue Card]] allows self-employment, you can freelance part-time. To freelance full-time, you need a freelance visa.[^18]
+
+**[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
 ## Need help?
 
@@ -143,8 +161,7 @@ After a few years, you might qualify for German [permanent residence](/glossary/
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
-[^2]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
-[^3]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^2]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)

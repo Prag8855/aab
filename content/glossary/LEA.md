@@ -13,4 +13,4 @@ Related_guides:
 
 LEA is for *Landesamt für Einwanderung*. This is the new name of the *[[Ausländerbehörde]]*.
 
-**[How to get an LEA appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+**[Berlin Ausländerbehörde guide ➞](/guides/immigration-office)**

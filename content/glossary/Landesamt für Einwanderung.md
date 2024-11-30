@@ -12,4 +12,4 @@ Related_guides:
 
 The *Landesamt für Einwanderung* or *LAE* is the new name of the *[[Ausländerbehörde]]* in Berlin.
 
-**[How to get an LEA appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+**[Berlin Ausländerbehörde guide ➞](/guides/immigration-office)**
