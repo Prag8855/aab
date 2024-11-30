@@ -44,12 +44,16 @@ If you have a job offer:
     For working in Germany. You need a job offer. You might need previous professional training.
 - **[[Blue Card]]** - [How to apply](/guides/blue-card)  
     For working in Germany. You need a job offer. You need a university degree or IT specialist training. There is a minimum salary requirement.
+- **[[Family reunion visa]]**  
+    For spouses and children of German residents. You can work for any employer. There is no income or education requirement.[^19]
 - **[[Working Holiday Visa]]**  
     For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. The Working Holiday Visa lets you work in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[[Youth Mobility Visa]]**  
     For Canadian citizens between 18 and 35 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
+- **[[Internship visa]]**  
+    For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
-    For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year.
+    For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year. Your income must be over {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. There is no education requirement.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
     You can already take any job. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
@@ -61,6 +65,8 @@ If you don't have a job offer:
     For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours per week. To work full time, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
 - **[[Job seeker visa]]**  
     For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card). The [opportunity card](/glossary/Chancenkarte) is a better option, because you can work 20 hours per week.
+- **[[Family reunion visa]]**  
+    For spouses and children of German residents. You can work for any employer. There is no income or education requirement.[^19]
 
 ### For self-employment
 
@@ -75,6 +81,8 @@ Other residence permits sometimes allow self-employment:
     Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. Check your *Zusatzblatt*.[^8]
 - **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
     Self-employment is *sometimes* allowed. - [More information](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/)[^15]
+- **[[Family reunion visa]]**  
+    For spouses and children of German residents. There is no income or education requirement.[^20]
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
     You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
@@ -86,13 +94,15 @@ Other residence permits sometimes allow self-employment:
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies. You can work while you study.
 - **[[Internship visa]]**  
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
+- **[[Family reunion visa]]**  
+    For spouses and children of German residents.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
     You can already study. You don't need permission from the *[[Ausländerbehörde]]*.
 
 ### For your family
 
 - **[[Family reunion visa]]**  
-    For spouses and family members of German residents. This is how you can bring your family to Germany. With a family reunion visa, your spouse and your children can work or study in Germany.
+    For spouses and family members of German residents. This is how you can bring your family to Germany. With a family reunion visa, your spouse and your children can work, study or start a business in Germany.
 
 ## How to get a residence permit
 
@@ -133,13 +143,22 @@ After a few years, you might qualify for German [permanent residence](/glossary/
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
-[^2]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aufenthv/__41.html)
-[^3]: [web.archive.org](http://web.archive.org/web/20210511073039/https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node)
+[^2]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^3]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
+[^8]: Citation needed
 [^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^11]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
-[^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)[^13]: Citation needed
+[^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)
+[^13]: Citation needed
+[^14]: Citation needed - Verify
+[^15]: Citation needed
+[^16]: Citation needed
+[^17]: Citation needed
+[^18]: Citation needed
+[^19]: Citation needed
+[^20]: Citation needed

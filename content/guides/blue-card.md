@@ -25,9 +25,11 @@ This guide explains how to apply for a [[Blue Card]] in Berlin or in your countr
 
 ## Who needs a Blue Card?
 
-The Blue Card is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The Blue Card is a type of residence permit.
 
-**[Who needs a residence permit ➞](/guides/residence-permit)**
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+
+**[Blue Card alternatives ➞](/guides/residence-permit#for-work)**
 
 ## Blue Card requirements
 
@@ -56,28 +58,9 @@ You do not need a university degree if...[^31]
 
 **You do not need to speak German** to get a Blue Card.[^27]
 
-## Blue Card alternatives
+If you can't get a Blue Card, there are [other residence permits](/guides/residence-permit#for-work) that let you work in Germany.
 
-If you can't get a Blue Card, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
-
-- **[Work visa](/glossary/Work%20Visa)**{% include '_blocks/recommended.html' %}  
-    No salary requirement. No university degree required. In some cases, you might need professional training. It's almost as good as a Blue Card. - [How to apply](/guides/work-visa)
-- **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
-    For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
-- **[Opportunity Card](/glossary/Chancenkarte)**  
-    For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours a week. To work full time, you need a work visa or Blue Card.
-- **[[Job seeker visa]]**  
-    For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you need a work visa or a Blue Card. The [opportunity card](/glossary/Chancenkarte) is usually a better option.
-- **[[Internship visa]]**  
-    For university students. Do an internship in Germany for up to 6 months.
-- **[[Au pair visa]]**  
-    Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
-- **[[Family reunion visa]]**  
-    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No minimum income. No education needed.
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
-    You can already live and work in Germany. You don't need a residence permit.
-
-**[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
+**[Blue Card alternatives ➞](/guides/residence-permit#for-work)**
 
 ## How to apply in Berlin
 
@@ -413,7 +396,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^13]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20travel%20to%20the%20following%20countries%20in%20the%20schengen%20area)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
-[^16]: [germany-visa.org](https://www.germany-visa.org/family-reunion-visa/)
 [^17]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^19]: Multiple relocation consultants (October 2023)

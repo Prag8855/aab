@@ -23,9 +23,11 @@ This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Ber
 
 ## Who needs a work visa?
 
-The work visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The work visa is a type of residence permit.
 
-**[Who needs a residence permit ➞](/guides/residence-permit)**
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+
+**[Work visa alternatives ➞](/guides/residence-permit#for-work)**
 
 ## Work visa requirements
 
@@ -57,28 +59,9 @@ If you are over 45 years old, you must have...[^43]
 
 **You do not need to speak German** to get a work visa.[^27]
 
-## Work visa alternatives
+If you can't get a work visa, there are [other residence permits](/guides/residence-permit#for-work) that let you work in Germany.
 
-If you can't get a work visa, there are other [residence permits](/glossary/Aufenthaltstitel) that let you work in Germany:
-
-- **[[Blue Card]]**{% include '_blocks/recommended.html' %}  
-    For skilled workers with a university degree, or IT specialists without a degree. There is a minimum salary. The Blue Card is better than the work visa: you get it faster, and you can get [permanent residence](/glossary/Niederlassungserlaubnis) faster. - [How to apply](/guides/blue-card)
-- **[[Working Holiday Visa]]** and **[[Youth Mobility Visa]]**  
-    For young people from certain countries. Work in Germany for 1 year. No salary requirement. No education needed.
-- **[Opportunity Card](/glossary/Chancenkarte)**  
-    For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours a week. To work full time, you need a work visa or Blue Card.
-- **[[Job seeker visa]]**  
-    For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you need a work visa or a Blue Card. The [opportunity card](/glossary/Chancenkarte) is usually a better option.
-- **[[Internship visa]]**  
-    For university students. Do an internship in Germany for up to 6 months.
-- **[[Au pair visa]]**  
-    Work as an [au pair](/glossary/Au%20pair). Minimum income: {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. No education needed.
-- **[[Family reunion visa]]**  
-    For spouses and children of German residents. You can work, study or freelance in Germany.[^16] No minimum income. No education needed.
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
-    You can already live and work in Germany. You don't need a residence permit.
-
-**[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
+**[Work visa alternatives ➞](/guides/residence-permit#for-work)**
 
 ## How to apply in Berlin
 
@@ -438,7 +421,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [§18 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
-[^16]: [germany-visa.org](https://www.germany-visa.org/family-reunion-visa/)
 [^17]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
 [^19]: Multiple relocation consultants (October 2023)

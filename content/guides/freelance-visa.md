@@ -28,16 +28,11 @@ This guide explains how to apply for a freelance visa in Berlin or in your count
 
 ## Who needs a freelance visa?
 
-The freelance visa is a type of [residence permit](/glossary/Aufenthaltstitel). You need a residence permit to live in Germany if you are not a citizen or permanent resident of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The freelance visa is a type of residence permit.
 
-**[Who needs a residence permit ➞](/guides/residence-permit)**
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
-Your current residence permit might allow self-employment. Look for these lines on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*:
-
-- *[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)* (all occupations are allowed, including self-employment)[^15]
-- *[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)* (self-employment is allowed)[^11]
-
-If your [work visa](/glossary/Work%20Visa) or [[Blue Card]] allows self-employment, you can freelance part-time. To freelance full-time, you need a freelance visa.[^16]
+**[Freelance visa alternatives ➞](/guides/residence-permit#for-self-employment)**
 
 ## Freelance visa requirements
 
@@ -64,20 +59,9 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 **You do not need a degree** or relevant education, except [if your profession requires it](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession). For example, you can't be a lawyer without a law degree, but you can be a software developer or a photographer.[^12]
 
-## Freelance visa alternatives
+If you can't get a freelance visa, there are [other residence permits](/guides/residence-permit#for-self-employment) that let you [start a business](/guides/start-a-business-in-germany) in Germany. Your current residence permit might allow self-employment.
 
-Your current [residence permit](/glossary/Aufenthaltstitel) might allow self-employment:
-
-- **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
-    [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa). Your work visa or Blue Card might let you work and freelance at the same time. Check your work contract; you might need permission from your employer to freelance.[^21] To freelance full-time, you need a freelance visa.
-- **[[Student visa]]**  
-    Usually, student visas do not allow self-employment.[^54] In Berlin, *some* student visas already allow self-employment.[^72] You can get permission from the *[[Ausländerbehörde]]* to study and freelance at the same time.[^2]
-- **Other residence permits**  
-    [Look on your *Zusatzblatt*](#who-needs-a-freelance-visa) to see if self-employment is allowed.
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)** or **[EU](/glossary/European%20Union) citizenship**  
-    You can already be self-employed. You don't need a freelance visa.
-
-**[More residence permit options ➞](/guides/residence-permit#types-of-residence-permits)**
+**[Freelance visa alternatives ➞](/guides/residence-permit#for-self-employment)**
 
 ## How to apply in Berlin
 
