@@ -306,7 +306,7 @@ You don't need to include *every* document in this list. You must only prove tha
 - [ ] **Passport**  
     Include a photocopy of your passport.
 - [ ] **Residence permit**  
-    If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, include a photocopy of it. Include a copy of the [*Zusatzblatt*](/glossary/Zusatzblatt%20%28residence%20permit%29) that came with your residence permit. They might ask for it later.
+    If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, include a photocopy of it. Include a copy of the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* that came with your residence permit. They might ask for it later.
 - [ ] **[Direct debit authorization](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/SEPA-Lastschriftmandat_Versicherte.pdf)**  
     This allows you to pay the KSK automatically, instead of making manual bank transfers. It's optional, but recommended.
 

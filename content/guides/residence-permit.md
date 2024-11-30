@@ -34,7 +34,7 @@ These people don't need a residence permit:
 
 ## Types of residence permits
 
-**[Full list of residence permits](https://digital.diplo.de/navigator/en/visa)** - diplo.de
+**[Full list of residence permits ➞](https://digital.diplo.de/navigator/en/visa)**[^14]
 
 ### For work
 
@@ -57,7 +57,7 @@ If you have a job offer:
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
     You can already take any job. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
-    Check your *Zusatzblatt* to see if you can work. Your current residence permit might be tied to your current employer.
+    [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt) to see if you can work. Your current residence permit might be tied to your current employer.
 
 If you don't have a job offer:
 
@@ -76,9 +76,9 @@ If you don't have a job offer:
 Other residence permits sometimes allow self-employment:
 
 - **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
-    Part-time self-employment is sometimes allowed. Check your *Zusatzblatt*. You must keep your job, and your job must be your main source of income.[^10]
+    Part-time self-employment is sometimes allowed. [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt). You must keep your job, and your job must be your main source of income.[^10]
 - **[[Student visa]]**  
-    Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. Check your *Zusatzblatt*.[^8]
+    Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. [Check your *Zusatzblatt*.](#how-to-read-the-zusatzblatt)[^8]
 - **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
     Self-employment is *sometimes* allowed. - [More information](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/)[^15]
 - **[[Family reunion visa]]**  
@@ -86,7 +86,7 @@ Other residence permits sometimes allow self-employment:
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
     You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
-    Check your *Zusatzblatt* to see if self-employment is allowed.
+    [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt) to see if self-employment is allowed.
 
 ### For studying
 
@@ -154,6 +154,8 @@ This is what those lines mean:
 
 - **[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)**  
     All occupations are allowed. You can do any kind of work, including self-employment.[^16]
+- **Erlischt mit Bezug von Leistungen nach dem SGB II oder SGB XII**  
+    You can't receive *[[Bürgergeld]]*.[^3] You can still receive [unemployment benefits](/glossary/ALG%20I).
 - **[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)**  
     Self-employment is allowed.[^17] If it's a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], part-time self-employment is allowed, but must keep your job, and your job must be your main source of income.[^10]
 
@@ -164,6 +166,7 @@ This is what those lines mean:
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
 [^2]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^3]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)

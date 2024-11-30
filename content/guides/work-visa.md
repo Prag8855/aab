@@ -386,7 +386,9 @@ With a work visa, you can leave Germany for up to 6 months.[^23] To travel longe
 
 ### Self-employment with a work visa
 
-Your work visa might allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^52]
+Your work visa might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/residence-permit#how-to-read-the-zusatzblatt) to see if it's allowed.
+
+To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
 
 ### Make a tax declaration
 
@@ -456,7 +458,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^49]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=%20equivalence%20of%20the%20qualification%20), [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html)
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
-[^52]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^53]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^54]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)

@@ -60,6 +60,4 @@ When you are an employee, health insurance is taken from your paycheck. When you
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
-[^0]: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=LEGISSUM%3Al14573#:~:text=selbststandiger%20nebentatigkeit)
-[^1]: [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)
 [^2]: [juraforum.de](https://www.juraforum.de/lexikon/nebengewerbe-anmelden#genehmigung-arbeitgeber-nebengewerbe-muster-fuer-arbeitnehmer)

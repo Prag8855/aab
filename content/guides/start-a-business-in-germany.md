@@ -23,7 +23,7 @@ This guide explains how to form a single proprietorship (*Einzelunternehmen*), n
 
 **If you need a [residence permit](/glossary/Aufenthaltstitel)** to live in Germany, it's harder. You might need to apply for a [freelance visa](/glossary/Freelance%20visa). It takes [a few months](/guides/auslanderbehorde-wait-times). It adds costs, delays and paperwork. Your current residence permit might allow part-time self-employment, but you might need a freelance visa for full-time self-employment.
 
-**[Residence permits to start a business ➞](/guides/residence-permit#residence-permits-to-start-a-business)**
+**[Residence permits to start a business ➞](/guides/residence-permit#for-self-employment)**
 
 ## Cost of running a business
 

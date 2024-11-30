@@ -363,9 +363,9 @@ With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel long
 
 ### Self-employment with a Blue Card
 
-Your Blue Card might allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg) or [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^45]
+Your Blue Card might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/residence-permit#how-to-read-the-zusatzblatt) to see if it's allowed.
 
-To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa).
+To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
 
 ### Make a tax declaration
 
