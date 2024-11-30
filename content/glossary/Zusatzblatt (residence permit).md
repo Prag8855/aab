@@ -15,3 +15,5 @@ Related_guides:
 ---
 
 When you get your [residence permit](/glossary/Aufenthaltstitel), you also get a sheet with more information. This sheet is the *Zusatzblatt*. It looks like this: [front](/images/aufenthaltstitel-zusatzblat-front-web.png), [back](/images/aufenthaltstitel-zusatzblat-back-web.png).
+
+The *Zusatzblatt* tells you if you can work, what kind of work you can do, and if you can be self-employed.
