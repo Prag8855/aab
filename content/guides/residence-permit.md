@@ -1,11 +1,19 @@
 ---
-Title: What German residence permit do you need?
-Short_title: Do you need a residence permit?
+Title: How to apply for a German residence permit
+Short_title: How to get a residence permit
 Description: This guide shows you if you need a residence permit (Aufenthaltstitel) to live, work or study in Germany.
 Date_created: 2022-06-23
 ---
 
-You might need a residence permit (*[[Aufenthaltstitel]]*) to live, work and study in Germany. This guide explains how residence permits work.
+You might need a residence permit (*[[Aufenthaltstitel]]*) to live, work and study in Germany.
+
+With a residence permit, you can...
+
+- Live anywhere in Germany
+- Bring your family to Germany
+- Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 2 to 5 years
+- Become a citizen after 5 years
 
 {% include "_blocks/tableOfContents.html" %}
 

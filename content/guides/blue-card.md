@@ -1,5 +1,5 @@
 ---
-Title: How to get a German Blue Card
+Title: How to apply for a German Blue Card
 Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
