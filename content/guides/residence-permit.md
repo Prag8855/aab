@@ -80,16 +80,16 @@ Other residence permits sometimes allow self-employment:
 - **Other residence permits**  
     Check your *Zusatzblatt* to see if self-employment is allowed.
 
-### Residence permits to study
+### For studying
 
 - **[[Student visa]]**  
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies. You can work while you study.
 - **[[Internship visa]]**  
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+    You can already study. You don't need permission from the *[[Ausländerbehörde]]*.
 
-If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you can study in Germany. You don't need permission from the *[[Ausländerbehörde]]*.
-
-### Residence permits for your family
+### For your family
 
 - **[[Family reunion visa]]**  
     For spouses and family members of German residents. This is how you can bring your family to Germany. With a family reunion visa, your spouse and your children can work or study in Germany.
