@@ -36,20 +36,24 @@ These people don't need a residence permit:
 
 **[Full list of residence permits](https://digital.diplo.de/navigator/en/visa)** - diplo.de
 
-### Residence permits to work
+### For work
 
 If you have a job offer:
 
 - **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/work-visa)  
-    For working in Germany. You need a job offer to apply for this visa. You might need professional training.
+    For working in Germany. You need a job offer. You might need previous professional training.
 - **[[Blue Card]]** - [How to apply](/guides/blue-card)  
-    For working in Germany. Only for university graduates, or IT specialists with 3 years of experience. There is a minimum salary requirement.
-- **[Working holiday visa](/glossary/Working%20Holiday%20Visa)**  
-    For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
-- **[Youth mobility visa](/glossary/Youth%20Mobility%20Visa)**  
+    For working in Germany. You need a job offer. You need a university degree or IT specialist training. There is a minimum salary requirement.
+- **[[Working Holiday Visa]]**  
+    For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. The Working Holiday Visa lets you work in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
+- **[[Youth Mobility Visa]]**  
     For Canadian citizens between 18 and 35 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[[Au pair visa]]**  
     For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year.
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+    You can already take any job. You don't need permission from the *[[Ausländerbehörde]]*.
+- **Other residence permits**  
+    Check your *Zusatzblatt* to see if you can work. Your current residence permit might be tied to your current employer.
 
 If you don't have a job offer:
 
@@ -58,7 +62,6 @@ If you don't have a job offer:
 - **[[Job seeker visa]]**  
     For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card). The [opportunity card](/glossary/Chancenkarte) is a better option, because you can work 20 hours per week.
 
-If you are a [permanent residents](/glossary/Niederlassungserlaubnis), you can have any job. You don't need permission from the *[[Ausländerbehörde]]*.
 
 ### Residence permits to start a business
 
