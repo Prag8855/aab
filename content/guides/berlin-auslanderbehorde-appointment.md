@@ -167,6 +167,8 @@ Your residence permit is a plastic card. The expiration date is written on it. C
 
 You might also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your residence permit. For example, it might say that you can change employers, or that self-employment is allowed.
 
+**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
+
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/eid-online-ausweisfunktion) of your residence permit. This lets you use your residence permit to log into online government services.
 
 **[How to activate the eID function ➞](/guides/eid-online-ausweisfunktion)**

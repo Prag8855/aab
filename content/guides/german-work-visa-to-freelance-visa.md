@@ -19,14 +19,13 @@ If you can, [start your business](/guides/start-a-business-in-germany) before yo
 
 ### Does your residence permit allow it?
 
-If you need a residence permit to live in Germany, check if it lets you freelance.
+If you need a residence permit to live in Germany, check if it allows self-employment. Check your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
 
-**Some work visas and Blue Cards let you freelance**.[^0] Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*:
+**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
 
-- If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg), you can be self-employed
-- If it says [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed[^1]
+**[Residence permits for self-employment ➞](/guides/residence-permit#for-self-employment)**
 
-If your residence permit allows you be self-employed, you can have a side business, but you must keep your job. Your job must be your main source of income. If this changes, you must [apply for a freelance visa](/guides/freelance-visa).
+Some residence permits allow *part-time* self-employment. You must keep your job, and it must be your main source of income. To be self-employed full-time, you might need to [apply for a freelance visa](/guides/freelance-visa).
 
 ### Does your employer let you freelance?
 

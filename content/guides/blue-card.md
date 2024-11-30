@@ -189,7 +189,9 @@ Check if the information on your card is correct. The *Ausländerbehörde* somet
 
 Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, or that you can only work for your current employer.
+You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your Blue Card. For example, it can say that you can freelance, that you can only work for your current employer, or that you can only work in your profession.
+
+**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
 
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your Blue Card. This lets you use your Blue Card to log into online government services.
 

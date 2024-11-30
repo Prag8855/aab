@@ -18,4 +18,4 @@ When you get your [residence permit](/glossary/Aufenthaltstitel), you also get a
 
 The *Zusatzblatt* tells you if you can work, what kind of work you can do, and if you can be self-employed.
 
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-your-zusatzblatt)**
+**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**

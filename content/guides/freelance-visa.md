@@ -181,6 +181,8 @@ Your freelance visa is a plastic card. The expiration date is written on it. It'
 
 You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your freelance visa. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to be self-employed, and have a side job. - [More information](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/)
 
+**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
+
 You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your freelance visa. This lets you use your freelance visa to log into online government services.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}

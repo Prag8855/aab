@@ -144,16 +144,18 @@ If you qualify, you can also apply for [permanent residence](/glossary/Niederlas
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
-## How to read your Zusatzblatt
+## How to read the Zusatzblatt
 
-Your current residence permit might allow self-employment. Look for these lines on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*:
+Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. This piece of paper explains the conditions of your residence permit. For example, what kind of work you can do, and which employer you can work for.
 
-- *[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)* (all occupations are allowed, including self-employment)[^16]
-- *[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)* (self-employment is allowed)[^17]
+[![Zusatzblatt for a residence permit](/images/aufenthaltstitel-zusatzblat-back-web.png "Zusatzblatt for a freelance visa")](/images/aufenthaltstitel-zusatzblat-back-web.png)
 
-If your [work visa](/glossary/Work%20Visa) or [[Blue Card]] allows self-employment, you can freelance part-time. To freelance full-time, you need a freelance visa.[^18]
+This is what those lines mean:
 
-**[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
+- **[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)**  
+    All occupations are allowed. You can do any kind of work, including self-employment.[^16]
+- **[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)**  
+    Self-employment is allowed.[^17] If it's a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], part-time self-employment is allowed, but must keep your job, and your job must be your main source of income.[^10]
 
 ## Need help?
 
@@ -174,8 +176,7 @@ If your [work visa](/glossary/Work%20Visa) or [[Blue Card]] allows self-employme
 [^13]: Citation needed
 [^14]: Citation needed - Verify
 [^15]: Citation needed
-[^16]: Citation needed
+[^16]: Citation needed, [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit) (verify)
 [^17]: Citation needed
-[^18]: Citation needed
 [^19]: Citation needed
 [^20]: Citation needed
