@@ -62,19 +62,23 @@ If you don't have a job offer:
 - **[[Job seeker visa]]**  
     For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card). The [opportunity card](/glossary/Chancenkarte) is a better option, because you can work 20 hours per week.
 
-
-### Residence permits to start a business
+### For self-employment
 
 - **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/freelance-visa)  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
 
-The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] sometimes allow self-employment. Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. If it says *[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)* or *[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)*, you can be self-employed *in addition* to your job. You must keep your job, and it must be your main source of income.[^10]
+Other residence permits sometimes allow self-employment:
 
-By default, the [student visa](/glossary/Student%20visa) does allow self-employment. You must get permission from the *[[Ausländerbehörde]]* first. They will update your student visa, and let you study and run a business at the same time. - [More information](/guides/freelance-visa)
-
-If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you can be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
-
-**[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
+- **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
+    Part-time self-employment is sometimes allowed. Check your *Zusatzblatt*. You must keep your job, and your job must be your main source of income.[^10]
+- **[[Student visa]]**  
+    Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. Check your *Zusatzblatt*.[^8]
+- **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
+    Self-employment is *sometimes* allowed. - [More information](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/)[^15]
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+    You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
+- **Other residence permits**  
+    Check your *Zusatzblatt* to see if self-employment is allowed.
 
 ### Residence permits to study
 
