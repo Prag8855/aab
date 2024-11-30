@@ -17,26 +17,20 @@ With a residence permit, you can...
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Who needs a German residence permit?
+## Who needs a residence permit?
 
-Most people need a residence permit to live in Germany for more than 90 days.[^11] It depends on your citizenship:
+**Most people** need a residence permit to live in Germany, but there are exceptions.
 
-- **[[European Union]], Iceland, Liechtenstein or Norway**  
-    You don't need a residence permit. You can already live, work and study in Germany.[^0] If you work in Germany, you still need to [register your address](/guides/anmeldung-in-english-berlin), get a [tax ID](/glossary/Steueridentifikationsnummer), and get [German health insurance](/guides/german-health-insurance).
-- **Switzerland**  
-    You need a residence permit, but you can get any job you want.[^1] - [More information](https://service.berlin.de/dienstleistung/324287/en/)
-- **{{AUFENTHV_41_COUNTRIES}}**[^2]  
-    You need a residence permit to work, study, or freelance in Germany. You can visit in Germany for up to 90 days without a visa.[^3] You can apply for a residence permit in Germany, or in your home country.
-- **Any other country**  
-    You need a [job seeker visa](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers) to [look for work](/guides/find-a-job-in-berlin) in Germany.[^3] You need a residence permit to work, study, or freelance in Germany. You might need a [[Schengen visa]] to visit Germany as a tourist. You can't convert a Schengen visa to a residence permit.[^4]
+These people don't need a residence permit:
 
-**If you are a German [permanent resident](/glossary/Niederlassungserlaubnis)**, you can already live, work and study in Germany. You do not need another residence permit. You don't need permission to change jobs or start a business.
-
-**If you want to visit Germany as a tourist**, you don't need a residence permit, but you might need a [[Schengen visa]].
-
-**[Who needs a visa to visit Germany? ➞](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**
-
-**[Which visa should you apply for? ➞](https://digital.diplo.de/navigator/en/visa)**
+- **[[European Union]] and [[EEA]] citizens**[^0]  
+    You can already live, work, study or start a business in Germany.
+- **Swiss citizens**  
+    You can already live, work, study or start a business in Germany. After you move to Germany, you have 3 months to [inform the *Ausländerbehörde*](https://service.berlin.de/dienstleistung/324287/en/).
+- **[Permanent residents](/glossary/Niederlassungserlaubnis)**  
+    You can already live, work, study or start a business in Germany.
+- **Visitors**  
+    You can visit Germany for 90 days in a 180 day period without a residence permit.[^13] You might need a [[Schengen visa]] to visit Germany. - [Who needs a Schengen visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)
 
 ## Types of residence permits
 
@@ -141,4 +135,4 @@ After a few years, you might qualify for German [permanent residence](/glossary/
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^11]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
-[^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)
+[^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)[^13]: Citation needed
