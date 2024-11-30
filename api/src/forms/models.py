@@ -160,10 +160,16 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
     def subject(self) -> str:
         return f"Health insurance question from {self.name} (All About Berlin)"
 
+    class Meta(ScheduledMessage.Meta):
+        pass
+
 
 class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     subject = 'Feather will contact you soon'
     template = 'health-insurance-question-confirmation.html'
+
+    class Meta(ScheduledMessage.Meta):
+        pass
 
 
 class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
@@ -177,6 +183,9 @@ class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Scheduled
     @property
     def subject(self) -> str:
         return f"Pension refund question from {self.name} (All About Berlin)"
+
+    class Meta(ScheduledMessage.Meta):
+        pass
 
 
 pension_refund_partners = {
@@ -208,12 +217,18 @@ class PensionRefundRequest(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledM
     def subject(self) -> str:
         return f"Pension refund request from {self.name} (All About Berlin)"
 
+    class Meta(ScheduledMessage.Meta):
+        pass
+
 
 class PensionRefundReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     refund_amount = models.PositiveIntegerField()
 
     subject = "Reminder: you can now get your German pension payments back"
     template = 'pension-refund-reminder.html'
+
+    class Meta(ScheduledMessage.Meta):
+        pass
 
 
 def in_8_weeks():
@@ -331,6 +346,9 @@ class ResidencePermitFeedback(Feedback):
                     delivery_date=timezone.now() + relativedelta(months=6)
                 )
 
+    class Meta(Feedback.Meta):
+        pass
+
 
 class ResidencePermitFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     feedback = models.ForeignKey(ResidencePermitFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
@@ -338,12 +356,18 @@ class ResidencePermitFeedbackReminder(RecipientIsSenderMixin, EmailMixin, Schedu
     subject = "Did you get your residence permit?"
     template = 'residence-permit-feedback-reminder.html'
 
+    class Meta(ScheduledMessage.Meta):
+        pass
+
 
 class TaxIdRequestFeedbackReminder(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     delivery_date = models.DateTimeField(default=in_8_weeks)
 
     subject = "Did you receive your tax ID?"
     template = 'tax-id-request-feedback-reminder.html'
+
+    class Meta(ScheduledMessage.Meta):
+        pass
 
 
 scheduled_message_models = [
