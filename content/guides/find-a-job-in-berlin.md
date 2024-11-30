@@ -14,7 +14,7 @@ This guide helps you find a job in Berlin, from finding job listings to your fir
 
 ### Can you work in Germany?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any [residence permit that allows employment](/guides/residence-permit#residence-permits-to-work).
+You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any [residence permit that allows employment](/guides/residence-permit#for-work).
 
 **[Who needs a residence permit? ➞](/guides/residence-permit)**
 

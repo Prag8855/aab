@@ -424,7 +424,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^42]: Multiple relocation consultants (November 2023)
 [^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
 [^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
-[^45]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^46]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^47]: [Fiona Macdonald](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
 [^48]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/) (June 2024), [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
