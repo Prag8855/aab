@@ -7,12 +7,13 @@ Date_created: 2024-07-30
 
 If you lived in Germany for a few years, you can become a permanent resident.
 
-Permanent residents can...
+As a permanent resident, you can...
 
 - Live in Germany
 - Work, study and freelance without the *[[Ausländerbehörde]]*'s permission
 - Bring their family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
+- Become citizens after 5 years
 
 {% include "_blocks/tableOfContents.html" %}
 

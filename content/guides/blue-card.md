@@ -17,6 +17,7 @@ With a Blue Card, you can...
 - Bring your family to Germany[^14]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 27 months (21 months if you speak B1 German)[^10]
+- Become a citizen after 5 years
 
 This guide explains how to apply for a [[Blue Card]] in Berlin or in your country.
 
