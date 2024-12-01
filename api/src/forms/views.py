@@ -80,7 +80,10 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
             for param in params
             if param in self.request.query_params
         }
-        return self.queryset.filter(first_response_date__isnull=False, **filters)
+        if self.action == 'list':
+            # Filter out useless feedback, but allow retrieving a single item anyway
+            filters['first_response_date__isnull'] = False
+        return self.queryset.filter(**filters)
 
     def list(self, request, *args, **kwargs):
         response = super().list(request, *args, **kwargs)
