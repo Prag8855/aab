@@ -1,5 +1,5 @@
 ---
-Title: Lost and found in Berlin - how to get your things back
+Title: Lost and found in Berlin — how to get your things back
 Short_title: Where to find lost things
 Description: What to do if you forgot something on the train, or simply lost it somewhere in Berlin.
 Date_created: 2019-11-28
