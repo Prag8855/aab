@@ -196,7 +196,7 @@ You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*
 
 **[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
 
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your work visa. This lets you use your work visa to log into online government services.
+You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your work visa. This lets you use your work visa to log into online government services.
 
 {% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
@@ -291,7 +291,7 @@ To convert your National Visa into a work visa:
     During the appointment, they take your fingerprints for your work visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your work visa.{{ fail_on('2025-01-15') }}
 3. **Pick up your work visa**  
     Go to your second *Ausländerbehörde* appointment to collect your work visa. Bring your passport and your old residence permit.
-4. **[Activate your eID ➞](#activate-your-eid)** (optional)
+4. **[Activate your eID ➞](/guides/residence-permit#activate-your-eid)** (optional)
 
 Your work visa is a plastic card. It's valid for up to 3 years. You can [renew it](#renew-your-work-visa) before it expires.
 
@@ -342,25 +342,15 @@ If you apply in person, print everything. Use A4 paper. Do not staple the pages 
 
 ## After you get your work visa
 
+**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-residence-permit)**
+
 ### Give feedback
 
-Your feedback helps thousands of people plan their work visa application.
+Tell me how long it took to get your work visa. Your feedback helps thousands of people plan their application.
 
 {% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
 **[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
-
-### Bring your family to Germany
-
-The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
-
-You can apply for it at the same time as your work visa.
-
-### Activate your [[eID]]
-
-You can use your work visa to log into online government services. For example, you can use it to apply for [unemployment benefits](/glossary/ALG%20I). You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
-
-**[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
 
 ### If you change jobs
 
@@ -389,18 +379,6 @@ Your work visa lets you visit other [[Schengen area]] countries without a visa. 
 Your work visa might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/residence-permit#how-to-read-the-zusatzblatt) to see if it's allowed.
 
 To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
-
-### Make a tax declaration
-
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts and proofs of payment. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay a little less [income tax](/glossary/Einkommensteuer). If you hire a lawyer or a relocation consultant, their fee is also tax-deductible.
-
-### Renew your work visa
-
-Your work visa is valid for up to 3 years. You must renew it around 8 weeks before it expires, not sooner. The process is the same: you must [use the contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send your documents. Your documents must prove that you still meet the work visa requirements.
-
-**[How to renew a residence permit ➞](/guides/residence-permit#how-to-renew-a-residence-permit)**
-
-You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ### Apply for permanent residence
 

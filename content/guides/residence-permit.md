@@ -132,6 +132,32 @@ It's often better if you apply in your home country. You can start working as so
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
+## After you get your residence permit
+
+### Give feedback
+
+Tell me how long it took to get your residence permit. Your feedback helps thousands of people plan their application.
+
+{% include "_blocks/feedbackResidencePermit/allTypes.html" %}
+
+**[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
+
+### Bring your family to Germany
+
+The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
+
+You can apply for it at the same time as your residence permit.
+
+### Activate your [[eID]]
+
+You can use your residence permit to log into online government services. For example, you can use it to [change your address](/guides/address-change) or apply for [unemployment benefits](/glossary/ALG%20I). You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
+
+**[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
+
+### Make a tax declaration
+
+Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts and proofs of payment. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay a little less [income tax](/glossary/Einkommensteuer). If you hire a lawyer or a relocation consultant, their fee is also tax-deductible.
+
 ## How to renew a residence permit
 
 Your residence permit is valid for 6 months to 4 years. When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 8 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-06-01') }}
@@ -142,7 +168,7 @@ The *[[Ausländerbehörde]]* will check if you still meet all the requirements o
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-If you qualify, you can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship.
+If you qualify, you can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. This is always a better option.
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 

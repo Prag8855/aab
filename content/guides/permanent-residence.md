@@ -309,7 +309,7 @@ Go to your second *[[Ausländerbehörde]]* appointment to pick up your permanent
 
 Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.[^70]
 
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
+You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
 
 {% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 

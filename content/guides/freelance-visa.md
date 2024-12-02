@@ -183,7 +183,7 @@ You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*
 
 **[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
 
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](#activate-your-eid) of your freelance visa. This lets you use your freelance visa to log into online government services.
+You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your freelance visa. This lets you use your freelance visa to log into online government services.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
@@ -255,7 +255,7 @@ To convert your National Visa into a freelance visa:
     During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your freelance visa.{{ fail_on('2025-01-15') }}
 3. **Pick up your freelance visa**  
     Go to your second *Ausländerbehörde* appointment to collect your freelance visa. Bring your passport and your old residence permit.
-4. **[Activate your eID ➞](#activate-your-eid)** (optional)
+4. **[Activate your eID ➞](/guides/residence-permit#activate-your-eid)** (optional)
 
 Your freelance visa is a plastic card. It's valid for up to 3 years. You can [renew it](/guides/renew-german-freelance-visa) before it expires.
 
@@ -384,25 +384,15 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 
 ## After you get your freelance visa
 
+**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-residence-permit)**
+
 ### Give feedback
 
-Your feedback helps thousands of people plan their freelance visa application.
+Tell me how long it took to get your freelance visa. Your feedback helps thousands of people plan their application.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 **[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
-
-### Bring your family to Germany
-
-The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
-
-You can apply for it at the same time as your freelance visa.
-
-### Activate your [[eID]]
-
-You can use your freelance visa to log into online government services. For example, you need it for the *[[Gewerbeanmeldung]]*. You must activate this feature at the *[[Ausländerbehörde]]*. **Activate your eID before you need it.**
-
-**[How to activate your eID ➞](/guides/eid-online-ausweisfunktion)**
 
 ### Join the Künstlersozialkasse
 
@@ -419,10 +409,6 @@ You can use your freelance visa to log into online government services. For exam
 Your freelance visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your freelance visa expires.
 
 **[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
-
-### Make a tax declaration
-
-Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar), so keep all your receipts and proofs of payment. Include them in your [tax declaration](/glossary/Steuererklärung). You will pay a little less [income tax](/glossary/Einkommensteuer). If you hire a lawyer or a relocation consultant, their fee is also tax-deductible.
 
 ### Renew your freelance visa
 
