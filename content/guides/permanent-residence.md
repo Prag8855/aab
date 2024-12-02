@@ -432,7 +432,9 @@ You can use your permanent residence card to log into online government services
 
 With a [PR](/glossary/Niederlassungserlaubnis), you can visit other [[Schengen area]] countries without a visa.
 
-If you have German permanent residence, it expires after 6 months outside of Germany. If you have [EU permanent residence](#eu-permanent-residence), it expires after 12 to 24 months outside the EU, or 6 years in another EU country.[^13] To travel longer, you can get permission from the *[[Ausländerbehörde]]*.
+If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have [EU permanent residence](#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^13]
+
+**[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
 
 ### Make a tax declaration
 

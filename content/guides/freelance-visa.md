@@ -414,11 +414,11 @@ You can use your freelance visa to log into online government services. For exam
 
 **If you publish texts or run a website**, you should also join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
 
-### If you travel with a freelance visa
+### Travel with a freelance visa
 
-Your freelance visa lets you visit other [[Schengen area]] countries without a visa.
+Your freelance visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your freelance visa expires.
 
-With a freelance visa, you can leave Germany for up to 6 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+**[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
 
 ### Make a tax declaration
 

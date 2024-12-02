@@ -355,11 +355,11 @@ While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I)
 
 **[How to get unemployment benefits ➞](/guides/unemployment-benefits)**
 
-### If you travel with a Blue Card
+### Travel with a Blue Card
 
-Your Blue Card lets you visit other [[Schengen area]] countries without a visa.
+Your Blue Card lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 12 months.[^23] If you travel longer, your Blue Card expires.
 
-With a Blue Card, you can leave Germany for up to 12 months.[^23] To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+**[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
 
 ### Self-employment with a Blue Card
 

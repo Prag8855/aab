@@ -146,6 +146,16 @@ If you qualify, you can also apply for [permanent residence](/glossary/Niederlas
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
+## Travel with a residence permit
+
+Your residence permit lets you travel in the [[Schengen area]] without a visa.
+
+If you travel outside Germany for more than 6 months, your residence permit expires.[^22] The [[Blue Card]] lets you travel for 12 months.
+
+If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have [EU permanent residence](/guides/permanent-residence#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^21]
+
+To travel longer, you need permission from the *[[Ausländerbehörde]]*.
+
 ## How to read the Zusatzblatt
 
 Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. This piece of paper explains the conditions of your residence permit. For example, what kind of work you can do, and which employer you can work for.
@@ -183,6 +193,8 @@ This is what those lines mean:
 [^15]: Citation needed
 [^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit), [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)
 [^17]: Citation needed
+[^18]: Citation needed, [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/nebenberufliche-selbststaendigkeit/#:~:text=viele%20arbeitsvertrage%20enthalten%20regelungen), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)
 [^19]: Citation needed
 [^20]: Citation needed
-[^18]: Citation needed, [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/nebenberufliche-selbststaendigkeit/#:~:text=viele%20arbeitsvertrage%20enthalten%20regelungen), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)
+[^21]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [se-legal.de](https://se-legal.de/services/immigration-lawyer-germany/permanent-eu-residence-permit/?lang=en#:~:text=if%20you%20reside%20outside%20of%20germany%20for%20a%20sufficient%20time) (July 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/#DA-EU) (July 2024), [Hamburg](https://welcome.hamburg.com/entry-and-residence/residence-permit/permanent-ec-17654) (July 2024)
+[^22]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
