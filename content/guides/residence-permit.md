@@ -23,10 +23,10 @@ With a residence permit, you can...
 
 These people don't need a residence permit:
 
-- **[[European Union]] and [[EEA]] citizens**[^0]  
-    You can already live, work, study or start a business in Germany.
+- **[[European Union]] and [[EEA]] citizens**  
+    You can already live, work, study or start a business in Germany.[^0]
 - **Swiss citizens**  
-    You can already live, work, study or start a business in Germany. After you move to Germany, you have 3 months to [inform the *Ausländerbehörde*](https://service.berlin.de/dienstleistung/324287/en/).
+    You can already live, work, study or start a business in Germany. After you move to Germany, you have 3 months to [inform the *Ausländerbehörde*](https://service.berlin.de/dienstleistung/324287/en/).[^1]
 - **[Permanent residents](/glossary/Niederlassungserlaubnis)**  
     You can already live, work, study or start a business in Germany.
 - **Visitors**  
@@ -80,7 +80,7 @@ Other residence permits sometimes allow self-employment:
 - **[[Student visa]]**  
     Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. [Check your *Zusatzblatt*.](#how-to-read-the-zusatzblatt)[^8]
 - **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
-    Self-employment is *sometimes* allowed. - [More information](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/)[^15]
+    Self-employment is [sometimes](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/) allowed.
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. There is no income or education requirement.[^20]
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
@@ -202,15 +202,13 @@ This is what those lines mean:
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
-[^1]: [expatica.com](https://www.expatica.com/de/moving/visas/germany-visas-102738/), [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
+[^1]: [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
 [^2]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^3]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
-[^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/studium/#:~:text=auf%20antrag%20kann%20die%20selbstandige%20tatigkeit%20fur%20studenten%20), [§21 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [germany-visa.org](https://www.germany-visa.org/de/einwanderung-aufenthaltsgenehmigung/aufenthaltserlaubnis-internationale-studenten-deutschland/#:~:text=freiberufler%20und%20selbstandige), [Mainz University](https://web.archive.org/web/20230328085134/https://www.studium.uni-mainz.de/files/2015/09/Arbeitsm%C3%B6glichkeiten-von-ausl%C3%A4ndischen-Studierenden-was-erlaubt-ist-und-was-zu-beachten-ist.pdf) (2015), [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
-[^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^11]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
 [^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)
