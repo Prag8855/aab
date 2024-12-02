@@ -34,7 +34,7 @@ These people don't need a residence permit:
 
 ## Types of residence permits
 
-**[Full list of residence permits ➞](https://digital.diplo.de/navigator/en/visa)**[^14]
+**[Find the right visa or residence permit ➞](https://digital.diplo.de/navigator/en/visa)**
 
 ### For work
 
@@ -78,11 +78,11 @@ Other residence permits sometimes allow self-employment:
 - **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
     Part-time self-employment is sometimes allowed. [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt). You must keep your job, and your job must be your main source of income.[^10] Your part-time business should not compete with your employer's business.[^18]
 - **[[Student visa]]**  
-    Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. [Check your *Zusatzblatt*.](#how-to-read-the-zusatzblatt)[^8]
+    You usually need permission from the *[[Ausländerbehörde]]* to be self-employed during your studies.[^4] In Berlin, student visas usually allow self-employment. [Check your *Zusatzblatt*.](#how-to-read-the-zusatzblatt)[^8]
 - **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
     Self-employment is [sometimes](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/) allowed.
 - **[[Family reunion visa]]**  
-    For spouses and children of German residents. There is no income or education requirement.[^20]
+    For spouses and children of German residents. There is no income or education requirement.[^19]
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
     You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
@@ -205,20 +205,18 @@ This is what those lines mean:
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
 [^2]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^3]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^4]: [existenzgruendungsportal.de](https://www.existenzgruendungsportal.de/Redaktion/DE/BMWK-Infopool/Antworten/Gruendungsplanung/Student-aus-dem-Ausland-selbstaendig-waehrend-des-Studiums.html) (February 2021), [tu-freiberg.de](https://tu-freiberg.de/news/arbeiten-neben-dem-studium-neue-regelungen-ab-1-maerz-2024#:~:text=selbststandige%20tatigkeiten%20nur%20mit%20genehmigung%20der%20auslanderbehorde%20ausuben) (February 2024), [City of Munich](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#id3) (December 2024), [Nürnberg does not allow it](https://www.nuernberg.de/internet/auslaenderbehoerde/aufenthaltstitel_zum_studium.html) (December 2024)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
-[^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/studium/#:~:text=auf%20antrag%20kann%20die%20selbstandige%20tatigkeit%20fur%20studenten%20), [§21 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [germany-visa.org](https://www.germany-visa.org/de/einwanderung-aufenthaltsgenehmigung/aufenthaltserlaubnis-internationale-studenten-deutschland/#:~:text=freiberufler%20und%20selbstandige), [Mainz University](https://web.archive.org/web/20230328085134/https://www.studium.uni-mainz.de/files/2015/09/Arbeitsm%C3%B6glichkeiten-von-ausl%C3%A4ndischen-Studierenden-was-erlaubt-ist-und-was-zu-beachten-ist.pdf) (2015), [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
+[^8]: [Berlin.de](https://service.berlin.de/dienstleistung/305244/#:~:text=als%20nebenerwerb%20ist%20auch%20eine%20selbstandige%20tatigkeit%20gestattet) (December 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/studium/#:~:text=eine%20selbstandige%20tatigkeit%20(auch%20freiberuflich)%20ist%20mit%20der%20durch%20das%20landesamt%20fur%20einwanderung%20erteilten%20aufenthaltserlaubnis%20als%20nebenerwerb%20gestattet) (December 2024)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^11]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
 [^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)
 [^13]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
-[^14]: Citation needed - Verify
-[^15]: Citation needed
-[^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit), [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)
-[^17]: Citation needed
+[^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit), [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php#:~:text=Ihr%20Aufenthaltstitel%20enth%C3%A4lt,freiberuflich%20t%C3%A4tig%20sein) (December 2024), [Handbook Germany](https://handbookgermany.de/en/self-employment#:~:text=your%20residence%20permit%20must%20explicitly%20state) (December 2024)
+[^17]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php#:~:text=Ihr%20Aufenthaltstitel%20enth%C3%A4lt,freiberuflich%20t%C3%A4tig%20sein) (December 2024), [Handbook Germany](https://handbookgermany.de/en/self-employment#:~:text=your%20residence%20permit%20must%20explicitly%20state) (December 2024)
 [^18]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
-[^19]: Citation needed
-[^20]: Citation needed
+[^19]: [berlin.de](https://service.berlin.de/dienstleistung/305289/en/) (December 2024)
 [^21]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [se-legal.de](https://se-legal.de/services/immigration-lawyer-germany/permanent-eu-residence-permit/?lang=en#:~:text=if%20you%20reside%20outside%20of%20germany%20for%20a%20sufficient%20time) (July 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/#DA-EU) (July 2024), [Hamburg](https://welcome.hamburg.com/entry-and-residence/residence-permit/permanent-ec-17654) (July 2024)
 [^22]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)

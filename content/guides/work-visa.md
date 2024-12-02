@@ -293,7 +293,7 @@ To convert your National Visa into a work visa:
     Go to your second *Ausländerbehörde* appointment to collect your work visa. Bring your passport and your old residence permit.
 4. **[Activate your eID ➞](/guides/residence-permit#activate-your-eid)** (optional)
 
-Your work visa is a plastic card. It's valid for up to 3 years. You can [renew it](#renew-your-work-visa) before it expires.
+Your work visa is a plastic card. It's valid for up to 3 years. You can [renew it](/guides/residence-permit#how-to-renew-a-residence-permit) before it expires.
 
 ## Required documents
 
