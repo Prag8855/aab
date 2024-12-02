@@ -30,7 +30,7 @@ These people don't need a residence permit:
 - **[Permanent residents](/glossary/Niederlassungserlaubnis)**  
     You can already live, work, study or start a business in Germany.
 - **Visitors**  
-    You can visit Germany for 90 days in a 180 day period without a residence permit.[^13] You might need a [[Schengen visa]] to visit Germany. - [Who needs a Schengen visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)
+    If you visit Germany (and other [Schengen countries](/glossary/Schengen%20area)) for less than 90 days in a 180 day period, you don't need a residence permit.[^13] You might still need a [[Schengen visa]]. - [Who needs a Schengen visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)
 
 ## Types of residence permits
 
@@ -178,7 +178,7 @@ This is what those lines mean:
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
 [^11]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
 [^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)
-[^13]: Citation needed
+[^13]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
 [^14]: Citation needed - Verify
 [^15]: Citation needed
 [^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit), [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)
