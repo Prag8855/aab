@@ -335,7 +335,7 @@ You can use your Blue Card to log into online government services. For example, 
 
 ### Renew your Blue Card
 
-Your Blue Card is valid for up to 4 years. You must renew it around 8 weeks before it expires. To renew your Blue Card, you must use [the same form](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index?lang=en) you used to apply for your Blue Card, or [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait). You can't get an appointment for this.
+Your Blue Card is valid for up to 4 years. In Berlin, you must renew it around 8 weeks before it expires, not sooner.[^16] To renew your Blue Card, you must use [the same form](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index?lang=en) you used to apply for your Blue Card, or [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait). You can't get an appointment for this.
 
 You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you can get it after 21 months.[^10]
 
@@ -398,6 +398,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^13]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20travel%20to%20the%20following%20countries%20in%20the%20schengen%20area)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
+[^16]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment)
 [^17]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^19]: Multiple relocation consultants (October 2023)

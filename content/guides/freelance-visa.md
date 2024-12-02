@@ -426,7 +426,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 ### Renew your freelance visa
 
-Your freelance visa is valid for up to 3 years. You must renew it around 8 weeks before it expires.
+Your freelance visa is valid for up to 3 years. You must renew it around 8 weeks before it expires, not sooner.
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 

@@ -396,7 +396,11 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 ### Renew your work visa
 
-Your work visa is valid for up to 3 years. You must renew it around 8 weeks before it expires.
+Your work visa is valid for up to 3 years. You must renew it around 8 weeks before it expires, not sooner. The process is the same: you must [use the contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send your documents. Your documents must prove that you still meet the work visa requirements.
+
+**[How to renew a residence permit ➞](/guides/residence-permit#how-to-renew-a-residence-permit)**
+
+You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 ### Apply for permanent residence
 

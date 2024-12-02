@@ -134,9 +134,11 @@ It's often better if you apply in your home country. You can start working as so
 
 ## How to renew a residence permit
 
-Your residence permit is valid for 6 months to 4 years. Around 8 weeks before it expires, you must renew it at the *[[Ausländerbehörde]]*. It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-06-01') }}
+Your residence permit is valid for 6 months to 4 years. When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 8 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-06-01') }}
 
-The *[[Ausländerbehörde]]* will check if you still meet all the requirements for your residence permit. You might need to bring a lot of documents, so you must prepare in advance.
+The *[[Ausländerbehörde]]* will check if you still meet all the requirements of your residence permit. You need a few documents to prove this. Start preparing them in advance.
+
+**[How to renew a Blue Card ➞](/guides/blue-card#renew-your-blue-card)**
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
@@ -174,7 +176,7 @@ This is what those lines mean:
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/studium/#:~:text=auf%20antrag%20kann%20die%20selbstandige%20tatigkeit%20fur%20studenten%20), [§21 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [germany-visa.org](https://www.germany-visa.org/de/einwanderung-aufenthaltsgenehmigung/aufenthaltserlaubnis-internationale-studenten-deutschland/#:~:text=freiberufler%20und%20selbstandige), [Mainz University](https://web.archive.org/web/20230328085134/https://www.studium.uni-mainz.de/files/2015/09/Arbeitsm%C3%B6glichkeiten-von-ausl%C3%A4ndischen-Studierenden-was-erlaubt-ist-und-was-zu-beachten-ist.pdf) (2015), [jurati.de](https://www.jurati.de/migrationsrecht/aufenthaltserlaubnis-fuer-studenten-und-absolventen/#:~:text=eine%20selbstandige%20tatigkeit%20ist%20allerdings%20regelma%C3%9Fig%20ausgeschlossen.), [muenchen.de](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#:~:text=als%20studentische%20Hilfskraft-,selbstandige%20erwerbstatigkeit,-Studierende%20aus%20Nicht), [ToyTown Germany](https://www.toytowngermany.com/forum/topic/310253-freelancing-on-student-visa/) (2013)
 [^9]: [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php)
 [^10]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=and%20you%20lose%20or%20quit%20that%20job)
-[^11]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
+[^11]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=When%20should%20I%20book%20an%20appointment), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=You%20hold%20a%20national%20visa)
 [^12]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#c1231)
 [^13]: Citation needed
 [^14]: Citation needed - Verify
