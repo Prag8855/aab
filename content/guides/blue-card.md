@@ -357,6 +357,8 @@ Your Blue Card lets you visit other [[Schengen area]] countries without a visa. 
 
 Your Blue Card might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/residence-permit#how-to-read-the-zusatzblatt) to see if it's allowed.
 
+Check your work contract too. You might need to tell your employer about your self-employment. Your employer might forbid self-employment if it competes with their business. For example, don't start a marketing agency while you work for another marketing agency. They can't forbid all self-employment without a reason.[^22]
+
 To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
 
 ### Apply for permanent residence
@@ -392,6 +394,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
+[^22]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^23]: [§51 Abs. 10 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^24]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf)

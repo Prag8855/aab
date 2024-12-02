@@ -76,7 +76,7 @@ If you don't have a job offer:
 Other residence permits sometimes allow self-employment:
 
 - **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
-    Part-time self-employment is sometimes allowed. [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt). You must keep your job, and your job must be your main source of income.[^10] Your work contract might not allow self-employment.[^18]
+    Part-time self-employment is sometimes allowed. [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt). You must keep your job, and your job must be your main source of income.[^10] Your part-time business should not compete with your employer's business.[^18]
 - **[[Student visa]]**  
     Usually, student visas do not allow self-employment. You usually need permission from the *[[Ausländerbehörde]]* to study and freelance at the same time. In Berlin, *some* student visas allow self-employment. [Check your *Zusatzblatt*.](#how-to-read-the-zusatzblatt)[^8]
 - **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
@@ -219,7 +219,7 @@ This is what those lines mean:
 [^15]: Citation needed
 [^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit), [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)
 [^17]: Citation needed
-[^18]: Citation needed, [allrecht.de](https://www.allrecht.de/alles-was-recht-ist/nebenberufliche-selbststaendigkeit/#:~:text=viele%20arbeitsvertrage%20enthalten%20regelungen), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/eyz0x9/freelancing_with_full_time_work_visa/)
+[^18]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^19]: Citation needed
 [^20]: Citation needed
 [^21]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [se-legal.de](https://se-legal.de/services/immigration-lawyer-germany/permanent-eu-residence-permit/?lang=en#:~:text=if%20you%20reside%20outside%20of%20germany%20for%20a%20sufficient%20time) (July 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/#DA-EU) (July 2024), [Hamburg](https://welcome.hamburg.com/entry-and-residence/residence-permit/permanent-ec-17654) (July 2024)

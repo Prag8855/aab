@@ -378,6 +378,8 @@ Your work visa lets you visit other [[Schengen area]] countries without a visa. 
 
 Your work visa might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/residence-permit#how-to-read-the-zusatzblatt) to see if it's allowed.
 
+Check your work contract too. You might need to tell your employer about your self-employment. Your employer might forbid self-employment if it competes with their business. For example, don't start a marketing agency while you work for another marketing agency. They can't forbid all self-employment without a reason.[^16]
+
 To become self-employed full-time, you must [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
 
 ### Apply for permanent residence
@@ -400,13 +402,14 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
-[^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
+[^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa) (December 2024)
 [^10]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^11]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
 [^12]: [§18 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
-[^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
+[^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [§18 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
+[^16]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^17]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
 [^19]: Multiple relocation consultants (October 2023)
