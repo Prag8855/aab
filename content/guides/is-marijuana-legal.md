@@ -11,7 +11,7 @@ This guide explains the current laws about cannabis in Germany.
 
 ## Is recreational marijuana legal?
 
-**Yes, recreational marijuana is legal** since April 1.{{ fail_on('2024-12-01')}} There are many restrictions:[^15]
+**Yes, recreational marijuana is legal** since April 1, 2024. There are many restrictions:[^15]
 
 **Who** can smoke:
 
