@@ -59,7 +59,7 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 
 **You do not need a degree** or relevant education, except [if your profession requires it](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession). For example, you can't be a lawyer without a law degree, but you can be a software developer or a photographer.[^12]
 
-If you can't get a freelance visa, there are [other residence permits](/guides/residence-permit#for-self-employment) that let you [start a business](/guides/start-a-business-in-germany) in Germany. Your current residence permit might allow self-employment.
+If you can't get a freelance visa, there are [other residence permits](/guides/residence-permit#for-self-employment) that let you [start a business](/guides/start-a-business-in-germany) in Germany. If you have a work visa or a Blue Card, it might be easier to [apply for permanent residence](/guides/permanent-residence). Your current residence permit might also allow self-employment.
 
 **[Freelance visa alternatives ➞](/guides/residence-permit#for-self-employment)**
 
