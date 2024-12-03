@@ -75,7 +75,7 @@ You can apply in Germany if...
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you already have a Blue Card from another EU country
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
-- **or** you have a [[National Visa]]. You just need to [convert it to a Blue Card](#convert-your-national-visa-into-a-blue-card).
+- **or** you have a [[National Visa]] that you must [convert to a Blue Card](#convert-your-national-visa-into-a-blue-card).
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 

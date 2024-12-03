@@ -75,7 +75,7 @@ You can apply in Germany if...
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)[^41]
-- **or** you have a [[National Visa]]. You just need to [convert it to a work visa](#convert-your-national-visa-into-a-work-visa).
+- **or** you have a [[National Visa]] that you must [convert to a work visa](#convert-your-national-visa-into-a-work-visa).
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
