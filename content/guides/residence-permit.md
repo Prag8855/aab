@@ -12,7 +12,7 @@ With a residence permit, you can...
 - Live anywhere in Germany
 - Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
-- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 2 to 5 years
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 21 to 60 months
 - Become a citizen after 5 years
 
 {% include "_blocks/tableOfContents.html" %}
@@ -31,6 +31,8 @@ These people don't need a residence permit:
     You can already live, work, study or start a business in Germany.
 - **Visitors**  
     If you visit Germany (and other [Schengen countries](/glossary/Schengen%20area)) for less than 90 days in a 180 day period, you don't need a residence permit.[^13] You might still need a [[Schengen visa]]. - [Who needs a Schengen visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)
+
+**[Do I need a residence permit? ➞](https://digital.diplo.de/navigator/en/visa)**
 
 ## Types of residence permits
 
@@ -54,7 +56,7 @@ If you have a job offer:
     For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
     For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year. Your income must be over {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. There is no education requirement.
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already take any job. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
     [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt) to see if you can work. Your current residence permit might be tied to your current employer.
@@ -83,7 +85,7 @@ Other residence permits sometimes allow self-employment:
     Self-employment is [sometimes](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/) allowed.
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. There is no income or education requirement.[^19]
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
     [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt) to see if self-employment is allowed.
@@ -96,7 +98,7 @@ Other residence permits sometimes allow self-employment:
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
 - **[[Family reunion visa]]**  
     For spouses and children of German residents.
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)**  
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already study. You don't need permission from the *[[Ausländerbehörde]]*.
 
 ### For your family
@@ -160,7 +162,9 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 ## How to renew a residence permit
 
-Your residence permit is valid for 6 months to 4 years. When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 8 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-06-01') }}
+Your residence permit is valid for 6 months to 4 years. The expiration date is written on the card.
+
+When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 8 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-06-01') }}
 
 The *[[Ausländerbehörde]]* will check if you still meet all the requirements of your residence permit. You need a few documents to prove this. Start preparing them in advance.
 
@@ -168,9 +172,11 @@ The *[[Ausländerbehörde]]* will check if you still meet all the requirements o
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-If you qualify, you can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. This is always a better option.
+You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. It's better than renewing your residence permit.
 
-**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+**[Permanent residence requirements ➞](/guides/permanent-residence#permanent-residence-requirements)**
+
+**[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
 ## Travel with a residence permit
 
@@ -190,11 +196,11 @@ Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28res
 
 This is what those lines mean:
 
-- **[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)**  
+- **"[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)"**  
     All occupations are allowed. You can do any kind of work, including self-employment.[^16]
-- **Erlischt mit Bezug von Leistungen nach dem SGB II oder SGB XII**  
+- **"Erlischt mit Bezug von Leistungen nach dem SGB II oder SGB XII"**  
     You can't receive *[[Bürgergeld]]*.[^3] You can still receive [unemployment benefits](/glossary/ALG%20I).
-- **[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)**  
+- **"[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)"**  
     Self-employment is allowed.[^17] If it's a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], part-time self-employment is allowed, but must keep your job, and your job must be your main source of income.[^10]
 
 ## Need help?
