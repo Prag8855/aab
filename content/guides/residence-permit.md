@@ -163,13 +163,18 @@ While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 ### 3. Apply online
 
-You must apply online. Some residence permits have an application form. If there is no application form for your residence permit, [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send your documents.
-
-This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
+In Berlin, you must apply online, and wait for the *Ausländerbehörde* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* without an appointment.
 
 If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply.[^2]
 
 If you already live in Germany, you must apply before your current residence permit expires.
+
+There are two ways to apply in Berlin:
+
+- **Use the application form**  
+    The Blue Card, the student visa and some other residence permits have their own application form. Use that form to apply.
+- or **use the contact form**  
+    If there is no application form for your residence permit, [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send your documents. You might need to combine and compress your documents to make them fit.
 
 ### 4. Wait
 
