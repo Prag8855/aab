@@ -130,6 +130,7 @@ class EntryImageRenderer(Renderer):
                 # Unicode strings cause problems, so a simple hash is more reliable
                 exif = image.getexif()
                 exif[exif_description_field] = self.get_hash(entry)
+                abs_image_path.parent.mkdir(parents=True, exist_ok=True)
                 image.save(abs_image_path, optimize=True, exif=exif)
 
             files_to_keep.add(image_path)
