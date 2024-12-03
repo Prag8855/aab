@@ -159,21 +159,11 @@ If they approve your freelance visa, they must print the plastic card. You will 
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
-
 ### 7. Get your freelance visa
 
-Go to your second *[[Ausländerbehörde]]* appointment to pick up your freelance visa. Bring your passport and your old residence permit.
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelance visa. Your new freelance visa is valid for up to 3 years.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
 
-Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
-
-Your freelance visa is a plastic card. The expiration date is written on it. It's **valid for up to 3 years**.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
-
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your freelance visa. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to be self-employed, and have a side job. - [More information](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/)
-
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
-
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your freelance visa. This lets you use your freelance visa to log into online government services.
+**[How to pick up your freelance visa ➞](/guides/residence-permit#pick-up-your-residence-card)**
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 

@@ -143,10 +143,10 @@ Before you apply for a residence permit, you must...
     - [ ] Your apartment must be big enough. In Berlin, you need 9 m^2^ per adult, and 6 m^2^ per child.[^20]
     - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a residence permit.[^23] - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card)**  
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the required documents**  
-    Each residence permit has different requirements. Each *[[Ausländerbehörde]]* requires different documents.
+    Each residence permit has different requirements. Each *[[Ausländerbehörde]]* requires different documents. Check the required documents for the [Blue Card](/guides/blue-card#required-documents), [work visa](/guides/work-visa#required-documents), [freelance visa](/guides/freelance-visa#required-documents) or [permanent residence](/guides/permanent-residence#required-documents).
 
 While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
@@ -194,7 +194,18 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 ### 6. Pick up your residence card
 
-...
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your residence card. Bring your passport and your old residence permit. You will get a plastic residence card and a paper *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
+
+During your appointment...
+
+- [ ] Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
+- [ ] Read your *Zusatzblatt*. It describes the conditions of your residence permit. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to work for any employer and to be self-employed.
+
+**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
+
+You will also get a letter in the mail. It's the activation code for your [[eID]]. You need it to activate the eID function of your residence card. This lets you use your residence permit to log into online government services.
+
+**[How to activate your eID ➞](/guides/residence-permit#activate-your-eid)**
 ## After you get your residence permit
 
 ### Give feedback

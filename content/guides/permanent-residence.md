@@ -293,15 +293,11 @@ You will get a document. It confirms that your permanent residence application w
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
-
 ### 5. Get your permanent residence card
 
-Go to your second *[[Ausländerbehörde]]* appointment to pick up your permanent residence card.[^34] Bring your passport and your old residence permit.
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your permanent residence card.
 
-Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.[^70]
-
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your permanent residence card. This lets you use your permanent residence card to log into online government services.
+**[How to pick up your permanent residence card ➞](/guides/residence-permit#pick-up-your-residence-card)**
 
 {% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
 
@@ -512,7 +508,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^67]: Ausländerbehörde employee (July 2024), [Elliot Herman](https://www.sorted.berlin/) (July 2024), [Aydan Baghirova](https://aydanbaghirova.de/) (July 2024)
 [^68]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^69]: Ausländerbehörde case worker (July 2024)
-[^70]: Personal experience (2021)
 [^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
 [^72]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^73]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (August 2024)

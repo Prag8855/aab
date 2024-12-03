@@ -174,21 +174,11 @@ If they approve your work visa, they must print the plastic card. You will get a
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
-
 ### 7. Get your work visa
 
-Go to your second *[[Ausländerbehörde]]* appointment to pick up your work visa. Bring your passport and your old residence permit.
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your work visa. Your new work visa is valid for up to 3 years.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 
-Check if the information on your work visa is correct. The *Ausländerbehörde* sometimes makes mistakes.
-
-Your work visa is a plastic card. The expiration date is written on it. It's usually **valid for 3 years**.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
-
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your work visa. For example, it can say that you can freelance, that you can only work for your current employer, or that you can only work in your profession.
-
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
-
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your work visa. This lets you use your work visa to log into online government services.
+**[How to pick up your work visa ➞](/guides/residence-permit#pick-up-your-residence-card)**
 
 {% include "_blocks/feedbackResidencePermit/workVisa.html" %}
 
@@ -405,7 +395,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^17]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
 [^19]: Multiple relocation consultants (October 2023)
-[^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^21]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^24]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)

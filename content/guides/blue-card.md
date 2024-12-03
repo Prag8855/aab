@@ -169,21 +169,11 @@ If they approve your Blue Card, they must print the plastic card. You will get a
 
 **[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
 
-{% include "_blocks/feedbackResidencePermit/blueCard.html" %}
-
 ### 7. Get your Blue Card
 
-Go to your second *[[Ausländerbehörde]]* appointment to pick up your Blue Card. Bring your passport and your old residence permit.
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Card. Your new Blue Card is valid for up to 3 years.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
-Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
-
-Your Blue Card is a plastic card. The expiration date is written on it. It's usually **valid for 4 years**.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
-
-You also get a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your Blue Card. For example, it can say that you can freelance, that you can only work for your current employer, or that you can only work in your profession.
-
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
-
-You will also get a letter with **the activation code for your [[eID]]**. You need it to [activate the eID function](/guides/residence-permit#activate-your-eid) of your Blue Card. This lets you use your Blue Card to log into online government services.
+**[How to pick up your Blue Card ➞](/guides/residence-permit#pick-up-your-residence-card)**
 
 {% include "_blocks/feedbackResidencePermit/blueCard.html" %}
 
