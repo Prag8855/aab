@@ -116,7 +116,7 @@ Before you apply for the work visa, you must...
     - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. - [How to choose health insurance](/guides/german-health-insurance)
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**
 
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must also...
@@ -135,7 +135,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the work visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to department B1/B2/B3/B4. Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment.
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to [department B1/B2/B3/B4](/guides/immigration-office#departments). Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment.
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
@@ -145,17 +145,9 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it takes [a few weeks](/guides/auslanderbehorde-wait-times) to get a response. Then they will email you an appointment date.
+The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
 
-In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
-
-**[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
-
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
-
-If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
-
-{% include "_blocks/feedbackResidencePermit/workVisa.html" %}
+**[What happens while you wait ➞](/guides/residence-permit#wait)**
 
 ### 6. Go to your work visa appointment
 
@@ -253,7 +245,7 @@ Before your embassy or consulate appointment, you must...
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
     Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung).
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free.
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 

@@ -37,7 +37,7 @@ When you renew your freelance visa, they verify that...
 - [ ] **You have clients in Germany**  
     You must have some invoices from clients in Germany.[^0] If all your income comes from other countries, you can't renew your freelance visa.
 - [ ] **You have valid health insurance**  
-    This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. There is more information about this [below](/guides/renew-german-freelance-visa#get-valid-health-insurance).
+    This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. - [More information ➞](#get-valid-health-insurance).
 - [ ] **You have a retirement plan**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.[^0] This is not required for citizens of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey and the United States.[^1]
 
@@ -66,7 +66,7 @@ When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health i
 
 **[Health insurance for the freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
-It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
+It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
