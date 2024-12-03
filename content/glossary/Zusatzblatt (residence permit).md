@@ -5,6 +5,7 @@ English_term: Additional information sheet
 Description: A paper sheet that comes with your residence permit. It explains the extra conditions of your residence permit.
 Date_created: 2022-01-21
 Related_guides:
+    guides/zusatzblatt.md
     guides/residence-permit.md
     guides/losing-your-job.md
     guides/german-work-visa-to-freelance-visa.md
@@ -18,4 +19,4 @@ When you get your [residence permit](/glossary/Aufenthaltstitel), you also get a
 
 The *Zusatzblatt* tells you if you can work, what kind of work you can do, and if you can be self-employed.
 
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
+**[How to read your Zusatzblatt ➞](/guides/zusatzblatt)**

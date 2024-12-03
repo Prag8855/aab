@@ -21,7 +21,7 @@ If you can, [start your business](/guides/start-a-business-in-germany) before yo
 
 If you need a residence permit to live in Germany, check if it allows self-employment. Check your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
 
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
+**[How to read your Zusatzblatt ➞](/guides/zusatzblatt)**
 
 **[Residence permits for self-employment ➞](/guides/residence-permit#for-self-employment)**
 

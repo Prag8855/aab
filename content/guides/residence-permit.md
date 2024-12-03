@@ -59,7 +59,7 @@ If you have a job offer:
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already take any job. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
-    [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt) to see if you can work. Your current residence permit might be tied to your current employer.
+    [Check your *Zusatzblatt*](/guides/zusatzblatt) to see if you are allowed to work.
 
 If you don't have a job offer:
 
@@ -78,9 +78,9 @@ If you don't have a job offer:
 Other residence permits sometimes allow self-employment:
 
 - **[Work visa](/glossary/Work%20Visa)** or **[[Blue Card]]**  
-    Part-time self-employment is sometimes allowed. [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt). You must keep your job, and your job must be your main source of income.[^10] Your part-time business should not compete with your employer's business.[^18]
+    Part-time self-employment is sometimes allowed. [Check your *Zusatzblatt*](/guides/zusatzblatt). You must keep your job, and your job must be your main source of income.[^10] Your part-time business should not compete with your employer's business.[^18]
 - **[[Student visa]]**  
-    You usually need permission from the *[[Ausländerbehörde]]* to be self-employed during your studies.[^4] In Berlin, student visas usually allow self-employment. [Check your *Zusatzblatt*.](#how-to-read-the-zusatzblatt)[^8]
+    You usually need permission from the *[[Ausländerbehörde]]* to be self-employed during your studies.[^4] In Berlin, student visas usually allow self-employment. [Check your *Zusatzblatt*.](/guides/zusatzblatt)[^8]
 - **[[Working Holiday Visa]]** or **[[Youth Mobility Visa]]**  
     Self-employment is [sometimes](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/) allowed.
 - **[[Family reunion visa]]**  
@@ -88,7 +88,7 @@ Other residence permits sometimes allow self-employment:
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
-    [Check your *Zusatzblatt*](#how-to-read-the-zusatzblatt) to see if self-employment is allowed.
+    [Check your *Zusatzblatt*](/guides/zusatzblatt) to see if self-employment is allowed.
 
 ### For studying
 
@@ -201,11 +201,11 @@ During your appointment...
 - [ ] Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 - [ ] Read your *Zusatzblatt*. It describes the conditions of your residence permit. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to work for any employer and to be self-employed.
 
-**[How to read your Zusatzblatt ➞](/guides/residence-permit#how-to-read-the-zusatzblatt)**
+**[How to read your Zusatzblatt ➞](/guides/zusatzblatt)**
 
 You will also get a letter in the mail. It's the activation code for your [[eID]]. You need it to activate the eID function of your residence card. This lets you use your residence permit to log into online government services.
 
-**[How to activate your eID ➞](/guides/residence-permit#activate-your-eid)**
+**[How to activate your eID ➞](#activate-your-eid)**
 ## After you get your residence permit
 
 ### Give feedback
@@ -260,31 +260,15 @@ If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you
 
 To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
-## How to read the Zusatzblatt
-
-Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. This piece of paper explains the conditions of your residence permit. For example, what kind of work you can do, and which employer you can work for.
-
-[![Zusatzblatt for a residence permit](/images/aufenthaltstitel-zusatzblat-back-web.png "Zusatzblatt for a freelance visa")](/images/aufenthaltstitel-zusatzblat-back-web.png)
-
-This is what those lines mean:
-
-- **"[Erwerbstätigkeit erlaubt](/images/aufenthaltstitel-zusatzblat-back-web.png)"**  
-    All occupations are allowed. You can do any kind of work, including self-employment.[^16]
-- **"Erlischt mit Bezug von Leistungen nach dem SGB II oder SGB XII"**  
-    You can't receive *[[Bürgergeld]]*.[^3] You can still receive [unemployment benefits](/glossary/ALG%20I).
-- **"[Selbständige Tätigkeit gestattet](/images/aufenthaltstitel.jpg)"**  
-    Self-employment is allowed.[^17] If it's a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], part-time self-employment is allowed, but must keep your job, and your job must be your main source of income.[^10]
-
 ## Need help?
 
-**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you.
+**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
 [^2]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
-[^3]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^4]: [existenzgruendungsportal.de](https://www.existenzgruendungsportal.de/Redaktion/DE/BMWK-Infopool/Antworten/Gruendungsplanung/Student-aus-dem-Ausland-selbstaendig-waehrend-des-Studiums.html) (February 2021), [tu-freiberg.de](https://tu-freiberg.de/news/arbeiten-neben-dem-studium-neue-regelungen-ab-1-maerz-2024#:~:text=selbststandige%20tatigkeiten%20nur%20mit%20genehmigung%20der%20auslanderbehorde%20ausuben) (February 2024), [City of Munich](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#id3) (December 2024), [Nürnberg does not allow it](https://www.nuernberg.de/internet/auslaenderbehoerde/aufenthaltstitel_zum_studium.html) (December 2024)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
@@ -297,8 +281,6 @@ This is what those lines mean:
 [^13]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
 [^14]: Multiple relocation consultants (November 2023)
 [^15]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa) (December 2024)
-[^16]: [Red Tape Translation](https://redtapetranslation.com/why-erwerbstatigkeit-gestattet-doesnt-always-mean-you-can-do-whatever-you-want/#:~:text=any%20type%20of%20activity%20that%20brings%20in%20a%20profit), [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php#:~:text=Ihr%20Aufenthaltstitel%20enth%C3%A4lt,freiberuflich%20t%C3%A4tig%20sein) (December 2024), [Handbook Germany](https://handbookgermany.de/en/self-employment#:~:text=your%20residence%20permit%20must%20explicitly%20state) (December 2024)
-[^17]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erwerbstaetigkeit/artikel.874042.php#:~:text=Ihr%20Aufenthaltstitel%20enth%C3%A4lt,freiberuflich%20t%C3%A4tig%20sein) (December 2024), [Handbook Germany](https://handbookgermany.de/en/self-employment#:~:text=your%20residence%20permit%20must%20explicitly%20state) (December 2024)
 [^18]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^19]: [berlin.de](https://service.berlin.de/dienstleistung/305289/en/) (December 2024)
 [^20]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)

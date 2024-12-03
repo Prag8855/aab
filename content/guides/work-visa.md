@@ -358,7 +358,7 @@ Your work visa lets you visit other [[Schengen area]] countries without a visa. 
 
 ### Self-employment with a work visa
 
-Your work visa might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/residence-permit#how-to-read-the-zusatzblatt) to see if it's allowed.
+Your work visa might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/zusatzblatt) to see if it's allowed.
 
 Check your work contract too. You might need to tell your employer about your self-employment. Your employer might forbid self-employment if it competes with their business. For example, don't start a marketing agency while you work for another marketing agency. They can't forbid all self-employment without a reason.[^16]
 
