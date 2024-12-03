@@ -130,19 +130,9 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. If you [send your documents online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), it can take [a few months](/guides/auslanderbehorde-wait-times) to get a response. Then they will email you an appointment date.
+The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
 
-If your current residence permit does not allow self-employment, you must wait for your freelance visa to start your business.[^55]
-
-In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
-
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
-
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
-
-If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
-
-{% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
+**[What happens while you wait ➞](/guides/residence-permit#wait)**
 
 ### 6. Go to your freelance visa appointment
 
@@ -451,7 +441,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^17]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)
-[^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^22]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1872525116549516/) (July 2024)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^24]: [VAB 21.4.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
@@ -484,7 +473,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1726636964471666/) (2023)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
 [^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), confirmed by an applicant (December 2023), Emily at [Archer Relocation](https://www.archer-relocation.com/) (December 2023)
-[^55]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2419)
 [^56]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (2018)
 [^57]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nachweise%20sonstiger%20regelma%C3%9Figer%20einkunfte)
 [^58]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=bei%20folgenden%20staatsangehorigkeiten%20wird%20vom%20nachweis), [§21 Abs. 2 and 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)

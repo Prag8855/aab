@@ -255,17 +255,9 @@ When you use the contact form, choose departments E1 to E6. Do not choose depart
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. It takes [a few months](/guides/auslanderbehorde-wait-times) to get a response. When I applied, it took 3 months.
+The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few months](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
 
-When they reply, they might ask for more documents.[^2] If you can't reply to their email, use the [contact form](/out/auslanderbehorde-contact) to send more documents.[^53]
-
-When they have all the documents they need, they will give you an appointment. In the appointment invitation, they might ask for more documents. Bring those documents to your appointment.
-
-Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
-
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
-
-{% include "_blocks/feedbackResidencePermit/permanentResidence.html" %}
+**[What happens while you wait ➞](/guides/residence-permit#wait)**
 
 ### 4. Go to your appointment
 
@@ -514,7 +506,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^62]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^63]: [VAB 9.3.3a.1.3](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^50]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=%20your%20spouse%20or%20same-sex%20life%20partner%20may%20also%20provide%20proof%20of%20income.%20) (July 2024)
-[^53]: [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024)
 [^64]: [ArbeitNow](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin#:~:text=around%203%20weeks%20after%20the%20appointment) (2023), [§45c AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45c.html)
 [^65]: [Adithya Srinivasan](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin) (July 2024)
 [^66]: Personal experience (July 2024)

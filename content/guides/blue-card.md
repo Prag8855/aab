@@ -142,19 +142,9 @@ After you pay and send your application, you can download a PDF. This is your pr
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application. It takes [a few weeks](/guides/auslanderbehorde-wait-times) to get a response. Then they will email you an appointment date.
+The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
 
-**[Berlin Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
-
-In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
-
-**[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
-
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
-
-If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.[^20]
-
-{% include "_blocks/feedbackResidencePermit/blueCard.html" %}
+**[What happens while you wait ➞](/guides/residence-permit#wait)**
 
 ### 6. Go to your Blue Card appointment
 
@@ -392,7 +382,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^17]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/)
 [^19]: Multiple relocation consultants (October 2023)
-[^20]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)
 [^21]: [VAB, section 18b.2.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^22]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^23]: [§51 Abs. 10 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
