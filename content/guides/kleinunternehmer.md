@@ -5,7 +5,7 @@ Description: This guide explains what a Kleinunternehmer is, and when it makes s
 Date_created: 2023-03-09
 ---
 
-If you have a small business with a low [revenue](/glossary/Umsatz), you can be a *Kleinunternehmer*.
+If you have a small business with a low [revenue](/glossary/Umsatz), you can be a *Kleinunternehmer*. A *Kleinunternehmer* does not charge VAT.
 
 This guide explains who can be a *Kleinunternehmer*, and when it makes sense to be one.
 
