@@ -1,4 +1,5 @@
 from ursus.context_processors import Entry
+import pyphen
 import re
 
 
@@ -30,3 +31,15 @@ def glossary_groups(entries: list[Entry]) -> dict[str, list[Entry]]:
         entry_groups[group_name].sort(key=glossary_sorter)
 
     return entry_groups
+
+
+hyphenation_dict = pyphen.Pyphen(lang='de_DE')
+long_word_pattern = re.compile(r"\b([^\W\d]{15,})\b", re.MULTILINE | re.UNICODE)
+soft_hyphen = '­'
+
+
+def hyphenate(text: str, lang: str = 'en_US', hyphen: str = soft_hyphen) -> str:
+    def hyphenate_word(match) -> str:
+        return hyphenation_dict.inserted(match.group(), hyphen)
+
+    return re.sub(long_word_pattern, hyphenate_word, text)

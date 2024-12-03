@@ -150,7 +150,8 @@ config.image_transforms = {
 
 config.context_processors.extend([
     'extensions.renderers.entry_images.EntryImageUrlProcessor',
-    'ursus.context_processors.git_date.GitDateProcessor'
+    'ursus.context_processors.git_date.GitDateProcessor',
+    'extensions.context_processors.hyphenated_titles.HyphenatedTitleProcessor',
 ])
 
 config.markdown_extensions['toc']['slugify'] = patched_slugify
@@ -158,9 +159,10 @@ config.markdown_extensions['wikilinks']['base_url'] = f'{config.site_url}/glossa
 config.markdown_extensions['wikilinks']['build_url'] = build_wikilinks_url
 config.markdown_extensions['tasklist']['list_item_class'] = 'checkbox'
 config.add_markdown_extension('extensions.markdown:WrappedTableExtension', {'wrapper_class': 'table-wrapper'})
-config.add_markdown_extension('extensions.markdown:CurrencyExtension')
-config.add_markdown_extension('extensions.markdown:TypographyExtension')
 config.add_markdown_extension('extensions.markdown:ArrowLinkIconExtension')
+config.add_markdown_extension('extensions.markdown:CurrencyExtension')
+config.add_markdown_extension('extensions.markdown:HyphenatedTitleExtension')
+config.add_markdown_extension('extensions.markdown:TypographyExtension')
 
 config.renderers.extend([
     'extensions.renderers.entry_images.EntryImageRenderer',

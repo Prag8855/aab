@@ -1,9 +1,38 @@
+from extensions.functions import hyphenate
 from markdown.extensions import Extension
 from markdown.extensions.smarty import SubstituteTextPattern
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import InlineProcessor, Treeprocessor
+from typing import Callable
 from xml.etree import ElementTree
 import re
+
+
+def process_element_text(element: ElementTree.Element, operation: Callable) -> None:
+    # Replace in the element's text
+    if element.text:
+        element.text = operation(element.text)
+    if element.tail:
+        element.tail = operation(element.tail)
+
+
+class HyphenatedTitleProcessor(Treeprocessor):
+    soft_hyphen = '\xc2\xad'
+
+    def run(self, root):
+        for el in root.iter():
+            if el.tag in ('h1', 'h2', 'h3'):
+                process_element_text(el, hyphenate)
+        return root
+
+
+class HyphenatedTitleExtension(Extension):
+    """
+    Adds soft hyphens to long words in titles
+    """
+
+    def extendMarkdown(self, md):
+        md.treeprocessors.register(HyphenatedTitleProcessor(self), "hyphenated_titles", 19)
 
 
 class ArrowLinkIconProcessor(Treeprocessor):
@@ -36,9 +65,6 @@ class ArrowLinkIconExtension(Extension):
     """
     Replaces the "➞" after a link with the appropriate icon
     """
-
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
 
     def extendMarkdown(self, md):
         md.treeprocessors.register(ArrowLinkIconProcessor(self), "linkicon", 0)
