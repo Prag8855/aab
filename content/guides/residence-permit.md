@@ -97,7 +97,7 @@ Other residence permits sometimes allow self-employment:
 - **[[Internship visa]]**  
     For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
 - **[[Family reunion visa]]**  
-    For spouses and children of German residents.
+    For spouses and children of German residents. It allows you to study.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already study. You don't need permission from the *[[Ausländerbehörde]]*.
 
@@ -111,18 +111,14 @@ Other residence permits sometimes allow self-employment:
 There are two ways to get a residence permit:[^12]
 
 - **[Apply in Germany](#how-to-apply-in-berlin)**  
-    Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You can start working or studying as soon as you get your residence permit.
+    Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work or study.  
+    You can apply in Germany if...
+    - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^15]
+    - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or [renew it](#how-to-renew-a-residence-permit)
+    - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
+    - **or** you have a [[National Visa]] that you must convert to a residence permit.
 - or **[apply in your home country](#how-to-apply-in-your-country)**  
     Apply for a [[National Visa]] at the German embassy or consulate in your country, come to Germany, and convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You can start working or studying as soon as you get your National Visa.
-
-You can apply in Germany if...
-
-- You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^15]
-- **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or [renew it](#how-to-renew-a-residence-permit)
-- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
-- **or** you have a [[National Visa]] that you must convert to a residence permit.
-
-If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
