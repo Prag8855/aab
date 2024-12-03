@@ -2018,6 +2018,8 @@ input[name="username"], // Honeypot
         }
         p{
             margin:0;
+            word-wrap: break-word; // Fixes breakout with long words
+            word-break: break-word;
         }
 
         + .preview{
