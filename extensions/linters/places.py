@@ -2,7 +2,7 @@
 from pathlib import Path
 from urllib.parse import urlparse
 from ursus.config import config
-from ursus.linters import Linter
+from ursus.linters import Linter, LinterResult
 from ursus.utils import get_files_in_path, parse_markdown_head_matter
 import googlemaps
 import logging
@@ -14,7 +14,7 @@ class PlacesLinter(Linter):
         super().__init__(*args, **kwargs)
         self.google_maps = googlemaps.Client(key=config.google_maps_api_key)
 
-    def lint(self, file_path: Path):
+    def lint(self, file_path: Path) -> LinterResult:
         if file_path.is_relative_to(Path('places')):
             with (config.content_path / file_path).open() as place_file:
                 place, field_positions = parse_markdown_head_matter(place_file.readlines())
@@ -73,6 +73,6 @@ class UnusedPlacesLinter(Linter):
                 ]
                 self.mentioned_places.update(related_places)
 
-    def lint(self, file_path: Path):
+    def lint(self, file_path: Path) -> LinterResult:
         if file_path.is_relative_to(Path('places')) and str(file_path) not in self.mentioned_places:
             yield None, "Place is not used anywhere", logging.ERROR

@@ -1,13 +1,13 @@
 from pathlib import Path
 from ursus.config import config
-from ursus.linters import Linter
+from ursus.linters import Linter, LinterResult
 import logging
 
 
 class TableOfContentsLinter(Linter):
     file_suffixes = ('.md', )
 
-    def lint(self, file_path: Path):
+    def lint(self, file_path: Path) -> LinterResult:
         """
         Raises a warning when a guide has no table of contents
         """
