@@ -1,6 +1,6 @@
 ---
-Title: The Abmeldung - How to deregister in Berlin
-Short_title: Abmeldung - How to deregister your address
+Title: The Abmeldung — How to deregister in Berlin
+Short_title: Abmeldung — How to deregister your address
 Description: If you leave Germany, you must do your deregister your address. This is called the Abmeldung. This guide shows you how to do it in Berlin.
 Date_created: 2018-01-04
 Related_reviews: reviews/abmeldung-deregister-in-berlin/oliver-sympatme.md

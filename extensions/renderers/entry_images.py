@@ -2,7 +2,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from PIL.Image import Image as ImageType
 from ursus.config import config
-from ursus.context_processors import EntryContextProcessor, Entry
+from ursus.context_processors import Context, EntryContextProcessor, Entry, EntryURI
 from ursus.renderers import Renderer
 import hashlib
 import logging
@@ -14,9 +14,9 @@ logger = logging.getLogger(__name__)
 exif_description_field = 0x9286
 
 
-def wrap_text(text: str, font, max_width: int):
+def wrap_text(text: str, font, max_width: int) -> str:
     words = text.split()
-    lines = [[]]
+    lines: list[list[str]] = [[]]
     for word in words:
         line_width = font.getbbox(" ".join(lines[-1] + [word]))[2]
         if line_width <= max_width:
@@ -29,7 +29,7 @@ def wrap_text(text: str, font, max_width: int):
     return "\n".join(" ".join(line) for line in lines)
 
 
-def text_height(text: str, font, line_spacing: int):
+def text_height(text: str, font, line_spacing: int) -> int:
     ascent, descent = font.getmetrics()
     lines = text.split('\n')
     return sum([
@@ -38,7 +38,7 @@ def text_height(text: str, font, line_spacing: int):
     ]) + (len(lines) - 1) * line_spacing
 
 
-def text_width(text: str, font):
+def text_width(text: str, font) -> int:
     return max(font.getmask(line).getbox()[2] for line in text.split('\n'))
 
 
@@ -90,10 +90,7 @@ def make_cover_image(text: str, templates_path: Path) -> ImageType:
 
 
 class EntryImageUrlProcessor(EntryContextProcessor):
-    def __init__(self):
-        super().__init__()
-
-    def process_entry(self, context, entry_uri, changed_files=None):
+    def process_entry(self, context: Context, entry_uri: EntryURI, changed_files: set[Path] | None = None) -> None:
         context['entries'][entry_uri]['image_url'] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
 
 
@@ -103,7 +100,7 @@ class EntryImageRenderer(Renderer):
     """
 
     def get_image_text(self, entry: Entry) -> str:
-        return entry.get('short_title') or entry.get('title')
+        return str(entry.get('short_title') or entry.get('title'))
 
     def get_hash(self, entry: Entry) -> str:
         return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
@@ -133,6 +130,7 @@ class EntryImageRenderer(Renderer):
                 # Unicode strings cause problems, so a simple hash is more reliable
                 exif = image.getexif()
                 exif[exif_description_field] = self.get_hash(entry)
+                abs_image_path.parent.mkdir(parents=True, exist_ok=True)
                 image.save(abs_image_path, optimize=True, exif=exif)
 
             files_to_keep.add(image_path)

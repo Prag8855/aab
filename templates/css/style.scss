@@ -554,7 +554,6 @@ html, body{
         overflow-wrap: break-word;
         word-wrap: break-word;
         word-break: break-word;
-        hyphens: auto;
     }
 }
 
@@ -2019,6 +2018,8 @@ input[name="username"], // Honeypot
         }
         p{
             margin:0;
+            word-wrap: break-word; // Fixes breakout with long words
+            word-break: break-word;
         }
 
         + .preview{
