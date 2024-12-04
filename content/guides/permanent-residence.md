@@ -235,9 +235,9 @@ The requirements and the application process are the same. If you qualify for th
 
 ## How to apply in Berlin
 
-**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
+In Berlin, **it takes [4 to 10 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-01-15') }}.
 
-In Berlin, **it takes [4 to 10 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-01-15') }} It took me 10 months in total. If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
+**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
 ### 1. Prepare your application
 
@@ -249,9 +249,13 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for permanent residence
 
-This is no *[[Ausländerbehörde]]* appointment for this. You must **[use the Ausländerbehörde contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, send all the [required documents](#required-documents), and wait for them to contact you. This can take [a few months](/guides/auslanderbehorde-wait-times). You might not get a confirmation email.
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to [the correct department](/guides/immigration-office#departments). Send your application to departments E1 to E6. Do not choose departments B1 to B4.[^76]{{ fail_on('2025-01-15') }}
 
-When you use the contact form, choose departments E1 to E6. Do not choose departments B1 to B4.[^76]
+Wait for them to contact you. [A few months later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment. They might also ask for more documents.
+
+This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
+
+**[How to send your application ➞](/guides/residence-permit#apply-online)
 
 ### 3. Wait
 
