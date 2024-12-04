@@ -261,37 +261,13 @@ The *Ausländerbehörde* will process your application, then invite you for an a
 
 ### 4. Go to your appointment
 
-After you send your application, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. The appointment could be [in a few months](/guides/auslanderbehorde-wait-times). My appointment was 8 months after I sent my documents.
+Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
 
-When you go to your appointment, bring...
+Follow the instructions in the email. They might ask for more documents.[^2] They might ask for more recent proof of income, employment, health insurance and rent payments. Print them and bring them.
 
-- [ ] **Your appointment confirmation**, printed  
-    You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
-- [ ] **Extra required documents**  
-    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.[^2] They might ask for more recent proof of income, employment, health insurance and rent payments. Print them and bring them. Do not bring the documents that you already sent.[^69]
-- [ ] **Passport**  
-    You get your passport back during your appointment; they do not keep it.
-    - [ ] **Passport of your spouse, parent or child**[^7] (if applicable)
-- [ ] **Passport photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
-- [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the application fee. It costs {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€.[^44] This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
-- [ ] **Your family**  
-    If you apply as the spouse, parent or child of a German citizen, the German citizen must come with you to the appointment.[^30]
-- [ ] **A translator** (optional)  
-    You can bring a translator or a German-speaking friend. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+The appointment takes around 15 minutes.[^4] They ask you [questions in German](https://docs.google.com/document/d/1Q0bvmO9tkfpuIr1VcBXo2ey42FWCMpIsnFPauq2utT4/) about your height, your eye colour, how long you have been in Germany, if you like living in Berlin, and the size of your apartment.[^1]
 
-The appointment takes around 15 minutes.[^4] They call your number on the screen, you meet your case worker, give your documents, and answer a few questions. They ask you [questions in German](https://docs.google.com/document/d/1Q0bvmO9tkfpuIr1VcBXo2ey42FWCMpIsnFPauq2utT4/) about your height, your eye colour, how long you have been in Germany, if you like living in Berlin, and the size of your apartment.[^1]
-
-**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
-
-If they approve your permanent residence, you must pay the {{MIN_PERMANENT_RESIDENCE_FEE|cur}}€ to {{MAX_PERMANENT_RESIDENCE_FEE|cur}}€ fee.[^44] They will give you a plastic payment card. Bring it to the payment machine in the building, and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can go home.
-
-They must print your permanent residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }}[^34] You will get a second appointment to pick up the card. They do not mail the card to you.[^67]
-
-You will get a document. It confirms that your permanent residence application was approved, that your card must be printed, and that your previous residence permit is still valid.[^31] This is not a valid travel document. It does not allow you to leave and re-enter Germany. If your current residence permit has expired, you might need a *[[Fiktionsbescheinigung]]* to travel outside of Germany.
-
-**[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
+**[How to prepare for your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
 ### 5. Get your permanent residence card
 

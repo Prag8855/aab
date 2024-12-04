@@ -151,28 +151,9 @@ The *Ausländerbehörde* will process your application, then invite you for an a
 
 ### 6. Go to your work visa appointment
 
-Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
+Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
-When you go to your appointment, bring...[^7]
-
-- [ ] **The [required documents ➞](#required-documents)**  
-    Bring all your application documents, even if you already sent them online.[^47] In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
-- [ ] **Your appointment confirmation**, printed  
-    You can't enter the *Ausländerbehörde* without it. They check at the door. You must print it.
-- [ ] **Passport photo** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
-- [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your work visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
-- [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend.[^63] It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
-
-The appointment takes 15 to 60 minutes. You spend most of that time waiting. During the appointment, they take your fingerprints for your work visa.
-
-If they approve your work visa, they must print the plastic card. You will get a second appointment to collect your work visa in [in around 8 weeks](/guides/auslanderbehorde-wait-times).{{ fail_on('2025-01-15') }} You might get a temporary document that confirms that your work visa was approved. It allows you to start working, but it's not a valid travel document. It does not allow you to leave and re-enter Germany.
-
-**[What happens at the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
-
-**[What happens after your appointment ➞](/guides/berlin-auslanderbehorde-appointment#after-your-appointment)**
+**[How to prepare for your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
 ### 7. Get your work visa
 
