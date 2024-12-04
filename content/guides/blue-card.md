@@ -302,7 +302,7 @@ When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#te
 
 ### If you lose your job
 
-If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job.
+If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. In other cities, they give you at least 3 months.
 
 While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
 
