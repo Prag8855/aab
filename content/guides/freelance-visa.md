@@ -154,71 +154,9 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelanc
 
 ## How to apply in your country
 
-You can also apply for a freelance visa in your country, **before you move to Germany**.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34]
+You can also apply for a freelance visa in your country, then move to Germany.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34] You don't need to wait in Germany without an income.
 
-To apply in your country:[^4]
-
-1. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
-2. Go to your appointment and give your documents. The required documents are different in each country. Find the list on your embassy or consulate's website.
-3. Receive a [[National Visa]]. It lets you to come to Germany and start your business.
-4. After you arrive in Germany, convert your National Visa into a freelance visa.
-
-### 1. Get an appointment at the German embassy or consulate
-
-Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.[^33]
-
-**[Find your German embassy or consulate ➞](/out/consulate-finder)**
-
-### 2. Prepare for your interview
-
-Before your embassy or consulate appointment, you must...
-
-- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
-    Some embassies and consulates ask for it.[^48] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^51] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
-- [ ] **Prepare the [required documents ➞](#required-documents)**  
-    The required documents are very different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
-- [ ] **Save money**  
-    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They usually ask for around 10,000€ in savings.[^81]
-
-If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
-
-### 3. Go to your National Visa appointment
-
-Go to your appointment at the embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
-
-### 4. Receive your National Visa
-
-In around 3 months, you must go to the embassy or consulate again.[^66] They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start your business](/guides/start-a-business-in-germany).
-
-### 5. Come to Germany, start your business
-
-With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start your business.[^40]
-
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id), [open a bank account](/guides/best-bank-germany) and [start your business](/guides/start-a-business-in-germany).
-
-**[How to move to Berlin ➞](/guides/moving-to-berlin)**
-
-**[How to start your business ➞](/guides/start-a-business-in-germany)**
-
-### 6. Convert your National Visa into a freelance visa
-
-Your National Visa is valid for 3 to 12 months.[^29] After your arrive in Germany, you must convert it into a freelance visa at the *[[Ausländerbehörde]]*.
-
-In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^39]
-
-To convert your National Visa into a freelance visa:
-
-1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
-    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment.
-2. **Go to your appointment**  
-    During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your freelance visa.{{ fail_on('2025-01-15') }}
-3. **Pick up your freelance visa**  
-    Go to your second *Ausländerbehörde* appointment to collect your freelance visa. Bring your passport and your old residence permit.
-4. **[Activate your eID ➞](/guides/residence-permit#activate-your-eid)** (optional)
-
-Your freelance visa is a plastic card. It's valid for up to 3 years. You can [renew it](/guides/renew-german-freelance-visa) before it expires.
+**[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 
 ## Required documents
 
@@ -399,10 +337,8 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^3]: [Red Tape Translation](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/), [Reddit](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
-[^4]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=10) (page 8)
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
-[^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
@@ -419,29 +355,22 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/) (2022)
-[^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
 [^31]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^32]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=present%20your%20documents%20in%20german)
-[^33]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=weeks%20and%20months%20may%20pass), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
-[^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
-[^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [VAB 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
 [^43]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Gebuhren)
 [^45]: Multiple relocation consultants (November 2023)
 [^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://raptcat.com/2013/08/08/how-to-get-a-freelance-visa-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/500348680433840/?comment_id=500380820430626&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
-[^47]: Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (December 2023)
-[^48]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^49]: [Kathleen Parker](/images/Screenshot-2022-03-29-at-17.42.31.png) at [Red Tape Translation](/out/red-tape-translation) (December 2023)
 [^50]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/475901026211939/?comment_id=475918202876888&reply_comment_id=475930016209040&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
-[^51]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1726636964471666/) (2023)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
 [^53]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), confirmed by an applicant (December 2023), Emily at [Archer Relocation](https://www.archer-relocation.com/) (December 2023)
 [^56]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (2018)
@@ -451,10 +380,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^60]: [VAB 21.3 and 9.2.1.3a](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/756383954830310/) (2019), [Tal Gibbesch](https://www.gibbesch-consulting.com/) (2024)
 [^62]: [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/), [All About Berlin](/guides/website-freiberuf-or-gewerbe)
-[^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
-[^64]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=sit%20in%20the%20waiting%20room%20for%20about%2020-40%20minutes)
 [^65]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=it%20is%20necessary%20to%20provide%20proof%20of%20previous%20artistic%20activity)
-[^66]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=take%20three%20months%20to%20process)
 [^67]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=at%20least%20two%20non-binding%20letters%20of%20intent)
 [^68]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1649272118874818/) (August 2023), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1513608149107883/) (December 2022), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1540612453074119/) (January 2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1687770631691633/) (2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1180423295759705/) (2021)
 [^69]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
@@ -468,4 +394,3 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^78]: Aydan Baghirova, [career coach](https://aydanbaghirova.de/) (April 2024)
 [^79]: [VAB 2.3.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^80]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
-[^81]: Multiple relocation consultants (July 2024)

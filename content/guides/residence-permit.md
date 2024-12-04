@@ -110,7 +110,7 @@ Other residence permits sometimes allow self-employment:
 
 There are two ways to get a residence permit:[^12]
 
-- **[Apply in Germany](#how-to-apply-in-germany)**  
+- **[Apply in Germany](#how-to-apply-in-berlin)**  
     Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work or study.
 - or **[apply in your home country](#how-to-apply-in-your-country)**  
     Apply for a [[National Visa]] at the German embassy or consulate in your country, come to Germany, and convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You can start working or studying as soon as you get your National Visa.
@@ -161,7 +161,7 @@ While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 **There are more requirements.** Check the instructions for the [Blue Card](/guides/blue-card), [work visa](/guides/work-visa), [freelance visa](/guides/freelance-visa) or [permanent residence](/guides/permanent-residence).
 
-### 3. Apply online
+### 2. Apply online
 
 In Berlin, you must apply online, and wait for the *[[Ausländerbehörde]]* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* without an appointment.
 
@@ -176,7 +176,7 @@ There are two ways to apply in Berlin:
 - or **use the contact form**  
     If there is no application form for your residence permit, [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send your documents. You might need to combine and compress your documents to make them fit.
 
-### 4. Wait
+### 3. Wait
 
 The *Ausländerbehörde* will process your application. It takes a few weeks to a few months to get a response. They will email you and give you an appointment date. The appointment could be months in the future.
 
@@ -192,7 +192,7 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
-### 5. Go to your appointment
+### 4. Go to your appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
@@ -225,7 +225,7 @@ You might get a [temporary document](/images/temporary-freelance-visa.jpg) that 
 
 You might also get a *[[Fiktionsbescheinigung]]*. This document allows you to travel outside of Germany with an expired residence permit. You might need to ask for it. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
-### 6. Pick up your residence card
+### 5. Pick up your residence card
 
 Go to your second *[[Ausländerbehörde]]* appointment. Bring your passport and your old residence permit. You will get a plastic residence card and a paper *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
 
@@ -238,11 +238,106 @@ You will also get a letter in the mail. It's the activation code for your [[eID]
 
 **[How to activate your eID ➞](#activate-your-eid)**
 
-### 7. Give feedback
+### 6. Give feedback
 
 Tell me how long it took to get your residence permit. Your feedback helps thousands of people plan their application.
 
 {% include "_blocks/feedbackResidencePermit/allTypes.html" %}
+
+## How to apply in your country
+
+You can apply in your country before you move to Germany.[^26] This is **cheaper and safer**, because you can start working or studying as soon as you arrive in Germany. You don't need to wait in Germany without an income.[^29]
+
+For most people, this is the only option.
+
+To apply in your country:[^27]
+
+1. Prepare your application. The required documents are different in each country. Find the list on your embassy or consulate's website. You might also need to find a job and get your education recognised.
+2. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder). This can take a few months.
+3. Go to your appointment. They will take your documents and process your application. This can take a few months.
+4. Receive a [[National Visa]]. It lets you to come to Germany and start working or studying.
+5. After you arrive in Germany, convert your National Visa into a residence permit at the *[[Ausländerbehörde]]*.
+
+**To make things faster**, use the fast track procedure (*Beschleunigtes Verfahren*). It's faster and easier, but it costs 411€.[^39]
+
+### 1. Get your education recognised
+
+**To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]]**, you need a university or vocational training. Your education must be recognised in Germany. It must be equivalent to 2 years of training in Germany.[^31]
+
+You must get your training recognised *before* you apply for your National Visa. The process depends on your profession.[^32] It takes a few weeks to a few months.[^33] There might be an interview or a competence test, and you might need to pay for it.[^34]
+
+**[How to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
+
+If you are a citizen of {{ BESCHV_26_COUNTRIES }}, you don't need a degree or vocational training. Skip this step.
+
+If you studied in Germany, your education is already recognised. Skip this step.
+
+If you use the fast track procedure (*Beschleunigtes Verfahren*), skip this step. You submit all your documents at once, and the embassy or consulate takes care of it.[^35]
+
+### 2. Get an appointment at the German embassy or consulate
+
+Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.[^3]
+
+In some countries, you can apply for a [[National Visa]] online, so you don't need an appointment.
+
+**[Find your German embassy or consulate ➞](/out/consulate-finder)**
+
+**Do not apply for a [[Schengen visa]].** Schengen visas are for tourism, not immigration. You can't convert a Schengen visa into a residence permit.[^9]
+
+### 3. Prepare for your appointment
+
+Before your embassy or consulate appointment, you must...
+
+- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
+    Some embassies and consulates ask for it.[^16] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^17] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung).
+- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
+- [ ] **Prepare the required documents**  
+    The required documents are different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
+- [ ] **Save money**  
+    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They usually ask for around 10,000€ in savings.[^24]
+
+If you apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must...
+
+- [ ] **[Find a job](/guides/find-a-job-in-berlin)**  
+    You need a job offer to apply for a work visa or a Blue Card.
+- [ ] **[Get your education recognised ➞](#get-your-education-recognised)**
+
+If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
+
+### 4. Go to your National Visa appointment
+
+Go to your appointment at the embassy or consulate, and give your documents. If you have all the required documents, it only takes a few minutes.
+
+### 5. Receive your National Visa
+
+In a few months, you must go to the embassy or consulate again.[^25] They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
+
+### 6. Move to Germany
+
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/best-bank-germany). Your National Visa allows you to [start working](/guides/find-a-job-in-berlin#step-6-start-working) or [start your business](/guides/start-a-business-in-germany) as soon as you arrive.[^30]
+
+**[How to move to Berlin ➞](/guides/moving-to-berlin)**
+
+**[How to start a new job ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
+
+**[How to start a business ➞](/guides/start-a-business-in-germany)**
+
+### 7. Convert your National Visa
+
+Your National Visa is only valid for up to 12 months.[^36] Before it expires, you must convert it into a residence permit at the *[[Ausländerbehörde]]*.
+
+In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^26]
+
+To convert your National Visa into a residence permit:
+
+1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
+    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment.
+2. **Go to your appointment**  
+    During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your residence permit.
+3. **Pick up your residence permit**  
+    Go to your second *Ausländerbehörde* appointment to collect your residence permit. Bring your passport and your old residence permit.
+
 ## After you get your residence permit
 
 ### Give feedback
@@ -342,3 +437,4 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^38]: Citation needed. Mention family reunion visa case.
+[^39]: Citation needed

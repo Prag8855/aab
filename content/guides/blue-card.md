@@ -75,7 +75,7 @@ You can apply in Germany if...
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you already have a Blue Card from another EU country
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
-- **or** you have a [[National Visa]] that you must [convert to a Blue Card](#convert-your-national-visa-into-a-blue-card).
+- **or** you have a [[National Visa]] that you must [convert to a Blue Card](/guides/residence-permit#convert-your-national-visa).
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
@@ -168,75 +168,11 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Car
 
 ## How to apply in your country
 
-You can also apply for a Blue Card in your country, **before you move to Germany**.[^26] This is **cheaper and safer**, because when you arrive in Germany, you can already start working.[^34]
+You can also apply for a Blue Card in your country, then move to Germany. This is **cheaper and safer**, because when you arrive in Germany, you can already start working. You don't need to wait in Germany without an income.
 
-To apply in your country:
+You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
 
-1. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder).
-2. Go to your appointment and give your documents. The required documents are different in each country. Find the list on your embassy or consulate's website.
-3. Receive a [[National Visa]]. It lets you to move to Germany and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
-4. After you arrive in Germany, convert your National Visa into a Blue Card.
-
-### 1. Find a job
-
-You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
-
-**[How to find a job ➞](/guides/find-a-job-in-berlin)**
-
-### 2. Get an appointment at the German embassy or consulate
-
-Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.
-
-At some embassies and consulates, you can [apply for a Blue Card online](https://digital.diplo.de/blaue-karte), without an appointment.
-
-**[Find your German embassy or consulate ➞](/out/consulate-finder)**
-
-### 3. Prepare for your interview
-
-Before your embassy or consulate appointment, you must...
-
-- [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
-    Some embassies and consulates ask for it.[^43] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^44] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung). - [How to find an apartment](/guides/find-a-flat-in-berlin)
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
-- [ ] **Prepare the [required documents ➞](#required-documents)**  
-    The required documents are very different at each embassy and consulate. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
-
-### 4. Go to your National Visa appointment
-
-Go to your appointment at the embassy or consulate, and give your documents. If you have all the [required documents](#required-documents), it only takes a few minutes.
-
-### 5. Receive your National Visa
-
-In a few weeks (or a few months), you must go to the embassy or consulate again. They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [start working](/guides/find-a-job-in-berlin#step-6-start-working).
-
-### 6. Come to Germany, start working
-
-With your National Visa, you can [travel to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start working.[^40]
-
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/best-bank-germany). These things will be useful later.
-
-**[How to move to Berlin ➞](/guides/moving-to-berlin)**
-
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
-
-### 7. Convert your National Visa into a Blue Card
-
-Your National Visa is valid for 3 to 12 months.[^29] After your arrive in Germany, you must convert it into a Blue Card at the *[[Ausländerbehörde]]*.
-
-In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^39]
-
-To convert your National Visa into a Blue Card:
-
-1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
-    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take [a really long time](/guides/auslanderbehorde-wait-times) to reply. When they reply, they will give you an appointment.
-2. **Go to your appointment**  
-    During your appointment, they take your fingerprints for your Blue Card. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your Blue Card.{{ fail_on('2025-01-15') }}
-3. **Pick up your Blue Card**  
-    Go to your second *Ausländerbehörde* appointment to collect your Blue Card. Bring your passport and your old residence permit.
-4. **[Activate your eID ➞](/guides/residence-permit#activate-your-eid)** (optional)
-
-Your Blue Card is a plastic card. It's valid for up to 4 years. You can [renew it](#renew-your-blue-card) before it expires.
+**[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 
 ## Required documents
 
@@ -342,7 +278,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^4]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=only%20possible%20online)
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
-[^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20)
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/), [18c.2.3. VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
@@ -360,26 +295,18 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^23]: [§51 Abs. 10 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html)
 [^24]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf)
-[^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
-[^29]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/)
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
 [^32]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
 [^33]: [§18i Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18i.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
-[^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^38]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=if%20you%20have%20a%20residence%20title%20of%20another%20schengen%20country)
-[^39]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
-[^40]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry)
 [^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)
 [^42]: Multiple relocation consultants (November 2023)
-[^44]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation)
-[^43]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
 [^46]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024)
 [^47]: [Fiona Macdonald](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024)
 [^48]: [Berlin.de](https://service.berlin.de/dienstleistung/326556/) (June 2024), [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^49]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
-[^63]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=if%20you%20don%E2%80%99t%20speak%20german)
