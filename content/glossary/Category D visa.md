@@ -19,4 +19,4 @@ The Category D visa is only valid for 3 to 12 months. You must convert it to a [
 
 The [[Schengen visa]] is not a Category D visa.
 
-**[More about visas and residence permits](/guides/residence-permit)**
+**[More about visas and residence permits ➞](/guides/residence-permit)**

@@ -7,7 +7,9 @@ Date_created: 2024-12-03
 
 Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. This piece of paper explains the conditions of your residence permit. For example, what kind of work you can do, and which employer you can work for.
 
-[![Zusatzblatt for a residence permit](/images/aufenthaltstitel-zusatzblat-back-web.png "Zusatzblatt for a freelance visa")](/images/aufenthaltstitel-zusatzblat-back-web.png)
+[![Zusatzblatt for a residence permit - front](/images/aufenthaltstitel-zusatzblat-front-web.png)](/images/aufenthaltstitel-zusatzblat-front-web.png)
+
+[![Zusatzblatt for a residence permit - back](/images/aufenthaltstitel-zusatzblat-back-web.png "Zusatzblatt for a freelance visa")](/images/aufenthaltstitel-zusatzblat-back-web.png)
 
 This is what those lines mean:
 
