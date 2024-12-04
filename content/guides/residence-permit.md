@@ -110,13 +110,8 @@ Other residence permits sometimes allow self-employment:
 
 There are two ways to get a residence permit:[^12]
 
-- **[Apply in Germany](#how-to-apply-in-berlin)**  
-    Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work or study.  
-    You can apply in Germany if...
-    - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^15]
-    - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or [renew it](#how-to-renew-a-residence-permit)
-    - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
-    - **or** you have a [[National Visa]] that you must convert to a residence permit.
+- **[Apply in Germany](#how-to-apply-in-germany)**  
+    Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work or study.
 - or **[apply in your home country](#how-to-apply-in-your-country)**  
     Apply for a [[National Visa]] at the German embassy or consulate in your country, come to Germany, and convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You can start working or studying as soon as you get your National Visa.
 
@@ -130,13 +125,22 @@ There are two ways to get a residence permit:[^12]
 
 ## How to apply in Berlin
 
-### 1. Come to Germany
+You can only apply in Berlin if...
 
-[Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and start preparing your residence permit application.
+- You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^15]
+- **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or [renew it](#how-to-renew-a-residence-permit)
+- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
+- **or** you have a [[National Visa]] that you must convert to a residence permit.
 
-### 2. Prepare your application
+If you can't apply in Berlin, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Before you apply for a residence permit, you must...
+**These instructions are for Berlin only.** The application process is different in every German city.
+
+### 1. Prepare your application
+
+[Come to Berlin](/guides/visit-berlin#how-to-travel-to-berlin) and start preparing your residence permit application.
+
+Before you apply, you must...
 
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
@@ -146,7 +150,7 @@ Before you apply for a residence permit, you must...
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the required documents**  
-    Each residence permit has different requirements. Each *[[Ausländerbehörde]]* requires different documents. Check the required documents for the [Blue Card](/guides/blue-card#required-documents), [work visa](/guides/work-visa#required-documents), [freelance visa](/guides/freelance-visa#required-documents) or [permanent residence](/guides/permanent-residence#required-documents).
+    The required documents are different at each *[[Ausländerbehörde]]*, and for each residence permit. Check the required documents for the [Blue Card](/guides/blue-card#required-documents), [work visa](/guides/work-visa#required-documents), [freelance visa](/guides/freelance-visa#required-documents) or [permanent residence](/guides/permanent-residence#required-documents).
 
 While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
@@ -159,9 +163,9 @@ While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 ### 3. Apply online
 
-In Berlin, you must apply online, and wait for the *Ausländerbehörde* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* without an appointment.
+In Berlin, you must apply online, and wait for the *[[Ausländerbehörde]]* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* without an appointment.
 
-If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply.[^2]
+If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply after you arrive in Germany.[^2]
 
 If you already live in Germany, you must apply before your current residence permit expires.
 
@@ -174,7 +178,7 @@ There are two ways to apply in Berlin:
 
 ### 4. Wait
 
-The *Ausländerbehörde* will process your application. It takes [between a few weeks and a few months](/guides/auslanderbehorde-wait-times) to get a response. They will reply by email and give you an appointment date. The appointment could be months in the future.
+The *Ausländerbehörde* will process your application. It takes a few weeks to a few months to get a response. They will email you and give you an appointment date. The appointment could be months in the future.
 
 **[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 
@@ -190,22 +194,55 @@ In most cases, your current [[National Visa]] or [residence permit](/glossary/Au
 
 ### 5. Go to your appointment
 
-...
+Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
+
+Go to the correct *Ausländerbehörde*. There are [two locations in Berlin](/guides/immigration-office#locations).
+
+When you go to your appointment, bring...
+
+- [ ] **Your appointment confirmation**, printed  
+    You can't enter the *Ausländerbehörde* without it. They check at the door. You can have it on your phone or print it.[^28]
+- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^37]
+    - [ ] **Passport of your spouse, parent or child** (if applicable)  
+        If you apply for family reunion visas, bring everyone's passports.
+- [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
+    You must pay the application fee. You must sometimes pay later, when you pick up your residence permit. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+- [ ] **Your family**  
+    If you apply for family reunion visas, your family must come with you.[^38]
+- [ ] **A translator** (optional)  
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+- [ ] **Other required documents**  
+    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
+
+The appointment takes 15 to 30 minutes. You sit in a waiting room and wait for your number to be called on the screen. You go to the right office, meet your case worker, give your documents, and answer a few questions.
+
+If they approve your residence permit, you must [pay the application fee](/guides/immigration-office#payment-methods).
+
+Then, they will print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). You will get a second appointment to pick up the card. They do not mail the card to you.
+
+You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your residence was approved. It allows you to start working or studying, but it's not a valid travel document. You can't leave and re-enter Germany with that document.
+
+You might also get a *[[Fiktionsbescheinigung]]*. This document allows you to travel outside of Germany with an expired residence permit. You might need to ask for it. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
 ### 6. Pick up your residence card
 
-Go to your second *[[Ausländerbehörde]]* appointment and pick up your residence card. Bring your passport and your old residence permit. You will get a plastic residence card and a paper *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
+Go to your second *[[Ausländerbehörde]]* appointment. Bring your passport and your old residence permit. You will get a plastic residence card and a paper *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
 
 During your appointment...
 
 - [ ] Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
-- [ ] Read your *Zusatzblatt*. It describes the conditions of your residence permit. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to work for any employer and to be self-employed.
-
-**[How to read your Zusatzblatt ➞](/guides/zusatzblatt)**
+- [ ] [Read your *Zusatzblatt*.](/guides/zusatzblatt) It describes the conditions of your residence permit. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to work for any employer and to be self-employed.
 
 You will also get a letter in the mail. It's the activation code for your [[eID]]. You need it to activate the eID function of your residence card. This lets you use your residence permit to log into online government services.
 
 **[How to activate your eID ➞](#activate-your-eid)**
+
+### 7. Give feedback
+
+Tell me how long it took to get your residence permit. Your feedback helps thousands of people plan their application.
+
+{% include "_blocks/feedbackResidencePermit/allTypes.html" %}
 ## After you get your residence permit
 
 ### Give feedback
@@ -269,6 +306,7 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)
 [^2]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^3]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=weeks%20and%20months%20may%20pass), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=16) (page 14)
 [^4]: [existenzgruendungsportal.de](https://www.existenzgruendungsportal.de/Redaktion/DE/BMWK-Infopool/Antworten/Gruendungsplanung/Student-aus-dem-Ausland-selbstaendig-waehrend-des-Studiums.html) (February 2021), [tu-freiberg.de](https://tu-freiberg.de/news/arbeiten-neben-dem-studium-neue-regelungen-ab-1-maerz-2024#:~:text=selbststandige%20tatigkeiten%20nur%20mit%20genehmigung%20der%20auslanderbehorde%20ausuben) (February 2024), [City of Munich](https://stadt.muenchen.de/infos/studium-arbeiten-aufenthaltsrecht.html#id3) (December 2024), [Nürnberg does not allow it](https://www.nuernberg.de/internet/auslaenderbehoerde/aufenthaltstitel_zum_studium.html) (December 2024)
 [^5]: [§12 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__12.html)
 [^6]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship)
@@ -281,9 +319,26 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^13]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/temporary-stay#c2415)
 [^14]: Multiple relocation consultants (November 2023)
 [^15]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa) (December 2024)
+[^16]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (November 2023)
+[^17]: Multiple relocation consultants (November 2023), [German embassy (US)](https://www.germany.info/blob/902660/13b92beb6cbf3257cc066e1f212ab853/employment-data.pdf), [visaguide.world](https://visaguide.world/europe/germany-visa/long-stay/#:~:text=accomodation%20%E2%80%93%20hotel%20reservation), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1726636964471666/) (2023)
 [^18]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^19]: [berlin.de](https://service.berlin.de/dienstleistung/305289/en/) (December 2024)
 [^20]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^21]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [se-legal.de](https://se-legal.de/services/immigration-lawyer-germany/permanent-eu-residence-permit/?lang=en#:~:text=if%20you%20reside%20outside%20of%20germany%20for%20a%20sufficient%20time) (July 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/#DA-EU) (July 2024), [Hamburg](https://welcome.hamburg.com/entry-and-residence/residence-permit/permanent-ec-17654) (July 2024)
 [^22]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^23]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
+[^24]: Multiple relocation consultants (July 2024)
+[^25]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=take%20three%20months%20to%20process)
+[^26]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)
+[^27]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=10) (page 8), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
+[^28]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20) (December 2024)
+[^29]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
+[^30]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry) (December 2024)
+[^31]: Citation needed, [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/1_Arbeiten_in_DE/2023_Jan_MiiG_Anleitung_anabin-Datenbank_EN.pdf) (2022)
+[^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
+[^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
+[^34]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
+[^35]: Citation needed
+[^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
+[^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
+[^38]: Citation needed. Mention family reunion visa case.
