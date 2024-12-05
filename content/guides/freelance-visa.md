@@ -182,7 +182,7 @@ There are two types of self-employed people. They get a different kind of freela
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. If you go in person, bring your passport. You get it back during the appointment; they do not keep it.[^75]
+    When you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. When you go to your *Ausländerbehörde* appointment, bring your original passport. You get it back during the appointment; they do not keep it.[^75]
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**
