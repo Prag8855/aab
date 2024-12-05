@@ -45,7 +45,7 @@ To get a work visa, you need...[^18]
 If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you must have...[^38]
 
 - [ ] **Vocational training** or a **university degree**  
-    You must be trained to do this job. Your education or training must be [recognised by the *Agentur für Arbeit*](#get-your-education-recognised). It must be equivalent to 2 years of training in Germany. If you have a university degree, try to get a [[Blue Card]]; it's better. Your job can be unrelated to your education.[^31]
+    You must be trained to do this job. Your education or training must be [recognised by the *Agentur für Arbeit*](/guides/residence-permit#get-your-education-recognised). It must be equivalent to 2 years of training in Germany. If you have a university degree, try to get a [[Blue Card]]; it's better. Your job can be unrelated to your education.[^31]
 
 If you are **not** a citizen of {{ BESCHV_26_1_COUNTRIES }}, you must have...[^49]
 
@@ -75,7 +75,7 @@ You can apply in Germany if...
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)[^41]
-- **or** you have a [[National Visa]] that you must [convert to a work visa](#convert-your-national-visa-into-a-work-visa).
+- **or** you have a [[National Visa]] that you must [convert to a work visa](/guides/residence-permit#convert-your-national-visa).
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 

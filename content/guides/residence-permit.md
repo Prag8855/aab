@@ -209,7 +209,7 @@ When you go to your appointment, bring...
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. You must sometimes pay later, when you pick up your residence permit. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Your family**  
-    If you apply for family reunion visas, your family must come with you.[^38]
+    If you apply for family reunion visas, or for residence permanent residence for a spouse, your family must come with you.[^38]
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
 - [ ] **Other required documents**  
@@ -436,5 +436,5 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^35]: Citation needed
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
-[^38]: Citation needed. Mention family reunion visa case.
+[^38]: Citation needed. [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^39]: Citation needed
