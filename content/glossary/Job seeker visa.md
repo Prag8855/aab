@@ -16,7 +16,7 @@ Related_guides:
     guides/german-visa-health-insurance.md
 ---
 
-The job seeker visa is a type of [[National Visa]]. It allows you to stay in Germany for 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). The job seeker visa was mostly replaced by the [opportunity card](/glossary/Chancenkarte).
+The job seeker visa is a type of [[National Visa]]. It allows you to stay in Germany for 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). The job seeker visa was mostly replaced by the [opportunity card](/glossary/Chancenkarte). The opportunity card is better.
 
 You can get a job seeker visa when...
 

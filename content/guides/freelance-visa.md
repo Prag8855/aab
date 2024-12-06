@@ -75,7 +75,8 @@ You can apply in Germany if...
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you have an [EU Permanent Residence](/guides/permanent-residence#eu-permanent-residence) in another country
-- **or** you have an [opportunity card](/glossary/Chancenkarte)[^4]
+- **or** you have an [opportunity card](/glossary/Chancenkarte)
+- **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)[^4]
 - **or** you have a [[National Visa]] for self-employment that you must [convert to a freelance visa](/guides/residence-permit#convert-your-national-visa)
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
@@ -365,14 +366,13 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
-[^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
 [^41]: [VAB 2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
 [^43]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/461865790948796/)
 [^44]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Gebuhren)
 [^45]: Multiple relocation consultants (November 2023)
-[^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [raptcat.com \(archived\)](https://web.archive.org/web/20160624092357/https://raptcat.com/2013/08/08/how-to-get-a-freelance-visa-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/500348680433840/?comment_id=500380820430626&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
+[^46]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=Forschern%20und%20Wissenschaftlern%3A-,stellungnahme%20des%20bisherigen%20arbeitgebers,-Stellungnahme%20des%20bisherigen), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/500348680433840/?comment_id=500380820430626&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^49]: [Kathleen Parker](/images/Screenshot-2022-03-29-at-17.42.31.png) at [Red Tape Translation](/out/red-tape-translation) (December 2023)
 [^50]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/475901026211939/?comment_id=475918202876888&reply_comment_id=475930016209040&comment_tracking=%7B%22tn%22%3A%22R%22%7D) (2018)
 [^52]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=per%20aktuellem%20kontoauszug), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=aktueller%20kontoauszug)
