@@ -39,9 +39,14 @@ In Berlin, there are 3 immigration office locations. Choose the correct one.
 
 ### Departments
 
-The Berlin immigration office has multiple departments.
+The Berlin immigration office has multiple departments. Send your application to the correct one.
 
-Try the specialised departments first, fall back to the country-based ones.
+- **B1, B2, B3, B4**  
+    For skilled workers, students, researchers and their family. They handle Blue Cards, work visas, student visas and more.
+- **Business Immigration Service (BIS)**  
+    ...
+- **E1, E2, E3, E4, E5, E6**  
+    For everyone else. They handle permanent residence, freelance visas, and everything else. Choose the department that is responsible for your country.
 
 ## How to get an appointment
 
