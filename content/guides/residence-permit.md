@@ -343,6 +343,8 @@ Your National Visa is only valid for up to 12 months.[^36] Before it expires, yo
 
 In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^26]
 
+If your National Visa is valid for your whole stay in Germany, you don't need to convert it to a residence permit.[^31] For example, if your internship visa is valid for your whole internship, you don't need to do anything.
+
 To convert your National Visa into a residence permit:
 
 1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
@@ -443,6 +445,7 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^28]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20) (December 2024)
 [^29]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^30]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20start%20working%20immediately%20after%20your%20entry) (December 2024)
+[^31]: Padcha, Thai Embassy in Berlin (December 2024)
 [^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
 [^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
 [^34]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
