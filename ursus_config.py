@@ -184,6 +184,7 @@ config.linters = (
     'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.table_of_contents.TableOfContentsLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
+    'extensions.linters.duplicate_titles.DuplicateTitlesLinter',
     'ursus.linters.footnotes.OrphanFootnotesLinter',
     'ursus.linters.images.UnusedImagesLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',

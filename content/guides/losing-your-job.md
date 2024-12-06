@@ -59,7 +59,7 @@ During your [probation period](/glossary/Probezeit), you can be fired without a 
 
 After your probation period ends, your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] [Get legal help](#need-help) for this.
 
-### Calculate your notice period
+### Finish your notice period
 
 Your job has a notice period (*[[Kündigungsfrist]]*), even during your [probation period](/glossary/Probezeit). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave). If you have unused vacation days, your employer usually forces you to go on vacation.
 

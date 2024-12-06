@@ -240,12 +240,6 @@ You will also get a letter in the mail. It's the activation code for your [[eID]
 
 **[How to activate your eID ➞](#activate-your-eid)**
 
-### 6. Give feedback
-
-Tell me how long it took to get your residence permit. Your feedback helps thousands of people plan their application.
-
-{% include "_blocks/feedbackResidencePermit/allTypes.html" %}
-
 ## How to apply in your country
 
 You can apply in your country before you move to Germany.[^26] This is **cheaper and safer**, because you can start working or studying as soon as you arrive in Germany. You don't need to wait in Germany without an income.[^29]

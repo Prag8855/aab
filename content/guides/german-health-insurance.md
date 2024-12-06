@@ -94,7 +94,7 @@ Use my [health insurance calculator](#your-options). The cost depends on your oc
 - **Not everyone is accepted**  
     If you are a self-employed, and you just moved from a non-EU country, it's really hard to get public health insurance. Public insurance companies are not forced to cover self-employed people.[^14] Most immigrant freelancers are forced to choose private or [expat health insurance](/glossary/Expat%20health%20insurance).
 
-### What it covers
+### What public insurance covers
 
 Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible.
 
@@ -171,7 +171,7 @@ With private health insurance, there is no nursing care insurance (*Pflegeversic
 
 Even if you *can* have private health insurance, private health insurers can reject you. For example, if you have serious health problems, they will reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more.
 
-### What it covers
+### What private insurance covers
 
 Private health insurance covers the same things as public health insurance, and often more. **Necessary healthcare is always covered.**
 

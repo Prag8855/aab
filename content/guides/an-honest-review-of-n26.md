@@ -27,9 +27,11 @@ This is my favourite feature. I really hate to pay to access my own money. I als
 
 ### There are no monthly fees
 
-Most banks now charge monthly fees, but N26 still has a free plan. This is why I opened an account in 2016. You can't live in Germany without a bank account, so you should not have to pay for it.
+The standard N26 account is free. The free account is not as good as before, but it's still great.
 
-N26 also has [paid plans](/out/n26-plans). Some of the paid features used to be free. You can live without them.
+In {{ now.strftime('%Y') }}, [most German banks](/guides/best-bank-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
+
+**[Best free bank accounts ➞](/guides/best-bank-germany#free-bank-accounts)**
 
 ### It's 100% in English
 
@@ -94,18 +96,10 @@ There are also things I don't like about N26. Here they are, in order of importa
 N26 fees and conditions get worse every year:
 
 - When you open an account, you must pay 10€ to get a plastic Mastercard. It used to be free.
-- The free account has 3 free ATM withdrawals per month. It used to be 5.
+- The free account has 2 free ATM withdrawals per month. It used to be 5.
 - The free account does not include Spaces.
 
 This is not just N26. Other banks also got worse. Every year, when I update my [comparison of German banks](/guides/best-bank-germany), I notice more fees and more limitations.
-
-### There are no monthly fees
-
-The standard N26 account is free. The free account is not as good as before, but it's still great.
-
-In {{ now.strftime('%Y') }}, [most German banks](/guides/best-bank-germany) have monthly fees. If you look at the [N26 fee list](https://docs.n26.com/legal/01+DE/01+Account/en/13account-pricelist-en.pdf), almost everything is free.
-
-**[Best free bank accounts ➞](/guides/best-bank-germany#free-bank-accounts)**
 
 ### Some passports are not supported
 
