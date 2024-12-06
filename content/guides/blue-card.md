@@ -135,7 +135,7 @@ While you wait for your *Ausländerbehörde* appointment, you should also...
 
 You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbehörde]]* appointment. It takes 15 minutes.
 
-**[Apply for the Blue Card](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index?lang=en)** - berlin.de
+**[Apply for the Blue Card](/out/auslanderbehorde-blue-card)**
 
 It costs {{NATIONAL_VISA_FEE|cur}}€. You can pay with Visa, Mastercard or PayPal, but not with cash or [[Girocard]].[^8] It's cheaper for Turkish citizens. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
@@ -227,7 +227,7 @@ Tell me how long it took to get your Blue Card. Your feedback helps thousands of
 
 ### Renew your Blue Card
 
-Your Blue Card is valid for up to 4 years. In Berlin, you must renew it around 8 weeks before it expires, not sooner.[^16] To renew your Blue Card, you must use [the same form](https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/BlaueKarte/index?lang=en) you used to apply for your Blue Card, or [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait). You can't get an appointment for this.
+Your Blue Card is valid for up to 4 years. In Berlin, you must renew it around 8 weeks before it expires, not sooner.[^16] To renew your Blue Card, you must use [the same form](/out/auslanderbehorde-blue-card) you used to apply for your Blue Card, or [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait).
 
 You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you can get it after 21 months.[^10]
 
