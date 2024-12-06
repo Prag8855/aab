@@ -136,7 +136,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the work visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to [department B1/B2/B3/B4](/guides/immigration-office#departments).
+To apply in Berlin, you must [use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents) to [department B1/B2/B3/B4](/guides/immigration-office#departments).
 
 Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment. They might also ask for more documents.
 
@@ -183,7 +183,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your 
 These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
 - [ ] **Passport**  
-    When you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. When you go to your *Ausländerbehörde* appointment, bring your original passport. You get it back during the appointment; they do not keep it.
+    When you [send your application](/guides/residence-permit#apply-online), include a colour scan of your passport. When you go to your *Ausländerbehörde* appointment, bring your original passport. You get it back during the appointment; they do not keep it.
 - [ ] **Passport photo** (35 × 45 mm)  
     The photo should be under 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
