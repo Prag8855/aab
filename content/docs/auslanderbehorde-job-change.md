@@ -32,7 +32,7 @@ You don't need to do this if...
 
 In Berlin, use the [*Ausländerbehörde*'s contact form](/out/auslanderbehorde-contact). Send the letter to the department who is responsible for you. Include a copy of your resignation letter, your termination notice, and your new work contract.
 
-**[How to contact the Ausländerbehörde ➞](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)**
+**[How to contact the Ausländerbehörde ➞](/guides/immigration-office#how-to-contact-the-auslanderbehorde)**
 
 The *Ausländerbehörde* takes a few weeks to reply. Sometimes, they don't reply at all.[^1]
 
