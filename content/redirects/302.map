@@ -19,7 +19,7 @@
 /out/appointment-international-driving-permit "https://service.berlin.de/terminvereinbarung/termin/all/121591/";
 /out/appointment-kfz-zulassungsstelle         "https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120906&dienstleisterlist=121364,121362&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120906%2F";
 /out/assigned-finanzamt-finder                "https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/GemFa/finanzamtsuche_node.html";
-/out/auslanderbehorde-appointment             "/guides/berlin-auslanderbehorde-appointment";
+/out/auslanderbehorde-appointment             "/guides/immigration-office";
 /out/auslanderbehorde-contact                 "https://www.berlin.de/einwanderung/ueber-uns/kontakt/";
 /out/auslanderbehorde-departments             "/out/auslanderbehorde-contact";
 /out/auslanderbehorde-organigram              "https://fluechtlingsrat-berlin.de/wp-content/uploads/telverz.pdf";
