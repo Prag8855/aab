@@ -75,6 +75,7 @@ You can apply in Germany if...
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
 - **or** you have an [EU Permanent Residence](/guides/permanent-residence#eu-permanent-residence) in another country
+- **or** you have an [opportunity card](/glossary/Chancenkarte)[^4]
 - **or** you have a [[National Visa]] for self-employment that you must [convert to a freelance visa](/guides/residence-permit#convert-your-national-visa)
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
@@ -339,6 +340,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^2]: [Elliot Herman](https://www.sorted.berlin/) (December 2024)
 [^3]: [Red Tape Translation](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/), [Reddit](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
+[^4]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2024)
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
 [^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
