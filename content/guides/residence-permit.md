@@ -74,6 +74,8 @@ If you don't have a job offer:
 
 - **[Freelance visa](/glossary/Freelance%20visa)** - [How to apply](/guides/freelance-visa)  
     For freelancers and self-employed people who want to live in Germany. You must have clients in Germany. The [[Artist visa]] is a type of freelance visa.
+- **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
+    You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 
 Other residence permits sometimes allow self-employment:
 
@@ -85,8 +87,6 @@ Other residence permits sometimes allow self-employment:
     Self-employment is [sometimes](https://redtapetranslation.com/can-you-freelance-on-a-working-holiday-youth-mobility-visa/) allowed.
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. There is no income or education requirement.[^19]
-- **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
-    You can already be self-employed. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
     [Check your *Zusatzblatt*](/guides/zusatzblatt) to see if self-employment is allowed.
 
