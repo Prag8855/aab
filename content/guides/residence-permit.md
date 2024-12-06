@@ -49,9 +49,9 @@ If you have a job offer:
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. You can work for any employer. There is no income or education requirement.[^19]
 - **[[Working Holiday Visa]]**  
-    For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. The Working Holiday Visa lets you work in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
+    For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. The Working Holiday Visa allows you to work in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[[Youth Mobility Visa]]**  
-    For Canadian citizens between 18 and 35 years old. This residence permit lets you work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
+    For Canadian citizens between 18 and 35 years old. This residence permit allows you to work and travel in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[[Internship visa]]**  
     For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
@@ -95,7 +95,7 @@ Other residence permits sometimes allow self-employment:
 - **[[Student visa]]**  
     For people who want to study in Germany. You must be enrolled in a German university. You can work during your studies. You can work while you study.
 - **[[Internship visa]]**  
-    For university students.[^6] This residence permit lets you do an internship in Germany. It's valid for 6 to 12 months.[^7]
+    For university students.[^6] This residence permit allows you to do an internship in Germany. It's valid for 6 to 12 months.[^7]
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. It allows you to study.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
@@ -264,7 +264,7 @@ To apply in your country:[^27]
 
 **If you apply for a [work visa](/glossary/Work%20Visa)**, you need a job offer *before* you apply. Your job offer must meet the [work visa requirements](/guides/work-visa#work-visa-requirements).
 
-**If you don't have a job offer**, get an [opportunity card](/glossary/Chancenkarte). It lets you come to Germany and look for work. If your spouse is a German resident, you can get a [family reunion visa](/glossary/Family%20reunion%20visa) instead.
+**If you don't have a job offer**, get an [opportunity card](/glossary/Chancenkarte). It allows you to come to Germany and look for work. If your spouse is a German resident, you can get a [family reunion visa](/glossary/Family%20reunion%20visa) instead.
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
@@ -325,7 +325,7 @@ Go to your appointment at the embassy or consulate, and give your documents. If 
 
 ### 6. Receive your National Visa
 
-In a few months, you must go to the embassy or consulate again.[^25] They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
+In a few months, you must go to the embassy or consulate again.[^25] They will give you a [[National Visa]]. This temporary visa allows you to [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
 ### 7. Move to Germany
 
@@ -366,7 +366,7 @@ Tell me how long it took to get your residence permit. Your feedback helps thous
 
 ### Bring your family to Germany
 
-The [family reunion visa](/glossary/Family%20reunion%20visa) lets you bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
+The [family reunion visa](/glossary/Family%20reunion%20visa) allows you to bring your family to Germany. If they have a family reunion visa, your family members can work, study, freelance or start a business in Germany.
 
 You can apply for it at the same time as your residence permit.
 
@@ -400,7 +400,7 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 ## Travel with a residence permit
 
-Your residence permit lets you travel in the [[Schengen area]] without a visa.
+Your residence permit allows you to travel in the [[Schengen area]] without a visa.
 
 If you travel outside Germany for more than 6 months, your residence permit expires.[^22] The [[Blue Card]] lets you travel for 12 months.
 

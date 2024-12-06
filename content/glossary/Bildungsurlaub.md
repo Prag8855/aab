@@ -9,7 +9,7 @@ Related_guides:
     guides/learn-german.md
 ---
 
-In Germany, the *Bildungsurlaub* or *Bildungszeit* is a paid education leave. It lets you take time off work to get professional training. During that time, you still get paid.
+In Germany, the *Bildungsurlaub* or *Bildungszeit* is a paid education leave. It allows you to take time off work to get professional training. During that time, you still get paid.
 
 Educational leave is a right. Your employer must allow it, with a few exceptions.
 

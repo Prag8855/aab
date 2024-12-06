@@ -12,7 +12,7 @@ Related_guides:
     guides/blue-card.md
 ---
 
-The German internship visa is a type of [residence permit](/glossary/Aufenthaltstitel). It lets university students do an internship (*Praktikum*) in Germany.[^1]
+The German internship visa is a type of [residence permit](/glossary/Aufenthaltstitel). It allows university students to do an internship (*Praktikum*) in Germany.[^1]
 
 This visa is for university students. It's valid for up to 6 months.[^2]
 
