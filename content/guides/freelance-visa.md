@@ -121,7 +121,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 4. Apply for the freelance visa
 
-To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), and send all the [required documents](#required-documents) to [the correct department](/guides/immigration-office#departments).
+To apply in Berlin, you must **send your documents online**. [Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde), and send all the [required documents](#required-documents) to [the correct department](/guides/immigration-office#departments).
 
 Wait for them to contact you. [A few months later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment. They might also ask for more documents.
 

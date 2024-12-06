@@ -42,7 +42,7 @@ After you receive your residence permit, you can activate the eID function at th
 
 To activate your eID at the *Ausländerbehörde*:
 
-1. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment). There is no form or appointment category for this; you must use the general contact form. **You can't activate your residence permit at the [[Bürgeramt]].**[^6]
+1. [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde). There is no special form for this; you must use the general contact form. **You can't activate your residence permit at the [[Bürgeramt]].**[^6]
 2. Wait to receive an appointment date. This can take a long time.
 3. Go to your *Ausländerbehörde* appointment. The appointment only takes a few minutes.
 

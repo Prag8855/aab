@@ -34,11 +34,11 @@ You get it from the *[[Ausländerbehörde]]* while you wait for a new residence 
 **Ask for it** when you apply for a residence permit.
 
 - **During your [[Ausländerbehörde]] appointment**  
-    When you visit the *Ausländerbehörde*, explain that you must travel outside of Germany, and that you need a *Fiktionsbescheinigung* for this. Bring proof of your travel plans.
+    During your residence permit appointment, explain that you must travel outside of Germany, and that you need a *Fiktionsbescheinigung* for this. Bring proof of your travel plans if you can.
 - **With your [residence permit](/glossary/Aufenthaltstitel) application**  
-    If [apply for your residence permit online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), ask for a *Fiktionsbescheinigung* in your message. Include proof of your travel plans.
+    When [apply for your residence permit](/guides/residence-permit#how-to-apply-in-berlin), ask for a *Fiktionsbescheinigung* in your message. Include proof of your travel plans.
 - **By email**  
-    [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). In your message, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5]
+    [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde). In your message, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] You can use the [emergency form](/out/auslanderbehorde-contact-emergency) for this.
 
 In Berlin, you can get a *Fiktionsbescheinigung* if...
 
@@ -47,11 +47,11 @@ In Berlin, you can get a *Fiktionsbescheinigung* if...
 - [ ] you have an important reason to travel (like a business trip or a conference)
 - [ ] you include proof of your travel plans (like flight tickets or invitations)
 
-In Berlin, they often ignore you or refuse to give you one.[^17] You must insist. You have the right to get a *Fiktionsbescheinigung*, even if you don't have travel plans or plane tickets.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one. If necessary, hire a lawyer.
+In Berlin, they often ignore you or refuse to give you a *Fiktionsbescheinigung*.[^17] You must insist. It's your right, even if you don't have travel plans or plane tickets.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one. If necessary, hire a lawyer.
 
 They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a 13€ fee.[^11]
 
-**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [get an *Ausländerbehörde* appointment](/guides/berlin-auslanderbehorde-appointment) or apply for a residence permit, the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
+**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [apply for a residence permit](/guides/residence-permit#how-to-apply-in-berlin), the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
 
 **If you currently have a [[Schengen visa]]**, you can't get a *Fiktionsbescheinigung*. Usually, you can't convert a [[Schengen visa]] to a residence permit. You must [apply for a residence permit](/guides/residence-permit#how-to-get-a-residence-permit) in your home country.[^3]
 
