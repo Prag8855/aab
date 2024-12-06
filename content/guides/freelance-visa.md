@@ -165,9 +165,9 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 
 **Your documents must convince the Ausländerbehörde** that your business will work, and that you will make enough money to support yourself.
 
-**If you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**, use PDF files or photos. Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter).
+**[When you send your application](#apply-for-permanent-residence)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
-**If you [apply in person](/guides/berlin-auslanderbehorde-appointment#)**, bring everything. Some *Ausländerbehörde* employees look at every document. Some ignore half of them. You never know, so you must bring everything. Missing documents can delay your application by a few weeks. Print everything on A4 paper. Do not staple the pages together.
+**[When you go to your appointment](/guides/residence-permit#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^2]
 
 ### Two types of freelance visa
 
@@ -337,6 +337,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
+[^2]: [Elliot Herman](https://www.sorted.berlin/) (December 2024)
 [^3]: [Red Tape Translation](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/), [Reddit](https://old.reddit.com/r/germany/comments/7rz3wc/question_transitioning_from_fulltime_to_freelance/dt0u1gv/)
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
