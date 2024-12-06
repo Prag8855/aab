@@ -12,7 +12,7 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-Some employers hire "freelancers", but treat them like employees. This is called fake self-employment or pseudo self-employment (*Scheinselbstständigkeit*).
+Some employers hire employees, but treat them like freelancers to avoid paying social benefits. This is called fake self-employment or pseudo self-employment (*Scheinselbstständigkeit*), and it's illegal.
 
 Generally, you are not self-employed if...[^0]
 

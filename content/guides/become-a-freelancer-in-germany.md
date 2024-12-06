@@ -7,15 +7,22 @@ Date_created: 2018-09-07
 
 This guide shows you how to [move to Germany](/guides/moving-to-berlin) and [start a business](/guides/start-a-business-in-germany).
 
-**If you already live in Germany**, you don't need this guide. Just read *[How to start a business in Germany](/guides/start-a-business-in-germany)*.
+**If you already live in Germany**, you don't need this guide. Instead, read *[how to start a business in Germany](/guides/start-a-business-in-germany)*.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Are you really a freelancer?
 
-Some employers hire "freelancers", but treat them like employees. This way, they don't have to pay social and healthcare. This is called fake self-employment (*[[Scheinselbstständigkeit]]*), and it's illegal.[^0]
+Some employers hire employees, but treat them like freelancers to avoid paying their social benefits. This is called fake self-employment or pseudo self-employment (*Scheinselbstständigkeit*), and it's illegal.[^0] It's a bad deal for you, because your employer does not pay half of your pension insurance or health insurance.
 
-**[What is fake self-employment?](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)** - Red Tape Translation
+Generally, you are not self-employed if...
+
+- You only have one client.
+- You are integrated in your client's business.
+- You always work at the same location. You can't choose where you work.
+- You have a fixed salary.
+
+**[What is fake self-employment? ➞](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)**
 
 ## Prepare for Germany
 
@@ -31,36 +38,40 @@ If you need a [freelance visa](/glossary/Freelance%20visa) to work in Germany, y
 
 ### Taxes and cost of living
 
-If you [start a business in Germany](/guides/start-a-business-in-germany), you must understand how much things cost, and how much taxes you will pay. Without this, you can't know if your business will work.
+To [start a business](/guides/start-a-business-in-germany), you need to estimate your costs. You must understand how much it will cost you to live in Germany.
 
 **[Cost of living in Germany ➞](/guides/cost-of-living)**
 
 **[Cost of running a business ➞](/guides/start-a-business-in-germany#cost-of-running-a-business)**
 
-You also need savings to get started. If you need a [residence permit](/glossary/Aufenthaltstitel) to freelance in Germany, you can't work before you get the permit. [It can take months](/guides/auslanderbehorde-wait-times) to get a freelance visa, and you need enough savings to wait. If you don't have enough savings, [apply for the residence permit in your home country](/guides/freelance-visa#how-to-apply-in-your-country), and move to Germany after you get the permit. It's cheaper and safer.
+You also need savings to get started. If you need a [residence permit](/glossary/Aufenthaltstitel) to freelance in Germany, you must wait for your freelance visa to start working. [It can take months](/guides/auslanderbehorde-wait-times). You need enough savings to wait.
+
+If you don't have enough savings, [apply for the residence permit in your home country](/guides/freelance-visa#how-to-apply-in-your-country), and move to Germany after you get the permit. It's cheaper and safer.
+
+Your current residence permit [might allow part-time self-employment](/guides/residence-permit#for-self-employment). In that case, you can start your business before you get your freelance visa.
 
 ### Business registration
 
 When you start a business in Germany, you must register your business in a few places:
 
-- **At the [[Finanzamt]]**  
-    You register your business at the *[[Finanzamt]]* by [filling the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung). This is how you receive your *[[Steuernummer]]* and your [VAT number](/glossary/Umsatzsteuernummer).
-- **At the Gewerbeamt**  
-    If you are a *Gewerbetreibender*, you must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). [More information about the *Gewerbesteuer*.](/guides/gewerbesteuer)
-- **With your health insurer**  
-    When you become self-employed, you must tell your health insurance. They will take health insurance contributions from your bank account every month.
+- [ ] **At the [[Finanzamt]]**  
+    You register your business at the *[[Finanzamt]]* by [filling the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung). This is how you receive your *[[Steuernummer]]* and your [VAT number](/glossary/Umsatzsteuernummer). All freelancers must do this.
+- [ ] **At the Gewerbeamt**  
+    If you are a *[[Gewerbetreibender]]*, you must [get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*) and [pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*). [More information about the *Gewerbesteuer*.](/guides/gewerbesteuer)
+- [ ] **With your health insurer**  
+    When you become self-employed, you must tell your health insurer. They will take health insurance contributions from your bank account every month.
 
-A [tax advisor](/guides/english-speaking-steuerberater-berlin) (*Steuerberater*) can register the business for you. It's much easier if they help you. [Sorted](/out/sorted-fragebogen) lets you do it yourself in English.
+A tax advisor (*[[Steuerberater]]*) can register the business for you. You can also use [Sorted](/out/sorted-fragebogen) to do it in English, for free.
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
 ### Health insurance
 
-In Germany, you *must* have [health insurance (*Krankenversicherung*)](/glossary/Krankenversicherung). It's mandatory. Health insurance is more expensive for freelancers, because your employer does not pay 50% of it.
+In Germany, you *must* have health insurance (*[[Krankenversicherung]]*). Health insurance is more expensive for freelancers, because your employer does not pay 50% of it.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
-You can choose between [private](/glossary/private%20Krankenversicherung) and [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you come from a non-EU country, you might be forced to get private health insurance. Public health insurers often refuse to cover freelancers from outside the EU.
+You can choose between [private](/glossary/private%20Krankenversicherung) and [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you come from a [non-EU](/glossary/European%20Union) country, you might be forced to get private health insurance. Public health insurers often refuse to cover freelancers from outside the EU.
 
 If you don't have a [residence permit](/glossary/Aufenthaltstitel) yet, you can also get expat health insurance. It's cheaper and easier to get, but you should switch to a real health insurance as soon as possible.
 
@@ -70,7 +81,7 @@ It's hard to [choose the right health insurance](/guides/german-health-insurance
 
 I trust [Feather](/out/feather). I work with them since 2018. I have my health insurance with them. They helped me switch to private insurance and save over 400€ *per month*. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with expats.
 
-If you already have German health insurance, tell your insurance company that you are now self-employed. When you have a job, they take health insurance contributions from your paycheck. When you are self-employed, they take the money from your bank account. If you have public health insurance, your monthly payments are based on your *estimated* income.
+If you already have German health insurance, tell your insurer that you are self-employed. When you have a job, they take health insurance contributions from your paycheck. When you are self-employed, they take them from your bank account. If you have public health insurance, your monthly payments are based on your *estimated* income, and adjusted every year.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
@@ -82,7 +93,7 @@ If you already have German health insurance, tell your insurance company that yo
 
 **Private liability insurance does not cover your business activities**. For that, you need professional liability insurance. If you cause an accident at work, the insurance company will pay the legal costs and the reparations. Professional liability insurance is more expensive, but it's also worth it.
 
-Professional liability insurance is *required* in some professions.[^3] Freelance doctors, veterinarians, architects, civil engineers, lawyers, and tax advisors must have liability insurance. For other professions, professional liability insurance is not required.
+Some professions *require* liability insurance: Freelance doctors, veterinarians, architects, civil engineers, lawyers, and tax advisors must have liability insurance.[^3] For other professions, professional liability insurance is not required.
 
 **[What does liability insurance cover? ➞](/guides/haftpflichtversicherung)**
 
@@ -158,9 +169,9 @@ This means you must approach German companies and get them to sign [letters of i
 
 ## Apply for a freelance visa
 
-If you are not a EU or [[EEA]] citizen or permanent resident, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany.
+If you are not a citizen of the EU, the [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to be self-employed in Germany.
 
-**[Do you need a residence permit? ➞](/guides/residence-permit)**
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
 If you need a residence permit, you must [apply for a German freelance visa](/guides/freelance-visa). [It takes a few months](/guides/auslanderbehorde-wait-times) to get it.[^8] You can't start working without it. If you already have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might allow you to freelance already.
 
