@@ -1,5 +1,5 @@
 from pathlib import Path
-from ursus.linters import LineLinter
+from ursus.linters import LineLinter, LineLinterResult
 import logging
 import re
 
@@ -15,7 +15,7 @@ class MultilineListsLinter(LineLinter):
     item_has_double_space = None
     list_regex = re.compile(r'^(?P<indent> *)(?P<bullet>[-*+]|\d+\.) (?P<content>.*)')
 
-    def lint_line(self, file_path: Path, line: str):
+    def lint_line(self, file_path: Path, line: str) -> LineLinterResult:
         match = self.list_regex.match(line)
 
         if self.previous_file_path != file_path:
