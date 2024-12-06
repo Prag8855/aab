@@ -143,8 +143,6 @@ There are also many language learning apps for German:
     Private video lessons with a private teacher. You can book lessons every hour, so you can make your own schedule. Your teacher helps you complete exercises, and asks you questions. You can skip exercises you understand, or slow down to ask questions. If you don't like your teacher, you can find a new one. It's a great way to practice German conversations. In my opinion, this is the best way to learn German. Many of my friends also love it.
 - **[Babbel](/out/babbel)**  
     Regular language lesson without a teacher. You learn German vocabulary and grammar, one module at the time. I used Babbel a lot when I moved to Germany. I like that it teaches you the grammar, and lets you choose what to study. I found it too boring.
-    - **[Babbel Live](/out/babbel)**  
-        Private video lessons with a live teacher, similar to Chatterbug.
 - **[Duolingo](https://www.duolingo.com/)** - free  
     This is a famous language learning app. It's more interesting than Babbel, but the mobile app does not explain the grammar really well. I find Duolingo too limited. I recommend [Babbel](/out/babbel) or [Chatterbug](/out/chatterbug) instead.
 - **[Deutschable](https://deutschable.com/enjoy-10e-off-a-premium-membership-all-about-berlin/)**  
