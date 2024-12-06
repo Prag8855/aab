@@ -22,7 +22,7 @@ You must do this if...
 You don't need to do this if...
 
 - You have German [permanent residence](/glossary/Niederlassungserlaubnis)
-- or you are a [EU](/glossary/European%20Union) or [[EEA]] citizen.
+- or you are a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
 
 ## Letter template
 
