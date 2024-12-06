@@ -129,6 +129,7 @@ You can only apply in Berlin if...
 
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^15]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or [renew it](#how-to-renew-a-residence-permit)
+- **or** you have an [EU Permanent Residence](/guides/permanent-residence#eu-permanent-residence) in another country
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa) or an [opportunity card](/glossary/Chancenkarte)
 - **or** you have a [[National Visa]] that you must convert to a residence permit.
 
@@ -388,7 +389,7 @@ Your residence permit lets you travel in the [[Schengen area]] without a visa.
 
 If you travel outside Germany for more than 6 months, your residence permit expires.[^22] The [[Blue Card]] lets you travel for 12 months.
 
-If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have [EU permanent residence](/guides/permanent-residence#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^21]
+If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have the [EU permanent residence](/guides/permanent-residence#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^21]
 
 To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 

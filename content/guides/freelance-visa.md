@@ -74,6 +74,7 @@ You can apply in Germany if...
 
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^9]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or renew it
+- **or** you have an [EU Permanent Residence](/guides/permanent-residence#eu-permanent-residence) in another country
 - **or** you have a [[National Visa]] for self-employment that you must [convert to a freelance visa](/guides/residence-permit#convert-your-national-visa)
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
