@@ -253,31 +253,49 @@ For most people, this is the only option.
 
 To apply in your country:[^27]
 
-1. Prepare your application. The required documents are different in each country. Find the list on your embassy or consulate's website. You might also need to find a job and get your education recognised.
-2. Get an appointment at [the German embassy or consulate in your country](/out/consulate-finder). This can take a few months.
-3. Go to your appointment. They will take your documents and process your application. This can take a few months.
-4. Receive a [[National Visa]]. It lets you to come to Germany and start working or studying.
-5. After you arrive in Germany, convert your National Visa into a residence permit at the *[[Ausländerbehörde]]*.
+1. Find a job, if your residence permit requires a job offer.
+2. Prepare your application.
+3. Get an appointment at the German embassy or consulate in your country. At some embassies, you can apply online, so you don't need an appointment.
+4. Go to your appointment.
+5. Receive a [[National Visa]].
+6. Come to Germany and start working or studying.
+6. Convert your National Visa into a residence permit.
 
 **To make things faster**, use the fast track procedure (*Beschleunigtes Verfahren*). It's faster and easier, but it costs 411€.[^39]
 
-### 1. Get your education recognised
+### 1. Find a job
 
-**To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]]**, you need a university or vocational training. Your education must be recognised in Germany. It must be equivalent to 2 years of training in Germany.[^31]
+**If you apply for a [[Blue Card]]**, you need a job offer *before* you apply. Your job offer must meet the [Blue Card requirements](/guides/blue-card#blue-card-requirements).
 
-You must get your training recognised *before* you apply for your National Visa. The process depends on your profession.[^32] It takes a few weeks to a few months.[^33] There might be an interview or a competence test, and you might need to pay for it.[^34]
+**If you apply for a [work visa](/glossary/Work%20Visa)**, you need a job offer *before* you apply. Your job offer must meet the [work visa requirements](/guides/work-visa#work-visa-requirements).
+
+**If you don't have a job offer**, get an [opportunity card](/glossary/Chancenkarte). It lets you come to Germany and look for work. If your spouse is a German resident, you can get a [family reunion visa](/glossary/Family%20reunion%20visa) instead.
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+### 2. Get your education recognised
+
+**If you apply for a [work visa](/glossary/Work%20Visa), [[Blue Card]] or [opportunity card](/glossary/Chancenkarte)**, you might need a recognised university degree or vocational training. You must get your education recognised.
+
+**[Blue Card requirements ➞](/guides/blue-card#blue-card-requirements)**
+
+**[Work visa requirements ➞](/guides/work-visa#work-visa-requirements)**
+
+The process depends on your profession.[^32] It takes a few weeks to a few months.[^33] There might be an interview or a competence test, and you might need to pay for it.[^34] You can do this in advance, or after you get your job offer.
 
 **[How to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
 
-If you are a citizen of {{ BESCHV_26_COUNTRIES }}, you don't need a degree or vocational training. Skip this step.
-
-If you studied in Germany, your education is already recognised. Skip this step.
-
 If you use the fast track procedure (*Beschleunigtes Verfahren*), skip this step. You submit all your documents at once, and the embassy or consulate takes care of it.[^35]
 
-### 2. Get an appointment at the German embassy or consulate
+If you are a citizen of {{ BESCHV_26_COUNTRIES }}, you don't need a degree or vocational training. Skip this step.
 
-Get an appointment at the German embassy or consulate in your country. It can take months to get an appointment.[^3]
+If you have a lot of work experience, you might not need a degree or vocational training.[^40]
+
+If you graduated in Germany, your education is already recognised. Skip this step.
+
+### 3. Get an appointment at the German embassy or consulate
+
+Get an appointment at the German embassy or consulate in your country. It can take a long time to get an appointment.[^3] At most embassies, you can only book an appointment a few weeks in advance.
 
 In some countries, you can apply for a [[National Visa]] online, so you don't need an appointment.
 
@@ -285,7 +303,7 @@ In some countries, you can apply for a [[National Visa]] online, so you don't ne
 
 **Do not apply for a [[Schengen visa]].** Schengen visas are for tourism, not immigration. You can't convert a Schengen visa into a residence permit.[^9]
 
-### 3. Prepare for your appointment
+### 4. Prepare for your appointment
 
 Before your embassy or consulate appointment, you must...
 
@@ -306,15 +324,15 @@ If you apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you mu
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. Prepare these documents too.
 
-### 4. Go to your National Visa appointment
+### 5. Go to your National Visa appointment
 
 Go to your appointment at the embassy or consulate, and give your documents. If you have all the required documents, it only takes a few minutes.
 
-### 5. Receive your National Visa
+### 6. Receive your National Visa
 
 In a few months, you must go to the embassy or consulate again.[^25] They will give you a [[National Visa]]. This temporary visa lets you [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
-### 6. Move to Germany
+### 7. Move to Germany
 
 After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/best-bank-germany). Your National Visa allows you to [start working](/guides/find-a-job-in-berlin#step-6-start-working) or [start your business](/guides/start-a-business-in-germany) as soon as you arrive.[^30]
 
@@ -324,7 +342,7 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 
-### 7. Convert your National Visa
+### 8. Convert your National Visa
 
 Your National Visa is only valid for up to 12 months.[^36] Before it expires, you must convert it into a residence permit at the *[[Ausländerbehörde]]*.
 
@@ -439,3 +457,4 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^38]: Citation needed. [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^39]: Citation needed
+[^40]: Citation needed
