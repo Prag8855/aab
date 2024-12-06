@@ -20,8 +20,10 @@ With a work visa, you can...
 
 - Live and work anywhere in Germany
 - Study in Germany
-- Work during your studies[^1]
+- Work part-time during your studies[^1]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
+
+Self-employment is [sometimes](/guides/residence-permit#for-self-employment) allowed.
 
 You must apply for a student visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
 
