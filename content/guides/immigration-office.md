@@ -57,6 +57,8 @@ It might be cheaper and safer to apply for a [[National Visa]] in your home coun
 
 The Berlin Ausländerbehörde accepts Visa and Mastercard.
 
+If you apply for a residence permit online, you can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].
+
 ??? Do they accept cash. Is Keplerstraße different? ???
 
 ### How to pay
