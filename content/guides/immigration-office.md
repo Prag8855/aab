@@ -17,11 +17,17 @@ The *Ausländerbehörde* is hard to contact.
 1. **[Find your department](#departments)**  
     Contact the correct department.
 2. **[Use the contact form](/out/auslanderbehorde-contact)**  
-    Find your department's contact form. If it's urgent, use the [emergency contact form](/out/auslanderbehorde-contact-emergency). Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). Use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). If you apply for a residence permit, send a complete application; don't wait for them to ask for your documents.
+    Find your department's contact form. If it's urgent, use the [emergency form](#emergencies). Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). Use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). If you apply for a residence permit, send a complete application; don't wait for them to ask for your documents.
 4. **Wait for a response**  
     They [take a long time to reply](/guides/auslanderbehorde-wait-times).
 5. **Reply to their messages**  
     They will reply by email. Sometimes, you can't reply to their email, so you must use the contact form again.
+
+### Emergencies
+
+If it's urgent, choose the *Eiliger Termin/Notfall* category in the contact form.[^1]
+
+![How to choose the emergency appointment option on the LEA contact form](/images/lea-emergency-form.png)
 
 ### Locations
 
@@ -73,4 +79,5 @@ The immigration office does not give immigration advice. An [immigration lawyer]
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
+[^1]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/kontakt/formular.1261385.php) (December 2024)
 [^2]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1473221.php) (August 2024)

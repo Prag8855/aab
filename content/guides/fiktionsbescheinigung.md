@@ -38,7 +38,7 @@ You get it from the *[[Ausländerbehörde]]* while you wait for a new residence 
 - **With your [residence permit](/glossary/Aufenthaltstitel) application**  
     When [apply for your residence permit](/guides/residence-permit#how-to-apply-in-berlin), ask for a *Fiktionsbescheinigung* in your message. Include proof of your travel plans.
 - **By email**  
-    [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde). In your message, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] You can use the [emergency form](/out/auslanderbehorde-contact-emergency) for this.
+    [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde). In your message, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] If you must travel in a few weeks, use the [emergency form](/guides/immigration-office#emergencies).
 
 In Berlin, you can get a *Fiktionsbescheinigung* if...
 
