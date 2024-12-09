@@ -1,3 +1,4 @@
+from extensions.functions import soft_hyphen
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from PIL.Image import Image as ImageType
@@ -99,13 +100,17 @@ class EntryImageRenderer(Renderer):
     Creates social media images for entries
     """
 
-    def get_image_text(self, entry: Entry) -> str:
-        return str(entry.get('short_title') or entry.get('title'))
+    def get_image_text(self, entry: Entry) -> str | None:
+        if not(entry.get('short_title') or entry.get('title')):
+            return None
+        return str(entry.get('short_title') or entry.get('title')).replace(soft_hyphen, '')
 
     def get_hash(self, entry: Entry) -> str:
-        return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
+        if not (text := self.get_image_text(entry)):
+            raise ValueError("Entry has no image text")
+        return hashlib.md5(text.encode("utf-8")).hexdigest()
 
-    def render(self, context, changed_files=None) -> set:
+    def render(self, context: Context, changed_files: set[Path] | None = None) -> set[Path]:
         files_to_keep = set()
         for entry_uri, entry in context['entries'].items():
             if not self.get_image_text(entry):
@@ -121,6 +126,7 @@ class EntryImageRenderer(Renderer):
                 if abs_image_path.exists():
                     existing_image = Image.open(abs_image_path)
                     exif = existing_image.getexif()
+                    print([exif.get(exif_description_field), self.get_hash(entry)])
                     needs_rerender = exif.get(exif_description_field) != self.get_hash(entry)
 
             if needs_rerender:
