@@ -27,8 +27,6 @@ If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Swi
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
-**[Work visa alternatives ➞](/guides/residence-permit#for-work)**
-
 ## Work visa requirements
 
 To get a work visa, you need...[^18]
@@ -176,6 +174,8 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your work vis
 You can also apply for a work visa in your country, then move to Germany. This is **cheaper and safer**, because when you arrive in Germany, you can already start working. You don't need to wait in Germany without an income.
 
 You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [work visa requirements](#work-visa-requirements).
+
+**To get a work visa faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 

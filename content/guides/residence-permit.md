@@ -256,7 +256,7 @@ To apply in your country:[^27]
 6. Come to Germany and start working or studying.
 6. Convert your National Visa into a residence permit.
 
-**To make things faster**, use the fast track procedure (*Beschleunigtes Verfahren*). It's faster and easier, but it costs 411€.[^39]
+**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39]
 
 ### 1. Find a job
 
@@ -280,11 +280,11 @@ The process depends on your profession.[^32] It takes a few weeks to a few month
 
 **[How to get your education recognised ➞](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)**
 
-If you use the fast track procedure (*Beschleunigtes Verfahren*), skip this step. You submit all your documents at once, and the embassy or consulate takes care of it.[^35]
+If you use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*), skip this step. You submit all your documents at once, and the embassy or consulate takes care of it.[^35]
 
 If you are a citizen of {{ BESCHV_26_COUNTRIES }}, you don't need a degree or vocational training. Skip this step.
 
-If you have a lot of work experience, you might not need a degree or vocational training.[^40]
+If you have a lot of work experience, you might not need a degree or vocational training. See the [work visa](/guides/work-visa#work-visa-requirements) and [Blue Card](/guides/blue-card#blue-card-requirements) requirements.
 
 If you graduated in Germany, your education is already recognised. Skip this step.
 
@@ -449,9 +449,8 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
 [^33]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
 [^34]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
-[^35]: Citation needed
+[^35]: [German embassy](https://tunis.diplo.de/tn-de/service/05-visaeinreise/2440614-2440614#:~:text=falls%20erforderlich%20gehoren%20hierzu%20auch%20das%20verfahren%20zur%20anerkennung%20der%20auslandischen%20berufsausbildung) (December 2024),  Charlotte Forestier, immigration consultant (December 2024)
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
 [^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
-[^38]: Citation needed. [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
-[^39]: Citation needed
-[^40]: Citation needed
+[^38]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
+[^39]: [§47 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__47.html)

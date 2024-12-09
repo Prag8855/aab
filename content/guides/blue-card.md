@@ -16,7 +16,7 @@ With a Blue Card, you can...
 - Live and work anywhere in Germany
 - Bring your family to Germany[^14]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
-- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 27 months (21 months if you speak B1 German)[^10]
+- Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 21 to 27 months[^10]
 - Become a citizen after 5 years
 
 This guide explains how to apply for a [[Blue Card]] in Berlin or in your country.
@@ -28,8 +28,6 @@ This guide explains how to apply for a [[Blue Card]] in Berlin or in your countr
 If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The Blue Card is a type of residence permit.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
-
-**[Blue Card alternatives ➞](/guides/residence-permit#for-work)**
 
 ## Blue Card requirements
 
@@ -141,6 +139,8 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
+
+**To get a Blue Card faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
 
 ### 5. Wait
 

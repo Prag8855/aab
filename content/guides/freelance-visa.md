@@ -32,8 +32,6 @@ If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Swi
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
-**[Freelance visa alternatives ➞](/guides/residence-permit#for-self-employment)**
-
 ## Freelance visa requirements
 
 To get a freelance visa, you need...[^18]

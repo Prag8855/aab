@@ -14,8 +14,7 @@ This is a guide for the *Landesamt für Einwanderung*, the immigration office in
 
 The *Ausländerbehörde* is hard to contact.
 
-1. **[Find your department](#departments)**  
-    Contact the correct department.
+1. **[Find your department](#departments)**
 2. **[Use the contact form](/out/auslanderbehorde-contact)**  
     Find your department's contact form. If it's urgent, use the [emergency form](#emergencies). Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). Use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). If you apply for a residence permit, send a complete application; don't wait for them to ask for your documents.
 4. **Wait for a response**  
