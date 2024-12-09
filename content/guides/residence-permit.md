@@ -256,7 +256,7 @@ To apply in your country:[^27]
 6. Come to Germany and start working or studying.
 6. Convert your National Visa into a residence permit.
 
-**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39]
+**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39] In India, Pakistan and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps.[^40]
 
 ### 1. Find a job
 
@@ -454,3 +454,4 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^38]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^39]: [§47 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__47.html)
+[^40]: Simon Wilkinson, [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)

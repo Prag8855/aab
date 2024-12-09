@@ -140,8 +140,6 @@ It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You ca
 
 After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
 
-**To get a Blue Card faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
-
 ### 5. Wait
 
 The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
@@ -173,6 +171,8 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Car
 You can also apply for a Blue Card in your country, then move to Germany. This is **cheaper and safer**, because when you arrive in Germany, you can already start working. You don't need to wait in Germany without an income.
 
 You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
+
+**To get a Blue Card faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 
