@@ -1,9 +1,10 @@
+from typing import Match
 from ursus.context_processors import Entry
 import pyphen
 import re
 
 
-def remove_accents(string: str):
+def remove_accents(string: str) -> str:
     substitutions = (
         (r'[àáâãäå]', 'a'),
         (r'[èéêë]', 'e'),
@@ -16,7 +17,7 @@ def remove_accents(string: str):
     return string.upper()
 
 
-def glossary_sorter(entry: dict):
+def glossary_sorter(entry: Entry) -> str:
     return remove_accents(entry['german_term'])
 
 
@@ -39,7 +40,7 @@ soft_hyphen = '­'
 
 
 def hyphenate(text: str, lang: str = 'en_US', hyphen: str = soft_hyphen) -> str:
-    def hyphenate_word(match) -> str:
-        return hyphenation_dict.inserted(match.group(), hyphen)
+    def hyphenate_word(match: Match[str]) -> str:
+        return str(hyphenation_dict.inserted(match.group(), hyphen))
 
     return re.sub(long_word_pattern, hyphenate_word, text)

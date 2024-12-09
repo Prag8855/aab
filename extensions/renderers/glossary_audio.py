@@ -1,4 +1,5 @@
 from ursus.config import config
+from ursus.context_processors import Context
 from ursus.renderers import Renderer
 from pathlib import Path
 import base64
@@ -14,7 +15,7 @@ class GlossaryAudioRenderer(Renderer):
     Creates TTS files for glossary entries
     """
 
-    def render(self, context: dict, changed_files: set = None) -> set:
+    def render(self, context: Context, changed_files: set[Path] | None = None) -> set[Path]:
         files_to_keep = set()
 
         german_terms_to_render = [
