@@ -5,7 +5,7 @@ English_term: German immigration office
 Description: The foreigners' office. It's responsible for German immigration, visas and residence permits. Also called LEA or Einwanderungsamt.
 Date_created: 2017-09-22
 Related_guides:
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/residence-permit.md
     guides/blue-card.md

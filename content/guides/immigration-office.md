@@ -14,7 +14,7 @@ This is a guide for the *Landesamt für Einwanderung*, the immigration office in
 
 ### Apply online
 
-Some residence permits have online application forms. Use those forms to apply.
+Some residence permits have their own application form. Use that form to apply.
 
 - [[Blue Card]]
 - Citizenship
@@ -98,11 +98,17 @@ Usually, you can't work or study before you get your residence permit. It might 
 
 At the *Ausländerbehörde*, you can pay with Visa, Mastercard, cash or [[Girocard]].[^4]
 
-When you apply for a residence permit online, you sometimes need to pay in advance. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^5]
+When you apply for a residence permit online, you sometimes need to pay in advance, during your application. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^5]
 
 ### How to pay
 
-They will give you a plastic payment card. Bring it to the payment machine in the building, and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can go home. You don't need to bring the proof of payment to your case worker.
+At the end of your appointment, you get a plastic [payment card](/images/auslanderbehoerde-kassenkarte.jpg) (*Kassenkarte*). Bring it to a [payment machine](/images/auslaenderbehoerde-kassenautomat.jpg) (*Kassenautomat*). Follow [the signs](/images/auslanderbehoerde-signs.jpg) to find it. These machines accept cash, EC cards, Visa and Mastercard.[^4] If your card is not accepted, get cash from an ATM.
+
+![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
+
+![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat-2.jpg "Payment machines at the Ausländerbehörde")
+
+After you paid, you can go home. You don't need to go back to your case worker. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. 
 
 ## Sue the Ausländerbehörde
 
@@ -131,7 +137,7 @@ The immigration office does not give immigration advice. An [immigration lawyer]
 [^7]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
 [^8]: [Twitter](https://twitter.com/mgill25/status/1732466237140062646) (December 2023)
 [^9]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
-[^10]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1366344.php#:~:text=our%20clients%20can%20now%20only%20use) (September 2023)
+[^10]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1366344.php#:~:text=our%20clients%20can%20now%20only%20use) (September 2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1394576074750358/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1406105666930732/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1398591451015487/) (2023)
 [^11]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html#:~:text=ablauf%20von%20drei%20monaten), [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/), [Red Tape Translation](https://redtapetranslation.com/faxhack/)
 [^12]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2024)
 [^13]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2024)

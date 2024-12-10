@@ -6,7 +6,7 @@ Description: The Berlin immigration office (Ausländerbehörde) handles German v
 ssml: Landesamt für Einwanderung
 Date_created: 2021-06-08
 Related_guides:
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/residence-permit.md
 ---

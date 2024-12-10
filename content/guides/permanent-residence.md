@@ -292,7 +292,7 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    When you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. When you go to your *Ausländerbehörde* appointment, bring your original passport. You get it back during the appointment; they do not keep it.[^70]
+    When you [apply online](#apply-for-permanent-residence), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^70]
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted.
     - [ ] **Health insurance card**

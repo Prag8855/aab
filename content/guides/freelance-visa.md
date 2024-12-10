@@ -139,7 +139,7 @@ The *Ausländerbehörde* will process your application, then invite you for an a
 
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
-### 6. Go to your freelance visa appointment
+### 6. Go to your appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
@@ -189,7 +189,7 @@ There are two types of self-employed people. They get a different kind of freela
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    When you [apply online](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait), include a colour scan of your passport. When you go to your *Ausländerbehörde* appointment, bring your original passport. You get it back during the appointment; they do not keep it.[^75]
+    When you [apply online](#apply-for-the-freelance-visa), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^75]
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**

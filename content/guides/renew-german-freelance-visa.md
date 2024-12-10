@@ -99,7 +99,7 @@ Go to the **[list of required documents ➞](#required-documents)**
 
 You can't book an *Ausländerbehörde* appointment. You must use their contact form to send your documents, then wait for a response. They can take [a few months](/guides/auslanderbehorde-wait-times) to reply.
 
-**[How to send your documents ➞](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**
+**[How to send your documents ➞](/guides/residence-permit#apply-online)**
 
 When they reply, they will give you an appointment. This appointment can be [in a few months](/guides/auslanderbehorde-wait-times). They might also ask for more documents.
 
@@ -109,7 +109,7 @@ In most cases, your current [residence permit](/glossary/Aufenthaltstitel) stays
 
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
-If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
+If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
@@ -131,15 +131,13 @@ The *Ausländerbehörde* might ask you to bring new or updated documents to your
 
 **If some documents are missing**, you will not get a freelance visa. You will get a new appointment. You must go home, get the missing documents, and come back for your next appointment. If your current visa has expired, you will get a *[[Fiktionsbescheinigung]]*.
 
-**[What happens during your Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens during your Ausländerbehörde appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 5. Receive your new residence permit
 
-**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
-
-**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
+**[Pick up your residence card ➞](/guides/residence-permit#pick-up-your-residence-card)**
 
 ## Required documents
 

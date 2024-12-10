@@ -10,7 +10,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
 Categories:
     auslaenderbehoerde
 ---

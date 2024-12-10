@@ -10,7 +10,7 @@ Related_guides:
     guides/residence-permit.md
     guides/permanent-residence.md
     guides/find-a-job-in-berlin.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md

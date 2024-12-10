@@ -9,7 +9,7 @@ Date_created: 2018-07-11
 Related_guides:
     guides/freelance-visa.md
     guides/start-a-business-in-germany.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/become-a-freelancer-in-germany.md
 Categories:
     auslaenderbehoerde

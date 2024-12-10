@@ -116,7 +116,7 @@ If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](
 
 To inform the *Ausländerbehörde*, you must...
 
-1. [Choose the right department to contact](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). For a work visa or a Blue Cards, it's department B1/B2/B3/B4.
+1. [Choose the right department to contact](/guides/immigration-office#departments). For a work visa or a Blue Cards, it's department B1/B2/B3/B4.
 2. Write a letter in German. Use my [letter generator](/docs/auslanderbehorde-job-change). It must include:
     - [ ] Your full name
     - [ ] Your date and place of birth
@@ -125,7 +125,7 @@ To inform the *Ausländerbehörde*, you must...
     - [ ] When your employment ends
 3. Include these documents with your message:[^2]
     - [ ] A copy of your termination notice or [resignation letter](/glossary/Kündigungsschreiben)
-4. Send your letter with [the official contact form](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
+4. Send your letter with [the official contact form](/guides/immigration-office#use-the-contact-form). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
 5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take many weeks to reply.[^46] They might not reply at all.
 
 **If you change jobs**, you might need permission from the *Ausländerbehörde* to start working. [It depends](#what-happens-to-your-residence-permit) on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for. With a Blue Card, you can immediately start your new job.
@@ -181,7 +181,7 @@ After you inform the *[[Ausländerbehörde]]*, nothing happens. **Your [residenc
 When you [find a new job](/guides/find-a-job-in-berlin), you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
 
 - **If you have a [[Blue Card]]**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission, but you must inform them of the job change. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
+    You can start a new job. You don't need the *Ausländerbehörde*'s permission, but you must inform them of the job change. [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
 - **If you had <u>this</u> residence permit for at least 2 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission. Email them a copy of your new work contract.[^4]
 - **If you had <u>any</u> residence permit for at least 3 years**  

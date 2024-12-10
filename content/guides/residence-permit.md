@@ -174,17 +174,17 @@ There are many ways to apply in Berlin:
 - **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{% include '_blocks/recommended.html' %}  
     If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
 - or **use the application form**  
-    The Blue Card, the student visa and some other residence permits have their own application form. Use that form to apply.
+    The Blue Card, student visa, permanent residence and [some other residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.
 - or **use the contact form**  
-    If there is no application form for your residence permit, [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send your documents.
+    If there is no application form for your residence permit, [use the contact form](/guides/immigration-office#use-the-contact-form) to send your documents.
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. It takes [a few weeks to a few months](/guides/auslanderbehorde-wait-times) to get a response, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
+The *Ausländerbehörde* will process your application. It takes [weeks or months](/guides/auslanderbehorde-wait-times) to get a response, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
 **[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 
-They will email you and give you an appointment date. The appointment could be months in the future.
+They will email you and give you an appointment date. The appointment could be months in the future. If they can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
 If your current [[National Visa]] or residence permit expires while you wait, don't panic. It stays valid until the *[[Ausländerbehörde]]* makes a decision. You don't need to leave Germany.
 
@@ -194,7 +194,7 @@ If your current [[National Visa]] or residence permit expires while you wait, do
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
-Go to the correct *Ausländerbehörde*. There are [two locations in Berlin](/guides/immigration-office#locations).
+If you get invited for an appointment, you are almost certain to get your residence permit.[^56]
 
 When you go to your appointment, bring...
 
@@ -206,26 +206,38 @@ When you go to your appointment, bring...
         If you apply for family reunion visas, bring everyone's passports.
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. You must sometimes pay later, when you pick up your residence permit. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+- [ ] **Other required documents**  
+    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
 - [ ] **Your family**  
     If you apply for family reunion visas, or for residence permanent residence for a spouse, your family must come with you.[^38]
 - [ ] **A translator** (optional)  
     Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
-- [ ] **Other required documents**  
-    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
 
-The appointment takes 15 to 30 minutes. You sit in a waiting room and wait for your number to be called on the screen. You go to the right office, meet your case worker, give your documents, and answer a few questions.
+Go to the [correct *Ausländerbehörde*](/guides/immigration-office#locations). Arrive early. You need enough time to find the correct waiting room. If you are late, they might refuse to help you.[^53]
+
+Inside the *Ausländerbehörde*, find the right office, floor and room. This information is on your appointment confirmation. The security staff can help you.
+
+[![Berlin Ausländerbehörde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
+
+Sit in the correct waiting room. Wait until the television shows your number. Go to the office number (*Platz*) you see on the television.
+
+The appointment takes a few minutes. You sit in a waiting room and wait for your number to be called on the screen. You give your documents and answer a few questions.
 
 If they approve your residence permit, you must [pay the application fee](/guides/immigration-office#payment-methods).
+
+If documents are missing, ask if you can email them. You will pay the fee and give your fingerprints, so you don't need another *Ausländerbehörde* visit.[^55]
 
 Then, they will print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). You will get a second appointment to pick up the card. They do not mail the card to you.
 
 You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your residence was approved. It allows you to start working or studying, but it's not a valid travel document. You can't leave and re-enter Germany with that document.
 
-You might also get a *[[Fiktionsbescheinigung]]*. This document allows you to travel outside of Germany with an expired residence permit. You might need to ask for it. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
+Ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
 ### 5. Pick up your residence card
 
 Go to your second *[[Ausländerbehörde]]* appointment. Bring your passport and your old residence permit. You will get a plastic residence card and a paper *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
+
+If you pick up a residence permit for a child, they don't need to come with you.[^54]
 
 During your appointment...
 
@@ -349,8 +361,8 @@ If your National Visa is valid for your whole stay in Germany, you don't need to
 
 To convert your National Visa into a residence permit:
 
-1. **[Contact the Ausländerbehörde](/guides/berlin-auslanderbehorde-appointment)**  
-    Write to the *Ausländerbehörde* 3 to 4 months before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment.
+1. **[Contact the Ausländerbehörde](/guides/immigration-office#how-to-contact-the-auslanderbehorde)**  
+    Write to the *Ausländerbehörde* around 8 weeks before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment. [If your National Visa expires](#if-your-visa-or-residence-permit-expires), you can stay in Germany and keep working or studying.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your residence permit.
 3. **Pick up your residence permit**  
@@ -439,6 +451,11 @@ You can stay in Germany after it expires if...
 While you wait for your first residence permit, you can't work or study.
 
 **If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.[^49]
+
+### Travel with an expired residence permit
+
+**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
+
 ## Need help?
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
@@ -498,3 +515,7 @@ While you wait for your first residence permit, you can't work or study.
 [^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^51]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^52]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
+[^53]: [c/o Germany](https://co-germany.de/freelance-visa/#:~:text=you%20lost%20it%20and%20have%20no%20chance) (2019)
+[^54]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1661970501344246/) (November 2024)
+[^55]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)
+[^56]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023), Emily Archer at [Archer Relocation](https://archer-relocation.com/) (November 2023)

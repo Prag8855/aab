@@ -151,7 +151,7 @@ If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours
 
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
-### 6. Go to your work visa appointment
+### 6. Go to your appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
@@ -186,7 +186,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your 
 These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
 - [ ] **Passport**  
-    When you [send your application](/guides/residence-permit#apply-online), include a colour scan of your passport. When you go to your *Ausländerbehörde* appointment, bring your original passport. You get it back during the appointment; they do not keep it.
+    When you [apply online](#apply-for-the-work-visa), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
 - [ ] **Passport photo** (35 × 45 mm)  
     The photo should be under 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
