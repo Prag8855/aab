@@ -189,6 +189,8 @@ When you [find a new job](/guides/find-a-job-in-berlin), you might need permissi
 - **Everyone else**  
     You need permission from the *Ausländerbehörde* to start a new job.[^41] You must basically apply for a new work visa or Blue Card.[^37] This can take a few months.[^39]
 
+Some employers don't know the rules well. They might refuse to let you start working, because they think that you don't have permission.
+
 If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, you can get a language course visa and stay up to 12 months longer.[^29]
 
 If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it expires at the same time as your residence permit.[^43] Your spouse could get a [work visa](/glossary/Work%20Visa) and sponsor your [family reunion visa](/glossary/Family%20reunion%20visa).[^35]
