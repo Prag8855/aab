@@ -32,9 +32,9 @@ If it's urgent, choose the *Eiliger Termin/Notfall* category in the contact form
 
 In Berlin, there are 3 immigration office locations. Choose the correct one.
 
-- [Friedrich-Krause-Ufer](https://maps.app.goo.gl/12kPWwFvb4F1tAVv9)
-- [Keplerstraße](https://maps.app.goo.gl/tLAzNTxsVW7eRJqi6)
-- [Fasanenstraße](https://maps.app.goo.gl/SGWoaKtse5phxsQj6)
+- [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/)
+- [Keplerstraße](https://service.berlin.de/standort/327437/)
+- [Fasanenstraße](https://service.berlin.de/standort/327805/) (Business Immigration Service)
 
 ### Departments
 
@@ -43,13 +43,13 @@ The Berlin immigration office has multiple departments. Send your application to
 - **B1, B2, B3, B4**  
     For skilled workers, students, researchers and their family. They handle Blue Cards, work visas, student visas and more.
 - **Business Immigration Service (BIS)**  
-    ...
+    For skilled workers and their family.
 - **E1, E2, E3, E4, E5, E6**  
     For everyone else. They handle permanent residence, freelance visas, and everything else. Choose the department that is responsible for your country.
 
 ## How to get an appointment
 
-You need an appointment to visit the *Ausländerbehörde*. If you go without an appointment, they will tell you to go home. ??? Exceptions ???
+You need an appointment to visit the *Ausländerbehörde*. If you go without an appointment, they will tell you to go home.[^3]
 
 Since August 2024, **there is no appointment booking system**.[^2] To get an appointment, you must apply for a residence permit or use their contact form, and wait for a response.
 
@@ -65,11 +65,9 @@ It might be cheaper and safer to apply for a [[National Visa]] in your home coun
 
 ## Payment methods
 
-The Berlin Ausländerbehörde accepts Visa and Mastercard.
+At the *Ausländerbehörde*, you can pay with Visa, Mastercard, cash and [[Girocard]].[^4]
 
-If you apply for a residence permit online, you can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].
-
-??? Do they accept cash. Is Keplerstraße different? ???
+When you apply for a residence permit online, you sometimes need to pay in advance. You can pay with Visa, Mastercard and PayPal. You can't pay with cash or [[Girocard]].[^5]
 
 ### How to pay
 
@@ -85,3 +83,6 @@ The immigration office does not give immigration advice. An [immigration lawyer]
 
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/kontakt/formular.1261385.php) (December 2024)
 [^2]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1473221.php) (August 2024)
+[^3]: [Berlin.de](https://www.berlin.de/einwanderung/termine/termin-vereinbaren/#:~:text=Kann%20ich%20auch%20ohne%20Termin) (December 2024)
+[^4]: [Berlin.de](https://service.berlin.de/standort/121885/#:~:text=zahlungsmoglichkeiten) (December 2024)
+[^5]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card) (December 2024)
