@@ -180,15 +180,15 @@ There are two ways to apply in Berlin:
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. It takes a few weeks to a few months to get a response. They will email you and give you an appointment date. The appointment could be months in the future.
+The *Ausländerbehörde* will process your application. It takes [a few weeks to a few months](/guides/auslanderbehorde-wait-times) to get a response, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
 
 **[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 
-If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#sue-the-auslanderbehorde), but it might not help.
+They will email you and give you an appointment date. The appointment could be months in the future.
 
 If your current [[National Visa]] or residence permit expires while you wait, don't panic. It stays valid until the *[[Ausländerbehörde]]* makes a decision. You don't need to leave Germany.
 
-In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]* that allows travel outside of Germany with an expired residence permit.
+In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]*. It allows you to travel outside of Germany with your expired residence permit.
 
 **[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
 
@@ -256,7 +256,7 @@ To apply in your country:[^27]
 6. Come to Germany and start working or studying.
 6. Convert your National Visa into a residence permit.
 
-**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39] In India, Pakistan and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps.[^40]
+**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39] In India, Pakistan, Bangladesh and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps, especially if you bring your family with you.[^40]
 
 ### 1. Find a job
 
@@ -454,4 +454,5 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^38]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^39]: [§47 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__47.html)
-[^40]: Simon Wilkinson, [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)
+[^40]: Debora Aust at [DARE Consulting](https://dareconsulting.de/en/home/) (December 2024), Simon Wilkinson at [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)
+[^41]: [LEA fact sheet](https://www.berlin.de/einwanderung/ueber-uns/presse/) (December 2024)
