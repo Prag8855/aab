@@ -16,39 +16,6 @@ Related_reviews:
 
 You can't book an appointment online. The *Ausländerbehörde* disabled its appointment system in August 2024. You must use the contact form, send your documents, and wait for a reply. It can take [a few months](/guides/auslanderbehorde-wait-times).
 
-## If your residence permit expires soon
-
-[It takes months](/guides/auslanderbehorde-wait-times) to get a residence permit. Your current visa or residence permit might expire while you wait for the *Ausländerbehörde*. Don't panic! Usually, **you can usually stay in Germany**.[^20]
-
-### If you have a residence permit or a National Visa
-
-You can stay in Germany after your [residence permit](/glossary/Aufenthaltstitel) or [[National Visa]] expires if...
-
-- **You sent your application documents**  
-    You must submit a complete residence permit application before your residence permit or National Visa expires.[^5]
-- or **you booked an Ausländerbehörde appointment**  
-    You must book the appointment before your residence permit or National Visa expires.[^18] The appointment can be after it expires.
-
-While you wait for the *Ausländerbehörde*...
-
-- **Work or study like before**  
-    After you send a residence permit application, the conditions of your *current* residence permit or National Visa still apply. You can work or study like before. Look on your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)* to know what you are allowed to do. Some employers don't know that, and they might think they have to fire you.
-- **Do not leave Germany**  
-    You might be unable to re-enter Germany with an expired residence permit or National Visa. Citizens of {{AUFENTHV_41_COUNTRIES}} [can usually travel](/guides/fiktionsbescheinigung#travel-without-a-fiktionsbescheinigung). Others need a *[[Fiktionsbescheinigung]]*.
-
-**[Travel with an expired residence permit ➞](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung)**
-
-### Everyone else
-
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay in Germany for 90 days without a visa.[^11] You can stay longer if...
-
-- You have an *Ausländerbehörde* appointment **and** you booked the appointment in your first 90 days in Germany
-- or you sent your application documents in your first 90 days in Germany
-
-You need a residence permit to work, study or freelance. If you don't have one, you must wait.
-
-**If you have a [[Schengen visa]]**, you must leave Germany before it expires. You can rarely extend a Schengen visa.[^16] You can rarely convert a Schengen visa to a [residence permit](/glossary/Aufenthaltstitel). You can't get a *[[Fiktionsbescheinigung]]*.[^27]
-
 ## Before your appointment
 
 Read your appointment confirmation and follow the instructions. Usually, you must...

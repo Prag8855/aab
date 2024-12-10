@@ -410,6 +410,31 @@ If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you
 
 To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
+## If your visa or residence permit expires
+
+It takes [months](/guides/auslanderbehorde-wait-times) to get a residence permit. **You can stay in Germany** until the *Ausländerbehörde* processes your application, even if your visa or residence permit expires.[^43]
+
+### If you have a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel)
+
+You can stay in Germany after it expires if...
+
+- [ ] You have applied to renew or change your residence permit
+- [ ] and you sent a complete application before your visa or residence permit expired[^52]
+- [ ] and you are waiting for the *[[Ausländerbehörde]]*
+
+**You can keep working or studying** while you wait. The conditions of your *current* National Visa or residence permit still apply. Some employers don't know that. [Check your *Zusatzblatt*](/guides/zusatzblatt) to know what you are allowed to do.
+
+**You should not leave Germany.** You might be unable to re-enter Germany with your expired residence permit or National Visa. Citizens of {{AUFENTHV_41_COUNTRIES}} [can usually travel](/guides/fiktionsbescheinigung#travel-without-a-fiktionsbescheinigung). Others need a *[[Fiktionsbescheinigung]]*.
+
+**[Travel with an expired residence permit ➞](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung)**
+
+### Everyone else
+
+**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay 90 days in Germany without a visa.[^50] If you apply for a residence permit, you can stay in Germany until the *Ausländerbehörde* processes your application. You must apply within 90 days of entering Germany.[^51]
+
+While you wait for your first residence permit, you can't work or study.
+
+**If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.[^49]
 ## Need help?
 
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
@@ -459,7 +484,13 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^40]: Debora Aust at [DARE Consulting](https://dareconsulting.de/en/home/) (December 2024), Simon Wilkinson at [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)
 [^41]: [LEA fact sheet](https://www.berlin.de/einwanderung/ueber-uns/presse/) (December 2024)
 [^42]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process) (December 2024)
+[^43]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
 [^45]: Multiple relocation consultants (2024)
 [^46]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
 [^47]: Multiple relocation consultants (December 2024)
+[^48]: ??? Clean up [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
+[^49]: ??? Clean up [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
+[^50]: [§41 AufenthG](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^51]: Citation needed
+[^52]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
