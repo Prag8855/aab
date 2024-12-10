@@ -93,6 +93,8 @@ Usually, you can't start working before you get your freelance visa.[^35] Some p
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't start working before you get your freelance visa. Some people do it anyway.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
     Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your freelance visa application, you don't need to leave Germany.
+- **If you have an [opportunity card](/glossary/Chancenkarte)**  
+    You can come to Germany, then convert your opportunity card into a freelance visa. You can't be self-employed with an opportunity card; you must wait for your freelance visa.[^11]
 - **If you have a [[Schengen visa]]**  
     You can't apply for a freelance visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
@@ -160,6 +162,8 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelanc
 You can also apply for a freelance visa in your country, then move to Germany.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34] You don't need to wait in Germany without an income.
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
+
+You can also get an [opportunity card](/glossary/Chancenkarte), move to Germany, then convert it into a freelance visa. You can't be self-employed with an opportunity card; you must wait for your freelance visa.[^11]
 
 ## Required documents
 
@@ -348,6 +352,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^11]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2024), [Frankfurt am Main](https://frankfurt.de/auslaenderangelegenheiten/ich-moechte-einen-antrag-stellen/arbeitnehmer/chancenkarte#:~:text=beschaftigungserlaubnis) (December 2024)
 [^12]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=eine%20erlaubnis%20erforderlich)
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)

@@ -144,6 +144,8 @@ After you pay and send your application, you can download a PDF. This is your pr
 
 The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
 
+If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours per week while you wait for your Blue Card.
+
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
 ### 6. Go to your Blue Card appointment
@@ -170,7 +172,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Car
 
 You can also apply for a Blue Card in your country, then move to Germany. This is **cheaper and safer**, because when you arrive in Germany, you can already start working. You don't need to wait in Germany without an income.
 
-You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements).
+You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements). If you don't have a job offer, you can get an [opportunity card](/glossary/Chancenkarte), come to Germany, find a job, then apply for a Blue Card in Germany.
 
 **To get a Blue Card faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
 

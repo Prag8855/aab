@@ -147,6 +147,8 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
 
+If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours per week while you wait for your work visa.
+
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
 ### 6. Go to your work visa appointment
@@ -173,7 +175,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your work vis
 
 You can also apply for a work visa in your country, then move to Germany. This is **cheaper and safer**, because when you arrive in Germany, you can already start working. You don't need to wait in Germany without an income.
 
-You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [work visa requirements](#work-visa-requirements).
+You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [work visa requirements](#work-visa-requirements). If you don't have a job offer, you can get an [opportunity card](/glossary/Chancenkarte), come to Germany, find a job, then apply for a work visa in Germany.
 
 **To get a work visa faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
 

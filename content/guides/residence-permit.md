@@ -248,13 +248,13 @@ For most people, this is the only option.
 
 To apply in your country:[^27]
 
-1. Find a job, if your residence permit requires a job offer.
-2. Prepare your application.
+1. If your residence permit requires a job offer, find a job first. If you don't have a job offer, get an [opportunity card](/glossary/Chancenkarte).
+2. Prepare your [[National Visa]] application.
 3. Get an appointment at the German embassy or consulate in your country. At some embassies, you can apply online, so you don't need an appointment.
 4. Go to your appointment.
-5. Receive a [[National Visa]].
+5. Receive your National Visa.
 6. Come to Germany and start working or studying.
-6. Convert your National Visa into a residence permit.
+7. Convert your National Visa into a residence permit.
 
 **To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39] In India, Pakistan, Bangladesh and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps, especially if you bring your family with you.[^40]
 
