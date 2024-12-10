@@ -103,9 +103,9 @@ You can't book an *Ausländerbehörde* appointment. You must use their contact f
 
 When they reply, they will give you an appointment. This appointment can be [in a few months](/guides/auslanderbehorde-wait-times). They might also ask for more documents.
 
-In most cases, your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
+In most cases, your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
+**[If your residence permit expires soon ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
 
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 

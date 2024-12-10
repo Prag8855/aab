@@ -90,7 +90,7 @@ Usually, you can't work while you wait for your work visa.[^35] You might wait [
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the work visa in Germany.[^9] You can't work before you get your work visa.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your work visa application, you don't need to leave Germany.
+    Your current residence permit stays valid until you get your work visa. [If your residence permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires) after you sent your work visa application, you don't need to leave Germany.
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
     You can come to Germany and look for a job. You can work 20 hours per week. To work full time, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
@@ -258,7 +258,7 @@ While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I)
 
 Your work visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your work visa expires.
 
-**[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
+**[Travel with a residence permit ➞](/guides/residence-permit#if-you-travel)**
 
 ### Self-employment with a work visa
 

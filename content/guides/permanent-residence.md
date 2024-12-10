@@ -402,7 +402,7 @@ With a [PR](/glossary/Niederlassungserlaubnis), you can visit other [[Schengen a
 
 If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have [EU permanent residence](#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^13]
 
-**[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
+**[Travel with a residence permit ➞](/guides/residence-permit#if-you-travel)**
 
 ### Make a tax declaration
 

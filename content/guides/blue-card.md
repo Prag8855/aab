@@ -90,7 +90,7 @@ Usually, you can't work before you get your Blue Card.[^35] It can take [a long 
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the Blue Card in Germany.[^9] You can't work before you get your Blue Card.
 - **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon) after you sent your Blue Card application, you don't need to leave Germany.
+    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires) after you sent your Blue Card application, you don't need to leave Germany.
 - **If you have a Blue Card from another EU country**  
     You can come to Germany without a visa.[^38] If you have your Blue Card since at least 12 months, you can already start working in Germany.[^33] When you arrive in Germany, you have 1 month to convert your Blue Card to a German one at the *[[Ausländerbehörde]]*.[^41]
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
@@ -254,7 +254,7 @@ While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I)
 
 Your Blue Card lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 12 months.[^23] If you travel longer, your Blue Card expires.
 
-**[Travel with a residence permit ➞](/guides/residence-permit#travel-with-a-residence-permit)**
+**[Travel with a residence permit ➞](/guides/residence-permit#if-you-travel)**
 
 ### Self-employment with a Blue Card
 

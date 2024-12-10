@@ -400,7 +400,11 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
-## Travel with a residence permit
+## If you change jobs
+
+## If you lose your job
+
+## If you travel
 
 Your residence permit allows you to travel in the [[Schengen area]] without a visa.
 
@@ -491,6 +495,6 @@ While you wait for your first residence permit, you can't work or study.
 [^47]: Multiple relocation consultants (December 2024)
 [^48]: ??? Clean up [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
 [^49]: ??? Clean up [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
-[^50]: [§41 AufenthG](https://www.gesetze-im-internet.de/aufenthv/__41.html)
-[^51]: Citation needed
+[^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
+[^51]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^52]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
