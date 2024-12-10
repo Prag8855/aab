@@ -126,7 +126,6 @@ class EntryImageRenderer(Renderer):
                 if abs_image_path.exists():
                     existing_image = Image.open(abs_image_path)
                     exif = existing_image.getexif()
-                    print([exif.get(exif_description_field), self.get_hash(entry)])
                     needs_rerender = exif.get(exif_description_field) != self.get_hash(entry)
 
             if needs_rerender:
