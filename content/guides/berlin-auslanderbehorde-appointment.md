@@ -12,9 +12,6 @@ Related_reviews:
 5. **Get an Ausländerbehörde appointment**  
     After they process your application, they will email you. Usually, when they contact you, it means that your residence permit is approved.[^12] They usually give you an appointment to bring missing documents or scan your fingerprints. You should get your residence permit [around 8 weeks](/guides/auslanderbehorde-wait-times) after the appointment.{{ fail_on('2025-01-15') }}
 
-### Book an appointment online
-
-You can't book an appointment online. The *Ausländerbehörde* disabled its appointment system in August 2024. You must use the contact form, send your documents, and wait for a reply. It can take [a few months](/guides/auslanderbehorde-wait-times).
 
 ## Before your appointment
 
@@ -65,16 +62,6 @@ After you pay, you can go home. Keep your receipt; residence permit fees are [ta
 ![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat.jpg)
 
 ![Ausländerbehörde Kassenautomat](/images/auslaenderbehoerde-kassenautomat-2.jpg "Payment machines at the Ausländerbehörde")
-
-## After your appointment
-
-### Give feedback
-
-Tell me how your *Ausländerbehörde* appointment went. Your feedback helps thousands of people plan their residence permit application.
-
-{% include "_blocks/feedbackResidencePermit/allTypesStatic.html" %}
-
-**[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
 
 ### If your application is approved
 

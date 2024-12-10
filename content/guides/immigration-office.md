@@ -12,12 +12,26 @@ This is a guide for the *Landesamt für Einwanderung*, the immigration office in
 
 ## How to contact the Ausländerbehörde
 
-The *Ausländerbehörde* is hard to contact.
-### Contact form
+### Apply online
+
+Some residence permits have online application forms. Use those forms to apply.
+
+- [[Blue Card]]
+- Citizenship
+- [[Internship visa]]
+- Language learning visa
+- [Permanent residence](/glossary/Niederlassungserlaubnis)
+- [[Student visa]]
+
+**[Full list ➞](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php)**
+
+### Use the contact form
+
+To contact the *Ausländerbehörde*, or to apply for a residence permit that is not in [this list](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php), you must...
 
 1. **[Find your department](#departments)**
 2. **[Use the contact form](/out/auslanderbehorde-contact)**  
-    Find your department's contact form. If it's urgent, use the [emergency form](#emergencies). Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). Your message must include...
+    Find your department's contact form. Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). If it's urgent, use the [emergency form](#emergencies). Your message must include...
     - [ ] What you need
     - [ ] Your name and date of birth
     - [ ] The expiration date of your visa or residence permit
@@ -64,9 +78,9 @@ The Berlin immigration office has multiple departments. Send your application to
 
 ## How to get an appointment
 
-You need an appointment to visit the *Ausländerbehörde*. If you go without an appointment, they will tell you to go home.[^3]
+To visit the *Ausländerbehörde*, you need an appointment. If you go without an appointment, they will not help you.[^3]
 
-Since August 2024, **there is no appointment booking system**.[^2] To get an appointment, you must [apply for a residence permit](/guides/residence-permit#how-to-apply-in-berlin) or [use their contact form](#how-to-contact-the-auslanderbehorde). They can take months to reply.
+Since August 2024, **you can't book an appointment**.[^2] You must [apply for a residence permit](/guides/residence-permit#how-to-apply-in-berlin) or [use their contact form](#how-to-contact-the-auslanderbehorde). They decide when they give you an appointment. They can take weeks or months to reply.
 
 ## Wait times
 
@@ -74,21 +88,33 @@ It usually takes a few months to get a residence permit in Berlin. The wait time
 
 **[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 
-It's often cheaper and safer to apply for a [[National Visa]] in your home country, and move to Berlin once you have permission to work or study. Then you don't need to wait in Berlin without an income.???Rephrase???
+Usually, you can't work or study before you get your residence permit. It might be cheaper to apply in your home country. You can move to Berlin after you get permission to work or study. You don't need to wait in Berlin without an income.
+
+**[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 
 {% include "_blocks/feedbackResidencePermit/allTypesStatic.html" %}
 
 ## Payment methods
 
-At the *Ausländerbehörde*, you can pay with Visa, Mastercard, cash and [[Girocard]].[^4]
+At the *Ausländerbehörde*, you can pay with Visa, Mastercard, cash or [[Girocard]].[^4]
 
-When you apply for a residence permit online, you sometimes need to pay in advance. You can pay with Visa, Mastercard and PayPal. You can't pay with cash or [[Girocard]].[^5]
+When you apply for a residence permit online, you sometimes need to pay in advance. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^5]
 
 ### How to pay
 
 They will give you a plastic payment card. Bring it to the payment machine in the building, and pay the fee. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt. After you paid, you can go home. You don't need to bring the proof of payment to your case worker.
 
 ## Sue the Ausländerbehörde
+
+After you submit your residence permit application, the *Ausländerbehörde* has 3 months to make a decision. If they don't answer after 3 months, you can sue them for inaction.[^11] This is called an *Untätigkeitsklage nach [§ 75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html)*. Usually, it makes them move faster.[^12]
+
+**[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
+
+If your case goes to court, the state usually pays for your legal expenses. In most cases, the *Ausländerbehörde* reacts before the court, so you must pay your own legal fees.
+
+In other words, you pay a lawyer around 400€, and things maybe go a little faster.[^13]
+
+**[English-speaking lawyers ➞](/guides/english-speaking-lawyers-berlin)**
 
 ## Need help?
 
@@ -106,3 +132,6 @@ The immigration office does not give immigration advice. An [immigration lawyer]
 [^8]: [Twitter](https://twitter.com/mgill25/status/1732466237140062646) (December 2023)
 [^9]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (August 2023)
 [^10]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1366344.php#:~:text=our%20clients%20can%20now%20only%20use) (September 2023)
+[^11]: [§75 VwGO](https://www.gesetze-im-internet.de/vwgo/__75.html#:~:text=ablauf%20von%20drei%20monaten), [anwalt.de](https://www.anwalt.de/rechtstipps/auslaenderbehoerde-botschaft-reagiert-nicht-untaetigkeitsklage-75-vwgo_086072.html), [se-legal.de](https://se-legal.de/wie-sie-das-visum-aufenthaltsverfahren-in-deutschland-beschleunigen-konnen/), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/untaetigkeitsklage/), [Red Tape Translation](https://redtapetranslation.com/faxhack/)
+[^12]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2024)
+[^13]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2024)
