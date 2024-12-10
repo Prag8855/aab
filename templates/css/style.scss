@@ -1244,10 +1244,10 @@ sup:target a{
         }
     }
 
-    > ol > li, > :not(.collapsible, .bank-comparator, .table-of-contents) ol > li{
+    > ol:not(.previews) > li{
         @include list-marker-ol;
     }
-    > ul:not(.feedback-list) > li, > :not(.collapsible, .bank-comparator, .table-of-contents) ul > li{
+    > ul:not(.feedback-list) > li{
         @include list-marker-ul;
     }
     li.checkbox{
@@ -1993,7 +1993,7 @@ input[name="username"], // Honeypot
 .previews{
     > li {
         display: grid;
-        grid-template-columns:300px 1fr;
+        grid-template-columns:clamp(200px, 300px, 40%) 1fr;
         gap: var(--m);
 
         + li{
@@ -2004,13 +2004,13 @@ input[name="username"], // Honeypot
 
         h3{
             @include text;
-            hyphens: none;
             color: var(--c-text-light);
+            line-height: var(--line-height-label);
 
             a{
                 font-weight: 600;
                 display: block;
-                line-height: var(--line-height-label);
+                margin-bottom: var(--xs);
             }
             time{
                 font-size: var(--f-s);
@@ -2026,10 +2026,6 @@ input[name="username"], // Honeypot
             margin-top: var(--m);
             padding-top: var(--m);
             border-top: var(--b-box);
-        }
-
-        &.document h3, &.document h3 a{
-            white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
         }
 
         &.guide{
@@ -2062,7 +2058,6 @@ input[name="username"], // Honeypot
 details{
     summary{
         cursor: pointer;
-        list-style: none;
 
         small{
             display: block;
