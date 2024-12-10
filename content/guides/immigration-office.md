@@ -92,7 +92,7 @@ Usually, you can't work or study before you get your residence permit. It might 
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 
-{% include "_blocks/feedbackResidencePermit/allTypesStatic.html" %}
+{% include "_blocks/feedbackResidencePermit/allTypes.html" %}
 
 ## Payment methods
 
