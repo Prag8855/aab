@@ -125,7 +125,7 @@ There are two ways to get a residence permit:[^12]
 
 ## How to apply in Berlin
 
-You can only apply in Berlin if...
+You can only apply in Germany if...
 
 - You are a citizen of {{AUFENTHV_41_COUNTRIES}}[^15]
 - **or** you already have a German [residence permit](/glossary/Aufenthaltstitel), and you want to change it or [renew it](#how-to-renew-a-residence-permit)
@@ -134,9 +134,7 @@ You can only apply in Berlin if...
 - **or** you have a [job seeker visa](/glossary/Job%20seeker%20visa)
 - **or** you have a [[National Visa]] that you must convert to a residence permit.
 
-If you can't apply in Berlin, you must [apply in your home country](#how-to-apply-in-your-country).
-
-**These instructions are for Berlin only.** The application process is different in every German city.
+If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
 ### 1. Prepare your application
 
@@ -165,18 +163,20 @@ While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 ### 2. Apply online
 
-In Berlin, you must apply online, and wait for the *[[Ausländerbehörde]]* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* without an appointment.
+In Berlin, you must apply online, and wait for the *[[Ausländerbehörde]]* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* in person without an appointment.
 
 If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply after you arrive in Germany.[^2]
 
-If you already live in Germany, you must apply before your current residence permit expires.
+If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 8 weeks before it expires, not sooner.[^26] Your visa or residence permit [stays valid](#if-your-visa-or-residence-permit-expires) until the *Ausländerbehörde* processes your application.
 
-There are two ways to apply in Berlin:
+There are many ways to apply in Berlin:
 
-- **Use the application form**  
+- **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{% include '_blocks/recommended.html' %}  
+    If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
+- or **use the application form**  
     The Blue Card, the student visa and some other residence permits have their own application form. Use that form to apply.
 - or **use the contact form**  
-    If there is no application form for your residence permit, [use the *Ausländerbehörde* contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send your documents. You might need to combine and compress your documents to make them fit.
+    If there is no application form for your residence permit, [use the contact form](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait) to send your documents.
 
 ### 3. Wait
 
@@ -188,11 +188,7 @@ They will email you and give you an appointment date. The appointment could be m
 
 If your current [[National Visa]] or residence permit expires while you wait, don't panic. It stays valid until the *[[Ausländerbehörde]]* makes a decision. You don't need to leave Germany.
 
-In most cases, your current [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You might get a *[[Fiktionsbescheinigung]]*. It allows you to travel outside of Germany with your expired residence permit.
-
-**[If your visa or residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
-
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
+**[If your visa or residence permit expires ➞](#if-your-visa-or-residence-permit-expires)**
 
 ### 4. Go to your appointment
 
@@ -240,9 +236,15 @@ You will also get a letter in the mail. It's the activation code for your [[eID]
 
 **[How to activate your eID ➞](#activate-your-eid)**
 
+## How to apply in Germany
+
+If you live in Berlin, you must apply in Berlin. You can't apply in another city unless you move there.
+
+Each immigration office is different. They have different rules, and different wait times. Immigration offices in small cities are often faster.[^46] Some cities like Nuremberg are extremely slow.[^45]
+
 ## How to apply in your country
 
-You can apply in your country before you move to Germany.[^26] This is **cheaper and safer**, because you can start working or studying as soon as you arrive in Germany. You don't need to wait in Germany without an income.[^29]
+You can apply in your country before you move to Germany.[^42] This is **cheaper and safer**, because you can start working or studying as soon as you arrive in Germany. You don't need to wait in Germany without an income.[^29]
 
 For most people, this is the only option.
 
@@ -456,3 +458,8 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 [^39]: [§47 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__47.html)
 [^40]: Debora Aust at [DARE Consulting](https://dareconsulting.de/en/home/) (December 2024), Simon Wilkinson at [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)
 [^41]: [LEA fact sheet](https://www.berlin.de/einwanderung/ueber-uns/presse/) (December 2024)
+[^42]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process) (December 2024)
+[^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
+[^45]: Multiple relocation consultants (2024)
+[^46]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
+[^47]: Multiple relocation consultants (December 2024)
