@@ -103,7 +103,7 @@ const taxes = {
 	},
 	minVorsorgepauschal: {{ VORSORGEPAUSCHAL_MIN }},
 	minVorsorgepauschalTaxClass3: {{ VORSORGEPAUSCHAL_MIN_TAX_CLASS_3 }},
-	{{ fail_on('2024-12-31') }}
+	{{ fail_on('2025-01-05') }}
 	incomeTaxTarifZones: {  // §32a EStG
 		1: {
 			formula: (x, y, z) => 0,
@@ -111,22 +111,22 @@ const taxes = {
 			maxIncome: {{ GRUNDFREIBETRAG }},
 		},
 		2: {
-			formula: (x, y, z) => (922.98 * y + 1400) * y,
+			formula: (x, y, z) => (954.8 * y + 1400) * y,
 			minIncome: {{ GRUNDFREIBETRAG }},
 			maxIncome: {{ INCOME_TAX_TARIF_2_MAX_INCOME }},
 		},
 		3: {
-			formula: (x, y, z) => (181.19 * z + 2397) * z + 1025.38,
+			formula: (x, y, z) => (181.19 * z + 2397) * z + 991.21,
 			minIncome: {{ INCOME_TAX_TARIF_2_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_TARIF_3_MAX_INCOME }},
 		},
 		4: {
-			formula: (x, y, z) => 0.42 * x - 10602.13,
+			formula: (x, y, z) => 0.42 * x - 10636.31,
 			minIncome: {{ INCOME_TAX_TARIF_3_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_TARIF_4_MAX_INCOME }},
 		},
 		5: {
-			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 18936.88,
+			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 18971.06,
 			minIncome: {{ INCOME_TAX_TARIF_4_MAX_INCOME }},
 			maxIncome: Infinity,
 		},

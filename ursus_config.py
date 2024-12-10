@@ -466,7 +466,7 @@ config.context_globals = {
     "VORSORGEPAUSCHAL_MIN_TAX_CLASS_3": 3000,
 
     # Grundfreibetrag (€/y) - § 32a EstG [GFB]
-    "GRUNDFREIBETRAG": 11604,
+    "GRUNDFREIBETRAG": 11784,
 
     # Upper bound (€/y) of income tax tarif zones 2, 3 and 4 - § 32a EstG
     "INCOME_TAX_TARIF_2_MAX_INCOME": 17005,
@@ -474,7 +474,7 @@ config.context_globals = {
     "INCOME_TAX_TARIF_4_MAX_INCOME": 277825,
 
     # Upper bound (€/y) of income tax tarif zones for tax classes 5 and 6 - § 39b Abs. 2 Satz 7 EstG [W1STKL5][W2STKL5][W3STKL5]
-    "INCOME_TAX_CLASS_56_LIMIT_1": 13279,
+    "INCOME_TAX_CLASS_56_LIMIT_1": 13432,
     "INCOME_TAX_CLASS_56_LIMIT_2": 33380,
     "INCOME_TAX_CLASS_56_LIMIT_3": 222260,
 
@@ -509,8 +509,8 @@ config.context_globals = {
     # Kindergeld amount per child (€/m) - §6 BKGG
     "KINDERGELD": 250,
 
-    # Tax break for parents (€/y) - § 32 EStG [KFB] - monitored
-    "KINDERFREIBETRAG": 9312,
+    # Tax break for parents (€/y) - § 32 Abs. 6 EStG [KFB] - monitored
+    "KINDERFREIBETRAG": (3306 + 1464) * 2,
 
     # Tax break for single parents (€/y) - § 24b EStG [EFA]
     "ENTLASTUNGSBETRAG_ALLEINERZIEHENDE": 4260,
