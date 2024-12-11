@@ -75,7 +75,7 @@ You can negotiate how much severance pay you get.[^26] Severance pay in Germany 
 
 A labour lawyer can help you negotiate better severance pay, because they know how much money you can get.
 
-**[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
+**[Find a labour lawyer ➞](/guides/english-speaking-lawyers-berlin)**
 
 Severance pay can affect your [unemployment benefits](/glossary/ALG%20I). If your severance pay is really high, you can lose 3 months of unemployment benefits.[^25] Sometimes, it's better to refuse severance pay and get unemployment benefits. If you are not sure, ask a labour lawyer.
 

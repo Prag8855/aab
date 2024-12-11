@@ -79,8 +79,8 @@ The Berlin immigration office has multiple departments. Send your application to
 
 - **B1, B2, B3, B4**  
     For skilled workers, students, researchers and their family. They handle Blue Cards, work visas, student visas and more.
-- **Business Immigration Service (BIS)**  
-    For skilled workers and their family.
+- **[Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)** (BIS)  
+    For skilled workers and their family. They handle Blue Cards and work visas. They work faster than other departments.
 - **E1, E2, E3, E4, E5, E6**  
     For everyone else. They handle permanent residence, freelance visas, and everything else. Choose the department that is responsible for your country.
 - **S1, S2, S3, S4, S5, S6**  
@@ -132,7 +132,7 @@ If your case goes to court, the state usually pays for your legal expenses. In m
 
 In other words, you pay a lawyer around 400€, and things maybe go a little faster.[^13]
 
-**[English-speaking lawyers ➞](/guides/english-speaking-lawyers-berlin)**
+**[Find an immigration lawyer ➞](/guides/english-speaking-lawyers-berlin)**
 
 ## Need help?
 

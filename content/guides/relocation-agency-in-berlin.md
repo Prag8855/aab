@@ -39,7 +39,7 @@ A relocation agency can help you...
 
 **Immigration lawyers** give legal advice. They only help you with immigration: residence permits, permanent residence and citizenship. If you have legal questions, you need a lawyer.
 
-**[List of English-speaking lawyers ➞](/guides/english-speaking-lawyers-berlin)**
+**[Find an immigration lawyer ➞](/guides/english-speaking-lawyers-berlin)**
 
 **[Other people who can help ➞](/guides/questions-about-berlin)**
 

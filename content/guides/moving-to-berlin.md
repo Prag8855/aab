@@ -40,9 +40,9 @@ There are [English-speaking jobs in Berlin](/guides/english-speaking-jobs-berlin
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You must get a job offer, then apply for a residence permit, then start working. You can't work before you get a residence permit. It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit.
+You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. Some residence permits require a job offer. You might need to wait for your residence permit before you start working. It can take [a few months](/guides/auslanderbehorde-wait-times) to get.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+**[Residence permits for work ➞](/guides/residence-permit#for-work)**
 
 ### Find a place to live
 
@@ -68,15 +68,13 @@ If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insur
 
 ### Apply for a residence permit
 
-If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You need a residence permit to start working or studying.
+If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live, work and study in Germany.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
-You can apply for a residence permit at a German embassy or consulate in your home country. If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*.
+**[How to get a residence permit ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. Apply as soon as you can. If you apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], apply as soon as you get a job offer.
-
-It's safer to apply for a residence permit in your home country, and move to Germany when you have permission to start working. You save a lot of money while you wait.
+It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You might need it to start working or studying. Apply as soon as you can.
 
 ## Your first month in Berlin
 
@@ -84,7 +82,7 @@ It's safer to apply for a residence permit in your home country, and move to Ger
 
 Open a bank account as soon as you can. You need it to pay rent and receive paychecks. You can use a bank from any European country.
 
-Some banks don't let immigrants open an account. They don't accept all passports, or they ask for documents that you don't have. Choose an [expat-friendly bank](/guides/best-bank-germany#german-banks-for-expats).
+Some banks don't let immigrants open an account. They might refuse your passport, or ask for documents that you don't have. Choose an expat-friendly bank.
 
 **[Best German banks for expats ➞](/guides/best-bank-germany)**
 
