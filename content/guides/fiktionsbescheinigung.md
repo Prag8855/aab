@@ -36,7 +36,7 @@ You get it from the *[[Ausländerbehörde]]* while you wait for a new residence 
 - **During your [[Ausländerbehörde]] appointment**  
     During your residence permit appointment, explain that you must travel outside of Germany, and that you need a *Fiktionsbescheinigung* for this. Bring proof of your travel plans if you can.
 - **With your [residence permit](/glossary/Aufenthaltstitel) application**  
-    When [apply for your residence permit](/guides/residence-permit#how-to-apply-in-berlin), ask for a *Fiktionsbescheinigung* in your message. Include proof of your travel plans.
+    When [apply for your residence permit](/guides/residence-permit#how-to-apply-in-germany), ask for a *Fiktionsbescheinigung* in your message. Include proof of your travel plans.
 - **By email**  
     [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde). In your message, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] If you must travel in a few weeks, use the [emergency form](/guides/immigration-office#emergencies).
 
@@ -51,7 +51,7 @@ In Berlin, they often ignore you or refuse to give you a *Fiktionsbescheinigung*
 
 They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a 13€ fee.[^11]
 
-**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [apply for a residence permit](/guides/residence-permit#how-to-apply-in-berlin), the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
+**If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [apply for a residence permit](/guides/residence-permit#how-to-apply-in-germany), the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
 
 **If you currently have a [[Schengen visa]]**, you can't get a *Fiktionsbescheinigung*. Usually, you can't convert a [[Schengen visa]] to a residence permit. You must [apply for a residence permit](/guides/residence-permit#how-to-get-a-residence-permit) in your home country.[^3]
 

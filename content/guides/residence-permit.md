@@ -110,7 +110,7 @@ Other residence permits sometimes allow self-employment:
 
 There are two ways to get a residence permit:[^12]
 
-- **[Apply in Germany](#how-to-apply-in-berlin)**  
+- **[Apply in Germany](#how-to-apply-in-germany)**  
     Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work or study.
 - or **[apply in your home country](#how-to-apply-in-your-country)**  
     Apply for a [[National Visa]] at the German embassy or consulate in your country, come to Germany, and convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You can start working or studying as soon as you get your National Visa.
@@ -123,7 +123,7 @@ There are two ways to get a residence permit:[^12]
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
-## How to apply in Berlin
+## How to apply in Germany
 
 You can only apply in Germany if...
 
@@ -136,6 +136,8 @@ You can only apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
+These instructions are for Berlin only. Other immigration offices have different rules and wait times.
+
 ### 1. Prepare your application
 
 [Come to Berlin](/guides/visit-berlin#how-to-travel-to-berlin) and start preparing your residence permit application.
@@ -146,7 +148,7 @@ Before you apply, you must...
     It's really hard to find an apartment. Start looking as soon as you can.
     - [ ] Your apartment must be big enough. In Berlin, you need 9 m^2^ per adult, and 6 m^2^ per child.[^20]
     - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a residence permit.[^23] - [How to find an apartment](/guides/find-a-flat-in-berlin)
+    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a residence permit.[^23]
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the required documents**  
@@ -159,32 +161,30 @@ While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
     You will need a bank account for many things. You also need a bank account to pay the application fee. You can choose a bank from any EU country.
 
-**There are more requirements.** Check the instructions for the [Blue Card](/guides/blue-card), [work visa](/guides/work-visa), [freelance visa](/guides/freelance-visa) or [permanent residence](/guides/permanent-residence).
+**There might be more requirements.** Check the requirements for the [Blue Card](/guides/blue-card), [work visa](/guides/work-visa), [freelance visa](/guides/freelance-visa) or [permanent residence](/guides/permanent-residence).
 
-### 2. Apply online
+### 2. Send your application
 
-In Berlin, you must apply online, and wait for the *[[Ausländerbehörde]]* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* in person without an appointment.
+Submit your application to the *[[Ausländerbehörde]]*. They will check your documents and invite your for an appointment. This is the only way. You can't go to the *Ausländerbehörde* without an appointment.
 
-To apply for a residence permit...
+There are 3 ways to apply:
 
 - **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{% include '_blocks/recommended.html' %}  
     If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
 - or **[use the application form](/guides/immigration-office#apply-for-a-residence-permit)**  
     [Some residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.
 - or **[use the contact form](/guides/immigration-office#use-the-contact-form)**  
-    If there is no application form for your residence permit, use the general contact form to send your documents.
+    If there is no application form for your residence permit, use the general contact form.
 
 If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply after you arrive in Germany.[^2]
 
-If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 8 weeks before it expires, not sooner.[^26] Your visa or residence permit [stays valid](#if-your-visa-or-residence-permit-expires) until the *Ausländerbehörde* processes your application.
+If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 8 weeks before it expires, not sooner.[^26]
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. It takes [weeks or months](/guides/auslanderbehorde-wait-times) to get a response, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
+The *Ausländerbehörde* will process your application. They [weeks or months](/guides/auslanderbehorde-wait-times) to reply, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
-**[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
-
-They might ask for more documents by email. If you can't reply to their emails, [use the contact form](/guides/immigration-office#use-the-contact-form) again.
+They might ask for more documents. If you can't reply to their email, [use the contact form](/guides/immigration-office#use-the-contact-form) again.
 
 When they have everything, they will email you an appointment date. The appointment might be months later. If they can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
@@ -194,9 +194,7 @@ While you wait, your current [[National Visa]] or residence permit might expire.
 
 ### 4. Go to your appointment
 
-Later, the *[[Ausländerbehörde]]* will email you an appointment date. Follow the instructions in the email. They might ask you to bring more documents.
-
-If you have an appointment invitation, you are almost guaranteed to get your residence permit.[^56]
+The *[[Ausländerbehörde]]* will email you an appointment date. If you get an appointment, you are almost guaranteed to get your residence permit.[^56]
 
 When you go to your appointment, bring...
 
@@ -209,7 +207,7 @@ When you go to your appointment, bring...
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. You must sometimes pay later, when you pick up your residence permit. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Other required documents**  
-    In your appointment invitation, the *Ausländerbehörde* might ask for more documents.
+    Read the email carefully. The *Ausländerbehörde* might ask you to bring more documents.
 - [ ] **Your family**  
     If you apply for family reunion visas, or for residence permanent residence for a spouse, your family must come with you.[^38]
 - [ ] **A translator** (optional)  
@@ -221,15 +219,13 @@ Inside the *Ausländerbehörde*, find the right office, floor and room. This inf
 
 [![Berlin Ausländerbehörde appointment room](/images/auslaenderbehoerde-appointment-room.jpg)](/images/auslaenderbehoerde-appointment-room.jpg)
 
-Sit in the correct waiting room. Wait until the television shows your number. Go to the office number (*Platz*) you see on the television.
-
-The appointment takes a few minutes. You sit in a waiting room and wait for your number to be called on the screen. You give your documents and answer a few questions.
-
-If they approve your residence permit, you must [pay the application fee](/guides/immigration-office#payment-methods).
+Sit in the correct waiting room. Wait until the television shows your number. Go to the office number (*Platz*) you see on the television. The appointment takes a few minutes. You must give your documents and answer a few questions.
 
 If documents are missing, ask if you can email them. You will pay the fee and give your fingerprints, so you don't need another *Ausländerbehörde* visit.[^55]
 
-Then, they will print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). You will get a second appointment to pick up the card. They do not mail the card to you.
+If they approve your residence permit, you must [pay the application fee](/guides/immigration-office#payment-methods) at the payment machines.
+
+They must print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). They will give you another appointment to pick up the card. They do not mail the card to you.
 
 You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your residence was approved. It allows you to start working or studying, but it's not a valid travel document. You can't leave and re-enter Germany with that document.
 
@@ -249,12 +245,6 @@ During your appointment...
 You will also get a letter in the mail. It's the activation code for your [[eID]]. You need it to activate the eID function of your residence card. This lets you use your residence permit to log into online government services.
 
 **[How to activate your eID ➞](#activate-your-eid)**
-
-## How to apply in Germany
-
-If you live in Berlin, you must apply in Berlin. You can't apply in another city unless you move there.
-
-Each immigration office is different. They have different rules, and different wait times. Immigration offices in small cities are often faster.[^46] Some cities like Nuremberg are extremely slow.[^45]
 
 ## How to apply in your country
 
@@ -359,7 +349,7 @@ Your National Visa is only valid for up to 12 months.[^36] Before it expires, yo
 
 In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^26]
 
-If your National Visa is valid for your whole stay in Germany, you don't need to convert it to a residence permit.[^31] For example, if your internship visa is valid for your whole internship, you don't need to do anything.
+If you will leave Germany before your National Visa expires, you don't need to convert it.[^31] For example, if you have a 12 month [[National Visa]] for a 9 month internship, you don't need to convert it into a residence permit.
 
 To convert your National Visa into a residence permit:
 
@@ -370,7 +360,7 @@ To convert your National Visa into a residence permit:
 3. **Pick up your residence permit**  
     Go to your second *Ausländerbehörde* appointment to collect your residence permit. Bring your passport and your old residence permit.
 
-## After you get your residence permit
+## After you get your permit
 
 ### Give feedback
 
@@ -414,9 +404,7 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
-## If you change jobs
-
-## If you lose your job
+## If you lose or change your job
 
 ## If you travel
 
@@ -511,8 +499,6 @@ While you wait for your first residence permit, you can't work or study.
 [^42]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process) (December 2024)
 [^43]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
-[^45]: Multiple relocation consultants (2024)
-[^46]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
 [^47]: Multiple relocation consultants (December 2024)
 [^48]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#:~:text=of%20Schengen%20visa-,can%20it%20be%20converted%20into%20a%20residence%20permit%3F,-A%20Schengen%20visa) (December 2024), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa) (December 2024), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en#:~:text=Blue%20Card%20in-,germany,-A%20short-term) (December 2024), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734) (December 2024), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa) (December 2024)
 [^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)

@@ -131,7 +131,7 @@ Wait for them to contact you. [A few months later](/guides/auslanderbehorde-wait
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
-**[How to send your application ➞](/guides/residence-permit#apply-online)
+**[How to send your application ➞](/guides/residence-permit#send-your-application)
 
 ### 5. Wait
 
@@ -258,8 +258,8 @@ If you can, you should also bring...
 
 ### Required documents if you apply in person
 
-- [ ] **Appointment confirmation**, printed  
-    You can't enter the *Ausländerbehörde* without an appointment.
+- [ ] **Appointment confirmation**  
+    You can't enter the *Ausländerbehörde* without it. They check at the door. You can have it on your phone or print it.[^15]
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     If this is your first residence permit application, you must fill this form.[^42] - [How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)
 - [ ] **Passport**  
@@ -290,7 +290,7 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 
 ## After you get your freelance visa
 
-**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-residence-permit)**
+**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-permit)**
 
 ### Give feedback
 
@@ -356,6 +356,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^12]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=eine%20erlaubnis%20erforderlich)
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
+[^15]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20) (December 2024)
 [^17]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)
