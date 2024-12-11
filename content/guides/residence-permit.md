@@ -184,21 +184,23 @@ The *Ausländerbehörde* will process your application. It takes [weeks or month
 
 **[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 
-They will email you and give you an appointment date. The appointment could be months in the future. If they can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
+They might ask for more documents by email. If you can't reply to their emails, [use the contact form](/guides/immigration-office#use-the-contact-form) again.
 
-If your current [[National Visa]] or residence permit expires while you wait, don't panic. It stays valid until the *[[Ausländerbehörde]]* makes a decision. You don't need to leave Germany.
+When they have everything, they will email you an appointment date. The appointment might be months later. If they can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
+
+While you wait, your current [[National Visa]] or residence permit might expire. It's usually extended until the *Ausländerbehörde* processes your case.
 
 **[If your visa or residence permit expires ➞](#if-your-visa-or-residence-permit-expires)**
 
 ### 4. Go to your appointment
 
-Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
+Later, the *[[Ausländerbehörde]]* will email you an appointment date. Follow the instructions in the email. They might ask you to bring more documents.
 
-If you get invited for an appointment, you are almost certain to get your residence permit.[^56]
+If you have an appointment invitation, you are almost guaranteed to get your residence permit.[^56]
 
 When you go to your appointment, bring...
 
-- [ ] **Your appointment confirmation**, printed  
+- [ ] **Your appointment confirmation**  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You can have it on your phone or print it.[^28]
 - [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
     You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^37]
