@@ -21,6 +21,6 @@ Tell me how your residence permit application went. Your feedback helps thousand
 
 ## Need help?
 
-**[If your residence permit expires soon ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
-
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+
+**[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**

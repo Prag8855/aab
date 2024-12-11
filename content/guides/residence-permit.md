@@ -165,18 +165,18 @@ While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 In Berlin, you must apply online, and wait for the *[[Ausländerbehörde]]* to give you an appointment. **This is the only way.** You can't go to the *Ausländerbehörde* in person without an appointment.
 
-If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply after you arrive in Germany.[^2]
-
-If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 8 weeks before it expires, not sooner.[^26] Your visa or residence permit [stays valid](#if-your-visa-or-residence-permit-expires) until the *Ausländerbehörde* processes your application.
-
-There are many ways to apply in Berlin:
+To apply for a residence permit...
 
 - **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{% include '_blocks/recommended.html' %}  
     If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
-- or **use the application form**  
-    The Blue Card, student visa, permanent residence and [some other residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.
-- or **use the contact form**  
-    If there is no application form for your residence permit, [use the contact form](/guides/immigration-office#use-the-contact-form) to send your documents.
+- or **[use the application form](/guides/immigration-office#apply-for-a-residence-permit)**  
+    [Some residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.
+- or **[use the contact form](/guides/immigration-office#use-the-contact-form)**  
+    If there is no application form for your residence permit, use the general contact form to send your documents.
+
+If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply after you arrive in Germany.[^2]
+
+If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 8 weeks before it expires, not sooner.[^26] Your visa or residence permit [stays valid](#if-your-visa-or-residence-permit-expires) until the *Ausländerbehörde* processes your application.
 
 ### 3. Wait
 
@@ -428,7 +428,9 @@ To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
 ## If your visa or residence permit expires
 
-It takes [months](/guides/auslanderbehorde-wait-times) to get a residence permit. **You can stay in Germany** until the *Ausländerbehörde* processes your application, even if your visa or residence permit expires.[^43]
+Your [[National Visa]] or residence permit expires after 6 to 48 months. You must renew it at the *[[Ausländerbehörde]]*. The process is almost the same as when you apply for a new residence permit.
+
+It can take [a few months](/guides/auslanderbehorde-wait-times). While you wait, **you can usually stay in Germany**, even if your visa or residence permit expires.[^43]
 
 ### If you have a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel)
 
@@ -450,7 +452,7 @@ You can stay in Germany after it expires if...
 
 While you wait for your first residence permit, you can't work or study.
 
-**If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.[^49]
+**If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.
 
 ### Travel with an expired residence permit
 
@@ -510,8 +512,7 @@ While you wait for your first residence permit, you can't work or study.
 [^45]: Multiple relocation consultants (2024)
 [^46]: [Reddit.com](https://old.reddit.com/r/berlin/comments/sof7dm/deleted_by_user/hw8ax66/)
 [^47]: Multiple relocation consultants (December 2024)
-[^48]: ??? Clean up [berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
-[^49]: ??? Clean up [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0072), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa)
+[^48]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#:~:text=of%20Schengen%20visa-,can%20it%20be%20converted%20into%20a%20residence%20permit%3F,-A%20Schengen%20visa) (December 2024), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa) (December 2024), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en#:~:text=Blue%20Card%20in-,germany,-A%20short-term) (December 2024), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734) (December 2024), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa) (December 2024)
 [^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^51]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^52]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)

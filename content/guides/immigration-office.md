@@ -12,18 +12,23 @@ This is a guide for the *Landesamt für Einwanderung*, the immigration office in
 
 ## How to contact the Ausländerbehörde
 
-### Apply online
+### Apply for a residence permit
 
-Some residence permits have their own application form. Use that form to apply.
+Some [residence permits](/glossary/Aufenthaltstitel) have their own application form. Use that form to apply.
 
-- [[Blue Card]]
-- Citizenship
-- [[Internship visa]]
-- Language learning visa
-- [Permanent residence](/glossary/Niederlassungserlaubnis)
-- [[Student visa]]
+- [Blue Card](https://service.berlin.de/dienstleistung/324659/en/)
+- [Citizenship](https://service.berlin.de/dienstleistung/318998/)
+- [Student visa](https://service.berlin.de/dienstleistung/305244/en/)
+- [Permanent residence](https://service.berlin.de/dienstleistung/121864/en/)
+    - [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/en/)
+    - [For the family of German citizens](https://service.berlin.de/dienstleistung/327012/en/)
+    - [For skilled workers](https://service.berlin.de/dienstleistung/326558/en/)
+    - [For refugees and asylum seekers](https://service.berlin.de/dienstleistung/326554/en/)
+    - [EU permanent residence](https://service.berlin.de/dienstleistung/324281/en/) ([what's the difference?](/guides/permanent-residence#eu-permanent-residence))
 
-**[Full list ➞](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php)**
+**[See the full list ➞](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php)**
+
+If your residence permit is not in this list, send your application through the [contact form](#use-the-contact-form).
 
 ### Use the contact form
 
@@ -32,24 +37,26 @@ To contact the *Ausländerbehörde*, or to apply for a residence permit that is 
 1. **[Find your department](#departments)**
 2. **[Use the contact form](/out/auslanderbehorde-contact)**  
     Find your department's contact form. Write in German. If you don't speak German, use [Deepl](https://www.deepl.com/translator). If it's urgent, use the [emergency form](#emergencies). Your message must include...
-    - [ ] What you need
     - [ ] Your name and date of birth
+    - [ ] What you need
     - [ ] The expiration date of your visa or residence permit
-    - [ ] If your residence permit expires soon, ask for a *[[Fiktionsbescheinigung]]*[^7] - [More information](/guides/fiktionsbescheinigung)
+    - [ ] [If your visa or residence permit expires soon](/guides/residence-permit#if-your-visa-or-residence-permit-expires), ask for a *[[Fiktionsbescheinigung]]*[^7]
 3. **Attach your documents**  
     Add your application documents to your message. Complete applications are processed faster.[^9] You can only upload 5 small files. Use PDF files or photos, nothing else. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) and [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). If you still have too many documents, mail them.
 4. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Click the back button, and send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You might not get a confirmation email.[^8]
 5. **Wait for a response**  
-    They reply by email. They [take a long time to reply](/guides/auslanderbehorde-wait-times). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). If you sent a complete application, your visa or residence permit stays valid until the *Ausländerbehörde* processes it.
+    They reply [very slowly](/guides/auslanderbehorde-wait-times). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). [If your visa or resident permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), it's usually extended until the *Ausländerbehörde* processes your application. Sometimes, you can't reply to their emails directly, so you must use the contact form again.
 
 **[What happens next? ➞](/guides/residence-permit#wait)
-
-How to reply to their messages???
 
 ### Other contact options
 
 You can contact the *Ausländerbehörde* by [registered mail](/glossary/Einschreibebrief), but it's not better or faster.[^6] You can't call or fax them.[^10]
+
+Address your letter to the correct [department](#departments), at the correct address: [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/) or [Keplerstraße](https://service.berlin.de/standort/327437/).
+
+**[How to mail a letter ➞](/guides/mail-a-letter)**
 
 ### Emergencies
 
