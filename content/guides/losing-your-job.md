@@ -114,21 +114,24 @@ If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
-To inform the *Ausländerbehörde*, you must...
+Inform the *Ausländerbehörde*. **Use my [letter generator](/docs/auslanderbehorde-job-change)** to write the message. Send it through their [contact form](/guides/immigration-office#use-the-contact-form).
 
-1. [Choose the right department to contact](/guides/immigration-office#departments). For a work visa or a Blue Cards, it's department B1/B2/B3/B4.
-2. Write a letter in German. Use my [letter generator](/docs/auslanderbehorde-job-change). It must include:
-    - [ ] Your full name
-    - [ ] Your date and place of birth
-    - [ ] Your nationality
-    - [ ] What kind of residence permit you have
-    - [ ] When your employment ends
-3. Include these documents with your message:[^2]
-    - [ ] A copy of your termination notice or [resignation letter](/glossary/Kündigungsschreiben)
-4. Send your letter with [the official contact form](/guides/immigration-office#use-the-contact-form). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take many weeks to reply.[^46] They might not reply at all.
+**[How to contact the Ausländerbehörde ➞](/guides/immigration-office#how-to-contact-the-auslanderbehorde)**
 
-**If you change jobs**, you might need permission from the *Ausländerbehörde* to start working. [It depends](#what-happens-to-your-residence-permit) on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for. With a Blue Card, you can immediately start your new job.
+Your letter must include:
+
+- [ ] Your full name
+- [ ] Your date and place of birth
+- [ ] Your nationality
+- [ ] Which [residence permit](/glossary/Aufenthaltstitel) you have
+- [ ] When your employment ends
+- [ ] A copy of your [resignation letter](/glossary/Kündigungsschreiben) or termination notice[^2]
+
+The *[[Ausländerbehörde]]* will reply by email. It takes weeks to reply.[^46] They might not reply at all.
+
+In Berlin, they give you 3 to 12 months to find another job.[^5] It's different in other cities.[^8]
+
+**To change jobs**, you might need permission from the *Ausländerbehörde* to start working. [It depends](#what-happens-to-your-residence-permit) on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for. With a Blue Card, you can immediately start your new job.
 
 **[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
@@ -314,7 +317,7 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
-[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), 
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
@@ -342,7 +345,6 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
-[^36]: [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/)
 [^37]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023)
 [^39]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
@@ -352,4 +354,4 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
 [^45]: [Dr. Drees](https://www.dr-drees.com/aufhebungsvertrag-ohne-frist/#:~:text=sperrfrist%20wegen%20des%20aufhebungsvertrages) (July 2024)
-[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024)
+[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/) (August 2023)
