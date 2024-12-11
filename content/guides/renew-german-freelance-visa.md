@@ -16,11 +16,11 @@ This guide was written for self-employed people in Berlin. In other cities, the 
 To renew a German freelance visa, you must...
 
 1. Prepare the [required documents ➞](#required-documents)
-2. Use the *[[Ausländerbehörde]]*'s [contact form](/out/auslanderbehorde-contact) to send your documents
-2. Wait for the *Ausländerbehörde* to give you an appointment
-3. Go to your appointment
-4. Wait for your new residence permit
-5. Pick up your new residence permit
+2. Use the *[[Ausländerbehörde]]*'s [contact form](/guides/immigration-office#use-the-contact-form) to send your documents
+3. Wait for the *Ausländerbehörde* to give you an appointment
+4. Go to your appointment
+5. Wait for your new residence permit
+6. Pick up your new residence permit
 
 **Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to prepare the [required documents](#required-documents). Some documents must be verified by a [tax advisor](/glossary/Steuerberater). If you don't have a tax advisor, or if your finances are not organised, you need more time.
 

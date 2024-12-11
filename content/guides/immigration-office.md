@@ -83,6 +83,10 @@ The Berlin immigration office has multiple departments. Send your application to
     For skilled workers and their family.
 - **E1, E2, E3, E4, E5, E6**  
     For everyone else. They handle permanent residence, freelance visas, and everything else. Choose the department that is responsible for your country.
+- **S1, S2, S3, S4, S5, S6**  
+    For citizenship applications. Choose the department that is responsible for your country.
+
+**[List of departments ➞](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php)**
 
 ## How to get an appointment
 
