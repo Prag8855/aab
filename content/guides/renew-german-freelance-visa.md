@@ -99,7 +99,7 @@ Go to the **[list of required documents ➞](#required-documents)**
 
 You can't book an *Ausländerbehörde* appointment. You must use their contact form to send your documents, then wait for a response. They can take [a few months](/guides/auslanderbehorde-wait-times) to reply.
 
-**[How to send your documents ➞](/guides/residence-permit#apply-online)**
+**[How to send your documents ➞](/guides/residence-permit#send-your-application)**
 
 When they reply, they will give you an appointment. This appointment can be [in a few months](/guides/auslanderbehorde-wait-times). They might also ask for more documents.
 

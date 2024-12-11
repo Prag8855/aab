@@ -7,22 +7,13 @@ Date_created: 2023-07-17
 Related_guides:
     guides/losing-your-job.md
     guides/german-resignation-letter.md
+    guides/residence-permit.md
+    guides/immigration-office.md
 Categories:
     auslaenderbehoerde
 ---
 
-If you have a [residence permit](/glossary/Aufenthaltstitel), and you [quit or lose your job](/guides/losing-your-job), you must tell the *[[Ausländerbehörde]]*. Use this template to write to them.
-
-**[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
-
-You must do this if...
-
-- You have a [residence permit](/glossary/Aufenthaltstitel) that requires you to have a job. For example, a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
-
-You don't need to do this if...
-
-- You have German [permanent residence](/glossary/Niederlassungserlaubnis)
-- or you are a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland.
+If you have a [residence permit](/glossary/Aufenthaltstitel), and you [quit or lose your job](/guides/losing-your-job), you must [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). Use this letter template to do it.
 
 ## Letter template
 
@@ -30,14 +21,19 @@ You don't need to do this if...
 
 ## How to send this letter
 
-In Berlin, use the [*Ausländerbehörde*'s contact form](/out/auslanderbehorde-contact). Send the letter to the department who is responsible for you. Include a copy of your resignation letter, your termination notice, and your new work contract.
+Use the [*Ausländerbehörde* contact form](/guides/immigration-office#use-the-contact-form) to send the message. Attach these documents:
 
-**[How to contact the Ausländerbehörde ➞](/guides/immigration-office#how-to-contact-the-auslanderbehorde)**
+- [ ] A copy of your [resignation letter](/glossary/Kündigungsschreiben) or termination notice
+- [ ] If you have a new job, a copy of your new work contract
 
-The *Ausländerbehörde* takes a few weeks to reply. Sometimes, they don't reply at all.[^1]
+The *Ausländerbehörde* will reply by email. They might reply in a few weeks, or not reply at all.[^1]
 
 ## What to do next
 
 **[Losing or changing your job in Germany ➞](/guides/losing-your-job)**
+
+**[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
 [^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report (July 2023), Victoria Messer (October 2024)

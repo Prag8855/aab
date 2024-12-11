@@ -49,7 +49,7 @@ To contact the *Ausländerbehörde*, or to apply for a residence permit that is 
 5. **Wait for a response**  
     They reply [very slowly](/guides/auslanderbehorde-wait-times). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). [If your visa or resident permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), it's usually extended until the *Ausländerbehörde* processes your application. Sometimes, you can't reply to their emails directly, so you must use the contact form again.
 
-**[What happens next? ➞](/guides/residence-permit#wait)
+**[What happens next? ➞](/guides/residence-permit#wait)**
 
 ### Other contact options
 

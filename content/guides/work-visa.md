@@ -141,7 +141,7 @@ Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
-**[How to send your application ➞](/guides/residence-permit#apply-online)
+**[How to send your application ➞](/guides/residence-permit#send-your-application)
 
 ### 5. Wait
 
@@ -222,13 +222,13 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-When you [send your application](/guides/residence-permit#apply-online), **use PDF files or photos.** Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
+When you [send your application](/guides/residence-permit#send-your-application), **use PDF files or photos.** Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
 When you [go to to your appointment](/guides/residence-permit#go-to-your-appointment), print everything. Use A4 paper. Do not staple the pages together.
 
 ## After you get your work visa
 
-**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-residence-permit)**
+**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-permit)**
 
 ### Give feedback
 

@@ -218,7 +218,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 ## After you get your Blue Card
 
-**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-residence-permit)**
+**[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-permit)**
 
 ### Give feedback
 

@@ -211,7 +211,7 @@ When you go to your appointment, bring...
 - [ ] **Your family**  
     If you apply for family reunion visas, or for residence permanent residence for a spouse, your family must come with you.[^38]
 - [ ] **A translator** (optional)  
-    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter). [Relocation consultants](/guides/relocation-agency-in-berlin) and [immigration lawyers](/guides/english-speaking-lawyers-berlin) can also translate for you.
+    Many *Ausländerbehörde* employees only speak German. If you don't speak German, bring an interpreter or a German-speaking friend. It's not required, but it helps. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
 
 Go to the [correct *Ausländerbehörde*](/guides/immigration-office#locations). Arrive early. You need enough time to find the correct waiting room. If you are late, they might refuse to help you.[^53]
 
@@ -398,13 +398,15 @@ The *[[Ausländerbehörde]]* will check if you still meet all the requirements o
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. It's better than renewing your residence permit.
+You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship. It's better than a residence permit.
 
 **[Permanent residence requirements ➞](/guides/permanent-residence#permanent-residence-requirements)**
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
 ## If you lose or change your job
+
+**[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ## If you travel
 

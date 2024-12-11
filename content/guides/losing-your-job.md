@@ -110,28 +110,18 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 ### Tell the Ausländerbehörde
 
-If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
+If you have a [residence permit](/glossary/Aufenthaltstitel), you must tell the *[[Ausländerbehörde]]* when your employer changes. [Permanent residents](/glossary/Niederlassungserlaubnis) don't need to do this.
+
+Tell the *[[Ausländerbehörde]]* as soon as you know. Do not wait more than 2 weeks.[^11] Use my letter generator to write the message.
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
-Inform the *Ausländerbehörde*. **Use my [letter generator](/docs/auslanderbehorde-job-change)** to write the message. Send it through their [contact form](/guides/immigration-office#use-the-contact-form).
+Use the [*Ausländerbehörde* contact form](/guides/immigration-office#use-the-contact-form) to send the message. Attach these documents:
 
-**[How to contact the Ausländerbehörde ➞](/guides/immigration-office#how-to-contact-the-auslanderbehorde)**
+- [ ] A copy of your [resignation letter](/glossary/Kündigungsschreiben) or termination notice
+- [ ] If you have a new job, a copy of your new work contract
 
-Your letter must include:
-
-- [ ] Your full name
-- [ ] Your date and place of birth
-- [ ] Your nationality
-- [ ] Which [residence permit](/glossary/Aufenthaltstitel) you have
-- [ ] When your employment ends
-- [ ] A copy of your [resignation letter](/glossary/Kündigungsschreiben) or termination notice[^2]
-
-The *[[Ausländerbehörde]]* will reply by email. It takes weeks to reply.[^46] They might not reply at all.
-
-In Berlin, they give you 3 to 12 months to find another job.[^5] It's different in other cities.[^8]
-
-**To change jobs**, you might need permission from the *Ausländerbehörde* to start working. [It depends](#what-happens-to-your-residence-permit) on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for. With a Blue Card, you can immediately start your new job.
+The *Ausländerbehörde* will reply by email. They might reply in a few weeks, or not reply at all.[^46]
 
 **[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
@@ -179,14 +169,16 @@ You must get your [salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbes
 
 ### Work visa or Blue Card
 
-After you inform the *[[Ausländerbehörde]]*, nothing happens. **Your [residence permit](/glossary/Aufenthaltstitel) does not expire**, but they can shorten it. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5] It depends on the *Ausländerbehörde*.
+After you inform the *[[Ausländerbehörde]]*, they can shorten your residence permit. In Berlin, they give you 3 to 12 months to find another job.[^5] It's different in other cities.[^8]
 
-When you [find a new job](/guides/find-a-job-in-berlin), you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
+If you can't find a job after 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, your spouse can sponsor your family reunion visa, or you can get a language course visa.[^29]
+
+If you [find a new job](/guides/find-a-job-in-berlin), you might need permission from the *Ausländerbehörde* to start working. It depends on which [residence permit](/glossary/Aufenthaltstitel) you have, and when you got it.
 
 - **If you have a [[Blue Card]]**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission, but you must inform them of the job change. [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
+    You can start a new job. You don't need permission from the *Ausländerbehörde*, but you must [tell them](#tell-the-auslanderbehorde) when you change employers. [Email them](/docs/auslanderbehorde-job-change) a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
 - **If you had <u>this</u> residence permit for at least 2 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Email them a copy of your new work contract.[^4]
+    You can start a new job. You don't need permission from the *Ausländerbehörde*, but you must [tell them](#tell-the-auslanderbehorde) when you change employers. [Email them](/docs/auslanderbehorde-job-change) a copy of your new work contract.[^4]
 - **If you had <u>any</u> residence permit for at least 3 years**  
     You can start a new job. You don't need the *Ausländerbehörde*'s permission.[^42] Email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
 - **Everyone else**  
@@ -194,25 +186,19 @@ When you [find a new job](/guides/find-a-job-in-berlin), you might need permissi
 
 Some employers don't know the rules well. They might refuse to let you start working, because they think that you don't have permission.
 
-If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, you can get a language course visa and stay up to 12 months longer.[^29]
+### [[Family reunion visa]]
 
-If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it expires at the same time as your residence permit.[^43] Your spouse could get a [work visa](/glossary/Work%20Visa) and sponsor your [family reunion visa](/glossary/Family%20reunion%20visa).[^35]
+Your family reunion visa is not tied to your job. You can change jobs without permission from the *Ausländerbehörde*. If you lose your job, nothing happens to your residence permit.
 
-**[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
+Your spouse and children's family reunion visas are tied to your residence permit. If you can stay in Germany, they can stay in Germany. If you lose your residence permit, they usually lose their family reunion visa too.[^43]
 
-### Family reunion visa
+If your spouse has a family reunion visa and you lose your job, you can switch roles. They can get a residence permit and sponsor your family reunion visa.[^35]
 
-If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it's tied to your [residence permit](/glossary/Aufenthaltstitel). If you can stay in Germany, they can stay in Germany. If your residence permit expires, their family reunion visa usually expires too.
+### Citizenship or permanent residence
 
-If your spouse is employed, you can switch roles: your spouse gets a [work visa](/glossary/Work%20Visa), [freelance visa](/glossary/Freelance%20visa) or [[Blue Card]], and you get a family reunion visa.[^35]
+If you are a **EU citizen** or a **German [permanent resident](/glossary/Niederlassungserlaubnis)**, nothing happens. You don't need to a job to live in Germany. You don't need permission to change jobs.
 
-### Citizenship and permanent residence
-
-If you are a **EU citizen** or a **German [permanent resident](/glossary/Niederlassungserlaubnis)**, nothing happens. You have the right to stay in Germany, even if you are unemployed.
-
-If you *currently* get *[[ALG I]]*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34] Your application might be delayed until you find a job. If you have a good chance of finding another job, your application might be approved anyway.[^28]
-
-If you got *ALG I* in the past, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
+Your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application might be delayed until you [find another job](/guides/find-a-job-in-berlin) and finish your [probation period](/glossary/Probezeit).[^28]
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
@@ -313,7 +299,7 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
-[^4]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A)
+[^4]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A) (December 2024)
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
