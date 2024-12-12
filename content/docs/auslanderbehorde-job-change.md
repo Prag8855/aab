@@ -13,7 +13,7 @@ Categories:
     auslaenderbehoerde
 ---
 
-If you have a [residence permit](/glossary/Aufenthaltstitel), and you [quit or lose your job](/guides/losing-your-job), you must [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). Use this letter template to do it.
+If you have a [residence permit](/glossary/Aufenthaltstitel), and you [lose or change your job](/guides/losing-your-job), you must [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde).[^2] Use this letter template to do it.
 
 ## Letter template
 
@@ -37,3 +37,4 @@ The *Ausländerbehörde* will reply by email. They might reply in a few weeks, o
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
 [^1]: Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), user report (July 2023), Victoria Messer (October 2024)
+[^2]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
