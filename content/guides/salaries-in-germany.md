@@ -77,7 +77,7 @@ Some employers pay a yearly bonus (*13. Monatsgehalt*). It's usually in your wor
 
 Some companies offer a relocation bonus. This helps you pay for your relocation costs. You can also negotiate this amount. Sometimes, it's a fixed amount, and sometimes they refund your real costs. Sometimes, you get your relocation bonus with your first paycheck, 30 to 45 days after you start working. You pay [income tax](/glossary/Einkommensteuer) on your relocation bonus.
 
-When you [get a job offer](/guides/find-a-job-in-berlin#step-4-the-job-offer), you can negotiate a bigger relocation bonus.
+When you [get a job offer](/guides/find-a-job-in-berlin#the-job-offer), you can negotiate a bigger relocation bonus.
 
 If you don't get a relocation bonus, your relocation costs are still [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/moving-in#deduct-your-moving-costs)
 

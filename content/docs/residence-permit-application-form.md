@@ -12,7 +12,7 @@ Related_guides:
     guides/work-visa.md
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/german-work-visa-to-freelance-visa.md
     guides/german-visa-health-insurance.md

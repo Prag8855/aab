@@ -8,7 +8,7 @@ Date_created: 2018-09-12
 Related_guides:
     guides/freelance-visa.md
     guides/renew-german-freelance-visa.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/start-a-business-in-germany.md
     guides/residence-permit.md

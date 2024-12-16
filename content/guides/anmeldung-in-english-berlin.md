@@ -1,6 +1,6 @@
 ---
 Title: The Anmeldung — How to register your address in Berlin
-Short_title: Anmeldung — How to register your address
+Short_title: How to register your address
 Description: This guide explains how to do your Anmeldung in Berlin. This is how you register your address, and how you get a Meldebescheinigung and a tax ID.
 Date_created: 2018-04-30
 Related_reviews:

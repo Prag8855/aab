@@ -1,6 +1,6 @@
 ---
 Title: What is the German TV tax (Rundfunkbeitrag)?
-Short_title: How the TV tax works (Rundfunkbeitrag)
+Short_title: How the TV tax works
 Description: The TV tax is a broadcasting tax that every German household must pay. Here is how it works.
 Date_created: 2017-10-10
 ---

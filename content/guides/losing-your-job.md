@@ -17,7 +17,7 @@ This guide shows you what to do when:
 - You quit (you choose to leave)
 - You change jobs
 
-It only applies to employees, not freelancers.
+This guide is only for employees, not freelancers.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -25,7 +25,7 @@ It only applies to employees, not freelancers.
 
 ### Calculate your notice period
 
-Your job has a notice period (*[[Kündigungsfrist]]*). It's written in your work contract. If you quit, you must work until the end of your notice period.
+Your job has a notice period (*[[Kündigungsfrist]]*). It's written in your work contract. If you quit, you must work until the end of your notice period. The notice period starts when your employer gets your [resignation letter](/glossary/Kündigungsschreiben).
 
 Your notice period can be very long: 3 months is normal for some jobs.[^9] To leave sooner, negotiate a shorter notice period with your employer.[^40]
 
@@ -33,13 +33,13 @@ Your notice period can be very long: 3 months is normal for some jobs.[^9] To le
 
 ### Give your resignation letter
 
-To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter. That's when your [notice period](/glossary/Kündigungsfrist) starts. There are rules on how you write and deliver this letter.
+To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your resignation letter. That's when your [notice period](/glossary/Kündigungsfrist) starts.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
 **[Resignation letter generator ➞](/docs/resignation-letter)**
 
-If you did not choose to quit your job, do not give a resignation letter. Your employer can't force you to resign.
+Your employer can't force you to resign. Never give a resignation letter if you did not resign.
 
 ### See a doctor
 
@@ -59,7 +59,7 @@ During your [probation period](/glossary/Probezeit), you can be fired without a 
 
 After your probation period ends, your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] [Get legal help](#need-help) for this.
 
-### Calculate your notice period
+### Finish your notice period
 
 Your job has a notice period (*[[Kündigungsfrist]]*), even during your [probation period](/glossary/Probezeit). If you get laid off, you get paid until the end of the notice period. During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave). If you have unused vacation days, your employer usually forces you to go on vacation.
 
@@ -73,9 +73,9 @@ If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign
 
 You can negotiate how much severance pay you get.[^26] Severance pay in Germany is lower than in North America. You usually get 0.5× your [gross](/glossary/Brutto%20income) monthly income for each year of employment.[^21] For example, if you work 5 years for an employer, your severance pay is 2.5 months of income.
 
-A labour [lawyer](/guides/english-speaking-lawyers-berlin) can help you negotiate better severance pay, because they know how much money you can get.
+A labour lawyer can help you negotiate better severance pay, because they know how much money you can get.
 
-**[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
+**[Find a labour lawyer ➞](/guides/english-speaking-lawyers-berlin)**
 
 Severance pay can affect your [unemployment benefits](/glossary/ALG%20I). If your severance pay is really high, you can lose 3 months of unemployment benefits.[^25] Sometimes, it's better to refuse severance pay and get unemployment benefits. If you are not sure, ask a labour lawyer.
 
@@ -110,25 +110,13 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 ### Tell the Ausländerbehörde
 
-If you have a [residence permit](/glossary/Aufenthaltstitel) like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], tell the *[[Ausländerbehörde]]* that you will be unemployed. Do this as soon as know that you will be unemployed. Do not wait more than 2 weeks.[^11]
+If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[[Ausländerbehörde]]* when you change or lose your job. Do not wait more than 2 weeks.[^11] [Permanent residents](/glossary/Niederlassungserlaubnis) don't need to do this.
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
-To inform the *Ausländerbehörde*, you must...
+Use my letter generator to write your message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it. Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract
 
-1. [Choose the right department to contact](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde)
-2. Write a letter in German. Use my [letter generator](/docs/auslanderbehorde-job-change). It must include:
-    - [ ] Your full name
-    - [ ] Your date and place of birth
-    - [ ] Your nationality
-    - [ ] What kind of residence permit you have
-    - [ ] When your employment ends
-3. Include these documents with your message:[^2]
-    - [ ] A copy of your termination notice or [resignation letter](/glossary/Kündigungsschreiben)
-4. Send your letter with [the official contact form](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde). They will reply around 4 weeks later.[^36] You do not need to go to the *Ausländerbehörde* in person.
-5. The *Ausländerbehörde* gives you 3 to 12 months to find a job.[^5] It's different at every *Ausländerbehörde*.[^8] They will tell you by email or by post. They can take many weeks to reply.[^46] They might not reply at all.
-
-If you are changing jobs, you might need permission from the *Ausländerbehörde* to work for a new employer. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
+In Berlin, the *Ausländerbehörde* will reply by email. It can take a few weeks. They might not reply at all.[^46]
 
 **[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
@@ -172,42 +160,90 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 You must get your [salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*) and your last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
 
+## After you stop working
+
+### Get coaching or training
+
+If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
+
+Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*. Your case worker will decide if you can get free training.[^32]
+
+### Find a new job
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*). You might need a different [residence permit](/glossary/Aufenthaltstitel) for this.
+
+**[How to start a business ➞](/guides/start-a-business-in-germany)**
+
+### Make a tax declaration
+
+At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#make-a-tax-declaration).
+
+- **If you get [unemployment benefits](/glossary/ALG%20I)**, you *must* make a tax declaration.
+- **If you don't get unemployment benefits**, you should still make a tax declaration. If you were unemployed for a few months, you probably paid too much taxes. Make a tax declaration to get some money back.
+
+**[German tax software ➞](/guides/german-tax-software)**
+
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+### Ask for a pension refund
+
+When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
+
+{% include '_blocks/pensionRefundCalculator.html' %}
+
+**[How to get a pension payments refund ➞](/guides/pension-payments-refund)**
+
 ## What happens to your residence permit
 
-### Work visa or Blue Card
+Always tell the *[[Ausländerbehörde]]* when you change or lose your job. In Berlin, they give you 3 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]
 
-After you inform the *[[Ausländerbehörde]]*, nothing happens. **Your [residence permit](/glossary/Aufenthaltstitel) does not expire**, but they can shorten it. The *Ausländerbehörde* will give you 3 to 12 months to find another job.[^5] It depends on the *Ausländerbehörde*.
+**If you can't find a job** after 3 to 12 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29]
 
-When you [find a new job](/guides/find-a-job-in-berlin), you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel) type, and how long you had it for.
+**When you find a job**, you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel).
 
-- **If you have a Blue Card**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission. [Contact the *Ausländerbehörde*](/guides/berlin-auslanderbehorde-appointment#contact-the-auslanderbehorde), and send them a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
-- **If you had <u>this</u> residence permit for at least 2 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission. Email them a copy of your new work contract.[^4]
-- **If you had <u>any</u> residence permit for at least 3 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission.[^42] Email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
-- **Everyone else**  
-    You need permission from the *Ausländerbehörde* to start a new job.[^41] You must basically apply for a new work visa or Blue Card.[^37] This can take a few months.[^39]
+### Blue Card
 
-If you can't find a job in 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, you can get a language course visa and stay up to 12 months longer.[^29]
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) If your Blue Card is limited to a specific employer, you need the *[[Ausländerbehörde]]*'s permission to change jobs.
 
-If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it expires at the same time as your residence permit.[^43] Your spouse could get a [work visa](/glossary/Work%20Visa) and sponsor your [family reunion visa](/glossary/Family%20reunion%20visa).[^35]
+If your Blue Card is not limited to one employer, you can start a new job immediately. Your new job must fulfil the [Blue Card requirements](/guides/blue-card#blue-card-requirements).[^36]
 
-**[Where to get immigration help ➞](/guides/questions-about-berlin#immigration-questions)**
+Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) about your new job. They have 30 days to stop you. If you had your Blue Card for at least 1 year, they can't stop you.[^38]
 
-### Family reunion visa
+### Opportunity card
 
-If your spouse and children have a [family reunion visa](/glossary/Family%20reunion%20visa), it's tied to your [residence permit](/glossary/Aufenthaltstitel). If you can stay in Germany, they can stay in Germany. If your residence permit expires, their family reunion visa usually expires too.
+The opportunity card lets you work 20 hours per week for any employer.[^47] To work full time, you must apply for a residence permit like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]]. You must wait for your residence permit before you work full time. It can take a few weeks.
 
-If your spouse is employed, you can switch roles: your spouse gets a [work visa](/glossary/Work%20Visa), [freelance visa](/glossary/Freelance%20visa) or [[Blue Card]], and you get a family reunion visa.[^35]
+**[Residence permits for work ➞](/guides/residence-permit#for-work)**
 
-### Citizenship and permanent residence
+### Job seeker visa
 
-If you are a **EU citizen** or a **German [permanent resident](/glossary/Niederlassungserlaubnis)**, nothing happens. You have the right to stay in Germany, even if you are unemployed.
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) It tells you if you can work with your job seeker visa. If not, you need another residence permit to start working. It will take [a few weeks](/guides/auslanderbehorde-wait-times).
 
-If you *currently* get *[[ALG I]]*, it can affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^34] Your application might be delayed until you find a job. If you have a good chance of finding another job, your application might be approved anyway.[^28]
+**[Residence permits for work ➞](/guides/residence-permit#for-work)**
 
-If you got *ALG I* in the past, it does not affect your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application.[^32]
+### [[Family reunion visa]]
+
+Your family reunion visa is not tied to your job. You can change jobs without permission from the *Ausländerbehörde*. If you lose your job, nothing happens to your residence permit.
+
+Your spouse and children's family reunion visas are tied to your residence permit. If you can stay in Germany, they can stay in Germany. If you lose your residence permit, they usually lose their family reunion visa too.[^43]
+
+If your spouse has a family reunion visa and you lose your job, you can switch roles. They can get a residence permit and sponsor your family reunion visa.[^35]
+
+### Other residence permits
+
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) If it says "Beschäftigung erlaubt" or "Erwerbstätigkeit erlaubt", you can start a new job immediately. You don't need permission from the *Ausländerbehörde*.
+
+Usually, you need the *[[Ausländerbehörde]]*'s permission to change jobs. You must apply for a new residence permit before you start working. It takes [a few weeks](/guides/auslanderbehorde-wait-times). Your new job must fulfil the [work visa requirements](/guides/work-visa#work-visa-requirements).[^36] After 2 to 3 years in Germany, they might allow you to take any job.[^8]
+
+Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) about your new job, even if you don't need their permission to change jobs.
+
+### Citizenship or permanent residence
+
+If you are a **EU citizen** or a **German [permanent resident](/glossary/Niederlassungserlaubnis)**, nothing happens. You don't need to a job to live in Germany. You don't need permission to change jobs.
+
+Your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship application might be delayed until you [find another job](/guides/find-a-job-in-berlin) and finish your [probation period](/glossary/Probezeit).[^28]
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
@@ -249,47 +285,12 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
-## After you leave your job
-
-### Get coaching or training
-
-If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
-
-Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*. Your case worker will decide if you can get free training.[^32]
-
-### Find a new job
-
-**[How to find a job ➞](/guides/find-a-job-in-berlin)**
-
-You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*). You might need a different [residence permit](/glossary/Aufenthaltstitel) for this.
-
-**[How to start a business ➞](/guides/start-a-business-in-germany)**
-
-### Make a tax declaration
-
-At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
-
-- **If you get [unemployment benefits](/glossary/ALG%20I)**, you *must* make a tax declaration.
-- **If you don't get unemployment benefits**, you should still make a tax declaration. If you were unemployed for a few months, you probably paid too much taxes. Make a tax declaration to get some money back.
-
-**[German tax software ➞](/guides/german-tax-software)**
-
-**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
-
-### Ask for a pension refund
-
-When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
-
-{% include '_blocks/pensionRefundCalculator.html' %}
-
-**[How to get a pension payments refund ➞](/guides/pension-payments-refund)**
-
 ## Checklist
 
-- [ ] Give your resignation letter, if you quit
+- [ ] If you quit, give your resignation letter
 - [ ] Register as a job seeker at the *[[Agentur für Arbeit]]*
 - [ ] Register as unemployed at the *[[Agentur für Arbeit]]*
-- [ ] Tell the *[[Ausländerbehörde]]*, if you have a [residence permit](/glossary/Aufenthaltstitel)
+- [ ] If you have a [residence permit](/glossary/Aufenthaltstitel), tell the *[[Ausländerbehörde]]*
 - [ ] Tell your health insurance
 - [ ] Get all documents from your employer
     - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
@@ -308,11 +309,10 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
-[^4]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A)
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
-[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^8]: [§9 Abs. 1 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html)
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
@@ -340,14 +340,11 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
-[^36]: [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/)
-[^37]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
+[^36]: Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2024) 
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023)
-[^39]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
 [^40]: [karrierebibel.de](https://karrierebibel.de/schneller-aus-dem-arbeitsvertrag/#:~:text=versuch%20einer%20einvernehmlichen%20einigung)
-[^41]: [§4a Abs. 3 Satz 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html)
-[^42]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023), Victoria Messer (December 2023)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
 [^45]: [Dr. Drees](https://www.dr-drees.com/aufhebungsvertrag-ohne-frist/#:~:text=sperrfrist%20wegen%20des%20aufhebungsvertrages) (July 2024)
-[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024)
+[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/) (August 2023), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2024)
+[^47]: [§20a Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html)

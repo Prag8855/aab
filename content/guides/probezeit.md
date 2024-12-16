@@ -65,7 +65,7 @@ If your employer fires you, they must give you a 4 week [notice](/glossary/K%C3%
 
 Some companies have longer notice periods in their contracts.[^10] 3 month notice periods are common, and some have a 6 month notice period.[^11] Your notice period (when you quit) can't be longer than the notice period of your employer (when they fire you).[^10]
 
-### Vacations
+### Taking vacations
 
 After your probation is over, you can use all your vacation days for the year.[^12]
 

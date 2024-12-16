@@ -259,7 +259,7 @@ Vue.component('feedback-residence-permit', {
 							<option v-for="(name, key) in departments" :value="key" :key="key" v-text="name"></option>
 						</select>
 						<span class="input-instructions">
-							<a target="_blank" href="/out/auslanderbehorde-departments">Find your Ausländerbehörde department.</a> Don't choose a random department.
+							<a target="_blank" href="/guides/immigration-office#departments">Find your Ausländerbehörde department.</a> Don't choose a random department.
 						</span>
 					</div>
 					<div class="form-group">

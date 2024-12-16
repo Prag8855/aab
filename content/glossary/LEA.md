@@ -6,11 +6,11 @@ Description: The Berlin immigration office (Ausländerbehörde) handles German v
 ssml: Landesamt für Einwanderung
 Date_created: 2021-06-08
 Related_guides:
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/residence-permit.md
 ---
 
 LEA is for *Landesamt für Einwanderung*. This is the new name of the *[[Ausländerbehörde]]*.
 
-**[How to get an LEA appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
+**[Berlin Ausländerbehörde guide ➞](/guides/immigration-office)**

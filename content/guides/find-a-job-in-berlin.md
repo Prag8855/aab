@@ -14,11 +14,9 @@ This guide helps you find a job in Berlin, from finding job listings to your fir
 
 ### Can you work in Germany?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any [residence permit that allows employment](/guides/residence-permit#residence-permits-to-work).
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], for example. There might be a minimum salary or education requirement.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit)**
-
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
+**[How to get a residence permit ➞](/guides/residence-permit)**
 
 ### Do you need to speak German?
 
@@ -46,7 +44,7 @@ Know [how much you should earn](/guides/salaries-in-germany), and [how much taxe
 
 **[Calculate your income tax ➞](/tools/tax-calculator)**
 
-## Step 1: Look for jobs
+## 1. Look for jobs
 
 ### General job search
 
@@ -115,7 +113,7 @@ These websites only have English-speaking jobs, or let you filter by language:
 - [Berlin Food Stories](https://berlinfoodstories.com/jobs) - Restaurant jobs in Berlin
 - [Huntler](http://www.huntler.de/) - English-speaking restaurant jobs in Berlin
 
-## Step 2: Apply for jobs
+## 2. Apply for jobs
 
 ### German resumes
 
@@ -137,7 +135,7 @@ Don't send the same cover letter to everyone. Do your research, and personalise 
 - [How to write a German cover letter](https://hallogermany.com/blog/cv-lebenslauf) - HalloGermany
 - [Advice for cover letters](https://news.ycombinator.com/item?id=1783915) with [examples](https://news.ycombinator.com/item?id=1784194) - Hacker News
 
-## Step 3: The job interview
+## 3. The job interview
 
 In Germany, the interview process is very long. It can take a few weeks, and even a few months. You might have multiple interviews with different people. It depends on the company and the job. You need a lot of time for this.
 
@@ -157,7 +155,7 @@ Technical interviews are different at every company. They might ask you technica
 
 Most companies have a team interview. You meet your future team to see if you work well together. This interview is more relaxed. You might just talk with the team, or have lunch together.
 
-## Step 4: The job offer
+## 4. The job offer
 
 After your interview, the company can make a job offer.
 
@@ -173,19 +171,17 @@ Read your job contract carefully. If your employer promised something to you dur
 
 If you are not sure about your contract, [ask for help](/guides/questions-about-berlin#legal-questions) or [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
-## Step 5: Get a residence permit
+## 5. Get a residence permit
 
-If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for a residence permit.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. Sometimes, you must wait for your residence permit to start working. It can take [a few months](/guides/auslanderbehorde-wait-times).
 
-**[Do you need a residence permit? ➞](/guides/residence-permit)**
+**[How to get a residence permit ➞](/guides/residence-permit)**
 
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You can't start working before you get your residence permit. Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
+If you already have a residence permit, you might need the *[[Ausländerbehörde]]*'s permission to change jobs. Sometimes, you can start your new job immediately. Sometimes, you must wait for your new residence permit. This can take [a few weeks](/guides/auslanderbehorde-wait-times).
 
-**[How to get a work visa ➞](/guides/work-visa)**
+**[How to change jobs ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
-**[How to get a Blue Card ➞](/guides/blue-card)**
-
-## Step 6: Start working
+## 6. Start working
 
 ### Things your employer needs
 
@@ -200,15 +196,9 @@ It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residen
 - **Your [social insurance number](/guides/german-versicherungsnummer)** (*Sozialversicherungsnummer*)  
     If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your employer can sometimes help you with this. - [How to get a social insurance number](/guides/german-versicherungsnummer)
 
-Your employer can't ask for your *Anmeldung* to start working.[^4]
+Your employer can't require an [address registration certificate](/glossary/Anmeldebestätigung).[^4]
 
-### The probation period
-
-During your first 6 months at a new company, you are in your probation period (*[[Probezeit]]*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
-
-**[How does the probation period work? ➞](/guides/probezeit)**
-
-### Things an employee must know
+### Things you must know
 
 In Germany, most people are paid once per month, usually on the 1st or 15th day of the month. You get your first paycheck after 30 or 45 days after you start working. You usually get paid by [bank transfer](/glossary/SEPA-Überweisung).
 
@@ -218,13 +208,17 @@ Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberwe
 
 **[How taxes work ➞](/guides/taxes)**
 
+During your first 6 months at a new company, you are in your probation period (*[[Probezeit]]*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
+
+**[How does the probation period work? ➞](/guides/probezeit)**
+
 All employees in Germany get paid [vacation days](/guides/vacation-days), and paid [sick leave](/guides/sick-leave). You don't work on [public holidays](/guides/public-holidays), but you still get paid.
 
 **[How to take vacations ➞](/guides/vacation-days)**
 
 **[What to do when you are sick ➞](/guides/sick-leave)**
 
-## Step 7: Make a tax declaration
+## 7. Make a tax declaration
 
 Many of your job search costs are [tax-deductible](/glossary/steuerlich%20absetzbar):[^2]
 

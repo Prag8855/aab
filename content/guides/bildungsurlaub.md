@@ -17,7 +17,7 @@ You can use a *Bildungsurlaub* to take courses or attend seminars and training e
 
 ## How long is a Bildungsurlaub?
 
-If you work full-time, you get **5 days of paid educational leave per year**. If you work part time, you get less.[^1]
+If you work full time, you get **5 days of paid educational leave per year**. If you work part time, you get less.[^1]
 
 You can combine this year and next year's allowance, and get 10 days of educational leave. For example, you can use your allowance for {{ now.year }} and {{ now.year + 1 }}, and get 10 days off.[^4]
 

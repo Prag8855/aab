@@ -6,7 +6,7 @@ Description: A variant of the German freelance visa for artists.
 Date_created: 2018-08-28
 Related_guides:
     guides/freelance-visa.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
 ---
 

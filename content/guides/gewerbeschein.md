@@ -23,7 +23,7 @@ You can do this online. It takes 30 minutes to fill the form, and around 4 weeks
 To do your *Gewerbeanmeldung*, you need...
 
 - [ ] A credit card (Visa or Mastercard) to pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
-- [ ] Permission to be self-employed in Germany. If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, [check if it allows self-employment](/guides/residence-permit#residence-permits-to-start-a-business). You must get your residence permit before you do the *Gewerbeanmeldung*.
+- [ ] Permission to be self-employed in Germany. If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, [check if it allows self-employment](/guides/residence-permit#for-self-employment). You must get your residence permit before you do the *Gewerbeanmeldung*.
 
 ## How to fill the registration form
 
@@ -102,7 +102,7 @@ Enter information about *you*, not your business. Enter your home address, not y
 
 ### Angaben zum Aufenthaltstitel
 
-If you have a [residence permit](/glossary/Aufenthaltstitel), fill this section. If you are a EU citizen or a German [permanent resident](/glossary/Niederlassungserlaubnis), skip this step. Your residence permit must [allow self-employment](/guides/residence-permit#residence-permits-to-start-a-business).
+If you have a [residence permit](/glossary/Aufenthaltstitel), fill this section. If you are a EU citizen or a German [permanent resident](/glossary/Niederlassungserlaubnis), skip this step. Your residence permit must [allow self-employment](/guides/residence-permit#for-self-employment).
 
 [![Step 8 of the Gewerbeanmeldung form](/images/gewerbeanmeldung-berlin-step8.png)](/images/gewerbeanmeldung-berlin-step8.png)
 

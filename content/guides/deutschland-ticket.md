@@ -10,7 +10,7 @@ This guide explains how the [[Deutschland Ticket]] works in Berlin.
 Summary:
 
 - It costs {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month
-- It lets you use local public transit everywhere in Germany
+- It allows you to use local public transit everywhere in Germany
 - It's only sold as a monthly subscription that renews automatically
 - Tourists should buy it from [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket) or Hamburg's [hvv Switch app](https://www.hvv-switch.de/en/)
 

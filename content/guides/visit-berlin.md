@@ -13,8 +13,8 @@ This guide is for tourists who want to visit Berlin. If you want to move to Berl
 
 You might need a visa to visit Germany. It depends on your citizenship:
 
-- **[EU](/glossary/European%20Union), [[EEA]] and Swiss citizens**  
-    You can visit Germany without a visa. You can stay as long as you want. You can also live and work in Germany.
+- **Citizens of the [EU](/glossary/European%20Union), [[EEA]] and Switzerland**  
+    You can visit, live and work Germany without a visa. You can stay as long as you want.
 - **Other [[Schengen area]] residents**  
     You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period.[^0] If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
 - **Citizens of [other countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**  

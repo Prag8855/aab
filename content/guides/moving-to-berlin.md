@@ -40,9 +40,9 @@ There are [English-speaking jobs in Berlin](/guides/english-speaking-jobs-berlin
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You must get a job offer, then apply for a residence permit, then start working. You can't work before you get a residence permit. It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit.
+You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. Some residence permits require a job offer. You might need to wait for your residence permit before you start working. It can take [a few months](/guides/auslanderbehorde-wait-times) to get.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
+**[Residence permits for work ➞](/guides/residence-permit#for-work)**
 
 ### Find a place to live
 
@@ -68,15 +68,9 @@ If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insur
 
 ### Apply for a residence permit
 
-If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. You need a residence permit to start working or studying.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live, work or study in Germany. It can take [a few months](/guides/auslanderbehorde-wait-times) to get one. You might need it before you start working or studying. Apply for it as soon as you can.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-german-residence-permit)**
-
-You can apply for a residence permit at a German embassy or consulate in your home country. If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you can come to Germany, then apply for a residence permit at the *[[Ausländerbehörde]]*.
-
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. Apply as soon as you can. If you apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], apply as soon as you get a job offer.
-
-It's safer to apply for a residence permit in your home country, and move to Germany when you have permission to start working. You save a lot of money while you wait.
+**[How to get a residence permit ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
 ## Your first month in Berlin
 
@@ -84,7 +78,7 @@ It's safer to apply for a residence permit in your home country, and move to Ger
 
 Open a bank account as soon as you can. You need it to pay rent and receive paychecks. You can use a bank from any European country.
 
-Some banks don't let immigrants open an account. They don't accept all passports, or they ask for documents that you don't have. Choose an [expat-friendly bank](/guides/best-bank-germany#german-banks-for-expats).
+Some banks don't let immigrants open an account. They might refuse your passport, or ask for documents that you don't have. Choose an expat-friendly bank.
 
 **[Best German banks for expats ➞](/guides/best-bank-germany)**
 
@@ -126,21 +120,17 @@ After you move in, get [liability insurance](/glossary/Haftpflichtversicherung).
 
 ### Start working
 
-After you get your [residence permit](/glossary/Aufenthaltstitel) (if you need one), you can start working. During your first month, your employer will ask for a few things like your [tax ID](/glossary/Steueridentifikationsnummer), health insurance number and [pension insurance number](/glossary/Sozialversicherungsnummer).
+You might need a [residence permit](/glossary/Aufenthaltstitel) to start working. During your first month, your employer will need a few things like your [tax ID](/glossary/Steueridentifikationsnummer), health insurance number and [pension insurance number](/glossary/Sozialversicherungsnummer).
 
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
+You should also learn about your rights. Understand how the [probation period](/glossary/Probezeit), vacation days and sick days work. Know what happens if you lose your job.
 
-Know your rights as an employee. Understand how [vacation days](/guides/vacation-days) and [sick days](/guides/sick-leave) work. Know [what happens if you lose your job](/guides/losing-your-job).
-
-Your first 6 months are a [probation period](/glossary/Probezeit). During that time, it's easier to lose your job.
-
-**[How the probation period works ➞](/guides/probezeit)**
+**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#start-working)**
 
 ### Bring your family
 
 Your family can move to Germany with you. They might need a residence permit like the [family reunion visa](/glossary/Family%20reunion%20visa).
 
-If you have children, you might need to send them to a daycare (*[[Kita]]*). It's really hard to find a Kita. They have long waiting lists.
+If you have children, you might need to send them to a daycare (*[[Kita]]*). It's really hard to find a Kita. There are long waiting lists.
 
 **[How to find a Kita ➞](/guides/how-to-find-a-kita-in-berlin)**
 
@@ -172,6 +162,7 @@ Explore your new city! [Get a bicycle](/guides/bicycle-in-berlin) and explore ev
 
 To find things to do in Berlin, check...
 
+- [VisitBerlin](https://www.visitberlin.de/en)
 - [Berlin Events Weekly](https://www.berlineventsweekly.com/)
 - [Mit Vergnügen](https://mitvergnuegen.com/) (in German)
 - [tipBerlin](https://www.tip-berlin.de/) (in German)

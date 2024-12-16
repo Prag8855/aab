@@ -22,7 +22,7 @@ Kitas can charge up to 60€ for sports, special food (such as vegan food or org
 
 - **Children under 1 year old** can go to *Kita* or have a nanny (*Tagesmutter*) for a 4 to 5 hours per day. This is called half days or *halbtags* childcare. You must prove that your child requires it. You can do this by showing your work contract or freelance work commitments. Children who live in homeless shelters or collective housing can also get *halbtags* care.
 - **Children over 1 year old** get 5 to 9 free *Kita* hours per day.[^1]
-    - **By default**, children over 1 year old get 5 to 7 *Kita* hours per day. This is called part time or *teilzeit* childcare.
+    - **By default**, children over 1 year old get 5 to 7 *Kita* hours per day. This is called part-time or *teilzeit* childcare.
     - **If both parents are working, studying or in training**, they get 7 to 9 *Kita* hours per day. This is called full time or *ganztags* childcare. If only one parent is working, studying or in training, they only get *teilzeit* childcare.
 
 ## How hard is it to find a Kita?

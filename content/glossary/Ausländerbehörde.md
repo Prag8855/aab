@@ -5,7 +5,7 @@ English_term: German immigration office
 Description: The foreigners' office. It's responsible for German immigration, visas and residence permits. Also called LEA or Einwanderungsamt.
 Date_created: 2017-09-22
 Related_guides:
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/residence-permit.md
     guides/blue-card.md
@@ -19,11 +19,4 @@ The immigration office (*Ausländerbehörde*, *Landesamt für Einwanderung*, *LE
 
 In Berlin, the official name is *Landesamt für Einwanderung*, but most people call it the *Ausländerbehörde*.
 
-There are 2 *Ausländerbehörde* locations in Berlin:
-
-- [Friedrich-Krause-Ufer](https://service.berlin.de/standort/121885/)
-- [Keplerstraße](https://service.berlin.de/standort/327437/)
-
-**[How to get an Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment)**
-
-**[Berlin Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
+**[Berlin Ausländerbehörde guide ➞](/guides/immigration-office)**

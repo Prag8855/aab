@@ -41,7 +41,7 @@ Glasses are rarely covered. Most of the time, [you must buy your own eyeglasses]
 
 At the dentist, TK only covers the least expensive treatment. For example, if you want high quality tooth fillings, you must pay for the cost difference. If you want full anaesthesia instead of local anaesthesia, you must pay the cost difference.[^2] If you want the *best* treatment, you must pay for the price difference. Tooth cleanings are not covered.[^3] It's the same with other public health insurers. This is why many people get extra dental insurance (*[[Zahnzusatzversicherung]]*).
 
-**[What does public health insurance cover? ➞](/guides/german-health-insurance#what-it-covers)**
+**[What does public health insurance cover? ➞](/guides/german-health-insurance#what-public-insurance-covers)**
 
 ### Expensive for freelancers
 

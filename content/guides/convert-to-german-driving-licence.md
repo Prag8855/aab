@@ -118,7 +118,7 @@ Book a *[[Bürgeramt]]* appointment. In Berlin, appointments are hard to find. T
 Go to your *Bürgeramt* appointment, and bring all the [required documents](https://service.berlin.de/dienstleistung/327537/):
 
 - [ ] **Foreign driving licence**  
-    Bring the original licence, not a copy. If it's not a EU or [[EEA]] licence, it must still be valid.[^6] During the appointment, they take your driving licence. You don't get it back.
+    Bring the original licence, not a copy. If it's not a EU or [[EEA]] licence, it must still be valid.[^6]
 - [ ] **Photocopy of your driving licence**
 - [ ] **Passport or [[Personalausweis]]**
 - [ ] **Passport photo**  
@@ -140,7 +140,7 @@ If your licence is not from a [EU](/glossary/European%20Union), [[EEA]] or [Anne
 
 The appointment only takes a few minutes. It costs {{ DRIVING_LICENCE_CONVERSION_FEE|cur }}€.[^13] The *[[Bürgeramt]]* will send your documents to the *Fahrerlaubnisbehörde*, and they will verify them with your country's embassy.
 
-They will keep your driving licence. If you need to drive, ask for a temporary driving licence (*Vorläufiger Führerschein*). 
+In Berlin, you keep your foreign driving licence while you wait. They only take it later, when you get your German driving licence.[^21]
 
 ### 8. Wait
 
@@ -179,3 +179,4 @@ After a few weeks, you get a letter. It tells you to pick up your new driver lic
 [^18]: [bmdv.bund.de](https://bmdv.bund.de/SharedDocs/DE/Anlage/StV/auslaendische-fahrerlaubnisse-merkblatt-ausserhalb-eu-und-ewr-staaten-englisch.pdf?__blob=publicationFile), [bussgeldkatalog.de](https://www.bussgeldkatalog.de/auslaendischer-fuehrerschein/#:~:text=in%20der%20regel%20bis%20zu%20sechs%20monate%20gultig), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/auslaendischer-fuehrerschein/#:~:text=sie%20mussen%20mindestens%20sechs%20monate%20lang%20ihren%20hauptwohnsitz%20in%20dem%20land%20haben%2C%20in%20dem%20sie%20den%20neuen%20eu-fuhrerschein%20machen.)
 [^19]: Bürgeramt (2024)
 [^20]: [berlin.de](https://service.berlin.de/dienstleistung/121598/)
+[^21]: Emily Archer (November 2024)

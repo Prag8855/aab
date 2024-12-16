@@ -8,7 +8,7 @@ Date_created: 2018-08-28
 Related_guides:
     guides/residence-permit.md
     guides/find-a-job-in-berlin.md
-    guides/berlin-auslanderbehorde-appointment.md
+    guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/freelance-visa.md
     guides/work-visa.md
@@ -16,7 +16,7 @@ Related_guides:
     guides/german-visa-health-insurance.md
 ---
 
-The job seeker visa is a type of [[National Visa]]. It allows you to stay in Germany for 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). The job seeker visa was mostly replaced by the [opportunity card](/glossary/Chancenkarte).
+The job seeker visa is a type of [[National Visa]]. It allows you to stay in Germany for 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). The job seeker visa was mostly replaced by the [opportunity card](/glossary/Chancenkarte). The opportunity card is better.
 
 You can get a job seeker visa when...
 
@@ -28,3 +28,5 @@ To start working, you must apply for a [work visa](/glossary/Work%20Visa), a [[B
 You must apply for a job seeker visa at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country.
 
 **[Information about the job seeker visa ➞](https://service.berlin.de/dienstleistung/324661/en/)**
+
+**[How to apply for a job seeker visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**

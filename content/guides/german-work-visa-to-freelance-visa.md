@@ -19,14 +19,13 @@ If you can, [start your business](/guides/start-a-business-in-germany) before yo
 
 ### Does your residence permit allow it?
 
-If you need a residence permit to live in Germany, check if it lets you freelance.
+If you need a residence permit to live in Germany, check if it allows self-employment. Check your *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*.
 
-**Some work visas and Blue Cards let you freelance**.[^0] Look on your [residence permit](/glossary/Aufenthaltstitel), and on the *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*:
+**[How to read your Zusatzblatt ➞](/guides/zusatzblatt)**
 
-- If it says [*Selbständige Tätigkeit gestattet*](/images/aufenthaltstitel.jpg), you can be self-employed
-- If it says [*Erwerbstätigkeit erlaubt*](/images/aufenthaltstitel-zusatzblat-back-web.png), you can be self-employed[^1]
+**[Residence permits for self-employment ➞](/guides/residence-permit#for-self-employment)**
 
-If your residence permit allows you be self-employed, you can have a side business, but you must keep your job. Your job must be your main source of income. If this changes, you must [apply for a freelance visa](/guides/freelance-visa).
+Some residence permits allow *part time* self-employment. You must keep your job, and it must be your main source of income. To be self-employed full time, you might need to [apply for a freelance visa](/guides/freelance-visa).
 
 ### Does your employer let you freelance?
 
@@ -61,6 +60,4 @@ When you are an employee, health insurance is taken from your paycheck. When you
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
-[^0]: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=LEGISSUM%3Al14573#:~:text=selbststandiger%20nebentatigkeit)
-[^1]: [juraforum.de](https://www.juraforum.de/lexikon/auslaender-erwerbstaetigkeit)
 [^2]: [juraforum.de](https://www.juraforum.de/lexikon/nebengewerbe-anmelden#genehmigung-arbeitgeber-nebengewerbe-muster-fuer-arbeitnehmer)

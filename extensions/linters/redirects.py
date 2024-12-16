@@ -1,5 +1,5 @@
 from pathlib import Path
-from ursus.linters import LineLinter
+from ursus.linters import LineLinter, LineLinterResult
 from ursus.linters.markdown import MarkdownExternalLinksLinter
 import logging
 import requests
@@ -8,7 +8,7 @@ import requests
 class RedirectsLinter(LineLinter):
     file_suffixes = ('.map', )
 
-    def lint_line(self, file_path: Path, line: str):
+    def lint_line(self, file_path: Path, line: str) -> LineLinterResult:
         if line.startswith('#') or not line.strip():
             return
 

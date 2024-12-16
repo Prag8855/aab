@@ -88,7 +88,7 @@ You can't use your legal insurance as soon as you get it. There is usually a 3 t
 
 **You must get insurance before you have a problem.** It does not cover things that happened before you got the insurance.[^1]
 
-### How to use your legal insurance
+### Using your legal insurance
 
 1. **Contact your insurer**  
     Ask your insurance company for a cover note (*[[Deckungszusage]]*). This confirms that the insurance will cover your legal costs. You can request it yourself, or your lawyer can do it for you. The insurance company has 2 weeks to give it to you.[^18] Your insurance might refuse to cover you if they think you can't win. This is why you should ask for a *Deckungszusage* before you see a lawyer.

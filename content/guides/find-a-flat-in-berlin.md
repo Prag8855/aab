@@ -59,7 +59,6 @@ Before you [look for apartments](#look-for-apartments), you must...
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
 - [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible[^8]
 - [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible if you stay over 1 month
-- [The Base](https://www.jointhebase.co/berlin) - *[[Anmeldung]]* possible if you stay over 1 month
 - [coming home](https://www.coming-home.com/)
 - [FarAwayHome](https://www.farawayhome.com/)
 - [Nestpick](https://www.nestpick.com/berlin/) - Listings from other websites

@@ -7,7 +7,7 @@ Date_created: 2020-08-27
 
 This guide shows you how to **renew** a [German freelance visa](/glossary/Freelance%20visa) before it expires. To apply for a new German freelance visa, read [this guide](/guides/freelance-visa).
 
-This guide was written for self-employed people in Berlin. In other cities, the process can be different.
+This guide is for self-employed people in Berlin. In other cities, the process can be different.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -16,11 +16,11 @@ This guide was written for self-employed people in Berlin. In other cities, the 
 To renew a German freelance visa, you must...
 
 1. Prepare the [required documents ➞](#required-documents)
-2. Use the *[[Ausländerbehörde]]*'s [contact form](/out/auslanderbehorde-contact) to send your documents
-2. Wait for the *Ausländerbehörde* to give you an appointment
-3. Go to your appointment
-4. Wait for your new residence permit
-5. Pick up your new residence permit
+2. Use the *[[Ausländerbehörde]]*'s [contact form](/guides/immigration-office#use-the-contact-form) to send your documents
+3. Wait for the *Ausländerbehörde* to give you an appointment
+4. Go to your appointment
+5. Wait for your new residence permit
+6. Pick up your new residence permit
 
 **Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to prepare the [required documents](#required-documents). Some documents must be verified by a [tax advisor](/glossary/Steuerberater). If you don't have a tax advisor, or if your finances are not organised, you need more time.
 
@@ -37,26 +37,26 @@ When you renew your freelance visa, they verify that...
 - [ ] **You have clients in Germany**  
     You must have some invoices from clients in Germany.[^0] If all your income comes from other countries, you can't renew your freelance visa.
 - [ ] **You have valid health insurance**  
-    This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. There is more information about this [below](/guides/renew-german-freelance-visa#get-valid-health-insurance).
+    This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. - [More information ➞](#get-valid-health-insurance).
 - [ ] **You have a retirement plan**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.[^0] This is not required for citizens of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey and the United States.[^1]
 
 If you don't meet those requirements, you can't renew your freelance visa.
 
-**You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** If you lived in Germany for at least 5 years, you can get permanent residence. If you have a *§21 Abs. 1* or *§21 Abs. 2a* freelance visa, you can get permanent residence after 3 years.[^18] Permanent residence is better than a freelance visa.
+**You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** It's better than a freelance visa. You qualify after 5 years in Germany, or 3 years if you have a *§21 Abs. 1* or *§21 Abs. 2a* freelance visa.[^18]
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
 ### 2. Know if you are freelance or self-employed
 
-The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). You much know which one you are.
+The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). You much know which one you are. **Look on your [on your residence permit](/illustrations/freelance-visa-type.png).**
 
-- If you see "§ 21 Abs. 5" [on your residence permit](/illustrations/freelance-visa-type.png), you are a *[[Freiberufler]]*.
-- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your residence permit](/illustrations/freelance-visa-type.png), you are a *Selbständiger*/*[[Gewerbetreibender]]*.
-
-**[Are you a Freiberufler or Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
+- If you see "§ 21 Abs. 5", you are a *[[Freiberufler]]*.
+- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a", you are a *Selbständiger*/*[[Gewerbetreibender]]*.
 
 If your work changes, your status can also change. I was a freelancer, and I am now a tradesperson. When I renewed my freelance visa, I needed different documents.
+
+**[Are you a Freiberufler or Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
 
 Note: Immigration law uses the term "*Selbständiger*" and business law uses "*Gewerbetreibender*". It means the same thing.[^16]
 
@@ -66,7 +66,7 @@ When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health i
 
 **[Health insurance for the freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
-It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
+It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
@@ -99,13 +99,17 @@ Go to the **[list of required documents ➞](#required-documents)**
 
 You can't book an *Ausländerbehörde* appointment. You must use their contact form to send your documents, then wait for a response. They can take [a few months](/guides/auslanderbehorde-wait-times) to reply.
 
-**[How to send your documents ➞](/guides/berlin-auslanderbehorde-appointment#send-your-documents-and-wait)**
+**[How to send your documents ➞](/guides/residence-permit#send-your-application)**
 
 When they reply, they will give you an appointment. This appointment can be [in a few months](/guides/auslanderbehorde-wait-times). They might also ask for more documents.
 
-Your current [residence permit](/glossary/Aufenthaltstitel) usually stays valid while you wait. [If it expires](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
+In most cases, your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
-**[If your residence permit expires soon ➞](/guides/berlin-auslanderbehorde-appointment#if-your-residence-permit-expires-soon)**
+**[If your residence permit expires soon ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
+
+**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
+
+If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
@@ -121,21 +125,19 @@ Many *Ausländerbehörde* employees only speak German.[^4] They will ask you man
 
 The *Ausländerbehörde* might ask you to bring new or updated documents to your appointment. Bring all the documents that you did not already send. Print them on A4 paper. Do not staple the pages together.
 
-**If you have all the right documents**, you will get a new freelance visa. It will be valid for 1 to 3 years.
+**If you have all the right documents**, you will get a new freelance visa. It will be valid for 1 to 3 years.[^15]
 
 **If your documents are not convincing**, you could get a shorter freelance visa, usually 1 year. This can happen if your income is too low.
 
 **If some documents are missing**, you will not get a freelance visa. You will get a new appointment. You must go home, get the missing documents, and come back for your next appointment. If your current visa has expired, you will get a *[[Fiktionsbescheinigung]]*.
 
-**[What happens during your Ausländerbehörde appointment ➞](/guides/berlin-auslanderbehorde-appointment#during-your-appointment)**
+**[What happens during your Ausländerbehörde appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 ### 5. Receive your new residence permit
 
-**[If your visa application is approved ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-approved)**
-
-**[If your visa application is rejected ➞](/guides/berlin-auslanderbehorde-appointment#if-your-application-is-rejected)**
+**[Pick up your residence card ➞](/guides/residence-permit#pick-up-your-residence-card)**
 
 ## Required documents
 
@@ -249,6 +251,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^12]: [berlin.de](https://service.berlin.de/dienstleistung/324288/)
 [^13]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [berlin.de](https://service.berlin.de/dienstleistung/121921/en/)
+[^15]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^16]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^17]: Health insurance broker Daniel Derosa
 [^18]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
