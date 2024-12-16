@@ -238,21 +238,13 @@ Tell me how long it took to get your work visa. Your feedback helps thousands of
 
 **[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
 
-### If you change jobs
+### If you change or lose your job
 
-When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
+When you change jobs, always [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
 
-**[What happens to your work visa ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
-
-### If you lose your job
-
-If you [lose your job](/guides/losing-your-job), your work visa stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job.
-
-While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
+If you [lose your job](/guides/losing-your-job), your work visa stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
 
 **[What happens to your work visa ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
-
-**[How to get unemployment benefits ➞](/guides/unemployment-benefits)**
 
 ### Travel with a work visa
 

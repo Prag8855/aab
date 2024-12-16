@@ -404,7 +404,11 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
-## If you lose or change your job
+## If you change or lose your job
+
+When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
+
+If you [lose your job](/guides/losing-your-job), your residence permit stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. While you are unemployed, you can usually get [unemployment benefits](/glossary/ALG%20I).
 
 **[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 

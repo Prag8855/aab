@@ -234,21 +234,13 @@ Your Blue Card is valid for up to 4 years. In Berlin, you must renew it around 8
 
 You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you can get it after 21 months.[^10]
 
-### If you change jobs
+### If you change or lose your job
 
-When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
+When you change jobs, always [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
 
-**[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
-
-### If you lose your job
-
-If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. In other cities, they give you at least 3 months.
-
-While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
+If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
 
 **[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
-
-**[How to get unemployment benefits ➞](/guides/unemployment-benefits)**
 
 ### Travel with a Blue Card
 
