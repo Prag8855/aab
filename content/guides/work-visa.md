@@ -145,7 +145,7 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application, then invite you for an appointment. This can take [a few weeks](/guides/auslanderbehorde-wait-times). While you wait, your current [[National Visa]] or residence permit stays valid, even if it should expire.
+The *Ausländerbehörde* will process your application, then invite you for an appointment. This takes [a few weeks](/guides/auslanderbehorde-wait-times). There is no way to track your application. While you wait, your current [[National Visa]] or residence permit [stays valid](/guides/residence-permit#if-your-visa-or-residence-permit-expires), even if it should expire.
 
 If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours per week while you wait for your work visa.
 

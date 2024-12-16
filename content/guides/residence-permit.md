@@ -182,7 +182,7 @@ If you already live in Germany, apply before your current visa or residence perm
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. They [weeks or months](/guides/auslanderbehorde-wait-times) to reply, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
+The *Ausländerbehörde* will process your application. There is no way to track your application. They [weeks or months](/guides/auslanderbehorde-wait-times) to reply, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
 They might ask for more documents. If you can't reply to their email, [use the contact form](/guides/immigration-office#use-the-contact-form) again.
 
