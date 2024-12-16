@@ -175,11 +175,11 @@ Your [tax advisor](/glossary/Steuerberater) can register your business for you. 
 
 ### 4. Get a residence permit
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to be self-employed in Germany. It depends on your nationality. It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. There is the [freelance visa](/glossary/Freelance%20visa) and [a few other options](/guides/residence-permit#for-self-employment).
 
-**[Who needs a residence permit? ➞](/guides/residence-permit)**
+It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance visa. [If your current residence permit does not allow self-employment](/guides/residence-permit#for-self-employment), you must wait for your freelance visa.
 
-**[How to apply for the German freelance visa ➞](/guides/freelance-visa)**
+**[How to get a freelance visa ➞](/guides/freelance-visa)**
 
 ### 5. Tell your health insurer
 
