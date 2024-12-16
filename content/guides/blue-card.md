@@ -164,7 +164,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Car
 
 ### 8. Start working in Germany
 
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
+**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#start-working)**
 
 **[Your first month in Germany ➞](/guides/moving-to-berlin#your-first-month-in-berlin)**
 

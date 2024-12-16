@@ -126,7 +126,7 @@ After you move in, get [liability insurance](/glossary/Haftpflichtversicherung).
 
 After you get your [residence permit](/glossary/Aufenthaltstitel) (if you need one), you can start working. During your first month, your employer will ask for a few things like your [tax ID](/glossary/Steueridentifikationsnummer), health insurance number and [pension insurance number](/glossary/Sozialversicherungsnummer).
 
-**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
+**[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#start-working)**
 
 Know your rights as an employee. Understand how [vacation days](/guides/vacation-days) and [sick days](/guides/sick-leave) work. Know [what happens if you lose your job](/guides/losing-your-job).
 

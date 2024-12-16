@@ -39,13 +39,13 @@ When you start working in Germany, you must switch to public or private health i
 
 **If you lived in Germany before**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.[^3] If you come back to Germany, you can get the same type of insurance as before.
 
-When you [start working](/guides/find-a-job-in-berlin#step-6-start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 ### For a work visa or Blue Card
 
 To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need **[public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance**.  If your salary is under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you can't get private health insurance.
 
-**If you apply in another country** (at the German embassy or consulate), you can get expat insurance to get your [[National Visa]]. When you [start working](/guides/find-a-job-in-berlin#step-6-start-working), you must switch to public or private health insurance.[^0]
+**If you apply in another country** (at the German embassy or consulate), you can get expat insurance to get your [[National Visa]]. When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to public or private health insurance.[^0]
 
 **[How to apply for a work visa ➞](/guides/work-visa)**
 

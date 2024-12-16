@@ -335,11 +335,11 @@ In a few months, you must go to the embassy or consulate again.[^25] They will g
 
 ### 7. Move to Germany
 
-After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/best-bank-germany). Your National Visa allows you to [start working](/guides/find-a-job-in-berlin#step-6-start-working) or [start your business](/guides/start-a-business-in-germany) as soon as you arrive.[^30]
+After you arrive in Germany, [register your address](/guides/anmeldung-in-english-berlin), [get a tax ID](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id) and [open a bank account](/guides/best-bank-germany). Your National Visa allows you to [start working](/guides/find-a-job-in-berlin#start-working) or [start your business](/guides/start-a-business-in-germany) as soon as you arrive.[^30]
 
 **[How to move to Berlin ➞](/guides/moving-to-berlin)**
 
-**[How to start a new job ➞](/guides/find-a-job-in-berlin#step-6-start-working)**
+**[How to start a new job ➞](/guides/find-a-job-in-berlin#start-working)**
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 
