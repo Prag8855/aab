@@ -7,7 +7,7 @@ Date_created: 2020-08-27
 
 This guide shows you how to **renew** a [German freelance visa](/glossary/Freelance%20visa) before it expires. To apply for a new German freelance visa, read [this guide](/guides/freelance-visa).
 
-This guide was written for self-employed people in Berlin. In other cities, the process can be different.
+This guide is for self-employed people in Berlin. In other cities, the process can be different.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -43,20 +43,20 @@ When you renew your freelance visa, they verify that...
 
 If you don't meet those requirements, you can't renew your freelance visa.
 
-**You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** If you lived in Germany for at least 5 years, you can get permanent residence. If you have a *§21 Abs. 1* or *§21 Abs. 2a* freelance visa, you can get permanent residence after 3 years.[^18] Permanent residence is better than a freelance visa.
+**You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** It's better than a freelance visa. You qualify after 5 years in Germany, or 3 years if you have a *§21 Abs. 1* or *§21 Abs. 2a* freelance visa.[^18]
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
 ### 2. Know if you are freelance or self-employed
 
-The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). You much know which one you are.
+The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). You much know which one you are. **Look on your [on your residence permit](/illustrations/freelance-visa-type.png).**
 
-- If you see "§ 21 Abs. 5" [on your residence permit](/illustrations/freelance-visa-type.png), you are a *[[Freiberufler]]*.
-- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a" [on your residence permit](/illustrations/freelance-visa-type.png), you are a *Selbständiger*/*[[Gewerbetreibender]]*.
-
-**[Are you a Freiberufler or Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
+- If you see "§ 21 Abs. 5", you are a *[[Freiberufler]]*.
+- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a", you are a *Selbständiger*/*[[Gewerbetreibender]]*.
 
 If your work changes, your status can also change. I was a freelancer, and I am now a tradesperson. When I renewed my freelance visa, I needed different documents.
+
+**[Are you a Freiberufler or Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
 
 Note: Immigration law uses the term "*Selbständiger*" and business law uses "*Gewerbetreibender*". It means the same thing.[^16]
 
