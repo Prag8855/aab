@@ -64,7 +64,7 @@ Note: Immigration law uses the term "*Selbständiger*" and business law uses "*G
 
 When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted.[^2] You need a real [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
-**[Health insurance for the freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
+**[Health insurance for a freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
 It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
 
@@ -81,7 +81,7 @@ Your tax advisor must prepare documents for you:
 
 If your finances are organised, you can get these documents in a few days. If they are not organised, it can take a few weeks.
 
-If you don't have a tax advisor, start looking 2 to 5 months before your freelance visa expires. You can find a tax advisor in another city.
+It's hard to find a tax advisor. If you don't have one, start looking 2 to 5 months before your freelance visa expires. You can find a tax advisor in another city.
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
@@ -89,25 +89,21 @@ If you don't have a tax advisor, start looking 2 to 5 months before your freelan
 
 ### 1. Prepare your documents
 
-Start preparing the [required documents](#required-documents) 1 to 3 months before your *[[Ausländerbehörde]]* appointment. Some documents take more time to prepare. If you don't have a tax advisor, or if your finances are not organised, you need time.
+**[Required documents ➞](#required-documents)**
+
+Start preparing the [required documents](#required-documents) 1 to 3 months before your *[[Ausländerbehörde]]* appointment. Some documents take more time to prepare. If you don't have a tax advisor, or if your finances are not organised, you need more time.
 
 If your documents are not in English or German, you might need [certified translations](/glossary/beglaubigte%20Übersetzung). This also takes time.
 
-Go to the **[list of required documents ➞](#required-documents)**
-
 ### 2. Send your documents
 
-You can't book an *Ausländerbehörde* appointment. You must use their contact form to send your documents, then wait for a response. They can take [a few months](/guides/auslanderbehorde-wait-times) to reply.
-
-**[How to send your documents ➞](/guides/residence-permit#send-your-application)**
+You can't book an *Ausländerbehörde* appointment. You must [use their contact form](/guides/immigration-office#use-the-contact-form) to send your documents, then wait for a response. They can take [a few months](/guides/auslanderbehorde-wait-times) to reply.
 
 When they reply, they will give you an appointment. This appointment can be [in a few months](/guides/auslanderbehorde-wait-times). They might also ask for more documents.
 
 In most cases, your current [residence permit](/glossary/Aufenthaltstitel) stays valid while you wait. [If it expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), you don't have to leave Germany. You can continue working, studying or freelancing like before. If you get a *[[Fiktionsbescheinigung]]*, you can [travel with your expired residence permit](/guides/fiktionsbescheinigung#travel-with-a-fiktionsbescheinigung).
 
 **[If your residence permit expires soon ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
-
-**[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
 If you wait more than 3 months, you can [sue the *Ausländerbehörde* for inaction](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
@@ -125,7 +121,7 @@ Many *Ausländerbehörde* employees only speak German.[^4] They will ask you man
 
 The *Ausländerbehörde* might ask you to bring new or updated documents to your appointment. Bring all the documents that you did not already send. Print them on A4 paper. Do not staple the pages together.
 
-**If you have all the right documents**, you will get a new freelance visa. It will be valid for 1 to 3 years.[^15]
+**If you have all the [required documents](#required-documents)**, you will get a new freelance visa. It will be valid for 1 to 3 years.[^15]
 
 **If your documents are not convincing**, you could get a shorter freelance visa, usually 1 year. This can happen if your income is too low.
 

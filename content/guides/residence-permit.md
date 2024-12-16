@@ -295,7 +295,7 @@ If you graduated in Germany, your education is already recognised. Skip this ste
 
 Get an appointment at the German embassy or consulate in your country. It can take a long time to get an appointment.[^3] At most embassies, you can only book an appointment a few weeks in advance.
 
-In some countries, you can apply for a [[National Visa]] online, so you don't need an appointment.
+In some countries, you can apply for a [[National Visa]] online, so you don't need an appointment. They process your application, then send you a link to book an appointment.
 
 **[Find your German embassy or consulate ➞](/out/consulate-finder)**
 
