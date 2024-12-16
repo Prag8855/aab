@@ -318,7 +318,7 @@ Your freelance visa lets you visit other [[Schengen area]] countries without a v
 
 ### Renew your freelance visa
 
-Your freelance visa is valid for up to 3 years. You must renew it around 8 weeks before it expires, not sooner.
+Your freelance visa is valid for up to 3 years.[^16] You must renew it around 8 weeks before it expires, not sooner.
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
@@ -357,6 +357,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa), [HousingAnywhere](https://housinganywhere.com/Germany/german-residence-permit-travel)
 [^14]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
 [^15]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=%20appointment%20confirmation%20) (December 2024)
+[^16]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^17]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)

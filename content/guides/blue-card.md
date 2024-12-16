@@ -33,7 +33,7 @@ If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Swi
 
 To get a Blue Card, you need...[^18]
 
-- [ ] **A job offer in Germany**  
+- [ ] **A guaranteed job offer in Germany**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blue Card.[^15] The job must have...
     - [ ] **A German employer**  
         You must work for a German employer, or an employer with an office in Germany.[^30] It can be a remote job. You must be an employee, not a freelancer.
@@ -156,7 +156,7 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 ### 7. Get your Blue Card
 
-Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Card. Your new Blue Card is valid for up to 3 years.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your Blue Card. Your new Blue Card is valid for up to 4 years.[^17] If you have a limited work contract, your Blue Card is valid for a shorter time. For example, if you have a 2 year work contract, your Blue Card is valid for 2 years + 3 months.[^3]
 
 **[How to pick up your Blue Card ➞](/guides/residence-permit#pick-up-your-residence-card)**
 

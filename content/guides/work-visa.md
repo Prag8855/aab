@@ -31,7 +31,7 @@ If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Swi
 
 To get a work visa, you need...[^18]
 
-- [ ] **A job offer**  
+- [ ] **A guaranteed job offer**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] It can be a short-term or part-time job. It can be a remote job. You must be an employee, not a freelancer.
 - [ ] **A fair salary**  
     There is no minimum salary, but you can't be underpaid.[^42] You must earn as much as Germans who have a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
@@ -159,7 +159,7 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 ### 7. Get your work visa
 
-Go to your second *[[Ausländerbehörde]]* appointment and pick up your work visa. Your new work visa is valid for up to 3 years.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your work visa. Your new work visa is valid for up to 4 years.[^17] If you have a limited work contract, your work visa is valid for a shorter time. For example, if you have a 2 year work contract, your work visa is valid for 2 years + 3 months.[^3]
 
 **[How to pick up your work visa ➞](/guides/residence-permit#pick-up-your-residence-card)**
 

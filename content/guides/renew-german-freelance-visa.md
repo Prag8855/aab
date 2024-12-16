@@ -125,7 +125,7 @@ Many *Ausländerbehörde* employees only speak German.[^4] They will ask you man
 
 The *Ausländerbehörde* might ask you to bring new or updated documents to your appointment. Bring all the documents that you did not already send. Print them on A4 paper. Do not staple the pages together.
 
-**If you have all the right documents**, you will get a new freelance visa. It will be valid for 1 to 3 years.
+**If you have all the right documents**, you will get a new freelance visa. It will be valid for 1 to 3 years.[^15]
 
 **If your documents are not convincing**, you could get a shorter freelance visa, usually 1 year. This can happen if your income is too low.
 
@@ -251,6 +251,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^12]: [berlin.de](https://service.berlin.de/dienstleistung/324288/)
 [^13]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [berlin.de](https://service.berlin.de/dienstleistung/121921/en/)
+[^15]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^16]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^17]: Health insurance broker Daniel Derosa
 [^18]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
