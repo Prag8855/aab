@@ -25,7 +25,7 @@ If you need a residence permit to live in Germany, check if it allows self-emplo
 
 **[Residence permits for self-employment ➞](/guides/residence-permit#for-self-employment)**
 
-Some residence permits allow *part-time* self-employment. You must keep your job, and it must be your main source of income. To be self-employed full-time, you might need to [apply for a freelance visa](/guides/freelance-visa).
+Some residence permits allow *part time* self-employment. You must keep your job, and it must be your main source of income. To be self-employed full time, you might need to [apply for a freelance visa](/guides/freelance-visa).
 
 ### Does your employer let you freelance?
 

@@ -95,7 +95,7 @@ Your tax advisor can be anywhere in Germany. It's easier if you look in other Ge
 
 ### Tax software
 
-If your tax situation is simple, use tax software. For example, if you have a full-time job and no [tax-deductible](/glossary/steuerlich%20absetzbar) expenses.
+If your tax situation is simple, use tax software. For example, if you have a full time job and no [tax-deductible](/glossary/steuerlich%20absetzbar) expenses.
 
 Using tax software cheaper and easier than finding a tax advisor. There are English-speaking options.
 

@@ -266,7 +266,7 @@ Your work visa might allow part-time self-employment. [Check your *Zusatzblatt*]
 
 Check your work contract too. You might need to tell your employer about your self-employment. Your employer might forbid self-employment if it competes with their business. For example, don't start a marketing agency while you work for another marketing agency. They can't forbid all self-employment without a reason.[^16]
 
-To become self-employed full-time, [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
+To become self-employed full time, [apply for a freelance visa](/guides/freelance-visa#who-needs-a-freelance-visa), [permanent residence](/guides/permanent-residence) or citizenship.
 
 ### Apply for permanent residence
 
