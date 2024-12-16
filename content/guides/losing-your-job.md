@@ -17,7 +17,7 @@ This guide shows you what to do when:
 - You quit (you choose to leave)
 - You change jobs
 
-It only applies to employees, not freelancers.
+This guide is only for employees, not freelancers.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -25,7 +25,7 @@ It only applies to employees, not freelancers.
 
 ### Calculate your notice period
 
-Your job has a notice period (*[[Kündigungsfrist]]*). It's written in your work contract. If you quit, you must work until the end of your notice period.
+Your job has a notice period (*[[Kündigungsfrist]]*). It's written in your work contract. If you quit, you must work until the end of your notice period. The notice period starts when your employer gets your [resignation letter](/glossary/Kündigungsschreiben).
 
 Your notice period can be very long: 3 months is normal for some jobs.[^9] To leave sooner, negotiate a shorter notice period with your employer.[^40]
 
@@ -33,13 +33,13 @@ Your notice period can be very long: 3 months is normal for some jobs.[^9] To le
 
 ### Give your resignation letter
 
-To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your letter. That's when your [notice period](/glossary/Kündigungsfrist) starts. There are rules on how you write and deliver this letter.
+To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your resignation letter. That's when your [notice period](/glossary/Kündigungsfrist) starts.
 
 **[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
 
 **[Resignation letter generator ➞](/docs/resignation-letter)**
 
-If you did not choose to quit your job, do not give a resignation letter. Your employer can't force you to resign.
+Your employer can't force you to resign. Never give a resignation letter if you did not resign.
 
 ### See a doctor
 
