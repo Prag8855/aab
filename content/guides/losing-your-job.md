@@ -165,6 +165,41 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 You must get your [salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*) and your last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
 
+## After you stop working
+
+### Get coaching or training
+
+If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
+
+Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*. Your case worker will decide if you can get free training.[^32]
+
+### Find a new job
+
+**[How to find a job ➞](/guides/find-a-job-in-berlin)**
+
+You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*). You might need a different [residence permit](/glossary/Aufenthaltstitel) for this.
+
+**[How to start a business ➞](/guides/start-a-business-in-germany)**
+
+### Make a tax declaration
+
+At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#make-a-tax-declaration).
+
+- **If you get [unemployment benefits](/glossary/ALG%20I)**, you *must* make a tax declaration.
+- **If you don't get unemployment benefits**, you should still make a tax declaration. If you were unemployed for a few months, you probably paid too much taxes. Make a tax declaration to get some money back.
+
+**[German tax software ➞](/guides/german-tax-software)**
+
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+### Ask for a pension refund
+
+When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
+
+{% include '_blocks/pensionRefundCalculator.html' %}
+
+**[How to get a pension payments refund ➞](/guides/pension-payments-refund)**
+
 ## What happens to your residence permit
 
 ### Work visa or Blue Card
@@ -239,41 +274,6 @@ You usually take your unused vacation days during your [notice period](/glossary
 During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
-
-## After you leave your job
-
-### Get coaching or training
-
-If you get unemployment benefits, you can get free professional training, coaching and language lessons. The *Agentur für Arbeit* pays for it with a *[[Bildungsgutschein]]* or an [*AVGS* voucher](/glossary/Aktivierungs-%20und%20Vermittlungsgutschein).
-
-Ask about it during your unemployment benefits appointment at the *[[Agentur für Arbeit]]*. Your case worker will decide if you can get free training.[^32]
-
-### Find a new job
-
-**[How to find a job ➞](/guides/find-a-job-in-berlin)**
-
-You can also start your own business and become self-employed. The *Agentur für Arbeit* can help you with free training and extra money (*Gründungszuschuss*). You might need a different [residence permit](/glossary/Aufenthaltstitel) for this.
-
-**[How to start a business ➞](/guides/start-a-business-in-germany)**
-
-### Make a tax declaration
-
-At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your job search expenses are [tax-deductible](/glossary/steuerlich%20absetzbar). - [More information](/guides/find-a-job-in-berlin#step-7-make-a-tax-declaration).
-
-- **If you get [unemployment benefits](/glossary/ALG%20I)**, you *must* make a tax declaration.
-- **If you don't get unemployment benefits**, you should still make a tax declaration. If you were unemployed for a few months, you probably paid too much taxes. Make a tax declaration to get some money back.
-
-**[German tax software ➞](/guides/german-tax-software)**
-
-**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
-
-### Ask for a pension refund
-
-When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
-
-{% include '_blocks/pensionRefundCalculator.html' %}
-
-**[How to get a pension payments refund ➞](/guides/pension-payments-refund)**
 
 ## Checklist
 
