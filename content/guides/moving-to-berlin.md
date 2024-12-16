@@ -68,13 +68,9 @@ If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insur
 
 ### Apply for a residence permit
 
-If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live, work and study in Germany.
-
-**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live, work or study in Germany. It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You might need it before you start working or studying. Apply for it as soon as you can.
 
 **[How to get a residence permit ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
-
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You might need it to start working or studying. Apply as soon as you can.
 
 ## Your first month in Berlin
 
@@ -124,21 +120,17 @@ After you move in, get [liability insurance](/glossary/Haftpflichtversicherung).
 
 ### Start working
 
-After you get your [residence permit](/glossary/Aufenthaltstitel) (if you need one), you can start working. During your first month, your employer will ask for a few things like your [tax ID](/glossary/Steueridentifikationsnummer), health insurance number and [pension insurance number](/glossary/Sozialversicherungsnummer).
+You might need a [residence permit](/glossary/Aufenthaltstitel) to start working. During your first month, your employer will need a few things like your [tax ID](/glossary/Steueridentifikationsnummer), health insurance number and [pension insurance number](/glossary/Sozialversicherungsnummer).
+
+You should also learn about your rights. Understand how the [probation period](/glossary/Probezeit), vacation days and sick days work. Know what happens if you lose your job.
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#start-working)**
-
-Know your rights as an employee. Understand how [vacation days](/guides/vacation-days) and [sick days](/guides/sick-leave) work. Know [what happens if you lose your job](/guides/losing-your-job).
-
-Your first 6 months are a [probation period](/glossary/Probezeit). During that time, it's easier to lose your job.
-
-**[How the probation period works ➞](/guides/probezeit)**
 
 ### Bring your family
 
 Your family can move to Germany with you. They might need a residence permit like the [family reunion visa](/glossary/Family%20reunion%20visa).
 
-If you have children, you might need to send them to a daycare (*[[Kita]]*). It's really hard to find a Kita. They have long waiting lists.
+If you have children, you might need to send them to a daycare (*[[Kita]]*). It's really hard to find a Kita. There are long waiting lists.
 
 **[How to find a Kita ➞](/guides/how-to-find-a-kita-in-berlin)**
 
