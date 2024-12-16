@@ -110,13 +110,13 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 ### Tell the Ausländerbehörde
 
-If you have a [residence permit](/glossary/Aufenthaltstitel), you must tell the *[[Ausländerbehörde]]* when your employer changes. [Permanent residents](/glossary/Niederlassungserlaubnis) don't need to do this.
+If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[[Ausländerbehörde]]* when you change or lose your job. Do this as soon as you know. Do not wait more than 2 weeks.[^11]
 
-Tell the *[[Ausländerbehörde]]* as soon as you know. Do not wait more than 2 weeks.[^11] Use my letter generator to write the message.
+If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need to do this.
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
-Use the [*Ausländerbehörde* contact form](/guides/immigration-office#use-the-contact-form) to send the message. Attach these documents:
+Use my letter generator to write the message. Use the [*Ausländerbehörde* contact form](/guides/immigration-office#use-the-contact-form) to send it. Attach these documents:
 
 - [ ] A copy of your [resignation letter](/glossary/Kündigungsschreiben) or termination notice
 - [ ] If you have a new job, a copy of your new work contract
@@ -277,10 +277,10 @@ When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% 
 
 ## Checklist
 
-- [ ] Give your resignation letter, if you quit
+- [ ] If you quit, give your resignation letter
 - [ ] Register as a job seeker at the *[[Agentur für Arbeit]]*
 - [ ] Register as unemployed at the *[[Agentur für Arbeit]]*
-- [ ] Tell the *[[Ausländerbehörde]]*, if you have a [residence permit](/glossary/Aufenthaltstitel)
+- [ ] If you have a [residence permit](/glossary/Aufenthaltstitel), tell the *[[Ausländerbehörde]]*
 - [ ] Tell your health insurance
 - [ ] Get all documents from your employer
     - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
