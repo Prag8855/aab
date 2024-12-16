@@ -68,7 +68,7 @@ If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insur
 
 ### Apply for a residence permit
 
-If you are not a [EU](/glossary/European%20Union) or [[EEA]] citizen, you need a [residence permit](/glossary/Aufenthaltstitel) to live, work or study in Germany. It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You might need it before you start working or studying. Apply for it as soon as you can.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live, work or study in Germany. It can take [a few months](/guides/auslanderbehorde-wait-times) to get one. You might need it before you start working or studying. Apply for it as soon as you can.
 
 **[How to get a residence permit ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 

@@ -14,11 +14,9 @@ This guide helps you find a job in Berlin, from finding job listings to your fir
 
 ### Can you work in Germany?
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], or any [residence permit that allows employment](/guides/residence-permit#for-work).
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], for example. There might be a minimum salary or education requirement.
 
-**[Who needs a residence permit? ➞](/guides/residence-permit)**
-
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. Most employers know this, and they will wait for you. Some employers hire a relocation consultant to help you.
+**[How to get a residence permit ➞](/guides/residence-permit)**
 
 ### Do you need to speak German?
 
@@ -175,17 +173,11 @@ If you are not sure about your contract, [ask for help](/guides/questions-about-
 
 ## 5. Get a residence permit
 
-If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, you must apply for it. You must have a job offer *before* you apply for a residence permit.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. Sometimes, you must wait for your residence permit to start working. It can take [a few months](/guides/auslanderbehorde-wait-times).
 
-**[Do you need a residence permit? ➞](/guides/residence-permit)**
+**[How to get a residence permit ➞](/guides/residence-permit)**
 
-It can take [a few months](/guides/auslanderbehorde-wait-times) to get a residence permit. You can't start working before you get your residence permit. Your employer can hire a [relocation consultant](/guides/relocation-agency-in-berlin) to help you. It makes everything easier.
-
-**[How to get a work visa ➞](/guides/work-visa)**
-
-**[How to get a Blue Card ➞](/guides/blue-card)**
-
-If you already have a residence permit, you might need permission from the *[[Ausländerbehörde]]* to change jobs. Sometimes, you can start your new job immediately. Sometimes, you must wait for a new residence permit. This can take a few weeks.
+If you already have a residence permit, you might need the *[[Ausländerbehörde]]*'s permission to change jobs. Sometimes, you can start your new job immediately. Sometimes, you must wait for your new residence permit. This can take [a few weeks](/guides/auslanderbehorde-wait-times).
 
 **[How to change jobs ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
@@ -206,13 +198,7 @@ If you already have a residence permit, you might need permission from the *[[Au
 
 Your employer can't require an [address registration certificate](/glossary/Anmeldebestätigung).[^4]
 
-### The probation period
-
-During your first 6 months at a new company, you are in your probation period (*[[Probezeit]]*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
-
-**[How does the probation period work? ➞](/guides/probezeit)**
-
-### Important things to know
+### Things you must know
 
 In Germany, most people are paid once per month, usually on the 1st or 15th day of the month. You get your first paycheck after 30 or 45 days after you start working. You usually get paid by [bank transfer](/glossary/SEPA-Überweisung).
 
@@ -221,6 +207,10 @@ Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberwe
 **[Income tax calculator ➞](/tools/tax-calculator)**
 
 **[How taxes work ➞](/guides/taxes)**
+
+During your first 6 months at a new company, you are in your probation period (*[[Probezeit]]*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
+
+**[How does the probation period work? ➞](/guides/probezeit)**
 
 All employees in Germany get paid [vacation days](/guides/vacation-days), and paid [sick leave](/guides/sick-leave). You don't work on [public holidays](/guides/public-holidays), but you still get paid.
 
