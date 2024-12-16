@@ -110,18 +110,13 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 ### Tell the Ausländerbehörde
 
-If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[[Ausländerbehörde]]* when you change or lose your job. Do this as soon as you know. Do not wait more than 2 weeks.[^11]
-
-If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need to do this.
+If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[[Ausländerbehörde]]* when you change or lose your job. Do not wait more than 2 weeks.[^11] [Permanent residents](/glossary/Niederlassungserlaubnis) don't need to do this.
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
-Use my letter generator to write the message. Use the [*Ausländerbehörde* contact form](/guides/immigration-office#use-the-contact-form) to send it. Attach these documents:
+Use my letter generator to write your message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it. Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract
 
-- [ ] A copy of your [resignation letter](/glossary/Kündigungsschreiben) or termination notice
-- [ ] If you have a new job, a copy of your new work contract
-
-The *Ausländerbehörde* will reply by email. They might reply in a few weeks, or not reply at all.[^46]
+In Berlin, the *Ausländerbehörde* will reply by email. It can take a few weeks. They might not reply at all.[^46]
 
 **[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
@@ -202,24 +197,31 @@ When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% 
 
 ## What happens to your residence permit
 
-### Work visa or Blue Card
+Always tell the *[[Ausländerbehörde]]* when you change or lose your job. In Berlin, they give you 3 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]
 
-After you inform the *[[Ausländerbehörde]]*, they can shorten your residence permit. In Berlin, they give you 3 to 12 months to find another job.[^5] It's different in other cities.[^8]
+**If you can't find a job** after 3 to 12 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29]
 
-If you can't find a job after 3 to 12 months, your residence permit expires, and you must leave Germany. There are ways to stay longer. For example, your spouse can sponsor your family reunion visa, or you can get a language course visa.[^29]
+**When you find a job**, you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel).
 
-If you [find a new job](/guides/find-a-job-in-berlin), you might need permission from the *Ausländerbehörde* to start working. It depends on which [residence permit](/glossary/Aufenthaltstitel) you have, and when you got it.
+### Blue Card
 
-- **If you have a [[Blue Card]]**  
-    You can start a new job. You don't need permission from the *Ausländerbehörde*, but you must [tell them](#tell-the-auslanderbehorde) when you change employers. [Email them](/docs/auslanderbehorde-job-change) a copy of your new work contract. They have 30 days to object. If you had your Blue Card for over 1 year, they can't object.[^38]
-- **If you had <u>this</u> residence permit for at least 2 years**  
-    You can start a new job. You don't need permission from the *Ausländerbehörde*, but you must [tell them](#tell-the-auslanderbehorde) when you change employers. [Email them](/docs/auslanderbehorde-job-change) a copy of your new work contract.[^4]
-- **If you had <u>any</u> residence permit for at least 3 years**  
-    You can start a new job. You don't need the *Ausländerbehörde*'s permission.[^42] Email them a copy of your new work contract. Time with a [student visa](/glossary/Student%20visa) counts as half, for up to 2 years.[^4] For example, 1 year on a student visa counts as 6 months.
-- **Everyone else**  
-    You need permission from the *Ausländerbehörde* to start a new job.[^41] You must basically apply for a new work visa or Blue Card.[^37] This can take a few months.[^39]
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) If your Blue Card is limited to a specific employer, you need the *[[Ausländerbehörde]]*'s permission to change jobs.
 
-Some employers don't know the rules well. They might refuse to let you start working, because they think that you don't have permission.
+If your Blue Card is not limited to one employer, you can start a new job immediately. Your new job must fulfil the [Blue Card requirements](/guides/blue-card#blue-card-requirements).[^36]
+
+Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) about your new job. They have 30 days to stop you. If you had your Blue Card for at least 1 year, they can't stop you.[^38]
+
+### Opportunity card
+
+The opportunity card lets you work 20 hours per week for any employer.[^47] To work full time, you must apply for a residence permit like a [work visa](/glossary/Work%20Visa) or a [[Blue Card]]. You must wait for your residence permit before you work full time. It can take a few weeks.
+
+**[Residence permits for work ➞](/guides/residence-permit#for-work)**
+
+### Job seeker visa
+
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) It tells you if you can work with your job seeker visa. If not, you need another residence permit to start working. It will take [a few weeks](/guides/auslanderbehorde-wait-times).
+
+**[Residence permits for work ➞](/guides/residence-permit#for-work)**
 
 ### [[Family reunion visa]]
 
@@ -228,6 +230,14 @@ Your family reunion visa is not tied to your job. You can change jobs without pe
 Your spouse and children's family reunion visas are tied to your residence permit. If you can stay in Germany, they can stay in Germany. If you lose your residence permit, they usually lose their family reunion visa too.[^43]
 
 If your spouse has a family reunion visa and you lose your job, you can switch roles. They can get a residence permit and sponsor your family reunion visa.[^35]
+
+### Other residence permits
+
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) If it says "Beschäftigung erlaubt" or "Erwerbstätigkeit erlaubt", you can start a new job immediately. You don't need permission from the *Ausländerbehörde*.
+
+Usually, you need the *[[Ausländerbehörde]]*'s permission to change jobs. You must apply for a new residence permit before you start working. It takes [a few weeks](/guides/auslanderbehorde-wait-times). Your new job must fulfil the [work visa requirements](/guides/work-visa#work-visa-requirements).[^36] After 2 to 3 years in Germany, they might allow you to take any job.[^8]
+
+Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) about your new job, even if you don't need their permission to change jobs.
 
 ### Citizenship or permanent residence
 
@@ -299,11 +309,10 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
-[^4]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A) (December 2024)
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
-[^8]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), 
+[^8]: [§9 Abs. 1 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html)
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
 [^11]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
@@ -331,13 +340,11 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
-[^37]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
+[^36]: Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2024) 
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023)
-[^39]: [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
 [^40]: [karrierebibel.de](https://karrierebibel.de/schneller-aus-dem-arbeitsvertrag/#:~:text=versuch%20einer%20einvernehmlichen%20einigung)
-[^41]: [§4a Abs. 3 Satz 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html)
-[^42]: [§9 Abs. 3 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html), [berlin.de](https://service.berlin.de/dienstleistung/326856/#:~:text=Wichtige%20Hinweise%3A,werden%2C%20wenn%20Sie%3A), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023), Victoria Messer (December 2023)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
 [^45]: [Dr. Drees](https://www.dr-drees.com/aufhebungsvertrag-ohne-frist/#:~:text=sperrfrist%20wegen%20des%20aufhebungsvertrages) (July 2024)
-[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/) (August 2023)
+[^46]: [Reddit](https://old.reddit.com/r/askberliners/comments/1g5sdmj/ausl%C3%A4nderbeh%C3%B6rder_not_responding_to_enquires/) (October 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/15h196i/blue_card_extension/) (August 2023), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2024)
+[^47]: [§20a Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html)
