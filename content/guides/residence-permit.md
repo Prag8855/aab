@@ -237,10 +237,7 @@ Go to your second *[[Ausländerbehörde]]* appointment. Bring your passport and 
 
 If you pick up a residence permit for a child, they don't need to come with you.[^54]
 
-During your appointment...
-
-- [ ] Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
-- [ ] [Read your *Zusatzblatt*.](/guides/zusatzblatt) It describes the conditions of your residence permit. If you lived in Germany for over 3 years, you might get an unrestricted residence permit. It allows you to work for any employer and to be self-employed.
+Check if the information on your card is correct. The *Ausländerbehörde* sometimes makes mistakes.
 
 You will also get a letter in the mail. It's the activation code for your [[eID]]. You need it to activate the eID function of your residence card. This lets you use your residence permit to log into online government services.
 
@@ -369,6 +366,12 @@ Tell me how long it took to get your residence permit. Your feedback helps thous
 {% include "_blocks/feedbackResidencePermit/allTypes.html" %}
 
 **[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
+
+### Read your Zusatzblatt
+
+Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28residence%20permit%29)*. It describes the conditions of your residence permit. It tells you what kind of work you can do.
+
+**[How to read your Zusatzblatt ➞](/guides/zusatzblatt)**
 
 ### Bring your family to Germany
 
