@@ -12,24 +12,24 @@ import string
 import urllib
 
 
-def to_number(value):
+def to_number(value: int) -> str:
     return "{:,}".format(value) if value else ''
 
 
-def to_currency(value):
+def to_currency(value: int) -> str:
     return "{:0,.2f}".format(value).replace('.00', '') if value else ''
 
 
-def random_id():
+def random_id() -> str:
     alphabet = string.ascii_letters + string.digits
     return ''.join(secrets.choice(alphabet) for i in range(5))
 
 
-def build_wikilinks_url(label, base, end):
+def build_wikilinks_url(label: str, base: str, end: str) -> str:
     return '{}{}{}'.format(base, urllib.parse.quote(label), end)
 
 
-def patched_slugify(value, separator, keep_unicode=False):
+def patched_slugify(value: str, separator: str, keep_unicode: bool = False) -> str:
     """
     Removes leading numbers from slugs
     """
@@ -42,7 +42,7 @@ def fail_on(expiration_date: str) -> str:
     return ''
 
 
-def or_join(items):
+def or_join(items: list[str]) -> str:
     return ', '.join(items[:-1]) + ' or ' + items[-1]
 
 
@@ -170,7 +170,7 @@ config.renderers.extend([
     'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
 ])
 
-config.linters = (
+config.linters = [
     # 'extensions.linters.places.PlacesLinter',
     # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
     # 'extensions.linters.redirects.RedirectsLinter',
@@ -184,13 +184,13 @@ config.linters = (
     'extensions.linters.places.UnusedPlacesLinter',
     'extensions.linters.table_of_contents.TableOfContentsLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
-    'extensions.linters.duplicate_titles.DuplicateTitlesLinter',
+    # 'extensions.linters.duplicate_titles.DuplicateTitlesLinter',
     'ursus.linters.footnotes.OrphanFootnotesLinter',
     'ursus.linters.images.UnusedImagesLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
     'ursus.linters.markdown.RelatedEntriesLinter',
-)
+]
 
 config.minify_js = True
 config.minify_css = True
