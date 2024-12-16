@@ -162,6 +162,7 @@ Explore your new city! [Get a bicycle](/guides/bicycle-in-berlin) and explore ev
 
 To find things to do in Berlin, check...
 
+- [VisitBerlin](https://www.visitberlin.de/en)
 - [Berlin Events Weekly](https://www.berlineventsweekly.com/)
 - [Mit Vergnügen](https://mitvergnuegen.com/) (in German)
 - [tipBerlin](https://www.tip-berlin.de/) (in German)
