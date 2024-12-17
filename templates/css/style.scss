@@ -2057,6 +2057,7 @@ input[name="username"], // Honeypot
 
 details{
     summary{
+        display: block;
         cursor: pointer;
 
         small{
