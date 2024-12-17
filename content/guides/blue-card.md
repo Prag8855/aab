@@ -108,7 +108,7 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the Blu
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-### 3. Prepare your Blue Card application
+### 3. Prepare your application
 
 Before you apply for the Blue Card, you must...
 
