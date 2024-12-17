@@ -1244,10 +1244,10 @@ sup:target a{
         }
     }
 
-    > ol:not(.previews) > li{
+    > ol:not(.previews) > li, > :is(ol, ul) ol > li{
         @include list-marker-ol;
     }
-    > ul:not(.feedback-list) > li{
+    > ul:not(.feedback-list) > li, > :is(ol, ul) ul > li{
         @include list-marker-ul;
     }
     li.checkbox{
