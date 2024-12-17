@@ -17,6 +17,8 @@ This is what those lines mean:
     Only for an apprenticeship with a specific employer.
 - **"Beschäftigung erlaubt"**  
     If you *only* see those words, all jobs are allowed. Self-employment is not allowed.[^7] If there are more words, it probably limits you to a specific employer or profession. For example, "*Beschäftigung erlaubt als Spezialitätenkoch im Restaurant Mustermann*"
+- **"Beschäftigung nicht erlaubt mit Ausnahme [...]"**  
+    You can't work, except for a specific job.
 - **"Beschäftigung nur nach Erlaubnis der Ausländerbehörde"**  
     You need permission from the *Ausländerbehörde* to start a new job.[^6]
 - **"Erwerbstätigkeit erlaubt"**  
