@@ -143,7 +143,9 @@ The *Ausländerbehörde* will process your application, then invite you for an a
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
-**[How to prepare for your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
+**[What happens during your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
+
+If your freelance visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get a document that confirms this.[^20]
 
 ### 7. Get your freelance visa
 
@@ -361,6 +363,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^17]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)
+[^20]: [VAB A81.5a.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (December 2024), [personal experience](/images/temporary-freelance-visa.jpg) (2022)
 [^22]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1872525116549516/) (July 2024)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^24]: [VAB 21.4.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)

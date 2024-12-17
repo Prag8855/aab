@@ -275,7 +275,9 @@ Follow the instructions in the email. They might ask for more documents.[^2] The
 
 The appointment takes around 15 minutes.[^4] They ask you [questions in German](https://docs.google.com/document/d/1Q0bvmO9tkfpuIr1VcBXo2ey42FWCMpIsnFPauq2utT4/) about your height, your eye colour, how long you have been in Germany, if you like living in Berlin, and the size of your apartment.[^1]
 
-**[How to prepare for your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
+**[What happens during your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
+
+If your permanent residence is approved, you will get another appointment to pick up your plastic residence card.
 
 ### 5. Get your permanent residence card
 

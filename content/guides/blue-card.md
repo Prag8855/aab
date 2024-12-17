@@ -152,7 +152,9 @@ If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
-**[How to prepare for your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
+**[What happens during your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
+
+If your Blue Card is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get a document that confirms this.[^7]
 
 ### 7. Get your Blue Card
 
@@ -274,6 +276,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^4]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=only%20possible%20online)
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
+[^7]: [VAB A81.5a.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (December 2024)
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/), [18c.2.3. VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)

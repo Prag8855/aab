@@ -227,7 +227,7 @@ If they approve your residence permit, you must [pay the application fee](/guide
 
 They must print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). They will give you another appointment to pick up the card. They do not mail the card to you.
 
-You might get a [temporary document](/images/temporary-freelance-visa.jpg) that confirms that your residence was approved. It allows you to start working or studying, but it's not a valid travel document. You can't leave and re-enter Germany with that document.
+You might get a document that confirms that your residence was approved. With that document, **you can start working or studying**.[^45] It's not a valid travel document, so you can't use it to leave and re-enter Germany.
 
 Ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
@@ -328,7 +328,7 @@ Go to your appointment at the embassy or consulate, and give your documents. If 
 
 ### 6. Receive your National Visa
 
-In a few months, you must go to the embassy or consulate again.[^25] They will give you a [[National Visa]]. This temporary visa allows you to [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
+In a few months, you must go to the embassy or consulate again.[^25] They will give you a [[National Visa]]. It allows you to [come to Germany](/guides/visit-berlin#how-to-travel-to-berlin).
 
 ### 7. Move to Germany
 
@@ -508,6 +508,7 @@ While you wait for your first residence permit, you can't work or study.
 [^42]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process) (December 2024)
 [^43]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
+[^45]: [VAB A81.5a.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (December 2024)
 [^47]: Multiple relocation consultants (December 2024)
 [^48]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#:~:text=of%20Schengen%20visa-,can%20it%20be%20converted%20into%20a%20residence%20permit%3F,-A%20Schengen%20visa) (December 2024), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa) (December 2024), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en#:~:text=Blue%20Card%20in-,germany,-A%20short-term) (December 2024), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734) (December 2024), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa) (December 2024)
 [^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
