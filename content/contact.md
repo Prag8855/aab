@@ -29,13 +29,14 @@ Hi, I'm Nicolas. You can contact me to…
 
 All About Berlin is also on...
 
-- [Facebook](https://www.facebook.com/allaboutberlin)
+- [Twitter](https://twitter.com/aboutberlin)
 - [GitHub](https://github.com/all-about-berlin)
-- [Google Maps](/google-maps)
 - [LinkedIn](https://www.linkedin.com/company/allaboutberlin/)
+- [Bluesky](https://bsky.app/profile/allaboutberlin.bsky.social)
+- [Facebook](https://www.facebook.com/allaboutberlin)
+- [Google Maps](/google-maps)
 - [Mastodon](https://berlin.social/@allaboutberlin)
 - [Reddit](https://reddit.com/r/allaboutberlin)
-- [Twitter](https://twitter.com/aboutberlin)
 
 ## Payment information
 
