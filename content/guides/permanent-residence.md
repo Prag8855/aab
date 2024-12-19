@@ -241,6 +241,8 @@ The requirements and the application process are the same. If you qualify for th
 
 In Berlin, **it takes [4 to 10 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-01-15') }}.
 
+If you don't live in Berlin, you must [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there. The application process can be different.
+
 **Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
 ### 1. Prepare your application

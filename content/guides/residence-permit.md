@@ -136,7 +136,7 @@ You can only apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-These instructions are for Berlin only. Other immigration offices have different rules and wait times.
+The instructions below are for Berlin only. Other immigration offices have different rules and wait times. If you don't live in Berlin, [find your local immigration office](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
 
 ### 1. Prepare your application
 

@@ -68,7 +68,7 @@ If you have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might be
 You can apply for a freelance visa **after you move to Germany**:
 
 1. Come to Germany
-2. Apply for a freelance visa at your local *[[Ausländerbehörde]]*. You must apply at the *Ausländerbehörde* where you live. You can't apply in another city.
+2. Apply for a freelance visa at your local *[[Ausländerbehörde]]*. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
 
 You can apply in Germany if...
 
