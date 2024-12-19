@@ -258,7 +258,7 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for permanent residence
 
-To apply in Berlin, you must [use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents) to the [correct department](/guides/immigration-office#departments). Send your application to departments E1 to E6. Do not choose departments B1 to B4.[^76]{{ fail_on('2025-01-15') }}
+[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments E1 to E6, not B1 to B4.[^76]{{ fail_on('2025-01-15') }}
 
 This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
