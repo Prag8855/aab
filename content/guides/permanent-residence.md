@@ -264,7 +264,7 @@ Wait for them to contact you. [A few months later](/guides/auslanderbehorde-wait
 
 This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
-**[How to send your application ➞](/guides/residence-permit#send-your-application)
+**[How to send your application ➞](/guides/residence-permit#send-your-application)**
 
 ### 3. Wait
 
