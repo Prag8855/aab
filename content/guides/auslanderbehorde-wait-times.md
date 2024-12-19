@@ -9,15 +9,13 @@ Date_created: 2024-11-27
 
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
+## Share your experience
+
+{% include "_blocks/feedbackResidencePermit/form.html"%}
+
 ## Feedback from other people
 
 {% include "_blocks/feedbackResidencePermit/list.html"%}
-
-## Share your experience
-
-Tell me how your residence permit application went. Your feedback helps thousands of people plan their application.
-
-{% include "_blocks/feedbackResidencePermit/form.html"%}
 
 ## Need help?
 
