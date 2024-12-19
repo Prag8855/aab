@@ -16,4 +16,4 @@ The rent price brake (*Mietpreisbremse*) is a rent control law in Germany. It li
 
 The *Mietpreisbremse* is not the same as the *[[Mietendeckel]]*. The *Mietendeckel* was repealed in April 2021.
 
-**[Mietpreisbremse calculator](/out/conny-mietpreisbremse-calculator)** - Conny
+**[Mietpreisbremse calculator ➞](https://mietencheck.de)**

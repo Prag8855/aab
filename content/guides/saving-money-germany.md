@@ -56,9 +56,9 @@ Use my health insurance calculator to see your options. If you need help, [talk 
 Rent is the biggest expense for most people. There are ways to pay less rent:
 
 - **Lower your rent**  
-    If your rent is above the legal limit, you can get it reduced. Use a [rent limit calculator](/out/conny-mietpreisbremse-calculator) to check if you pay too much. [Conny](/out/conny-mietpreisbremse), a [tenant association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin) can reduce your rent. You can save a few hundred euros per month.
+    If your rent is above the legal limit, you can get it reduced. Use a [rent limit calculator](https://mietencheck.de) to check if you pay too much. A *[[Mieterverein]]*, [Conny](/out/conny-mietpreisbremse), or a [lawyer](/guides/english-speaking-lawyers-berlin) can reduce your rent. You can save a few hundred euros per month.
 - **Know your rights**  
-    If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a lawyer or a *[[Mieterverein]]*.
+    Avoid [housing scams](/guides/housing-scams). If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a lawyer or a *[[Mieterverein]]*.
 - **Move somewhere else**  
     [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save 400€ per month. Finding a new apartment can be extremely hard, but if you already have one, you can take your time.
 

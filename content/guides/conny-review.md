@@ -18,7 +18,7 @@ In this guide, I explain how Conny works, why I think it's too expensive, and ot
 This is how the rent reduction process goes:
 
 1. **[Calculate your rent reduction](/out/conny-mietpreisbremse-calculator)**  
-    Use their [rent reduction calculator](/out/conny-mietpreisbremse-calculator), answer a few questions, and upload a copy of your lease. This takes around 10 minutes, and it's in English. Then they tell you how much they can lower your rent. Their calculation is often optimistic.[^0] Your real rent reduction might be lower.
+    Use their [rent reduction calculator](/out/conny-mietpreisbremse-calculator), answer a few questions, and upload a copy of your lease. This takes around 10 minutes, and it's in English. Then they tell you how much they can lower your rent. Their calculation is often optimistic.[^0] Your real rent reduction might be lower. You can also use the [free calculator](https://mietencheck.de/) from Mietencheck.
 2. **Send the required documents**  
     Conny will email you. They will ask for a signed *[[Vollmacht]]*, and a copy of your lease. They need the *Vollmacht* to represent you.
 3. **Wait**  
@@ -100,9 +100,7 @@ The bad parts:
 - They are hard to contact
 - It can make your landlord angry
 
-My recommendation is to try Conny's rent reduction calculator.
-
-In general, I think using Conny is a good idea. If you can save hundreds or even thousands of euros, it's worth the trouble. However, I would try joining a *[[Mieterverein]]* instead. [Visit their website](/out/conny-mietpreisbremse), [get a quote](/out/conny-mietpreisbremse-calculator), and decide if it's worth it for you.
+In general, **I don't recommend Conny**. Their service works, but their fee is extremely high. [Visit their website](/out/conny-mietpreisbremse), [get a quote](/out/conny-mietpreisbremse-calculator), and decide if it's worth it for you. Most of the time, you should join a *[[Mieterverein]]* instead.
 
 ## Conny alternatives
 

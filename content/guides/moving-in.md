@@ -172,7 +172,7 @@ Landlords often [try to scam](/guides/housing-scams#scams-by-landlords-and-tenan
 
 ### Lower your rent
 
-German rent prices are limited by law. If your rent too high, you can get it reduced. Use [the rent limit calculator](/out/conny-mietpreisbremse-calculator) to check if you pay too much rent.
+German rent prices are limited by law. If your rent too high, you can get it reduced. Use [the rent limit calculator](https://mietencheck.de) to check if you pay too much rent.
 
 These people can help you reduce your rent:
 

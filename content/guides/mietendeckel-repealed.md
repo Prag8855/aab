@@ -97,7 +97,7 @@ The *Mietendeckel* is gone, but the *[[Mietpreisbremse]]* still works.[^19] It's
 
 The *Mietpreisbremse* does not cover all apartments, and it can take a long time to get a reduction, but you should still try. If you were covered by the Mietendeckel, there's a 70% chance that you are covered by the *Mietpreisbremse*. If your cold rent (*[[Kaltmiete]]*) is 10% over the [*Mietspiegel* price](https://www.stadtentwicklung.berlin.de/wohnen/mietspiegel/), you can lower your rent.
 
-**[Mietpreisbremse calculator](/out/conny-mietpreisbremse-calculator)** - Conny
+**[Mietpreisbremse calculator ➞](/out/conny-mietpreisbremse-calculator)**
 
 There are many ways to get your rent reduced with the *[[Mietpreisbremse]]*:
 
