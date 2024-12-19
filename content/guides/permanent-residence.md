@@ -9,15 +9,17 @@ If you lived in Germany for a few years, you can become a permanent resident.
 
 As a permanent resident, you can...
 
-- Live in Germany
+- Live anywhere in Germany
 - Work, study and freelance without the *[[Ausländerbehörde]]*'s permission
-- Bring their family to Germany
+- Bring your family to Germany
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa
-- Become citizens after 5 years
+- Become a citizen after 5 years
 
-{% include "_blocks/tableOfContents.html" %}
+This guide explains how to apply for permanent residence in Berlin.
 
 **December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. The rules have not changed; only the application process.
+
+{% include "_blocks/tableOfContents.html" %}
 
 ## Why become a permanent resident
 
