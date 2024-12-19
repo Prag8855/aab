@@ -17,7 +17,7 @@ With a work visa, you can...
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 2 to 3 years[^10]
 - Become a citizen after 5 years
 
-This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Berlin or in your country.
+This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Berlin or in your home country.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -69,6 +69,8 @@ You can apply for a work visa **after you move to Germany**:
 
 1. Come to Germany
 2. Apply for a work visa at your local *[[Ausländerbehörde]]*. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
+3. Get your work visa
+4. Start working
 
 You can apply in Germany if...
 

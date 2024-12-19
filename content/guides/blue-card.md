@@ -19,7 +19,7 @@ With a Blue Card, you can...
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 21 to 27 months[^10]
 - Become a citizen after 5 years
 
-This guide explains how to apply for a [[Blue Card]] in Berlin or in your country.
+This guide explains how to apply for a [[Blue Card]] in Berlin or in your home country.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -68,6 +68,8 @@ You can apply for a Blue Card **after you move to Germany**:
 
 1. Come to Germany
 2. Apply for a Blue Card at your local *[[Ausländerbehörde]]*. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
+3. Get your Blue Card
+4. Start working
 
 You can apply in Germany if...
 

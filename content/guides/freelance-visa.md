@@ -22,7 +22,7 @@ With a freelance visa, you can...
 
 The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is exactly the same.
 
-This guide explains how to apply for a freelance visa in Berlin or in your country.
+This guide explains how to apply for a freelance visa in Berlin or in your home country.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -71,6 +71,8 @@ You can apply for a freelance visa **after you move to Germany**:
 
 1. Come to Germany
 2. Apply for a freelance visa at your local *[[Ausländerbehörde]]*. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
+3. Get your freelance visa
+4. Start working
 
 You can apply in Germany if...
 
