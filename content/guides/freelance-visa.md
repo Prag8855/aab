@@ -127,17 +127,21 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 3. Apply for the freelance visa
 
-To apply in Berlin, you must [use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents) to the [correct department](/guides/immigration-office#departments). Send your application to departments E1 to E6. Do not choose departments B1 to B4.[^7]{{ fail_on('2025-03-01') }}
+[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to departments E1 to E6, not departments B1 to B4.[^7]{{ fail_on('2025-03-01') }}
 
-Wait for them to contact you. [A few months later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment. They might also ask for more documents.
-
-This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
+This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
 **[How to send your application ➞](/guides/residence-permit#send-your-application)**
 
 ### 4. Wait
 
-The *Ausländerbehörde* will process your application, then invite you for an appointment. This takes [a few weeks](/guides/auslanderbehorde-wait-times). There is no way to track your application. While you wait, your current [[National Visa]] or residence permit [stays valid](/guides/residence-permit#if-your-visa-or-residence-permit-expires), even if it should expire.
+The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times).
+
+While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.
+
+**[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
+
+[If your current permit allows self-employment](/guides/residence-permit#for-self-employment), you can start your business already. If not, you must wait for your freelance visa.
 
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 

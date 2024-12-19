@@ -182,13 +182,15 @@ If you already live in Germany, apply before your current visa or residence perm
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. There is no way to track your application. They take [weeks or months](/guides/auslanderbehorde-wait-times) to reply, but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
+The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times), but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
 
 They might ask for more documents. If you can't reply to their email, [use the contact form](/guides/immigration-office#use-the-contact-form) again.
 
 When they have everything, they will email you an appointment date. The appointment might be months later. If they can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
-While you wait, your current [[National Visa]] or residence permit might expire. It's usually extended until the *Ausländerbehörde* processes your application.
+While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.
+
+Your current National Visa or residence permit might allow you to work, study or start your business already. [Check your *Zusatzblatt*](/guides/zusatzblatt). If not, you must wait for your new residence permit.
 
 **[If your visa or residence permit expires ➞](#if-your-visa-or-residence-permit-expires)**
 

@@ -141,15 +141,17 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 To apply in Berlin, you must [use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents) to [department B1/B2/B3/B4](/guides/immigration-office#departments).
 
-Wait for them to contact you. [A few weeks later](/guides/auslanderbehorde-wait-times), they will reply and give you an appointment. They might also ask for more documents.
-
-This is the only option. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
+This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
 **[How to send your application ➞](/guides/residence-permit#send-your-application)**
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application, then invite you for an appointment. This takes [a few weeks](/guides/auslanderbehorde-wait-times). There is no way to track your application. While you wait, your current [[National Visa]] or residence permit [stays valid](/guides/residence-permit#if-your-visa-or-residence-permit-expires), even if it should expire.
+The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times).
+
+While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.
+
+**[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
 
 If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours per week while you wait for your work visa.
 

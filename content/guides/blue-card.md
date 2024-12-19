@@ -146,7 +146,11 @@ After you pay and send your application, you can download a PDF. This is your pr
 
 ### 5. Wait
 
-The *Ausländerbehörde* will process your application, then invite you for an appointment. This takes [a few weeks](/guides/auslanderbehorde-wait-times). There is no way to track your application. While you wait, your current [[National Visa]] or residence permit [stays valid](/guides/residence-permit#if-your-visa-or-residence-permit-expires), even if it should expire.
+The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times).
+
+While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.
+
+**[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
 
 If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours per week while you wait for your Blue Card.
 
