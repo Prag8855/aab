@@ -25,7 +25,7 @@ This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Ber
 
 If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The work visa is a type of residence permit.
 
-If you are already a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need a Blue Card. Your permanent residence allows self-employment.
+If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need a work visa. You can already work anywhere.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
