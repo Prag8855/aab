@@ -86,9 +86,9 @@ To become a permanent resident, you must also...
 - [ ] **Support yourself**  
     In Berlin, they only consider your self-employment income. They ignore income from your spouse and income from investments.[^22]
 
-In Berlin, there should be no pension or language requirement.[^39]
+In Berlin, if you have a *§21 Abs. 1* or *2a* freelance visa, there should be no pension or language requirement.[^39]
 
-If you don't meet those requirements, follow the [requirements for everybody else](#everyone-else). In this case you will need a pension. It might be easier to [apply for citizenship](#citizenship), because citizenship does not require a pension.
+If you don't meet those requirements, follow the [requirements for everybody else](#everyone-else). Then you will need a pension. It might be easier to [apply for citizenship](#citizenship), because citizenship does not require a pension.
 
 ### If you live with a German citizen
 
@@ -161,7 +161,7 @@ To become a permanent resident, you must...
     Your time as a student counts, but it's divided by 2. For example, if you studied for 4 years, it counts as 2 years toward your [PR](/glossary/Niederlassungserlaubnis).
 - [ ] **Speak [[B1]] German**[^20]
 - [ ] **Have a retirement pension**  
-    You need 60 months of public pension payments, or equivalent retirement savings. See the [pension requirements](#pension-requirements).
+    You need 60 months of public pension payments, a guaranteed private pension, or equivalent retirement savings. See the [pension requirements](#pension-requirements).
 
 If you live 5 years in Germany, you can also [become a German citizen](#citizenship). Citizenship is usually better.
 
