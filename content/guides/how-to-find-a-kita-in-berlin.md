@@ -33,7 +33,7 @@ Most *Kitas* have **6 to 18 month waiting lists**. Some parents start searching 
 
 Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to start searching.[^5]
 
-## Step 1: Look for Kitas
+## 1. Look for Kitas
 
 You must look for a *Kita* that has a free spot for your child. This is really hard. Most *Kitas* have 6-18 month waiting lists. You should make a list of *Kitas* while you are pregnant.[^6] Most Kitas only add you to their waiting list after your child is born.
 
@@ -54,7 +54,7 @@ If you live in a very high-demand area of Berlin, you might need to search for *
 
 Since it's extremely difficult to find a *Kita*, you might have to pick the first *Kita* that has a free spot.[^9] You can't be very picky, but you can always change *Kitas* later.
 
-## Step 2: Get a Kitagutschein
+## 2. Get a Kitagutschein
 
 A *[[Kitagutschein]]* is a voucher that provides your child with free childcare in Berlin. The *Kita* needs this certificate to know how much money they will get when they take care of your child.
 
@@ -62,7 +62,7 @@ You need to apply for the *Kitagutschein* from 2 to 9 months before your desired
 
 **[How to get a Kitagutschein ➞](/guides/how-to-get-a-kitagutschein)**
 
-## Step 3: Contact Kitas
+## 3. Contact Kitas
 
 Once you have a list of *Kitas*, you must ask them for a spot in their waiting list. Start as soon as you are pregnant.[^6] You can look at Kitas before you have a *[[Kitagutschein]]*.
 
@@ -78,7 +78,7 @@ If you don't get a reply the first time you contact a *Kita*, or they say they h
 
 **[List of Kita search services ➞](/guides/how-to-find-a-kita-in-berlin#kita-search-services)**
 
-## Step 4: Visit Kitas
+## 4. Visit Kitas
 
 Many *Kitas* have information days or visit times.[^5] This is a good time to visit a *Kita* and ask questions.
 
@@ -96,13 +96,13 @@ When you visit a *Kita*, ask the following questions:
 
 You should also look at the *Kita*'s reviews on Google Maps to make sure others had a good experience there. Some parents share their experience on various parenting Facebook groups.
 
-## Step 5: Sign a contract
+## 5. Sign a contract
 
 After you find a *Kita*, ask them for a contract. Sign the contract and send it back with a copy of your *[[Kitagutschein]]*.
 
 Food is not usually covered by the *Kitagutschein*. It costs around 23€ per month extra. If your Kita offers language lessons or special activities, it might cost more. Each individual *Kita* will explain this to you.
 
-## Step 6: Your child's first days at the Kita
+## 6. Your child's first days at the Kita
 
 When your child begins at *Kita*, they will go through a process called *Eingewohnung*. This is a settling-in process that can take 2 to 5 weeks. During the *Eingewohnung,* you will stay with your child at first, and then gradually leave them with the *Kita* educators for longer periods of time until your child is settled. Leave a few weeks for the *Eingewohnung* between your *Kita* start date and the date you return to work.
 

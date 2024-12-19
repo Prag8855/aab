@@ -11,7 +11,7 @@ This guide explains how to use trains, trams, buses and ride sharing in Berlin.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Step 1: Buy a ticket
+## 1. Buy a ticket
 
 ### Where to buy a ticket
 
@@ -22,7 +22,7 @@ To use **everything else** ([[S-Bahn]], [[U-Bahn]], tram, bus, ferry), buy a loc
 You can buy local public transit tickets...
 
 - **At a ticket machine**  
-    Find a [yellow or red ticket machine](/images/VBB-ticket-machine.jpg) at the train station. The machines are on the train platforms, near the exits. You can pay with coins, bills, credit cards and [Girocards](/glossary/Girocard). You can sometimes pay with Apple Pay and Google Pay. The ticket machines speak many languages. Don't forget to [stamp your ticket](#step-2-validate-your-ticket).
+    Find a [yellow or red ticket machine](/images/VBB-ticket-machine.jpg) at the train station. The machines are on the train platforms, near the exits. You can pay with coins, bills, credit cards and [Girocards](/glossary/Girocard). You can sometimes pay with Apple Pay and Google Pay. The ticket machines speak many languages. Don't forget to [stamp your ticket](#validate-your-ticket).
 - **In the app**  
     Buy tickets on your phone. Pay with a credit card, Apple Pay or Google Pay. Your ticket is valid 1 minute after you buy it. You need internet access to buy tickets. There is Wi-Fi at most train stations.
     - **[Jelbi app](https://www.jelbi.de/en/home/)**{% include '_blocks/recommended.html' %}  
@@ -108,7 +108,7 @@ If you bought your ticket with the app, show them the [ticket QR code](/images/b
 
 **[How to pay a BVG fine ➞](/guides/paying-a-bvg-fine)**
 
-## Step 2: Validate your ticket
+## 2. Validate your ticket
 
 **Stamp your ticket before you use it**. If your ticket is not stamped, it's not valid. There are stamping machines on train platforms, and inside trams and buses. Look for a yellow or red metal box, and put your ticket in the slit.
 
@@ -118,7 +118,7 @@ If you buy a ticket on the bus or tram, it's already stamped. Monthly passes are
 
 **Digital tickets** are valid 1 minute after you buy them.[^3] Buy your ticket before you get on the train.
 
-## Step 3: Use public transport
+## 3. Use public transport
 
 Get on the bus, tram, train or ferry, and go where you want to go. Get directions from [Google Maps](https://maps.google.com/) ([iOS](https://apps.apple.com/us/app/google-maps/id585027354) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app). BVG Fahrinfo has more accurate information.
 

@@ -38,7 +38,7 @@ You need to apply for the *Kitagutschein* **from 2 to 9 months before your desir
 
 It takes 6 to 8 weeks to get a *Kitagutschein*. It's valid for 3 months after you sign a contract with the *Kita*.[^3]
 
-## Step 1: Apply online or by post
+## 1. Apply online or by post
 
 There are two ways to apply for a *Kitagutschein*: **online**, or **by post**.
 
@@ -73,13 +73,13 @@ If your documents are not in German, you might need a [certified translation](/g
 
 You can also apply in person at your local *Jugendamt*. When you apply in person, they give you a receipt. You can show this receipt to the *Kitas* until you get a *Kitagutschein*.[^3]
 
-## Step 2: Receive your Kitagutschein
+## 2. Receive your Kitagutschein
 
 You can choose to get the *Kitagutschein* by post or by email. **You will get it 6 to 8 weeks after you apply**.[^2] **It will be valid for 3 months**.[^3] The *Kitagutschein* states how many hours your child is entitled to, and includes information about the legal basis for the voucher.
 
 Give a copy of your *Kitagutschein* to the *Kita*. The *Kita* will tell the State.
 
-## Step 3: Look for a Kita
+## 3. Look for a Kita
 
 Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to start searching.[^5] This is the hardest part of the process.
 

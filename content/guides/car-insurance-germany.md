@@ -58,7 +58,7 @@ Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare 
 
 You can also talk to an insurance broker. They can help you transfer your driving experience from another country. You will get a much better price for your car insurance. Few brokers sell car insurance, because it's not profitable.
 
-After you pick the right insurance, ask for an [eVB number](/glossary/eVB-Nummer). You will get it in less than a day.[^16] When you [buy a vehicle](/guides/buying-used-car-in-germany) and [register it](/guides/buying-used-car-in-germany#step-5-register-the-vehicle) at the *[[Kfz-Zulassungsstelle]]*, you must have that eVB number.
+After you pick the right insurance, ask for an [eVB number](/glossary/eVB-Nummer). You will get it in less than a day.[^16] When you [buy a vehicle](/guides/buying-used-car-in-germany) and [register it](/guides/buying-used-car-in-germany#register-the-vehicle) at the *[[Kfz-Zulassungsstelle]]*, you must have that eVB number.
 
 ## How to pay less for German car insurance
 

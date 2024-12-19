@@ -17,7 +17,7 @@ Public transportation is better, cheaper and often faster. A car is more useful 
 
 **[How to use public transit in Berlin ➞](/guides/public-transit)**
 
-## Step 1: Look at vehicles
+## 1. Look at vehicles
 
 ### Where to look for a vehicle
 
@@ -95,7 +95,7 @@ After you buy the car, you must still pay for [car insurance](/guides/car-insura
 
 Some vehicles are listed as "für Bastler". This means the vehicle has important mechanical problems or simply doesn't work. These vehicles are not ready to drive, and need big repairs. A parts carrier (*Teileträger*) should only be used for spare parts. It could be broken beyond repair, or missing important parts.
 
-## Step 2: Buy a vehicle
+## 2. Buy a vehicle
 
 After you have seen and inspected the car, it's time to buy it. Some sellers want to be paid in cash, but others will accept bank transfers (*[[SEPA-Überweisung]]*).
 
@@ -120,7 +120,7 @@ You should also get these things:
 
 After you bought the car, the rest is your problem. You will not need to talk to the seller anymore. You are not allowed to drive the vehicle yet; you must register and insure it first. If the vehicle is still registered and insured, some sellers will let you drive it to your home.
 
-## Step 3: Get an [eVB number](/glossary/eVB-Nummer)
+## 3. Get an [eVB number](/glossary/eVB-Nummer)
 
 When you register a vehicle, you must prove that it will have insurance. You must get a quote from a car insurance company, and ask for an [eVB number](/glossary/eVB-Nummer). You can usually do this online. You will need this number when you register the vehicle.
 
@@ -130,7 +130,7 @@ Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare 
 
 Your eVB number is only valid for the type of insurance you asked for. If you requested insurance from March to October, your eVB number is only valid for *[[Saisonkennzeichen]]*. You can't ask for full-year plates at the *[[Kfz-Zulassungsstelle]]* with that eVB number.
 
-## Step 4: Fill the paperwork
+## 4. Fill the paperwork
 
 You must bring a few things to your *[[Kfz-Zulassungsstelle]]* appointment:
 
@@ -141,7 +141,7 @@ You must bring a few things to your *[[Kfz-Zulassungsstelle]]* appointment:
 
 Print both of these documents and bring them to your appointment.
 
-## Step 5: Register the vehicle
+## 5. Register the vehicle
 
 The next step is to register the vehicle (*Kfz-Zulassung*). You can't drive the vehicle until it's registered. When you register the vehicle, you receive new registration papers (*[[Zulassungsbescheinigung]]*) with your name and address on them.
 
@@ -195,11 +195,11 @@ You can use a vehicle registration service (*Kfz Zulassungsdienst*). You send th
 
 If you buy a vehicle at the dealership, they can usually register it for you. It costs around 150€. I used that service twice. If you can't register your vehicle online, and you want to drive it as soon as possible, it's worth it.
 
-## Step 6: Drive your vehicle
+## 6. Drive your vehicle
 
 You are now ready to drive! Don't forget that you must still pay the vehicle tax (*[[Kraftfahrzeugsteuer]]*). This tax will be taken directly from your bank account once a year. You get a confirmation (*[[Kraftfahrzeugsteuerbescheid]]*) by post.
 
-## Step 7: Look for cheaper car insurance
+## 7. Look for cheaper car insurance
 
 Most car insurance contracts are for 1 year. Every year, 1 or 2 months before your contract expires, look for cheaper car insurance. Add it to your calendar.
 

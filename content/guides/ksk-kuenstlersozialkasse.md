@@ -208,13 +208,13 @@ There are good reasons to hire an expert:
 
 **[People who can help you ➞](/guides/ksk-kuenstlersozialkasse#need-help)**
 
-### Step 0: Get your residence permit
+### 0. Get your residence permit
 
 If you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany, get that first. Apply for the KSK after you get your residence permit.
 
 **[Do you need a residence permit? ➞](/guides/residence-permit)**
 
-### Step 1: Get health insurance
+### 1. Get health insurance
 
 The KSK is not a health insurer. You must [choose health insurance](/guides/german-health-insurance) yourself, and the KSK will pay for half of it. You can choose any [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^27] [In some cases](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk), you can also choose [private health insurance](/glossary/private%20Krankenversicherung).
 
@@ -228,7 +228,7 @@ If you don't have health insurance yet, talk to a health insurance broker. Healt
 
 **When the KSK accepts you**, you might need to switch to public health insurance. In some cases, you can also [keep your private health insurance](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk).
 
-### Step 2: Fill the registration form
+### 2. Fill the registration form
 
 Fill [the registration form](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/anmeldung) and submit it. This takes a few seconds. If the KSK accepts you, your coverage starts from the date you fill this form.[^28]
 
@@ -238,7 +238,7 @@ You will get a confirmation email a few minutes later. You will get another emai
 
 After you fill this form, you have 4 weeks to send the [required documents](/guides/ksk-kuenstlersozialkasse#required-documents).[^29]
 
-### Step 3: Fill the application form
+### 3. Fill the application form
 
 Download [the application form](/out/ksk-application-form) and fill it. This takes around 1 hour. You must know your [social insurance number](/glossary/Sozialversicherungsnummer) and your [tax ID](/glossary/Steueridentifikationsnummer).
 
@@ -248,7 +248,7 @@ The application form is in German. The instructions are at the end of the form. 
 
 **[Form instructions](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Allg._Infos_u._Anmeldeunterlagen/Paket_Anlagen_Anmeldeunterlagen.pdf)** (in German)
 
-### Step 4: Collect the required documents
+### 4. Collect the required documents
 
 Collect the [required documents](/guides/ksk-kuenstlersozialkasse#required-documents). This takes a few hours.
 
@@ -258,7 +258,7 @@ You can [hire an expert](/guides/ksk-kuenstlersozialkasse#need-help) to review y
 
 **[List of required documents ➞](/guides/ksk-kuenstlersozialkasse#required-documents)**
 
-### Step 5: Send everything to the KSK
+### 5. Send everything to the KSK
 
 After you fill the registration form, you have 4 weeks to send your documents.
 
@@ -275,7 +275,7 @@ Do not include books, pamphlets, business cards, CDs, DVDs or USB drives, only A
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
-### Step 6: Wait
+### 6. Wait
 
 The KSK will answer by post. It takes 3 to 9 months.[^31] It took me 3 months to get the first answer, and 7½ months to get the first decision.
 
@@ -285,7 +285,7 @@ They will probably ask more questions, or require more documents. Don't take it 
 
 You have around 4 weeks to answer before they delete your application. Most KSK applications are rejected because applicants are too slow.
 
-### Step 7: Rejected by the KSK?
+### 7. Rejected by the KSK?
 
 The KSK can reject your application. If this happens, do not give up!
 
