@@ -93,16 +93,16 @@ Usually, you can't start working before you get your freelance visa.[^35] Some p
 
 [Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and prepare your freelance visa application.
 
+- **If you have a [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel)**  
+    Your current visa or residence permit [might allow self-employment](/guides/residence-permit#for-self-employment). [If it expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires) after you applied for the freelance visa, you don't need to leave Germany. It stays valid until you get your freelance visa.
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for clients, and apply for the freelance visa in Germany.[^9] You can't start working before you get your freelance visa. Some people do it anyway.
-- **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your freelance visa. [If your residence permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires) after you sent your freelance visa application, you don't need to leave Germany.
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
     You can come to Germany, then convert your opportunity card into a freelance visa. You can't be self-employed with an opportunity card; you must wait for your freelance visa.[^11]
 - **If you have a [[Schengen visa]]**  
-    You can't apply for a freelance visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
+    Schengen visas are for tourism, not immigration. You can't apply for a freelance visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
-If these options don't apply to you, you must [apply for the freelance visa in your country](#how-to-apply-in-your-country).[^19]
+If these options don't apply to you, you must [apply for the freelance visa in your home country](#how-to-apply-in-your-country).[^19]
 
 ### 2. Prepare your application
 

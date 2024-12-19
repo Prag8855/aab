@@ -91,10 +91,10 @@ Usually, you can't work before you get your Blue Card.[^35] It can take [a long 
 
 [Come to Germany](/guides/visit-berlin#how-to-travel-to-berlin) and [look for a job](/guides/find-a-job-in-berlin).
 
+- **If you have a [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel)**  
+    [If your current visa or residence permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires) after you applied for the Blue Card, you don't need to leave Germany. It stays valid until you get your Blue Card.
 - **If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**  
     You can come to Germany without a visa. You can stay 90 days in Germany without a residence permit. You can look for a job, and apply for the Blue Card in Germany.[^9] You can't work before you get your Blue Card.
-- **If you have a German [residence permit](/glossary/Aufenthaltstitel)**  
-    Your current residence permit stays valid until you get your Blue Card. [If your residence permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires) after you sent your Blue Card application, you don't need to leave Germany.
 - **If you have a Blue Card from another EU country**  
     You can come to Germany without a visa.[^38] If you have your Blue Card since at least 12 months, you can already start working in Germany.[^33] When you arrive in Germany, you have 1 month to convert your Blue Card to a German one at the *[[Ausländerbehörde]]*.[^41]
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
@@ -102,9 +102,9 @@ Usually, you can't work before you get your Blue Card.[^35] It can take [a long 
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. To start working, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).[^11]
 - **If you have a [[Schengen visa]]**  
-    You can't apply for a Blue Card with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
+    Schengen visas are for tourism, not immigration. You can't apply for a Blue Card with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
-If these options don't apply to you, you must [apply for the Blue Card in your country](#how-to-apply-in-your-country).[^19]
+If these options don't apply to you, you must [apply for the Blue Card in your home country](#how-to-apply-in-your-country).[^19]
 
 ### 2. Find a job
 
