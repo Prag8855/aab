@@ -226,7 +226,7 @@ After a few years in Germany, you can apply for [permanent residence](/glossary/
 
 Permanent residence gives you more freedom and more security. You don't need to renew it like a residence permit. You can stay in Germany even if you lose your job.
 
-Depending on your [residence permit](/glossary/Aufenthaltstitel), you can become a permanent resident after 21 to 60 months in Germany.
+Depending on your [residence permit](/glossary/Aufenthaltstitel), you can become a permanent resident after living in Germany for 21 to 60 months.
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
