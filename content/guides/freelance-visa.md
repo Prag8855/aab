@@ -147,11 +147,13 @@ While you wait, your current [[National Visa]] or residence permit might expire.
 
 ### 5. Go to your appointment
 
-Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
+[A few months later](/guides/auslanderbehorde-wait-times), the *[[Ausländerbehörde]]* will email you an appointment date. If you get an appointment, you are almost guaranteed to get your freelance visa.
+
+Follow the instructions in the email. You might need to send extra documents, or bring them to your appointment.
 
 **[What happens during your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
-If your freelance visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get a document that confirms this.[^20]
+If your freelance visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get [a document](/images/temporary-freelance-visa.jpg) that confirms this.[^20]
 
 ### 6. Get your freelance visa
 

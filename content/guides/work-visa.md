@@ -159,11 +159,13 @@ If you have an [opportunity card](/glossary/Chancenkarte), you can work 20 hours
 
 ### 6. Go to your appointment
 
-Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
+[A few weeks later](/guides/auslanderbehorde-wait-times), the *[[Ausländerbehörde]]* will email you an appointment date. If you get an appointment, you are almost guaranteed to get your work visa.
+
+Follow the instructions in the email. You might need to send extra documents, or bring them to your appointment.
 
 **[What happens during your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
-If your work visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get a document that confirms this.[^4]
+If your work visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get [a document](/documents/temporary-blue-card.pdf) that confirms this.[^4]
 
 ### 7. Get your work visa
 

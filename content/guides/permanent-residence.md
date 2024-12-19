@@ -274,9 +274,9 @@ While you wait, your current [[National Visa]] or residence permit might expire.
 
 ### 4. Go to your appointment
 
-Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment.
+[A few months later](/guides/auslanderbehorde-wait-times), the *[[Ausländerbehörde]]* will email you an appointment date. If you get an appointment, you are almost guaranteed to get your permanent residence.
 
-Follow the instructions in the email. They might ask for more documents.[^2] They might ask for more recent proof of income, employment, health insurance and rent payments. Print them and bring them.
+Follow the instructions in the email. You might need to send extra documents, or bring them to your appointment.[^2] They usually ask for more recent proof of income, employment, health insurance and rent payments. Print them and bring them.
 
 The appointment takes around 15 minutes.[^4] They ask you [questions in German](https://docs.google.com/document/d/1Q0bvmO9tkfpuIr1VcBXo2ey42FWCMpIsnFPauq2utT4/) about your height, your eye colour, how long you have been in Germany, if you like living in Berlin, and the size of your apartment.[^1]
 
