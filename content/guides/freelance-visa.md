@@ -39,9 +39,9 @@ If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't 
 To get a freelance visa, you need...[^18]
 
 - [ ] **A local economic interest**  
-    You must have clients in Germany or support the German economy.[^71] This is very important. If you don't plan to have clients or employees in Germany, you might not get a freelance visa.[^68]
+    You must have clients in Germany, or hire German employees.[^71]
 - [ ] **Enough income**  
-    You must make enough money to support yourself. In Berlin, your income must be higher than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53] The minimum income is different in other cities. The minimum income is higher if you have children and dependents.[^79]
+    In Berlin, your [gross income](/glossary/Brutto%20income) must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] If you support children or a spouse, you need a higher income.[^79]
 - [ ] **Self-employed work**  
     You must be self-employed.[^73] You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Permission to do this job**  
@@ -50,20 +50,18 @@ To get a freelance visa, you need...[^18]
 If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
 
 - [ ] **A private retirement pension**  
-    It must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years when you are 67 years old.[^59]
+    Your pension must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years after you turn 67 years old.[^59]
 - [ ] or **a public pension**  
-    If you are entitled to a public pension in Germany, Australia, Bosnia-Herzegovina, Chile, India, Israel, Japan, Canada, Kosovo, Morocco, North Macedonia, Montenegro, Serbia, South Korea, Tunisia, Turkey or the United States. You are entitled to a public pension in Germany if you already made 5 years of public pension payments.[^60]
+    You need a guaranteed public pension in Germany, Australia, Bosnia-Herzegovina, Chile, India, Israel, Japan, Canada, Kosovo, Morocco, North Macedonia, Montenegro, Serbia, South Korea, Tunisia, Turkey or the United States.[^60] If you made 5 years of public pension payments in Germany, you have a guaranteed public pension.
 - [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in business assets**
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
-**You do not need a degree** or relevant education, except [if your profession requires it](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession). For example, you can't be a lawyer without a law degree, but you can be a software developer or a photographer.[^12]
+**You do not need a degree** or relevant education, except [if your profession requires it](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession). For example, you need a law degree to be a lawyer, but you don't need a degree to be a freelance photographer.[^12]
 
-If you can't get a freelance visa, there are [other residence permits](/guides/residence-permit#for-self-employment) that let you [start a business](/guides/start-a-business-in-germany) in Germany.
+If you can't get a freelance visa, there are [other residence permits](/guides/residence-permit#for-self-employment) to start a business in Germany. For example, you might qualify for [permanent residence](/glossary/Niederlassungserlaubnis).
 
 **[Freelance visa alternatives ➞](/guides/residence-permit#for-self-employment)**
-
-If you have a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], it might be easier to [apply for permanent residence](/guides/permanent-residence). Your current residence permit might also allow self-employment.
 
 ## How to apply in Berlin
 
@@ -85,9 +83,9 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't start working before you get your freelance visa.[^35] Some people do it anyway. You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to start your business.
+Your current residence permit [might allow self-employment](/guides/residence-permit#for-self-employment). If not, you must wait for your freelance visa to start working.[^35] This can take [a few months](/guides/auslanderbehorde-wait-times). It might be cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to start your business.
 
-**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
+**If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
 ### 1. Come to Germany
 
@@ -114,7 +112,7 @@ Before you apply for the freelance visa...
     - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
+    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Don't choose insurance yourself; it's a really bad idea.
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -127,7 +125,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
     You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
 
-### 4. Apply for the freelance visa
+### 3. Apply for the freelance visa
 
 To apply in Berlin, you must [use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents) to the [correct department](/guides/immigration-office#departments). Send your application to departments E1 to E6. Do not choose departments B1 to B4.[^7]{{ fail_on('2025-03-01') }}
 
@@ -137,13 +135,13 @@ This is the only option. You can't go to the *Ausländerbehörde* without an app
 
 **[How to send your application ➞](/guides/residence-permit#send-your-application)
 
-### 5. Wait
+### 4. Wait
 
 The *Ausländerbehörde* will process your application, then invite you for an appointment. This takes [a few weeks](/guides/auslanderbehorde-wait-times). There is no way to track your application. While you wait, your current [[National Visa]] or residence permit [stays valid](/guides/residence-permit#if-your-visa-or-residence-permit-expires), even if it should expire.
 
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
-### 6. Go to your appointment
+### 5. Go to your appointment
 
 Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an appointment. Follow the instructions in the email. They might ask you to bring more documents.
 
@@ -151,7 +149,7 @@ Later, the *[[Ausländerbehörde]]* will email you. They will invite you for an 
 
 If your freelance visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get a document that confirms this.[^20]
 
-### 7. Get your freelance visa
+### 6. Get your freelance visa
 
 Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelance visa. Your new freelance visa is valid for up to 3 years.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
 
@@ -159,7 +157,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelanc
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
-### 8. Start your business
+### 7. Start your business
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 
@@ -401,10 +399,9 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^62]: [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/), [All About Berlin](/guides/website-freiberuf-or-gewerbe)
 [^65]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=it%20is%20necessary%20to%20provide%20proof%20of%20previous%20artistic%20activity)
 [^67]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=at%20least%20two%20non-binding%20letters%20of%20intent)
-[^68]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1649272118874818/) (August 2023), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1513608149107883/) (December 2022), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1540612453074119/) (January 2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1687770631691633/) (2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1180423295759705/) (2021)
 [^69]: [VAB 21.4.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
 [^70]: [VAB 21.1.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
-[^71]: [§21 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^71]: [§21 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1649272118874818/) (August 2023), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1513608149107883/) (December 2022), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1540612453074119/) (January 2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1687770631691633/) (2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1180423295759705/) (2021)
 [^73]: [Fiona Macdonald](https://en.fmr-legal.de/general-8#:~:text=must%20be%20classified%20as%20freelance%20employment)
 [^74]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/)
 [^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)

@@ -459,7 +459,7 @@ While you wait for your first residence permit, you can't work or study.
 
 ## Need help?
 
-**Need help?** An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
