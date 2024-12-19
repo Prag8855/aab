@@ -106,13 +106,13 @@ If these options don't apply to you, you must [apply for the freelance visa in y
 
 ### 2. Prepare your application
 
-Before you apply for the freelance visa, you must...
+Before you apply for the freelance visa...
 
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
+    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a freelance visa.[^1]
+    - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
-    - [ ] Your apartment must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a freelance visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
@@ -123,7 +123,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^76] - [Why the *Anmeldung* is important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
+    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^76]
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
     You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
 

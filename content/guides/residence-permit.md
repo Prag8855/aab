@@ -142,13 +142,13 @@ The instructions below are for Berlin only. Other immigration offices have diffe
 
 [Come to Berlin](/guides/visit-berlin#how-to-travel-to-berlin) and start preparing your residence permit application.
 
-Before you apply, you must...
+Before you apply for a residence permit...
 
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
+    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a residence permit.[^23]
+    - [ ] Your rent must be affordable. Your total cost of living must be less than your income.
     - [ ] Your apartment must be big enough. In Berlin, you need 9 m^2^ per adult, and 6 m^2^ per child.[^20]
-    - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a residence permit.[^23]
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the required documents**  
@@ -157,8 +157,8 @@ Before you apply, you must...
 While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^23]
-- [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
+    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^23]
+- [ ] **[Open a bank account](/guides/best-bank-germany)**  
     You will need a bank account for many things. You also need a bank account to pay the application fee. You can choose a bank from any EU country.
 
 **There might be more requirements.** Check the requirements for the [Blue Card](/guides/blue-card), [work visa](/guides/work-visa), [freelance visa](/guides/freelance-visa) or [permanent residence](/guides/permanent-residence).

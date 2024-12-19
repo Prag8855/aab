@@ -112,13 +112,13 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply for the wor
 
 ### 3. Prepare your application
 
-Before you apply for the work visa, you must...
+Before you apply for the work visa...
 
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find an apartment. Start looking as soon as you can.
-    - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^54]
+    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a work visa.[^1]
     - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
-    - [ ] You must be allowed to [register your address](/glossary/Anmeldung). You must get a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) from your landlord. If you can't get this, you might not get a work visa.[^1] - [How to find an apartment](/guides/find-a-flat-in-berlin)
+    - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^54]
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-work-visa-or-blue-card)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**
@@ -133,8 +133,8 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^53] - [Why the *Anmeldung* is important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address)
-- [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
+    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^53]
+- [ ] **[Open a bank account](/guides/best-bank-germany)**  
     You need it to pay your rent, pay your work visa application fee, and get paid by your employer. You can choose a bank from any EU country.
 
 ### 4. Apply for the work visa
