@@ -27,6 +27,8 @@ This guide explains how to apply for a [[Blue Card]] in Berlin or in your countr
 
 If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The Blue Card is a type of residence permit.
 
+If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need a Blue Card. You can already work anywhere.
+
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
 ## Blue Card requirements

@@ -9,26 +9,28 @@ Related_reviews:
     reviews/freelance-visa/johanna-sieben.md
 ---
 
-The **freelance visa** is a [residence permit](/glossary/Aufenthaltstitel) for self-employment in Germany.
+The freelance visa is a [residence permit](/glossary/Aufenthaltstitel) for self-employed immigrants.
 
 With a freelance visa, you can...
 
-- Live in Germany
+- Live anywhere in Germany
 - [Start a business](/guides/start-a-business-in-germany) or [become a freelancer](/guides/become-a-freelancer-in-germany)
 - Bring your family to Germany[^14]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 3 to 5 years[^10]
 - Become a citizen after 5 years
 
-The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is the same.
+The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is exactly the same.
 
-This guide explains how to apply for a freelance visa in Berlin or in your country. It can be different in other German cities.
+This guide explains how to apply for a freelance visa in Berlin or in your country.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who needs a freelance visa?
 
 If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The freelance visa is a type of residence permit.
+
+If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need a freelance visa. You can already be self-employed.
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
