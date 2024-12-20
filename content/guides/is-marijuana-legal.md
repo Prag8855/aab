@@ -75,11 +75,9 @@ You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shop
 
 **Yes.** Cannabis seeds are legal. You can also buy seeds from other EU countries.[^14]
 
-### Is HHC legal
+### Are HHC and THCP legal?
 
-**Yes.** As of May 2024, Hexahydrocannabinol (HHC) is legal. The government could ban it in the future.[^27] HHC is synthetic cannabis. It might not feel the same as natural cannabis.{{ fail_on('2025-02-01') }}
-
-You can find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]
+The sale of Hexahydrocannabinol (HHC) and Tetrahydrocannabiphorol (THCP) is banned since June 2024.[^16] Possession is still legal. You might still find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]{{ fail_on('2025-07-31')}}
 
 ## Can I bring weed from another country?
 
@@ -106,6 +104,7 @@ This might have changed with legalisation, but it's not confirmed.
 [^13]: [Quora](https://www.quora.com/Can-you-buy-marijuana-in-Amsterdam-and-travel-out/answer/Ziadesa-Yazid?ch=10&oid=78957569&share=e689b30e&srid=u1YC&target_type=answer)
 [^14]: [§4 Abs. 1 KCanG](https://www.gesetze-im-internet.de/kcang/__4.html)
 [^15]: [Deutsche Welle](https://www.dw.com/en/cannabis-will-be-legal-in-germany-within-limits/a-68353166), [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
+[^16]: [aladin-shishashop.de](https://aladin-shishashop.de/hhc-verbot-in-deutschland-alle-fakten)
 [^17]: [Zeit](https://www.zeit.de/politik/deutschland/2024-02/cannabis-legalisierung-bundestag-gesetz-abstimmung#:~:text=folgende%20regelungen%20vor)
 [^18]: [KCanG](https://dserver.bundestag.de/btd/20/087/2008704.pdf)
 [^19]: [§19 KCanG](https://www.buzer.de/19_KCanG.htm)
@@ -116,6 +115,5 @@ This might have changed with legalisation, but it's not confirmed.
 [^24]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^25]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^26]: [§16 Abs. 4 KCanG](https://www.buzer.de/16_KCanG.htm)
-[^27]: [mdr.de](https://www.mdr.de/nachrichten/deutschland/politik/hhc-verbot-deutschland-droge-vergiftung-kinder-102.html) (February 2024), [natur-breit.de](https://natur-breit.de/hhc-verbot-in-deutschland/) (January 2024), [bfarm.de](https://www.bfarm.de/DE/Bundesopiumstelle/Betaeubungsmittel/Sachverstaendigenausschuss/Sitzungen/Ergebnisse_59.html)
 [^28]: [Reddit](https://old.reddit.com/r/LSD/comments/1c29pe3/found_lsd_and_hhc_in_frankfort_germany/), [1](https://old.reddit.com/r/trees/comments/10fwyp2/hhc_carts_for_45_each_in_germany_what_do_you_think/), [2](https://old.reddit.com/r/askberliners/comments/1cq9z73/foreigner_in_berlin_would_like_to_buy_some_hhc/) (2024)
 [^29]: [businessofcannabis.com](https://businessofcannabis.com/germanys-cannabis-club-applications-continue-to-rise-but-growth-has-slowed-in-september/), [osthessen-zeitung.de](https://www.osthessen-zeitung.de/einzelansicht/news/2024/oktober/cannabis-social-club-wartet-auf-lizenz-mithilfe-fuer-mitglieder-pflicht.html) (October 2024)

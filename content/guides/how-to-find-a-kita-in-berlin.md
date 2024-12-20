@@ -52,7 +52,7 @@ There are many places to look for *Kitas*:
 
 If you live in a very high-demand area of Berlin, you might need to search for *Kitas* further away. Your child can attend any *Kita* in the city, not just the ones close to you. Due to the lack of *Kita* places, some *Jugendamts* tell *Kitas* to only accept kids who live in the same district.[^8]
 
-Since it's extremely difficult to find a *Kita*, you might have to pick the first *Kita* that has a free spot.[^9] You can't be very picky, but you can always change *Kitas* later.
+Since it's really hard to find a *Kita*, you might have to pick the first *Kita* that has a free spot.[^9] You can't be very picky, but you can always change *Kitas* later.
 
 ## 2. Get a Kitagutschein
 

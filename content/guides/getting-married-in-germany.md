@@ -71,7 +71,7 @@ Book an appointment in Berlin:
 
 If you don't speak German, you must bring an interpreter to your *Standesamt* appointment.[^6] You can't just bring a friend who speaks German.
 
-They might require a *sworn* interpreter (*beeidigte Dolmetscher*), not just a regular interpreter. A regular interpreter costs around 140€. A sworn interpreter costs around 240€.[^8]{{ fail_on('2024-12-31') }}
+They might require a *sworn* interpreter (*beeidigte Dolmetscher*), not just a regular interpreter. A regular interpreter costs around 140€. A sworn interpreter costs around 240€.[^8]{{ fail_on('2025-12-31') }}
 
 In Berlin, I recommend [Red Tape Translation](/out/red-tape-translation-standesamt). They have both regular and sworn interpreters.
 

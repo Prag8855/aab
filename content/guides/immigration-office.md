@@ -92,7 +92,7 @@ The Berlin immigration office has multiple departments. Send your application to
 
 To visit the *Ausländerbehörde*, you need an appointment. If you go without an appointment, they will not help you.[^3]
 
-Since August 2024, **you can't book an appointment**.[^2] You must [apply for a residence permit](/guides/residence-permit#how-to-apply-in-germany) or [use their contact form](#how-to-contact-the-auslanderbehorde). They decide when they give you an appointment. They can take [weeks or months](/guides/auslanderbehorde-wait-times) to reply.
+**You can't book an appointment yourself.**[^2] You must [apply for a residence permit](/guides/residence-permit#how-to-apply-in-germany) or [use their contact form](#how-to-contact-the-auslanderbehorde). They decide when they give you an appointment. They can take [weeks or months](/guides/auslanderbehorde-wait-times) to reply.
 
 ## Wait times
 

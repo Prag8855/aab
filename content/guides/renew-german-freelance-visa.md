@@ -197,7 +197,7 @@ Bring these documents to your visa interview. [The official list of documents](h
 
 A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**, or between 22.80€ and 37€ for Turkish citizens{{ fail_on('2025-06-01') }}.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost 13€.[^13]
 
-Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:{{ fail_on('2024-12-31') }}
+Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:{{ fail_on('2025-03-31') }}
 
 - *Aktuelle Handelsregisterauszug*: 10€ if you need it[^7]
 - *Bescheinigung in Steuersachen*: {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€[^8]

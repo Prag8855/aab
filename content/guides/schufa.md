@@ -35,7 +35,7 @@ There are 2 versions of the Schufa:[^5]
 
 The paid version is better for apartment applications.[^7] The free version is better for your own use.
 
-You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).{{ fail_on('2024-12-31') }}
+You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 20% to 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).{{ fail_on('2025-03-31') }}
 
 You can't get a Schufa in person at the bank. They stopped offering this service.[^1]
 
