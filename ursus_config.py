@@ -557,8 +557,8 @@ config.context_globals = {
     "GEWERBESTEUER_HEBESATZ_BERLIN": Decimal('4.1'),
 
     # Above that amount (€/y), you are no longer a Kleinunternehmer - § 19 UStG
-    "KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR": 22000,
-    "KLEINUNTERNEHMER_MAX_INCOME": 50000,
+    "KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR": 25000,
+    "KLEINUNTERNEHMER_MAX_INCOME": 100000,
 
     # Above that amount (€/y), you must use double entry bookkeeping - § 241a HGB
     "DOUBLE_ENTRY_MIN_REVENUE": 800000,

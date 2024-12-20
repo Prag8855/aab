@@ -73,7 +73,7 @@ If your revenue is more than {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ t
 
 If your revenue is more than {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€, you stop being a *Kleinunternehmer* this year.
 
-> **Example:** You make 70,000€ this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ limit. You must start charging [VAT](/glossary/Umsatzsteuer).
+> **Example:** You make 110,000€ this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ limit. You must start charging [VAT](/glossary/Umsatzsteuer).
 
 If your revenue goes back under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€, you can be a *Kleinunternehmer* again.
 
