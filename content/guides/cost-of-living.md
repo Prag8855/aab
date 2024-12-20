@@ -154,7 +154,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 ### Income
 
-3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children.
+3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children.{{ fail_on('2025-03-01') }}
 
 **[Calculate your taxes ➞](/tools/tax-calculator)**
 
@@ -173,7 +173,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 These are my real monthly expenses. This table does not include buying clothes, replacing broken things, or having fun. It only lists the bills I *must* pay.
 
-My budget includes a motorcycle, and a garage (120€/month). You don't need those. My rent is also very low, because I live far from the centre.{{ fail_on('2024-12-31') }}
+My budget includes a motorcycle, and a garage (120€/month). You don't need those. My rent is also very low, because I live far from the centre.{{ fail_on('2025-12-31') }}
 
 | Description                      | Monthly | Yearly |
 |----------------------------------|-----:|-------:|

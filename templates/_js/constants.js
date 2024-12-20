@@ -85,11 +85,11 @@ const taxes = {
 		2021: { west: 7100 * 12, east: 6700 * 12 },
 		2022: { west: 7050 * 12, east: 6750 * 12 },
 		2023: { west: 7300 * 12, east: 7100 * 12 },
-		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // {{ fail_on('2024-12-31') }}
-		2024: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
-		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
-		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
-		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE_WEST }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2024)
+		2024: { west: 7550 * 12, east: 7450 * 12 },
+		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // {{ fail_on('2025-12-31') }}
+		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
+		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2025)
+		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2025)
 	},
 	grundfreibetrag: {{ GRUNDFREIBETRAG }},
 	kinderfreibetrag: {{ KINDERFREIBETRAG }},
@@ -103,30 +103,30 @@ const taxes = {
 	},
 	minVorsorgepauschal: {{ VORSORGEPAUSCHAL_MIN }},
 	minVorsorgepauschalTaxClass3: {{ VORSORGEPAUSCHAL_MIN_TAX_CLASS_3 }},
-	{{ fail_on('2025-01-05') }}
-	incomeTaxTarifZones: {  // §32a EStG
+	{{ fail_on('2025-01-31') }}
+	incomeTaxTarifZones: {  // §32a EStG - https://www.lohn-info.de/lohnsteuerzahlen.html
 		1: {
 			formula: (x, y, z) => 0,
 			minIncome: -Infinity,
 			maxIncome: {{ GRUNDFREIBETRAG }},
 		},
 		2: {
-			formula: (x, y, z) => (954.8 * y + 1400) * y,
+			formula: (x, y, z) => (932.30 * y + 1400) * y,
 			minIncome: {{ GRUNDFREIBETRAG }},
 			maxIncome: {{ INCOME_TAX_TARIF_2_MAX_INCOME }},
 		},
 		3: {
-			formula: (x, y, z) => (181.19 * z + 2397) * z + 991.21,
+			formula: (x, y, z) => (176.64 * z + 2397) * z + 1015.13,
 			minIncome: {{ INCOME_TAX_TARIF_2_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_TARIF_3_MAX_INCOME }},
 		},
 		4: {
-			formula: (x, y, z) => 0.42 * x - 10636.31,
+			formula: (x, y, z) => 0.42 * x - 10911.92,
 			minIncome: {{ INCOME_TAX_TARIF_3_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_TARIF_4_MAX_INCOME }},
 		},
 		5: {
-			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 18971.06,
+			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 19246.67,
 			minIncome: {{ INCOME_TAX_TARIF_4_MAX_INCOME }},
 			maxIncome: Infinity,
 		},
@@ -174,9 +174,10 @@ const pensions = {
 		2022: 18.6,
 		2023: 18.6,
 		2024: 18.6,
-		currentYear: {{ RENTENVERSICHERUNG_TOTAL_CONTRIBUTION }}, // {{ fail_on('2024-12-31') }}
-		2025: 18.6, // ESTIMATED (2024)
-		2026: 18.6, // ESTIMATED (2024)
+		2025: 18.6,
+		currentYear: {{ RENTENVERSICHERUNG_TOTAL_CONTRIBUTION }}, // {{ fail_on('2025-12-31') }}
+		2026: 18.6, // ESTIMATED (2025)
+		2027: 18.6, // ESTIMATED (2025)
 	},
 }
 
