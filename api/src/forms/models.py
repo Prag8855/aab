@@ -177,7 +177,7 @@ class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Scheduled
     country_of_residence = CountryField()
     question = models.TextField()
 
-    recipients = ['partner@fundsback.org', ]
+    recipients = ['support@pension-refund.com', ]
     template = 'pension-refund-question.html'
 
     @property
