@@ -201,8 +201,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     The photo should be under 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
-- [ ] **[Residence permit application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).
+- [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
+    If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).
 - [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf) or [on Berlin.de](https://www.berlin.de/einwanderung/_assets/stellenbeschreibung.pdf).
 - [ ] **Proof of health insurance**  

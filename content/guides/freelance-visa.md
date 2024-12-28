@@ -202,6 +202,8 @@ There are two types of self-employed people. They get a different kind of freela
 
 - [ ] **Passport**  
     When you [apply online](#apply-for-the-freelance-visa), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^75]
+- [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
+    If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose health insurance.
     - [ ] **Health insurance card**
@@ -272,8 +274,6 @@ If you can, you should also bring...
 
 - [ ] **Appointment confirmation**  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You can have it on your phone or print it.[^15]
-- [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    If this is your first residence permit application, you must fill this form.[^42] - [How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)
 - [ ] **Passport**  
     You get your passport back during your appointment; they do not keep it.[^75]
 - [ ] **Passport photo** (35 × 45 mm)  
