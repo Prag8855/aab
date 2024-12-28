@@ -179,7 +179,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your work vis
 
 **[Starting a new job in Germany ➞](/guides/find-a-job-in-berlin#start-working)**
 
-**[Your first month in Germany ➞](/guides/moving-to-berlin#your-first-month-in-berlin)**
+**[What to do next ➞](#after-you-get-your-work-visa)**
 
 ## How to apply in your country
 

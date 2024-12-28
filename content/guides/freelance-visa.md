@@ -167,6 +167,8 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelanc
 
 **[How to start a business ➞](/guides/start-a-business-in-germany)**
 
+**[What to do next ➞](#after-you-get-your-freelance-visa)**
+
 ## How to apply in your country
 
 You can also apply for a freelance visa in your country, then move to Germany.[^26] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany.[^34] You don't need to wait in Germany without an income.
