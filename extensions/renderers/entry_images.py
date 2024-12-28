@@ -113,7 +113,7 @@ class EntryImageRenderer(Renderer):
     def render(self, context: Context, changed_files: set[Path] | None = None) -> set[Path]:
         files_to_keep = set()
         for entry_uri, entry in context['entries'].items():
-            if not self.get_image_text(entry):
+            if not entry_uri.lower().endswith('.md') or not self.get_image_text(entry):
                 continue
 
             entry_path = Path(entry_uri)
