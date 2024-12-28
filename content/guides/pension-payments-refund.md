@@ -290,7 +290,7 @@ These businesses can help you request a refund. They will fill the forms and req
     Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30] The process is fully digital. They specialise in pension refunds since 2007.
 - **[Pension Refund Germany](/out/german-pension-refund)**{% include '_blocks/recommended.html' %}  
     Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31] The process is fully digital.
-- **[FundsBack](/out/fundsback)**{% include '_blocks/recommended.html' %}  
+- **[FundsBack](/out/fundsback)**  
     Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee {{FUNDSBACK_MIN_FEE}}€, maximum {{FUNDSBACK_MAX_FEE|cur}}€).[^29]
 - **Other options**  
     [TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) can also help you with your pension refund. Their fee is too high, so I don't recommend them.
