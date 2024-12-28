@@ -70,7 +70,7 @@ You can apply for a freelance visa **after you move to Germany**:
 1. Come to Germany
 2. Apply for a freelance visa at your local *[[Ausländerbehörde]]*. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
 3. Get your freelance visa
-4. Start working
+4. Start your business
 
 You can apply in Germany if...
 
@@ -153,11 +153,11 @@ Follow the instructions in the email. You might need to send extra documents, or
 
 **[What happens during your appointment ➞](/guides/residence-permit#go-to-your-appointment)**
 
-If your freelance visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start working**. You will get [a document](/images/temporary-freelance-visa.jpg) that confirms this.[^20]
+If your freelance visa is approved, you will get a second appointment to pick up your plastic residence card. While you wait, **you can start freelancing**. You will get [a document](/images/temporary-freelance-visa.jpg) that confirms this.[^20]
 
 ### 6. Get your freelance visa
 
-Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelance visa. Your new freelance visa is valid for up to 3 years.[^17] If they are not sure that your business will work, you might get a shorter freelance visa.[^24]
+Go to your second *[[Ausländerbehörde]]* appointment and pick up your freelance visa. Your new freelance visa is valid for up to 3 years.[^17] You might get a shorter freelance visa if they are not sure that your business will work.[^24]
 
 **[How to pick up your freelance visa ➞](/guides/residence-permit#pick-up-your-residence-card)**
 

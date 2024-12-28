@@ -229,7 +229,7 @@ If they approve your residence permit, you must [pay the application fee](/guide
 
 They must print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). They will give you another appointment to pick up the card. They do not mail the card to you.
 
-You might get a document that confirms that your residence was approved. With that document, **you can start working or studying**.[^45] It's not a valid travel document, so you can't use it to leave and re-enter Germany.
+You will get a document that confirms that your residence permit was approved. With that document, **you can start working or studying**.[^45] It's not a valid travel document, so you can't use it to leave and re-enter Germany.
 
 Ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
