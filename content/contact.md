@@ -11,7 +11,7 @@ Hi, I'm Nicolas. You can contact me to…
 - **Give feedback**  
     Send me your fixes and suggestions. It makes my job much easier.
 - **Say thanks**  
-    I *love* to hear from happy readers! You can also [donate a few euros](/donate) or [leave a review on Google Maps](/google-maps). It helps a lot.
+    I *love* to hear from happy readers! You can also [donate a few euros](/donate) to support my work.
 - **Advertise your business**  
     Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) first. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
@@ -50,8 +50,6 @@ All About Berlin is also on...
 
 ### Donate
 
-This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me. You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), [Patreon](/out/patreon), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
-
-A positive review [on Google Maps](/google-maps) also helps a lot.
+This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me. You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
 
 {% include "_blocks/tipJar.html"%}
