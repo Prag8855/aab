@@ -4,7 +4,7 @@ Description: My name, email, address, IBAN, tax number and other contact informa
 Date_created: 2022-01-27
 ---
 
-Hi, I'm Nicolas. <mark>I am currently on vacation. I will be unreachable until January 15.</mark>
+Hi, I'm Nicolas. <mark>I am on vacation. I will be unreachable until January 15.</mark>
 
 When I am back, you can contact me to…
 
@@ -23,7 +23,7 @@ When I am back, you can contact me to…
 
 ## Contact information
 
-<mark>I am currently on vacation. I will be unreachable until January 15.</mark>
+<mark>I am on vacation. I will be unreachable until January 15.</mark>
 
 **Website owner**: [Nicolas Bouliane](https://nicolasbouliane.com)
 
