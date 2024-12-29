@@ -54,6 +54,6 @@ All About Berlin is also on...
 
 ### Donate
 
-This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me. You can donate with [Stripe](/out/stripe), [PayPal](/out/paypal), or a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung).
+This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me.
 
 {% include "_blocks/tipJar.html"%}
