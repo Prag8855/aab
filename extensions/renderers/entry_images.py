@@ -15,7 +15,10 @@ logger = logging.getLogger(__name__)
 exif_description_field = 0x9286
 
 
-def wrap_text(text: str, font, max_width: int) -> str:
+def wrap_text(text: str, font: ImageFont.ImageFont, max_width: int) -> str:
+    """
+    Wrap text so that it fits inside a box; adjust the font size as needed.
+    """
     words = text.split()
     lines: list[list[str]] = [[]]
     for word in words:
@@ -30,7 +33,10 @@ def wrap_text(text: str, font, max_width: int) -> str:
     return "\n".join(" ".join(line) for line in lines)
 
 
-def text_height(text: str, font, line_spacing: int) -> int:
+def text_height(text: str, font: ImageFont.ImageFont, line_spacing: int) -> int:
+    """
+    Get the vertical size of a block of text with a given font
+    """
     ascent, descent = font.getmetrics()
     lines = text.split('\n')
     return sum([
@@ -39,11 +45,17 @@ def text_height(text: str, font, line_spacing: int) -> int:
     ]) + (len(lines) - 1) * line_spacing
 
 
-def text_width(text: str, font) -> int:
-    return max(font.getmask(line).getbox()[2] for line in text.split('\n'))
+def text_width(text: str, font: ImageFont.ImageFont) -> int:
+    """
+    Get the horizontal size of a block of text with a given font
+    """
+    return max(int(font.getmask(line).getbox()[2]) for line in text.split('\n'))
 
 
 def make_cover_image(text: str, templates_path: Path) -> ImageType:
+    """
+    Generates an All About Berlin cover image for social media.
+    """
     padding = 50
     line_spacing = 25
     image_size = (1200, 630)
@@ -130,9 +142,10 @@ class EntryImageRenderer(Renderer):
 
             if needs_rerender:
                 logger.info(f"Rendering post image {str(image_path)}")
-                image = make_cover_image(self.get_image_text(entry), config.templates_path)
+                image = make_cover_image(image_text, config.templates_path)
 
-                # Unicode strings cause problems, so a simple hash is more reliable
+                # If the image hash has changed, rerender it.
+                # Unicode strings cause problems, so a simple hash is more reliable.
                 exif = image.getexif()
                 exif[exif_description_field] = self.get_hash(entry)
                 abs_image_path.parent.mkdir(parents=True, exist_ok=True)
