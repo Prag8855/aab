@@ -112,24 +112,33 @@ class EntryImageRenderer(Renderer):
     Creates social media images for entries
     """
 
-    def get_image_text(self, entry: Entry) -> str | None:
-        if not(entry.get('short_title') or entry.get('title')):
-            return None
-        return str(entry.get('short_title') or entry.get('title')).replace(soft_hyphen, '')
+    def get_image_text(self, entry: Entry) -> str:
+        entry_title = entry.get('short_title') or entry.get('title')
+        if not entry_title:
+            raise ValueError("Entry has no image text")
+        return str(entry_title).replace(soft_hyphen, '')
 
     def get_hash(self, entry: Entry) -> str:
-        if not (text := self.get_image_text(entry)):
-            raise ValueError("Entry has no image text")
-        return hashlib.md5(text.encode("utf-8")).hexdigest()
+        return hashlib.md5(
+            self.get_image_text(entry).encode("utf-8")
+        ).hexdigest()
 
     def render(self, context: Context, changed_files: set[Path] | None = None) -> set[Path]:
         files_to_keep = set()
-        for entry_uri, entry in context['entries'].items():
-            if not entry_uri.lower().endswith('.md') or not self.get_image_text(entry):
+
+        entries_to_render = [
+            (Path(entry_uri), entry)
+            for entry_uri, entry in context['entries'].items()
+            if entry_uri.lower().endswith('.md')
+        ]
+
+        for entry_path, entry in entries_to_render:
+            try:
+                image_text = self.get_image_text(entry)
+            except ValueError:
                 continue
 
-            entry_path = Path(entry_uri)
-            image_path = Path(entry_uri).with_suffix('.png')
+            image_path = entry_path.with_suffix('.png')
             abs_image_path = config.output_path / image_path
             needs_rerender = False
 
