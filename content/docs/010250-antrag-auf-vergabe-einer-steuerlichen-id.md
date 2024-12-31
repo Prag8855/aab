@@ -67,9 +67,9 @@ If you fill this form because you can't [register your current address](/glossar
 
 ## How to send this form
 
-If you are an employee, mail the form to your employer's local *[[Finanzamt]]*. If not, mail it to your local *[[Finanzamt]]*.[^0] Include a copy of your passport or *[[Personalausweis]]*.
+If you are an employee, mail the form to the *[[Finanzamt]]* of your employer. If you are not an employee, mail it to your *[[Finanzamt]]*.[^0] Include a copy of your passport or *[[Personalausweis]]*.
 
-**[Find your local Finanzamt ➞](/out/finanzamt-finder)**
+**[Find your Finanzamt ➞](/out/finanzamt-finder)**
 
 **[How to mail a letter ➞](/guides/mail-a-letter)**
 
