@@ -197,19 +197,19 @@ When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% 
 
 ## What happens to your residence permit
 
-Always tell the *[[Ausländerbehörde]]* when you change or lose your job. In Berlin, they give you 3 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]
+Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you change or lose your job. In Berlin, they usually give you 6 months to [find another job](/guides/find-a-job-in-berlin).[^5]{{ fail_on('2025-03-01') }}
 
-**If you can't find a job** after 3 to 12 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29]
+**If you can't find a job** after 6 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29]
 
-**When you find a job**, you might need permission from the *Ausländerbehörde* to start working. It depends on your [residence permit](/glossary/Aufenthaltstitel).
+**When you find a job**, you might need the *Ausländerbehörde*'s permission to start your new job. It depends on your [residence permit](/glossary/Aufenthaltstitel).
 
 ### Blue Card
 
-[Check your *Zusatzblatt*.](/guides/zusatzblatt) If your Blue Card is limited to a specific employer, you need the *[[Ausländerbehörde]]*'s permission to change jobs.
+[Check your *Zusatzblatt*.](/guides/zusatzblatt) It tells you what you can do.
 
-If your Blue Card is not limited to one employer, you can start a new job immediately. Your new job must fulfil the [Blue Card requirements](/guides/blue-card#blue-card-requirements).[^36]
+In your first year with a Blue Card, your new job must fulfil the [Blue Card requirements](/guides/blue-card#blue-card-requirements).[^36] You must [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) that you have a new job.[^4] You can start working immediately. The *Ausländerbehörde* has 30 days to stop you.
 
-Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) about your new job. They have 30 days to stop you. If you had your Blue Card for at least 1 year, they can't stop you.[^38]
+After 1 year of employment with a Blue Card, you can get any kind of job. There is no minimum salary requirement. You can start working immediately.[^38] You should [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) that you have a new job, but they can't really stop you.
 
 ### Opportunity card
 
@@ -309,6 +309,7 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
+[^4]: [VAB A.18g.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (December 2024), [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
@@ -340,8 +341,8 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
-[^36]: Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2024) 
-[^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), Charlotte Forestier at [Expat Management Group](https://expatmanagementgroup.com/) (December 2023)
+[^36]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
+[^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^40]: [karrierebibel.de](https://karrierebibel.de/schneller-aus-dem-arbeitsvertrag/#:~:text=versuch%20einer%20einvernehmlichen%20einigung)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
