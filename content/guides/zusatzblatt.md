@@ -13,22 +13,34 @@ Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28res
 
 This is what those lines mean:
 
-- **"Ausbildung zum [...] erlaubt"**  
-    Only for an apprenticeship with a specific employer.
+- **"Ausbildung zum … erlaubt"**  
+    You can do an apprenticeship (*Ausbildung*) for a specific employer or profession.
 - **"Beschäftigung erlaubt"**  
-    If you *only* see those words, all jobs are allowed. Self-employment is not allowed.[^7] If there are more words, it probably limits you to a specific employer or profession. For example, "*Beschäftigung erlaubt als Spezialitätenkoch im Restaurant Mustermann*"
-- **"Beschäftigung nicht erlaubt mit Ausnahme [...]"**  
+    You can take any job. You can't be self-employed.[^7] You don't need the *Ausländerbehörde*'s permission to change jobs.
+- **"Beschäftigung erlaubt als … bei …"**  
+    You can only work in a specific profession, or for a specific employer. To change jobs, you need a new residence permit.
+- **"Beschäftigung der Tätigkeit als … bei … erlaubt"**  
+    You can only work in a specific profession, or for a specific employer. To change jobs, you need a new residence permit.
+- **"Beschäftigung nicht erlaubt mit Ausnahme der Tätigkeit als …"**  
     You can't work, except for a specific job.
 - **"Beschäftigung nur nach Erlaubnis der Ausländerbehörde"**  
     You need permission from the *Ausländerbehörde* to start a new job.[^6]
+- **"Beschäftigung und AG-Wechsel gemäß § 18g Abs. 1 S. 1 AufenthG erlaubt"**  
+    You can work for any employer. You can [change jobs](/guides/losing-your-job) without waiting for the *[[Ausländerbehörde]]*. Your new job must fulfil the [Blue Card requirements](/guides/blue-card#blue-card-requirements).
 - **"Erwerbstätigkeit erlaubt"**  
-    All occupations are allowed. You can do any kind of work, including self-employment.[^2]
+    You can take any job. You can be self-employed.[^2]
 - **"Erwerbstätigkeit nicht erlaubt"**  
-    No employment or self-employed is allowed.
+    You can't work, and you can't be self-employed.
 - **"Erlischt mit Bezug von Leistungen nach dem SGB II oder SGB XII"**  
     You can't receive *[[Bürgergeld]]*.[^1] You can still receive [unemployment benefits](/glossary/ALG%20I).
+- **"Erlischt bei Wegfall des gültigen Krankenversicherungsschutzes"**  
+    If you lose your health insurance, your residence permit expires.
+- **"Nach 1 jähr. versicherungspfl. Beschäftig. ist Beschäftig. jeder Art erlaubt"**  
+    After 1 year of employment, you can get any job.
 - **"Selbständige Tätigkeit erlaubt"**  
-    Self-employment is allowed.[^4] If it's a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], part-time self-employment is allowed, but must keep your job, and your job must be your main source of income.[^3]
+    You can be self-employed.[^4] If it's a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], part-time self-employment is allowed, but must keep your job, and your job must be your main source of income.[^3]
+- **"Selbstständige Tätigkeit als … erlaubt"**  
+    You can be self-employed, but only in a specific profession.
 
 Your residence permit might be limited to one profession or one employer. For example, "*Beschäftigung erlaubt als Spezialitätenkoch im Restaurant Mustermann*". If that's the case, you need the *[[Ausländerbehörde]]*'s permission to change jobs.
 
