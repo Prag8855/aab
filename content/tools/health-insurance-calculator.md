@@ -7,7 +7,7 @@ Categories:
     calculator
 ---
 
-This calculator helps you choose health insurance in Germany. It tells you how much [health insurance](/glossary/Krankenversicherung) costs, and how to pay less.
+This calculator helps you choose health insurance in Germany. It tells you how much [health insurance](/glossary/Krankenversicherung) costs in {{ now.strftime('%Y') }}, and how to pay less.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 

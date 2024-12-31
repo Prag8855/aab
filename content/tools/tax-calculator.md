@@ -7,7 +7,7 @@ Categories:
     calculator
 ---
 
-This tool calculates your German [net income](/glossary/Netto%20income), after taxes and social contributions. It's your take-home salary. It's the money you keep every month.
+This tool calculates your German [net income](/glossary/Netto%20income) for {{ now.strftime('%Y') }}, after taxes and social contributions. It's your take-home salary. It's the money you keep every month.
 
 {% include '_blocks/taxCalculatorStatic.html' %}
 
