@@ -425,7 +425,7 @@ config.context_globals = {
     # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
     "GKV_ZUSATZBEITRAG_AVERAGE": health_insurance_avg_zusatzbeitrag,
     "GKV_ZUSATZBEITRAG_AOK": fail_on('2025-12-31', 3.5),
-    "GKV_ZUSATZBEITRAG_BARMER": fail_on('2024-12-31', 2.19),
+    "GKV_ZUSATZBEITRAG_BARMER": fail_on('2025-12-31', 3.29),
     "GKV_ZUSATZBEITRAG_DAK": fail_on('2025-12-31', 2.8),
     "GKV_ZUSATZBEITRAG_HKK": fail_on('2025-12-31', 2.19),
     "GKV_ZUSATZBEITRAG_TK": fail_on('2025-12-31', 2.45),
