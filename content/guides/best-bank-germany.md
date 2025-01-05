@@ -201,8 +201,8 @@ Usually, you only need a blocked account for the first year. When you renew your
 
 You can open a blocked account with...
 
-- [Expatrio](/out/expatrio)
-- [Fintiba](/out/fintiba)
+- [Expatrio](/out/expatrio){% include '_blocks/recommended.html' %}
+- [Fintiba](/out/fintiba){% include '_blocks/recommended.html' %}
 - [Coracle](/out/coracle)
 - [Sparkasse](/out/sparkasse), but only at some branches[^41]
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]{{ fail_on('2025-12-15') }}
@@ -215,7 +215,7 @@ Deutsche Bank stopped offering blocked accounts.[^42]
 
 None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is a really good option, but they only speak German.
 
-**If you can't open an account anywhere**, [Wise](/out/wise-account) and [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse is the best option.[^2]
+**If you can't open an account anywhere**, [Wise](/out/wise-account) and [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse is the best option.[^2] If you need a blocked account, [Fintiba](/out/fintiba) is the best option.
 
 **The best German-speaking bank** is [C24](/out/c24). [DKB](/out/dkb) and [ING](/out/ing) are also great, but they don't accept recent immigrants.
 
