@@ -15,6 +15,7 @@ The Schengen area is a group of 27 countries:[^1]
 
 - Austria
 - Belgium
+- Bulgaria
 - Czech Republic
 - Denmark
 - Estonia
@@ -34,6 +35,7 @@ The Schengen area is a group of 27 countries:[^1]
 - Norway
 - Poland
 - Portugal
+- Romania
 - Slovakia
 - Slovenia
 - Spain
