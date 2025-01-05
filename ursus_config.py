@@ -453,7 +453,7 @@ config.context_globals = {
     "FREELANCE_VISA_MIN_MONTHLY_PENSION": freelance_visa_min_monthly_pension,
     "FREELANCE_VISA_MIN_PENSION": round(freelance_visa_min_monthly_pension * 144),
 
-    # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12
+    # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12 (Regelbedarfsstufe 1)
     "FREELANCE_VISA_MIN_INCOME": fail_on('2025-12-31', 563),
 
     # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
@@ -491,9 +491,9 @@ config.context_globals = {
     "RENTENVERSICHERUNG_TOTAL_CONTRIBUTION": pension_insurance_base_rate,
     "RENTENVERSICHERUNG_MIN_CONTRIBUTION": pension_insurance_base_rate * geringfuegigkeitsgrenze / 100,
 
-    # Minimum Vorsorgepauschale - §39b Abs. 2.3 EStG
-    "VORSORGEPAUSCHAL_MIN": 1900,
-    "VORSORGEPAUSCHAL_MIN_TAX_CLASS_3": 3000,
+    # Minimum Vorsorgepauschale - §39b Abs. 2.3.e EStG
+    "VORSORGEPAUSCHAL_MIN": fail_on('2025-12-31', 1900),
+    "VORSORGEPAUSCHAL_MIN_TAX_CLASS_3": 3000,  # ???
 
     # Grundfreibetrag (€/y) - § 32a EstG [GFB]
     "GRUNDFREIBETRAG": fail_on('2025-12-31', 12096),
@@ -504,8 +504,8 @@ config.context_globals = {
     "INCOME_TAX_TARIF_4_MAX_INCOME": fail_on('2025-12-31', 277825),
 
     # Upper bound (€/y) of income tax tarif zones for tax classes 5 and 6 - § 39b Abs. 2 Satz 7 EstG [W1STKL5][W2STKL5][W3STKL5]
-    "INCOME_TAX_CLASS_56_LIMIT_1": fail_on('2025-12-31', 13772),
-    "INCOME_TAX_CLASS_56_LIMIT_2": fail_on('2025-12-31', 34214),
+    "INCOME_TAX_CLASS_56_LIMIT_1": fail_on('2025-12-31', 13785),
+    "INCOME_TAX_CLASS_56_LIMIT_2": fail_on('2025-12-31', 34240),
     "INCOME_TAX_CLASS_56_LIMIT_3": fail_on('2025-12-31', 222260),
 
     # Maximum income tax rate - § 32b EstG
@@ -515,7 +515,7 @@ config.context_globals = {
     "CHURCH_TAX_RATE": 9,
     "CHURCH_TAX_RATE_BW_BY": 8,
 
-    # Above that income tax amount, you pay a 11.9% solidarity tax (€/y) - §3 SolzG 4a [SOLZFREI]
+    # Above that income tax amount, you pay a 11.9% solidarity tax (€/y) - §3 SolzG 3 [SOLZFREI]
     "SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX": fail_on('2025-12-31', 19950),
     "SOLIDARITY_TAX_MILDERUNGSZONE_RATE": fail_on('2025-12-31', 0.119),
     "SOLIDARITY_TAX_MAX_RATE": fail_on('2025-12-31', 0.055),
@@ -536,7 +536,7 @@ config.context_globals = {
     # (€/y) §10c EStG [SAP]
     "SONDERAUSGABEN_PAUSCHBETRAG": 36,
 
-    # Kindergeld amount per child (€/m) - §6 BKGG
+    # Kindergeld amount per child (€/m) - §6 Abs. 1 BKGG
     "KINDERGELD": fail_on('2025-12-31', 255),
 
     # Tax break for parents (€/y) - § 32 Abs. 6 EStG [KFB] - monitored
@@ -556,7 +556,7 @@ config.context_globals = {
     "GEWERBESTEUER_TAX_CREDIT": Decimal('3.8'),
     "GEWERBESTEUER_HEBESATZ_BERLIN": Decimal('4.1'),
 
-    # Above that amount (€/y), you are no longer a Kleinunternehmer - § 19 UStG
+    # Above that amount (€/y), you are no longer a Kleinunternehmer - § 19 Abs. 1 UStG
     "KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR": 25000,
     "KLEINUNTERNEHMER_MAX_INCOME": 100000,
 
