@@ -168,6 +168,7 @@ config.add_markdown_extension('extensions.markdown:TypographyExtension')
 config.renderers.extend([
     'extensions.renderers.entry_images.EntryImageRenderer',
     'extensions.renderers.nginx_map.NginxMapRenderer',
+    'extensions.renderers.text.TextFileRenderer',
     'extensions.renderers.glossary_audio.GlossaryAudioRenderer',
 ])
 
