@@ -11,7 +11,7 @@ Related_guides:
     guides/residence-permit.md
 ---
 
-The Schengen area is a group of 27 countries:[^1]
+The Schengen area is a group of 29 countries:[^1]
 
 - Austria
 - Belgium
@@ -42,7 +42,9 @@ The Schengen area is a group of 27 countries:[^1]
 - Sweden
 - Switzerland
 
-You can travel to other Schengen area countries if you have...[^2]
+These countries have a shared border. You can freely travel between them, without going through border controls.
+
+You can travel to Schengen area countries if you have...[^2]
 
 - A [[Schengen visa]]
 - or a German [[National Visa]]
