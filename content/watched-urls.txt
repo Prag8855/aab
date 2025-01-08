@@ -88,7 +88,7 @@ https://www.berlin.de/einwanderung/ueber-uns/aktuelles/ .modul-autoteaser
 https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/ .list--tablelist
 
 # Minimum and median wage
-https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html .typ-quote-3
+https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/gesetzlicher-mindestlohn.html #content
 https://www.bundesregierung.de/breg-de/aktuelles/gesetzesvorhaben-und-neuregelungen .bpa-search-result-list
 
 # Laws
