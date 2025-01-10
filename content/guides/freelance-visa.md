@@ -221,6 +221,8 @@ There are two types of self-employed people. They get a different kind of freela
         You must [register your address](/glossary/Anmeldung) to get this document. If you don't have it, your lease and [tenancy confirmation](/glossary/Wohnungsgeberbestätigung) are sometimes enough. At least bring proof that you have a [*Bürgeramt* appointment](/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment).[^5]
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
+- [ ] **Bank statements**  
+    It shows how much savings you have.[^74] In Berlin, 3,000€ to 5,000€ in savings is usually enough.[^28] In other cities, you might need around 10,000€.[^22] You don't need a [blocking account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
@@ -232,9 +234,9 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 ### Required documents for a [[Freiberufler]]
 
 - [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
-    Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau) if you can.[^56] Your numbers should be realistic, but ambitious. - [How to fill this form](/docs/ertragsvorschau#how-to-fill-the-revenue-forecast)
-- [ ] 2 or more **[letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)[^67]  
-    These are letters from potential clients that want to hire you. They are really important. They prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You should have at least 2 letters from German clients. Signed contracts are even better. - [Letter of intent templates and instructions](/guides/freelance-visa-letter-of-intent)
+    Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau).[^56] Your numbers must be realistic, but ambitious.
+- [ ] **At least 2 [letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)[^67]  
+    These are letters from potential clients that want to hire you. They are very important. They prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You should have at least 2 letters from clients in Germany. Signed contracts are even better.
 
 If you are an artist or a language teacher, you can also bring...
 
@@ -242,7 +244,7 @@ If you are an artist or a language teacher, you can also bring...
     If you can't prove that your will make enough money, bring proofs of financial support. For example...
     - Your own savings
     - Regular bank transfers from your family
-    - A letter from a guarantor
+    - A letter from a guarantor (*Verpflichtungserklärung*)
 
 If you need a permit to do your job (lawyers, doctors, engineers), you must also bring...
 
@@ -252,10 +254,9 @@ If you need a permit to do your job (lawyers, doctors, engineers), you must also
 ### Required documents for a [Selbständiger](/glossary/Selbständig)
 
 - [ ] **Business plan**  
-    This document is a roadmap for your business. It explains your goals, your strategy, your products and your customers. It should prove that there is a local interest for your products and services. - [How to prepare a business plan](https://www.wir-gruenden-in-deutschland.de/en/planning-your-business/the-business-plan)
-    - [ ] Firmenprofil
-    - [ ] Geschäftskonzept
-    - [ ] Kapitalbedarfsplan
+    This document is a roadmap for your business. It explains your goals, your strategy, your products and your customers. It must show that there is a local interest for your products and services. Learn [how to prepare a business plan](https://www.wir-gruenden-in-deutschland.de/en/planning-your-business/the-business-plan). Your business plan should include:
+    - [ ] Company profile (*Firmenprofil*)
+    - [ ] Business concept (*Geschäftskonzept*)
 - [ ] **[Financing plan](/docs/financing-plan-template)** (*Finanzierungsplan*)  
     This document details how you plan to finance your business. Use the [official template](/docs/financing-plan-template).
 
@@ -266,39 +267,37 @@ If you start a business with other people, you must also bring...[^69]
 If you can, you should also bring...
 
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)  
-    [Register for trade tax](/guides/gewerbeschein) and get your *Gewerbeschein*. This might be impossible, because it requires a [residence permit](/glossary/Aufenthaltstitel). You can do it later.[^70] You can do it later, before you [renew your residence permit](/guides/renew-german-freelance-visa).
+    [Register for trade tax](/guides/gewerbeschein) and get your *[[Gewerbeschein]]*. It might be impossible to do this before you get your freelance visa. You can do it later.[^70]
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)  
     You probably don't need a *Handelsregister* entry.[^77] If you need one, you can probably get it after you get your freelance visa. - [Who needs a *Handelsregister* entry?](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)
 
-### Required documents if you apply in person
+### Required documents at your appointment
 
 - [ ] **Appointment confirmation**  
-    You can't enter the *Ausländerbehörde* without it. They check at the door. You can have it on your phone or print it.[^15]
+    You can't enter the *Ausländerbehörde* without it. They check at the door. Have it on your phone or print it.[^15]
 - [ ] **Passport**  
     You get your passport back during your appointment; they do not keep it.[^75]
-- [ ] **Passport photo** (35 × 45 mm)  
-    Only if apply in person. You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^36] - [Where to get passport photos](/guides/biometric-pictures-in-berlin).
+- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] You must sometimes pay later, when you pick up your freelance visa. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 ### Optional documents
 
 These documents are not required, but some *Ausländerbehörde* employees ask for them. They make your application more convincing.
 
 - [ ] **Resume** or **CV**  
-    It proves that you have experience in your field. Remove irrelevant experience or summer jobs. Work experience is not required, but it helps.[^49]
-- [ ] **Cover letter**  
-    It explains what you do, and how your business works. It helps *Ausländerbehörde* employees understand your plan. This is very useful if your German is not good. Write it in German. - [Cover letter example](/docs/freelance-visa-cover-letter)
+    Work experience is not required, but it helps.[^49] Your resume should prove that you have experience in your field. Don't include irrelevant experience.
+- [ ] **[Cover letter](/docs/freelance-visa-cover-letter)**  
+    It explains what you do, and how your business works. It helps the *Ausländerbehörde* understand what you do. It helps you during your appointment, especially if you don't speak German.
 - [ ] **Portfolio** or **examples of your work**  
-    It explains what you do. If you are an artist, this is very important.[^65] For example, you can bring photos of your work, posters of your events, screenshots of your website or apps or newspaper articles about you. You need printed examples; a website address does not work.[^50] If you can, fit everything on A4 paper.
+    It explains what you do, and that you will find clients. If you are an artist, this is very important.[^65] For example, you can bring photos of your work, posters of your events, screenshots of your website or apps or newspaper articles about you. You need printed examples; a website address does not work.[^50]
 - [ ] **Contracts**  
-    It proves that you have guaranteed work. Signed contracts are better than [letters of intent](/glossary/Absichtserklärung). They should explain what you will do, how long you will work and how much you will get paid.
-- [ ] **Letters of reference**  
+    It proves that you have guaranteed work. Contracts are even better than [letters of intent](/glossary/Absichtserklärung). The contract should explain what you will do, how long you will work and how much you will get paid.
+- [ ] **Letters of recommendation**  
     These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do.
 - [ ] **Proof or education**  
-    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's okay.[^78]
-- [ ] **Bank statements**  
-    It shows how much savings you have.[^74] In Berlin, 3,000€ to 5,000€ in savings is usually enough.[^28] In other cities, you might need around 10,000€.[^22] You don't need a [blocking account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
+    If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's not a problem.[^78]
 
 ## After you get your freelance visa
 
@@ -320,7 +319,7 @@ Tell me how long it took to get your freelance visa. Your feedback helps thousan
 
 ### Join VG Wort
 
-**If you publish texts or run a website**, you should also join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
+**If you publish texts or run a website**, join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
 
 ### Travel with a freelance visa
 
@@ -332,7 +331,7 @@ Your freelance visa lets you live anywhere in Germany, not just in the city wher
 
 ### Renew your freelance visa
 
-Your freelance visa is valid for up to 3 years.[^16] You must renew it around 8 weeks before it expires, not sooner.
+Your freelance visa is valid for up to 3 years.[^16] In Berlin, you must renew it around 8 weeks before it expires, not sooner.
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
@@ -342,9 +341,9 @@ If you have a freelance visa, you qualify for [permanent residence](/glossary/Ni
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
-If you plan to become a permanent resident, you should make voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. A private pension can also work.
+If you plan to become a permanent resident, start making voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month. You can also get a private pension instead.
 
-**[Pension requirements for the PR ➞](/guides/permanent-residence#pension-requirements)**
+**[Pension requirements for permanent residence ➞](/guides/permanent-residence#pension-requirements)**
 
 ## Need help?
 
