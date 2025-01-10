@@ -413,6 +413,14 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
+## If you move
+
+Your residence permit lets you live anywhere in Germany, not just in the city where you got it.
+
+Your address is written on your residence permit. If you move, bring your residence permit to your *[[Anmeldung]]* appointment. They will put a sticker with your new address on your residence permit.[^37] You will not get a new residence card.
+
+**[How to change your address ➞](/guides/address-change)**
+
 ## If you change or lose your job
 
 When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
@@ -506,6 +514,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^34]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
 [^35]: [German embassy](https://tunis.diplo.de/tn-de/service/05-visaeinreise/2440614-2440614#:~:text=falls%20erforderlich%20gehoren%20hierzu%20auch%20das%20verfahren%20zur%20anerkennung%20der%20auslandischen%20berufsausbildung) (December 2024),  Charlotte Forestier, immigration consultant (December 2024)
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
+[^37]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/#Adresse) (January 2025)
 [^38]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^39]: [§47 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__47.html)
 [^40]: Debora Aust at [DARE Consulting](https://dareconsulting.de/en/home/) (December 2024), Simon Wilkinson at [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)

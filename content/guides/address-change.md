@@ -29,13 +29,13 @@ Register your address at the *[[Bürgeramt]]*. This is called the *[[Anmeldung]]
 
 **[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
-The *Bürgeramt* will tell these people your new address:
+The *Bürgeramt* will share your new address with...
 
-- **Your church**  
+- **The [[Ausländerbehörde]]**  
+    Bring your [residence permit](/glossary/Aufenthaltstitel) to your *Anmeldung* appointment. They will put a sticker on it with your new address. You don't need to go to the *[[Ausländerbehörde]]* to update your residence permit.[^8]
+- **The church**  
     If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
-- **The Ausländerbehörde**  
-    Bring your [residence permit](/glossary/Aufenthaltstitel) to your *Anmeldung* appointment. They will put a sticker on it with your new address. You don't need to go to the *[[Ausländerbehörde]]* to update your residence permit.
-- **The Kfz-Zulassungsstelle**  
+- **The [[Kfz-Zulassungsstelle]]**  
     Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can also [change your vehicle's address online](https://service.berlin.de/dienstleistung/120918/).
 
 ## Notify everyone
@@ -88,3 +88,4 @@ Mail forwarding is **unreliable**. Official mail from the Bürgeramt, Finanzamt 
 [^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), Oliver Frankfurth at Deregistration.de (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden)
 [^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
 [^7]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)
+[^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/#Adresse) (January 2025)
