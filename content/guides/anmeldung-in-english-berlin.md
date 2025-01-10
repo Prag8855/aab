@@ -262,7 +262,7 @@ When you move into an apartment, you must do a few things: lower your rent, get 
 [^5]: [promietrecht.de](https://www.promietrecht.de/Untermieter/Vermieterbescheinigung-fuer-Untermieter-AnmeldungWohnsitz-E2286.htm), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm)
 [^6]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-8-untermiete-und-untervermietung-hauptmieter-und-untermieter.htm#:~:text=%20nichtehelichen%20lebensgemeinschaft)
 [^7]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/onhxsm/anmeldung_in_berlin_invalid_passport_will_a/)
-[^8]: [facebook.com](https://www.facebook.com/groups/226825394858771/posts/906082933599677), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/939547690253201), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/797844441090194/)
+[^8]: [facebook.com](https://www.facebook.com/groups/226825394858771/posts/906082933599677), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/939547690253201), [facebook.com](https://www.facebook.com/groups/226825394858771/posts/797844441090194/), [Reddit](https://old.reddit.com/r/germany/comments/yqviwt/aufenthaltstitel_and_new_address/)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/qr1w7o/credit_cards_are_finally_accepted_at_the/hk6mpwi/?context=3)
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/lua6cx/deleted_by_user/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5ibzo4/anmeldung_registration_for_the_family_nongerman/)
 [^11]: [berlin.de](https://service.berlin.de/dienstleistung/120686/)

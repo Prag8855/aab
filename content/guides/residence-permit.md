@@ -157,7 +157,7 @@ Before you apply for a residence permit...
 While you wait for an *[[Ausländerbehörde]]* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^23]
+    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). If you don't do your *Anmeldung*, they might reject your application.[^23]
 - [ ] **[Open a bank account](/guides/best-bank-germany)**  
     You will need a bank account for many things. You also need a bank account to pay the application fee. You can choose a bank from any EU country.
 
@@ -500,7 +500,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^20]: [VAB A2.4](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (July 2024)
 [^21]: [§51 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [se-legal.de](https://se-legal.de/services/immigration-lawyer-germany/permanent-eu-residence-permit/?lang=en#:~:text=if%20you%20reside%20outside%20of%20germany%20for%20a%20sufficient%20time) (July 2024), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/#DA-EU) (July 2024), [Hamburg](https://welcome.hamburg.com/entry-and-residence/residence-permit/permanent-ec-17654) (July 2024)
 [^22]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
-[^23]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
+[^23]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023), [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20registering%20your%20address%20before%20you%20go) (August 2023)
 [^24]: Multiple relocation consultants (July 2024)
 [^25]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=take%20three%20months%20to%20process)
 [^26]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=six%20weeks%20before%20the%20visa%20expires), [Elliot Herman](https://www.sorted.berlin/) (October 2023), [Anja Kunzke](https://www.irc-relocation.com/de) (October 2023)

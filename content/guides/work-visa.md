@@ -133,7 +133,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^53]
+    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). If you don't do your *Anmeldung*, they might reject your application.[^53]
 - [ ] **[Open a bank account](/guides/best-bank-germany)**  
     You need it to pay your rent, pay your work visa application fee, and get paid by your employer. You can choose a bank from any EU country.
 

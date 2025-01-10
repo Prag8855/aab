@@ -121,7 +121,7 @@ If you bring your family to Germany, you can apply for their [family reunion vis
 While you wait for an *Ausländerbehörde* appointment, you should also...
 
 - [ ] **[Register your address](/guides/anmeldung-in-english-berlin)** (*[[Anmeldung]]*)  
-    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). The *Ausländerbehörde* might ask for your registration certificate.[^76]
+    [The *Anmeldung* is very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address). When you register your address, you get a [tax ID](/glossary/Steueridentifikationsnummer) and a [registration certificate](/glossary/Anmeldebestätigung). If you don't do your *Anmeldung*, they might reject your application.[^76]
 - [ ] **[Open a bank account](/guides/start-a-business-in-germany#open-a-bank-account)**  
     You need it to pay your rent, pay your application fee, and get paid by your clients. You should open a separate bank account for your business. You can choose a bank from any EU country.
 
