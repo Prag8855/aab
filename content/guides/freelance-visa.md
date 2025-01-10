@@ -326,6 +326,8 @@ Tell me how long it took to get your freelance visa. Your feedback helps thousan
 
 Your freelance visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your freelance visa expires.
 
+Your freelance visa lets you live anywhere in Germany, not just in the city where you applied.
+
 **[Travel with a residence permit ➞](/guides/residence-permit#if-you-travel)**
 
 ### Renew your freelance visa

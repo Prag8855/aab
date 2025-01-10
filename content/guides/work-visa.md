@@ -260,6 +260,8 @@ If you [lose your job](/guides/losing-your-job), your work visa stays valid. [Te
 
 Your work visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your work visa expires.
 
+Your work visa lets you live anywhere in Germany, not just in the city where you applied.
+
 **[Travel with a residence permit ➞](/guides/residence-permit#if-you-travel)**
 
 ### Self-employment with a work visa

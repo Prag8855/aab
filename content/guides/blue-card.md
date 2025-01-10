@@ -258,6 +258,8 @@ If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Te
 
 Your Blue Card lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 12 months.[^23] If you travel longer, your Blue Card expires.
 
+Your Blue Card lets you live anywhere in Germany, not just in the city where you applied.
+
 **[Travel with a residence permit ➞](/guides/residence-permit#if-you-travel)**
 
 ### Self-employment with a Blue Card
