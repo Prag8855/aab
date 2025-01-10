@@ -196,8 +196,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 - [ ] **Passport**  
     When you [apply online](#apply-for-the-blue-card-online), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
-- [ ] **Passport photo** (35 × 45 mm)  
-    The photo should be less than 6 months old.[^36] You do not need to cut the photos yourself; they have a tool for this. - [Where to get passport photos](/guides/biometric-pictures-in-berlin)
+- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
 - [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  

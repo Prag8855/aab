@@ -202,10 +202,12 @@ When you go to your appointment, bring...
 
 - [ ] **Your appointment confirmation**  
     You can't enter the *Ausländerbehörde* without it. They check at the door. You can have it on your phone or print it.[^28]
-- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
-    You do not need to cut the photos yourself; they have a tool for this. The photo should be less than 6 months old.[^37]
+- [ ] **Passport**  
+    When you apply online, include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
     - [ ] **Passport of your spouse, parent or child** (if applicable)  
         If you apply for family reunion visas, bring everyone's passports.
+- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. You must sometimes pay later, when you pick up your residence permit. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Other required documents**  
@@ -504,7 +506,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^34]: [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=they%20will%20need%20to%20attend%20a%20course%20to%20qualify%20fully%20or%20sit%20a%20professional%20examination)
 [^35]: [German embassy](https://tunis.diplo.de/tn-de/service/05-visaeinreise/2440614-2440614#:~:text=falls%20erforderlich%20gehoren%20hierzu%20auch%20das%20verfahren%20zur%20anerkennung%20der%20auslandischen%20berufsausbildung) (December 2024),  Charlotte Forestier, immigration consultant (December 2024)
 [^36]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=maximum%20term%20of%20validity%20of%20up%20to%2012%20months)
-[^37]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^38]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Your%20German%20family%20member%20must%20also%20attend) (June 2024)
 [^39]: [§47 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__47.html)
 [^40]: Debora Aust at [DARE Consulting](https://dareconsulting.de/en/home/) (December 2024), Simon Wilkinson at [Expats in Wonderland](https://www.expatsinwonderland.com/) (January 2024)

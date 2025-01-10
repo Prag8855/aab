@@ -201,7 +201,7 @@ There are two types of self-employed people. They get a different kind of freela
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    When you [apply online](#apply-for-the-freelance-visa), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^75]
+    Include a colour scan of your passport in your application. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^75]
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
