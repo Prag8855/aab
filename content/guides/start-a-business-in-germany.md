@@ -25,9 +25,7 @@ It's not so bad. It's a lot of work in the first year. There is a lot to learn, 
 
 ### Cost of running a business
 
-You must understand the [cost of moving to Berlin](/guides/moving-to-berlin#save-money), the [cost of living](/guides/cost-of-living), and the cost of running a business. This helps you decide how much savings you need, and [how much to charge your clients](#set-your-prices). Your business should cover your cost of living and let you save money for retirement.
-
-To apply for a [freelance visa](/glossary/Freelance%20visa), you must have a few thousand euros in your bank account. It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance visa. Usually, while you wait, you can't work, so you have no income. It's cheaper if you apply for the freelance visa in your home country, and move to Germany once you can start working.
+You must understand the [cost of moving to Berlin](/guides/moving-to-berlin#save-money), the [cost of living](/guides/cost-of-living), and the cost of running a business. This helps you decide how much savings you need, and [how much to charge your clients](#set-your-prices). Your income should cover your cost of living and let you save money for retirement.
 
 {% include "_blocks/taxCalculator.html" %}
 
@@ -53,7 +51,7 @@ Your business must pay these taxes:
 - **[VAT](/glossary/Umsatzsteuer)**  
     You must charge a {{ VAT_RATE }}% tax on your invoices, and give that money to the *[[Finanzamt]]*. Technically, you don't pay VAT; your clients do. [Some businesses](/glossary/Kleinunternehmer) don't need to charge VAT. - [How VAT works](/guides/value-added-tax)
 
-There are other costs:
+There are more costs:
 
 - **Accounting**  
     A tax advisor costs 700€ to 2,000€ per year if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't.[^15] [Accounting software](/guides/german-tax-software) is cheaper and [[ELSTER]] is free, but you must do all the work yourself.
@@ -167,29 +165,13 @@ If you can, join the *[[Künstlersozialkasse]]*. They pay half of your health in
 
 ### Get a residence permit
 
-If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. There is the [freelance visa](/glossary/Freelance%20visa) and [a few other options](/guides/residence-permit#for-self-employment).
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The freelance visa is a residence permit for self-employed people. Other residence permits [sometimes allow self-employment](/guides/residence-permit#for-self-employment). This lets you start your business while you wait for your freelance visa.
 
-It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance visa. [If your current residence permit does not allow self-employment](/guides/residence-permit#for-self-employment), you must wait for your freelance visa.
+It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance visa. You must have clients in Germany, and a few thousand euros in savings.
 
-**[How to get a freelance visa ➞](/guides/freelance-visa)**
-
-If you are not a citizen of the EU, the [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The freelance visa is a residence permit for self-employed people.
-
-It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance visa. Usually, while you wait, you can't work. You need enough savings to live a few months without an income.
-
-Your current residence permit [might allow self-employment](/guides/residence-permit#for-self-employment). This lets you start your business while you wait for your freelance visa.
+[If your current residence permit does not allow self-employment](/guides/residence-permit#for-self-employment), you must wait for your freelance visa. During that time, you can't work. You need enough savings to wait [a few months](/guides/auslanderbehorde-wait-times) without an income. It might be cheaper to get a freelance visa in your home country, before you move to Germany.
 
 **[How to apply for a freelance visa ➞](/guides/freelance-visa)**
-
-### Find a tax advisor
-
-A tax advisor can [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
-
-You need a tax advisor to [renew a freelance visa](/guides/renew-german-freelance-visa). They must prepare and stamp some of the required documents.
-
-It's hard to find a tax advisor. It can take a few weeks.
-
-**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
 ### Set your prices
 
@@ -212,6 +194,16 @@ Usually, you charge higher prices for short contracts. Longer contracts are more
 Ask freelancers in your field how they work. Some industries organise [meetups](https://www.meetup.com/) and presentations for freelancers. It's a good place to learn how the industry works.
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+
+### Find a tax advisor
+
+A tax advisor can [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
+
+You need a tax advisor to [renew a freelance visa](/guides/renew-german-freelance-visa). They must prepare and stamp some of the required documents.
+
+It's hard to find a tax advisor. It can take a few weeks.
+
+**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
 ## Steps to start your business
 
