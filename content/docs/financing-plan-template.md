@@ -10,7 +10,6 @@ Related_guides:
     guides/freelance-visa.md
     guides/start-a-business-in-germany.md
     guides/immigration-office.md
-    guides/self-employment.md
 Categories:
     auslaenderbehoerde
 ---

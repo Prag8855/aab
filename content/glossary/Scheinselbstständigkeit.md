@@ -8,7 +8,6 @@ Date_created: 2018-07-31
 Related_guides:
     guides/start-a-business-in-germany.md
     guides/freelance-visa.md
-    guides/self-employment.md
     guides/ksk-kuenstlersozialkasse.md
 ---
 

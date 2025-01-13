@@ -11,7 +11,6 @@ Related_guides:
     guides/freelance-visa.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md
-    guides/self-employment.md
     guides/german-visa-health-insurance.md
 ---
 

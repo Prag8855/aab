@@ -11,7 +11,6 @@ Related_guides:
     guides/german-tax-software.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/german-versicherungsnummer.md
-    guides/self-employment.md
     guides/freelance-developer-rate.md
     guides/renew-german-freelance-visa.md
 ---

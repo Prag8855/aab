@@ -6,7 +6,6 @@ Description: The chamber of commerce is an organisation that supports business o
 Date_created: 2018-10-02
 Related_guides:
     guides/start-a-business-in-germany.md
-    guides/self-employment.md
     guides/freelance-developer-rate.md
     guides/questions-about-berlin.md
 ---

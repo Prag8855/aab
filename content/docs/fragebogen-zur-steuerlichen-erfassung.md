@@ -9,7 +9,6 @@ Date_created: 2018-03-11
 Related_guides:
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/start-a-business-in-germany.md
-    guides/self-employment.md
 Categories:
     finanzamt
 ---
