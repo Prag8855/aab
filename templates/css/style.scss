@@ -746,16 +746,22 @@ body > header {
     }
 
     .donate{
+        position: relative;
+        margin: var(--l) 0 0;
+        padding: var(--l) 0 0 var(--xl);;
+        border-top: var(--b-box);
+
         &:before{
             content: '';
             display: block;
+            position: absolute;
+            left: 0;
             width: 0.8em;
-            height: 100%;
+            height: calc(1em * var(--line-height-text));
             mask-image: var(--i-heart);
             mask-position: center;
             mask-repeat: no-repeat;
             background-color: var(--c-highlight);
-            left: -0.1em;
             transition: transform 0.2s;
         }
         @media (hover: hover) {

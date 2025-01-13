@@ -52,6 +52,6 @@ I do not answer visa and residence permit questions, because I can't give legal 
 
 ### Donate
 
-This website is my full time job. If my work helped you, [donate a few euros](/donate "Donate to All About Berlin") to support me.
+This website is my full time job. If this website helped you, [donate a few euros](/donate "Donate to All About Berlin") to support my work.
 
 {% include "_blocks/tipJar.html"%}
