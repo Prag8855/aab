@@ -17,7 +17,7 @@ Freelancers (*[[Freiberufler]]*) do not pay the trade tax. [Not all self-employe
 
 ## How much is the trade tax?
 
-In Berlin, trade tax is {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_HEBESATZ_BERLIN }}% of your profit. As a sole proprietor, you get most of it back as tax credits.[^12] In the end **you pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes** in total.
+In Berlin, trade tax is {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_HEBESATZ_BERLIN }}% of your profit.[^1] As a sole proprietor, you get most of it back as tax credits.[^12] In the end **you pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes** in total.
 
 To calculate your trade tax:
 
@@ -68,6 +68,7 @@ When you [start a business in Germany](/guides/start-a-business-in-germany), you
 
 **[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
 
+[^1]: [Berlin.de](https://service.berlin.de/dienstleistung/325333/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)
 [^4]: [§11 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
 [^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
