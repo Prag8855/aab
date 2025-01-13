@@ -112,7 +112,7 @@ Before you apply for the freelance visa...
     - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Don't choose insurance yourself; it's a really bad idea.
+    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -375,6 +375,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305249/) (for tradespeople), [Berlin.de](https://service.berlin.de/dienstleistung/328332/) (for freelancers)
 [^19]: Multiple relocation consultants (October 2023)
 [^20]: [VAB A81.5a.2](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php) (December 2024), [personal experience](/images/temporary-freelance-visa.jpg) (2022)
+[^21]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance) (August 2023)
 [^22]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1872525116549516/) (July 2024)
 [^23]: [§51 Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^24]: [VAB 21.4.1](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)
