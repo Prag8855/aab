@@ -303,6 +303,8 @@ These documents are not required, but some *Ausländerbehörde* employees ask fo
 
 **[What to do after you get your residence permit ➞](/guides/residence-permit#after-you-get-your-permit)**
 
+**[How to start your business ➞](/guides/start-a-business-in-germany)**
+
 ### Give feedback
 
 Tell me how long it took to get your freelance visa. Your feedback helps thousands of people plan their application.
@@ -310,16 +312,6 @@ Tell me how long it took to get your freelance visa. Your feedback helps thousan
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
 **[See other people's feedback ➞](/guides/auslanderbehorde-wait-times)**
-
-### Join the Künstlersozialkasse
-
-**If you are a freelance artist, publicist or art teacher**, join the *[[Künstlersozialkasse]]* after you get your freelance visa. They will pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Rentenversicherung). It's a really good deal.
-
-**[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
-
-### Join VG Wort
-
-**If you publish texts or run a website**, join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
 
 ### Travel with a freelance visa
 

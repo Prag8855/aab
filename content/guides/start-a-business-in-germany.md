@@ -226,6 +226,12 @@ If you are an artist, publicist or art teacher, join the *[[Künstlersozialkasse
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
+### Join VG Wort
+
+If you publish texts or run a website, you should also join [VG Wort](https://www.feiyr.com/en/faq/264/,What-does-the-VG-Wort-do.html). You can earn a few thousand euros per year from your published texts.
+
+**[How VG Wort works ➞](https://www.youtube.com/watch?v=Wg2m9CAaONk)** (in German)
+
 ### Do your taxes
 
 Every year, you must make a [tax declaration](/glossary/Steuererklärung). Remember that most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar): tax advisor, tax software, insurance, transportation, computers, internet, mobile phone, banking fees, part of your rent and a lot more. This reduces your taxable income, so you pay less taxes.
