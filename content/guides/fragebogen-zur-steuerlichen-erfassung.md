@@ -17,7 +17,7 @@ Since 2021, there is no paper form. You must fill this form online.[^0]
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Different ways register your business
+## Different ways to register your business
 
 There are 3 ways to register your business with the *[[Finanzamt]]*:
 

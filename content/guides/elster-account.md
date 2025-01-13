@@ -141,7 +141,7 @@ You are done! Click *Bestätigen und Weiter* to access ELSTER. You can tick the 
 
 ## What to do next
 
-If want to [start a business in Germany](/guides/start-a-business-in-germany), the next step is to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You need your ELSTER account to do this.
+To [start a business in Germany](/guides/start-a-business-in-germany), you must [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung). You usually need your ELSTER account to do this. If you don't have an ELSTER account, there are [other ways to register your business](/guides/fragebogen-zur-steuerlichen-erfassung#different-ways-to-register-your-business).
 
 ## Need help?
 

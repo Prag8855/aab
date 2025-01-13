@@ -164,7 +164,7 @@ You can also ask a [tax advisor](/guides/english-speaking-steuerberater-berlin) 
 
 ## What to do next
 
-The *Gewerbeanmeldung* is not the only step to start a business. You must also [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
+The *Gewerbeanmeldung* is not the only step to start a business. You must also [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 

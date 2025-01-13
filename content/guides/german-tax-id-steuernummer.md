@@ -34,7 +34,7 @@ You need a tax ID to...
 - **[Get a Kitagutschein](/guides/how-to-get-a-kitagutschein)**  
     Your children need a tax ID to get a *[[Kitagutschein]]* and send them to daycare.
 - **[Start a business](/guides/start-a-business-in-germany)**  
-    You need a tax ID to [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
+    You need a tax ID to [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
 
 ### How to get your tax ID
 
