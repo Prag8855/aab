@@ -9,7 +9,7 @@ Related_guides:
     tools/health-insurance-calculator.md
     guides/insurance.md
     guides/german-visa-health-insurance.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/cost-of-living.md
     guides/taxes.md
     tools/tax-calculator.md

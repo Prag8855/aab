@@ -5,7 +5,7 @@ English_term: Legal protection insurance
 Description: Insurance that covers your legal costs if you sue someone or get sued.
 Date_created: 2018-09-28
 Related_guides:
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/haftpflichtversicherung.md
     guides/insurance.md
     guides/mietendeckel-repealed.md

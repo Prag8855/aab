@@ -8,7 +8,7 @@ Date_created: 2018-07-31
 Related_guides:
     guides/start-a-business-in-germany.md
     guides/freelance-visa.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/ksk-kuenstlersozialkasse.md
 ---
 
@@ -16,8 +16,8 @@ Some employers hire employees, but treat them like freelancers to avoid paying s
 
 Generally, you are not self-employed if...[^0]
 
-- You only have one client.
-- You are integrated in your client's business.
+- You only have one client for a long time.
+- You are integrated in your client's business. You have a company email, company business cards, a uniform, etc.
 - You always work at the same location. You can't choose where you work.
 - You have a fixed salary.
 - You do not use your own equipment.

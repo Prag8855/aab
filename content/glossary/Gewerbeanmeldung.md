@@ -8,7 +8,7 @@ Related_guides:
     guides/freiberufler-or-gewerbe.md
     guides/website-freiberuf-or-gewerbe.md
     guides/start-a-business-in-germany.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/gewerbeschein.md

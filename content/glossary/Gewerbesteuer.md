@@ -12,7 +12,7 @@ Related_guides:
     guides/freiberufler-or-gewerbe.md
     guides/start-a-business-in-germany.md
     guides/website-compliance-germany.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/freelance-developer-rate.md
 ---
 

@@ -9,7 +9,7 @@ Related_reviews:
 
 This guide explains how to start a business in Germany, step by step.
 
-**This guide is for people who live in Germany.** If you want to move to Germany and become a freelancer, read [this guide](/guides/become-a-freelancer-in-germany) first.
+**This guide is for people who live in Germany.** If you want to move to Germany and become a freelancer, read [this guide](/guides/self-employment) first.
 
 This guide explains how to form a single proprietorship (*Einzelunternehmen*), not a corporation or a limited liability company (*UG* or *GmbH*).
 
@@ -126,7 +126,7 @@ Sometimes, they freeze your account by mistake. It happened to me, and to other 
 
 ### Find a tax advisor
 
-A tax advisor can [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
+A tax advisor can [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
 
 You need a tax advisor to [renew a freelance visa](/guides/renew-german-freelance-visa). They must prepare and stamp some of the required documents.
 

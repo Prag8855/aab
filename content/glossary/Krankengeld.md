@@ -7,7 +7,7 @@ Date_created: 2020-03-04
 Related_guides:
     guides/vacation-days.md
     guides/sick-leave.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
 ---
 
 If you are an employee, you get sick pay (*Krankengeld*) when you are too sick to work. For the first 6 weeks, you are paid your full salary. After 6 weeks, you only get 70% of your salary.[^0]

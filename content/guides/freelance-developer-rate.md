@@ -5,7 +5,7 @@ Description: Detailed information about what to charge your freelance client. Th
 Date_created: 2018-09-14
 ---
 
-If you want to [become a freelancer in Germany](/guides/become-a-freelancer-in-germany), you must know how much you should charge.
+If you want to [become a freelancer in Germany](/guides/self-employment), you must know how much you should charge.
 
 This guide helps you set your rates as a freelance software developer in Berlin.
 

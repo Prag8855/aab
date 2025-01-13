@@ -10,7 +10,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/freelance-visa-letter-of-intent.md
     guides/german-work-visa-to-freelance-visa.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/residence-permit.md
 Categories:
     auslaenderbehoerde

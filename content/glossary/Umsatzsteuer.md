@@ -10,7 +10,7 @@ Related_guides:
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/german-tax-id-steuernummer.md
     guides/website-compliance-germany.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/freelance-developer-rate.md
 ---
 

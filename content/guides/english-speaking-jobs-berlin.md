@@ -45,7 +45,7 @@ Many businesses need English speakers and copywriters to manage their website an
 
 ## Teaching English in Berlin
 
-**If you want to teach English in Berlin,** it is very hard. If you are not certified, and don't speak German, it's very hard.[^0] The local English teachers association ([ELTABB](https://eltabb.com/)) has more resources. You can also teach English online, but if you are self-employed, you might need to [register as a freelancer](/guides/become-a-freelancer-in-germany).
+**If you want to teach English in Berlin,** it is very hard. If you are not certified, and don't speak German, it's very hard.[^0] The local English teachers association ([ELTABB](https://eltabb.com/)) has more resources. You can also teach English online, but if you are self-employed, you might need to [register as a freelancer](/guides/self-employment).
 
 You can also be an [au pair](/glossary/Au%20pair). I know many au pairs who did not speak German when they started working in Germany.
 
@@ -55,6 +55,6 @@ If you are self-employed, you can work for English-speaking clients in other cou
 
 If you need a [freelance visa](/glossary/Freelance%20visa) to work in Germany, you must have some German clients. If you don't have clients in Germany, you will not get a freelance visa.
 
-**[How to move to Berlin and become a freelancer ➞](/guides/become-a-freelancer-in-germany)**
+**[How to move to Berlin and become a freelancer ➞](/guides/self-employment)**
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/91hekq/work_teaching_english_part_time/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/d6h03/deleted_by_user/c19azir/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/yh082/hows_the_job_market_in_berlin/c5vlmvp/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/91hekq/work_teaching_english_part_time/)

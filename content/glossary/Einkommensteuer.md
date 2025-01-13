@@ -10,7 +10,7 @@ Related_guides:
     tools/tax-calculator.md
     guides/salaries-in-germany.md
     guides/anmeldung-in-english-berlin.md
-    guides/become-a-freelancer-in-germany.md
+    guides/self-employment.md
     guides/gewerbesteuer.md
 ---
 
