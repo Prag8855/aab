@@ -233,7 +233,7 @@ They must print your plastic residence card. This takes [around 8 weeks](/guides
 
 You will get a document that confirms that your residence permit was approved. With that document, **you can start working or studying**.[^45] It's not a valid travel document, so you can't use it to leave and re-enter Germany.
 
-Ask for a *[[Fiktionsbescheinigung]]*. It allows you to travel with an expired residence permit. If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
+Ask for a *[[Fiktionsbescheinigung]]*. It allows you to [travel with an expired residence permit](#travel-with-an-expired-residence-permit). If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
 ### 5. Pick up your residence card
 
@@ -468,6 +468,8 @@ While you wait for your first residence permit, you can't work or study.
 **If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.
 
 ### Travel with an expired residence permit
+
+If you leave Germany with an expired residence permit, they might not let you re-enter Germany. A *[[Fiktionsbescheinigung]]* lets you travel with an expired residence permit.
 
 **[How the Fiktionsbescheinigung works ➞](/guides/fiktionsbescheinigung)**
 
