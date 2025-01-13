@@ -14,7 +14,7 @@ The freelance visa is a [residence permit](/glossary/Aufenthaltstitel) for self-
 With a freelance visa, you can...
 
 - Live anywhere in Germany
-- [Start a business](/guides/start-a-business-in-germany) or [become a freelancer](/guides/self-employment)
+- [Start a business](/guides/start-a-business-in-germany) or become a freelancer
 - Bring your family to Germany[^14]
 - Visit other [Schengen countries](/glossary/Schengen%20area) without a visa[^13]
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 3 to 5 years[^10]
@@ -22,7 +22,7 @@ With a freelance visa, you can...
 
 The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is exactly the same.
 
-This guide explains how to apply for a freelance visa in Berlin or in your home country. You should also learn [how to become a freelancer](/guides/self-employment).
+This guide explains how to apply for a freelance visa in Berlin or in your home country.
 
 {% include "_blocks/tableOfContents.html" %}
 

@@ -7,9 +7,7 @@ Related_reviews:
     reviews/start-a-business-in-germany/alexander-baron-von-engelhardt.md
 ---
 
-This guide explains how to start a business in Germany, step by step.
-
-**This guide is for people who live in Germany.** If you want to move to Germany and become a freelancer, read [this guide](/guides/self-employment) first.
+This guide explains how to start a business and become self-employed in Germany, step by step.
 
 This guide explains how to form a single proprietorship (*Einzelunternehmen*), not a corporation or a limited liability company (*UG* or *GmbH*).
 

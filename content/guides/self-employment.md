@@ -148,7 +148,7 @@ There are many ways to do tax and VAT declarations:
 
 Use a tax advisor until you understand the system better. Tax advisors are expensive. If you have a simple business, you can use accounting software instead. I use [LexOffice](/out/lexoffice), but it's only in German.
 
-You also need a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa). They must prepare some of the required documents for you.
+You need a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa). They must prepare some of the required documents for you.
 
 **[How to find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
 
