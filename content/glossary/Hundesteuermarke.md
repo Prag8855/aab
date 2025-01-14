@@ -9,7 +9,7 @@ Related_guides:
     guides/taxes.md
 ---
 
-Before 2024, you got a special dog tag when you registered your dog at the *Finanzamt*. You do not need a *Hundesteuermarke* any more.[^1]
+Before 2024, you got a special dog tag when you registered your dog with the *Finanzamt*. You do not need a *Hundesteuermarke* any more.[^1]
 
 ![Berlin Hundesteuermarke](/images/hundesteuermarke-berlin.jpg)
 
