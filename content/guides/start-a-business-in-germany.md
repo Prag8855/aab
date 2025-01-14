@@ -7,7 +7,7 @@ Related_reviews:
     reviews/start-a-business-in-germany/alexander-baron-von-engelhardt.md
 ---
 
-This guide explains how to become a freelancer or start a business in Germany.
+This guide explains how to start a business or become a freelancer in Germany.
 
 It explains how to form a single proprietorship (*Einzelunternehmen*), not a corporation or a limited liability company (*UG* or *GmbH*).
 
@@ -15,68 +15,36 @@ It explains how to form a single proprietorship (*Einzelunternehmen*), not a cor
 
 ## What to expect
 
-### Is it hard?
+### How hard is it?
 
-It's not so bad. It's a lot of work in the first year. There is a lot to learn, and a lot of paperwork to do. You must be organised. After a year or two, it gets easier.
+It's not so bad. When you start, there is a lot to learn, and there is a lot of paperwork to do. After one or two years, it gets easier.
 
-**If you don't speak German**, it's much harder. You will need a lot of help. Important letters, online information and official forms are only in German. Most [[Bürgeramt]], [[Ausländerbehörde]] and [[Finanzamt]] employees only speak German. If you have a problem, you must speak German to solve it.
+If you don't speak German, it's harder. Most services, forms, letters and websites are only in German. You will need help to write emails, make phone calls and go to appointments.
 
-**If you need a [residence permit](/glossary/Aufenthaltstitel)** to live in Germany, it's harder. You must apply for a [freelance visa](/glossary/Freelance%20visa). It takes [a few months](/guides/auslanderbehorde-wait-times). It adds costs, delays and paperwork. Your current residence permit [might allow part-time self-employment](/guides/residence-permit#for-self-employment), but for full-time self-employment, you usually need a freelance visa.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. This adds costs, delays and paperwork.
 
 ### Cost of running a business
 
-You must understand the [cost of moving to Berlin](/guides/moving-to-berlin#save-money), the [cost of living](/guides/cost-of-living), and the cost of running a business. This helps you decide how much savings you need, and [how much to charge your clients](#set-your-prices). Your income should cover your cost of living and let you save money for retirement.
+Plan the cost of running your business. It helps you decide how much savings you need, and how much to charge your clients.
 
-{% include "_blocks/taxCalculator.html" %}
-
-As a German resident, you must pay these taxes:
-
-- [Income tax](/glossary/Einkommensteuer)
-- [Health insurance](/glossary/Krankenversicherung) and [nursing care insurance](/glossary/Pflegeversicherung)
-- [Church tax](/glossary/Kirchensteuer)
-- [Solidarity surcharge](/glossary/Solidaritätszuschlag)
-- [Unemployment insurance](/glossary/Arbeitslosenversicherung) (optional)
-- [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung) (optional)
-
-Unemployment and pension insurance are optional. If you don't pay for it, you don't get unemployment benefits, and you must plan for your own retirement.
-
-**[How taxes work in Germany ➞](/guides/taxes)**
-
-Your business must pay these taxes:
-
-- **[Trade tax](/glossary/Gewerbesteuer)**  
-    If you run a *[[Gewerbe]]*, you must pay the trade tax (*[[Gewerbesteuer]]*). In Berlin, it costs {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% tax on all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year. If you are a *[[Freiberufler]]*, you don't pay the trade tax. - [How the trade tax works](/guides/gewerbesteuer)
-- **[[IHK]] membership**  
-    If you run a *[[Gewerbe]]* in Berlin, you must join the [[IHK]] and pay the membership fee. It costs a few hundred euros per year. - [Fee calculator](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
-- **[VAT](/glossary/Umsatzsteuer)**  
-    You must charge a {{ VAT_RATE }}% tax on your invoices, and give that money to the *[[Finanzamt]]*. Technically, you don't pay VAT; your clients do. [Some businesses](/glossary/Kleinunternehmer) don't need to charge VAT. - [How VAT works](/guides/value-added-tax)
-
-There are more costs:
-
-- **Accounting**  
-    A tax advisor costs 700€ to 2,000€ per year if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't.[^15] [Accounting software](/guides/german-tax-software) is cheaper and [[ELSTER]] is free, but you must do all the work yourself.
-- **Tools**  
-    You must buy your own equipment, and get your own office space.
-
-### Value Added Tax (VAT)
-
-Value added tax (VAT or *[[Umsatzsteuer]]*) is a {{VAT_RATE}}% tax on goods and services. Usually, you must charge VAT on your invoices, and you pay VAT on your expenses.
-
-If you receive more VAT than you give, you must give the extra money to the *[[Finanzamt]]*. If you give more VAT than you receive, the Finanzamt gives you the difference back. You don't win or lose any money with VAT.
-
-**[How VAT works in Germany ➞](/guides/value-added-tax)**
-
-Small businesses (*[[Kleinunternehmer]]*) can choose not to charge VAT. It simplifies things, but [it's not always a good idea](/guides/kleinunternehmer#should-you-be-a-kleinunternehmer).
-
-**[How being a Kleinunternehmer works ➞](/guides/kleinunternehmer)**
-
-### Other business expenses
-
-If you run a business, you can get insurance against disability, lawsuits, mistakes, and other problems. This is optional. You could also need tools, equipment and office space.
-
-**[Types of insurance in Germany ➞](/guides/insurance)**
-
-You can deduct all of your business expenses. This allows you to pay less [income tax](/glossary/Einkommensteuer).
+- **[Cost of living in Berlin](/guides/cost-of-living)**  
+    Don't forget the [cost of moving to Berlin](/guides/moving-to-berlin#save-money).
+- **Personal taxes**  
+    Use my [tax calculator](/tools/tax-calculator). Set your occupation to "self-employed".
+- **Business taxes**
+    - **[Trade tax](/glossary/Gewerbesteuer)**  
+        In Berlin, it costs {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year. If you are a *[[Freiberufler]]*, you don't pay the trade tax. - [How the trade tax works](/guides/gewerbesteuer)
+    - **[Value-added tax (VAT)](/glossary/Umsatzsteuer)**  
+        You must charge a {{ VAT_RATE }}% tax on your invoices, and give that money to the *[[Finanzamt]]*. You don't pay VAT, your clients do, but it still raises your prices. [Some businesses](/glossary/Kleinunternehmer) don't need to charge VAT. - [How VAT works](/guides/value-added-tax)
+    - **[[IHK]] membership**  
+        In Berlin, if you have a *[[Gewerbe]]*, you must join the [[IHK]]. The membership fee is a few hundred euros per year. - [Membership fee calculator](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
+- **Business expenses**
+    - **Accounting**  
+        A tax advisor costs 700€ to 2,000€ per year if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't.[^15] [Accounting software](/guides/german-tax-software) is cheaper and [[ELSTER]] is free, but you must do all the work yourself.
+    - **Equipment and office space**  
+        Most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
+- **Retirement savings**  
+    By default, self-employed people don't get a public pension. You must make voluntary public pension contributions, get a private pension, or make your own retirement plans.
 
 ### Accounting
 
@@ -84,16 +52,16 @@ Every year, you must make a [tax declaration](/glossary/Steuererklärung). This 
 
 You will probably need to charge [VAT](/glossary/Umsatzsteuer) on your invoices. If you charge VAT, you must make monthly, quarterly or yearly [VAT declarations](/glossary/Umsatzsteuervoranmeldung), depending on your income.
 
-There are many ways to do tax and VAT declarations:
+There are many ways to do income tax and VAT declarations:
 
-- Hire a [tax advisor](/glossary/Steuerberater)
+- Hire a [tax advisor](/glossary/Steuerberater){% include '_blocks/recommended.html' %}
 - Use [accounting software](/guides/german-tax-software)
 - Use a business bank with accounting features
 - Do this yourself in [[ELSTER]]
 
-Use a tax advisor until you understand the system better. Tax advisors are expensive. If you have a simple business, you can use accounting software instead. I use [LexOffice](/out/lexoffice), but it's only in German.
+A [tax advisor](/glossary/Steuerberater) makes everything easier, but they are expensive and hard to find. Accounting software is cheaper, but you must do everything yourself. Use a tax advisor until you understand the system better.
 
-You need a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa). They must prepare some of the required documents for you.
+You also need a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa). They must prepare some of the required documents for you.
 
 **[How to find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
 
@@ -110,26 +78,55 @@ Generally, you are not self-employed if...
 - You only have one client for a long time.
 - You are integrated in your client's business. You have a company email, company business cards, a uniform, etc.
 - You always work at the same location. You can't choose where you work.
-- You have a fixed salary.
+- You have a fixed schedule and a fixed salary.
 - You do not use your own equipment.
 
-Fake self-employment is a bad deal. You have no job security. You get no paid [sick leave](/guides/sick-leave), no public pension and no unemployment benefits. You will not get a [freelance visa](/glossary/Freelance%20visa) for fake self-employment.
+Pseudo self-employment is a bad deal for you. You have no job security. You get no paid [sick leave](/guides/sick-leave), no public pension and no unemployment benefits. You will not get a [freelance visa](/glossary/Freelance%20visa) for fake self-employment.
 
 **[What is fake self-employment? ➞](https://redtapetranslation.com/do-i-need-to-be-worried-about-scheinselbststandigkeit/)**
 
+### Are you a Freiberufler or a Gewerbe?
+
+There are two kinds of self-employed people: freelancers (*[[Freiberufler]]*) and tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). **The difference is important.**
+
+Tradespeople must...
+
+- [Get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*)
+- [Pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*)
+- Get listed in the *Handelsregister* ([in some cases](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry))
+- Use double entry bookkeeping ([in some cases](/guides/freiberufler-or-gewerbe#double-entry-bookkeeping))
+
+When you [apply for a freelance visa](/guides/freelance-visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the required documents are different for *Freiberufler* and *Gewerbetreibende*
+
+Not all freelancers are *Freiberufler*, only people in [specific professions](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8). For example, designers, engineers, doctors, architects, teachers, artists and journalists.
+
+**[Freiberufler or Gewerbe, what's the difference? ➞](/guides/freiberufler-or-gewerbe)**
+
+### Understand how VAT works
+
+Value added tax (VAT or *[[Umsatzsteuer]]*) is a {{VAT_RATE}}% tax on goods and services. Usually, you must charge VAT on your invoices, and pay VAT on your expenses.
+
+If you receive more VAT than you give, you must give the extra money to the *[[Finanzamt]]*. If you give more VAT than you receive, the Finanzamt gives you the difference back. You don't win or lose any money with VAT.
+
+**[How VAT works in Germany ➞](/guides/value-added-tax)**
+
+Small businesses (*[[Kleinunternehmer]]*) can choose not to charge VAT. It makes accounting easier, but [it's not always a good idea](/guides/kleinunternehmer#should-you-be-a-kleinunternehmer).
+
+**[How being a Kleinunternehmer works ➞](/guides/kleinunternehmer)**
+
 ### Register your address
 
-In Germany, you must [register your address](/guides/anmeldung-in-english-berlin) every time you move. It's called the *[Anmeldung](/guides/anmeldung-in-english-berlin)*.
+In Germany, you must register your address. This is called the *[Anmeldung](/guides/anmeldung-in-english-berlin)*, and it's very important.
 
-When you register your address for the first time, you get a tax ID (*[[Steueridentifikationsnummer]]*). You need a registered address and a tax ID to [create an ELSTER account](/guides/elster-account) and [register your business at the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).
+When you register your address for the first time, you get a [tax ID](/glossary/Steueridentifikationsnummer). You need a registered address and a tax ID to [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung), and to access many government services. You might also need a registered address to apply for a [freelance visa](/glossary/Freelance%20visa).
 
-**[How to register your address in Berlin ➞](/guides/anmeldung-in-english-berlin)**
+Some temporary apartments don't let you register your address. This will make your life much harder. It's really hard to start a business without a registered address. Always choose an apartment where you can register.
 
-**[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id)**
+**[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
 ### Open a bank account
 
-You need a bank account to pay taxes, pay for health insurance, and to get paid by your customers. You can use any European bank.[^0]
+You need a bank account to pay taxes, pay for health insurance, and to get paid by your customers. You can use any European bank.[^0] A German bank with a German [[IBAN]] might look more serious.
 
 **Use a separate bank account** for your business. Bookkeeping is easier when your personal and business transactions are separate. Some banks don't let you use your personal account for business.[^2]
 
@@ -151,23 +148,23 @@ In Germany, you *must* have [health insurance](/glossary/Krankenversicherung). I
 
 As a freelancer, **never choose health insurance yourself**. It's a terrible idea. Freelancers often get stuck with bad or expensive health insurance. [Freelance visa](/glossary/Freelance%20visa) applications are often rejected because of invalid health insurance.
 
-Talk with a health insurance broker. They will help you choose the best insurance. It's completely free.
+Talk with a health insurance broker. They will help you choose the best insurance. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-I usually recommend [Feather Insurance](/out/feather). I work with them since 2018. They helped me switch to private insurance and save over 400€ *per month*. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with immigrants.
+I work with [Feather Insurance](/out/feather) since 2018. They helped me switch to private insurance and save over 400€ per month. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with immigrants.
+
+**Join the [[Künstlersozialkasse]]** if you can. They pay half of your health insurance. It's a really good deal. You can do this later.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-**[Health insurance for the freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
-
-If you can, join the *[[Künstlersozialkasse]]*. They pay half of your health insurance. It's a really good deal. You can do this later.
-
 ### Get a residence permit
 
-If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The freelance visa is a residence permit for self-employed people. Other residence permits [sometimes allow self-employment](/guides/residence-permit#for-self-employment). This lets you start your business while you wait for your freelance visa.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The freelance visa is a residence permit for self-employed people.
 
 It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance visa. You must have clients in Germany, and a few thousand euros in savings.
+
+Other residence permits [sometimes allow self-employment](/guides/residence-permit#for-self-employment). This lets you start your business while you wait for your freelance visa.
 
 [If your current residence permit does not allow self-employment](/guides/residence-permit#for-self-employment), you must wait for your freelance visa. During that time, you can't work. You need enough savings to wait [a few months](/guides/auslanderbehorde-wait-times) without an income. It might be cheaper to get a freelance visa in your home country, before you move to Germany.
 
@@ -175,19 +172,15 @@ It takes [a few months](/guides/auslanderbehorde-wait-times) to get a freelance 
 
 ### Set your prices
 
-You must decide how much you will charge your clients.
-
-If you are self-employed, **you must earn more than an employee** to get the same [net income](/glossary/Netto%20income) and benefits. Your health insurance, pension insurance and unemployment insurance are twice as expensive, because your employer does not pay half of it.
-
 As a freelancer, you get no [paid vacations](/guides/vacation-days), [holidays](/guides/public-holidays) or [sick days](/guides/sick-leave). If you don't work, you don't get paid. You only work around 210 days per year, excluding weekends, holidays and vacation days.[^1] You also do a lot of unpaid work like accounting, marketing, paperwork and maintenance.
 
-You must also pay for your taxes, health insurance and your retirement. That's up to half of your income. You must also pay for your tools and office space.
+You must also pay for your taxes, health insurance and your retirement. It costs up to half of your income. You must also pay for your tools and office space.
 
 This is why you must **charge more than employees**. Take the hourly rate you would make as an employee, and double it.[^8] This is not a reliable rule, but it's a good start.
 
 **[Income survey for solo freelancers ➞](https://www.so-los.de/material/SO_LOS-Ergebnisse.pdf)**{{ fail_on('2026-01-01') }}
 
-Usually, you charge higher prices for short contracts. Longer contracts are more stable, and have less overhead. You spend less time finding clients, interviewing and writing contracts. In some industries, you charge clients per day, not per hour.[^7] If you get this wrong, it can look unprofessional.
+Freelancers usually charge higher prices for short contracts. Longer contracts are more stable, and have less overhead. You spend less time finding clients, interviewing and writing contracts. In some industries, you charge clients per day, not per hour.[^7] If you get this wrong, it can look unprofessional.
 
 [If you charge VAT](/guides/value-added-tax), you must usually include it in your prices. [[B2C]] clients expect [VAT](/glossary/Umsatzsteuer) to be included in the price. [[B2B]] clients expect VAT to be excluded.[^14]
 
@@ -197,34 +190,21 @@ Ask freelancers in your field how they work. Some industries organise [meetups](
 
 ### Find a tax advisor
 
-A tax advisor can [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung) and [at the *Gewerbeamt*](/guides/gewerbeschein), and prepare your [tax declarations](/glossary/Steuererklärung). They make accounting easier, and they prevent expensive mistakes.
+Tax advisors are worth it. They handle your taxes and most of your paperwork. They can prevent expensive mistakes, and solve problems with the *[[Finanzamt]]*. You *must* have a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa).
 
-You need a tax advisor to [renew a freelance visa](/guides/renew-german-freelance-visa). They must prepare and stamp some of the required documents.
+A tax advisor costs **700€ to 2,000€ per year** if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't. The prices vary a lot. The only way to know is to call and ask.
 
-It's hard to find a tax advisor. It can take a few weeks.
+Tax software is cheaper than a tax advisor. [Sorted](/out/sorted-taxes) and [Lexware Office](/out/lexoffice) help with invoicing and VAT reporting. You can do your tax declaration in [[ELSTER]]. I use Lexware Office for all of my bookkeeping, but I still have a tax advisor.
 
-**[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+**[Find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
+
+**[Find accounting software ➞](/guides/german-tax-software)**
+
+Some banks like [Qonto](/out/qonto), [Holvi](/out/holvi) and [Kontist](/out/kontist) can also make your accounting easier. I use Kontist as my business bank.
 
 ## Steps to start your business
 
-### 1. Know if you are a Freiberufler or a Gewerbe
-
-There are two kinds of self-employed people: freelancers (*[[Freiberufler]]*) and tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). **The difference is important.**
-
-Tradespeople must...
-
-- [Get a trade licence](/guides/gewerbeschein) (*[[Gewerbeschein]]*)
-- [Pay the trade tax](/guides/gewerbesteuer) (*[[Gewerbesteuer]]*)
-- Get listed in the *Handelsregister* ([in some cases](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry))
-- Use double entry bookkeeping ([in some cases](/guides/freiberufler-or-gewerbe#double-entry-bookkeeping))
-
-When you [apply for a freelance visa](/guides/freelance-visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the required documents are different for *Freiberufler* and *Gewerbetreibende*
-
-Not all freelancers are *Freiberufler*, only people in [specific professions](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8). For example, designers, engineers, doctors, architects, teachers, artists and journalists.
-
-**[Freiberufler or Gewerbe, what's the difference? ➞](/guides/freiberufler-or-gewerbe)**
-
-### 2. Get a trade licence
+### 1. Get a trade licence
 
 If you register as a *[[Gewerbe]]*, you must get a trade licence (*[[Gewerbeschein]]*) before you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) with the *[[Finanzamt]]*.
 
@@ -236,7 +216,7 @@ You can start working before you get your *Gewerbeschein*.[^5]
 
 **[How to get a trade licence in Berlin ➞](/guides/gewerbeschein)**
 
-### 3. Register with the Finanzamt
+### 2. Register with the Finanzamt
 
 The next step is to declare your business to the *[[Finanzamt]]*. You must [fill the *Fragebogen zur steuerlichen Erfassung*](/guides/fragebogen-zur-steuerlichen-erfassung) online. It takes 5 to 7 weeks,[^9] including 1 week to [create an ELSTER account](/guides/elster-account).
 
@@ -246,23 +226,7 @@ You should register with the *Finanzamt* as soon as possible, but you don't need
 
 **[How to register a business in Germany ➞](/guides/fragebogen-zur-steuerlichen-erfassung)**
 
-### 4. Tell your health insurer
-
-If you already have [health insurance](/glossary/Krankenversicherung), tell your insurance company that you will be self-employed.
-
-When you are an employee, health insurance payments are taken from your salary. If you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
-
-Health insurance for freelancers is more expensive, because your employer does not pay half of it.
-
-{% include '_blocks/healthInsuranceCalculator.html' %}
-
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the cost of your insurance depends on your income. Since you don't know your future income, they use your *estimated* income. If you pay too much for insurance, you will get a refund later. If you don't pay enough, you will get an invoice later.
-
-If you are self-employed, [private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper. Since I switched to private, I save over 400€ per month, and I have *better* coverage. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it. It's not a simple decision.
-
-**[How to choose health insurance ➞](/guides/german-health-insurance)**
-
-### 5. Get financial help
+### 3. Get financial help
 
 The state can help you start a business. There are many options:
 
@@ -279,27 +243,33 @@ The state can help you start a business. There are many options:
 
 You can apply for a training voucher, initial funding and an investment grant at the *[[Agentur für Arbeit]]* or the *[[Jobcenter]]*. You might not get a training voucher if you don't qualify for [unemployment benefits](/glossary/ALG%20I).[^12]
 
-### Tax advisor and bookkeeping
-
-Tax advisors are worth it. They handle your taxes and most of your paperwork. They can prevent expensive mistakes, and solve problems with the *[[Finanzamt]]*. You *must* have a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa).
-
-A tax advisor costs **700€ to 2,000€ per year** if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't. The prices vary a lot. The only way to know is to call and ask.
-
-Tax software is cheaper than a tax advisor. [Sorted](/out/sorted-taxes) and [Lexware Office](/out/lexoffice) help with invoicing and VAT reporting. You can do your tax declaration in [[ELSTER]]. I use Lexware Office for all of my bookkeeping, but I still have a tax advisor.
-
-**[List of English-speaking tax advisors ➞](/guides/english-speaking-steuerberater-berlin)**
-
-**[List of German tax software ➞](/guides/german-tax-software)**
-
-Some banks like [Qonto](/out/qonto), [Holvi](/out/holvi) and [Kontist](/out/kontist) can also make your accounting easier. I use Kontist as my business bank.
-
 ## What to do next
+
+### Tell your health insurer
+
+If you already have [health insurance](/glossary/Krankenversicherung), tell your insurance company that you will be self-employed.
+
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the cost of your insurance depends on your income. Health insurance for freelancers is twice as expensive, because your employer does not pay half of it.
+
+{% include '_blocks/healthInsuranceCalculator.html' %}
+
+Since you don't know your future income, they use your *estimated* income. If you pay too much for insurance, you will get a refund later. If you don't pay enough, you will get an invoice later.
+
+When you are an employee, health insurance payments are taken from your salary. When you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
+
+[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. For example, I save over 400€ per month, and I have *better* coverage. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it. It's not a simple decision.
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 ### Update your website
 
 If you have a website, it must follow German and European laws. If you make a mistake, you can get an *[[Abmahnung]]* and waste a lot of money.
 
 **[How to run a website in Germany ➞](/guides/website-compliance-germany)**
+
+### Do your taxes
+
+Every year, you must make a [tax declaration](/glossary/Steuererklärung). Remember that most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar): tax advisor, tax software, insurance, transportation, computers, internet, mobile phone, banking fees, part of your rent and a lot more. This reduces your taxable income, so you pay less taxes.
 
 ### Get legal insurance
 
@@ -344,10 +314,6 @@ Employees automatically save for a retirement, but freelancers don't. You must p
 There is no easy way to do this, especially for immigrants. You might need a flexible pension, in case you want to cash out sooner, become an employee, or leave Germany.
 
 A financial advisor can help you choose a pension. Usually, they are paid by commission. In my experience, many of them are not honest. Seamus at [Horizon65](/out/horizon65) is the only financial advisor I trust.
-
-### Do your taxes
-
-Every year, you must make a [tax declaration](/glossary/Steuererklärung). Remember that most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar): tax advisor, tax software, insurance, transportation, computers, internet, mobile phone, banking fees, part of your rent and a lot more. This reduces your taxable income, so you pay less taxes.
 
 ## Need help?
 
