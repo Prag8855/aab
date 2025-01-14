@@ -634,9 +634,9 @@ config.context_globals = {
     # ==============================================================================
 
     # (%)
-    "FUNDSBACK_FEE": '9.9',
-    "FUNDSBACK_MIN_FEE": 899,
-    "FUNDSBACK_MAX_FEE": 2899,
+    "FUNDSBACK_FEE": '9.405',
+    "FUNDSBACK_MIN_FEE": '854.05',
+    "FUNDSBACK_MAX_FEE": '2754.05',
     "GERMANYPENSIONREFUND_FEE": '9.75',
     "PENSIONREFUNDGERMANY_FEE": '10',
     "PENSIONREFUNDGERMANY_MAX_FEE": 2800,
