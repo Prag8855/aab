@@ -251,6 +251,9 @@ Vue.component('feedback-residence-permit', {
 							<option disabled hidden default :value="null">Choose a residence permit</option>
 							<option v-for="(name, key) in residencePermitTypes" :key="key" :value="key" v-text="name.capitalized"></option>
 						</select>
+						<span class="input-instructions">
+							Which residence permit did you apply for?
+						</span>
 					</div>
 					<div class="form-group required">
 						<label :for="uid('department')">Department</label>

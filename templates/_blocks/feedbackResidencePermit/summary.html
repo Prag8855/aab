@@ -1,7 +1,7 @@
 <p>
 	In Berlin, it takes <strong v-text="totalWaitRange">a few months</strong> to get a <span v-text="residencePermitName.normal">residence permit</span>.
 	The average wait time is <span v-text="totalWaitAverage">unknown</span>.
-	Wait times vary by department<span v-if="!residencePermitType">&nbsp;and residence permit type</span>.
+	Wait times vary by <a href="/guides/immigration-office#departments">department</a><span v-if="!residencePermitType">&nbsp;and residence permit type</span>.
 </p>
 {% include "_blocks/feedbackResidencePermit/filters.html"%}
 {% raw %}
