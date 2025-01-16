@@ -14,4 +14,4 @@ Techniker Krankenkasse (or TK) is the largest [public health insurance](/glossar
 
 **[My review of Techniker Krankenkasse ➞](/guides/techniker-krankenkasse-review)**
 
-**[Sign up with Techniker Krankenkasse ➞](/out/signup-tk)**
+**[Sign up with Techniker Krankenkasse ➞](/out/feather-tk)**

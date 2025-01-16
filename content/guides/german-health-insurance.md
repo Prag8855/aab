@@ -108,7 +108,7 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 **It does not really matter.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15]
 
-If you don't speak German, [Techniker Krankenkasse](/out/signup-tk) and [Barmer](/out/barmer) speak English. I used [Techniker Krankenkasse](/out/signup-tk) for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
+If you don't speak German, [Techniker Krankenkasse](/out/feather-tk) and [Barmer](/out/barmer) speak English. I used [Techniker Krankenkasse](/out/feather-tk) for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
 
 [Ask an expert](#insurance-brokers) to help you choose. Their help is free.
 

@@ -25,9 +25,9 @@ Your health insurance contributions depend on your income, and your situation. A
 
 ## Does TK offer support in English?
 
-**Yes, but not officially.** You can sign up in English on TK's [English website](https://www.tk.de/en) (or use [this simple form](/out/signup-tk)), but the rest of the website is only in German. The members area (*Meine TK*) is only in German. All the letters you get are in German. If they need something from you, they ask in German. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/die-app-der-tk-2023650) is available in English. It has the same features as the TK website.
+**Yes, but not officially.** You can sign up in English on TK's [English website](https://www.tk.de/en) (or use [this simple form](/out/feather-tk)), but the rest of the website is only in German. The members area (*Meine TK*) is only in German. All the letters you get are in German. If they need something from you, they ask in German. The [TK app](https://www.tk.de/techniker/magazin/digitale-gesundheit/apps/die-app-der-tk-2023650) is available in English. It has the same features as the TK website.
 
-TK does have English phone and chat support, so you can always get help in English. If English support is important to you, [TK](/out/signup-tk) and [Barmer](/out/barmer) are your best options. Barmer also has an English phone line,[^1] but it's a little more expensive.
+TK does have English phone and chat support, so you can always get help in English. If English support is important to you, [TK](/out/feather-tk) and [Barmer](/out/barmer) are your best options. Barmer also has an English phone line,[^1] but it's a little more expensive.
 
 ## My personal experience with TK
 
@@ -134,9 +134,9 @@ In 2021, I switched to private health insurance. I was still very happy with TK,
 
 ## How to sign up with TK
 
-If you want be insured with the Techniker Krankenkasse, fill [this simplified form](/out/signup-tk). It takes 10 minutes, and [Feather](/out/feather) takes care of the rest. Feather is an English-speaking health insurance broker in Berlin. I work with them since a long time and I trust them.
+If you want be insured with the Techniker Krankenkasse, fill [this simplified form](/out/feather-tk). It takes 10 minutes, and [Feather](/out/feather) takes care of the rest. Feather is an English-speaking health insurance broker in Berlin. I work with them since a long time and I trust them.
 
-**[Sign up with Techniker Krankenkasse](/out/signup-tk)**
+**[Sign up with Techniker Krankenkasse](/out/feather-tk)**
 
 You can also go through the process yourself [on the TK website](https://www.tk.de/en/tk-membership/become-a-member-2037070). They have an English sign-up form.
 

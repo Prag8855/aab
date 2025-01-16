@@ -92,7 +92,7 @@
 /out/feather-private                          "https://feather-insurance.com/private-health-insurance?utm_source=allaboutberlin";
 /out/feather-private-estimate                 "https://feather-insurance.com/private-health-insurance?utm_source=allaboutberlin#price-estimate";
 /out/feather-rechtsschutz                     "https://feather-insurance.com/legal-insurance?utm_source=allaboutberlin";
-/out/feather-students                         "https://signuptk.de/students?source=allaboutberlin";
+/out/feather-tk                               "https://feather-insurance.com/en/public-health-insurance/tk?utm_source=allaboutberlin";
 /out/finanzamt-finder                         "https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/GemFa/finanzamtsuche_node.html";
 /out/finom                                    "https://finomgermany.pxf.io/R5DMBX";
 /out/fintiba                                  "https://partner.fintiba.com/allaboutberlin";
@@ -168,7 +168,6 @@
 /out/revolut-business                         "https://revolutbusiness.ngih.net/JrvMV2";
 /out/salary-tax-calculator                    "/calculators/tax-calculator";
 /out/sevdesk                                  "https://www.awin1.com/awclick.php?gid=361518&mid=15944&awinaffid=559395&linkid=2944081&clickref=";
-/out/signup-tk                                "https://feather-insurance.com/public-health-insurance/tk?utm_source=allaboutberlin";
 /out/sixt                                     "https://www.awin1.com/awclick.php?gid=393141&mid=14761&awinaffid=559395&linkid=2480872&clickref=";
 /out/smart-coop                               "https://smartde.coop/home-english-2/";
 /out/smartments                               "https://www.awin1.com/awclick.php?gid=368887&mid=16928&awinaffid=559395&linkid=2444483&clickref=";
@@ -193,8 +192,6 @@
 /out/taxback                                  "https://www.taxback.com/en/germany/?utm_ref=allaboutberlin";
 /out/taxfix                                   "https://imp.i313392.net/KjBXWx";
 /out/taxid-form                               "https://www.formulare-bfinv.de/ffw/action/invoke.do?id=010250";
-/out/tk-calc                                  "/out/signup-tk";
-/out/tk-calc-students                         "/out/feather-students";
 /out/tomorrow                                 "https://www.financeads.net/tc.php?t=28713C313862738T";
 /out/uniplaces                                "https://www.uniplaces.com/?mtm_campaign=affiliate&mtm_source=all%20about%20berlin&mtm_medium=all%20about%20berlin";
 /out/verivox-cellphone                        "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=559395&linkid=2482508&clickref=";
@@ -223,6 +220,7 @@
 /out/coya-home                                "/out/feather-hausrat";
 /out/coya-pethealth                           "/out/getsafe-pethealth";
 /out/debitoor                                 "https://debitoor.com/?utm_source=allaboutberlin";
+/out/feather-students                         "/out/feather-tk";
 /out/fromatob                                 "https://www.fromatob.com/en-GB";
 /out/gehalt-salaries                          "https://www.gehalt.de/";
 /out/hkk-calc                                 "https://www.hkk.de/english-information";
@@ -240,7 +238,9 @@
 /out/popsure-aok                              "/out/feather-aok";
 /out/popsure-expats                           "/out/feather-expats";
 /out/popsure-haftpflicht                      "/out/feather-haftpflicht";
-/out/popsure-students                         "/out/feather-students";
+/out/popsure-students                         "/out/feather-tk";
+/out/signup-tk                                "/out/feather-tk";
+/out/tk-calc-students                         "/out/feather-tk";
 /out/transferwise                             "/out/wise";
 /out/transferwise-borderless                  "/out/wise-account";
 /out/wenigermiete                             "/out/conny";
