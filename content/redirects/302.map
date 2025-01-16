@@ -240,6 +240,7 @@
 /out/popsure-haftpflicht                      "/out/feather-haftpflicht";
 /out/popsure-students                         "/out/feather-tk";
 /out/signup-tk                                "/out/feather-tk";
+/out/tk-calc                                  "/out/feather-tk";
 /out/tk-calc-students                         "/out/feather-tk";
 /out/transferwise                             "/out/wise";
 /out/transferwise-borderless                  "/out/wise-account";
